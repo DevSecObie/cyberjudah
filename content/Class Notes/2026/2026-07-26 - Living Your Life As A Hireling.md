@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Living Your Life As A Hireling"
 date: 2026-07-26
 class: IUIC in the ClassRoom
@@ -488,4 +488,3 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-26 - Living Your Life As A Hireling|full session]]
-

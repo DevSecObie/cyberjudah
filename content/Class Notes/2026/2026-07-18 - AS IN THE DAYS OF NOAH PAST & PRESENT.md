@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AS IN THE DAYS OF NOAH: PAST & PRESENT"
 date: 2026-07-18
 class: IUIC in the ClassRoom
@@ -410,4 +410,3 @@ So with that, all praises. 12 tribes worldwide. 12 tribes worldwide. 12 tribes w
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-18 - AS IN THE DAYS OF NOAH PAST & PRESENT|full session]]
-

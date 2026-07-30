@@ -161,10 +161,8 @@ blockquote {
   background: color-mix(in srgb, var(--light) 88%, var(--highlight));
 }
 
-.transclude > .transclude-src {
-  font-size: 0.82rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+.transclude-src {
+  display: none !important;
 }
 
 hr {

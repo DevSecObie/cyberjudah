@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Inevitability of Obsolescence & Agony of Defeat"
 date: 2026-07-18
 class: IUIC in the ClassRoom
@@ -331,4 +331,3 @@ After the closing, the stream catches a fragment of the next segment's audio bef
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-18 - The Inevitability of Obsolescence & Agony of Defeat (5HhDt1m5mGc)|full session]]
-

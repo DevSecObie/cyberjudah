@@ -1,4 +1,4 @@
-﻿---
+---
 title: CyberJudah Study Bible
 description: A linked KJV Study Bible with Apocrypha, topical references, and verbatim class notes.
 aliases:
@@ -41,4 +41,3 @@ KJV Study Bible built from the IUIC "4 Chapters a Day" sessions.
 
 The Bible text is the public-domain King James Version. Class notes are provided
 for study, commentary, and scripture research.
-

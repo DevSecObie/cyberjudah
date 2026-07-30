@@ -1,4 +1,4 @@
-﻿---
+---
 title: "MAKING THE GREAT RED DRAGON'S 8TH HEAD 'GREAT AGAIN'"
 date: 2026-07-25
 class: IUIC in the ClassRoom
@@ -270,4 +270,3 @@ Bishop Nathaniel's class follows this one.
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-25 - MAKING THE GREAT RED DRAGON'S 8TH HEAD GREAT AGAIN|full session]]
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "WOE TO AMERIKKA"
 date: 2026-07-04
 class: IUIC in the ClassRoom
@@ -442,4 +442,3 @@ Closing song: "Mama misfit, I come with scripts, quick moves. About to drop bomb
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-04 - WOE TO AMERIKKA|full session]]
-

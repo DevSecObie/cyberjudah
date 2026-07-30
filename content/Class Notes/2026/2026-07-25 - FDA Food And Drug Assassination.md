@@ -1,4 +1,4 @@
-﻿---
+---
 title: "FDA: Food And Drug Assassination"
 date: 2026-07-25
 class: IUIC in the ClassRoom
@@ -351,4 +351,3 @@ Bishop Yahawashi's class follows this one.
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-25 - FDA Food And Drug Assassination|full session]]
-

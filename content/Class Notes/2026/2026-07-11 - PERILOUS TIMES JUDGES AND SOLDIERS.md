@@ -1,4 +1,4 @@
-﻿---
+---
 title: "PERILOUS TIMES: JUDGES AND SOLDIERS"
 date: 2026-07-11
 class: IUIC in the ClassRoom
@@ -468,4 +468,3 @@ We can't stray from the mission. We can't stray from the protocol. We got to be 
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-11 - PERILOUS TIMES JUDGES AND SOLDIERS|full session]]
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "RAISING UP THE TABERNACLE OF DAVID THAT FELL"
 date: 2026-07-12
 class: IUIC in the ClassRoom
@@ -594,4 +594,3 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-12 - RAISING UP THE TABERNACLE OF DAVID THAT FELL|full session]]
-

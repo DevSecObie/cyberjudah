@@ -1,4 +1,4 @@
-﻿---
+---
 title: "KNOW YOUR ENEMY: GOD'S FOES & OURS"
 date: 2026-07-04
 class: IUIC in the ClassRoom
@@ -389,4 +389,3 @@ Referenced in class: Captain Gideon's class from that morning on the black towns
 ---
 
 [[Class Notes Index]] | Transcript: [[2026-07-04 - KNOW YOUR ENEMY GOD'S FOES & OURS|full session]]
-

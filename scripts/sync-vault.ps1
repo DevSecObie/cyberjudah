@@ -5,6 +5,7 @@ param(
 $ErrorActionPreference = "Stop"
 $websiteRoot = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path
 $contentRoot = Join-Path $websiteRoot "content"
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 
 if ((Split-Path $websiteRoot -Leaf) -ne "Website") {
   throw "Safety check failed: expected the project folder to be named Website."
@@ -56,7 +57,11 @@ function Copy-MarkdownTree {
         $text = $text -replace '\s+[^\x00-\x7F]{1,3}\s+', ' | '
       }
 
-      Set-Content -LiteralPath $destination -Value $text -Encoding UTF8
+      if ($Name -eq "Class Notes") {
+        [System.IO.File]::WriteAllText($destination, $text, $utf8NoBom)
+      } else {
+        Set-Content -LiteralPath $destination -Value $text -Encoding UTF8
+      }
     }
 }
 
@@ -99,8 +104,11 @@ foreach ($year in ($classNoteEntries.Year | Sort-Object -Descending -Unique)) {
     $indexLines += "- [[$($entry.Link)|$($entry.Title)]] ($($entry.Date))"
   }
 }
-Set-Content -LiteralPath (Join-Path $classNotesRoot "Class Notes Index.md") `
-  -Value ($indexLines -join "`n") -Encoding UTF8
+[System.IO.File]::WriteAllText(
+  (Join-Path $classNotesRoot "Class Notes Index.md"),
+  ($indexLines -join "`n"),
+  $utf8NoBom
+)
 
 $homepageContent = Get-Content -LiteralPath (Join-Path $VaultRoot "Home.md") -Raw -Encoding UTF8
 $homepageContent = $homepageContent -replace '(?m)^# Home\s*', ''
@@ -131,7 +139,10 @@ The Bible text is the public-domain King James Version. Class notes are provided
 for study, commentary, and scripture research.
 "@
 
-Set-Content -LiteralPath (Join-Path $contentRoot "index.md") `
-  -Value ($frontmatter + $homepageContent.Trim() + "`n") -Encoding UTF8
+[System.IO.File]::WriteAllText(
+  (Join-Path $contentRoot "index.md"),
+  ($frontmatter + $homepageContent.Trim() + "`n"),
+  $utf8NoBom
+)
 
 Write-Host "Published content refreshed from $VaultRoot"
