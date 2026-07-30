@@ -1,0 +1,153 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: CyberJudah Study Bible
+  pageTitleSuffix: " · CyberJudah"
+  enableSPA: true
+  enablePopovers: true
+  analytics:
+    provider: null
+  locale: en-US
+  baseUrl: devsecobie.github.io/cyberjudah
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+    - "**/_tools/**"
+    - "**/_pdf/**"
+    - "**/*.pdf"
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Libre Baskerville
+      body: Source Sans Pro
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#fbf7ed"
+        lightgray: "#e8dfcc"
+        gray: "#9b8c72"
+        darkgray: "#4d4336"
+        dark: "#211b14"
+        secondary: "#7a3e18"
+        tertiary: "#a77524"
+        highlight: rgba(167, 117, 36, 0.16)
+        textHighlight: "#f5d76e88"
+      darkMode:
+        light: "#17130f"
+        lightgray: "#30281f"
+        gray: "#776a57"
+        darkgray: "#d3c4ad"
+        dark: "#f3eadb"
+        secondary: "#dda15e"
+        tertiary: "#e9c46a"
+        highlight: rgba(221, 161, 94, 0.16)
+        textHighlight: "#a7752466"
+plugins:
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    options:
+      defaultDateType: modified
+      priority: [frontmatter, git, filesystem]
+    order: 10
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme: { light: github-light, dark: github-dark }
+      keepBackground: false
+    order: 20
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 30
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout: { position: right, priority: 30 }
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options: { markdownLinkResolution: shortest }
+    order: 60
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
+  - source: "@quartz-community/remove-draft"
+    enabled: true
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options: { enableSiteMap: true, enableRSS: true }
+  - source: "@quartz-community/favicon"
+    enabled: true
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
+  - source: "@quartz-community/explorer"
+    enabled: true
+    layout: { position: left, priority: 50 }
+  - source: "@quartz-community/graph"
+    enabled: true
+    layout: { position: right, priority: 10 }
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions: { grow: true }
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout: { position: right, priority: 50 }
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout: { position: beforeBody, priority: 10 }
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout: { position: beforeBody, priority: 20 }
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout: { position: left, priority: 10 }
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout: { position: left, priority: 30, group: toolbar }
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout: { position: left, priority: 35, group: toolbar }
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout: { position: beforeBody, priority: 5 }
+  - source: "@quartz-community/footer"
+    enabled: true
+    options:
+      links:
+        Source videos: https://www.youtube.com/@IUICintheClassRoom/streams
+    layout: { position: footer, priority: 50 }
+  - source: "@quartz-community/spacer"
+    enabled: true
+    options: {}
+    order: 25
+    layout: { position: left, priority: 25, display: mobile-only }
+layout:
+  groups:
+    toolbar: { priority: 35, direction: row, gap: 0.5rem }
+  byPageType:
+    "404":
+      positions: { beforeBody: [], left: [], right: [] }
+    content: {}
+    folder:
+      exclude: [reader-mode]
+      positions: { right: [] }
+    tag:
+      exclude: [reader-mode]
+      positions: { right: [] }

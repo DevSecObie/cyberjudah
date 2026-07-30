@@ -1,0 +1,66 @@
+﻿← [[Luke 15]] · [[Book of Luke|Luke]] · [[Luke 17]] →
+
+# Luke 16
+
+1 And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods. ^v1
+
+2 And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward. ^v2
+
+3 Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed. ^v3
+
+4 I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses. ^v4
+
+5 So he called every one of his lord’s debtors unto him, and said unto the first, How much owest thou unto my lord? ^v5
+
+6 And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty. ^v6
+
+7 Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore. ^v7
+
+8 And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light. ^v8
+
+9 And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations. ^v9
+
+10 He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much. ^v10
+
+11 If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? ^v11
+
+12 And if ye have not been faithful in that which is another man’s, who shall give you that which is your own? ^v12
+
+13 No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. ^v13
+
+14 And the Pharisees also, who were covetous, heard all these things: and they derided him. ^v14
+
+15 And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God. ^v15
+
+16 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it. ^v16
+
+17 And it is easier for heaven and earth to pass, than one tittle of the law to fail. ^v17
+
+18 Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery. ^v18
+
+19 There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: ^v19
+
+20 And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, ^v20
+
+21 And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. ^v21
+
+22 And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; ^v22
+
+23 And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. ^v23
+
+24 And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. ^v24
+
+25 But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented. ^v25
+
+26 And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence. ^v26
+
+27 Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house: ^v27
+
+28 For I have five brethren; that he may testify unto them, lest they also come into this place of torment. ^v28
+
+29 Abraham saith unto him, They have Moses and the prophets; let them hear them. ^v29
+
+30 And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent. ^v30
+
+31 And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead. ^v31
+

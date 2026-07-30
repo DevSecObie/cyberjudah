@@ -1,0 +1,48 @@
+﻿← [[2 Samuel 20]] · [[Book of 2 Samuel|2 Samuel]] · [[2 Samuel 22]] →
+
+# 2 Samuel 21
+
+1 Then there was a famine in the days of David three years, year after year; and David enquired of the Lord. And the Lord answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. ^v1
+
+2 And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) ^v2
+
+3 Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the Lord? ^v3
+
+4 And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you. ^v4
+
+5 And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel, ^v5
+
+6 Let seven men of his sons be delivered unto us, and we will hang them up unto the Lord in Gibeah of Saul, whom the Lord did choose. And the king said, I will give them. ^v6
+
+7 But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the Lord’s oath that was between them, between David and Jonathan the son of Saul. ^v7
+
+8 But the king took the two sons of Rizpah the daughter of Aiah, whom she bare unto Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite: ^v8
+
+9 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the Lord: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest. ^v9
+
+10 And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night. ^v10
+
+11 And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done. ^v11
+
+12 And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabesh–gilead, which had stolen them from the street of Beth–shan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa: ^v12
+
+13 And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged. ^v13
+
+14 And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land. ^v14
+
+15 Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint. ^v15
+
+16 And Ishbi–benob, which was of the sons of the giant, the weight of whose spear weighed three hundred shekels of brass in weight, he being girded with a new sword, thought to have slain David. ^v16
+
+17 But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel. ^v17
+
+18 And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which was of the sons of the giant. ^v18
+
+19 And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaare–oregim, a Beth–lehemite, slew the brother of Goliath the Gittite, the staff of whose spear was like a weaver’s beam. ^v19
+
+20 And there was yet a battle in Gath, where was a man of great stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant. ^v20
+
+21 And when he defied Israel, Jonathan the son of Shimea the brother of David slew him. ^v21
+
+22 These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants. ^v22
+

@@ -1,0 +1,52 @@
+﻿← [[1 Maccabees 15]] · [[Book of 1 Maccabees|1 Maccabees]] · [[2 Maccabees 1]] →
+
+# 1 Maccabees 16
+
+1 Then came up John from Gazera, and told Simon his father what Cendebeus had done. ^v1
+
+2 Wherefore Simon called his two eldest sons, Judas and John, and said unto them, I, and my brethren, and my father’s house, have ever from my youth unto this day fought against the enemies of Israel; and things have prospered so well in our hands, that we have delivered Israel oftentimes. ^v2
+
+3 But now I am old, and ye, by God’s mercy, are of a sufficient age: be ye instead of me and my brother, and go and fight for our nation, and the help from heaven be with you. ^v3
+
+4 So he chose out of the country twenty thousand men of war with horsemen, who went out against Cendebeus, and rested that night at Modin. ^v4
+
+5 And when as they rose in the morning, and went into the plain, behold, a mighty great host both of footmen and horsemen came against them: howbeit there was a water brook betwixt them. ^v5
+
+6 So he and his people pitched over against them: and when he saw that the people were afraid to go over the water brook, he went first over himself, and then the men seeing him passed through after him. ^v6
+
+7 That done, he divided his men, and set the horsemen in the midst of the footmen: for the enemies’ horsemen were very many. ^v7
+
+8 Then sounded they with the holy trumpets: whereupon Cendebeus and his host were put to flight, so that many of them were slain, and the remnant gat them to the strong hold. ^v8
+
+9 At that time was Judas John’s brother wounded; but John still followed after them, until he came to Cedron, which Cendebeus had built. ^v9
+
+10 So they fled even unto the towers in the fields of Azotus; wherefore he burned it with fire: so that there were slain of them about two thousand men. Afterward he returned into the land of Judea in peace. ^v10
+
+11 Moreover in the plain of Jericho was Ptolemeus the son of Abubus made captain, and he had abundance of silver and gold: ^v11
+
+12 For he was the high priest’s son in law. ^v12
+
+13 Wherefore his heart being lifted up, he thought to get the country to himself, and thereupon consulted deceitfully against Simon and his sons to destroy them. ^v13
+
+14 Now Simon was visiting the cities that were in the country, and taking care for the good ordering of them; at which time he came down himself to Jericho with his sons, Mattathias and Judas, in the hundred threescore and seventeenth year, in the eleventh month, called Sabat: ^v14
+
+15 Where the son of Abubus receiving them deceitfully into a little hold, called Docus, which he had built, made them a great banquet: howbeit he had hid men there. ^v15
+
+16 So when Simon and his sons had drunk largely, Ptolemee and his men rose up, and took their weapons, and came upon Simon into the banqueting place, and slew him, and his two sons, and certain of his servants. ^v16
+
+17 In which doing he committed a great treachery, and recompensed evil for good. ^v17
+
+18 Then Ptolemee wrote these things, and sent to the king, that he should send him an host to aid him, and he would deliver him the country and cities. ^v18
+
+19 He sent others also to Gazera to kill John: and unto the tribunes he sent letters to come unto him, that he might give them silver, and gold, and rewards. ^v19
+
+20 And others he sent to take Jerusalem, and the mountain of the temple. ^v20
+
+21 Now one had run afore to Gazera and told John that his father and brethren were slain, and, quoth he, Ptolemee hath sent to slay thee also. ^v21
+
+22 Hereof when he heard, he was sore astonished: so he laid hands on them that were come to destroy him, and slew them; for he knew that they sought to make him away. ^v22
+
+23 As concerning the rest of the acts of John, and his wars, and worthy deeds which he did, and the building of the walls which he made, and his doings, ^v23
+
+24 Behold, these are written in the chronicles of his priesthood, from the time he was made high priest after his father. ^v24
+
