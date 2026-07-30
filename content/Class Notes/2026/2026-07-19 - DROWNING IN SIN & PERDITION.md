@@ -6,7 +6,7 @@ class: IUIC in the ClassRoom
 
 # DROWNING IN SIN & PERDITION
 <figure class="class-hero">
-  <img src="/cyberjudah/static/class-images/ND_RbWngH9I.jpg" alt="Class artwork">
+  <img src="/static/class-images/class-nd_rbwngh9i.jpg" alt="Class artwork">
 </figure>
 
 

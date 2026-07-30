@@ -66,10 +66,11 @@ function Copy-MarkdownTree {
         $text = $text -replace 'https?://(?:www\.)?(?:youtube\.com|youtu\.be)/\S+', ''
         $text = $text -replace '\s+[^\x00-\x7F]{1,3}\s+', ' | '
         if ($null -ne $classVideoId) {
+          $classImageFile = "class-$($classVideoId.ToLowerInvariant()).jpg"
           $hero = @"
 
 <figure class="class-hero">
-  <img src="/cyberjudah/static/class-images/$classVideoId.jpg" alt="Class artwork">
+  <img src="/static/class-images/$classImageFile" alt="Class artwork">
 </figure>
 "@
           $text = [regex]::Replace($text, '(?m)^(# .+)$', "`$1$hero", 1)
