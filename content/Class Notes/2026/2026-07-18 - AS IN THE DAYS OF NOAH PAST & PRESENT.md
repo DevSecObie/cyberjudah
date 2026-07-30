@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # AS IN THE DAYS OF NOAH: PAST & PRESENT
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/nwLjEGhd2oA.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

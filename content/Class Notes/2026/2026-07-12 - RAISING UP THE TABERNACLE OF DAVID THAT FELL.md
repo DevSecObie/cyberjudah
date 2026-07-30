@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # Raising Up the Tabernacle of David That Fell
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/o5Xl6CIPOgk.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

@@ -42,6 +42,16 @@ function Copy-MarkdownTree {
       New-Item -ItemType Directory -Force -Path (Split-Path $destination) | Out-Null
 
       $text = Get-Content -LiteralPath $_.FullName -Raw -Encoding UTF8
+      $classVideoId = $null
+      if ($Name -eq "Class Notes") {
+        $videoMatch = [regex]::Match(
+          $text,
+          '(?m)^video:\s*https?://(?:www\.)?(?:youtube\.com/watch\?v=|youtu\.be/)([A-Za-z0-9_-]{11})'
+        )
+        if ($videoMatch.Success) {
+          $classVideoId = $videoMatch.Groups[1].Value
+        }
+      }
       $text = $text -replace '(?m)^Printable book: \[\[[^\r\n]+\r?\n?', ''
       $text = $text -replace '\s+A[^\x00-\x7F]\s+', ' | '
       $text = $text -replace '\[\[Home\]\]', '[Home](/)'
@@ -55,6 +65,15 @@ function Copy-MarkdownTree {
         $text = $text -replace '(?m)^.*(?:Source|Original) (?:video|recording|transcript):.*\r?\n?', ''
         $text = $text -replace 'https?://(?:www\.)?(?:youtube\.com|youtu\.be)/\S+', ''
         $text = $text -replace '\s+[^\x00-\x7F]{1,3}\s+', ' | '
+        if ($null -ne $classVideoId) {
+          $hero = @"
+
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/$classVideoId.jpg" alt="Class artwork">
+</figure>
+"@
+          $text = [regex]::Replace($text, '(?m)^(# .+)$', "`$1$hero", 1)
+        }
       }
 
       if ($Name -eq "Class Notes") {

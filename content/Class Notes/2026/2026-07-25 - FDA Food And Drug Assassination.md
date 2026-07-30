@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # FDA: Food And Drug Assassination
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/hEWhwtZEqxk.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

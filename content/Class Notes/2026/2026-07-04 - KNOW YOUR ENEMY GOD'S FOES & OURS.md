@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # KNOW YOUR ENEMY: GOD'S FOES & OURS
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/XLxd9su1ZIk.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

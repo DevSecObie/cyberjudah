@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # PERILOUS TIMES: JUDGES AND SOLDIERS
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/lLFXQr1FYm0.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

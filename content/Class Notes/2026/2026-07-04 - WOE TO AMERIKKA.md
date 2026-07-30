@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # WOE TO AMERIKKA
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/uINOczaGz48.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

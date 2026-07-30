@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # The Inevitability of Obsolescence & Agony of Defeat
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/5HhDt1m5mGc.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

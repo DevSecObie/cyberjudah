@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # Character & Integrity: The Hidden Strength Behind Wisdom
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/G8e9rhvB-W0.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction

@@ -5,6 +5,9 @@ class: IUIC in the ClassRoom
 ---
 
 # MAKING THE GREAT RED DRAGON'S 8TH HEAD "GREAT AGAIN"
+<figure class="class-hero">
+  <img src="/cyberjudah/static/class-images/Oas2Tg98VMA.jpg" alt="Class artwork">
+</figure>
 
 
 ## Introduction
