@@ -4,11 +4,9 @@ date: 2026-07-25
 class: IUIC in the ClassRoom
 ---
 
-# MAKING THE GREAT RED DRAGON'S 8TH HEAD "GREAT AGAIN"
 <figure class="class-hero">
   <img src="/static/class-images/class-oas2tg98vma.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

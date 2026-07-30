@@ -4,11 +4,9 @@ date: 2026-07-18
 class: IUIC in the ClassRoom
 ---
 
-# AS IN THE DAYS OF NOAH: PAST & PRESENT
 <figure class="class-hero">
   <img src="/static/class-images/class-nwljeghd2oa.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

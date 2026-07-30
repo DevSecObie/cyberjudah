@@ -4,11 +4,9 @@ date: 2026-07-11
 class: IUIC in the ClassRoom
 ---
 
-# PERILOUS TIMES: JUDGES AND SOLDIERS
 <figure class="class-hero">
   <img src="/static/class-images/class-llfxqr1fym0.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

@@ -4,11 +4,9 @@ date: 2026-07-12
 class: IUIC in the ClassRoom
 ---
 
-# Raising Up the Tabernacle of David That Fell
 <figure class="class-hero">
   <img src="/static/class-images/class-o5xl6cipogk.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

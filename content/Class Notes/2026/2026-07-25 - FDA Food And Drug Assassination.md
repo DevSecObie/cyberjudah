@@ -4,11 +4,9 @@ date: 2026-07-25
 class: IUIC in the ClassRoom
 ---
 
-# FDA: Food And Drug Assassination
 <figure class="class-hero">
   <img src="/static/class-images/class-hewhwtzeqxk.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

@@ -4,11 +4,9 @@ date: 2026-07-04
 class: IUIC in the ClassRoom
 ---
 
-# KNOW YOUR ENEMY: GOD'S FOES & OURS
 <figure class="class-hero">
   <img src="/static/class-images/class-xlxd9su1zik.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

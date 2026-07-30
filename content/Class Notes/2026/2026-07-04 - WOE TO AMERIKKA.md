@@ -4,11 +4,9 @@ date: 2026-07-04
 class: IUIC in the ClassRoom
 ---
 
-# WOE TO AMERIKKA
 <figure class="class-hero">
   <img src="/static/class-images/class-uinoczagz48.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

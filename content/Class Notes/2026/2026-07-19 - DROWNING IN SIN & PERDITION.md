@@ -4,11 +4,9 @@ date: 2026-07-19
 class: IUIC in the ClassRoom
 ---
 
-# DROWNING IN SIN & PERDITION
 <figure class="class-hero">
   <img src="/static/class-images/class-nd_rbwngh9i.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

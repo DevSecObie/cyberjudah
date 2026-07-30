@@ -4,11 +4,9 @@ date: 2026-07-18
 class: IUIC in the ClassRoom
 ---
 
-# The Inevitability of Obsolescence & Agony of Defeat
 <figure class="class-hero">
   <img src="/static/class-images/class-5hhdt1m5mgc.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

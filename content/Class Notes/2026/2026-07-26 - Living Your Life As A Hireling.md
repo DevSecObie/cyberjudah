@@ -4,11 +4,9 @@ date: 2026-07-26
 class: IUIC in the ClassRoom
 ---
 
-# Living Your Life As A Hireling
 <figure class="class-hero">
   <img src="/static/class-images/class-aetwteuliy4.jpg" alt="Class artwork">
 </figure>
-
 
 ## Introduction
 

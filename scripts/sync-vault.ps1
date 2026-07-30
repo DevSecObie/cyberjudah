@@ -73,7 +73,7 @@ function Copy-MarkdownTree {
   <img src="/static/class-images/$classImageFile" alt="Class artwork">
 </figure>
 "@
-          $text = [regex]::Replace($text, '(?m)^(# .+)$', "`$1$hero", 1)
+          $text = [regex]::Replace($text, '(?m)^# .+\r?\n?', $hero.TrimStart(), 1)
         }
       }
 
