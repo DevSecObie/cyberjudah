@@ -9,8 +9,7 @@ aliases:
 
 > [!note] About this project
 > An independent educational study resource built from the KJV with Apocrypha
-> and publicly available IUIC in the ClassRoom teachings. This site is not
-> affiliated with or endorsed by IUIC or YouTube.
+> and verbatim class notes. This site is not affiliated with or endorsed by IUIC.
 KJV Study Bible built from the IUIC "4 Chapters a Day" sessions.
 
 ## Study notes
@@ -38,13 +37,8 @@ KJV Study Bible built from the IUIC "4 Chapters a Day" sessions.
 - [[_Index|Encyclopedia]] — topical entries built from the notes
 
 
-## Transcript recovery
-
-- [[Missing Transcripts]] - classes awaiting audio transcription
-
-## Copyright and source notice
+## Copyright notice
 
 The Bible text is the public-domain King James Version. Class notes are provided
-for study and commentary; the original videos remain the authoritative source
-and are linked from each note.
+for study, commentary, and scripture research.
 

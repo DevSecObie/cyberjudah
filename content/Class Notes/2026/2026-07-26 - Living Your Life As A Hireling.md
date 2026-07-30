@@ -2,12 +2,10 @@
 title: "Living Your Life As A Hireling"
 date: 2026-07-26
 class: IUIC in the ClassRoom
-video: https://www.youtube.com/watch?v=AEtwteuLiy4
 ---
 
 # Living Your Life As A Hireling
 
-[Watch on YouTube](https://www.youtube.com/watch?v=AEtwteuLiy4) | 2026-07-26 | 3:23:50
 
 ## Introduction
 
@@ -17,7 +15,6 @@ Today is going to be a class of examination, self-examination. Many people may a
 
 ## In The News
 
-Video: Captain Mattathias and Captain Gedaliah did a sit down with Pastor Fred Price Jr., the son of the famous Fred Price Sr. out in California. Fred Price Jr. brought three alleged pastors, scholars, one was even a doctor of theology. Captain Mattathias' statement from the clip: "I do want to make sure that everybody that's listening to the sound of my voice understands that if you believe this or not, this has nothing to do with your salvation. How do we get the kingdom of heaven? By keeping God's commandments. That's what it's all about. When we go outside of these doors, we see hookers. We see drug dealers, gang bangers. We see all of these killings and all this stuff on the news. How are we going to clean our people up? By arguing about the Trinity or by teaching God's commandments? Let's really think about what we're doing. God gave us the platform to reach millions. How about we do it and teach God's commandments. This is also a platform to speak about the evil with Nolan Wells, the evil with Kendrick Johnson, the evil with Rasheen Carter. How come the black Christian church, where's your voice with the atrocities that are being done to our people? And remember, these people in Ocean Springs, Mississippi, they go to the same churches as you."
 
 - And guess what? Them pastors went right back to the Trinity. They don't give a damn about our people. These pastors are hirelings.
 
@@ -26,14 +23,12 @@ Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy 
 - So you see what they doing? Trying to show she's biased now. You can't make this stuff up.
 - That shows you how the nations are unified. All those people, they don't even know each other, but they will all come to the defense of white supremacy. We got to learn that.
 
-Video: news clip on the drowning death of a Rogers, Arkansas police officer, Fred Marsh, who died in the Elk River hours after proposing to his fiancee; the fiancee's mother, Cheryl Padgett, was interviewed: "He proposed to my daughter on the day he passed away. I lost my only son four years ago to a fatal accident in my hometown. I made a connection and a bond, and I called him son and he called me mama. He saw the love of his life in distress, and he went in there to help her. And he gave his life helping someone else."
 
 - Brother, let me help you out. Don't fall for white women tears. In fact, I'll broaden it: don't fall for women's tears. But especially the white woman.
 - Like last week it said the four W's: you got to avoid water, woods, whiskey, and white people. Teach your kids to avoid the four W's.
 - Listen to how her speech is so scripted, and she wasn't even there. She was not there, but they got her speaking on behalf of all this.
 - Notice the other cops that were there: none of them jumped in. I wonder if any of the other cops going to come and speak on behalf of the brother. That ain't happening. You can imagine the stuff that he went through, just being the only spot in that whole system.
 
-Video: Austin, Texas. Austin police killed a 17-year-old black kid on a playground over a water bottle. From the clips: "Officers made contact with the individual and attempted to gain compliance by giving verbal commands. During that encounter, the individual lifted his shirt and reached for his waistband. Officers did not locate a firearm at the scene. It was later determined that a water bottle was in his waistband, and the initial 911 call originated from the deceased's own phone. On July 24th, APD officer Jake Pitcher and two other cops fired over 20 rounds at a black teen in an Austin park. Twenty seconds passed between Pitcher opening his car door and the three cops shooting the teen dead. All they found was a water bottle. Police chief Lisa Davis blamed the kid for his own death, disgustingly calling the shooting suicide by police. Only in a deeply racist system could these three cops act like a hit squad, showing up to a playground and killing a kid over a phone call."
 
 - They found a water bottle, plus the fact he was black and terrifying. That's basically what they're saying. All you got to do is be black and that's a threat. The white man had a full rifle in a park pointing it at the helicopter and every damn thing else, and they use a bean bag to take him down.
 
@@ -65,11 +60,8 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - "By the 18th century there were many descriptions in travel and missionary accounts of the lost tribes of Israel, Jews or descendants of Jews living along the western coast of Africa. Perhaps the most famous of these is the one contained in Olaudah Equiano's celebrated biography, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa the African (1789). A Scottish explorer, Mungo Park (1771-1806), described what he called Arabic-speaking Jews in West Africa, on the left bank of the river Niger, and remarked that there were said to be many Jews near Timbuktu. The community in Timbuktu is well attested, and its probable descendants, now Muslims, still proudly invoke the Jewish origins of their group."
 - They got many of the slaves from West Africa, the coast. Those aren't the only Israelites, but I wanted to show you that we know that we're the Israelites. This is why we don't have time to argue with Christians who want to talk about the triune divinity of God, the Trinity garbage, when we know exactly what we're talking about biblically and historically.
 
-Video: Malcolm X, verbatim from the clip: "These leaders that they call leaders: this included Lena Horne, this included Dick Gregory, and this included comedians, comics, trumpet players, baseball players. Show me in the white community where a comedian is a white leader. Show me in the white community where a singer is a white leader, or a dancer, or a trumpet player is a white leader. These aren't leaders. These are puppets and clowns that have been set up over the black community by the white community, and have been made celebrities, and usually say exactly what they know the white man wants to hear. And it is an honor actually that they endorsed Dr. Martin Luther King and were against the Honorable Elijah Muhammad. That's actually an honor."
 
-Video: Memphis Bleek: "We don't give a [ __ ] about that activism." YK the Brand: "And that right there is exactly why you don't make celebrities, actors, actresses, rappers into leaders and revolutionaries, cuz they're not. And this is also why you don't hear the majority of them, particularly those with major money in the game, speaking on issues affecting the black community. See, they don't give a [ __ ]. And that's why it's important for us not to get confused and make sure that we keep them in their proper category. In other words: sing, dance, rap, and act. That's your placement."
 
-Video: everybody got so excited when Jamie Foxx was wearing this shirt, Jesus is a black man; The Shade Room, 22,000 likes, everybody was happy, Jamie Foxx realizes Christ is black. Next post: "Meet Jamie Foxx's Australian girlfriend amid lowkey relationship."
 
 - There's an expression, well, I like to say it: marriage is political, and it generally reveals who your allegiance is to.
 

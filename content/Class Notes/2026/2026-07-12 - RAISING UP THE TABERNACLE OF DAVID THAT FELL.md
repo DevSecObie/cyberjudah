@@ -2,12 +2,10 @@
 title: "RAISING UP THE TABERNACLE OF DAVID THAT FELL"
 date: 2026-07-12
 class: IUIC in the ClassRoom
-video: https://www.youtube.com/watch?v=o5Xl6CIPOgk
 ---
 
 # Raising Up the Tabernacle of David That Fell
 
-[Watch on YouTube](https://www.youtube.com/watch?v=o5Xl6CIPOgk) | 2026-07-12 | 3:58:35
 
 ## Introduction
 
@@ -47,24 +45,19 @@ Nolan Wells, missing on Horn Island, Mississippi. His mother Christine Wesley's 
 - His mother is what they call Blasian, mixed with Chinese and black; if you look at him, you can see in his eyes he got a little bit of her.
 - This brother, his wife, and this young man went celebrating July 4th with a bunch of [ __ ]. That's not the black man or black woman's holiday.
 
-Video: young lady on whiteness protecting itself: "Because of the way whiteness protects itself, being the token black person in a group of white friends isn't just dangerous. It could potentially be deadly. And once you start seeing the pattern, you can't unsee it. Just like the cases of Tamla Horsford, the only black woman in an adult sleepover party in Georgia who was found dead the next morning, and Peter Spencer, the Jamaican immigrant who was shot nine times during a camping trip with a group of white people in Pennsylvania, or Terrence Woods Jr., who joined his 11 white colleagues in the woods of Idaho and is still missing. It's fair to ask where were these trusted friends during these black people's final moments. Whiteness doesn't actually have to sit down at a table and conspire on how to protect itself. It just reacts, automatic and impulsive. W. E. B. Du Bois talks about this in The Souls of White Folk, his 1920 essay that argues whiteness itself is propped up by violence, and that the discovery of personal whiteness functions like a religion. This entire conditioning is fed back to us through Hollywood: Get Out, where tokenism almost gets the main character killed; Seven Seconds, where a cop kills a black teenager and his fellow officer's first response is to protect one of their own. The pattern isn't in one villain. It's dozens of people choosing silence because loyalty to the system outweighs the cost of someone outside of it. It's why black parents should be very wary of situations that tokenize our kids; white kids aren't privy enough to the impulses of their own whiteness to keep our kids safe. It's my belief that every single one of those kids knows exactly what happened to him."
 
 - Now, this young lady, I like what she says, but when I see black women with yellow hair, I just get a little annoyed. But what she says, I'll give you one point for that.
 
-Video: white man's warning: "Black people, you have got to teach your kids, especially your kids that are hanging out with rich white kids. That is not good. This Nolan Wells situation never should have happened. My older son is half black; he got into a similar situation, fighting with a bunch of rich kids in the North Atlanta suburbs, and lucky for him he didn't wind up dead, he just wound up locked up for a while. We as parents have to do a better job in informing our children about who they should and shouldn't hang out with, because the color of your skin matters. White people will kill your children at the drop of a hat. That's just the way it is. Especially these entitled little rich white kids."
 
 - Now, this white guy thinks this is about class, rich whites opposed to poor blacks. It's not so much about that; it's about Esau and Jacob. I have to let Esau say it, cuz black people don't believe when other black people say it: oh, you're being racist. Okay, let the white man tell you that.
 
-Video: Kendrick Johnson's father asked, "Do you think race might be a factor?" His reply: "I don't want to believe that, but it's just so many things have happened." And he continues to say, oh, my son didn't see color.
 
 - Remember Kendrick Johnson: the brother that was murdered, allegedly; the white boy he was fighting, his father is part of the FBI and was involved in the cover up, allegedly.
 - And that is exactly why he's no longer with us: because y'all keep trying to play this integrated game. This will continue to happen until black people accept that you're different and they don't like us.
 
-Video: sister ("bonnet girl"): "How many more times do these boys have to die? The parents show you each and every time that they are the [ __ ] issue and nobody is speaking on it. Y'all are sacrificing y'all black boys cuz you're not raising them appropriately. They need to see color. How are you not going to see color when you're in America? These [ __ ] used to eat us. Y'all want to be accepted that bad? How is my black son not going to see color? You better see color. You're a black man. They will take your ass out of here in 2.45 seconds and we ain't going to be able to find you or do [ __ ] about it. When are we going to start having real conversations? This whole kumbaya cool [ __ ] is irritating me."
 
 - I like her. That was all right. Listen, you need some racial anger; it gets you done. You need anger sometimes. And that's from black Christians, literally.
 
-Video: sister with the head wrap: "My children are not allowed to have white friends. Now, we live in America; will you be in clubs with them, play on sports teams, march in a band with them? That's cool. You can be cordial. You can absolutely identify them as an associate of yours. But friends? Absolutely the [ __ ] not. Just like I have the same blood that my ancestors shed coursing through my veins, they too have that same blood coursing through their veins from their ancestors. Full-blooded white folks, they got demon blood, and y'all need to tell your children that they have demon blood. Stop trying to give into this false ideology that we are all one. We're not, never have been. I gave my son the analogy today when I told him about the fact that they just found Nolan Wells's body: you got to treat white people like pit bulls. You can love them, you can raise them, and they can act like they are your very best friend. But at some point in that pit bull's life, they are going to [ __ ] snap and they are going to turn on you. You cannot trust them. They have shown us every reason why you cannot trust them. Yurugus are not our [ __ ] friends. Light, peace, and progress to the spirit of Nolan Wells."
 
 - So she makes up for bonnet girl. She got the nice head wrap and all that.
 

@@ -19,30 +19,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Libre Baskerville
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Manrope
+      body: Inter
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#fbf7ed"
-        lightgray: "#e8dfcc"
-        gray: "#9b8c72"
-        darkgray: "#4d4336"
-        dark: "#211b14"
-        secondary: "#7a3e18"
-        tertiary: "#a77524"
-        highlight: rgba(167, 117, 36, 0.16)
-        textHighlight: "#f5d76e88"
+        light: "#f6f8fc"
+        lightgray: "#e4e9f3"
+        gray: "#8792a5"
+        darkgray: "#374151"
+        dark: "#111827"
+        secondary: "#6366f1"
+        tertiary: "#0891b2"
+        highlight: rgba(99, 102, 241, 0.12)
+        textHighlight: "#67e8f966"
       darkMode:
-        light: "#17130f"
-        lightgray: "#30281f"
-        gray: "#776a57"
-        darkgray: "#d3c4ad"
-        dark: "#f3eadb"
-        secondary: "#dda15e"
-        tertiary: "#e9c46a"
-        highlight: rgba(221, 161, 94, 0.16)
-        textHighlight: "#a7752466"
+        light: "#090d18"
+        lightgray: "#1b2336"
+        gray: "#6f7e96"
+        darkgray: "#cbd5e1"
+        dark: "#f8fafc"
+        secondary: "#818cf8"
+        tertiary: "#22d3ee"
+        highlight: rgba(129, 140, 248, 0.14)
+        textHighlight: "#22d3ee44"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -130,8 +130,7 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      links:
-        Source videos: https://www.youtube.com/@IUICintheClassRoom/streams
+      links: {}
     layout: { position: footer, priority: 50 }
   - source: "@quartz-community/spacer"
     enabled: true

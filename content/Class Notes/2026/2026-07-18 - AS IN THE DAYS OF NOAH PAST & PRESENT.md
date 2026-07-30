@@ -2,12 +2,10 @@
 title: "AS IN THE DAYS OF NOAH: PAST & PRESENT"
 date: 2026-07-18
 class: IUIC in the ClassRoom
-video: https://www.youtube.com/watch?v=nwLjEGhd2oA
 ---
 
 # AS IN THE DAYS OF NOAH: PAST & PRESENT
 
-[Watch on YouTube](https://www.youtube.com/watch?v=nwLjEGhd2oA) | 2026-07-18 | 2:31:53
 
 ## Introduction
 

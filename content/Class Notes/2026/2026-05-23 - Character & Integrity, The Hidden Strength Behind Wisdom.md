@@ -2,12 +2,10 @@
 title: "Character & Integrity: The Hidden Strength Behind Wisdom"
 date: 2026-05-23
 class: IUIC in the ClassRoom
-video: https://www.youtube.com/watch?v=G8e9rhvB-W0
 ---
 
 # Character & Integrity: The Hidden Strength Behind Wisdom
 
-[Watch on YouTube](https://www.youtube.com/watch?v=G8e9rhvB-W0) | 2026-05-23 | 56 min
 
 ## Introduction
 

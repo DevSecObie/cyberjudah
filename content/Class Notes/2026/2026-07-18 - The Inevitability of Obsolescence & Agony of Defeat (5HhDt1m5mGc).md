@@ -2,12 +2,10 @@
 title: "The Inevitability of Obsolescence & Agony of Defeat"
 date: 2026-07-18
 class: IUIC in the ClassRoom
-video: https://www.youtube.com/watch?v=5HhDt1m5mGc
 ---
 
 # The Inevitability of Obsolescence & Agony of Defeat
 
-[Watch on YouTube](https://www.youtube.com/watch?v=5HhDt1m5mGc) | 2026-07-18 | 1:34:58
 
 ## Introduction
 

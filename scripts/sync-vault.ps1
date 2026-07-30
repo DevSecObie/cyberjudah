@@ -46,9 +46,13 @@ function Copy-MarkdownTree {
       $text = $text -replace '\[\[Home\]\]', '[Home](/)'
 
       if ($Name -eq "Class Notes") {
-        $text = $text -replace '(?m)^transcript:\s*.*\r?\n', ''
-        $text = $text -replace '(?m)^\[\[[^\]]+\|Full transcript\]\][^\[]*(?=\[Watch on YouTube\])', ''
+        $text = $text -replace '(?m)^(?:transcript|video|source|url):\s*.*\r?\n', ''
+        $text = $text -replace '(?m)^.*\[Watch on YouTube\]\([^)]+\).*\r?\n?', ''
+        $text = $text -replace '(?m)^.*\[\[[^\]]+\|Full transcript\]\].*\r?\n?', ''
         $text = $text -replace '(?m)^\[\[Class Notes Index\]\]\s*\|\s*Transcript:.*$', '[[Class Notes Index]]'
+        $text = $text -replace '\[([^\]]+)\]\(https?://(?:www\.)?(?:youtube\.com|youtu\.be)[^)]+\)', '$1'
+        $text = $text -replace '(?m)^.*(?:Source|Original) (?:video|recording|transcript):.*\r?\n?', ''
+        $text = $text -replace 'https?://(?:www\.)?(?:youtube\.com|youtu\.be)/\S+', ''
         $text = $text -replace '\s+[^\x00-\x7F]{1,3}\s+', ' | '
       }
 
@@ -98,17 +102,6 @@ foreach ($year in ($classNoteEntries.Year | Sort-Object -Descending -Unique)) {
 Set-Content -LiteralPath (Join-Path $classNotesRoot "Class Notes Index.md") `
   -Value ($indexLines -join "`n") -Encoding UTF8
 
-$classroomTarget = Join-Path $contentRoot "Classroom"
-New-Item -ItemType Directory -Force -Path $classroomTarget | Out-Null
-$missingText = Get-Content -LiteralPath (Join-Path $VaultRoot "Classroom\Missing Transcripts.md") `
-  -Raw -Encoding UTF8
-$missingText = $missingText -replace ' in \[\[Classroom Index\|Classroom\]\], and why', ', and why'
-$missingText = $missingText -replace '#IUIC', 'IUIC'
-$missingText = $missingText -replace '#Marriages', 'Marriages'
-$missingText = $missingText -replace '\s+[^\x00-\x7F]{1,3}\s+', ' | '
-Set-Content -LiteralPath (Join-Path $classroomTarget "Missing Transcripts.md") `
-  -Value $missingText -Encoding UTF8
-
 $homepageContent = Get-Content -LiteralPath (Join-Path $VaultRoot "Home.md") -Raw -Encoding UTF8
 $homepageContent = $homepageContent -replace '(?m)^# Home\s*', ''
 $homepageContent = $homepageContent -replace '(?m)^- \[\[Classroom Index\]\].*\r?\n?', ''
@@ -126,22 +119,16 @@ aliases:
 
 > [!note] About this project
 > An independent educational study resource built from the KJV with Apocrypha
-> and publicly available IUIC in the ClassRoom teachings. This site is not
-> affiliated with or endorsed by IUIC or YouTube.
+> and verbatim class notes. This site is not affiliated with or endorsed by IUIC.
 
 "@
 
 $homepageContent += @"
 
-## Transcript recovery
-
-- [[Missing Transcripts]] - classes awaiting audio transcription
-
-## Copyright and source notice
+## Copyright notice
 
 The Bible text is the public-domain King James Version. Class notes are provided
-for study and commentary; the original videos remain the authoritative source
-and are linked from each note.
+for study, commentary, and scripture research.
 "@
 
 Set-Content -LiteralPath (Join-Path $contentRoot "index.md") `
