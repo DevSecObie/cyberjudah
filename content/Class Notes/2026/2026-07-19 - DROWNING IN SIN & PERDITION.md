@@ -57,6 +57,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 **[[2 Thessalonians 2#^v1|2 Thessalonians 2:1-3]]**  *[38:22]*
 
 ![[2 Thessalonians 2#^v1]]
+![[2 Thessalonians 2#^v2]]
 ![[2 Thessalonians 2#^v3]]
 
 - By our gathering together unto him: that him is Christ. When you hear people on earth say that they are the ones that Christ is using to gather the 12 tribes, don't listen to that.
@@ -76,6 +77,8 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 **[[Revelation 17#^v8|Revelation 17:8-11]]**  *[42:24]*
 
 ![[Revelation 17#^v8]]
+![[Revelation 17#^v9]]
+![[Revelation 17#^v10]]
 ![[Revelation 17#^v11]]
 
 - The beast that thou sawest was, in his vision, and is not, currently in existence, and shall ascend out of the bottomless pit: shall ascend out of Europe. The bottomless pit is Europe, where they have very little natural resources. And go into perdition: so there's a country, a nation, a kingdom on earth destined to go into perdition. This ties in with the man of sin, the son of perdition.
@@ -85,7 +88,14 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 **[[Romans 9#^v13|Romans 9:13-22]]**  *[46:28]*
 
 ![[Romans 9#^v13]]
+![[Romans 9#^v14]]
+![[Romans 9#^v15]]
+![[Romans 9#^v16]]
 ![[Romans 9#^v17]]
+![[Romans 9#^v18]]
+![[Romans 9#^v19]]
+![[Romans 9#^v20]]
+![[Romans 9#^v21]]
 ![[Romans 9#^v22]]
 
 - The vessels, or the people, of wrath fitted, which means created, to destruction. Who's that talking about? Verse 13: Jacob have I loved, but Esau have I hated. Paul is addressing Esau. He's telling the Israelites in Rome, remember Esau. Why did he just say Rome? Because these letters were read when they traveled; Rome had checkpoints where they read all your letters and you could not speak any ill against Rome. So they said, all right, we won't say Rome, we'll say Esau.
@@ -101,8 +111,12 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
   Precepts:
   - **[[Ecclesiasticus 33#^v10|Ecclesiasticus 33:10-13]]**
+
     ![[Ecclesiasticus 33#^v10]]
+    ![[Ecclesiasticus 33#^v11]]
+    ![[Ecclesiasticus 33#^v12]]
     ![[Ecclesiasticus 33#^v13]]
+
     Much knowledge the Lord hath divided them, and made their ways diverse. Some of them hath he blessed and exalted; some of them hath he sanctified and set near himself. But some of them hath he cursed and brought low: that's Esau. As the clay is in the potter's hand, to fashion it at his pleasure, so man is in the hand of him that made him.
   - **[[Wisdom of Solomon 18#^v13|Wisdom of Solomon 18:13]]**
     ![[Wisdom of Solomon 18#^v13]]
@@ -111,7 +125,10 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 **[[Psalms 50#^v16|Psalms 50:16-21]]**  *[59:28]*
 
 ![[Psalms 50#^v16]]
+![[Psalms 50#^v17]]
 ![[Psalms 50#^v18]]
+![[Psalms 50#^v19]]
+![[Psalms 50#^v20]]
 ![[Psalms 50#^v21]]
 
 - But unto the wicked God saith, what hast thou to do to declare my statutes? The wicked took up the old covenant as Jewish; the wicked took up the new covenant as Christians. Notice the ones doing all the killing, they are Christians. Never forget that.
@@ -182,6 +199,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 **[[2 Thessalonians 2#^v5|2 Thessalonians 2:5-7]]**  *[1:41:20]*
 
+![[2 Thessalonians 2#^v5]]
 ![[2 Thessalonians 2#^v6]]
 ![[2 Thessalonians 2#^v7]]
 
@@ -196,6 +214,8 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 **[[Malachi 1#^v1|Malachi 1:1-4]]**  *[1:45:31]*
 
+![[Malachi 1#^v1]]
+![[Malachi 1#^v2]]
 ![[Malachi 1#^v3]]
 ![[Malachi 1#^v4]]
 
@@ -228,8 +248,13 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 **[[Hebrews 10#^v32|Hebrews 10:32-39]]**  *[1:53:48]*
 
 ![[Hebrews 10#^v32]]
+![[Hebrews 10#^v33]]
 ![[Hebrews 10#^v34]]
+![[Hebrews 10#^v35]]
+![[Hebrews 10#^v36]]
+![[Hebrews 10#^v37]]
 ![[Hebrews 10#^v38]]
+![[Hebrews 10#^v39]]
 
 - Listen good: when they go into the gates of the nobles, there's always a consequence for revealing the devil. This white man has done so much evil and taught so much lies; he's hiding in this earth as the righteous, as Jews and Christians. So you think the devil is just going to sit there and let what he's been trying to hide for centuries come out? There's going to be consequences.
 - After ye were illuminated: once you got the understanding of who you are, who Christ is, ye endured a great fight of afflictions. Whilst ye were made a gazingstock: you know when you're on the street, you're a gazingstock. Why they always on the corner teaching? Why they always got that Bible? I'm relating back then to us today.
@@ -241,7 +266,12 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 **[[2 Esdras 16#^v68|2 Esdras 16:68-74]]**  *[1:58:02]*
 
 ![[2 Esdras 16#^v68]]
+![[2 Esdras 16#^v69]]
 ![[2 Esdras 16#^v70]]
+![[2 Esdras 16#^v71]]
+![[2 Esdras 16#^v72]]
+![[2 Esdras 16#^v73]]
+![[2 Esdras 16#^v74]]
 
 - For behold, the burning wrath of a great multitude is kindled over you: that's the mobs. And they shall take away certain of you, and feed you, being idle, with things offered unto idols: that's Christianity. That's the religion of this country; they're leading you right back to the Christian church.
 - And they that consent unto them: and you that agree with them, cuz you're tired, you got battle fatigue: I'm tired of reproving my people, I just want to live a whole life all over again. You want to be had in derision and in reproach, mocked, and trodden underfoot, and ultimately put to death.
@@ -253,6 +283,8 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 ![[Philippians 1#^v27]]
 ![[Philippians 1#^v28]]
+![[Philippians 1#^v29]]
+![[Philippians 1#^v30]]
 
 - Only let your conversation be as it becometh the gospel of Christ. The good news of Christ is that he died for the 12 tribes, he's going to deliver the Israelites and have the Israelites rule the planet. Guess what that's called? Treason. They got laws on the books now: you speak against Christianity or America, it falls under extremist laws, terrorist activity.
 - A Christian reads that and goes, your speech be like the gospel of Christ: love, love, love. Nope. What was Christ charged with when they nailed him to the cross? They called him King of the Jews. That's called treason. They couldn't get him on nothing else: he's talking about another kingdom. We saying the same thing Christ is saying.
@@ -263,6 +295,9 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 **[[Wisdom of Solomon 3#^v1|Wisdom of Solomon 3:1-6]]**  *[2:06:37]*
 
 ![[Wisdom of Solomon 3#^v1]]
+![[Wisdom of Solomon 3#^v2]]
+![[Wisdom of Solomon 3#^v3]]
+![[Wisdom of Solomon 3#^v4]]
 ![[Wisdom of Solomon 3#^v5]]
 ![[Wisdom of Solomon 3#^v6]]
 
@@ -273,6 +308,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 **[[2 Thessalonians 2#^v8|2 Thessalonians 2:8-9]]**  *[2:10:39]*
 
+![[2 Thessalonians 2#^v8]]
 ![[2 Thessalonians 2#^v9]]
 
 - Whom the Lord shall consume with the spirit of his mouth: the spirit of God's mouth is the holy Bible. I know some of you speak very well, you got eloquent words; that's all well and fine, but we must use God's word. This is where the power is.
@@ -329,8 +365,11 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
     ![[1 Timothy 6#^v10]]
     Our people don't want to be content with the love of the Lord; they want to be rich. There's all these contracts out there for entertainers; there's always a catch-22, that gotcha moment, which drown men in destruction and perdition. For the love of money is the root of all evil. So when you're asked to work seven days a week or work on the Sabbath, don't call us and say, hey, is it okay if I break the Sabbath? We're going to tell you no. We're not going to tell you to break God's laws; that's between you and the Lord. Don't involve us in your trial.
   - **[[2 Esdras 9#^v10|2 Esdras 9:10-12]]**
+
     ![[2 Esdras 9#^v10]]
+    ![[2 Esdras 9#^v11]]
     ![[2 Esdras 9#^v12]]
+
     For such as in their life have received benefits: that's the riches, the fame, the fortune. And they that have loathed my law, while they had yet liberty, when brothers on the street preaching and teaching, and when as yet place of repentance was open unto them, understood not, but despised it: the same must know it after death by pain.
 
 
@@ -353,6 +392,8 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 ![[2 Thessalonians 2#^v11]]
 ![[2 Thessalonians 2#^v12]]
+![[2 Thessalonians 2#^v13]]
+![[2 Thessalonians 2#^v14]]
 ![[2 Thessalonians 2#^v15]]
 
 - Because you reject God's laws in Christ, he said, I'm going to send you a strong delusion that you're going to believe a lie. That's why when you get these stupid faith healings that everybody knows is fake, for some reason grandma can't understand that it's fake: she has a strong delusion on her. The statue of Jesus crying, or blood came from the tree; there's no scripture you can pull to pull them out of that delusion.
@@ -393,8 +434,14 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 **[[2 Peter 3#^v3|2 Peter 3:3-11]]**  *[2:48:34]*
 
 ![[2 Peter 3#^v3]]
+![[2 Peter 3#^v4]]
+![[2 Peter 3#^v5]]
+![[2 Peter 3#^v6]]
 ![[2 Peter 3#^v7]]
+![[2 Peter 3#^v8]]
 ![[2 Peter 3#^v9]]
+![[2 Peter 3#^v10]]
+![[2 Peter 3#^v11]]
 
 - Definition read in class: a scoffer is someone who mocks, ridicules, or treats others with contempt. They often dismiss ideas, beliefs, or principles they disagree with as silly or stupid. A scoffer doesn't just disagree; they express insolent doubt and derision. The term is frequently used in religious texts to describe someone who openly opposes God, divine truth, or moral wisdom: arrogant, close-minded, and fueled by pride.
 - Reasons read in class why people scoff at the Bible: perceived contradictions within the text; historical and scientific concerns; moral and ethical issues raised by certain passages; allegations of inaccuracies due to translation changes; the existence of multiple divergent denominations; the problem of evil and suffering, including why a benevolent, all powerful deity would permit harm; miracles that some find implausible; cultural distance; exclusivity claims. The one I focused on is the problem of evil and suffering.

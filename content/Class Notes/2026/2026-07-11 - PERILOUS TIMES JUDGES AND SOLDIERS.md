@@ -57,6 +57,7 @@ I'm Captain Dy, for those of you who don't know. Today's class is called Perilou
 **[[Matthew 16#^v1|Matthew 16:1-3]]**  *[20:33]*
 
 ![[Matthew 16#^v1]]
+![[Matthew 16#^v2]]
 ![[Matthew 16#^v3]]
 
 - Y'all know Jake always think they meteorologists. He said, when it's evening, you look up, you say, it's going to be fair weather tomorrow. Y'all know Jake from the hood, we don't know how to look at clouds and red clouds; we just open the window, we stick our hand out, we say, yeah, it's going to be nice today.
@@ -114,6 +115,7 @@ Article read in class, CNN: "What we know about the killings of a Cincinnati dep
 **[[2 Chronicles 20#^v35|2 Chronicles 20:35-37]]**  *[37:49]*
 
 ![[2 Chronicles 20#^v35]]
+![[2 Chronicles 20#^v36]]
 ![[2 Chronicles 20#^v37]]
 
 - Jehoshaphat, king of Judah, joined himself with Ahaziah, king of Israel, who did very wickedly. Then Eliezer prophesied against Jehoshaphat, saying, because thou hast joined thyself with Ahaziah, the Lord hath broken thy works. And listen, we doing mighty works: all praises for good leadership, all praises for our bishops, our deacons, all praises for those who labor in Christ before us. But it's telling you that if we join with those who doing wickedness, the Lord will break our works. And the ships were broken, that they were not able to go to Tarshish.
@@ -153,6 +155,7 @@ Article read in class, CNN: "What we know about the killings of a Cincinnati dep
 **[[Proverbs 24#^v21|Proverbs 24:21-23]]**  *[50:03]*
 
 ![[Proverbs 24#^v21]]
+![[Proverbs 24#^v22]]
 ![[Proverbs 24#^v23]]
 
 - My son, fear thou the Lord and the king: that means you got to respect the powers that be, and fear God. And meddle not with them that are given to change: because our people are standing with us one day; next day they'll be celebrating Christmas, Thanksgiving, birthdays, Fourth of July. One minute they want to be a revolutionary; one minute they want to stand with us; next minute they speaking evil of us; next minute they contradict and gainsay everything that we said, everything that we stand for. Soon as the World Cup come, Jake get distracted: squirrel.
@@ -175,6 +178,7 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[[Isaiah 11#^v1|Isaiah 11:1-4]]**  *[54:32]*
 
+![[Isaiah 11#^v1]]
 ![[Isaiah 11#^v2]]
 ![[Isaiah 11#^v3]]
 ![[Isaiah 11#^v4]]
@@ -201,6 +205,7 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[[Ecclesiasticus 11#^v7|Ecclesiasticus 11:7-10]]**  *[1:02:55]*
 
 ![[Ecclesiasticus 11#^v7]]
+![[Ecclesiasticus 11#^v8]]
 ![[Ecclesiasticus 11#^v9]]
 ![[Ecclesiasticus 11#^v10]]
 
@@ -242,6 +247,8 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 ![[Deuteronomy 32#^v16]]
 ![[Deuteronomy 32#^v17]]
+![[Deuteronomy 32#^v18]]
+![[Deuteronomy 32#^v19]]
 ![[Deuteronomy 32#^v20]]
 
 - They provoked him to jealousy with strange gods: most of our people in the world are worshiping a strange god, whether it be Caesar Borgia, the image of the white man, whether it be a rock in Mecca, call themselves Muslims. Most of our people are provoking God to anger every day to his face with a strange god.
@@ -272,6 +279,7 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[[Deuteronomy 4#^v27|Deuteronomy 4:27-30]]**  *[1:11:10]*
 
 ![[Deuteronomy 4#^v27]]
+![[Deuteronomy 4#^v28]]
 ![[Deuteronomy 4#^v29]]
 ![[Deuteronomy 4#^v30]]
 
@@ -313,9 +321,12 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 **[[Ephesians 6#^v10|Ephesians 6:10-15]]**  *[1:19:35]*
 
+![[Ephesians 6#^v10]]
 ![[Ephesians 6#^v11]]
 ![[Ephesians 6#^v12]]
 ![[Ephesians 6#^v13]]
+![[Ephesians 6#^v14]]
+![[Ephesians 6#^v15]]
 
 - We got to keep a clear head. We cannot be emotional. Men cannot be emotional; soldiers cannot be emotional. Do we feel emotion? Yes; we proved that earlier. The prophets have always had a heart and a compassion for their people. But as servants of God, we got to move in the spirit of Christ, who was an austere man.
 - For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world: this whole world is dark; this whole system is corrupt; against spiritual wickedness in high places.
@@ -324,6 +335,7 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[[2 Corinthians 10#^v3|2 Corinthians 10:3-6]]**  *[1:19:35]*
 
 ![[2 Corinthians 10#^v3]]
+![[2 Corinthians 10#^v4]]
 ![[2 Corinthians 10#^v5]]
 ![[2 Corinthians 10#^v6]]
 
@@ -335,6 +347,7 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 
 ![[Isaiah 59#^v9]]
 ![[Isaiah 59#^v10]]
+![[Isaiah 59#^v11]]
 ![[Isaiah 59#^v12]]
 
 - Therefore is judgment far from us: the Bible says judgment is far from our people. We got to understand that. Therefore we cannot be shocked when police do all manner of evil, use unreasonable force, and they say, oh, well, you know, I fear for my life. We can't be shocked when they get off. Stop being shocked. If you shocked, that mean you don't study. Neither doth justice overtake us: we don't know what justice look like. We wait for light, but behold obscurity: we always confused.
@@ -418,6 +431,7 @@ Quote read in class: "A soldier without biblical education is nothing more than 
 **[[1 Peter 4#^v15|1 Peter 4:15-17]]**  *[1:40:54]*
 
 ![[1 Peter 4#^v15]]
+![[1 Peter 4#^v16]]
 ![[1 Peter 4#^v17]]
 
 - For the time is come that judgment must begin at the house of God: that's the nation of Israel. Listen, even us inside this truth, we are going to suffer. Understand that what's happening to Jake in the world, whether they being wrongfully incarcerated, murdered by police, murdered by random everyday blue collar, white collar heathen, all those same things is going to happen to us as well. But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters: we going to die in our innocency. We going to die in our faith and our righteousness. Don't suffer and get caught up as a busybody in other men's matters. We got to be very mindful.

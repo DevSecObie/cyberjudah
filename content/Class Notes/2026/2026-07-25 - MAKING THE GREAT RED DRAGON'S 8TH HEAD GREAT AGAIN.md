@@ -140,8 +140,16 @@ Reading in class: the 13th Amendment, ratified December 6th, 1865. "Section one:
 
 **[[Daniel 7#^v15|Daniel 7:15-25]]**  *[1:57:29]*
 
+![[Daniel 7#^v15]]
+![[Daniel 7#^v16]]
+![[Daniel 7#^v17]]
 ![[Daniel 7#^v18]]
+![[Daniel 7#^v19]]
+![[Daniel 7#^v20]]
 ![[Daniel 7#^v21]]
+![[Daniel 7#^v22]]
+![[Daniel 7#^v23]]
+![[Daniel 7#^v24]]
 ![[Daniel 7#^v25]]
 
 - I Daniel was grieved in my spirit, and the visions of my head troubled me: because the Lord was showing Daniel visions about the end time, just like he did with the apostle John in the book of Revelation. John wanted to know about the mystery of that eighth head which came from the seventh; Daniel is saying the same thing.
@@ -163,7 +171,13 @@ Book read in class: The Complete Works of Flavius Josephus, Antiquities of the J
 **[[1 Maccabees 1#^v1|1 Maccabees 1:1-9]]**  *[2:06:19]*
 
 ![[1 Maccabees 1#^v1]]
+![[1 Maccabees 1#^v2]]
 ![[1 Maccabees 1#^v3]]
+![[1 Maccabees 1#^v4]]
+![[1 Maccabees 1#^v5]]
+![[1 Maccabees 1#^v6]]
+![[1 Maccabees 1#^v7]]
+![[1 Maccabees 1#^v8]]
 ![[1 Maccabees 1#^v9]]
 
 - And it happened, after that Alexander son of Philip, the Macedonian, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece: because he perceived that that was him.
@@ -209,8 +223,12 @@ Definition read in class: reasoning, the how. Reasoning is the continuous cognit
 
   Precepts:
   - **[[Ephesians 6#^v1|Ephesians 6:1-4]]**
+
     ![[Ephesians 6#^v1]]
+    ![[Ephesians 6#^v2]]
+    ![[Ephesians 6#^v3]]
     ![[Ephesians 6#^v4]]
+
     Children, obey your parents in the Lord, for this is right. And ye fathers, provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord.
   - **[[Ephesians 5#^v22|Ephesians 5:22-23]]**
     ![[Ephesians 5#^v22]]

@@ -234,8 +234,12 @@ Pictures shown: the front lawn of the White House, shabby; the East Wing under c
 
 **[[Ephesians 6#^v10|Ephesians 6:10-16]]**  *[1:41:46]*
 
+![[Ephesians 6#^v10]]
 ![[Ephesians 6#^v11]]
 ![[Ephesians 6#^v12]]
+![[Ephesians 6#^v13]]
+![[Ephesians 6#^v14]]
+![[Ephesians 6#^v15]]
 ![[Ephesians 6#^v16]]
 
 - Finally, my brethren, be strong in the Lord and in the power of his might. We always say that at the end of every class. The only way to be strong is in the power of the Lord's might, cuz by yourself you nothing.
@@ -276,6 +280,7 @@ Book read in class: Bartolomé de las Casas, An Account Much Abbreviated of the 
 
 **[[Wisdom of Solomon 12#^v9|Wisdom of Solomon 12:9-11]]**  *[1:58:14]*
 
+![[Wisdom of Solomon 12#^v9]]
 ![[Wisdom of Solomon 12#^v10]]
 ![[Wisdom of Solomon 12#^v11]]
 

@@ -26,6 +26,9 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 ![[1 Peter 3#^v7]]
 ![[1 Peter 3#^v8]]
 ![[1 Peter 3#^v9]]
+![[1 Peter 3#^v10]]
+![[1 Peter 3#^v11]]
+![[1 Peter 3#^v12]]
 
 - Likewise, ye husbands, dwell with them according to knowledge. So the Lord says that you brothers that's married, you got to deal with them, your wife, according to knowledge. The knowledge is the knowledge of the scriptures.
 - Giving honour unto the wife: the honor you giving unto her is understanding that she is weaker than you. She the weaker vessel. God created a woman and the woman is the weaker vessel. What does that mean? It mean not just her body alone. We as men we got muscles, we are strong, our bodies build different; and a woman is soft and tender and delicate, and she can't lift heavy stuff like how we can lift heavy stuff. She are weaker in all aspect. A woman was created weaker than a man.
@@ -65,6 +68,7 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 
 **[[Psalms 83#^v1|Psalms 83:1-4]]**  *[38:10]*
 
+![[Psalms 83#^v1]]
 ![[Psalms 83#^v2]]
 ![[Psalms 83#^v3]]
 ![[Psalms 83#^v4]]
@@ -139,6 +143,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 **[[Psalms 1#^v1|Psalms 1:1-3]]**  *[1:21:30]*
 
 ![[Psalms 1#^v1]]
+![[Psalms 1#^v2]]
 ![[Psalms 1#^v3]]
 
 - Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the Lord; and in his law doth he meditate day and night.
@@ -199,6 +204,8 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 **[[Ezekiel 4#^v9|Ezekiel 4:9-13]]**  *[1:55:02]*
 
 ![[Ezekiel 4#^v9]]
+![[Ezekiel 4#^v10]]
+![[Ezekiel 4#^v11]]
 ![[Ezekiel 4#^v12]]
 ![[Ezekiel 4#^v13]]
 
@@ -288,6 +295,8 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 **[[Ecclesiasticus 38#^v1|Ecclesiasticus 38:1-5]]**  *[2:29:31]*
 
 ![[Ecclesiasticus 38#^v1]]
+![[Ecclesiasticus 38#^v2]]
+![[Ecclesiasticus 38#^v3]]
 ![[Ecclesiasticus 38#^v4]]
 ![[Ecclesiasticus 38#^v5]]
 
@@ -299,7 +308,9 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 **[[Ecclesiasticus 37#^v27|Ecclesiasticus 37:27-31]]**  *[2:33:45]*
 
 ![[Ecclesiasticus 37#^v27]]
+![[Ecclesiasticus 37#^v28]]
 ![[Ecclesiasticus 37#^v29]]
+![[Ecclesiasticus 37#^v30]]
 ![[Ecclesiasticus 37#^v31]]
 
 - My son, prove thy soul in thy life, and see what is evil for it, and give not that unto it. Prove what your soul want and prove what is evil for it, the things that you should not be eating or consuming.

@@ -38,6 +38,7 @@ Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy 
 
 ![[Job 20#^v11]]
 ![[Job 20#^v12]]
+![[Job 20#^v13]]
 
 - This white man, his bones are filled with the sins of his youth. You could go back to 1776, but more importantly go back to Cain: God said Cain would be a fugitive and a vagabond, talking about his descendants. A fugitive is somebody always running from justice. The white man has never been judged yet. Even Netanyahu: the ICC put out a warrant for Netanyahu's arrest, and Trump said Netanyahu has nothing to fear; we don't give a damn what the International Court of Justice says.
 - Though wickedness be sweet in his mouth, meaning he loves wickedness. Though he hide it under his tongue: he hid that wickedness for almost 60 years. From the civil rights era up until this new administration, you saw a new America. They love black and brown people. We got jobs, we reached to the heights of government, you even had President Barack Hussein Obama: oh, he's our Moses. The new administration came in and said, you're fired, you're fired, you're fired. DEI, get the hell out. Affirmative action, no more. In fact, Clarence Thomas, we want you to get rid of affirmative action. He said, yes, boss.
@@ -77,6 +78,8 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[Acts 5#^v34|Acts 5:34-37]]**  *[50:31]*
 
+![[Acts 5#^v34]]
+![[Acts 5#^v35]]
 ![[Acts 5#^v36]]
 ![[Acts 5#^v37]]
 
@@ -85,6 +88,9 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[John 10#^v8|John 10:8-13]]**  *[50:31]*
 
+![[John 10#^v8]]
+![[John 10#^v9]]
+![[John 10#^v10]]
 ![[John 10#^v11]]
 ![[John 10#^v12]]
 ![[John 10#^v13]]
@@ -108,6 +114,8 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 **[[Jeremiah 23#^v1|Jeremiah 23:1-4]]**  *[54:53]*
 
 ![[Jeremiah 23#^v1]]
+![[Jeremiah 23#^v2]]
+![[Jeremiah 23#^v3]]
 ![[Jeremiah 23#^v4]]
 
 - Jeremiah 23 really talks about the essence of hirelings. Woe be unto the pastors that destroy and scatter the sheep of my pasture. How do they scatter the sheep? In Christianity they will scatter the sheep by sending them either to the Baptist church, Catholic church, holiness church, whatever denomination. We're being divided rather than uniting us as the twelve tribes of Israel.
@@ -126,6 +134,8 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 **[[Jeremiah 23#^v5|Jeremiah 23:5-8]]**  *[59:02]*
 
 ![[Jeremiah 23#^v5]]
+![[Jeremiah 23#^v6]]
+![[Jeremiah 23#^v7]]
 ![[Jeremiah 23#^v8]]
 
 - I will raise unto David a righteous Branch: this is Christ. In his days Judah shall be saved, and Israel shall dwell safely; remember we were split into two kingdoms.
@@ -140,8 +150,13 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[Jeremiah 23#^v9|Jeremiah 23:9-15]]**  *[1:03:14]*
 
+![[Jeremiah 23#^v9]]
+![[Jeremiah 23#^v10]]
 ![[Jeremiah 23#^v11]]
+![[Jeremiah 23#^v12]]
+![[Jeremiah 23#^v13]]
 ![[Jeremiah 23#^v14]]
+![[Jeremiah 23#^v15]]
 
 - The land is full of adulterers. For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the Lord. In God's house he found out the prophets and priests were wicked.
 - Their ways shall be unto them as slippery ways in the darkness: whatever path they were taking, they would fall. I will bring evil upon them: I'mma bring the Babylonians on them.
@@ -166,6 +181,9 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 ![[Jeremiah 23#^v16]]
 ![[Jeremiah 23#^v17]]
+![[Jeremiah 23#^v18]]
+![[Jeremiah 23#^v19]]
+![[Jeremiah 23#^v20]]
 
 - Hearken not unto the words of the prophets that prophesy unto you: they make you vain. They speak a vision of their own heart, meaning their own mind, what they feel at that time, at that moment. You see a lot of them on TikTok, Instagram: I don't know who this is for, but God has a message for you. And it's some bull crap they went through the night before. And not out of the mouth of the Lord: what they say is not coming from the Bible.
 - They say still unto them that despise me: meaning they're talking to the people that really hate God. If you speak to Christians, you'll find that a lot of them really hate God. Two men cannot lay together; you can't judge: these are some violent, nasty people. And don't watch Tubi. Tubi is an evil source of debauchery. They got good movies on there, but there's some filth on there.
@@ -181,17 +199,39 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
     ![[Acts 14#^v22]]
     We must through much tribulation enter into the kingdom of God. The only way we're entering the kingdom of God is through much tribulation. So what Bible are these Christians reading?
   - **[[Deuteronomy 4#^v27|Deuteronomy 4:27-31]]**
+
+    ![[Deuteronomy 4#^v27]]
+    ![[Deuteronomy 4#^v28]]
+    ![[Deuteronomy 4#^v29]]
     ![[Deuteronomy 4#^v30]]
+    ![[Deuteronomy 4#^v31]]
+
     In all the lands we were scattered, if we seek the Lord our God, he shall be found, if thou seek him with all thy heart and with all thy soul, meaning do everything God says to do; when thou art in tribulation, even in the latter days. So these Christians don't know what they talking about. For the Lord thy God is a merciful God.
   - **[[2 Esdras 7#^v13|2 Esdras 7:13-18]]**
+
     ![[2 Esdras 7#^v13]]
+    ![[2 Esdras 7#^v14]]
+    ![[2 Esdras 7#^v15]]
+    ![[2 Esdras 7#^v16]]
+    ![[2 Esdras 7#^v17]]
     ![[2 Esdras 7#^v18]]
+
     The entrances of the elder world were wide and sure, and brought immortal fruit; the elder world was during the time of Adam. Nevertheless the righteous shall suffer strait things, that's tribulation, and hope for the wide. All Israel is going to go through tribulation: the righteous and the unrighteous. What we are seeing on the news, with death after death after death, is just the beginning. Oh, it's going to escalate. They're not going to go, hey, what God do you serve? No: you're in the image of God, we're going to kill all of you, all you melanated brothers and sisters.
 
 **[[Jeremiah 23#^v21|Jeremiah 23:21-32]]**  *[1:25:02]*
 
 ![[Jeremiah 23#^v21]]
+![[Jeremiah 23#^v22]]
+![[Jeremiah 23#^v23]]
+![[Jeremiah 23#^v24]]
 ![[Jeremiah 23#^v25]]
+![[Jeremiah 23#^v26]]
+![[Jeremiah 23#^v27]]
+![[Jeremiah 23#^v28]]
+![[Jeremiah 23#^v29]]
+![[Jeremiah 23#^v30]]
+![[Jeremiah 23#^v31]]
+![[Jeremiah 23#^v32]]
 
 - I have not sent these prophets: he didn't send these pastors, these Christian reverends. Yet they ran: I'm going to build a church here. I have not spoken to them: when they say God spoke to me, it's a lie. Yet they prophesied.
 - If they had stood in my counsel, stayed in the Bible, and had caused my people to hear my words, then they should have turned them from their evil way. With the word of God you could turn the people from their evil way. That's what the captains was doing on that sit down: let's turn the minds of the people around. You can only transform them with the Bible, the commandments of God.
@@ -208,8 +248,11 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
   Precepts:
   - **[[Numbers 12#^v6|Numbers 12:6-8]]**
+
     ![[Numbers 12#^v6]]
+    ![[Numbers 12#^v7]]
     ![[Numbers 12#^v8]]
+
     If there be a prophet among you, I the Lord will make myself known unto him in a vision, and will speak unto him in a dream. My servant Moses is not so: with him will I speak mouth to mouth, even apparently, and not in dark speeches. The only one the Lord spoke with mouth to mouth was Moses. When you hear black women go, God told me: God tell you nothing. Stop lying. The Lord spoke to me this morning, his voice was so clear: that's a lie. But people be believing this crap. Miriam said God spoke to me too, and she was a prophet; wherefore then were ye not afraid to speak against my servant Moses?
 
 **[[2 Corinthians 6#^v17|2 Corinthians 6:17]]**  *[1:37:35]*
@@ -226,8 +269,12 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[Ezekiel 34#^v1|Ezekiel 34:1-6]]**  *[1:41:36]*
 
+![[Ezekiel 34#^v1]]
 ![[Ezekiel 34#^v2]]
+![[Ezekiel 34#^v3]]
 ![[Ezekiel 34#^v4]]
+![[Ezekiel 34#^v5]]
+![[Ezekiel 34#^v6]]
 
 - What Jeremiah prophesied is very similar to what Ezekiel prophesied. Woe be to the shepherds of Israel that do feed themselves: should not the shepherds feed the flock? Ye eat the fat, and ye clothe you with the wool; they get the best clothes. Ye kill them that are fed, but ye feed not the flock: you ain't taking care of the flock, you feeding yourself.
 - The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye brought again that which was driven away, referring to the twelve tribes that were scattered. But with force and with cruelty have ye ruled them. Remember, Ezekiel is in the Babylonian captivity.
@@ -237,6 +284,10 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 **[[Ezekiel 34#^v11|Ezekiel 34:11-16]]**  *[1:45:47]*
 
 ![[Ezekiel 34#^v11]]
+![[Ezekiel 34#^v12]]
+![[Ezekiel 34#^v13]]
+![[Ezekiel 34#^v14]]
+![[Ezekiel 34#^v15]]
 ![[Ezekiel 34#^v16]]
 
 - For thus saith the Lord God: behold, I, even I, will both search my sheep, and seek them out. Who's that I? Christ. That's what Christ was doing; that's what Paul and the apostles were doing. That was the great commission in Matthew 28:19.
@@ -258,8 +309,13 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
     ![[Isaiah 45#^v4]]
     For Jacob my servant's sake, and Israel mine elect. So there's no contradiction from the New Testament and the Old Testament; the contradiction comes from these false pastors, these hireling pastors.
   - **[[Psalms 149#^v1|Psalms 149:1-5]]**
+
     ![[Psalms 149#^v1]]
+    ![[Psalms 149#^v2]]
+    ![[Psalms 149#^v3]]
+    ![[Psalms 149#^v4]]
     ![[Psalms 149#^v5]]
+
     Let Israel rejoice in him that made him: cuz we have not been rejoicing in our creator, we've been rejoicing in the white man. Let the children of Zion be joyful in their King: for so long we've been joyful in the white man. For the Lord taketh pleasure in his people: he don't take pleasure in all races on the planet, only in his people. Let the saints be joyful in glory: let them sing aloud upon their beds. That's the rest right there.
 
 **[[Lamentations 2#^v14|Lamentations 2:14]]**  *[1:50:01]*
@@ -282,6 +338,9 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[1 Corinthians 6#^v1|1 Corinthians 6:1-5]]**  *[1:54:12]*
 
+![[1 Corinthians 6#^v1]]
+![[1 Corinthians 6#^v2]]
+![[1 Corinthians 6#^v3]]
 ![[1 Corinthians 6#^v4]]
 ![[1 Corinthians 6#^v5]]
 
@@ -296,7 +355,10 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
   Precepts:
   - **[[Matthew 23#^v1|Matthew 23:1-2]]**
+
+    ![[Matthew 23#^v1]]
     ![[Matthew 23#^v2]]
+
     The scribes and the Pharisees sit in Moses' seat: that's the law right there. They were the law.
   - **[[Matthew 19#^v28|Matthew 19:28]]**
     ![[Matthew 19#^v28]]
@@ -304,8 +366,22 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[Luke 19#^v11|Luke 19:11-27]]**  *[2:02:35]*
 
+![[Luke 19#^v11]]
+![[Luke 19#^v12]]
 ![[Luke 19#^v13]]
+![[Luke 19#^v14]]
+![[Luke 19#^v15]]
+![[Luke 19#^v16]]
+![[Luke 19#^v17]]
+![[Luke 19#^v18]]
+![[Luke 19#^v19]]
 ![[Luke 19#^v20]]
+![[Luke 19#^v21]]
+![[Luke 19#^v22]]
+![[Luke 19#^v23]]
+![[Luke 19#^v24]]
+![[Luke 19#^v25]]
+![[Luke 19#^v26]]
 ![[Luke 19#^v27]]
 
 - They thought that the kingdom of God should immediately appear; a lot of people thought the kingdom was coming at that time. That's why Paul said, let no man deceive you, for that day shall not come except there come a falling away first, and that man of sin be revealed.
@@ -319,8 +395,11 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
   Precepts:
   - **[[Acts 1#^v9|Acts 1:9-11]]**
+
     ![[Acts 1#^v9]]
+    ![[Acts 1#^v10]]
     ![[Acts 1#^v11]]
+
     While they beheld, he was taken up, and a cloud received him out of their sight. Ye men of Galilee, why stand ye gazing up into heaven? This same Jesus shall so come in like manner as ye have seen him go into heaven.
   - **[[Psalms 119#^v127|Psalms 119:127]]**
     ![[Psalms 119#^v127]]
@@ -346,8 +425,11 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
     ![[2 Timothy 2#^v21]]
     In a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour. If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use. The bank is his great house; your work, your love, your zeal, your understanding, bring it into the bank, the congregation.
   - **[[Matthew 7#^v21|Matthew 7:21-23]]**
+
     ![[Matthew 7#^v21]]
+    ![[Matthew 7#^v22]]
     ![[Matthew 7#^v23]]
+
     Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. That goes back to what we just read: this guy that was in the truth, he took his talent, hid it in a napkin. I'm not helping them anymore; I did it full time, but I don't want to do it no more.
 
 **[[Hebrews 11#^v25|Hebrews 11:25]]**  *[2:15:41]*
@@ -369,6 +451,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 ![[3 John 1#^v9]]
 ![[3 John 1#^v10]]
+![[3 John 1#^v11]]
 
 - Another type of a hireling: Diotrephes, who loveth to have the preeminence among them, receiveth us not. You know what's strange? The apostles set this man up. So what was he doing? He was always around, made it appear like he was in the truth.
 - You ever see brothers: there'll be a congregation where they really don't put no works in, but there's a congregation in Alaska and there's no senior man there. I'm in office of 10; I got a bright idea. I'm not gonna ask no counsel from you; I'm just gonna go and pop up, and shazam, I'm over the congregation. And because I come from the States, they're all going to just love me and accept me. That is what generally happens. It happened in Ghana, many of the African countries.
@@ -420,8 +503,17 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[Ezekiel 34#^v20|Ezekiel 34:20-31]]**  *[2:33:02]*
 
+![[Ezekiel 34#^v20]]
+![[Ezekiel 34#^v21]]
+![[Ezekiel 34#^v22]]
 ![[Ezekiel 34#^v23]]
+![[Ezekiel 34#^v24]]
 ![[Ezekiel 34#^v25]]
+![[Ezekiel 34#^v26]]
+![[Ezekiel 34#^v27]]
+![[Ezekiel 34#^v28]]
+![[Ezekiel 34#^v29]]
+![[Ezekiel 34#^v30]]
 ![[Ezekiel 34#^v31]]
 
 - Behold, I, even I, will judge between the fat cattle and between the lean cattle. And you know what that goes with: in the New Testament, Christ said, all nations shall be before me, and I shall separate the sheep from the goats. That comes from here.
@@ -433,8 +525,38 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 **[[1 Kings 13#^v1|1 Kings 13:1-32]]**  *[2:37:12]*  (Bishop's teaching)
 
+![[1 Kings 13#^v1]]
+![[1 Kings 13#^v2]]
+![[1 Kings 13#^v3]]
+![[1 Kings 13#^v4]]
+![[1 Kings 13#^v5]]
+![[1 Kings 13#^v6]]
+![[1 Kings 13#^v7]]
+![[1 Kings 13#^v8]]
+![[1 Kings 13#^v9]]
+![[1 Kings 13#^v10]]
+![[1 Kings 13#^v11]]
+![[1 Kings 13#^v12]]
+![[1 Kings 13#^v13]]
+![[1 Kings 13#^v14]]
+![[1 Kings 13#^v15]]
+![[1 Kings 13#^v16]]
+![[1 Kings 13#^v17]]
 ![[1 Kings 13#^v18]]
+![[1 Kings 13#^v19]]
+![[1 Kings 13#^v20]]
+![[1 Kings 13#^v21]]
+![[1 Kings 13#^v22]]
+![[1 Kings 13#^v23]]
+![[1 Kings 13#^v24]]
+![[1 Kings 13#^v25]]
 ![[1 Kings 13#^v26]]
+![[1 Kings 13#^v27]]
+![[1 Kings 13#^v28]]
+![[1 Kings 13#^v29]]
+![[1 Kings 13#^v30]]
+![[1 Kings 13#^v31]]
+![[1 Kings 13#^v32]]
 
 - This chapter deals with us going to the left or right of what God says. If God tells us something, let's follow it; follow the Lamb whithersoever he goeth.
 - The man of God out of Judah cried against the altar, and Jeroboam put forth his hand, saying, lay hold on him; and his hand dried up. You see how pain will get you to change your thoughts: he wanted to put the dude to death a few minutes ago, and now he wants him to pray to God for him. And the king's hand was restored.

@@ -76,7 +76,12 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 **[[Jeremiah 31#^v31|Jeremiah 31:31-37]]**  *[41:35]*
 
 ![[Jeremiah 31#^v31]]
+![[Jeremiah 31#^v32]]
+![[Jeremiah 31#^v33]]
+![[Jeremiah 31#^v34]]
+![[Jeremiah 31#^v35]]
 ![[Jeremiah 31#^v36]]
+![[Jeremiah 31#^v37]]
 
 - Behold, the days come that I will make a new covenant with the house of Israel and with the house of Judah: cuz there was a split; that's why he separates us like that. Not according to the covenant that I made with their fathers: that was the old covenant, animal sacrifice. Because the 12 tribes, we're the bride; God is the husband.
 - I will put my law in their inward parts, and write it in their hearts: this is the kingdom it's talking about. So this is the answer to replacement theology. This is the answer to supersessionism.
@@ -85,8 +90,11 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
   Precepts:
   - **[[Hebrews 8#^v8|Hebrews 8:8-10]]**
+
     ![[Hebrews 8#^v8]]
+    ![[Hebrews 8#^v9]]
     ![[Hebrews 8#^v10]]
+
     Paul quotes this from Jeremiah. Christians avoid that, cuz when you ask them, so who's the new covenant for, it tells you crystal clear right there who it was for: the house of Israel and the house of Judah. Because they continued not in my covenant, and I regarded them not: meaning we went into slavery. When he says Israel right there, meaning all 12 tribes. I will put my laws into their mind: this is kingdom.
   - **[[2 Timothy 4#^v13|2 Timothy 4:13]]**
     ![[2 Timothy 4#^v13]]
@@ -95,6 +103,7 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 **[[Jeremiah 33#^v24|Jeremiah 33:24-26]]**  *[50:14]*
 
 ![[Jeremiah 33#^v24]]
+![[Jeremiah 33#^v25]]
 ![[Jeremiah 33#^v26]]
 
 - The two families is Judah and Israel. He hath even cast them off: that was the thought; that's why it got a question mark there. Thus they have despised my people: because the doctrine started to come up even back then. God has destroyed the two kingdoms, God has destroyed the 12 tribes of Israel. This supersessionism, replacement theology.
@@ -125,7 +134,12 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[Ephesians 1#^v1|Ephesians 1:1-7]]**  *[54:17]*
 
+![[Ephesians 1#^v1]]
+![[Ephesians 1#^v2]]
+![[Ephesians 1#^v3]]
 ![[Ephesians 1#^v4]]
+![[Ephesians 1#^v5]]
+![[Ephesians 1#^v6]]
 ![[Ephesians 1#^v7]]
 
 - When they try to hem you up with Ephesians 2, before you get to Ephesians 2, we got to deal with Ephesians 1 and 1. Who are the saints that he's addressing? One brother here got hemmed up in Ephesians 2; he better not ever let that happen again. The Chinese lady was dancing for joy in the name of White Jesus.
@@ -167,7 +181,13 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 **[[Amos 6#^v1|Amos 6:1-8]]**  *[1:06:50]*
 
 ![[Amos 6#^v1]]
+![[Amos 6#^v2]]
+![[Amos 6#^v3]]
+![[Amos 6#^v4]]
+![[Amos 6#^v5]]
+![[Amos 6#^v6]]
 ![[Amos 6#^v7]]
+![[Amos 6#^v8]]
 
 - Woe to them that are at ease in Zion: that's the southern kingdom. And trust in the mountain of Samaria: that's the northern kingdom.
 - They are not grieved for the affliction of Joseph: the affliction of Joseph was the destruction of the northern kingdom. Therefore now shall they go captive with the first that go captive: remember Assyria was going to come take the northern kingdom.
@@ -178,8 +198,13 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
     ![[1 Kings 8#^v1]]
     That they might bring up the ark of the covenant out of the city of David, which is Zion. Y'all see that? So Jerusalem was also called Zion.
   - **[[John 4#^v20|John 4:20-24]]**
+
     ![[John 4#^v20]]
     ![[John 4#^v21]]
+    ![[John 4#^v22]]
+    ![[John 4#^v23]]
+    ![[John 4#^v24]]
+
     This is Christ speaking to the Samaritan woman. Our fathers worshipped in this mountain: which was Mount Gerizim. And ye say that in Jerusalem is the place where men ought to worship: y'all Jews say that. Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. Why? Because 70 AD was coming; Rome was going to destroy all the remaining Israelites. Ye worship ye know not what: you, northern kingdom, don't understand what you're worshipping, cuz the northern kingdom went into idolatry. We know what we worship, for salvation is of the Jews: salvation comes from Judah. What was he letting her know? The temple was going to be destroyed, Israelites go into captivity, and you're going to have to deal with the Lord one on one. No more priests intervening for you.
   - **[[Psalms 76#^v1|Psalms 76:1]]**
     ![[Psalms 76#^v1]]
@@ -189,6 +214,15 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 ![[Amos 7#^v7]]
 ![[Amos 7#^v8]]
+![[Amos 7#^v9]]
+![[Amos 7#^v10]]
+![[Amos 7#^v11]]
+![[Amos 7#^v12]]
+![[Amos 7#^v13]]
+![[Amos 7#^v14]]
+![[Amos 7#^v15]]
+![[Amos 7#^v16]]
+![[Amos 7#^v17]]
 
 - A plumb line is used for measuring. Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more; I'mma cut them off. The high places of Isaac shall be desolate: that's the southern kingdom. And the sanctuaries of Israel shall be laid waste: northern kingdom. And I will rise against the house of Jeroboam with the sword.
 - Amaziah the priest of Bethel: he's complaining about Amos prophesying. The land is not able to bear all his words: the land can't take the prophecies of Amos. Amos was telling the northern kingdom, y'all going into slavery soon.
@@ -198,6 +232,11 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 ![[Amos 8#^v4]]
 ![[Amos 8#^v5]]
+![[Amos 8#^v6]]
+![[Amos 8#^v7]]
+![[Amos 8#^v8]]
+![[Amos 8#^v9]]
+![[Amos 8#^v10]]
 
 - When will the new moon be gone, that we may sell corn? Because they couldn't stand when the holy days came. People said, how do you know on a new moon we can't buy and sell? Right here. And the sabbath, that we may set forth wheat: we want to do business, buying and selling. Making the ephah small: we want to mess with the measurements. And falsifying the balances by deceit.
 - That we may buy the poor for silver, and the needy for a pair of shoes: you see how bad it was? We want to buy the poor Israelites for silver, the needy for a pair of shoes.
@@ -206,6 +245,8 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 **[[Amos 9#^v8|Amos 9:8-11]]**  *[1:19:09]*
 
 ![[Amos 9#^v8]]
+![[Amos 9#^v9]]
+![[Amos 9#^v10]]
 ![[Amos 9#^v11]]
 
 - Now he calls us the sinful kingdom. I know brothers be bringing this out for America; let's talk about wicked Israel. Saving that I will not utterly destroy the house of Jacob: although I'm going to wipe y'all out, I'm not going to destroy all the Israelites. The northern kingdom would be taken out the land; the southern kingdom would be taken out the land.
@@ -233,8 +274,25 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[1 Kings 12#^v1|1 Kings 12:1-19]]**  *[1:27:26]*
 
+![[1 Kings 12#^v1]]
+![[1 Kings 12#^v2]]
+![[1 Kings 12#^v3]]
+![[1 Kings 12#^v4]]
+![[1 Kings 12#^v5]]
+![[1 Kings 12#^v6]]
+![[1 Kings 12#^v7]]
 ![[1 Kings 12#^v8]]
+![[1 Kings 12#^v9]]
+![[1 Kings 12#^v10]]
+![[1 Kings 12#^v11]]
+![[1 Kings 12#^v12]]
+![[1 Kings 12#^v13]]
+![[1 Kings 12#^v14]]
+![[1 Kings 12#^v15]]
 ![[1 Kings 12#^v16]]
+![[1 Kings 12#^v17]]
+![[1 Kings 12#^v18]]
+![[1 Kings 12#^v19]]
 
 - Now, in order to understand the New Testament, you should be fully aware of what happened to the 12 tribes.
 - Thy father made our yoke grievous: with the temple we had to pay tribute money, but when Solomon created those houses of worship for his wives, he forced Israel to pay tribute to those gods. Israel is saying, get rid of all those taxes he put on us for those false gods, and we will serve thee.
@@ -245,8 +303,11 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
   Precepts:
   - **[[Ecclesiasticus 30#^v4|Ecclesiasticus 30:4-6]]**
+
     ![[Ecclesiasticus 30#^v4]]
+    ![[Ecclesiasticus 30#^v5]]
     ![[Ecclesiasticus 30#^v6]]
+
     Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself. When you die, your son should be in your image. He left behind him an avenger against his enemies, and one that shall requite kindness unto his friends: meaning your son will look after your father's friends.
   - **[[1 Timothy 3#^v6|1 Timothy 3:6]]**
     ![[1 Timothy 3#^v6]]
@@ -269,7 +330,10 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[2 Chronicles 11#^v12|2 Chronicles 11:12-16]]**  *[1:39:42]*
 
+![[2 Chronicles 11#^v12]]
+![[2 Chronicles 11#^v13]]
 ![[2 Chronicles 11#^v14]]
+![[2 Chronicles 11#^v15]]
 ![[2 Chronicles 11#^v16]]
 
 - Remember the Levites were scattered throughout all 12 tribes. The ones that lived with the kingdom of Judah were fine, but the ones that lived with the northern kingdom were not, because when the high holy days would come about, Levi's job was to tell everybody, especially in them three top holidays, we have to go up to Jerusalem to worship. Remember what the woman of Samaria said: you Jews say that in Jerusalem is where men ought to worship.
@@ -278,8 +342,13 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[2 Kings 17#^v18|2 Kings 17:18-24]]**  *[1:44:20]*
 
+![[2 Kings 17#^v18]]
+![[2 Kings 17#^v19]]
 ![[2 Kings 17#^v20]]
+![[2 Kings 17#^v21]]
+![[2 Kings 17#^v22]]
 ![[2 Kings 17#^v23]]
+![[2 Kings 17#^v24]]
 
 - Therefore the Lord was very angry with Israel, and removed them out of his sight: that's the 10 tribes. Also Judah kept not the commandments of the Lord their God: Judah was messing up too, but walked in the statutes of Israel which they made. We were doing the same thing the northern kingdom was doing.
 - And the Lord rejected all the seed of Israel: see that? All 12 tribes God was pissed at now.
@@ -287,6 +356,8 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[2 Kings 18#^v9|2 Kings 18:9-12]]**  *[1:44:20]*
 
+![[2 Kings 18#^v9]]
+![[2 Kings 18#^v10]]
 ![[2 Kings 18#^v11]]
 ![[2 Kings 18#^v12]]
 
@@ -294,8 +365,10 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[2 Kings 24#^v1|2 Kings 24:1-4]]**  *[1:48:28]*
 
+![[2 Kings 24#^v1]]
 ![[2 Kings 24#^v2]]
 ![[2 Kings 24#^v3]]
+![[2 Kings 24#^v4]]
 
 - Now, what happened with Judah? Jehoiakim became the servant of Nebuchadnezzar; he was set up in authority, supposed to pay tribute and obey Nebuchadnezzar, and he started to rebel. So the Lord sent against him bands of the Chaldees, according to the word of the Lord which he spake by his servants the prophets. So now Judah's getting removed out of the Lord's sight.
 - For the sins of Manasseh: King Manasseh, when y'all read about him, that was an evil brother right there. But he did repent. And also for the innocent blood that he shed, which the Lord would not pardon. So both kingdoms went into captivity: Assyrian captivity, Babylonian captivity.
@@ -312,7 +385,9 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 **[[Ezra 1#^v1|Ezra 1:1-4]]**  *[1:52:35]*
 
 ![[Ezra 1#^v1]]
+![[Ezra 1#^v2]]
 ![[Ezra 1#^v3]]
+![[Ezra 1#^v4]]
 
 - During the Persian captivity, we got liberty. The Lord God of heaven hath given me all the kingdoms of the earth: he said that because he knew it was a prophecy. It goes into more detail when you read the writings of Flavius Josephus, on how the prophets were showing Cyrus what he must do. And he obeyed that.
 - Verse three: he makes a proclamation to all 12 tribes. Who is there among you of all his people? He's not just talking to Judah. And whosoever remaineth in any place where he sojourneth: if you decide you don't want to go back to the land of Israel, you want to stay where you've been living for all these decades, let the men of his place help him with silver, and with gold, and with goods, and with beasts. So some of the northern kingdom did go back with the kingdom of Judah; some of the southern kingdom decided, no, we're going to stay out here too. Everybody did not go back.
@@ -326,7 +401,11 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 ![[2 Esdras 13#^v40]]
 ![[2 Esdras 13#^v41]]
+![[2 Esdras 13#^v42]]
+![[2 Esdras 13#^v43]]
+![[2 Esdras 13#^v44]]
 ![[2 Esdras 13#^v45]]
+![[2 Esdras 13#^v46]]
 
 - This is the same Ezra; it's written Esdras, the Greek translation of his name.
 - He carried them over the waters: in order to be carried over the waters, you got to be in what? A ship. So the 10 tribes did go into captivity on ships.
@@ -338,6 +417,7 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 ![[Matthew 4#^v15]]
 ![[Matthew 4#^v16]]
+![[Matthew 4#^v17]]
 
 - Now you had some Israelites that came back to the land. Watch what they were calling some of the kingdom of Israel: the land of Zabulon and the land of Nephthalim, Galilee of the Gentiles. They were calling them Gentiles.
 - From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand. So Christ was that great light that was being spoken of.
@@ -394,9 +474,42 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
 **[[Acts 10#^v1|Acts 10:1-36]]**  *[2:17:51]*
 
+![[Acts 10#^v1]]
+![[Acts 10#^v2]]
+![[Acts 10#^v3]]
+![[Acts 10#^v4]]
+![[Acts 10#^v5]]
+![[Acts 10#^v6]]
+![[Acts 10#^v7]]
+![[Acts 10#^v8]]
+![[Acts 10#^v9]]
+![[Acts 10#^v10]]
 ![[Acts 10#^v11]]
+![[Acts 10#^v12]]
+![[Acts 10#^v13]]
+![[Acts 10#^v14]]
 ![[Acts 10#^v15]]
+![[Acts 10#^v16]]
+![[Acts 10#^v17]]
+![[Acts 10#^v18]]
+![[Acts 10#^v19]]
+![[Acts 10#^v20]]
+![[Acts 10#^v21]]
+![[Acts 10#^v22]]
+![[Acts 10#^v23]]
+![[Acts 10#^v24]]
+![[Acts 10#^v25]]
+![[Acts 10#^v26]]
+![[Acts 10#^v27]]
 ![[Acts 10#^v28]]
+![[Acts 10#^v29]]
+![[Acts 10#^v30]]
+![[Acts 10#^v31]]
+![[Acts 10#^v32]]
+![[Acts 10#^v33]]
+![[Acts 10#^v34]]
+![[Acts 10#^v35]]
+![[Acts 10#^v36]]
 
 - Write this down: Caesarea is in the land of Israel; it is in the land of West Manasseh, right beside Samaria. Map shown on screen. Deacon: Peter lived in Joppa, the seaport there; he sailed up north to visit Cornelius. Christ was raised further up, Galilee, so he was raised around them in that area. And that place Scythopolis means city of the Scythians; Scythians is northern kingdom also. That's who Paul wrote to in Colossians 3:11.
 - A devout man: how do you become a devout man? People go, yeah, he was another nation, but he was devout. No, no, no. He was a devout man according to the law, one that feared God, which gave much alms to the people, and prayed to God alway. Then how was he a devout man according to the law? How did he fear God? How did he know how to pray to God? He had to know the law. So yes, Cornelius is an Israelite, northern kingdom.
@@ -417,12 +530,16 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
     ![[Hosea 8#^v8]]
     Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure. This goes with the certain vessel descending in the dream.
   - **[[Ezekiel 37#^v21|Ezekiel 37:21-23]]**
+
     ![[Ezekiel 37#^v21]]
+    ![[Ezekiel 37#^v22]]
     ![[Ezekiel 37#^v23]]
+
     What has God cleansed? I will take the children of Israel from among the heathen; they shall be no more two nations, neither shall they be divided into two kingdoms any more at all. But I will save them out of all their dwelling places, wherein they have sinned, and will cleanse them. So God say he's going to cleanse us, the 12 tribes.
 
 **[[Acts 13#^v45|Acts 13:45-47]]**  *[2:34:29]*
 
+![[Acts 13#^v45]]
 ![[Acts 13#^v46]]
 ![[Acts 13#^v47]]
 
@@ -456,7 +573,10 @@ Book read in class: The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew
 **[[Romans 11#^v17|Romans 11:17-21]]**  *[2:47:16]*
 
 ![[Romans 11#^v17]]
+![[Romans 11#^v18]]
+![[Romans 11#^v19]]
 ![[Romans 11#^v20]]
+![[Romans 11#^v21]]
 
 - And if some of the branches be broken off: that's Judah broken off. And thou, being a wild olive tree, wert graffed in among them: that's what we just read in Ezekiel 37.
 - Boast not against the branches: don't boast against Judah. But if thou boast, thou bearest not the root, but the root thee: the root is Christ. Christ is the one that keeps the northern kingdom graffed in with Judah.
@@ -473,8 +593,14 @@ Book read in class: The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew
 
 **[[Revelation 7#^v1|Revelation 7:1-8]]**  *[2:51:23]*
 
+![[Revelation 7#^v1]]
 ![[Revelation 7#^v2]]
+![[Revelation 7#^v3]]
 ![[Revelation 7#^v4]]
+![[Revelation 7#^v5]]
+![[Revelation 7#^v6]]
+![[Revelation 7#^v7]]
+![[Revelation 7#^v8]]
 
 - Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads: don't let war pop off to the max until the servants of God are sealed with the law of God in Christ.
 - And there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel: these are the leaders here; 144,000 is just the leading men. In order for them to be sealed, they got to know who they are, at least to some extent. So how you going to read that and be confused about the 12 tribes? You just read all of the tribes there. You can't make this stuff up.
@@ -489,16 +615,26 @@ Book read in class: The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew
 
 **[[Psalms 122#^v1|Psalms 122:1-6]]**  *[2:55:28]*
 
+![[Psalms 122#^v1]]
+![[Psalms 122#^v2]]
 ![[Psalms 122#^v3]]
+![[Psalms 122#^v4]]
 ![[Psalms 122#^v5]]
+![[Psalms 122#^v6]]
 
 - I was glad when they said unto me, Let us go into the house of the Lord. Whither the tribes go up, the tribes of the Lord, unto the testimony of Israel: other nations ain't there. They're not mentioned here.
 - For there are set thrones of judgment, the thrones of the house of David. Pray for the peace of Jerusalem: they shall prosper that love thee. Some of y'all busy praying for Haiti, praying for Puerto Rico, praying for Mexico, praying for America. But the Bible said pray for Jerusalem. Remember, Jerusalem's a people before it's a place. We are Jerusalem. Pray for us. We're not supposed to be praying, stop the war over there; no, we got to move them out of our land so that we can go back home.
 
   Precepts:
   - **[[Revelation 21#^v12|Revelation 21:12-17]]**
+
     ![[Revelation 21#^v12]]
+    ![[Revelation 21#^v13]]
+    ![[Revelation 21#^v14]]
+    ![[Revelation 21#^v15]]
     ![[Revelation 21#^v16]]
+    ![[Revelation 21#^v17]]
+
     Why does it say Jerusalem is builded as a city that is compact together? And had twelve gates, and names written thereon, which are the names of the twelve tribes of the children of Israel: this is our book. The kingdom is ours. The city lieth foursquare; twelve thousand furlongs: so it was 1,500 miles, the length and the breadth and the height of it equal, like a square, like a box. The wall, 144 cubits, approximately 216 feet, according to the measure of a man, that is, of the angel: so it's actually larger.
   - **[[Revelation 20#^v4|Revelation 20:4]]**
     ![[Revelation 20#^v4]]
@@ -526,12 +662,16 @@ Book read in class: The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew
     ![[Hosea 3#^v5]]
     The children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim: little images we made of family members. Afterward shall the children of Israel return, and seek the Lord their God, and David their king, and shall fear the Lord and his goodness in the latter days. So in these latter days, David's going to be here. Who he is, we don't know.
   - **[[Psalms 80#^v1|Psalms 80:1-3]]**
+
     ![[Psalms 80#^v1]]
+    ![[Psalms 80#^v2]]
     ![[Psalms 80#^v3]]
+
     Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock: this is Christ. Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us. Turn us again: turn us again to your laws, turn us again to our identity, our nationality, and we shall be saved.
 
 **[[Acts 15#^v15|Acts 15:15-17]]**  *[3:03:52]*
 
+![[Acts 15#^v15]]
 ![[Acts 15#^v16]]
 ![[Acts 15#^v17]]
 
@@ -544,8 +684,11 @@ Book read in class: The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew
 
 **[[Isaiah 11#^v10|Isaiah 11:10-14]]**  *[3:07:58]*
 
+![[Isaiah 11#^v10]]
 ![[Isaiah 11#^v11]]
+![[Isaiah 11#^v12]]
 ![[Isaiah 11#^v13]]
+![[Isaiah 11#^v14]]
 
 - In that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek. So Christ is that ensign, and the Gentiles shall seek to Christ. This is a good scripture to explain Gentiles in conjunction with Matthew 4:15.
 - The Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria (that's Turkey), and from Egypt (that's in Africa), and from Pathros (Sudan), and from Cush (Ethiopia), and from Elam (Iran, Pakistan), and from Shinar (Iraq), and from Hamath (Syria), and from the islands of the sea (Puerto Rico, Haiti, the Pacific Islands).

@@ -17,6 +17,10 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
 ![[Wisdom of Solomon 1#^v3]]
 ![[Wisdom of Solomon 1#^v4]]
+![[Wisdom of Solomon 1#^v5]]
+![[Wisdom of Solomon 1#^v6]]
+![[Wisdom of Solomon 1#^v7]]
+![[Wisdom of Solomon 1#^v8]]
 
 - A froward thought means it is your worldly thought. You want to do what you want to do; you don't want to do what the Lord is telling you to do. You think you know better than the Lord, you think you know better than the men that rule over you. That means your mind ain't on the Lord at all; you're separating yourself by your own thoughts, which means ultimately you lack character, you lack integrity.
 - Wisdom cannot enter somebody with a malicious soul: a person that can't be corrected, that don't have good moral character. Some brothers know all the scriptures, but they can't keep rank, they always having issues. You know all these scriptures, why are you not applying them? That is because you have bad judgment, bad moral character.
@@ -56,6 +60,16 @@ Integrity is a decision that has to be made every time. If you are not reading y
 **[[Job 2#^v3|Job 2:3-13]]**  *[22:40]*
 
 ![[Job 2#^v3]]
+![[Job 2#^v4]]
+![[Job 2#^v5]]
+![[Job 2#^v6]]
+![[Job 2#^v7]]
+![[Job 2#^v8]]
+![[Job 2#^v9]]
+![[Job 2#^v10]]
+![[Job 2#^v11]]
+![[Job 2#^v12]]
+![[Job 2#^v13]]
 
 - This is a man that have integrity, very good moral character and ethics. The Lord said there wasn't nobody on the earth like him; that is the standard he had.
 - He lost his kids, he lost everything that he had, he had boils all over his body, and still he holdeth fast his integrity.
@@ -77,6 +91,8 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
 **[[John 12#^v4|John 12:4-6]]**  *[33:45]*
 
+![[John 12#^v4]]
+![[John 12#^v5]]
 ![[John 12#^v6]]
 
 - Judas Iscariot said, why was not this ointment sold and given to the poor? This he said, not that he cared for the poor, but because he was a thief. This man walked with Christ, seen many miracles, and still betrayed the savior, and betrayed the disciples and everybody else around him.
@@ -99,6 +115,9 @@ Integrity is a decision that has to be made every time. If you are not reading y
 **[[1 Samuel 18#^v8|1 Samuel 18:8-11]]**
 
 ![[1 Samuel 18#^v8]]
+![[1 Samuel 18#^v9]]
+![[1 Samuel 18#^v10]]
+![[1 Samuel 18#^v11]]
 
 - They have ascribed unto David ten thousands, and to me they have ascribed but thousands. You the king, but you jealous? Jealousy and envy is a lack of character.
 - Saul eyed David from that day and forward, and cast the javelin to smite David even to the wall. By not obtaining the integrity and not having good moral character, Saul continued to wax worse; his character begins to decline even more over time.

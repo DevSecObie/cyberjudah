@@ -87,6 +87,22 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Deuteronomy 28#^v15|Deuteronomy 28:15-33]]**  *[58:27]*
 
 ![[Deuteronomy 28#^v15]]
+![[Deuteronomy 28#^v16]]
+![[Deuteronomy 28#^v17]]
+![[Deuteronomy 28#^v18]]
+![[Deuteronomy 28#^v19]]
+![[Deuteronomy 28#^v20]]
+![[Deuteronomy 28#^v21]]
+![[Deuteronomy 28#^v22]]
+![[Deuteronomy 28#^v23]]
+![[Deuteronomy 28#^v24]]
+![[Deuteronomy 28#^v25]]
+![[Deuteronomy 28#^v26]]
+![[Deuteronomy 28#^v27]]
+![[Deuteronomy 28#^v28]]
+![[Deuteronomy 28#^v29]]
+![[Deuteronomy 28#^v30]]
+![[Deuteronomy 28#^v31]]
 ![[Deuteronomy 28#^v32]]
 ![[Deuteronomy 28#^v33]]
 
@@ -99,8 +115,14 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Deuteronomy 28#^v37|Deuteronomy 28:37-45]]**  *[1:02:34]*
 
 ![[Deuteronomy 28#^v37]]
+![[Deuteronomy 28#^v38]]
+![[Deuteronomy 28#^v39]]
+![[Deuteronomy 28#^v40]]
+![[Deuteronomy 28#^v41]]
+![[Deuteronomy 28#^v42]]
 ![[Deuteronomy 28#^v43]]
 ![[Deuteronomy 28#^v44]]
+![[Deuteronomy 28#^v45]]
 
 - And thou shalt become an astonishment, a proverb, and a byword. Being called an African-American is a proverb and a byword; that's not your name. You are Judah. Being called a Haitian is the same thing. Jamaican, same thing. Being called a Puerto Rican is the same thing. You are Ephraim, Benjamin, Levi; those are our names.
 - I want you guys to meditate on verse 37, because again, some of you forgot: when Moses gave this, all 12 was together. I'm showing you: when something happen to one of us, it happen to all of us. If something happen to the so-called Haitian, it also happen to the so-called African-American. They want us to divide. The white men understand divide and conquer; we black people do not understand that. Malcolm X said if you want your oppressor scared, unify. Us divided, that do not scare white people; when they see unity, that's what scare them.
@@ -124,6 +146,9 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Deuteronomy 28#^v64|Deuteronomy 28:64-67]]**  *[1:14:44]*
 
 ![[Deuteronomy 28#^v64]]
+![[Deuteronomy 28#^v65]]
+![[Deuteronomy 28#^v66]]
+![[Deuteronomy 28#^v67]]
 
 - And the Lord shall scatter thee among all people. The Israelites is going to scatter among all people. We all know according to Genesis chapter 49 where the bulk of them was going to be: when you go to Haiti, that's the Levite; America, that's Judah; when you go to Jamaica, that's Benjamin. However, no matter where you go, you're going to see maybe a Haitian there, one of Judah here, a so-called Jamaican there. In other words, we're going to scatter, but Genesis 49 is a map where the bulk of them was going to be.
 - From the one end of the earth even unto the other: that's the proof. No matter where you go, you going to see the Israelites. And you know what that verse is saying also? This is for the dumb Israelites talking about, oh, there is no Israelite in Africa. You sound stupid. Based on this scripture, he say from one end of the earth unto the other. No matter where you go, we're going to be there.
@@ -154,6 +179,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 ![[Proverbs 1#^v24]]
 ![[Proverbs 1#^v25]]
 ![[Proverbs 1#^v26]]
+![[Proverbs 1#^v27]]
 
 - Because I have called, and ye refused; I have stretched out my hand, and no man regarded. God called; none of us responded. But ye have set at nought all my counsel: all God's counsel, we set it aside. We say we don't want the law. As a matter of fact, your wicked pastors said do not keep the law.
 - I also will laugh at your calamity. Guess what? What I'm about to say right now, I'm going to get some hatred for this. Guess what, Levi? God is laughing at your calamity. What's happening to you so-called Haitians is not a coincidence. Listen, you all need to repent. I'm talking to those of us repented Israelites in this truth: nothing is a coincidence. There is no coincidence with Most High. Everything Most High do, there's a plan behind it. It's not a coincidence this devil Donald Trump get in office and he want the deportation.
@@ -200,6 +226,12 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 **[[Malachi 2#^v1|Malachi 2:1-9]]**  *[1:48:45]*
 
+![[Malachi 2#^v1]]
+![[Malachi 2#^v2]]
+![[Malachi 2#^v3]]
+![[Malachi 2#^v4]]
+![[Malachi 2#^v5]]
+![[Malachi 2#^v6]]
 ![[Malachi 2#^v7]]
 ![[Malachi 2#^v8]]
 ![[Malachi 2#^v9]]
@@ -253,6 +285,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Psalms 140#^v1|Psalms 140:1-3]]**  *[1:56:57]*
 
 ![[Psalms 140#^v1]]
+![[Psalms 140#^v2]]
 ![[Psalms 140#^v3]]
 
 - Deliver me, O Lord, from the evil man: preserve me from the violent man; which imagine mischiefs in their heart; continually are they gathered together for war. They have sharpened their tongues like a serpent; adders' poison is under their lips.
@@ -279,6 +312,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Psalms 110#^v1|Psalms 110:1-3]]**  *[2:01:09]*
 
 ![[Psalms 110#^v1]]
+![[Psalms 110#^v2]]
 ![[Psalms 110#^v3]]
 
 - Levi, listen: you better repent, that when the destruction come, you don't fall in it.
@@ -307,6 +341,10 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Psalms 69#^v22|Psalms 69:22-28]]**  *[2:05:10]*
 
 ![[Psalms 69#^v22]]
+![[Psalms 69#^v23]]
+![[Psalms 69#^v24]]
+![[Psalms 69#^v25]]
+![[Psalms 69#^v26]]
 ![[Psalms 69#^v27]]
 ![[Psalms 69#^v28]]
 
@@ -316,8 +354,36 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Psalms 109#^v1|Psalms 109:1-31]]**  *[2:09:22]*
 
 ![[Psalms 109#^v1]]
+![[Psalms 109#^v2]]
+![[Psalms 109#^v3]]
+![[Psalms 109#^v4]]
+![[Psalms 109#^v5]]
+![[Psalms 109#^v6]]
+![[Psalms 109#^v7]]
+![[Psalms 109#^v8]]
+![[Psalms 109#^v9]]
+![[Psalms 109#^v10]]
+![[Psalms 109#^v11]]
+![[Psalms 109#^v12]]
 ![[Psalms 109#^v13]]
+![[Psalms 109#^v14]]
+![[Psalms 109#^v15]]
+![[Psalms 109#^v16]]
+![[Psalms 109#^v17]]
+![[Psalms 109#^v18]]
+![[Psalms 109#^v19]]
 ![[Psalms 109#^v20]]
+![[Psalms 109#^v21]]
+![[Psalms 109#^v22]]
+![[Psalms 109#^v23]]
+![[Psalms 109#^v24]]
+![[Psalms 109#^v25]]
+![[Psalms 109#^v26]]
+![[Psalms 109#^v27]]
+![[Psalms 109#^v28]]
+![[Psalms 109#^v29]]
+![[Psalms 109#^v30]]
+![[Psalms 109#^v31]]
 
 - I'm not even going to break down this chapter. That's a heavy chapter. That's a heavy prayer. I'm just going to read through it.
 - Hold not thy peace, O God of my praise; for the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue. They compassed me about also with words of hatred; and fought against me without a cause. Set thou a wicked man over him: and let Satan stand at his right hand. Let his days be few; and let another take his office. Let his children be fatherless, and his wife a widow. Let the extortioner catch all that he hath; and let the strangers spoil his labour. Let there be none to extend mercy unto him. Let his posterity be cut off; and in the generation following let their name be blotted out. Let them be before the Lord continually, that he may cut off the memory of them from the earth. That's our prayer for America.
@@ -354,7 +420,9 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 **[[Luke 13#^v1|Luke 13:1-5]]**  *[2:17:38]*
 
 ![[Luke 13#^v1]]
+![[Luke 13#^v2]]
 ![[Luke 13#^v3]]
+![[Luke 13#^v4]]
 ![[Luke 13#^v5]]
 
 - To close up: for Judah, the so-called African-American; for Benjamin, the so-called Jamaican; for Ephraim, the so-called Puerto Rican; Simeon, the so-called Dominican; Manasseh, the so-called Cuban; whoever's thinking what happened to the so-called Haitian is not going to happen to y'all: let me see what Jesus Christ said.

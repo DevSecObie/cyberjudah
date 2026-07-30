@@ -16,7 +16,13 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 **[[Ecclesiastes 1#^v4|Ecclesiastes 1:4-11]]**  *[9:10]*
 
 ![[Ecclesiastes 1#^v4]]
+![[Ecclesiastes 1#^v5]]
+![[Ecclesiastes 1#^v6]]
+![[Ecclesiastes 1#^v7]]
+![[Ecclesiastes 1#^v8]]
 ![[Ecclesiastes 1#^v9]]
+![[Ecclesiastes 1#^v10]]
+![[Ecclesiastes 1#^v11]]
 
 - One generation comes, another generation goes. The old die, the young are born. The sun has a cycle; the wind has a circuit or cycles, just as generations have circuits and cycles. Oceans flow into rivers, rivers flow back into oceans. It's a cycle.
 - The thing that hath been is that which shall be, and there is no new thing under the sun. Is there any thing whereof it may be said, See, this is new? It hath been already of old time, which was before us: before our generation, it was in the past. And there is no remembrance of former things.
@@ -63,8 +69,21 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 **[[Genesis 4#^v1|Genesis 4:1-16]]**  *[21:27]*
 
 ![[Genesis 4#^v1]]
+![[Genesis 4#^v2]]
+![[Genesis 4#^v3]]
+![[Genesis 4#^v4]]
+![[Genesis 4#^v5]]
+![[Genesis 4#^v6]]
 ![[Genesis 4#^v7]]
+![[Genesis 4#^v8]]
+![[Genesis 4#^v9]]
+![[Genesis 4#^v10]]
+![[Genesis 4#^v11]]
+![[Genesis 4#^v12]]
+![[Genesis 4#^v13]]
+![[Genesis 4#^v14]]
 ![[Genesis 4#^v15]]
+![[Genesis 4#^v16]]
 
 - Adam knew his wife; she conceived and bare Cain. These are the children they had when they were cast out of the garden; Cain, their firstborn that they had when they were cast out. I'm emphasizing that. And Eve said, I have gotten a man from the Lord.
 - Abel was a keeper of sheep; he was a shepherd. But Cain was a tiller of the ground. So where did Cain spend most of his time? In the field.
@@ -84,6 +103,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 **[[Genesis 10#^v8|Genesis 10:8-10]]**  *[34:02]*
 
 ![[Genesis 10#^v8]]
+![[Genesis 10#^v9]]
 ![[Genesis 10#^v10]]
 
 - Cush begat Nimrod: these are Hamites. He began to be a mighty one in the earth: a leader, an elite leader, and evil as hell also. He was a mighty hunter before the Lord: he hunted after men; a man of the field too also. When it says mighty hunter, it means he was very evil, an evil leader or ruler.
@@ -132,9 +152,19 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[Genesis 6#^v1|Genesis 6:1-13]]**  *[58:43]*
 
+![[Genesis 6#^v1]]
 ![[Genesis 6#^v2]]
+![[Genesis 6#^v3]]
+![[Genesis 6#^v4]]
 ![[Genesis 6#^v5]]
+![[Genesis 6#^v6]]
+![[Genesis 6#^v7]]
 ![[Genesis 6#^v8]]
+![[Genesis 6#^v9]]
+![[Genesis 6#^v10]]
+![[Genesis 6#^v11]]
+![[Genesis 6#^v12]]
+![[Genesis 6#^v13]]
 
 - The sons of God saw the daughters of men. What did Eve say about Cain? I've gotten a man of the Lord. So the men here is whose children? Cain's children. The daughters of men came from Cain's line, and the sons of God came out of Adam's line through Seth. What did the sons of God start doing? Messing around with Cain's daughters.
 - My spirit shall not always strive with man, for that he also is flesh: man is fallible, man makes mistakes. Yet his days shall be an hundred and twenty years: I'mma cut man's life short.
@@ -146,8 +176,11 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
   Precepts:
   - **[[Genesis 5#^v1|Genesis 5:1-3]]**
+
     ![[Genesis 5#^v1]]
+    ![[Genesis 5#^v2]]
     ![[Genesis 5#^v3]]
+
     God made Adam in his likeness, so Adam was the son of God. And Adam begat a son in his own likeness, after his image, and called his name Seth. Was Cain made in Adam's image? No. Everyone's not made in God's image. Cain was not made in God's image; Seth was; Abel was. Cain was a man of the Lord, a regular man; God made him, but he wasn't God's son. He was somebody else's son: of that wicked one.
   - **[[Luke 3#^v38|Luke 3:38]]**
     ![[Luke 3#^v38]]
@@ -161,8 +194,12 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[Genesis 25#^v21|Genesis 25:21-27]]**  *[1:11:33]*
 
+![[Genesis 25#^v21]]
+![[Genesis 25#^v22]]
 ![[Genesis 25#^v23]]
+![[Genesis 25#^v24]]
 ![[Genesis 25#^v25]]
+![[Genesis 25#^v26]]
 ![[Genesis 25#^v27]]
 
 - Rebekah's pregnant and having issues in the womb: if this be the blessing of God, why am I in this condition? Two nations are in thy womb, and two manner of people shall be separated from thy bowels: they're twins, but two different nations, two different people. Their manners, meaning how they look, how they think, how they behave, will be completely different. Two different nations or races in her womb, and they're going to think different.
@@ -192,6 +229,8 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 **[[Psalms 140#^v1|Psalms 140:1-4]]**  *[1:24:18]*
 
 ![[Psalms 140#^v1]]
+![[Psalms 140#^v2]]
+![[Psalms 140#^v3]]
 ![[Psalms 140#^v4]]
 
 - Deliver me, O Lord, from the evil man: preserve me from the violent man. They have sharpened their tongues like a serpent; adders' poison is under their lips: they're liars.
@@ -199,8 +238,12 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
   Precepts:
   - **[[Malachi 1#^v1|Malachi 1:1-4]]**
+
+    ![[Malachi 1#^v1]]
+    ![[Malachi 1#^v2]]
     ![[Malachi 1#^v3]]
     ![[Malachi 1#^v4]]
+
     Yet I loved Jacob, just like he loved Abel, and I hated Esau, and laid his mountains and his heritage waste: allowed him to be overthrown. Whereas Edom saith, We are impoverished: we lost all, we're going back to being vagabonds. But we will return and build the desolate places: build up ourselves as an empire, like Cain built that city. They shall build, but I will throw down. And they shall call them the border of wickedness: the beginning and the end of wickedness. And the people against whom the Lord hath indignation for ever: no repentance, no salvation, no kingdom, ever. Not even the good ones, so some of you coons out there.
   - **[[Matthew 11#^v12|Matthew 11:12]]**
     ![[Matthew 11#^v12]]
@@ -209,6 +252,12 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 **[[Genesis 30#^v36|Genesis 30:36-43]]**  *[1:28:26]*
 
 ![[Genesis 30#^v36]]
+![[Genesis 30#^v37]]
+![[Genesis 30#^v38]]
+![[Genesis 30#^v39]]
+![[Genesis 30#^v40]]
+![[Genesis 30#^v41]]
+![[Genesis 30#^v42]]
 ![[Genesis 30#^v43]]
 
 - Rebekah told Jacob to flee to her brother's house because Esau wanted him dead. So he ran over there to Laban, and Jacob fed the rest of Laban's flocks. Jacob dealt with the flocks: he took the rods of green poplar and hazel and chestnut, pilled white strakes in them, set them before the flocks in the watering troughs; the stronger cattle conceived among the rods, and the feebler were Laban's and the stronger Jacob's, and the man increased exceedingly.
@@ -216,14 +265,45 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
   Precepts:
   - **[[Genesis 31#^v38|Genesis 31:38-41]]**
+
     ![[Genesis 31#^v38]]
+    ![[Genesis 31#^v39]]
+    ![[Genesis 31#^v40]]
     ![[Genesis 31#^v41]]
+
     This is Jacob talking: twenty years have I been with thee; that which was torn of beasts I brought not unto thee; I bare the loss of it. In the day the drought consumed me, and the frost by night. I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times. Laban was a grimy dude, man. He did Jacob dirty: yo, man, you changed my wages, my paycheck is all low, I'm taking care of your cattle, you're doing me wrong over here.
 
 **[[Genesis 5#^v3|Genesis 5:3-32]]**  *[1:32:28]*
 
 ![[Genesis 5#^v3]]
+![[Genesis 5#^v4]]
+![[Genesis 5#^v5]]
+![[Genesis 5#^v6]]
+![[Genesis 5#^v7]]
+![[Genesis 5#^v8]]
+![[Genesis 5#^v9]]
+![[Genesis 5#^v10]]
+![[Genesis 5#^v11]]
+![[Genesis 5#^v12]]
+![[Genesis 5#^v13]]
+![[Genesis 5#^v14]]
+![[Genesis 5#^v15]]
+![[Genesis 5#^v16]]
+![[Genesis 5#^v17]]
+![[Genesis 5#^v18]]
+![[Genesis 5#^v19]]
+![[Genesis 5#^v20]]
+![[Genesis 5#^v21]]
+![[Genesis 5#^v22]]
+![[Genesis 5#^v23]]
 ![[Genesis 5#^v24]]
+![[Genesis 5#^v25]]
+![[Genesis 5#^v26]]
+![[Genesis 5#^v27]]
+![[Genesis 5#^v28]]
+![[Genesis 5#^v29]]
+![[Genesis 5#^v30]]
+![[Genesis 5#^v31]]
 ![[Genesis 5#^v32]]
 
 - You notice it keeps saying they begat sons and daughters, but it names specific names, because these particular children were significant: they birthed prophets. The other sons and daughters, there was wickedness. That's why Noah was found perfect: he had siblings, but he was mentioned because he was the righteous one out of all the sons of God at the time dealing with the daughters of men.
@@ -246,7 +326,20 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 **[[Genesis 7#^v1|Genesis 7:1-16]]**  *[1:41:15]*
 
 ![[Genesis 7#^v1]]
+![[Genesis 7#^v2]]
+![[Genesis 7#^v3]]
+![[Genesis 7#^v4]]
+![[Genesis 7#^v5]]
+![[Genesis 7#^v6]]
+![[Genesis 7#^v7]]
+![[Genesis 7#^v8]]
+![[Genesis 7#^v9]]
+![[Genesis 7#^v10]]
 ![[Genesis 7#^v11]]
+![[Genesis 7#^v12]]
+![[Genesis 7#^v13]]
+![[Genesis 7#^v14]]
+![[Genesis 7#^v15]]
 ![[Genesis 7#^v16]]
 
 - For thee have I seen righteous before me in this generation: keeping the commandments. He said, this generation of yours, they got to go; I got to kill everybody but you.
@@ -263,7 +356,10 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[Hebrews 11#^v3|Hebrews 11:3-7]]**  *[1:45:52]*
 
+![[Hebrews 11#^v3]]
+![[Hebrews 11#^v4]]
 ![[Hebrews 11#^v5]]
+![[Hebrews 11#^v6]]
 ![[Hebrews 11#^v7]]
 
 - By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous; and by it he being dead yet speaketh: his righteousness speaks even though he's passed, dead, and gone.
@@ -274,6 +370,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 **[[1 Peter 3#^v18|1 Peter 3:18-20]]**  *[1:45:52]*
 
 ![[1 Peter 3#^v18]]
+![[1 Peter 3#^v19]]
 ![[1 Peter 3#^v20]]
 
 - Being put to death in the flesh: Christ is a man. Christ was put to death in the flesh. It doesn't say put to death in the God and flesh; oh, he's both. No, it was a man. Some make him Hercules, a demigod, half and half. No, he was a man with spiritual power. But quickened by the Spirit: brought back to life by the spirit after three days.
@@ -295,7 +392,12 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[2 Esdras 3#^v5|2 Esdras 3:5-11]]**  *[1:58:43]*
 
+![[2 Esdras 3#^v5]]
+![[2 Esdras 3#^v6]]
 ![[2 Esdras 3#^v7]]
+![[2 Esdras 3#^v8]]
+![[2 Esdras 3#^v9]]
+![[2 Esdras 3#^v10]]
 ![[2 Esdras 3#^v11]]
 
 - And thou leddest him into paradise: Adam was in paradise, heaven on earth, them 12 gates. And unto him thou gavest commandment to love thy way, which he transgressed, and immediately thou appointedst death in him and in his generations.
@@ -324,6 +426,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[Isaiah 54#^v8|Isaiah 54:8-10]]**  *[2:07:25]*
 
+![[Isaiah 54#^v8]]
 ![[Isaiah 54#^v9]]
 ![[Isaiah 54#^v10]]
 
@@ -333,7 +436,14 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[Ezekiel 14#^v12|Ezekiel 14:12-20]]**  *[2:11:33]*
 
+![[Ezekiel 14#^v12]]
+![[Ezekiel 14#^v13]]
 ![[Ezekiel 14#^v14]]
+![[Ezekiel 14#^v15]]
+![[Ezekiel 14#^v16]]
+![[Ezekiel 14#^v17]]
+![[Ezekiel 14#^v18]]
+![[Ezekiel 14#^v19]]
 ![[Ezekiel 14#^v20]]
 
 - When the land sinneth against me, then will I stretch out mine hand upon it, and will break the staff of the bread thereof: bring famine.
@@ -342,8 +452,14 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[Daniel 2#^v36|Daniel 2:36-43]]**  *[2:11:33]*
 
+![[Daniel 2#^v36]]
+![[Daniel 2#^v37]]
 ![[Daniel 2#^v38]]
+![[Daniel 2#^v39]]
+![[Daniel 2#^v40]]
 ![[Daniel 2#^v41]]
+![[Daniel 2#^v42]]
+![[Daniel 2#^v43]]
 
 - The dream the Lord showed King Nebuchadnezzar regarding the empires to follow. Thou art this head of gold: that's Babylon. After thee shall arise another kingdom inferior to thee: the Medes joined with the Persians. And another third kingdom of brass: Greece. And the fourth kingdom shall be strong as iron: Rome. And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided: that's America. But there shall be in it of the strength of the iron: Rome's power, military might.
 - Iron: remember what Cain specialized in? Brass and iron, weapons, war. Same thing. Nothing new under the sun.
@@ -352,7 +468,18 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 ![[Revelation 13#^v1]]
 ![[Revelation 13#^v2]]
+![[Revelation 13#^v3]]
+![[Revelation 13#^v4]]
+![[Revelation 13#^v5]]
+![[Revelation 13#^v6]]
+![[Revelation 13#^v7]]
+![[Revelation 13#^v8]]
+![[Revelation 13#^v9]]
+![[Revelation 13#^v10]]
+![[Revelation 13#^v11]]
+![[Revelation 13#^v12]]
 ![[Revelation 13#^v13]]
+![[Revelation 13#^v14]]
 
 - This beast rising up out of the sea is the fourth beast; rather than ten toes, this beast has ten horns. It's the same exact beast, just given a different attribute. On the statue it's toes of feet; in Daniel 7 it's the fourth beast; in Esdras it's an eagle; in Revelation it's a dragon.
 - Like unto a leopard: that's the Greek philosophy, democracy, the politics of America. The mouth of a lion: the Babylonian doctrines found in America. The feet of a bear: Persia. This empire took all the ancient dark civilizations, learned from their mistakes, and merged them into itself.
@@ -362,13 +489,22 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
   Precepts:
   - **[[Revelation 17#^v3|Revelation 17:3-5]]**
+
+    ![[Revelation 17#^v3]]
+    ![[Revelation 17#^v4]]
     ![[Revelation 17#^v5]]
+
     He saw the woman sit upon a scarlet coloured beast that had seven heads and ten horns, she being the eighth head. Arrayed in purple and scarlet, decked with gold: well off, wealthy, powerful. And upon her forehead was a name written: Mystery, Babylon the Great, the mother of harlots. Why is this important? I said before, judgment is like a ring. Babylon was the first, and then it ends with Babylon again. It's full circle, just as a ring. Babylon reigned over us; now Babylon reigns over us again. Nothing new under the sun. This is a whole loop.
 
 **[[2 Peter 3#^v1|2 Peter 3:1-7]]**  *[2:19:58]*
 
+![[2 Peter 3#^v1]]
+![[2 Peter 3#^v2]]
 ![[2 Peter 3#^v3]]
+![[2 Peter 3#^v4]]
+![[2 Peter 3#^v5]]
 ![[2 Peter 3#^v6]]
+![[2 Peter 3#^v7]]
 
 - There shall come in the last days scoffers, walking after their own lusts: like in Noah's time. They didn't believe: Noah building the boat for no reason, Noah's crazy, his crazy sons and wives over there building a boat. They were scoffing. And saying, Where is the promise of his coming? Where's your rain at? Where's this judgment coming from?
 - For since the fathers fell asleep, all things continue as they were from the beginning: this is how the world is supposed to be, this how the world is. This ain't captivity, we free.
@@ -377,8 +513,11 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
   Precepts:
   - **[[Matthew 24#^v37|Matthew 24:37-39]]**
+
     ![[Matthew 24#^v37]]
     ![[Matthew 24#^v38]]
+    ![[Matthew 24#^v39]]
+
     This generation shall not pass till all these things be fulfilled: the same generation that was around during Christ's time, guess where they're at now? Here. Heaven and earth shall pass away: with nuclear fire. But as the days of Noe were, so shall also the coming of the Son of man be. The exact same people that were ruling during Noah's time will be ruling in this time. The same ignorance Noah faced back then, we're going to face now. The same word he was preaching back then, we're preaching now. They were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark, and knew not until the flood came, and took them all away.
   - **[[Wisdom of Solomon 10#^v4|Wisdom of Solomon 10:4]]**
     ![[Wisdom of Solomon 10#^v4]]
@@ -390,9 +529,13 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[[2 Peter 3#^v8|2 Peter 3:8-14]]**  *[2:28:31]*
 
+![[2 Peter 3#^v8]]
 ![[2 Peter 3#^v9]]
 ![[2 Peter 3#^v10]]
+![[2 Peter 3#^v11]]
+![[2 Peter 3#^v12]]
 ![[2 Peter 3#^v13]]
+![[2 Peter 3#^v14]]
 
 - The Lord is not slack concerning his promise, as some men count slackness: meaning some men scoff and don't believe it's coming. The fire is coming here.
 - But is longsuffering to us-ward: remember that word, longsuffering. What did Noah do? Preach to the people. God gave us time to get it right. Not willing that any should perish: not willing that any should be drowned to death or burned alive. But that all should come to repentance: as Noah was preaching back then before they got drowned to death.
