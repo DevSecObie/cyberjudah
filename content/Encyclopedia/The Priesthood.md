@@ -54,6 +54,8 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 - The voice out of the bush said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground; I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob.
 - The precepts identify that angel. Stephen recounts that the angel which appeared in the bush sent Moses to be a ruler and a deliverer; Joshua met the captain of the host of the LORD, who gave him the same command, Loose thy shoe from off thy foot; and the captain of their salvation, made perfect through sufferings, is Jesus Christ. Precept upon precept, the angel in the burning bush was Christ.
 - The same angel went before Israel out of Egypt: Behold, I send an Angel before thee; beware of him, and obey his voice, provoke him not, for my name is in him.
+- God is a Spirit, and they that worship him must worship him in spirit and in truth; yet He has a celestial, angelic body, not flesh of this earth. The Ancient of days has a garment and the hair of his head like the pure wool; that is how man could be made in His image.
+- Christ was not reincarnated when he came in the flesh. He took not on him the nature of angels, but the seed of Abraham, made like unto his brethren, born a man so that he could die for the nation of Israel, for an angel cannot die.
 - Precept **[[Hebrews 2#^v16|Hebrews 2:16-17]]**: He took not on him the nature of angels; but he took on him the seed of Abraham, and in all things it behoved him to be made like unto his brethren.
 
 **[[Exodus 4#^v6|Exodus 4:6-8]]**  taught in [[Exodus 2-5 Study Notes|Exodus 2-5]]
@@ -569,6 +571,7 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 **[[Leviticus 4#^v22|Leviticus 4:22-26]]**  taught in [[Leviticus 2-5 Study Notes|Leviticus 2-5]]
 
 - When a ruler hath sinned, there it is again: done somewhat through ignorance. Some of it is not ignorance; some of it is complacency, a lack of faith, a mind not in the spirit. His offering was a kid of the goats, a male without blemish, and the priest made atonement, which goes into reconciliation with the Lord and forgiveness of sins.
+- Presumptuously means impulsive and willful: no boundaries, doing things without seeking counsel, led by your own mind, your own opinion, your own emotions instead of leaning on the leadership the Most High set in place. Peter marks that spirit: they walk after the flesh in the lust of uncleanness, despise government, presumptuous are they, selfwilled, not afraid to speak evil of dignities. Despising government, gossiping and murmuring against leadership, and refusing to gather with the body is that same dangerous spirit; the Lord said gather yourselves together, O nation not desired, and he works through spiritual men as he did through Moses and Aaron.
 - Precept **[[Numbers 15#^v22|Numbers 15:22-29]]**: Sin committed by ignorance was atoned and forgiven, one law for him that is born among Israel and for the stranger that sojourneth among them.
 - Precept **[[Numbers 15#^v32|Numbers 15:32-36]]**: The man gathering sticks on the Sabbath was kept in ward until the mind of the Lord was declared, and the Lord said he shall surely be put to death.
 
@@ -1591,6 +1594,9 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 **[[Joshua 1#^v1|Joshua 1:1-2]]**  taught in [[Joshua 1-4 Study Notes|Joshua 1-4]]
 
 - Joshua is called Moses' minister because when Moses was the leader, Joshua was the one always cleaving to him. He was not close to Moses in age; he was one of the young men that cleaved unto his elder, and if Moses was a good leader, beloved among the children of Israel, who better to rise up in his stead than the man who has his spirit?
+- That is the spirit the young men coming up in this truth should aspire to: cleave to your leadership. It is not being around the longest that qualifies a man to rise up in another's stead; it is being the diligent servant who learned the ins and outs of how his leader was successful, and even observed his leader's mistakes so he knows what not to do in that position.
+- Why was Joshua the one anointed? When the Lord told Moses he would see the land but not enter it, Moses did not argue or justify himself. His humble response was to ask the Lord to set a man over the congregation, that the congregation of the Lord be not as sheep which have no shepherd. Moses brought no candidates; he let the Lord pick, and the Lord picked the young man who had cleaved to him: promotion comes from the Lord, and he selects the leaders over his people.
+- Moses said set a man over the congregation, not a woman, because women were never ordained to lead the children of Israel; that does not fit the divine order of the Most High. Miriam was a prophetess and one of the chief women, and she led the women; women have a real role in the nation, but leading the body is not it. When Miriam got puffed up and spoke against Moses, she was judged.
 - Precept **[[Numbers 27#^v18|Numbers 27:18-20]]**: The Lord said, Take thee Joshua the son of Nun, a man in whom is the spirit; Moses laid his hand on him, set him before Eleazar and the congregation, and put some of his honour upon him so the people would give Joshua the same respect and be obedient.
 - Precept **[[Exodus 15#^v20|Exodus 15:20]]**: Miriam the prophetess led the women with timbrels and dances; her place was over the women, not over the body.
 - Precept **[[Numbers 12#^v10|Numbers 12:10]]**: When Miriam spoke against Moses she was struck with leprosy, white as snow, and was shut out of the camp seven days.
@@ -1599,6 +1605,11 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 
 - This verse is the recipe for success, the formula for success, the true prosperity doctrine, and it has three steps: the law in your mouth, meditation day and night, and observing to do all that is written therein.
 - This book of the law shall not depart out of thy mouth: when you open your mouth, what comes out is supposed to be scriptural; your conversation has to be modeled after what this book says. When people leave this truth the Lord removes his words out of their mouth, and their whole conversation changes: nothing is left but slander, falsehood, strange doctrines, and flattering speech.
+- Thou shalt meditate therein day and night: to meditate is to think deeply and carefully, to contemplate, consider, ponder, and muse. Many read their four chapters a day, listen to videos, and quote their precept lists, but never meditate on what they read. You cannot just slap the butter on the biscuit; you have to let it sink into every layer.
+- Solomon shows what a companion meditation makes of wisdom: when he came into his house he reposed himself with her, for her conversation has no bitterness and living with her has no sorrow, but mirth and joy. Get in the habit of chilling with wisdom when you get home. When you ponder the whole benefit package that comes with wisdom, you understand that to be allied unto wisdom is immortality; the wiser you get, the more spiritually invincible you become.
+- Make meditation a daily custom, a holy habit, as our forefathers did: somewhere alone and peaceful where the mind can be clear, because you cannot meditate in the middle of activity and noise. When you meditate continually on the commandments, the Lord establishes your heart, and the evil thoughts you battle begin to flush out of your mind.
+- That thou mayest observe to do according to all that is written therein: the end goal of talking about the commandments and meditating on the commandments is to do the commandments. Attending every class, hearing every breakdown, and keeping every precept list is all in vain if you never do thus saith the Lord; not doing the word of God is why we went into slavery and sit at the bottom of society.
+- For then thou shalt make thy way prosperous, and then thou shalt have good success: only after the mouth, the meditation, and the doing does prosperity follow. Thus saith God, the second you transgress the commandments of the Lord you cannot prosper, so any pastor teaching prosperity while saying the law is done away with is teaching a lie. Real prosperity never came from sowing a seed into a basket; it comes from obeying the laws of the Most High, and that applies to us as a whole nation of people.
 - Precept **[[Deuteronomy 17#^v18|Deuteronomy 17:18-19]]**: Every king of Israel had to write himself a copy of the law and read therein all the days of his life, not just on a sabbath, that he may learn to fear the Lord and keep the words of this law to do them; you are what you eat, and what you put within comes out in your conversation and your actions.
 - Precept **[[2 Chronicles 24#^v20|2 Chronicles 24:20]]**: The spirit of God came upon Zechariah to ask, Why transgress ye the commandments of the Lord, that ye cannot prosper? The moment you transgress, the prosperity is over.
 
@@ -1631,6 +1642,7 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 **[[Joshua 4#^v15|Joshua 4:15-18]]**  taught in [[Joshua 1-4 Study Notes|Joshua 1-4]]
 
 - The priests stayed firm at their post in the riverbed even after all the people had passed over, until the Lord spake to Joshua and Joshua gave the order: come ye up out of Jordan. That is discipline, order, fortitude, and faith; they held their place in the midst of a stopped river without wavering.
+- As soon as the soles of the priests' feet were lifted up unto the dry land, the waters of Jordan returned unto their place and flowed over all his banks as they did before. Everything held its place exactly as long as Israel needed it to.
 - Precept **[[Matthew 14#^v29|Matthew 14:29-31]]**: Peter walked on the water, but as soon as doubt came he began to sink; had the priests doubted and thought the water was about to fall, they could not have stood, but their feet stood firm.
 
 **[[Joshua 6#^v3|Joshua 6:3-5]]**  taught in [[Joshua 5-8 Study Notes|Joshua 5-8]]
@@ -1693,7 +1705,7 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 
 **[[Joshua 18#^v6|Joshua 18:6-7]]**  taught in [[Joshua 17-20 Study Notes|Joshua 17-20]]
 
-- The description of the seven parts was to be brought to Joshua, that he may cast lots for them before the Lord. Casting lots is like throwing dice or drawing straws: you may be the one throwing, but the Lord decides what comes up.
+- The Levites have no part among you, for the priesthood of the Lord is their inheritance. The Levites were well taken care of; they dwelt in the suburbs of the cities and had the best of everything.
 - Precept **[[Numbers 18#^v23|Numbers 18:23]]**: The Levites do the service of the tabernacle, and among the children of Israel they have no inheritance.
 
 **[[Joshua 19#^v49|Joshua 19:49-51]]**  taught in [[Joshua 17-20 Study Notes|Joshua 17-20]]
@@ -1705,6 +1717,8 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 - Now that every tribe had its inheritance, cities of refuge had to be instituted, as the Lord spake by the hand of Moses: that the slayer that killeth any person unawares and unwittingly may flee thither, and they shall be your refuge from the avenger of blood.
 - Unwittingly means unknowingly; remember the word wittingly in [[Genesis 48|Genesis 48]], where Israel guided his hands knowing what he was doing. This is accidental death, not intentional murder, like leaving a co-worker shut in the freezer by mistake because you were focused on going home.
 - Notice the scripture says slayer, not murderer: a slayer may be innocent, it may have been a mistake or self-defense, so there are stipulations and laws for his case.
+- The avenger of blood is a family member of the one killed, and while his heart is hot he is not thinking logically; he is guided by his emotions, and that is how you end up rendering evil for evil. Heart is hot is the same way we talk today, I was hot, I am heated: our forefathers and foremothers spoke the same way.
+- The murderer cannot run to a city of refuge to lay low; those cities were not established for him. Even today a killer can cross the border into another jurisdiction and go free, and that is evil; but when Israel controlled the land you could not cross a border to get away with murder, for the elders would deliver you right back to the city you came from. Your sin will find you out.
 - Precept **[[Numbers 35#^v22|Numbers 35:22-25]]**: If he thrust him suddenly without enmity, or cast a stone seeing him not, the congregation shall judge between the slayer and the revenger of blood and deliver the innocent slayer back to his city of refuge.
 
 **[[Joshua 20#^v6|Joshua 20:6]]**  taught in [[Joshua 17-20 Study Notes|Joshua 17-20]]
@@ -1902,7 +1916,7 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 
 **[[1 Samuel 3#^v2|1 Samuel 3:2-3]]**  taught in [[1 Samuel 1-3 Study Notes|1 Samuel 1-3]]
 
-- Eli was laid down in his place, his eyes beginning to wax dim, and ere the lamp of God went out in the temple of the Lord, where the ark of God was, Samuel was laid down to sleep. Ere means before: before the lamp of God went out. That light in the temple by the ark was never to go out, though at a point in time it did go out.
+- Christ spoke about that fire in the temple: on the sabbath days the priests in the temple profane the sabbath, and are blameless. Israel was not to kindle a fire on the sabbath when it comes to food, but the priests had to keep that fire burning, and they sacrificed on the sabbath days, a lamb in the morning and a lamb in the evening; they broke the sabbath yet are blameless, because they were doing thus saith the Lord.
 - Precept **[[Exodus 27#^v20|Exodus 27:20-21]]**: The children of Israel brought pure oil olive beaten for the light, to cause the lamp to burn always; Aaron and his sons ordered it from evening to morning before the Lord, a statute for ever.
 - Precept **[[Matthew 12#^v5|Matthew 12:5-7]]**: Have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless? In this place is one greater than the temple; and if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.
 - Precept **[[Numbers 28#^v9|Numbers 28:9-10]]**: The burnt offering of every sabbath: the priests sacrificed a lamb in the morning and in the evening on the sabbath because the Lord commanded it.
@@ -1956,6 +1970,8 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 - Asked whether these were all his children, Jesse answered that there remained yet the youngest, and behold, he keepeth the sheep. Samuel would not sit down until the young one was fetched. He was ruddy, of a beautiful countenance, and goodly to look to, a young handsome fella, and the Most High said, Arise, anoint him, for this is he.
 - Samuel anointed David in the midst of his brethren, and the spirit of the Lord came upon David from that day forward, from that young age, being the youngest son.
 - Taking a keeper of sheep and making him the shepherd of the nation is a pattern with the Most High; he took leaders and prophets from following literal flocks and set them to feed the flock of Israel.
+- The same pattern continues through the prophets: Elisha was taken from the plow and Amos from the herd.
+- David was also young when the spirit came on him, and that is nothing new either; the Most High does not choose the ones everybody expects, for the spirit of Christ was in the prophets he selected.
 - Precept **[[Exodus 3#^v1|Exodus 3:1]]**: Moses kept the flock of Jethro his father in law, the priest of Midian, and led the flock to the mountain of God, where the Most High called him out of the midst of the bush.
 
 **[[1 Samuel 17#^v8|1 Samuel 17:8-11]]**  taught in [[1 Samuel 16-19 Study Notes|1 Samuel 16-19]]
@@ -1978,4 +1994,3 @@ Aaron, his sons, and the Levites: the garments, the duties, the anointing, and t
 **[[1 Samuel 30#^v7|1 Samuel 30:7-8]]**  taught in [[1 Samuel 28-31 Study Notes|1 Samuel 28-31]]
 
 - David said to Abiathar the priest, Ahimelech's son, Bring hither the ephod, and David inquired at the Lord: shall I pursue after this troop? shall I overtake them? The answer came, Pursue: for thou shalt surely overtake them, and without fail recover all.
-

@@ -38,6 +38,9 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 
 - By the way in the inn, the LORD met him, and sought to kill him, because Moses had not circumcised his son. Zipporah took a sharp stone, cut off the foreskin of her son, and said, Surely a bloody husband art thou to me: bloody because of the circumcision she had to perform herself.
 - This shows the laws did not begin at Sinai. Circumcision was the covenant given to Abraham for every man child in his generations, on the eighth day, and the uncircumcised man child whose flesh is not circumcised, that soul shall be cut off from his people: he hath broken my covenant. That is why Moses was worthy of death.
+- The covenant still stands. A son of Israel must be circumcised; and a man that comes to the truth grown must still be circumcised, even at forty, fifty, or sixty years, as Abraham himself was circumcised at ninety and nine, and as Paul circumcised Timothy, whose father was a Greek. Nothing that defileth enters the kingdom.
+- The Egyptians did not practice circumcision; they were a nation of uncleanness, and the covenant was between the Lord and Israel: after the doings of the land of Egypt, wherein ye dwelt, shall ye not do.
+- [[Romans 2|Romans 2]] does not do away with circumcision of the flesh. Circumcision verily profiteth if thou keep the law: the Jews who grew up circumcised and keeping the law, yet broke it, made their circumcision uncircumcision; and the uncircumcised of the cast-off northern kingdom who keep the righteousness of the law are counted as circumcised. Circumcision of the heart is putting away the evil of the doings, as the prophets say, take away the foreskins of your heart; the scribes and Pharisees were clean on the outside of the cup but full of iniquity within.
 - Precept **[[Colossians 3#^v5|Colossians 3:5-6]]**: Mortify therefore your members, fornication, uncleanness; for which things' sake the wrath of God cometh on the children of disobedience.
 
 **[[Exodus 7#^v19|Exodus 7:19-22]]**  taught in [[Exodus 6-9 Study Notes|Exodus 6-9]]
@@ -133,7 +136,15 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 - Take heed to thyself, lest thou make a covenant with the inhabitants of the land, lest it be for a snare, a trap, in the midst of thee. Ye shall destroy their altars, break their images, and cut down their groves, just as the law states it again in Deuteronomy; for the Lord, whose name is Jealous, is a jealous God.
 - Precept **[[Deuteronomy 7#^v5|Deuteronomy 7:5]]**: Destroy their altars, break down their images, and cut down their groves; the command of this chapter is written again in the law.
 
+**[[Exodus 40#^v34|Exodus 40:34-38]]**  taught in [[Exodus 38-40 Study Notes|Exodus 38-40]]
+
+- The Most High sent an angel before Israel to keep them in the way and to bring them into the place He had prepared, warning them to obey his voice and provoke him not, for he will not pardon your transgressions, for my name is in him. That shows why the first generation did not make it to the promised land: they provoked the angel, transgressed, complained, worshipped idols, and wanted to go back into Egypt.
+
 ## Leviticus
+
+**[[Leviticus 3#^v17|Leviticus 3:17]]**  taught in [[Leviticus 2-5 Study Notes|Leviticus 2-5]]
+
+- The blood was also for the altar of the Lord, but there is more to why the Lord had to say it. After Israel came out of Egypt, we had learned heathen practices there, such as drinking blood. The Lord said: after the doings of the land of Egypt, wherein ye dwelt, shall ye not do. Drinking the blood of animals was an Egyptian custom tied to their idols, and the blood-drinking customs of the Hamitic nations continue to this day.
 
 **[[Leviticus 7#^v35|Leviticus 7:35-38]]**  taught in [[Leviticus 6-9 Study Notes|Leviticus 6-9]]
 
@@ -518,6 +529,7 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 **[[Judges 6#^v25|Judges 6:25-27]]**  taught in [[Judges 5-8 Study Notes|Judges 5-8]]
 
 - The same night the Lord tells him to throw down his own father's altar of Baal, cut down the grove by it, and build an altar unto the Lord in its place. Notice this: even before the split of the kingdom, the tribes that would become the northern kingdom were already dabbling with Baal, worshipping the Lord in some fashion while holding onto the idol.
+- Gideon took ten of his servants and did as the Lord said, but by night, because he feared his father's household and the men of the city; they worshipped that idol and would have killed him in the daylight.
 - Precept **[[1 Kings 12#^v28|1 Kings 12:28]]**: That is why it was such an easy transition when Jeroboam set up the golden calves and said, behold thy gods, O Israel; the north had been dealing with Baal long before the split ever happened.
 
 **[[Judges 6#^v28|Judges 6:28-32]]**  taught in [[Judges 5-8 Study Notes|Judges 5-8]]
@@ -602,6 +614,7 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 
 - The first thing the children of Dan did in the land the Most High allowed them to take was set up the graven image, a god made by the hands of a man they had just robbed. Jonathan the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land, and they kept Micah's graven image all the time the house of God was in Shiloh.
 - Dan stayed heavy in idolatry all the way through history and never changed. After the kingdom split, Jeroboam feared that if the people kept going up to sacrifice at the house of the LORD in Jerusalem, their heart would turn again unto Rehoboam king of Judah and they would kill him; so he took counsel and made two calves of gold with his own hands, doubling the iniquity of the wilderness, and said, behold thy gods, O Israel, which brought thee up out of the land of Egypt.
+- Hear the word against Dan by the prophet: they that swear by the sin of Samaria and say, thy god, O Dan, liveth, shall fall and never rise up again. Mind you, it is an idol made with hands, yet they called it living. That is why Dan has no gate among the sealed tribes in [[Revelation 7|Revelation 7]]; Dan was discontinued as a tribe of itself and intertwined with Benjamin for the most part.
 - Precept **[[Amos 8#^v14|Amos 8:14]]**: They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth, shall fall, and never rise up again; the judgment on Dan's idolatry.
 - Precept **[[Revelation 7#^v5|Revelation 7:5-8]]**: When the tribes are sealed, Dan is not named among them; the tribe that set up the graven image never rose up again.
 
@@ -625,14 +638,13 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 
 - Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house. Cutting off the arm means cutting off thy strength: it was talking about his children. He was going to kill Eli's descendants young, and all the increase of his house would die in the flower of their age, in the full strength and peak of their youth.
 - Why would the Lord judge the children of future generations of Eli's house? The thought might be, he is killing them for the sins of their forefather; I thought the sons did not die for the fathers. [[Ezekiel 18|Ezekiel 18]] shows what it is talking about: the judgment falls on the son that continues in the sins of his father.
+- So why would the Lord cut off all those descendants of Eli in the strength of their youth? Because they were going to follow in the same way of their fathers, the sons of Belial, doing wickedness and evil; because Eli did not reprove his sons, the generations after would follow right in their footsteps.
 - Precept **[[Ezekiel 18#^v10|Ezekiel 18:10-13]]**: If he beget a son that is a robber, a shedder of blood, that lifts up his eyes to the idols and commits abomination, he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him. The son that continues in the sins of his father dies for his own doings.
 - Precept **[[Ezekiel 18#^v14|Ezekiel 18:14-17]]**: But if he beget a son that seeth all his father's sins which he hath done, and considereth, and doeth not such like, he shall not die for the iniquity of his father; he shall surely live. Eating upon the mountains is partaking in the heathen's idol worship, the food and the drink that went into it, as when Israel rose up to eat and to play before the calf.
 
 **[[1 Samuel 4#^v3|1 Samuel 4:3-5]]**  taught in [[1 Samuel 4-7 Study Notes|1 Samuel 4-7]]
 
-- The elders of Israel asked the right question, Wherefore hath the Lord smitten us to day before the Philistines? But instead of examining the nation, they had an idea: fetch the ark of the covenant out of Shiloh, and when it comes among us it will save us out of the hand of our enemies.
-- The two sons of Eli, Hophni and Phinehas, came with the ark, and when it entered the camp all Israel shouted with a great shout so that the earth rang again. That is how excited and ecstatic Israel was to have the ark of the covenant among them; they felt their enemies could not destroy them now.
-- So what is the ark of the covenant, and what does it contain? The Lord told Moses to hew two tables of stone like the first ones he broke, and the Lord rewrote the ten commandments on them with his own finger, and Moses put the tables in the ark. The ark of the covenant contained the commandments that God wrote.
+- Watch also why the ark did not have the effect Israel expected in this battle: there were still Israelites in the midst of idolatry with idols among them, and until those idols were put away we could not be delivered from our enemies. That is the lesson Samuel drives home in chapter 7.
 - Precept **[[Exodus 32#^v19|Exodus 32:19]]**: Moses broke the first tables when he came down from the mount and saw the people dancing before the golden calf they had made from their gold earrings.
 
 **[[1 Samuel 5#^v1|1 Samuel 5:1-5]]**  taught in [[1 Samuel 4-7 Study Notes|1 Samuel 4-7]]
@@ -668,6 +680,7 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 - When Nahash king of the children of Ammon came against them, Israel said, Nay, but a king shall reign over us, when the Lord their God was their king. That demand exposed their disbelief in the Lord; they wanted a king they could see and touch, because all the nations around them had kings.
 - Now behold the king whom ye have chosen and whom ye have desired. If ye will fear the Lord and serve him and obey his voice and not rebel against the commandment of the Lord, then shall both ye and also the king that reigneth over you continue following the Lord your God. If you and your king do not rebel against the voice of the Lord, the ultimate king, you will be all right.
 - Moses, in the spirit of the Lord, knew exactly what Israel would do once they came into the land, and wrote the law of the king ahead of time.
+- But if ye will not obey the voice of the Lord, but rebel against the commandment of the Lord, then shall the hand of the Lord be against you, as it was against your fathers. Samuel repeats it because Israelites require repetition.
 - Precept **[[Deuteronomy 28#^v36|Deuteronomy 28:36]]**: The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; if you and your king disobey, the Lord sends you and your king into subjection to the other nations.
 
 **[[1 Samuel 12#^v21|1 Samuel 12:21]]**  taught in [[1 Samuel 12-15 Study Notes|1 Samuel 12-15]]
@@ -695,4 +708,3 @@ The golden calf, the groves, Baalim, and every warning against serving other god
 
 - On the morrow, when the Philistines came to strip the slain, they found Saul and his three sons fallen in mount Gilboa. They cut off his head and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols and among the people.
 - They put his armour in the house of Ashtaroth, and they fastened his body to the wall of Bethshan.
-

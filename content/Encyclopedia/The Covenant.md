@@ -131,6 +131,8 @@ The covenants of the Most High from Noah and Abraham through Sinai and the plain
 **[[Exodus 4#^v24|Exodus 4:24-26]]**  taught in [[Exodus 2-5 Study Notes|Exodus 2-5]]
 
 - This shows the laws did not begin at Sinai. Circumcision was the covenant given to Abraham for every man child in his generations, on the eighth day, and the uncircumcised man child whose flesh is not circumcised, that soul shall be cut off from his people: he hath broken my covenant. That is why Moses was worthy of death.
+- The covenant still stands. A son of Israel must be circumcised; and a man that comes to the truth grown must still be circumcised, even at forty, fifty, or sixty years, as Abraham himself was circumcised at ninety and nine, and as Paul circumcised Timothy, whose father was a Greek. Nothing that defileth enters the kingdom.
+- The Egyptians did not practice circumcision; they were a nation of uncleanness, and the covenant was between the Lord and Israel: after the doings of the land of Egypt, wherein ye dwelt, shall ye not do.
 - Precept **[[Genesis 17#^v9|Genesis 17:9-14]]**: Every man child among you shall be circumcised, he that is eight days old, for an everlasting covenant; the uncircumcised man child shall be cut off from his people; he hath broken my covenant.
 - Precept **[[Genesis 17#^v23|Genesis 17:23-24]]**: Abraham was ninety years old and nine when he was circumcised; the covenant is kept at any age.
 - Precept **[[Acts 16#^v1|Acts 16:1-3]]**: Paul took Timothy, whose father was a Greek, and circumcised him because of the covenant.
@@ -544,6 +546,7 @@ The covenants of the Most High from Noah and Abraham through Sinai and the plain
 **[[Joshua 4#^v15|Joshua 4:15-18]]**  taught in [[Joshua 1-4 Study Notes|Joshua 1-4]]
 
 - The priests stayed firm at their post in the riverbed even after all the people had passed over, until the Lord spake to Joshua and Joshua gave the order: come ye up out of Jordan. That is discipline, order, fortitude, and faith; they held their place in the midst of a stopped river without wavering.
+- As soon as the soles of the priests' feet were lifted up unto the dry land, the waters of Jordan returned unto their place and flowed over all his banks as they did before. Everything held its place exactly as long as Israel needed it to.
 
 **[[Joshua 5#^v2|Joshua 5:2-3]]**  taught in [[Joshua 5-8 Study Notes|Joshua 5-8]]
 
@@ -626,6 +629,7 @@ The covenants of the Most High from Noah and Abraham through Sinai and the plain
 **[[Judges 7#^v1|Judges 7:1-3]]**  taught in [[Judges 5-8 Study Notes|Judges 5-8]]
 
 - The Lord tells Gideon the people with him are too many for him to give Midian into their hands, lest Israel vaunt themselves against him, saying, mine own hand hath saved me. That is Israel: look at what I did. The Lord knows how we think.
+- Whosoever is fearful and afraid, let him return: twenty and two thousand bounced back to Gilead, and ten thousand remained. That is why God always lowered the numbers going into battle, so Israel would know it was by the Lord's strength that we overcame our enemies; and it is going to be the same thing again, few numbers going into battle against the nations when that time comes.
 - Precept **[[Deuteronomy 8#^v14|Deuteronomy 8:14-18]]**: Lest thine heart be lifted up and thou say in thine heart, my power and the might of mine hand hath gotten me this wealth; thou shalt remember the Lord thy God, for it is he that giveth thee power to get wealth.
 
 **[[Judges 10#^v10|Judges 10:10-14]]**  taught in [[Judges 9-12 Study Notes|Judges 9-12]]
@@ -645,6 +649,8 @@ The covenants of the Most High from Noah and Abraham through Sinai and the plain
 **[[1 Samuel 3#^v2|1 Samuel 3:2-3]]**  taught in [[1 Samuel 1-3 Study Notes|1 Samuel 1-3]]
 
 - Eli was laid down in his place, his eyes beginning to wax dim, and ere the lamp of God went out in the temple of the Lord, where the ark of God was, Samuel was laid down to sleep. Ere means before: before the lamp of God went out. That light in the temple by the ark was never to go out, though at a point in time it did go out.
+- Christ spoke about that fire in the temple: on the sabbath days the priests in the temple profane the sabbath, and are blameless. Israel was not to kindle a fire on the sabbath when it comes to food, but the priests had to keep that fire burning, and they sacrificed on the sabbath days, a lamb in the morning and a lamb in the evening; they broke the sabbath yet are blameless, because they were doing thus saith the Lord.
+- Sacrifice was never the most important thing to the Lord; not the blood of bulls and of goats, but mercy upon one another and the keeping of the commandments. The sacrifices were added because of transgression, the animal's blood taken in your place so the Most High would not have to kill you; you read of it from [[Genesis 3|Genesis 3]], where the Lord took the skins after Adam sinned. Yet there were some things you could not sacrifice for, abominations for which a man's own blood was required.
 - Precept **[[Exodus 19#^v3|Exodus 19:3-6]]**: Before the Most High even gave the ten commandments he made this plain: if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people, a kingdom of priests, and an holy nation. Obedience is what he desired most from the beginning.
 
 **[[1 Samuel 3#^v4|1 Samuel 3:4-7]]**  taught in [[1 Samuel 1-3 Study Notes|1 Samuel 1-3]]
@@ -682,4 +688,3 @@ The covenants of the Most High from Noah and Abraham through Sinai and the plain
 **[[1 Samuel 18#^v1|1 Samuel 18:1-4]]**  taught in [[1 Samuel 16-19 Study Notes|1 Samuel 16-19]]
 
 - The soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul, and they made a covenant; Jonathan stripped himself of his robe and gave it to David, with his garments, his sword, his bow, and his girdle.
-

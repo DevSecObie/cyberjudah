@@ -84,6 +84,9 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 - Verily my sabbaths ye shall keep, for it is a sign between me and you throughout your generations, that ye may know that I am the LORD that doth sanctify you. Keeping the weekly sabbath and the feast days shows that Israel are his children and he is their God; the nations do not have this sabbath, and adopted Sunday worship is not the true sabbath given to the children of Israel.
 - Every one that defileth the sabbath shall surely be put to death. The stoning was done away in Christ, but the judgment for breaking the sabbath still stands, and people still die on the sabbath day, Friday sundown to Saturday sundown; the Most High is justified, because it is his sign between him and his people.
 - Six days may work be done, but in the seventh is the sabbath of rest, holy to the LORD. It is more than a day of rest and congregating; it is the sign of who Israel's God is, which is why saying the sabbath is done away takes away the very sign between Israel and God.
+- From the questions: eating is allowed on the sabbath, but not cooking. What is baked and seethed is prepared the day before and laid up, so the sabbath meal is leftovers or simple food; no microwaving, no coffee pots, no kindling the cooking fire.
+- There is no buying or selling on the sabbath or on the holy day, so gas and food are bought before sundown; no fishing either, for what could be called work opens the door to every man excusing his trade on the sabbath.
+- The Lord gives no man license to sin, but Christ is Lord of the sabbath and brought grace for necessities out of our control, a blown tire or an empty tank on the way to keep the sabbath, or medicine when the body is in danger; it is lawful to do well on the sabbath days.
 - Precept **[[Ecclesiasticus 33#^v7|Ecclesiasticus 33:7-9]]**: Every day has the same sun, but by the knowledge of the Lord some days were made high days and hallowed; the sabbath is distinguished by God, not by man.
 - Precept **[[Exodus 35#^v3|Exodus 35:3]]**: Kindle no fire throughout your habitations upon the sabbath day; this speaks to the cooking fire, not to warming the household.
 - Precept **[[Exodus 16#^v23|Exodus 16:23]]**: Bake that which ye will bake to day, and that which remaineth is laid up until the morning; the sabbath food is cooked the day before.
@@ -136,8 +139,7 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 
 **[[Leviticus 4#^v22|Leviticus 4:22-26]]**  taught in [[Leviticus 2-5 Study Notes|Leviticus 2-5]]
 
-- When a ruler hath sinned, there it is again: done somewhat through ignorance. Some of it is not ignorance; some of it is complacency, a lack of faith, a mind not in the spirit. His offering was a kid of the goats, a male without blemish, and the priest made atonement, which goes into reconciliation with the Lord and forgiveness of sins.
-- Saying we knew it not does not stand before the Most High. Doth not he that pondereth the heart consider it, and he that keepeth thy soul, doth not he know it? A lot of people say they never heard this truth when they heard it and did not want to apply it. The Most High knows the things that come into your mind, every one of them; he created us and knows us better than we know ourselves, and he knows whether you sinned through ignorance or willfully.
+- The man found gathering sticks upon the Sabbath day shows the presumptuous side, immediately after that law was spoken. They did not kill him right away; they put him in ward, because it was not declared what should be done to him, and Moses got direction from the Lord. And the Lord said, the man shall be surely put to death, and all the congregation stoned him without the camp.
 - Precept **[[Numbers 15#^v32|Numbers 15:32-36]]**: The man gathering sticks on the Sabbath was kept in ward until the mind of the Lord was declared, and the Lord said he shall surely be put to death.
 
 **[[Leviticus 6#^v6|Leviticus 6:6-7]]**  taught in [[Leviticus 6-9 Study Notes|Leviticus 6-9]]
@@ -370,6 +372,11 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 
 - This verse is the recipe for success, the formula for success, the true prosperity doctrine, and it has three steps: the law in your mouth, meditation day and night, and observing to do all that is written therein.
 - This book of the law shall not depart out of thy mouth: when you open your mouth, what comes out is supposed to be scriptural; your conversation has to be modeled after what this book says. When people leave this truth the Lord removes his words out of their mouth, and their whole conversation changes: nothing is left but slander, falsehood, strange doctrines, and flattering speech.
+- Thou shalt meditate therein day and night: to meditate is to think deeply and carefully, to contemplate, consider, ponder, and muse. Many read their four chapters a day, listen to videos, and quote their precept lists, but never meditate on what they read. You cannot just slap the butter on the biscuit; you have to let it sink into every layer.
+- Solomon shows what a companion meditation makes of wisdom: when he came into his house he reposed himself with her, for her conversation has no bitterness and living with her has no sorrow, but mirth and joy. Get in the habit of chilling with wisdom when you get home. When you ponder the whole benefit package that comes with wisdom, you understand that to be allied unto wisdom is immortality; the wiser you get, the more spiritually invincible you become.
+- Make meditation a daily custom, a holy habit, as our forefathers did: somewhere alone and peaceful where the mind can be clear, because you cannot meditate in the middle of activity and noise. When you meditate continually on the commandments, the Lord establishes your heart, and the evil thoughts you battle begin to flush out of your mind.
+- That thou mayest observe to do according to all that is written therein: the end goal of talking about the commandments and meditating on the commandments is to do the commandments. Attending every class, hearing every breakdown, and keeping every precept list is all in vain if you never do thus saith the Lord; not doing the word of God is why we went into slavery and sit at the bottom of society.
+- For then thou shalt make thy way prosperous, and then thou shalt have good success: only after the mouth, the meditation, and the doing does prosperity follow. Thus saith God, the second you transgress the commandments of the Lord you cannot prosper, so any pastor teaching prosperity while saying the law is done away with is teaching a lie. Real prosperity never came from sowing a seed into a basket; it comes from obeying the laws of the Most High, and that applies to us as a whole nation of people.
 - Precept **[[Deuteronomy 17#^v18|Deuteronomy 17:18-19]]**: Every king of Israel had to write himself a copy of the law and read therein all the days of his life, not just on a sabbath, that he may learn to fear the Lord and keep the words of this law to do them; you are what you eat, and what you put within comes out in your conversation and your actions.
 
 **[[Joshua 6#^v3|Joshua 6:3-5]]**  taught in [[Joshua 5-8 Study Notes|Joshua 5-8]]
@@ -389,9 +396,15 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 - Now that every tribe had its inheritance, cities of refuge had to be instituted, as the Lord spake by the hand of Moses: that the slayer that killeth any person unawares and unwittingly may flee thither, and they shall be your refuge from the avenger of blood.
 - Unwittingly means unknowingly; remember the word wittingly in [[Genesis 48|Genesis 48]], where Israel guided his hands knowing what he was doing. This is accidental death, not intentional murder, like leaving a co-worker shut in the freezer by mistake because you were focused on going home.
 - Notice the scripture says slayer, not murderer: a slayer may be innocent, it may have been a mistake or self-defense, so there are stipulations and laws for his case.
+- The avenger of blood is a family member of the one killed, and while his heart is hot he is not thinking logically; he is guided by his emotions, and that is how you end up rendering evil for evil. Heart is hot is the same way we talk today, I was hot, I am heated: our forefathers and foremothers spoke the same way.
+- The murderer cannot run to a city of refuge to lay low; those cities were not established for him. Even today a killer can cross the border into another jurisdiction and go free, and that is evil; but when Israel controlled the land you could not cross a border to get away with murder, for the elders would deliver you right back to the city you came from. Your sin will find you out.
 - Precept **[[Nehemiah 13#^v21|Nehemiah 13:21]]**: Nehemiah said, if ye do so again, I will lay hands on you; the same spirit and speech is in our people to this day.
 
 ## Judges
+
+**[[Judges 5#^v1|Judges 5:1-2]]**  taught in [[Judges 5-8 Study Notes|Judges 5-8]]
+
+- How do we willingly offer ourselves to the Lord in the twenty-first century? By giving up whatever presents itself as an obstacle between us and the Lord. It may be father, mother, husband, wife, or children; it may be drugs, money, or working on the sabbath. If you willingly offer yourself, you will not let any stumbling block keep you from the Lord.
 
 **[[Judges 13#^v6|Judges 13:6-7]]**  taught in [[Judges 13-16 Study Notes|Judges 13-16]]
 
@@ -421,6 +434,9 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 
 - Naomi heard in the country of Moab that the Lord had visited his people and given them bread, so she arose with her daughters in law to return unto the land of Judah, and told them, Go, return each to her mother's house; the Lord deal kindly with you, as ye have dealt with the dead and with me.
 - The Lord grant you that ye may find rest, each of you in the house of her husband: that rest is an inheritance. The man is supposed to leave an inheritance; you are not supposed to leave your wife and your children desolate with a gang of bills. To leave an inheritance you first have to work, and you have to be wise with how you deal with your money.
+- Behind the words the wife of the dead stands the law of the husband's brother: if brethren dwell together and one dies having no child, his brother takes the widow to wife, and the firstborn she bears succeeds in the name of the dead brother, that his name be not put out of Israel. That first child is basically the dead brother's child; he gets the rights of inheritance as if the brother were still alive, so the brother's name stays in the earth and his house is built up.
+- We are not under that law anymore; we do not have that land inheritance in captivity. It is wicked to pull that scripture today to try to get with your brother's wife after he passes away; do not be looking at your brother's wife.
+- It is important for us to build our legacy and pass it down; that is one of the things we lack in Israel today. Some of us use captivity as an excuse not to better ourselves or build, but that is not what the scriptures say: get the job, further your education, do more for yourself, your family, and the body. Building up your house also means spiritually building it, teaching your wife and children.
 - Precept **[[Judith 8#^v4|Judith 8:4-7]]**: The example of a widow finding rest in the house of her husband: Manasses left Judith gold, silver, servants, cattle, and lands, and she remained upon them.
 
 ## 1 Samuel
@@ -441,7 +457,7 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 
 **[[1 Samuel 3#^v2|1 Samuel 3:2-3]]**  taught in [[1 Samuel 1-3 Study Notes|1 Samuel 1-3]]
 
-- Eli was laid down in his place, his eyes beginning to wax dim, and ere the lamp of God went out in the temple of the Lord, where the ark of God was, Samuel was laid down to sleep. Ere means before: before the lamp of God went out. That light in the temple by the ark was never to go out, though at a point in time it did go out.
+- Christ spoke about that fire in the temple: on the sabbath days the priests in the temple profane the sabbath, and are blameless. Israel was not to kindle a fire on the sabbath when it comes to food, but the priests had to keep that fire burning, and they sacrificed on the sabbath days, a lamb in the morning and a lamb in the evening; they broke the sabbath yet are blameless, because they were doing thus saith the Lord.
 - Precept **[[Matthew 12#^v5|Matthew 12:5-7]]**: Have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless? In this place is one greater than the temple; and if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.
 - Precept **[[Numbers 28#^v9|Numbers 28:9-10]]**: The burnt offering of every sabbath: the priests sacrificed a lamb in the morning and in the evening on the sabbath because the Lord commanded it.
 
@@ -450,10 +466,10 @@ Every place the study notes teach the sabbath, from the seventh day of creation 
 - And the Lord came and stood, and called as at other times, Samuel, Samuel. The Lord did not just call from the heavens: the Lord came down and stood by Samuel and called out to him. That is cold-blooded. Samuel could not see him, but he heard him; that is what happens in the spirit to all of us.
 - Notice in the scriptures that the Most High calls the name two times: Moses, Moses; Samuel, Samuel. That may be a question to ask Christ, Lord's will, for him that endures to the end.
 - What was happening spiritually when the Most High was revealing himself to Samuel and about to pour his word into him? The same thing that happens to all Israel: he stands at the door and knocks. That door is your spirit. The knocking is the Lord calling out through the videos, the flyers, the four chapters a day, the classes; that is the Lord standing and knocking at the spirit of all Israel before he cuts you off.
+- So warn your brothers and sisters of the nation of Israel: when you hear the Lord calling, through this flyer, these scriptures, this video, turn at his reproof. We do not know when he will cut a man off and leave him to his own devices to destroy himself; and when he cries, the Lord will not hear.
 - Precept **[[Proverbs 1#^v27|Proverbs 1:27-31]]**: Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me: for they hated knowledge, the laws, and would none of my counsel: therefore shall they eat of the fruit of their own way. Refuse to turn from the drugs, and the drugs destroy you; refuse to stop fornicating, and the sex you love destroys you; refuse to give up the sabbath chasing money, and money destroys you.
 
 **[[1 Samuel 21#^v6|1 Samuel 21:6]]**  taught in [[1 Samuel 20-23 Study Notes|1 Samuel 20-23]]
 
 - Link this history with the words of Christ: when the Pharisees challenged his disciples for plucking the ears of corn on the sabbath day, Christ recounted this very history of David and the shewbread. Precept this in your bibles if you do not have it already.
 - Precept **[[Mark 2#^v23|Mark 2:23-24]]**: The Pharisees challenged Christ's disciples for plucking the ears of corn on the sabbath day, saying it was not lawful.
-

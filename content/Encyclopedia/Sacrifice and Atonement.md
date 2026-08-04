@@ -359,6 +359,11 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 
 - The peace offering of the herd, whether male or female, must be offered without blemish before the Lord: no bruise, no cut, no stain, nothing superfluous like an extra member. Whatever the sacrifice is for the Lord, it has to be the best of the best, a flawless sacrifice.
 - The Passover lamb shows how that was carried out. The lamb was without blemish, a male of the first year, taken out from the sheep and kept from the goats, because if it got in a fight it would take a blemish, a bruise, a cut. It was kept up to the fourteenth day, isolated and given nothing but water, so that it purified itself; and it was eaten roast with fire, not raw and not sodden with water, with the purtenance thereof, for after those days there was nothing left within it.
+- The lamb that had no blemish was symbolic of Christ. A little leaven leaveneth the whole lump: a little sin in the spirit will get worse, so the old leaven is purged out, and that is the true resemblance of the Passover, purging out sin not one day a year but constantly, in prayer and fasting; for even Christ our Passover, our lamb without blemish, is sacrificed for us.
+- Christ gave himself for the church, that he might present it to himself a glorious church, not having spot or wrinkle, holy and without blemish, sanctified and cleansed with the washing of water by the word.
+- Christ did no sin, neither was guile found in his mouth: without blemish physically was symbolic of no sin. He was the one and only flawless sacrifice. He also suffered wrongfully, and that is thankworthy with God; when you follow his steps and suffer wrongfully without adding a blot to your honor, that is acceptable with God.
+- John bore the record: behold the Lamb of God, which taketh away the sin of the world. That goes back to presenting a glorious church; the only way to be without blemish is through faith in Christ.
+- That is why the Levitical laws of sacrifice are no longer performed: the law had a shadow of good things to come, and not the very image; those sacrifices offered year by year could never make the comers thereunto perfect, for it is not possible that the blood of bulls and of goats should take away sins. We needed Christ, the ultimate sacrifice. Read verse 1 again with that understanding: the offerings went up without blemish because they were symbolic of Christ's coming.
 - Precept **[[Exodus 12#^v3|Exodus 12:3-9]]**: Your lamb shall be without blemish; it was taken out from the sheep, kept from the goats to the fourteenth day, and roasted with fire, not raw nor sodden.
 - Precept **[[Ephesians 5#^v25|Ephesians 5:25-27]]**: Christ gave himself for the church, to present it a glorious church, holy and without blemish, as the Levitical sacrifices figured.
 - Precept **[[1 Peter 2#^v21|1 Peter 2:21-22]]**: Christ suffered for us, who did no sin; no blemish means no sin, the one flawless sacrifice.
@@ -394,6 +399,8 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 **[[Leviticus 4#^v22|Leviticus 4:22-26]]**  taught in [[Leviticus 2-5 Study Notes|Leviticus 2-5]]
 
 - When a ruler hath sinned, there it is again: done somewhat through ignorance. Some of it is not ignorance; some of it is complacency, a lack of faith, a mind not in the spirit. His offering was a kid of the goats, a male without blemish, and the priest made atonement, which goes into reconciliation with the Lord and forgiveness of sins.
+- [[Numbers 15|Numbers 15]] lays the two ways side by side. If ought be committed by ignorance, the congregation and the soul that sinned bring their offerings, and it shall be forgiven them, one law both for him that is born among the children of Israel and for the stranger. But the soul that doeth ought presumptuously reproacheth the Lord, and that soul shall be cut off from among his people; he hath despised the word of the Lord, and his iniquity shall be upon him.
+- That is the judgment on the willful: if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins. That man knew the law; it was not ignorance, it was blatant. The Lord knoweth all the works of men, their imaginations, their thoughts, and their hearts; he knoweth your inventions and what ye think in your heart, even them that sin and would hide their sin. Sin willfully and your grace period is up.
 - Precept **[[Numbers 15#^v22|Numbers 15:22-29]]**: Sin committed by ignorance was atoned and forgiven, one law for him that is born among Israel and for the stranger that sojourneth among them.
 - Precept **[[Hebrews 10#^v26|Hebrews 10:26]]**: If we sin wilfully after receiving the knowledge of the truth, there remaineth no more sacrifice for sins.
 
@@ -993,6 +1000,11 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 - If a man vow a vow unto the Lord, or swear an oath to bind his soul with a bond, he shall not break his word; he shall do according to all that proceedeth out of his mouth.
 - A vow is promising the Lord you will do a thing. Say a man vows, Lord, if you bring this to pass I will never eat swine again; he must keep that vow, and he cannot go back on it and simply ask forgiveness afterward.
 - If thou shalt forbear to vow, it shall be no sin in thee; but that which is gone out of thy lips thou shalt keep and perform. Do not suffer thy mouth to cause thy flesh to sin, and do not say before the angel that it was an error.
+- Christ took it further: swear not at all, neither by heaven, nor by the earth, nor by Jerusalem; let your communication be Yea, yea, Nay, nay, for whatsoever is more than these cometh of evil. That is why we say the Lord's will: the Lord's will I will be there, the Lord's will I will teach that day.
+- A vow made before you came into this truth does not stand, for you were not vowing to the God of Israel then; if any man be in Christ, he is a new creature, and old things are passed away. And if you vowed ignorantly and could not fulfill it, all manner of sin and blasphemy shall be forgiven unto men; only blasphemy against the Holy Ghost, speaking evil of this truth after receiving it, shall not be forgiven.
+- Swearing on the Bible in the court system is another matter: be subject unto the higher powers, for the powers that be are ordained of God, and you also have the option to affirm; either way, tell the truth.
+- On the wedding day we do not make vows in the manner of Christianity, promising things the flesh may not perform; we pray as Tobias and Sara prayed, that the Lord mercifully ordain that husband and wife may become aged together, and we apply the scriptures to the marriage.
+- Marriage is not sin, but such shall have trouble in the flesh; trials will come up in a marriage that have to be fixed with the scriptures, so ask the Most High for the mercy and the strength to endure rather than vowing what you cannot uphold.
 - Precept **[[Deuteronomy 23#^v21|Deuteronomy 23:21-23]]**: When thou shalt vow a vow, thou shalt not slack to pay it, for it would be sin in thee; but if thou forbear to vow, it shall be no sin in thee.
 
 **[[Numbers 31#^v1|Numbers 31:1-2]]**  taught in [[Numbers 31-34 Study Notes|Numbers 31-34]]
@@ -1146,6 +1158,7 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 
 - The altar was not for burnt offering nor for sacrifice; it was a witness between us and you and our generations after us, a memorial, so the two and a half tribes could do the service of the Lord before him in the place he chose, along with the rest of the tribes, and nobody could stop them.
 - If anyone ever said to their generations, Ye have no part in the Lord, the answer would stand built in stone: behold the pattern of the altar of the LORD, which our fathers made, not for burnt offerings nor for sacrifices, but it is a witness between us and you.
+- God forbid that we should rebel against the Lord to build an altar for burnt offerings, meat offerings, or sacrifices, beside the altar of the LORD our God that is before his tabernacle: the sacrifices belonged in front of the altar the Most High set in his chosen place.
 
 **[[Joshua 22#^v32|Joshua 22:32-34]]**  taught in [[Joshua 21-24 Study Notes|Joshua 21-24]]
 
@@ -1164,11 +1177,13 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 **[[Judges 5#^v1|Judges 5:1-2]]**  taught in [[Judges 5-8 Study Notes|Judges 5-8]]
 
 - Deborah and Barak sing praise to the Lord for the avenging of Israel, when the people willingly offered themselves. That is what the Most High wants from us: a willing heart in all that we do, in the keeping of the commandments, in the keeping of the feast days, and in the praise of him.
+- How do we willingly offer ourselves to the Lord in the twenty-first century? By giving up whatever presents itself as an obstacle between us and the Lord. It may be father, mother, husband, wife, or children; it may be drugs, money, or working on the sabbath. If you willingly offer yourself, you will not let any stumbling block keep you from the Lord.
 - Precept **[[Exodus 35#^v22|Exodus 35:22]]**: At the building of the tabernacle in the wilderness, both men and women as many as were willing hearted brought their gold unto the Lord; we have to have that same willing heart today.
 
 **[[Judges 6#^v25|Judges 6:25-27]]**  taught in [[Judges 5-8 Study Notes|Judges 5-8]]
 
 - The same night the Lord tells him to throw down his own father's altar of Baal, cut down the grove by it, and build an altar unto the Lord in its place. Notice this: even before the split of the kingdom, the tribes that would become the northern kingdom were already dabbling with Baal, worshipping the Lord in some fashion while holding onto the idol.
+- Gideon took ten of his servants and did as the Lord said, but by night, because he feared his father's household and the men of the city; they worshipped that idol and would have killed him in the daylight.
 
 **[[Judges 11#^v29|Judges 11:29-31]]**  taught in [[Judges 9-12 Study Notes|Judges 9-12]]
 
@@ -1252,7 +1267,7 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 
 **[[1 Samuel 3#^v2|1 Samuel 3:2-3]]**  taught in [[1 Samuel 1-3 Study Notes|1 Samuel 1-3]]
 
-- Eli was laid down in his place, his eyes beginning to wax dim, and ere the lamp of God went out in the temple of the Lord, where the ark of God was, Samuel was laid down to sleep. Ere means before: before the lamp of God went out. That light in the temple by the ark was never to go out, though at a point in time it did go out.
+- Sacrifice was never the most important thing to the Lord; not the blood of bulls and of goats, but mercy upon one another and the keeping of the commandments. The sacrifices were added because of transgression, the animal's blood taken in your place so the Most High would not have to kill you; you read of it from [[Genesis 3|Genesis 3]], where the Lord took the skins after Adam sinned. Yet there were some things you could not sacrifice for, abominations for which a man's own blood was required.
 - Precept **[[Matthew 12#^v5|Matthew 12:5-7]]**: Have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless? In this place is one greater than the temple; and if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.
 - Precept **[[Numbers 28#^v9|Numbers 28:9-10]]**: The burnt offering of every sabbath: the priests sacrificed a lamb in the morning and in the evening on the sabbath because the Lord commanded it.
 - Precept **[[Hosea 6#^v6|Hosea 6:6]]**: I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings. This is what Christ was quoting, for the New Testament was not yet written; the knowledge of God is the keeping of the commandments.
@@ -1353,4 +1368,3 @@ The offerings and what each one means: burnt, sin, trespass, peace, and the day 
 
 - Saul knew David's voice and said, Is this thy voice, my son David? And David said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil is in mine hand?
 - Let not my blood fall to the earth before the face of the Lord: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.
-

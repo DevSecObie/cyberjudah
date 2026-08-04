@@ -297,6 +297,10 @@ The lineage teaching on Esau and his descendants, from the birthright through th
 
 - Land is how wealth is built, and Esau knows how important land is; that is why the land is kept in his generations and why Gad, the Native Indian, was never given one square inch of his land back, only the casinos and the little plots called reservations. Israel is getting the most fertile land back; as for this land here, let it burn.
 
+**[[Numbers 27#^v8|Numbers 27:8-11]]**  taught in [[Numbers 27-30 Study Notes|Numbers 27-30]]
+
+- It also goes into marriage in the nation as a whole: there was never a case where an inheritance in Israel passed to an Edomite, an Ammonite, or a Moabite. The fathers from the beginning took wives of their own kindred, and interracial marriage is not of the scriptures.
+
 **[[Numbers 31#^v9|Numbers 31:9-12]]**  taught in [[Numbers 31-34 Study Notes|Numbers 31-34]]
 
 - Midian comes from the lineage of Ishmael, the people known today as the Arab man. This shows Esau was not the one who first came up with castles; the castles seen in the movies were conquered from other nations.
@@ -452,6 +456,9 @@ The lineage teaching on Esau and his descendants, from the birthright through th
 
 - Naomi heard in the country of Moab that the Lord had visited his people and given them bread, so she arose with her daughters in law to return unto the land of Judah, and told them, Go, return each to her mother's house; the Lord deal kindly with you, as ye have dealt with the dead and with me.
 - The Lord grant you that ye may find rest, each of you in the house of her husband: that rest is an inheritance. The man is supposed to leave an inheritance; you are not supposed to leave your wife and your children desolate with a gang of bills. To leave an inheritance you first have to work, and you have to be wise with how you deal with your money.
+- Behind the words the wife of the dead stands the law of the husband's brother: if brethren dwell together and one dies having no child, his brother takes the widow to wife, and the firstborn she bears succeeds in the name of the dead brother, that his name be not put out of Israel. That first child is basically the dead brother's child; he gets the rights of inheritance as if the brother were still alive, so the brother's name stays in the earth and his house is built up.
+- We are not under that law anymore; we do not have that land inheritance in captivity. It is wicked to pull that scripture today to try to get with your brother's wife after he passes away; do not be looking at your brother's wife.
+- It is important for us to build our legacy and pass it down; that is one of the things we lack in Israel today. Some of us use captivity as an excuse not to better ourselves or build, but that is not what the scriptures say: get the job, further your education, do more for yourself, your family, and the body. Building up your house also means spiritually building it, teaching your wife and children.
 - Precept **[[1 Chronicles 5#^v1|1 Chronicles 5:1]]**: Reuben was the firstborn, but because he defiled his father's bed his birthright was given unto the sons of Joseph; the birthright shows why the firstborn and the inheritance mattered so much in Israel.
 
 **[[Ruth 2#^v10|Ruth 2:10]]**  taught in [[Ruth 1-3 Study Notes|Ruth 1-3]]
@@ -463,6 +470,7 @@ The lineage teaching on Esau and his descendants, from the birthright through th
 
 - What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance. Whoever took the land had to take the dead brother's wife with it; Ruth the Moabitess came along as a parcel of the land, to keep the name of Mahlon alive.
 - What law is that going back to? That law goes back to [[Deuteronomy 25|Deuteronomy 25]], the duty of the husband's brother: the widow of the dead does not marry without unto a stranger, and the firstborn she bears succeeds in the name of the dead brother, that his name be not put out of Israel. This law was taught in full when it was read ahead at [[Ruth 1#^v6|Ruth 1:6-9]] in these notes: the firstborn carries the weight of the name, and the shoe was loosed from him that would not build up his brother's house.
+- Notice the bottom of verse 5: to raise up the name of the dead upon his inheritance. This law applies to inheritance; it went into the law of land being passed down. It does not apply today: your husband dying does not mean his brother now has to go in unto you and raise up children, because that duty was due to the law of inheritance, and Israel has no land inheritance in this captivity. It is wicked to pull that scripture today to try to get with your brother's widow.
 - Precept **[[1 Chronicles 5#^v1|1 Chronicles 5:1]]**: Reuben was the firstborn, but because he defiled his father's bed his birthright was given unto the sons of Joseph; the birthright shows why the firstborn and the inheritance mattered so much in Israel.
 
 ## 1 Samuel
@@ -471,6 +479,9 @@ The lineage teaching on Esau and his descendants, from the birthright through th
 
 - The thing displeased Samuel when they said, Give us a king to judge us, and Samuel prayed unto the Lord. The Lord said, Hearken unto the voice of the people, for they have not rejected thee, but they have rejected me, that I should not reign over them; according to all the works they have done since the day I brought them up out of Egypt, forsaking me and serving other gods, so do they also unto thee. Just as they rejected the Most High, they were rejecting Samuel and his counsel.
 - Joshua warned us about this. At Shechem, Israel made the covenant with its own mouth to serve the Lord and obey his voice; asking for a king was breaking the choice we ourselves made.
+- How do we serve the Lord in sincerity and in truth? A lot of people today say they love the Lord, yet they do not do any of his commandments; they do not truly show they have the faith of Christ, because they do not keep the commandments.
+- A lot of us grew up with that plaque in the house, as for me and my house we will serve the Lord, and the house kept not one commandment: still eating pork, still keeping Sunday, still keeping the wicked pagan holidays of our oppressors.
+- Christ gave the same picture: a nobleman went into a far country to receive for himself a kingdom, and his citizens hated him. This is speaking about Christ; the same spirit that said set a king over us says, We will not have Christ to reign over us. When we read Samuel again, that is why the Lord said, they did not reject you, they have rejected me.
 - Precept **[[Joshua 24#^v1|Joshua 24:1-4]]**: Joshua gathered all the tribes of Israel to Shechem: your fathers dwelt on the other side of the flood in old time and served other gods, and the Most High took Abraham, multiplied his seed, and Jacob and his children went down into Egypt, where we served four hundred years.
 
 **[[1 Samuel 14#^v47|1 Samuel 14:47-52]]**  taught in [[1 Samuel 12-15 Study Notes|1 Samuel 12-15]]
@@ -479,9 +490,7 @@ The lineage teaching on Esau and his descendants, from the birthright through th
 
 **[[1 Samuel 15#^v1|1 Samuel 15:1-3]]**  taught in [[1 Samuel 12-15 Study Notes|1 Samuel 12-15]]
 
-- Samuel said unto Saul, The Lord sent me to anoint thee to be king over his people; now therefore hearken thou unto the voice of the words of the Lord. Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way when he came up from Egypt. Generations after the wilderness, the Most High still remembers; the generation of Amalekites had returned, and it was time to fulfil what was written.
-- Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass. This is a specific instruction: kill all of them, spare none. Note that the Most High commanded this against a generation that had not personally done the deed in the wilderness; that answers the argument, I never did anything to you, so why hold it against me? The Most High himself commanded recompense for what was done to the forefathers.
-- Christianity says forgive and forget, but the Most High God said remember; this is a righteous grudge, and it shows [[Leviticus 19#^v18|Leviticus 19:18]] applies to the children of thy people.
+- The teaching applies [[Exodus 17#^v16|Exodus 17:16]] to this day: the same war continues from generation to generation, and it is now more spiritual than ever, because the adversary has established the imagination that they are the Jews, and we go out and cast down that imagination every day. Edom cheered Babylon on when Jerusalem burned, and the scripture pronounces the payback.
 - Precept **[[Psalms 137#^v7|Psalms 137:7]]**: Remember, O Lord, the children of Edom in the day of Jerusalem, who said, Rase it, rase it, even to the foundation thereof; they were the cheerleaders when Babylon destroyed the temple.
 - Precept **[[Revelation 17#^v5|Revelation 17:5]]**: Edom grew up from being the daughter of Babylon into Mystery, Babylon the Great, the mother of harlots; that is why the great woman of Revelation carries Babylon's name.
 
@@ -496,4 +505,3 @@ The lineage teaching on Esau and his descendants, from the birthright through th
 - Saul commanded his footmen to turn and slay the priests of the Lord, but the servants of the king would not put forth their hand to fall upon the priests of the Lord. Saul was able to get the Edomite to do what his own men would not do: Doeg turned and fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod, and smote Nob, the city of the priests, with the edge of the sword.
 - Go back to Genesis and see the spirit that has been placed on this man from the beginning: Esau comforted himself with the purpose of killing his brother Jacob. Just as in the time of Saul, even to this very day, when Israel suffers violence at the hands of the other nations, especially Esau, he gets comfort out of killing us; when Saul appointed Doeg to that task, you can best believe he was quite happy over it and most likely found much pleasure in killing the priests.
 - Precept **[[Genesis 27#^v41|Genesis 27:41-42]]**: Esau hated Jacob because of the blessing, and purposed in his heart to slay his brother; Rebekah warned Jacob that Esau, as touching thee, doth comfort himself, purposing to kill thee. That comfort in killing is the spirit seen again in Doeg the Edomite.
-

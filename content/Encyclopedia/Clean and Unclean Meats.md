@@ -52,6 +52,9 @@ The dietary laws: what may be eaten, what is an abomination, and the precepts be
 
 - By the way in the inn, the LORD met him, and sought to kill him, because Moses had not circumcised his son. Zipporah took a sharp stone, cut off the foreskin of her son, and said, Surely a bloody husband art thou to me: bloody because of the circumcision she had to perform herself.
 - This shows the laws did not begin at Sinai. Circumcision was the covenant given to Abraham for every man child in his generations, on the eighth day, and the uncircumcised man child whose flesh is not circumcised, that soul shall be cut off from his people: he hath broken my covenant. That is why Moses was worthy of death.
+- The covenant still stands. A son of Israel must be circumcised; and a man that comes to the truth grown must still be circumcised, even at forty, fifty, or sixty years, as Abraham himself was circumcised at ninety and nine, and as Paul circumcised Timothy, whose father was a Greek. Nothing that defileth enters the kingdom.
+- The Egyptians did not practice circumcision; they were a nation of uncleanness, and the covenant was between the Lord and Israel: after the doings of the land of Egypt, wherein ye dwelt, shall ye not do.
+- [[Romans 2|Romans 2]] does not do away with circumcision of the flesh. Circumcision verily profiteth if thou keep the law: the Jews who grew up circumcised and keeping the law, yet broke it, made their circumcision uncircumcision; and the uncircumcised of the cast-off northern kingdom who keep the righteousness of the law are counted as circumcised. Circumcision of the heart is putting away the evil of the doings, as the prophets say, take away the foreskins of your heart; the scribes and Pharisees were clean on the outside of the cup but full of iniquity within.
 - Precept **[[Leviticus 12#^v1|Leviticus 12:1-3]]**: In the eighth day the flesh of his foreskin shall be circumcised; the law Moses himself later carried to Israel.
 - Precept **[[Revelation 21#^v27|Revelation 21:27]]**: There shall in no wise enter into it any thing that defileth; the unclean do not enter the kingdom.
 
@@ -366,4 +369,3 @@ The dietary laws: what may be eaten, what is an abomination, and the precepts be
 
 - Manoah arose and went after his wife, came to the man, and asked, art thou the man that spakest unto the woman? He said, I am.
 - Manoah asked how they should order the child and what they should do unto him, and the angel reiterated the instructions he had already given: of all that I said unto the woman let her beware, and all that I commanded her let her observe while she carries this son.
-

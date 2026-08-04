@@ -205,6 +205,9 @@ Passover and the appointed times: the holy convocations and how they are kept.
 - Verily my sabbaths ye shall keep, for it is a sign between me and you throughout your generations, that ye may know that I am the LORD that doth sanctify you. Keeping the weekly sabbath and the feast days shows that Israel are his children and he is their God; the nations do not have this sabbath, and adopted Sunday worship is not the true sabbath given to the children of Israel.
 - Every one that defileth the sabbath shall surely be put to death. The stoning was done away in Christ, but the judgment for breaking the sabbath still stands, and people still die on the sabbath day, Friday sundown to Saturday sundown; the Most High is justified, because it is his sign between him and his people.
 - Six days may work be done, but in the seventh is the sabbath of rest, holy to the LORD. It is more than a day of rest and congregating; it is the sign of who Israel's God is, which is why saying the sabbath is done away takes away the very sign between Israel and God.
+- From the questions: eating is allowed on the sabbath, but not cooking. What is baked and seethed is prepared the day before and laid up, so the sabbath meal is leftovers or simple food; no microwaving, no coffee pots, no kindling the cooking fire.
+- There is no buying or selling on the sabbath or on the holy day, so gas and food are bought before sundown; no fishing either, for what could be called work opens the door to every man excusing his trade on the sabbath.
+- The Lord gives no man license to sin, but Christ is Lord of the sabbath and brought grace for necessities out of our control, a blown tire or an empty tank on the way to keep the sabbath, or medicine when the body is in danger; it is lawful to do well on the sabbath days.
 - Precept **[[Ecclesiasticus 33#^v7|Ecclesiasticus 33:7-9]]**: Every day has the same sun, but by the knowledge of the Lord some days were made high days and hallowed; the sabbath is distinguished by God, not by man.
 
 **[[Exodus 34#^v18|Exodus 34:18-20]]**  taught in [[Exodus 34-37 Study Notes|Exodus 34-37]]
@@ -259,6 +262,7 @@ Passover and the appointed times: the holy convocations and how they are kept.
 **[[Leviticus 3#^v1|Leviticus 3:1]]**  taught in [[Leviticus 2-5 Study Notes|Leviticus 2-5]]
 
 - The Passover lamb shows how that was carried out. The lamb was without blemish, a male of the first year, taken out from the sheep and kept from the goats, because if it got in a fight it would take a blemish, a bruise, a cut. It was kept up to the fourteenth day, isolated and given nothing but water, so that it purified itself; and it was eaten roast with fire, not raw and not sodden with water, with the purtenance thereof, for after those days there was nothing left within it.
+- The lamb that had no blemish was symbolic of Christ. A little leaven leaveneth the whole lump: a little sin in the spirit will get worse, so the old leaven is purged out, and that is the true resemblance of the Passover, purging out sin not one day a year but constantly, in prayer and fasting; for even Christ our Passover, our lamb without blemish, is sacrificed for us.
 - Precept **[[Exodus 12#^v3|Exodus 12:3-9]]**: Your lamb shall be without blemish; it was taken out from the sheep, kept from the goats to the fourteenth day, and roasted with fire, not raw nor sodden.
 - Precept **[[1 Corinthians 5#^v6|1 Corinthians 5:6-7]]**: A little leaven leaveneth the whole lump; purge out the old leaven, for even Christ our passover is sacrificed for us.
 
@@ -426,6 +430,10 @@ Passover and the appointed times: the holy convocations and how they are kept.
 - A thousand years is as a day to the Lord, and a day as a thousand years; as Hosea says, after two days He will revive us, and in the third day He will raise us up. The full teaching of that timing belongs to another class.
 - Precept **[[Hebrews 1#^v1|Hebrews 1:1-2]]**: God hath in these last days spoken unto us by his Son; the last days began at Christ.
 
+**[[Numbers 24#^v17|Numbers 24:17]]**  taught in [[Numbers 23-26 Study Notes|Numbers 23-26]]
+
+- The Lord will be terrible unto them and famish all the gods of the earth, and men shall worship Him every one from his place, even all the isles of the heathen. That is why Balaam said he shall behold Him, but not nigh: the nations will worship from their own place and come up only at the appointed times of the year.
+
 **[[Numbers 25#^v4|Numbers 25:4-5]]**  taught in [[Numbers 23-26 Study Notes|Numbers 23-26]]
 
 - Under the old covenant there was no winking at ignorance; judgment was instant. The only reason we are not judged that way now for the gods we served is the grace and mercy given through Christ: the times of this ignorance God winked at, the Christianity with the white Jesus, the Islam, the Buddhism, the Hinduism, the Egyptology, the atheism; but now He commandeth all men every where to repent, because He hath appointed a day in which He will judge the world in righteousness by that man whom He hath ordained, Jesus the Christ.
@@ -548,7 +556,16 @@ Passover and the appointed times: the holy convocations and how they are kept.
 
 - This verse is the recipe for success, the formula for success, the true prosperity doctrine, and it has three steps: the law in your mouth, meditation day and night, and observing to do all that is written therein.
 - This book of the law shall not depart out of thy mouth: when you open your mouth, what comes out is supposed to be scriptural; your conversation has to be modeled after what this book says. When people leave this truth the Lord removes his words out of their mouth, and their whole conversation changes: nothing is left but slander, falsehood, strange doctrines, and flattering speech.
+- Thou shalt meditate therein day and night: to meditate is to think deeply and carefully, to contemplate, consider, ponder, and muse. Many read their four chapters a day, listen to videos, and quote their precept lists, but never meditate on what they read. You cannot just slap the butter on the biscuit; you have to let it sink into every layer.
+- Solomon shows what a companion meditation makes of wisdom: when he came into his house he reposed himself with her, for her conversation has no bitterness and living with her has no sorrow, but mirth and joy. Get in the habit of chilling with wisdom when you get home. When you ponder the whole benefit package that comes with wisdom, you understand that to be allied unto wisdom is immortality; the wiser you get, the more spiritually invincible you become.
+- Make meditation a daily custom, a holy habit, as our forefathers did: somewhere alone and peaceful where the mind can be clear, because you cannot meditate in the middle of activity and noise. When you meditate continually on the commandments, the Lord establishes your heart, and the evil thoughts you battle begin to flush out of your mind.
+- That thou mayest observe to do according to all that is written therein: the end goal of talking about the commandments and meditating on the commandments is to do the commandments. Attending every class, hearing every breakdown, and keeping every precept list is all in vain if you never do thus saith the Lord; not doing the word of God is why we went into slavery and sit at the bottom of society.
+- For then thou shalt make thy way prosperous, and then thou shalt have good success: only after the mouth, the meditation, and the doing does prosperity follow. Thus saith God, the second you transgress the commandments of the Lord you cannot prosper, so any pastor teaching prosperity while saying the law is done away with is teaching a lie. Real prosperity never came from sowing a seed into a basket; it comes from obeying the laws of the Most High, and that applies to us as a whole nation of people.
 - Precept **[[Genesis 24#^v63|Genesis 24:63]]**: Isaac went out to meditate in the field at the eventide; he had an appointed place and time of day, alone at the going down of the sun, to reflect on the works of the Most High.
+
+**[[Joshua 1#^v16|Joshua 1:16-18]]**  taught in [[Joshua 1-4 Study Notes|Joshua 1-4]]
+
+- According as we hearkened unto Moses in all things, so we will hearken unto thee: when a leader falls and a new leader rises in his stead, that is who the Lord appointed over you, and he is owed the same respect the original leader had. Moses himself asked the Lord to select the man; the selection is spiritual.
 
 **[[Joshua 5#^v10|Joshua 5:10-12]]**  taught in [[Joshua 5-8 Study Notes|Joshua 5-8]]
 
@@ -564,6 +581,8 @@ Passover and the appointed times: the holy convocations and how they are kept.
 - Now that every tribe had its inheritance, cities of refuge had to be instituted, as the Lord spake by the hand of Moses: that the slayer that killeth any person unawares and unwittingly may flee thither, and they shall be your refuge from the avenger of blood.
 - Unwittingly means unknowingly; remember the word wittingly in [[Genesis 48|Genesis 48]], where Israel guided his hands knowing what he was doing. This is accidental death, not intentional murder, like leaving a co-worker shut in the freezer by mistake because you were focused on going home.
 - Notice the scripture says slayer, not murderer: a slayer may be innocent, it may have been a mistake or self-defense, so there are stipulations and laws for his case.
+- The avenger of blood is a family member of the one killed, and while his heart is hot he is not thinking logically; he is guided by his emotions, and that is how you end up rendering evil for evil. Heart is hot is the same way we talk today, I was hot, I am heated: our forefathers and foremothers spoke the same way.
+- The murderer cannot run to a city of refuge to lay low; those cities were not established for him. Even today a killer can cross the border into another jurisdiction and go free, and that is evil; but when Israel controlled the land you could not cross a border to get away with murder, for the elders would deliver you right back to the city you came from. Your sin will find you out.
 - Precept **[[Numbers 35#^v11|Numbers 35:11-12]]**: The cities of refuge were appointed that the manslayer die not, until he stand before the congregation in judgment.
 - Precept **[[Exodus 21#^v12|Exodus 21:12-13]]**: The law goes back to Exodus: he that smiteth a man that he die shall surely be put to death, but if a man lie not in wait and God deliver him into his hand, a place is appointed whither he shall flee.
 
@@ -614,6 +633,9 @@ Passover and the appointed times: the holy convocations and how they are kept.
 
 - Naomi heard in the country of Moab that the Lord had visited his people and given them bread, so she arose with her daughters in law to return unto the land of Judah, and told them, Go, return each to her mother's house; the Lord deal kindly with you, as ye have dealt with the dead and with me.
 - The Lord grant you that ye may find rest, each of you in the house of her husband: that rest is an inheritance. The man is supposed to leave an inheritance; you are not supposed to leave your wife and your children desolate with a gang of bills. To leave an inheritance you first have to work, and you have to be wise with how you deal with your money.
+- Behind the words the wife of the dead stands the law of the husband's brother: if brethren dwell together and one dies having no child, his brother takes the widow to wife, and the firstborn she bears succeeds in the name of the dead brother, that his name be not put out of Israel. That first child is basically the dead brother's child; he gets the rights of inheritance as if the brother were still alive, so the brother's name stays in the earth and his house is built up.
+- We are not under that law anymore; we do not have that land inheritance in captivity. It is wicked to pull that scripture today to try to get with your brother's wife after he passes away; do not be looking at your brother's wife.
+- It is important for us to build our legacy and pass it down; that is one of the things we lack in Israel today. Some of us use captivity as an excuse not to better ourselves or build, but that is not what the scriptures say: get the job, further your education, do more for yourself, your family, and the body. Building up your house also means spiritually building it, teaching your wife and children.
 - Precept **[[Judith 8#^v4|Judith 8:4-7]]**: The example of a widow finding rest in the house of her husband: Manasses left Judith gold, silver, servants, cattle, and lands, and she remained upon them.
 
 ## 1 Samuel
@@ -666,4 +688,3 @@ Passover and the appointed times: the holy convocations and how they are kept.
 - The Philistines gathered all their armies to Aphek, and Israel pitched by a fountain in Jezreel. David and his men passed on in the rearward with Achish, and the princes of the Philistines demanded, What do these Hebrews here?
 - Achish vouched for David: he has been with me these days, or these years, and I have found no fault in him since he fell unto me. But the princes were wroth and said, Make this fellow return to his place; let him not go down with us to the battle, lest in the battle he be an adversary to us. For wherewith should he reconcile himself unto his master? should it not be with the heads of these men?
 - The princes remembered the song: is not this David of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?
-
