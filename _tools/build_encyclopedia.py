@@ -184,10 +184,16 @@ def build(root):
 
     verses = load_bible(bible_dir)
 
+    # Book folders may carry a canonical "NN - " prefix (e.g. "01 - Genesis")
+    book_dirs = {}
+    for d in notes_dir.iterdir():
+        if d.is_dir():
+            book_dirs[re.sub(r"^\d+ - ", "", d.name)] = d
+
     all_entries = []
     for book in BOOK_ORDER:
-        book_dir = notes_dir / book
-        if not book_dir.is_dir():
+        book_dir = book_dirs.get(book)
+        if book_dir is None:
             continue
         docs = sorted(book_dir.glob("*/*Study Notes.md"),
                       key=lambda p: doc_sort_key(p.stem.replace(" Study Notes", "")))

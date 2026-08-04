@@ -4,10 +4,14 @@ title: Class Notes
 
 # Class Notes
 
-Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded scripture.
+Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded scripture. See the [[Class Backlog]] for every class not yet converted.
 
 ## 2026
 
+- [[2026-08-01 - WE ARE BORN IN BABYLON|WE ARE BORN IN BABYLON]] (2026-08-01)
+- [[2026-08-01 - NOLAN WELLS THE PERPETUAL HATRED WE NEVER LEARNED|NOLAN WELLS: THE PERPETUAL HATRED WE NEVER LEARNED]] (2026-08-01)
+- [[2026-08-01 - BEGINNING OF SORROWS & GREAT PAIN|BEGINNING OF SORROWS & GREAT PAIN]] (2026-08-01)
+- [[2026-07-29 - The End Of PAX Americana|The End Of PAX Americana]] (2026-07-29)
 - [[2026-07-26 - Living Your Life As A Hireling|Living Your Life As A Hireling]] (2026-07-26)
 - [[2026-07-25 - FDA Food And Drug Assassination|FDA: Food And Drug Assassination]] (2026-07-25)
 - [[2026-07-25 - MAKING THE GREAT RED DRAGON'S 8TH HEAD GREAT AGAIN|MAKING THE GREAT RED DRAGON'S 8TH HEAD 'GREAT AGAIN']] (2026-07-25)

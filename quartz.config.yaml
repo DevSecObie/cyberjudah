@@ -138,7 +138,7 @@ plugins:
     enabled: true
     layout: { position: beforeBody, priority: 5 }
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links: {}
     layout: { position: footer, priority: 50 }
