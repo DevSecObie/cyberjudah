@@ -30,6 +30,9 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .st-done { color: #15803d; } .class-backlog .st-done .cb-dot { background: #15803d; }
 .class-backlog .st-prog { color: #b45309; } .class-backlog .st-prog .cb-dot { background: #b45309; }
 .class-backlog .st-pend { color: var(--gray); } .class-backlog .st-pend .cb-dot { background: var(--gray); }
+.class-backlog .st-block { color: #b91c1c; } .class-backlog .st-block .cb-dot { background: #b91c1c; }
+:root[saved-theme="dark"] .class-backlog .st-block { color: #f87171; }
+:root[saved-theme="dark"] .class-backlog .st-block .cb-dot { background: #f87171; }
 :root[saved-theme="dark"] .class-backlog .st-done { color: #4ade80; }
 :root[saved-theme="dark"] .class-backlog .st-done .cb-dot { background: #4ade80; }
 :root[saved-theme="dark"] .class-backlog .st-prog { color: #fbbf24; }
@@ -45,7 +48,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
 <div class="cb-tile"><b>15</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>339</b><span>Pending</span></div>
+<div class="cb-tile"><b>338</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
 <div class="cb-meter-label">15 of 354 classes converted to notes (4%)</div>
@@ -56,6 +59,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <button class="cb-chip" data-f="pending">Pending</button>
 <button class="cb-chip" data-f="in_progress">In progress</button>
 <button class="cb-chip" data-f="done">Done</button>
+<button class="cb-chip" data-f="blocked">Blocked</button>
 </div>
 
 <table>
@@ -64,7 +68,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="we are born in babylon"><td class="cb-num">354</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=FpEHxWGgai8" rel="noopener">WE ARE BORN IN BABYLON</a></td><td class="cb-len">3:47:08</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-08-01---we-are-born-in-babylon">Read note</a></td></tr>
 <tr data-status="done" data-search="beginning of sorrows &amp; great pain"><td class="cb-num">353</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=6gzqYKSUmS4" rel="noopener">BEGINNING OF SORROWS &amp; GREAT PAIN</a></td><td class="cb-len">2:38:01</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-08-01---beginning-of-sorrows--and--great-pain">Read note</a></td></tr>
 <tr data-status="done" data-search="nolan wells: the perpetual hatred we never learned"><td class="cb-num">352</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=fJ_pW-RImxU" rel="noopener">NOLAN WELLS: THE PERPETUAL HATRED WE NEVER LEARNED</a></td><td class="cb-len">2:33:01</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-08-01---nolan-wells-the-perpetual-hatred-we-never-learned">Read note</a></td></tr>
-<tr data-status="pending" data-search="strange fruit"><td class="cb-num">351</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=jkjOxb1_w-k" rel="noopener">STRANGE FRUIT</a></td><td class="cb-len">2:40:22</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="STRANGE FRUIT" data-id="jkjOxb1_w-k" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="blocked" data-search="strange fruit"><td class="cb-num">351</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=jkjOxb1_w-k" rel="noopener">STRANGE FRUIT</a></td><td class="cb-len">2:40:22</td><td><span class="cb-st st-block"><span class="cb-dot"></span>Blocked</span></td><td class="cb-act"><span class="cb-muted">content filtering (graphic source material); needs a human decision</span></td></tr>
 <tr data-status="done" data-search="the end of pax americana"><td class="cb-num">350</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=stGojnrSmJA" rel="noopener">The End Of PAX Americana</a></td><td class="cb-len">2:19:39</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-29---the-end-of-pax-americana">Read note</a></td></tr>
 <tr data-status="done" data-search="living your life as a hireling"><td class="cb-num">349</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=AEtwteuLiy4" rel="noopener">Living Your Life As A Hireling</a></td><td class="cb-len">3:23:51</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-26---living-your-life-as-a-hireling">Read note</a></td></tr>
 <tr data-status="done" data-search="making the great red dragon&#x27;s 8th head &quot;great again&quot;"><td class="cb-num">348</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Oas2Tg98VMA" rel="noopener">MAKING THE GREAT RED DRAGON&#x27;S 8TH HEAD &quot;GREAT AGAIN&quot;</a></td><td class="cb-len">2:43:43</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-25---making-the-great-red-dragon&#x27;s-8th-head-great-again">Read note</a></td></tr>

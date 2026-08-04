@@ -32,6 +32,7 @@ STATUS = {
     "done": ("Done", "st-done"),
     "in_progress": ("In progress", "st-prog"),
     "pending": ("Pending", "st-pend"),
+    "blocked": ("Blocked", "st-block"),
 }
 
 rows = []
@@ -43,6 +44,8 @@ for i, c in enumerate(classes):
         action = f'<a class="cb-note" href="{html.escape(c["note"])}">Read note</a>'
     elif c["status"] == "in_progress":
         action = '<span class="cb-muted">being written</span>'
+    elif c["status"] == "blocked":
+        action = f'<span class="cb-muted">{html.escape(c.get("reason", "needs a human decision"))}</span>'
     else:
         action = (f'<button class="cb-copy" data-title="{title}" data-id="{c["videoId"]}" '
                   f'title="Copy a ready-made request for Claude">Copy request</button>')
@@ -88,6 +91,9 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .st-done {{ color: #15803d; }} .class-backlog .st-done .cb-dot {{ background: #15803d; }}
 .class-backlog .st-prog {{ color: #b45309; }} .class-backlog .st-prog .cb-dot {{ background: #b45309; }}
 .class-backlog .st-pend {{ color: var(--gray); }} .class-backlog .st-pend .cb-dot {{ background: var(--gray); }}
+.class-backlog .st-block {{ color: #b91c1c; }} .class-backlog .st-block .cb-dot {{ background: #b91c1c; }}
+:root[saved-theme="dark"] .class-backlog .st-block {{ color: #f87171; }}
+:root[saved-theme="dark"] .class-backlog .st-block .cb-dot {{ background: #f87171; }}
 :root[saved-theme="dark"] .class-backlog .st-done {{ color: #4ade80; }}
 :root[saved-theme="dark"] .class-backlog .st-done .cb-dot {{ background: #4ade80; }}
 :root[saved-theme="dark"] .class-backlog .st-prog {{ color: #fbbf24; }}
@@ -114,6 +120,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <button class="cb-chip" data-f="pending">Pending</button>
 <button class="cb-chip" data-f="in_progress">In progress</button>
 <button class="cb-chip" data-f="done">Done</button>
+<button class="cb-chip" data-f="blocked">Blocked</button>
 </div>
 
 <table>
