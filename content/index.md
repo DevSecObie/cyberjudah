@@ -5,39 +5,14 @@ aliases:
   - Home
 ---
 
-# CyberJudah Study Bible
+A linked KJV Study Bible with Apocrypha, built from the "4 Chapters a Day" sessions and ClassRoom livestreams. Every teaching is backed with a precept, and every verse links to the chapter it comes from.
 
-> [!note] About this project
-> An independent educational study resource built from the KJV with Apocrypha
-> and verbatim class notes. This site is not affiliated with or endorsed by IUIC.
-KJV Study Bible built from the IUIC "4 Chapters a Day" sessions.
+[[Genesis Index|Study Notes]] · [[The Holy Bible|Scripture]] · [[Class Notes Index|Class Notes]] · [[_Index|Encyclopedia]] · [[Class Backlog|Backlog]]
 
 ## Study notes
 
-- [[Genesis Index|Genesis]] — 13 sessions
-- [[Exodus Index|Exodus]] — 11 sessions
-- [[Leviticus Index|Leviticus]] — 8 sessions
-- [[Numbers Index|Numbers]] — 10 sessions
-- [[Deuteronomy Index|Deuteronomy]] — 9 sessions
-- [[Joshua Index|Joshua]] — 6 sessions
-- [[Judges Index|Judges]] — 6 sessions
-- [[Ruth Index|Ruth]] — 2 sessions
-- [[1 Samuel Index|1 Samuel]] — 8 sessions
+[[Genesis Index|Genesis]] · [[Exodus Index|Exodus]] · [[Leviticus Index|Leviticus]] · [[Numbers Index|Numbers]] · [[Deuteronomy Index|Deuteronomy]] · [[Joshua Index|Joshua]] · [[Judges Index|Judges]] · [[Ruth Index|Ruth]] · [[1 Samuel Index|1 Samuel]]
 
-## Scripture
+## About
 
-- [[The Holy Bible]] — KJV (1769) with Apocrypha, one note per chapter
-
-## Classroom
-
-- [[Class Notes Index]] — study notes from ClassRoom livestreams
-
-## Reference
-
-- [[_Index|Encyclopedia]] — topical entries built from the notes
-
-
-## Copyright notice
-
-The Bible text is the public-domain King James Version. Class notes are provided
-for study, commentary, and scripture research.
+An independent educational study resource. The Bible text is the public-domain King James Version (1769) with Apocrypha. Class notes are provided for study, commentary, and scripture research. This site is not affiliated with or endorsed by IUIC.

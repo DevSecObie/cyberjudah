@@ -19,30 +19,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Manrope
-      body: Inter
+      header: Newsreader
+      body: Newsreader
       code: JetBrains Mono
     colors:
       lightMode:
-        light: "#f6f8fc"
-        lightgray: "#e4e9f3"
-        gray: "#8792a5"
-        darkgray: "#374151"
-        dark: "#111827"
-        secondary: "#6366f1"
-        tertiary: "#0891b2"
-        highlight: rgba(99, 102, 241, 0.12)
-        textHighlight: "#67e8f966"
+        light: "#faf9f7"
+        lightgray: "#e8e5df"
+        gray: "#8a8478"
+        darkgray: "#403c35"
+        dark: "#1c1915"
+        secondary: "#8a6a33"
+        tertiary: "#6b5d48"
+        highlight: rgba(138, 106, 51, 0.09)
+        textHighlight: "#e9d9ae66"
       darkMode:
-        light: "#090d18"
-        lightgray: "#1b2336"
-        gray: "#6f7e96"
-        darkgray: "#cbd5e1"
-        dark: "#f8fafc"
-        secondary: "#818cf8"
-        tertiary: "#22d3ee"
-        highlight: rgba(129, 140, 248, 0.14)
-        textHighlight: "#22d3ee44"
+        light: "#12100d"
+        lightgray: "#282520"
+        gray: "#948c7e"
+        darkgray: "#d6d1c7"
+        dark: "#f1ede5"
+        secondary: "#c9a35c"
+        tertiary: "#a89880"
+        highlight: rgba(201, 163, 92, 0.10)
+        textHighlight: "#c9a35c44"
 plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
@@ -76,7 +76,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout: { position: right, priority: 30 }
   - source: "@quartz-community/crawl-links"
@@ -104,10 +104,10 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout: { position: left, priority: 50 }
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout: { position: right, priority: 10 }
   - source: "@quartz-community/search"
     enabled: true
@@ -117,7 +117,7 @@ plugins:
       group: toolbar
       groupOptions: { grow: true }
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout: { position: right, priority: 50 }
   - source: "@quartz-community/article-title"
     enabled: true
@@ -132,7 +132,7 @@ plugins:
     enabled: true
     layout: { position: left, priority: 30, group: toolbar }
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout: { position: left, priority: 35, group: toolbar }
   - source: "@quartz-community/breadcrumbs"
     enabled: true
