@@ -40,4 +40,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-06-13 - TRAITORS AND THEIR EXQUISITE SUBTLETY THE JUDAS ISCARIOT EFFECT|TRAITORS AND THEIR EXQUISITE SUBTLETY: THE JUDAS ISCARIOT EFFECT]] (2026-06-13)
 - [[2026-06-06 - MEMBERS OF THE BODY PT2|MEMBERS OF THE BODY PT2]] (2026-06-06)
 - [[2026-06-06 - SEEKING JUSTICE IN AN UNJUST SYSTEM|SEEKING JUSTICE IN AN UNJUST SYSTEM]] (2026-06-06)
+- [[2026-05-30 - FORGED BY FIRE|FORGED BY FIRE]] (2026-05-30)
+- [[2026-05-24 - Acts 10 Reloaded Call No Man Common|Acts 10 Reloaded: Call No Man Common]] (2026-05-24)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)

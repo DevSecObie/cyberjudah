@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 9%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 10%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>33</b><span>Done</span></div>
+<div class="cb-tile"><b>35</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>320</b><span>Pending</span></div>
+<div class="cb-tile"><b>318</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">33 of 354 classes converted to notes (9%)</div>
+<div class="cb-meter-label">35 of 354 classes converted to notes (10%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -98,8 +98,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="from brother to betrayer"><td class="cb-num">324</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Qw2v07pohR4" rel="noopener">From Brother To Betrayer</a></td><td class="cb-len">2:50:01</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-20---from-brother-to-betrayer">Read note</a></td></tr>
 <tr data-status="done" data-search="members of the body  pt2"><td class="cb-num">323</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=bvqCl9KmDt4" rel="noopener">MEMBERS OF THE BODY  PT2</a></td><td class="cb-len">2:34:14</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-06---members-of-the-body-pt2">Read note</a></td></tr>
 <tr data-status="done" data-search="seeking justice in an unjust system"><td class="cb-num">322</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=qPKSyeIvjDI" rel="noopener">SEEKING JUSTICE IN AN UNJUST SYSTEM</a></td><td class="cb-len">2:55:23</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-06---seeking-justice-in-an-unjust-system">Read note</a></td></tr>
-<tr data-status="pending" data-search="forged by fire"><td class="cb-num">321</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=cdxo7DlRCrc" rel="noopener">FORGED BY FIRE</a></td><td class="cb-len">1:52:41</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="FORGED BY FIRE" data-id="cdxo7DlRCrc" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="acts 10 reloaded: call no man common"><td class="cb-num">320</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=QjcvHQtrDrw" rel="noopener">Acts 10 Reloaded: Call No Man Common</a></td><td class="cb-len">6:10:34</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Acts 10 Reloaded: Call No Man Common" data-id="QjcvHQtrDrw" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="forged by fire"><td class="cb-num">321</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=cdxo7DlRCrc" rel="noopener">FORGED BY FIRE</a></td><td class="cb-len">1:52:41</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-30---forged-by-fire">Read note</a></td></tr>
+<tr data-status="done" data-search="acts 10 reloaded: call no man common"><td class="cb-num">320</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=QjcvHQtrDrw" rel="noopener">Acts 10 Reloaded: Call No Man Common</a></td><td class="cb-len">6:10:34</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-24---acts-10-reloaded-call-no-man-common">Read note</a></td></tr>
 <tr data-status="pending" data-search="deceived by enticing words: colossians 2"><td class="cb-num">319</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=AP1-gbdhOv8" rel="noopener">DECEIVED BY ENTICING WORDS: COLOSSIANS 2</a></td><td class="cb-len">3:35:44</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="DECEIVED BY ENTICING WORDS: COLOSSIANS 2" data-id="AP1-gbdhOv8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="member&#x27;s in the body"><td class="cb-num">318</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=MYjE1-GE1kg" rel="noopener">Member&#x27;s In The Body</a></td><td class="cb-len">2:33:09</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Member&#x27;s In The Body" data-id="MYjE1-GE1kg" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="god, purpose, and sacrifice"><td class="cb-num">317</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=7vmCIf3gj2I" rel="noopener">God, Purpose, and Sacrifice</a></td><td class="cb-len">2:54:54</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="God, Purpose, and Sacrifice" data-id="7vmCIf3gj2I" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
