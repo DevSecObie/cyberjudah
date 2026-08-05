@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 8%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 9%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>29</b><span>Done</span></div>
+<div class="cb-tile"><b>31</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>324</b><span>Pending</span></div>
+<div class="cb-tile"><b>322</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">29 of 354 classes converted to notes (8%)</div>
+<div class="cb-meter-label">31 of 354 classes converted to notes (9%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -94,8 +94,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="the madmen of china and their hatred for black people"><td class="cb-num">328</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=6XyhSewrzz0" rel="noopener">The Madmen Of China And Their Hatred For Black People</a></td><td class="cb-len">3:16:45</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-20---the-madmen-of-china-and-their-hatred-for-black-people">Read note</a></td></tr>
 <tr data-status="done" data-search="daily bread for a dying man"><td class="cb-num">327</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=EtPB8pdK2XE" rel="noopener">Daily Bread for a Dying Man</a></td><td class="cb-len">2:24:08</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-13---daily-bread-for-a-dying-man">Read note</a></td></tr>
 <tr data-status="done" data-search="traitors and their exquisite subtlety: the judas iscariot effect"><td class="cb-num">326</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=j2FoUSpuWIs" rel="noopener">TRAITORS AND THEIR EXQUISITE SUBTLETY: THE JUDAS ISCARIOT EFFECT</a></td><td class="cb-len">2:31:24</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-13---traitors-and-their-exquisite-subtlety-the-judas-iscariot-effect">Read note</a></td></tr>
-<tr data-status="pending" data-search="the bottle, the battle, and the bible"><td class="cb-num">325</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=KcKlRTSaOVM" rel="noopener">THE BOTTLE, THE BATTLE, AND THE BIBLE</a></td><td class="cb-len">2:29:27</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE BOTTLE, THE BATTLE, AND THE BIBLE" data-id="KcKlRTSaOVM" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="from brother to betrayer"><td class="cb-num">324</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Qw2v07pohR4" rel="noopener">From Brother To Betrayer</a></td><td class="cb-len">2:50:01</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="From Brother To Betrayer" data-id="Qw2v07pohR4" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="the bottle, the battle, and the bible"><td class="cb-num">325</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=KcKlRTSaOVM" rel="noopener">THE BOTTLE, THE BATTLE, AND THE BIBLE</a></td><td class="cb-len">2:29:27</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-20---the-bottle,-the-battle,-and-the-bible">Read note</a></td></tr>
+<tr data-status="done" data-search="from brother to betrayer"><td class="cb-num">324</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Qw2v07pohR4" rel="noopener">From Brother To Betrayer</a></td><td class="cb-len">2:50:01</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-20---from-brother-to-betrayer">Read note</a></td></tr>
 <tr data-status="pending" data-search="members of the body  pt2"><td class="cb-num">323</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=bvqCl9KmDt4" rel="noopener">MEMBERS OF THE BODY  PT2</a></td><td class="cb-len">2:34:14</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="MEMBERS OF THE BODY  PT2" data-id="bvqCl9KmDt4" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="seeking justice in an unjust system"><td class="cb-num">322</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=qPKSyeIvjDI" rel="noopener">SEEKING JUSTICE IN AN UNJUST SYSTEM</a></td><td class="cb-len">2:55:23</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="SEEKING JUSTICE IN AN UNJUST SYSTEM" data-id="qPKSyeIvjDI" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="forged by fire"><td class="cb-num">321</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=cdxo7DlRCrc" rel="noopener">FORGED BY FIRE</a></td><td class="cb-len">1:52:41</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="FORGED BY FIRE" data-id="cdxo7DlRCrc" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
