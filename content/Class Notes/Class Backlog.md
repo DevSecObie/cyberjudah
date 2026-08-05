@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 5%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 6%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>19</b><span>Done</span></div>
+<div class="cb-tile"><b>21</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>334</b><span>Pending</span></div>
+<div class="cb-tile"><b>332</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">19 of 354 classes converted to notes (5%)</div>
+<div class="cb-meter-label">21 of 354 classes converted to notes (6%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -82,8 +82,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="raising up the tabernacle of david that fell"><td class="cb-num">340</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=o5Xl6CIPOgk" rel="noopener">RAISING UP THE TABERNACLE OF DAVID THAT FELL</a></td><td class="cb-len">3:58:36</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-12---raising-up-the-tabernacle-of-david-that-fell">Read note</a></td></tr>
 <tr data-status="done" data-search="250 years of celebration 400 years of sweat equity (pt 2)"><td class="cb-num">339</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=C5q-raZJyNA" rel="noopener">250 YEARS OF CELEBRATION 400 YEARS OF SWEAT EQUITY (PT 2)</a></td><td class="cb-len">2:38:16</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-11---250-years-of-celebration-400-years-of-sweat-equity-(pt-2)">Read note</a></td></tr>
 <tr data-status="done" data-search="perilous times: judges and soldiers"><td class="cb-num">338</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=lLFXQr1FYm0" rel="noopener">PERILOUS TIMES: JUDGES AND SOLDIERS</a></td><td class="cb-len">1:54:05</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-11---perilous-times-judges-and-soldiers">Read note</a></td></tr>
-<tr data-status="pending" data-search="job sees america&#x27;s 250th anniversary"><td class="cb-num">337</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=oDJQWLjahKg" rel="noopener">JOB SEES AMERICA&#x27;S 250TH ANNIVERSARY</a></td><td class="cb-len">3:22:19</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="JOB SEES AMERICA&#x27;S 250TH ANNIVERSARY" data-id="oDJQWLjahKg" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="250 years of celebration; 400 years of sweat equity!"><td class="cb-num">336</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=4fML805MO8A" rel="noopener">250 YEARS OF CELEBRATION; 400 YEARS OF SWEAT EQUITY!</a></td><td class="cb-len">2:48:33</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="250 YEARS OF CELEBRATION; 400 YEARS OF SWEAT EQUITY!" data-id="4fML805MO8A" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="job sees america&#x27;s 250th anniversary"><td class="cb-num">337</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=oDJQWLjahKg" rel="noopener">JOB SEES AMERICA&#x27;S 250TH ANNIVERSARY</a></td><td class="cb-len">3:22:19</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-04---job-sees-america&#x27;s-250th-anniversary">Read note</a></td></tr>
+<tr data-status="done" data-search="250 years of celebration; 400 years of sweat equity!"><td class="cb-num">336</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=4fML805MO8A" rel="noopener">250 YEARS OF CELEBRATION; 400 YEARS OF SWEAT EQUITY!</a></td><td class="cb-len">2:48:33</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-04---250-years-of-celebration;-400-years-of-sweat-equity!">Read note</a></td></tr>
 <tr data-status="done" data-search="know your enemy: god&#x27;s foes &amp; ours"><td class="cb-num">335</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=XLxd9su1ZIk" rel="noopener">KNOW YOUR ENEMY: GOD&#x27;S FOES &amp; OURS</a></td><td class="cb-len">2:29:09</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-04---know-your-enemy-god&#x27;s-foes--and--ours">Read note</a></td></tr>
 <tr data-status="done" data-search="woe to amerikkka"><td class="cb-num">334</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=uINOczaGz48" rel="noopener">WOE TO AMERIKKKA</a></td><td class="cb-len">2:36:40</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-04---woe-to-amerikka">Read note</a></td></tr>
 <tr data-status="pending" data-search="sexual discipline"><td class="cb-num">333</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=PigequaBCsA" rel="noopener">SEXUAL DISCIPLINE</a></td><td class="cb-len">2:36:15</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="SEXUAL DISCIPLINE" data-id="PigequaBCsA" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
