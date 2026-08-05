@@ -38,4 +38,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-06-20 - The Madmen Of China And Their Hatred For Black People|The Madmen Of China And Their Hatred For Black People]] (2026-06-20)
 - [[2026-06-13 - Daily Bread for a Dying Man|Daily Bread for a Dying Man]] (2026-06-13)
 - [[2026-06-13 - TRAITORS AND THEIR EXQUISITE SUBTLETY THE JUDAS ISCARIOT EFFECT|TRAITORS AND THEIR EXQUISITE SUBTLETY: THE JUDAS ISCARIOT EFFECT]] (2026-06-13)
+- [[2026-06-06 - MEMBERS OF THE BODY PT2|MEMBERS OF THE BODY PT2]] (2026-06-06)
+- [[2026-06-06 - SEEKING JUSTICE IN AN UNJUST SYSTEM|SEEKING JUSTICE IN AN UNJUST SYSTEM]] (2026-06-06)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
