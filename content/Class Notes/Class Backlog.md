@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 6%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 7%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>23</b><span>Done</span></div>
+<div class="cb-tile"><b>25</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>330</b><span>Pending</span></div>
+<div class="cb-tile"><b>328</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">23 of 354 classes converted to notes (6%)</div>
+<div class="cb-meter-label">25 of 354 classes converted to notes (7%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -88,8 +88,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="woe to amerikkka"><td class="cb-num">334</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=uINOczaGz48" rel="noopener">WOE TO AMERIKKKA</a></td><td class="cb-len">2:36:40</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-04---woe-to-amerikka">Read note</a></td></tr>
 <tr data-status="done" data-search="sexual discipline"><td class="cb-num">333</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=PigequaBCsA" rel="noopener">SEXUAL DISCIPLINE</a></td><td class="cb-len">2:36:15</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-30---sexual-discipline">Read note</a></td></tr>
 <tr data-status="done" data-search="the negro community: a wasteland of tears"><td class="cb-num">332</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=U39hwR1pDTQ" rel="noopener">THE NEGRO COMMUNITY: A WASTELAND OF TEARS</a></td><td class="cb-len">3:38:13</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-27---the-negro-community-a-wasteland-of-tears">Read note</a></td></tr>
-<tr data-status="pending" data-search="born for adversity"><td class="cb-num">331</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=LmH1fhfwlzM" rel="noopener">BORN FOR ADVERSITY</a></td><td class="cb-len">2:44:49</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="BORN FOR ADVERSITY" data-id="LmH1fhfwlzM" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="blasphemers &amp; traitors: judge not before the time"><td class="cb-num">330</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=SxDuvLQEkHI" rel="noopener">BLASPHEMERS &amp; TRAITORS: JUDGE NOT BEFORE THE TIME</a></td><td class="cb-len">2:33:54</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="BLASPHEMERS &amp; TRAITORS: JUDGE NOT BEFORE THE TIME" data-id="SxDuvLQEkHI" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="born for adversity"><td class="cb-num">331</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=LmH1fhfwlzM" rel="noopener">BORN FOR ADVERSITY</a></td><td class="cb-len">2:44:49</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-27---born-for-adversity">Read note</a></td></tr>
+<tr data-status="done" data-search="blasphemers &amp; traitors: judge not before the time"><td class="cb-num">330</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=SxDuvLQEkHI" rel="noopener">BLASPHEMERS &amp; TRAITORS: JUDGE NOT BEFORE THE TIME</a></td><td class="cb-len">2:33:54</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-20---blasphemers--and--traitors-judge-not-before-the-time">Read note</a></td></tr>
 <tr data-status="pending" data-search="satan&#x27;s kiss to your demise"><td class="cb-num">329</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=NtwCJWtpPQY" rel="noopener">Satan&#x27;s Kiss To Your Demise</a></td><td class="cb-len">2:31:13</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Satan&#x27;s Kiss To Your Demise" data-id="NtwCJWtpPQY" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the madmen of china and their hatred for black people"><td class="cb-num">328</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=6XyhSewrzz0" rel="noopener">The Madmen Of China And Their Hatred For Black People</a></td><td class="cb-len">3:16:45</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="The Madmen Of China And Their Hatred For Black People" data-id="6XyhSewrzz0" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="daily bread for a dying man"><td class="cb-num">327</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=EtPB8pdK2XE" rel="noopener">Daily Bread for a Dying Man</a></td><td class="cb-len">2:24:08</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Daily Bread for a Dying Man" data-id="EtPB8pdK2XE" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
