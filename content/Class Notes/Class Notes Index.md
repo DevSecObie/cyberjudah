@@ -32,4 +32,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-06-27 - THE NEGRO COMMUNITY A WASTELAND OF TEARS|THE NEGRO COMMUNITY: A WASTELAND OF TEARS]] (2026-06-27)
 - [[2026-06-27 - BORN FOR ADVERSITY|BORN FOR ADVERSITY]] (2026-06-27)
 - [[2026-06-20 - BLASPHEMERS & TRAITORS JUDGE NOT BEFORE THE TIME|BLASPHEMERS & TRAITORS: JUDGE NOT BEFORE THE TIME]] (2026-06-20)
+- [[2026-06-20 - Satan's Kiss To Your Demise|Satan's Kiss To Your Demise]] (2026-06-20)
+- [[2026-06-20 - The Madmen Of China And Their Hatred For Black People|The Madmen Of China And Their Hatred For Black People]] (2026-06-20)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
