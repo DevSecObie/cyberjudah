@@ -34,4 +34,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-06-20 - BLASPHEMERS & TRAITORS JUDGE NOT BEFORE THE TIME|BLASPHEMERS & TRAITORS: JUDGE NOT BEFORE THE TIME]] (2026-06-20)
 - [[2026-06-20 - Satan's Kiss To Your Demise|Satan's Kiss To Your Demise]] (2026-06-20)
 - [[2026-06-20 - The Madmen Of China And Their Hatred For Black People|The Madmen Of China And Their Hatred For Black People]] (2026-06-20)
+- [[2026-06-13 - Daily Bread for a Dying Man|Daily Bread for a Dying Man]] (2026-06-13)
+- [[2026-06-13 - TRAITORS AND THEIR EXQUISITE SUBTLETY THE JUDAS ISCARIOT EFFECT|TRAITORS AND THEIR EXQUISITE SUBTLETY: THE JUDAS ISCARIOT EFFECT]] (2026-06-13)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
