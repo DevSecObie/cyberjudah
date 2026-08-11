@@ -47,6 +47,8 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-05-30 - God, Purpose, and Sacrifice|God, Purpose, and Sacrifice]] (2026-05-30)
 - [[2026-05-24 - Acts 10 Reloaded Call No Man Common|Acts 10 Reloaded: Call No Man Common]] (2026-05-24)
 - [[2026-05-23 - Pay The Price Pleasure Now Regret Later|Pay The Price: Pleasure Now Regret Later]] (2026-05-23)
+- [[2026-05-23 - They Say We Hate White People|They Say We Hate White People]] (2026-05-23)
+- [[2026-05-23 - 70 TIMES 7 THE PERFECTION OF MERCY THROUGH CHRIST|70 TIMES 7: THE PERFECTION OF MERCY THROUGH CHRIST]] (2026-05-23)
 - [[2026-05-23 - In Vain Do They Worship Me! Religious Syncretism|In Vain Do They Worship Me! Religious Syncretism]] (2026-05-23)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
 - [[2026-05-16 - In a Game of Fools Without The Rules|In a Game of Fools Without The Rules]] (2026-05-16)

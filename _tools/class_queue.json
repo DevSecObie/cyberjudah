@@ -321,19 +321,22 @@
    "videoId": "xHfm0T2bm8w",
    "title": "THE SUPERIORITY OF THE CHOSEN PEOPLE",
    "length": "6:38:02",
-   "status": "pending"
+   "status": "blocked",
+   "reason": "transcript API returns 404 for this video (en and asr-en both unavailable despite being listed); needs a human decision"
   },
   {
    "videoId": "xa6eyWlShws",
    "title": "They Say We Hate White People",
    "length": "4:14:39",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-23---they-say-we-hate-white-people"
   },
   {
    "videoId": "GbkgUFGpeY8",
    "title": "70 TIMES 7: THE PERFECTION OF MERCY THROUGH CHRIST",
    "length": "2:46:49",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-23---70-times-7-the-perfection-of-mercy-through-christ"
   },
   {
    "videoId": "0N1tUWScwMU",
