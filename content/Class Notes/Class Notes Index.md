@@ -47,3 +47,5 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-05-24 - Acts 10 Reloaded Call No Man Common|Acts 10 Reloaded: Call No Man Common]] (2026-05-24)
 - [[2026-05-23 - In Vain Do They Worship Me! Religious Syncretism|In Vain Do They Worship Me! Religious Syncretism]] (2026-05-23)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
+- [[2026-05-16 - In a Game of Fools Without The Rules|In a Game of Fools Without The Rules]] (2026-05-16)
+- [[2026-05-01 - The Secret Hands Behind South Africa's Xenophobia|The Secret Hands Behind South Africa's Xenophobia]] (2026-05-01)
