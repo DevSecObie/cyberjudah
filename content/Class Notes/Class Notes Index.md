@@ -50,6 +50,8 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-05-23 - They Say We Hate White People|They Say We Hate White People]] (2026-05-23)
 - [[2026-05-23 - 70 TIMES 7 THE PERFECTION OF MERCY THROUGH CHRIST|70 TIMES 7: THE PERFECTION OF MERCY THROUGH CHRIST]] (2026-05-23)
 - [[2026-05-23 - In Vain Do They Worship Me! Religious Syncretism|In Vain Do They Worship Me! Religious Syncretism]] (2026-05-23)
+- [[2026-05-23 - WHY THEY HATED US WALKING IN THE FOOTSTEPS OF THE PERSECUTED|WHY THEY HATED US: WALKING IN THE FOOTSTEPS OF THE PERSECUTED]] (2026-05-23)
+- [[2026-05-23 - CHARACTER & INTEGRITY THE HIDDEN STRENGTH BEHIND WISDOM (T-g4PozGSnM)|CHARACTER & INTEGRITY: THE HIDDEN STRENGTH BEHIND WISDOM (opening session)]] (2026-05-23)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
 - [[2026-05-16 - In a Game of Fools Without The Rules|In a Game of Fools Without The Rules]] (2026-05-16)
 - [[2026-05-16 - Popular Persuasions Fighting Against Heaven Defending Earth|Popular Persuasions: Fighting Against Heaven Defending Earth]] (2026-05-16)
