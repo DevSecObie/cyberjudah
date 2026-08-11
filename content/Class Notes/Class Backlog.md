@@ -2,7 +2,7 @@
 title: Class Backlog
 ---
 
-Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICintheClassRoom) and whether it has been broken down into [[Class Notes Index|class notes]] yet. Newest classes first. The status list lives in the repo at `_tools/class_queue.json`; ask Claude to break down the next batch and this page updates on the next deploy. Last updated 2026-08-05.
+Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICintheClassRoom) and whether it has been broken down into [[Class Notes Index|class notes]] yet. Newest classes first. The status list lives in the repo at `_tools/class_queue.json`; ask Claude to break down the next batch and this page updates on the next deploy. Last updated 2026-08-11.
 
 <div class="class-backlog">
 <style>
@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 10%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 11%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>37</b><span>Done</span></div>
+<div class="cb-tile"><b>39</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>316</b><span>Pending</span></div>
+<div class="cb-tile"><b>314</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">37 of 354 classes converted to notes (10%)</div>
+<div class="cb-meter-label">39 of 354 classes converted to notes (11%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -102,8 +102,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="acts 10 reloaded: call no man common"><td class="cb-num">320</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=QjcvHQtrDrw" rel="noopener">Acts 10 Reloaded: Call No Man Common</a></td><td class="cb-len">6:10:34</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-24---acts-10-reloaded-call-no-man-common">Read note</a></td></tr>
 <tr data-status="done" data-search="deceived by enticing words: colossians 2"><td class="cb-num">319</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=AP1-gbdhOv8" rel="noopener">DECEIVED BY ENTICING WORDS: COLOSSIANS 2</a></td><td class="cb-len">3:35:44</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-06---deceived-by-enticing-words-colossians-2">Read note</a></td></tr>
 <tr data-status="done" data-search="member&#x27;s in the body"><td class="cb-num">318</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=MYjE1-GE1kg" rel="noopener">Member&#x27;s In The Body</a></td><td class="cb-len">2:33:09</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-06-06---member&#x27;s-in-the-body">Read note</a></td></tr>
-<tr data-status="pending" data-search="god, purpose, and sacrifice"><td class="cb-num">317</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=7vmCIf3gj2I" rel="noopener">God, Purpose, and Sacrifice</a></td><td class="cb-len">2:54:54</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="God, Purpose, and Sacrifice" data-id="7vmCIf3gj2I" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="in vain do they worship me! religious syncretism"><td class="cb-num">316</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ZztygjY4U2w" rel="noopener">In Vain Do They Worship Me! Religious Syncretism</a></td><td class="cb-len">2:37:12</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="In Vain Do They Worship Me! Religious Syncretism" data-id="ZztygjY4U2w" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="god, purpose, and sacrifice"><td class="cb-num">317</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=7vmCIf3gj2I" rel="noopener">God, Purpose, and Sacrifice</a></td><td class="cb-len">2:54:54</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-30---god,-purpose,-and-sacrifice">Read note</a></td></tr>
+<tr data-status="done" data-search="in vain do they worship me! religious syncretism"><td class="cb-num">316</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ZztygjY4U2w" rel="noopener">In Vain Do They Worship Me! Religious Syncretism</a></td><td class="cb-len">2:37:12</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-23---in-vain-do-they-worship-me!-religious-syncretism">Read note</a></td></tr>
 <tr data-status="pending" data-search="in a game of fools without the rules"><td class="cb-num">315</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=H5r5CisviT8" rel="noopener">In a Game of Fools Without The Rules</a></td><td class="cb-len">3:16:47</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="In a Game of Fools Without The Rules" data-id="H5r5CisviT8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the secret hands behind south africa&#x27;s xenophobia"><td class="cb-num">314</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=PrZE7A1aloo" rel="noopener">The Secret Hands Behind South Africa&#x27;s Xenophobia</a></td><td class="cb-len">2:07:15</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="The Secret Hands Behind South Africa&#x27;s Xenophobia" data-id="PrZE7A1aloo" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="joseph in egypt: then &amp; now"><td class="cb-num">313</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=075qOUs8Sbc" rel="noopener">JOSEPH IN EGYPT: THEN &amp; NOW</a></td><td class="cb-len">3:40:40</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="JOSEPH IN EGYPT: THEN &amp; NOW" data-id="075qOUs8Sbc" title="Copy a ready-made request for Claude">Copy request</button></td></tr>

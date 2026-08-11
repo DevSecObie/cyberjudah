@@ -43,5 +43,7 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-06-06 - DECEIVED BY ENTICING WORDS COLOSSIANS 2|DECEIVED BY ENTICING WORDS: COLOSSIANS 2]] (2026-06-06)
 - [[2026-06-06 - Member's In The Body|Member's In The Body]] (2026-06-06)
 - [[2026-05-30 - FORGED BY FIRE|FORGED BY FIRE]] (2026-05-30)
+- [[2026-05-30 - God, Purpose, and Sacrifice|God, Purpose, and Sacrifice]] (2026-05-30)
 - [[2026-05-24 - Acts 10 Reloaded Call No Man Common|Acts 10 Reloaded: Call No Man Common]] (2026-05-24)
+- [[2026-05-23 - In Vain Do They Worship Me! Religious Syncretism|In Vain Do They Worship Me! Religious Syncretism]] (2026-05-23)
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)

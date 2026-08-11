@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05",
+ "updated": "2026-08-11",
  "channel": "@IUICintheClassRoom",
  "classes": [
   {
@@ -265,13 +265,15 @@
    "videoId": "7vmCIf3gj2I",
    "title": "God, Purpose, and Sacrifice",
    "length": "2:54:54",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-30---god,-purpose,-and-sacrifice"
   },
   {
    "videoId": "ZztygjY4U2w",
    "title": "In Vain Do They Worship Me! Religious Syncretism",
    "length": "2:37:12",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-23---in-vain-do-they-worship-me!-religious-syncretism"
   },
   {
    "videoId": "H5r5CisviT8",
