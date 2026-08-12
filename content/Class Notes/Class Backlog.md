@@ -2,7 +2,7 @@
 title: Class Backlog
 ---
 
-Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICintheClassRoom) and whether it has been broken down into [[Class Notes Index|class notes]] yet. Newest classes first. The status list lives in the repo at `_tools/class_queue.json`; ask Claude to break down the next batch and this page updates on the next deploy. Last updated 2026-08-11.
+Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICintheClassRoom) and whether it has been broken down into [[Class Notes Index|class notes]] yet. Newest classes first. The status list lives in the repo at `_tools/class_queue.json`; ask Claude to break down the next batch and this page updates on the next deploy. Last updated 2026-08-12.
 
 <div class="class-backlog">
 <style>
@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 14%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 15%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>51</b><span>Done</span></div>
+<div class="cb-tile"><b>53</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>301</b><span>Pending</span></div>
+<div class="cb-tile"><b>299</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">51 of 354 classes converted to notes (14%)</div>
+<div class="cb-meter-label">53 of 354 classes converted to notes (15%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -118,8 +118,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="character &amp; integrity: the hidden strength behind wisdom"><td class="cb-num">304</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=T-g4PozGSnM" rel="noopener">CHARACTER &amp; INTEGRITY: THE HIDDEN STRENGTH BEHIND WISDOM</a></td><td class="cb-len">59:43</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-23---character--and--integrity-the-hidden-strength-behind-wisdom-(t-g4pozgsnm)">Read note</a></td></tr>
 <tr data-status="done" data-search="the developmental psychology of being hated"><td class="cb-num">303</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=jsT6wS00jmw" rel="noopener">THE DEVELOPMENTAL PSYCHOLOGY OF BEING HATED</a></td><td class="cb-len">4:47:48</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-16---the-developmental-psychology-of-being-hated">Read note</a></td></tr>
 <tr data-status="done" data-search="integrating into a burning house"><td class="cb-num">302</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Bb3r5SDV3PI" rel="noopener">INTEGRATING INTO A BURNING HOUSE</a></td><td class="cb-len">2:51:30</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-09---integrating-into-a-burning-house">Read note</a></td></tr>
-<tr data-status="pending" data-search="the bold and the bashful"><td class="cb-num">301</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=z55asCbUER8" rel="noopener">THE BOLD AND THE BASHFUL</a></td><td class="cb-len">2:39:28</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE BOLD AND THE BASHFUL" data-id="z55asCbUER8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="called to magnify the law: lord increase our faith"><td class="cb-num">300</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=WzA8Ub2DhXk" rel="noopener">CALLED TO MAGNIFY THE LAW: LORD INCREASE OUR FAITH</a></td><td class="cb-len">2:37:06</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="CALLED TO MAGNIFY THE LAW: LORD INCREASE OUR FAITH" data-id="WzA8Ub2DhXk" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="the bold and the bashful"><td class="cb-num">301</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=z55asCbUER8" rel="noopener">THE BOLD AND THE BASHFUL</a></td><td class="cb-len">2:39:28</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-16---the-bold-and-the-bashful">Read note</a></td></tr>
+<tr data-status="done" data-search="called to magnify the law: lord increase our faith"><td class="cb-num">300</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=WzA8Ub2DhXk" rel="noopener">CALLED TO MAGNIFY THE LAW: LORD INCREASE OUR FAITH</a></td><td class="cb-len">2:37:06</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-09---called-to-magnify-the-law-lord-increase-our-faith">Read note</a></td></tr>
 <tr data-status="pending" data-search="agree together | bound not bondage"><td class="cb-num">299</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=T2fTN52Aq_U" rel="noopener">AGREE TOGETHER | BOUND NOT BONDAGE</a></td><td class="cb-len">4:18:16</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="AGREE TOGETHER | BOUND NOT BONDAGE" data-id="T2fTN52Aq_U" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="listen, learn &amp; live the art of enduring in the truth"><td class="cb-num">298</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=wTuOGE-zMSs" rel="noopener">Listen, Learn &amp; Live The Art of Enduring in The Truth</a></td><td class="cb-len">2:38:11</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Listen, Learn &amp; Live The Art of Enduring in The Truth" data-id="wTuOGE-zMSs" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the religious peer pressure of fred price jr"><td class="cb-num">297</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=3eKbwUxDlvE" rel="noopener">THE RELIGIOUS PEER PRESSURE OF FRED PRICE JR</a></td><td class="cb-len">2:33:56</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE RELIGIOUS PEER PRESSURE OF FRED PRICE JR" data-id="3eKbwUxDlvE" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
