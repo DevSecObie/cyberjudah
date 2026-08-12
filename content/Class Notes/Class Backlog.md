@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 18%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 19%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>65</b><span>Done</span></div>
+<div class="cb-tile"><b>67</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>286</b><span>Pending</span></div>
+<div class="cb-tile"><b>284</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">65 of 354 classes converted to notes (18%)</div>
+<div class="cb-meter-label">67 of 354 classes converted to notes (19%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -133,8 +133,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="judgement! to hell with your reparations!"><td class="cb-num">289</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=vJ3j9kchmtI" rel="noopener">JUDGEMENT! TO HELL WITH YOUR REPARATIONS!</a></td><td class="cb-len">2:50:26</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-25---judgement!-to-hell-with-your-reparations!">Read note</a></td></tr>
 <tr data-status="done" data-search="puerto rico: the flame of resistance"><td class="cb-num">288</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=YVvCyl2ZZUQ" rel="noopener">Puerto Rico: The Flame Of Resistance</a></td><td class="cb-len">2:42:36</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-18---puerto-rico-the-flame-of-resistance">Read note</a></td></tr>
 <tr data-status="done" data-search="edom: the greatly despised"><td class="cb-num">287</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=IyYFXp99olM" rel="noopener">Edom: The Greatly Despised</a></td><td class="cb-len">2:36:22</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-18---edom-the-greatly-despised">Read note</a></td></tr>
-<tr data-status="pending" data-search="the plagues coming to america"><td class="cb-num">286</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=x9xrlD12Rj4" rel="noopener">THE PLAGUES COMING TO AMERICA</a></td><td class="cb-len">3:13:35</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE PLAGUES COMING TO AMERICA" data-id="x9xrlD12Rj4" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="leaven: the root of bitterness part 2"><td class="cb-num">285</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=D6rveJsP3f8" rel="noopener">LEAVEN: THE ROOT OF BITTERNESS PART 2</a></td><td class="cb-len">1:38:52</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="LEAVEN: THE ROOT OF BITTERNESS PART 2" data-id="D6rveJsP3f8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="the plagues coming to america"><td class="cb-num">286</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=x9xrlD12Rj4" rel="noopener">THE PLAGUES COMING TO AMERICA</a></td><td class="cb-len">3:13:35</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-21---the-plagues-coming-to-america">Read note</a></td></tr>
+<tr data-status="done" data-search="leaven: the root of bitterness part 2"><td class="cb-num">285</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=D6rveJsP3f8" rel="noopener">LEAVEN: THE ROOT OF BITTERNESS PART 2</a></td><td class="cb-len">1:38:52</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-18---leaven-the-root-of-bitterness-part-2">Read note</a></td></tr>
 <tr data-status="pending" data-search="the book of the wars of the lord"><td class="cb-num">284</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=6qcYL9qpE7o" rel="noopener">THE BOOK OF THE WARS OF THE LORD</a></td><td class="cb-len">3:50:01</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE BOOK OF THE WARS OF THE LORD" data-id="6qcYL9qpE7o" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the pride of thine heart hath deceived thee!"><td class="cb-num">283</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=hlZo30CYViE" rel="noopener">The Pride Of Thine Heart Hath Deceived Thee!</a></td><td class="cb-len">2:50:48</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="The Pride Of Thine Heart Hath Deceived Thee!" data-id="hlZo30CYViE" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="i come in peace"><td class="cb-num">282</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=g6d_wBWW2IE" rel="noopener">I Come In Peace</a></td><td class="cb-len">2:06:59</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="I Come In Peace" data-id="g6d_wBWW2IE" title="Copy a ready-made request for Claude">Copy request</button></td></tr>

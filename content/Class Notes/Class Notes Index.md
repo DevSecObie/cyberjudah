@@ -71,5 +71,7 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-05-02 - Are You A Strong Independent Woman|Are You A Strong Independent Woman?]] (2026-05-02)
 - [[2026-05-01 - The Secret Hands Behind South Africa's Xenophobia|The Secret Hands Behind South Africa's Xenophobia]] (2026-05-01)
 - [[2026-04-25 - JUDGEMENT! TO HELL WITH YOUR REPARATIONS!|JUDGEMENT! TO HELL WITH YOUR REPARATIONS!]] (2026-04-25)
+- [[2026-04-21 - THE PLAGUES COMING TO AMERICA|THE PLAGUES COMING TO AMERICA]] (2026-04-21)
+- [[2026-04-18 - LEAVEN THE ROOT OF BITTERNESS PART 2|LEAVEN: THE ROOT OF BITTERNESS PART 2]] (2026-04-18)
 - [[2026-04-18 - Puerto Rico The Flame Of Resistance|Puerto Rico: The Flame Of Resistance]] (2026-04-18)
 - [[2026-04-18 - Edom The Greatly Despised|Edom: The Greatly Despised]] (2026-04-18)
