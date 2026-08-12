@@ -68,4 +68,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-05-02 - RECOVERING THE REMNANT WORLDWIDE BLITZ|RECOVERING THE REMNANT: WORLDWIDE BLITZ]] (2026-05-02)
 - [[2026-05-02 - JUDE 116|JUDE 1:16]] (2026-05-02)
 - [[2026-05-02 - CALLED TO JUDGE COMMANDED TO BE JUST|CALLED TO JUDGE: COMMANDED TO BE JUST]] (2026-05-02)
+- [[2026-05-02 - Are You A Strong Independent Woman|Are You A Strong Independent Woman?]] (2026-05-02)
 - [[2026-05-01 - The Secret Hands Behind South Africa's Xenophobia|The Secret Hands Behind South Africa's Xenophobia]] (2026-05-01)
+- [[2026-04-25 - JUDGEMENT! TO HELL WITH YOUR REPARATIONS!|JUDGEMENT! TO HELL WITH YOUR REPARATIONS!]] (2026-04-25)

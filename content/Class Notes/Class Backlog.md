@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 17%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 18%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>61</b><span>Done</span></div>
+<div class="cb-tile"><b>63</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>290</b><span>Pending</span></div>
+<div class="cb-tile"><b>288</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">61 of 354 classes converted to notes (17%)</div>
+<div class="cb-meter-label">63 of 354 classes converted to notes (18%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -129,8 +129,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="called to judge: commanded to be just"><td class="cb-num">293</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=-cEhJw1V02Y" rel="noopener">CALLED TO JUDGE: COMMANDED TO BE JUST</a></td><td class="cb-len">2:31:33</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-02---called-to-judge-commanded-to-be-just">Read note</a></td></tr>
 <tr data-status="done" data-search="this woman&#x27;s work"><td class="cb-num">292</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=PT0-nh5g0VA" rel="noopener">THIS WOMAN&#x27;S WORK</a></td><td class="cb-len">2:06:16</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-08-01---this-woman&#x27;s-work">Read note</a></td></tr>
 <tr data-status="done" data-search="the return of jim crow"><td class="cb-num">291</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Qd8NC9s9670" rel="noopener">THE RETURN OF JIM CROW</a></td><td class="cb-len">2:23:45</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-02---the-return-of-jim-crow">Read note</a></td></tr>
-<tr data-status="pending" data-search="are you a strong independent woman?"><td class="cb-num">290</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=tsdO9OrUI54" rel="noopener">Are You A Strong Independent Woman?</a></td><td class="cb-len">3:51:04</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Are You A Strong Independent Woman?" data-id="tsdO9OrUI54" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="judgement! to hell with your reparations!"><td class="cb-num">289</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=vJ3j9kchmtI" rel="noopener">JUDGEMENT! TO HELL WITH YOUR REPARATIONS!</a></td><td class="cb-len">2:50:26</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="JUDGEMENT! TO HELL WITH YOUR REPARATIONS!" data-id="vJ3j9kchmtI" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="are you a strong independent woman?"><td class="cb-num">290</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=tsdO9OrUI54" rel="noopener">Are You A Strong Independent Woman?</a></td><td class="cb-len">3:51:04</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-02---are-you-a-strong-independent-woman">Read note</a></td></tr>
+<tr data-status="done" data-search="judgement! to hell with your reparations!"><td class="cb-num">289</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=vJ3j9kchmtI" rel="noopener">JUDGEMENT! TO HELL WITH YOUR REPARATIONS!</a></td><td class="cb-len">2:50:26</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-25---judgement!-to-hell-with-your-reparations!">Read note</a></td></tr>
 <tr data-status="pending" data-search="puerto rico: the flame of resistance"><td class="cb-num">288</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=YVvCyl2ZZUQ" rel="noopener">Puerto Rico: The Flame Of Resistance</a></td><td class="cb-len">2:42:36</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Puerto Rico: The Flame Of Resistance" data-id="YVvCyl2ZZUQ" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="edom: the greatly despised"><td class="cb-num">287</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=IyYFXp99olM" rel="noopener">Edom: The Greatly Despised</a></td><td class="cb-len">2:36:22</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Edom: The Greatly Despised" data-id="IyYFXp99olM" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the plagues coming to america"><td class="cb-num">286</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=x9xrlD12Rj4" rel="noopener">THE PLAGUES COMING TO AMERICA</a></td><td class="cb-len">3:13:35</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE PLAGUES COMING TO AMERICA" data-id="x9xrlD12Rj4" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
