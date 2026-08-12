@@ -405,19 +405,22 @@
    "videoId": "3eKbwUxDlvE",
    "title": "THE RELIGIOUS PEER PRESSURE OF FRED PRICE JR",
    "length": "2:33:56",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-07-25---the-religious-peer-pressure-of-fred-price-jr"
   },
   {
    "videoId": "UegwRl2xHck",
    "title": "PROPHESYING AGAINST MANY KINGDOMS",
    "length": "2:16:44",
-   "status": "pending"
+   "status": "blocked",
+   "reason": "transcript API 404 (no transcript available for video)"
   },
   {
    "videoId": "93fP6cddXrs",
    "title": "RECOVERING THE REMNANT: WORLDWIDE BLITZ",
    "length": "3:51:29",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-02---recovering-the-remnant-worldwide-blitz"
   },
   {
    "videoId": "8naOiSKAyVg",
