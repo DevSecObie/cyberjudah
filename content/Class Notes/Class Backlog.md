@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 16%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 17%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>57</b><span>Done</span></div>
+<div class="cb-tile"><b>59</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>294</b><span>Pending</span></div>
+<div class="cb-tile"><b>292</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">57 of 354 classes converted to notes (16%)</div>
+<div class="cb-meter-label">59 of 354 classes converted to notes (17%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -125,8 +125,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="the religious peer pressure of fred price jr"><td class="cb-num">297</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=3eKbwUxDlvE" rel="noopener">THE RELIGIOUS PEER PRESSURE OF FRED PRICE JR</a></td><td class="cb-len">2:33:56</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-07-25---the-religious-peer-pressure-of-fred-price-jr">Read note</a></td></tr>
 <tr data-status="blocked" data-search="prophesying against many kingdoms"><td class="cb-num">296</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=UegwRl2xHck" rel="noopener">PROPHESYING AGAINST MANY KINGDOMS</a></td><td class="cb-len">2:16:44</td><td><span class="cb-st st-block"><span class="cb-dot"></span>Blocked</span></td><td class="cb-act"><span class="cb-muted">transcript API 404 (no transcript available for video)</span></td></tr>
 <tr data-status="done" data-search="recovering the remnant: worldwide blitz"><td class="cb-num">295</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=93fP6cddXrs" rel="noopener">RECOVERING THE REMNANT: WORLDWIDE BLITZ</a></td><td class="cb-len">3:51:29</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-02---recovering-the-remnant-worldwide-blitz">Read note</a></td></tr>
-<tr data-status="pending" data-search="jude 1:16"><td class="cb-num">294</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=8naOiSKAyVg" rel="noopener">JUDE 1:16</a></td><td class="cb-len">2:14:37</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="JUDE 1:16" data-id="8naOiSKAyVg" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="called to judge: commanded to be just"><td class="cb-num">293</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=-cEhJw1V02Y" rel="noopener">CALLED TO JUDGE: COMMANDED TO BE JUST</a></td><td class="cb-len">2:31:33</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="CALLED TO JUDGE: COMMANDED TO BE JUST" data-id="-cEhJw1V02Y" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="jude 1:16"><td class="cb-num">294</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=8naOiSKAyVg" rel="noopener">JUDE 1:16</a></td><td class="cb-len">2:14:37</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-02---jude-116">Read note</a></td></tr>
+<tr data-status="done" data-search="called to judge: commanded to be just"><td class="cb-num">293</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=-cEhJw1V02Y" rel="noopener">CALLED TO JUDGE: COMMANDED TO BE JUST</a></td><td class="cb-len">2:31:33</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-05-02---called-to-judge-commanded-to-be-just">Read note</a></td></tr>
 <tr data-status="pending" data-search="this woman&#x27;s work"><td class="cb-num">292</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=PT0-nh5g0VA" rel="noopener">THIS WOMAN&#x27;S WORK</a></td><td class="cb-len">2:06:16</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THIS WOMAN&#x27;S WORK" data-id="PT0-nh5g0VA" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the return of jim crow"><td class="cb-num">291</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Qd8NC9s9670" rel="noopener">THE RETURN OF JIM CROW</a></td><td class="cb-len">2:23:45</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE RETURN OF JIM CROW" data-id="Qd8NC9s9670" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="are you a strong independent woman?"><td class="cb-num">290</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=tsdO9OrUI54" rel="noopener">Are You A Strong Independent Woman?</a></td><td class="cb-len">3:51:04</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Are You A Strong Independent Woman?" data-id="tsdO9OrUI54" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
