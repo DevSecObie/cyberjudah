@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11",
+ "updated": "2026-08-12",
  "channel": "@IUICintheClassRoom",
  "classes": [
   {
@@ -363,13 +363,15 @@
    "videoId": "jsT6wS00jmw",
    "title": "THE DEVELOPMENTAL PSYCHOLOGY OF BEING HATED",
    "length": "4:47:48",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-16---the-developmental-psychology-of-being-hated"
   },
   {
    "videoId": "Bb3r5SDV3PI",
    "title": "INTEGRATING INTO A BURNING HOUSE",
    "length": "2:51:30",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-05-09---integrating-into-a-burning-house"
   },
   {
    "videoId": "z55asCbUER8",

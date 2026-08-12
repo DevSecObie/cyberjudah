@@ -55,5 +55,7 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-05-23 - Character & Integrity, The Hidden Strength Behind Wisdom|Character & Integrity: The Hidden Strength Behind Wisdom]] (2026-05-23)
 - [[2026-05-16 - In a Game of Fools Without The Rules|In a Game of Fools Without The Rules]] (2026-05-16)
 - [[2026-05-16 - Popular Persuasions Fighting Against Heaven Defending Earth|Popular Persuasions: Fighting Against Heaven Defending Earth]] (2026-05-16)
+- [[2026-05-16 - THE DEVELOPMENTAL PSYCHOLOGY OF BEING HATED|THE DEVELOPMENTAL PSYCHOLOGY OF BEING HATED]] (2026-05-16)
 - [[2026-05-09 - SHAPEN IN INIQUITY RESETTING THE NERVOUS SYSTEM|SHAPEN IN INIQUITY: RESETTING THE NERVOUS SYSTEM]] (2026-05-09)
+- [[2026-05-09 - INTEGRATING INTO A BURNING HOUSE|INTEGRATING INTO A BURNING HOUSE]] (2026-05-09)
 - [[2026-05-01 - The Secret Hands Behind South Africa's Xenophobia|The Secret Hands Behind South Africa's Xenophobia]] (2026-05-01)
