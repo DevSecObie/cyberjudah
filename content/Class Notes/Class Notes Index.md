@@ -76,4 +76,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-04-18 - LEAVEN THE ROOT OF BITTERNESS PART 2|LEAVEN: THE ROOT OF BITTERNESS PART 2]] (2026-04-18)
 - [[2026-04-18 - Puerto Rico The Flame Of Resistance|Puerto Rico: The Flame Of Resistance]] (2026-04-18)
 - [[2026-04-18 - Edom The Greatly Despised|Edom: The Greatly Despised]] (2026-04-18)
+- [[2026-04-18 - Bitterness The Hidden Leaven From Cain To Esau|Bitterness: The Hidden Leaven From Cain To Esau]] (2026-04-18)
+- [[2026-04-18 - I Come In Peace|I Come In Peace]] (2026-04-18)
 - [[2026-04-11 - The Pride Of Thine Heart Hath Deceived Thee!|The Pride Of Thine Heart Hath Deceived Thee!]] (2026-04-11)
