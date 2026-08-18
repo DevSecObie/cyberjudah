@@ -12,7 +12,7 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 .class-backlog .cb-tile b { display: block; font-size: 1.6rem; line-height: 1.2; color: var(--dark); }
 .class-backlog .cb-tile span { font-size: 0.8rem; color: var(--gray); }
 .class-backlog .cb-meter { height: 8px; border-radius: 4px; background: var(--highlight); margin: 0.75rem 0 0.25rem; overflow: hidden; }
-.class-backlog .cb-meter > div { height: 100%; width: 21%; border-radius: 4px; background: var(--secondary); }
+.class-backlog .cb-meter > div { height: 100%; width: 22%; border-radius: 4px; background: var(--secondary); }
 .class-backlog .cb-meter-label { font-size: 0.8rem; color: var(--gray); margin-bottom: 1rem; }
 .class-backlog .cb-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin: 0.75rem 0; }
 .class-backlog .cb-controls input { flex: 1 1 12rem; padding: 0.45rem 0.7rem; border: 1px solid var(--cb-line); border-radius: 6px; background: var(--light); color: var(--dark); font-size: 0.9rem; }
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>75</b><span>Done</span></div>
+<div class="cb-tile"><b>77</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>276</b><span>Pending</span></div>
+<div class="cb-tile"><b>274</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">75 of 354 classes converted to notes (21%)</div>
+<div class="cb-meter-label">77 of 354 classes converted to notes (22%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -143,8 +143,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="passover class: exodus from america modern day egypt"><td class="cb-num">279</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=VyDEbsxgcas" rel="noopener">Passover Class: Exodus From America Modern Day Egypt</a></td><td class="cb-len">3:10:02</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-16---passover-class-exodus-from-america-modern-day-egypt">Read note</a></td></tr>
 <tr data-status="done" data-search="america: the new roman empire"><td class="cb-num">278</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ZnReLwFHcS8" rel="noopener">AMERICA: THE NEW ROMAN EMPIRE</a></td><td class="cb-len">3:51:49</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-11---america-the-new-roman-empire">Read note</a></td></tr>
 <tr data-status="done" data-search="armageddon: islam and the armies of the east"><td class="cb-num">277</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Dkl9wrJtETw" rel="noopener">Armageddon: Islam and the Armies of the East</a></td><td class="cb-len">2:49:36</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-11---armageddon-islam-and-the-armies-of-the-east">Read note</a></td></tr>
-<tr data-status="pending" data-search="worldwide upheaval: the coming crisis"><td class="cb-num">276</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ycwlj8bXhh8" rel="noopener">WORLDWIDE UPHEAVAL: THE COMING CRISIS</a></td><td class="cb-len">2:28:13</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="WORLDWIDE UPHEAVAL: THE COMING CRISIS" data-id="ycwlj8bXhh8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="making our face harder than their face"><td class="cb-num">275</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=z_QujypG9RI" rel="noopener">MAKING OUR FACE HARDER THAN THEIR FACE</a></td><td class="cb-len">2:35:36</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="MAKING OUR FACE HARDER THAN THEIR FACE" data-id="z_QujypG9RI" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="worldwide upheaval: the coming crisis"><td class="cb-num">276</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ycwlj8bXhh8" rel="noopener">WORLDWIDE UPHEAVAL: THE COMING CRISIS</a></td><td class="cb-len">2:28:13</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-04---worldwide-upheaval-the-coming-crisis">Read note</a></td></tr>
+<tr data-status="done" data-search="making our face harder than their face"><td class="cb-num">275</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=z_QujypG9RI" rel="noopener">MAKING OUR FACE HARDER THAN THEIR FACE</a></td><td class="cb-len">2:35:36</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-11---making-our-face-harder-than-their-face">Read note</a></td></tr>
 <tr data-status="pending" data-search="religion - the false prophet"><td class="cb-num">274</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=JLhHPemmiSk" rel="noopener">RELIGION - THE FALSE PROPHET</a></td><td class="cb-len">3:57:24</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="RELIGION - THE FALSE PROPHET" data-id="JLhHPemmiSk" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="respect: the evidence of her faith "><td class="cb-num">273</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=hKifTTWBba8" rel="noopener">Respect: The Evidence Of Her Faith </a></td><td class="cb-len">2:33:26</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Respect: The Evidence Of Her Faith " data-id="hKifTTWBba8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="the mercy and humility of king manasseh"><td class="cb-num">272</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=5tWDINEq3UI" rel="noopener">THE MERCY AND HUMILITY OF KING MANASSEH</a></td><td class="cb-len">2:24:11</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="THE MERCY AND HUMILITY OF KING MANASSEH" data-id="5tWDINEq3UI" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
