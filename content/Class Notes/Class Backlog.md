@@ -2,7 +2,7 @@
 title: Class Backlog
 ---
 
-Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICintheClassRoom) and whether it has been broken down into [[Class Notes Index|class notes]] yet. Newest classes first. The status list lives in the repo at `_tools/class_queue.json`; ask Claude to break down the next batch and this page updates on the next deploy. Last updated 2026-08-12.
+Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICintheClassRoom) and whether it has been broken down into [[Class Notes Index|class notes]] yet. Newest classes first. The status list lives in the repo at `_tools/class_queue.json`; ask Claude to break down the next batch and this page updates on the next deploy. Last updated 2026-08-18.
 
 <div class="class-backlog">
 <style>
@@ -46,12 +46,12 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 
 <div class="cb-tiles">
 <div class="cb-tile"><b>354</b><span>Classes</span></div>
-<div class="cb-tile"><b>73</b><span>Done</span></div>
+<div class="cb-tile"><b>75</b><span>Done</span></div>
 <div class="cb-tile"><b>0</b><span>In progress</span></div>
-<div class="cb-tile"><b>278</b><span>Pending</span></div>
+<div class="cb-tile"><b>276</b><span>Pending</span></div>
 </div>
 <div class="cb-meter"><div></div></div>
-<div class="cb-meter-label">73 of 354 classes converted to notes (21%)</div>
+<div class="cb-meter-label">75 of 354 classes converted to notes (21%)</div>
 
 <div class="cb-controls">
 <input id="cb-search" type="search" placeholder="Search classes..." aria-label="Search classes">
@@ -141,8 +141,8 @@ Every full-length class on [@IUICintheClassRoom](https://www.youtube.com/@IUICin
 <tr data-status="done" data-search="bitterness: the hidden leaven from cain to esau"><td class="cb-num">281</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=rBRp1JXmK6U" rel="noopener">Bitterness: The Hidden Leaven From Cain To Esau</a></td><td class="cb-len">2:25:15</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-18---bitterness-the-hidden-leaven-from-cain-to-esau">Read note</a></td></tr>
 <tr data-status="done" data-search="leaven: the root of bitterness"><td class="cb-num">280</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=3Qdksp7DVZI" rel="noopener">LEAVEN: THE ROOT OF BITTERNESS</a></td><td class="cb-len">2:40:49</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-17---leaven-the-root-of-bitterness">Read note</a></td></tr>
 <tr data-status="done" data-search="passover class: exodus from america modern day egypt"><td class="cb-num">279</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=VyDEbsxgcas" rel="noopener">Passover Class: Exodus From America Modern Day Egypt</a></td><td class="cb-len">3:10:02</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-16---passover-class-exodus-from-america-modern-day-egypt">Read note</a></td></tr>
-<tr data-status="pending" data-search="america: the new roman empire"><td class="cb-num">278</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ZnReLwFHcS8" rel="noopener">AMERICA: THE NEW ROMAN EMPIRE</a></td><td class="cb-len">3:51:49</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="AMERICA: THE NEW ROMAN EMPIRE" data-id="ZnReLwFHcS8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
-<tr data-status="pending" data-search="armageddon: islam and the armies of the east"><td class="cb-num">277</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Dkl9wrJtETw" rel="noopener">Armageddon: Islam and the Armies of the East</a></td><td class="cb-len">2:49:36</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="Armageddon: Islam and the Armies of the East" data-id="Dkl9wrJtETw" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
+<tr data-status="done" data-search="america: the new roman empire"><td class="cb-num">278</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ZnReLwFHcS8" rel="noopener">AMERICA: THE NEW ROMAN EMPIRE</a></td><td class="cb-len">3:51:49</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-11---america-the-new-roman-empire">Read note</a></td></tr>
+<tr data-status="done" data-search="armageddon: islam and the armies of the east"><td class="cb-num">277</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=Dkl9wrJtETw" rel="noopener">Armageddon: Islam and the Armies of the East</a></td><td class="cb-len">2:49:36</td><td><span class="cb-st st-done"><span class="cb-dot"></span>Done</span></td><td class="cb-act"><a class="cb-note" href="/class-notes/2026/2026-04-11---armageddon-islam-and-the-armies-of-the-east">Read note</a></td></tr>
 <tr data-status="pending" data-search="worldwide upheaval: the coming crisis"><td class="cb-num">276</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=ycwlj8bXhh8" rel="noopener">WORLDWIDE UPHEAVAL: THE COMING CRISIS</a></td><td class="cb-len">2:28:13</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="WORLDWIDE UPHEAVAL: THE COMING CRISIS" data-id="ycwlj8bXhh8" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="making our face harder than their face"><td class="cb-num">275</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=z_QujypG9RI" rel="noopener">MAKING OUR FACE HARDER THAN THEIR FACE</a></td><td class="cb-len">2:35:36</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="MAKING OUR FACE HARDER THAN THEIR FACE" data-id="z_QujypG9RI" title="Copy a ready-made request for Claude">Copy request</button></td></tr>
 <tr data-status="pending" data-search="religion - the false prophet"><td class="cb-num">274</td><td class="cb-title"><a href="https://www.youtube.com/watch?v=JLhHPemmiSk" rel="noopener">RELIGION - THE FALSE PROPHET</a></td><td class="cb-len">3:57:24</td><td><span class="cb-st st-pend"><span class="cb-dot"></span>Pending</span></td><td class="cb-act"><button class="cb-copy" data-title="RELIGION - THE FALSE PROPHET" data-id="JLhHPemmiSk" title="Copy a ready-made request for Claude">Copy request</button></td></tr>

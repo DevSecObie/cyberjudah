@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12",
+ "updated": "2026-08-18",
  "channel": "@IUICintheClassRoom",
  "classes": [
   {
@@ -538,13 +538,15 @@
    "videoId": "ZnReLwFHcS8",
    "title": "AMERICA: THE NEW ROMAN EMPIRE",
    "length": "3:51:49",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-04-11---america-the-new-roman-empire"
   },
   {
    "videoId": "Dkl9wrJtETw",
    "title": "Armageddon: Islam and the Armies of the East",
    "length": "2:49:36",
-   "status": "pending"
+   "status": "done",
+   "note": "/class-notes/2026/2026-04-11---armageddon-islam-and-the-armies-of-the-east"
   },
   {
    "videoId": "ycwlj8bXhh8",

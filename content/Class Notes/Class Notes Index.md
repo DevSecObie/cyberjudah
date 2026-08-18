@@ -80,4 +80,6 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-04-18 - I Come In Peace|I Come In Peace]] (2026-04-18)
 - [[2026-04-17 - LEAVEN THE ROOT OF BITTERNESS|LEAVEN: THE ROOT OF BITTERNESS]] (2026-04-17)
 - [[2026-04-16 - Passover Class Exodus From America Modern Day Egypt|Passover Class: Exodus From America Modern Day Egypt]] (2026-04-16)
+- [[2026-04-11 - AMERICA THE NEW ROMAN EMPIRE|AMERICA: THE NEW ROMAN EMPIRE]] (2026-04-11)
+- [[2026-04-11 - Armageddon Islam and the Armies of the East|Armageddon: Islam and the Armies of the East]] (2026-04-11)
 - [[2026-04-11 - The Pride Of Thine Heart Hath Deceived Thee!|The Pride Of Thine Heart Hath Deceived Thee!]] (2026-04-11)
