@@ -1,4 +1,4 @@
-﻿← [[Mark 10-13 Study Notes|Mark 10-13]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
+﻿← [[John 2-5 Study Notes|John 2-5]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
 
 # Acts 1: The Promise of the Father and the Kingdom Restored to Israel
 
@@ -201,5 +201,5 @@ This is the opening of the Man Up Monday series through the Acts of the Apostles
 
 Topics: [[The Priesthood]] · [[The Sabbath]]
 
-← [[Mark 10-13 Study Notes|Mark 10-13]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
+← [[John 2-5 Study Notes|John 2-5]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
 

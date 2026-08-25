@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[1 Maccabees 2#^v42|1 Maccabees 2:42]]
-- [[Luke 2#^v25|Luke 2:25]]
+- [[Luke 2#^v25|Luke 2:25]]  taught in [[Luke 2-5 Study Notes|Luke 2-5]]
 - [[Acts 2#^v5|Acts 2:5]]  taught in [[Acts 2 Study Notes|Acts 2]]
 - [[Acts 10#^v2|Acts 10:2]]  taught in [[Acts 10 Study Notes|Acts 10]]
 - [[Acts 22#^v12|Acts 22:12]]

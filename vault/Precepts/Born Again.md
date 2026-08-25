@@ -17,4 +17,4 @@ tags: [precept]
 - [[1 Peter 2#^v2|1 Peter 2:2]] **(key)**
 - [[Hebrews 5#^v12|Hebrews 5:12]]
 - [[Matthew 18#^v3|Matthew 18:3]]  taught in [[Matthew 18-21 Study Notes|Matthew 18-21]]
-- [[John 3#^v3|John 3:3]]
+- [[John 3#^v3|John 3:3]]  taught in [[John 2-5 Study Notes|John 2-5]]

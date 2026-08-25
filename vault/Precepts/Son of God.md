@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Matthew 16#^v16|Matthew 16:16]]
-- [[Luke 3#^v38|Luke 3:38]]
+- [[Luke 3#^v38|Luke 3:38]]  taught in [[Luke 2-5 Study Notes|Luke 2-5]]
 - [[John 6#^v69|John 6:69]]

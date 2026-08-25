@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Wisdom of Solomon 16#^v5|Wisdom of Solomon 16:5]]
 - [[Numbers 21#^v9|Numbers 21:9]]  taught in [[Numbers 19-22 Study Notes|Numbers 19-22]]
-- [[John 3#^v14|John 3:14]]
+- [[John 3#^v14|John 3:14]]  taught in [[John 2-5 Study Notes|John 2-5]]

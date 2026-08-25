@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[2 Esdras 7#^v7|2 Esdras 7:7]]
 - [[Matthew 7#^v14|Matthew 7:14]]
-- [[Luke 13#^v24|Luke 13:24]]
+- [[Luke 13#^v24|Luke 13:24]]  taught in [[Luke 10-13 Study Notes|Luke 10-13]]
 - [[Acts 14#^v22|Acts 14:22]]

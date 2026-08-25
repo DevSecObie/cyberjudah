@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[1 John 5#^v10|1 John 5:10]]
-- [[John 1#^v34|John 1:34]]
+- [[John 1#^v34|John 1:34]]  taught in [[John 1 Study Notes|John 1]]
 - [[Revelation 1#^v2|Revelation 1:2]]

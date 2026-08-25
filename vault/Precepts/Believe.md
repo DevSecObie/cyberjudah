@@ -15,7 +15,7 @@ tags: [precept]
 
 - [[Titus 3#^v8|Titus 3:8]]
 - [[Ecclesiasticus 32#^v24|Sirach 32:24]]
-- [[John 3#^v16|John 3:16]]
+- [[John 3#^v16|John 3:16]]  taught in [[John 2-5 Study Notes|John 2-5]]
 - [[John 7#^v38|John 7:38]]
 - [[Acts 21#^v20|Acts 21:20]]
 - [[Acts 24#^v14|Acts 24:14]]

@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Jeremiah 30#^v12|Jeremiah 30:12]]  taught in [[Jeremiah 28-31 Study Notes|Jeremiah 28-31]]
-- [[Luke 4#^v18|Luke 4:18]]
+- [[Luke 4#^v18|Luke 4:18]]  taught in [[Luke 2-5 Study Notes|Luke 2-5]]

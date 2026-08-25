@@ -1,4 +1,4 @@
-﻿← [[Mark 6-9 Study Notes|Mark 6-9]] · [[Mark Index|Mark Study]] · [[Acts 1 Study Notes|Acts 1]] →
+﻿← [[Mark 6-9 Study Notes|Mark 6-9]] · [[Mark Index|Mark Study]] · [[Luke 2-5 Study Notes|Luke 2-5]] →
 
 # Mark 10: Marriage, Riches, and the Servant of All
 
@@ -385,5 +385,5 @@ Read the chapter → [[Mark 13]]
 
 Topics: [[The Priesthood]]
 
-← [[Mark 6-9 Study Notes|Mark 6-9]] · [[Mark Index|Mark Study]] · [[Acts 1 Study Notes|Acts 1]] →
+← [[Mark 6-9 Study Notes|Mark 6-9]] · [[Mark Index|Mark Study]] · [[Luke 2-5 Study Notes|Luke 2-5]] →
 
