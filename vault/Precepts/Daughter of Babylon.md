@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Psalms 137#^v8|Psalms 137:8]]  taught in [[Psalms 135-138 Study Notes|Psalms 135-138]]
-- [[Zechariah 2#^v7|Zechariah 2:7]]
+- [[Zechariah 2#^v7|Zechariah 2:7]]  taught in [[Zechariah 1-3 Study Notes|Zechariah 1-3]]
 - [[Jeremiah 51#^v33|Jeremiah 51:33]]  taught in [[Jeremiah 48-51 Study Notes|Jeremiah 48-51]]

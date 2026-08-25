@@ -8,7 +8,7 @@ Read the chapter → [[John 2]]
 
 This session covers John 2 through 5. The chapters in John run long, so the precepts are pulled where they settle a point. The reading carries the first miracles, the first clashes with the Pharisees, Nicodemus coming by night, the woman at the well in Samaria, and the healing at the pool on the sabbath. Two threads run through it: who the world is that he was sent to, and the unbelief that kept his own from seeing what was standing in front of them.
 
-**John 2:1-11**
+**[[John 2#^v1|John 2:1-11]]**
 
 ![[John 2#^v1]]
 ![[John 2#^v2]]
@@ -26,7 +26,7 @@ This session covers John 2 through 5. The chapters in John run long, so the prec
 - The governor of the feast says every man sets forth good wine first, and the worse afterward, but thou hast kept the good wine until now. What was made was better than what had been served.
 - This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
 
-**John 2:12-17**
+**[[John 2#^v12|John 2:12-17]]**
 
 ![[John 2#^v12]]
 ![[John 2#^v13]]
@@ -44,7 +44,7 @@ This session covers John 2 through 5. The chapters in John run long, so the prec
     ![[Psalms 69#^v9]]
     For the zeal of thine house hath eaten me up.
 
-**John 2:18-22**
+**[[John 2#^v18|John 2:18-22]]**
 
 ![[John 2#^v18]]
 ![[John 2#^v19]]
@@ -90,7 +90,7 @@ This session covers John 2 through 5. The chapters in John run long, so the prec
     ![[Acts 2#^v31]]
     Peter shews that David spake of the resurrection of Christ, for David is dead and buried and his sepulchre is with us unto this day.
 
-**John 2:23-25**
+**[[John 2#^v23|John 2:23-25]]**
 
 ![[John 2#^v23]]
 ![[John 2#^v24]]
@@ -107,7 +107,7 @@ This session covers John 2 through 5. The chapters in John run long, so the prec
 
 Read the chapter → [[John 3]]
 
-**John 3:1-3**
+**[[John 3#^v1|John 3:1-3]]**
 
 ![[John 3#^v1]]
 ![[John 3#^v2]]
@@ -122,7 +122,7 @@ Read the chapter → [[John 3]]
     ![[2 Esdras 14#^v34]]
     If so be that ye will subdue your own understanding, and reform your hearts, ye shall be kept alive, and after death ye shall obtain mercy.
 
-**John 3:4-5**
+**[[John 3#^v4|John 3:4-5]]**
 
 ![[John 3#^v4]]
 ![[John 3#^v5]]
@@ -135,7 +135,7 @@ Read the chapter → [[John 3]]
     ![[1 Peter 1#^v23]]
     Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
 
-**John 3:6-8**
+**[[John 3#^v6|John 3:6-8]]**
 
 ![[John 3#^v6]]
 ![[John 3#^v7]]
@@ -149,7 +149,7 @@ Read the chapter → [[John 3]]
     ![[Romans 8#^v8]]
     So then they that are in the flesh cannot please God.
 
-**John 3:9-13**
+**[[John 3#^v9|John 3:9-13]]**
 
 ![[John 3#^v9]]
 ![[John 3#^v10]]
@@ -160,7 +160,7 @@ Read the chapter → [[John 3]]
 - Art thou a master of Israel, and knowest not these things? He was a chief teacher, and men depended on him for the understanding of the law.
 - If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
 
-**John 3:14-15**
+**[[John 3#^v14|John 3:14-15]]**
 
 ![[John 3#^v14]]
 ![[John 3#^v15]]
@@ -182,7 +182,7 @@ Read the chapter → [[John 3]]
     ![[Wisdom of Solomon 16#^v6]]
     They were troubled for a small season, that they might be admonished, having a sign of salvation, to put them in remembrance of the commandment of thy law.
 
-**John 3:16-18**
+**[[John 3#^v16|John 3:16-18]]**
 
 ![[John 3#^v16]]
 ![[John 3#^v17]]
@@ -208,7 +208,7 @@ Read the chapter → [[John 3]]
     ![[John 18#^v20]]
     I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort.
 
-**John 3:19-21**
+**[[John 3#^v19|John 3:19-21]]**
 
 ![[John 3#^v19]]
 ![[John 3#^v20]]
@@ -219,7 +219,7 @@ Read the chapter → [[John 3]]
 - The Pharisees and the rulers were not condemned by Christ; they condemned themselves by not humbling down to repent.
 - But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
 
-**John 3:22-30**
+**[[John 3#^v22|John 3:22-30]]**
 
 ![[John 3#^v22]]
 ![[John 3#^v23]]
@@ -234,7 +234,7 @@ Read the chapter → [[John 3]]
 - John's disciples notice that all men are coming to Jesus, and John answers, A man can receive nothing, except it be given him from heaven.
 - I am not the Christ, but that I am sent before him. He must increase, but I must decrease.
 
-**John 3:31-36**
+**[[John 3#^v31|John 3:31-36]]**
 
 ![[John 3#^v31]]
 ![[John 3#^v32]]
@@ -255,7 +255,7 @@ Read the chapter → [[John 3]]
 
 Read the chapter → [[John 4]]
 
-**John 4:1-6**
+**[[John 4#^v1|John 4:1-6]]**
 
 ![[John 4#^v1]]
 ![[John 4#^v2]]
@@ -267,7 +267,7 @@ Read the chapter → [[John 4]]
 - Jesus himself baptized not, but his disciples, many of whom had begun with John.
 - He must needs go through Samaria, and comes to Sychar, near to the parcel of ground that Jacob gave to his son Joseph. Joseph was the father of Ephraim and Manasseh, so this is northern kingdom ground.
 
-**John 4:7-9**
+**[[John 4#^v7|John 4:7-9]]**
 
 ![[John 4#^v7]]
 ![[John 4#^v8]]
@@ -288,7 +288,7 @@ Read the chapter → [[John 4]]
     ![[Hosea 4#^v17]]
     Ephraim is joined to idols: let him alone.
 
-**John 4:10-15**
+**[[John 4#^v10|John 4:10-15]]**
 
 ![[John 4#^v10]]
 ![[John 4#^v11]]
@@ -301,7 +301,7 @@ Read the chapter → [[John 4]]
 - Art thou greater than our father Jacob, which gave us the well? She names Jacob as her father. Jacob is the progenitor of one nation, and this is the ground he gave to Joseph.
 - Whosoever drinketh of the water that I shall give him shall never thirst; it shall be in him a well of water springing up into everlasting life.
 
-**John 4:16-19**
+**[[John 4#^v16|John 4:16-19]]**
 
 ![[John 4#^v16]]
 ![[John 4#^v17]]
@@ -311,7 +311,7 @@ Read the chapter → [[John 4]]
 - Go, call thy husband. She answers that she has none, and he tells her she has had five, and the one she has now is not her husband.
 - Sir, I perceive that thou art a prophet. Being told her own life by a man who had never met her is what turned her.
 
-**John 4:20-24**
+**[[John 4#^v20|John 4:20-24]]**
 
 ![[John 4#^v20]]
 ![[John 4#^v21]]
@@ -334,14 +334,14 @@ Read the chapter → [[John 4]]
     ![[Joshua 24#^v14]]
     Fear the Lord, and serve him in sincerity and in truth.
 
-**John 4:25-26**
+**[[John 4#^v25|John 4:25-26]]**
 
 ![[John 4#^v25]]
 ![[John 4#^v26]]
 
 - I know that Messias cometh, which is called Christ. Jesus saith unto her, I that speak unto thee am he.
 
-**John 4:27-30**
+**[[John 4#^v27|John 4:27-30]]**
 
 ![[John 4#^v27]]
 ![[John 4#^v28]]
@@ -351,7 +351,7 @@ Read the chapter → [[John 4]]
 - The disciples marvelled that he talked with the woman, because of the separation that had been commanded, yet no man said, Why talkest thou with her?
 - She left her waterpot and told the men of the city, Come, see a man, which told me all things that ever I did: is not this the Christ?
 
-**John 4:31-38**
+**[[John 4#^v31|John 4:31-38]]**
 
 ![[John 4#^v31]]
 ![[John 4#^v32]]
@@ -365,7 +365,7 @@ Read the chapter → [[John 4]]
 - My meat is to do the will of him that sent me, and to finish his work. The disciples took it for literal food.
 - Lift up your eyes, and look on the fields; for they are white already to harvest. One soweth, and another reapeth.
 
-**John 4:39-42**
+**[[John 4#^v39|John 4:39-42]]**
 
 ![[John 4#^v39]]
 ![[John 4#^v40]]
@@ -374,7 +374,7 @@ Read the chapter → [[John 4]]
 
 - Many of the Samaritans believed on him for the saying of the woman, and many more because of his own word, and said, We know that this is indeed the Christ, the Saviour of the world.
 
-**John 4:43-54**
+**[[John 4#^v43|John 4:43-54]]**
 
 ![[John 4#^v43]]
 ![[John 4#^v44]]
@@ -397,7 +397,7 @@ Read the chapter → [[John 4]]
 
 Read the chapter → [[John 5]]
 
-**John 5:1-9**
+**[[John 5#^v1|John 5:1-9]]**
 
 ![[John 5#^v1]]
 ![[John 5#^v2]]
@@ -413,7 +413,7 @@ Read the chapter → [[John 5]]
 - A man had been there thirty and eight years and had no man to put him in. Wilt thou be made whole?
 - Rise, take up thy bed, and walk. He did not have to wait for the water at all, and immediately he was made whole. And on the same day was the sabbath.
 
-**John 5:10-13**
+**[[John 5#^v10|John 5:10-13]]**
 
 ![[John 5#^v10]]
 ![[John 5#^v11]]
@@ -422,13 +422,13 @@ Read the chapter → [[John 5]]
 
 - The first thing said to a man healed after thirty-eight years is that it is not lawful for him to carry his bed. Not one word about the healing.
 
-**John 5:14**
+**[[John 5#^v14|John 5:14]]**
 
 ![[John 5#^v14]]
 
 - Behold, thou art made whole: sin no more, lest a worse thing come unto thee. The healing came with a charge, and that charge is the keeping of the commandments.
 
-**John 5:15-16**
+**[[John 5#^v15|John 5:15-16]]**
 
 ![[John 5#^v15]]
 ![[John 5#^v16]]
@@ -444,7 +444,7 @@ Read the chapter → [[John 5]]
     ![[John 7#^v24]]
     Are ye angry at me, because I have made a man every whit whole on the sabbath day? Judge not according to the appearance, but judge righteous judgment.
 
-**John 5:17-18**
+**[[John 5#^v17|John 5:17-18]]**
 
 ![[John 5#^v17]]
 ![[John 5#^v18]]
@@ -457,7 +457,7 @@ Read the chapter → [[John 5]]
     ![[Wisdom of Solomon 2#^v16]]
     We are esteemed of him as counterfeits: he abstaineth from our ways as from filthiness, and maketh his boast that God is his father.
 
-**John 5:19-21**
+**[[John 5#^v19|John 5:19-21]]**
 
 ![[John 5#^v19]]
 ![[John 5#^v20]]
@@ -471,7 +471,7 @@ Read the chapter → [[John 5]]
     ![[1 Peter 3#^v18]]
     Being put to death in the flesh, but quickened by the Spirit.
 
-**John 5:22-24**
+**[[John 5#^v22|John 5:22-24]]**
 
 ![[John 5#^v22]]
 ![[John 5#^v23]]
@@ -488,7 +488,7 @@ Read the chapter → [[John 5]]
     ![[Romans 8#^v1]]
     There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 
-**John 5:25-29**
+**[[John 5#^v25|John 5:25-29]]**
 
 ![[John 5#^v25]]
 ![[John 5#^v26]]
@@ -504,7 +504,7 @@ Read the chapter → [[John 5]]
     ![[Daniel 12#^v2]]
     Many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
 
-**John 5:30-38**
+**[[John 5#^v30|John 5:30-38]]**
 
 ![[John 5#^v30]]
 ![[John 5#^v31]]
@@ -520,7 +520,7 @@ Read the chapter → [[John 5]]
 - Ye sent unto John, and he bare witness unto the truth. He was a burning and a shining light, and ye were willing for a season to rejoice in his light.
 - But I have greater witness than that of John: the works which the Father hath given me to finish bear witness of me.
 
-**John 5:39-40**
+**[[John 5#^v39|John 5:39-40]]**
 
 ![[John 5#^v39]]
 ![[John 5#^v40]]
@@ -533,7 +533,7 @@ Read the chapter → [[John 5]]
     ![[Luke 24#^v27]]
     Beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
 
-**John 5:41-47**
+**[[John 5#^v41|John 5:41-47]]**
 
 ![[John 5#^v41]]
 ![[John 5#^v42]]

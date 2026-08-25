@@ -1,4 +1,4 @@
-﻿← [[Amos 2-5 Study Notes|Amos 2-5]] · [[Amos Index|Amos Study]] · [[Matthew 2-5 Study Notes|Matthew 2-5]] →
+﻿← [[Amos 2-5 Study Notes|Amos 2-5]] · [[Amos Index|Amos Study]] · [[Haggai 2 Study Notes|Haggai 2]] →
 
 # Amos 6: Woe to Them That Are at Ease in Zion
 
@@ -165,5 +165,5 @@ Read the chapter → [[Amos 9]]
 
 Topics: [[Esau and Edom]] · [[Idolatry]] · [[The Feasts of the Most High]] · [[The Priesthood]] · [[The Sabbath]]
 
-← [[Amos 2-5 Study Notes|Amos 2-5]] · [[Amos Index|Amos Study]] · [[Matthew 2-5 Study Notes|Matthew 2-5]] →
+← [[Amos 2-5 Study Notes|Amos 2-5]] · [[Amos Index|Amos Study]] · [[Haggai 2 Study Notes|Haggai 2]] →
 

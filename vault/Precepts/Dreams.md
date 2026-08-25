@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 13#^v3|Deuteronomy 13:3]]  taught in [[Deuteronomy 11-14 Study Notes|Deuteronomy 11-14]]
-- [[Zechariah 10#^v2|Zechariah 10:2]]
+- [[Zechariah 10#^v2|Zechariah 10:2]]  taught in [[Zechariah 8-11 Study Notes|Zechariah 8-11]]
 - [[Jeremiah 23#^v25|Jeremiah 23:25]]  taught in [[Jeremiah 20-23 Study Notes|Jeremiah 20-23]]
 - [[Ecclesiasticus 34#^v7|Sirach 34:7]]

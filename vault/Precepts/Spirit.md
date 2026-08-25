@@ -13,9 +13,9 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Haggai 2#^v5|Haggai 2:5]]
+- [[Haggai 2#^v5|Haggai 2:5]]  taught in [[Haggai 2 Study Notes|Haggai 2]]
 - [[Romans 7#^v14|Romans 7:14]]
-- [[Zechariah 7#^v12|Zechariah 7:12]]
+- [[Zechariah 7#^v12|Zechariah 7:12]]  taught in [[Zechariah 4-7 Study Notes|Zechariah 4-7]]
 - [[Proverbs 1#^v23|Proverbs 1:23]]  taught in [[Proverbs 1-4 Study Notes|Proverbs 1-4]]
 - [[John 3#^v5|John 3:5]]  taught in [[John 2-5 Study Notes|John 2-5]]
 - [[John 6#^v63|John 6:63]]

@@ -8,7 +8,7 @@ Read the chapter → [[Mark 6]]
 
 This session covers Mark 6 through 9. Christ is rejected in his own country, sends the twelve out two by two, and the chapter turns to the beheading of John the Baptist. Then come the feeding of the five thousand and the four thousand, the walking on the sea, the contention over the tradition of the elders, the confession of Peter, the transfiguration, and the casting out of the dumb spirit. The thread through all four chapters is belief and unbelief, and how plainly Christ dealt with men who would not see.
 
-**Mark 6:1-4**
+**[[Mark 6#^v1|Mark 6:1-4]]**
 
 ![[Mark 6#^v1]]
 ![[Mark 6#^v2]]
@@ -18,7 +18,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 - In his own country they are astonished at his wisdom and his mighty works, and then are offended at him because they know his family.
 - A prophet is not without honour, but in his own country, and among his own kin, and in his own house. What was done to him is done to those teaching today: men who knew you before you repented ask who you think you are.
 
-**Mark 6:5-6**
+**[[Mark 6#^v5|Mark 6:5-6]]**
 
 ![[Mark 6#^v5]]
 ![[Mark 6#^v6]]
@@ -26,7 +26,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 - He could there do no mighty work, save that he laid his hands upon a few sick folk and healed them, and he marvelled because of their unbelief.
 - Consider what that means. The unbelief of his own people was such that it made the son of the Most High marvel.
 
-**Mark 6:7-13**
+**[[Mark 6#^v7|Mark 6:7-13]]**
 
 ![[Mark 6#^v7]]
 ![[Mark 6#^v8]]
@@ -39,7 +39,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 - He sends them forth by two and two with power over unclean spirits, taking nothing for the journey but a staff.
 - Whosoever will not receive you nor hear you, shake off the dust under your feet for a testimony against them. The word goes out whether they hear or whether they forbear, and that shaking of the dust seals the judgment.
 
-**Mark 6:14-18**
+**[[Mark 6#^v14|Mark 6:14-18]]**
 
 ![[Mark 6#^v14]]
 ![[Mark 6#^v15]]
@@ -55,7 +55,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
     ![[Acts 26#^v3]]
     Paul says to Agrippa, I know thee to be expert in all customs and questions which are among the Jews.
 
-**Mark 6:19-29**
+**[[Mark 6#^v19|Mark 6:19-29]]**
 
 ![[Mark 6#^v19]]
 ![[Mark 6#^v20]]
@@ -72,7 +72,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 - Herodias had a quarrel against John and would have killed him, but could not, for Herod feared him, knowing that he was a just man and an holy.
 - When the oath is made, the daughter asks her mother what to ask, and is told, The head of John the Baptist. The king was exceeding sorry, but for his oath's sake he sent the executioner.
 
-**Mark 6:30-44**
+**[[Mark 6#^v30|Mark 6:30-44]]**
 
 ![[Mark 6#^v30]]
 ![[Mark 6#^v31]]
@@ -94,7 +94,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 - Five loaves and two fishes feed five thousand men, and twelve baskets of fragments are taken up.
 - He made them sit down by companies, in ranks by hundreds and by fifties. No man argued about where he was placed. The Most High is a God of order, and the eating came after the order.
 
-**Mark 6:45-52**
+**[[Mark 6#^v45|Mark 6:45-52]]**
 
 ![[Mark 6#^v45]]
 ![[Mark 6#^v46]]
@@ -108,7 +108,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 - He comes to them walking upon the sea, and they suppose it had been a spirit and cry out. These were fishermen; they knew what water does.
 - They were sore amazed, for they considered not the miracle of the loaves, for their heart was hardened. Men can watch a thing done in front of them and still not take it to heart.
 
-**Mark 6:53-56**
+**[[Mark 6#^v53|Mark 6:53-56]]**
 
 ![[Mark 6#^v53]]
 ![[Mark 6#^v54]]
@@ -121,7 +121,7 @@ This session covers Mark 6 through 9. Christ is rejected in his own country, sen
 
 Read the chapter → [[Mark 7]]
 
-**Mark 7:1-5**
+**[[Mark 7#^v1|Mark 7:1-5]]**
 
 ![[Mark 7#^v1]]
 ![[Mark 7#^v2]]
@@ -137,7 +137,7 @@ Read the chapter → [[Mark 7]]
     ![[Matthew 15#^v2]]
     The same account told in Matthew: Why do thy disciples transgress the tradition of the elders?
 
-**Mark 7:6-9**
+**[[Mark 7#^v6|Mark 7:6-9]]**
 
 ![[Mark 7#^v6]]
 ![[Mark 7#^v7]]
@@ -147,7 +147,7 @@ Read the chapter → [[Mark 7]]
 - This people honoureth me with their lips, but their heart is far from me. In vain do they worship me, teaching for doctrines the commandments of men.
 - Laying aside the commandment of God, ye hold the tradition of men. Full well ye reject the commandment of God, that ye may keep your own tradition.
 
-**Mark 7:10-13**
+**[[Mark 7#^v10|Mark 7:10-13]]**
 
 ![[Mark 7#^v10]]
 ![[Mark 7#^v11]]
@@ -157,7 +157,7 @@ Read the chapter → [[Mark 7]]
 - Moses said, Honour thy father and thy mother, but they had made a way for a man to call what would have profited his parents a gift, and so owe them nothing.
 - The elders were allowing children to be released from their parents, and by that tradition they made the word of God of none effect.
 
-**Mark 7:14-16**
+**[[Mark 7#^v14|Mark 7:14-16]]**
 
 ![[Mark 7#^v14]]
 ![[Mark 7#^v15]]
@@ -165,7 +165,7 @@ Read the chapter → [[Mark 7]]
 
 - There is nothing from without a man, that entering into him can defile him; but the things which come out of him, those are they that defile the man.
 
-**Mark 7:17-23**
+**[[Mark 7#^v17|Mark 7:17-23]]**
 
 ![[Mark 7#^v17]]
 ![[Mark 7#^v18]]
@@ -179,7 +179,7 @@ Read the chapter → [[Mark 7]]
 - The meats in view are lawful meats. What is unclean was never called meat, and it still does the body harm, which is not what purging means.
 - What defiles is named out of his own mouth: evil thoughts, adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness.
 
-**Mark 7:24-30**
+**[[Mark 7#^v24|Mark 7:24-30]]**
 
 ![[Mark 7#^v24]]
 ![[Mark 7#^v25]]
@@ -193,7 +193,7 @@ Read the chapter → [[Mark 7]]
 - Let the children first be filled: for it is not meet to take the children's bread, and to cast it unto the dogs. The order is stated plainly and he does not soften it.
 - She answers, Yea, Lord: yet the dogs under the table eat of the children's crumbs. She took the place the answer gave her, and for that saying her daughter was made whole.
 
-**Mark 7:31-37**
+**[[Mark 7#^v31|Mark 7:31-37]]**
 
 ![[Mark 7#^v31]]
 ![[Mark 7#^v32]]
@@ -210,7 +210,7 @@ Read the chapter → [[Mark 7]]
 
 Read the chapter → [[Mark 8]]
 
-**Mark 8:1-9**
+**[[Mark 8#^v1|Mark 8:1-9]]**
 
 ![[Mark 8#^v1]]
 ![[Mark 8#^v2]]
@@ -225,7 +225,7 @@ Read the chapter → [[Mark 8]]
 - A second multitude, with him three days and having nothing to eat, is fed with seven loaves and a few small fishes, and seven baskets of the broken meat are taken up. About four thousand were fed.
 - The disciples ask whence a man can satisfy these men with bread, having already seen five thousand fed. Their faith had to be built up the same as anyone's.
 
-**Mark 8:10-13**
+**[[Mark 8#^v10|Mark 8:10-13]]**
 
 ![[Mark 8#^v10]]
 ![[Mark 8#^v11]]
@@ -234,7 +234,7 @@ Read the chapter → [[Mark 8]]
 
 - The Pharisees come seeking a sign from heaven, tempting him, and he sighs deeply in his spirit and gives them none. They came to him; he did not go to them.
 
-**Mark 8:14-21**
+**[[Mark 8#^v14|Mark 8:14-21]]**
 
 ![[Mark 8#^v14]]
 ![[Mark 8#^v15]]
@@ -249,7 +249,7 @@ Read the chapter → [[Mark 8]]
 - Having eyes, see ye not? and having ears, hear ye not? He reminds them of the twelve baskets and the seven, and asks, How is it that ye do not understand?
 - He was not soft with them. When he was alone with the twelve he corrected them plainly, and that is why they were often afraid to ask him anything.
 
-**Mark 8:22-26**
+**[[Mark 8#^v22|Mark 8:22-26]]**
 
 ![[Mark 8#^v22]]
 ![[Mark 8#^v23]]
@@ -259,7 +259,7 @@ Read the chapter → [[Mark 8]]
 
 - The blind man of Bethsaida looks up after the first touch and says, I see men as trees, walking; after the second he is restored and sees every man clearly.
 
-**Mark 8:27-31**
+**[[Mark 8#^v27|Mark 8:27-31]]**
 
 ![[Mark 8#^v27]]
 ![[Mark 8#^v28]]
@@ -271,7 +271,7 @@ Read the chapter → [[Mark 8]]
 - He begins to teach them that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.
 - Note who rejected him. It was the elders, the chief priests and the scribes. Thousands upon thousands of the people believed on him and followed him.
 
-**Mark 8:32-33**
+**[[Mark 8#^v32|Mark 8:32-33]]**
 
 ![[Mark 8#^v32]]
 ![[Mark 8#^v33]]
@@ -279,7 +279,7 @@ Read the chapter → [[Mark 8]]
 - Peter takes him and begins to rebuke him, and is answered, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
 - The adversary can get on any man. Christ saw the spirit and rebuked it at once, without waiting.
 
-**Mark 8:34-38**
+**[[Mark 8#^v34|Mark 8:34-38]]**
 
 ![[Mark 8#^v34]]
 ![[Mark 8#^v35]]
@@ -295,7 +295,7 @@ Read the chapter → [[Mark 8]]
 
 Read the chapter → [[Mark 9]]
 
-**Mark 9:1-8**
+**[[Mark 9#^v1|Mark 9:1-8]]**
 
 ![[Mark 9#^v1]]
 ![[Mark 9#^v2]]
@@ -310,7 +310,7 @@ Read the chapter → [[Mark 9]]
 - Peter offers to build three tabernacles, not knowing what to say, for they were sore afraid.
 - The voice out of the cloud says, This is my beloved Son: hear him. Moses stands for the law and Elias for the prophets, and the word given is to hear the son.
 
-**Mark 9:9-13**
+**[[Mark 9#^v9|Mark 9:9-13]]**
 
 ![[Mark 9#^v9]]
 ![[Mark 9#^v10]]
@@ -320,7 +320,7 @@ Read the chapter → [[Mark 9]]
 
 - Elias verily cometh first, and restoreth all things; and I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed. Matthew names him as John the Baptist.
 
-**Mark 9:14-27**
+**[[Mark 9#^v14|Mark 9:14-27]]**
 
 ![[Mark 9#^v14]]
 ![[Mark 9#^v15]]
@@ -341,14 +341,14 @@ Read the chapter → [[Mark 9]]
 - If thou canst believe, all things are possible to him that believeth. The father answers with tears, Lord, I believe; help thou mine unbelief.
 - Those who were healed were healed on their faith. That is why the word to them was, thy faith hath made thee whole.
 
-**Mark 9:28-29**
+**[[Mark 9#^v28|Mark 9:28-29]]**
 
 ![[Mark 9#^v28]]
 ![[Mark 9#^v29]]
 
 - Asked privately why they could not cast him out, he answers, This kind can come forth by nothing, but by prayer and fasting. Prayer and fasting are not optional for the things that will not move otherwise.
 
-**Mark 9:30-32**
+**[[Mark 9#^v30|Mark 9:30-32]]**
 
 ![[Mark 9#^v30]]
 ![[Mark 9#^v31]]
@@ -356,7 +356,7 @@ Read the chapter → [[Mark 9]]
 
 - He tells them again that the Son of man is delivered into the hands of men, and they understood not that saying, and were afraid to ask him.
 
-**Mark 9:33-37**
+**[[Mark 9#^v33|Mark 9:33-37]]**
 
 ![[Mark 9#^v33]]
 ![[Mark 9#^v34]]
@@ -367,7 +367,7 @@ Read the chapter → [[Mark 9]]
 - He asks what they disputed by the way, knowing already that they had disputed who should be the greatest, and they held their peace.
 - If any man desire to be first, the same shall be last of all, and servant of all. With rank comes the weight of the people, and every matter comes to the ears of those set over them.
 
-**Mark 9:38-40**
+**[[Mark 9#^v38|Mark 9:38-40]]**
 
 ![[Mark 9#^v38]]
 ![[Mark 9#^v39]]
@@ -375,7 +375,7 @@ Read the chapter → [[Mark 9]]
 
 - John reports one casting out devils in his name who followed not them, and is told, Forbid him not: for he that is not against us is on our part.
 
-**Mark 9:41-50**
+**[[Mark 9#^v41|Mark 9:41-50]]**
 
 ![[Mark 9#^v41]]
 ![[Mark 9#^v42]]

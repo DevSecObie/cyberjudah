@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Esther 8#^v17|Esther 8:17]]  taught in [[Esther 6-9 Study Notes|Esther 6-9]]
-- [[Zechariah 9#^v6|Zechariah 9:6]]
+- [[Zechariah 9#^v6|Zechariah 9:6]]  taught in [[Zechariah 8-11 Study Notes|Zechariah 8-11]]
 - [[Revelation 2#^v9|Revelation 2:9]]
 - [[Revelation 3#^v9|Revelation 3:9]]

@@ -8,7 +8,7 @@ Read the chapter → [[John 1]]
 
 This session covers Luke 22 through 24 together with John 1; these notes cover John 1, which closes the reading. The chapter opens with who the Word is, moves to John the Baptist sent to bear witness, and ends with Nathanael naming him: thou art the Son of God, thou art the King of Israel.
 
-**John 1:1-2**
+**[[John 1#^v1|John 1:1-2]]**
 
 ![[John 1#^v1]]
 ![[John 1#^v2]]
@@ -25,7 +25,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[1 Corinthians 1#^v24]]
     Christ the power of God, and the wisdom of God.
 
-**John 1:3**
+**[[John 1#^v3|John 1:3]]**
 
 ![[John 1#^v3]]
 
@@ -36,7 +36,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[Psalms 33#^v6]]
     By the word of the Lord were the heavens made; and all the host of them by the breath of his mouth.
 
-**John 1:4-5**
+**[[John 1#^v4|John 1:4-5]]**
 
 ![[John 1#^v4]]
 ![[John 1#^v5]]
@@ -52,7 +52,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[John 8#^v12]]
     I am the light of the world: he that followeth me shall not walk in darkness.
 
-**John 1:6-9**
+**[[John 1#^v6|John 1:6-9]]**
 
 ![[John 1#^v6]]
 ![[John 1#^v7]]
@@ -64,12 +64,11 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
 - The blessing that came down on all men is traced in the scripture to one head, and rested on Jacob and was divided among the twelve tribes.
 
   Precepts:
-  - **[[Ecclesiasticus 44#^v22|Ecclesiasticus 44:22-23]]**
+  - **[[Ecclesiasticus 44#^v22|Ecclesiasticus 44:22]]**
     ![[Ecclesiasticus 44#^v22]]
-    ![[Ecclesiasticus 44#^v23]]
     The blessing of all men and the covenant made to rest upon the head of Jacob, and his inheritance divided among the twelve tribes.
 
-**John 1:10-11**
+**[[John 1#^v10|John 1:10-11]]**
 
 ![[John 1#^v10]]
 ![[John 1#^v11]]
@@ -85,7 +84,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[Psalms 78#^v5]]
     He established a testimony in Jacob, and appointed a law in Israel.
 
-**John 1:12-13**
+**[[John 1#^v12|John 1:12-13]]**
 
 ![[John 1#^v12]]
 ![[John 1#^v13]]
@@ -102,7 +101,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[Baruch 3#^v36]]
     He hath given the way of knowledge unto Jacob his servant, and to Israel his beloved. That names who the beloved are.
 
-**John 1:14**
+**[[John 1#^v14|John 1:14]]**
 
 ![[John 1#^v14]]
 
@@ -113,7 +112,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[John 3#^v16]]
     He gave his only begotten Son. A father and a son are two, which is what the verse says on its face.
 
-**John 1:15-17**
+**[[John 1#^v15|John 1:15-17]]**
 
 ![[John 1#^v15]]
 ![[John 1#^v16]]
@@ -134,7 +133,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
     ![[Psalms 119#^v142]]
     Thy righteousness is an everlasting righteousness, and thy law is the truth.
 
-**John 1:18-28**
+**[[John 1#^v18|John 1:18-28]]**
 
 ![[John 1#^v18]]
 ![[John 1#^v19]]
@@ -152,7 +151,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
 - I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
 - I baptize with water: but there standeth one among you, whom ye know not. Men came to that baptism confessing their sins, and a man has to be taught the law to know what he is confessing.
 
-**John 1:29-34**
+**[[John 1#^v29|John 1:29-34]]**
 
 ![[John 1#^v29]]
 ![[John 1#^v30]]
@@ -165,7 +164,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
 - I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water. John says himself who this was made known to.
 - Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
 
-**John 1:35-42**
+**[[John 1#^v35|John 1:35-42]]**
 
 ![[John 1#^v35]]
 ![[John 1#^v36]]
@@ -179,7 +178,7 @@ This session covers Luke 22 through 24 together with John 1; these notes cover J
 - Two of John's disciples follow him and ask where he dwelt. He said, Come and see, and they abode with him that day. He had a place to stay.
 - Andrew first findeth his own brother Simon, and saith unto him, We have found the Messias, and brought him to Jesus, who said, Thou shalt be called Cephas.
 
-**John 1:43-51**
+**[[John 1#^v43|John 1:43-51]]**
 
 ![[John 1#^v43]]
 ![[John 1#^v44]]

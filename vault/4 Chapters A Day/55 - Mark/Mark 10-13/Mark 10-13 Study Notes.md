@@ -8,7 +8,7 @@ Read the chapter → [[Mark 10]]
 
 This session covers Mark 10 through 13. Christ answers the Pharisees on divorce, turns away a rich man who kept the commandments but would not part with his goods, tells the twelve a third time what is coming, and rides into Jerusalem and cleanses the temple. Chapter 12 is one contention after another as the scribes, Pharisees, Herodians and Sadducees come to trap him, and chapter 13 gives the signs of the end and the charge to watch.
 
-**Mark 10:1-12**
+**[[Mark 10#^v1|Mark 10:1-12]]**
 
 ![[Mark 10#^v1]]
 ![[Mark 10#^v2]]
@@ -27,7 +27,7 @@ This session covers Mark 10 through 13. Christ answers the Pharisees on divorce,
 - For the hardness of your heart he wrote you this precept, but from the beginning of the creation God made them male and female. What therefore God hath joined together, let not man put asunder.
 - If a bill of divorcement was required to end it, then a marriage was a thing entered into properly to begin with. These are the guidelines, and they are plain.
 
-**Mark 10:13-16**
+**[[Mark 10#^v13|Mark 10:13-16]]**
 
 ![[Mark 10#^v13]]
 ![[Mark 10#^v14]]
@@ -37,7 +37,7 @@ This session covers Mark 10 through 13. Christ answers the Pharisees on divorce,
 - Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.
 - Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein. Coming into this truth means putting down what you thought you knew. A man who says he is grown and no one can teach him is a man who will not make it.
 
-**Mark 10:17-22**
+**[[Mark 10#^v17|Mark 10:17-22]]**
 
 ![[Mark 10#^v17]]
 ![[Mark 10#^v18]]
@@ -50,7 +50,7 @@ This session covers Mark 10 through 13. Christ answers the Pharisees on divorce,
 - One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor. He went away grieved, for he had great possessions.
 - He had kept the letter of what was named, but he did not love his neighbour as himself, or he would have given to the poor of his own people.
 
-**Mark 10:23-31**
+**[[Mark 10#^v23|Mark 10:23-31]]**
 
 ![[Mark 10#^v23]]
 ![[Mark 10#^v24]]
@@ -67,7 +67,7 @@ This session covers Mark 10 through 13. Christ answers the Pharisees on divorce,
 - No man that hath left house or brethren or sisters or father or mother or wife or children or lands for my sake shall fail to receive an hundredfold now in this time, with persecutions, and in the world to come eternal life.
 - What is forsaken coming into this truth is repaid in the nation. A man may lose one parent and gain a congregation, and beyond that a whole people.
 
-**Mark 10:32-45**
+**[[Mark 10#^v32|Mark 10:32-45]]**
 
 ![[Mark 10#^v32]]
 ![[Mark 10#^v33]]
@@ -89,7 +89,7 @@ This session covers Mark 10 through 13. Christ answers the Pharisees on divorce,
 - They which are accounted to rule over the Gentiles exercise lordship over them, but so shall it not be among you. Whosoever will be great among you shall be your minister.
 - The higher the rank, the heavier the load. The Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 
-**Mark 10:46-52**
+**[[Mark 10#^v46|Mark 10:46-52]]**
 
 ![[Mark 10#^v46]]
 ![[Mark 10#^v47]]
@@ -106,7 +106,7 @@ This session covers Mark 10 through 13. Christ answers the Pharisees on divorce,
 
 Read the chapter → [[Mark 11]]
 
-**Mark 11:1-11**
+**[[Mark 11#^v1|Mark 11:1-11]]**
 
 ![[Mark 11#^v1]]
 ![[Mark 11#^v2]]
@@ -122,7 +122,7 @@ Read the chapter → [[Mark 11]]
 
 - Two disciples are sent for the colt whereon never man sat, and the multitude spread their garments and branches in the way, crying Hosanna.
 
-**Mark 11:12-14**
+**[[Mark 11#^v12|Mark 11:12-14]]**
 
 ![[Mark 11#^v12]]
 ![[Mark 11#^v13]]
@@ -130,7 +130,7 @@ Read the chapter → [[Mark 11]]
 
 - Seeing a fig tree afar off having leaves, he finds nothing but leaves, and says, No man eat fruit of thee hereafter for ever.
 
-**Mark 11:15-19**
+**[[Mark 11#^v15|Mark 11:15-19]]**
 
 ![[Mark 11#^v15]]
 ![[Mark 11#^v16]]
@@ -142,7 +142,7 @@ Read the chapter → [[Mark 11]]
 - Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.
 - He did not lead those men out gently. This is not the soft figure preached in the churches; where the law was concerned he acted, and the scribes and chief priests sought how they might destroy him, for they feared him.
 
-**Mark 11:20-26**
+**[[Mark 11#^v20|Mark 11:20-26]]**
 
 ![[Mark 11#^v20]]
 ![[Mark 11#^v21]]
@@ -156,7 +156,7 @@ Read the chapter → [[Mark 11]]
 - Whosoever shall say unto this mountain, Be thou removed, and shall not doubt in his heart, he shall have whatsoever he saith.
 - When ye stand praying, forgive, if ye have ought against any, that your Father also which is in heaven may forgive you your trespasses.
 
-**Mark 11:27-33**
+**[[Mark 11#^v27|Mark 11:27-33]]**
 
 ![[Mark 11#^v27]]
 ![[Mark 11#^v28]]
@@ -173,7 +173,7 @@ Read the chapter → [[Mark 11]]
 
 Read the chapter → [[Mark 12]]
 
-**Mark 12:1-12**
+**[[Mark 12#^v1|Mark 12:1-12]]**
 
 ![[Mark 12#^v1]]
 ![[Mark 12#^v2]]
@@ -192,7 +192,7 @@ Read the chapter → [[Mark 12]]
 - The vineyard is the nation; the servants are the prophets, who were beaten, stoned and killed, and who all came with the same message. Then the son came with that message and they killed him too.
 - The stone which the builders rejected is become the head of the corner. They knew he had spoken the parable against them.
 
-**Mark 12:13-17**
+**[[Mark 12#^v13|Mark 12:13-17]]**
 
 ![[Mark 12#^v13]]
 ![[Mark 12#^v14]]
@@ -204,7 +204,7 @@ Read the chapter → [[Mark 12]]
 - That is still how men come to this word. They will say they like what is being said and then set the thing they disagree with beside it.
 - Knowing their hypocrisy, he calls for the penny and answers by the image on it: Render to Caesar the things that are Caesar's, and to God the things that are God's. They were careful of Caesar's law while mishandling the priesthood.
 
-**Mark 12:18-27**
+**[[Mark 12#^v18|Mark 12:18-27]]**
 
 ![[Mark 12#^v18]]
 ![[Mark 12#^v19]]
@@ -227,7 +227,7 @@ Read the chapter → [[Mark 12]]
     ![[Ruth 4#^v10]]
     Boaz raises up the name of the dead upon his inheritance, that his name be not cut off from among his brethren; that is what the law was for.
 
-**Mark 12:28-34**
+**[[Mark 12#^v28|Mark 12:28-34]]**
 
 ![[Mark 12#^v28]]
 ![[Mark 12#^v29]]
@@ -248,7 +248,7 @@ Read the chapter → [[Mark 12]]
     ![[Deuteronomy 6#^v5]]
     The commandment Christ was quoting, word for word out of the law.
 
-**Mark 12:35-40**
+**[[Mark 12#^v35|Mark 12:35-40]]**
 
 ![[Mark 12#^v35]]
 ![[Mark 12#^v36]]
@@ -265,7 +265,7 @@ Read the chapter → [[Mark 12]]
     ![[Psalms 110#^v1]]
     The psalm quoted: The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 
-**Mark 12:41-44**
+**[[Mark 12#^v41|Mark 12:41-44]]**
 
 ![[Mark 12#^v41]]
 ![[Mark 12#^v42]]
@@ -283,7 +283,7 @@ Read the chapter → [[Mark 12]]
 
 Read the chapter → [[Mark 13]]
 
-**Mark 13:1-4**
+**[[Mark 13#^v1|Mark 13:1-4]]**
 
 ![[Mark 13#^v1]]
 ![[Mark 13#^v2]]
@@ -292,7 +292,7 @@ Read the chapter → [[Mark 13]]
 
 - Of the great buildings he says there shall not be left one stone upon another that shall not be thrown down, and privately on the mount of Olives they ask when.
 
-**Mark 13:5-8**
+**[[Mark 13#^v5|Mark 13:5-8]]**
 
 ![[Mark 13#^v5]]
 ![[Mark 13#^v6]]
@@ -302,7 +302,7 @@ Read the chapter → [[Mark 13]]
 - Many shall come in my name, saying, I am Christ; and shall deceive many. The deceiving has been done on a scale of billions, and the figure held up is not the man of the scriptures.
 - Wars and rumours of wars are not the end. Nation shall rise against nation, and there shall be earthquakes, famines and troubles: these are the beginnings of sorrows.
 
-**Mark 13:9-13**
+**[[Mark 13#^v9|Mark 13:9-13]]**
 
 ![[Mark 13#^v9]]
 ![[Mark 13#^v10]]
@@ -314,7 +314,7 @@ Read the chapter → [[Mark 13]]
 - Take no thought beforehand what ye shall speak, for it is not ye that speak, but the Holy Ghost.
 - He that shall endure unto the end, the same shall be saved. Read that against verse 8: this is the beginning of sorrows, and the end is not yet, so no man is finished yet.
 
-**Mark 13:14-18**
+**[[Mark 13#^v14|Mark 13:14-18]]**
 
 ![[Mark 13#^v14]]
 ![[Mark 13#^v15]]
@@ -337,7 +337,7 @@ Read the chapter → [[Mark 13]]
     ![[Deuteronomy 28#^v53]]
     The nation from far, the siege in all thy gates, and the eating of the fruit of thine own body.
 
-**Mark 13:19-23**
+**[[Mark 13#^v19|Mark 13:19-23]]**
 
 ![[Mark 13#^v19]]
 ![[Mark 13#^v20]]
@@ -348,7 +348,7 @@ Read the chapter → [[Mark 13]]
 - Except that the Lord had shortened those days, no flesh should be saved; but for the elect's sake, whom he hath chosen, he hath shortened the days.
 - False Christs and false prophets shall rise and shall shew signs and wonders, to seduce, if it were possible, even the elect. Behold, I have foretold you all things.
 
-**Mark 13:24-27**
+**[[Mark 13#^v24|Mark 13:24-27]]**
 
 ![[Mark 13#^v24]]
 ![[Mark 13#^v25]]
@@ -358,7 +358,7 @@ Read the chapter → [[Mark 13]]
 - After that tribulation the sun shall be darkened, the moon shall not give her light, and the stars of heaven shall fall.
 - Then shall they see the Son of man coming in the clouds with great power and glory, and he shall gather together his elect from the four winds.
 
-**Mark 13:28-32**
+**[[Mark 13#^v28|Mark 13:28-32]]**
 
 ![[Mark 13#^v28]]
 ![[Mark 13#^v29]]
@@ -369,7 +369,7 @@ Read the chapter → [[Mark 13]]
 - Learn a parable of the fig tree: when her branch is yet tender and putteth forth leaves, ye know that summer is near.
 - Heaven and earth shall pass away, but my words shall not pass away. Of that day and that hour knoweth no man, neither the Son, but the Father.
 
-**Mark 13:33-37**
+**[[Mark 13#^v33|Mark 13:33-37]]**
 
 ![[Mark 13#^v33]]
 ![[Mark 13#^v34]]

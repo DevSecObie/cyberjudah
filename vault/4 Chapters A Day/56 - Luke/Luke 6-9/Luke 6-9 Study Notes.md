@@ -8,7 +8,7 @@ Read the chapter → [[Luke 6]]
 
 This session covers Luke 6 through 9. The two sabbath contentions open the reading, then the choosing of the twelve and the sermon on the plain with its blessings and its woes. Chapter 7 turns on faith found outside Israel and a woman forgiven much; chapter 8 carries the parable of the sower and a run of miracles; chapter 9 sends the twelve out, feeds the five thousand, gives the confession of Peter and the transfiguration, and ends with what it costs to follow. Questions taken after the reading are folded in under the verses they belong to.
 
-**Luke 6:1-5**
+**[[Luke 6#^v1|Luke 6:1-5]]**
 
 ![[Luke 6#^v1]]
 ![[Luke 6#^v2]]
@@ -19,7 +19,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 - The disciples pluck the ears of corn on the sabbath and are accused, and he answers with what David did in eating the shewbread, which was lawful only for the priests.
 - The Son of man is Lord also of the sabbath.
 
-**Luke 6:6-11**
+**[[Luke 6#^v6|Luke 6:6-11]]**
 
 ![[Luke 6#^v6]]
 ![[Luke 6#^v7]]
@@ -31,7 +31,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 - The scribes and Pharisees watch whether he would heal on the sabbath day, that they might find an accusation against him. He knew their thoughts.
 - Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it? The hand is restored whole as the other, and they were filled with madness.
 
-**Luke 6:12-16**
+**[[Luke 6#^v12|Luke 6:12-16]]**
 
 ![[Luke 6#^v12]]
 ![[Luke 6#^v13]]
@@ -41,7 +41,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 
 - He went out into a mountain to pray, and continued all night in prayer to God, and when it was day he chose twelve, whom also he named apostles.
 
-**Luke 6:17-19**
+**[[Luke 6#^v17|Luke 6:17-19]]**
 
 ![[Luke 6#^v17]]
 ![[Luke 6#^v18]]
@@ -49,7 +49,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 
 - The whole multitude sought to touch him, for there went virtue out of him, and healed them all.
 
-**Luke 6:20-23**
+**[[Luke 6#^v20|Luke 6:20-23]]**
 
 ![[Luke 6#^v20]]
 ![[Luke 6#^v21]]
@@ -59,7 +59,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 - Blessed be ye poor: for yours is the kingdom of God. Blessed are ye that hunger now, that weep now, and that are hated and separated and reproached for the Son of man's sake.
 - Rejoice ye in that day, and leap for joy: for in the like manner did their fathers unto the prophets.
 
-**Luke 6:24-26**
+**[[Luke 6#^v24|Luke 6:24-26]]**
 
 ![[Luke 6#^v24]]
 ![[Luke 6#^v25]]
@@ -67,7 +67,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 
 - The woes answer the blessings one for one: woe unto you that are rich, that are full, that laugh now, and woe unto you when all men shall speak well of you, for so did their fathers to the false prophets.
 
-**Luke 6:27-31**
+**[[Luke 6#^v27|Luke 6:27-31]]**
 
 ![[Luke 6#^v27]]
 ![[Luke 6#^v28]]
@@ -78,7 +78,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 - Love your enemies, do good to them which hate you, bless them that curse you, and pray for them which despitefully use you.
 - As ye would that men should do to you, do ye also to them likewise.
 
-**Luke 6:32-36**
+**[[Luke 6#^v32|Luke 6:32-36]]**
 
 ![[Luke 6#^v32]]
 ![[Luke 6#^v33]]
@@ -89,7 +89,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 - If ye love them which love you, what thank have ye? for sinners also love those that love them.
 - Love ye your enemies, and do good, and lend, hoping for nothing again, for he is kind unto the unthankful and to the evil. Be ye therefore merciful, as your Father also is merciful.
 
-**Luke 6:37-38**
+**[[Luke 6#^v37|Luke 6:37-38]]**
 
 ![[Luke 6#^v37]]
 ![[Luke 6#^v38]]
@@ -97,21 +97,21 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 - Judge not, and ye shall not be judged; condemn not, and ye shall not be condemned; forgive, and ye shall be forgiven.
 - Good measure, pressed down, and shaken together, and running over, shall men give into your bosom. With the same measure that ye mete withal it shall be measured to you again.
 
-**Luke 6:39-40**
+**[[Luke 6#^v39|Luke 6:39-40]]**
 
 ![[Luke 6#^v39]]
 ![[Luke 6#^v40]]
 
 - Can the blind lead the blind? shall they not both fall into the ditch? The disciple is not above his master, but every one that is perfect shall be as his master.
 
-**Luke 6:41-42**
+**[[Luke 6#^v41|Luke 6:41-42]]**
 
 ![[Luke 6#^v41]]
 ![[Luke 6#^v42]]
 
 - Cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother's eye.
 
-**Luke 6:43-45**
+**[[Luke 6#^v43|Luke 6:43-45]]**
 
 ![[Luke 6#^v43]]
 ![[Luke 6#^v44]]
@@ -119,7 +119,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 
 - Every tree is known by his own fruit. A good man out of the good treasure of his heart bringeth forth that which is good, for of the abundance of the heart his mouth speaketh.
 
-**Luke 6:46-49**
+**[[Luke 6#^v46|Luke 6:46-49]]**
 
 ![[Luke 6#^v46]]
 ![[Luke 6#^v47]]
@@ -133,7 +133,7 @@ This session covers Luke 6 through 9. The two sabbath contentions open the readi
 
 Read the chapter → [[Luke 7]]
 
-**Luke 7:1-10**
+**[[Luke 7#^v1|Luke 7:1-10]]**
 
 ![[Luke 7#^v1]]
 ![[Luke 7#^v2]]
@@ -149,7 +149,7 @@ Read the chapter → [[Luke 7]]
 - The centurion sends elders of the Jews to plead for him, and they say of him, He loveth our nation, and he hath built us a synagogue.
 - Say in a word, and my servant shall be healed. Christ marvelled and said, I have not found so great faith, no, not in Israel.
 
-**Luke 7:11-17**
+**[[Luke 7#^v11|Luke 7:11-17]]**
 
 ![[Luke 7#^v11]]
 ![[Luke 7#^v12]]
@@ -162,7 +162,7 @@ Read the chapter → [[Luke 7]]
 - At Nain he meets a dead man carried out, the only son of his mother, and she a widow. He had compassion on her and said, Weep not.
 - Young man, I say unto thee, Arise. He that was dead sat up and began to speak, and he delivered him to his mother.
 
-**Luke 7:18-23**
+**[[Luke 7#^v18|Luke 7:18-23]]**
 
 ![[Luke 7#^v18]]
 ![[Luke 7#^v19]]
@@ -173,7 +173,7 @@ Read the chapter → [[Luke 7]]
 
 - John's disciples ask, Art thou he that should come? and in that same hour he cured many, and answered by the works: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
 
-**Luke 7:24-30**
+**[[Luke 7#^v24|Luke 7:24-30]]**
 
 ![[Luke 7#^v24]]
 ![[Luke 7#^v25]]
@@ -186,7 +186,7 @@ Read the chapter → [[Luke 7]]
 - Among those that are born of women there is not a greater prophet than John the Baptist, but he that is least in the kingdom of God is greater than he.
 - The people and the publicans justified God, being baptized with the baptism of John; but the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.
 
-**Luke 7:31-35**
+**[[Luke 7#^v31|Luke 7:31-35]]**
 
 ![[Luke 7#^v31]]
 ![[Luke 7#^v32]]
@@ -197,7 +197,7 @@ Read the chapter → [[Luke 7]]
 - They are like children in the marketplace calling one to another, We have piped unto you, and ye have not danced.
 - John came neither eating bread nor drinking wine, and they said he hath a devil; the Son of man came eating and drinking, and they called him a gluttonous man. But wisdom is justified of all her children.
 
-**Luke 7:36-50**
+**[[Luke 7#^v36|Luke 7:36-50]]**
 
 ![[Luke 7#^v36]]
 ![[Luke 7#^v37]]
@@ -224,7 +224,7 @@ Read the chapter → [[Luke 7]]
 
 Read the chapter → [[Luke 8]]
 
-**Luke 8:1-3**
+**[[Luke 8#^v1|Luke 8:1-3]]**
 
 ![[Luke 8#^v1]]
 ![[Luke 8#^v2]]
@@ -232,7 +232,7 @@ Read the chapter → [[Luke 8]]
 
 - He went throughout every city and village preaching and shewing the glad tidings of the kingdom of God, and with him the twelve, and certain women which had been healed, who ministered unto him of their substance.
 
-**Luke 8:4-8**
+**[[Luke 8#^v4|Luke 8:4-8]]**
 
 ![[Luke 8#^v4]]
 ![[Luke 8#^v5]]
@@ -242,7 +242,7 @@ Read the chapter → [[Luke 8]]
 
 - A sower went out to sow his seed: some fell by the way side, some upon a rock, some among thorns, and other fell on good ground and bare fruit an hundredfold.
 
-**Luke 8:9-15**
+**[[Luke 8#^v9|Luke 8:9-15]]**
 
 ![[Luke 8#^v9]]
 ![[Luke 8#^v10]]
@@ -256,7 +256,7 @@ Read the chapter → [[Luke 8]]
 - They on the rock receive the word with joy and have no root, and in time of temptation fall away. That among thorns is choked with cares and riches and pleasures of this life.
 - That on the good ground are they which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
 
-**Luke 8:16-18**
+**[[Luke 8#^v16|Luke 8:16-18]]**
 
 ![[Luke 8#^v16]]
 ![[Luke 8#^v17]]
@@ -265,7 +265,7 @@ Read the chapter → [[Luke 8]]
 - No man lighteth a candle and covereth it. Nothing is secret that shall not be made manifest.
 - Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.
 
-**Luke 8:19-21**
+**[[Luke 8#^v19|Luke 8:19-21]]**
 
 ![[Luke 8#^v19]]
 ![[Luke 8#^v20]]
@@ -273,7 +273,7 @@ Read the chapter → [[Luke 8]]
 
 - My mother and my brethren are these which hear the word of God, and do it.
 
-**Luke 8:22-25**
+**[[Luke 8#^v22|Luke 8:22-25]]**
 
 ![[Luke 8#^v22]]
 ![[Luke 8#^v23]]
@@ -283,7 +283,7 @@ Read the chapter → [[Luke 8]]
 - The storm fills the ship and they wake him, and he rebukes the wind and the raging of the water, and there was a calm.
 - Where is your faith? They wondered, saying, What manner of man is this! for he commandeth even the winds and water, and they obey him.
 
-**Luke 8:26-39**
+**[[Luke 8#^v26|Luke 8:26-39]]**
 
 ![[Luke 8#^v26]]
 ![[Luke 8#^v27]]
@@ -304,7 +304,7 @@ Read the chapter → [[Luke 8]]
 - What is thy name? And he said, Legion: because many devils were entered into him. They enter the swine and the herd runs violently down a steep place into the lake.
 - The man is found sitting at the feet of Jesus, clothed, and in his right mind, and is sent home to shew how great things God had done unto him.
 
-**Luke 8:40-48**
+**[[Luke 8#^v40|Luke 8:40-48]]**
 
 ![[Luke 8#^v40]]
 ![[Luke 8#^v41]]
@@ -319,7 +319,7 @@ Read the chapter → [[Luke 8]]
 - The woman with an issue of blood twelve years, who had spent all her living upon physicians, touches the border of his garment and immediately is healed.
 - Somebody hath touched me: for I perceive that virtue is gone out of me. Daughter, be of good comfort: thy faith hath made thee whole; go in peace.
 
-**Luke 8:49-56**
+**[[Luke 8#^v49|Luke 8:49-56]]**
 
 ![[Luke 8#^v49]]
 ![[Luke 8#^v50]]
@@ -338,7 +338,7 @@ Read the chapter → [[Luke 8]]
 
 Read the chapter → [[Luke 9]]
 
-**Luke 9:1-6**
+**[[Luke 9#^v1|Luke 9:1-6]]**
 
 ![[Luke 9#^v1]]
 ![[Luke 9#^v2]]
@@ -350,7 +350,7 @@ Read the chapter → [[Luke 9]]
 - He gave the twelve power and authority over all devils, and to cure diseases, and sent them to preach the kingdom of God and to heal the sick.
 - Take nothing for your journey. Where they are not received, shake off the very dust from your feet for a testimony against them.
 
-**Luke 9:7-9**
+**[[Luke 9#^v7|Luke 9:7-9]]**
 
 ![[Luke 9#^v7]]
 ![[Luke 9#^v8]]
@@ -358,7 +358,7 @@ Read the chapter → [[Luke 9]]
 
 - Herod is perplexed, hearing that John was risen from the dead, or that Elias had appeared, and says, John have I beheaded: but who is this?
 
-**Luke 9:10-17**
+**[[Luke 9#^v10|Luke 9:10-17]]**
 
 ![[Luke 9#^v10]]
 ![[Luke 9#^v11]]
@@ -371,7 +371,7 @@ Read the chapter → [[Luke 9]]
 
 - Five loaves and two fishes feed about five thousand men, sat down by fifties in a company, and twelve baskets of fragments are taken up.
 
-**Luke 9:18-22**
+**[[Luke 9#^v18|Luke 9:18-22]]**
 
 ![[Luke 9#^v18]]
 ![[Luke 9#^v19]]
@@ -382,7 +382,7 @@ Read the chapter → [[Luke 9]]
 - Whom say ye that I am? Peter answering said, The Christ of God.
 - The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day. That word stood alongside all the power they had just seen, and they still could not hold the two together.
 
-**Luke 9:23-27**
+**[[Luke 9#^v23|Luke 9:23-27]]**
 
 ![[Luke 9#^v23]]
 ![[Luke 9#^v24]]
@@ -394,7 +394,7 @@ Read the chapter → [[Luke 9]]
 - What is a man advantaged, if he gain the whole world, and lose himself, or be cast away?
 - Whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed.
 
-**Luke 9:28-36**
+**[[Luke 9#^v28|Luke 9:28-36]]**
 
 ![[Luke 9#^v28]]
 ![[Luke 9#^v29]]
@@ -409,7 +409,7 @@ Read the chapter → [[Luke 9]]
 - As he prayed, the fashion of his countenance was altered, and there talked with him two men, which were Moses and Elias, who spake of his decease which he should accomplish at Jerusalem.
 - Out of the cloud came a voice, This is my beloved Son: hear him. And when the voice was past, Jesus was found alone.
 
-**Luke 9:37-43**
+**[[Luke 9#^v37|Luke 9:37-43]]**
 
 ![[Luke 9#^v37]]
 ![[Luke 9#^v38]]
@@ -422,7 +422,7 @@ Read the chapter → [[Luke 9]]
 - A father brings his only child, whom the disciples could not deliver, and Christ answers, O faithless and perverse generation, how long shall I be with you?
 - He rebukes the unclean spirit, heals the child, and delivers him again to his father, and they were all amazed at the mighty power of God.
 
-**Luke 9:44-45**
+**[[Luke 9#^v44|Luke 9:44-45]]**
 
 ![[Luke 9#^v44]]
 ![[Luke 9#^v45]]
@@ -430,7 +430,7 @@ Read the chapter → [[Luke 9]]
 - Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.
 - The saying comes straight after a devil the disciples could not cast out. He had power to give power, and would still be delivered into the hands of men. They understood it not, and feared to ask him.
 
-**Luke 9:46-48**
+**[[Luke 9#^v46|Luke 9:46-48]]**
 
 ![[Luke 9#^v46]]
 ![[Luke 9#^v47]]
@@ -438,7 +438,7 @@ Read the chapter → [[Luke 9]]
 
 - There arose a reasoning among them which of them should be greatest, and he set a child by him and said, He that is least among you all, the same shall be great.
 
-**Luke 9:49-50**
+**[[Luke 9#^v49|Luke 9:49-50]]**
 
 ![[Luke 9#^v49]]
 ![[Luke 9#^v50]]
@@ -446,7 +446,7 @@ Read the chapter → [[Luke 9]]
 - John reports one casting out devils in his name whom they forbade, because he followed not with them.
 - Forbid him not: for he that is not against us is for us. Men who are not speaking against Christ and are teaching the same identity of the people are not to be forbidden merely because they do not stand with us.
 
-**Luke 9:51-56**
+**[[Luke 9#^v51|Luke 9:51-56]]**
 
 ![[Luke 9#^v51]]
 ![[Luke 9#^v52]]
@@ -458,7 +458,7 @@ Read the chapter → [[Luke 9]]
 - The Samaritan village would not receive him, and James and John ask to command fire to come down from heaven.
 - Ye know not what manner of spirit ye are of. For the Son of man is not come to destroy men's lives, but to save them.
 
-**Luke 9:57-62**
+**[[Luke 9#^v57|Luke 9:57-62]]**
 
 ![[Luke 9#^v57]]
 ![[Luke 9#^v58]]

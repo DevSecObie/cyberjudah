@@ -1,4 +1,4 @@
-﻿← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
+﻿← [[Zechariah 8-11 Study Notes|Zechariah 8-11]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
 
 # Matthew 2: The Wise Men, Herod's Fear, and the Flight into Egypt
 
@@ -8,7 +8,7 @@ Read the chapter → [[Matthew 2]]
 
 This session covers Matthew 2 through 5. The class was taken on short notice and moves quickly, but the history in these chapters is heavy: the birth of Christ under an Edomite king, the murder of the children in Bethlehem, the ministry of John the Baptist, the temptation in the wilderness, and the opening of the sermon on the mount where Christ magnifies the law rather than destroying it. The thread running through all four chapters is fulfilment. Everything that happens to Christ here was written of him beforehand in the law, the prophets, and the psalms.
 
-**Matthew 2:1-2**
+**[[Matthew 2#^v1|Matthew 2:1-2]]**
 
 ![[Matthew 2#^v1]]
 ![[Matthew 2#^v2]]
@@ -21,14 +21,14 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
     ![[Psalms 72#^v11]]
     The kings of Tarshish and of the isles shall bring presents, and all kings shall fall down before him.
 
-**Matthew 2:3**
+**[[Matthew 2#^v3|Matthew 2:3]]**
 
 ![[Matthew 2#^v3]]
 
 - Herod was set up as king over Judea by Rome, and he was an Edomite, not of Israel. When the messiah is born he is troubled, and all Jerusalem with him.
 - If the messiah were coming to save all nations, there would be nothing in his birth to trouble a ruler of the nations. Herod is troubled because the coming of the messiah to Israel means judgment upon those who hold Israel down.
 
-**Matthew 2:4-6**
+**[[Matthew 2#^v4|Matthew 2:4-6]]**
 
 ![[Matthew 2#^v4]]
 ![[Matthew 2#^v5]]
@@ -51,14 +51,14 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
     ![[Isaiah 30#^v8]]
     The table David spoke of is the writing itself, noted in a book for the time to come.
 
-**Matthew 2:7-8**
+**[[Matthew 2#^v7|Matthew 2:7-8]]**
 
 ![[Matthew 2#^v7]]
 ![[Matthew 2#^v8]]
 
 - Herod calls the wise men privily and tells them to bring him word that he may come and worship also. He had no worship in mind; the next verses show what he intended.
 
-**Matthew 2:9-11**
+**[[Matthew 2#^v9|Matthew 2:9-11]]**
 
 ![[Matthew 2#^v9]]
 ![[Matthew 2#^v10]]
@@ -67,13 +67,13 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
 - The star goes before them and stands over the place where the young child was, and they fall down and worship him and open their treasures.
 - Gold, frankincense and myrrh are the presents and gifts David prophesied of in the psalm. What was written was fulfilled exactly.
 
-**Matthew 2:12**
+**[[Matthew 2#^v12|Matthew 2:12]]**
 
 ![[Matthew 2#^v12]]
 
 - Warned of the Most High in a dream, they go home another way and do not report back to Herod.
 
-**Matthew 2:13**
+**[[Matthew 2#^v13|Matthew 2:13]]**
 
 ![[Matthew 2#^v13]]
 
@@ -96,7 +96,7 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
     ![[Job 30#^v29]]
     Job calls himself a brother to dragons, showing that dragons in prophecy stand for men.
 
-**Matthew 2:14-15**
+**[[Matthew 2#^v14|Matthew 2:14-15]]**
 
 ![[Matthew 2#^v14]]
 ![[Matthew 2#^v15]]
@@ -108,7 +108,7 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
     ![[Hosea 11#^v1]]
     The prophecy quoted: when Israel was a child, then I loved him, and called my son out of Egypt.
 
-**Matthew 2:16**
+**[[Matthew 2#^v16|Matthew 2:16]]**
 
 ![[Matthew 2#^v16]]
 
@@ -119,7 +119,7 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
     ![[Exodus 1#^v22]]
     Pharaoh charged all his people to cast every son into the river, the same attempt to cut off a deliverer before he could grow.
 
-**Matthew 2:17-18**
+**[[Matthew 2#^v17|Matthew 2:17-18]]**
 
 ![[Matthew 2#^v17]]
 ![[Matthew 2#^v18]]
@@ -131,7 +131,7 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
     ![[Jeremiah 31#^v15]]
     Rachel weeping for her children, and would not be comforted, because they were not.
 
-**Matthew 2:19-23**
+**[[Matthew 2#^v19|Matthew 2:19-23]]**
 
 ![[Matthew 2#^v19]]
 ![[Matthew 2#^v20]]
@@ -152,7 +152,7 @@ This session covers Matthew 2 through 5. The class was taken on short notice and
 
 Read the chapter → [[Matthew 3]]
 
-**Matthew 3:1-2**
+**[[Matthew 3#^v1|Matthew 3:1-2]]**
 
 ![[Matthew 3#^v1]]
 ![[Matthew 3#^v2]]
@@ -168,7 +168,7 @@ Read the chapter → [[Matthew 3]]
     ![[Malachi 4#^v6]]
     I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord.
 
-**Matthew 3:3**
+**[[Matthew 3#^v3|Matthew 3:3]]**
 
 ![[Matthew 3#^v3]]
 
@@ -181,7 +181,7 @@ Read the chapter → [[Matthew 3]]
     ![[Isaiah 40#^v5]]
     The prophecy John fulfilled, word for word.
 
-**Matthew 3:4**
+**[[Matthew 3#^v4|Matthew 3:4]]**
 
 ![[Matthew 3#^v4]]
 
@@ -192,14 +192,14 @@ Read the chapter → [[Matthew 3]]
     ![[2 Kings 1#^v8]]
     He was an hairy man, and girt with a girdle of leather about his loins; and he said, It is Elijah the Tishbite.
 
-**Matthew 3:5-6**
+**[[Matthew 3#^v5|Matthew 3:5-6]]**
 
 ![[Matthew 3#^v5]]
 ![[Matthew 3#^v6]]
 
 - They were baptized of him in Jordan, confessing their sins. Confession of sin is part of what is happening here, not a bare dipping in water.
 
-**Matthew 3:7-8**
+**[[Matthew 3#^v7|Matthew 3:7-8]]**
 
 ![[Matthew 3#^v7]]
 ![[Matthew 3#^v8]]
@@ -212,7 +212,7 @@ Read the chapter → [[Matthew 3]]
     ![[Acts 26#^v20]]
     That they should repent and turn to God, and do works meet for repentance.
 
-**Matthew 3:9**
+**[[Matthew 3#^v9|Matthew 3:9]]**
 
 ![[Matthew 3#^v9]]
 
@@ -230,13 +230,13 @@ Read the chapter → [[Matthew 3]]
     ![[Genesis 26#^v5]]
     Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws; that is the work of Abraham.
 
-**Matthew 3:10**
+**[[Matthew 3#^v10|Matthew 3:10]]**
 
 ![[Matthew 3#^v10]]
 
 - Every tree which bringeth not forth good fruit is hewn down and cast into the fire. Christ says the same thing again later in this gospel.
 
-**Matthew 3:11**
+**[[Matthew 3#^v11|Matthew 3:11]]**
 
 ![[Matthew 3#^v11]]
 
@@ -267,7 +267,7 @@ Read the chapter → [[Matthew 3]]
     ![[John 6#^v63]]
     The words that I speak unto you, they are spirit, and they are life.
 
-**Matthew 3:12**
+**[[Matthew 3#^v12|Matthew 3:12]]**
 
 ![[Matthew 3#^v12]]
 
@@ -278,7 +278,7 @@ Read the chapter → [[Matthew 3]]
     ![[Psalms 1#^v4]]
     The ungodly are like the chaff which the wind driveth away.
 
-**Matthew 3:13-15**
+**[[Matthew 3#^v13|Matthew 3:13-15]]**
 
 ![[Matthew 3#^v13]]
 ![[Matthew 3#^v14]]
@@ -287,7 +287,7 @@ Read the chapter → [[Matthew 3]]
 - Christ comes to John to be baptized, and when John forbids him he answers, Suffer it to be so now: for thus it becometh us to fulfil all righteousness.
 - This had to be done before the ministry begins, because the messenger preparing the way was written in the prophets and had to be fulfilled.
 
-**Matthew 3:16-17**
+**[[Matthew 3#^v16|Matthew 3:16-17]]**
 
 ![[Matthew 3#^v16]]
 ![[Matthew 3#^v17]]
@@ -305,7 +305,7 @@ Read the chapter → [[Matthew 3]]
 
 Read the chapter → [[Matthew 4]]
 
-**Matthew 4:1-3**
+**[[Matthew 4#^v1|Matthew 4:1-3]]**
 
 ![[Matthew 4#^v1]]
 ![[Matthew 4#^v2]]
@@ -321,7 +321,7 @@ Read the chapter → [[Matthew 4]]
     ![[1 John 2#^v16]]
     The lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
 
-**Matthew 4:4**
+**[[Matthew 4#^v4|Matthew 4:4]]**
 
 ![[Matthew 4#^v4]]
 
@@ -339,7 +339,7 @@ Read the chapter → [[Matthew 4]]
     ![[Matthew 26#^v41]]
     The spirit indeed is willing, but the flesh is weak.
 
-**Matthew 4:5-6**
+**[[Matthew 4#^v5|Matthew 4:5-6]]**
 
 ![[Matthew 4#^v5]]
 ![[Matthew 4#^v6]]
@@ -358,13 +358,13 @@ Read the chapter → [[Matthew 4]]
     ![[2 Corinthians 11#^v15]]
     Satan himself is transformed into an angel of light, and his ministers as the ministers of righteousness.
 
-**Matthew 4:7**
+**[[Matthew 4#^v7|Matthew 4:7]]**
 
 ![[Matthew 4#^v7]]
 
 - Christ answers again with the law: Thou shalt not tempt the Lord thy God. He fights the enemy with the commandments, which is what those who say the law is done away have thrown away.
 
-**Matthew 4:8-10**
+**[[Matthew 4#^v8|Matthew 4:8-10]]**
 
 ![[Matthew 4#^v8]]
 ![[Matthew 4#^v9]]
@@ -373,7 +373,7 @@ Read the chapter → [[Matthew 4]]
 - The devil shows him all the kingdoms of the world and offers them for worship. This is the pride of life and the lust of the eyes, offered to a man who at that moment was a carpenter out of Nazareth.
 - Christ answers a third time out of the law: Thou shalt worship the Lord thy God, and him only shalt thou serve.
 
-**Matthew 4:11**
+**[[Matthew 4#^v11|Matthew 4:11]]**
 
 ![[Matthew 4#^v11]]
 
@@ -384,7 +384,7 @@ Read the chapter → [[Matthew 4]]
     ![[Luke 4#^v13]]
     When the devil had ended all the temptation, he departed from him for a season.
 
-**Matthew 4:12-16**
+**[[Matthew 4#^v12|Matthew 4:12-16]]**
 
 ![[Matthew 4#^v12]]
 ![[Matthew 4#^v13]]
@@ -401,13 +401,13 @@ Read the chapter → [[Matthew 4]]
     ![[Isaiah 9#^v2]]
     The prophecy quoted, naming the same land and the same people that saw great light.
 
-**Matthew 4:17**
+**[[Matthew 4#^v17|Matthew 4:17]]**
 
 ![[Matthew 4#^v17]]
 
 - From that time Christ begins to preach the same word John preached: Repent, for the kingdom of heaven is at hand.
 
-**Matthew 4:18-20**
+**[[Matthew 4#^v18|Matthew 4:18-20]]**
 
 ![[Matthew 4#^v18]]
 ![[Matthew 4#^v19]]
@@ -424,14 +424,14 @@ Read the chapter → [[Matthew 4]]
     ![[2 Esdras 13#^v54]]
     For thou hast forsaken thine own way, and applied thy diligence unto my law, and sought it.
 
-**Matthew 4:21-22**
+**[[Matthew 4#^v21|Matthew 4:21-22]]**
 
 ![[Matthew 4#^v21]]
 ![[Matthew 4#^v22]]
 
 - James and John immediately left the ship and their father and followed him. That is faith, and the Most High uses men who will make that kind of sacrifice.
 
-**Matthew 4:23-25**
+**[[Matthew 4#^v23|Matthew 4:23-25]]**
 
 ![[Matthew 4#^v23]]
 ![[Matthew 4#^v24]]
@@ -443,7 +443,7 @@ Read the chapter → [[Matthew 4]]
 
 Read the chapter → [[Matthew 5]]
 
-**Matthew 5:1-12**
+**[[Matthew 5#^v1|Matthew 5:1-12]]**
 
 ![[Matthew 5#^v1]]
 ![[Matthew 5#^v2]]
@@ -461,7 +461,7 @@ Read the chapter → [[Matthew 5]]
 - Seeing the multitudes he goes up into a mountain and opens the blessings: the poor in spirit, they that mourn, the meek, they which hunger and thirst after righteousness, the merciful, the pure in heart, the peacemakers, and they which are persecuted for righteousness sake.
 - The last of them is spoken directly to those hearing him: rejoice when men revile and persecute you falsely, for so persecuted they the prophets which were before you.
 
-**Matthew 5:13-16**
+**[[Matthew 5#^v13|Matthew 5:13-16]]**
 
 ![[Matthew 5#^v13]]
 ![[Matthew 5#^v14]]
@@ -471,7 +471,7 @@ Read the chapter → [[Matthew 5]]
 - Ye are the salt of the earth and the light of the world. A city set on a hill cannot be hid, and a candle is not lit to be put under a bushel.
 - Let your light so shine before men that they may see your good works and glorify your Father which is in heaven.
 
-**Matthew 5:17**
+**[[Matthew 5#^v17|Matthew 5:17]]**
 
 ![[Matthew 5#^v17]]
 
@@ -512,7 +512,7 @@ Read the chapter → [[Matthew 5]]
     ![[Zechariah 9#^v9]]
     Thy King cometh unto thee, lowly, and riding upon an ass.
 
-**Matthew 5:18-20**
+**[[Matthew 5#^v18|Matthew 5:18-20]]**
 
 ![[Matthew 5#^v18]]
 ![[Matthew 5#^v19]]
@@ -522,7 +522,7 @@ Read the chapter → [[Matthew 5]]
 - Whosoever breaks one of these least commandments and teaches men so shall be called the least in the kingdom of heaven, and whosoever does and teaches them shall be called great.
 - Except your righteousness exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
 
-**Matthew 5:21-26**
+**[[Matthew 5#^v21|Matthew 5:21-26]]**
 
 ![[Matthew 5#^v21]]
 ![[Matthew 5#^v22]]
@@ -534,7 +534,7 @@ Read the chapter → [[Matthew 5]]
 - The commandment said Thou shalt not kill; Christ magnifies it to being angry with a brother without a cause and to what a man calls his brother.
 - If thou bring thy gift to the altar and rememberest that thy brother hath ought against thee, leave the gift, be reconciled first, and then come and offer.
 
-**Matthew 5:27-32**
+**[[Matthew 5#^v27|Matthew 5:27-32]]**
 
 ![[Matthew 5#^v27]]
 ![[Matthew 5#^v28]]
@@ -546,7 +546,7 @@ Read the chapter → [[Matthew 5]]
 - The commandment said Thou shalt not commit adultery; Christ magnifies it to looking on a woman to lust after her.
 - Better that one member perish than that the whole body be cast into hell, and putting away a wife saving for the cause of fornication causes her to commit adultery.
 
-**Matthew 5:33-37**
+**[[Matthew 5#^v33|Matthew 5:33-37]]**
 
 ![[Matthew 5#^v33]]
 ![[Matthew 5#^v34]]
@@ -561,7 +561,7 @@ Read the chapter → [[Matthew 5]]
     ![[Proverbs 10#^v19]]
     In the multitude of words there wanteth not sin.
 
-**Matthew 5:38-39**
+**[[Matthew 5#^v38|Matthew 5:38-39]]**
 
 ![[Matthew 5#^v38]]
 ![[Matthew 5#^v39]]
@@ -573,7 +573,7 @@ Read the chapter → [[Matthew 5]]
     ![[1 Peter 3#^v9]]
     Not rendering evil for evil, or railing for railing: but contrariwise blessing.
 
-**Matthew 5:40-42**
+**[[Matthew 5#^v40|Matthew 5:40-42]]**
 
 ![[Matthew 5#^v40]]
 ![[Matthew 5#^v41]]
@@ -588,7 +588,7 @@ Read the chapter → [[Matthew 5]]
     ![[Deuteronomy 15#^v10]]
     Thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need.
 
-**Matthew 5:43-44**
+**[[Matthew 5#^v43|Matthew 5:43-44]]**
 
 ![[Matthew 5#^v43]]
 ![[Matthew 5#^v44]]
@@ -605,7 +605,7 @@ Read the chapter → [[Matthew 5]]
     ![[1 Samuel 24#^v17]]
     Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
 
-**Matthew 5:45-47**
+**[[Matthew 5#^v45|Matthew 5:45-47]]**
 
 ![[Matthew 5#^v45]]
 ![[Matthew 5#^v46]]
@@ -613,7 +613,7 @@ Read the chapter → [[Matthew 5]]
 
 - He maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust. Loving only those who love you is no more than the publicans do.
 
-**Matthew 5:48**
+**[[Matthew 5#^v48|Matthew 5:48]]**
 
 ![[Matthew 5#^v48]]
 
@@ -632,5 +632,5 @@ Read the chapter → [[Matthew 5]]
 
 Topics: [[Esau and Edom]] · [[Sacrifice and Atonement]] · [[The Priesthood]]
 
-← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
+← [[Zechariah 8-11 Study Notes|Zechariah 8-11]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
 
