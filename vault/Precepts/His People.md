@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Psalms 83#^v3|Psalms 83:3]]  taught in [[Psalms 83-86 Study Notes|Psalms 83-86]]
 - [[Matthew 1#^v21|Matthew 1:21]]
-- [[Matthew 2#^v6|Matthew 2:6]]
+- [[Matthew 2#^v6|Matthew 2:6]]  taught in [[Matthew 2-5 Study Notes|Matthew 2-5]]
 - [[Luke 1#^v68|Luke 1:68]]
 - [[Luke 1#^v77|Luke 1:77]]

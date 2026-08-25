@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Leviticus 19#^v18|Leviticus 19:18]]  taught in [[Leviticus 18-21 Study Notes|Leviticus 18-21]]
 - [[Mark 12#^v31|Mark 12:31]]
-- [[Matthew 5#^v43|Matthew 5:43]]
+- [[Matthew 5#^v43|Matthew 5:43]]  taught in [[Matthew 2-5 Study Notes|Matthew 2-5]]
 - [[Matthew 22#^v39|Matthew 22:39]]
 - [[Luke 10#^v36|Luke 10:36]]

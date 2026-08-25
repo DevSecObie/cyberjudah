@@ -1,4 +1,4 @@
-﻿← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
+﻿← [[Matthew 2-5 Study Notes|Matthew 2-5]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
 
 # Acts 1: The Promise of the Father and the Kingdom Restored to Israel
 
@@ -201,5 +201,5 @@ This is the opening of the Man Up Monday series through the Acts of the Apostles
 
 Topics: [[The Priesthood]] · [[The Sabbath]]
 
-← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
+← [[Matthew 2-5 Study Notes|Matthew 2-5]] · [[Acts Index|Acts Study]] · [[Acts 2 Study Notes|Acts 2]] →
 
