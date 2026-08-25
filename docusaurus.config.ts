@@ -34,7 +34,7 @@ const config: Config = {
     } satisfies Preset.Options],
   ],
   themeConfig: {
-    colorMode: { respectPrefersColorScheme: true },
+    colorMode: { defaultMode: "dark", respectPrefersColorScheme: true },
     docs: { sidebar: { hideable: true, autoCollapseCategories: true } },
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
     navbar: {

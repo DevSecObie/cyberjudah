@@ -5,33 +5,67 @@ import { useHistory } from "@docusaurus/router";
 import stats from "../data/stats.json";
 
 const n = (x: number) => x.toLocaleString();
-const cards: { to: string; title: string; meta: string }[] = [
-  { to: "/bible", title: "Bible", meta: `${stats.books} books · ${n(stats.chapters)} chapters · ${n(stats.verses)} verses` },
-  { to: "/study", title: "Study Notes", meta: `${stats.studies} sessions` },
-  { to: "/classes", title: "Class Notes", meta: `${stats.classes} classes` },
-  { to: "/encyclopedia", title: "Encyclopedia", meta: `${stats.encyclopedia} topics` },
-  { to: "/law", title: "The Law", meta: `${n(stats.laws)} laws · ${stats.sections} sections · ${stats.parts} parts` },
-  { to: "/precepts", title: "Precepts", meta: `${stats.precepts} topics` },
-  { to: "/cases", title: "Case Studies", meta: `${stats.cases} cases` },
-  { to: "/concordance", title: "Concordance", meta: `${n(stats.citedChapters)} chapters cited` },
-  { to: "/api", title: "API", meta: "static JSON" },
-  { to: "/downloads", title: "Downloads", meta: "markdown, JSON, the vault" },
+
+/** Tiles are a readout, not a blurb: a count and the thing it counts. */
+type Tile = { to: string; title: string; value: string; unit: string; accent: string };
+const tiles: Tile[] = [
+  { to: "/bible", title: "Bible", value: n(stats.verses), unit: "verses", accent: "cyan" },
+  { to: "/study", title: "Study Notes", value: n(stats.studies), unit: "sessions", accent: "magenta" },
+  { to: "/classes", title: "Class Notes", value: n(stats.classes), unit: "classes", accent: "amber" },
+  { to: "/encyclopedia", title: "Encyclopedia", value: n(stats.encyclopedia), unit: "topics", accent: "cyan" },
+  { to: "/law", title: "The Law", value: n(stats.laws), unit: "laws", accent: "magenta" },
+  { to: "/precepts", title: "Precepts", value: n(stats.precepts), unit: "topics", accent: "amber" },
+  { to: "/cases", title: "Case Studies", value: n(stats.cases), unit: "cases", accent: "cyan" },
+  { to: "/concordance", title: "Concordance", value: n(stats.citedChapters), unit: "chapters", accent: "magenta" },
+  { to: "/api", title: "API", value: "JSON", unit: "static", accent: "amber" },
+  { to: "/downloads", title: "Downloads", value: "RAW", unit: "archive", accent: "cyan" },
 ];
+
 export default function Home() {
-  const [q, setQ] = useState(""); const history = useHistory();
+  const [q, setQ] = useState("");
+  const history = useHistory();
   return (
     <Layout title="CyberJudah" description="KJV Study Bible with Apocrypha, study notes, class notes, encyclopedia, the law, precepts, and case studies">
-      <main className="container">
-        <header className="cj-hero">
-          <h1>CyberJudah</h1>
-          <p>KJV with Apocrypha · study notes · class notes · encyclopedia · the law · precepts · case studies</p>
-        </header>
-        <form className="cj-search" onSubmit={(e) => { e.preventDefault(); if (q.trim()) history.push(`/search?q=${encodeURIComponent(q.trim())}`); }}>
-          <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search scripture, laws, precepts, cases, and notes" aria-label="search" />
-          <button className="button button--primary" type="submit">Search</button>
-        </form>
-        <div className="cj-grid margin-bottom--xl">
-          {cards.map((c) => <Link key={c.to} to={c.to} className="cj-card"><h3>{c.title}</h3><p>{c.meta}</p></Link>)}
+      <main className="cj-main">
+        <div className="cj-field" aria-hidden="true" />
+        <div className="container">
+          <header className="cj-hero">
+            <p className="cj-kicker">
+              <span className="cj-dot" />
+              KJV + APOCRYPHA <span className="cj-sep">//</span> {stats.books} BOOKS <span className="cj-sep">//</span> {n(stats.chapters)} CHAPTERS INDEXED
+            </p>
+            <h1 className="cj-title" data-text="CyberJudah">CyberJudah</h1>
+            <p className="cj-tagline">Scripture, the law, and the record of judgment — cross-referenced and queryable.</p>
+          </header>
+
+          <form
+            className="cj-search"
+            onSubmit={(e) => { e.preventDefault(); if (q.trim()) history.push(`/search?q=${encodeURIComponent(q.trim())}`); }}
+          >
+            <span className="cj-prompt" aria-hidden="true">&gt;</span>
+            <input
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              placeholder="search scripture, laws, precepts, cases, notes"
+              aria-label="search"
+              spellCheck={false}
+            />
+            <button type="submit">RUN</button>
+          </form>
+
+          <div className="cj-grid">
+            {tiles.map((t, i) => (
+              <Link key={t.to} to={t.to} className="cj-tile" data-accent={t.accent}>
+                <span className="cj-idx" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
+                <span className="cj-name">{t.title}</span>
+                <span className="cj-readout">
+                  <span className="cj-val">{t.value}</span>
+                  <span className="cj-unit">{t.unit}</span>
+                </span>
+                <span className="cj-scan" aria-hidden="true" />
+              </Link>
+            ))}
+          </div>
         </div>
       </main>
     </Layout>
