@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Colossians 2#^v8|Colossians 2:8]]
-- [[Mark 7#^v9|Mark 7:9]]
+- [[Mark 7#^v9|Mark 7:9]]  taught in [[Mark 6-9 Study Notes|Mark 6-9]]
 - [[Matthew 15#^v3|Matthew 15:3]]

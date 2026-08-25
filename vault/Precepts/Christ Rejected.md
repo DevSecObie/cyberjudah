@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Mark 8#^v31|Mark 8:31]]
+- [[Mark 8#^v31|Mark 8:31]]  taught in [[Mark 6-9 Study Notes|Mark 6-9]]
 - [[Luke 9#^v22|Luke 9:22]]
 - [[Acts 7#^v52|Acts 7:52]]  taught in [[Acts 7-8 Study Notes|Acts 7-8]]

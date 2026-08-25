@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Mark 7#^v26|Mark 7:26]]
+- [[Mark 7#^v26|Mark 7:26]]  taught in [[Mark 6-9 Study Notes|Mark 6-9]]
 - [[1 Maccabees 1#^v42|1 Maccabees 1:42]]

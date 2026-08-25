@@ -1,4 +1,4 @@
-﻿← [[Matthew 18-21 Study Notes|Matthew 18-21]] · [[Matthew Index|Matthew Study]] · [[Acts 1 Study Notes|Acts 1]] →
+﻿← [[Matthew 18-21 Study Notes|Matthew 18-21]] · [[Matthew Index|Matthew Study]] · [[Mark 6-9 Study Notes|Mark 6-9]] →
 
 # Matthew 22: The Marriage of the King's Son and the Great Commandment
 
@@ -412,5 +412,5 @@ Read the chapter → [[Matthew 25]]
 
 Topics: [[Clean and Unclean Meats]] · [[The Feasts of the Most High]] · [[The Priesthood]] · [[The Sabbath]]
 
-← [[Matthew 18-21 Study Notes|Matthew 18-21]] · [[Matthew Index|Matthew Study]] · [[Acts 1 Study Notes|Acts 1]] →
+← [[Matthew 18-21 Study Notes|Matthew 18-21]] · [[Matthew Index|Matthew Study]] · [[Mark 6-9 Study Notes|Mark 6-9]] →
 
