@@ -7,5 +7,8 @@
   "display": "standalone",
   "background_color": "#05070f",
   "theme_color": "#05070f",
-  "icons": [{ "src": "/cyberjudah/img/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+  "icons": [
+    { "src": "/cyberjudah/img/cyber-bible-icon-64.png", "sizes": "64x64", "type": "image/png", "purpose": "any" },
+    { "src": "/cyberjudah/img/cyber-bible-icon-256.png", "sizes": "256x256", "type": "image/png", "purpose": "any maskable" }
+  ]
 }

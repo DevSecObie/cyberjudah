@@ -144,19 +144,24 @@ const LINK = /(?<!!)\[\[([^\]|#]+)(?:#\^v(\d+))?(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]
 const EMBED_LINE = /^([ \t]*)!\[\[([^\]|#]+)#\^v(\d+)\]\][ \t]*$/;
 const EMBED_INLINE = /!\[\[([^\]|#]+)#\^v(\d+)\]\]/g;
 const EMBED_OTHER = /!\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g;
-for (const p of fs.readdirSync(path.join(VAULT, "Study Bible"), { withFileTypes: true }).filter((d) => d.isDirectory()))
-  for (const q of fs.readdirSync(path.join(VAULT, "Study Bible", p.name), { withFileTypes: true }).filter((d) => d.isDirectory()))
-    for (const f of fs.readdirSync(path.join(VAULT, "Study Bible", p.name, q.name)).filter((f) => f.endsWith(" Study Notes.md"))) {
+// The vault folders carry the site's own names now ("4 Chapters A Day", "Sabbath Class
+// Notes"); fall back to the older names so an un-renamed vault still builds.
+const vaultDir = (...names) => names.map((n) => path.join(VAULT, n)).find((d) => fs.existsSync(d)) ?? path.join(VAULT, names[0]);
+const STUDY_DIR = vaultDir("4 Chapters A Day", "Study Bible");
+const CLASS_DIR = vaultDir("Sabbath Class Notes", "Class Notes");
+for (const p of fs.readdirSync(STUDY_DIR, { withFileTypes: true }).filter((d) => d.isDirectory()))
+  for (const q of fs.readdirSync(path.join(STUDY_DIR, p.name), { withFileTypes: true }).filter((d) => d.isDirectory()))
+    for (const f of fs.readdirSync(path.join(STUDY_DIR, p.name, q.name)).filter((f) => f.endsWith(" Study Notes.md"))) {
       const stem = f.replace(/\.md$/, ""); const m = /^(.*?) (\d+)(?:-(\d+))? Study Notes$/.exec(stem); if (!m) continue;
       const book = resolveBook(m[1]) ?? m[1]; const a = +m[2], b = +(m[3] ?? m[2]);
-      const [meta, body] = parseFrontmatter(read(path.join(VAULT, "Study Bible", p.name, q.name, f)));
+      const [meta, body] = parseFrontmatter(read(path.join(STUDY_DIR, p.name, q.name, f)));
       const range = `${book} ${a}${b > a ? "-" + b : ""}`;
       notes.push({ kind: "study", stem, slug: `${a}${b > a ? "-" + b : ""}`, url: `/study/${bookSlug[book] ?? slug(book)}/${a}${b > a ? "-" + b : ""}`, title: meta.title || (/^# (.+)$/m.exec(body)?.[1] ?? range), book, chapters: [a, b], range, body, sidebarPos: a });
     }
-for (const y of fs.readdirSync(path.join(VAULT, "Class Notes"), { withFileTypes: true }).filter((d) => d.isDirectory()))
-  for (const f of fs.readdirSync(path.join(VAULT, "Class Notes", y.name)).filter((f) => f.endsWith(".md"))) {
+for (const y of fs.readdirSync(CLASS_DIR, { withFileTypes: true }).filter((d) => d.isDirectory()))
+  for (const f of fs.readdirSync(path.join(CLASS_DIR, y.name)).filter((f) => f.endsWith(".md"))) {
     const stem = f.replace(/\.md$/, ""); const m = /^(\d{4}-\d{2}-\d{2}) - (.*)$/.exec(stem);
-    const [meta, body] = parseFrontmatter(read(path.join(VAULT, "Class Notes", y.name, f)));
+    const [meta, body] = parseFrontmatter(read(path.join(CLASS_DIR, y.name, f)));
     const date = meta.date || m?.[1] || "";
     notes.push({ kind: "class", stem, slug: slug(stem), url: `/classes/${y.name}/${slug(stem)}`, title: meta.title || m?.[2] || stem, date, dateEstimated: meta["date-estimated"] === "true", series: meta.class || "", year: y.name, body, sidebarPos: -parseInt(date.replace(/-/g, ""), 10) || 0 });
   }

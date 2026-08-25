@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "CyberJudah",
   tagline: "KJV Study Bible with Apocrypha, study notes, class notes, encyclopedia, the law, precepts, and case studies",
-  favicon: "img/favicon.svg",
+  favicon: "img/cyber-bible-icon-64.png",
   stylesheets: [
     { href: "https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=JetBrains+Mono:wght@400;500;700&display=swap", type: "text/css" },
   ],
@@ -33,7 +33,7 @@ const config: Config = {
       debug: false,
       offlineModeActivationStrategies: ["appInstalled", "standalone", "queryString"],
       pwaHead: [
-        { tagName: "link", rel: "icon", href: "/cyberjudah/img/favicon.svg" },
+        { tagName: "link", rel: "icon", href: "/cyberjudah/img/cyber-bible-icon-64.png" },
         { tagName: "link", rel: "manifest", href: "/cyberjudah/manifest.json" },
         { tagName: "meta", name: "theme-color", content: "#05070f" },
       ],
@@ -73,7 +73,7 @@ const config: Config = {
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
     navbar: {
       title: "CyberJudah",
-      logo: { alt: "CyberJudah", src: "img/logo.svg" },
+      logo: { alt: "CyberJudah Holy Bible", src: "img/cyber-bible-icon-256.png" },
       hideOnScroll: true,
       items: [
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },

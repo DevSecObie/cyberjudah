@@ -24,6 +24,14 @@ DATA = os.path.join(HERE, "..", "data")
 DEFAULT_VAULT = os.path.abspath(os.path.join(HERE, "..", "vault"))
 
 REF_RE = re.compile(r"\[\[[^\]|]*\|([^\]]+)\]\]|\[\[([^\]|#]+)(?:#[^\]|]*)?\]\]")
+def _vault_dir(vault, *names):
+    """Vault folders were renamed to the site's own wording; accept either spelling."""
+    for n in names:
+        d = os.path.join(vault, n)
+        if os.path.isdir(d):
+            return d
+    return os.path.join(vault, names[0])
+
 def is_ref_line(line):
     """List items ('- Joshua 7:1', '- [[Joshua 7#^v1|Joshua 7:1]]') and the CyberJudah study-note
     style ('**[[Joshua 7#^v1|Joshua 7:1]]**  taught in [[...]]'). Verse embeds (![[...]]) are skipped."""
@@ -70,7 +78,7 @@ def parse_note(path):
     }
 
 def read_vault_cases(vault):
-    paths = sorted(glob.glob(os.path.join(vault, "Cases", "**", "*.md"), recursive=True))
+    paths = sorted(glob.glob(os.path.join(_vault_dir(vault, "Case Studies", "Cases"), "**", "*.md"), recursive=True))
     return [parse_note(p) for p in paths]
 
 # ---- validation --------------------------------------------------------------------------
@@ -121,7 +129,7 @@ def check(cases):
 
 if __name__ == "__main__":
     vault = os.path.abspath(sys.argv[sys.argv.index("--vault") + 1]) if "--vault" in sys.argv else DEFAULT_VAULT
-    if not os.path.isdir(os.path.join(vault, "Cases")):
+    if not os.path.isdir(_vault_dir(vault, "Case Studies", "Cases")):
         sys.stderr.write(f"no vault at {vault}; run scripts/build_vault.py first\n"); sys.exit(1)
     CASES = read_vault_cases(vault)
     errs = check(CASES)

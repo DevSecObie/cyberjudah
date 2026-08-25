@@ -36,6 +36,21 @@ BIBLE_INDEX = json.load(open(os.path.join(DATA, "bible", "index.json")))
 
 GEN = "> [!info]- Generated\n> This note is built from the source data by `scripts/build_vault.py` and is overwritten on every run. Put your own notes in a separate file and link here.\n\n"
 
+def _pick_dirname(root, *names):
+    """Vault folders were renamed to the site's own wording; accept either spelling."""
+    for n in names:
+        if os.path.isdir(os.path.join(root, n)):
+            return n
+    return names[0]
+
+
+def _study_dirname(root):
+    return _pick_dirname(root, "4 Chapters A Day", "Study Bible")
+
+
+def _cases_dirname(root):
+    return _pick_dirname(root, "Case Studies", "Cases")
+
 def safe(name):  # Obsidian filename
     return re.sub(r'[\\/:*?"<>|]', "-", name).strip()
 
@@ -100,7 +115,7 @@ def verse_embeds(r, cap=8):
 STUDY = {}      # (book, chapter) -> ("Judges 5-8 Study Notes", "Judges 5-8")
 LEXICON = []    # [(topic, [terms])]
 def load_cj(root):
-    for path in glob.glob(os.path.join(root, "Study Bible", "*", "*", "* Study Notes.md")):
+    for path in glob.glob(os.path.join(root, _study_dirname(root), "*", "*", "* Study Notes.md")):
         stem = os.path.splitext(os.path.basename(path))[0]
         m = re.match(r"^(.*?) (\d+)(?:-(\d+))? Study Notes$", stem)
         if not m: continue
@@ -234,7 +249,7 @@ def seed_cases():
             + cases_exile.CASES + cases_apocrypha.CASES + cases_apostolic.CASES)
     n = 0
     for c in allc:
-        path = os.path.join(VAULT, "Cases", era_folder(c["era"]), case_note_name(c) + ".md")
+        path = os.path.join(VAULT, _cases_dirname(VAULT), era_folder(c["era"]), case_note_name(c) + ".md")
         if os.path.exists(path) and not FORCE_CASES: continue
         write(path, case_note_text(c)); n += 1
     return n
