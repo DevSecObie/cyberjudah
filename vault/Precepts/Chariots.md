@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 68#^v17|Psalms 68:17]]
-- [[Psalms 104#^v3|Psalms 104:3]]
-- [[Isaiah 66#^v15|Isaiah 66:15]]
-- [[Acts 1#^v9|Acts 1:9]]
+- [[Psalms 68#^v17|Psalms 68:17]]  taught in [[Psalms 67-70 Study Notes|Psalms 67-70]]
+- [[Psalms 104#^v3|Psalms 104:3]]  taught in [[Psalms 103-106 Study Notes|Psalms 103-106]]
+- [[Isaiah 66#^v15|Isaiah 66:15]]  taught in [[Isaiah 66 Study Notes|Isaiah 66]]
+- [[Acts 1#^v9|Acts 1:9]]  taught in [[Acts 1 Study Notes|Acts 1]]

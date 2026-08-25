@@ -14,8 +14,8 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 3#^v2|Romans 3:2]]
-- [[2 Samuel 16#^v23|2 Samuel 16:23]]
+- [[2 Samuel 16#^v23|2 Samuel 16:23]]  taught in [[2 Samuel 13-16 Study Notes|2 Samuel 13-16]]
 - [[1 Peter 4#^v11|1 Peter 4:11]]
 - [[Ecclesiasticus 33#^v3|Sirach 33:3]]
 - [[Ecclesiasticus 36#^v14|Sirach 36:14]]
-- [[Acts 7#^v38|Acts 7:38]]
+- [[Acts 7#^v38|Acts 7:38]]  taught in [[Acts 7-8 Study Notes|Acts 7-8]]

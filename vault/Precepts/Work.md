@@ -16,6 +16,6 @@ tags: [precept]
 - [[1 Thessalonians 4#^v11|1 Thessalonians 4:11]]
 - [[2 Thessalonians 3#^v10|2 Thessalonians 3:10]] **(key)**
 - [[Ephesians 4#^v28|Ephesians 4:28]]
-- [[Proverbs 10#^v4|Proverbs 10:4]]
+- [[Proverbs 10#^v4|Proverbs 10:4]]  taught in [[Proverbs 9-12 Study Notes|Proverbs 9-12]]
 - [[Ecclesiasticus 7#^v15|Sirach 7:15]]
 - [[Ecclesiasticus 38#^v25|Sirach 38:25]]

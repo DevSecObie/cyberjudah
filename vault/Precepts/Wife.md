@@ -15,7 +15,7 @@ tags: [precept]
 
 - [[Ephesians 5#^v22|Ephesians 5:22]]
 - [[1 Corinthians 11#^v9|1 Corinthians 11:9]]
-- [[Proverbs 18#^v22|Proverbs 18:22]]
+- [[Proverbs 18#^v22|Proverbs 18:22]]  taught in [[Proverbs 17-20 Study Notes|Proverbs 17-20]]
 - [[Ecclesiasticus 7#^v26|Sirach 7:26]]
 - [[Ecclesiasticus 26#^v3|Sirach 26:3]]
 - [[Ecclesiasticus 26#^v13|Sirach 26:13]]

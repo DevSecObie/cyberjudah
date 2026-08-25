@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 1#^v16|Isaiah 1:16]]
-- [[Jeremiah 2#^v22|Jeremiah 2:22]]
-- [[Jeremiah 4#^v14|Jeremiah 4:14]]
+- [[Isaiah 1#^v16|Isaiah 1:16]]  taught in [[Isaiah 1 Study Notes|Isaiah 1]]
+- [[Jeremiah 2#^v22|Jeremiah 2:22]]  taught in [[Jeremiah 1-3 Study Notes|Jeremiah 1-3]]
+- [[Jeremiah 4#^v14|Jeremiah 4:14]]  taught in [[Jeremiah 4-7 Study Notes|Jeremiah 4-7]]

@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Joel 3#^v2|Joel 3:2]]
-- [[Isaiah 3#^v13|Isaiah 3:13]]
-- [[Isaiah 66#^v16|Isaiah 66:16]]
-- [[Ezekiel 20#^v36|Ezekiel 20:36]]
+- [[Joel 3#^v2|Joel 3:2]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
+- [[Isaiah 3#^v13|Isaiah 3:13]]  taught in [[Isaiah 2-5 Study Notes|Isaiah 2-5]]
+- [[Isaiah 66#^v16|Isaiah 66:16]]  taught in [[Isaiah 66 Study Notes|Isaiah 66]]
+- [[Ezekiel 20#^v36|Ezekiel 20:36]]  taught in [[Ezekiel 19-22 Study Notes|Ezekiel 19-22]]

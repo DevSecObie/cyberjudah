@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Ezekiel 37#^v24|Ezekiel 37:24]]
+- [[Ezekiel 37#^v24|Ezekiel 37:24]]  taught in [[Ezekiel 35-38 Study Notes|Ezekiel 35-38]]
 - [[Luke 1#^v32|Luke 1:32]]

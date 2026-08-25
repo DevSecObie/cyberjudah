@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Jeremiah 3#^v16|Jeremiah 3:16]]
+- [[Jeremiah 3#^v16|Jeremiah 3:16]]  taught in [[Jeremiah 1-3 Study Notes|Jeremiah 1-3]]
 - [[2 Maccabees 2#^v4|2 Maccabees 2:4]]

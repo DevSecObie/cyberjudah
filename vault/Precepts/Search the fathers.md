@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Romans 15#^v4|Romans 15:4]]
 - [[Deuteronomy 32#^v7|Deuteronomy 32:7]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
-- [[Job 8#^v8|Job 8:8]]
+- [[Job 8#^v8|Job 8:8]]  taught in [[Job 5-8 Study Notes|Job 5-8]]
 - [[Ecclesiasticus 2#^v10|Sirach 2:10]]
 - [[1 Maccabees 2#^v51|1 Maccabees 2:51]]

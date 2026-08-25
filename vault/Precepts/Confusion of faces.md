@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Baruch 1#^v15|Baruch 1:15]]
-- [[Daniel 9#^v7|Daniel 9:7]]
+- [[Daniel 9#^v7|Daniel 9:7]]  taught in [[Daniel 7-10 Study Notes|Daniel 7-10]]

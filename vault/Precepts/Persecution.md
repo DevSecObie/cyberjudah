@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[2 Timothy 3#^v12|2 Timothy 3:12]]
-- [[Psalms 10#^v2|Psalms 10:2]]
+- [[Psalms 10#^v2|Psalms 10:2]]  taught in [[Psalms 7-10 Study Notes|Psalms 7-10]]
 - [[2 Corinthians 12#^v10|2 Corinthians 12:10]]
 - [[John 15#^v20|John 15:20]]
 - [[Revelation 12#^v13|Revelation 12:13]]

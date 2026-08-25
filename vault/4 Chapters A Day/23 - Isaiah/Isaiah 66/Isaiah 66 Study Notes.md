@@ -1,0 +1,121 @@
+﻿← [[Isaiah 62-65 Study Notes|Isaiah 62-65]] · [[Isaiah Index|Isaiah Study]] · [[Jeremiah 1-3 Study Notes|Jeremiah 1-3]] →
+
+# Isaiah 66: The Most High's Throne, Zion's Travail, and Judgment by Fire
+
+Read the chapter → [[Isaiah 66]]
+
+This session reads [[Isaiah 66|Isaiah 66]], the last chapter of Isaiah, as part of a four-chapters-a-day reading that continues into [[Jeremiah 1|Jeremiah 1]] through 3. The teacher works through the chapter in verse order: the Most High declares that heaven is his throne and earth his footstool and that he looks to the man of a contrite spirit; Israel is shown backsliding into idolatry and abomination; the brethren who tremble at his word are hated and cast out by their own family; Zion travails and brings forth her children as Israel wakes up in multitudes; the Lord comes with fire and his chariots to plead with all flesh; and the chapter closes with the gathering of the nations to see his glory, the setting up of priests and Levites, the new heavens and new earth, and the carcasses of those who transgressed.
+
+**[[Isaiah 66#^v1|Isaiah 66:1-2]]**
+
+![[Isaiah 66#^v1]]
+![[Isaiah 66#^v2]]
+
+- The Most High says heaven is his throne and the earth is his footstool, and he asks where is the house that could be built for him and where is the place of his rest, for his hand has made all those things.
+- He looks to the man that is poor and of a contrite spirit and that trembles at his word. The Most High is always looking for the men and women with a contrite spirit, those who repent deeply, who tremble at the judgments and are going to do what this bible says to do.
+
+**[[Isaiah 66#^v3|Isaiah 66:3]]**
+
+![[Isaiah 66#^v3]]
+
+- He that kills an ox is as if he slew a man, he that sacrifices a lamb as if he cut off a dog's neck, he that offers an oblation as if he offered swine's blood, and he that burns incense as if he blessed an idol; they have chosen their own ways and their soul delights in their abominations.
+- This is Israel starting to backslide from the Most High and going into idolatry.
+
+**[[Isaiah 66#^v4|Isaiah 66:4]]**
+
+![[Isaiah 66#^v4]]
+
+- The Most High says he will also choose their delusion and bring their fears upon them, because when he called none did answer and when he spoke they did not hear.
+- This means the Most High sends his prophets out to go teach. You hear "thus saith the Lord" from the prophets, but many of our people do not hear today; they do not want to repent. This is just history happening all over again.
+
+**[[Isaiah 66#^v5|Isaiah 66:5]]**
+
+![[Isaiah 66#^v5]]
+
+- Hear the word of the Lord, ye that tremble at his word. Those that keep the Most High's laws tremble at the judgments, and that is why we keep the laws and do what this bible says.
+- Their brethren that hated them and cast them out for his name's sake said, let the Lord be glorified, but he shall appear to their joy and they, the enemies, shall be ashamed, meaning they shall die.
+- Many of our people try to cleave onto their own family members, but when you do what this bible says, they hate you, because they hate the Most High and they hate his laws.
+
+**[[Isaiah 66#^v6|Isaiah 66:6]]**
+
+![[Isaiah 66#^v6]]
+
+- A voice of noise from the city, a voice from the temple, a voice of the Lord that renders recompense to his enemies. This is the big payback.
+
+**[[Isaiah 66#^v7|Isaiah 66:7-9]]**
+
+![[Isaiah 66#^v7]]
+![[Isaiah 66#^v8]]
+![[Isaiah 66#^v9]]
+
+- Before she travailed she brought forth, and before her pain came she was delivered of a man child. The Most High asks who has heard such a thing, whether the earth can be made to bring forth in one day or a nation be born at once, for as soon as Zion travailed she brought forth her children.
+- This means Israel is waking up at a multiple rate all at one time, bringing forth the waking of Israel.
+- He asks whether he would bring to the birth and not cause to bring forth, or cause to bring forth and shut the womb; the Most High finishes what he begins.
+
+**[[Isaiah 66#^v10|Isaiah 66:10-14]]**
+
+![[Isaiah 66#^v10]]
+![[Isaiah 66#^v11]]
+![[Isaiah 66#^v12]]
+![[Isaiah 66#^v13]]
+![[Isaiah 66#^v14]]
+
+- Rejoice with Jerusalem and be glad with her, all ye that love her, that ye may suck and be satisfied with the breast of her consolation and be delighted with the abundance of her glory.
+- The Most High will extend peace to her like a river and the glory of the Gentiles like a flowing stream, and as one whom his mother comforts, so will he comfort her, and when you see this your heart shall rejoice and your bones shall flourish like an herb.
+- The hand of the Lord shall be known toward his servants and his indignation toward his enemies. It is a twofold thing: in that day you will know who the servants of the Most High are, and you will see the indignation of what the Lord is doing to the enemies.
+
+**[[Isaiah 66#^v15|Isaiah 66:15-16]]**
+
+![[Isaiah 66#^v15]]
+![[Isaiah 66#^v16]]
+
+- Behold, the Lord will come with fire and with his chariots like a whirlwind, to render his anger with fury and his rebuke with flames of fire. The chariots are what people call UFOs today, but they are the chariots of the Most High.
+- By fire and by his sword will the Lord plead with all flesh, and the slain of the Lord shall be many. That is how he pleads, meaning he is going to kill you, because many of our people and many in the nations have not done what this bible says to do.
+
+**[[Isaiah 66#^v17|Isaiah 66:17]]**
+
+![[Isaiah 66#^v17]]
+
+- They that sanctify themselves and purify themselves in the gardens behind one tree in the midst, eating swine's flesh, together with the abomination and the mouse, shall be consumed together. The mouse points to that mouse family, the possum and the raccoon, that our people eat.
+- These are the ones today who say they are holier than thou, "I know that bible, you can't tell me anything," while they are straight in idolatry. They do not know anything about the bible but they think they are holier than thou.
+
+**[[Isaiah 66#^v18|Isaiah 66:18]]**
+
+![[Isaiah 66#^v18]]
+
+- The Most High knows their works and their thoughts, and it shall come that he will gather all nations and tongues, and they shall come and see his glory.
+- The glory of the Most High is Israel, his servants, the ones keeping his laws; the nations and the enemies of the Most High shall see those Israelites rising.
+  - **[[Isaiah 46#^v13|Isaiah 46:13]]**
+    ![[Isaiah 46#^v13]]
+    The glory of the Most High is Israel, his servants who keep his laws.
+
+**[[Isaiah 66#^v19|Isaiah 66:19-20]]**
+
+![[Isaiah 66#^v19]]
+![[Isaiah 66#^v20]]
+
+- He will set a sign among them and send those that escape to the nations, to Tarshish, Pul, and Lud, to Tubal and Javan, and to the isles afar off that have not heard his fame nor seen his glory, and they shall declare his glory among the Gentiles.
+- They shall bring all your brethren for an offering unto the Lord out of all nations, upon horses, in chariots, in litters, upon mules, and upon swift beasts to his holy mountain Jerusalem. The brethren is us; the Gentiles are going to carry us to where we need to go.
+
+**[[Isaiah 66#^v21|Isaiah 66:21-23]]**
+
+![[Isaiah 66#^v21]]
+![[Isaiah 66#^v22]]
+![[Isaiah 66#^v23]]
+
+- The Most High will take of them for priests and for Levites. As the new heavens and the new earth which he will make shall remain before him, so shall your seed and your name remain.
+- It shall come to pass that from one new moon to another and from one sabbath to another, all flesh shall come to worship before him.
+
+**[[Isaiah 66#^v24|Isaiah 66:24]]**
+
+![[Isaiah 66#^v24]]
+
+- They shall go forth and look upon the carcasses of the men that have transgressed against him, for their worm shall not die, neither shall their fire be quenched, and they shall be an abhorring unto all flesh.
+- This means you are going to be physically dead but not really dead; if you do not repent, you will still be feeling that fire and those worms spiritually.
+
+---
+
+Topics: [[Clean and Unclean Meats]] · [[Idolatry]] · [[Sacrifice and Atonement]] · [[The Feasts of the Most High]] · [[The Priesthood]] · [[The Sabbath]]
+
+← [[Isaiah 62-65 Study Notes|Isaiah 62-65]] · [[Isaiah Index|Isaiah Study]] · [[Jeremiah 1-3 Study Notes|Jeremiah 1-3]] →
+

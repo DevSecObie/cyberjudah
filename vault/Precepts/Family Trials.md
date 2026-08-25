@@ -15,7 +15,7 @@ tags: [precept]
 
 - [[Micah 7#^v6|Micah 7:6]]
 - [[Genesis 21#^v10|Genesis 21:10]]  taught in [[Genesis 21-24 Study Notes|Genesis 21-24]]
-- [[2 Samuel 6#^v20|2 Samuel 6:20]]
+- [[2 Samuel 6#^v20|2 Samuel 6:20]]  taught in [[2 Samuel 5-8 Study Notes|2 Samuel 5-8]]
 - [[Mark 3#^v35|Mark 3:35]]
 - [[Mark 10#^v29|Mark 10:29]]
 - [[Ecclesiasticus 25#^v22|Sirach 25:22]]

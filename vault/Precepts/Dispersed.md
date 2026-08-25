@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Zephaniah 3#^v10|Zephaniah 3:10]]
-- [[Isaiah 11#^v12|Isaiah 11:12]]
+- [[Isaiah 11#^v12|Isaiah 11:12]]  taught in [[Isaiah 10-13 Study Notes|Isaiah 10-13]]
 - [[Tobit 3#^v4|Tobit 3:4]]
-- [[Ezekiel 36#^v19|Ezekiel 36:19]]
+- [[Ezekiel 36#^v19|Ezekiel 36:19]]  taught in [[Ezekiel 35-38 Study Notes|Ezekiel 35-38]]
 - [[John 7#^v35|John 7:35]]

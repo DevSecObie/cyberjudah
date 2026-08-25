@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Zechariah 8#^v7|Zechariah 8:7]]
-- [[Isaiah 43#^v5|Isaiah 43:5]]
+- [[Isaiah 43#^v5|Isaiah 43:5]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]
 - [[Matthew 8#^v11|Matthew 8:11]]

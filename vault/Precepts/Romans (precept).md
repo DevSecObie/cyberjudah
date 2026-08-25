@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 1#^v7|Romans 1:7]]
-- [[Acts 2#^v10|Acts 2:10]]
+- [[Acts 2#^v10|Acts 2:10]]  taught in [[Acts 2 Study Notes|Acts 2]]
 - [[Acts 18#^v2|Acts 18:2]]

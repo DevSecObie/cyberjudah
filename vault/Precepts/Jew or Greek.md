@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Joel 3#^v6|Joel 3:6]]
+- [[Joel 3#^v6|Joel 3:6]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
 - [[Galatians 3#^v28|Galatians 3:28]]
 - [[2 Maccabees 4#^v15|2 Maccabees 4:15]]
 - [[2 Maccabees 6#^v6|2 Maccabees 6:6]]

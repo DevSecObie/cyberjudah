@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 148#^v14|Psalms 148:14]]
+- [[Psalms 148#^v14|Psalms 148:14]]  taught in [[Psalms 147-150 Study Notes|Psalms 147-150]]
 - [[Luke 1#^v69|Luke 1:69]]

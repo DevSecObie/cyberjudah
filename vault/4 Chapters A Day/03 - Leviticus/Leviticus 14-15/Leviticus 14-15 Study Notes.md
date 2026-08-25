@@ -1,4 +1,4 @@
-﻿← [[Leviticus 10-13 Study Notes|Leviticus 10-13]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 18-21 Study Notes|Leviticus 18-21]] →
+﻿← [[Leviticus 10-13 Study Notes|Leviticus 10-13]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 16-17 Study Notes|Leviticus 16-17]] →
 
 # Leviticus 14: The Law of the Leper in the Day of His Cleansing
 
@@ -215,5 +215,5 @@ Read the chapter → [[Leviticus 15]]
 
 Topics: [[Clean and Unclean Meats]] · [[Sacrifice and Atonement]] · [[The Priesthood]] · [[The Sabbath]]
 
-← [[Leviticus 10-13 Study Notes|Leviticus 10-13]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 18-21 Study Notes|Leviticus 18-21]] →
+← [[Leviticus 10-13 Study Notes|Leviticus 10-13]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 16-17 Study Notes|Leviticus 16-17]] →
 

@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 28#^v10|Isaiah 28:10]]
-- [[Psalms 119#^v27|Psalms 119:27]]
-- [[Psalms 119#^v100|Psalms 119:100]]
-- [[Psalms 119#^v104|Psalms 119:104]]
+- [[Isaiah 28#^v10|Isaiah 28:10]]  taught in [[Isaiah 26-29 Study Notes|Isaiah 26-29]]
+- [[Psalms 119#^v27|Psalms 119:27]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]
+- [[Psalms 119#^v100|Psalms 119:100]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]
+- [[Psalms 119#^v104|Psalms 119:104]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]

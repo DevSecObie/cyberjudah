@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 32#^v33|Deuteronomy 32:33]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
-- [[Job 30#^v29|Job 30:29]]
+- [[Job 30#^v29|Job 30:29]]  taught in [[Job 29-32 Study Notes|Job 29-32]]
 - [[Revelation 12#^v3|Revelation 12:3]]
 - [[Revelation 12#^v9|Revelation 12:9]]

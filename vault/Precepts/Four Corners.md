@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Deuteronomy 22#^v12|Deuteronomy 22:12]]  taught in [[Deuteronomy 19-22 Study Notes|Deuteronomy 19-22]]
 - [[Deuteronomy 32#^v26|Deuteronomy 32:26]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
-- [[Isaiah 11#^v12|Isaiah 11:12]]
-- [[Acts 10#^v11|Acts 10:11]]
+- [[Isaiah 11#^v12|Isaiah 11:12]]  taught in [[Isaiah 10-13 Study Notes|Isaiah 10-13]]
+- [[Acts 10#^v11|Acts 10:11]]  taught in [[Acts 10 Study Notes|Acts 10]]

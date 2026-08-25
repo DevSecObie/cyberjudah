@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Exodus 12#^v2|Exodus 12:2]]  taught in [[Exodus 10-13 Study Notes|Exodus 10-13]]
 - [[Exodus 13#^v4|Exodus 13:4]]  taught in [[Exodus 10-13 Study Notes|Exodus 10-13]]
-- [[Esther 3#^v7|Esther 3:7]]
+- [[Esther 3#^v7|Esther 3:7]]  taught in [[Esther 2-5 Study Notes|Esther 2-5]]
 - [[Deuteronomy 16#^v1|Deuteronomy 16:1]]  taught in [[Deuteronomy 15-18 Study Notes|Deuteronomy 15-18]]
 - [[1 Esdras 5#^v6|1 Esdras 5:6]]

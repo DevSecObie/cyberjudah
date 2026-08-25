@@ -13,12 +13,12 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Joel 2#^v27|Joel 2:27]]
+- [[Joel 2#^v27|Joel 2:27]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
 - [[Exodus 3#^v6|Exodus 3:6]]  taught in [[Exodus 2-5 Study Notes|Exodus 2-5]]
 - [[Deuteronomy 32#^v9|Deuteronomy 32:9]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
-- [[Jeremiah 51#^v19|Jeremiah 51:19]]
+- [[Jeremiah 51#^v19|Jeremiah 51:19]]  taught in [[Jeremiah 48-51 Study Notes|Jeremiah 48-51]]
 - [[Matthew 22#^v32|Matthew 22:32]]
 - [[2 Maccabees 1#^v2|2 Maccabees 1:2]]
 - [[Luke 1#^v68|Luke 1:68]]
 - [[John 3#^v16|John 3:16]]
-- [[Acts 7#^v32|Acts 7:32]]
+- [[Acts 7#^v32|Acts 7:32]]  taught in [[Acts 7-8 Study Notes|Acts 7-8]]

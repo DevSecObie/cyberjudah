@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Amos 1#^v11|Amos 1:11]]
-- [[Ezekiel 35#^v5|Ezekiel 35:5]]
+- [[Amos 1#^v11|Amos 1:11]]  taught in [[Amos 1 Study Notes|Amos 1]]
+- [[Ezekiel 35#^v5|Ezekiel 35:5]]  taught in [[Ezekiel 35-38 Study Notes|Ezekiel 35-38]]

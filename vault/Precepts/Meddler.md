@@ -13,8 +13,8 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Proverbs 20#^v19|Proverbs 20:19]]
-- [[Proverbs 24#^v21|Proverbs 24:21]]
-- [[Proverbs 26#^v17|Proverbs 26:17]]
+- [[Proverbs 20#^v19|Proverbs 20:19]]  taught in [[Proverbs 17-20 Study Notes|Proverbs 17-20]]
+- [[Proverbs 24#^v21|Proverbs 24:21]]  taught in [[Proverbs 21-24 Study Notes|Proverbs 21-24]]
+- [[Proverbs 26#^v17|Proverbs 26:17]]  taught in [[Proverbs 25-28 Study Notes|Proverbs 25-28]]
 - [[2 Esdras 16#^v67|2 Esdras 16:67]]
 - [[Ecclesiasticus 11#^v10|Sirach 11:10]]

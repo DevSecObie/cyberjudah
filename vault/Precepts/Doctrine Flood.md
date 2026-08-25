@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 59#^v19|Isaiah 59:19]]
+- [[Isaiah 59#^v19|Isaiah 59:19]]  taught in [[Isaiah 58-61 Study Notes|Isaiah 58-61]]
 - [[Revelation 12#^v15|Revelation 12:15]]

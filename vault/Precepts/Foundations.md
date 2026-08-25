@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 11#^v3|Psalms 11:3]]
-- [[Psalms 82#^v5|Psalms 82:5]]
+- [[Psalms 11#^v3|Psalms 11:3]]  taught in [[Psalms 11-14 Study Notes|Psalms 11-14]]
+- [[Psalms 82#^v5|Psalms 82:5]]  taught in [[Psalms 79-82 Study Notes|Psalms 79-82]]
 - [[Hebrews 6#^v1|Hebrews 6:1]]

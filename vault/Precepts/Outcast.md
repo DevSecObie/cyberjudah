@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 11#^v2|Romans 11:2]]
-- [[Psalms 147#^v2|Psalms 147:2]]
-- [[Isaiah 11#^v12|Isaiah 11:12]]
-- [[Isaiah 56#^v8|Isaiah 56:8]]
-- [[2 Kings 23#^v27|2 Kings 23:27]]
+- [[Psalms 147#^v2|Psalms 147:2]]  taught in [[Psalms 147-150 Study Notes|Psalms 147-150]]
+- [[Isaiah 11#^v12|Isaiah 11:12]]  taught in [[Isaiah 10-13 Study Notes|Isaiah 10-13]]
+- [[Isaiah 56#^v8|Isaiah 56:8]]  taught in [[Isaiah 54-57 Study Notes|Isaiah 54-57]]
+- [[2 Kings 23#^v27|2 Kings 23:27]]  taught in [[2 Kings 23-25 Study Notes|2 Kings 23-25]]

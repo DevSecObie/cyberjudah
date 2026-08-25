@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 19#^v7|Psalms 19:7]]
+- [[Psalms 19#^v7|Psalms 19:7]]  taught in [[Psalms 19-22 Study Notes|Psalms 19-22]]
 - [[Matthew 13#^v15|Matthew 13:15]]
 - [[Matthew 18#^v3|Matthew 18:3]]
-- [[Acts 3#^v19|Acts 3:19]]
+- [[Acts 3#^v19|Acts 3:19]]  taught in [[Acts 3 Study Notes|Acts 3]]

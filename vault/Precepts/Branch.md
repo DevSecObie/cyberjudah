@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 11#^v24|Romans 11:24]]
-- [[Isaiah 4#^v2|Isaiah 4:2]]
-- [[Jeremiah 23#^v5|Jeremiah 23:5]]
+- [[Isaiah 4#^v2|Isaiah 4:2]]  taught in [[Isaiah 2-5 Study Notes|Isaiah 2-5]]
+- [[Jeremiah 23#^v5|Jeremiah 23:5]]  taught in [[Jeremiah 20-23 Study Notes|Jeremiah 20-23]]
 - [[John 15#^v5|John 15:5]]

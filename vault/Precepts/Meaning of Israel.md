@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Genesis 25#^v26|Genesis 25:26]]  taught in [[Genesis 24-27 Study Notes|Genesis 24-27]]
 - [[Genesis 32#^v28|Genesis 32:28]]  taught in [[Genesis 32-35 Study Notes|Genesis 32-35]]
-- [[Hosea 12#^v3|Hosea 12:3]]
+- [[Hosea 12#^v3|Hosea 12:3]]  taught in [[Hosea 11-14 Study Notes|Hosea 11-14]]

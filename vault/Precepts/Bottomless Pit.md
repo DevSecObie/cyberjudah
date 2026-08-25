@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 24#^v22|Isaiah 24:22]]
+- [[Isaiah 24#^v22|Isaiah 24:22]]  taught in [[Isaiah 22-25 Study Notes|Isaiah 22-25]]
 - [[Revelation 20#^v3|Revelation 20:3]]

@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Lamentations 4#^v18|Lamentations 4:18]]
-- [[Hosea 5#^v15|Hosea 5:15]]
-- [[Isaiah 42#^v22|Isaiah 42:22]]
+- [[Lamentations 4#^v18|Lamentations 4:18]]  taught in [[Lamentations 4-5 Study Notes|Lamentations 4-5]]
+- [[Hosea 5#^v15|Hosea 5:15]]  taught in [[Hosea 3-10 Study Notes|Hosea 3-10]]
+- [[Isaiah 42#^v22|Isaiah 42:22]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]

@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Colossians 1#^v15|Colossians 1:15]]
 - [[Numbers 12#^v8|Numbers 12:8]]  taught in [[Numbers 11-14 Study Notes|Numbers 11-14]]
-- [[Hosea 12#^v10|Hosea 12:10]]
+- [[Hosea 12#^v10|Hosea 12:10]]  taught in [[Hosea 11-14 Study Notes|Hosea 11-14]]
 - [[John 14#^v9|John 14:9]]

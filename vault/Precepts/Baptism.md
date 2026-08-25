@@ -15,7 +15,7 @@ tags: [precept]
 
 - [[1 Peter 3#^v21|1 Peter 3:21]]
 - [[1 Corinthians 10#^v2|1 Corinthians 10:2]]
-- [[Jeremiah 2#^v22|Jeremiah 2:22]]
+- [[Jeremiah 2#^v22|Jeremiah 2:22]]  taught in [[Jeremiah 1-3 Study Notes|Jeremiah 1-3]]
 - [[Matthew 3#^v6|Matthew 3:6]]
 - [[Matthew 3#^v11|Matthew 3:11]]
 - [[John 3#^v30|John 3:30]]

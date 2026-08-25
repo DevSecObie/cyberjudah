@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Numbers 12#^v8|Numbers 12:8]]  taught in [[Numbers 11-14 Study Notes|Numbers 11-14]]
-- [[Job 11#^v6|Job 11:6]]
+- [[Job 11#^v6|Job 11:6]]  taught in [[Job 9-12 Study Notes|Job 9-12]]
 - [[Matthew 13#^v35|Matthew 13:35]]

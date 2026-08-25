@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Exodus 20#^v12|Exodus 20:12]]  taught in [[Exodus 18-21 Study Notes|Exodus 18-21]]
 - [[Ephesians 6#^v3|Ephesians 6:3]]
-- [[Proverbs 3#^v2|Proverbs 3:2]]
+- [[Proverbs 3#^v2|Proverbs 3:2]]  taught in [[Proverbs 1-4 Study Notes|Proverbs 1-4]]
 - [[Ecclesiasticus 3#^v8|Sirach 3:8]]

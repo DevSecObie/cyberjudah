@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 5#^v11|Romans 5:11]]
-- [[Leviticus 16#^v29|Leviticus 16:29]]
+- [[Leviticus 16#^v29|Leviticus 16:29]]  taught in [[Leviticus 16-17 Study Notes|Leviticus 16-17]]
 - [[Leviticus 23#^v27|Leviticus 23:27]]  taught in [[Leviticus 22-25 Study Notes|Leviticus 22-25]]
 - [[Acts 27#^v9|Acts 27:9]]

@@ -14,8 +14,8 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Exodus 19#^v6|Exodus 19:6]]  taught in [[Exodus 18-21 Study Notes|Exodus 18-21]]
-- [[1 Chronicles 28#^v5|1 Chronicles 28:5]]
+- [[1 Chronicles 28#^v5|1 Chronicles 28:5]]  taught in [[1 Chronicles 26-29 Study Notes|1 Chronicles 26-29]]
 - [[Matthew 11#^v12|Matthew 11:12]]
 - [[Matthew 25#^v34|Matthew 25:34]]
 - [[Luke 22#^v30|Luke 22:30]]
-- [[Acts 1#^v6|Acts 1:6]]
+- [[Acts 1#^v6|Acts 1:6]]  taught in [[Acts 1 Study Notes|Acts 1]]

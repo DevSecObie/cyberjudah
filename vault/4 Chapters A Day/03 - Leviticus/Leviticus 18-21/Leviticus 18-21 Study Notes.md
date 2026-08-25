@@ -1,4 +1,4 @@
-﻿← [[Leviticus 14-15 Study Notes|Leviticus 14-15]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 22-25 Study Notes|Leviticus 22-25]] →
+﻿← [[Leviticus 16-17 Study Notes|Leviticus 16-17]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 22-25 Study Notes|Leviticus 22-25]] →
 
 # Leviticus 18: After the Doings of Egypt and Canaan Shall Ye Not Do
 
@@ -566,5 +566,5 @@ Read the chapter → [[Leviticus 21]]
 
 Topics: [[Clean and Unclean Meats]] · [[Idolatry]] · [[Sacrifice and Atonement]] · [[The Covenant]] · [[The Feasts of the Most High]] · [[The Priesthood]] · [[The Sabbath]]
 
-← [[Leviticus 14-15 Study Notes|Leviticus 14-15]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 22-25 Study Notes|Leviticus 22-25]] →
+← [[Leviticus 16-17 Study Notes|Leviticus 16-17]] · [[Leviticus Index|Leviticus Study]] · [[Leviticus 22-25 Study Notes|Leviticus 22-25]] →
 

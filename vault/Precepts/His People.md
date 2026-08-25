@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 83#^v3|Psalms 83:3]]
+- [[Psalms 83#^v3|Psalms 83:3]]  taught in [[Psalms 83-86 Study Notes|Psalms 83-86]]
 - [[Matthew 1#^v21|Matthew 1:21]]
 - [[Matthew 2#^v6|Matthew 2:6]]
 - [[Luke 1#^v68|Luke 1:68]]

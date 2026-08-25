@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[2 Timothy 3#^v16|2 Timothy 3:16]]
 - [[Romans 15#^v4|Romans 15:4]]
-- [[Psalms 68#^v11|Psalms 68:11]]
+- [[Psalms 68#^v11|Psalms 68:11]]  taught in [[Psalms 67-70 Study Notes|Psalms 67-70]]
 - [[2 Peter 1#^v21|2 Peter 1:21]]

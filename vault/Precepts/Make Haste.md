@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Ecclesiasticus 5#^v7|Sirach 5:7]]
 - [[Matthew 9#^v9|Matthew 9:9]]
-- [[Psalms 119#^v60|Psalms 119:60]]
+- [[Psalms 119#^v60|Psalms 119:60]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]

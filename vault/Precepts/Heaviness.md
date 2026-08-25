@@ -13,8 +13,8 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Proverbs 12#^v25|Proverbs 12:25]]
+- [[Proverbs 12#^v25|Proverbs 12:25]]  taught in [[Proverbs 9-12 Study Notes|Proverbs 9-12]]
 - [[2 Esdras 10#^v24|2 Esdras 10:24]]
 - [[Ecclesiasticus 30#^v21|Sirach 30:21]]
 - [[Ecclesiasticus 38#^v18|Sirach 38:18]]
-- [[Psalms 119#^v28|Psalms 119:28]]
+- [[Psalms 119#^v28|Psalms 119:28]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]

@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Ecclesiastes 12#^v13|Ecclesiastes 12:13]]
+- [[Ecclesiastes 12#^v13|Ecclesiastes 12:13]]  taught in [[Ecclesiastes 10-12 Study Notes|Ecclesiastes 10-12]]
 - [[Deuteronomy 8#^v6|Deuteronomy 8:6]]  taught in [[Deuteronomy 7-10 Study Notes|Deuteronomy 7-10]]
 - [[Deuteronomy 10#^v12|Deuteronomy 10:12]]  taught in [[Deuteronomy 7-10 Study Notes|Deuteronomy 7-10]]

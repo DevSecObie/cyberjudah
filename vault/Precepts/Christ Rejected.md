@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Mark 8#^v31|Mark 8:31]]
 - [[Luke 9#^v22|Luke 9:22]]
-- [[Acts 7#^v52|Acts 7:52]]
+- [[Acts 7#^v52|Acts 7:52]]  taught in [[Acts 7-8 Study Notes|Acts 7-8]]

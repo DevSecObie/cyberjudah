@@ -18,5 +18,5 @@ tags: [precept]
 - [[Romans 7#^v12|Romans 7:12]]
 - [[Romans 12#^v2|Romans 12:2]] **(key)**
 - [[James 4#^v17|James 4:17]]
-- [[Proverbs 4#^v2|Proverbs 4:2]]
+- [[Proverbs 4#^v2|Proverbs 4:2]]  taught in [[Proverbs 1-4 Study Notes|Proverbs 1-4]]
 - [[Luke 8#^v15|Luke 8:15]]

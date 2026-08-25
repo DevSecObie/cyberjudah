@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Leviticus 23#^v27|Leviticus 23:27]]  taught in [[Leviticus 22-25 Study Notes|Leviticus 22-25]]
-- [[Isaiah 58#^v3|Isaiah 58:3]]
+- [[Isaiah 58#^v3|Isaiah 58:3]]  taught in [[Isaiah 58-61 Study Notes|Isaiah 58-61]]

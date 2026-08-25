@@ -1,4 +1,4 @@
-﻿← [[1 Samuel 24-27 Study Notes|1 Samuel 24-27]] · [[1 Samuel Index|1 Samuel Study]]
+﻿← [[1 Samuel 24-27 Study Notes|1 Samuel 24-27]] · [[1 Samuel Index|1 Samuel Study]] · [[2 Samuel 1-4 Study Notes|2 Samuel 1-4]] →
 
 # 1 Samuel 28: Saul and the Woman with the Familiar Spirit
 
@@ -231,5 +231,5 @@ Read the chapter → [[1 Samuel 31]]
 
 Topics: [[Idolatry]] · [[The Feasts of the Most High]] · [[The Priesthood]]
 
-← [[1 Samuel 24-27 Study Notes|1 Samuel 24-27]] · [[1 Samuel Index|1 Samuel Study]]
+← [[1 Samuel 24-27 Study Notes|1 Samuel 24-27]] · [[1 Samuel Index|1 Samuel Study]] · [[2 Samuel 1-4 Study Notes|2 Samuel 1-4]] →
 

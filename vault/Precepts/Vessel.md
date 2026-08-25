@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[2 Timothy 2#^v20|2 Timothy 2:20]]
-- [[Hosea 8#^v8|Hosea 8:8]]
-- [[Acts 10#^v11|Acts 10:11]]
+- [[Hosea 8#^v8|Hosea 8:8]]  taught in [[Hosea 3-10 Study Notes|Hosea 3-10]]
+- [[Acts 10#^v11|Acts 10:11]]  taught in [[Acts 10 Study Notes|Acts 10]]

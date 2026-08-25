@@ -13,9 +13,9 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 10#^v10|Psalms 10:10]]
-- [[Psalms 28#^v3|Psalms 28:3]]
-- [[Psalms 55#^v21|Psalms 55:21]]
-- [[Psalms 58#^v3|Psalms 58:3]]
+- [[Psalms 10#^v10|Psalms 10:10]]  taught in [[Psalms 7-10 Study Notes|Psalms 7-10]]
+- [[Psalms 28#^v3|Psalms 28:3]]  taught in [[Psalms 27-30 Study Notes|Psalms 27-30]]
+- [[Psalms 55#^v21|Psalms 55:21]]  taught in [[Psalms 55-58 Study Notes|Psalms 55-58]]
+- [[Psalms 58#^v3|Psalms 58:3]]  taught in [[Psalms 55-58 Study Notes|Psalms 55-58]]
 - [[Ecclesiasticus 12#^v10|Sirach 12:10]]
 - [[Ecclesiasticus 12#^v16|Sirach 12:16]]

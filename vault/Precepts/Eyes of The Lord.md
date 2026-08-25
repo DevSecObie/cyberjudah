@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Genesis 6#^v8|Genesis 6:8]]  taught in [[Genesis 5-8 Study Notes|Genesis 5-8]]
 - [[Zechariah 4#^v10|Zechariah 4:10]]
-- [[2 Chronicles 16#^v9|2 Chronicles 16:9]]
-- [[Proverbs 15#^v3|Proverbs 15:3]]
+- [[2 Chronicles 16#^v9|2 Chronicles 16:9]]  taught in [[2 Chronicles 13-16 Study Notes|2 Chronicles 13-16]]
+- [[Proverbs 15#^v3|Proverbs 15:3]]  taught in [[Proverbs 15-16 Study Notes|Proverbs 15-16]]
 - [[Ecclesiasticus 23#^v19|Sirach 23:19]]

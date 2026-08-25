@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Romans 8#^v1|Romans 8:1]]
 - [[2 Corinthians 11#^v2|2 Corinthians 11:2]]
-- [[Jeremiah 31#^v4|Jeremiah 31:4]]
+- [[Jeremiah 31#^v4|Jeremiah 31:4]]  taught in [[Jeremiah 28-31 Study Notes|Jeremiah 28-31]]
 - [[Matthew 25#^v7|Matthew 25:7]]
 - [[Revelation 14#^v4|Revelation 14:4]]

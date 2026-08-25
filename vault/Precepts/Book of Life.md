@@ -15,7 +15,7 @@ tags: [precept]
 
 - [[Philippians 4#^v3|Philippians 4:3]]
 - [[Exodus 32#^v33|Exodus 32:33]]  taught in [[Exodus 30-33 Study Notes|Exodus 30-33]]
-- [[Daniel 12#^v1|Daniel 12:1]]
+- [[Daniel 12#^v1|Daniel 12:1]]  taught in [[Daniel 11-12 Study Notes|Daniel 11-12]]
 - [[Ecclesiasticus 41#^v11|Sirach 41:11]]
 - [[Revelation 3#^v5|Revelation 3:5]]
 - [[Revelation 20#^v12|Revelation 20:12]]

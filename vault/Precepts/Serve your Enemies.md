@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 28#^v48|Deuteronomy 28:48]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
-- [[Jeremiah 17#^v4|Jeremiah 17:4]]
+- [[Jeremiah 17#^v4|Jeremiah 17:4]]  taught in [[Jeremiah 16-19 Study Notes|Jeremiah 16-19]]

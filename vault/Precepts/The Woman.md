@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Jeremiah 6#^v2|Jeremiah 6:2]]
+- [[Jeremiah 6#^v2|Jeremiah 6:2]]  taught in [[Jeremiah 4-7 Study Notes|Jeremiah 4-7]]
 - [[Revelation 12#^v1|Revelation 12:1]]
 - [[Revelation 12#^v17|Revelation 12:17]]

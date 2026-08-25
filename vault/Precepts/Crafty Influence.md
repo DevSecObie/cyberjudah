@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Wisdom of Solomon 4#^v12|Wisdom of Solomon 4:12]]
-- [[Psalms 64#^v5|Psalms 64:5]]
-- [[Psalms 83#^v3|Psalms 83:3]]
+- [[Psalms 64#^v5|Psalms 64:5]]  taught in [[Psalms 63-66 Study Notes|Psalms 63-66]]
+- [[Psalms 83#^v3|Psalms 83:3]]  taught in [[Psalms 83-86 Study Notes|Psalms 83-86]]

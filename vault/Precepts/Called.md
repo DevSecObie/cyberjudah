@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Romans 8#^v28|Romans 8:28]]
 - [[Hebrews 9#^v15|Hebrews 9:15]]
-- [[Isaiah 45#^v4|Isaiah 45:4]]
-- [[Isaiah 48#^v12|Isaiah 48:12]]
+- [[Isaiah 45#^v4|Isaiah 45:4]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]
+- [[Isaiah 48#^v12|Isaiah 48:12]]  taught in [[Isaiah 46-49 Study Notes|Isaiah 46-49]]

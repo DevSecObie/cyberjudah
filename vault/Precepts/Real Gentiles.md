@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Ezra 9#^v1|Ezra 9:1]]
-- [[Psalms 83#^v6|Psalms 83:6]]
+- [[Ezra 9#^v1|Ezra 9:1]]  taught in [[Ezra 9-10 Study Notes|Ezra 9-10]]
+- [[Psalms 83#^v6|Psalms 83:6]]  taught in [[Psalms 83-86 Study Notes|Psalms 83-86]]
 - [[1 Esdras 8#^v69|1 Esdras 8:69]]
-- [[Jeremiah 46#^v1|Jeremiah 46:1]]
+- [[Jeremiah 46#^v1|Jeremiah 46:1]]  taught in [[Jeremiah 44-47 Study Notes|Jeremiah 44-47]]

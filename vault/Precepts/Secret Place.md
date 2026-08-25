@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 29#^v29|Deuteronomy 29:29]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
-- [[Psalms 91#^v1|Psalms 91:1]]
-- [[Isaiah 45#^v3|Isaiah 45:3]]
-- [[Psalms 119#^v114|Psalms 119:114]]
+- [[Psalms 91#^v1|Psalms 91:1]]  taught in [[Psalms 91-94 Study Notes|Psalms 91-94]]
+- [[Isaiah 45#^v3|Isaiah 45:3]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]
+- [[Psalms 119#^v114|Psalms 119:114]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]

@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Joshua 24#^v22|Joshua 24:22]]  taught in [[Joshua 21-24 Study Notes|Joshua 21-24]]
-- [[Proverbs 14#^v5|Proverbs 14:5]]
-- [[Isaiah 43#^v10|Isaiah 43:10]]
-- [[Isaiah 44#^v8|Isaiah 44:8]]
-- [[Acts 10#^v41|Acts 10:41]]
+- [[Proverbs 14#^v5|Proverbs 14:5]]  taught in [[Proverbs 13-14 Study Notes|Proverbs 13-14]]
+- [[Isaiah 43#^v10|Isaiah 43:10]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]
+- [[Isaiah 44#^v8|Isaiah 44:8]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]
+- [[Acts 10#^v41|Acts 10:41]]  taught in [[Acts 10 Study Notes|Acts 10]]

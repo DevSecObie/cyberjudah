@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Romans 12#^v3|Romans 12:3]]
 - [[Galatians 6#^v3|Galatians 6:3]]
-- [[Proverbs 18#^v12|Proverbs 18:12]]
+- [[Proverbs 18#^v12|Proverbs 18:12]]  taught in [[Proverbs 17-20 Study Notes|Proverbs 17-20]]
 - [[Ecclesiasticus 7#^v17|Sirach 7:17]]

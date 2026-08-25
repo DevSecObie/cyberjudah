@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Exodus 33#^v20|Exodus 33:20]]  taught in [[Exodus 30-33 Study Notes|Exodus 30-33]]
 - [[Exodus 33#^v23|Exodus 33:23]]  taught in [[Exodus 30-33 Study Notes|Exodus 30-33]]
-- [[Daniel 7#^v9|Daniel 7:9]]
+- [[Daniel 7#^v9|Daniel 7:9]]  taught in [[Daniel 7-10 Study Notes|Daniel 7-10]]
 - [[1 Corinthians 15#^v44|1 Corinthians 15:44]]

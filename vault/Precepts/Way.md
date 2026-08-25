@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Exodus 18#^v20|Exodus 18:20]]  taught in [[Exodus 18-21 Study Notes|Exodus 18-21]]
 - [[John 14#^v6|John 14:6]]
-- [[Psalms 119#^v1|Psalms 119:1]]
+- [[Psalms 119#^v1|Psalms 119:1]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]

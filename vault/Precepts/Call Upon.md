@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Joel 2#^v32|Joel 2:32]]
-- [[Isaiah 43#^v22|Isaiah 43:22]]
-- [[Acts 2#^v21|Acts 2:21]]
+- [[Joel 2#^v32|Joel 2:32]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
+- [[Isaiah 43#^v22|Isaiah 43:22]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]
+- [[Acts 2#^v21|Acts 2:21]]  taught in [[Acts 2 Study Notes|Acts 2]]

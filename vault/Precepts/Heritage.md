@@ -13,13 +13,13 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Joel 3#^v2|Joel 3:2]]
+- [[Joel 3#^v2|Joel 3:2]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
 - [[Micah 2#^v2|Micah 2:2]]
 - [[Deuteronomy 32#^v9|Deuteronomy 32:9]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
 - [[Deuteronomy 33#^v4|Deuteronomy 33:4]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
-- [[Jeremiah 12#^v7|Jeremiah 12:7]]
-- [[Jeremiah 17#^v4|Jeremiah 17:4]]
-- [[Jeremiah 51#^v19|Jeremiah 51:19]]
+- [[Jeremiah 12#^v7|Jeremiah 12:7]]  taught in [[Jeremiah 12-15 Study Notes|Jeremiah 12-15]]
+- [[Jeremiah 17#^v4|Jeremiah 17:4]]  taught in [[Jeremiah 16-19 Study Notes|Jeremiah 16-19]]
+- [[Jeremiah 51#^v19|Jeremiah 51:19]]  taught in [[Jeremiah 48-51 Study Notes|Jeremiah 48-51]]
 - [[Ecclesiasticus 17#^v11|Sirach 17:11]]
 - [[Ecclesiasticus 17#^v17|Sirach 17:17]]
 - [[Ecclesiasticus 24#^v23|Sirach 24:23]]

@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[1 Kings 12#^v20|1 Kings 12:20]]
-- [[2 Chronicles 11#^v14|2 Chronicles 11:14]]
-- [[Ezekiel 37#^v22|Ezekiel 37:22]]
+- [[1 Kings 12#^v20|1 Kings 12:20]]  taught in [[1 Kings 9-12 Study Notes|1 Kings 9-12]]
+- [[2 Chronicles 11#^v14|2 Chronicles 11:14]]  taught in [[2 Chronicles 9-12 Study Notes|2 Chronicles 9-12]]
+- [[Ezekiel 37#^v22|Ezekiel 37:22]]  taught in [[Ezekiel 35-38 Study Notes|Ezekiel 35-38]]

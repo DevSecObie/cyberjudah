@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[2 Timothy 2#^v15|2 Timothy 2:15]]
 - [[1 Peter 3#^v15|1 Peter 3:15]]
-- [[Proverbs 15#^v28|Proverbs 15:28]]
+- [[Proverbs 15#^v28|Proverbs 15:28]]  taught in [[Proverbs 15-16 Study Notes|Proverbs 15-16]]

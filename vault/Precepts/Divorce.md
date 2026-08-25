@@ -15,7 +15,7 @@ tags: [precept]
 
 - [[Deuteronomy 24#^v1|Deuteronomy 24:1]]  taught in [[Deuteronomy 23-26 Study Notes|Deuteronomy 23-26]]
 - [[1 Corinthians 7#^v15|1 Corinthians 7:15]]
-- [[Jeremiah 3#^v8|Jeremiah 3:8]]
+- [[Jeremiah 3#^v8|Jeremiah 3:8]]  taught in [[Jeremiah 1-3 Study Notes|Jeremiah 1-3]]
 - [[Ecclesiasticus 25#^v26|Sirach 25:26]]
 - [[Matthew 5#^v32|Matthew 5:32]]
 - [[Matthew 19#^v9|Matthew 19:9]]

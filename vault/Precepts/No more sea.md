@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 17#^v13|Isaiah 17:13]]
+- [[Isaiah 17#^v13|Isaiah 17:13]]  taught in [[Isaiah 14-17 Study Notes|Isaiah 14-17]]
 - [[Ecclesiasticus 24#^v6|Sirach 24:6]]
 - [[Revelation 21#^v1|Revelation 21:1]]

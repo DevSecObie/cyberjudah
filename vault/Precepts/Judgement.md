@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 147#^v19|Psalms 147:19]]
+- [[Psalms 147#^v19|Psalms 147:19]]  taught in [[Psalms 147-150 Study Notes|Psalms 147-150]]
 - [[John 16#^v8|John 16:8]]
-- [[Psalms 119#^v120|Psalms 119:120]]
+- [[Psalms 119#^v120|Psalms 119:120]]  taught in [[Psalms 119-122 Study Notes|Psalms 119-122]]

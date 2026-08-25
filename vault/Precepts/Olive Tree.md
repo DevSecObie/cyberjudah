@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 11#^v24|Romans 11:24]]
-- [[Isaiah 61#^v3|Isaiah 61:3]]
-- [[Jeremiah 11#^v16|Jeremiah 11:16]]
+- [[Isaiah 61#^v3|Isaiah 61:3]]  taught in [[Isaiah 58-61 Study Notes|Isaiah 58-61]]
+- [[Jeremiah 11#^v16|Jeremiah 11:16]]  taught in [[Jeremiah 8-11 Study Notes|Jeremiah 8-11]]

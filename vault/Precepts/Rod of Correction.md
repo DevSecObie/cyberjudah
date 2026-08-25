@@ -13,8 +13,8 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Proverbs 22#^v15|Proverbs 22:15]]
-- [[Proverbs 23#^v13|Proverbs 23:13]]
-- [[Proverbs 23#^v14|Proverbs 23:14]]
+- [[Proverbs 22#^v15|Proverbs 22:15]]  taught in [[Proverbs 21-24 Study Notes|Proverbs 21-24]]
+- [[Proverbs 23#^v13|Proverbs 23:13]]  taught in [[Proverbs 21-24 Study Notes|Proverbs 21-24]]
+- [[Proverbs 23#^v14|Proverbs 23:14]]  taught in [[Proverbs 21-24 Study Notes|Proverbs 21-24]]
 - [[Ecclesiasticus 30#^v1|Sirach 30:1]]
 - [[Ecclesiasticus 30#^v12|Sirach 30:12]]

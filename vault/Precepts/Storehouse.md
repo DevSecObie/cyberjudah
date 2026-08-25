@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Malachi 3#^v10|Malachi 3:10]]
-- [[2 Chronicles 32#^v28|2 Chronicles 32:28]]
+- [[2 Chronicles 32#^v28|2 Chronicles 32:28]]  taught in [[2 Chronicles 29-32 Study Notes|2 Chronicles 29-32]]

@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Wisdom of Solomon 10#^v13|Wisdom of Solomon 10:13]]
 - [[Romans 7#^v14|Romans 7:14]]
-- [[1 Kings 21#^v20|1 Kings 21:20]]
+- [[1 Kings 21#^v20|1 Kings 21:20]]  taught in [[1 Kings 21 Study Notes|1 Kings 21]]
 - [[Matthew 26#^v15|Matthew 26:15]]
 - [[2 Maccabees 4#^v13|2 Maccabees 4:13]]

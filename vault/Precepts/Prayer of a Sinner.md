@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[James 1#^v7|James 1:7]]
 - [[James 4#^v3|James 4:3]]
-- [[Proverbs 15#^v29|Proverbs 15:29]]
-- [[Proverbs 28#^v9|Proverbs 28:9]]
+- [[Proverbs 15#^v29|Proverbs 15:29]]  taught in [[Proverbs 15-16 Study Notes|Proverbs 15-16]]
+- [[Proverbs 28#^v9|Proverbs 28:9]]  taught in [[Proverbs 25-28 Study Notes|Proverbs 25-28]]
 - [[John 9#^v31|John 9:31]]

@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[2 Esdras 15#^v5|2 Esdras 15:5]]
-- [[Jeremiah 28#^v8|Jeremiah 28:8]]
+- [[Jeremiah 28#^v8|Jeremiah 28:8]]  taught in [[Jeremiah 28-31 Study Notes|Jeremiah 28-31]]
 - [[Matthew 24#^v7|Matthew 24:7]]
 - [[Revelation 6#^v8|Revelation 6:8]]

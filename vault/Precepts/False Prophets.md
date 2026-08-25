@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Micah 3#^v11|Micah 3:11]]
-- [[Jeremiah 23#^v21|Jeremiah 23:21]]
-- [[Jeremiah 23#^v26|Jeremiah 23:26]]
-- [[Jeremiah 23#^v32|Jeremiah 23:32]]
-- [[Jeremiah 5#^v31|Jeremiah 5:31]]
+- [[Jeremiah 23#^v21|Jeremiah 23:21]]  taught in [[Jeremiah 20-23 Study Notes|Jeremiah 20-23]]
+- [[Jeremiah 23#^v26|Jeremiah 23:26]]  taught in [[Jeremiah 20-23 Study Notes|Jeremiah 20-23]]
+- [[Jeremiah 23#^v32|Jeremiah 23:32]]  taught in [[Jeremiah 20-23 Study Notes|Jeremiah 20-23]]
+- [[Jeremiah 5#^v31|Jeremiah 5:31]]  taught in [[Jeremiah 4-7 Study Notes|Jeremiah 4-7]]

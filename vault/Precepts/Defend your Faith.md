@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[1 Peter 3#^v15|1 Peter 3:15]]
 - [[1 Peter 4#^v11|1 Peter 4:11]]
-- [[Isaiah 41#^v21|Isaiah 41:21]]
+- [[Isaiah 41#^v21|Isaiah 41:21]]  taught in [[Isaiah 38-41 Study Notes|Isaiah 38-41]]

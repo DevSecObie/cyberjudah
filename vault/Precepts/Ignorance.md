@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Hosea 4#^v6|Hosea 4:6]]
-- [[Ezekiel 3#^v18|Ezekiel 3:18]]
+- [[Hosea 4#^v6|Hosea 4:6]]  taught in [[Hosea 3-10 Study Notes|Hosea 3-10]]
+- [[Ezekiel 3#^v18|Ezekiel 3:18]]  taught in [[Ezekiel 3-6 Study Notes|Ezekiel 3-6]]
 - [[Luke 12#^v48|Luke 12:48]]

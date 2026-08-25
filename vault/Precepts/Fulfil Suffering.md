@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Matthew 5#^v17|Matthew 5:17]]
 - [[Luke 24#^v44|Luke 24:44]]
-- [[Acts 3#^v18|Acts 3:18]]
+- [[Acts 3#^v18|Acts 3:18]]  taught in [[Acts 3 Study Notes|Acts 3]]

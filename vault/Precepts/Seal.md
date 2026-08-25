@@ -14,8 +14,8 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[2 Timothy 2#^v19|2 Timothy 2:19]]
-- [[Psalms 37#^v37|Psalms 37:37]]
+- [[Psalms 37#^v37|Psalms 37:37]]  taught in [[Psalms 35-38 Study Notes|Psalms 35-38]]
 - [[Ephesians 4#^v30|Ephesians 4:30]]
-- [[Isaiah 8#^v16|Isaiah 8:16]]
-- [[Ezekiel 9#^v4|Ezekiel 9:4]]
+- [[Isaiah 8#^v16|Isaiah 8:16]]  taught in [[Isaiah 6-9 Study Notes|Isaiah 6-9]]
+- [[Ezekiel 9#^v4|Ezekiel 9:4]]  taught in [[Ezekiel 7-10 Study Notes|Ezekiel 7-10]]
 - [[Revelation 9#^v4|Revelation 9:4]]

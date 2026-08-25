@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Additions to Esther 14#^v28|Esther (Greek) 14:28]]
-- [[Esther 9#^v19|Esther 9:19]]
-- [[Esther 9#^v28|Esther 9:28]]
+- [[Esther 9#^v19|Esther 9:19]]  taught in [[Esther 6-9 Study Notes|Esther 6-9]]
+- [[Esther 9#^v28|Esther 9:28]]  taught in [[Esther 6-9 Study Notes|Esther 6-9]]

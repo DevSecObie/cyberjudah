@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 4#^v7|Deuteronomy 4:7]]  taught in [[Deuteronomy 3-6 Study Notes|Deuteronomy 3-6]]
-- [[Psalms 148#^v14|Psalms 148:14]]
+- [[Psalms 148#^v14|Psalms 148:14]]  taught in [[Psalms 147-150 Study Notes|Psalms 147-150]]

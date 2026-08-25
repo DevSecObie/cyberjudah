@@ -13,4 +13,4 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Proverbs 26#^v19|Proverbs 26:19]]
+- [[Proverbs 26#^v19|Proverbs 26:19]]  taught in [[Proverbs 25-28 Study Notes|Proverbs 25-28]]

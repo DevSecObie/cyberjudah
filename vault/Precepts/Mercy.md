@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 9#^v15|Romans 9:15]]
-- [[Isaiah 14#^v1|Isaiah 14:1]]
+- [[Isaiah 14#^v1|Isaiah 14:1]]  taught in [[Isaiah 14-17 Study Notes|Isaiah 14-17]]

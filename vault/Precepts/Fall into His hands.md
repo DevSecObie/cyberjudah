@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Susanna 1#^v23|Susanna 1:23]]
-- [[2 Samuel 24#^v14|2 Samuel 24:14]]
+- [[2 Samuel 24#^v14|2 Samuel 24:14]]  taught in [[2 Samuel 21-24 Study Notes|2 Samuel 21-24]]
 - [[Ecclesiasticus 2#^v18|Sirach 2:18]]

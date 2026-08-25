@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 5#^v14|Isaiah 5:14]]
-- [[Isaiah 28#^v15|Isaiah 28:15]]
+- [[Isaiah 5#^v14|Isaiah 5:14]]  taught in [[Isaiah 2-5 Study Notes|Isaiah 2-5]]
+- [[Isaiah 28#^v15|Isaiah 28:15]]  taught in [[Isaiah 26-29 Study Notes|Isaiah 26-29]]

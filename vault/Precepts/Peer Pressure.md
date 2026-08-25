@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Exodus 23#^v2|Exodus 23:2]]  taught in [[Exodus 22-25 Study Notes|Exodus 22-25]]
-- [[Proverbs 1#^v10|Proverbs 1:10]]
+- [[Proverbs 1#^v10|Proverbs 1:10]]  taught in [[Proverbs 1-4 Study Notes|Proverbs 1-4]]
 - [[Ecclesiasticus 7#^v16|Sirach 7:16]]

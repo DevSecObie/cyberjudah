@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Zechariah 14#^v17|Zechariah 14:17]]
-- [[Isaiah 14#^v2|Isaiah 14:2]]
-- [[Isaiah 60#^v12|Isaiah 60:12]]
+- [[Isaiah 14#^v2|Isaiah 14:2]]  taught in [[Isaiah 14-17 Study Notes|Isaiah 14-17]]
+- [[Isaiah 60#^v12|Isaiah 60:12]]  taught in [[Isaiah 58-61 Study Notes|Isaiah 58-61]]
 - [[Revelation 2#^v26|Revelation 2:26]]

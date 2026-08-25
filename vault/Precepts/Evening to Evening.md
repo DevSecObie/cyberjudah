@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Genesis 1#^v5|Genesis 1:5]]  taught in [[Genesis 1-4 Study Notes|Genesis 1-4]]
 - [[Leviticus 23#^v32|Leviticus 23:32]]  taught in [[Leviticus 22-25 Study Notes|Leviticus 22-25]]
-- [[Nehemiah 13#^v19|Nehemiah 13:19]]
+- [[Nehemiah 13#^v19|Nehemiah 13:19]]  taught in [[Nehemiah 11-13 Study Notes|Nehemiah 11-13]]

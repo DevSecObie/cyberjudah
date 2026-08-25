@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Habakkuk 2#^v2|Habakkuk 2:2]]
-- [[Proverbs 29#^v18|Proverbs 29:18]]
+- [[Proverbs 29#^v18|Proverbs 29:18]]  taught in [[Proverbs 29-31 Study Notes|Proverbs 29-31]]
 - [[Ecclesiasticus 25#^v3|Sirach 25:3]]

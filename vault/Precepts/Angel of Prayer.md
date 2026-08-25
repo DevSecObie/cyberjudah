@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Tobit 12#^v15|Tobit 12:15]]
-- [[Acts 10#^v4|Acts 10:4]]
+- [[Acts 10#^v4|Acts 10:4]]  taught in [[Acts 10 Study Notes|Acts 10]]

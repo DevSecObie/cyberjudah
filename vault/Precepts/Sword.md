@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Romans 13#^v4|Romans 13:4]]
 - [[Genesis 27#^v40|Genesis 27:40]]  taught in [[Genesis 24-27 Study Notes|Genesis 24-27]]
-- [[Psalms 17#^v13|Psalms 17:13]]
+- [[Psalms 17#^v13|Psalms 17:13]]  taught in [[Psalms 15-18 Study Notes|Psalms 15-18]]
 - [[Luke 2#^v35|Luke 2:35]]
 - [[Revelation 13#^v10|Revelation 13:10]]

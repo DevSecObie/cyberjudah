@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Isaiah 55#^v4|Isaiah 55:4]]
+- [[Isaiah 55#^v4|Isaiah 55:4]]  taught in [[Isaiah 54-57 Study Notes|Isaiah 54-57]]
 - [[Revelation 1#^v5|Revelation 1:5]]

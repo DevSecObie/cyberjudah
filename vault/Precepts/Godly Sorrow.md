@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Ecclesiastes 7#^v3|Ecclesiastes 7:3]]
+- [[Ecclesiastes 7#^v3|Ecclesiastes 7:3]]  taught in [[Ecclesiastes 6-9 Study Notes|Ecclesiastes 6-9]]
 - [[2 Corinthians 6#^v10|2 Corinthians 6:10]]
 - [[2 Corinthians 7#^v10|2 Corinthians 7:10]]
 - [[Ecclesiasticus 37#^v12|Sirach 37:12]]

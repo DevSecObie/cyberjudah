@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Leviticus 19#^v27|Leviticus 19:27]]  taught in [[Leviticus 18-21 Study Notes|Leviticus 18-21]]
 - [[Leviticus 21#^v5|Leviticus 21:5]]  taught in [[Leviticus 18-21 Study Notes|Leviticus 18-21]]
-- [[2 Samuel 10#^v4|2 Samuel 10:4]]
+- [[2 Samuel 10#^v4|2 Samuel 10:4]]  taught in [[2 Samuel 9-12 Study Notes|2 Samuel 9-12]]

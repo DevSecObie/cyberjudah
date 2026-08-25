@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Numbers 29#^v1|Numbers 29:1]]  taught in [[Numbers 27-30 Study Notes|Numbers 27-30]]
 - [[Leviticus 23#^v24|Leviticus 23:24]]  taught in [[Leviticus 22-25 Study Notes|Leviticus 22-25]]
-- [[Psalms 81#^v3|Psalms 81:3]]
+- [[Psalms 81#^v3|Psalms 81:3]]  taught in [[Psalms 79-82 Study Notes|Psalms 79-82]]

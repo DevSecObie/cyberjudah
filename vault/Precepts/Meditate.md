@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Joshua 1#^v8|Joshua 1:8]]  taught in [[Joshua 1-4 Study Notes|Joshua 1-4]]
-- [[Job 23#^v12|Job 23:12]]
+- [[Job 23#^v12|Job 23:12]]  taught in [[Job 21-24 Study Notes|Job 21-24]]
 - [[Ecclesiasticus 6#^v37|Sirach 6:37]]
 - [[Ecclesiasticus 39#^v1|Sirach 39:1]]

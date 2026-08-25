@@ -14,11 +14,11 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Galatians 2#^v17|Galatians 2:17]]
-- [[Job 10#^v14|Job 10:14]]
+- [[Job 10#^v14|Job 10:14]]  taught in [[Job 9-12 Study Notes|Job 9-12]]
 - [[Hebrews 10#^v29|Hebrews 10:29]]
 - [[Ecclesiasticus 5#^v5|Sirach 5:5]]
 - [[Ecclesiasticus 15#^v20|Sirach 15:20]]
 - [[Ecclesiasticus 21#^v2|Sirach 21:2]]
 - [[Ecclesiasticus 32#^v17|Sirach 32:17]]
 - [[Ecclesiasticus 38#^v10|Sirach 38:10]]
-- [[Jeremiah 5#^v25|Jeremiah 5:25]]
+- [[Jeremiah 5#^v25|Jeremiah 5:25]]  taught in [[Jeremiah 4-7 Study Notes|Jeremiah 4-7]]

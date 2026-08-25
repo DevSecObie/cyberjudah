@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[1 John 3#^v15|1 John 3:15]]
 - [[Leviticus 19#^v17|Leviticus 19:17]]  taught in [[Leviticus 18-21 Study Notes|Leviticus 18-21]]
-- [[Proverbs 10#^v18|Proverbs 10:18]]
+- [[Proverbs 10#^v18|Proverbs 10:18]]  taught in [[Proverbs 9-12 Study Notes|Proverbs 9-12]]

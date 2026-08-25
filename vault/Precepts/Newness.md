@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[2 Corinthians 5#^v17|2 Corinthians 5:17]]
-- [[Isaiah 43#^v18|Isaiah 43:18]]
+- [[Isaiah 43#^v18|Isaiah 43:18]]  taught in [[Isaiah 42-45 Study Notes|Isaiah 42-45]]

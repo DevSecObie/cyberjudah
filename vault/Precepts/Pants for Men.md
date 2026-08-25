@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Exodus 28#^v42|Exodus 28:42]]  taught in [[Exodus 26-29 Study Notes|Exodus 26-29]]
-- [[Daniel 3#^v21|Daniel 3:21]]
+- [[Daniel 3#^v21|Daniel 3:21]]  taught in [[Daniel 3-6 Study Notes|Daniel 3-6]]
 - [[Ecclesiasticus 45#^v8|Sirach 45:8]]

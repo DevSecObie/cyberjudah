@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Exodus 34#^v22|Exodus 34:22]]  taught in [[Exodus 34-37 Study Notes|Exodus 34-37]]
 - [[Deuteronomy 16#^v16|Deuteronomy 16:16]]  taught in [[Deuteronomy 15-18 Study Notes|Deuteronomy 15-18]]
-- [[2 Chronicles 8#^v13|2 Chronicles 8:13]]
+- [[2 Chronicles 8#^v13|2 Chronicles 8:13]]  taught in [[2 Chronicles 5-8 Study Notes|2 Chronicles 5-8]]
 - [[Tobit 2#^v1|Tobit 2:1]]

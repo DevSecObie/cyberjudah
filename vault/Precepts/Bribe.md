@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Ecclesiastes 7#^v7|Ecclesiastes 7:7]]
+- [[Ecclesiastes 7#^v7|Ecclesiastes 7:7]]  taught in [[Ecclesiastes 6-9 Study Notes|Ecclesiastes 6-9]]
 - [[Exodus 23#^v8|Exodus 23:8]]  taught in [[Exodus 22-25 Study Notes|Exodus 22-25]]
 - [[Ecclesiasticus 40#^v12|Sirach 40:12]]

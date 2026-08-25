@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Ruth 3#^v9|Ruth 3:9]]  taught in [[Ruth 1-3 Study Notes|Ruth 1-3]]
 - [[1 Samuel 15#^v27|1 Samuel 15:27]]  taught in [[1 Samuel 12-15 Study Notes|1 Samuel 12-15]]
-- [[Psalms 133#^v2|Psalms 133:2]]
+- [[Psalms 133#^v2|Psalms 133:2]]  taught in [[Psalms 131-134 Study Notes|Psalms 131-134]]

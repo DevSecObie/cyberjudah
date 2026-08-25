@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Psalms 23#^v4|Psalms 23:4]]
-- [[Psalms 107#^v10|Psalms 107:10]]
+- [[Psalms 23#^v4|Psalms 23:4]]  taught in [[Psalms 23-26 Study Notes|Psalms 23-26]]
+- [[Psalms 107#^v10|Psalms 107:10]]  taught in [[Psalms 107-110 Study Notes|Psalms 107-110]]
 - [[Matthew 4#^v16|Matthew 4:16]]
 - [[Luke 1#^v79|Luke 1:79]]

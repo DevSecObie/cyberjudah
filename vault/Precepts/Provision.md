@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Philippians 4#^v19|Philippians 4:19]]
-- [[Psalms 37#^v25|Psalms 37:25]]
+- [[Psalms 37#^v25|Psalms 37:25]]  taught in [[Psalms 35-38 Study Notes|Psalms 35-38]]
 - [[2 Corinthians 9#^v8|2 Corinthians 9:8]]
 - [[Ecclesiasticus 2#^v10|Sirach 2:10]]

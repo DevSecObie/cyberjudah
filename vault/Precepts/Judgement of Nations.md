@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Joel 3#^v19|Joel 3:19]]
-- [[Isaiah 66#^v16|Isaiah 66:16]]
-- [[Jeremiah 25#^v15|Jeremiah 25:15]]
-- [[Jeremiah 25#^v33|Jeremiah 25:33]]
+- [[Joel 3#^v19|Joel 3:19]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
+- [[Isaiah 66#^v16|Isaiah 66:16]]  taught in [[Isaiah 66 Study Notes|Isaiah 66]]
+- [[Jeremiah 25#^v15|Jeremiah 25:15]]  taught in [[Jeremiah 24-27 Study Notes|Jeremiah 24-27]]
+- [[Jeremiah 25#^v33|Jeremiah 25:33]]  taught in [[Jeremiah 24-27 Study Notes|Jeremiah 24-27]]

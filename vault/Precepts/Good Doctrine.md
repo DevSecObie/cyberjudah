@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[1 Timothy 4#^v13|1 Timothy 4:13]]
-- [[Proverbs 4#^v2|Proverbs 4:2]]
+- [[Proverbs 4#^v2|Proverbs 4:2]]  taught in [[Proverbs 1-4 Study Notes|Proverbs 1-4]]
 - [[Ecclesiasticus 19#^v19|Sirach 19:19]]

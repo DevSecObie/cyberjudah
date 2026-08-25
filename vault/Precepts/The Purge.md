@@ -13,8 +13,8 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Daniel 11#^v35|Daniel 11:35]]
-- [[Isaiah 1#^v25|Isaiah 1:25]]
-- [[Ezekiel 20#^v38|Ezekiel 20:38]]
+- [[Daniel 11#^v35|Daniel 11:35]]  taught in [[Daniel 11-12 Study Notes|Daniel 11-12]]
+- [[Isaiah 1#^v25|Isaiah 1:25]]  taught in [[Isaiah 1 Study Notes|Isaiah 1]]
+- [[Ezekiel 20#^v38|Ezekiel 20:38]]  taught in [[Ezekiel 19-22 Study Notes|Ezekiel 19-22]]
 - [[Matthew 3#^v12|Matthew 3:12]]
 - [[Luke 3#^v17|Luke 3:17]]

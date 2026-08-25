@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[1 Peter 2#^v2|1 Peter 2:2]]
 - [[Hebrews 5#^v12|Hebrews 5:12]]
-- [[Isaiah 28#^v9|Isaiah 28:9]]
+- [[Isaiah 28#^v9|Isaiah 28:9]]  taught in [[Isaiah 26-29 Study Notes|Isaiah 26-29]]
 - [[Ecclesiasticus 3#^v21|Sirach 3:21]]
 - [[Ecclesiasticus 39#^v1|Sirach 39:1]]

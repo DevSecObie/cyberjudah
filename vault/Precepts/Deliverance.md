@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Obadiah 1#^v17|Obadiah 1:17]]
-- [[Joel 2#^v32|Joel 2:32]]
-- [[Psalms 44#^v4|Psalms 44:4]]
+- [[Joel 2#^v32|Joel 2:32]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
+- [[Psalms 44#^v4|Psalms 44:4]]  taught in [[Psalms 43-46 Study Notes|Psalms 43-46]]
 - [[Luke 4#^v18|Luke 4:18]]

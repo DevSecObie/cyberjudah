@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Hebrews 4#^v12|Hebrews 4:12]]
-- [[Isaiah 8#^v20|Isaiah 8:20]]
+- [[Isaiah 8#^v20|Isaiah 8:20]]  taught in [[Isaiah 6-9 Study Notes|Isaiah 6-9]]
 - [[John 17#^v17|John 17:17]]

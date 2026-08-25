@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Genesis 18#^v14|Genesis 18:14]]  taught in [[Genesis 17-20 Study Notes|Genesis 17-20]]
-- [[Job 42#^v2|Job 42:2]]
-- [[Jeremiah 32#^v17|Jeremiah 32:17]]
+- [[Job 42#^v2|Job 42:2]]  taught in [[Job 41-42 Study Notes|Job 41-42]]
+- [[Jeremiah 32#^v17|Jeremiah 32:17]]  taught in [[Jeremiah 32-35 Study Notes|Jeremiah 32-35]]
 - [[Matthew 19#^v26|Matthew 19:26]]

@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Genesis 18#^v18|Genesis 18:18]]  taught in [[Genesis 17-20 Study Notes|Genesis 17-20]]
-- [[Jeremiah 31#^v1|Jeremiah 31:1]]
+- [[Jeremiah 31#^v1|Jeremiah 31:1]]  taught in [[Jeremiah 28-31 Study Notes|Jeremiah 28-31]]
 - [[Ecclesiasticus 44#^v21|Sirach 44:21]]
-- [[Acts 3#^v25|Acts 3:25]]
+- [[Acts 3#^v25|Acts 3:25]]  taught in [[Acts 3 Study Notes|Acts 3]]

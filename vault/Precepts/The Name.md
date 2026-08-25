@@ -14,8 +14,8 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Zephaniah 3#^v9|Zephaniah 3:9]]
-- [[Psalms 138#^v2|Psalms 138:2]]
-- [[Isaiah 28#^v11|Isaiah 28:11]]
+- [[Psalms 138#^v2|Psalms 138:2]]  taught in [[Psalms 135-138 Study Notes|Psalms 135-138]]
+- [[Isaiah 28#^v11|Isaiah 28:11]]  taught in [[Isaiah 26-29 Study Notes|Isaiah 26-29]]
 - [[Matthew 6#^v9|Matthew 6:9]]
 - [[Matthew 7#^v21|Matthew 7:21]]
 - [[Matthew 18#^v20|Matthew 18:20]]

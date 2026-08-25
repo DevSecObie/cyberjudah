@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Hosea 2#^v14|Hosea 2:14]]
-- [[Ezekiel 20#^v35|Ezekiel 20:35]]
+- [[Hosea 2#^v14|Hosea 2:14]]  taught in [[Hosea 1-2 Study Notes|Hosea 1-2]]
+- [[Ezekiel 20#^v35|Ezekiel 20:35]]  taught in [[Ezekiel 19-22 Study Notes|Ezekiel 19-22]]

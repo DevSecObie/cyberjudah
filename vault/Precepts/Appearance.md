@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Proverbs 7#^v10|Proverbs 7:10]]
+- [[Proverbs 7#^v10|Proverbs 7:10]]  taught in [[Proverbs 5-8 Study Notes|Proverbs 5-8]]
 - [[Ecclesiasticus 19#^v29|Sirach 19:29]]
 - [[Matthew 23#^v26|Matthew 23:26]]

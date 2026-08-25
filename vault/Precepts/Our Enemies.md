@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Exodus 23#^v22|Exodus 23:22]]  taught in [[Exodus 22-25 Study Notes|Exodus 22-25]]
 - [[Deuteronomy 28#^v68|Deuteronomy 28:68]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
-- [[Psalms 83#^v2|Psalms 83:2]]
+- [[Psalms 83#^v2|Psalms 83:2]]  taught in [[Psalms 83-86 Study Notes|Psalms 83-86]]
 - [[Luke 1#^v71|Luke 1:71]]

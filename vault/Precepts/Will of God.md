@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 12#^v2|Romans 12:2]]
-- [[Psalms 40#^v8|Psalms 40:8]]
+- [[Psalms 40#^v8|Psalms 40:8]]  taught in [[Psalms 39-42 Study Notes|Psalms 39-42]]
 - [[Hebrews 10#^v7|Hebrews 10:7]]
 - [[Mark 3#^v35|Mark 3:35]]
 - [[Matthew 7#^v21|Matthew 7:21]]

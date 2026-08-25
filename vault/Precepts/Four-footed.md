@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Romans 1#^v23|Romans 1:23]]
-- [[Acts 10#^v12|Acts 10:12]]
+- [[Acts 10#^v12|Acts 10:12]]  taught in [[Acts 10 Study Notes|Acts 10]]

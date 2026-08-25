@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 18#^v18|Deuteronomy 18:18]]  taught in [[Deuteronomy 15-18 Study Notes|Deuteronomy 15-18]]
-- [[Amos 2#^v11|Amos 2:11]]
-- [[Amos 3#^v7|Amos 3:7]]
+- [[Amos 2#^v11|Amos 2:11]]  taught in [[Amos 2-5 Study Notes|Amos 2-5]]
+- [[Amos 3#^v7|Amos 3:7]]  taught in [[Amos 2-5 Study Notes|Amos 2-5]]

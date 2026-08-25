@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Hebrews 8#^v10|Hebrews 8:10]]
 - [[Hebrews 10#^v16|Hebrews 10:16]]
-- [[Jeremiah 31#^v33|Jeremiah 31:33]]
-- [[Ezekiel 20#^v37|Ezekiel 20:37]]
+- [[Jeremiah 31#^v33|Jeremiah 31:33]]  taught in [[Jeremiah 28-31 Study Notes|Jeremiah 28-31]]
+- [[Ezekiel 20#^v37|Ezekiel 20:37]]  taught in [[Ezekiel 19-22 Study Notes|Ezekiel 19-22]]

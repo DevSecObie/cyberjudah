@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Galatians 3#^v8|Galatians 3:8]]
 - [[2 Esdras 2#^v34|2 Esdras 2:34]]
-- [[Ezekiel 20#^v32|Ezekiel 20:32]]
-- [[Ezekiel 25#^v8|Ezekiel 25:8]]
+- [[Ezekiel 20#^v32|Ezekiel 20:32]]  taught in [[Ezekiel 19-22 Study Notes|Ezekiel 19-22]]
+- [[Ezekiel 25#^v8|Ezekiel 25:8]]  taught in [[Ezekiel 23-26 Study Notes|Ezekiel 23-26]]

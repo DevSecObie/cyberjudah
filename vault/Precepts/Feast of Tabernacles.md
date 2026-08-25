@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[Exodus 23#^v16|Exodus 23:16]]  taught in [[Exodus 22-25 Study Notes|Exodus 22-25]]
 - [[Deuteronomy 16#^v16|Deuteronomy 16:16]]  taught in [[Deuteronomy 15-18 Study Notes|Deuteronomy 15-18]]
-- [[2 Chronicles 8#^v13|2 Chronicles 8:13]]
+- [[2 Chronicles 8#^v13|2 Chronicles 8:13]]  taught in [[2 Chronicles 5-8 Study Notes|2 Chronicles 5-8]]

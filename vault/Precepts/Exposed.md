@@ -13,6 +13,6 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Ecclesiastes 12#^v14|Ecclesiastes 12:14]]
+- [[Ecclesiastes 12#^v14|Ecclesiastes 12:14]]  taught in [[Ecclesiastes 10-12 Study Notes|Ecclesiastes 10-12]]
 - [[Mark 4#^v22|Mark 4:22]]
 - [[Luke 8#^v17|Luke 8:17]]
