@@ -25,7 +25,10 @@ const writeJson = (p, o) => write(p, JSON.stringify(o));
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const yamlStr = (s) => JSON.stringify(String(s));
 const fm = (o) => "---\n" + Object.entries(o).filter(([, v]) => v !== undefined).map(([k, v]) => `${k}: ${typeof v === "string" ? yamlStr(v) : JSON.stringify(v)}`).join("\n") + "\n---\n\n";
-const esc = (s) => s.replace(/</g, "&lt;");   // verse text is plain; keep the odd '<' from breaking CommonMark html
+const esc = (s) => s.replace(/</g, "&lt;");
+// raw <a href> inside HTML blocks bypasses Docusaurus link processing, so they need the baseUrl by hand
+const BASE = (/baseUrl:\s*"([^"]+)"/.exec(read(path.join(ROOT, "docusaurus.config.ts")))?.[1] ?? "/").replace(/\/$/, "");
+const href = (u) => BASE + u;   // verse text is plain; keep the odd '<' from breaking CommonMark html
 
 for (const d of [DOCS, API, SEARCH]) fs.rmSync(d, { recursive: true, force: true });
 
@@ -113,6 +116,8 @@ function findPrecept(name) {
 const ERAS = cases.eras;
 const eraSlug = (e) => `${String(ERAS.indexOf(e) + 1).padStart(2, "0")}-${slug(e)}`;
 const caseUrl = (c) => `/cases/${eraSlug(c.era)}/${c.slug}`;
+const VERDICT_CLASS = { death: "danger", plague: "danger", exile: "warning", captivity: "warning", curse: "warning", restitution: "info", spared: "success", reprieve: "success", temporal: "secondary", unrecorded: "secondary" };
+const badge = (v) => `<span class="badge badge--${VERDICT_CLASS[v] ?? "secondary"} verdict">${VERDICT[v] ?? v}</span>`;
 const VERDICT = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded" };
 
 /* ---------------- notes from the vault ---------------- */
@@ -132,7 +137,7 @@ function chapterRefFromTarget(target, v) {
   return { book, chapter: ch, verses: v ? String(v) : "" };
 }
 const LINK = /(?<!!)\[\[([^\]|#]+)(?:#\^v(\d+))?(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/g;
-const EMBED_LINE = /^[ \t]*!\[\[([^\]|#]+)#\^v(\d+)\]\][ \t]*$/;
+const EMBED_LINE = /^([ \t]*)!\[\[([^\]|#]+)#\^v(\d+)\]\][ \t]*$/;
 const EMBED_INLINE = /!\[\[([^\]|#]+)#\^v(\d+)\]\]/g;
 const EMBED_OTHER = /!\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g;
 for (const p of fs.readdirSync(path.join(VAULT, "Study Bible"), { withFileTypes: true }).filter((d) => d.isDirectory()))
@@ -185,13 +190,14 @@ function transform(body, self) {
   s = s.replace(/^# .+\n/m, "");                                   // the page has its own title
   s = s.replace(/^(?:\uFEFF)?← \[\[.*?→\s*$/m, "");                // prev/next lines: Docusaurus paginates itself
   // line embeds: consecutive ones become one blockquote
-  const lines = s.split("\n"); const out = []; let quoting = false;
+  const lines = s.split("\n"); const out = []; let quoting = false; let qind = "";
   for (const line of lines) {
     const m = EMBED_LINE.exec(line);
     if (m) {
-      const r = chapterRefFromTarget(m[1], +m[2]);
-      const t = r && verseText(r.book, r.chapter, +m[2]);
-      if (t) { out.push(`${quoting ? ">" : ""}${quoting ? "\n" : ""}> <sup>[${m[2]}](${chapterUrl(r.book, r.chapter, +m[2])})</sup> ${esc(t)}`); quoting = true; if (self) cite({ book: r.book, chapter: r.chapter, verses: "" }, self.kind, self.label, self.url); }
+      const ind = m[1].replace(/\t/g, "    ");   // the embed sits in a list item; drop its indent and the prose under it becomes a code block
+      const r = chapterRefFromTarget(m[2], +m[3]);
+      const t = r && verseText(r.book, r.chapter, +m[3]);
+      if (t) { out.push(`${quoting ? `${qind}>\n` : ""}${ind}> <sup>[${m[3]}](${chapterUrl(r.book, r.chapter, +m[3])})</sup> ${esc(t)}`); quoting = true; qind = ind; if (self) cite({ book: r.book, chapter: r.chapter, verses: "" }, self.kind, self.label, self.url); }
       continue;
     }
     if (quoting && line.trim() !== "") { out.push(""); }
@@ -217,7 +223,8 @@ function transform(body, self) {
 }
 
 /* ---------------- write: notes (first, so their citations feed the chapter pages) ---------------- */
-const noteSelf = (n) => ({ kind: n.kind === "encyclopedia" ? "encyclopedia" : "note", label: n.kind === "study" ? `${n.range}: ${n.title}` : n.title, url: n.url });
+const noteLabel = (n) => n.kind === "study" ? (n.title.startsWith(n.book) ? `${n.range} · ${n.title.replace(/^[^:]+:\s*/, "")}` : `${n.range} · ${n.title}`) : n.title;
+const noteSelf = (n) => ({ kind: n.kind === "encyclopedia" ? "encyclopedia" : "note", label: noteLabel(n), url: n.url });
 write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "Study Notes", position: 2, link: { type: "doc", id: "study/index" } }));
 const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
 write(path.join(DOCS, "study", "index.md"), fm({ title: "Study Notes", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
@@ -229,8 +236,9 @@ for (const b of studyBooks) {
   write(path.join(dir, "index.md"), fm({ title: `${b} Study Notes`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + list.map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n") + "\n");
   for (const n of list) {
     const chs = Array.from({ length: n.chapters[1] - n.chapters[0] + 1 }, (_, i) => n.chapters[0] + i);
+    const readLine = /Read the chapter/.test(n.body) ? "" : `<p class="taught">Read the chapters: ${chs.map((c) => `<a href="${href(chapterUrl(b, c))}">${abbr(b)} ${c}</a>`).join(" · ")}</p>\n\n`;
     write(path.join(dir, `${n.slug}.md`), fm({ title: n.title, slug: n.url, sidebar_label: n.range, sidebar_position: n.sidebarPos, description: `Study notes on ${n.range}` }) +
-      `Read the chapters: ${chs.map((c) => `[${abbr(b)} ${c}](${chapterUrl(b, c)})`).join(" · ")}\n\n` + transform(n.body, noteSelf(n)));
+      readLine + transform(n.body, noteSelf(n)));
   }
 }
 write(path.join(DOCS, "classes", "_category_.json"), JSON.stringify({ label: "Class Notes", position: 3, link: { type: "doc", id: "classes/index" } }));
@@ -242,7 +250,7 @@ for (const y of years) {
   write(path.join(DOCS, "classes", y, "_category_.json"), JSON.stringify({ label: y, position: -parseInt(y, 10), collapsed: y !== years[0] }));
   for (const n of classNotes.filter((x) => x.year === y))
     write(path.join(DOCS, "classes", y, `${n.slug}.md`), fm({ title: n.title, slug: n.url, sidebar_label: `${n.date} ${n.title}`, sidebar_position: n.sidebarPos, description: `${n.series} · ${n.date}` }) +
-      `*${n.series}${n.date ? " · " + n.date + (n.dateEstimated ? " (date estimated)" : "") : ""}*\n\n` + transform(n.body, noteSelf(n)));
+      `<p class="taught">${n.series}${n.date ? " · " + n.date + (n.dateEstimated ? " (date estimated)" : "") : ""}</p>\n\n` + transform(n.body, noteSelf(n)));
 }
 write(path.join(DOCS, "encyclopedia", "_category_.json"), JSON.stringify({ label: "Encyclopedia", position: 4, link: { type: "doc", id: "encyclopedia/index" } }));
 const enc = notes.filter((n) => n.kind === "encyclopedia").sort((a, b) => a.title.localeCompare(b.title));
@@ -252,7 +260,8 @@ for (const n of enc) write(path.join(DOCS, "encyclopedia", `${n.slug}.md`), fm({
 /* ---------------- write: cases ---------------- */
 write(path.join(DOCS, "cases", "_category_.json"), JSON.stringify({ label: "Case Studies", position: 7, link: { type: "doc", id: "cases/index" } }));
 write(path.join(DOCS, "cases", "index.md"), fm({ title: "Case Studies", slug: "/cases", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
-  ERAS.map((e) => { const list = cases.cases.filter((c) => c.era === e); return list.length ? `## ${e}\n\n` + list.map((c) => `- [${c.name}](${caseUrl(c)}): ${c.charge} · *${VERDICT[c.verdict]}*`).join("\n") : ""; }).filter(Boolean).join("\n\n") + "\n");
+  `<p class="legend">${Object.keys(VERDICT).map(badge).join(" ")}</p>\n\n` +
+  ERAS.map((e) => { const list = cases.cases.filter((c) => c.era === e); return list.length ? `## ${e}\n\n` + list.map((c) => `- [${c.name}](${caseUrl(c)}) ${badge(c.verdict)}<br/><span class="charge">${c.charge}</span>`).join("\n") : ""; }).filter(Boolean).join("\n\n") + "\n");
 const lexicon = fs.existsSync(path.join(VAULT, "_tools", "lexicon.tsv")) ? read(path.join(VAULT, "_tools", "lexicon.tsv")).split("\n").slice(1).filter(Boolean).map((l) => { const [topic, , terms] = l.split("\t"); return { topic, terms: (terms || "").split(";").map((t) => t.trim().toLowerCase()).filter(Boolean) }; }) : [];
 for (const e of ERAS) {
   const list = cases.cases.filter((c) => c.era === e); if (!list.length) continue;
@@ -264,13 +273,13 @@ for (const e of ERAS) {
     const taught = [...new Set(c.refs.map((r) => studyFor(r.book, r.chapter)).filter(Boolean))];
     const related = cases.cases.filter((o) => o !== c && o.themes.some((t) => c.themes.includes(t))).slice(0, 6);
     const body = [
-      `**${c.charge}** · ${VERDICT[c.verdict]} · ${c.era}`, "",
+      `<p class="casehead">${badge(c.verdict)} <span class="charge">${c.charge}</span><br/><span class="era">${c.era}</span></p>`, "",
       c.summary, "", "## The offense", "", c.offense, "", "## The judgment", "", c.judgment, "",
       "## Scripture", "", ...c.refs.map((r) => `**${refLink(r)}**${studyFor(r.book, r.chapter) ? ` · taught in [${studyFor(r.book, r.chapter).range}](${studyFor(r.book, r.chapter).url})` : ""}\n\n${quoteRef(r)}\n`),
       "## Laws broken", "", ...c.laws.map((l) => { const [sid, n] = l.split("."); const s = sectionById[sid]; if (!s) return `- ${l}`; const en = n ? s.entries[+n - 1] : null; return `- [${l}](${lawUrl(l)})${en ? " " + en.text : " " + s.title + " (section)"}`; }), "",
       "## Precepts", "", ...c.topics.map((t) => { const p = findPrecept(t); return p ? `- [${p.title}](${preceptUrl(p)})` : `- ${t}`; }), "",
       ...(related.length ? ["## Related cases", "", ...related.map((o) => `- [${o.name}](${caseUrl(o)}): ${o.charge}`), ""] : []),
-      ...(taught.length ? ["## Taught in", "", ...taught.map((n) => `- [${n.range}: ${n.title}](${n.url})`), ""] : []),
+      ...(taught.length ? ["## Taught in", "", ...taught.map((n) => `- [${noteLabel(n)}](${n.url})`), ""] : []),
       ...(see.length ? ["## See also", "", ...see.map((n) => `- [${n.title}](${n.url}) (Encyclopedia)`), ""] : []),
     ].join("\n");
     write(path.join(DOCS, "cases", eraSlug(e), `${c.slug}.md`), fm({ title: c.name, slug: caseUrl(c), sidebar_position: i + 1, description: c.charge, tags: [`verdict:${c.verdict}`, ...c.themes] }) + body);
@@ -292,8 +301,9 @@ for (const p of handbook.parts) {
     if (s.seeAlso?.length) body.push("See also: " + s.seeAlso.map((x) => (sectionById[x] ? `[${x} ${sectionById[x].title}](${sectionUrl(sectionById[x])})` : x)).join(", "), "");
     for (const e of s.entries) {
       const id = `${s.id}.${e.n}`;
-      body.push(`### ${id} {#${id}}`, "", e.text, "");
-      if (e.refs?.length) { body.push(e.refs.map((r) => refLink(r, true)).join("; "), "", ...e.refs.map(detailsRef), ""); for (const r of e.refs) cite(r, "law", `${id} ${e.text.slice(0, 90)}`, `${sectionUrl(s)}#${id}`); }
+      body.push(`<div class="law">`, "", `### ${id} {#${id}}`, "", e.text, "");
+      if (e.refs?.length) { body.push(`<p class="cites">` + e.refs.map((r) => `<a href="${href(chapterUrl(r.book, r.chapter, firstVerse(r.verses)))}">${abbr(r.book)} ${r.chapter}${r.verses ? ":" + r.verses : ""}</a>`).join(" · ") + `</p>`, "", ...e.refs.map(detailsRef), ""); for (const r of e.refs) cite(r, "law", `${id} ${e.text.slice(0, 90)}`, `${sectionUrl(s)}#${id}`); }
+      body.push(`</div>`, "");
     }
     write(path.join(dir, `${s.id.toLowerCase()}.md`), fm({ title: `${s.id} ${s.title}`, slug: sectionUrl(s), sidebar_label: `${s.id} ${s.title}`, sidebar_position: i + 1, description: `Part ${p.n}: ${p.title}` }) + body.join("\n"));
     writeJson(path.join(API, "laws", `${s.id}.json`), { id: s.id, title: s.title, part: { n: p.n, title: p.title }, url: sectionUrl(s), entries: s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, refs: e.refs, citation: e.citation })) });
@@ -309,7 +319,7 @@ for (const t of sortedPrecepts) { const L = t.title[0].toUpperCase(); if (L !== 
 write(path.join(DOCS, "precepts", "index.md"), fm({ title: "Precept Index", slug: "/precepts", sidebar_position: 0, pagination_next: null, pagination_prev: null }) + pi.join("\n") + "\n");
 sortedPrecepts.forEach((t, i) => {
   for (const r of t.refs) cite(r, "precept", t.title, preceptUrl(t));
-  const body = t.refs.map((r) => `**${refLink(r)}**${r.key ? " (key)" : ""}${studyFor(r.book, r.chapter) ? ` · taught in [${studyFor(r.book, r.chapter).range}](${studyFor(r.book, r.chapter).url})` : ""}\n\n${quoteRef(r, 8)}\n`).join("\n");
+  const body = t.refs.map((r) => `**${refLink(r)}**${r.key ? ' <span class="badge badge--primary">key</span>' : ""}${studyFor(r.book, r.chapter) ? ` · taught in [${studyFor(r.book, r.chapter).range}](${studyFor(r.book, r.chapter).url})` : ""}\n\n${quoteRef(r, 8)}\n`).join("\n");
   write(path.join(DOCS, "precepts", `${t.slug}.md`), fm({ title: t.title, slug: preceptUrl(t), sidebar_position: i + 1, description: `${t.refs.length} scripture references` }) + body);
   writeJson(path.join(API, "precepts", `${t.slug}.json`), { ...t, url: preceptUrl(t) });
 });
@@ -331,13 +341,17 @@ for (const b of BOOKS) {
     const verses = bible[b][String(c)] ?? [];
     const st = studyFor(b, c);
     const body = [];
-    if (st) body.push(`*Taught in [${st.range}: ${st.title}](${st.url})*`, "");
-    for (let i = 0; i < verses.length; i++) if (verses[i]) body.push(`<a id="v${i + 1}"></a><sup class="vn">${i + 1}</sup> ${esc(verses[i])}`, "");
-    body.push(citedBlock(b, c));
+    body.push(`<nav class="chapnav" aria-label="chapters">` + chs.map((x) => `<a href="${href(chapterUrl(b, x))}"${x === c ? ' class="on"' : ""}>${x}</a>`).join("") + `</nav>`, "");
+    if (st) body.push(`<p class="taught">Taught in <a href="${href(st.url)}">${noteLabel(st)}</a></p>`, "");
+    body.push(`<div class="scripture">`, "");
+    for (let i = 0; i < verses.length; i++) if (verses[i]) body.push(`<p class="verse" id="v${i + 1}"><a class="vn" href="#v${i + 1}">${i + 1}</a>${esc(verses[i])}</p>`);
+    body.push("", `</div>`, "");
+    const cb = citedBlock(b, c);
+    if (cb) body.push(`<div class="citedby">`, "", cb, "", `</div>`);
     write(path.join(dir, `${c}.md`), fm({ title: `${b} ${c}`, slug: chapterUrl(b, c), sidebar_label: String(c), sidebar_position: c, description: `${b} chapter ${c}, King James Version` }) + body.join("\n"));
     writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t })).filter((v) => v.text) });
-    const cb = cited.get(`${b}|${c}`);
-    if (cb) writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: cb });
+    const cbj = cited.get(`${b}|${c}`);
+    if (cbj) writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: cbj });
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0) });
 }
@@ -365,5 +379,11 @@ writeJson(path.join(SEARCH, "precepts.json"), sortedPrecepts.map((t) => ({ title
 writeJson(path.join(SEARCH, "cases.json"), cases.cases.map((c) => ({ name: c.name, url: caseUrl(c), text: `${c.charge}. ${c.summary} ${c.offense} ${c.judgment}` })));
 writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/api/laws/index.json", precepts: "/api/precepts/index.json", cases: "/api/cases/index.json", notes: "/api/notes/index.json", concordance: "/api/concordance/<book-slug>/<chapter>.json", chapter: "/api/kjv/<book-slug>/<chapter>.json" });
 
+write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
+  chapters: Object.values(CHAPTERS).reduce((a, b) => a + b, 0), books: BOOKS.length, verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
+  studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
+  laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(sectionById).length, parts: handbook.parts.length,
+  precepts: precepts.length, cases: cases.cases.length, citedChapters: cited.size,
+}));
 const count = (d) => fs.readdirSync(d, { recursive: true }).filter((f) => f.endsWith(".md")).length;
 console.error(`docs: ${count(DOCS)} pages · api: ${fs.readdirSync(API, { recursive: true }).filter((f) => f.endsWith(".json")).length} json · cited chapters: ${cited.size}`);

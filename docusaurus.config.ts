@@ -4,7 +4,10 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "CyberJudah",
   tagline: "KJV Study Bible with Apocrypha, study notes, class notes, encyclopedia, the law, precepts, and case studies",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.svg",
+  stylesheets: [
+    { href: "https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=JetBrains+Mono:wght@400;500;700&display=swap", type: "text/css" },
+  ],
   url: "https://devsecobie.github.io",
   baseUrl: "/cyberjudah/",
   organizationName: "DevSecObie",
@@ -33,8 +36,11 @@ const config: Config = {
   themeConfig: {
     colorMode: { respectPrefersColorScheme: true },
     docs: { sidebar: { hideable: true, autoCollapseCategories: true } },
+    tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
     navbar: {
       title: "CyberJudah",
+      logo: { alt: "CyberJudah", src: "img/logo.svg" },
+      hideOnScroll: true,
       items: [
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
         { type: "docSidebar", sidebarId: "study", label: "Study", position: "left" },
@@ -58,7 +64,6 @@ const config: Config = {
       ],
       copyright: "The Bible text is the public-domain King James Version (1769) with Apocrypha.",
     },
-    prism: { theme: undefined as never, darkTheme: undefined as never },
   } satisfies Preset.ThemeConfig,
 };
 export default config;

@@ -74,7 +74,7 @@ export default function Search() {
             {KINDS.filter(([k]) => hits.some((h) => h.kind === k)).map(([k, l]) => (
               <section key={k}>
                 <h2>{l} <small>{counts[k]}</small></h2>
-                <ul>{hits.filter((h) => h.kind === k).map((h, i) => <li key={i}><Link to={h.url}>{h.title}</Link> <span><Highlight text={h.snippet} q={q} /></span></li>)}</ul>
+                <ul className="hits">{hits.filter((h) => h.kind === k).map((h, i) => <li key={i}><Link to={h.url}>{h.title}</Link> <span><Highlight text={h.snippet} q={q} /></span></li>)}</ul>
                 {!only && counts[k] > 12 && <p><a href="#" onClick={(e) => { e.preventDefault(); go(q, k); }}>all {counts[k]} in {l.toLowerCase()}</a></p>}
               </section>
             ))}

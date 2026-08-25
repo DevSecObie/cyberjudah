@@ -18,3 +18,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Generated content (rebuilt by `npm run sync`)
+/docs
+/static/api
+/static/search
+/data/bible
+
+# Python
+__pycache__/
