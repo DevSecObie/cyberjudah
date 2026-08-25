@@ -17,6 +17,7 @@ const DATA = path.join(ROOT, "data");
 const DOCS = path.join(ROOT, "docs");
 const API = path.join(ROOT, "static", "api");
 const SEARCH = path.join(ROOT, "static", "search");
+const BLOG = path.join(ROOT, "blog");
 
 const read = (p) => fs.readFileSync(p, "utf8").replace(/^\uFEFF/, "");
 const json = (p) => JSON.parse(read(p));
@@ -30,7 +31,7 @@ const esc = (s) => s.replace(/</g, "&lt;");
 const BASE = (/baseUrl:\s*"([^"]+)"/.exec(read(path.join(ROOT, "docusaurus.config.ts")))?.[1] ?? "/").replace(/\/$/, "");
 const href = (u) => BASE + u;   // verse text is plain; keep the odd '<' from breaking CommonMark html
 
-for (const d of [DOCS, API, SEARCH]) fs.rmSync(d, { recursive: true, force: true });
+for (const d of [DOCS, API, SEARCH, BLOG]) fs.rmSync(d, { recursive: true, force: true });
 
 /* ---------------- scripture ---------------- */
 const bibleIndex = json(path.join(DATA, "bible", "index.json"));
@@ -52,7 +53,10 @@ function resolveBook(name) {
   if (VAULT_NAMES[n]) return VAULT_NAMES[n];
   return bookByLower.get(n.toLowerCase()) ?? null;
 }
-const chapterUrl = (book, ch, v) => `/bible/${bookSlug[book]}/${ch}${v ? "#v" + v : ""}`;
+// Greek Esther exists only as the Additions (chapters 10-16). A reference to 1-9 in
+// that book means canonical Esther, so resolve it there instead of emitting a dead link.
+const resolveChapter = (book, ch) => (bible[book] && bible[book][String(ch)]) ? book : (/^(.+) \(Greek\)$/.exec(book)?.[1] ?? book);
+const chapterUrl = (book, ch, v) => { const b = resolveChapter(book, ch); return `/bible/${bookSlug[b]}/${ch}${v ? "#v" + v : ""}`; };
 const bookUrl = (book) => `/bible/${bookSlug[book]}`;
 const verseText = (book, ch, v) => bible[book]?.[String(ch)]?.[v - 1] ?? null;
 const refLabel = (r) => `${r.book} ${r.chapter}${r.verses ? ":" + r.verses : ""}`;
@@ -225,15 +229,22 @@ function transform(body, self) {
 /* ---------------- write: notes (first, so their citations feed the chapter pages) ---------------- */
 const noteLabel = (n) => n.kind === "study" ? (n.title.startsWith(n.book) ? `${n.range} · ${n.title.replace(/^[^:]+:\s*/, "")}` : `${n.range} · ${n.title}`) : n.title;
 const noteSelf = (n) => ({ kind: n.kind === "encyclopedia" ? "encyclopedia" : "note", label: noteLabel(n), url: n.url });
-write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "Study Notes", position: 2, link: { type: "doc", id: "study/index" } }));
+function classBody(n) {
+  const videoId = /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1];
+  let body = transform(n.body, noteSelf(n));
+  if (!videoId) return body;
+  const player = `<StickyVideo videoId="${videoId}" />`;
+  return body.replace(/<figure class="class-hero">[\s\S]*?<\/figure>/, player);
+}
+write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "4 Chapters a Day", position: 2, link: { type: "doc", id: "study/index" } }));
 const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
-write(path.join(DOCS, "study", "index.md"), fm({ title: "Study Notes", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
+write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
   studyBooks.map((b) => `## [${b}](/study/${bookSlug[b]})\n\n` + notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]).map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n")).join("\n\n") + "\n");
 for (const b of studyBooks) {
   const dir = path.join(DOCS, "study", bookSlug[b]);
   write(path.join(dir, "_category_.json"), JSON.stringify({ label: b, position: bookNum[b], link: { type: "doc", id: `study/${bookSlug[b]}/index` } }));
   const list = notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]);
-  write(path.join(dir, "index.md"), fm({ title: `${b} Study Notes`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + list.map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n") + "\n");
+  write(path.join(dir, "index.md"), fm({ title: `${b}: 4 Chapters a Day`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + list.map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n") + "\n");
   for (const n of list) {
     const chs = Array.from({ length: n.chapters[1] - n.chapters[0] + 1 }, (_, i) => n.chapters[0] + i);
     const readLine = /Read the chapter/.test(n.body) ? "" : `<p class="taught">Read the chapters: ${chs.map((c) => `<a href="${href(chapterUrl(b, c))}">${abbr(b)} ${c}</a>`).join(" · ")}</p>\n\n`;
@@ -241,16 +252,19 @@ for (const b of studyBooks) {
       readLine + transform(n.body, noteSelf(n)));
   }
 }
-write(path.join(DOCS, "classes", "_category_.json"), JSON.stringify({ label: "Class Notes", position: 3, link: { type: "doc", id: "classes/index" } }));
+// Class notes are dated entries, so they are blog posts, not docs: the blog plugin
+// gives reverse-chronological order, an RSS/Atom feed and an archive for free, and
+// removes the negated-date sidebar_position hack this used to need.
 const classNotes = notes.filter((n) => n.kind === "class").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
 const years = [...new Set(classNotes.map((n) => n.year))].sort().reverse();
-write(path.join(DOCS, "classes", "index.md"), fm({ title: "Class Notes", slug: "/classes", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
-  years.map((y) => `## ${y}\n\n` + classNotes.filter((n) => n.year === y).map((n) => `- ${n.date} · [${n.title}](${n.url})`).join("\n")).join("\n\n") + "\n");
-for (const y of years) {
-  write(path.join(DOCS, "classes", y, "_category_.json"), JSON.stringify({ label: y, position: -parseInt(y, 10), collapsed: y !== years[0] }));
-  for (const n of classNotes.filter((x) => x.year === y))
-    write(path.join(DOCS, "classes", y, `${n.slug}.md`), fm({ title: n.title, slug: n.url, sidebar_label: `${n.date} ${n.title}`, sidebar_position: n.sidebarPos, description: `${n.series} · ${n.date}` }) +
-      `<p class="taught">${n.series}${n.date ? " · " + n.date + (n.dateEstimated ? " (date estimated)" : "") : ""}</p>\n\n` + transform(n.body, noteSelf(n)));
+for (const n of classNotes) {
+  const slugPath = n.url.replace(/^\/classes\//, "");
+  write(path.join(BLOG, n.year, `${n.date || n.slug}-${n.slug}.md`),
+    fm({ title: n.title, slug: slugPath, date: n.date || undefined,
+         description: `${n.series}${n.date ? " · " + n.date : ""}`,
+         tags: n.series ? [n.series] : undefined }) +
+    `<p class="taught">${n.series}${n.date ? " · " + n.date + (n.dateEstimated ? " (date estimated)" : "") : ""}</p>\n\n` +
+    "<!-- truncate -->\n\n" + classBody(n));
 }
 write(path.join(DOCS, "encyclopedia", "_category_.json"), JSON.stringify({ label: "Encyclopedia", position: 4, link: { type: "doc", id: "encyclopedia/index" } }));
 const enc = notes.filter((n) => n.kind === "encyclopedia").sort((a, b) => a.title.localeCompare(b.title));
@@ -355,7 +369,12 @@ for (const b of BOOKS) {
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0) });
 }
-writeJson(path.join(API, "kjv", "books.json"), bibleIndex.map((e) => ({ ...e, testament: testament(e.book), url: bookUrl(e.book) })));
+writeJson(path.join(API, "kjv", "books.json"), bibleIndex.map((e) => ({
+  ...e,
+  testament: testament(e.book),
+  url: bookUrl(e.book),
+  chapterIds: Object.keys(bible[e.book]).map(Number).sort((a, b) => a - b),
+})));
 
 /* ---------------- write: concordance ---------------- */
 write(path.join(DOCS, "concordance", "_category_.json"), JSON.stringify({ label: "Concordance", position: 8, link: { type: "doc", id: "concordance/index" }, collapsed: true }));

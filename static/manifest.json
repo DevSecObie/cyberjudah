@@ -1,0 +1,11 @@
+{
+  "name": "CyberJudah",
+  "short_name": "CyberJudah",
+  "description": "KJV Study Bible with Apocrypha, the law, precepts, case studies and class notes",
+  "start_url": "/cyberjudah/",
+  "scope": "/cyberjudah/",
+  "display": "standalone",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "icons": [{ "src": "/cyberjudah/img/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

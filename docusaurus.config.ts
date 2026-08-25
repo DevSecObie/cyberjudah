@@ -14,11 +14,32 @@ const config: Config = {
   projectName: "cyberjudah",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
-  onBrokenLinks: "warn",
-  onBrokenAnchors: "warn",
+  onBrokenLinks: "throw",
+  onBrokenAnchors: "ignore",   // verse ids are raw HTML; Docusaurus only tracks anchors it generates
   markdown: { format: "detect", hooks: { onBrokenMarkdownLinks: "warn" } },
   future: { v4: true, faster: { swcJsLoader: true, swcJsMinimizer: true, swcHtmlMinimizer: true, lightningCssMinimizer: true, rspackBundler: true, rspackPersistentCache: false, mdxCrossCompilerCache: true, ssgWorkerThreads: false } },
   i18n: { defaultLocale: "en", locales: ["en"] },
+  plugins: [
+    ["@docusaurus/plugin-client-redirects", {
+      // Greek Esther exists only as the Additions (chapters 10-16); references to
+      // 1-9 belong to canonical Esther.
+      redirects: [
+        { from: "/bible/esther-greek/6", to: "/bible/esther/6" },
+        { from: "/bible/esther-greek/7", to: "/bible/esther/7" },
+        { from: "/bible/esther-greek/9", to: "/bible/esther/9" },
+      ],
+    }],
+    ["@docusaurus/plugin-pwa", {
+      debug: false,
+      offlineModeActivationStrategies: ["appInstalled", "standalone", "queryString"],
+      pwaHead: [
+        { tagName: "link", rel: "icon", href: "/cyberjudah/img/favicon.svg" },
+        { tagName: "link", rel: "manifest", href: "/cyberjudah/manifest.json" },
+        { tagName: "meta", name: "theme-color", content: "#05070f" },
+      ],
+    }],
+    "docusaurus-plugin-image-zoom",
+  ],
   presets: [
     ["classic", {
       docs: {
@@ -29,12 +50,25 @@ const config: Config = {
         numberPrefixParser: false,
         breadcrumbs: true,
       },
-      blog: false,
+      blog: {
+        path: "blog",
+        routeBasePath: "classes",
+        blogTitle: "Sabbath Class Notes",
+        blogDescription: "Class notes from IUIC in the ClassRoom",
+        blogSidebarTitle: "Recent classes",
+        blogSidebarCount: "ALL",
+        postsPerPage: 10,
+        showReadingTime: true,
+        onUntruncatedBlogPosts: "ignore",
+        onInlineAuthors: "ignore",
+        feedOptions: { type: "all", title: "CyberJudah · Sabbath Class Notes", description: "Class notes from IUIC in the ClassRoom", copyright: "Public-domain KJV text with Apocrypha." },
+      },
       theme: { customCss: "./src/css/custom.css" },
     } satisfies Preset.Options],
   ],
   themeConfig: {
     colorMode: { defaultMode: "dark", respectPrefersColorScheme: true },
+    zoom: { selector: ".markdown img, .class-hero img" },
     docs: { sidebar: { hideable: true, autoCollapseCategories: true } },
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
     navbar: {
@@ -44,7 +78,7 @@ const config: Config = {
       items: [
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
         { type: "docSidebar", sidebarId: "study", label: "Study", position: "left" },
-        { type: "docSidebar", sidebarId: "classes", label: "Classes", position: "left" },
+        { to: "/classes", label: "Classes", position: "left" },
         { type: "docSidebar", sidebarId: "encyclopedia", label: "Encyclopedia", position: "left" },
         { type: "docSidebar", sidebarId: "law", label: "Law", position: "left" },
         { type: "docSidebar", sidebarId: "precepts", label: "Precepts", position: "left" },
@@ -58,7 +92,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [
-        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "Study Notes", to: "/study" }, { label: "Class Notes", to: "/classes" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
+        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
         { title: "The Law", items: [{ label: "Handbook", to: "/law" }, { label: "Precepts", to: "/precepts" }, { label: "Case Studies", to: "/cases" }, { label: "Concordance", to: "/concordance" }] },
         { title: "Tools", items: [{ label: "Search", to: "/search" }, { label: "API", to: "/api" }, { label: "Downloads", to: "/downloads" }] },
       ],

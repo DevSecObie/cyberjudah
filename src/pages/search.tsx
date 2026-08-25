@@ -54,7 +54,7 @@ export default function Search() {
     })();
     return () => { live = false; };
   }, [q, only]);
-  const go = (nq: string, nonly = "") => history.push(`/search?q=${encodeURIComponent(nq)}${nonly ? "&only=" + nonly : ""}`);
+  const go = (nq: string, nonly = "") => history.push(`${u("/search")}?q=${encodeURIComponent(nq)}${nonly ? "&only=" + nonly : ""}`);
   const total = Object.values(counts).reduce((a, b) => a + b, 0);
   return (
     <Layout title={q ? `“${q}”` : "Search"}>
