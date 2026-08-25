@@ -85,3 +85,5 @@ Verbatim notes from IUIC in the ClassRoom livestreams, with linked and embedded 
 - [[2026-04-11 - Armageddon Islam and the Armies of the East|Armageddon: Islam and the Armies of the East]] (2026-04-11)
 - [[2026-04-11 - The Pride Of Thine Heart Hath Deceived Thee!|The Pride Of Thine Heart Hath Deceived Thee!]] (2026-04-11)
 - [[2026-04-04 - WORLDWIDE UPHEAVAL THE COMING CRISIS|WORLDWIDE UPHEAVAL: THE COMING CRISIS]] (2026-04-04)
+- [[2026-03-28 - RELIGION - THE FALSE PROPHET|RELIGION - THE FALSE PROPHET]] (2026-03-28)
+- [[2026-03-28 - Respect The Evidence Of Her Faith|Respect: The Evidence Of Her Faith]] (2026-03-28)
