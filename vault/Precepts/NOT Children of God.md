@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[1 John 3#^v10|1 John 3:10]]
 - [[Romans 9#^v8|Romans 9:8]]
-- [[Matthew 13#^v38|Matthew 13:38]]
+- [[Matthew 13#^v38|Matthew 13:38]]  taught in [[Matthew 10-13 Study Notes|Matthew 10-13]]
 - [[John 8#^v44|John 8:44]]

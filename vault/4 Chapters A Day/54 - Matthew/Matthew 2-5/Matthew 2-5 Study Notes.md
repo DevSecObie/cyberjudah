@@ -1,4 +1,4 @@
-﻿← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Matthew Index|Matthew Study]] · [[Acts 1 Study Notes|Acts 1]] →
+﻿← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
 
 # Matthew 2: The Wise Men, Herod's Fear, and the Flight into Egypt
 
@@ -632,5 +632,5 @@ Read the chapter → [[Matthew 5]]
 
 Topics: [[Esau and Edom]] · [[Sacrifice and Atonement]] · [[The Priesthood]]
 
-← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Matthew Index|Matthew Study]] · [[Acts 1 Study Notes|Acts 1]] →
+← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
 

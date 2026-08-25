@@ -14,6 +14,6 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Mark 2#^v28|Mark 2:28]]
-- [[Matthew 12#^v8|Matthew 12:8]]
+- [[Matthew 12#^v8|Matthew 12:8]]  taught in [[Matthew 10-13 Study Notes|Matthew 10-13]]
 - [[Revelation 1#^v10|Revelation 1:10]]
 - [[Luke 6#^v5|Luke 6:5]]

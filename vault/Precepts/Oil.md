@@ -14,4 +14,4 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Proverbs 21#^v20|Proverbs 21:20]]  taught in [[Proverbs 21-24 Study Notes|Proverbs 21-24]]
-- [[Matthew 25#^v4|Matthew 25:4]]
+- [[Matthew 25#^v4|Matthew 25:4]]  taught in [[Matthew 22-25 Study Notes|Matthew 22-25]]

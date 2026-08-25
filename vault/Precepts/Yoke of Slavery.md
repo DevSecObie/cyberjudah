@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Deuteronomy 28#^v48|Deuteronomy 28:48]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
-- [[Matthew 11#^v29|Matthew 11:29]]
-- [[Matthew 11#^v30|Matthew 11:30]]
+- [[Matthew 11#^v29|Matthew 11:29]]  taught in [[Matthew 10-13 Study Notes|Matthew 10-13]]
+- [[Matthew 11#^v30|Matthew 11:30]]  taught in [[Matthew 10-13 Study Notes|Matthew 10-13]]

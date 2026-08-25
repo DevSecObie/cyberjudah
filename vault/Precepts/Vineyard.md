@@ -14,5 +14,5 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Isaiah 5#^v7|Isaiah 5:7]]  taught in [[Isaiah 2-5 Study Notes|Isaiah 2-5]]
-- [[Matthew 20#^v1|Matthew 20:1]]
+- [[Matthew 20#^v1|Matthew 20:1]]  taught in [[Matthew 18-21 Study Notes|Matthew 18-21]]
 - [[John 15#^v5|John 15:5]]

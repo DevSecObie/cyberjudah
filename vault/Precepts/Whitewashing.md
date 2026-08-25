@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[2 Corinthians 11#^v4|2 Corinthians 11:4]]
 - [[Mark 13#^v6|Mark 13:6]]
-- [[Matthew 24#^v5|Matthew 24:5]]
+- [[Matthew 24#^v5|Matthew 24:5]]  taught in [[Matthew 22-25 Study Notes|Matthew 22-25]]
 - [[1 Maccabees 3#^v48|1 Maccabees 3:48]]
 - [[Luke 21#^v8|Luke 21:8]]

@@ -15,4 +15,4 @@ tags: [precept]
 
 - [[1 Timothy 6#^v19|1 Timothy 6:19]]
 - [[Matthew 6#^v20|Matthew 6:20]]
-- [[Matthew 13#^v44|Matthew 13:44]]
+- [[Matthew 13#^v44|Matthew 13:44]]  taught in [[Matthew 10-13 Study Notes|Matthew 10-13]]
