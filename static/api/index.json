@@ -1,0 +1,1 @@
+{"kjv":"/api/kjv/books.json","laws":"/api/laws/index.json","precepts":"/api/precepts/index.json","cases":"/api/cases/index.json","notes":"/api/notes/index.json","concordance":"/api/concordance/<book-slug>/<chapter>.json","chapter":"/api/kjv/<book-slug>/<chapter>.json"}

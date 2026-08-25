@@ -1,0 +1,100 @@
+---
+title: Concordance
+---
+
+> [!info]- Generated
+> This note is built from the source data by `scripts/build_vault.py` and is overwritten on every run. Put your own notes in a separate file and link here.
+
+
+# Concordance
+
+Every chapter of scripture that a law, a precept, or a case study cites, book by book. Open a chapter here to see everything in the law library that lands on it.
+
+[[Law Index]] · [Home](/)
+
+
+## Old Testament
+- [[Genesis|Genesis]] (38 chapters)
+- [[Exodus|Exodus]] (32 chapters)
+- [[Leviticus|Leviticus]] (24 chapters)
+- [[Numbers|Numbers]] (32 chapters)
+- [[Deuteronomy|Deuteronomy]] (33 chapters)
+- [[Joshua|Joshua]] (18 chapters)
+- [[Judges|Judges]] (19 chapters)
+- [[Ruth|Ruth]] (2 chapters)
+- [[1 Samuel|1 Samuel]] (24 chapters)
+- [[2 Samuel|2 Samuel]] (20 chapters)
+- [[1 Kings|1 Kings]] (19 chapters)
+- [[2 Kings|2 Kings]] (22 chapters)
+- [[1 Chronicles|1 Chronicles]] (17 chapters)
+- [[2 Chronicles|2 Chronicles]] (31 chapters)
+- [[Ezra|Ezra]] (8 chapters)
+- [[Nehemiah|Nehemiah]] (10 chapters)
+- [[Esther|Esther]] (6 chapters)
+- [[Job|Job]] (32 chapters)
+- [[Psalms|Psalms]] (117 chapters)
+- [[Proverbs|Proverbs]] (31 chapters)
+- [[Ecclesiastes|Ecclesiastes]] (12 chapters)
+- [[Song of Solomon|Song of Solomon]] (1 chapters)
+- [[Isaiah|Isaiah]] (51 chapters)
+- [[Jeremiah|Jeremiah]] (41 chapters)
+- [[Lamentations|Lamentations]] (5 chapters)
+- [[Ezekiel|Ezekiel]] (31 chapters)
+- [[Daniel|Daniel]] (11 chapters)
+- [[Hosea|Hosea]] (14 chapters)
+- [[Joel|Joel]] (3 chapters)
+- [[Amos|Amos]] (7 chapters)
+- [[Obadiah|Obadiah]] (1 chapters)
+- [[Jonah|Jonah]] (4 chapters)
+- [[Micah|Micah]] (5 chapters)
+- [[Nahum|Nahum]] (3 chapters)
+- [[Habakkuk|Habakkuk]] (2 chapters)
+- [[Zephaniah|Zephaniah]] (3 chapters)
+- [[Haggai|Haggai]] (2 chapters)
+- [[Zechariah|Zechariah]] (11 chapters)
+- [[Malachi|Malachi]] (4 chapters)
+
+## New Testament
+- [[Matthew|Matthew]] (28 chapters)
+- [[Mark|Mark]] (16 chapters)
+- [[Luke|Luke]] (23 chapters)
+- [[John|John]] (21 chapters)
+- [[Acts|Acts]] (27 chapters)
+- [[Romans|Romans]] (16 chapters)
+- [[1 Corinthians|1 Corinthians]] (16 chapters)
+- [[2 Corinthians|2 Corinthians]] (12 chapters)
+- [[Galatians|Galatians]] (6 chapters)
+- [[Ephesians|Ephesians]] (6 chapters)
+- [[Philippians|Philippians]] (4 chapters)
+- [[Colossians|Colossians]] (4 chapters)
+- [[1 Thessalonians|1 Thessalonians]] (5 chapters)
+- [[2 Thessalonians|2 Thessalonians]] (3 chapters)
+- [[1 Timothy|1 Timothy]] (6 chapters)
+- [[2 Timothy|2 Timothy]] (4 chapters)
+- [[Titus|Titus]] (3 chapters)
+- [[Philemon|Philemon]] (1 chapters)
+- [[Hebrews|Hebrews]] (13 chapters)
+- [[James|James]] (5 chapters)
+- [[1 Peter|1 Peter]] (5 chapters)
+- [[2 Peter|2 Peter]] (3 chapters)
+- [[1 John|1 John]] (5 chapters)
+- [[2 John|2 John]] (1 chapters)
+- [[3 John|3 John]] (1 chapters)
+- [[Jude|Jude]] (1 chapters)
+- [[Revelation|Revelation]] (20 chapters)
+
+## Apocrypha
+- [[1 Esdras|1 Esdras]] (6 chapters)
+- [[2 Esdras|2 Esdras]] (14 chapters)
+- [[Tobit|Tobit]] (9 chapters)
+- [[Judith|Judith]] (11 chapters)
+- [[Additions to Esther|Additions to Esther]] (5 chapters)
+- [[Wisdom of Solomon|Wisdom of Solomon]] (18 chapters)
+- [[Ecclesiasticus|Ecclesiasticus]] (49 chapters)
+- [[Baruch|Baruch]] (4 chapters)
+- [[Susanna|Susanna]] (1 chapters)
+- [[Bel and the Dragon|Bel and the Dragon]] (1 chapters)
+- [[Prayer of Manasses|Prayer of Manasses]] (1 chapters)
+- [[1 Maccabees|1 Maccabees]] (9 chapters)
+- [[2 Maccabees|2 Maccabees]] (13 chapters)
+- [[Baruch|Baruch]] (1 chapters)
