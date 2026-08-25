@@ -233,7 +233,7 @@ function classBody(n) {
   const videoId = /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1];
   let body = transform(n.body, noteSelf(n));
   if (!videoId) return body;
-  const player = `<StickyVideo videoId="${videoId}" />`;
+  const player = `<div class="class-video-mount" data-video-id="${videoId}"></div>`;
   return body.replace(/<figure class="class-hero">[\s\S]*?<\/figure>/, player);
 }
 write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "4 Chapters a Day", position: 2, link: { type: "doc", id: "study/index" } }));

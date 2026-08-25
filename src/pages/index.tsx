@@ -57,7 +57,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            {/* the visible wordmark is ASCII, so keep a real heading for a11y and search */}
+            {/* the visible wordmark is an image lockup, so keep a real heading for a11y and search */}
             <h1 className="sr-only">CyberJudah</h1>
             <p className="sr-only">Shalom, MHNCBU!</p>
           </header>
