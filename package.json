@@ -3,15 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "docusaurus": "docusaurus",
+    "generate": "node scripts/generate.mjs",
+    "pipeline": "python3 scripts/import_bible.py vault/Bible && python3 scripts/build_vault.py && python3 scripts/build_cases.py > data/cases.json",
+    "sync": "npm run pipeline && npm run generate",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids",
+    "clear": "docusaurus clear",
     "typecheck": "tsc"
   },
   "dependencies": {
