@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[2 Esdras 2#^v40|2 Esdras 2:40]]
+- [[2 Esdras 2#^v40|2 Esdras 2:40]]  taught in [[2 Esdras 1-3 Study Notes|2 Esdras 1-3]]
 - [[Revelation 7#^v9|Revelation 7:9]]

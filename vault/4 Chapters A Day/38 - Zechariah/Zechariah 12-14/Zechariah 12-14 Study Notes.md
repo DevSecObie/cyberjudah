@@ -1,4 +1,4 @@
-﻿← [[Zechariah 8-11 Study Notes|Zechariah 8-11]] · [[Zechariah Index|Zechariah Study]] · [[Matthew 2-5 Study Notes|Matthew 2-5]] →
+﻿← [[Zechariah 8-11 Study Notes|Zechariah 8-11]] · [[Zechariah Index|Zechariah Study]] · [[1 Esdras 1-4 Study Notes|1 Esdras 1-4]] →
 
 # Zechariah 12: Jerusalem a Cup of Trembling
 
@@ -136,5 +136,5 @@ Read the chapter → [[Zechariah 14]]
 
 Topics: [[Clean and Unclean Meats]] · [[Idolatry]] · [[The Feasts of the Most High]]
 
-← [[Zechariah 8-11 Study Notes|Zechariah 8-11]] · [[Zechariah Index|Zechariah Study]] · [[Matthew 2-5 Study Notes|Matthew 2-5]] →
+← [[Zechariah 8-11 Study Notes|Zechariah 8-11]] · [[Zechariah Index|Zechariah Study]] · [[1 Esdras 1-4 Study Notes|1 Esdras 1-4]] →
 

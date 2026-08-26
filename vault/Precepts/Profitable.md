@@ -15,6 +15,6 @@ tags: [precept]
 
 - [[Jude 1#^v11|Jude 1:11]]
 - [[1 Timothy 4#^v15|1 Timothy 4:15]]
-- [[2 Esdras 9#^v22|2 Esdras 9:22]]
+- [[2 Esdras 9#^v22|2 Esdras 9:22]]  taught in [[2 Esdras 8-11 Study Notes|2 Esdras 8-11]]
 - [[Ecclesiasticus 10#^v4|Sirach 10:4]]
 - [[Ecclesiasticus 16#^v1|Sirach 16:1]]

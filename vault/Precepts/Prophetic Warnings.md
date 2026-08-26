@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[2 Esdras 15#^v5|2 Esdras 15:5]]
+- [[2 Esdras 15#^v5|2 Esdras 15:5]]  taught in [[2 Esdras 12-15 Study Notes|2 Esdras 12-15]]
 - [[Jeremiah 28#^v8|Jeremiah 28:8]]  taught in [[Jeremiah 28-31 Study Notes|Jeremiah 28-31]]
 - [[Matthew 24#^v7|Matthew 24:7]]  taught in [[Matthew 22-25 Study Notes|Matthew 22-25]]
 - [[Revelation 6#^v8|Revelation 6:8]]

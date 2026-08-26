@@ -1,4 +1,4 @@
-﻿← [[Zechariah 12-14 Study Notes|Zechariah 12-14]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
+﻿← [[2 Esdras 12-15 Study Notes|2 Esdras 12-15]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
 
 # Matthew 2: The Wise Men, Herod's Fear, and the Flight into Egypt
 
@@ -632,5 +632,5 @@ Read the chapter → [[Matthew 5]]
 
 Topics: [[Esau and Edom]] · [[Sacrifice and Atonement]] · [[The Priesthood]]
 
-← [[Zechariah 12-14 Study Notes|Zechariah 12-14]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
+← [[2 Esdras 12-15 Study Notes|2 Esdras 12-15]] · [[Matthew Index|Matthew Study]] · [[Matthew 10-13 Study Notes|Matthew 10-13]] →
 

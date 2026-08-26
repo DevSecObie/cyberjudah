@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[2 Esdras 1#^v35|2 Esdras 1:35]]
+- [[2 Esdras 1#^v35|2 Esdras 1:35]]  taught in [[2 Esdras 1-3 Study Notes|2 Esdras 1-3]]
 - [[Matthew 12#^v39|Matthew 12:39]]  taught in [[Matthew 10-13 Study Notes|Matthew 10-13]]
