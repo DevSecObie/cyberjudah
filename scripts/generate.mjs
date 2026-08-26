@@ -396,6 +396,28 @@ citedBooks.forEach((b, i) => {
 const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, summary: n.summary })));
 writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, text: plain(n.body) })));
+// class browse index. Books are shown on the card for context; filtering is by year
+// and by name, so nothing here needs to be tagged by hand.
+{
+  const weights = new Map();
+  for (const [key, rows] of cited) {
+    const book = key.split("|")[0];
+    for (const r of rows) {
+      if (!r.url.startsWith("/classes/")) continue;
+      if (!weights.has(r.url)) weights.set(r.url, new Map());
+      const w = weights.get(r.url); w.set(book, (w.get(book) ?? 0) + 1);
+    }
+  }
+  writeJson(path.join(SEARCH, "classes.json"), classNotes.map((n) => {
+    const w = [...(weights.get(n.url) ?? new Map())].sort((a, b) => b[1] - a[1] || BOOKS.indexOf(a[0]) - BOOKS.indexOf(b[0]));
+    const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
+    return {
+      title: n.title, url: n.url, date: n.date, year: n.year,
+      video: /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1] || "",
+      books: w.filter(([, c]) => c >= cut).slice(0, 4).map(([b]) => b),
+    };
+  }));
+}
 writeJson(path.join(SEARCH, "verses.json"), BOOKS.flatMap((b) => Object.entries(bible[b]).flatMap(([c, vs]) => vs.map((t, i) => (t ? [bookNum[b], +c, i + 1, t] : null)).filter(Boolean))));
 writeJson(path.join(SEARCH, "books.json"), BOOKS.map((b) => ({ book: b, slug: bookSlug[b] })));
 writeJson(path.join(SEARCH, "laws.json"), handbook.parts.flatMap((p) => p.sections.flatMap((s) => s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, url: `${sectionUrl(s)}#${s.id}.${e.n}` })))));
