@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Joel 3#^v2|Joel 3:2]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
-- [[Micah 2#^v2|Micah 2:2]]
+- [[Micah 2#^v2|Micah 2:2]]  taught in [[Micah 1-4 Study Notes|Micah 1-4]]
 - [[Deuteronomy 32#^v9|Deuteronomy 32:9]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
 - [[Deuteronomy 33#^v4|Deuteronomy 33:4]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
 - [[Jeremiah 12#^v7|Jeremiah 12:7]]  taught in [[Jeremiah 12-15 Study Notes|Jeremiah 12-15]]

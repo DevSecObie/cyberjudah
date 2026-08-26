@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Zephaniah 3#^v9|Zephaniah 3:9]]
+- [[Zephaniah 3#^v9|Zephaniah 3:9]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Genesis 11#^v7|Genesis 11:7]]  taught in [[Genesis 9-12 Study Notes|Genesis 9-12]]
 - [[Genesis 11#^v9|Genesis 11:9]]  taught in [[Genesis 9-12 Study Notes|Genesis 9-12]]
 - [[1 Corinthians 14#^v21|1 Corinthians 14:21]]

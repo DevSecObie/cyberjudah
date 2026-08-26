@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Micah 2#^v2|Micah 2:2]]
+- [[Micah 2#^v2|Micah 2:2]]  taught in [[Micah 1-4 Study Notes|Micah 1-4]]
 - [[Deuteronomy 28#^v31|Deuteronomy 28:31]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
 - [[Deuteronomy 28#^v33|Deuteronomy 28:33]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
 - [[Ezekiel 36#^v5|Ezekiel 36:5]]  taught in [[Ezekiel 35-38 Study Notes|Ezekiel 35-38]]

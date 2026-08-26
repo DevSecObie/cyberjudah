@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Micah 2#^v11|Micah 2:11]]
+- [[Micah 2#^v11|Micah 2:11]]  taught in [[Micah 1-4 Study Notes|Micah 1-4]]
 - [[Amos 2#^v12|Amos 2:12]]  taught in [[Amos 2-5 Study Notes|Amos 2-5]]
 - [[Isaiah 28#^v7|Isaiah 28:7]]  taught in [[Isaiah 26-29 Study Notes|Isaiah 26-29]]
 - [[Jeremiah 23#^v9|Jeremiah 23:9]]  taught in [[Jeremiah 20-23 Study Notes|Jeremiah 20-23]]

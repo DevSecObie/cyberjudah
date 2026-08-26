@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Habakkuk 2#^v5|Habakkuk 2:5]]
+- [[Habakkuk 2#^v5|Habakkuk 2:5]]  taught in [[Habakkuk 1-2 Study Notes|Habakkuk 1-2]]
 - [[Deuteronomy 17#^v15|Deuteronomy 17:15]]  taught in [[Deuteronomy 15-18 Study Notes|Deuteronomy 15-18]]
 - [[Hosea 8#^v4|Hosea 8:4]]  taught in [[Hosea 3-10 Study Notes|Hosea 3-10]]
 - [[1 Maccabees 1#^v41|1 Maccabees 1:41]]

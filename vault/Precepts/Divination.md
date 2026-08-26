@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Wisdom of Solomon 12#^v4|Wisdom of Solomon 12:4]]
-- [[Micah 5#^v12|Micah 5:12]]
+- [[Micah 5#^v12|Micah 5:12]]  taught in [[Micah 5-7 Study Notes|Micah 5-7]]
 - [[Exodus 22#^v18|Exodus 22:18]]  taught in [[Exodus 22-25 Study Notes|Exodus 22-25]]
 - [[Numbers 23#^v23|Numbers 23:23]]  taught in [[Numbers 23-26 Study Notes|Numbers 23-26]]
 - [[Deuteronomy 18#^v10|Deuteronomy 18:10]]  taught in [[Deuteronomy 15-18 Study Notes|Deuteronomy 15-18]]

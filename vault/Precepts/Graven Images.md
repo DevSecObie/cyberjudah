@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Habakkuk 2#^v18|Habakkuk 2:18]]
+- [[Habakkuk 2#^v18|Habakkuk 2:18]]  taught in [[Habakkuk 1-2 Study Notes|Habakkuk 1-2]]
 - [[Exodus 20#^v4|Exodus 20:4]]  taught in [[Exodus 18-21 Study Notes|Exodus 18-21]]
 - [[Deuteronomy 7#^v25|Deuteronomy 7:25]]  taught in [[Deuteronomy 7-10 Study Notes|Deuteronomy 7-10]]
 - [[Daniel 3#^v12|Daniel 3:12]]  taught in [[Daniel 3-6 Study Notes|Daniel 3-6]]

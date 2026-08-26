@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Micah 7#^v6|Micah 7:6]]
+- [[Micah 7#^v6|Micah 7:6]]  taught in [[Micah 5-7 Study Notes|Micah 5-7]]
 - [[Genesis 21#^v10|Genesis 21:10]]  taught in [[Genesis 21-24 Study Notes|Genesis 21-24]]
 - [[2 Samuel 6#^v20|2 Samuel 6:20]]  taught in [[2 Samuel 5-8 Study Notes|2 Samuel 5-8]]
 - [[Mark 3#^v35|Mark 3:35]]

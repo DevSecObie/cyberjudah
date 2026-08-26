@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Baruch 4#^v37|Baruch 4:37]]
-- [[Zephaniah 2#^v1|Zephaniah 2:1]]
+- [[Zephaniah 2#^v1|Zephaniah 2:1]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Genesis 49#^v10|Genesis 49:10]]  taught in [[Genesis 48-50 Study Notes|Genesis 48-50]]
 - [[2 Thessalonians 2#^v1|2 Thessalonians 2:1]]
 - [[Isaiah 56#^v8|Isaiah 56:8]]  taught in [[Isaiah 54-57 Study Notes|Isaiah 54-57]]

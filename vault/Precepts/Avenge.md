@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Zephaniah 3#^v8|Zephaniah 3:8]]
+- [[Zephaniah 3#^v8|Zephaniah 3:8]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Romans 12#^v19|Romans 12:19]]
 - [[Deuteronomy 30#^v7|Deuteronomy 30:7]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
 - [[Leviticus 19#^v18|Leviticus 19:18]]  taught in [[Leviticus 18-21 Study Notes|Leviticus 18-21]]

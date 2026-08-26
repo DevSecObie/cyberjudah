@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Obadiah 1#^v3|Obadiah 1:3]]
+- [[Obadiah 1#^v3|Obadiah 1:3]]  taught in [[Obadiah 1 Study Notes|Obadiah 1]]
 - [[1 Samuel 2#^v3|1 Samuel 2:3]]  taught in [[1 Samuel 1-3 Study Notes|1 Samuel 1-3]]
 - [[Psalms 10#^v4|Psalms 10:4]]  taught in [[Psalms 7-10 Study Notes|Psalms 7-10]]
 - [[Proverbs 11#^v2|Proverbs 11:2]]  taught in [[Proverbs 9-12 Study Notes|Proverbs 9-12]]

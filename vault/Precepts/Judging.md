@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Micah 3#^v8|Micah 3:8]]
+- [[Micah 3#^v8|Micah 3:8]]  taught in [[Micah 1-4 Study Notes|Micah 1-4]]
 - [[Exodus 18#^v26|Exodus 18:26]]  taught in [[Exodus 18-21 Study Notes|Exodus 18-21]]
 - [[Deuteronomy 1#^v16|Deuteronomy 1:16]]  taught in [[Deuteronomy 1-2 Study Notes|Deuteronomy 1-2]]
 - [[Deuteronomy 19#^v18|Deuteronomy 19:18]] **(key)**  taught in [[Deuteronomy 19-22 Study Notes|Deuteronomy 19-22]]

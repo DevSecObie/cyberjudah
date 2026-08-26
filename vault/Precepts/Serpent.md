@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Genesis 3#^v1|Genesis 3:1]]  taught in [[Genesis 1-4 Study Notes|Genesis 1-4]]
-- [[Micah 7#^v17|Micah 7:17]]
+- [[Micah 7#^v17|Micah 7:17]]  taught in [[Micah 5-7 Study Notes|Micah 5-7]]
 - [[Genesis 3#^v14|Genesis 3:14]]  taught in [[Genesis 1-4 Study Notes|Genesis 1-4]]
 - [[Deuteronomy 32#^v33|Deuteronomy 32:33]]  taught in [[Deuteronomy 31-34 Study Notes|Deuteronomy 31-34]]
 - [[Psalms 58#^v4|Psalms 58:4]]  taught in [[Psalms 55-58 Study Notes|Psalms 55-58]]

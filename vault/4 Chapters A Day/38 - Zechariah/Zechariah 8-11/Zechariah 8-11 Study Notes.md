@@ -1,4 +1,4 @@
-﻿← [[Zechariah 4-7 Study Notes|Zechariah 4-7]] · [[Zechariah Index|Zechariah Study]] · [[Matthew 2-5 Study Notes|Matthew 2-5]] →
+﻿← [[Zechariah 4-7 Study Notes|Zechariah 4-7]] · [[Zechariah Index|Zechariah Study]] · [[Zechariah 12-14 Study Notes|Zechariah 12-14]] →
 
 # Zechariah 8: I Will Return Unto Zion and Dwell in the Midst of Jerusalem
 
@@ -325,5 +325,5 @@ Read the chapter → [[Zechariah 11]]
 
 Topics: [[Idolatry]] · [[The Covenant]] · [[The Feasts of the Most High]] · [[The Priesthood]]
 
-← [[Zechariah 4-7 Study Notes|Zechariah 4-7]] · [[Zechariah Index|Zechariah Study]] · [[Matthew 2-5 Study Notes|Matthew 2-5]] →
+← [[Zechariah 4-7 Study Notes|Zechariah 4-7]] · [[Zechariah Index|Zechariah Study]] · [[Zechariah 12-14 Study Notes|Zechariah 12-14]] →
 

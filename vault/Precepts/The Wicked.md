@@ -13,8 +13,8 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Habakkuk 1#^v4|Habakkuk 1:4]]
-- [[Nahum 1#^v15|Nahum 1:15]]
+- [[Habakkuk 1#^v4|Habakkuk 1:4]]  taught in [[Habakkuk 1-2 Study Notes|Habakkuk 1-2]]
+- [[Nahum 1#^v15|Nahum 1:15]]  taught in [[Nahum 1 Study Notes|Nahum 1]]
 - [[Malachi 1#^v4|Malachi 1:4]]
 - [[2 Thessalonians 2#^v8|2 Thessalonians 2:8]]
 - [[Psalms 5#^v9|Psalms 5:9]]  taught in [[Psalms 3-6 Study Notes|Psalms 3-6]]

@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Obadiah 1#^v12|Obadiah 1:12]]
+- [[Obadiah 1#^v12|Obadiah 1:12]]  taught in [[Obadiah 1 Study Notes|Obadiah 1]]
 - [[1 Peter 1#^v1|1 Peter 1:1]]
 - [[2 Chronicles 15#^v9|2 Chronicles 15:9]]  taught in [[2 Chronicles 13-16 Study Notes|2 Chronicles 13-16]]
 - [[Isaiah 56#^v3|Isaiah 56:3]]  taught in [[Isaiah 54-57 Study Notes|Isaiah 54-57]]

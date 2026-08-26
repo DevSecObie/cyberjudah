@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Baruch 4#^v28|Baruch 4:28]]
-- [[Zephaniah 2#^v3|Zephaniah 2:3]]
+- [[Zephaniah 2#^v3|Zephaniah 2:3]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Deuteronomy 4#^v29|Deuteronomy 4:29]]  taught in [[Deuteronomy 3-6 Study Notes|Deuteronomy 3-6]]
 - [[Hosea 5#^v15|Hosea 5:15]]  taught in [[Hosea 3-10 Study Notes|Hosea 3-10]]
 - [[Psalms 10#^v4|Psalms 10:4]]  taught in [[Psalms 7-10 Study Notes|Psalms 7-10]]

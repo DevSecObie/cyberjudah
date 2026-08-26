@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Zephaniah 2#^v1|Zephaniah 2:1]]
+- [[Zephaniah 2#^v1|Zephaniah 2:1]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Malachi 3#^v16|Malachi 3:16]]
 - [[Ecclesiastes 4#^v9|Ecclesiastes 4:9]]  taught in [[Ecclesiastes 2-5 Study Notes|Ecclesiastes 2-5]]
 - [[Hebrews 10#^v25|Hebrews 10:25]]

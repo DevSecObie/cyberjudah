@@ -13,5 +13,5 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Micah 3#^v6|Micah 3:6]]
+- [[Micah 3#^v6|Micah 3:6]]  taught in [[Micah 1-4 Study Notes|Micah 1-4]]
 - [[Ephesians 4#^v26|Ephesians 4:26]]

@@ -15,5 +15,5 @@ tags: [precept]
 
 - [[Romans 1#^v16|Romans 1:16]]
 - [[Romans 3#^v1|Romans 3:1]]
-- [[Zechariah 12#^v7|Zechariah 12:7]]
+- [[Zechariah 12#^v7|Zechariah 12:7]]  taught in [[Zechariah 12-14 Study Notes|Zechariah 12-14]]
 - [[Acts 13#^v46|Acts 13:46]]

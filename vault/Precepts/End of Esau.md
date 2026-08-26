@@ -13,8 +13,8 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Obadiah 1#^v18|Obadiah 1:18]]
-- [[Obadiah 1#^v21|Obadiah 1:21]]
+- [[Obadiah 1#^v18|Obadiah 1:18]]  taught in [[Obadiah 1 Study Notes|Obadiah 1]]
+- [[Obadiah 1#^v21|Obadiah 1:21]]  taught in [[Obadiah 1 Study Notes|Obadiah 1]]
 - [[Malachi 1#^v4|Malachi 1:4]]
 - [[Genesis 25#^v26|Genesis 25:26]]  taught in [[Genesis 24-27 Study Notes|Genesis 24-27]]
 - [[Isaiah 34#^v5|Isaiah 34:5]]  taught in [[Isaiah 34-37 Study Notes|Isaiah 34-37]]

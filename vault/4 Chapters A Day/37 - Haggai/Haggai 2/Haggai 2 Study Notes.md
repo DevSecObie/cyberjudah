@@ -1,4 +1,4 @@
-﻿← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Haggai Index|Haggai Study]] · [[Zechariah 1-3 Study Notes|Zechariah 1-3]] →
+﻿← [[Haggai 1 Study Notes|Haggai 1]] · [[Haggai Index|Haggai Study]] · [[Zechariah 1-3 Study Notes|Zechariah 1-3]] →
 
 # Haggai 2: The Glory of the Latter House
 
@@ -88,5 +88,5 @@ This session reads Haggai 2 through Zechariah 3; these notes cover Haggai 2, whi
 
 Topics: [[Clean and Unclean Meats]] · [[The Priesthood]]
 
-← [[Amos 6-9 Study Notes|Amos 6-9]] · [[Haggai Index|Haggai Study]] · [[Zechariah 1-3 Study Notes|Zechariah 1-3]] →
+← [[Haggai 1 Study Notes|Haggai 1]] · [[Haggai Index|Haggai Study]] · [[Zechariah 1-3 Study Notes|Zechariah 1-3]] →
 

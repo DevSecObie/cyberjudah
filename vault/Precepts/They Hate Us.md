@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[1 John 3#^v13|1 John 3:13]]
-- [[Zephaniah 2#^v1|Zephaniah 2:1]]
+- [[Zephaniah 2#^v1|Zephaniah 2:1]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Deuteronomy 30#^v7|Deuteronomy 30:7]]  taught in [[Deuteronomy 27-30 Study Notes|Deuteronomy 27-30]]
 - [[Leviticus 26#^v17|Leviticus 26:17]]  taught in [[Leviticus 26-27 Study Notes|Leviticus 26-27]]
 - [[Job 8#^v22|Job 8:22]]  taught in [[Job 5-8 Study Notes|Job 5-8]]

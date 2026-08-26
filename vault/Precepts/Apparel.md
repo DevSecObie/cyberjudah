@@ -13,7 +13,7 @@ tags: [precept]
 
 [[Precepts index]] · [Home](/)
 
-- [[Zephaniah 1#^v8|Zephaniah 1:8]]
+- [[Zephaniah 1#^v8|Zephaniah 1:8]]  taught in [[Zephaniah 1-3 Study Notes|Zephaniah 1-3]]
 - [[Numbers 15#^v38|Numbers 15:38]]  taught in [[Numbers 15-18 Study Notes|Numbers 15-18]]
 - [[Joshua 7#^v21|Joshua 7:21]]  taught in [[Joshua 5-8 Study Notes|Joshua 5-8]]
 - [[Proverbs 7#^v10|Proverbs 7:10]]  taught in [[Proverbs 5-8 Study Notes|Proverbs 5-8]]

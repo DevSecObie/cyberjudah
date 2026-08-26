@@ -14,7 +14,7 @@ tags: [precept]
 [[Precepts index]] · [Home](/)
 
 - [[Joel 2#^v12|Joel 2:12]]  taught in [[Joel 1-3 Study Notes|Joel 1-3]]
-- [[Jonah 3#^v7|Jonah 3:7]]
+- [[Jonah 3#^v7|Jonah 3:7]]  taught in [[Jonah 1-4 Study Notes|Jonah 1-4]]
 - [[Leviticus 23#^v32|Leviticus 23:32]]  taught in [[Leviticus 22-25 Study Notes|Leviticus 22-25]]
 - [[1 Corinthians 7#^v5|1 Corinthians 7:5]]
 - [[Isaiah 58#^v6|Isaiah 58:6]]  taught in [[Isaiah 58-61 Study Notes|Isaiah 58-61]]
