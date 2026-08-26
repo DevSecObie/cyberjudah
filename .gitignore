@@ -28,3 +28,6 @@ yarn-error.log*
 # Python
 __pycache__/
 /blog
+
+# class thumbnails, pulled at build time by npm run sync
+/static/img/classes

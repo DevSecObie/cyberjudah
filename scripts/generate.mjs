@@ -396,8 +396,12 @@ citedBooks.forEach((b, i) => {
 const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, summary: n.summary })));
 writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, text: plain(n.body) })));
-// class browse index. Books are shown on the card for context; filtering is by year
-// and by name, so nothing here needs to be tagged by hand.
+// class browse index. Thumbnails are pulled to our own origin at build time: a
+// cross-origin image is at the mercy of the viewer's blockers, data saver and
+// network, which is why they were missing on some devices. mqdefault is a true
+// 16:9 320x180 (hqdefault is 4:3 with letterbox bars) and about half the bytes.
+// If a fetch fails the remote URL stays as the fallback, so this can only improve
+// on the previous behaviour and can never fail the build.
 {
   const weights = new Map();
   for (const [key, rows] of cited) {
@@ -408,12 +412,37 @@ writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, tit
       const w = weights.get(r.url); w.set(book, (w.get(book) ?? 0) + 1);
     }
   }
+
+  const THUMBS = path.join(ROOT, "static", "img", "classes");
+  fs.mkdirSync(THUMBS, { recursive: true });
+  const ids = [...new Set(classNotes.map((n) => /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1]).filter(Boolean))];
+  const localThumb = new Map();
+  let got = 0, missed = 0;
+  const pull = async (id) => {
+    const dest = path.join(THUMBS, `${id}.jpg`);
+    if (fs.existsSync(dest) && fs.statSync(dest).size > 1000) { localThumb.set(id, true); got++; return; }
+    try {
+      const ac = new AbortController();
+      const timer = setTimeout(() => ac.abort(), 10000);
+      const res = await fetch(`https://i.ytimg.com/vi/${id}/mqdefault.jpg`, { signal: ac.signal });
+      clearTimeout(timer);
+      if (!res.ok) throw new Error(String(res.status));
+      const buf = Buffer.from(await res.arrayBuffer());
+      if (buf.length < 1000) throw new Error("too small");
+      fs.writeFileSync(dest, buf);
+      localThumb.set(id, true); got++;
+    } catch { missed++; }
+  };
+  for (let i = 0; i < ids.length; i += 8) await Promise.all(ids.slice(i, i + 8).map(pull));
+  console.error(`class thumbnails: ${got} local, ${missed} falling back to i.ytimg.com`);
+
   writeJson(path.join(SEARCH, "classes.json"), classNotes.map((n) => {
     const w = [...(weights.get(n.url) ?? new Map())].sort((a, b) => b[1] - a[1] || BOOKS.indexOf(a[0]) - BOOKS.indexOf(b[0]));
     const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
+    const id = /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1] || "";
     return {
       title: n.title, url: n.url, date: n.date, year: n.year,
-      video: /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1] || "",
+      thumb: !id ? "" : localThumb.get(id) ? `/img/classes/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
       books: w.filter(([, c]) => c >= cut).slice(0, 4).map(([b]) => b),
     };
   }));

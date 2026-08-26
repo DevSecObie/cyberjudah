@@ -1,9 +1,9 @@
 import React, { useEffect, useMemo, useState } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
-import useBaseUrl from "@docusaurus/useBaseUrl";
+import useBaseUrl, { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
 
-type Klass = { title: string; url: string; date: string; year: string; video: string; books: string[] };
+type Klass = { title: string; url: string; date: string; year: string; thumb: string; books: string[] };
 type Sort = "new" | "old" | "az";
 
 const SORTS: [Sort, string][] = [["new", "Newest"], ["old", "Oldest"], ["az", "A–Z"]];
@@ -14,6 +14,7 @@ export default function Browse() {
   const [years, setYears] = useState<string[]>([]);
   const [sort, setSort] = useState<Sort>("new");
   const src = useBaseUrl("/search/classes.json");
+  const withBase = useBaseUrlUtils().withBaseUrl;
 
   useEffect(() => { fetch(src).then((r) => r.json()).then(setAll); }, [src]);
 
@@ -97,8 +98,8 @@ export default function Browse() {
             {hits.map((c) => (
               <article key={c.url} className="cj-card">
                 <Link to={c.url} className="cj-card-thumb" aria-hidden="true" tabIndex={-1}>
-                  {c.video
-                    ? <img src={`https://i.ytimg.com/vi/${c.video}/hqdefault.jpg`} alt="" loading="lazy" />
+                  {c.thumb
+                    ? <img src={c.thumb.startsWith("/") ? withBase(c.thumb) : c.thumb} alt="" loading="lazy" width={320} height={180} />
                     : <span className="cj-card-noimg" />}
                 </Link>
                 <h2><Link to={c.url}>{c.title}</Link></h2>
