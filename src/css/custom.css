@@ -64,7 +64,10 @@
   --ifm-navbar-background-color: rgba(5, 7, 15, .82);
 }
 html { scroll-padding-top: 90px; }
-.navbar { box-shadow: none; border-bottom: 1px solid var(--ifm-color-emphasis-200); }
+.navbar { box-shadow: none; border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  /* The navbar background is translucent; without a blur, the doc sidebar's own brand block
+     (shown when the navbar hides on scroll) reads through it as a ghost second wordmark. */
+  -webkit-backdrop-filter: blur(14px) saturate(1.4); backdrop-filter: blur(14px) saturate(1.4); }
 .navbar__title { font-family: var(--ifm-font-family-monospace); letter-spacing: .14em; font-weight: 700; }
 .navbar__logo { height: 26px; }
 .menu__link { font-size: .92em; }
@@ -496,3 +499,34 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
   .cj-facet-label { flex-basis: 100%; }
   .cj-cards { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1.6rem 1.1rem; }
 }
+
+/* ---------------- doc sidebar: no ghost wordmark ---------------- */
+/* The sidebar renders its own brand block so the logo survives the navbar hiding on scroll.
+   Keep it hidden while the navbar is on screen (it sits right behind the translucent navbar
+   and doubled the wordmark on every docs page), and reveal it once the navbar slides away. */
+.theme-doc-sidebar-container [class*="sidebarLogo"] { visibility: hidden; }
+html:has(.navbar[class*="navbarHidden"]) .theme-doc-sidebar-container [class*="sidebarLogo"] { visibility: visible; }
+
+/* ---------------- 404: terminal screen ---------------- */
+.cj-404 { display: flex; justify-content: center; padding: 9vh 1rem 12vh; }
+.cj-404-frame { width: 100%; max-width: 620px; border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 10px; overflow: hidden; background: var(--ifm-background-surface-color);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, .35), 0 0 0 1px var(--cj-highlight); }
+.cj-404-bar { display: flex; align-items: center; gap: .45rem; padding: .55rem .9rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200); }
+.cj-404-bar span { width: 11px; height: 11px; border-radius: 50%; background: var(--ifm-color-emphasis-200); }
+.cj-404-bar em { margin-left: auto; font-family: var(--ifm-font-family-monospace); font-style: normal;
+  font-size: .72rem; letter-spacing: .08em; color: var(--ifm-color-emphasis-600); }
+.cj-404-body { padding: 1.4rem 1.5rem 1.6rem; font-family: var(--ifm-font-family-monospace); font-size: .95rem; }
+.cj-404-body p { margin: 0 0 .55rem; }
+.cj-404-prompt { color: var(--ifm-color-primary); font-weight: 700; }
+.cj-404-err { color: var(--cj-magenta); }
+.cj-404-hint { color: var(--ifm-color-emphasis-600); font-family: var(--ifm-font-family-base); margin-top: 1rem; }
+.cj-404-links { list-style: none; padding: 0; margin: .3rem 0 1.4rem; }
+.cj-404-links li { padding: .22rem 0; color: var(--ifm-color-emphasis-600); }
+.cj-404-links a { font-weight: 700; }
+.cj-404-search { display: flex; align-items: baseline; gap: .55rem; border-top: 1px solid var(--ifm-color-emphasis-200); padding-top: 1rem; }
+.cj-404-cmd { color: var(--cj-amber); }
+.cj-404-search input { flex: 1; min-width: 0; background: none; border: none; outline: none;
+  color: var(--ifm-font-color-base); font-family: inherit; font-size: inherit; caret-color: var(--ifm-color-primary); }
+.cj-404-search input::placeholder { color: var(--ifm-color-emphasis-600); opacity: .7; }
