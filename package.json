@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "generate": "node scripts/generate.mjs",
-    "sync": "node scripts/generate.mjs",
+    "generate": "node scripts/generate.mjs && node scripts/build-search-index.mjs",
+    "sync": "node scripts/generate.mjs && node scripts/build-search-index.mjs",
     "start": "npm run sync && docusaurus start",
     "build": "npm run sync && docusaurus build",
     "serve": "docusaurus serve",
@@ -29,6 +29,7 @@
     "@docusaurus/tsconfig": "3.10.2",
     "@docusaurus/types": "3.10.2",
     "@types/react": "^19.0.0",
+    "pagefind": "^1.5.2",
     "typescript": "~6.0.2"
   },
   "browserslist": {

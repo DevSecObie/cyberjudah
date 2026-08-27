@@ -38,3 +38,7 @@ yarn-error.log*
 
 # class thumbnails, pulled at build time by npm run sync
 /static/img/classes
+
+# search index, rebuilt by npm run sync
+/static/pagefind
+/.search-records.json
