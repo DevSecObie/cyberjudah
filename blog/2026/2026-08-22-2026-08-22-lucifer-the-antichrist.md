@@ -1,5 +1,5 @@
 ---
-title: "Lucifer: The Antichrist"
+title: "LUCIFER: THE ANTICHRIST"
 slug: "2026/2026-08-22-lucifer-the-antichrist"
 date: "2026-08-22"
 description: "IUIC in the ClassRoom · 2026-08-22"

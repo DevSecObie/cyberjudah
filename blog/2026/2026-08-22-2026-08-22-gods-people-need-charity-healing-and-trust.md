@@ -1,5 +1,5 @@
 ---
-title: "God's People Need Charity, Healing & Trust"
+title: "GOD'S PEOPLE NEED CHARITY, HEALING & TRUST"
 slug: "2026/2026-08-22-gods-people-need-charity-healing-and-trust"
 date: "2026-08-22"
 description: "IUIC in the ClassRoom · 2026-08-22"

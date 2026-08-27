@@ -1,5 +1,5 @@
 ---
-title: "Prison House of Shadows"
+title: "PRISON HOUSE OF SHADOWS"
 slug: "2026/2026-08-15-prison-house-of-shadows"
 date: "2026-08-15"
 description: "IUIC in the ClassRoom · 2026-08-15"
