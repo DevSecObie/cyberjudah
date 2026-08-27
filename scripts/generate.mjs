@@ -362,7 +362,12 @@ citedBooks.forEach((b, i) => {
 /* ---------------- API: notes; search indexes ---------------- */
 const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, summary: n.summary })));
-writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, text: plain(n.body) })));
+// Search records for the sharded Pagefind index (built by scripts/build-search-index.mjs).
+// Written outside static/ on purpose: the flat notes+verses JSON reached 20 MB, and the old
+// search page downloaded all of it into the browser on the first query. Only the sharded
+// index under static/pagefind ships now.
+const records = [];
+for (const n of notes) records.push({ kind: n.kind, title: n.title, url: n.url, content: plain(n.body) });
 // class browse index. Thumbnails are pulled to our own origin at build time: a
 // cross-origin image is at the mercy of the viewer's blockers, data saver and
 // network, which is why they were missing on some devices. mqdefault is a true
@@ -414,11 +419,22 @@ writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, tit
     };
   }));
 }
-writeJson(path.join(SEARCH, "verses.json"), BOOKS.flatMap((b) => Object.entries(bible[b]).flatMap(([c, vs]) => vs.map((t, i) => (t ? [bookNum[b], +c, i + 1, t] : null)).filter(Boolean))));
+// Scripture is grouped one record per chapter, with each verse as an anchored heading, so
+// Pagefind serves verse-level sub-results without emitting one fragment file per verse
+// (one per verse meant 39k files in the deploy; one per chapter is ~1.3k).
+for (const b of BOOKS) for (const [c, vs] of Object.entries(bible[b]))
+  records.push({ kind: "verse", title: `${b} ${c}`, url: `/bible/${bookSlug[b]}/${c}`,
+    anchored: vs.map((t, i) => (t ? [`v${i + 1}`, `${b} ${c}:${i + 1}`, t] : null)).filter(Boolean) });
 writeJson(path.join(SEARCH, "books.json"), BOOKS.map((b) => ({ book: b, slug: bookSlug[b] })));
 writeJson(path.join(SEARCH, "laws.json"), handbook.parts.flatMap((p) => p.sections.flatMap((s) => s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, url: `${sectionUrl(s)}#${s.id}.${e.n}` })))));
 writeJson(path.join(SEARCH, "precepts.json"), sortedPrecepts.map((t) => ({ title: t.title, url: preceptUrl(t), n: t.refs.length })));
 writeJson(path.join(SEARCH, "cases.json"), cases.cases.map((c) => ({ name: c.name, url: caseUrl(c), text: `${c.charge}. ${c.summary} ${c.offense} ${c.judgment}` })));
+for (const p of handbook.parts) for (const sec of p.sections)
+  records.push({ kind: "law", title: `${sec.id} ${sec.title}`, url: sectionUrl(sec),
+    anchored: sec.entries.map((e) => [`${sec.id}.${e.n}`, `${sec.id}.${e.n}`, e.text]) });
+for (const t of sortedPrecepts) records.push({ kind: "precept", title: t.title, url: preceptUrl(t), sub: `${t.refs.length} verses`, content: t.title });
+for (const c of cases.cases) records.push({ kind: "case", title: c.name, url: caseUrl(c), content: `${c.charge}. ${c.summary} ${c.offense} ${c.judgment}` });
+writeJson(path.join(ROOT, ".search-records.json"), records);
 writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/api/laws/index.json", precepts: "/api/precepts/index.json", cases: "/api/cases/index.json", notes: "/api/notes/index.json", concordance: "/api/concordance/<book-slug>/<chapter>.json", chapter: "/api/kjv/<book-slug>/<chapter>.json" });
 
 write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({

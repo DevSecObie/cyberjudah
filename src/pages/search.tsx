@@ -1,25 +1,29 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import { useLocation, useHistory } from "@docusaurus/router";
 
-type Hit = { kind: string; title: string; snippet: string; url: string };
-type Note = { kind: string; title: string; url: string; text: string };
+// Search over the sharded Pagefind index built by scripts/build-search-index.mjs.
+// The browser downloads only the shards a query touches (a few hundred KB), not the
+// whole corpus; the previous flat-JSON scan pulled 20 MB on the first unfiltered query.
+// Scripture and law records are chapter/section fragments whose verse-level anchors come
+// back as sub-results, so hits still land on the exact verse.
+
+type Hit = { kind: string; title: string; url: string; excerpt: string; sub?: string };
 const KINDS: [string, string][] = [["verse", "Scripture"], ["law", "Laws"], ["precept", "Precepts"], ["case", "Cases"], ["study", "Study notes"], ["class", "Classes"], ["encyclopedia", "Encyclopedia"]];
-const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-function snippet(text: string, q: string, width = 200) {
-  const i = text.toLowerCase().indexOf(q.toLowerCase());
-  if (i < 0) return text.slice(0, width) + (text.length > width ? "…" : "");
-  const a = Math.max(0, i - Math.floor(width / 3)), b = Math.min(text.length, i + q.length + Math.floor((width * 2) / 3));
-  return (a ? "…" : "") + text.slice(a, b) + (b < text.length ? "…" : "");
-}
-function Highlight({ text, q }: { text: string; q: string }) {
-  const re = useMemo(() => new RegExp(`(${esc(q.trim())})`, "ig"), [q]);
-  return <>{text.split(re).map((p, i) => (i % 2 ? <mark key={i}>{p}</mark> : p))}</>;
-}
-const cache: Record<string, Promise<unknown>> = {};
-const load = <T,>(url: string): Promise<T> => (cache[url] ??= fetch(url).then((r) => r.json())) as Promise<T>;
+const PER_KIND = 12;      // rows shown per kind on the "all" view
+const ONLY_LIMIT = 200;   // rows shown when a single kind is selected
+
+type PfSub = { title: string; url: string; excerpt: string; anchor?: { id: string } };
+type PfData = { url: string; excerpt: string; meta: { title?: string; kind?: string; sub?: string }; sub_results?: PfSub[] };
+type PfResult = { id: string; data: () => Promise<PfData> };
+type PfResponse = { results: PfResult[]; filters?: { kind?: Record<string, number> }; totalFilters?: { kind?: Record<string, number> } };
+type Pf = {
+  options: (o: Record<string, unknown>) => Promise<void>;
+  search: (q: string, o?: Record<string, unknown>) => Promise<PfResponse>;
+};
+const escRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 export default function Search() {
   const loc = useLocation(); const history = useHistory();
@@ -31,36 +35,64 @@ export default function Search() {
   const [busy, setBusy] = useState(false);
   const base = useBaseUrl("/");
   const u = (p: string) => base.replace(/\/$/, "") + p;
+  const pfRef = useRef<Pf | null>(null);
+
   useEffect(() => { setInput(q); }, [q]);
   useEffect(() => {
     if (!q.trim()) { setHits(null); return; }
     let live = true; setBusy(true);
     (async () => {
-      const lc = q.trim().toLowerCase(); const re = new RegExp(`\\b${esc(lc)}`, "i");
-      const out: Hit[] = []; const c: Record<string, number> = {};
-      const limit = only ? 500 : 12;
-      const push = (h: Hit) => { c[h.kind] = (c[h.kind] ?? 0) + 1; if (c[h.kind] <= limit) out.push(h); };
-      const want = (k: string) => !only || only === k;
-      if (want("law")) for (const l of await load<{ id: string; text: string; url: string }[]>(u("/search/laws.json"))) if (re.test(l.text)) push({ kind: "law", title: l.id, snippet: l.text, url: l.url });
-      if (want("precept")) for (const t of await load<{ title: string; url: string; n: number }[]>(u("/search/precepts.json"))) if (t.title.toLowerCase().includes(lc)) push({ kind: "precept", title: t.title, snippet: `${t.n} verses`, url: t.url });
-      if (want("case")) for (const x of await load<{ name: string; url: string; text: string }[]>(u("/search/cases.json"))) if (re.test(`${x.name} ${x.text}`)) push({ kind: "case", title: x.name, snippet: snippet(x.text, q), url: x.url });
-      if (want("verse") && lc.length >= 3) {
-        const books = await load<{ book: string; slug: string }[]>(u("/search/books.json"));
-        for (const [b, ch, v, t] of await load<[number, number, number, string][]>(u("/search/verses.json"))) if (re.test(t)) push({ kind: "verse", title: `${books[b - 1].book} ${ch}:${v}`, snippet: snippet(t, q, 240), url: `/bible/${books[b - 1].slug}/${ch}#v${v}` });
+      if (!pfRef.current) {
+        // Served from static/pagefind; imported at runtime, invisible to the bundler.
+        const pf: Pf = await import(/* webpackIgnore: true */ `${base}pagefind/pagefind.js`);
+        await pf.options({ baseUrl: base });
+        pfRef.current = pf;
       }
-      if ((want("study") || want("class") || want("encyclopedia")) && lc.length >= 3)
-        for (const n of await load<Note[]>(u("/search/notes.json"))) if (want(n.kind) && (n.title.toLowerCase().includes(lc) || re.test(n.text))) push({ kind: n.kind, title: n.title, snippet: snippet(n.text, q), url: n.url });
+      const pf = pfRef.current;
+      // One filtered search per kind: result counts come from results.length with no
+      // fragment fetched, and a section stops fetching fragments the moment it has its
+      // rows. A chapter fragment carries all of its matching verses as sub-results, so
+      // one fetch often fills several rows.
+      const cap = only ? ONLY_LIMIT : PER_KIND;
+      const c: Record<string, number> = {};
+      const out: Hit[] = [];
+      for (const [kind] of KINDS) {
+        const res = await pf.search(q.trim(), { filters: { kind } });
+        if (!live) return;
+        if (!res.results.length) continue;
+        c[kind] = res.results.length;
+        if (only && kind !== only) continue;
+        let rows = 0;
+        for (const r of res.results) {
+          if (!live) return;
+          if (rows >= cap) break;
+          const d = await r.data();
+          const anchored = (d.sub_results ?? []).filter((s) => s.anchor?.id);
+          if (anchored.length) {
+            for (const s of anchored) {
+              if (rows >= cap) break;
+              rows++;
+              // The anchor heading repeats the row title; keep the excerpt to the text.
+              out.push({ kind, title: s.title, url: s.url, excerpt: s.excerpt.replace(new RegExp(`^\\s*(<mark>)?${escRe(s.title)}(</mark>)?\\.?\\s*`), "") });
+            }
+          } else {
+            rows++;
+            out.push({ kind, title: d.meta.title ?? d.url, url: d.url, excerpt: d.excerpt, sub: d.meta.sub });
+          }
+        }
+      }
       if (live) { setHits(out); setCounts(c); setBusy(false); }
-    })();
+    })().catch(() => { if (live) { setHits([]); setCounts({}); setBusy(false); } });
     return () => { live = false; };
-  }, [q, only]);
+  }, [q, only, base]);
+
   const go = (nq: string, nonly = "") => history.push(`${u("/search")}?q=${encodeURIComponent(nq)}${nonly ? "&only=" + nonly : ""}`);
   const total = Object.values(counts).reduce((a, b) => a + b, 0);
   return (
     <Layout title={q ? `“${q}”` : "Search"}>
       <main className="container margin-vert--lg">
-        <form onSubmit={(e) => { e.preventDefault(); go(input); }} style={{ display: "flex", gap: 8, marginBottom: 20 }}>
-          <input value={input} onChange={(e) => setInput(e.target.value)} placeholder="a word, a phrase, or a reference" style={{ flex: 1, fontSize: 18, padding: "8px 12px" }} autoFocus />
+        <form onSubmit={(e) => { e.preventDefault(); go(input, only); }} style={{ display: "flex", gap: 8, marginBottom: 20 }}>
+          <input value={input} onChange={(e) => setInput(e.target.value)} placeholder={'a word, a "quoted phrase", or a reference'} style={{ flex: 1, fontSize: 18, padding: "8px 12px" }} autoFocus />
           <button className="button button--primary" type="submit">Search</button>
         </form>
         {busy && <p>Searching…</p>}
@@ -74,8 +106,13 @@ export default function Search() {
             {KINDS.filter(([k]) => hits.some((h) => h.kind === k)).map(([k, l]) => (
               <section key={k}>
                 <h2>{l} <small>{counts[k]}</small></h2>
-                <ul className="hits">{hits.filter((h) => h.kind === k).map((h, i) => <li key={i}><Link to={h.url}>{h.title}</Link> <span><Highlight text={h.snippet} q={q} /></span></li>)}</ul>
-                {!only && counts[k] > 12 && <p><a href="#" onClick={(e) => { e.preventDefault(); go(q, k); }}>all {counts[k]} in {l.toLowerCase()}</a></p>}
+                <ul className="hits">{hits.filter((h) => h.kind === k).map((h, i) => (
+                  <li key={i}>
+                    <Link to={h.url}>{h.title}</Link>{" "}
+                    <span dangerouslySetInnerHTML={{ __html: h.sub ?? h.excerpt }} />
+                  </li>
+                ))}</ul>
+                {!only && counts[k] > PER_KIND && <p><a href="#" onClick={(e) => { e.preventDefault(); go(q, k); }}>all {counts[k]} in {l.toLowerCase()}</a></p>}
               </section>
             ))}
           </>
