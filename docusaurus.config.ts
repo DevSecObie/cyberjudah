@@ -1,6 +1,14 @@
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
+const REPO = "https://github.com/DevSecObie/cyberjudah/edit/main";
+// Only the notes are committed; the scripture, law, precept and case pages are generated on
+// every build and have no file to edit. Returning undefined for those omits the link rather
+// than pointing at a path that does not exist in the repo.
+const EDITABLE = /^(study\/[a-z0-9-]+\/\d|encyclopedia\/(?!index))/;
+const editDoc = ({ docPath }: { docPath: string }) =>
+  EDITABLE.test(docPath) ? `${REPO}/docs/${docPath}` : undefined;
+
 const config: Config = {
   title: "CyberJudah",
   tagline: "KJV Study Bible with Apocrypha, study notes, class notes, encyclopedia, the law, precepts, and case studies",
@@ -45,6 +53,7 @@ const config: Config = {
       docs: {
         path: "docs",
         routeBasePath: "/",
+        editUrl: editDoc,
         sidebarPath: "./sidebars.ts",
         showLastUpdateTime: false,
         numberPrefixParser: false,
@@ -53,6 +62,7 @@ const config: Config = {
       blog: {
         path: "blog",
         routeBasePath: "classes",
+        editUrl: REPO,
         blogTitle: "Sabbath Class Notes",
         blogDescription: "Class notes from IUIC in the ClassRoom",
         blogSidebarTitle: "Recent classes",
