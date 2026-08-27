@@ -419,7 +419,21 @@ writeJson(path.join(SEARCH, "books.json"), BOOKS.map((b) => ({ book: b, slug: bo
 writeJson(path.join(SEARCH, "laws.json"), handbook.parts.flatMap((p) => p.sections.flatMap((s) => s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, url: `${sectionUrl(s)}#${s.id}.${e.n}` })))));
 writeJson(path.join(SEARCH, "precepts.json"), sortedPrecepts.map((t) => ({ title: t.title, url: preceptUrl(t), n: t.refs.length })));
 writeJson(path.join(SEARCH, "cases.json"), cases.cases.map((c) => ({ name: c.name, url: caseUrl(c), text: `${c.charge}. ${c.summary} ${c.offense} ${c.judgment}` })));
-writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/api/laws/index.json", precepts: "/api/precepts/index.json", cases: "/api/cases/index.json", notes: "/api/notes/index.json", concordance: "/api/concordance/<book-slug>/<chapter>.json", chapter: "/api/kjv/<book-slug>/<chapter>.json" });
+/* ---------------- API: cross references; WEB parallel translation ----------------
+   data/crossrefs.json: public-domain Treasury of Scripture Knowledge lineage, converted from
+   github.com/josephilipraja/bible-cross-reference-json (66 books, capped at 12 refs per verse).
+   data/web-translation.json: World English Bible (public domain), from the world-english-bible
+   npm package, for the per-verse compare view. Both are emitted per chapter so the reader
+   fetches only the open chapter. */
+{
+  const crossrefs = json(path.join(DATA, "crossrefs.json"));
+  for (const [slug, chapters] of Object.entries(crossrefs))
+    for (const [c, verses] of Object.entries(chapters)) writeJson(path.join(API, "xref", slug, `${c}.json`), verses);
+  const web = json(path.join(DATA, "web-translation.json"));
+  for (const [slug, chapters] of Object.entries(web))
+    for (const [c, verses] of Object.entries(chapters)) writeJson(path.join(API, "web", slug, `${c}.json`), verses);
+}
+writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/api/laws/index.json", precepts: "/api/precepts/index.json", cases: "/api/cases/index.json", notes: "/api/notes/index.json", concordance: "/api/concordance/<book-slug>/<chapter>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", chapter: "/api/kjv/<book-slug>/<chapter>.json" });
 
 write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
   chapters: Object.values(CHAPTERS).reduce((a, b) => a + b, 0), books: BOOKS.length, verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
