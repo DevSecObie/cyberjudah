@@ -19,15 +19,22 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Generated content (rebuilt by `npm run sync`)
-/docs
+# Generated content (rebuilt by `npm run build`).
+# The notes under /docs/study, /docs/encyclopedia and /blog are hand-written source and
+# ARE tracked; everything listed here is derived from them or from /data and is rebuilt.
+/docs/bible
+/docs/law
+/docs/precepts
+/docs/cases
+/docs/concordance
+/docs/study/index.md
+/docs/study/_category_.json
+/docs/study/*/index.md
+/docs/study/*/_category_.json
+/docs/encyclopedia/index.md
+/docs/encyclopedia/_category_.json
 /static/api
 /static/search
-/data/bible
-
-# Python
-__pycache__/
-/blog
 
 # class thumbnails, pulled at build time by npm run sync
 /static/img/classes

@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "generate": "node scripts/generate.mjs",
-    "pipeline": "python3 scripts/import_bible.py vault/Bible && python3 scripts/build_vault.py && python3 scripts/build_cases.py > data/cases.json",
-    "sync": "npm run pipeline && npm run generate",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
+    "sync": "node scripts/generate.mjs",
+    "start": "npm run sync && docusaurus start",
+    "build": "npm run sync && docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "typecheck": "tsc"

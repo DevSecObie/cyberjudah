@@ -1,0 +1,405 @@
+<title>Which Copy Is the Source</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+  :root {
+    --ground:   #f6f8f9;
+    --surface:  #ffffff;
+    --sunken:   #eceff2;
+    --ink:      #16202b;
+    --ink-soft: #4a5a68;
+    --ink-mute: #74848f;
+    --rule:     #d6dde3;
+    --rule-soft:#e6ebef;
+    --accent:   #1f5f52;
+    --accent-b: #2c8371;
+    --cost:     #9c5a24;
+    --cost-bg:  #f7efe6;
+    --keep:     #1f5f52;
+    --keep-bg:  #e8f1ee;
+    --shadow:   0 1px 2px rgba(22,32,43,.05), 0 8px 24px -16px rgba(22,32,43,.18);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:   #10171e;
+      --surface:  #172029;
+      --sunken:   #1d2831;
+      --ink:      #e6edf2;
+      --ink-soft: #a8b8c4;
+      --ink-mute: #7d8d99;
+      --rule:     #2b3944;
+      --rule-soft:#222e38;
+      --accent:   #6dc0ab;
+      --accent-b: #8ad3bf;
+      --cost:     #d59a63;
+      --cost-bg:  #2a2119;
+      --keep:     #6dc0ab;
+      --keep-bg:  #16261f;
+      --shadow:   0 1px 2px rgba(0,0,0,.3), 0 8px 24px -16px rgba(0,0,0,.6);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:   #10171e;
+    --surface:  #172029;
+    --sunken:   #1d2831;
+    --ink:      #e6edf2;
+    --ink-soft: #a8b8c4;
+    --ink-mute: #7d8d99;
+    --rule:     #2b3944;
+    --rule-soft:#222e38;
+    --accent:   #6dc0ab;
+    --accent-b: #8ad3bf;
+    --cost:     #d59a63;
+    --cost-bg:  #2a2119;
+    --keep:     #6dc0ab;
+    --keep-bg:  #16261f;
+    --shadow:   0 1px 2px rgba(0,0,0,.3), 0 8px 24px -16px rgba(0,0,0,.6);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 16.5px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 53rem; margin-inline: auto; padding: clamp(2.5rem, 6vw, 5rem) clamp(1.15rem, 4vw, 2.5rem) 6rem; }
+
+  /* ---------- masthead ---------- */
+  .mast { border-bottom: 1px solid var(--rule); padding-bottom: 2rem; margin-bottom: 3rem; }
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .705rem; letter-spacing: .13em; text-transform: uppercase;
+    color: var(--ink-mute); margin: 0 0 1.1rem;
+  }
+  h1 {
+    font-family: Newsreader, ui-serif, Georgia, serif;
+    font-weight: 400; font-size: clamp(2.1rem, 5.6vw, 3.15rem);
+    line-height: 1.08; letter-spacing: -.018em; text-wrap: balance;
+    margin: 0 0 1.1rem; color: var(--ink);
+  }
+  .standfirst {
+    font-family: Newsreader, ui-serif, Georgia, serif;
+    font-size: clamp(1.08rem, 2.4vw, 1.28rem); line-height: 1.52;
+    color: var(--ink-soft); margin: 0; max-width: 40rem; text-wrap: pretty;
+  }
+  .standfirst em { color: var(--accent); font-style: italic; }
+
+  /* ---------- sections ---------- */
+  section { margin-top: 3.4rem; }
+  h2 {
+    font-family: Newsreader, ui-serif, Georgia, serif;
+    font-weight: 600; font-size: 1.52rem; letter-spacing: -.012em;
+    line-height: 1.25; margin: 0 0 .35rem; text-wrap: balance;
+  }
+  .sub {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .68rem; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--ink-mute); margin: 0 0 1.35rem;
+  }
+  h3 {
+    font-size: .95rem; font-weight: 600; letter-spacing: -.002em;
+    margin: 2rem 0 .5rem; color: var(--ink);
+  }
+  p { margin: 0 0 1.05rem; max-width: 40rem; text-wrap: pretty; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  strong { font-weight: 600; }
+  code {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .855em; background: var(--sunken); color: var(--ink);
+    padding: .1em .34em; border-radius: 3px; border: 1px solid var(--rule-soft);
+  }
+
+  /* ---------- the finding ---------- */
+  .finding {
+    background: var(--surface); border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px; padding: 1.5rem 1.6rem; box-shadow: var(--shadow);
+    margin-bottom: .5rem;
+  }
+  .finding p { margin: 0; max-width: none; }
+  .finding p + p { margin-top: .8rem; }
+  .finding .lead {
+    font-family: Newsreader, ui-serif, Georgia, serif;
+    font-size: 1.2rem; line-height: 1.45; color: var(--ink);
+  }
+
+  /* ---------- pipeline diagram ---------- */
+  .flow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .77rem; line-height: 1.5;
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 4px;
+    padding: 1.25rem 1.35rem; overflow-x: auto; margin: 0 0 1.1rem;
+    box-shadow: var(--shadow);
+  }
+  .flow pre { margin: 0; white-space: pre; }
+  .flow .src   { color: var(--accent); font-weight: 500; }
+  .flow .gen   { color: var(--ink-mute); }
+  .flow .op    { color: var(--cost); }
+  .flow .note  { color: var(--ink-mute); }
+  .flow-cap {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .68rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--ink-mute); margin: 0 0 .55rem;
+  }
+
+  /* ---------- tables ---------- */
+  .tw { overflow-x: auto; margin: 0 0 1.2rem; border: 1px solid var(--rule); border-radius: 4px; background: var(--surface); box-shadow: var(--shadow); }
+  table { border-collapse: collapse; width: 100%; font-size: .875rem; }
+  th, td { text-align: left; padding: .62rem .9rem; border-bottom: 1px solid var(--rule-soft); vertical-align: top; }
+  thead th {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .655rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--ink-mute); font-weight: 500; background: var(--sunken);
+    border-bottom: 1px solid var(--rule); white-space: nowrap;
+  }
+  tbody tr:last-child td { border-bottom: 0; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; font-family: "IBM Plex Mono", ui-monospace, monospace; white-space: nowrap; }
+  td code { background: none; border: 0; padding: 0; color: var(--ink-soft); }
+  tr.total td { border-top: 1px solid var(--rule); font-weight: 600; background: var(--sunken); }
+
+  .tag {
+    display: inline-block; font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .63rem; letter-spacing: .06em; text-transform: uppercase;
+    padding: .16em .48em; border-radius: 3px; white-space: nowrap;
+  }
+  .tag.ok   { color: var(--keep); background: var(--keep-bg); }
+  .tag.risk { color: var(--cost); background: var(--cost-bg); }
+
+  /* ---------- options ---------- */
+  .opts { display: grid; gap: 1rem; margin: 0 0 1.2rem; }
+  .opt {
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 4px;
+    padding: 1.15rem 1.3rem; box-shadow: var(--shadow);
+  }
+  .opt.pick { border-color: var(--accent); border-left-width: 3px; }
+  .opt h3 { margin: 0 0 .1rem; font-size: 1.02rem; }
+  .opt .who {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .655rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--ink-mute); margin: 0 0 .7rem;
+  }
+  .opt.pick .who { color: var(--accent); }
+  .opt p { margin: 0 0 .55rem; font-size: .93rem; max-width: none; }
+  .opt p:last-child { margin-bottom: 0; }
+  .opt .lbl { font-weight: 600; color: var(--ink); }
+
+  /* ---------- steps ---------- */
+  ol.steps { list-style: none; counter-reset: s; margin: 0; padding: 0; display: grid; gap: 1.05rem; }
+  ol.steps li { counter-increment: s; display: grid; grid-template-columns: 2rem 1fr; gap: .9rem; align-items: start; }
+  ol.steps li::before {
+    content: counter(s); font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .72rem; font-weight: 500; color: var(--accent);
+    background: var(--keep-bg); border-radius: 3px;
+    width: 2rem; height: 1.55rem; display: grid; place-items: center; margin-top: .12rem;
+  }
+  ol.steps p { margin: 0; font-size: .93rem; max-width: none; }
+  ol.steps .st { font-weight: 600; display: block; }
+
+  ul.plain { margin: 0 0 1.05rem; padding-left: 1.15rem; max-width: 40rem; }
+  ul.plain li { margin-bottom: .4rem; }
+
+  hr.div { border: 0; border-top: 1px solid var(--rule); margin: 3.4rem 0 0; }
+
+  footer {
+    margin-top: 3.4rem; padding-top: 1.4rem; border-top: 1px solid var(--rule);
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .69rem; letter-spacing: .04em; color: var(--ink-mute); line-height: 1.7;
+  }
+
+  @media (max-width: 560px) {
+    body { font-size: 16px; }
+    .flow { font-size: .7rem; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="mast">
+    <p class="eyebrow">CyberJudah · architecture review · 27 Aug 2026</p>
+    <h1>Which copy is the source</h1>
+    <p class="standfirst">You asked why your Docusaurus site deviates from how Docusaurus works. It does, measurably. But the fork that matters isn't <em>vault or MDX</em> — it's which copy of your content is allowed to win when two disagree.</p>
+  </header>
+
+  <div class="finding">
+    <p class="lead">Migrating to standard Docusaurus would not give you web editing, because you author in a separate Obsidian vault. That vault would keep overwriting whatever you typed on the web.</p>
+    <p>Every architecture below is really an answer to one question: is your Obsidian vault the source of truth, or is the repo? You can have durable web editing, or you can have an upstream vault that wins. Not both. Everything else follows from that.</p>
+  </div>
+
+  <section>
+    <h2>What's actually in the repo</h2>
+    <p class="sub">Measured, not estimated</p>
+
+    <p>Your instinct was right on both counts. The built site contains <strong>zero</strong> occurrences of <code>[[</code>: the wikilinks compile away entirely, so there is no wikilink graph on the site. And the repo is not a Docusaurus site with customizations. It is an Obsidian vault publisher with Docusaurus attached as the renderer.</p>
+
+    <div class="tw">
+      <table>
+        <thead>
+          <tr><th>Tree</th><th>What it is</th><th class="n">Files</th><th class="n">Size</th><th>In git</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code>vault/Bible</code></td><td>KJV source text, one note per chapter</td><td class="n">1,443</td><td class="n">—</td><td><span class="tag ok">tracked</span></td></tr>
+          <tr><td><code>vault/Law, Precepts</code></td><td>Regenerated from <code>data/</code> every sync</td><td class="n">687</td><td class="n">—</td><td><span class="tag risk">tracked anyway</span></td></tr>
+          <tr><td><code>vault/Case Studies</code></td><td>Vault is source of truth; seeded once</td><td class="n">148</td><td class="n">—</td><td><span class="tag ok">tracked</span></td></tr>
+          <tr><td><strong>Your notes</strong></td><td>Study 335, class 81, encyclopedia 9</td><td class="n"><strong>425</strong></td><td class="n">—</td><td><span class="tag ok">tracked</span></td></tr>
+          <tr><td><code>docs/</code></td><td>Generated pages</td><td class="n">2,796</td><td class="n">34M</td><td><span class="tag risk">ignored</span></td></tr>
+          <tr><td><code>static/api</code></td><td>Concordance JSON</td><td class="n">3,528</td><td class="n">24M</td><td><span class="tag risk">ignored</span></td></tr>
+          <tr><td><code>static/search</code></td><td>Search indexes</td><td class="n">7</td><td class="n">14M</td><td><span class="tag risk">ignored</span></td></tr>
+          <tr><td><code>data/bible</code>, <code>blog/</code></td><td>Parsed scripture, class pages</td><td class="n">161</td><td class="n">10M</td><td><span class="tag risk">ignored</span></td></tr>
+          <tr class="total"><td colspan="2">Generated on every deploy</td><td class="n">6,492</td><td class="n">82M</td><td></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>Of 2,703 markdown files in <code>vault/</code>, only <strong>425 are hand-authored</strong>. The other 2,278 are scripture, law, precepts and cases held as Obsidian notes so that wikilinks have targets to point at. Two thirds of the repo exists to serve an authoring syntax.</p>
+  </section>
+
+  <section>
+    <h2>The pipeline today</h2>
+    <p class="sub">Where each artifact comes from</p>
+
+    <div class="flow">
+<pre><span class="src">your Obsidian vault</span>          <span class="note">(separate, off-repo — where you write)</span>
+      │  <span class="op">sync</span>
+      ▼
+<span class="src">vault/Bible/*.md</span>            <span class="note">1,443 notes = the KJV source of record</span>
+<span class="src">vault/4 Chapters, Classes</span>   <span class="note">425 notes you wrote</span>
+      │  <span class="op">import_bible.py vault/Bible</span>
+      ▼
+<span class="gen">data/bible/*.json</span>           <span class="note">gitignored</span>
+      │  <span class="op">generate.mjs</span>  <span class="note">resolves ![[..]], builds the citation graph</span>
+      ▼
+<span class="gen">docs/ + blog/ + static/</span>     <span class="note">6,492 files, gitignored</span>
+      │  <span class="op">docusaurus build</span>
+      ▼
+   <span class="gen">the site</span>                 <span class="note">no wikilinks remain</span></pre>
+    </div>
+
+    <p>The scripture round-trips oddly: 1,443 markdown files, parsed into JSON, rendered back out as 1,444 markdown pages. But the deeper issue is the top of the diagram. There are already two copies of your notes, and the off-repo one wins.</p>
+  </section>
+
+  <section>
+    <h2>What a migration would convert</h2>
+    <p class="sub">Full syntax inventory of the 425 authored notes</p>
+
+    <p>The conversion surface is small and unusually regular. Four constructs carry almost everything, and no callouts, markdown tables or code fences appear anywhere.</p>
+
+    <div class="tw">
+      <table>
+        <thead>
+          <tr><th>Construct</th><th class="n">Count</th><th class="n">Files</th><th>Becomes</th><th>Risk</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code>![[Book C#^vN]]</code></td><td class="n">41,560</td><td class="n">366</td><td><code>&lt;Verse ref="Book C:N"/&gt;</code></td><td><span class="tag ok">mechanical</span></td></tr>
+          <tr><td><code>[[X|Y]]</code></td><td class="n">19,409</td><td class="n">424</td><td><code>[Y](/bible/...)</code></td><td><span class="tag ok">mechanical</span></td></tr>
+          <tr><td><code>[[X]]</code></td><td class="n">2,146</td><td class="n">415</td><td>link or nav</td><td><span class="tag ok">mechanical</span></td></tr>
+          <tr><td><code>#^vN</code> anchors</td><td class="n">56,822</td><td class="n">374</td><td>component props</td><td><span class="tag ok">mechanical</span></td></tr>
+          <tr><td>Nav arrow lines</td><td class="n">577</td><td class="n">289</td><td>dropped, Docusaurus paginates</td><td><span class="tag ok">deleted</span></td></tr>
+          <tr><td>Frontmatter keys</td><td class="n">81</td><td class="n">81</td><td>unchanged</td><td><span class="tag ok">as-is</span></td></tr>
+          <tr><td>Raw HTML (<code>td tr span a button</code>)</td><td class="n">3,734</td><td class="n">80</td><td>must become valid JSX</td><td><span class="tag risk">needs review</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>Only the last row is genuinely awkward. Those are the hand-built HTML tables in your class notes; MDX requires JSX-valid markup, so <code>class</code> becomes <code>className</code>, every tag must close, and stray attributes break the build rather than degrading quietly. Eighty files to check by hand.</p>
+
+    <h3>What survives untouched</h3>
+    <p>The citation graph. It is currently produced by a regex pass over wikilinks, but nothing about it depends on that syntax. A remark plugin walking <code>&lt;Verse&gt;</code> usage yields the same map, so the "cited by" blocks on 1,346 chapter pages, the class browse tags, and the search indexes all carry over unchanged. I was wrong to call the wikilinks the database. The references are load-bearing; the syntax is not.</p>
+  </section>
+
+  <section>
+    <h2>Why migration doesn't buy what you wanted</h2>
+    <p class="sub">The decisive finding</p>
+
+    <p>You author in a separate Obsidian vault. So converting the repo to MDX does not remove the conversion step. It relocates it:</p>
+
+    <div class="flow">
+      <p class="flow-cap">After migrating, with Obsidian still upstream</p>
+<pre><span class="src">your Obsidian vault</span>          <span class="note">still wikilinks — that is why you use Obsidian</span>
+      │  <span class="op">converter</span>            <span class="note">the same generator, moved here</span>
+      ▼
+<span class="src">docs/*.mdx</span>                  <span class="note">committed, standard, tool-friendly</span>
+      │  <span class="op">docusaurus build</span>
+      ▼
+   <span class="gen">the site</span></pre>
+    </div>
+
+    <p>Two things go wrong, and neither is fixable by choosing a better CMS.</p>
+
+    <ul class="plain">
+      <li><strong>The repo stops holding what you edit.</strong> Today <code>vault/</code> in the repo <em>is</em> your working copy. After migration the repo holds only derived MDX, and you gain a manual conversion step before every commit.</li>
+      <li><strong>Web edits still die.</strong> Edit a page through github.dev or Decap and the change lands in <code>docs/*.mdx</code>. Your next Obsidian sync regenerates that file and your edit is gone. Same drift you have now, pointed the other direction.</li>
+    </ul>
+
+    <p>Durable web editing requires exactly one source of truth, and it must be the one the web editor can reach. That is the whole problem, and MDX has nothing to do with it.</p>
+  </section>
+
+  <section>
+    <h2>The three real options</h2>
+    <p class="sub">Named by what wins when two copies disagree</p>
+
+    <div class="opts">
+      <div class="opt">
+        <h3>Obsidian keeps winning</h3>
+        <p class="who">Change nothing structural</p>
+        <p><span class="lbl">You get:</span> your current authoring loop, untouched. Obsidian's live preview already renders your verse embeds as real scripture, which is the WYSIWYG you were asking for, on a phone, today.</p>
+        <p><span class="lbl">You give up:</span> web editing, permanently. Not as a missing feature but as a structural impossibility. Every tool in this conversation stays a dead end.</p>
+      </div>
+
+      <div class="opt">
+        <h3>The repo wins, as MDX</h3>
+        <p class="who">Full migration · retire Obsidian</p>
+        <p><span class="lbl">You get:</span> a genuinely standard Docusaurus site. Committed <code>docs/</code>, "Edit this page" on every page, and github.dev, Decap, Tina and Editsaurus all working as advertised.</p>
+        <p><span class="lbl">You give up:</span> Obsidian on this content, or you accept two sources that drift. Plus 80 files of hand-written HTML to make JSX-valid, and the repo grows by the generated trees you'd now commit.</p>
+      </div>
+
+      <div class="opt pick">
+        <h3>The repo wins, and it <em>is</em> the vault</h3>
+        <p class="who">Recommended · smallest change, most of the benefit</p>
+        <p>Open <code>vault/</code> in Obsidian directly. Commit a <code>.obsidian</code> folder, add obsidian-git, and delete the off-repo copy.</p>
+        <p><span class="lbl">You get:</span> one source of truth that is simultaneously your Obsidian vault and your git repo. Obsidian keeps its live preview and backlinks. Nothing converts, nothing drifts, and web editing becomes possible for the first time, because a custom editor writing to <code>vault/</code> is writing to the only copy that exists.</p>
+        <p><span class="lbl">You give up:</span> off-the-shelf CMS support, since the format stays non-standard. The web editor has to be built rather than installed.</p>
+      </div>
+    </div>
+
+    <p>Option three is the one your situation actually points at. It costs an afternoon instead of a month, it removes a whole class of drift bug you currently live with, and it turns "edit from the web" from impossible into merely unbuilt.</p>
+  </section>
+
+  <section>
+    <h2>If you take option three</h2>
+    <p class="sub">Reversible order of operations</p>
+
+    <ol class="steps">
+      <li><p><span class="st">Confirm the two vaults still match.</span> Diff your off-repo Obsidian vault against <code>vault/</code> in the repo. Any file that differs is drift you are already carrying, and it needs resolving before the copies are merged.</p></li>
+      <li><p><span class="st">Make the repo vault the real one.</span> Open <code>vault/</code> in Obsidian, commit the <code>.obsidian</code> folder, and archive the off-repo copy rather than deleting it. Fully reversible up to this point.</p></li>
+      <li><p><span class="st">Add obsidian-git.</span> Commit and sync from desktop and phone. This alone closes your original request: mobile editing with live-rendered scripture.</p></li>
+      <li><p><span class="st">Fold <code>finalize.py</code> into <code>npm run sync</code>.</span> Nav lines, Topics and book indexes then regenerate on every build, so a note added from a phone can't leave its neighbours stale.</p></li>
+      <li><p><span class="st">Stamp <code>custom_edit_url</code> in <code>generate.mjs</code>.</span> Every page gets an "Edit this page" link pointing at its real vault source on GitHub, not at the throwaway <code>docs/</code> file. Roughly twenty lines.</p></li>
+      <li><p><span class="st">Turn on build-failure notifications.</span> With <code>onBrokenLinks: "throw"</code>, a bad reference typed on a phone fails the deploy silently and the site quietly serves the last good build.</p></li>
+      <li><p><span class="st">Then, only if you still want it, build <code>/admin</code>.</span> A verse picker over <code>static/search/verses.json</code>, live embed rendering, and commits through the GitHub API. Worth doing after the steps above, because they may make it unnecessary.</p></li>
+    </ol>
+
+    <p>Steps one through three are the whole answer to the question you started with. Four through six are cheap insurance. Seven is optional.</p>
+  </section>
+
+  <section>
+    <h2>The one thing to fix regardless</h2>
+    <p class="sub">Unrelated to the architecture</p>
+    <p>A GitHub PAT with write access to this repo is sitting in plaintext in the prompt of your <code>cyberjudah-class-backlog</code> scheduled task, and it is still unrotated. None of the options above change that, and none of them are more urgent than it.</p>
+  </section>
+
+  <hr class="div">
+
+  <footer>
+    Figures measured directly against DevSecObie/cyberjudah at commit c129251, 27 Aug 2026.<br>
+    Docusaurus 3.10.2 · GitHub Pages · 425 authored notes · 6,492 generated files · 0 wikilinks in the built output.
+  </footer>
+
+</div>

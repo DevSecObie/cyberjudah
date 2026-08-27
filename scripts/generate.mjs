@@ -1,18 +1,26 @@
-// Generate docs/ and static/api/ from vault/ and data/.
+// Build the derived pages of the site from the committed notes and data.
 //
-//   node scripts/generate.mjs
+//   node scripts/generate.mjs        (npm run sync, and part of npm run build)
 //
-// Reads   vault/Bible, vault/Study Bible, vault/Class Notes, vault/Encyclopedia (markdown, Obsidian style)
-//         data/handbook.json, data/precepts.json, data/cases.json, data/bible/*.json (from the Python pipeline)
-// Writes  docs/{bible,study,classes,encyclopedia,law,precepts,cases,concordance}/**  (CommonMark; scripture embedded)
-//         static/api/**/*.json  (the same library as data: kjv chapters, laws, precepts, cases, concordance, notes)
-//         static/search/*.json  (indexes for the search page)
+// Source, committed and hand-edited:
+//   docs/study/<book>/<range>.md, docs/encyclopedia/<slug>.md, blog/**   the notes
+//   data/bible/*.json                                                   the KJV text
+//   data/handbook.json, data/precepts.json, data/cases.json             the reference works
+//   data/lexicon.tsv                                                    topic terms
+//
+// Generated, gitignored, rebuilt on every build:
+//   docs/{bible,law,precepts,cases,concordance}/**   pages derived from data
+//   docs/study/**/index.md, docs/encyclopedia/index.md, _category_.json  listings
+//   static/api/**/*.json      the same library as data, addressable
+//   static/search/*.json      indexes for the search and browse pages
+//
+// The notes are read here, never written: what they contribute is the citation graph that
+// puts a "cited by" block on each chapter page, plus the listings and the search text.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const VAULT = path.join(ROOT, "vault");
 const DATA = path.join(ROOT, "data");
 const DOCS = path.join(ROOT, "docs");
 const API = path.join(ROOT, "static", "api");
@@ -31,7 +39,19 @@ const esc = (s) => s.replace(/</g, "&lt;");
 const BASE = (/baseUrl:\s*"([^"]+)"/.exec(read(path.join(ROOT, "docusaurus.config.ts")))?.[1] ?? "/").replace(/\/$/, "");
 const href = (u) => BASE + u;   // verse text is plain; keep the odd '<' from breaking CommonMark html
 
-for (const d of [DOCS, API, SEARCH, BLOG]) fs.rmSync(d, { recursive: true, force: true });
+// Clear only what this script produces. docs/study/<book>/<range>.md, docs/encyclopedia/<slug>.md
+// and everything under blog/ are committed source: wiping docs/ wholesale, as this used to,
+// would delete the notes themselves. The listing pages inside those two folders ARE generated,
+// so they are removed by name and rewritten below.
+for (const d of [API, SEARCH, path.join(DOCS, "bible"), path.join(DOCS, "law"), path.join(DOCS, "precepts"), path.join(DOCS, "cases"), path.join(DOCS, "concordance")])
+  fs.rmSync(d, { recursive: true, force: true });
+for (const p of [path.join(DOCS, "study", "index.md"), path.join(DOCS, "study", "_category_.json"),
+                 path.join(DOCS, "encyclopedia", "index.md"), path.join(DOCS, "encyclopedia", "_category_.json"),
+                 ...(fs.existsSync(path.join(DOCS, "study"))
+                     ? fs.readdirSync(path.join(DOCS, "study"), { withFileTypes: true }).filter((d) => d.isDirectory())
+                         .flatMap((d) => [path.join(DOCS, "study", d.name, "index.md"), path.join(DOCS, "study", d.name, "_category_.json")])
+                     : [])])
+  fs.rmSync(p, { force: true });
 
 /* ---------------- scripture ---------------- */
 const bibleIndex = json(path.join(DATA, "bible", "index.json"));
@@ -124,7 +144,11 @@ const VERDICT_CLASS = { death: "danger", plague: "danger", exile: "warning", cap
 const badge = (v) => `<span class="badge badge--${VERDICT_CLASS[v] ?? "secondary"} verdict">${VERDICT[v] ?? v}</span>`;
 const VERDICT = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded" };
 
-/* ---------------- notes from the vault ---------------- */
+/* ---------------- notes: the committed source under docs/ and blog/ ---------------- */
+// Study notes, class notes and encyclopedia entries are hand-written Docusaurus markdown
+// and are the source of record for this site. This step reads them for their citations,
+// their listings and the search index. It never writes them back: only the derived pages
+// (scripture, law, precepts, cases, indexes, API, search) are generated.
 function parseFrontmatter(text) {
   const m = /^---\n([\s\S]*?)\n---\n/.exec(text);
   if (!m) return [{}, text];
@@ -132,115 +156,70 @@ function parseFrontmatter(text) {
   for (const line of m[1].split("\n")) { const i = line.indexOf(":"); if (i > 0) o[line.slice(0, i).trim()] = line.slice(i + 1).trim().replace(/^"|"$/g, ""); }
   return [o, text.slice(m[0].length)];
 }
-const notes = []; // {kind, slug, title, url, book, chapters, range, date, series, body, refs, sidebarPos}
-function chapterRefFromTarget(target, v) {
-  const m = /^(.*?) (\d+)$/.exec(target.trim()); if (!m) return null;
-  let book = resolveBook(m[1]); let ch = +m[2]; if (!book) return null;
-  if (book === "Baruch" && ch === 6) { book = "Epistle of Jeremiah"; ch = 1; }
-  if (!bible[book]?.[String(ch)]) return null;
-  return { book, chapter: ch, verses: v ? String(v) : "" };
-}
-const LINK = /(?<!!)\[\[([^\]|#]+)(?:#\^v(\d+))?(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/g;
-const EMBED_LINE = /^([ \t]*)!\[\[([^\]|#]+)#\^v(\d+)\]\][ \t]*$/;
-const EMBED_INLINE = /!\[\[([^\]|#]+)#\^v(\d+)\]\]/g;
-const EMBED_OTHER = /!\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g;
-// The vault folders carry the site's own names now ("4 Chapters A Day", "Sabbath Class
-// Notes"); fall back to the older names so an un-renamed vault still builds.
-const vaultDir = (...names) => names.map((n) => path.join(VAULT, n)).find((d) => fs.existsSync(d)) ?? path.join(VAULT, names[0]);
-const STUDY_DIR = vaultDir("4 Chapters A Day", "Study Bible");
-const CLASS_DIR = vaultDir("Sabbath Class Notes", "Class Notes");
-for (const p of fs.readdirSync(STUDY_DIR, { withFileTypes: true }).filter((d) => d.isDirectory()))
-  for (const q of fs.readdirSync(path.join(STUDY_DIR, p.name), { withFileTypes: true }).filter((d) => d.isDirectory()))
-    for (const f of fs.readdirSync(path.join(STUDY_DIR, p.name, q.name)).filter((f) => f.endsWith(" Study Notes.md"))) {
-      const stem = f.replace(/\.md$/, ""); const m = /^(.*?) (\d+)(?:-(\d+))? Study Notes$/.exec(stem); if (!m) continue;
-      const book = resolveBook(m[1]) ?? m[1]; const a = +m[2], b = +(m[3] ?? m[2]);
-      const [meta, body] = parseFrontmatter(read(path.join(STUDY_DIR, p.name, q.name, f)));
-      const range = `${book} ${a}${b > a ? "-" + b : ""}`;
-      notes.push({ kind: "study", stem, slug: `${a}${b > a ? "-" + b : ""}`, url: `/study/${bookSlug[book] ?? slug(book)}/${a}${b > a ? "-" + b : ""}`, title: meta.title || (/^# (.+)$/m.exec(body)?.[1] ?? range), book, chapters: [a, b], range, body, sidebarPos: a });
-    }
-for (const y of fs.readdirSync(CLASS_DIR, { withFileTypes: true }).filter((d) => d.isDirectory()))
-  for (const f of fs.readdirSync(path.join(CLASS_DIR, y.name)).filter((f) => f.endsWith(".md"))) {
-    const stem = f.replace(/\.md$/, ""); const m = /^(\d{4}-\d{2}-\d{2}) - (.*)$/.exec(stem);
-    const [meta, body] = parseFrontmatter(read(path.join(CLASS_DIR, y.name, f)));
-    const date = meta.date || m?.[1] || "";
-    notes.push({ kind: "class", stem, slug: slug(stem), url: `/classes/${y.name}/${slug(stem)}`, title: meta.title || m?.[2] || stem, date, dateEstimated: meta["date-estimated"] === "true", series: meta.class || "", year: y.name, body, sidebarPos: -parseInt(date.replace(/-/g, ""), 10) || 0 });
+const notes = []; // {kind, slug, title, url, book, chapters, range, date, series, body, sidebarPos}
+const bookBySlug = Object.fromEntries(Object.entries(bookSlug).map(([b, s]) => [s, b]));
+
+const STUDY_DOCS = path.join(DOCS, "study");
+if (fs.existsSync(STUDY_DOCS)) for (const d of fs.readdirSync(STUDY_DOCS, { withFileTypes: true }).filter((x) => x.isDirectory())) {
+  const book = bookBySlug[d.name]; if (!book) continue;
+  for (const f of fs.readdirSync(path.join(STUDY_DOCS, d.name)).filter((f) => f.endsWith(".md") && f !== "index.md")) {
+    const m = /^(\d+)(?:-(\d+))?$/.exec(f.replace(/\.md$/, "")); if (!m) continue;
+    const [meta, body] = parseFrontmatter(read(path.join(STUDY_DOCS, d.name, f)));
+    const a = +m[1], b = +(m[2] ?? m[1]);
+    notes.push({ kind: "study", slug: `${a}${b > a ? "-" + b : ""}`,
+      url: meta.slug || `/study/${d.name}/${a}${b > a ? "-" + b : ""}`,
+      title: meta.title || `${book} ${a}`, book, chapters: [a, b],
+      range: meta.sidebar_label || `${book} ${a}${b > a ? "-" + b : ""}`, body, sidebarPos: a });
   }
-for (const f of fs.readdirSync(path.join(VAULT, "Encyclopedia")).filter((f) => f.endsWith(".md") && !f.startsWith("_"))) {
-  const stem = f.replace(/\.md$/, ""); const [meta, body] = parseFrontmatter(read(path.join(VAULT, "Encyclopedia", f)));
-  const summary = body.split("\n").find((l) => l.trim() && !l.startsWith("#"))?.trim() ?? "";
-  notes.push({ kind: "encyclopedia", stem, slug: slug(stem), url: `/encyclopedia/${slug(stem)}`, title: meta.title || stem, summary, body, sidebarPos: 0 });
 }
-const noteByStem = new Map(notes.map((n) => [n.stem, n]));
+if (fs.existsSync(BLOG)) for (const y of fs.readdirSync(BLOG, { withFileTypes: true }).filter((x) => x.isDirectory()))
+  for (const f of fs.readdirSync(path.join(BLOG, y.name)).filter((f) => f.endsWith(".md"))) {
+    const [meta, body] = parseFrontmatter(read(path.join(BLOG, y.name, f)));
+    if (!meta.slug) continue;
+    notes.push({ kind: "class", slug: String(meta.slug).split("/").pop(), url: `/classes/${meta.slug}`,
+      title: meta.title || f, date: meta.date || "",
+      dateEstimated: /\(date estimated\)/.test(body),
+      series: String(meta.tags || "").replace(/^\[|\]$/g, "").replace(/"/g, "").trim(),
+      year: y.name, body, sidebarPos: 0 });
+  }
+const ENC_DOCS = path.join(DOCS, "encyclopedia");
+if (fs.existsSync(ENC_DOCS)) for (const f of fs.readdirSync(ENC_DOCS).filter((f) => f.endsWith(".md") && f !== "index.md")) {
+  const [meta, body] = parseFrontmatter(read(path.join(ENC_DOCS, f)));
+  const stem = f.replace(/\.md$/, "");
+  notes.push({ kind: "encyclopedia", slug: stem, url: meta.slug || `/encyclopedia/${stem}`,
+    title: meta.title || stem, summary: meta.description || "", body, sidebarPos: 0 });
+}
 const noteByTitle = new Map(notes.map((n) => [n.title.toLowerCase(), n]));
 const studyFor = (book, ch) => notes.find((n) => n.kind === "study" && n.book === book && ch >= n.chapters[0] && ch <= n.chapters[1]) ?? null;
 
-/** wikilink target -> url */
-function linkUrl(target, v) {
-  const t = target.trim();
-  const ch = chapterRefFromTarget(t, v); if (ch) return chapterUrl(ch.book, ch.chapter, v);
-  let m = /^Book of (.+)$/.exec(t); if (m) { const b = resolveBook(m[1]); if (b) return bookUrl(b); }
-  if (t === "The Holy Bible" || t === "Scripture index") return "/bible";
-  if (noteByStem.has(t)) return noteByStem.get(t).url;
-  m = /^(.+?) Index$/.exec(t); if (m) { const b = resolveBook(m[1]); if (b) return `/study/${bookSlug[b]}`; }
-  if (t === "Class Notes Index") return "/classes";
-  if (t === "_Index" || t === "Encyclopedia") return "/encyclopedia";
-  if (t === "Law Index") return "/law"; if (t === "Home") return "/";
-  if (t === "Cases index") return "/cases"; if (t === "Precepts index") return "/precepts"; if (t === "Concordance") return "/concordance";
-  m = /^(\d{1,2}[A-Z])\b/.exec(t); if (m && sectionById[m[1]]) return sectionUrl(sectionById[m[1]]);
-  m = /^Part (\d{2}) /.exec(t); if (m) { const p = handbook.parts.find((x) => x.n === +m[1]); if (p) return partUrl(p); }
-  const nt = noteByTitle.get(t.toLowerCase()); if (nt) return nt.url;
-  const c = cases.cases.find((x) => x.name === t || x.name === t.replace(/ \(case\)$/, "")); if (c) return caseUrl(c);
-  const tp = precepts.find((x) => x.title === t || x.title === t.replace(/ \(precept\)$/, "")); if (tp) return preceptUrl(tp);
-  return null;
-}
-/** Obsidian markdown -> CommonMark with scripture embedded and links resolved. */
-function transform(body, self) {
-  let s = body.replace(/%%[\s\S]*?%%/g, "");
-  s = s.replace(/^# .+\n/m, "");                                   // the page has its own title
-  s = s.replace(/^(?:\uFEFF)?← \[\[.*?→\s*$/m, "");                // prev/next lines: Docusaurus paginates itself
-  // line embeds: consecutive ones become one blockquote
-  const lines = s.split("\n"); const out = []; let quoting = false; let qind = "";
-  for (const line of lines) {
-    const m = EMBED_LINE.exec(line);
-    if (m) {
-      const ind = m[1].replace(/\t/g, "    ");   // the embed sits in a list item; drop its indent and the prose under it becomes a code block
-      const r = chapterRefFromTarget(m[2], +m[3]);
-      const t = r && verseText(r.book, r.chapter, +m[3]);
-      if (t) { out.push(`${quoting ? `${qind}>\n` : ""}${ind}> <sup>[${m[3]}](${chapterUrl(r.book, r.chapter, +m[3])})</sup> ${esc(t)}`); quoting = true; qind = ind; if (self) cite({ book: r.book, chapter: r.chapter, verses: "" }, self.kind, self.label, self.url); }
-      continue;
-    }
-    if (quoting && line.trim() !== "") { out.push(""); }
-    quoting = false;
-    out.push(line);
+/** Record the scripture a note cites. The notes are already CommonMark, so this only reads.
+ *  A link into /bible/<book>/<chapter> is a citation; a label ending ":1-2" or ":5" carries
+ *  the verse span, and a bare label (the verse-number superscript inside a quotation, or a
+ *  plain chapter reference) carries none. That split is deliberate: it is what stops a
+ *  quoted chapter from listing every one of its own verses back at itself. */
+const BIBLE_LINK = /\[([^\]]*)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)/g;
+function scanCitations(body, self) {
+  if (!self) return;
+  for (const [, label, bslug, ch, anchor] of body.matchAll(BIBLE_LINK)) {
+    const book = bookBySlug[bslug]; if (!book || !bible[book]?.[ch]) continue;
+    const text = label.trim();
+    const lm = /:([\d,\-]+)$/.exec(text);
+    // "Genesis 1:1-2" gives its own span. A bare number is the verse superscript inside a
+    // quotation and contributes nothing, which is what stops a quoted chapter from listing
+    // all of its own verses. Anything else ("Obadiah 1:1-4, 7", whose span the pattern above
+    // will not take) falls back to the verse the link actually points at.
+    const verses = lm ? lm[1] : /^\d+$/.test(text) ? "" : (anchor || "");
+    cite({ book, chapter: +ch, verses }, self.kind, self.label, self.url);
   }
-  s = out.join("\n");
-  s = s.replace(EMBED_INLINE, (_m, target, v) => { const r = chapterRefFromTarget(target, +v); const t = r && verseText(r.book, r.chapter, +v); return t ? `<sup>${v}</sup> ${esc(t)}` : `${target}:${v}`; });
-  s = s.replace(EMBED_OTHER, (_m, target) => `*${target}*`);
-  s = s.replace(LINK, (_m, target, v, label) => {
-    const text = (label ?? target).trim();
-    const url = linkUrl(target, v ? +v : undefined);
-    if (self) { const r = chapterRefFromTarget(target, v ? +v : undefined); if (r) { const lm = /:([\d,\-]+)$/.exec(text); cite({ book: r.book, chapter: r.chapter, verses: lm ? lm[1] : r.verses }, self.kind, self.label, self.url); } }
-    return url ? `[${text}](${url})` : text;
-  });
-  // callouts -> admonitions
-  s = s.replace(/^> \[!(\w+)\][+-]?\s*(.*)\n((?:>.*\n?)*)/gm, (_m, type, title, rest) => {
-    const t = { info: "info", note: "note", tip: "tip", warning: "warning", danger: "danger", caution: "warning" }[type.toLowerCase()] ?? "note";
-    return `:::${t}${title ? " " + title : ""}\n${rest.replace(/^> ?/gm, "")}\n:::\n`;
-  });
-  s = s.replace(/<style>[\s\S]*?<\/style>/g, "");
-  return s.trim() + "\n";
 }
 
-/* ---------------- write: notes (first, so their citations feed the chapter pages) ---------------- */
-const noteLabel = (n) => n.kind === "study" ? (n.title.startsWith(n.book) ? `${n.range} · ${n.title.replace(/^[^:]+:\s*/, "")}` : `${n.range} · ${n.title}`) : n.title;
+/* ---------------- notes: collect citations, write only the listings ---------------- */
+// The note pages themselves are committed source and are left alone. What is generated here
+// is the material derived from them: the citation graph the chapter pages read, and the
+// index pages and sidebar categories that list what exists.
+const noteLabel = (n) => n.kind === "study" ? (n.title.startsWith(n.book) ? `${n.range} \u00b7 ${n.title.replace(/^[^:]+:\s*/, "")}` : `${n.range} \u00b7 ${n.title}`) : n.title;
 const noteSelf = (n) => ({ kind: n.kind === "encyclopedia" ? "encyclopedia" : "note", label: noteLabel(n), url: n.url });
-function classBody(n) {
-  const videoId = /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1];
-  let body = transform(n.body, noteSelf(n));
-  if (!videoId) return body;
-  const player = `<div class="class-video-mount" data-video-id="${videoId}"></div>`;
-  return body.replace(/<figure class="class-hero">[\s\S]*?<\/figure>/, player);
-}
+
 write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "4 Chapters a Day", position: 2, link: { type: "doc", id: "study/index" } }));
 const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
 write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
@@ -250,38 +229,26 @@ for (const b of studyBooks) {
   write(path.join(dir, "_category_.json"), JSON.stringify({ label: b, position: bookNum[b], link: { type: "doc", id: `study/${bookSlug[b]}/index` } }));
   const list = notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]);
   write(path.join(dir, "index.md"), fm({ title: `${b}: 4 Chapters a Day`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + list.map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n") + "\n");
-  for (const n of list) {
-    const chs = Array.from({ length: n.chapters[1] - n.chapters[0] + 1 }, (_, i) => n.chapters[0] + i);
-    const readLine = /Read the chapter/.test(n.body) ? "" : `<p class="taught">Read the chapters: ${chs.map((c) => `<a href="${href(chapterUrl(b, c))}">${abbr(b)} ${c}</a>`).join(" · ")}</p>\n\n`;
-    write(path.join(dir, `${n.slug}.md`), fm({ title: n.title, slug: n.url, sidebar_label: n.range, sidebar_position: n.sidebarPos, description: `Study notes on ${n.range}` }) +
-      readLine + transform(n.body, noteSelf(n)));
-  }
 }
-// Class notes are dated entries, so they are blog posts, not docs: the blog plugin
-// gives reverse-chronological order, an RSS/Atom feed and an archive for free, and
-// removes the negated-date sidebar_position hack this used to need.
-const classNotes = notes.filter((n) => n.kind === "class").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+// Class notes are dated entries, so they live in blog/ and the blog plugin gives them
+// reverse-chronological order, an RSS/Atom feed and an archive for free.
+// Two parts of one class share a date and a title, so the url is the final tiebreak:
+// without it the order depends on the order the filesystem hands the files over.
+const classNotes = notes.filter((n) => n.kind === "class").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
 const years = [...new Set(classNotes.map((n) => n.year))].sort().reverse();
-for (const n of classNotes) {
-  const slugPath = n.url.replace(/^\/classes\//, "");
-  write(path.join(BLOG, n.year, `${n.date || n.slug}-${n.slug}.md`),
-    fm({ title: n.title, slug: slugPath, date: n.date || undefined,
-         description: `${n.series}${n.date ? " · " + n.date : ""}`,
-         tags: n.series ? [n.series] : undefined }) +
-    `<p class="taught">${n.series}${n.date ? " · " + n.date + (n.dateEstimated ? " (date estimated)" : "") : ""}</p>\n\n` +
-    "<!-- truncate -->\n\n" + classBody(n));
-}
 write(path.join(DOCS, "encyclopedia", "_category_.json"), JSON.stringify({ label: "Encyclopedia", position: 4, link: { type: "doc", id: "encyclopedia/index" } }));
 const enc = notes.filter((n) => n.kind === "encyclopedia").sort((a, b) => a.title.localeCompare(b.title));
 write(path.join(DOCS, "encyclopedia", "index.md"), fm({ title: "Encyclopedia", slug: "/encyclopedia", sidebar_position: 0, pagination_next: null, pagination_prev: null }) + enc.map((n) => `- [${n.title}](${n.url}): ${n.summary}`).join("\n") + "\n");
-for (const n of enc) write(path.join(DOCS, "encyclopedia", `${n.slug}.md`), fm({ title: n.title, slug: n.url, description: n.summary }) + transform(n.body, noteSelf(n)));
+
+for (const n of [...studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0])), ...classNotes, ...enc])
+  scanCitations(n.body, noteSelf(n));
 
 /* ---------------- write: cases ---------------- */
 write(path.join(DOCS, "cases", "_category_.json"), JSON.stringify({ label: "Case Studies", position: 7, link: { type: "doc", id: "cases/index" } }));
 write(path.join(DOCS, "cases", "index.md"), fm({ title: "Case Studies", slug: "/cases", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
   `<p class="legend">${Object.keys(VERDICT).map(badge).join(" ")}</p>\n\n` +
   ERAS.map((e) => { const list = cases.cases.filter((c) => c.era === e); return list.length ? `## ${e}\n\n` + list.map((c) => `- [${c.name}](${caseUrl(c)}) ${badge(c.verdict)}<br/><span class="charge">${c.charge}</span>`).join("\n") : ""; }).filter(Boolean).join("\n\n") + "\n");
-const lexicon = fs.existsSync(path.join(VAULT, "_tools", "lexicon.tsv")) ? read(path.join(VAULT, "_tools", "lexicon.tsv")).split("\n").slice(1).filter(Boolean).map((l) => { const [topic, , terms] = l.split("\t"); return { topic, terms: (terms || "").split(";").map((t) => t.trim().toLowerCase()).filter(Boolean) }; }) : [];
+const lexicon = fs.existsSync(path.join(DATA, "lexicon.tsv")) ? read(path.join(DATA, "lexicon.tsv")).split("\n").slice(1).filter(Boolean).map((l) => { const [topic, , terms] = l.split("\t"); return { topic, terms: (terms || "").split(";").map((t) => t.trim().toLowerCase()).filter(Boolean) }; }) : [];
 for (const e of ERAS) {
   const list = cases.cases.filter((c) => c.era === e); if (!list.length) continue;
   write(path.join(DOCS, "cases", eraSlug(e), "_category_.json"), JSON.stringify({ label: e, position: ERAS.indexOf(e) + 1, collapsed: true }));
@@ -415,7 +382,7 @@ writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, tit
 
   const THUMBS = path.join(ROOT, "static", "img", "classes");
   fs.mkdirSync(THUMBS, { recursive: true });
-  const ids = [...new Set(classNotes.map((n) => /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1]).filter(Boolean))];
+  const ids = [...new Set(classNotes.map((n) => /data-video-id="([\w-]{11})"/.exec(n.body)?.[1]).filter(Boolean))];
   const localThumb = new Map();
   let got = 0, missed = 0;
   const pull = async (id) => {
@@ -439,7 +406,7 @@ writeJson(path.join(SEARCH, "notes.json"), notes.map((n) => ({ kind: n.kind, tit
   writeJson(path.join(SEARCH, "classes.json"), classNotes.map((n) => {
     const w = [...(weights.get(n.url) ?? new Map())].sort((a, b) => b[1] - a[1] || BOOKS.indexOf(a[0]) - BOOKS.indexOf(b[0]));
     const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
-    const id = /i\.ytimg\.com\/vi\/([\w-]{11})\//.exec(n.body)?.[1] || "";
+    const id = /data-video-id="([\w-]{11})"/.exec(n.body)?.[1] || "";
     return {
       title: n.title, url: n.url, date: n.date, year: n.year,
       thumb: !id ? "" : localThumb.get(id) ? `/img/classes/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
