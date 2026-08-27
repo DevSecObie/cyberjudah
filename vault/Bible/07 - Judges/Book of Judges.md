@@ -1,6 +1,0 @@
-﻿# Book of Judges
-
-Part of [[The Holy Bible|the Holy Bible (KJV with Apocrypha)]].
-
-Chapters: [[Judges 1|1]] · [[Judges 2|2]] · [[Judges 3|3]] · [[Judges 4|4]] · [[Judges 5|5]] · [[Judges 6|6]] · [[Judges 7|7]] · [[Judges 8|8]] · [[Judges 9|9]] · [[Judges 10|10]] · [[Judges 11|11]] · [[Judges 12|12]] · [[Judges 13|13]] · [[Judges 14|14]] · [[Judges 15|15]] · [[Judges 16|16]] · [[Judges 17|17]] · [[Judges 18|18]] · [[Judges 19|19]] · [[Judges 20|20]] · [[Judges 21|21]]
-
