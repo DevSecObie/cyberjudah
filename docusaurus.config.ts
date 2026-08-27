@@ -78,7 +78,7 @@ const config: Config = {
       items: [
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
         { type: "docSidebar", sidebarId: "study", label: "Study", position: "left" },
-        { to: "/classes", label: "Classes", position: "left" },
+        { to: "/classes/browse", label: "Classes", position: "left" },
         { type: "docSidebar", sidebarId: "encyclopedia", label: "Encyclopedia", position: "left" },
         { type: "docSidebar", sidebarId: "law", label: "Law", position: "left" },
         { type: "docSidebar", sidebarId: "precepts", label: "Precepts", position: "left" },
@@ -92,7 +92,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [
-        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
+        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes/browse" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
         { title: "The Law", items: [{ label: "Handbook", to: "/law" }, { label: "Precepts", to: "/precepts" }, { label: "Case Studies", to: "/cases" }, { label: "Concordance", to: "/concordance" }] },
         { title: "Tools", items: [{ label: "Search", to: "/search" }, { label: "API", to: "/api" }, { label: "Downloads", to: "/downloads" }] },
       ],

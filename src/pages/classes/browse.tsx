@@ -48,7 +48,10 @@ export default function Browse() {
         <div className="cj-browse-inner">
           <header className="cj-browse-head">
             <h1>Sabbath class notes</h1>
-            <p>Every class written up in full. Find one by name, or narrow to a year.</p>
+            <p>
+              Every class written up in full. Find one by name, or narrow to a year.
+              {" "}<Link to="/classes">Read them as a feed</Link> instead.
+            </p>
           </header>
 
           <div className="cj-filters">

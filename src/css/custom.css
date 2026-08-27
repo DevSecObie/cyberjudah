@@ -418,10 +418,13 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
   border-top: 1px solid var(--ifm-color-emphasis-200); }
 .cj-rooms-inner { max-width: 68rem; margin-inline: auto; padding: clamp(3.5rem, 9vh, 6rem) 1.5rem;
   display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1.75rem, 4vw, 3.25rem); }
+/* Same as the class cards: the column is the target, not only the heading text. */
+.cj-rooms article { position: relative; }
+.cj-rooms h2 a::after { content: ""; position: absolute; inset: -1rem -1rem -1.25rem; border-radius: 6px; }
 .cj-rooms h2 { margin: 0 0 .7rem; font-size: 1.16rem; font-weight: 600; letter-spacing: -.005em; border: 0; }
 .cj-rooms h2 a { color: var(--cj-display); text-decoration: none;
   border-bottom: 1px solid var(--ifm-color-emphasis-200); padding-bottom: 3px; transition: border-color .18s, color .18s; }
-.cj-rooms h2 a:hover { color: var(--ifm-color-primary); border-bottom-color: var(--ifm-color-primary); text-decoration: none; }
+.cj-rooms h2 a:hover, .cj-rooms article:hover h2 a { color: var(--ifm-color-primary); border-bottom-color: var(--ifm-color-primary); text-decoration: none; }
 .cj-rooms p { margin: 0; font-size: .965rem; line-height: 1.66; color: var(--ifm-color-emphasis-600); }
 
 @media (max-width: 900px) { .cj-rooms-inner { grid-template-columns: 1fr; gap: 2.1rem; } }
@@ -466,6 +469,12 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
 .cj-count button { background: none; border: 0; padding: 0; cursor: pointer; font: inherit; color: var(--ifm-color-primary); text-decoration: underline; text-underline-offset: 3px; }
 
 .cj-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 2.2rem 1.6rem; }
+/* The whole card is the target, not just the words of the title: the title link
+   throws a transparent overlay across the card so a tap anywhere on the image,
+   the heading or the date opens the class. Everything inside that needs to stay
+   clickable would have to be raised above it; nothing here does. */
+.cj-card { position: relative; }
+.cj-card h2 a::after { content: ""; position: absolute; inset: -.4rem; border-radius: 5px; }
 .cj-card-thumb { display: block; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 3px;
   background: var(--ifm-color-emphasis-200); margin-bottom: .85rem; }
 .cj-card-thumb img { width: 100%; height: 100%; object-fit: cover; display: block;

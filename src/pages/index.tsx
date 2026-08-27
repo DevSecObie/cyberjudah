@@ -35,7 +35,7 @@ const rooms: { to: string; title: string; blurb: string }[] = [
       "Notes from the daily reading, session by session, in the order the books are read. Every verse taught is quoted in place, and the scriptures brought in alongside it are nested under the verse they support.",
   },
   {
-    to: "/classes",
+    to: "/classes/browse",
     title: "Sabbath class notes",
     blurb:
       "The classes written up in full, with the scriptures cited inline and linked back into the text. Read them straight through, or follow a citation into the chapter it came from and keep going.",
