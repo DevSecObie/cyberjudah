@@ -32,6 +32,8 @@ const config: Config = {
       // Greek Esther exists only as the Additions (chapters 10-16); references to
       // 1-9 belong to canonical Esther.
       redirects: [
+        // The stock blog archive route is disabled (see archiveBasePath) in favour of /classes/browse.
+        { from: "/classes/archive", to: "/classes/browse" },
         { from: "/bible/esther-greek/6", to: "/bible/esther/6" },
         { from: "/bible/esther-greek/7", to: "/bible/esther/7" },
         { from: "/bible/esther-greek/9", to: "/bible/esther/9" },
@@ -62,6 +64,8 @@ const config: Config = {
       blog: {
         path: "blog",
         routeBasePath: "classes",
+        // /classes/browse replaces the stock archive page, whose single JS chunk had grown past 5 MB.
+        archiveBasePath: null,
         editUrl: REPO,
         blogTitle: "Sabbath Class Notes",
         blogDescription: "Class notes from IUIC in the ClassRoom",
@@ -77,6 +81,8 @@ const config: Config = {
     } satisfies Preset.Options],
   ],
   themeConfig: {
+    // Social card for link previews; twitter:card=summary_large_image was already emitted, but with no image.
+    image: "img/cyberjudah-social-card.png",
     colorMode: { defaultMode: "dark", respectPrefersColorScheme: true },
     zoom: { selector: ".markdown img, .class-hero img" },
     docs: { sidebar: { hideable: true, autoCollapseCategories: true } },
