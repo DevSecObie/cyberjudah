@@ -1,0 +1,65 @@
+/* SCRIPTURE_OS additions: continue reading, progress, bookmarks, highlights, read-aloud.
+   Base shell styles live in custom.css; everything here is new surface. */
+
+/* continue reading chip */
+.cj-continue { display: block; width: calc(100% - 1.6rem); margin: .8rem .8rem 0; padding: .55rem .7rem; text-align: left;
+  border: 1px solid var(--cj-cyan); background: color-mix(in srgb, var(--cj-cyan) 8%, transparent); cursor: pointer; }
+.cj-continue small { display: block; color: var(--cj-cyan); font: 700 .55rem var(--ifm-font-family-monospace); letter-spacing: .14em; }
+.cj-continue span { color: var(--ifm-font-color-base); font-family: var(--ifm-font-family-monospace); font-size: .85rem; font-weight: 700; }
+.cj-continue:hover { background: color-mix(in srgb, var(--cj-cyan) 14%, transparent); }
+
+/* welcome actions */
+.cj-welcome-actions { display: flex; gap: .6rem; flex-wrap: wrap; justify-content: center; }
+.cj-welcome-actions .cj-secondary { opacity: .75; }
+
+/* per-book reading progress */
+.cj-book-list button { position: relative; overflow: hidden; }
+.cj-book-list .cj-progress { position: absolute; left: 0; bottom: 0; height: 2px; background: var(--cj-cyan); opacity: .8; pointer-events: none; }
+.cj-chapter-grid button.is-read:not(.is-active) { border-color: color-mix(in srgb, var(--cj-cyan) 45%, transparent); color: var(--cj-cyan); opacity: .75; }
+
+/* bookmarks panel */
+.cj-bookmarks { border-top: 1px solid var(--ifm-color-emphasis-200); margin-top: .6rem; padding-bottom: .6rem; }
+.cj-bookmark-row { display: flex; align-items: flex-start; gap: .3rem; padding: 0 .8rem; }
+.cj-bookmark-row a { flex: 1; min-width: 0; display: block; padding: .4rem 0; text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--ifm-color-emphasis-200) 55%, transparent); }
+.cj-bookmark-row a span { display: block; font: 700 .72rem var(--ifm-font-family-monospace); color: var(--cj-amber); }
+.cj-bookmark-row a em { display: block; font-style: normal; font-size: .74rem; color: var(--ifm-color-emphasis-600);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cj-bookmark-row > button { border: none; background: none; color: var(--ifm-color-emphasis-600); cursor: pointer; padding: .35rem .2rem; }
+.cj-bookmark-row > button:hover { color: var(--cj-magenta); }
+
+/* verse states in the reading pane */
+.cj-reader-article .scripture .verse.is-bookmarked::after { content: "★"; margin-left: .4rem; color: var(--cj-amber); font-size: .7em; }
+.cj-reader-article .scripture .verse.is-reading { border-left-color: var(--cj-amber); background: color-mix(in srgb, var(--cj-amber) 9%, transparent); }
+.cj-reader-article .scripture .verse.cj-hl-cyan { background: color-mix(in srgb, var(--cj-cyan) 14%, transparent); }
+.cj-reader-article .scripture .verse.cj-hl-magenta { background: color-mix(in srgb, var(--cj-magenta) 13%, transparent); }
+.cj-reader-article .scripture .verse.cj-hl-amber { background: color-mix(in srgb, var(--cj-amber) 15%, transparent); }
+.cj-reader-article .scripture .verse.is-selected.cj-hl-cyan,
+.cj-reader-article .scripture .verse.is-selected.cj-hl-magenta,
+.cj-reader-article .scripture .verse.is-selected.cj-hl-amber { border-left-color: var(--cj-cyan); }
+
+/* highlight controls */
+.cj-hl-row { display: flex; align-items: center; gap: .45rem; margin: 0 .8rem .6rem; }
+.cj-hl-row small { color: var(--ifm-color-emphasis-600); font: 700 .55rem var(--ifm-font-family-monospace); letter-spacing: .13em; margin-right: .2rem; }
+.cj-hl-dot { width: 18px; height: 18px; border-radius: 50%; border: 2px solid transparent; cursor: pointer; padding: 0; }
+.cj-hl-dot-cyan { background: var(--cj-cyan); }
+.cj-hl-dot-magenta { background: var(--cj-magenta); }
+.cj-hl-dot-amber { background: var(--cj-amber); }
+.cj-hl-dot.is-active { border-color: var(--ifm-font-color-base); }
+.cj-hl-clear { border: 1px solid var(--ifm-color-emphasis-200); background: none; color: var(--ifm-color-emphasis-600);
+  width: 18px; height: 18px; border-radius: 50%; line-height: 1; cursor: pointer; padding: 0; font-size: .7rem; }
+
+/* verse quick links */
+.cj-verse-links { display: flex; gap: .9rem; margin: 0 .8rem .8rem; flex-wrap: wrap; }
+.cj-verse-links a { font: 700 .68rem var(--ifm-font-family-monospace); letter-spacing: .05em; }
+
+/* read aloud */
+.cj-readaloud { border-top: 1px solid var(--ifm-color-emphasis-200); }
+.cj-readaloud-controls { display: flex; gap: .5rem; padding: 0 .8rem .8rem; }
+.cj-readaloud-controls button { flex: 1; padding: .45rem .5rem; border: 1px solid var(--ifm-color-emphasis-200); background: none;
+  color: var(--ifm-font-color-base); font: 700 .72rem var(--ifm-family-monospace, var(--ifm-font-family-monospace)); cursor: pointer; }
+.cj-readaloud-controls button:hover { border-color: var(--cj-cyan); color: var(--cj-cyan); }
+
+/* citation summaries */
+.cj-related-summary { margin: .15rem 0 0; font-size: .72rem; line-height: 1.45; color: var(--ifm-color-emphasis-600);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
