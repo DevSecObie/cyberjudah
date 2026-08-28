@@ -53,6 +53,110 @@ function formatRanges(nums: number[]) {
 
 const dayStamp = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 
+/* Ambient score: an endless generative bed synthesized with WebAudio, so there is no
+   audio file to download and it never audibly loops. Five voices glide between the
+   chords of a slow progression like a string section; the progression, brightness, and
+   pacing are chosen from the book being read, and the bed swells while narration plays. */
+type Mood = "warm" | "solemn" | "mournful" | "epic";
+const CHORDS: Record<string, number[]> = {
+  am: [110.0, 130.81, 164.81, 220.0, 329.63],
+  amLow: [55.0, 82.41, 110.0, 130.81, 164.81],
+  f: [87.31, 130.81, 174.61, 220.0, 261.63],
+  c: [130.81, 164.81, 196.0, 261.63, 329.63],
+  g: [98.0, 123.47, 146.83, 196.0, 246.94],
+  dm: [73.42, 146.83, 174.61, 220.0, 293.66],
+  em: [82.41, 123.47, 164.81, 196.0, 246.94],
+  bb: [58.27, 116.54, 146.83, 174.61, 233.08],
+};
+const MOODS: Record<Mood, { seq: number[][]; filter: number; period: number }> = {
+  warm:     { seq: [CHORDS.am, CHORDS.f, CHORDS.c, CHORDS.g], filter: 950, period: 18 },
+  solemn:   { seq: [CHORDS.am, CHORDS.f, CHORDS.em, CHORDS.g], filter: 800, period: 22 },
+  mournful: { seq: [CHORDS.amLow, CHORDS.bb, CHORDS.am, CHORDS.dm], filter: 550, period: 26 },
+  epic:     { seq: [CHORDS.amLow, CHORDS.f, CHORDS.dm, CHORDS.em], filter: 700, period: 20 },
+};
+const MOOD_BOOKS: [Mood, string[]][] = [
+  ["mournful", ["lamentations", "job", "jeremiah", "ecclesiastes", "baruch"]],
+  ["epic", ["revelation", "daniel", "ezekiel", "isaiah", "joel", "amos", "obadiah", "micah", "nahum", "habakkuk", "zephaniah", "haggai", "zechariah", "malachi", "hosea", "2-esdras", "judith", "1-maccabees", "2-maccabees"]],
+  ["warm", ["psalms", "proverbs", "song-of-solomon", "matthew", "mark", "luke", "john", "acts", "romans", "1-corinthians", "2-corinthians", "galatians", "ephesians", "philippians", "colossians", "1-thessalonians", "2-thessalonians", "1-timothy", "2-timothy", "titus", "philemon", "hebrews", "james", "1-peter", "2-peter", "1-john", "2-john", "3-john", "jude", "wisdom-of-solomon", "ecclesiasticus", "tobit"]],
+];
+const moodForBook = (slug?: string): Mood => {
+  if (slug) for (const [mood, slugs] of MOOD_BOOKS) if (slugs.includes(slug)) return mood;
+  return "solemn";
+};
+const ambient = (() => {
+  let ctx: AudioContext | null = null;
+  let master: GainNode | null = null;
+  let filter: BiquadFilterNode | null = null;
+  let oscs: OscillatorNode[] = [];
+  let gains: GainNode[] = [];
+  let timer: number | null = null;
+  let step = 0;
+  let mood: Mood = "solemn";
+  let level = 0.5;
+  let intense = false;
+  const AMPS = [0.9, 0.5, 0.42, 0.24, 0.09];
+  const running = () => Boolean(ctx);
+  const target = () => level * 0.11 * (intense ? 1.3 : 1);
+  const applyLevel = () => { if (master && ctx) master.gain.setTargetAtTime(target(), ctx.currentTime, 0.6); };
+  const applyFilter = () => { if (filter && ctx) filter.frequency.setTargetAtTime(MOODS[mood].filter + (intense ? 260 : 0), ctx.currentTime, 1.2); };
+  const setLevel = (v: number) => { level = v; applyLevel(); };
+  const setIntensity = (on: boolean) => { intense = on; applyLevel(); applyFilter(); };
+  const glideTo = (chord: number[]) => {
+    if (!ctx) return;
+    // each voice slides to its next chord tone over several seconds, string-section style
+    oscs.forEach((osc, i) => osc.frequency.setTargetAtTime(chord[i % chord.length], ctx!.currentTime, 3.5 + i * 0.4));
+    gains.forEach((g, i) => {
+      const amp = AMPS[i % AMPS.length];
+      g.gain.setTargetAtTime(amp * (0.35 + Math.random() * 0.4), ctx!.currentTime, 4 + Math.random() * 3);
+    });
+  };
+  const schedule = () => {
+    if (timer !== null) window.clearInterval(timer);
+    timer = window.setInterval(() => { step = (step + 1) % MOODS[mood].seq.length; glideTo(MOODS[mood].seq[step]); }, MOODS[mood].period * 1000);
+  };
+  const setMood = (m: Mood) => {
+    if (m === mood) return;
+    mood = m;
+    if (!ctx) return;
+    step = 0; glideTo(MOODS[mood].seq[0]); applyFilter(); schedule();
+  };
+  const start = (m?: Mood) => {
+    if (m) mood = m;
+    if (ctx || typeof window === "undefined" || !("AudioContext" in window)) return;
+    ctx = new AudioContext();
+    master = ctx.createGain(); master.gain.value = 0;
+    filter = ctx.createBiquadFilter();
+    filter.type = "lowpass"; filter.frequency.value = MOODS[mood].filter; filter.Q.value = 0.4;
+    filter.connect(master); master.connect(ctx.destination);
+    const chord = MOODS[mood].seq[0];
+    step = 0;
+    chord.forEach((freq, i) => {
+      const osc = ctx!.createOscillator();
+      osc.type = i >= 3 ? "triangle" : "sine";
+      osc.frequency.value = freq;
+      osc.detune.value = (Math.random() - 0.5) * 7;
+      const gain = ctx!.createGain(); gain.gain.value = AMPS[i] * 0.5;
+      const lfo = ctx!.createOscillator(); lfo.frequency.value = 0.015 + Math.random() * 0.03;
+      const lfoGain = ctx!.createGain(); lfoGain.gain.value = AMPS[i] * 0.35;
+      lfo.connect(lfoGain); lfoGain.connect(gain.gain);
+      lfo.start(ctx!.currentTime + Math.random() * 20);
+      osc.connect(gain); gain.connect(filter!); osc.start();
+      oscs.push(osc); gains.push(gain);
+    });
+    schedule();
+    master.gain.setTargetAtTime(target(), ctx.currentTime, 2.5);
+  };
+  const stop = () => {
+    if (timer !== null) { window.clearInterval(timer); timer = null; }
+    if (!ctx || !master) return;
+    const closing = ctx;
+    master.gain.setTargetAtTime(0, closing.currentTime, 0.5);
+    window.setTimeout(() => { try { closing.close(); } catch { /* already closed */ } }, 1800);
+    ctx = null; master = null; filter = null; oscs = []; gains = [];
+  };
+  return { start, stop, setLevel, setMood, setIntensity, running };
+})();
+
 /* module-level caches shared across chapter navigations */
 let notesIndexPromise: Promise<Record<string, string>> | null = null;
 const chapterTextCache = new Map<string, Promise<string[]>>();
@@ -88,6 +192,11 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
   const [lastRead, setLastRead] = useState<{ slug: string; chapter: number } | null>(null);
   const [planIndex, setPlanIndex] = useState<number | null>(null);
   const [streak, setStreak] = useState<{ date: string; count: number }>({ date: "", count: 0 });
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+  const [voiceURI, setVoiceURI] = useState("");
+  const [rate, setRate] = useState(0.95);
+  const [ambientOn, setAmbientOn] = useState(() => ambient.running());
+  const [ambientVol, setAmbientVol] = useState(0.5);
   const [readingVerse, setReadingVerse] = useState<number | null>(null);
   const [speechState, setSpeechState] = useState<"idle" | "playing" | "paused">("idle");
   const speechRun = useRef(0);
@@ -316,19 +425,42 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
       setReadingVerse(queue[i].n);
       verseByNumber(queue[i].n)?.scrollIntoView({ block: "center", behavior: "smooth" });
       const utterance = new SpeechSynthesisUtterance(queue[i].text);
-      utterance.rate = 0.95;
+      utterance.rate = rate;
+      const chosen = voices.find((v) => v.voiceURI === voiceURI);
+      if (chosen) utterance.voice = chosen;
       utterance.onend = () => speakAt(i + 1);
       utterance.onerror = () => { if (run === speechRun.current) { setReadingVerse(null); setSpeechState("idle"); } };
       window.speechSynthesis.speak(utterance);
     };
     speakAt(0);
-  }, [currentBook, chapter]);
+  }, [currentBook, chapter, rate, voices, voiceURI]);
   const togglePause = useCallback(() => {
     if (!("speechSynthesis" in window)) return;
     if (speechState === "playing") { window.speechSynthesis.pause(); setSpeechState("paused"); }
     else if (speechState === "paused") { window.speechSynthesis.resume(); setSpeechState("playing"); }
   }, [speechState]);
   useEffect(() => () => { if (typeof window !== "undefined" && "speechSynthesis" in window) window.speechSynthesis.cancel(); }, []);
+  useEffect(() => {
+    if (!("speechSynthesis" in window)) return;
+    const load = () => setVoices(window.speechSynthesis.getVoices().filter((v) => v.lang.toLowerCase().startsWith("en")));
+    load();
+    window.speechSynthesis.addEventListener("voiceschanged", load);
+    const audio = store.get<{ voiceURI?: string; rate?: number; ambientVol?: number }>("cj-audio", {});
+    if (audio.voiceURI) setVoiceURI(audio.voiceURI);
+    if (audio.rate) setRate(audio.rate);
+    if (audio.ambientVol !== undefined) { setAmbientVol(audio.ambientVol); ambient.setLevel(audio.ambientVol); }
+    return () => window.speechSynthesis.removeEventListener("voiceschanged", load);
+  }, []);
+  useEffect(() => () => {
+    // chapter turns remount this shell; keep the score playing across them and stop it
+    // only when the reader is actually gone (navigated out of the Bible section)
+    window.setTimeout(() => { if (document.documentElement.dataset.bibleApp !== "true") ambient.stop(); }, 800);
+  }, []);
+  useEffect(() => { if (ambient.running()) ambient.setMood(moodForBook(bookSlug)); }, [bookSlug]);
+  useEffect(() => { if (ambient.running()) ambient.setIntensity(speechState === "playing"); }, [speechState]);
+  const saveAudio = (patch: { voiceURI?: string; rate?: number; ambientVol?: number }) => {
+    store.set("cj-audio", { ...store.get<object>("cj-audio", {}), ...patch });
+  };
 
   /* bookmarks, highlights, notes */
   const firstSelected = selected[0];
@@ -638,7 +770,7 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
           </div>
         </> : <div className="cj-tools-empty"><b>+</b><p>Tap any verse to select it, and keep tapping to build a passage; tap a verse again to remove it. Shift-click selects a whole range; j and k move by verse.</p></div>}
         {currentBook && chapter !== undefined && <section className="cj-readaloud">
-          <div className="cj-related-head"><span>READ_ALOUD</span></div>
+          <div className="cj-related-head"><span>LISTEN</span></div>
           <div className="cj-readaloud-controls">
             {speechState === "idle"
               ? <button type="button" onClick={() => startReading(firstSelected)} title="Read aloud (p)">▶ {firstSelected !== undefined ? `Read from verse ${firstSelected}` : "Read chapter"}</button>
@@ -646,6 +778,28 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
                 <button type="button" onClick={togglePause}>{speechState === "playing" ? "⏸ Pause" : "▶ Resume"}</button>
                 <button type="button" onClick={stopReading}>■ Stop</button>
               </>}
+          </div>
+          {voices.length > 0 && <label className="cj-audio-row">
+            <small>VOICE</small>
+            <select value={voiceURI} onChange={(e) => { setVoiceURI(e.target.value); saveAudio({ voiceURI: e.target.value }); }}>
+              <option value="">System default</option>
+              {voices.map((v) => <option key={v.voiceURI} value={v.voiceURI}>{v.name.replace(/^(Microsoft|Google) /, "")}{v.localService ? "" : " ·☁"}</option>)}
+            </select>
+          </label>}
+          <label className="cj-audio-row">
+            <small>SPEED</small>
+            <select value={rate} onChange={(e) => { const r = Number(e.target.value); setRate(r); saveAudio({ rate: r }); }}>
+              <option value={0.8}>Slow</option><option value={0.95}>Natural</option><option value={1.1}>Brisk</option><option value={1.3}>Fast</option>
+            </select>
+          </label>
+          <div className="cj-audio-row cj-ambient-row">
+            <small>AMBIENCE</small>
+            <button type="button" className={ambientOn ? "is-active" : ""} onClick={() => {
+              if (ambientOn) { ambient.stop(); setAmbientOn(false); }
+              else { ambient.setLevel(ambientVol); ambient.start(moodForBook(bookSlug)); setAmbientOn(true); }
+            }}>{ambientOn ? "◼ On" : "♫ Off"}</button>
+            <input type="range" min={0} max={1} step={0.05} value={ambientVol} aria-label="Ambience volume"
+              onChange={(e) => { const v = Number(e.target.value); setAmbientVol(v); ambient.setLevel(v); saveAudio({ ambientVol: v }); }} />
           </div>
         </section>}
         {currentBook && chapter !== undefined && <section className="cj-related">

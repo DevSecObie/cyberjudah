@@ -162,3 +162,14 @@ html[data-reader-para="true"] .cj-reader-article .scripture .verse .cj-web-inlin
 
 /* the generated index listings duplicate the LIBRARY panel; the reader is the index now */
 .cj-reader-article.cj-reader-index { display: none; }
+
+/* listen: voice, speed, ambience */
+.cj-audio-row { display: flex; align-items: center; gap: .55rem; margin: 0 .8rem .5rem; }
+.cj-audio-row small { flex: 0 0 62px; color: var(--ifm-color-emphasis-600); font: 700 .55rem var(--ifm-font-family-monospace); letter-spacing: .12em; }
+.cj-audio-row select { flex: 1; min-width: 0; background: var(--ifm-background-color); color: var(--ifm-font-color-base);
+  border: 1px solid var(--ifm-color-emphasis-200); padding: .28rem .4rem; font: 500 .74rem var(--ifm-font-family-monospace); }
+.cj-audio-row select:focus { outline: none; border-color: var(--cj-cyan); }
+.cj-ambient-row button { flex: 0 0 auto; padding: .28rem .6rem; border: 1px solid var(--ifm-color-emphasis-200); background: none;
+  color: var(--ifm-font-color-base); font: 700 .68rem var(--ifm-font-family-monospace); cursor: pointer; }
+.cj-ambient-row button.is-active { border-color: var(--cj-cyan); color: var(--cj-cyan); }
+.cj-ambient-row input[type="range"] { flex: 1; accent-color: var(--cj-cyan); min-width: 0; }
