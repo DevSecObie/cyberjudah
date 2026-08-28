@@ -102,7 +102,11 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
   }, [base, history]);
 
   const verseNodes = () => Array.from(articleRef.current?.querySelectorAll<HTMLElement>(".scripture .verse") ?? []);
-  const verseText = (node: HTMLElement) => node.textContent?.replace(/^\s*\d+\s*/, "").trim() ?? "";
+  const verseText = (node: HTMLElement) => {
+    const clone = node.cloneNode(true) as HTMLElement;
+    clone.querySelectorAll(".cj-web-inline, .cj-note-tip").forEach((el) => el.remove());
+    return clone.textContent?.replace(/^\s*\d+\s*/, "").trim() ?? "";
+  };
   const verseByNumber = (n: number) => articleRef.current?.querySelector<HTMLElement>(`.scripture .verse#v${n}`) ?? null;
   const fetchChapterText = useCallback((slug: string, ch: number): Promise<string[]> => {
     const key = `${slug}/${ch}`;
@@ -267,6 +271,11 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
       node.classList.toggle("is-reading", readingVerse === n);
       node.classList.toggle("is-bookmarked", marked.has(n));
       node.classList.toggle("is-noted", Boolean(notes[n]));
+      const tip = node.querySelector<HTMLElement>(".cj-note-tip");
+      if (notes[n]) {
+        if (tip) { if (tip.textContent !== notes[n]) tip.textContent = notes[n]; }
+        else { const el = document.createElement("span"); el.className = "cj-note-tip"; el.textContent = notes[n]; node.appendChild(el); }
+      } else tip?.remove();
       for (const color of HL_COLORS) node.classList.toggle(`cj-hl-${color}`, highlights[n] === color);
     }
   }, [selected, highlights, bookmarks, notes, readingVerse, bookSlug, chapter, children]);
