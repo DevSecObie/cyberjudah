@@ -132,6 +132,20 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
     document.documentElement.dataset.readerNums = next.nums ? "true" : "false";
   };
 
+  /* opening the Bible resumes where you left off; the welcome screen is for first visits */
+  useEffect(() => {
+    if (bookSlug || chapter !== undefined) return;
+    const last = store.getRaw("cj-last-chapter")?.replace(/"/g, "");
+    if (last) { const [slug, ch] = last.split("/"); if (slug && ch && bookBySlug.has(slug)) history.replace(`${base}/bible/${slug}/${ch}`); }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  /* a book page opens at its first chapter; the library panel is the book's index */
+  useEffect(() => {
+    if (currentBook && chapter === undefined) history.replace(`${base}/bible/${currentBook.slug}/${currentBook.chapterIds[0]}`);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [bookSlug, chapter]);
+
   /* boot: size, prefs, memory, plan, streak */
   useEffect(() => {
     document.documentElement.dataset.bibleApp = "true";
@@ -227,7 +241,8 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
         next = prev.includes(number) ? prev.filter((n) => n !== number) : [...prev, number].sort((x, y) => x - y);
         anchorRef.current = number;
       } else {
-        next = prev.length === 1 && prev[0] === number ? [] : [number];
+        // Bible-app selection: tapping verses accumulates, tapping a selected verse removes it.
+        next = prev.includes(number) ? prev.filter((n) => n !== number) : [...prev, number].sort((x, y) => x - y);
         anchorRef.current = number;
       }
       setSelected(next); setXrefPreview(null); setNoteOpen(false);
@@ -564,7 +579,10 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
       <aside className={`cj-study-tools ${toolsOpen ? "is-open" : ""}`} aria-label="Verse tools">
         <div className="cj-panel-title"><span>VERSE_TOOLS</span><button type="button" onClick={() => setToolsOpen(false)}>×</button></div>
         {selected.length && currentBook ? <>
-          <div className="cj-selected-verse"><small>SELECTED</small><strong>{reference}</strong>
+          <div className="cj-selected-verse">
+            <small>SELECTED · {selected.length} {selected.length > 1 ? "VERSES" : "VERSE"}</small>
+            <button type="button" className="cj-clear-selection" onClick={() => { setSelected([]); anchorRef.current = null; }} aria-label="Clear selection">× Clear</button>
+            <strong>{reference}</strong>
             <p>{selectedTexts.length > 1 ? `${selectedTexts.length} verses` : selectedTexts[0]?.text}</p>
           </div>
           <div className="cj-copy-actions">
@@ -618,7 +636,7 @@ export default function BibleAppShell({ bookSlug, chapter, children }: {
             <a href={`${base}/search?q=${encodeURIComponent(`"${searchPhrase}"`)}`}>Search this phrase</a>
             <a href={`${base}/concordance/${bookSlug}`}>Book concordance</a>
           </div>
-        </> : <div className="cj-tools-empty"><b>+</b><p>Select any verse in the text to open its actions, cross references, and connected records. Shift-click selects a range; j and k move by verse.</p></div>}
+        </> : <div className="cj-tools-empty"><b>+</b><p>Tap any verse to select it, and keep tapping to build a passage; tap a verse again to remove it. Shift-click selects a whole range; j and k move by verse.</p></div>}
         {currentBook && chapter !== undefined && <section className="cj-readaloud">
           <div className="cj-related-head"><span>READ_ALOUD</span></div>
           <div className="cj-readaloud-controls">
