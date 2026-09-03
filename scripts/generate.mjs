@@ -154,7 +154,12 @@ function parseFrontmatter(text) {
   const m = /^---\n([\s\S]*?)\n---\n/.exec(text);
   if (!m) return [{}, text];
   const o = {};
-  for (const line of m[1].split("\n")) { const i = line.indexOf(":"); if (i > 0) o[line.slice(0, i).trim()] = line.slice(i + 1).trim().replace(/^"|"$/g, ""); }
+  // A double-quoted YAML scalar may contain escaped quotes (a title like The "I Don't Care"
+  // Attitude), so unquote and unescape rather than only stripping the outer quotes: the raw
+  // backslashes were otherwise carried straight into the listings and the search index.
+  const unquote = (v) => /^".*"$/s.test(v) ? v.slice(1, -1).replace(/\\(["\\])/g, "$1")
+    : /^'.*'$/s.test(v) ? v.slice(1, -1).replace(/''/g, "'") : v;
+  for (const line of m[1].split("\n")) { const i = line.indexOf(":"); if (i > 0) o[line.slice(0, i).trim()] = unquote(line.slice(i + 1).trim()); }
   return [o, text.slice(m[0].length)];
 }
 const notes = []; // {kind, slug, title, url, book, chapters, range, date, series, body, sidebarPos}
