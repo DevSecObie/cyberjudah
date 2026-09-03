@@ -26,8 +26,9 @@ const DOCS = path.join(ROOT, "docs");
 const API = path.join(ROOT, "static", "api");
 const SEARCH = path.join(ROOT, "static", "search");
 const BLOG = path.join(ROOT, "blog");
+const CAPTAINS = path.join(ROOT, "captains");
 
-const read = (p) => fs.readFileSync(p, "utf8").replace(/^\uFEFF/, "");
+const read =(p) => fs.readFileSync(p, "utf8").replace(/^\uFEFF/, "");
 const json = (p) => JSON.parse(read(p));
 const write = (p, s) => { fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, s); };
 const writeJson = (p, o) => write(p, JSON.stringify(o));
@@ -182,6 +183,19 @@ if (fs.existsSync(BLOG)) for (const y of fs.readdirSync(BLOG, { withFileTypes: t
       series: String(meta.tags || "").replace(/^\[|\]$/g, "").replace(/"/g, "").trim(),
       year: y.name, body, sidebarPos: 0 });
   }
+// 15 Minutes w/ The Captains lives in its own blog instance so it keeps its own feed and
+// browse page: the episodes are short weekday teachings, not Sabbath classes, and mixing
+// the two into one reverse-chronological feed buries the classes.
+if (fs.existsSync(CAPTAINS)) for (const y of fs.readdirSync(CAPTAINS, { withFileTypes: true }).filter((x) => x.isDirectory()))
+  for (const f of fs.readdirSync(path.join(CAPTAINS, y.name)).filter((f) => f.endsWith(".md"))) {
+    const [meta, body] = parseFrontmatter(read(path.join(CAPTAINS, y.name, f)));
+    if (!meta.slug) continue;
+    notes.push({ kind: "captains", slug: String(meta.slug).split("/").pop(), url: `/captains/${meta.slug}`,
+      title: meta.title || f, date: meta.date || "",
+      dateEstimated: /\(date estimated\)/.test(body),
+      series: String(meta.tags || "").replace(/^\[|\]$/g, "").replace(/"/g, "").trim(),
+      year: y.name, body, sidebarPos: 0 });
+  }
 const ENC_DOCS = path.join(DOCS, "encyclopedia");
 if (fs.existsSync(ENC_DOCS)) for (const f of fs.readdirSync(ENC_DOCS).filter((f) => f.endsWith(".md") && f !== "index.md")) {
   const [meta, body] = parseFrontmatter(read(path.join(ENC_DOCS, f)));
@@ -236,11 +250,12 @@ for (const b of studyBooks) {
 // without it the order depends on the order the filesystem hands the files over.
 const classNotes = notes.filter((n) => n.kind === "class").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
 const years = [...new Set(classNotes.map((n) => n.year))].sort().reverse();
+const captainNotes = notes.filter((n) => n.kind === "captains").sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
 write(path.join(DOCS, "encyclopedia", "_category_.json"), JSON.stringify({ label: "Encyclopedia", position: 4, link: { type: "doc", id: "encyclopedia/index" } }));
 const enc = notes.filter((n) => n.kind === "encyclopedia").sort((a, b) => a.title.localeCompare(b.title));
 write(path.join(DOCS, "encyclopedia", "index.md"), fm({ title: "Encyclopedia", slug: "/encyclopedia", sidebar_position: 0, pagination_next: null, pagination_prev: null }) + enc.map((n) => `- [${n.title}](${n.url}): ${n.summary}`).join("\n") + "\n");
 
-for (const n of [...studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0])), ...classNotes, ...enc])
+for (const n of [...studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0])), ...classNotes, ...captainNotes, ...enc])
   scanCitations(n.body, noteSelf(n));
 
 /* ---------------- write: cases ---------------- */
@@ -374,20 +389,23 @@ for (const n of notes) records.push({ kind: n.kind, title: n.title, url: n.url, 
 // 16:9 320x180 (hqdefault is 4:3 with letterbox bars) and about half the bytes.
 // If a fetch fails the remote URL stays as the fallback, so this can only improve
 // on the previous behaviour and can never fail the build.
-{
+// Both blog instances get the same treatment; only the route prefix, the thumbnail
+// directory and the output file differ.
+for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out: "classes.json", label: "class" },
+                    { list: captainNotes, prefix: "/captains/", dir: "captains", out: "captains.json", label: "captains" }]) {
   const weights = new Map();
   for (const [key, rows] of cited) {
     const book = key.split("|")[0];
     for (const r of rows) {
-      if (!r.url.startsWith("/classes/")) continue;
+      if (!r.url.startsWith(feed.prefix)) continue;
       if (!weights.has(r.url)) weights.set(r.url, new Map());
       const w = weights.get(r.url); w.set(book, (w.get(book) ?? 0) + 1);
     }
   }
 
-  const THUMBS = path.join(ROOT, "static", "img", "classes");
+  const THUMBS = path.join(ROOT, "static", "img", feed.dir);
   fs.mkdirSync(THUMBS, { recursive: true });
-  const ids = [...new Set(classNotes.map((n) => /data-video-id="([\w-]{11})"/.exec(n.body)?.[1]).filter(Boolean))];
+  const ids = [...new Set(feed.list.map((n) => /data-video-id="([\w-]{11})"/.exec(n.body)?.[1]).filter(Boolean))];
   const localThumb = new Map();
   let got = 0, missed = 0;
   const pull = async (id) => {
@@ -406,15 +424,15 @@ for (const n of notes) records.push({ kind: n.kind, title: n.title, url: n.url, 
     } catch { missed++; }
   };
   for (let i = 0; i < ids.length; i += 8) await Promise.all(ids.slice(i, i + 8).map(pull));
-  console.error(`class thumbnails: ${got} local, ${missed} falling back to i.ytimg.com`);
+  if (ids.length) console.error(`${feed.label} thumbnails: ${got} local, ${missed} falling back to i.ytimg.com`);
 
-  writeJson(path.join(SEARCH, "classes.json"), classNotes.map((n) => {
+  writeJson(path.join(SEARCH, feed.out), feed.list.map((n) => {
     const w = [...(weights.get(n.url) ?? new Map())].sort((a, b) => b[1] - a[1] || BOOKS.indexOf(a[0]) - BOOKS.indexOf(b[0]));
     const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
     const id = /data-video-id="([\w-]{11})"/.exec(n.body)?.[1] || "";
     return {
       title: n.title, url: n.url, date: n.date, year: n.year,
-      thumb: !id ? "" : localThumb.get(id) ? `/img/classes/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
+      thumb: !id ? "" : localThumb.get(id) ? `/img/${feed.dir}/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
       books: w.filter(([, c]) => c >= cut).slice(0, 4).map(([b]) => b),
     };
   }));
@@ -453,7 +471,7 @@ writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/ap
 
 write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
   chapters: Object.values(CHAPTERS).reduce((a, b) => a + b, 0), books: BOOKS.length, verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
-  studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
+  studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, captains: notes.filter((n) => n.kind === "captains").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
   laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(sectionById).length, parts: handbook.parts.length,
   precepts: precepts.length, cases: cases.cases.length, citedChapters: cited.size,
 }));

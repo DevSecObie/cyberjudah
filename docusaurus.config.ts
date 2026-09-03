@@ -34,6 +34,7 @@ const config: Config = {
       redirects: [
         // The stock blog archive route is disabled (see archiveBasePath) in favour of /classes/browse.
         { from: "/classes/archive", to: "/classes/browse" },
+        { from: "/captains/archive", to: "/captains/browse" },
         { from: "/bible/esther-greek/6", to: "/bible/esther/6" },
         { from: "/bible/esther-greek/7", to: "/bible/esther/7" },
         { from: "/bible/esther-greek/9", to: "/bible/esther/9" },
@@ -47,6 +48,25 @@ const config: Config = {
         { tagName: "link", rel: "manifest", href: "/cyberjudah/manifest.json" },
         { tagName: "meta", name: "theme-color", content: "#05070f" },
       ],
+    }],
+    // 15 Minutes w/ The Captains: short weekday teachings from the IUIC Captains channel.
+    // A second blog instance rather than a tag on the Sabbath notes, so each keeps its own
+    // feed, its own pagination and its own browse page.
+    ["@docusaurus/plugin-content-blog", {
+      id: "captains",
+      path: "captains",
+      routeBasePath: "captains",
+      archiveBasePath: null,
+      editUrl: REPO,
+      blogTitle: "15 Minutes w/ The Captains",
+      blogDescription: "Episode notes from 15 Minutes w/ The Captains",
+      blogSidebarTitle: "Recent episodes",
+      blogSidebarCount: "ALL",
+      postsPerPage: 10,
+      showReadingTime: true,
+      onUntruncatedBlogPosts: "ignore",
+      onInlineAuthors: "ignore",
+      feedOptions: { type: "all", title: "CyberJudah · 15 Minutes w/ The Captains", description: "Episode notes from 15 Minutes w/ The Captains", copyright: "Public-domain KJV text with Apocrypha." },
     }],
     "docusaurus-plugin-image-zoom",
   ],
@@ -95,6 +115,7 @@ const config: Config = {
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
         { type: "docSidebar", sidebarId: "study", label: "Study", position: "left" },
         { to: "/classes/browse", label: "Classes", position: "left" },
+        { to: "/captains/browse", label: "Captains", position: "left" },
         { type: "docSidebar", sidebarId: "encyclopedia", label: "Encyclopedia", position: "left" },
         { type: "docSidebar", sidebarId: "law", label: "Law", position: "left" },
         { type: "docSidebar", sidebarId: "precepts", label: "Precepts", position: "left" },
@@ -108,7 +129,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [
-        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes/browse" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
+        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes/browse" }, { label: "15 Minutes w/ The Captains", to: "/captains/browse" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
         { title: "The Law", items: [{ label: "Handbook", to: "/law" }, { label: "Precepts", to: "/precepts" }, { label: "Case Studies", to: "/cases" }, { label: "Concordance", to: "/concordance" }] },
         { title: "Tools", items: [{ label: "Search", to: "/search" }, { label: "API", to: "/api" }, { label: "Downloads", to: "/downloads" }] },
       ],

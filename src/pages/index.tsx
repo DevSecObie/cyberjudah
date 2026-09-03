@@ -40,6 +40,12 @@ const rooms: { to: string; title: string; blurb: string }[] = [
     blurb:
       "The classes written up in full, with the scriptures cited inline and linked back into the text. Read them straight through, or follow a citation into the chapter it came from and keep going.",
   },
+  {
+    to: "/captains/browse",
+    title: "15 Minutes w/ The Captains",
+    blurb:
+      "Short teachings from the captains, one subject at a time. Every scripture opened is quoted where it was read, so an episode can be followed end to end without leaving the page.",
+  },
 ];
 
 // Rendered at build time but read on any later day, so the server and the first client
