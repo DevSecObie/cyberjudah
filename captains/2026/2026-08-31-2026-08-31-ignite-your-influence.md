@@ -2,6 +2,7 @@
 title: "Ignite Your Influence"
 slug: "2026/2026-08-31-ignite-your-influence"
 date: "2026-08-31"
+teacher: "Captain Ab"
 description: "15 Minutes w/ The Captains · 2026-08-31"
 tags: ["15 Minutes w/ The Captains"]
 ---

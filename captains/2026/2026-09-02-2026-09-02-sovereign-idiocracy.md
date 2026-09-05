@@ -2,6 +2,7 @@
 title: "Sovereign Idiocracy"
 slug: "2026/2026-09-02-sovereign-idiocracy"
 date: "2026-09-02"
+teacher: "Captain Yochanan"
 description: "15 Minutes w/ The Captains · 2026-09-02"
 tags: ["15 Minutes w/ The Captains"]
 ---

@@ -2,6 +2,7 @@
 title: "The \"I Don't Care\" Attitude"
 slug: "2026/2026-08-21-the-i-dont-care-attitude"
 date: "2026-08-21"
+teacher: "Captain Benaiah"
 description: "15 Minutes w/ The Captains · 2026-08-21"
 tags: ["15 Minutes w/ The Captains"]
 ---

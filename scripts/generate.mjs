@@ -186,6 +186,7 @@ if (fs.existsSync(BLOG)) for (const y of fs.readdirSync(BLOG, { withFileTypes: t
       title: meta.title || f, date: meta.date || "",
       dateEstimated: /\(date estimated\)/.test(body),
       series: String(meta.tags || "").replace(/^\[|\]$/g, "").replace(/"/g, "").trim(),
+      teacher: meta.teacher || "",
       year: y.name, body, sidebarPos: 0 });
   }
 // 15 Minutes w/ The Captains lives in its own blog instance so it keeps its own feed and
@@ -199,6 +200,7 @@ if (fs.existsSync(CAPTAINS)) for (const y of fs.readdirSync(CAPTAINS, { withFile
       title: meta.title || f, date: meta.date || "",
       dateEstimated: /\(date estimated\)/.test(body),
       series: String(meta.tags || "").replace(/^\[|\]$/g, "").replace(/"/g, "").trim(),
+      teacher: meta.teacher || "",
       year: y.name, body, sidebarPos: 0 });
   }
 const ENC_DOCS = path.join(DOCS, "encyclopedia");
@@ -381,7 +383,7 @@ citedBooks.forEach((b, i) => {
 
 /* ---------------- API: notes; search indexes ---------------- */
 const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
-writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, summary: n.summary })));
+writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, teacher: n.teacher, summary: n.summary })));
 // Search records for the sharded Pagefind index (built by scripts/build-search-index.mjs).
 // Written outside static/ on purpose: the flat notes+verses JSON reached 20 MB, and the old
 // search page downloaded all of it into the browser on the first query. Only the sharded
@@ -436,7 +438,7 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
     const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
     const id = /data-video-id="([\w-]{11})"/.exec(n.body)?.[1] || "";
     return {
-      title: n.title, url: n.url, date: n.date, year: n.year,
+      title: n.title, url: n.url, date: n.date, year: n.year, teacher: n.teacher || "",
       thumb: !id ? "" : localThumb.get(id) ? `/img/${feed.dir}/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
       books: w.filter(([, c]) => c >= cut).slice(0, 4).map(([b]) => b),
     };

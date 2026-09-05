@@ -3,8 +3,14 @@ import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useBaseUrl, { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
 
-type Klass = { title: string; url: string; date: string; year: string; thumb: string; books: string[] };
+type Klass = { title: string; url: string; date: string; year: string; thumb: string; books: string[]; teacher?: string };
 type Sort = "new" | "old" | "az";
+
+// Teacher chips are grouped by rank rather than listed flat: the name in frontmatter
+// carries its own title ("Captain Noah"), so the rank is the leading word and the bare
+// name is the rest. Anything without a recognised title falls into "Other".
+const RANKS: [string, string][] = [["Bishop", "Bishops"], ["Deacon", "Deacons"], ["Captain", "Captains"], ["Officer", "Officers"]];
+const rankOf = (t: string) => RANKS.find(([r]) => t.startsWith(r + " "))?.[0] ?? "";
 
 const SORTS: [Sort, string][] = [["new", "Newest"], ["old", "Oldest"], ["az", "A–Z"]];
 
@@ -12,6 +18,7 @@ export default function Browse() {
   const [all, setAll] = useState<Klass[] | null>(null);
   const [q, setQ] = useState("");
   const [years, setYears] = useState<string[]>([]);
+  const [teachers, setTeachers] = useState<string[]>([]);
   const [sort, setSort] = useState<Sort>("new");
   const src = useBaseUrl("/search/classes.json");
   const withBase = useBaseUrlUtils().withBaseUrl;
@@ -24,11 +31,27 @@ export default function Browse() {
     return [...m].sort((a, b) => b[0].localeCompare(a[0]));
   }, [all]);
 
+  const teacherGroups = useMemo(() => {
+    const m = new Map<string, number>();
+    for (const c of all ?? []) if (c.teacher) m.set(c.teacher, (m.get(c.teacher) ?? 0) + 1);
+    const byRank = new Map<string, [string, number][]>();
+    for (const row of m) {
+      const r = rankOf(row[0]);
+      if (!byRank.has(r)) byRank.set(r, []);
+      byRank.get(r)!.push(row);
+    }
+    const order = [...RANKS.map(([r, label]) => [r, label] as [string, string]), ["", "Other"] as [string, string]];
+    return order
+      .filter(([r]) => byRank.has(r))
+      .map(([r, label]) => [label, byRank.get(r)!.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))] as [string, [string, number][]]);
+  }, [all]);
+
   const hits = useMemo(() => {
     if (!all) return [];
     const lc = q.trim().toLowerCase();
     const out = all.filter((c) => {
       if (years.length && !years.includes(c.year)) return false;
+      if (teachers.length && !(c.teacher && teachers.includes(c.teacher))) return false;
       if (lc && !c.title.toLowerCase().includes(lc)) return false;
       return true;
     });
@@ -36,11 +59,12 @@ export default function Browse() {
       sort === "az" ? a.title.localeCompare(b.title)
         : sort === "old" ? a.date.localeCompare(b.date) || a.title.localeCompare(b.title)
           : b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
-  }, [all, q, years, sort]);
+  }, [all, q, years, teachers, sort]);
 
   const toggleYear = (y: string) => setYears(years.includes(y) ? years.filter((x) => x !== y) : [...years, y]);
-  const clear = () => { setQ(""); setYears([]); };
-  const filtered = q.trim() !== "" || years.length > 0;
+  const toggleTeacher = (t: string) => setTeachers(teachers.includes(t) ? teachers.filter((x) => x !== t) : [...teachers, t]);
+  const clear = () => { setQ(""); setYears([]); setTeachers([]); };
+  const filtered = q.trim() !== "" || years.length > 0 || teachers.length > 0;
 
   return (
     <Layout title="Class notes" description="Browse the Sabbath class notes by year or name">
@@ -49,7 +73,7 @@ export default function Browse() {
           <header className="cj-browse-head">
             <h1>Sabbath class notes</h1>
             <p>
-              Every class written up in full. Find one by name, or narrow to a year.
+              Every class written up in full. Find one by name, or narrow to a year or teacher.
               {" "}<Link to="/classes">Read them as a feed</Link> instead.
             </p>
           </header>
@@ -78,6 +102,20 @@ export default function Browse() {
                 </div>
               </div>
             )}
+
+            {teacherGroups.length > 0 && teacherGroups.map(([label, list]) => (
+              <div className="cj-facet" key={label}>
+                <span className="cj-facet-label">{label}</span>
+                <div className="cj-chips">
+                  {list.map(([t, n]) => (
+                    <button key={t} type="button" className="cj-chip" data-on={teachers.includes(t) || undefined}
+                      aria-pressed={teachers.includes(t)} onClick={() => toggleTeacher(t)}>
+                      {t.replace(/^(Bishop|Deacon|Captain|Officer) /, "")} <i>{n}</i>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            ))}
 
             <div className="cj-facet">
               <span className="cj-facet-label">Sort</span>
@@ -108,6 +146,7 @@ export default function Browse() {
                 <h2><Link to={c.url}>{c.title}</Link></h2>
                 <p className="cj-card-meta">
                   <time dateTime={c.date}>{c.date}</time>
+                  {c.teacher && <> · {c.teacher}</>}
                   {c.books.length > 0 && <> · {c.books.join(" · ")}</>}
                 </p>
               </article>
