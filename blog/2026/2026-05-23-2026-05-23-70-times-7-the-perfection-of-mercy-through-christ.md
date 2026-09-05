@@ -3,7 +3,7 @@ title: "70 TIMES 7: THE PERFECTION OF MERCY THROUGH CHRIST"
 slug: "2026/2026-05-23-70-times-7-the-perfection-of-mercy-through-christ"
 date: "2026-05-23"
 description: "IUIC in the ClassRoom · 2026-05-23"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "mercy", "christ", "sabbath", "passover-feasts", "purpose"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>

@@ -3,7 +3,7 @@ title: "TRAITORS AND THEIR EXQUISITE SUBTLETY: THE JUDAS ISCARIOT EFFECT"
 slug: "2026/2026-06-13-traitors-and-their-exquisite-subtlety-the-judas-iscariot-effect"
 date: "2026-06-13"
 description: "IUIC in the ClassRoom · 2026-06-13"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "betrayal", "deceit", "persecution", "substance-abuse", "the-word"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-13 (date estimated)</p>

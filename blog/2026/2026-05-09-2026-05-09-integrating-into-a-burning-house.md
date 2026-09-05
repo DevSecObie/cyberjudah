@@ -3,7 +3,7 @@ title: "INTEGRATING INTO A BURNING HOUSE"
 slug: "2026/2026-05-09-integrating-into-a-burning-house"
 date: "2026-05-09"
 description: "IUIC in the ClassRoom · 2026-05-09"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "leadership", "persecution", "nations", "america-babylon", "pride"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>

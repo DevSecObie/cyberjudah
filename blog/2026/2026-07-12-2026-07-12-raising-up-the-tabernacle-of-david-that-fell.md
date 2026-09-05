@@ -3,7 +3,7 @@ title: "RAISING UP THE TABERNACLE OF DAVID THAT FELL"
 slug: "2026/2026-07-12-raising-up-the-tabernacle-of-david-that-fell"
 date: "2026-07-12"
 description: "IUIC in the ClassRoom · 2026-07-12"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-12</p>

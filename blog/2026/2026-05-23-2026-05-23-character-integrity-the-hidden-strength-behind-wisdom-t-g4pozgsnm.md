@@ -3,7 +3,7 @@ title: "CHARACTER & INTEGRITY: THE HIDDEN STRENGTH BEHIND WISDOM"
 slug: "2026/2026-05-23-character-integrity-the-hidden-strength-behind-wisdom-t-g4pozgsnm"
 date: "2026-05-23"
 description: "IUIC in the ClassRoom · 2026-05-23"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "wisdom", "discipline", "pride", "gossip", "leadership"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>

@@ -3,7 +3,8 @@ title: "Sovereign Idiocracy"
 slug: "2026/2026-09-02-sovereign-idiocracy"
 date: "2026-09-02"
 description: "15 Minutes w/ The Captains · 2026-09-02"
-tags: ["15 Minutes w/ The Captains"]
+teacher: "Captain Yochanan"
+tags: ["15 Minutes w/ The Captains", "satan", "the-law", "captivity"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-09-02</p>

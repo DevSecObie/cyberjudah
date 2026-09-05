@@ -3,7 +3,7 @@ title: "WHITE SUPREMACY & RACISM"
 slug: "2026/2026-08-29-white-supremacy-and-racism"
 date: "2026-08-29"
 description: "IUIC in the ClassRoom · 2026-08-29"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "persecution"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>

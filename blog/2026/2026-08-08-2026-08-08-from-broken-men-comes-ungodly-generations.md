@@ -3,7 +3,8 @@ title: "From Broken Men Comes Ungodly Generations"
 slug: "2026/2026-08-08-from-broken-men-comes-ungodly-generations"
 date: "2026-08-08"
 description: "IUIC in the ClassRoom · 2026-08-08"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Captain Noah"
+tags: ["IUIC in the ClassRoom", "media"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-08 (date estimated)</p>

@@ -3,7 +3,8 @@ title: "MAKING OUR FACE HARDER THAN THEIR FACE"
 slug: "2026/2026-04-11-making-our-face-harder-than-their-face"
 date: "2026-04-11"
 description: "IUIC in the ClassRoom · 2026-04-11"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Deacon Malachi"
+tags: ["IUIC in the ClassRoom", "prayer"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>

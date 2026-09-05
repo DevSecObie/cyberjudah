@@ -3,7 +3,8 @@ title: "PERILOUS TIMES: JUDGES AND SOLDIERS"
 slug: "2026/2026-07-11-perilous-times-judges-and-soldiers"
 date: "2026-07-11"
 description: "IUIC in the ClassRoom · 2026-07-11"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Captain Dy"
+tags: ["IUIC in the ClassRoom", "prophecy", "war", "justice"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-11</p>

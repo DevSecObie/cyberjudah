@@ -3,7 +3,7 @@ title: "Are You A Strong Independent Woman?"
 slug: "2026/2026-05-02-are-you-a-strong-independent-woman"
 date: "2026-05-02"
 description: "IUIC in the ClassRoom · 2026-05-02"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "women", "marriage-family"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>

@@ -3,7 +3,7 @@ title: "JOSEPH IN EGYPT: THEN & NOW"
 slug: "2026/2026-05-30-joseph-in-egypt-then-now"
 date: "2026-05-30"
 description: "IUIC in the ClassRoom · 2026-05-30"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "captivity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-30</p>

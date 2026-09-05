@@ -3,7 +3,7 @@ title: "The Secret Hands Behind South Africa's Xenophobia"
 slug: "2026/2026-05-01-the-secret-hands-behind-south-africa-s-xenophobia"
 date: "2026-05-01"
 description: "IUIC in the ClassRoom · 2026-05-01"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "nations", "persecution", "media"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-01 (date estimated)</p>

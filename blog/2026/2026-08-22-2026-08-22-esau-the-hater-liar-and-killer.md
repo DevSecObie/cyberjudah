@@ -3,7 +3,7 @@ title: "ESAU THE HATER, LIAR, AND KILLER"
 slug: "2026/2026-08-22-esau-the-hater-liar-and-killer"
 date: "2026-08-22"
 description: "IUIC in the ClassRoom · 2026-08-22"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "deceit", "false-religion"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>

@@ -3,7 +3,8 @@ title: "Puerto Rico: The Flame Of Resistance"
 slug: "2026/2026-04-18-puerto-rico-the-flame-of-resistance"
 date: "2026-04-18"
 description: "IUIC in the ClassRoom · 2026-04-18"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Captain Zephaniah"
+tags: ["IUIC in the ClassRoom", "nations", "false-religion", "edom-esau"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>

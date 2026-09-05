@@ -3,7 +3,7 @@ title: "WHY THEY HATED US: WALKING IN THE FOOTSTEPS OF THE PERSECUTED"
 slug: "2026/2026-05-23-why-they-hated-us-walking-in-the-footsteps-of-the-persecuted"
 date: "2026-05-23"
 description: "IUIC in the ClassRoom · 2026-05-23"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "persecution", "justice"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>

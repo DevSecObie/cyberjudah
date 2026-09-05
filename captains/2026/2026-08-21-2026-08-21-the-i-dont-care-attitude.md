@@ -3,7 +3,8 @@ title: "The \"I Don't Care\" Attitude"
 slug: "2026/2026-08-21-the-i-dont-care-attitude"
 date: "2026-08-21"
 description: "15 Minutes w/ The Captains · 2026-08-21"
-tags: ["15 Minutes w/ The Captains"]
+teacher: "Captain Benaiah"
+tags: ["15 Minutes w/ The Captains", "substance-abuse"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-21</p>

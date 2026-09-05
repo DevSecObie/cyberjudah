@@ -3,7 +3,7 @@ title: "THE WATERS OF NOAH WILL BE FIRE"
 slug: "2026/2026-08-29-the-waters-of-noah-will-be-fire"
 date: "2026-08-29"
 description: "IUIC in the ClassRoom · 2026-08-29"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "deceit"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>

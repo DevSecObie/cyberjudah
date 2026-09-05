@@ -3,7 +3,7 @@ title: "AGREE TOGETHER | BOUND NOT BONDAGE"
 slug: "2026/2026-08-01-agree-together-bound-not-bondage"
 date: "2026-08-01"
 description: "IUIC in the ClassRoom · 2026-08-01"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "captivity", "marriage-family", "women", "idolatry", "media"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01 (date estimated)</p>

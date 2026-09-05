@@ -3,7 +3,7 @@ title: "PRISON HOUSE OF SHADOWS"
 slug: "2026/2026-08-15-prison-house-of-shadows"
 date: "2026-08-15"
 description: "IUIC in the ClassRoom · 2026-08-15"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "justice"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-15 (date estimated)</p>

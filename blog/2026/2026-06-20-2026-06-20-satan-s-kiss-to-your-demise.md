@@ -3,7 +3,7 @@ title: "Satan's Kiss To Your Demise"
 slug: "2026/2026-06-20-satan-s-kiss-to-your-demise"
 date: "2026-06-20"
 description: "IUIC in the ClassRoom · 2026-06-20"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "satan", "sexual-purity", "women", "pride", "marriage-family"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>

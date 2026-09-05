@@ -3,7 +3,7 @@ title: "CALLED TO MAGNIFY THE LAW: LORD INCREASE OUR FAITH"
 slug: "2026/2026-05-09-called-to-magnify-the-law-lord-increase-our-faith"
 date: "2026-05-09"
 description: "IUIC in the ClassRoom · 2026-05-09"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "faith", "the-law", "endurance", "prayer", "marriage-family"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>

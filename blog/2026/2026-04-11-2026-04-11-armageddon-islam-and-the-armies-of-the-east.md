@@ -3,7 +3,7 @@ title: "Armageddon: Islam and the Armies of the East"
 slug: "2026/2026-04-11-armageddon-islam-and-the-armies-of-the-east"
 date: "2026-04-11"
 description: "IUIC in the ClassRoom · 2026-04-11"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "war", "prophecy", "false-religion", "leadership", "nations"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>

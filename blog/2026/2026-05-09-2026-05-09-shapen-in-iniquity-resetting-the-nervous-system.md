@@ -3,7 +3,8 @@ title: "SHAPEN IN INIQUITY: RESETTING THE NERVOUS SYSTEM"
 slug: "2026/2026-05-09-shapen-in-iniquity-resetting-the-nervous-system"
 date: "2026-05-09"
 description: "IUIC in the ClassRoom · 2026-05-09"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Captain Galayah"
+tags: ["IUIC in the ClassRoom", "health", "mental-health", "faith", "the-word", "prayer"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>

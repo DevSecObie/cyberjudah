@@ -3,7 +3,7 @@ title: "BLASPHEMERS & TRAITORS: JUDGE NOT BEFORE THE TIME"
 slug: "2026/2026-06-20-blasphemers-traitors-judge-not-before-the-time"
 date: "2026-06-20"
 description: "IUIC in the ClassRoom · 2026-06-20"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "betrayal", "idolatry", "the-body", "repentance", "pride"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>

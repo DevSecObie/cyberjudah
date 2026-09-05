@@ -3,7 +3,7 @@ title: "THE BUILDING BLOCKS OF BITTERNESS"
 slug: "2026/2026-08-29-the-building-blocks-of-bitterness"
 date: "2026-08-29"
 description: "IUIC in the ClassRoom · 2026-08-29"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "bitterness", "repentance"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>

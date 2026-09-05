@@ -3,7 +3,7 @@ title: "In a Game of Fools Without The Rules"
 slug: "2026/2026-05-16-in-a-game-of-fools-without-the-rules"
 date: "2026-05-16"
 description: "IUIC in the ClassRoom · 2026-05-16"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "marriage-family", "reparations"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-16 (date estimated)</p>

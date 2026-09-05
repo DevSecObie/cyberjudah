@@ -3,7 +3,8 @@ title: "Christians Don't Understand Ephesians 2"
 slug: "2026/2026-08-25-christians-dont-understand-ephesians-2"
 date: "2026-08-25"
 description: "15 Minutes w/ The Captains · 2026-08-25"
-tags: ["15 Minutes w/ The Captains"]
+teacher: "Captain Yuri"
+tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "purpose", "the-law"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-25</p>

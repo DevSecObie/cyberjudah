@@ -3,7 +3,8 @@ title: "Bitterness: The Hidden Leaven From Cain To Esau"
 slug: "2026/2026-04-18-bitterness-the-hidden-leaven-from-cain-to-esau"
 date: "2026-04-18"
 description: "IUIC in the ClassRoom · 2026-04-18"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Captain Matt"
+tags: ["IUIC in the ClassRoom", "bitterness", "edom-esau", "mercy", "the-body", "passover-feasts"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>

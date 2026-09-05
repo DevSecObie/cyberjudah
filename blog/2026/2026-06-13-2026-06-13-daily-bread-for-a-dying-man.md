@@ -3,7 +3,8 @@ title: "Daily Bread for a Dying Man"
 slug: "2026/2026-06-13-daily-bread-for-a-dying-man"
 date: "2026-06-13"
 description: "IUIC in the ClassRoom · 2026-06-13"
-tags: ["IUIC in the ClassRoom"]
+teacher: "Deacon Yashua"
+tags: ["IUIC in the ClassRoom", "the-word", "prayer"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-13 (date estimated)</p>

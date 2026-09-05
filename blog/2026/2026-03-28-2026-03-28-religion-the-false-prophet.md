@@ -3,7 +3,7 @@ title: "RELIGION - THE FALSE PROPHET"
 slug: "2026/2026-03-28-religion-the-false-prophet"
 date: "2026-03-28"
 description: "IUIC in the ClassRoom · 2026-03-28"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-28 (date estimated)</p>

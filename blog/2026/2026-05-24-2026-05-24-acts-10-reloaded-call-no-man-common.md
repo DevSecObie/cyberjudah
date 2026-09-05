@@ -3,7 +3,7 @@ title: "Acts 10 Reloaded: Call No Man Common"
 slug: "2026/2026-05-24-acts-10-reloaded-call-no-man-common"
 date: "2026-05-24"
 description: "IUIC in the ClassRoom · 2026-05-24"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "the-word", "nations", "passover-feasts"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-24 (date estimated)</p>

@@ -3,7 +3,7 @@ title: "THE RETURN OF JIM CROW"
 slug: "2026/2026-05-02-the-return-of-jim-crow"
 date: "2026-05-02"
 description: "IUIC in the ClassRoom · 2026-05-02"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "persecution", "america-babylon", "adversity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>

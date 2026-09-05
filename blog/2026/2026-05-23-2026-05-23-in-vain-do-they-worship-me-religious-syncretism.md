@@ -3,7 +3,7 @@ title: "In Vain Do They Worship Me! Religious Syncretism"
 slug: "2026/2026-05-23-in-vain-do-they-worship-me-religious-syncretism"
 date: "2026-05-23"
 description: "IUIC in the ClassRoom · 2026-05-23"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "false-religion", "passover-feasts", "idolatry", "sabbath", "the-law"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>

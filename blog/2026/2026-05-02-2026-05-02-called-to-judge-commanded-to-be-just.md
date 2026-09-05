@@ -3,7 +3,7 @@ title: "CALLED TO JUDGE: COMMANDED TO BE JUST"
 slug: "2026/2026-05-02-called-to-judge-commanded-to-be-just"
 date: "2026-05-02"
 description: "IUIC in the ClassRoom · 2026-05-02"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "leadership", "wisdom", "justice", "passover-feasts"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>

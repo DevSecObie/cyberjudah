@@ -3,7 +3,7 @@ title: "Foundational Babylonian Advocates: Division Among the Dispersion"
 slug: "2026/2026-08-22-foundational-babylonian-advocates-division-among-the-dispersion"
 date: "2026-08-22"
 description: "IUIC in the ClassRoom · 2026-08-22"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>

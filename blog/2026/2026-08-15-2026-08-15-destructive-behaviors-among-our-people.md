@@ -3,7 +3,7 @@ title: "DESTRUCTIVE BEHAVIORS AMONG OUR PEOPLE"
 slug: "2026/2026-08-15-destructive-behaviors-among-our-people"
 date: "2026-08-15"
 description: "IUIC in the ClassRoom · 2026-08-15"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "mercy", "mental-health", "pride", "marriage-family"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-15 (date estimated)</p>

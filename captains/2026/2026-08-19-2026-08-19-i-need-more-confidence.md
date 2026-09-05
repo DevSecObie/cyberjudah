@@ -3,7 +3,7 @@ title: "I Need More Confidence"
 slug: "2026/2026-08-19-i-need-more-confidence"
 date: "2026-08-19"
 description: "15 Minutes w/ The Captains · 2026-08-19"
-tags: ["15 Minutes w/ The Captains"]
+tags: ["15 Minutes w/ The Captains", "the-word", "health", "christ", "discipline"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-19</p>

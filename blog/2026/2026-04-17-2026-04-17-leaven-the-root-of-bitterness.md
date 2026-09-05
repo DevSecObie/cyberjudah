@@ -3,7 +3,7 @@ title: "LEAVEN: THE ROOT OF BITTERNESS"
 slug: "2026/2026-04-17-leaven-the-root-of-bitterness"
 date: "2026-04-17"
 description: "IUIC in the ClassRoom · 2026-04-17"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "bitterness", "sexual-purity", "passover-feasts", "satan", "discipline"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-17 (date estimated)</p>

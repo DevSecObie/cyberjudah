@@ -3,7 +3,7 @@ title: "SEEKING JUSTICE IN AN UNJUST SYSTEM"
 slug: "2026/2026-06-06-seeking-justice-in-an-unjust-system"
 date: "2026-06-06"
 description: "IUIC in the ClassRoom · 2026-06-06"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "justice", "adversity", "persecution", "captivity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-06 (date estimated)</p>

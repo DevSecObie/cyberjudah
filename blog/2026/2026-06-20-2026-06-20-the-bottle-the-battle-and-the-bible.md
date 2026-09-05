@@ -3,7 +3,7 @@ title: "THE BOTTLE, THE BATTLE, AND THE BIBLE"
 slug: "2026/2026-06-20-the-bottle-the-battle-and-the-bible"
 date: "2026-06-20"
 description: "IUIC in the ClassRoom · 2026-06-20"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "war", "substance-abuse", "mental-health", "health", "repentance"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>

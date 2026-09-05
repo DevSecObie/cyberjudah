@@ -3,7 +3,7 @@ title: "God, Purpose, and Sacrifice"
 slug: "2026/2026-05-30-god-purpose-and-sacrifice"
 date: "2026-05-30"
 description: "IUIC in the ClassRoom · 2026-05-30"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "purpose", "captivity", "reparations", "nations"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-30 (date estimated)</p>

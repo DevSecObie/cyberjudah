@@ -3,7 +3,7 @@ title: "THE DEVELOPMENTAL PSYCHOLOGY OF BEING HATED"
 slug: "2026/2026-05-16-the-developmental-psychology-of-being-hated"
 date: "2026-05-16"
 description: "IUIC in the ClassRoom · 2026-05-16"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "mental-health", "substance-abuse", "health", "endurance", "faith"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-16 (date estimated)</p>
