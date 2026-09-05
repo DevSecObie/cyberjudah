@@ -12,13 +12,16 @@ Static JSON, served with the site, same versification as the pages. Paths are re
 | `/api/kjv/<book-slug>/index.json` | one book |
 | `/api/kjv/<book-slug>/<chapter>.json` | one chapter: `{book, chapter, verses:[{verse, text}]}` |
 | `/api/concordance/<book-slug>/<chapter>.json` | everything that cites the chapter: laws, precepts, cases, notes |
+| `/api/xref/<book-slug>/<chapter>.json` | cross references for each verse in the chapter |
+| `/api/web/<book-slug>/<chapter>.json` | the same chapter in the World English Bible |
 | `/api/laws/index.json` | the handbook: parts and sections |
 | `/api/laws/<section-id>.json` | one section with every law and its references, e.g. `/api/laws/10A.json` |
 | `/api/precepts/index.json` | the precept index |
 | `/api/precepts/<slug>.json` | one precept with its references |
 | `/api/cases/index.json` | the case studies |
 | `/api/cases/<slug>.json` | one case |
-| `/api/notes/index.json` | the study notes, class notes, and encyclopedia entries |
+| `/api/notes/index.json` | the study notes, class notes, captains episodes, and encyclopedia entries |
+| `/api/index.json` | every endpoint above, as a map |
 
 Every chapter has a concordance file. A chapter that nothing cites returns `{"cited_by": []}`
 rather than a 404, so walking the book index never breaks, and rows are deduplicated: a note
@@ -28,3 +31,7 @@ that quotes a passage links every verse in it, and those repeats are collapsed t
 Book slugs are lowercase with hyphens: `genesis`, `1-samuel`, `sirach`, `esther-greek`, `epistle-of-jeremiah`.
 
 Examples: [`/api/kjv/judges/16.json`](/api/kjv/judges/16.json) · [`/api/concordance/judges/16.json`](/api/concordance/judges/16.json) · [`/api/laws/10A.json`](/api/laws/10A.json) · [`/api/cases/achan.json`](/api/cases/achan.json)
+
+Feeds: `/classes/rss.xml`, `/captains/rss.xml`, and [`/study/rss.xml`](/study/rss.xml); each
+also as `atom.xml` and `feed.json`, and all three are advertised for autodiscovery in the page
+head. A summary of the whole site for language models is at [`/llms.txt`](/llms.txt).

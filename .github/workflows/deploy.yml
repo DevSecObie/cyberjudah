@@ -15,6 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: the study-notes feed dates each entry from the commit that added the
+          # note. At the default depth of 1 there is no per-file history to read and every
+          # entry would carry the build time instead.
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22

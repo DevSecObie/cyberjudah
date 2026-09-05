@@ -39,9 +39,12 @@ yarn-error.log*
 
 /static/api
 /static/search
+/static/study
+/static/llms.txt
 
 # class thumbnails, pulled at build time by npm run sync
 /static/img/classes
+/static/img/captains
 
 # search index, rebuilt by npm run sync
 /static/pagefind

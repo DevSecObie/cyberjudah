@@ -6,19 +6,28 @@
 //   docs/study/<book>/<range>.md, docs/encyclopedia/<slug>.md, blog/**   the notes
 //   data/bible/*.json                                                   the KJV text
 //   data/handbook.json, data/precepts.json, data/cases.json             the reference works
-//   data/lexicon.tsv                                                    topic terms
+//   data/lexicon.tsv                                                    encyclopedia terms
+//   data/topics.tsv                                                     class topic tags
 //
 // Generated, gitignored, rebuilt on every build:
 //   docs/{bible,law,precepts,cases,concordance}/**   pages derived from data
 //   docs/study/**/index.md, docs/encyclopedia/index.md, _category_.json  listings
+//   docs/concordance/by-class.md                     which classes open which book
 //   static/api/**/*.json      the same library as data, addressable
 //   static/search/*.json      indexes for the search and browse pages
+//   static/study/rss.xml, static/study/feed.json     the study-notes feed
+//   static/llms.txt           a summary of the site for language models
+//
+// The notes themselves are maintained by `npm run notes:fix` (scripts/link-timestamps.mjs,
+// tag-notes.mjs, index-scriptures.mjs), which is the only thing that writes to blog/ and
+// captains/ and is run by hand, not as part of the build.
 //
 // The notes are read here, never written: what they contribute is the citation graph that
 // puts a "cited by" block on each chapter page, plus the listings and the search text.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execFileSync } from "node:child_process";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = path.join(ROOT, "data");
@@ -634,6 +643,111 @@ writeJson(path.join(ROOT, ".search-records.json"), records);
     for (const [c, verses] of Object.entries(chapters)) writeJson(path.join(API, "web", slug, `${c}.json`), verses);
 }
 writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/api/laws/index.json", precepts: "/api/precepts/index.json", cases: "/api/cases/index.json", notes: "/api/notes/index.json", concordance: "/api/concordance/<book-slug>/<chapter>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", chapter: "/api/kjv/<book-slug>/<chapter>.json" });
+
+/* ---------------- llms.txt ---------------- */
+// The whole library is already addressable as static JSON, but nothing said so at a well-known
+// path. Generated rather than committed so the counts cannot drift from the corpus.
+{
+  const n = (k) => notes.filter((x) => x.kind === k).length;
+  const U = "https://devsecobie.github.io" + BASE;   // absolute: llms.txt is read out of context
+  write(path.join(ROOT, "static", "llms.txt"), [
+    "# CyberJudah",
+    "",
+    "> A King James Bible with the Apocrypha, cross-linked with the class notes, daily reading",
+    "> notes, encyclopedia, handbook of Bible law, precepts and case studies taught from it.",
+    "> Every chapter lists what cites it; every citation links back into the text.",
+    "",
+    `The Bible text is the public-domain King James Version (1769) with the Apocrypha, ${BOOKS.length} books,`,
+    `${Object.values(CHAPTERS).reduce((a, b) => a + b, 0)} chapters. Notes are written by the site's authors; see /about for how they are made`,
+    "and what a date marked \"estimated\" means.",
+    "",
+    "## Pages",
+    "",
+    "- [About](" + U + "/about): what the site is, where the text comes from, how to report a correction",
+    "- [The Bible](" + U + "/bible): every chapter, with the notes, laws, precepts and cases that cite it",
+    `- [4 Chapters a Day](${U}/study): ${n("study")} study notes on the daily reading, with a coverage map`,
+    `- [Sabbath class notes](${U}/classes/browse): ${n("class")} classes, filterable by topic, book and teacher`,
+    `- [15 Minutes w/ The Captains](${U}/captains/browse): ${n("captains")} episodes`,
+    `- [Encyclopedia](${U}/encyclopedia): ${n("encyclopedia")} standing subjects gathered from the notes`,
+    `- [The Law](${U}/law): a handbook of Bible law in ${handbook.parts.length} parts`,
+    `- [Precepts](${U}/precepts): ${precepts.length} precepts with their references`,
+    `- [Case studies](${U}/cases): ${cases.cases.length} judgments recorded in scripture`,
+    `- [Concordance](${U}/concordance): chapter by chapter, everything that cites it`,
+    `- [Classes by book](${U}/classes/by-book): the same graph read from the book side`,
+    "",
+    "## Data",
+    "",
+    "Everything on the site is available as static JSON at the same versification as the pages.",
+    "",
+    `- [API index](${U}/api/index.json): every endpoint`,
+    `- [API documentation](${U}/api)`,
+    `- [Books](${U}/api/kjv/books.json), chapters at ${U}/api/kjv/<book-slug>/<chapter>.json`,
+    `- [Notes index](${U}/api/notes/index.json): study, class, captains and encyclopedia notes`,
+    `- Citations for a chapter: ${U}/api/concordance/<book-slug>/<chapter>.json`,
+    `- [Obsidian vault](${U}/downloads): the whole library as markdown`,
+    "",
+    "## Feeds",
+    "",
+    `- [Sabbath class notes](${U}/classes/rss.xml)`,
+    `- [15 Minutes w/ The Captains](${U}/captains/rss.xml)`,
+    `- [4 Chapters a Day](${U}/study/rss.xml)`,
+    "",
+  ].join("\n"));
+}
+
+/* ---------------- study notes feed ---------------- */
+// The class and captains notes are dated entries and the blog plugin gives them a feed. The
+// study notes are a reference work ordered by book, not by date, so there was nothing to
+// subscribe to: a reader following the plan had no way to hear that the next session was up.
+// The date each entry carries is the commit that added the note, which is the only honest
+// "when did this appear" the repository holds. Needs full history: see fetch-depth in
+// .github/workflows/deploy.yml. Where git cannot answer, the feed is skipped rather than
+// filled with the build time.
+{
+  const feedNotes = notes.filter((n) => n.kind === "study" || n.kind === "encyclopedia");
+  let added = new Map();
+  try {
+    // One pass over the log, newest first; the last date seen for a path is the oldest, which
+    // is the commit that introduced it.
+    const log = execFileSync("git", ["log", "--reverse", "--pretty=format:%cI", "--name-only", "--diff-filter=A", "--", "docs/study", "docs/encyclopedia"],
+      { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "ignore"] });
+    let when = null;
+    for (const line of log.split("\n")) {
+      if (!line.trim()) continue;
+      if (/^\d{4}-\d\d-\d\dT/.test(line)) { when = line.trim(); continue; }
+      if (when && !added.has(line.trim())) added.set(line.trim(), when);
+    }
+  } catch { added = new Map(); }
+
+  const SITE = "https://devsecobie.github.io" + BASE + "/";   // BASE has no trailing slash
+  const pathOf = (n) => n.kind === "study"
+    ? `docs/study/${bookSlug[n.book]}/${n.slug}.md`
+    : `docs/encyclopedia/${n.slug}.md`;
+  const dated = feedNotes.map((n) => ({ n, iso: added.get(pathOf(n)) })).filter((x) => x.iso);
+
+  if (dated.length) {
+    dated.sort((a, b) => b.iso.localeCompare(a.iso));
+    const recent = dated.slice(0, 50);
+    const xesc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    const items = recent.map(({ n, iso }) => {
+      const url = SITE + n.url.replace(/^\//, "");
+      const summary = n.kind === "study" ? `${n.range} \u00b7 ${n.title}` : (n.summary || n.title);
+      return `  <item>\n    <title>${xesc(n.title)}</title>\n    <link>${xesc(url)}</link>\n    <guid isPermaLink="true">${xesc(url)}</guid>\n    <pubDate>${new Date(iso).toUTCString()}</pubDate>\n    <description>${xesc(summary)}</description>\n  </item>`;
+    }).join("\n");
+    write(path.join(ROOT, "static", "study", "rss.xml"),
+      `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>\n  <title>CyberJudah \u00b7 4 Chapters a Day</title>\n  <link>${xesc(SITE + "study")}</link>\n  <description>Notes from the daily reading, newest first</description>\n  <language>en</language>\n  <lastBuildDate>${new Date(recent[0].iso).toUTCString()}</lastBuildDate>\n${items}\n</channel></rss>\n`);
+    writeJson(path.join(ROOT, "static", "study", "feed.json"), {
+      version: "https://jsonfeed.org/version/1.1",
+      title: "CyberJudah \u00b7 4 Chapters a Day",
+      home_page_url: SITE + "study",
+      feed_url: SITE + "study/feed.json",
+      items: recent.map(({ n, iso }) => ({ id: SITE + n.url.replace(/^\//, ""), url: SITE + n.url.replace(/^\//, ""), title: n.title, summary: n.kind === "study" ? n.range : (n.summary || ""), date_published: iso })),
+    });
+    console.error(`study feed: ${recent.length} entries`);
+  } else {
+    console.error("study feed: skipped (no per-file git history; is this a shallow clone?)");
+  }
+}
 
 write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
   chapters: Object.values(CHAPTERS).reduce((a, b) => a + b, 0), books: BOOKS.length, verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
