@@ -442,6 +442,19 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
    Showcase-style facets, but the card is the thumbnail and the type. No borders,
    no panels: the grid of stills does the visual work. */
 .cj-browse-inner { max-width: 74rem; margin-inline: auto; padding: clamp(2.5rem, 6vh, 4.5rem) 1.5rem 5rem; }
+/* The coverage grid on /study. Built on .chapnav so a taught chapter reads the same as the
+   current chapter does in the reader: filled means there are notes, plain means the chapter
+   is there to read but has not been taught yet. */
+.cover { display: flex; flex-wrap: wrap; gap: 3px; margin: 0 0 1rem; }
+.cover a { display: inline-block; min-width: 1.9em; padding: .12em .38em; text-align: center;
+  border: 1px solid var(--ifm-color-emphasis-200); border-radius: 3px;
+  font-family: var(--ifm-font-family-monospace); font-size: .7rem; color: var(--ifm-color-emphasis-600);
+  text-decoration: none; opacity: .55; }
+.cover a:hover { color: var(--ifm-color-primary); border-color: var(--ifm-color-primary); opacity: 1; }
+.cover a.on { color: var(--ifm-background-color); background: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary); opacity: 1; }
+.cover-lead { font-family: var(--ifm-font-family-monospace); font-size: .8rem; color: var(--ifm-color-emphasis-600); }
+
 /* The scripture a note opens, printed under the "taught" line at the top of a class. */
 .opens { display: block; margin: -.4rem 0 1.4rem; font-family: var(--ifm-font-family-monospace);
   font-size: .74rem; line-height: 1.9; color: var(--cj-tertiary); }

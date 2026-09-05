@@ -287,8 +287,51 @@ const noteSelf = (n) => ({ kind: n.kind === "encyclopedia" ? "encyclopedia" : "n
 
 write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "4 Chapters a Day", position: 2, link: { type: "doc", id: "study/index" } }));
 const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
-write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
-  studyBooks.map((b) => `## [${b}](/study/${bookSlug[b]})\n\n` + notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]).map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n")).join("\n\n") + "\n");
+// The plan is in progress, and the index used to be a flat list of what happened to exist:
+// nothing on the page said that 45 of 81 books have notes, that Acts stops at 11, or that the
+// epistles have not been reached at all. The coverage map states it, and marks every chapter
+// still to be read so a reader can see the shape of the plan rather than infer it.
+// Intersected with the chapters the book actually has: a session labelled "15-16" in a book
+// that ends at 15 would otherwise be counted as two taught chapters and drawn as one, and the
+// totals on the page would not agree with the grid under them.
+const studyChapters = (b) => {
+  const real = new Set(Object.keys(bible[b]).map(Number));
+  const done = new Set();
+  for (const n of notes.filter((x) => x.kind === "study" && x.book === b))
+    for (let c = n.chapters[0]; c <= n.chapters[1]; c++) if (real.has(c)) done.add(c);
+  return done;
+};
+{
+  const covered = new Map(studyBooks.map((b) => [b, studyChapters(b)]));
+  const chaptersDone = [...covered.values()].reduce((a, s) => a + s.size, 0);
+  const chaptersAll = Object.values(CHAPTERS).reduce((a, b) => a + b, 0);
+  const notStarted = BOOKS.filter((b) => !covered.has(b));
+  const partial = studyBooks.filter((b) => covered.get(b).size < CHAPTERS[b]);
+
+  const grid = (b) => {
+    const done = covered.get(b) ?? new Set();
+    const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
+    return `<nav class="cover" aria-label="${b} coverage">` + chs.map((c) => {
+      const n = notes.find((x) => x.kind === "study" && x.book === b && c >= x.chapters[0] && c <= x.chapters[1]);
+      return done.has(c) && n
+        ? `<a href="${href(n.url)}" class="on" title="${esc(n.title)}">${c}</a>`
+        : `<a href="${href(chapterUrl(b, c))}" title="Not yet taught \u2014 read the chapter">${c}</a>`;
+    }).join("") + `</nav>`;
+  };
+
+  const body = [
+    `<p class="cover-lead">${studyBooks.length} of ${BOOKS.length} books · ${chaptersDone} of ${chaptersAll} chapters taught. ` +
+    `A filled number is a chapter with notes; a plain one links to the scripture, still to be read.</p>`, "",
+    ...(partial.length ? [`**In progress:** ` + partial.map((b) => `[${b}](/study/${bookSlug[b]}) (${covered.get(b).size}/${CHAPTERS[b]})`).join(" · "), ""] : []),
+    ...(notStarted.length ? [`**Not started:** ` + notStarted.map((b) => `[${b}](${bookUrl(b)})`).join(" · "), ""] : []),
+    ...studyBooks.flatMap((b) => [
+      `## [${b}](/study/${bookSlug[b]})`, "",
+      grid(b), "",
+      notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]).map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n"), "",
+    ]),
+  ];
+  write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null, description: "The daily reading plan, its notes, and how far it has come" }) + body.join("\n"));
+}
 for (const b of studyBooks) {
   const dir = path.join(DOCS, "study", bookSlug[b]);
   write(path.join(dir, "_category_.json"), JSON.stringify({ label: b, position: bookNum[b], link: { type: "doc", id: `study/${bookSlug[b]}/index` } }));
