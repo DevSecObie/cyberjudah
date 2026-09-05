@@ -11,7 +11,11 @@ import { useLocation, useHistory } from "@docusaurus/router";
 // back as sub-results, so hits still land on the exact verse.
 
 type Hit = { kind: string; title: string; url: string; excerpt: string; sub?: string };
-const KINDS: [string, string][] = [["verse", "Scripture"], ["law", "Laws"], ["precept", "Precepts"], ["case", "Cases"], ["study", "Study notes"], ["class", "Classes"], ["encyclopedia", "Encyclopedia"]];
+// Every kind build-search-index.mjs writes a `kind` filter for has to be listed here: the
+// page searches once per entry and nothing else is ever queried, so an indexed kind that is
+// missing from this list is silently unreachable. That is what happened to the captains
+// episodes, which were indexed from the day they were added and never returned a result.
+const KINDS: [string, string][] = [["verse", "Scripture"], ["law", "Laws"], ["precept", "Precepts"], ["case", "Cases"], ["study", "Study notes"], ["class", "Classes"], ["captains", "15 Minutes w/ The Captains"], ["encyclopedia", "Encyclopedia"]];
 const PER_KIND = 12;      // rows shown per kind on the "all" view
 const ONLY_LIMIT = 200;   // rows shown when a single kind is selected
 
