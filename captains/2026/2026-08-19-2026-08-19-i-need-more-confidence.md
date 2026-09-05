@@ -4,7 +4,7 @@ slug: "2026/2026-08-19-i-need-more-confidence"
 date: "2026-08-19"
 teacher: "Captain Yahoshua"
 description: "15 Minutes w/ The Captains · 2026-08-19"
-tags: ["15 Minutes w/ The Captains", "the-word", "health", "christ", "discipline"]
+tags: ["15 Minutes w/ The Captains", "christ", "discipline", "health", "the-word"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-19</p>

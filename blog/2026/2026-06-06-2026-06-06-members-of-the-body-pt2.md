@@ -3,7 +3,7 @@ title: "MEMBERS OF THE BODY  PT2"
 slug: "2026/2026-06-06-members-of-the-body-pt2"
 date: "2026-06-06"
 description: "IUIC in the ClassRoom · 2026-06-06"
-tags: ["IUIC in the ClassRoom", "the-body", "idolatry", "endurance", "christ"]
+tags: ["IUIC in the ClassRoom", "christ", "endurance", "idolatry", "the-body"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-06 (date estimated)</p>

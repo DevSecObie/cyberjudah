@@ -3,7 +3,7 @@ title: "The Colossians & The CHRISTIANS of America"
 slug: "2026/2026-07-18-the-colossians-the-christians-of-america"
 date: "2026-07-18"
 description: "IUIC in the ClassRoom · 2026-07-18"
-tags: ["IUIC in the ClassRoom", "christ", "false-religion", "america-babylon"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "christ", "false-religion"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18 (date estimated)</p>

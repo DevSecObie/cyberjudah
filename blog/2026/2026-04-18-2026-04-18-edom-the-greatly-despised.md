@@ -4,7 +4,7 @@ slug: "2026/2026-04-18-edom-the-greatly-despised"
 date: "2026-04-18"
 description: "IUIC in the ClassRoom · 2026-04-18"
 teacher: "Captain Abiel"
-tags: ["IUIC in the ClassRoom", "edom-esau", "captivity", "nations", "sabbath"]
+tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "nations", "sabbath"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>

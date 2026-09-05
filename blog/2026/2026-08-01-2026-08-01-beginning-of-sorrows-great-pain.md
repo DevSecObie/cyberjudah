@@ -3,7 +3,7 @@ title: "BEGINNING OF SORROWS & GREAT PAIN"
 slug: "2026/2026-08-01-beginning-of-sorrows-great-pain"
 date: "2026-08-01"
 description: "IUIC in the ClassRoom · 2026-08-01"
-tags: ["IUIC in the ClassRoom", "prophecy", "war", "america-babylon"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "prophecy", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01</p>

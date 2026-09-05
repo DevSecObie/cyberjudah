@@ -105,7 +105,11 @@ function topicsFor(counted, mean) {
   }
   // A topic named in the title outranks one that is merely dense in a two-hour class.
   scored.sort((a, b) => (b.titled ? 1 : 0) - (a.titled ? 1 : 0) || b.ratio - a.ratio || a.slug.localeCompare(b.slug));
-  if (scored.length) return scored.slice(0, MAX_TOPICS).map((s) => s.slug);
+  // Selected by rank, written in a stable order. The ranking decides which topics make the
+  // cut; the order they are written in must not, or every note added to the corpus shifts the
+  // rates slightly and rewrites the tag line of a dozen unrelated notes with the same set in a
+  // different sequence.
+  if (scored.length) return scored.slice(0, MAX_TOPICS).map((s) => s.slug).sort();
   // A class that sits just under the bar on everything still has a strongest subject, and one
   // approximate tag serves a reader better than none at all: without this the note is
   // reachable only by its title.

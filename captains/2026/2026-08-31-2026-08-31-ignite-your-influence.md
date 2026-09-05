@@ -4,7 +4,7 @@ slug: "2026/2026-08-31-ignite-your-influence"
 date: "2026-08-31"
 teacher: "Captain Ab"
 description: "15 Minutes w/ The Captains · 2026-08-31"
-tags: ["15 Minutes w/ The Captains", "the-law", "the-word", "mental-health", "mercy"]
+tags: ["15 Minutes w/ The Captains", "mental-health", "mercy", "the-law", "the-word"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-31</p>
