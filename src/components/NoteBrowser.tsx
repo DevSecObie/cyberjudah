@@ -19,6 +19,11 @@ type Topic = { slug: string; label: string };
 type Sort = "new" | "old" | "az";
 
 const SORTS: [Sort, string][] = [["new", "Newest"], ["old", "Oldest"], ["az", "A–Z"]];
+// Teacher chips are grouped by rank rather than listed flat: the name in frontmatter carries
+// its own title ("Captain Noah"), so the rank is the leading word and the bare name is the
+// rest. Anything without a recognised title falls into "Other".
+const RANKS: [string, string][] = [["Bishop", "Bishops"], ["Deacon", "Deacons"], ["Captain", "Captains"], ["Officer", "Officers"]];
+const rankOf = (t: string) => RANKS.find(([r]) => t.startsWith(r + " "))?.[0] ?? "";
 const ALL = "";   // the empty option in the book and teacher selects
 const TOPICS_SHOWN = 12;   // the rest are behind "more"; forty chips is not a filter bar
 
@@ -36,7 +41,7 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
   const [years, setYears] = useState<string[]>([]);
   const [topics, setTopics] = useState<string[]>([]);
   const [book, setBook] = useState(ALL);
-  const [teacher, setTeacher] = useState(ALL);
+  const [teachers, setTeachers] = useState<string[]>([]);
   const [sort, setSort] = useState<Sort>("new");
   const [allTopics, setAllTopics] = useState(false);
   const indexUrl = useBaseUrl(src);
@@ -72,12 +77,19 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
     return [...m].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
   }, [all]);
 
-  const teacherOptions = useMemo(() => {
+  const teacherGroups = useMemo(() => {
     const m = new Map<string, number>();
     for (const c of all ?? []) if (c.teacher) m.set(c.teacher, (m.get(c.teacher) ?? 0) + 1);
-    return [...m].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+    const byRank = new Map<string, [string, number][]>();
+    for (const row of m) {
+      const r = rankOf(row[0]);
+      if (!byRank.has(r)) byRank.set(r, []);
+      byRank.get(r)!.push(row);
+    }
+    const order: [string, string][] = [...RANKS, ["", "Other"]];
+    return order.filter(([r]) => byRank.has(r))
+      .map(([r, label]) => [label, byRank.get(r)!.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))] as [string, [string, number][]]);
   }, [all]);
-  const unattributed = useMemo(() => (all ?? []).filter((c) => !c.teacher).length, [all]);
 
   const hits = useMemo(() => {
     if (!all) return [];
@@ -87,7 +99,7 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
       // Several topics selected means all of them, not any: narrowing is the point.
       if (topics.length && !topics.every((t) => (c.topics ?? []).includes(t))) return false;
       if (book && !(c.allBooks ?? c.books).includes(book)) return false;
-      if (teacher && (teacher === "?" ? !!c.teacher : c.teacher !== teacher)) return false;
+      if (teachers.length && !(c.teacher && teachers.includes(c.teacher))) return false;
       if (lc && !c.title.toLowerCase().includes(lc) && !(c.teacher ?? "").toLowerCase().includes(lc)) return false;
       return true;
     });
@@ -95,12 +107,12 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
       sort === "az" ? a.title.localeCompare(b.title)
         : sort === "old" ? a.date.localeCompare(b.date) || a.title.localeCompare(b.title)
           : b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
-  }, [all, q, years, topics, book, teacher, sort]);
+  }, [all, q, years, topics, book, teachers, sort]);
 
   const toggle = (xs: string[], set: (v: string[]) => void, x: string) =>
     set(xs.includes(x) ? xs.filter((y) => y !== x) : [...xs, x]);
-  const clear = () => { setQ(""); setYears([]); setTopics([]); setBook(ALL); setTeacher(ALL); };
-  const filtered = q.trim() !== "" || years.length > 0 || topics.length > 0 || book !== ALL || teacher !== ALL;
+  const clear = () => { setQ(""); setYears([]); setTopics([]); setBook(ALL); setTeachers([]); };
+  const filtered = q.trim() !== "" || years.length > 0 || topics.length > 0 || book !== ALL || teachers.length > 0;
 
   return (
     <Layout title={title} description={description}>
@@ -153,16 +165,19 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
               </div>
             )}
 
-            {teacherOptions.length > 0 && (
-              <div className="cj-facet">
-                <span className="cj-facet-label">Teacher</span>
-                <select className="cj-select" value={teacher} onChange={(e) => setTeacher(e.target.value)} aria-label="Filter by teacher">
-                  <option value={ALL}>Any teacher</option>
-                  {teacherOptions.map(([t, n]) => <option key={t} value={t}>{t} ({n})</option>)}
-                  {unattributed > 0 && <option value="?">Not recorded ({unattributed})</option>}
-                </select>
+            {teacherGroups.map(([label, list]) => (
+              <div className="cj-facet" key={label}>
+                <span className="cj-facet-label">{label}</span>
+                <div className="cj-chips">
+                  {list.map(([t, n]) => (
+                    <button key={t} type="button" className="cj-chip" data-on={teachers.includes(t) || undefined}
+                      aria-pressed={teachers.includes(t)} onClick={() => toggle(teachers, setTeachers, t)}>
+                      {t.replace(/^(Bishop|Deacon|Captain|Officer) /, "")} <i>{n}</i>
+                    </button>
+                  ))}
+                </div>
               </div>
-            )}
+            ))}
 
             {yearCounts.length > 1 && (
               <div className="cj-facet">

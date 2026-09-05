@@ -16,6 +16,11 @@
 // "class from X", "X teaches". Most classes never name the teacher, and those are left blank
 // rather than guessed at from whoever happens to be mentioned first — the notes are full of
 // people who are greeted, prayed for or quoted without teaching anything.
+//
+// Some notes carry a teacher this cannot derive, read out of the class by hand: the Abya Yala
+// class names its teacher only in the opening prayer ("put your spirit upon Captain Zephaniah,
+// that he might bring out this information"). Those are preserved, not overwritten - see the
+// note on --reset below.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -128,7 +133,9 @@ const TEACHER_PATTERNS = [
   new RegExp(`\\b(${TITLE}) (${NAME}) (?:opens|opened|brings|delivers|delivered) (?:this|the) (?:class|episode|lesson)`),
   // The captains introduce themselves in the first person, which is the speaker by definition.
   new RegExp(`\\b(?:My name is|I am|I\u2019m|I'm) (${TITLE}) (${NAME})\\b`),
-  new RegExp(`\\b(?:It is|This is) (${TITLE}) (${NAME})[.,]`),
+  // No trailing punctuation required: "It is Captain Yahoshua with another edition of
+  // 15 Minutes" is as much an introduction as "It is Captain Yochanan."
+  new RegExp(`\\b(?:It is|This is) (${TITLE}) (${NAME})\\b`),
 ];
 function teacherFor(body) {
   for (const re of TEACHER_PATTERNS) {
@@ -191,6 +198,11 @@ const mean = meanRates(docs.map((d) => d.counted));
       // of these notes say who taught, so the rest are expected to be filled in by hand, and
       // a rerun after adding a topic must not wipe that work. --reset recomputes the field
       // from the text, discarding hand edits, and is what to use after changing the patterns.
+      // A text merge of two branches that both added `teacher:` at different points in the
+      // frontmatter leaves two of them, which is a duplicate YAML key and fails the build.
+      // Collapse any extras onto the first before reading it.
+      for (let i = out.length - 1; i > out.findIndex((l) => l.startsWith("teacher:")); i--)
+        if (out[i].startsWith("teacher:")) out.splice(i, 1);
       const teacherLine = out.findIndex((l) => l.startsWith("teacher:"));
       const existingTeacher = teacherLine >= 0 ? /^teacher:\s*"(.*)"\s*$/.exec(out[teacherLine])?.[1] ?? null : null;
       const nextTeacher = RESET ? teacher : (existingTeacher ?? teacher);
