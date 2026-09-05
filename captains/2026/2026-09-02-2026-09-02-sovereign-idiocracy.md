@@ -30,7 +30,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 ## Scriptures Opened
 
-**[Sirach 10:1-4](/bible/sirach/10#v1)**  *[1:30]*
+**[Sirach 10:1-4](/bible/sirach/10#v1)**  *[[1:30](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=90s)]*
 
 > <sup>[1](/bible/sirach/10#v1)</sup> A wise judge will instruct his people; and the government of a prudent man is well ordered.
 >
@@ -56,7 +56,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 - He will set over it one that is profitable. He will set over it one that is profitable. He will.
 
-**[2 Chronicles 6:6](/bible/2-chronicles/6#v6)**  *[6:06]*
+**[2 Chronicles 6:6](/bible/2-chronicles/6#v6)**  *[[6:06](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=366s)]*
 
 > <sup>[6](/bible/2-chronicles/6#v6)</sup> But I have chosen Jerusalem, that my name might be there; and have chosen David to be over my people Israel.
 
@@ -66,7 +66,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 - It does not look like one negro trying to evade taxes and trying to evade the laws of the land, a ticket, talking about he is sovereign, he is over something. All these little funny catchphrases they be having. That is not what the Lord has established. Neither is there any power in it. That is foolishness.
 
-**[Acts 13:21-22](/bible/acts/13#v21)**  *[7:45]*
+**[Acts 13:21-22](/bible/acts/13#v21)**  *[[7:45](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=465s)]*
 
 > <sup>[21](/bible/acts/13#v21)</sup> And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
 >
@@ -90,7 +90,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
     I delight to do thy will, O my God: yea, thy law is within my heart. So what is the will of God? The laws of God. So what is it that pleased God in David, to the point that he established David as ruler over not only his sovereign country but his people as a sovereign government? He pleased the Lord in keeping God's commandments. He kept the commandments. He kept the testimonies.
 
-**[Revelation 12:14](/bible/revelation/12#v14)**  *[11:05]*
+**[Revelation 12:14](/bible/revelation/12#v14)**  *[[11:05](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=665s)]*
 
 > <sup>[14](/bible/revelation/12#v14)</sup> And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
 
@@ -104,7 +104,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 - From the face of the serpent. Now, what would we be nourished from? The face of the serpent. What is that serpent? That serpent would be the devil.
 
-**[Revelation 12:9-10](/bible/revelation/12#v9)**  *[12:13]*
+**[Revelation 12:9-10](/bible/revelation/12#v9)**  *[[12:13](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=733s)]*
 
 > <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 >
@@ -122,7 +122,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 - And strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down. So who is that Satan, that devil, that serpent? It is the accuser of the saints. Now when Christ comes, he is going to cast this accuser down. And where have you been brought to as a slave? Babylon the Great, the United States of America. That is that serpent. That is that devil. That is that Satan that is cast down when our Messiah returns. However, until then, you are given into his hands, where you are nourished in the land of your captivity, from the face of the serpent.
 
-**[Deuteronomy 28:47-48](/bible/deuteronomy/28#v47)**  *[15:17]*
+**[Deuteronomy 28:47-48](/bible/deuteronomy/28#v47)**  *[[15:17](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=917s)]*
 
 > <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
 >
@@ -146,7 +146,7 @@ However, from time to time this doctrine pops up. And it is so stupid, but it ha
 
 - We just read this in Deuteronomy 28:47 and 48. That because we hated keeping God's laws when we had everything, when we were sovereign, we hated that. So what happened to us? We had to go into captivity. We fell from rulership. Now the nations are over us, because we had to serve their gods. We had to do everything that they were doing. And now we fell from sovereignty, and now we are given into their hands and we have to serve their laws.
 
-**[Romans 13:1-2](/bible/romans/13#v1)**  *[19:28]*
+**[Romans 13:1-2](/bible/romans/13#v1)**  *[[19:28](https://www.youtube.com/watch?v=wqRVYBKpnVk&t=1168s)]*
 
 > <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 >
@@ -172,4 +172,4 @@ Shalom, family. Most High in Christ bless.
 
 ---
 
-[15 Minutes Index](/captains) | Transcript: [full episode](/captains/2026/2026-09-02-sovereign-idiocracy)
+[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=wqRVYBKpnVk)

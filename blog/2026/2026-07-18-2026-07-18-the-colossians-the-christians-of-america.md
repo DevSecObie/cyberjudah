@@ -20,7 +20,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
 ## Scriptures Opened
 
-**[Ephesians 2:12-14](/bible/ephesians/2#v12)**  *[14:45]*
+**[Ephesians 2:12-14](/bible/ephesians/2#v12)**  *[[14:45](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=885s)]*
 
 > <sup>[12](/bible/ephesians/2#v12)</sup> That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
 >
@@ -76,7 +76,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     I will take the children of Israel from among the heathen, and will make them one nation, and one king shall be king to them all. That is what Ephesians 2:14 means by made both one. It was never prophesied that Israel would be joined back together through animal sacrifice, but only through Christ. So you would have Israelites living in places like Galatia, Ephesus, and Colosse.
 
-**[Acts 2:5-9](/bible/acts/2#v5)**  *[28:55]*
+**[Acts 2:5-9](/bible/acts/2#v5)**  *[[28:55](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=1735s)]*
 
 > <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
 >
@@ -85,7 +85,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 - What Christians fail to understand is that Acts is the basis of the New Testament. Paul's epistles, first and second Peter, James: Acts is literally the understanding. Just in case you get confused on a verse, go back to Acts 2:5. It tells you who the audience is.
 - There were dwelling at Jerusalem Jews, devout men, out of every nation under heaven. The children of Israel were scattered amongst the heathen, like we just read in Ezekiel 37. Verse 9 names the dwellers: Parthians, Medes, Elamites, Mesopotamia, Judaea, Cappadocia, Pontus, and Asia. Asia Minor is where Ephesus and Colosse sit.
 
-**[Acts 19:1-10](/bible/acts/19#v1)**  *[30:22]*
+**[Acts 19:1-10](/bible/acts/19#v1)**  *[[30:22](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=1822s)]*
 
 > <sup>[1](/bible/acts/19#v1)</sup> And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,
 >
@@ -94,7 +94,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 - Paul, having passed through the upper coasts, came to Ephesus. Look at the map and see how close Ephesus is to Colosse.
 - This continued by the space of two years, so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks. That means Colosse heard the word Paul was preaching. You will not find a verse in Acts saying Paul went to Colosse, but we actually did just read it, because Colosse is in Asia next to Ephesus. If you always wondered why you cannot find the precept in Acts, that is your precept right there.
 
-**[Colossians 1:1-6](/bible/colossians/1#v1)**  *[32:15]*
+**[Colossians 1:1-6](/bible/colossians/1#v1)**  *[[32:15](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=1935s)]*
 
 > <sup>[1](/bible/colossians/1#v1)</sup> Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 >
@@ -116,7 +116,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh. Why had they not seen Paul's face? Because he never went to Laodicea and he never went to Colosse.
 
-**[Acts 19:26-27](/bible/acts/19#v26)**  *[36:07]*
+**[Acts 19:26-27](/bible/acts/19#v26)**  *[[36:07](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=2167s)]*
 
 > <sup>[26](/bible/acts/19#v26)</sup> Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:
 >
@@ -125,7 +125,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 - Not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people. Turned them away from idolatry to serving the one true God and believing on Jesus the Christ.
 - The temple of the great goddess Diana, whom all Asia and the world worshipped. Colosse, just like Ephesus, just like the rest of the world, was worshipping Diana. They worshipped these women deities, just like America worships the Virgin Mary, women's rights, liberation, all of that. It is the same thing. But the spirit was so heavy on the apostle Paul that places he did not physically go to were getting touched.
 
-**[Colossians 1:7-8](/bible/colossians/1#v7)**  *[37:34]*
+**[Colossians 1:7-8](/bible/colossians/1#v7)**  *[[37:34](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=2254s)]*
 
 > <sup>[7](/bible/colossians/1#v7)</sup> As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
 >
@@ -190,7 +190,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     At the end of Acts 15, Paul and Barnabas had a dispute, and that is who they had the dispute over: John Mark. Barnabas stuck up for him because it was his nephew. It shows you not just anybody can travel. Paul gave him a chance, and when it came to the work he was nowhere to be found. Paul said he is not coming with me any more; Barnabas said, that is my sister's son, I am taking him with me. And the contention was so sharp between them that they departed asunder one from the other.
 
-**[Colossians 1:26-27](/bible/colossians/1#v26)**  *[48:38]*
+**[Colossians 1:26-27](/bible/colossians/1#v26)**  *[[48:38](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=2918s)]*
 
 > <sup>[26](/bible/colossians/1#v26)</sup> Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
 >
@@ -215,7 +215,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     By revelation he made known unto me the mystery: that the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel. That is the mystery: the animal sacrifice is done away with, and the northern and southern kingdom now have a chance to come back into the fold with Christ. The promises were not made through animal sacrifice but through Christ.
 
-**[Colossians 3:1](/bible/colossians/3#v1)**  *[52:55]*
+**[Colossians 3:1](/bible/colossians/3#v1)**  *[[52:55](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3175s)]*
 
 > <sup>[1](/bible/colossians/3#v1)</sup> If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 
@@ -241,7 +241,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     Is he the God of the Jews only? Is he not also of the Gentiles? Is he only for the southern kingdom? He is also the God of the northern kingdom: one God which shall justify the circumcision by faith, and uncircumcision through faith.
 
-**[Colossians 3:10-11](/bible/colossians/3#v10)**  *[56:39]*
+**[Colossians 3:10-11](/bible/colossians/3#v10)**  *[[56:39](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3399s)]*
 
 > <sup>[10](/bible/colossians/3#v10)</sup> And have put on the new man, which is renewed in knowledge after the image of him that created him:
 >
@@ -271,7 +271,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     Now they will say, see, Christ is all and in all, God is no respecter of persons. Read the whole thing: the word which God sent unto the children of Israel, preaching peace by Jesus Christ: he is Lord of all. Lord of all Israel.
 
-**[Colossians 3:12-13](/bible/colossians/3#v12)**  *[1:05:55]*
+**[Colossians 3:12-13](/bible/colossians/3#v12)**  *[[1:05:55](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3955s)]*
 
 > <sup>[12](/bible/colossians/3#v12)</sup> Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
 >
@@ -294,7 +294,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved. That is the holy and beloved.
 
-**[Colossians 3:22](/bible/colossians/3#v22)**  *[1:09:48]*
+**[Colossians 3:22](/bible/colossians/3#v22)**  *[[1:09:48](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=4188s)]*
 
 > <sup>[22](/bible/colossians/3#v22)</sup> Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 
@@ -360,7 +360,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right. Even when we speak straight out of the Bible, they call it hate speech. The needy in that book is us.
 
-**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[1:39:31]*
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[1:39:31](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=5971s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
@@ -409,7 +409,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     The holy city had twelve gates, and names written thereon, which are the names of the twelve tribes of the children of Israel. The kingdom is for God's people.
 
-**[Colossians 4:1](/bible/colossians/4#v1)**  *[1:58:17]*
+**[Colossians 4:1](/bible/colossians/4#v1)**  *[[1:58:17](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7097s)]*
 
 > <sup>[1](/bible/colossians/4#v1)</sup> Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.
 
@@ -450,7 +450,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     Who art thou that judgest another man's servant? To his own master he standeth or falleth. Our real master is Christ.
 
-**[Leviticus 25:44-46](/bible/leviticus/25#v44)**  *[2:03:42]*
+**[Leviticus 25:44-46](/bible/leviticus/25#v44)**  *[[2:03:42](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7422s)]*
 
 > <sup>[44](/bible/leviticus/25#v44)</sup> Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.
 >
@@ -475,7 +475,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him. They think they can change their judgment. No. God said it; it is in writing; it is stamped.
 
-**[Isaiah 14:1-2](/bible/isaiah/14#v1)**  *[2:07:12]*
+**[Isaiah 14:1-2](/bible/isaiah/14#v1)**  *[[2:07:12](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7632s)]*
 
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 >
@@ -484,7 +484,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 - For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 - The people shall take them, and bring them to their place. God's chosen people are going to take the strangers and put them in their own place, back to their own dwelling. And the house of Israel shall possess them in the land of the Lord for servants and handmaids, and they shall take them captives, whose captives they were; and they shall rule over their oppressors. That is the role the Lord appointed, and the scripture already said for how long: for ever.
 
-**[Revelation 1:11](/bible/revelation/1#v11)**  *[2:10:15]*
+**[Revelation 1:11](/bible/revelation/1#v11)**  *[[2:10:15](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7815s)]*
 
 > <sup>[11](/bible/revelation/1#v11)</sup> Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
 
@@ -500,7 +500,7 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 
     When this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea. Now it connects: Asia may not name Colosse in the book of Acts, but the churches of Asia are all right there together.
 
-**[Ecclesiastes 8:9](/bible/ecclesiastes/8#v9)**  *[2:11:43]*
+**[Ecclesiastes 8:9](/bible/ecclesiastes/8#v9)**  *[[2:11:43](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=7903s)]*
 
 > <sup>[9](/bible/ecclesiastes/8#v9)</sup> All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.
 
@@ -566,4 +566,4 @@ It does not pay to be wicked, and it does not pay to follow after your oppressor
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-18-the-colossians-the-christians-of-america)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=mbZ3tmc48C0)

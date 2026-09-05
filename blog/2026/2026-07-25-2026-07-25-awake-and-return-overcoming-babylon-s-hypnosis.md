@@ -22,7 +22,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
 ## Scriptures Opened
 
-**[Psalms 12:1-8](/bible/psalms/12#v1)**  *[6:04]*
+**[Psalms 12:1-8](/bible/psalms/12#v1)**  *[[6:04](https://www.youtube.com/watch?v=kxiMez1I0_U&t=364s)]*
 
 > <sup>[1](/bible/psalms/12#v1)</sup> Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men.
 >
@@ -46,7 +46,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him. That's what I wanted, because the Lord said he would rise up for us. They didn't want to discuss how we could get our community together. They didn't want to discuss salvation, repentance, the things that's needed to get to the kingdom of heaven. Their discussion was the trinity, did Christ have a father, things that wasn't hitting on what could help our community.
 - Officer Eli was reading so good and getting the scriptures so fast they couldn't believe it. That was the spirit of the Lord working. Nobody going to prevail against our heavenly father; his word will go out and reign through this earth.
 
-**[Psalms 111:10](/bible/psalms/111#v10)**  *[15:52]*
+**[Psalms 111:10](/bible/psalms/111#v10)**  *[[15:52](https://www.youtube.com/watch?v=kxiMez1I0_U&t=952s)]*
 
 > <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 
@@ -54,7 +54,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - You get a good understanding by doing God's commandments. You don't get a good understanding because you quote a few scriptures and want to run to the Hebrew and the Greek. The Bible speaks for itself. You don't have that good understanding yet because you're not keeping the law of commandments.
 - Fred Price was the most sincere out of the rest of them. The other ones wasn't sincere at all. Who knows? If they tried to trick us, the Lord reversed that role on them quick. His praise endureth for ever.
 
-**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[19:20]*
+**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[[19:20](https://www.youtube.com/watch?v=kxiMez1I0_U&t=1160s)]*
 
 > <sup>[3](/bible/2-corinthians/11#v3)</sup> But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
 >
@@ -90,7 +90,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
     Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen. Who did God choose? He chose Israel. Thou madest the world for our sakes: the planet earth was made for the children of Israel. And as for the other people, which also come of Adam, thou hast said that they are nothing, but be like unto spittle. He read it to them plain, and the man still said no.
 
-**[1 Peter 4:11](/bible/1-peter/4#v11)**  *[29:15]*
+**[1 Peter 4:11](/bible/1-peter/4#v11)**  *[[29:15](https://www.youtube.com/watch?v=kxiMez1I0_U&t=1755s)]*
 
 > <sup>[11](/bible/1-peter/4#v11)</sup> If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
 
@@ -98,7 +98,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - If any man speak, let him speak as the oracles of God. Let him speak as thus saith the Lord; let God speak for himself. That's why he said precept upon precept, line upon line, here a little and there a little, in Isaiah 28:9-11. They said, y'all keep moving around; and we explaining it to them while we moving around, cuz it's a precept. But it's not for them to get; it's for you righteous brothers and sisters to understand.
 - That God in all things may be glorified through Jesus Christ. God going to get the glory at the end of the day. That debate was a discussion they couldn't sustain; it was too heavy for them. But the Lord going to wake up more people through that discussion.
 
-**[Isaiah 8:20](/bible/isaiah/8#v20)**  *[31:06]*
+**[Isaiah 8:20](/bible/isaiah/8#v20)**  *[[31:06](https://www.youtube.com/watch?v=kxiMez1I0_U&t=1866s)]*
 
 > <sup>[20](/bible/isaiah/8#v20)</sup> To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.
 
@@ -106,14 +106,14 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - God said do not add to the word and do not diminish from it, in Revelation 22 and Deuteronomy 4. Brothers was adding like it was no problem. After he read it to him plain, out of all the families of the earth, you only have I known, the brother said, no, the scripture don't mean that.
 - The light is the spirit of God. The spirit of God is not working in them; that's why they don't understand this word.
 
-**[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[32:49]*
+**[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[32:49](https://www.youtube.com/watch?v=kxiMez1I0_U&t=1969s)]*
 
 > <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
 
 - But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God. There's no equality there. We ain't got no equality with Christ, and the woman has no equality with the man, and Christ has no equality with God.
 - It is the father first, then Christ, then man, then woman, then children. That's the order that's set up. It ain't say God and Christ is one; it said the father, Christ, man, woman.
 
-**[Mark 4:9-12](/bible/mark/4#v9)**  *[34:25]*
+**[Mark 4:9-12](/bible/mark/4#v9)**  *[[34:25](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2065s)]*
 
 > <sup>[9](/bible/mark/4#v9)</sup> And he said unto them, He that hath ears to hear, let him hear.
 >
@@ -129,14 +129,14 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Lest at any time they should be converted, and their sins should be forgiven them. Some people do change: you got people like Nicodemus, Joseph of Arimathaea, Gamaliel, who came to him by night. Fred Price seemed like he was starting to understand what the word of God was saying to him. That's between him and the Lord, if the Lord going to wake that spirit fully up or not.
 - They kept throwing out "the whole law." The whole law goes back to the temple, the Levitical priests; you had to have the sons of Aaron make that sacrifice for you, sprinkle the blood, go through the ordinances. We don't have a temple right now, and we don't have the Levitical priests. Now we go through Christ: he read it to them in John 14:6. I am the way, the truth, and the life. We can't get to the father unless we go through him, because he's the sacrificial lamb.
 
-**[1 Thessalonians 5:21](/bible/1-thessalonians/5#v21)**  *[38:43]*
+**[1 Thessalonians 5:21](/bible/1-thessalonians/5#v21)**  *[[38:43](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2323s)]*
 
 > <sup>[21](/bible/1-thessalonians/5#v21)</sup> Prove all things; hold fast that which is good.
 
 - This is another thing we kept asking them: with your Bible, prove it. Open your Bible up and prove it. They want to have long speeches and goodly words to deceive the minds of the simple, like Romans 16:18 says.
 - Prove all things; hold fast that which is good. We know the Lord's statutes and commandments is good, according to Romans 7:12.
 
-**[Isaiah 41:21-22](/bible/isaiah/41#v21)**  *[39:24]*
+**[Isaiah 41:21-22](/bible/isaiah/41#v21)**  *[[39:24](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2364s)]*
 
 > <sup>[21](/bible/isaiah/41#v21)</sup> Produce your cause, saith the Lord; bring forth your strong reasons, saith the King of Jacob.
 >
@@ -145,7 +145,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Produce your cause, saith the Lord; bring forth your strong reasons, saith the King of Jacob. Why you believing what you saying? You got to bring it forth. It has to be biblical; it can't be your own words.
 - Let them shew the former things, what they be. You have to go to the Old Testament to understand what they talking about in the New Testament. When the apostles and Christ walked the earth, it wasn't no New Testament. Everything they spoke was coming out of the Old Testament: as it is written, thus saith the Lord. It's all going back to the Old Testament.
 
-**[Matthew 5:17-19](/bible/matthew/5#v17)**  *[41:03]*
+**[Matthew 5:17-19](/bible/matthew/5#v17)**  *[[41:03](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2463s)]*
 
 > <sup>[17](/bible/matthew/5#v17)</sup> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 >
@@ -159,14 +159,14 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Whosoever therefore shall break one of these least commandments, and shall teach men so: when you telling a person the Sabbath day is Sunday, you're breaking the commandment. When you telling somebody they don't have to keep the Sabbath, or they can eat pork, shrimp, crab, lobster, you're breaking the commandments and teaching men so.
 - He shall be called the least in the kingdom of heaven. There's no least in the kingdom of heaven; everybody is great in the kingdom of heaven. He's saying you won't make it to the kingdom. But whosoever shall do and teach them, the same shall be called great in the kingdom of heaven. The laws is not done away with. We have to uphold the law of commandments till this day.
 
-**[Matthew 15:24](/bible/matthew/15#v24)**  *[43:51]*
+**[Matthew 15:24](/bible/matthew/15#v24)**  *[[43:51](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2631s)]*
 
 > <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
 
 - Christ said, I am not sent. Can you send yourself to the store? No, somebody has to send you. His father sent him to the lost sheep of the house of Israel.
 - He had a list, and that list was the twelve tribes of the children of Israel. His father sent him to give himself up for the twelve tribes. We read it all through the Bible; there's no confusion.
 
-**[Revelation 11:8-9](/bible/revelation/11#v8)**  *[45:45]*
+**[Revelation 11:8-9](/bible/revelation/11#v8)**  *[[45:45](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2745s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 >
@@ -177,7 +177,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Where also our Lord was crucified: they crucified Christ here spiritually. Back in the days the Bible was a curriculum in the school; now nobody is talking about Christ but us. The Israelites is the only ones talking about the true and living God. Christ is a God; he ain't the God, but he is a God.
 - They of the people shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves. They have seen our dead bodies, and they did not suffer our bodies to be put in graves here in this great city.
 
-**[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[48:06]*
+**[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[[48:06](https://www.youtube.com/watch?v=kxiMez1I0_U&t=2886s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 >
@@ -200,7 +200,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
     If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people. If you following them doctrines, them philosophies, them lies, that man going to be the prophet to you, a prophet to lead you right to hell. A lot of these wicked pastors just chasing money and don't care about the people's souls, about healing the people and bringing them back to Christ.
 
-**[Revelation 12:12-16](/bible/revelation/12#v12)**  *[55:43]*
+**[Revelation 12:12-16](/bible/revelation/12#v12)**  *[[55:43](https://www.youtube.com/watch?v=kxiMez1I0_U&t=3343s)]*
 
 > <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 >
@@ -238,21 +238,21 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
     The great dragon was cast out, that old serpent from Genesis, called the Devil, and Satan, which deceiveth the whole world. That's who the face of the serpent is: the devil himself and his children.
 
-**[Psalms 85:11](/bible/psalms/85#v11)**  *[1:18:40]*
+**[Psalms 85:11](/bible/psalms/85#v11)**  *[[1:18:40](https://www.youtube.com/watch?v=kxiMez1I0_U&t=4720s)]*
 
 > <sup>[11](/bible/psalms/85#v11)</sup> Truth shall spring out of the earth; and righteousness shall look down from heaven.
 
 - Truth shall spring out of the earth; and righteousness shall look down from heaven. God going to look down upon us and the truth going to come out. Right now you see their tongue falling upon themselves: they lying, getting caught up in their lies, and telling on each other.
 - News discussed in class: in the Nolan Wells case the examiner removed the brother's throat and certain organs to determine whether he drowned; and around Juneteenth several of our people were found hanging from trees and it was ruled suicide. The Lord going to make the truth come out of this case and many other cases. Trust me, the Lord going to let us know what's really going on behind the scenes.
 
-**[Psalms 58:3](/bible/psalms/58#v3)**  *[1:20:12]*
+**[Psalms 58:3](/bible/psalms/58#v3)**  *[[1:20:12](https://www.youtube.com/watch?v=kxiMez1I0_U&t=4812s)]*
 
 > <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
 
 - The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies. From birth they go astray.
 - We got to understand who we dealing with: a wicked, demonic being, the children of the devil. They are ready to lie from birth. That's what he telling us.
 
-**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[1:21:47]*
+**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[1:21:47](https://www.youtube.com/watch?v=kxiMez1I0_U&t=4907s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
 
@@ -260,7 +260,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - They said one of them is a trillionaire, and you got billionaires on top of billionaires here. You telling me they can't help us? They could help us, but they're not going to, because it ain't in their spirit to do it.
 - God got us going through this so we can get through that great tribulation and make it to the kingdom of heaven. We got to go through these trials, these rough paths, these hard times, so we can make it back to the father, because we departed from him. Now he bringing us back, and we must go through this to show ourselves faithful to the Lord.
 
-**[Isaiah 30:1-3](/bible/isaiah/30#v1)**  *[1:23:14]*
+**[Isaiah 30:1-3](/bible/isaiah/30#v1)**  *[[1:23:14](https://www.youtube.com/watch?v=kxiMez1I0_U&t=4994s)]*
 
 > <sup>[1](/bible/isaiah/30#v1)</sup> Woe to the rebellious children, saith the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
 >
@@ -274,14 +274,14 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - News read in class: a mother and her child went out to eat; the child came home, laid down, went to sleep, and never woke up. They tested the leftover food and the food had fentanyl in it. Everything here is defiled. Europe gets three ingredients and we get fifteen for the same product. This place is not for our best interest at all.
 - Therefore shall the strength of Pharaoh be your shame. We have to come out of this place mentally, spiritually, physically. I ain't talking about physically leaving it yet; I'm talking about coming out of these false holidays and these customs they set up to make us think we are part of it, when we not.
 
-**[Hosea 13:9](/bible/hosea/13#v9)**  *[1:28:33]*
+**[Hosea 13:9](/bible/hosea/13#v9)**  *[[1:28:33](https://www.youtube.com/watch?v=kxiMez1I0_U&t=5313s)]*
 
 > <sup>[9](/bible/hosea/13#v9)</sup> O Israel, thou hast destroyed thyself; but in me is thine help.
 
 - O Israel, thou hast destroyed thyself. We destroyed ourselves because we've been depending on this nation to help us, like Proverbs 13:12 says, hope deferred maketh the heart sick. We looking for change and no change coming.
 - But in me is thine help. In the Lord is our help. We got to come back to this Bible, y'all; that's the only change we going to have. Everything here is for our demise. The only thing that is not for our demise is this Bible, and that's what's protecting all of us who keep the law of commandments in sincerity.
 
-**[Deuteronomy 28:45-46](/bible/deuteronomy/28#v45)**  *[1:29:51]*
+**[Deuteronomy 28:45-46](/bible/deuteronomy/28#v45)**  *[[1:29:51](https://www.youtube.com/watch?v=kxiMez1I0_U&t=5391s)]*
 
 > <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
 >
@@ -297,7 +297,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
     The Spirit itself beareth witness with our spirit, that we are the children of God. Not the whole world: the Israelites are the children of God. The Bible bears witness with our spirit that we are them children.
 
-**[Baruch 1:17-22](/bible/baruch/1#v17)**  *[1:33:27]*
+**[Baruch 1:17-22](/bible/baruch/1#v17)**  *[[1:33:27](https://www.youtube.com/watch?v=kxiMez1I0_U&t=5607s)]*
 
 > <sup>[17](/bible/baruch/1#v17)</sup> For we have sinned before the Lord,
 >
@@ -318,7 +318,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Nevertheless we have not hearkened unto the voice of the Lord our God, according unto all the words of the prophets, whom he sent unto us. He keeps sending us, and we keep coming back saying the same thing to our people, and a lot of our people refuse to come back.
 - But every man followed the imagination of his own wicked heart, to serve strange gods. They want to keep Thanksgiving, Christmas, the Fourth of July, Presidents Day, their birthday, Valentine's Day, New Year's: all this evil in the sight of the Lord, and they refuse to change their ways. God got a chosen few that he calling in. You can teach in front of a thousand people and maybe twenty stop, but them twenty is the ones he want. We trying to pull a needle out of a haystack when we go out on the front line for our people.
 
-**[Baruch 2:5-10](/bible/baruch/2#v5)**  *[1:38:14]*
+**[Baruch 2:5-10](/bible/baruch/2#v5)**  *[[1:38:14](https://www.youtube.com/watch?v=kxiMez1I0_U&t=5894s)]*
 
 > <sup>[5](/bible/baruch/2#v5)</sup> Thus we were cast down, and not exalted, because we have sinned against the Lord our God, and have not been obedient unto his voice.
 >
@@ -346,7 +346,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 
     All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem. The other nations is happy that we thrown down, happy that we at the bottom. Is this the city that men call The perfection of beauty, The joy of the whole earth? Everybody knows we are the perfection of beauty, and even in the lowest state we in, everything we do, everybody follows us. All thine enemies have opened their mouth against thee: you see it in the stores and shops in our own neighborhoods; they don't regard us. They say, We have swallowed her up: certainly this is the day that we looked for. We don't have a community; in our own neighborhoods they own everything and we are the consumers. But now the Lord is waking his people back up to get his people back in order, so we can have rulership on this earth again in righteousness.
 
-**[Psalms 34:1-4](/bible/psalms/34#v1)**  *[1:45:15]*
+**[Psalms 34:1-4](/bible/psalms/34#v1)**  *[[1:45:15](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6315s)]*
 
 > <sup>[1](/bible/psalms/34#v1)</sup> I will bless the Lord at all times: his praise shall continually be in my mouth.
 >
@@ -360,7 +360,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad. When we sat down in that discussion, them brothers should have been glad to hear the glorious gospel coming out so plain and simple, precept upon precept, and they still ain't get it.
 - I sought the Lord, and he heard me, and delivered me from all my fears. That's what we want: to seek the Lord and have him hear us when we cry, when we pray, when we exalt his name.
 
-**[Luke 16:14-15](/bible/luke/16#v14)**  *[1:46:56]*
+**[Luke 16:14-15](/bible/luke/16#v14)**  *[[1:46:56](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6416s)]*
 
 > <sup>[14](/bible/luke/16#v14)</sup> And the Pharisees also, who were covetous, heard all these things: and they derided him.
 >
@@ -369,14 +369,14 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - The Pharisees also, who were covetous, heard all these things: and they derided him. The Lord ain't hearing these Pharisees. Ye are they which justify yourselves before men: they justified themselves for the evil they was committing against their people. But God knoweth your hearts.
 - That which is highly esteemed among men is abomination in the sight of God. Things that's looked on as a prize, a reward, something great: God said it is abomination in his sight. If you living an evil life, God will not hear you.
 
-**[Revelation 21:27](/bible/revelation/21#v27)**  *[1:48:21]*
+**[Revelation 21:27](/bible/revelation/21#v27)**  *[[1:48:21](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6501s)]*
 
 > <sup>[27](/bible/revelation/21#v27)</sup> And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb’s book of life.
 
 - There shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life. Only they that is written in the Lamb's book of life is going to make it.
 - We can't play no games and be like the Pharisees and Sadducees, be covetous, be wicked, committing adultery and fornicating and lying. We want to be heard by the Lord. In our captivity we got to pray. A lot of people do not pray like they supposed to; I know, because I ask people. We got to pray, y'all; we got to fast more; we got to get closer to God in these last days, cuz things going to turn up. Jacob's trouble is at the doorstep right now, and Satan is mad because he knows he has a short time.
 
-**[Isaiah 44:21-22](/bible/isaiah/44#v21)**  *[1:50:12]*
+**[Isaiah 44:21-22](/bible/isaiah/44#v21)**  *[[1:50:12](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6612s)]*
 
 > <sup>[21](/bible/isaiah/44#v21)</sup> Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me.
 >
@@ -386,7 +386,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - O Israel, thou shalt not be forgotten of me. We not going to be forgotten of God if we walking right and living right in his sight.
 - I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee. We have to return to our Lord.
 
-**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[1:51:46]*
+**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[1:51:46](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6706s)]*
 
 > <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
 
@@ -394,7 +394,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - And touch not the unclean thing: don't touch these fake holidays, don't touch unclean food, don't touch nothing that's unclean in the sight of God if you want him to heal you.
 - And I will receive you, and will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty. We will be his sons and daughters once we come out of this place. America got us hypnotized with their lies. Everybody in the world wants to come to America, but they don't know we being oppressed as much as they are; many of them are living freer than we are.
 
-**[Malachi 4:4-6](/bible/malachi/4#v4)**  *[1:53:54]*
+**[Malachi 4:4-6](/bible/malachi/4#v4)**  *[[1:53:54](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6834s)]*
 
 > <sup>[4](/bible/malachi/4#v4)</sup> Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 >
@@ -406,7 +406,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: and he shall turn the heart of the fathers to the children, and the heart of the children to their fathers. We are the fathers: we reading about ourselves when we read this Bible. We are the Israelites from back then, the good, the bad, and the ugly.
 - We might not remember exactly who we are, but we sure going to remember what we supposed to be doing, how we supposed to be living, and the laws we supposed to be upholding in these last days. How you reading the Bible and don't keep the laws? The laws is all through the whole Bible.
 
-**[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[1:56:04]*
+**[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[[1:56:04](https://www.youtube.com/watch?v=kxiMez1I0_U&t=6964s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 >
@@ -418,21 +418,21 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us. This ain't the first time this is happening; it's happening all over again.
 - There is no remembrance of former things. We don't remember the things that happened before; that's why he tells us now to remember. If you don't remember nothing else, remember that you are an Israelite, remember you got to have faith in Christ, and remember you have to keep the law of commandments to get redeemed in the last days.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[1:58:34]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[1:58:34](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7114s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
 - I will go and return to my place, till they acknowledge their offence, and seek my face. We have to acknowledge that we've been breaking his law of commandments, acknowledge that we have no way out of this but through the Lord and Saviour Christ, the King of kings. We have to acknowledge what we did wrong and start getting it right, family.
 - In their affliction they will seek me early. You Israelites have to understand: you are being afflicted right now to bring you back to the father. We see our brothers and sisters being shot down and hung in trees. The Most High is showing us these things so we get ourselves together, because we here today and gone tomorrow. Make sure you living a righteous lifestyle, so if anything happens you can stand before God with a clean conscience. If you living an afflicted life, repent right now and make your way back to the heavenly father before it's too late.
 
-**[Hosea 6:1](/bible/hosea/6#v1)**  *[2:00:41]*
+**[Hosea 6:1](/bible/hosea/6#v1)**  *[[2:00:41](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7241s)]*
 
 > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 
 - Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 - He smote us, he punished us, but he going to bind us back up. He going to fix us back to the righteous and great people we always been. We going to come back to that righteous nation again.
 
-**[Romans 13:11-12](/bible/romans/13#v11)**  *[2:01:28]*
+**[Romans 13:11-12](/bible/romans/13#v11)**  *[[2:01:28](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7288s)]*
 
 > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
 >
@@ -442,7 +442,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - For now is our salvation nearer than when we believed. We in the last days; Christ is on his way back. You can see wars and rumours of wars popping off all over the world. We knocking on the door right now.
 - The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light. We got to put on this Bible, living it day in and day out, keeping the commandments of God.
 
-**[Revelation 2:4-5](/bible/revelation/2#v4)**  *[2:02:37]*
+**[Revelation 2:4-5](/bible/revelation/2#v4)**  *[[2:02:37](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7357s)]*
 
 > <sup>[4](/bible/revelation/2#v4)</sup> Nevertheless I have somewhat against thee, because thou hast left thy first love.
 >
@@ -452,7 +452,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place. If we don't repent, he going to take his spirit away from you.
 - We got to come out of this hypnosis we've been in too long in America, thinking we could get away with things and God ain't paying attention. For every idle word a man shall be justified or condemned; you will be held accountable.
 
-**[Ezekiel 18:30-32](/bible/ezekiel/18#v30)**  *[2:04:02]*
+**[Ezekiel 18:30-32](/bible/ezekiel/18#v30)**  *[[2:04:02](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7442s)]*
 
 > <sup>[30](/bible/ezekiel/18#v30)</sup> Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
 >
@@ -465,7 +465,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - For why will ye die, O house of Israel? Why would you die being stuck in foolishness, stuck in theology? Why would you die committing sins against our brothers and sisters, selling drugs to your people, when you could live for something righteous and get a glorious end?
 - For I have no pleasure in the death of him that dieth, saith the Lord God: wherefore turn yourselves, and live ye. We all going to die, but at least die for your people, die for your nation. Most of the evil we do is against each other, while every nation is looking to hurt us. We got to cast them things away and return to the Lord.
 
-**[Baruch 3:5-8](/bible/baruch/3#v5)**  *[2:06:31]*
+**[Baruch 3:5-8](/bible/baruch/3#v5)**  *[[2:06:31](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7591s)]*
 
 > <sup>[5](/bible/baruch/3#v5)</sup> Remember not the iniquities of our forefathers: but think upon thy power and thy name now at this time.
 >
@@ -479,7 +479,7 @@ We had a sit down this week. Frederick K. Price Jr. said he wanted to sit down a
 - For this cause thou hast put thy fear in our hearts, to the intent that we should call upon thy name. We got to call upon the name of the Lord, y'all, make them prayers and supplications like we supposed to, and praise him in our captivity.
 - Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments. That's why we subject to payments: taxes on everything. You get paid, tax; you buy something, tax; you cash your check, more tax. Tax on top of tax, because we broke our God's law of commandments and departed from him.
 
-**[2 Maccabees 1:2-6](/bible/2-maccabees/1#v2)**  *[2:08:29]*
+**[2 Maccabees 1:2-6](/bible/2-maccabees/1#v2)**  *[[2:08:29](https://www.youtube.com/watch?v=kxiMez1I0_U&t=7709s)]*
 
 > <sup>[2](/bible/2-maccabees/1#v2)</sup> God be gracious unto you, and remember his covenant that he made with Abraham, Isaac, and Jacob, his faithful servants;
 >
@@ -517,4 +517,4 @@ I say shalom. Most High and Christ bless. I pray y'all got something from that c
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-25-awake-and-return-overcoming-babylon-s-hypnosis)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=kxiMez1I0_U)

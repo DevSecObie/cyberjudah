@@ -72,7 +72,7 @@ The self-destructive cycle.
 
 ## Scriptures Opened
 
-**[2 Esdras 15:28-31](/bible/2-esdras/15#v28)**  *[15:14]*
+**[2 Esdras 15:28-31](/bible/2-esdras/15#v28)**  *[[15:14](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=914s)]*
 
 > <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
 >
@@ -90,13 +90,13 @@ The self-destructive cycle.
 
 - And with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians. With great power. Believe it or not, Iran will get a chemical weapon. I do not care what Trump says. I do not care what your social media says. I do not care what the white man says. They will get it, and there is nothing you can do about it. That is what the scripture says. And shall join battle with them: with the dragons of Arabia, the Arabs. And the Assyrians here is Amalek, the Israelis. They are going to destroy that country.
 
-**[Proverbs 4:23](/bible/proverbs/4#v23)**  *[43:56]*
+**[Proverbs 4:23](/bible/proverbs/4#v23)**  *[[43:56](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=2636s)]*
 
 > <sup>[23](/bible/proverbs/4#v23)</sup> Keep thy heart with all diligence; for out of it are the issues of life.
 
 - Keep thy heart with all diligence; for out of it are the issues of life. So keep your mind with all diligence, because the heart is the mind. For out of it are the issues of life. Out of your mind come the issues of life.
 
-**[Psalms 139:23-24](/bible/psalms/139#v23)**  *[44:33]*
+**[Psalms 139:23-24](/bible/psalms/139#v23)**  *[[44:33](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=2673s)]*
 
 > <sup>[23](/bible/psalms/139#v23)</sup> Search me, O God, and know my heart: try me, and know my thoughts:
 >
@@ -106,7 +106,7 @@ The self-destructive cycle.
 
 - And see if there be any wicked way in me, and lead me in the way everlasting. So you ask the Most High to try you. Look at my thoughts. See if I have any evil in me. And lead me in the way everlasting. What is that talking about? That is talking about repenting, about changing.
 
-**[Psalms 19:7](/bible/psalms/19#v7)**  *[45:55]*
+**[Psalms 19:7](/bible/psalms/19#v7)**  *[[45:55](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=2755s)]*
 
 > <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
 
@@ -128,7 +128,7 @@ The self-destructive cycle.
 
     She is very unpleasant to the unlearned: he that is without understanding will not remain with her. Wisdom is very unpleasant to the unlearned. You did not learn about yourself. All you ever did was point out other people's problems. You never examined yourself. You never looked in the mirror. So now that wisdom finally reveals who you are, it is very unpleasant. And he that is without understanding will not remain with her: that is why people have to find a reason to leave. They get offended, they find a reason to be mad, and then they go. What is the root cause? Because they do not want to change once that wisdom is revealed.
 
-**[Luke 6:45](/bible/luke/6#v45)**  *[54:15]*
+**[Luke 6:45](/bible/luke/6#v45)**  *[[54:15](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3255s)]*
 
 > <sup>[45](/bible/luke/6#v45)</sup> A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh.
 
@@ -136,19 +136,19 @@ The self-destructive cycle.
 
 - Destructive attitudes begin internally before becoming visible externally. A person may still attend services, teach, lead, pray or serve while harbouring the wrong spirit. I know you are looking at the fringes and thinking, oh, he is good, she is good. You will be surprised how many people we have with an evil spirit in the midst of us. You have brothers and sisters who come here every Sabbath, who are here every new moon. You have brothers who teach. You have some who lead men. Who pray in the midst of us, pray with us. Or serve, while harbouring the wrong spirit.
 
-**[Proverbs 23:7](/bible/proverbs/23#v7)**  *[55:06]*
+**[Proverbs 23:7](/bible/proverbs/23#v7)**  *[[55:06](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3306s)]*
 
 > <sup>[7](/bible/proverbs/23#v7)</sup> For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
 
 - For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee. There is an old saying in the world that if you hang out with a thief long enough, eventually you are going to become a thief. You can be the most loyal man, you never stole anything in your life, but your best friend is a thief. You know these brothers that are married but their circle is a bunch of single men. He might be an officer of fifty but he never hangs out with officers of fifty, he circles a bunch of soldiers. You attract what you are.
 
-**[Proverbs 16:18](/bible/proverbs/16#v18)**  *[56:23]*
+**[Proverbs 16:18](/bible/proverbs/16#v18)**  *[[56:23](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3383s)]*
 
 > <sup>[18](/bible/proverbs/16#v18)</sup> Pride goeth before destruction, and an haughty spirit before a fall.
 
 - Pride goeth before destruction, and an haughty spirit before a fall. Pride goes before destruction. And a haughty spirit before a fall.
 
-**[Proverbs 12:1](/bible/proverbs/12#v1)**  *[57:28]*
+**[Proverbs 12:1](/bible/proverbs/12#v1)**  *[[57:28](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3448s)]*
 
 > <sup>[1](/bible/proverbs/12#v1)</sup> Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.
 
@@ -156,13 +156,13 @@ The self-destructive cycle.
 
 - So let me give you a couple of signs of pride. Nobody can tell me anything. That is a sign of pride. You have brothers and sisters in the truth like that. I already know that. You have never met these brothers you tell something and they say, yeah, I already know, I know. That know-it-all brother. Why are they correcting me? That is a sign of pride. I deserve a higher position. We saw that in the restructuring we just did. What do you mean you deserve a higher position? Why is this brother over me, two years ago this brother got caught in adultery, why over me? Pride. He is over you because you have no idea what this is about. That is why he is over you.
 
-**[2 Chronicles 26:1](/bible/2-chronicles/26#v1)**  *[1:00:04]*
+**[2 Chronicles 26:1](/bible/2-chronicles/26#v1)**  *[[1:00:04](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3604s)]*
 
 > <sup>[1](/bible/2-chronicles/26#v1)</sup> Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.
 
 - Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah. Keep in mind what tribe Uzziah was. That is why I read verse one. He was Judah.
 
-**[2 Chronicles 26:16-21](/bible/2-chronicles/26#v16)**  *[1:01:58]*
+**[2 Chronicles 26:16-21](/bible/2-chronicles/26#v16)**  *[[1:01:58](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3718s)]*
 
 > <sup>[16](/bible/2-chronicles/26#v16)</sup> But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense.
 >
@@ -190,7 +190,7 @@ The self-destructive cycle.
 
 - Write this down: success can test your character as much as hardship.
 
-**[Proverbs 14:29](/bible/proverbs/14#v29)**  *[1:05:07]*
+**[Proverbs 14:29](/bible/proverbs/14#v29)**  *[[1:05:07](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=3907s)]*
 
 > <sup>[29](/bible/proverbs/14#v29)</sup> He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.
 
@@ -206,7 +206,7 @@ The self-destructive cycle.
 
 - And you stand there while we are telling you that is not normal, and you look at us like we are the ones who are crazy. Sometimes I have to ask the brother next to me, am I crazy? Is something wrong with me? Because this dude is trying to convince me it is me and not him. And then Bishop says, hey, you are an officer of ten, you think you can lead ten men? And you look at Bishop dead in the eye and say yes. And we all look at each other like, what is wrong with this guy? No, you cannot lead men. If you are treating your wife and your children like that, you think you can lead men?
 
-**[James 1:19-20](/bible/james/1#v19)**  *[1:14:34]*
+**[James 1:19-20](/bible/james/1#v19)**  *[[1:14:34](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=4474s)]*
 
 > <sup>[19](/bible/james/1#v19)</sup> Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
 >
@@ -224,7 +224,7 @@ The self-destructive cycle.
 
 - So we were talking about pride, and signs of anger problems. Constant arguing. Harsh speech. You do not have to use harsh speech all the time with your spouse. Learn how to turn it off and on: you know how you go in the street teaching, and when you are in the house you are not teaching. Some of you do not know how to turn it off and on. Overreacting. You take one little thing and blow it up like an atomic bomb. Refusing forgiveness, that is a big one among black people. We do not know how to forgive each other. But when it comes to the white man, oh, we are quick. And revenge-driven decisions.
 
-**[Ephesians 4:26-27](/bible/ephesians/4#v26)**  *[1:22:55]*
+**[Ephesians 4:26-27](/bible/ephesians/4#v26)**  *[[1:22:55](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=4975s)]*
 
 > <sup>[26](/bible/ephesians/4#v26)</sup> Be ye angry, and sin not: let not the sun go down upon your wrath:
 >
@@ -240,7 +240,7 @@ The self-destructive cycle.
 
 - Neither give place to the devil. You see what happens when you hold grudges. You see what happens when you cannot forgive. You give place for Satan to come in.
 
-**[Hebrews 12:14-15](/bible/hebrews/12#v14)**  *[1:29:46]*
+**[Hebrews 12:14-15](/bible/hebrews/12#v14)**  *[[1:29:46](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=5386s)]*
 
 > <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
 >
@@ -266,7 +266,7 @@ The self-destructive cycle.
 
 - Bitterness is a hidden root that eventually produces visible damage. Signs of bitterness: repeatedly revisiting the offence. Speaking negatively about the offender. Difficulty praying for each other or for others. Refusing reconciliation. Generalised mistrust of others.
 
-**[Ephesians 4:31-32](/bible/ephesians/4#v31)**  *[1:42:14]*
+**[Ephesians 4:31-32](/bible/ephesians/4#v31)**  *[[1:42:14](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=6134s)]*
 
 > <sup>[31](/bible/ephesians/4#v31)</sup> Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
 >
@@ -278,7 +278,7 @@ The self-destructive cycle.
 
 - Forgiving one another. You are supposed to be praying three times a day, right? Every time you pray you ask the Most High for forgiveness. But at the same time, in that same house with your spouse, you did not forgive her, or you did not forgive him. But three times you ask for forgiveness. That is insanity. God is not listening to anything you say. That brother that sits next to you, I do not know what he did to you, but you cannot find it in you to forgive him, and you are praying three times a day. The Day of Atonement just passed and there is another one coming in a couple of months. Do you not think in those two months that brother sitting next to you, that sister sitting next to you, you should forgive them for whatever they have done to you before the atonement comes? Whatever they have done to you, you have been holding it for years. Do you not think it is time?
 
-**[Proverbs 14:30](/bible/proverbs/14#v30)**  *[1:46:38]*
+**[Proverbs 14:30](/bible/proverbs/14#v30)**  *[[1:46:38](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=6398s)]*
 
 > <sup>[30](/bible/proverbs/14#v30)</sup> A sound heart is the life of the flesh: but envy the rottenness of the bones.
 
@@ -288,7 +288,7 @@ The self-destructive cycle.
 
 - But envy the rottenness of the bones. Yes, the white man is the devil. But not one of us here can be kept from getting the kingdom by the white man. Not one. So who is the biggest enemy? You are. You are your own biggest enemy, because only you can keep yourself from getting the kingdom. So who are you fighting against? You are fighting against yourself. Only you can remove your name out of the book of life. The white man does not have that power. But you have that power. So it is called self-destruct.
 
-**[1 Samuel 18:6-11](/bible/1-samuel/18#v6)**  *[1:50:51]*
+**[1 Samuel 18:6-11](/bible/1-samuel/18#v6)**  *[[1:50:51](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=6651s)]*
 
 > <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
 >
@@ -318,13 +318,13 @@ The self-destructive cycle.
 
 - And you know how I know some of you have that selfish spirit? Some of you bring your wife here, your children are here, and then you go and do something stupid, and now we are putting you out. You did not consider that your wife is close to the sisters and that is all she has. You did not consider that your children are close to my children and that is all they have. You destroy her, you destroy your children, you destroy your whole family, because you have that spirit.
 
-**[Philippians 2:14](/bible/philippians/2#v14)**  *[2:02:14]*
+**[Philippians 2:14](/bible/philippians/2#v14)**  *[[2:02:14](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=7334s)]*
 
 > <sup>[14](/bible/philippians/2#v14)</sup> Do all things without murmurings and disputings:
 
 - Do all things without murmurings and disputings. I always say this: if you do not have a solution, be quiet. Do I really want to hear you complain? No, I want a solution. How is your complaining going to help me? Is your complaining going to help the men and the women who sit in this room? We want a solution, brother. Do you have one? If you do not, sit down. And trust me, God does not want to hear you complain either.
 
-**[Numbers 14:27-30](/bible/numbers/14#v27)**  *[2:03:11]*
+**[Numbers 14:27-30](/bible/numbers/14#v27)**  *[[2:03:11](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=7391s)]*
 
 > <sup>[27](/bible/numbers/14#v27)</sup> How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.
 >
@@ -344,37 +344,37 @@ The self-destructive cycle.
 
 - Now write this down: a murmuring spirit focuses on the problem instead of the solution. And believe me, a murmuring spirit never has a solution. The effects of murmuring and complaining: it weakens morale, it divides people, it discourages leadership, and it spreads negativity.
 
-**[1 Samuel 15:23](/bible/1-samuel/15#v23)**  *[2:11:33]*
+**[1 Samuel 15:23](/bible/1-samuel/15#v23)**  *[[2:11:33](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=7893s)]*
 
 > <sup>[23](/bible/1-samuel/15#v23)</sup> For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
 
 - For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king. Rebellion is as the sin of witchcraft.
 
-**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[2:29:20]*
+**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[[2:29:20](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=8960s)]*
 
 > <sup>[13](/bible/proverbs/28#v13)</sup> He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
 - He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy. Admit the issue you are facing. Once you have made that mistake, repent quick, keep it moving. Is that not what David did? David committed murder. What did he do? He repented quick and kept on moving. That is what we should do.
 
-**[Acts 3:19](/bible/acts/3#v19)**  *[2:30:02]*
+**[Acts 3:19](/bible/acts/3#v19)**  *[[2:30:02](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9002s)]*
 
 > <sup>[19](/bible/acts/3#v19)</sup> Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
 
 - Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord.
 
-**[Romans 12:2](/bible/romans/12#v2)**  *[2:30:57]*
+**[Romans 12:2](/bible/romans/12#v2)**  *[[2:30:57](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9057s)]*
 
 > <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
 - And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God. Your mind must be renewed, brothers and sisters. When you come into this truth, that is how you get rid of that old man. By changing your mind, changing your thoughts.
 
-**[Proverbs 18:21](/bible/proverbs/18#v21)**  *[2:31:21]*
+**[Proverbs 18:21](/bible/proverbs/18#v21)**  *[[2:31:21](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9081s)]*
 
 > <sup>[21](/bible/proverbs/18#v21)</sup> Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.
 
 - Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof. I always say you have the power to destroy and you have the power to build. It is up to you.
 
-**[James 3:5-10](/bible/james/3#v5)**  *[2:31:45]*
+**[James 3:5-10](/bible/james/3#v5)**  *[[2:31:45](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9105s)]*
 
 > <sup>[5](/bible/james/3#v5)</sup> Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!
 >
@@ -400,13 +400,13 @@ The self-destructive cycle.
 
 - Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be. So what is that saying? The tongue is the most powerful tool. You can destroy a brother with it or you can build a brother with it. So if I were you, I would pick building a brother with it.
 
-**[Colossians 3:13](/bible/colossians/3#v13)**  *[2:33:16]*
+**[Colossians 3:13](/bible/colossians/3#v13)**  *[[2:33:16](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9196s)]*
 
 > <sup>[13](/bible/colossians/3#v13)</sup> Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
 
 - Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye. Forgiving one another. If you do not forgive one another, do not expect the Most High to forgive you either. It goes hand in hand.
 
-**[Philippians 2:5](/bible/philippians/2#v5)**  *[2:33:50]*
+**[Philippians 2:5](/bible/philippians/2#v5)**  *[[2:33:50](https://www.youtube.com/watch?v=fI3hRBaEuAw&t=9230s)]*
 
 > <sup>[5](/bible/philippians/2#v5)</sup> Let this mind be in you, which was also in Christ Jesus:
 
@@ -424,4 +424,4 @@ Twelve tribes. With that we say shalom.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-15-destructive-behaviors-among-our-people)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=fI3hRBaEuAw)

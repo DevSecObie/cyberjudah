@@ -20,7 +20,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
 ## Scriptures Opened
 
-**[Genesis 1:26-28](/bible/genesis/1#v26)**  *[12:18]*
+**[Genesis 1:26-28](/bible/genesis/1#v26)**  *[[12:18](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=738s)]*
 
 > <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 >
@@ -45,7 +45,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness. His likeness is righteousness. Man after his image was meant to be righteous.
 
-**[Wisdom of Solomon 7:1-25](/bible/wisdom-of-solomon/7#v1)**  *[18:40]*
+**[Wisdom of Solomon 7:1-25](/bible/wisdom-of-solomon/7#v1)**  *[[18:40](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=1120s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/7#v1)</sup> I myself also am a mortal man, like to all, and the offspring of him that was first made of the earth,
 >
@@ -103,7 +103,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head. Somebody telling you that you are doing evil is not going to kill you. It is supposed to kill the old man in you, not you. When you come to this truth, prepare your soul for temptation; it starts unmasking who you are and what we have to fix.
 
-**[Ecclesiasticus 21:3-6](/bible/sirach/21#v3)**  *[43:12]*
+**[Ecclesiasticus 21:3-6](/bible/sirach/21#v3)**  *[[43:12](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=2592s)]*
 
 > <sup>[3](/bible/sirach/21#v3)</sup> All iniquity is as a two edged sword, the wounds whereof cannot be healed.
 >
@@ -111,14 +111,14 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
 - All iniquity is as a two edged sword, the wounds whereof cannot be healed. We just read that the word of God is a twoedged sword that cures, so why can these wounds not be healed? Verse six answers: he that hateth to be reproved is in the way of sinners, but he that feareth the Lord will repent from his heart. The wounds cannot be healed because you hate to be reproved. The word of God cuts, but you can be healed if you accept what it is saying. That means somebody is telling you, and you are listening.
 
-**[James 1:19](/bible/james/1#v19)**  *[44:20]*
+**[James 1:19](/bible/james/1#v19)**  *[[44:20](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=2660s)]*
 
 > <sup>[19](/bible/james/1#v19)</sup> Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
 
 - Let every man be swift to hear, slow to speak, slow to wrath. Do more listening than talking, because if you are talking you cannot hear what is being said. And after you hear what is being said, why are you angry? You said, God, show me the errors of my ways, cleanse me. Well, he is sending the prophets to tell you, and now you are mad at them for telling you. That is why the people killed the prophets: they kept coming and telling them what they were doing wrong, and they did not want to hear it, to the point they killed them just to shut them up. Let us not be those people.
 - There is an art to listening. The greatest gift a young person can give is to just listen. You will save yourself so much headache. Be neutral, hear what is being said, examine yourself whether it is true, and if it is, fix it. Stop lying to yourself.
 
-**[James 1:1-4](/bible/james/1#v1)**  *[46:02]*
+**[James 1:1-4](/bible/james/1#v1)**  *[[46:02](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=2762s)]*
 
 > <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 >
@@ -148,7 +148,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Sufficient to such a man is this punishment: he got punished for his action because he was in error. Now contrariwise ye ought rather to forgive him, and comfort him. Some brothers do not have the spirit to comfort; they look at the comfort part as weak. The Bible says forgive and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow: you never allow him to grow out of the situation, he feels repentance is hopeless, and you destroy a brother. Confirm your love toward him. It is not a weak nature to forgive a brother and confirm your love: I see you fighting, you are trying to get right, we are here for you. And do it lest Satan should get an advantage of us: for we are not ignorant of his devices, and one of his devices is unforgiveness. If a brother has not committed the same infraction again, why do you keep bringing it up over and over? That is something you are battling.
 
-**[James 1:5](/bible/james/1#v5)**  *[53:51]*
+**[James 1:5](/bible/james/1#v5)**  *[[53:51](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=3231s)]*
 
 > <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
@@ -172,7 +172,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Search me, O God, and know my heart: try me, and know my thoughts. You are asking God to measure you against his word. And see if there be any wicked way in me, and lead me in the way everlasting. So when you ask God for wisdom and he starts showing you your errors, that is the prayer being answered. Blessed is the man that endures it.
 
-**[James 1:6-8](/bible/james/1#v6)**  *[1:00:39]*
+**[James 1:6-8](/bible/james/1#v6)**  *[[1:00:39](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=3639s)]*
 
 > <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 >
@@ -201,7 +201,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Precept brought by the captain: I brought this people out of bondage, and gave them my commandments by my servants the prophets, whom they would not hear, but despised my counsels. The counsel the prophets bring out of the scriptures is God's counsel; when you resist it, it is not men you are despising. The carnal man causes you to resist the direction God wants you to grow in.
 
-**[Ecclesiasticus 37:12-16](/bible/sirach/37#v12)**  *[1:13:42]*
+**[Ecclesiasticus 37:12-16](/bible/sirach/37#v12)**  *[[1:13:42](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=4422s)]*
 
 > <sup>[12](/bible/sirach/37#v12)</sup> But be continually with a godly man, whom thou knowest to keep the commandments of the Lord, whose, mind is according to thy mind, and will sorrow with thee, if thou shalt miscarry.
 >
@@ -218,7 +218,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 - For a man's mind is sometime wont to tell him more than seven watchmen that sit above in an high tower. The watchmen see from a vantage point; you see your own life from ground level. A brother's counsel may be good from where he sits and still not fit what you are walking through, and brothers can be overbearing with counsel. So hear it from a neutral place.
 - And above all this pray to the Most High, that he will direct thy way in truth. You listen to the counsel, you process it, then you go to God, and God will direct your way. Let reason go before every enterprise, and counsel before every action.
 
-**[James 1:17-18](/bible/james/1#v17)**  *[1:19:25]*
+**[James 1:17-18](/bible/james/1#v17)**  *[[1:19:25](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=4765s)]*
 
 > <sup>[17](/bible/james/1#v17)</sup> Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
 >
@@ -233,7 +233,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     I said, I would scatter them into corners, I would make the remembrance of them to cease from among men. That goes with Deuteronomy 28:64: scattered and serving gods of wood and stone, we were spotted. James writes to the twelve tribes scattered abroad, ones that had been living as sinners. So count it joy when God starts showing you who you are.
 
-**[James 1:12-15](/bible/james/1#v12)**  *[1:25:04]*
+**[James 1:12-15](/bible/james/1#v12)**  *[[1:25:04](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=5104s)]*
 
 > <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
 >
@@ -254,7 +254,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Submit yourselves therefore to God: take the counsel. Resist the devil, and he will flee from you. How do you resist him? By submitting to God first. Draw nigh to God, and he will draw nigh to you. How do you draw nigh? You come to the house of learning, somebody teaches you, and God draws nigh back to you and gives you a way to escape. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.
 
-**[James 1:21-27](/bible/james/1#v21)**  *[1:29:54]*
+**[James 1:21-27](/bible/james/1#v21)**  *[[1:29:54](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=5394s)]*
 
 > <sup>[21](/bible/james/1#v21)</sup> Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
 >
@@ -277,7 +277,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 - If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain. You can put on the shirt, put on the fringes, grow the beard, stop eating pork; but if you are not willing to deal honestly with what you have going on in your head, you are wasting your time.
 - Pure religion and undefiled before God and the Father is this, to visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. The fatherless and widows lack a hedge, a guide. Now that you are unspotted because you learned about yourself, it is time to go help others become unspotted. But how are you going to teach them if they are not swift to hear? How can you help someone who dodges every time you tell them something?
 
-**[James 4:1](/bible/james/4#v1)**  *[1:35:28]*
+**[James 4:1](/bible/james/4#v1)**  *[[1:35:28](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=5728s)]*
 
 > <sup>[1](/bible/james/4#v1)</sup> From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 
@@ -306,7 +306,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Precept brought by the captain on justifying yourself: if I justify myself, mine own mouth shall condemn me. The margin renders justify as cleanse or clear self. Deceiving yourself is telling yourself, I am already cleansed, I am already clear, while refusing the reproof and instruction the teachers bring. Video played in class: sometimes you have to let people suffer the consequences of choices they made knowingly, because rescue delays the learning; growth delayed by rescue is growth denied. As David said, it is good that I was afflicted. Teachers cannot carry everybody; and teachers, do not weaponize the scriptures either: do not be the brother that is wise and teacheth many, and is unprofitable to himself, holding brothers to an accountability you will not hold yourself to.
 
-**[2 Corinthians 3:18](/bible/2-corinthians/3#v18)**  *[1:44:41]*
+**[2 Corinthians 3:18](/bible/2-corinthians/3#v18)**  *[[1:44:41](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=6281s)]*
 
 > <sup>[18](/bible/2-corinthians/3#v18)</sup> But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
 
@@ -344,7 +344,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     I brought you up with gladness, but with sorrow and heaviness have I lost you: for ye have sinned before the Lord your God. The gospel is hid to them that are lost, to him that is still in sin and will not renounce the hidden things of dishonesty.
 
-**[Mark 1:1-20](/bible/mark/1#v1)**  *[1:52:55]*
+**[Mark 1:1-20](/bible/mark/1#v1)**  *[[1:52:55](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=6775s)]*
 
 > <sup>[1](/bible/mark/1#v1)</sup> The beginning of the gospel of Jesus Christ, the Son of God;
 >
@@ -377,7 +377,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: but I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren. Christ is showing Peter that he still has things to work on. Peter answers, Lord, I am ready to go with thee, both into prison, and to death; and Christ says, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me. Peter, you are not there yet. And Peter did become the head of the church afterwards, but first there were things he had to reconcile within himself. God opens the book, we behold ourselves in it, and he sends prophets to show us how to get right. The worst thing to do is deny it. Medicine hurts sometimes, but if you are sincere you take your medicine and you get better.
 
-**[2 Esdras 1:5](/bible/2-esdras/1#v5)**  *[2:01:10]*
+**[2 Esdras 1:5](/bible/2-esdras/1#v5)**  *[[2:01:10](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=7270s)]*
 
 > <sup>[5](/bible/2-esdras/1#v5)</sup> Go thy way, and shew my people their sinful deeds, and their children their wickedness which they have done against me; that they may tell their children’s children:
 
@@ -395,7 +395,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him. If you see a brother in error and do not correct him, you hate your brother in your heart.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[2:04:14]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[2:04:14](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=7454s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
@@ -416,7 +416,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     Gather yourselves together, O nation not desired; before the decree bring forth, before the fierce anger of the Lord come upon you. Seek ye the Lord, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the Lord's anger. If you are seeking righteousness, you are admitting you do not yet have it; you are walking in error and correcting it. So when you come to the house of learning and somebody shows you your error, do not leave mad; leaving means going back out to face the fierce anger unprepared.
 
-**[2 Chronicles 7:14-20](/bible/2-chronicles/7#v14)**  *[2:17:18]*
+**[2 Chronicles 7:14-20](/bible/2-chronicles/7#v14)**  *[[2:17:18](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=8238s)]*
 
 > <sup>[14](/bible/2-chronicles/7#v14)</sup> If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
 >
@@ -450,7 +450,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy. Corrected over and over, and after a while the neck hardens, the scriptures have no effect, there is no contriteness, no shame. If the word of God is not moving you to change after ten years, something is disconnected. The word of God changes you; if it is not working, examine whether you even believe.
 
-**[Luke 6:46-48](/bible/luke/6#v46)**  *[2:25:45]*
+**[Luke 6:46-48](/bible/luke/6#v46)**  *[[2:25:45](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=8745s)]*
 
 > <sup>[46](/bible/luke/6#v46)</sup> And why call ye me, Lord, Lord, and do not the things which I say?
 >
@@ -461,7 +461,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 - And why call ye me, Lord, Lord, and do not the things which I say? You call on him but refuse to do the things he says; what is the purpose?
 - Whosoever cometh to me, and heareth my sayings, and doeth them, is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it. He was warned that a flood was coming, and he prepared himself. That is us: prepare before the decree brings forth, be rooted in Christ, not just a hearer but a doer. If you only heard, the house stays as it was and the flood takes it. If you heard, there has to be some type of change.
 
-**[Psalms 50:16-23](/bible/psalms/50#v16)**  *[2:27:59]*
+**[Psalms 50:16-23](/bible/psalms/50#v16)**  *[[2:27:59](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=8879s)]*
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
@@ -498,7 +498,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
     A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. Friend and brother are synonymous in this teaching; the slander of Psalms 50:20 lands on both.
 
-**[1 Corinthians 12:28-31](/bible/1-corinthians/12#v28)**  *[2:32:32]*
+**[1 Corinthians 12:28-31](/bible/1-corinthians/12#v28)**  *[[2:32:32](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=9152s)]*
 
 > <sup>[28](/bible/1-corinthians/12#v28)</sup> And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
 >
@@ -510,7 +510,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
 - God hath set some in the church, first apostles, secondarily prophets, thirdly teachers. The Most High sets up apostles, teachers, and leaders, and the whole point is to build back his kingdom. These men are supposed to guide you and show you a more excellent way: how to serve God. That is the purpose for which they were sent.
 
-**[1 Samuel 12:20-25](/bible/1-samuel/12#v20)**  *[2:33:44]*
+**[1 Samuel 12:20-25](/bible/1-samuel/12#v20)**  *[[2:33:44](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=9224s)]*
 
 > <sup>[20](/bible/1-samuel/12#v20)</sup> And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart;
 >
@@ -527,7 +527,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 - Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart. It pleased the Lord to make you his people; he will not forsake his people for his great name's sake, but you have to turn to him.
 - God forbid that I should sin against the Lord in ceasing to pray for you: but I will teach you the good and the right way. That is the charge: teach the people the good and the right way to walk, and the people have to be willing to listen. But if ye shall still do wickedly, ye shall be consumed. The teacher's hands are clean when he has done his part; what you do with it is on you.
 
-**[Psalms 25:2-5](/bible/psalms/25#v2)**  *[2:35:41]*
+**[Psalms 25:2-5](/bible/psalms/25#v2)**  *[[2:35:41](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=9341s)]*
 
 > <sup>[2](/bible/psalms/25#v2)</sup> O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.
 >
@@ -551,4 +551,4 @@ This session closed directly into the next class; announcements were carried in 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-25-listen-learn-live-the-art-of-enduring-in-the-truth)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=wTuOGE-zMSs)

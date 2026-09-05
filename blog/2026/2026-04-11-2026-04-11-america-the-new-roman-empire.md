@@ -24,7 +24,7 @@ Thumbnail video: a mock news bulletin. The US, Israel and Iran have come to an a
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[21:51]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[21:51](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1311s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -35,7 +35,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 - Christ was the greatest revolutionist in history; greater than Marcus Garvey. Roman law would have to disappear for his revolution.
 - Page 39 of the same book: the Latins gave the name Africa to the region around Carthage and Utica, and followed the Greeks in calling its Semitic population Poeni, that is, Phoenicians. The Latins became known as the Roman Empire. They are the ones that put the name Africa on the continent; do not say you never saw proof. The Latins were Edom, and they took over Japheth's Roman Republic. Some of you got that and some of you do not know what I am talking about yet; hold that thought.
 
-**[2 Esdras 11:1-6](/bible/2-esdras/11#v1)**  *[25:21]*
+**[2 Esdras 11:1-6](/bible/2-esdras/11#v1)**  *[[25:21](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1521s)]*
 
 > <sup>[1](/bible/2-esdras/11#v1)</sup> Then saw I a dream, and, behold, there came up from the sea an eagle, which had twelve feathered wings, and three heads.
 >
@@ -52,7 +52,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 - Ezra saw a dream: an eagle came up from the sea with twelve feathered wings and three heads. She spread her wings over all the earth, and all the winds of the air blew on her. Out of her feathers grew other contrary feathers, little and small, but her heads were at rest, and the head in the midst was greater than the others.
 - The eagle flew with her feathers and reigned upon the earth, and all things under heaven were subject unto her; no man spake against her, not one creature upon earth could come against this eagle. It was so powerful. This is the fourth empire.
 
-**[2 Esdras 12:10-11](/bible/2-esdras/12#v10)**  *[26:45]*
+**[2 Esdras 12:10-11](/bible/2-esdras/12#v10)**  *[[26:45](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1605s)]*
 
 > <sup>[10](/bible/2-esdras/12#v10)</sup> And he said unto me, This is the interpretation of the vision:
 >
@@ -60,7 +60,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 
 - Listen good: 2 Esdras 11 is answered in 2 Esdras 12. The two chapters go together; chapter 11 is the vision, chapter 12 is the interpretation. The eagle that came up from the sea is the kingdom which was seen in the vision of Daniel, but it was not expounded unto him. So let us read Daniel 7 and see what Daniel saw that was never explained to him.
 
-**[Daniel 7:3-7](/bible/daniel/7#v3)**  *[27:28]*
+**[Daniel 7:3-7](/bible/daniel/7#v3)**  *[[27:28](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1648s)]*
 
 > <sup>[3](/bible/daniel/7#v3)</sup> And four great beasts came up from the sea, diverse one from another.
 >
@@ -74,7 +74,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 - The third, like a leopard with four wings of a fowl and four heads: that is the Greeks. The four wings are the four major armies of Alexander's four generals, and the four heads are the generals who divided the kingdom: Lysimachus, Ptolemy, Cassander and Seleucus.
 - Then the fourth beast, dreadful and terrible and strong exceedingly, with great iron teeth; it devoured and brake in pieces and stamped the residue with its feet, diverse from all the beasts before it, and it had ten horns. Notice it does not give you an animal symbol for the fourth beast the way it gave the lion, the bear and the leopard. Daniel never understood that the fourth kingdom would be represented by the eagle; the Most High declared that to Ezra.
 
-**[2 Esdras 12:14-15](/bible/2-esdras/12#v14)**  *[30:54]*
+**[2 Esdras 12:14-15](/bible/2-esdras/12#v14)**  *[[30:54](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1854s)]*
 
 > <sup>[14](/bible/2-esdras/12#v14)</sup> In the same shall twelve kings reign, one after another:
 >
@@ -82,7 +82,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 
 - In the same shall twelve kings reign, one after another; the twelve wings, or feathers, are twelve kings. Whereof the second shall begin to reign and shall have more time than any of the twelve: that is Augustus Caesar, who reigned the longest. Shown on screen: Birth of an Empire, coins of the twelve Caesars. We are going to go through them slowly.
 
-**[2 Esdras 11:12-19](/bible/2-esdras/11#v12)**  *[32:16]*
+**[2 Esdras 11:12-19](/bible/2-esdras/11#v12)**  *[[32:16](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1936s)]*
 
 > <sup>[12](/bible/2-esdras/11#v12)</sup> And I looked, and, behold, on the right side there arose one feather, and reigned over all the earth;
 >
@@ -106,7 +106,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 - Then came a voice: Hear thou that hast borne rule over the earth so long, before thou beginnest to appear no more, there shall none after thee attain unto thy time, neither unto the half thereof. No Caesar after Augustus would reign as long as his 41 years.
 - Then arose the third and reigned as the other before, and appeared no more also: Tiberius, born 42 BC, died AD 37, reign AD 14 to 37, stepson of Augustus, reclusive yet an effective military general. So went it with all the residue one after another: every one reigned and then appeared no more. There were twelve in total.
 
-**[Luke 2:1-5](/bible/luke/2#v1)**  *[38:28]*
+**[Luke 2:1-5](/bible/luke/2#v1)**  *[[38:28](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2308s)]*
 
 > <sup>[1](/bible/luke/2#v1)</sup> And it came to pass in those days, that there went out a decree from Cesar Augustus, that all the world should be taxed.
 >
@@ -122,27 +122,27 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 - Joseph went up from Nazareth to Bethlehem, because he was of the house and lineage of David, to be taxed with Mary his espoused wife. To be taxed with Mary means they filed jointly. So I do not know where brothers and sisters get this idea that we are sovereign and do not have to pay taxes; you are going to get yourself jacked up, and anybody who listens to you.
 - Read from the screen: Tiberius Caesar (reign AD 14 to 37) was the Roman emperor during the events covering approximately Acts 1 through Acts 10: the establishment of the church at Pentecost, the early growth of the community in Jerusalem, and the initial persecution leading to the dispersion of believers. Tiberius was emperor during the crucifixion (AD 30 or 33) and the opening chapters of Acts, and reigned until his death in AD 37, around the events of Acts 9 or 10.
 
-**[Luke 3:1](/bible/luke/3#v1)**  *[40:31]*
+**[Luke 3:1](/bible/luke/3#v1)**  *[[40:31](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2431s)]*
 
 > <sup>[1](/bible/luke/3#v1)</sup> Now in the fifteenth year of the reign of Tiberius Cesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 
 - Luke 2:1 names Caesar Augustus; Luke 3:1 names Tiberius. These are the feathers we are reading about in Esdras. When you read the four gospels, Tiberius is the Caesar of the time Christ was an adult.
 - The fourth feather: Caligula, born AD 12, died AD 41, reign AD 37 to 41, the first Roman emperor to be assassinated; initiated construction of Roman aqueducts. Within the book of Acts his reign roughly corresponds to Acts 7 (the death of Stephen) through early Acts 12: the persecution following Stephen's death and Saul's conversion (circa AD 35 to 36), Peter's vision and ministry in Acts 10 and 11 around the time Caligula's persecution of Jews in Alexandria prompted a crisis, and Acts 12 (the death of James and the imprisonment of Peter under Herod Agrippa I) just after Caligula's assassination.
 
-**[Acts 18:2](/bible/acts/18#v2)**  *[43:16]*
+**[Acts 18:2](/bible/acts/18#v2)**  *[[43:16](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2596s)]*
 
 > <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 
 - The fifth feather: Claudius, born 10 BC, died AD 54, reign AD 41 to 54; began the conquest of Britain, presided at public trials. He is explicitly mentioned in Acts: he commanded all Jews to depart from Rome, which is why Aquila and Priscilla had lately come from Italy, historically dated around AD 49 to 50.
 
-**[Acts 11:28](/bible/acts/11#v28)**  *[45:20]*
+**[Acts 11:28](/bible/acts/11#v28)**  *[[45:20](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2720s)]*
 
 > <sup>[28](/bible/acts/11#v28)</sup> And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cesar.
 
 - Agabus signified by the spirit that there should be great dearth throughout all the world, which came to pass in the days of Claudius Caesar. Understand that Caligula was Caesar when this was prophesied; Claudius came into power four or five years later, and that is when the famine hit, around AD 45 to 46. This is why, when we tell you to prepare, black people say it did not happen this year or next, so it is not going to happen. This did not occur for five years. Just listen closely when we tell you things.
 - So I do not know why people say the Bible is not a history book. It gives you the Caesars all in there.
 
-**[Acts 25:10-12](/bible/acts/25#v10)**  *[48:07]*
+**[Acts 25:10-12](/bible/acts/25#v10)**  *[[48:07](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2887s)]*
 
 > <sup>[10](/bible/acts/25#v10)</sup> Then said Paul, I stand at Cesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.
 >
@@ -153,7 +153,7 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 - The sixth feather: Nero, born AD 37, died AD 68, reign AD 54 to 68; the great fire of Rome, which he started and blamed on the black Christians (the old CD burning software was named Nero after him, with Rome on fire for its symbol); built theaters and promoted cultural activities. His reign covers the latter part of Acts, Paul's trials in Caesarea and his journey to Rome, roughly Acts 25 through 28. His name is not found in the scriptures, but Nero is the Caesar to whom Paul appeals.
 - Paul said, I stand at Caesar's judgment seat, where I ought to be judged. If I be an offender, or have committed anything worthy of death, I refuse not to die; but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar. Festus answered, Hast thou appealed unto Caesar? Unto Caesar shalt thou go. So Paul found it better to be judged by the Romans than by the wicked Israelites, because those Pharisees wanted Paul put to death.
 
-**[Acts 28:30](/bible/acts/28#v30)**  *[49:30]*
+**[Acts 28:30](/bible/acts/28#v30)**  *[[49:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2970s)]*
 
 > <sup>[30](/bible/acts/28#v30)</sup> And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
 
@@ -170,7 +170,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - Page 56: by the time of Claudius, Antioch had an influential Jewish community. Page 29: at Caesarea Maritima, after the war, Jews were set against wild beasts; in one show 2,500 Jews were killed, either by beasts or by being burned alive, and Titus repeated the event in Berytus in Phoenicia. Those Jews were us at that time. Titus was thought to be profligate, cruel, immoral and greedy.
 - Jewish immigration into Asia Minor is recorded first in the time of Antiochus III. Asia Minor is where Paul went: Corinth, Ephesus, Philippi, Thessalonica, Colossae, Smyrna. Picture in the book: prisoners in chains, a bas relief from Smyrna, third century AD; two men with afros and yokes of iron on their necks being dragged by a Roman. Those two were our brothers. That is why we read the letter to Smyrna.
 
-**[Revelation 2:8](/bible/revelation/2#v8)**  *[57:45]*
+**[Revelation 2:8](/bible/revelation/2#v8)**  *[[57:45](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3465s)]*
 
 > <sup>[8](/bible/revelation/2#v8)</sup> And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
 
@@ -178,7 +178,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - More pictures from the same book: a gladiator fighting a bear (bears, lions, panthers, elephants and rhinoceroses were popular fighting animals in the arena; see 1 Corinthians 15:32, I have fought with beasts at Ephesus), a gladiator fighting a bull, and the man has an afro; page 303, Africans boxing. Those were still the Jews. They put us in sports to fight each other; that is the origin of the boxing some of you love so much, a sport for the white man.
 - The twelfth feather: Domitian, born AD 51, died AD 96, reign AD 81 to 96, rebuilt the economy and restored Rome, known as totalitarian; ruled fifteen years. John the Revelator died around AD 96, right around the time of Domitian.
 
-**[2 Esdras 12:19-21](/bible/2-esdras/12#v19)**  *[60:29]*
+**[2 Esdras 12:19-21](/bible/2-esdras/12#v19)**  *[[60:29](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3629s)]*
 
 > <sup>[19](/bible/2-esdras/12#v19)</sup> And whereas thou sawest the eight small under feathers sticking to her wings, this is the interpretation:
 >
@@ -192,7 +192,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - Book read in class, History of the Jews: "AD 197, the emperor Septimius Severus, in the commencement of his reign, declared war against the Samaritans and Jews. They had settlements in Galilee, but the prohibition which excluded them from entering the precincts of Jerusalem was still enforced." So Septimius held to the same dictates of Rome; he could not stand the Samaritans and the Jews, his own people, because they were keeping the commandments, and he kept the law that after AD 70 we were forbidden from the homeland. "In order to reward their fidelity to him when Pescennius Niger was competitor for the throne, he allowed them the privileges of Roman citizenship, and rendered them eligible to offices of trust and honor." Pescennius Niger was also black.
 - And what did Septimius Severus do? He married the white woman.
 
-**[Tobit 4:12-13](/bible/tobit/4#v12)**  *[65:58]*
+**[Tobit 4:12-13](/bible/tobit/4#v12)**  *[[65:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3958s)]*
 
 > <sup>[12](/bible/tobit/4#v12)</sup> Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father’s tribe: for we are the children of the prophets, Noe, Abraham, Isaac, and Jacob: remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred, and were blessed in their children, and their seed shall inherit the land.
 >
@@ -201,7 +201,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father's tribe. The Most High calls marrying a strange woman whoredom. We are the children of the prophets Noah, Abraham, Isaac and Jacob; our fathers from the beginning all married wives of their own kindred and were blessed in their children, and their seed shall inherit the land.
 - Love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them. It is hatred when you do not take a wife of your own people. For in pride is destruction and much trouble: you have pride when you say, I do not want an Israelite woman, I want a strange woman. And in lewdness is decay and great want: when they divorce you, they take everything you have. Ask the athletes and entertainers who married strange wives; they took the money and gave it home to daddy.
 
-**[2 Esdras 12:16-21](/bible/2-esdras/12#v16)**  *[69:30]*
+**[2 Esdras 12:16-21](/bible/2-esdras/12#v16)**  *[[69:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4170s)]*
 
 > <sup>[16](/bible/2-esdras/12#v16)</sup> And this do the twelve wings signify, which thou sawest.
 >
@@ -219,7 +219,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - After the time of that kingdom there shall arise great strivings, and it shall stand in peril of falling; nevertheless it shall not then fall, but shall be restored again to his beginning. Remember that phrase, restored again to his beginning. That is the Renaissance, and that is Revelation 13:3, which we will read later.
 - Two of them shall perish, the middle time approaching. The middle time is the middle ages. This was the time of Septimius Severus, AD 193, when Didius Julianus was killed. Watch Malachi.
 
-**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[73:35]*
+**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[73:35](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4415s)]*
 
 > <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
 >
@@ -233,7 +233,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - Whereas Edom saith, We are impoverished. When was that? The dark ages, the middle ages. In Genesis 36 they were the dukes of Edom; they were rich. Here Edom says we are impoverished when the middle time approached, as we read in 2 Esdras 12:21.
 - But we will return and build the desolate places. When did they return? The Renaissance, around 1453. From the Renaissance until now, Esau has built the desolate places. Thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them the border of wickedness, and the people against whom the Lord hath indignation for ever. The Most High has righteous anger against Edom for how long? Forever.
 
-**[Revelation 13:1-3](/bible/revelation/13#v1)**  *[75:39]*
+**[Revelation 13:1-3](/bible/revelation/13#v1)**  *[[75:39](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4539s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -247,7 +247,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - The dragon gave him his power, and his seat, and great authority: this last kingdom was given power by Satan.
 - I saw one of his heads as it were wounded to death: write this down, the Roman Empire was wounded to death when Septimius took it over. And his deadly wound was healed: remember Malachi, we are impoverished, but we will return and build the desolate places. The wound was the dark ages; Rome came back in 1453 in the Renaissance. And all the world wondered after the beast.
 
-**[Revelation 13:11-12](/bible/revelation/13#v11)**  *[79:46]*
+**[Revelation 13:11-12](/bible/revelation/13#v11)**  *[[79:46](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4786s)]*
 
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
 >
@@ -258,7 +258,7 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - And causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed. When we went to the Vatican, even the tour guide said the statues of Peter, James, John, Isaiah and Malachi were originally ancient Roman gods; they did not want to tear them down, so they just changed the names. Zeus became Peter. Everything is based on ancient Rome.
 - Clip played: Netanyahu asked what he is reading; a book by the historian Barry Strauss called The Jews Against Rome. "Well, we lost that one. I think they have to win the next war." He is trying to say they lost in AD 70, but that was not them; that was us. They love taking our history. In the same clip: "The United States is the new Rome. We are Rome. What Rome was at the time, we are today; the empire that has the greatest amount of power in the world." Many of them know that America is the new Rome.
 
-**[2 Esdras 11:37-40](/bible/2-esdras/11#v37)**  *[85:58]*
+**[2 Esdras 11:37-40](/bible/2-esdras/11#v37)**  *[[85:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5158s)]*
 
 > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
 >
@@ -272,13 +272,13 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - The fourth came and overcame all the beasts that were past: the same fourth beast of Daniel 7. And had power over the world with great fearfulness, and over the whole compass of the earth: shown on the screen, the map of America's military bases around the world. From Rome to the United States of America, they have ruled and dominated collectively, with much wicked oppression, and dwelt so long upon the earth with deceit.
 - Book shown: Jews vs. Rome, Two Centuries of Rebellion Against the World's Mightiest Empire, by Barry Strauss, in which they talk about how America is the new Rome.
 
-**[1 Maccabees 8:1](/bible/1-maccabees/8#v1)**  *[88:42]*
+**[1 Maccabees 8:1](/bible/1-maccabees/8#v1)**  *[[88:42](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5322s)]*
 
 > <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - Judas Maccabeus had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them. Remember the Maccabees are around 167 to 168 BC. The Roman Republic began in 509 BC with the overthrow of the Roman monarchy (the revolution led by Lucius Junius Brutus deposing the last king, Tarquinius Superbus) and a government led by elected consuls, and ended in 27 BC when the Senate granted Octavian the title Augustus. So in 1 Maccabees 8 this is the Roman Republic; this is Japheth. Julius Caesar was the dictator at the Republic's end and passed the mantle to Augustus; the Bible tells you Julius was the beginning of the Empire, regardless of what Google says.
 
-**[1 Maccabees 8:13-16](/bible/1-maccabees/8#v13)**  *[91:32]*
+**[1 Maccabees 8:13-16](/bible/1-maccabees/8#v13)**  *[[91:32](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5492s)]*
 
 > <sup>[13](/bible/1-maccabees/8#v13)</sup> Also that, whom they would help to a kingdom, those reign; and whom again they would, they displace: finally, that they were greatly exalted:
 >
@@ -710,4 +710,4 @@ Closing reading: 1 Corinthians 11:23-30, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-11-america-the-new-roman-empire)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=ZnReLwFHcS8)

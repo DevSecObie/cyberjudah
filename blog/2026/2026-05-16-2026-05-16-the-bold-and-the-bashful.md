@@ -20,7 +20,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 ## Scriptures Opened
 
-**[Psalms 82:1-6](/bible/psalms/82#v1)**  *[20:06]*
+**[Psalms 82:1-6](/bible/psalms/82#v1)**  *[[20:06](https://www.youtube.com/watch?v=z55asCbUER8&t=1206s)]*
 
 > <sup>[1](/bible/psalms/82#v1)</sup> God standeth in the congregation of the mighty; he judgeth among the gods.
 >
@@ -40,7 +40,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - They know not, neither will they understand; they walk on in darkness. The gods on the earth right now do not know this Bible. Now we are in darkness, now we are in sin.
 - I have said, Ye are gods; and all of you are children of the Most High. God said it, not man. You are a god on this earth, black man, Hispanic man; why do we not act like it? Put your chest out and your chin up, and speak with some confidence in your voice. But how do we move through society? Nobody cares about me, I make all kinds of mistakes, I just want to curl up in bed. That is the mentality we have, but that is not supposed to be so.
 
-**[Exodus 1:8-10](/bible/exodus/1#v8)**  *[24:04]*
+**[Exodus 1:8-10](/bible/exodus/1#v8)**  *[[24:04](https://www.youtube.com/watch?v=z55asCbUER8&t=1444s)]*
 
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
 >
@@ -51,7 +51,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - There arose up a new king over Egypt: a new king means a new kingdom arising, the 17th dynasty, which knew not Joseph.
 - Behold, the people of the children of Israel are more and mightier than we. America did the same thing: the children of Israel are more than us and stronger than us, so let us deal wisely with them, lest they multiply, and when there falleth out any war, they join also unto our enemies and fight against us.
 
-**[Psalms 83:3-7](/bible/psalms/83#v3)**  *[25:42]*
+**[Psalms 83:3-7](/bible/psalms/83#v3)**  *[[25:42](https://www.youtube.com/watch?v=z55asCbUER8&t=1542s)]*
 
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 >
@@ -67,7 +67,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - They have said, Come, and let us cut them off from being a nation. They cut us off from being the nation of Israel; now you are African-American, Haitian, Jamaican, Kenyan, Ugandan, Tanzanian, Ghanaian, all these new labels. But you are still one race: the Israelites.
 - They have consulted together with one consent: they are all in agreement. They are confederate against thee: the tabernacles of Edom, the so-called white man, the number one oppressor and colonizer; the Ishmaelites, the Arabs; Moab; the Hagarenes; Gebal, Ammon, and Amalek; the Philistines with the inhabitants of Tyre.
 
-**[Psalms 81:8-9](/bible/psalms/81#v8)**  *[29:08]*
+**[Psalms 81:8-9](/bible/psalms/81#v8)**  *[[29:08](https://www.youtube.com/watch?v=z55asCbUER8&t=1748s)]*
 
 > <sup>[8](/bible/psalms/81#v8)</sup> Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;
 >
@@ -76,7 +76,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me. There shall no strange god be in thee; neither shalt thou worship any strange god.
 - Black man, Hispanic man, have you been given a strange god? Yes, you have. The Lord said no strange god: no Cesare Borgia white Jesus, no Allah, no Buddha. Through the Berlin Conference and the white Christian missionaries, the strange god went all over the world. And it is here in America too; your mama has white Jesus hanging on her wall right now.
 
-**[Daniel 11:39](/bible/daniel/11#v39)**  *[29:42]*
+**[Daniel 11:39](/bible/daniel/11#v39)**  *[[29:42](https://www.youtube.com/watch?v=z55asCbUER8&t=1782s)]*
 
 > <sup>[39](/bible/daniel/11#v39)</sup> Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
 
@@ -85,7 +85,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - And he shall cause them to rule over many: they rule that land so thoroughly that they extract the resources and the people are not even upset about it. Testimony read in class: brothers in Kenya found a gold nugget in a stream, and it was worthless to them, because in Kenya you need a license to do anything with it; if they try to sell it they can go to jail. But a merchant can come from overseas, refine that same nugget, and it is worth thousands.
 - And shall divide the land for gain: before the 1884 Berlin Conference, Africa did not have these borders. That is where they divided up the continent: the French with the majority, Belgium with the Congo, the British with Kenya, the Germans in Tanzania, the Portuguese in Angola, the Italians in Eritrea and Somalia. All the Caucasian nations got wealthy and continue to get wealthy, because today it is called neo-colonialism. It is not over just because they physically left; the resources are still getting extracted.
 
-**[Psalms 81:11-14](/bible/psalms/81#v11)**  *[41:30]*
+**[Psalms 81:11-14](/bible/psalms/81#v11)**  *[[41:30](https://www.youtube.com/watch?v=z55asCbUER8&t=2490s)]*
 
 > <sup>[11](/bible/psalms/81#v11)</sup> But my people would not hearken to my voice; and Israel would none of me.
 >
@@ -98,7 +98,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - But my people would not hearken to my voice; and Israel would none of me. So I gave them up unto their own hearts' lust: and they walked in their own counsels. The Lord said, go ahead, do what you do.
 - Oh that my people had hearkened unto me: I should soon have subdued their enemies, and turned my hand against their adversaries. If we had done what the Lord told us to do, he would have put our enemies under our foot.
 
-**[Leviticus 26:17-19](/bible/leviticus/26#v17)**  *[42:40]*
+**[Leviticus 26:17-19](/bible/leviticus/26#v17)**  *[[42:40](https://www.youtube.com/watch?v=z55asCbUER8&t=2560s)]*
 
 > <sup>[17](/bible/leviticus/26#v17)</sup> And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.
 >
@@ -118,20 +118,20 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
     I will send a faintness into their hearts in the lands of their enemies: mentally and spiritually you are going to be broken down. The sound of a shaken leaf shall chase them: no courage. And ye shall have no power to stand before your enemies. Think about that spiritually in 2026: when black people get mad at other black people, we show no mercy; we came up with terms for it, turning up, crashing out. But do we have that same level of aggression toward the nations that oppress us? Not at all. We will stand aggressive with each other all day long, but we will not stand before the other nations. And to be clear, we do not advocate violence on anybody; the point is the spirit is not the same.
 
-**[Proverbs 23:7](/bible/proverbs/23#v7)**  *[55:31]*
+**[Proverbs 23:7](/bible/proverbs/23#v7)**  *[[55:31](https://www.youtube.com/watch?v=z55asCbUER8&t=3331s)]*
 
 > <sup>[7](/bible/proverbs/23#v7)</sup> For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
 
 - For as he thinketh in his heart, so is he. You are what you think of yourself, brothers and sisters. If you think you are nothing, you become what you think you are. I am just here, I have no purpose, I am just going to blend in and cruise by and hope nobody sees me: you are in the wrong spirit.
 - The characteristics you take on are based on what you have practiced. If you are a brother with low self-esteem, you have been grooming that for years and years, and it has become your character. Now you have to fight that spirit.
 
-**[Isaiah 13:12](/bible/isaiah/13#v12)**  *[57:13]*
+**[Isaiah 13:12](/bible/isaiah/13#v12)**  *[[57:13](https://www.youtube.com/watch?v=z55asCbUER8&t=3433s)]*
 
 > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 
 - I will make a man more precious than fine gold; even a man than the golden wedge of Ophir. Which one of you brothers is fine gold? Even if we put it to the test and you fail, you still have to believe it; you work on it until you are that fine gold.
 
-**[1 Samuel 9:1-2](/bible/1-samuel/9#v1)**  *[58:55]*
+**[1 Samuel 9:1-2](/bible/1-samuel/9#v1)**  *[[58:55](https://www.youtube.com/watch?v=z55asCbUER8&t=3535s)]*
 
 > <sup>[1](/bible/1-samuel/9#v1)</sup> Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
 >
@@ -140,7 +140,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Now we go into a case study of King Saul: was he a good king or a bad king, what did he do right, what did he do wrong?
 - Kish was a mighty man of power, and he had a son whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he. From his shoulders and upward he was higher than any of the people. Saul was the top of the food chain, the cream of the crop, thus saith the Lord.
 
-**[1 Samuel 9:15-17](/bible/1-samuel/9#v15)**  *[1:00:39]*
+**[1 Samuel 9:15-17](/bible/1-samuel/9#v15)**  *[[1:00:39](https://www.youtube.com/watch?v=z55asCbUER8&t=3639s)]*
 
 > <sup>[15](/bible/1-samuel/9#v15)</sup> Now the Lord had told Samuel in his ear a day before Saul came, saying,
 >
@@ -151,14 +151,14 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - The Lord told Samuel in his ear a day before Saul came: tomorrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines.
 - When Samuel saw Saul, the Lord said unto him, Behold the man whom I spake to thee of; this same shall reign over my people. Saul was the man the Lord himself chose.
 
-**[1 Samuel 9:21](/bible/1-samuel/9#v21)**  *[1:01:50]*
+**[1 Samuel 9:21](/bible/1-samuel/9#v21)**  *[[1:01:50](https://www.youtube.com/watch?v=z55asCbUER8&t=3710s)]*
 
 > <sup>[21](/bible/1-samuel/9#v21)</sup> And Saul answered and said, Am not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me?
 
 - And Saul answered, Am not I a Benjamite, of the smallest of the tribes of Israel, and my family the least of all the families of the tribe of Benjamin? Wherefore then speakest thou so to me? What did Saul think of himself?
 - Notice something, brothers: the leadership will see the best in you, and you will not even see it for yourself, because you have that low self-esteem. We will see greatness in you, and you say, I am just a soldier, I am just an officer of ten, I cannot do anything, I am just going to blend in and not maximize my potential. Some of you are in this Saul spirit right here: bashfulness, lack of confidence, low self-esteem, scared to make a mistake, scared of correction and rebuke. But how did the Lord see King Saul? Go back to verse 2: there was not a goodlier person than he.
 
-**[1 Samuel 15:17-24](/bible/1-samuel/15#v17)**  *[1:04:40]*
+**[1 Samuel 15:17-24](/bible/1-samuel/15#v17)**  *[[1:04:40](https://www.youtube.com/watch?v=z55asCbUER8&t=3880s)]*
 
 > <sup>[17](/bible/1-samuel/15#v17)</sup> And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel?
 >
@@ -193,7 +193,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
     And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
 
-**[1 Samuel 10:1-8](/bible/1-samuel/10#v1)**  *[1:14:08]*
+**[1 Samuel 10:1-8](/bible/1-samuel/10#v1)**  *[[1:14:08](https://www.youtube.com/watch?v=z55asCbUER8&t=4448s)]*
 
 > <sup>[1](/bible/1-samuel/10#v1)</sup> Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the Lord hath anointed thee to be captain over his inheritance?
 >
@@ -215,7 +215,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Samuel gave Saul the signs: the two men by Rachel's sepulchre, the three men going up to God to Bethel who would give him two loaves of bread, and the company of prophets with a psaltery, a tabret, a pipe, and a harp. The Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man. God is with thee. Brothers, God is with you; you have to believe that.
 - And the instruction: thou shalt go down before me to Gilgal; seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do. That is the commandment. Let us see what King Saul does in his bashfulness.
 
-**[1 Samuel 13:8-13](/bible/1-samuel/13#v8)**  *[1:18:05]*
+**[1 Samuel 13:8-13](/bible/1-samuel/13#v8)**  *[[1:18:05](https://www.youtube.com/watch?v=z55asCbUER8&t=4685s)]*
 
 > <sup>[8](/bible/1-samuel/13#v8)</sup> And he tarried seven days, according to the set time that Samuel had appointed: but Samuel came not to Gilgal; and the people were scattered from him.
 >
@@ -234,7 +234,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Saul said, Because I saw that the people were scattered from me, and thou camest not within the days appointed, and the Philistines gathered themselves together, I forced myself therefore, and offered a burnt offering. I did it on my own; I am self-willed; I was scared; you were not around.
 - And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the Lord thy God: for now would the Lord have established thy kingdom upon Israel for ever.
 
-**[1 Samuel 28:3-5](/bible/1-samuel/28#v3)**  *[1:23:02]*
+**[1 Samuel 28:3-5](/bible/1-samuel/28#v3)**  *[[1:23:02](https://www.youtube.com/watch?v=z55asCbUER8&t=4982s)]*
 
 > <sup>[3](/bible/1-samuel/28#v3)</sup> Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.
 >
@@ -269,7 +269,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
     And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell. This is the level we have to get to: fear the Most High, not man.
 
-**[1 Samuel 28:6-9](/bible/1-samuel/28#v6)**  *[1:30:51]*
+**[1 Samuel 28:6-9](/bible/1-samuel/28#v6)**  *[[1:30:51](https://www.youtube.com/watch?v=z55asCbUER8&t=5451s)]*
 
 > <sup>[6](/bible/1-samuel/28#v6)</sup> And when Saul enquired of the Lord, the Lord answered him not, neither by dreams, nor by Urim, nor by prophets.
 >
@@ -291,7 +291,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
     There shall not be found among you any one that useth divination, or an observer of times, or an enchanter, or a witch, or a charmer, or a consulter with familiar spirits. This is the commandment Saul turned around and broke.
 
-**[1 Samuel 28:16-19](/bible/1-samuel/28#v16)**  *[1:35:47]*
+**[1 Samuel 28:16-19](/bible/1-samuel/28#v16)**  *[[1:35:47](https://www.youtube.com/watch?v=z55asCbUER8&t=5747s)]*
 
 > <sup>[16](/bible/1-samuel/28#v16)</sup> Then said Samuel, Wherefore then dost thou ask of me, seeing the Lord is departed from thee, and is become thine enemy?
 >
@@ -305,7 +305,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - The Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David: because thou obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek.
 - Moreover the Lord will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me. Your day is over, Saul: no more kingdom, no more life. Cut off.
 
-**[Ecclesiasticus 20:22](/bible/sirach/20#v22)**  *[1:39:11]*
+**[Ecclesiasticus 20:22](/bible/sirach/20#v22)**  *[[1:39:11](https://www.youtube.com/watch?v=z55asCbUER8&t=5951s)]*
 
 > <sup>[22](/bible/sirach/20#v22)</sup> There is that destroyeth his own soul through bashfulness, and by accepting of persons overthroweth himself.
 
@@ -316,7 +316,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Video played on shyness: everything a great communicator does is just a series of behaviors. When people say, I am shy, it is because you have been practicing the shy behaviors for 15, 20, 30 years. Confidence is another series of behaviors you can practice. It becomes part of your identity and you feel stuck, but you are not.
 - Video played on being uncomfortable: everything you want in life is on the other side of being uncomfortable. Break yourself of your weaknesses. It takes a man to look in the mirror and say, I have problems, and then you do not put your head down; you put your head up and start fixing them one by one. You have been comforted in your vices and your timidness for years; you have to go to war with that spirit.
 
-**[2 Esdras 14:14](/bible/2-esdras/14#v14)**  *[1:50:51]*
+**[2 Esdras 14:14](/bible/2-esdras/14#v14)**  *[[1:50:51](https://www.youtube.com/watch?v=z55asCbUER8&t=6651s)]*
 
 > <sup>[14](/bible/2-esdras/14#v14)</sup> Let go from thee mortal thoughts, cast away the burdens of man, put off now the weak nature,
 
@@ -324,7 +324,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - The weak nature is your comfortability. I am used to doing it like this; that is just me. That is the lie you tell yourself. That weak nature is stopping you from being the Proverbs 31 woman that listens to her husband, or the husband that guides his house manfully. Some take the easy way out: no, you are scared to lead your own house. Being nice, brothers will tolerate you, but they will not respect you. You have to break the cycle of comfortability and make yourself uncomfortable doing what you are not used to, because you are trying to get somewhere you have never been. If you are not trying to get there, you will end up destroying yourself through bashfulness.
 - As we grow in the body, we grow in the truth. Sometimes the Lord brings you to a certain place, and now is the time you get taught: I let you get this far, but you cannot go further until you are okay with getting uncomfortable to break those weaknesses.
 
-**[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[1:53:38]*
+**[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[[1:53:38](https://www.youtube.com/watch?v=z55asCbUER8&t=6818s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 >
@@ -346,7 +346,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - The nations use our people because we invite them to use us. We are bashful; we do not think we can do it ourselves, so we reach out to the colonizers to be our daddies. The leader is supposed to have the people's best interest at heart.
 - Video played: a bishop teaching in Kenya said as soon as the church heard Jesus was black, they were infuriated and threw rocks, just from reading the scripture, because a people taught to hate themselves hate anything black.
 
-**[Matthew 17:20-21](/bible/matthew/17#v20)**  *[2:12:43]*
+**[Matthew 17:20-21](/bible/matthew/17#v20)**  *[[2:12:43](https://www.youtube.com/watch?v=z55asCbUER8&t=7963s)]*
 
 > <sup>[20](/bible/matthew/17#v20)</sup> And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
 >
@@ -355,7 +355,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - How do we get out of this bashful spirit? Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. If you have faith, you will have confidence; you will speak strong; you will not be bashful.
 - Howbeit this kind goeth not out but by prayer and fasting. If you have the bashful spirit, pray and fast about it. If you see your leader is lacking confidence, pray and fast for him. Has anybody tried that? The leadership did not grow up in this truth; we were all dealing with the same things, and we have to make ourselves uncomfortable and fight that spirit to be men of God.
 
-**[Romans 10:17-21](/bible/romans/10#v17)**  *[2:14:56]*
+**[Romans 10:17-21](/bible/romans/10#v17)**  *[[2:14:56](https://www.youtube.com/watch?v=z55asCbUER8&t=8096s)]*
 
 > <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
 >
@@ -372,14 +372,14 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you: the northern kingdom. Esaias is very bold, and saith, I was found of them that sought me not. How many of you were seeking the Lord in the world? You were in church on a Sunday banging a tambourine; you were doing Mother's Day last week.
 - But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. That disobedient people now has to receive the word of God and change their lives.
 
-**[Wisdom of Solomon 5:1](/bible/wisdom-of-solomon/5#v1)**  *[2:18:21]*
+**[Wisdom of Solomon 5:1](/bible/wisdom-of-solomon/5#v1)**  *[[2:18:21](https://www.youtube.com/watch?v=z55asCbUER8&t=8301s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
 
 - Then shall the righteous man stand in great boldness before the face of such as have afflicted him. You are supposed to be bold with the word of God. When you are bold with the word, the people can see this brother believes what he is saying, and they can follow him.
 - But if you are bashful, unsure, lacking confidence, speaking with your head in your chest, who is going to follow you? Sisters, who wants to follow a man like that? Nobody wants to follow a timid, shy man. They are going to manipulate you and run over you. If you are bashful and a leader, you are not the leader; you are the one being led. You just have a title.
 
-**[2 Corinthians 12:1-4](/bible/2-corinthians/12#v1)**  *[2:20:37]*
+**[2 Corinthians 12:1-4](/bible/2-corinthians/12#v1)**  *[[2:20:37](https://www.youtube.com/watch?v=z55asCbUER8&t=8437s)]*
 
 > <sup>[1](/bible/2-corinthians/12#v1)</sup> It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
 >
@@ -391,7 +391,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 - Paul is speaking of himself: I knew a man in Christ above fourteen years ago, caught up to the third heaven, caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter. Who is in the third heaven? The Father. Hold that thought for what happens to Paul at Lystra.
 
-**[Acts 14:1-7](/bible/acts/14#v1)**  *[2:21:43]*
+**[Acts 14:1-7](/bible/acts/14#v1)**  *[[2:21:43](https://www.youtube.com/watch?v=z55asCbUER8&t=8503s)]*
 
 > <sup>[1](/bible/acts/14#v1)</sup> And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
 >
@@ -410,7 +410,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - In Iconium, Paul and Barnabas so spake that a great multitude both of the Jews and also of the Greeks believed. Paul was not stationary; he was not local; he was traveling, moving around and around.
 - Long time therefore abode they speaking boldly in the Lord. They were not bashful. When an assault was made to stone them, they were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia. And there they preached the gospel. How did they preach it? Boldly.
 
-**[Acts 14:11-21](/bible/acts/14#v11)**  *[2:23:28]*
+**[Acts 14:11-21](/bible/acts/14#v11)**  *[[2:23:28](https://www.youtube.com/watch?v=z55asCbUER8&t=8608s)]*
 
 > <sup>[11](/bible/acts/14#v11)</sup> And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
 >
@@ -438,7 +438,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Then certain Jews from Antioch and Iconium persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead. They knocked Paul upside the head with stones, and he went to the third heavens: that is the vision he spoke of in 2 Corinthians 12.
 - Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe. And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch. They went right back. Just like the team in Kenya: when they stoned us, we went right back. We took those stones, brothers got hit in the jaw, and we came right back. We are not going anywhere.
 
-**[Acts 15:25-26](/bible/acts/15#v25)**  *[2:26:22]*
+**[Acts 15:25-26](/bible/acts/15#v25)**  *[[2:26:22](https://www.youtube.com/watch?v=z55asCbUER8&t=8782s)]*
 
 > <sup>[25](/bible/acts/15#v25)</sup> It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,
 >
@@ -447,7 +447,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul: men that have hazarded their lives for the name of our Lord Jesus Christ.
 - Brothers, you are not here to be a professional student. You are not here to sit forever on a Saturday with a notebook hearing breakdowns. Your job is to learn this gospel, build your spirit up, go forth and teach.
 
-**[Acts 5:34-42](/bible/acts/5#v34)**  *[2:27:30]*
+**[Acts 5:34-42](/bible/acts/5#v34)**  *[[2:27:30](https://www.youtube.com/watch?v=z55asCbUER8&t=8850s)]*
 
 > <sup>[34](/bible/acts/5#v34)</sup> Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
 >
@@ -472,26 +472,26 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - And when they had called the apostles, and beaten them, they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name. That is the level we have to get to: taking a beating for the Lord and rejoicing. How many of you could rejoice in that? Not many of us are there yet.
 - And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ. They did not go get their lick back; they kept teaching.
 
-**[2 Esdras 10:33](/bible/2-esdras/10#v33)**  *[2:32:03]*
+**[2 Esdras 10:33](/bible/2-esdras/10#v33)**  *[[2:32:03](https://www.youtube.com/watch?v=z55asCbUER8&t=9123s)]*
 
 > <sup>[33](/bible/2-esdras/10#v33)</sup> And he said unto me, Stand up manfully, and I will advise thee.
 
 - And he said unto me, Stand up manfully, and I will advise thee. How are we supposed to stand up, brothers? Manfully. And the Lord will advise us when we stand up manfully.
 
-**[Hebrews 11:6](/bible/hebrews/11#v6)**  *[2:32:37]*
+**[Hebrews 11:6](/bible/hebrews/11#v6)**  *[[2:32:37](https://www.youtube.com/watch?v=z55asCbUER8&t=9157s)]*
 
 > <sup>[6](/bible/hebrews/11#v6)</sup> But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
 
 - But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. If you have faith, you cannot be bashful; brothers will know where you stand.
 - One more thing on the quiet, shy, timid brother: you do not know what he is thinking. When you are at war next to a brother like that, holding sentry, how do you know he is not going to run on you when trouble comes? You do not. So it is a deceitful spirit; they hide in the cut. If you have faith, you will not be shy or timid, and the brothers around you will know exactly where you stand.
 
-**[Ephesians 6:16](/bible/ephesians/6#v16)**  *[2:36:05]*
+**[Ephesians 6:16](/bible/ephesians/6#v16)**  *[[2:36:05](https://www.youtube.com/watch?v=z55asCbUER8&t=9365s)]*
 
 > <sup>[16](/bible/ephesians/6#v16)</sup> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
 
 - Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. If you have no faith, you are quenching no darts; you will be taken away with the wicked.
 
-**[James 5:12-16](/bible/james/5#v12)**  *[2:36:41]*
+**[James 5:12-16](/bible/james/5#v12)**  *[[2:36:41](https://www.youtube.com/watch?v=z55asCbUER8&t=9401s)]*
 
 > <sup>[12](/bible/james/5#v12)</sup> But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.
 >
@@ -507,7 +507,7 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 - Is any sick among you? Let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: and the prayer of faith shall save the sick, and the Lord shall raise him up.
 - Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
 
-**[1 Samuel 10:6-7](/bible/1-samuel/10#v6)**  *[2:37:49]*
+**[1 Samuel 10:6-7](/bible/1-samuel/10#v6)**  *[[2:37:49](https://www.youtube.com/watch?v=z55asCbUER8&t=9469s)]*
 
 > <sup>[6](/bible/1-samuel/10#v6)</sup> And the Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 >
@@ -526,4 +526,4 @@ Reports and testimony from the recent trips to Kenya and Tanzania ran through th
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-16-the-bold-and-the-bashful)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=z55asCbUER8)

@@ -87,7 +87,7 @@ The liars.
 
 ## Scriptures Opened
 
-**[2 Corinthians 13:8](/bible/2-corinthians/13#v8)**  *[21:43]*
+**[2 Corinthians 13:8](/bible/2-corinthians/13#v8)**  *[[21:43](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1303s)]*
 
 > <sup>[8](/bible/2-corinthians/13#v8)</sup> For we can do nothing against the truth, but for the truth.
 
@@ -97,7 +97,7 @@ The liars.
 
 - And those who are meant to be in this truth, it does not matter how they hear the truth, whether it was in a positive light or a negative light. They are going to go look at some videos and say, oh damn, they are actually speaking the truth, I need to join. Because the true prophets of the Lord, we are like Manchurian candidates. The moment we hear it, we know that is the way. Whether it was from somebody talking trash about us or somebody talking good about us.
 
-**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[28:11]*
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[28:11](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1691s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
@@ -107,7 +107,7 @@ The liars.
 
 - That is it. He said the chain would not come off until we were mentally destroyed. What did he use to mentally destroy us? Christianity. So the same book that is our weapon for us, they were able to use against us, because they gave us the slave Bible with books missing. They were indoctrinating us with their garbage, and if we did not accept it, you got killed. Whosoever would not worship the image of the beast was put to death. And we accepted it, and by accepting it that is how the yoke was able to come off.
 
-**[Romans 10:17](/bible/romans/10#v17)**  *[1:07:43]*
+**[Romans 10:17](/bible/romans/10#v17)**  *[[1:07:43](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=4063s)]*
 
 > <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
 
@@ -117,7 +117,7 @@ The liars.
 
 - You want to increase your faith, stop being full of yourself. Things you do not understand, write them down. You should have a page you just call questions. Every time you notice something you do not understand, write it down. That way when the time comes, you are in a position where you can ask questions. We are not going to answer all the questions in one day, but at least you always have something. That is how you grow.
 
-**[Ephesians 6:16](/bible/ephesians/6#v16)**  *[1:10:07]*
+**[Ephesians 6:16](/bible/ephesians/6#v16)**  *[[1:10:07](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=4207s)]*
 
 > <sup>[16](/bible/ephesians/6#v16)</sup> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
 
@@ -129,7 +129,7 @@ The liars.
 
 - And is there an s at the end of darts? Yes. So that means there are going to be many trials, not one. And each one of them is aiming not only to kill you but to make it seem as though you never existed. So right now, while the pressure is not on the level where it is going to be, study hard, build up your faith, prepare yourself for your trials, because there are going to be many.
 
-**[Zechariah 5:1-3](/bible/zechariah/5#v1)**  *[1:14:18]*
+**[Zechariah 5:1-3](/bible/zechariah/5#v1)**  *[[1:14:18](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=4458s)]*
 
 > <sup>[1](/bible/zechariah/5#v1)</sup> Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 >
@@ -145,7 +145,7 @@ The liars.
 
 - For every one that stealeth shall be cut off. Is there a lot of thieves on this side of the world? And we are not talking about Ray Ray and Pooky. There is a main character that is just a thief. That dude just takes and takes and takes and he never has enough. So the scriptures say on this side of the earth they are going to be cut off.
 
-**[Exodus 21:16](/bible/exodus/21#v16)**  *[1:17:04]*
+**[Exodus 21:16](/bible/exodus/21#v16)**  *[[1:17:04](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=4624s)]*
 
 > <sup>[16](/bible/exodus/21#v16)</sup> And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.
 
@@ -155,7 +155,7 @@ The liars.
 
 - Especially Judah. Because Benji is proud: me have me own land, man have a nice banana tree. They boast against Judah. But guess what, you are still a slave too. Because when America said you cannot bring any more doctors from Cuba to come and help you, guess what you did? Yes sir, boss. And Bishop brought it out, the dude asked the question: so you all bad-mouthing Jamaica, so if we say no, can we fight America? Forty percent of our food comes from America. You are still a slave too. Talk about land of wood and water. You have no water, you have no land. We are oppressed together.
 
-**[Jeremiah 22:13](/bible/jeremiah/22#v13)**  *[1:25:09]*
+**[Jeremiah 22:13](/bible/jeremiah/22#v13)**  *[[1:25:09](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5109s)]*
 
 > <sup>[13](/bible/jeremiah/22#v13)</sup> Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour’s service without wages, and giveth him not for his work;
 
@@ -173,7 +173,7 @@ The liars.
 
     For he is not a God of the dead, but of the living: for all live unto him. So he is not the God of the dead. So that church is the church of the dead, because they worship the dead.
 
-**[Psalms 58:3](/bible/psalms/58#v3)**  *[45:26]*
+**[Psalms 58:3](/bible/psalms/58#v3)**  *[[45:26](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=2726s)]*
 
 > <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
 
@@ -183,7 +183,7 @@ The liars.
 
 - Speaking lies. They lie about who they are. They say they are the Jews. Are they the Jews? They say they are the Christians. Are they the Christians? No, they are the devil the Bible speaks of. So you are dealing with a lying nation that still cannot take accountability for all the murdering and the plundering, the thievery and the killing that they have done among our people. Till today you cannot go to school and learn the truth, because till today they teach that Christopher Columbus discovered the world. Do they not have statues of him? Do they not have holidays all over the world on his behalf? Did he actually do any of those things? At the end his own people put him in jail. That is how evil that dude was.
 
-**[Habakkuk 2:4](/bible/habakkuk/2#v4)**  *[1:00:52]*
+**[Habakkuk 2:4](/bible/habakkuk/2#v4)**  *[[1:00:52](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=3652s)]*
 
 > <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
 
@@ -193,7 +193,7 @@ The liars.
 
 - His soul is not upright in him. We all know that Esau is not right. And the hatred that he has towards us is going to be a perpetual hatred. He cannot change who he is.
 
-**[Psalms 137:7](/bible/psalms/137#v7)**  *[1:33:47]*
+**[Psalms 137:7](/bible/psalms/137#v7)**  *[[1:33:47](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5627s)]*
 
 > <sup>[7](/bible/psalms/137#v7)</sup> Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
 
@@ -203,7 +203,7 @@ The liars.
 
 - And look at the definition of pogrom: a violent riot or attack directed against a specific ethnic or religious group. That is what the crusades, the Inquisition and the forced conversions were always against. Us. That is what happened in slavery. It was just a continuation of the crusade. That is why they wore the same mask as the ones in Italy and the ones in Spain, the capirotes. It did not just appear out of thin air.
 
-**[Revelation 2:9](/bible/revelation/2#v9)**  *[1:40:37]*
+**[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:40:37](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6037s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 
@@ -213,7 +213,7 @@ The liars.
 
 - But are the synagogue of Satan. They are the synagogue of Satan because they practise Kabbalah. They practise Zoroastrianism. They have nothing to do with the law. They are pretending to keep the law, but they do not do it according to the law. Look at the little show strings hanging: that is not the law. That little curl on the side: that is not biblical. The yarmulke on their head: that is not biblical. They are not the people of the Lord.
 
-**[Psalms 50:16-20](/bible/psalms/50#v16)**  *[1:46:17]*
+**[Psalms 50:16-20](/bible/psalms/50#v16)**  *[[1:46:17](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6377s)]*
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
@@ -243,7 +243,7 @@ The liars.
 
     The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he? Who is running the earth? Who has military bases all over the world? Whose money is the money you must do business with? The so-called white man, Esau. Who has power to go to another country, take out their leader and bring him to their own country, and nothing happens to them? They did that in Libya. They did that recently in Haiti, they killed the president. He did not want the COVID vaccine, and he had just come from a meeting in Turkey with Russian officials and struck a deal with Russia to make Haiti what it is supposed to be. Two months after that: no, you have to go. And he covereth the faces of the judges thereof: who are the judges? We are. And our faces are covered because we are not known. You can see it on the walls of those churches in Russia, in Romania: you still have the black images that we left behind. But when they paint a new picture they paint it white. That is how they covered the face of the judges. All their movies, everything is always white. But in the Bible the judges are black.
 
-**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[1:50:14]*
+**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[1:50:14](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6614s)]*
 
 > <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
 >
@@ -261,7 +261,7 @@ The liars.
 
 - And they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever. They are going to call him the border of wickedness. That is why even the Arabs call him the Great Satan. Because no matter where this man goes, what follows? Death. Raping, pillaging. That is his character. He just cannot have enough. But as he is doing all this he claims to be Christian, he claims to be a Jew. But really, where does he get the power from? Satan.
 
-**[Luke 4:5-6](/bible/luke/4#v5)**  *[1:52:03]*
+**[Luke 4:5-6](/bible/luke/4#v5)**  *[[1:52:03](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6723s)]*
 
 > <sup>[5](/bible/luke/4#v5)</sup> And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time.
 >
@@ -271,7 +271,7 @@ The liars.
 
 - And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it. So the devil has power on this earth, because the Lord delivered this power to him, and on this earth he gives it to whoever he wants. And guess who said, I will take it? Who took the knee? Those cavemen. They were sitting in a cave. We are just their dogs, that is why they love dogs so much, that was the only friend they had. And they looked at us, nice castles, living the life, and said, we want that too. And the devil said, you do? I can give it to you. All you have to do is take a knee. And they said, what do we have to lose?
 
-**[Revelation 13:2](/bible/revelation/13#v2)**  *[1:54:38]*
+**[Revelation 13:2](/bible/revelation/13#v2)**  *[[1:54:38](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6878s)]*
 
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 
@@ -279,7 +279,7 @@ The liars.
 
 - However, at face value, remember the scripture says he speaks as a lamb but was really the dragon. So he has to put on that mask. No, we are God's people, we have churches we go to. No. Your churches do not represent God at all, because your churches are oppressing God's people. Until today you are doing the same thing.
 
-**[Genesis 4:3-8](/bible/genesis/4#v3)**  *[1:58:32]*
+**[Genesis 4:3-8](/bible/genesis/4#v3)**  *[[1:58:32](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=7112s)]*
 
 > <sup>[3](/bible/genesis/4#v3)</sup> And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord.
 >
@@ -305,7 +305,7 @@ The liars.
 
 - And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. So Cain killed his brother instead of following God's instruction. It is the same thing today. They hate us because they are not us and they can never be us. No matter how much they try to replace us, they can create a thousand churches, create a thousand doctrines, they can never replace us, because the word is sealed, signed, delivered. We are the chosen people. We are the Israelites the Bible speaks of, and the world belongs to us, and we are going to own this land.
 
-**[Obadiah 1:9-14](/bible/obadiah/1#v9)**  *[2:03:26]*
+**[Obadiah 1:9-14](/bible/obadiah/1#v9)**  *[[2:03:26](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=7406s)]*
 
 > <sup>[9](/bible/obadiah/1#v9)</sup> And thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.
 >
@@ -331,13 +331,13 @@ The liars.
 
 - Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress. They would not even allow some of us to escape. The Babylonians did not see us, we are trying to escape, and they are saying, no, no, they are right here. They cut us off. They are partakers with thieves and killers. So when another nation came against us they were right there with them. The enemy of my enemy is my friend. That is what they did. And that goes right back to the definition of pogrom.
 
-**[Jeremiah 49:7](/bible/jeremiah/49#v7)**  *[2:06:43]*
+**[Jeremiah 49:7](/bible/jeremiah/49#v7)**  *[[2:06:43](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=7603s)]*
 
 > <sup>[7](/bible/jeremiah/49#v7)</sup> Concerning Edom, thus saith the Lord of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
 
 - Concerning Edom, thus saith the Lord of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished? So this is concerning Edom.
 
-**[Jeremiah 49:9-10](/bible/jeremiah/49#v9)**  *[2:07:27]*
+**[Jeremiah 49:9-10](/bible/jeremiah/49#v9)**  *[[2:07:27](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=7647s)]*
 
 > <sup>[9](/bible/jeremiah/49#v9)</sup> If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.
 >
@@ -347,7 +347,7 @@ The liars.
 
 - But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself. But Esau, remember this is concerning Esau. They are different. Till today they are robbing Africa. It never ends. They never have enough. Esau is like the ocean: all the rivers run to it, but it is never full. It rains, rivers run to it, it is never going to be full. That is Esau. They are not like regular grape gatherers. They are not like regular thieves. They want everything. The apple tastes good? I want the tree. I want the land it stands on, because if I plant it in my country it is not going to have the same taste, because it is not the same land. They take everything. That is just their character.
 
-**[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[2:17:34]*
+**[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[2:17:34](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8254s)]*
 
 > <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 
@@ -357,13 +357,13 @@ The liars.
 
 - Or another gospel. Because the moment you accept white Jesus, guess what, you get another gospel. Refuse that doctrine if you want to save your soul, because you cannot enter the kingdom of God as a member of any of the Christian sects or cults. Those are cults, because you are following a doctrine that you cannot biblically prove. But they want to say we are in a cult.
 
-**[Zechariah 5:4](/bible/zechariah/5#v4)**  *[2:19:10]*
+**[Zechariah 5:4](/bible/zechariah/5#v4)**  *[[2:19:10](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8350s)]*
 
 > <sup>[4](/bible/zechariah/5#v4)</sup> I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 
 - I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof. So the chariots are going to enter into the house of the thief. And into the house of him that sweareth falsely by my name. Are they not swearing falsely by the Lord's name? We saw that already. They stole the land and they claim they are Jews. They claim they are Christians.
 
-**[Ezekiel 36:5](/bible/ezekiel/36#v5)**  *[2:20:03]*
+**[Ezekiel 36:5](/bible/ezekiel/36#v5)**  *[[2:20:03](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8403s)]*
 
 > <sup>[5](/bible/ezekiel/36#v5)</sup> Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.
 
@@ -373,7 +373,7 @@ The liars.
 
 - And until you do, like the scripture says, if I forget thee, O Jerusalem, let my right hand forget her cunning, if I do not remember thee, let my tongue cleave to the roof of my mouth. This is why we cannot speak truth. This is why we cannot do the work of the Lord, because there is no way you can do the work of the Lord as a Catholic. You cannot do the work of the Lord as a Baptist, as a Presbyterian, as an Episcopalian. You must know that you are an Israelite, and you must return to the laws, statutes and commandments, and rebuke those who have taken your place. You should be angry that somebody is walking on this earth pretending to be you, benefiting from your name, while you are being called out of your name.
 
-**[Amos 1:11](/bible/amos/1#v11)**  *[2:21:52]*
+**[Amos 1:11](/bible/amos/1#v11)**  *[[2:21:52](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8512s)]*
 
 > <sup>[11](/bible/amos/1#v11)</sup> Thus saith the Lord; For three transgressions of Edom, and for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:
 
@@ -383,7 +383,7 @@ The liars.
 
 - And his anger did tear perpetually. How long? Perpetually.
 
-**[Habakkuk 1:4](/bible/habakkuk/1#v4)**  *[2:27:02]*
+**[Habakkuk 1:4](/bible/habakkuk/1#v4)**  *[[2:27:02](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8822s)]*
 
 > <sup>[4](/bible/habakkuk/1#v4)</sup> Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
 
@@ -391,7 +391,7 @@ The liars.
 
 - For the wicked doth compass about the righteous; therefore wrong judgment proceedeth. So when you look at the justice system you can understand who is controlling it. The wicked. Like the Bible said, the earth is given into the hand of the wicked. Therefore we can never have righteous judgment.
 
-**[Wisdom of Solomon 12:10-11](/bible/wisdom-of-solomon/12#v10)**  *[2:30:54]*
+**[Wisdom of Solomon 12:10-11](/bible/wisdom-of-solomon/12#v10)**  *[[2:30:54](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9054s)]*
 
 > <sup>[10](/bible/wisdom-of-solomon/12#v10)</sup> But executing thy judgments upon them by little and little, thou gavest them place of repentance, not being ignorant that they were a naughty generation, and that their malice was bred in them, and that their cogitation would never be changed.
 >
@@ -403,7 +403,7 @@ The liars.
 
 - For it was a cursed seed from the beginning; neither didst thou for fear of any man give them pardon for those things wherein they sinned. It was a cursed seed from when? From the beginning. God knows who he made. And there is no forgiveness for Esau. He cannot change. There is no forgiveness for him. So stop trying to save him.
 
-**[Genesis 27:41](/bible/genesis/27#v41)**  *[2:32:39]*
+**[Genesis 27:41](/bible/genesis/27#v41)**  *[[2:32:39](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9159s)]*
 
 > <sup>[41](/bible/genesis/27#v41)</sup> And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
 
@@ -413,7 +413,7 @@ The liars.
 
 - This is why you could have that white friend that is cool. I am pretty sure those boys were cool with Nolan, otherwise he would not have been friends with them for so long. But one day they just transform into who they are. Just like the Bible says we are going to hear a word behind us saying, this is the way, walk ye in it. That is for us. They hear a word behind them: you are the devil, kill him. How many times do you hear dudes say the voice told me to kill him? You hear that all over the news.
 
-**[Ezekiel 35:1-6](/bible/ezekiel/35#v1)**  *[2:35:50]*
+**[Ezekiel 35:1-6](/bible/ezekiel/35#v1)**  *[[2:35:50](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9350s)]*
 
 > <sup>[1](/bible/ezekiel/35#v1)</sup> Moreover the word of the Lord came unto me, saying,
 >
@@ -437,7 +437,7 @@ The liars.
 
 - Therefore, as I live, saith the Lord God, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee. So since Esau does not hate blood, he is going to bathe in blood. That is why his blood is going to be from the horse's hoof to the bridle. It is going to flow like a river. You think you are going to kill God's people and nothing is going to happen to you?
 
-**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[2:38:02]*
+**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[2:38:02](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9482s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 >
@@ -462,4 +462,4 @@ So we hope that you got something out of this class. All praises to the Lord.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-22-esau-the-hater-liar-and-killer)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=0yyd-1tBSXU)

@@ -559,4 +559,4 @@ Referenced in class: Captain Gideon's class from that morning on the black towns
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-04-know-your-enemy-god-s-foes-ours)
+[Class Notes Index](/classes)

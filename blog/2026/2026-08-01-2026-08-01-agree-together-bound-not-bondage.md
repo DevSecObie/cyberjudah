@@ -20,7 +20,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
 ## Scriptures Opened
 
-**[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[24:07]*
+**[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[[24:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=1447s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 >
@@ -38,7 +38,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     That which hath been is named already, and it is known that it is man. That tells you what the thing of Ecclesiastes 1:9 is.
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[26:01]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[26:01](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=1561s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -55,7 +55,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     All the prophets spoke: Isaiah, Jeremiah, Daniel, Hosea. He multiplied visions and used similitudes, or parables, by the ministry of the prophets, comparing one thing to another.
 
-**[Revelation 13:1-2](/bible/revelation/13#v1)**  *[29:04]*
+**[Revelation 13:1-2](/bible/revelation/13#v1)**  *[[29:04](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=1744s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -79,7 +79,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     They that will be rich fall into temptation and a snare. The love of money is the root of all evil, which while some coveted after, they have erred from the faith and pierced themselves through with many sorrows. That is what Satan will have you do. If you covet fame and fortune in this world, you must worship Satan; that is the only way.
 
-**[Daniel 3:1-30](/bible/daniel/3#v1)**  *[36:14]*
+**[Daniel 3:1-30](/bible/daniel/3#v1)**  *[[36:14](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=2174s)]*
 
 > <sup>[1](/bible/daniel/3#v1)</sup> Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
 >
@@ -175,7 +175,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     That was Babylon; now here is the Greek captivity. King Antiochus wrote to his whole kingdom that all should be one people, and every one should leave his laws. All the heathen agreed, yea, many also of the Israelites consented to his religion, like Pastor Mark Burns, and sacrificed unto idols and profaned the sabbath. The purpose of the king's letters was to the end they might forget the law and change all the ordinances, and whosoever would not do according to the commandment of the king, he said, should die. The same idolatry we read about in Babylon happened in Greece. It is like a ring; it is going to continue. Do not think America is absolved from this. We are seeing elements of it now. Some of you have been swooned to sleep: nothing is ever going to happen here. Now you see a big gold statue set up.
 
-**[Wisdom of Solomon 14:12-27](/bible/wisdom-of-solomon/14#v12)**  *[58:39]*
+**[Wisdom of Solomon 14:12-27](/bible/wisdom-of-solomon/14#v12)**  *[[58:39](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=3519s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/14#v12)</sup> For the devising of idols was the beginning of spiritual fornication, and the invention of them the corruption of life.
 >
@@ -228,7 +228,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     Take heed that no man deceive you: for many shall come in my name, saying, I am Christ, and shall deceive many. In Liberia they told us the many is us ten men out there teaching. No: the many that came in his name saying I am Christ is the image the conquistadors carried worldwide.
 
-**[Proverbs 31:26](/bible/proverbs/31#v26)**  *[1:20:33]*
+**[Proverbs 31:26](/bible/proverbs/31#v26)**  *[[1:20:33](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=4833s)]*
 
 > <sup>[26](/bible/proverbs/31#v26)</sup> She openeth her mouth with wisdom; and in her tongue is the law of kindness.
 
@@ -241,7 +241,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     When Israel is in the midst of sin, God uses this language in the female context: she hath wearied herself with lies, and her great scum went not forth out of her. Definition read in class: scum is a layer of foul or unwanted matter that forms on top of a liquid, and informally a despised, immoral, or worthless person. That is the word God chose for his own people when the wickedness would not come out. Self examine, so that word never describes you.
 
-**[Proverbs 22:3](/bible/proverbs/22#v3)**  *[1:27:03]*
+**[Proverbs 22:3](/bible/proverbs/22#v3)**  *[[1:27:03](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=5223s)]*
 
 > <sup>[3](/bible/proverbs/22#v3)</sup> A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.
 
@@ -258,7 +258,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     The world is divided into ten parts and ten parts of it are gone already. That was during the time of Ezra; understand we are in the last days and the clock is ticking. Now therefore set thine house in order, and reprove thy people. Notice we start first with setting our own houses in order; then we have the ability to tell somebody else to get right. If we are going to set our houses in order, where do we start? With your marriage. If the home front is not right, how are you going to get out there and instruct your people?
 
-**[Genesis 2:18-24](/bible/genesis/2#v18)**  *[1:33:05]*
+**[Genesis 2:18-24](/bible/genesis/2#v18)**  *[[1:33:05](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=5585s)]*
 
 > <sup>[18](/bible/genesis/2#v18)</sup> And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
 >
@@ -275,7 +275,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Go all the way back to the beginning, to why marriage was made. It is not good that the man should be alone; I will make him an help meet for him. The Lord God caused a deep sleep to fall upon Adam, took one of his ribs, and made he a woman. This is now bone of my bones, and flesh of my flesh. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 - Brothers, who gives you your wife? The Lord does.
 
-**[Ecclesiastes 9:9](/bible/ecclesiastes/9#v9)**  *[1:35:01]*
+**[Ecclesiastes 9:9](/bible/ecclesiastes/9#v9)**  *[[1:35:01](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=5701s)]*
 
 > <sup>[9](/bible/ecclesiastes/9#v9)</sup> Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.
 
@@ -295,7 +295,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     Here is the reality check for the evil sisters who think, if I am evil he must be evil, we will just be evil together. I find more bitter than death the woman whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her. A man will be delivered from a woman like that. So do not think you can just stay evil and you two will be together forever; the Lord will deliver him. How about you just repent and get it together so you can be heirs together.
 
-**[Malachi 2:14](/bible/malachi/2#v14)**  *[1:40:53]*
+**[Malachi 2:14](/bible/malachi/2#v14)**  *[[1:40:53](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6053s)]*
 
 > <sup>[14](/bible/malachi/2#v14)</sup> Yet ye say, Wherefore? Because the Lord hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.
 
@@ -303,7 +303,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - The wife of thy youth: marriage was designed to happen when you are young. Not that you cannot marry when you are older, but naturally, when a young boy becomes a man and a young woman becomes a woman, that is when they search for a companion, so that they can grow old together.
 - Bishop's account told in class: a brother married a sister, then came asking to get rid of her because she was not right. Before the marriage she had told him plainly about her mental health and her medication, and he said yes anyway. The answer: she is yours. Stop being fooled by beauty; beauty is vain. Know who you are marrying, and once you covenant, that covenant stands.
 
-**[Proverbs 5:18-19](/bible/proverbs/5#v18)**  *[1:45:23]*
+**[Proverbs 5:18-19](/bible/proverbs/5#v18)**  *[[1:45:23](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6323s)]*
 
 > <sup>[18](/bible/proverbs/5#v18)</sup> Let thy fountain be blessed: and rejoice with the wife of thy youth.
 >
@@ -318,7 +318,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     I take not this my sister for lust, but uprightly: therefore mercifully ordain that we may become aged together. We pray we see our older years together. Some of us make it there and some do not; let it be because of passing, not because you would not apply the scriptures. The prophecy classes are dope, but you have to have the same zeal for these classes on marriage and repentance, or your marriage falls apart and then you look at us like it was our fault.
 
-**[Ephesians 5:31-32](/bible/ephesians/5#v31)**  *[1:50:55]*
+**[Ephesians 5:31-32](/bible/ephesians/5#v31)**  *[[1:50:55](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6655s)]*
 
 > <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
 >
@@ -327,7 +327,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - For this cause shall a man leave his father and mother, and shall be joined unto his wife. The reason the young man leaves the house is to start his own family, not to go out there and figure it out. You do not send your son out like that, and you do not send your daughters out into the world with no protection.
 - This is a great mystery: but I speak concerning Christ and the church. The marriage is a mirror image: the husband represents Christ, and the wife represents the church.
 
-**[Ephesians 5:25-27](/bible/ephesians/5#v25)**  *[1:53:07]*
+**[Ephesians 5:25-27](/bible/ephesians/5#v25)**  *[[1:53:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6787s)]*
 
 > <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 >
@@ -338,7 +338,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Husbands, love your wives, even as Christ also loved the church, and gave himself for it. Brothers, did Christ give his life for the church? Would you give your life for your wife, for your house, for understanding how to deal with your wife the right way?
 - When we understand that we are the representation of Christ in the home, you are supposed to move like Christ in the house. You speak it and you walk it; we are not hypocritical in our speech, because that is what we require of them.
 
-**[Matthew 16:22-23](/bible/matthew/16#v22)**  *[1:56:04]*
+**[Matthew 16:22-23](/bible/matthew/16#v22)**  *[[1:56:04](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=6964s)]*
 
 > <sup>[22](/bible/matthew/16#v22)</sup> Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
 >
@@ -347,7 +347,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Did Christ deal what we would call harshly with the church at times? He did. There is a misconception among sisters that the man is supposed to be soft spoken and agreeable at all times. No. Sisters, you might agree with 30 percent of what your husband says; you are going to spend the majority doing things you do not agree with. It is not for you to agree; it is for you to do.
 - The first thing wives say about submission is, as unto the Lord, and you are not Christ; Jesus would not say what you are saying. Really? Peter took him and began to rebuke him, and he turned and said unto Peter, Get thee behind me, Satan. Peter was called Satan himself. What is worse than being called Satan? Nobody wants to admit to being rightfully called something. Not that we should be calling each other out of our names, but there are times you need to realize what spirit you are carrying, and that is what Christ did: I see the spirit on you and I am going to tell you what it is.
 
-**[Mark 4:37-40](/bible/mark/4#v37)**  *[1:57:53]*
+**[Mark 4:37-40](/bible/mark/4#v37)**  *[[1:57:53](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7073s)]*
 
 > <sup>[37](/bible/mark/4#v37)</sup> And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.
 >
@@ -360,14 +360,14 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - The storm arose, the disciples woke Christ saying, Master, carest thou not that we perish? He rebuked the wind, said unto the sea, Peace, be still, and then said unto them, Why are ye so fearful? how is it that ye have no faith?
 - Sisters have heard that from their husbands and been the most offended. You tell your wife her faith is weak and it is an issue. No, it is the truth. Christ said it to them to strengthen them, to get them to realize, you are moving in fear. Why are you acting scared? Do you not believe?
 
-**[Matthew 17:17](/bible/matthew/17#v17)**  *[1:59:49]*
+**[Matthew 17:17](/bible/matthew/17#v17)**  *[[1:59:49](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7189s)]*
 
 > <sup>[17](/bible/matthew/17#v17)</sup> Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.
 
 - O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? Depending on who is reading, you can hear the frustration in Christ's voice. Christ got frustrated, got angry, was fed up at times. Did that mean he did not love them? No. He dealt that way because it was necessary.
 - How many times have you told your wife what she was doing was wrong, and it became, why are you so mean? It is not me being mean; I am telling you what it is. Why can you not receive it like they received it from Christ? Many times your wife does not see Christ in you, brother, so everything is taken offensively. And we recognize, sisters, some brothers are not trying to build up, they are trying to tear down; but it is not for you to decide when. You have to put it in the Lord's hands.
 
-**[Ecclesiastes 3:1-8](/bible/ecclesiastes/3#v1)**  *[2:01:19]*
+**[Ecclesiastes 3:1-8](/bible/ecclesiastes/3#v1)**  *[[2:01:19](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7279s)]*
 
 > <sup>[1](/bible/ecclesiastes/3#v1)</sup> To every thing there is a season, and a time to every purpose under the heaven:
 >
@@ -380,7 +380,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - To every thing there is a season, and a time to every purpose under the heaven. A time to kill, and a time to heal; a time to break down, and a time to build up; a time to love, and a time to hate; a time of war, and a time of peace.
 - We have seen Christ drive men out of temples and call for destruction on cities. There is a time for everything. Just because his demeanor was such does not mean he did not love the church. The Lord has given man the ability to discern between those times, and it is his job to do that. Sisters, if you take everything as, he is trying to destroy me, you will never be built up. You have to trust that the one the Lord created you for is going to take care of you.
 
-**[1 Corinthians 14:33-34](/bible/1-corinthians/14#v33)**  *[2:03:00]*
+**[1 Corinthians 14:33-34](/bible/1-corinthians/14#v33)**  *[[2:03:00](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7380s)]*
 
 > <sup>[33](/bible/1-corinthians/14#v33)</sup> For God is not the author of confusion, but of peace, as in all churches of the saints.
 >
@@ -399,7 +399,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     There is history behind why Paul said let the women keep silence in the churches. In Ephesus and that whole region around Corinth they worshipped the great goddess Diana, whom all Asia and the world worshipped, and the people cried out for two hours, Great is Diana of the Ephesians. Some of those women repented, so to speak, came into the church, and brought that goddess spirit with them. That whole feminist movement is the same spirit back today.
 
-**[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[2:04:27]*
+**[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[2:04:27](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7467s)]*
 
 > <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
 
@@ -412,7 +412,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     Was Christ ever confused about his position and role with the Father? I can of mine own self do nothing: I seek not mine own will, but the will of the Father which hath sent me. Christ understands his role and position, and Christ tells us the husband is the head of the wife. So why is there still so much confusion? Somebody does not believe like they say they do.
 
-**[Genesis 2:18](/bible/genesis/2#v18)**  *[2:10:40]*
+**[Genesis 2:18](/bible/genesis/2#v18)**  *[[2:10:40](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7840s)]*
 
 > <sup>[18](/bible/genesis/2#v18)</sup> And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
 
@@ -438,7 +438,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     And ye my flock, the flock of my pasture, are men. The Lord uses men to lead. It has always been that way and it is never going to change. Sisters, the influencers on social media making you think the man is supposed to worship the ground you walk on will not influence the men in purple and gold. Do you want a man or do you want a boy? And sisters, when your husband gets around the brothers and comes home acting different, he is supposed to come home different: he examined himself, saw he was lacking, and came home on fire to fix his house.
 
-**[2 Timothy 3:1-6](/bible/2-timothy/3#v1)**  *[2:22:07]*
+**[2 Timothy 3:1-6](/bible/2-timothy/3#v1)**  *[[2:22:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=8527s)]*
 
 > <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
 >
@@ -458,34 +458,34 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - For of this sort are they which creep into houses, and lead captive silly women laden with sins. This is how you get infiltrated: through the phone, through conversation, through whoever is influencing them. Sisters, your algorithm is jacked up: if you keep watching that woman-power, men-are-worthless content, that is all you will see, and then you look at your husband sideways because of your algorithm.
 - Word given in class to the sisters deep in social media: the men in your DMs do not want to marry you. If the Most High put your marriage together, you are not going to find better than that, because God put that together. Once you leave that, the protection of God is no longer on you; you are on your own. A case was told in class of a wife who degraded herself online for small cash payments from strangers and refused her husband's correction; that path leaves a family of three children behind for nothing. If that is where a wife is, she is already gone. The Tyler Perry movie Temptation was referenced: he convinces her to leave her husband, and watch what happens.
 
-**[1 Peter 3:1](/bible/1-peter/3#v1)**  *[2:30:19]*
+**[1 Peter 3:1](/bible/1-peter/3#v1)**  *[[2:30:19](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9019s)]*
 
 > <sup>[1](/bible/1-peter/3#v1)</sup> Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 
 - Stop with this, I cannot submit to a man that is not right. It is old, it is tired, it is played out. Do you believe or do you not believe? That is the question at hand.
 - Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives. Peter is telling wives that through your chaste conversation, your obedience, your example, you can win over a husband who is not even in the truth yet. So you still have to hear him? Yes. Ask yourself: do you serve a God who will redeem and deliver you because you are faithful, or do you not believe?
 
-**[Joshua 24:15](/bible/joshua/24#v15)**  *[2:32:03]*
+**[Joshua 24:15](/bible/joshua/24#v15)**  *[[2:32:03](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9123s)]*
 
 > <sup>[15](/bible/joshua/24#v15)</sup> And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the Lord.
 
 - The roles of a husband. This is the same Joshua who came out of Egypt, who saw all that happened. Choose you this day whom ye will serve; but as for me and my house, we will serve the Lord.
 - A man of the Lord understands his first role: he must command his house. Those in his house do not have a choice. Some of you have kids that are not keeping the commandments and you let them do whatever. As for you and your house, what are you going to do? A man commands his home. Your first role is commander in chief of the house; you have to see yourself in that manner, otherwise you will allow someone else to have rule in your home. This is your house: not Deacon's house, your house.
 
-**[1 Timothy 5:8](/bible/1-timothy/5#v8)**  *[2:34:07]*
+**[1 Timothy 5:8](/bible/1-timothy/5#v8)**  *[[2:34:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9247s)]*
 
 > <sup>[8](/bible/1-timothy/5#v8)</sup> But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.
 
 - If any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel. Your role as a husband is to provide.
 - Many households today are only sustained by two incomes, and it is extremely difficult now for a man to hold down everything, but it is possible, and you have to be able to if you have to. If it is going to be a mean cottage, it is a mean cottage, but it is yours. If she works too, the income is the household income and you figure it out together, and do not be a tyrant about it; but brothers, if you give up your position, you will never get it back.
 
-**[Colossians 3:19](/bible/colossians/3#v19)**  *[2:38:45]*
+**[Colossians 3:19](/bible/colossians/3#v19)**  *[[2:38:45](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9525s)]*
 
 > <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
 - Husbands, love your wives, and be not bitter against them. You have to have restraint regardless of what has happened. You have to be Christ in the home; that means you have to be able to forgive, to let go, to have the emotional stability to lead the home properly.
 
-**[Ephesians 5:25-29](/bible/ephesians/5#v25)**  *[2:39:33]*
+**[Ephesians 5:25-29](/bible/ephesians/5#v25)**  *[[2:39:33](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9573s)]*
 
 > <sup>[25](/bible/ephesians/5#v25)</sup> Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 >
@@ -501,7 +501,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Some of you love the PlayStation. You would rather play video games or hang out with the brothers than provide for your house. If we find that is you: rank stripped immediately. It makes no sense for your children to be a reflection of poverty while you have the latest of everything. You cannot say you love your family if you are not willing to sacrifice for them.
 - So ought men to love their wives as their own bodies. There is no reason to treat your wife in a way you would not want to be dealt with. When leadership has dealt harshly with you, it was necessary and you understood it. It is the same in the house, but you have to know how to do it: there are brothers who know how to tear down but do not know how to build up, and then you wonder why she never smiles. Building up is also a skill set. Just like you want to be built up, do it for her as well.
 
-**[Psalms 112:1-10](/bible/psalms/112#v1)**  *[2:45:02]*
+**[Psalms 112:1-10](/bible/psalms/112#v1)**  *[[2:45:02](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=9902s)]*
 
 > <sup>[1](/bible/psalms/112#v1)</sup> Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.
 >
@@ -525,7 +525,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
 - Blessed is the man that feareth the Lord, that delighteth greatly in his commandments. His seed shall be mighty upon earth. He is gracious, and full of compassion, and righteous. A good man sheweth favour, and lendeth: he is there for his brother. He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord. He is not afraid of confrontation; he understands what the Lord has put in front of him and he deals with it. These are attributes we must possess as men of the Lord.
 
-**[Titus 2:6-8](/bible/titus/2#v6)**  *[2:46:57]*
+**[Titus 2:6-8](/bible/titus/2#v6)**  *[[2:46:57](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=10017s)]*
 
 > <sup>[6](/bible/titus/2#v6)</sup> Young men likewise exhort to be sober minded.
 >
@@ -535,7 +535,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
 - Young men likewise exhort to be sober minded. In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity, sound speech that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you. These are the examples of how men are supposed to conduct themselves, with one another and with our wives.
 
-**[1 Timothy 3:1-5](/bible/1-timothy/3#v1)**  *[2:47:41]*
+**[1 Timothy 3:1-5](/bible/1-timothy/3#v1)**  *[[2:47:41](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=10061s)]*
 
 > <sup>[1](/bible/1-timothy/3#v1)</sup> This is a true saying, If a man desire the office of a bishop, he desireth a good work.
 >
@@ -561,7 +561,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel. A wise husband studies his wife: her fears, emotions, struggles, and strengths. When you understand your wife, you know her limits, and you set things up in the home so things can work. Some men never learn their wives and then wonder why the marriage feels distant.
 
-**[Ephesians 5:22-24](/bible/ephesians/5#v22)**  *[3:04:22]*
+**[Ephesians 5:22-24](/bible/ephesians/5#v22)**  *[[3:04:22](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=11062s)]*
 
 > <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
 >
@@ -579,7 +579,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     As the sun when it ariseth in the high heaven, so is the beauty of a good wife in the ordering of her house. The way you set it up, the way you do things, that is your beauty. And for you brothers whose wives only clean for presentation when company comes: you have to order your house and demand what the desire of your home is.
 
-**[Proverbs 31:10-28](/bible/proverbs/31#v10)**  *[3:12:13]*
+**[Proverbs 31:10-28](/bible/proverbs/31#v10)**  *[[3:12:13](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=11533s)]*
 
 > <sup>[10](/bible/proverbs/31#v10)</sup> Who can find a virtuous woman? for her price is far above rubies.
 >
@@ -625,7 +625,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Her children arise up, and call her blessed; her husband also, and he praiseth her. Who has to institute that in the house? The husband. You teach the children to honor their mother.
 - She will do him good and not evil all the days of her life. Teaching from the table: if a man at her job puts a hand on her, a virtuous wife handles that herself right there; she does not carry it home as a spark for her husband to catch a case over. Bishop's account: a brother called saying he was on his way to his wife's job to fight a man who grabbed her hand. The counsel: turn around, call your wife, and tell her she had better handle that; that is her job. Of course, if it is an assault she cannot stop, that is different; everybody understands that. But she will do him good and not evil means there are things she is supposed to shut down herself.
 
-**[Titus 2:3-5](/bible/titus/2#v3)**  *[3:19:43]*
+**[Titus 2:3-5](/bible/titus/2#v3)**  *[[3:19:43](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=11983s)]*
 
 > <sup>[3](/bible/titus/2#v3)</sup> The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;
 >
@@ -637,7 +637,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Keepers at home: she takes care of her house; there is enough pertaining to her own house for her to deal with. She is not idle, she is not a busybody in everybody else's house.
 - Obedient to their own husbands, that the word of God be not blasphemed. The word of God is blasphemed when a wife who claims she believes is not obedient to her husband. What is the difference between a man who does not provide, who the scripture says is worse than an infidel, and a woman who does not submit? She is not a believer. You can tell if a woman believes the Bible by how she deals with her husband: her tone, her reverence, not going back and forth with him, dealing with him like she would deal with the Lord.
 
-**[1 Timothy 5:14-16](/bible/1-timothy/5#v14)**  *[3:23:40]*
+**[1 Timothy 5:14-16](/bible/1-timothy/5#v14)**  *[[3:23:40](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=12220s)]*
 
 > <sup>[14](/bible/1-timothy/5#v14)</sup> I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
 >
@@ -652,7 +652,7 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - A brother wrote that in over ten years his wife has taken no initiative, no meal prep, while he works twelve hour shifts, and asked for help. Answer: you have to command your house, brother. There is no way you work those shifts and cannot get a plate of food made. Fix it.
 - Another submission asked why there are no structured events or classes for married couples. The browser was pulled up live in class: type in IUIC marriage class and playlists of over a hundred videos come up, plus the cabin trip series, plus this being the third Marriage Is Honorable event. Some people only see what they want to see.
 
-**[Matthew 19:4-5](/bible/matthew/19#v4)**  *[3:49:45]*
+**[Matthew 19:4-5](/bible/matthew/19#v4)**  *[[3:49:45](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=13785s)]*
 
 > <sup>[4](/bible/matthew/19#v4)</sup> And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female,
 >
@@ -661,13 +661,13 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - Have ye not read, that he which made them at the beginning made them male and female, and they twain shall be one flesh? There is a lot packed into being one flesh. We have constantly pushed the importance of applying what we learn to our everyday lives and our marriages. If we do not apply, we will not grow, and you will not see change in our homes.
 - Even with the problems we have here, we are eons ahead of so many congregations and churches, and even ourselves, we are trying to perfect it.
 
-**[Psalms 127:1](/bible/psalms/127#v1)**  *[3:51:15]*
+**[Psalms 127:1](/bible/psalms/127#v1)**  *[[3:51:15](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=13875s)]*
 
 > <sup>[1](/bible/psalms/127#v1)</sup> Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain.
 
 - Except the Lord build the house, they labour in vain that build it. We labor in vain if we are not building in the Lord. If we are not doing it according to how he said, it is going to crash. All the tears, all the pain, all the grief you are going through: if you are not going to apply, it is going to keep happening.
 
-**[Colossians 3:12-15](/bible/colossians/3#v12)**  *[3:52:10]*
+**[Colossians 3:12-15](/bible/colossians/3#v12)**  *[[3:52:10](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=13930s)]*
 
 > <sup>[12](/bible/colossians/3#v12)</sup> Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
 >
@@ -699,4 +699,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-01-agree-together-bound-not-bondage)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=T2fTN52Aq_U)

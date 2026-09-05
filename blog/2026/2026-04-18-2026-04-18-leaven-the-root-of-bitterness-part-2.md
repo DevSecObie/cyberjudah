@@ -20,13 +20,13 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 
 ## Scriptures Opened
 
-**[1 John 2:14](/bible/1-john/2#v14)**  *[13:04]*
+**[1 John 2:14](/bible/1-john/2#v14)**  *[[13:04](https://www.youtube.com/watch?v=D6rveJsP3f8&t=784s)]*
 
 > <sup>[14](/bible/1-john/2#v14)</sup> I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
 
 - I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one. The wicked one is Satan. This whole thing is about overcoming the wicked one, because that root of bitterness that comes to brothers and defiles them, guess who plays on it, who whispers things in your mind to cause that bitterness to grow? Satan. Back then the young men knew how to fight Satan; today you have to learn how to fight this war and where the war begins.
 
-**[1 Peter 5:8](/bible/1-peter/5#v8)**  *[14:41]*
+**[1 Peter 5:8](/bible/1-peter/5#v8)**  *[[14:41](https://www.youtube.com/watch?v=D6rveJsP3f8&t=881s)]*
 
 > <sup>[8](/bible/1-peter/5#v8)</sup> Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
 
@@ -34,7 +34,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - Your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour. Satan's job is to devour you, to destroy you. How does he devour you with the root of bitterness? The same way he did it to Cain: when Cain's sacrifice was not accepted, Satan put that hatred spirit on him and played on it, and Cain ended up hating his brother, killing him, and becoming a servant of Satan, because he gave in to the root of bitterness and envy.
 - Pay attention to the things people say to you, because Satan can use people to plant an evil seed in your mind. A brother or sister comes gossiping, telling you this person said this about you: they are planting a seed, and now you become bitter toward that person. When somebody comes to you like that, ask them: what did you say when they said that? Did you correct that person? And why would they feel comfortable saying that to you about me? If they feel comfortable saying things about me to you, I have to watch you too. That is the state of mind you have to have, because that is what Satan does: he plants seeds.
 
-**[1 Corinthians 9:26-27](/bible/1-corinthians/9#v26)**  *[17:56]*
+**[1 Corinthians 9:26-27](/bible/1-corinthians/9#v26)**  *[[17:56](https://www.youtube.com/watch?v=D6rveJsP3f8&t=1076s)]*
 
 > <sup>[26](/bible/1-corinthians/9#v26)</sup> I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:
 >
@@ -45,7 +45,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - A lot of brothers and sisters do not like correction, but if anybody comes and tells you the Deacon said something about you, do not believe them, because I will tell you to your face.
 - A couple weeks ago a brother reached out: Deacon, you got a problem with me? At the new moon I said shalom and you did not pay me any mind. Listen: my mind is often far away; if you do not get my attention, I zone out, especially when I am thinking on the scriptures. It was nothing intentional. But respect to the brother for reaching out directly, because otherwise Satan could play with his head and he could develop bitterness toward me for no reason. That is how you get rid of bitterness: you go to the person, because you can sit there thinking a person moved against you when they are not aware of anything running through your mind.
 
-**[Romans 7:20-25](/bible/romans/7#v20)**  *[27:06]*
+**[Romans 7:20-25](/bible/romans/7#v20)**  *[[27:06](https://www.youtube.com/watch?v=D6rveJsP3f8&t=1626s)]*
 
 > <sup>[20](/bible/romans/7#v20)</sup> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.
 >
@@ -80,13 +80,13 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 
     Raguel had one only daughter, named Sarah, and the angel said: fear not, for she is appointed unto thee from the beginning. From ever since the beginning, that was his wife. The Most High does bring people together. So do not develop bitterness and hatred toward each other over who is talking to whom: be happy for the brother; be happy for the sister. Whoever is for you is for you. That bitterness is going to change you, and it is just a matter of time before you leave the body.
 
-**[Acts 5:3](/bible/acts/5#v3)**  *[39:50]*
+**[Acts 5:3](/bible/acts/5#v3)**  *[[39:50](https://www.youtube.com/watch?v=D6rveJsP3f8&t=2390s)]*
 
 > <sup>[3](/bible/acts/5#v3)</sup> But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
 
 - But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost? The war always starts in the mind, and Satan is the one who puts these things there. The thought came into his mind: you do not have to tell the apostles how much you really sold the land for. He could have said, no, I cannot think like that; but he gave in to the thought, and then he went and lied to the apostles. That is how Satan attacks: he whispers things in your mind, and if you are not careful and vigilant and paying attention to your thoughts, you will defile yourself and get caught up in sin.
 
-**[1 Samuel 18:6-9](/bible/1-samuel/18#v6)**  *[41:26]*
+**[1 Samuel 18:6-9](/bible/1-samuel/18#v6)**  *[[41:26](https://www.youtube.com/watch?v=D6rveJsP3f8&t=2486s)]*
 
 > <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
 >
@@ -101,7 +101,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom? He wants my position. That is Satan whispering them things in his mind: the people love David; they are saying he is better than you; watch him. And Saul listened.
 - And Saul eyed David from that day and forward: he envied David and became bitter toward him, watching him sideways. Why did that happen? Because Saul entertained Satan. Them thoughts came to Saul's head, and instead of saying, David is a godly man, he does not want my position, he fed into it. The spirit of envy came on him.
 
-**[1 Samuel 26:5-25](/bible/1-samuel/26#v5)**  *[46:35]*
+**[1 Samuel 26:5-25](/bible/1-samuel/26#v5)**  *[[46:35](https://www.youtube.com/watch?v=D6rveJsP3f8&t=2795s)]*
 
 > <sup>[5](/bible/1-samuel/26#v5)</sup> And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.
 >
@@ -155,7 +155,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - As thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the Lord, and let him deliver me out of all tribulation. That is what you want: the Lord to deliver you out of tribulations. But you do not want to take vengeance into your own hands, and that is what David understood.
 - Even in your marriage: sometimes Satan will jump on a brother and he will say evil things to his wife; sister, you have to realize it is not your husband, it is Satan you are really dealing with. Remember when Satan entered Job's wife: curse God, and die. Job said, thou speakest as one of the foolish women speaketh. Job was not dealing with her; he was dealing with what entered into her and was speaking.
 
-**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[1:02:55]*
+**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:02:55](https://www.youtube.com/watch?v=D6rveJsP3f8&t=3775s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 >
@@ -163,7 +163,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 
 - Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him. Thou shalt not avenge, nor bear any grudge against the children of thy people. That is where bitterness comes from: the grudge. This is what David understood; he had love for his brother and did not take vengeance, even though Saul wanted him dead.
 
-**[Ecclesiasticus 28:1-3](/bible/sirach/28#v1)**  *[1:06:45]*
+**[Ecclesiasticus 28:1-3](/bible/sirach/28#v1)**  *[[1:06:45](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4005s)]*
 
 > <sup>[1](/bible/sirach/28#v1)</sup> He that revengeth shall find vengeance from the Lord, and he will surely keep his sins in remembrance.
 >
@@ -175,7 +175,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - Forgive thy neighbour the hurt that he hath done unto thee, so shall thy sins also be forgiven when thou prayest. We will do things that hurt each other from time to time; your spouse will do things that hurt you from time to time. Why does it say the hurt? Because it hurts, and you do not really want to forgive; it is hard. But you have to do what God says and get rid of that pride, because if you do not forgive them, it turns into bitterness. And it is not talking about forgiving only the small things you want to forgive; it is talking about the stuff that really hurt. King David forgave Saul for trying to kill him.
 - One man beareth hatred against another, and doth he seek pardon from the Lord? You are bearing grudges and bitterness toward your spouse and talking about how you love God: you are phony and you are fake.
 
-**[Colossians 3:19](/bible/colossians/3#v19)**  *[1:11:40]*
+**[Colossians 3:19](/bible/colossians/3#v19)**  *[[1:11:40](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4300s)]*
 
 > <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
@@ -185,7 +185,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - There are levels to the bitterness. There is a low form between spouses over small disappointments; that can be fixed easily and you are smiling again the next day. Then there is the other type of bitterness that is really hatred, where a brother hates his wife; that is the bitterness that destroys marriages, and if it is in you, examine yourself.
 - Women mostly become bitter from correction: when you get on them and tell them what they did was wrong, they become bitter about it. Sisters, you have to work on that bitterness too, and listen to your husband in all things; be like Sarah, who listened to Abraham even when he was wrong. Do not try to prove yourself right; be quiet, and go to the Lord and pray.
 
-**[1 Corinthians 13:4-5](/bible/1-corinthians/13#v4)**  *[1:19:08]*
+**[1 Corinthians 13:4-5](/bible/1-corinthians/13#v4)**  *[[1:19:08](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4748s)]*
 
 > <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
 >
@@ -194,7 +194,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - Charity suffereth long: if you really love your brother, your wife, your spouse, you are going to endure and be patient. Charity envieth not; is not easily provoked; thinketh no evil.
 - Hear that: charity thinketh no evil. When Satan comes to put evil thoughts in your mind about someone else, you have to say: I am not going to think evil about that person. Repeat it over and over: charity thinketh no evil. That is how you deal with it when Satan tries to put evil thoughts in your mind. Somebody says something; charity says that person probably did not mean it like that.
 
-**[Ecclesiasticus 28:7-8](/bible/sirach/28#v7)**  *[1:21:05]*
+**[Ecclesiasticus 28:7-8](/bible/sirach/28#v7)**  *[[1:21:05](https://www.youtube.com/watch?v=D6rveJsP3f8&t=4865s)]*
 
 > <sup>[7](/bible/sirach/28#v7)</sup> Remember the commandments, and bear no malice to thy neighbour: remember the covenant of the Highest, and wink at ignorance.
 >
@@ -203,7 +203,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - Remember the commandments, and bear no malice to thy neighbour: remember the covenant of the Highest, and wink at the ignorance. To wink at ignorance means sometimes people say dumb stuff out of immaturity; the person has not grown, and they probably did not even mean it a certain way. For the root of bitterness not to build up in you, sometimes you just wink at it: that person just does not know. Do not take it serious.
 - Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife. Strife is the arguing. When you see brothers and sisters arguing and striving all the time, that is evil among them. Abstaining from strife is how you diminish your sins.
 
-**[Ecclesiasticus 19:13-17](/bible/sirach/19#v13)**  *[1:23:58]*
+**[Ecclesiasticus 19:13-17](/bible/sirach/19#v13)**  *[[1:23:58](https://www.youtube.com/watch?v=D6rveJsP3f8&t=5038s)]*
 
 > <sup>[13](/bible/sirach/19#v13)</sup> Admonish a friend, it may be he hath not done it: and if he have done it, that he do it no more.
 >
@@ -221,7 +221,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - There is one that slippeth in his speech, but not from his heart: sometimes brothers and sisters slip in their speech and say something offensive, but they were not trying to offend or hurt you; there was no evil behind it. God reads their mind, but your mind takes it as evil, and now you have bitterness inside toward a person who meant nothing. And who is he that hath not offended with his tongue? Every one of us can offend with the tongue from time to time.
 - Admonish thy neighbour before thou threaten him; and not being angry, give place to the law of the most High. You cannot be angry, wanting to fight somebody; you go to that person and try to fix it.
 
-**[Matthew 18:33-35](/bible/matthew/18#v33)**  *[1:28:48]*
+**[Matthew 18:33-35](/bible/matthew/18#v33)**  *[[1:28:48](https://www.youtube.com/watch?v=D6rveJsP3f8&t=5328s)]*
 
 > <sup>[33](/bible/matthew/18#v33)</sup> Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?
 >
@@ -232,7 +232,7 @@ We are going into the fourth day of the feast of unleavened bread, and tonight c
 - So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses. You have to forgive from your heart; it has to be real, not fake. Some of you say, I forgive you, and then go to the next person: you know what that sister did to me? You never really forgave. God reads your heart; he can tell if you really forgave someone.
 - That goes for you spouses too. When the scripture says love thy neighbour, your neighbour is your spouse, your brother, your sister. Sisters, if your husband did something to you, forgive him from your heart; brothers, if your wife did something to you, forgive her from your heart. Otherwise Satan will use it, and bitterness rises up in your mind.
 
-**[Matthew 5:44](/bible/matthew/5#v44)**  *[1:31:22]*
+**[Matthew 5:44](/bible/matthew/5#v44)**  *[[1:31:22](https://www.youtube.com/watch?v=D6rveJsP3f8&t=5482s)]*
 
 > <sup>[44](/bible/matthew/5#v44)</sup> But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
 
@@ -252,4 +252,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-18-leaven-the-root-of-bitterness-part-2)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=D6rveJsP3f8)

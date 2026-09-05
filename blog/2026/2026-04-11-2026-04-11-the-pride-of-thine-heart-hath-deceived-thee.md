@@ -22,7 +22,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 
 ## Scriptures Opened
 
-**[Isaiah 14:4-19](/bible/isaiah/14#v4)**  *[9:22]*
+**[Isaiah 14:4-19](/bible/isaiah/14#v4)**  *[[9:22](https://www.youtube.com/watch?v=hlZo30CYViE&t=562s)]*
 
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
 >
@@ -101,14 +101,14 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 
     Isaac told Esau, thy dwelling shall be the fatness of the earth, and by thy sword shalt thou live. That is why they do not want anybody else to have a weapon: a nuclear weapon is a sword, and they rule because they have the ability to kill and destroy anything that comes against them. That is why the Pope calling for peace is called weak.
 
-**[Ecclesiastes 7:16](/bible/ecclesiastes/7#v16)**  *[46:48]*
+**[Ecclesiastes 7:16](/bible/ecclesiastes/7#v16)**  *[[46:48](https://www.youtube.com/watch?v=hlZo30CYViE&t=2808s)]*
 
 > <sup>[16](/bible/ecclesiastes/7#v16)</sup> Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?
 
 - Be not righteous over much; neither make thyself over wise. To be righteous over much means nobody can correct you: you think you know everything and you see nothing wrong with yourself.
 - Why shouldest thou destroy thyself? When you get to that mindset, you bring destruction on yourself. And that is how you see the president moving: nobody can tell him anything.
 
-**[Ecclesiasticus 10:12-13](/bible/sirach/10#v12)**  *[48:03]*
+**[Ecclesiasticus 10:12-13](/bible/sirach/10#v12)**  *[[48:03](https://www.youtube.com/watch?v=hlZo30CYViE&t=2883s)]*
 
 > <sup>[12](/bible/sirach/10#v12)</sup> The beginning of pride is when one departeth from God, and his heart is turned away from his Maker.
 >
@@ -118,7 +118,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - For pride is the beginning of sin, and he that hath it shall pour out abomination. That is why everything coming out of his mouth and his page is abominable, stupid thing after stupid thing every day, and he explains his own logic for all of it.
 - Therefore the Lord brought upon them strange calamities: and that is what you are seeing. A war that was supposed to be over in a week has run over a month, and the counselors who said leave those people alone are watching it backfire.
 
-**[Psalms 10:1-4](/bible/psalms/10#v1)**  *[51:29]*
+**[Psalms 10:1-4](/bible/psalms/10#v1)**  *[[51:29](https://www.youtube.com/watch?v=hlZo30CYViE&t=3089s)]*
 
 > <sup>[1](/bible/psalms/10#v1)</sup> Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?
 >
@@ -133,7 +133,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the Lord abhorreth. That is why he keeps yes men around him.
 - The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts. Even when the Pope tells him to look for a way toward peace, he will not hear it. Video played in class: asked why he attacked Pope Leo on his platform, the president called the Pope weak and liberal and answered with talk about COVID arrests and crime; his own advisers asked how you disrespect the Pope, the first president in history to do it.
 
-**[Psalms 31:19-20](/bible/psalms/31#v19)**  *[54:26]*
+**[Psalms 31:19-20](/bible/psalms/31#v19)**  *[[54:26](https://www.youtube.com/watch?v=hlZo30CYViE&t=3266s)]*
 
 > <sup>[19](/bible/psalms/31#v19)</sup> Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!
 >
@@ -142,7 +142,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - Oh how great is thy goodness, which thou hast laid up for them that fear thee. Keep the fear of God on you, because in the end you get God's goodness. Trust in God, not in the people that are big, bad, and prideful; their time is temporary.
 - Thou shalt hide them in the secret of thy presence from the pride of man. What we know is a secret: we are learning we are the Israelites of a Bible they took away from us and told us this is not your book. Thou shalt keep them secretly in a pavilion from the strife of tongues: they speak evil against us, but God keeps us in a secret place from it.
 
-**[Ecclesiasticus 10:7-8](/bible/sirach/10#v7)**  *[57:04]*
+**[Ecclesiasticus 10:7-8](/bible/sirach/10#v7)**  *[[57:04](https://www.youtube.com/watch?v=hlZo30CYViE&t=3424s)]*
 
 > <sup>[7](/bible/sirach/10#v7)</sup> Pride is hateful before God and man: and by both doth one commit iniquity.
 >
@@ -151,28 +151,28 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - Pride is hateful before God and man: God hates it and man hates it. When you meet somebody prideful, even though you do not say it, you feel it.
 - Because of unrighteous dealings, injuries, and riches got by deceit, the kingdom is translated from one people to another. The riches gotten by deceit was enslaving the children of Israel; almost all these countries were established on the blood, sweat, and tears of slaves. That is why all the kingdoms of the earth are going to lose their dominion, and the one kingdom that will stand is the kingdom of the twelve tribes of Israel.
 
-**[Jeremiah 30:16](/bible/jeremiah/30#v16)**  *[59:48]*
+**[Jeremiah 30:16](/bible/jeremiah/30#v16)**  *[[59:48](https://www.youtube.com/watch?v=hlZo30CYViE&t=3588s)]*
 
 > <sup>[16](/bible/jeremiah/30#v16)</sup> Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
 
 - Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil. You are where you are because you devoured the Israelites and used us for free labor.
 - So do not let anybody tell you that you are nothing right now. The Bible is your future; the Bible is your hope.
 
-**[Proverbs 8:13](/bible/proverbs/8#v13)**  *[1:00:45]*
+**[Proverbs 8:13](/bible/proverbs/8#v13)**  *[[1:00:45](https://www.youtube.com/watch?v=hlZo30CYViE&t=3645s)]*
 
 > <sup>[13](/bible/proverbs/8#v13)</sup> The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.
 
 - The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate. Once the fear of the Lord is inside of you, you are supposed to hate pride too.
 - We have been conditioned to be filled with pride: we get things in this wicked kingdom and rub it in other people's faces, and look down at our own people. The rap music brags on the house, the car, the watch: frivolous things of no bearing to God. What we are learning as Israelites is the opposite: to love our neighbor, our wives, our children; when one suffers, we all suffer. America is going to suffer by itself, because all the other nations are pulling away.
 
-**[Proverbs 29:23](/bible/proverbs/29#v23)**  *[1:03:03]*
+**[Proverbs 29:23](/bible/proverbs/29#v23)**  *[[1:03:03](https://www.youtube.com/watch?v=hlZo30CYViE&t=3783s)]*
 
 > <sup>[23](/bible/proverbs/29#v23)</sup> A man’s pride shall bring him low: but honour shall uphold the humble in spirit.
 
 - A man's pride shall bring him low: but honour shall uphold the humble in spirit. This man was on top of the world when he was elected, and now everything is turning.
 - Although you see a lot of prideful people thriving and successful, always remember to stay humble; the Lord will exalt you in due time. And when you deal with prideful people, do not let them bring you down to their level: a wise man said do not argue with fools, because people from a distance cannot tell who is who. When IUIC was growing and arguing with the other camps, the bishop finally said leave them alone, and that is when people could tell who to follow.
 
-**[Ecclesiasticus 32:12-17](/bible/sirach/32#v12)**  *[1:05:12]*
+**[Ecclesiasticus 32:12-17](/bible/sirach/32#v12)**  *[[1:05:12](https://www.youtube.com/watch?v=hlZo30CYViE&t=3912s)]*
 
 > <sup>[12](/bible/sirach/32#v12)</sup> There take thy pastime, and do what thou wilt: but sin not by proud speech.
 >
@@ -191,7 +191,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - He that seeketh the law shall be filled therewith: that is why we teach you to follow God's laws, and the denominations call us legalists. But the hypocrite will be offended thereat. They that fear the Lord shall find judgment, and shall kindle justice as a light: we cannot bring forth justice on our own; we do not need bombs or a military; all we need is to be filled with the law. Fringes, skirts and head coverings, beards, the Sabbath: you are not doing anything evil, but it bothers people.
 - A sinful man will not be reproved, but findeth an excuse according to his will. There is nothing you can tell them; in their heart they believe they can sin and win. It is the same in the congregation and in your house: you show them every scripture and they give you every excuse. After a while, do not chase them, replace them.
 
-**[James 4:1-3](/bible/james/4#v1)**  *[1:19:01]*
+**[James 4:1-3](/bible/james/4#v1)**  *[[1:19:01](https://www.youtube.com/watch?v=hlZo30CYViE&t=4741s)]*
 
 > <sup>[1](/bible/james/4#v1)</sup> From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 >
@@ -203,20 +203,20 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - Ye lust, and have not: ye kill, and desire to have, and cannot obtain. No matter how much you fight, you have nothing. He has everything and it is not enough for him.
 - Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts. There is a way to ask according to the Lord; and some people you are not going to have peace with. People with no peace inside of them cause conflict; they only feel comfortable starting trouble. If the scripture cannot fix them, there is nothing you can do for them: examine the life of the person, send them on their way, and guard your peace.
 
-**[Proverbs 16:5](/bible/proverbs/16#v5)**  *[1:30:05]*
+**[Proverbs 16:5](/bible/proverbs/16#v5)**  *[[1:30:05](https://www.youtube.com/watch?v=hlZo30CYViE&t=5405s)]*
 
 > <sup>[5](/bible/proverbs/16#v5)</sup> Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished.
 
 - Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished. You think you can hold hands with the wicked and not get touched. Some of you will defend the wicked and make excuses for them: a prideful spouse, a wicked child. When God brings the judgment, if you are joining hands trying to protect them, it reaches you too.
 
-**[Ecclesiasticus 13:1](/bible/sirach/13#v1)**  *[1:31:18]*
+**[Ecclesiasticus 13:1](/bible/sirach/13#v1)**  *[[1:31:18](https://www.youtube.com/watch?v=hlZo30CYViE&t=5478s)]*
 
 > <sup>[1](/bible/sirach/13#v1)</sup> He that toucheth pitch shall be defiled therewith; and he that hath fellowship with a proud man shall be like unto him.
 
 - He that toucheth pitch shall be defiled therewith; and he that hath fellowship with a proud man shall be like unto him. Look at the people the prideful surround themselves with: the bishop says show me your friends and I will tell you who you are.
 - Video played in class: the attorney general testifying before Congress on the Epstein files, where the department redacted the names of the abusers but released the names of the victims, the worst thing you could do to the survivors. Asked to take responsibility and apologize to the survivors standing behind her, she answered that the questioners should be apologizing to the president. The whole world called it a disgrace, and she was let go. He that hath fellowship with a proud man shall be like unto him.
 
-**[Ecclesiasticus 3:28-31](/bible/sirach/3#v28)**  *[1:36:37]*
+**[Ecclesiasticus 3:28-31](/bible/sirach/3#v28)**  *[[1:36:37](https://www.youtube.com/watch?v=hlZo30CYViE&t=5797s)]*
 
 > <sup>[28](/bible/sirach/3#v28)</sup> In the punishment of the proud there is no remedy; for the plant of wickedness hath taken root in him.
 >
@@ -230,7 +230,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man. That is why we tell you to get your pen and notebook out and write scriptures. The ones looking around not paying attention, you already see what spirit is on them.
 - He that requiteth good turns is mindful of that which may come hereafter; and when he falleth, he shall find a stay. We are all going to make mistakes, but if you keep a certain heart with God, when things go bad the Lord will sustain you. Never get to that place of pride where God says you are on your own.
 
-**[Ecclesiasticus 16:6-11](/bible/sirach/16#v6)**  *[1:39:49]*
+**[Ecclesiasticus 16:6-11](/bible/sirach/16#v6)**  *[[1:39:49](https://www.youtube.com/watch?v=hlZo30CYViE&t=5989s)]*
 
 > <sup>[6](/bible/sirach/16#v6)</sup> In the congregation of the ungodly shall a fire be kindled; and in a rebellious nation wrath is set on fire.
 >
@@ -249,7 +249,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - He pitied not the people of perdition, nor the six hundred thousand footmen, who were gathered together in the hardness of their hearts. How long are you going to keep using somebody's rough life story to excuse the one who refuses correction? If they will not listen to the scripture, stop making excuses for them.
 - And if there be one stiffnecked among the people, it is marvel if he escape unpunished: one stiffnecked person in the congregation, and it would be a marvel if God lets it go. For mercy and wrath are with him: he is mighty to forgive, and to pour out displeasure. That is why the saying God is good all the time is not scriptural: the same God drowned the whole earth, swallowed rebels alive, and left a generation in the wilderness for forty years. God is good all the time to the people that keep his commandments.
 
-**[2 Esdras 9:7-12](/bible/2-esdras/9#v7)**  *[1:46:24]*
+**[2 Esdras 9:7-12](/bible/2-esdras/9#v7)**  *[[1:46:24](https://www.youtube.com/watch?v=hlZo30CYViE&t=6384s)]*
 
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 >
@@ -274,7 +274,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 
     Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee. Where did he know us? In the spirit, before our parents brought us forth. There is something in your spirit that God said, I need to fix you, so that when the time comes you come back to me and not to your pride.
 
-**[2 Kings 18:17-37](/bible/2-kings/18#v17)**  *[1:54:43]*
+**[2 Kings 18:17-37](/bible/2-kings/18#v17)**  *[[1:54:43](https://www.youtube.com/watch?v=hlZo30CYViE&t=6883s)]*
 
 > <sup>[17](/bible/2-kings/18#v17)</sup> And the king of Assyria sent Tartan and Rabsaris and Rab–shakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which is in the highway of the fuller’s field.
 >
@@ -323,7 +323,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - Make an agreement with me, and eat ye every man of his own vine: they threaten your resources, because they know once you cut off people's food and water, most will humble themselves and turn their back on God. That is why the bishop tells you to start putting food away.
 - Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria? He called out all the gods that could not stop him. But the people held their peace, and answered him not a word, for the king's commandment was, Answer him not. That is why the bishop says do not do interviews with these people; we do not have to answer them.
 
-**[2 Kings 19:1-37](/bible/2-kings/19#v1)**  *[2:03:41]*
+**[2 Kings 19:1-37](/bible/2-kings/19#v1)**  *[[2:03:41](https://www.youtube.com/watch?v=hlZo30CYViE&t=7421s)]*
 
 > <sup>[1](/bible/2-kings/19#v1)</sup> And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the Lord.
 >
@@ -397,7 +397,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - And it came to pass that night, that the angel of the Lord went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand. One angel killed 185,000 men of war in one night; in the morning they were all dead corpses.
 - Sennacherib returned to Nineveh, and as he was worshipping in the house of Nisroch his god, his own sons smote him with the sword and escaped. God will send strange punishments to the proud, even from inside their own house.
 
-**[Daniel 4:18-37](/bible/daniel/4#v18)**  *[2:15:06]*
+**[Daniel 4:18-37](/bible/daniel/4#v18)**  *[[2:15:06](https://www.youtube.com/watch?v=hlZo30CYViE&t=8106s)]*
 
 > <sup>[18](/bible/daniel/4#v18)</sup> This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee.
 >
@@ -445,7 +445,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - The same hour he was driven from men, did eat grass as oxen, his body was wet with the dew of heaven, his hairs grew like eagles' feathers and his nails like birds' claws. God humbled him until the length of time was fulfilled.
 - At the end of the days, Nebuchadnezzar lifted up his eyes unto heaven, and his understanding returned, and he blessed the Most High: all the inhabitants of the earth are reputed as nothing; none can stay his hand, or say unto him, What doest thou? And those that walk in pride he is able to abase. Do not let your pride pull you aside from God; humble yourself before he draws the picture for you.
 
-**[Acts 12:1-11, 18-23](/bible/acts/12#v1)**  *[2:24:23]*
+**[Acts 12:1-11, 18-23](/bible/acts/12#v1)**  *[[2:24:23](https://www.youtube.com/watch?v=hlZo30CYViE&t=8663s)]*
 
 > <sup>[1](/bible/acts/12#v1)</sup> Now about that time Herod the king stretched forth his hands to vex certain of the church.
 >
@@ -486,7 +486,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - The angel of the Lord came upon him, and a light shined in the prison, and his chains fell off from his hands. The angel walked him past the first and second ward, and the iron gate opened of his own accord, and Peter thought he saw a vision. When Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews. The government and his own people were against him; all we have is the prayer of the church and the angels answering those prayers.
 - Herod examined the keepers and commanded that they should be put to death; then on a set day, arrayed in royal apparel on his throne, he made an oration, and the people gave a shout, saying, It is the voice of a god, and not of a man. And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost. That is the same spirit as calling a president the savior. God is still listening to these empires talk.
 
-**[2 Maccabees 9:1-28](/bible/2-maccabees/9#v1)**  *[2:32:42]*
+**[2 Maccabees 9:1-28](/bible/2-maccabees/9#v1)**  *[[2:32:42](https://www.youtube.com/watch?v=hlZo30CYViE&t=9162s)]*
 
 > <sup>[1](/bible/2-maccabees/9#v1)</sup> About that time came Antiochus with dishonour out of the country of Persia
 >
@@ -553,7 +553,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - This wicked person vowed unto the Lord, who now no more would have mercy upon him: he promised to set the holy city at liberty, make the Jews equals to the citizens of Athens, garnish the temple with goodly gifts, pay for the sacrifices out of his own revenue, yea, and become a Jew himself, and go through all the world preaching the power of God. When that torment touched him, all of a sudden he wanted to be God's friend.
 - But for all this his pains would not cease: for the just judgment of God was come upon him. He wrote the Jews a flattering letter, to the good Jews his citizens, blaming circumstance and commending his son. Thus the murderer and blasphemer, having suffered most grievously, as he entreated other men, so died he a miserable death in a strange country in the mountains. All praises to the Most High God of Israel.
 
-**[1 Peter 5:6-8](/bible/1-peter/5#v6)**  *[2:46:43]*
+**[1 Peter 5:6-8](/bible/1-peter/5#v6)**  *[[2:46:43](https://www.youtube.com/watch?v=hlZo30CYViE&t=10003s)]*
 
 > <sup>[6](/bible/1-peter/5#v6)</sup> Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 >
@@ -565,7 +565,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 - Casting all your care upon him; for he careth for you. We are here because God cares; do not let anybody take you in any other direction.
 - Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour. Obadiah tells you who plays that role on the earth today.
 
-**[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[2:47:45]*
+**[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[2:47:45](https://www.youtube.com/watch?v=hlZo30CYViE&t=10065s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
@@ -590,4 +590,4 @@ The class was taught on the road in Canada this Sabbath, with prayers throughout
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-11-the-pride-of-thine-heart-hath-deceived-thee)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=hlZo30CYViE)

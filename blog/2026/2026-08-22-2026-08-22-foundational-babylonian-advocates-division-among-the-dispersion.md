@@ -87,7 +87,7 @@ The tethering.
 
 ## Scriptures Opened
 
-**[Psalms 2:1-3](/bible/psalms/2#v1)**  *[15:37]*
+**[Psalms 2:1-3](/bible/psalms/2#v1)**  *[[15:37](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=937s)]*
 
 > <sup>[1](/bible/psalms/2#v1)</sup> Why do the heathen rage, and the people imagine a vain thing?
 >
@@ -105,7 +105,7 @@ The tethering.
 
 - And cast away their cords from us. The cords goes into the word of God. The scriptures, the words of the prophets. That is what our people do not want, or what the so-called white man does not want presented to our people regardless of where we are.
 
-**[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[18:47]*
+**[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[[18:47](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=1127s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 >
@@ -117,7 +117,7 @@ The tethering.
 
 - And cursed shalt thou be in the field. Cursed in the field goes into plantations. Cursed inside the rubber fields in Africa. Cursed inside the rice fields, the cotton fields, the indigo fields, the tobacco, the sugarcane. And that was all throughout the Americas and all throughout the continent of Africa where it was colonised.
 
-**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[21:43]*
+**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[[21:43](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=1303s)]*
 
 > <sup>[28](/bible/deuteronomy/28#v28)</sup> The Lord shall smite thee with madness, and blindness, and astonishment of heart:
 
@@ -131,7 +131,7 @@ The tethering.
 
 - We will hug the murderer of our own brother. We will stroke the hair of the white woman that killed our own brother off this earth, give her a Bible and tell her God loves you. We will hop on a boat with three Edomite men and disappear, and the three of them have no clue in unison where your body is, and you fell overboard.
 
-**[Deuteronomy 28:30-32](/bible/deuteronomy/28#v30)**  *[28:31]*
+**[Deuteronomy 28:30-32](/bible/deuteronomy/28#v30)**  *[[28:31](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=1711s)]*
 
 > <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
 >
@@ -149,13 +149,13 @@ The tethering.
 
 - Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand. Our children were snatched out of our arms on auction blocks and given to somebody else against our will. We cried for them, we mourned for them, and never saw them again. If you watch Roots, when they took Kizzy away, it is the same exact thing. You watch 12 Years a Slave, the sister Eliza had her son and daughter taken away and she cried almost the entire time she was in the movie. And that was based on actual events, an actual book that Solomon Northup wrote.
 
-**[Deuteronomy 28:41](/bible/deuteronomy/28#v41)**  *[38:29]*
+**[Deuteronomy 28:41](/bible/deuteronomy/28#v41)**  *[[38:29](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=2309s)]*
 
 > <sup>[41](/bible/deuteronomy/28#v41)</sup> Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity.
 
 - Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity. They shall go into captivity. They will be snatched out of your arms and given to somebody else.
 
-**[Deuteronomy 28:43-46](/bible/deuteronomy/28#v43)**  *[38:29]*
+**[Deuteronomy 28:43-46](/bible/deuteronomy/28#v43)**  *[[38:29](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=2309s)]*
 
 > <sup>[43](/bible/deuteronomy/28#v43)</sup> The stranger that is within thee shall get up above thee very high; and thou shalt come down very low.
 >
@@ -173,7 +173,7 @@ The tethering.
 
 - And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever. These curses will be upon us for a sign, to show who we are in these last days, these latter days. A designation as to who and where God's people are. When you travel you will find these curses on our people wherever we go. And upon thy seed for ever: these will be generational curses. These are not one-time-only curses. It says upon your children for ever, until God says it is enough.
 
-**[Deuteronomy 28:47-48](/bible/deuteronomy/28#v47)**  *[48:55]*
+**[Deuteronomy 28:47-48](/bible/deuteronomy/28#v47)**  *[[48:55](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=2935s)]*
 
 > <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
 >
@@ -185,13 +185,13 @@ The tethering.
 
 - And he shall put a yoke of iron upon thy neck, until he have destroyed thee. Both the white man and the Arabs, all the nations did this, but the white man primarily is responsible. The chains are removed and the chains are still there in your mind, in your thought process. Going back to verse 28 where it says madness, that is prison.
 
-**[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**  *[50:27]*
+**[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**  *[[50:27](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=3027s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
 - And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone. We are the dispersed, the diaspora. That is us. And there thou shalt serve other gods: Christianity and Islam.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[51:16]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[51:16](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=3076s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
@@ -211,7 +211,7 @@ The tethering.
 
     I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Egypt is the house of bondage, the house of slavery, the house of captivity. Egypt and slavery are synonymous.
 
-**[1 Kings 8:46-47](/bible/1-kings/8#v46)**  *[54:26]*
+**[1 Kings 8:46-47](/bible/1-kings/8#v46)**  *[[54:26](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=3266s)]*
 
 > <sup>[46](/bible/1-kings/8#v46)</sup> If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
 >
@@ -229,7 +229,7 @@ The tethering.
 
     For I knew that they would not hear me, because it is a stiffnecked people: but in the land of their captivities they shall remember themselves. Baruch clears up the word bethink easily. In the land of our captivity, the land of our enemy, we shall remember ourselves.
 
-**[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[1:03:29]*
+**[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[1:03:29](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=3809s)]*
 
 > <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
 
@@ -239,7 +239,7 @@ The tethering.
 
 - That is the black man and woman's condition all over the world. A national disgrace. That is us today. And that goes with the names too. FBA is a byword. African-American is a byword. Jamaican, Trinidadian, Haitian, these are all bywords. Puerto Rican, Dominican, these are bywords. Sierra Leonean, Nigerian, Malagasy, these are bywords. Native American is a byword. Indian is a byword. Names given to you outside your God-given name, whether self-given or forced upon you. They are not our names. They are bywords. Pseudonyms.
 
-**[Zephaniah 2:1-3](/bible/zephaniah/2#v1)**  *[1:06:44]*
+**[Zephaniah 2:1-3](/bible/zephaniah/2#v1)**  *[[1:06:44](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=4004s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 >
@@ -257,7 +257,7 @@ The tethering.
 
 - And you do realise that here is not home, right? When we came here, Native Americans, Israelites, we left slavery. This is a place of refuge. We left Samaria, we left captivity from Persia. They got liberty from Persia to come over here and stay here and keep God's laws. This was a place of exile, because the northern kingdom was kicked out of their land and deported and could not return during that time. So they said, let us go to another place, let us go to the Americas. This is a land of exile. This is not home. Home is the land of Israel, from the Nile to the Euphrates. That whole land mass, the lands in between, that is ours.
 
-**[Psalms 133:1-2](/bible/psalms/133#v1)**  *[1:10:45]*
+**[Psalms 133:1-2](/bible/psalms/133#v1)**  *[[1:10:45](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=4245s)]*
 
 > <sup>[1](/bible/psalms/133#v1)</sup> Behold, how good and how pleasant it is for brethren to dwell together in unity!
 >
@@ -267,7 +267,7 @@ The tethering.
 
 - It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments. So the Lord compares the unity of our people to the special ointment and oil that was poured upon Aaron's head, that ran down his beard, that only Aaron and his sons could wear. If you copied that ointment or tried to mimic it, you were put to death for that. That is how precious and exclusive that oil was. So God compares our unity to that exclusive anointing oil. Our unity is exclusive. It is special beyond anybody else's unity. Whether it be a European Union, that is garbage in the eyes of God. Or an African summit, that is nonsense in the eyes of God. The unity God seeks is a unity of all twelve tribes of Israel scattered and found throughout the world, especially in the continent of Africa where we are abundant.
 
-**[Leviticus 26:17](/bible/leviticus/26#v17)**  *[1:28:08]*
+**[Leviticus 26:17](/bible/leviticus/26#v17)**  *[[1:28:08](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=5288s)]*
 
 > <sup>[17](/bible/leviticus/26#v17)</sup> And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.
 
@@ -275,13 +275,13 @@ The tethering.
 
 - And ye shall flee when none pursueth you. And you shall run and cower when none pursues you. The Most High put upon us a cowardly spirit. It is a slave mind when you focus all your anger on a people who are oppressed and destroyed like you. It is called displaced anger. I cannot get at the white man the way I get at you.
 
-**[Leviticus 26:19](/bible/leviticus/26#v19)**  *[1:29:55]*
+**[Leviticus 26:19](/bible/leviticus/26#v19)**  *[[1:29:55](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=5395s)]*
 
 > <sup>[19](/bible/leviticus/26#v19)</sup> And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:
 
 - And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass. You will be powerless. Put you in chains.
 
-**[Leviticus 26:36-37](/bible/leviticus/26#v36)**  *[1:32:24]*
+**[Leviticus 26:36-37](/bible/leviticus/26#v36)**  *[[1:32:24](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=5544s)]*
 
 > <sup>[36](/bible/leviticus/26#v36)</sup> And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
 >
@@ -291,7 +291,7 @@ The tethering.
 
 - And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies. No power to stand before your enemy. You have to know who your enemies are. That is why we have no power. Our power is the Lord, but we turned against that power. So we have no power at all in the world. We will cry, we will protest, we will march, but no power. None, until we repent.
 
-**[Matthew 5:23-24](/bible/matthew/5#v23)**  *[1:39:30]*
+**[Matthew 5:23-24](/bible/matthew/5#v23)**  *[[1:39:30](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=5970s)]*
 
 > <sup>[23](/bible/matthew/5#v23)</sup> Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 >
@@ -301,7 +301,7 @@ The tethering.
 
 - Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift. Leave your sacrifice there. Go make up with your brother. Any problems you have, go reconcile that with him. Christ was also revolutionary. He said the exact same thing Malcolm said: when you have a problem with your brother, do not go on social media and announce all the problems you have with each other for the world to see. Go to them yourself.
 
-**[Proverbs 25:8-10](/bible/proverbs/25#v8)**  *[1:40:14]*
+**[Proverbs 25:8-10](/bible/proverbs/25#v8)**  *[[1:40:14](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6014s)]*
 
 > <sup>[8](/bible/proverbs/25#v8)</sup> Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame.
 >
@@ -315,13 +315,13 @@ The tethering.
 
 - Lest he that heareth it put thee to shame, and thine infamy turn not away. That is what Christ said. Go to your brother and him alone. Go deal with him alone. Deal with your problem. We do not do that as a people. We cry. We want attention. We want views. We want likes. We want monetary gain, viewers.
 
-**[Micah 2:10](/bible/micah/2#v10)**  *[1:41:47]*
+**[Micah 2:10](/bible/micah/2#v10)**  *[[1:41:47](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6107s)]*
 
 > <sup>[10](/bible/micah/2#v10)</sup> Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.
 
 - Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction. Arise ye and depart. For this is not your rest. This is not our home. We are not free here. We are here because we are not free. Because it is polluted: this land is polluted. It shall destroy you: you will die with it.
 
-**[Micah 4:10](/bible/micah/4#v10)**  *[1:42:26]*
+**[Micah 4:10](/bible/micah/4#v10)**  *[[1:42:26](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6146s)]*
 
 > <sup>[10](/bible/micah/4#v10)</sup> Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the Lord shall redeem thee from the hand of thine enemies.
 
@@ -329,7 +329,7 @@ The tethering.
 
 - There shalt thou be delivered. We will be saved from our enemies in Babylon, in captivity, by our God. There the Lord shall redeem thee from the hand of thine enemies. That is what he said: no man shall buy you, because the Lord himself will buy us. Redeem means to buy, to buy again. The Lord said, I am going to redeem you. I will save you again. Not any man.
 
-**[Job 10:21-22](/bible/job/10#v21)**  *[1:46:24]*
+**[Job 10:21-22](/bible/job/10#v21)**  *[[1:46:24](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6384s)]*
 
 > <sup>[21](/bible/job/10#v21)</sup> Before I go whence I shall not return, even to the land of darkness and the shadow of death;
 >
@@ -339,7 +339,7 @@ The tethering.
 
 - A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness. Without any order: chaos and discord is celebrated here. And where the light is as darkness: good is seen as evil, or sin is seen as good. That is here, that Negroes brag about being foundationally a part of.
 
-**[Baruch 3:8-10](/bible/baruch/3#v8)**  *[1:48:00]*
+**[Baruch 3:8-10](/bible/baruch/3#v8)**  *[[1:48:00](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6480s)]*
 
 > <sup>[8](/bible/baruch/3#v8)</sup> Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God.
 >
@@ -357,7 +357,7 @@ The tethering.
 
 - In a strange country: America is a strange country, a land of darkness as darkness itself. That thou art defiled with the dead: we are a spiritually dead people. We are zombies out here. We are lost. Displaced anger, ignorance. We were always here, there were no slave ships. That is a stupid mindset to have. That means you do not read. You read nothing to come to that conclusion.
 
-**[Ezekiel 37:1-10](/bible/ezekiel/37#v1)**  *[1:52:43]*
+**[Ezekiel 37:1-10](/bible/ezekiel/37#v1)**  *[[1:52:43](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=6763s)]*
 
 > <sup>[1](/bible/ezekiel/37#v1)</sup> The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 >
@@ -405,13 +405,13 @@ The tethering.
 
     The man that wandereth out of the way of understanding shall remain in the congregation of the dead. So our people, when we got conquered and overthrown and colonised by our oppressors over the course of time up until now, we wandered out of understanding and now we are the congregation of the dead. We are a spiritually dead people, alive and well, but inside we are dead, destroyed, divisive, self-defeating, self-hating, self-detrimental.
 
-**[Isaiah 42:7](/bible/isaiah/42#v7)**  *[1:58:41]*
+**[Isaiah 42:7](/bible/isaiah/42#v7)**  *[[1:58:41](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7121s)]*
 
 > <sup>[7](/bible/isaiah/42#v7)</sup> To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.
 
 - To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house. Bring out the prisoners from the prison. America is your prison. And them that sit in darkness is that same land earlier: that Job 10, that valley of dry bones, that valley of the shadow of death, is the same exact place that sits in darkness in the prison. The Bible calls our captivities, or the lands of our captivities, prisons or prison houses.
 
-**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[1:59:34]*
+**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[1:59:34](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7174s)]*
 
 > <sup>[22](/bible/isaiah/42#v22)</sup> But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 
@@ -419,7 +419,7 @@ The tethering.
 
 - They are for a prey: we are exploited, extorted, used, abused. And none delivereth. That is what God said, I will come and redeem you. Nobody else is trying to set you free but me. For a spoil, and none saith, Restore. Restore the spirit back in those bones. Leave them dead. None says restore them back to what they once were.
 
-**[Isaiah 49:8-9](/bible/isaiah/49#v8)**  *[2:00:23]*
+**[Isaiah 49:8-9](/bible/isaiah/49#v8)**  *[[2:00:23](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7223s)]*
 
 > <sup>[8](/bible/isaiah/49#v8)</sup> Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
 >
@@ -429,7 +429,7 @@ The tethering.
 
 - That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places. Meaning we shall get the kingdom. It goes into us getting the kingdom, coming out of prison and getting the kingdom.
 
-**[Ezekiel 34:1-8](/bible/ezekiel/34#v1)**  *[2:09:09]*
+**[Ezekiel 34:1-8](/bible/ezekiel/34#v1)**  *[[2:09:09](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=7749s)]*
 
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
@@ -459,13 +459,13 @@ The tethering.
 
 - Therefore, ye shepherds, hear the word of the Lord; As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock. That is your pastor today. They do not feed their people. They are trying to find Israel in one place, feeding themselves. You have to search and seek your people who are scattered. That is what it is. That is a revolution. A global revolution.
 
-**[Exodus 19:6](/bible/exodus/19#v6)**  *[2:14:38]*
+**[Exodus 19:6](/bible/exodus/19#v6)**  *[[2:14:38](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8078s)]*
 
 > <sup>[6](/bible/exodus/19#v6)</sup> And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
 
 - And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel. An holy nation. Black nationalism. Revolutionary. So Israel is a nation of people.
 
-**[John 10:15-16](/bible/john/10#v15)**  *[2:15:30]*
+**[John 10:15-16](/bible/john/10#v15)**  *[[2:15:30](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8130s)]*
 
 > <sup>[15](/bible/john/10#v15)</sup> As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
 >
@@ -477,7 +477,7 @@ The tethering.
 
 - And they shall hear my voice. They will hear his voice. God's people will hear his voice, whether you think they are Ham or not. He says, my sheep hear my voice. And there shall be one fold: there shall be one nation. And one shepherd: one leader.
 
-**[John 11:49-52](/bible/john/11#v49)**  *[2:17:00]*
+**[John 11:49-52](/bible/john/11#v49)**  *[[2:17:00](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8220s)]*
 
 > <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
 >
@@ -493,7 +493,7 @@ The tethering.
 
 - And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad. Not for Judah, or African-Americans, or FBA only. But that also he should gather together in one the children of God that were scattered abroad. Christ had to bring about all Israel scattered abroad. That is a global nationalist. That is black global nationalism, revolutionism. That is what this is.
 
-**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[2:18:26]*
+**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[[2:18:26](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8306s)]*
 
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
@@ -517,7 +517,7 @@ The tethering.
 
 - For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth. That is America today. Arsareth, new-found land, new land. So they left, they came over here, they could not go back to their own land. This land was set for us to be in in these times, to eventually be overthrown and enslaved in and eventually saved out of while it burns. This is not our land. That is why it is going to burn.
 
-**[Exodus 1:8-14](/bible/exodus/1#v8)**  *[2:19:55]*
+**[Exodus 1:8-14](/bible/exodus/1#v8)**  *[[2:19:55](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8395s)]*
 
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
 >
@@ -545,13 +545,13 @@ The tethering.
 
 - And when you read verse 15 and down, that is Planned Parenthood. They said kill all the males. Population control. That is Margaret Sanger, from verse 15 to 22. And her plan is in verse 10: deal wisely with them. So they could not kill us through hard labour and bondage, so they started killing the babies. Nothing new under the sun. They did it here too.
 
-**[Numbers 11:1](/bible/numbers/11#v1)**  *[2:22:14]*
+**[Numbers 11:1](/bible/numbers/11#v1)**  *[[2:22:14](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8534s)]*
 
 > <sup>[1](/bible/numbers/11#v1)</sup> And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
 
 - And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp. So we complained after being saved out of captivity. Complained from what? Hard bondage, babies getting murdered. And God started killing us. He set us on fire.
 
-**[Numbers 11:4-6](/bible/numbers/11#v4)**  *[2:22:57]*
+**[Numbers 11:4-6](/bible/numbers/11#v4)**  *[[2:22:57](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8577s)]*
 
 > <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 >
@@ -565,7 +565,7 @@ The tethering.
 
 - But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 
-**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[2:23:41]*
+**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[2:23:41](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8621s)]*
 
 > <sup>[1](/bible/numbers/14#v1)</sup> And all the congregation lifted up their voice, and cried; and the people wept that night.
 >
@@ -583,7 +583,7 @@ The tethering.
 
 - And they said one to another, Let us make a captain, and let us return into Egypt. Let us find a Brandon Tatum. Let us find a Jason Whitlock. And return back to slavery. That goes back to being destroyed. It is the same thing with us here. We will tell brothers America is Babylon the great, and they will say no it is not, we have always been here, we are Americans, we eat good, we live good, we dress good. It is the same mentality.
 
-**[Jeremiah 2:13-14](/bible/jeremiah/2#v13)**  *[2:25:16]*
+**[Jeremiah 2:13-14](/bible/jeremiah/2#v13)**  *[[2:25:16](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8716s)]*
 
 > <sup>[13](/bible/jeremiah/2#v13)</sup> For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.
 >
@@ -593,7 +593,7 @@ The tethering.
 
 - Is Israel a servant? is he a homeborn slave? why is he spoiled? Is Israel a slave? Is he a homeborn slave? If you are a homeborn slave, you are a slave born in a home. That is a house slave. Even God asks the question. Why is he spoiled? Why is he always destroyed? Because we are always breaking God's laws. We do not want to do what God said to do.
 
-**[Isaiah 28:15](/bible/isaiah/28#v15)**  *[2:26:53]*
+**[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[2:26:53](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8813s)]*
 
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
@@ -615,7 +615,7 @@ The tethering.
 
     In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow. So this device pleased them well. Then certain of the people were so forward herein, that they went to the king, who gave them licence to do after the ordinances of the heathen. We must always have massa around. We are foundational. So all we have to do is stay here, be patient and quiet, and massa will give us money because he knows we deserve it.
 
-**[John 8:32-33](/bible/john/8#v32)**  *[2:28:23]*
+**[John 8:32-33](/bible/john/8#v32)**  *[[2:28:23](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8903s)]*
 
 > <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
 >
@@ -625,7 +625,7 @@ The tethering.
 
 - They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free? We are not in slavery to anybody. I make six figures. I live in the suburbs. I make ten million dollars a year. I am a spokesman. I am a politician. I am no slave, Negro, you are a slave. I do well for myself. I can go where I want. I can do what I want. I have my amendment rights. In bondage to no man. So what do you mean, we are going to be free? We are already free.
 
-**[John 11:47-48](/bible/john/11#v47)**  *[2:29:09]*
+**[John 11:47-48](/bible/john/11#v47)**  *[[2:29:09](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8949s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 >
@@ -635,7 +635,7 @@ The tethering.
 
 - So these guys understood among themselves that they were not free. They knew they were captive. They said, if we leave this guy alone, Rome will remove us from our seat of authority. So these guys were liars. We are free, but why are you worried about Rome for? They were lying for the audience.
 
-**[Genesis 49:10](/bible/genesis/49#v10)**  *[2:29:53]*
+**[Genesis 49:10](/bible/genesis/49#v10)**  *[[2:29:53](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=8993s)]*
 
 > <sup>[10](/bible/genesis/49#v10)</sup> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 
@@ -643,7 +643,7 @@ The tethering.
 
 - Until Shiloh come, so Christ comes, and unto him shall the gathering of the people be. Unto Christ shall the gathering of all twelve tribes be. Not the dividing. Not the foundational ones. The gathering of the people, the nation Israel, all twelve tribes, starting with the teachings coming from Judah. We are going to be the ones to go out throughout the world and find our people and unite all of us in these laws and commandments as the Israelites. Not as foundational Babylonian Americans, or later on foundational burnt Americans.
 
-**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[2:31:21]*
+**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[[2:31:21](https://www.youtube.com/watch?v=a5Dzjsx02qA&t=9081s)]*
 
 > <sup>[7](/bible/deuteronomy/33#v7)</sup> And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
 
@@ -657,4 +657,4 @@ We are going to find Israel all over the world. So with that we say shalom. Most
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-22-foundational-babylonian-advocates-division-among-the-dispersion)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=a5Dzjsx02qA)

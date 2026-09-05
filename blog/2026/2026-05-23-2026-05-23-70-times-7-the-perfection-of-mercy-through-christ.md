@@ -25,7 +25,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
 ## Scriptures Opened
 
-**[Ecclesiasticus 12:10-11](/bible/sirach/12#v10)**  *[14:23]*
+**[Ecclesiasticus 12:10-11](/bible/sirach/12#v10)**  *[[14:23](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=863s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 >
@@ -34,7 +34,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - Never trust thine enemy: for like as iron rusteth, so is his wickedness. Not sometimes; never. Back then he was cool with everybody; give him time, and the rust shows. Though he humble himself and go crouching, yet take good heed and beware of him: thou shalt know that his rust hath not been altogether wiped away.
 - The Most High asks, can a leopard change his spots? You cannot change Esau, and you were never commissioned to try.
 
-**[Genesis 15:13](/bible/genesis/15#v13)**  *[16:33]*
+**[Genesis 15:13](/bible/genesis/15#v13)**  *[[16:33](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=993s)]*
 
 > <sup>[13](/bible/genesis/15#v13)</sup> And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
 
@@ -62,7 +62,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God. That is the lineage of the sons of God: the chosen line comes through Seth, who replaced Abel. Write that down so the question never confuses you again.
 
-**[Exodus 1:1-11](/bible/exodus/1#v1)**  *[22:58]*
+**[Exodus 1:1-11](/bible/exodus/1#v1)**  *[[22:58](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=1378s)]*
 
 > <sup>[1](/bible/exodus/1#v1)</sup> Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 >
@@ -90,7 +90,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - A new king arose which knew not Joseph, and said, Come on, let us deal wisely with them. How does modern day Egypt deal wisely with us now? Brothers answered: keeping us in the ghettos ringed with liquor stores and bad food, think tanks designing propaganda, and above all religion and politics. Those are the two main tools, because the keeping of God's commandments is what unifies us as a nation, and Esau knows it; that is why billions are pumped into religions and politics to keep the Israelites divided.
 - They set over us taskmasters to afflict us with burdens, and we built Pharaoh's treasure cities. We built the pyramids and the great cities of Egypt the same way we built up America; when the Israelites left Egypt, no new pyramid ever popped up.
 
-**[Exodus 3:1-14](/bible/exodus/3#v1)**  *[28:04]*
+**[Exodus 3:1-14](/bible/exodus/3#v1)**  *[[28:04](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=1684s)]*
 
 > <sup>[1](/bible/exodus/3#v1)</sup> Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
 >
@@ -134,7 +134,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Verily, verily, I say unto you, before Abraham was, I am. That is who spoke to Moses out of the bush: Christ.
 
-**[1 Corinthians 10:1-11](/bible/1-corinthians/10#v1)**  *[34:47]*
+**[1 Corinthians 10:1-11](/bible/1-corinthians/10#v1)**  *[[34:47](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=2087s)]*
 
 > <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 >
@@ -179,7 +179,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     I led my people out of Egypt, and brought him up to mount Sinai, where I held him by me a long season: the forty days and forty nights. He told Moses many wondrous things and showed him the secrets of the times, the beginning, the middle, and the end; that is how Moses wrote the first five books, and how he saw even his own end before the promised land.
 
-**[Isaiah 1:4](/bible/isaiah/1#v4)**  *[41:52]*
+**[Isaiah 1:4](/bible/isaiah/1#v4)**  *[[41:52](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=2512s)]*
 
 > <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
 
@@ -192,7 +192,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Come unto me, all ye that labour and are heavy laden, and I will give you rest. Heavy laden with sin, and the rest is not a good night's sleep: it is the kingdom, rulership for a thousand years under Christ. This is why we need a saviour; we cannot do it without Christ.
 
-**[Numbers 13:1-3](/bible/numbers/13#v1)**  *[45:26]*
+**[Numbers 13:1-3](/bible/numbers/13#v1)**  *[[45:26](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=2726s)]*
 
 > <sup>[1](/bible/numbers/13#v1)</sup> And the Lord spake unto Moses, saying,
 >
@@ -203,7 +203,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - The Lord spake unto Moses: send thou men, that they may search the land of Canaan, which I give unto the children of Israel. Which I give: the fight was already the Lord's, and the land already given.
 - The men sent were not regular brothers; every one a ruler among them, heads of the children of Israel, men of renown who could lead other men.
 
-**[Numbers 13:25-33](/bible/numbers/13#v25)**  *[47:20]*
+**[Numbers 13:25-33](/bible/numbers/13#v25)**  *[[47:20](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=2840s)]*
 
 > <sup>[25](/bible/numbers/13#v25)</sup> And they returned from searching of the land after forty days.
 >
@@ -227,7 +227,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - Caleb stilled the people and said, Let us go up at once and possess it, for we are well able to overcome it. Caleb showed faith and courage: the Most High already said he would deliver the enemy into our hands, so their stature did not matter.
 - But the men that went up with him brought an evil report: we were in our own sight as grasshoppers. Rulers and leaders, shook with doubt and fear; and doubt and fear are Satan's playground.
 
-**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[50:31]*
+**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[50:31](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=3031s)]*
 
 > <sup>[1](/bible/numbers/14#v1)</sup> And all the congregation lifted up their voice, and cried; and the people wept that night.
 >
@@ -241,7 +241,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - Would God that we had died in Egypt; were it not better for us to return into Egypt? In chapter one of this history they were crying to the Most High under the taskmasters; now they are in the wilderness and want to go back to master. Remember Harriet Tubman: I could have saved thousands more if they had known they were slaves. Our people still want to stay with master in Babylon America; it is the same thought.
 - And they said one to another, Let us make a captain. No to the leaders God appointed; they wanted somebody to give heed unto their itching ears.
 
-**[Numbers 14:11-12](/bible/numbers/14#v11)**  *[54:45]*
+**[Numbers 14:11-12](/bible/numbers/14#v11)**  *[[54:45](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=3285s)]*
 
 > <sup>[11](/bible/numbers/14#v11)</sup> And the Lord said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
 >
@@ -249,7 +249,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
 - The Lord said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them? The Most High is showing longsuffering: all the plagues, all the miracles, and they are still moved by unbelief.
 
-**[Numbers 14:18-23](/bible/numbers/14#v18)**  *[55:27]*
+**[Numbers 14:18-23](/bible/numbers/14#v18)**  *[[55:27](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=3327s)]*
 
 > <sup>[18](/bible/numbers/14#v18)</sup> The Lord is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
 >
@@ -357,7 +357,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     And he called the name of that place Kibrothhattaavah: because there they buried the people that lusted.
 
-**[Numbers 14:26-35](/bible/numbers/14#v26)**  *[1:13:02]*
+**[Numbers 14:26-35](/bible/numbers/14#v26)**  *[[1:13:02](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=4382s)]*
 
 > <sup>[26](/bible/numbers/14#v26)</sup> And the Lord spake unto Moses and unto Aaron, saying,
 >
@@ -383,7 +383,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - Those twenty years old and upward did not enter in; the little ones the doubters said would be a prey were the ones brought in to know the land their fathers despised.
 - After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years. That is how the Most High gets down with numbers: the forty years matched the forty days exactly.
 
-**[Judges 2:11-19](/bible/judges/2#v11)**  *[1:16:35]*
+**[Judges 2:11-19](/bible/judges/2#v11)**  *[[1:16:35](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=4595s)]*
 
 > <sup>[11](/bible/judges/2#v11)</sup> And the children of Israel did evil in the sight of the Lord, and served Baalim:
 >
@@ -406,7 +406,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - In the land the pattern repeated: Israel forsook the Lord, served Baal and Ashtaroth, and provoked the Lord to anger; he sold them into the hands of their enemies; they cried out; he raised up judges and delivered them. Israel sins, we cry out, God delivers, again and again.
 - And when the judge was dead, they returned and corrupted themselves more than their fathers. That is why we are in need of a shepherd: left to ourselves, we destroy ourselves.
 
-**[2 Chronicles 36:15-21](/bible/2-chronicles/36#v15)**  *[1:19:32]*
+**[2 Chronicles 36:15-21](/bible/2-chronicles/36#v15)**  *[[1:19:32](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=4772s)]*
 
 > <sup>[15](/bible/2-chronicles/36#v15)</sup> And the Lord God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:
 >
@@ -425,13 +425,13 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - The Lord God of their fathers sent to them by his messengers, rising up betimes and sending, because he had compassion on his people; but they mocked the messengers of God and despised his words, until the wrath of the Lord arose against his people, till there was no remedy.
 - The Babylonians burnt the house of God and brake down the wall of Jerusalem. With the temple destroyed, what could no longer take place? Sacrifice. The prophet Jeremiah called Israel a homeborn slave: from captivity to captivity there was no atonement to be had, and that is exactly why we needed a saviour, an ultimate sacrifice.
 
-**[Matthew 1:17](/bible/matthew/1#v17)**  *[1:22:06]*
+**[Matthew 1:17](/bible/matthew/1#v17)**  *[[1:22:06](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=4926s)]*
 
 > <sup>[17](/bible/matthew/1#v17)</sup> So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
 
 - Fourteen generations from Abraham to David, fourteen from David to the carrying away into Babylon, and fourteen from Babylon unto Christ. The line ran through slavery the whole way down.
 
-**[Matthew 1:21](/bible/matthew/1#v21)**  *[1:22:36]*
+**[Matthew 1:21](/bible/matthew/1#v21)**  *[[1:22:36](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=4956s)]*
 
 > <sup>[21](/bible/matthew/1#v21)</sup> And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
 
@@ -458,7 +458,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     All things were made by him, and without him was not any thing made that was made. Christ was always the plan.
 
-**[Genesis 2:1-3](/bible/genesis/2#v1)**  *[1:25:51]*
+**[Genesis 2:1-3](/bible/genesis/2#v1)**  *[[1:25:51](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=5151s)]*
 
 > <sup>[1](/bible/genesis/2#v1)</sup> Thus the heavens and the earth were finished, and all the host of them.
 >
@@ -497,7 +497,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     It is a sign between me and the children of Israel for ever, a perpetual covenant. Not the nations: the children of Israel only. When Christ returns, all nations will be made to keep it, but it was created for one people.
 
-**[Hebrews 3:15-19](/bible/hebrews/3#v15)**  *[1:30:19]*
+**[Hebrews 3:15-19](/bible/hebrews/3#v15)**  *[[1:30:19](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=5419s)]*
 
 > <sup>[15](/bible/hebrews/3#v15)</sup> While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.
 >
@@ -512,7 +512,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - Harden not your hearts, as in the provocation. Paul takes us right back to the history we just read: with whom was he grieved forty years? them whose carcases fell in the wilderness. And to whom sware he that they should not enter into his rest, but to them that believed not?
 - So we see that they could not enter in because of unbelief. Unbelief is what kept a delivered people out of the promise.
 
-**[Hebrews 4:1-11](/bible/hebrews/4#v1)**  *[1:31:24]*
+**[Hebrews 4:1-11](/bible/hebrews/4#v1)**  *[[1:31:24](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=5484s)]*
 
 > <sup>[1](/bible/hebrews/4#v1)</sup> Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
 >
@@ -579,7 +579,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     And they lived and reigned with Christ a thousand years. The seventh day Sabbath represents us resting and reigning with Christ; that is what every seventh day is rehearsing.
 
-**[2 Kings 5:10-14](/bible/2-kings/5#v10)**  *[1:43:37]*
+**[2 Kings 5:10-14](/bible/2-kings/5#v10)**  *[[1:43:37](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=6217s)]*
 
 > <sup>[10](/bible/2-kings/5#v10)</sup> And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.
 >
@@ -633,7 +633,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Many lepers were in Israel in the time of Eliseus the prophet, and none of them was cleansed, saving Naaman the Syrian. Christ himself reached back and referenced this exact history.
 
-**[Joshua 6:1-16](/bible/joshua/6#v1)**  *[1:51:02]*
+**[Joshua 6:1-16](/bible/joshua/6#v1)**  *[[1:51:02](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=6662s)]*
 
 > <sup>[1](/bible/joshua/6#v1)</sup> Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 >
@@ -676,7 +676,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ. The seventh trump brings forth completion, the same way the seventh circuit brought down Jericho.
 
-**[Leviticus 23:1-8](/bible/leviticus/23#v1)**  *[1:56:36]*
+**[Leviticus 23:1-8](/bible/leviticus/23#v1)**  *[[1:56:36](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=6996s)]*
 
 > <sup>[1](/bible/leviticus/23#v1)</sup> And the Lord spake unto Moses, saying,
 >
@@ -751,7 +751,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us. The old leaven is sin.
 
-**[Leviticus 23:15-17](/bible/leviticus/23#v15)**  *[2:07:57]*
+**[Leviticus 23:15-17](/bible/leviticus/23#v15)**  *[[2:07:57](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=7677s)]*
 
 > <sup>[15](/bible/leviticus/23#v15)</sup> And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:
 >
@@ -786,7 +786,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     These are they which were not defiled with women: not defiled with false doctrine and philosophy, and not defiled literally. These follow the Lamb whithersoever he goeth, being the firstfruits unto God and to the Lamb.
 
-**[Leviticus 23:24-25](/bible/leviticus/23#v24)**  *[2:11:04]*
+**[Leviticus 23:24-25](/bible/leviticus/23#v24)**  *[[2:11:04](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=7864s)]*
 
 > <sup>[24](/bible/leviticus/23#v24)</sup> Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.
 >
@@ -813,7 +813,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     And the trumpet shall give a sound, which when every man heareth, they shall be suddenly afraid. That trumpet is no flute; it is a frightening sound.
 
-**[Leviticus 23:27](/bible/leviticus/23#v27)**  *[2:14:05]*
+**[Leviticus 23:27](/bible/leviticus/23#v27)**  *[[2:14:05](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=8045s)]*
 
 > <sup>[27](/bible/leviticus/23#v27)</sup> Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the Lord.
 
@@ -863,7 +863,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     For in the long garment was the whole world: the high priest's ephod carried a stone for each tribe. The world on Aaron's chest was Israel, and Christ is the new high priest.
 
-**[Leviticus 23:34](/bible/leviticus/23#v34)**  *[2:19:45]*
+**[Leviticus 23:34](/bible/leviticus/23#v34)**  *[[2:19:45](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=8385s)]*
 
 > <sup>[34](/bible/leviticus/23#v34)</sup> Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the Lord.
 
@@ -887,7 +887,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God. He is the God of Israel; that is the completion every feast was pointing to.
 
-**[Proverbs 9:1](/bible/proverbs/9#v1)**  *[2:22:56]*
+**[Proverbs 9:1](/bible/proverbs/9#v1)**  *[[2:22:56](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=8576s)]*
 
 > <sup>[1](/bible/proverbs/9#v1)</sup> Wisdom hath builded her house, she hath hewn out her seven pillars:
 
@@ -907,14 +907,14 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     There shall come forth a rod out of the stem of Jesse: count the seven upon him. The spirit of the Lord, wisdom, understanding, counsel, might, knowledge, and the fear of the Lord: the seven pillars, complete spiritual perfection, which is what Christ operated in.
 
-**[Genesis 4:15](/bible/genesis/4#v15)**  *[2:25:09]*
+**[Genesis 4:15](/bible/genesis/4#v15)**  *[[2:25:09](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=8709s)]*
 
 > <sup>[15](/bible/genesis/4#v15)</sup> And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.
 
 - Now the flip side: the devil's seven. Whosoever slayeth Cain, vengeance shall be taken on him sevenfold. Cain was the first murderer, and the teaching is that his spirit runs through Esau: complete, unquenchable vengeance, murder and bloodshed to the epitome.
 - He tells the so called blacks to forget about slavery, but every September 11th it is "never forget," and the Holocaust is kept before the world perpetually while our four hundred years are waved away. That is vengeance kept alive on their terms and denied on ours.
 
-**[Genesis 4:23-24](/bible/genesis/4#v23)**  *[2:27:10]*
+**[Genesis 4:23-24](/bible/genesis/4#v23)**  *[[2:27:10](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=8830s)]*
 
 > <sup>[23](/bible/genesis/4#v23)</sup> And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
 >
@@ -937,7 +937,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
 
-**[Matthew 18:21-22](/bible/matthew/18#v21)**  *[2:31:06]*
+**[Matthew 18:21-22](/bible/matthew/18#v21)**  *[[2:31:06](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9066s)]*
 
 > <sup>[21](/bible/matthew/18#v21)</sup> Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?
 >
@@ -960,7 +960,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     Put on therefore, as the elect of God, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering; forbearing one another, and forgiving one another, even as Christ forgave you. Some of us hold grudges like there is no tomorrow; imagine if Christ held on to grudges toward us. We would not be here. Forgiveness is something to pray for.
 
-**[Daniel 9:24-27](/bible/daniel/9#v24)**  *[2:35:12]*
+**[Daniel 9:24-27](/bible/daniel/9#v24)**  *[[2:35:12](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9312s)]*
 
 > <sup>[24](/bible/daniel/9#v24)</sup> Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
 >
@@ -984,7 +984,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 
     And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh. The Roman armies: the desolation Daniel determined.
 
-**[Acts 5:29-31](/bible/acts/5#v29)**  *[2:39:14]*
+**[Acts 5:29-31](/bible/acts/5#v29)**  *[[2:39:14](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9554s)]*
 
 > <sup>[29](/bible/acts/5#v29)</sup> Then Peter and the other apostles answered and said, We ought to obey God rather than men.
 >
@@ -995,13 +995,13 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - We ought to obey God rather than men. The God of our fathers raised up Jesus; him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 - Now Matthew 18 lands in full: forgive your brother seventy times seven, because I forgave you seventy times seven. All those captivities where we could not sacrifice, going from one bondage to the next in the midst of sin: the only reason we are here is Christ.
 
-**[Revelation 7:14](/bible/revelation/7#v14)**  *[2:40:15]*
+**[Revelation 7:14](/bible/revelation/7#v14)**  *[[2:40:15](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9615s)]*
 
 > <sup>[14](/bible/revelation/7#v14)</sup> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 
 - These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb. That is the Israelites, and that washing is the only thing that brings us through to perfection.
 
-**[Hebrews 10:26-30](/bible/hebrews/10#v26)**  *[2:40:45]*
+**[Hebrews 10:26-30](/bible/hebrews/10#v26)**  *[[2:40:45](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9645s)]*
 
 > <sup>[26](/bible/hebrews/10#v26)</sup> For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 >
@@ -1016,7 +1016,7 @@ Set the frame first: the only reason we are in this building is because of Jesus
 - But do not take him for granted. If we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins, but a certain fearful looking for of judgment. Sinning wilfully is learning this truth and walking back into the world saying, put me back to sleep.
 - He that despised Moses' law died without mercy under two or three witnesses: of how much sorer punishment shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant an unholy thing? Vengeance belongeth unto me, I will recompense, saith the Lord; the Lord shall judge his people.
 
-**[2 Corinthians 5:14-15](/bible/2-corinthians/5#v14)**  *[2:42:24]*
+**[2 Corinthians 5:14-15](/bible/2-corinthians/5#v14)**  *[[2:42:24](https://www.youtube.com/watch?v=GbkgUFGpeY8&t=9744s)]*
 
 > <sup>[14](/bible/2-corinthians/5#v14)</sup> For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:
 >
@@ -1039,4 +1039,4 @@ Videos and materials referenced in class:
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-23-70-times-7-the-perfection-of-mercy-through-christ)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=GbkgUFGpeY8)

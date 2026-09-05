@@ -25,20 +25,20 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 
 ## Scriptures Opened
 
-**[Leviticus 19:17](/bible/leviticus/19#v17)**  *[19:40]*
+**[Leviticus 19:17](/bible/leviticus/19#v17)**  *[[19:40](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=1180s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 
 - Thou shalt not hate thy brother in thine heart; thou shalt not avenge, nor bear any grudge against the children of thy people. What you see going on in South Africa is the same thing you see going on in the United States of America. We as a people were destroyed in slavery and colonization; we have been taught to hate ourselves and to bear grudges against each other, and it manifests itself through violence: the gun violence in the streets of America, and the mobs in South Africa.
 - The people doing it there are the Zulu, and the Zulu tribe is Israel; they are Simeon. That does not mean all of them enter the kingdom, and it does not mean everybody in South Africa is our people, but that is who they are.
 
-**[Jeremiah 4:22](/bible/jeremiah/4#v22)**  *[21:24]*
+**[Jeremiah 4:22](/bible/jeremiah/4#v22)**  *[[21:24](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=1284s)]*
 
 > <sup>[22](/bible/jeremiah/4#v22)</sup> For my people is foolish, they have not known me; they are sottish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge.
 
 - For my people is foolish, they have not known me; they are sottish children, and they have none understanding. Sottish means stupid. God says it himself about his own people. People that look just like you come in and open little stores, and you are angry at them, when you are not angry at who you are supposed to be angry at: the ones who colonized you and carried off half the gold in the world from your own land.
 
-**[Hosea 7:11, 9-10](/bible/hosea/7#v11)**  *[31:00]*
+**[Hosea 7:11, 9-10](/bible/hosea/7#v11)**  *[[31:00](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=1860s)]*
 
 > <sup>[11](/bible/hosea/7#v11)</sup> Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 >
@@ -50,7 +50,7 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 - Strangers have devoured his strength, and he knoweth it not. The strength is the riches: the gold of South Africa devoured by strangers, and the people do not know it. Gray hairs are here and there upon him, yet he knoweth not: you got old under the robbery and never understood who was robbing you.
 - The pride of Israel testifieth to his face: and they do not return to the Lord their God. The misplaced anger at Nigerians and Ghanaians instead of the real enemy is the silly dove in real time.
 
-**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[41:21]*
+**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[[41:21](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=2481s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 
@@ -63,7 +63,7 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 
     That which hath been is named already, and it is known that it is man. The thing that repeats is man himself.
 
-**[2 Esdras 15:7-11](/bible/2-esdras/15#v7)**  *[45:02]*
+**[2 Esdras 15:7-11](/bible/2-esdras/15#v7)**  *[[45:02](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=2702s)]*
 
 > <sup>[7](/bible/2-esdras/15#v7)</sup> Therefore saith the Lord,
 >
@@ -79,7 +79,7 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 - Behold, my people is led as a flock to the slaughter: that is the Israelites in captivity. I will not suffer them now to dwell in the land of Egypt: the Egypt here is spiritual Egypt, which is America. Much oppression is going to take place on our people here, and you already see things being put in place to bring us under heavy oppression.
 - But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof. The same way the Most High smote Egypt in the past, he is going to do it again, and this time the whole land will be destroyed.
 
-**[Exodus 1:8-11](/bible/exodus/1#v8)**  *[49:10]*
+**[Exodus 1:8-11](/bible/exodus/1#v8)**  *[[49:10](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=2950s)]*
 
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
 >
@@ -95,13 +95,13 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 - That is why you see the laws changing now, the mass deportations, the push against the fourteenth amendment. They are saying again, let us deal wisely with them. In the last sixty years, since they allowed us into their society, we have become the majority, and now the response is the same as Pharaoh's.
 - Do not fall for the lie that our people are inferior. When our people apply themselves, we excel above the nations. It has nothing to do with any DEI; we are better qualified. That is exactly why it was once against the law for us to read, and why the institutions were built to keep us at the bottom.
 
-**[Revelation 11:8](/bible/revelation/11#v8)**  *[1:06:36]*
+**[Revelation 11:8](/bible/revelation/11#v8)**  *[[1:06:36](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=3996s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
 - The great city, which spiritually is called Sodom and Egypt: America is spiritual Egypt. The same way ancient Egypt set up institutions of oppression and slavery to keep us down in their society, modern day Egypt has done the same thing.
 
-**[Isaiah 28:14-15](/bible/isaiah/28#v14)**  *[1:07:24]*
+**[Isaiah 28:14-15](/bible/isaiah/28#v14)**  *[[1:07:24](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4044s)]*
 
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
 >
@@ -111,7 +111,7 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 - Because ye have said, we have made a covenant with death, and with hell are we at agreement. In Egypt our forefathers covenanted with Egypt; in the time of Christ the leaders made their agreement with Rome to stay in power; and during the civil rights movement the leaders of that time made a covenant and agreement with white America and its political machine. That is what the civil rights bargain was.
 - For we have made lies our refuge, and under falsehood have we hid ourselves: our people are comfortable in the lies that were sold to us in the 1960s. We trust in the lies of Christianity, the lies of their politics, the lies of Santa Claus and Easter, and we teach our children the lies. And some of those leaders hid themselves under falsehood, acting like they were for the people while they sold the people out. Not all of them: Dr. Martin Luther King really loved his people, and that is why he was killed. To see who sold him out, always look at who benefited the most when he died, and who was put up as the next leader for the black community.
 
-**[Habakkuk 2:4-5](/bible/habakkuk/2#v4)**  *[1:09:19]*
+**[Habakkuk 2:4-5](/bible/habakkuk/2#v4)**  *[[1:09:19](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4159s)]*
 
 > <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
 >
@@ -121,13 +121,13 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 - He transgresseth by wine, he is a proud man, neither keepeth at home: he does not stay in his own land. Who enlargeth his desire as hell, and is as death, and cannot be satisfied: anything he wants, he takes, and the lands he takes it from catch hell. This is a prophecy about America coming into power, and it calls America what? Hell and death.
 - But gathereth unto him all nations, and heapeth unto him all people: which nation on earth gathers all people, the great melting pot? Mystery Babylon the great: the United States of America, where every nation dwells, including the twelve tribes of Israel.
 
-**[Matthew 16:18](/bible/matthew/16#v18)**  *[1:13:04]*
+**[Matthew 16:18](/bible/matthew/16#v18)**  *[[1:13:04](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4384s)]*
 
 > <sup>[18](/bible/matthew/16#v18)</sup> And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
 
 - Upon this rock I will build my church, and the gates of hell shall not prevail against it. The church is the body of Christ, the twelve tribes. The gates of hell Christ was speaking of at that time was Rome.
 
-**[John 11:48](/bible/john/11#v48)**  *[1:13:49]*
+**[John 11:48](/bible/john/11#v48)**  *[[1:13:49](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4429s)]*
 
 > <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
@@ -141,7 +141,7 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 - Video played in class: Dr. King five days before his death, recounted by a friend: "We fought long for integration. It looks like we're going to get it. But I'm afraid that we're integrating into a burning house. America's lost whatever little moral vision it had, and a nation not governed by moral principles is headed for an abyss. Black people may be getting into a system that in the final analysis is a Sodom and Gomorrah." He was shown something. And in the mountaintop speech the night before he was killed: "I may not get there with you, but we as a people will get to the promised land. Mine eyes have seen the glory of the coming of the Lord." The promised land he spoke of was not America; he had already said America was a burning house. His dream changed from little boys and girls holding hands to we as a people. He heard and saw things that got him killed, and none of you speak evil against this man, because this man died for his people. Which one of you is ready to die for your people?
 - The big six of the civil rights movement were shown, and footage played of one of the national leaders of that era, an advisor to presidents, whose stated program was to give the Negro a stake in the system and to have the business community consciously include us: integration into corporate America. That is the angle Dr. King was against. The bargain took away our spending power: we had our own restaurants, our own buses, our own doctors and nurses, and our money circulated among us; integration sent it all into their corporations. They pacified the people with jobs, the way relief programs did in 1932, and the votes were sold to one party for generations, exactly as the thumbnail boast said.
 
-**[2 Maccabees 4:14-15](/bible/2-maccabees/4#v14)**  *[2:28:25]*
+**[2 Maccabees 4:14-15](/bible/2-maccabees/4#v14)**  *[[2:28:25](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=8905s)]*
 
 > <sup>[14](/bible/2-maccabees/4#v14)</sup> That the priests had no courage to serve any more at the altar, but despising the temple, and neglecting the sacrifices, hastened to be partakers of the unlawful allowance in the place of exercise, after the game of Discus called them forth;
 >
@@ -150,13 +150,13 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 - Definition read in class: assimilation is the process where a minority group adopts the dominant culture's norms and becomes indistinguishable from them, often losing their original culture; integration allows individuals to join a new society while retaining their original culture. The Chinese in America kept their customs, their own city, their own economic power; the Arabs kept their religion and their garments. All nations integrate. But the children of the slave trade were not integrated into American society; we were assimilated. We lost our culture.
 - The priests had no courage to serve any more at the altar, but, despising the temple and neglecting the sacrifices, hastened to be partakers of the unlawful allowance; not setting by the honours of their fathers, but liking the glory of the Grecians best of all. That is what happened to our people here: we love the white man's culture, his ways, and his god better than our own. You do not see the other nations worshipping the god of the people who enslaved them. What holidays do we keep? Fourth of July, Christmas, Easter: European holidays we learned in slavery.
 
-**[Deuteronomy 28:29](/bible/deuteronomy/28#v29)**  *[2:32:33]*
+**[Deuteronomy 28:29](/bible/deuteronomy/28#v29)**  *[[2:32:33](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9153s)]*
 
 > <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
 
 - Thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore. When Jim Crow ended and civil rights began, they did not end the oppression; they implemented another form of it, through the prisons, through war and crime in our communities. Only oppressed and spoiled evermore, until the Lord ends it.
 
-**[Isaiah 30:12-13](/bible/isaiah/30#v12)**  *[2:33:11]*
+**[Isaiah 30:12-13](/bible/isaiah/30#v12)**  *[[2:33:11](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9191s)]*
 
 > <sup>[12](/bible/isaiah/30#v12)</sup> Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:
 >
@@ -165,13 +165,13 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 - Because ye despise this word, and trust in oppression and perverseness, and stay thereon. What does it mean to trust in oppression? The people that enslaved you: you follow their god, you trust in their court system, you trust in their religion, you trust in their politics. It has been sixty years; what changed? The ghettos are still here.
 - Therefore this iniquity shall be to you as a breach ready to fall: the trinkets they gave us during the civil rights era, hijacked and handed to everyone, are a wall ready to collapse.
 
-**[Jeremiah 8:11](/bible/jeremiah/8#v11)**  *[2:35:51]*
+**[Jeremiah 8:11](/bible/jeremiah/8#v11)**  *[[2:35:51](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9351s)]*
 
 > <sup>[11](/bible/jeremiah/8#v11)</sup> For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.
 
 - For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace. That slight healing was the civil rights settlement: the leaders said peace, the white man has changed, he is not lynching us any more. But the institutions were built on racism and set up to keep us at the bottom of society, and the work simply moved out of sight. Slightly healed is not healed.
 
-**[Wisdom of Solomon 14:21-22](/bible/wisdom-of-solomon/14#v21)**  *[2:38:03]*
+**[Wisdom of Solomon 14:21-22](/bible/wisdom-of-solomon/14#v21)**  *[[2:38:03](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9483s)]*
 
 > <sup>[21](/bible/wisdom-of-solomon/14#v21)</sup> And this was an occasion to deceive the world: for men, serving either calamity or tyranny, did ascribe unto stones and stocks the incommunicable name.
 >
@@ -180,13 +180,13 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 - Men serving either calamity or tyranny: the calamity is slavery, the bad thing that happened to us; the tyranny is the tyrant, the oppressive system we serve in.
 - Whereas they lived in the great war of ignorance, those so great plagues called they peace. There is a war going on and your leaders tell you it is peace. Ignorance means you know nothing: ask our people when Christ was born, what color Christ is, who the black man and the Puerto Rican man are, and hear the answers. The truth has been hidden from us, and we call the plagues we live in peace.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[2:43:01]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[2:43:01](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9781s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
 - And the Lord shall bring thee into Egypt again with ships: not the Egypt of the past, for thou shalt see it no more again, but another Egypt reached by ships. And there ye shall be sold unto your enemies for bondmen and bondwomen: the cargo slave ships that brought us to America, spiritual Egypt.
 
-**[Deuteronomy 29:14-15](/bible/deuteronomy/29#v14)**  *[2:43:45]*
+**[Deuteronomy 29:14-15](/bible/deuteronomy/29#v14)**  *[[2:43:45](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9825s)]*
 
 > <sup>[14](/bible/deuteronomy/29#v14)</sup> Neither with you only do I make this covenant and this oath;
 >
@@ -194,7 +194,7 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 
 - Neither with you only do I make this covenant and this oath; but also with him that is not here with us this day: that is us, the generations to come, the slaves that would go into the second Egypt on ships. Chapter 29 is a continuation of chapter 28.
 
-**[Deuteronomy 29:19-23](/bible/deuteronomy/29#v19)**  *[2:44:30]*
+**[Deuteronomy 29:19-23](/bible/deuteronomy/29#v19)**  *[[2:44:30](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9870s)]*
 
 > <sup>[19](/bible/deuteronomy/29#v19)</sup> And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:
 >
@@ -210,7 +210,7 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 - The Lord will not spare him, but the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him.
 - The generation to come, and the stranger from a far land, shall say, when they see the plagues of that land, and the sicknesses which the Lord hath laid upon it, that the whole land thereof is brimstone, and salt, and burning, like the overthrow of Sodom and Gomorrah. Burning. That is America, that is Egypt, that is the burning house Dr. King said he had integrated his people into. He read of Sodom and Gomorrah and saw that this is America.
 
-**[Jeremiah 50:31-38](/bible/jeremiah/50#v31)**  *[2:47:25]*
+**[Jeremiah 50:31-38](/bible/jeremiah/50#v31)**  *[[2:47:25](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=10045s)]*
 
 > <sup>[31](/bible/jeremiah/50#v31)</sup> Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee.
 >
@@ -232,7 +232,7 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 - Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: we are oppressed here in America, and we are together. And all that took them captives held them fast; they refused to let them go: proof that we are still slaves. They never let us go.
 - Their Redeemer is strong; the Lord of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon. A sword is upon the Chaldeans, upon her princes and her wise men, upon the liars, upon her mighty men, upon her horses and chariots, and upon all the mingled people that are in the midst of her: all the nations living here in America are the mingled people. A sword is upon her treasures, and a drought is upon her waters.
 
-**[Jeremiah 51:25](/bible/jeremiah/51#v25)**  *[2:50:53]*
+**[Jeremiah 51:25](/bible/jeremiah/51#v25)**  *[[2:50:53](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=10253s)]*
 
 > <sup>[25](/bible/jeremiah/51#v25)</sup> Behold, I am against thee, O destroying mountain, saith the Lord, which destroyest all the earth: and I will stretch out mine hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain.
 
@@ -257,4 +257,4 @@ Documents and media referenced in class:
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-09-integrating-into-a-burning-house)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=Bb3r5SDV3PI)

@@ -105,7 +105,7 @@ Spiritual wickedness in high places.
 
 ## Scriptures Opened
 
-**[Isaiah 54:1-2](/bible/isaiah/54#v1)**  *[16:27]*
+**[Isaiah 54:1-2](/bible/isaiah/54#v1)**  *[[16:27](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=987s)]*
 
 > <sup>[1](/bible/isaiah/54#v1)</sup> Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the Lord.
 >
@@ -129,7 +129,7 @@ Spiritual wickedness in high places.
 
     For thy waste and thy desolate places, and the land of thy destruction. We got destroyed. Shall even now be too narrow by reason of the inhabitants. So the land of Israel, whose capital is Jerusalem, it is not going to be enough to hold all twelve tribes. And they that swallowed thee up shall be far away. The children which thou shalt have, after thou hast lost the other, the two thirds that were destroyed, shall say again in thine ears, The place is too strait for me. It is too narrow for us. Give place to me that I may dwell. Give me enough room so that we can all live.
 
-**[Isaiah 54:3](/bible/isaiah/54#v3)**  *[20:34]*
+**[Isaiah 54:3](/bible/isaiah/54#v3)**  *[[20:34](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=1234s)]*
 
 > <sup>[3](/bible/isaiah/54#v3)</sup> For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.
 
@@ -155,7 +155,7 @@ Spiritual wickedness in high places.
 
     And the sons of strangers shall build up thy walls. So that is what it means, we shall inherit them. We shall own and possess them. And their kings shall minister unto thee: for in my wrath I smote thee. Meaning slavery. In God's wrath he smote us, meaning he allowed us to go into slavery. But in my favour have I had mercy on thee. That is Christ dying on the cross and delivering us. Therefore thy gates shall be open continually. So the gates of New Jerusalem shall be opened continually. They shall not be shut day nor night. Why? That men may bring unto thee the forces of the Gentiles. That men may bring the wealth, the riches of the Gentiles. Why? Because it is ours. It has always been ours. And that their kings may be brought. Brought as what? Slaves. For the nation and kingdom that will not serve thee shall perish. Any nation that will not serve the Lord shall perish. It starts with Christ first. Understand that he is our king. His orders are our orders. He gives us an order, we carry it out to the nations. Whoever does not obey shall perish. Yea, those nations shall be utterly wasted.
 
-**[Isaiah 54:4](/bible/isaiah/54#v4)**  *[23:22]*
+**[Isaiah 54:4](/bible/isaiah/54#v4)**  *[[23:22](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=1402s)]*
 
 > <sup>[4](/bible/isaiah/54#v4)</sup> Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.
 
@@ -167,7 +167,7 @@ Spiritual wickedness in high places.
 
 - For thou shalt not be put to shame: for thou shalt forget the shame of thy youth. We are going to forget the sins of our youth. And shalt not remember the reproach of thy widowhood any more.
 
-**[Job 9:24](/bible/job/9#v24)**  *[35:50]*
+**[Job 9:24](/bible/job/9#v24)**  *[[35:50](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2150s)]*
 
 > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
 
@@ -177,7 +177,7 @@ Spiritual wickedness in high places.
 
 - If not, where, and who is he?
 
-**[Ezekiel 28:14](/bible/ezekiel/28#v14)**  *[36:37]*
+**[Ezekiel 28:14](/bible/ezekiel/28#v14)**  *[[36:37](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2197s)]*
 
 > <sup>[14](/bible/ezekiel/28#v14)</sup> Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
 
@@ -187,7 +187,7 @@ Spiritual wickedness in high places.
 
 - And thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire. That is the devil. That is Cain.
 
-**[Isaiah 25:6-7](/bible/isaiah/25#v6)**  *[37:28]*
+**[Isaiah 25:6-7](/bible/isaiah/25#v6)**  *[[37:28](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2248s)]*
 
 > <sup>[6](/bible/isaiah/25#v6)</sup> And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.
 >
@@ -213,7 +213,7 @@ Spiritual wickedness in high places.
 
     And he opened his mouth in blasphemy. That is this white man, beginning with the Roman Catholic Church during the time of the Renaissance. The blasphemy is lies. Wicked lies. Against God, to blaspheme his name. So the Roman Catholic Church, Christianity, blasphemed the name of God. And his tabernacle, that is the Israelites. And them that dwell in heaven, the angels. And it was given unto him to make war with the saints. It was the Roman Catholic Church under Pope Nicholas, out of Rome, that commanded Spain and Portugal to make war with the saints of God. The saints of God are the twelve tribes of Israel. And to overcome them. They overcame us and enslaved us. And power was given him over all kindreds, and tongues, and nations. And all that dwell upon the earth shall worship him. How so? Through verse six, the blasphemy, all the lies, the deceit, the deception he taught when he conquered us and the nations. He taught Christianity. He taught eurocentric lies, white supremacy. Whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
-**[Isaiah 11:9](/bible/isaiah/11#v9)**  *[40:36]*
+**[Isaiah 11:9](/bible/isaiah/11#v9)**  *[[40:36](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2436s)]*
 
 > <sup>[9](/bible/isaiah/11#v9)</sup> They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
 
@@ -223,7 +223,7 @@ Spiritual wickedness in high places.
 
 - As the waters cover the sea.
 
-**[Habakkuk 2:14-15](/bible/habakkuk/2#v14)**  *[41:30]*
+**[Habakkuk 2:14-15](/bible/habakkuk/2#v14)**  *[[41:30](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2490s)]*
 
 > <sup>[14](/bible/habakkuk/2#v14)</sup> For the earth shall be filled with the knowledge of the glory of the Lord, as the waters cover the sea.
 >
@@ -235,7 +235,7 @@ Spiritual wickedness in high places.
 
 - And makest him drunken also, that thou mayest look on their nakedness. Meaning they cause us to sin. It is okay to break God's laws, and they wait till we follow that and then go look at us. Look at what they are doing.
 
-**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[42:19]*
+**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[[42:19](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2539s)]*
 
 > <sup>[3](/bible/2-corinthians/11#v3)</sup> But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
 >
@@ -253,7 +253,7 @@ Spiritual wickedness in high places.
 
 - Which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him. So what comes with another Jesus? Another spirit, another gospel. That kills the lie when Christians say his image does not matter, it is his message that is important. Well, if the man that conquered us, raped, robbed and murdered us, and taught us nothing but lies, what makes you think he is going to teach you the keys to the kingdom of heaven? You, my dear friend, have been taught another gospel. You have been taught lies. And the way we bear with you is showing and correcting people in the Holy Bible. That is what we do.
 
-**[Isaiah 54:5-8](/bible/isaiah/54#v5)**  *[47:36]*
+**[Isaiah 54:5-8](/bible/isaiah/54#v5)**  *[[47:36](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=2856s)]*
 
 > <sup>[5](/bible/isaiah/54#v5)</sup> For thy Maker is thine husband; the Lord of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
 >
@@ -291,7 +291,7 @@ Spiritual wickedness in high places.
 
     And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you. That is a little wrath. And in a little wrath I hid my face from thee for a moment.
 
-**[Psalms 50:16-21](/bible/psalms/50#v16)**  *[51:37]*
+**[Psalms 50:16-21](/bible/psalms/50#v16)**  *[[51:37](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=3097s)]*
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
@@ -337,7 +337,7 @@ Spiritual wickedness in high places.
 
 - But all of that ties in with critical race theory. Get the teaching of slavery out of schools. Destroy those books on slavery. Start teaching that you blacks were already here, you never came over on slave ships. All that is a battle against the word of God. But they are going to lose.
 
-**[Luke 1:68-74](/bible/luke/1#v68)**  *[1:02:38]*
+**[Luke 1:68-74](/bible/luke/1#v68)**  *[[1:02:38](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=3758s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
 >
@@ -369,7 +369,7 @@ Spiritual wickedness in high places.
 
 - Might serve him without fear. Because right now we serve the Lord in fear. Many times, brothers and sisters, some of y'all might say, I do not serve the Lord in fear. Yes, you do. If you have got a job, you serve the Lord in fear. Take a day off whenever you want. Say, oh, I have got to keep the new moon today and the new moon next week and next month. No, you took too many days off, you are fired. Oh, I cannot work on this day either, it is our Passover. No, you have got to work. No, I cannot. You are fired. That is what happens. So you are serving the Lord with fear.
 
-**[Matthew 11:12](/bible/matthew/11#v12)**  *[1:05:40]*
+**[Matthew 11:12](/bible/matthew/11#v12)**  *[[1:05:40](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=3940s)]*
 
 > <sup>[12](/bible/matthew/11#v12)</sup> And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
 
@@ -379,7 +379,7 @@ Spiritual wickedness in high places.
 
 - And the violent take it by force. What was he talking about? Rome. Rome at that time was the violent man. This white man is a beast. He is the most violent. Do not tell me about Pooky and Ray Ray. There is nobody more violent than this so-called white man.
 
-**[Psalms 140:1-4](/bible/psalms/140#v1)**  *[1:05:40]*
+**[Psalms 140:1-4](/bible/psalms/140#v1)**  *[[1:05:40](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=3940s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
 >
@@ -405,7 +405,7 @@ Spiritual wickedness in high places.
 
 - Who have purposed to overthrow my goings. Now we saw the video and the white man that was talking said it was never about race, it was about money. The Bible says here, who have purposed to overthrow my goings. That is their purpose. To overthrow the twelve tribes of Israel. That is their purpose. What was the purpose of Cain? To kill Abel. That has always been their purpose. Why? Because they are violent. They are evil. And that is not me saying that, that is what the Bible is saying. Stuff like this churches will never read. They go, oh no, it might pinpoint the white man, so I better stay away from that.
 
-**[Psalms 140:11-13](/bible/psalms/140#v11)**  *[1:07:52]*
+**[Psalms 140:11-13](/bible/psalms/140#v11)**  *[[1:07:52](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=4072s)]*
 
 > <sup>[11](/bible/psalms/140#v11)</sup> Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him.
 >
@@ -421,7 +421,7 @@ Spiritual wickedness in high places.
 
 - Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
 
-**[John 10:10](/bible/john/10#v10)**  *[1:08:39]*
+**[John 10:10](/bible/john/10#v10)**  *[[1:08:39](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=4119s)]*
 
 > <sup>[10](/bible/john/10#v10)</sup> The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
 
@@ -429,7 +429,7 @@ Spiritual wickedness in high places.
 
 - See, it is not just enough to steal with them. Not only will he steal, he will kill you. Not only will he kill you, he says, I have got to destroy everything here. Just look at Africa. Steal, kill, destroy. Look at the aborigines in Australia. Steal, kill, destroy. South Africa, steal, kill, destroy. America, steal, kill, destroy. That is what they do.
 
-**[Isaiah 63:9](/bible/isaiah/63#v9)**  *[1:19:32]*
+**[Isaiah 63:9](/bible/isaiah/63#v9)**  *[[1:19:32](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=4772s)]*
 
 > <sup>[9](/bible/isaiah/63#v9)</sup> In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
 
@@ -441,7 +441,7 @@ Spiritual wickedness in high places.
 
 - And he bare them, and carried them all the days of old.
 
-**[Romans 8:28-30](/bible/romans/8#v28)**  *[1:20:23]*
+**[Romans 8:28-30](/bible/romans/8#v28)**  *[[1:20:23](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=4823s)]*
 
 > <sup>[28](/bible/romans/8#v28)</sup> And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 >
@@ -475,13 +475,13 @@ Spiritual wickedness in high places.
 
     In the Lord shall all the seed of Israel be justified, and shall glory. We are the ones being justified. Not all nations on the planet. Paul is not saying everybody on the planet is going to be justified. Nope. He is getting that from what we are reading right there.
 
-**[Romans 8:31](/bible/romans/8#v31)**  *[1:23:39]*
+**[Romans 8:31](/bible/romans/8#v31)**  *[[1:23:39](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5019s)]*
 
 > <sup>[31](/bible/romans/8#v31)</sup> What shall we then say to these things? If God be for us, who can be against us?
 
 - What shall we then say to these things? If God be for us, who can be against us? If God be for us, brothers and sisters, who can be against us? Meaning what? Who can conquer us? Who can destroy us? Nobody. Nobody on this planet. No matter what comes our way.
 
-**[Romans 8:35-39](/bible/romans/8#v35)**  *[1:23:39]*
+**[Romans 8:35-39](/bible/romans/8#v35)**  *[[1:23:39](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5019s)]*
 
 > <sup>[35](/bible/romans/8#v35)</sup> Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
 >
@@ -505,7 +505,7 @@ Spiritual wickedness in high places.
 
 - For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. So he is saying nothing can separate us from the love of God. Meaning what? We are more than conquerors. There is nothing these people can do to our flesh, our bones, to destroy us forever. Christ said, fear not him that can destroy the body, fear him that can destroy soul and body in hell. Christ is the only one that can destroy us.
 
-**[Psalms 44:19-26](/bible/psalms/44#v19)**  *[1:26:25]*
+**[Psalms 44:19-26](/bible/psalms/44#v19)**  *[[1:26:25](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5185s)]*
 
 > <sup>[19](/bible/psalms/44#v19)</sup> Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
 >
@@ -547,7 +547,7 @@ Spiritual wickedness in high places.
 
     Thus shall he do in the most strong holds with a strange god. That is the white man, starting with the Greeks all the way up to today. Here in our captivity we have stretched out our hands to their strange god that you think is Jesus. Whom he shall acknowledge and increase with glory. Robbed everything. And he shall cause them to rule over many. He caused his European allies to rule over many. And shall divide the land for gain. They divided the land of Israel and the land of Africa during the Berlin Conference for gain. That is what they did.
 
-**[Deuteronomy 32:16](/bible/deuteronomy/32#v16)**  *[1:31:15]*
+**[Deuteronomy 32:16](/bible/deuteronomy/32#v16)**  *[[1:31:15](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5475s)]*
 
 > <sup>[16](/bible/deuteronomy/32#v16)</sup> They provoked him to jealousy with strange gods, with abominations provoked they him to anger.
 
@@ -555,7 +555,7 @@ Spiritual wickedness in high places.
 
 - With abominations provoked they him to anger. With abominations we provoke the Lord to anger.
 
-**[Joshua 24:20](/bible/joshua/24#v20)**  *[1:31:50]*
+**[Joshua 24:20](/bible/joshua/24#v20)**  *[[1:31:50](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5510s)]*
 
 > <sup>[20](/bible/joshua/24#v20)</sup> If ye forsake the Lord, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.
 
@@ -563,7 +563,7 @@ Spiritual wickedness in high places.
 
 - And consume you, after that he hath done you good. After he had given us the promised land. But we did not learn our lesson.
 
-**[Psalms 81:9](/bible/psalms/81#v9)**  *[1:32:13]*
+**[Psalms 81:9](/bible/psalms/81#v9)**  *[[1:32:13](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5533s)]*
 
 > <sup>[9](/bible/psalms/81#v9)</sup> There shall no strange god be in thee; neither shalt thou worship any strange god.
 
@@ -571,7 +571,7 @@ Spiritual wickedness in high places.
 
 - Some of your mothers and fathers have that crucifix around their necks, on the walls of their homes and houses. And you go to those churches worshipping a strange god.
 
-**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[1:33:09]*
+**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[1:33:09](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5589s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
 
@@ -579,7 +579,7 @@ Spiritual wickedness in high places.
 
 - And choose none of his ways. But what have we done? We have chosen his ways. We want the white man's strange god. We want the white man's strange religion. That is what we want.
 
-**[Proverbs 24:1](/bible/proverbs/24#v1)**  *[1:33:09]*
+**[Proverbs 24:1](/bible/proverbs/24#v1)**  *[[1:33:09](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5589s)]*
 
 > <sup>[1](/bible/proverbs/24#v1)</sup> Be not thou envious against evil men, neither desire to be with them.
 
@@ -587,7 +587,7 @@ Spiritual wickedness in high places.
 
 - Neither desire to be with them. We want to sit on their toilets. We want to go to school with them. We want to look like them. The Bible says do not do that. So the churches have done us a disservice.
 
-**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[1:34:03]*
+**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[1:34:03](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5643s)]*
 
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
@@ -597,7 +597,7 @@ Spiritual wickedness in high places.
 
 - Against spiritual wickedness in high places. The Vatican is one of those principalities, in high places. Spiritual wickedness.
 
-**[Isaiah 54:9](/bible/isaiah/54#v9)**  *[1:37:23]*
+**[Isaiah 54:9](/bible/isaiah/54#v9)**  *[[1:37:23](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5843s)]*
 
 > <sup>[9](/bible/isaiah/54#v9)</sup> For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.
 
@@ -607,7 +607,7 @@ Spiritual wickedness in high places.
 
 - So have I sworn that I would not be wroth with thee, nor rebuke thee. That he would not punish us.
 
-**[Genesis 9:11-17](/bible/genesis/9#v11)**  *[1:37:23]*
+**[Genesis 9:11-17](/bible/genesis/9#v11)**  *[[1:37:23](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5843s)]*
 
 > <sup>[11](/bible/genesis/9#v11)</sup> And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
 >
@@ -633,7 +633,7 @@ Spiritual wickedness in high places.
 
 - And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth. And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.
 
-**[Matthew 24:37-44](/bible/matthew/24#v37)**  *[1:38:58]*
+**[Matthew 24:37-44](/bible/matthew/24#v37)**  *[[1:38:58](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=5938s)]*
 
 > <sup>[37](/bible/matthew/24#v37)</sup> But as the days of Noe were, so shall also the coming of the Son of man be.
 >
@@ -687,7 +687,7 @@ Spiritual wickedness in high places.
 
     Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same. Be ye not afraid neither doubt; for God is your guide, and the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves. So this is the same thing Noah was preaching back then, but nobody listened. Everybody mocked him.
 
-**[Isaiah 54:10-13](/bible/isaiah/54#v10)**  *[1:43:58]*
+**[Isaiah 54:10-13](/bible/isaiah/54#v10)**  *[[1:43:58](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6238s)]*
 
 > <sup>[10](/bible/isaiah/54#v10)</sup> For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the Lord that hath mercy on thee.
 >
@@ -727,7 +727,7 @@ Spiritual wickedness in high places.
 
     For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. So the glass is talking about the Bible. We do not understand everything in here. And even when I say that, there are different levels. There are double meanings to many scriptures. But when the Lord returns, then shall we know. What does that last part mean? He created us from the beginning. Before the earth was made, he created us.
 
-**[Isaiah 54:14-15](/bible/isaiah/54#v14)**  *[1:47:55]*
+**[Isaiah 54:14-15](/bible/isaiah/54#v14)**  *[[1:47:55](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6475s)]*
 
 > <sup>[14](/bible/isaiah/54#v14)</sup> In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.
 >
@@ -743,13 +743,13 @@ Spiritual wickedness in high places.
 
 - Whosoever shall gather together against thee shall fall for thy sake.
 
-**[Romans 9:13](/bible/romans/9#v13)**  *[1:51:39]*
+**[Romans 9:13](/bible/romans/9#v13)**  *[[1:51:39](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6699s)]*
 
 > <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 
 - As it is written, Jacob have I loved, but Esau have I hated. God said he hates Esau. That is who they are.
 
-**[Malachi 1:4](/bible/malachi/1#v4)**  *[1:52:32]*
+**[Malachi 1:4](/bible/malachi/1#v4)**  *[[1:52:32](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6752s)]*
 
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 
@@ -759,7 +759,7 @@ Spiritual wickedness in high places.
 
 - And, The people against whom the Lord hath indignation for ever. God has righteous anger against them forever. Because they are the culprits. They are the ones. They are the terrorists. It is not just the police. It is not just one guy. It is not just a Dylann Roof. It is all of them. They are all complicit. Even the nice ones that benefit from the murder and robbery that their ancestors did.
 
-**[1 John 3:10-12](/bible/1-john/3#v10)**  *[1:53:24]*
+**[1 John 3:10-12](/bible/1-john/3#v10)**  *[[1:53:24](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6804s)]*
 
 > <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
 >
@@ -779,7 +779,7 @@ Spiritual wickedness in high places.
 
 - And wherefore slew he him? Because his own works were evil, and his brother's righteous. Because his own works were evil, of the devil. Remember Psalms 140? It says, save me from evil men, from the violent man. The evil man is the violent man. They are one and the same.
 
-**[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[1:55:46]*
+**[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[[1:55:46](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=6946s)]*
 
 > <sup>[4](/bible/zechariah/11#v4)</sup> Thus saith the Lord my God; Feed the flock of the slaughter;
 >
@@ -797,7 +797,7 @@ Spiritual wickedness in high places.
 
 - And their own shepherds pity them not. Our own black leaders pity us not. They do not give a dime.
 
-**[Isaiah 54:15-17](/bible/isaiah/54#v15)**  *[2:03:08]*
+**[Isaiah 54:15-17](/bible/isaiah/54#v15)**  *[[2:03:08](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=7388s)]*
 
 > <sup>[15](/bible/isaiah/54#v15)</sup> Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake.
 >
@@ -821,7 +821,7 @@ Spiritual wickedness in high places.
 
 - And their righteousness is of me, saith the Lord. Our righteousness is of the Lord.
 
-**[2 Peter 3:1-12](/bible/2-peter/3#v1)**  *[2:05:42]*
+**[2 Peter 3:1-12](/bible/2-peter/3#v1)**  *[[2:05:42](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=7542s)]*
 
 > <sup>[1](/bible/2-peter/3#v1)</sup> This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:
 >
@@ -879,7 +879,7 @@ Spiritual wickedness in high places.
 
 - Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat. The heavens, the nations, shall be on fire. That is the heavens. You have got some of our people that do not believe that. Although you see nations warring together, they still are willingly ignorant of this thing.
 
-**[Psalms 91:1-8](/bible/psalms/91#v1)**  *[2:13:06]*
+**[Psalms 91:1-8](/bible/psalms/91#v1)**  *[[2:13:06](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=7986s)]*
 
 > <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
 >
@@ -917,7 +917,7 @@ Spiritual wickedness in high places.
 
 - Only with thine eyes shalt thou behold and see the reward of the wicked.
 
-**[Zechariah 14:12](/bible/zechariah/14#v12)**  *[2:14:39]*
+**[Zechariah 14:12](/bible/zechariah/14#v12)**  *[[2:14:39](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=8079s)]*
 
 > <sup>[12](/bible/zechariah/14#v12)</sup> And this shall be the plague wherewith the Lord will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.
 
@@ -927,7 +927,7 @@ Spiritual wickedness in high places.
 
 - And their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.
 
-**[Revelation 11:11-13](/bible/revelation/11#v11)**  *[2:15:27]*
+**[Revelation 11:11-13](/bible/revelation/11#v11)**  *[[2:15:27](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=8127s)]*
 
 > <sup>[11](/bible/revelation/11#v11)</sup> And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 >
@@ -953,7 +953,7 @@ Spiritual wickedness in high places.
 
 - And the remnant were affrighted, and gave glory to the God of heaven. And the remnant of our people, although they had been delivered, they are going to be afraid. Y'all do not think Noah was afraid when he saw all that rain? Remember, they had never seen rain before. And all the people screaming with death in the water, in the flood. It is going to be the same way when that fire hits this ground, this earth. When that God fire hits the earth, people are going to be screaming for salvation. It is too late now. You mocked the Lord. You scoffed at the Lord.
 
-**[Luke 18:1-8](/bible/luke/18#v1)**  *[2:17:30]*
+**[Luke 18:1-8](/bible/luke/18#v1)**  *[[2:17:30](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=8250s)]*
 
 > <sup>[1](/bible/luke/18#v1)</sup> And he spake a parable unto them to this end, that men ought always to pray, and not to faint;
 >
@@ -999,7 +999,7 @@ Spiritual wickedness in high places.
 
     How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary! So we are the widow. Christ is making reference back to that in Luke 18.
 
-**[Psalms 58:10-11](/bible/psalms/58#v10)**  *[2:27:08]*
+**[Psalms 58:10-11](/bible/psalms/58#v10)**  *[[2:27:08](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=8828s)]*
 
 > <sup>[10](/bible/psalms/58#v10)</sup> The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
 >
@@ -1019,7 +1019,7 @@ Spiritual wickedness in high places.
 
     There be nine things which I have judged in mine heart to be happy, and the tenth I will utter with my tongue: A man that hath joy of his children; and he that liveth to see the fall of his enemy. A man that hath joy of his children. Our brothers and sisters that have lost their husbands, that have lost their sons, they do not get to have the joy of their children. Their children are hanging on trees. Their daughters are hung on trees. Lives extinguished. They are not getting to enjoy their children. You are supposed to have joy of your children, but because an enemy has taken your children from you, hung your children on trees, murdered your children, you do not get that joy. And he that liveth to see the fall of his enemy. To see the fall of your enemies is therapy. God's therapy.
 
-**[Jeremiah 50:6-9](/bible/jeremiah/50#v6)**  *[2:33:35]*
+**[Jeremiah 50:6-9](/bible/jeremiah/50#v6)**  *[[2:33:35](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=9215s)]*
 
 > <sup>[6](/bible/jeremiah/50#v6)</sup> My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away on the mountains: they have gone from mountain to hill, they have forgotten their restingplace.
 >
@@ -1057,7 +1057,7 @@ Spiritual wickedness in high places.
 
 - None shall return in vain. This is the part that I needed. There are not going to be any duds. None of the missiles are going to return in vain. They are going to all hit their target. God set it up like that. They shall all hit their target. God put it in the Bible. That is the kind of power that is coming to deliver us from the hand of our enemies and from all them that hate us.
 
-**[Revelation 17:15-18](/bible/revelation/17#v15)**  *[2:38:37]*
+**[Revelation 17:15-18](/bible/revelation/17#v15)**  *[[2:38:37](https://www.youtube.com/watch?v=cnDvZpSxtIk&t=9517s)]*
 
 > <sup>[15](/bible/revelation/17#v15)</sup> And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
 >
@@ -1117,4 +1117,4 @@ Now, finally, my brethren, be strong in the Lord, and in his might.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-29-the-waters-of-noah-will-be-fire)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=cnDvZpSxtIk)

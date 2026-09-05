@@ -20,7 +20,7 @@ Some subjects get much attention, and there are other subjects that do not get q
 
 ## Scriptures Opened
 
-**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[15:31]*
+**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[[15:31](https://www.youtube.com/watch?v=jsT6wS00jmw&t=931s)]*
 
 > <sup>[16](/bible/isaiah/34#v16)</sup> Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
 
@@ -28,14 +28,14 @@ Some subjects get much attention, and there are other subjects that do not get q
 - Seek ye out of the book of the Lord, and read: you must open the book. A lot of people buy books and never read them.
 - No one of these shall fail: nothing that is written in the scriptures is going to fail. A lot of times we parallel that with prophecy, but that is also true of the healing elements the scriptures offer. All those scriptures that deal with mental health, they are true, and they are not going to fail when you properly apply them.
 
-**[2 Peter 3:9](/bible/2-peter/3#v9)**  *[16:55]*
+**[2 Peter 3:9](/bible/2-peter/3#v9)**  *[[16:55](https://www.youtube.com/watch?v=jsT6wS00jmw&t=1015s)]*
 
 > <sup>[9](/bible/2-peter/3#v9)</sup> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 
 - Each one of you brothers and sisters that come inside this truth, you are special to the Most High. The Most High did not waste his time calling you if he did not mean for you to make it.
 - The Lord is not slack concerning his promise, but is longsuffering to us-ward, not willing that any should perish. Any one of us that comes into this truth, the desire is for you to make it, so we need to try to help you get there.
 
-**[2 Peter 1:10](/bible/2-peter/1#v10)**  *[17:43]*
+**[2 Peter 1:10](/bible/2-peter/1#v10)**  *[[17:43](https://www.youtube.com/watch?v=jsT6wS00jmw&t=1063s)]*
 
 > <sup>[10](/bible/2-peter/1#v10)</sup> Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:
 
@@ -50,7 +50,7 @@ Some subjects get much attention, and there are other subjects that do not get q
 
     My son, if thou come to serve the Lord, prepare thy soul for temptation. As you are preparing your soul, that is the Lord trying you to make sure you are worthy of that calling. It was already discussed in the heavens to bring you in; it is up to us to stay diligent and steadfast, and not get pulled off by sin, because we are a chosen vessel. You have to see yourselves that way.
 
-**[Hebrews 11:1](/bible/hebrews/11#v1)**  *[29:23]*
+**[Hebrews 11:1](/bible/hebrews/11#v1)**  *[[29:23](https://www.youtube.com/watch?v=jsT6wS00jmw&t=1763s)]*
 
 > <sup>[1](/bible/hebrews/11#v1)</sup> Now faith is the substance of things hoped for, the evidence of things not seen.
 
@@ -59,7 +59,7 @@ Some subjects get much attention, and there are other subjects that do not get q
 - Now faith is the substance of things hoped for: our people in slavery were hoping for freedom, and faith helped them persevere through tunnels of darkness where they saw no light in sight. Faith is also the evidence of things not seen: what they hoped for was not even in their reachable grasp, but it pulled them through, like Joseph in captivity. Joseph did not know that after nearly fourteen years he would be brought out, but he knew that there is a God, and said I will stay here until he decides when to deal with me.
 - They persevered not knowing when the deliverance was going to come. But here we are. We get a little bit of trouble here and there and all of a sudden we cannot cope; we need alcohol, we need drugs, we need illicit things to take our mind off our problems. Our brothers and sisters could not do that. This is how we have to start putting ourselves in discipline. That is the word: discipline.
 
-**[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[33:25]*
+**[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[33:25](https://www.youtube.com/watch?v=jsT6wS00jmw&t=2005s)]*
 
 > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
 >
@@ -92,7 +92,7 @@ Video played in class: Malcolm X speaking in 1962 after the Los Angeles police a
 
 News story shown in class: the case of Rashawn Carter, a young brother found dead months after going missing, his last trail camera image showing him fleeing in fear; the teaching point is that his mother has to endure every day with no justice and no answers, the way our mothers in slavery endured, and we have no excuse to drown ourselves while our people go through this. Locals were angry at the man who turned in the photo evidence. You owe five dollars to the IRS, they will find you, but they cannot find who did this. Because we know this, we need to stop the cop out business. We have to be our brother's keeper: if you see a brother struggling with that thing, you jump on it. Others knew and said nothing; that is not love, that is the kisses of an enemy. And it is not just alcohol: pornography, adultery, and fornication destroy whole households the same way.
 
-**[Proverbs 13:12](/bible/proverbs/13#v12)**  *[1:31:11]*
+**[Proverbs 13:12](/bible/proverbs/13#v12)**  *[[1:31:11](https://www.youtube.com/watch?v=jsT6wS00jmw&t=5471s)]*
 
 > <sup>[12](/bible/proverbs/13#v12)</sup> Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
 
@@ -103,7 +103,7 @@ News story shown in class: the case of Rashawn Carter, a young brother found dea
 
 Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, gave sworn deposition testimony alleging that King survived the shooting and was deliberately killed at the hospital; the teaching point is the depth of the hatred our leaders faced. A deposition is formal out of court sworn testimony, part of the discovery process, so what he said is on record. King gave the mountaintop speech the night before he was assassinated, saying I may not get there with you, but we as a people will get to the promised land, and I am not fearing any man. He knew death was imminent, yet he still went forward with the weight of all the people on his shoulders. Same with Malcolm, and with sisters that were just as rough when it came to liberation, and they were not even in the truth like we are. So I do not want to hear anybody say anything negative about these brothers, especially not with a bottle in your hand talking about you cannot take it anymore.
 
-**[Psalms 83:2-8](/bible/psalms/83#v2)**  *[1:46:43]*
+**[Psalms 83:2-8](/bible/psalms/83#v2)**  *[[1:46:43](https://www.youtube.com/watch?v=jsT6wS00jmw&t=6403s)]*
 
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 >
@@ -128,14 +128,14 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - They are confederate against thee: the tabernacles of Edom, that is the white man leading all the rest of the nations in this; the Ishmaelites, the Arabs with shops all through our communities; Moab, and the rest. You go to Africa and see the same hands: during the scramble for Africa they made sure Africa could not manufacture its own materials, so colonizers take the raw materials, manufacture them, and sell the goods back at prices the people cannot pay, and the IMF loans finish the takeover. That is a brief hit list in this psalm; God is going to deal with all of them.
 - But the question is, what do we do? Do we walk away from the job of fixing it and go to a bottle? Regardless of how bleak you think the future is, you are still obligated as a man to seek to fix the problem. Seek for the answers. Organize. Discipline yourselves. Change your mental state, change your conversations, change your circle. Get with brothers and sisters that understand the mission, and the Most High will intervene and begin to show you the way. The Lord did not bring us this far to leave us here.
 
-**[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[2:05:10]*
+**[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[[2:05:10](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7510s)]*
 
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 
 - This chapter is literally speaking about Esau himself. Thou hast had a perpetual hatred, and hast shed the blood of the children of Israel: perpetual meaning never ending. It was created that way from the womb, Esau and Jacob. That spirit was put in them.
 - We need to understand that we are a hated people. It is not for us to loathe ourselves and start wallowing because of the hatred; we need to operate in spite of it. Esau's hatred is rooted deep in their spirit from the womb, Genesis 25:23. The current administration is in our faces as a reminding wake up call from God, to agitate us through oppression.
 
-**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[2:07:06]*
+**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[2:07:06](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7626s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 
@@ -143,7 +143,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - As a wild bull in a net: that is our young sons in the streets. They are full of the fury of the Lord and the rebuke of thy God, because we broke God's commandments. That is judgment.
 - What is the rebuke supposed to do? It is not for our destruction; it is to agitate us to organize, to agitate us into keeping God's commandments and coming together like the Bible says: gather together, O nation not desired.
 
-**[Romans 13:3-4](/bible/romans/13#v3)**  *[2:09:24]*
+**[Romans 13:3-4](/bible/romans/13#v3)**  *[[2:09:24](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7764s)]*
 
 > <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
 >
@@ -152,7 +152,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - The Most High put this power over us because we refused to keep his commandments. The rebuke is being sent on us by God through Esau, because we refuse to return. Why would the Lord put his own people in a climate of hate? To agitate us, to cause us to ask God what we did wrong. And once you recognize it, he says, now you have it; let me show you the blueprint on how to get out.
 - Rulers are not a terror to good works: we are going to go through persecution and trials, but it is our faith in knowing there is a day of restitution, a day when we do not have to deal with this anymore, that is a comfort while we are in our captivity, just like our brothers and sisters in slavery. They had that perseverance without knowing the Bible the way we do; we are much more equipped to know what is coming, and we act like we do not know.
 
-**[Jeremiah 30:11](/bible/jeremiah/30#v11)**  *[2:12:12]*
+**[Jeremiah 30:11](/bible/jeremiah/30#v11)**  *[[2:12:12](https://www.youtube.com/watch?v=jsT6wS00jmw&t=7932s)]*
 
 > <sup>[11](/bible/jeremiah/30#v11)</sup> For I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished.
 
@@ -161,7 +161,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - I will not make a full end of the righteous: some of our people are going to be destroyed, because they are going to choose the bottle, fornication, and debauchery over the Lord. But the ones that stay in righteousness will inherit the kingdom forever. If our brothers and sisters could endure slavery, we can endure this. And do not say, Lord, will I make it to the kingdom, that is up to you; that is a cop out. The Bible says give diligence to make your calling and election sure. That is on you.
 - But I will correct thee in measure: he is going to cause us to pass under the rod and teach us his commandments properly. We have some good days coming if we are steadfast. The way this system is set up is to make you believe you cannot escape it, to drive you into drugs, alcoholism, and evil; and if you succumb to that, you will be destroyed by it. The Lord said, fear not thou, O Jacob, for the Lord is our redeemer. We need to remember that.
 
-**[Matthew 5:16](/bible/matthew/5#v16)**  *[2:19:08]*
+**[Matthew 5:16](/bible/matthew/5#v16)**  *[[2:19:08](https://www.youtube.com/watch?v=jsT6wS00jmw&t=8348s)]*
 
 > <sup>[16](/bible/matthew/5#v16)</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 
@@ -172,7 +172,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - Everything you see in IUIC, the departments, the missions overseas, the outreach, none of it existed at the beginning. There had to be vision where it was not seen. That means we had to think like men and think ahead, preparing for the bad times and the famines. All of us have the capacity to think; why is it a surprise when we do it? We used the medicine that is in the Bible, applied it, and got things done.
 - Video played in class of a man arguing with an artificial girlfriend about cooking: envy thou not the oppressor, and choose none of his ways. That thing is designed to take the place of dealing with a real woman. Getting yourself together so you can properly acquire a wife and cultivate her takes work, time, and dedication, and some men would rather cheat and go around the bend. We have been warned.
 
-**[Wisdom of Solomon 17:12](/bible/wisdom-of-solomon/17#v12)**  *[2:45:46]*
+**[Wisdom of Solomon 17:12](/bible/wisdom-of-solomon/17#v12)**  *[[2:45:46](https://www.youtube.com/watch?v=jsT6wS00jmw&t=9946s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/17#v12)</sup> For fear is nothing else but a betraying of the succours which reason offereth.
 
@@ -187,7 +187,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - Video played in class: an economist stating plainly that sub-Saharan Africa has been fundamental to global prosperity as a raw material producer, that the economic structures and institutions are designed to keep Africa impoverished, and that whether it is Europe, the US, or China, they need those materials dirt cheap. That is reality, and it can look insurmountable. You cannot get weak and say the order is fixed. Get that thinking out of your mind: we have God behind us, and with God behind us there is no doubt.
 - So because we feel trapped in so many psychological problems, and feel we could never solve them, we resort to the bottle, to drugs, to promiscuity, to domestic violence and misplaced aggression that affects our youth. Rather than reasoning with your brothers, we turn to violence against those closest to us. And alcohol itself is a huge influence toward violence and self destruction; that is why it is readily available to our people. We use the excuse that we are ready to perish as a reason to feed the disease. If our ancestors had used that excuse to get drunk, none of us would be here today.
 
-**[Habakkuk 2:15-18](/bible/habakkuk/2#v15)**  *[3:37:37]*
+**[Habakkuk 2:15-18](/bible/habakkuk/2#v15)**  *[[3:37:37](https://www.youtube.com/watch?v=jsT6wS00jmw&t=13057s)]*
 
 > <sup>[15](/bible/habakkuk/2#v15)</sup> Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!
 >
@@ -204,7 +204,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - Reading shown in class: people abuse alcohol to cope with stress, trauma, or mental health issues, using it as a temporary escape to blunt negative emotions; over time the behavior transitions from conscious choice to habit. Alcohol causes the brain to release dopamine and endorphins, rewiring the brain's reward system and leading to cravings; what begins as voluntary use becomes compulsive drinking because of brain changes, making it difficult to stop. Individuals get caught in a cycle where they drink to deal with stress, but the alcohol increases the negative emotional states between drinks, prompting more drinking. We could not mask emotional pain in slavery, so do not use that as an excuse; this will kill you.
 - Reading shown in class: an alcogenic culture is a societal environment where alcohol consumption is normalized, encouraged, and ingrained in social rituals, where alcohol is highly accessible, heavily advertised, and perceived as essential for socializing, making it difficult for those seeking to drink less or remain sober. There is a line between social and drunkenness, and that line gets blurred; then the incident reports come up, intoxication, and we have to protect the body. We have to be careful, because some of us cannot deal with this thing at all.
 
-**[Romans 12:21](/bible/romans/12#v21)**  *[3:51:46]*
+**[Romans 12:21](/bible/romans/12#v21)**  *[[3:51:46](https://www.youtube.com/watch?v=jsT6wS00jmw&t=13906s)]*
 
 > <sup>[21](/bible/romans/12#v21)</sup> Be not overcome of evil, but overcome evil with good.
 
@@ -224,7 +224,7 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 
     Wine measurably drunk and in season bringeth gladness of the heart and cheerfulness of the mind; but wine drunken with excess maketh bitterness of the mind. The Lord cannot use you if you do not have that balance. Every element the Lord created has its function and purpose, but if you abuse it you cannot be useful to the nation. It goes for food as well; that is why they put the fast food across the street from more fast food in our neighborhoods. They are depending on you to fall into that destruction.
 
-**[Ecclesiasticus 36:22-23](/bible/sirach/36#v22)**  *[4:18:24]*
+**[Ecclesiasticus 36:22-23](/bible/sirach/36#v22)**  *[[4:18:24](https://www.youtube.com/watch?v=jsT6wS00jmw&t=15504s)]*
 
 > <sup>[22](/bible/sirach/36#v22)</sup> The beauty of a woman cheereth the countenance, and a man loveth nothing better.
 >
@@ -266,4 +266,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-16-the-developmental-psychology-of-being-hated)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=jsT6wS00jmw)

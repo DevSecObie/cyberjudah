@@ -20,7 +20,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
 ## Scriptures Opened
 
-**[John 10:14-16](/bible/john/10#v14)**  *[9:56]*
+**[John 10:14-16](/bible/john/10#v14)**  *[[9:56](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=596s)]*
 
 > <sup>[14](/bible/john/10#v14)</sup> I am the good shepherd, and know my sheep, and am known of mine.
 >
@@ -55,7 +55,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     I will surely assemble, O Jacob, all of thee: all twelve tribes. I will put them together as the sheep of Bozrah, as the flock in the midst of their fold. The same thing Christ was saying: them also I must bring, that there may be one fold and one shepherd.
 
-**[John 7:32-35](/bible/john/7#v32)**  *[14:58]*
+**[John 7:32-35](/bible/john/7#v32)**  *[[14:58](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=898s)]*
 
 > <sup>[32](/bible/john/7#v32)</sup> The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
 >
@@ -119,7 +119,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Paul taught all the Jews which are among the Gentiles. We know from the text that the Jews were going to be dispersed among the Gentiles and live like Gentiles. The New Testament shows Paul going out to find the Jews scattered among the other nations, living like strangers and heathens, and bringing them back to God. The job was to raise up the twelve tribes of Israel again.
 
-**[Matthew 4:15](/bible/matthew/4#v15)**  *[27:52]*
+**[Matthew 4:15](/bible/matthew/4#v15)**  *[[27:52](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=1672s)]*
 
 > <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 
@@ -131,7 +131,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Galilee of the nations: so the nations also means the Gentiles. What we read in Matthew 4:15 was already recorded in the Old Testament. When the prophets spoke, they substantiated their points from this text.
 
-**[John 4:1-14](/bible/john/4#v1)**  *[30:03]*
+**[John 4:1-14](/bible/john/4#v1)**  *[[30:03](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=1803s)]*
 
 > <sup>[1](/bible/john/4#v1)</sup> When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 >
@@ -211,7 +211,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints. It was hid for ages that the northern kingdom had a place in this, to repent and come back. The riches of the glory of this mystery among the Gentiles: the secret that was hid for ages is being revealed; it is no longer gatekept. The apostles were going to go throughout the earth and teach the people that you are not Puerto Rican, you are not Dominican, or whatever name was put on them: you are the children of Israel. And that is what is happening to us now in this present time: the understanding of who we are was hid for ages, but the Lord said in this hour the true worshippers are going to wake up.
 
-**[John 4:20-23](/bible/john/4#v20)**  *[43:55]*
+**[John 4:20-23](/bible/john/4#v20)**  *[[43:55](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=2635s)]*
 
 > <sup>[20](/bible/john/4#v20)</sup> Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
 >
@@ -242,7 +242,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Then Joshua built an altar unto the Lord God of Israel in mount Ebal. That is why she said our fathers worshipped in this mountain: when we first came into the land, the first place we came into would have been called Samaria, and the first altars were set up in Mount Ebal and Mount Gerizim. When the nation split, the northern kingdom went back up top and worshipped there; but God called his home Jerusalem, where he set up his temple. Notice also: as well the stranger, as he that was born among them; half against mount Gerizim and half against mount Ebal; and the strangers were conversant in the laws of God. When we came into the land we had a mixed multitude among us, and they had to learn the laws; we taught them how to keep the Sabbath day: neither thy manservant, nor thy maidservant, nor the stranger that is within thy gates.
 
-**[Acts 11:1-19](/bible/acts/11#v1)**  *[51:02]*
+**[Acts 11:1-19](/bible/acts/11#v1)**  *[[51:02](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=3062s)]*
 
 > <sup>[1](/bible/acts/11#v1)</sup> And the apostles and brethren that were in Judea heard that the Gentiles had also received the word of God.
 >
@@ -287,7 +287,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 - When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life. What would Peter have had to tell them to make them hold their peace? A brother answered: he would have had to expound what was written in Ezekiel 37 and Isaiah 11, that the northern kingdom would be grafted back in. He had to use scripture to explain the vision, to show this is not something I am coming up with; this is based on scripture. The vision was an allegory of the message God was sharing: the time is at hand to wake them up; it is time for them to come in.
 - Verse 19 shows that those scattered abroad upon the persecution that arose about Stephen traveled as far as Phenice, Cyprus, and Antioch, preaching the word. Some people would not accept this and persecuted the believers, and the people scattered further out and took this gospel with them.
 
-**[Acts 10:1-8](/bible/acts/10#v1)**  *[57:03]*
+**[Acts 10:1-8](/bible/acts/10#v1)**  *[[57:03](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=3423s)]*
 
 > <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
 >
@@ -322,7 +322,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Prayer is good with fasting and alms and righteousness. When you pray to God, if you combine it with alms and fasting, the prayers are heard before the Most High. That is exactly what we read of Cornelius in Acts 10:2 and 10:4.
 
-**[Acts 10:9-19](/bible/acts/10#v9)**  *[1:01:42]*
+**[Acts 10:9-19](/bible/acts/10#v9)**  *[[1:01:42](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=3702s)]*
 
 > <sup>[9](/bible/acts/10#v9)</sup> On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:
 >
@@ -355,7 +355,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     I have multiplied visions, and used similitudes, by the ministry of the prophets. A similitude shows you one thing, but it is really something else he is trying to explain. That is what Peter was pondering.
 
-**[Acts 10:21-28](/bible/acts/10#v21)**  *[1:05:00]*
+**[Acts 10:21-28](/bible/acts/10#v21)**  *[[1:05:00](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=3900s)]*
 
 > <sup>[21](/bible/acts/10#v21)</sup> Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?
 >
@@ -377,7 +377,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 - As Peter came in, Cornelius fell down at his feet and worshipped him. But Peter took him up, saying, Stand up; I myself also am a man.
 - Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean. When he saw him, he came to the understanding: the vision was not talking about food and unclean animals; it was talking about not calling another man common and unclean. Why? Because he learned Cornelius was a just man, a devout man.
 
-**[Acts 10:34-35](/bible/acts/10#v34)**  *[1:07:06]*
+**[Acts 10:34-35](/bible/acts/10#v34)**  *[[1:07:06](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=4026s)]*
 
 > <sup>[34](/bible/acts/10#v34)</sup> Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
 >
@@ -401,7 +401,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     There were dwelling at Jerusalem Jews, devout men, out of every nation under heaven, come together for the feast of Pentecost: devout Jews, devout like Cornelius, out of every nation. God is no respecter of persons; those that keep the commandments have a place of repentance.
 
-**[Acts 10:11-12, the vessel decoded](/bible/acts/10#v11)**  *[1:09:10]*
+**[Acts 10:11-12, the vessel decoded](/bible/acts/10#v11)**  *[[1:09:10](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=4150s)]*
 
 > <sup>[11](/bible/acts/10#v11)</sup> And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
 >
@@ -441,7 +441,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Ephraim also is like a silly dove without heart: I will bring them down as the fowls of the heaven. The fowls of the air also refer to man. Imagine those of the circumcision hearing Peter refer to Hosea: remember, he called us fowls. That is why the scripture says prove all things: everything must be proven as it is written, that thou mightest be justified in thy sayings, and overcome when thou art judged.
 
-**[Acts 10:13, rise, kill, and eat](/bible/acts/10#v13)**  *[1:17:14]*
+**[Acts 10:13, rise, kill, and eat](/bible/acts/10#v13)**  *[[1:17:14](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=4634s)]*
 
 > <sup>[13](/bible/acts/10#v13)</sup> And there came a voice to him, Rise, Peter; kill, and eat.
 
@@ -473,7 +473,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     The same pattern: take the little book and eat it up; and thou must prophesy again before many peoples, and nations, and tongues, and kings. You have to eat, learn, and then you must go out and prophesy.
 
-**[Acts 10:14-15, common and unclean](/bible/acts/10#v14)**  *[1:25:09]*
+**[Acts 10:14-15, common and unclean](/bible/acts/10#v14)**  *[[1:25:09](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=5109s)]*
 
 > <sup>[14](/bible/acts/10#v14)</sup> But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
 >
@@ -492,7 +492,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     They will give thereof to the common harlots: common used again for evil. So when Peter said, I have never eaten anything common or unclean, he was saying, I have never dealt with sinners.
 
-**[Ezekiel 37:16-23](/bible/ezekiel/37#v16)**  *[1:27:52]*
+**[Ezekiel 37:16-23](/bible/ezekiel/37#v16)**  *[[1:27:52](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=5272s)]*
 
 > <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
 >
@@ -514,7 +514,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head. In the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God. The time has come, Peter: we have to gather them together. And guess what: that is happening now. It has been going on since back then until now: we are out in South America gathering God's people, out in Africa gathering God's people, here in the States bringing God's people back together.
 
-**[Galatians 2:9-14](/bible/galatians/2#v9)**  *[1:33:31]*
+**[Galatians 2:9-14](/bible/galatians/2#v9)**  *[[1:33:31](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=5611s)]*
 
 > <sup>[9](/bible/galatians/2#v9)</sup> And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
 >
@@ -539,7 +539,7 @@ Bishop set up the lesson: I was going through Acts 10 recently and there is some
 
     Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently. Peter came back and taught it after he learned: we cannot have fake love for the brethren, because God already showed me; and when I was put to the test, I was influenced not to accept them. So now the message is: do not have feigned love for the brethren.
 
-**[Acts 2:1-17](/bible/acts/2#v1)**  *[1:42:26]*
+**[Acts 2:1-17](/bible/acts/2#v1)**  *[[1:42:26](https://www.youtube.com/watch?v=QjcvHQtrDrw&t=6146s)]*
 
 > <sup>[1](/bible/acts/2#v1)</sup> And when the day of Pentecost was fully come, they were all with one accord in one place.
 >
@@ -616,4 +616,4 @@ Closing reading at the breaking of bread: 1 Corinthians 11:23-30, the bread and 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-24-acts-10-reloaded-call-no-man-common)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=QjcvHQtrDrw)

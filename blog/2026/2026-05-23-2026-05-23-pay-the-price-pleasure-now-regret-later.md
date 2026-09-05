@@ -22,7 +22,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
 ## Scriptures Opened
 
-**[Matthew 9:10-13](/bible/matthew/9#v10)**  *[13:19]*
+**[Matthew 9:10-13](/bible/matthew/9#v10)**  *[[13:19](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=799s)]*
 
 > <sup>[10](/bible/matthew/9#v10)</sup> And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.
 >
@@ -51,7 +51,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     They are cured with his word. That's why Christ said, I came for the sick, and I'm going to give them my word so they can be healed and cured.
 
-**[Proverbs 21:2-3](/bible/proverbs/21#v2)**  *[20:12]*
+**[Proverbs 21:2-3](/bible/proverbs/21#v2)**  *[[20:12](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1212s)]*
 
 > <sup>[2](/bible/proverbs/21#v2)</sup> Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
 >
@@ -66,7 +66,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     The man that wandereth out of the way of understanding shall remain in the congregation of the dead. When you keep doing the same thing over and over and wonder why life is not working out for you, this is what spiritual men and women are supposed to examine: could it be that you have a secret life?
 
-**[1 Corinthians 15:22-26](/bible/1-corinthians/15#v22)**  *[26:06]*
+**[1 Corinthians 15:22-26](/bible/1-corinthians/15#v22)**  *[[26:06](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1566s)]*
 
 > <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
 >
@@ -82,7 +82,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming. When you gave a firstfruit to God, you gave him the first of your crops, the first of your animals, without blemish. That's how we have to be. If we come before the Lord in that day still holding on to secret sins, we're not going to be accepted; the Lord only accepts firstfruits. Christ is the benchmark we measure ourselves against.
 - We have sinned in this body and we fall short, but that does not give us a license to continue in the same lifestyle and expect to obtain the kingdom. We need to be the example when the masses come: they have to see a singularity in the way we conduct ourselves, where we hold each other and our children accountable to the laws of God, so when people see us they know we are different.
 
-**[1 Corinthians 15:50-54](/bible/1-corinthians/15#v50)**  *[29:35]*
+**[1 Corinthians 15:50-54](/bible/1-corinthians/15#v50)**  *[[29:35](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1775s)]*
 
 > <sup>[50](/bible/1-corinthians/15#v50)</sup> Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
 >
@@ -97,7 +97,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. This corruptible must put on incorruption: when this corruptible man puts on incorruption, he's walking in the laws of God. Then shall be brought to pass the saying, death is swallowed up in victory.
 - Do not be deceived into thinking we can continue the way we are and the Lord is just going to overlook it in that day. What we do in this body, we answer for. Everything is going to be brought into judgment. So let's stack up good fruits toward God; it's a level of insanity to think anything different. There will be weeping and gnashing of teeth.
 
-**[Ecclesiasticus 9:8](/bible/sirach/9#v8)**  *[31:47]*
+**[Ecclesiasticus 9:8](/bible/sirach/9#v8)**  *[[31:47](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=1907s)]*
 
 > <sup>[8](/bible/sirach/9#v8)</sup> Turn away thine eye from a beautiful woman, and look not upon another’s beauty; for many have been deceived by the beauty of a woman; for herewith love is kindled as a fire.
 
@@ -111,7 +111,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season. That pleasure is just for a season, and you're going to pay the price for it. Your mind has convinced you it is pleasure because you've made an agreement with your eyes to continue looking. That's what got David caught up: he did not look away, and it brought all the other problems that came with it.
 
-**[Job 31:1-11](/bible/job/31#v1)**  *[37:02]*
+**[Job 31:1-11](/bible/job/31#v1)**  *[[37:02](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=2222s)]*
 
 > <sup>[1](/bible/job/31#v1)</sup> I made a covenant with mine eyes; why then should I think upon a maid?
 >
@@ -140,7 +140,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - I made a covenant with mine eyes; why then should I think upon a maid? Job made an agreement with his eyes.
 - Doth not he see my ways, and count all my steps? The Lord knows what's in your mind, what you're looking at, how you think. You think nobody sees what you're doing; everything is being recorded. Because judgment is not executed speedily, people think they're getting away with it. In that day the book is opened and everything is measured against the book of your life. We're not going to escape this.
 
-**[2 Peter 2:12-14](/bible/2-peter/2#v12)**  *[40:05]*
+**[2 Peter 2:12-14](/bible/2-peter/2#v12)**  *[[40:05](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=2405s)]*
 
 > <sup>[12](/bible/2-peter/2#v12)</sup> But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
 >
@@ -153,20 +153,20 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - An heart they have exercised with covetous practices: they not only have the thought, they entertain it, they exercise it. When you exercise, you get stronger; they're strengthening those thoughts by entertaining them to the point they cannot cease, and the lust becomes stronger than whatever is left of the spiritual side.
 - Cautionary reports read to the school: a brother put out of the body for fornication downloaded a dating app while under judgment and discovered mid-date that the woman had just visited IUIC; his secret found him out and he called to confess. A 12 year old in the youth ministry was exposed when the images he had been viewing were shared to the youth channels; at 12 years old, that tells you about the checks and balances in that house. Watch your children; we have a responsibility to guide them. And a teenager brought before leadership over unclean viewing habits said plainly he did not want to change. Sidebar for the young people: the internet is a trap, and it isn't only porn. YouTube shorts and endless scrolling are brain rot: fifteen second clips training your mind to a short attention span, always hunting a quick dopamine hit, so you can't read a book or watch anything to the end. If you can finish a book even through the parts that aren't exciting, you endured. You're being trained out of the spirit of endurance, and in this truth there will be times when things are not at 100 percent and you have to endure. Satan is playing on a high level.
 
-**[Wisdom of Solomon 4:12](/bible/wisdom-of-solomon/4#v12)**  *[1:02:40]*
+**[Wisdom of Solomon 4:12](/bible/wisdom-of-solomon/4#v12)**  *[[1:02:40](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=3760s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/4#v12)</sup> For the bewitching of naughtiness doth obscure things that are honest; and the wandering of concupiscence doth undermine the simple mind.
 
 - For the bewitching of naughtiness doth obscure things that are honest. What is honest? The scriptures, God's laws. Bewitching means so fascinating and enchanting that it captures your complete attention, as if holding you under a spell. We teach our children God's commandments, then sit them in front of the TV, and everything they learned at the Sabbath and the new moon gets obscured if we don't monitor and stay involved in our children's lives. Sitting your child in front of the TV is not parenting; even the cartoons carry messages putting thoughts into our children's minds.
 - And the wandering of concupiscence, evil sexual desire, doth undermine the simple mind: it looks enticing, it looks good, and that's what takes away their minds.
 
-**[Judith 16:9](/bible/judith/16#v9)**  *[1:04:53]*
+**[Judith 16:9](/bible/judith/16#v9)**  *[[1:04:53](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=3893s)]*
 
 > <sup>[9](/bible/judith/16#v9)</sup> Her sandals ravished his eyes, her beauty took his mind prisoner, and the fauchion passed through his neck.
 
 - Her sandals ravished his eyes, her beauty took his mind prisoner, and the fauchion passed through his neck. Because his heart was so full of lust, even her shoes ravished his eyes. Her beauty took his mind prisoner: he had no self-control left, and he got killed behind it. That was the point.
 
-**[James 1:12-16](/bible/james/1#v12)**  *[1:06:53]*
+**[James 1:12-16](/bible/james/1#v12)**  *[[1:06:53](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4013s)]*
 
 > <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
 >
@@ -184,7 +184,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Reports were recounted of men so far gone in lust that they spied in restrooms and rigged mirrors and cameras to violate women in public. That is predator mentality. If any man here does anything like that, stop now; that path ends in destruction.
 - Do not err, my beloved brethren. Some brothers hear this word, but they're not doers. It sounds good, but they really don't want to change; sisters too.
 
-**[James 1:20-27](/bible/james/1#v20)**  *[1:12:18]*
+**[James 1:20-27](/bible/james/1#v20)**  *[[1:12:18](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4338s)]*
 
 > <sup>[20](/bible/james/1#v20)</sup> For the wrath of man worketh not the righteousness of God.
 >
@@ -208,7 +208,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - A hearer only is like a man beholding his natural face in a glass who goeth his way and forgetteth what manner of man he was. This book gives us a view of ourselves. You can turn away from the mirror, but you're still the same person; you can close the Bible, but it doesn't change that the word is not engrafted in you. You just don't want to see the correction.
 - Pure religion and undefiled is to visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. The world is designed to spot you, to put a blot on you; keep yourself from it by turning away. And when you get yourself right, then you go teach the ones without a hedge: the widow without a guide, the child without a father. First get the word engrafted in you, so we can raise the next generation and get up out of here.
 
-**[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[1:22:05]*
+**[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[[1:22:05](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4925s)]*
 
 > <sup>[14](/bible/wisdom-of-solomon/9#v14)</sup> For the thoughts of mortal men are miserable, and our devices are but uncertain.
 >
@@ -217,14 +217,14 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things. The corruptible body is at war with your spiritual soul. The only way to have a real chance of defeating it is for the word of God to be engrafted in us. You're supposed to be in that book regularly.
 - It is nearly impossible to be studying this book every day, really applying it, and go straight from that into sinning. And it's very difficult to go from sinning back into that book. Wherever your love is, that's where you're going to dwell. The path to fornication generally leads from this book being kept closed: you're not reading your four chapters, you slowly wander away, and then it's a battle to claw back, because you're bound by your own sins, like Proverbs 5:22 says.
 
-**[Ecclesiasticus 9:12](/bible/sirach/9#v12)**  *[1:24:44]*
+**[Ecclesiasticus 9:12](/bible/sirach/9#v12)**  *[[1:24:44](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5084s)]*
 
 > <sup>[12](/bible/sirach/9#v12)</sup> Delight not in the thing that the ungodly have pleasure in; but remember they shall not go unpunished unto their grave.
 
 - Delight not in the thing that the ungodly have pleasure in. You have to ask yourself: why am I delighted to entertain something that is evil?
 - But remember they shall not go unpunished unto their grave. Remember there is a punishment. You will not go unpunished if you find pleasure in sin.
 
-**[Proverbs 23:17-19](/bible/proverbs/23#v17)**  *[1:25:53]*
+**[Proverbs 23:17-19](/bible/proverbs/23#v17)**  *[[1:25:53](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5153s)]*
 
 > <sup>[17](/bible/proverbs/23#v17)</sup> Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long.
 >
@@ -241,7 +241,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     Thine eyes shall behold strange women, and thine heart shall utter perverse things. Your eye is connected to your mind, and your mind is connected to your mouth. You see, you entertain, then you begin to talk: let me get your number. Out of the abundance of the heart the mouth speaketh. Eye, mind, mouth: no control, and then you're caught up.
 
-**[1 Corinthians 10:12-15](/bible/1-corinthians/10#v12)**  *[1:29:25]*
+**[1 Corinthians 10:12-15](/bible/1-corinthians/10#v12)**  *[[1:29:25](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5365s)]*
 
 > <sup>[12](/bible/1-corinthians/10#v12)</sup> Wherefore let him that thinketh he standeth take heed lest he fall.
 >
@@ -260,7 +260,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     Ye cannot drink the cup of the Lord, and the cup of devils. You cannot do both. If you're doing both, you're lukewarm, and the Lord said he'd rather you hot or cold; the lukewarm are not getting the kingdom.
 
-**[James 1:2-5](/bible/james/1#v2)**  *[1:33:37]*
+**[James 1:2-5](/bible/james/1#v2)**  *[[1:33:37](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5617s)]*
 
 > <sup>[2](/bible/james/1#v2)</sup> My brethren, count it all joy when ye fall into divers temptations;
 >
@@ -273,7 +273,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Count it all joy when ye fall into divers temptations; knowing this, that the trying of your faith worketh patience. Can you endure? Let patience have her perfect work, that ye may be perfect and entire, wanting nothing. You go through it so you learn what your shortcomings are and work on them.
 - If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not.
 
-**[Psalms 139:23-24](/bible/psalms/139#v23)**  *[1:34:45]*
+**[Psalms 139:23-24](/bible/psalms/139#v23)**  *[[1:34:45](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5685s)]*
 
 > <sup>[23](/bible/psalms/139#v23)</sup> Search me, O God, and know my heart: try me, and know my thoughts:
 >
@@ -282,7 +282,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Search me, O God, and know my heart: try me, and know my thoughts. This is the prayer: Lord, search my heart, try me against your word, and see if there be any wicked way in me. Why does David ask that? Because he knows he cannot serve two masters. Show me, Lord, where I'm falling short, and lead me in the way everlasting.
 - How does that happen? Open the book: search the scriptures, for in them ye think ye have eternal life, and they are they which testify of me. He will also send prophets into your life to instruct you. A recent class reached a person who had been praying and fasting all week for an answer, and it was spot-on what they needed to do right; the Lord sent it. This class right now is for somebody in here or out there.
 
-**[James 1:18-19](/bible/james/1#v18)**  *[1:37:57]*
+**[James 1:18-19](/bible/james/1#v18)**  *[[1:37:57](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=5877s)]*
 
 > <sup>[18](/bible/james/1#v18)</sup> Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.
 >
@@ -291,7 +291,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Let every man be swift to hear, slow to speak, slow to wrath. If you're listening, you're not talking, you're not making excuses, and you're fixing yourself. Don't get mad when you hear it.
 - Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. As you get right, you're removing the spots, because that's what we have to become to God: firstfruits, without spot, without blemish. We fix it on this end; this is the playing field. If you're brought under subjection of something you can't control, and it's not the word of God engrafted in you, then this isn't for you, and that goes for lust, hatred, whatever the sin is.
 
-**[Wisdom of Solomon 7:25-30](/bible/wisdom-of-solomon/7#v25)**  *[1:40:23]*
+**[Wisdom of Solomon 7:25-30](/bible/wisdom-of-solomon/7#v25)**  *[[1:40:23](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6023s)]*
 
 > <sup>[25](/bible/wisdom-of-solomon/7#v25)</sup> For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty: therefore can no defiled thing fall into her.
 >
@@ -309,7 +309,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - And being but one, she can do all things: it's only impossible when the Bible is shut, when we're not holding up our end. Remaining in herself, she maketh all things new: we become new creatures in Christ when we decide to repent and get our minds right. In all ages entering into holy souls, she maketh them friends of God; for God loveth none but him that dwelleth with wisdom.
 - Vice shall not prevail against wisdom. No matter what hang-up, what sin, what lust we have, no vice can overcome the wisdom of God.
 
-**[Romans 6:23](/bible/romans/6#v23)**  *[1:43:06]*
+**[Romans 6:23](/bible/romans/6#v23)**  *[[1:43:06](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6186s)]*
 
 > <sup>[23](/bible/romans/6#v23)</sup> For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
 
@@ -326,7 +326,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     The earnest expectation of the creature waiteth for the manifestation of the sons of God; the creature itself shall be delivered from the bondage of corruption into the glorious liberty of the children of God. That's our expectation. So if we know the wages of sin is death, then why sin? Then you're not expecting this. In that day he's going to say, I never knew you; you didn't do what I said to do. How do you expect something you didn't do?
 
-**[Romans 6:12-13](/bible/romans/6#v12)**  *[1:45:49]*
+**[Romans 6:12-13](/bible/romans/6#v12)**  *[[1:45:49](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6349s)]*
 
 > <sup>[12](/bible/romans/6#v12)</sup> Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 >
@@ -351,7 +351,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
     The Spirit itself maketh intercession for us with groanings which cannot be uttered: that part of us that groans to God because we're expecting the kingdom, if we're sincere. All things work together for good to them that love God: if you love God, you are keeping the commandments. Whom he did foreknow, he also did predestinate to be conformed to the image of his Son: you're going to measure to the fulness of the stature of Christ in this mortal body, because sin cannot reign in this mortal body. Stop thinking it happens on the other side; whoever couldn't figure out that you cannot live a life of sin and enter the kingdom is going to the lake.
     A hard word with it: sisters that are married, if you refuse to reverence your husband and live to his guidance in the Lord, no head covering or office covers that. And husbands, if you're not guiding your wife and molding your house in these scriptures, that's on you; you're no wise master builder, and the children pay for it. When a child in a covenant house is deep in uncleanness, something is wrong in that house.
 
-**[Ephesians 6:11-12](/bible/ephesians/6#v11)**  *[1:53:24]*
+**[Ephesians 6:11-12](/bible/ephesians/6#v11)**  *[[1:53:24](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6804s)]*
 
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 >
@@ -361,7 +361,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 - Ask the older ones: there was a time these abominations were not open and normal. What happened between then and now? Stratagems. TV shows, movies, and policies were set in place that made it acceptable, until this young generation is not shocked at all. The brainwashing began back then: Geraldine, Tootsie, and the comedians in dresses, and we laughed. When we laughed at that, we were taking pleasure in sin, and our inhibitions and values were being lowered. That ran straight through to Madea and Sheneneh, and today even the classic cartoons are recut into couple goals clips for children. It's molding young minds slowly, changing what they perceive as natural. All the pronoun language works the same way: to distort the minds.
 
-**[Numbers 25:1-3](/bible/numbers/25#v1)**  *[2:01:24]*
+**[Numbers 25:1-3](/bible/numbers/25#v1)**  *[[2:01:24](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=7284s)]*
 
 > <sup>[1](/bible/numbers/25#v1)</sup> And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 >
@@ -377,7 +377,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor. They knew: we have to get these people to sin against their God. So they used this stratagem to move them away from God. That was the popular plan.
 
-**[Psalms 83:1-5](/bible/psalms/83#v1)**  *[2:05:02]*
+**[Psalms 83:1-5](/bible/psalms/83#v1)**  *[[2:05:02](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=7502s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
@@ -399,14 +399,14 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     The king of Egypt dealt subtilly with them, and brought them low with labouring in brick, and made them slaves. That's one of the crafty counsels: work them to death. Today our people work two jobs, paycheck to paycheck, too poor to stop working. There was a time you could deliver milk or work at the post office and buy a home on one salary; now people with full-time jobs are living in storage units. The middle class is gone.
 
-**[Numbers 31:16](/bible/numbers/31#v16)**  *[2:09:26]*
+**[Numbers 31:16](/bible/numbers/31#v16)**  *[[2:09:26](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=7766s)]*
 
 > <sup>[16](/bible/numbers/31#v16)</sup> Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
 
 - These caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor. The Lord would not allow Balaam to curse us, but Balaam told Balak: I can't curse them, but I can tell you how to make them fall. How? Whoredom.
 - As long as we continue in whoredom, with this porn or whatever people are doing, you will not build healthy marriages. Without healthy marriages you don't produce spiritually healthy children, and the generational curses keep going. Our strength is to come back to the laws of God: that unifies husbands and wives, the children come up in the right frame of mind, prepared to marry other believers' children, and a nation comes back. Stay controlled by lust, and the nation stays dysfunctional.
 
-**[Judges 16:1-6](/bible/judges/16#v1)**  *[2:17:27]*
+**[Judges 16:1-6](/bible/judges/16#v1)**  *[[2:17:27](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8247s)]*
 
 > <sup>[1](/bible/judges/16#v1)</sup> Then went Samson to Gaza, and saw there an harlot, and went in unto her.
 >
@@ -423,7 +423,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - The lords of the Philistines came unto Delilah and said, entice him, and see wherein his great strength lieth, and by what means we may prevail against him. The weapon they used against Samson was his weakness for sex. That was his weakness, so that was the weapon.
 - Brothers in particular: everything you do online is recorded; there is a file on whatever you're looking at. The enemy can read your appetites off your own scrolling and dispatch temptation tailored exactly to your taste, and you'll think she was sent from heaven when it's the oldest infiltration trick there is. Then you're pouring out all your business to her. Be sober, be vigilant.
 
-**[Judith 5:20-21](/bible/judith/5#v20)**  *[2:20:16]*
+**[Judith 5:20-21](/bible/judith/5#v20)**  *[[2:20:16](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8416s)]*
 
 > <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 >
@@ -432,7 +432,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - If there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up. But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them.
 - When we are in the laws of God, God defends us; when we are in error, we leave ourselves open for destruction. The nations understand this: keep them on the evil music, keep them on drugs, keep them in error with God, layers upon layers, even food they serve us that we don't know is unlawful. Their whole plan is to keep us in sin, because once we make that connection back with God, we're all right, and we're going to get up out of here.
 
-**[Exodus 32:6](/bible/exodus/32#v6)**  *[2:22:13]*
+**[Exodus 32:6](/bible/exodus/32#v6)**  *[[2:22:13](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8533s)]*
 
 > <sup>[6](/bible/exodus/32#v6)</sup> And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.
 
@@ -451,14 +451,14 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     These things were our examples, to the intent we should not lust after evil things, as they also lusted. Why were they overthrown in the wilderness? Because they lusted after evil things. Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand. The rose up to play was fornication, and it destroyed us. The nations understood this when they took their crafty counsel.
 
-**[Genesis 6:5](/bible/genesis/6#v5)**  *[2:26:15]*
+**[Genesis 6:5](/bible/genesis/6#v5)**  *[[2:26:15](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8775s)]*
 
 > <sup>[5](/bible/genesis/6#v5)</sup> And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
 - God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. What happened when God saw that? It grieved him, and he flooded the whole earth.
 - Today the people have no shame. A new song was played in class whose hook celebrates whoredom as women's empowerment. The enemy gives riches to a few to destroy the rest, and that music only sells because the minds of the people have already been changed to entertain it. It's flipped so far that an honorable sister gets mocked as a pick me. Somebody picked you to marry you; that's good. The alternative the music is selling is to be used up every weekend and thrown away.
 
-**[Proverbs 23:26-29](/bible/proverbs/23#v26)**  *[2:28:18]*
+**[Proverbs 23:26-29](/bible/proverbs/23#v26)**  *[[2:28:18](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8898s)]*
 
 > <sup>[26](/bible/proverbs/23#v26)</sup> My son, give me thine heart, and let thine eyes observe my ways.
 >
@@ -472,7 +472,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - She also lieth in wait as for a prey. A prey is a weak animal that cannot defend itself; the prey here is a weak-minded man. A man who knows a woman's lifestyle is full of disease and still runs to her is prey. And she increaseth the transgressors among men: she's stacking them up.
 - So the question is: what do you want? You're telling me you want pleasure now? Fine. You're going to get regret later. You're going to pay.
 
-**[Susanna 1:8-9](/bible/susanna/1#v8)**  *[2:31:15]*
+**[Susanna 1:8-9](/bible/susanna/1#v8)**  *[[2:31:15](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=9075s)]*
 
 > <sup>[8](/bible/susanna/1#v8)</sup> And the two elders saw her going in every day, and walking; so that their lust was inflamed toward her.
 >
@@ -482,7 +482,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - They turned their eyes away from God. We just read: give me thine heart, turn your eyes this way. They said no, I'm going this way. Well, then that's your god. They would not remember judgment because they were inflamed; they were enticed, like James says, drawn away and enticed.
 - Back to Ecclesiasticus 9:8: love is kindled as a fire. To kindle is to blow on it. It starts as a little ember, and you keep nurturing it by entertaining the thoughts day in and day out, never turning your head, until it becomes inflamed. That's exactly what these two elders did at that man's house, and lust made two old judges into conspirators.
 
-**[Ecclesiasticus 18:30-31](/bible/sirach/18#v30)**  *[2:37:39]*
+**[Ecclesiasticus 18:30-31](/bible/sirach/18#v30)**  *[[2:37:39](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=9459s)]*
 
 > <sup>[30](/bible/sirach/18#v30)</sup> Go not after thy lusts, but refrain thyself from thine appetites.
 >
@@ -491,7 +491,7 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 - Go not after thy lusts, but refrain thyself from thine appetites. When you can refrain yourself, you have self-control; you rule this body.
 - If thou givest thy soul the desires that please her, she will make thee a laughingstock to thine enemies that malign thee. The nations are laughing at us: these are supposed to be a wise and understanding people, and grandmothers are competing with their daughters online for attention. Even the AI girlfriend ads: it is not even a real person, and men are captivated by it. Give your soul her desires and you become the joke of your enemies.
 
-**[Ecclesiasticus 19:5](/bible/sirach/19#v5)**  *[2:39:10]*
+**[Ecclesiasticus 19:5](/bible/sirach/19#v5)**  *[[2:39:10](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=9550s)]*
 
 > <sup>[5](/bible/sirach/19#v5)</sup> Whoso taketh pleasure in wickedness shall be condemned: but he that resisteth pleasures crowneth his life.
 
@@ -508,4 +508,4 @@ I pray you receive something from the class today. This class is for all of us, 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-23-pay-the-price-pleasure-now-regret-later)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=LmS2WNcC-Rk)

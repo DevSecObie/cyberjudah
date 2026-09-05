@@ -27,7 +27,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 
 ## Scriptures Opened
 
-**[Job 20:18-22](/bible/job/20#v18)**  *[37:32]*
+**[Job 20:18-22](/bible/job/20#v18)**  *[[37:32](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=2252s)]*
 
 > <sup>[18](/bible/job/20#v18)</sup> That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
 >
@@ -44,7 +44,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - Surely he shall not feel quietness in his belly: you are not going to be at peace. He shall not save of that which he desired: all that riches, you are not going to be able to save it for yourself.
 - Every hand of the wicked shall come upon him: that is what is going to happen to America. Saudi Arabia, Russia, Persia which is Iran, China.
 
-**[Haggai 2:5-9](/bible/haggai/2#v5)**  *[41:10]*
+**[Haggai 2:5-9](/bible/haggai/2#v5)**  *[[41:10](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=2470s)]*
 
 > <sup>[5](/bible/haggai/2#v5)</sup> According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.
 >
@@ -61,14 +61,14 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - The silver is mine, and the gold is mine, saith the Lord of hosts: all the silver and gold on this earth belongs to the Most High.
 - The glory of this latter house shall be greater than of the former: greater than the temple Solomon built, because the nations are going to bring their wealth. When it says restitution, it means gold and silver and precious things, real wealth, not the US paper dollar.
 
-**[Isaiah 61:6](/bible/isaiah/61#v6)**  *[43:54]*
+**[Isaiah 61:6](/bible/isaiah/61#v6)**  *[[43:54](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=2634s)]*
 
 > <sup>[6](/bible/isaiah/61#v6)</sup> But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
 
 - Ye shall be named the Priests of the Lord: men shall call you the Ministers of our God. Ye shall eat the riches of the Gentiles: all their riches are going to belong to us.
 - And in their glory shall ye boast yourselves. There is another scripture that says the way the nations will show they are subjected unto us is that they are going to bring their gold.
 
-**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[50:03]*
+**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[[50:03](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=3003s)]*
 
 > <sup>[7](/bible/jeremiah/50#v7)</sup> All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
 
@@ -77,7 +77,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - All that found them have devoured them: and their adversaries said, We offend not. All the nations that found us devoured us, and then they turn around and say, we did nothing wrong, because they have sinned against the Lord: you Israelites keep breaking God's laws, so God made this happen to you.
 - Let me tell you straight: I do not want anything from white people. But I will let them know about all the evil they have done, and that judgment is coming to them from the God of the twelve tribes of Israel for what they have done.
 
-**[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[51:03]*
+**[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[[51:03](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=3063s)]*
 
 > <sup>[4](/bible/zechariah/11#v4)</sup> Thus saith the Lord my God; Feed the flock of the slaughter;
 >
@@ -88,7 +88,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And they that sell them say, Blessed be the Lord; for I am rich. That is what the white man says, because he did it in the name of white Jesus. The Roman Catholic Church set up those edicts to enslave and colonize Africa and the new world in the name of the Lord.
 - And their own shepherds pity them not: our own shepherds had no mercy and never helped us.
 
-**[Revelation 13:7-10](/bible/revelation/13#v7)**  *[56:07]*
+**[Revelation 13:7-10](/bible/revelation/13#v7)**  *[[56:07](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=3367s)]*
 
 > <sup>[7](/bible/revelation/13#v7)</sup> And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
 >
@@ -103,7 +103,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And power was given him over all kindreds, and tongues, and nations, and all that dwell upon the earth shall worship him: everybody started worshiping the white man as Christ and Savior, whose names are not written in the book of life.
 - He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. That is the judgment for the verse above. Here is the patience and the faith of the saints: this is what the saints are patiently waiting for. If you are a saint, you want justice for what was done to your forefathers.
 
-**[Isaiah 1:2-3](/bible/isaiah/1#v2)**  *[1:27:52]*
+**[Isaiah 1:2-3](/bible/isaiah/1#v2)**  *[[1:27:52](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=5272s)]*
 
 > <sup>[2](/bible/isaiah/1#v2)</sup> Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me.
 >
@@ -113,7 +113,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - The ox knoweth his owner, and the ass his master's crib: but Israel doth not know, my people doth not consider. We do not know who our master is. Our master is our God, and we do not know who our God is, and we do not know where our land is.
 - You cannot separate God and nation; they go hand in hand. If you forget your God, you are going to forget your nation. That is what happened to us as a people. The Arabs have Islam, the Chinese have Buddha and their land, the white man has his white image of Christ. But we forgot who we are, who our God is, and where our home is.
 
-**[Jeremiah 2:11](/bible/jeremiah/2#v11)**  *[1:31:54]*
+**[Jeremiah 2:11](/bible/jeremiah/2#v11)**  *[[1:31:54](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=5514s)]*
 
 > <sup>[11](/bible/jeremiah/2#v11)</sup> Hath a nation changed their gods, which are yet no gods? but my people have changed their glory for that which doth not profit.
 
@@ -121,7 +121,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - But my people have changed their glory for that which doth not profit. What does not profit us? Christianity and Islam. Christianity as the colonizer set it up was built on white supremacy; it is the colonizer religion. We are the children of Israel, the people Christ came and died for. Christ was a black man, and the apostles were black men.
 - The reason we are in this condition today is because we forgot our God. Right through the Bible he says, I am the God of Abraham, Isaac, and Jacob; the God of Israel. Understanding who Israel is and where Israel's land is, you must understand who your God is.
 
-**[Psalms 137:3-8](/bible/psalms/137#v3)**  *[1:35:36]*
+**[Psalms 137:3-8](/bible/psalms/137#v3)**  *[[1:35:36](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=5736s)]*
 
 > <sup>[3](/bible/psalms/137#v3)</sup> For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.
 >
@@ -142,14 +142,14 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. David was not there, but David was a prophet and saw in a vision Edom helping the Babylonians and 70 AD when the Romans came.
 - O daughter of Babylon, who art to be destroyed: Edom did the same thing ancient Babylon did, so that is their judgment.
 
-**[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[1:41:58]*
+**[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[1:41:58](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6118s)]*
 
 > <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
 
 - And thou, even thyself, shalt discontinue from thine heritage that I gave thee. When you read the Bible, did Jeremiah ever forget who he was? No. Jeremiah stood stiffly for the Lord, and when Nebuchadnezzar destroyed Jerusalem, Jeremiah was let go free and taught the people left in the land. So this is talking about when Jeremiah comes back in the future: he will forget his heritage, his God and his land.
 - And I will cause thee to serve thine enemies in the land which thou knowest not. The Babylonians did not take Jeremiah into Babylon as a slave, and Jeremiah knew nothing about the United States of America. Jeremiah is here in the last days, serving his enemies in the land of his captivity. But he will remember who he is: he will remember that he is an Israelite, his God, and his land.
 
-**[Hosea 3:4](/bible/hosea/3#v4)**  *[1:46:05]*
+**[Hosea 3:4](/bible/hosea/3#v4)**  *[[1:46:05](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6365s)]*
 
 > <sup>[4](/bible/hosea/3#v4)</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
 
@@ -157,7 +157,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - Without a sacrifice: no religious establishment teaching us true religion or teaching us about our God. In slavery the white man taught us his lies and his god.
 - And without an image: image goes into nationality, and into what your God looks like, because your God was created in your image. For many years we were without an image, without a sacrifice, without a culture. With culture you have your God and your nation, your feast days, how you worship: that is your heritage, and for many years we were without it.
 
-**[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[1:48:34]*
+**[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[[1:48:34](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6514s)]*
 
 > <sup>[29](/bible/deuteronomy/33#v29)</sup> Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
 
@@ -165,7 +165,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And thine enemies shall be found liars unto thee. The prophecy is that our enemies are going to be found out lying to us. When is that? Today. All of us inside this truth understand: the white man lied to me. He lied about your culture, your God, and your nationality. He calls himself a Jew and a Christian, which he is not.
 - And thou shalt tread upon their high places: that is future prophecy.
 
-**[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[1:50:52]*
+**[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[1:50:52](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6652s)]*
 
 > <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 
@@ -173,7 +173,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - The land of Israel was called the land of Canaan, and Canaan is the son of Ham: Hamitic tribes, black people, lived there. The Canaanites and the Philistines we fought were black people. So do not fall for the line that Christ was some beige Middle Easterner; everybody in that region was black.
 - Or another spirit, which ye have not received, or another gospel: the gospel our people follow today is another gospel. Revelation calls it the image of the beast and the false prophet. With the other Jesus comes the other gospel, and that other gospel is white supremacy: worship the white man.
 
-**[Matthew 24:3-6](/bible/matthew/24#v3)**  *[1:54:43]*
+**[Matthew 24:3-6](/bible/matthew/24#v3)**  *[[1:54:43](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6883s)]*
 
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
 >
@@ -185,7 +185,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - For many shall come in my name, saying, I am Christ. Christ means anointed. Who came saying they are the anointed ones? It began in the 1400s during the Renaissance. And shall deceive many: billions of people on the earth today have been deceived, worshiping a white man as Christ.
 - And ye shall hear of wars and rumours of wars: see that ye be not troubled.
 
-**[1 Kings 8:46-48](/bible/1-kings/8#v46)**  *[1:56:11]*
+**[1 Kings 8:46-48](/bible/1-kings/8#v46)**  *[[1:56:11](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6971s)]*
 
 > <sup>[46](/bible/1-kings/8#v46)</sup> If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
 >
@@ -199,7 +199,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And so return unto thee with all their heart, and with all their soul, and pray unto thee toward their land. Where is your land? It is not Africa, and it is not Jamaica or Trinidad or Nigeria or the lands where we were scattered, and it is not the land of your captivity. Once you know who your God is, you are going to know where your land is, because your nation and your God go hand in hand.
 - The state of mind we all must have is a nationalist. Do not let anybody tell you being a nationalist is wrong: you must love your nation. A nationalist wants his nation, his land.
 
-**[Zechariah 1:3-4](/bible/zechariah/1#v3)**  *[2:03:15]*
+**[Zechariah 1:3-4](/bible/zechariah/1#v3)**  *[[2:03:15](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7395s)]*
 
 > <sup>[3](/bible/zechariah/1#v3)</sup> Therefore say thou unto them, Thus saith the Lord of hosts; Turn ye unto me, saith the Lord of hosts, and I will turn unto you, saith the Lord of hosts.
 >
@@ -208,7 +208,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - Turn ye unto me, saith the Lord of hosts, and I will turn unto you: when we turn unto God, God will turn unto us.
 - Be ye not as your fathers, unto whom the former prophets have cried, saying, Turn ye now from your evil ways; but they did not hear. We cannot be like our forefathers who did not listen to the prophets. Brothers hearing these teachings, listen and turn to God with all your heart.
 
-**[Deuteronomy 10:12-13](/bible/deuteronomy/10#v12)**  *[2:04:32]*
+**[Deuteronomy 10:12-13](/bible/deuteronomy/10#v12)**  *[[2:04:32](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7472s)]*
 
 > <sup>[12](/bible/deuteronomy/10#v12)</sup> And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart and with all thy soul,
 >
@@ -217,7 +217,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And now, Israel, what doth the Lord thy God require of thee? To fear him, to walk in all his ways, to love him, and to serve him with all thy heart and with all thy soul.
 - To keep the commandments of the Lord, and his statutes, which I command thee this day for thy good. We serve God and show him we love him by keeping the commandments. Do not listen to these Christians saying the law is done away with, that you can eat pork and shrimp and live however you want.
 
-**[Matthew 22:36-38](/bible/matthew/22#v36)**  *[2:06:29]*
+**[Matthew 22:36-38](/bible/matthew/22#v36)**  *[[2:06:29](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7589s)]*
 
 > <sup>[36](/bible/matthew/22#v36)</sup> Master, which is the great commandment in the law?
 >
@@ -228,20 +228,20 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - Master, which is the great commandment in the law? Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. Thy God: that is why God and nation go hand in hand.
 - This was not a new commandment; it was said in Deuteronomy. The thing is, we never kept it. So how do you love God? Is it a tingly feeling inside, jumping around like these churches? Loving God is an action.
 
-**[John 14:15](/bible/john/14#v15)**  *[2:08:40]*
+**[John 14:15](/bible/john/14#v15)**  *[[2:08:40](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7720s)]*
 
 > <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
 
 - If ye love me, keep my commandments. Everybody on this planet says they love God. Christ says, if you love me, keep my commandments. That is how you show God you love him.
 
-**[1 John 5:3](/bible/1-john/5#v3)**  *[2:09:05]*
+**[1 John 5:3](/bible/1-john/5#v3)**  *[[2:09:05](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7745s)]*
 
 > <sup>[3](/bible/1-john/5#v3)</sup> For this is the love of God, that we keep his commandments: and his commandments are not grievous.
 
 - For this is the love of God, that we keep his commandments. We have to keep them with all our heart, willingly, loving doing it, training ourselves to hate evil and love good. You follow the dietary laws, you keep the feast days, you deal right with your brothers and sisters.
 - And dealing right starts in your house. You married couples: if you hate each other, you hate God. Brothers, deal right with your wife; she is the weaker vessel; do not be abusive. Sisters, one point in time you loved him, and all of a sudden the love turned into hate and you want a divorce. When the Bible says love thy neighbour as thyself, that starts at home first. God wants us to love each other and deal right with each other; that divorce stuff has to stop.
 
-**[1 John 2:4-6](/bible/1-john/2#v4)**  *[2:11:54]*
+**[1 John 2:4-6](/bible/1-john/2#v4)**  *[[2:11:54](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7914s)]*
 
 > <sup>[4](/bible/1-john/2#v4)</sup> He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
 >
@@ -253,7 +253,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - But whoso keepeth his word, in him verily is the love of God perfected.
 - He that saith he abideth in him ought himself also so to walk, even as he walked. Did Christ keep the Sabbath? Did Christ wear fringes? Did Christ keep the Passover? If you say you love the Lord, you are going to do the same things he did when he walked on this earth.
 
-**[Deuteronomy 30:1-3](/bible/deuteronomy/30#v1)**  *[2:13:47]*
+**[Deuteronomy 30:1-3](/bible/deuteronomy/30#v1)**  *[[2:13:47](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8027s)]*
 
 > <sup>[1](/bible/deuteronomy/30#v1)</sup> And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the Lord thy God hath driven thee,
 >
@@ -266,7 +266,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And shalt return unto the Lord thy God, and shalt obey his voice, thou and thy children, with all thine heart, and with all thy soul. God did not say you alone repent: you and your children have to turn to him. A nation starts with family. That is why we always tell you brothers we want to see your family.
 - Then the Lord thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations. You cannot read that as a Christian and understand it. You must read it as an Israelite, understanding you were scattered through the four corners of the earth in slavery, and God is going to gather you if you turn back to him with all your heart, soul, and mind.
 
-**[Matthew 20:1-4](/bible/matthew/20#v1)**  *[2:18:16]*
+**[Matthew 20:1-4](/bible/matthew/20#v1)**  *[[2:18:16](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8296s)]*
 
 > <sup>[1](/bible/matthew/20#v1)</sup> For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.
 >
@@ -280,13 +280,13 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - He went out about the third hour, and saw others standing idle in the marketplace: he saw people who had no purpose. That is us. You were going to the club, partying, caught up in Christianity. We were all idle; none of us had purpose.
 - And said unto them, Go ye also into the vineyard; and whatsoever is right I will give you. The Lord called us, and he has a job, a purpose, for every last one of us. We were without purpose, but God called us and hired us.
 
-**[John 6:44](/bible/john/6#v44)**  *[2:20:02]*
+**[John 6:44](/bible/john/6#v44)**  *[[2:20:02](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8402s)]*
 
 > <sup>[44](/bible/john/6#v44)</sup> No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
 
 - No man can come to me, except the Father which hath sent me draw him. If you are in these doors, in any IUIC school, or online right now and you can understand what we are teaching, the only way is because the Father is drawing you to Christ. Even if you were skipping through videos or somebody on your job said something to you, that is the Father lining you up to draw you in.
 
-**[1 Corinthians 1:26-29](/bible/1-corinthians/1#v26)**  *[2:21:22]*
+**[1 Corinthians 1:26-29](/bible/1-corinthians/1#v26)**  *[[2:21:22](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8482s)]*
 
 > <sup>[26](/bible/1-corinthians/1#v26)</sup> For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:
 >
@@ -301,7 +301,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - But God hath chosen the foolish things of the world to confound the wise, and the weak things to confound the things which are mighty; and base things, and things which are despised: that is us. We are despised and hated, and God is going to use us to confound these Christians and to bring to nought the things that are, to destroy governments and societies on this earth with our teachings.
 - That no flesh should glory in his presence. Nobody can say, I understand the Bible because I am so smart, I went to theology school. If you did not go to theology school and you are confounding people who did, understand it is not you; it is the power of God. That is why God chooses the weak things: so he can show his power, and so nobody glories in themselves.
 
-**[Ephesians 4:7-9](/bible/ephesians/4#v7)**  *[2:26:55]*
+**[Ephesians 4:7-9](/bible/ephesians/4#v7)**  *[[2:26:55](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8815s)]*
 
 > <sup>[7](/bible/ephesians/4#v7)</sup> But unto every one of us is given grace according to the measure of the gift of Christ.
 >
@@ -312,7 +312,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - Unto every one of us is given grace according to the measure of the gift of Christ. Every last one of us, Christ gave gifts, and your gift goes hand in hand with your calling, with your purpose. What gifts God gave you is according to what he wants you to do on this earth.
 - When he ascended up on high, he led captivity captive, and gave gifts unto men. My wife never learned to sew; I asked her to make me a garment when I was in my twenties, just coming into this truth, and she started sewing and making garments self-taught. That was a gift from God. Captain Zev was never into IT, and all of a sudden he started dealing with all the IT work. God gives us gifts to build his nation. Some of you went to school to be a doctor: you thought that was for you to become rich in this world. No, it is for you to help your people. Even you sisters cooking and serving, that is a gift of hospitality; and some who help financially, that is a gift.
 
-**[Romans 12:3-10](/bible/romans/12#v3)**  *[2:31:32]*
+**[Romans 12:3-10](/bible/romans/12#v3)**  *[[2:31:32](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=9092s)]*
 
 > <sup>[3](/bible/romans/12#v3)</sup> For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
 >
@@ -338,7 +338,7 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - He that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness. Be cheerful in showing mercy.
 - Let love be without dissimulation: we should not be trying to break each other down, especially because a brother has a gift you do not have. Abhor that which is evil; cleave to that which is good. Be kindly affectioned one to another with brotherly love.
 
-**[Ephesians 4:10-12](/bible/ephesians/4#v10)**  *[2:39:09]*
+**[Ephesians 4:10-12](/bible/ephesians/4#v10)**  *[[2:39:09](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=9549s)]*
 
 > <sup>[10](/bible/ephesians/4#v10)</sup> He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
 >
@@ -349,26 +349,26 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 - And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers. Some of you brothers in IUIC are a prophet. Some are evangelists, and there are different forms of evangelism: you can travel to different states, different countries, different boroughs, going forth and teaching the word.
 - For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ. Why did God give these gifts? Not for me to glorify myself. My job as a teacher is to help you become perfect through the scriptures. I am not doing this class for no reason: it is to help you navigate to find your purpose, to see your calling, to know you are not just here for no reason. And as you grow in the spirit, you are going to do the same thing for the men that come after you.
 
-**[Romans 8:28](/bible/romans/8#v28)**  *[2:43:09]*
+**[Romans 8:28](/bible/romans/8#v28)**  *[[2:43:09](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=9789s)]*
 
 > <sup>[28](/bible/romans/8#v28)</sup> And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
 - And we know that all things work together for good to them that love God, to them who are the called according to his purpose. God has a purpose for every last one of us. Whether you are brothers on the IT, on the audio, editing videos, making the thumbnail, on security: everyone has a purpose.
 - You do not have to have rank to have a purpose. You do not have to be a soldier to do the work of God. We have programs set up: the medical team, the stewardship program. Rank is for order and structure; it is not for you to be lord over anybody. But you still have to do the work.
 
-**[Matthew 22:14](/bible/matthew/22#v14)**  *[2:45:12]*
+**[Matthew 22:14](/bible/matthew/22#v14)**  *[[2:45:12](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=9912s)]*
 
 > <sup>[14](/bible/matthew/22#v14)</sup> For many are called, but few are chosen.
 
 - For many are called, but few are chosen. What is going to tell whether you are chosen is your actions. If you stay in the midst of adultery and all types of wickedness, carrying grudges and hatred toward your brothers and sisters, being deceitful, God is not going to choose you. He called you, but you will not be chosen.
 
-**[1 Corinthians 11:19](/bible/1-corinthians/11#v19)**  *[2:46:53]*
+**[1 Corinthians 11:19](/bible/1-corinthians/11#v19)**  *[[2:46:53](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=10013s)]*
 
 > <sup>[19](/bible/1-corinthians/11#v19)</sup> For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 - For there must be also heresies among you, that they which are approved may be made manifest among you. How do you tell who is approved by God? Heresies have to take place.
 
-**[Colossians 4:16-17](/bible/colossians/4#v16)**  *[2:47:20]*
+**[Colossians 4:16-17](/bible/colossians/4#v16)**  *[[2:47:20](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=10040s)]*
 
 > <sup>[16](/bible/colossians/4#v16)</sup> And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea.
 >
@@ -376,21 +376,21 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 
 - Say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it. Take heed to your ministry: your ministry is your calling, your purpose. We all have one, and we all have to make sure we fulfil it. Eventually every last one of us is going to see our calling and see why God called us.
 
-**[2 Peter 1:10](/bible/2-peter/1#v10)**  *[2:48:24]*
+**[2 Peter 1:10](/bible/2-peter/1#v10)**  *[[2:48:24](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=10104s)]*
 
 > <sup>[10](/bible/2-peter/1#v10)</sup> Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:
 
 - Wherefore the rather, brethren, give diligence to make your calling and election sure. Only you can make your calling and election sure. How? Keeping the commandments, dealing right with each other, and understanding your purpose. Sit down and ask yourself: what can I do to help build this nation? What gifts do I have?
 - There is a lot that has to be done, and we have to take it to another level and separate ourselves from this system. Why are we buying chickens from the store? Why every Passover are we buying lambs from these farmers? Why do we not have our own land, and we are talking about being a nation within a nation? Are we really a nation if we depend on everybody for everything? God is going to give some of you the gift to go into farming.
 
-**[Matthew 19:27](/bible/matthew/19#v27)**  *[2:50:42]*
+**[Matthew 19:27](/bible/matthew/19#v27)**  *[[2:50:42](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=10242s)]*
 
 > <sup>[27](/bible/matthew/19#v27)</sup> Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
 
 - As you find your purpose, Satan is going to come after you, and a lot of us will have to make sacrifices. You are not going to serve God without making sacrifices.
 - Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee. Peter forsook everything to follow Christ. My question to you: do you have that state of mind, that you are willing to forsake everything to follow after Christ? Kanye was not willing to do that. Nick Cannon was not willing to do that; they would lose billions of dollars. Are you willing to lose everything to follow after Christ? That is what this truth is about.
 
-**[Luke 14:26-33](/bible/luke/14#v26)**  *[2:51:40]*
+**[Luke 14:26-33](/bible/luke/14#v26)**  *[[2:51:40](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=10300s)]*
 
 > <sup>[26](/bible/luke/14#v26)</sup> If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 >
@@ -418,4 +418,4 @@ God, purpose, and sacrifice. Know your God: your God and your nation go hand in 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-30-god-purpose-and-sacrifice)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=7vmCIf3gj2I)

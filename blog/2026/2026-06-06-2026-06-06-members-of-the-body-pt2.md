@@ -18,13 +18,13 @@ This class continues last week's topic on the members in the body. Last week we 
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[7:52]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[7:52](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=472s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
 - For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. This Bible is not a book that just sits on the counter. We believe on it and we apply the things that we learn, because we know the things promised to us from the scriptures are going to come to pass. Therefore we continue to strive and work hard so that the kingdom of heaven will come upon us.
 
-**[Psalms 133:1](/bible/psalms/133#v1)**  *[9:41]*
+**[Psalms 133:1](/bible/psalms/133#v1)**  *[[9:41](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=581s)]*
 
 > <sup>[1](/bible/psalms/133#v1)</sup> Behold, how good and how pleasant it is for brethren to dwell together in unity!
 
@@ -38,14 +38,14 @@ This class continues last week's topic on the members in the body. Last week we 
 
     In three things I was beautified, and stood up beautiful both before God and men: the unity of brethren, the love of neighbours, and a man and a wife that agree together. All three are unity in righteousness. It is not that oogly googly feeling about your neighbor; it is unity in righteousness. A sanctified holy marriage that has come together in the Lord is a beautiful thing before the Lord. Anything other than that is not beautiful; the Lord is not beautified. Remember how Paul wrote to the different schools: you are puffed up, there are all types of schisms among you. That is not unity. To be unified means to come together in holiness and righteousness the way God meant it to be.
 
-**[John 17:21](/bible/john/17#v21)**  *[14:43]*
+**[John 17:21](/bible/john/17#v21)**  *[[14:43](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=883s)]*
 
 > <sup>[21](/bible/john/17#v21)</sup> That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
 
 - That they all may be one, as thou, Father, art in me, and I in thee, that they also may be one in us. This is not talking about us joining a Trinity; the Most High and his son are not the same person. Christ says me and the Father are one, and we got to be one with Christ.
 - That the world may believe that thou hast sent me. Do you realize the world is waiting on the sanctification and unification of the nation of Israel? This whole earth is going to get right once we come together and truly become one.
 
-**[Ephesians 4:3-6](/bible/ephesians/4#v3)**  *[16:12]*
+**[Ephesians 4:3-6](/bible/ephesians/4#v3)**  *[[16:12](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=972s)]*
 
 > <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
 >
@@ -61,7 +61,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - It also means dealing with the people that have been here for years: having the fortitude to look your good friend in the eye, who you do not want to make upset, and because you love them and you love this nation, say: hold on, you got the devil on you. Did you address that with him to his face? Why are you telling all of us? When somebody is comfortable spreading things and not dealing with things the scriptural way, it only spreads, and now gossip is normalized in the congregation.
 - One body, one spirit, one Lord, one faith, one baptism: everything is unified, of the selfsame spirit. We got to be the exact same way. If a brother or sister is going the wrong direction, they should hear the exact same response over and over, with the same intensity, whoever they bring it to. Do you know what that does to Satan? It makes him have to work hard to get in here. When everybody is of the same mind, it cannot happen.
 
-**[1 Corinthians 12:1-3](/bible/1-corinthians/12#v1)**  *[27:14]*
+**[1 Corinthians 12:1-3](/bible/1-corinthians/12#v1)**  *[[27:14](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=1634s)]*
 
 > <sup>[1](/bible/1-corinthians/12#v1)</sup> Now concerning spiritual gifts, brethren, I would not have you ignorant.
 >
@@ -100,7 +100,7 @@ This class continues last week's topic on the members in the body. Last week we 
 
     For where your treasure is, there will your heart be also. Wherever your treasure is, that is where your mind is going to be occupied. If your mind is filled with games and sports statistics, that is where you are building your treasures, and all of that is going to be destroyed. Occupy your mind in the laws of God: how to unify, how can I be used as a tool for the Lord's army, how can I be utilized to push this truth further. That is laying up treasures in heaven, where neither moth nor rust doth corrupt.
 
-**[1 Maccabees 1:43-49](/bible/1-maccabees/1#v43)**  *[42:15]*
+**[1 Maccabees 1:43-49](/bible/1-maccabees/1#v43)**  *[[42:15](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=2535s)]*
 
 > <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
 >
@@ -126,7 +126,7 @@ This class continues last week's topic on the members in the body. Last week we 
 
     Wherefore remember, that ye being in time past Gentiles in the flesh. Why were they called uncircumcision? Because it was their fathers back in the day, in the time of the Maccabees, that decided they were not going to circumcise their children. The circumcision in the flesh were those whose fathers stayed, who did not allow their children to become Hellenized. Paul reminds them: you were living like heathens.
 
-**[1 Corinthians 12:2](/bible/1-corinthians/12#v2)**  *[49:30]*
+**[1 Corinthians 12:2](/bible/1-corinthians/12#v2)**  *[[49:30](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=2970s)]*
 
 > <sup>[2](/bible/1-corinthians/12#v2)</sup> Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
 
@@ -144,7 +144,7 @@ This class continues last week's topic on the members in the body. Last week we 
 
     Little children, keep yourselves from idols. Stay away from it.
 
-**[1 Corinthians 12:4-6](/bible/1-corinthians/12#v4)**  *[55:45]*
+**[1 Corinthians 12:4-6](/bible/1-corinthians/12#v4)**  *[[55:45](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=3345s)]*
 
 > <sup>[4](/bible/1-corinthians/12#v4)</sup> Now there are diversities of gifts, but the same Spirit.
 >
@@ -156,7 +156,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - There are diversities of operations. Definition read in class: operations refers to the daily behind the scenes processes, systems, and activities an organization uses. Administrations are the different offices that exist; operations are the inner workings, the processes that actually make the thing happen.
 - But it is the same God which worketh all in all. Different administrations and different operations all work for the same thing. Write this down: diversity does not mean division. Though it is a different administration, though it deals with something you do not deal with, it is not separate. And write this down as well: different roles do not mean inequality. We cannot look at any function, operation, or administration as though it is not needed. There is a reason why it is there. The body is alive because these administrations and operations function; it all works hand in hand, even the uncomely things.
 
-**[Romans 12:4-5](/bible/romans/12#v4)**  *[59:19]*
+**[Romans 12:4-5](/bible/romans/12#v4)**  *[[59:19](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=3559s)]*
 
 > <sup>[4](/bible/romans/12#v4)</sup> For as we have many members in one body, and all members have not the same office:
 >
@@ -165,7 +165,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - For as we have many members in one body, and all members have not the same office. Everybody does not do the exact same thing. We are evolving; things are changing; we are growing, as Bishop says, expeditiously. With this growth comes responsibilities and the organizing of these different operations and administrations.
 - So we, being many, are one body in Christ, and every one members one of another. Many different administrations, many different operations, many different parts, one body in Christ.
 
-**[1 Corinthians 12:7-11](/bible/1-corinthians/12#v7)**  *[1:01:23]*
+**[1 Corinthians 12:7-11](/bible/1-corinthians/12#v7)**  *[[1:01:23](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=3683s)]*
 
 > <sup>[7](/bible/1-corinthians/12#v7)</sup> But the manifestation of the Spirit is given to every man to profit withal.
 >
@@ -200,7 +200,7 @@ This class continues last week's topic on the members in the body. Last week we 
 
     Whether prophecy, let us prophesy according to the proportion of faith; or ministry, let us wait on our ministry; or he that teacheth, on teaching. Everybody staying in their lane, working within the gift and skill set you have been given, not trying to force things that are not you. At camp, you cannot put the brother that is 105 pounds at the front sentry; he might be the fire teacher, or real good on flyers, but the wind will carry him off and we will not have a front sentry. When you operate outside your character, things get messy, and the person that should be in that position cannot operate the way the body needs, so we lack in different areas. Years ago a certain brother was put over the bills; one Sabbath the lights were off, and we learned that day he is not the one to put over the bills. We found where he belongs, and he is operating within his place now. Everybody does not belong everywhere.
 
-**[Exodus 31:1-11](/bible/exodus/31#v1)**  *[1:18:13]*
+**[Exodus 31:1-11](/bible/exodus/31#v1)**  *[[1:18:13](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=4693s)]*
 
 > <sup>[1](/bible/exodus/31#v1)</sup> And the Lord spake unto Moses, saying,
 >
@@ -228,7 +228,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - Do you think Bezaleel ever thought God gave me this gift? In his mind he just thought he was good at something. No: God gave you this talent for this purpose right here, so that the tabernacle, the ark, the mercy seat, the garments, everything the Lord commanded could be made.
 - And in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee. God gave it to them so they could do it. The Lord will literally send souls in so that these things get accomplished. This school went from a fold-up table with a cloth to brothers that could build a stage, because the Lord brought in builders. But we cannot sit on people's talents, and you cannot come in here and sit on your hands. Everything in its time and order, but when you have a gift, you got to utilize it.
 
-**[Ephesians 4:4-13](/bible/ephesians/4#v4)**  *[1:22:43]*
+**[Ephesians 4:4-13](/bible/ephesians/4#v4)**  *[[1:22:43](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=4963s)]*
 
 > <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
 >
@@ -255,7 +255,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ. That is the function and purpose of an apostle, prophet, evangelist, pastor, and teacher. This is why you were sent.
 - Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ. That is us coming into the fullness of the body, into what God created us to be.
 
-**[1 Corinthians 12:12-13](/bible/1-corinthians/12#v12)**  *[1:26:10]*
+**[1 Corinthians 12:12-13](/bible/1-corinthians/12#v12)**  *[[1:26:10](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=5170s)]*
 
 > <sup>[12](/bible/1-corinthians/12#v12)</sup> For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
 >
@@ -302,13 +302,13 @@ This class continues last week's topic on the members in the body. Last week we 
 
     Says the same thing. You want the baptism of the spirit, because the fire is coming to clean up everything else. Whose fan is in his hand, and he will throughly purge his floor; the chaff he will burn with fire unquenchable. That is talking about judgment.
 
-**[Galatians 3:28](/bible/galatians/3#v28)**  *[1:38:52]*
+**[Galatians 3:28](/bible/galatians/3#v28)**  *[[1:38:52](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=5932s)]*
 
 > <sup>[28](/bible/galatians/3#v28)</sup> There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
 
 - There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus. This is another one they pull, not understanding what Paul is talking about. When you bring the history, they are going to start singing and clapping and try to overtalk you so you cannot bring them back to what the Bible is actually talking about.
 
-**[Ezekiel 37:15-23](/bible/ezekiel/37#v15)**  *[1:39:35]*
+**[Ezekiel 37:15-23](/bible/ezekiel/37#v15)**  *[[1:39:35](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=5975s)]*
 
 > <sup>[15](/bible/ezekiel/37#v15)</sup> The word of the Lord came again unto me, saying,
 >
@@ -332,7 +332,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: and I will make them one nation, and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all. No more division.
 - Neither shall they defile themselves any more with their idols. That is what the northern kingdom was doing: idolatry, living like heathens, like the other nations. But I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God. This tells you it is a specific people.
 
-**[Ephesians 2:11-22](/bible/ephesians/2#v11)**  *[1:44:29]*
+**[Ephesians 2:11-22](/bible/ephesians/2#v11)**  *[[1:44:29](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=6269s)]*
 
 > <sup>[11](/bible/ephesians/2#v11)</sup> Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
 >
@@ -374,7 +374,7 @@ This class continues last week's topic on the members in the body. Last week we 
 
     The Lord shall set his hand again the second time to recover the remnant of his people, from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea. Has this happened yet? No, we are waiting on this second coming. This is why unification is so important: we got to go back to all these places, because our people are there. He shall assemble the outcasts of Israel: those that were kept afar off, living amongst the other nations. The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim. All that division, light skin against dark skin, northern kingdom looking at us and us looking at them, is going to be gone. We have all been through changes and look different today, but we are all the same people.
 
-**[1 Corinthians 12:14-18](/bible/1-corinthians/12#v14)**  *[1:55:22]*
+**[1 Corinthians 12:14-18](/bible/1-corinthians/12#v14)**  *[[1:55:22](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=6922s)]*
 
 > <sup>[14](/bible/1-corinthians/12#v14)</sup> For the body is not one member, but many.
 >
@@ -390,14 +390,14 @@ This class continues last week's topic on the members in the body. Last week we 
 - The body is not one member, but many. If the foot shall say, because I am not the hand, I am not of the body; if the ear shall say, because I am not the eye, I am not of the body: if the whole body were an eye, where were the hearing? God hath set the members every one of them in the body, as it hath pleased him.
 - Name the functions of this body: security, kitchen, medical, maintenance, AV, the brothers that clean, hospitality, outreach, fundraising, the kids corner. Everybody is important. The brothers wiping the doorknobs saved you from a heap of trouble you never thought about. Take the kitchen out of here and the Sabbath feels completely different. Let all the kids sit in class and see if we can get through it. Different offices help this whole thing function.
 
-**[Romans 12:3](/bible/romans/12#v3)**  *[2:01:14]*
+**[Romans 12:3](/bible/romans/12#v3)**  *[[2:01:14](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7274s)]*
 
 > <sup>[3](/bible/romans/12#v3)</sup> For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
 
 - Not to think of himself more highly than he ought to think, but to think soberly, according as God hath dealt to every man the measure of faith. Thinking soberly is thinking with a clear mind, understanding that God has given severally to the body and there is importance in every single person.
 - When you think like that, you have more respect for every individual that walks through that door. You are not dealing harshly with the people coming in or looking down on folks like you are better. You started in the same place; you remember what it was like coming in, when you did not even have a Bible, or came in with the wrong Bible. It could be Daniel walking through the door day one, Isaiah, Peter, James, any of the apostles waking up in their time. You are going to treat them like crap? We are all in this together, and there is not nary a person in here better than the next.
 
-**[Ecclesiastes 4:9-10](/bible/ecclesiastes/4#v9)**  *[2:03:29]*
+**[Ecclesiastes 4:9-10](/bible/ecclesiastes/4#v9)**  *[[2:03:29](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7409s)]*
 
 > <sup>[9](/bible/ecclesiastes/4#v9)</sup> Two are better than one; because they have a good reward for their labour.
 >
@@ -406,13 +406,13 @@ This class continues last week's topic on the members in the body. Last week we 
 - Two are better than one; because they have a good reward for their labour. When we work together, there is reward. The more of us there are, the more we can do. They are looking at us crazy right now because somehow we inhabited a ship with hundreds of people and took the gospel to about eight different countries without asking anybody's permission. Because we work together, collectively we are strong.
 - Woe to him that is alone when he falleth; for he hath not another to help him up. The Deacon knew what it was like to be alone here in 2006, before anybody: he had to leave and go where two are better than one and get built up. There is strength in numbers: we hold each other accountable, support each other, and look after each other, if we truly love the Lord. But if we come into this thing like Hellenized Jews, the numbers will not profit us.
 
-**[Philippians 2:3](/bible/philippians/2#v3)**  *[2:05:31]*
+**[Philippians 2:3](/bible/philippians/2#v3)**  *[[2:05:31](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7531s)]*
 
 > <sup>[3](/bible/philippians/2#v3)</sup> Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 
 - Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. This is the humility we got to bring ourselves to with each other. We got to prefer one another and not do anything in strife or vainglory, like you are doing it to glorify yourself. The reward is never of the Lord when you do it like that. When you look at it from a collective stance, it is so much better.
 
-**[1 Corinthians 12:21-25](/bible/1-corinthians/12#v21)**  *[2:06:15]*
+**[1 Corinthians 12:21-25](/bible/1-corinthians/12#v21)**  *[[2:06:15](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7575s)]*
 
 > <sup>[21](/bible/1-corinthians/12#v21)</sup> And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.
 >
@@ -429,13 +429,13 @@ This class continues last week's topic on the members in the body. Last week we 
 - Our uncomely parts have more abundant comeliness. The class named uncomely parts of the physical body, and the point stood: let the most uncomely part of your body close down and you will die within days. The uncomely parts make the world go round just like everything else. The counsel you give in secret is not for vainglory; you are truly trying to help somebody, and even though it is in secret, it matters, all the time.
 - But God hath tempered the body together, having given more abundant honour to that part which lacked: that there should be no schism in the body.
 
-**[John 16:33](/bible/john/16#v33)**  *[2:12:18]*
+**[John 16:33](/bible/john/16#v33)**  *[[2:12:18](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=7938s)]*
 
 > <sup>[33](/bible/john/16#v33)</sup> These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
 
 - Are schisms going to happen? Oh yes; it is promised to happen. These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world. There is a whole lot of pain and sorrow contained in this verse, but Christ said I overcame the world.
 
-**[2 Esdras 7:57-59](/bible/2-esdras/7#v57)**  *[2:13:22]*
+**[2 Esdras 7:57-59](/bible/2-esdras/7#v57)**  *[[2:13:22](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8002s)]*
 
 > <sup>[57](/bible/2-esdras/7#v57)</sup> Then answered he me, and said, This is the condition of the battle, which man that is born upon the earth shall fight;
 >
@@ -447,7 +447,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - If he be overcome, he shall suffer as thou hast said: but if he get the victory, he shall receive the thing that I say. Getting the victory means you endure until the end. You keep fighting, you never give up, you continue to endeavor to keep the unity.
 - This is the life whereof Moses spake unto the people while he lived, saying, Choose thee life, that thou mayest live. We all have to deal with this battle and we all got to choose. Look around this room: you are not going to see everybody in here ten years from now. There will be a grand story in their mind as to why they left, but the truth of the matter is they did not want to fight; they allowed Satan to overcome them. All you can do is make sure you do what you got to do and endure until the end.
 
-**[2 Timothy 3:12](/bible/2-timothy/3#v12)**  *[2:16:59]*
+**[2 Timothy 3:12](/bible/2-timothy/3#v12)**  *[[2:16:59](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8219s)]*
 
 > <sup>[12](/bible/2-timothy/3#v12)</sup> Yea, and all that will live godly in Christ Jesus shall suffer persecution.
 
@@ -459,7 +459,7 @@ This class continues last week's topic on the members in the body. Last week we 
 
     My son, if thou come to serve the Lord, prepare thy soul for temptation.
 
-**[1 Corinthians 11:18-19](/bible/1-corinthians/11#v18)**  *[2:18:16]*
+**[1 Corinthians 11:18-19](/bible/1-corinthians/11#v18)**  *[[2:18:16](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8296s)]*
 
 > <sup>[18](/bible/1-corinthians/11#v18)</sup> For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.
 >
@@ -468,14 +468,14 @@ This class continues last week's topic on the members in the body. Last week we 
 - When ye come together in the church, I hear that there be divisions among you; and I partly believe it. For there must be also heresies among you, that they which are approved may be made manifest among you. A lot of folks do not understand how heavy that is: it has to happen. Everybody still sitting here made it through whatever trial; somebody else got weak and decided they were not going to do this anymore.
 - Bishop said it in San Diego: pressure either bursts pipes or makes diamonds. Which one are you? If I want to find the weak points in a body, I apply pressure; pressure exposes weak points. You may have to repair the patch, but now you see where the repairs need to be made. We hear what the offenses were, why somebody flipped out, and we see the weak point. Then there are those that go through heavy things, and they are still here; they did not flip, did not give up, did not say curse God and die. Pressure manifests who is built for what. Do not ever run from pressure or confrontation, because that is what reveals what is there.
 
-**[Luke 17:1](/bible/luke/17#v1)**  *[2:21:04]*
+**[Luke 17:1](/bible/luke/17#v1)**  *[[2:21:04](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8464s)]*
 
 > <sup>[1](/bible/luke/17#v1)</sup> Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!
 
 - It is impossible but that offences will come. You are not going to stop it. In this truth somebody is going to disappoint you, misunderstand you, correct you, overlook you, frustrate you. You are going to take something one way and they meant it another way, and now it is a big misunderstanding. The question is what you are going to do.
 - How many misunderstandings did you have with your siblings? Did you run away from home? You stayed and dealt with your problems, and you did not stop loving them; they were your family. Same thing here. It is going to be hard times, difficult times, awkward times; well, we are spending all that time together. We are in the trenches, we are not going anywhere. I will be here to correct you, and you had better correct me if I am wrong, and we will figure everything else out.
 
-**[Mark 3:24](/bible/mark/3#v24)**  *[2:23:18]*
+**[Mark 3:24](/bible/mark/3#v24)**  *[[2:23:18](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=8598s)]*
 
 > <sup>[24](/bible/mark/3#v24)</sup> And if a kingdom be divided against itself, that kingdom cannot stand.
 
@@ -484,7 +484,7 @@ This class continues last week's topic on the members in the body. Last week we 
 - A PowerPoint was shown on the clear signs that a body is fractured or fracturing: constant murmuring; cliques forming, where brothers do not want other brothers around; isolation, people distancing themselves; secret conversations and hidden discussions; prideful individualism, people that cannot be corrected; emotional decision making instead of doing it scripturally; lying or dealing falsely; and refusal to forgive. Holding a grudge destroys the body; we have to forgive like Christ told us to forgive.
 - Then the signs of a healthy body, fitly joined together: healthy communication; patience, members forbearing one another; forgiveness, moving past things without holding them over each other's heads; structured leadership; congregational support, showing up when a brother needs help; humility, where a teacher that does not know an answer says I do not know instead of freestyling a made-up answer that creates a breakdown; shared mission, because a body that understands the goal is the strongest body; and endurance through pressure, which reveals faith, strengthens unity, and develops spiritual maturity. Those that have been through some things and are still standing, we see you: not easily moved, a rock, standing on Christ.
 
-**[Hebrews 2:1](/bible/hebrews/2#v1)**  *[2:32:27]*
+**[Hebrews 2:1](/bible/hebrews/2#v1)**  *[[2:32:27](https://www.youtube.com/watch?v=bvqCl9KmDt4&t=9147s)]*
 
 > <sup>[1](/bible/hebrews/2#v1)</sup> Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.
 
@@ -504,4 +504,4 @@ Bishop taught next after this class.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-06-members-of-the-body-pt2)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=bvqCl9KmDt4)

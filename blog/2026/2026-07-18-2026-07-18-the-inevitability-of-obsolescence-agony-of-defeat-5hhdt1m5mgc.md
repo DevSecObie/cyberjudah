@@ -556,4 +556,4 @@ After the closing, the stream catches a fragment of the next segment's audio bef
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-18-the-inevitability-of-obsolescence-agony-of-defeat-5hhdt1m5mgc)
+[Class Notes Index](/classes)

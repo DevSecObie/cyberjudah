@@ -20,7 +20,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
 ## Scriptures Opened
 
-**[Exodus 13:3-11](/bible/exodus/13#v3)**  *[23:48]*
+**[Exodus 13:3-11](/bible/exodus/13#v3)**  *[[23:48](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=1428s)]*
 
 > <sup>[3](/bible/exodus/13#v3)</sup> And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the Lord brought you out from this place: there shall no leavened bread be eaten.
 >
@@ -62,14 +62,14 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
     How long shall I bear with this evil congregation? When we came out of Egypt, our people were evil. You thought they were righteous? They were rebellious: liars, fornicators, murmurers. Your carcases shall fall in this wilderness, from twenty years old and upward. Once you were 20 years old and up, the Lord said, all of you are going to die. Even Aaron died, and Moses did not enter; not that Moses was evil, but the people provoked him to anger. Joshua and Caleb were the only two adults the Lord allowed to make it into the promised land. Everybody 20 and up, their blood was on their own head, because according to the law, at 20 you are the age of a man and you take responsibility for yourself. The little ones which ye said should be a prey, them will I bring in. The children wandered 40 years and bore the whoredoms of the adults, until every last rebellious one died. That is what the Lord did to us in the wilderness: he purged that leaven out of our people.
 
-**[Exodus 12:15](/bible/exodus/12#v15)**  *[40:20]*
+**[Exodus 12:15](/bible/exodus/12#v15)**  *[[40:20](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=2420s)]*
 
 > <sup>[15](/bible/exodus/12#v15)</sup> Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
 
 - Seven days we are supposed to eat unleavened bread, and whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel. When you read things, read and pay attention: that soul. This is not talking about just regular death; it is talking about your soul being cut off. That is going into your name being blotted out of the book of life. That is damnation, condemnation.
 - So the leaven there is not necessarily just talking about eating bread without yeast in it. It is something much more symbolic.
 
-**[Amos 4:5](/bible/amos/4#v5)**  *[42:15]*
+**[Amos 4:5](/bible/amos/4#v5)**  *[[42:15](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=2535s)]*
 
 > <sup>[5](/bible/amos/4#v5)</sup> And offer a sacrifice of thanksgiving with leaven, and proclaim and publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord God.
 
@@ -81,7 +81,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
     Take heed and beware of the leaven of the Pharisees. The leaven of the Pharisees was hypocrisy; the leaven of the Pharisees is sin. When you keep reading it says, for they say and do not. So the leaven in the scriptures is really going into sin. The days of unleavened bread that we are celebrating right now represent us being without sin.
 
-**[2 Esdras 7:31-32](/bible/2-esdras/7#v31)**  *[45:12]*
+**[2 Esdras 7:31-32](/bible/2-esdras/7#v31)**  *[[45:12](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=2712s)]*
 
 > <sup>[31](/bible/2-esdras/7#v31)</sup> And after seven days the world, that yet awaketh not, shall be raised up, and that shall die that is corrupt
 >
@@ -91,7 +91,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - And that shall die that is corrupt. That is what we read in Exodus: within them seven days, if any man eat leaven, that soul will be cut off. If you are taking part in leaven, that means you are corrupt. But the earth shall restore those that are asleep in her: the righteous coming back, after seven days.
 - The days of unleavened bread are us fixing ourselves right now, trying to become a better person. The sins you are battling, you try to get rid of them. Because in the seventh day, when the Lord returns, if we did not get rid of the leaven, your soul will be cut off.
 
-**[1 Corinthians 10:1-6](/bible/1-corinthians/10#v1)**  *[49:01]*
+**[1 Corinthians 10:1-6](/bible/1-corinthians/10#v1)**  *[[49:01](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=2941s)]*
 
 > <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 >
@@ -110,7 +110,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - But with many of them God was not well pleased, for they were overthrown in the wilderness. God killed everyone 20 years old and up, and just the children he allowed to enter into the promised land.
 - Now these things were our examples, to the intent we should not lust after evil things, as they also lusted. When you read about the things that happened to our forefathers in the wilderness, it is an example for us not to be like them. They were murmuring, they were fornicating, they were trying to overthrow Moses. You got to read and say, I cannot do that; I got to train myself not to be like that.
 
-**[Ezekiel 20:35-38](/bible/ezekiel/20#v35)**  *[51:36]*
+**[Ezekiel 20:35-38](/bible/ezekiel/20#v35)**  *[[51:36](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=3096s)]*
 
 > <sup>[35](/bible/ezekiel/20#v35)</sup> And I will bring you into the wilderness of the people, and there will I plead with you face to face.
 >
@@ -134,7 +134,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
     The bond of the covenant is the new covenant. I will put my laws into their mind, and write them in their hearts. We are going to know God's laws and we will keep them. You are not going to forget the feast day and eat the donut out of routine; his laws will be in our minds, and we will do them and serve him. We are in the beginning of the new covenant now, but once Christ returns it will be fully established in the wilderness. And they shall not teach every man his neighbour, saying, Know the Lord: for all shall know me, from the least to the greatest, because the Lord is going to teach us.
 
-**[Isaiah 35:1-10](/bible/isaiah/35#v1)**  *[1:01:15]*
+**[Isaiah 35:1-10](/bible/isaiah/35#v1)**  *[[1:01:15](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=3675s)]*
 
 > <sup>[1](/bible/isaiah/35#v1)</sup> The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.
 >
@@ -170,7 +170,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
     Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing. And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, heard I saying. There are creatures in heaven, creatures on the earth, creatures created deep inside the earth nobody has ever seen, and creatures in the sea like leviathan that no man has seen. And they all heard, and they understood. The creatures understand us; remember the donkey talked to Balaam and asked him, why are you beating me?
 
-**[1 Corinthians 5:1-8](/bible/1-corinthians/5#v1)**  *[1:13:24]*
+**[1 Corinthians 5:1-8](/bible/1-corinthians/5#v1)**  *[[1:13:24](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=4404s)]*
 
 > <sup>[1](/bible/1-corinthians/5#v1)</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
 >
@@ -197,7 +197,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - For even Christ our passover is sacrificed for us. Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness. Malice goes into hatred. We are keeping the feast of unleavened bread right now, and we cannot keep it with these things in us.
 - But with the unleavened bread of sincerity and truth. Ask yourself: am I sincere in this truth? The Lord looks for people that are sincere and really trying to change. Even if you make a mistake, when you are sincere you run to him. But there are some brothers and sisters that are not here in sincerity and truth: they do not love their brothers, they do not love their sisters, they complain, they gossip, they murmur. Those are all the people that were in the wilderness that got killed. We must be sincere: we believe Christ is coming back with vengeance, we believe we are the people of this book, even though we are a small remnant and the whole world is pushing the lie. The odds being against us makes it much more marvelous when the Lord does his thing.
 
-**[Genesis 4:1-7](/bible/genesis/4#v1)**  *[1:31:27]*
+**[Genesis 4:1-7](/bible/genesis/4#v1)**  *[[1:31:27](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=5487s)]*
 
 > <sup>[1](/bible/genesis/4#v1)</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 >
@@ -220,7 +220,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - And if thou doest not well, sin lieth at the door, and unto thee shall be his desire, and thou shalt rule over him. Ask yourself: what was Satan doing there? Moses is seeing what took place, and the Lord is showing him Satan present. When Cain got angry and his countenance fell, that is when Satan attacked him. Satan was there messing with Cain, and the Lord saw it. The Lord told Cain: fight Satan and do what is right, otherwise he will rule you and control you. He became the servant of Satan, for whosoever committeth sin is the servant of sin.
 - Satan was whispering all kinds of things in Cain's head concerning his brother, and what Cain ended up doing was rising up and killing his brother. Satan was behind all of that. Satan will play with your mind.
 
-**[Matthew 16:21-23](/bible/matthew/16#v21)**  *[1:39:36]*
+**[Matthew 16:21-23](/bible/matthew/16#v21)**  *[[1:39:36](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=5976s)]*
 
 > <sup>[21](/bible/matthew/16#v21)</sup> From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
 >
@@ -239,7 +239,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
     When the devil had ended all the temptation, he departed from him for a season. You think Satan stopped tempting Christ? He never stopped; he just left for a season and came back in different ways. When Christ was about to be crucified, Satan came back, and he came back by jumping on Peter.
 
-**[Acts 5:3](/bible/acts/5#v3)**  *[1:51:01]*
+**[Acts 5:3](/bible/acts/5#v3)**  *[[1:51:01](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=6661s)]*
 
 > <sup>[3](/bible/acts/5#v3)</sup> But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
 
@@ -247,7 +247,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - Ananias and Sapphira sold their possession, and Satan came to them and said, act like you are giving them all the money, but keep back part for yourself, and do not let them know anything. If they wanted to keep back part for themselves, they could have just told Peter openly: we kept back a little part, and this part we are giving to the church. But Satan told them to hide it. The reason that thought came to their mind was Satan.
 - The same way on your job: a thought comes into your mind out of nowhere and you wonder, why did that thought come to me? Satan will play with those things. The war we are fighting you cannot see; it is in your mind. Satan will play with your emotions, play with people you care about, and put thoughts in your mind that were not there, to get you to go against God. That is how the root of bitterness destroys brothers. You have to learn to control your thoughts.
 
-**[James 1:13-15](/bible/james/1#v13)**  *[1:56:28]*
+**[James 1:13-15](/bible/james/1#v13)**  *[[1:56:28](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=6988s)]*
 
 > <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
 >
@@ -267,7 +267,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 
     Whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart. That is exactly how lust is conceived: it starts with the look, and then the thought, in your heart, before anything physical ever happens.
 
-**[Mark 7:21-23](/bible/mark/7#v21)**  *[2:14:57]*
+**[Mark 7:21-23](/bible/mark/7#v21)**  *[[2:14:57](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=8097s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
 >
@@ -278,7 +278,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness. An evil eye is jealousy.
 - All these evil things come from within, and defile the man. The thoughts you be having, the things you be hearing in your mind, a lot of times those things are Satan putting things there that are not there, that are not real, because Satan wants to defile you and put the root of bitterness inside of you. It comes from within, it forms a root, and it defiles you.
 
-**[Proverbs 15:10](/bible/proverbs/15#v10)**  *[2:17:04]*
+**[Proverbs 15:10](/bible/proverbs/15#v10)**  *[[2:17:04](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=8224s)]*
 
 > <sup>[10](/bible/proverbs/15#v10)</sup> Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.
 
@@ -288,7 +288,7 @@ We are about to bring in the Sabbath, and we are also bringing in the second day
 - He that hateth reproof shall die. If you hate when you are corrected, and you do not want anybody to tell you anything, you are going to die. Some of you might get corrected harshly, and you get offended and say, I am not coming to the school anymore. Come on, man: what shall separate you from the love of God? You are going to let a brother speaking to you in a way you did not like separate you from Christ?
 - A lot of sisters, after they have been corrected by their husband, become bitter against their husband. I have seen sisters become bitter and leave the truth because their husband corrected them. Sisters do not want to take accountability; if they do something wrong, they do not want to say I am sorry, and everything has to be a fight. That is Satan doing a job on our sisters. Correction from your husband is part of him ruling over you, and to rule does not mean slavery or abuse: it means to provide for her, to guide her, to teach her, to correct her, all the things a man is supposed to do for a woman he loves. Adam's flaw was that he did not correct his wife; Eve was deceived, and Adam went along with it willingly.
 
-**[Genesis 30:1-2](/bible/genesis/30#v1)**  *[2:28:21]*
+**[Genesis 30:1-2](/bible/genesis/30#v1)**  *[[2:28:21](https://www.youtube.com/watch?v=3Qdksp7DVZI&t=8901s)]*
 
 > <sup>[1](/bible/genesis/30#v1)</sup> And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 >
@@ -311,4 +311,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-17-leaven-the-root-of-bitterness)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=3Qdksp7DVZI)

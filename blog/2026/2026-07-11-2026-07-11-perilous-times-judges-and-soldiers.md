@@ -544,4 +544,4 @@ We can't stray from the mission. We can't stray from the protocol. We got to be 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-11-perilous-times-judges-and-soldiers)
+[Class Notes Index](/classes)

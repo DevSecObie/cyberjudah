@@ -789,4 +789,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-26-living-your-life-as-a-hireling)
+[Class Notes Index](/classes)

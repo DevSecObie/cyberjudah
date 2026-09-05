@@ -39,20 +39,20 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[6:04]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[6:04](https://www.youtube.com/watch?v=z_QujypG9RI&t=364s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
 - Everything written aforetime by our forefathers was instruction given to us. Through patience: this is not a swift race; you have to pace yourself, and if you fall you get back into the fight. And comfort of the scriptures: we find our comfort in the scriptures, and that is why we make it our business twenty four seven. We are not giving the wicked among our people any rest; constantly you hear the word of the Most High and the good news being professed. That we might have hope: we need that hope now especially, because the wicked among our people and the wicked of the nations are gearing up for battle. Are you ready for battle, or are you comfortable in your captivity, complacent with the nine to five, the bonus, the big house, at ease in Babylon? That time is over; the Lord is stirring it up.
 - The president is handpicked; Satan has chosen his champion. But the wicked among our people have yet to choose. We have to let it be known who our God is, who our king is, and what our constitution is: the Bible is our constitution.
 
-**[Ecclesiasticus 33:14](/bible/sirach/33#v14)**  *[8:51]*
+**[Ecclesiasticus 33:14](/bible/sirach/33#v14)**  *[[8:51](https://www.youtube.com/watch?v=z_QujypG9RI&t=531s)]*
 
 > <sup>[14](/bible/sirach/33#v14)</sup> Good is set against evil, and life against death: so is the godly against the sinner, and the sinner against the godly.
 
 - Good is set against evil, and life against death. This world is full of death; the only thing that has life is the scriptures. So is the godly against the sinner, and the sinner against the godly. This is the battle we are in today. The sinners are powering up, invading one another and creating laws against each other, mustering for the battle to come against us, and a lot of our people are still in la la land. Which side do you choose: a servant of the Lord, which leads to life, or a servant of Satan?
 
-**[Deuteronomy 11:26-30](/bible/deuteronomy/11#v26)**  *[10:27]*
+**[Deuteronomy 11:26-30](/bible/deuteronomy/11#v26)**  *[[10:27](https://www.youtube.com/watch?v=z_QujypG9RI&t=627s)]*
 
 > <sup>[26](/bible/deuteronomy/11#v26)</sup> Behold, I set before you this day a blessing and a curse;
 >
@@ -66,7 +66,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
 - I set before you this day a blessing and a curse: the contract of the battle. A blessing if ye obey the commandments; if you want to enlist with the Lord, you have to obey the commandments. A curse if ye will not obey, but turn aside out of the way to go after other gods. It is set before you: wake up out of your slumber and be introduced to the path of life, or stay asleep and die with the rest of them. You can live it up and party, or choose to suffer with your people, which leads straight to life, and be used by the Most High to go into those dark ghettos and wake up the young brother and young sister depending on you. It is up to you.
 
-**[Ezekiel 2:3-7](/bible/ezekiel/2#v3)**  *[11:50]*
+**[Ezekiel 2:3-7](/bible/ezekiel/2#v3)**  *[[11:50](https://www.youtube.com/watch?v=z_QujypG9RI&t=710s)]*
 
 > <sup>[3](/bible/ezekiel/2#v3)</sup> And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.
 >
@@ -82,7 +82,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Whether they will hear or whether they will forbear: we do not care; the Lord is preparing us. Some of our people are so hard headed they will hear this good news and reject it, they love this wicked world so much. Yet shall they know that there hath been a prophet among them: they will know when the trouble comes, because the scriptures are the only guideline that gives hope, and people without a guideline are led into darkness and chaos.
 - Be not afraid of them, neither be afraid of their words. Our people are full of words; they will curse you out and slander you quickly. Even when we come with words of righteousness, brother, you are the chosen people, repent, put down the guns, edify your people, raise your children, marry your wives, they hate us for that. They hate this mighty word that has life in it, the doctrine of life.
 
-**[Proverbs 4:2-7](/bible/proverbs/4#v2)**  *[14:39]*
+**[Proverbs 4:2-7](/bible/proverbs/4#v2)**  *[[14:39](https://www.youtube.com/watch?v=z_QujypG9RI&t=879s)]*
 
 > <sup>[2](/bible/proverbs/4#v2)</sup> For I give you good doctrine, forsake ye not my law.
 >
@@ -101,20 +101,20 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Forget it not, because the Lord is constantly looking for those who will retain the knowledge and be dispatched to wake up the lost who do not have that understanding. Wisdom is the principal thing; therefore get wisdom, and with all thy getting get understanding. They go hand in hand: thou shalt not steal is the wisdom; the understanding is, I used to walk in that lifestyle and I am not doing it anymore, and now I can be used to teach the next brother who is battling that. Not just hearing the word and letting it go in one ear and out the other, not letting wisdom sit in you: you learn it and you apply it. So you cannot be a professional student. Come in, get involved, join the curriculum set in place to make us better men, better fathers, better leaders.
 - Neither decline from the words of my mouth: the mouth of God is this Bible. But who is he using to edify the people and the nation?
 
-**[Baruch 1:21](/bible/baruch/1#v21)**  *[18:56]*
+**[Baruch 1:21](/bible/baruch/1#v21)**  *[[18:56](https://www.youtube.com/watch?v=z_QujypG9RI&t=1136s)]*
 
 > <sup>[21](/bible/baruch/1#v21)</sup> Nevertheless we have not hearkened unto the voice of the Lord our God, according unto all the words of the prophets, whom he sent unto us:
 
 - We have not hearkened unto the voice of the Lord our God, according unto all the words of the prophets. That is who is teaching; that is who the Lord uses to project and teach his word, as it is written and exactly as he instructed us to bring it out. So we do not want anyone to be a professional student: once you come into this truth and put on that purple shirt, you go ahead and prophesy and teach the people. Learning the laws is part of getting rid of twenty, thirty, forty years of nonsense; but once you learn it, you have to do something.
 
-**[Ecclesiasticus 19:20](/bible/sirach/19#v20)**  *[20:22]*
+**[Ecclesiasticus 19:20](/bible/sirach/19#v20)**  *[[20:22](https://www.youtube.com/watch?v=z_QujypG9RI&t=1222s)]*
 
 > <sup>[20](/bible/sirach/19#v20)</sup> The fear of the Lord is all wisdom; and in all wisdom is the performance of the law, and the knowledge of his omnipotency.
 
 - The fear of the Lord is all wisdom, and in all wisdom is the performance of the law. Get the gunk of Christianity out of your brain: they say, yes, God said do not do this, but we can do whatever we want. Fearing God is all wisdom; if a king decrees something and you go against it, that is your behind. The decree of the Most High is this Bible; when he says thou shalt not, we have to know there is a punishment. When you learn thou shalt not, love thy brother, go into all the world and teach, how to deal with each other, the Most High says perform it. Because when the sky cracks and the black Messiah and the legions of angels come down, practice time is over. Even if you have only been here six months, you had better have been performing the law; there is no more forgive me at that point. It is death, and he moves you out of the way for those who were serious.
 - And the knowledge of his omnipotency: he knows the end from the beginning. I say this to the Christians: if the kingdom is for everybody, why did the Most High build the kingdom of heaven with twelve gates named for the twelve tribes of Israel? Before he made Adam, before a tree or a goat, he knew his people would be in the place he created before anything was here. So how does everybody fit in there? You are saying God does not know what he is talking about.
 
-**[2 Timothy 2:15-16](/bible/2-timothy/2#v15)**  *[23:30]*
+**[2 Timothy 2:15-16](/bible/2-timothy/2#v15)**  *[[23:30](https://www.youtube.com/watch?v=z_QujypG9RI&t=1410s)]*
 
 > <sup>[15](/bible/2-timothy/2#v15)</sup> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
 >
@@ -124,14 +124,14 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Definition read in class: dismay describes feeling shocked, disappointed, disheartened, or distressed, typically due to unexpected bad news or negative situations. This is what happens most of the time, brothers: they decline; they get discouraged or dismayed. In camp 101 they think, I can slaughter John 3:16, I can smash this Christian; but once it is go time and you hit the streets, we put a brother up on the corner for fifteen minutes, the crowd rises up against him and he does not know what to do; he is looking to the side, somebody save me. Or someone takes him to Nicodemus and all the scriptures go out of his brain, and now he wants to lay hands on the person, because he has not studied to show himself approved. He has the wisdom part but has not mastered it, and we know that takes time; that is why we put the pressure on you in camp 101. We have these systems in place for a reason.
 - Back to Ezekiel 2:5-7: whether they will hear or forbear. We know it hurts when they do not listen: mom, you should not be eating that pork, the Lord said do not do it; boy, leave me alone. Yet shall they know a prophet has been among them; the Lord is giving you comfort right there: they are going to find out, just do not stop preaching the word and giving the correction. Be not afraid of them nor of their words: you are going to get cursed out, slandered, told on at your job, here is his Facebook, this is him. The Lord said do not be afraid of that. Though thou dost dwell among scorpions: scorpions are poisonous, and he compares them to the wicked who can possibly kill you. When we go to camp, into the highways and byways, we are risking our lives. Thou shalt speak my words: but how are you going to speak his words if you have not mastered them? If you do not have the genuine spirit to use the words of the Lord to wake up that drug dealer and get that harlot cleaned up and modestly dressed, if your intention is only to cut up a Christian, roll over men, and be in high places, you will be confounded and dismayed by them. You are going to be shocked when the crowd comes up: who are you talking to, we are trying to twerk. Disappointed because the bulk of them do not believe you. Distressed: am I really supposed to be doing this, am I bothering these folks? Your family will say, dad, I am catching heat at school, do you have to wear those fringes every day? Your job will call a meeting about this purple and gold thing. You are going to be distressed. But be not dismayed at their looks.
 
-**[Nehemiah 8:8](/bible/nehemiah/8#v8)**  *[30:23]*
+**[Nehemiah 8:8](/bible/nehemiah/8#v8)**  *[[30:23](https://www.youtube.com/watch?v=z_QujypG9RI&t=1823s)]*
 
 > <sup>[8](/bible/nehemiah/8#v8)</sup> So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.
 
 - They read in the book of the law of God distinctly, and gave the sense, and caused them to understand the reading. You hear the law, thou shalt not steal; now this is what it means, and this is when you apply it. See the importance of studying to show yourself approved, mastering and applying the scriptures.
 - Video played, a social experiment: a man walks around with an envelope of fake money asking people, did you drop this? An older church mother takes it, claims it as hers, hands him two dollars as a reward, says there were no fives in there, and refuses to give her name. Notice the face of the little boy with her: she just taught him it is okay to lie, and you can see in his countenance that he knows it is wrong. Then watch who cosigns her: the wicked move in bulk. The woman next to her says, you gave it to her, she gave you a reward, leave her alone, when she saw everything and knows the envelope is not hers. Then the man in front says it is his, and she says he was trying to steal it while she was going to bring it to the counter. You see how the lie multiplied? Caught in one sin, now you have to lie to cover it. Once that money is tucked away it is going to the house; she was already loading up the cart. And she was in that line to get aid for the children's Easter egg program. These are Christians, church mothers. This is why you have to master these scriptures, because you will be tried.
 
-**[Ecclesiasticus 5:5-6](/bible/sirach/5#v5)**  *[36:34]*
+**[Ecclesiasticus 5:5-6](/bible/sirach/5#v5)**  *[[36:34](https://www.youtube.com/watch?v=z_QujypG9RI&t=2194s)]*
 
 > <sup>[5](/bible/sirach/5#v5)</sup> Concerning propitiation, be not without fear to add sin unto sin:
 >
@@ -139,25 +139,25 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
 - Concerning propitiation, be not without fear to add sin unto sin. You saw how it escalated: from claiming the money as hers, to her sister lying for her, to her lying again about bringing it to the counter. Sin unto sin. And say not, his mercy is great, he will be pacified for the multitude of my sins: that is what a Christian would say. But without repenting, how would you receive mercy? You have to confess, then repent. For mercy and wrath come from him: Christians say he is merciful but forget the wrath. He is a God of love, but he is also a God of judgment; the Lord loves judgment. You want to be found among the judges, not among the judged.
 
-**[1 Thessalonians 4:12](/bible/1-thessalonians/4#v12)**  *[38:35]*
+**[1 Thessalonians 4:12](/bible/1-thessalonians/4#v12)**  *[[38:35](https://www.youtube.com/watch?v=z_QujypG9RI&t=2315s)]*
 
 > <sup>[12](/bible/1-thessalonians/4#v12)</sup> That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
 
 - That ye may walk honestly. You claim to be a follower of Christ, and now you are caught, and it is going everywhere through your whole community; the church mother in that video is going to have to face her church. Those are the same ones who afterward will curse us out on the corner: why are you picking on me, go bother the white neighborhood, do not judge me. Listen, if we do not stop you now, you could go to jail; that was stealing, and that could have been someone's bill money. Your integrity is out the window. Now imagine brothers and sisters in Israel doing the same thing, and the videos catch you: no, I did not take that phone, that was not me. Do not be caught like that. Stay on your A game; your words and your actions must match.
 
-**[1 Samuel 2:3](/bible/1-samuel/2#v3)**  *[40:39]*
+**[1 Samuel 2:3](/bible/1-samuel/2#v3)**  *[[40:39](https://www.youtube.com/watch?v=z_QujypG9RI&t=2439s)]*
 
 > <sup>[3](/bible/1-samuel/2#v3)</sup> Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.
 
 - Talk no more so exceeding proudly, I am covered by the blood, I am a Christian; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed. Your actions are examined by the Lord. If you are not filling yourself with the commandments of God and studying to show yourself approved, then your actions follow who you really worship, and debauchery and all manner of wickedness follow that. If you truly follow the God of this Bible, your actions will follow. Your actions are weighed every day; when you wake up you have a choice, continue on the path of righteousness or fall back, and judgment is waiting. Brothers who go into the highways and byways teaching our people to repent: do not stop; our people are depending on you. Satan is always on his A game; we have to stay on ours.
 
-**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[45:52]*
+**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[[45:52](https://www.youtube.com/watch?v=z_QujypG9RI&t=2752s)]*
 
 > <sup>[7](/bible/jeremiah/50#v7)</sup> All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
 
 - After the UN vote video: all that found them have devoured them, and their adversaries said, we offend not. That is why they voted against it; to them what they did through slavery, destroying us and taking our culture, was nothing wrong. Because they have sinned against the Lord: it is your fault; that is how they always turn it. The habitation of justice, even the Lord, the hope of their fathers.
 
-**[Daniel 9:11-12](/bible/daniel/9#v11)**  *[52:00]*
+**[Daniel 9:11-12](/bible/daniel/9#v11)**  *[[52:00](https://www.youtube.com/watch?v=z_QujypG9RI&t=3120s)]*
 
 > <sup>[11](/bible/daniel/9#v11)</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 >
@@ -165,7 +165,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
 - All Israel have transgressed thy law; therefore the curse is poured upon us, the curses of Deuteronomy 28:15-68, and the oath written in the law of Moses, because we have sinned against him. We violated the contract our forefathers accepted; we all said yes to the commandments. He hath confirmed his words which he spake against us by bringing upon us a great evil, for under the whole heaven hath not been done as hath been done upon Jerusalem. That great evil was done to Israel; there is a mark on the chosen people. Everybody suffered some form of slavery, but not the type we did: our names erased, our women violated, that sex trafficking the video described, still going on to this day. And then you want to be coerced with fast food and the bonus at your nine to five. The whole nations are talking about it because the Lord is not going to let them forget, and we cannot let them forget.
 
-**[Ecclesiasticus 12:10-12](/bible/sirach/12#v10)**  *[59:07]*
+**[Ecclesiasticus 12:10-12](/bible/sirach/12#v10)**  *[[59:07](https://www.youtube.com/watch?v=z_QujypG9RI&t=3547s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 >
@@ -176,13 +176,13 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Never trust thine enemy. They have systems in place to keep you oppressed, generation after generation: black codes, Jim Crow, convict leasing, laws purposely set to put you in prison and then lease your labor to companies. We show you over and over, but you do not want to believe it. For like as iron rusteth, so is his wickedness; though he humble himself and go crouching: his humbling is deceiving you. Here is a stimulus check, here is housing, food stamps, a high paying job, a scholarship, then make you the boss; sure, we are all the same. Yet take good heed and beware of him; take good heed means be careful. Thou shalt know that his rust hath not been altogether wiped away. Set him not by thee: do not put him beside you, and do not envy his wealth or his power, because the power reserved for us is unimaginable.
 - They say, you cannot talk to an Israelite, all they do is go to the scriptures. You are right, because what I say on my own might be stupid, but when the Lord says it, what are you going to do? They know they cannot fight against God. We tell you they hate you, and the scripture shows it, and then the Lord activates it and makes it come to life.
 
-**[1 Maccabees 2:10](/bible/1-maccabees/2#v10)**  *[1:01:27]*
+**[1 Maccabees 2:10](/bible/1-maccabees/2#v10)**  *[[1:01:27](https://www.youtube.com/watch?v=z_QujypG9RI&t=3687s)]*
 
 > <sup>[10](/bible/1-maccabees/2#v10)</sup> What nation hath not had a part in her kingdom and gotten of her spoils?
 
 - What nation hath not had a part in her kingdom, and gotten of her spoils? Almost every kingdom had a hand in our demise and enslavement. That is why they cannot stop talking about it; the Lord constantly reminds them, and he is using his servants in the highways to teach the atrocities that happened to us and pull our people out of the fire. The Lord does not want to destroy his people; he wants their deliverance. But some of them are so hard headed they have to go.
 
-**[Psalms 83:1-4](/bible/psalms/83#v1)**  *[1:02:10]*
+**[Psalms 83:1-4](/bible/psalms/83#v1)**  *[[1:02:10](https://www.youtube.com/watch?v=z_QujypG9RI&t=3730s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
@@ -196,13 +196,13 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - They have taken crafty counsel against thy people, and consulted against thy hidden ones. They have said, come, and let us cut them off from being a nation. They made it their business to cut us off from being a nation.
 - Deacon: the main reason America and Israel voted against that resolution is that they know who the slave masters and ship owners were, who owned and insured the ships; if they say slavery was the worst atrocity, they have to point the finger there. That is also why the president dodges when it comes to Netanyahu: he said ceasefire, and the next day it was announced Lebanon was not part of the ceasefire.
 
-**[Psalms 64:8](/bible/psalms/64#v8)**  *[1:11:16]*
+**[Psalms 64:8](/bible/psalms/64#v8)**  *[[1:11:16](https://www.youtube.com/watch?v=z_QujypG9RI&t=4276s)]*
 
 > <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
 - After the Haiti clip: so they shall make their own tongue to fall upon themselves; all that see them shall flee away. That is why he was stuttering. They reveal their own evil out of their own mouths, and the Lord is manifesting the evil and the righteous right now, so we have no excuse about which path to take, like the captain read in Deuteronomy 11:26.
 
-**[2 Thessalonians 2:3-6](/bible/2-thessalonians/2#v3)**  *[1:15:54]*
+**[2 Thessalonians 2:3-6](/bible/2-thessalonians/2#v3)**  *[[1:15:54](https://www.youtube.com/watch?v=z_QujypG9RI&t=4554s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 >
@@ -214,7 +214,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
 - Deacon: if you Christians still do not know who the devil is, the Bible reveals him right now. Paul says two things must take place before the second coming: a falling away first, and that man of sin be revealed. The falling away: all twelve tribes fell, in 70 AD. And the man of sin revealed: that is what we are doing right now, the Israelites are on the prophecy revealing him. The son of perdition, who opposeth and exalteth himself above all that is called God, so that he as God sitteth in the temple of God, shewing himself that he is God. That is how you know who it is talking about: who today has painted himself as Christ and is worshipped as God, when the majority of black churches have a white painted image of Christ? We did not paint ourselves; we just read what Revelation 1:14 says Christ looked like.
 
-**[Ezekiel 3:7-9](/bible/ezekiel/3#v7)**  *[1:22:55]*
+**[Ezekiel 3:7-9](/bible/ezekiel/3#v7)**  *[[1:22:55](https://www.youtube.com/watch?v=z_QujypG9RI&t=4975s)]*
 
 > <sup>[7](/bible/ezekiel/3#v7)</sup> But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.
 >
@@ -227,14 +227,14 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Though they be a rebellious house: Israel is a rebellious house, and we are called to be revolutionaries, to be strong. When you examine the revolutionaries, they were all strong and prepared to be imprisoned for what they were doing for their community.
 - Video played, an interview with Bobby Seale of the Black Panthers on being thrown in the hole: no bars, a box seven feet by five with a thick steel door, a cold floor with no bed, a hole in the floor, and sewage that would back up and flood the cell so he had to stand until it receded and then sit back on the floor. Asked how he kept sane, he said when you are a revolutionary they cannot break your spirit that way; the real thing is understanding the psychology of the guards, who themselves could never stand to be in there. Captain: they put you in conditions they themselves could not take; that is how you know there is a strong spirit on the nation of Israel and on the true revolutionaries. He also told how Huey Newton, in the hole for leading a strike for better food, refused the green mush for two days, and a brother on the night shift who knew him brought him sandwiches every night, so that in the morning he was doing push ups when they came with the slop. So brothers who are correction officers: do not use your position to abuse your own brothers in there; there are videos of brothers doing that. Your brother might be a true revolutionary, and we might depend on you to sneak us a piece of bread. That is why we fast often, every other week, declaring fasts among each other; we are rehearsing for Jacob's trouble, which is coming soon.
 
-**[1 Samuel 10:6](/bible/1-samuel/10#v6)**  *[1:30:21]*
+**[1 Samuel 10:6](/bible/1-samuel/10#v6)**  *[[1:30:21](https://www.youtube.com/watch?v=z_QujypG9RI&t=5421s)]*
 
 > <sup>[6](/bible/1-samuel/10#v6)</sup> And the Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 
 - The Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man. If we keep our carnal selves we will not sustain psychologically what they do to us; but if we keep the commandments and the faith in Christ, and are turned into another man, the spirit of Christ, then whatever we go through, we will endure it. This is our lot. This is why we have to keep the commandments and go with the Lord's doctrine we read in Proverbs 4:2, his laws, statutes and commandments.
 - Do not think we are not going through Jacob's trouble, that we are getting beamed up by the chariots. Sorry, it is not happening that way; we have to go through the suffering, as our forefathers went through it. That is the ticket for our salvation and our entrance into the kingdom.
 
-**[Jeremiah 20:9](/bible/jeremiah/20#v9)**  *[1:31:43]*
+**[Jeremiah 20:9](/bible/jeremiah/20#v9)**  *[[1:31:43](https://www.youtube.com/watch?v=z_QujypG9RI&t=5503s)]*
 
 > <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
 
@@ -252,7 +252,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
     He tried to run away from it and the Lord did not let him. Like most of us: we see the task at hand, but we have not been fortified to see how important the mission is. Before I formed thee in the belly I knew thee: the Lord sent a search party for you; he knew since the womb what he created. I sanctified thee, and I ordained thee a prophet unto the nations. Then said I, Ah, Lord God, behold, I cannot speak, for I am a child: I do not know much, I am weak, I am nobody. Most of my brothers have that same weak spirit; shake it off. The little that you know, that you mastered Deuteronomy 28 and breaking down John 3:16, the Lord can use; now apply it and let the Lord do his work. Give the Lord something to work with. Say not, I am a child: stop making excuses. Thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak; we are bound by that. Be not afraid of their faces: the same thing we just read in Ezekiel; same task, same mission. For I am with thee to deliver thee: that power with us is unstoppable. Brothers, gird up your loins.
 
-**[Judith 9:1-4](/bible/judith/9#v1)**  *[1:34:38]*
+**[Judith 9:1-4](/bible/judith/9#v1)**  *[[1:34:38](https://www.youtube.com/watch?v=z_QujypG9RI&t=5678s)]*
 
 > <sup>[1](/bible/judith/9#v1)</sup> Judith fell upon her face, and put ashes upon her head, and uncovered the sackcloth wherewith she was clothed; and about the time that the incense of that evening was offered in Jerusalem in the house of the Lord Judith cried with a loud voice, and said,
 >
@@ -265,7 +265,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Sisters, this is for you too; there is no sitting on your hands saying, I am just going to have babies, I have nothing to do. Judith fell upon her face, put ashes upon her head, and cried with a loud voice. Sisters, you have to cry with a loud voice: while we are out there prophesying and going in the scriptures, you need to be praying for the prophets, praying for the children to get their minds right, praying for our nation to rise up.
 - O Lord God of my father Simeon, to whom thou gavest a sword to take vengeance of the strangers who defiled the maid: that goes to Simeon and Levi destroying the nations for Dinah. This is a sister praying, Lord, take vengeance on the nations. Thou gavest their rulers to be slain, so that they dyed their bed in blood: she is thinking of Psalms 149; she is not praying a Hail Mary, she is praying for vengeance. Their wives for a prey and their daughters to be captives: she is thinking of Isaiah 14; and all their spoils to be divided among thy dear children, all their money and lands given back to the nation of Israel. Which were moved with thy zeal, and called upon thee for aid: O God, O my God, hear me also a widow. So sisters, you should be praying like no other, three times a day, sweating, asking the Lord to bring vengeance on the nations. Do what we are doing, on your side.
 
-**[Jeremiah 38:6-9](/bible/jeremiah/38#v6)**  *[1:40:47]*
+**[Jeremiah 38:6-9](/bible/jeremiah/38#v6)**  *[[1:40:47](https://www.youtube.com/watch?v=z_QujypG9RI&t=6047s)]*
 
 > <sup>[6](/bible/jeremiah/38#v6)</sup> Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that was in the court of the prison: and they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire.
 >
@@ -280,7 +280,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - As we go through this class, men and women in this truth: you are going to have to make a choice, and the hardest thing you will have to fight is you. You will tell yourself it is not worth going ten times more for God, that you do not have to get your wife and your kids in order. The hardest person to fight is you, fighting your sins and the things that will keep you from the kingdom. We all need to get ourselves together before that sky cracks.
 - Video played of a UFC champion visiting an orphanage in his own country: after the photo, a little girl whispers to him that her whole family was wiped out; most of the children in the audience are orphans because their parents were killed in the bombing, and she runs off in tears, and the champion, trying to keep it together, breaks down. Captain: a champion with all the accolades and money, and that smile turns into tears for the state of his people; his face began to be hardened. This is not about smiles and giggles; what matters is the estate of my people. Those are the ones the Lord is looking for.
 
-**[Ezekiel 9:4](/bible/ezekiel/9#v4)**  *[1:47:33]*
+**[Ezekiel 9:4](/bible/ezekiel/9#v4)**  *[[1:47:33](https://www.youtube.com/watch?v=z_QujypG9RI&t=6453s)]*
 
 > <sup>[4](/bible/ezekiel/9#v4)</sup> And the Lord said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.
 
@@ -293,7 +293,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
     Surely there is no enchantment against Jacob, neither is there any divination against Israel. Voodoo and roots are enchantment; it does not work on us. But step outside the zone and use it yourself and you will be bugged out of your mind, clucking like a chicken. Zodiac signs are divination too; we are not supposed to be in the midst of that; it is against the commandments of the Most High.
 
-**[Psalms 94:16-20](/bible/psalms/94#v16)**  *[1:56:34]*
+**[Psalms 94:16-20](/bible/psalms/94#v16)**  *[[1:56:34](https://www.youtube.com/watch?v=z_QujypG9RI&t=6994s)]*
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
 >
@@ -313,7 +313,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Video played from the Million Man March, where the men of the Lord showed up because we were fed up with the lies being peddled to our people: are we supposed to be scared, supposed to pack up and leave? We have more with us than with you: holy angels standing beside us that you cannot see, the one true God with us. I do not care how many men you have; you put one of us to death, the next man is going to rise up. Captain: this is the faith and the power you need to have, and you cannot fake it. You have to grow into that spirit; it takes time, being saturated with the word, going through the trials, getting the counsel. Brothers who just sit in the back, sisters who stay quiet, shalom, happy Sabbath, and then hit the door: you cannot fool the Lord. He knows how to categorize; if you have that fake spirit he will cause an event to happen where you have not been rooted, and you will be exposed and scared. A lot of things are lining up against us right now. Are you fortified? Are you rooted?
 - If one of us is taken out, the other has to be ready to stand in his place; you cannot let the banner fall to the ground. In their military it is a shame for the flag to touch the ground; when that man is shot down the next one scoops it up. Likewise the Bible is our banner. When a righteous brother steps up to edify the people and something happens to him, you have to be ready to go out and teach. That is what happened in Kenya: Deacon Isaac came back to the hotel and said the brothers got stoned, and we are going back, and they went back. In Cuba the captain and the bishops were arrested and put in the wagon, and the next man grabbed the mic and went back to teach. No man is left behind, and we keep teaching this word as it is written.
 
-**[John 16:2-4](/bible/john/16#v2)**  *[2:03:58]*
+**[John 16:2-4](/bible/john/16#v2)**  *[[2:03:58](https://www.youtube.com/watch?v=z_QujypG9RI&t=7438s)]*
 
 > <sup>[2](/bible/john/16#v2)</sup> They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
 >
@@ -323,7 +323,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 
 - Christ warned us of this, and this is why we have no fear; as it reads in Samuel, he gives us another spirit and we are turned into another man, Christ dwelling in us and doing his work. They shall put you out of the synagogues; the time cometh that whosoever killeth you will think he doeth God service, because they have not known the Father nor me. But these things have I told you, that when the time shall come, ye may remember that I told you of them. Christ pre warned us, so it is not shocking to those in the spirit; but to those who do not study day and night, who came to be professional students, when your number is called you are shaken.
 
-**[Matthew 24:6-9](/bible/matthew/24#v6)**  *[2:05:19]*
+**[Matthew 24:6-9](/bible/matthew/24#v6)**  *[[2:05:19](https://www.youtube.com/watch?v=z_QujypG9RI&t=7519s)]*
 
 > <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
 >
@@ -337,7 +337,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Ye shall hear of wars and rumours of wars; see that ye be not troubled, do not be dismayed; all these things must come to pass. It cannot be stopped; a commentator said this nation is set on a self destructive course, and the Lord knows what is going to happen. Nation shall rise against nation: Iran, Israel, America, China getting in, Lebanon being bombed. There shall be famines and pestilences: we are getting a heads up from the Lord. Get your pantries up; you have heard the warning over and over from the bishops, deacons and captains. Do not come knocking later asking for my address. All these are the beginning of sorrows; we are working on the golden ticket to the kingdom.
 - Then shall they deliver you up to be afflicted, and shall kill you, and ye shall be hated of all nations. You saw the video: all those nations know the wrong they did against us, and the Lord has a wonderful way of reminding all oppressors of their evil just before he kills them, as we read in Wisdom of Solomon: he sent them terrors at night and blackened the whole land to remind them.
 
-**[Exodus 11:1-9](/bible/exodus/11#v1)**  *[2:08:50]*
+**[Exodus 11:1-9](/bible/exodus/11#v1)**  *[[2:08:50](https://www.youtube.com/watch?v=z_QujypG9RI&t=7730s)]*
 
 > <sup>[1](/bible/exodus/11#v1)</sup> And the Lord said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.
 >
@@ -361,7 +361,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - About midnight will I go out into the midst of Egypt, and all the firstborn shall die, and there shall be a great cry throughout all the land, such as there was none like it. But against any of the children of Israel shall not a dog move his tongue, that ye may know how that the Lord doth put a difference between the Egyptians and Israel. The Lord showed favoritism to his people. So when they tell us God loves everybody: wait, he said, I will personally come down and kill another nation for my people, so that the world knows I choose my people over other nations.
 - All these thy servants shall come down unto me and bow down, saying, get thee out, and all the people that follow thee. And he went out from Pharaoh in a great anger. Moses had to drop the mic: this is going to be it, Pharaoh; I warned you about the frogs and the blood and you would not listen. See the boldness of a servant of the Lord. And the Lord said, Pharaoh shall not hearken unto you: he is going to be hardened, but do not stop doing what you are doing, that my wonders may be multiplied. This is why some of the wicked have to go; do not feel sorry for them. Go in and do your mission, teach, prophesy, edify, build up, but the Lord has to show the wicked of our people: all you had to do was repent; multiple times he reached out through the mouth of the prophets and they refused. He is doing the same thing with America, hardening their hearts; they do not see the stress of the people and do not care about black and Hispanic America; those they cannot use and manipulate they want to eliminate. But there is a God, and he has a mission for us. Do not be afraid of it.
 
-**[Luke 14:26-32](/bible/luke/14#v26)**  *[2:16:23]*
+**[Luke 14:26-32](/bible/luke/14#v26)**  *[[2:16:23](https://www.youtube.com/watch?v=z_QujypG9RI&t=8183s)]*
 
 > <sup>[26](/bible/luke/14#v26)</sup> If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 >
@@ -384,7 +384,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Or what king, going to make war, sitteth not down first and consulteth whether he be able with ten thousand to meet him that cometh with twenty thousand? Or else, while the other is yet a great way off, he sendeth an ambassage and desireth conditions of peace: he waves the white flag because he did not estimate the overpowering; he was dismayed. That is why the Lord constantly reminds you: be not dismayed by them; do the work; stay focused on the mission, or you will be confounded by the wicked. Stay on the job, harden your face and your spirit constantly.
 - When we first started listening to the bishop's classes, we used to ride through the neighborhood with the windows down blasting the class. That joy you once had, you have to renew over and over; you will hit a plateau and have to keep fighting through it. It will come as correction; now you have people saying camp 101 is boring, sitting all day on the Sabbath is boring. This is what we signed up for, because what is lined up for the children of light our minds cannot fathom. Stay on your A game; the gospel is our profession.
 
-**[Hebrews 10:23](/bible/hebrews/10#v23)**  *[2:24:21]*
+**[Hebrews 10:23](/bible/hebrews/10#v23)**  *[[2:24:21](https://www.youtube.com/watch?v=z_QujypG9RI&t=8661s)]*
 
 > <sup>[23](/bible/hebrews/10#v23)</sup> Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)
 
@@ -392,7 +392,7 @@ Book read in class: New World Jewry, 1493 to 1825: Requiem for the Forgotten, by
 - Article read in class, on the prophets: at times the message was like a burden upon them, urging them on with divine compulsion, yet they were free men, to speak or to remain silent, and they spoke of their preaching as the vision or the word of the Lord, meaning their conviction that the message was from God. They had paid the price of long and earnest meditation upon the divine purposes for their generation, and did not hesitate to begin with thus saith the Lord. They drew on their own experience and used past, present and future events to enforce their teaching, and their moral insight as students in the school of God made them competent to lead the people to fuller comprehension. Captain: divine compulsion, they could not hold back; long and earnest meditation, they counted the cost; everything written aforetime for our learning; and the school of God, this is a place of learning.
 - Second passage read, on Elijah and Elisha: the greatest marvel Elijah accomplished was founding a circle of disciples, who kept alive the teachings of the ancient law and raised their voices against the perversions of the mighty ones of the land, and lived by the work of their own hands; after Elijah's disappearance Elisha placed himself at their head, and at the beginning of his career followed closely in the footsteps of his master. Captain: a circle of disciples. You have to be around wise men, not fools; you cannot expect to be successful constantly around sinners, money makers, harlots and drug dealers, because whatever is around you consumes your thoughts and seduces you. That is why we encourage the brothers to come to the school and not leave the young men by themselves; we get messages from mothers that their son is at the park smoking with his buddies. The schools must be available to the youth, and we have to bring our arms together to keep these sanctuaries functioning. His career: this work is our profession, our career, not the nine to five. And he followed in the footsteps of his master; that is what we are supposed to be doing.
 
-**[Jeremiah 28:8-9](/bible/jeremiah/28#v8)**  *[2:32:38]*
+**[Jeremiah 28:8-9](/bible/jeremiah/28#v8)**  *[[2:32:38](https://www.youtube.com/watch?v=z_QujypG9RI&t=9158s)]*
 
 > <sup>[8](/bible/jeremiah/28#v8)</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
 >
@@ -430,4 +430,4 @@ Dates: brothers are traveling around the world for the Lord's Passover; keep pra
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-11-making-our-face-harder-than-their-face)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=z_QujypG9RI)

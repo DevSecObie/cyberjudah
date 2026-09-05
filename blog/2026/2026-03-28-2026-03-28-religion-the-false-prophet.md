@@ -20,7 +20,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
 ## Scriptures Opened
 
-**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[20:29]*
+**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[[20:29](https://www.youtube.com/watch?v=JLhHPemmiSk&t=1229s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 
@@ -33,7 +33,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     That which hath been is named already, and it is known that it is man. So the thing that is, is man. Going back to Ecclesiastes 1:9, what man does on the earth is what shall be done again.
 
-**[Genesis 4:1-24](/bible/genesis/4#v1)**  *[22:18]*
+**[Genesis 4:1-24](/bible/genesis/4#v1)**  *[[22:18](https://www.youtube.com/watch?v=JLhHPemmiSk&t=1338s)]*
 
 > <sup>[1](/bible/genesis/4#v1)</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 >
@@ -105,7 +105,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     In this the children of God are manifest, and the children of the devil. John was telling the Israelites he wrote to: love one another, not as Cain, who was of that wicked one. Cain was under Satan; Satan was his father. And wherefore slew he him? Because his own works were evil, and his brother's righteous.
 
-**[Genesis 5:3](/bible/genesis/5#v3)**  *[35:04]*
+**[Genesis 5:3](/bible/genesis/5#v3)**  *[[35:04](https://www.youtube.com/watch?v=JLhHPemmiSk&t=2104s)]*
 
 > <sup>[3](/bible/genesis/5#v3)</sup> And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
 
@@ -122,7 +122,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     The Lord God formed man of the dust of the ground, and man became a living soul. That was Adam. Adam was in God's image; Seth was in the image of Adam, who was in the image of God.
 
-**[Genesis 6:1-14](/bible/genesis/6#v1)**  *[37:38]*
+**[Genesis 6:1-14](/bible/genesis/6#v1)**  *[[37:38](https://www.youtube.com/watch?v=JLhHPemmiSk&t=2258s)]*
 
 > <sup>[1](/bible/genesis/6#v1)</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 >
@@ -168,13 +168,13 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     The earnest expectation of the creature waiteth for the manifestation of the sons of God. Everybody is waiting for our manifestation to be called the sons of God.
 
-**[Genesis 8:4](/bible/genesis/8#v4)**  *[43:05]*
+**[Genesis 8:4](/bible/genesis/8#v4)**  *[[43:05](https://www.youtube.com/watch?v=JLhHPemmiSk&t=2585s)]*
 
 > <sup>[4](/bible/genesis/8#v4)</sup> And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
 
 - The ark rested upon the mountains of Ararat: that is Mount Ararat, near Turkey.
 
-**[Genesis 9:1-16](/bible/genesis/9#v1)**  *[43:21]*
+**[Genesis 9:1-16](/bible/genesis/9#v1)**  *[[43:21](https://www.youtube.com/watch?v=JLhHPemmiSk&t=2601s)]*
 
 > <sup>[1](/bible/genesis/9#v1)</sup> And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 >
@@ -204,7 +204,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Before the flood our diet was herbs and seeds, and to every beast of the earth God gave every green herb for meat. Even the lions and the tigers and the bears ate herbs and vegetables; nobody ate meat until Genesis 9:3. That is why the animals did not eat each other.
 
-**[Genesis 10:6-16](/bible/genesis/10#v6)**  *[47:19]*
+**[Genesis 10:6-16](/bible/genesis/10#v6)**  *[[47:19](https://www.youtube.com/watch?v=JLhHPemmiSk&t=2839s)]*
 
 > <sup>[6](/bible/genesis/10#v6)</sup> And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 >
@@ -234,7 +234,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - And Cush begat Nimrod: he began to be a mighty one in the earth, a mighty hunter before the Lord, meaning he was against the Lord. The beginning of his kingdom was Babel in the land of Shinar. So after the flood, the first empire was Kush: the Ethiopians, the Sudan. These were mighty men with understanding. You look at these Discovery Channel programs and they have white people as the first empire; no, the Bible says the children of Ham were the first ruling empire on the earth after the flood. Before the flood, Cain built the first city.
 - Out of Mizraim came Casluhim, out of whom came Philistim: that is who the Philistines come from. Canaan begat Sidon his firstborn, and Heth: this is Tyre and Zidon that you read about in the Bible.
 
-**[Genesis 11:1-10](/bible/genesis/11#v1)**  *[53:56]*
+**[Genesis 11:1-10](/bible/genesis/11#v1)**  *[[53:56](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3236s)]*
 
 > <sup>[1](/bible/genesis/11#v1)</sup> And the whole earth was of one language, and of one speech.
 >
@@ -261,7 +261,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - Behold, the people is one, and they have all one language, and now nothing will be restrained from them which they have imagined to do. That lets you know the Kushites, the Hamites, were not a dumb, ignorant race of people; the opposite, they were very intelligent, and they dealt in the spirit realm.
 - Therefore is the name of it called Babel, because the Lord did there confound the language of all the earth. Babel means confusion, and from thence did the Lord scatter them abroad upon the face of all the earth.
 
-**[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[58:25]*
+**[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[58:25](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3505s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
@@ -276,13 +276,13 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: originally they dwelt in Mount Seir, which today they call Petra, and in the Caucasus Mountains during the dark ages. They love the high buildings; that is why they have skyscrapers.
 - Though thou exalt thyself as the eagle: what is the symbol of America? The eagle. Ancient Greece, Rome, Spain, Britain, and Germany at one time all had the eagle; they love that bird of prey. And though thou set thy nest among the stars: who is doing space travel? They just sent up Artemis 2 to the moon the day before yesterday. Thence will I bring thee down, saith the Lord. Esau is doing the same thing that Babylon, the original, did.
 
-**[Jeremiah 51:53](/bible/jeremiah/51#v53)**  *[1:02:18]*
+**[Jeremiah 51:53](/bible/jeremiah/51#v53)**  *[[1:02:18](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3738s)]*
 
 > <sup>[53](/bible/jeremiah/51#v53)</sup> Though Babylon should mount up to heaven, and though she should fortify the height of her strength, yet from me shall spoilers come unto her, saith the Lord.
 
 - Though Babylon should mount up to heaven: Babylon here is the Edom we just read about, doing the same thing Nimrod did. Though she should fortify the height of her strength, yet from me shall spoilers come unto her, saith the Lord. God is going to bring them down.
 
-**[Habakkuk 2:1-12](/bible/habakkuk/2#v1)**  *[1:03:01]*
+**[Habakkuk 2:1-12](/bible/habakkuk/2#v1)**  *[[1:03:01](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3781s)]*
 
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 >
@@ -348,7 +348,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     I will exalt my throne above the stars of God: space travel. I will sit also upon the mount of the congregation, in the sides of the north: that is us, in North America. I will ascend above the heights of the clouds: airplanes. How could that part be true, because you see it, but the verse above it about the stars be fake?
 
-**[Numbers 24:1-25](/bible/numbers/24#v1)**  *[1:19:47]*
+**[Numbers 24:1-25](/bible/numbers/24#v1)**  *[[1:19:47](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4787s)]*
 
 > <sup>[1](/bible/numbers/24#v1)</sup> And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 >
@@ -426,7 +426,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword. God got tired of him and had him put to death.
 
-**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[1:29:07]*
+**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[1:29:07](https://www.youtube.com/watch?v=JLhHPemmiSk&t=5347s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 >
@@ -446,7 +446,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     The beast was like unto a leopard: attributes of the Greeks. His feet were as the feet of a bear: ancient Persia and Media. His mouth as the mouth of a lion: ancient Babylon. And the dragon gave him his power, and his seat, and great authority: Satan gave this man power to rule. Who is that? Starting with the United States of America, followed by Britain, France, Germany, Russia, all these empires today.
 
-**[Matthew 24:21-27](/bible/matthew/24#v21)**  *[1:41:31]*
+**[Matthew 24:21-27](/bible/matthew/24#v21)**  *[[1:41:31](https://www.youtube.com/watch?v=JLhHPemmiSk&t=6091s)]*
 
 > <sup>[21](/bible/matthew/24#v21)</sup> For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
 >
@@ -483,7 +483,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Many shall come in my name, saying, I am Christ; and shall deceive many. That happened from the time of the Renaissance, when Spain, Portugal, and Rome worked together to conquer the dark nations and force Christianity on them.
 
-**[Revelation 16:12-14](/bible/revelation/16#v12)**  *[1:52:26]*
+**[Revelation 16:12-14](/bible/revelation/16#v12)**  *[[1:52:26](https://www.youtube.com/watch?v=JLhHPemmiSk&t=6746s)]*
 
 > <sup>[12](/bible/revelation/16#v12)</sup> And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
 >
@@ -494,14 +494,14 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - The sixth angel poured out his vial upon the great river Euphrates, and the water thereof was dried up, that the way of the kings of the east might be prepared. Photos and a news article were shown of parts of the Euphrates river drying up already. Best believe we are in Bible times.
 - Three unclean spirits like frogs: write this down. Out of the mouth of the dragon: politics. Out of the mouth of the beast: economics. Out of the mouth of the false prophet: religion, Christianity. They are the spirits of devils, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty: meaning Armageddon. The three reasons all nations will fight are political reasons, economics, and religion.
 
-**[Matthew 12:24](/bible/matthew/12#v24)**  *[1:57:28]*
+**[Matthew 12:24](/bible/matthew/12#v24)**  *[[1:57:28](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7048s)]*
 
 > <sup>[24](/bible/matthew/12#v24)</sup> But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.
 
 - The Pharisees said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils. When you look up Beelzebub it says lord of the flies.
 - Video played in class arguing that the other name for Allah, the god of Muhammad, is Beelzebub, the lord of the flies, originally a Philistine god; the video went through hadiths on purification and verses of the Quran to argue that Muhammad was a false prophet and that Muslims are unknowingly worshiping a man rather than the Son of God. And they call Christ the lord of the flies.
 
-**[Jeremiah 3:1-3](/bible/jeremiah/3#v1)**  *[2:01:39]*
+**[Jeremiah 3:1-3](/bible/jeremiah/3#v1)**  *[[2:01:39](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7299s)]*
 
 > <sup>[1](/bible/jeremiah/3#v1)</sup> They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the Lord.
 >
@@ -529,7 +529,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Ye shall make you no idols nor graven image, neither shall ye set up any image of stone in your land, to bow down unto it. This is what our people do: we go all the way to Mecca to kiss a rock.
 
-**[Acts 15:5](/bible/acts/15#v5)**  *[2:19:58]*
+**[Acts 15:5](/bible/acts/15#v5)**  *[[2:19:58](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8398s)]*
 
 > <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
 
@@ -541,7 +541,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - Book read in class: The Jewish Onslaught by Professor Tony Martin of Wellesley College. In 1993 Jewish organizations called for his dismissal from his tenured professorship because he included readings on Jewish involvement in the African slave trade in his survey course on African American history. The book documents: their desire to censor education and their control of Congress through AIPAC; the ADL boasting of influence on legislators and training of police departments; Marcus Garvey in 1928 calling the white NAACP leadership spies for the rest of the white race; Stanley Levison drafting Martin Luther King Jr.'s speeches; Israel's nuclear collaboration and weapons trade with apartheid South Africa, whose Jewish community were beneficiaries of apartheid; European Jewish scholars admitting Jews played an active and strong role in the African slave trade, owning the ships, financing the voyages, and operating the auction blocks; and Koestler's The Thirteenth Tribe, by a European Jewish author, terming the current Jews passing themselves off as descendants of the biblical Hebrews one of the biggest frauds in history, having converted to Judaism in the 8th century. Michael Bradley's The Chosen People of the Caucasus sheds more light on the issue.
 - Video shown in class: a man made himself vomit on a black woman sitting in protest, and another struck her with a bottle. You have to imagine how much hate was stirred up in him; she thought she was accepted and loved.
 
-**[Mark 4:16-17](/bible/mark/4#v16)**  *[2:46:36]*
+**[Mark 4:16-17](/bible/mark/4#v16)**  *[[2:46:36](https://www.youtube.com/watch?v=JLhHPemmiSk&t=9996s)]*
 
 > <sup>[16](/bible/mark/4#v16)</sup> And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;
 >
@@ -562,7 +562,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake. And then shall many be offended, and shall betray one another, and shall hate one another.
 
-**[1 Timothy 4:1-3](/bible/1-timothy/4#v1)**  *[2:47:55]*
+**[1 Timothy 4:1-3](/bible/1-timothy/4#v1)**  *[[2:47:55](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10075s)]*
 
 > <sup>[1](/bible/1-timothy/4#v1)</sup> Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 >
@@ -580,13 +580,13 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Thy righteousness is an everlasting righteousness, and thy law is the truth. That is the truth these religions would have you depart from.
 
-**[2 Esdras 11:1](/bible/2-esdras/11#v1)**  *[2:50:56]*
+**[2 Esdras 11:1](/bible/2-esdras/11#v1)**  *[[2:50:56](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10256s)]*
 
 > <sup>[1](/bible/2-esdras/11#v1)</sup> Then saw I a dream, and, behold, there came up from the sea an eagle, which had twelve feathered wings, and three heads.
 
 - Then saw I a dream, and, behold, there came up from the sea an eagle, which had twelve feathered wings, and three heads.
 
-**[2 Esdras 12:11](/bible/2-esdras/12#v11)**  *[2:51:36]*
+**[2 Esdras 12:11](/bible/2-esdras/12#v11)**  *[[2:51:36](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10296s)]*
 
 > <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
 
@@ -598,7 +598,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     A fourth beast, dreadful and terrible, and strong exceedingly, diverse from all the beasts that were before it: Daniel saw the lion of Babylon, the bear of Persia and Media, and the leopard of the Greeks, but the fourth beast was different from all of them, and he did not understand it.
 
-**[Daniel 11:36-39](/bible/daniel/11#v36)**  *[2:52:58]*
+**[Daniel 11:36-39](/bible/daniel/11#v36)**  *[[2:52:58](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10378s)]*
 
 > <sup>[36](/bible/daniel/11#v36)</sup> And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 >
@@ -618,7 +618,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. This is the same wording as Daniel: it is identifying the false prophet in the last days.
 
-**[Wisdom of Solomon 14:12-17, 27](/bible/wisdom-of-solomon/14#v12)**  *[2:55:49]*
+**[Wisdom of Solomon 14:12-17, 27](/bible/wisdom-of-solomon/14#v12)**  *[[2:55:49](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10549s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/14#v12)</sup> For the devising of idols was the beginning of spiritual fornication, and the invention of them the corruption of life.
 >
@@ -651,7 +651,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     He opened his mouth in blasphemy against God: the white man set himself up as God and went against all God's laws; this is the function of the Roman Catholic Church. It was given unto him to make war with the saints, and to overcome them: Spain and Portugal made war against the saints of God and overcame us in slavery. And power was given him over all kindreds, and tongues, and nations: and all that dwell upon the earth shall worship him.
 
-**[Daniel 7:25](/bible/daniel/7#v25)**  *[3:03:40]*
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[3:03:40](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11020s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
@@ -685,13 +685,13 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     He causeth the earth and them which dwell therein to worship the first beast: the first beast was Rome. Nobody worships Rome? Really? Read in class: Sunday is the sun, Monday the moon, Tuesday Mars, Wednesday Mercury, Thursday Jupiter, Friday Venus, Saturday Saturn. And the months: January for Janus, February for Februalia, March for Mars, April from aperire, May for Maia, June for Juno, July for Julius Caesar, August for Augustus, and September through December from the Roman numbers seven through ten. Our lives run on Roman time; that is worshiping the first beast.
 
-**[Revelation 11:11](/bible/revelation/11#v11)**  *[3:15:05]*
+**[Revelation 11:11](/bible/revelation/11#v11)**  *[[3:15:05](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11705s)]*
 
 > <sup>[11](/bible/revelation/11#v11)</sup> And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 
 - Revelation 11:11 is explaining a time, times, and the dividing of time: after three days and an half.
 
-**[Revelation 12:6, 14](/bible/revelation/12#v6)**  *[3:15:29]*
+**[Revelation 12:6, 14](/bible/revelation/12#v6)**  *[[3:15:29](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11729s)]*
 
 > <sup>[6](/bible/revelation/12#v6)</sup> And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days.
 >
@@ -706,13 +706,13 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Therefore shalt thou serve thine enemies, in hunger, and in thirst, and in nakedness, and in want of all things. Moses used the word enemies; John the revelator called him the serpent. They prophesied the same history: if you want food, water, clothing, education, or medicine, you have to go to your enemies, and he shall put a yoke of iron upon thy neck.
 
-**[Romans 11:1](/bible/romans/11#v1)**  *[3:18:07]*
+**[Romans 11:1](/bible/romans/11#v1)**  *[[3:18:07](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11887s)]*
 
 > <sup>[1](/bible/romans/11#v1)</sup> I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
 - With all this, they have something called Christian dispensationalism, or replacement theology: that God's people are done away with. I say then, Hath God cast away his people? God forbid. Paul was dealing with that back then. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin: Paul was proving the Israelites were not done away with.
 
-**[Jeremiah 31:31-37](/bible/jeremiah/31#v31)**  *[3:18:39]*
+**[Jeremiah 31:31-37](/bible/jeremiah/31#v31)**  *[[3:18:39](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11919s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 >
@@ -734,7 +734,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - Thus saith the Lord, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night: if those ordinances depart from before me, then the seed of Israel also shall cease from being a nation before me for ever. This is how the Lord loves us: if you can get rid of the sun, the moon, and the stars, then the Israelites will not be his people. But nobody can get rid of the sun, the moon, or the stars.
 - If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel. The white man has been trying to measure the deep, and dying trying to get down there.
 
-**[Jeremiah 33:23-26](/bible/jeremiah/33#v23)**  *[3:21:17]*
+**[Jeremiah 33:23-26](/bible/jeremiah/33#v23)**  *[[3:21:17](https://www.youtube.com/watch?v=JLhHPemmiSk&t=12077s)]*
 
 > <sup>[23](/bible/jeremiah/33#v23)</sup> Moreover the word of the Lord came to Jeremiah, saying,
 >
@@ -771,4 +771,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-03-28-religion-the-false-prophet)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=JLhHPemmiSk)

@@ -398,4 +398,4 @@ Bishop Yahawashi's class follows this one.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-25-fda-food-and-drug-assassination)
+[Class Notes Index](/classes)

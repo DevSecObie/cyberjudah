@@ -594,4 +594,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-19-drowning-in-sin-perdition)
+[Class Notes Index](/classes)

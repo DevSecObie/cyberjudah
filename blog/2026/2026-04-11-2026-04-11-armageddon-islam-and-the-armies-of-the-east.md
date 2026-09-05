@@ -36,7 +36,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 
 ## Scriptures Opened
 
-**[2 Esdras 15:20-21](/bible/2-esdras/15#v20)**  *[17:49]*
+**[2 Esdras 15:20-21](/bible/2-esdras/15#v20)**  *[[17:49](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=1069s)]*
 
 > <sup>[20](/bible/2-esdras/15#v20)</sup> Behold, saith God, I will call together all the kings of the earth to reverence me, which are from the rising of the sun, from the south, from the east, and Libanus; to turn themselves one against another, and repay the things that they have done to them.
 >
@@ -45,7 +45,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - Behold, saith God, I will call together all the kings of the earth to reverence me, from the rising of the sun, from the south, from the east, and Libanus. Libanus is Lebanon. To turn themselves one against another: that is what the Most High wants to take place. He wants all of them, Lebanon and all of them, to turn against each other and fight each other, and repay the things that they have done to the Israelites.
 - Like as they do yet this day unto my chosen: even in the time of Ezra, Lebanon and all the nations we were amongst were dealing evil with us. The Lord told Ezra, the evil you see them doing to my chosen to this day, I am going to repay in the future; I am going to bring all of them to fight against each other. So when you see Iran, America and all these wars, the Lord is behind it. When I see little kids getting bombed, it plays with your emotions as a man, because you have kids. But we have to understand it is the judgment of the Most High.
 
-**[Amos 1:9-11](/bible/amos/1#v9)**  *[19:11]*
+**[Amos 1:9-11](/bible/amos/1#v9)**  *[[19:11](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=1151s)]*
 
 > <sup>[9](/bible/amos/1#v9)</sup> Thus saith the Lord; For three transgressions of Tyrus, and for four, I will not turn away the punishment thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant:
 >
@@ -58,13 +58,13 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - But I will send a fire on the wall of Tyrus, which shall devour the palaces thereof: that is what you see taking place today, missiles and bombs being dropped on Lebanon, devouring those cities. Then it goes on to Edom.
 - Understand this about Palestine: there will be no two-state solution. The Israelis will always control Palestine; a yoke will be put on the Palestinians, and if any government is set up it will be puppets.
 
-**[Isaiah 14:8](/bible/isaiah/14#v8)**  *[22:36]*
+**[Isaiah 14:8](/bible/isaiah/14#v8)**  *[[22:36](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=1356s)]*
 
 > <sup>[8](/bible/isaiah/14#v8)</sup> Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
 
 - The fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us. This is the prophets, us, speaking after we are delivered from America; the chapter is about the king of Babylon being destroyed. Lebanon is rejoicing because since America and Israel are destroyed, no feller comes up against them. What does that tell you? America and Israel are going to keep fighting with Lebanon; from time to time they will keep bombing and destroying Lebanon, and try to do to Lebanon what they did to Palestine.
 
-**[Daniel 8:25](/bible/daniel/8#v25)**  *[27:35]*
+**[Daniel 8:25](/bible/daniel/8#v25)**  *[[27:35](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=1655s)]*
 
 > <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
@@ -77,13 +77,13 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - It was started to improve the condition of black people in America. We were being lynched and murdered, and brothers said, I am not following Christianity, the white man's religion; let us follow the Arab man's religion instead. Do not get me wrong: the Muslims had core values, no pork, no drinking, and that instilled discipline and pride in our people in the 40s, 50s and 60s. But we were still following idols. Islam is the Arab man's religion, and it led our people into idolatry.
 - Many brothers became Muslims in prison, Malcolm X was one; some to this day join for protection, and some followed the movement because it showed discipline and a form of change in the black community. Different reasons, but the key thing: being a Muslim is the Arab man's religion, and Islam was not set up as a religion for everyone. I am going to show you that.
 
-**[Isaiah 46:10](/bible/isaiah/46#v10)**  *[41:24]*
+**[Isaiah 46:10](/bible/isaiah/46#v10)**  *[[41:24](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=2484s)]*
 
 > <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
 
 - Declaring the end from the beginning, and from ancient times the things that are not yet done. The Most High lets us know things that are not yet done. So my question: if he declared the end from the beginning, do you not think he would let us know about Islam rising up in the future? Yes. The Lord recorded Islam rising up and our people following after it, and he said it is wrong and we should not do it.
 
-**[Deuteronomy 28:64-65](/bible/deuteronomy/28#v64)**  *[42:47]*
+**[Deuteronomy 28:64-65](/bible/deuteronomy/28#v64)**  *[[42:47](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=2567s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 >
@@ -93,7 +93,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - Wood: that is Christianity. Picture shown: the cross. That cross represents the image of the beast, the white man's religion. Stone: what stone do our people worship? The Kaaba stone in Mecca. When you are a Muslim you are following that stone; you say you follow Allah the same way the Christians say they follow Jesus, but you have to make that hajj at least once in your life and go bow and kiss that black stone. Even wood and stone. Those are the two biggest religions on this earth, Christianity with billions and Islam with billions, and our people are caught up in both. Moses saw our people caught up in these religions today.
 - And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest; the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind. That is what happened to our people in these lands where we were made slaves.
 
-**[Deuteronomy 32:5-7](/bible/deuteronomy/32#v5)**  *[46:57]*
+**[Deuteronomy 32:5-7](/bible/deuteronomy/32#v5)**  *[[46:57](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=2817s)]*
 
 > <sup>[5](/bible/deuteronomy/32#v5)</sup> They have corrupted themselves, their spot is not the spot of his children: they are a perverse and crooked generation.
 >
@@ -104,14 +104,14 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - They have corrupted themselves; their spot is not the spot of his children. The spot is how you are supposed to look. The Lord says, I do not recognize you; you do not look like my children. Why? Because we are calling ourselves Muslims and calling ourselves Christians; not Christians like the apostles were called, but today, when you call yourself a Christian, you are following white supremacy. They are a perverse and crooked generation. Do ye thus requite the Lord, O foolish people and unwise?
 - Remember the days of old, consider the years of many generations; ask thy father, and he will shew thee; thy elders, and they will tell thee.
 
-**[Deuteronomy 32:17](/bible/deuteronomy/32#v17)**  *[48:20]*
+**[Deuteronomy 32:17](/bible/deuteronomy/32#v17)**  *[[48:20](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=2900s)]*
 
 > <sup>[17](/bible/deuteronomy/32#v17)</sup> They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
 
 - They sacrificed unto devils, not to God. The sacrifice is the worship. Those of you that make the hajj, that pray five times a day every time you hear that call, that fast and pray in Ramadan: that is your sacrifice, and you are sacrificing unto devils. The same for you brothers and sisters that go into Christianity and pray to the white man's image; you are sacrificing to devils. Not to God: when they pray and make the hajj, they do it for Allah, and that is not the God of Abraham, Isaac and Jacob, though both Christians and Muslims say it is.
 - To gods whom they knew not: our forefathers never knew any white Caucasian Jew, any white Jesus, any Islam, any Kaaba stone. To new gods that came newly up: Christianity is a new god that came about in the 1400s, the Renaissance, the rebirth of the white man's rule in Europe; and Islam was formed in the seventh century, 610 when Muhammad said he got the revelation and 622 when he migrated, and by the seventh century Muslims were spreading everywhere. Islam came 600 years after our King Christ, the black Messiah, died for our sins. It is a new religion on this earth, and so is Christianity. Whom your fathers feared not: our forefathers never feared any rock.
 
-**[Deuteronomy 32:37-38](/bible/deuteronomy/32#v37)**  *[51:48]*
+**[Deuteronomy 32:37-38](/bible/deuteronomy/32#v37)**  *[[51:48](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=3108s)]*
 
 > <sup>[37](/bible/deuteronomy/32#v37)</sup> And he shall say, Where are their gods, their rock in whom they trusted,
 >
@@ -124,14 +124,14 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - So when that religion came about in the seventh century, what did they do? They started conquering and enslaving our people. You see how the white man enslaved us and now we speak English and follow the white man's religion; the same way, all our people who call themselves Muslims openly and willingly today, that was forced on them. It came from being conquered, enslaved and colonized. You thought it was just the white man that conquered and enslaved and colonized? The Arabs did it for over 1,200 years, from the seventh century up to this day; our people are still enslaved in these Arab countries. The white man ended his slave trade because of how he looked in the world; the Arabs never ended it. So the Nation of Islam said we will not follow the white man's religion, and then went and followed the Arab man's religion, and the Arabs did to our people the same thing the white man did. Do not let anybody tell you the Muslims love black people; it is in their law that slavery is allowed.
 - Map shown: Arab countries versus Israel. Look at the whole of North Africa: Sudan, Egypt, Libya, Tunisia, Algeria, Morocco, Mauritania, and Somalia. All these countries were occupied by the children of Ham. Who occupies that land today? Arabs, Ishmael. What took place? The same way the white man conquered and colonized Africa, in the seventh, eighth and ninth centuries the Arabs did the same thing, and they conquered in the name of Allah the same way the white man conquered in the name of that white image of Jesus. So do not cry for these people when judgment falls on them; remember the scripture, as they have done even to this day unto my chosen. They took all that land by force. We all know the Egyptians are the sons of Ham, yet the Arabs over there say they are the real Egyptians; the other day a comedian made a joke about it and they tried to put him out of the country. You stole that land the same way the synagogues of Satan stole the land of Israel. So when they argue over Palestine and Lebanon and say Israel is taking all the land, the greater Israel, against international law: you Arabs did the same thing. You have no moral ground to stand on.
 
-**[Jeremiah 3:2](/bible/jeremiah/3#v2)**  *[65:06]*
+**[Jeremiah 3:2](/bible/jeremiah/3#v2)**  *[[65:06](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=3906s)]*
 
 > <sup>[2](/bible/jeremiah/3#v2)</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
 
 - In the ways hast thou sat for them, as the Arabian in the wilderness. We were always known for sitting and learning from the Arabians. We are not to learn the Arab religion, the same way we are not to learn the Chinese religion or the white man's religion.
 - Some of you are saying, wait, I thought you were going over Armageddon. I am building; I am showing you Islam first, because what I am about to show you about the Sunni and the Shia is going to blow your mind. You have to have at least a basic understanding of Islam and being a Muslim.
 
-**[Psalms 83:1-6](/bible/psalms/83#v1)**  *[66:31]*
+**[Psalms 83:1-6](/bible/psalms/83#v1)**  *[[66:31](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=3991s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
@@ -150,7 +150,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - They have taken crafty counsel against thy people, and consulted against thy hidden ones. It was not the white man alone that took crafty counsel to destroy our knowledge of who we are; the Arabs did it too. They have said, Come, and let us cut them off from being a nation, that the name of Israel may be no more in remembrance. Ishmael and all nations played a role in cutting us off from being a nation. Look around the world today and ask who the Israelites are, and you will rarely find brothers that know it; the only way they know today is by us, or a remnant that knows but forgot the customs and the laws, because that was war. The Arabs destroyed us from being a nation, and so did the white man and the Chinese; all nations came together in that secret counsel to destroy our remembrance all over the world.
 - For they have consulted together with one consent; they are confederate against thee: the tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes. The number one enemy of the Most High is Edom, the so-called Caucasian race. The second is the Ishmaelites, the Arabs. Then Moab. They took our identity from us and forced their religion on us, and all nations agreed to it. So when you see the Lord bringing judgment on the Arabs, stay out of the Lord's business. You forgot what they did to you a thousand, five hundred, a hundred years ago, because the name of Israel was to be no more in remembrance; but the Lord says, I see everything, I do not forget, and I am going to judge them.
 
-**[Amos 3:1-2](/bible/amos/3#v1)**  *[74:04]*
+**[Amos 3:1-2](/bible/amos/3#v1)**  *[[74:04](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=4444s)]*
 
 > <sup>[1](/bible/amos/3#v1)</sup> Hear this word that the Lord hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 >
@@ -159,13 +159,13 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - The Arabs say all the prophets came through Israel, but the last prophet was Muhammad, and now the Most High is dealing with the Arabs. Let us prove that he never was and is not dealing with the Arabs.
 - Hear this word that the Lord hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt: You only have I known of all the families of the earth. You have Moabites, Ishmaelites, Hittites, all the families of the earth, and the Most High says, you Israelites are the only ones I know, the only ones I deal with. He does not contradict himself. That is why the synagogues of Satan run around trying to be the Jews; no, the chosen people were enslaved and scattered to the four corners of the earth. Therefore I will punish you for all your iniquities: that punishment was slavery and the oppression we go through as a people today.
 
-**[Amos 3:7](/bible/amos/3#v7)**  *[75:29]*
+**[Amos 3:7](/bible/amos/3#v7)**  *[[75:29](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=4529s)]*
 
 > <sup>[7](/bible/amos/3#v7)</sup> Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.
 
 - Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets. The prophets only come through Israel. Muhammad was not a prophet, and the Most High showed him nothing.
 
-**[Psalms 147:19-20](/bible/psalms/147#v19)**  *[76:10]*
+**[Psalms 147:19-20](/bible/psalms/147#v19)**  *[[76:10](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=4570s)]*
 
 > <sup>[19](/bible/psalms/147#v19)</sup> He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
 >
@@ -174,13 +174,13 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - He sheweth his word unto Jacob, his statutes and his judgments unto Israel. He hath not dealt so with any nation; and as for his judgments, they have not known them. So how do the Arabs know what is clean and what is unclean, what is halal and what is haram? Because they rehearse; the word Quran means to rehearse or recite. What are they reciting? What the Lord showed us. When you look at Islam, a lot of what they follow is written in the Bible.
 - What books do you have to prove you are an Ishmaelite, that you descend from Ishmael? You use the Bible. Nobody was around when Abraham did what he did; the only way anyone knows about Abraham and Ishmael is because the Most High showed it to Moses in a vision and Moses recorded it. The Arabs have no records of their own about Ishmael and Moses going all the way back; a religion that came 600 years after Christ learned who they are from us. That is how you know the Bible is a true book: even Ishmael needed it to identify who he is. They read the Bible, copied a lot from it and formed their own religion. They did nothing different from the white man, who formed his own religion using the letters of Paul.
 
-**[Joel 2:27](/bible/joel/2#v27)**  *[79:38]*
+**[Joel 2:27](/bible/joel/2#v27)**  *[[79:38](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=4778s)]*
 
 > <sup>[27](/bible/joel/2#v27)</sup> And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and none else: and my people shall never be ashamed.
 
 - Ye shall know that I am in the midst of Israel, and that I am the Lord your God, and none else. Your God is possessive: I am your God, and nobody else's God; not the Ishmaelites' God, not the Moabites' God, not Edom's God. Why does the Lord have to say that? Because everybody says the Most High is dealing with them: Ishmael saying Allahu akbar, and those Caucasians in the land of Israel saying Hashem gave them the land. But the day is coming when it will be known that the Most High is our God and none else. Big up Detroit in the building.
 
-**[Acts 16:16-18](/bible/acts/16#v16)**  *[82:22]*
+**[Acts 16:16-18](/bible/acts/16#v16)**  *[[82:22](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=4942s)]*
 
 > <sup>[16](/bible/acts/16#v16)</sup> And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
 >
@@ -191,13 +191,13 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - Muhammad said an angel came and gave him the revelation of the Quran. Remember the scripture said we sacrificed unto devils. Now watch: a certain damsel possessed with a spirit of divination, which brought her masters much gain by soothsaying. She was a witch; the same way Balaam had the spirit of divination and could see things in the future, this woman had a devil on her and could see things. The demon in her followed Paul and cried, These men are the servants of the most high God, which shew unto us the way of salvation. The demons in her knew who they were.
 - Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her; and he came out the same hour. What did Paul rebuke? The spirit. There are evil spirits that have these kinds of powers, to certain limits. Muhammad claimed to have revelations; I would not be surprised if evil spirits were dealing with him. Not just the white man has the spirit of a devil. Remember the scripture: if an angel or anybody tells you anything different, do not listen, because it could be the Lord proving you; and if they tell you something and it comes to pass, still do not follow them, because the Lord is proving you to see whether you will trust in him or in that devil.
 
-**[Job 12:16](/bible/job/12#v16)**  *[86:30]*
+**[Job 12:16](/bible/job/12#v16)**  *[[86:30](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=5190s)]*
 
 > <sup>[16](/bible/job/12#v16)</sup> With him is strength and wisdom: the deceived and the deceiver are his.
 
 - With him is strength and wisdom; the deceived and the deceiver are his. The people you see deceiving belong to the Lord, and the people that are deceived belong to the Lord too. Islam, the deceiver, came on the earth in the seventh century and started deceiving the world. Who allowed that to happen? The Lord. I am going to show you why the Lord allowed that religion to be created; everything goes hand in hand with his prophecies and what has to take place.
 
-**[Genesis 21:9-21](/bible/genesis/21#v9)**  *[87:13]*
+**[Genesis 21:9-21](/bible/genesis/21#v9)**  *[[87:13](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=5233s)]*
 
 > <sup>[9](/bible/genesis/21#v9)</sup> And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.
 >
@@ -230,7 +230,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - Abraham rose up early, took bread and a bottle of water, gave it to Hagar, and sent her away with the child. That is important, because the Arabs love to talk about Abraham, we are descendants of Abraham, the Abrahamic religions. Abraham gave you a bottle of water and some bread and sent you away.
 - She wandered in the wilderness of Beersheba, the water was spent, she cast the child under a shrub and sat a bow shot away and wept. God heard the voice of the lad, and the angel said, Fear not; arise, lift up the lad, for I will make him a great nation. God opened her eyes and she saw a well of water. And God was with the lad, and he grew, and dwelt in the wilderness, and became an archer. God was with Ishmael. The wilderness is the desert. An archer is a warrior; Ishmael was a warrior. He dwelt in the wilderness of Paran, over by Sinai, not far from Egypt, and his mother took him a wife out of the land of Egypt.
 
-**[Genesis 16:8-12](/bible/genesis/16#v8)**  *[93:25]*
+**[Genesis 16:8-12](/bible/genesis/16#v8)**  *[[93:25](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=5605s)]*
 
 > <sup>[8](/bible/genesis/16#v8)</sup> And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.
 >
@@ -246,7 +246,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 - This is before chapter 21, while the child was still in her womb: thou shalt bear a son, and shalt call his name Ishmael, because the Lord hath heard thy affliction. Ishmael means affliction heard, and his name is important to future prophecy.
 - And he will be a wild man; his hand will be against every man, and every man's hand against him. Why? Because he was a warrior, skillful with the bow. That happened back then, but it is also prophetic; it is future prophecy concerning Ishmael, concerning the Arabs. And he shall dwell in the presence of all his brethren.
 
-**[Genesis 25:12-16](/bible/genesis/25#v12)**  *[96:09]*
+**[Genesis 25:12-16](/bible/genesis/25#v12)**  *[[96:09](https://www.youtube.com/watch?v=Dkl9wrJtETw&t=5769s)]*
 
 > <sup>[12](/bible/genesis/25#v12)</sup> Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:
 >
@@ -382,4 +382,4 @@ Clips played: the strikes on Lebanon after the ceasefire; the president on Iran;
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-11-armageddon-islam-and-the-armies-of-the-east)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=Dkl9wrJtETw)

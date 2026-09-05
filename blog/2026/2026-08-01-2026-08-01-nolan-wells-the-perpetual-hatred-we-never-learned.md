@@ -688,4 +688,4 @@ Books and materials read in class:
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-01-nolan-wells-the-perpetual-hatred-we-never-learned)
+[Class Notes Index](/classes)

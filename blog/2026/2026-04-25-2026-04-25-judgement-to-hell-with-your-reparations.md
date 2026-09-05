@@ -32,13 +32,13 @@ Video played in class: the United Nations has officially declared that the trans
 
 ## Scriptures Opened
 
-**[Genesis 49:1](/bible/genesis/49#v1)**  *[8:33]*
+**[Genesis 49:1](/bible/genesis/49#v1)**  *[[8:33](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=513s)]*
 
 > <sup>[1](/bible/genesis/49#v1)</sup> And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 
 - Jacob called unto his sons to tell them that which shall befall them in the last days. What time are we living in? The last days. Our forefather Israel was a prophet, and the Lord showed him what's going to happen to his twelve sons, the twelve tribes of Israel, in the last days.
 
-**[Genesis 49:5-9](/bible/genesis/49#v5)**  *[9:24]*
+**[Genesis 49:5-9](/bible/genesis/49#v5)**  *[[9:24](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=564s)]*
 
 > <sup>[5](/bible/genesis/49#v5)</sup> Simeon and Levi are brethren; instruments of cruelty are in their habitations.
 >
@@ -61,19 +61,19 @@ Video played in class: the United Nations has officially declared that the trans
 
     Deliver thyself, O Zion, that dwellest with the daughter of Babylon. Zion is the city of Judah, and the daughter of Babylon, when you read Psalms 137, is Edom. So Judah will be dwelling with Edom, living with his enemy.
 
-**[Genesis 49:13](/bible/genesis/49#v13)**  *[14:14]*
+**[Genesis 49:13](/bible/genesis/49#v13)**  *[[14:14](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=854s)]*
 
 > <sup>[13](/bible/genesis/49#v13)</sup> Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon.
 
 - Zebulun shall dwell at the haven of the sea, and he shall be for an haven of ships: that's talking about Panama, the Panama Canal. When you read 2 Esdras 13, the ten tribes came over to this side of the world; this identifies them.
 
-**[Genesis 49:19](/bible/genesis/49#v19)**  *[15:23]*
+**[Genesis 49:19](/bible/genesis/49#v19)**  *[[15:23](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=923s)]*
 
 > <sup>[19](/bible/genesis/49#v19)</sup> Gad, a troop shall overcome him: but he shall overcome at the last.
 
 - Gad, a troop shall overcome him: Gad is the so-called North American Indians. Which troop overcame him? The US cavalry, led by Andrew Jackson.
 
-**[Genesis 49:22-24](/bible/genesis/49#v22)**  *[16:13]*
+**[Genesis 49:22-24](/bible/genesis/49#v22)**  *[[16:13](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=973s)]*
 
 > <sup>[22](/bible/genesis/49#v22)</sup> Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:
 >
@@ -85,13 +85,13 @@ Video played in class: the United Nations has officially declared that the trans
 - The archers have sorely grieved him, and shot at him, and hated him: but his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob.
 - Genesis 49 is talking about the Western Hemisphere: Israel that's going to be living on this side of the world, brought here on cargo slave ships and oppressed by the king of Babylon. Israel is not just on this side of the world; Israel is all over the world. But the Lord put emphasis on this side, because Judah needed to know who they were first, and then go unto his people.
 
-**[Isaiah 14:13](/bible/isaiah/14#v13)**  *[18:28]*
+**[Isaiah 14:13](/bible/isaiah/14#v13)**  *[[18:28](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=1108s)]*
 
 > <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
 
 - The king of Babylon, America, said in his heart, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north. The mount of the congregation is the twelve tribes of Israel, and he sits upon us in the sides of the north.
 
-**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[20:25]*
+**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[[20:25](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=1225s)]*
 
 > <sup>[7](/bible/deuteronomy/33#v7)</sup> And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
 
@@ -106,7 +106,7 @@ Video played in class: the United Nations has officially declared that the trans
 
     The Lord also shall save the tents of Judah first: God is going to raise up the tribe of Judah first, Judah in America, and then Judah will know where God's people is and go find them.
 
-**[Luke 21:24](/bible/luke/21#v24)**  *[36:28]*
+**[Luke 21:24](/bible/luke/21#v24)**  *[[36:28](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=2188s)]*
 
 > <sup>[24](/bible/luke/21#v24)</sup> And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
 
@@ -127,13 +127,13 @@ Video played in class: the United Nations has officially declared that the trans
 
     Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. Christ told the Samaritan woman the Israelites would not be worshipping in Jerusalem and not in Samaria: he's saying what we read in Luke 21, that we would be carried away as slaves into all nations.
 
-**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[45:50]*
+**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[45:50](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=2750s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 
 - A lot of times when we read Deuteronomy 28 we leave it on our own experience: we came here on cargo slave ships. But we got to learn to bring it out on a broad experience, because the curses follow us wherever we are: the brothers on this side of the world, on that side of the world, on any side of the world.
 
-**[Deuteronomy 28:46](/bible/deuteronomy/28#v46)**  *[47:52]*
+**[Deuteronomy 28:46](/bible/deuteronomy/28#v46)**  *[[47:52](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=2872s)]*
 
 > <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 
@@ -145,7 +145,7 @@ Video played in class: the United Nations has officially declared that the trans
 
     I said, I would scatter them into corners, I would make the remembrance of them to cease from among men. The remembrance of who we are has ceased from amongst men. We didn't just forget; the nations made war with us and used crafty counsel: make sure them slaves cannot read and write. Ask a man today who the Israelites are and he points at the synagogue of Satan. Yet in Africa today there are millions professing they are the Israelites; just in Nigeria there is an Israelite community of millions, and they always knew.
 
-**[Deuteronomy 28:42-48](/bible/deuteronomy/28#v42)**  *[54:04]*
+**[Deuteronomy 28:42-48](/bible/deuteronomy/28#v42)**  *[[54:04](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=3244s)]*
 
 > <sup>[42](/bible/deuteronomy/28#v42)</sup> All thy trees and fruit of thy land shall the locust consume.
 >
@@ -168,21 +168,21 @@ Video played in class: the United Nations has officially declared that the trans
 - Video played in class: Thomas Sankara explaining why he refused food aid: it keeps us in a beggar mentality, and it stops our farmers from producing; those who really want to help can send plows, tractors, and boreholes, not bags of wheat. They killed him; his best friend was paid to do it. Africa and the Caribbean depend on America for food because that's the deal the IMF makes: we'll lend you billions, but you can't grow your own food; you buy it from our farmers. That's control: disagree, and they shut off your food supply.
 - And he shall put a yoke of iron upon thy neck, until he have destroyed thee: they didn't just take millions of us to the Western Hemisphere; they went into Africa and enslaved the ones that remained. Colonization is slavery. Don't get confused by the terminology. When King Leopold colonized the Congo, he enslaved us.
 
-**[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[1:12:15]*
+**[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[1:12:15](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=4335s)]*
 
 > <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
 
 - Thy sons and thy daughters shall be given unto another people: when King Leopold came, record read in class of the forced rubber quotas in the Congo and the mutilation of those who fell short; the curses followed our sons and daughters into colonization, and there was no might in thine hand to get them back.
 - The same sons and daughters left in Africa were colonized, taught Christianity, enslaved. Why do you think everybody in Africa worships white Jesus? You think one day they got up and chose that? The same thing they did to us on this side of the world in slavery, they did to our people in Africa. They always want to say black people sold black people into slavery: don't let them fool you. Slavery was big business; the white man caused division amongst the tribes, armed them against each other, and took the prisoners of war. And who colonized Africa?
 
-**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[1:15:40]*
+**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[[1:15:40](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=4540s)]*
 
 > <sup>[36](/bible/deuteronomy/28#v36)</sup> The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.
 
 - The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known. The king whom the Lord chose was David and David's seed; after Babylon, no king from David's lineage was ever raised up again. So when did we set kings over us? In Africa, and on this side of the world: the chiefs of North America, the kings of Puerto Rico and Guatemala, the kings of Africa. Image shown in class: the king Atahualpa, whom the colonizers killed while forcing Christianity, one of the bloodiest religions, on our people.
 - And there shalt thou serve other gods, wood and stone: that's where Christianity and Islam come in; the Lord saw us following the religions forced on us.
 
-**[Hosea 3:4](/bible/hosea/3#v4)**  *[1:19:16]*
+**[Hosea 3:4](/bible/hosea/3#v4)**  *[[1:19:16](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=4756s)]*
 
 > <sup>[4](/bible/hosea/3#v4)</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
 
@@ -205,13 +205,13 @@ Video played in class: the United Nations has officially declared that the trans
 
 - Video played in class: a history of British rule in Kenya and the Mau Mau uprising of 1952, one line for the record: the detention camps, the torture of detainees, the burned files rediscovered in 2011, and Britain's 2013 admission, paying 20 million pounds to 5,228 survivors, less than 4,000 pounds each, with not a single officer ever charged. That's why I tell y'all I don't want no damn reparations. You can do things like that to my people and then talk about you're holding this money right here?
 
-**[Isaiah 11:11](/bible/isaiah/11#v11)**  *[1:35:27]*
+**[Isaiah 11:11](/bible/isaiah/11#v11)**  *[[1:35:27](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=5727s)]*
 
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 
 - The Lord shall set his hand again the second time to recover the remnant of his people: from Assyria, from Egypt, from Pathros, which is upper Egypt, from Cush, which is Ethiopia, from Elam, from Shinar, which is Babylon, Iraq, from Hamath, and from the islands of the sea, the Pacific islands and the Caribbean islands. We have people in all these places, and Judah is going to find them.
 
-**[Romans 10:14-15](/bible/romans/10#v14)**  *[1:37:10]*
+**[Romans 10:14-15](/bible/romans/10#v14)**  *[[1:37:10](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=5830s)]*
 
 > <sup>[14](/bible/romans/10#v14)</sup> How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
 >
@@ -219,7 +219,7 @@ Video played in class: the United Nations has officially declared that the trans
 
 - How shall they believe in him of whom they have not heard? And how shall they hear without a preacher? And how shall they preach, except they be sent? The only way the brothers and sisters in all these places are going to come is if they are taught. You got to be sent; that's the mission. We're not going to reach every place on this earth, and the Lord will have mercy on some, but our job is to find the elect and teach them and show them how to change their life. Even where we have a small congregation, like in India, we still have to go there like Paul visited congregations, and build the brothers up.
 
-**[Matthew 12:25](/bible/matthew/12#v25)**  *[1:39:42]*
+**[Matthew 12:25](/bible/matthew/12#v25)**  *[[1:39:42](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=5982s)]*
 
 > <sup>[25](/bible/matthew/12#v25)</sup> And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:
 
@@ -230,7 +230,7 @@ Video played in class: the United Nations has officially declared that the trans
 - Video played in class: Ghana's kingdoms almost ended Dutch slavery in 1760, when Ashanti warriors, Fante chiefs, and coastal leaders launched a coordinated attack on every Dutch fort from Elmina to Anomabu; the Dutch feared their enslaved Ghanaians in Suriname would rise next. So don't let people fool you that black people simply sold black people: when they found out what the white man was doing, they fought. But remember, God said the holy people were to be taken.
 - Video played in class: after World War II, exploitation of African minerals was actually a bigger funder of the European Recovery Plan, the Marshall Plan, than America's $13 billion. If Africa contributed that much to Europe's recovery, why wasn't Africa equally developed? Africa does not need aid; it needs those exploiting it to stop. The reason why is Deuteronomy 28: a lot of our people are in Africa, so the curses follow them.
 
-**[Isaiah 3:5](/bible/isaiah/3#v5)**  *[2:07:32]*
+**[Isaiah 3:5](/bible/isaiah/3#v5)**  *[[2:07:32](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=7652s)]*
 
 > <sup>[5](/bible/isaiah/3#v5)</sup> And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.
 
@@ -240,50 +240,50 @@ Video played in class: the United Nations has officially declared that the trans
 - Video played in class on what colonialism does to a colonized people: it doesn't just steal their land; it robs them of self-confidence, until they internalize the colonizer's view that they're worth nothing and their history is minor. South Africa came out of apartheid barely a generation ago; to see them treat their fellow people like that is self-hatred, and it stems from colonialism. It's no different from black on black crime: brothers that will hurt a man for stepping on their shoes but never say a word to the oppressor.
 - News played in class: a South African court sentenced an outspoken opposition leader to five years in prison, on charges brought by AfriForum, an organization of Afrikaners, descendants of the Dutch, French, and German colonizers, that presents itself as a civil rights organization while existing to protect the economic inequality apartheid formalized. When the people of South Africa rise up angry about jobs and money, they're directing it at the wrong people.
 
-**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[2:08:05]*
+**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[2:08:05](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=7685s)]*
 
 > <sup>[7](/bible/ecclesiastes/7#v7)</sup> Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 
 - Surely oppression maketh a wise man mad. When you're being oppressed, it makes you mad; but you got to direct that anger in the right place, and the right place is the colonizer.
 
-**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[2:31:19]*
+**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[2:31:19](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9079s)]*
 
 > <sup>[22](/bible/isaiah/42#v22)</sup> But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 
 - This is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore. What does reparation mean? To restore. No one says: restore these people their land, their resources, the culture that you stole. What is our true culture? We are the children of Israel. They stole our culture, and nobody says restore.
 
-**[Deuteronomy 28:31](/bible/deuteronomy/28#v31)**  *[2:32:19]*
+**[Deuteronomy 28:31](/bible/deuteronomy/28#v31)**  *[[2:32:19](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9139s)]*
 
 > <sup>[31](/bible/deuteronomy/28#v31)</sup> Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them.
 
 - Thine ass shall be violently taken away from before thy face, and shall not be restored to thee: when the white man came and conquered, the Bible said it's not going to be restored. The white man ain't restoring nothing to us.
 - Article read in class: the major European powers compensated the slave owners, not the enslaved. The UK paid 20 million pounds, roughly 26 billion dollars today, to 46,000 owners in 1833; France compensated owners in 1849, concentrated among the top ten percent. When Haiti won independence, Haiti had to pay reparations to France, billions, and only finished paying in living memory. And in America, the compensation act gave $300 per slave to slave owners. The people that were enslaved can't get reparations, but the slave master got compensated for his merchandise. That's the world we're living in.
 
-**[Exodus 22:1](/bible/exodus/22#v1)**  *[2:35:14]*
+**[Exodus 22:1](/bible/exodus/22#v1)**  *[[2:35:14](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9314s)]*
 
 > <sup>[1](/bible/exodus/22#v1)</sup> If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
 
 - If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox: according to the law, if you steal, you restore five times what it's worth. That's the law.
 
-**[Lamentations 2:13](/bible/lamentations/2#v13)**  *[2:35:36]*
+**[Lamentations 2:13](/bible/lamentations/2#v13)**  *[[2:35:36](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9336s)]*
 
 > <sup>[13](/bible/lamentations/2#v13)</sup> What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?
 
 - What thing shall I take to witness for thee? What shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? For thy breach is great like the sea: who can heal thee? You can't equal anything to what we went through. Slavery, the transatlantic slave trade, was the worst crime in history, and only the Most High God can heal us from what it did to us.
 
-**[Daniel 9:12](/bible/daniel/9#v12)**  *[2:36:30]*
+**[Daniel 9:12](/bible/daniel/9#v12)**  *[[2:36:30](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9390s)]*
 
 > <sup>[12](/bible/daniel/9#v12)</sup> And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.
 
 - He hath confirmed his words by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem. What happened to us didn't happen to nobody else on this earth. So yes, slavery is the worst thing that ever happened: slavery and colonialism, cuz colonialism is slavery.
 
-**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[2:37:19]*
+**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[[2:37:19](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9439s)]*
 
 > <sup>[7](/bible/jeremiah/50#v7)</sup> All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
 
 - All that found them have devoured them: and their adversaries said, We offend not. All nations have devoured us, and they say: we did nothing wrong, that was in the past. Because they have sinned against the Lord: they excuse it because we sinned against the Lord.
 
-**[Isaiah 9:7](/bible/isaiah/9#v7)**  *[2:38:08]*
+**[Isaiah 9:7](/bible/isaiah/9#v7)**  *[[2:38:08](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9488s)]*
 
 > <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
 
@@ -291,7 +291,7 @@ Video played in class: the United Nations has officially declared that the trans
 - It's like somebody harms your daughter and offers you $5 million. I don't want your $5 million; I want justice. According to the law, that carries death. Anybody that takes the money instead is among the lowest people on this earth. For slavery, I want justice and judgment from my God.
 - Video played in class: a so-called foundational black American arguing reparations should be strictly for descendants of freedmen, because others are black when it's convenient. At least Ghana is trying to involve everyone; when you're narrow-minded like that, you only think about yourself. And let me tell you all something: I don't want no damn reparations. I want justice. Keep your money.
 
-**[Jeremiah 23:5-6](/bible/jeremiah/23#v5)**  *[2:40:36]*
+**[Jeremiah 23:5-6](/bible/jeremiah/23#v5)**  *[[2:40:36](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9636s)]*
 
 > <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
 >
@@ -299,25 +299,25 @@ Video played in class: the United Nations has officially declared that the trans
 
 - Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch: that king is Christ. And shall execute judgment and justice in the earth: all the wickedness, slavery, all of it, will be answered when Christ returns. In his days Judah shall be saved.
 
-**[Exodus 21:16](/bible/exodus/21#v16)**  *[2:41:37]*
+**[Exodus 21:16](/bible/exodus/21#v16)**  *[[2:41:37](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9697s)]*
 
 > <sup>[16](/bible/exodus/21#v16)</sup> And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.
 
 - He that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death. That's judgment and justice. Weren't we stolen from Africa and brought to America, the Caribbean islands, and Britain? Are we still in these lands? Then what is the judgment for that?
 
-**[Zechariah 5:4](/bible/zechariah/5#v4)**  *[2:42:29]*
+**[Zechariah 5:4](/bible/zechariah/5#v4)**  *[[2:42:29](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9749s)]*
 
 > <sup>[4](/bible/zechariah/5#v4)</sup> I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 
 - I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief: the house of the thief is those that stole us and brought us here as slaves, those that steal lands and countries. It's talking about America; it's talking about Edom. The Lord's chariots, what you all call UFOs seen in these lands, are a curse: it shall remain in the midst of his house, and shall consume it.
 
-**[Obadiah 1:15](/bible/obadiah/1#v15)**  *[2:43:34]*
+**[Obadiah 1:15](/bible/obadiah/1#v15)**  *[[2:43:34](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9814s)]*
 
 > <sup>[15](/bible/obadiah/1#v15)</sup> For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
 
 - For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee; thy reward shall return upon thine own head. That's justice; that's judgment. As the nations did to us, God says it shall be done unto them. What is their reward? What they did to us.
 
-**[Psalms 58:10-11](/bible/psalms/58#v10)**  *[2:44:39]*
+**[Psalms 58:10-11](/bible/psalms/58#v10)**  *[[2:44:39](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9879s)]*
 
 > <sup>[10](/bible/psalms/58#v10)</sup> The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
 >
@@ -326,7 +326,7 @@ Video played in class: the United Nations has officially declared that the trans
 - The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked. You brothers and sisters that want vengeance for slavery, talking about reparations: to hell with their paper money. Who are the wicked? The people that robbed, stole, and murdered us.
 - So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth. That's our reward: the Lord is going to bring judgment on this earth.
 
-**[Revelation 13:9-10](/bible/revelation/13#v9)**  *[2:47:27]*
+**[Revelation 13:9-10](/bible/revelation/13#v9)**  *[[2:47:27](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=10047s)]*
 
 > <sup>[9](/bible/revelation/13#v9)</sup> If any man have an ear, let him hear.
 >
@@ -341,7 +341,7 @@ Video played in class: the United Nations has officially declared that the trans
 
     And it was given unto him to make war with the saints, and to overcome them. What you all got to understand: slavery was war. Colonization was war. The judgment of verses 9 and 10 answers the war of verse 7.
 
-**[Psalms 149:7-9](/bible/psalms/149#v7)**  *[2:48:38]*
+**[Psalms 149:7-9](/bible/psalms/149#v7)**  *[[2:48:38](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=10118s)]*
 
 > <sup>[7](/bible/psalms/149#v7)</sup> To execute vengeance upon the heathen, and punishments upon the people;
 >
@@ -364,4 +364,4 @@ Media referenced in class: the UN resolution coverage of March 25, 2026 and the 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-25-judgement-to-hell-with-your-reparations)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=vJ3j9kchmtI)

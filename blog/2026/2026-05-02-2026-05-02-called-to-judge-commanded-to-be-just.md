@@ -22,7 +22,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
 ## Scriptures Opened
 
-**[Deuteronomy 1:12-17](/bible/deuteronomy/1#v12)**  *[12:16]*
+**[Deuteronomy 1:12-17](/bible/deuteronomy/1#v12)**  *[[12:16](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=736s)]*
 
 > <sup>[12](/bible/deuteronomy/1#v12)</sup> How can I myself alone bear your cumbrance, and your burden, and your strife?
 >
@@ -68,7 +68,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
     We always hear thou shalt not kill, thou shalt not steal; we know those like the back of our hand. But it says if you have respect to persons, you commit sin, and are convinced of the law as transgressors. You are breaking the commandments of God. You want the position, but there is much required from you in the position as judges. You must judge righteous judgment, whether it's your friend or not. You're in a position of leadership: you cannot conceal your friend's folly. What we've been discovering is that because someone is your friend, you don't want to reveal the sin, per Leviticus 5:1, and neither do you want to be a part of the judgment once the sin is revealed; you sit there quiet while the others bring out the transgressions, because you don't agree with the judgment that God says to bring forth. We have to stand on what God said. Anyone that you consider a friend goes against God and doesn't repent: I never knew you. Give us a little bit of time, we won't even remember your name, because you chose wickedness over the righteousness of God.
 
-**[Acts 13:2-4](/bible/acts/13#v2)**  *[44:16]*
+**[Acts 13:2-4](/bible/acts/13#v2)**  *[[44:16](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=2656s)]*
 
 > <sup>[2](/bible/acts/13#v2)</sup> As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.
 >
@@ -88,7 +88,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
     And the Lord shall scatter you among the nations. Not in America, not in Florida: among the nations, and ye shall be left few in number among the heathen. You know what that scripture is saying? No matter where you go, you're going to see Israelites. Pictures shown in class: Captain Joham just came from Trinidad and Suriname for Passover with the brothers.
 
-**[Acts 20:21-24](/bible/acts/20#v21)**  *[50:45]*
+**[Acts 20:21-24](/bible/acts/20#v21)**  *[[50:45](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=3045s)]*
 
 > <sup>[21](/bible/acts/20#v21)</sup> Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
 >
@@ -106,7 +106,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Brothers and sisters here don't understand what it feels like not to have running water, where water just drips and you got to wash your hands with that. America has spoiled us, made us very comfortable in captivity, where you don't want to do anything: you want to stay in Atlanta, New York, DC, nice and comfy, and just be an officer here. But that's what you signed up for. You signed up to do this work. If you don't want to do it, give back your rank and just sit down and be a brother. But don't fake it like you're about the work and then, when it comes down to it, you're not.
 - In Liberia, on the way to a radio show, we saw a young girl, maybe 10 or 11, washing clothes by hand in a pot on a Sunday: washing her little brother's uniform to prepare for school on Monday. When we came out, she was giving her kid brothers a bath in a bucket. Some of you walk into a store and buy deodorant; some of our brothers and sisters have to choose between deodorant and food. I am not saying that to degrade our brothers and sisters on the continent; I'm showing you that you should wake up every day and thank the Lord for where you're at. And some of you cannot even do that. What do you do? Complain, complain, complain. God hates a complainer. You complain about everything; you come here, you're still complaining.
 
-**[Ecclesiasticus 34:9-11](/bible/sirach/34#v9)**  *[1:00:59]*
+**[Ecclesiasticus 34:9-11](/bible/sirach/34#v9)**  *[[1:00:59](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=3659s)]*
 
 > <sup>[9](/bible/sirach/34#v9)</sup> A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom.
 >
@@ -121,7 +121,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Captain's testimony: watching how Bishop dealt with the local leaders, the municipal leaders, even the brother from the transit terminal who came riled up about us teaching there, and how Bishop quenched that spirit with wisdom, not degrading anybody or looking down on them. I'm sitting there in awe, like a student, learning from these men of wisdom. If you brothers don't go anywhere, you're missing out. And I had the honor to travel with two bishops this year, to Sierra Leone and again for Passover. Watching Bishop stand in the scriptures with that passion, not wanting you to miss anything: those are things you cannot put a price on.
 - Captains, this is for y'all: when brothers travel with you and act like they're better than the locals, don't travel with them again, because they make us look bad. You might have a little bit more, but that doesn't mean you're better than them, and it doesn't give you the right to look down on them. That's an evil spirit, a demonic spirit. At the end of the day, those are your brothers and your sisters: treat them with respect. They have the ultimate respect for you because you come from the States; do not look down on them because they don't have what you have. The Most High can change that just like that. And talk to your wife, because your wife is a reflection of you: a wife who goes over there disrespecting sisters creates a name that you leave behind.
 
-**[Revelation 3:7-8](/bible/revelation/3#v7)**  *[1:09:10]*
+**[Revelation 3:7-8](/bible/revelation/3#v7)**  *[[1:09:10](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4150s)]*
 
 > <sup>[7](/bible/revelation/3#v7)</sup> And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
 >
@@ -132,7 +132,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - There's a way you have to carry yourself. Same way you cannot leave your house with wrinkled clothes: as a judge, there's a certain way you got to look. When Obama was president, he said in an interview that he never went into the Oval Office without a suit on, because that's the highest office. We are in the Most High God's army. Do not leave the house with wrinkled pants. Some of you, your purple shirt is turning white and you're still wearing it; your black pants are not black anymore; your shoes are dirty. If you do not respect yourself, do not expect the man sitting next to you to respect you. Respect is not given; respect is earned.
 - Sisters, same thing: some sisters look real good leaving the house, but their kids look horrible, wrinkled clothes, hair undone. That's showing what type of mother she is. And when somebody says something: he's disrespecting my kid. No. Do better, because we know you can do better. Same thing with the brothers: do better. All of this is part of being a judge.
 
-**[Amos 3:3-4](/bible/amos/3#v3)**  *[1:13:19]*
+**[Amos 3:3-4](/bible/amos/3#v3)**  *[[1:13:19](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4399s)]*
 
 > <sup>[3](/bible/amos/3#v3)</sup> Can two walk together, except they be agreed?
 >
@@ -141,32 +141,32 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Can two walk together, except they be agreed? Same mind, same spirit. When we travel, we must agree; all of us that's traveling must be in the same spirit. Stay in the spirit.
 - Don't go to these countries and start bugging out. You're going to lose your rank: you're going to walk in there as an officer and come back as a member, and we're going to make sure you got regular clothes on. We are not going to allow you to leave here, go over there, and destroy brothers and sisters.
 
-**[Deuteronomy 16:18](/bible/deuteronomy/16#v18)**  *[1:14:26]*
+**[Deuteronomy 16:18](/bible/deuteronomy/16#v18)**  *[[1:14:26](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4466s)]*
 
 > <sup>[18](/bible/deuteronomy/16#v18)</sup> Judges and officers shalt thou make thee in all thy gates, which the Lord thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.
 
 - Judges and officers shalt thou make thee in all thy gates, which the Lord thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment. With just judgment.
 
-**[Deuteronomy 19:15](/bible/deuteronomy/19#v15)**  *[1:15:11]*
+**[Deuteronomy 19:15](/bible/deuteronomy/19#v15)**  *[[1:15:11](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4511s)]*
 
 > <sup>[15](/bible/deuteronomy/19#v15)</sup> One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
 
 - One witness shall not rise up against a man for any iniquity or for any sin. At the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
 - You understand what a witness is. There must be a witness; don't just take a man's word for it. Oh, I know he's your friend; don't just take his word for it. Our people lie, and always add to what happened to make themselves feel better. As a judge, you cannot be like that. Two or three witnesses: let the matter be established.
 
-**[1 Corinthians 14:29](/bible/1-corinthians/14#v29)**  *[1:16:52]*
+**[1 Corinthians 14:29](/bible/1-corinthians/14#v29)**  *[[1:16:52](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4612s)]*
 
 > <sup>[29](/bible/1-corinthians/14#v29)</sup> Let the prophets speak two or three, and let the other judge.
 
 - Let the prophets speak two or three, and let the other judge. You know what that's saying? Do not talk over each other. Wait your turn, then talk. That's how you judge matters.
 
-**[1 Corinthians 1:10](/bible/1-corinthians/1#v10)**  *[1:17:37]*
+**[1 Corinthians 1:10](/bible/1-corinthians/1#v10)**  *[[1:17:37](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4657s)]*
 
 > <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
 
 - Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you. Leaders must speak the same thing. No division among us.
 
-**[Titus 3:9-11](/bible/titus/3#v9)**  *[1:18:16]*
+**[Titus 3:9-11](/bible/titus/3#v9)**  *[[1:18:16](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4696s)]*
 
 > <sup>[9](/bible/titus/3#v9)</sup> But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.
 >
@@ -178,7 +178,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - It's nothing personal. Everybody is not going to agree with you. Yes, some people are going to curse you out and call you names. Nothing personal. You are there to do a job: do the job and leave. Teach the scriptures and stay in the scriptures. Keep your emotion out of the Bible; keep your personal opinion out of the word of God. Trust me, God doesn't care about your opinion.
 - A man that is an heretick after the first and second admonition reject. Don't argue back and forth: reject. Once you put the law down and they don't want to hear it, that's it; you got to go. Knowing that he that is such is subverted, and sinneth, being condemned of himself.
 
-**[Ecclesiastes 5:1](/bible/ecclesiastes/5#v1)**  *[1:20:53]*
+**[Ecclesiastes 5:1](/bible/ecclesiastes/5#v1)**  *[[1:20:53](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=4853s)]*
 
 > <sup>[1](/bible/ecclesiastes/5#v1)</sup> Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 
@@ -187,7 +187,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - That's why Christ said you must come as little children. Little children are ready to learn; you can teach little children anything. How does the saying go? It is easier to raise strong children than to repair broken men. And let me tell you, some of us are broken. We are a broken people.
 - A word to the young sisters: there are consequences for everything you do in life. Do not think you can go out there and do certain things and it's not going to come back later. And understand what wins a man: it is not the degree, the career, or the money; men care about respect and loyalty. Guard yourself accordingly.
 
-**[James 1:5](/bible/james/1#v5)**  *[1:27:16]*
+**[James 1:5](/bible/james/1#v5)**  *[[1:27:16](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=5236s)]*
 
 > <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
@@ -195,20 +195,20 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - The greatest judge that ever walked the earth was King Solomon. What did he do? He prayed to the Most High for wisdom. He didn't ask for riches; he asked for wisdom and understanding to judge the people. The Most High said, since you did not ask me for riches, I'm going to bless you with riches too, and he became the richest man on earth. The wisdom he wanted did not come from men; it came from the Most High, and that's the greatest wisdom. No man can give it to you.
 - When you judge as a judge, pray for the Most High to give you that wisdom, that you may judge justly and righteously. Without that wisdom you will not be able to be a righteous judge.
 
-**[Proverbs 4:7](/bible/proverbs/4#v7)**  *[1:29:06]*
+**[Proverbs 4:7](/bible/proverbs/4#v7)**  *[[1:29:06](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=5346s)]*
 
 > <sup>[7](/bible/proverbs/4#v7)</sup> Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.
 
 - Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding. Some of you got wisdom, but you have no understanding. What is the purpose of all this great wisdom with no understanding?
 - You know how I know some of you have no understanding? As soon as judgment comes, everybody hates you. You know the scriptures, precept upon precept, but as soon as judgment comes, you forget all the precepts you know. That means you have no understanding.
 
-**[Colossians 4:5](/bible/colossians/4#v5)**  *[1:30:07]*
+**[Colossians 4:5](/bible/colossians/4#v5)**  *[[1:30:07](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=5407s)]*
 
 > <sup>[5](/bible/colossians/4#v5)</sup> Walk in wisdom toward them that are without, redeeming the time.
 
 - Walk in wisdom toward them that are without. You must be an example not only here; you must be an example outside. Think about it: you say you're an Israelite, the people at your job know you're an Israelite, you got your fringes on, sometimes you talk about the Bible. Then your wicked coworker invites you out to the bar after work and you go, on the new moon, when you should have been preparing. You're too old for this. You got a wife and kids at home. What are you doing? You're destroying your family.
 
-**[Hebrews 5:14](/bible/hebrews/5#v14)**  *[1:33:42]*
+**[Hebrews 5:14](/bible/hebrews/5#v14)**  *[[1:33:42](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=5622s)]*
 
 > <sup>[14](/bible/hebrews/5#v14)</sup> But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
@@ -224,7 +224,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Captain's point: if you're a leader and you don't have men under you coming up, that shows poor leadership skills. On the other side of the world the culture is that the men are extremely bashful; they talk very low. We asked, do you let this brother go out and teach, so he gets familiar with speaking loudly, publicly, with authority? When we did that, the brother was like a whole new man. If every Passover comes and you don't have anybody under you raising up, no man going from brother to soldier or soldier to officer, we're going to look at you, because you're supposed to be raising men up to stand in your stead. God forbid something happens to the officer in that school and nobody is built up: that school will fall unless we send men over there.
 - Video played of a woman executive: as a leader, you don't have to get along with everybody. The job is to lead everybody and not let your bias and your opinion get into it. It shouldn't be emotional. It's okay if you don't like every single person; the job is to respect every single person, and if you're the leader, the job is to grow every single person. If you're the judge, the job is to help every single person grow: in other words, help every single person also become a judge. The job is not to be liked.
 
-**[Isaiah 6:8-10](/bible/isaiah/6#v8)**  *[1:52:10]*
+**[Isaiah 6:8-10](/bible/isaiah/6#v8)**  *[[1:52:10](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=6730s)]*
 
 > <sup>[8](/bible/isaiah/6#v8)</sup> Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.
 >
@@ -235,7 +235,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.
 - And he said, Go, and tell this people. Nowhere in that scripture does it say you were sent to be liked. That's not the job; that's not the mission. You were sent to wake up the people, to tell the people how evil they are, to repent and come back to Messiah. Some of you are here for the wrong reason; some of you want ranking for the wrong reason. Some of you forgot the mission.
 
-**[Acts 18:8-11](/bible/acts/18#v8)**  *[1:53:56]*
+**[Acts 18:8-11](/bible/acts/18#v8)**  *[[1:53:56](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=6836s)]*
 
 > <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 >
@@ -252,7 +252,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - And he continued there a year and six months, teaching the word of God among them. The Lord strengthened him, and he didn't hold back: he taught the commandments of God, he taught Christ. This is the point we're going to get to: missions that are not two weeks or four weeks. The bar is raised, because the diaspora is scattered throughout the four corners of the earth, and who's going to raise them up? Bishop put out the video: there are regions we have not visited yet, congregations with no established sanctuary. We need brothers to go there and teach. We are reading and living the Acts of the Apostles.
 - Picture shown of the school in Tanzania: look at these children lined up; you tell me these are not the children of Israel. You got some camps out here talking about Israelites are only in America. Tanzania and Zanzibar are 99 percent Muslim lands that never heard that Christ was black, never heard that the Israelites are black, never heard that we should keep the commandments of God. And these children came up saying, we got to hear more; where can we go to hear more? They wanted to be strengthened by the word of God.
 
-**[Acts 18:23](/bible/acts/18#v23)**  *[1:58:44]*
+**[Acts 18:23](/bible/acts/18#v23)**  *[[1:58:44](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=7124s)]*
 
 > <sup>[23](/bible/acts/18#v23)</sup> And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples.
 
@@ -260,7 +260,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Do you know how happy the brothers and sisters are in these countries when they see us? It's not money they want. You've been watching Bishop teaching, deacon teaching, captain teaching, and these men show up in your country, in your school, sitting at the same table with you. The joy in their faces. What they want from you is to open the scriptures and strengthen them with the Bible: let them know it's going to be okay, let them know they're not in this alone, let them know that when you leave, you're not going to turn your back on them. All these years they thought, they don't even know we're here. When we show up, that gives them the assurance: they know we're here. We sit, we eat with them, we joke with them, we talk to them face to face, we guide them, we answer their questions.
 - The sisters' circles the mothers held with the sisters overseas: they love that. Those are the sisters they've been looking up to, now sitting there talking with them face to face. Last year a sister said, now I am at peace; I see the men of God, and she started crying nonstop. She said the Most High kept her alive just to see Bishop. Those are things we take for granted.
 
-**[1 Corinthians 14:40](/bible/1-corinthians/14#v40)**  *[2:02:11]*
+**[1 Corinthians 14:40](/bible/1-corinthians/14#v40)**  *[[2:02:11](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=7331s)]*
 
 > <sup>[40](/bible/1-corinthians/14#v40)</sup> Let all things be done decently and in order.
 
@@ -268,14 +268,14 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Let all things be done decently and in order. Don't try to use Acts 18 as, well, I went to go build up the men in a strange land. You're out of order, and it's not going to be tolerated. You may lose your rank; you may have to sit down.
 - From now on: you see how when you visit another camp we do a travel request. Any of you who move to these countries without proper protocol, you will not fellowship with IUIC. You're on your own. Do not show up to a school saying, I'm here to fellowship, I was in Miami; and no phone call came from Miami. You cannot come in. Here in IUIC, we are about order.
 
-**[1 Corinthians 2:14](/bible/1-corinthians/2#v14)**  *[2:04:26]*
+**[1 Corinthians 2:14](/bible/1-corinthians/2#v14)**  *[[2:04:26](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=7466s)]*
 
 > <sup>[14](/bible/1-corinthians/2#v14)</sup> But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
 
 - But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
 - That's the carnal man. He cannot understand this spiritual thing, cannot understand these scriptures. He has no understanding and no wisdom. He cannot be a judge.
 
-**[Galatians 6:1-2](/bible/galatians/6#v1)**  *[2:13:44]*
+**[Galatians 6:1-2](/bible/galatians/6#v1)**  *[[2:13:44](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=8024s)]*
 
 > <sup>[1](/bible/galatians/6#v1)</sup> Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 >
@@ -288,7 +288,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - Now, officers: a man is overtaken in a fault, judgment is passed, the brother is put out. What is the protocol? It is not simply no communication. The protocol is to assign an officer over that man. The man that's put out must contact that officer, not the other way around: updating him, watching classes, sending his notes. Then that officer follows up with leadership on what's going on with that man. If you put him out and say no contact whatsoever, how would you be able to restore him? You're not checking him to make sure he can be restored. The body is no contact, but you set an officer over him. That's why at the bottom it says restore such an one: he keeps contact with the man you appointed, and the man gives you a report: he's studying, he's doing this. That's how you restore him.
 - And it is the man who messed up who does the calling. I heard a man say, I'm the one supposed to be called. No: who messed up, me or you? You have to fix it. And how do you fix it? By contacting that officer; that officer gives you scriptures; you talk; what are you doing to fix the situation? That's the breakdown of that scripture.
 
-**[Luke 22:31-32](/bible/luke/22#v31)**  *[2:21:17]*
+**[Luke 22:31-32](/bible/luke/22#v31)**  *[[2:21:17](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=8477s)]*
 
 > <sup>[31](/bible/luke/22#v31)</sup> And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:
 >
@@ -299,7 +299,7 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 - But I have prayed for thee, that thy faith fail not. Guess what? Our job is to pray for each other, that our faith fail not. Pray for the leaders. Pray for the men traveling to these countries, to new territories, to lands they've never been; they don't know what's waiting for them. Our job is to pray for these men.
 - Do not think Satan is not going to come for you. Brothers, sisters, this is not going to be a walk in the park. Some of you think you're just going to walk in and get the kingdom. That's not in the scriptures. Jacob's trouble is coming. Our job is to strengthen each other, here and abroad. Support each other, strengthen each other, pray for each other. It's only going to get worse.
 
-**[James 5:19-20](/bible/james/5#v19)**  *[2:24:24]*
+**[James 5:19-20](/bible/james/5#v19)**  *[[2:24:24](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=8664s)]*
 
 > <sup>[19](/bible/james/5#v19)</sup> Brethren, if any of you do err from the truth, and one convert him;
 >
@@ -317,4 +317,4 @@ A closing video played: they broke me, took everything from me; and pain is what
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-02-called-to-judge-commanded-to-be-just)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=-cEhJw1V02Y)

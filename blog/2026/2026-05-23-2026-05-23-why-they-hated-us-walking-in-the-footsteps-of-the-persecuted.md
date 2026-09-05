@@ -30,14 +30,14 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
 ## Scriptures Opened
 
-**[Genesis 4:8](/bible/genesis/4#v8)**  *[12:19]*
+**[Genesis 4:8](/bible/genesis/4#v8)**  *[[12:19](https://www.youtube.com/watch?v=0N1tUWScwMU&t=739s)]*
 
 > <sup>[8](/bible/genesis/4#v8)</sup> And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 
 - Let us open with Genesis, because Genesis means the beginning. This is for the Christians who believe in the Bible and have difficulty with the answer.
 - Cain represents the spirit of Esau in this verse; Abel has the spirit of Jacob. Cain rose up against Abel his brother and slew him. That spirit did not start yesterday; it started in the field.
 
-**[Genesis 3:15](/bible/genesis/3#v15)**  *[13:15]*
+**[Genesis 3:15](/bible/genesis/3#v15)**  *[[13:15](https://www.youtube.com/watch?v=0N1tUWScwMU&t=795s)]*
 
 > <sup>[15](/bible/genesis/3#v15)</sup> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 
@@ -45,7 +45,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - This is God talking: I will put enmity between thee and the woman. The serpent represents Esau; the woman represents Jacob, the Israelites. God said he would put deep hatred between them, and you cannot change that.
 - A lion's nature is to have no fear; it does not matter if you are bigger than him. A snake, whether poisonous or not, will eventually bite you, because that is its nature. In the same way, the hatred of the nations toward Israel is their nature. You can marry them if you want to; you cannot change their nature. That is how God set it up.
 
-**[Exodus 32:1-4](/bible/exodus/32#v1)**  *[21:57]*
+**[Exodus 32:1-4](/bible/exodus/32#v1)**  *[[21:57](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1317s)]*
 
 > <sup>[1](/bible/exodus/32#v1)</sup> And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 >
@@ -59,7 +59,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - We are the same people who saw God use Moses to split the Red Sea right in front of us. It was not even long after; Moses said I will be right back, and the people gathered themselves unto Aaron: up, make us gods which shall go before us.
 - They took the golden calf and said, these be thy gods, O Israel, which brought thee up out of the land of Egypt. They forgot the God that brought them out of Egypt that fast. That is how rebellious we are.
 
-**[Exodus 32:25-28](/bible/exodus/32#v25)**  *[24:26]*
+**[Exodus 32:25-28](/bible/exodus/32#v25)**  *[[24:26](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1466s)]*
 
 > <sup>[25](/bible/exodus/32#v25)</sup> And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)
 >
@@ -72,7 +72,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Moses stood in the gate of the camp and said, who is on the Lord's side? All the sons of Levi gathered themselves together unto him, and there fell of the people that day about 3,000 men.
 - That day 3,000 of us dropped. We had just left Egypt; we had not reached the promised land yet. Because of rebelliousness.
 
-**[Numbers 14:21-24](/bible/numbers/14#v21)**  *[26:18]*
+**[Numbers 14:21-24](/bible/numbers/14#v21)**  *[[26:18](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1578s)]*
 
 > <sup>[21](/bible/numbers/14#v21)</sup> But as truly as I live, all the earth shall be filled with the glory of the Lord.
 >
@@ -86,7 +86,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - And have tempted me now these ten times: in the wilderness we tested God ten times already, and have not hearkened to my voice. Surely they shall not see the land which I sware unto their fathers.
 - But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land. Out of all the people that came out of Egypt, only Caleb and Joshua saw that land; the men that came out died in the wilderness and their children went in. That is how rebellious we were, and that is how rebellious we still are.
 
-**[Exodus 14:11-12](/bible/exodus/14#v11)**  *[28:28]*
+**[Exodus 14:11-12](/bible/exodus/14#v11)**  *[[28:28](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1708s)]*
 
 > <sup>[11](/bible/exodus/14#v11)</sup> And they said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?
 >
@@ -96,7 +96,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - You do not think some of our people think that right now? America is the spiritual Egypt today. You think all of our people want to leave this place, want to see this place judged? Some of our people want this to go on forever. The same spirit back then is the same spirit today.
 - They were slaves in Egypt, and still said it was better to stay. Do we not slave in America? And we built this country.
 
-**[Exodus 15:24-26](/bible/exodus/15#v24)**  *[30:57]*
+**[Exodus 15:24-26](/bible/exodus/15#v24)**  *[[30:57](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1857s)]*
 
 > <sup>[24](/bible/exodus/15#v24)</sup> And the people murmured against Moses, saying, What shall we drink?
 >
@@ -107,7 +107,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - The people murmured against Moses, saying, what shall we drink? He cried unto the Lord, and the Lord showed him a tree which made the waters sweet.
 - There he proved them: if thou wilt diligently hearken to the voice of the Lord thy God, and keep all his statutes, I will put none of these diseases upon thee which I have brought upon the Egyptians. He is talking about those curses. But we did not listen; we complained about everything.
 
-**[Numbers 11:1-10](/bible/numbers/11#v1)**  *[33:16]*
+**[Numbers 11:1-10](/bible/numbers/11#v1)**  *[[33:16](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1996s)]*
 
 > <sup>[1](/bible/numbers/11#v1)</sup> And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
 >
@@ -133,7 +133,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - So far in the wilderness they had not gone hungry: God fed them manna and provided water. Still they said, we remember the fish which we did eat in Egypt freely, the cucumbers, and the melons, and the leeks, and the onions, and the garlic. In Egypt we were eating good. You cannot make this stuff up.
 - I know what you are saying: if I was there I would never complain. Oh yes, you would. You would do exactly the same thing. Some of us will say the same thing when Christ brings us back into the wilderness: I remember the fast food. We hear the complaints every year at the Feast of Tabernacles: you do not like where your tent spot is, some bring AC and flat screens out to the wilderness. The Lord hears your murmuring in your tents.
 
-**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[35:45]*
+**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[35:45](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2145s)]*
 
 > <sup>[1](/bible/numbers/14#v1)</sup> And all the congregation lifted up their voice, and cried; and the people wept that night.
 >
@@ -147,7 +147,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Some of us have it good here. America has spoiled some of us; that is why some of you never go anywhere but stay here. It was the same in Egypt: the taskmasters had it good. Look at the so-called black leaders and politicians today: some have been in Congress for over 30 years and never done one thing for the black community. Pastors living in multimillion dollar houses and flying private jets do not want America to fall.
 - And they said one to another, let us make a captain, and let us return into Egypt. They basically said, let us remove Moses, raise up another leader, and go back. Ten plagues it took for Pharaoh to let us go, and they said, we do not care, let us go back to Egypt. That is how rebellious we are as a people, but yet we are complaining about why they hate us.
 
-**[Numbers 25:1-9](/bible/numbers/25#v1)**  *[41:12]*
+**[Numbers 25:1-9](/bible/numbers/25#v1)**  *[[41:12](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2472s)]*
 
 > <sup>[1](/bible/numbers/25#v1)</sup> And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 >
@@ -171,14 +171,14 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - While the Most High God was passing judgment and the congregation was weeping before the door of the tabernacle, one of the children of Israel brought a Midianitish woman in the sight of Moses and all the congregation. No fear; all he cared about was fulfilling his lust.
 - Phinehas, the son of Eleazar, the son of Aaron the priest, rose up from among the congregation, took a javelin in his hand, and thrust both of them through. And those that died in the plague were 24,000. In one day God killed 24,000, because of sin.
 
-**[Judges 20:14](/bible/judges/20#v14)**  *[43:41]*
+**[Judges 20:14](/bible/judges/20#v14)**  *[[43:41](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2621s)]*
 
 > <sup>[14](/bible/judges/20#v14)</sup> But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
 
 - Judges is talking about the civil war; some of you do not know we had a civil war in Israel. History recounted in class: in Judges 19 the men of Gibeah of Benjamin abused a man's wife until she died, he sent the evidence of it to the rest of the tribes, and all the tribes rose up against Benjamin.
 - The children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
 
-**[Judges 20:34-35](/bible/judges/20#v34)**  *[44:56]*
+**[Judges 20:34-35](/bible/judges/20#v34)**  *[[44:56](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2696s)]*
 
 > <sup>[34](/bible/judges/20#v34)</sup> And there came against Gibeah ten thousand chosen men out of all Israel, and the battle was sore: but they knew not that evil was near them.
 >
@@ -186,21 +186,21 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
 - The Lord smote Benjamin before Israel, and the children of Israel destroyed of the Benjamites that day 25,100 men. In that civil war 25,000 of us died in a day.
 
-**[1 Samuel 4:10](/bible/1-samuel/4#v10)**  *[45:42]*
+**[1 Samuel 4:10](/bible/1-samuel/4#v10)**  *[[45:42](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2742s)]*
 
 > <sup>[10](/bible/1-samuel/4#v10)</sup> And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.
 
 - The Philistines fought, and Israel was smitten, and there was a very great slaughter: there fell of Israel 30,000 footmen in a day.
 - Keep in mind, every time you see this judgment, it is because of sin. God allowed those numbers to die like that because we decided to turn our back on the Most High God, just like you see today. Nothing new under the sun.
 
-**[Isaiah 22:14](/bible/isaiah/22#v14)**  *[46:48]*  (Captain's precept)
+**[Isaiah 22:14](/bible/isaiah/22#v14)**  *[[46:48](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2808s)]*  (Captain's precept)
 
 > <sup>[14](/bible/isaiah/22#v14)</sup> And it was revealed in mine ears by the Lord of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord God of hosts.
 
 - Surely this iniquity shall not be purged from you till ye die, saith the Lord God of hosts. They were dropping by the tens of thousands, and the Lord is showing that the sin within some could not be purged out of them through mercy, through great miracles, or through the word of God.
 - It is going to be the same thing today. We are out there teaching, the word is going out, it makes perfect sense to our people; some just do not want to do it.
 
-**[2 Samuel 24:10-15](/bible/2-samuel/24#v10)**  *[47:46]*
+**[2 Samuel 24:10-15](/bible/2-samuel/24#v10)**  *[[47:46](https://www.youtube.com/watch?v=0N1tUWScwMU&t=2866s)]*
 
 > <sup>[10](/bible/2-samuel/24#v10)</sup> And David’s heart smote him after that he had numbered the people. And David said unto the Lord, I have sinned greatly in that I have done: and now, I beseech thee, O Lord, take away the iniquity of thy servant; for I have done very foolishly.
 >
@@ -209,14 +209,14 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - David's heart smote him after he had numbered the people; today they call that a census. So the Lord sent a pestilence upon Israel, and there died of the people from Dan even to Beersheba 70,000 men.
 - God killed 70,000 because David decided to number the people. Same way God used the nations back then to correct us when we were disobedient, it is the same thing today.
 
-**[Malachi 3:6](/bible/malachi/3#v6)**  *[52:02]*
+**[Malachi 3:6](/bible/malachi/3#v6)**  *[[52:02](https://www.youtube.com/watch?v=0N1tUWScwMU&t=3122s)]*
 
 > <sup>[6](/bible/malachi/3#v6)</sup> For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
 
 - According to Christians, God can change; it is a new day now. Let me show you what the Bible says: for I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
 - You know what that verse is saying? The reason the Israelites are still alive is because God does not change. If he changed, we would have been consumed. The same God who chose Israel to be his people is the same God today, yesterday, and forever. He does not evolve.
 
-**[Malachi 1:4](/bible/malachi/1#v4)**  *[53:49]*
+**[Malachi 1:4](/bible/malachi/1#v4)**  *[[53:49](https://www.youtube.com/watch?v=0N1tUWScwMU&t=3229s)]*
 
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 
@@ -224,7 +224,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - The scripture is telling you that where you see wickedness at work in the earth, Esau's hand is behind it, even when you do not see him physically: financing it, in the background of what you see going on in Africa, in Haiti, in Jamaica, in Sudan, in the Congo.
 - Some say, no, some of them are good, some of them can repent. What does the Bible say? The people: against whom the Lord hath indignation for ever. You cannot pray this away. God does not hear the prayer of save America. This place will go down; that is what the scripture says.
 
-**[Psalms 83:1-5](/bible/psalms/83#v1)**  *[1:01:34]*
+**[Psalms 83:1-5](/bible/psalms/83#v1)**  *[[1:01:34](https://www.youtube.com/watch?v=0N1tUWScwMU&t=3694s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
@@ -242,7 +242,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Let us cut them off from being a nation, that the name of Israel may be no more in remembrance: today nobody knows who the Israelites are, and another people is called Israel in our place.
 - Go ahead, Cap: that is a form of Zechariah 11:5, them holding themselves not guilty. Them admitting it is the greatest crime against humanity would mean admitting who did it. They are not going to do that.
 
-**[Wisdom of Solomon 12:10-18](/bible/wisdom-of-solomon/12#v10)**  *[1:14:23]*  (Captain's teaching)
+**[Wisdom of Solomon 12:10-18](/bible/wisdom-of-solomon/12#v10)**  *[[1:14:23](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4463s)]*  (Captain's teaching)
 
 > <sup>[10](/bible/wisdom-of-solomon/12#v10)</sup> But executing thy judgments upon them by little and little, thou gavest them place of repentance, not being ignorant that they were a naughty generation, and that their malice was bred in them, and that their cogitation would never be changed.
 >
@@ -268,14 +268,14 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Who shall say, what hast thou done? Or who shall withstand thy judgment? No president, no prime minister, no government official is going to be able to stand or speak against the Lord's judgment, because it is going to be just.
 - But thou, mastering thy power, judgest with equity, and orderest us with great favour: when the Lord brings the judgment, it is going to be equal. For all the evil done to us, they get destruction; that is the vengeance of the Lord, and that is real equality. And we are ordered with great favor.
 
-**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[1:17:59]*
+**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[1:17:59](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4679s)]*
 
 > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
 
 - For thou art an holy people unto the Lord thy God: holy means separate. We are a separate people.
 - The Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth. Listen: there is no equality. We were chosen to be above all nations, and you wonder why they hate you? They know something about you that you do not know. Your answer is in the scriptures.
 
-**[Psalms 83:5-8](/bible/psalms/83#v5)**  *[1:19:24]*
+**[Psalms 83:5-8](/bible/psalms/83#v5)**  *[[1:19:24](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4764s)]*
 
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 >
@@ -288,7 +288,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - They are confederate against thee: confederate means they all agree; that is what you see at the UN. They all have the same mindset.
 - The tabernacles of Edom: do you think it is a coincidence God put Edom first? Edom is the head of the confederacy. And the Ishmaelites: the Arabs. Of Moab, and the Hagarenes: the nations are being described one by one, Gebal, and Ammon, and Amalek. Those are the nations that came together against us.
 
-**[Amos 3:1-2](/bible/amos/3#v1)**  *[1:21:25]*
+**[Amos 3:1-2](/bible/amos/3#v1)**  *[[1:21:25](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4885s)]*
 
 > <sup>[1](/bible/amos/3#v1)</sup> Hear this word that the Lord hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 >
@@ -298,7 +298,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - You only have I known of all the families of the earth: does only mean one? Yes. Only means only. Do not get mad at me; that is what he is saying.
 - Therefore I will punish you for all your iniquities. You want to know why they hate you? God said he is going to punish us for all our sins. Right now we are going through it because of our sin. It is a father punishing his children for breaking his law. It is time we get our minds right.
 
-**[John 15:18-20](/bible/john/15#v18)**  *[1:37:59]*
+**[John 15:18-20](/bible/john/15#v18)**  *[[1:37:59](https://www.youtube.com/watch?v=0N1tUWScwMU&t=5879s)]*
 
 > <sup>[18](/bible/john/15#v18)</sup> If the world hate you, ye know that it hated me before it hated you.
 >
@@ -311,20 +311,20 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - The biggest propaganda right now on social media is turning the black man against the black woman and the black woman against the black man. Who do you think is behind it? Esau, pushing us apart. We are the only people who put our own down in front of the other nations to please them. No other nation does that. Judgment is coming for those who go against what the law says, if they do not repent.
 - Remember the word that I said unto you, the servant is not greater than his lord. We are servants of Christ; if they persecuted him, they will persecute us too. Stop seeking love where there is no love.
 
-**[Jeremiah 30:3](/bible/jeremiah/30#v3)**  *[1:43:28]*
+**[Jeremiah 30:3](/bible/jeremiah/30#v3)**  *[[1:43:28](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6208s)]*
 
 > <sup>[3](/bible/jeremiah/30#v3)</sup> For, lo, the days come, saith the Lord, that I will bring again the captivity of my people Israel and Judah, saith the Lord: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.
 
 - But brothers and sisters, the scripture has good news. For lo, the days come, saith the Lord, that I will bring again the captivity of my people Israel and Judah: both kingdoms, northern and southern.
 - And I will cause them to return to the land that I gave to their fathers, and they shall possess it. We shall possess the land.
 
-**[Jeremiah 32:27](/bible/jeremiah/32#v27)**  *[1:44:00]*
+**[Jeremiah 32:27](/bible/jeremiah/32#v27)**  *[[1:44:00](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6240s)]*
 
 > <sup>[27](/bible/jeremiah/32#v27)</sup> Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?
 
 - Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?
 
-**[Exodus 1:9-10](/bible/exodus/1#v9)**  *[1:44:52]*  (Captain's teaching)
+**[Exodus 1:9-10](/bible/exodus/1#v9)**  *[[1:44:52](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6292s)]*  (Captain's teaching)
 
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
@@ -341,19 +341,19 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
     What they were hoping for was to run into Hebrew women who hated themselves and hated their people, so their plan could be executed: when ye do the office of a midwife to the Hebrew women, if it be a son, then ye shall kill him. That is what the attack on our children has evolved into: make the babies that come out of Israelite wombs vanish. They were doing it by proxy of the midwives. But the midwives feared God: that means the midwives loved their people, and did not as the king of Egypt commanded, but saved the men children alive. Now the mind has been so twisted that no edict is needed; it is done by the millions willingly. That is why we must be the ones to correct this, restore the love of ourselves and the fear of God, and show that the enemy hates us.
 
-**[Jeremiah 32:37](/bible/jeremiah/32#v37)**  *[1:47:35]*
+**[Jeremiah 32:37](/bible/jeremiah/32#v37)**  *[[1:47:35](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6455s)]*
 
 > <sup>[37](/bible/jeremiah/32#v37)</sup> Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
 
 - Behold, I will gather them out of all countries, whither I have driven them in mine anger; and I will bring them again unto this place, and I will cause them to dwell safely. Remember the prophecy: we were scattered, and the Most High God is going to bring us back to our own land.
 
-**[Revelation 5:9](/bible/revelation/5#v9)**  *[1:48:06]*
+**[Revelation 5:9](/bible/revelation/5#v9)**  *[[1:48:06](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6486s)]*
 
 > <sup>[9](/bible/revelation/5#v9)</sup> And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
 
 - They sung a new song: thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation. This hatred is not going to go on forever; whatever we are going through, the Most High God is going to bring us back again.
 
-**[Jeremiah 29:14](/bible/jeremiah/29#v14)**  *[1:48:44]*
+**[Jeremiah 29:14](/bible/jeremiah/29#v14)**  *[[1:48:44](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6524s)]*
 
 > <sup>[14](/bible/jeremiah/29#v14)</sup> And I will be found of you, saith the Lord: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the Lord; and I will bring you again into the place whence I caused you to be carried away captive.
 
@@ -372,7 +372,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
     And ye shall be hated of all men for my name's sake: Christ himself said it, so why am I surprised when they hate me? But he that endureth to the end shall be saved. When they persecute you in this city, flee ye into another: for verily I say unto you, ye shall not have gone over the cities of Israel, till the Son of man be come. We are not going to be able to wake every single Israelite before Christ comes back; that is what he is saying.
 
-**[Amos 9:14](/bible/amos/9#v14)**  *[1:55:08]*
+**[Amos 9:14](/bible/amos/9#v14)**  *[[1:55:08](https://www.youtube.com/watch?v=0N1tUWScwMU&t=6908s)]*
 
 > <sup>[14](/bible/amos/9#v14)</sup> And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit them; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them.
 
@@ -380,7 +380,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - What you see right now is the beginning of the bringing back. We are repenting; now when we read the Bible we say, wait a minute, that is us. You are watching the rise of the greatest nation, and nothing is going to stop this.
 - Look at your life before you came here and look at your life today: a whole different person. That is the building up. And guess what? Some of your families hate the new you; they liked the old you better. That shows you the Bible is a true book.
 
-**[Ezekiel 36:24-36](/bible/ezekiel/36#v24)**  *[1:57:50]*
+**[Ezekiel 36:24-36](/bible/ezekiel/36#v24)**  *[[1:57:50](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7070s)]*
 
 > <sup>[24](/bible/ezekiel/36#v24)</sup> For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
 >
@@ -413,7 +413,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - When you read this, brothers, this should give you hope. Whatever I am going through right now is nothing compared to what is coming.
 - Then shall ye remember your own evil ways, and shall lothe yourselves in your own sight for your iniquities. The land that was desolate shall become like the garden of Eden. This prophecy also tells you the people over there now are not the ones it speaks of, because this prophecy has not happened yet; their land does not look like the garden of Eden right now. I the Lord have spoken it, and I will do it.
 
-**[Jeremiah 31:31-34](/bible/jeremiah/31#v31)**  *[2:02:42]*
+**[Jeremiah 31:31-34](/bible/jeremiah/31#v31)**  *[[2:02:42](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7362s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 >
@@ -426,7 +426,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah: not according to the covenant that I made with their fathers when I brought them out of Egypt, which my covenant they brake.
 - I will put my law in their inward parts, and write it in their hearts; and I will be their God, and they shall be my people. They shall teach no more every man his neighbour, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them. This is talking about the kingdom: all of us are going to know the law.
 
-**[Isaiah 49:22-23](/bible/isaiah/49#v22)**  *[2:04:23]*
+**[Isaiah 49:22-23](/bible/isaiah/49#v22)**  *[[2:04:23](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7463s)]*
 
 > <sup>[22](/bible/isaiah/49#v22)</sup> Thus saith the Lord God, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
 >
@@ -441,7 +441,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
     Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet. That is the bowing down.
 
-**[Isaiah 60:21-22](/bible/isaiah/60#v21)**  *[2:06:38]*
+**[Isaiah 60:21-22](/bible/isaiah/60#v21)**  *[[2:06:38](https://www.youtube.com/watch?v=0N1tUWScwMU&t=7598s)]*
 
 > <sup>[21](/bible/isaiah/60#v21)</sup> Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
 >
@@ -452,7 +452,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time. The kingdom of Israel is going to grow fast, real fast. So do not worry about the hatred, and do not worry about who got paid what down here. They are talking about reparations; we are not going to ask for reparations. What is coming to us is greater. That fund is a down payment.
 - Do not be fooled by the voices saying the black community's problem is finance. We had Black Wall Street; we had Oscarville here in Georgia; nothing changed, because there is no unity without the Bible. Everything we did that never succeeded, this book was not involved. This right here is built around the scriptures; God is behind this, not men.
 
-**[Micah 7:18-19](/bible/micah/7#v18)**  *[2:17:21]*
+**[Micah 7:18-19](/bible/micah/7#v18)**  *[[2:17:21](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8241s)]*
 
 > <sup>[18](/bible/micah/7#v18)</sup> Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.
 >
@@ -462,7 +462,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Think about it, brothers: before you came here, some of the things you did were worthy of death. Why are you still alive? Because of God's mercy.
 - He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea. He is not going to remember them any more. We serve a merciful God.
 
-**[Luke 13:1-3](/bible/luke/13#v1)**  *[2:19:30]*
+**[Luke 13:1-3](/bible/luke/13#v1)**  *[[2:19:30](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8370s)]*
 
 > <sup>[1](/bible/luke/13#v1)</sup> There were present at that season some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices.
 >
@@ -473,7 +473,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things? I tell you, Nay: but, except ye repent, ye shall all likewise perish.
 - That message is for us today. Do not think you are better than the men that were before you. You are here because of God's mercy; every day when you pray, you should thank the Lord that you are still here.
 
-**[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[2:20:59]*
+**[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[[2:20:59](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8459s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 >
@@ -482,7 +482,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Gather yourselves together, yea, gather together, O nation not desired: we are the nation nobody desires. Even a comedian's joke made the point: the poorest of them will not trade places with a rich black man. Guess what, brothers? We should have the same resolve: I am going to ride this Israelite thing out, because I know at the end of the tunnel I am getting the kingdom. Whatever a billionaire has is temporary; what I am about to get is eternal.
 - Before the decree bring forth, before the fierce anger of the Lord come upon you: God is telling us to come together as one before he brings his judgment on the earth. Unity. Build ourselves up; separate ourselves.
 
-**[Zephaniah 3:14-15](/bible/zephaniah/3#v14)**  *[2:23:25]*
+**[Zephaniah 3:14-15](/bible/zephaniah/3#v14)**  *[[2:23:25](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8605s)]*
 
 > <sup>[14](/bible/zephaniah/3#v14)</sup> Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
 >
@@ -506,7 +506,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
     Blessed be the Lord God of Israel; for he hath visited and redeemed his people, and hath raised up an horn of salvation for us: that horn of salvation is Christ. As he spake by the mouth of his holy prophets: that we should be saved from our enemies, and from the hand of all that hate us. You want to know the answer? Christ is coming back to save us from the hand of all that hate us. Your enemies are not supposed to love you; the problem is you think you have no enemies. To perform the mercy promised to our fathers: the promise is that the kingdom is ours.
 
-**[Zechariah 5:1-4](/bible/zechariah/5#v1)**  *[2:28:12]*
+**[Zechariah 5:1-4](/bible/zechariah/5#v1)**  *[[2:28:12](https://www.youtube.com/watch?v=0N1tUWScwMU&t=8892s)]*
 
 > <sup>[1](/bible/zechariah/5#v1)</sup> Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 >
@@ -530,7 +530,7 @@ Book read in class: The Complete Works of Flavius Josephus, on the nations after
 
     But thou, that hast been the author of all mischief against the Hebrews, shalt not escape the hands of God. They have been the author of all mischief against God's people, and they are not going to escape the hands of God.
 
-**[Ezekiel 35:5-6](/bible/ezekiel/35#v5)**  *[2:33:42]*
+**[Ezekiel 35:5-6](/bible/ezekiel/35#v5)**  *[[2:33:42](https://www.youtube.com/watch?v=0N1tUWScwMU&t=9222s)]*
 
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 >
@@ -541,7 +541,7 @@ Book read in class: The Complete Works of Flavius Josephus, on the nations after
 - When we went to Africa, a brother on a radio show said he wanted Liberia to be like America, a democracy. The Bishop asked him, do you know what you are saying? How many people were killed for America to be America in the name of democracy?
 - Therefore, as I live, saith the Lord God, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee. God said blood is going to pursue Esau. Some of you have no idea what is about to come here. And what is being done in the Middle East right now, do you think those nations are going to forget? They are not going to forget.
 
-**[Zephaniah 3:15-20](/bible/zephaniah/3#v15)**  *[2:38:38]*
+**[Zephaniah 3:15-20](/bible/zephaniah/3#v15)**  *[[2:38:38](https://www.youtube.com/watch?v=0N1tUWScwMU&t=9518s)]*
 
 > <sup>[15](/bible/zephaniah/3#v15)</sup> The Lord hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the Lord, is in the midst of thee: thou shalt not see evil any more.
 >
@@ -574,4 +574,4 @@ Zechariah Isaac is next after the class close.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-23-why-they-hated-us-walking-in-the-footsteps-of-the-persecuted)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=0N1tUWScwMU)

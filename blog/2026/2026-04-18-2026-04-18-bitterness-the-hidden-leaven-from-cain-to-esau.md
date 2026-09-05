@@ -22,7 +22,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
 ## Scriptures Opened
 
-**[Psalms 30:1-12](/bible/psalms/30#v1)**  *[9:38]*
+**[Psalms 30:1-12](/bible/psalms/30#v1)**  *[[9:38](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=578s)]*
 
 > <sup>[1](/bible/psalms/30#v1)</sup> I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.
 >
@@ -50,7 +50,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
 - The chapter read to open the class before prayer: I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me. Weeping may endure for a night, but joy cometh in the morning. Thou hast turned for me my mourning into dancing.
 
-**[Ephesians 4:4](/bible/ephesians/4#v4)**  *[15:36]*
+**[Ephesians 4:4](/bible/ephesians/4#v4)**  *[[15:36](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=936s)]*
 
 > <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
 
@@ -62,7 +62,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
     There hath no temptation taken you but such as is common to man: if we see a spirit here, as leaders we have to understand that spirit is elsewhere. But God is faithful, and will with the temptation also make a way to escape. What is the way to escape? Put a class on. Call a brother; speak to your brother, to get that spirit off of you. A lot of times the devil jumps on us and we start battling in our own mind and create a whole other reality that does not even exist. You talk to the brother and realize all that mess you were thinking and rehearsing is not even the case.
 
-**[1 Corinthians 5:1-8](/bible/1-corinthians/5#v1)**  *[18:09]*
+**[1 Corinthians 5:1-8](/bible/1-corinthians/5#v1)**  *[[18:09](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=1089s)]*
 
 > <sup>[1](/bible/1-corinthians/5#v1)</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
 >
@@ -84,7 +84,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
     Christ also suffered for us, leaving us an example, that ye should follow his steps: as a believer in Christ you must follow the steps of Christ. Christ came to bring peace; bitterness does not do that.
 
-**[Exodus 12:15](/bible/exodus/12#v15)**  *[21:19]*
+**[Exodus 12:15](/bible/exodus/12#v15)**  *[[21:19](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=1279s)]*
 
 > <sup>[15](/bible/exodus/12#v15)</sup> Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
 
@@ -110,21 +110,21 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
     Ye are not your own; ye are bought with a price, with Christ's blood. When we hide hatred, bitterness, malice, we are throwing that back in Christ's face. He bought us back; when a brother lends you something, you take extra care of it. So glorify God in your body, and in your spirit, which are God's.
 
-**[Exodus 13:7](/bible/exodus/13#v7)**  *[25:01]*
+**[Exodus 13:7](/bible/exodus/13#v7)**  *[[25:01](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=1501s)]*
 
 > <sup>[7](/bible/exodus/13#v7)</sup> Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.
 
 - There shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters: we do not want to be seen in the midst of sin, whether we are in Passover or not. The brother does not throw the bread out; he puts it in the storage closet and brings it back after the feast. The storage closet is where you put that sin for now, and as soon as you are out of the season you pick the sin back up. Brother, you are not in the spirit. Do not lay the bitterness aside for the season and pick right back up hating the brother; let it go totally.
 - Spiritually, brothers say, I am going to tuck away my hatred, tuck away my bitterness and save it for later. You tuck it in when the bishop comes around, and when he leaves you are evil again. They see through all that.
 
-**[Deuteronomy 16:3](/bible/deuteronomy/16#v3)**  *[28:00]*
+**[Deuteronomy 16:3](/bible/deuteronomy/16#v3)**  *[[28:00](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=1680s)]*
 
 > <sup>[3](/bible/deuteronomy/16#v3)</sup> Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
 
 - Seven days shalt thou eat unleavened bread therewith, even the bread of affliction: eating this bread, the Lord wants us mindful that we came forth out of the land of Egypt in haste. We got delivered when we were unleavened, when we were not in the midst of sin.
 - That thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life: the unleavened bread is a reminder that we were catching hell in Egypt and got delivered. If we want to be delivered again, we have to move in the same spirit.
 
-**[Matthew 16:6](/bible/matthew/16#v6)**  *[29:17]*
+**[Matthew 16:6](/bible/matthew/16#v6)**  *[[29:17](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=1757s)]*
 
 > <sup>[6](/bible/matthew/16#v6)</sup> Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
 
@@ -154,7 +154,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
     Many of the Jews believed on him, but some went their way to the Pharisees: wherever there is good, evil has to be there. If we let him alone, all men will believe on him, and the Romans shall come and take away both our place and nation: that lets you know who their masters were. Leaven is an influence that spreads, and that bitterness is on the inside and corrupts the spirit.
 
-**[Genesis 4:1-8](/bible/genesis/4#v1)**  *[33:55]*
+**[Genesis 4:1-8](/bible/genesis/4#v1)**  *[[33:55](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=2035s)]*
 
 > <sup>[1](/bible/genesis/4#v1)</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 >
@@ -205,7 +205,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
     Cease from anger, and forsake wrath: that bitterness is the spirit of Cain, and in that wrathful spirit you might slay a brother. None of us is above this. Do not sit in the congregation thinking such and such is getting cut with the scriptures; brother, that is you. Every lesson the leadership brings out is for us. As soon as you think, I am not dealing with that, Satan already has you lined up.
 
-**[1 John 3:12-15](/bible/1-john/3#v12)**  *[46:17]*
+**[1 John 3:12-15](/bible/1-john/3#v12)**  *[[46:17](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=2777s)]*
 
 > <sup>[12](/bible/1-john/3#v12)</sup> Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.
 >
@@ -226,7 +226,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
     When the ungodly curseth Satan, he curseth his own soul: you will have brothers and sisters say the wicked are going to be destroyed, and meanwhile you are moving in the same spirit. You curse Satan and curse your own soul, because when you become overcome with it you take on the same attributes Cain did. We have to exercise ourselves to have a conscience void of offense, and deal with our brother and sister uprightly according to the laws of God; do not let it fester and resonate in your spirit.
 
-**[Proverbs 26:24-28](/bible/proverbs/26#v24)**  *[51:06]*
+**[Proverbs 26:24-28](/bible/proverbs/26#v24)**  *[[51:06](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3066s)]*
 
 > <sup>[24](/bible/proverbs/26#v24)</sup> He that hateth dissembleth with his lips, and layeth up deceit within him;
 >
@@ -243,20 +243,20 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 - Whoso diggeth a pit shall fall therein: you try to set your brother up, you fall in it yourself.
 - A lying tongue hateth those that are afflicted by it, and a flattering mouth worketh ruin: when you have the spirit of bitterness you have to have a lying tongue, because you mask your true feelings. Even in your flatteries there is hatred according to the scripture.
 
-**[Ecclesiastes 7:9](/bible/ecclesiastes/7#v9)**  *[53:25]*
+**[Ecclesiastes 7:9](/bible/ecclesiastes/7#v9)**  *[[53:25](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3205s)]*
 
 > <sup>[9](/bible/ecclesiastes/7#v9)</sup> Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 
 - Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools. The bitter spirit resides in the bosom of foolish brothers and sisters.
 - Bitterness has a progression: it starts with correction or an offense; then pride comes in and you do not want to speak to the brother, and when you do speak, you speak in deceit, masking envy, anger, hatred. Ultimately it leads to your destruction and the destruction of those around you.
 
-**[Galatians 5:9](/bible/galatians/5#v9)**  *[54:29]*
+**[Galatians 5:9](/bible/galatians/5#v9)**  *[[54:29](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3269s)]*
 
 > <sup>[9](/bible/galatians/5#v9)</sup> A little leaven leaveneth the whole lump.
 
 - A little leaven leaveneth the whole lump: just a little bit of bitterness defiles your entire soul. It could be one thing.
 
-**[Luke 12:1-2](/bible/luke/12#v1)**  *[54:58]*
+**[Luke 12:1-2](/bible/luke/12#v1)**  *[[54:58](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3298s)]*
 
 > <sup>[1](/bible/luke/12#v1)</sup> In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
 >
@@ -265,7 +265,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 - Beware ye of the leaven of the Pharisees, which is hypocrisy. For there is nothing covered, that shall not be revealed: remember, roots are covered, but the Bible says there is nothing covered. The bitterness will be revealed.
 - The deacon was about to get into his class last night; we had no idea when we got the call to do this broadcast. The first night we got down here there was a heavy spirit of bitterness on brothers, and we dealt with it for several hours. You come down to the island thinking everything is island vibes, and the Lord reveals all manner of bitterness. That is why these classes are coming out.
 
-**[James 1:14-15](/bible/james/1#v14)**  *[56:47]*
+**[James 1:14-15](/bible/james/1#v14)**  *[[56:47](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3407s)]*
 
 > <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
 >
@@ -275,7 +275,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 - Then when lust hath conceived, it bringeth forth sin: it has been festering, baking, growing, and now the root is revealed. It is out of the concrete, and the whole foundation is destroyed.
 - Illustration discussed in class: a tree near your house will send roots down into your sewage line and defile your plumbing, literally defiling your house. A freshly paved walkway looks smooth, but roots growing underneath will buckle a concrete slab that weighs a ton, and the smooth way becomes trips and bumps; some people trip and die. No matter how strong the foundation you lay, that is how dangerous bitterness is: it can uproot a solid foundation.
 
-**[Hebrews 3:12-13](/bible/hebrews/3#v12)**  *[1:00:37]*
+**[Hebrews 3:12-13](/bible/hebrews/3#v12)**  *[[1:00:37](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3637s)]*
 
 > <sup>[12](/bible/hebrews/3#v12)</sup> Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.
 >
@@ -283,7 +283,7 @@ Bitterness is the hidden leaven that must be purged. We are in the midst of Pass
 
 - Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day: while we have the opportunity, because our life is but a vapor. We have to be genuine and deal real with the brother.
 
-**[Psalms 19:12-13](/bible/psalms/19#v12)**  *[1:01:29]*
+**[Psalms 19:12-13](/bible/psalms/19#v12)**  *[[1:01:29](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=3689s)]*
 
 > <sup>[12](/bible/psalms/19#v12)</sup> Who can understand his errors? cleanse thou me from secret faults.
 >
@@ -297,7 +297,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Brothers hold on to grudges for years, day of atonement after day of atonement, never telling the brother what they did not like. That thing stays on rerun in your mind. You see a brother or sister behave one way, and the minute correction comes, now they separate: I do not want to be in this office; I have to fall back; I need a break. You do not need a break; you want a break because you want to sin.
 - Nothing good is going to be perceived by a bitter person. That distorted perception is what happened to Cain: he thought his offering was good.
 
-**[Genesis 25:24-34](/bible/genesis/25#v24)**  *[1:08:41]*
+**[Genesis 25:24-34](/bible/genesis/25#v24)**  *[[1:08:41](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=4121s)]*
 
 > <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
 >
@@ -327,7 +327,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - And Jacob said, Sell me this day thy birthright: he told him straight up. Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me? And he sware unto him, and sold his birthright unto Jacob. Jacob made him swear because a bare word was not going to hold; he needed the thing certified.
 - Thus Esau despised his birthright: he threw it in the garbage himself.
 
-**[Genesis 27:34-41](/bible/genesis/27#v34)**  *[1:12:39]*
+**[Genesis 27:34-41](/bible/genesis/27#v34)**  *[[1:12:39](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=4359s)]*
 
 > <sup>[34](/bible/genesis/27#v34)</sup> And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father.
 >
@@ -363,7 +363,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     Thou givest thy mouth to evil, and thy tongue frameth deceit. Thou sittest and speakest against thy brother; thou slanderest thine own mother's son: did we not just read the slander? He tricked me two times. They were liars from the beginning, because they moved in the same spirit of Cain, who was of the wicked one.
 
-**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[1:17:24]*
+**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[[1:17:24](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=4644s)]*
 
 > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
 >
@@ -399,7 +399,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     But unto the wicked God saith, What hast thou to do to declare my statutes? You are talking about in God we trust, swearing in on the Bible, and doing nothing according to the scriptures. Seeing thou hatest instruction, and castest my words behind thee: the carnal mind is at war with God. This is the battle of the spirit and the flesh, and that inner battle is within us too.
 
-**[Philippians 3:18-20](/bible/philippians/3#v18)**  *[1:26:50]*
+**[Philippians 3:18-20](/bible/philippians/3#v18)**  *[[1:26:50](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=5210s)]*
 
 > <sup>[18](/bible/philippians/3#v18)</sup> (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 >
@@ -412,7 +412,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Whose end is destruction, whose God is their belly: feed me with that red pottage; to hell with the inheritance. Whose glory is in their shame, who mind earthly things: that is the man of the field.
 - For our conversation is in heaven: the brother that is spiritual, his conversation is the scriptures, from whence also we look for the Saviour, the Lord Jesus Christ.
 
-**[2 Corinthians 7:10](/bible/2-corinthians/7#v10)**  *[1:33:18]*
+**[2 Corinthians 7:10](/bible/2-corinthians/7#v10)**  *[[1:33:18](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=5598s)]*
 
 > <sup>[10](/bible/2-corinthians/7#v10)</sup> For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.
 
@@ -430,7 +430,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     Then shall they call upon me, but I will not answer: here is the worldly sorrow. When the affliction increases, after being wicked the whole time, now you are calling on the Lord, and the line is no longer available. For that they hated knowledge, and did not choose the fear of the Lord: they would none of my counsel; they despised all my reproof. Therefore shall they eat of the fruit of their own way: if you are out there sowing sin, that is what you are going to reap.
 
-**[Psalms 55:20-21](/bible/psalms/55#v20)**  *[1:36:31]*
+**[Psalms 55:20-21](/bible/psalms/55#v20)**  *[[1:36:31](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=5791s)]*
 
 > <sup>[20](/bible/psalms/55#v20)</sup> He hath put forth his hands against such as be at peace with him: he hath broken his covenant.
 >
@@ -440,7 +440,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords. He talks a good game: we will establish a country, give you schools. War is always behind the peaceful words. We have seen it with Jacob, in the Greek captivity, and today: peace negotiators invited to talk while their country is bombed.
 - And is that not the same thing when you have the bitter spirit? A brother offers peace: hey man, I think you have something against me. Nah, brother, we are good. That is you destroying any opportunity for peace negotiation, and then you turn around and call the wicked man wicked for doing the same thing to his negotiators. Thou art the man.
 
-**[Matthew 25:1-13](/bible/matthew/25#v1)**  *[1:38:41]*
+**[Matthew 25:1-13](/bible/matthew/25#v1)**  *[[1:38:41](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=5921s)]*
 
 > <sup>[1](/bible/matthew/25#v1)</sup> Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
 >
@@ -469,7 +469,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut. Afterward came also the other virgins, saying, Lord, Lord, open to us. But he answered, Verily I say unto you, I know you not: you are not on the guest list.
 - Watch therefore: we have to watch ourselves. We do not want that door shutting; we have to stay in the spirit.
 
-**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[1:41:32]*
+**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:41:32](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6092s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 >
@@ -480,7 +480,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Thou shalt not avenge, nor bear any grudge against the children of thy people: that is my neighbor, my brother; we are all going through the same thing, oppressed by the same nations. What sense does it make to hate the man next to me who is oppressed like me? That is like blocking your own teammate's layup; if we watched that in a game we would say the man is crazy, and brothers do the same thing in the school.
 - But thou shalt love thy neighbour as thyself: I am the Lord. You would not want a brother doing that to you, so do not do it to the brother. We have to have charity one for another.
 
-**[Matthew 5:21-24](/bible/matthew/5#v21)**  *[1:44:18]*
+**[Matthew 5:21-24](/bible/matthew/5#v21)**  *[[1:44:18](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6258s)]*
 
 > <sup>[21](/bible/matthew/5#v21)</sup> Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 >
@@ -493,7 +493,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Whosoever is angry with his brother without a cause shall be in danger of the judgment: whosoever is bitter with his brother without a cause. Esau was guilty of murder according to what Christ says here, because he had the hatred in his heart even before the act.
 - Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee; leave there thy gift before the altar, and go thy way; first be reconciled to thy brother: the first step. If you do not do it in that order, the Lord is not hearing what you are saying. Make amends with your brother before you come, or the gift gets rejected like Cain's offering was rejected.
 
-**[Ecclesiasticus 28:2-8](/bible/sirach/28#v2)**  *[1:46:26]*
+**[Ecclesiasticus 28:2-8](/bible/sirach/28#v2)**  *[[1:46:26](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6386s)]*
 
 > <sup>[2](/bible/sirach/28#v2)</sup> Forgive thy neighbour the hurt that he hath done unto thee, so shall thy sins also be forgiven when thou prayest.
 >
@@ -515,7 +515,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Remember thy end, and let enmity cease: at the end we are judged by what is in this Bible and what we did on this earth. Remember the commandments, and bear no malice to thy neighbour; remember the covenant of the Highest, and wink at ignorance: if somebody offends you, brush it off your shoulders and let it go.
 - Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife. A sinful man disquieteth friends, and maketh debate among them that be at peace: wherever the bitter brother goes he brings debate and chaos, vain arguments with no fruit. When it says disquiet, that is the feeling when the brother comes around and your defenses go up, because only bitter brothers come with strife; the brothers with peace come with the fruit of the spirit.
 
-**[Ecclesiasticus 10:6-7](/bible/sirach/10#v6)**  *[1:50:18]*
+**[Ecclesiasticus 10:6-7](/bible/sirach/10#v6)**  *[[1:50:18](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6618s)]*
 
 > <sup>[6](/bible/sirach/10#v6)</sup> Bear not hatred to thy neighbour for every wrong; and do nothing at all by injurious practices.
 >
@@ -524,19 +524,19 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Bear not hatred to thy neighbour for every wrong; and do nothing at all by injurious practices: remember, a bitter person's perception is negative; they cannot see right because they want to abide in darkness. The brother is bringing solutions and advice, and they do not see it; they just want to see the brother hurt, the sister hurt, slumped down and aching.
 - Pride is hateful before God and man: and by both doth one commit iniquity: with the bitter spirit comes pride, and when you commit iniquity you put yourself out of the kingdom of God.
 
-**[Proverbs 8:36](/bible/proverbs/8#v36)**  *[1:52:10]*
+**[Proverbs 8:36](/bible/proverbs/8#v36)**  *[[1:52:10](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6730s)]*
 
 > <sup>[36](/bible/proverbs/8#v36)</sup> But he that sinneth against me wrongeth his own soul: all they that hate me love death.
 
 - But he that sinneth against me wrongeth his own soul: all they that hate me love death. Operating in the bitter spirit is loving death; you are blinded and continuing in that iniquity.
 
-**[Titus 3:3](/bible/titus/3#v3)**  *[1:53:06]*
+**[Titus 3:3](/bible/titus/3#v3)**  *[[1:53:06](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6786s)]*
 
 > <sup>[3](/bible/titus/3#v3)</sup> For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.
 
 - For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures: bitterness is one of those lusts. Living in malice and envy, hateful, and hating one another: when you have the root of bitterness you are literally living in malice. Do not be a hater; stop the hate. We learned that spirit here in this captivity.
 
-**[Deuteronomy 29:16-18](/bible/deuteronomy/29#v16)**  *[1:54:00]*
+**[Deuteronomy 29:16-18](/bible/deuteronomy/29#v16)**  *[[1:54:00](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6840s)]*
 
 > <sup>[16](/bible/deuteronomy/29#v16)</sup> (For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;
 >
@@ -547,7 +547,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Ye know how we have dwelt in the land of Egypt: the land of our captivity, the gross darkness. And ye have seen their abominations, and their idols: the false religion, the politics, the influences, all abominable in the sight of the Lord. And Babylon has you deceived: you are not out there worshipping Diana; they set yourself up as the idol. I got to do me, it is my birthday: we go after our own lust. That is the trickery of Babylon: make them their own gods, their own idols.
 - Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the Lord our God; lest there should be among you a root that beareth gall and wormwood: that is the bitterness right there. The idols defile the mind, and now you have picked up that carnal mindset, hypnotized by the witchcraft of this place, with an evil eye toward your brother. We cannot roll like that.
 
-**[Acts 8:18-23](/bible/acts/8#v18)**  *[1:56:17]*
+**[Acts 8:18-23](/bible/acts/8#v18)**  *[[1:56:17](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=6977s)]*
 
 > <sup>[18](/bible/acts/8#v18)</sup> And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,
 >
@@ -567,7 +567,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - For I perceive that thou art in the gall of bitterness, and in the bond of iniquity: Peter saw the bitterness in the spirit. He did not want the gift to heal people; he had the bitter envy spirit: I can do it better. That is the same spirit today: that brother up there teaching does not know as many precepts as me. Brother, stay in the spirit.
 - Bitterness becomes a root; it is hidden, and those roots uproot concrete: they uproot relationships, uproot the congregation, uproot your marriage. If they get too deep it is almost impossible to remove them: like a big tree stump, you need heavy equipment and a chainsaw, and the whole thing becomes a construction site.
 
-**[Ecclesiasticus 13:15-17](/bible/sirach/13#v15)**  *[2:03:37]*
+**[Ecclesiasticus 13:15-17](/bible/sirach/13#v15)**  *[[2:03:37](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7417s)]*
 
 > <sup>[15](/bible/sirach/13#v15)</sup> Every beast loveth his like, and every man loveth his neighbor.
 >
@@ -578,7 +578,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Every beast loveth his like, and every man loveth his neighbour: all flesh consorteth according to kind, and a man will cleave to his like. That is why you see a whole group of bitter brothers clinging together in the back of the room.
 - What fellowship hath the wolf with the lamb? so the sinner with the godly: that is why they separate themselves. It is all evil meant to destroy.
 
-**[Isaiah 29:21](/bible/isaiah/29#v21)**  *[2:04:32]*
+**[Isaiah 29:21](/bible/isaiah/29#v21)**  *[[2:04:32](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7472s)]*
 
 > <sup>[21](/bible/isaiah/29#v21)</sup> That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
 
@@ -595,7 +595,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     There is that destroyeth his own soul through bashfulness: the bitter bashful brother. He says yes sir to your face, and the whole time he has no intention in his heart of doing it.
 
-**[2 Esdras 16:77-78](/bible/2-esdras/16#v77)**  *[2:07:50]*
+**[2 Esdras 16:77-78](/bible/2-esdras/16#v77)**  *[[2:07:50](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7670s)]*
 
 > <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
 >
@@ -604,7 +604,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Woe be unto them that are bound with their sins, and covered with their iniquities, like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through: once that bitterness becomes the overgrown field, nobody can reach you. The bitterness has overtaken your soul; you have found no place of repentance because you have hatred for the brother. The brother giving you scriptures, showing you charity, heaping coals of fire: not good enough, because you are overgrown. And it is even dangerous for a brother to reach his hand in there, because that bitter brother will cut you up and sell you out.
 - It is left undressed, and is cast into the fire to be consumed therewith: like you read in Revelation, hell and death were cast into the lake of fire. That is where that path ends.
 
-**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[2:10:00]*
+**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[2:10:00](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7800s)]*
 
 > <sup>[33](/bible/1-corinthians/15#v33)</sup> Be not deceived: evil communications corrupt good manners.
 
@@ -618,7 +618,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     Make no friendship with an angry man; and with a furious man thou shalt not go: lest thou learn his ways, and get a snare to thy soul. The bitter brother is like that dangerous brush; there could be a viper in there. Get too close and the bitter spirit gets on you.
 
-**[Matthew 18:6-7](/bible/matthew/18#v6)**  *[2:11:16]*
+**[Matthew 18:6-7](/bible/matthew/18#v6)**  *[[2:11:16](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7876s)]*
 
 > <sup>[6](/bible/matthew/18#v6)</sup> But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
 >
@@ -627,13 +627,13 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - Whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea: brothers think offense is only about a brother out in the street. No: the first offense, brother, is in your house. I have seen brothers offend their wives.
 - Woe unto the world because of offences! for it must needs be that offences come.
 
-**[Colossians 3:19](/bible/colossians/3#v19)**  *[2:11:58]*
+**[Colossians 3:19](/bible/colossians/3#v19)**  *[[2:11:58](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7918s)]*
 
 > <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
 - Husbands, love your wives, and be not bitter against them: with that bitterness your whole family gets destroyed. Just like the root from the tree destroyed the concrete, your house was a strong foundation, and the root of bitterness came in and uprooted all of it. Now you have inherited the wind.
 
-**[Ephesians 4:30-32](/bible/ephesians/4#v30)**  *[2:12:49]*
+**[Ephesians 4:30-32](/bible/ephesians/4#v30)**  *[[2:12:49](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=7969s)]*
 
 > <sup>[30](/bible/ephesians/4#v30)</sup> And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 >
@@ -653,7 +653,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering; forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
 
-**[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**  *[2:15:38]*
+**[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**  *[[2:15:38](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=8138s)]*
 
 > <sup>[5](/bible/2-corinthians/13#v5)</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
@@ -671,7 +671,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     Search me, O God, and know my heart: try me, and know my thoughts: and see if there be any wicked way in me. We ask the Lord to reveal the iniquity in us and not leave us blind to our own folly. And how does he search you? You have to search the scriptures.
 
-**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[2:17:37]*
+**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[[2:17:37](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=8257s)]*
 
 > <sup>[13](/bible/proverbs/28#v13)</sup> He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
@@ -687,7 +687,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 
     Confess your faults one to another, and pray one for another, that ye may be healed. We should be comfortable confessing our faults, because no temptation has taken you but such as is common to man. You confess to a brother and he says, brother, I was dealing with the same spirit, and you feel a lot better. Everybody deals with a level of bitterness, of lust, of lack of faith. That is not getting on the public announcement; it is finding a godly man and saying, I have this going on, I need help. They are going to help you.
 
-**[Matthew 6:14-15](/bible/matthew/6#v14)**  *[2:20:22]*
+**[Matthew 6:14-15](/bible/matthew/6#v14)**  *[[2:20:22](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=8422s)]*
 
 > <sup>[14](/bible/matthew/6#v14)</sup> For if ye forgive men their trespasses, your heavenly Father will also forgive you:
 >
@@ -696,7 +696,7 @@ Reading shared in class on what bitterness is: bitterness in a person is more th
 - For if ye forgive men their trespasses, your heavenly Father will also forgive you: but if ye forgive not men their trespasses, neither will your Father forgive your trespasses. As we come into this truth, offenses are going to come; we have to forgive one another.
 - We are all sick, in the same hospital, walking in through the same emergency room door. If the brother next to you coughs on you, you do not get to rebuke him while you are coughing yourself. Everybody is sick in here; forgive the brother.
 
-**[Romans 12:2](/bible/romans/12#v2)**  *[2:22:06]*
+**[Romans 12:2](/bible/romans/12#v2)**  *[[2:22:06](https://www.youtube.com/watch?v=rBRp1JXmK6U&t=8526s)]*
 
 > <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
@@ -738,4 +738,4 @@ Examine yourself, whether you are bitter toward your wife, toward the leadership
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-18-bitterness-the-hidden-leaven-from-cain-to-esau)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=rBRp1JXmK6U)

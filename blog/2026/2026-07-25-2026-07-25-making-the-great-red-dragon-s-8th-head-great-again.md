@@ -327,4 +327,4 @@ Bishop Nathaniel's class follows this one.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-25-making-the-great-red-dragon-s-8th-head-great-again)
+[Class Notes Index](/classes)

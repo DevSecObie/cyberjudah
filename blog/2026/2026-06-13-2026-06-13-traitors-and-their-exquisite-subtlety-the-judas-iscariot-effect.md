@@ -20,7 +20,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 ## Scriptures Opened
 
-**[Ecclesiasticus 19:25](/bible/sirach/19#v25)**  *[11:59]*
+**[Ecclesiasticus 19:25](/bible/sirach/19#v25)**  *[[11:59](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=719s)]*
 
 > <sup>[25](/bible/sirach/19#v25)</sup> There is an exquisite subtilty, and the same is unjust; and there is one that turneth aside to make judgment appear; and there is a wise man that justifieth in judgment.
 
@@ -28,13 +28,13 @@ We are in a very fascinating time. I call it the transition. America went from b
 - When you teach things like nation salvation, that the nations are going to be saved, to our people who have a slave mentality that is an appealing, charming doctrine. Many have low self-esteem and low self-worth, and they seek salvation for their enemies while their enemies have them captive. You want heaven for your enemies while you are in their hell? That is a slave mind.
 - As an Israelite you cannot outright say, I am teaching Christianity. So you have to be very cunning, very slick, very wordy. They will say, we do not teach Christianity; but the nations are going to be saved, though. Then you are teaching Christianity.
 
-**[Matthew 13:21](/bible/matthew/13#v21)**  *[17:29]*
+**[Matthew 13:21](/bible/matthew/13#v21)**  *[[17:29](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1049s)]*
 
 > <sup>[21](/bible/matthew/13#v21)</sup> Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.
 
 - Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended. By and by means over time. It is not immediate, but over time they are offended.
 
-**[Matthew 24:6-14](/bible/matthew/24#v6)**  *[18:48]*
+**[Matthew 24:6-14](/bible/matthew/24#v6)**  *[[18:48](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1128s)]*
 
 > <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
 >
@@ -60,7 +60,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - And many false prophets shall rise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold. The laws of God will be persecuted against; they are already passing laws, covertly and overtly, to silence and suppress this truth. Many Israelites who do not like us but watch our classes are paying attention to that, and they are positioning themselves so that when the persecution comes, they think they will be safe. You teach that only Israelites are going to be saved, that is racism; I teach everybody is going to be saved, there are some good ones. Transition: that is the beginning stage of betrayal.
 - But he that shall endure unto the end, the same shall be saved.
 
-**[Acts 8:1](/bible/acts/8#v1)**  *[23:50]*
+**[Acts 8:1](/bible/acts/8#v1)**  *[[23:50](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1430s)]*
 
 > <sup>[1](/bible/acts/8#v1)</sup> And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
 
@@ -68,7 +68,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - After a while they will pass laws saying you cannot teach this anymore. You will see a lot of those same Israelites who are bold in the street go hide in their houses and become podcast prophets, teaching with their faces blurred, in hiding. And the ones who go out bold and get locked up, they will say, see, you got locked up because you are wicked; that is the Lord judging you. That is what they will say as they cower. We stay steadfast, because we are going to teach regardless.
 - These people are trying to position themselves to be play-it-safe Israelites. I do not hate anybody, I am not racist: play it safe.
 
-**[Acts 13:46-50](/bible/acts/13#v46)**  *[26:17]*
+**[Acts 13:46-50](/bible/acts/13#v46)**  *[[26:17](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1577s)]*
 
 > <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 >
@@ -85,7 +85,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Example from the mission field: we will spend an entire day on Revelation 1:14-15, that Christ is a black man, and they are smiling, happy, going over it again and again. In America: how do you know, he is Middle Eastern, no one saw Christ, who cares what color he is, what matters is his message. Out there we gave out five or six thousand flyers and not one hit the ground; a little girl grabbed one blowing loose and asked for two more. Here they drop them in the wind at a festival. Our people are too comfortable here; this is why judgment has to come on this place.
 - But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts. Paul and Barnabas got deported out of the land because of their own people.
 
-**[Romans 8:35-39](/bible/romans/8#v35)**  *[34:17]*
+**[Romans 8:35-39](/bible/romans/8#v35)**  *[[34:17](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2057s)]*
 
 > <sup>[35](/bible/romans/8#v35)</sup> Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
 >
@@ -100,26 +100,26 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? As it is written, for thy sake we are killed all the day long: that is to be expected. Nay, in all these things we are more than conquerors through him that loved us. Nothing shall be able to separate us from the love of God.
 - In this truth you have to prepare your mind and your body for persecution and tribulation. A lot of Israelites do not want that, so they try to make captivity home: we are going to be here forever, America is not Babylon, no other captivity is coming. Based on that doctrine, we are here until the end. That is what they are trying to avoid by playing it safe.
 
-**[2 Corinthians 12:10](/bible/2-corinthians/12#v10)**  *[35:59]*
+**[2 Corinthians 12:10](/bible/2-corinthians/12#v10)**  *[[35:59](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2159s)]*
 
 > <sup>[10](/bible/2-corinthians/12#v10)</sup> Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
 
 - Paul takes pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake, because he knows it is for the Lord's sake. Persecution comes with this work; you cannot avoid it. That is why a lot of Israelites choose to join no group: they stay to themselves so they can blend in among the world and hide.
 
-**[2 Thessalonians 1:4](/bible/2-thessalonians/1#v4)**  *[36:44]*
+**[2 Thessalonians 1:4](/bible/2-thessalonians/1#v4)**  *[[36:44](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2204s)]*
 
 > <sup>[4](/bible/2-thessalonians/1#v4)</sup> So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:
 
 - We glory in you for your patience and faith in all your persecutions and tribulations that ye endure. Like Christ said in Matthew 24: endure unto the end.
 - Out in Kenya they stoned us, and Israelites laughed: you had to teach in Hamite lands. The disciples got stoned; Paul got stoned. And right here in Babylon they tried to do a drive-by on us, and a woman tried to run us over. A lot of Israelites do not want that. They will teach where it is safe: go downtown to a safe area and talk tough all day, but never go to the hard neighborhoods, never leave the country to find their people. Israel is scattered abroad, but they say, stay in America. That is fear. You can afford multiple women but cannot afford one passport; a passport costs about a hundred dollars. My kids have passports.
 
-**[2 Timothy 3:12](/bible/2-timothy/3#v12)**  *[39:42]*
+**[2 Timothy 3:12](/bible/2-timothy/3#v12)**  *[[39:42](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2382s)]*
 
 > <sup>[12](/bible/2-timothy/3#v12)</sup> Yea, and all that will live godly in Christ Jesus shall suffer persecution.
 
 - Yea, and all that will live godly in Christ Jesus shall suffer persecution. The prophets suffered persecution; the apostles and disciples, the same thing. A lot of Israelites believe they will stand on the corner all day and just go home. And some deny persecution has even started while calling every hardship tribulation: I cannot pay my light bill, that is tribulation, brother. No, that is falling on hard times; that is not persecution.
 
-**[Isaiah 28:6-15](/bible/isaiah/28#v6)**  *[41:00]*
+**[Isaiah 28:6-15](/bible/isaiah/28#v6)**  *[[41:00](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=2460s)]*
 
 > <sup>[6](/bible/isaiah/28#v6)</sup> And for a spirit of judgment to him that sitteth in judgment, and for strength to them that turn the battle to the gate.
 >
@@ -156,7 +156,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - The word of the Lord was unto them precept upon precept, line upon line; that they might go, and fall backward, and be broken, and snared, and taken. It was done that way on purpose, to confound the wicked rulers of our people. That is why the Bible is written in parables in some instances.
 - Wherefore hear the word of the Lord, ye scornful men, that rule this people: because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves. That is the play-it-safe doctrine: I teach everybody can be saved, I teach the captors are not our adversary in prophecy, so I am safe; the scourge will pass me by. They have made lies their refuge.
 
-**[1 Maccabees 1:11, 15](/bible/1-maccabees/1#v11)**  *[53:15]*
+**[1 Maccabees 1:11, 15](/bible/1-maccabees/1#v11)**  *[[53:15](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3195s)]*
 
 > <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
 >
@@ -165,7 +165,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us. The same spirit as Isaiah 28: a covenant with the Greeks. For since we departed from them we have had much sorrow: keeping these laws is too much, the law is done away with in Christ, we can do what we want in Christ. They will not say it outwardly, but that is the thinking.
 - They made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief. By forsaking the commandments of God they made themselves heathen minded.
 
-**[1 Maccabees 2:17-18](/bible/1-maccabees/2#v17)**  *[54:59]*
+**[1 Maccabees 2:17-18](/bible/1-maccabees/2#v17)**  *[[54:59](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3299s)]*
 
 > <sup>[17](/bible/1-maccabees/2#v17)</sup> Then answered the king’s officers, and said to Mattathias on this wise, Thou art a ruler, and an honourable and great man in this city, and strengthened with sons and brethren:
 >
@@ -175,7 +175,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Mattathias refused, and because of that he and his sons faced persecution and became fugitives on the run. And many joined them, choosing to be honorable the way he was. But many of my brothers today want honor and greatness in Babylon, Babylonian greatness, not God's. You cannot be a captive and get king privileges. Either you are in captivity or you are free. King is a term of endearment, but in reality, whether you make four figures or seven figures, you are a captive here.
 - Go back to Rome: the gladiators had money, women, and fame, and they were slaves. The athletes, the entertainers, the comedians: gladiators. They have no voice; they are told what to wear, what to say, what they can and cannot do. They made a covenant with the same system; if they speak out, they lose everything. Captain's point: the covenant is a contract; they are under contract, and that is why they get canceled when they say the wrong thing. That is sold to do mischief: selling their people out for fame and riches. Some of them may in time become a Nicodemus or a Joseph of Arimathaea, who was rich and brave and went and got Christ's body at the risk of his life; so this is not bashing them all, but regardless of tax bracket, they are captives here like us.
 
-**[John 11:47-48](/bible/john/11#v47)**  *[1:02:16]*
+**[John 11:47-48](/bible/john/11#v47)**  *[[1:02:16](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3736s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 >
@@ -183,7 +183,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - The chief priests and Pharisees said, What do we? for this man doeth many miracles. If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation. The Romans kept them in their seat of authority; without Rome they had no authority. So they said, we have to get rid of this man; he is taking away our following. The Pharisees had made a covenant with death and hell the same way our people did in the days of the Greeks and in Isaiah's time.
 
-**[Mark 4:17-19](/bible/mark/4#v17)**  *[1:03:14]*
+**[Mark 4:17-19](/bible/mark/4#v17)**  *[[1:03:14](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3794s)]*
 
 > <sup>[17](/bible/mark/4#v17)</sup> And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
 >
@@ -195,7 +195,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - These are they which are sown among thorns: they are in the world, around the wicked, dabbling in the world. You have some who are Israelite on one hand and gang affiliated on the other, pushing street culture on one side and Israel on the other. You cannot serve both.
 - The cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. Deceitfulness of riches: sold to do mischief. The lust of other things: women, fame, to be well spoken of in this captivity. It chokes the word, and they go right back into the world.
 
-**[2 Peter 2:1-3, 10-15](/bible/2-peter/2#v1)**  *[1:05:14]*
+**[2 Peter 2:1-3, 10-15](/bible/2-peter/2#v1)**  *[[1:05:14](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=3914s)]*
 
 > <sup>[1](/bible/2-peter/2#v1)</sup> But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 >
@@ -224,13 +224,13 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord. But these, as natural brute beasts, speak evil of the things that they understand not. What they know naturally is their emotions, their feelings.
 - They have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness. Balaam loved money. The wages of unrighteousness: money, fame, fancy clothes and cars, with other people's money.
 
-**[Ecclesiasticus 19:25](/bible/sirach/19#v25) revisited**  *[1:18:15]*
+**[Ecclesiasticus 19:25](/bible/sirach/19#v25) revisited**  *[[1:18:15](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=4695s)]*
 
 > <sup>[25](/bible/sirach/19#v25)</sup> There is an exquisite subtilty, and the same is unjust; and there is one that turneth aside to make judgment appear; and there is a wise man that justifieth in judgment.
 
 - The same that is exquisitely subtle is unjust, but you cannot figure it out unless you keep God's commandments; you will not see through the deception. There is one that turneth aside to make judgment appear: he makes it appear he is doing things righteously, and it is self-deception. And there is a wise man that justifieth in judgment: he does the right thing. The exquisite subtlety goes right back to Peter's words: an heart they have exercised with covetous practices. Real manipulative, real slick, real cunning; but it is all about money.
 
-**[Jude 1:8-11](/bible/jude/1#v8)**  *[1:20:31]*
+**[Jude 1:8-11](/bible/jude/1#v8)**  *[[1:20:31](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=4831s)]*
 
 > <sup>[8](/bible/jude/1#v8)</sup> Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 >
@@ -244,7 +244,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. But these speak evil of those things which they know not: what they know naturally, as brute beasts, in those things they corrupt themselves.
 - Woe unto them! for they have gone in the way of Cain: they hate their brothers and sisters. And ran greedily after the error of Balaam for reward: money. And perished in the gainsaying of Core: they want position, they want rank, they want preeminence.
 
-**[2 Corinthians 4:1-2](/bible/2-corinthians/4#v1)**  *[1:46:57]*
+**[2 Corinthians 4:1-2](/bible/2-corinthians/4#v1)**  *[[1:46:57](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6417s)]*
 
 > <sup>[1](/bible/2-corinthians/4#v1)</sup> Therefore seeing we have this ministry, as we have received mercy, we faint not;
 >
@@ -258,7 +258,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - So Paul's words apply: we have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully. Teaching we are the chosen people of God while cutting away God's laws is handling the word of God deceitfully; exquisite subtlety.
 - News article read in class: an advocacy organization's write-up on "radical" Hebrew Israelites, with a disclaimer distinguishing them from the "greater Hebrew Israelite faith" and from black converts to Judaism. Notice the game: there are approved, friendly Israelites, and then there are the radicals, meaning rooms like this one. The labels are trigger words: the Bible is against white supremacy, the Bible is against LGBTQ conduct, and the Bible cannot be antisemitic because it was written by Semites. And note who levels the charge while bombing Ishmaelites and Persians, who are themselves Semites. Because of articles like this, laws are being drafted to make this teaching effectively anti-American.
 
-**[Acts 20:28-31](/bible/acts/20#v28)**  *[1:47:59]*
+**[Acts 20:28-31](/bible/acts/20#v28)**  *[[1:47:59](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6479s)]*
 
 > <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
 >
@@ -270,7 +270,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - The same warning Peter gave, Paul gave; they died around the same time. For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them: pull people out of the church after themselves. Therefore watch: be mindful, pay attention. By the space of three years I ceased not to warn every one night and day with tears. Paul saw it; it was not if, it was when. And when they were gone, the church fathers came, and the church split east and west in chaos.
 
-**[Acts 15:1-9, 19-29](/bible/acts/15#v1)**  *[1:49:24]*
+**[Acts 15:1-9, 19-29](/bible/acts/15#v1)**  *[[1:49:24](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6564s)]*
 
 > <sup>[1](/bible/acts/15#v1)</sup> And certain men which came down from Judea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.
 >
@@ -315,7 +315,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - The sentence: trouble not them which from among the Gentiles are turned to God, but write unto them that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood. Those were their main hang-ups; and for the rest, Moses is read in the synagogues every sabbath day, so they can learn God's laws there.
 - Then it pleased the apostles and elders to send chosen men of their own company, Judas surnamed Barsabas and Silas, chief men among the brethren, with letters. Why letters? Because certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment. The church was being infiltrated by the Pharisees, so trusted men had to carry certification of what was actually being taught.
 
-**[Galatians 1:6-9](/bible/galatians/1#v6)**  *[1:55:47]*
+**[Galatians 1:6-9](/bible/galatians/1#v6)**  *[[1:55:47](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6947s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 >
@@ -333,7 +333,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
     False brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage: the bondage of the sacrifice system again. Our liberty is that Christ died on the cross; we are free from that burden.
 
-**[Galatians 5:1-13](/bible/galatians/5#v1)**  *[1:58:20]*
+**[Galatians 5:1-13](/bible/galatians/5#v1)**  *[[1:58:20](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7100s)]*
 
 > <sup>[1](/bible/galatians/5#v1)</sup> Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
 >
@@ -366,7 +366,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Ye did run well; who did hinder you that ye should not obey the truth? This persuasion cometh not of him that calleth you. A little leaven leaveneth the whole lump: someone infiltrating the church. He that troubleth you shall bear his judgment, whosoever he be.
 - Brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh: do not use this grace to do what you want and sin. But by love serve one another.
 
-**[2 Thessalonians 1:5-7](/bible/2-thessalonians/1#v5)**  *[2:00:31]*
+**[2 Thessalonians 1:5-7](/bible/2-thessalonians/1#v5)**  *[[2:00:31](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7231s)]*
 
 > <sup>[5](/bible/2-thessalonians/1#v5)</sup> Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:
 >
@@ -376,7 +376,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - It is a righteous thing with God to recompense tribulation to them that trouble you. The same troublers were going through all the churches, Thessalonica, Galatia, causing confusion. And to you who are troubled, rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels.
 
-**[1 John 2:18-19](/bible/1-john/2#v18)**  *[2:01:35]*
+**[1 John 2:18-19](/bible/1-john/2#v18)**  *[[2:01:35](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7295s)]*
 
 > <sup>[18](/bible/1-john/2#v18)</sup> Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
 >
@@ -384,7 +384,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - Little children, it is the last time: even now are there many antichrists. They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us. People leave out of here for no real reason at all: I am angry, I do not know why, I am leaving. They went out, that they might be made manifest that they were not all of us. They did not believe.
 
-**[Matthew 27:27-31](/bible/matthew/27#v27)**  *[2:02:40]*
+**[Matthew 27:27-31](/bible/matthew/27#v27)**  *[[2:02:40](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7360s)]*
 
 > <sup>[27](/bible/matthew/27#v27)</sup> Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.
 >
@@ -400,7 +400,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - The point is Christ being mocked. You have Israelites saying this movement is a joke and cannot be taken seriously because comedians did skits making fun of us. Christ was mocked; should we not take him seriously either? That is the talking point of a person who does not really believe and is sliding into the world. When they are offended by and by, as Matthew 13 says, they try to pull everything they learned down with them: I am bitter over my own doings, so I will renounce all I learned and call the whole community a joke.
 - Video played in class: a comedy sketch from 2013 mocking street Israelites, for which the comedian later apologized. So this is nothing new; the recent skit just rekindled what was done before, and back then they were mocking the earlier schools too.
 
-**[Luke 18:31-33](/bible/luke/18#v31)**  *[2:08:16]*
+**[Luke 18:31-33](/bible/luke/18#v31)**  *[[2:08:16](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7696s)]*
 
 > <sup>[31](/bible/luke/18#v31)</sup> Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
 >
@@ -410,7 +410,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - Christ told the twelve beforehand: the Son of man shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on: and they shall scourge him, and put him to death: and the third day he shall rise again. What he told them happened.
 
-**[2 Chronicles 36:15-16](/bible/2-chronicles/36#v15)**  *[2:09:00]*
+**[2 Chronicles 36:15-16](/bible/2-chronicles/36#v15)**  *[[2:09:00](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7740s)]*
 
 > <sup>[15](/bible/2-chronicles/36#v15)</sup> And the Lord God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:
 >
@@ -418,7 +418,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - The Lord God of their fathers sent to them by his messengers, rising up betimes, because he had compassion on his people: but they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the Lord arose against his people, till there was no remedy. Christ was mocked, and before him the prophets were mocked. It is nothing new. To minimize the movement because it is being mocked is a self-inflicted wound; it means you never really believed.
 
-**[Luke 6:22-25](/bible/luke/6#v22)**  *[2:09:58]*
+**[Luke 6:22-25](/bible/luke/6#v22)**  *[[2:09:58](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=7798s)]*
 
 > <sup>[22](/bible/luke/6#v22)</sup> Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
 >
@@ -432,7 +432,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets. What happens to us today happened to our prophets yesterday.
 - But woe unto you that are rich! for ye have received your consolation. Woe unto you that are full! Woe unto you that laugh now! for ye shall mourn and weep. In this truth you are supposed to accept and face opposition, mockery, and misuse. I know bitterness when I hear it, and that is what is being spoken from.
 
-**[Jude 1:17-20](/bible/jude/1#v17)**  *[2:17:39]*
+**[Jude 1:17-20](/bible/jude/1#v17)**  *[[2:17:39](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8259s)]*
 
 > <sup>[17](/bible/jude/1#v17)</sup> But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;
 >
@@ -447,7 +447,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Why do they want camps gone? Since camps have been around, the truth has grown so much that the world now recognizes an Israelite when it sees one, and the ones still doing worldly things get asked, are you not an Israelite? They cannot hide anymore. They want camps gone so they can blend back into the world and keep doing what they do.
 - But ye, beloved, building up yourselves on your most holy faith.
 
-**[Hebrews 10:23-25](/bible/hebrews/10#v23)**  *[2:20:02]*
+**[Hebrews 10:23-25](/bible/hebrews/10#v23)**  *[[2:20:02](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8402s)]*
 
 > <sup>[23](/bible/hebrews/10#v23)</sup> Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)
 >
@@ -457,7 +457,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - Let us hold fast the profession of our faith without wavering; and let us consider one another to provoke unto love and to good works: not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching. As you see the day of the end approaching, it is important to gather together.
 
-**[Ephesians 5:11-13](/bible/ephesians/5#v11)**  *[2:20:47]*
+**[Ephesians 5:11-13](/bible/ephesians/5#v11)**  *[[2:20:47](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8447s)]*
 
 > <sup>[11](/bible/ephesians/5#v11)</sup> And have no fellowship with the unfruitful works of darkness, but rather reprove them.
 >
@@ -467,13 +467,13 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 - Have no fellowship with the unfruitful works of darkness, but rather reprove them. The individualites cannot reprove the world, because they are out in the world doing the same things: when in Rome, doing as the Romans do. It is a shame even to speak of those things which are done of them in secret. But all things that are reproved are made manifest by the light: all things corrected are made manifest by God's laws.
 
-**[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[2:21:49]*
+**[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[2:21:49](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8509s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 
 - Gather yourselves together, yea, gather together, O nation not desired. The exact same thing Paul said: not forsaking the assembling of ourselves together. You cannot keep God's laws unless you are part of a holy convocation. Convocation means to convoke, to come together. Being on your own with your wife and kids is not a convocation; that is a get-together. Either be part of one, or if you think we are so wrong, start your own congregation; either way, you have to have a convocation.
 
-**[John 3:19-21](/bible/john/3#v19)**  *[2:22:41]*
+**[John 3:19-21](/bible/john/3#v19)**  *[[2:22:41](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8561s)]*
 
 > <sup>[19](/bible/john/3#v19)</sup> And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
 >
@@ -485,13 +485,13 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. They run from the groups that keep God's commandments, or they follow their itching ears to groups that entertain their lusts: over there I can have my vices, over there I do not have to wear fringes, over there they say everybody can be saved. They do not want correction; they despise dominion.
 - But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God. You cannot do this alone. This truth is not made to be done alone; it is made to be done together, as a family, as a nation, not as an individual.
 
-**[Ecclesiasticus 21:19](/bible/sirach/21#v19)**  *[2:24:24]*
+**[Ecclesiasticus 21:19](/bible/sirach/21#v19)**  *[[2:24:24](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8664s)]*
 
 > <sup>[19](/bible/sirach/21#v19)</sup> Doctrine unto fools is as fetters on the feet, and like manacles on the right hand.
 
 - Doctrine unto fools is as fetters on the feet, and like manacles on the right hand. The laws of God, to a fool, feel like being handcuffed and imprisoned. I agree with the history but not the theology: because the commandments of God are fetters and manacles to them. Keeping God's laws is prison to their mind, so they stay to themselves.
 
-**[Revelation 3:13-17](/bible/revelation/3#v13)**  *[2:25:20]*
+**[Revelation 3:13-17](/bible/revelation/3#v13)**  *[[2:25:20](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8720s)]*
 
 > <sup>[13](/bible/revelation/3#v13)</sup> He that hath an ear, let him hear what the Spirit saith unto the churches.
 >
@@ -506,7 +506,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - To the church of the Laodiceans: I know thy works, that thou art neither cold nor hot. You are playing around, jumping the fence. Make a choice: cold in the world, or hot and fervent in the truth. So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth: destruction.
 - Because thou sayest, I am rich, and increased with goods, and have need of nothing: I stand by myself, I do not need to join anybody. And knowest not that thou art wretched, and miserable, and poor, and blind, and naked: you do not acknowledge that you are sinful.
 
-**[Romans 13:11-14](/bible/romans/13#v11)**  *[2:26:50]*
+**[Romans 13:11-14](/bible/romans/13#v11)**  *[[2:26:50](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8810s)]*
 
 > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
 >
@@ -519,7 +519,7 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Now it is high time to awake out of sleep: for now is our salvation nearer than when we believed. The night is far spent, the day is at hand: the day of the Lord. Let us therefore cast off the works of darkness, and let us put on the armour of light.
 - Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
 
-**[1 Corinthians 4:9-13](/bible/1-corinthians/4#v9)**  *[2:27:43]*
+**[1 Corinthians 4:9-13](/bible/1-corinthians/4#v9)**  *[[2:27:43](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8863s)]*
 
 > <sup>[9](/bible/1-corinthians/4#v9)</sup> For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.
 >
@@ -534,13 +534,13 @@ We are in a very fascinating time. I call it the transition. America went from b
 - God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world. That is what the hiders do not want: they want to be Israelites in the background. No; if you are in this truth, you are a light that shines on a mountaintop. You cannot blend in. That is why they want the camps gone, because the camps put this truth in the forefront. You are going to die in the background too.
 - We are fools for Christ's sake; we are weak; we are despised; being reviled, we bless; being persecuted, we suffer it: being defamed, we intreat. Reviled means slandered and lied on; defamed is being labeled hateful and phobic. We are made as the filth of the world, the offscouring of all things unto this day. Rejected, but the Lord does not reject us; the Lord has our back.
 
-**[Hebrews 10:33](/bible/hebrews/10#v33)**  *[2:29:25]*
+**[Hebrews 10:33](/bible/hebrews/10#v33)**  *[[2:29:25](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8965s)]*
 
 > <sup>[33](/bible/hebrews/10#v33)</sup> Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.
 
 - Partly, whilst ye were made a gazingstock both by reproaches and afflictions. We are all made in this truth to be seen: let your light so shine before men. And partly, whilst ye became companions of them that were so used.
 
-**[Mark 8:38](/bible/mark/8#v38)**  *[2:29:53]*
+**[Mark 8:38](/bible/mark/8#v38)**  *[[2:29:53](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=8993s)]*
 
 > <sup>[38](/bible/mark/8#v38)</sup> Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
 
@@ -556,4 +556,4 @@ Videos and readings shown in class: an AI thumbnail video introducing the class 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-13-traitors-and-their-exquisite-subtlety-the-judas-iscariot-effect)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=j2FoUSpuWIs)

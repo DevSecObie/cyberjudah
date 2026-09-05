@@ -136,7 +136,7 @@ Learning requires repetition.
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[11:35]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[11:35](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=695s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -154,7 +154,7 @@ Learning requires repetition.
 
     Now therefore, my sons, be ye zealous for the law, and give your lives for the covenant of your fathers. That is what a man in his truth is going to do. He is going to give his life. That is his time. That is his patience. That is his problems. That is his traumas. You sisters as well, you are going to give your lives for that. Everything should revolve around being an Israelite. I had a conversation with a brother and he was asking me how he normalizes the lifestyle of an Israelite. And the question itself was the answer. Normalize that in your everyday life. When you wake up in the morning, you are an Israelite. You are not a black man in America. That is just what you have been labeled as. So the same way that you grew up and were admonished in media with being a negro in America, you have got to reverse that and admonish yourself in what an Israelite is, the Israelite culture. You have got to put yourself in those shoes at every given moment. Your thought process has to be an Israelite man, not a man in America. And call to remembrance what acts our fathers did in their time. That is how you are going to normalize what it is to be an Israelite, a person that is keeping God's commandments. So shall ye receive great honour and an everlasting name. That is how we are going to receive that name. That is how we are going to break those generational curses that we have been stigmatized to.
 
-**[Psalms 94:16](/bible/psalms/94#v16)**  *[18:20]*
+**[Psalms 94:16](/bible/psalms/94#v16)**  *[[18:20](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=1100s)]*
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
 
@@ -164,7 +164,7 @@ Learning requires repetition.
 
 - Or who will stand up for me against the workers of iniquity? So that is the question. Who is going to stand up for this generation? We can call them yins, YBs and all of this, but who is going to educate them and fix their traumas?
 
-**[Hosea 3:4](/bible/hosea/3#v4)**  *[22:01]*
+**[Hosea 3:4](/bible/hosea/3#v4)**  *[[22:01](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=1321s)]*
 
 > <sup>[4](/bible/hosea/3#v4)</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
 
@@ -174,7 +174,7 @@ Learning requires repetition.
 
 - Shall abide many days without a king and without a prince. So without a king, it is talking about our kings. We would not have a nation or ruler. But to bring it up to speed to today, we do not have a leader. Anybody that we had as a leader was either assassinated, a false leader, or we saw that in the best of their abilities they led us in a wrong way, and we scatter and disperse. We have seen that in the Chronicles and the Kings, on how we had all these different kings and they chose their own way. They chose idolatry or different things outside of keeping the commandments.
 
-**[Ezekiel 18:14-17](/bible/ezekiel/18#v14)**  *[26:02]*
+**[Ezekiel 18:14-17](/bible/ezekiel/18#v14)**  *[[26:02](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=1562s)]*
 
 > <sup>[14](/bible/ezekiel/18#v14)</sup> Now, lo, if he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like,
 >
@@ -196,7 +196,7 @@ Learning requires repetition.
 
 - That hath taken off his hand from the poor, that hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father. So if you keep these commandments you are not going to fall, and you are going to have your sins blotted out. You are not going to be like the other examples that we read, where your name is not in the book, where you die like the rest of the nations.
 
-**[Proverbs 29:15-18](/bible/proverbs/29#v15)**  *[34:01]*
+**[Proverbs 29:15-18](/bible/proverbs/29#v15)**  *[[34:01](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=2041s)]*
 
 > <sup>[15](/bible/proverbs/29#v15)</sup> The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.
 >
@@ -214,13 +214,13 @@ Learning requires repetition.
 
 - Where there is no vision, the people perish: but he that keepeth the law, happy is he. So it said a lot in that. If we are not correcting the actions of our kids, even if they see something negative or bad, we have to correct them and say, no, that is not normal. That is not how normal black people are to behave. What you are watching is not good, it is not entertainment. It is programming.
 
-**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[37:14]*
+**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[37:14](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=2234s)]*
 
 > <sup>[33](/bible/1-corinthians/15#v33)</sup> Be not deceived: evil communications corrupt good manners.
 
 - Be not deceived: evil communications corrupt good manners. Going back to that imagery, and seeing black people portray themselves or act a certain way, and then you take on that same thing.
 
-**[Proverbs 22:24-26](/bible/proverbs/22#v24)**  *[40:32]*
+**[Proverbs 22:24-26](/bible/proverbs/22#v24)**  *[[40:32](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=2432s)]*
 
 > <sup>[24](/bible/proverbs/22#v24)</sup> Make no friendship with an angry man; and with a furious man thou shalt not go:
 >
@@ -234,7 +234,7 @@ Learning requires repetition.
 
 - Be not thou one of them that strike hands, or of them that are sureties for debts. So the Bible is trying to explain to us what evil communication is, an angry man, the things that we are putting into our souls.
 
-**[2 Chronicles 22:3-4](/bible/2-chronicles/22#v3)**  *[50:54]*
+**[2 Chronicles 22:3-4](/bible/2-chronicles/22#v3)**  *[[50:54](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=3054s)]*
 
 > <sup>[3](/bible/2-chronicles/22#v3)</sup> He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly.
 >
@@ -246,7 +246,7 @@ Learning requires repetition.
 
 - Wherefore he did evil in the sight of the Lord like the house of Ahab: for they were his counsellers after the death of his father to his destruction. And that is where we are at with society. We have taught our kids that they are nothing.
 
-**[Isaiah 3:4-5](/bible/isaiah/3#v4)**  *[57:08]*
+**[Isaiah 3:4-5](/bible/isaiah/3#v4)**  *[[57:08](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=3428s)]*
 
 > <sup>[4](/bible/isaiah/3#v4)</sup> And I will give children to be their princes, and babes shall rule over them.
 >
@@ -262,7 +262,7 @@ Learning requires repetition.
 
 - Like me and my pops. He would always give me good advice out of his own experience and mistakes. I always thought that I was smarter than my pops, until I actually went out there and did what he warned me was going to happen. I am like, nah, pops, I got it, this situation is temporary and it is this. And then I go back to him like, dang, pops, you were right, I should not have done that.
 
-**[Deuteronomy 6:6-7](/bible/deuteronomy/6#v6)**  *[1:01:49]*
+**[Deuteronomy 6:6-7](/bible/deuteronomy/6#v6)**  *[[1:01:49](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=3709s)]*
 
 > <sup>[6](/bible/deuteronomy/6#v6)</sup> And these words, which I command thee this day, shall be in thine heart:
 >
@@ -282,7 +282,7 @@ Learning requires repetition.
 
 - These are the lessons and the diligence that the Bible is speaking about, so your kid understands right from wrong. And now you have got to play that part, because now you have got to show them. You walk into the school, Most High Christ bless, you have got the strongest dap and you are the best reader in school, but back at home your kids do not see you like that. You are not that person back at home, and they are internalizing all of this stuff about what is real and what is fake. And if you become fake to where it becomes real, that is what they are going to become.
 
-**[Joshua 4:6-7](/bible/joshua/4#v6)**  *[1:10:28]*
+**[Joshua 4:6-7](/bible/joshua/4#v6)**  *[[1:10:28](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=4228s)]*
 
 > <sup>[6](/bible/joshua/4#v6)</sup> That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?
 >
@@ -292,7 +292,7 @@ Learning requires repetition.
 
 - Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever.
 
-**[Joshua 4:20-22](/bible/joshua/4#v20)**  *[1:11:00]*
+**[Joshua 4:20-22](/bible/joshua/4#v20)**  *[[1:11:00](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=4260s)]*
 
 > <sup>[20](/bible/joshua/4#v20)</sup> And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.
 >
@@ -304,7 +304,7 @@ Learning requires repetition.
 
 - And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones? Then ye shall let your children know, saying, Israel came over this Jordan on dry land. We have to teach our kids our history, because they are being dumbed down in this society.
 
-**[Hosea 4:1-4](/bible/hosea/4#v1)**  *[1:15:11]*
+**[Hosea 4:1-4](/bible/hosea/4#v1)**  *[[1:15:11](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=4511s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 >
@@ -324,7 +324,7 @@ Learning requires repetition.
 
 - With the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.
 
-**[Deuteronomy 21:18-21](/bible/deuteronomy/21#v18)**  *[1:18:01]*
+**[Deuteronomy 21:18-21](/bible/deuteronomy/21#v18)**  *[[1:18:01](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=4681s)]*
 
 > <sup>[18](/bible/deuteronomy/21#v18)</sup> If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:
 >
@@ -340,7 +340,7 @@ Learning requires repetition.
 
 - And all the men of his city shall stone him with stones, that he die: so shalt thou put away evil from among you; and all Israel shall hear, and fear. So within our government, in our land, that is how we dealt with the yin situation. Well, guess what is happening today. Because we do not have the power to put our kids to sleep. It is not our government. They will call you a bad parent. They will demonize our community if we punished our kids this way. So this scripture cannot be rehearsed by us. But guess what this nation is going through.
 
-**[Sirach 30:1-3](/bible/sirach/30#v1)**  *[1:23:41]*
+**[Sirach 30:1-3](/bible/sirach/30#v1)**  *[[1:23:41](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=5021s)]*
 
 > <sup>[1](/bible/sirach/30#v1)</sup> He that loveth his son causeth him oft to feel the rod, that he may have joy of him in the end.
 >
@@ -358,7 +358,7 @@ Learning requires repetition.
 
 - And before his friends he shall rejoice of him.
 
-**[Sirach 30:4-6](/bible/sirach/30#v4)**  *[1:26:33]*
+**[Sirach 30:4-6](/bible/sirach/30#v4)**  *[[1:26:33](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=5193s)]*
 
 > <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
 >
@@ -378,7 +378,7 @@ Learning requires repetition.
 
 - And one that shall requite kindness to his friends.
 
-**[Sirach 30:7-13](/bible/sirach/30#v7)**  *[1:29:13]*
+**[Sirach 30:7-13](/bible/sirach/30#v7)**  *[[1:29:13](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=5353s)]*
 
 > <sup>[7](/bible/sirach/30#v7)</sup> He that maketh too much of his son shall bind up his wounds; and his bowels will be troubled at every cry.
 >
@@ -416,7 +416,7 @@ Learning requires repetition.
 
 - Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee. The government would not step in and get the sweat equity. You as a parent are supposed to be getting that sweat equity. You are supposed to teach them how to be adults, because once they are out of your house they have got to do it anyway. At least it can benefit them and their nation.
 
-**[Proverbs 13:1-4](/bible/proverbs/13#v1)**  *[1:45:56]*
+**[Proverbs 13:1-4](/bible/proverbs/13#v1)**  *[[1:45:56](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=6356s)]*
 
 > <sup>[1](/bible/proverbs/13#v1)</sup> A wise son heareth his father’s instruction: but a scorner heareth not rebuke.
 >
@@ -456,7 +456,7 @@ Learning requires repetition.
 
     Was returning, and sitting in his chariot read Esaias the prophet. Then the Spirit said unto Philip, Go near, and join thyself to this chariot. And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? Because we will study, we will get certain instructions, but is there a follow-up to those instructions? Sometimes we give an instruction, and do we follow up and say, did you understand what I am telling you to do? Or do you go, boy, I said do it, do it. That kid is now intimidated, afraid to do it. Are we giving the proper instructions and seeing if the person is actually ascertaining the instructions that they are given? Are they just repeating what they are seeing, trying to make it? Because you know, black people, we will buy something that has to be put together and we will dump all the pieces out, we will separate them and look at the box and put the pieces together like we see it on the box, instead of reading the instructions. Well, that is what we do with the scriptures. We will read, we will study. But are we really challenging ourselves on what is being studied? Are we asking the questions? Are we going back to say, hey, I am reading this but I do not understand any of that? And as leaders, are we giving the instructions to the people? And he said, How can I, except some man should guide me? We all have to be guided in the instruction that we are getting. You cannot just tell a person to go do something. We are all instructed until it becomes habit.
 
-**[Proverbs 13:12](/bible/proverbs/13#v12)**  *[1:54:29]*
+**[Proverbs 13:12](/bible/proverbs/13#v12)**  *[[1:54:29](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=6869s)]*
 
 > <sup>[12](/bible/proverbs/13#v12)</sup> Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
 
@@ -464,7 +464,7 @@ Learning requires repetition.
 
 - But once you give them that instruction and they start to accomplish it, that is when that tree of life springs up in them, and they get that complex of, dang, I can do anything. I actually can do anything. I said I was going to do it and I am doing it. And they start to rise up from that mentality. You start to see a change and a break in their spirit because they have been properly instructed.
 
-**[Proverbs 13:19-21](/bible/proverbs/13#v19)**  *[1:56:37]*
+**[Proverbs 13:19-21](/bible/proverbs/13#v19)**  *[[1:56:37](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=6997s)]*
 
 > <sup>[19](/bible/proverbs/13#v19)</sup> The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.
 >
@@ -486,7 +486,7 @@ Learning requires repetition.
 
     The blessing of the Lord, it maketh rich, and he addeth no sorrow with it. This is one of my favorite verses. When the Lord blesses you there is not going to be any sorrow with it. You are going to get gains. I will use it in the way of lifting weights. When you exercise or you lift weight, the muscles are being broken down. It is an acid that releases in your body and it breaks down those muscles. But when it regroups it builds more muscle and it makes you look stronger. And when you look stronger you feel stronger and you sit up a little bit more. Shout out to the greens men and the brothers that got necks. You know them brothers, they were fat and their neck sat like this, and then they start to slim down and now you can see that they have got a neck. You start to get praised, hey listen, bro, what are you doing? Something about you changed. That is what being around wise men does. And even the men that were walking with Christ, everybody knew who was walking with Christ. You sound like him. You talk like him. You have got a spirit about you that looks like Christ. It bigs you up. It makes you feel and be somebody, around wise men.
 
-**[Proverbs 13:20-21](/bible/proverbs/13#v20)**  *[2:00:11]*
+**[Proverbs 13:20-21](/bible/proverbs/13#v20)**  *[[2:00:11](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=7211s)]*
 
 > <sup>[20](/bible/proverbs/13#v20)</sup> He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
 >
@@ -500,7 +500,7 @@ Learning requires repetition.
 
 - So you have got to look at the life that we are living. If you are a diligent brother or sister in this congregation and you are doing the works, those things will be mentioned when it is time for you to go through your trial. Hey, such and such is going through this and this, we want to do something about it, what can we do? Versus the brother or sister that, yeah, they barely show up, they do not do anything, they are not in any communities, I do not even know who you are talking about right now. Do you think a community is more inclined to help that person versus this person? No.
 
-**[Sirach 3:1-8](/bible/sirach/3#v1)**  *[2:09:06]*
+**[Sirach 3:1-8](/bible/sirach/3#v1)**  *[[2:09:06](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=7746s)]*
 
 > <sup>[1](/bible/sirach/3#v1)</sup> Hear me your father, O children, and do thereafter, that ye may be safe.
 >
@@ -536,7 +536,7 @@ Learning requires repetition.
 
 - Honour thy father and mother both in word and deed. That is, in word and deed. You cannot be a respectful kid, yes sir, yes ma'am, but then not do what they say. That throws out the politeness. You can be the best at word, but it is the deeds that matter. How are you going to listen to somebody when I am telling you, when you see the trash can full and dirty, you have got to take the trash out and clean the mess on the trash can. When it is time for the trash truck to come, you have got to put it out that day or the night before, and you have to consistently do this. You have got to remember that this is your job, your duty to do. If you cannot listen to those instructions and those words and do that deed, how are you going to be an acceptable citizen? How are you going to be an acceptable servant to God?
 
-**[Sirach 3:9-13](/bible/sirach/3#v9)**  *[2:18:05]*
+**[Sirach 3:9-13](/bible/sirach/3#v9)**  *[[2:18:05](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=8285s)]*
 
 > <sup>[9](/bible/sirach/3#v9)</sup> For the blessing of the father establisheth the houses of children; but the curse of the mother rooteth out foundations.
 >
@@ -564,7 +564,7 @@ Learning requires repetition.
 
 - And if his understanding fail, have patience with him. And that is the key thing. I want to get into repetition.
 
-**[Romans 5:3-5](/bible/romans/5#v3)**  *[2:24:18]*
+**[Romans 5:3-5](/bible/romans/5#v3)**  *[[2:24:18](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=8658s)]*
 
 > <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
 >
@@ -580,7 +580,7 @@ Learning requires repetition.
 
 - And experience, hope: and hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. The Holy Ghost is these words. These instructions is pushing us to be better. That is that Proverbs 10:22, the blessing of the Lord, it adds to you and it does not make you ashamed. It does not take anything away from you. It adds to you. It gives you those experiences, those affirmations that you are looking for, even while you are going through hard things.
 
-**[Romans 12:1-2](/bible/romans/12#v1)**  *[2:29:33]*
+**[Romans 12:1-2](/bible/romans/12#v1)**  *[[2:29:33](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=8973s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 >
@@ -594,7 +594,7 @@ Learning requires repetition.
 
 - That ye may prove what is that good, and acceptable, and perfect, will of God. Now we start to teach the nation, our children, what it is to be broken and to fix that.
 
-**[Romans 13:1-4](/bible/romans/13#v1)**  *[2:31:27]*
+**[Romans 13:1-4](/bible/romans/13#v1)**  *[[2:31:27](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=9087s)]*
 
 > <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 >
@@ -630,4 +630,4 @@ Y'all grab something from this. Happy Sabbath, Israel. Most High Christ bless.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-08-from-broken-men-comes-ungodly-generations)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=gNwLUTO-JOc)

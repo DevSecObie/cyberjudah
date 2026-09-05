@@ -22,7 +22,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
 ## Scriptures Opened
 
-**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[20:08]*
+**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[[20:08](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=1208s)]*
 
 > <sup>[16](/bible/isaiah/34#v16)</sup> Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
 
@@ -41,7 +41,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     Had ye believed Moses, ye would have believed me: for he wrote of me. When Moses wrote in Genesis, Exodus, Numbers, and Deuteronomy about the Lord, that person Moses was talking about was always Christ.
 
-**[Numbers 21:14-16](/bible/numbers/21#v14)**  *[24:20]*
+**[Numbers 21:14-16](/bible/numbers/21#v14)**  *[[24:20](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=1460s)]*
 
 > <sup>[14](/bible/numbers/21#v14)</sup> Wherefore it is said in the book of the wars of the Lord, What he did in the Red sea, and in the brooks of Arnon,
 >
@@ -55,7 +55,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - Definition read in class on the King James Version: when Elizabeth died in 1603, the crown passed to James I, who had been king of Scotland for 37 years as James VI. Several months after he ascended the throne of England, he authorized a new translation of the Bible to replace the Bishops' Bible. All King James did was authorize it; he did not sit down and write the Bible. Forty-seven of the best Hebrew and Greek scholars of the day were divided into six groups: three for the Old Testament, two for the New, and one for the Apocrypha. Two groups met at Oxford, two at Cambridge, and two at Westminster. When a group completed its task, its work was submitted to twelve men, two from each panel. The revisers, who received no financial pay for their work, completed their task in two years and nine more months of revision. In 1611 the new version was published; it took almost 50 years to displace the Genevan Bible in popular favor, and after 350 years it is still used in preference to any other version in the English-speaking Protestant world.
 - Counted in class: a traditional 80 book Protestant Bible consists of 39 Old Testament books, 27 New Testament books, and 14 Apocrypha books. Eighty books in all. Keep that in mind, because we just read about a book of the wars of the Lord, and that book is not in the Bible.
 
-**[2 Esdras 14:1-5, 19-48](/bible/2-esdras/14#v1)**  *[32:26]*
+**[2 Esdras 14:1-5, 19-48](/bible/2-esdras/14#v1)**  *[[32:26](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=1946s)]*
 
 > <sup>[1](/bible/2-esdras/14#v1)</sup> And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras.
 >
@@ -136,7 +136,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - The first that thou hast written, publish openly, that the worthy and unworthy may read it: that is the law; everybody has to learn the law. But keep the seventy last, that thou mayest deliver them only to such as be wise among the people: for in them is the spring of understanding. There were 70 books with some heavy stuff in them that only wise men could read.
 - Those 70 books, the Most High made it where we do not have them today, because some things in them we are not supposed to know; it would mess with some of our minds. What we do have is enough to get the kingdom: all the laws are there, and the prophecies of what is going to take place. And in the teacher's opinion, some of those books the leadership of Rome has in the Vatican, deep down in the archives.
 
-**[Joshua 10:13](/bible/joshua/10#v13)**  *[49:18]*
+**[Joshua 10:13](/bible/joshua/10#v13)**  *[[49:18](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=2958s)]*
 
 > <sup>[13](/bible/joshua/10#v13)</sup> And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 
@@ -173,7 +173,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     His prayer also, and how God was intreated of him, behold, they are written among the sayings of the seers. There is a book called the sayings of the seers that we do not have today. The Lord took those books away because some things in them we are not to understand today; he wants us to just trust in him.
 
-**[Revelation 2:25-26](/bible/revelation/2#v25)**  *[1:03:10]*
+**[Revelation 2:25-26](/bible/revelation/2#v25)**  *[[1:03:10](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=3790s)]*
 
 > <sup>[25](/bible/revelation/2#v25)</sup> But that which ye have already hold fast till I come.
 >
@@ -182,14 +182,14 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - When Christ went up to the heavens, he told John the revelator: that which ye have already, hold fast till I come. What do we have today? Only 80 books. Do not go looking for other books; do not try to incorporate what Esau made up out there with the scriptures.
 - He that overcometh, and keepeth my works unto the end, to him will I give power over the nations. If you overcome your lusts, the temptations, and the lies, and hold on to that little faith and understanding you have from these 80 books, the Lord is going to give you power over the nations. You have enough to get the kingdom.
 
-**[1 Corinthians 13:12](/bible/1-corinthians/13#v12)**  *[1:06:46]*
+**[1 Corinthians 13:12](/bible/1-corinthians/13#v12)**  *[[1:06:46](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4006s)]*
 
 > <sup>[12](/bible/1-corinthians/13#v12)</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 
 - For now we see through a glass, darkly. Why do we see in the glass darkly? Remember what God told Moses: some things I want you to hide. We get bits and pieces; one of the apostles explains it here and there, and we start putting the full picture together, but we are still seeing in parts.
 - Now I know in part; but then shall I know even as also I am known. When Christ returns, he is going to teach us face to face, everything in those other 70 books and everything we are confused about right now. That is why you will never hear us say we have 100 percent truth: the scripture says we know in part. The part we have is these 80 books, and even with them we are missing the other books. The Most High has it that way because our flesh cannot contain some of these things.
 
-**[Zechariah 14:1-3](/bible/zechariah/14#v1)**  *[1:11:23]*
+**[Zechariah 14:1-3](/bible/zechariah/14#v1)**  *[[1:11:23](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4283s)]*
 
 > <sup>[1](/bible/zechariah/14#v1)</sup> Behold, the day of the Lord cometh, and thy spoil shall be divided in the midst of thee.
 >
@@ -200,7 +200,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - Behold, the day of the Lord cometh: the day of the Lord is destruction, and this is going to happen in the third woe. All nations will be gathered against Jerusalem to battle, and the city shall be taken; the houses rifled, the women ravished, half of the city into captivity: prisoners of war. That is future prophecy over that land.
 - Then shall the Lord go forth, and fight against those nations, as when he fought in the day of battle. The question is: when did the Lord fight in the day of battle? That is what is called the book of the wars of the Lord. He will fight against them in the future the same way he fought against the nations in the past. So now we go to the past.
 
-**[Exodus 15:3-6](/bible/exodus/15#v3)**  *[1:16:10]*
+**[Exodus 15:3-6](/bible/exodus/15#v3)**  *[[1:16:10](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4570s)]*
 
 > <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
 >
@@ -234,7 +234,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     The second man is the Lord from heaven. The Lord from heaven is Christ: that is the Almighty word that leaped off his throne and came down in Exodus.
 
-**[Exodus 14:8-31](/bible/exodus/14#v8)**  *[1:22:46]*
+**[Exodus 14:8-31](/bible/exodus/14#v8)**  *[[1:22:46](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4966s)]*
 
 > <sup>[8](/bible/exodus/14#v8)</sup> And the Lord hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.
 >
@@ -311,7 +311,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     The Lord went before them by day in a pillar of a cloud, and by night in a pillar of fire. That pillar of cloud is a chariot, and the Lord was inside it: that is the Rock that followed them. He took not away the pillar of the cloud by day, nor the pillar of fire by night.
 
-**[Deuteronomy 4:33-37](/bible/deuteronomy/4#v33)**  *[1:38:17]*
+**[Deuteronomy 4:33-37](/bible/deuteronomy/4#v33)**  *[[1:38:17](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=5897s)]*
 
 > <sup>[33](/bible/deuteronomy/4#v33)</sup> Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?
 >
@@ -346,7 +346,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     See that ye refuse not him that speaketh. The one that spake on earth was Moses; the people said, we do not want God to speak to us, Moses, you tell us the commandments, because his voice shook the earth and they were terrified. Much more shall not we escape, if we turn away from him that speaketh from heaven: that was the Lord. Yet once more I shake not the earth only, but also heaven: that is when he returns in the future to shake the nations. For our God is a consuming fire: that is what the people saw when he came down on the mountain.
 
-**[Wisdom of Solomon 18:7](/bible/wisdom-of-solomon/18#v7)**  *[1:50:07]*
+**[Wisdom of Solomon 18:7](/bible/wisdom-of-solomon/18#v7)**  *[[1:50:07](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=6607s)]*
 
 > <sup>[7](/bible/wisdom-of-solomon/18#v7)</sup> So of thy people was accepted both the salvation of the righteous, and destruction of the enemies.
 
@@ -378,7 +378,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     For in all things, O Lord, thou didst magnify thy people, and glorify them, neither didst thou lightly regard them: but didst assist them in every time and place. Wherever we were, the Lord was always there fighting for us. Even in these last days, the Lord will help us.
 
-**[2 Chronicles 20:15](/bible/2-chronicles/20#v15)**  *[1:58:56]*
+**[2 Chronicles 20:15](/bible/2-chronicles/20#v15)**  *[[1:58:56](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=7136s)]*
 
 > <sup>[15](/bible/2-chronicles/20#v15)</sup> And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
 
@@ -400,7 +400,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind. If your mind is not prepared to suffer the same way Christ suffered, you are not a soldier in Christ. The Bible is telling you what is going to happen; do not live in la la land. For he that hath suffered in the flesh hath ceased from sin: that is how you become perfect. Those of you that want a comfortable life, this truth is not for you.
 
-**[Joshua 10:7-42](/bible/joshua/10#v7)**  *[2:07:56]*
+**[Joshua 10:7-42](/bible/joshua/10#v7)**  *[[2:07:56](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=7676s)]*
 
 > <sup>[7](/bible/joshua/10#v7)</sup> So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour.
 >
@@ -451,7 +451,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - The five kings fled and hid themselves in a cave at Makkedah, and Joshua said, Roll great stones upon the mouth of the cave; stay ye not, but pursue after your enemies. When they brought out those five kings, Joshua called for all the men of Israel and said unto the captains of the men of war, Come near, put your feet upon the necks of these kings. And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the Lord do to all your enemies against whom ye fight. This was Israel conquering the land of Canaan, and it is going to happen again in the future.
 - And all these kings and their land did Joshua take at one time, because the Lord God of Israel fought for Israel.
 
-**[Joshua 11:10-23](/bible/joshua/11#v10)**  *[2:20:46]*
+**[Joshua 11:10-23](/bible/joshua/11#v10)**  *[[2:20:46](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=8446s)]*
 
 > <sup>[10](/bible/joshua/11#v10)</sup> And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.
 >
@@ -486,7 +486,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - At that time Joshua cut off the Anakims from the mountains: the Anakims are the giants. He was fighting giants. None were left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod there remained. That is where Goliath the Philistine came from later.
 - So Joshua took the whole land, and gave it for an inheritance unto Israel according to their divisions by their tribes.
 
-**[Joshua 5:13-14](/bible/joshua/5#v13)**  *[2:25:54]*
+**[Joshua 5:13-14](/bible/joshua/5#v13)**  *[[2:25:54](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=8754s)]*
 
 > <sup>[13](/bible/joshua/5#v13)</sup> And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?
 >
@@ -503,7 +503,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     We see Jesus, who was made a little lower than the angels for the suffering of death. Before that, in Exodus, he did not come a little lower than the angels. It became him to make the captain of their salvation perfect through sufferings: the captain of our salvation is the captain of the Lord's host that we read about with Joshua.
 
-**[1 Samuel 17:45-47](/bible/1-samuel/17#v45)**  *[2:28:28]*
+**[1 Samuel 17:45-47](/bible/1-samuel/17#v45)**  *[[2:28:28](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=8908s)]*
 
 > <sup>[45](/bible/1-samuel/17#v45)</sup> Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied.
 >
@@ -529,7 +529,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     When the Philistines spread themselves in the valley of Rephaim, David enquired of the Lord. David used to talk to the Lord before he made decisions, and we have to learn to do that: Lord, should I do this? If it is not right, shut it down. The Lord said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees. And when thou hearest the sound of a going in the tops of the mulberry trees, then thou shalt bestir thyself: for then shall the Lord go out before thee, to smite the host of the Philistines. The Lord goes out before you, fighting with you. And when you read the Maccabees, angels came down and fought with Judas Maccabeus too.
 
-**[Revelation 19:9-21](/bible/revelation/19#v9)**  *[2:43:10]*
+**[Revelation 19:9-21](/bible/revelation/19#v9)**  *[[2:43:10](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=9790s)]*
 
 > <sup>[9](/bible/revelation/19#v9)</sup> And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
 >
@@ -570,7 +570,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 
     Behold, the Lord cometh with ten thousands of his saints. Those armies in heaven following him are the saints in the white robes, the ones that loved not their lives unto the death and received the immortal body. He is coming to execute judgment upon all, and to convince all that are ungodly of all their ungodly deeds, and of all their hard speeches which ungodly sinners have spoken against him.
 
-**[Joel 3:2, 9-21](/bible/joel/3#v2)**  *[2:54:00]*
+**[Joel 3:2, 9-21](/bible/joel/3#v2)**  *[[2:54:00](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=10440s)]*
 
 > <sup>[2](/bible/joel/3#v2)</sup> I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
 >
@@ -606,7 +606,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - Multitudes, multitudes in the valley of decision: for the day of the Lord is near. The sun and the moon shall be darkened. The Lord also shall roar out of Zion, and utter his voice from Jerusalem, because that is where he is coming back: Acts 1 tells you he returns to the mount of Olives the same way he ascended. And the heavens and the earth shall shake: but the Lord will be the hope of his people, and the strength of the children of Israel.
 - Then shall Jerusalem be holy, and there shall no strangers pass through her any more. Egypt shall be a desolation: the Egypt there is spiritual Egypt, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land. We are not doing anything to these people but teaching the word of God, and for that they will persecute. But Judah shall dwell for ever, and Jerusalem from generation to generation, for the Lord dwelleth in Zion.
 
-**[Isaiah 13:4-9](/bible/isaiah/13#v4)**  *[3:03:23]*
+**[Isaiah 13:4-9](/bible/isaiah/13#v4)**  *[[3:03:23](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=11003s)]*
 
 > <sup>[4](/bible/isaiah/13#v4)</sup> The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
 >
@@ -624,7 +624,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land. The end of heaven is paradise: the Lord is coming from paradise with the weapons of his wrath.
 - Howl ye; for the day of the Lord is at hand. Every man's heart shall melt, and they shall be afraid: pangs and sorrows shall take hold of them; their faces shall be as flames. Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate.
 
-**[2 Esdras 13:1-11, 25-39](/bible/2-esdras/13#v1)**  *[3:06:17]*
+**[2 Esdras 13:1-11, 25-39](/bible/2-esdras/13#v1)**  *[[3:06:17](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=11177s)]*
 
 > <sup>[1](/bible/2-esdras/13#v1)</sup> And it came to pass after seven days, I dreamed a dream by night:
 >
@@ -685,7 +685,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - When all the people hear his voice, every man shall leave the battle they have against one another, and an innumerable multitude shall be gathered together willing to come and overcome him by fighting. But he shall stand upon the top of the mount Sion, and Sion shall come and be shewed to all men, prepared and builded, like as the hill graven without hands.
 - And this my Son shall rebuke the wicked inventions of those nations: their missiles, their weapons; the Lord is going to rebuke all of it. Which for their wicked life are fallen into the tempest, and he shall destroy them without labour by the law which is like unto fire. He is going to be speaking the law of God, and that is what will be destroying them; and that fire is not regular fire; that is when the torment begins.
 
-**[Isaiah 42:13-16](/bible/isaiah/42#v13)**  *[3:17:04]*
+**[Isaiah 42:13-16](/bible/isaiah/42#v13)**  *[[3:17:04](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=11824s)]*
 
 > <sup>[13](/bible/isaiah/42#v13)</sup> The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.
 >
@@ -699,7 +699,7 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - I have long time holden my peace; I have been still, and refrained myself. The Lord is saying: I saw all the evil being done on this earth and I said nothing; I restrained myself. Now will I cry like a travailing woman; I will destroy and devour at once. I will make waste mountains and hills: mountains are nations.
 - And I will bring the blind by a way that they knew not; I will lead them in paths that they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them: that is what the Lord will do for us.
 
-**[Isaiah 43:2-6](/bible/isaiah/43#v2)**  *[3:20:23]*
+**[Isaiah 43:2-6](/bible/isaiah/43#v2)**  *[[3:20:23](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=12023s)]*
 
 > <sup>[2](/bible/isaiah/43#v2)</sup> When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
 >
@@ -734,4 +734,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-18-the-book-of-the-wars-of-the-lord)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=6qcYL9qpE7o)

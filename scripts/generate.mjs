@@ -395,7 +395,10 @@ citedBooks.forEach((b, i) => {
 });
 
 /* ---------------- API: notes; search indexes ---------------- */
-const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
+// Link targets are dropped, not just the brackets: every scripture citation and every
+// timestamp in a class note carries a URL, and leaving them in put "/bible/deuteronomy/8#v1"
+// and "https://www.youtube.com/watch?v=..." into the search text as words to match on.
+const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, summary: n.summary })));
 // Search records for the sharded Pagefind index (built by scripts/build-search-index.mjs).
 // Written outside static/ on purpose: the flat notes+verses JSON reached 20 MB, and the old

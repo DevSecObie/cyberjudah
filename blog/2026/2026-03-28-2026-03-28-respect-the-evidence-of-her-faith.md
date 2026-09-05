@@ -18,13 +18,13 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[10:54]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[10:54](https://www.youtube.com/watch?v=hKifTTWBba8&t=654s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
 - Whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. We are all here because we believe; we are not here for a social event.
 
-**[Genesis 2:7-24](/bible/genesis/2#v7)**  *[11:50]*
+**[Genesis 2:7-24](/bible/genesis/2#v7)**  *[[11:50](https://www.youtube.com/watch?v=hKifTTWBba8&t=710s)]*
 
 > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 >
@@ -61,7 +61,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     For the man is not of the woman; but the woman of the man. Neither was the man created for the woman; but the woman for the man. That is thus saith the Lord; argue with God. So many people spend their whole lives fighting against their God given purpose, and you wonder why you have all these spirits of depression and anxiety: it is because you are fighting against your God given role. You cannot change it, and when you try to change it, it only brings confusion. The sooner you accept the truth of the matter, the sooner there will be peace in your home and peace within yourself. Sometimes the help starts to think that she is the purpose; no, you are the help meet for me and my house.
 
-**[Genesis 3:1-6](/bible/genesis/3#v1)**  *[21:23]*
+**[Genesis 3:1-6](/bible/genesis/3#v1)**  *[[21:23](https://www.youtube.com/watch?v=hKifTTWBba8&t=1283s)]*
 
 > <sup>[1](/bible/genesis/3#v1)</sup> Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 >
@@ -80,7 +80,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - What was within the woman? The class answered: jealousy of the position Adam was in; sedition; mutiny. She wanted his spot. Brothers, if you think for a second that she is not trying to overthrow you, you are fooling yourself. They will not say it; it is the spirit within them. The same thing happens anywhere order and structure are put in place: you have brothers that want to be the one calling the shots, that have a problem with structure. It is in them, and we see it from the beginning.
 - When the woman saw that the tree was good for food, and that it was pleasant to the eyes: Satan started scratching the itch that was already there. She took of the fruit thereof, and did eat. From that point, death entered into the world. There is no mistake worse than the mistake that was made, because death entered into the world through it.
 
-**[1 Timothy 2:11-14](/bible/1-timothy/2#v11)**  *[27:01]*
+**[1 Timothy 2:11-14](/bible/1-timothy/2#v11)**  *[[27:01](https://www.youtube.com/watch?v=hKifTTWBba8&t=1621s)]*
 
 > <sup>[11](/bible/1-timothy/2#v11)</sup> Let the woman learn in silence with all subjection.
 >
@@ -93,26 +93,26 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - Let the woman learn in silence with all subjection. What was going on? You had women that were out of their place, and Paul was having to correct them; he had to put it in a letter, so it was an issue. Let them learn in subjection, from their own husbands.
 - For Adam was first formed, then Eve. Paul went all the way back to the beginning to deal with this situation of the woman being disorderly; that is why it is relevant. And Adam was not deceived, but the woman being deceived was in the transgression: he is telling you what happens when you allow the women to lead and get out of their roles.
 
-**[Ecclesiasticus 25:24](/bible/sirach/25#v24)**  *[28:50]*
+**[Ecclesiasticus 25:24](/bible/sirach/25#v24)**  *[[28:50](https://www.youtube.com/watch?v=hKifTTWBba8&t=1730s)]*
 
 > <sup>[24](/bible/sirach/25#v24)</sup> Of the woman came the beginning of sin, and through her we all die.
 
 - Of the woman came the beginning of sin, and through her we all die. Eve allowed the serpent to deceive her, and it was because of what was already within her. All she had to do was play her position and stay in order.
 - You might think it is too far fetched that your beloved wife, the mother of your children, could have the ability to be out of order. You are asleep, because the first woman, created by God himself, was susceptible to the devil.
 
-**[Ecclesiasticus 36:25](/bible/sirach/36#v25)**  *[32:04]*
+**[Ecclesiasticus 36:25](/bible/sirach/36#v25)**  *[[32:04](https://www.youtube.com/watch?v=hKifTTWBba8&t=1924s)]*
 
 > <sup>[25](/bible/sirach/36#v25)</sup> Where no hedge is, there the possession is spoiled: and he that hath no wife will wander up and down mourning.
 
 - Where no hedge is, there the possession is spoiled. This is for the brothers that like to be gone from the house: the truckers, the ones gone long distance for long periods, who wonder why they come home to a different person. You have to be there, constantly reinforcing your standard, as well as exhorting, building up, and being that support system. A hedge is protection; if you leave your post, the possession will be spoiled.
 
-**[Ecclesiasticus 10:13](/bible/sirach/10#v13)**  *[34:03]*
+**[Ecclesiasticus 10:13](/bible/sirach/10#v13)**  *[[34:03](https://www.youtube.com/watch?v=hKifTTWBba8&t=2043s)]*
 
 > <sup>[13](/bible/sirach/10#v13)</sup> For pride is the beginning of sin, and he that hath it shall pour out abomination: and therefore the Lord brought upon them strange calamities, and overthrew them utterly.
 
 - For pride is the beginning of sin. That is what pushed her over. Do not ever think a woman does not have pride: that pride is wanting to be over you, to make the decisions. It is what she battles every day, and it runs into sin. He that hath it shall pour out abomination: resentment, grudges, hatred every time you come to correct it. Therefore the Lord brought upon them strange calamities, and overthrew them utterly. Do not let that pride seep into your house.
 
-**[2 Corinthians 11:3](/bible/2-corinthians/11#v3)**  *[35:27]*
+**[2 Corinthians 11:3](/bible/2-corinthians/11#v3)**  *[[35:27](https://www.youtube.com/watch?v=hKifTTWBba8&t=2127s)]*
 
 > <sup>[3](/bible/2-corinthians/11#v3)</sup> But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
 
@@ -125,7 +125,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     Every man is tempted, when he is drawn away of his own lust, and enticed. The temptation comes from something already within you. If you have a problem with wanting to be the head, wanting to be the shot caller in the home, Satan plays with that, and you will look up and there will be a complete role reversal in your home.
 
-**[Genesis 3:12-20](/bible/genesis/3#v12)**  *[43:08]*
+**[Genesis 3:12-20](/bible/genesis/3#v12)**  *[[43:08](https://www.youtube.com/watch?v=hKifTTWBba8&t=2588s)]*
 
 > <sup>[12](/bible/genesis/3#v12)</sup> And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.
 >
@@ -151,7 +151,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - And thy desire shall be to thy husband, and he shall rule over thee. A lot of women look at this and think the rulership only came because of the fall. No: go back to Genesis 2. He was placed over the creatures and named them, and he named her; the headship was already there. Your desire shall be to thy husband means his wants, his aspirations, what he sees fit is what you are going to see fit; if you want anything, it is from your husband.
 - And unto Adam he said, Because thou hast hearkened unto the voice of thy wife: because you listened to what she had to say, cursed is the ground for thy sake. And Adam called his wife's name Eve, because she was the mother of all living.
 
-**[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[50:54]*
+**[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[50:54](https://www.youtube.com/watch?v=hKifTTWBba8&t=3054s)]*
 
 > <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
 
@@ -167,7 +167,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     And he is the head of the body, the church. Christ is the head of the church.
 
-**[John 5:19-30](/bible/john/5#v19)**  *[52:04]*
+**[John 5:19-30](/bible/john/5#v19)**  *[[52:04](https://www.youtube.com/watch?v=hKifTTWBba8&t=3124s)]*
 
 > <sup>[19](/bible/john/5#v19)</sup> Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.
 >
@@ -188,14 +188,14 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - He that honoureth not the Son honoureth not the Father which hath sent him. To honor the Son means you honor what he said. If you do not honor the order that God has given you, you are not honoring the Lord; it is impossible. There cannot be a commandment that you are negotiating on.
 - I can of mine own self do nothing: I seek not mine own will, but the will of the Father which hath sent me. Christ is letting you know that he himself is in the divine order and submits to the position he has been given. What do we look like doing anything other than what Christ did?
 
-**[1 Corinthians 14:34](/bible/1-corinthians/14#v34)**  *[56:36]*
+**[1 Corinthians 14:34](/bible/1-corinthians/14#v34)**  *[[56:36](https://www.youtube.com/watch?v=hKifTTWBba8&t=3396s)]*
 
 > <sup>[34](/bible/1-corinthians/14#v34)</sup> Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.
 
 - Let your women keep silence in the churches. This scripture has been taken out and remixed; everybody has come up with all types of excuses, because of that order. You have men out there whose whole job is to appease the woman, no matter how far it goes, and it makes them popular. That mindset came from the world, and it has become the standard some women measure a man by.
 - Sisters, what is happening in here right now is that the Israelite man is being reformed. Everything you were told a man is supposed to be is being demolished, because right along with the bad things you dislike about us, the weak things men learned in the world to get women have to be demolished too. Just like you want him to shake the old spirits, he has to shake the world's programming. A man should be chased; a man should be valued; the man is the prize.
 
-**[Exodus 20:12](/bible/exodus/20#v12)**  *[1:03:22]*
+**[Exodus 20:12](/bible/exodus/20#v12)**  *[[1:03:22](https://www.youtube.com/watch?v=hKifTTWBba8&t=3802s)]*
 
 > <sup>[12](/bible/exodus/20#v12)</sup> Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.
 
@@ -212,7 +212,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     Honour thy father and thy mother, that thy days may be prolonged. The Lord knew from the beginning that the inner structure of the home is what builds the nation. When there is dysfunction in the home, it affects the whole nation: households affect other households, your kids learn behaviors from their kids, a gossiping best friend infects your wife, and murmuring company infects you. You will infect the nation if your household is not in order.
 
-**[Numbers 30:3-8](/bible/numbers/30#v3)**  *[1:05:31]*
+**[Numbers 30:3-8](/bible/numbers/30#v3)**  *[[1:05:31](https://www.youtube.com/watch?v=hKifTTWBba8&t=3931s)]*
 
 > <sup>[3](/bible/numbers/30#v3)</sup> If a woman also vow a vow unto the Lord, and bind herself by a bond, being in her father’s house in her youth;
 >
@@ -230,7 +230,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - And if she had at all an husband when she vowed: the husband can do the same. A married, grown woman makes a vow to the Lord, and her husband can disallow it and make it of none effect. He has the same amount of power over her as her father did.
 - What you are seeing is a transference of power. When a father gives his daughter to a man, he gives up his power over his daughter to that man. If that man has that amount of power, should she not honor her husband as she honored her father? It is the same distance of respect: from children to mother, from wife to husband, from a man to Christ, from Christ to his Father. It is only the world that tells you that husband and wife are on the same level.
 
-**[Exodus 22:16-17](/bible/exodus/22#v16)**  *[1:11:54]*
+**[Exodus 22:16-17](/bible/exodus/22#v16)**  *[[1:11:54](https://www.youtube.com/watch?v=hKifTTWBba8&t=4314s)]*
 
 > <sup>[16](/bible/exodus/22#v16)</sup> And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
 >
@@ -240,7 +240,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - But if her father utterly refuse to give her unto him: the father has a choice. The father can refuse even then. A lot of times we do not understand the amount of power the father has in the home, and nothing changes when that father is a husband: the same power he has over his children is the power he has over his wife. So where is there room for disrespect? There is not.
 - For clarity: between those verses there were marriage papers; sleeping with her alone does not make her your wife.
 
-**[Deuteronomy 22:13-18](/bible/deuteronomy/22#v13)**  *[1:15:08]*
+**[Deuteronomy 22:13-18](/bible/deuteronomy/22#v13)**  *[[1:15:08](https://www.youtube.com/watch?v=hKifTTWBba8&t=4508s)]*
 
 > <sup>[13](/bible/deuteronomy/22#v13)</sup> If any man take a wife, and go in unto her, and hate her,
 >
@@ -269,7 +269,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     Hast thou daughters? Have a care of their body, and shew not thyself cheerful toward them. You are not supposed to be your children's friend; you are their parent, over them, losing sleep watching over them. A daughter learns order from the household: her father is the first form of respect she has. Show yourself cheerful and you blur the lines, and so is her perception of authority blurred; how is she going to deal with her husband when she is older? Marry thy daughter, and so shalt thou have performed a weighty matter: because that man now has the power you had over your beloved daughter. If I am going to give that power to somebody, I am going to make sure he is going to do right by her.
 
-**[Ecclesiasticus 6:7-13](/bible/sirach/6#v7)**  *[1:22:14]*
+**[Ecclesiasticus 6:7-13](/bible/sirach/6#v7)**  *[[1:22:14](https://www.youtube.com/watch?v=hKifTTWBba8&t=4934s)]*
 
 > <sup>[7](/bible/sirach/6#v7)</sup> If thou wouldest get a friend, prove him first and be not hasty to credit him.
 >
@@ -289,7 +289,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - Do you know the amount of authority you are giving to that man when you decide to be his wife? You are literally saying, whatever he says, I am going to do. And if you find out after the fact that he is unreasonable, know that the Lord knows it too, and the Lord will take care of one of his daughters: whether through changing him, taking him through the wringer, or dealing with him. The Lord is a just God.
 - A lot of single sisters come into this truth without a father in the truth searching out a husband, so much has been placed in your hands. But the way things were done in the scriptures, it was the father's decision; he went to the father, and there was work to be done for her hand. We have been westernized to the point that we think that is crazy; we are the only ones that do.
 
-**[Numbers 12:1-15](/bible/numbers/12#v1)**  *[1:28:32]*
+**[Numbers 12:1-15](/bible/numbers/12#v1)**  *[[1:28:32](https://www.youtube.com/watch?v=hKifTTWBba8&t=5312s)]*
 
 > <sup>[1](/bible/numbers/12#v1)</sup> And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 >
@@ -326,7 +326,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - And the Lord said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? That is not telling us to spit in our kids' faces; it means she should have been humbled from a child. She should never have felt comfortable speaking the way she spoke; a woman is not supposed to feel comfortable being that way toward men in any capacity. Miriam had to learn the hard way.
 - God took that disrespect toward leadership personally, and he intervened. A lot of us get disrespected in our homes because of what our wives learned as children, and the same goes for how we function; this is why we apply the laws in our households today, so our kids are not affected.
 
-**[Ephesians 5:22-33](/bible/ephesians/5#v22)**  *[1:36:15]*
+**[Ephesians 5:22-33](/bible/ephesians/5#v22)**  *[[1:36:15](https://www.youtube.com/watch?v=hKifTTWBba8&t=5775s)]*
 
 > <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
 >
@@ -363,7 +363,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     Wives, submit yourselves unto your own husbands, as it is fit in the Lord. Paul addressed this in almost all of his writings. What is fit in the Lord? As the Lord has designed. Can you truly say you are in the truth and you do not respect that man? You cannot, no matter how long you have been sitting here.
 
-**[Titus 2:4-5](/bible/titus/2#v4)**  *[2:05:08]*
+**[Titus 2:4-5](/bible/titus/2#v4)**  *[[2:05:08](https://www.youtube.com/watch?v=hKifTTWBba8&t=7508s)]*
 
 > <sup>[4](/bible/titus/2#v4)</sup> That they may teach the young women to be sober, to love their husbands, to love their children,
 >
@@ -373,7 +373,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 - Do you understand what happens to a man when he feels disrespected? Sisters, you do not realize the space you are stepping into; this is why there is domestic violence and broken families among us. And brothers, the way you deal with disrespect speaks volumes: if you are not answering with the scriptures, you are not in the truth either. Somebody has to be spiritual in the situation.
 - Discussed in class: what was done to us historically; how the home was split, how Esau stepped in and replaced the man in the home, how the crack epidemic took men out of the home and the disdain for the men grew. We are the only nation whose women say we do not need a man while depending on the system. But we are not the same men; we are taking back what belongs to us. And sisters, even where a brother has done wrong: if you love the Lord, you respect him anyway. Your respect is a reflection of your belief and faith in Christ; without it, you are just as bad as him.
 
-**[1 Peter 3:1](/bible/1-peter/3#v1)**  *[2:09:24]*
+**[1 Peter 3:1](/bible/1-peter/3#v1)**  *[[2:09:24](https://www.youtube.com/watch?v=hKifTTWBba8&t=7764s)]*
 
 > <sup>[1](/bible/1-peter/3#v1)</sup> Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 
@@ -390,7 +390,7 @@ The title of the class is Respect: The Evidence Of Her Faith. A lot of our relat
 
     Hast thou a wife after thy mind? Forsake her not. A woman after your mind understands that she is in subjection to you, that what you want is what she wants; she makes your desires her desires, your aspirations her aspirations, because her desire is unto her husband, not unto herself. Her job as the manager of the house is to make sure the head of it is happy. But the world told her, no, it is yours, sis; do what you want to do.
 
-**[Romans 8:38-39](/bible/romans/8#v38)**  *[2:32:17]*
+**[Romans 8:38-39](/bible/romans/8#v38)**  *[[2:32:17](https://www.youtube.com/watch?v=hKifTTWBba8&t=9137s)]*
 
 > <sup>[38](/bible/romans/8#v38)</sup> For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 >
@@ -405,4 +405,4 @@ Nothing shall separate us from the love of God, and that love is what causes a w
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-03-28-respect-the-evidence-of-her-faith)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=hKifTTWBba8)

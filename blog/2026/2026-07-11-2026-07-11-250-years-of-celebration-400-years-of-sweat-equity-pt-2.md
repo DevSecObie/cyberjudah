@@ -22,7 +22,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 
 ## Scriptures Opened
 
-**[Revelation 12:1-6](/bible/revelation/12#v1)**  *[15:44]*
+**[Revelation 12:1-6](/bible/revelation/12#v1)**  *[[15:44](https://www.youtube.com/watch?v=C5q-raZJyNA&t=944s)]*
 
 > <sup>[1](/bible/revelation/12#v1)</sup> And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 >
@@ -98,7 +98,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 
     Their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt. This great city has both traits: you cannot find a place on earth with more sodomy in it than right here, and it mimics Egypt because the twelve tribes went into bondage here again, brought in with ships. Where also our Lord was crucified: Christ was not crucified here physically, but they gave us Christianity and destroyed the minds of our people. Dead bodies means mentally and spiritually dead: dead to who we are, because they said you are not the children of Israel. Three days and an half: 350 years. They shall not suffer their dead bodies to be put in graves, because we are not physically dead. They that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another: the nations are rejoicing and celebrating over our destruction. Because these two prophets tormented them that dwelt on the earth: they know our history and remember the power we once ruled with. And after three days and an half the spirit of life from God entered into them, and they stood upon their feet: after the 350 years, this goes into Ezekiel 37, the dead bones coming to life. That is how you are waking up to the truth. And great fear fell upon them which saw them: they know our God is coming back.
 
-**[Revelation 12:14](/bible/revelation/12#v14)**  *[52:43]*
+**[Revelation 12:14](/bible/revelation/12#v14)**  *[[52:43](https://www.youtube.com/watch?v=C5q-raZJyNA&t=3163s)]*
 
 > <sup>[14](/bible/revelation/12#v14)</sup> And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
 
@@ -113,7 +113,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 
     Because thou servedst not the Lord thy God with joyfulness and with gladness of heart for the abundance of all things. We are not happy to keep the Most High's holy days; we show joyfulness and gladness of heart to celebrate pagan holidays instead, but for Passover, the Sabbath, the day of atonement, and the feast of unleavened bread, the beautiful holy days the Lord gave us, we are mad. Therefore shalt thou serve thine enemies in hunger, and in thirst, and in nakedness, and in want of all things: for everything you need, food, water, clothing, hospital care, you have to go to the same enemy, because we broke God's law. And he shall put a yoke of iron upon thy neck, until he have destroyed thee: until you are dead bodies in the street of America, not even knowing who you are, celebrating the Fourth of July when your people were in slavery on that same date. Jeremiah 23 says woe be unto the pastors that destroy and scatter the sheep of my pasture; the preachers that deceived our people with his Bible will answer for it.
 
-**[Revelation 17:11](/bible/revelation/17#v11)**  *[1:07:08]*
+**[Revelation 17:11](/bible/revelation/17#v11)**  *[[1:07:08](https://www.youtube.com/watch?v=C5q-raZJyNA&t=4028s)]*
 
 > <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
 
@@ -121,7 +121,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 - Their philosophy is might makes right. They have the power to legitimize criminality: to murder, rob, and steal the land from our brothers the Native Americans, then set up court systems and tell you to come learn about justice, and set churches on top of blood and bones and say come learn about Jesus, and feel completely absolved of any judgment.
 - Last week I said we had to make it through that wicked weekend, and that I had to wait for the holiday to pass to find out how many of our people got put to death. Sure enough, the brother Nolan Wells, on that very holiday, was out with white acquaintances, taken onto an island, and drowned, and suddenly nobody knows anything. In the tenth grade I had a classmate from the Bronx named Jerry; he went swimming with white acquaintances, and by eleventh grade he was gone. The word was that he panicked and drowned. It is always these mysterious accidents where you are the only one dead. The message is for us to watch over and guide our children, and to get our mind out of the pipe dream of what this country is going to do for us. That does not mean do not go to school or do not do well on your jobs; all of those things are to be used for your benefit and your nation's benefit, so that we can be found in favor in God's eyesight when he comes to redeem us.
 
-**[2 Esdras 13:40-46](/bible/2-esdras/13#v40)**  *[1:15:00]*
+**[2 Esdras 13:40-46](/bible/2-esdras/13#v40)**  *[[1:15:00](https://www.youtube.com/watch?v=C5q-raZJyNA&t=4500s)]*
 
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
@@ -150,13 +150,13 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 
     Of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do. They were able to read the stars and lead the ships; they knew how to navigate the waters.
 
-**[Zechariah 9:6](/bible/zechariah/9#v6)**  *[1:23:28]*
+**[Zechariah 9:6](/bible/zechariah/9#v6)**  *[[1:23:28](https://www.youtube.com/watch?v=C5q-raZJyNA&t=5008s)]*
 
 > <sup>[6](/bible/zechariah/9#v6)</sup> And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.
 
 - And a bastard shall dwell in Ashdod. The word is in the Bible, spelled out. Ashdod is the seaport city the Philistines used to occupy, which is by modern day Tel Aviv. A bastard in scripture is one without the Father: Hebrews says, if ye be without chastisement, then are ye bastards. The Lord is not their father; the Lord is your Father.
 
-**[1 Kings 11:1-9](/bible/1-kings/11#v1)**  *[1:32:28]*
+**[1 Kings 11:1-9](/bible/1-kings/11#v1)**  *[[1:32:28](https://www.youtube.com/watch?v=C5q-raZJyNA&t=5548s)]*
 
 > <sup>[1](/bible/1-kings/11#v1)</sup> But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;
 >
@@ -181,7 +181,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 - He had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart after other gods. Solomon went after Ashtoreth the goddess of the Zidonians: Ashtoreth is where Easter comes from, the goddess of fertility. Then did Solomon build an high place for Chemosh, the abomination of Moab, and for Molech, the abomination of the children of Ammon. That is where that star came in: the star of Remphan, the star of Molech, witchcraft. Solomon did evil in the sight of the Lord, and the Lord was angry with Solomon, because his heart was turned from the Lord God of Israel, which had appeared unto him twice.
 - Being that Solomon was into it, the navy was involved in it; that is the reason you see those symbols in some of the records of the people that came over. But that is not a symbol we are supposed to be dealing with. It is not the Star of David; that is not in the Bible.
 
-**[Song of Solomon 8:6](/bible/song-of-solomon/8#v6)**  *[1:39:05]*
+**[Song of Solomon 8:6](/bible/song-of-solomon/8#v6)**  *[[1:39:05](https://www.youtube.com/watch?v=C5q-raZJyNA&t=5945s)]*
 
 > <sup>[6](/bible/song-of-solomon/8#v6)</sup> Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.
 
@@ -212,7 +212,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 
     Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel. What is the seal? Go right back to Isaiah 8:16: the law, in the forehead, in the mind.
 
-**[Ecclesiastes 12:8-14](/bible/ecclesiastes/12#v8)**  *[1:47:50]*
+**[Ecclesiastes 12:8-14](/bible/ecclesiastes/12#v8)**  *[[1:47:50](https://www.youtube.com/watch?v=C5q-raZJyNA&t=6470s)]*
 
 > <sup>[8](/bible/ecclesiastes/12#v8)</sup> Vanity of vanities, saith the preacher; all is vanity.
 >
@@ -232,7 +232,7 @@ Last week we opened Revelation 17 on the eighth head, which is of the seven. The
 - The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd: a goad is the stick a shepherd uses to keep the sheep from straying, and Christ is the shepherd.
 - Of making many books there is no end; and much study is a weariness of the flesh. All those other gods, books, and philosophies profit you nothing but weariness. Let us hear the conclusion of the whole matter: fear God, and keep his commandments: for this is the whole duty of man. That is the whole reason God put you on this earth. God said have no other gods before me; celebrating the Fourth of July is putting gods before the Most High. For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil. Solomon understood that, repented, got himself right, and dealt with his people properly. Just like Solomon, we can repent. Get yourselves right, brothers and sisters.
 
-**[Mark 12:29](/bible/mark/12#v29)**  *[2:06:38]*
+**[Mark 12:29](/bible/mark/12#v29)**  *[[2:06:38](https://www.youtube.com/watch?v=C5q-raZJyNA&t=7598s)]*
 
 > <sup>[29](/bible/mark/12#v29)</sup> And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:
 
@@ -267,4 +267,4 @@ Classes referenced: Deacon Ithan on Christianity, indoctrination without explana
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-11-250-years-of-celebration-400-years-of-sweat-equity-pt-2)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=C5q-raZJyNA)

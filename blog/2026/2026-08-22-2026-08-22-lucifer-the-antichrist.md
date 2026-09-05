@@ -69,7 +69,7 @@ The translations of Isaiah 14:12.
 
 ## Scriptures Opened
 
-**[Proverbs 13:20](/bible/proverbs/13#v20)**  *[13:15]*
+**[Proverbs 13:20](/bible/proverbs/13#v20)**  *[[13:15](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=795s)]*
 
 > <sup>[20](/bible/proverbs/13#v20)</sup> He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
 
@@ -77,7 +77,7 @@ The translations of Isaiah 14:12.
 
 - But a companion of fools shall be destroyed. Why would you be destroyed? Because if you are around fools all the time, you are going to do the same dumb, stupid things that these fools do. The environment is going to rub off on you.
 
-**[Sirach 13:16-17](/bible/sirach/13#v16)**  *[15:02]*
+**[Sirach 13:16-17](/bible/sirach/13#v16)**  *[[15:02](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=902s)]*
 
 > <sup>[16](/bible/sirach/13#v16)</sup> All flesh consorteth according to kind, and a man will cleave to his like.
 >
@@ -87,13 +87,13 @@ The translations of Isaiah 14:12.
 
 - What fellowship hath the wolf with the lamb? so the sinner with the godly. You are a lamb and you are fellowshipping with wolves. Dudes talking about sticking up people and all type of crazy stuff. Talking about a club, talking about sports and all of this. You are around wolves and you are a sheep. So the sinner with the godly: if you are godly and you are around sinners all the time, guess what is going to happen? That environment is going to rub off on you. The sinner will entice you.
 
-**[Matthew 24:3](/bible/matthew/24#v3)**  *[16:56]*
+**[Matthew 24:3](/bible/matthew/24#v3)**  *[[16:56](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=1016s)]*
 
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
 
 - And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world? What are the signs we have to look for in Christ returning, and what are the signs we have to look for for the end of the world? So Christ is about to explain to the apostles what signs they have to look for before he returns, or for the end of the world.
 
-**[Matthew 24:7-8](/bible/matthew/24#v7)**  *[25:57]*
+**[Matthew 24:7-8](/bible/matthew/24#v7)**  *[[25:57](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=1557s)]*
 
 > <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
 >
@@ -103,7 +103,7 @@ The translations of Isaiah 14:12.
 
 - All these are the beginning of sorrows. Brothers and sisters, the time we are living in, you see the earthquakes taking place in divers places, we are living in the beginning of sorrows. There are much sorrows coming on this earth. Much plagues and disaster and destruction and death is coming to this earth, and the time we are living in is the beginning of it. What does it mean by the beginning? It means that it is going to get worse, and it is going to intensify. The earthquakes, the wars, the pestilence, the famine, it is going to increase and it is going to get worse. That is why it says we are living in the beginning of it. Do not be in la la land.
 
-**[2 Peter 1:20-21](/bible/2-peter/1#v20)**  *[40:20]*
+**[2 Peter 1:20-21](/bible/2-peter/1#v20)**  *[[40:20](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=2420s)]*
 
 > <sup>[20](/bible/2-peter/1#v20)</sup> Knowing this first, that no prophecy of the scripture is of any private interpretation.
 >
@@ -115,7 +115,7 @@ The translations of Isaiah 14:12.
 
 - But guess what: all the prophets saw Christ return. All the prophets saw things that are going to take place in the future. Most of them saw the antichrist. All of them saw Lucifer. They mentioned Lucifer. But when they wrote about him, they did not call him Lucifer, and they did not call him the antichrist. All the prophets spoke about that last kingdom that will be set up on the earth, and that will fight against Christ when he returns. They all saw the same thing, but they explained it in different words.
 
-**[1 John 2:18-19](/bible/1-john/2#v18)**  *[43:06]*
+**[1 John 2:18-19](/bible/1-john/2#v18)**  *[[43:06](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=2586s)]*
 
 > <sup>[18](/bible/1-john/2#v18)</sup> Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
 >
@@ -135,7 +135,7 @@ The translations of Isaiah 14:12.
 
     But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses. That is the history it goes back to.
 
-**[Acts 4:23-29](/bible/acts/4#v23)**  *[46:50]*
+**[Acts 4:23-29](/bible/acts/4#v23)**  *[[46:50](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=2810s)]*
 
 > <sup>[23](/bible/acts/4#v23)</sup> And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them.
 >
@@ -165,7 +165,7 @@ The translations of Isaiah 14:12.
 
 - For to do whatsoever thy hand and thy counsel determined before to be done. And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word. So this is what we have to pray and ask for today, because guess what, that antichrist system is here today. Do not wait. You are not waiting for somebody to come with 666 on his head called Damien. That movie was scary as hell, I was a little kid when I saw that movie. Anytime I see a crow I would be running from those things. That is the brainwashing they do to you. So we are not waiting on a little dude with 666 on the back of his head. That is not the antichrist. The antichrist is already here.
 
-**[Matthew 24:4-5](/bible/matthew/24#v4)**  *[55:46]*
+**[Matthew 24:4-5](/bible/matthew/24#v4)**  *[[55:46](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=3346s)]*
 
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
 >
@@ -191,7 +191,7 @@ The translations of Isaiah 14:12.
 
     Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene. They were called what? Niger means black. The white man uses that term as a derogatory word, but the prophets were called black right through history. So if the prophets were black, that means Christ was too. And the same way we are called that today, nothing has changed.
 
-**[1 John 4:1-3](/bible/1-john/4#v1)**  *[1:08:14]*
+**[1 John 4:1-3](/bible/1-john/4#v1)**  *[[1:08:14](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=4094s)]*
 
 > <sup>[1](/bible/1-john/4#v1)</sup> Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 >
@@ -215,7 +215,7 @@ The translations of Isaiah 14:12.
 
 - So if you do not teach that Jesus Christ was a black man, you are not of God. And this is that spirit of antichrist. You are the antichrist. You are against Christ if you are teaching that Christ had no colour. Because some of these Christians say that Jesus Christ had no colour, Jesus Christ is a spirit. You are of that antichrist. You are against Christ. You hate yourself. You hate your people. And you hate your king.
 
-**[Revelation 1:14-15](/bible/revelation/1#v14)**  *[1:14:00]*
+**[Revelation 1:14-15](/bible/revelation/1#v14)**  *[[1:14:00](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=4440s)]*
 
 > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
 >
@@ -225,7 +225,7 @@ The translations of Isaiah 14:12.
 
 - And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters. So they looked at Christ's feet and Christ had feet like fine brass, burnt. So Christ was a very dark skinned man. Christ is a very dark skinned man. So if you do not confess that Jesus Christ came in the flesh, that he is a black man, you are the antichrist. You are against Christ.
 
-**[Revelation 14:8-10](/bible/revelation/14#v8)**  *[1:16:10]*
+**[Revelation 14:8-10](/bible/revelation/14#v8)**  *[[1:16:10](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=4570s)]*
 
 > <sup>[8](/bible/revelation/14#v8)</sup> And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
 >
@@ -243,7 +243,7 @@ The translations of Isaiah 14:12.
 
 - The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation. You are going to drink of the wrath of God if you worship the image of the beast. So ask yourself, because some of you might say, you Negroes do not know what you are talking about. Okay. My question for you Christians: who and what is the image of the beast? What is the image of the beast that the whole world is going to be worshipping? If it is not that white image of Christ that everybody in the world is worshipping today, you explain to us what it is. Because according to the prophecy, Christ is going to return and he is going to destroy everyone that worships that image.
 
-**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[1:20:29]*
+**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[[1:20:29](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=4829s)]*
 
 > <sup>[3](/bible/2-corinthians/11#v3)</sup> But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
 >
@@ -261,7 +261,7 @@ The translations of Isaiah 14:12.
 
 - Or if ye receive another spirit. When you follow Christianity you receive another spirit. That other spirit is the spirit that is on these Roman Catholics. The spirit that comes with Christianity is an adulterous spirit, because they tell you you do not have to keep God's laws, the laws are done away with. And with that spirit comes another gospel, a different teaching from what Christ taught. Guess what that is? False prophets. That is antichrist. Christianity is antichrist.
 
-**[2 Thessalonians 2:3](/bible/2-thessalonians/2#v3)**  *[1:26:56]*
+**[2 Thessalonians 2:3](/bible/2-thessalonians/2#v3)**  *[[1:26:56](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=5216s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
@@ -279,7 +279,7 @@ The translations of Isaiah 14:12.
 
     And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled. So we fell by the edge of the sword, and we were led away as slaves into all nations. That is what happened to us. That is the falling away, and that is the precept for it.
 
-**[Malachi 1:3-4](/bible/malachi/1#v3)**  *[1:30:42]*
+**[Malachi 1:3-4](/bible/malachi/1#v3)**  *[[1:30:42](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=5442s)]*
 
 > <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
 >
@@ -295,7 +295,7 @@ The translations of Isaiah 14:12.
 
 - So that is 2 Thessalonians. That is the prophets revealing Esau as the wicked of the earth. So the man of sin is talking about Esau, Edom, the border of wickedness, the people that God hates. That is the man of sin. And that man of sin be revealed. We have revealed him. In Malachi it says that they shall call them. We are letting them know that they are the wicked. They are the border of wickedness. Everything they are doing is evil. That is them being revealed by the prophets. The man of sin is talking about Edom, white people. They have to be revealed for being the wicked genocidal race of people that they really are. They have to be revealed that they are not the people of God. They are not Christians. They are not a godly race.
 
-**[Genesis 4:13-14](/bible/genesis/4#v13)**  *[1:36:35]*
+**[Genesis 4:13-14](/bible/genesis/4#v13)**  *[[1:36:35](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=5795s)]*
 
 > <sup>[13](/bible/genesis/4#v13)</sup> And Cain said unto the Lord, My punishment is greater than I can bear.
 >
@@ -305,7 +305,7 @@ The translations of Isaiah 14:12.
 
 - Behold, thou hast driven me out this day from the face of the earth. Question: was Cain still on the earth at that time? Yes. So was he driven off of the face of the earth then? No. So what is this really talking about? Future prophecy. Christ coming and the white men will be driven off of the face of the earth. There will be no more white people on the earth. That is his judgment. Cain, for what he did, he is going to be destroyed off the face of the earth. For all the evil that white people have done on this earth, God's judgment for that murderous race of people is to drive them off the face of the earth. That is the judgment from the beginning for Cain. But that judgment passed on to his descendants and his race and his people.
 
-**[Romans 9:21-23](/bible/romans/9#v21)**  *[1:38:30]*
+**[Romans 9:21-23](/bible/romans/9#v21)**  *[[1:38:30](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=5910s)]*
 
 > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
 >
@@ -321,7 +321,7 @@ The translations of Isaiah 14:12.
 
 - And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory. The vessels of mercy, the twelve tribes of Israel, you blacks and Hispanics.
 
-**[2 Thessalonians 2:4-10](/bible/2-thessalonians/2#v4)**  *[1:40:21]*
+**[2 Thessalonians 2:4-10](/bible/2-thessalonians/2#v4)**  *[[1:40:21](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=6021s)]*
 
 > <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 >
@@ -353,7 +353,7 @@ The translations of Isaiah 14:12.
 
 - And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. The deceivableness of unrighteousness goes into the religion that he set up. Guess what, the religion he set up was built on deceit. Jesus Christ is not a white man. They are not the people of God. And if you follow that, you are going to drink from the wrath of Christ when he returns. Those of you that are going to die, you are going to die because you were deceived to think that Jesus Christ is white. You were deceived to think that the people in the land are real Jews. You were deceived to think that you are a Gentile. You were deceived to think that you have to celebrate Christmas. You were deceived to celebrate Easter and all these wicked things that the white man has set up in his system, the antichrist system. You were deceived to follow it. Because they received not the love of the truth: because we are teaching you the truth and you do not want to listen. You call us a hate group. You say we are hateful because we speak the truth.
 
-**[Revelation 6:1-2](/bible/revelation/6#v1)**  *[1:51:56]*
+**[Revelation 6:1-2](/bible/revelation/6#v1)**  *[[1:51:56](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=6716s)]*
 
 > <sup>[1](/bible/revelation/6#v1)</sup> And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
 >
@@ -367,7 +367,7 @@ The translations of Isaiah 14:12.
 
 - Now I always hear people make the argument that Christianity was in Africa before. But the teachings of Christ were in Africa before. That new stuff that the white man came with in the 1400s, that is something new. The people of Africa understood Christ. There were Israelite communities over there. That is why the white man went over there, to conquer and destroy that teaching. That is why you rarely hear the proper understanding being taught anywhere in the world.
 
-**[Daniel 7:23-25](/bible/daniel/7#v23)**  *[1:56:40]*
+**[Daniel 7:23-25](/bible/daniel/7#v23)**  *[[1:56:40](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=7000s)]*
 
 > <sup>[23](/bible/daniel/7#v23)</sup> Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.
 >
@@ -389,7 +389,7 @@ The translations of Isaiah 14:12.
 
 - And they shall be given into his hand until a time and times and the dividing of time.
 
-**[Revelation 13:1-7](/bible/revelation/13#v1)**  *[2:02:54]*
+**[Revelation 13:1-7](/bible/revelation/13#v1)**  *[[2:02:54](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=7374s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -419,7 +419,7 @@ The translations of Isaiah 14:12.
 
 - And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. So he made war with us and he overcame us. This is going into colonisation and slavery. That is the war that he made with us. He came and he conquered us and enslaved us and started pushing his Christianity lies on the earth. He had to conquer us, make war with us, before he could push that lie that he is a Jew and he is the people of God and he is Christian. Slavery was not a coincidence. Slavery was war.
 
-**[Isaiah 14:12](/bible/isaiah/14#v12)**  *[2:07:37]*
+**[Isaiah 14:12](/bible/isaiah/14#v12)**  *[[2:07:37](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=7657s)]*
 
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
 
@@ -431,7 +431,7 @@ The translations of Isaiah 14:12.
 
     How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger! The beauty of Israel. So we were cast down to the earth, meaning we were brought down low, we were brought into captivity, we were not on top ruling any more. So this is a good analogy showing that heaven also goes into rulership.
 
-**[Isaiah 14:3-4](/bible/isaiah/14#v3)**  *[2:09:13]*
+**[Isaiah 14:3-4](/bible/isaiah/14#v3)**  *[[2:09:13](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=7753s)]*
 
 > <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
 >
@@ -453,7 +453,7 @@ The translations of Isaiah 14:12.
 
     For in one hour so great riches is come to nought. So great riches. That is the golden city.
 
-**[Isaiah 14:16-17](/bible/isaiah/14#v16)**  *[2:12:40]*
+**[Isaiah 14:16-17](/bible/isaiah/14#v16)**  *[[2:12:40](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=7960s)]*
 
 > <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
 >
@@ -465,7 +465,7 @@ The translations of Isaiah 14:12.
 
 - That made the world as a wilderness, and destroyed the cities thereof. And he made the world as a wilderness by dropping bombs. You saw Palestine, and guess what, it is going to get worse. Saudi Arabia will become a wilderness over there. All these cities will be destroyed. All of this is future prophecy. We are reading about it, it started in Palestine, but it is going to get worse.
 
-**[Revelation 22:16](/bible/revelation/22#v16)**  *[2:20:47]*
+**[Revelation 22:16](/bible/revelation/22#v16)**  *[[2:20:47](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8447s)]*
 
 > <sup>[16](/bible/revelation/22#v16)</sup> I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
 
@@ -481,7 +481,7 @@ The translations of Isaiah 14:12.
 
     We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts. So you see who is referred to as the star, the bright morning star.
 
-**[2 Corinthians 11:13-14](/bible/2-corinthians/11#v13)**  *[2:22:28]*
+**[2 Corinthians 11:13-14](/bible/2-corinthians/11#v13)**  *[[2:22:28](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8548s)]*
 
 > <sup>[13](/bible/2-corinthians/11#v13)</sup> For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
 >
@@ -493,7 +493,7 @@ The translations of Isaiah 14:12.
 
 - Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works. So that is what the white men have done on the earth. They transformed themselves into ministers of righteousness. They say we are a Christian society, a God-fearing Christian society, after they murdered and stole and colonised and enslaved millions of people. So that is why they are called bright morning star when you read Isaiah 14 and 12. Because they say they are a Christian society. They transformed themselves into apostles of Christ.
 
-**[John 1:6-9](/bible/john/1#v6)**  *[2:26:27]*
+**[John 1:6-9](/bible/john/1#v6)**  *[[2:26:27](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8787s)]*
 
 > <sup>[6](/bible/john/1#v6)</sup> There was a man sent from God, whose name was John.
 >
@@ -509,7 +509,7 @@ The translations of Isaiah 14:12.
 
 - That was the true Light, which lighteth every man that cometh into the world. Why is it saying that was the true Light? Because of what Satan did in the beginning: he transformed himself into an angel of light. Christ is the true light. He is the bright morning star. In the beginning Satan transformed himself, so guess what, his children also transformed themselves into apostles, into people of righteousness. We are righteous. We are a Western society and we teach Jesus and we are about righteousness. No. That whole fourth beast, they are the antichrist system. They are Lucifer.
 
-**[Revelation 13:11-12](/bible/revelation/13#v11)**  *[2:28:23]*
+**[Revelation 13:11-12](/bible/revelation/13#v11)**  *[[2:28:23](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8903s)]*
 
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
 >
@@ -519,7 +519,7 @@ The translations of Isaiah 14:12.
 
 - And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed. This other beast is America. This other beast that is rising up is Lucifer. With the two horns as a lamb, that is Lucifer. When you keep on reading, he has a mark. It goes into America's economics. It goes into him setting up the white Jesus on the earth. Let me tell you something: Christianity, America is going to push it hard in these last days, where it is going to be Christianity 2.0, where if you do not worship the beast and follow American values, Judeo-Christian values, you are not going to be able to buy or sell.
 
-**[Isaiah 14:9-10](/bible/isaiah/14#v9)**  *[2:31:23]*
+**[Isaiah 14:9-10](/bible/isaiah/14#v9)**  *[[2:31:23](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9083s)]*
 
 > <sup>[9](/bible/isaiah/14#v9)</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
 >
@@ -527,13 +527,13 @@ The translations of Isaiah 14:12.
 
 - Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations. This is letting you know how Lucifer is going to be destroyed. How is America going to be cut down to the ground? It stirreth up the dead for thee, even all the chief ones of the earth, the chief ones of the earth is talking about the kings of the earth. It hath raised up from their thrones all the kings of the nations. So all the kings of the nations are going to rise up against Lucifer to destroy him. Lucifer is who? America. Which is who? The antichrist. The fourth beast. The son of perdition.
 
-**[Daniel 12:1](/bible/daniel/12#v1)**  *[2:33:02]*
+**[Daniel 12:1](/bible/daniel/12#v1)**  *[[2:33:02](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9182s)]*
 
 > <sup>[1](/bible/daniel/12#v1)</sup> And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 
 - And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book. And at that time is talking about Armageddon, when all nations rise up and fight against America and Israel. Michael is going to rise up to fight for us. And at that time thy people shall be delivered. Daniel's people shall be delivered.
 
-**[Revelation 12:7-9](/bible/revelation/12#v7)**  *[2:33:54]*
+**[Revelation 12:7-9](/bible/revelation/12#v7)**  *[[2:33:54](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9234s)]*
 
 > <sup>[7](/bible/revelation/12#v7)</sup> And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
 >
@@ -565,7 +565,7 @@ The translations of Isaiah 14:12.
 
     And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth. And they shall be gathered together, as prisoners are gathered in the pit. The high ones that are on high is talking about what? There was war in heaven. The high ones on high are the people ruling. The Lord is going to punish Europe and America. And the kings of the earth too.
 
-**[Isaiah 34:1-5](/bible/isaiah/34#v1)**  *[2:38:12]*
+**[Isaiah 34:1-5](/bible/isaiah/34#v1)**  *[[2:38:12](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=9492s)]*
 
 > <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
 >
@@ -597,4 +597,4 @@ So you all should have a little more understanding of Lucifer and the antichrist
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-22-lucifer-the-antichrist)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=JXJvcEn3q2g)

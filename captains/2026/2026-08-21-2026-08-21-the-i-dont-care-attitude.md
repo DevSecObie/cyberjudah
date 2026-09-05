@@ -24,7 +24,7 @@ But we are going to see: did our forefathers move like that?
 
 ## Scriptures Opened
 
-**[John 12:24-26](/bible/john/12#v24)**  *[1:11]*
+**[John 12:24-26](/bible/john/12#v24)**  *[[1:11](https://www.youtube.com/watch?v=PB8tcDPkvCk&t=71s)]*
 
 > <sup>[24](/bible/john/12#v24)</sup> Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
 >
@@ -44,7 +44,7 @@ But we are going to see: did our forefathers move like that?
 
 - If any man serve me, let him follow me; and where I am, there shall also my servant be. Where Christ is, that is where his servant is going to be. That is what we want. We want to get the kingdom of heaven. We want to be where Christ is.
 
-**[Mark 2:21-22](/bible/mark/2#v21)**  *[4:28]*
+**[Mark 2:21-22](/bible/mark/2#v21)**  *[[4:28](https://www.youtube.com/watch?v=PB8tcDPkvCk&t=268s)]*
 
 > <sup>[21](/bible/mark/2#v21)</sup> No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.
 >
@@ -64,7 +64,7 @@ But we are going to see: did our forefathers move like that?
 
 - Else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles. You see that? When you repent, you must be spiritually changed completely. And you have to counsel and take advice from people with more experience than you.
 
-**[2 Maccabees 6:18-25](/bible/2-maccabees/6#v18)**  *[5:56]*
+**[2 Maccabees 6:18-25](/bible/2-maccabees/6#v18)**  *[[5:56](https://www.youtube.com/watch?v=PB8tcDPkvCk&t=356s)]*
 
 > <sup>[18](/bible/2-maccabees/6#v18)</sup> Eleazar, one of the principal scribes, an aged man, and of a well favoured countenance, was constrained to open his mouth, and to eat swine’s flesh.
 >
@@ -110,7 +110,7 @@ But we are going to see: did our forefathers move like that?
 
 - And so they through mine hypocrisy, and desire to live a little time and a moment longer, should be deceived by me, and I get a stain to mine old age, and make it abominable. He said, through my hypocrisy, and to desire to live just a little while longer. He does not want those young people to be deceived by him. He said, no, I am going to get no stain on my name. So look, our forefathers did care. They did not have an I don't care attitude.
 
-**[Ephesians 4:22-27](/bible/ephesians/4#v22)**  *[11:40]*
+**[Ephesians 4:22-27](/bible/ephesians/4#v22)**  *[[11:40](https://www.youtube.com/watch?v=PB8tcDPkvCk&t=700s)]*
 
 > <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 >
@@ -152,4 +152,4 @@ This is 15 Minutes with the Captains. I am Captain Benaiah. Shalom. Most High an
 
 ---
 
-[15 Minutes Index](/captains) | Transcript: [full episode](/captains/2026/2026-08-21-the-i-dont-care-attitude)
+[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=PB8tcDPkvCk)

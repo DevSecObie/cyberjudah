@@ -20,13 +20,13 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 ## Scriptures Opened
 
-**[Proverbs 20:27](/bible/proverbs/20#v27)**  *[0:15]*
+**[Proverbs 20:27](/bible/proverbs/20#v27)**  *[[0:15](https://www.youtube.com/watch?v=-llETUpdC5s&t=15s)]*
 
 > <sup>[27](/bible/proverbs/20#v27)</sup> The spirit of man is the candle of the Lord, searching all the inward parts of the belly.
 
 - The spirit of man is the candle of the Lord, searching all the inward parts of the belly. So this is Solomon right here giving us some insight into how the Lord views the mind, how the Lord views the spirit. We are going to jump into exactly how these two correlate. But he said the spirit of man is like the candle of the Lord, suggesting the need of illumination, starting with the mind.
 
-**[Ephesians 4:22-23](/bible/ephesians/4#v22)**  *[0:57]*
+**[Ephesians 4:22-23](/bible/ephesians/4#v22)**  *[[0:57](https://www.youtube.com/watch?v=-llETUpdC5s&t=57s)]*
 
 > <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 >
@@ -38,7 +38,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - And be renewed in the spirit of your mind. So your mind, that is your spirit. Your mind, that is your spirit. The Lord said you have got to renew that thing, because as we read the scriptures, corruption, deceitfulness, that is where corruption creeps in. And that is that old man that we have got to put away from there.
 
-**[Romans 8:27](/bible/romans/8#v27)**  *[1:39]*
+**[Romans 8:27](/bible/romans/8#v27)**  *[[1:39](https://www.youtube.com/watch?v=-llETUpdC5s&t=99s)]*
 
 > <sup>[27](/bible/romans/8#v27)</sup> And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
 
@@ -48,7 +48,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - So back to Proverbs 20:27. The spirit of man is the candle of the Lord. So your mind is the candle of the Lord, which needs igniting. It needs illumination. Searching all the inward parts of the belly. And that illumination searches everything that goes on right up here in the cranium, in the mind, in the deep crevices of the mind that nobody can see. The Lord says there is a need to illuminate this.
 
-**[Isaiah 33:5-6](/bible/isaiah/33#v5)**  *[2:20]*
+**[Isaiah 33:5-6](/bible/isaiah/33#v5)**  *[[2:20](https://www.youtube.com/watch?v=-llETUpdC5s&t=140s)]*
 
 > <sup>[5](/bible/isaiah/33#v5)</sup> The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
 >
@@ -64,7 +64,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - The wax, which acts as the fuel. You can correlate the wax to this Bible. What is the fuel that you need to ignite your spirit, to keep that fire burning? That is the scriptures.
 
-**[Ephesians 5:18](/bible/ephesians/5#v18)**  *[3:46]*
+**[Ephesians 5:18](/bible/ephesians/5#v18)**  *[[3:46](https://www.youtube.com/watch?v=-llETUpdC5s&t=226s)]*
 
 > <sup>[18](/bible/ephesians/5#v18)</sup> And be not drunk with wine, wherein is excess; but be filled with the Spirit;
 
@@ -72,7 +72,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - But be filled with the Spirit. You have got to be filled with the spirit.
 
-**[John 6:63](/bible/john/6#v63)**  *[4:30]*
+**[John 6:63](/bible/john/6#v63)**  *[[4:30](https://www.youtube.com/watch?v=-llETUpdC5s&t=270s)]*
 
 > <sup>[63](/bible/john/6#v63)</sup> It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
 
@@ -86,7 +86,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - Back to the components. The wick, which draws the fuel to the flame. That is you reading. That is you reading, giving attendance to reading, always meditating in the scriptures.
 
-**[1 Timothy 4:13](/bible/1-timothy/4#v13)**  *[5:55]*
+**[1 Timothy 4:13](/bible/1-timothy/4#v13)**  *[[5:55](https://www.youtube.com/watch?v=-llETUpdC5s&t=355s)]*
 
 > <sup>[13](/bible/1-timothy/4#v13)</sup> Till I come, give attendance to reading, to exhortation, to doctrine.
 
@@ -94,7 +94,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - To exhortation, to doctrine. Because you have exhortation from that. You are able to exhort the men around you. And you are able to teach good doctrine.
 
-**[1 Timothy 4:15](/bible/1-timothy/4#v15)**  *[6:37]*
+**[1 Timothy 4:15](/bible/1-timothy/4#v15)**  *[[6:37](https://www.youtube.com/watch?v=-llETUpdC5s&t=397s)]*
 
 > <sup>[15](/bible/1-timothy/4#v15)</sup> Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.
 
@@ -108,7 +108,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - Look at what the last component is. Additives and housing. The container or mould. That vessel. That way everybody can see. This brother, he is studying. This sister, she is studying. She is drawing from the well, if you will, drawing that water in, keeping that fire going.
 
-**[Sirach 21:13-14](/bible/sirach/21#v13)**  *[8:38]*
+**[Sirach 21:13-14](/bible/sirach/21#v13)**  *[[8:38](https://www.youtube.com/watch?v=-llETUpdC5s&t=518s)]*
 
 > <sup>[13](/bible/sirach/21#v13)</sup> The knowledge of a wise man shall abound like a flood: and his counsel is like a pure fountain of life.
 >
@@ -122,7 +122,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - And he will hold no knowledge as long as he liveth. No matter how much water you pour into this broken vessel, how much wax you pour into this broken vessel, the container is corrupted. So the Lord is saying your spirit is like the candle of the Lord. You have got to ignite it, and you have got to have these three components, and they all work in tandem together. They all have got to be strong together.
 
-**[Proverbs 19:2](/bible/proverbs/19#v2)**  *[10:35]*
+**[Proverbs 19:2](/bible/proverbs/19#v2)**  *[[10:35](https://www.youtube.com/watch?v=-llETUpdC5s&t=635s)]*
 
 > <sup>[2](/bible/proverbs/19#v2)</sup> Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.
 
@@ -130,7 +130,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - And he that hasteth with his feet sinneth. And unfortunately, that is a lot of our people. A lot of our people that are still in darkness, still running around in darkness. And their candle has not been ignited. The Lord has not lit that spirit as yet. And there are some brothers and sisters amongst us that have not quite given their mind fully to the Lord. Still teetering. One foot in the world, one foot in the truth.
 
-**[Matthew 6:24](/bible/matthew/6#v24)**  *[11:14]*
+**[Matthew 6:24](/bible/matthew/6#v24)**  *[[11:14](https://www.youtube.com/watch?v=-llETUpdC5s&t=674s)]*
 
 > <sup>[24](/bible/matthew/6#v24)</sup> No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 
@@ -140,7 +140,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - Or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. So the Lord said you cannot do both. You have got to pick a side.
 
-**[Baruch 4:1](/bible/baruch/4#v1)**  *[11:54]*
+**[Baruch 4:1](/bible/baruch/4#v1)**  *[[11:54](https://www.youtube.com/watch?v=-llETUpdC5s&t=714s)]*
 
 > <sup>[1](/bible/baruch/4#v1)</sup> This is the book of the commandments of God, and the law that endureth for ever: all they that keep it shall come to life; but such as leave it shall die.
 
@@ -154,7 +154,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
     The man that wandereth out of the way of understanding shall remain in the congregation of the dead. There is a reason why, when you look at those old photos, you look run down, tired. You are twenty-one years old looking forty. This is supposed to be the pinnacle of life, of your youth. And we wandered out of the way of understanding, and we were like the walking dead. They make those movies mocking us. We were the congregation of the dead. And it is ironic that zombies walk groping. That is groping at noonday. That is what the Lord said: you break my commandments and you are going to be groping, walking around trying to catch on to something, gravitate to something. All confused in the spirit. Even though the sun is at the apex, you cannot see. We were blinded. We were distracted.
 
-**[Baruch 4:1-2](/bible/baruch/4#v1)**  *[14:44]*
+**[Baruch 4:1-2](/bible/baruch/4#v1)**  *[[14:44](https://www.youtube.com/watch?v=-llETUpdC5s&t=884s)]*
 
 > <sup>[1](/bible/baruch/4#v1)</sup> This is the book of the commandments of God, and the law that endureth for ever: all they that keep it shall come to life; but such as leave it shall die.
 >
@@ -168,7 +168,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - Walk in the presence of the light thereof, that thou mayest be illuminated. Walk in the presence of the law, that you might be illuminated. That you might be ignited. Your spirit might be on fire.
 
-**[Psalms 119:105-109](/bible/psalms/119#v105)**  *[15:24]*
+**[Psalms 119:105-109](/bible/psalms/119#v105)**  *[[15:24](https://www.youtube.com/watch?v=-llETUpdC5s&t=924s)]*
 
 > <sup>[105](/bible/psalms/119#v105)</sup> Thy word is a lamp unto my feet, and a light unto my path.
 >
@@ -194,7 +194,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - Yet do I not forget thy law. And we cannot forget the law.
 
-**[2 Corinthians 5:10-11](/bible/2-corinthians/5#v10)**  *[18:15]*
+**[2 Corinthians 5:10-11](/bible/2-corinthians/5#v10)**  *[[18:15](https://www.youtube.com/watch?v=-llETUpdC5s&t=1095s)]*
 
 > <sup>[10](/bible/2-corinthians/5#v10)</sup> For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
 >
@@ -216,7 +216,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - But we are made manifest unto God; and I trust also are made manifest in your consciences.
 
-**[Psalms 18:28-34](/bible/psalms/18#v28)**  *[21:51]*
+**[Psalms 18:28-34](/bible/psalms/18#v28)**  *[[21:51](https://www.youtube.com/watch?v=-llETUpdC5s&t=1311s)]*
 
 > <sup>[28](/bible/psalms/18#v28)</sup> For thou wilt light my candle: the Lord my God will enlighten my darkness.
 >
@@ -254,7 +254,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - So that a bow of steel is broken by mine arms. That is what happens when you are enlightened right there.
 
-**[Psalms 51:10-13](/bible/psalms/51#v10)**  *[24:56]*
+**[Psalms 51:10-13](/bible/psalms/51#v10)**  *[[24:56](https://www.youtube.com/watch?v=-llETUpdC5s&t=1496s)]*
 
 > <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
 >
@@ -278,13 +278,13 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - And sinners shall be converted unto thee.
 
-**[Revelation 2:5](/bible/revelation/2#v5)**  *[26:22]*
+**[Revelation 2:5](/bible/revelation/2#v5)**  *[[26:22](https://www.youtube.com/watch?v=-llETUpdC5s&t=1582s)]*
 
 > <sup>[5](/bible/revelation/2#v5)</sup> Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
 
 - Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent. So the Lord said, always remember where you come from. Always remember how you first felt, that first love. Or else he will take that candle away from you quickly.
 
-**[Luke 12:34-36](/bible/luke/12#v34)**  *[27:07]*
+**[Luke 12:34-36](/bible/luke/12#v34)**  *[[27:07](https://www.youtube.com/watch?v=-llETUpdC5s&t=1627s)]*
 
 > <sup>[34](/bible/luke/12#v34)</sup> For where your treasure is, there will your heart be also.
 >
@@ -300,7 +300,7 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 - And ye yourselves like unto men that wait for their lord. And wait on the Lord. Be fervent in this truth. That is what he is saying. Keep your lights burning.
 
-**[Luke 22:31-32](/bible/luke/22#v31)**  *[28:27]*
+**[Luke 22:31-32](/bible/luke/22#v31)**  *[[28:27](https://www.youtube.com/watch?v=-llETUpdC5s&t=1707s)]*
 
 > <sup>[31](/bible/luke/22#v31)</sup> And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:
 >
@@ -320,4 +320,4 @@ It is 15 Minutes with the Captains. Most High in Christ bless.
 
 ---
 
-[15 Minutes Index](/captains) | Transcript: [full episode](/captains/2026/2026-08-31-ignite-your-influence)
+[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=-llETUpdC5s)

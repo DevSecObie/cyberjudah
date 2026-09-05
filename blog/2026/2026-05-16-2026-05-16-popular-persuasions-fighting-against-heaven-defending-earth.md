@@ -24,7 +24,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
 ## Scriptures Opened
 
-**[Isaiah 5:20](/bible/isaiah/5#v20)**  *[5:10]*
+**[Isaiah 5:20](/bible/isaiah/5#v20)**  *[[5:10](https://www.youtube.com/watch?v=o6lTUvedO-s&t=310s)]*
 
 > <sup>[20](/bible/isaiah/5#v20)</sup> Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
 
@@ -36,14 +36,14 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - Video played from a House Oversight Committee hearing: a witness testified, "UAP are real. Advanced technologies not made by our government or any other government are monitoring sensitive military installations around the globe. Furthermore, the US is in possession of UAP technologies." Esau likes to throw truths out there mixed with a lot of lies. Did y'all pick up the lie? He said they're in possession of UAP technology. You're not in possession of a thing, because these are chariots; these are spiritual; these are of God. There is no Area 51. All of that is lies to make America seem powerful. Now this is becoming talking points in various black churches because of popular persuasions.
 - So America shapes public perception, and they can persuade people to reject God's truth. What is God's truth? That we're the Israelites, the angels are black, and Christ is coming back with the heavenly armies, what the world calls UFOs and UAPs, coming back with destruction and with salvation for the Israelites.
 
-**[Ephesians 2:2](/bible/ephesians/2#v2)**  *[18:37]*
+**[Ephesians 2:2](/bible/ephesians/2#v2)**  *[[18:37](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1117s)]*
 
 > <sup>[2](/bible/ephesians/2#v2)</sup> Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
 
 - Why does it call him the prince of the power of the air? Because they control the airwaves, the media, communication. That's why the book of Revelation refers to the mouth of the dragon and the mouth of the beast: communication through his media.
 - Everything that we do as a people is shaped by public opinion, shaped by the persuasion of Esau, the so-called white man, because he controls social media and the news, and his thoughts become our thoughts. That's why it's called networking or broadcasting: broadcasting his opinions. Now his opinions, which are lies, are stating that the chariots are evil and demonic, to persuade the minds of the people to fight against Christ.
 
-**[Isaiah 25:7](/bible/isaiah/25#v7)**  *[20:33]*
+**[Isaiah 25:7](/bible/isaiah/25#v7)**  *[[20:33](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1233s)]*
 
 > <sup>[7](/bible/isaiah/25#v7)</sup> And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations.
 
@@ -59,7 +59,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     The burden of Babylon: Babylon the great. Lift ye up a banner upon the high mountain: that high mountain is America. God says lift up the banner, and the banner is the Bible. Exalt the voice unto them: that's what we do every time we go to camp and every time we do these classes, casting down lies. So the mountain in Isaiah 25:7 is referencing Babylon the great, America.
 
-**[Jeremiah 51:55](/bible/jeremiah/51#v55)**  *[23:28]*
+**[Jeremiah 51:55](/bible/jeremiah/51#v55)**  *[[23:28](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1408s)]*
 
 > <sup>[55](/bible/jeremiah/51#v55)</sup> Because the Lord hath spoiled Babylon, and destroyed out of her the great voice; when her waves do roar like great waters, a noise of their voice is uttered:
 
@@ -67,7 +67,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - When her waves do roar like great waters: those waves are the evil communication, the lies he is spewing; his rhetoric has gone out into all nations, and that's how he caused all nations to fornicate.
 - Bishop recently sat for an interview on the Soft White Underbelly YouTube page. Go watch the whole thing and leave a real, sensible comment.
 
-**[Genesis 3:1-6](/bible/genesis/3#v1)**  *[25:34]*
+**[Genesis 3:1-6](/bible/genesis/3#v1)**  *[[25:34](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1534s)]*
 
 > <sup>[1](/bible/genesis/3#v1)</sup> Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 >
@@ -91,14 +91,14 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     In the scriptures the Most High compares men to beasts: that they might see that they themselves are beasts. So the serpent in Genesis 3 is a representation of a man.
 
-**[John 8:44](/bible/john/8#v44)**  *[28:59]*
+**[John 8:44](/bible/john/8#v44)**  *[[28:59](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1739s)]*
 
 > <sup>[44](/bible/john/8#v44)</sup> Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 
 - Christ was cutting the Pharisees here: ye are of your father the devil. He was a murderer from the beginning: that's talking about Cain, the serpent seed.
 - When he speaketh a lie, he speaketh of his own, for he is a liar, and the father of it: he is the pioneer of lying. Even when he speaks the truth, it's mixed to serve a lie. You have to take everything with a grain of salt when it comes to Esau. We see all the lies he is spewing right now throughout all his communication and his media.
 
-**[Isaiah 30:9-13](/bible/isaiah/30#v9)**  *[30:25]*
+**[Isaiah 30:9-13](/bible/isaiah/30#v9)**  *[[30:25](https://www.youtube.com/watch?v=o6lTUvedO-s&t=1825s)]*
 
 > <sup>[9](/bible/isaiah/30#v9)</sup> That this is a rebellious people, lying children, children that will not hear the law of the Lord:
 >
@@ -115,7 +115,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - Speak unto us smooth things, prophesy deceits: the laws are done away with; we don't have to keep the laws of God as long as we believe in Christ; it doesn't matter what color Christ is; there's nothing wrong with the chitlins, the pork, the shrimp, as long as you pray over it. That's Christianity for you: smooth lies.
 - Because ye despise this word, and trust in oppression: trust in Esau, in the so-called white man's doctrines and philosophies, everything that comes out of the mouth of Babylon. Therefore this iniquity shall be to you as a breach ready to fall: you're going to die in your sins; he's going to give you up to your own delusions, and the breaking cometh suddenly at an instant.
 
-**[Jeremiah 5:30-31](/bible/jeremiah/5#v30)**  *[33:28]*
+**[Jeremiah 5:30-31](/bible/jeremiah/5#v30)**  *[[33:28](https://www.youtube.com/watch?v=o6lTUvedO-s&t=2008s)]*
 
 > <sup>[30](/bible/jeremiah/5#v30)</sup> A wonderful and horrible thing is committed in the land;
 >
@@ -125,7 +125,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - And my people love to have it so. That's what we just saw in the video with the apologist talking points, and now different black pastors are saying the chariots are demons and fallen angels. Whatever Esau utters, they repeat; they love the lies.
 - And what will ye do in the end thereof? There is nothing you can do but face the judgment when you are cast into that lake of fire.
 
-**[Revelation 14:8-10](/bible/revelation/14#v8)**  *[35:20]*
+**[Revelation 14:8-10](/bible/revelation/14#v8)**  *[[35:20](https://www.youtube.com/watch?v=o6lTUvedO-s&t=2120s)]*
 
 > <sup>[8](/bible/revelation/14#v8)</sup> And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
 >
@@ -138,7 +138,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation. When you drink strong drink you might dilute it with water or chase it with juice; the Most High said no, you're going to drink the dregs of this cup at full strength, meaning you're going to reap the judgments in full. He isn't chasing anything and he isn't mixing anything.
 - And he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb. That's not only talking about the nations; that includes the two thirds of our people who continue in his mark, who support this system, who refuse to repent.
 
-**[Revelation 16:13-14](/bible/revelation/16#v13)**  *[38:49]*
+**[Revelation 16:13-14](/bible/revelation/16#v13)**  *[[38:49](https://www.youtube.com/watch?v=o6lTUvedO-s&t=2329s)]*
 
 > <sup>[13](/bible/revelation/16#v13)</sup> And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
 >
@@ -160,7 +160,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     That no man might buy or sell: that's the finance, one of the three frogs. It's coming to a time where, if you are not in allegiance with what America pushes, you will not be able to buy or sell. On a large scale that's trade, but it's also regular buying and selling. That's why they're trying to do away with the currency and bring everything into a digital system, to monitor God's people who speak up against society.
 
-**[Revelation 12:9](/bible/revelation/12#v9)**  *[51:58]*
+**[Revelation 12:9](/bible/revelation/12#v9)**  *[[51:58](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3118s)]*
 
 > <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
@@ -168,7 +168,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - That old serpent, called the Devil, and Satan, which deceiveth the whole world: how does he deceive the whole world? Through media, through social media. And they are taking it to the next level: buying hundreds of acres of land for AI data centers, investing so much that they won't even need you on social media; the AI is going to feed you and start thinking for you, pushing the thoughts it wants you to have, to deceive the whole world.
 - That's why Bishop told y'all: four chapters a day, to the best of your ability, constantly. It is a battle for the minds of the people. We are being prepared for it now, so when it comes we won't be deceived.
 
-**[2 Thessalonians 2:10-12](/bible/2-thessalonians/2#v10)**  *[53:54]*
+**[2 Thessalonians 2:10-12](/bible/2-thessalonians/2#v10)**  *[[53:54](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3234s)]*
 
 > <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 >
@@ -179,7 +179,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - Because they received not the love of the truth, that they might be saved, for this cause God shall send them strong delusion. Your strong delusion could be the apologists; your strong delusion is your device, because you don't want to study. Now you're confused: maybe Deuteronomy 28 doesn't belong to me.
 - That they should believe a lie: the white man's communication, which is lies. That they all might be damned who believed not the truth, but had pleasure in unrighteousness. You might say, I thought God wanted to save all Israel. He would like to, but two thirds don't want to repent.
 
-**[Revelation 18:23](/bible/revelation/18#v23)**  *[55:36]*
+**[Revelation 18:23](/bible/revelation/18#v23)**  *[[55:36](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3336s)]*
 
 > <sup>[23](/bible/revelation/18#v23)</sup> And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.
 
@@ -188,7 +188,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - And the voice of the bridegroom and of the bride shall be heard no more at all in thee: the voice, communication. For thy merchants were the great men of the earth; for by thy sorceries were all nations deceived: deception, manipulation, and spiritual corruption through his communication system, his lies, his propaganda.
 - That's how the nations end up gathered in the Valley of Jehoshaphat, all focused on what's coming out of the skies. The black angels and the black Christ are coming out of the skies, and their minds have already been shaped to say it is demonic, and their whole job is to fight against Christ. They are lining everything up; or should I say, the Most High is lining them up.
 
-**[Revelation 17:1-2](/bible/revelation/17#v1)**  *[57:49]*
+**[Revelation 17:1-2](/bible/revelation/17#v1)**  *[[57:49](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3469s)]*
 
 > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 >
@@ -198,7 +198,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - The kings of the earth have committed fornication with America because they accept America's policies and lies. You ever wonder why no nation on this earth stands up on their platforms and lets it be known globally that the so-called Negroes, Hispanics, and Native Indians are the twelve tribes of Israel? The Chinese aren't doing it; they know who was being enslaved in southern China and who the Israelites were during the Silk Road slave trade. Japan isn't doing it; India isn't doing it; Iran, Iraq, Turkey aren't doing it; the Hamites in Africa aren't doing it. No nation is standing up, because they're all in cahoots with America, laying in one bed fornicating.
 - The inhabitants of the earth have been made drunk with the wine of her fornication: that wine is lies, and they love it; they walk around drunk on it.
 
-**[2 Corinthians 4:3-4](/bible/2-corinthians/4#v3)**  *[1:00:18]*
+**[2 Corinthians 4:3-4](/bible/2-corinthians/4#v3)**  *[[1:00:18](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3618s)]*
 
 > <sup>[3](/bible/2-corinthians/4#v3)</sup> But if our gospel be hid, it is hid to them that are lost:
 >
@@ -208,14 +208,14 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - If our gospel be hid, it is hid to them that are lost: the truth of who we are has been out there for some time now, on every social media platform. The notion that we're the Israelites is out there. There's no excuse.
 - The god of this world hath blinded the minds of them which believe not: the god of this world is Satan, Esau, the so-called white man, blinding minds through his sorcery and communication, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. They're trying to block that light like the cherub with the flaming sword blocking the way into the garden; blocking it not physically but with lies, with deceit, with religion, with politics.
 
-**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[1:02:24]*
+**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[1:02:24](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3744s)]*
 
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 - This battle is spiritual, not physical yet; and when I say yet, I'm talking about him coming against us and putting us to death for this truth. I am not talking about picking up arms against this system. You pick up a knife, he comes back with a gun; you get a gun, he comes back with worse; you have no answer for his drones and satellites. Our only power in this fight is keeping the commandments of God as Israelites. We do not promote taking up arms against this system.
 - We wrestle not against flesh and blood, but against principalities, against powers: we just saw some of those powers in that media video, the billionaire families that control the communication systems. Against the rulers of the darkness of this world, against spiritual wickedness in high places: with think tanks and popular persuasions going out 24/7. There's no rest with his communication; you can cut on the TV and there's always something on.
 
-**[Romans 12:1-2](/bible/romans/12#v1)**  *[1:04:26]*
+**[Romans 12:1-2](/bible/romans/12#v1)**  *[[1:04:26](https://www.youtube.com/watch?v=o6lTUvedO-s&t=3866s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 >
@@ -225,7 +225,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - Be not conformed to this world: the war of the mind; don't let somebody change your mind. But be ye transformed by the renewing of your mind. What renews our mind? God's laws.
 - That ye may prove what is that good, and acceptable, and perfect will of God: Psalms 19:7 tells you God's law is perfect. We are imperfect trying to get perfect, and we can only obtain that through the keeping of God's laws and the faith and blood of his Son.
 
-**[Ezekiel 1:13](/bible/ezekiel/1#v13)**  *[1:09:12]*
+**[Ezekiel 1:13](/bible/ezekiel/1#v13)**  *[[1:09:12](https://www.youtube.com/watch?v=o6lTUvedO-s&t=4152s)]*
 
 > <sup>[13](/bible/ezekiel/1#v13)</sup> As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 
@@ -242,7 +242,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     They sparkled like the colour of burnished brass. How was Christ described in Revelation 1? Burnished brass. Black.
 
-**[2 Esdras 13:29-30](/bible/2-esdras/13#v29)**  *[1:18:30]*
+**[2 Esdras 13:29-30](/bible/2-esdras/13#v29)**  *[[1:18:30](https://www.youtube.com/watch?v=o6lTUvedO-s&t=4710s)]*
 
 > <sup>[29](/bible/2-esdras/13#v29)</sup> Behold, the days come, when the most High will begin to deliver them that are upon the earth.
 >
@@ -251,7 +251,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - Behold, the days come when the Most High will begin to deliver them that are upon the earth: that's the twelve tribes of Israel that repent, that endure to the end through all of this media propaganda and persuasion, that don't deny our Lord and Saviour when the heat gets turned up on us.
 - And he shall come to the astonishment of them that dwell on the earth: to the carnal man all of this sounds crazy, but he is going to come back to the astonishment of those that don't believe. All of this is being revealed in the last days for a reason. Esau had our book before we were able to look at it, comprehend it, and understand it; we thought it was sci-fi entertainment, but it's actually the things that shall come to pass. Now we have the scriptures to back up the history, the photos, and the articles.
 
-**[Genesis 4:25-26](/bible/genesis/4#v25)**  *[1:23:50]*
+**[Genesis 4:25-26](/bible/genesis/4#v25)**  *[[1:23:50](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5030s)]*
 
 > <sup>[25](/bible/genesis/4#v25)</sup> And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew.
 >
@@ -259,13 +259,13 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
 - Seth replaced Abel and became the chosen line. Then began men to call upon the name of the Lord: because this was the lineage of the sons of God.
 
-**[Luke 3:38](/bible/luke/3#v38)**  *[1:25:00]*
+**[Luke 3:38](/bible/luke/3#v38)**  *[[1:25:00](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5100s)]*
 
 > <sup>[38](/bible/luke/3#v38)</sup> Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
 
 - Adam was called the son of God, and in his lineage through Seth were also the sons of God, not Cain.
 
-**[Genesis 5:1-32](/bible/genesis/5#v1)**  *[1:25:40]*
+**[Genesis 5:1-32](/bible/genesis/5#v1)**  *[[1:25:40](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5140s)]*
 
 > <sup>[1](/bible/genesis/5#v1)</sup> This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 >
@@ -335,7 +335,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - The chapter abbreviates to one named son in each generation for a reason: it is tracing the line of the sons of God, from Seth through Enos, Cainan, Mahalaleel, Jared, Enoch, Methuselah, Lamech, and Noah.
 - Enoch walked with God, and he was not, for God took him: God took him up in a chariot; he did not die like normal mortals die.
 
-**[Genesis 6:1-4](/bible/genesis/6#v1)**  *[1:30:02]*
+**[Genesis 6:1-4](/bible/genesis/6#v1)**  *[[1:30:02](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5402s)]*
 
 > <sup>[1](/bible/genesis/6#v1)</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 >
@@ -380,7 +380,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     There were the giants famous from the beginning, of so great stature and so expert in war: the offspring of the sons of God. Those did not the Lord choose; they were destroyed because they had no wisdom, and perished through their own foolishness. How were they destroyed? The flood.
 
-**[Jude 1:1-8](/bible/jude/1#v1)**  *[1:39:24]*
+**[Jude 1:1-8](/bible/jude/1#v1)**  *[[1:39:24](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5964s)]*
 
 > <sup>[1](/bible/jude/1#v1)</sup> Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
 >
@@ -446,7 +446,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     For if God spared not the angels that sinned: this is not going into literal angels in the heavens sinning against God; they do God's will. It is going into the offspring of the sons of God, delivered into chains of darkness, to be reserved unto judgment: the same great day Jude talked about. And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, and turned the cities of Sodom and Gomorrha into ashes, making them an ensample unto those that after should live ungodly.
 
-**[Isaiah 14:1-6](/bible/isaiah/14#v1)**  *[1:54:44]*
+**[Isaiah 14:1-6](/bible/isaiah/14#v1)**  *[[1:54:44](https://www.youtube.com/watch?v=o6lTUvedO-s&t=6884s)]*
 
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 >
@@ -465,7 +465,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - They shall take them captives, whose captives they were, and they shall rule over their oppressors: because we were their slaves, and now the roles are reversed.
 - Track who the subject is: in verse 2 the oppressor is the captive and the handmaid; in verse 4 he is the king of Babylon, and the golden city is America, Babylon the great; in verse 5 he is the wicked; in verse 6 he is he who smote the people in wrath with a continual stroke.
 
-**[Isaiah 14:12-16](/bible/isaiah/14#v12)**  *[1:58:14]*
+**[Isaiah 14:12-16](/bible/isaiah/14#v12)**  *[[1:58:14](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7094s)]*
 
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
 >
@@ -492,7 +492,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     The kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the Most High: that's rulership.
 
-**[Job 1:1-12](/bible/job/1#v1)**  *[2:02:40]*
+**[Job 1:1-12](/bible/job/1#v1)**  *[[2:02:40](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7360s)]*
 
 > <sup>[1](/bible/job/1#v1)</sup> There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 >
@@ -564,7 +564,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     The angel of the Lord encampeth round about them that fear him, and delivereth them: the good angels deliver us from evil, like it says in the Lord's prayer.
 
-**[Genesis 18:1-5](/bible/genesis/18#v1)**  *[2:11:17]*
+**[Genesis 18:1-5](/bible/genesis/18#v1)**  *[[2:11:17](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7877s)]*
 
 > <sup>[1](/bible/genesis/18#v1)</sup> And the Lord appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 >
@@ -578,7 +578,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
 - Three men stood by Abraham: these are angels. Did he run away from them like they were some demonic thing? No: he ran to meet them, bowed himself toward the ground, fetched water, and prepared food for them. Our forefathers never looked at these angels as something demonic that came down to persecute them. That is what Esau says, not what the Bible says.
 
-**[Genesis 19:1-3](/bible/genesis/19#v1)**  *[2:12:41]*
+**[Genesis 19:1-3](/bible/genesis/19#v1)**  *[[2:12:41](https://www.youtube.com/watch?v=o6lTUvedO-s&t=7961s)]*
 
 > <sup>[1](/bible/genesis/19#v1)</sup> And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;
 >
@@ -588,7 +588,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
 - There came two angels to Sodom, and Lot rose up to meet them, bowed himself, pressed them to come into his house, made them a feast, and they did eat: because they have mouths just like us, and they were going to lay down, because they look like us. Esau calls them humanoids, but those are our brothers.
 
-**[Revelation 19:10](/bible/revelation/19#v10)**  *[2:13:55]*
+**[Revelation 19:10](/bible/revelation/19#v10)**  *[[2:13:55](https://www.youtube.com/watch?v=o6lTUvedO-s&t=8035s)]*
 
 > <sup>[10](/bible/revelation/19#v10)</sup> And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 
@@ -614,7 +614,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     I am Raphael, one of the seven holy angels, which present the prayers of the saints: because they minister unto us; they are ministering spirits working on our behalf, because those are our brothers. They are not demonic spirits sent here to oppose people. That is popular persuasion; that is lies.
 
-**[Revelation 19:11-20](/bible/revelation/19#v11)**  *[2:17:46]*
+**[Revelation 19:11-20](/bible/revelation/19#v11)**  *[[2:17:46](https://www.youtube.com/watch?v=o6lTUvedO-s&t=8266s)]*
 
 > <sup>[11](/bible/revelation/19#v11)</sup> And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
 >
@@ -689,7 +689,7 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
     The man that came out of the sea is Christ: whensoever the voice went out of his mouth, all they burned that heard his voice, because they were guilty of that law. There was gathered together a multitude of men out of number from the four winds of heaven to subdue him: they will have one consent, because the Most High is going to harden them like he did Pharaoh, and the popular persuasion is already laying the groundwork: let's all come together and fight the demons coming from space. He neither lifted up his hand, nor held sword nor any instrument of war; but he sent out of his mouth as it had been a blast of fire, and it burnt them up every one, so that nothing was perceived but dust and smell of smoke.
 
-**[Revelation 17:12-14](/bible/revelation/17#v12)**  *[2:27:48]*
+**[Revelation 17:12-14](/bible/revelation/17#v12)**  *[[2:27:48](https://www.youtube.com/watch?v=o6lTUvedO-s&t=8868s)]*
 
 > <sup>[12](/bible/revelation/17#v12)</sup> And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
 >
@@ -715,4 +715,4 @@ A dramatized IUIC video closed the class: a national emergency, more sightings i
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-16-popular-persuasions-fighting-against-heaven-defending-earth)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=o6lTUvedO-s)

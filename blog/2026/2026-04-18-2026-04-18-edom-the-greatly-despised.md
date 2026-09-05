@@ -22,7 +22,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 
 ## Scriptures Opened
 
-**[Genesis 25:19-26](/bible/genesis/25#v19)**  *[9:27]*
+**[Genesis 25:19-26](/bible/genesis/25#v19)**  *[[9:27](https://www.youtube.com/watch?v=IyYFXp99olM&t=567s)]*
 
 > <sup>[19](/bible/genesis/25#v19)</sup> And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:
 >
@@ -45,7 +45,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - The one people shall be stronger than the other people: that one people is us, the so-called blacks, Latinos, and Native Americans under the line of Jacob. And the elder shall serve the younger.
 - The first came out red, all over like an hairy garment, and they called his name Esau. The second child is not described, because Jacob was a normal child. Only Rebekah knew the prophecy, because the Lord had told her.
 
-**[2 Esdras 6:7-10](/bible/2-esdras/6#v7)**  *[13:10]*
+**[2 Esdras 6:7-10](/bible/2-esdras/6#v7)**  *[[13:10](https://www.youtube.com/watch?v=IyYFXp99olM&t=790s)]*
 
 > <sup>[7](/bible/2-esdras/6#v7)</sup> Then answered I and said, What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?
 >
@@ -59,7 +59,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - The answer points back to that birth: Jacob's hand held first the heel of Esau. For Esau is the end of the world, and Jacob is the beginning of it that followeth. Esau is the last ruling empire; after Esau gets his run of the blessings, our blessings take place, and they are forever, the everlasting kingdom under Christ.
 - The hand of man is betwixt the heel and the hand: there is a stretch of things that must go down between Esau's end and the kingdom. And then the angel said, other question, Esdras, ask thou not.
 
-**[Genesis 25:27-34](/bible/genesis/25#v27)**  *[15:51]*
+**[Genesis 25:27-34](/bible/genesis/25#v27)**  *[[15:51](https://www.youtube.com/watch?v=IyYFXp99olM&t=951s)]*
 
 > <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
 >
@@ -83,7 +83,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Book read in class, Modern Judaism by John Allen: the descendants of Esau, sworn enemies of the descendants of Jacob even to the end of the world, were at first a small nation inhabiting Mount Seir; after the republic of the twelve tribes was destroyed by the Assyrians and Babylonians, they increased in number, extended their dominion toward the west, subjugated Italy, founded Rome and the Roman Empire, and at length overturned the Jewish state, the second temple destroyed by Titus Vespasian. They hold dominion over all Europe, Esau detaining in captivity his brother Jacob. The prophecies of Isaiah, Jeremiah, and Obadiah against Esau, Edom, Seir, and the cities of Edom, which all belong to Rome and the Christians, have not yet received their full accomplishment; and of the Christians, Obadiah says there shall not be any remaining of the house of Esau. That is future judgment.
 - Sworn enemies even to the end of the world means they will never be your friend. Remember Mount Seir; that name comes back.
 
-**[Genesis 27:1-29](/bible/genesis/27#v1)**  *[23:51]*
+**[Genesis 27:1-29](/bible/genesis/27#v1)**  *[[23:51](https://www.youtube.com/watch?v=IyYFXp99olM&t=1431s)]*
 
 > <sup>[1](/bible/genesis/27#v1)</sup> And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.
 >
@@ -150,7 +150,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Here the prophecy goes according to what God wanted. How is the elder going to serve the younger if the elder gets all of the blessings? The Lord let Isaac's eyes go dim so he could not discern, and Rebekah put the younger in to receive the elder's blessing: God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine. Let people serve thee, and nations bow down to thee. Be lord over thy brethren. Cursed be every one that curseth thee, and blessed be he that blesseth thee.
 - All of us have this blessing, but our blessing does not come into fruition until the appointed time.
 
-**[Genesis 27:30-41](/bible/genesis/27#v30)**  *[33:42]*
+**[Genesis 27:30-41](/bible/genesis/27#v30)**  *[[33:42](https://www.youtube.com/watch?v=IyYFXp99olM&t=2022s)]*
 
 > <sup>[30](/bible/genesis/27#v30)</sup> And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
 >
@@ -183,7 +183,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - And it shall come to pass when thou shalt have the dominion, when you become the world superpower, that thou shalt break his yoke from off thy neck: after you take him out of slavery.
 - And Esau hated Jacob because of the blessing. He said in his heart, the days of mourning for my father are at hand; then will I slay my brother Jacob. This is the beginning of the perpetual hatred.
 
-**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[37:42]*
+**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[[37:42](https://www.youtube.com/watch?v=IyYFXp99olM&t=2262s)]*
 
 > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
 >
@@ -195,7 +195,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Lest any root of bitterness springing up trouble you: Esau became bitter after that, and thereby many were defiled.
 - Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright. When he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears. He wept before his father, but the deed was already done and the Lord's will was done.
 
-**[Genesis 36:1](/bible/genesis/36#v1)**  *[44:36]*
+**[Genesis 36:1](/bible/genesis/36#v1)**  *[[44:36](https://www.youtube.com/watch?v=IyYFXp99olM&t=2676s)]*
 
 > <sup>[1](/bible/genesis/36#v1)</sup> Now these are the generations of Esau, who is Edom.
 
@@ -203,7 +203,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Reading shown on Edom: an ancient kingdom that stretched across the area in the south of present-day Israel, Jordan, and Palestine. Once pushed out of their territories, the Edomites settled during the Persian period in the southern hills of Judea down to the area north of Beersheba, and the people appeared under a Greek form of their old name as Idumaeans, their new territory called Idumaea, a term used in the Hellenistic and Roman periods and mentioned in the New Testament.
 - Image shown: the Treasury carved into the rock at Mount Seir, an Edomite stronghold.
 
-**[2 Esdras 3:12-16](/bible/2-esdras/3#v12)**  *[46:33]*
+**[2 Esdras 3:12-16](/bible/2-esdras/3#v12)**  *[[46:33](https://www.youtube.com/watch?v=IyYFXp99olM&t=2793s)]*
 
 > <sup>[12](/bible/2-esdras/3#v12)</sup> And it happened, that when they that dwelt upon the earth began to multiply, and had gotten them many children, and were a great people, they began again to be more ungodly than the first.
 >
@@ -219,7 +219,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Thou didst choose thee a man from among them, whose name was Abraham; him thou lovedst, and unto him only thou showedst thy will, and madest an everlasting covenant with him, promising that thou wouldest never forsake his seed. He was a friend of God.
 - And unto him thou gavest Isaac, and unto Isaac also thou gavest Jacob and Esau. As for Jacob, thou didst choose him to thee, and put by Esau: and so Jacob became a great multitude. That is us. God chose Jacob; the younger one is the stronger one, and the elder shall serve him. It was all prophesied.
 
-**[Romans 9:9-13](/bible/romans/9#v9)**  *[48:47]*
+**[Romans 9:9-13](/bible/romans/9#v9)**  *[[48:47](https://www.youtube.com/watch?v=IyYFXp99olM&t=2927s)]*
 
 > <sup>[9](/bible/romans/9#v9)</sup> For this is the word of promise, At this time will I come, and Sara shall have a son.
 >
@@ -236,7 +236,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - It was said unto her: not unto him. God told Rebekah how he wanted this thing to go down. The elder shall serve the younger.
 - As it is written, Jacob have I loved, but Esau have I hated. It is not of anything good or evil that was done; it is through election.
 
-**[Malachi 1:2-4](/bible/malachi/1#v2)**  *[51:19]*
+**[Malachi 1:2-4](/bible/malachi/1#v2)**  *[[51:19](https://www.youtube.com/watch?v=IyYFXp99olM&t=3079s)]*
 
 > <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
 >
@@ -250,7 +250,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Whereas Edom saith, we are impoverished, but we will return and build the desolate places: they were driven into the mountains, they rebuilt, and now they are the superpower in the world. But how they became the superpower is a record of abuse.
 - They shall build, but I will throw down; and they shall call them the border of wickedness, and the people against whom the Lord hath indignation for ever.
 
-**[Obadiah 1:1-2](/bible/obadiah/1#v1)**  *[57:20]*
+**[Obadiah 1:1-2](/bible/obadiah/1#v1)**  *[[57:20](https://www.youtube.com/watch?v=IyYFXp99olM&t=3440s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
@@ -262,7 +262,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Definition read: the word Saracen was commonly used in medieval Europe for the peoples of Arabia, and by the medieval period it stretched to cover anybody who was not European.
 - The bull Romanus Pontifex came right after Dum Diversas and amplified it: the same language, to reduce their persons to perpetual slavery.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[1:05:56]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[1:05:56](https://www.youtube.com/watch?v=IyYFXp99olM&t=3956s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
@@ -274,7 +274,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Film referenced: El Resplandor, a short Puerto Rican film on slavery on the island; slow paced, but it gets the message sent.
 - Posters shown from the Wayland Rudd Collection, Soviet era artwork about our people: he carried Africa in his heart, Lumumba; the end of colonialism; no to colonialism; colonialism is doomed; we mourn for Lumumba, Africa must live; colonizers must answer, that is where caught red-handed comes from; freedom to all the peoples of Africa, meaning freedom to all the peoples of the Israelites; a soldier receiving a medal from the ghost of the Third Reich for services in Vietnam; and I used to hold the whip in my hands, on how they colonize minds and make us taskmasters over our own, no different than in the days of Moses. During the Cold War they made us believe that side was pure evil, but those posters were depicting what was happening over here. Colonialism is only doomed when we wake up and realize our minds have been colonized; our souls should belong to the Most High.
 
-**[Obadiah 1:3](/bible/obadiah/1#v3)**  *[1:23:55]*
+**[Obadiah 1:3](/bible/obadiah/1#v3)**  *[[1:23:55](https://www.youtube.com/watch?v=IyYFXp99olM&t=5035s)]*
 
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 
@@ -286,7 +286,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Video and book shown on the 1950s: racism woven into housing, education, employment, and travel, and the Green Book, compiled by Victor Green, a black postman from Harlem, an annual guide of safe hotels, restaurants, and gas stations. The teacher bought a copy: a treasure map of places where black people could be safe.
 - J. Edgar Hoover was asked what the number one threat to America is, and he said the organization of Negroes. What happens when the diaspora organizes not in theory but in execution? A new economic force emerges: Tulsa, Oklahoma; Rosewood. That is what they did not want.
 
-**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[1:46:26]*
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[1:46:26](https://www.youtube.com/watch?v=IyYFXp99olM&t=6386s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
@@ -297,7 +297,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Huey Newton quote read: the oppressor must be harassed until his doom; the enslaved have always outnumbered the enslavers; the power of the oppressor rests upon the submission of the people.
 - The one element missing from the Black Panthers, the Young Lords, and the American Indian Movement was the Bible. That is it. Had they had the Bible, we would probably be in the kingdom by now.
 
-**[Obadiah 1:4-6](/bible/obadiah/1#v4)**  *[1:53:21]*
+**[Obadiah 1:4-6](/bible/obadiah/1#v4)**  *[[1:53:21](https://www.youtube.com/watch?v=IyYFXp99olM&t=6801s)]*
 
 > <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 >
@@ -310,7 +310,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - If thieves came to thee, would they not have stolen till they had enough? People who steal, steal until they have enough. Esau is greatly despised because they continue to steal and steal and steal. If the grapegatherers came, would they not leave some grapes? The law says leave grapes at the edges of the field for the poor.
 - How are the things of Esau searched out! How are his hidden things sought up! We are going to find out; the class goes back through the decades.
 
-**[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[1:56:45]*
+**[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[[1:56:45](https://www.youtube.com/watch?v=IyYFXp99olM&t=7005s)]*
 
 > <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
 
@@ -318,7 +318,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Book read in class, In the Pillory: The Tale of the Borgia Pope: the bust of the Savior posed for by Cesare Borgia, the son of Pope Alexander VI. It was removed from the church of San Salvatore in Termis, now destroyed, to the monumental morgue of the Saint Louis church, where it is shown by the guide as the bust of the relative of a famous pope. It is an open secret that Cesare Borgia had posed for it.
 - The new lie in the earth right now is that there is no proof Cesare Borgia posed as the image of Christ. They are trying hard to discredit what we teach and to disconnect themselves from the atrocities. But the hidden things of Esau are sought up.
 
-**[Daniel 7:25](/bible/daniel/7#v25)**  *[2:05:28]*
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[2:05:28](https://www.youtube.com/watch?v=IyYFXp99olM&t=7528s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
@@ -329,13 +329,13 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - And think to change times and laws: they changed the calendar, some calendars now start the week on Monday, and they moved the new moon to the dark moon to keep the lie going and hide the high holy days.
 - And they shall be given into his hand until a time and times and the dividing of time: that is what Esau has been given, and his time is coming to an end. At the end of that is the heel and the hand, the beginning of the kingdom.
 
-**[Psalms 64:8](/bible/psalms/64#v8)**  *[2:11:21]*
+**[Psalms 64:8](/bible/psalms/64#v8)**  *[[2:11:21](https://www.youtube.com/watch?v=IyYFXp99olM&t=7881s)]*
 
 > <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
 - So they shall make their own tongue to fall upon themselves: all that see them shall flee away. They wrote everything down with the expectation that we would never learn to read. Now we know how to read.
 
-**[Isaiah 23:1-8](/bible/isaiah/23#v1)**  *[2:11:55]*
+**[Isaiah 23:1-8](/bible/isaiah/23#v1)**  *[[2:11:55](https://www.youtube.com/watch?v=IyYFXp99olM&t=7915s)]*
 
 > <sup>[1](/bible/isaiah/23#v1)</sup> The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.
 >
@@ -357,7 +357,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - The crowning city, whose merchants are princes: the corporations here are like royalty. Whose traffickers are the honourable of the earth: that sounds like the trafficking scandals of our day, businessmen and celebrities, the honorable of the earth as the traffickers. And before that, we had the transatlantic slave trade; and slave trading still goes on in parts of Arabia, in Sudan, in the Congo.
 - Video played from a mission field report: sitting on the ruins of a synagogue built in 1685, the first completed synagogue built in the Americas, beside a coffee plantation where our northern and southern kingdom brothers were enslaved, and a cemetery where our people were buried after being worked to death. The traffickers were counted the honorable of the earth.
 
-**[Ezekiel 28:1-5](/bible/ezekiel/28#v1)**  *[2:15:08]*
+**[Ezekiel 28:1-5](/bible/ezekiel/28#v1)**  *[[2:15:08](https://www.youtube.com/watch?v=IyYFXp99olM&t=8108s)]*
 
 > <sup>[1](/bible/ezekiel/28#v1)</sup> The word of the Lord came again unto me, saying,
 >
@@ -374,7 +374,7 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Video shown: a Polish member of parliament displayed an altered Israeli flag in parliament and compared the present war to the worst of the last century. Out of nowhere, from a country that never talks like that. Israel is a problem and America is a problem, and they are one and the same.
 - Readings shown on the covert record: Patrice Lumumba, with declassified documents showing US involvement in his assassination; Jaime Roldos Aguilera, whose plane crashed with his wife and officials aboard and had no black box; Fidel Castro, assassination plots and propaganda campaigns, with surveillance of sympathizers at home used to justify watching black activists and student movements; Che Guevara; Kwame Nkrumah, feared as the connection between African independence and black US leadership; Pedro Albizu Campos, constant surveillance, mail interception, informants inside the party, and the radiation that ruined his body, the king of towels walking his cell to stay cool; Martin Luther King, hotel bugs, blackmail, smear campaigns, and the letter telling him there was one thing left for him to do; Malcolm X, COINTELPRO surveillance and informants planted in his inner circle. And such happened with the Young Lords and everyone else mentioned. Why is Esau greatly despised?
 
-**[Obadiah 1:19-21](/bible/obadiah/1#v19)**  *[2:31:16]*
+**[Obadiah 1:19-21](/bible/obadiah/1#v19)**  *[[2:31:16](https://www.youtube.com/watch?v=IyYFXp99olM&t=9076s)]*
 
 > <sup>[19](/bible/obadiah/1#v19)</sup> And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.
 >
@@ -410,4 +410,4 @@ Media played: the Obadiah mini movie, the El Resplandor film reference, the Hava
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-18-edom-the-greatly-despised)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=IyYFXp99olM)

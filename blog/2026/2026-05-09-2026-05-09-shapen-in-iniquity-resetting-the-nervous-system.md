@@ -20,7 +20,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
 ## Scriptures Opened
 
-**[Genesis 2:7](/bible/genesis/2#v7)**  *[8:36]*
+**[Genesis 2:7](/bible/genesis/2#v7)**  *[[8:36](https://www.youtube.com/watch?v=sswMP7Skv-4&t=516s)]*
 
 > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
@@ -35,7 +35,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
     All men are from the ground, and Adam was created of earth. The second witness.
 
-**[1 Corinthians 15:47-49](/bible/1-corinthians/15#v47)**  *[15:48]*
+**[1 Corinthians 15:47-49](/bible/1-corinthians/15#v47)**  *[[15:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=948s)]*
 
 > <sup>[47](/bible/1-corinthians/15#v47)</sup> The first man is of the earth, earthy: the second man is the Lord from heaven.
 >
@@ -46,7 +46,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The first man is of the earth, earthy: that's Adam. The second man is the Lord from heaven: that's Christ. As is the earthy, such are they also that are earthy: just like Adam was earthy, so are we; we come from the same soil our father came from.
 - As we have borne the image of the earthy: we are mortal; Adam lost his immortality. We shall also bear the image of the heavenly: that is a promise from God. He is going to change our cellular structure and give us a new body, no longer this weak, frail body that has to die.
 
-**[Wisdom of Solomon 2:23-24](/bible/wisdom-of-solomon/2#v23)**  *[17:12]*
+**[Wisdom of Solomon 2:23-24](/bible/wisdom-of-solomon/2#v23)**  *[[17:12](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1032s)]*
 
 > <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
 >
@@ -55,7 +55,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - God created man to be immortal, and made him to be an image of his own eternity: although Adam was made from the dust of the ground, in the beginning he could not die.
 - Nevertheless through envy of the devil came death into the world: and they that do hold of his side, that follow Satan's doctrine and his idolatry, are going to die with him. The only way back to immortality is to come back to the Lord. No idol can give you eternal life; not Buddha, Krishna, Vishnu, or the gods of the Egyptologists. Eternal life comes through one source: the Most High.
 
-**[John 5:21-24](/bible/john/5#v21)**  *[18:56]*
+**[John 5:21-24](/bible/john/5#v21)**  *[[18:56](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1136s)]*
 
 > <sup>[21](/bible/john/5#v21)</sup> For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
 >
@@ -69,7 +69,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - A word for the trinitarians: the Father hath committed all judgment unto the Son. For me to commit something to you means I had it first and you did not. The Father gave judgment to Christ so that all men should honour the Son even as they honour the Father; the one who gives is the one with the supreme authority. There is no co-eternal, co-substantial confusion here.
 - He that heareth my word, and believeth on him that sent me, hath everlasting life: the only way to get life is to believe on Christ and keep the commandments. That is the immortality Adam had at the beginning and lost through sin.
 
-**[2 Esdras 3:21-26](/bible/2-esdras/3#v21)**  *[21:29]*
+**[2 Esdras 3:21-26](/bible/2-esdras/3#v21)**  *[[21:29](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1289s)]*
 
 > <sup>[21](/bible/2-esdras/3#v21)</sup> For the first Adam bearing a wicked heart transgressed, and was overcome; and so be all they that are born of him.
 >
@@ -81,7 +81,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Thus infirmity was made permanent. Definition read in class: an infirmity is a physical or mental weakness, frailty, or ailment, often associated with old age, chronic illness, or a condition that reduces a person's vitality. Was Adam feeling physical pain when he was first created? When Adam got cast down, and his descendants with him, then came the backaches and body aches and headaches; the woman now has the menstrual cycle and feels the pains of childbearing. When our father fell, we all fell with him, and now we all face infirmity, physical and mental weakness. Focus on the mental.
 - The good departed away, and the evil abode still: the immortality departed, but that evil nature is still in our flesh. And in all things did even as Adam and all his generations had done, for they also had a wicked heart.
 
-**[2 Esdras 4:30-31](/bible/2-esdras/4#v30)**  *[25:20]*
+**[2 Esdras 4:30-31](/bible/2-esdras/4#v30)**  *[[25:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1520s)]*
 
 > <sup>[30](/bible/2-esdras/4#v30)</sup> For the grain of evil seed hath been sown in the heart of Adam from the beginning, and how much ungodliness hath it brought up unto this time? and how much shall it yet bring forth until the time of threshing come?
 >
@@ -90,13 +90,13 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The grain of evil seed hath been sown in the heart of Adam from the beginning, and how much ungodliness hath it brought up unto this time, and how much shall it yet bring forth until the time of threshing come. The time of threshing is when Christ returns; until then we are going to be surrounded by evil.
 - That is why you hear Bishop Yahwasap and the elders say we are not trying to build a metropolis, but we are building a nation within a nation. Christ is the one who is going to correct all the wickedness and give us immortality; but while we are here, we have a job to do. It is our job to heal ourselves so that we can heal our people.
 
-**[2 Esdras 7:48](/bible/2-esdras/7#v48)**  *[27:05]*
+**[2 Esdras 7:48](/bible/2-esdras/7#v48)**  *[[27:05](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1625s)]*
 
 > <sup>[48](/bible/2-esdras/7#v48)</sup> O thou Adam, what hast thou done? for though it was thou that sinned, thou art not fallen alone, but we all that come of thee.
 
 - O thou Adam, what hast thou done? For though it was thou that sinned, thou art not fallen alone, but we all that come of thee. Our forefathers had understanding of why we are in the condition we are in; and we furthered our own affliction by sinning against the Most High God ourselves. We made it worse, and we are continuing to make it worse as a nation of people.
 
-**[Psalms 51:5](/bible/psalms/51#v5)**  *[27:53]*
+**[Psalms 51:5](/bible/psalms/51#v5)**  *[[27:53](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1673s)]*
 
 > <sup>[5](/bible/psalms/51#v5)</sup> Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 
@@ -104,13 +104,13 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Shapen in iniquity is talking about the sinful nature of this flesh, which you do not have to give in to. We can overcome the things in our mind; we can overcome what we have been through; we can overcome our trauma. But it is up to us to have our mind right with the Lord in order to do so.
 - When people are convinced to go back into their old environment, that is trauma they are going back to. They feel comfortable in that traumatic state, in who they used to be; it is more comfortable to sit in your mess than to stand up and change your mind. That is why some people stay overweight: they have not conditioned their mind that I am a man of God and I am going to do something about it.
 
-**[Matthew 26:41](/bible/matthew/26#v41)**  *[31:13]*
+**[Matthew 26:41](/bible/matthew/26#v41)**  *[[31:13](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1873s)]*
 
 > <sup>[41](/bible/matthew/26#v41)</sup> Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.
 
 - Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak. Christ did not give a license to sin here. He is saying: I know your spirit wants to do right, but do not sleep on that flesh you are in. I know what happened when Adam fell; I know you are tempted; do not fall into the temptation. He gave us the keys.
 
-**[Romans 7:14-25](/bible/romans/7#v14)**  *[31:54]*
+**[Romans 7:14-25](/bible/romans/7#v14)**  *[[31:54](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1914s)]*
 
 > <sup>[14](/bible/romans/7#v14)</sup> For we know that the law is spiritual: but I am carnal, sold under sin.
 >
@@ -143,7 +143,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - O wretched man that I am! Who shall deliver me from the body of this death? I thank God through Jesus Christ our Lord. With the mind I myself serve the law of God, but with the flesh the law of sin. This is the battle of every man and every woman on this earth. The difference between them and us is that we know why we battle it, and we have the keys to fix it.
 - That is why, when a brother makes a mistake, we do not instantly look at him as evil. Everybody does something for a reason; you have to ask why. The only way to healing is to know where it stems from.
 
-**[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[38:08]*
+**[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[[38:08](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2288s)]*
 
 > <sup>[14](/bible/wisdom-of-solomon/9#v14)</sup> For the thoughts of mortal men are miserable, and our devices are but uncertain.
 >
@@ -158,7 +158,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
     Listen to the word David used: I muse on the work of thy hands. He would think on why life is the way it is, why we suffer certain conditions. Even Esdras said it was not in his mind to know the deep things, but to know why Israel suffers what we suffer.
 
-**[Wisdom of Solomon 7:17-20](/bible/wisdom-of-solomon/7#v17)**  *[42:39]*
+**[Wisdom of Solomon 7:17-20](/bible/wisdom-of-solomon/7#v17)**  *[[42:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2559s)]*
 
 > <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
 >
@@ -168,7 +168,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Solomon was not just a king; Solomon was a psychologist, and his father David was too. Go read Psalms and you will see things repeated in Proverbs that were written in Psalms. Abraham, Noah, Moses: these were the men of the Most High God, the sons of God. Stop picturing what the world painted; these men held the way of knowledge.
 - You will fall asleep reading the Bible but stay up watching TED talks about psychology, not knowing that all of that research stands on a foundation, which is the Bible.
 
-**[Baruch 3:35-37](/bible/baruch/3#v35)**  *[45:04]*
+**[Baruch 3:35-37](/bible/baruch/3#v35)**  *[[45:04](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2704s)]*
 
 > <sup>[35](/bible/baruch/3#v35)</sup> This is our God, and there shall none other be accounted of in comparison of him
 >
@@ -180,7 +180,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The nations have been trying to replicate what is in this book. At the United Nations they hand you an earpiece so every man hears in his own language; that happened at Pentecost. In Genesis 11 everybody spoke one language and the Lord confounded it. Read your Bible with new eyes; stop reading it from a place of boredom.
 - Afterward did he shew himself upon earth, and conversed with men: the Most High never came down and walked among men; this is the Son of God, Jesus the Christ. He came down and taught us the wisdom, and gave the apostles power to do what he could do for a season.
 
-**[Ecclesiasticus 40:1-8](/bible/sirach/40#v1)**  *[48:12]*
+**[Ecclesiasticus 40:1-8](/bible/sirach/40#v1)**  *[[48:12](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2892s)]*
 
 > <sup>[1](/bible/sirach/40#v1)</sup> Great travail is created for every man, and an heavy yoke is upon the sons of Adam, from the day that they go out of their mother’s womb, till the day that they return to the mother of all things.
 >
@@ -210,7 +210,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Video played on the vagus nerve: the longest cranial nerve in the body, running from the brain stem into the stomach, regulating stress, digestion, and emotional safety. When it is dysregulated you feel numb, exhausted, and dissociated, you self-isolate, and small tasks feel overwhelming; prolonged stress or trauma can put the body into a freeze state. And you can absolutely restimulate it and get your energy back. There is hope, and the word of God is how we are going to do it.
 - Ongoing traumatic stress leads to physical consequences: high blood pressure, digestive issues, chronic pain, weak immune function. This is where we come in as husbands and leaders: we set the example first, so we should not have unhealthy, out of shape men among us. The men lead the nation; nobody is coming to lead our nation for us.
 
-**[Luke 10:39-42](/bible/luke/10#v39)**  *[57:08]*
+**[Luke 10:39-42](/bible/luke/10#v39)**  *[[57:08](https://www.youtube.com/watch?v=sswMP7Skv-4&t=3428s)]*
 
 > <sup>[39](/bible/luke/10#v39)</sup> And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.
 >
@@ -223,7 +223,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Mary sat at Christ's feet and heard his word, but Martha was cumbered about much serving: that is a fawn response, moving around, I have to do this, I have to take care of that.
 - Christ answered, Martha, Martha, thou art careful and troubled about many things: but one thing is needful, and Mary hath chosen that good part. Some of us immerse ourselves in things to do so we do not have to deal with our thoughts. The Bible also says be not idle, so we have to find the balance: sometimes you have to sit down, let your brain and body rest, meditate in the word of God, fast, and pray.
 
-**[Psalms 109:20-22](/bible/psalms/109#v20)**  *[1:08:17]*
+**[Psalms 109:20-22](/bible/psalms/109#v20)**  *[[1:08:17](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4097s)]*
 
 > <sup>[20](/bible/psalms/109#v20)</sup> Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.
 >
@@ -234,13 +234,13 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Definition read in class: the word trauma is Greek for a wound, a hurt, a defeat. When we say you are traumatized, we are saying you are wounded; and a wound has to be treated so it can be healed.
 - David said, I am poor and needy, and my heart is wounded within me. What is David describing? Trauma. I told you these men were psychologists; they understood emotions and emotional regulation long before the modern terms existed.
 
-**[Proverbs 15:13](/bible/proverbs/15#v13)**  *[1:09:48]*
+**[Proverbs 15:13](/bible/proverbs/15#v13)**  *[[1:09:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4188s)]*
 
 > <sup>[13](/bible/proverbs/15#v13)</sup> A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.
 
 - By sorrow of the heart the spirit is broken. A broken spirit: that is trauma.
 
-**[Psalms 34:18](/bible/psalms/34#v18)**  *[1:10:10]*
+**[Psalms 34:18](/bible/psalms/34#v18)**  *[[1:10:10](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4210s)]*
 
 > <sup>[18](/bible/psalms/34#v18)</sup> The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
 
@@ -253,7 +253,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Definition read: a spontaneous abortion, more commonly known as a miscarriage, is the unexpected ending of a pregnancy before the 20th week, affecting roughly 10 to 20 percent of recognized pregnancies. Many of the miscarriages our sisters suffer stem from stress and trauma; the body cannot carry a certain stress level in pregnancy. You have to believe the word of God, forgive, and let go; it is affecting your body.
 - Neglect goes hand in hand with abuse: if a child was harmed, that child was also unprotected. And physical neglect is broader than we think: feeding children nothing but processed food and sugar, never teaching them to exercise or eat, tuning your children out and handing them a tablet instead of time; that is leading them down a path to be sick as adults. A child is supposed to be able to talk to their parents.
 
-**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[1:24:01]*
+**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[1:24:01](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5041s)]*
 
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
@@ -263,13 +263,13 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The book also lays out the divine design of parental guidance: train up a child in the way he should go (Proverbs 22:6); parents are appointed as the primary conduit through which God's wisdom, law, and love flow into the next generation (Deuteronomy 6). When parents are absent, wounded, or disengaged, a door is opened for trauma, confusion, and spiritual vulnerability; we open up portals to Satan.
 - Born into a curse: Deuteronomy 28:19 speaks of a curse that follows those who fail to walk in the ordinances of God. A curse is a pattern of traumatic, oppressive, destructive conditions that operate generationally: systemic injustice, family dysfunction, cycles of addiction, emotional neglect, mass fatherlessness, poverty, broken covenant. These are not accidents; they are the fruit of generational curses left unbroken. That is Deuteronomy 28. Go back and read it and you will see trauma, trauma, trauma.
 
-**[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[1:35:39]*
+**[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[[1:35:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5739s)]*
 
 > <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
 
 - They said one to another, Let us restore the decayed estate of our people, and let us fight for our people. That is our mission, brothers: we have to restore the decayed state of our people. That is why we have to learn this terminology, learn the word of God, apply it to our lives, and go out and teach our people.
 
-**[Jeremiah 2:21](/bible/jeremiah/2#v21)**  *[1:36:14]*
+**[Jeremiah 2:21](/bible/jeremiah/2#v21)**  *[[1:36:14](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5774s)]*
 
 > <sup>[21](/bible/jeremiah/2#v21)</sup> Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
 
@@ -281,7 +281,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
     How did we become that degenerate plant? Thine own wickedness shall correct thee, and thy backslidings shall reprove thee. It is an evil thing and bitter that thou hast forsaken the Lord thy God. Look at our conditions.
 
-**[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[1:41:17]*
+**[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[1:41:17](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6077s)]*
 
 > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
 >
@@ -296,13 +296,13 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Reading: intergenerational trauma is the transmission of the psychological and physiological effects of trauma from one generation to the next; untreated trauma such as systemic oppression or abuse alters a family's environment, behaviors, or even gene expression, leaving descendants susceptible to anxiety, depression, and PTSD. You feel a certain way and do not know why; you are feeling your father's pain.
 - Epigenetics: traumatic experiences can cause chemical modifications to genes. They do not alter the DNA sequence itself, but they affect how genes are expressed, leaving descendants with a lowered baseline for regulating stress.
 
-**[Exodus 20:5](/bible/exodus/20#v5)**  *[1:47:37]*
+**[Exodus 20:5](/bible/exodus/20#v5)**  *[[1:47:37](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6457s)]*
 
 > <sup>[5](/bible/exodus/20#v5)</sup> Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;
 
 - Visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me. What is that called? Intergenerational trauma: those conditions pass down generation after generation. And that is why the Willie Lynch letter said the cycle would continue unless a phenomenon occurs; that phenomenon is repentance and the knowledge of who you are as an Israelite.
 
-**[John 9:1-2](/bible/john/9#v1)**  *[1:48:40]*
+**[John 9:1-2](/bible/john/9#v1)**  *[[1:48:40](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6520s)]*
 
 > <sup>[1](/bible/john/9#v1)</sup> And as Jesus passed by, he saw a man which was blind from his birth.
 >
@@ -311,7 +311,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The disciples asked, Master, who did sin, this man, or his parents, that he was born blind? Why would they ask that? These were not ignorant fishermen; these men had the wisdom of God. They understood epigenetics; they understood intergenerational trauma; they understood Deuteronomy 28. These men were psychologists.
 - Does that not light a fire under you? Your forefathers were the greatest men on earth and we descend from them. There is nothing we cannot do and no knowledge we cannot learn. We have to change our mindset, brothers.
 
-**[Ezekiel 18:1-3](/bible/ezekiel/18#v1)**  *[1:50:06]*
+**[Ezekiel 18:1-3](/bible/ezekiel/18#v1)**  *[[1:50:06](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6606s)]*
 
 > <sup>[1](/bible/ezekiel/18#v1)</sup> The word of the Lord came unto me again, saying,
 >
@@ -334,7 +334,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
     When the son hath done that which is lawful and right, and hath kept all my statutes, he shall surely live. The son shall not bear the iniquity of the father. Intergenerational trauma is real; but do you sit in it, or do you change? Just because our fathers were wicked, and our mothers did not know God's laws, that is not an excuse to stay in this. Recognize it and move on from it.
 
-**[Matthew 9:11-13](/bible/matthew/9#v11)**  *[1:53:20]*
+**[Matthew 9:11-13](/bible/matthew/9#v11)**  *[[1:53:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6800s)]*
 
 > <sup>[11](/bible/matthew/9#v11)</sup> And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
 >
@@ -345,7 +345,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - They that be whole need not a physician, but they that are sick. I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance. Although we have been through traumatic experiences, the Lord says, I am still going to have mercy. That is every last one of us; Christ has given us a clean slate, so we cannot use what we have been through as an excuse anymore.
 - Reading on the brain's reward system: it is a network of structures that processes pleasure, motivation, and learning, releasing dopamine when we engage in vital behaviors so that we repeat them. This is why some people get addicted to sex, drugs, and overeating. We should be getting that reward from the fellowship and the work of the ministry; when you first come into the truth you are excited, but some fall numb and slide back into old ways. You have to change it.
 
-**[Hebrews 11:24-25](/bible/hebrews/11#v24)**  *[1:55:28]*
+**[Hebrews 11:24-25](/bible/hebrews/11#v24)**  *[[1:55:28](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6928s)]*
 
 > <sup>[24](/bible/hebrews/11#v24)</sup> By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
 >
@@ -353,7 +353,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
 - Moses chose rather to suffer affliction with the people of God than to enjoy the pleasures of sin for a season. Because you grew up in a world of sin, your pleasures are in sin; your dopamine hits come from things that are against God. But the brain is not static: it can form new ideas and change habits. You control it.
 
-**[Romans 7:7-8](/bible/romans/7#v7)**  *[1:56:27]*
+**[Romans 7:7-8](/bible/romans/7#v7)**  *[[1:56:27](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6987s)]*
 
 > <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 >
@@ -362,7 +362,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - I had not known sin, but by the law: the only way you know you are in sin against God is by referring back to his laws. When you read God's laws you say, he said do not do this; I have to change that. This is how you get the brain right.
 - Sin, taking occasion by the commandment, wrought in me all manner of concupiscence. Definition read in class: concupiscence is an intense longing or desire, a disordered human inclination or tendency to sin, stemming from selfish, worldly, or carnal appetites. That is the sinful nature, the shapen in iniquity.
 
-**[Ecclesiasticus 23:16-17](/bible/sirach/23#v16)**  *[1:58:16]*
+**[Ecclesiasticus 23:16-17](/bible/sirach/23#v16)**  *[[1:58:16](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7096s)]*
 
 > <sup>[16](/bible/sirach/23#v16)</sup> Two sorts of men multiply sin, and the third will bring wrath: a hot mind is as a burning fire, it will never be quenched till it be consumed: a fornicator in the body of his flesh will never cease till he hath kindled a fire.
 >
@@ -370,27 +370,27 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
 - A hot mind is as a burning fire, it will never be quenched till it be consumed: that is the inclination to sin, that concupiscence. All bread is sweet to a whoremonger: that dopamine he has to have. Speaking from experience of the old life: the men who stayed in the club until the lights came on were not there for a good time; that lifestyle is a chase that never satisfies.
 
-**[Hebrews 3:13](/bible/hebrews/3#v13)**  *[2:00:03]*
+**[Hebrews 3:13](/bible/hebrews/3#v13)**  *[[2:00:03](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7203s)]*
 
 > <sup>[13](/bible/hebrews/3#v13)</sup> But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
 
 - Exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. You get hardened because you have been in the sin so long you start to think that is the only way. No: God's laws are the way.
 - Psychological note read from the book: the concept of emotional triggers as conditioned responses was advanced by trauma researchers including Peter Levine (Waking the Tiger, 1997), who described how the nervous system stores unresolved traumatic experiences and reactivates them in response to environmental cues.
 
-**[Ecclesiasticus 27:12](/bible/sirach/27#v12)**  *[2:01:20]*
+**[Ecclesiasticus 27:12](/bible/sirach/27#v12)**  *[[2:01:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7280s)]*
 
 > <sup>[12](/bible/sirach/27#v12)</sup> If thou be among the indiscreet, observe the time; but be continually among men of understanding.
 
 - If thou be among the indiscreet, observe the time; but be continually among men of understanding. Be around likeminded people that are on the same healing journey.
 
-**[Proverbs 12:26](/bible/proverbs/12#v26)**  *[2:01:40]*
+**[Proverbs 12:26](/bible/proverbs/12#v26)**  *[[2:01:40](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7300s)]*
 
 > <sup>[26](/bible/proverbs/12#v26)</sup> The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
 
 - The righteous is more excellent than his neighbour: but the way of the wicked seduceth them. It is impossible to sit among people who put you through traumatic experiences, or who remind you of the old life of drugs and drunkenness, and stay whole; those environmental cues reactivate what is stored. You have to separate yourself.
 - Some of you love your mama so much that you will sit at her house and hear her speak evil of what you believe, of your husband, of your lifestyle, and just take it, not knowing it is triggering and reactivating what you have been through. Around her you feel like that little child again who cannot say anything, and you will suppress the gospel to seek love. If they do not respect your beliefs, love them from a distance; do not keep bringing yourself back to that old place and hindering your walk in this truth.
 
-**[Romans 12:1-2](/bible/romans/12#v1)**  *[2:05:24]*
+**[Romans 12:1-2](/bible/romans/12#v1)**  *[[2:05:24](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7524s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 >
@@ -401,7 +401,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - So who is going to tell you that you cannot change, when God says you can? You are an Israelite; God gave you the commandments and sent his Son to die for you. You cannot let your traumatic experiences continue to shape your existence. Your identity was formed in a false self, a persona: let it go.
 - Stop saying you cannot lose the weight, you cannot get in shape, you cannot stop the sin. You can do it, thus saith the Lord. And Esau knows you can change; that is why he tells our people and our children, you cannot do it, that the sciences and law and medicine are not for you. They are for the Israelites, because our forefathers held this knowledge first.
 
-**[Ephesians 3:16-19](/bible/ephesians/3#v16)**  *[2:07:41]*
+**[Ephesians 3:16-19](/bible/ephesians/3#v16)**  *[[2:07:41](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7661s)]*
 
 > <sup>[16](/bible/ephesians/3#v16)</sup> That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;
 >
@@ -414,7 +414,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - To be strengthened with might by his Spirit in the inner man: if you believe this truth, he will strengthen your mind. The Lord will give you the power to overcome your lusts; if you keep falling into them, your belief is not there yet. You have to fight it within.
 - That ye might be filled with all the fulness of God: that deletes depression and anxiety. I do not sit around depressed anymore; I know who is in control of my steps, I understand what God called me to do, and I know I have brothers that love and care for me. When they correct me, I know it is not coming from a place of malice. But if you have not rewired your mind to believe that these are the men of God, every correction will send you right back into the old rut and the old excuses.
 
-**[Ephesians 4:22-27](/bible/ephesians/4#v22)**  *[2:09:23]*
+**[Ephesians 4:22-27](/bible/ephesians/4#v22)**  *[[2:09:23](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7763s)]*
 
 > <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 >
@@ -433,32 +433,32 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Neither give place to the devil: that is the trauma. Satan can only use what is within you; if you deal with it, he cannot use it. He will whisper the old thoughts: see how they treat you, they never liked you, all of that. Wait a minute: when we paid your rent, was that hate? When we kept your kids for a week while your wife was in the hospital, was that hate? No; that is the same traumatic record replaying. The Lord said forgive. You have to let it go.
 - So the first key to rewiring the brain is repentance. The second is meditation in God's word.
 
-**[Joshua 1:8](/bible/joshua/1#v8)**  *[2:11:27]*
+**[Joshua 1:8](/bible/joshua/1#v8)**  *[[2:11:27](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7887s)]*
 
 > <sup>[8](/bible/joshua/1#v8)</sup> This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.
 
 - This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night. For then thou shalt make thy way prosperous: we think that is money; the Lord is saying you are going to change your mind and live a better life.
 - We put our children through the same ACEs we went through and then want them to change; we have to give them an example of what change looks like, so the next generation has the tools and does not fall into what we fell into. We protect our daughters and our sons. We are a family in here.
 
-**[Psalms 119:48](/bible/psalms/119#v48)**  *[2:12:40]*
+**[Psalms 119:48](/bible/psalms/119#v48)**  *[[2:12:40](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7960s)]*
 
 > <sup>[48](/bible/psalms/119#v48)</sup> My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.
 
 - My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes. Where is the meditation? In the statutes.
 
-**[Ecclesiasticus 6:37](/bible/sirach/6#v37)**  *[2:13:06]*
+**[Ecclesiasticus 6:37](/bible/sirach/6#v37)**  *[[2:13:06](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7986s)]*
 
 > <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
 
 - Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire.
 
-**[Isaiah 26:3](/bible/isaiah/26#v3)**  *[2:13:27]*
+**[Isaiah 26:3](/bible/isaiah/26#v3)**  *[[2:13:27](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8007s)]*
 
 > <sup>[3](/bible/isaiah/26#v3)</sup> Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
 
 - Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee. Why is your mind at peace? Because you trust in the Lord.
 
-**[Isaiah 28:10-12](/bible/isaiah/28#v10)**  *[2:14:01]*
+**[Isaiah 28:10-12](/bible/isaiah/28#v10)**  *[[2:14:01](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8041s)]*
 
 > <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 >
@@ -467,14 +467,14 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Precept must be upon precept, line upon line, here a little, and there a little. This is the rest wherewith ye may cause the weary to rest; and this is the refreshing. What is the refreshing, brothers? Precept upon precept.
 - So David said it, Isaiah said it, Sirach said it, Joshua said it. What were these men, by definition, in today's terms? Psychologists, therapists, counselors. They knew how to heal their people, and we must develop the same skill: find out what makes our people tick, and help them heal from it.
 
-**[Wisdom of Solomon 16:12](/bible/wisdom-of-solomon/16#v12)**  *[2:15:07]*
+**[Wisdom of Solomon 16:12](/bible/wisdom-of-solomon/16#v12)**  *[[2:15:07](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8107s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/16#v12)</sup> For it was neither herb, nor mollifying plaister, that restored them to health: but thy word, O Lord, which healeth all things.
 
 - It was neither herb, nor mollifying plaister, that restored them to health: but thy word, O Lord, which healeth all things. We have been sedated with medication and weed and antidepressants, but the whole time the key to breaking this trauma has been the Bible, the laws of God.
 - The Most High put it on the spirit of Bishop Nathanyel to see it in the scriptures and bring it to the body: Revelation 14:12, keep the commandments of God and the faith of Jesus. The bishops taught the deacons, the deacons the captains, the captains the officers, the officers the soldiers, the soldiers the men, and the men their wives and children, and we take our kingdom back. That has been the solution the whole time.
 
-**[Ecclesiasticus 30:21-23](/bible/sirach/30#v21)**  *[2:16:25]*
+**[Ecclesiasticus 30:21-23](/bible/sirach/30#v21)**  *[[2:16:25](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8185s)]*
 
 > <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
 >
@@ -486,7 +486,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days. Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein. Sirach is speaking in what today they would call medical terms.
 - Book excerpt read (from a forthcoming volume), on the immune system and grief: research in psychoneuroimmunology, the study of how the mind, nervous system, and immune system interact, shows that chronic stress and grief measurably impact immune functioning. In a prolonged stress state, natural killer cell activity decreases and inflammatory markers increase, contributing to pain, fatigue, and vulnerability to infection. This is one reason some people get physically sick after losing a loved one: their body is not weak; it is overwhelmed, taxed by the emotional weight it is carrying. Foundational research by Irwin and colleagues (1987) documented reduced lymphocyte activity among bereaved individuals; untreated grief carries measurable physiological risk.
 
-**[Ecclesiasticus 38:17-21](/bible/sirach/38#v17)**  *[2:22:39]*
+**[Ecclesiasticus 38:17-21](/bible/sirach/38#v17)**  *[[2:22:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8559s)]*
 
 > <sup>[17](/bible/sirach/38#v17)</sup> Weep bitterly, and make great moan, and use lamentation, as he is worthy, and that a day or two, lest thou be evil spoken of: and then comfort thyself for thy heaviness.
 >
@@ -502,37 +502,37 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - For of heaviness cometh death, and the heaviness of the heart breaketh strength. The psychosomatic illnesses come from the heaviness; a psychosomatic disorder is a very real physical condition caused or significantly worsened by mental factors like chronic stress, anxiety, or emotional trauma. It is not imaginary; it reflects the deep biological connection between your brain and your body. Sirach 30 told us that in ancient times; we just got the terminology now.
 - Take no heaviness to heart: drive it away. There is no turning again: thou shalt not do him good, but hurt thyself. You will not do the person that died any good. A lot of our illnesses are self inflicted, because we do not believe God's word and do not allow it to work in our life.
 
-**[Hebrews 11:6](/bible/hebrews/11#v6)**  *[2:24:20]*
+**[Hebrews 11:6](/bible/hebrews/11#v6)**  *[[2:24:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8660s)]*
 
 > <sup>[6](/bible/hebrews/11#v6)</sup> But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
 
 - Without faith it is impossible to please him: he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. Believe that he is, meaning that he can heal you from your past and from your trauma.
 
-**[Luke 17:5](/bible/luke/17#v5)**  *[2:24:48]*
+**[Luke 17:5](/bible/luke/17#v5)**  *[[2:24:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8688s)]*
 
 > <sup>[5](/bible/luke/17#v5)</sup> And the apostles said unto the Lord, Increase our faith.
 
 - After Christ taught them to forgive seventy times seven, the apostles said unto the Lord, Increase our faith. If we are going to let go of all of that, we need increased faith. That should be our prayer: Lord, increase our faith to get past these roadblocks.
 
-**[Romans 10:17](/bible/romans/10#v17)**  *[2:25:36]*
+**[Romans 10:17](/bible/romans/10#v17)**  *[[2:25:36](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8736s)]*
 
 > <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
 
 - So then faith cometh by hearing, and hearing by the word of God. That is how you build the faith.
 
-**[Matthew 17:21](/bible/matthew/17#v21)**  *[2:26:00]*
+**[Matthew 17:21](/bible/matthew/17#v21)**  *[[2:26:00](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8760s)]*
 
 > <sup>[21](/bible/matthew/17#v21)</sup> Howbeit this kind goeth not out but by prayer and fasting.
 
 - Howbeit this kind goeth not out but by prayer and fasting. That is the only way to get rid of certain demons: believe his word, meditate in his word, change your mind according to his word, and fast.
 
-**[James 5:16](/bible/james/5#v16)**  *[2:26:36]*
+**[James 5:16](/bible/james/5#v16)**  *[[2:26:36](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8796s)]*
 
 > <sup>[16](/bible/james/5#v16)</sup> Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
 
 - Now one you might not have expected: fellowshipping. Confess your faults one to another, and pray one for another, that ye may be healed. Not to yourself: to one another. If you want real healing, you need brothers around, people you trust, and the prayer of the righteous, for the effectual fervent prayer of a righteous man availeth much. You underestimate the power of unity.
 
-**[Ephesians 4:3-6](/bible/ephesians/4#v3)**  *[2:27:09]*
+**[Ephesians 4:3-6](/bible/ephesians/4#v3)**  *[[2:27:09](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8829s)]*
 
 > <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
 >
@@ -544,7 +544,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
 - Endeavouring to keep the unity of the Spirit in the bond of peace: one body, one Spirit, one Lord, one faith, one baptism, one God and Father of all. If you believe that God is in these men and women, you are going to fellowship, and that is going to help you heal from your trauma.
 
-**[Hebrews 10:24-25](/bible/hebrews/10#v24)**  *[2:28:00]*
+**[Hebrews 10:24-25](/bible/hebrews/10#v24)**  *[[2:28:00](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8880s)]*
 
 > <sup>[24](/bible/hebrews/10#v24)</sup> And let us consider one another to provoke unto love and to good works:
 >
@@ -553,7 +553,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Let us consider one another to provoke unto love and to good works. When you come around the body, you get provoked to love and good works; you do not have time to sit back and pine away in your existence, because you have brothers and sisters exhorting you.
 - Not forsaking the assembling of ourselves together: stop missing the Sabbath, the new moon, the study circle, the Friday night fellowship. Be among these men willingly and sincerely; be sincere about your healing journey, because a lot of us have not yet healed. And so much the more as ye see the day approaching: a day is coming when we will have to lay our lives down for the Son of God, and if you cannot build with your brothers now, you will have no foundation in that day.
 
-**[1 Corinthians 15:49-53](/bible/1-corinthians/15#v49)**  *[2:29:47]*
+**[1 Corinthians 15:49-53](/bible/1-corinthians/15#v49)**  *[[2:29:47](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8987s)]*
 
 > <sup>[49](/bible/1-corinthians/15#v49)</sup> And as we have borne the image of the earthy, we shall also bear the image of the heavenly.
 >
@@ -568,7 +568,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. What we are in now is corruption, and the Lord is going to change this nervous system.
 - Behold, I shew you a mystery: we shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump. The dead shall be raised incorruptible: no more trauma, no more weak nervous system constantly breaking down. This corruptible must put on incorruption, and this mortal must put on immortality.
 
-**[Philippians 3:20-21](/bible/philippians/3#v20)**  *[2:31:11]*
+**[Philippians 3:20-21](/bible/philippians/3#v20)**  *[[2:31:11](https://www.youtube.com/watch?v=sswMP7Skv-4&t=9071s)]*
 
 > <sup>[20](/bible/philippians/3#v20)</sup> For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
 >
@@ -577,7 +577,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - We look for the Saviour, the Lord Jesus Christ, who shall change our vile body, that it may be fashioned like unto his glorious body: we are going to look and feel and be like him.
 - According to the working whereby he is able even to subdue all things unto himself: his power is so great that he is going to give us a piece of it, and there will be no traumatic hesitation left in the mind; the old record is gone.
 
-**[Hebrews 8:10-11](/bible/hebrews/8#v10)**  *[2:32:32]*
+**[Hebrews 8:10-11](/bible/hebrews/8#v10)**  *[[2:32:32](https://www.youtube.com/watch?v=sswMP7Skv-4&t=9152s)]*
 
 > <sup>[10](/bible/hebrews/8#v10)</sup> For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
 >
@@ -585,7 +585,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
 - This is the covenant that I will make with the house of Israel: I will put my laws into their mind, and write them in their hearts; and I will be to them a God, and they shall be to me a people. That is immortality: when the Lord gives it, you will never second guess him again. You will be made to move and function as God commands, the way Christ and the angels carry his laws in their mind. The power has been in God's laws the whole time.
 
-**[Ezekiel 36:24-28](/bible/ezekiel/36#v24)**  *[2:33:41]*
+**[Ezekiel 36:24-28](/bible/ezekiel/36#v24)**  *[[2:33:41](https://www.youtube.com/watch?v=sswMP7Skv-4&t=9221s)]*
 
 > <sup>[24](/bible/ezekiel/36#v24)</sup> For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
 >
@@ -633,4 +633,4 @@ Shout out to the ad team and the media department for the thumbnail video, and t
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-09-shapen-in-iniquity-resetting-the-nervous-system)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=sswMP7Skv-4)

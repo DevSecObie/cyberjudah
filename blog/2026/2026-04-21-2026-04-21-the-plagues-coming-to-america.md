@@ -20,7 +20,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 ## Scriptures Opened
 
-**[Genesis 12:1-3](/bible/genesis/12#v1)**  *[12:07]*
+**[Genesis 12:1-3](/bible/genesis/12#v1)**  *[[12:07](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=727s)]*
 
 > <sup>[1](/bible/genesis/12#v1)</sup> Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:
 >
@@ -32,7 +32,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - I will make of thee a great nation, and make thy name great. I will bless them that bless thee, and curse him that curseth thee.
 - In thee shall all families of the earth be blessed: when we break that down, the all families is Israel scattered throughout the four corners of the earth. In the beginning the Most High is prophesying Israel being scattered through the four corners of the earth, because the Lord knew what would happen to us.
 
-**[Genesis 13:12-18](/bible/genesis/13#v12)**  *[13:42]*
+**[Genesis 13:12-18](/bible/genesis/13#v12)**  *[[13:42](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=822s)]*
 
 > <sup>[12](/bible/genesis/13#v12)</sup> Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.
 >
@@ -52,7 +52,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - The Most High is promising Abraham this land, but there were already people in the land: the Canaanites, the descendants of Canaan. So were Abraham and the Israelites just going to take a land that belonged to another people? No.
 - Before the flood, the sons of God were living in that land; that is the land Adam and his sons were given. When God flooded the earth, Canaan went back and settled that land; Shem did not. Shem stayed over in the Chaldees, and Shem is the chosen lineage the sons of God came back through. So when the sons of God came back, the Lord was giving them back the land they dwelt in before the flood.
 
-**[Genesis 15:13-16](/bible/genesis/15#v13)**  *[18:37]*
+**[Genesis 15:13-16](/bible/genesis/15#v13)**  *[[18:37](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=1117s)]*
 
 > <sup>[13](/bible/genesis/15#v13)</sup> And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
 >
@@ -67,7 +67,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Thou shalt go to thy fathers in peace; thou shalt be buried in a good old age. But in the fourth generation they shall come hither again: the Israelites will come back to the land of Canaan again. We did it under Moses and Joshua.
 - For the iniquity of the Amorites is not yet full: the Amorites were of the sons of Canaan living in the land. The Lord is letting Abraham know that when his seed comes back into that land, the wickedness of those nations will be filled up, and God will use Israel to judge them. God is not evil, killing people for no reason; the people in that land were doing much evil, sacrificing babies, murder, all types of wickedness, and their cup became full.
 
-**[Exodus 12:35-37](/bible/exodus/12#v35)**  *[20:18]*
+**[Exodus 12:35-37](/bible/exodus/12#v35)**  *[[20:18](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=1218s)]*
 
 > <sup>[35](/bible/exodus/12#v35)</sup> And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:
 >
@@ -77,7 +77,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - The children of Israel borrowed of the Egyptians jewels of silver, jewels of gold, and raiment; and the Lord gave the people favour in the sight of the Egyptians, and they spoiled the Egyptians. That is us coming out with great substance.
 
-**[Psalms 105:36-37](/bible/psalms/105#v36)**  *[21:05]*
+**[Psalms 105:36-37](/bible/psalms/105#v36)**  *[[21:05](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=1265s)]*
 
 > <sup>[36](/bible/psalms/105#v36)</sup> He smote also all the firstborn in their land, the chief of all their strength.
 >
@@ -85,7 +85,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - He smote also all the firstborn in their land, the chief of all their strength. He brought them forth also with silver and gold: and there was not one feeble person among their tribes. When we came out of Egypt, we came out with silver and with gold.
 
-**[Job 42:16-17](/bible/job/42#v16)**  *[25:47]*
+**[Job 42:16-17](/bible/job/42#v16)**  *[[25:47](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=1547s)]*
 
 > <sup>[16](/bible/job/42#v16)</sup> After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, even four generations.
 >
@@ -94,7 +94,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Job lived an hundred and forty years, and saw his sons, and his sons' sons, even four generations. The generation here is talking about his descendants: your son, your grandson, your great grandson, your great great grandson. That is genealogical generation.
 - So when we read Genesis 15, is the fourth generation talking about descendants? Seventy souls went into Egypt. A fourth generation genealogically does not equal four hundred years, so something else is being said there.
 
-**[Exodus 20:3-5](/bible/exodus/20#v3)**  *[28:36]*
+**[Exodus 20:3-5](/bible/exodus/20#v3)**  *[[28:36](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=1716s)]*
 
 > <sup>[3](/bible/exodus/20#v3)</sup> Thou shalt have no other gods before me.
 >
@@ -104,7 +104,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me. God visits the father's sins upon his children unto the third and fourth generation, meaning his descendants. So a genealogical fourth generation is not four hundred years; there is another kind of generation in the scriptures.
 
-**[Exodus 1:8-9](/bible/exodus/1#v8)**  *[31:46]*
+**[Exodus 1:8-9](/bible/exodus/1#v8)**  *[[31:46](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=1906s)]*
 
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
 >
@@ -113,7 +113,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - There arose up a new king over Egypt, which knew not Joseph. Why would a new king rise up that did not know Joseph? A lot of time went by. Joseph was dead, and everybody who knew what Joseph did for Egypt had died. It was a new society, a new kingdom; the new king did not understand the greatness Joseph did in Egypt. There was a society change.
 - Besides genealogical generation, there is societal generation: within a hundred years, everybody born around your time will be dead, and society will change. Everybody around in the eighteenth century is dead, and society changed. A couple generations ago we could not go into a restaurant and sit down and eat; society has changed. And Israel multiplied; that seventy souls multiplied greatly.
 
-**[Psalms 102:23-28](/bible/psalms/102#v23)**  *[36:15]*
+**[Psalms 102:23-28](/bible/psalms/102#v23)**  *[[36:15](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=2175s)]*
 
 > <sup>[23](/bible/psalms/102#v23)</sup> He weakened my strength in the way; he shortened my days.
 >
@@ -132,7 +132,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - But thou art the same, and thy years shall have no end: God does not change.
 - So back in Genesis 15: they will be afflicted four hundred years, and in the fourth generation they come back to the land. In this context, how many years is one generation? A hundred years. The generation there is societal generation, every hundred years, because the Most High gives most people seventy years to live, eighty with strength. Within a hundred years society changes and everybody you know is dead. Them four hundred years is four generations. We came back into the land under Moses and Joshua, about four hundred thirty years after.
 
-**[Jeremiah 51:19-23](/bible/jeremiah/51#v19)**  *[46:13]*
+**[Jeremiah 51:19-23](/bible/jeremiah/51#v19)**  *[[46:13](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=2773s)]*
 
 > <sup>[19](/bible/jeremiah/51#v19)</sup> The portion of Jacob is not like them; for he is the former of all things: and Israel is the rod of his inheritance: the Lord of hosts is his name.
 >
@@ -148,7 +148,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Thou art my battle axe and weapons of war: for with thee will I break in pieces the nations, and with thee will I destroy kingdoms. With thee will I break in pieces the horse and his rider, the chariot and his rider, man and woman, old and young, the young man and the maid, the shepherd and his flock, the husbandman and his yoke of oxen, captains and rulers.
 - Pay attention: God says Israel is his battle axe and his weapons of war. That is why God brought an army out of Egypt.
 
-**[Exodus 7:4-5](/bible/exodus/7#v4)**  *[50:02]*
+**[Exodus 7:4-5](/bible/exodus/7#v4)**  *[[50:02](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=3002s)]*
 
 > <sup>[4](/bible/exodus/7#v4)</sup> But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments.
 >
@@ -156,7 +156,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - That I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments. You think when God delivered us out of Egypt he was just delivering a people? No, God was bringing out an army: an army to judge the nations. That is why he says in the fourth generation he will bring them back into the land, because the sin of the Amorites was not yet full.
 
-**[Deuteronomy 20:10-18](/bible/deuteronomy/20#v10)**  *[51:53]*
+**[Deuteronomy 20:10-18](/bible/deuteronomy/20#v10)**  *[[51:53](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=3113s)]*
 
 > <sup>[10](/bible/deuteronomy/20#v10)</sup> When thou comest nigh unto a city to fight against it, then proclaim peace unto it.
 >
@@ -181,7 +181,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - The cities far off were dealt with one way, but of the cities of these people, which the Lord thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth: the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, as the Lord commanded.
 - You have to ask yourself why God commanded that. That land belonged to God. The record explains it: that they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the Lord your God. If they were left alive, Israel would follow their ways and sin against God. Remember this is the same God that flooded the whole earth because of the wickedness of everyone on it. Remember God had to deal with Saul because he left people alive.
 
-**[Exodus 3:19-20](/bible/exodus/3#v19)**  *[1:03:28]*
+**[Exodus 3:19-20](/bible/exodus/3#v19)**  *[[1:03:28](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=3808s)]*
 
 > <sup>[19](/bible/exodus/3#v19)</sup> And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.
 >
@@ -189,19 +189,19 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - I am sure that the king of Egypt will not let you go, no, not by a mighty hand. And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof. God stretched out his hand and smote Egypt with plagues.
 
-**[Exodus 11:1](/bible/exodus/11#v1)**  *[1:04:20]*
+**[Exodus 11:1](/bible/exodus/11#v1)**  *[[1:04:20](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=3860s)]*
 
 > <sup>[1](/bible/exodus/11#v1)</sup> And the Lord said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.
 
 - Yet will I bring one plague more upon Pharaoh, and upon Egypt. Them wonders that were brought upon Pharaoh and Egypt are called plagues.
 
-**[Deuteronomy 4:34](/bible/deuteronomy/4#v34)**  *[1:05:02]*
+**[Deuteronomy 4:34](/bible/deuteronomy/4#v34)**  *[[1:05:02](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=3902s)]*
 
 > <sup>[34](/bible/deuteronomy/4#v34)</sup> Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes?
 
 - Hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors. Them signs and wonders are the plagues. The same way the Lord brought us out of ancient Egypt with signs, wonders, great terror, and war is the same way he is going to bring us out of this Egypt, spiritual Egypt, which is America.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[1:06:25]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[1:06:25](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=3985s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
@@ -209,7 +209,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - By the way whereof I spake unto thee, Thou shalt see it no more again: meaning it is not ancient Egypt.
 - And there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you: nobody would be able to redeem you out of that house of bondage. Only Christ could redeem us from this place, because the scripture says Christ bought us with a price.
 
-**[Revelation 11:8](/bible/revelation/11#v8)**  *[1:08:53]*
+**[Revelation 11:8](/bible/revelation/11#v8)**  *[[1:08:53](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=4133s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
@@ -223,7 +223,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
     That great city is Mystery Babylon the Great, the mother of harlots and abominations of the earth: America.
 
-**[2 Esdras 15:5-11](/bible/2-esdras/15#v5)**  *[1:11:47]*
+**[2 Esdras 15:5-11](/bible/2-esdras/15#v5)**  *[[1:11:47](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=4307s)]*
 
 > <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
 >
@@ -246,7 +246,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt. This Egypt God says he will not suffer them to dwell in is America, modern day Egypt, that Egypt of Deuteronomy 28:68.
 - But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof. According to Bible prophecy, God is going to smite America, spiritual Egypt, with plagues the same way he smote ancient Egypt, and the plagues he sends will destroy the whole land.
 
-**[Revelation 18:1-8](/bible/revelation/18#v1)**  *[1:18:37]*
+**[Revelation 18:1-8](/bible/revelation/18#v1)**  *[[1:18:37](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=4717s)]*
 
 > <sup>[1](/bible/revelation/18#v1)</sup> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 >
@@ -273,13 +273,13 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - She saith in her heart, I sit a queen, and am no widow, and shall see no sorrow. That is how the government talks: we have the strongest military in the world. That is the pride of their heart deceiving them.
 - Therefore shall her plagues come in one day: death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judgeth her. In ancient Egypt the plagues came at many different times; the plagues coming to modern day Egypt all come in one day.
 
-**[Jeremiah 51:6](/bible/jeremiah/51#v6)**  *[1:24:30]*
+**[Jeremiah 51:6](/bible/jeremiah/51#v6)**  *[[1:24:30](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=5070s)]*
 
 > <sup>[6](/bible/jeremiah/51#v6)</sup> Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the Lord’s vengeance; he will render unto her a recompence.
 
 - Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity. That is saying the same thing Revelation 18:4 says. What do we have to deliver out of here? Our soul. If you get caught up with the sins in Babylon, you destroy your soul. That is what it means when she sells souls.
 
-**[Matthew 16:26-27](/bible/matthew/16#v26)**  *[1:25:36]*
+**[Matthew 16:26-27](/bible/matthew/16#v26)**  *[[1:25:36](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=5136s)]*
 
 > <sup>[26](/bible/matthew/16#v26)</sup> For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
 >
@@ -288,14 +288,14 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - What is a man profited, if he shall gain the whole world, and lose his own soul? America sold you a dream, and a lot of us came here seeking that dream; a lot have sold their soul for the American dream. That is what Revelation 18 means when she trades slaves and souls of men.
 - You gain the nice house, the nice job, all these things, but you had to break God's laws to obtain them, so you lost your soul. You agree with the homosexuality, the fornication, all the sins of America; you follow the white man and his religions. That is how America sells souls: I can make you rich, but you have to agree with what I do.
 
-**[2 Esdras 15:27](/bible/2-esdras/15#v27)**  *[1:30:51]*
+**[2 Esdras 15:27](/bible/2-esdras/15#v27)**  *[[1:30:51](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=5451s)]*
 
 > <sup>[27](/bible/2-esdras/15#v27)</sup> For now are the plagues come upon the whole earth and ye shall remain in them: for God shall not deliver you, because ye have sinned against him.
 
 - For now are the plagues come upon the whole earth, and ye shall remain in them: for God shall not deliver you, because ye have sinned against him. The wicked of our people will not be delivered from them plagues; they will remain in them.
 - You think it is just a nuclear bomb alone coming, and you just die? Why would you remain in the plagues? There are levels to this; that is saying a lot right there.
 
-**[Revelation 9:14-21](/bible/revelation/9#v14)**  *[1:39:06]*
+**[Revelation 9:14-21](/bible/revelation/9#v14)**  *[[1:39:06](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=5946s)]*
 
 > <sup>[14](/bible/revelation/9#v14)</sup> Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
 >
@@ -319,7 +319,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - The prophet saw a vision of a modern military and explained it as best he could. Horses with heads as the heads of lions, out of their mouths fire and smoke and brimstone: that is tanks. Their power is in their mouth and in their tails, their tails like unto serpents, with heads, and with them they do hurt: that is missiles flying, and the warhead is where the hurt is. Some warheads are nuclear. What he is seeing is a world war, that army that kills the third part of men.
 - The rest of the men which were not killed by these plagues yet repented not of the works of their hands: they will not stop worshiping devils and idols. The white Jesus image is worshiping the devil. Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts: neither of the lands they stole. When Christ returns, they will come to fight against him.
 
-**[Revelation 15:5-8](/bible/revelation/15#v5)**  *[1:46:07]*
+**[Revelation 15:5-8](/bible/revelation/15#v5)**  *[[1:46:07](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=6367s)]*
 
 > <sup>[5](/bible/revelation/15#v5)</sup> And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
 >
@@ -332,7 +332,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - The seven angels came out of the temple, having the seven plagues, and one of the four beasts gave unto them seven golden vials full of the wrath of God. Them seven plagues are the wrath of God.
 - Remember what the Lord said: I will smite Egypt with plagues as before. Them seven plagues are the plagues the Lord is bringing on America.
 
-**[Revelation 16:1-2](/bible/revelation/16#v1)**  *[1:49:58]*
+**[Revelation 16:1-2](/bible/revelation/16#v1)**  *[[1:49:58](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=6598s)]*
 
 > <sup>[1](/bible/revelation/16#v1)</sup> And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
 >
@@ -358,7 +358,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
     He that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty: his protection. Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. That is the first plague, and the Lord will deliver us from it. In that one hour, when them bombs are falling, it is not going to come near us.
 
-**[Exodus 7:20-21](/bible/exodus/7#v20)**  *[1:58:46]*
+**[Exodus 7:20-21](/bible/exodus/7#v20)**  *[[1:58:46](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=7126s)]*
 
 > <sup>[20](/bible/exodus/7#v20)</sup> And Moses and Aaron did so, as the Lord commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
 >
@@ -366,7 +366,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - The fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt. That is what happened in ancient Egypt. Now remember what the Lord said: I will smite you with plagues like as before.
 
-**[Revelation 16:3-7](/bible/revelation/16#v3)**  *[1:59:47]*
+**[Revelation 16:3-7](/bible/revelation/16#v3)**  *[[1:59:47](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=7187s)]*
 
 > <sup>[3](/bible/revelation/16#v3)</sup> And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea.
 >
@@ -382,7 +382,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - The third angel poured out his vial upon the rivers and fountains of waters; and they became blood. When it says it became blood, it means it became poisonous; nobody can drink it.
 - Thou art righteous, O Lord, because thou hast judged thus. For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy. America will kill the saints and prophets here in the future, so the Lord gives America blood to drink: poisonous, radioactive water. Them that the blast does not incinerate die from noisome sores, and them that go trying to drink water die from drinking poisoned water.
 
-**[Revelation 8:8-11](/bible/revelation/8#v8)**  *[2:02:44]*
+**[Revelation 8:8-11](/bible/revelation/8#v8)**  *[[2:02:44](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=7364s)]*
 
 > <sup>[8](/bible/revelation/8#v8)</sup> And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
 >
@@ -396,7 +396,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - There fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers; and the name of the star is called Wormwood. In the Ukrainian language, wormwood is Chernobyl; you remember that nuclear accident. That star is a nuclear weapon hitting the waters.
 - The third part of the waters became wormwood, poisonous, toxic, and many men died of the waters, because they were made bitter. That goes back to Revelation 16: thou hast given them blood to drink.
 
-**[2 Esdras 5:4-7](/bible/2-esdras/5#v4)**  *[2:06:09]*
+**[2 Esdras 5:4-7](/bible/2-esdras/5#v4)**  *[[2:06:09](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=7569s)]*
 
 > <sup>[4](/bible/2-esdras/5#v4)</sup> But if the most High grant thee to live, thou shalt see after the third trumpet that the sun shall suddenly shine again in the night, and the moon thrice in the day:
 >
@@ -409,7 +409,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Thou shalt see after the third trumpet that the sun shall suddenly shine again in the night, and the moon thrice in the day. How does the sun shine in the night? Bombs going off in the night; a nuclear detonation at night is like a sun. How does the moon shine bright in the day? Bombs going off in the day. That is what the prophet is explaining. And blood shall drop out of wood, and the stone shall give his voice: when that happens, Christ is returning.
 - The Sodomitish sea shall cast out fish: the sea of that great city spiritually called Sodom, per Revelation 11:8. The seashores of America: all the fish are going to die from radiation, and all you will see on the shores is dead fish. The Bible is no fairy tale book.
 
-**[Isaiah 19:1-9](/bible/isaiah/19#v1)**  *[2:10:49]*
+**[Isaiah 19:1-9](/bible/isaiah/19#v1)**  *[[2:10:49](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=7849s)]*
 
 > <sup>[1](/bible/isaiah/19#v1)</sup> The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 >
@@ -435,13 +435,13 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - The reeds and flags shall wither; everything sown by the brooks shall wither, be driven away, and be no more. This is a future apocalyptic event; this is what America looks like after that one hour.
 - The fishers also shall mourn, and all they that cast angle into the brooks shall lament: because all the fish died and the water is poisonous.
 
-**[Exodus 9:6](/bible/exodus/9#v6)**  *[2:17:58]*
+**[Exodus 9:6](/bible/exodus/9#v6)**  *[[2:17:58](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8278s)]*
 
 > <sup>[6](/bible/exodus/9#v6)</sup> And the Lord did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.
 
 - All the cattle of Egypt died: but of the cattle of the children of Israel died not one. Killing the cattle of Egypt caused what? Famine.
 
-**[Exodus 10:4-5](/bible/exodus/10#v4)**  *[2:18:47]*
+**[Exodus 10:4-5](/bible/exodus/10#v4)**  *[[2:18:47](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8327s)]*
 
 > <sup>[4](/bible/exodus/10#v4)</sup> Else, if thou refuse to let my people go, behold, to morrow will I bring the locusts into thy coast:
 >
@@ -449,7 +449,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - Tomorrow will I bring the locusts into thy coast, and they shall eat the residue of that which is escaped, which remaineth unto you from the hail. The locusts eat all the crops. This plague goes into farming.
 
-**[Exodus 9:23-25](/bible/exodus/9#v23)**  *[2:19:32]*
+**[Exodus 9:23-25](/bible/exodus/9#v23)**  *[[2:19:32](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8372s)]*
 
 > <sup>[23](/bible/exodus/9#v23)</sup> And Moses stretched forth his rod toward heaven: and the Lord sent thunder and hail, and the fire ran along upon the ground; and the Lord rained hail upon the land of Egypt.
 >
@@ -459,7 +459,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - The Lord sent thunder and hail, and the fire ran along upon the ground; hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt. The hail smote every herb of the field, and brake every tree of the field, and every man and beast that was in the field. Hail fire from the sky came down on ancient Egypt. Guess what: he is going to do that again today, but them hails on modern day Egypt are going to be nuclear bombs.
 
-**[2 Esdras 15:11-13](/bible/2-esdras/15#v11)**  *[2:21:46]*
+**[2 Esdras 15:11-13](/bible/2-esdras/15#v11)**  *[[2:21:46](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8506s)]*
 
 > <sup>[11](/bible/2-esdras/15#v11)</sup> But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof.
 >
@@ -470,13 +470,13 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof. Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it: the foundation of America shall be smitten.
 - They that till the ground shall mourn: for their seeds shall fail through the blasting and hail, and with a fearful constellation. A constellation goes into stars, and the stars falling are the bombs; the Bible refers to them as stars. When them bombs hit, there is no more farming, no more crops; nothing is going to grow. The farmers are going to mourn.
 
-**[Exodus 10:21](/bible/exodus/10#v21)**  *[2:24:36]*
+**[Exodus 10:21](/bible/exodus/10#v21)**  *[[2:24:36](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8676s)]*
 
 > <sup>[21](/bible/exodus/10#v21)</sup> And the Lord said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.
 
 - Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt. That darkness in Egypt was not just the place getting dark; you could feel the darkness. When you read Wisdom of Solomon, it tells you people saw strange things and were terrified; read that when you get a chance.
 
-**[Revelation 16:10-11](/bible/revelation/16#v10)**  *[2:26:10]*
+**[Revelation 16:10-11](/bible/revelation/16#v10)**  *[[2:26:10](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8770s)]*
 
 > <sup>[10](/bible/revelation/16#v10)</sup> And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
 >
@@ -484,7 +484,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - The fifth angel poured out his vial upon the seat of the beast, which is America, and his kingdom was full of darkness; and they gnawed their tongues for pain, and blasphemed the God of heaven because of their pains and their sores. They are feeling that darkness, and the sores go back to the first plague, the noisome sores. Same plague of darkness that was on Egypt.
 
-**[Jeremiah 51:8-9](/bible/jeremiah/51#v8)**  *[2:27:23]*
+**[Jeremiah 51:8-9](/bible/jeremiah/51#v8)**  *[[2:27:23](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8843s)]*
 
 > <sup>[8](/bible/jeremiah/51#v8)</sup> Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.
 >
@@ -492,13 +492,13 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed. Balm is ointment. We would have healed Babylon, but she is not healed. They are trying today to make America great again, but she is not going to be healed; she is going to be destroyed, and there is no ointment for them plagues God is bringing on her.
 
-**[Revelation 8:12](/bible/revelation/8#v12)**  *[2:29:32]*
+**[Revelation 8:12](/bible/revelation/8#v12)**  *[[2:29:32](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=8972s)]*
 
 > <sup>[12](/bible/revelation/8#v12)</sup> And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
 
 - The fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; and the day shone not for a third part of it, and the night likewise. No light on the earth: the nuclear fallout, the cloud, covers the sky; the sun, the moon, and the stars are blocked out. Bombs going off all over the earth. All of these plagues are happening at the same time, in that one hour.
 
-**[Ezekiel 34:12-13](/bible/ezekiel/34#v12)**  *[2:31:13]*
+**[Ezekiel 34:12-13](/bible/ezekiel/34#v12)**  *[[2:31:13](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=9073s)]*
 
 > <sup>[12](/bible/ezekiel/34#v12)</sup> As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 >
@@ -506,7 +506,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - As a shepherd seeketh out his flock, so will Christ when he returns seek out his sheep: the lost sheep of the house of Israel, the slaves scattered throughout the four corners of the earth. He will deliver them out of all places where they have been scattered in the cloudy and dark day. When them bombs go off, the Lord is going to be delivering us in that cloudy and dark day, and he will bring us to our own land.
 
-**[Zephaniah 1:14-18](/bible/zephaniah/1#v14)**  *[2:33:15]*
+**[Zephaniah 1:14-18](/bible/zephaniah/1#v14)**  *[[2:33:15](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=9195s)]*
 
 > <sup>[14](/bible/zephaniah/1#v14)</sup> The great day of the Lord is near, it is near, and hasteth greatly, even the voice of the day of the Lord: the mighty man shall cry there bitterly.
 >
@@ -526,7 +526,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Neither their silver nor their gold shall be able to deliver them in the day of the Lord's wrath. No matter how much money you get, it cannot deliver you in the day of God's wrath. Those of you that are rich in this world: do not save your riches up in this world; help with the work.
 - But the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.
 
-**[Exodus 11:4-6](/bible/exodus/11#v4)**  *[2:38:12]*
+**[Exodus 11:4-6](/bible/exodus/11#v4)**  *[[2:38:12](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=9492s)]*
 
 > <sup>[4](/bible/exodus/11#v4)</sup> And Moses said, Thus saith the Lord, About midnight will I go out into the midst of Egypt:
 >
@@ -536,7 +536,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 
 - About midnight will I go out into the midst of Egypt: and all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and there shall be a great cry throughout all the land of Egypt. That is another plague. Now let us take that plague to America.
 
-**[Isaiah 47:1-10](/bible/isaiah/47#v1)**  *[2:39:08]*
+**[Isaiah 47:1-10](/bible/isaiah/47#v1)**  *[[2:39:08](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=9548s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 >
@@ -551,7 +551,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - But these two things shall come to thee in a moment in one day, the loss of children, and widowhood: they shall come upon thee in their perfection. Nobody has ever attacked America on its own soil like this; that is going to happen, and the destruction comes in one day, in a moment, like the plague of the firstborn came in one night.
 - For thou hast trusted in thy wickedness: thou hast said, None seeth me. You think nobody sees the evil you have been doing, but God sees it. Thy wisdom and thy knowledge, it hath perverted thee: it made you think you are God.
 
-**[Jeremiah 51:25-30](/bible/jeremiah/51#v25)**  *[2:42:26]*
+**[Jeremiah 51:25-30](/bible/jeremiah/51#v25)**  *[[2:42:26](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=9746s)]*
 
 > <sup>[25](/bible/jeremiah/51#v25)</sup> Behold, I am against thee, O destroying mountain, saith the Lord, which destroyest all the earth: and I will stretch out mine hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain.
 >
@@ -571,7 +571,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - Call together against her the kingdoms of Ararat, Minni, and Ashchenaz: Ashchenaz is the Germans. Prepare against her the nations with the kings of the Medes: that is Persia, that is Iran. All the rulers are going to be gathered together against America, and the land shall tremble and sorrow, for every purpose of the Lord shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.
 - The mighty men of Babylon have forborn to fight, they have remained in their holds: they remain in their bunkers. Their might hath failed; they became as women: all that big bad talk, and they fold. They have burned her dwellingplaces; her bars are broken.
 
-**[Revelation 17:16-18](/bible/revelation/17#v16)**  *[2:46:52]*
+**[Revelation 17:16-18](/bible/revelation/17#v16)**  *[[2:46:52](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=10012s)]*
 
 > <sup>[16](/bible/revelation/17#v16)</sup> And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
 >
@@ -583,7 +583,7 @@ We are in the days of unleavened bread, the season where we were delivered from 
 - For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled. They formed the European Union, the UN, and NATO and gave their kingdom to America, but what is happening right now? They are starting to hate America because of what America is doing. So they will turn on America and burn her.
 - And the woman which thou sawest is that great city, which reigneth over the kings of the earth: Mystery Babylon the Great, that great city called Sodom and Egypt.
 
-**[Revelation 18:4-8](/bible/revelation/18#v4)**  *[2:49:40]*  (closing the lesson)
+**[Revelation 18:4-8](/bible/revelation/18#v4)**  *[[2:49:40](https://www.youtube.com/watch?v=x9xrlD12Rj4&t=10180s)]*  (closing the lesson)
 
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 >
@@ -606,4 +606,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup on the last day o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-21-the-plagues-coming-to-america)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=x9xrlD12Rj4)

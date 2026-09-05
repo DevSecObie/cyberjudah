@@ -31,14 +31,14 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
 ## Scriptures Opened
 
-**[Psalms 64:6](/bible/psalms/64#v6)**  *[35:12]*
+**[Psalms 64:6](/bible/psalms/64#v6)**  *[[35:12](https://www.youtube.com/watch?v=075qOUs8Sbc&t=2112s)]*
 
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
 - They search out iniquities; they accomplish a diligent search. This is what's called a diligent search: the archaeological digs. Both the inward thought of every one of them, and the heart, is deep.
 - And when they find these things, America incorporates the holidays and customs these people have discovered. America said, we'll take Christmas, we'll take Easter, Ishtar. That's what they did.
 
-**[Genesis 37:1-2](/bible/genesis/37#v1)**  *[52:39]*
+**[Genesis 37:1-2](/bible/genesis/37#v1)**  *[[52:39](https://www.youtube.com/watch?v=075qOUs8Sbc&t=3159s)]*
 
 > <sup>[1](/bible/genesis/37#v1)</sup> And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
 >
@@ -46,7 +46,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
 - I wanted verse two to give you Joseph's age. His age at this time is 17 years old. Everybody got that.
 
-**[Genesis 37:25-35](/bible/genesis/37#v25)**  *[54:05]*
+**[Genesis 37:25-35](/bible/genesis/37#v25)**  *[[54:05](https://www.youtube.com/watch?v=075qOUs8Sbc&t=3245s)]*
 
 > <sup>[25](/bible/genesis/37#v25)</sup> And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.
 >
@@ -101,7 +101,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     Abraham had Ishmael from Hagar the Egyptian, and Ishmael had twelve princes according to their nations. Abraham's children from Keturah and Abraham's children from Hagar always lived together and worked together.
 
-**[Genesis 39:1-6](/bible/genesis/39#v1)**  *[59:14]*
+**[Genesis 39:1-6](/bible/genesis/39#v1)**  *[[59:14](https://www.youtube.com/watch?v=075qOUs8Sbc&t=3554s)]*
 
 > <sup>[1](/bible/genesis/39#v1)</sup> And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 >
@@ -124,7 +124,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     He that is faithful in that which is least is faithful also in much. This explains why Joseph was faithful. He's in slavery now, but he was faithful to Potiphar, and Potiphar raised him up. A lot of brothers and sisters have jobs; the Most High is observing us in whatever we're doing. The least that we're faithful in is these little jobs out here. Just like Joseph was in captivity, we're in captivity, but that doesn't mean we can steal, lie, or rob. When you're on your jobs, deal right. God is watching each and every one of us.
 
-**[Genesis 39:7-12](/bible/genesis/39#v7)**  *[1:02:58]*
+**[Genesis 39:7-12](/bible/genesis/39#v7)**  *[[1:02:58](https://www.youtube.com/watch?v=075qOUs8Sbc&t=3778s)]*
 
 > <sup>[7](/bible/genesis/39#v7)</sup> And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me.
 >
@@ -151,7 +151,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     Flee from sin as from the face of a serpent: that's what Joseph did. If thou comest too near it, it will bite thee. The teeth thereof are as the teeth of a lion, slaying the souls of men. If a snake fell in this room right now, everybody would be out of here. That snake is your sin.
 
-**[Genesis 39:13-20](/bible/genesis/39#v13)**  *[1:07:07]*
+**[Genesis 39:13-20](/bible/genesis/39#v13)**  *[[1:07:07](https://www.youtube.com/watch?v=075qOUs8Sbc&t=4027s)]*
 
 > <sup>[13](/bible/genesis/39#v13)</sup> And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
 >
@@ -195,7 +195,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     My son, if thou come to serve the Lord, prepare thy soul for temptation. Joseph understood this, because his father taught him. Make not haste in time of trouble: don't leave this truth in your time of trouble, because Satan will tell you that you had it better when you served him. Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate. Joseph's family was rich; Jacob was wealthy. Joseph was taken from all that, and now he's in the midst of poverty, in prison. Just as it goes for us, it went for our father Joseph.
 
-**[Genesis 39:21-23](/bible/genesis/39#v21)**  *[1:12:56]*
+**[Genesis 39:21-23](/bible/genesis/39#v21)**  *[[1:12:56](https://www.youtube.com/watch?v=075qOUs8Sbc&t=4376s)]*
 
 > <sup>[21](/bible/genesis/39#v21)</sup> But the Lord was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.
 >
@@ -211,7 +211,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     When a man's ways please the Lord, he maketh even his enemies to be at peace with him. That's what happened with Joseph.
 
-**[Genesis 40:1-23](/bible/genesis/40#v1)**  *[1:14:26]*
+**[Genesis 40:1-23](/bible/genesis/40#v1)**  *[[1:14:26](https://www.youtube.com/watch?v=075qOUs8Sbc&t=4466s)]*
 
 > <sup>[1](/bible/genesis/40#v1)</sup> And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 >
@@ -287,7 +287,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     Cursed be the day wherein I was born. Jeremiah is saying the same thing Job said. We never celebrated birthdays; that custom came from the nations, from what they dug up in their archaeological digs. It is not of God.
 
-**[Genesis 41:1-57](/bible/genesis/41#v1)**  *[1:21:58]*
+**[Genesis 41:1-57](/bible/genesis/41#v1)**  *[[1:21:58](https://www.youtube.com/watch?v=075qOUs8Sbc&t=4918s)]*
 
 > <sup>[1](/bible/genesis/41#v1)</sup> And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 >
@@ -423,7 +423,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     Not slothful in business; fervent in spirit; serving the Lord. That's the proof that the business is God's business.
 
-**[Genesis 42:1-38](/bible/genesis/42#v1)**  *[1:35:53]*
+**[Genesis 42:1-38](/bible/genesis/42#v1)**  *[[1:35:53](https://www.youtube.com/watch?v=075qOUs8Sbc&t=5753s)]*
 
 > <sup>[1](/bible/genesis/42#v1)</sup> Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
 >
@@ -508,7 +508,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 - He took from them Simeon, and bound him before their eyes, and commanded to restore every man's money into his sack. When they and their father saw the bundles of money, they were afraid.
 - Reuben spake unto his father, saying, slay my two sons, if I bring him not to thee. There's the characteristic of Reuben again, from when they first put Joseph in the pit.
 
-**[Genesis 43:1-10](/bible/genesis/43#v1)**  *[1:43:43]*
+**[Genesis 43:1-10](/bible/genesis/43#v1)**  *[[1:43:43](https://www.youtube.com/watch?v=075qOUs8Sbc&t=6223s)]*
 
 > <sup>[1](/bible/genesis/43#v1)</sup> And the famine was sore in the land.
 >
@@ -558,7 +558,7 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
 Book read in class: the Book of Jasher, chapter 54, was read at length as an example of why we stay away from these added books. In Jasher's telling, Judah crushes a 400 shekel stone into dust with his strength, Naphtali runs on the ears of corn without breaking them and numbers the twelve streets of Egypt, Simeon offers to level Egypt with one stone from the mount, and the Egyptian army flees in terror from Judah's scream. That did not happen; it makes nice fairy tale stuff, but it contradicts the biblical text.
 
-**[Genesis 46:5-11](/bible/genesis/46#v5)**  *[2:13:16]*
+**[Genesis 46:5-11](/bible/genesis/46#v5)**  *[[2:13:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=7996s)]*
 
 > <sup>[5](/bible/genesis/46#v5)</sup> And Jacob rose up from Beer–sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
 >
@@ -576,7 +576,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
 - Jacob rose up from Beersheba, and his sons carried him and their little ones and their wives in the wagons which Pharaoh had sent, and all his seed came with him into Egypt.
 
-**[Genesis 46:26-34](/bible/genesis/46#v26)**  *[2:14:13]*
+**[Genesis 46:26-34](/bible/genesis/46#v26)**  *[[2:14:13](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8053s)]*
 
 > <sup>[26](/bible/genesis/46#v26)</sup> All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six;
 >
@@ -600,7 +600,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 - Joseph fell on his father's neck, and wept on his neck a good while. And Israel said, now let me die, since I have seen thy face, because thou art yet alive.
 - Joseph instructed them: when Pharaoh shall ask, what is your occupation, ye shall say, thy servants' trade hath been about cattle from our youth; for every shepherd is an abomination unto the Egyptians. Joseph was fully aware of the history of the Hyksos, the shepherd kings from Palestine who had taken over the Delta and ruled Egypt in the 15th Dynasty. That's why he told his father and brothers to tell Pharaoh they were shepherds, so they would be placed apart in Goshen.
 
-**[Genesis 43:30-32](/bible/genesis/43#v30)**  *[2:16:16]*
+**[Genesis 43:30-32](/bible/genesis/43#v30)**  *[[2:16:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8176s)]*
 
 > <sup>[30](/bible/genesis/43#v30)</sup> And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.
 >
@@ -618,7 +618,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
     The great city is Babylon the Great, which spiritually is called Sodom and Egypt, where also our Lord was crucified. This isn't the real Sodom or the real Egypt; it is a spiritual Sodom and a spiritual Egypt. On the dollar bill you have the pyramid with 1776 at the bottom, Novus Ordo Seclorum, and the obelisk stands in Washington. America knows this is a spiritual Egypt where they have captured tribes of Israel. And our Lord was crucified in Jerusalem; those same spirits that hated and murdered Christ are here again. They hate his image and they hate his teachings.
 
-**[Genesis 47:1-4](/bible/genesis/47#v1)**  *[2:23:12]*
+**[Genesis 47:1-4](/bible/genesis/47#v1)**  *[[2:23:12](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8592s)]*
 
 > <sup>[1](/bible/genesis/47#v1)</sup> Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
 >
@@ -630,7 +630,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
 - Joseph took five of his brethren and presented them unto Pharaoh, and they answered as Joseph instructed: thy servants are shepherds, both we and also our fathers; for to sojourn in the land are we come. The Hyksos history is why that answer secured them Goshen.
 
-**[Genesis 47:15-20](/bible/genesis/47#v15)**  *[2:26:10]*
+**[Genesis 47:15-20](/bible/genesis/47#v15)**  *[[2:26:10](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8770s)]*
 
 > <sup>[15](/bible/genesis/47#v15)</sup> And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
 >
@@ -670,7 +670,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
     The burden of Egypt: this Egypt is Babylon the Great, like we read in Revelation 11:8. I will set the Egyptians against the Egyptians: that's civil war, everyone against his brother, city against city, kingdom against kingdom. Don't be surprised if it's blue states against red states, Democrats against Republicans, and everybody picks a side. And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them.
 
-**[Psalms 105:17-22](/bible/psalms/105#v17)**  *[2:38:51]*
+**[Psalms 105:17-22](/bible/psalms/105#v17)**  *[[2:38:51](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9531s)]*
 
 > <sup>[17](/bible/psalms/105#v17)</sup> He sent a man before them, even Joseph, who was sold for a servant:
 >
@@ -686,7 +686,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
 - He sent a man before them, even Joseph, who was sold for a servant: whose feet they hurt with fetters: he was laid in iron, meaning chains, until the time that his word came. The king sent and loosed him, and made him lord of his house, to bind his princes at his pleasure, and teach his senators wisdom. Joseph taught the men of Egypt wisdom.
 
-**[Genesis 49:1-2](/bible/genesis/49#v1)**  *[2:39:39]*
+**[Genesis 49:1-2](/bible/genesis/49#v1)**  *[[2:39:39](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9579s)]*
 
 > <sup>[1](/bible/genesis/49#v1)</sup> And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 >
@@ -694,7 +694,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
 - Jacob called unto his sons and said, gather yourselves together, that I may tell you that which shall befall you in the last days. Highlight those last four words: in the last days. This prophecy is for the last days.
 
-**[Genesis 49:22-26](/bible/genesis/49#v22)**  *[2:40:11]*
+**[Genesis 49:22-26](/bible/genesis/49#v22)**  *[[2:40:11](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9611s)]*
 
 > <sup>[22](/bible/genesis/49#v22)</sup> Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:
 >
@@ -790,7 +790,7 @@ Book read in class: Lost Tribes and Promised Land, with passages from Spanish re
 
     Ephraim is planted in a pleasant place, the islands, but Ephraim shall bring forth his children to the murderer: willingly seeking to mix their children lighter to improve the race, as the doctrine of la raza taught. Give them a miscarrying womb and dry breasts: God says he will deal himself with the seed of the oppressor mixed in. Ephraim is smitten, their root is dried up.
 
-**[Acts 10:1-4](/bible/acts/10#v1)**  *[2:58:37]*
+**[Acts 10:1-4](/bible/acts/10#v1)**  *[[2:58:37](https://www.youtube.com/watch?v=075qOUs8Sbc&t=10717s)]*
 
 > <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
 >
@@ -840,7 +840,7 @@ Book read in class: Lost Tribes and Promised Land, with passages from Spanish re
 
     Behold, I will take the stick of Joseph, which is in the hand of Ephraim. See that? Joseph, which is in the hand of Ephraim. That's how you know Joseph stands for Ephraim in Revelation 7. And he will put them with the stick of Judah, and make them one stick.
 
-**[Genesis 50:15-20](/bible/genesis/50#v15)**  *[3:05:11]*
+**[Genesis 50:15-20](/bible/genesis/50#v15)**  *[[3:05:11](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11111s)]*
 
 > <sup>[15](/bible/genesis/50#v15)</sup> And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
 >
@@ -892,7 +892,7 @@ Book read in class: Lost Tribes and Promised Land, with passages from Spanish re
 
     Ye that fear the Lord, wait for his mercy, and go not aside, lest ye fall. Believe him, and your reward shall not fail. Look at the generations of old, and see: did ever any trust in the Lord, and was confounded? Was Job confounded? No. For the Lord is full of compassion and mercy, and saveth in time of affliction.
 
-**[Isaiah 43:3-7](/bible/isaiah/43#v3)**  *[3:10:13]*
+**[Isaiah 43:3-7](/bible/isaiah/43#v3)**  *[[3:10:13](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11413s)]*
 
 > <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
 >
@@ -913,7 +913,7 @@ Book read in class: Lost Tribes and Promised Land, with passages from Spanish re
 
     So of thy people was accepted both the salvation of the righteous and destruction of the enemies. There can be no salvation of the oppressed without the destruction of the oppressor. That is so plain, but for Christians it's so difficult to understand.
 
-**[Isaiah 11:13](/bible/isaiah/11#v13)**  *[3:12:16]*
+**[Isaiah 11:13](/bible/isaiah/11#v13)**  *[[3:12:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11536s)]*
 
 > <sup>[13](/bible/isaiah/11#v13)</sup> The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
 
@@ -938,7 +938,7 @@ Book read in class: Lost Tribes and Promised Land, with passages from Spanish re
 
     Thou shalt love thy neighbour as thyself. When it says thy neighbour, like we read in Leviticus, it means the children of thy people: your own nation. That's something we have not learned; you look at South Africa and they have not learned it either, despising their own people. God's laws must continue to be pushed and taught in this earth. No one is entering New Jerusalem with hatred in their heart.
 
-**[Zechariah 9:11-17](/bible/zechariah/9#v11)**  *[3:14:28]*
+**[Zechariah 9:11-17](/bible/zechariah/9#v11)**  *[[3:14:28](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11668s)]*
 
 > <sup>[11](/bible/zechariah/9#v11)</sup> As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
 >
@@ -1003,4 +1003,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-30-joseph-in-egypt-then-now)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=075qOUs8Sbc)

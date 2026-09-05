@@ -20,7 +20,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
 ## Scriptures Opened
 
-**[Revelation 17:16-18](/bible/revelation/17#v16)**  *[10:24]*
+**[Revelation 17:16-18](/bible/revelation/17#v16)**  *[[10:24](https://www.youtube.com/watch?v=oDJQWLjahKg&t=624s)]*
 
 > <sup>[16](/bible/revelation/17#v16)</sup> And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
 >
@@ -33,7 +33,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, to support America, until the words of God shall be fulfilled: until prophecy is fulfilled.
 - The woman which thou sawest is that great city, which reigneth over the kings of the earth. What other kingdom is reigning over all the kings of the earth? The United States of America. Verse 18 lets you know crystal clear. You might say, is it not the Vatican? No. The Arab world and Islam do not respect the Vatican, but everybody respects the United States of America, whether they want to or not.
 
-**[Revelation 18:1-4](/bible/revelation/18#v1)**  *[12:41]*
+**[Revelation 18:1-4](/bible/revelation/18#v1)**  *[[12:41](https://www.youtube.com/watch?v=oDJQWLjahKg&t=761s)]*
 
 > <sup>[1](/bible/revelation/18#v1)</sup> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 >
@@ -47,7 +47,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - All nations have drunk of the wine of the wrath of her fornication: her political policies. Everybody obeys America. The merchants of the earth are waxed rich: the merchants are her corporations and companies. Nations only become rich dealing with the United States of America. People like to bring up China: China was a third world country back in the 50s. How did they become a world superpower? America allowed them into the stock market, allowed them to buy, sell, and trade with all nations. And America does not allow Africa to do what they allow China to do; they do not even allow Africa to manufacture their own weapons.
 - Come out of her, my people: so where is God's people? In Babylon.
 
-**[Zechariah 2:6-9](/bible/zechariah/2#v6)**  *[15:34]*
+**[Zechariah 2:6-9](/bible/zechariah/2#v6)**  *[[15:34](https://www.youtube.com/watch?v=oDJQWLjahKg&t=934s)]*
 
 > <sup>[6](/bible/zechariah/2#v6)</sup> Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
 >
@@ -82,7 +82,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah. The residue of my people shall spoil them, and the remnant of my people shall possess them: own those nations.
 
-**[Obadiah 1:1-7](/bible/obadiah/1#v1)**  *[20:54]*
+**[Obadiah 1:1-7](/bible/obadiah/1#v1)**  *[[20:54](https://www.youtube.com/watch?v=oDJQWLjahKg&t=1254s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
@@ -110,7 +110,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - How are his hidden things sought up: the evils Esau has done are being sought out now. It is only recently we found out about Lake Lanier in Georgia, and Seneca Village, the black community that was destroyed to make Central Park. All of that is surfacing now.
 - All the men of thy confederacy have brought thee even to the border: the men of thy confederacy is the European Union, the precept to Revelation 17:16 that we just read. The men that were at peace with thee have deceived thee, and prevailed against thee. Do not think the EU will let America get away with the tariffs and the disrespect.
 
-**[Obadiah 1:15-16](/bible/obadiah/1#v15)**  *[28:53]*
+**[Obadiah 1:15-16](/bible/obadiah/1#v15)**  *[[28:53](https://www.youtube.com/watch?v=oDJQWLjahKg&t=1733s)]*
 
 > <sup>[15](/bible/obadiah/1#v15)</sup> For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
 >
@@ -120,7 +120,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - For as ye have drunk upon my holy mountain: notice it goes from America to the fake Israelis, because they work together. How did they drink upon the holy mountain? Murder and bloodshed. They came back to the land in 1948, and what did they bring with them? Murder and bloodshed.
 - So shall all the heathen drink continually; and they shall be as though they had not been. These nations shall be as though they had not been.
 
-**[2 Esdras 12:11](/bible/2-esdras/12#v11)**  *[30:25]*
+**[2 Esdras 12:11](/bible/2-esdras/12#v11)**  *[[30:25](https://www.youtube.com/watch?v=oDJQWLjahKg&t=1825s)]*
 
 > <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
 
@@ -128,7 +128,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - News read in class: the United States is celebrating its semiquincentennial, its 250th anniversary, with the official milestone of American independence taking place on July 4th, 2026, honoring the adoption of the Declaration of Independence in 1776. They said we hold these truths to be self-evident, that all men are created equal, and for some reason our people think that included them. It did not.
 - America held a national prayer vigil for the 250th, a ministry video calling the nation blessed and asking God's mercy to endure. They are praying, but not to the God of Israel. We started our own prayer vigil first: yesterday evening for judgment, this morning for mercy, and at 12 noon, increase our faith.
 
-**[Psalms 109:4-7](/bible/psalms/109#v4)**  *[34:12]*
+**[Psalms 109:4-7](/bible/psalms/109#v4)**  *[[34:12](https://www.youtube.com/watch?v=oDJQWLjahKg&t=2052s)]*
 
 > <sup>[4](/bible/psalms/109#v4)</sup> For my love they are my adversaries: but I give myself unto prayer.
 >
@@ -143,7 +143,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - Set thou a wicked man over him: and let Satan stand at his right hand. When he shall be judged, let him be condemned: and let his prayer become sin. All their prayers are sin. God is not accepting their prayers, according to the Holy Bible.
 - News shown in class: on the morning of America's 250th anniversary, hundreds of masked men carrying Confederate flags marched through Washington DC from Union Station, chanting for the country to be reclaimed. Black Christians think white Christians and them are together. No. They have told their own non-white allies plainly: when we get rid of everybody else, you have to go too. There are no exceptions with them, and if you keep saying there are good ones you will get a rude awakening. All through the scriptures God says he will exalt the nation of Israel as his chosen people; if you fight against that, you are fighting God.
 
-**[Daniel 11:39](/bible/daniel/11#v39)**  *[38:47]*
+**[Daniel 11:39](/bible/daniel/11#v39)**  *[[38:47](https://www.youtube.com/watch?v=oDJQWLjahKg&t=2327s)]*
 
 > <sup>[39](/bible/daniel/11#v39)</sup> Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
 
@@ -151,7 +151,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - And shall divide the land for gain: they divided Africa for financial gain. That is the Berlin Conference. It started with the four generals of Alexander, Ptolemy, Lysimachus, Cassander, and Seleucus, dividing up the lands; white folks continued the same thing.
 - News read in class: 140 million Americans under heat alerts on the 4th of July, feeling like at least 100 degrees from the Midwest to the East Coast, 110 in Washington DC, holiday events cancelled or delayed, storms knocking out power for about a million customers, and 1,600 Philadelphia utility workers on strike. France recorded about 2,025 excess deaths at the peak of the heat wave as Europe braces for more extreme weather. Who controls the sun? The Most High. Keep praying, keep fasting.
 
-**[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[44:05]*
+**[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[[44:05](https://www.youtube.com/watch?v=oDJQWLjahKg&t=2645s)]*
 
 > <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 >
@@ -161,7 +161,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - Then shall his mind change: his mind changed around the civil rights era in the 60s. They said, let us appear gentler, kinder, more Christian: you can come into our schools, sit next to us in a restaurant, for the time being. They took religion out of the schools; you could not even say certain things. Then the administration changed and the mind changed again: the mask is off.
 - And he shall pass over, and offend, imputing this his power unto his god: unto the strange god we just read about in Daniel 11:39. It is not the God of the Bible, although they say it is.
 
-**[Job 1:1-19](/bible/job/1#v1)**  *[49:12]*
+**[Job 1:1-19](/bible/job/1#v1)**  *[[49:12](https://www.youtube.com/watch?v=oDJQWLjahKg&t=2952s)]*
 
 > <sup>[1](/bible/job/1#v1)</sup> There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 >
@@ -213,7 +213,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     My son, if thou come to serve the Lord, prepare thy soul for temptation. Soon as we give our life to the Lord, repent, and start to do the work, Satan comes before the throne and says, have you considered your servant such and such? They are doing well now, but let me try them and they will curse you, leave the truth, and go right back to me. And the Lord says, you can try, but do not take their life. You have got to understand the pattern, because it still operates today.
 
-**[Job 2:4-7](/bible/job/2#v4)**  *[55:03]*
+**[Job 2:4-7](/bible/job/2#v4)**  *[[55:03](https://www.youtube.com/watch?v=oDJQWLjahKg&t=3303s)]*
 
 > <sup>[4](/bible/job/2#v4)</sup> And Satan answered the Lord, and said, Skin for skin, yea, all that a man hath will he give for his life.
 >
@@ -226,7 +226,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - Satan answered the Lord: skin for skin, yea, all that a man hath will he give for his life. But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
 - And the Lord said unto Satan, Behold, he is in thine hand; but save his life. So Satan smote Job with sore boils from the sole of his foot unto his crown: the fifth trial, Job's health in decline.
 
-**[Isaiah 1:3-6](/bible/isaiah/1#v3)**  *[55:51]*
+**[Isaiah 1:3-6](/bible/isaiah/1#v3)**  *[[55:51](https://www.youtube.com/watch?v=oDJQWLjahKg&t=3351s)]*
 
 > <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
 >
@@ -240,7 +240,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they are gone away backward. We went backwards, backsliding.
 - The whole head is sick, and the whole heart faint. From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: like Job had. What Job went through, we go through as a nation of people. Why? Because we were the servants of God, and when the trials came, we lost. We gave in to sin and turned our back on the Lord.
 
-**[Job 4:1-5](/bible/job/4#v1)**  *[57:24]*
+**[Job 4:1-5](/bible/job/4#v1)**  *[[57:24](https://www.youtube.com/watch?v=oDJQWLjahKg&t=3444s)]*
 
 > <sup>[1](/bible/job/4#v1)</sup> Then Eliphaz the Temanite answered and said,
 >
@@ -261,7 +261,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     There is one that is wise and teacheth many, and yet is unprofitable to himself. That is what Eliphaz was telling Job: you were the guy that comforted everybody, but now that your turn has come, you are fainting and want to give up. We should all be mindful of that.
 
-**[Job 29:1-25](/bible/job/29#v1)**  *[59:02]*
+**[Job 29:1-25](/bible/job/29#v1)**  *[[59:02](https://www.youtube.com/watch?v=oDJQWLjahKg&t=3542s)]*
 
 > <sup>[1](/bible/job/29#v1)</sup> Moreover Job continued his parable, and said,
 >
@@ -364,7 +364,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     Let thy priests be clothed with righteousness; and let thy saints shout for joy. Job put on righteousness and it clothed him.
 
-**[Isaiah 1:25-31](/bible/isaiah/1#v25)**  *[1:12:43]*
+**[Isaiah 1:25-31](/bible/isaiah/1#v25)**  *[[1:12:43](https://www.youtube.com/watch?v=oDJQWLjahKg&t=4363s)]*
 
 > <sup>[25](/bible/isaiah/1#v25)</sup> And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:
 >
@@ -409,7 +409,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     But in a great house there are not only vessels of gold and of silver, but also of wood and of earth. The great house is the nation of Israel, the twelve tribes. In every school there are men and women who are gold and silver, and it is up to you to discern who they are; and in every school there are also brothers and sisters of wood and of earth. This is not about new brothers and sisters who just walked through the door: it is about men and women in this truth for years who have not changed, still murmurers and gossipers, no work, no effort to study, treating this like a social club, a place to hang out. If a man therefore purge himself from these: you have to know your circle. When the Bishop came into the truth he had a circle of brothers he was always in trouble around, and he had to change his circle and get around leadership and the elders to get his mind right. Do not worry about hurting feelings: if you know they are not right, separate from them. Then shall you be a vessel unto honour, sanctified, and meet for the master's use: then can God use you, send you to a city and you could grow a whole congregation. Like Isaiah said to the Lord: send me. And this is also why we cannot join with other camps that practice what God condemns: it is based on what we just read.
 
-**[Job 35:9](/bible/job/35#v9)**  *[1:27:17]*
+**[Job 35:9](/bible/job/35#v9)**  *[[1:27:17](https://www.youtube.com/watch?v=oDJQWLjahKg&t=5237s)]*
 
 > <sup>[9](/bible/job/35#v9)</sup> By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.
 
@@ -421,14 +421,14 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     And thou shalt be only oppressed and spoiled evermore. That is what Elihu was talking about.
 
-**[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[1:28:49]*
+**[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[[1:28:49](https://www.youtube.com/watch?v=oDJQWLjahKg&t=5329s)]*
 
 > <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
 - So I returned, and considered all the oppressions that are done under the sun: this is King Solomon speaking prophetically. And behold the tears of such as were oppressed, and they had no comforter: looking for justice in all the wrong places.
 - And on the side of their oppressors there was power: they have the weapons, the court system, all of it. We have nothing. But they had no comforter.
 
-**[Psalms 102:19-20](/bible/psalms/102#v19)**  *[1:29:38]*
+**[Psalms 102:19-20](/bible/psalms/102#v19)**  *[[1:29:38](https://www.youtube.com/watch?v=oDJQWLjahKg&t=5378s)]*
 
 > <sup>[19](/bible/psalms/102#v19)</sup> For he hath looked down from the height of his sanctuary; from heaven did the Lord behold the earth;
 >
@@ -445,7 +445,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     For we know that the whole creation groaneth and travaileth in pain together until now. And not only they, but ourselves also, which have the firstfruits of the Spirit, which is Christ: waiting for the adoption, to wit, the redemption of our body. We want our godhood back. We want rulership back, dominion back; we want to reign on this planet like we once did.
 
-**[Isaiah 47:1, 6](/bible/isaiah/47#v1)**  *[1:31:15]*
+**[Isaiah 47:1, 6](/bible/isaiah/47#v1)**  *[[1:31:15](https://www.youtube.com/watch?v=oDJQWLjahKg&t=5475s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 >
@@ -456,7 +456,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - Thou didst shew them no mercy: the white man showed us no mercy here. Upon the ancient hast thou very heavily laid thy yoke: even upon the older men and women they laid a heavy yoke. They polluted us with their holidays and their filth.
 - Why is it so hard for our people? Discussion of the Cosby effect: when positive images of our people in college were on television, black college enrollment climbed; when those images were replaced with degrading ones, it declined. Esau figured out the psychology that image is everything: if the people can see themselves in greatness, they will become that. That is why they put the lowest of black society in the forefront globally, and why they remake or destroy every positive black show, and why the roles they reward are the degrading ones. That is why the art and video work of this nation matters: put positive images out there.
 
-**[Deuteronomy 28:64-68](/bible/deuteronomy/28#v64)**  *[1:37:56]*
+**[Deuteronomy 28:64-68](/bible/deuteronomy/28#v64)**  *[[1:37:56](https://www.youtube.com/watch?v=oDJQWLjahKg&t=5876s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 >
@@ -484,7 +484,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction. God was a little displeased with us, and they afflicted us more and more.
 
-**[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[1:51:00]*
+**[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[[1:51:00](https://www.youtube.com/watch?v=oDJQWLjahKg&t=6660s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 >
@@ -511,7 +511,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people. Wine there symbolizes lies: that is what our people are drunk with.
 
-**[Psalms 44:11-22](/bible/psalms/44#v11)**  *[2:04:14]*
+**[Psalms 44:11-22](/bible/psalms/44#v11)**  *[[2:04:14](https://www.youtube.com/watch?v=oDJQWLjahKg&t=7454s)]*
 
 > <sup>[11](/bible/psalms/44#v11)</sup> Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen.
 >
@@ -543,14 +543,14 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake. A speaker in a clip shown in class admitted plainly that the whole world is anti-black; Christ said the same thing here first.
 
-**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[2:10:40]*
+**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[2:10:40](https://www.youtube.com/watch?v=oDJQWLjahKg&t=7840s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
 
 - As for us, our eyes as yet failed for our vain help: the vain help is our enemy and avenger. In our watching we have watched for a nation that could not save us.
 - The courtroom scene was recalled where a convicted officer was consoled, her hair stroked by a court officer, and the judge came down to hug her and hand her a Bible, while the victim's brother offered forgiveness. Only with our people. That is watching for a nation that cannot save us.
 
-**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[2:14:16]*
+**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[2:14:16](https://www.youtube.com/watch?v=oDJQWLjahKg&t=8056s)]*
 
 > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
 
@@ -558,14 +558,14 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - But here is what is in the Bible: for thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth. That is not equality: God said, I chose you, I love you, I am setting you above everybody.
 - When the powerful talk about equality, they mean themselves at the top and you at the bottom. That is their form of equality.
 
-**[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[2:17:50]*
+**[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[[2:17:50](https://www.youtube.com/watch?v=oDJQWLjahKg&t=8270s)]*
 
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 
 - Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end. When our iniquity had an end, they helped forward the affliction, like we read in Zechariah 1:15.
 - A 1965 interview was played in which a southern judge explained calmly that segregation and the negro's place had been taught to him, that he taught it to his children, and that they would teach theirs. Those children are in their 60s and 70s now, with children and grandchildren of their own, and some of you think they changed. They did not change. They are your judges, politicians, and some of them your doctors: the class noted reporting that black mothers face the worst birth outcomes in Mississippi.
 
-**[Amos 1:11-12](/bible/amos/1#v11)**  *[2:18:50]*
+**[Amos 1:11-12](/bible/amos/1#v11)**  *[[2:18:50](https://www.youtube.com/watch?v=oDJQWLjahKg&t=8330s)]*
 
 > <sup>[11](/bible/amos/1#v11)</sup> Thus saith the Lord; For three transgressions of Edom, and for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:
 >
@@ -575,7 +575,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - Because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever: perpetual means forever.
 - But I will send a fire upon Teman, which shall devour the palaces of Bozrah: when you read Isaiah 34, it goes into Christ's return destroying the capital cities of Edom.
 
-**[Isaiah 47:10-15](/bible/isaiah/47#v10)**  *[2:23:33]*
+**[Isaiah 47:10-15](/bible/isaiah/47#v10)**  *[[2:23:33](https://www.youtube.com/watch?v=oDJQWLjahKg&t=8613s)]*
 
 > <sup>[10](/bible/isaiah/47#v10)</sup> For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I am, and none else beside me.
 >
@@ -609,7 +609,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     A mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down. Thy merchants were the great men of the earth: their corporations. For by thy sorceries were all nations deceived: the imagery, the television, the movies that manipulate the people, like the discussion earlier about images and enrollment. And do not think there are two different Babylons: this is the same Babylon the great.
 
-**[Job 19:23-28](/bible/job/19#v23)**  *[2:36:40]*
+**[Job 19:23-28](/bible/job/19#v23)**  *[[2:36:40](https://www.youtube.com/watch?v=oDJQWLjahKg&t=9400s)]*
 
 > <sup>[23](/bible/job/19#v23)</sup> Oh that my words were now written! oh that they were printed in a book!
 >
@@ -628,7 +628,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 - And though after my skin worms destroy this body, yet in my flesh shall I see God: that is regeneration. Whom I shall see for myself, and mine eyes shall behold, and not another: my spirit is not going to be in another person's body; my own eyes will look upon the redeemer.
 - Job understood regeneration. He knew that Christ would return in the latter days and that Job would be back to see him for himself. Who Job is today, we do not know; the Lord knows.
 
-**[Job 20:5-11](/bible/job/20#v5)**  *[2:38:16]*
+**[Job 20:5-11](/bible/job/20#v5)**  *[[2:38:16](https://www.youtube.com/watch?v=oDJQWLjahKg&t=9496s)]*
 
 > <sup>[5](/bible/job/20#v5)</sup> That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
 >
@@ -662,7 +662,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it. Who spoke it? The Lord spoke that thing; we did not say it. Israelites who purposely ignore these scriptures and only read love scriptures are trying to change the narrative of what God is saying.
 
-**[Genesis 4:14](/bible/genesis/4#v14)**  *[2:42:54]*
+**[Genesis 4:14](/bible/genesis/4#v14)**  *[[2:42:54](https://www.youtube.com/watch?v=oDJQWLjahKg&t=9774s)]*
 
 > <sup>[14](/bible/genesis/4#v14)</sup> Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
 
@@ -675,7 +675,7 @@ Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary:
 
     But when the unrighteous went away from her in his anger, he perished also in the fury wherewith he murdered his brother. Cain murdered Abel, and Cain was killed the same way. The judgment catches up.
 
-**[Job 20:12-29](/bible/job/20#v12)**  *[2:44:28]*
+**[Job 20:12-29](/bible/job/20#v12)**  *[[2:44:28](https://www.youtube.com/watch?v=oDJQWLjahKg&t=9868s)]*
 
 > <sup>[12](/bible/job/20#v12)</sup> Though wickedness be sweet in his mouth, though he hide it under his tongue;
 >
@@ -788,4 +788,4 @@ Closing reading: 1 Corinthians 11:23, the bread and the cup, in remembrance of t
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-04-job-sees-america-s-250th-anniversary)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=oDJQWLjahKg)

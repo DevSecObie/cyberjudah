@@ -145,7 +145,7 @@ France still takes it.
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[9:25]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[9:25](https://www.youtube.com/watch?v=14p8vV6KBfI&t=565s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -153,7 +153,7 @@ France still takes it.
 
 - Like I heard one camp one time, they said, well, Judah went and paid for a prostitute, so it is okay to buy prostitutes. No, that is an example for us not to do, for us to learn from, not to repeat. I even had brothers say, well, Samson used to deal with hoes, so it is okay for us to go deal with hoes. No. I even hear brothers go to one of the wisest men that ever walked on this earth. They say, oh, Solomon dealt with heathen women, concubines, so we could have concubines, we could deal with white women. No. The mistakes our forefathers made were for our learning, for us not to do.
 
-**[1 Kings 8:46-48](/bible/1-kings/8#v46)**  *[11:19]*
+**[1 Kings 8:46-48](/bible/1-kings/8#v46)**  *[[11:19](https://www.youtube.com/watch?v=14p8vV6KBfI&t=679s)]*
 
 > <sup>[46](/bible/1-kings/8#v46)</sup> If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
 >
@@ -173,7 +173,7 @@ France still takes it.
 
 - What are they doing here? They are acknowledging their sins, and they are acknowledging the sins of their fathers also. The Bible says we have got to bethink ourselves and say that we sinned and our forefathers sinned. Why is that? Because we have got to learn from the mistakes of our forefathers. That is why we have got to acknowledge the sins that we make and the sins that our forefathers made.
 
-**[Sirach 6:32-37](/bible/sirach/6#v32)**  *[18:56]*
+**[Sirach 6:32-37](/bible/sirach/6#v32)**  *[[18:56](https://www.youtube.com/watch?v=14p8vV6KBfI&t=1136s)]*
 
 > <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
 >
@@ -203,7 +203,7 @@ France still takes it.
 
 - Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire. So that is wisdom for the week. Learn from your mistakes and from other people's mistakes. And if you see somebody of understanding, learn from that person. Study that person. Do not envy that person. And that goes for you sisters too.
 
-**[1 Maccabees 1:41-43](/bible/1-maccabees/1#v41)**  *[24:41]*
+**[1 Maccabees 1:41-43](/bible/1-maccabees/1#v41)**  *[[24:41](https://www.youtube.com/watch?v=14p8vV6KBfI&t=1481s)]*
 
 > <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
 >
@@ -221,7 +221,7 @@ France still takes it.
 
 - So even this form of democracy under Antiochus, where he says, oh, let us all be one people, they all were one people under him. Everybody was one people under them, meaning you have got to follow his religion, you have got to follow his politics, you have got to follow his customs. That is what democracy is. And guess what, it is the same thing in America. The white man came and said, let us all be one people, and everybody has to follow whose religion? The white man's religion.
 
-**[1 Maccabees 1:49-50](/bible/1-maccabees/1#v49)**  *[28:02]*
+**[1 Maccabees 1:49-50](/bible/1-maccabees/1#v49)**  *[[28:02](https://www.youtube.com/watch?v=14p8vV6KBfI&t=1682s)]*
 
 > <sup>[49](/bible/1-maccabees/1#v49)</sup> To the end they might forget the law, and change all the ordinances.
 >
@@ -237,13 +237,13 @@ France still takes it.
 
 - What were they really pushing? That everybody had to conform to their religion and their customs and follow them. There is no such thing as equality. Meaning everybody else to the bottom and the Greeks to the top. That is democracy. That is what America is pushing. That is white supremacy. Democracy is white supremacy, which is the nations to the bottom and the white man to the top ruling.
 
-**[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[34:15]*
+**[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[[34:15](https://www.youtube.com/watch?v=14p8vV6KBfI&t=2055s)]*
 
 > <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
 
 - And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images. So the heathen tried to paint their likeness and their images inside the book of the law. That is the first thing the white man did when he came into power. He said, we need to change history.
 
-**[Matthew 22:35-39](/bible/matthew/22#v35)**  *[58:21]*
+**[Matthew 22:35-39](/bible/matthew/22#v35)**  *[[58:21](https://www.youtube.com/watch?v=14p8vV6KBfI&t=3501s)]*
 
 > <sup>[35](/bible/matthew/22#v35)</sup> Then one of them, which was a lawyer, asked him a question, tempting him, and saying,
 >
@@ -277,7 +277,7 @@ France still takes it.
 
 - So we must have racial identity. We must love our God and we must love our people. There is nothing wrong in doing that. Nothing happens if white people do that. Nothing is wrong if the Chinese do that. We are the ones that do not love our people and do not love our God. We worship a white god. We worship another man's god.
 
-**[Wisdom of Solomon 14:12](/bible/wisdom-of-solomon/14#v12)**  *[1:14:24]*
+**[Wisdom of Solomon 14:12](/bible/wisdom-of-solomon/14#v12)**  *[[1:14:24](https://www.youtube.com/watch?v=14p8vV6KBfI&t=4464s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/14#v12)</sup> For the devising of idols was the beginning of spiritual fornication, and the invention of them the corruption of life.
 
@@ -285,7 +285,7 @@ France still takes it.
 
 - The tool they use to put that inferiority complex on our people. What is the number one tool they use for that? The white Jesus that they push through education, the white Jesus they push through religion. Idolatry is one of the tools the white man uses to make us inferior and submissive to him.
 
-**[Wisdom of Solomon 14:17](/bible/wisdom-of-solomon/14#v17)**  *[1:15:11]*
+**[Wisdom of Solomon 14:17](/bible/wisdom-of-solomon/14#v17)**  *[[1:15:11](https://www.youtube.com/watch?v=14p8vV6KBfI&t=4511s)]*
 
 > <sup>[17](/bible/wisdom-of-solomon/14#v17)</sup> Whom men could not honour in presence, because they dwelt far off, they took the counterfeit of his visage from far, and made an express image of a king whom they honoured, to the end that by this their forwardness they might flatter him that was absent, as if he were present.
 
@@ -295,7 +295,7 @@ France still takes it.
 
 - To the end that by this their forwardness they might flatter him that was absent, as if he were present. So that is why a lot of the time, when we are at camp, people move like the white man is standing right there about to do something if they say the white man is the devil. As if the white man was right there. That is the mindset. That is the spell of Christianity right there. Christianity is the tool they use to teach us an inferiority complex. Our people have been destroyed, not just us, but all nations worship the white man.
 
-**[Daniel 7:19-25](/bible/daniel/7#v19)**  *[1:29:57]*
+**[Daniel 7:19-25](/bible/daniel/7#v19)**  *[[1:29:57](https://www.youtube.com/watch?v=14p8vV6KBfI&t=5397s)]*
 
 > <sup>[19](/bible/daniel/7#v19)</sup> Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;
 >
@@ -347,7 +347,7 @@ France still takes it.
 
 - And think to change times and laws. Why does it say think? Because even though he thinks it, we are going to reverse it. We are going to bring out the truth. He has changed God's laws. He has changed the Sabbath day. He thinks to do all these things, but we are going to bring it back around.
 
-**[2 Esdras 11:37-42](/bible/2-esdras/11#v37)**  *[1:41:42]*
+**[2 Esdras 11:37-42](/bible/2-esdras/11#v37)**  *[[1:41:42](https://www.youtube.com/watch?v=14p8vV6KBfI&t=6102s)]*
 
 > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
 >
@@ -379,7 +379,7 @@ France still takes it.
 
 - For thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars. He afflicted the meek. He hurt the peaceable. He loved liars. Why does it say he hurt the peaceable? Because the Iranians were trying to set peace up with them and they bombed the hell out of them and killed their leader.
 
-**[Revelation 16:12-14](/bible/revelation/16#v12)**  *[1:47:18]*
+**[Revelation 16:12-14](/bible/revelation/16#v12)**  *[[1:47:18](https://www.youtube.com/watch?v=14p8vV6KBfI&t=6438s)]*
 
 > <sup>[12](/bible/revelation/16#v12)</sup> And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
 >
@@ -397,7 +397,7 @@ France still takes it.
 
 - Because what they did this week, they said they are putting more sanctions on any nation that does business with Iran. They said, we are going after any one of you nations that does any business with Iran. That is economics. So these three things are what is being used that is going to make all the kings on the earth get angry and rise up and fight against America. Their economics, which is the IMF, the US dollar. Christianity, Judaism. And their policies and their politics which they set up. That is white power.
 
-**[Revelation 18:4](/bible/revelation/18#v4)**  *[2:04:45]*
+**[Revelation 18:4](/bible/revelation/18#v4)**  *[[2:04:45](https://www.youtube.com/watch?v=14p8vV6KBfI&t=7485s)]*
 
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 
@@ -409,7 +409,7 @@ France still takes it.
 
 - And that ye receive not of her plagues. Because if you do not, you are going to receive of her plagues.
 
-**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[2:05:53]*
+**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[2:05:53](https://www.youtube.com/watch?v=14p8vV6KBfI&t=7553s)]*
 
 > <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
 
@@ -421,7 +421,7 @@ France still takes it.
 
 - And touch not the unclean thing; and I will receive you. And that is when the Lord is going to receive us. In Revelation 14:9 it says the same thing. If any man worship the beast or his image. That goes into you pledging allegiance to the white man through his unclean things. Like celebrating Independence Day. You pledge allegiance to the white man. That is the unclean thing. That is the sin.
 
-**[Leviticus 26:17](/bible/leviticus/26#v17)**  *[2:11:29]*
+**[Leviticus 26:17](/bible/leviticus/26#v17)**  *[[2:11:29](https://www.youtube.com/watch?v=14p8vV6KBfI&t=7889s)]*
 
 > <sup>[17](/bible/leviticus/26#v17)</sup> And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.
 
@@ -429,7 +429,7 @@ France still takes it.
 
 - A lot of you all think that after 1965 white people changed. You all think that white people changed. White people love us now. That is what some of you all think.
 
-**[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[2:12:01]*
+**[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[[2:12:01](https://www.youtube.com/watch?v=14p8vV6KBfI&t=7921s)]*
 
 > <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 >
@@ -443,7 +443,7 @@ France still takes it.
 
 - And he shall pass over, and offend, imputing this his power unto his god. That is what you all see happening today. He shall pass over and offend. And he is doing it in the name of white Jesus. Now we have got Jake Lang. He says he is a Christian and he is out there protesting against the Muslims, and he is doing it in the name of Jesus. And he is offending a lot of people. That is what we are reading, that he shall pass over and offend. Him and all these white Christian nationalists are offending a lot of people.
 
-**[Daniel 2:39-44](/bible/daniel/2#v39)**  *[2:19:24]*
+**[Daniel 2:39-44](/bible/daniel/2#v39)**  *[[2:19:24](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8364s)]*
 
 > <sup>[39](/bible/daniel/2#v39)</sup> And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
 >
@@ -477,7 +477,7 @@ France still takes it.
 
 - The prophecy is that a kingdom is being set up within a kingdom. That white supremacy kingdom is ruling the earth today, that white power structure. God says, I am going to set up another power structure within that power structure, which is the kingdom of heaven that shall never be destroyed. That is us, and that is what you see we are doing.
 
-**[Jeremiah 50:16](/bible/jeremiah/50#v16)**  *[2:24:49]*
+**[Jeremiah 50:16](/bible/jeremiah/50#v16)**  *[[2:24:49](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8689s)]*
 
 > <sup>[16](/bible/jeremiah/50#v16)</sup> Cut off the sower from Babylon, and him that handleth the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.
 
@@ -487,13 +487,13 @@ France still takes it.
 
 - For fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land. So what is the oppressing sword that is rising up? You see these ICE agents, and the US is becoming federalized. There is our oppressing sword being raised up against our people. Not just our people, but you see the riots taking place all over America. So I am showing you all there is an oppressing sword. That oppressing sword is the white man. White people are rising up, that iron is rising up, and that iron is saying we do not want you negroes, you Muslims or any of you people amongst us any more. The real iron is rising up. You all thought white people changed? White people did not change. They have been hiding their nature for years.
 
-**[Psalms 17:13](/bible/psalms/17#v13)**  *[2:26:48]*
+**[Psalms 17:13](/bible/psalms/17#v13)**  *[[2:26:48](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8808s)]*
 
 > <sup>[13](/bible/psalms/17#v13)</sup> Arise, O Lord, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:
 
 - Arise, O Lord, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword. So the wicked is God's sword. Who is the wicked? Esau, Edom, white supremacy. They are the oppressing sword that is going to rise up against our people. That is why the scripture says in our affliction we shall seek God early.
 
-**[Revelation 2:26-27](/bible/revelation/2#v26)**  *[2:27:46]*
+**[Revelation 2:26-27](/bible/revelation/2#v26)**  *[[2:27:46](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8866s)]*
 
 > <sup>[26](/bible/revelation/2#v26)</sup> And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
 >
@@ -505,7 +505,7 @@ France still takes it.
 
 - And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers. We are going to rule the nations with a rod of iron. And we are going to break them to shivers. That is Israelite supremacy.
 
-**[1 Kings 4:21-25](/bible/1-kings/4#v21)**  *[2:29:43]*
+**[1 Kings 4:21-25](/bible/1-kings/4#v21)**  *[[2:29:43](https://www.youtube.com/watch?v=14p8vV6KBfI&t=8983s)]*
 
 > <sup>[21](/bible/1-kings/4#v21)</sup> And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
 >
@@ -527,7 +527,7 @@ France still takes it.
 
 - And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.
 
-**[Isaiah 2:2-4](/bible/isaiah/2#v2)**  *[2:30:44]*
+**[Isaiah 2:2-4](/bible/isaiah/2#v2)**  *[[2:30:44](https://www.youtube.com/watch?v=14p8vV6KBfI&t=9044s)]*
 
 > <sup>[2](/bible/isaiah/2#v2)</sup> And it shall come to pass in the last days, that the mountain of the Lord’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
 >
@@ -559,4 +559,4 @@ With that, shalom. Most High in Christ bless.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-29-white-supremacy-and-racism)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=14p8vV6KBfI)

@@ -20,7 +20,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 
 ## Scriptures Opened
 
-**[Psalms 3:1-8](/bible/psalms/3#v1)**  *[3:30]*
+**[Psalms 3:1-8](/bible/psalms/3#v1)**  *[[3:30](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=210s)]*
 
 > <sup>[1](/bible/psalms/3#v1)</sup> Lord, how are they increased that trouble me! many are they that rise up against me.
 >
@@ -41,7 +41,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - Opening reading before prayer. Lord, how are they increased that trouble me! many are they that rise up against me. But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head.
 - I will not be afraid of ten thousands of people, that have set themselves against me round about. Salvation belongeth unto the Lord: thy blessing is upon thy people.
 
-**[Ecclesiastes 1:4-9](/bible/ecclesiastes/1#v4)**  *[9:44]*
+**[Ecclesiastes 1:4-9](/bible/ecclesiastes/1#v4)**  *[[9:44](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=584s)]*
 
 > <sup>[4](/bible/ecclesiastes/1#v4)</sup> One generation passeth away, and another generation cometh: but the earth abideth for ever.
 >
@@ -59,7 +59,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - One generation passeth away, and another generation cometh: but the earth abideth for ever. King Solomon is making a comparison here; he's not only talking about the things of heaven that God created. This is also pertaining to men and the spirits of men.
 - The thing that hath been, it is that which shall be; and there is no new thing under the sun. The same hatred, envy, and strife that we see going on today is the same thing that was back then. A lot of us are baffled by the things we see on social media, but you shouldn't be. It should just let you know that this Bible is a real book and you are in the right place.
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[12:14]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[12:14](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=734s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -67,7 +67,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - That we through patience and comfort of the scriptures might have hope. A lot of times we're uncomfortable because of trials and tribulations, but the word of God is supposed to give us comfort if we read, study, and apply. That's only for the believers; if you're moving in unbelief, you're going to be extremely uncomfortable when trials arise.
 - When the Most High raises up prophets, a new servant, or a clearer revelation of truth, corrupt leaders often recognize that their influence is fading. Instead of humbling themselves and submitting to God, they become envious and defensive, and often that envy leads to violence. They attempt to preserve their position by persecuting the very people God has chosen. In their mind the persecutions may delay God's purpose, but they cannot stop the movement. The Most High put a special spirit on our bishops to be the pioneers of this movement in today's time. We're all looking for the same goal, and that goal is the kingdom.
 
-**[Romans 8:13-14](/bible/romans/8#v13)**  *[15:34]*
+**[Romans 8:13-14](/bible/romans/8#v13)**  *[[15:34](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=934s)]*
 
 > <sup>[13](/bible/romans/8#v13)</sup> For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.
 >
@@ -78,7 +78,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - For as many as are led by the Spirit of God, they are the sons of God. Brothers, are you the sons of God? Absolutely, but we got to walk in the spirit and run from the flesh. A lot of these camps have not been walking in the spirit; they've been walking in the flesh and running from the spirit.
 - When our light, which is the keeping of the commandments and our good works, shines on their darkness, which is the walking in the flesh, envy and hatred come. That's the agony of defeat: coming to the realization that the Most High is going to put out your candle.
 
-**[John 8:44](/bible/john/8#v44)**  *[18:37]*
+**[John 8:44](/bible/john/8#v44)**  *[[18:37](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1117s)]*
 
 > <sup>[44](/bible/john/8#v44)</sup> Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 
@@ -87,7 +87,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - Christ was speaking to the Pharisees, and some of them were moved by an evil spirit: envy, pride, fear, hatred, spiritual blindness. The Pharisees were raised in the law, so they knew about Christ, because Christ is in the Old Testament; he said, Lo, I come in the volume of the book. What would possess a doctor of the law to kick against the pricks like that, except it be hatred? They were afraid that Christ was going to replace them and take their followers.
 - What does followers equal in the mind of the carnal? Money. Just like the Christian church, there's no difference with some of these camps; they added a little Israelite twist to their doctrine, but in their mind they're looking after power and money. When they see members waking up and leaving, they see those dollar bills disappearing, and they can't stand that. It's the same thing as the Pharisees.
 
-**[John 11:47-48](/bible/john/11#v47)**  *[21:47]*
+**[John 11:47-48](/bible/john/11#v47)**  *[[21:47](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1307s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 >
@@ -97,13 +97,13 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - The same thing of yesterday is the same thing we see today: if we leave these brothers alone, surely they will heap righteous followers to themselves. So let's taint them, call them names, slander them, try to roll up on them at camp and antagonize them into a physical confrontation, so we can show the whole world they ain't righteous. Guess what? That's not going to happen, because God is in charge of this movement, not man.
 - And the Romans shall come and take away both our place and nation: that's what the Pharisees feared.
 
-**[Acts 15:5](/bible/acts/15#v5)**  *[23:42]*
+**[Acts 15:5](/bible/acts/15#v5)**  *[[23:42](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1422s)]*
 
 > <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
 
 - But there rose up certain of the sect of the Pharisees which believed. Not all the Pharisees were against Christ; you did have some that believed on him. This is the great dispute of Acts 15 over circumcising and commanding to keep the law of Moses; read the whole chapter when you get a chance.
 
-**[John 3:1-2](/bible/john/3#v1)**  *[25:10]*
+**[John 3:1-2](/bible/john/3#v1)**  *[[25:10](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1510s)]*
 
 > <sup>[1](/bible/john/3#v1)</sup> There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 >
@@ -111,7 +111,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 
 - There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: the same came to Jesus by night. Why by night? It was a secret; he was a secret follower. But he believed on Christ.
 
-**[Luke 23:50-51](/bible/luke/23#v50)**  *[25:54]*
+**[Luke 23:50-51](/bible/luke/23#v50)**  *[[25:54](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1554s)]*
 
 > <sup>[50](/bible/luke/23#v50)</sup> And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:
 >
@@ -121,28 +121,28 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - Who also himself waited for the kingdom of God: he knew the kingdom of God was only going to come by the Messiah, Christ, and he accepted that. That's why he asked Pilate for the body of Christ.
 - These men had the fortitude to go against the grain, that evil movement of the Pharisees to destroy Christ and his followers, and say: what y'all doing is wrong; y'all persecuting these brothers wrongfully. And these are just the two that are mentioned; the Bible is written in an abbreviated form. We pray that same spirit falls on many of these Israelites out there who secretly see the evil in their own congregations and are biding their time until they also walk out those doors.
 
-**[Ecclesiasticus 10:2](/bible/sirach/10#v2)**  *[28:09]*
+**[Ecclesiasticus 10:2](/bible/sirach/10#v2)**  *[[28:09](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1689s)]*
 
 > <sup>[2](/bible/sirach/10#v2)</sup> As the judge of the people is himself, so are his officers; and what manner of man the ruler of the city is, such are all they that dwell therein.
 
 - As the judge of the people is himself, so are his officers. There are those who stay silent about their wicked leaders, and silence means you accept it. You want to know why you can't break down the scriptures precept upon precept, and you give foolish breakdowns like John the Baptist was evil and turned against Christ? Because your wicked leaders don't teach and are not keeping the scriptures.
 - Their mind has become spiritually dark: void of judgment, void of discernment, void of truth. And that spirit spreads like osmosis throughout all the officers and soldiers in the camp. You utter the same rhetoric as your leader, and you can't break down the scriptures, giving breakdowns like wormwood is a drink. Foolish breakdowns, because you're not moving in the spirit; you're moving in the flesh.
 
-**[Psalms 111:10](/bible/psalms/111#v10)**  *[29:37]*
+**[Psalms 111:10](/bible/psalms/111#v10)**  *[[29:37](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1777s)]*
 
 > <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 
 - The fear of the Lord is the beginning of wisdom: not breaking his Sabbath, not buying and selling wilfully on his Sabbath, not multiplying wives. The fear of the Lord is keeping his commandments.
 - A good understanding have all they that do his commandments. The Most High is going to elevate your understanding of the scripture, but that only comes with application of God's laws. Like the waters in Ezekiel, he's going to bring it to the knee, to the thigh, to the chest, causing the increase of your learning and understanding to grow. But when you're not keeping the commandments of God, that water stays stuck at the ankles and will never rise. You will never grow.
 
-**[Jude 1:16](/bible/jude/1#v16)**  *[31:15]*
+**[Jude 1:16](/bible/jude/1#v16)**  *[[31:15](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1875s)]*
 
 > <sup>[16](/bible/jude/1#v16)</sup> These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men’s persons in admiration because of advantage.
 
 - These are murmurers, complainers, walking after their own lusts. Brothers and sisters, examine yourselves and make sure we don't fall under this too, because these same spirits are in the congregation. That's why every couple of years there's a shaking of the tree; we had it in 2018 and we recently had it. The Most High is going to shake the tree, and the murmurers and gossipers get shaken out.
 - And their mouth speaketh great swelling words, having men's persons in admiration because of advantage. Why do they lack the fortitude to say, this is wrong what this guy is doing? Because they have men's persons in admiration: they want to move up. The congregation will have twenty people in it, but they want to be called a captain of a thousand. So they follow the wicked leader, murmur and repeat the same things he does, and move up in rank instead of checking him.
 
-**[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[33:09]*
+**[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[33:09](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1989s)]*
 
 > <sup>[9](/bible/isaiah/28#v9)</sup> Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
 >
@@ -152,14 +152,14 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - For precept must be upon precept, line upon line, here a little, and there a little. You want a good understanding of the Sabbath? Leviticus 23, Exodus, Nehemiah. Here a little in the Old Testament, there a little in the New Testament. That's how you understand the scriptures, not leaning on your own understanding.
 - Definition read in class: obsolescence describes something that is passing out of use because something greater, newer, or more effective has replaced it; the state of becoming old-fashioned and no longer useful, even if it still be in good working order.
 
-**[Hebrews 8:13](/bible/hebrews/8#v13)**  *[37:50]*
+**[Hebrews 8:13](/bible/hebrews/8#v13)**  *[[37:50](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=2270s)]*
 
 > <sup>[13](/bible/hebrews/8#v13)</sup> In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.
 
 - In that he saith, A new covenant, he hath made the first old. The old covenant of animal sacrifice became obsolete upon Christ's crucifixion, because he was the Lamb of God, that ultimate sacrifice for the nation of Israel, bringing in the new covenant.
 - The problem is not merely that something old is being replaced. The problem arises when people refuse to accept that God is moving forward. That's when the agony of defeat comes in: you can't accept that God is using a particular person, people, or organization for a greater purpose because they're more effective. God doesn't want the old; he wants to use the new.
 
-**[John 3:26-30](/bible/john/3#v26)**  *[39:30]*
+**[John 3:26-30](/bible/john/3#v26)**  *[[39:30](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=2370s)]*
 
 > <sup>[26](/bible/john/3#v26)</sup> And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
 >
@@ -177,7 +177,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - He that hath the bride is the bridegroom: but the friend of the bridegroom rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled. He came to fulfill his role, knowing something greater was coming to carry on.
 - He must increase, but I must decrease. The unrighteous response is the opposite: envy, fear of losing influence, accusation, slander, violence, murder, anger. That was the response of the Pharisees to Christ, completely contrary to the response of John the Baptist.
 
-**[Genesis 4:3-8](/bible/genesis/4#v3)**  *[44:05]*
+**[Genesis 4:3-8](/bible/genesis/4#v3)**  *[[44:05](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=2645s)]*
 
 > <sup>[3](/bible/genesis/4#v3)</sup> And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord.
 >
@@ -197,7 +197,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - And Cain talked with Abel his brother. What do you think was going on in those conversations? Abel was teaching, trying to correct his brother in the process of time.
 - And Cain rose up against Abel his brother, and slew him. In the process of time he allowed that wrath to accumulate and increase, and that anger became murder. When Saul tried to kill King David, that was hatred inside that manifested into actions. The Pharisees, the same thing. It's going to be the same thing today; do not be shocked. We see the buildup.
 
-**[1 John 3:11-12](/bible/1-john/3#v11)**  *[50:24]*
+**[1 John 3:11-12](/bible/1-john/3#v11)**  *[[50:24](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=3024s)]*
 
 > <sup>[11](/bible/1-john/3#v11)</sup> For this is the message that ye heard from the beginning, that we should love one another.
 >
@@ -207,7 +207,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - And wherefore slew he him? Because his own works were evil, and his brother's righteous. Cain didn't kill Abel because Abel harmed him; Cain killed Abel because his righteousness revealed Cain's sin and disobedience.
 - Brothers know if their works are evil. You know if your doctrine is garbage. But because of gain, because of money and the lust of the things thereof, you'll preach things contrary to the Bible to fulfill your lust, knowing deep down that what you're doing is wrong.
 
-**[John 3:19-21](/bible/john/3#v19)**  *[52:34]*
+**[John 3:19-21](/bible/john/3#v19)**  *[[52:34](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=3154s)]*
 
 > <sup>[19](/bible/john/3#v19)</sup> And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
 >
@@ -219,7 +219,7 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 - For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
 - But he that doeth truth, the keeping of the commandments, cometh to the light, that his deeds may be made manifest, that they are wrought in God. That's the fruits of the spirit.
 
-**[Genesis 37:3-11](/bible/genesis/37#v3)**  *[53:56]*
+**[Genesis 37:3-11](/bible/genesis/37#v3)**  *[[53:56](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=3236s)]*
 
 > <sup>[3](/bible/genesis/37#v3)</sup> Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.
 >
@@ -249,4 +249,4 @@ The stream cuts off here, mid-teaching on Joseph and his brothers. The class con
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-18-the-inevitability-of-obsolescence-agony-of-defeat-7xodukukrq)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=-7xODUkUKrQ)

@@ -32,7 +32,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 
 ## Scriptures Opened
 
-**[Matthew 22:39](/bible/matthew/22#v39)**  *[27:06]*
+**[Matthew 22:39](/bible/matthew/22#v39)**  *[[27:06](https://www.youtube.com/watch?v=xa6eyWlShws&t=1626s)]*
 
 > <sup>[39](/bible/matthew/22#v39)</sup> And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
@@ -40,7 +40,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - When you see the black on black crime and the afrophobia going on among our people, what you are seeing is that a lot of these brothers and sisters hate themselves, so they cannot love their brother. The Nigerian comes to South Africa, gets a little business, does good, and up rises jealousy and envy.
 - To our Nigerian and Ethiopian brothers seeing videos of people retaliating and saying they want South Africans out of their countries: do not fall for it. Do not play into the white man's game.
 
-**[Ecclesiasticus 18:30-31](/bible/sirach/18#v30)**  *[41:43]*
+**[Ecclesiasticus 18:30-31](/bible/sirach/18#v30)**  *[[41:43](https://www.youtube.com/watch?v=xa6eyWlShws&t=2503s)]*
 
 > <sup>[30](/bible/sirach/18#v30)</sup> Go not after thy lusts, but refrain thyself from thine appetites.
 >
@@ -50,14 +50,14 @@ Videos shown before the topic, on South Africa and Nigeria:
 - If thou givest thy soul the desires that please her, she will make thee a laughingstock to thine enemies that malign thee. Play with unclean spirits and you will be made a public laughingstock; we have seen it happen. Brothers dealing with effeminate or filthy spirits: get rid of that evil spirit and stop entertaining it, because whatever you keep feeding becomes strong enough to dominate you.
 - You are not perfect; if you are fighting something, go to somebody and counsel. The key thing is that you must be fighting it, not giving in to it.
 
-**[Ezekiel 28:3](/bible/ezekiel/28#v3)**  *[49:45]*
+**[Ezekiel 28:3](/bible/ezekiel/28#v3)**  *[[49:45](https://www.youtube.com/watch?v=xa6eyWlShws&t=2985s)]*
 
 > <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
 
 - Behold, thou art wiser than Daniel; there is no secret that they can hide from thee. There is no secret you can hide from the white man. Everything you type on these devices is recorded; nothing disappears.
 - A CIA agent said in an interview: never text or post anything, even as a joke, because it never disappears and it will be used against you in the future. Brothers, be mindful. If you are entertaining secret sins on your phone, the white man sees it, and eventually he will use it against you. And some sins men play with on these devices are crimes that will put you in prison and destroy your soul; the time to stop was when you repented. We are not playing with those things.
 
-**[Galatians 5:16-17](/bible/galatians/5#v16)**  *[53:27]*
+**[Galatians 5:16-17](/bible/galatians/5#v16)**  *[[53:27](https://www.youtube.com/watch?v=xa6eyWlShws&t=3207s)]*
 
 > <sup>[16](/bible/galatians/5#v16)</sup> This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.
 >
@@ -66,13 +66,13 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Walk in the Spirit, and ye shall not fulfil the lust of the flesh. There is a war going on inside: your flesh against your spirit, and these are contrary the one to the other.
 - You have the lusts of this world on one side and the word of God on the other, and it is a fight to do good. Whatever you feed becomes the stronger side.
 
-**[Romans 7:8](/bible/romans/7#v8)**  *[56:05]*
+**[Romans 7:8](/bible/romans/7#v8)**  *[[56:05](https://www.youtube.com/watch?v=xa6eyWlShws&t=3365s)]*
 
 > <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
 
 - Sin, taking occasion by the commandment, wrought in me all manner of concupiscence. Wrought means it worked in me. Definition read in class: concupiscence is strong desire, especially sexual desire. Paul never said which kind he battled; he said all manner, and left it open. The point is that even Paul, doing the work, had evil thoughts warring in him.
 
-**[Romans 7:21-23](/bible/romans/7#v21)**  *[58:00]*
+**[Romans 7:21-23](/bible/romans/7#v21)**  *[[58:00](https://www.youtube.com/watch?v=xa6eyWlShws&t=3480s)]*
 
 > <sup>[21](/bible/romans/7#v21)</sup> I find then a law, that, when I would do good, evil is present with me.
 >
@@ -84,7 +84,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Paul opened up about his fight. Some of you brothers are fighting and saying nothing; some are barely doing the work and entertaining the sin, and not counselling with anybody. You cannot do this fight on your own, and the leadership cannot help you if you are not speaking up. Some are not even battling any more; they gave up the fight, and when you ask who they counsel with, the answer is nobody. Then this is just a church to you.
 - Captain: Peter says these lusts war against the soul, and Esau knows it is spiritual warfare; that is why the intelligence agencies pushed pornography out there, to affect the men doing the work psychologically.
 
-**[Psalms 10:9](/bible/psalms/10#v9)**  *[1:00:48]*
+**[Psalms 10:9](/bible/psalms/10#v9)**  *[[1:00:48](https://www.youtube.com/watch?v=xa6eyWlShws&t=3648s)]*
 
 > <sup>[9](/bible/psalms/10#v9)</sup> He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
 
@@ -92,7 +92,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - He doth catch the poor, when he draweth him into his net. What is the net? The internet. The net is the trap; stay away from the net.
 - When your sins get exposed, remember Esau is used as God's sword.
 
-**[2 Esdras 16:63-65](/bible/2-esdras/16#v63)**  *[1:03:01]*
+**[2 Esdras 16:63-65](/bible/2-esdras/16#v63)**  *[[1:03:01](https://www.youtube.com/watch?v=xa6eyWlShws&t=3781s)]*
 
 > <sup>[63](/bible/2-esdras/16#v63)</sup> Surely he knoweth your inventions, and what ye think in your hearts, even them that sin, and would hide their sin.
 >
@@ -103,7 +103,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Surely he knoweth your inventions, and what ye think in your hearts. We think we can hide our sins from God and from each other; God knows every thought within us.
 - Therefore hath the Lord exactly searched out all your works, and he will put you all to shame; when your sins are brought forth, ye shall be ashamed before men, and your own sins shall be your accusers in that day. Exalt yourself with a title instead of coming humbly and confessing, and the Lord will let your sins be put out in front of everybody. The Lord can use the white man to expose us if we do not overcome; all your life is on the internet already. That is why we have to ask mercy.
 
-**[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[1:04:41]*
+**[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[[1:04:41](https://www.youtube.com/watch?v=xa6eyWlShws&t=3881s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 >
@@ -115,7 +115,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - And such were some of you. Past tense. All of those types of people were in the church of Corinth, and we all came from some lifestyle of sin before we heard this truth. But ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus. Now we are supposed to be cleansed; we have to come to that next level.
 - Why do people commit sin? A brother answered it: because sin is pleasurable. It feels good. So now it is about training yourself to hate sin, getting rid of that dopamine you feel when you commit it. Somebody sexually active their whole life comes to the truth and now has to stop; that is where abstinence comes in, and it is not easy. That is where praying and fasting come in.
 
-**[Romans 12:17-19](/bible/romans/12#v17)**  *[1:17:46]*
+**[Romans 12:17-19](/bible/romans/12#v17)**  *[[1:17:46](https://www.youtube.com/watch?v=xa6eyWlShws&t=4666s)]*
 
 > <sup>[17](/bible/romans/12#v17)</sup> Recompense to no man evil for evil. Provide things honest in the sight of all men.
 >
@@ -127,7 +127,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - If it be possible, as much as lieth in you, live peaceably with all men. Sometimes it is not possible, because somebody breaks into your house and you have to defend your family. But on your jobs, do not be walking around hating everybody; we cannot roll in that spirit. That is the spirit they are trying to paint on us.
 - Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord. Even back then there were zealots who wanted to rise up against Rome. A Christian reads the top of the passage, love everyone, and forgets the bottom: God's wrath is coming. The Lord says vengeance belongs to him; he is the one who is going to pay Esau back for slavery, the stealing, and the oppression. That is why we do not pick up weapons.
 
-**[Matthew 10:22](/bible/matthew/10#v22)**  *[1:24:51]*
+**[Matthew 10:22](/bible/matthew/10#v22)**  *[[1:24:51](https://www.youtube.com/watch?v=xa6eyWlShws&t=5091s)]*
 
 > <sup>[22](/bible/matthew/10#v22)</sup> And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.
 
@@ -138,21 +138,21 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Clip played: between 1956 and 1971 the FBI ran COINTELPRO, targeting civil rights leaders, infiltrating organizations, and assassinating leaders. Clip on the Black Panthers: the Panthers fed over 26,000 children a day with a free breakfast program the federal government later adopted, ran free clinics, and monitored police brutality, and they were the ones labeled extremists while the KKK never was. That tells you how this country interprets black empowerment. What happened to them will happen again: leaders in IUIC will be hunted, imprisoned, and some murdered. Should we pick up weapons? No: the Lord takes vengeance, and we come back with the Lord.
 - Teaching from the Panthers example: we have to become self sufficient. The time is coming when you will not be able to go to the doctor or the dentist; we will have to rely on the brothers and sisters with the skill sets, the doctors, the dentists, the farmers. Prior to integration we were self sufficient, with our own towns, farms, schools, lawyers, and the Green Book to travel by, and that is exactly why they burned it down: cursed shalt thou be in thy basket and thy store.
 
-**[2 Corinthians 10:4](/bible/2-corinthians/10#v4)**  *[1:51:13]*
+**[2 Corinthians 10:4](/bible/2-corinthians/10#v4)**  *[[1:51:13](https://www.youtube.com/watch?v=xa6eyWlShws&t=6673s)]*
 
 > <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 
 - The weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds. We are fighting a war, but the weapon is not a gun. There is a stronghold of Christianity and white Jesus on this earth, and your job as an ambassador of Christ is to pull that stronghold down as a soldier of Christ.
 - You camp leaders: if you cannot cast down an argument with the word of God, fall back and leave the mic for the soldiers who are hungry for it. If you are scared, hold post and be quiet; do not get up to teach scared and unstudied and make our King look bad. This is war, and the warfare is the word.
 
-**[Romans 9:13](/bible/romans/9#v13)**  *[1:58:57]*
+**[Romans 9:13](/bible/romans/9#v13)**  *[[1:58:57](https://www.youtube.com/watch?v=xa6eyWlShws&t=7137s)]*
 
 > <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 
 - As it is written, Jacob have I loved, but Esau have I hated. God says he loved Jacob, and God says he hated Esau. You might ask why; look at the history, look at what has been done since he came into power from the Greeks forward. The scripture puts the hatred where it belongs: it is God's judgment, not ours.
 - Video clip of Malcolm X played: "It's just a matter of the guilt complex of the American white man. Instead of eliminating the causes that create the condition of the black man in America, he tries to cover it up by accusing his accusers of teaching hate, but actually they're just exposing him for being responsible for what exists." They called Malcolm X hateful and anti Semitic the same way; it is reverse psychology, a smoke screen. When you bring up the evil that was done, the answer comes back, "You hate me."
 
-**[Malachi 1:2-4](/bible/malachi/1#v2)**  *[1:59:49]*
+**[Malachi 1:2-4](/bible/malachi/1#v2)**  *[[1:59:49](https://www.youtube.com/watch?v=xa6eyWlShws&t=7189s)]*
 
 > <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
 >
@@ -164,7 +164,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Was not Esau Jacob's brother? saith the Lord: yet I loved Jacob, and I hated Esau. Edom said, We are impoverished, but we will return and build the desolate places; that is the Renaissance, the rebirth of that rule. The Lord of hosts said, They shall build, but I will throw down; and they shall be called the border of wickedness, and the people against whom the Lord hath indignation for ever. Indignation means righteous anger.
 - So do not ask us whether we hate anybody. When we read this, we are reading what God said. We are not the judge; we are the witnesses reading the charge.
 
-**[Ecclesiasticus 33:10-15](/bible/sirach/33#v10)**  *[2:03:42]*
+**[Ecclesiasticus 33:10-15](/bible/sirach/33#v10)**  *[[2:03:42](https://www.youtube.com/watch?v=xa6eyWlShws&t=7422s)]*
 
 > <sup>[10](/bible/sirach/33#v10)</sup> And all men are from the ground, and Adam was created of earth:
 >
@@ -182,7 +182,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - As the clay is in the potter's hand, to fashion it at his pleasure, so man is in the hand of him that made him. Good is set against evil, and life against death: so is the godly against the sinner, and the sinner against the godly. Look upon all the works of the Most High: there are two and two, one against another.
 - The world shows you our people's failings on the news and calls us the evil ones. Weigh that against nations bombing countries, killing hundreds of thousands, and stealing whole resources from other lands while calling us thieves. If we are set against anybody, it is because good is set against evil; that is the scripture's frame, not personal hatred.
 
-**[Deuteronomy 23:17](/bible/deuteronomy/23#v17)**  *[2:08:42]*
+**[Deuteronomy 23:17](/bible/deuteronomy/23#v17)**  *[[2:08:42](https://www.youtube.com/watch?v=xa6eyWlShws&t=7722s)]*
 
 > <sup>[17](/bible/deuteronomy/23#v17)</sup> There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.
 
@@ -190,19 +190,19 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Many of us came from promiscuous backgrounds before this truth, brothers and sisters both; that is simply the fact of it, and it is covered next in the new creature teaching. But counsel for the men: if a sister has truly repented and changed, do not dig through her past and demand numbers. What would you do with the answer? Are you going to use it against her later? Prove one another's character now; some things you do not ask. Sisters, do not lie on your resume either: if your past carries something heavy, let the brother know what he is walking into, and let him decide.
 - The standing counsel from a couple of years back remains: if you are not a virgin, you are not marrying one of our virgins. The virgins are pure, they do not know anything; let them learn together. There is a new generation in this truth, and we have many virgin sisters and virgin brothers among us now. Ladies in waiting is for the young women; older sisters are dealt with in the regular classes.
 
-**[2 Corinthians 5:17](/bible/2-corinthians/5#v17)**  *[2:13:08]*
+**[2 Corinthians 5:17](/bible/2-corinthians/5#v17)**  *[[2:13:08](https://www.youtube.com/watch?v=xa6eyWlShws&t=7988s)]*
 
 > <sup>[17](/bible/2-corinthians/5#v17)</sup> Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
 
 - Therefore if any man be in Christ, he is a new creature: old things are passed away. Paul was a murderer; Mary Magdalene had devils cast out of her. In Christ we are all new creatures. The past is judged as the past when repentance is real.
 
-**[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[2:23:20]*
+**[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[[2:23:20](https://www.youtube.com/watch?v=xa6eyWlShws&t=8600s)]*
 
 > <sup>[7](/bible/deuteronomy/23#v7)</sup> Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
 
 - Thou shalt not abhor an Edomite, for he is thy brother: thou shalt not abhor an Egyptian, because thou wast a stranger in his land. The Egyptians oppressed us in Egypt, and Moses still said do not abhor them. What is he really telling us? The same thing as Romans 12: deal righteously with the people around you. Moses knew what was coming and gave us the one up on how to carry ourselves: this is a law, brothers, so you should not be running around saying you hate white people.
 
-**[Deuteronomy 25:17-19](/bible/deuteronomy/25#v17)**  *[2:25:18]*
+**[Deuteronomy 25:17-19](/bible/deuteronomy/25#v17)**  *[[2:25:18](https://www.youtube.com/watch?v=xa6eyWlShws&t=8718s)]*
 
 > <sup>[17](/bible/deuteronomy/25#v17)</sup> Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;
 >
@@ -213,7 +213,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Camp clip played alongside the commandment: when modern Christians quote Deuteronomy 23:7 at us, two things follow. First, quoting it at us acknowledges who the scripture is speaking about. Second, read two chapters over: remember what Amalek did unto thee by the way, how he smote the hindmost of thee, even all that were feeble behind thee, and he feared not God.
 - Therefore it shall be, when the Lord thy God hath given thee rest from all thine enemies round about, in the land which the Lord thy God giveth thee, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it. That command belongs to the kingdom, in the Lord's timing; it is his judgment written in his book, not a license for any man's hand now.
 
-**[Psalms 94:16-17](/bible/psalms/94#v16)**  *[2:33:47]*
+**[Psalms 94:16-17](/bible/psalms/94#v16)**  *[[2:33:47](https://www.youtube.com/watch?v=xa6eyWlShws&t=9227s)]*
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
 >
@@ -222,25 +222,25 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Who will rise up for me against the evildoers? Who will stand up for me against the workers of iniquity? That is what we are doing: standing up against the workers of iniquity and telling them they are wrong for the evil they are doing. That is not a hate group; that is standing up for God.
 - Unless the Lord had been my help, my soul had almost dwelt in silence. You would still be quiet if the Lord had not woken you up.
 
-**[Isaiah 43:10](/bible/isaiah/43#v10)**  *[2:35:11]*
+**[Isaiah 43:10](/bible/isaiah/43#v10)**  *[[2:35:11](https://www.youtube.com/watch?v=xa6eyWlShws&t=9311s)]*
 
 > <sup>[10](/bible/isaiah/43#v10)</sup> Ye are my witnesses, saith the Lord, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.
 
 - Ye are my witnesses, saith the Lord, and my servant whom I have chosen. We are God's witnesses. What does a witness do? Testify.
 
-**[Isaiah 8:16](/bible/isaiah/8#v16)**  *[2:35:55]*
+**[Isaiah 8:16](/bible/isaiah/8#v16)**  *[[2:35:55](https://www.youtube.com/watch?v=xa6eyWlShws&t=9355s)]*
 
 > <sup>[16](/bible/isaiah/8#v16)</sup> Bind up the testimony, seal the law among my disciples.
 
 - Bind up the testimony, seal the law among my disciples. God's witnesses teach his testimonies and his laws. There are testimonies written in this book for Edom, and it is our job to teach them. When we testify of the evil being done on this earth, that is not hatred; a witness giving testimony is not the judge's enemy, he is the court's servant.
 
-**[1 Maccabees 2:37](/bible/1-maccabees/2#v37)**  *[2:39:09]*
+**[1 Maccabees 2:37](/bible/1-maccabees/2#v37)**  *[[2:39:09](https://www.youtube.com/watch?v=xa6eyWlShws&t=9549s)]*
 
 > <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth will testify for us, that ye put us to death wrongfully.
 
 - Let us die all in our innocency: heaven and earth shall testify for us, that ye put us to death wrongfully. Our fathers said it under the Greeks, and the record repeats under every power since: heaven and earth testify for the innocent blood.
 
-**[2 Maccabees 7:17-19](/bible/2-maccabees/7#v17)**  *[2:40:23]*
+**[2 Maccabees 7:17-19](/bible/2-maccabees/7#v17)**  *[[2:40:23](https://www.youtube.com/watch?v=xa6eyWlShws&t=9623s)]*
 
 > <sup>[17](/bible/2-maccabees/7#v17)</sup> But abide a while, and behold his great power, how he will torment thee and thy seed.
 >
@@ -252,7 +252,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - We suffered these things for ourselves, having sinned against our God. The only reason our enslavement was possible is not that the enemy was so powerful; it is that we sinned against God.
 - But think not thou, that takest in hand to strive against God, that thou shalt escape unpunished. A lot of people say forget about slavery and colonization; God says none of it goes unpunished.
 
-**[Matthew 23:29-32](/bible/matthew/23#v29)**  *[2:42:46]*
+**[Matthew 23:29-32](/bible/matthew/23#v29)**  *[[2:42:46](https://www.youtube.com/watch?v=xa6eyWlShws&t=9766s)]*
 
 > <sup>[29](/bible/matthew/23#v29)</sup> Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
 >
@@ -266,13 +266,13 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets. The same argument today answers itself the same way, because the benefit of what the fathers did is still being kept. If the repentance were real, the stolen would be restored; nobody is handing the land back or making the wrong right, so the claim of innocence stands as testimony against itself.
 - Fill ye up then the measure of your fathers: the same measure the fathers filled, the children keep filling. Check it against the laws being rewritten right now.
 
-**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[2:46:57]*
+**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[2:46:57](https://www.youtube.com/watch?v=xa6eyWlShws&t=10017s)]*
 
 > <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
 - Then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming. Two things are happening there: the revealing and the destroying. The spirit of his mouth is the witnesses in the street testifying; the destroying belongs to the Lord at his coming. Our job is the revealing, nothing more.
 
-**[2 Corinthians 2:15-16](/bible/2-corinthians/2#v15)**  *[2:48:43]*
+**[2 Corinthians 2:15-16](/bible/2-corinthians/2#v15)**  *[[2:48:43](https://www.youtube.com/watch?v=xa6eyWlShws&t=10123s)]*
 
 > <sup>[15](/bible/2-corinthians/2#v15)</sup> For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
 >
@@ -281,7 +281,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish: to the one we are the savour of death unto death, and to the other the savour of life unto life.
 - Some people hear this gospel, that the Israelites are being redeemed, and they rejoice. Others hear the very same words and smell death, because the same book that opens the prison to the captive reads out the sentence on the oppressor. That is why the same teaching gets called good news on one side of the room and hate on the other.
 
-**[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[2:50:37]*
+**[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[[2:50:37](https://www.youtube.com/watch?v=xa6eyWlShws&t=10237s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 >
@@ -290,14 +290,14 @@ Videos shown before the topic, on South Africa and Nigeria:
 - The Spirit of the Lord God is upon me, to preach good tidings unto the meek, to bind up the brokenhearted, to proclaim liberty to the captives. The brokenhearted and the captives are our people; that is the gospel we carry.
 - To proclaim the acceptable year of the Lord, and the day of vengeance of our God. The same verse holds both: liberty for the captive and the day of vengeance. It goes back to Romans 12: vengeance is his, so the proclamation of it is not our hatred, it is his calendar.
 
-**[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[2:53:14]*
+**[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[[2:53:14](https://www.youtube.com/watch?v=xa6eyWlShws&t=10394s)]*
 
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 
 - Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity. The perpetual hatred in the scripture runs the other direction from the accusation. They keep asking whether we hate them; the record written here is who hated whom, and whose blood was shed.
 - In the time that their iniquity had an end: when the affliction was supposed to be over, it did not stop; new systems replaced the old ones, and our people are still marching for the same rights all these years later.
 
-**[Ezekiel 35:11-15](/bible/ezekiel/35#v11)**  *[2:56:04]*
+**[Ezekiel 35:11-15](/bible/ezekiel/35#v11)**  *[[2:56:04](https://www.youtube.com/watch?v=xa6eyWlShws&t=10564s)]*
 
 > <sup>[11](/bible/ezekiel/35#v11)</sup> Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.
 >
@@ -313,7 +313,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - On the envy: a clip was discussed where our sisters were offered large money for their genetic material and told plainly that they carry an advantage that others desire to cultivate. In our lowest state we are still what God made us; that is the envy the scripture is speaking of.
 - Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them. When they speak against this people, they speak against our God, and he takes it personally. When the whole earth rejoiceth, I will make thee desolate; and they shall know that I am the Lord. That is the Lord's own closing signature on the matter.
 
-**[Micah 2:6](/bible/micah/2#v6)**  *[3:08:07]*
+**[Micah 2:6](/bible/micah/2#v6)**  *[[3:08:07](https://www.youtube.com/watch?v=xa6eyWlShws&t=11287s)]*
 
 > <sup>[6](/bible/micah/2#v6)</sup> Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame.
 
@@ -321,7 +321,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Account read in class of Patrice Lumumba, Congo's first elected prime minister, killed in 1961 within months of telling the Belgian king to his face that colonialism was over, with the operation acknowledged in official records decades later and no one prosecuted; the teaching point is that the Congo's resources are still being taken to this day, and God saw it all.
 - They are just uncomfortable because they would rather we shut up. God tells us to reveal, so we are not going to shut up.
 
-**[Wisdom of Solomon 5:1-11](/bible/wisdom-of-solomon/5#v1)**  *[3:19:56]*
+**[Wisdom of Solomon 5:1-11](/bible/wisdom-of-solomon/5#v1)**  *[[3:19:56](https://www.youtube.com/watch?v=xa6eyWlShws&t=11996s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
 >
@@ -351,7 +351,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 - Therefore have we erred from the way of truth, and the light of righteousness hath not shined unto us. That is the confession spoken within themselves at the end: we never knew the truth. Everybody on this earth is hearing from the way of truth right now; all are being warned.
 - What hath pride profited us? or what good hath riches with our vaunting brought us? All those things pass away like a shadow, like a ship over the waves that leaves no trace, like a bird through the air.
 
-**[Wisdom of Solomon 5:14-15](/bible/wisdom-of-solomon/5#v14)**  *[3:35:55]*
+**[Wisdom of Solomon 5:14-15](/bible/wisdom-of-solomon/5#v14)**  *[[3:35:55](https://www.youtube.com/watch?v=xa6eyWlShws&t=12955s)]*
 
 > <sup>[14](/bible/wisdom-of-solomon/5#v14)</sup> For the hope of the Godly is like dust that is blown away with the wind; like a thin froth that is driven away with the storm; like as the smoke which is dispersed here and there with a tempest, and passeth away as the remembrance of a guest that tarrieth but a day.
 >
@@ -387,4 +387,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-23-they-say-we-hate-white-people)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=xa6eyWlShws)

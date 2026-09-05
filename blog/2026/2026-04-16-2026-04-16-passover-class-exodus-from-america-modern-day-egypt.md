@@ -22,7 +22,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
 ## Scriptures Opened
 
-**[Genesis 15:11-14](/bible/genesis/15#v11)**  *[12:38]*
+**[Genesis 15:11-14](/bible/genesis/15#v11)**  *[[12:38](https://www.youtube.com/watch?v=VyDEbsxgcas&t=758s)]*
 
 > <sup>[11](/bible/genesis/15#v11)</sup> And when the fowls came down upon the carcases, Abram drove them away.
 >
@@ -35,7 +35,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - An horror of great darkness fell upon Abram. What is that great horror? Abraham saw his descendants in ancient Egypt as slaves, being oppressed. Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years. Before it happened, Abraham saw it.
 - And also that nation, whom they shall serve, will I judge: that nation lets you know this is talking about back then, the nation we served in ancient Egypt. And afterward shall they come out with great substance: that is literally what happened; we came out of ancient Egypt with great substance.
 
-**[Exodus 1:1-12](/bible/exodus/1#v1)**  *[14:45]*
+**[Exodus 1:1-12](/bible/exodus/1#v1)**  *[[14:45](https://www.youtube.com/watch?v=VyDEbsxgcas&t=885s)]*
 
 > <sup>[1](/bible/exodus/1#v1)</sup> Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 >
@@ -65,7 +65,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - There rose up a new king over Egypt, which knew not Joseph, and he said unto his people, the people of the children of Israel are more and mightier than we: come on, let us deal wisely with them.
 - Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses. But the more they afflicted them, the more they multiplied and grew: under affliction, we kept multiplying.
 
-**[Exodus 3:2-10](/bible/exodus/3#v2)**  *[17:47]*
+**[Exodus 3:2-10](/bible/exodus/3#v2)**  *[[17:47](https://www.youtube.com/watch?v=VyDEbsxgcas&t=1067s)]*
 
 > <sup>[2](/bible/exodus/3#v2)</sup> And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
 >
@@ -89,7 +89,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows; and I am come down to deliver them out of the hand of the Egyptians. Do not think the Lord does not see when our people are being oppressed, and do not think God does not hear the cries.
 - Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt. God rose up a prophet: Moses is the prophet God raised up to deliver us out of ancient Egypt.
 
-**[Exodus 4:22-23](/bible/exodus/4#v22)**  *[21:48]*
+**[Exodus 4:22-23](/bible/exodus/4#v22)**  *[[21:48](https://www.youtube.com/watch?v=VyDEbsxgcas&t=1308s)]*
 
 > <sup>[22](/bible/exodus/4#v22)</sup> And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:
 >
@@ -98,7 +98,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Thus saith the Lord, Israel is my son, even my firstborn. Why the firstborn? Because the firstborn gets the inheritance.
 - Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn. That is what ended up happening: the Lord killed every firstborn in Egypt, including Pharaoh's firstborn.
 
-**[Exodus 12:1-17](/bible/exodus/12#v1)**  *[22:59]*
+**[Exodus 12:1-17](/bible/exodus/12#v1)**  *[[22:59](https://www.youtube.com/watch?v=VyDEbsxgcas&t=1379s)]*
 
 > <sup>[1](/bible/exodus/12#v1)</sup> And the Lord spake unto Moses and Aaron in the land of Egypt, saying,
 >
@@ -143,7 +143,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - This day shall be unto you for a memorial; and ye shall keep it a feast to the Lord throughout your generations; ye shall keep it a feast by an ordinance for ever. That is why we are here today: we keep it as a feast throughout all our generations.
 - Seven days shall ye eat unleavened bread; whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel. In the first day there shall be an holy convocation: no manner of work shall be done. Those of you that have it in your power, get that day off; put it on the calendar and let the boss know.
 
-**[Deuteronomy 26:8-9](/bible/deuteronomy/26#v8)**  *[33:52]*
+**[Deuteronomy 26:8-9](/bible/deuteronomy/26#v8)**  *[[33:52](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2032s)]*
 
 > <sup>[8](/bible/deuteronomy/26#v8)</sup> And the Lord brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:
 >
@@ -151,7 +151,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
 - The Lord brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders. Understand that great terribleness: he drowned the Egyptians in the sea, he killed all the firstborn, he brought darkness on the land, he brought plague after plague on the Egyptians to make them let us go from slavery.
 
-**[Matthew 26:17-21](/bible/matthew/26#v17)**  *[35:46]*
+**[Matthew 26:17-21](/bible/matthew/26#v17)**  *[[35:46](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2146s)]*
 
 > <sup>[17](/bible/matthew/26#v17)</sup> Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?
 >
@@ -166,7 +166,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - On the first day of the feast of unleavened bread the disciples came to Christ saying, Where wilt thou that we prepare for thee to eat the passover? Christ kept the Passover; the disciples made ready the lamb and the unleavened bread.
 - When the even was come, he sat down with the twelve, and as they did eat: they ate the Passover dinner. They made ready on the fourteenth, and when the evening was come, that is the fifteenth.
 
-**[Matthew 26:26-29](/bible/matthew/26#v26)**  *[37:37]*
+**[Matthew 26:26-29](/bible/matthew/26#v26)**  *[[37:37](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2257s)]*
 
 > <sup>[26](/bible/matthew/26#v26)</sup> And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
 >
@@ -189,13 +189,13 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     For even Christ our passover is sacrificed for us. He died for our sins, so you do not have to kill a lamb and put blood over the doorpost so you do not die. You believe in Christ, you keep the commandments, we come together, we break bread and drink wine: you are under the new covenant.
 
-**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[42:26]*
+**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[42:26](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2546s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 
 - When we came out of ancient Egypt, we went into a covenant with the Lord, and he gave us commandments to keep. If thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes, all these curses shall come upon thee, and overtake thee. If you do not keep my commandments, curses will come upon you, and those curses will destroy you.
 
-**[Deuteronomy 31:26-29](/bible/deuteronomy/31#v26)**  *[43:26]*
+**[Deuteronomy 31:26-29](/bible/deuteronomy/31#v26)**  *[[43:26](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2606s)]*
 
 > <sup>[26](/bible/deuteronomy/31#v26)</sup> Take this book of the law, and put it in the side of the ark of the covenant of the Lord your God, that it may be there for a witness against thee.
 >
@@ -216,7 +216,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     Ye shall soon utterly perish from off the land; and the Lord shall scatter you among the nations, and ye shall be left few in number among the heathen. Moses saw the Israelites scattered throughout the four corners of the earth.
 
-**[2 Esdras 14:3-5](/bible/2-esdras/14#v3)**  *[48:06]*
+**[2 Esdras 14:3-5](/bible/2-esdras/14#v3)**  *[[48:06](https://www.youtube.com/watch?v=VyDEbsxgcas&t=2886s)]*
 
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
@@ -227,7 +227,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt: and I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season. That long season was forty days and forty nights.
 - And told him many wondrous things, and shewed him the secrets of the times, and the end. Moses understood the secrets of the times: that is why Moses could write Genesis, in the beginning; God showed him those secrets. And Moses saw the end. He saw America; he saw the transatlantic slave trade; he saw his people as slaves here; and he saw America being destroyed, and he wrote about it.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[50:22]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[50:22](https://www.youtube.com/watch?v=VyDEbsxgcas&t=3022s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
@@ -242,7 +242,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     Fear ye not, stand still, and see the salvation of the Lord: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever. The scripture already said we would never see those Egyptians again; so the Egypt of Deuteronomy 28:68 cannot be ancient Egypt.
 
-**[Revelation 11:8](/bible/revelation/11#v8)**  *[56:35]*
+**[Revelation 11:8](/bible/revelation/11#v8)**  *[[56:35](https://www.youtube.com/watch?v=VyDEbsxgcas&t=3395s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
@@ -263,7 +263,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     Upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH. That great city is mystery Babylon: America, the greatest country on this earth.
 
-**[Deuteronomy 28:27-29](/bible/deuteronomy/28#v27)**  *[1:04:04]*
+**[Deuteronomy 28:27-29](/bible/deuteronomy/28#v27)**  *[[1:04:04](https://www.youtube.com/watch?v=VyDEbsxgcas&t=3844s)]*
 
 > <sup>[27](/bible/deuteronomy/28#v27)</sup> The Lord will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed.
 >
@@ -280,7 +280,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee. The diseases of Egypt themselves are named among the curses.
 
-**[Exodus 1:9-14](/bible/exodus/1#v9)**  *[1:10:22]*
+**[Exodus 1:9-14](/bible/exodus/1#v9)**  *[[1:10:22](https://www.youtube.com/watch?v=VyDEbsxgcas&t=4222s)]*
 
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
@@ -322,7 +322,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you. That is what grieved means: the ones that hate us have reigned over us, in Egypt and in America.
 
-**[Exodus 1:15-16](/bible/exodus/1#v15)**  *[1:35:10]*
+**[Exodus 1:15-16](/bible/exodus/1#v15)**  *[[1:35:10](https://www.youtube.com/watch?v=VyDEbsxgcas&t=5710s)]*
 
 > <sup>[15](/bible/exodus/1#v15)</sup> And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:
 >
@@ -337,7 +337,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     Cursed shall be the fruit of thy body. The fruit of our body is our children. In ancient Egypt the midwives were commanded to kill the male babies; today the fruit of the body is cursed through abortion and through the systems set up against our sons.
 
-**[Exodus 2:11-14](/bible/exodus/2#v11)**  *[1:39:50]*
+**[Exodus 2:11-14](/bible/exodus/2#v11)**  *[[1:39:50](https://www.youtube.com/watch?v=VyDEbsxgcas&t=5990s)]*
 
 > <sup>[11](/bible/exodus/2#v11)</sup> And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
 >
@@ -350,7 +350,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Moses went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren; and he slew the Egyptian. Some of you might say Moses was a murderer; he did not kill out of hatred. What Moses did is the spirit the brothers had in the time of the Black Panthers, when racist police were killing our people; there are men locked up right now as prisoners of war from that era. We do not do that today, but that is the spirit Moses was moving in.
 - The second day two men of the Hebrews strove together, and the one doing wrong said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? So Moses was out; he had to flee. You try to help our people and they will turn on you just that quick.
 
-**[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[1:42:26]*
+**[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[1:42:26](https://www.youtube.com/watch?v=VyDEbsxgcas&t=6146s)]*
 
 > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
 >
@@ -361,14 +361,14 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Among these nations shalt thou find no ease; the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind. A trembling heart because we are scared for our lives: same thing in ancient Egypt, same thing in this Egypt.
 - And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life. You do not know if you will live today or die tomorrow. That is the power the white man had over our life, and that is the power the ancient Egyptians had over our life. That is how heavy the oppression was.
 
-**[Genesis 43:32](/bible/genesis/43#v32)**  *[1:43:50]*
+**[Genesis 43:32](/bible/genesis/43#v32)**  *[[1:43:50](https://www.youtube.com/watch?v=VyDEbsxgcas&t=6230s)]*
 
 > <sup>[32](/bible/genesis/43#v32)</sup> And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.
 
 - They set on for him by himself, and for them by themselves, and for the Egyptians which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians. There was segregation in ancient Egypt.
 - The same way in America the white man did not want you eating in his restaurants; you ordered your food from the back. The same spirit that was in ancient Egypt. And we lived apart in Goshen; we did not live amongst the Egyptians; we went and worked and served them.
 
-**[Numbers 11:4-6](/bible/numbers/11#v4)**  *[1:46:48]*
+**[Numbers 11:4-6](/bible/numbers/11#v4)**  *[[1:46:48](https://www.youtube.com/watch?v=VyDEbsxgcas&t=6408s)]*
 
 > <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 >
@@ -389,7 +389,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     After the doings of the land of Egypt, wherein ye dwelt, shall ye not do. Why did God say that? Because we learned the Egyptian customs while we were there. The same way here in America you learned the names of the week, named after their gods; that is idolatry. Everything you learned in Egypt, forget it. It is going to be the same when we are delivered up out of here.
 
-**[Hebrews 11:24-25](/bible/hebrews/11#v24)**  *[1:50:28]*
+**[Hebrews 11:24-25](/bible/hebrews/11#v24)**  *[[1:50:28](https://www.youtube.com/watch?v=VyDEbsxgcas&t=6628s)]*
 
 > <sup>[24](/bible/hebrews/11#v24)</sup> By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
 >
@@ -404,7 +404,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     The officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten. The taskmasters set officers of our own people over us. In America those are called house negroes; in ancient Egypt they were called officers. Some of them had a good living, until the beatings came to them too.
 
-**[Jeremiah 23:7-8](/bible/jeremiah/23#v7)**  *[1:55:15]*
+**[Jeremiah 23:7-8](/bible/jeremiah/23#v7)**  *[[1:55:15](https://www.youtube.com/watch?v=VyDEbsxgcas&t=6915s)]*
 
 > <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
 >
@@ -413,7 +413,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt. The day is coming when what we are celebrating tonight will no longer be the deliverance we speak of.
 - But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land. The north country is talking about mystery Babylon the great, spiritual Egypt; north of Jerusalem was Babylon. God is going to deliver us from here and put us back in our own land.
 
-**[Deuteronomy 29:2-5](/bible/deuteronomy/29#v2)**  *[2:00:04]*
+**[Deuteronomy 29:2-5](/bible/deuteronomy/29#v2)**  *[[2:00:04](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7204s)]*
 
 > <sup>[2](/bible/deuteronomy/29#v2)</sup> And Moses called unto all Israel, and said unto them, Ye have seen all that the Lord did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
 >
@@ -426,7 +426,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Ye have seen all that the Lord did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land; the great temptations, the signs, and those great miracles. You saw the sea open up; yet the Lord hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day. And they still did not want to repent.
 - I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot. Imagine wearing the same clothes forty years and they never got old. That is something spiritual right there.
 
-**[Deuteronomy 29:10-15](/bible/deuteronomy/29#v10)**  *[2:01:23]*
+**[Deuteronomy 29:10-15](/bible/deuteronomy/29#v10)**  *[[2:01:23](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7283s)]*
 
 > <sup>[10](/bible/deuteronomy/29#v10)</sup> Ye stand this day all of you before the Lord your God; your captains of your tribes, your elders, and your officers, with all the men of Israel,
 >
@@ -443,7 +443,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Ye stand this day all of you before the Lord your God: your captains, your elders, your officers, your little ones, your wives, from the hewer of thy wood unto the drawer of thy water; that thou shouldest enter into covenant with the Lord thy God.
 - Neither with you only do I make this covenant and this oath; but also with him that is not here with us this day. Who is that talking about? Us, in the future. You cannot say, Moses, I was not there when the covenant was made. Moses said the covenant is not just for those standing before me; it is for your descendants, those that are not with us today.
 
-**[Deuteronomy 29:16-21](/bible/deuteronomy/29#v16)**  *[2:03:17]*
+**[Deuteronomy 29:16-21](/bible/deuteronomy/29#v16)**  *[[2:03:17](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7397s)]*
 
 > <sup>[16](/bible/deuteronomy/29#v16)</sup> (For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;
 >
@@ -463,7 +463,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven. Any of our people that hear the words of this covenant and reject it, the Lord says he will blot their name out of the book.
 - And the Lord shall separate him unto evil out of all the tribes of Israel. This is something heavy: this is talking about judgment in the future.
 
-**[Deuteronomy 29:22-29](/bible/deuteronomy/29#v22)**  *[2:10:16]*
+**[Deuteronomy 29:22-29](/bible/deuteronomy/29#v22)**  *[[2:10:16](https://www.youtube.com/watch?v=VyDEbsxgcas&t=7816s)]*
 
 > <sup>[22](/bible/deuteronomy/29#v22)</sup> So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the Lord hath laid upon it;
 >
@@ -502,7 +502,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     Many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. When you die you go to sleep, yes; but Christ has the power to wake you up: some to everlasting life, and some to shame.
 
-**[Revelation 18:1-2](/bible/revelation/18#v1)**  *[2:20:50]*
+**[Revelation 18:1-2](/bible/revelation/18#v1)**  *[[2:20:50](https://www.youtube.com/watch?v=VyDEbsxgcas&t=8450s)]*
 
 > <sup>[1](/bible/revelation/18#v1)</sup> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 >
@@ -517,7 +517,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
     For fire shall come upon her from the Everlasting, long to endure; and she shall be inhabited of devils for a great time. The she that is inhabited by devils is America. That great time goes into the thousand years; Revelation 20 goes into when hell gives up the dead and everything is destroyed.
 
-**[2 Esdras 9:11-12](/bible/2-esdras/9#v11)**  *[2:23:34]*
+**[2 Esdras 9:11-12](/bible/2-esdras/9#v11)**  *[[2:23:34](https://www.youtube.com/watch?v=VyDEbsxgcas&t=8614s)]*
 
 > <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
@@ -526,7 +526,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - They that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it: you hated God's laws while the place of repentance was open. That place of repentance is open today.
 - The same must know it after death by pain. After you die, you are going to understand God's laws by pain. That shows Christ has power over your spirit after you die. He said do not fear him that can only destroy the flesh; fear him that has power over the soul. If our people do not repent, they will feel pain after death.
 
-**[Deuteronomy 30:1-7](/bible/deuteronomy/30#v1)**  *[2:25:37]*
+**[Deuteronomy 30:1-7](/bible/deuteronomy/30#v1)**  *[[2:25:37](https://www.youtube.com/watch?v=VyDEbsxgcas&t=8737s)]*
 
 > <sup>[1](/bible/deuteronomy/30#v1)</sup> And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the Lord thy God hath driven thee,
 >
@@ -548,20 +548,20 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart. He is going to take away that stony heart, that wicked mind; we are going to really love the Lord and never rebel against him again.
 - And the Lord thy God will put all these curses upon thine enemies, and on them that hate thee. All the curses that we went through are going on our enemies: the yokes of iron on their necks, them at the bottom and us at the top.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[2:31:24]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[2:31:24](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9084s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
 - I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early. The Lord went back to the heavens until we acknowledge what we did wrong, the offense that put us in the situation we are in right now.
 - A lot of you are comfortable here in America, but affliction is about to be turned up. After the 60s we got civil rights, and all the liberal things we got here in America, they are taking away; they are taking it back. God says in your affliction, you will seek me early.
 
-**[Isaiah 19:1](/bible/isaiah/19#v1)**  *[2:33:04]*
+**[Isaiah 19:1](/bible/isaiah/19#v1)**  *[[2:33:04](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9184s)]*
 
 > <sup>[1](/bible/isaiah/19#v1)</sup> The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 
 - The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt. Why is the Lord coming into Egypt? The new Passover: the same way he came into Egypt the first time to deliver us, he is coming into Egypt again. This is not ancient Egypt; this is the spiritual Egypt we are in right now, mystery Babylon the great. And the idols of Egypt shall be moved at his presence: all the idols they have over here will be destroyed.
 
-**[Isaiah 19:18-22](/bible/isaiah/19#v18)**  *[2:34:08]*
+**[Isaiah 19:18-22](/bible/isaiah/19#v18)**  *[[2:34:08](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9248s)]*
 
 > <sup>[18](/bible/isaiah/19#v18)</sup> In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the Lord of hosts; one shall be called, The city of destruction.
 >
@@ -579,7 +579,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - And he shall send them a saviour, and a great one, and he shall deliver them. He is going to send Christ. Christ is coming back to this earth to deliver us from spiritual Egypt. That is why we read earlier: it shall no more be said, The Lord liveth that delivered the children of Israel from the land of Egypt, because the children of Israel will be delivered from mystery Babylon the great.
 - And the Lord shall smite Egypt: he shall smite and heal it. The smiting goes into the affliction; the healing is because we are going to change. As God brings the plagues on Babylon, a lot of our people will change.
 
-**[2 Esdras 15:5-12](/bible/2-esdras/15#v5)**  *[2:38:26]*
+**[2 Esdras 15:5-12](/bible/2-esdras/15#v5)**  *[[2:38:26](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9506s)]*
 
 > <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
 >
@@ -603,7 +603,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before. As before: letting you know this is not ancient Egypt. The same way I destroyed ancient Egypt and smote them with plagues, I am going to do the same thing to this spiritual Egypt that my people were slaves in. This is the new Exodus.
 - And will destroy all the land thereof. Ancient Egypt's land was not destroyed; this is mystery Babylon. Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it.
 
-**[Baruch 4:25-37](/bible/baruch/4#v25)**  *[2:42:56]*
+**[Baruch 4:25-37](/bible/baruch/4#v25)**  *[[2:42:56](https://www.youtube.com/watch?v=VyDEbsxgcas&t=9776s)]*
 
 > <sup>[25](/bible/baruch/4#v25)</sup> My children, suffer patiently the wrath that is come upon you from God: for thine enemy hath persecuted thee; but shortly thou shalt see his destruction, and shalt tread upon his neck.
 >
@@ -638,7 +638,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - Miserable are they that afflicted thee, and rejoiced at thy fall: everyone that afflicted us and took us as slaves. Miserable are the cities which thy children served: every city we served hard bondage in, misery is coming to every last one of them, including this one. Miserable is she that received thy sons: for as she rejoiced at thy ruin, so shall she be grieved for her own desolation. Her pride shall be turned into mourning, for fire shall come upon her from the Everlasting, long to endure, and she shall be inhabited of devils for a great time.
 - O Jerusalem, look about thee toward the east, and behold the joy that cometh unto thee from God. Lo, thy sons come, whom thou sentest away: they come gathered together from the east to the west, rejoicing in the glory of God.
 
-**[Romans 10:14-15](/bible/romans/10#v14)**  *[3:04:20]*
+**[Romans 10:14-15](/bible/romans/10#v14)**  *[[3:04:20](https://www.youtube.com/watch?v=VyDEbsxgcas&t=11060s)]*
 
 > <sup>[14](/bible/romans/10#v14)</sup> How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
 >
@@ -662,4 +662,4 @@ Closing reading: 1 Corinthians 11:23-30, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-16-passover-class-exodus-from-america-modern-day-egypt)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=VyDEbsxgcas)

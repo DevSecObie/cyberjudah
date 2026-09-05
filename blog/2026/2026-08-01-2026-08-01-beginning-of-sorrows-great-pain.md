@@ -40,7 +40,7 @@ The surge at Ceuta:
 
 ## Scriptures Opened
 
-**[Deuteronomy 28:60-61](/bible/deuteronomy/28#v60)**  *[30:42]*
+**[Deuteronomy 28:60-61](/bible/deuteronomy/28#v60)**  *[[30:42](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=1842s)]*
 
 > <sup>[60](/bible/deuteronomy/28#v60)</sup> Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee.
 >
@@ -50,7 +50,7 @@ The surge at Ceuta:
 - Also every sickness, and every plague, which is not written in the book of this law. What sickness and plague is that? If it is not written in the law and our forefathers never knew about it back then, it means it is something new, something that was going to be created. He is talking about man-made sicknesses and plagues.
 - Like what? Like Ebola, like HIV and AIDS, like the coronavirus. All of those things came through gain of function research; a lot of these diseases were created by Edom. To do what? To kill us, to destroy us. Them will the Lord bring upon thee, until thou be destroyed. That is a curse the Lord said would fall upon us.
 
-**[Matthew 16:1-3](/bible/matthew/16#v1)**  *[33:10]*
+**[Matthew 16:1-3](/bible/matthew/16#v1)**  *[[33:10](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=1990s)]*
 
 > <sup>[1](/bible/matthew/16#v1)</sup> The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 >
@@ -61,7 +61,7 @@ The surge at Ceuta:
 - When did the beginning of sorrows start? Christ told the Pharisees and Sadducees: when it is evening, ye say it will be fair weather, for the sky is red; and in the morning, foul weather today, for the sky is red and lowring. You go outside, look at the sky, and you can tell it is going to rain today.
 - O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times? We must be able to discern the signs of the times. The Most High gave us signs to look for so we would know what time we are living in. If you are able to look at the signs of the sky and read them, you should be able to watch the signs of the time and read that also.
 
-**[2 Esdras 9:1-8](/bible/2-esdras/9#v1)**  *[35:41]*
+**[2 Esdras 9:1-8](/bible/2-esdras/9#v1)**  *[[35:41](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=2141s)]*
 
 > <sup>[1](/bible/2-esdras/9#v1)</sup> He answered me then, and said, Measure thou the time diligently in itself: and when thou seest part of the signs past, which I have told thee before,
 >
@@ -84,13 +84,13 @@ The surge at Ceuta:
 - Like as all that is made in the world hath a beginning and an end, even so the times of the Highest have plain beginnings in wonder and powerful works, and endings in effects and signs. Before this earth ends you are going to see a lot of signs and effects. There will be sorrows, there will be pain, things you cannot even imagine happening on this earth.
 - And every one that shall be saved, and shall be able to escape by his works: by you keeping the commandments, by you doing what is right, by you dealing right with your brothers. And by faith: by you believing in the Lord. If you have faith and works, the Lord will preserve you from the said perils, the dangers, those sorrows that are coming upon the earth, and you shall see his salvation in his land and within his borders: for we were sanctified for the Lord from the beginning.
 
-**[Genesis 15:13](/bible/genesis/15#v13)**  *[42:42]*
+**[Genesis 15:13](/bible/genesis/15#v13)**  *[[42:42](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=2562s)]*
 
 > <sup>[13](/bible/genesis/15#v13)</sup> And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
 
 - The Lord told Abram: know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years. How long did the prophecy say we would be in Egypt, serving the Egyptians? Four hundred years.
 
-**[Exodus 12:40-41](/bible/exodus/12#v40)**  *[43:29]*
+**[Exodus 12:40-41](/bible/exodus/12#v40)**  *[[43:29](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=2609s)]*
 
 > <sup>[40](/bible/exodus/12#v40)</sup> Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.
 >
@@ -98,7 +98,7 @@ The surge at Ceuta:
 
 - Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years. So the prophecy said 400 years, but we came out at 430. Is the Bible contradicting itself? No. When the Lord is dealing with his salvation, his time is his time: no man knoweth the day or the hour.
 
-**[Exodus 3:6-7](/bible/exodus/3#v6)**  *[44:50]*
+**[Exodus 3:6-7](/bible/exodus/3#v6)**  *[[44:50](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=2690s)]*
 
 > <sup>[6](/bible/exodus/3#v6)</sup> Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.
 >
@@ -107,7 +107,7 @@ The surge at Ceuta:
 - When the Lord came unto Moses he said, I am the God of Abraham, the God of Isaac, and the God of Jacob. And the Lord said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows.
 - So when we were in Egypt, God came down and saw what the Egyptians were doing to us. He heard their cry. He knew their sorrows. What was taking place? He was visiting us in Egypt, and he was making preparation to deliver us out of Egypt. After 400 years, the Lord came, saw our affliction, and started making preparation to deliver us from ancient Egypt.
 
-**[Revelation 11:8](/bible/revelation/11#v8)**  *[46:59]*
+**[Revelation 11:8](/bible/revelation/11#v8)**  *[[46:59](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=2819s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
@@ -115,7 +115,7 @@ The surge at Ceuta:
 - Now examine how long we have been here as slaves in America: over 400 years. When was the 400 year mark? 2019. And right after the 400 year mark, what happened? You all saw the world change after 2019. COVID-19, and the world shut down for two years. The Russia and Ukraine war began, and millions are dead. The Congo. Palestine destroyed after October 7th, 2023, then the war with Lebanon, then the war with Iran. White people saying they do not want migrants in their country any more; riots; January 6th. Everything in America has changed; everything in this world has changed.
 - What is happening after that 400 years? The Lord is visiting the earth. The Bible calls it something: the beginning of sorrows. It is just the beginning, because he has begun to visit the earth. I am not saying we are going to be here 430 years; but what I can tell you is that we are living in the beginning of sorrows. The same way in ancient Egypt, after 400 years the Lord came down, started visiting, saw the affliction, and made preparation to deliver us out; it is the same way here in America. The Lord is putting things in place to destroy this place and deliver us up out of here. All the wars you see taking place is God making preparation to deliver us up out of here.
 
-**[2 Esdras 15:5-11](/bible/2-esdras/15#v5)**  *[54:06]*
+**[2 Esdras 15:5-11](/bible/2-esdras/15#v5)**  *[[54:06](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=3246s)]*
 
 > <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
 >
@@ -136,7 +136,7 @@ The surge at Ceuta:
 - For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled: all the hurtful works they have committed here in America are fulfilled. Therefore saith the Lord, I will hold my tongue no more as touching their wickedness. Behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually: this is going into them killing us. Therefore, saith the Lord, I will surely avenge them.
 - Behold, my people is led as a flock to the slaughter: in the future we will be led as a flock to the slaughter here in Babylon. I will not suffer them now to dwell in the land of Egypt: remember, America is spiritual Egypt. But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before. The same way he smote Egypt with plagues in the past, he is going to do it again to this spiritual Egypt, after that 400 years. We could be here another 15 years, another 20 years; but just know the time we are living in is when the Lord has begun to visit the earth.
 
-**[Matthew 24:3-8](/bible/matthew/24#v3)**  *[1:00:32]*
+**[Matthew 24:3-8](/bible/matthew/24#v3)**  *[[1:00:32](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=3632s)]*
 
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
 >
@@ -156,7 +156,7 @@ The surge at Ceuta:
 - For nation shall rise against nation, and kingdom against kingdom. We are seeing that right now. And there shall be famines: we are seeing famines all over the earth because of these wars, and the famine is going to get worse, because of the strait of Hormuz being closed, and the Red Sea; and the fertilizer that comes from oil that they use on the crops. The famine is going to get worse in the next couple of years all over the world.
 - And pestilences: that is Ebola, that is the coronavirus. And earthquakes in divers places. When you see the pestilence, the earthquakes, and a bunch of wars, what is it called? All these are the beginning of sorrows. When you see these things, it is just the beginning.
 
-**[2 Esdras 16:16-21](/bible/2-esdras/16#v16)**  *[1:09:57]*
+**[2 Esdras 16:16-21](/bible/2-esdras/16#v16)**  *[[1:09:57](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=4197s)]*
 
 > <sup>[16](/bible/2-esdras/16#v16)</sup> Like as an arrow which is shot of a mighty archer returneth not backward: even so the plagues that shall be sent upon earth shall not return again.
 >
@@ -179,7 +179,7 @@ The surge at Ceuta:
 - Nor be always mindful of the scourges: because it happens on one side of the world, then it stops, then it happens on another side, like a woman in travail. The same way a lot of you get up in the morning and do not think about what is going on in Iran or in the Congo, because you are comfortable. You have a roof, you are safe. It is not going to be like that all the time.
 - Behold, victuals shall be so good cheap upon earth, that they shall think themselves to be in good case. Food is cheap, clothing is cheap here in America; that is why you think you are good. But what is happening to the prices of food? Going up. The prices on everything are going to get very, very high. Those of you that have money right now, you better be buying and storing up.
 
-**[Revelation 6:7-10](/bible/revelation/6#v7)**  *[1:25:04]*
+**[Revelation 6:7-10](/bible/revelation/6#v7)**  *[[1:25:04](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=5104s)]*
 
 > <sup>[7](/bible/revelation/6#v7)</sup> And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
 >
@@ -195,7 +195,7 @@ The surge at Ceuta:
 - So this is letting you know who will be responsible for all the war, all the famine, and all the death that is going to take place on the earth: America. The fourth seal is the beginning of sorrows; it is America turning back into the oppressor, the king of Babylon.
 - Then the fifth seal: I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held. And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth? The fifth seal is the saints being killed; it is us being killed here in America, crying out for vengeance. That is the seal after the one we are in now.
 
-**[Isaiah 14:3-11, 16-19](/bible/isaiah/14#v3)**  *[1:31:47]*
+**[Isaiah 14:3-11, 16-19](/bible/isaiah/14#v3)**  *[[1:31:47](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=5507s)]*
 
 > <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
 >
@@ -234,14 +234,14 @@ The surge at Ceuta:
 - That opened not the house of his prisoners: we are his prisoners, and he will never let go. A lot of you think you are free; you are not free; you were never free.
 - All the kings of the nations lie in glory, every one in his own house: after this, every nation in its own land. But thou art cast out of thy grave like an abominable branch: this place will be destroyed and cast out.
 
-**[Jeremiah 51:7](/bible/jeremiah/51#v7)**  *[1:42:51]*
+**[Jeremiah 51:7](/bible/jeremiah/51#v7)**  *[[1:42:51](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=6171s)]*
 
 > <sup>[7](/bible/jeremiah/51#v7)</sup> Babylon hath been a golden cup in the Lord’s hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.
 
 - Babylon hath been a golden cup in the Lord's hand, that made all the earth drunken. America is that golden cup in the Lord's hand. The nations have drunken of her wine; therefore the nations are mad. Why are the nations mad? Because they drank of that wine, and that wine is going into oppression, affliction, war, judgment, death, famine, destruction, America dealing unjustly with all nations.
 - God used ancient Babylon to bring judgment on all the nations back then, including us. The same way the Lord used ancient Babylon, he is going to use America today, and America is going to bring death and destruction and judgment on all nations. And who is using America to do that? The Lord. Who is sending the plagues on the earth? The Lord. Remember, the Most High rules in the kingdom of men.
 
-**[Jeremiah 25:15-16](/bible/jeremiah/25#v15)**  *[1:46:11]*
+**[Jeremiah 25:15-16](/bible/jeremiah/25#v15)**  *[[1:46:11](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=6371s)]*
 
 > <sup>[15](/bible/jeremiah/25#v15)</sup> For thus saith the Lord God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.
 >
@@ -250,7 +250,7 @@ The surge at Ceuta:
 - The Lord told Jeremiah, take the wine cup of this fury at my hand, and cause all the nations to whom I send thee to drink it. So when the Lord says Babylon has been a golden cup in his hand, that cup is going into the Lord's fury. It is going into the fourth seal: America bringing death, famine, and destruction on the earth.
 - And they shall drink, and be moved, and be mad, because of the sword that I will send among them. How did the Lord send the sword amongst all nations back then? He used Babylon. Babylon came and conquered Egypt; Babylon destroyed us; Babylon conquered all those lands. The same way God used ancient Babylon as his cup and as his sword to bring judgment on the whole earth, Mystery Babylon the great holds that golden cup today, and they are bringing forth the fury, death, and destruction on all nations. Their brothers in Europe are going to feel it too.
 
-**[Revelation 18:1-4](/bible/revelation/18#v1)**  *[1:49:45]*
+**[Revelation 18:1-4](/bible/revelation/18#v1)**  *[[1:49:45](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=6585s)]*
 
 > <sup>[1](/bible/revelation/18#v1)</sup> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 >
@@ -265,7 +265,7 @@ The surge at Ceuta:
 - And the merchants of the earth are waxed rich through the abundance of her delicacies: the nations are already rich. China is rich; Saudi Arabia is rich. Look how beautiful China is right now; they got like that in the last 40 to 60 years by trading with America. So the time for them to get rich has already passed; now they are rebelling against America.
 - And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. Is it talking about leaving the country? No. It is saying separate yourself from the lies being pushed here in Babylon. There are plagues coming here to America, and you do not want to receive of them. Get rid of the Christmas, get rid of the Easter, stop following Christianity. Jesus Christ was not a white man. Come out of all of these lies that were taught to you in slavery.
 
-**[Micah 4:10](/bible/micah/4#v10)**  *[2:03:47]*
+**[Micah 4:10](/bible/micah/4#v10)**  *[[2:03:47](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=7427s)]*
 
 > <sup>[10](/bible/micah/4#v10)</sup> Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the Lord shall redeem thee from the hand of thine enemies.
 
@@ -274,7 +274,7 @@ The surge at Ceuta:
 - Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail. A woman in travail is bringing forth a baby: as the time gets closer, the pain increases, it gets stronger, and it comes closer together. Remember back in the day it would be a couple of years before some war popped off. After 2019, every year something crazy is happening; every month; matter of fact, every week.
 - For now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered. Right here in Babylon we are going to be delivered. The Lord is going to deliver us here in Babylon.
 
-**[2 Esdras 16:36-46](/bible/2-esdras/16#v36)**  *[2:05:51]*
+**[2 Esdras 16:36-46](/bible/2-esdras/16#v36)**  *[[2:05:51](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=7551s)]*
 
 > <sup>[36](/bible/2-esdras/16#v36)</sup> Behold, the word of the Lord, receive it: believe not the gods of whom the Lord spake.
 >
@@ -305,7 +305,7 @@ The surge at Ceuta:
 - He that selleth, let him be as he that fleeth away; he that buildeth, as he that shall not dwell therein; he that soweth, as if he should not reap. You build a house, you have to look at it as, I might not live in this house. You have a farm and you are planting; you might not be there to reap it, because you had to flee, because of the pain, because of the sorrows.
 - And therefore they that labour labour in vain: for strangers shall reap their fruits. They are going to try to take the goods and the things we prepared.
 
-**[Jeremiah 51:8-9](/bible/jeremiah/51#v8)**  *[2:13:32]*
+**[Jeremiah 51:8-9](/bible/jeremiah/51#v8)**  *[[2:13:32](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=8012s)]*
 
 > <sup>[8](/bible/jeremiah/51#v8)</sup> Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.
 >
@@ -314,7 +314,7 @@ The surge at Ceuta:
 - Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed. What is balm? Ointment you put on pain to ease the pain. Remember what they said: short-term pain. Will there be any medicine you can take to stop the pain the Lord is about to send on this earth? Let us see if you can stop what God is about to make happen: the pain that is coming here to Babylon, the civil war and all the things you see coming here.
 - We would have healed Babylon, but she is not healed. This place is not going to be healed. The pains are not going to stop. Forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven. God is about to judge her.
 
-**[Jeremiah 30:5-7](/bible/jeremiah/30#v5)**  *[2:15:59]*
+**[Jeremiah 30:5-7](/bible/jeremiah/30#v5)**  *[[2:15:59](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=8159s)]*
 
 > <sup>[5](/bible/jeremiah/30#v5)</sup> For thus saith the Lord; We have heard a voice of trembling, of fear, and not of peace.
 >
@@ -326,7 +326,7 @@ The surge at Ceuta:
 - Wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness? Everybody holding their stomach; everybody scared.
 - Alas! for that day is great, so that none is like it: it is even the time of Jacob's trouble. Jacob's trouble is coming; great pains are coming. Brothers and sisters, prepare your mind; prepare yourself for what is coming. That is what the Lord commands us to do.
 
-**[2 Esdras 15:15-24](/bible/2-esdras/15#v15)**  *[2:17:49]*
+**[2 Esdras 15:15-24](/bible/2-esdras/15#v15)**  *[[2:17:49](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=8269s)]*
 
 > <sup>[15](/bible/2-esdras/15#v15)</sup> For the sword and their destruction draweth nigh, and one people shall stand up and fight against another, and swords in their hands.
 >
@@ -356,7 +356,7 @@ The surge at Ceuta:
 - Like as they do yet this day unto my chosen, so will I do also, and recompense in their bosom. Why are the Russians and Ukraine killing each other? Why is all this fighting happening over there in Palestine? Why is Iran and America fighting? It is because of what they did to us. So do not be mad; do not be sad. It is God's judgment for what was done to his chosen.
 - My right hand shall not spare the sinners, and my sword shall not cease over them that shed innocent blood upon the earth. Woe to them that sin, and keep not my commandments: those of you brothers and sisters that sin and do not keep God's commandments, the Bible says woe unto you.
 
-**[Isaiah 13:6-19](/bible/isaiah/13#v6)**  *[2:25:41]*
+**[Isaiah 13:6-19](/bible/isaiah/13#v6)**  *[[2:25:41](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=8741s)]*
 
 > <sup>[6](/bible/isaiah/13#v6)</sup> Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
 >
@@ -403,4 +403,4 @@ Brothers and sisters, the time we are living in is the beginning of sorrows and 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-01-beginning-of-sorrows-great-pain)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=6gzqYKSUmS4)

@@ -22,7 +22,7 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 
 ## Scriptures Opened
 
-**[2 Chronicles 2:4](/bible/2-chronicles/2#v4)**  *[11:23]*
+**[2 Chronicles 2:4](/bible/2-chronicles/2#v4)**  *[[11:23](https://www.youtube.com/watch?v=stGojnrSmJA&t=683s)]*
 
 > <sup>[4](/bible/2-chronicles/2#v4)</sup> Behold, I build an house to the name of the Lord my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the Lord our God. This is an ordinance for ever to Israel.
 
@@ -30,7 +30,7 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 - On the sabbaths, and on the new moons: so there is a difference between the Sabbath day, the seventh day Sabbath, and the new moon, which is also a Sabbath, which is the beginning of the month.
 - And on the solemn feasts of the Lord our God: the solemn feasts are Passover, Tabernacles, the Memorial of Blowing of Trumpets, all these feasts.
 
-**[Ecclesiasticus 43:6-8](/bible/sirach/43#v6)**  *[13:29]*
+**[Ecclesiasticus 43:6-8](/bible/sirach/43#v6)**  *[[13:29](https://www.youtube.com/watch?v=stGojnrSmJA&t=809s)]*
 
 > <sup>[6](/bible/sirach/43#v6)</sup> He made the moon also to serve in her season for a declaration of times, and a sign of the world.
 >
@@ -44,7 +44,7 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 - Esau got things backwards: they say the new moon is when it is dark, and we used to celebrate it like that at one point in time. No. This is the right way, and this is the way everybody on the earth is going to celebrate it when Christ returns, whether you all believe what we say or not. That next couple years could be 10, 15, 20; you don't know.
 - The month is called after her name: the word month derives from the word moon. Increasing wonderfully in her changing: after it decreases, it increases. Being an instrument of the armies above, shining in the firmament of heaven.
 
-**[Isaiah 29:11](/bible/isaiah/29#v11)**  *[21:29]*
+**[Isaiah 29:11](/bible/isaiah/29#v11)**  *[[21:29](https://www.youtube.com/watch?v=stGojnrSmJA&t=1289s)]*
 
 > <sup>[11](/bible/isaiah/29#v11)</sup> And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
 
@@ -52,7 +52,7 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 - The vision of all is become unto you as the words of a book: the Lord gave the prophets visions, and all the visions God gave the prophets are written in a book. The book that is sealed is the Bible.
 - Which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed. This Bible is sealed, and everyone cannot understand it: the visions of Daniel, the visions of John the Revelator, the visions of Jeremiah. Nobody on earth could understand this book, because it is sealed.
 
-**[Amos 3:6-7](/bible/amos/3#v6)**  *[23:05]*
+**[Amos 3:6-7](/bible/amos/3#v6)**  *[[23:05](https://www.youtube.com/watch?v=stGojnrSmJA&t=1385s)]*
 
 > <sup>[6](/bible/amos/3#v6)</sup> Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?
 >
@@ -62,7 +62,7 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 - Shall there be evil in a city, and the Lord hath not done it? The evil happening in a city is God's judgment: plagues, destruction. When these things happen, it is the Lord that does it.
 - Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets. So the book that is sealed, who does God reveal it to? The prophets. If you can understand the Bible and understand these visions, you are a prophet.
 
-**[1 Corinthians 2:9-11](/bible/1-corinthians/2#v9)**  *[24:33]*
+**[1 Corinthians 2:9-11](/bible/1-corinthians/2#v9)**  *[[24:33](https://www.youtube.com/watch?v=stGojnrSmJA&t=1473s)]*
 
 > <sup>[9](/bible/1-corinthians/2#v9)</sup> But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.
 >
@@ -85,7 +85,7 @@ Definitions and article read in class:
 - For decades Pax Americana meant US led global alliances ensured security and promoted democracy worldwide. Under Trump's grand strategy every alliance is now transactional; the US is refocusing on its own hemisphere, reviving a modern Monroe Doctrine; troop cuts across Europe and the Middle East; aggressive tariffs; foreign aid slashed; global institutions like the WTO sidelined. The old consensus that maintained global peace is crumbling.
 - A commentator: future historians will look back on 2026 as the beginning of the end of Pax Americana, not because China is doing something, but because the current administration is doing things which will accelerate it, adopting a very aggressive posture against many countries, starting the reciprocal tariff war. That American peace set up all over the world, you see it coming to an end. You see Russia and Ukraine at war, nations warring with each other; America cannot control the world anymore.
 
-**[Revelation 17:1-7](/bible/revelation/17#v1)**  *[45:51]*
+**[Revelation 17:1-7](/bible/revelation/17#v1)**  *[[45:51](https://www.youtube.com/watch?v=stGojnrSmJA&t=2751s)]*
 
 > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 >
@@ -110,7 +110,7 @@ Definitions and article read in class:
 - Upon her forehead a name written, MYSTERY, BABYLON THE GREAT: this is not ancient Babylon; it says mystery because a lot of you all don't understand that this place is spiritual Babylon, the mother of harlots and abominations of the earth.
 - I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus. Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her.
 
-**[Revelation 17:11-17](/bible/revelation/17#v11)**  *[50:12]*
+**[Revelation 17:11-17](/bible/revelation/17#v11)**  *[[50:12](https://www.youtube.com/watch?v=stGojnrSmJA&t=3012s)]*
 
 > <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
 >
@@ -137,7 +137,7 @@ Definitions and article read in class:
 - And shall make her desolate, and naked, and shall eat her flesh, and burn her with fire: America will be destroyed with nuclear bombs. NATO, along with Russia, Iran, all of them, are going to play a big role in destroying Babylon.
 - For God hath put in their hearts to fulfil his will: God put it in the Europeans' heart. What Europe and America are doing, they are fulfilling God's will. When they formed the NATO alliance and the European Union, they were fulfilling prophecy. For 70 years they agreed and gave their kingdom unto the beast, until the words of God shall be fulfilled. That is what you see right now: that separation, that division taking place. The word of God that has to be fulfilled is that they are going to hate the whore and burn her with fire.
 
-**[Leviticus 21:9](/bible/leviticus/21#v9)**  *[1:00:48]*
+**[Leviticus 21:9](/bible/leviticus/21#v9)**  *[[1:00:48](https://www.youtube.com/watch?v=stGojnrSmJA&t=3648s)]*
 
 > <sup>[9](/bible/leviticus/21#v9)</sup> And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.
 
@@ -152,7 +152,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - A couple weeks ago America met its 250th year anniversary, and every major kingdom fell within 250 years. And when you look at God's will: everything started going bad ever since 2019, and from 1619 to 2019 you get 400 years. After 400 years, American society started declining. The Lord is making preparation to deliver us up out of here.
 - Video: there is now a concern in Europe that they cannot rely on America, and even that America may be hostile to Europe; Europe recognizes it needs to build up its own military defense industry. Couple that with the tariff debate and you have an anger at the United States amongst its allies that is damaging; a transactional, bullying foreign policy means your allies will behave accordingly. America is bullying Europe and all the nations. Remember: thou art greatly despised.
 
-**[Obadiah 1:1-4, 7](/bible/obadiah/1#v1)**  *[1:06:16]*
+**[Obadiah 1:1-4, 7](/bible/obadiah/1#v1)**  *[[1:06:16](https://www.youtube.com/watch?v=stGojnrSmJA&t=3976s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
@@ -175,7 +175,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - Though thou exalt thyself as the eagle: this is letting you know it is talking about America; the symbol of America is the eagle. And though thou set thy nest among the stars: who did space traveling first? America, 1969. Thence will I bring thee down, saith the Lord: from 1945 to the 70s America was at its peak, and in 1969, guess what happened? The Israelites started waking up. From 1969 the teachings of God started going out. That is where we all came from, that is inside here right now.
 - All the men of thy confederacy have brought thee even to the border: everybody America made that confederacy with, the European Union, the NATO alliance. The men that were at peace with thee have deceived thee: that is NATO; they will deceive America and prevail against her, and they will burn her with fire. They that eat thy bread have laid a wound under thee: there is none understanding in him. They will destroy this place. That is Bible prophecy.
 
-**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[1:12:49]*
+**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[1:12:49](https://www.youtube.com/watch?v=stGojnrSmJA&t=4369s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 >
@@ -192,7 +192,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - He shall also stand up against the prince of princes: did Antiochus stand up against the Prince of princes? Antiochus did not fight against Christ, so this is letting you know it is twofold: the same thing is going to be done again in these last days. It is the same thing we just read in Revelation 17: they going to make war with the Lamb, and the Lamb shall overcome them.
 - But he shall be broken without hands: that goes back into Daniel, where he saw the statue and the feet broken by a stone cut without hands.
 
-**[Acts 5:30-31](/bible/acts/5#v30)**  *[1:16:12]*
+**[Acts 5:30-31](/bible/acts/5#v30)**  *[[1:16:12](https://www.youtube.com/watch?v=stGojnrSmJA&t=4572s)]*
 
 > <sup>[30](/bible/acts/5#v30)</sup> The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
 >
@@ -201,7 +201,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - The God of our fathers raised up Jesus, whom ye slew and hanged on a tree: the Romans killed him.
 - Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel. So who is the Prince of princes that he is going to stand up against? Christ is that prince.
 
-**[Revelation 13:1-4](/bible/revelation/13#v1)**  *[1:18:22]*
+**[Revelation 13:1-4](/bible/revelation/13#v1)**  *[[1:18:22](https://www.youtube.com/watch?v=stGojnrSmJA&t=4702s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -216,28 +216,28 @@ Video played in class, on Sir John Glubb's study of empires:
 - And all the world wondered after the beast.
 - And they worshipped the dragon which gave power unto the beast: who is the dragon that gave power unto the beast? Satan. So when you worship the beast's god, who are you worshiping? Do not think he just has all this power because he is so smart. He was able to come up with all these technologies and advances because Satan gave him that power. That is Daniel 8: his power shall be mighty, but not by his own power.
 
-**[Daniel 7:25](/bible/daniel/7#v25)**  *[1:21:20]*
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[1:21:20](https://www.youtube.com/watch?v=stGojnrSmJA&t=4880s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
 - And he shall speak great words against the Most High, and shall wear out the saints of the Most High, and think to change times and laws.
 - It says he will wear out the saints of the Most High: that is saying the same thing it says in Daniel 8, destroy the mighty and the holy people. The same way Antiochus destroyed us is the same way America wore us out.
 
-**[Revelation 12:17](/bible/revelation/12#v17)**  *[1:22:50]*
+**[Revelation 12:17](/bible/revelation/12#v17)**  *[[1:22:50](https://www.youtube.com/watch?v=stGojnrSmJA&t=4970s)]*
 
 > <sup>[17](/bible/revelation/12#v17)</sup> And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
 
 - And the dragon was wroth with the woman: the woman is Israel.
 - And went to make war with the remnant of her seed, which keep the commandments of God: they are going to make war with us. Understand that this right here is physical. As we keep teaching this word and Israel keeps waking up all over the world, America, Israel, and Europe will make war with us.
 
-**[Revelation 17:6](/bible/revelation/17#v6)**  *[1:23:51]*
+**[Revelation 17:6](/bible/revelation/17#v6)**  *[[1:23:51](https://www.youtube.com/watch?v=stGojnrSmJA&t=5031s)]*
 
 > <sup>[6](/bible/revelation/17#v6)</sup> And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
 
 - And when they make war with us, what is going to happen? The same thing Antiochus did to us is the same thing America is going to do.
 - The woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: why would America be drunken with the blood of the saints and the martyrs? That is that war, for teaching the word of God. A lot of us are going to be killed here in America.
 
-**[Revelation 18:19-20](/bible/revelation/18#v19)**  *[1:24:38]*
+**[Revelation 18:19-20](/bible/revelation/18#v19)**  *[[1:24:38](https://www.youtube.com/watch?v=stGojnrSmJA&t=5078s)]*
 
 > <sup>[19](/bible/revelation/18#v19)</sup> And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
 >
@@ -247,7 +247,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - Rejoice over her, thou heaven, and ye holy apostles and prophets: why, when mystery Babylon the great is destroyed, will the apostles and the prophets be rejoicing?
 - For God hath avenged you on her: why does God have to avenge us on her? Because in that war, the prophets are here. That is why I tell you all I am a prophet, and there are thousands of prophets here in IUIC. A lot of the prophets are going to die here in Babylon teaching the word of God. And not just the prophets are here; the apostles are here too.
 
-**[1 Maccabees 1:41-47, 50-51](/bible/1-maccabees/1#v41)**  *[1:31:17]*
+**[1 Maccabees 1:41-47, 50-51](/bible/1-maccabees/1#v41)**  *[[1:31:17](https://www.youtube.com/watch?v=stGojnrSmJA&t=5477s)]*
 
 > <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
 >
@@ -276,7 +276,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - America pushed the same thing, strength through peace. Ever since 1945, millions of people were killed and assassinated to maintain the hegemony, Pax Americana, over the world. In order for them to set up that democracy, they did a lot of killing.
 - In the selfsame manner wrote he to his whole kingdom, and appointed overseers.
 
-**[Revelation 13:11](/bible/revelation/13#v11)**  *[1:38:58]*
+**[Revelation 13:11](/bible/revelation/13#v11)**  *[[1:38:58](https://www.youtube.com/watch?v=stGojnrSmJA&t=5938s)]*
 
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
 
@@ -294,7 +294,7 @@ Videos played in class, on how the peace was enforced:
 - Patrice Lumumba did the same thing in Africa, and they assassinated him. Also Thomas Sankara, and hundreds more leaders that did not follow the democracy that America was pushing after 1945. Thousands of leaders were killed, anybody that rose up against the status quo. That is what it means: by peace he shall destroy many.
 - Che Guevara: a trained physician from Argentina who rode his motorcycle through Latin America, witnessed crushing poverty and workers exploited by American corporations, and decided the world did not need another doctor but a revolutionary. He joined Fidel Castro; they overthrew Cuba's dictatorship in 1959. After winning in Cuba he gave up his government position and went into the jungles of Africa and South America to spread more revolutions; in 1967 they caught him in Bolivia and executed him. He was teaching against the system, so they said we have to take him out.
 
-**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[2:03:16]*  (closing reading)
+**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[2:03:16](https://www.youtube.com/watch?v=stGojnrSmJA&t=7396s)]*  (closing reading)
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 >
@@ -332,4 +332,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup on the new moon, 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-29-the-end-of-pax-americana)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=stGojnrSmJA)

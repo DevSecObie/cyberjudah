@@ -108,7 +108,7 @@ Planet of the Apes.
 
 ## Scriptures Opened
 
-**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[16:09]*
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[16:09](https://www.youtube.com/watch?v=maQroMAMqbw&t=969s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
@@ -118,7 +118,7 @@ Planet of the Apes.
 
 - These are people, and our people really think they are free. You walk around with nice suits, your bow ties, you go to church, you go to work, but your mind is still captive. That is what Deuteronomy 28 is saying. So the white man did not release us literally from slavery until he knew we were mentally destroyed. He said, this people will never unite, this people will never rise up against us, they are destroyed. We have been destroyed in this system.
 
-**[Revelation 11:8](/bible/revelation/11#v8)**  *[25:16]*
+**[Revelation 11:8](/bible/revelation/11#v8)**  *[[25:16](https://www.youtube.com/watch?v=maQroMAMqbw&t=1516s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
@@ -140,7 +140,7 @@ Planet of the Apes.
 
     And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication. Believe it or not, that great city is Babylon the great.
 
-**[Ezekiel 37:1-3](/bible/ezekiel/37#v1)**  *[29:22]*
+**[Ezekiel 37:1-3](/bible/ezekiel/37#v1)**  *[[29:22](https://www.youtube.com/watch?v=maQroMAMqbw&t=1762s)]*
 
 > <sup>[1](/bible/ezekiel/37#v1)</sup> The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 >
@@ -154,7 +154,7 @@ Planet of the Apes.
 
 - And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.
 
-**[Ezekiel 37:8-10](/bible/ezekiel/37#v8)**  *[30:17]*
+**[Ezekiel 37:8-10](/bible/ezekiel/37#v8)**  *[[30:17](https://www.youtube.com/watch?v=maQroMAMqbw&t=1817s)]*
 
 > <sup>[8](/bible/ezekiel/37#v8)</sup> And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
 >
@@ -168,7 +168,7 @@ Planet of the Apes.
 
 - So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
-**[Ezekiel 37:11-13](/bible/ezekiel/37#v11)**  *[31:03]*
+**[Ezekiel 37:11-13](/bible/ezekiel/37#v11)**  *[[31:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=1863s)]*
 
 > <sup>[11](/bible/ezekiel/37#v11)</sup> Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.
 >
@@ -184,7 +184,7 @@ Planet of the Apes.
 
 - And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves. So we are in some type of a grave. Like we read all those things about systematic racism, the psychological effects. Everybody in here has some type of a grave. Now, the fact that we are waking up to the truth that we are the Israelites, we are coming up out of these graves partially. Not 100 percent, but partially, because some of us are still suffering from depression, fear, mistrust, chronic stress, low self-esteem. It is still here among us. I heard a brother in New York years ago say, I do not want a sister who does not have a weave. We said, brother, you are still mentally destroyed. Now he is in here in borders and blue and fringes, but the fact that that is in his mind tells us he is still destroyed to a degree.
 
-**[Isaiah 28:15-18](/bible/isaiah/28#v15)**  *[37:57]*
+**[Isaiah 28:15-18](/bible/isaiah/28#v15)**  *[[37:57](https://www.youtube.com/watch?v=maQroMAMqbw&t=2277s)]*
 
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 >
@@ -216,25 +216,25 @@ Planet of the Apes.
 
     In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow. See that? You had wicked men saying, let us go and make a covenant, an agreement, with the heathen, meaning the other nations, the Greeks in this context. People often say the Bible has no relevance today. What we just read has all the relevance in the world for today, because the same thing that they did back then, making a covenant with the Greeks, our people are doing today, making a covenant with every white man or woman they can find.
 
-**[Isaiah 8:9](/bible/isaiah/8#v9)**  *[43:23]*
+**[Isaiah 8:9](/bible/isaiah/8#v9)**  *[[43:23](https://www.youtube.com/watch?v=maQroMAMqbw&t=2603s)]*
 
 > <sup>[9](/bible/isaiah/8#v9)</sup> Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
 
 - Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces. You associate yourself with the Democratic party, the Republican party, these Christian denominations, and God said he is going to break you in pieces. That is why everything goes wrong with us in these groups and religions. Nothing has gone right for the past 62 years from civil rights.
 
-**[Proverbs 11:21](/bible/proverbs/11#v21)**  *[44:12]*
+**[Proverbs 11:21](/bible/proverbs/11#v21)**  *[[44:12](https://www.youtube.com/watch?v=maQroMAMqbw&t=2652s)]*
 
 > <sup>[21](/bible/proverbs/11#v21)</sup> Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
 
 - Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered. Though you join your hand with the hand of society, though you take your hand and join with the white man and the white woman, the white man is still going to get punished. And you are too. But the seed of the righteous, who will not join hand in hand with the oppressor, shall be delivered.
 
-**[Proverbs 16:5](/bible/proverbs/16#v5)**  *[45:02]*
+**[Proverbs 16:5](/bible/proverbs/16#v5)**  *[[45:02](https://www.youtube.com/watch?v=maQroMAMqbw&t=2702s)]*
 
 > <sup>[5](/bible/proverbs/16#v5)</sup> Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished.
 
 - Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished. So that starts off with Esau. He is the proudest nation on the planet. But then you join yourself and you say, we sick boss, our house on fire boss. You associate yourselves with him. The Bible says he shall not be unpunished. He is still going to get it. And so are you.
 
-**[Lamentations 3:22-26](/bible/lamentations/3#v22)**  *[55:03]*
+**[Lamentations 3:22-26](/bible/lamentations/3#v22)**  *[[55:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=3303s)]*
 
 > <sup>[22](/bible/lamentations/3#v22)</sup> It is of the Lord’s mercies that we are not consumed, because his compassions fail not.
 >
@@ -252,7 +252,7 @@ Planet of the Apes.
 
 - The Lord is good unto them that wait for him, to the soul that seeketh him. It is good that a man should both hope and quietly wait for the salvation of the Lord.
 
-**[Lamentations 3:40-45](/bible/lamentations/3#v40)**  *[56:03]*
+**[Lamentations 3:40-45](/bible/lamentations/3#v40)**  *[[56:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=3363s)]*
 
 > <sup>[40](/bible/lamentations/3#v40)</sup> Let us search and try our ways, and turn again to the Lord.
 >
@@ -294,7 +294,7 @@ Planet of the Apes.
 
     What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. I would not know what sin is but by the law. I would not know what lust is. By studying the word of God you are able to self-examine. You are able to search and try your ways.
 
-**[Lamentations 3:46-55](/bible/lamentations/3#v46)**  *[1:02:26]*
+**[Lamentations 3:46-55](/bible/lamentations/3#v46)**  *[[1:02:26](https://www.youtube.com/watch?v=maQroMAMqbw&t=3746s)]*
 
 > <sup>[46](/bible/lamentations/3#v46)</sup> All our enemies have opened their mouths against us.
 >
@@ -336,7 +336,7 @@ Planet of the Apes.
 
 - I called upon thy name, O Lord, out of the low dungeon. That is all we can do. Out of prison, call upon the name of the Lord.
 
-**[Lamentations 3:56-59](/bible/lamentations/3#v56)**  *[1:03:52]*
+**[Lamentations 3:56-59](/bible/lamentations/3#v56)**  *[[1:03:52](https://www.youtube.com/watch?v=maQroMAMqbw&t=3832s)]*
 
 > <sup>[56](/bible/lamentations/3#v56)</sup> Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
 >
@@ -354,7 +354,7 @@ Planet of the Apes.
 
 - O Lord, thou hast seen my wrong: judge thou my cause. Thou hast seen my wrong, my sin. Judge thou my cause.
 
-**[Lamentations 3:63-66](/bible/lamentations/3#v63)**  *[1:04:36]*
+**[Lamentations 3:63-66](/bible/lamentations/3#v63)**  *[[1:04:36](https://www.youtube.com/watch?v=maQroMAMqbw&t=3876s)]*
 
 > <sup>[63](/bible/lamentations/3#v63)</sup> Behold their sitting down, and their rising up; I am their musick.
 >
@@ -372,13 +372,13 @@ Planet of the Apes.
 
 - Persecute and destroy them in anger from under the heavens of the Lord. That is Bible right there. Churches are not going to read that. But that is how all of us should feel. All of us should have that faith in that thing right there.
 
-**[Nehemiah 9:2](/bible/nehemiah/9#v2)**  *[1:06:46]*
+**[Nehemiah 9:2](/bible/nehemiah/9#v2)**  *[[1:06:46](https://www.youtube.com/watch?v=maQroMAMqbw&t=4006s)]*
 
 > <sup>[2](/bible/nehemiah/9#v2)</sup> And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
 
 - And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers. Solutions. What are some solutions we can administer today? I know people online are not going to like this one, but here is a solution. After you repent of your sins, this is what our ancestors did. You hear that? And the seed of Israel separated themselves from all strangers. It does not say we married them. It does not say we let our sons or daughters play with their kids. That is the solution right there.
 
-**[2 Corinthians 6:17-18](/bible/2-corinthians/6#v17)**  *[1:07:31]*
+**[2 Corinthians 6:17-18](/bible/2-corinthians/6#v17)**  *[[1:07:31](https://www.youtube.com/watch?v=maQroMAMqbw&t=4051s)]*
 
 > <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
 >
@@ -392,7 +392,7 @@ Planet of the Apes.
 
 - And I will receive you, and will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty. God said, only then will I receive you. You want to be a part of multiculturalism. In school they teach us about multiculturalism. The white man is always on the top, black people always on the bottom. That is what they call equality. We are all equal as long as Esau, Edom, is on the top.
 
-**[Isaiah 56:1](/bible/isaiah/56#v1)**  *[1:14:02]*
+**[Isaiah 56:1](/bible/isaiah/56#v1)**  *[[1:14:02](https://www.youtube.com/watch?v=maQroMAMqbw&t=4442s)]*
 
 > <sup>[1](/bible/isaiah/56#v1)</sup> Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.
 
@@ -400,7 +400,7 @@ Planet of the Apes.
 
 - White people should never utter the word justice, because the word justice condemns them as a race, as a whole. From the time of Cain till today. They have never experienced true justice. They stole this whole country. The schools we have are built on the blood of the tribe of Gad, Reuben, even Issachar. The blood of our ancestors. And you are going to talk about justice.
 
-**[Isaiah 58:1-2](/bible/isaiah/58#v1)**  *[1:14:49]*
+**[Isaiah 58:1-2](/bible/isaiah/58#v1)**  *[[1:14:49](https://www.youtube.com/watch?v=maQroMAMqbw&t=4489s)]*
 
 > <sup>[1](/bible/isaiah/58#v1)</sup> Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 >
@@ -410,7 +410,7 @@ Planet of the Apes.
 
 - Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God. We seek the ordinances of justice. I have sat down even on the street teaching. When our people say they want justice, they mean they want money. That is not justice. Justice is eye for eye.
 
-**[Revelation 13:9-10](/bible/revelation/13#v9)**  *[1:17:39]*
+**[Revelation 13:9-10](/bible/revelation/13#v9)**  *[[1:17:39](https://www.youtube.com/watch?v=maQroMAMqbw&t=4659s)]*
 
 > <sup>[9](/bible/revelation/13#v9)</sup> If any man have an ear, let him hear.
 >
@@ -420,13 +420,13 @@ Planet of the Apes.
 
 - I did an interview with a young lady, and she asked about justice and she said she wanted justice. So I took her to that scripture. I said, I am going to give you an example of God's justice, and I want to see your reaction to it. You should have seen her shoulders tense up. Her shoulders got tense and you hear a pause. I said, well, how do you feel about that, Miss Christian? What do you think about that? That is how Christians are. They say they want justice, they say they believe in God and the Bible, but when you show them the truth of God in the Bible, they hesitate.
 
-**[Wisdom of Solomon 8:7](/bible/wisdom-of-solomon/8#v7)**  *[1:18:24]*
+**[Wisdom of Solomon 8:7](/bible/wisdom-of-solomon/8#v7)**  *[[1:18:24](https://www.youtube.com/watch?v=maQroMAMqbw&t=4704s)]*
 
 > <sup>[7](/bible/wisdom-of-solomon/8#v7)</sup> And if a man love righteousness her labours are virtues: for she teacheth temperance and prudence, justice and fortitude: which are such things, as men can have nothing more profitable in their life.
 
 - And if a man love righteousness, her labours are virtues: for she teacheth temperance and prudence, justice and fortitude: which are such things, as men can have nothing more profitable in their life. There is nothing more profitable in your life, brothers and sisters, than righteousness, justice and fortitude. There is nothing more worthwhile in life.
 
-**[Psalms 64:1-6](/bible/psalms/64#v1)**  *[1:22:20]*
+**[Psalms 64:1-6](/bible/psalms/64#v1)**  *[[1:22:20](https://www.youtube.com/watch?v=maQroMAMqbw&t=4940s)]*
 
 > <sup>[1](/bible/psalms/64#v1)</sup> Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
 >
@@ -450,7 +450,7 @@ Planet of the Apes.
 
 - They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them? A snare is a trap. They commune of laying traps secretly. Privily means secretly. They say, who shall see them? Meaning, who is going to consider we did this? We are Christians. We are Jewish. We are the good guys. You Negroes, you are the bad guys. Nobody is going to believe you. That is what they do.
 
-**[Proverbs 26:27](/bible/proverbs/26#v27)**  *[1:25:54]*
+**[Proverbs 26:27](/bible/proverbs/26#v27)**  *[[1:25:54](https://www.youtube.com/watch?v=maQroMAMqbw&t=5154s)]*
 
 > <sup>[27](/bible/proverbs/26#v27)</sup> Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.
 
@@ -458,7 +458,7 @@ Planet of the Apes.
 
 - Now, to the white man: you dig your pits secretly, you are going to fall therein, thus saith the Lord. And he that rolleth a stone, you white folks that roll a stone to fall on us, on our heads, it will return upon him. That stone is going to roll back and roll you down.
 
-**[Revelation 12:12](/bible/revelation/12#v12)**  *[1:38:13]*
+**[Revelation 12:12](/bible/revelation/12#v12)**  *[[1:38:13](https://www.youtube.com/watch?v=maQroMAMqbw&t=5893s)]*
 
 > <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 
@@ -466,13 +466,13 @@ Planet of the Apes.
 
 - Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. Woe means destruction unto the inhabitants of the earth. That is all the other nations, all the other countries. And of the sea, that is the islands like Jamaica, Trinidad, Puerto Rico, the Melanesian islands. Woe unto you. Why? For the devil is come down unto you having great wrath. So the devil is going to come if you are not part of their heavens. You are not part of the American system. You are not part of the European system, or those systems that have those nuclear weapons. Even the Israelis have nuclear weapons. You are considered earth and sea, meaning the islands of the sea.
 
-**[Isaiah 14:4](/bible/isaiah/14#v4)**  *[1:39:56]*
+**[Isaiah 14:4](/bible/isaiah/14#v4)**  *[[1:39:56](https://www.youtube.com/watch?v=maQroMAMqbw&t=5996s)]*
 
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
 
 - That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased! So we are talking about Babylon. How hath the oppressor ceased. So Babylon is an oppressive country, an oppressive system. The golden city ceased. When it says the golden city, meaning it is rich beyond belief. If you believe that America has a deficit and owes everybody money, you are foolish. God calls this place the golden city. Have you forgotten America prints their own money? They have no debt. They print their own money. Make that make sense.
 
-**[Isaiah 14:12-15](/bible/isaiah/14#v12)**  *[1:45:18]*
+**[Isaiah 14:12-15](/bible/isaiah/14#v12)**  *[[1:45:18](https://www.youtube.com/watch?v=maQroMAMqbw&t=6318s)]*
 
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
 >
@@ -502,7 +502,7 @@ Planet of the Apes.
 
     All the congregation of Israel shall keep it. That is it right there. So the congregation is Israel. Is it the church, the Baptist church, the Catholic church? No.
 
-**[Isaiah 14:16-17](/bible/isaiah/14#v16)**  *[1:54:59]*
+**[Isaiah 14:16-17](/bible/isaiah/14#v16)**  *[[1:54:59](https://www.youtube.com/watch?v=maQroMAMqbw&t=6899s)]*
 
 > <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
 >
@@ -514,7 +514,7 @@ Planet of the Apes.
 
 - That opened not the house of his prisoners. That is what I wanted to get to for this lesson. That opened not the house of his prisoners. We are the prisoners, but our people believe they are not slaves. Our people believe we are free. H. Rap Brown said, what better way to enslave a people than to give them the right to vote and make them think they are free? Where are the captives here?
 
-**[Genesis 49:8-9](/bible/genesis/49#v8)**  *[2:10:02]*
+**[Genesis 49:8-9](/bible/genesis/49#v8)**  *[[2:10:02](https://www.youtube.com/watch?v=maQroMAMqbw&t=7802s)]*
 
 > <sup>[8](/bible/genesis/49#v8)</sup> Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father’s children shall bow down before thee.
 >
@@ -528,7 +528,7 @@ Planet of the Apes.
 
 - Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up? The tribe of Judah is like a young lion, powerful. But Judah went up from going after the prey, which is the nations. He stooped down like he was about to pounce. He couched as a powerful lion. And as an old lion, who shall rouse him up? What happened there? They gave us crack, heroin, feminism, bad education. All that the white man did to us, and Judah just rolled over and went to sleep. Now we just want money. Give me money. The fight is gone. But the true liberation comes from the teachers of the Bible.
 
-**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[2:10:59]*
+**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[[2:10:59](https://www.youtube.com/watch?v=maQroMAMqbw&t=7859s)]*
 
 > <sup>[7](/bible/deuteronomy/33#v7)</sup> And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
 
@@ -536,7 +536,7 @@ Planet of the Apes.
 
 - Let his hands be sufficient for him; and be thou an help to him from his enemies. Let Judah's hands be sufficient for him. And help Judah against his enemies. Help Judah against the white man. That is what he is saying.
 
-**[Zechariah 2:6-7](/bible/zechariah/2#v6)**  *[2:11:47]*
+**[Zechariah 2:6-7](/bible/zechariah/2#v6)**  *[[2:11:47](https://www.youtube.com/watch?v=maQroMAMqbw&t=7907s)]*
 
 > <sup>[6](/bible/zechariah/2#v6)</sup> Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
 >
@@ -558,7 +558,7 @@ Planet of the Apes.
 
     Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. O daughter of Babylon, who art to be destroyed. The children of Edom, E-D-O-M, meaning red people. So Edom is called the daughter of Babylon.
 
-**[Revelation 18:4-6](/bible/revelation/18#v4)**  *[2:14:52]*
+**[Revelation 18:4-6](/bible/revelation/18#v4)**  *[[2:14:52](https://www.youtube.com/watch?v=maQroMAMqbw&t=8092s)]*
 
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 >
@@ -572,7 +572,7 @@ Planet of the Apes.
 
 - Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double. God said, reward America as she rewarded who? Who is the you? The tribes of Israel. God says America is going to get double what they did to us.
 
-**[Jeremiah 51:5-6](/bible/jeremiah/51#v5)**  *[2:16:22]*
+**[Jeremiah 51:5-6](/bible/jeremiah/51#v5)**  *[[2:16:22](https://www.youtube.com/watch?v=maQroMAMqbw&t=8182s)]*
 
 > <sup>[5](/bible/jeremiah/51#v5)</sup> For Israel hath not been forsaken, nor Judah of his God, of the Lord of hosts; though their land was filled with sin against the Holy One of Israel.
 >
@@ -582,13 +582,13 @@ Planet of the Apes.
 
 - Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the Lord's vengeance; he will render unto her a recompence. The Bible says the way you flee is to deliver your soul. The way you deliver your soul is through repentance, keeping God's commandments. That is saying the same thing Revelation 18 is saying.
 
-**[Isaiah 14:1](/bible/isaiah/14#v1)**  *[2:17:55]*
+**[Isaiah 14:1](/bible/isaiah/14#v1)**  *[[2:17:55](https://www.youtube.com/watch?v=maQroMAMqbw&t=8275s)]*
 
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 
 - For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land. That part right there, and will yet choose. Why does it say he will yet choose us? Look at us. We went into slavery because of our sins. We are still in a degenerate condition. Regardless of all that, we might be pimps, hoes, drug dealers, whatever, you have names for us. God said, I will yet choose them. He is not casting off his chosen people. So there is still hope for the pimps and the hoes, the prostitutes, the baby mama drama, the deadbeat daddies, and all that. There is still hope.
 
-**[Psalms 34:17-19](/bible/psalms/34#v17)**  *[2:18:49]*
+**[Psalms 34:17-19](/bible/psalms/34#v17)**  *[[2:18:49](https://www.youtube.com/watch?v=maQroMAMqbw&t=8329s)]*
 
 > <sup>[17](/bible/psalms/34#v17)</sup> The righteous cry, and the Lord heareth, and delivereth them out of all their troubles.
 >
@@ -602,25 +602,25 @@ Planet of the Apes.
 
 - Many are the afflictions of the righteous: but the Lord delivereth him out of them all. That is why we go through all these ups and downs and turmoils. The Bible says many are the afflictions of the righteous. But the Lord delivereth him out of them all.
 
-**[Psalms 37:40](/bible/psalms/37#v40)**  *[2:20:20]*
+**[Psalms 37:40](/bible/psalms/37#v40)**  *[[2:20:20](https://www.youtube.com/watch?v=maQroMAMqbw&t=8420s)]*
 
 > <sup>[40](/bible/psalms/37#v40)</sup> And the Lord shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
 
 - And the Lord shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him. The key in salvation is trusting in the one true God. Trusting in our king.
 
-**[Psalms 43:1](/bible/psalms/43#v1)**  *[2:20:45]*
+**[Psalms 43:1](/bible/psalms/43#v1)**  *[[2:20:45](https://www.youtube.com/watch?v=maQroMAMqbw&t=8445s)]*
 
 > <sup>[1](/bible/psalms/43#v1)</sup> Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
 
 - Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man. The white man, America, Europe, is the ungodly nation.
 
-**[Psalms 59:1](/bible/psalms/59#v1)**  *[2:21:00]*
+**[Psalms 59:1](/bible/psalms/59#v1)**  *[[2:21:00](https://www.youtube.com/watch?v=maQroMAMqbw&t=8460s)]*
 
 > <sup>[1](/bible/psalms/59#v1)</sup> Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 
 - Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 
-**[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[2:25:30]*
+**[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[[2:25:30](https://www.youtube.com/watch?v=maQroMAMqbw&t=8730s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 >
@@ -634,7 +634,7 @@ Planet of the Apes.
 
 - To proclaim the acceptable year of the Lord, and the day of vengeance of our God. And the day of God's vengeance.
 
-**[Isaiah 53:8](/bible/isaiah/53#v8)**  *[2:28:05]*
+**[Isaiah 53:8](/bible/isaiah/53#v8)**  *[[2:28:05](https://www.youtube.com/watch?v=maQroMAMqbw&t=8885s)]*
 
 > <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 
@@ -660,13 +660,13 @@ Planet of the Apes.
 
     And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. Shall Messiah, that is Christ, be cut off, but not for himself. He did not die for himself. And the people of the prince that shall come: Rome.
 
-**[Luke 20:20](/bible/luke/20#v20)**  *[2:31:22]*
+**[Luke 20:20](/bible/luke/20#v20)**  *[[2:31:22](https://www.youtube.com/watch?v=maQroMAMqbw&t=9082s)]*
 
 > <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 
 - And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor. You know what that is? The SPLC today. The ADL today. So be mindful, brothers, of the things you say and do. The people sitting next to you may be getting paid to listen, to set brothers and sisters up. I remember there was a brother back in New York. He wanted us to buy weapons. We said, bro, you have to go with this stuff. You are not selling weapons to anybody. We have some crazy people among us.
 
-**[Sirach 11:30-34](/bible/sirach/11#v30)**  *[2:32:19]*
+**[Sirach 11:30-34](/bible/sirach/11#v30)**  *[[2:32:19](https://www.youtube.com/watch?v=maQroMAMqbw&t=9139s)]*
 
 > <sup>[30](/bible/sirach/11#v30)</sup> Like as a partridge taken and kept in a cage, so is the heart of the proud; and like as a spy, watcheth he for thy fall:
 >
@@ -688,7 +688,7 @@ Planet of the Apes.
 
 - Receive a stranger into thine house, and he will disturb thee, and turn thee out of thine own. So I know brothers are inviting people over to their house to learn the scriptures. That is fine. But be mindful of that. You do not know all these brothers. You do not know their wife. You do not know their kids. You just know that brother's name is Shabazz or Hakeem or whatever. That is all you know. And you are bringing them over to your house with your wife and children. Be very careful. And for you simple brothers that go into a brother's house and bring in another brother that the brother whose house it is does not know, that is evil and stupid. You have to be wiser than that. You have to wait until you get to know him.
 
-**[Revelation 2:9-10](/bible/revelation/2#v9)**  *[2:34:35]*
+**[Revelation 2:9-10](/bible/revelation/2#v9)**  *[[2:34:35](https://www.youtube.com/watch?v=maQroMAMqbw&t=9275s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 >
@@ -702,13 +702,13 @@ Planet of the Apes.
 
 - Be thou faithful unto death, and I will give thee a crown of life. Now here is the part that might scare some of you, but pay attention. Be thou faithful unto death. When you read in the Gospels, you read about Peter being locked up and the angel comes in and saves him. That is not the lot for all of us. Some of us are going to have that lot that we just read. Christ said, no, I am not coming to save you. Just like he did not save John the Baptist. He said, be faithful unto death. We have to mentally prepare ourselves for what is to come. And I will give thee a crown of life. Meaning death is not the end. Because the body is finished does not mean the spirit, the soul, is finished. That is what we must know. We must believe and understand.
 
-**[Isaiah 14:7](/bible/isaiah/14#v7)**  *[2:36:41]*
+**[Isaiah 14:7](/bible/isaiah/14#v7)**  *[[2:36:41](https://www.youtube.com/watch?v=maQroMAMqbw&t=9401s)]*
 
 > <sup>[7](/bible/isaiah/14#v7)</sup> The whole earth is at rest, and is quiet: they break forth into singing.
 
 - The whole earth is at rest, and is quiet: they break forth into singing. When this white man goes down, it says the whole earth will be at rest. And the earth will be quiet. And the whole earth will break forth into singing and rejoicing.
 
-**[Isaiah 42:6-7](/bible/isaiah/42#v6)**  *[2:37:26]*
+**[Isaiah 42:6-7](/bible/isaiah/42#v6)**  *[[2:37:26](https://www.youtube.com/watch?v=maQroMAMqbw&t=9446s)]*
 
 > <sup>[6](/bible/isaiah/42#v6)</sup> I the Lord have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;
 >
@@ -718,19 +718,19 @@ Planet of the Apes.
 
 - To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house. We are the blind eyes. Our people think they see. They think they are woke. They do not see. They do not understand. Our people are the prisoners that shall be brought out from the prison. Just because you cannot see the bars does not mean you are not in prison, with your low self-esteem, and you hate yourself and you hate your people. That is a prison house. And them that sit in darkness: we sit in darkness. We think this is bright and light. No, it is not.
 
-**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[2:38:44]*
+**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[2:38:44](https://www.youtube.com/watch?v=maQroMAMqbw&t=9524s)]*
 
 > <sup>[22](/bible/isaiah/42#v22)</sup> But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 
 - But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore. We are all snared in holes. We are hid in prison houses. Whether the prison house is democracy, or Republicans, or socialism, or liberals, or Baptists, or Episcopal. These are all prison houses. We are for a prey, and nobody delivers us. For a spoil, and none of the nations say restore to us.
 
-**[Isaiah 49:9](/bible/isaiah/49#v9)**  *[2:39:00]*
+**[Isaiah 49:9](/bible/isaiah/49#v9)**  *[[2:39:00](https://www.youtube.com/watch?v=maQroMAMqbw&t=9540s)]*
 
 > <sup>[9](/bible/isaiah/49#v9)</sup> That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
 
 - That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places. This is the message we have for our people, because our people are the prisoners. That is what in the film we just showed, that is what Caesar was saying to the big buck. Go forth. Come out of that cage. And their pastures shall be in all high places: that is the kingdom.
 
-**[1 Peter 3:18-19](/bible/1-peter/3#v18)**  *[2:39:39]*
+**[1 Peter 3:18-19](/bible/1-peter/3#v18)**  *[[2:39:39](https://www.youtube.com/watch?v=maQroMAMqbw&t=9579s)]*
 
 > <sup>[18](/bible/1-peter/3#v18)</sup> For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
 >
@@ -746,7 +746,7 @@ Planet of the Apes.
 
     So then whosoever there fell down was straitway kept shut up in a prison without iron bars. Now this is about ancient Egypt, but watch what it says about the Egyptians, and how it relates to us. Just like the ancient Egyptians were in that sea of darkness, it says they were shut up in a prison without iron bars. That is what we are in today. There are no iron bars, and people say, I am free, there are no shackles on me. It is the same thing.
 
-**[Zechariah 9:11-13](/bible/zechariah/9#v11)**  *[2:42:07]*
+**[Zechariah 9:11-13](/bible/zechariah/9#v11)**  *[[2:42:07](https://www.youtube.com/watch?v=maQroMAMqbw&t=9727s)]*
 
 > <sup>[11](/bible/zechariah/9#v11)</sup> As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
 >
@@ -760,7 +760,7 @@ Planet of the Apes.
 
 - When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man. He said, I am going to bend the tribe of Judah. I am going to bend them to my will. And I am going to fill the bow with Ephraim. And raised up thy sons, O Zion: raised up the other ten tribes. Against thy sons, O Greece: against Esau, Edom, the so-called white man. And made thee as the sword of a mighty man: God said he is going to transform us into the sword of a mighty man. That means he is going to give us power.
 
-**[Zechariah 9:14-17](/bible/zechariah/9#v14)**  *[2:43:35]*
+**[Zechariah 9:14-17](/bible/zechariah/9#v14)**  *[[2:43:35](https://www.youtube.com/watch?v=maQroMAMqbw&t=9815s)]*
 
 > <sup>[14](/bible/zechariah/9#v14)</sup> And the Lord shall be seen over them, and his arrow shall go forth as the lightning: and the Lord God shall blow the trumpet, and shall go with whirlwinds of the south.
 >
@@ -816,4 +816,4 @@ Fear none of those things which thou shalt suffer: behold, the devil shall cast 
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-15-prison-house-of-shadows)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=maQroMAMqbw)

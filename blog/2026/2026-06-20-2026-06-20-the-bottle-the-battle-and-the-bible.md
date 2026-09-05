@@ -26,20 +26,20 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 
 ## Scriptures Opened
 
-**[John 5:39](/bible/john/5#v39)**  *[27:48]*
+**[John 5:39](/bible/john/5#v39)**  *[[27:48](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=1668s)]*
 
 > <sup>[39](/bible/john/5#v39)</sup> Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 
 - Christ says search the scriptures, for in them ye think ye have eternal life. The solutions are in the Bible. Hope is in the Bible.
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[28:29]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[28:29](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=1709s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
 - Whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. We got to find comfort in the Bible.
 - A lot of us are not finding comfort in the scriptures because a lot of us lack faith. You don't believe that the Bible can transform you, that the Bible can turn you into another man.
 
-**[1 Samuel 10:6](/bible/1-samuel/10#v6)**  *[29:35]*
+**[1 Samuel 10:6](/bible/1-samuel/10#v6)**  *[[29:35](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=1775s)]*
 
 > <sup>[6](/bible/1-samuel/10#v6)</sup> And the Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 
@@ -55,7 +55,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 
     If so be that ye will subdue your own understanding, and reform your hearts, ye shall be kept alive, and after death ye shall obtain mercy. We got to be transformed in the renewing of our minds.
 
-**[Romans 15:13](/bible/romans/15#v13)**  *[32:29]*
+**[Romans 15:13](/bible/romans/15#v13)**  *[[32:29](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=1949s)]*
 
 > <sup>[13](/bible/romans/15#v13)</sup> Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.
 
@@ -64,13 +64,13 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - You got brothers coming up to the table: I drank a whole fifth in one night. Bro, are you an alcoholic? No. You are an alcoholic. Even the white man knows that; the first step of recovery at AA is to admit you are an alcoholic. You got to realize that you need help, that you are sick.
 - Video played from the Soft White Underbelly interviews: a homeless alcoholic says he never stopped drinking, calls drinking his occupation, and says the drink is more important than water and more important than his girlfriend. That is what hopelessness looks and sounds like. A lot of brothers think like that, and they don't tell nobody.
 
-**[Ephesians 5:26](/bible/ephesians/5#v26)**  *[38:10]*
+**[Ephesians 5:26](/bible/ephesians/5#v26)**  *[[38:10](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=2290s)]*
 
 > <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
 
 - That he might sanctify and cleanse it with the washing of water by the word. Your drink has become more important than the washing of water by the word of God. Christ said whosoever drinks of the living water shall never thirst again; now that drink has become more important than that.
 
-**[Psalms 39:7-8](/bible/psalms/39#v7)**  *[38:48]*
+**[Psalms 39:7-8](/bible/psalms/39#v7)**  *[[38:48](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=2328s)]*
 
 > <sup>[7](/bible/psalms/39#v7)</sup> And now, Lord, what wait I for? my hope is in thee.
 >
@@ -79,7 +79,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - And now, Lord, what wait I for? My hope is in thee. Your hope must be in the Lord.
 - Deliver me from all my transgressions. Drunkenness is a sin. It is in the same category as adultery, in the same category as lying. Those are demons, demonic entities.
 
-**[2 Corinthians 12:9](/bible/2-corinthians/12#v9)**  *[39:57]*
+**[2 Corinthians 12:9](/bible/2-corinthians/12#v9)**  *[[39:57](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=2397s)]*
 
 > <sup>[9](/bible/2-corinthians/12#v9)</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
@@ -87,7 +87,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - You are the greatest people on the face of the planet. Brothers go out and teach blacks, Hispanics, Native Indians that you are God's chosen people, while still inside of themselves they believe they are nothing. That is sickness. You got to get over that spirit. You are greater than what you think. You are stronger than the alcohol, stronger than the pornography, stronger than what you are dealing with.
 - Brothers leave the truth over nothing. I'm leaving because a brother dealt with me as a father would deal with his son and told me to get in the green. I'm leaving because I don't get along with the man over me. But you get along with the white man at your job; every other nation can be over you, but your own people can't tell you nothing.
 
-**[Proverbs 24:10](/bible/proverbs/24#v10)**  *[43:39]*
+**[Proverbs 24:10](/bible/proverbs/24#v10)**  *[[43:39](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=2619s)]*
 
 > <sup>[10](/bible/proverbs/24#v10)</sup> If thou faint in the day of adversity, thy strength is small.
 
@@ -95,7 +95,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - That means you are not prepared for when the real trials come. And your memory is going to fade away like the wind in six months; nobody will remember who you are.
 - Alcoholism: it starts to help you forget, then it becomes the only thing you remember. I'm depressed, my wife is being evil, I got corrected, I got demoted, I lost my job; I'm going to turn to the bottle. It starts to help you forget, but then it becomes the only thing you remember.
 
-**[Proverbs 20:1](/bible/proverbs/20#v1)**  *[47:12]*
+**[Proverbs 20:1](/bible/proverbs/20#v1)**  *[[47:12](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=2832s)]*
 
 > <sup>[1](/bible/proverbs/20#v1)</sup> Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
 
@@ -105,7 +105,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - News discussed in class: the Carmelo Anthony case. He was sentenced on a Saturday and taken to prison the next day, when it normally takes a month or more sitting in county before they send you up the road, and they put him in a prison where the uncle of Austin Metcalf, the young man he fought with, is the warden; the judge and prosecution were friends of the family. And y'all tell me the system isn't rigged. That is the 13th Amendment at work: sweat equity.
 - Escapism: running from reality only makes it louder. In this context we are talking about alcohol, but it could be porn, TikTok, video games, anything you use to escape reality.
 
-**[Galatians 5:19-21](/bible/galatians/5#v19)**  *[53:07]*
+**[Galatians 5:19-21](/bible/galatians/5#v19)**  *[[53:07](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=3187s)]*
 
 > <sup>[19](/bible/galatians/5#v19)</sup> Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,
 >
@@ -117,7 +117,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - Drunkenness is in the same sentence as envy and murder and idolatry. These are all spirits, all demons. That is why they call liquor spirits. You get drunk, you become a whole other person: an angry drunk, a crying drunk crying about something from fifty years ago. That is the Hennessy talking.
 - They which do such things shall not inherit the kingdom of God. We don't put drunkenness in the same sentence as murder, in the context of not getting into the kingdom, because the brother says I don't get drunk. If you need a shot before you go to work, or you got to take a shot while at work, you are a drunkard. If you get the shakes, if you go into withdrawal from not drinking in a day, you are an alcoholic. And alcohol is one of the few drugs whose withdrawal can kill you; that is how your body becomes dependent on it.
 
-**[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[58:01]*
+**[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[[58:01](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=3481s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 >
@@ -128,13 +128,13 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - Know ye not that the unrighteous shall not inherit the kingdom of God? Nor thieves, nor covetous, nor drunkards. There it is again: drunkards in the same sentence as the effeminate and abusers of themselves with mankind. Brothers say I'm not a homosexual, but I do get drunk sometimes. It is the same vein of sin.
 - And such were some of you: but ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus. Ye are washed with the word of God, like we just read in Ephesians 5. That is that transformation.
 
-**[Isaiah 5:22](/bible/isaiah/5#v22)**  *[1:00:03]*
+**[Isaiah 5:22](/bible/isaiah/5#v22)**  *[[1:00:03](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=3603s)]*
 
 > <sup>[22](/bible/isaiah/5#v22)</sup> Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:
 
 - Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink. You got brothers on these podcasts drinking a bottle every single episode. Look at Shannon Sharpe's show: expensive Hennessy with every interview. Why? Because the liquor loosens the lips; it promotes gossip and strife. They said Cat Williams was already tipsy before he even started talking.
 
-**[Ecclesiasticus 31:27-30](/bible/sirach/31#v27)**  *[1:02:56]*
+**[Ecclesiasticus 31:27-30](/bible/sirach/31#v27)**  *[[1:02:56](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=3776s)]*
 
 > <sup>[27](/bible/sirach/31#v27)</sup> Wine is as good as life to a man, if it be drunk moderately: what life is then to a man that is without wine? for it was made to make men glad.
 >
@@ -155,20 +155,20 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - The bottle may quiet the pain, but it never heals the wound. You drink to forget what you can't forgive yourself for. It promises connection but leaves you even more alone, because nobody wants to be around a drunkard: you lose the faith of the brothers, your spouse, your kids, your job.
 - You may be able to bury it for a year, but year two the health issues start. There is only so much your liver can clean out, only so much your heart and your blood pressure can take before your body starts to shut down. What you have become is a shell of who you really are, a vessel of Satan.
 
-**[Psalms 42:11](/bible/psalms/42#v11)**  *[1:24:53]*
+**[Psalms 42:11](/bible/psalms/42#v11)**  *[[1:24:53](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=5093s)]*
 
 > <sup>[11](/bible/psalms/42#v11)</sup> Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.
 
 - Why art thou cast down, O my soul? Hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God. The Bible acknowledges emotional suffering, despair, and discouragement. Why is your soul cast down? Why don't you have any hope? Why do you turn to alcohol? Hope thou in God.
 - People say it isn't that simple. It is simple: you put your hope in the bottle, and you prove it because you do it every day and can't stop. The same way you are faithful to that bottle is how you are supposed to be doing the word of God: reading every day, desiring wisdom.
 
-**[Proverbs 17:22](/bible/proverbs/17#v22)**  *[1:26:36]*
+**[Proverbs 17:22](/bible/proverbs/17#v22)**  *[[1:26:36](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=5196s)]*
 
 > <sup>[22](/bible/proverbs/17#v22)</sup> A merry heart doeth good like a medicine: but a broken spirit drieth the bones.
 
 - A merry heart doeth good like a medicine: but a broken spirit drieth the bones. That broken spirit is the battle: the loneliness, trauma, guilt, shame, depression, fear of failure. And what does it do? It dries the bones. No life in you, and now you are making decisions that don't even make sense.
 
-**[2 Corinthians 10:3-5](/bible/2-corinthians/10#v3)**  *[1:27:23]*
+**[2 Corinthians 10:3-5](/bible/2-corinthians/10#v3)**  *[[1:27:23](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=5243s)]*
 
 > <sup>[3](/bible/2-corinthians/10#v3)</sup> For though we walk in the flesh, we do not war after the flesh:
 >
@@ -179,7 +179,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - The weapons of our warfare are not carnal. What weapons are used against us? Christianity, the legal system, white Jesus, media, depression, trauma, loneliness, post-traumatic slave syndrome.
 - But mighty through God to the pulling down of strongholds, casting down imaginations, and bringing into captivity every thought to the obedience of Christ. Our weapon is the Bible. You cannot defeat loneliness with a gun; you can't defeat shame and depression with alcohol; you can't defeat these doctrines coming against us with a physical object. You have to use the Bible.
 
-**[Psalms 34:18-19](/bible/psalms/34#v18)**  *[1:29:22]*
+**[Psalms 34:18-19](/bible/psalms/34#v18)**  *[[1:29:22](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=5362s)]*
 
 > <sup>[18](/bible/psalms/34#v18)</sup> The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
 >
@@ -188,7 +188,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - The Lord is nigh unto them that are of a broken heart, and saveth such as be of a contrite spirit.
 - Many are the afflictions of the righteous: but the Lord delivereth him out of them all. We are going to be afflicted; we got to be prepared for what is to come, prepared to be thrown in prison, to have our lives put on the line. How are we going to jeopardize our lives when we can't even get over depression, when we still turn to alcohol to get through the day? You are not ready to go across the world if you can't get over alcoholism in America.
 
-**[Psalms 55:22](/bible/psalms/55#v22)**  *[1:31:29]*
+**[Psalms 55:22](/bible/psalms/55#v22)**  *[[1:31:29](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=5489s)]*
 
 > <sup>[22](/bible/psalms/55#v22)</sup> Cast thy burden upon the Lord, and he shall sustain thee: he shall never suffer the righteous to be moved.
 
@@ -212,7 +212,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
   - **[Ephesians 5:18](/bible/ephesians/5#v18)**
     > <sup>[18](/bible/ephesians/5#v18)</sup> And be not drunk with wine, wherein is excess; but be filled with the Spirit;
 
-**[Isaiah 41:8-10](/bible/isaiah/41#v8)**  *[1:36:55]*
+**[Isaiah 41:8-10](/bible/isaiah/41#v8)**  *[[1:36:55](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=5815s)]*
 
 > <sup>[8](/bible/isaiah/41#v8)</sup> But thou, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend.
 >
@@ -224,7 +224,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - I have chosen thee, and not cast thee away. The Lord did not cast us away. Fear thou not, for I am with thee: be not dismayed, for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. The Lord said he has got us. These are the encouraging words we got to remind ourselves of.
 - But you got to acknowledge: I am an alcoholic, I am a fornicator, a liar, a thief, covetous, an idolater. You got to acknowledge these things; that is where the change happens. But acknowledging is not enough; you also got to work at them.
 
-**[Psalms 94:16](/bible/psalms/94#v16)**  *[1:41:36]*
+**[Psalms 94:16](/bible/psalms/94#v16)**  *[[1:41:36](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=6096s)]*
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
 
@@ -235,7 +235,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - The periodic table of booze was read: 120 to 125 calories in a glass of Chardonnay, 100 to 120 in a shot of whiskey, up to 200 per IPA, 200 to 500 in a margarita, 240 to 650 in a pina colada. And nobody takes one shot; you take four or five every drink. That is thousands of calories a week in liquor alone, and you wonder why you can't lose weight. Weight loss is calories in, calories out.
 - Deacon Yashua said you should be able to just drop it for six months. Drop the alcohol for six months and watch how fast you get in the green.
 
-**[Psalms 73:26-28](/bible/psalms/73#v26)**  *[1:57:52]*
+**[Psalms 73:26-28](/bible/psalms/73#v26)**  *[[1:57:52](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7072s)]*
 
 > <sup>[26](/bible/psalms/73#v26)</sup> My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
 >
@@ -245,7 +245,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 
 - My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. They that are far from thee shall perish. But it is good for me to draw near to God: I have put my trust in the Lord God. Brothers, let the alcohol go. Sisters, let the alcohol go.
 
-**[1 Kings 2:1-3](/bible/1-kings/2#v1)**  *[1:58:57]*
+**[1 Kings 2:1-3](/bible/1-kings/2#v1)**  *[[1:58:57](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7137s)]*
 
 > <sup>[1](/bible/1-kings/2#v1)</sup> Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,
 >
@@ -257,7 +257,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - All I hear from brothers on the West Coast is low self-esteem, I'm depressed, I'm messed up. You don't realize how great you really are; you teach it, but you don't believe it. Men don't run. Men of God cannot be bound with addiction, alcoholism, or pornography. Those men are going to break free.
 - And keep the charge of the Lord thy God, to walk in his ways, to keep his statutes and his commandments, as it is written in the law of Moses, that thou mayest prosper in all that thou doest.
 
-**[Ephesians 6:11](/bible/ephesians/6#v11)**  *[2:01:48]*
+**[Ephesians 6:11](/bible/ephesians/6#v11)**  *[[2:01:48](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7308s)]*
 
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 
@@ -265,7 +265,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - You may not deal with pornography, but you deal with alcoholism that you keep to yourself. You are not building up the strength to overcome it because you are hiding it. Brothers will confess any sin except the one that is killing them.
 - It is like an armor set in a game: if one piece is weak, one hit kills you. It is spiritual. We got to build up our armor, confess and overcome these things, not go home and get drunk back at the ranch.
 
-**[2 Timothy 2:3-4](/bible/2-timothy/2#v3)**  *[2:06:56]*
+**[2 Timothy 2:3-4](/bible/2-timothy/2#v3)**  *[[2:06:56](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7616s)]*
 
 > <sup>[3](/bible/2-timothy/2#v3)</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ.
 >
@@ -274,7 +274,7 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 - Endure hardness as a good soldier of Jesus Christ. No man that warreth entangleth himself with the affairs of this life. Our people run the same cycle of holidays every year: July 4th is coming, then Thanksgiving, Halloween, Christmas, New Year's. And around these holidays is when our people get killed the most.
 - In these last days there is no excuse for not knowing who the enemy is; they tell you to your face on social media that they want to wipe us off the planet, and the comment gets a hundred thumbs up. Those thumbs up are your friendly neighborhood coworkers, teachers, doctors, lawyers, judges, police officers. They had a rally telling white men to stand up and fight back, to take America back. Take it back? You still got it; we never took America.
 
-**[Acts 3:19](/bible/acts/3#v19)**  *[2:10:41]*
+**[Acts 3:19](/bible/acts/3#v19)**  *[[2:10:41](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=7841s)]*
 
 > <sup>[19](/bible/acts/3#v19)</sup> Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
 
@@ -286,13 +286,13 @@ Video played from the Soft White Underbelly interviews: a man about 50 years old
 
     Flee from sin as from the face of a serpent: for if thou comest too near it, it will bite thee. The teeth thereof are as the teeth of a lion, slaying the souls of men. You know which sins you deal with, yet you still entertain them.
 
-**[2 Chronicles 7:14](/bible/2-chronicles/7#v14)**  *[2:13:20]*
+**[2 Chronicles 7:14](/bible/2-chronicles/7#v14)**  *[[2:13:20](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=8000s)]*
 
 > <sup>[14](/bible/2-chronicles/7#v14)</sup> If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
 
 - If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land. What goes into humility? Confession. Humbling down and realizing you have a problem, realizing that maybe you are the problem. People never put themselves in the seat of being the problem; they always put themselves in the seat of solving it.
 
-**[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[2:14:50]*
+**[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[[2:14:50](https://www.youtube.com/watch?v=KcKlRTSaOVM&t=8090s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 >
@@ -324,4 +324,4 @@ Brothers, sisters, don't let this class slip past you. For those dealing with al
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-20-the-bottle-the-battle-and-the-bible)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=KcKlRTSaOVM)

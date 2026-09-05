@@ -25,7 +25,7 @@ Books read to open the class:
 
 ## Scriptures Opened
 
-**[Colossians 2:1](/bible/colossians/2#v1)**  *[25:17]*
+**[Colossians 2:1](/bible/colossians/2#v1)**  *[[25:17](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=1517s)]*
 
 > <sup>[1](/bible/colossians/2#v1)</sup> For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 
@@ -41,7 +41,7 @@ Books read to open the class:
 
     Epaphras, who is one of you, a servant of Christ, always labouring fervently for you in prayers; for I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis. So his companion in the truth and the gospel, his fellow soldier Epaphras, was of Laodicea and was going back and forth, dealing with Laodicea directly.
 
-**[Colossians 2:2](/bible/colossians/2#v2)**  *[29:20]*
+**[Colossians 2:2](/bible/colossians/2#v2)**  *[[29:20](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=1760s)]*
 
 > <sup>[2](/bible/colossians/2#v2)</sup> That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 
@@ -63,7 +63,7 @@ Books read to open the class:
 
     And this is love, that we walk after his commandments. Now we understand the context of love in the Bible: walking after God's commandments.
 
-**[Colossians 1:24-29](/bible/colossians/1#v24)**  *[37:22]*
+**[Colossians 1:24-29](/bible/colossians/1#v24)**  *[[37:22](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=2242s)]*
 
 > <sup>[24](/bible/colossians/1#v24)</sup> Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
 >
@@ -114,7 +114,7 @@ Books read to open the class:
 
     Thou shalt not hate thy brother in thine heart; thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself. Love your neighbor as you love yourself, which are the children of your people: that is the children of your race. You have never been taught that in church. We will love any other race before we love each other.
 
-**[Colossians 2:3](/bible/colossians/2#v3)**  *[45:48]*
+**[Colossians 2:3](/bible/colossians/2#v3)**  *[[45:48](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=2748s)]*
 
 > <sup>[3](/bible/colossians/2#v3)</sup> In whom are hid all the treasures of wisdom and knowledge.
 
@@ -154,7 +154,7 @@ Books read to open the class:
 
     This is where Paul was quoting from. Many of the things Paul is saying, he is getting from the scriptures, the Old Testament. He is not pulling things out of thin air.
 
-**[Colossians 2:4](/bible/colossians/2#v4)**  *[52:44]*
+**[Colossians 2:4](/bible/colossians/2#v4)**  *[[52:44](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=3164s)]*
 
 > <sup>[4](/bible/colossians/2#v4)</sup> And this I say, lest any man should beguile you with enticing words.
 
@@ -197,7 +197,7 @@ Books read to open the class:
 
     I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: which is not another. Why does it say which is not another? Because the Pharisees were using the same scriptures to manipulate the followers of Christ to go back to animal sacrifice. These Christians use the same scriptures to manipulate people that Jesus is white and it is okay to celebrate Christmas. They were using the same text, but lying with deceitful words. There be some that trouble you, and would pervert the gospel of Christ: that is what the Christian church does today. That is their livelihood.
 
-**[Colossians 2:5](/bible/colossians/2#v5)**  *[1:04:01]*
+**[Colossians 2:5](/bible/colossians/2#v5)**  *[[1:04:01](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=3841s)]*
 
 > <sup>[5](/bible/colossians/2#v5)</sup> For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
@@ -235,7 +235,7 @@ Books read to open the class:
 
     There is one that is wise and teacheth many, and yet is unprofitable to himself. When difficult situations come, he does not apply anything he has been teaching. That is called a hypocrite. You can only find that out when he or she is in a difficult situation, whether it is covetousness, stealing, adultery, or hatred.
 
-**[Colossians 2:6-7](/bible/colossians/2#v6)**  *[1:32:30]*
+**[Colossians 2:6-7](/bible/colossians/2#v6)**  *[[1:32:30](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=5550s)]*
 
 > <sup>[6](/bible/colossians/2#v6)</sup> As ye have therefore received Christ Jesus the Lord, so walk ye in him:
 >
@@ -264,7 +264,7 @@ Books read to open the class:
 
     But ye, beloved, building up yourselves on your most holy faith. The key is yourselves. We can go over scriptures until we are blue in the face, but it is up to you to build up yourself, to study and apply. Study, pray, apply: that is upon every man and every woman. It is like the gym: the weights are there, put them to use. Likewise with the word of God.
 
-**[Colossians 2:8](/bible/colossians/2#v8)**  *[1:39:35]*
+**[Colossians 2:8](/bible/colossians/2#v8)**  *[[1:39:35](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=5975s)]*
 
 > <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
@@ -292,7 +292,7 @@ Books read to open the class:
 
     And he that curseth his father, or his mother, shall surely be put to death. That is what Christ was quoting.
 
-**[Colossians 2:9-10](/bible/colossians/2#v9)**  *[1:48:07]*
+**[Colossians 2:9-10](/bible/colossians/2#v9)**  *[[1:48:07](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=6487s)]*
 
 > <sup>[9](/bible/colossians/2#v9)</sup> For in him dwelleth all the fulness of the Godhead bodily.
 >
@@ -301,7 +301,7 @@ Books read to open the class:
 - For in him dwelleth all the fulness of the Godhead bodily. That Godhead goes back to verse 2, the mystery of God, and of the Father, and of Christ, in whom are hid all the treasures of wisdom and knowledge. So we must go through Christ, not the goat. They were saying you need animal sacrifice; Paul was saying the treasures of wisdom and understanding are through Christ.
 - And ye are complete in him, which is the head of all principality and power. How are you going to get around Christ?
 
-**[Colossians 2:11](/bible/colossians/2#v11)**  *[1:49:56]*
+**[Colossians 2:11](/bible/colossians/2#v11)**  *[[1:49:56](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=6596s)]*
 
 > <sup>[11](/bible/colossians/2#v11)</sup> In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 
@@ -323,7 +323,7 @@ Books read to open the class:
 
     For from within, out of the heart of men, proceed evil thoughts: that is how you know your heart is your mind, because evil thoughts do not come from the middle of your chest. Adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness: all these evil things come from within, and defile the man. Definition read in class: lascivious describes someone or something driven by or tending to arouse unrestrained sexual desire; pornography falls under that.
 
-**[Colossians 2:12](/bible/colossians/2#v12)**  *[1:53:59]*
+**[Colossians 2:12](/bible/colossians/2#v12)**  *[[1:53:59](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=6839s)]*
 
 > <sup>[12](/bible/colossians/2#v12)</sup> Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.
 
@@ -344,7 +344,7 @@ Books read to open the class:
     Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. The old man is dead; whatever you were, it is passed away. This is why we take on new names, to symbolize the new man and the new woman; it is not mandatory, but it is an example.
 - For any who struggle with addiction: there is nothing wrong with getting clinical help. Get the help you need, legitimately and lawfully, and if we have brothers or sisters trained in that field, maybe we can set something up.
 
-**[Colossians 2:13-14](/bible/colossians/2#v13)**  *[1:59:48]*
+**[Colossians 2:13-14](/bible/colossians/2#v13)**  *[[1:59:48](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=7188s)]*
 
 > <sup>[13](/bible/colossians/2#v13)</sup> And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
 >
@@ -399,7 +399,7 @@ Books read to open the class:
 
     Through this man is preached unto you the forgiveness of sins: and by him all that believe are justified from all things, from which ye could not be justified by the law of Moses. There were sins that had no sacrifice under Moses, like witchcraft: the penalty was death. But under Christ, all that believe are justified from all things.
 
-**[Colossians 2:15](/bible/colossians/2#v15)**  *[2:11:06]*
+**[Colossians 2:15](/bible/colossians/2#v15)**  *[[2:11:06](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=7866s)]*
 
 > <sup>[15](/bible/colossians/2#v15)</sup> And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.
 
@@ -417,7 +417,7 @@ Books read to open the class:
 
     God raised him from the dead and set him at his own right hand, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come. Not only does he have a name above everything now, he is going to have a name above every name even in the world to come. And hath put all things under his feet, and gave him to be the head over all things to the church, which is his body.
 
-**[Colossians 2:16](/bible/colossians/2#v16)**  *[2:13:12]*
+**[Colossians 2:16](/bible/colossians/2#v16)**  *[[2:13:12](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=7992s)]*
 
 > <sup>[16](/bible/colossians/2#v16)</sup> Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:
 
@@ -479,7 +479,7 @@ Books read to open the class:
 
     It shall be the prince's part to give burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, to make reconciliation for the house of Israel. The meat and drink of Colossians 2:16 are these offerings.
 
-**[Colossians 2:17](/bible/colossians/2#v17)**  *[2:27:51]*
+**[Colossians 2:17](/bible/colossians/2#v17)**  *[[2:27:51](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=8871s)]*
 
 > <sup>[17](/bible/colossians/2#v17)</sup> Which are a shadow of things to come; but the body is of Christ.
 
@@ -495,7 +495,7 @@ Books read to open the class:
 
     Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: see that thou make all things according to the pattern shewed to thee in the mount. Everything Moses did was symbolic of what he saw in the heavens.
 
-**[Colossians 2:18-19](/bible/colossians/2#v18)**  *[2:29:08]*
+**[Colossians 2:18-19](/bible/colossians/2#v18)**  *[[2:29:08](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=8948s)]*
 
 > <sup>[18](/bible/colossians/2#v18)</sup> Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
 >
@@ -562,7 +562,7 @@ Books read to open the class:
 
     But speaking the truth in love, may grow up into him in all things, which is the head, even Christ. These men were not holding Christ as the head.
 
-**[Colossians 2:20-22](/bible/colossians/2#v20)**  *[2:43:45]*
+**[Colossians 2:20-22](/bible/colossians/2#v20)**  *[[2:43:45](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=9825s)]*
 
 > <sup>[20](/bible/colossians/2#v20)</sup> Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
 >
@@ -597,7 +597,7 @@ Books read to open the class:
 
     Moses truly said, a prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things. And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people. You reject Christ and what he said, that is your outcome. This is what Paul was warning them about.
 
-**[Colossians 2:23](/bible/colossians/2#v23)**  *[2:50:06]*
+**[Colossians 2:23](/bible/colossians/2#v23)**  *[[2:50:06](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=10206s)]*
 
 > <sup>[23](/bible/colossians/2#v23)</sup> Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.
 
@@ -622,7 +622,7 @@ Books read to open the class:
 
     There are certain men crept in unawares, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ. Everything in the Bible with them turned into sexual immorality. Those spirits are back today.
 
-**[Colossians 3:1-5](/bible/colossians/3#v1)**  *[2:59:34]*
+**[Colossians 3:1-5](/bible/colossians/3#v1)**  *[[2:59:34](https://www.youtube.com/watch?v=AP1-gbdhOv8&t=10774s)]*
 
 > <sup>[1](/bible/colossians/3#v1)</sup> If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 >
@@ -696,4 +696,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-06-deceived-by-enticing-words-colossians-2)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=AP1-gbdhOv8)

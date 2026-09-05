@@ -36,19 +36,19 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 
 ## Scriptures Opened
 
-**[1 Peter 5:7](/bible/1-peter/5#v7)**  *[6:14]*
+**[1 Peter 5:7](/bible/1-peter/5#v7)**  *[[6:14](https://www.youtube.com/watch?v=Qd8NC9s9670&t=374s)]*
 
 > <sup>[7](/bible/1-peter/5#v7)</sup> Casting all your care upon him; for he careth for you.
 
 - For the brothers and sisters that are worried, that are in the hospital, that the doctor told, you might not have long to live: this is the state of mind to have. Casting all your care upon him, for he careth for you. When things get bad and you are hurting inside, we have to learn to cast all our cares upon the Lord, because the Lord cares for us, no matter what we are going through, even in sickness and death. Do not think death is the end of it.
 
-**[Psalms 94:19](/bible/psalms/94#v19)**  *[8:11]*
+**[Psalms 94:19](/bible/psalms/94#v19)**  *[[8:11](https://www.youtube.com/watch?v=Qd8NC9s9670&t=491s)]*
 
 > <sup>[19](/bible/psalms/94#v19)</sup> In the multitude of my thoughts within me thy comforts delight my soul.
 
 - In the multitude of my thoughts within me thy comforts delight my soul. That is where your comfort comes from: your thoughts. You will be home by yourself while you are being afflicted, going through your trials. Whether you are in prison or sick at home alone, all you have is your thoughts, so you have to comfort yourself in your thoughts. How? You have to know the scriptures and trust in the Lord.
 
-**[1 Thessalonians 4:13-14](/bible/1-thessalonians/4#v13)**  *[11:13]*
+**[1 Thessalonians 4:13-14](/bible/1-thessalonians/4#v13)**  *[[11:13](https://www.youtube.com/watch?v=Qd8NC9s9670&t=673s)]*
 
 > <sup>[13](/bible/1-thessalonians/4#v13)</sup> But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
 >
@@ -57,25 +57,25 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - Concerning them which are asleep, sorrow not, even as others which have no hope. If you die in Christ, you are not like those with no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. If you die right now and you are doing what is right, you are not really dead; the Lord is going to bring you back.
 - That is how you comfort yourself in your thoughts: the doctor tells me I do not have long to live, but I have been serving God and doing what is right, so this is not the end for me. Eventually every one of us has to leave this flesh; death comes to all men. But death for us is you leaving this wicked world and going back to the Lord.
 
-**[1 Thessalonians 4:18](/bible/1-thessalonians/4#v18)**  *[15:03]*
+**[1 Thessalonians 4:18](/bible/1-thessalonians/4#v18)**  *[[15:03](https://www.youtube.com/watch?v=Qd8NC9s9670&t=903s)]*
 
 > <sup>[18](/bible/1-thessalonians/4#v18)</sup> Wherefore comfort one another with these words.
 
 - Wherefore comfort one another with these words. These words, the word of God, is what you need in your thoughts. We are not going to be around you all the time; sometimes you might get depressed, might feel like giving up, and Satan will be whispering in your ear, God does not care about you, why is God allowing you to die. You have to learn to comfort yourself with these words.
 
-**[Matthew 22:32](/bible/matthew/22#v32)**  *[16:25]*
+**[Matthew 22:32](/bible/matthew/22#v32)**  *[[16:25](https://www.youtube.com/watch?v=Qd8NC9s9670&t=985s)]*
 
 > <sup>[32](/bible/matthew/22#v32)</sup> I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 
 - I am the God of Abraham, and the God of Isaac, and the God of Jacob: God is not the God of the dead, but of the living. What is that saying about Abraham, Isaac, and Jacob? They are living; they are not dead.
 
-**[Genesis 49:33](/bible/genesis/49#v33)**  *[17:18]*
+**[Genesis 49:33](/bible/genesis/49#v33)**  *[[17:18](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1038s)]*
 
 > <sup>[33](/bible/genesis/49#v33)</sup> And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 
 - After Jacob blessed his twelve sons and told them what would happen in the last days, he gathered up his feet into the bed, yielded up the ghost, and was gathered unto his people. When Jacob died he was gathered unto his people. That is what Christ was saying: he is not the God of the dead but of the living.
 
-**[Ephesians 3:14-15](/bible/ephesians/3#v14)**  *[19:01]*
+**[Ephesians 3:14-15](/bible/ephesians/3#v14)**  *[[19:01](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1141s)]*
 
 > <sup>[14](/bible/ephesians/3#v14)</sup> For this cause I bow my knees unto the Father of our Lord Jesus Christ,
 >
@@ -83,7 +83,7 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 
 - Of whom the whole family in heaven and earth is named: that family is Israel, princes that have power with God. So when it says Jacob was gathered unto his people, it means he went to paradise. That is the hope and the comfort you have to have: when Jacob died he was not really dead, he went back to paradise.
 
-**[Job 14:5-7](/bible/job/14#v5)**  *[20:50]*
+**[Job 14:5-7](/bible/job/14#v5)**  *[[20:50](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1250s)]*
 
 > <sup>[5](/bible/job/14#v5)</sup> Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;
 >
@@ -95,13 +95,13 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - Till he shall accomplish, as an hireling, his day. A hireling is somebody you give work for a certain amount of time. God sends us on this earth with a job to do and a certain amount of time to do it, and once the job is finished and the time is up, he takes you back. The same with Abraham, Isaac, Jacob, David, Judah Maccabee and his brothers, Mattathias, Elijah: God has a purpose and a job for every one of us.
 - Turn from him, that he may rest: that rest is going back to paradise if you are righteous. For there is hope of a tree, if it be cut down, that it will sprout again: our hope for immortality is that tree; a class for another day.
 
-**[Romans 14:8](/bible/romans/14#v8)**  *[26:29]*
+**[Romans 14:8](/bible/romans/14#v8)**  *[[26:29](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1589s)]*
 
 > <sup>[8](/bible/romans/14#v8)</sup> For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord’s.
 
 - Whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's. This is the mindset we have to have. Do not let fear of things mess with your spirit. We have to build ourselves up to where we are not afraid of being with the Lord.
 
-**[2 Corinthians 5:8-9](/bible/2-corinthians/5#v8)**  *[29:02]*
+**[2 Corinthians 5:8-9](/bible/2-corinthians/5#v8)**  *[[29:02](https://www.youtube.com/watch?v=Qd8NC9s9670&t=1742s)]*
 
 > <sup>[8](/bible/2-corinthians/5#v8)</sup> We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.
 >
@@ -111,7 +111,7 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - Wherefore we labour, that, whether present or absent, we may be accepted of him. The labor is doing what is right on this earth: keep the commandments, love each other, so you can be in his presence when you die.
 - And understand: even though you go to paradise, the Lord is bringing you back to this earth. The whole end of everything is the kingdom of God coming on this earth and us ruling this earth, not living up in the sky.
 
-**[Habakkuk 1:9-11](/bible/habakkuk/1#v9)**  *[42:31]*
+**[Habakkuk 1:9-11](/bible/habakkuk/1#v9)**  *[[42:31](https://www.youtube.com/watch?v=Qd8NC9s9670&t=2551s)]*
 
 > <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
 >
@@ -124,7 +124,7 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god. After he murdered and took every stronghold, he starts teaching Christianity: in God we trust, God bless America. He imputes his power to his god, the white image of Christ, and calls himself a God fearing country.
 - When and why did his mind really change? After 1945, when America became the superpower. America could not push democracy in Africa and around the world and act like a loving, God fearing people about rights and justice while it still had segregation and Jim Crow laws at home. The other countries said, you have no moral standing; look how you treat the black people in your country. So he changed his image: I am going to keep oppressing, but in a slick way, not openly before the world. That is what happened in 1965 with civil rights. It was not because the white man loved you; it was international pressure. Lyndon Johnson is even quoted saying that if they give us these things, we will be voting for his party for the next hundred years.
 
-**[Isaiah 28:15](/bible/isaiah/28#v15)**  *[53:01]*
+**[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[53:01](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3181s)]*
 
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
@@ -143,7 +143,7 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 
     Woe to the rebellious children, that take counsel, but not of me; and that cover with a covering, but not of my spirit: that covering is Christianity and politics, Democrat and Republican, adding sin to sin. That walk to go down into Egypt: literally our people went down to ancient Egypt for help against Babylon after God told Jeremiah to warn them not to. But there is a double meaning: the shadow of Egypt is America. A shadow is not the real thing; Revelation 11:8 says the great city is spiritually called Sodom and Egypt. Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion: those who put their strength in the presidents of America will be ashamed and confused.
 
-**[Isaiah 28:16-18](/bible/isaiah/28#v16)**  *[57:37]*
+**[Isaiah 28:16-18](/bible/isaiah/28#v16)**  *[[57:37](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3457s)]*
 
 > <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
 >
@@ -156,39 +156,39 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - The hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place. The hail is destruction sweeping away all the lies our people trust in: Christ born December 25th, Easter, white Jesus. The waters are the word of God, revealing every secret thing they have done and tearing down every lie with the scriptures.
 - And your covenant with death shall be disannulled, and your agreement with hell shall not stand. The covenant black America made in 1964 and 1965, the civil rights, the Voting Rights Act, the integration, all of it is going to fall apart, and you are seeing it happen right now before your eyes. When the overflowing scourge shall pass through, then ye shall be trodden down by it: judgment is coming to this place.
 
-**[Micah 2:10](/bible/micah/2#v10)**  *[1:02:53]*
+**[Micah 2:10](/bible/micah/2#v10)**  *[[1:02:53](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3773s)]*
 
 > <sup>[10](/bible/micah/2#v10)</sup> Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.
 
 - Arise ye, and depart; for this is not your rest. Because of the covenant our people made with America, our people have been at rest; you think this place is your rest. You have been rocked to sleep, fed the democracy and the American dream. But God says arise and depart, because it is polluted, it shall destroy you.
 - Video played in class: Jesse Jackson, who passed a few months ago, one of the architects of civil rights, saying America will get better and better, keep hope alive. That is one of the leaders that made the covenant with hell and death. That is where the phrase keep hope alive came from. But is it getting better? No; it is going backwards.
 
-**[Zechariah 9:12](/bible/zechariah/9#v12)**  *[1:05:35]*
+**[Zechariah 9:12](/bible/zechariah/9#v12)**  *[[1:05:35](https://www.youtube.com/watch?v=Qd8NC9s9670&t=3935s)]*
 
 > <sup>[12](/bible/zechariah/9#v12)</sup> Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
 
 - Turn you to the strong hold, ye prisoners of hope. God warned us to turn to the stronghold, and the stronghold is our God, not America. Why does it call us prisoners of hope? Because we are always hoping, the same keep hope alive. But God says the covenant our leaders made with America is not going to stand.
 
-**[Isaiah 28:18](/bible/isaiah/28#v18)**  *[1:07:22]*
+**[Isaiah 28:18](/bible/isaiah/28#v18)**  *[[1:07:22](https://www.youtube.com/watch?v=Qd8NC9s9670&t=4042s)]*
 
 > <sup>[18](/bible/isaiah/28#v18)</sup> And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
 
 - Read again over the videos of the week: your covenant with death shall be disannulled, and your agreement with hell shall not stand. The week's news above is that disannulling in motion: the Voting Rights Act gutted, the SAVE Act, the passport offices closed, the purges and the firings. The white man allowed you to vote for 60 years and renewed your voting rights at least twice; right now they are scrapping the whole thing.
 - All the immigrants living here should understand: you have rights here because of Judah, because of that fight in the 60s. The black civil rights movement cracked the whole system open, and every minority group walked through that door; now it is being closed back up. Judah is an old lion, but the spirit of Christ is raising him up, and Judah is roaring.
 
-**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[1:55:02]*
+**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[1:55:02](https://www.youtube.com/watch?v=Qd8NC9s9670&t=6902s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
 
 - As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us. We came here as slaves, and we look to the people that oppressed and destroyed us to save us: give us rights, treat us as human beings, let us vote for a president or a senator that could better our community. We watch for a nation that cannot save us. The scripture tells you who saves: your savior is your King, and that is Christ, the black Messiah.
 
-**[Psalms 94:20](/bible/psalms/94#v20)**  *[1:56:42]*
+**[Psalms 94:20](/bible/psalms/94#v20)**  *[[1:56:42](https://www.youtube.com/watch?v=Qd8NC9s9670&t=7002s)]*
 
 > <sup>[20](/bible/psalms/94#v20)</sup> Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?
 
 - Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law? They frame mischief by law: all these laws they are setting up are to destroy our people, to take away your rights, to stop you from voting, to lock you up. The Jim Crow laws were the same; if you went against them you were locked up and put in prison. The throne of iniquity will have no fellowship with the Lord.
 
-**[Isaiah 32:5-10](/bible/isaiah/32#v5)**  *[1:58:43]*
+**[Isaiah 32:5-10](/bible/isaiah/32#v5)**  *[[1:58:43](https://www.youtube.com/watch?v=Qd8NC9s9670&t=7123s)]*
 
 > <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
 >
@@ -209,14 +209,14 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - Rise up, ye women that are at ease; hear my voice, ye careless daughters. Why does God address the women at ease? Because the liberal things were set up around the black woman, to keep the house divided: Section 8 as long as the man is not around, food stamps as long as the man is not around, the career woman message. Now over 200,000 women in high positions have lost their jobs, the nursing funding is being cut, and even child support enforcement is being turned into a trap. All of it is failing, because God said it would.
 - Many days and years shall ye be troubled: affliction is coming here in Babylon, and everything the white man gave is going to be taken. God says rise up and hear my voice: it is the word of God you are hearing, and the time is now.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[2:08:31]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[2:08:31](https://www.youtube.com/watch?v=Qd8NC9s9670&t=7711s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
 - I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early. Our people have not acknowledged their offense yet, but we are beginning to; that is why you see us coming together. Affliction is coming to America and all over the world, because God says that for my people to seek my face, I have to afflict them.
 - It has been 60 years since civil rights. What did our people do with them? The scoreboard is rap music about killing each other, drugs, and hating each other. So the rights are being taken back. God sent Trump to do what you see him doing, because he wants you to turn to him.
 
-**[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[2:10:54]*
+**[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[2:10:54](https://www.youtube.com/watch?v=Qd8NC9s9670&t=7854s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 
@@ -237,4 +237,4 @@ Closing reading over the bread and the wine: 1 Corinthians 11:23-29, the bread a
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-02-the-return-of-jim-crow)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=Qd8NC9s9670)

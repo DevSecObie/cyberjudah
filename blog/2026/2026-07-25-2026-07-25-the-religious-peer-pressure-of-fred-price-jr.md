@@ -20,7 +20,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 
 ## Scriptures Opened
 
-**[Job 8:8-10](/bible/job/8#v8)**  *[16:17]*
+**[Job 8:8-10](/bible/job/8#v8)**  *[[16:17](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=977s)]*
 
 > <sup>[8](/bible/job/8#v8)</sup> For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
 >
@@ -34,7 +34,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Shall not they teach thee, and tell thee, and utter words out of their hearts? The fathers of the former age will teach us. Our fathers wrote this book; the Bible is a compilation of the letters of our fathers. We must search it out and it will teach us who we are, where we belong, and who our God is.
 - It was not just him. Kyrie Irving sought knowledge of self and caught hell. Kanye West caught hell. DeSean Jackson, another one. Whenever we seek knowledge of self, we are met with obstacles, so you can understand why he is hesitant.
 
-**[Malachi 4:4-6](/bible/malachi/4#v4)**  *[18:31]*
+**[Malachi 4:4-6](/bible/malachi/4#v4)**  *[[18:31](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=1111s)]*
 
 > <sup>[4](/bible/malachi/4#v4)</sup> Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 >
@@ -47,14 +47,14 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Lest I come and smite the earth with a curse: if he did not do this he would have to destroy the earth, and he is not going to do that, because he sent Elijah.
 - It all started with Abba Bivens, the forerunner of this movement that the host is asking Price to help dismantle. You cannot stop what the Lord has started. The word of God cannot be halted.
 
-**[Zechariah 4:6](/bible/zechariah/4#v6)**  *[25:21]*
+**[Zechariah 4:6](/bible/zechariah/4#v6)**  *[[25:21](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=1521s)]*
 
 > <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
 
 - Zerubbabel was a warrior, and he had it in his mind to take over. The Lord said no: this is not the time to fight. Now is the time to build your people, build your nation, build the temple.
 - Not by might, nor by power, but by my spirit, saith the Lord of hosts. The word of God is what will dismantle this whole system. A wise elder said it years ago in Times Square: this is the book that is going to destroy your world.
 
-**[2 Corinthians 10:4-6](/bible/2-corinthians/10#v4)**  *[27:24]*
+**[2 Corinthians 10:4-6](/bible/2-corinthians/10#v4)**  *[[27:24](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=1644s)]*
 
 > <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 >
@@ -66,7 +66,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Having in a readiness to revenge all disobedience, when your obedience is fulfilled: that is when the vengeance comes.
 - When hosts ask pastors for help to dismantle us, understand that we are the ones dismantling, casting down imaginations without any weapons at all. In 2019 the camps were on the corners and every apologist that came up was answered from the scriptures. That is why they consider us public enemy number one: a group of men standing on the corner with the book, and we are called a threat.
 
-**[Nehemiah 6:10-13](/bible/nehemiah/6#v10)**  *[30:14]*
+**[Nehemiah 6:10-13](/bible/nehemiah/6#v10)**  *[[30:14](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=1814s)]*
 
 > <sup>[10](/bible/nehemiah/6#v10)</sup> Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who was shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay thee; yea, in the night will they come to slay thee.
 >
@@ -80,49 +80,49 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Then Nehemiah perceived that God had not sent him: Tobiah and Sanballat had hired him. The heathen hired one of his own people to convince the leader to run and hide, so they could have matter for an evil report and reproach him. He sold his people out.
 - That fearful spirit Fred Price shows in the video is the symptom of a man not ready to lead, because this movement is life threatening. What this administration has set in motion will not stop whether the man at the top is removed or not; America is reverting back to what she once was. The brothers of the civil rights era faced the white man in his pure form. Some Israelites badmouth Martin Luther King, Malcolm X, and the Panthers, but do not have the same fortitude to face what those men faced.
 
-**[Proverbs 29:25](/bible/proverbs/29#v25)**  *[35:18]*
+**[Proverbs 29:25](/bible/proverbs/29#v25)**  *[[35:18](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2118s)]*
 
 > <sup>[25](/bible/proverbs/29#v25)</sup> The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.
 
 - The fear of man bringeth a snare. It is a trap: you cannot say what you really want to say. Fred Price has to backtrack and fix himself every time he gets close to the truth. If he trusted in the Lord, the true God of Israel, he would say what he has to say and take the risk. But a lot of our people are not built for the risk.
 - Many pastors are on a payroll. He went to a prestigious seminary like his father; the churches are funded by certain institutions, and if a pastor steps outside the approved curriculum in his sermons, he loses that funding. That is the peer pressure.
 
-**[Isaiah 35:4](/bible/isaiah/35#v4)**  *[36:05]*
+**[Isaiah 35:4](/bible/isaiah/35#v4)**  *[[36:05](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2165s)]*
 
 > <sup>[4](/bible/isaiah/35#v4)</sup> Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you.
 
 - Say to them that are of a fearful heart, be strong, fear not. That is the message for Mr. Price.
 - Behold, your God will come with vengeance, even God with a recompence. God does not forget. Our people have never seen real justice since we have been here; temporal justice is not God's justice. He will come and save you: not your pastor, not your priest, not your politician. Your God will come and save you.
 
-**[Philippians 1:14](/bible/philippians/1#v14)**  *[38:02]*
+**[Philippians 1:14](/bible/philippians/1#v14)**  *[[38:02](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2282s)]*
 
 > <sup>[14](/bible/philippians/1#v14)</sup> And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 
 - When Paul was locked up, the brethren in the Lord waxed confident by his bonds and became much more bold to speak the word without fear. Tribulation did not stop the real disciples; it motivated them to teach with more boldness.
 - When tribulation actually comes, we will see what everyone is made of. When leaders start being locked up for this truth, some of you will be made men that day: you will see that what was taught was right all along, and it will embolden you to push this truth even harder at the peril of your own life.
 
-**[2 Timothy 1:7](/bible/2-timothy/1#v7)**  *[41:03]*
+**[2 Timothy 1:7](/bible/2-timothy/1#v7)**  *[[41:03](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2463s)]*
 
 > <sup>[7](/bible/2-timothy/1#v7)</sup> For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
 
 - God hath not given us the spirit of fear, but of power, and of love, and of a sound mind. You believe what you believe and you do not waver.
 - We are not interested in the trinity doctrine. Christ is the Son of God; that is what he told us and that is what we believe. Let us deal with what is important: do you keep God's commandments?
 
-**[Revelation 2:9](/bible/revelation/2#v9)**  *[43:36]*
+**[Revelation 2:9](/bible/revelation/2#v9)**  *[[43:36](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2616s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 
 - In the video Price says Hebrew Israelite theology holds that the Ashkenazi Jews are impostors and goes so far as to call them the synagogue of Satan of Revelation 2. He says we go so far; the Bible is what says it, and we will say it plainly where he will not. Even Candace Owens spoke more boldly than these pastors, quoting Revelation 2:9 to a man's face, and she is married to Esau.
 - I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan. Keep that word blasphemy in mind. Christ identified them, and that is why they do not believe in Christ; their own literature speaks blasphemously of him, which is why the Orthodox do not receive the New Testament at all.
 
-**[Revelation 3:9](/bible/revelation/3#v9)**  *[44:57]*
+**[Revelation 3:9](/bible/revelation/3#v9)**  *[[44:57](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2697s)]*
 
 > <sup>[9](/bible/revelation/3#v9)</sup> Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 
 - Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie, to come and worship before thy feet, and to know that I have loved thee. The feet are John and his people, the real Israelites. That is justice: they will bow before the real chosen people of God and know that the Most High loved us.
 - We are descendants of the man; they just live in the land. They are renters. It is like a stranger moving into your house and claiming it while your family pictures are still on the wall.
 
-**[Ezekiel 35:2-15](/bible/ezekiel/35#v2)**  *[47:58]*
+**[Ezekiel 35:2-15](/bible/ezekiel/35#v2)**  *[[47:58](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=2878s)]*
 
 > <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
 >
@@ -167,7 +167,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Thus with your mouth ye have boasted against me. This has been said to our faces: yes, you are the real Jews, but the land is ours now. They know; the world does not.
 - When the whole earth rejoiceth, I will make thee desolate. As long as that nation runs the earth there is no peace for us. And all Idumea, even all of it: the judgment the Most High pronounces on Edom is complete, with no exceptions and no partiality.
 
-**[Wisdom of Solomon 2:10-21](/bible/wisdom-of-solomon/2#v10)**  *[1:00:49]*
+**[Wisdom of Solomon 2:10-21](/bible/wisdom-of-solomon/2#v10)**  *[[1:00:49](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=3649s)]*
 
 > <sup>[10](/bible/wisdom-of-solomon/2#v10)</sup> Let us oppress the poor righteous man, let us not spare the widow, nor reverence the ancient gray hairs of the aged.
 >
@@ -200,7 +200,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - He is grievous unto us, even to behold: they cannot stand how we look. Our life is not like other men's; we do not follow their ways or their media.
 - Let us prove what shall happen in the end of him. Why do they say that? Because they plan to be responsible for the end of him. Let us see if he meets an accident; if the just man be the son of God, he will help him. Let us examine him with despitefulness and torture; let us condemn him with a shameful death. Such things they did imagine, and were deceived, for their own wickedness hath blinded them: God has other plans for us. The most fearsome Israelite to this system is a righteous one who cannot be bought, bribed, slandered, or destroyed, and the resurrection means they can never be rid of us.
 
-**[Isaiah 29:20-21](/bible/isaiah/29#v20)**  *[1:09:14]*
+**[Isaiah 29:20-21](/bible/isaiah/29#v20)**  *[[1:09:14](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=4154s)]*
 
 > <sup>[20](/bible/isaiah/29#v20)</sup> For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
 >
@@ -215,7 +215,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 
     They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly. So they will pass laws to make the reprover an offender for his words: hate speech, terrorism, treason, unpatriotic. Lock him up. They will do it because they can.
 
-**[James 1:8](/bible/james/1#v8)**  *[1:13:12]*
+**[James 1:8](/bible/james/1#v8)**  *[[1:13:12](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=4392s)]*
 
 > <sup>[8](/bible/james/1#v8)</sup> A double minded man is unstable in all his ways.
 
@@ -225,33 +225,33 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - The Jewish Encyclopedia, prepared by more than 400 of their own scholars and specialists, records the Khazars as a people of Turkish origin whose kingdom was firmly established in South Russia, in what was then called Khazaria. The record states the people were instructed in the Bible, the Mishnah, and the Talmud, that they used Hebrew letters, and that the royal line took Israelite names: Obadiah, Hezekiah, Manasseh, Isaac. It may be assumed that in the ninth century many Khazars became Jews. Members of the royal family migrated to Spain; Russia under Sviatoslav made war on Khazaria and annexed it, and Crimea was known to European travelers as Gazaria into the thirteenth century.
 - That is the nail in the coffin, in their own book: converts. They turned a race into a religion. The Jews were always a nation, a race of people; our religion was part of our race, one and the same.
 
-**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[1:28:04]*
+**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[1:28:04](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=5284s)]*
 
 > <sup>[7](/bible/ecclesiastes/7#v7)</sup> Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 
 - Surely oppression maketh a wise man mad. We are an angry people because we are an oppressed people, and we have been oppressed a very long time.
 - But a gift destroyeth the heart. A gift destroys the integrity of a man and a leader: money, bribery, creature comforts. That is why Mr. Price is so conflicted.
 
-**[Ecclesiasticus 20:29](/bible/sirach/20#v29)**  *[1:28:59]*
+**[Ecclesiasticus 20:29](/bible/sirach/20#v29)**  *[[1:28:59](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=5339s)]*
 
 > <sup>[29](/bible/sirach/20#v29)</sup> Presents and gifts blind the eyes of the wise, and stop up his mouth that he cannot reprove.
 
 - Presents and gifts blind the eyes of the wise, and stop up his mouth that he cannot reprove. They are known for giving gifts: the endorsements, the funding of churches, teams, record labels, media, fashion. Fred Price is a smart brother, but the funding, and the fear of losing it by speaking the truth flat out, stops up his mouth so he cannot say plainly: you are impostors; you converted in the eighth century and turned a race into a religion.
 
-**[Exodus 18:21](/bible/exodus/18#v21)**  *[1:31:26]*
+**[Exodus 18:21](/bible/exodus/18#v21)**  *[[1:31:26](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=5486s)]*
 
 > <sup>[21](/bible/exodus/18#v21)</sup> Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
 
 - Moses was told to provide able men, such as fear God, men of truth, hating covetousness, and place such over the people as rulers of thousands, hundreds, fifties, and tens. The men set over our people had integrity: content with their wages, not looking to be paid off or bought off, not hired the way Sanballat and Tobiah hired that man against Nehemiah. You cannot be bought off or silenced with money.
 
-**[Zephaniah 3:10](/bible/zephaniah/3#v10)**  *[1:37:53]*
+**[Zephaniah 3:10](/bible/zephaniah/3#v10)**  *[[1:37:53](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=5873s)]*
 
 > <sup>[10](/bible/zephaniah/3#v10)</sup> From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.
 
 - In the video Price acknowledges what cannot be denied: there were Hebrews in West Africa before the slave trade.
 - From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed. Beyond the Nile is West Africa. Israel was dispersed along the rivers of Ethiopia and beyond: the west coast, the Congo, north, south, east, and central Africa. We are all over that continent, and on the ground the distinction between Shem and Ham is known; the brothers there carry biblical names and look just like us. If we were abundant in Egypt as slaves, how much more abundant in Africa as exiles?
 
-**[Isaiah 11:10-12](/bible/isaiah/11#v10)**  *[1:41:48]*
+**[Isaiah 11:10-12](/bible/isaiah/11#v10)**  *[[1:41:48](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6108s)]*
 
 > <sup>[10](/bible/isaiah/11#v10)</sup> And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
 >
@@ -263,7 +263,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - The Lord shall set his hand again the second time to recover the remnant of his people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea: our people scattered through those lands and the islands of the oceans.
 - Verse 12 defines the nations of the prophecy: he shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. That is who is gathered the second time to receive the glorious rest. That is context.
 
-**[Deuteronomy 28:64, 68](/bible/deuteronomy/28#v64)**  *[1:45:17]*
+**[Deuteronomy 28:64, 68](/bible/deuteronomy/28#v64)**  *[[1:45:17](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6317s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 >
@@ -272,7 +272,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - The Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, wood and stone: wood is Christianity and stone is Islam, the two prominent religions our scattered people serve.
 - And the Lord shall bring thee into Egypt again with ships. Egypt represents bondage. The first Egypt we walked into; this bondage came by ships, which is why Isaiah 11 says he recovers us the second time. And there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you: no man delivers us from this captivity. Physical deliverance comes from the Most High, not from any man; Christ died to save us from our sins, and he returns to deliver us.
 
-**[Genesis 41:45-46, 50-52](/bible/genesis/41#v45)**  *[1:50:45]*
+**[Genesis 41:45-46, 50-52](/bible/genesis/41#v45)**  *[[1:50:45](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6645s)]*
 
 > <sup>[45](/bible/genesis/41#v45)</sup> And Pharaoh called Joseph’s name Zaphnath–paaneah; and he gave him to wife Asenath the daughter of Poti–pherah priest of On. And Joseph went out over all the land of Egypt.
 >
@@ -287,7 +287,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - In the video Price points to Joseph marrying an Egyptian woman. Pharaoh gave Joseph Asenath, the daughter of Potipherah priest of On, and she bare him Manasseh and Ephraim before the years of famine came.
 - The Egyptians of that day were a dark people. Joseph's sons by an Egyptian mother were black, and Joseph was already black, which the next chapter proves.
 
-**[Genesis 42:6-8, 21-23](/bible/genesis/42#v6)**  *[1:52:04]*
+**[Genesis 42:6-8, 21-23](/bible/genesis/42#v6)**  *[[1:52:04](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6724s)]*
 
 > <sup>[6](/bible/genesis/42#v6)</sup> And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him with their faces to the earth.
 >
@@ -305,7 +305,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - And Joseph knew his brethren, but they knew not him. If the Israelites looked like the people who claim the name today, his brothers would have spotted him instantly among the Egyptians. They did not recognize him because he passed for an Egyptian among Egyptians.
 - They spoke about what they did to Joseph right in front of him in their own tongue, and knew not that Joseph understood them, for he spake unto them by an interpreter. He had learned the Egyptian language and blended in completely.
 
-**[Genesis 50:6-11](/bible/genesis/50#v6)**  *[1:56:24]*
+**[Genesis 50:6-11](/bible/genesis/50#v6)**  *[[1:56:24](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=6984s)]*
 
 > <sup>[6](/bible/genesis/50#v6)</sup> And Pharaoh said, Go up, and bury thy father, according as he made thee swear.
 >
@@ -322,25 +322,25 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - When Jacob died, Pharaoh gave Joseph leave to bury his father, and the servants of Pharaoh, the elders of Egypt, and all the house of Joseph and his brethren went up together, a very great company, and mourned seven days at the threshing floor of Atad.
 - The Canaanites, who were Hamites, a dark people, saw the mourning and said, this is a grievous mourning to the Egyptians; and the place was called Abelmizraim, the mourning of the Egyptians. They looked at Egyptians and Israelites mourning together and called the whole company Egyptians. The Israelites passed for Egyptians because they were black like them.
 
-**[Luke 21:15](/bible/luke/21#v15)**  *[2:01:42]*
+**[Luke 21:15](/bible/luke/21#v15)**  *[[2:01:42](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7302s)]*
 
 > <sup>[15](/bible/luke/21#v15)</sup> For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
 
 - In the video, the man brought on to help dismantle this movement studies it and concludes, they may be on to something. For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist. This is happening in the streets, all over the world, and on that very show. It is like Balaam being hired to curse Israel: the curse is not working.
 
-**[Acts 6:10](/bible/acts/6#v10)**  *[2:02:07]*
+**[Acts 6:10](/bible/acts/6#v10)**  *[[2:02:07](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7327s)]*
 
 > <sup>[10](/bible/acts/6#v10)</sup> And they were not able to resist the wisdom and the spirit by which he spake.
 
 - They were not able to resist the wisdom and the spirit by which Stephen spake. They could not fight what he was saying; all they could do was agree and get angry.
 
-**[John 7:15](/bible/john/7#v15)**  *[2:02:31]*
+**[John 7:15](/bible/john/7#v15)**  *[[2:02:31](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7351s)]*
 
 > <sup>[15](/bible/john/7#v15)</sup> And the Jews marvelled, saying, How knoweth this man letters, having never learned?
 
 - The Jews marvelled, saying, How knoweth this man letters, having never learned? Christ did not attend their seminary or school of theology, and they could not account for his understanding of the scriptures.
 
-**[John 11:47-48](/bible/john/11#v47)**  *[2:03:17]*
+**[John 11:47-48](/bible/john/11#v47)**  *[[2:03:17](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7397s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 >
@@ -349,7 +349,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - The chief priests and Pharisees gathered a council: what do we, for this man doeth many miracles? If we let him alone, all men will believe on him, and the Romans shall come and take away both our place and nation.
 - The elders were in the pocket of Rome; Rome sustained their place and their position. Christ posed a threat to their maintenance over the people, so they moved against him. It is the same spirit behind pastors protecting their funding today.
 
-**[Isaiah 28:14-15](/bible/isaiah/28#v14)**  *[2:04:20]*
+**[Isaiah 28:14-15](/bible/isaiah/28#v14)**  *[[2:04:20](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7460s)]*
 
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
 >
@@ -358,7 +358,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem. Because ye have said, We have made a covenant with death, and with hell are we at agreement. The rulers of our people made covenant with the nations; that is why they cannot stand ten toes down on what we teach.
 - When the overflowing scourge shall pass through, it shall not come unto us: the play it safe doctrine. Some believe that if they teach a safe doctrine, they will be counted the good Israelites and left alone. The scourge comes to all; they just get to you last. For we have made lies our refuge, and under falsehood have we hid ourselves.
 
-**[Isaiah 29:9-16](/bible/isaiah/29#v9)**  *[2:06:10]*
+**[Isaiah 29:9-16](/bible/isaiah/29#v9)**  *[[2:06:10](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=7570s)]*
 
 > <sup>[9](/bible/isaiah/29#v9)</sup> Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
 >
@@ -382,7 +382,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Therefore I will proceed to do a marvellous work among this people: the wisdom of their wise men shall perish. It is happening now; the pastors have no answers.
 - Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? The same interests that fund the councils of churches educate these pastors to keep our people ignorant of who they are according to this Bible. Your turning of things upside down shall be esteemed as the potter's clay: what they turn upside down, God turns right side up.
 
-**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[2:19:49]*
+**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[[2:19:49](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=8389s)]*
 
 > <sup>[16](/bible/isaiah/34#v16)</sup> Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
 
@@ -390,20 +390,20 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - The Bible is the true DNA test. The prophecies, the curses, and the history identify the people; the Bible is a historical book, and outside records can be used as long as they corroborate the text. Christ said, my sheep hear my voice.
 - Here is the standing challenge for anyone who says we are not the people: show one scripture where the Most High returns Israel to the land after 70 AD before the Messiah's return. According to prophecy, God puts all Israel back in the land at the Messiah's coming, as a whole, and when they are there, there is no more war or destruction in the land. What we see over there now does not fit that Bible.
 
-**[Numbers 1:18](/bible/numbers/1#v18)**  *[2:25:48]*
+**[Numbers 1:18](/bible/numbers/1#v18)**  *[[2:25:48](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=8748s)]*
 
 > <sup>[18](/bible/numbers/1#v18)</sup> And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.
 
 - They declared their pedigrees after their families, by the house of their fathers. Genealogy in Israel is based upon the father. Slavery broke our paper trail, but the Bible declares whose house we are: if you hear this book, believe what you are reading, and see that it speaks of your people, it is you. The angels handle the rest at the gathering.
 - Whether you argue the African Americans are Judah or the Jamaicans are Benjamin, either way, they are Israelites. You cannot argue the prophecy: the slave ships, the yokes of iron, the diaspora.
 
-**[Deuteronomy 4:34](/bible/deuteronomy/4#v34)**  *[2:30:13]*
+**[Deuteronomy 4:34](/bible/deuteronomy/4#v34)**  *[[2:30:13](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=9013s)]*
 
 > <sup>[34](/bible/deuteronomy/4#v34)</sup> Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes?
 
 - God took him a nation from the midst of another nation. The Israelites and the Egyptians were both dark peoples, yet they were two separate nations. Being black like the nations around us never erased the distinction the Most High made.
 
-**[Isaiah 30:20-21](/bible/isaiah/30#v20)**  *[2:31:32]*
+**[Isaiah 30:20-21](/bible/isaiah/30#v20)**  *[[2:31:32](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=9092s)]*
 
 > <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
 >
@@ -412,7 +412,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - Though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers. This is the message for Brother Fred Price: you are already at the door; just open it and come learn. Much of what was taught in seminary school is a lie.
 - And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it. Many walk past the truth being taught in the street, but the seed is planted, and eventually they come around. The seed is planted in him; we will see what happens.
 
-**[Jeremiah 3:15](/bible/jeremiah/3#v15)**  *[2:32:51]*
+**[Jeremiah 3:15](/bible/jeremiah/3#v15)**  *[[2:32:51](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=9171s)]*
 
 > <sup>[15](/bible/jeremiah/3#v15)</sup> And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
 
@@ -424,4 +424,4 @@ The word of God cannot be gainsaid nor resisted. The host asked for the movement
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-25-the-religious-peer-pressure-of-fred-price-jr)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=3eKbwUxDlvE)

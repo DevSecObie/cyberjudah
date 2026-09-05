@@ -43,7 +43,7 @@ The definitions on the screen:
 
 ## Scriptures Opened
 
-**[Sirach 37:27-28](/bible/sirach/37#v27)**  *[24:21]*
+**[Sirach 37:27-28](/bible/sirach/37#v27)**  *[[24:21](https://www.youtube.com/watch?v=d9CXnvRB7es&t=1461s)]*
 
 > <sup>[27](/bible/sirach/37#v27)</sup> My son, prove thy soul in thy life, and see what is evil for it, and give not that unto it.
 >
@@ -57,7 +57,7 @@ The definitions on the screen:
 
 - For all things are not profitable for all men, neither hath every soul pleasure in every thing. So what may be good for one brother is definitely not good for another. What is good for one sister is definitely not good for another sister. So you have to know yourself, to see what is beneficial or detrimental for your life.
 
-**[1 Corinthians 6:9-10](/bible/1-corinthians/6#v9)**  *[27:45]*
+**[1 Corinthians 6:9-10](/bible/1-corinthians/6#v9)**  *[[27:45](https://www.youtube.com/watch?v=d9CXnvRB7es&t=1665s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 >
@@ -71,7 +71,7 @@ The definitions on the screen:
 
 - So save this portion, because we are going to unpack it later. The unrighteous shall not inherit the kingdom of God. And one of those unrighteous that is listed is revilers. Remember that.
 
-**[2 Corinthians 12:20-21](/bible/2-corinthians/12#v20)**  *[30:47]*
+**[2 Corinthians 12:20-21](/bible/2-corinthians/12#v20)**  *[[30:47](https://www.youtube.com/watch?v=d9CXnvRB7es&t=1847s)]*
 
 > <sup>[20](/bible/2-corinthians/12#v20)</sup> For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
 >
@@ -87,7 +87,7 @@ The definitions on the screen:
 
 - Here Paul is just making mention of two specifically, the fornication and lasciviousness. But when you read 1 Corinthians chapter 6, those were with everything else. The extortion, the thefts, the reviling, they were all together and they were all unrighteousness. So some things Paul will expound on and others he keeps very short. So there were some of the Corinthians that would not repent for the transgressions that they committed.
 
-**[2 Corinthians 13:1-2](/bible/2-corinthians/13#v1)**  *[39:08]*
+**[2 Corinthians 13:1-2](/bible/2-corinthians/13#v1)**  *[[39:08](https://www.youtube.com/watch?v=d9CXnvRB7es&t=2348s)]*
 
 > <sup>[1](/bible/2-corinthians/13#v1)</sup> This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
 >
@@ -99,7 +99,7 @@ The definitions on the screen:
 
 - Sometimes you have to deal that way with Israel, because if you are too lighthearted or light-handed, they take the kindness for weakness. Just think about it. The Bible says Moses was the meekest man. Did they not try to overthrow Moses in the wilderness? Y'all see the point? So there are times when Moses and others of our forefathers had to deal more harshly and directly with Israel, as Paul is dealing right now.
 
-**[2 Corinthians 13:10](/bible/2-corinthians/13#v10)**  *[40:57]*
+**[2 Corinthians 13:10](/bible/2-corinthians/13#v10)**  *[[40:57](https://www.youtube.com/watch?v=d9CXnvRB7es&t=2457s)]*
 
 > <sup>[10](/bible/2-corinthians/13#v10)</sup> Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 
@@ -107,7 +107,7 @@ The definitions on the screen:
 
 - According to the power which the Lord hath given me to edification, and not to destruction. And it is not to destruction.
 
-**[2 Corinthians 10:10-11](/bible/2-corinthians/10#v10)**  *[41:47]*
+**[2 Corinthians 10:10-11](/bible/2-corinthians/10#v10)**  *[[41:47](https://www.youtube.com/watch?v=d9CXnvRB7es&t=2507s)]*
 
 > <sup>[10](/bible/2-corinthians/10#v10)</sup> For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.
 >
@@ -123,13 +123,13 @@ The definitions on the screen:
 
 - He says everything that I am writing about, it is going to be performed while we are there. I am not going to sugarcoat it. I am not going to change any of that. Paul stood on business. Because they were talking junk. They were like, man, look, if Paul says that to me, if he corrects me one more time, he is going to catch these hands and these feet.
 
-**[Acts 18:1](/bible/acts/18#v1)**  *[47:37]*
+**[Acts 18:1](/bible/acts/18#v1)**  *[[47:37](https://www.youtube.com/watch?v=d9CXnvRB7es&t=2857s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
 
 - After these things Paul departed from Athens, and came to Corinth. So what do we see? We see the church of Corinth being corrected for the sins that they are in. Remember this, Paul is not going to them saying, hey, I am in the midst of all of these sins and I need y'all's help. It is actually the other way around. They are in the midst of all kinds of sins in the church of Corinth. Paul is there correcting them. Do not do this, do not do that. Here is the law. Do not muzzle the ox. Giving them the laws in various areas. And they are like, I want to put hands on him. For doing what? For correcting them with the word of God, for showing them the revelation of Christ, showing that the sacrifice was only a representation of the real sacrifice that was going to come, that walked amongst them in their time.
 
-**[Acts 18:8-11](/bible/acts/18#v8)**  *[49:13]*
+**[Acts 18:8-11](/bible/acts/18#v8)**  *[[49:13](https://www.youtube.com/watch?v=d9CXnvRB7es&t=2953s)]*
 
 > <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 >
@@ -151,7 +151,7 @@ The definitions on the screen:
 
 - And he continued there a year and six months, teaching the word of God among them. How long did Paul stay there? A year and six months. So the Lord had so much people in that city that he stayed a year and six months there.
 
-**[Acts 18:17](/bible/acts/18#v17)**  *[51:59]*
+**[Acts 18:17](/bible/acts/18#v17)**  *[[51:59](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3119s)]*
 
 > <sup>[17](/bible/acts/18#v17)</sup> Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
 
@@ -159,7 +159,7 @@ The definitions on the screen:
 
 - I went over this in time past, how the Thessalonians dealt. This was an uphill battle for the apostles. Just like today, it is an uphill battle for the prophets out in the street teaching God's people. Our people grow a level of bitterness behind correction.
 
-**[Proverbs 29:1](/bible/proverbs/29#v1)**  *[53:43]*
+**[Proverbs 29:1](/bible/proverbs/29#v1)**  *[[53:43](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3223s)]*
 
 > <sup>[1](/bible/proverbs/29#v1)</sup> He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.
 
@@ -169,7 +169,7 @@ The definitions on the screen:
 
 - He that being often reproved. One that is often reproved. So in order to be corrected often, you have to be doing what often? Some kind of sin or transgression. Often, in order to be corrected often. So what would remedy that? Is it, stop correcting me? You see how simple that is? So you are not mad at yourself for repeatedly committing the sins, but you are mad at the one who repeatedly has to correct you for it. That does not make any sense. But in the mind that is led by the flesh, in the mind that is led by the desires of our soul, that makes perfect sense.
 
-**[Hebrews 4:12](/bible/hebrews/4#v12)**  *[55:51]*
+**[Hebrews 4:12](/bible/hebrews/4#v12)**  *[[55:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3351s)]*
 
 > <sup>[12](/bible/hebrews/4#v12)</sup> For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
@@ -185,7 +185,7 @@ The definitions on the screen:
 
 - What I want you to see is that bitterness does not travel alone. Bitterness is not the lonely traveller, where that is the only transgression you will have to be dealing with. There are other contributing factors. There are other things that you are battling with. There is other rebelliousness within you. And then the bitterness is just the icing on the cake.
 
-**[Colossians 3:19](/bible/colossians/3#v19)**  *[1:00:27]*
+**[Colossians 3:19](/bible/colossians/3#v19)**  *[[1:00:27](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3627s)]*
 
 > <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
 
@@ -193,7 +193,7 @@ The definitions on the screen:
 
 - So yes, sisters, this is something that the Lord is showing us that men will have to repent from. The same way it talks about the hatred that a wife will have, both in Lamentations and in Deuteronomy chapter 28. There is hatred that is there. That is what the bitterness really is. It is hatred. So there will be hatred in that household that one of you or both of you will have to repent from.
 
-**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[1:02:57]*
+**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:02:57](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3777s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 >
@@ -205,7 +205,7 @@ The definitions on the screen:
 
 - So out of those two verses, what do I need highlighted? From the floor: hate and grudge. Very good. So the hatred and the grudging are the two points we are going to highlight. That bitterness, that hatred or that grudging, is the stark opposite. The Lord is saying not to do this. Do not have the hatred. Do not grudge. So when you do, that is where we have the bitterness and the hatred among one another.
 
-**[Ephesians 4:3](/bible/ephesians/4#v3)**  *[1:04:09]*
+**[Ephesians 4:3](/bible/ephesians/4#v3)**  *[[1:04:09](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3849s)]*
 
 > <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
 
@@ -213,7 +213,7 @@ The definitions on the screen:
 
 - And again, I am glad the brother asked the question, because how does someone go from being active in the body, helpful in the body, being helped by the body in various capacities, to then going and sitting down with the SPLC? Sitting down with the enemy. How do you go from one extreme to the other? It was bitterness. There was hatred involved. There was bitterness. There is envy involved. We are going to get through all of that. All of those things coupled together. Because bitterness is not a lonely traveller.
 
-**[1 Samuel 9:1-2](/bible/1-samuel/9#v1)**  *[1:06:05]*
+**[1 Samuel 9:1-2](/bible/1-samuel/9#v1)**  *[[1:06:05](https://www.youtube.com/watch?v=d9CXnvRB7es&t=3965s)]*
 
 > <sup>[1](/bible/1-samuel/9#v1)</sup> Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
 >
@@ -223,7 +223,7 @@ The definitions on the screen:
 
 - And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people.
 
-**[1 Samuel 9:16](/bible/1-samuel/9#v16)**  *[1:07:05]*
+**[1 Samuel 9:16](/bible/1-samuel/9#v16)**  *[[1:07:05](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4025s)]*
 
 > <sup>[16](/bible/1-samuel/9#v16)</sup> To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.
 
@@ -231,7 +231,7 @@ The definitions on the screen:
 
 - So we are in here and God has chosen each of you mighty men to be the saviours of the nation of Israel in these last days. I hope y'all understand that y'all are not here to be anything short of the saviours of the nation of Israel. That is what you are. That is who you have been called to be. The same exact way we are reading about King Saul, because King Saul never fought a battle by himself. So what were all those men who were battling as well? They were saviours.
 
-**[1 Samuel 10:5-7](/bible/1-samuel/10#v5)**  *[1:08:04]*
+**[1 Samuel 10:5-7](/bible/1-samuel/10#v5)**  *[[1:08:04](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4084s)]*
 
 > <sup>[5](/bible/1-samuel/10#v5)</sup> After that thou shalt come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:
 >
@@ -251,7 +251,7 @@ The definitions on the screen:
 
 - And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee. So God is with you.
 
-**[1 Samuel 10:10-12](/bible/1-samuel/10#v10)**  *[1:12:56]*
+**[1 Samuel 10:10-12](/bible/1-samuel/10#v10)**  *[[1:12:56](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4376s)]*
 
 > <sup>[10](/bible/1-samuel/10#v10)</sup> And when they came thither to the hill, behold, a company of prophets met him; and the Spirit of God came upon him, and he prophesied among them.
 >
@@ -271,7 +271,7 @@ The definitions on the screen:
 
 - Therefore it became a proverb, Is Saul also among the prophets? Therefore it became a saying among the people. They started to ask among the people, among the family, among the friends. Is Saul also one of the prophets?
 
-**[1 Samuel 15:1-3](/bible/1-samuel/15#v1)**  *[1:16:34]*
+**[1 Samuel 15:1-3](/bible/1-samuel/15#v1)**  *[[1:16:34](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4594s)]*
 
 > <sup>[1](/bible/1-samuel/15#v1)</sup> Samuel also said unto Saul, The Lord sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the Lord.
 >
@@ -285,13 +285,13 @@ The definitions on the screen:
 
 - Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass. So the Lord told King Saul to slaughter everything.
 
-**[1 Samuel 15:8](/bible/1-samuel/15#v8)**  *[1:17:31]*
+**[1 Samuel 15:8](/bible/1-samuel/15#v8)**  *[[1:17:31](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4651s)]*
 
 > <sup>[8](/bible/1-samuel/15#v8)</sup> And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.
 
 - And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword. Wait, what did King Saul do?
 
-**[1 Samuel 15:14-15](/bible/1-samuel/15#v14)**  *[1:17:31]*
+**[1 Samuel 15:14-15](/bible/1-samuel/15#v14)**  *[[1:17:31](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4651s)]*
 
 > <sup>[14](/bible/1-samuel/15#v14)</sup> And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?
 >
@@ -301,7 +301,7 @@ The definitions on the screen:
 
 - And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the Lord thy God; and the rest we have utterly destroyed. So it said the people spared the best of the sheep and of the oxen. They spared the best of the best. I spared Agag, but everything else we destroyed. We almost did everything the Lord said.
 
-**[1 Samuel 15:17-21](/bible/1-samuel/15#v17)**  *[1:18:31]*
+**[1 Samuel 15:17-21](/bible/1-samuel/15#v17)**  *[[1:18:31](https://www.youtube.com/watch?v=d9CXnvRB7es&t=4711s)]*
 
 > <sup>[17](/bible/1-samuel/15#v17)</sup> And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel?
 >
@@ -331,7 +331,7 @@ The definitions on the screen:
 
     Then shalt thou call, and the Lord shall answer; thou shalt cry, and he shall say, Here I am. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity. What is the putting forth of the finger? That is blaming. He blamed the people. So King Saul blamed the people right after saying that he kept Agag alive. So you are blaming the people for keeping the sheep and the best of the flocks, but you did not take accountability for keeping Agag the Amalekite alive. So what did the Lord say? He is not going to hear any of us until we stop playing the blame game. Stop blaming others. How are you dealing with that situation? Oh, I am bitter against this person because they did this to me. I have hatred towards this person because of this. The Lord does not care about your reasoning. I am going to tell you that right now. The Lord does not care about your reasoning or your justification, because every one of us will be judged according to our ways. The Lord sees how that person is treating you. The same way the Lord sees how you are reacting to that treatment. The Lord sees it. So if you trust in the Lord you are going to act according to how God commanded you to deal with that situation, and then let the Lord deal with that person.
 
-**[Sirach 7:8-9](/bible/sirach/7#v8)**  *[1:23:37]*
+**[Sirach 7:8-9](/bible/sirach/7#v8)**  *[[1:23:37](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5017s)]*
 
 > <sup>[8](/bible/sirach/7#v8)</sup> Bind not one sin upon another; for in one thou shalt not be unpunished.
 >
@@ -343,7 +343,7 @@ The definitions on the screen:
 
 - Say not, God will look upon the multitude of my oblations, and when I offer to the most high God, he will accept it. Do you see? Is that not what Saul just did? Saul said, the people got all this livestock, the best of the sheep, in order to sacrifice unto you. Saul was actually doing this. Do not say, through the multitude of my oblations the Lord is not going to worry about the sins that I am in the midst of. Saul said, even though all these sheep, it is a sacrifice to God. What did God still highlight? His disobedience.
 
-**[1 Samuel 15:22-23](/bible/1-samuel/15#v22)**  *[1:25:36]*
+**[1 Samuel 15:22-23](/bible/1-samuel/15#v22)**  *[[1:25:36](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5136s)]*
 
 > <sup>[22](/bible/1-samuel/15#v22)</sup> And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
 >
@@ -357,7 +357,7 @@ The definitions on the screen:
 
 - And stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king. Wait, what did he do? Rejected the word of the Lord. God has also rejected him. So the rebellion, the disobedience, also equates to, you have rejected the word of God. I know nobody really wants to admit that or say it out loud, but that is what it means. You have rejected the word of God.
 
-**[1 Samuel 15:28](/bible/1-samuel/15#v28)**  *[1:29:02]*
+**[1 Samuel 15:28](/bible/1-samuel/15#v28)**  *[[1:29:02](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5342s)]*
 
 > <sup>[28](/bible/1-samuel/15#v28)</sup> And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
 
@@ -371,7 +371,7 @@ The definitions on the screen:
 
 - And hath given it to a neighbour of thine, that is better than thou. That is better than King Saul. That had to sit in the back of his mind, because at the time that neighbour was not risen up yet. So now he is looking like, who is it? Now you start looking at everybody. This is for you brothers that think or make these claims that all leadership hates you. All of them. Everybody. This is when that bitterness creeps in and you are trying to find who to place the full blame on. So instead of having one person, you just blanket the whole statement. The camp knows who I am talking to, because there are a couple of them in this region, and these brothers are like, the whole congregation hates me, everyone on the sister side hates me, all the brothers hate me, they do not want me to succeed. Right now Satan is all in your mind and in your ear.
 
-**[1 Samuel 17:36-37](/bible/1-samuel/17#v36)**  *[1:33:51]*
+**[1 Samuel 17:36-37](/bible/1-samuel/17#v36)**  *[[1:33:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5631s)]*
 
 > <sup>[36](/bible/1-samuel/17#v36)</sup> Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.
 >
@@ -385,19 +385,19 @@ The definitions on the screen:
 
 - And Saul said unto David, Go, and the Lord be with thee. So once David dropped his resume, Saul was like, okay, I did see a couple of dead carcasses on the way here. Well, that was you. Okay, you know what, go ahead, do your thing, young man. Because David was a young man.
 
-**[1 Samuel 17:40](/bible/1-samuel/17#v40)**  *[1:36:05]*
+**[1 Samuel 17:40](/bible/1-samuel/17#v40)**  *[[1:36:05](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5765s)]*
 
 > <sup>[40](/bible/1-samuel/17#v40)</sup> And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine.
 
 - And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd's bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine. So Saul gave David his armour, but David did not prove Saul's armour, meaning he did not practise in it, train in it. So he is like, nah, just give me five smooth stones.
 
-**[1 Samuel 17:45](/bible/1-samuel/17#v45)**  *[1:36:05]*
+**[1 Samuel 17:45](/bible/1-samuel/17#v45)**  *[[1:36:05](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5765s)]*
 
 > <sup>[45](/bible/1-samuel/17#v45)</sup> Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied.
 
 - Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied. I like that.
 
-**[1 Samuel 17:49-50](/bible/1-samuel/17#v49)**  *[1:36:54]*
+**[1 Samuel 17:49-50](/bible/1-samuel/17#v49)**  *[[1:36:54](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5814s)]*
 
 > <sup>[49](/bible/1-samuel/17#v49)</sup> And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.
 >
@@ -407,13 +407,13 @@ The definitions on the screen:
 
 - So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.
 
-**[1 Samuel 17:54](/bible/1-samuel/17#v54)**  *[1:37:52]*
+**[1 Samuel 17:54](/bible/1-samuel/17#v54)**  *[[1:37:52](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5872s)]*
 
 > <sup>[54](/bible/1-samuel/17#v54)</sup> And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent.
 
 - And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent. David did a valiant act. He defeated the Philistine that many were afraid of. Then he cut off his head, brought it to Jerusalem, and paraded it through Jerusalem. But he kept Goliath's armour as a souvenir.
 
-**[1 Samuel 17:57-58](/bible/1-samuel/17#v57)**  *[1:38:44]*
+**[1 Samuel 17:57-58](/bible/1-samuel/17#v57)**  *[[1:38:44](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5924s)]*
 
 > <sup>[57](/bible/1-samuel/17#v57)</sup> And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.
 >
@@ -423,13 +423,13 @@ The definitions on the screen:
 
 - And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite.
 
-**[1 Samuel 18:1](/bible/1-samuel/18#v1)**  *[1:39:35]*
+**[1 Samuel 18:1](/bible/1-samuel/18#v1)**  *[[1:39:35](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5975s)]*
 
 > <sup>[1](/bible/1-samuel/18#v1)</sup> And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 
 - And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul. I want you to think about this now. The Lord told King Saul that a neighbour of his, one that is better than him, is who the Lord is choosing. David steps up on the scene and drops his resume. Then David kills the Philistine that everyone was afraid of. Now when David returns he has the head of the Philistine in his hand. Jonathan, the king's son, who the Lord has rejected, is now tight with that brother. I want y'all to see how this is progressing. He is now tight with that brother that God says is better than his father.
 
-**[1 Samuel 18:4-5](/bible/1-samuel/18#v4)**  *[1:39:35]*
+**[1 Samuel 18:4-5](/bible/1-samuel/18#v4)**  *[[1:39:35](https://www.youtube.com/watch?v=d9CXnvRB7es&t=5975s)]*
 
 > <sup>[4](/bible/1-samuel/18#v4)</sup> And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
 >
@@ -441,7 +441,7 @@ The definitions on the screen:
 
 - So everybody likes this guy except you. Everybody likes and loves this sister except you. Now, it is not like David is a king at this time and they like him for benefit's sake. He is an honorable man. He is a mighty man. He dealt himself wisely. They see the wisdom in him.
 
-**[1 Samuel 18:6-9](/bible/1-samuel/18#v6)**  *[1:42:23]*
+**[1 Samuel 18:6-9](/bible/1-samuel/18#v6)**  *[[1:42:23](https://www.youtube.com/watch?v=d9CXnvRB7es&t=6143s)]*
 
 > <sup>[6](/bible/1-samuel/18#v6)</sup> And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
 >
@@ -463,7 +463,7 @@ The definitions on the screen:
 
 - And Saul eyed David from that day and forward. So David is now the problem. It is not Saul. Saul is not the problem. He is not disobedient. He is not the one that rejected God. He is not the one in evil, in witchcraft, in stubbornness and rebellion. Saul is not addressing any of that. He said, nah, the problem is David. Showing what? There are building blocks of bitterness. Bitterness does not just come about. There are other things.
 
-**[Mark 7:21-23](/bible/mark/7#v21)**  *[1:48:39]*
+**[Mark 7:21-23](/bible/mark/7#v21)**  *[[1:48:39](https://www.youtube.com/watch?v=d9CXnvRB7es&t=6519s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
 >
@@ -497,7 +497,7 @@ The definitions on the screen:
 
     And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him. So David did a good thing by playing the music to have that spirit depart from King Saul.
 
-**[1 Samuel 18:10-13](/bible/1-samuel/18#v10)**  *[1:53:28]*
+**[1 Samuel 18:10-13](/bible/1-samuel/18#v10)**  *[[1:53:28](https://www.youtube.com/watch?v=d9CXnvRB7es&t=6808s)]*
 
 > <sup>[10](/bible/1-samuel/18#v10)</sup> And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
 >
@@ -523,7 +523,7 @@ The definitions on the screen:
 
 - Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people. Because Saul knew that the Lord was dealing with David and not him any more, he took David off that office of ruling over all the men, and made him captain over a thousand. He only put him over a thousand men, meaning he shrank the company that David was over. I want you to see the progression.
 
-**[1 Samuel 18:14-15](/bible/1-samuel/18#v14)**  *[2:01:16]*
+**[1 Samuel 18:14-15](/bible/1-samuel/18#v14)**  *[[2:01:16](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7276s)]*
 
 > <sup>[14](/bible/1-samuel/18#v14)</sup> And David behaved himself wisely in all his ways; and the Lord was with him.
 >
@@ -533,19 +533,19 @@ The definitions on the screen:
 
 - Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.
 
-**[1 Samuel 18:17](/bible/1-samuel/18#v17)**  *[2:07:44]*
+**[1 Samuel 18:17](/bible/1-samuel/18#v17)**  *[[2:07:44](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7664s)]*
 
 > <sup>[17](/bible/1-samuel/18#v17)</sup> And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord’s battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
 
 - And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord's battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him. But let the hand of the Philistines be upon him.
 
-**[1 Samuel 18:25](/bible/1-samuel/18#v25)**  *[2:08:51]*
+**[1 Samuel 18:25](/bible/1-samuel/18#v25)**  *[[2:08:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7731s)]*
 
 > <sup>[25](/bible/1-samuel/18#v25)</sup> And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines.
 
 - And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king's enemies. But Saul thought to make David fall by the hand of the Philistines. So what does that mean, brothers? From the floor: that bitterness got to the point where he tried to set David up to be killed by an impossible task, or at least what he thought, to be killed by the Philistines. Right. So that bitterness caused King Saul to plot. Since I cannot seem to catch David, I am going to send him among the Philistines with the hope that the Philistines kill him.
 
-**[1 Samuel 18:29-30](/bible/1-samuel/18#v29)**  *[2:02:08]*
+**[1 Samuel 18:29-30](/bible/1-samuel/18#v29)**  *[[2:02:08](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7328s)]*
 
 > <sup>[29](/bible/1-samuel/18#v29)</sup> And Saul was yet the more afraid of David; and Saul became David’s enemy continually.
 >
@@ -555,7 +555,7 @@ The definitions on the screen:
 
 - Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by. Wait, he did what? Behaved himself more wisely than all the servants of Saul. Everyone made an account of the name of David from that time forth. And all Israel and Judah loved David, because he went out and came in before them. So even though King Saul did evil, all the people still loved David.
 
-**[1 Samuel 24:2-4](/bible/1-samuel/24#v2)**  *[2:03:04]*
+**[1 Samuel 24:2-4](/bible/1-samuel/24#v2)**  *[[2:03:04](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7384s)]*
 
 > <sup>[2](/bible/1-samuel/24#v2)</sup> Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
 >
@@ -575,7 +575,7 @@ The definitions on the screen:
 
 - So when you read about David killing thousands at a time, look. The Lord made his feet like hinds' feet. He was able to leap over walls. David was not a regular dude with a beer belly and bad feet.
 
-**[1 Samuel 24:17-18](/bible/1-samuel/24#v17)**  *[2:06:56]*
+**[1 Samuel 24:17-18](/bible/1-samuel/24#v17)**  *[[2:06:56](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7616s)]*
 
 > <sup>[17](/bible/1-samuel/24#v17)</sup> And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
 >
@@ -585,7 +585,7 @@ The definitions on the screen:
 
 - And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not. So Saul acknowledges that David is more righteous than him.
 
-**[2 Samuel 11:2-4](/bible/2-samuel/11#v2)**  *[2:10:54]*
+**[2 Samuel 11:2-4](/bible/2-samuel/11#v2)**  *[[2:10:54](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7854s)]*
 
 > <sup>[2](/bible/2-samuel/11#v2)</sup> And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king’s house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
 >
@@ -599,7 +599,7 @@ The definitions on the screen:
 
 - And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house.
 
-**[2 Samuel 11:15](/bible/2-samuel/11#v15)**  *[2:11:55]*
+**[2 Samuel 11:15](/bible/2-samuel/11#v15)**  *[[2:11:55](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7915s)]*
 
 > <sup>[15](/bible/2-samuel/11#v15)</sup> And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die.
 
@@ -609,7 +609,7 @@ The definitions on the screen:
 
 - So a lot of the time we are like, oh no, I am not dealing with that. Do you think David thought, when he was running from King Saul, that he would have to be dealing with the same thing? Everyone always thinks all Bishop's classes are about everybody else. All the deacon's classes are about everybody else. Well, which one is about you? Just give it time.
 
-**[2 Samuel 16:5-13](/bible/2-samuel/16#v5)**  *[2:14:11]*
+**[2 Samuel 16:5-13](/bible/2-samuel/16#v5)**  *[[2:14:11](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8051s)]*
 
 > <sup>[5](/bible/2-samuel/16#v5)</sup> And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
 >
@@ -653,7 +653,7 @@ The definitions on the screen:
 
 - So David saw this as an opportunity to turn back to the Lord, repenting for what he did to Uriah. But what I want you to see is, whether it be lust and covetousness, then came about the hatred to the point where you wanted to put that brother to death, and did. The same exact way envy, jealousy, rebellion against God caused King Saul to do it to King David. So everyone has their path, but that icing on the cake is bitterness for everyone.
 
-**[Sirach 37:19-20](/bible/sirach/37#v19)**  *[2:20:20]*
+**[Sirach 37:19-20](/bible/sirach/37#v19)**  *[[2:20:20](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8420s)]*
 
 > <sup>[19](/bible/sirach/37#v19)</sup> There is one that is wise and teacheth many, and yet is unprofitable to himself.
 >
@@ -669,7 +669,7 @@ The definitions on the screen:
 
 - So my point is, Satan is right at your door. Because if those other building blocks, that may seem like nothing to you, are already in place, all he needs is the bitterness to be full-fledged and overflowing. So as you get a message or an order or a directive and you see your phone, you are like, here we go. When that happens, Satan is right there like, I bet he did not ask anybody else to do it. I bet they did not want somebody else to take care of it. Why are they always asking you?
 
-**[1 Corinthians 9:27](/bible/1-corinthians/9#v27)**  *[2:24:51]*
+**[1 Corinthians 9:27](/bible/1-corinthians/9#v27)**  *[[2:24:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8691s)]*
 
 > <sup>[27](/bible/1-corinthians/9#v27)</sup> But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.
 
@@ -677,7 +677,7 @@ The definitions on the screen:
 
 - Bitterness. We are in denial. We are in denial until there is a breaking of the breach or the wall, and just an overflow like Hurricane Katrina coming through. You are like, how did I end up here? You did not deal with it when it was little building blocks and little nuances. You did not deal with it. You did not say anything. You acted like everything was normal.
 
-**[Proverbs 16:2-3](/bible/proverbs/16#v2)**  *[2:26:43]*
+**[Proverbs 16:2-3](/bible/proverbs/16#v2)**  *[[2:26:43](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8803s)]*
 
 > <sup>[2](/bible/proverbs/16#v2)</sup> All the ways of a man are clean in his own eyes; but the Lord weigheth the spirits.
 >
@@ -689,7 +689,7 @@ The definitions on the screen:
 
 - Commit thy works unto the Lord, and thy thoughts shall be established. So as your thoughts or your intentions are discerned by the word of God, God says I will establish your thought process, I will establish your intentions according to the word of God. If you are not living a double life, but you are committing your works unto the Lord, the Bible says he will establish your thoughts. That bitterness that is brewing within us, that bitterness that is stirring up, that hatred, the Lord will establish all of that if you commit yourself to the works.
 
-**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[2:27:32]*
+**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[[2:27:32](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8852s)]*
 
 > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
 >
@@ -703,7 +703,7 @@ The definitions on the screen:
 
 - For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
 
-**[Proverbs 25:9-10](/bible/proverbs/25#v9)**  *[2:29:32]*
+**[Proverbs 25:9-10](/bible/proverbs/25#v9)**  *[[2:29:32](https://www.youtube.com/watch?v=d9CXnvRB7es&t=8972s)]*
 
 > <sup>[9](/bible/proverbs/25#v9)</sup> Debate thy cause with thy neighbour himself; and discover not a secret to another:
 >
@@ -713,7 +713,7 @@ The definitions on the screen:
 
 - Lest he that heareth it put thee to shame, and thine infamy turn not away. So do not discover a secret unto another. Meaning, if there is an issue, everyone should not know about the issue before the person you have the issue with. How is it that everybody else knows about the issue, but the person that brother or sister has the issue with does not know anything about it? That does not make sense. The Bible says go to that person one on one and deal with them.
 
-**[Matthew 18:15-17](/bible/matthew/18#v15)**  *[2:31:27]*
+**[Matthew 18:15-17](/bible/matthew/18#v15)**  *[[2:31:27](https://www.youtube.com/watch?v=d9CXnvRB7es&t=9087s)]*
 
 > <sup>[15](/bible/matthew/18#v15)</sup> Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.
 >
@@ -729,7 +729,7 @@ The definitions on the screen:
 
 - And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican. So what you see is that Christ had to expound more on it, because there were some that did not want to listen to the law, did not want to listen to the prophets, by going one to another. They are like, man, I do not want to do all of that. So Christ said, all right, I have got to expound now. If you do not want to hear your brother out to gain your brother, you might need to be put away from the church. Why? Because you do not love your neighbour as yourself.
 
-**[Ephesians 4:30-31](/bible/ephesians/4#v30)**  *[2:35:30]*
+**[Ephesians 4:30-31](/bible/ephesians/4#v30)**  *[[2:35:30](https://www.youtube.com/watch?v=d9CXnvRB7es&t=9330s)]*
 
 > <sup>[30](/bible/ephesians/4#v30)</sup> And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 >
@@ -743,7 +743,7 @@ The definitions on the screen:
 
 - Again, we showed, King Saul did not just throw that javelin. He did not wake up one day and say, whoever comes in this room I am going to throw a javelin at them. No, there were things that led up to that that he would not acknowledge and repent for. He was not sorrowful to God. So the Lord did not remove that spirit from him. There are times when we ourselves have those spirits, those spirits in our house, and the Lord is not removing it because there is a lack of accountability among us. We are still putting forth the finger.
 
-**[2 Corinthians 13:4-5](/bible/2-corinthians/13#v4)**  *[2:38:06]*
+**[2 Corinthians 13:4-5](/bible/2-corinthians/13#v4)**  *[[2:38:06](https://www.youtube.com/watch?v=d9CXnvRB7es&t=9486s)]*
 
 > <sup>[4](/bible/2-corinthians/13#v4)</sup> For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
 >
@@ -767,4 +767,4 @@ Shalom Israel. Most High in Christ bless you all.
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-29-the-building-blocks-of-bitterness)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=d9CXnvRB7es)

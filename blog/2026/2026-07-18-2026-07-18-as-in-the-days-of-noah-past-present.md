@@ -750,4 +750,4 @@ So with that, all praises. 12 tribes worldwide. 12 tribes worldwide. 12 tribes w
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-18-as-in-the-days-of-noah-past-present)
+[Class Notes Index](/classes)

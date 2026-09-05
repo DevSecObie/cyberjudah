@@ -34,7 +34,7 @@ Videos played in class around the boycott:
 
 ## Scriptures Opened
 
-**[John 5:39](/bible/john/5#v39)**  *[15:55]*
+**[John 5:39](/bible/john/5#v39)**  *[[15:55](https://www.youtube.com/watch?v=6XyhSewrzz0&t=955s)]*
 
 > <sup>[39](/bible/john/5#v39)</sup> Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 
@@ -54,32 +54,32 @@ Videos played in class around the boycott:
 
     The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever. What God has kept secret and then revealed is for our children and our children's children. What we bring out in the scriptures is meant for our sons and daughters; teach them, and do not let this truth fall by the wayside.
 
-**[Jeremiah 48:1](/bible/jeremiah/48#v1)**  *[18:34]*
+**[Jeremiah 48:1](/bible/jeremiah/48#v1)**  *[[18:34](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1114s)]*
 
 > <sup>[1](/bible/jeremiah/48#v1)</sup> Against Moab thus saith the Lord of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.
 
 - Against Moab thus saith the Lord of hosts, the God of Israel. Unless you search the scriptures and pray to the Lord, you read that and say, I do not know who Moab is, and move on to the next chapter.
 
-**[Jeremiah 49:1](/bible/jeremiah/49#v1)**  *[19:07]*
+**[Jeremiah 49:1](/bible/jeremiah/49#v1)**  *[[19:07](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1147s)]*
 
 > <sup>[1](/bible/jeremiah/49#v1)</sup> Concerning the Ammonites, thus saith the Lord; Hath Israel no sons? hath he no heir? why then doth their king inherit Gad, and his people dwell in his cities?
 
 - Concerning the Ammonites: I do not know who the Ammonites are, and I do not know who Gad is, so I will stick to Matthew through Revelation. That is what the churches do. They stay confused, unable to identify who these nations are today. Christians do not know; Muslims do not know.
 
-**[2 Esdras 15:46](/bible/2-esdras/15#v46)**  *[19:55]*
+**[2 Esdras 15:46](/bible/2-esdras/15#v46)**  *[[19:55](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1195s)]*
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
 
 - And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person. Definition read in class, the primary countries and territories of East Asia: China, the largest country in the region by landmass and population, a global economic and manufacturing powerhouse; Japan, an island nation known for technological innovation; South Korea; North Korea; Mongolia; and Taiwan, a global leader in semiconductor production. That is the Asia this prophecy addresses.
 
-**[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[26:41]*
+**[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[26:41](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1601s)]*
 
 > <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Then certain ungodly persons, who hated their own people, went unto the king. The Chinese lady made a point to say black jurors found the man who shot the boy not guilty. There has always been a certain remnant of our people who love other races better than their own. What was true during the time of the Maccabees is true today: you have got Christians who hate their own people.
 - And on the handout talking point: everybody knows the Asian community had a hand out. When the government was giving them loans to open businesses in the black community, the government was denying black people loans; that is documented history. And during World War II, when America put the Japanese in internment camps, they paid them reparations when they let them out. So it is very amusing that they use this talking point on us.
 
-**[Genesis 19:29-38](/bible/genesis/19#v29)**  *[42:01]*
+**[Genesis 19:29-38](/bible/genesis/19#v29)**  *[[42:01](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2521s)]*
 
 > <sup>[29](/bible/genesis/19#v29)</sup> And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 >
@@ -108,13 +108,13 @@ Videos played in class around the boycott:
 - Book read in class: The Dragon, Image, and Demon: The Three Religions of China (Confucianism, Buddhism, and Taoism). On page 363 the author applies Jeremiah's words directly: "As of Moab, it may be said, We have heard the pride of China; he is exceeding proud, his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart." You see how Moab was translated to China.
 - Genetics read in class: Koreans are genetically slightly closer to Japanese than to Chinese populations, so write it down: the Koreans, North and South, are Ammonites. Vietnamese people are significantly closer to Chinese people: the Vietnamese are Moab. Mongolia is genetically closer to China than to Japan: Mongolia is Moab.
 
-**[Jeremiah 48:29](/bible/jeremiah/48#v29)**  *[46:56]*
+**[Jeremiah 48:29](/bible/jeremiah/48#v29)**  *[[46:56](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2816s)]*
 
 > <sup>[29](/bible/jeremiah/48#v29)</sup> We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
 
 - We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart. If you did not know the Chinese man was proud, you learned it these last few weeks.
 
-**[Isaiah 15:1-2](/bible/isaiah/15#v1)**  *[48:38]*
+**[Isaiah 15:1-2](/bible/isaiah/15#v1)**  *[[48:38](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2918s)]*
 
 > <sup>[1](/bible/isaiah/15#v1)</sup> The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;
 >
@@ -133,7 +133,7 @@ Videos played in class around the boycott:
 
     Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication. This place, America, is a spiritual Babylon; God calls it Babylon the great. So when Babylon under Nebuchadnezzar smote Moab, know that there is dual significance behind it.
 
-**[Isaiah 16:1-5](/bible/isaiah/16#v1)**  *[52:23]*
+**[Isaiah 16:1-5](/bible/isaiah/16#v1)**  *[[52:23](https://www.youtube.com/watch?v=6XyhSewrzz0&t=3143s)]*
 
 > <sup>[1](/bible/isaiah/16#v1)</sup> Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 >
@@ -167,13 +167,13 @@ Videos played in class around the boycott:
 
     The kingdom of heaven is like to a grain of mustard seed, the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof. We are at that mustard seed stage now. It did not end with Nat Turner; the history of the Israelite schools continues, and we here are part of that mustard seed that, when it is grown, is the greatest of all. All nations are going to submit to the King of kings.
 
-**[Isaiah 16:6](/bible/isaiah/16#v6)**  *[1:00:03]*
+**[Isaiah 16:6](/bible/isaiah/16#v6)**  *[[1:00:03](https://www.youtube.com/watch?v=6XyhSewrzz0&t=3603s)]*
 
 > <sup>[6](/bible/isaiah/16#v6)</sup> We have heard of the pride of Moab; he is very proud: even of his haughtiness, and his pride, and his wrath: but his lies shall not be so.
 
 - We have heard of the pride of Moab; he is very proud: even of his haughtiness, and his pride, and his wrath: but his lies shall not be so. Whatever China boasts, God is going to shut it all down.
 
-**[Jeremiah 48:1-9](/bible/jeremiah/48#v1)**  *[1:01:31]*
+**[Jeremiah 48:1-9](/bible/jeremiah/48#v1)**  *[[1:01:31](https://www.youtube.com/watch?v=6XyhSewrzz0&t=3691s)]*
 
 > <sup>[1](/bible/jeremiah/48#v1)</sup> Against Moab thus saith the Lord of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.
 >
@@ -199,13 +199,13 @@ Videos played in class around the boycott:
 - The spoiler shall come upon every city, and no city shall escape. Nebuchadnezzar destroyed Moab then; Jeremiah's prophecy carries the duality, because Moab today, China, is a world superpower, and they will be destroyed once again. This goes with 2 Esdras 15:46-63 on the destruction of Asia and Babylon.
 - Give wings unto Moab, that it may flee and get away. When Nebuchadnezzar came through, a lot of them fled far east. Some got caught; some did not.
 
-**[Daniel 11:41](/bible/daniel/11#v41)**  *[1:07:48]*
+**[Daniel 11:41](/bible/daniel/11#v41)**  *[[1:07:48](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4068s)]*
 
 > <sup>[41](/bible/daniel/11#v41)</sup> He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon.
 
 - Speaking of the Greeks: he shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon. So during the time of the Greeks there were still remnants of Moab and Ammon in those lands; everybody did not leave at once.
 
-**[2 Maccabees 5:6-9](/bible/2-maccabees/5#v6)**  *[1:09:20]*
+**[2 Maccabees 5:6-9](/bible/2-maccabees/5#v6)**  *[[1:09:20](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4160s)]*
 
 > <sup>[6](/bible/2-maccabees/5#v6)</sup> But Jason slew his own citizens without mercy, not considering that to get the day of them of his own nation would be a most unhappy day for him; but thinking they had been his enemies, and not his countrymen, whom he conquered.
 >
@@ -219,7 +219,7 @@ Videos played in class around the boycott:
 - Book read in class: The Antiquities of the Jews, by Flavius Josephus, book 13 chapter 15: Alexander Jannaeus "was forced to deliver back to the king of Arabia the land of Moab and Gilead which he had subdued," so that the Arabians would not join the war against him. The king of Arabia had the land of Moab as well. Context read in class: during the reign of the Hasmonean king Alexander Jannaeus (103 to 76 BC), the Nabataean kingdom, ruled by the king of Arabia, took those territories. The Nabataeans were Arabs; that is why foolish people online read that Edom was ruled by the Nabataeans and say Edom are the Arabs. The Nabataeans came later, during the time of the Maccabees.
 - Reading from the research summary: the Moabites and Ammonites did not leave their ancestral lands in a single voluntary exodus; they vanished from the region between the sixth and first centuries BC through military devastation and forced exiles, from the time of Nebuchadnezzar to the time of the Greeks, in increments. But the claim that they simply blended into the newer Arab populations is not true; the AI summaries and search engines will mislead you on purpose so you never find out who Moab and Ammon are. Remember who controls them.
 
-**[Jeremiah 48:26-27](/bible/jeremiah/48#v26)**  *[1:15:48]*
+**[Jeremiah 48:26-27](/bible/jeremiah/48#v26)**  *[[1:15:48](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4548s)]*
 
 > <sup>[26](/bible/jeremiah/48#v26)</sup> Make ye him drunken: for he magnified himself against the Lord: Moab also shall wallow in his vomit, and he also shall be in derision.
 >
@@ -228,7 +228,7 @@ Videos played in class around the boycott:
 - For was not Israel a derision unto thee? Since thou spakest of him, thou skippedst for joy. Why were they skipping for joy? Because Moab helped destroy us, and they were happy about it.
 - Video played in class: black images on the ancient cave walls and monasteries of China, including Africans diving for pearls. Your Chinese friends will not tell you about any of this. It is just like Rome: the catacombs and churches full of black images, and they cannot stand us. All nations stick together and keep it hidden.
 
-**[Ezekiel 25:1-11](/bible/ezekiel/25#v1)**  *[1:19:31]*
+**[Ezekiel 25:1-11](/bible/ezekiel/25#v1)**  *[[1:19:31](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4771s)]*
 
 > <sup>[1](/bible/ezekiel/25#v1)</sup> The word of the Lord came again unto me, saying,
 >
@@ -251,7 +251,7 @@ Videos played in class around the boycott:
 - Behold, therefore I will deliver thee to the men of the east for a possession. That began with Nebuchadnezzar, followed by Persia and Media; but the party is not over.
 - Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen: the Chinese and the white man say there is nothing special about Judah. Therefore I will open the side of Moab from the cities: God is going to have the side of their cities destroyed. I will execute judgments upon Moab; and they shall know that I am the Lord.
 
-**[Jeremiah 49:1-2](/bible/jeremiah/49#v1)**  *[1:23:09]*
+**[Jeremiah 49:1-2](/bible/jeremiah/49#v1)**  *[[1:23:09](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4989s)]*
 
 > <sup>[1](/bible/jeremiah/49#v1)</sup> Concerning the Ammonites, thus saith the Lord; Hath Israel no sons? hath he no heir? why then doth their king inherit Gad, and his people dwell in his cities?
 >
@@ -288,7 +288,7 @@ Videos played in class around the boycott:
 
     And the children of Machir the son of Manasseh went to Gilead, and took it. So Gad, Reuben, and Manasseh held that land. Map shown in class: Ammon sat right next to Gad, and when Gad was carried off, Ammon moved in; and on the modern map that whole area, spelled Amman, is what America calls Jordan today, in Arab hands, exactly as the history in Maccabees explains.
 
-**Books opened on the hidden history**  *[1:31:58]*
+**Books opened on the hidden history**  *[[1:31:58](https://www.youtube.com/watch?v=6XyhSewrzz0&t=5518s)]*
 
 - Encyclopedia of Japanese History: paintings from the 1400s and 1500s showing black faces in Japan. The Portuguese and Spanish brought black slaves over, and the black faces in these paintings are slaves. You do not learn this in school, and you definitely will not learn it in Sunday school.
 - Paintings of the Kunlun: African slaves in ancient China. The first African slaves in ancient China were given as tribute gifts by the Srivijayan empire of Indonesia to the Chinese empire during the Tang dynasty (618 to 907 AD), long before the Portuguese. Article read in class, from the African American Registry: African slavery in China peaked during the Tang and Song dynasties (960 to 1279 AD); the Kunlun were portrayed in stories of the period as heroic, resourceful, and culturally Chinese; the number taken to China during this six hundred year period is unclear.
@@ -305,7 +305,7 @@ Videos played in class around the boycott:
 
     And the Lord shall scatter thee among all people, from the one end of the earth even unto the other. We were scattered everywhere, and that includes, as we are finding out, China and Japan.
 
-**[2 Esdras 15:46-53](/bible/2-esdras/15#v46)**  *[1:58:32]*
+**[2 Esdras 15:46-53](/bible/2-esdras/15#v46)**  *[[1:58:32](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7112s)]*
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
 >
@@ -328,7 +328,7 @@ Videos played in class around the boycott:
 - Therefore saith God, I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death. This is prophecy; it has not occurred yet.
 - If thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken. This is why you do not see the descendants of all those black slaves over in China and Japan today: they were always killing us. Remember, they said we had great physical strength; they could not take the strong men one on one, so they waited until the drinking feasts, when everybody was drunk, and then they would slaughter our people. That is what God is answering.
 
-**[Jeremiah 48:10-13](/bible/jeremiah/48#v10)**  *[2:02:57]*
+**[Jeremiah 48:10-13](/bible/jeremiah/48#v10)**  *[[2:02:57](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7377s)]*
 
 > <sup>[10](/bible/jeremiah/48#v10)</sup> Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.
 >
@@ -359,7 +359,7 @@ Videos played in class around the boycott:
     Jeroboam made two calves of gold and said, Behold thy gods, O Israel, which brought thee up out of the land of Egypt; and he set the one in Bethel, and the other put he in Dan, and this thing became a sin. He made priests of the lowest of the people, and ordained a feast in the eighth month, on the fifteenth day of the month, devised of his own heart, in place of the feast of tabernacles. That is the shame of Bethel.
     Images shown in class: the horned gods of Chinese religion, carved with the cow's head and body, very similar to Baal, the calf god. More proof of who they are.
 
-**[Jeremiah 48:14-20](/bible/jeremiah/48#v14)**  *[2:07:19]*
+**[Jeremiah 48:14-20](/bible/jeremiah/48#v14)**  *[[2:07:19](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7639s)]*
 
 > <sup>[14](/bible/jeremiah/48#v14)</sup> How say ye, We are mighty and strong men for the war?
 >
@@ -379,7 +379,7 @@ Videos played in class around the boycott:
 - The calamity of Moab is near to come, and his affliction hasteth fast. How is the strong staff broken, and the beautiful rod! Dibon, Aroer, Arnon: cities of ancient Moab, in the land America calls Jordan today.
 - Article shown in class, from the Guardian: the MOAB, the "mother of all bombs," used in Afghanistan. America named their biggest conventional bomb MOAB, and it is slated for a fight with China. Is it a coincidence? Maybe you believe in coincidences; I do not.
 
-**[Jeremiah 48:25-30](/bible/jeremiah/48#v25)**  *[2:13:00]*
+**[Jeremiah 48:25-30](/bible/jeremiah/48#v25)**  *[[2:13:00](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7980s)]*
 
 > <sup>[25](/bible/jeremiah/48#v25)</sup> The horn of Moab is cut off, and his arm is broken, saith the Lord.
 >
@@ -398,7 +398,7 @@ Videos played in class around the boycott:
 - O ye that dwell in Moab, leave the cities, and dwell in the rock. Images shown in class: China's bunkers in the mountains, little bunkers, big bunkers, all kinds of bunkers. The prophecy already saw it.
 - I know his wrath, saith the Lord; but it shall not be so; his lies shall not so effect it. Video played in class: a Chinese commentator boasting that China will not fire the first shot but will never allow a second, describing an ICBM carrying dozens of warheads that can reach any corner of the world in under twenty minutes, and promising that whoever wants to destroy China will be destroyed. Now that is some pride right there. Whatever China says, God says it shall not be so: his lies will not affect the outcome of what God says is going to happen to him.
 
-**[Jeremiah 48:35-42](/bible/jeremiah/48#v35)**  *[2:15:20]*
+**[Jeremiah 48:35-42](/bible/jeremiah/48#v35)**  *[[2:15:20](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8120s)]*
 
 > <sup>[35](/bible/jeremiah/48#v35)</sup> Moreover I will cause to cease in Moab, saith the Lord, him that offereth in the high places, and him that burneth incense to his gods.
 >
@@ -441,7 +441,7 @@ Videos played in class around the boycott:
 
     Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee. Thy children shall die of hunger, thy cities shall be broken down, and they that be in the mountains shall die of hunger and eat their own flesh: everybody thinks they have a plan for when Armageddon takes place, we will go into the bunkers and survive there; no, that is not going to happen. And in the passage they shall rush on the idle city, and shall destroy some portion of thy land, and shall return to Babylon that was destroyed. Although the country of Babylon the great is wiped out, her military is not finished; that is why America keeps over 800 military bases worldwide, which no other nation has, not Russia, not China. That is how they reach Moab even after the homeland is destroyed. Thy children shall they carry away captive, and look, what thou hast, they shall spoil it, and mar the beauty of thy face.
 
-**[Jeremiah 48:43-47](/bible/jeremiah/48#v43)**  *[2:25:17]*
+**[Jeremiah 48:43-47](/bible/jeremiah/48#v43)**  *[[2:25:17](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8717s)]*
 
 > <sup>[43](/bible/jeremiah/48#v43)</sup> Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the Lord.
 >
@@ -463,7 +463,7 @@ Videos played in class around the boycott:
 
     I will liken my judgment unto a ring: like as there is no slackness of the last, even so there is no swiftness of the first. A steady flow of judgment comes upon all nations. So are we promoting harm to the Chinese? No. Some of you work for them and go to school with them; fine. Our job is to tell you what God says is going to happen to these nations, not just the Chinese, but all nations.
 
-**[2 Corinthians 6:14-18](/bible/2-corinthians/6#v14)**  *[2:28:40]*
+**[2 Corinthians 6:14-18](/bible/2-corinthians/6#v14)**  *[[2:28:40](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8920s)]*
 
 > <sup>[14](/bible/2-corinthians/6#v14)</sup> Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
 >
@@ -479,7 +479,7 @@ Videos played in class around the boycott:
 - For ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
 - Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you, and will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty. So why are we always trying to mingle and integrate? God says be separate. And for those of you who came up of mixed parentage: fine; but find yourself an Israelite woman or an Israelite man, and do not do this any more.
 
-**[Psalms 108:9](/bible/psalms/108#v9)**  *[2:31:02]*
+**[Psalms 108:9](/bible/psalms/108#v9)**  *[[2:31:02](https://www.youtube.com/watch?v=6XyhSewrzz0&t=9062s)]*
 
 > <sup>[9](/bible/psalms/108#v9)</sup> Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 
@@ -526,4 +526,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-20-the-madmen-of-china-and-their-hatred-for-black-people)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=6XyhSewrzz0)

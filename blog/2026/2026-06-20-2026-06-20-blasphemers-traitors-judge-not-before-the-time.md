@@ -20,7 +20,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
 ## Scriptures Opened
 
-**[Leviticus 24:10-16](/bible/leviticus/24#v10)**  *[6:40]*
+**[Leviticus 24:10-16](/bible/leviticus/24#v10)**  *[[6:40](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=400s)]*
 
 > <sup>[10](/bible/leviticus/24#v10)</sup> And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp;
 >
@@ -40,7 +40,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - When it says he cursed, it does not mean modern curse words; it means he spoke ill of the Lord. Blaspheming and cursing here are the same thing: insulting the divine.
 - They put him in ward, meaning they locked him up, that the mind of the Lord might be shewed them. And the Lord said, bring forth him that hath cursed without the camp, and let all the congregation stone him. Whosoever curseth his God shall bear his sin, and he that blasphemeth the name of the Lord shall surely be put to death. Under Moses, blaspheming the Lord was an immediate death sentence, for the stranger as well as for him born in the land.
 
-**[2 Samuel 12:1-14](/bible/2-samuel/12#v1)**  *[10:45]*
+**[2 Samuel 12:1-14](/bible/2-samuel/12#v1)**  *[[10:45](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=645s)]*
 
 > <sup>[1](/bible/2-samuel/12#v1)</sup> And the Lord sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.
 >
@@ -75,7 +75,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - The Lord said, what thou didst secretly, I will do this thing before all Israel: the sword shall never depart from thine house. And Nathan said, the Lord also hath put away thy sin; thou shalt not die. But evil stayed in David's house perpetually: the trouble among his sons, his own counsellor turning against him, being chased out of his kingdom. David was never the same after this.
 - Howbeit, because by this deed thou hast given great occasion to the enemies of the Lord to blaspheme, the child also that is born unto thee shall surely die. It would get around that the king God chose killed a man for his wife. Your actions gave the enemies occasion to speak evil of the Lord: to insult him through what you did.
 
-**[2 Kings 18:26-37](/bible/2-kings/18#v26)**  *[16:47]*
+**[2 Kings 18:26-37](/bible/2-kings/18#v26)**  *[[16:47](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=1007s)]*
 
 > <sup>[26](/bible/2-kings/18#v26)</sup> Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rab–shakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and talk not with us in the Jews’ language in the ears of the people that are on the wall.
 >
@@ -106,7 +106,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Rabshakeh refused, and cried with a loud voice in the Jews' language so everyone would hear: let not Hezekiah deceive you; neither let Hezekiah make you trust in the Lord, saying, the Lord will surely deliver us. Make an agreement with me, eat every man of his own vine, until I come and take you away to a land like your own land. Pay your tribute, and then I will deport you all out of your land and put our own people in it.
 - Have any of the gods of the nations delivered at all his land out of the hand of the king of Assyria? Their gods did not stop my king; yours will not either. But the people held their peace, for the king's commandment was, answer him not. Let him talk; do not say a word.
 
-**[2 Kings 19:1-6](/bible/2-kings/19#v1)**  *[23:23]*
+**[2 Kings 19:1-6](/bible/2-kings/19#v1)**  *[[23:23](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=1403s)]*
 
 > <sup>[1](/bible/2-kings/19#v1)</sup> And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the Lord.
 >
@@ -123,7 +123,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - When King Hezekiah heard it, he rent his clothes, covered himself with sackcloth, and went into the house of the Lord, and sent to Isaiah the prophet: this day is a day of trouble, and of rebuke, and blasphemy. What was the blasphemy? Rabshakeh saying, your God will not deliver you; the gods of the nations are nothing. The king of Assyria sent him to reproach the living God.
 - Isaiah answered, thus saith the Lord: be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.
 
-**[2 Kings 19:21-28](/bible/2-kings/19#v21)**  *[24:56]*
+**[2 Kings 19:21-28](/bible/2-kings/19#v21)**  *[[24:56](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=1496s)]*
 
 > <sup>[21](/bible/2-kings/19#v21)</sup> This is the word that the Lord hath spoken concerning him; The virgin the daughter of Zion hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.
 >
@@ -145,7 +145,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Hast thou not heard long ago how I have done it? All Assyria's victories and conquests were because the Most High allowed it: I made you powerful; I am behind that.
 - I know thy abode, and thy going out, and thy coming in, and thy rage against me. Therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest. Assyria would put hooks on conquered people and march them out of their land; they were among the most vicious peoples of the ancient world. God said, what you do to people, I am going to do to you.
 
-**[1 Maccabees 7:41-42](/bible/1-maccabees/7#v41)**  *[29:17]*
+**[1 Maccabees 7:41-42](/bible/1-maccabees/7#v41)**  *[[29:17](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=1757s)]*
 
 > <sup>[41](/bible/1-maccabees/7#v41)</sup> O Lord, when they that were sent from the king of the Assyrians blasphemed, thine angel went out, and smote an hundred fourscore and five thousand of them.
 >
@@ -153,7 +153,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
 - O Lord, when they that were sent from the king of the Assyrians blasphemed, thine angel went out, and smote an hundred fourscore and five thousand of them. One angel came down and killed 185,000. When the survivors woke up in the morning, the camp was dead, and the king went back home carrying his dead. Do not play with the Most High: one angel, 185,000. Imagine two, three, four, five angels.
 
-**[1 Maccabees 7:26-38](/bible/1-maccabees/7#v26)**  *[30:32]*
+**[1 Maccabees 7:26-38](/bible/1-maccabees/7#v26)**  *[[30:32](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=1832s)]*
 
 > <sup>[26](/bible/1-maccabees/7#v26)</sup> Then the king sent Nicanor, one of his honourable princes, a man that bare deadly hate unto Israel, with commandment to destroy the people.
 >
@@ -186,7 +186,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Certain of the priests and elders, who had not yet heard of the conflict, came out to salute Nicanor peaceably and to shew him the burnt sacrifice offered for the king. But he mocked them, laughed at them, abused them shamefully, and spake proudly, and sware in his wrath: unless Judas and his host be now delivered into my hands, if ever I come again in safety, I will burn up this house. Bring me Judas, or I burn this temple to the ground.
 - Then the priests entered in, and stood before the altar and the temple, weeping, and prayed: be avenged of this man and his host, and let them fall by the sword: remember their blasphemies, and suffer them not to continue any longer. They prayed for the death of the man who threatened to destroy the Most High's temple.
 
-**[2 Maccabees 14:31-36](/bible/2-maccabees/14#v31)**  *[33:58]*
+**[2 Maccabees 14:31-36](/bible/2-maccabees/14#v31)**  *[[33:58](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2038s)]*
 
 > <sup>[31](/bible/2-maccabees/14#v31)</sup> But the other, knowing that he was notably prevented by Judas’ policy, came into the great and holy temple, and commanded the priests, that were offering their usual sacrifices, to deliver him the man.
 >
@@ -203,7 +203,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - This is the more detailed account of the same event. Nicanor came into the great and holy temple and commanded the priests to deliver him the man. When they sware they could not tell where he was, he stretched out his right hand toward the temple and made an oath: if ye will not deliver me Judas as a prisoner, I will lay this temple of God even with the ground, and I will break down the altar, and erect a notable temple unto Bacchus. He swore to put another god's temple in its place.
 - Then the priests lifted up their hands toward heaven: thou, O Lord of all things, who hast need of nothing, wast pleased that the temple of thine habitation should be among us; keep this house ever undefiled, and stop every unrighteous mouth. Every unrighteous mouth: blasphemy.
 
-**[2 Maccabees 15:30-33](/bible/2-maccabees/15#v30)**  *[35:39]*
+**[2 Maccabees 15:30-33](/bible/2-maccabees/15#v30)**  *[[35:39](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2139s)]*
 
 > <sup>[30](/bible/2-maccabees/15#v30)</sup> And Judas, who was ever the chief defender of the citizens both in body and mind, and who continued his love toward his countrymen all his life, commanded to strike off Nicanor’s head, and his hand with his shoulder, and bring them to Jerusalem.
 >
@@ -216,7 +216,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Judas, who was ever the chief defender of the citizens, commanded to strike off Nicanor's head, and his hand with his shoulder, the arm he had stretched out against the temple, and bring them to Jerusalem.
 - He shewed them vile Nicanor's head, and the hand of that blasphemer, which with proud brags he had stretched out against the holy temple of the Almighty. And he cut out the tongue of that ungodly Nicanor, commanded to give it by pieces unto the fowls, and hanged up the reward of his madness before the temple. The tongue that talked the blasphemy was cut out and fed to the birds, and every man praised the glorious Lord, saying, blessed be he that hath kept his own place undefiled.
 
-**[2 Kings 21:9-11](/bible/2-kings/21#v9)**  *[37:40]*
+**[2 Kings 21:9-11](/bible/2-kings/21#v9)**  *[[37:40](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2260s)]*
 
 > <sup>[9](/bible/2-kings/21#v9)</sup> But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the Lord destroyed before the children of Israel.
 >
@@ -226,7 +226,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
 - Manasseh king of Judah seduced them to do more evil than did the nations whom the Lord destroyed before the children of Israel. He did wickedly above all that the Amorites did, and made Judah also to sin with his idols. The Amorites were terrible; Manasseh went above them.
 
-**[2 Chronicles 33:6-16](/bible/2-chronicles/33#v6)**  *[39:13]*
+**[2 Chronicles 33:6-16](/bible/2-chronicles/33#v6)**  *[[39:13](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2353s)]*
 
 > <sup>[6](/bible/2-chronicles/33#v6)</sup> And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the Lord, to provoke him to anger.
 >
@@ -258,7 +258,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
     Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another. He was behind a lot of death, sorcery, and witchcraft; and the Lord forgave Manasseh when he humbled himself in affliction, and put him back on the throne. The Lord has mercy on whom he will have mercy. That is why it is very important for us to learn humility: people fall, and the Most High is able to raise them up again, like David. But do not abuse it. You are not David; you are not Manasseh; you are not Moses. The Lord puts it there to remind us that his graces and mercies were around back then too. Do not get prideful. Humility.
 
-**[2 Maccabees 10:33-34](/bible/2-maccabees/10#v33)**  *[44:22]*
+**[2 Maccabees 10:33-34](/bible/2-maccabees/10#v33)**  *[[44:22](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2662s)]*
 
 > <sup>[33](/bible/2-maccabees/10#v33)</sup> But they that were with Maccabeus laid siege against the fortress courageously four days.
 >
@@ -267,7 +267,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - They that were with Maccabeus laid siege against the fortress courageously for days; and they that were within, trusting to the strength of the place, blasphemed exceedingly, and uttered wicked words.
 - So blaspheming is uttering wicked words against the Lord. Cursing, reproaching, blaspheming: synonymous.
 
-**[Ezekiel 20:10-16](/bible/ezekiel/20#v10)**  *[45:10]*
+**[Ezekiel 20:10-16](/bible/ezekiel/20#v10)**  *[[45:10](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2710s)]*
 
 > <sup>[10](/bible/ezekiel/20#v10)</sup> Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.
 >
@@ -287,7 +287,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, and my sabbaths they greatly polluted. Then I said, I would pour out my fury upon them; but I wrought for my name's sake. They represent him; they carry his name; so for his name's sake he kept working with us despite our rebellion, that his name should not be polluted before the heathen.
 - Yet I lifted up my hand, that I would not bring them into the land flowing with milk and honey, the glory of all lands: the same land they are fighting over to this very day. Because they despised my judgments and polluted my sabbaths: for their heart went after their idols.
 
-**[Ezekiel 20:23-28](/bible/ezekiel/20#v23)**  *[47:21]*
+**[Ezekiel 20:23-28](/bible/ezekiel/20#v23)**  *[[47:21](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=2841s)]*
 
 > <sup>[23](/bible/ezekiel/20#v23)</sup> I lifted up mine hand unto them also in the wilderness, that I would scatter them among the heathen, and disperse them through the countries;
 >
@@ -306,7 +306,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Yet in this your fathers have blasphemed me, in that they have committed a trespass against me. He explains it: by trespassing against him, breaking the commandments, polluting his sabbaths, sacrificing children, serving other gods, they blasphemed him. Blasphemy is not only speech; your actions can blaspheme God.
 - When I had brought them into the land, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering, and poured out their drink offerings to other gods.
 
-**[Deuteronomy 12:2-3](/bible/deuteronomy/12#v2)**  *[50:13]*
+**[Deuteronomy 12:2-3](/bible/deuteronomy/12#v2)**  *[[50:13](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3013s)]*
 
 > <sup>[2](/bible/deuteronomy/12#v2)</sup> Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:
 >
@@ -315,20 +315,20 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Ye shall utterly destroy all the places wherein the nations served their gods, upon the high mountains, and upon the hills, and under every green tree; and overthrow their altars, and burn their groves with fire. Under every green tree is where gifts were sacrificed; a group of great trees is called a grove.
 - Think about what happens during Christmas: where do the gifts go? Right under the tree. And today there is the Bohemian Grove, tall trees around a fire, where presidents and the powerful gather to do the Lord knows what. The Lord said, destroy those places. That is blasphemy.
 
-**[Isaiah 65:7](/bible/isaiah/65#v7)**  *[52:10]*
+**[Isaiah 65:7](/bible/isaiah/65#v7)**  *[[52:10](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3130s)]*
 
 > <sup>[7](/bible/isaiah/65#v7)</sup> Your iniquities, and the iniquities of your fathers together, saith the Lord, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.
 
 - Your iniquities, and the iniquities of your fathers together, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom. Serving other gods on the hills blasphemed him.
 
-**[Isaiah 52:5](/bible/isaiah/52#v5)**  *[52:45]*
+**[Isaiah 52:5](/bible/isaiah/52#v5)**  *[[52:45](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3165s)]*
 
 > <sup>[5](/bible/isaiah/52#v5)</sup> Now therefore, what have I here, saith the Lord, that my people is taken away for nought? they that rule over them make them to howl, saith the Lord; and my name continually every day is blasphemed.
 
 - My people is taken away for nought: they that rule over them make them to howl, saith the Lord; and my name continually every day is blasphemed.
 - His name is blasphemed every day, all around the world. The false image of Christ is blasphemy. He died for all people is blasphemy against what is written. He does not exist, atheism, evolution: blasphemy. His name and reputation are spoken evil of continually.
 
-**[Psalms 74:1-10](/bible/psalms/74#v1)**  *[54:11]*
+**[Psalms 74:1-10](/bible/psalms/74#v1)**  *[[54:11](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3251s)]*
 
 > <sup>[1](/bible/psalms/74#v1)</sup> O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?
 >
@@ -366,21 +366,21 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
     And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images. They made our signs their signs. The Greeks did it, the Romans did it, Spain, Portugal, Britain, the Dutch, the French. They all did it, and they still do it.
 
-**[Revelation 2:9](/bible/revelation/2#v9)**  *[58:46]*
+**[Revelation 2:9](/bible/revelation/2#v9)**  *[[58:46](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3526s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 
 - I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 - The people over there in Israel saying they are Jews is blasphemy. And both sides of that war are guilty concerning the holy place; neither belongs there.
 
-**[Revelation 3:9](/bible/revelation/3#v9)**  *[1:00:17]*
+**[Revelation 3:9](/bible/revelation/3#v9)**  *[[1:00:17](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3617s)]*
 
 > <sup>[9](/bible/revelation/3#v9)</sup> Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 
 - Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie. And the world is seeing it: the more evil is done over there, the bombing of Gaza and Lebanon, the June parades in the holy land, the more the world says, those cannot be the people of God.
 - And if you accept them as God's chosen people, you are partaking in the same blasphemy.
 
-**[Revelation 12:1-3](/bible/revelation/12#v1)**  *[1:01:42]*
+**[Revelation 12:1-3](/bible/revelation/12#v1)**  *[[1:01:42](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3702s)]*
 
 > <sup>[1](/bible/revelation/12#v1)</sup> And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 >
@@ -392,14 +392,14 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - And there appeared another wonder: a great red dragon, having seven heads and ten horns, and seven crowns upon his heads: times of rulership extending from those heads. A beast in prophecy is a nation of people; this dragon is Esau and the empires that come out of him.
 - Genesis shows the pattern: Rebekah carried two nations, two manner of people, in one womb, and the first came out red. Noah likewise fathered three sons from whom the families of the earth divided. The nations came out of one family; that is the Bible's own account.
 
-**[Revelation 12:9](/bible/revelation/12#v9)**  *[1:05:07]*
+**[Revelation 12:9](/bible/revelation/12#v9)**  *[[1:05:07](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3907s)]*
 
 > <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
 - And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him. This is the prophetic downfall of the power structure that rules the world, when Christ returns.
 - Why the old serpent? Because he is the same serpent that deceived the woman, still deceiving today, turning the women against their men and dividing Israelite families. And it says he deceiveth the whole world: not just our people, but everyone is deceived by him to some degree.
 
-**[Revelation 13:5-6](/bible/revelation/13#v5)**  *[1:06:08]*
+**[Revelation 13:5-6](/bible/revelation/13#v5)**  *[[1:06:08](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=3968s)]*
 
 > <sup>[5](/bible/revelation/13#v5)</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
 >
@@ -408,7 +408,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - There was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
 - And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. How do you blaspheme them that dwell in heaven? By repainting them in your own image; by saying they do not exist; by calling the hosts of heaven aliens or demons. Those are the angels of God, and the scriptures say they are coming for the deliverance of his people and the judgment of his enemies.
 
-**[Psalms 79:1-10](/bible/psalms/79#v1)**  *[1:08:05]*
+**[Psalms 79:1-10](/bible/psalms/79#v1)**  *[[1:08:05](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4085s)]*
 
 > <sup>[1](/bible/psalms/79#v1)</sup> O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 >
@@ -427,7 +427,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - O God, the heathen are come into thine inheritance; thy holy temple have they defiled. The dead bodies of thy servants have they given to be meat unto the fowls of the heaven; their blood have they shed like water round about Jerusalem. We are become a reproach to our neighbours. Pour out thy wrath upon the heathen that have not known thee.
 - Wherefore should the heathen say, Where is their God? That is blasphemy. Through the whole captivity, through the ships, the auction blocks, the plantations, the terror, and even now through the ghettos and the poisons put in our communities, the taunt has been the same: where is your God? Every taunt of it is blasphemy against the Most High, and he has heard every word.
 
-**[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[1:10:19]*
+**[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[1:10:19](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4219s)]*
 
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 >
@@ -437,7 +437,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Surely your turning of things upside down shall be esteemed as the potter's clay. They turn things upside down; God will use his people to turn things right side up again.
 - Shall the work say of him that made it, He made me not? That is the atheist. Or shall the thing framed say of him that framed it, He had no understanding? That is the one who says, God made me wrong; I was born one thing and I will make myself another. Your frame tells you what you are. Saying the Maker had no understanding in how he made you is blasphemy.
 
-**[Isaiah 47:1-14](/bible/isaiah/47#v1)**  *[1:13:11]*
+**[Isaiah 47:1-14](/bible/isaiah/47#v1)**  *[[1:13:11](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4391s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 >
@@ -462,7 +462,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
     Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me. Babylon says the exact same words God says of himself: I am, and none else beside me. A nation putting itself in the seat of God is blasphemy. And believing that your people can never rule themselves, that the world cannot run without your oppressor, is the same blasphemy: saying what God made cannot do what God promised.
 
-**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[1:19:07]*
+**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[1:19:07](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4747s)]*
 
 > <sup>[1](/bible/numbers/14#v1)</sup> And all the congregation lifted up their voice, and cried; and the people wept that night.
 >
@@ -475,7 +475,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - All the congregation lifted up their voice and cried, and murmured against Moses and against Aaron: would God that we had died in the land of Egypt! And they said one to another, Let us make a captain, and let us return into Egypt.
 - Let us return to slavery: that is a slave mentality. They got freedom and wanted to go back to the house of bondage. It is the same mentality now with those who say this land of captivity is home. We were brought here; this is exile, not home. Our home is Jerusalem. Taking pride in the identity of Babylon over the identity God gave you is blasphemy.
 
-**[Exodus 16:1-3](/bible/exodus/16#v1)**  *[1:21:19]*
+**[Exodus 16:1-3](/bible/exodus/16#v1)**  *[[1:21:19](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4879s)]*
 
 > <sup>[1](/bible/exodus/16#v1)</sup> And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 >
@@ -486,7 +486,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - The whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: would to God we had died by the hand of the Lord in the land of Egypt, when we sat by the flesh pots.
 - Murmuring, provoking the Lord, speaking against his prophets: the word is not used here, but these are forms of blasphemy, speaking ill against the Lord, his people, and his prophets.
 
-**[Psalms 78:17-19](/bible/psalms/78#v17)**  *[1:22:31]*
+**[Psalms 78:17-19](/bible/psalms/78#v17)**  *[[1:22:31](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4951s)]*
 
 > <sup>[17](/bible/psalms/78#v17)</sup> And they sinned yet more against him by provoking the most High in the wilderness.
 >
@@ -497,7 +497,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - And they sinned yet more against him by provoking the most High in the wilderness. And they tempted God in their heart by asking meat for their lust.
 - Yea, they spake against God; they said, Can God furnish a table in the wilderness? Questioning whether God is able to provide is blasphemy; it is not saying the word, but that is what they were doing, and in the wilderness they dropped dead for it.
 
-**[Romans 2:20-24](/bible/romans/2#v20)**  *[1:23:16]*
+**[Romans 2:20-24](/bible/romans/2#v20)**  *[[1:23:16](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=4996s)]*
 
 > <sup>[20](/bible/romans/2#v20)</sup> An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
 >
@@ -512,7 +512,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal? Thou that makest thy boast of the law, through breaking the law dishonourest thou God?
 - For the name of God is blasphemed among the Gentiles through you. The leaders Paul wrote to were teaching but not doing. When the Lord told David, thou hast given great occasion to the enemies of the Lord to blaspheme, it is the same principle: your actions can be blasphemy. There are levels to it.
 
-**[Matthew 12:24-29](/bible/matthew/12#v24)**  *[1:25:07]*
+**[Matthew 12:24-29](/bible/matthew/12#v24)**  *[[1:25:07](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=5107s)]*
 
 > <sup>[24](/bible/matthew/12#v24)</sup> But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.
 >
@@ -530,7 +530,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Jesus knew their thoughts: every kingdom divided against itself is brought to desolation. If Satan cast out Satan, he is divided against himself; how shall then his kingdom stand? It is self-defeating; it makes no sense.
 - But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you. Christ healed people by the Spirit of God, and they called that power the devil.
 
-**[Matthew 12:31-32](/bible/matthew/12#v31)**  *[1:27:52]*
+**[Matthew 12:31-32](/bible/matthew/12#v31)**  *[[1:27:52](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=5272s)]*
 
 > <sup>[31](/bible/matthew/12#v31)</sup> Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men.
 >
@@ -546,7 +546,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
     And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
 
-**[Mark 3:22-30](/bible/mark/3#v22)**  *[1:31:35]*
+**[Mark 3:22-30](/bible/mark/3#v22)**  *[[1:31:35](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=5495s)]*
 
 > <sup>[22](/bible/mark/3#v22)</sup> And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
 >
@@ -571,7 +571,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Verily I say unto you, all sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme: but he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation: because they said, He hath an unclean spirit.
 - That last line is the key: because they said he hath an unclean spirit. They were saying the Holy Spirit he healed with was the devil. If they maintained that mindset to death, that was it for them. That is what blasphemy against the Holy Ghost is.
 
-**[Luke 17:26-32](/bible/luke/17#v26)**  *[1:34:42]*
+**[Luke 17:26-32](/bible/luke/17#v26)**  *[[1:34:42](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=5682s)]*
 
 > <sup>[26](/bible/luke/17#v26)</sup> And as it was in the days of Noe, so shall it be also in the days of the Son of man.
 >
@@ -591,7 +591,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Even thus shall it be in the day when the Son of man is revealed. Everyone unsuspecting, living carelessly in Babylon, life as usual.
 - Remember Lot's wife. Why does he say that? Because this place has an end, and if you miss it, if you want to bring Babylon with you into the kingdom, you are looking back like Lot's wife. You like it here; you are comfortable here. Noah was not comfortable; Lot was not comfortable. The people who turn their backs on this truth are the same people that ignored Noah when the flood came and ignored Lot when the fire came, and they will ignore this work when Christ comes.
 
-**[Luke 9:59-62](/bible/luke/9#v59)**  *[1:36:55]*
+**[Luke 9:59-62](/bible/luke/9#v59)**  *[[1:36:55](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=5815s)]*
 
 > <sup>[59](/bible/luke/9#v59)</sup> And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.
 >
@@ -604,7 +604,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - He said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God. People call that a cult; no, that is Christ setting the priority: you follow me, you do what I say, go preach the kingdom.
 - And another said, Lord, I will follow thee; but let me first go bid them farewell, which are at home. And Jesus said, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God. Looking back like whom? Lot's wife. When you come to this truth, there is no turning back.
 
-**[Hebrews 6:4-6](/bible/hebrews/6#v4)**  *[1:39:19]*
+**[Hebrews 6:4-6](/bible/hebrews/6#v4)**  *[[1:39:19](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=5959s)]*
 
 > <sup>[4](/bible/hebrews/6#v4)</sup> For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
 >
@@ -615,7 +615,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost, and have tasted the good word of God, and the powers of the world to come: you learned the truth, you learned of Christ our king returning to deliver us out of this captivity.
 - If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame. Those who learn all of this and then renounce it, calling it a lie and a cult, crucify Christ all over again and put him to open shame. That is blasphemy. And if a person dies maintaining that renunciation, the scripture holds out no renewal for them.
 
-**[Hebrews 10:26-31](/bible/hebrews/10#v26)**  *[1:41:37]*
+**[Hebrews 10:26-31](/bible/hebrews/10#v26)**  *[[1:41:37](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=6097s)]*
 
 > <sup>[26](/bible/hebrews/10#v26)</sup> For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 >
@@ -634,13 +634,13 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - And hath counted the blood of the covenant an unholy thing: now you say he did not die for the covenant people as written; you rewrite his death. And hath done despite unto the Spirit of grace: you came out of the world, received that grace, and went back to what you were delivered from. That Spirit of grace is the Holy Ghost you are blaspheming. This scripture explains blasphemy to the highest degree.
 - But note: vengeance belongeth unto me, I will recompense, saith the Lord. We cannot condemn anyone; that is the Lord's decision. I cannot condemn Manasseh; the Lord had mercy on him. I cannot condemn David; the Lord had mercy on him, and those men did things worthy of death under the law. But if a person dies in renunciation without repentance, the outcome is written. It is a fearful thing to fall into the hands of the living God.
 
-**[Matthew 11:6](/bible/matthew/11#v6)**  *[1:45:01]*
+**[Matthew 11:6](/bible/matthew/11#v6)**  *[[1:45:01](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=6301s)]*
 
 > <sup>[6](/bible/matthew/11#v6)</sup> And blessed is he, whosoever shall not be offended in me.
 
 - And blessed is he, whosoever shall not be offended in me. Many come to this truth and leave offended, whatever camp they joined. But leaving a group does not change what you are biologically. Saying, I used to be an Israelite, is like saying, I used to be Chinese. You will always be what you were born; renouncing it only means you are lost to your people and your God.
 
-**[Matthew 18:6-7](/bible/matthew/18#v6)**  *[1:46:23]*
+**[Matthew 18:6-7](/bible/matthew/18#v6)**  *[[1:46:23](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=6383s)]*
 
 > <sup>[6](/bible/matthew/18#v6)</sup> But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
 >
@@ -650,7 +650,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - We all make mistakes. But a leader who falls and then says the disappointment of those who looked up to him is their problem is not a leader. That man looked up to you and you failed him; you are held accountable for that offense. Remember David: after his own fall he could not correct his sons, and his house suffered for it. As a leader, when you fail the people, you are liable.
 - Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh. Offenses will always come and go; but the man the offense comes from is accountable, if he does not repent.
 
-**[2 Timothy 3:2-4](/bible/2-timothy/3#v2)**  *[1:49:04]*
+**[2 Timothy 3:2-4](/bible/2-timothy/3#v2)**  *[[1:49:04](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=6544s)]*
 
 > <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 >
@@ -662,7 +662,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, traitors. There it is: traitors.
 - That is the "why I left" phenomenon. Why announce your departure? There are many doors; no one held you hostage; just go. But the traitor wants to be heard, wants to take his story to the enemy of his people and testify against all the good he witnessed. A traitor in these last days, exactly as Paul described.
 
-**[Wisdom of Solomon 7:22-24](/bible/wisdom-of-solomon/7#v22)**  *[2:01:12]*
+**[Wisdom of Solomon 7:22-24](/bible/wisdom-of-solomon/7#v22)**  *[[2:01:12](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7272s)]*
 
 > <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good quick, which cannot be letted, ready to do good,
 >
@@ -673,7 +673,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Some who leave say this movement will stop because movements stop. What we teach as Israelites is wisdom, the truth of who we are. And wisdom, saith Solomon, is an understanding spirit, holy, one only, manifold, subtle, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good, quick, which cannot be letted. Cannot be letted means it cannot be stopped or halted.
 - For wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness. This is the top movement on the earth, despite how anyone feels. During Christ's time there were divisions and factions too; thousands repented in a day; that movement was mocked, and it did not stop. A man's personal movement can stop when he defiles himself; but the movement of the Most High keeps going. That is why this truth travels the world seeking out our people before Christ returns.
 
-**[Psalms 109:5-8](/bible/psalms/109#v5)**  *[2:06:20]*
+**[Psalms 109:5-8](/bible/psalms/109#v5)**  *[[2:06:20](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7580s)]*
 
 > <sup>[5](/bible/psalms/109#v5)</sup> And they have rewarded me evil for good, and hatred for my love.
 >
@@ -687,7 +687,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Set thou a wicked man over him: and let Satan stand at his right hand. That is why when they leave, they end up far worse than before they came in; they are never the same.
 - When he shall be judged, let him be condemned: and let his prayer become sin. Let his days be few; and let another take his office. Who is this prophetically referring to? Hold that question.
 
-**[Psalms 69:25-26](/bible/psalms/69#v25)**  *[2:08:11]*
+**[Psalms 69:25-26](/bible/psalms/69#v25)**  *[[2:08:11](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7691s)]*
 
 > <sup>[25](/bible/psalms/69#v25)</sup> Let their habitation be desolate; and let none dwell in their tents.
 >
@@ -695,14 +695,14 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
 - Let their habitation be desolate; and let none dwell in their tents. For they persecute him whom thou hast smitten. These scriptures are speaking of the same kind of person.
 
-**[Psalms 41:9](/bible/psalms/41#v9)**  *[2:08:39]*
+**[Psalms 41:9](/bible/psalms/41#v9)**  *[[2:08:39](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7719s)]*
 
 > <sup>[9](/bible/psalms/41#v9)</sup> Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.
 
 - Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me. This happened to David through Ahithophel, his own counsellor, who turned on him. And it is prophetic of somebody else.
 - The ones who leave are familiar friends. Some raised their children among us; imagine a child who grew from the womb to thirteen among the brethren, and the parents up and go over something that could have been resolved. That child loses everything he knows because of a wickedness his parents refused to confront.
 
-**[Acts 1:18-20](/bible/acts/1#v18)**  *[2:10:02]*
+**[Acts 1:18-20](/bible/acts/1#v18)**  *[[2:10:02](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7802s)]*
 
 > <sup>[18](/bible/acts/1#v18)</sup> Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
 >
@@ -713,27 +713,27 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Now this man purchased a field with the reward of iniquity: this is Judas Iscariot. They paid him thirty pieces of silver to betray Christ; when he felt the guilt and tried to give it back, they would not put blood money in the treasury, so it bought the field. And falling headlong, he burst asunder in the midst, and all his bowels gushed out: the field called in their proper tongue Aceldama, the field of blood.
 - For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take. The psalms we just read are this prophecy. Judas lost his office, and Matthias replaced him in this same chapter.
 
-**[John 13:18](/bible/john/13#v18)**  *[2:12:32]*
+**[John 13:18](/bible/john/13#v18)**  *[[2:12:32](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7952s)]*
 
 > <sup>[18](/bible/john/13#v18)</sup> I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
 
 - I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me. Out of the twelve, one was not chosen for the same purpose; one belonged to the devil.
 
-**[John 17:12](/bible/john/17#v12)**  *[2:13:09]*
+**[John 17:12](/bible/john/17#v12)**  *[[2:13:09](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=7989s)]*
 
 > <sup>[12](/bible/john/17#v12)</sup> While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
 
 - Those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled. The son of perdition is Judas the betrayer.
 - Did Judas blaspheme the Holy Ghost? When Judas realized what he had done, he did not go back and repent and reconcile. Out of guilt he went and hanged himself, and never reconciled. When Peter denied Christ, Peter reconciled. Judas did not.
 
-**[Matthew 26:24](/bible/matthew/26#v24)**  *[2:14:17]*
+**[Matthew 26:24](/bible/matthew/26#v24)**  *[[2:14:17](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8057s)]*
 
 > <sup>[24](/bible/matthew/26#v24)</sup> The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
 
 - The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
 - Dying in guilt is not repentance. Repentance is what Christ taught: leave thy gift before the altar, and go thy way; first be reconciled to thy brother. Judas did not do that. So the one who dies having turned his back on this truth, with things unresolved, renouncing what he is, follows the pattern of Judas.
 
-**[John 3:17-21](/bible/john/3#v17)**  *[2:15:43]*
+**[John 3:17-21](/bible/john/3#v17)**  *[[2:15:43](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8143s)]*
 
 > <sup>[17](/bible/john/3#v17)</sup> For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
 >
@@ -750,7 +750,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. So the light becomes a cult; the light becomes brainwashing. They despise correction, so they leave, and go back to the customs of the world they wanted all along.
 - But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God. We all make mistakes; the one that does truth stays and lets his deeds be corrected.
 
-**[Philippians 3:10-14](/bible/philippians/3#v10)**  *[2:19:01]*
+**[Philippians 3:10-14](/bible/philippians/3#v10)**  *[[2:19:01](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8341s)]*
 
 > <sup>[10](/bible/philippians/3#v10)</sup> That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
 >
@@ -766,14 +766,14 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Not as though I had already attained, either were already perfect. Paul himself said, I cannot say for certain that I have made it. So nobody in a congregation can declare himself the elect. Paul said, I do not know; I count not myself to have apprehended.
 - But this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark for the prize of the high calling of God in Christ Jesus. Put the past behind; work on the now.
 
-**[Ecclesiasticus 38:22](/bible/sirach/38#v22)**  *[2:21:53]*
+**[Ecclesiasticus 38:22](/bible/sirach/38#v22)**  *[[2:21:53](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8513s)]*
 
 > <sup>[22](/bible/sirach/38#v22)</sup> Remember my judgment: for thine also shall be so; yesterday for me, and to day for thee.
 
 - Remember my judgment: for thine also shall be so; yesterday for me, and to day for thee. Be mindful how you speak about the men who came before you. When people fall, whether through coercion or old age as their wisdom leaves them, someone's yesterday can be your tomorrow.
 - One teacher publicly branded the elders before him false prophets, and now he is looked at the same way by those after him. Moses went off from the commandment and the law found him; the pattern does not skip anybody. Be not quick to speak evil of dignities. Respect the elders; yesterday for them, today for you.
 
-**[1 Corinthians 4:3-5](/bible/1-corinthians/4#v3)**  *[2:23:20]*
+**[1 Corinthians 4:3-5](/bible/1-corinthians/4#v3)**  *[[2:23:20](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8600s)]*
 
 > <sup>[3](/bible/1-corinthians/4#v3)</sup> But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self.
 >
@@ -785,7 +785,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Yea, I judge not mine own self; he that judgeth me is the Lord. Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.
 - Judge nothing, and no one, before the time; because what happened to somebody yesterday can happen to you today.
 
-**[Matthew 7:1-5](/bible/matthew/7#v1)**  *[2:25:13]*
+**[Matthew 7:1-5](/bible/matthew/7#v1)**  *[[2:25:13](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8713s)]*
 
 > <sup>[1](/bible/matthew/7#v1)</sup> Judge not, that ye be not judged.
 >
@@ -807,7 +807,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
     Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned. The judging Christ forbids is condemning someone. You cannot pronounce a person damned; judge not before the time, because you may be headed to the same place you are sending him.
 
-**[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[2:28:09]*
+**[1 Corinthians 6:9-11](/bible/1-corinthians/6#v9)**  *[[2:28:09](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8889s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 >
@@ -818,7 +818,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God. Revilers are those that speak evil of dignities and slander; extortioners are those that steal from a congregation. The same end that waits for the blasphemer waits for all of these, without repentance.
 - And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God. There is washing for the one who stops.
 
-**[1 Corinthians 9:26-27](/bible/1-corinthians/9#v26)**  *[2:29:39]*
+**[1 Corinthians 9:26-27](/bible/1-corinthians/9#v26)**  *[[2:29:39](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=8979s)]*
 
 > <sup>[26](/bible/1-corinthians/9#v26)</sup> I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:
 >
@@ -827,7 +827,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 - I therefore so run, not as uncertainly; so fight I, not as one that beateth the air. This truth is a fight: against the sins of the world and the sins in yourself.
 - But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway. Even Paul had to fight himself all the time. We all have a battle in us; so we cannot sit and say, he is condemned, while doing the same or worse. And the one who leaves and stays gone, the Bible calls a castaway if he stays that way.
 
-**[Luke 13:1-9](/bible/luke/13#v1)**  *[2:30:35]*
+**[Luke 13:1-9](/bible/luke/13#v1)**  *[[2:30:35](https://www.youtube.com/watch?v=SxDuvLQEkHI&t=9035s)]*
 
 > <sup>[1](/bible/luke/13#v1)</sup> There were present at that season some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices.
 >
@@ -857,4 +857,4 @@ Blasphemy has levels: cursing the Most High with the mouth, defaming his name th
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-20-blasphemers-traitors-judge-not-before-the-time)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=SxDuvLQEkHI)

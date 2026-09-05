@@ -20,7 +20,7 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
 ## Scriptures Opened
 
-**[Genesis 25:21-28](/bible/genesis/25#v21)**  *[17:25]*
+**[Genesis 25:21-28](/bible/genesis/25#v21)**  *[[17:25](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1045s)]*
 
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
 >
@@ -68,7 +68,7 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 - And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents. When you examine the two, remember it said two manner of people: Jacob was plain, he dwelt in tents, he herded the sheep and the goats. Esau was not like that; he liked to go out and hunt, he liked that adrenaline rush.
 - And Isaac loved Esau, because he did eat of his venison: he hunted the food and learned how to cook it from Rebekah. But Rebekah loved Jacob.
 
-**[Hebrews 12:16-17](/bible/hebrews/12#v16)**  *[25:14]*
+**[Hebrews 12:16-17](/bible/hebrews/12#v16)**  *[[25:14](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1514s)]*
 
 > <sup>[16](/bible/hebrews/12#v16)</sup> Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 >
@@ -96,7 +96,7 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
 - For ye know how that afterward, when he would have inherited the blessing, he was rejected: rejected by God; for he found no place of repentance, though he sought it carefully with tears.
 
-**[Genesis 25:30-34](/bible/genesis/25#v30)**  *[32:01]*
+**[Genesis 25:30-34](/bible/genesis/25#v30)**  *[[32:01](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1921s)]*
 
 > <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
 >
@@ -112,7 +112,7 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 - And Jacob said, Sell me this day thy birthright. And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me? I do not give a damn about a birthright if I am about to die. And he sware unto him: and he sold his birthright unto Jacob. This is what made him profane: the birthright meant a lot, and he could not care less about it.
 - Then Jacob gave Esau bread and pottage of lentiles, and in those lentiles was raw meat; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
 
-**[Genesis 27:38-40](/bible/genesis/27#v38)**  *[33:03]*
+**[Genesis 27:38-40](/bible/genesis/27#v38)**  *[[33:03](https://www.youtube.com/watch?v=FpEHxWGgai8&t=1983s)]*
 
 > <sup>[38](/bible/genesis/27#v38)</sup> And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
 >
@@ -142,7 +142,7 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
     In the days of Jehoram the son of Jehoshaphat, king of Judah, Edom revolted from under the hand of Judah, and made a king over themselves. That is the first time Esau broke the yoke from off his neck, just as Genesis 27:40 prophesied.
 
-**[Obadiah 1:11-14](/bible/obadiah/1#v11)**  *[39:50]*
+**[Obadiah 1:11-14](/bible/obadiah/1#v11)**  *[[39:50](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2390s)]*
 
 > <sup>[11](/bible/obadiah/1#v11)</sup> In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.
 >
@@ -175,7 +175,7 @@ Book read in class: Light and Truth: Collected from the Bible and Ancient and Mo
 - "Moseroth was built by the Moors in the desert of Paran, in the land of Amalek. It was the ancient encampment of Israel in the days of Moses. In the Moorish war some of the books of Moses were burnt. Moriah: a hill adjacent to Jerusalem on the northeast. Here Abraham offered his son. When Solomon built the temple on it, it became included in the city."
 - Also read, from The Story of Civilization: Caesar and Christ, by Will Durant: "The Latins gave the name Africa to the region around Carthage and Utica." That is where Africa came from; the white man put that name there. We are not Africans; we have to go back to the name God calls us. Rome named the continent Africa.
 
-**[Micah 1:1](/bible/micah/1#v1)**  *[49:08]*
+**[Micah 1:1](/bible/micah/1#v1)**  *[[49:08](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2948s)]*
 
 > <sup>[1](/bible/micah/1#v1)</sup> The word of the Lord that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
@@ -201,7 +201,7 @@ Book read in class: Light and Truth: Collected from the Bible and Ancient and Mo
 - You keep forgetting why they destroyed Black Wall Street: it was 35 blocks; we had our own houses, our own everything; our economy was better than theirs. They said if we let this go on, they are really going to take over everything, so they dropped dynamite on it and killed us. The same with Rosewood, the same with Lake Lanier, and Seneca Village in Central Park. We were doing better than them, and they took our lands and property. We were able to build things without white folks; today some of you think we cannot do it without them. That is what you hear Christians say: if the white man is not going to be in heaven, I do not want to be there. Clip discussed of the Harlem pastor preaching that our people cannot build anything and need the white man to guide us. No, we do not.
 - So the Moors were conquered and scattered: many were sent to Africa, and transported to Brazil and North America. We have read books on that.
 
-**[Psalms 137:7-9](/bible/psalms/137#v7)**  *[55:23]*
+**[Psalms 137:7-9](/bible/psalms/137#v7)**  *[[55:23](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3323s)]*
 
 > <sup>[7](/bible/psalms/137#v7)</sup> Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
 >
@@ -213,7 +213,7 @@ Book read in class: Light and Truth: Collected from the Bible and Ancient and Mo
 - O daughter of Babylon, who art to be destroyed: I want you to see that he calls Edom the daughter of Babylon, because they assisted the Cushite Babylonians. The prophecy is that the daughter of Babylon is to be destroyed.
 - Happy shall he be, that taketh and dasheth thy little ones against the stones: that is what they did to our children.
 
-**[Zechariah 2:6-9](/bible/zechariah/2#v6)**  *[57:06]*
+**[Zechariah 2:6-9](/bible/zechariah/2#v6)**  *[[57:06](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3426s)]*
 
 > <sup>[6](/bible/zechariah/2#v6)</sup> Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
 >
@@ -243,7 +243,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - "The Negro question in the United States of America must be treated in its relation to the huge Negro masses of farmers and workers oppressed and exploited by white imperialism in Africa and South America. The Negroes of the United States are the most advanced section of the Negro population of the world and can play a decisive role in helping and leading the liberation movement of the Negro colonies." Wait a minute: you have negroes in Jamaica, Haiti, Africa, Saudi Arabia; the southern kingdom is everywhere; but the white man examined all the negro populations and said the American negro is the most advanced.
 - Deacon: remember, when Nebuchadnezzar came against Judah, they took the best out of the best, the most educated. Esau is not stupid; he knows that history. When we were in Ghana at Elmina Castle, the tour guide actually said it: you never ask why the American black is more advanced; because when they came to Africa, they took the best of them. For a good example, notice right after slavery, without even reparations, how the blacks here advanced; that is why they came and dropped bombs and destroyed them.
 
-**[Daniel 1:3-4](/bible/daniel/1#v3)**  *[1:03:47]*
+**[Daniel 1:3-4](/bible/daniel/1#v3)**  *[[1:03:47](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3827s)]*
 
 > <sup>[3](/bible/daniel/1#v3)</sup> And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king’s seed, and of the princes;
 >
@@ -277,7 +277,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
 - Listen: do not hold your breath; Esau is not going to give you reparations. Esau is not stupid. Think about it: after slavery we had no reparations, and we were still so advanced; you actually think he is going to give you reparations now so you can take off? We had great societies without reparations, and the white man said, we have to drop dynamite on them, but we need a reason why. That is what they did to us.
 
-**[Revelation 11:8](/bible/revelation/11#v8)**  *[1:12:37]*
+**[Revelation 11:8](/bible/revelation/11#v8)**  *[[1:12:37](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4357s)]*
 
 > <sup>[8](/bible/revelation/11#v8)</sup> And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
@@ -301,7 +301,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - And Egypt: this is not the real Egypt, but this is a spiritual Egypt. That is why on the back of your dollar bill the Egyptian pyramid is there, with the all seeing eye of Horus at the top, 1776 at the bottom, and novus ordo seclorum: new world order, new secular order; annuit coeptis: he favors our enterprise.
 - Where also our Lord was crucified: a spiritual Jerusalem, because our people hate the real biblical Christ, that black Christ; they hate his teachings of the law. They want a white Jesus who teaches love for everybody: if it feels good, just do it. Remember they said, we have no king but Caesar; that is Caesar Borgia's image.
 
-**[Revelation 17:4-5, 18](/bible/revelation/17#v4)**  *[1:16:31]*
+**[Revelation 17:4-5, 18](/bible/revelation/17#v4)**  *[[1:16:31](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4591s)]*
 
 > <sup>[4](/bible/revelation/17#v4)</sup> And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
 >
@@ -315,14 +315,14 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - And abominations of the earth: they push same sex everywhere; they send their operatives all over and say, accept it. When they talk about human rights, that is what they are talking about.
 - Some say this mother of harlots is the Vatican. Verse 18: and the woman which thou sawest is that great city, which reigneth over the kings of the earth. The nation that reigns over the kings of the earth is the United States of America, not the Vatican, with over 850 bases everywhere.
 
-**[Zechariah 4:6](/bible/zechariah/4#v6)**  *[1:21:03]*
+**[Zechariah 4:6](/bible/zechariah/4#v6)**  *[[1:21:03](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4863s)]*
 
 > <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
 
 - Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel. Reading shown on screen: Zerubbabel means born in Babylon, or seed, offspring of Babylon; some scholars note it could also be understood as born in exile, but the standard rendering is born in Babylon. One of our forefathers was named Born in Babylon; that is today's lesson: we are born in Babylon.
 - Not by might, nor by power, but by my spirit, saith the Lord of hosts. Now you have to ask: why did the Lord say that to Zerubbabel?
 
-**[1 Esdras 3:4, 10-12](/bible/1-esdras/3#v4)**  *[1:22:29]*
+**[1 Esdras 3:4, 10-12](/bible/1-esdras/3#v4)**  *[[1:22:29](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4949s)]*
 
 > <sup>[4](/bible/1-esdras/3#v4)</sup> Then three young men, that were of the guard that kept the king’s body, spake one to another;
 >
@@ -338,7 +338,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - Think about why Zerubbabel would serve the Persian king with loyalty. Say you are the top fighter, but the rest of the nation is not, and they have knives to everybody's throat: if you do not give up, everybody dies. Zerubbabel obviously did not fight, because if he fought, he might live, but they were all going to die. Illustration given from The Usual Suspects: the captors learned they had no control over that man; but here the whole nation was tied up in captivity, so our forefather submitted and became the king's bodyguard.
 - Now apply it: it said cultural emphasis on truth and moral discipline. You have brothers who want to be on security who do not know the scriptures, have no discipline, and are immoral, and you want them to guard you. Captains, you have to check these men; you cannot just put anybody on security; it dealt with honor, discipline, and morality.
 
-**[1 Esdras 4:13-50](/bible/1-esdras/4#v13)**  *[1:23:32]*
+**[1 Esdras 4:13-50](/bible/1-esdras/4#v13)**  *[[1:23:32](https://www.youtube.com/watch?v=FpEHxWGgai8&t=5012s)]*
 
 > <sup>[13](/bible/1-esdras/4#v13)</sup> Then the third, who had spoken of women, and of the truth, (this was Zorobabel) began to speak.
 >
@@ -433,7 +433,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - Then Darius the king stood up, and kissed him: on the cheek; that was the custom in the east. And he wrote letters for him unto all the treasurers and lieutenants and captains and governors, that they should safely convey on their way both him, and all those that go up with him to build Jerusalem; and letters unto the lieutenants in Celosyria and Phenice, and unto them in Libanus, to bring cedar wood from Libanus unto Jerusalem, and build the city with him.
 - Moreover he wrote for all the Jews that went out of his realm up into Jewry, concerning their freedom: they got freed from captivity because of this. No officer, no ruler, no lieutenant, nor treasurer should forcibly enter into their doors; all the country which they hold should be free without tribute, no taxes; and the Edomites should give over the villages of the Jews which then they held. Pay attention to that: after Edom burned down the temple, they took over the land, and now the decree was to give it back.
 
-**[Zechariah 3:8-10](/bible/zechariah/3#v8)**  *[1:55:54]*
+**[Zechariah 3:8-10](/bible/zechariah/3#v8)**  *[[1:55:54](https://www.youtube.com/watch?v=FpEHxWGgai8&t=6954s)]*
 
 > <sup>[8](/bible/zechariah/3#v8)</sup> Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH.
 >
@@ -464,7 +464,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
     The sceptre shall not depart from Judah: the kingship shall not depart from Judah; nor a lawgiver from between his feet: that is the priesthood, letting you know Christ would come from the rod; there is no immaculate anything, that is Egyptian and Babylonian make believe; until Shiloh come: that is the Messiah, Christ; and unto him shall the gathering of the people be.
 
-**[Matthew 1:12-16](/bible/matthew/1#v12)**  *[1:59:54]*
+**[Matthew 1:12-16](/bible/matthew/1#v12)**  *[[1:59:54](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7194s)]*
 
 > <sup>[12](/bible/matthew/1#v12)</sup> And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;
 >
@@ -485,7 +485,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
     When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone. That is how much Israel loved him: they said, we want him to be our king. He said no, because there would be no more king until Christ returns.
 
-**[Zechariah 4:6-9](/bible/zechariah/4#v6)**  *[2:02:26]*
+**[Zechariah 4:6-9](/bible/zechariah/4#v6)**  *[[2:02:26](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7346s)]*
 
 > <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
 >
@@ -506,7 +506,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
     The stone which the builders refused is become the head stone of the corner. Who is that, brothers? That is Christ; he is the headstone.
 
-**[Ezra 6:14-15](/bible/ezra/6#v14)**  *[2:05:57]*
+**[Ezra 6:14-15](/bible/ezra/6#v14)**  *[[2:05:57](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7557s)]*
 
 > <sup>[14](/bible/ezra/6#v14)</sup> And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
 >
@@ -515,7 +515,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - The elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo; and they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
 - And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king. Why did the Lord call Haggai and Zechariah? What was their mission? To get on Zerubbabel and Joshua to continue building the temple; they had stopped building because they were being hindered by the other nations. Those two prophets blasted the high priest and the governor so they would go back to the work, and they finished it in the sixth year of Darius.
 
-**[Haggai 1:1-11](/bible/haggai/1#v1)**  *[2:07:46]*
+**[Haggai 1:1-11](/bible/haggai/1#v1)**  *[[2:07:46](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7666s)]*
 
 > <sup>[1](/bible/haggai/1#v1)</sup> In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 >
@@ -564,7 +564,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house. You are not looking after God's house first.
 - Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit: you are not getting blessings in your crops. And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon men, and upon cattle, and upon all the labour of the hands.
 
-**[Haggai 1:12-15](/bible/haggai/1#v12)**  *[2:13:02]*
+**[Haggai 1:12-15](/bible/haggai/1#v12)**  *[[2:13:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=7982s)]*
 
 > <sup>[12](/bible/haggai/1#v12)</sup> Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.
 >
@@ -579,7 +579,7 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - That is how we have to be. We will get on brothers and they take it personal, like we just stabbed his mama; we are just telling you to fix your life. That is love. You correct a brother's wife, and he says you are trying to destroy my marriage; no, we are trying to help your marriage.
 - Then spake Haggai the Lord's messenger in the Lord's message unto the people, saying, I am with you, saith the Lord. And the Lord stirred up the spirit of Zerubbabel, and the spirit of Joshua, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God.
 
-**[Haggai 2:1-3](/bible/haggai/2#v1)**  *[2:14:48]*
+**[Haggai 2:1-3](/bible/haggai/2#v1)**  *[[2:14:48](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8088s)]*
 
 > <sup>[1](/bible/haggai/2#v1)</sup> In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,
 >
@@ -623,7 +623,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 - "As it is written, Jacob have I loved, but Esau have I hated (Romans 9:13). God not only hates Esau-Edom, but refers to them as the people of my curse (Isaiah 34:5). There is not one favorable or positive statement in the Bible in relation to Esau-Edom. If God hated you and your ancestors, how would you react? By natural reaction you would be against God and his people, and try to prevent them from finding out you are Esau. Who is it that tries to conceal their identity as Edom, the one hated by God, by claiming to be Israel, the one loved by God? Why do you suppose the Jews form organizations such as the Anti-Defamation League, to monitor and combat hate and to identify hate groups? If you were Esau-Edom, would you not do the same? An Edomite would also want to infiltrate churches."
 - That is the game now against the truth: they go into the churches and say, hate in Romans 9:13 does not really mean hate, it just means displeased; you have to go into the Hebrew. That is what they are doing now.
 
-**[Mark 13:1-4](/bible/mark/13#v1)**  *[2:28:11]*
+**[Mark 13:1-4](/bible/mark/13#v1)**  *[[2:28:11](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8891s)]*
 
 > <sup>[1](/bible/mark/13#v1)</sup> And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
 >
@@ -638,7 +638,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 - Book read: The Temples That Jerusalem Forgot, by Ernest L. Martin: "When Jesus said the temple and the city of Jerusalem would be obliterated, his prophecies were accurate to a T. The historical records show that when the Romans got through with their fury in dismantling Jerusalem and the temple, no stones were left in place that would make one believe there was once a city or a holy sanctuary in the area. So thorough was the ruin of the temple, and also of Jewish Jerusalem, that scholars cannot find any stone of the temple still in place in its original location. My conclusions show that the Bible and history reveal the wailing wall was not a wall of the temple, but is the western wall of Herod's fort Antonia."
 - Everybody in the world thinks that western wall was part of the temple. Christ said there would not be one stone left, and now Esau himself is revealing that wall was Herod's fortress. Diagram shown of the Temple Mount with fort Antonia: that is the wall that was left, not the temple; the temple was totally destroyed. Every year masses of people go to that wailing wall to pray at Herod's fort.
 
-**[Revelation 11:1-2](/bible/revelation/11#v1)**  *[2:31:42]*
+**[Revelation 11:1-2](/bible/revelation/11#v1)**  *[[2:31:42](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9102s)]*
 
 > <sup>[1](/bible/revelation/11#v1)</sup> And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 >
@@ -648,7 +648,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 - But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles. Diagram shown with the courts color coded: the court of the Gentiles, the women's court, the men's court, the priests' court. That outer court is where the other nations went; Herod added it in, and it was not part of the original temple.
 - The argument is always, God is for everybody. God said do not even measure the Gentile court. God is not for everybody. Everybody see that.
 
-**[John 2:19-20](/bible/john/2#v19)**  *[2:33:28]*
+**[John 2:19-20](/bible/john/2#v19)**  *[[2:33:28](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9208s)]*
 
 > <sup>[19](/bible/john/2#v19)</sup> Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.
 >
@@ -676,7 +676,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
     From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. He was talking about raising up himself the third day: Christ's body was the temple, and his temple today is us.
 
-**[1 Peter 2:1-5](/bible/1-peter/2#v1)**  *[2:35:55]*
+**[1 Peter 2:1-5](/bible/1-peter/2#v1)**  *[[2:35:55](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9355s)]*
 
 > <sup>[1](/bible/1-peter/2#v1)</sup> Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 >
@@ -710,7 +710,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
     Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are. That is why we have to change the way we conduct ourselves; our communications must change.
 
-**[2 Timothy 2:19-21](/bible/2-timothy/2#v19)**  *[2:46:35]*
+**[2 Timothy 2:19-21](/bible/2-timothy/2#v19)**  *[[2:46:35](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9995s)]*
 
 > <sup>[19](/bible/2-timothy/2#v19)</sup> Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
 >
@@ -738,7 +738,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
     This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, traitors, heady, highminded, lovers of pleasures more than lovers of God; having a form of godliness, but denying the power thereof. You know why it says a form of godliness? That is the fringes and the border of blue, walking around with your Bible saying all the greetings, but you are really not keeping the commandments in your heart. From such turn away: the same thing he said in the chapter before, purge yourself from these.
 
-**[Isaiah 30:12-13](/bible/isaiah/30#v12)**  *[2:50:35]*
+**[Isaiah 30:12-13](/bible/isaiah/30#v12)**  *[[2:50:35](https://www.youtube.com/watch?v=FpEHxWGgai8&t=10235s)]*
 
 > <sup>[12](/bible/isaiah/30#v12)</sup> Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:
 >
@@ -750,7 +750,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 - That is trusting in oppression: I am not oppressed, I make millions a year. That is comfortable oppression; that is all it is.
 - Documentary recommended: Exterminate All the Brutes, on HBO Max, loosely based on Sven Lindqvist's book: it explores colonialism, white supremacy, and the brutality carried across the world, with reenactments and commentary from historians. Very good documentary; watch it when you get a chance.
 
-**[Zechariah 4:6-7](/bible/zechariah/4#v6)**  *[2:54:48]*
+**[Zechariah 4:6-7](/bible/zechariah/4#v6)**  *[[2:54:48](https://www.youtube.com/watch?v=FpEHxWGgai8&t=10488s)]*
 
 > <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
 >
@@ -781,7 +781,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
 - Before Zerubbabel thou shalt become a plain: flattened, destroyed. And he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it. Why is he crying grace, grace? It said in Isaiah: because of the oppressors. This is showing you Zerubbabel is in these last days as well.
 
-**[Haggai 2:4-9](/bible/haggai/2#v4)**  *[2:59:23]*
+**[Haggai 2:4-9](/bible/haggai/2#v4)**  *[[2:59:23](https://www.youtube.com/watch?v=FpEHxWGgai8&t=10763s)]*
 
 > <sup>[4](/bible/haggai/2#v4)</sup> Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts:
 >
@@ -800,7 +800,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 - For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; and I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory. The silver is mine, and the gold is mine, saith the Lord of hosts.
 - The glory of this latter house shall be greater than of the former: the house that Christ builds is going to be greater than the former house that Solomon built.
 
-**[Malachi 3:1-4](/bible/malachi/3#v1)**  *[3:00:47]*
+**[Malachi 3:1-4](/bible/malachi/3#v1)**  *[[3:00:47](https://www.youtube.com/watch?v=FpEHxWGgai8&t=10847s)]*
 
 > <sup>[1](/bible/malachi/3#v1)</sup> Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the Lord of hosts.
 >
@@ -841,7 +841,7 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
     For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts. That is the offering of Judah and Jerusalem.
 
-**[Malachi 3:5-6](/bible/malachi/3#v5)**  *[3:04:22]*
+**[Malachi 3:5-6](/bible/malachi/3#v5)**  *[[3:04:22](https://www.youtube.com/watch?v=FpEHxWGgai8&t=11062s)]*
 
 > <sup>[5](/bible/malachi/3#v5)</sup> And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the Lord of hosts.
 >
@@ -934,4 +934,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-01-we-are-born-in-babylon)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=FpEHxWGgai8)

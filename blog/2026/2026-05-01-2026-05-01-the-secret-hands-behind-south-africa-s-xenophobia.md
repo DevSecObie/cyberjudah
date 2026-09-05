@@ -22,20 +22,20 @@ The opening prayer asked the Most High to protect the leaders and the brothers t
 
 ## Scriptures Opened
 
-**[Numbers 10:10](/bible/numbers/10#v10)**  *[9:31]*
+**[Numbers 10:10](/bible/numbers/10#v10)**  *[[9:31](https://www.youtube.com/watch?v=PrZE7A1aloo&t=571s)]*
 
 > <sup>[10](/bible/numbers/10#v10)</sup> Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the Lord your God.
 
 - In the day of your gladness, and in your solemn days, and in the beginnings of your months. The beginning of our months is the new moon, also called the days of our gladness. On these days we are supposed to be happy, not sorrowful.
 
-**[Nehemiah 8:10](/bible/nehemiah/8#v10)**  *[10:26]*
+**[Nehemiah 8:10](/bible/nehemiah/8#v10)**  *[[10:26](https://www.youtube.com/watch?v=PrZE7A1aloo&t=626s)]*
 
 > <sup>[10](/bible/nehemiah/8#v10)</sup> Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength.
 
 - Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength. The joy of the Lord is where we get our strength.
 - When you read the whole history, they were there from morning to afternoon being taught the law, and when they heard the law they started crying, sorrowful for all the evil they had been doing. Nehemiah told them, do not be sorrowful; the joy of the Lord is your strength. So for you brothers and sisters that are always sorrowful, that's an evil spirit, because the only way you get strength is from having joy in the Lord.
 
-**[Luke 10:38-42](/bible/luke/10#v38)**  *[12:29]*
+**[Luke 10:38-42](/bible/luke/10#v38)**  *[[12:29](https://www.youtube.com/watch?v=PrZE7A1aloo&t=749s)]*
 
 > <sup>[38](/bible/luke/10#v38)</sup> Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
 >
@@ -50,21 +50,21 @@ The opening prayer asked the Most High to protect the leaders and the brothers t
 - Mary sat at Jesus' feet and heard his word: she was learning the scriptures, hearing all that wisdom coming from Christ. Martha was cumbered about much serving, like a lot of you sisters get caught up in the kitchen serving. That's a good work; the scripture says if you give the prophets even a cup of water, you get your blessing.
 - But Christ said, Martha, Martha, thou art careful and troubled about many things: but one thing is needful, and Mary hath chosen that good part, which shall not be taken away from her. The good part is learning wisdom. The serving is good, but the best part is learning the wisdom, and as you learn and understand these scriptures, that can never be taken away from you.
 
-**[Ecclesiasticus 40:20](/bible/sirach/40#v20)**  *[15:52]*
+**[Ecclesiasticus 40:20](/bible/sirach/40#v20)**  *[[15:52](https://www.youtube.com/watch?v=PrZE7A1aloo&t=952s)]*
 
 > <sup>[20](/bible/sirach/40#v20)</sup> Wine and musick rejoice the heart: but the love of wisdom is above them both.
 
 - Wine and musick rejoice the heart: but the love of wisdom is above them both. When you drink some wine your heart is merry; on the feast days we play music and everybody dances and has fun. But above them both is wisdom.
 - So the joy of the Lord is not just having fun on the feast days. That same joy you have for wine and music, you are supposed to have in learning wisdom. That's why every feast day and every new moon we go over the scriptures; this is supposed to be the better part. You're not supposed to be sitting there asking why the class is two hours. You are supposed to be excited, because you're learning things that haven't been taught for over 2,000 years or were forgotten. If you don't have joy in learning the wisdom of God, you have to pray and ask God for it. You should be around the brothers, and a brother pulls a scripture, and you say, let me write that down and put that in my notes.
 
-**[Wisdom of Solomon 10:5](/bible/wisdom-of-solomon/10#v5)**  *[25:31]*
+**[Wisdom of Solomon 10:5](/bible/wisdom-of-solomon/10#v5)**  *[[25:31](https://www.youtube.com/watch?v=PrZE7A1aloo&t=1531s)]*
 
 > <sup>[5](/bible/wisdom-of-solomon/10#v5)</sup> Moreover, the nations in their wicked conspiracy being confounded, she found out the righteous, and preserved him blameless unto God, and kept him strong against his tender compassion toward his son.
 
 - Moreover, the nations in their wicked conspiracy being confounded. You always hear about conspiracy theories; Esau throws that label out any time anybody speaks truth, so the public won't believe you. But when we read the scriptures, God says the nations have wicked conspiracies. They are doing things secretly to destroy our people.
 - The topic is the secret hands behind South Africa's xenophobia. You see the South Africans rising up, beating people from Nigeria, from Zimbabwe, from Ethiopia, saying get out of my country, and we say these South Africans are foolish; it makes no sense. But when you really examine what's going on, everything you see going on in South Africa, the CIA and Mossad are behind it, and I'm going to show you without a shadow of a doubt.
 
-**[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[26:39]*
+**[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[26:39](https://www.youtube.com/watch?v=PrZE7A1aloo&t=1599s)]*
 
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 >
@@ -73,7 +73,7 @@ The opening prayer asked the Most High to protect the leaders and the brothers t
 - Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us? There are people seeking to hide the evil they are doing. In the dark means the way these operatives operate: the CIA and Mossad will go into a country, murder leaders, and cause civil unrest, and they think nobody sees what they are doing.
 - Surely your turning of things upside down shall be esteemed as the potter's clay. The potter has the power to turn things back the way they are supposed to be.
 
-**[Psalms 64:2-6](/bible/psalms/64#v2)**  *[28:27]*
+**[Psalms 64:2-6](/bible/psalms/64#v2)**  *[[28:27](https://www.youtube.com/watch?v=PrZE7A1aloo&t=1707s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 >
@@ -90,7 +90,7 @@ The opening prayer asked the Most High to protect the leaders and the brothers t
 - They commune of laying snares privily: they sit down and talk among themselves about setting traps. Traps to assassinate leaders, traps to overthrow countries, traps to cause civil unrest, traps to murder the prophets, traps to get us locked up for things we did not do.
 - They search out iniquities; both the inward thought of every one of them, and the heart, is deep. When they set things up, they are thinking a hundred steps ahead.
 
-**[Habakkuk 3:13-14](/bible/habakkuk/3#v13)**  *[31:34]*
+**[Habakkuk 3:13-14](/bible/habakkuk/3#v13)**  *[[31:34](https://www.youtube.com/watch?v=PrZE7A1aloo&t=1894s)]*
 
 > <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 >
@@ -100,20 +100,20 @@ The opening prayer asked the Most High to protect the leaders and the brothers t
 - Their rejoicing was as to devour the poor secretly. Everything they are doing to destroy us is secret, through their secret services, the CIA and Mossad. And it is not just on an individual level; it's us as a whole people. It's Venezuela, Guatemala, Panama, the Sahel, Cuba, South Africa, Nigeria: things are set up to destroy our people all over the world secretly, with the food, with the vaccines, with the music.
 - We have to start thinking on an international level, because Israel is global; our people are scattered globally. Once Malcolm X realized it was not just about the US, that his people were being oppressed all over Africa and all over the world, and he started linking up with other leaders, they said, we have to kill this guy.
 
-**[Obadiah 1:6](/bible/obadiah/1#v6)**  *[35:24]*
+**[Obadiah 1:6](/bible/obadiah/1#v6)**  *[[35:24](https://www.youtube.com/watch?v=PrZE7A1aloo&t=2124s)]*
 
 > <sup>[6](/bible/obadiah/1#v6)</sup> How are the things of Esau searched out! how are his hidden things sought up!
 
 - How are the things of Esau searched out! how are his hidden things sought up! The hidden things are what he is doing and hiding from the world. Who has to bring it out? We do. We are the ones that have to search out the hidden things; God puts his spirit on us and we go forth and reveal him.
 
-**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[37:25]*
+**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[37:25](https://www.youtube.com/watch?v=PrZE7A1aloo&t=2245s)]*
 
 > <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
 - And then shall that Wicked be revealed. Why does the wicked need to be revealed? Because the wicked is acting like he's righteous, acting like he's holy. So it's up to the servants of God to search out his secrets and show the world: no, this man is the wicked. He's not about justice; he's not about rights.
 - Whom the Lord shall consume with the spirit of his mouth: that starts first and foremost with us teaching. And shall destroy with the brightness of his coming: when the Lord returns, he will destroy Esau.
 
-**[Matthew 10:26-28](/bible/matthew/10#v26)**  *[39:43]*
+**[Matthew 10:26-28](/bible/matthew/10#v26)**  *[[39:43](https://www.youtube.com/watch?v=PrZE7A1aloo&t=2383s)]*
 
 > <sup>[26](/bible/matthew/10#v26)</sup> Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.
 >
@@ -139,14 +139,14 @@ Videos played in class, the history:
 - What you see taking place right now is the same thing they were doing in 1989. They paid and trained black South Africans to fight their own people, and painted it to the world as black-on-black crime: they can't govern their own country.
 - Street clip: men saying that if the immigrants don't go, their shops will be looted. A British woman asks, I'm also a foreigner in your country; does that mean you'd attack me? They answer no. So they're going after people that look like themselves only. These are the ones being paid to attack immigrants so South Africans look violent.
 
-**[Matthew 12:25](/bible/matthew/12#v25)**  *[1:16:24]*
+**[Matthew 12:25](/bible/matthew/12#v25)**  *[[1:16:24](https://www.youtube.com/watch?v=PrZE7A1aloo&t=4584s)]*
 
 > <sup>[25](/bible/matthew/12#v25)</sup> And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:
 
 - Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand. This is what the white man always does, and this is what he's doing to South Africa. Mossad and the CIA are trying to turn all the other African countries, Nigeria, Ghana, Zimbabwe, against South Africa.
 - How are they doing it? Paid agents. A lot of the people you see rising up, marching, and beating people in the streets are paid agents. You have some people that are just following it, saying they're taking my job, but there are culprits behind it, to destabilize South Africa and weaken BRICS. Any nation divided shall not stand, so South Africa is about to fall; that's the plan.
 
-**[Isaiah 14:12](/bible/isaiah/14#v12)**  *[1:18:09]*
+**[Isaiah 14:12](/bible/isaiah/14#v12)**  *[[1:18:09](https://www.youtube.com/watch?v=PrZE7A1aloo&t=4689s)]*
 
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
 
@@ -159,7 +159,7 @@ Videos played in class, the agenda:
 - Clip: if black people would act the same way as Chinese people do, they would be so much more powerful; there are so many black people in the world, but they are not bonding, they're fighting each other. Or maybe it's the elite which keeps them divided. That's it: it's not that we don't have the capacity to unify; the elites keep us divided. That's what colonialism was about.
 - Clips of Erik Prince, former Navy SEAL and founder of Blackwater: all this talk of illegal migration ultimately comes down to a contest of governance, and if so many of these countries around the world are incapable of governing themselves, then it's time for us to just put the imperial hat back on and say we're going to govern those countries, pretty much all of Africa. Asked whether that's talking about being a colonialist again, he answered: absolutely, yes, because the governments there are criminal syndicates, and the people of Africa and Latin America deserve better. Brothers and sisters, things are about to get bad. They are putting the imperial hat back on. And not just over there: they're not going to allow us to govern ourselves in America either; you see them changing the districts and getting rid of black senators. It's been 60 years, and white people want that power back.
 
-**[Habakkuk 1:10](/bible/habakkuk/1#v10)**  *[1:33:33]*
+**[Habakkuk 1:10](/bible/habakkuk/1#v10)**  *[[1:33:33](https://www.youtube.com/watch?v=PrZE7A1aloo&t=5613s)]*
 
 > <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 
@@ -178,7 +178,7 @@ Videos played in class, the takeover:
 - Clip on the Cape Town wall: the settler class controlling Cape Town is spending about 7 million dollars to wall South African communities away from a major road, calling it safety. Cape Town generates 10 percent of South Africa's entire GDP, and with the Red Sea in conflict, global shipping is rerouting around the Cape, making it the most strategically valuable coastline on earth; whoever controls Cape Town controls the southern gateway of an entire continent. The Belgians handed identity cards to the Hutu and Tutsi, two peoples who had lived together for centuries, and told them they were enemies; the British pitted the Igbo against the Yoruba, the Fante against the Ashanti, to prevent a unified African resistance. Every ethnic conflict on the continent has the fingerprints of a settler class that knew it couldn't take African land from a united people. Today the targets are Xhosa and Zulu, township against township, African immigrant against South African. A unified Africa is the greatest threat the settler class has ever faced: divide, destabilize, annex. What they are testing in South Africa, they intend to scale across the continent.
 - Remember the Israeli diplomats were put out over an undisclosed visit near the Eastern Cape. Cape Town is becoming one of the most important strategic shipping points right now because the Red Sea is cut off. It's all about weakening BRICS.
 
-**[2 Esdras 16:49-52](/bible/2-esdras/16#v49)**  *[1:52:31]*
+**[2 Esdras 16:49-52](/bible/2-esdras/16#v49)**  *[[1:52:31](https://www.youtube.com/watch?v=PrZE7A1aloo&t=6751s)]*
 
 > <sup>[49](/bible/2-esdras/16#v49)</sup> Like as a whore envieth a right honest and virtuous woman:
 >
@@ -192,7 +192,7 @@ Videos played in class, the takeover:
 - When he cometh that shall defend him that diligently searcheth out every sin upon earth. What is our job, brothers? To diligently search out every sin upon the earth. Every sin and wickedness the white man is hiding, our job is to search it out. And how are we able to see these things? The spirit of God shows it to us.
 - For yet a little, and iniquity shall be taken away out of the earth, and righteousness shall reign among you.
 
-**[Amos 3:3-11](/bible/amos/3#v3)**  *[1:55:33]*
+**[Amos 3:3-11](/bible/amos/3#v3)**  *[[1:55:33](https://www.youtube.com/watch?v=PrZE7A1aloo&t=6933s)]*
 
 > <sup>[3](/bible/amos/3#v3)</sup> Can two walk together, except they be agreed?
 >
@@ -231,4 +231,4 @@ The class closed with the breaking of bread and wine for the new moon, reading 1
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-01-the-secret-hands-behind-south-africa-s-xenophobia)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=PrZE7A1aloo)

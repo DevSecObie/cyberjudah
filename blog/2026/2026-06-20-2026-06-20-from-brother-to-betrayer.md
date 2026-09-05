@@ -24,7 +24,7 @@ Today's topic: From Brother To Betrayer. This is based on what Christ said in Ma
 
 ## Scriptures Opened
 
-**[Matthew 24:10](/bible/matthew/24#v10)**  *[10:35]*
+**[Matthew 24:10](/bible/matthew/24#v10)**  *[[10:35](https://www.youtube.com/watch?v=Qw2v07pohR4&t=635s)]*
 
 > <sup>[10](/bible/matthew/24#v10)</sup> And then shall many be offended, and shall betray one another, and shall hate one another.
 
@@ -36,7 +36,7 @@ Today's topic: From Brother To Betrayer. This is based on what Christ said in Ma
 
     Whatsoever things were written aforetime were written for our learning. After reading what Christ said, we are going back historically regarding brothers becoming betrayers.
 
-**[2 Maccabees 15:11-18](/bible/2-maccabees/15#v11)**  *[12:52]*
+**[2 Maccabees 15:11-18](/bible/2-maccabees/15#v11)**  *[[12:52](https://www.youtube.com/watch?v=Qw2v07pohR4&t=772s)]*
 
 > <sup>[11](/bible/2-maccabees/15#v11)</sup> Thus he armed every one of them, not so much with defence of shields and spears, as with comfortable and good words: and beside that, he told them a dream worthy to be believed, as if it had been so indeed, which did not a little rejoice them.
 >
@@ -60,7 +60,7 @@ Today's topic: From Brother To Betrayer. This is based on what Christ said in Ma
 
 Books required in class: when the Bishop was young in the truth it was mandatory to get Who's Who in the Bible: the Old Testament and the Apocrypha, and the New Testament (two volumes in one, by Joan Comay and Ronald Brownrigg), the Zondervan Compact Bible Dictionary, and The Complete Works of Flavius Josephus. That way you look people up yourself instead of asking who Onias or Peter is. Josephus has a few bones in it since he was a slave to Rome, but a lot of the history is on point.
 
-**[2 Maccabees 3:1-6](/bible/2-maccabees/3#v1)**  *[18:32]*
+**[2 Maccabees 3:1-6](/bible/2-maccabees/3#v1)**  *[[18:32](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1112s)]*
 
 > <sup>[1](/bible/2-maccabees/3#v1)</sup> Now when the holy city was inhabited with all peace, and the laws were kept very well, because of the godliness of Onias the high priest, and his hatred of wickedness,
 >
@@ -102,7 +102,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Every friend saith, I am his friend also: but there is a friend, which is only a friend in name. Is it not a grief unto death, when a companion and friend is turned to an enemy? There is a companion which rejoiceth in the prosperity of a friend, but in the time of trouble will be against him. They had one dispute, and he ran to the other nations and told them about all the money in Jerusalem.
 
-**[Deuteronomy 14:28-29](/bible/deuteronomy/14#v28)**  *[30:58]*
+**[Deuteronomy 14:28-29](/bible/deuteronomy/14#v28)**  *[[30:58](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1858s)]*
 
 > <sup>[28](/bible/deuteronomy/14#v28)</sup> At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:
 >
@@ -111,7 +111,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 - What riches in the temple did not pertain to the sacrifices? The reading explained the collections: sustenance for the Levites, who had no territorial inheritance; support for the Aaronic priests, the tithe of the tithe; and every third year a community chest to feed local Levites, widows, orphans, and resident foreigners.
 - At the end of three years thou shalt bring forth all the tithe of thine increase, and the Levite, the stranger, and the fatherless, and the widow within thy gates shall come, and shall eat and be satisfied. The scripture tells you the monies collected were for the Levites, the strangers, the fatherless, and the widows.
 
-**[Tobit 1:3-8](/bible/tobit/1#v3)**  *[31:48]*
+**[Tobit 1:3-8](/bible/tobit/1#v3)**  *[[31:48](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1908s)]*
 
 > <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the ways of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
 >
@@ -128,14 +128,14 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 - Tobit walked all the days of his life in the way of truth and justice and did many almsdeeds to his brethren. Remember he was of the northern kingdom, the tribe of Nephthali, in the Assyrian captivity. All the tribe of Nephthali fell from the house of Jerusalem and sacrificed unto the heifer Baal, but Tobit alone went often to Jerusalem at the feasts, having the firstfruits and tenths of increase.
 - The first tenth part of all increase he gave to the sons of Aaron; another part he sold and spent every year at Jerusalem; and the third he gave to them to whom it was meet, as Debora his father's mother had commanded him, because he was left an orphan by his father. That third part was for people like him: the orphans.
 
-**[Baruch 3:8](/bible/baruch/3#v8)**  *[34:04]*
+**[Baruch 3:8](/bible/baruch/3#v8)**  *[[34:04](https://www.youtube.com/watch?v=Qw2v07pohR4&t=2044s)]*
 
 > <sup>[8](/bible/baruch/3#v8)</sup> Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God.
 
 - Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers. Brothers often get this wrong: we harp on subject to payments and give a general answer, sin. No, it tells you why. What were our fathers supposed to be paying for that we stopped paying for? The Levites, the widows, the strangers, the orphans.
 - You are mad about child support. Had we been taking care of the orphans, the widows, the fatherless, and the Levites, we would not be subject to payments. But because of this, every month we got a bunch of payments we got to pay.
 
-**[Ecclesiasticus 7:7-9](/bible/sirach/7#v7)**  *[35:29]*
+**[Ecclesiasticus 7:7-9](/bible/sirach/7#v7)**  *[[35:29](https://www.youtube.com/watch?v=Qw2v07pohR4&t=2129s)]*
 
 > <sup>[7](/bible/sirach/7#v7)</sup> Offend not against the multitude of a city, and then thou shalt not cast thyself down among the people.
 >
@@ -147,7 +147,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 - Bind not one sin upon another: for in one thou shalt not be unpunished. In today's lesson you are going to see how it is never just one sin; it is like dominoes, one hits the next, and it goes all around. That is how sin works.
 - Say not, God will look upon the multitude of my oblations. You think you can purposely do evil and God is going to forgive you anyway? Rather than help his own people, Simon would rather help the Greeks.
 
-**[2 Maccabees 3:7-40](/bible/2-maccabees/3#v7)**  *[37:17]*
+**[2 Maccabees 3:7-40](/bible/2-maccabees/3#v7)**  *[[37:17](https://www.youtube.com/watch?v=Qw2v07pohR4&t=2237s)]*
 
 > <sup>[7](/bible/2-maccabees/3#v7)</sup> Now when Apollonius came to the king, and had shewed him of the money whereof he was told, the king chose out Heliodorus his treasurer, and sent him with a commandment to bring him the foresaid money.
 >
@@ -238,7 +238,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 - Before that, the priests prostrated themselves before the altar in their vestments and called unto heaven; the women girt with sackcloth abounded in the streets, the virgins ran to the gates and walls, and all held their hands toward heaven. Whoso had looked the high priest in the face, it would have wounded his heart; Onias was in agony because he knew that taking that money would affect the widows and orphans of Jerusalem.
 - Heliodorus's friends begged Onias to call upon the Most High to grant him his life. The high priest, suspecting lest the king should think some treachery had been done to Heliodorus by the Jews, offered a sacrifice for the health of the man. The same young men appeared and said, give Onias the high priest great thanks, insomuch as for his sake the Lord hath granted thee life; and seeing that thou hast been scourged from heaven, declare unto all men the mighty power of God.
 
-**[2 Maccabees 4:1-3](/bible/2-maccabees/4#v1)**  *[58:23]*
+**[2 Maccabees 4:1-3](/bible/2-maccabees/4#v1)**  *[[58:23](https://www.youtube.com/watch?v=Qw2v07pohR4&t=3503s)]*
 
 > <sup>[1](/bible/2-maccabees/4#v1)</sup> This Simon now, of whom we spake afore, having been a betrayer of the money, and of his country, slandered Onias, as if he had terrified Heliodorus, and been the worker of these evils.
 >
@@ -313,7 +313,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
 - There is always that one brother or sister that all the murmurers draw to, telling them all the things they don't like about people. Ask yourself: why do they feel so comfortable telling you? Story told in class: a deacon pointed at a sister and called her loose because of her high heels; the Bishop called the other deacons over, they saw nothing wrong with her, and he blew the brother's spot up in front of them. You cannot come to me with evil. We must train ourselves to hate evil.
 
-**[2 Maccabees 4:4-6](/bible/2-maccabees/4#v4)**  *[1:11:55]*
+**[2 Maccabees 4:4-6](/bible/2-maccabees/4#v4)**  *[[1:11:55](https://www.youtube.com/watch?v=Qw2v07pohR4&t=4315s)]*
 
 > <sup>[4](/bible/2-maccabees/4#v4)</sup> Onias seeing the danger of this contention, and that Apollonius, as being the governor of Celosyria and Phenice, did rage, and increase Simon’s malice,
 >
@@ -354,7 +354,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Pray that we may be delivered from unreasonable and wicked men: for all men have not faith. Some men you cannot reason with; there is no sitting down with two witnesses. There are Israelite camps like that: a brother said shalom to one of their men and got cursed out for it. They have no faith; they are teaching now that Moses is in a lake of fire and that John the Baptist was a wicked Israelite. Blasphemous doctrines, filled with hatred, and unreasonable.
 
-**[2 Maccabees 4:7-17](/bible/2-maccabees/4#v7)**  *[1:31:04]*
+**[2 Maccabees 4:7-17](/bible/2-maccabees/4#v7)**  *[[1:31:04](https://www.youtube.com/watch?v=Qw2v07pohR4&t=5464s)]*
 
 > <sup>[7](/bible/2-maccabees/4#v7)</sup> But after the death of Seleucus, when Antiochus, called Epiphanes, took the kingdom, Jason the brother of Onias laboured underhand to be high priest,
 >
@@ -438,7 +438,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Then shall they be in pitiful case, which now have abused my ways, and they that have cast them away despitefully shall dwell in torments. For such as in their life have received benefits, and have not known me, and they that have loathed my law, while they had yet liberty, and when as yet place of repentance was open unto them, understood not, but despised it; the same must know it after death by pain. Discussed in class: a commentator who said he is not oppressed because he makes ten million dollars a year; that is a benefit received while not knowing God. He once posted Revelation 3:9 with no commentary, got attacked for it, and quickly deleted it. Who says when you die you don't get punished? Nobody escapes.
 
-**[2 Maccabees 4:23-38](/bible/2-maccabees/4#v23)**  *[1:49:37]*
+**[2 Maccabees 4:23-38](/bible/2-maccabees/4#v23)**  *[[1:49:37](https://www.youtube.com/watch?v=Qw2v07pohR4&t=6577s)]*
 
 > <sup>[23](/bible/2-maccabees/4#v23)</sup> Three years afterward Jason sent Menelaus, the aforesaid Simon’s brother, to bear the money unto the king, and to put him in mind of certain necessary matters.
 >
@@ -520,7 +520,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation. Our people living like Gentiles will repent based on your conduct out there in the world.
 
-**[2 Maccabees 5:1-14](/bible/2-maccabees/5#v1)**  *[2:03:57]*
+**[2 Maccabees 5:1-14](/bible/2-maccabees/5#v1)**  *[[2:03:57](https://www.youtube.com/watch?v=Qw2v07pohR4&t=7437s)]*
 
 > <sup>[1](/bible/2-maccabees/5#v1)</sup> About the same time Antiochus prepared his second voyage into Egypt:
 >
@@ -568,7 +568,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born. That is what the scripture says about the betrayer.
 
-**[2 Maccabees 13:3-8](/bible/2-maccabees/13#v3)**  *[2:18:38]*
+**[2 Maccabees 13:3-8](/bible/2-maccabees/13#v3)**  *[[2:18:38](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8318s)]*
 
 > <sup>[3](/bible/2-maccabees/13#v3)</sup> Menelaus also joined himself with them, and with great dissimulation encouraged Antiochus, not for the safeguard of the country, but because he thought to have been made governor.
 >
@@ -586,7 +586,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 - But the King of kings moved Antiochus's mind against this wicked wretch: one day you are friends, and the Most High says, no, that is not your friend. Lysias informed the king that this man was the cause of all mischief, so the king commanded to bring him unto Berea and to put him to death: a tower of fifty cubits high, full of ashes, into which men thrust whosoever was condemned of sacrilege.
 - Such a death it happened that wicked man to die, not having so much as burial in the earth; and that most justly: for inasmuch as he had committed many sins about the altar, whose fire and ashes were holy, he received his death in ashes. He got his just reward.
 
-**[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**  *[2:21:00]*
+**[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**  *[[2:21:00](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8460s)]*
 
 > <sup>[5](/bible/2-corinthians/13#v5)</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
@@ -599,7 +599,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Before judgment examine thyself, and in the day of visitation thou shalt find mercy.
 
-**[Matthew 22:34-40](/bible/matthew/22#v34)**  *[2:22:19]*
+**[Matthew 22:34-40](/bible/matthew/22#v34)**  *[[2:22:19](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8539s)]*
 
 > <sup>[34](/bible/matthew/22#v34)</sup> But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.
 >
@@ -656,4 +656,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, the same night i
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-20-from-brother-to-betrayer)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=Qw2v07pohR4)

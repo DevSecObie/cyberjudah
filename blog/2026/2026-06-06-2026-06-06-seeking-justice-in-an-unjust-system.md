@@ -25,7 +25,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 
 ## Scriptures Opened
 
-**[Deuteronomy 28:15, 46, 68](/bible/deuteronomy/28#v15)**  *[20:08]*
+**[Deuteronomy 28:15, 46, 68](/bible/deuteronomy/28#v15)**  *[[20:08](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=1208s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 >
@@ -39,7 +39,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - By the way whereof I spake unto thee, Thou shalt see it no more again: Moses is making it plain that he is not talking about ancient Egypt.
 - There ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you. Buy means redeem: no man shall redeem us. The only one that came that could redeem us is Christ.
 
-**[Deuteronomy 28:29](/bible/deuteronomy/28#v29)**  *[24:26]*
+**[Deuteronomy 28:29](/bible/deuteronomy/28#v29)**  *[[24:26](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=1466s)]*
 
 > <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
 
@@ -47,14 +47,14 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - And thou shalt not prosper in thy ways. This does not mean we cannot prosper because of anything lacking in us. It means when we try and we do prosper, our enemies come and destroy it. Tulsa, Black Wall Street: we were prospering, and they came and bombed us and destroyed it. We had our own banks and they took that. The same system keeps our people impoverished in Africa: the IMF, destabilization, terrorists suddenly appearing all over the continent. Our enemies create conditions to keep us beneath them.
 - And thou shalt be only oppressed and spoiled evermore. There will always be injustice against us; we will never get justice until our King returns. For decades our people kept marching, "I am a man," "no justice, no peace," and the oppression never stopped. They use one thing to replace the next: after slavery came Jim Crow and the black codes; during civil rights came redlining and dividing the houses, getting the father out of the home; then crack was brought into the community; then the war on drugs. The oppression is always there. That rap music they push is oppression too: celebrities are paid to keep us in the midst of sin to keep their prisons full.
 
-**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[31:20]*
+**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[31:20](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=1880s)]*
 
 > <sup>[14](/bible/jeremiah/2#v14)</sup> Is Israel a servant? is he a homeborn slave? why is he spoiled?
 
 - Is Israel a servant? is he a homeborn slave? why is he spoiled? A homeborn slave is born in captivity; his mind is the mind of servitude and does not think about freedom.
 - Through history we have been in captivity after captivity: out of the Assyrian captivity, then the Babylonians had us in slavery, then the Persians and the Medes, then the Greeks enslaved us, then the Romans subjugated us, destroyed Jerusalem, and exiled us from the land, and we fled into Africa and other parts of the world. Then in the 1400s Britain, Spain, and Portugal came and enslaved us again. Every nation that rises up to rule this earth puts the children of Israel under subjugation. The difference with this last slavery: they destroyed who we are. Other nations enslaved us but never took our nationality; the white man took our nationality.
 
-**[Leviticus 26:17](/bible/leviticus/26#v17)**  *[34:23]*
+**[Leviticus 26:17](/bible/leviticus/26#v17)**  *[[34:23](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=2063s)]*
 
 > <sup>[17](/bible/leviticus/26#v17)</sup> And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.
 
@@ -65,14 +65,14 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - They are trying to erase black history from the schools now, because they do not want white guilt. They do not want to hear about slavery or oppression anymore, because history shows what they did. Some of you say that was the past and it will not happen again. Let me tell you: the things I just showed you are going to happen again, and the fire has already been stoked. Remember what the scripture says: in her was found the blood of the saints.
 - Wilmington held a lesson: black people prospering, in government and voting, became a competition and a threat, so a white militia rose up and took the town. The same thing happens today: black politicians attain power, so they redraw the districts. Remember the verse: thou shalt not prosper in thy ways.
 
-**[Isaiah 30:12](/bible/isaiah/30#v12)**  *[1:09:22]*
+**[Isaiah 30:12](/bible/isaiah/30#v12)**  *[[1:09:22](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=4162s)]*
 
 > <sup>[12](/bible/isaiah/30#v12)</sup> Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:
 
 - Because ye despise this word, and trust in oppression and perverseness, and stay thereon. Everything shown above is oppression, and yet our people still trust in that judicial system, still trust in the religions and systems that were set up in slavery. We trust in oppression. We think we are going to get justice from an unjust system. We have been marching for years, even last Monday, and nothing changed. All that changed is they made some of you millionaires and let some of you live in their neighborhoods.
 - A recent video was shown of a former North Carolina officer repeatedly punching a woman during an arrest. Why do they treat our people like that? Remember the scripture: they that hate you shall reign over you. Our life is worthless in their sight; that is why a child can be put to death or locked away for life.
 
-**[Deuteronomy 19:4-5](/bible/deuteronomy/19#v4)**  *[1:19:17]*
+**[Deuteronomy 19:4-5](/bible/deuteronomy/19#v4)**  *[[1:19:17](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=4757s)]*
 
 > <sup>[4](/bible/deuteronomy/19#v4)</sup> And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
 >
@@ -82,7 +82,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - The key is that you hated him not in time past: it was not premeditated. You got into a fight, you got jumped, you were defending yourself, and a life was lost that you never intended to take. Righteous judgment under God's law says the judgment for that should not be stiff; your life should not be taken away, because your intent was not to kill.
 - The Carmelo Anthony trial was followed in class, with an eyewitness account of the recording: he was under the tent minding his business, four came and surrounded him, an immediate attack, he tried to back out and get away, was grabbed and put in a headlock while the rest were still hitting, and in defending himself with a knife the other young man died. He was threatened; he was a small dude; he defended himself. Even so, a life was still lost, and the family of the young man that died is feeling it too; that is why you have to be careful with things like this.
 
-**[Leviticus 19:15](/bible/leviticus/19#v15)**  *[1:24:00]*
+**[Leviticus 19:15](/bible/leviticus/19#v15)**  *[[1:24:00](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=5040s)]*
 
 > <sup>[15](/bible/leviticus/19#v15)</sup> Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.
 
@@ -91,14 +91,14 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - A similar case from July 2025 in Midlothian, Texas was shown: a young black man attacked, outnumbered, spit on, called slurs and told a gun was present; in defending himself he injured the son of a sheriff's deputy, and he was the one charged with assault with a deadly weapon, his family harassed with death threats.
 - A pardoned January 6 rioter appeared outside the Carmelo Anthony trial calling for the young man to be lynched in front of the courthouse, and was arrested for terroristic threats. That is how a lot of Americans feel today, and the system is always for them. The father of Austin Metcalf was shown mocking the case with a racist nickname; from the heart of men proceed evil thoughts, and you can see why the son behaved as he did. There are reported threats against Carmelo Anthony in prison; if anything happens there will be riots, and that is exactly what the elites want, order out of chaos, so they can change the laws and bring you into subjection.
 
-**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[1:44:47]*
+**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[1:44:47](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=6287s)]*
 
 > <sup>[7](/bible/ecclesiastes/7#v7)</sup> Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 
 - Surely oppression maketh a wise man mad. When you see injustice, if you are a wise man it is going to make you angry. The teacher got up angry putting this lesson together. But when you get angry, what are you supposed to do? Use the wisdom of God to help your people come out of that oppression: go even harder to teach your people and show them what they have to do to change so these injustices stop. We are not joining any civil rights movement and marching with them; we show our people the solutions.
 - And we have to be honest about ourselves: the culture our people created here perpetuates violence, music about killing each other and selling drugs to each other, and you know who is behind that: it keeps the prisons full. Our people do not commit the most crime, but we are the only ones who glorify it. We have to change our people's minds and change the way they look at us.
 
-**[Isaiah 30:20-22](/bible/isaiah/30#v20)**  *[1:50:18]*
+**[Isaiah 30:20-22](/bible/isaiah/30#v20)**  *[[1:50:18](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=6618s)]*
 
 > <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
 >
@@ -112,13 +112,13 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - When we do march, we march to bring awareness, because after every march we set up camp and teach. We are not marching for justice from this system, thinking this system will help us.
 - Ye shall defile also the covering of thy graven images of silver: our people will change and cast the idols away, but affliction comes first.
 
-**[Jeremiah 3:15](/bible/jeremiah/3#v15)**  *[1:57:32]*
+**[Jeremiah 3:15](/bible/jeremiah/3#v15)**  *[[1:57:32](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7052s)]*
 
 > <sup>[15](/bible/jeremiah/3#v15)</sup> And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
 
 - And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding: leaders and teachers after God's heart, who will tell you who you are and that you must keep God's commandments.
 
-**[Wisdom of Solomon 14:22](/bible/wisdom-of-solomon/14#v22)**  *[1:58:04]*
+**[Wisdom of Solomon 14:22](/bible/wisdom-of-solomon/14#v22)**  *[[1:58:04](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7084s)]*
 
 > <sup>[22](/bible/wisdom-of-solomon/14#v22)</sup> Moreover this was not enough for them, that they erred in the knowledge of God; but whereas they lived in the great war of ignorance, those so great plagues called they peace.
 
@@ -126,21 +126,21 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - Our people do not really want God's justice. When you talk about the kingdom and God's justice, they never ask about the other nations; they always ask, what about the white man? That is Stockholm syndrome. God's justice is a righteous judge's justice, and a lot of people have to answer in it.
 - The teacher sang the song: I have no white God; do not teach me anything wrong; how can a white God save me from white man oppression? It has been over 400 years praying to that God, and you are still living in oppression.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[2:02:26]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[2:02:26](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7346s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
 - I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early. God wants us to acknowledge our offense and come back to him. We are the children of Israel, the real children of Israel.
 - Things are about to get very bad all over this earth because our people do not want to turn to God; they are still worshiping a white Jesus, still in fake religions, still partying. So God is afflicting us, and how he is afflicting us is by turning the white man back into who he was in the 1800s and the 1940s and 50s. He is changing back into his real nature.
 
-**[2 Esdras 7:18](/bible/2-esdras/7#v18)**  *[2:04:38]*
+**[2 Esdras 7:18](/bible/2-esdras/7#v18)**  *[[2:04:38](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7478s)]*
 
 > <sup>[18](/bible/2-esdras/7#v18)</sup> Nevertheless the righteous shall suffer strait things, and hope for wide: for they that have done wickedly have suffered the strait things, and yet shall not see the wide.
 
 - Nevertheless the righteous shall suffer strait things, and hope for wide. Strait things are hard things: the righteous of our people are going to suffer too. Some of us will be killed here in America for teaching the word of God, and we hope for the kingdom.
 - They that have done wickedly have suffered the strait things, and yet shall not see the wide: the unrighteous of our people will suffer the same affliction and still not get the kingdom. The affliction is going to be risen on Israel as a whole, all over the world, in Europe, in South America, on the northern kingdom too, because they hate all black people.
 
-**[Revelation 18:4, 13](/bible/revelation/18#v4)**  *[2:06:48]*
+**[Revelation 18:4, 13](/bible/revelation/18#v4)**  *[[2:06:48](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7608s)]*
 
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 >
@@ -149,7 +149,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. The her is mystery Babylon the great. Her sins we should not partake in are her religion, her politics, her policies, her whole unjust system.
 - Who are God's people? The merchandise list ends with slaves, and souls of men. God's people are the slaves that were brought here, traded by the merchants of the earth. And souls of men: souls are sold here too; they sell you the American dream.
 
-**[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[2:08:47]*
+**[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[[2:08:47](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=7727s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 >
@@ -160,7 +160,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - As leaders, what we put together is mainly for the elderly, the young, the widows, and the fatherless. You young brothers and sisters that are working with money right now: you are supposed to be coming together and setting things up now, not waiting until the last minute, because in the end we will not be able to help millions of people.
 - A nation not desired means a hated people. You twelve tribes of Israel that are hated, gather together before the decree bring forth, before the Lord brings judgment on this earth.
 
-**[2 Esdras 9:1-4](/bible/2-esdras/9#v1)**  *[2:27:31]*
+**[2 Esdras 9:1-4](/bible/2-esdras/9#v1)**  *[[2:27:31](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=8851s)]*
 
 > <sup>[1](/bible/2-esdras/9#v1)</sup> He answered me then, and said, Measure thou the time diligently in itself: and when thou seest part of the signs past, which I have told thee before,
 >
@@ -175,7 +175,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - Videos were shown of what is stirring: a preacher overseas rejecting democracy outright and telling his children they must fight and resist because migrants have the same rights; crowds giving fascist salutes again; and riots in Belfast this week, where after a Sudanese asylum seeker was arrested and charged in a horrific attack, mobs went door to door hunting migrants, burning homes, buses, and shops, and beating any black person they saw on the street. The man arrested should go to jail and face charges, but they used it to show how much they hate black people. And one of the richest men on earth told white people plainly: you either fight back or you die. Our people are clueless to what is coming.
 - The last time these people turned into their real nature was World War II: over 80 million people died. This time it is going to be billions. After 1945 they had time to reflect, decided to change their image to the world, gave the slaves some rights, set up a system they called justice and equality, and opened their countries to the people they had colonized and oppressed. Decades later they are saying they should never have let any of them in. That is what you see happening in Europe and in America.
 
-**[Daniel 2:40-43](/bible/daniel/2#v40)**  *[2:31:50]*
+**[Daniel 2:40-43](/bible/daniel/2#v40)**  *[[2:31:50](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=9110s)]*
 
 > <sup>[40](/bible/daniel/2#v40)</sup> And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
 >
@@ -197,7 +197,7 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 
     Never trust thine enemy: for like as iron rusteth, so is his wickedness. Who is the iron? That fourth kingdom. In the 50s and the 1800s you understood who your enemy was. As iron rusts, the rust will always come back: even though he said we changed, we gave you civil rights, you see the wickedness coming back now. Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away. He did not change; he is the same person, and you are seeing it today.
 
-**[2 Esdras 11:37-46](/bible/2-esdras/11#v37)**  *[2:43:08]*
+**[2 Esdras 11:37-46](/bible/2-esdras/11#v37)**  *[[2:43:08](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=9788s)]*
 
 > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
 >
@@ -226,13 +226,13 @@ Seeing what was going on this week, the teacher put this lesson together. Our pe
 - Thou hast afflicted the meek, thou hast hurt the peaceable, thou hast loved liars, and destroyed the dwellings of them that brought forth fruit, and hast cast down the walls of such as did thee no harm. God is describing this people.
 - Therefore is thy wrongful dealing come up unto the Highest: the Highest hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled. And therefore appear thou no more, thou eagle. What is the symbol of America?
 
-**[Ecclesiasticus 16:22](/bible/sirach/16#v22)**  *[2:48:25]*
+**[Ecclesiasticus 16:22](/bible/sirach/16#v22)**  *[[2:48:25](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=10105s)]*
 
 > <sup>[22](/bible/sirach/16#v22)</sup> Who can declare the works of his justice? or who can endure them? for his covenant is afar off, and the trial of all things is in the end.
 
 - Who can declare the works of his justice? or who can endure them? A lot of you say you want justice, but you do not understand what God's justice is. You think because the murderers of the past died, that was it for them? God is bringing them back from the dead to judge them; that is Daniel 12. The covenant is afar off, and the trial of all things is in the end. In the end God is judging everybody for what they have done on this earth.
 
-**[Ecclesiasticus 40:12](/bible/sirach/40#v12)**  *[2:51:05]*
+**[Ecclesiasticus 40:12](/bible/sirach/40#v12)**  *[[2:51:05](https://www.youtube.com/watch?v=qPKSyeIvjDI&t=10265s)]*
 
 > <sup>[12](/bible/sirach/40#v12)</sup> All bribery and injustice shall be blotted out: but true dealing shall endure for ever.
 
@@ -253,4 +253,4 @@ The opening prayer asked the Lord for mercy and healing for the sick among us, i
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-06-seeking-justice-in-an-unjust-system)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=qPKSyeIvjDI)

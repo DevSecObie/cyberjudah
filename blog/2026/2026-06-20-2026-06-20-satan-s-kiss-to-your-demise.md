@@ -20,13 +20,13 @@ The objective of this class is to understand how sin rarely presents itself as d
 
 ## Scriptures Opened
 
-**[1 Peter 5:8](/bible/1-peter/5#v8)**  *[5:56]*
+**[1 Peter 5:8](/bible/1-peter/5#v8)**  *[[5:56](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=356s)]*
 
 > <sup>[8](/bible/1-peter/5#v8)</sup> Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
 
 - Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour. We might read that and think, he is coming at me as a roaring lion; I am going to see it. No. You have to stay vigilant and pay attention, because the kiss can come as a gift, as an opportunity.
 
-**[James 1:12-15](/bible/james/1#v12)**  *[8:32]*
+**[James 1:12-15](/bible/james/1#v12)**  *[[8:32](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=512s)]*
 
 > <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
 >
@@ -62,14 +62,14 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     In the latter times some shall depart from the faith, giving heed to seducing spirits. A seducing spirit looks like it is good for you, but it is going to destroy you; like drugs: that crack feels real good, but you are not able to see around you, and your whole life is being destroyed. That is why it is important to be studying, reading your four chapters, being around godly men and godly women, so somebody can have your back.
 
-**[Proverbs 14:12](/bible/proverbs/14#v12)**  *[16:28]*
+**[Proverbs 14:12](/bible/proverbs/14#v12)**  *[[16:28](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=988s)]*
 
 > <sup>[12](/bible/proverbs/14#v12)</sup> There is a way which seemeth right unto a man, but the end thereof are the ways of death.
 
 - There is a way which seemeth right unto a man. In our mind we think it is the right thing: this sounds real good. But the end thereof are the ways of death: at the end is death and destruction, because you have no discernment of what is going on.
 - Every time you counsel with yourself, you are going to be 100 percent right every time. You are always going to be right in your own mind.
 
-**[Ecclesiasticus 6:2](/bible/sirach/6#v2)**  *[17:06]*
+**[Ecclesiasticus 6:2](/bible/sirach/6#v2)**  *[[17:06](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=1026s)]*
 
 > <sup>[2](/bible/sirach/6#v2)</sup> Extol not thyself in the counsel of thine own heart; that thy soul be not torn in pieces as a bull straying alone.
 
@@ -78,7 +78,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Understand what counsel is. Our job is to reason with the scriptures on how to deal with certain things, to give you advice based off scripture and experience on a way to maneuver in your situation. Our job is not to make the decision for you. It is up to you to apply what is being said. So when you make your decision, that is on you. That is what counsel is for.
 - A lot of you think your feelings are your spiritual guidance. Feelings are not a spiritual guide. Your feelings will get you jacked up. Nobody really cares what you think; it is about what the Bible is saying. That is why Bishop always says, I do not listen to myself. Your thoughts, your emotions, your intuition will destroy you. You have to be in the word.
 
-**[Jeremiah 17:9-11](/bible/jeremiah/17#v9)**  *[21:38]*
+**[Jeremiah 17:9-11](/bible/jeremiah/17#v9)**  *[[21:38](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=1298s)]*
 
 > <sup>[9](/bible/jeremiah/17#v9)</sup> The heart is deceitful above all things, and desperately wicked: who can know it?
 >
@@ -103,7 +103,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     He shall be like the heath in the desert, and shall not see when good cometh. But blessed is the man that trusteth in the Lord. That is the man who gets counsel, who reads the Bible and applies the commandments. The Lord set up men to guide us. But our people hate guidance. When they see you, it is low self-esteem: they see themselves in you, so they think, I am not anything, so I know he is not anything. That goes back to what was done to us in slavery.
 
-**[Ecclesiasticus 18:30-31](/bible/sirach/18#v30)**  *[24:11]*
+**[Ecclesiasticus 18:30-31](/bible/sirach/18#v30)**  *[[24:11](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=1451s)]*
 
 > <sup>[30](/bible/sirach/18#v30)</sup> Go not after thy lusts, but refrain thyself from thine appetites.
 >
@@ -112,7 +112,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Go not after thy lusts, but refrain thyself from thine appetite. Lust is not just temptation; it is an appetite. That lust is a buildup of things you deal with, and it becomes an appetite that wants more and more and more. And what it does is multiply: it goes into different things. A sexual appetite might go to gambling; it transfers. It is like you can never get enough if you do not check it. But the Most High demands restraint: do not indulge in it.
 - If thou givest thy soul to the desires that please her, she will make thee a laughingstock to thine enemies that malign thee. A lot of people be mad after they did the sin. Especially when you get put out and you come back: you think everybody is looking at you and your sin. Nobody is thinking about what you did; that was a long time ago. You are still guilty because you have not forgiven yourself yet, and Satan has your mind messed up, so you think everybody is thinking something evil about you. See how Satan will start putting things in your head based off the things you deal with.
 
-**[Ecclesiasticus 23:5-6](/bible/sirach/23#v5)**  *[26:40]*
+**[Ecclesiasticus 23:5-6](/bible/sirach/23#v5)**  *[[26:40](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=1600s)]*
 
 > <sup>[5](/bible/sirach/23#v5)</sup> Turn away from me vain hopes and concupiscence, and thou shalt hold him up that is desirous always to serve thee.
 >
@@ -124,7 +124,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Let not the greediness of the belly, nor lust of the flesh, take hold of me. This is the prayer: do not let my lustful appetite overtake me and destroy me. That is how we have to pray, honestly, with supplication, because we know what we deal with.
 - Satan comes in secrecy, when you are by yourself. When you are at the Sabbath, you are cool; everybody is watching, so there is no room to do anything wicked. But when you leave, that lust that is internal starts to mess with your mind, because now you are not around people that will hold you accountable.
 
-**[Romans 6:12-16](/bible/romans/6#v12)**  *[31:38]*
+**[Romans 6:12-16](/bible/romans/6#v12)**  *[[31:38](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=1898s)]*
 
 > <sup>[12](/bible/romans/6#v12)</sup> Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 >
@@ -140,14 +140,14 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God. The body that God gave us is used as an instrument to serve God. The life God gave you is not your own; you cannot just do what you want to do with the body. This is supposed to be a temple, a holy thing.
 - Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness. Whatever you decide to do, you become that servant. As long as you are serving sin, you are serving sin unto death; that is the road you are heading down.
 
-**[Luke 18:8](/bible/luke/18#v8)**  *[40:06]*
+**[Luke 18:8](/bible/luke/18#v8)**  *[[40:06](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=2406s)]*
 
 > <sup>[8](/bible/luke/18#v8)</sup> I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 
 - It is going to get so bad. Christ is closing the parable about prayer, because of how badly the enemy is going to be treating us. Nevertheless when the Son of man cometh, shall he find faith on the earth? Shall he find believers? Sin is going to be so rampant in the earth, taking people over. It is going to get to the point where people just start grabbing people.
 - That is why we are here to push the laws and the faith of Christ, because that is what is going to get us through it. If you do not have the law and that faith, you are not going to get through it.
 
-**[2 Corinthians 11:13-14](/bible/2-corinthians/11#v13)**  *[42:38]*
+**[2 Corinthians 11:13-14](/bible/2-corinthians/11#v13)**  *[[42:38](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=2558s)]*
 
 > <sup>[13](/bible/2-corinthians/11#v13)</sup> For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
 >
@@ -157,7 +157,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - And no marvel; for Satan himself is transformed into an angel of light. Satan is not going to appear to you as evil, because you would see it and know it. He comes to you as good opportunity, as things you might think are a healthy relationship, as harmless fun, or just business, or just a friendship, but it can all be wrapped up in evil.
 - And it is not just pastors. It can be your auntie, your mama, your daddy, the family member that raised you, that cooks the good food; you love her, she can do no wrong, but she can be a demon in reality. You have lived your whole life with these people, and that is why you have problems in this truth letting go of people that harm you spiritually.
 
-**[Genesis 3:1-6](/bible/genesis/3#v1)**  *[46:05]*
+**[Genesis 3:1-6](/bible/genesis/3#v1)**  *[[46:05](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=2765s)]*
 
 > <sup>[1](/bible/genesis/3#v1)</sup> Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 >
@@ -177,7 +177,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - You see the power of the woman to be able to convince a man. That is why, for a lot of you men leaving the truth, a spiritual wife is the last line of defense to speak sense into her husband. That is where the help meet comes in: help your husband. Instead, a lot let the pillow talk pull the man the wrong way. Marriage reveals where your allegiance is.
 - The pattern of sin: it comes with attraction, then justification. You justify in your mind why you want to do it: it is one time, it will not hurt anybody. Then you take action, and the consequence happens. The man who commits adultery does not think about the consequences of losing everything he built in his marriage, splitting his family, seeing his children once a month instead of every day. You ruined a good thing because you could not keep yourself together.
 
-**[Wisdom of Solomon 2:21-24](/bible/wisdom-of-solomon/2#v21)**  *[53:49]*
+**[Wisdom of Solomon 2:21-24](/bible/wisdom-of-solomon/2#v21)**  *[[53:49](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=3229s)]*
 
 > <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
 >
@@ -193,7 +193,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Nevertheless through envy of the devil came death into the world. Through the devil, your appetite, your lust, came death, which is sin. Sin brought that thing in here; that is why we die today. It happened in Genesis.
 - It is a setup, and it is your decisions: most of the problems in your life are decisions, dumb decisions that you made. The Most High gives you his spirit so you can discern through decisions and prosper, but we get overtaken in our faults. Once desire leads, reasoning follows desire. Sin blinds judgment.
 
-**[Proverbs 7:1-5](/bible/proverbs/7#v1)**  *[57:24]*
+**[Proverbs 7:1-5](/bible/proverbs/7#v1)**  *[[57:24](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=3444s)]*
 
 > <sup>[1](/bible/proverbs/7#v1)</sup> My son, keep my words, and lay up my commandments with thee.
 >
@@ -209,7 +209,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - We have to tighten up in our marriages. As men, it is up to you to fix the problems in your marriage. Sometimes the wife is the problem; but it is not always that. Sometimes you are the problem, and your wife has been trying to speak out about it while you mask it so you can continue the evil you are doing. You have to step up and fix the things in your marriage. It is not the leadership's job to fix your marriage; it is yours. Use the scripture to fix your marriage.
 - Why does the scripture say keep the commandments close, like a sister, like kin? Because they keep you from the strange woman: she is unpredictable, and she flattereth with her words. You do not get words of affirmation from your wife; she does not love on you. But the first woman out and about that compliments you, you are done: oh, I still got it. That demon knows exactly what you are lacking, exactly the words and the triggers that set off your lust. You better be paying attention.
 
-**[Proverbs 7:6-27](/bible/proverbs/7#v6)**  *[1:00:33]*
+**[Proverbs 7:6-27](/bible/proverbs/7#v6)**  *[[1:00:33](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=3633s)]*
 
 > <sup>[6](/bible/proverbs/7#v6)</sup> For at the window of my house I looked through my casement,
 >
@@ -238,7 +238,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Hearken unto me now therefore, O ye children. Let not thine heart decline to her ways, go not astray in her paths. Keep the commandments; keep it simple. Do not let Satan use the appetite in you to fulfill that hunger.
 - For she hath cast down many wounded: yea, many strong men have been slain by her. A lot of men and women out there are wounded, and to a wounded person everything that appears good looks good. They have been down for so long, they are weak; that is when Satan comes in.
 
-**[1 Esdras 4:13-14](/bible/1-esdras/4#v13)**  *[1:06:37]*
+**[1 Esdras 4:13-14](/bible/1-esdras/4#v13)**  *[[1:06:37](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=3997s)]*
 
 > <sup>[13](/bible/1-esdras/4#v13)</sup> Then the third, who had spoken of women, and of the truth, (this was Zorobabel) began to speak.
 >
@@ -256,14 +256,14 @@ The objective of this class is to understand how sin rarely presents itself as d
     Yea, many there be that have run out of their wits for women, and become servants for their sakes. Many also have perished, have erred, and sinned, for women. Men have died behind the woman. We had a brother whose wife was jumping out of a moving car; we told him, you are tripping, she does not believe, and he said, I cannot leave. You can be enticed by many different things if you cannot help yourself, willing to go through years of demise and despair. And vice versa: a lot of you sisters will follow after a man when we told you, sis, he is not right; he is tall, dark, and handsome, but he is a demon. We warned you. When you decide to lay down with that man and it does not go the way you want, it is not on the counsel to fix it; you made him your lord, and now the counsel cannot come in and dictate his house against the law of marriage. Our job is to use the scriptures to give wise counsel, not to change somebody's rules in their own household.
     Everything in America is dictated on the aspect of the woman. Men will do much evil to get attraction from women: the way they dress, the jewels, the car, the money; all of that is to entice a woman, and it is deceitful.
 
-**[Ecclesiasticus 21:2](/bible/sirach/21#v2)**  *[1:16:20]*
+**[Ecclesiasticus 21:2](/bible/sirach/21#v2)**  *[[1:16:20](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=4580s)]*
 
 > <sup>[2](/bible/sirach/21#v2)</sup> Flee from sin as from the face of a serpent: for if thou comest too near it, it will bite thee: the teeth thereof are as the teeth of a lion, slaying the souls of men.
 
 - Flee from sin as from the face of a serpent. You have to get away from that thing. You do not negotiate with temptation; you flee immediately. If it seems wrong, get away from it. If you have any doubt about the judgment you are about to commit, leave it alone; that means something is not right with it.
 - Satan does not force sin. He might suggest it, wrap it up in something else, beautify it, rationalize it; but ultimately you have to agree with it. So do not let Satan give you that kiss on the cheek. It is not always good.
 
-**[1 Corinthians 7:3-4](/bible/1-corinthians/7#v3)**  *[1:18:06]*
+**[1 Corinthians 7:3-4](/bible/1-corinthians/7#v3)**  *[[1:18:06](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=4686s)]*
 
 > <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 >
@@ -272,7 +272,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Somebody might think this class is justifying a man stepping out. No. This is how you defend your home. Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband. The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
 - The scriptures say due benevolence. There are cases on both sides, but this is particularly toward the women here: do not starve your marriage, because you create that void, and the next thing you know a work husband comes in place. It brings other levels of sin, and that level of sin can go anywhere.
 
-**[Judges 16:4-7](/bible/judges/16#v4)**  *[1:19:58]*
+**[Judges 16:4-7](/bible/judges/16#v4)**  *[[1:19:58](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=4798s)]*
 
 > <sup>[4](/bible/judges/16#v4)</sup> And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah.
 >
@@ -287,14 +287,14 @@ The objective of this class is to understand how sin rarely presents itself as d
 - Samson gave in; she cut the locks while he slept, and it was a done deal. You see how it goes today: people will do all types of wickedness to their own spouse. The woman can manipulate you into certain things if you are not spiritually sound. Do not let anybody manipulate you; be mindful of the wiles of the devil.
 - Samson's downfall was compromise: emotional attachment, physical relationship, and he ignored all the warning signs. That is what gets us caught up.
 
-**[Ecclesiasticus 9:8](/bible/sirach/9#v8)**  *[1:23:45]*
+**[Ecclesiasticus 9:8](/bible/sirach/9#v8)**  *[[1:23:45](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=5025s)]*
 
 > <sup>[8](/bible/sirach/9#v8)</sup> Turn away thine eye from a beautiful woman, and look not upon another’s beauty; for many have been deceived by the beauty of a woman; for herewith love is kindled as a fire.
 
 - Turn away thine eye from a beautiful woman, and look not upon another's beauty; for many have been deceived by the beauty of a woman. Just like it said in 1 Esdras 4: many have erred behind a woman. Do not be lustful after her because she looks good, because things start going into your mind.
 - There are women that are fine, with the body, all dainty, and blessed with a full-fledged demon. Be careful with that. The Bible is telling you to beware; the Lord is saying, I know what I created, and I know what is powerful. Some of you brothers are weak; do not be deceived by it.
 
-**[2 Samuel 11:2-5](/bible/2-samuel/11#v2)**  *[1:25:54]*
+**[2 Samuel 11:2-5](/bible/2-samuel/11#v2)**  *[[1:25:54](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=5154s)]*
 
 > <sup>[2](/bible/2-samuel/11#v2)</sup> And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king’s house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
 >
@@ -319,7 +319,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     The Lord took away his sins, and exalted his horn for ever: he gave him a covenant of kings, and a throne of glory in Israel. The Lord forgave David; he loved David, and David messed up badly. A lot of times we are going to fall and do things that are not comely according to the scriptures. That does not mean you bunker down into a fetal position and say woe is me. You get yourself together, you repent, and you move forward. What did Christ say? Go, and sin no more. You pick up the pieces and keep moving. We are all going to make mistakes; it is how you handle the mistake.
 
-**[Matthew 26:14-16](/bible/matthew/26#v14)**  *[1:30:17]*
+**[Matthew 26:14-16](/bible/matthew/26#v14)**  *[[1:30:17](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=5417s)]*
 
 > <sup>[14](/bible/matthew/26#v14)</sup> Then one of the twelve, called Judas Iscariot, went unto the chief priests,
 >
@@ -350,7 +350,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     Seek not death in the error of your life: and pull not upon yourselves destruction with the works of your own hands. When you put that sin above everything, that is what you are seeking: death. Money can be your destruction. Women can be your destruction. Food, alcohol, drugs can be your destruction. That is the appetite in us that we constantly want to feed, and we have to stop it.
 
-**[Genesis 39:1-9](/bible/genesis/39#v1)**  *[1:37:44]*
+**[Genesis 39:1-9](/bible/genesis/39#v1)**  *[[1:37:44](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=5864s)]*
 
 > <sup>[1](/bible/genesis/39#v1)</sup> And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 >
@@ -376,7 +376,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - How then can I do this great wickedness, and sin against God? This is a person that immediately resisted the devil. He did not have to think; that lets you know the scripture was always in his mind. Easy decision, no negotiation, no emotional engagement whatsoever. And you know Pharaoh's officer's wife was attractive; Joseph did not care about any of that.
 - The modern day Satan kisses are today's traps, and the pattern holds through all the examples: Eve engaged, rationalized, and fell into idolatry. Samson was compromised and lost his strength. David looked, acted on it, and brought judgment on his family. Judas chased money and destroyed himself; money was his demise. Joseph fled immediately, and the Lord promoted him with blessings. Sometimes you pray, Lord take this away from me, and then immediately you get put in a situation to prove yourself on the very thing you asked him to take away. Recognize the test when it comes.
 
-**[1 Corinthians 6:18](/bible/1-corinthians/6#v18)**  *[1:45:14]*
+**[1 Corinthians 6:18](/bible/1-corinthians/6#v18)**  *[[1:45:14](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=6314s)]*
 
 > <sup>[18](/bible/1-corinthians/6#v18)</sup> Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
 
@@ -390,7 +390,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     Lust not after her beauty in thine heart; neither let her take thee with her eyelids. For by means of a whorish woman a man is brought to a piece of bread. A lot of us are weak to the woman. The eyelashes are there for a reason; that dainty look is designed to take you. Do not let it take you over. And the adulteress will hunt for the precious life.
 
-**[Matthew 5:28](/bible/matthew/5#v28)**  *[1:47:25]*
+**[Matthew 5:28](/bible/matthew/5#v28)**  *[[1:47:25](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=6445s)]*
 
 > <sup>[28](/bible/matthew/5#v28)</sup> But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 
@@ -404,7 +404,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     I made a covenant with mine eyes; why then should I think upon a maid? How do you fix it? You have to control what you view. You have to control what you desire. Seeing a beautiful woman does not mean you should think lustfully about her. Especially you married men: you should have a covenant with your eyes with your wife.
 
-**[1 Corinthians 10:13-14](/bible/1-corinthians/10#v13)**  *[1:49:37]*
+**[1 Corinthians 10:13-14](/bible/1-corinthians/10#v13)**  *[[1:49:37](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=6577s)]*
 
 > <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
 >
@@ -422,7 +422,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     Blessed is the man that doth meditate good things in wisdom, and that reasoneth of holy things by his understanding. When we do not study, we have nothing in our spirits to combat Satan; we are defenseless. Even Christ, when he was tempted, used the word of God: is it not written? When you meditate good things, you can reason in the scriptures: wait, the scripture says this; I cannot do that. When you go before the magistrates, think not what ye shall say; but you have to have something in your spirit for the Lord to work with. If you have no scriptures about lust in your head, where are you going to pull from? Give the Holy Spirit something to work with. When Joseph was tempted, he referred straight back to the law: I would be sinning against God. That was what came to his mind first, because his mind was always on the scriptures.
 
-**[Proverbs 16:18](/bible/proverbs/16#v18)**  *[1:55:55]*
+**[Proverbs 16:18](/bible/proverbs/16#v18)**  *[[1:55:55](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=6955s)]*
 
 > <sup>[18](/bible/proverbs/16#v18)</sup> Pride goeth before destruction, and an haughty spirit before a fall.
 
@@ -446,7 +446,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     In three things I was beautified, and stood up beautiful both before God and men: the unity of brethren, the love of neighbours, a man and a wife that agree together. Why is that last one beautiful? Because it is hard for two different personalities to come together and be on one accord. Marriage takes time, brothers and sisters; it takes years and experience. But three sorts of men my soul hateth, and I am greatly offended at their life: a poor man that is proud, a rich man that is a liar, and an old adulterer that doateth. A poor man that is proud has no humility whatsoever: nobody can tell him anything, he has all the answers and no fruits in his life. That is how much the Lord hates pride.
 
-**[1 Timothy 6:10](/bible/1-timothy/6#v10)**  *[2:02:44]*
+**[1 Timothy 6:10](/bible/1-timothy/6#v10)**  *[[2:02:44](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=7364s)]*
 
 > <sup>[10](/bible/1-timothy/6#v10)</sup> For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
@@ -459,14 +459,14 @@ The objective of this class is to understand how sin rarely presents itself as d
 
     Every wise woman buildeth her house: but the foolish plucketh it down with her hands. Instead of watching what that other husband is doing, study that wise woman. Go ask her: what are you doing? Why is he so happy? Every time you ask for something, he gives it; what is the secret? She has a mind to what is going on in her house: these are the things I need to fix to make my household better, this is how I assist my husband. That is the desire of Genesis: she shall desire her husband. That means studying him: you know what he likes, his dislikes, when to leave him be, and when to come speak. But pride, sister, will keep you from doing it. You think he is supposed to give you everything first before you do what you do as a wife; that is not what you are in the marriage for. You do your job, and that man does his job. And if reciprocation only flows one way, you might be the reason your marriage is the way it is.
 
-**[Proverbs 29:25](/bible/proverbs/29#v25)**  *[2:17:28]*
+**[Proverbs 29:25](/bible/proverbs/29#v25)**  *[[2:17:28](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=8248s)]*
 
 > <sup>[25](/bible/proverbs/29#v25)</sup> The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.
 
 - Social media and validation. The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe. Social media can be a trap, a snare, a device to keep our mind off the Lord. It is not just our children; it is us as adults. It takes time away from studying, from good conversation with your wife, from your children, while you are always on your phone. And the content is engineered filth; the more you are consumed with social media, the more desensitized you are to the evil going on in the world.
 - Video played in class, from tech industry insiders: everything you do online is being watched and tracked; every action is monitored and recorded. There are entire teams of engineers whose job is to use your psychology against you; one speaker was the co-inventor of the Facebook like button. What you type in builds the algorithm toward you: they know how you think and how you move, and what pops up is not chance, it is made up for you. You say, I was just talking about that and it popped up; no, they have you. And what does it all go back to? Sex, money, power: sin. Your social media is not there to make things convenient for you; it is out to destroy you, and you do not even see it.
 
-**[Proverbs 6:27-29](/bible/proverbs/6#v27)**  *[2:25:57]*
+**[Proverbs 6:27-29](/bible/proverbs/6#v27)**  *[[2:25:57](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=8757s)]*
 
 > <sup>[27](/bible/proverbs/6#v27)</sup> Can a man take fire in his bosom, and his clothes not be burned?
 >
@@ -479,7 +479,7 @@ The objective of this class is to understand how sin rarely presents itself as d
 - This goes back to Satan transformed into an angel of light: it looks like this person is just diligent in their office, just occupied in the work, and all of a sudden they care so much about your corner. The devil is in the details. Pay attention.
 - Can a man take fire in his bosom, and his clothes not be burned? Can one go upon hot coals, and his feet not be burned? So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent. You put fire that close to you, you are going to get burned. The Bible has everything in it to fix us; but when you are not in the Bible reading it, the Bible becomes an enemy: am I therefore become your enemy, because I tell you the truth?
 
-**[Galatians 6:7-8](/bible/galatians/6#v7)**  *[2:27:41]*
+**[Galatians 6:7-8](/bible/galatians/6#v7)**  *[[2:27:41](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=8861s)]*
 
 > <sup>[7](/bible/galatians/6#v7)</sup> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
 >
@@ -511,4 +511,4 @@ Satan's kiss comes wrapped as opportunity, pleasure, love, comfort, success, esc
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-06-20-satan-s-kiss-to-your-demise)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=NtwCJWtpPQY)

@@ -150,7 +150,7 @@ Renée Kaplan.
 
 ## Scriptures Opened
 
-**[1 Kings 12:16](/bible/1-kings/12#v16)**  *[12:48]*
+**[1 Kings 12:16](/bible/1-kings/12#v16)**  *[[12:48](https://www.youtube.com/watch?v=FSUFtJ08joo&t=768s)]*
 
 > <sup>[16](/bible/1-kings/12#v16)</sup> So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.
 
@@ -158,7 +158,7 @@ Renée Kaplan.
 
 - This is the split. This is when the split happened between the southern kingdom, which is the so-called blacks. You have got Judah, Benjamin and Levi, which make up the southern kingdom. And then the northern kingdom split. Why? Because they felt they had more rights to King David than Judah. So this is where the split happened. The twelve tribes divided, three parts stayed in Jerusalem and the northern kingdom separated.
 
-**[2 Kings 17:1-2](/bible/2-kings/17#v1)**  *[13:34]*
+**[2 Kings 17:1-2](/bible/2-kings/17#v1)**  *[[13:34](https://www.youtube.com/watch?v=FSUFtJ08joo&t=814s)]*
 
 > <sup>[1](/bible/2-kings/17#v1)</sup> In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 >
@@ -168,7 +168,7 @@ Renée Kaplan.
 
 - And he did that which was evil in the sight of the Lord, but not as the kings of Israel that were before him. So he did that which was evil, which was idolatry.
 
-**[2 Kings 17:6](/bible/2-kings/17#v6)**  *[14:25]*
+**[2 Kings 17:6](/bible/2-kings/17#v6)**  *[[14:25](https://www.youtube.com/watch?v=FSUFtJ08joo&t=865s)]*
 
 > <sup>[6](/bible/2-kings/17#v6)</sup> In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes.
 
@@ -178,7 +178,7 @@ Renée Kaplan.
 
 - And placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes. So the king of Assyria displaced the northern kingdom. He removed them from the lands. And to this day we still get displaced from our lands in Puerto Rico, in Colombia, in Venezuela. That is why you see great migrations, people crossing borders, the Darién Gap, trying to get to America. Why? Because we are displaced. We are under curses. We are under persecution. These are the signs that let you know who the twelve tribes of Israel are. So you cannot tell us that the northern kingdom, the so-called Latinos, are not Israelites. We are under the same curses.
 
-**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[15:55]*
+**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[[15:55](https://www.youtube.com/watch?v=FSUFtJ08joo&t=955s)]*
 
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
@@ -218,7 +218,7 @@ Renée Kaplan.
 
 - From the floor: what is heavy about this is the fact that they were even able to take the counsel. Because Cyrus gave them liberty. They could not take that counsel in Babylon. Nebuchadnezzar did not show mercy. They could not do it in Assyria. But when you read the history in Isaiah, Cyrus gave the Israelites liberty. He said, I am going to give you the freedom, you can go back to your own country. Northern kingdom came together and said, look, why do we not keep God's laws in the Western Hemisphere? We do not need to stay here any more. Let us go to another land. This is how you Dominicans initially came here. This is how you Puerto Ricans initially came here. So we know according to the Bible that it is a lie that Christopher Columbus discovered America.
 
-**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[34:48]*
+**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[34:48](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2088s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 
@@ -226,7 +226,7 @@ Renée Kaplan.
 
 - To observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee. And these curses came upon us and overtook us, as it is to this day.
 
-**[Deuteronomy 28:46-48](/bible/deuteronomy/28#v46)**  *[35:37]*
+**[Deuteronomy 28:46-48](/bible/deuteronomy/28#v46)**  *[[35:37](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2137s)]*
 
 > <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 >
@@ -254,7 +254,7 @@ Renée Kaplan.
 
 - And he shall put a yoke of iron upon thy neck, until he have destroyed thee. He put a yoke of iron upon our necks in captivity, slavery. Until we no longer need the chains on our necks, because they are on our minds now. Now we see the so-called white man as God. Why? Because he forced us to worship him, as Cesare Borgia painted as the new Jesus Christ during the Renaissance era. So that image that Abuelita has in the living room, in the bedroom, in the bathroom, in the kitchen, on the refrigerator door, that is Cesare Borgia, the image of the beast. That is not Jesus Christ.
 
-**[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[48:36]*
+**[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[48:36](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2916s)]*
 
 > <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
@@ -262,7 +262,7 @@ Renée Kaplan.
 
 - Went unto the king, and told him that Jonathan besieged the tower. He went unto Donald Trump. And ratted on his people, turned on his people, betrayed his people. It is the same thing over and over again. We are always going to have traitors amongst our people.
 
-**[2 Kings 17:16-18](/bible/2-kings/17#v16)**  *[58:26]*
+**[2 Kings 17:16-18](/bible/2-kings/17#v16)**  *[[58:26](https://www.youtube.com/watch?v=FSUFtJ08joo&t=3506s)]*
 
 > <sup>[16](/bible/2-kings/17#v16)</sup> And they left all the commandments of the Lord their God, and made them molten images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal.
 >
@@ -290,7 +290,7 @@ Renée Kaplan.
 
     Ephraim is joined to idols: let him alone. Ephraim is joined to idols. Let him alone. You get that in Santería, brujería, Catholicism. This is what our people are into.
 
-**[Micah 2:2](/bible/micah/2#v2)**  *[1:09:54]*
+**[Micah 2:2](/bible/micah/2#v2)**  *[[1:09:54](https://www.youtube.com/watch?v=FSUFtJ08joo&t=4194s)]*
 
 > <sup>[2](/bible/micah/2#v2)</sup> And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
 
@@ -310,7 +310,7 @@ Renée Kaplan.
 
     All this have I spoken before thee, O Lord, because thou madest the world for our sakes. For whose sake? Our sake. The enemy knows that. Esau knows that the world was made for our sake. So they have to create laws to remove us, to set puppet presidents up, and pass laws against us. What they do now is they give visas to Israeli nationals. They come to our lands and they buy up property. We see that. When we go to Ecuador, when we go to Peru, Guatemala, you see them coming into the lands, they get free visas, and they are allowed to buy property, whereas the people of the land have to jump through hoops and hurdles just to maintain the lot that they have.
 
-**[Isaiah 45:7](/bible/isaiah/45#v7)**  *[1:16:13]*
+**[Isaiah 45:7](/bible/isaiah/45#v7)**  *[[1:16:13](https://www.youtube.com/watch?v=FSUFtJ08joo&t=4573s)]*
 
 > <sup>[7](/bible/isaiah/45#v7)</sup> I form the light, and create darkness: I make peace, and create evil: I the Lord do all these things.
 
@@ -318,7 +318,7 @@ Renée Kaplan.
 
 - I make peace, and create evil: I the Lord do all these things. So all these earthquakes, all these puppet presidents being set in office, it is because the Most High allows it.
 
-**[Daniel 4:17](/bible/daniel/4#v17)**  *[1:17:07]*
+**[Daniel 4:17](/bible/daniel/4#v17)**  *[[1:17:07](https://www.youtube.com/watch?v=FSUFtJ08joo&t=4627s)]*
 
 > <sup>[17](/bible/daniel/4#v17)</sup> This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
 
@@ -326,7 +326,7 @@ Renée Kaplan.
 
 - And giveth it to whomsoever he will, and setteth up over it the basest of men. The basest of men. The lowest. So everything is of the Lord. The earthquakes, the presidents, the puppet presidents, the evil on this earth. Why? It is all to bring us back to repentance. To bring us back to the remembrance of who we are in the last days.
 
-**[Amos 3:6-7](/bible/amos/3#v6)**  *[1:18:45]*
+**[Amos 3:6-7](/bible/amos/3#v6)**  *[[1:18:45](https://www.youtube.com/watch?v=FSUFtJ08joo&t=4725s)]*
 
 > <sup>[6](/bible/amos/3#v6)</sup> Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?
 >
@@ -338,7 +338,7 @@ Renée Kaplan.
 
 - Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets. So the Most High revealed his secrets, the prophecies in this Bible, to his prophets. And we are here to warn the people, so that you do not continue in your wicked ways. Come out of her, my people, that ye be not partakers of her sins. Babylon is going to fall. This is a last-minute land grab, a last-minute grab of resources, until Christ returns. They know they have but a little while. But it is all of the Lord. The Most High is speeding things up. So Israel, get ready.
 
-**[Revelation 13:15-18](/bible/revelation/13#v15)**  *[1:23:08]*
+**[Revelation 13:15-18](/bible/revelation/13#v15)**  *[[1:23:08](https://www.youtube.com/watch?v=FSUFtJ08joo&t=4988s)]*
 
 > <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
 >
@@ -362,7 +362,7 @@ Renée Kaplan.
 
 - Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
 
-**[Habakkuk 2:5](/bible/habakkuk/2#v5)**  *[1:40:08]*
+**[Habakkuk 2:5](/bible/habakkuk/2#v5)**  *[[1:40:08](https://www.youtube.com/watch?v=FSUFtJ08joo&t=6008s)]*
 
 > <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 
@@ -382,7 +382,7 @@ Renée Kaplan.
 
 - That is what real freedom is. Real freedom is having no fear. We have to take away that fear of death. Because a lot of us, and I am talking to you, Northern Kingdom, a lot of you were in gangs. You took penitentiary chances with your life, with your freedom. So now that you know this truth, who cares if they put you to death? You are going to get the kingdom for that death. Death is not what they taught us. Death is not the end all be all. So we have to die for something. Die for your people. Die for the freedom of your people. Die for the laws of God. Instead of a corner, a gang, all kinds of nonsense that we see in the news that gets propagated to us through music. That is not life. We have to come out of that and realize that we are God's chosen people, put on this earth to rule.
 
-**[John 10:10](/bible/john/10#v10)**  *[1:45:17]*
+**[John 10:10](/bible/john/10#v10)**  *[[1:45:17](https://www.youtube.com/watch?v=FSUFtJ08joo&t=6317s)]*
 
 > <sup>[10](/bible/john/10#v10)</sup> The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
 
@@ -396,7 +396,7 @@ Renée Kaplan.
 
 - And that they might have it more abundantly. Christ came and died for our sins so that this devil can stop ruling over us. So we have to see him for who he is.
 
-**[Psalms 94:20-21](/bible/psalms/94#v20)**  *[1:54:46]*
+**[Psalms 94:20-21](/bible/psalms/94#v20)**  *[[1:54:46](https://www.youtube.com/watch?v=FSUFtJ08joo&t=6886s)]*
 
 > <sup>[20](/bible/psalms/94#v20)</sup> Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?
 >
@@ -408,7 +408,7 @@ Renée Kaplan.
 
 - And condemn the innocent blood. They condemn the innocent blood. They call us drug traffickers. They say, you do not have rights to the land, you cannot prove this land is yours. Even though the indigenous have been on that land for centuries, since the beginning. But they take it.
 
-**[Isaiah 10:1-2](/bible/isaiah/10#v1)**  *[1:56:24]*
+**[Isaiah 10:1-2](/bible/isaiah/10#v1)**  *[[1:56:24](https://www.youtube.com/watch?v=FSUFtJ08joo&t=6984s)]*
 
 > <sup>[1](/bible/isaiah/10#v1)</sup> Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;
 >
@@ -424,7 +424,7 @@ Renée Kaplan.
 
 - That widows may be their prey, and that they may rob the fatherless. Widows are their prey. We have seen videos, and we are going to show more videos, where they are attacking our people, killing the widows, taking the children from their parents. They may rob us, the fatherless, of our lands, displace us, terrorize us. All this is by design.
 
-**[Isaiah 28:15](/bible/isaiah/28#v15)**  *[2:07:18]*
+**[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[2:07:18](https://www.youtube.com/watch?v=FSUFtJ08joo&t=7638s)]*
 
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
@@ -436,7 +436,7 @@ Renée Kaplan.
 
 - For we have made lies our refuge, and under falsehood have we hid ourselves. She has made lies her refuge. And all our people who are in agreement with whatever the US government is doing in Latin America, Africa, Europe, wherever our people are found, the Caribbean. Under falsehood, under the false American dream, have we hid ourselves.
 
-**[1 Esdras 5:73](/bible/1-esdras/5#v73)**  *[2:10:01]*
+**[1 Esdras 5:73](/bible/1-esdras/5#v73)**  *[[2:10:01](https://www.youtube.com/watch?v=FSUFtJ08joo&t=7801s)]*
 
 > <sup>[73](/bible/1-esdras/5#v73)</sup> And by their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that king Cyrus lived: so they were hindered from building for the space of two years, until the reign of Darius.
 
@@ -446,13 +446,13 @@ Renée Kaplan.
 
 - They hindered the finishing of the building. They are hindering us coming together as the twelve tribes of Israel. This is why they divide us, subdivide us into different categories, different titles. One is Latino, the other one is black. No, you are not the same. We speak a different language. All this is to divide us, to hinder the finishing of the building. What building? The building of Christ, the church of Christ, which is the twelve tribes of the nation of Israel.
 
-**[Psalms 64:2](/bible/psalms/64#v2)**  *[2:11:38]*
+**[Psalms 64:2](/bible/psalms/64#v2)**  *[[2:11:38](https://www.youtube.com/watch?v=FSUFtJ08joo&t=7898s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 
 - Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity. From the insurrection of the workers of iniquity. That is what they are doing. They are working evil. They work sin. Because when they come, what do they do? There is all kinds of evil in the land. There is prostitution. The black market is filled with what? Slaves.
 
-**[Revelation 18:11-13](/bible/revelation/18#v11)**  *[2:12:35]*
+**[Revelation 18:11-13](/bible/revelation/18#v11)**  *[[2:12:35](https://www.youtube.com/watch?v=FSUFtJ08joo&t=7955s)]*
 
 > <sup>[11](/bible/revelation/18#v11)</sup> And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:
 >
@@ -470,7 +470,7 @@ Renée Kaplan.
 
 - And beasts, and sheep, and horses, and chariots, and slaves, and souls of men. And souls of men. That is what they are after. This is what is going on in Latin America, all throughout the world. And who is in the forefront of it? Esau. But you also have Ammon. You also have Ishmael. All the heathen, the nations, are after our precious resources, our lands. And what do they leave us? They leave us destitute while they take everything. There is nothing new. It has been going on since the 1400s.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[2:18:04]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[2:18:04](https://www.youtube.com/watch?v=FSUFtJ08joo&t=8284s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
@@ -482,7 +482,7 @@ Renée Kaplan.
 
 - We have to reach our people, and we have the resources, through social media. Like I said, we have to change the algorithm. Do not just get caught up in sports and entertainment. You have to watch the news. You have to be aware of what is going on, so that you can bring it out in your speech, in your teachings, when you go out in the streets. Prepare yourselves, because there are going to be Peruvians, there are going to be Ecuadorians, there are going to be Guatemalans, Mexicans coming to the camp. They are going to have questions. You have to be able to answer them according to the scriptures, who they are and why these things are happening, how they ended up in the United States. It was not for the American dream. It was for the nightmare. It was for repentance, so that you can see the Israelites on the streets teaching. And bring it back, if it be the Lord's will, to your native countries and lands.
 
-**[Micah 3:11](/bible/micah/3#v11)**  *[2:21:43]*
+**[Micah 3:11](/bible/micah/3#v11)**  *[[2:21:43](https://www.youtube.com/watch?v=FSUFtJ08joo&t=8503s)]*
 
 > <sup>[11](/bible/micah/3#v11)</sup> The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us.
 
@@ -494,7 +494,7 @@ Renée Kaplan.
 
 - And the prophets thereof divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us. And they are utilizing the Lord, or the Bible, as an example to put all of you to sleep. They are manipulating the Bible to put you all to sleep. And they make you feel that they are being blessed. But in reality, no. They are robbing the people and stealing riches, getting themselves rich in the process.
 
-**[Psalms 94:16](/bible/psalms/94#v16)**  *[2:24:23]*
+**[Psalms 94:16](/bible/psalms/94#v16)**  *[[2:24:23](https://www.youtube.com/watch?v=FSUFtJ08joo&t=8663s)]*
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
 
@@ -504,7 +504,7 @@ Renée Kaplan.
 
 - Look at all the people hungry for the word. This is in Papua New Guinea. That is the tribe of Naphtali. They do not speak Spanish. They speak English and other dialects. But imagine when the so-called Latinos start waking up in those kinds of numbers. We saw a little bit when we went to Guatemala. Remember how they were just sitting there for hours listening to us teaching, questions? From the floor: the same time the bishops, the deacons and the captains were in Papua New Guinea teaching Naphtali, we were in Argentina teaching Naphtali as well, on the other side. They were in the far south, we were in the west. So we have to prepare ourselves. This is a big job that we have. We have to prepare our people.
 
-**[Psalms 55:21](/bible/psalms/55#v21)**  *[2:30:18]*
+**[Psalms 55:21](/bible/psalms/55#v21)**  *[[2:30:18](https://www.youtube.com/watch?v=FSUFtJ08joo&t=9018s)]*
 
 > <sup>[21](/bible/psalms/55#v21)</sup> The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.
 
@@ -512,7 +512,7 @@ Renée Kaplan.
 
 - The words of his mouth were smoother than butter, but war was in his heart. But war is in his heart. That is why you see the destruction that comes when you let him into your lands. That is what Argentina was protesting. That is what Puerto Rico is protesting. That is what Peru is protesting. But these puppet governments are siccing the military on our people, killing our people.
 
-**[2 Esdras 9:1-7](/bible/2-esdras/9#v1)**  *[2:32:02]*
+**[2 Esdras 9:1-7](/bible/2-esdras/9#v1)**  *[[2:32:02](https://www.youtube.com/watch?v=FSUFtJ08joo&t=9122s)]*
 
 > <sup>[1](/bible/2-esdras/9#v1)</sup> He answered me then, and said, Measure thou the time diligently in itself: and when thou seest part of the signs past, which I have told thee before,
 >
@@ -556,4 +556,4 @@ The closing video:
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-29-abya-yala-under-fire)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=FSUFtJ08joo)

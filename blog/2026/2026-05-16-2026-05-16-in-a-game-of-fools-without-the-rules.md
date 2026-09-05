@@ -26,7 +26,7 @@ Video played: children around five, six, seven years old, not even in school yet
 
 ## Scriptures Opened
 
-**[Ecclesiasticus 17:16](/bible/sirach/17#v16)**  *[21:28]*
+**[Ecclesiasticus 17:16](/bible/sirach/17#v16)**  *[[21:28](https://www.youtube.com/watch?v=H5r5CisviT8&t=1288s)]*
 
 > <sup>[16](/bible/sirach/17#v16)</sup> Every man from his youth is given to evil; neither could they make to themselves fleshy hearts for stony.
 
@@ -54,7 +54,7 @@ Documents read in class:
 - Dred Scott v. Sandford, December term 1856, read from the court record: a free negro of the African race, whose ancestors were brought to this country and sold as slaves, is not a citizen within the meaning of the Constitution of the United States. When the Constitution was adopted, they were not regarded in any of the states as members of the community which constituted the state, and were not numbered among its people or citizens; consequently the special rights and immunities guaranteed to citizens do not apply to them. The only two clauses in the Constitution which point to this race treat them as persons whom it was morally lawful to deal in as articles of property and to hold as slaves. No state can by any subsequent law make a foreigner or any other description of persons citizens of the United States; and the change in public opinion and feeling in relation to the African race which has taken place since the adoption of the Constitution cannot change its construction and meaning, and it must be construed and administered according to its true meaning and intention when it was formed and adopted.
 - That's the game. Even if they give you civil rights to make you think you're on an equal footing, the Constitution comes back and says that will not make you a citizen. That's why you had to have voting rights acts and all the rest. That's why people can be shot down and left in the street with nobody held to account. Our children are being fooled into thinking they can do all kinds of wickedness and be all right, and the Constitution is already set up to lock them up and get sweat equity out of them.
 
-**[Romans 13:3-4](/bible/romans/13#v3)**  *[40:18]*
+**[Romans 13:3-4](/bible/romans/13#v3)**  *[[40:18](https://www.youtube.com/watch?v=H5r5CisviT8&t=2418s)]*
 
 > <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
 >
@@ -81,19 +81,19 @@ A father took the microphone: I just wish my 22 year old was with me to see this
 
 - I'm sorry for your pain, brother, and you might have no choice. There's a saying in the islands: those who don't hear will feel. Those who will not listen must suffer the consequences.
 
-**[Isaiah 22:14](/bible/isaiah/22#v14)**  *[1:16:45]*
+**[Isaiah 22:14](/bible/isaiah/22#v14)**  *[[1:16:45](https://www.youtube.com/watch?v=H5r5CisviT8&t=4605s)]*
 
 > <sup>[14](/bible/isaiah/22#v14)</sup> And it was revealed in mine ears by the Lord of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord God of hosts.
 
 - It was revealed in mine ears by the Lord of hosts, surely this iniquity shall not be purged from you till ye die. Some of our people will not turn away from their wicked ways no matter how close they get to death.
 
-**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[1:17:18]*
+**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[1:17:18](https://www.youtube.com/watch?v=H5r5CisviT8&t=4638s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 
 - Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net. Gang activity, on the corners doing nothing, looking for mischief to get into. Parents can't do anything with them; they're like wild bulls.
 
-**[Matthew 10:21](/bible/matthew/10#v21)**  *[1:18:40]*
+**[Matthew 10:21](/bible/matthew/10#v21)**  *[[1:18:40](https://www.youtube.com/watch?v=H5r5CisviT8&t=4720s)]*
 
 > <sup>[21](/bible/matthew/10#v21)</sup> And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.
 
@@ -105,13 +105,13 @@ Video played, the 1994 crime bill speech: let me tell you what is in the bill, a
 - You thought Biden was bad; Trump is the same thing. Biden and Trump are saying the same thing. Everybody talking about, let's vote Democrat: the Democrat was doing the same thing. They're all part of the game.
 - All the decades that have gone by with this wildness running loose, thinking nobody could do anything, then the Lord said, give them Trump. It's better to hear it from me than to hear it like that man in the courtroom being referred to as sweat equity.
 
-**[Luke 14:26](/bible/luke/14#v26)**  *[1:24:55]*
+**[Luke 14:26](/bible/luke/14#v26)**  *[[1:24:55](https://www.youtube.com/watch?v=H5r5CisviT8&t=5095s)]*
 
 > <sup>[26](/bible/luke/14#v26)</sup> If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
 - If any man come to me, and hate not his father, and mother, and wife, and children: the hate here means you're not trimming your ways against what the Lord said to benefit them. These are persons closest to you, knit to your soul. But if you don't deliver that child up so he can be corrected, because you tried the Bible and it's not working, you're enabling the behavior, and eventually it will pull you out of the truth.
 
-**[1 Corinthians 5:5](/bible/1-corinthians/5#v5)**  *[1:31:53]*
+**[1 Corinthians 5:5](/bible/1-corinthians/5#v5)**  *[[1:31:53](https://www.youtube.com/watch?v=H5r5CisviT8&t=5513s)]*
 
 > <sup>[5](/bible/1-corinthians/5#v5)</sup> To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 
@@ -119,7 +119,7 @@ Video played, the 1994 crime bill speech: let me tell you what is in the bill, a
 - We have to do that in here too. Certain spirits don't want to act right, judgment after judgment, still getting it wrong: listen, you have to go, because if you stay, you're going to poison the rest of these brothers and sisters. That's how fathers have to be. And when you put your foot down in your house to make sure that evil stops, your own son or daughter might cause you to die. You have to be aware of that. That's real talk.
 - If you don't discipline your sons and daughters today, even just with straight talk, they're going to be disciplined by the system: the cop with the nine millimeter, the nightstick, the stun gun, jail time, a potter's field death. They better learn now while they have the chance.
 
-**[Romans 13:3-4](/bible/romans/13#v3)**  *[1:34:57]*
+**[Romans 13:3-4](/bible/romans/13#v3)**  *[[1:34:57](https://www.youtube.com/watch?v=H5r5CisviT8&t=5697s)]*
 
 > <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
 >
@@ -135,7 +135,7 @@ Video played, the DC mayor: what happened this past Saturday night at Chipotle i
 - Notice she said they're looking at the parents regardless. A lot of times these young girls have the kids, want to keep playing in the street, and dump the child on grandma. They're saying: if the child is in your custody and doing this, you will be held responsible. They weren't talking about the kids; they were talking about the parents.
 - Why is this happening? The Most High is trying to wake us up. If we don't get our business together, a lot of examples are going to be made, and that's before the wilderness.
 
-**[Zechariah 13:1-3](/bible/zechariah/13#v1)**  *[1:42:15]*
+**[Zechariah 13:1-3](/bible/zechariah/13#v1)**  *[[1:42:15](https://www.youtube.com/watch?v=H5r5CisviT8&t=6135s)]*
 
 > <sup>[1](/bible/zechariah/13#v1)</sup> In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 >
@@ -161,7 +161,7 @@ Video played, the DC mayor: what happened this past Saturday night at Chipotle i
 
     That he might sanctify and cleanse it with the washing of water by the word. The water is the word; that's the fountain opened.
 
-**[Ephesians 6:1-2](/bible/ephesians/6#v1)**  *[2:08:16]*
+**[Ephesians 6:1-2](/bible/ephesians/6#v1)**  *[[2:08:16](https://www.youtube.com/watch?v=H5r5CisviT8&t=7696s)]*
 
 > <sup>[1](/bible/ephesians/6#v1)</sup> Children, obey your parents in the Lord: for this is right.
 >
@@ -170,14 +170,14 @@ Video played, the DC mayor: what happened this past Saturday night at Chipotle i
 - Children, obey your parents in the Lord, for this is right. Honour thy father and mother, which is the first commandment with promise. Do you think children can go against this and expect to be spared by the Lord's sword, which is Esau and his system?
 - Do you realize we're not even supposed to be here, underneath these people? We were never supposed to experience this captivity. We're over here because we messed up with our Father.
 
-**[Jeremiah 49:12](/bible/jeremiah/49#v12)**  *[2:09:27]*
+**[Jeremiah 49:12](/bible/jeremiah/49#v12)**  *[[2:09:27](https://www.youtube.com/watch?v=H5r5CisviT8&t=7767s)]*
 
 > <sup>[12](/bible/jeremiah/49#v12)</sup> For thus saith the Lord; Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink of it.
 
 - Behold, they whose judgment was not to drink of the cup have assuredly drunken. That's us. We were not supposed to drink of this cup of destruction, because we are God's people, his children, his heirs, his firstborn; but these things happened to us because of disobedience.
 - And art thou he that shall altogether go unpunished? Thou shalt not go unpunished, but thou shalt surely drink of it. The nations that did this evil to us, even though we deserved judgment, will not go unpunished. They shall drink the captivity, the punishment, the slavery, all of it.
 
-**[Obadiah 1:15-16](/bible/obadiah/1#v15)**  *[2:11:14]*
+**[Obadiah 1:15-16](/bible/obadiah/1#v15)**  *[[2:11:14](https://www.youtube.com/watch?v=H5r5CisviT8&t=7874s)]*
 
 > <sup>[15](/bible/obadiah/1#v15)</sup> For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
 >
@@ -202,7 +202,7 @@ The young men of valor took the microphone: what I'm getting from the class is t
 
 - Definition read in class: honor is an abstract concept and personal ethos embodying moral integrity, honesty, and a strong code of conduct; it can refer to the high respect and public esteem a person earns through their actions, or a special privilege and title.
 
-**[Matthew 15:4](/bible/matthew/15#v4)**  *[2:32:31]*
+**[Matthew 15:4](/bible/matthew/15#v4)**  *[[2:32:31](https://www.youtube.com/watch?v=H5r5CisviT8&t=9151s)]*
 
 > <sup>[4](/bible/matthew/15#v4)</sup> For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.
 
@@ -235,7 +235,7 @@ Sentencing videos played in class: Alicia Andrews, 22 when convicted of manslaug
 - Remember, her son was in that drill rap mess too; they're all in this foolishness together. And notice: our people will throw the book at each other, but when it comes to Esau, we talk about forgiveness and all good things in white Jesus. I did not want that to slide off the scale either.
 - Her defense cited eight supposedly similar cases, even cases where the defendant physically participated in a killing and got 15 years or less, asking the judge to depart downward, calling her a relatively minor participant. There was nothing minor about it. The state distinguished every case, and the judge sentenced her to 15 years, then moved straight to the next matter on the calendar. Look how nonchalant it is. That's it; her life is done.
 
-**[Ephesians 6:1-4](/bible/ephesians/6#v1)**  *[2:59:50]*
+**[Ephesians 6:1-4](/bible/ephesians/6#v1)**  *[[2:59:50](https://www.youtube.com/watch?v=H5r5CisviT8&t=10790s)]*
 
 > <sup>[1](/bible/ephesians/6#v1)</sup> Children, obey your parents in the Lord: for this is right.
 >
@@ -248,7 +248,7 @@ Sentencing videos played in class: Alicia Andrews, 22 when convicted of manslaug
 - Children, obey your parents in the Lord, for this is right. Honour thy father and mother, which is the first commandment with promise: that it may be well with thee, and thou mayest live long on the earth. The Most High means that.
 - And, ye fathers, provoke not your children to wrath. This is how fathers provoke their children to wrath: by coddling them, by covering for them when they do evil. Let that judgment roll. If you get in the way of it and coddle them, you're going to embolden them, and they will ultimately put you to death. Bring them up in the nurture and admonition of the Lord: the warnings of the Lord.
 
-**[Proverbs 1:10-16](/bible/proverbs/1#v10)**  *[3:00:51]*
+**[Proverbs 1:10-16](/bible/proverbs/1#v10)**  *[[3:00:51](https://www.youtube.com/watch?v=H5r5CisviT8&t=10851s)]*
 
 > <sup>[10](/bible/proverbs/1#v10)</sup> My son, if sinners entice thee, consent thou not.
 >
@@ -269,7 +269,7 @@ Sentencing videos played in class: Alicia Andrews, 22 when convicted of manslaug
 - My son, walk not thou in the way with them; refrain thy foot from their path: for their feet run to evil, and make haste to shed blood. That's what you parents are trying to tell them.
 - If you hear evil being plotted, especially if it's coming from inside the congregation, tell on them. The Bible tells you to tell. You're saving their life; they would rather be dealt with by us than by the penal system.
 
-**[Habakkuk 2:15](/bible/habakkuk/2#v15)**  *[3:04:23]*
+**[Habakkuk 2:15](/bible/habakkuk/2#v15)**  *[[3:04:23](https://www.youtube.com/watch?v=H5r5CisviT8&t=11063s)]*
 
 > <sup>[15](/bible/habakkuk/2#v15)</sup> Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!
 
@@ -291,4 +291,4 @@ There's beauty in being elite. There's beauty in being clean, upright, and perfe
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-16-in-a-game-of-fools-without-the-rules)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=H5r5CisviT8)

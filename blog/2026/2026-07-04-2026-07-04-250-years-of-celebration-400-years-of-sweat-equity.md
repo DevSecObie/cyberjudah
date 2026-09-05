@@ -22,20 +22,20 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 
 ## Scriptures Opened
 
-**[Deuteronomy 32:26](/bible/deuteronomy/32#v26)**  *[15:00]*
+**[Deuteronomy 32:26](/bible/deuteronomy/32#v26)**  *[[15:00](https://www.youtube.com/watch?v=4fML805MO8A&t=900s)]*
 
 > <sup>[26](/bible/deuteronomy/32#v26)</sup> I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:
 
 - I said, I would scatter them into corners, I would make the remembrance of them to cease from among men. That scripture is perfect for what was just said: it is not only written in prophecy, it is a way on how this is done. Your story does not get told in schools or on television; they do not want you to have anything to tell the world what you are experiencing. Even the term for our exhaustion gets turned around into "stop complaining," a total dismissal of your pain and anguish.
 - So they would rather hide us, abuse us, and then give us just enough dope to rejoice and say that we are okay. The celebrating of the so-called 4th of July, the 4th of You Lied, is basically a covering for a sick mind. How many more Sandra Blands, how many more Rasheem Carters, are we going to have with all this celebration? And it does not have to be all Esau: the mindset we have against each other came from them. We are basically men with black bodies and the oppressor's mind, and we do it to each other.
 
-**[Revelation 12:3](/bible/revelation/12#v3)**  *[23:34]*
+**[Revelation 12:3](/bible/revelation/12#v3)**  *[[23:34](https://www.youtube.com/watch?v=4fML805MO8A&t=1414s)]*
 
 > <sup>[3](/bible/revelation/12#v3)</sup> And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
 
 - And behold a great red dragon: this red dragon is talking about red people, a red nation. That is why the Most High said red. Why would he even call it red if it was not talking about you?
 
-**[Revelation 17:3-5, 18](/bible/revelation/17#v3)**  *[24:35]*
+**[Revelation 17:3-5, 18](/bible/revelation/17#v3)**  *[[24:35](https://www.youtube.com/watch?v=4fML805MO8A&t=1475s)]*
 
 > <sup>[3](/bible/revelation/17#v3)</sup> So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 >
@@ -53,13 +53,13 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - Having a golden cup in her hand full of abominations and filthiness of her fornication: this place is loaded with abominations. She reigneth over the kings of the earth and made them all drunk with the wine of her fornication: that is what their foreign policy is all about. They make the nations drunk with weapons and with the lies of their religious programs, and indoctrinate and subjugate the nations to follow their dictates.
 - And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS. Mystery means: who is it? It had to be said that way, because nobody at that time knew about this eighth head. It was in the spiritual prophecy of coming; that is why John was able to write it. Christ showed it to him.
 
-**[2 Thessalonians 2:7](/bible/2-thessalonians/2#v7)**  *[33:14]*
+**[2 Thessalonians 2:7](/bible/2-thessalonians/2#v7)**  *[[33:14](https://www.youtube.com/watch?v=4fML805MO8A&t=1994s)]*
 
 > <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
 
 - For the mystery of iniquity: the mystery of sin. Who is the devil? Who is the evil one? Who is that man of sin? It is a mystery, meaning nobody is directly pointing at it. We are about to clear the mystery up.
 
-**[Isaiah 14:12-14](/bible/isaiah/14#v12)**  *[33:49]*
+**[Isaiah 14:12-14](/bible/isaiah/14#v12)**  *[[33:49](https://www.youtube.com/watch?v=4fML805MO8A&t=2029s)]*
 
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
 >
@@ -72,7 +72,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - For thou hast said in thine heart, I will ascend into heaven: airplanes and space travel. I will exalt my throne above the stars of God: the Most High said we are supposed to dwell on this earth; this one says, I will go beyond your boundaries and put things out in the heavens, because I am God. That is how he thinks.
 - I will sit also upon the mount of the congregation: the congregation is the Lord's people. I will sit upon God's congregation in captivity: bewilder them, bewitch them, lie to them, give them false religion and evil holidays, and make them think the Bible is not talking about them. They are sitting on your thinking and your mentality. In the sides of the north: this hemisphere, where we are.
 
-**[Jeremiah 16:14-15](/bible/jeremiah/16#v14)**  *[37:44]*
+**[Jeremiah 16:14-15](/bible/jeremiah/16#v14)**  *[[37:44](https://www.youtube.com/watch?v=4fML805MO8A&t=2264s)]*
 
 > <sup>[14](/bible/jeremiah/16#v14)</sup> Therefore, behold, the days come, saith the Lord, that it shall no more be said, The Lord liveth, that brought up the children of Israel out of the land of Egypt;
 >
@@ -81,7 +81,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - It shall no more be said, The Lord liveth, that brought up the children of Israel out of the land of Egypt: that deliverance is still on the people's minds now. But the way they sat on our mentality, the world does not know the Bible is talking about us. That is how well they hid us; they manufactured a people and said these are the people the Bible speaks of. A total lie. You are the Jews; you are the Israelites.
 - But, The Lord liveth, that brought up the children of Israel from the land of the north: something so spectacular, so magnificent, and so marvelous has to happen that it makes us stop talking about ancient Egypt, the Red Sea, and the ten plagues. That is going to be when he delivers us from here, from the land of the north: the same place where we are being oppressed.
 
-**[Wisdom of Solomon 5:1-2](/bible/wisdom-of-solomon/5#v1)**  *[40:34]*
+**[Wisdom of Solomon 5:1-2](/bible/wisdom-of-solomon/5#v1)**  *[[40:34](https://www.youtube.com/watch?v=4fML805MO8A&t=2434s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
 >
@@ -95,14 +95,14 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - And shall be amazed at the strangeness of his salvation: not only the people he is going to save, but how he is going to do it. The strangeness of his salvation was written in the Psalms we opened with: a thousand shall fall at thy side, and ten thousand at thy right hand, but it shall not come nigh thee; only with thine eyes shalt thou behold and see the reward of the wicked.
 - Drapetomania was brought up: the invented diagnosis that said a slave who seeks freedom from his master is mentally sick. He calls it sickness when you try to get away from him. That is the arrogance we are dealing with, and their mentality has not changed.
 
-**[Ezekiel 1:12](/bible/ezekiel/1#v12)**  *[51:31]*
+**[Ezekiel 1:12](/bible/ezekiel/1#v12)**  *[[51:31](https://www.youtube.com/watch?v=4fML805MO8A&t=3091s)]*
 
 > <sup>[12](/bible/ezekiel/1#v12)</sup> And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.
 
 - And they went every one straight forward: whither the spirit was to go, they went. The chariots. Wherever the spirit went, the chariots were there. They move at the speed of thought: as fast as you can think of a place, they can be there. They turned not when they went: they did not have to aim themselves; they just be, and they are. What could anybody do against the strangeness of that kind of salvation? No jet fuel, no propulsion, no sound, the wind undisturbed.
 - Discussion of what the astronauts saw: the maneuvers and technology of the chariots made the whole space program look like a bicycle. Do you think those beings need all of that to get two men up there?
 
-**[Zechariah 5:1-4](/bible/zechariah/5#v1)**  *[54:08]*
+**[Zechariah 5:1-4](/bible/zechariah/5#v1)**  *[[54:08](https://www.youtube.com/watch?v=4fML805MO8A&t=3248s)]*
 
 > <sup>[1](/bible/zechariah/5#v1)</sup> Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 >
@@ -117,7 +117,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - America is a major thief, and an amazing liar: swearing that they are the Israelites, swearing In God We Trust while the very ground the courts sit on is stolen property.
 - I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: those that lied on the Bible, that told the nations the Bible was about them while the children of Israel suffered under their brutality. And it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof: fire and brimstone destruction. They know what those chariots represent.
 
-**[Jeremiah 23:7-8](/bible/jeremiah/23#v7)**  *[1:01:43]*
+**[Jeremiah 23:7-8](/bible/jeremiah/23#v7)**  *[[1:01:43](https://www.youtube.com/watch?v=4fML805MO8A&t=3703s)]*
 
 > <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
 >
@@ -125,7 +125,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 
 - The same prophecy again, and this one uses the word country: which brought up, and which led the seed of the house of Israel out of the north country. The Most High is coming back to take us home from the north country.
 
-**[Isaiah 14:15-17](/bible/isaiah/14#v15)**  *[1:03:20]*
+**[Isaiah 14:15-17](/bible/isaiah/14#v15)**  *[[1:03:20](https://www.youtube.com/watch?v=4fML805MO8A&t=3800s)]*
 
 > <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
 >
@@ -138,7 +138,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - Is this the man that made the earth to tremble, that did shake kingdoms: by dropping bombs on the kingdoms. Coming to another man's land and taking him out of his land while everybody stands by: that is the kind of terror we are talking about.
 - That made the world as a wilderness, and destroyed the cities thereof: destroyed the air, the water, and the people's minds. Folly is set in great dignity: when the wicked bear rule, the people mourn.
 
-**[2 Thessalonians 2:3-8](/bible/2-thessalonians/2#v3)**  *[1:10:28]*
+**[2 Thessalonians 2:3-8](/bible/2-thessalonians/2#v3)**  *[[1:10:28](https://www.youtube.com/watch?v=4fML805MO8A&t=4228s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 >
@@ -159,7 +159,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - For the mystery of iniquity doth already work: Paul takes it back to when they were literally under Rome. The wicked was already ruling; Paul was letting you know who the devil was.
 - Only he who now letteth will let, until he be taken out of the way: only the Lord who now allows him to rule will let him rule, and when their time is up, they are done. The sand is running out of the hourglass, and everyone who is tied up with them goes down with them.
 
-**[Revelation 17:5-11](/bible/revelation/17#v5)**  *[1:16:32]*
+**[Revelation 17:5-11](/bible/revelation/17#v5)**  *[[1:16:32](https://www.youtube.com/watch?v=4fML805MO8A&t=4592s)]*
 
 > <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
 >
@@ -183,7 +183,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - The seven heads are seven mountains, on which the woman sitteth: seven mountains means seven governments. And there are seven kings: five are fallen, and one is: Rome, the one that had John on the isle of Patmos, was in power; Greece, Spain, France, Germany, and Russia were not. And the other is not yet come; and when he cometh, he must continue a short space: Great Britain was still coming along.
 - And the beast that was, and is not, even he is the eighth, and is of the seven: America is of Great Britain and the rest of the seven heads. And goeth into perdition: this kingdom is going to be destroyed. That is the history of it, and there is no getting out of it.
 
-**[Revelation 12:10](/bible/revelation/12#v10)**  *[1:34:15]*
+**[Revelation 12:10](/bible/revelation/12#v10)**  *[[1:34:15](https://www.youtube.com/watch?v=4fML805MO8A&t=5655s)]*
 
 > <sup>[10](/bible/revelation/12#v10)</sup> And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 
@@ -191,7 +191,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - Clips from the film 1492: Conquest of Paradise were played: Columbus arguing that he could cross the ocean, and when asked how he could be so certain of the distance, citing his sources: the calculations of mariners, and Esdras. The Bible. Columbus had logbooks and records; he was looking for the twelve tribes of Israel. He knew there was land out there because he read the book. Movies are not made for our entertainment: they put things out there because they know our people are asleep, and they measure whether we are waking up. If too many wake up, they adjust the dope: the religion dope, the education dope, the television dope, the music. Once you think outside the box, they call you a radical, an extremist, a hate group: all of it designed to put you back in your place.
 - A lecture clip was played on the Huxtable effect: when positive images of our people were broadcast, test scores rose, 75 percent of black males graduated high school in 1990, and enrollment at Morehouse College went up 37 percent. Then came the opposite effect: scores went down, and by 2010 graduation had fallen to 47 percent. The music our people ask for is chosen by executives worth billions who market racist images of black people. It is the corporate sale of racism. Nothing is put out here for your entertainment: everything allowed to reach your ears and your screen is carefully sculpted to produce a thought, which becomes your actions, which become your destiny. They allowed the positive images as a test, saw that we respond to imagery, and then changed the music and the images to put us back to sleep: sweat equity.
 
-**[Judith 5:3-4, 17-21](/bible/judith/5#v3)**  *[2:01:40]*
+**[Judith 5:3-4, 17-21](/bible/judith/5#v3)**  *[[2:01:40](https://www.youtube.com/watch?v=4fML805MO8A&t=7300s)]*
 
 > <sup>[3](/bible/judith/5#v3)</sup> And he said unto them, Tell me now, ye sons of Chanaan, who this people is, that dwelleth in the hill country, and what are the cities that they inhabit, and what is the multitude of their army, and wherein is their power and strength, and what king is set over them, or captain of their army;
 >
@@ -215,7 +215,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them: that is what is happening today. As long as they can keep us in sin, they can exploit, dominate, rob, and pillage, and leave us in a wilderness of foolishness.
 - But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world. They do not want that to happen; that same knowledge persists even today. That is why they accuse us to the Father day and night, and why they operate the conditioning: they throw the rock and hide their hand, giving us the opportunity and the influence toward every evil, then standing back as though they had nothing to do with it. The Most High is going to deal with them for that; we have to get our minds right and repent.
 
-**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[2:11:58]*
+**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[[2:11:58](https://www.youtube.com/watch?v=4fML805MO8A&t=7918s)]*
 
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
@@ -280,4 +280,4 @@ A shout-out was given to Captain Gideon and Deacon Malachi for their programs ea
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-07-04-250-years-of-celebration-400-years-of-sweat-equity)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=4fML805MO8A)

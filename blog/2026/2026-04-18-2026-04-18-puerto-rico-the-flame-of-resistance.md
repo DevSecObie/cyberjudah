@@ -26,7 +26,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 
 ## Scriptures Opened
 
-**[Romans 15:4](/bible/romans/15#v4)**  *[21:46]*
+**[Romans 15:4](/bible/romans/15#v4)**  *[[21:46](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=1306s)]*
 
 > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -34,7 +34,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - We have to have patience and comfort with our people, because they get upset; they have never heard this truth before. Christ is black, the Israelites are black, Puerto Ricans are the tribe of Ephraim. So we deal with them patiently and comfort them through the scriptures, that we might have hope.
 - There is hope in these scriptures, because we are not going to win against an imperialist government with arms, with bombs, with guns. Through patience and comfort of the scriptures we have hope.
 
-**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[23:33]*
+**[Isaiah 34:16](/bible/isaiah/34#v16)**  *[[23:33](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=1413s)]*
 
 > <sup>[16](/bible/isaiah/34#v16)</sup> Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
 
@@ -42,28 +42,28 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - No one of these shall fail: the prophecy of what would happen to the tribe of Ephraim in these last days will not fail. We have the history and the books to back it up.
 - None shall want her mate: if the books do not align with the scriptures, we do not bring them out. We bring them out because they line up with what the scriptures say.
 
-**[Revelation 1:3](/bible/revelation/1#v3)**  *[24:49]*
+**[Revelation 1:3](/bible/revelation/1#v3)**  *[[24:49](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=1489s)]*
 
 > <sup>[3](/bible/revelation/1#v3)</sup> Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
 
 - Blessed is he that readeth. For a long time we would go to church and just sit there and let the pastor give us his rhetoric, and never read the scriptures for ourselves to see whether what he brought was true.
 - Blessed is he that readeth, because you do not get deceived, you do not get lied to.
 
-**[Daniel 9:2](/bible/daniel/9#v2)**  *[26:00]*
+**[Daniel 9:2](/bible/daniel/9#v2)**  *[[26:00](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=1560s)]*
 
 > <sup>[2](/bible/daniel/9#v2)</sup> In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
 
 - Daniel understood by books. If the books do not coincide with what the scriptures say, do not follow them.
 - This class shows with books, historical records, and the Bible who the tribe of Ephraim is, who Christ the black Messiah is, and who the devil is that deceived us and gave us a white Jesus and a white God, which is not found in the Bible.
 
-**[1 Kings 8:56](/bible/1-kings/8#v56)**  *[26:56]*
+**[1 Kings 8:56](/bible/1-kings/8#v56)**  *[[26:56](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=1616s)]*
 
 > <sup>[56](/bible/1-kings/8#v56)</sup> Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.
 
 - Blessed be the Lord, that hath given rest unto his people Israel. Unto Israel, not everybody. The people of God is Israel.
 - There hath not failed one word of all his good promise. The Bible is a true book: everything in it has come to pass and is coming to pass.
 
-**[Deuteronomy 28:15, 46, 64](/bible/deuteronomy/28#v15)**  *[28:34]*
+**[Deuteronomy 28:15, 46, 64](/bible/deuteronomy/28#v15)**  *[[28:34](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=1714s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 >
@@ -76,7 +76,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - They shall be upon thee for a sign, and for a wonder, and upon thy seed for ever. When we see these curses upon us, it is a sign to tell us who we are. We are not black, not Latino, not Native American, not Puerto Rican, not even Boriqua; we are the nation of Israel. The so-called Puerto Ricans are the tribe of Ephraim.
 - The Lord shall scatter thee among all people, from the one end of the earth even unto the other. You want to know how you got to that little island of Puerto Rico? The Most High scattered you there.
 
-**[Colossians 2:8](/bible/colossians/2#v8)**  *[37:44]*
+**[Colossians 2:8](/bible/colossians/2#v8)**  *[[37:44](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=2264s)]*
 
 > <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
@@ -86,7 +86,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - Reading from the man-made religions chart: Pope Nicholas V is the father of the transatlantic slave trade; John Smyth created the Baptist religion in 1608; Joseph Smith created the Mormon religion in 1830; William Miller created the Seventh Day Adventist religion in 1863; Charles T. Russell created the Jehovah's Witness religion in 1872; Charles Parham created the Pentecostal religion in 1901. We were still in slavery while these religions were being created. None of that is found in the scriptures. The Bible is the Israelites' history book, our laws, statutes, and commandments.
 - Throwback video played from the Bronx camp about 13 years ago: a so-called Puerto Rican wanted to put hands on the brothers for stepping on the image of a white Jesus. That is the effect of Roman Catholicism on the minds of our people.
 
-**[Revelation 6:2](/bible/revelation/6#v2)**  *[43:05]*
+**[Revelation 6:2](/bible/revelation/6#v2)**  *[[43:05](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=2585s)]*
 
 > <sup>[2](/bible/revelation/6#v2)</sup> And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.
 
@@ -97,21 +97,21 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - Book read in class, Modern Judaism by John Allen (1771 to 1839): the descendants of Esau, the sworn enemies of the descendants of Jacob even to the end of the world, were at first a small nation inhabiting Mount Seir; after the republic of the twelve tribes was destroyed by the Assyrians and Babylonians, they increased, spread their colonies, subjugated Italy, and founded Rome and the Roman Empire, which at length overturned the Jewish state, the second temple being destroyed by Titus Vespasian. Esau detains his brother Jacob in captivity until the Messiah, the son of David, shall appear. And Obadiah says there shall not be any remaining of the house of Esau; the slaughter of the Christians in the future battle will be greater than that of the Muhammadans, for many of the Turks will escape according to Isaiah 66:19.
 - Movie clip played, Apocalypto: the northern kingdom in idolatry, brother persecuting brother, until they stop in their tracks at the sight of the ships. The Nina, the Pinta, the Santa Maria: we know those names because they were ingrained in our brains in elementary school, singing about them every October 12th, commemorating our enslavement. And who came with the conquistadors? The Roman Catholic priests with the cross. The Tainos, the Boriquas, the Arawaks did not have Roman Catholicism; it was forced upon us.
 
-**[Isaiah 29:13](/bible/isaiah/29#v13)**  *[1:05:17]*
+**[Isaiah 29:13](/bible/isaiah/29#v13)**  *[[1:05:17](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=3917s)]*
 
 > <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
 - This people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me. We say we love God, we say Christ is our Lord and Savior, hallelujah, but we have removed our minds far from what the scriptures say.
 - That is why you have black priests holding up white men on the cross, and our women weeping over statues of white people. That is idol worship. Centuries and centuries of deception were forced upon our people; if we did not accept it we were put to death, and now we cry tears over it.
 
-**[Matthew 15:8](/bible/matthew/15#v8)**  *[1:07:29]*
+**[Matthew 15:8](/bible/matthew/15#v8)**  *[[1:07:29](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=4049s)]*
 
 > <sup>[8](/bible/matthew/15#v8)</sup> This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
 
 - Christ quotes Isaiah: this people draweth nigh unto me with their mouth, and honoureth me with their lips, but their heart is far from me. But in vain they do worship me, teaching for doctrines the commandments of men.
 - What do the commandments of men translate to this day? Roman Catholicism, Christianity, a white Jesus, a white God. Far from Christ.
 
-**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[1:10:15]*
+**[2 Corinthians 11:3-4](/bible/2-corinthians/11#v3)**  *[[1:10:15](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=4215s)]*
 
 > <sup>[3](/bible/2-corinthians/11#v3)</sup> But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
 >
@@ -121,7 +121,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - For if he that cometh preacheth another Jesus: who came preaching another Jesus? The conquistadors, Christopher Columbus, Ponce de Leon, Hernan Cortes. The priests were not far behind; they were necessary to indoctrinate the people. Esau knew how to control our people with the religion they created.
 - Images shown: 1923 Christmas cards mocking our people, and a Christian church pulpit surrounded by the Klan, the same men who were burning and lynching black people. Yet our people still think we can be united in the same church building and the same religion.
 
-**[Ecclesiasticus 12:10-12](/bible/sirach/12#v10)**  *[1:12:49]*
+**[Ecclesiasticus 12:10-12](/bible/sirach/12#v10)**  *[[1:12:49](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=4369s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 >
@@ -133,7 +133,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - Though he humble himself and go crouching, though he come bearing gifts in the name of Christianity, take good heed and beware of him. They come now with smiles and docile ways, but the wickedness is still there.
 - Pictures shown of the baptism of the Tainos by the Catholic priests, and of our people in Puerto Rico kneeling with rosary beads to a white image of the Virgin Mary and the baby Jesus with white saints behind them. That is what happens when you accept the white man's religion: you become docile, you become a slave in your mind.
 
-**[Revelation 1:1-3](/bible/revelation/1#v1)**  *[1:19:00]*
+**[Revelation 1:1-3](/bible/revelation/1#v1)**  *[[1:19:00](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=4740s)]*
 
 > <sup>[1](/bible/revelation/1#v1)</sup> The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 >
@@ -145,7 +145,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - The revelation of Jesus Christ, which God gave unto him to show unto his servants: John bore record of all things that he saw. Christ had to leave his image recorded for us in these last days, because in the last days they would come preaching another Jesus.
 - Blessed is he that readeth those records for himself, so a white image does not deceive him. With this Bible you cannot be deceived; you can cast down wicked imaginations and doctrines.
 
-**[Ephesians 1:1-5](/bible/ephesians/1#v1)**  *[1:21:50]*
+**[Ephesians 1:1-5](/bible/ephesians/1#v1)**  *[[1:21:50](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=4910s)]*
 
 > <sup>[1](/bible/ephesians/1#v1)</sup> Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 >
@@ -172,7 +172,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 
     My brethren, my kinsmen according to the flesh, who are Israelites, to whom pertaineth the adoption. Paul was talking to the twelve tribes scattered in Asia. That is who the adoption is for. Line upon line, here a little and there a little: this is how you get the understanding.
 
-**[Revelation 1:11-15](/bible/revelation/1#v11)**  *[1:25:45]*
+**[Revelation 1:11-15](/bible/revelation/1#v11)**  *[[1:25:45](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=5145s)]*
 
 > <sup>[11](/bible/revelation/1#v11)</sup> Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
 >
@@ -203,7 +203,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 
     As newborn babes, desire the sincere milk of the word. Christ's teeth were white with milk because he came teaching the laws.
 
-**[Genesis 41:50-52](/bible/genesis/41#v50)**  *[1:43:14]*
+**[Genesis 41:50-52](/bible/genesis/41#v50)**  *[[1:43:14](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=6194s)]*
 
 > <sup>[50](/bible/genesis/41#v50)</sup> And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Poti–pherah priest of On bare unto him.
 >
@@ -214,7 +214,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - Joseph is the father of the two tribes, Manasseh and Ephraim, born in Egypt after his brothers sold him into slavery out of jealousy, because he was his father's favorite.
 - Manasseh means made to forget: God hath made me forget all my toil. Ephraim: God hath caused me to be fruitful in the land of my affliction. One of the blessings of Ephraim, the so-called Puerto Ricans, is to have many children.
 
-**[Genesis 48:11-20](/bible/genesis/48#v11)**  *[1:44:53]*
+**[Genesis 48:11-20](/bible/genesis/48#v11)**  *[[1:44:53](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=6293s)]*
 
 > <sup>[11](/bible/genesis/48#v11)</sup> And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.
 >
@@ -241,7 +241,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - Joseph was displeased and tried to move his father's hand, and Israel refused: I know it, my son, I know it. Manasseh also shall become a people, and he also shall be great; but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations. And he set Ephraim before Manasseh: Ephraim is the head tribe of the northern kingdom.
 - Reading shown on the multitude of nations: as of recent estimates, roughly two thirds of people of Puerto Rican origin live in the fifty states and the District of Columbia rather than on the island, about 6 million on the mainland and only about 3 million on the island. That is displacement, and it also shows Ephraim scattered as a multitude; you find Ephraimites even in Hawaii, sent there to work the sugarcane fields.
 
-**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[1:52:56]*
+**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[[1:52:56](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=6776s)]*
 
 > <sup>[36](/bible/deuteronomy/28#v36)</sup> The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.
 
@@ -250,7 +250,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - That is what we have to do: take care of our communities ourselves, plant, grow, have some self worth. Common unity, community, all things common like it says in Acts 2 and Acts 4.
 - Video played on Lorain, Ohio: in 1947 Puerto Rico's legislature passed Public Law 89, and the migration division opened, a state run pipeline shipping tens of thousands of workers a year to mainland farms and steel mills in Lorain, Gary, Bridgeport, and Holyoke. They built churches and bodegas and raised families; then the mills closed, urban renewal bulldozed their blocks, and the community was allowed to vanish from the map. Recruited, used, and erased. You shall be scattered, and it was with ships, like the scripture says.
 
-**[2 Esdras 13:12](/bible/2-esdras/13#v12)**  *[1:56:50]*
+**[2 Esdras 13:12](/bible/2-esdras/13#v12)**  *[[1:56:50](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=7010s)]*
 
 > <sup>[12](/bible/2-esdras/13#v12)</sup> Afterward saw I the same man come down from the mountain, and call unto him another peaceable Multitude.
 
@@ -263,7 +263,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 
     The historian Duran found confirmation in the promise that the number of the children of Israel shall be as the sand of the sea: surely, he argued, this promise was fulfilled by the multitudes the Spanish found in the new world. He also noted the traditions of long journeys like the one from Assyria to Arzareth, traditions of flights like the Exodus from Egypt, manna falling from heaven, and an old man who began the tale of his people's origins with the words in the beginning, roughly parallel to Genesis. Why would so-called Indians be quoting the Bible unless they were Israelites?
 
-**[2 Esdras 13:39-45](/bible/2-esdras/13#v39)**  *[1:57:30]*
+**[2 Esdras 13:39-45](/bible/2-esdras/13#v39)**  *[[1:57:30](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=7050s)]*
 
 > <sup>[39](/bible/2-esdras/13#v39)</sup> And whereas thou sawest that he gathered another peaceable multitude unto him;
 >
@@ -299,13 +299,13 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 
     The Most High stirred up the spirit of Cyrus king of Persia in 539 BC, that the word of the Lord by the mouth of Jeremiah might be fulfilled. Who is there among you of all his people? His God be with him, and let him go up to Jerusalem and build the house of the Lord God of Israel. Cyrus gave us freedom to go back; the ten tribes instead took counsel to go into a further country.
 
-**[Genesis 49:1](/bible/genesis/49#v1)**  *[2:23:01]*
+**[Genesis 49:1](/bible/genesis/49#v1)**  *[[2:23:01](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=8581s)]*
 
 > <sup>[1](/bible/genesis/49#v1)</sup> And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 
 - Jacob called unto his sons: gather yourselves together, that I may tell you that which shall befall you in the last days. The last days run from the time Christ walked the earth until now.
 
-**[Genesis 49:22-25](/bible/genesis/49#v22)**  *[2:23:35]*
+**[Genesis 49:22-25](/bible/genesis/49#v22)**  *[[2:23:35](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=8615s)]*
 
 > <sup>[22](/bible/genesis/49#v22)</sup> Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:
 >
@@ -324,7 +324,7 @@ Boriqua is a term of pride used by Puerto Ricans to identify themselves, from Bo
 - Interview shown from the first Puerto Rico trip in 2017: Israel United in Christ interviewed Dr. Reniel Rodriguez, professor of archaeology in Puerto Rico, holding ancient relics with Hebrew writings etched in them, found in Puerto Rico. He said it would change the history of Puerto Rico. Scholars try to denounce the stones, but these things need to be documented and studied, because this is the history our people kept.
 - Book read in class, Christopher Columbus and the Participation of the Jews: Columbus was very fond of reading the Bible and the fourth book of Ezra; the incentive that impelled him to plan his discoveries was not a love of science but his interpretation of the prophecies. In Cuba, Espanola, and the other islands, Columbus found natives with their caciques, and several writers asserted, with much learning, that the aborigines were descendants of the Jews, a result reached already in the sixteenth century. The clergyman's chief argument is the language of the Indians in Espanola, Cuba, Jamaica, and the adjoining islands: he calls it corrupted Hebrew, and asserts that names like Cuba and Haiti are Hebrew, along with names of rivers and persons, Yaque from Jacob, and the names of their tools and canoes and the storehouses for grain, all pointing to the Hebrew language. Brothers and sisters, we are the Israelites.
 
-**[1 Corinthians 4:9](/bible/1-corinthians/4#v9)**  *[2:40:19]*
+**[1 Corinthians 4:9](/bible/1-corinthians/4#v9)**  *[[2:40:19](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=9619s)]*
 
 > <sup>[9](/bible/1-corinthians/4#v9)</sup> For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.
 
@@ -355,4 +355,4 @@ Media played: the mini movie on the conquest of the caciques, the Apocalypto cli
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-04-18-puerto-rico-the-flame-of-resistance)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=YVvCyl2ZZUQ)

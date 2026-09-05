@@ -33,7 +33,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 
 ## Scriptures Opened
 
-**[Deuteronomy 11:8-16](/bible/deuteronomy/11#v8)**  *[41:35]*
+**[Deuteronomy 11:8-16](/bible/deuteronomy/11#v8)**  *[[41:35](https://www.youtube.com/watch?v=tsdO9OrUI54&t=2495s)]*
 
 > <sup>[8](/bible/deuteronomy/11#v8)</sup> Therefore shall ye keep all the commandments which I command you this day, that ye may be strong, and go in and possess the land, whither ye go to possess it;
 >
@@ -79,7 +79,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - There's nowhere in the Bible that says there is a white Jesus. They made him up in the 14th century during the Renaissance period, and told us that he is our savior. That's how they modified your behavior: by telling you that a white man is your savior. The brothers traveling report the hardest thing they run into is trying to tell oppressed people that Jesus Christ is not a white man.
 - Christ started his own ministry; he did not join with the church when he walked the earth. Matthew 10:5: these twelve Jesus sent forth, saying, Go not into the way of the Gentiles, but go rather to the lost sheep of the house of Israel. Why were we lost? Cuz we broke covenant. And as ye go, preach, saying, The kingdom of heaven is at hand. That's God's plan for the Israelite man, and that's the only way we'll stand: by telling our people, you're not black, you're not Hispanic, you're not West Indian, you're not Haitian, you're not African; you are the lost sheep of the house of Israel.
 
-**[Deuteronomy 28:1-6](/bible/deuteronomy/28#v1)**  *[56:35]*
+**[Deuteronomy 28:1-6](/bible/deuteronomy/28#v1)**  *[[56:35](https://www.youtube.com/watch?v=tsdO9OrUI54&t=3395s)]*
 
 > <sup>[1](/bible/deuteronomy/28#v1)</sup> And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:
 >
@@ -97,7 +97,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Blessed shalt thou be in the city, and blessed shalt thou be in the field: we think blessings in the city and the field is whatever white people give us. You have no cities, you have no fields; they could cut you off at any time. You're not living, you're surviving.
 - Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle: those are the things we worry about, our health, our finances, our food. Blessed shall be thy basket and thy store: our finances. Blessed when thou comest in and when thou goest out: from when we're born until we leave the earth.
 
-**[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[58:16]*
+**[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[[58:16](https://www.youtube.com/watch?v=tsdO9OrUI54&t=3496s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 >
@@ -107,7 +107,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Cursed shalt thou be in the city: that's why in your cities right now there's drugs, violence, alcoholism, domestic violence, police brutality, gangbanging, mental illness; the rents going up and up and our salaries stay down.
 - Cursed shalt thou be in the field: we own no more fields, and when we was in the fields, what were we doing? Picking cotton, sugarcane, tobacco. They sent us into mines in Africa and mutilated workers who didn't meet the quota. They massacred the Native American Indians that were here before and broke all the treaties with them. Ain't nothing changed; the only thing that's changed is when we tell you this is what it says in the Bible, you look at it strange.
 
-**[Deuteronomy 28:30-32](/bible/deuteronomy/28#v30)**  *[1:00:39]*
+**[Deuteronomy 28:30-32](/bible/deuteronomy/28#v30)**  *[[1:00:39](https://www.youtube.com/watch?v=tsdO9OrUI54&t=3639s)]*
 
 > <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
 >
@@ -124,7 +124,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: imagine the psychological trauma when your children are taken from you at birth and given off to another plantation. Northern kingdom, they're separating your children as we speak; but you're saying these curses don't fit you.
 - And there shall be no might in thine hand: that's why we need God. We got to rise up as the Israelite man according to God's plan; that's the only way we going to stand.
 
-**[Deuteronomy 28:43-50](/bible/deuteronomy/28#v43)**  *[1:09:15]*
+**[Deuteronomy 28:43-50](/bible/deuteronomy/28#v43)**  *[[1:09:15](https://www.youtube.com/watch?v=tsdO9OrUI54&t=4155s)]*
 
 > <sup>[43](/bible/deuteronomy/28#v43)</sup> The stranger that is within thee shall get up above thee very high; and thou shalt come down very low.
 >
@@ -150,7 +150,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - The Lord shall bring a nation against thee from far, as swift as the eagle flieth: what's the symbol of the United States of America? The eagle, on the dollar bill, on the quarter, on their military. When they landed on the moon they said, the eagle has landed.
 - A nation whose tongue thou shalt not understand: that's why they forced us to speak English. The New Testament is written in Greek because the Caucasians that enslaved us first under Alexander the Greek forced us to speak Greek, 300 years before Christ came. That's why Paul says there's no difference between the Jew and the Greek: he's talking to us. A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young: they don't care if you're young or old, they want to control your soul.
 
-**[1 Kings 2:1-4](/bible/1-kings/2#v1)**  *[1:16:55]*
+**[1 Kings 2:1-4](/bible/1-kings/2#v1)**  *[[1:16:55](https://www.youtube.com/watch?v=tsdO9OrUI54&t=4615s)]*
 
 > <sup>[1](/bible/1-kings/2#v1)</sup> Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,
 >
@@ -165,7 +165,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - That thou mayest prosper in all that thou doest: that's how we prosper, when we keep God's laws. As a transfer of power comes from King David to his son, he said, follow what's written in the law of Moses, what we read in Deuteronomy.
 - To walk before me in truth: because America's fake. They're prospering because you're not prospering; as long as they have you in their power, they will continue to devour. There shall not fail thee a man upon the throne of Israel: the throne is how we rule. That's why they destroy our leaders and get rid of our teachers, cuz they know once you got men teaching this, a kingdom is being established. That's why they reprogram our black women to make them feel empowered and strong, so they could do everything wrong.
 
-**[Genesis 3:1-5](/bible/genesis/3#v1)**  *[1:20:42]*
+**[Genesis 3:1-5](/bible/genesis/3#v1)**  *[[1:20:42](https://www.youtube.com/watch?v=tsdO9OrUI54&t=4842s)]*
 
 > <sup>[1](/bible/genesis/3#v1)</sup> Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 >
@@ -181,7 +181,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - How was Satan able to deceive? He promised her she would be on a god-like level. She didn't need nothing; she was in paradise, and her husband was a god. But Satan saw something inside of women where you can take control of their emotions and pull them away from God's devotion.
 - That's why Satan targeted Eve in the garden: this is how you disrupt the balance of life. By telling women that they could be stronger than what God designed them to be, to pull them out of their God-given divine nature. That's how you start a war: you take women out of their divine nature and write checks to them that you cannot cash. They're following Satan today, cuz America's doing the same thing.
 
-**[Isaiah 3:12](/bible/isaiah/3#v12)**  *[1:23:27]*
+**[Isaiah 3:12](/bible/isaiah/3#v12)**  *[[1:23:27](https://www.youtube.com/watch?v=tsdO9OrUI54&t=5007s)]*
 
 > <sup>[12](/bible/isaiah/3#v12)</sup> As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
 
@@ -189,7 +189,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - And women rule over them: women want to be in a position of power, full control. The court system is designed for them, the legal system is designed for them, the benefits are designed for them, and that's what makes them feel empowered: now I am a strong black woman.
 - O my people, they which lead thee cause thee to err: God is supposed to lead us, but a system is leading us now. The system started with Adam and Eve in the garden. Satan took Eve out of her God-given divine nature and turned her against God, against her husband, and against the nation. So now, through God's teaching, we got to bring our women back.
 
-**[1 Timothy 2:11-15](/bible/1-timothy/2#v11)**  *[1:25:15]*
+**[1 Timothy 2:11-15](/bible/1-timothy/2#v11)**  *[[1:25:15](https://www.youtube.com/watch?v=tsdO9OrUI54&t=5115s)]*
 
 > <sup>[11](/bible/1-timothy/2#v11)</sup> Let the woman learn in silence with all subjection.
 >
@@ -207,7 +207,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Notwithstanding she shall be saved in childbearing: cuz we can't do it without our women. If they continue in faith and charity and holiness with sobriety: a lot of you women are not going to continue. Sobriety means you're in your right mind; the strong independent woman is not in her right mind.
 - Destruction is coming here, as you read in Amos chapter 9 verse 8, and you strong independent black women who don't want to listen to what God got to say, judgment is coming your way.
 
-**[1 Corinthians 14:34-35](/bible/1-corinthians/14#v34)**  *[1:31:46]*
+**[1 Corinthians 14:34-35](/bible/1-corinthians/14#v34)**  *[[1:31:46](https://www.youtube.com/watch?v=tsdO9OrUI54&t=5506s)]*
 
 > <sup>[34](/bible/1-corinthians/14#v34)</sup> Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.
 >
@@ -219,7 +219,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Video shown in class: a young woman and her crew destroyed a McDonald's, then she came back in to record the damage for Instagram. Does this look like a woman that cares about God or authority? She ain't worried about no consequences. This is the strong black independent woman that America has made.
 - Video shown in class: a woman in Maryland shot at a man in a gas station, then went live to announce it, saying the police have no authority on her earth, that she steals everything, and quoting scripture the whole time. This is how far we've fallen, because the women don't listen to God when he's calling. They arrested her that week.
 
-**[Isaiah 3:16-25](/bible/isaiah/3#v16)**  *[1:42:08]*
+**[Isaiah 3:16-25](/bible/isaiah/3#v16)**  *[[1:42:08](https://www.youtube.com/watch?v=tsdO9OrUI54&t=6128s)]*
 
 > <sup>[16](/bible/isaiah/3#v16)</sup> Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:
 >
@@ -246,7 +246,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Instead of a sweet smell there shall be stink, and instead of a girdle a rent: y'all would be disfigured and smell bad when the captivity happens. Instead of well set hair baldness: that's why y'all so obsessed with your hair now, and other nations have made it a multi-billion dollar industry. And burning instead of beauty: that's why there's so much cosmetic surgery now. The industry destroys our women and tells them surgery is the standard of what beauty is supposed to look like. God is showing you where you went wrong when you decided that you're the one who's strong.
 - Thy men shall fall by the sword, and thy mighty in the war: on top of bringing the women down low, he said, I'm going to get your men also. The other nations enslaved us, changed us, and renamed us with the sword. So now the black woman looks at us as weak, inferior, a nobody. This is why we have to train them to look at us through God's eyes. You women are not strong by yourself: Eve was great in the garden because Adam was mighty.
 
-**[2 Kings 9:1-25](/bible/2-kings/9#v1)**  *[1:49:12]*
+**[2 Kings 9:1-25](/bible/2-kings/9#v1)**  *[[1:49:12](https://www.youtube.com/watch?v=tsdO9OrUI54&t=6552s)]*
 
 > <sup>[1](/bible/2-kings/9#v1)</sup> And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramoth–gilead:
 >
@@ -304,7 +304,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Joram, the son of Ahab and Jezebel, rode out to meet Jehu and asked, Is it peace, Jehu? And he answered, What peace, so long as the whoredoms of thy mother Jezebel and her witchcrafts are so many? There's no peace as long as you got a wicked woman in power. And that's what America likes to do: set up wicked women and empower women that go against God.
 - Joram turned his hands and fled, saying, There is treachery, O Ahaziah. And Jehu drew a bow with his full strength and smote Jehoram between his arms, and the arrow went out at his heart.
 
-**[2 Kings 9:30-37](/bible/2-kings/9#v30)**  *[2:03:00]*
+**[2 Kings 9:30-37](/bible/2-kings/9#v30)**  *[[2:03:00](https://www.youtube.com/watch?v=tsdO9OrUI54&t=7380s)]*
 
 > <sup>[30](/bible/2-kings/9#v30)</sup> And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her face, and tired her head, and looked out at a window.
 >
@@ -327,7 +327,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Jehu lifted up his face to the window and said, Who is on my side? Who? And two or three eunuchs looked out, and he said, Throw her down. They went to bury her, but they found no more of her than the skull, and the feet, and the palms of her hands: exactly as God had spoken by his servant Elijah the Tishbite. This is the stuff they will never read in the Christian church.
 - This is history of what happened, and there's also prophecy concerning what God says about the rebellious now. God is not with these emotions; God don't care if it's a woman. You put yourself in the wrong position against his instruction for the nation, God will address it.
 
-**[2 Kings 8:26-29](/bible/2-kings/8#v26)**  *[2:07:56]*
+**[2 Kings 8:26-29](/bible/2-kings/8#v26)**  *[[2:07:56](https://www.youtube.com/watch?v=tsdO9OrUI54&t=7676s)]*
 
 > <sup>[26](/bible/2-kings/8#v26)</sup> Two and twenty years old was Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother’s name was Athaliah, the daughter of Omri king of Israel.
 >
@@ -339,7 +339,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 
 - Another wicked woman that used the men around her to manipulate the people of Israel: Athaliah. Her son Ahaziah reigned one year in Jerusalem, and he walked in the way of the house of Ahab, and did evil in the sight of the Lord, for he was the son in law of the house of Ahab.
 
-**[2 Kings 11:1-8](/bible/2-kings/11#v1)**  *[2:09:42]*
+**[2 Kings 11:1-8](/bible/2-kings/11#v1)**  *[[2:09:42](https://www.youtube.com/watch?v=tsdO9OrUI54&t=7782s)]*
 
 > <sup>[1](/bible/2-kings/11#v1)</sup> And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.
 >
@@ -361,7 +361,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - But Jehosheba took Joash, the son of Ahaziah, and stole him from among the king's sons that were slain, and hid him and his nurse in the house of the Lord six years. They had to hide that little boy, cuz this is how wicked women are: to stay in power, they'll destroy the men.
 - In the seventh year Jehoiada the priest brought the rulers over hundreds into the house of the Lord, made a covenant with them, showed them the king's son, and set armed guards around him on every side: and he that cometh within the ranges, let him be slain.
 
-**[2 Kings 11:12-16](/bible/2-kings/11#v12)**  *[2:13:22]*
+**[2 Kings 11:12-16](/bible/2-kings/11#v12)**  *[[2:13:22](https://www.youtube.com/watch?v=tsdO9OrUI54&t=8002s)]*
 
 > <sup>[12](/bible/2-kings/11#v12)</sup> And he brought forth the king’s son, and put the crown upon him, and gave him the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.
 >
@@ -377,7 +377,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Athaliah rent her clothes and cried, Treason, Treason. She just killed all the royal seed, and when they anoint the rightful king, she screams treason. When you try to restore order, that's how some women look at you, like it's treason against them; they don't see that they're out of order.
 - Jehoiada the priest commanded, Have her forth without the ranges, and him that followeth her kill with the sword; let her not be slain in the house of the Lord. And they laid hands on her, and by the way the horses came into the king's house, there was she slain. That was the restoring of order: twice in the history, when wicked women rose up in power to devour, God sent men of the Lord to remove them for not listening to what God got to say.
 
-**[1 Samuel 25:25-43](/bible/1-samuel/25#v25)**  *[2:17:15]*
+**[1 Samuel 25:25-43](/bible/1-samuel/25#v25)**  *[[2:17:15](https://www.youtube.com/watch?v=tsdO9OrUI54&t=8235s)]*
 
 > <sup>[25](/bible/1-samuel/25#v25)</sup> Let not my lord, I pray thee, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.
 >
@@ -424,7 +424,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - She told Nabal nothing till the morning light, cuz he was drunk; when the wine was gone out of him and she told him, his heart died within him, and about ten days after, the Lord smote Nabal that he died. Sometimes you got to let God handle your beef. Like with the SPLC, the Lord is going to return their wickedness on their own head.
 - David sent and communed with Abigail, to take her to him to wife, and she bowed herself and said, let thine handmaid be a servant to wash the feet of the servants of my lord. Even attached to a wicked man, she still was in a place of humility. Some of you are not wicked; you're getting the title because of who you're attached to. Read your Bible and make your decision; draw your strength from the scripture.
 
-**[Ezra 9:12-15](/bible/ezra/9#v12)**  *[2:31:16]*
+**[Ezra 9:12-15](/bible/ezra/9#v12)**  *[[2:31:16](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9076s)]*
 
 > <sup>[12](/bible/ezra/9#v12)</sup> Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave it for an inheritance to your children for ever.
 >
@@ -438,31 +438,31 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Give not your daughters unto their sons, neither take their daughters unto your sons: that's the law. Nor seek their peace or their wealth for ever, that ye may be strong: that's how you're strong, by staying within your own nation. When you stick with your own people, you strengthen your race; when you go and sleep with another nation, you weaken yourself and your race.
 - Should we again break thy commandments, and join in affinity with the people of these abominations? When you abandon your nation, that's an abomination. Wouldest not thou be angry with us till thou hadst consumed us? God will create bad conditions for you and judgment will come your way.
 
-**[Proverbs 14:1](/bible/proverbs/14#v1)**  *[2:34:38]*
+**[Proverbs 14:1](/bible/proverbs/14#v1)**  *[[2:34:38](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9278s)]*
 
 > <sup>[1](/bible/proverbs/14#v1)</sup> Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
 
 - Every wise woman buildeth her house: but the foolish plucketh it down with her hands. Wisdom is according to the commandments. A foolish woman is going to use her own hands to find her own man and do her own thing; she ain't going to listen to what the scriptures say.
 
-**[Proverbs 11:16](/bible/proverbs/11#v16)**  *[2:35:06]*
+**[Proverbs 11:16](/bible/proverbs/11#v16)**  *[[2:35:06](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9306s)]*
 
 > <sup>[16](/bible/proverbs/11#v16)</sup> A gracious woman retaineth honour: and strong men retain riches.
 
 - A gracious woman retaineth honour: and strong men retain riches. The way strong men do things to keep their riches, a gracious woman will retain her honor, and her honor is dependent on her being obedient to God's laws.
 
-**[Ecclesiasticus 7:19](/bible/sirach/7#v19)**  *[2:35:32]*
+**[Ecclesiasticus 7:19](/bible/sirach/7#v19)**  *[[2:35:32](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9332s)]*
 
 > <sup>[19](/bible/sirach/7#v19)</sup> Forego not a wise and good woman: for her grace is above gold.
 
 - Forgo not a wise and good woman: for her grace is above gold. When you have a wise woman according to the scriptures, the grace God has bestowed upon her is more valuable than gold.
 
-**[Proverbs 12:4](/bible/proverbs/12#v4)**  *[2:36:01]*
+**[Proverbs 12:4](/bible/proverbs/12#v4)**  *[[2:36:01](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9361s)]*
 
 > <sup>[4](/bible/proverbs/12#v4)</sup> A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.
 
 - A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones. Video played in class: a married woman announcing that she hates men, that her marriage is not patriarchal but matriarchal, that it's a girl's world and her husband just lives in it, and that women deciding to decenter men entirely is something she applauds. I just wanted y'all to know that women like this exist, and the video got a lot of likes. Only a weak man lets a woman come and say that; some of you men are married to strong independent women cuz you're weak, and they control how you think.
 
-**[Proverbs 31:10-15](/bible/proverbs/31#v10)**  *[2:42:06]*
+**[Proverbs 31:10-15](/bible/proverbs/31#v10)**  *[[2:42:06](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9726s)]*
 
 > <sup>[10](/bible/proverbs/31#v10)</sup> Who can find a virtuous woman? for her price is far above rubies.
 >
@@ -480,7 +480,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - The heart of her husband doth safely trust in her: you men that got women that want to keep these commandments, that's value God said is far above rubies, so don't mistreat them.
 - She worketh willingly with her hands: because she's not there for a payday, to live off the man. She riseth also while it is yet night, and giveth meat to her household: she's concerned with being the way God designed her to be, a good wife to her husband and a caretaker of the home. This is what we need to instill in our women and bring that back.
 
-**[Wisdom of Solomon 4:1-6](/bible/wisdom-of-solomon/4#v1)**  *[2:44:02]*
+**[Wisdom of Solomon 4:1-6](/bible/wisdom-of-solomon/4#v1)**  *[[2:44:02](https://www.youtube.com/watch?v=tsdO9OrUI54&t=9842s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/4#v1)</sup> Better it is to have no children, and to have virtue: for the memorial thereof is immortal: because it is known with God, and with men.
 >
@@ -499,21 +499,21 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - But the multiplying brood of the ungodly shall not thrive, nor take deep rooting from bastard slips: you'll have women that say, I don't need no man, and they got a whole bunch of kids and no man. Though they flourish in branches for a time, standing not fast, they shall be shaken with the wind: when life hits and trials come, those kids fall, cuz a sure foundation is a loving husband and a loving wife.
 - For children begotten of unlawful beds are witnesses of wickedness against their parents in their trial: even what they call in vitro with strange DNA from a sperm bank, taking another man's seed and not caring where it came from, that's not according to God.
 
-**[Ecclesiasticus 4:10](/bible/sirach/4#v10)**  *[2:50:31]*
+**[Ecclesiasticus 4:10](/bible/sirach/4#v10)**  *[[2:50:31](https://www.youtube.com/watch?v=tsdO9OrUI54&t=10231s)]*
 
 > <sup>[10](/bible/sirach/4#v10)</sup> Be as a father unto the fatherless, and instead of an husband unto their mother: so shalt thou be as the son of the most High, and he shall love thee more than thy mother doth.
 
 - This is for you women in this truth that are single mothers, not by choice or because you didn't know the truth. I'm not tearing you down; I was tearing down the strong independent woman that says, I don't need no man, I can raise these kids by myself.
 - Be as a father unto the fatherless, and instead of an husband unto their mother: so shalt thou be as the son of the most High. The righteous men in this truth are thinking like this: be role models to the children that don't have a man of God in their life. Let the men groom your children so they'll be successful serving God and won't be a statistic. Don't just think, I need to find a baby daddy; if it happens, fine, but that should not be the first thing on your mind. And you men should not be trying to take advantage of the women that are single mothers.
 
-**[Proverbs 31:30](/bible/proverbs/31#v30)**  *[2:52:17]*
+**[Proverbs 31:30](/bible/proverbs/31#v30)**  *[[2:52:17](https://www.youtube.com/watch?v=tsdO9OrUI54&t=10337s)]*
 
 > <sup>[30](/bible/proverbs/31#v30)</sup> Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.
 
 - Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised. In the world you may get favor because of your beauty, but it's deceitful, and your beauty is vanity cuz eventually you're going to get old. A woman that feareth the Lord shall be praised till the day that she dies.
 - A lot of these strong independent women on social media, everything is about their body and all they want is attention. But the woman of God is praised because of her attributes of God.
 
-**[1 Peter 3:3-4](/bible/1-peter/3#v3)**  *[2:53:25]*
+**[1 Peter 3:3-4](/bible/1-peter/3#v3)**  *[[2:53:25](https://www.youtube.com/watch?v=tsdO9OrUI54&t=10405s)]*
 
 > <sup>[3](/bible/1-peter/3#v3)</sup> Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;
 >
@@ -523,7 +523,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - But let it be the hidden man of the heart: that's what this ministry is for, to bring out the attributes of Christ. He's hidden in your heart, and that's where you need to start. In that which is not corruptible, even the ornament of a meek and quiet spirit: your strength is in the wisdom of God and having a meek and quiet spirit, not tearing up a McDonald's or pulling guns in a store or arguing with men in the street.
 - Even if your beauty fades or you get old in this truth, God is going to restore it back to you. You can't get that in the world; the world's industry destroys women with surgery after surgery chasing a manufactured standard of beauty.
 
-**[Ecclesiasticus 36:22-23](/bible/sirach/36#v22)**  *[2:57:10]*
+**[Ecclesiasticus 36:22-23](/bible/sirach/36#v22)**  *[[2:57:10](https://www.youtube.com/watch?v=tsdO9OrUI54&t=10630s)]*
 
 > <sup>[22](/bible/sirach/36#v22)</sup> The beauty of a woman cheereth the countenance, and a man loveth nothing better.
 >
@@ -532,7 +532,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - The beauty of a woman cheereth the countenance, and a man loveth nothing better: that's why we encourage our women to look your best. Look your best, but don't lead with that; the primary thing you should lead with is the hidden man of the heart.
 - Bishop: the stipulation is in verse 23. If there be kindness, meekness, and comfort in her tongue, then is not her husband like other men: it's the way she talks to her husband that makes the beauty stand out. Her husband is going to be happy; he's not going to be the brother sitting in the car for half an hour before he goes in the house after work, or staying out cuz he don't want to come home.
 
-**[Ezekiel 13:17-21](/bible/ezekiel/13#v17)**  *[3:03:10]*
+**[Ezekiel 13:17-21](/bible/ezekiel/13#v17)**  *[[3:03:10](https://www.youtube.com/watch?v=tsdO9OrUI54&t=10990s)]*
 
 > <sup>[17](/bible/ezekiel/13#v17)</sup> Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,
 >
@@ -549,7 +549,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Behold, I am against your pillows, and I will tear them from your arms, and will let the souls go: how? With us teaching the right doctrine, freeing our people from these evil examples of what strong is supposed to be.
 - And ye shall know that I am the Lord: you're going to find out who God is when his men are raised up before you, teaching against the things America has taught you and against these lying religious denominations.
 
-**[Isaiah 13:12-15](/bible/isaiah/13#v12)**  *[3:08:07]*
+**[Isaiah 13:12-15](/bible/isaiah/13#v12)**  *[[3:08:07](https://www.youtube.com/watch?v=tsdO9OrUI54&t=11287s)]*
 
 > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 >
@@ -563,7 +563,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - They shall every man turn to his own people, and flee every one into his own land: that's what you're seeing now, a division of the races, and everybody going to their right places. As Israelites we got to return back to the Lord.
 - Every one that is found shall be thrust through: when this prophecy unfolds, you better make sure you're on the right side.
 
-**[Isaiah 32:9-17](/bible/isaiah/32#v9)**  *[3:10:09]*
+**[Isaiah 32:9-17](/bible/isaiah/32#v9)**  *[[3:10:09](https://www.youtube.com/watch?v=tsdO9OrUI54&t=11409s)]*
 
 > <sup>[9](/bible/isaiah/32#v9)</sup> Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.
 >
@@ -620,4 +620,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-05-02-are-you-a-strong-independent-woman)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=tsdO9OrUI54)
