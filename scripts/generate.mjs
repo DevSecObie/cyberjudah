@@ -542,6 +542,12 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
       title: n.title, url: n.url, date: n.date, year: n.year,
       thumb: !id ? "" : localThumb.get(id) ? `/img/${feed.dir}/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
       books: w.filter(([, c]) => c >= cut).slice(0, 4).map(([b]) => b),
+      // Every book the note opens, not just the ones prominent enough for the card, so the
+      // browse page can filter on a book that a class touched once.
+      allBooks: w.map(([b]) => b),
+      topics: n.topics ?? [],
+      teacher: n.teacher ?? "",
+      estimated: !!n.dateEstimated,
     };
   }));
 }

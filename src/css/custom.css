@@ -504,6 +504,30 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
 .cj-card-meta { margin: 0; font-family: var(--ifm-font-family-monospace); font-size: .7rem;
   line-height: 1.5; letter-spacing: .04em; color: var(--cj-tertiary); }
 
+/* Native control, themed to sit with the chips: 81 books and a growing list of teachers are
+   too many for a chip row. */
+.cj-select { background: none; border: 1px solid var(--ifm-color-emphasis-200); border-radius: 2rem;
+  padding: .24rem 1.6rem .24rem .72rem; cursor: pointer; font-family: var(--ifm-font-family-monospace);
+  font-size: .74rem; color: var(--ifm-color-emphasis-600); appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: right .78rem center, right .54rem center; background-size: .24rem .24rem; background-repeat: no-repeat;
+  transition: color .16s, border-color .16s; }
+.cj-select:hover, .cj-select:focus { color: var(--ifm-font-color-base); border-color: var(--cj-tertiary); outline: none; }
+.cj-select option { background: var(--ifm-background-surface-color); color: var(--ifm-font-color-base); }
+
+/* The tags on a card are buttons that narrow the list, so they have to sit above the
+   title link's full-card overlay (see .cj-card h2 a::after above) or the overlay eats the
+   click and opens the class instead of filtering. */
+.cj-card-topics { position: relative; z-index: 1; margin: .45rem 0 0; display: flex; flex-wrap: wrap; gap: .3rem .34rem; }
+.cj-tag { background: none; border: 1px solid var(--ifm-color-emphasis-200); border-radius: 2rem;
+  padding: .1rem .5rem; cursor: pointer; font-family: var(--ifm-font-family-monospace); font-size: .64rem;
+  letter-spacing: .04em; color: var(--cj-tertiary); transition: color .16s, border-color .16s, background .16s; }
+.cj-tag:hover { color: var(--ifm-font-color-base); border-color: var(--cj-tertiary); }
+.cj-tag[data-on] { color: var(--ifm-background-color); background: var(--ifm-color-primary); border-color: var(--ifm-color-primary); }
+
+/* Marks a date the note itself says is inferred rather than taken from the recording. */
+.cj-est { margin-left: .3em; cursor: help; opacity: .75; }
+
 .cj-empty { margin-top: 2rem; color: var(--ifm-color-emphasis-600); }
 .cj-empty button { background: none; border: 0; padding: 0; cursor: pointer; font: inherit; color: var(--ifm-color-primary); text-decoration: underline; }
 
