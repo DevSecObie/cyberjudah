@@ -33,6 +33,9 @@ yarn-error.log*
 /docs/study/*/_category_.json
 /docs/encyclopedia/index.md
 /docs/encyclopedia/_category_.json
+# scratch file from scripts/notes/teachers.py export
+/teachers.tsv
+
 # tag labels, generated from data/topics.tsv
 /blog/tags.yml
 /captains/tags.yml

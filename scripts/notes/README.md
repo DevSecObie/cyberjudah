@@ -12,6 +12,7 @@ Run them from the repo root. `CJ_ROOT` overrides the repo location if you need i
 | `condense.py <in> <out>` | Collapse a per-line timestamped transcript into ~700-char timestamped paragraphs, which is what you actually read. |
 | `lib.py` | `S(ref, ts, notes)` builds a main scripture block; `P([(ref, note)])` builds a nested precept block. Import it from a builder script. |
 | `check.py <note.md>` | Byte-for-byte validation of every quoted verse in a finished note against `data/bible`. Must report 0 mismatches. |
+| `teachers.py` | Read and edit the `teacher` field across every note. See [Who taught it](#who-taught-it). |
 
 ## The note must be near-verbatim, not a summary
 
@@ -58,18 +59,47 @@ tags: ["IUIC in the ClassRoom"]
 
 ---
 
-[Class Notes Index](/classes) | Transcript: [full session](/classes/2026/2026-08-15-give-diligence)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=ABr5bgs96vY)
 ```
+
+`tags` is the series name first, then topic slugs from `data/topics.tsv`. Do not write
+them by hand -- `npm run notes:fix` derives them, adds the `Opens` line under
+`<p class="taught">`, and turns each `*[18:01]*` timestamp into a link into the recording.
+Run it after writing a note and commit what it produces.
+
+### Who taught it
 
 `teacher` is the name with its own title: `Captain Noah`, `Deacon Malachi`,
 `Bishop Nathaniel`, `Officer Uzziah`. The browse pages derive the rank from that
 leading word and group the filter chips by it. Leave the field out rather than
 guessing; an unattributed note simply shows no chip.
 
+Most classes never say who taught, so this is filled in by hand. `teachers.py` is the way to
+do that without opening every file:
+
+```
+scripts/notes/teachers.py                  every note and what it says now
+scripts/notes/teachers.py export           writes teachers.tsv, one row per note
+                                           # edit the `teacher` column, then:
+scripts/notes/teachers.py apply            writes those names back into the frontmatter
+scripts/notes/teachers.py set <slug> <name>
+scripts/notes/teachers.py rename <old> <new>   one person spelled two ways, everywhere
+scripts/notes/teachers.py variants             finds those spellings
+```
+
+The exported file carries a `suggested`/`confidence`/`evidence` hint per unattributed note.
+`strong` means the sentence says this person taught it; `weak` means they are only mentioned,
+which is usually someone greeted or prayed for and is a place to look, not an answer. As of
+the last pass every `strong` case is already filled in, so the remainder need the recording.
+
+`teachers.py` never overwrites a name you have set unless you ask it to, and `tag-notes.mjs`
+leaves an existing `teacher` alone unless run with `--reset`.
+
 File path is `blog/2026/YYYY-MM-DD-<slug-without-date>.md` where the slug itself
 already starts with the date, so the date appears twice in the filename. Captains
 notes use `captains/2026/` and a nav line reading
-`[15 Minutes Index](/captains) | Transcript: [full episode](/captains/<slug>)`.
+`[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=<video-id>)`.
+Where there is no recording, drop the second half rather than linking the note to itself.
 
 ## Pipeline
 
