@@ -106,6 +106,11 @@ const detailsRef = (r) => `<details><summary>${refLabel(r)}</summary>\n\n${quote
 /* ---------------- who cites what ---------------- */
 const cited = new Map(); // "Book|ch" -> [{kind, label, url, verses}]
 const cite = (r, kind, label, url) => { const k = `${r.book}|${r.chapter}`; if (!cited.has(k)) cited.set(k, []); cited.get(k).push({ kind, label, url, verses: r.verses || "" }); };
+/** The same citation row recorded more than once, collapsed. Order is preserved. */
+function uniqueCitations(rows) {
+  const seen = new Set();
+  return rows.filter((r) => { const k = [r.kind, r.url, r.verses].join("|"); if (seen.has(k)) return false; seen.add(k); return true; });
+}
 function citedBlock(book, ch, heading = "## Cited by") {
   const rows = cited.get(`${book}|${ch}`); if (!rows) return "";
   const groups = [["note", "Study notes and classes"], ["encyclopedia", "Encyclopedia"], ["case", "Cases"], ["precept", "Precepts"], ["law", "Laws"]];
@@ -356,8 +361,18 @@ for (const b of BOOKS) {
     if (cb) body.push(`<div class="citedby">`, "", cb, "", `</div>`);
     write(path.join(dir, `${c}.md`), fm({ title: `${b} ${c}`, slug: chapterUrl(b, c), sidebar_label: String(c), sidebar_position: c, description: `${b} chapter ${c}, King James Version` }) + body.join("\n"));
     writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t })).filter((v) => v.text) });
-    const cbj = cited.get(`${b}|${c}`);
-    if (cbj) writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: cbj });
+    // Emitted for every chapter, cited or not: /api/concordance/<book>/<chapter>.json is
+    // documented as universal, and 404ing on the chapters nothing happens to cite made a
+    // consumer walking the book index fall over on 16 of them. An uncited chapter is an
+    // empty list, not a missing resource.
+    //
+    // A note that quotes a passage links each verse superscript separately, so the raw rows
+    // repeat the same (url, verses) pair once per verse: ~37k duplicate entries across the
+    // API. The chapter pages already merge them for display (citedBlock); the JSON did not.
+    // Deduping here and not in cite() keeps the raw counts the browse-card book weights are
+    // built from.
+    const cbj = uniqueCitations(cited.get(`${b}|${c}`) ?? []);
+    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: cbj });
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0) });
 }
