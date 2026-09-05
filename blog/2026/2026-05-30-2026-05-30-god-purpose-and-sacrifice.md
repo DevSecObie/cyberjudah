@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "purpose", "captivity", "reparations", "nations"
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-30 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Job 20](/bible/job/20) · [Hag 2](/bible/haggai/2) · [Isa 61](/bible/isaiah/61) · [Jer 50](/bible/jeremiah/50) · [Zech 11](/bible/zechariah/11) · [Rev 13](/bible/revelation/13) · [Isa 1](/bible/isaiah/1) · [Jer 2](/bible/jeremiah/2) · [Ps 137](/bible/psalms/137) · [Jer 17](/bible/jeremiah/17) · [Hos 3](/bible/hosea/3) · [Deut 33](/bible/deuteronomy/33) · [2 Cor 11](/bible/2-corinthians/11) · [Matt 24](/bible/matthew/24) · [1 Kgs 8](/bible/1-kings/8) · [Zech 1](/bible/zechariah/1) · <i>and 17 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="7vmCIf3gj2I"></div>

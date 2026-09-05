@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "persecution"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [1 Kgs 8](/bible/1-kings/8) · [Sir 6](/bible/sirach/6) · [1 Macc 1](/bible/1-maccabees/1) · [1 Macc 3](/bible/1-maccabees/3) · [Matt 22](/bible/matthew/22) · [Wis 14](/bible/wisdom-of-solomon/14) · [Dan 7](/bible/daniel/7) · [2 Esdras 11](/bible/2-esdras/11) · [Rev 16](/bible/revelation/16) · [Rev 18](/bible/revelation/18) · [2 Cor 6](/bible/2-corinthians/6) · [Lev 26](/bible/leviticus/26) · [Hab 1](/bible/habakkuk/1) · [Dan 2](/bible/daniel/2) · [Jer 50](/bible/jeremiah/50) · <i>and 4 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="14p8vV6KBfI"></div>

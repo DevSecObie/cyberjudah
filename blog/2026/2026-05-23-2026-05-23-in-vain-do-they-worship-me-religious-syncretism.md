@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "passover-feasts", "idolatry",
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 34](/bible/isaiah/34) · [Deut 16](/bible/deuteronomy/16) · [2 Chr 8](/bible/2-chronicles/8) · [Tobit 2](/bible/tobit/2) · [Acts 2](/bible/acts/2) · [Ps 64](/bible/psalms/64) · [Deut 32](/bible/deuteronomy/32) · [Matt 15](/bible/matthew/15) · [Acts 7](/bible/acts/7) · [Prov 4](/bible/proverbs/4) · [1 Macc 2](/bible/1-maccabees/2) · [2 Macc 6](/bible/2-maccabees/6) · [2 Esdras 2](/bible/2-esdras/2) · [2 Macc 8](/bible/2-maccabees/8) · [2 Macc 7](/bible/2-maccabees/7) · [2 Macc 14](/bible/2-maccabees/14) · <i>and 30 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="ZztygjY4U2w"></div>

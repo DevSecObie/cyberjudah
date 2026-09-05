@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-19</p>
 
+<span class="opens"><b>Opens</b> [Dan 8](/bible/daniel/8) · [2 Thess 2](/bible/2-thessalonians/2) · [Rev 17](/bible/revelation/17) · [Rom 9](/bible/romans/9) · [Ps 50](/bible/psalms/50) · [Deut 23](/bible/deuteronomy/23) · [Mal 1](/bible/malachi/1) · [Isa 14](/bible/isaiah/14) · [Heb 10](/bible/hebrews/10) · [2 Esdras 16](/bible/2-esdras/16) · [Phil 1](/bible/philippians/1) · [Wis 3](/bible/wisdom-of-solomon/3) · [Matt 8](/bible/matthew/8) · [2 Pet 3](/bible/2-peter/3)</span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Ps 2](/bible/psalms/2) · [Deut 28](/bible/deuteronomy/28) · [1 Kgs 8](/bible/1-kings/8) · [Zeph 2](/bible/zephaniah/2) · [Ps 133](/bible/psalms/133) · [Lev 26](/bible/leviticus/26) · [Matt 5](/bible/matthew/5) · [Prov 25](/bible/proverbs/25) · [Mic 2](/bible/micah/2) · [Mic 4](/bible/micah/4) · [Job 10](/bible/job/10) · [Baruch 3](/bible/baruch/3) · [Ezek 37](/bible/ezekiel/37) · [Isa 42](/bible/isaiah/42) · [Isa 49](/bible/isaiah/49) · [Ezek 34](/bible/ezekiel/34) · <i>and 12 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="a5Dzjsx02qA"></div>

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01</p>
 
+<span class="opens"><b>Opens</b> [Gen 25](/bible/genesis/25) · [Heb 12](/bible/hebrews/12) · [Gen 27](/bible/genesis/27) · [Obad 1](/bible/obadiah/1) · [Mic 1](/bible/micah/1) · [Ps 137](/bible/psalms/137) · [Zech 2](/bible/zechariah/2) · [Dan 1](/bible/daniel/1) · [Rev 11](/bible/revelation/11) · [Rev 17](/bible/revelation/17) · [Zech 4](/bible/zechariah/4) · [1 Esdras 3](/bible/1-esdras/3) · [1 Esdras 4](/bible/1-esdras/4) · [Zech 3](/bible/zechariah/3) · [Matt 1](/bible/matthew/1) · [Ezra 6](/bible/ezra/6) · <i>and 8 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="FpEHxWGgai8"></div>

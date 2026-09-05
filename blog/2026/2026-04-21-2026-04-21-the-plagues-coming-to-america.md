@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "war", "captivity"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-21 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 12](/bible/genesis/12) · [Gen 13](/bible/genesis/13) · [Gen 15](/bible/genesis/15) · [Exod 12](/bible/exodus/12) · [Ps 105](/bible/psalms/105) · [Job 42](/bible/job/42) · [Exod 20](/bible/exodus/20) · [Exod 1](/bible/exodus/1) · [Ps 102](/bible/psalms/102) · [Jer 51](/bible/jeremiah/51) · [Exod 7](/bible/exodus/7) · [Deut 20](/bible/deuteronomy/20) · [Exod 3](/bible/exodus/3) · [Exod 11](/bible/exodus/11) · [Deut 4](/bible/deuteronomy/4) · [Deut 28](/bible/deuteronomy/28) · <i>and 16 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="x9xrlD12Rj4"></div>

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "persecution", "justice"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 4](/bible/genesis/4) · [Gen 3](/bible/genesis/3) · [Exod 32](/bible/exodus/32) · [Num 14](/bible/numbers/14) · [Exod 14](/bible/exodus/14) · [Exod 15](/bible/exodus/15) · [Num 11](/bible/numbers/11) · [Num 25](/bible/numbers/25) · [Judg 20](/bible/judges/20) · [1 Sam 4](/bible/1-samuel/4) · [Isa 22](/bible/isaiah/22) · [2 Sam 24](/bible/2-samuel/24) · [Mal 3](/bible/malachi/3) · [Mal 1](/bible/malachi/1) · [Ps 83](/bible/psalms/83) · [Wis 12](/bible/wisdom-of-solomon/12) · <i>and 19 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="0N1tUWScwMU"></div>

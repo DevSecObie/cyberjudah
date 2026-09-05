@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-12</p>
 
+<span class="opens"><b>Opens</b> [Job 20](/bible/job/20) · [2 Pet 3](/bible/2-peter/3) · [Jer 31](/bible/jeremiah/31) · [Jer 33](/bible/jeremiah/33) · [Rom 8](/bible/romans/8) · [Eph 1](/bible/ephesians/1) · [Rom 11](/bible/romans/11) · [Amos 6](/bible/amos/6) · [Amos 7](/bible/amos/7) · [Amos 8](/bible/amos/8) · [Amos 9](/bible/amos/9) · [1 Kgs 11](/bible/1-kings/11) · [1 Kgs 12](/bible/1-kings/12) · [2 Chr 15](/bible/2-chronicles/15) · [2 Kgs 15](/bible/2-kings/15) · [2 Chr 11](/bible/2-chronicles/11) · <i>and 17 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

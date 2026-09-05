@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "satan", "christ", "false-religion", "deceit"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Prov 13](/bible/proverbs/13) · [Sir 13](/bible/sirach/13) · [Matt 24](/bible/matthew/24) · [2 Pet 1](/bible/2-peter/1) · [1 John 2](/bible/1-john/2) · [Acts 4](/bible/acts/4) · [1 John 4](/bible/1-john/4) · [Rev 1](/bible/revelation/1) · [Rev 14](/bible/revelation/14) · [2 Cor 11](/bible/2-corinthians/11) · [2 Thess 2](/bible/2-thessalonians/2) · [Mal 1](/bible/malachi/1) · [Gen 4](/bible/genesis/4) · [Rom 9](/bible/romans/9) · [Rev 6](/bible/revelation/6) · [Dan 7](/bible/daniel/7) · <i>and 7 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="JXJvcEn3q2g"></div>

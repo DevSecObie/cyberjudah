@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "justice"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-15 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Deut 28](/bible/deuteronomy/28) · [Rev 11](/bible/revelation/11) · [Ezek 37](/bible/ezekiel/37) · [Isa 28](/bible/isaiah/28) · [Isa 8](/bible/isaiah/8) · [Prov 11](/bible/proverbs/11) · [Prov 16](/bible/proverbs/16) · [Lam 3](/bible/lamentations/3) · [Neh 9](/bible/nehemiah/9) · [2 Cor 6](/bible/2-corinthians/6) · [Isa 56](/bible/isaiah/56) · [Isa 58](/bible/isaiah/58) · [Rev 13](/bible/revelation/13) · [Wis 8](/bible/wisdom-of-solomon/8) · [Ps 64](/bible/psalms/64) · [Prov 26](/bible/proverbs/26) · <i>and 20 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="maQroMAMqbw"></div>

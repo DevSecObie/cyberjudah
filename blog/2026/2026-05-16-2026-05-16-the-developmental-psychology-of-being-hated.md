@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "mental-health", "substance-abuse", "health", "e
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-16 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 34](/bible/isaiah/34) · [2 Pet 3](/bible/2-peter/3) · [2 Pet 1](/bible/2-peter/1) · [Heb 11](/bible/hebrews/11) · [Deut 28](/bible/deuteronomy/28) · [Prov 13](/bible/proverbs/13) · [Ps 83](/bible/psalms/83) · [Ezek 35](/bible/ezekiel/35) · [Isa 51](/bible/isaiah/51) · [Rom 13](/bible/romans/13) · [Jer 30](/bible/jeremiah/30) · [Matt 5](/bible/matthew/5) · [Wis 17](/bible/wisdom-of-solomon/17) · [Hab 2](/bible/habakkuk/2) · [Rom 12](/bible/romans/12) · [Sir 36](/bible/sirach/36)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="jsT6wS00jmw"></div>

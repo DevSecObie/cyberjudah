@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "america-babylon"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Eph 2](/bible/ephesians/2) · [Acts 2](/bible/acts/2) · [Acts 19](/bible/acts/19) · [Col 1](/bible/colossians/1) · [Col 3](/bible/colossians/3) · [Deut 28](/bible/deuteronomy/28) · [Col 4](/bible/colossians/4) · [Lev 25](/bible/leviticus/25) · [Isa 14](/bible/isaiah/14) · [Rev 1](/bible/revelation/1) · [Eccl 8](/bible/ecclesiastes/8)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="mbZ3tmc48C0"></div>

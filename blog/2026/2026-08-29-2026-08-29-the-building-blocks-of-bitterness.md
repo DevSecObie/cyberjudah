@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "repentance"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Sir 37](/bible/sirach/37) · [1 Cor 6](/bible/1-corinthians/6) · [2 Cor 12](/bible/2-corinthians/12) · [2 Cor 13](/bible/2-corinthians/13) · [2 Cor 10](/bible/2-corinthians/10) · [Acts 18](/bible/acts/18) · [Prov 29](/bible/proverbs/29) · [Heb 4](/bible/hebrews/4) · [Col 3](/bible/colossians/3) · [Lev 19](/bible/leviticus/19) · [Eph 4](/bible/ephesians/4) · [1 Sam 9](/bible/1-samuel/9) · [1 Sam 10](/bible/1-samuel/10) · [1 Sam 15](/bible/1-samuel/15) · [Sir 7](/bible/sirach/7) · [1 Sam 17](/bible/1-samuel/17) · <i>and 10 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="d9CXnvRB7es"></div>

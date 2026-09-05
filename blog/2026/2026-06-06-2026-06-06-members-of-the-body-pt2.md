@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "the-body", "idolatry", "endurance", "christ"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-06 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Ps 133](/bible/psalms/133) · [John 17](/bible/john/17) · [Eph 4](/bible/ephesians/4) · [1 Cor 12](/bible/1-corinthians/12) · [1 Macc 1](/bible/1-maccabees/1) · [Rom 12](/bible/romans/12) · [Exod 31](/bible/exodus/31) · [Gal 3](/bible/galatians/3) · [Ezek 37](/bible/ezekiel/37) · [Eph 2](/bible/ephesians/2) · [Eccl 4](/bible/ecclesiastes/4) · [Phil 2](/bible/philippians/2) · [John 16](/bible/john/16) · [2 Esdras 7](/bible/2-esdras/7) · [2 Tim 3](/bible/2-timothy/3) · <i>and 4 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="bvqCl9KmDt4"></div>

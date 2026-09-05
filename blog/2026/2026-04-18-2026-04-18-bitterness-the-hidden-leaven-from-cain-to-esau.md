@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "edom-esau", "mercy", "the-body", 
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Ps 30](/bible/psalms/30) · [Eph 4](/bible/ephesians/4) · [1 Cor 5](/bible/1-corinthians/5) · [Exod 12](/bible/exodus/12) · [Exod 13](/bible/exodus/13) · [Deut 16](/bible/deuteronomy/16) · [Matt 16](/bible/matthew/16) · [Gen 4](/bible/genesis/4) · [1 John 3](/bible/1-john/3) · [Prov 26](/bible/proverbs/26) · [Eccl 7](/bible/ecclesiastes/7) · [Gal 5](/bible/galatians/5) · [Luke 12](/bible/luke/12) · [James 1](/bible/james/1) · [Heb 3](/bible/hebrews/3) · [Ps 19](/bible/psalms/19) · <i>and 25 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="rBRp1JXmK6U"></div>

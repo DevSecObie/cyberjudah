@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "reparations", "justice", "prophecy"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>
 
+<span class="opens"><b>Opens</b> [Deut 32](/bible/deuteronomy/32) · [Rev 12](/bible/revelation/12) · [Rev 17](/bible/revelation/17) · [2 Thess 2](/bible/2-thessalonians/2) · [Isa 14](/bible/isaiah/14) · [Jer 16](/bible/jeremiah/16) · [Wis 5](/bible/wisdom-of-solomon/5) · [Ezek 1](/bible/ezekiel/1) · [Zech 5](/bible/zechariah/5) · [Jer 23](/bible/jeremiah/23) · [Judith 5](/bible/judith/5) · [2 Esdras 13](/bible/2-esdras/13)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="4fML805MO8A"></div>

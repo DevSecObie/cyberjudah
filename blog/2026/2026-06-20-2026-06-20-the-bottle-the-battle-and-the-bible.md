@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "war", "substance-abuse", "mental-health", "heal
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [John 5](/bible/john/5) · [Rom 15](/bible/romans/15) · [1 Sam 10](/bible/1-samuel/10) · [Eph 5](/bible/ephesians/5) · [Ps 39](/bible/psalms/39) · [2 Cor 12](/bible/2-corinthians/12) · [Prov 24](/bible/proverbs/24) · [Prov 20](/bible/proverbs/20) · [Gal 5](/bible/galatians/5) · [1 Cor 6](/bible/1-corinthians/6) · [Isa 5](/bible/isaiah/5) · [Sir 31](/bible/sirach/31) · [Ps 42](/bible/psalms/42) · [Prov 17](/bible/proverbs/17) · [2 Cor 10](/bible/2-corinthians/10) · [Ps 34](/bible/psalms/34) · <i>and 10 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="KcKlRTSaOVM"></div>

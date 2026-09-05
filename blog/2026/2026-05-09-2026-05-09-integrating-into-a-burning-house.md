@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "persecution", "nations", "america
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Lev 19](/bible/leviticus/19) · [Jer 4](/bible/jeremiah/4) · [Hos 7](/bible/hosea/7) · [Eccl 1](/bible/ecclesiastes/1) · [2 Esdras 15](/bible/2-esdras/15) · [Exod 1](/bible/exodus/1) · [Rev 11](/bible/revelation/11) · [Isa 28](/bible/isaiah/28) · [Hab 2](/bible/habakkuk/2) · [Matt 16](/bible/matthew/16) · [John 11](/bible/john/11) · [2 Macc 4](/bible/2-maccabees/4) · [Deut 28](/bible/deuteronomy/28) · [Isa 30](/bible/isaiah/30) · [Jer 8](/bible/jeremiah/8) · [Wis 14](/bible/wisdom-of-solomon/14) · <i>and 3 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="Bb3r5SDV3PI"></div>

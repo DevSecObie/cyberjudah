@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "betrayal", "deceit", "persecution", "substance-
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-13 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Sir 19](/bible/sirach/19) · [Matt 13](/bible/matthew/13) · [Matt 24](/bible/matthew/24) · [Acts 8](/bible/acts/8) · [Acts 13](/bible/acts/13) · [Rom 8](/bible/romans/8) · [2 Cor 12](/bible/2-corinthians/12) · [2 Thess 1](/bible/2-thessalonians/1) · [2 Tim 3](/bible/2-timothy/3) · [Isa 28](/bible/isaiah/28) · [1 Macc 1](/bible/1-maccabees/1) · [1 Macc 2](/bible/1-maccabees/2) · [John 11](/bible/john/11) · [Mark 4](/bible/mark/4) · [2 Pet 2](/bible/2-peter/2) · [Jude 1](/bible/jude/1) · <i>and 19 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="j2FoUSpuWIs"></div>

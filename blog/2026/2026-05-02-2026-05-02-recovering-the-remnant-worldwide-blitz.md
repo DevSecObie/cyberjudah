@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "nations"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Matt 1](/bible/matthew/1) · [Matt 15](/bible/matthew/15) · [Matt 24](/bible/matthew/24) · [Ps 50](/bible/psalms/50) · [Isa 43](/bible/isaiah/43) · [Acts 2](/bible/acts/2) · [Acts 20](/bible/acts/20) · [Deut 28](/bible/deuteronomy/28) · [James 1](/bible/james/1) · [Ps 106](/bible/psalms/106) · [Isa 11](/bible/isaiah/11) · [Zeph 3](/bible/zephaniah/3) · [Isa 42](/bible/isaiah/42) · [John 14](/bible/john/14) · [Isa 44](/bible/isaiah/44) · [Zech 2](/bible/zechariah/2) · <i>and 16 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="93fP6cddXrs"></div>

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Job 8](/bible/job/8) · [Mal 4](/bible/malachi/4) · [Zech 4](/bible/zechariah/4) · [2 Cor 10](/bible/2-corinthians/10) · [Neh 6](/bible/nehemiah/6) · [Prov 29](/bible/proverbs/29) · [Isa 35](/bible/isaiah/35) · [Phil 1](/bible/philippians/1) · [2 Tim 1](/bible/2-timothy/1) · [Rev 2](/bible/revelation/2) · [Rev 3](/bible/revelation/3) · [Ezek 35](/bible/ezekiel/35) · [Wis 2](/bible/wisdom-of-solomon/2) · [Isa 29](/bible/isaiah/29) · [James 1](/bible/james/1) · [Eccl 7](/bible/ecclesiastes/7) · <i>and 18 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="3eKbwUxDlvE"></div>

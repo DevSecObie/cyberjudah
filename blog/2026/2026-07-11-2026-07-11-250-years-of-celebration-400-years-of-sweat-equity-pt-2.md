@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "reparations", "justice"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-11</p>
 
+<span class="opens"><b>Opens</b> [Rev 12](/bible/revelation/12) · [Rev 17](/bible/revelation/17) · [2 Esdras 13](/bible/2-esdras/13) · [Zech 9](/bible/zechariah/9) · [1 Kgs 11](/bible/1-kings/11) · [Song 8](/bible/song-of-solomon/8) · [Eccl 12](/bible/ecclesiastes/12) · [Mark 12](/bible/mark/12)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="C5q-raZJyNA"></div>

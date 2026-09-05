@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "satan", "mercy", "gossip", "praye
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [1 John 2](/bible/1-john/2) · [1 Pet 5](/bible/1-peter/5) · [1 Cor 9](/bible/1-corinthians/9) · [Rom 7](/bible/romans/7) · [Acts 5](/bible/acts/5) · [1 Sam 18](/bible/1-samuel/18) · [1 Sam 26](/bible/1-samuel/26) · [Lev 19](/bible/leviticus/19) · [Sir 28](/bible/sirach/28) · [Col 3](/bible/colossians/3) · [1 Cor 13](/bible/1-corinthians/13) · [Sir 19](/bible/sirach/19) · [Matt 18](/bible/matthew/18) · [Matt 5](/bible/matthew/5)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="D6rveJsP3f8"></div>

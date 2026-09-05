@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "america-babylon", "captivity
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-16 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 15](/bible/genesis/15) · [Exod 1](/bible/exodus/1) · [Exod 3](/bible/exodus/3) · [Exod 4](/bible/exodus/4) · [Exod 12](/bible/exodus/12) · [Deut 26](/bible/deuteronomy/26) · [Matt 26](/bible/matthew/26) · [Deut 28](/bible/deuteronomy/28) · [Deut 31](/bible/deuteronomy/31) · [2 Esdras 14](/bible/2-esdras/14) · [Rev 11](/bible/revelation/11) · [Exod 2](/bible/exodus/2) · [Gen 43](/bible/genesis/43) · [Num 11](/bible/numbers/11) · [Heb 11](/bible/hebrews/11) · [Jer 23](/bible/jeremiah/23) · <i>and 9 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="VyDEbsxgcas"></div>

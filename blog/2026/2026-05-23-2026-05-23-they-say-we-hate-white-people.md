@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "leadership"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Matt 22](/bible/matthew/22) · [Sir 18](/bible/sirach/18) · [Ezek 28](/bible/ezekiel/28) · [Gal 5](/bible/galatians/5) · [Rom 7](/bible/romans/7) · [Ps 10](/bible/psalms/10) · [2 Esdras 16](/bible/2-esdras/16) · [1 Cor 6](/bible/1-corinthians/6) · [Rom 12](/bible/romans/12) · [Matt 10](/bible/matthew/10) · [2 Cor 10](/bible/2-corinthians/10) · [Rom 9](/bible/romans/9) · [Mal 1](/bible/malachi/1) · [Sir 33](/bible/sirach/33) · [Deut 23](/bible/deuteronomy/23) · [2 Cor 5](/bible/2-corinthians/5) · <i>and 13 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="xa6eyWlShws"></div>

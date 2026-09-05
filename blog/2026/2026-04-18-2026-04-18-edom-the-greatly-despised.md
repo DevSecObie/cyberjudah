@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "captivity", "nations", "sabbath"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 25](/bible/genesis/25) · [2 Esdras 6](/bible/2-esdras/6) · [Gen 27](/bible/genesis/27) · [Heb 12](/bible/hebrews/12) · [Gen 36](/bible/genesis/36) · [2 Esdras 3](/bible/2-esdras/3) · [Rom 9](/bible/romans/9) · [Mal 1](/bible/malachi/1) · [Obad 1](/bible/obadiah/1) · [Deut 28](/bible/deuteronomy/28) · [1 Macc 3](/bible/1-maccabees/3) · [Dan 7](/bible/daniel/7) · [Ps 64](/bible/psalms/64) · [Isa 23](/bible/isaiah/23) · [Ezek 28](/bible/ezekiel/28)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="IyYFXp99olM"></div>

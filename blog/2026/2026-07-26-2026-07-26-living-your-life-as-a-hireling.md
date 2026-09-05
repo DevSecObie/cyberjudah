@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-26</p>
 
+<span class="opens"><b>Opens</b> [Job 20](/bible/job/20) · [Num 31](/bible/numbers/31) · [Acts 5](/bible/acts/5) · [John 10](/bible/john/10) · [Job 7](/bible/job/7) · [Jer 23](/bible/jeremiah/23) · [Matt 19](/bible/matthew/19) · [2 Cor 6](/bible/2-corinthians/6) · [Ezek 34](/bible/ezekiel/34) · [Lam 2](/bible/lamentations/2) · [1 Cor 9](/bible/1-corinthians/9) · [1 Cor 6](/bible/1-corinthians/6) · [Luke 19](/bible/luke/19) · [Heb 11](/bible/hebrews/11) · [3 John 1](/bible/3-john/1) · [2 Esdras 8](/bible/2-esdras/8) · <i>and 1 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

@@ -8,6 +8,8 @@ tags: ["15 Minutes w/ The Captains", "the-word", "health", "christ", "discipline
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-19</p>
 
+<span class="opens"><b>Opens</b> [Deut 7](/bible/deuteronomy/7) · [Amos 3](/bible/amos/3) · [Joel 2](/bible/joel/2) · [Isa 14](/bible/isaiah/14) · [Matt 7](/bible/matthew/7) · [Acts 4](/bible/acts/4) · [Acts 13](/bible/acts/13) · [Josh 1](/bible/joshua/1) · [Sir 37](/bible/sirach/37) · [Prov 18](/bible/proverbs/18) · [Sir 30](/bible/sirach/30) · [Sir 19](/bible/sirach/19)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="CFuOYZ2TYeA"></div>

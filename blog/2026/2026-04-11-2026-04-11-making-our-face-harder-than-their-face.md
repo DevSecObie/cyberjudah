@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "prayer"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Sir 33](/bible/sirach/33) · [Deut 11](/bible/deuteronomy/11) · [Ezek 2](/bible/ezekiel/2) · [Prov 4](/bible/proverbs/4) · [Baruch 1](/bible/baruch/1) · [Sir 19](/bible/sirach/19) · [2 Tim 2](/bible/2-timothy/2) · [Neh 8](/bible/nehemiah/8) · [Sir 5](/bible/sirach/5) · [1 Thess 4](/bible/1-thessalonians/4) · [1 Sam 2](/bible/1-samuel/2) · [Jer 50](/bible/jeremiah/50) · [Dan 9](/bible/daniel/9) · [Sir 12](/bible/sirach/12) · [1 Macc 2](/bible/1-maccabees/2) · <i>and 16 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="z_QujypG9RI"></div>

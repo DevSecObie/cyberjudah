@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "christ", "repentance", "the-body", "purpose"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18</p>
 
+<span class="opens"><b>Opens</b> [Acts 7](/bible/acts/7) · [Exod 1](/bible/exodus/1) · [Acts 8](/bible/acts/8) · [1 Sam 13](/bible/1-samuel/13) · [1 Sam 15](/bible/1-samuel/15) · [1 Sam 16](/bible/1-samuel/16) · [1 Sam 18](/bible/1-samuel/18) · [1 Sam 19](/bible/1-samuel/19) · [1 Sam 22](/bible/1-samuel/22) · [John 15](/bible/john/15) · [1 Sam 24](/bible/1-samuel/24) · [1 Sam 26](/bible/1-samuel/26) · [1 Kgs 18](/bible/1-kings/18) · [1 Kgs 19](/bible/1-kings/19) · [John 11](/bible/john/11) · [1 Kgs 22](/bible/1-kings/22) · <i>and 16 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

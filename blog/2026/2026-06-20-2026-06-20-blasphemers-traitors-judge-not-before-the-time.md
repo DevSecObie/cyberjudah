@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "betrayal", "idolatry", "the-body", "repentance"
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Lev 24](/bible/leviticus/24) · [2 Sam 12](/bible/2-samuel/12) · [2 Kgs 18](/bible/2-kings/18) · [2 Kgs 19](/bible/2-kings/19) · [1 Macc 7](/bible/1-maccabees/7) · [2 Macc 14](/bible/2-maccabees/14) · [2 Macc 15](/bible/2-maccabees/15) · [2 Kgs 21](/bible/2-kings/21) · [2 Chr 33](/bible/2-chronicles/33) · [2 Macc 10](/bible/2-maccabees/10) · [Ezek 20](/bible/ezekiel/20) · [Deut 12](/bible/deuteronomy/12) · [Isa 65](/bible/isaiah/65) · [Isa 52](/bible/isaiah/52) · [Ps 74](/bible/psalms/74) · [Rev 2](/bible/revelation/2) · <i>and 35 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="SxDuvLQEkHI"></div>

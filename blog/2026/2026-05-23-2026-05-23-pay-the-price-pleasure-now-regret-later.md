@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "sexual-purity", "endurance", "the-word"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Matt 9](/bible/matthew/9) · [Prov 21](/bible/proverbs/21) · [1 Cor 15](/bible/1-corinthians/15) · [Sir 9](/bible/sirach/9) · [Job 31](/bible/job/31) · [2 Pet 2](/bible/2-peter/2) · [Wis 4](/bible/wisdom-of-solomon/4) · [Judith 16](/bible/judith/16) · [James 1](/bible/james/1) · [Wis 9](/bible/wisdom-of-solomon/9) · [Prov 23](/bible/proverbs/23) · [1 Cor 10](/bible/1-corinthians/10) · [Ps 139](/bible/psalms/139) · [Wis 7](/bible/wisdom-of-solomon/7) · [Rom 6](/bible/romans/6) · [Eph 6](/bible/ephesians/6) · <i>and 10 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="LmS2WNcC-Rk"></div>

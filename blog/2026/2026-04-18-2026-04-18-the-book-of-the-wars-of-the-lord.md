@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "war"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 34](/bible/isaiah/34) · [Num 21](/bible/numbers/21) · [2 Esdras 14](/bible/2-esdras/14) · [Josh 10](/bible/joshua/10) · [Rev 2](/bible/revelation/2) · [1 Cor 13](/bible/1-corinthians/13) · [Zech 14](/bible/zechariah/14) · [Exod 15](/bible/exodus/15) · [Exod 14](/bible/exodus/14) · [Deut 4](/bible/deuteronomy/4) · [Wis 18](/bible/wisdom-of-solomon/18) · [2 Chr 20](/bible/2-chronicles/20) · [Josh 11](/bible/joshua/11) · [Josh 5](/bible/joshua/5) · [1 Sam 17](/bible/1-samuel/17) · [Rev 19](/bible/revelation/19) · <i>and 5 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="6qcYL9qpE7o"></div>

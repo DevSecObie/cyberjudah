@@ -9,6 +9,8 @@ tags: ["15 Minutes w/ The Captains", "satan", "the-law", "captivity"]
 
 <p class="taught">15 Minutes w/ The Captains · 2026-09-02</p>
 
+<span class="opens"><b>Opens</b> [Sir 10](/bible/sirach/10) · [2 Chr 6](/bible/2-chronicles/6) · [Acts 13](/bible/acts/13) · [Rev 12](/bible/revelation/12) · [Deut 28](/bible/deuteronomy/28) · [Rom 13](/bible/romans/13)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="wqRVYBKpnVk"></div>

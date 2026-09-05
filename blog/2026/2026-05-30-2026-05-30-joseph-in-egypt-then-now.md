@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "captivity"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-30</p>
 
+<span class="opens"><b>Opens</b> [Ps 64](/bible/psalms/64) · [Gen 37](/bible/genesis/37) · [Gen 39](/bible/genesis/39) · [Gen 40](/bible/genesis/40) · [Gen 41](/bible/genesis/41) · [Gen 42](/bible/genesis/42) · [Gen 43](/bible/genesis/43) · [Gen 46](/bible/genesis/46) · [Gen 47](/bible/genesis/47) · [Ps 105](/bible/psalms/105) · [Gen 49](/bible/genesis/49) · [Acts 10](/bible/acts/10) · [Gen 50](/bible/genesis/50) · [Isa 43](/bible/isaiah/43) · [Isa 11](/bible/isaiah/11) · [Zech 9](/bible/zechariah/9)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="075qOUs8Sbc"></div>

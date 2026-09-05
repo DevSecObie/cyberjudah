@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "the-word", "nations", "passover-feasts"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-24 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [John 10](/bible/john/10) · [John 7](/bible/john/7) · [Matt 4](/bible/matthew/4) · [John 4](/bible/john/4) · [Acts 11](/bible/acts/11) · [Acts 10](/bible/acts/10) · [Ezek 37](/bible/ezekiel/37) · [Gal 2](/bible/galatians/2) · [Acts 2](/bible/acts/2)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="QjcvHQtrDrw"></div>

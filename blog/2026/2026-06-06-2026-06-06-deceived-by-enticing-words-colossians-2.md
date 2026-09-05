@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "purpose", "christ", "wisdom", "false-
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-06 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Col 2](/bible/colossians/2) · [Col 1](/bible/colossians/1) · [Col 3](/bible/colossians/3)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="AP1-gbdhOv8"></div>

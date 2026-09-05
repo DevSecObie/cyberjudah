@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "war", "prophecy", "false-religion", "leadership
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [2 Esdras 15](/bible/2-esdras/15) · [Amos 1](/bible/amos/1) · [Isa 14](/bible/isaiah/14) · [Dan 8](/bible/daniel/8) · [Isa 46](/bible/isaiah/46) · [Deut 28](/bible/deuteronomy/28) · [Deut 32](/bible/deuteronomy/32) · [Jer 3](/bible/jeremiah/3) · [Ps 83](/bible/psalms/83) · [Amos 3](/bible/amos/3) · [Ps 147](/bible/psalms/147) · [Joel 2](/bible/joel/2) · [Acts 16](/bible/acts/16) · [Job 12](/bible/job/12) · [Gen 21](/bible/genesis/21) · [Gen 16](/bible/genesis/16) · <i>and 7 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="Dkl9wrJtETw"></div>

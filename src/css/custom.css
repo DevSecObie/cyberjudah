@@ -442,6 +442,19 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
    Showcase-style facets, but the card is the thumbnail and the type. No borders,
    no panels: the grid of stills does the visual work. */
 .cj-browse-inner { max-width: 74rem; margin-inline: auto; padding: clamp(2.5rem, 6vh, 4.5rem) 1.5rem 5rem; }
+/* The scripture a note opens, printed under the "taught" line at the top of a class. */
+.opens { display: block; margin: -.4rem 0 1.4rem; font-family: var(--ifm-font-family-monospace);
+  font-size: .74rem; line-height: 1.9; color: var(--cj-tertiary); }
+.opens b { color: var(--ifm-color-emphasis-600); font-weight: 500; letter-spacing: .1em;
+  text-transform: uppercase; font-size: .92em; margin-right: .35em; }
+.opens i { font-style: normal; opacity: .7; }
+
+/* Counts and feed markers on /classes/by-book. */
+.byb-n { font-family: var(--ifm-font-family-monospace); font-size: .62em; color: var(--cj-tertiary);
+  vertical-align: middle; margin-left: .5em; }
+.byb-kind { font-family: var(--ifm-font-family-monospace); font-size: .68rem; color: var(--cj-tertiary);
+  border: 1px solid var(--ifm-color-emphasis-200); border-radius: 2rem; padding: 0 .4em; }
+
 .cj-browse-head { max-width: 46rem; margin-bottom: clamp(2rem, 5vh, 3rem); }
 .cj-browse-head h1 { margin: 0 0 .8rem; font-size: clamp(1.9rem, 4vw, 2.7rem); font-weight: 400; letter-spacing: -.018em; color: var(--cj-display); }
 .cj-browse-head p { margin: 0; font-size: 1.02rem; line-height: 1.62; color: var(--ifm-color-emphasis-600); }

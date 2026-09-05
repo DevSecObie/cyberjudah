@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "sexual-purity", "passover-feasts"
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-17 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Exod 13](/bible/exodus/13) · [Exod 12](/bible/exodus/12) · [Amos 4](/bible/amos/4) · [2 Esdras 7](/bible/2-esdras/7) · [1 Cor 10](/bible/1-corinthians/10) · [Ezek 20](/bible/ezekiel/20) · [Isa 35](/bible/isaiah/35) · [1 Cor 5](/bible/1-corinthians/5) · [Gen 4](/bible/genesis/4) · [Matt 16](/bible/matthew/16) · [Acts 5](/bible/acts/5) · [James 1](/bible/james/1) · [Mark 7](/bible/mark/7) · [Prov 15](/bible/proverbs/15) · [Gen 30](/bible/genesis/30)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="3Qdksp7DVZI"></div>

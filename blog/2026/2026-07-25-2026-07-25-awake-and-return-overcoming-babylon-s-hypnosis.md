@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "media", "america-babylon", "endurance", "the-la
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Ps 12](/bible/psalms/12) · [Ps 111](/bible/psalms/111) · [2 Cor 11](/bible/2-corinthians/11) · [1 Pet 4](/bible/1-peter/4) · [Isa 8](/bible/isaiah/8) · [1 Cor 11](/bible/1-corinthians/11) · [Mark 4](/bible/mark/4) · [1 Thess 5](/bible/1-thessalonians/5) · [Isa 41](/bible/isaiah/41) · [Matt 5](/bible/matthew/5) · [Matt 15](/bible/matthew/15) · [Rev 11](/bible/revelation/11) · [Isa 51](/bible/isaiah/51) · [Rev 12](/bible/revelation/12) · [Ps 85](/bible/psalms/85) · [Ps 58](/bible/psalms/58) · <i>and 20 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="kxiMez1I0_U"></div>

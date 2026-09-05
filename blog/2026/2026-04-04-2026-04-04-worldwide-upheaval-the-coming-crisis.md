@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "prophecy", "marriage-family", "war", "betrayal"
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-04 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Rev 17](/bible/revelation/17) · [Amos 3](/bible/amos/3) · [Baruch 3](/bible/baruch/3) · [Obad 1](/bible/obadiah/1) · [Jer 28](/bible/jeremiah/28) · [Isa 47](/bible/isaiah/47) · [Matt 24](/bible/matthew/24) · [Ps 41](/bible/psalms/41) · [Mic 7](/bible/micah/7) · [Matt 10](/bible/matthew/10) · [Rev 14](/bible/revelation/14) · [Num 30](/bible/numbers/30) · [1 Cor 12](/bible/1-corinthians/12) · [Lev 19](/bible/leviticus/19) · [Job 29](/bible/job/29) · <i>and 11 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="ycwlj8bXhh8"></div>

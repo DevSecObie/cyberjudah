@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "wisdom", "justice", "passover-fea
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Deut 1](/bible/deuteronomy/1) · [Acts 13](/bible/acts/13) · [Acts 20](/bible/acts/20) · [Sir 34](/bible/sirach/34) · [Rev 3](/bible/revelation/3) · [Amos 3](/bible/amos/3) · [Deut 16](/bible/deuteronomy/16) · [Deut 19](/bible/deuteronomy/19) · [1 Cor 14](/bible/1-corinthians/14) · [1 Cor 1](/bible/1-corinthians/1) · [Titus 3](/bible/titus/3) · [Eccl 5](/bible/ecclesiastes/5) · [James 1](/bible/james/1) · [Prov 4](/bible/proverbs/4) · [Col 4](/bible/colossians/4) · [Heb 5](/bible/hebrews/5) · <i>and 6 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="-cEhJw1V02Y"></div>

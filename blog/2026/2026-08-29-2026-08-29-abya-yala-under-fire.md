@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "nations"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [1 Kgs 12](/bible/1-kings/12) · [2 Kgs 17](/bible/2-kings/17) · [2 Esdras 13](/bible/2-esdras/13) · [Deut 28](/bible/deuteronomy/28) · [1 Macc 11](/bible/1-maccabees/11) · [Mic 2](/bible/micah/2) · [Isa 45](/bible/isaiah/45) · [Dan 4](/bible/daniel/4) · [Amos 3](/bible/amos/3) · [Rev 13](/bible/revelation/13) · [Hab 2](/bible/habakkuk/2) · [John 10](/bible/john/10) · [Ps 94](/bible/psalms/94) · [Isa 10](/bible/isaiah/10) · [Isa 28](/bible/isaiah/28) · [1 Esdras 5](/bible/1-esdras/5) · <i>and 6 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="FSUFtJ08joo"></div>

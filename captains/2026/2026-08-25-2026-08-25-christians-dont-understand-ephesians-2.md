@@ -9,6 +9,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "purpose", "the
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-25</p>
 
+<span class="opens"><b>Opens</b> [Eph 2](/bible/ephesians/2) · [Eph 1](/bible/ephesians/1) · [Acts 18](/bible/acts/18) · [2 Macc 6](/bible/2-maccabees/6) · [1 Macc 1](/bible/1-maccabees/1) · [Acts 15](/bible/acts/15) · [Acts 13](/bible/acts/13)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="Cac3mtNbgmo"></div>

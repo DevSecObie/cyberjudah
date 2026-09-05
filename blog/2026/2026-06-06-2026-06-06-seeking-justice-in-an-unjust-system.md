@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "justice", "adversity", "persecution", "captivit
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-06 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Deut 28](/bible/deuteronomy/28) · [Jer 2](/bible/jeremiah/2) · [Lev 26](/bible/leviticus/26) · [Isa 30](/bible/isaiah/30) · [Deut 19](/bible/deuteronomy/19) · [Lev 19](/bible/leviticus/19) · [Eccl 7](/bible/ecclesiastes/7) · [Jer 3](/bible/jeremiah/3) · [Wis 14](/bible/wisdom-of-solomon/14) · [Hos 5](/bible/hosea/5) · [2 Esdras 7](/bible/2-esdras/7) · [Rev 18](/bible/revelation/18) · [Zeph 2](/bible/zephaniah/2) · [2 Esdras 9](/bible/2-esdras/9) · [Dan 2](/bible/daniel/2) · [2 Esdras 11](/bible/2-esdras/11) · <i>and 2 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="qPKSyeIvjDI"></div>

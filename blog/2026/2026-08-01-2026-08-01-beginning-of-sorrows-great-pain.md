@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "prophecy", "war", "america-babylon"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01</p>
 
+<span class="opens"><b>Opens</b> [Deut 28](/bible/deuteronomy/28) · [Matt 16](/bible/matthew/16) · [2 Esdras 9](/bible/2-esdras/9) · [Gen 15](/bible/genesis/15) · [Exod 12](/bible/exodus/12) · [Exod 3](/bible/exodus/3) · [Rev 11](/bible/revelation/11) · [2 Esdras 15](/bible/2-esdras/15) · [Matt 24](/bible/matthew/24) · [2 Esdras 16](/bible/2-esdras/16) · [Rev 6](/bible/revelation/6) · [Isa 14](/bible/isaiah/14) · [Jer 51](/bible/jeremiah/51) · [Jer 25](/bible/jeremiah/25) · [Rev 18](/bible/revelation/18) · [Mic 4](/bible/micah/4) · <i>and 2 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="6gzqYKSUmS4"></div>

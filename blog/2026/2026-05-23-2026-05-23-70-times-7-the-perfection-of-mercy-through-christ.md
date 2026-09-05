@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "christ", "sabbath", "passover-feasts",
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Sir 12](/bible/sirach/12) · [Gen 15](/bible/genesis/15) · [Exod 1](/bible/exodus/1) · [Exod 3](/bible/exodus/3) · [1 Cor 10](/bible/1-corinthians/10) · [Isa 1](/bible/isaiah/1) · [Num 13](/bible/numbers/13) · [Num 14](/bible/numbers/14) · [Judg 2](/bible/judges/2) · [2 Chr 36](/bible/2-chronicles/36) · [Matt 1](/bible/matthew/1) · [Gen 2](/bible/genesis/2) · [Heb 3](/bible/hebrews/3) · [Heb 4](/bible/hebrews/4) · [2 Kgs 5](/bible/2-kings/5) · [Josh 6](/bible/joshua/6) · <i>and 9 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="GbkgUFGpeY8"></div>

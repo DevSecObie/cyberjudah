@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "media", "deceit", "satan", "edom-esau", "war"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-16 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 5](/bible/isaiah/5) · [Eph 2](/bible/ephesians/2) · [Isa 25](/bible/isaiah/25) · [Jer 51](/bible/jeremiah/51) · [Gen 3](/bible/genesis/3) · [John 8](/bible/john/8) · [Isa 30](/bible/isaiah/30) · [Jer 5](/bible/jeremiah/5) · [Rev 14](/bible/revelation/14) · [Rev 16](/bible/revelation/16) · [Rev 12](/bible/revelation/12) · [2 Thess 2](/bible/2-thessalonians/2) · [Rev 18](/bible/revelation/18) · [Rev 17](/bible/revelation/17) · [2 Cor 4](/bible/2-corinthians/4) · [Eph 6](/bible/ephesians/6) · <i>and 13 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="o6lTUvedO-s"></div>

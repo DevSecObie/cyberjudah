@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "war"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01</p>
 
+<span class="opens"><b>Opens</b> [Gen 4](/bible/genesis/4) · [Gen 25](/bible/genesis/25) · [Gen 27](/bible/genesis/27) · [Exod 17](/bible/exodus/17) · [Deut 23](/bible/deuteronomy/23) · [Deut 25](/bible/deuteronomy/25) · [Num 24](/bible/numbers/24) · [1 Sam 15](/bible/1-samuel/15) · [Esther 2](/bible/esther/2) · [Esther 3](/bible/esther/3) · [Esth (Gk) 13](/bible/esther-greek/13) · [Ps 50](/bible/psalms/50) · [1 John 3](/bible/1-john/3) · [John 8](/bible/john/8) · [Wis 10](/bible/wisdom-of-solomon/10) · [Amos 1](/bible/amos/1) · <i>and 15 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

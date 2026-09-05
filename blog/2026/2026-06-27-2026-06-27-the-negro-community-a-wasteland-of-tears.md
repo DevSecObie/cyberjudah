@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "justice", "the-law", "false-religion", "repenta
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-27 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Sir 32](/bible/sirach/32) · [1 John 5](/bible/1-john/5) · [2 John 1](/bible/2-john/1) · [Rom 7](/bible/romans/7) · [Isa 1](/bible/isaiah/1) · [2 Esdras 10](/bible/2-esdras/10) · [Isa 59](/bible/isaiah/59) · [1 Cor 6](/bible/1-corinthians/6) · [Gal 4](/bible/galatians/4) · [Ps 109](/bible/psalms/109) · [Prov 9](/bible/proverbs/9) · [Hos 4](/bible/hosea/4) · [Ps 119](/bible/psalms/119) · [Job 39](/bible/job/39) · [Lam 4](/bible/lamentations/4) · [Isa 9](/bible/isaiah/9) · <i>and 9 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="U39hwR1pDTQ"></div>

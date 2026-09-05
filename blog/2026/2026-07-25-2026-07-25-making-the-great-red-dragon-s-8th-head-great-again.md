@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "reparations"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25</p>
 
+<span class="opens"><b>Opens</b> [Job 9](/bible/job/9) · [Prov 29](/bible/proverbs/29) · [Eccl 10](/bible/ecclesiastes/10) · [Ps 82](/bible/psalms/82) · [2 Esdras 5](/bible/2-esdras/5) · [Isa 3](/bible/isaiah/3) · [Dan 7](/bible/daniel/7) · [1 Macc 1](/bible/1-maccabees/1) · [Eph 6](/bible/ephesians/6)</span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

@@ -231,6 +231,10 @@ const studyFor = (book, ch) => notes.find((n) => n.kind === "study" && n.book ==
 const BIBLE_LINK = /\[([^\]]*)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)/g;
 function scanCitations(body, self) {
   if (!self) return;
+  // The "Opens" summary at the top of a note (scripts/index-scriptures.mjs) is derived from
+  // the citations below it. Counting it again would add a phantom chapter-level citation per
+  // passage and quietly reweight which books a class is filed under on the browse cards.
+  body = body.replace(/^<span class="opens">[\s\S]*?<\/span>$/m, "");
   for (const [, label, bslug, ch, anchor] of body.matchAll(BIBLE_LINK)) {
     const book = bookBySlug[bslug]; if (!book || !bible[book]?.[ch]) continue;
     const text = label.trim();
@@ -304,6 +308,50 @@ write(path.join(DOCS, "encyclopedia", "index.md"), fm({ title: "Encyclopedia", s
 
 for (const n of [...studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0])), ...classNotes, ...captainNotes, ...enc])
   scanCitations(n.body, noteSelf(n));
+
+/* ---------------- write: classes by book ---------------- */
+// The concordance runs chapter -> everything that cites it. This is the same graph read the
+// other way for the two dated feeds: book -> the classes and episodes that opened it, with the
+// chapters each one turned to. "Which classes went through Ezekiel" had no answer before this
+// short of opening ninety-seven notes.
+{
+  const byBook = new Map();   // book -> url -> {label, kind, chapters:Set}
+  for (const [key, rows] of cited) {
+    const [book, ch] = key.split("|");
+    for (const r of uniqueCitations(rows)) {
+      const kind = r.url.startsWith("/classes/") ? "class" : r.url.startsWith("/captains/") ? "captains" : null;
+      if (!kind) continue;
+      if (!byBook.has(book)) byBook.set(book, new Map());
+      const m = byBook.get(book);
+      if (!m.has(r.url)) m.set(r.url, { label: r.label, kind, chapters: new Set() });
+      m.get(r.url).chapters.add(+ch);
+    }
+  }
+  const books = BOOKS.filter((b) => byBook.has(b));
+  const total = new Set([...byBook.values()].flatMap((m) => [...m.keys()])).size;
+  const body = ["Every book of scripture a class or an episode opens, and which chapters it turned to.",
+    "Filter the same material by topic, teacher or book on the [class browse page](/classes/browse).", "",
+    `${total} notes · ${books.length} of ${BOOKS.length} books opened`, ""];
+  for (const t of ["Old Testament", "New Testament", "Apocrypha"]) {
+    const inT = books.filter((b) => testament(b) === t);
+    if (!inT.length) continue;
+    body.push(`## ${t}`, "");
+    for (const b of inT) {
+      const rows = [...byBook.get(b).entries()]
+        .map(([url, v]) => ({ url, ...v, chapters: [...v.chapters].sort((x, y) => x - y) }))
+        .sort((x, y) => x.chapters[0] - y.chapters[0] || x.label.localeCompare(y.label));
+      body.push(`### [${b}](${bookUrl(b)}) <span class="byb-n">${rows.length}</span>`, "");
+      for (const r of rows)
+        body.push(`- [${r.label}](${r.url})${r.kind === "captains" ? " <span class=\"byb-kind\">15 Min</span>" : ""} · ` +
+          r.chapters.map((c) => `[${c}](${chapterUrl(b, c)})`).join(" · "));
+      body.push("");
+    }
+  }
+  write(path.join(DOCS, "concordance", "by-class.md"), fm({
+    title: "Classes by book", slug: "/classes/by-book", sidebar_label: "Classes by book", sidebar_position: 999,
+    description: "Which class notes and episodes open which book of scripture",
+  }) + body.join("\n") + "\n");
+}
 
 /* ---------------- write: cases ---------------- */
 write(path.join(DOCS, "cases", "_category_.json"), JSON.stringify({ label: "Case Studies", position: 7, link: { type: "doc", id: "cases/index" } }));

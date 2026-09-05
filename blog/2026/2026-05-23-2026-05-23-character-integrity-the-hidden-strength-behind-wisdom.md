@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "wisdom", "leadership", "betrayal", "gossip"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23</p>
 
+<span class="opens"><b>Opens</b> [Wis 1](/bible/wisdom-of-solomon/1) · [Josh 1](/bible/joshua/1) · [Gen 39](/bible/genesis/39) · [Job 2](/bible/job/2) · [Dan 6](/bible/daniel/6) · [John 12](/bible/john/12) · [1 Sam 15](/bible/1-samuel/15) · [1 Sam 18](/bible/1-samuel/18) · [Phil 2](/bible/philippians/2) · [Ps 7](/bible/psalms/7) · [Heb 2](/bible/hebrews/2)</span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

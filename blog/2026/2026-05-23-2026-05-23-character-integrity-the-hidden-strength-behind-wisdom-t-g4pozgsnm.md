@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "wisdom", "discipline", "pride", "gossip", "lead
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Prov 11](/bible/proverbs/11) · [Prov 20](/bible/proverbs/20) · [1 Sam 2](/bible/1-samuel/2) · [Ps 15](/bible/psalms/15) · [Prov 12](/bible/proverbs/12) · [Prov 15](/bible/proverbs/15) · [James 3](/bible/james/3) · [Sir 1](/bible/sirach/1)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="T-g4PozGSnM"></div>

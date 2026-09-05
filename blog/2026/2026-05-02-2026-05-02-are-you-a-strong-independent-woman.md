@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "women", "marriage-family"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Deut 11](/bible/deuteronomy/11) · [Deut 28](/bible/deuteronomy/28) · [1 Kgs 2](/bible/1-kings/2) · [Gen 3](/bible/genesis/3) · [Isa 3](/bible/isaiah/3) · [1 Tim 2](/bible/1-timothy/2) · [1 Cor 14](/bible/1-corinthians/14) · [2 Kgs 9](/bible/2-kings/9) · [2 Kgs 8](/bible/2-kings/8) · [2 Kgs 11](/bible/2-kings/11) · [1 Sam 25](/bible/1-samuel/25) · [Ezra 9](/bible/ezra/9) · [Prov 14](/bible/proverbs/14) · [Prov 11](/bible/proverbs/11) · [Sir 7](/bible/sirach/7) · [Prov 12](/bible/proverbs/12) · <i>and 8 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="tsdO9OrUI54"></div>

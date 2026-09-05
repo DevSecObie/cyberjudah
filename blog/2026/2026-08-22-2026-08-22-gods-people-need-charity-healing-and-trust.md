@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "health", "leadership", "mercy"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 1](/bible/isaiah/1) · [Wis 16](/bible/wisdom-of-solomon/16) · [Hos 6](/bible/hosea/6) · [Hos 3](/bible/hosea/3) · [John 4](/bible/john/4) · [Hos 4](/bible/hosea/4) · [Sir 10](/bible/sirach/10) · [Matt 23](/bible/matthew/23) · [Sir 1](/bible/sirach/1) · [2 Thess 3](/bible/2-thessalonians/3) · [2 Cor 8](/bible/2-corinthians/8) · [1 Pet 5](/bible/1-peter/5) · [Titus 2](/bible/titus/2) · [1 Sam 12](/bible/1-samuel/12) · [Prov 28](/bible/proverbs/28) · [Sir 11](/bible/sirach/11) · <i>and 19 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="RyRdIO615fU"></div>

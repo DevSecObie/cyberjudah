@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "prophecy", "war", "justice"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-11</p>
 
+<span class="opens"><b>Opens</b> [Jer 9](/bible/jeremiah/9) · [Lam 3](/bible/lamentations/3) · [Jer 8](/bible/jeremiah/8) · [2 Esdras 8](/bible/2-esdras/8) · [Matt 16](/bible/matthew/16) · [Matt 26](/bible/matthew/26) · [Dan 9](/bible/daniel/9) · [2 Tim 3](/bible/2-timothy/3) · [Dan 2](/bible/daniel/2) · [2 Chr 19](/bible/2-chronicles/19) · [2 Chr 20](/bible/2-chronicles/20) · [Mic 2](/bible/micah/2) · [Ps 94](/bible/psalms/94) · [Deut 16](/bible/deuteronomy/16) · [Prov 24](/bible/proverbs/24) · [Isa 11](/bible/isaiah/11) · <i>and 32 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

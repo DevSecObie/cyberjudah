@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "nations", "persecution", "media"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-01 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Num 10](/bible/numbers/10) · [Neh 8](/bible/nehemiah/8) · [Luke 10](/bible/luke/10) · [Sir 40](/bible/sirach/40) · [Wis 10](/bible/wisdom-of-solomon/10) · [Isa 29](/bible/isaiah/29) · [Ps 64](/bible/psalms/64) · [Hab 3](/bible/habakkuk/3) · [Obad 1](/bible/obadiah/1) · [2 Thess 2](/bible/2-thessalonians/2) · [Matt 10](/bible/matthew/10) · [Matt 12](/bible/matthew/12) · [Isa 14](/bible/isaiah/14) · [Hab 1](/bible/habakkuk/1) · [2 Esdras 16](/bible/2-esdras/16) · [Amos 3](/bible/amos/3)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="PrZE7A1aloo"></div>

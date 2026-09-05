@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "repentance"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18</p>
 
+<span class="opens"><b>Opens</b> [Eccl 1](/bible/ecclesiastes/1) · [2 Esdras 5](/bible/2-esdras/5) · [Gen 2](/bible/genesis/2) · [Gen 3](/bible/genesis/3) · [Gen 4](/bible/genesis/4) · [Gen 10](/bible/genesis/10) · [Matt 19](/bible/matthew/19) · [John 8](/bible/john/8) · [Gen 6](/bible/genesis/6) · [Gen 25](/bible/genesis/25) · [Gen 27](/bible/genesis/27) · [Ps 140](/bible/psalms/140) · [Gen 30](/bible/genesis/30) · [Gen 5](/bible/genesis/5) · [Gen 7](/bible/genesis/7) · [Heb 11](/bible/hebrews/11) · <i>and 9 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

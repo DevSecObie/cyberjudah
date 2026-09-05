@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "prayer"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-16 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Ps 82](/bible/psalms/82) · [Exod 1](/bible/exodus/1) · [Ps 83](/bible/psalms/83) · [Ps 81](/bible/psalms/81) · [Dan 11](/bible/daniel/11) · [Lev 26](/bible/leviticus/26) · [Prov 23](/bible/proverbs/23) · [Isa 13](/bible/isaiah/13) · [1 Sam 9](/bible/1-samuel/9) · [1 Sam 15](/bible/1-samuel/15) · [1 Sam 10](/bible/1-samuel/10) · [1 Sam 13](/bible/1-samuel/13) · [1 Sam 28](/bible/1-samuel/28) · [Sir 20](/bible/sirach/20) · [2 Esdras 14](/bible/2-esdras/14) · [Isa 51](/bible/isaiah/51) · <i>and 11 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="z55asCbUER8"></div>

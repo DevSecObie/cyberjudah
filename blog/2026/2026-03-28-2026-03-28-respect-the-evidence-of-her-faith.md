@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "faith", "marriage-family", "women"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-28 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Gen 2](/bible/genesis/2) · [Gen 3](/bible/genesis/3) · [1 Tim 2](/bible/1-timothy/2) · [Sir 25](/bible/sirach/25) · [Sir 36](/bible/sirach/36) · [Sir 10](/bible/sirach/10) · [2 Cor 11](/bible/2-corinthians/11) · [1 Cor 11](/bible/1-corinthians/11) · [John 5](/bible/john/5) · [1 Cor 14](/bible/1-corinthians/14) · [Exod 20](/bible/exodus/20) · [Num 30](/bible/numbers/30) · [Exod 22](/bible/exodus/22) · [Deut 22](/bible/deuteronomy/22) · [Sir 6](/bible/sirach/6) · <i>and 5 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="hKifTTWBba8"></div>

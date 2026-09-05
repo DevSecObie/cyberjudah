@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "satan", "sexual-purity", "women", "pride", "mar
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [1 Pet 5](/bible/1-peter/5) · [James 1](/bible/james/1) · [Prov 14](/bible/proverbs/14) · [Sir 6](/bible/sirach/6) · [Jer 17](/bible/jeremiah/17) · [Sir 18](/bible/sirach/18) · [Sir 23](/bible/sirach/23) · [Rom 6](/bible/romans/6) · [Luke 18](/bible/luke/18) · [2 Cor 11](/bible/2-corinthians/11) · [Gen 3](/bible/genesis/3) · [Wis 2](/bible/wisdom-of-solomon/2) · [Prov 7](/bible/proverbs/7) · [1 Esdras 4](/bible/1-esdras/4) · [Sir 21](/bible/sirach/21) · [1 Cor 7](/bible/1-corinthians/7) · <i>and 13 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="NtwCJWtpPQY"></div>

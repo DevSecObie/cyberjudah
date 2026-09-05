@@ -5,6 +5,7 @@
   "scripts": {
     "generate": "node scripts/generate.mjs && node scripts/build-search-index.mjs",
     "sync": "node scripts/generate.mjs && node scripts/build-search-index.mjs",
+    "notes:fix": "node scripts/link-timestamps.mjs && node scripts/tag-notes.mjs && node scripts/index-scriptures.mjs",
     "start": "npm run sync && docusaurus start",
     "build": "npm run sync && docusaurus build",
     "serve": "docusaurus serve",

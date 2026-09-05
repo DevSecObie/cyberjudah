@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "reparations"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-16 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Sir 17](/bible/sirach/17) · [Rom 13](/bible/romans/13) · [Isa 22](/bible/isaiah/22) · [Isa 51](/bible/isaiah/51) · [Matt 10](/bible/matthew/10) · [Luke 14](/bible/luke/14) · [1 Cor 5](/bible/1-corinthians/5) · [Zech 13](/bible/zechariah/13) · [Eph 6](/bible/ephesians/6) · [Jer 49](/bible/jeremiah/49) · [Obad 1](/bible/obadiah/1) · [Matt 15](/bible/matthew/15) · [Prov 1](/bible/proverbs/1) · [Hab 2](/bible/habakkuk/2)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="H5r5CisviT8"></div>

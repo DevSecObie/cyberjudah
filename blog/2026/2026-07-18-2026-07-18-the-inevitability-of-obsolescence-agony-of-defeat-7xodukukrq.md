@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "sexual-purity", "the-body", "sabbath", "christ"
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18</p>
 
+<span class="opens"><b>Opens</b> [Ps 3](/bible/psalms/3) · [Eccl 1](/bible/ecclesiastes/1) · [Rom 15](/bible/romans/15) · [Rom 8](/bible/romans/8) · [John 8](/bible/john/8) · [John 11](/bible/john/11) · [Acts 15](/bible/acts/15) · [John 3](/bible/john/3) · [Luke 23](/bible/luke/23) · [Sir 10](/bible/sirach/10) · [Ps 111](/bible/psalms/111) · [Jude 1](/bible/jude/1) · [Isa 28](/bible/isaiah/28) · [Heb 8](/bible/hebrews/8) · [Gen 4](/bible/genesis/4) · [1 John 3](/bible/1-john/3) · <i>and 1 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="-7xODUkUKrQ"></div>

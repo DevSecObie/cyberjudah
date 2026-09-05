@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "nations", "pride", "prophecy"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [John 5](/bible/john/5) · [Jer 48](/bible/jeremiah/48) · [Jer 49](/bible/jeremiah/49) · [2 Esdras 15](/bible/2-esdras/15) · [1 Macc 11](/bible/1-maccabees/11) · [Gen 19](/bible/genesis/19) · [Isa 15](/bible/isaiah/15) · [Isa 16](/bible/isaiah/16) · [Dan 11](/bible/daniel/11) · [2 Macc 5](/bible/2-maccabees/5) · [Ezek 25](/bible/ezekiel/25) · [2 Cor 6](/bible/2-corinthians/6) · [Ps 108](/bible/psalms/108)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="6XyhSewrzz0"></div>

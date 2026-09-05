@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-20 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Matt 24](/bible/matthew/24) · [2 Macc 15](/bible/2-maccabees/15) · [2 Macc 3](/bible/2-maccabees/3) · [Deut 14](/bible/deuteronomy/14) · [Tobit 1](/bible/tobit/1) · [Baruch 3](/bible/baruch/3) · [Sir 7](/bible/sirach/7) · [2 Macc 4](/bible/2-maccabees/4) · [2 Macc 5](/bible/2-maccabees/5) · [2 Macc 13](/bible/2-maccabees/13) · [2 Cor 13](/bible/2-corinthians/13) · [Matt 22](/bible/matthew/22)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="Qw2v07pohR4"></div>

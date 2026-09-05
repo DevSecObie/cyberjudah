@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "endurance", "the-word", "prayer", "wisdom", "di
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 1](/bible/genesis/1) · [Wis 7](/bible/wisdom-of-solomon/7) · [Sir 21](/bible/sirach/21) · [James 1](/bible/james/1) · [Sir 37](/bible/sirach/37) · [James 4](/bible/james/4) · [2 Cor 3](/bible/2-corinthians/3) · [Mark 1](/bible/mark/1) · [2 Esdras 1](/bible/2-esdras/1) · [Hos 5](/bible/hosea/5) · [2 Chr 7](/bible/2-chronicles/7) · [Luke 6](/bible/luke/6) · [Ps 50](/bible/psalms/50) · [1 Cor 12](/bible/1-corinthians/12) · [1 Sam 12](/bible/1-samuel/12) · [Ps 25](/bible/psalms/25)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="wTuOGE-zMSs"></div>

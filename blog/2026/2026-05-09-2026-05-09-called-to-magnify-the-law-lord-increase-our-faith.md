@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "faith", "the-law", "endurance", "prayer", "marr
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [2 Cor 13](/bible/2-corinthians/13) · [Rom 10](/bible/romans/10) · [2 Esdras 7](/bible/2-esdras/7) · [Sir 21](/bible/sirach/21) · [Ps 119](/bible/psalms/119) · [Ps 19](/bible/psalms/19) · [Job 36](/bible/job/36) · [Isa 42](/bible/isaiah/42) · [Isa 26](/bible/isaiah/26) · [Isa 14](/bible/isaiah/14) · [Tobit 4](/bible/tobit/4) · [James 2](/bible/james/2) · [Ps 94](/bible/psalms/94) · [2 Chr 6](/bible/2-chronicles/6) · [Isa 51](/bible/isaiah/51) · [Rom 15](/bible/romans/15) · <i>and 18 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="WzA8Ub2DhXk"></div>

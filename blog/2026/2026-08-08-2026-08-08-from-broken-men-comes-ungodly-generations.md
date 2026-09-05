@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "media"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-08 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Ps 94](/bible/psalms/94) · [Hos 3](/bible/hosea/3) · [Ezek 18](/bible/ezekiel/18) · [Prov 29](/bible/proverbs/29) · [1 Cor 15](/bible/1-corinthians/15) · [Prov 22](/bible/proverbs/22) · [2 Chr 22](/bible/2-chronicles/22) · [Isa 3](/bible/isaiah/3) · [Deut 6](/bible/deuteronomy/6) · [Josh 4](/bible/joshua/4) · [Hos 4](/bible/hosea/4) · [Deut 21](/bible/deuteronomy/21) · [Sir 30](/bible/sirach/30) · [Prov 13](/bible/proverbs/13) · [Sir 3](/bible/sirach/3) · <i>and 3 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="gNwLUTO-JOc"></div>

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "reparations", "captivity", "nations", "justice"
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-25 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 49](/bible/genesis/49) · [Isa 14](/bible/isaiah/14) · [Deut 33](/bible/deuteronomy/33) · [Luke 21](/bible/luke/21) · [Deut 28](/bible/deuteronomy/28) · [Hos 3](/bible/hosea/3) · [Isa 11](/bible/isaiah/11) · [Rom 10](/bible/romans/10) · [Matt 12](/bible/matthew/12) · [Isa 3](/bible/isaiah/3) · [Eccl 7](/bible/ecclesiastes/7) · [Isa 42](/bible/isaiah/42) · [Exod 22](/bible/exodus/22) · [Lam 2](/bible/lamentations/2) · [Dan 9](/bible/daniel/9) · [Jer 50](/bible/jeremiah/50) · <i>and 8 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="vJ3j9kchmtI"></div>

@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "health", "mental-health", "faith", "the-word", 
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Gen 2](/bible/genesis/2) · [1 Cor 15](/bible/1-corinthians/15) · [Wis 2](/bible/wisdom-of-solomon/2) · [John 5](/bible/john/5) · [2 Esdras 3](/bible/2-esdras/3) · [2 Esdras 4](/bible/2-esdras/4) · [2 Esdras 7](/bible/2-esdras/7) · [Ps 51](/bible/psalms/51) · [Matt 26](/bible/matthew/26) · [Rom 7](/bible/romans/7) · [Wis 9](/bible/wisdom-of-solomon/9) · [Wis 7](/bible/wisdom-of-solomon/7) · [Baruch 3](/bible/baruch/3) · [Sir 40](/bible/sirach/40) · [Luke 10](/bible/luke/10) · [Ps 109](/bible/psalms/109) · <i>and 34 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="sswMP7Skv-4"></div>

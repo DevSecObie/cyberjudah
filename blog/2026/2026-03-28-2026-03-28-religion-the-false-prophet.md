@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-28 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Eccl 1](/bible/ecclesiastes/1) · [Gen 4](/bible/genesis/4) · [Gen 5](/bible/genesis/5) · [Gen 6](/bible/genesis/6) · [Gen 8](/bible/genesis/8) · [Gen 9](/bible/genesis/9) · [Gen 10](/bible/genesis/10) · [Gen 11](/bible/genesis/11) · [Obad 1](/bible/obadiah/1) · [Jer 51](/bible/jeremiah/51) · [Hab 2](/bible/habakkuk/2) · [Num 24](/bible/numbers/24) · [Dan 8](/bible/daniel/8) · [Matt 24](/bible/matthew/24) · [Rev 16](/bible/revelation/16) · [Matt 12](/bible/matthew/12) · <i>and 14 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="JLhHPemmiSk"></div>

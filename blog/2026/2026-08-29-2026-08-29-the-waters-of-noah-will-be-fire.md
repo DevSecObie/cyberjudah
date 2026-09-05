@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "deceit"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 54](/bible/isaiah/54) · [Job 9](/bible/job/9) · [Ezek 28](/bible/ezekiel/28) · [Isa 25](/bible/isaiah/25) · [Isa 11](/bible/isaiah/11) · [Hab 2](/bible/habakkuk/2) · [2 Cor 11](/bible/2-corinthians/11) · [Ps 50](/bible/psalms/50) · [Luke 1](/bible/luke/1) · [Matt 11](/bible/matthew/11) · [Ps 140](/bible/psalms/140) · [John 10](/bible/john/10) · [Isa 63](/bible/isaiah/63) · [Rom 8](/bible/romans/8) · [Ps 44](/bible/psalms/44) · [Deut 32](/bible/deuteronomy/32) · <i>and 19 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="cnDvZpSxtIk"></div>

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "war", "deceit", "prophecy"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-29</p>
 
+<span class="opens"><b>Opens</b> [2 Chr 2](/bible/2-chronicles/2) · [Sir 43](/bible/sirach/43) · [Isa 29](/bible/isaiah/29) · [Amos 3](/bible/amos/3) · [1 Cor 2](/bible/1-corinthians/2) · [Rev 17](/bible/revelation/17) · [Lev 21](/bible/leviticus/21) · [Obad 1](/bible/obadiah/1) · [Dan 8](/bible/daniel/8) · [Acts 5](/bible/acts/5) · [Rev 13](/bible/revelation/13) · [Dan 7](/bible/daniel/7) · [Rev 12](/bible/revelation/12) · [Rev 18](/bible/revelation/18) · [1 Macc 1](/bible/1-maccabees/1)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="stGojnrSmJA"></div>

@@ -129,7 +129,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [
-        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes/browse" }, { label: "15 Minutes w/ The Captains", to: "/captains/browse" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
+        { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes/browse" }, { label: "Classes by Book", to: "/classes/by-book" }, { label: "15 Minutes w/ The Captains", to: "/captains/browse" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
         { title: "The Law", items: [{ label: "Handbook", to: "/law" }, { label: "Precepts", to: "/precepts" }, { label: "Case Studies", to: "/cases" }, { label: "Concordance", to: "/concordance" }] },
         { title: "Tools", items: [{ label: "Search", to: "/search" }, { label: "API", to: "/api" }, { label: "Downloads", to: "/downloads" }] },
       ],

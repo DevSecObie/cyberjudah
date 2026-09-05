@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>
 
+<span class="opens"><b>Opens</b> [Rev 17](/bible/revelation/17) · [Rev 18](/bible/revelation/18) · [Zech 2](/bible/zechariah/2) · [Obad 1](/bible/obadiah/1) · [2 Esdras 12](/bible/2-esdras/12) · [Ps 109](/bible/psalms/109) · [Dan 11](/bible/daniel/11) · [Hab 1](/bible/habakkuk/1) · [Job 1](/bible/job/1) · [Job 2](/bible/job/2) · [Isa 1](/bible/isaiah/1) · [Job 4](/bible/job/4) · [Job 29](/bible/job/29) · [Job 35](/bible/job/35) · [Eccl 4](/bible/ecclesiastes/4) · [Ps 102](/bible/psalms/102) · <i>and 11 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="oDJQWLjahKg"></div>

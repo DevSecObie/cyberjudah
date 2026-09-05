@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "war"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [2 Esdras 11](/bible/2-esdras/11) · [2 Esdras 12](/bible/2-esdras/12) · [Dan 7](/bible/daniel/7) · [Luke 2](/bible/luke/2) · [Luke 3](/bible/luke/3) · [Acts 18](/bible/acts/18) · [Acts 11](/bible/acts/11) · [Acts 25](/bible/acts/25) · [Acts 28](/bible/acts/28) · [Rev 2](/bible/revelation/2) · [Tobit 4](/bible/tobit/4) · [Mal 1](/bible/malachi/1) · [Rev 13](/bible/revelation/13) · [1 Macc 8](/bible/1-maccabees/8) · [Jer 4](/bible/jeremiah/4) · <i>and 10 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="ZnReLwFHcS8"></div>

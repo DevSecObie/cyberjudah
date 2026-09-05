@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "deceit", "false-religion"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [2 Cor 13](/bible/2-corinthians/13) · [Deut 28](/bible/deuteronomy/28) · [Rom 10](/bible/romans/10) · [Eph 6](/bible/ephesians/6) · [Zech 5](/bible/zechariah/5) · [Exod 21](/bible/exodus/21) · [Jer 22](/bible/jeremiah/22) · [Ps 58](/bible/psalms/58) · [Hab 2](/bible/habakkuk/2) · [Ps 137](/bible/psalms/137) · [Rev 2](/bible/revelation/2) · [Ps 50](/bible/psalms/50) · [Mal 1](/bible/malachi/1) · [Luke 4](/bible/luke/4) · [Rev 13](/bible/revelation/13) · [Gen 4](/bible/genesis/4) · <i>and 10 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="0yyd-1tBSXU"></div>

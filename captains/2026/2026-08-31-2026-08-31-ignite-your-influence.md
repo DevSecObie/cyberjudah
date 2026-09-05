@@ -9,6 +9,8 @@ tags: ["15 Minutes w/ The Captains", "the-law", "the-word", "mental-health", "me
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-31</p>
 
+<span class="opens"><b>Opens</b> [Prov 20](/bible/proverbs/20) · [Eph 4](/bible/ephesians/4) · [Rom 8](/bible/romans/8) · [Isa 33](/bible/isaiah/33) · [Eph 5](/bible/ephesians/5) · [John 6](/bible/john/6) · [1 Tim 4](/bible/1-timothy/4) · [Sir 21](/bible/sirach/21) · [Prov 19](/bible/proverbs/19) · [Matt 6](/bible/matthew/6) · [Baruch 4](/bible/baruch/4) · [Ps 119](/bible/psalms/119) · [2 Cor 5](/bible/2-corinthians/5) · [Ps 18](/bible/psalms/18) · [Ps 51](/bible/psalms/51) · [Rev 2](/bible/revelation/2) · <i>and 2 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="-llETUpdC5s"></div>

@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "nations", "false-religion", "edom-esau"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Isa 34](/bible/isaiah/34) · [Rev 1](/bible/revelation/1) · [Dan 9](/bible/daniel/9) · [1 Kgs 8](/bible/1-kings/8) · [Deut 28](/bible/deuteronomy/28) · [Col 2](/bible/colossians/2) · [Rev 6](/bible/revelation/6) · [Isa 29](/bible/isaiah/29) · [Matt 15](/bible/matthew/15) · [2 Cor 11](/bible/2-corinthians/11) · [Sir 12](/bible/sirach/12) · [Eph 1](/bible/ephesians/1) · [Gen 41](/bible/genesis/41) · [Gen 48](/bible/genesis/48) · [2 Esdras 13](/bible/2-esdras/13) · <i>and 2 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="YVvCyl2ZZUQ"></div>

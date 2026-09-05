@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "repentance", "nations", "media"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>
 
+<span class="opens"><b>Opens</b> [Obad 1](/bible/obadiah/1) · [Deut 33](/bible/deuteronomy/33) · [Deut 28](/bible/deuteronomy/28) · [Gen 49](/bible/genesis/49) · [Prov 1](/bible/proverbs/1) · [Sir 12](/bible/sirach/12) · [Mal 1](/bible/malachi/1) · [Mal 2](/bible/malachi/2) · [Mal 3](/bible/malachi/3) · [Wis 18](/bible/wisdom-of-solomon/18) · [Ps 21](/bible/psalms/21) · [Ps 68](/bible/psalms/68) · [Ps 140](/bible/psalms/140) · [Nah 1](/bible/nahum/1) · [Ps 92](/bible/psalms/92) · [2 Thess 2](/bible/2-thessalonians/2) · <i>and 10 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">

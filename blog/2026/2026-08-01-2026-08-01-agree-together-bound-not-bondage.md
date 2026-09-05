@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "marriage-family", "women", "idolat
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Eccl 1](/bible/ecclesiastes/1) · [Rom 15](/bible/romans/15) · [Rev 13](/bible/revelation/13) · [Dan 3](/bible/daniel/3) · [Wis 14](/bible/wisdom-of-solomon/14) · [Prov 31](/bible/proverbs/31) · [Prov 22](/bible/proverbs/22) · [Gen 2](/bible/genesis/2) · [Eccl 9](/bible/ecclesiastes/9) · [Mal 2](/bible/malachi/2) · [Prov 5](/bible/proverbs/5) · [Eph 5](/bible/ephesians/5) · [Matt 16](/bible/matthew/16) · [Mark 4](/bible/mark/4) · [Matt 17](/bible/matthew/17) · [Eccl 3](/bible/ecclesiastes/3) · <i>and 12 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="T2fTN52Aq_U"></div>

@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "pride", "deceit", "the-body"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Isa 14](/bible/isaiah/14) · [Eccl 7](/bible/ecclesiastes/7) · [Sir 10](/bible/sirach/10) · [Ps 10](/bible/psalms/10) · [Ps 31](/bible/psalms/31) · [Jer 30](/bible/jeremiah/30) · [Prov 8](/bible/proverbs/8) · [Prov 29](/bible/proverbs/29) · [Sir 32](/bible/sirach/32) · [James 4](/bible/james/4) · [Prov 16](/bible/proverbs/16) · [Sir 13](/bible/sirach/13) · [Sir 3](/bible/sirach/3) · [Sir 16](/bible/sirach/16) · [2 Esdras 9](/bible/2-esdras/9) · [2 Kgs 18](/bible/2-kings/18) · <i>and 6 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="hlZo30CYViE"></div>

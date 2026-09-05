@@ -9,6 +9,8 @@ tags: ["15 Minutes w/ The Captains", "substance-abuse"]
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-21</p>
 
+<span class="opens"><b>Opens</b> [John 12](/bible/john/12) · [Mark 2](/bible/mark/2) · [2 Macc 6](/bible/2-maccabees/6) · [Eph 4](/bible/ephesians/4)</span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="PB8tcDPkvCk"></div>

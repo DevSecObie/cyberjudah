@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "persecution", "america-babylon", "adversity"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-02 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [1 Pet 5](/bible/1-peter/5) · [Ps 94](/bible/psalms/94) · [1 Thess 4](/bible/1-thessalonians/4) · [Matt 22](/bible/matthew/22) · [Gen 49](/bible/genesis/49) · [Eph 3](/bible/ephesians/3) · [Job 14](/bible/job/14) · [Rom 14](/bible/romans/14) · [2 Cor 5](/bible/2-corinthians/5) · [Hab 1](/bible/habakkuk/1) · [Isa 28](/bible/isaiah/28) · [Mic 2](/bible/micah/2) · [Zech 9](/bible/zechariah/9) · [Lam 4](/bible/lamentations/4) · [Isa 32](/bible/isaiah/32) · [Hos 5](/bible/hosea/5) · <i>and 1 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="Qd8NC9s9670"></div>

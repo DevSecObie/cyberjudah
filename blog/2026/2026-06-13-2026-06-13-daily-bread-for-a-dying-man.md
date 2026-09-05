@@ -9,6 +9,8 @@ tags: ["IUIC in the ClassRoom", "the-word", "prayer"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-13 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [Deut 8](/bible/deuteronomy/8) · [Matt 4](/bible/matthew/4) · [Exod 16](/bible/exodus/16) · [Sir 33](/bible/sirach/33) · [Matt 6](/bible/matthew/6) · [1 Cor 10](/bible/1-corinthians/10) · [Job 23](/bible/job/23) · [Jer 15](/bible/jeremiah/15) · [Ezek 3](/bible/ezekiel/3) · [Ps 1](/bible/psalms/1) · [Josh 1](/bible/joshua/1) · [Ps 119](/bible/psalms/119) · [Sir 6](/bible/sirach/6) · [Rom 1](/bible/romans/1) · [Sir 39](/bible/sirach/39) · [Gal 5](/bible/galatians/5) · <i>and 29 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="EtPB8pdK2XE"></div>

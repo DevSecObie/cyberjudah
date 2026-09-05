@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "mental-health", "pride", "marriage-fam
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-15 (date estimated)</p>
 
+<span class="opens"><b>Opens</b> [2 Esdras 15](/bible/2-esdras/15) · [Prov 4](/bible/proverbs/4) · [Ps 139](/bible/psalms/139) · [Ps 19](/bible/psalms/19) · [Luke 6](/bible/luke/6) · [Prov 23](/bible/proverbs/23) · [Prov 16](/bible/proverbs/16) · [Prov 12](/bible/proverbs/12) · [2 Chr 26](/bible/2-chronicles/26) · [Prov 14](/bible/proverbs/14) · [James 1](/bible/james/1) · [Eph 4](/bible/ephesians/4) · [Heb 12](/bible/hebrews/12) · [1 Sam 18](/bible/1-samuel/18) · [Phil 2](/bible/philippians/2) · [Num 14](/bible/numbers/14) · <i>and 7 more below</i></span>
+
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="fI3hRBaEuAw"></div>

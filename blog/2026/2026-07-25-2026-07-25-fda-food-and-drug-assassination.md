@@ -8,6 +8,8 @@ tags: ["IUIC in the ClassRoom", "health", "marriage-family"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25</p>
 
+<span class="opens"><b>Opens</b> [1 Pet 3](/bible/1-peter/3) · [Ps 64](/bible/psalms/64) · [Ps 83](/bible/psalms/83) · [Hab 3](/bible/habakkuk/3) · [Gen 2](/bible/genesis/2) · [Ps 1](/bible/psalms/1) · [Gen 1](/bible/genesis/1) · [Ps 104](/bible/psalms/104) · [Rev 22](/bible/revelation/22) · [Gen 4](/bible/genesis/4) · [Ezek 4](/bible/ezekiel/4) · [Rev 6](/bible/revelation/6) · [Isa 14](/bible/isaiah/14) · [Job 13](/bible/job/13) · [2 Chr 16](/bible/2-chronicles/16) · [Ps 51](/bible/psalms/51) · <i>and 5 more below</i></span>
+
 <!-- truncate -->
 
 <figure class="class-hero">
