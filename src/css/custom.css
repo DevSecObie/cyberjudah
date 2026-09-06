@@ -64,10 +64,19 @@
   --ifm-navbar-background-color: rgba(5, 7, 15, .82);
 }
 html { scroll-padding-top: 90px; }
-.navbar { box-shadow: none; border-bottom: 1px solid var(--ifm-color-emphasis-200);
-  /* The navbar background is translucent; without a blur, the doc sidebar's own brand block
-     (shown when the navbar hides on scroll) reads through it as a ghost second wordmark. */
+.navbar { box-shadow: none; border-bottom: 1px solid var(--ifm-color-emphasis-200); }
+/* The navbar background is translucent; without a blur, the doc sidebar's own brand block
+   (shown when the navbar hides on scroll) reads through it as a ghost second wordmark.
+   The blur lives on a pseudo-element, not on .navbar itself: backdrop-filter makes an
+   element the containing block for position:fixed descendants, and Docusaurus renders the
+   mobile drawer (.navbar-sidebar) inside the navbar, so with the filter on .navbar the
+   drawer's 100% height was the navbar's 62px and the menu below its header never showed. */
+.navbar::before { content: ""; position: absolute; inset: 0; z-index: -1;
   -webkit-backdrop-filter: blur(14px) saturate(1.4); backdrop-filter: blur(14px) saturate(1.4); }
+/* The mobile drawer inherits the translucent navbar colour; it needs a solid ground so the
+   page does not read through the menu. */
+.navbar-sidebar { background: var(--ifm-background-color); }
+.navbar-sidebar__brand { background: var(--ifm-background-color); border-bottom: 1px solid var(--ifm-color-emphasis-200); }
 .navbar__title { font-family: var(--ifm-font-family-monospace); letter-spacing: .14em; font-weight: 700; }
 .navbar__logo { height: 26px; }
 .menu__link { font-size: .92em; }
