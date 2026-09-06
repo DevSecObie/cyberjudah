@@ -2,6 +2,7 @@
 title: "JOSEPH IN EGYPT: THEN & NOW"
 slug: "2026/2026-05-30-joseph-in-egypt-then-now"
 date: "2026-05-30"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-30"
 tags: ["IUIC in the ClassRoom", "captivity"]
 ---

@@ -2,6 +2,7 @@
 title: "INTEGRATING INTO A BURNING HOUSE"
 slug: "2026/2026-05-09-integrating-into-a-burning-house"
 date: "2026-05-09"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-09"
 tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "nations", "persecution", "pride"]
 ---

@@ -2,6 +2,7 @@
 title: "THE PLAGUES COMING TO AMERICA"
 slug: "2026/2026-04-21-the-plagues-coming-to-america"
 date: "2026-04-21"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-21"
 tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "war"]
 ---

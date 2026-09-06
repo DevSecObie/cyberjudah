@@ -2,6 +2,7 @@
 title: "God, Purpose, and Sacrifice"
 slug: "2026/2026-05-30-god-purpose-and-sacrifice"
 date: "2026-05-30"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-30"
 tags: ["IUIC in the ClassRoom", "captivity", "nations", "purpose", "reparations"]
 ---

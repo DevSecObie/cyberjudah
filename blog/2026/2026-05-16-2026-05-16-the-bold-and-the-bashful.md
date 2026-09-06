@@ -2,6 +2,7 @@
 title: "THE BOLD AND THE BASHFUL"
 slug: "2026/2026-05-16-the-bold-and-the-bashful"
 date: "2026-05-16"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-16"
 tags: ["IUIC in the ClassRoom", "faith", "leadership", "prayer"]
 ---

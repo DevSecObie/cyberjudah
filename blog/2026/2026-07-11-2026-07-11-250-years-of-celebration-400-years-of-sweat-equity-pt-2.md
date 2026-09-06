@@ -2,6 +2,7 @@
 title: "250 YEARS OF CELEBRATION 400 YEARS OF SWEAT EQUITY (PT 2)"
 slug: "2026/2026-07-11-250-years-of-celebration-400-years-of-sweat-equity-pt-2"
 date: "2026-07-11"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-11"
 tags: ["IUIC in the ClassRoom", "justice", "reparations"]
 ---

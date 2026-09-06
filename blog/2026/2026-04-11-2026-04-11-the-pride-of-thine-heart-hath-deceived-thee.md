@@ -2,6 +2,7 @@
 title: "The Pride Of Thine Heart Hath Deceived Thee!"
 slug: "2026/2026-04-11-the-pride-of-thine-heart-hath-deceived-thee"
 date: "2026-04-11"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-11"
 tags: ["IUIC in the ClassRoom", "deceit", "pride", "the-body"]
 ---

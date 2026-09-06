@@ -2,6 +2,7 @@
 title: "The Madmen Of China And Their Hatred For Black People"
 slug: "2026/2026-06-20-the-madmen-of-china-and-their-hatred-for-black-people"
 date: "2026-06-20"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-06-20"
 tags: ["IUIC in the ClassRoom", "captivity", "nations", "pride", "prophecy"]
 ---

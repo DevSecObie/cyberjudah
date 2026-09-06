@@ -106,7 +106,9 @@ def lint(path):
     if "teacher" in seen:
         who = unq(seen["teacher"][0])
         if not who:
-            E.append(f"{rel}: `teacher` is empty -- omit the field instead")
+            # An empty `teacher:` is the placeholder waiting for a hand edit off the recording.
+            # It is deliberate, so it warns like a missing name rather than failing the deploy.
+            W.append(f"{rel}: `teacher` is an empty placeholder -- fill it in from the recording")
         elif not who.startswith(TITLES):
             E.append(f"{rel}: teacher {who!r} has no rank title; the browse chips group by it")
     else:

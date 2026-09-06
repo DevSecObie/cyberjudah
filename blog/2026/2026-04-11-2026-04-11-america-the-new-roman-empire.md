@@ -2,6 +2,7 @@
 title: "AMERICA: THE NEW ROMAN EMPIRE"
 slug: "2026/2026-04-11-america-the-new-roman-empire"
 date: "2026-04-11"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-11"
 tags: ["IUIC in the ClassRoom", "america-babylon", "war"]
 ---

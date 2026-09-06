@@ -2,6 +2,7 @@
 title: "CALLED TO JUDGE: COMMANDED TO BE JUST"
 slug: "2026/2026-05-02-called-to-judge-commanded-to-be-just"
 date: "2026-05-02"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-02"
 tags: ["IUIC in the ClassRoom", "justice", "leadership", "passover-feasts", "wisdom"]
 ---

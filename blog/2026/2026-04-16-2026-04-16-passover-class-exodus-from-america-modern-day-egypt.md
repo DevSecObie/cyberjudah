@@ -2,6 +2,7 @@
 title: "Passover Class: Exodus From America Modern Day Egypt"
 slug: "2026/2026-04-16-passover-class-exodus-from-america-modern-day-egypt"
 date: "2026-04-16"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-16"
 tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "captivity", "passover-feasts"]
 ---

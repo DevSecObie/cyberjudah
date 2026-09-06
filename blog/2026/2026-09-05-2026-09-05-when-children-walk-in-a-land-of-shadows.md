@@ -2,6 +2,7 @@
 title: "WHEN CHILDREN WALK IN A LAND OF SHADOWS"
 slug: "2026/2026-09-05-when-children-walk-in-a-land-of-shadows"
 date: "2026-09-05"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-09-05"
 tags: ["IUIC in the ClassRoom", "women"]
 ---

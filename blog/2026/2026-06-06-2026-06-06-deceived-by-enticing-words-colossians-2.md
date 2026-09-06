@@ -2,6 +2,7 @@
 title: "DECEIVED BY ENTICING WORDS: COLOSSIANS 2"
 slug: "2026/2026-06-06-deceived-by-enticing-words-colossians-2"
 date: "2026-06-06"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-06-06"
 tags: ["IUIC in the ClassRoom", "christ", "deceit", "false-religion", "purpose", "wisdom"]
 ---

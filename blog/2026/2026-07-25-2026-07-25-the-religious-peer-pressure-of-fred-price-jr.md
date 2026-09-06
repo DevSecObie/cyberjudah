@@ -2,6 +2,7 @@
 title: "THE RELIGIOUS PEER PRESSURE OF FRED PRICE JR"
 slug: "2026/2026-07-25-the-religious-peer-pressure-of-fred-price-jr"
 date: "2026-07-25"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-25"
 tags: ["IUIC in the ClassRoom", "edom-esau"]
 ---

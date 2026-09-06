@@ -2,6 +2,7 @@
 title: "Pay The Price: Pleasure Now Regret Later"
 slug: "2026/2026-05-23-pay-the-price-pleasure-now-regret-later"
 date: "2026-05-23"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "endurance", "sexual-purity", "the-word"]
 ---

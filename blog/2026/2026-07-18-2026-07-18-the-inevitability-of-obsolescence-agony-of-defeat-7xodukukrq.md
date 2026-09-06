@@ -2,6 +2,7 @@
 title: "The Inevitability of Obsolescence & Agony of Defeat"
 slug: "2026/2026-07-18-the-inevitability-of-obsolescence-agony-of-defeat-7xodukukrq"
 date: "2026-07-18"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-18"
 tags: ["IUIC in the ClassRoom", "christ", "sabbath", "sexual-purity", "the-body", "the-law"]
 ---

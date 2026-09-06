@@ -2,6 +2,7 @@
 title: "WORLDWIDE UPHEAVAL: THE COMING CRISIS"
 slug: "2026/2026-04-04-worldwide-upheaval-the-coming-crisis"
 date: "2026-04-04"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-04"
 tags: ["IUIC in the ClassRoom", "betrayal", "marriage-family", "media", "prophecy", "war"]
 ---

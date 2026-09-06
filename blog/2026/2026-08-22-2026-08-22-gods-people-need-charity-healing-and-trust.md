@@ -2,6 +2,7 @@
 title: "GOD'S PEOPLE NEED CHARITY, HEALING & TRUST"
 slug: "2026/2026-08-22-gods-people-need-charity-healing-and-trust"
 date: "2026-08-22"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-08-22"
 tags: ["IUIC in the ClassRoom", "health", "leadership", "mercy"]
 ---

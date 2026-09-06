@@ -2,6 +2,7 @@
 title: "JUDGEMENT! TO HELL WITH YOUR REPARATIONS!"
 slug: "2026/2026-04-25-judgement-to-hell-with-your-reparations"
 date: "2026-04-25"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-25"
 tags: ["IUIC in the ClassRoom", "captivity", "justice", "nations", "reparations"]
 ---

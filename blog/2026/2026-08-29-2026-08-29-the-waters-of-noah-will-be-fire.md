@@ -2,6 +2,7 @@
 title: "THE WATERS OF NOAH WILL BE FIRE"
 slug: "2026/2026-08-29-the-waters-of-noah-will-be-fire"
 date: "2026-08-29"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-08-29"
 tags: ["IUIC in the ClassRoom", "deceit"]
 ---

@@ -2,6 +2,7 @@
 title: "MAKING THE GREAT RED DRAGON'S 8TH HEAD 'GREAT AGAIN'"
 slug: "2026/2026-07-25-making-the-great-red-dragon-s-8th-head-great-again"
 date: "2026-07-25"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-25"
 tags: ["IUIC in the ClassRoom", "media", "reparations"]
 ---

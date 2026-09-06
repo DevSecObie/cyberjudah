@@ -2,6 +2,7 @@
 title: "The End Of PAX Americana"
 slug: "2026/2026-07-29-the-end-of-pax-americana"
 date: "2026-07-29"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-29"
 tags: ["IUIC in the ClassRoom", "america-babylon", "deceit", "prophecy", "war"]
 ---

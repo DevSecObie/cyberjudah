@@ -2,6 +2,7 @@
 title: "FDA: Food And Drug Assassination"
 slug: "2026/2026-07-25-fda-food-and-drug-assassination"
 date: "2026-07-25"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-25"
 tags: ["IUIC in the ClassRoom", "health", "marriage-family"]
 ---

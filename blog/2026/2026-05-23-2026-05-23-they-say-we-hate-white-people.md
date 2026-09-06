@@ -2,6 +2,7 @@
 title: "They Say We Hate White People"
 slug: "2026/2026-05-23-they-say-we-hate-white-people"
 date: "2026-05-23"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-23"
 tags: ["IUIC in the ClassRoom", "leadership"]
 ---

@@ -2,6 +2,7 @@
 title: "RECOVERING THE REMNANT: WORLDWIDE BLITZ"
 slug: "2026/2026-05-02-recovering-the-remnant-worldwide-blitz"
 date: "2026-05-02"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-02"
 tags: ["IUIC in the ClassRoom", "nations"]
 ---

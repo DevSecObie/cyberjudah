@@ -2,6 +2,7 @@
 title: "AWAKE AND RETURN: OVERCOMING BABYLON'S HYPNOSIS"
 slug: "2026/2026-07-25-awake-and-return-overcoming-babylon-s-hypnosis"
 date: "2026-07-25"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-25"
 tags: ["IUIC in the ClassRoom", "america-babylon", "endurance", "media", "repentance", "the-law"]
 ---

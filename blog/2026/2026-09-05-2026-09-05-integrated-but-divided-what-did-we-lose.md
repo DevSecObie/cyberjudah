@@ -2,6 +2,7 @@
 title: "INTEGRATED BUT DIVIDED: WHAT DID WE LOSE?"
 slug: "2026/2026-09-05-integrated-but-divided-what-did-we-lose"
 date: "2026-09-05"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-09-05"
 tags: ["IUIC in the ClassRoom", "persecution"]
 ---

@@ -2,6 +2,7 @@
 title: "Are You A Strong Independent Woman?"
 slug: "2026/2026-05-02-are-you-a-strong-independent-woman"
 date: "2026-05-02"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-02"
 tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 ---

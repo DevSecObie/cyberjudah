@@ -2,6 +2,7 @@
 title: "Acts 10 Reloaded: Call No Man Common"
 slug: "2026/2026-05-24-acts-10-reloaded-call-no-man-common"
 date: "2026-05-24"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-24"
 tags: ["IUIC in the ClassRoom", "nations", "passover-feasts", "the-word"]
 ---

@@ -2,6 +2,7 @@
 title: "From Brother To Betrayer"
 slug: "2026/2026-06-20-from-brother-to-betrayer"
 date: "2026-06-20"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-06-20"
 tags: ["IUIC in the ClassRoom", "betrayal"]
 ---

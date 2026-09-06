@@ -224,14 +224,22 @@ const mean = meanRates(docs.map((d) => d.counted));
           nextTeacher = existingTeacher;
         }
       }
-      if (nextTeacher) {
-        if (teacherLine >= 0) out[teacherLine] = `teacher: ${JSON.stringify(nextTeacher)}`;
-        else out.splice(out.findIndex((l) => l.startsWith("tags:")), 0, `teacher: ${JSON.stringify(nextTeacher)}`);
-        teachers++;
+      // The field is always present, so there is a line to type the name onto. Where nothing
+      // is known it is written as an empty string rather than dropped: this script does not
+      // add or remove the field, it only ever fills it, and the name itself goes in by hand
+      // off the recording. Downstream (generate.mjs, the browse chips) reads "" as unattributed
+      // exactly like an absent field, and lint.py warns on it instead of failing.
+      // It goes directly after `date:`, which is where the anatomy in scripts/notes/README.md
+      // puts it and where every hand-set one already sits; `tags:` is the fallback for a note
+      // whose frontmatter somehow has no date line.
+      const line = `teacher: ${JSON.stringify(nextTeacher || "")}`;
+      if (teacherLine >= 0) {
+        out[teacherLine] = line;
       } else {
-        if (teacherLine >= 0) out.splice(teacherLine, 1);
-        untaught++;
+        const after = out.findIndex((l) => l.startsWith("date:"));
+        out.splice(after >= 0 ? after + 1 : out.findIndex((l) => l.startsWith("tags:")), 0, line);
       }
+      if (nextTeacher) teachers++; else untaught++;
 
       rows.push({ name, topics, teacher: nextTeacher });
       if (topics.length) tagged++;

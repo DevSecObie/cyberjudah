@@ -2,6 +2,7 @@
 title: "DESTRUCTIVE BEHAVIORS AMONG OUR PEOPLE"
 slug: "2026/2026-08-15-destructive-behaviors-among-our-people"
 date: "2026-08-15"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-08-15"
 tags: ["IUIC in the ClassRoom", "marriage-family", "mental-health", "mercy", "pride", "women"]
 ---
