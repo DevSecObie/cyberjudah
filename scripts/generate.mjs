@@ -188,7 +188,10 @@ if (fs.existsSync(STUDY_DOCS)) for (const d of fs.readdirSync(STUDY_DOCS, { with
     notes.push({ kind: "study", slug: `${a}${b > a ? "-" + b : ""}`,
       url: meta.slug || `/study/${d.name}/${a}${b > a ? "-" + b : ""}`,
       title: meta.title || `${book} ${a}`, book, chapters: [a, b],
-      range: meta.sidebar_label || `${book} ${a}${b > a ? "-" + b : ""}`, body, sidebarPos: a });
+      range: meta.sidebar_label || `${book} ${a}${b > a ? "-" + b : ""}`, body, sidebarPos: a,
+      // The session files were split into one file per chapter; `added` carries the date the
+      // session first landed, so the feed does not show every chapter as new on the split day.
+      added: meta.added ? String(meta.added).replace(/^"|"$/g, "") : null });
   }
 }
 if (fs.existsSync(BLOG)) for (const y of fs.readdirSync(BLOG, { withFileTypes: true }).filter((x) => x.isDirectory()))
@@ -288,56 +291,20 @@ const noteSelf = (n) => ({ kind: n.kind === "encyclopedia" ? "encyclopedia" : "n
 
 write(path.join(DOCS, "study", "_category_.json"), JSON.stringify({ label: "4 Chapters a Day", position: 2, link: { type: "doc", id: "study/index" } }));
 const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
-// The plan is in progress, and the index used to be a flat list of what happened to exist:
-// nothing on the page said that 45 of 81 books have notes, that Acts stops at 11, or that the
-// epistles have not been reached at all. The coverage map states it, and marks every chapter
-// still to be read so a reader can see the shape of the plan rather than infer it.
-// Intersected with the chapters the book actually has: a session labelled "15-16" in a book
-// that ends at 15 would otherwise be counted as two taught chapters and drawn as one, and the
-// totals on the page would not agree with the grid under them.
-const studyChapters = (b) => {
-  const real = new Set(Object.keys(bible[b]).map(Number));
-  const done = new Set();
-  for (const n of notes.filter((x) => x.kind === "study" && x.book === b))
-    for (let c = n.chapters[0]; c <= n.chapters[1]; c++) if (real.has(c)) done.add(c);
-  return done;
-};
+// One note per chapter, listed under its book by the note's own title.
+const studyList = (b) => notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0])
+  .map((n) => `- [${n.title}](${n.url})`).join("\n");
 {
-  const covered = new Map(studyBooks.map((b) => [b, studyChapters(b)]));
-  const chaptersDone = [...covered.values()].reduce((a, s) => a + s.size, 0);
-  const chaptersAll = Object.values(CHAPTERS).reduce((a, b) => a + b, 0);
-  const notStarted = BOOKS.filter((b) => !covered.has(b));
-  const partial = studyBooks.filter((b) => covered.get(b).size < CHAPTERS[b]);
-
-  const grid = (b) => {
-    const done = covered.get(b) ?? new Set();
-    const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
-    return `<nav class="cover" aria-label="${b} coverage">` + chs.map((c) => {
-      const n = notes.find((x) => x.kind === "study" && x.book === b && c >= x.chapters[0] && c <= x.chapters[1]);
-      return done.has(c) && n
-        ? `<a href="${href(n.url)}" class="on" title="${esc(n.title)}">${c}</a>`
-        : `<a href="${href(chapterUrl(b, c))}" title="Not yet taught \u2014 read the chapter">${c}</a>`;
-    }).join("") + `</nav>`;
-  };
-
   const body = [
-    `<p class="cover-lead">${studyBooks.length} of ${BOOKS.length} books · ${chaptersDone} of ${chaptersAll} chapters taught. ` +
-    `A filled number is a chapter with notes; a plain one links to the scripture, still to be read.</p>`, "",
-    ...(partial.length ? [`**In progress:** ` + partial.map((b) => `[${b}](/study/${bookSlug[b]}) (${covered.get(b).size}/${CHAPTERS[b]})`).join(" · "), ""] : []),
-    ...(notStarted.length ? [`**Not started:** ` + notStarted.map((b) => `[${b}](${bookUrl(b)})`).join(" · "), ""] : []),
-    ...studyBooks.flatMap((b) => [
-      `## [${b}](/study/${bookSlug[b]})`, "",
-      grid(b), "",
-      notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]).map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n"), "",
-    ]),
+    `<p class="cover-lead">Notes from the daily reading, in the order the books are read. Every chapter taught is listed under its book.</p>`, "",
+    ...studyBooks.flatMap((b) => [`## [${b}](/study/${bookSlug[b]})`, "", studyList(b), ""]),
   ];
-  write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null, description: "The daily reading plan, its notes, and how far it has come" }) + body.join("\n"));
+  write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null, description: "The daily reading plan and its notes, chapter by chapter" }) + body.join("\n"));
 }
 for (const b of studyBooks) {
   const dir = path.join(DOCS, "study", bookSlug[b]);
   write(path.join(dir, "_category_.json"), JSON.stringify({ label: b, position: bookNum[b], link: { type: "doc", id: `study/${bookSlug[b]}/index` } }));
-  const list = notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]);
-  write(path.join(dir, "index.md"), fm({ title: `${b}: 4 Chapters a Day`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + list.map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n") + "\n");
+  write(path.join(dir, "index.md"), fm({ title: `${b}: 4 Chapters a Day`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all chapters` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + studyList(b) + "\n");
 }
 // Class notes are dated entries, so they live in blog/ and the blog plugin gives them
 // reverse-chronological order, an RSS/Atom feed and an archive for free.
@@ -661,7 +628,7 @@ writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/ap
     "",
     "- [About](" + U + "/about): what the site is, where the text comes from, how to report a correction",
     "- [The Bible](" + U + "/bible): every chapter, with the notes, laws, precepts and cases that cite it",
-    `- [4 Chapters a Day](${U}/study): ${n("study")} study notes on the daily reading, with a coverage map`,
+    `- [4 Chapters a Day](${U}/study): ${n("study")} study notes on the daily reading, one page per chapter`,
     `- [Sabbath class notes](${U}/classes/browse): ${n("class")} classes, filterable by topic, book and teacher`,
     `- [15 Minutes w/ The Captains](${U}/captains/browse): ${n("captains")} episodes`,
     `- [Encyclopedia](${U}/encyclopedia): ${n("encyclopedia")} standing subjects gathered from the notes`,
@@ -719,7 +686,7 @@ writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/ap
   const pathOf = (n) => n.kind === "study"
     ? `docs/study/${bookSlug[n.book]}/${n.slug}.md`
     : `docs/encyclopedia/${n.slug}.md`;
-  const dated = feedNotes.map((n) => ({ n, iso: added.get(pathOf(n)) })).filter((x) => x.iso);
+  const dated = feedNotes.map((n) => ({ n, iso: n.added || added.get(pathOf(n)) })).filter((x) => x.iso);
 
   if (dated.length) {
     dated.sort((a, b) => b.iso.localeCompare(a.iso));

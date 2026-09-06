@@ -1,5 +1,8 @@
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+// The 4 Chapters a Day notes were one page per session (/study/genesis/1-4) and are now one
+// page per chapter; the old session URLs land on the session's first chapter.
+import studyRedirects from "./data/study-redirects.json";
 
 const REPO = "https://github.com/DevSecObie/cyberjudah/edit/main";
 // Only the notes are committed; the scripture, law, precept and case pages are generated on
@@ -38,6 +41,7 @@ const config: Config = {
       // Greek Esther exists only as the Additions (chapters 10-16); references to
       // 1-9 belong to canonical Esther.
       redirects: [
+        ...studyRedirects,
         // The stock blog archive route is disabled (see archiveBasePath) in favour of /classes/browse.
         { from: "/classes/archive", to: "/classes/browse" },
         { from: "/captains/archive", to: "/captains/browse" },

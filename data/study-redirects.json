@@ -1,0 +1,1042 @@
+[
+{
+"from": "/study/1-chronicles/2-5",
+"to": "/study/1-chronicles/2"
+},
+{
+"from": "/study/1-chronicles/6-9",
+"to": "/study/1-chronicles/6"
+},
+{
+"from": "/study/1-chronicles/10-13",
+"to": "/study/1-chronicles/10"
+},
+{
+"from": "/study/1-chronicles/14-17",
+"to": "/study/1-chronicles/14"
+},
+{
+"from": "/study/1-chronicles/18-21",
+"to": "/study/1-chronicles/18"
+},
+{
+"from": "/study/1-chronicles/22-25",
+"to": "/study/1-chronicles/22"
+},
+{
+"from": "/study/1-chronicles/26-29",
+"to": "/study/1-chronicles/26"
+},
+{
+"from": "/study/1-esdras/1-4",
+"to": "/study/1-esdras/1"
+},
+{
+"from": "/study/1-esdras/5-8",
+"to": "/study/1-esdras/5"
+},
+{
+"from": "/study/1-kings/1-4",
+"to": "/study/1-kings/1"
+},
+{
+"from": "/study/1-kings/5-8",
+"to": "/study/1-kings/5"
+},
+{
+"from": "/study/1-kings/9-12",
+"to": "/study/1-kings/9"
+},
+{
+"from": "/study/1-kings/13-16",
+"to": "/study/1-kings/13"
+},
+{
+"from": "/study/1-kings/17-20",
+"to": "/study/1-kings/17"
+},
+{
+"from": "/study/1-samuel/1-3",
+"to": "/study/1-samuel/1"
+},
+{
+"from": "/study/1-samuel/4-7",
+"to": "/study/1-samuel/4"
+},
+{
+"from": "/study/1-samuel/8-11",
+"to": "/study/1-samuel/8"
+},
+{
+"from": "/study/1-samuel/12-15",
+"to": "/study/1-samuel/12"
+},
+{
+"from": "/study/1-samuel/16-19",
+"to": "/study/1-samuel/16"
+},
+{
+"from": "/study/1-samuel/20-23",
+"to": "/study/1-samuel/20"
+},
+{
+"from": "/study/1-samuel/24-27",
+"to": "/study/1-samuel/24"
+},
+{
+"from": "/study/1-samuel/28-31",
+"to": "/study/1-samuel/28"
+},
+{
+"from": "/study/2-chronicles/1-4",
+"to": "/study/2-chronicles/1"
+},
+{
+"from": "/study/2-chronicles/5-8",
+"to": "/study/2-chronicles/5"
+},
+{
+"from": "/study/2-chronicles/9-12",
+"to": "/study/2-chronicles/9"
+},
+{
+"from": "/study/2-chronicles/13-16",
+"to": "/study/2-chronicles/13"
+},
+{
+"from": "/study/2-chronicles/17-20",
+"to": "/study/2-chronicles/17"
+},
+{
+"from": "/study/2-chronicles/21-24",
+"to": "/study/2-chronicles/21"
+},
+{
+"from": "/study/2-chronicles/25-28",
+"to": "/study/2-chronicles/25"
+},
+{
+"from": "/study/2-chronicles/29-32",
+"to": "/study/2-chronicles/29"
+},
+{
+"from": "/study/2-chronicles/33-36",
+"to": "/study/2-chronicles/33"
+},
+{
+"from": "/study/2-esdras/1-3",
+"to": "/study/2-esdras/1"
+},
+{
+"from": "/study/2-esdras/4-7",
+"to": "/study/2-esdras/4"
+},
+{
+"from": "/study/2-esdras/8-11",
+"to": "/study/2-esdras/8"
+},
+{
+"from": "/study/2-esdras/12-15",
+"to": "/study/2-esdras/12"
+},
+{
+"from": "/study/2-kings/1-3",
+"to": "/study/2-kings/1"
+},
+{
+"from": "/study/2-kings/3-6",
+"to": "/study/2-kings/3"
+},
+{
+"from": "/study/2-kings/7-10",
+"to": "/study/2-kings/7"
+},
+{
+"from": "/study/2-kings/11-14",
+"to": "/study/2-kings/11"
+},
+{
+"from": "/study/2-kings/15-18",
+"to": "/study/2-kings/15"
+},
+{
+"from": "/study/2-kings/19-22",
+"to": "/study/2-kings/19"
+},
+{
+"from": "/study/2-kings/23-25",
+"to": "/study/2-kings/23"
+},
+{
+"from": "/study/2-samuel/1-4",
+"to": "/study/2-samuel/1"
+},
+{
+"from": "/study/2-samuel/5-8",
+"to": "/study/2-samuel/5"
+},
+{
+"from": "/study/2-samuel/9-12",
+"to": "/study/2-samuel/9"
+},
+{
+"from": "/study/2-samuel/13-16",
+"to": "/study/2-samuel/13"
+},
+{
+"from": "/study/2-samuel/17-20",
+"to": "/study/2-samuel/17"
+},
+{
+"from": "/study/2-samuel/21-24",
+"to": "/study/2-samuel/21"
+},
+{
+"from": "/study/acts/7-8",
+"to": "/study/acts/7"
+},
+{
+"from": "/study/amos/2-5",
+"to": "/study/amos/2"
+},
+{
+"from": "/study/amos/6-9",
+"to": "/study/amos/6"
+},
+{
+"from": "/study/daniel/1-2",
+"to": "/study/daniel/1"
+},
+{
+"from": "/study/daniel/3-6",
+"to": "/study/daniel/3"
+},
+{
+"from": "/study/daniel/7-10",
+"to": "/study/daniel/7"
+},
+{
+"from": "/study/daniel/11-12",
+"to": "/study/daniel/11"
+},
+{
+"from": "/study/deuteronomy/1-2",
+"to": "/study/deuteronomy/1"
+},
+{
+"from": "/study/deuteronomy/3-6",
+"to": "/study/deuteronomy/3"
+},
+{
+"from": "/study/deuteronomy/7-10",
+"to": "/study/deuteronomy/7"
+},
+{
+"from": "/study/deuteronomy/11-14",
+"to": "/study/deuteronomy/11"
+},
+{
+"from": "/study/deuteronomy/15-18",
+"to": "/study/deuteronomy/15"
+},
+{
+"from": "/study/deuteronomy/19-22",
+"to": "/study/deuteronomy/19"
+},
+{
+"from": "/study/deuteronomy/23-26",
+"to": "/study/deuteronomy/23"
+},
+{
+"from": "/study/deuteronomy/27-30",
+"to": "/study/deuteronomy/27"
+},
+{
+"from": "/study/deuteronomy/31-34",
+"to": "/study/deuteronomy/31"
+},
+{
+"from": "/study/ecclesiastes/2-5",
+"to": "/study/ecclesiastes/2"
+},
+{
+"from": "/study/ecclesiastes/6-9",
+"to": "/study/ecclesiastes/6"
+},
+{
+"from": "/study/ecclesiastes/10-12",
+"to": "/study/ecclesiastes/10"
+},
+{
+"from": "/study/esther/2-5",
+"to": "/study/esther/2"
+},
+{
+"from": "/study/esther/6-9",
+"to": "/study/esther/6"
+},
+{
+"from": "/study/esther/10-12",
+"to": "/study/esther/10"
+},
+{
+"from": "/study/esther/13-16",
+"to": "/study/esther/13"
+},
+{
+"from": "/study/exodus/2-5",
+"to": "/study/exodus/2"
+},
+{
+"from": "/study/exodus/6-9",
+"to": "/study/exodus/6"
+},
+{
+"from": "/study/exodus/10-13",
+"to": "/study/exodus/10"
+},
+{
+"from": "/study/exodus/14-17",
+"to": "/study/exodus/14"
+},
+{
+"from": "/study/exodus/18-21",
+"to": "/study/exodus/18"
+},
+{
+"from": "/study/exodus/22-25",
+"to": "/study/exodus/22"
+},
+{
+"from": "/study/exodus/26-29",
+"to": "/study/exodus/26"
+},
+{
+"from": "/study/exodus/30-33",
+"to": "/study/exodus/30"
+},
+{
+"from": "/study/exodus/34-37",
+"to": "/study/exodus/34"
+},
+{
+"from": "/study/exodus/38-40",
+"to": "/study/exodus/38"
+},
+{
+"from": "/study/ezekiel/1-2",
+"to": "/study/ezekiel/1"
+},
+{
+"from": "/study/ezekiel/3-6",
+"to": "/study/ezekiel/3"
+},
+{
+"from": "/study/ezekiel/7-10",
+"to": "/study/ezekiel/7"
+},
+{
+"from": "/study/ezekiel/11-14",
+"to": "/study/ezekiel/11"
+},
+{
+"from": "/study/ezekiel/15-18",
+"to": "/study/ezekiel/15"
+},
+{
+"from": "/study/ezekiel/19-22",
+"to": "/study/ezekiel/19"
+},
+{
+"from": "/study/ezekiel/23-26",
+"to": "/study/ezekiel/23"
+},
+{
+"from": "/study/ezekiel/27-30",
+"to": "/study/ezekiel/27"
+},
+{
+"from": "/study/ezekiel/31-34",
+"to": "/study/ezekiel/31"
+},
+{
+"from": "/study/ezekiel/35-38",
+"to": "/study/ezekiel/35"
+},
+{
+"from": "/study/ezekiel/39-42",
+"to": "/study/ezekiel/39"
+},
+{
+"from": "/study/ezekiel/43-46",
+"to": "/study/ezekiel/43"
+},
+{
+"from": "/study/ezekiel/47-48",
+"to": "/study/ezekiel/47"
+},
+{
+"from": "/study/ezra/1-4",
+"to": "/study/ezra/1"
+},
+{
+"from": "/study/ezra/5-8",
+"to": "/study/ezra/5"
+},
+{
+"from": "/study/ezra/9-10",
+"to": "/study/ezra/9"
+},
+{
+"from": "/study/genesis/1-4",
+"to": "/study/genesis/1"
+},
+{
+"from": "/study/genesis/5-8",
+"to": "/study/genesis/5"
+},
+{
+"from": "/study/genesis/9-12",
+"to": "/study/genesis/9"
+},
+{
+"from": "/study/genesis/13-16",
+"to": "/study/genesis/13"
+},
+{
+"from": "/study/genesis/17-20",
+"to": "/study/genesis/17"
+},
+{
+"from": "/study/genesis/21-24",
+"to": "/study/genesis/21"
+},
+{
+"from": "/study/genesis/24-27",
+"to": "/study/genesis/24"
+},
+{
+"from": "/study/genesis/28-31",
+"to": "/study/genesis/28"
+},
+{
+"from": "/study/genesis/32-35",
+"to": "/study/genesis/32"
+},
+{
+"from": "/study/genesis/36-39",
+"to": "/study/genesis/36"
+},
+{
+"from": "/study/genesis/40-43",
+"to": "/study/genesis/40"
+},
+{
+"from": "/study/genesis/44-47",
+"to": "/study/genesis/44"
+},
+{
+"from": "/study/genesis/48-50",
+"to": "/study/genesis/48"
+},
+{
+"from": "/study/habakkuk/1-2",
+"to": "/study/habakkuk/1"
+},
+{
+"from": "/study/hosea/1-2",
+"to": "/study/hosea/1"
+},
+{
+"from": "/study/hosea/3-10",
+"to": "/study/hosea/3"
+},
+{
+"from": "/study/hosea/11-14",
+"to": "/study/hosea/11"
+},
+{
+"from": "/study/isaiah/2-5",
+"to": "/study/isaiah/2"
+},
+{
+"from": "/study/isaiah/6-9",
+"to": "/study/isaiah/6"
+},
+{
+"from": "/study/isaiah/10-13",
+"to": "/study/isaiah/10"
+},
+{
+"from": "/study/isaiah/14-17",
+"to": "/study/isaiah/14"
+},
+{
+"from": "/study/isaiah/18-21",
+"to": "/study/isaiah/18"
+},
+{
+"from": "/study/isaiah/22-25",
+"to": "/study/isaiah/22"
+},
+{
+"from": "/study/isaiah/26-29",
+"to": "/study/isaiah/26"
+},
+{
+"from": "/study/isaiah/30-33",
+"to": "/study/isaiah/30"
+},
+{
+"from": "/study/isaiah/34-37",
+"to": "/study/isaiah/34"
+},
+{
+"from": "/study/isaiah/38-41",
+"to": "/study/isaiah/38"
+},
+{
+"from": "/study/isaiah/42-45",
+"to": "/study/isaiah/42"
+},
+{
+"from": "/study/isaiah/46-49",
+"to": "/study/isaiah/46"
+},
+{
+"from": "/study/isaiah/50-53",
+"to": "/study/isaiah/50"
+},
+{
+"from": "/study/isaiah/54-57",
+"to": "/study/isaiah/54"
+},
+{
+"from": "/study/isaiah/58-61",
+"to": "/study/isaiah/58"
+},
+{
+"from": "/study/isaiah/62-65",
+"to": "/study/isaiah/62"
+},
+{
+"from": "/study/jeremiah/1-3",
+"to": "/study/jeremiah/1"
+},
+{
+"from": "/study/jeremiah/4-7",
+"to": "/study/jeremiah/4"
+},
+{
+"from": "/study/jeremiah/8-11",
+"to": "/study/jeremiah/8"
+},
+{
+"from": "/study/jeremiah/12-15",
+"to": "/study/jeremiah/12"
+},
+{
+"from": "/study/jeremiah/16-19",
+"to": "/study/jeremiah/16"
+},
+{
+"from": "/study/jeremiah/20-23",
+"to": "/study/jeremiah/20"
+},
+{
+"from": "/study/jeremiah/24-27",
+"to": "/study/jeremiah/24"
+},
+{
+"from": "/study/jeremiah/28-31",
+"to": "/study/jeremiah/28"
+},
+{
+"from": "/study/jeremiah/32-35",
+"to": "/study/jeremiah/32"
+},
+{
+"from": "/study/jeremiah/36-39",
+"to": "/study/jeremiah/36"
+},
+{
+"from": "/study/jeremiah/40-43",
+"to": "/study/jeremiah/40"
+},
+{
+"from": "/study/jeremiah/44-47",
+"to": "/study/jeremiah/44"
+},
+{
+"from": "/study/jeremiah/48-51",
+"to": "/study/jeremiah/48"
+},
+{
+"from": "/study/job/1-4",
+"to": "/study/job/1"
+},
+{
+"from": "/study/job/5-8",
+"to": "/study/job/5"
+},
+{
+"from": "/study/job/9-12",
+"to": "/study/job/9"
+},
+{
+"from": "/study/job/13-16",
+"to": "/study/job/13"
+},
+{
+"from": "/study/job/17-20",
+"to": "/study/job/17"
+},
+{
+"from": "/study/job/21-24",
+"to": "/study/job/21"
+},
+{
+"from": "/study/job/25-28",
+"to": "/study/job/25"
+},
+{
+"from": "/study/job/29-32",
+"to": "/study/job/29"
+},
+{
+"from": "/study/job/33-36",
+"to": "/study/job/33"
+},
+{
+"from": "/study/job/37-40",
+"to": "/study/job/37"
+},
+{
+"from": "/study/job/41-42",
+"to": "/study/job/41"
+},
+{
+"from": "/study/joel/1-3",
+"to": "/study/joel/1"
+},
+{
+"from": "/study/john/2-5",
+"to": "/study/john/2"
+},
+{
+"from": "/study/jonah/1-4",
+"to": "/study/jonah/1"
+},
+{
+"from": "/study/joshua/1-4",
+"to": "/study/joshua/1"
+},
+{
+"from": "/study/joshua/5-8",
+"to": "/study/joshua/5"
+},
+{
+"from": "/study/joshua/9-12",
+"to": "/study/joshua/9"
+},
+{
+"from": "/study/joshua/13-16",
+"to": "/study/joshua/13"
+},
+{
+"from": "/study/joshua/17-20",
+"to": "/study/joshua/17"
+},
+{
+"from": "/study/joshua/21-24",
+"to": "/study/joshua/21"
+},
+{
+"from": "/study/judges/1-4",
+"to": "/study/judges/1"
+},
+{
+"from": "/study/judges/5-8",
+"to": "/study/judges/5"
+},
+{
+"from": "/study/judges/9-12",
+"to": "/study/judges/9"
+},
+{
+"from": "/study/judges/13-16",
+"to": "/study/judges/13"
+},
+{
+"from": "/study/judges/17-20",
+"to": "/study/judges/17"
+},
+{
+"from": "/study/lamentations/1-3",
+"to": "/study/lamentations/1"
+},
+{
+"from": "/study/lamentations/4-5",
+"to": "/study/lamentations/4"
+},
+{
+"from": "/study/leviticus/2-5",
+"to": "/study/leviticus/2"
+},
+{
+"from": "/study/leviticus/6-9",
+"to": "/study/leviticus/6"
+},
+{
+"from": "/study/leviticus/10-13",
+"to": "/study/leviticus/10"
+},
+{
+"from": "/study/leviticus/14-15",
+"to": "/study/leviticus/14"
+},
+{
+"from": "/study/leviticus/16-17",
+"to": "/study/leviticus/16"
+},
+{
+"from": "/study/leviticus/18-21",
+"to": "/study/leviticus/18"
+},
+{
+"from": "/study/leviticus/22-25",
+"to": "/study/leviticus/22"
+},
+{
+"from": "/study/leviticus/26-27",
+"to": "/study/leviticus/26"
+},
+{
+"from": "/study/luke/2-5",
+"to": "/study/luke/2"
+},
+{
+"from": "/study/luke/6-9",
+"to": "/study/luke/6"
+},
+{
+"from": "/study/luke/10-13",
+"to": "/study/luke/10"
+},
+{
+"from": "/study/luke/22-24",
+"to": "/study/luke/22"
+},
+{
+"from": "/study/mark/6-9",
+"to": "/study/mark/6"
+},
+{
+"from": "/study/mark/10-13",
+"to": "/study/mark/10"
+},
+{
+"from": "/study/matthew/2-5",
+"to": "/study/matthew/2"
+},
+{
+"from": "/study/matthew/10-13",
+"to": "/study/matthew/10"
+},
+{
+"from": "/study/matthew/18-21",
+"to": "/study/matthew/18"
+},
+{
+"from": "/study/matthew/22-25",
+"to": "/study/matthew/22"
+},
+{
+"from": "/study/micah/1-4",
+"to": "/study/micah/1"
+},
+{
+"from": "/study/micah/5-7",
+"to": "/study/micah/5"
+},
+{
+"from": "/study/nahum/2-3",
+"to": "/study/nahum/2"
+},
+{
+"from": "/study/nehemiah/1-2",
+"to": "/study/nehemiah/1"
+},
+{
+"from": "/study/nehemiah/3-6",
+"to": "/study/nehemiah/3"
+},
+{
+"from": "/study/nehemiah/7-11",
+"to": "/study/nehemiah/7"
+},
+{
+"from": "/study/nehemiah/11-13",
+"to": "/study/nehemiah/11"
+},
+{
+"from": "/study/numbers/1-2",
+"to": "/study/numbers/1"
+},
+{
+"from": "/study/numbers/3-6",
+"to": "/study/numbers/3"
+},
+{
+"from": "/study/numbers/7-10",
+"to": "/study/numbers/7"
+},
+{
+"from": "/study/numbers/11-14",
+"to": "/study/numbers/11"
+},
+{
+"from": "/study/numbers/15-18",
+"to": "/study/numbers/15"
+},
+{
+"from": "/study/numbers/19-22",
+"to": "/study/numbers/19"
+},
+{
+"from": "/study/numbers/23-26",
+"to": "/study/numbers/23"
+},
+{
+"from": "/study/numbers/27-30",
+"to": "/study/numbers/27"
+},
+{
+"from": "/study/numbers/31-34",
+"to": "/study/numbers/31"
+},
+{
+"from": "/study/numbers/35-36",
+"to": "/study/numbers/35"
+},
+{
+"from": "/study/proverbs/1-4",
+"to": "/study/proverbs/1"
+},
+{
+"from": "/study/proverbs/5-8",
+"to": "/study/proverbs/5"
+},
+{
+"from": "/study/proverbs/9-12",
+"to": "/study/proverbs/9"
+},
+{
+"from": "/study/proverbs/13-14",
+"to": "/study/proverbs/13"
+},
+{
+"from": "/study/proverbs/15-16",
+"to": "/study/proverbs/15"
+},
+{
+"from": "/study/proverbs/17-20",
+"to": "/study/proverbs/17"
+},
+{
+"from": "/study/proverbs/21-24",
+"to": "/study/proverbs/21"
+},
+{
+"from": "/study/proverbs/25-28",
+"to": "/study/proverbs/25"
+},
+{
+"from": "/study/proverbs/29-31",
+"to": "/study/proverbs/29"
+},
+{
+"from": "/study/psalms/1-2",
+"to": "/study/psalms/1"
+},
+{
+"from": "/study/psalms/3-6",
+"to": "/study/psalms/3"
+},
+{
+"from": "/study/psalms/7-10",
+"to": "/study/psalms/7"
+},
+{
+"from": "/study/psalms/11-14",
+"to": "/study/psalms/11"
+},
+{
+"from": "/study/psalms/15-18",
+"to": "/study/psalms/15"
+},
+{
+"from": "/study/psalms/19-22",
+"to": "/study/psalms/19"
+},
+{
+"from": "/study/psalms/23-26",
+"to": "/study/psalms/23"
+},
+{
+"from": "/study/psalms/27-30",
+"to": "/study/psalms/27"
+},
+{
+"from": "/study/psalms/31-34",
+"to": "/study/psalms/31"
+},
+{
+"from": "/study/psalms/35-38",
+"to": "/study/psalms/35"
+},
+{
+"from": "/study/psalms/39-42",
+"to": "/study/psalms/39"
+},
+{
+"from": "/study/psalms/43-46",
+"to": "/study/psalms/43"
+},
+{
+"from": "/study/psalms/47-50",
+"to": "/study/psalms/47"
+},
+{
+"from": "/study/psalms/51-54",
+"to": "/study/psalms/51"
+},
+{
+"from": "/study/psalms/55-58",
+"to": "/study/psalms/55"
+},
+{
+"from": "/study/psalms/59-62",
+"to": "/study/psalms/59"
+},
+{
+"from": "/study/psalms/63-66",
+"to": "/study/psalms/63"
+},
+{
+"from": "/study/psalms/67-70",
+"to": "/study/psalms/67"
+},
+{
+"from": "/study/psalms/71-74",
+"to": "/study/psalms/71"
+},
+{
+"from": "/study/psalms/75-78",
+"to": "/study/psalms/75"
+},
+{
+"from": "/study/psalms/79-82",
+"to": "/study/psalms/79"
+},
+{
+"from": "/study/psalms/83-86",
+"to": "/study/psalms/83"
+},
+{
+"from": "/study/psalms/87-90",
+"to": "/study/psalms/87"
+},
+{
+"from": "/study/psalms/91-94",
+"to": "/study/psalms/91"
+},
+{
+"from": "/study/psalms/95-98",
+"to": "/study/psalms/95"
+},
+{
+"from": "/study/psalms/99-102",
+"to": "/study/psalms/99"
+},
+{
+"from": "/study/psalms/103-106",
+"to": "/study/psalms/103"
+},
+{
+"from": "/study/psalms/107-110",
+"to": "/study/psalms/107"
+},
+{
+"from": "/study/psalms/111-114",
+"to": "/study/psalms/111"
+},
+{
+"from": "/study/psalms/115-118",
+"to": "/study/psalms/115"
+},
+{
+"from": "/study/psalms/119-122",
+"to": "/study/psalms/119"
+},
+{
+"from": "/study/psalms/123-126",
+"to": "/study/psalms/123"
+},
+{
+"from": "/study/psalms/127-130",
+"to": "/study/psalms/127"
+},
+{
+"from": "/study/psalms/131-134",
+"to": "/study/psalms/131"
+},
+{
+"from": "/study/psalms/135-138",
+"to": "/study/psalms/135"
+},
+{
+"from": "/study/psalms/139-142",
+"to": "/study/psalms/139"
+},
+{
+"from": "/study/psalms/143-146",
+"to": "/study/psalms/143"
+},
+{
+"from": "/study/psalms/147-150",
+"to": "/study/psalms/147"
+},
+{
+"from": "/study/ruth/1-3",
+"to": "/study/ruth/1"
+},
+{
+"from": "/study/song-of-solomon/2-5",
+"to": "/study/song-of-solomon/2"
+},
+{
+"from": "/study/song-of-solomon/6-8",
+"to": "/study/song-of-solomon/6"
+},
+{
+"from": "/study/zechariah/1-3",
+"to": "/study/zechariah/1"
+},
+{
+"from": "/study/zechariah/4-7",
+"to": "/study/zechariah/4"
+},
+{
+"from": "/study/zechariah/8-11",
+"to": "/study/zechariah/8"
+},
+{
+"from": "/study/zechariah/12-14",
+"to": "/study/zechariah/12"
+},
+{
+"from": "/study/zephaniah/1-3",
+"to": "/study/zephaniah/1"
+}
+]
