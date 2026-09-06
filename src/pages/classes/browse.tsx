@@ -6,6 +6,7 @@ export default function Browse() {
   return (
     <NoteBrowser
       src="/search/classes.json"
+      kind="class"
       title="Class notes"
       heading="Sabbath class notes"
       description="Browse the Sabbath class notes by topic, book, teacher, year or name"

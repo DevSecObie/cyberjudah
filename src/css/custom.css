@@ -549,7 +549,18 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
 .cj-browse-head h1 { margin: 0 0 .8rem; font-size: clamp(1.9rem, 4vw, 2.7rem); font-weight: 400; letter-spacing: -.018em; color: var(--cj-display); }
 .cj-browse-head p { margin: 0; font-size: 1.02rem; line-height: 1.62; color: var(--ifm-color-emphasis-600); }
 
-.cj-filters { display: grid; gap: 1.15rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--ifm-color-emphasis-200); }
+.cj-filters { display: grid; gap: 1rem; padding-bottom: 1.25rem; border-bottom: 1px solid var(--ifm-color-emphasis-200); }
+.cj-filter-row { display: flex; flex-wrap: wrap; gap: .6rem .9rem; align-items: center; }
+.cj-filter-row .cj-filter-q { flex: 1 1 18rem; }
+.cj-filter-toggle { display: inline-flex; align-items: center; gap: .35rem; background: none; cursor: pointer;
+  border: 1px solid var(--ifm-color-emphasis-200); border-radius: 2rem; padding: .34rem .85rem;
+  font-family: var(--ifm-font-family-monospace); font-size: .74rem; letter-spacing: .04em; color: var(--ifm-color-emphasis-600); }
+.cj-filter-toggle:hover, .cj-filter-toggle[aria-expanded="true"] { color: var(--ifm-color-primary); border-color: var(--ifm-color-primary); }
+.cj-filter-toggle i { font-style: normal; min-width: 1.3em; padding: 0 .35em; border-radius: 1em; text-align: center;
+  background: var(--ifm-color-primary); color: var(--ifm-background-color); font-size: .9em; }
+.cj-filter-panel { display: grid; gap: 1rem; padding: 1rem 1.1rem; border: 1px solid var(--ifm-color-emphasis-200); border-radius: 12px;
+  background: var(--ifm-background-surface-color); }
+.cj-filter-panel[hidden] { display: none; }
 .cj-filter-q { width: min(100%, 30rem); background: none; border: 0; border-bottom: 1px solid var(--ifm-color-emphasis-200);
   outline: none; appearance: none; padding: .5rem 0; font-family: var(--ifm-font-family-base); font-size: 1rem;
   color: var(--ifm-font-color-base); transition: border-color .2s; }

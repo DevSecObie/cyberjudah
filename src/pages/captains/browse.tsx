@@ -6,6 +6,7 @@ export default function Browse() {
   return (
     <NoteBrowser
       src="/search/captains.json"
+      kind="captains"
       title="15 Minutes w/ The Captains"
       heading="15 Minutes w/ The Captains"
       description="Browse the 15 Minutes w/ The Captains episode notes by topic, book, teacher, year or name"
