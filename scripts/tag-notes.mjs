@@ -158,6 +158,19 @@ const parseTags = (line) => {
   return [...m[1].matchAll(/"((?:[^"\\]|\\.)*)"/g)].map((x) => x[1].replace(/\\(["\\])/g, "$1"));
 };
 const yamlList = (xs) => `[${xs.map((x) => JSON.stringify(x)).join(", ")}]`;
+/** The `teacher:` value however it was typed: bare, "double" or 'single' quoted.
+ *  Returns null for a line that carries no name, so the caller can fall back to the derived
+ *  one; returns "" only for an explicitly empty value, which is the placeholder and must not
+ *  be mistaken for an absent field. */
+function readTeacher(line) {
+  const m = /^teacher:\s*(.*?)\s*$/.exec(line);
+  if (!m) return null;
+  const raw = m[1];
+  if (raw === "") return null;                                     // `teacher:` with nothing after it
+  const q = /^"((?:[^"\\]|\\.)*)"$|^'([^']*)'$/.exec(raw);
+  const value = q ? (q[1] !== undefined ? q[1].replace(/\\(["\\])/g, "$1") : q[2]) : raw;
+  return value.trim();
+}
 
 let files = 0, tagged = 0, teachers = 0, untaught = 0;
 const keptNames = [], overwrittenNames = [];   // --reset vs. names already set by hand
@@ -210,18 +223,27 @@ const mean = meanRates(docs.map((d) => d.counted));
       for (let i = out.length - 1; i > out.findIndex((l) => l.startsWith("teacher:")); i--)
         if (out[i].startsWith("teacher:")) out.splice(i, 1);
       const teacherLine = out.findIndex((l) => l.startsWith("teacher:"));
-      const existingTeacher = teacherLine >= 0 ? /^teacher:\s*"(.*)"\s*$/.exec(out[teacherLine])?.[1] ?? null : null;
+      // Read the name however it was typed. A hand edit is normally written the way you would
+      // say it -- `teacher: Captain Noah` -- and a parser that only accepted `teacher: "..."`
+      // read that as no name at all and overwrote it with the empty placeholder, which is how
+      // two names were lost before. Bare, double-quoted and single-quoted all parse; the line
+      // is written back quoted.
+      const existingTeacher = teacherLine >= 0 ? readTeacher(out[teacherLine]) : null;
       // --reset recomputes from the text, which is right after changing the patterns and wrong
       // when the existing name was a deliberate correction the text does not support. A class
       // whose captain introduces himself as "Captain Ab" but is recorded as "Captain Horeb"
       // is the case that matters, and losing that silently is worse than not resetting.
-      let nextTeacher = RESET ? teacher : (existingTeacher ?? teacher);
-      if (RESET && existingTeacher && teacher !== existingTeacher) {
+      // An empty `teacher: ""` is the placeholder, not a hand-set name: it does not block the
+      // script from filling in a name it can derive. Only a name someone actually typed is
+      // protected.
+      const setByHand = existingTeacher || null;
+      let nextTeacher = RESET ? teacher : (setByHand ?? teacher);
+      if (RESET && setByHand && teacher !== setByHand) {
         if (FORCE) {
-          overwrittenNames.push(`${name}: ${existingTeacher} -> ${teacher || "(cleared)"}`);
+          overwrittenNames.push(`${name}: ${setByHand} -> ${teacher || "(cleared)"}`);
         } else {
-          keptNames.push(`${name}: keeping ${existingTeacher}, the text says ${teacher || "nothing"}`);
-          nextTeacher = existingTeacher;
+          keptNames.push(`${name}: keeping ${setByHand}, the text says ${teacher || "nothing"}`);
+          nextTeacher = setByHand;
         }
       }
       // The field is always present, so there is a line to type the name onto. Where nothing
