@@ -52,3 +52,6 @@ yarn-error.log*
 # search index, rebuilt by npm run sync
 /static/pagefind
 /.search-records.json
+
+# python bytecode from the scripts/notes helpers
+__pycache__/
