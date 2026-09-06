@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState, type ReactNode } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useBaseUrl, { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
+import { useHistory, useLocation } from "@docusaurus/router";
 
 // The browse page behind both /classes/browse and /captains/browse. The two feeds differ only
 // in their copy and their index file, and the facets are the part worth having in one place:
@@ -19,6 +20,11 @@ type Topic = { slug: string; label: string };
 type Sort = "new" | "old" | "az";
 
 const SORTS: [Sort, string][] = [["new", "Newest"], ["old", "Oldest"], ["az", "A–Z"]];
+const SORT_KEYS = new Set<string>(SORTS.map(([k]) => k));   // widened: it is tested against raw query strings
+// The filters live in the query string. The search page already worked this way; here a
+// narrowed list could not be linked to, bookmarked, or backed out of -- the browser's back
+// button left the page entirely rather than undoing the last chip.
+const listParam = (p: URLSearchParams, k: string) => (p.get(k) ?? "").split(",").map((x) => x.trim()).filter(Boolean);
 // Teacher chips are grouped by rank rather than listed flat: the name in frontmatter carries
 // its own title ("Captain Noah"), so the rank is the leading word and the bare name is the
 // rest. Anything without a recognised title falls into "Other".
@@ -35,15 +41,40 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
   intro: ReactNode;
   noun: [string, string]; // singular, plural, for the result count
 }) {
+  const history = useHistory();
+  const loc = useLocation();
+  const params = new URLSearchParams(loc.search);
+
   const [all, setAll] = useState<Note[] | null>(null);
   const [topicLabels, setTopicLabels] = useState<Topic[]>([]);
-  const [q, setQ] = useState("");
-  const [years, setYears] = useState<string[]>([]);
-  const [topics, setTopics] = useState<string[]>([]);
-  const [book, setBook] = useState(ALL);
-  const [teachers, setTeachers] = useState<string[]>([]);
-  const [sort, setSort] = useState<Sort>("new");
   const [allTopics, setAllTopics] = useState(false);
+
+  // The URL is the state. Reading straight out of it keeps the two in step without an effect
+  // syncing them in both directions, which is where this kind of thing usually goes wrong.
+  const q = params.get("q") ?? "";
+  const years = listParam(params, "year");
+  const topics = listParam(params, "topic");
+  const teachers = listParam(params, "teacher");
+  const book = params.get("book") ?? ALL;
+  const sortRaw = params.get("sort") ?? "new";
+  const sort: Sort = (SORT_KEYS.has(sortRaw) ? sortRaw : "new") as Sort;
+
+  const setParams = (next: Record<string, string | string[]>) => {
+    const p = new URLSearchParams(loc.search);
+    for (const [k, v] of Object.entries(next)) {
+      const val = Array.isArray(v) ? v.join(",") : v;
+      if (val) p.set(k, val); else p.delete(k);
+    }
+    // replace, not push: typing in the filter box would otherwise put one history entry per
+    // keystroke between the reader and the page they arrived from.
+    history.replace(`${loc.pathname}${p.toString() ? "?" + p : ""}`);
+  };
+  const setQ = (v: string) => setParams({ q: v });
+  const setBook = (v: string) => setParams({ book: v });
+  const setSort = (v: Sort) => setParams({ sort: v === "new" ? "" : v });
+  const setYears = (v: string[]) => setParams({ year: v });
+  const setTopics = (v: string[]) => setParams({ topic: v });
+  const setTeachers = (v: string[]) => setParams({ teacher: v });
   const indexUrl = useBaseUrl(src);
   const topicsUrl = useBaseUrl("/search/topics.json");
   const withBase = useBaseUrlUtils().withBaseUrl;
@@ -111,7 +142,7 @@ export default function NoteBrowser({ src, title, heading, description, intro, n
 
   const toggle = (xs: string[], set: (v: string[]) => void, x: string) =>
     set(xs.includes(x) ? xs.filter((y) => y !== x) : [...xs, x]);
-  const clear = () => { setQ(""); setYears([]); setTopics([]); setBook(ALL); setTeachers([]); };
+  const clear = () => history.replace(loc.pathname);
   const filtered = q.trim() !== "" || years.length > 0 || topics.length > 0 || book !== ALL || teachers.length > 0;
 
   return (
