@@ -543,6 +543,7 @@ for (const n of notes) records.push({ kind: n.kind, title: n.title, url: n.url, 
 // on the previous behaviour and can never fail the build.
 // Both blog instances get the same treatment; only the route prefix, the thumbnail
 // directory and the output file differ.
+const latest = {};
 for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out: "classes.json", label: "class" },
                     { list: captainNotes, prefix: "/captains/", dir: "captains", out: "captains.json", label: "captains" }]) {
   const weights = new Map();
@@ -578,7 +579,7 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
   for (let i = 0; i < ids.length; i += 8) await Promise.all(ids.slice(i, i + 8).map(pull));
   if (ids.length) console.error(`${feed.label} thumbnails: ${got} local, ${missed} falling back to i.ytimg.com`);
 
-  writeJson(path.join(SEARCH, feed.out), feed.list.map((n) => {
+  const feedRows = feed.list.map((n) => {
     const w = [...(weights.get(n.url) ?? new Map())].sort((a, b) => b[1] - a[1] || BOOKS.indexOf(a[0]) - BOOKS.indexOf(b[0]));
     const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
     const id = /data-video-id="([\w-]{11})"/.exec(n.body)?.[1] || "";
@@ -593,7 +594,10 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
       teacher: n.teacher ?? "",
       estimated: !!n.dateEstimated,
     };
-  }));
+  });
+  writeJson(path.join(SEARCH, feed.out), feedRows);
+  // The newest notes of each feed, for the home page's "new this week" strip.
+  latest[feed.label] = feedRows.map((r) => ({ kind: feed.label, title: r.title, url: r.url, date: r.date, teacher: r.teacher, thumb: r.thumb, books: r.books }));
 }
 // Scripture is grouped one record per chapter, with each verse as an anchored heading, so
 // Pagefind serves verse-level sub-results without emitting one fragment file per verse
@@ -746,6 +750,7 @@ write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
   studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, captains: notes.filter((n) => n.kind === "captains").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
   laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(sectionById).length, parts: handbook.parts.length,
   precepts: precepts.length, cases: cases.cases.length, citedChapters: cited.size,
+  recent: [...(latest.class ?? []), ...(latest.captains ?? [])].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 10),
 }));
 const count = (d) => fs.readdirSync(d, { recursive: true }).filter((f) => f.endsWith(".md")).length;
 console.error(`docs: ${count(DOCS)} pages · api: ${fs.readdirSync(API, { recursive: true }).filter((f) => f.endsWith(".json")).length} json · cited chapters: ${cited.size}`);
