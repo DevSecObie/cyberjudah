@@ -56,7 +56,7 @@ const rooms: { to: string; title: string; count: string; blurb: string; kicker: 
 const lawShelf: { to: string; title: string; count: string }[] = [
   { to: "/law", title: "Handbook", count: `${nf.format(stats.laws)} laws in ${stats.parts} parts` },
   { to: "/precepts", title: "Precepts", count: `${nf.format(stats.precepts)} with references` },
-  { to: "/cases", title: "Case Studies", count: `${nf.format(stats.cases)} judgments` },
+  { to: "/cases", title: "Case Studies", count: `${nf.format(stats.cases)} judgments · ${nf.format(stats.blessings ?? 0)} kept the law` },
   { to: "/concordance", title: "Concordance", count: `${nf.format(stats.citedChapters)} chapters cited` },
 ];
 

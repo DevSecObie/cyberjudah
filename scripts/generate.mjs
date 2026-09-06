@@ -147,9 +147,12 @@ function findPrecept(name) {
 const ERAS = cases.eras;
 const eraSlug = (e) => `${String(ERAS.indexOf(e) + 1).padStart(2, "0")}-${slug(e)}`;
 const caseUrl = (c) => `/cases/${eraSlug(c.era)}/${c.slug}`;
-const VERDICT_CLASS = { death: "danger", plague: "danger", exile: "warning", captivity: "warning", curse: "warning", restitution: "info", spared: "success", reprieve: "success", temporal: "secondary", unrecorded: "secondary" };
+const VERDICT_CLASS = { death: "danger", plague: "danger", exile: "warning", captivity: "warning", curse: "warning", restitution: "info", spared: "success", reprieve: "success", temporal: "secondary", unrecorded: "secondary", blessed: "primary" };
 const badge = (v) => `<span class="badge badge--${VERDICT_CLASS[v] ?? "secondary"} verdict">${VERDICT[v] ?? v}</span>`;
-const VERDICT = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded" };
+const VERDICT = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
+// A case is a judgment unless it says otherwise: the "blessing" cases record someone who kept
+// the law and what scripture says came of it. Same fields, read under different headings.
+const isBlessing = (c) => c.kind === "blessing";
 
 /* ---------------- notes: the committed source under docs/ and blog/ ---------------- */
 // Study notes, class notes and encyclopedia entries are hand-written Docusaurus markdown
@@ -368,7 +371,13 @@ for (const n of [...studyBooks.flatMap((b) => notes.filter((x) => x.kind === "st
 write(path.join(DOCS, "cases", "_category_.json"), JSON.stringify({ label: "Case Studies", position: 7, link: { type: "doc", id: "cases/index" } }));
 write(path.join(DOCS, "cases", "index.md"), fm({ title: "Case Studies", slug: "/cases", sidebar_position: 0, pagination_next: null, pagination_prev: null }) +
   `<p class="legend">${Object.keys(VERDICT).map(badge).join(" ")}</p>\n\n` +
-  ERAS.map((e) => { const list = cases.cases.filter((c) => c.era === e); return list.length ? `## ${e}\n\n` + list.map((c) => `- [${c.name}](${caseUrl(c)}) ${badge(c.verdict)}<br/><span class="charge">${c.charge}</span>`).join("\n") : ""; }).filter(Boolean).join("\n\n") + "\n");
+  `<p class="cover-lead">Every judgment scripture records, and every one it records who kept the law and was blessed for it, by era. Each case carries the offense or the obedience, the sentence or the blessing, the scripture, and the laws it turned on.</p>\n\n` +
+  ERAS.map((e) => {
+    const list = cases.cases.filter((c) => c.era === e); if (!list.length) return "";
+    const row = (c) => `- [${c.name}](${caseUrl(c)}) ${badge(c.verdict)}<br/><span class="charge">${c.charge}</span>`;
+    const judged = list.filter((c) => !isBlessing(c)), kept = list.filter(isBlessing);
+    return `## ${e}\n\n` + judged.map(row).join("\n") + (kept.length ? `\n\n**Kept the law**\n\n` + kept.map(row).join("\n") : "");
+  }).filter(Boolean).join("\n\n") + "\n");
 const lexicon = fs.existsSync(path.join(DATA, "lexicon.tsv")) ? read(path.join(DATA, "lexicon.tsv")).split("\n").slice(1).filter(Boolean).map((l) => { const [topic, , terms] = l.split("\t"); return { topic, terms: (terms || "").split(";").map((t) => t.trim().toLowerCase()).filter(Boolean) }; }) : [];
 for (const e of ERAS) {
   const list = cases.cases.filter((c) => c.era === e); if (!list.length) continue;
@@ -378,22 +387,22 @@ for (const e of ERAS) {
     const hay = `${c.charge} ${c.summary} ${c.themes.join(" ")} ${c.topics.join(" ")}`.toLowerCase();
     const see = lexicon.filter((l) => l.terms.some((t) => new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(hay))).map((l) => noteByTitle.get(l.topic.toLowerCase())).filter(Boolean);
     const taught = [...new Set(c.refs.map((r) => studyFor(r.book, r.chapter)).filter(Boolean))];
-    const related = cases.cases.filter((o) => o !== c && o.themes.some((t) => c.themes.includes(t))).slice(0, 6);
+    const related = cases.cases.filter((o) => o !== c && isBlessing(o) === isBlessing(c) && o.themes.some((t) => c.themes.includes(t))).slice(0, 6);
     const body = [
       `<p class="casehead">${badge(c.verdict)} <span class="charge">${c.charge}</span><br/><span class="era">${c.era}</span></p>`, "",
-      c.summary, "", "## The offense", "", c.offense, "", "## The judgment", "", c.judgment, "",
+      c.summary, "", isBlessing(c) ? "## The obedience" : "## The offense", "", c.offense, "", isBlessing(c) ? "## The blessing" : "## The judgment", "", c.judgment, "",
       "## Scripture", "", ...c.refs.map((r) => `**${refLink(r)}**${studyFor(r.book, r.chapter) ? ` · taught in [${studyFor(r.book, r.chapter).range}](${studyFor(r.book, r.chapter).url})` : ""}\n\n${quoteRef(r)}\n`),
-      "## Laws broken", "", ...c.laws.map((l) => { const [sid, n] = l.split("."); const s = sectionById[sid]; if (!s) return `- ${l}`; const en = n ? s.entries[+n - 1] : null; return `- [${l}](${lawUrl(l)})${en ? " " + en.text : " " + s.title + " (section)"}`; }), "",
+      isBlessing(c) ? "## Laws kept" : "## Laws broken", "", ...c.laws.map((l) => { const [sid, n] = l.split("."); const s = sectionById[sid]; if (!s) return `- ${l}`; const en = n ? s.entries[+n - 1] : null; return `- [${l}](${lawUrl(l)})${en ? " " + en.text : " " + s.title + " (section)"}`; }), "",
       "## Precepts", "", ...c.topics.map((t) => { const p = findPrecept(t); return p ? `- [${p.title}](${preceptUrl(p)})` : `- ${t}`; }), "",
       ...(related.length ? ["## Related cases", "", ...related.map((o) => `- [${o.name}](${caseUrl(o)}): ${o.charge}`), ""] : []),
       ...(taught.length ? ["## Taught in", "", ...taught.map((n) => `- [${noteLabel(n)}](${n.url})`), ""] : []),
       ...(see.length ? ["## See also", "", ...see.map((n) => `- [${n.title}](${n.url}) (Encyclopedia)`), ""] : []),
     ].join("\n");
-    write(path.join(DOCS, "cases", eraSlug(e), `${c.slug}.md`), fm({ title: c.name, slug: caseUrl(c), sidebar_position: i + 1, description: c.charge, tags: [`verdict:${c.verdict}`, ...c.themes] }) + body);
+    write(path.join(DOCS, "cases", eraSlug(e), `${c.slug}.md`), fm({ title: c.name, slug: caseUrl(c), sidebar_position: i + 1, description: c.charge, tags: [`verdict:${c.verdict}`, ...(isBlessing(c) ? ["kept-the-law"] : []), ...c.themes] }) + body);
     writeJson(path.join(API, "cases", `${c.slug}.json`), c);
   });
 }
-writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, charge: c.charge, verdict: c.verdict, url: caseUrl(c) })) });
+writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c) })) });
 
 /* ---------------- write: law ---------------- */
 write(path.join(DOCS, "law", "_category_.json"), JSON.stringify({ label: "The Law", position: 5, link: { type: "doc", id: "law/index" } }));
@@ -634,7 +643,7 @@ writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/ap
     `- [Encyclopedia](${U}/encyclopedia): ${n("encyclopedia")} standing subjects gathered from the notes`,
     `- [The Law](${U}/law): a handbook of Bible law in ${handbook.parts.length} parts`,
     `- [Precepts](${U}/precepts): ${precepts.length} precepts with their references`,
-    `- [Case studies](${U}/cases): ${cases.cases.length} judgments recorded in scripture`,
+    `- [Case studies](${U}/cases): ${cases.cases.filter((c) => !isBlessing(c)).length} judgments recorded in scripture, and ${cases.cases.filter(isBlessing).length} who kept the law and were blessed`,
     `- [Concordance](${U}/concordance): chapter by chapter, everything that cites it`,
     `- [Classes by book](${U}/classes/by-book): the same graph read from the book side`,
     "",
@@ -716,7 +725,7 @@ write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
   chapters: Object.values(CHAPTERS).reduce((a, b) => a + b, 0), books: BOOKS.length, verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
   studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, captains: notes.filter((n) => n.kind === "captains").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
   laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(sectionById).length, parts: handbook.parts.length,
-  precepts: precepts.length, cases: cases.cases.length, citedChapters: cited.size,
+  precepts: precepts.length, cases: cases.cases.filter((c) => !isBlessing(c)).length, blessings: cases.cases.filter(isBlessing).length, citedChapters: cited.size,
   recent: [...(latest.class ?? []), ...(latest.captains ?? [])].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 10),
 }));
 const count = (d) => fs.readdirSync(d, { recursive: true }).filter((f) => f.endsWith(".md")).length;
