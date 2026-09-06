@@ -2,7 +2,7 @@
 title: "Respect: The Evidence Of Her Faith"
 slug: "2026/2026-03-28-respect-the-evidence-of-her-faith"
 date: "2026-03-28"
-teacher: Deacon Abbayael
+teacher: "Deacon Abbayael"
 description: "IUIC in the ClassRoom · 2026-03-28"
 tags: ["IUIC in the ClassRoom", "faith", "marriage-family", "women"]
 ---
