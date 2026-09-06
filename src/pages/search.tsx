@@ -93,34 +93,92 @@ export default function Search() {
   const go = (nq: string, nonly = "") => history.push(`${u("/search")}?q=${encodeURIComponent(nq)}${nonly ? "&only=" + nonly : ""}`);
   const total = Object.values(counts).reduce((a, b) => a + b, 0);
   return (
-    <Layout title={q ? `“${q}”` : "Search"}>
-      <main className="container margin-vert--lg">
-        <form onSubmit={(e) => { e.preventDefault(); go(input, only); }} style={{ display: "flex", gap: 8, marginBottom: 20 }}>
-          <input value={input} onChange={(e) => setInput(e.target.value)} placeholder={'a word, a "quoted phrase", or a reference'} style={{ flex: 1, fontSize: 18, padding: "8px 12px" }} autoFocus />
-          <button className="button button--primary" type="submit">Search</button>
-        </form>
-        {busy && <p>Searching…</p>}
-        {hits && !busy && (
-          <>
-            <p>
-              <a href="#" onClick={(e) => { e.preventDefault(); go(q); }} style={{ fontWeight: !only ? 700 : 400 }}>all {total}</a>
-              {KINDS.filter(([k]) => counts[k]).map(([k, l]) => <span key={k}> · <a href="#" onClick={(e) => { e.preventDefault(); go(q, k); }} style={{ fontWeight: only === k ? 700 : 400 }}>{l} {counts[k]}</a></span>)}
-            </p>
-            {total === 0 && <p>Nothing matches.</p>}
-            {KINDS.filter(([k]) => hits.some((h) => h.kind === k)).map(([k, l]) => (
-              <section key={k}>
-                <h2>{l} <small>{counts[k]}</small></h2>
-                <ul className="hits">{hits.filter((h) => h.kind === k).map((h, i) => (
-                  <li key={i}>
-                    <Link to={h.url}>{h.title}</Link>{" "}
-                    <span dangerouslySetInnerHTML={{ __html: h.sub ?? h.excerpt }} />
-                  </li>
-                ))}</ul>
-                {!only && counts[k] > PER_KIND && <p><a href="#" onClick={(e) => { e.preventDefault(); go(q, k); }}>all {counts[k]} in {l.toLowerCase()}</a></p>}
-              </section>
-            ))}
-          </>
-        )}
+    <Layout title={q ? `\u201c${q}\u201d` : "Search"} description="Search the scripture, the notes, the law, the precepts and the cases">
+      <main className="cj-search">
+        <div className="cj-search-inner">
+          <h1 className="cj-search-head">Search</h1>
+          <form className="cj-search-form" onSubmit={(e) => { e.preventDefault(); go(input, only); }} role="search">
+            <input
+              className="cj-search-q"
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              placeholder={'a word, a "quoted phrase", or a reference like John 3:16'}
+              aria-label="Search the site"
+              spellCheck={false}
+              autoComplete="off"
+              autoFocus
+            />
+            <button className="button button--primary" type="submit">Search</button>
+          </form>
+
+          {/* Before the first query there is nothing to show and no reason to leave the page
+              blank: these are the things people come here to look up. */}
+          {!q && (
+            <div className="cj-search-empty">
+              <p>Every verse of the King James text with the Apocrypha, plus the study notes,
+                 class notes, encyclopedia, handbook of law, precepts and case studies.</p>
+              <p className="cj-search-egs">
+                Try{" "}
+                {["Passover", "\"a broken and a contrite heart\"", "usury", "Ezekiel 37"].map((eg, i) => (
+                  <React.Fragment key={eg}>
+                    {i > 0 && " \u00b7 "}
+                    <button type="button" className="cj-eg" onClick={() => { setInput(eg); go(eg); }}>{eg}</button>
+                  </React.Fragment>
+                ))}
+              </p>
+            </div>
+          )}
+
+          {busy && <p className="cj-search-status" role="status">Searching\u2026</p>}
+
+          {hits && !busy && (
+            <>
+              {/* Buttons, not anchors to "#". These change what is displayed; a screen reader
+                  announcing them as links to nowhere was wrong, and they were unreachable by
+                  keyboard in the way a control should be. */}
+              <p className="cj-search-facets" role="status">
+                <button type="button" className="cj-eg" data-on={!only || undefined} onClick={() => go(q)}>
+                  all <i>{total}</i>
+                </button>
+                {KINDS.filter(([k]) => counts[k]).map(([k, l]) => (
+                  <span key={k}>
+                    {" \u00b7 "}
+                    <button type="button" className="cj-eg" data-on={only === k || undefined} onClick={() => go(q, k)}>
+                      {l} <i>{counts[k]}</i>
+                    </button>
+                  </span>
+                ))}
+              </p>
+
+              {total === 0 && (
+                <div className="cj-search-empty">
+                  <p>Nothing matches \u201c{q}\u201d.</p>
+                  <p className="cj-search-egs">
+                    Quotation marks match an exact phrase; without them every word is matched
+                    separately. Spelling follows the King James text, so try
+                    {" "}<button type="button" className="cj-eg" onClick={() => { setInput("shew"); go("shew"); }}>shew</button>
+                    {" "}rather than "show".
+                  </p>
+                </div>
+              )}
+
+              {KINDS.filter(([k]) => hits.some((h) => h.kind === k)).map(([k, l]) => (
+                <section key={k} className="cj-search-group">
+                  <h2>{l} <small>{counts[k]}</small></h2>
+                  <ul className="hits">{hits.filter((h) => h.kind === k).map((h, i) => (
+                    <li key={i}>
+                      <Link to={h.url}>{h.title}</Link>{" "}
+                      <span dangerouslySetInnerHTML={{ __html: h.sub ?? h.excerpt }} />
+                    </li>
+                  ))}</ul>
+                  {!only && counts[k] > PER_KIND && (
+                    <p><button type="button" className="cj-eg" onClick={() => go(q, k)}>all {counts[k]} in {l.toLowerCase()}</button></p>
+                  )}
+                </section>
+              ))}
+            </>
+          )}
+        </div>
       </main>
     </Layout>
   );

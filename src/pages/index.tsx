@@ -3,6 +3,7 @@ import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import { useHistory } from "@docusaurus/router";
 import useBaseUrl from "@docusaurus/useBaseUrl";
+import stats from "@site/src/data/stats.json";
 
 // A passage a day, deterministic from the date: no server, everyone sees the same one,
 // and there is a reason to come back tomorrow. `lead` is set in the accent colour.
@@ -57,6 +58,17 @@ function passageOfTheDay() {
   return passages[day % passages.length];
 }
 
+// Written by scripts/generate.mjs on every build. Printing them here is what stops that file
+// being generated, committed, and read by nothing.
+const nf = new Intl.NumberFormat("en-US");
+const shelves: { to: string; title: string; count: string }[] = [
+  { to: "/law", title: "A Handbook of Bible Law", count: `${nf.format(stats.laws)} laws in ${stats.parts} parts` },
+  { to: "/precepts", title: "Precepts", count: `${nf.format(stats.precepts)} precepts, with their references` },
+  { to: "/cases", title: "Case Studies", count: `${nf.format(stats.cases)} judgments recorded in scripture` },
+  { to: "/encyclopedia", title: "Encyclopedia", count: `${stats.encyclopedia} subjects gathered from the notes` },
+  { to: "/concordance", title: "Concordance", count: `${nf.format(stats.citedChapters)} chapters, and what cites them` },
+];
+
 export default function Home() {
   const [q, setQ] = useState("");
   const history = useHistory();
@@ -109,6 +121,26 @@ export default function Home() {
               <p>{r.blurb}</p>
             </article>
           ))}
+        </div>
+      </section>
+
+      <section className="cj-shelves">
+        <div className="cj-shelves-inner">
+          <h2 className="cj-shelves-head">The law, and what is taught from it</h2>
+          <ul>
+            {shelves.map((sh) => (
+              <li key={sh.to}>
+                <Link to={sh.to}>{sh.title}</Link>
+                <span>{sh.count}</span>
+              </li>
+            ))}
+          </ul>
+          <p className="cj-shelves-foot">
+            {nf.format(stats.verses)} verses across {stats.books} books, with{" "}
+            {nf.format(stats.studies + stats.classes + stats.captains)} notes written on them.{" "}
+            <Link to="/about">About this library</Link> ·{" "}
+            <Link to="/api">the whole thing as JSON</Link>.
+          </p>
         </div>
       </section>
     </Layout>

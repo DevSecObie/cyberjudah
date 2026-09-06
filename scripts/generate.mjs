@@ -75,14 +75,6 @@ for (const e of bibleIndex) bible[e.book] = json(path.join(DATA, "bible", e.slug
 const CHAPTERS = Object.fromEntries(bibleIndex.map((e) => [e.book, e.chapters]));
 const ABBR = { Genesis: "Gen", Exodus: "Exod", Leviticus: "Lev", Numbers: "Num", Deuteronomy: "Deut", Joshua: "Josh", Judges: "Judg", "1 Samuel": "1 Sam", "2 Samuel": "2 Sam", "1 Kings": "1 Kgs", "2 Kings": "2 Kgs", "1 Chronicles": "1 Chr", "2 Chronicles": "2 Chr", Nehemiah: "Neh", Psalms: "Ps", Proverbs: "Prov", Ecclesiastes: "Eccl", "Song of Solomon": "Song", Isaiah: "Isa", Jeremiah: "Jer", Lamentations: "Lam", Ezekiel: "Ezek", Daniel: "Dan", Hosea: "Hos", Obadiah: "Obad", Micah: "Mic", Nahum: "Nah", Habakkuk: "Hab", Zephaniah: "Zeph", Haggai: "Hag", Zechariah: "Zech", Malachi: "Mal", Matthew: "Matt", Romans: "Rom", "1 Corinthians": "1 Cor", "2 Corinthians": "2 Cor", Galatians: "Gal", Ephesians: "Eph", Philippians: "Phil", Colossians: "Col", "1 Thessalonians": "1 Thess", "2 Thessalonians": "2 Thess", "1 Timothy": "1 Tim", "2 Timothy": "2 Tim", Philemon: "Phlm", Hebrews: "Heb", "1 Peter": "1 Pet", "2 Peter": "2 Pet", Revelation: "Rev", "Wisdom of Solomon": "Wis", Sirach: "Sir", "1 Maccabees": "1 Macc", "2 Maccabees": "2 Macc", "Esther (Greek)": "Esth (Gk)", "Song of the Three Children": "Song Thr", "Bel and the Dragon": "Bel", "Prayer of Manasseh": "Pr Man", "Epistle of Jeremiah": "Ep Jer" };
 const abbr = (b) => ABBR[b] ?? b;
-// vault book names -> project names
-const VAULT_NAMES = { Ecclesiasticus: "Sirach", "Additions to Esther": "Esther (Greek)", "Prayer of Manasses": "Prayer of Manasseh", "Prayer of Azariah": "Song of the Three Children" };
-const bookByLower = new Map(BOOKS.map((b) => [b.toLowerCase(), b]));
-function resolveBook(name) {
-  const n = name.trim();
-  if (VAULT_NAMES[n]) return VAULT_NAMES[n];
-  return bookByLower.get(n.toLowerCase()) ?? null;
-}
 // Greek Esther exists only as the Additions (chapters 10-16). A reference to 1-9 in
 // that book means canonical Esther, so resolve it there instead of emitting a dead link.
 const resolveChapter = (book, ch) => (bible[book] && bible[book][String(ch)]) ? book : (/^(.+) \(Greek\)$/.exec(book)?.[1] ?? book);

@@ -34,7 +34,10 @@ export default function NotFoundContent({ className }: Props): React.ReactNode {
               <li><Link to="/">/</Link> — start over</li>
             </ul>
             <form
-              onSubmit={(e) => { e.preventDefault(); if (q.trim()) history.push(`/search?q=${encodeURIComponent(q.trim())}`); }}
+              // Docusaurus mounts a BrowserRouter with no basename, so a route is its full
+              // path including the baseUrl. Pushing a bare "/search" left the site entirely
+              // and 404'd again -- from the 404 page's own search box.
+              onSubmit={(e) => { e.preventDefault(); if (q.trim()) history.push(`${base.replace(/\/$/, "")}/search?q=${encodeURIComponent(q.trim())}`); }}
             >
               <label className="cj-404-search">
                 <b className="cj-404-prompt">cyberjudah:~$</b>

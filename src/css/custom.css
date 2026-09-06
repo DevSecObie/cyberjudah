@@ -525,7 +525,7 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
   background-image: linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%);
   background-position: right .78rem center, right .54rem center; background-size: .24rem .24rem; background-repeat: no-repeat;
   transition: color .16s, border-color .16s; }
-.cj-select:hover, .cj-select:focus { color: var(--ifm-font-color-base); border-color: var(--cj-tertiary); outline: none; }
+.cj-select:hover { color: var(--ifm-font-color-base); border-color: var(--cj-tertiary); }
 .cj-select option { background: var(--ifm-background-surface-color); color: var(--ifm-font-color-base); }
 
 /* The tags on a card are buttons that narrow the list, so they have to sit above the
@@ -580,3 +580,94 @@ html:has(.navbar[class*="navbarHidden"]) .theme-doc-sidebar-container [class*="s
 .cj-404-search input { flex: 1; min-width: 0; background: none; border: none; outline: none;
   color: var(--ifm-font-color-base); font-family: inherit; font-size: inherit; caret-color: var(--ifm-color-primary); }
 .cj-404-search input::placeholder { color: var(--ifm-color-emphasis-600); opacity: .7; }
+
+/* Keyboard focus. Several controls here are custom-styled buttons and inputs whose default
+   ring was suppressed, or replaced with the same treatment as :hover -- which leaves someone
+   tabbing through the filters with no idea where they are. One visible ring, applied only for
+   keyboard focus so a mouse click does not leave it behind. */
+.cj-chip:focus-visible,
+.cj-tag:focus-visible,
+.cj-select:focus-visible,
+.cj-more:focus-visible,
+.cj-count button:focus-visible,
+.cj-empty button:focus-visible,
+.cj-card h2 a:focus-visible,
+.cj-find button:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+/* The text inputs drop the ring on purpose and mark focus on the underline instead; make sure
+   that underline is the accent, not the same grey as rest state. */
+.cj-find:focus-within, .cj-filter-q:focus { border-bottom-color: var(--ifm-color-primary); }
+.cj-404-search:focus-within { outline: 2px solid var(--ifm-color-primary); outline-offset: 3px; border-radius: 3px; }
+
+/* ---- search ---------------------------------------------------------------------------
+   The page had no styles of its own: a flex form declared inline, and results as bare
+   <ul>. It is the most-used tool on the site, so it gets the same treatment as browse. */
+.cj-search { padding: clamp(1.5rem, 4vw, 3rem) clamp(1rem, 4vw, 2.5rem) 4rem; }
+.cj-search-inner { max-width: 52rem; margin: 0 auto; }
+.cj-search-head { margin: 0 0 1.2rem; font-size: clamp(1.7rem, 3.5vw, 2.3rem); font-weight: 400;
+  letter-spacing: -.018em; color: var(--cj-display); }
+.cj-search-form { display: flex; gap: .6rem; align-items: center; margin-bottom: 1.6rem; }
+.cj-search-q { flex: 1; min-width: 0; background: none; border: 0;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200); outline: none; appearance: none;
+  padding: .55rem 0; font-family: var(--ifm-font-family-base); font-size: 1.05rem;
+  color: var(--ifm-font-color-base); transition: border-color .2s; }
+.cj-search-q:focus { border-bottom-color: var(--ifm-color-primary); }
+.cj-search-q::placeholder { color: var(--ifm-color-emphasis-600); opacity: .85; }
+
+.cj-search-status { font-family: var(--ifm-font-family-monospace); font-size: .78rem;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--cj-tertiary); }
+.cj-search-empty { margin: 1.4rem 0 2rem; color: var(--ifm-color-emphasis-600); line-height: 1.65; }
+.cj-search-egs { font-size: .93rem; }
+
+/* One control shape for every "narrow this" button on the page, so the facet row, the
+   example queries and the "all N in ..." link all behave and look like the same thing. */
+.cj-eg { background: none; border: 1px solid var(--ifm-color-emphasis-200); border-radius: 2rem;
+  padding: .16rem .66rem; cursor: pointer; font-family: var(--ifm-font-family-monospace);
+  font-size: .76rem; color: var(--ifm-color-emphasis-600);
+  transition: color .16s, border-color .16s, background .16s; }
+.cj-eg:hover { color: var(--ifm-font-color-base); border-color: var(--cj-tertiary); }
+.cj-eg[data-on] { color: var(--ifm-background-color); background: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary); }
+.cj-eg i { font-style: normal; opacity: .55; margin-left: .3em; }
+.cj-eg[data-on] i { opacity: .75; }
+.cj-eg:focus-visible { outline: 2px solid var(--ifm-color-primary); outline-offset: 2px; }
+
+.cj-search-facets { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem;
+  margin: 0 0 1.8rem; padding-bottom: 1.2rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200); }
+.cj-search-group { margin-bottom: 2.2rem; }
+.cj-search-group h2 { font-size: .74rem; font-weight: 500; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--cj-tertiary);
+  font-family: var(--ifm-font-family-monospace); border: 0; margin: 0 0 .8rem; }
+.cj-search-group h2 small { opacity: .6; margin-left: .4em; }
+.cj-search .hits { list-style: none; padding: 0; margin: 0; }
+.cj-search .hits li { padding: .55rem 0; border-bottom: 1px solid var(--ifm-color-emphasis-100);
+  line-height: 1.55; }
+.cj-search .hits li:last-child { border-bottom: 0; }
+.cj-search .hits a { font-weight: 600; }
+.cj-search .hits span { color: var(--ifm-color-emphasis-600); font-size: .93rem; }
+.cj-search .hits mark { background: none; color: var(--ifm-color-primary); font-weight: 600; }
+
+/* ---- home: the reference works ---------------------------------------------------------
+   The four cards above cover the reading. The law, precepts, cases, encyclopedia and
+   concordance had no route in from the home page at all -- only the navbar and the footer.
+   Listed rather than carded, because they are looked up, not read through. */
+.cj-shelves { padding: 0 clamp(1rem, 4vw, 2.5rem) clamp(3rem, 7vw, 5rem); }
+.cj-shelves-inner { max-width: 62rem; margin: 0 auto;
+  border-top: 1px solid var(--ifm-color-emphasis-200); padding-top: clamp(2rem, 4vw, 3rem); }
+.cj-shelves-head { margin: 0 0 1.4rem; font-family: var(--ifm-font-family-monospace);
+  font-size: .7rem; font-weight: 500; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--cj-tertiary); border: 0; }
+.cj-shelves ul { list-style: none; padding: 0; margin: 0 0 1.8rem;
+  display: grid; gap: .1rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); }
+.cj-shelves li { display: flex; flex-wrap: wrap; align-items: baseline; gap: .1rem .6rem;
+  padding: .55rem 0; border-bottom: 1px solid var(--ifm-color-emphasis-100); }
+.cj-shelves li a { font-size: 1rem; font-weight: 600; color: var(--cj-display); text-decoration: none; }
+.cj-shelves li a:hover { color: var(--ifm-color-primary); }
+.cj-shelves li span { font-family: var(--ifm-font-family-monospace); font-size: .7rem;
+  letter-spacing: .04em; color: var(--cj-tertiary); }
+.cj-shelves-foot { margin: 0; font-family: var(--ifm-font-family-monospace); font-size: .72rem;
+  letter-spacing: .04em; line-height: 1.9; color: var(--cj-tertiary); }
