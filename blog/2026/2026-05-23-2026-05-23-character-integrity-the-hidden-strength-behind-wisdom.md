@@ -195,3 +195,7 @@ Integrity is a decision that has to be made every time. If you are not reading y
 Wisdom is not proven by how deep you sound, how many scriptures you know, how spiritual you appear. Wisdom is revealed through consistency, discipline, humility, honesty, and integrity.
 
 ---
+
+---
+
+[Class Notes Index](/classes)

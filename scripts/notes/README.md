@@ -13,6 +13,8 @@ Run them from the repo root. `CJ_ROOT` overrides the repo location if you need i
 | `lib.py` | `S(ref, ts, notes)` builds a main scripture block; `P([(ref, note)])` builds a nested precept block. Import it from a builder script. |
 | `check.py <note.md>` | Byte-for-byte validation of every quoted verse in a finished note against `data/bible`. Must report 0 mismatches. |
 | `teachers.py` | Read and edit the `teacher` field across every note. See [Who taught it](#who-taught-it). |
+| `lint.py` | Check every note against this spec. `npm run notes:lint`. Runs in CI, so an error fails the deploy. |
+| `video.py` | List the notes with no recording; attach one with `video.py set <slug> <url>`. |
 
 ## The note must be near-verbatim, not a summary
 
@@ -108,6 +110,28 @@ Where there is no recording, drop the second half rather than linking the note t
 3. Collect every scripture reference and check each one with `v.py` before writing.
 4. Write a builder script that imports `lib.py` and emits the note.
 5. `check.py` the result. Zero mismatches, or fix and rerun.
-6. `npm run build` from the repo root. The build is the link checker
+6. `npm run notes:fix`, then `npm run notes:lint`. The linter checks the shape of the note --
+   frontmatter, sections, the nav line, the tag list, scripture links -- and must report 0
+   errors. Warnings are for things only the recording can settle (no video id, no teacher).
+7. `npm run build` from the repo root. The build is the link checker
    (`onBrokenLinks: "throw"`), so a bad `/bible/...` link fails it.
-7. Commit and push. CI deploys on push to main.
+8. Commit and push. CI deploys on push to main.
+
+## The recording
+
+`data-video-id` is the 11-character YouTube id, in the mount directly after
+`<!-- truncate -->`. It is what puts the player on the page, and what
+`npm run notes:fix` needs in order to turn each `*[18:01]*` into a link into the video at
+that second.
+
+Twelve notes have none, and 324 timestamps sit inert because of it. The ids were never
+captured -- not in the frontmatter, not in those files' git history, and no orphan thumbnail
+in `static/img` to recover one from -- so they have to come off the channel:
+
+```
+scripts/notes/video.py                        the notes still missing one, with a search link
+scripts/notes/video.py set <slug> <url>       attach it, fix the nav line, link the timestamps
+```
+
+Do not guess an id. A wrong one points every timestamp in the note at the wrong class, which
+is worse than leaving them plain.

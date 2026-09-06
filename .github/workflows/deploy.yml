@@ -25,6 +25,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # The note linter gates the deploy: a malformed note is a content bug the build
+      # itself will not catch, since Docusaurus only checks links.
+      - run: npm run notes:lint
       - run: npm run build
         env:
           DOCUSAURUS_SSR_CONCURRENCY: 4
