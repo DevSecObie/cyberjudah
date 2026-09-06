@@ -25,6 +25,7 @@
 // The notes are read here, never written: what they contribute is the citation graph that
 // puts a "cited by" block on each chapter page, plus the listings and the search text.
 import fs from "node:fs";
+import GithubSlugger from "github-slugger";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { execFileSync } from "node:child_process";
@@ -302,42 +303,45 @@ const studyChapters = (b) => {
     for (let c = n.chapters[0]; c <= n.chapters[1]; c++) if (real.has(c)) done.add(c);
   return done;
 };
+// Every chapter a session note teaches, as its own line: the first chapter carries the
+// note's title, and each later chapter is an h1 inside the note ("# Genesis 2: Adam, the
+// Chosen of the Most High") whose anchor id is what Docusaurus's slugger would give it.
+// The slugger walks every heading in document order so duplicate texts get the same
+// "-1", "-2" suffixes the page will have.
+const chapterLines = (n) => {
+  const out = [{ chapter: n.chapters[0], text: n.title, url: n.url }];
+  const slugger = new GithubSlugger();
+  let fence = false;
+  for (const line of n.body.split("\n")) {
+    if (/^\s*(```|~~~)/.test(line)) { fence = !fence; continue; }
+    if (fence) continue;
+    const h = /^(#{1,6})\s+(.+?)\s*$/.exec(line); if (!h) continue;
+    const text = h[2].replace(/\s+#+$/, "").trim();
+    const id = slugger.slug(text);
+    if (h[1].length !== 1) continue;
+    const m = /^[^:]*?\b(\d+)\b[^:]*:\s*\S/.exec(text); if (!m) continue;
+    out.push({ chapter: +m[1], text, url: `${n.url}#${id}` });
+  }
+  return out;
+};
+const studyList = (b) => {
+  const seen = new Set();
+  return notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0])
+    .flatMap(chapterLines)
+    .filter((e) => { const k = e.text.toLowerCase(); if (seen.has(k)) return false; seen.add(k); return true; })
+    .map((e) => `- [${e.text}](${e.url})`).join("\n");
+};
 {
-  const covered = new Map(studyBooks.map((b) => [b, studyChapters(b)]));
-  const chaptersDone = [...covered.values()].reduce((a, s) => a + s.size, 0);
-  const chaptersAll = Object.values(CHAPTERS).reduce((a, b) => a + b, 0);
-  const notStarted = BOOKS.filter((b) => !covered.has(b));
-  const partial = studyBooks.filter((b) => covered.get(b).size < CHAPTERS[b]);
-
-  const grid = (b) => {
-    const done = covered.get(b) ?? new Set();
-    const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
-    return `<nav class="cover" aria-label="${b} coverage">` + chs.map((c) => {
-      const n = notes.find((x) => x.kind === "study" && x.book === b && c >= x.chapters[0] && c <= x.chapters[1]);
-      return done.has(c) && n
-        ? `<a href="${href(n.url)}" class="on" title="${esc(n.title)}">${c}</a>`
-        : `<a href="${href(chapterUrl(b, c))}" title="Not yet taught \u2014 read the chapter">${c}</a>`;
-    }).join("") + `</nav>`;
-  };
-
   const body = [
-    `<p class="cover-lead">${studyBooks.length} of ${BOOKS.length} books · ${chaptersDone} of ${chaptersAll} chapters taught. ` +
-    `A filled number is a chapter with notes; a plain one links to the scripture, still to be read.</p>`, "",
-    ...(partial.length ? [`**In progress:** ` + partial.map((b) => `[${b}](/study/${bookSlug[b]}) (${covered.get(b).size}/${CHAPTERS[b]})`).join(" · "), ""] : []),
-    ...(notStarted.length ? [`**Not started:** ` + notStarted.map((b) => `[${b}](${bookUrl(b)})`).join(" · "), ""] : []),
-    ...studyBooks.flatMap((b) => [
-      `## [${b}](/study/${bookSlug[b]})`, "",
-      grid(b), "",
-      notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]).map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n"), "",
-    ]),
+    `<p class="cover-lead">Notes from the daily reading, four chapters at a time, in the order the books are read. Every chapter taught is listed under its book.</p>`, "",
+    ...studyBooks.flatMap((b) => [`## [${b}](/study/${bookSlug[b]})`, "", studyList(b), ""]),
   ];
-  write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null, description: "The daily reading plan, its notes, and how far it has come" }) + body.join("\n"));
+  write(path.join(DOCS, "study", "index.md"), fm({ title: "4 Chapters a Day", slug: "/study", sidebar_position: 0, pagination_next: null, pagination_prev: null, description: "The daily reading plan and its notes, chapter by chapter" }) + body.join("\n"));
 }
 for (const b of studyBooks) {
   const dir = path.join(DOCS, "study", bookSlug[b]);
   write(path.join(dir, "_category_.json"), JSON.stringify({ label: b, position: bookNum[b], link: { type: "doc", id: `study/${bookSlug[b]}/index` } }));
-  const list = notes.filter((n) => n.kind === "study" && n.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]);
-  write(path.join(dir, "index.md"), fm({ title: `${b}: 4 Chapters a Day`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + list.map((n) => `- [${n.range}](${n.url}): ${n.title}`).join("\n") + "\n");
+  write(path.join(dir, "index.md"), fm({ title: `${b}: 4 Chapters a Day`, slug: `/study/${bookSlug[b]}`, sidebar_position: 0, sidebar_label: `${b}: all sessions` }) + `Read the scripture itself: [${b}](${bookUrl(b)})\n\n` + studyList(b) + "\n");
 }
 // Class notes are dated entries, so they live in blog/ and the blog plugin gives them
 // reverse-chronological order, an RSS/Atom feed and an archive for free.
