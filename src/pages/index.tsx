@@ -86,9 +86,13 @@ function useLastChapter() {
 
 function NoteCard({ note }: { note: Recent }) {
   const kicker = note.kind === "captains" ? "The Captains" : "Sabbath class";
+  // Thumbnails the build fetched are site-relative (/img/classes/ID.jpg) and need the
+  // /cyberjudah/ base; the i.ytimg.com fallbacks are absolute and must be left alone.
+  const withBase = useBaseUrl("/");
+  const thumb = note.thumb.startsWith("/") ? withBase.replace(/\/$/, "") + note.thumb : note.thumb;
   return (
     <Link className="cj-note" to={note.url}>
-      {note.thumb && <img src={note.thumb} alt="" loading="lazy" width={320} height={180} />}
+      {note.thumb && <img src={thumb} alt="" loading="lazy" width={320} height={180} />}
       <div className="cj-note-body">
         <p className="cj-kicker">{kicker} · {fmtDate(note.date)}</p>
         <h3>{note.title}</h3>
