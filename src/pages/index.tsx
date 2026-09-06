@@ -41,7 +41,7 @@ const notes = stats.studies + stats.classes + stats.captains;
 const rooms: { to: string; title: string; count: string; blurb: string; kicker: string }[] = [
   { to: "/bible", title: "The Bible", kicker: "READ", count: `${stats.books} books · ${nf.format(stats.verses)} verses`,
     blurb: "King James with the Apocrypha. Every chapter carries the notes, laws, precepts and cases that cite it." },
-  { to: "/study", title: "4 Chapters a Day", kicker: "PLAN", count: `${nf.format(stats.studies)} sessions`,
+  { to: "/study", title: "4 Chapters a Day", kicker: "PLAN", count: `${nf.format(stats.studies)} chapters`,
     blurb: "The daily reading, session by session, every verse taught quoted in place." },
   { to: "/classes/browse", title: "Sabbath Classes", kicker: "NOTES", count: `${nf.format(stats.classes)} classes`,
     blurb: "Each class written up in full, scriptures cited inline and linked back into the text." },
