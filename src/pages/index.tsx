@@ -25,7 +25,7 @@ const passages: { lead: string; rest: string; ref: string; to: string }[] = [
 const rooms: { to: string; title: string; blurb: string }[] = [
   {
     to: "/bible",
-    title: "The scripture",
+    title: "The Bible",
     blurb:
       "The King James text with the Apocrypha, every chapter on its own page and every verse on its own anchor. Each chapter carries the notes, laws, precepts and cases that cite it, so a passage and everything taught from it sit together.",
   },
@@ -37,7 +37,7 @@ const rooms: { to: string; title: string; blurb: string }[] = [
   },
   {
     to: "/classes/browse",
-    title: "Sabbath class notes",
+    title: "Sabbath Class Notes",
     blurb:
       "The classes written up in full, with the scriptures cited inline and linked back into the text. Read them straight through, or follow a citation into the chapter it came from and keep going.",
   },

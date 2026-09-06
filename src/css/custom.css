@@ -218,6 +218,16 @@ main .container .markdown { max-width: var(--cj-measure); margin-inline: auto; }
 [data-theme="dark"] .navbar__title { color: var(--cj-cyan);
   text-shadow: 0 0 12px color-mix(in srgb, var(--cj-cyan) 45%, transparent); }
 .navbar__brand:hover .navbar__title { color: var(--cj-cyan); }
+/* The wordmark is the one thing that must never truncate to "[cyberj…": the section links
+   give way first. Between the mobile breakpoint (996px) and 1200px the links sit closer
+   together and stay on one line so nothing wraps into a two-row navbar. */
+.navbar__brand { flex-shrink: 0; }
+.navbar__title { overflow: visible; }
+.navbar__item { white-space: nowrap; }
+@media (min-width: 997px) and (max-width: 1200px) {
+  .navbar__item { padding: var(--ifm-navbar-item-padding-vertical) .45rem; font-size: .92rem; }
+  .navbar__items--right > :last-child { padding-left: 0; }
+}
 
 
 /* ---------------- Bible reader ---------------- */

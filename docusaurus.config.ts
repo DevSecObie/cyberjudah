@@ -117,20 +117,26 @@ const config: Config = {
       title: "CyberJudah",
       logo: { alt: "CyberJudah Holy Bible", src: "img/cyber-bible-icon-256.png" },
       hideOnScroll: true,
+      // One entry per section, named as the section is named on the home page and in the
+      // footer. The four law sidebars share a dropdown, the same grouping the footer uses;
+      // API and GitHub live in the footer's Tools column rather than the navbar.
       items: [
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
-        { type: "docSidebar", sidebarId: "study", label: "Study", position: "left" },
-        { to: "/classes/browse", label: "Classes", position: "left" },
-        { to: "/captains/browse", label: "Captains", position: "left" },
+        { type: "docSidebar", sidebarId: "study", label: "4 Chapters a Day", position: "left" },
+        { to: "/classes/browse", label: "Sabbath Classes", position: "left" },
+        { to: "/captains/browse", label: "The Captains", position: "left" },
         { type: "docSidebar", sidebarId: "encyclopedia", label: "Encyclopedia", position: "left" },
-        { type: "docSidebar", sidebarId: "law", label: "Law", position: "left" },
-        { type: "docSidebar", sidebarId: "precepts", label: "Precepts", position: "left" },
-        { type: "docSidebar", sidebarId: "cases", label: "Cases", position: "left" },
-        { type: "docSidebar", sidebarId: "concordance", label: "Concordance", position: "left" },
+        {
+          type: "dropdown", label: "The Law", position: "left", to: "/law",
+          items: [
+            { type: "docSidebar", sidebarId: "law", label: "Handbook" },
+            { type: "docSidebar", sidebarId: "precepts", label: "Precepts" },
+            { type: "docSidebar", sidebarId: "cases", label: "Case Studies" },
+            { type: "docSidebar", sidebarId: "concordance", label: "Concordance" },
+          ],
+        },
         { to: "/search", label: "Search", position: "right" },
-        { to: "/api", label: "API", position: "right" },
         { to: "/about", label: "About", position: "right" },
-        { href: "https://github.com/DevSecObie/cyberjudah", label: "GitHub", position: "right" },
       ],
     },
     footer: {
@@ -138,7 +144,7 @@ const config: Config = {
       links: [
         { title: "Read", items: [{ label: "Bible", to: "/bible" }, { label: "4 Chapters a Day", to: "/study" }, { label: "Sabbath Class Notes", to: "/classes/browse" }, { label: "Classes by Book", to: "/classes/by-book" }, { label: "15 Minutes w/ The Captains", to: "/captains/browse" }, { label: "Encyclopedia", to: "/encyclopedia" }] },
         { title: "The Law", items: [{ label: "Handbook", to: "/law" }, { label: "Precepts", to: "/precepts" }, { label: "Case Studies", to: "/cases" }, { label: "Concordance", to: "/concordance" }] },
-        { title: "Tools", items: [{ label: "Search", to: "/search" }, { label: "API", to: "/api" }, { label: "Downloads", to: "/downloads" }, { label: "About", to: "/about" }] },
+        { title: "Tools", items: [{ label: "Search", to: "/search" }, { label: "API", to: "/api" }, { label: "Downloads", to: "/downloads" }, { label: "About", to: "/about" }, { label: "GitHub", href: "https://github.com/DevSecObie/cyberjudah" }] },
       ],
       copyright: "The Bible text is the public-domain King James Version (1769) with Apocrypha.",
     },
