@@ -4,6 +4,7 @@ import Link from "@docusaurus/Link";
 import { useHistory } from "@docusaurus/router";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import stats from "@site/src/data/stats.json";
+import books from "@site/static/api/kjv/books.json";
 
 // A passage a day, deterministic from the date: no server, everyone sees the same one,
 // and there is a reason to come back tomorrow. `lead` is set in the accent colour.
@@ -22,33 +23,6 @@ const passages: { lead: string; rest: string; ref: string; to: string }[] = [
   { lead: "If we follow on to know", rest: " the Lord: his going forth is prepared as the morning.", ref: "Hosea 6:3", to: "/bible/hosea/6#v3" },
 ];
 
-const rooms: { to: string; title: string; blurb: string }[] = [
-  {
-    to: "/bible",
-    title: "The Bible",
-    blurb:
-      "The King James text with the Apocrypha, every chapter on its own page and every verse on its own anchor. Each chapter carries the notes, laws, precepts and cases that cite it, so a passage and everything taught from it sit together.",
-  },
-  {
-    to: "/study",
-    title: "4 Chapters a Day",
-    blurb:
-      "Notes from the daily reading, session by session, in the order the books are read. Every verse taught is quoted in place, and the scriptures brought in alongside it are nested under the verse they support.",
-  },
-  {
-    to: "/classes/browse",
-    title: "Sabbath Class Notes",
-    blurb:
-      "The classes written up in full, with the scriptures cited inline and linked back into the text. Read them straight through, or follow a citation into the chapter it came from and keep going.",
-  },
-  {
-    to: "/captains/browse",
-    title: "15 Minutes w/ The Captains",
-    blurb:
-      "Short teachings from the captains, one subject at a time. Every scripture opened is quoted where it was read, so an episode can be followed end to end without leaving the page.",
-  },
-];
-
 // Rendered at build time but read on any later day, so the server and the first client
 // render must agree: SSR always emits passages[0] and the browser swaps to the day's
 // passage on mount. Without this React hydration mismatches every day after a deploy.
@@ -61,13 +35,72 @@ function passageOfTheDay() {
 // Written by scripts/generate.mjs on every build. Printing them here is what stops that file
 // being generated, committed, and read by nothing.
 const nf = new Intl.NumberFormat("en-US");
-const shelves: { to: string; title: string; count: string }[] = [
-  { to: "/law", title: "A Handbook of Bible Law", count: `${nf.format(stats.laws)} laws in ${stats.parts} parts` },
-  { to: "/precepts", title: "Precepts", count: `${nf.format(stats.precepts)} precepts, with their references` },
-  { to: "/cases", title: "Case Studies", count: `${nf.format(stats.cases)} judgments recorded in scripture` },
-  { to: "/encyclopedia", title: "Encyclopedia", count: `${stats.encyclopedia} subjects gathered from the notes` },
-  { to: "/concordance", title: "Concordance", count: `${nf.format(stats.citedChapters)} chapters, and what cites them` },
+const notes = stats.studies + stats.classes + stats.captains;
+
+// The six places a reader can go, each with what is in it. Counts are live from the build.
+const rooms: { to: string; title: string; count: string; blurb: string; kicker: string }[] = [
+  { to: "/bible", title: "The Bible", kicker: "READ", count: `${stats.books} books · ${nf.format(stats.verses)} verses`,
+    blurb: "King James with the Apocrypha. Every chapter carries the notes, laws, precepts and cases that cite it." },
+  { to: "/study", title: "4 Chapters a Day", kicker: "PLAN", count: `${nf.format(stats.studies)} sessions`,
+    blurb: "The daily reading, session by session, every verse taught quoted in place." },
+  { to: "/classes/browse", title: "Sabbath Classes", kicker: "NOTES", count: `${nf.format(stats.classes)} classes`,
+    blurb: "Each class written up in full, scriptures cited inline and linked back into the text." },
+  { to: "/captains/browse", title: "The Captains", kicker: "EPISODES", count: `${nf.format(stats.captains)} episodes`,
+    blurb: "15 Minutes w/ The Captains: one subject at a time, every scripture quoted where it was read." },
+  { to: "/encyclopedia", title: "Encyclopedia", kicker: "SUBJECTS", count: `${stats.encyclopedia} subjects`,
+    blurb: "Topics gathered from across the notes: the feasts, the priesthood, the covenant, the Sabbath." },
+  { to: "/law", title: "The Law", kicker: "REFERENCE", count: `${nf.format(stats.laws)} laws · ${nf.format(stats.precepts)} precepts · ${nf.format(stats.cases)} cases`,
+    blurb: "The handbook, the precept index, the case studies, and a concordance of what cites what." },
 ];
+
+const lawShelf: { to: string; title: string; count: string }[] = [
+  { to: "/law", title: "Handbook", count: `${nf.format(stats.laws)} laws in ${stats.parts} parts` },
+  { to: "/precepts", title: "Precepts", count: `${nf.format(stats.precepts)} with references` },
+  { to: "/cases", title: "Case Studies", count: `${nf.format(stats.cases)} judgments` },
+  { to: "/concordance", title: "Concordance", count: `${nf.format(stats.citedChapters)} chapters cited` },
+];
+
+type Latest = { title: string; url: string; date: string; teacher: string; thumb: string; books: string[] } | null;
+const latestClass = stats.latest?.class as Latest;
+const latestEpisode = stats.latest?.captains as Latest;
+
+const fmtDate = (d: string) => {
+  const [y, m, day] = d.split("-").map(Number);
+  return new Date(Date.UTC(y, m - 1, day)).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+};
+
+// The reader stores "book-slug/chapter" on every chapter visit; the home page turns that
+// into a way back in. Read on mount only, so the server render and hydration agree.
+function useLastChapter() {
+  const [last, setLast] = useState<{ label: string; to: string } | null>(null);
+  useEffect(() => {
+    try {
+      const raw = window.localStorage.getItem("cj-last-chapter");
+      if (!raw) return;
+      const [slug, ch] = raw.split("/");
+      const b = (books as { book: string; slug: string }[]).find((x) => x.slug === slug);
+      if (b && ch) setLast({ label: `${b.book} ${ch}`, to: `/bible/${slug}/${ch}` });
+    } catch { /* private mode */ }
+  }, []);
+  return last;
+}
+
+function NoteCard({ kicker, note, fallbackTo }: { kicker: string; note: Latest; fallbackTo: string }) {
+  if (!note) return null;
+  return (
+    <Link className="cj-note" to={note.url || fallbackTo}>
+      {note.thumb && <img src={note.thumb} alt="" loading="lazy" width={320} height={180} />}
+      <div className="cj-note-body">
+        <p className="cj-kicker">{kicker} · {fmtDate(note.date)}</p>
+        <h3>{note.title}</h3>
+        <p className="cj-note-meta">
+          {note.teacher && <span>{note.teacher}</span>}
+          {note.books?.length > 0 && <span>{note.books.slice(0, 3).join(" · ")}</span>}
+        </p>
+      </div>
+    </Link>
+  );
+}
 
 export default function Home() {
   const [q, setQ] = useState("");
@@ -76,6 +109,7 @@ export default function Home() {
   const lion = useBaseUrl("/img/cyber-lion.png");
   const [p, setP] = useState(passages[0]);
   useEffect(() => { setP(passageOfTheDay()); }, []);
+  const last = useLastChapter();
   return (
     <Layout title="CyberJudah" description="KJV Study Bible with Apocrypha, study notes, class notes, encyclopedia, the law, precepts, and case studies">
       <h1 className="sr-only">CyberJudah</h1>
@@ -92,6 +126,11 @@ export default function Home() {
             </figcaption>
           </figure>
 
+          <p className="cj-tagline">
+            A study library built on one idea: a passage and everything taught from it belong on the same page.
+            The scripture, the classes, the daily reading, the law and the cases, all cross-linked and all searchable.
+          </p>
+
           <form
             className="cj-find"
             onSubmit={(e) => { e.preventDefault(); if (q.trim()) history.push(`${searchUrl}?q=${encodeURIComponent(q.trim())}`); }}
@@ -99,7 +138,7 @@ export default function Home() {
             <input
               value={q}
               onChange={(e) => setQ(e.target.value)}
-              placeholder="Search scripture, notes, laws, and precepts"
+              placeholder="Search a word, a phrase, or a reference like John 3:16"
               aria-label="Search"
               spellCheck={false}
               autoComplete="off"
@@ -110,25 +149,59 @@ export default function Home() {
               </svg>
             </button>
           </form>
+
+          <div className="cj-cta">
+            {last
+              ? <Link className="cj-btn cj-btn-primary" to={last.to}>Continue reading {last.label} →</Link>
+              : <Link className="cj-btn cj-btn-primary" to="/bible/genesis/1">Open the Bible →</Link>}
+            <Link className="cj-btn" to="/study">Start 4 Chapters a Day</Link>
+            <Link className="cj-btn" to="/classes/browse">Browse the classes</Link>
+          </div>
+
+          <p className="cj-stats">
+            <span>{stats.books} books</span>
+            <span>{nf.format(stats.verses)} verses</span>
+            <span>{nf.format(notes)} notes</span>
+            <span>{nf.format(stats.laws)} laws</span>
+            <span>{nf.format(stats.precepts)} precepts</span>
+            <span>{nf.format(stats.cases)} cases</span>
+          </p>
         </div>
       </section>
 
+      {(latestClass || latestEpisode) && (
+        <section className="cj-new">
+          <div className="cj-new-inner">
+            <h2 className="cj-section-head">New this week</h2>
+            <div className="cj-new-grid">
+              <NoteCard kicker="Sabbath class" note={latestClass} fallbackTo="/classes/browse" />
+              <NoteCard kicker="15 Minutes w/ The Captains" note={latestEpisode} fallbackTo="/captains/browse" />
+            </div>
+          </div>
+        </section>
+      )}
+
       <section className="cj-rooms">
         <div className="cj-rooms-inner">
-          {rooms.map((r) => (
-            <article key={r.to}>
-              <h2><Link to={r.to}>{r.title}</Link></h2>
-              <p>{r.blurb}</p>
-            </article>
-          ))}
+          <h2 className="cj-section-head">What is here</h2>
+          <div className="cj-rooms-grid">
+            {rooms.map((r) => (
+              <Link key={r.to} className="cj-room" to={r.to}>
+                <p className="cj-kicker">{r.kicker}</p>
+                <h3>{r.title}</h3>
+                <p className="cj-room-count">{r.count}</p>
+                <p className="cj-room-blurb">{r.blurb}</p>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
       <section className="cj-shelves">
         <div className="cj-shelves-inner">
-          <h2 className="cj-shelves-head">The law, and what is taught from it</h2>
-          <ul>
-            {shelves.map((sh) => (
+          <h2 className="cj-section-head">The law, and what is taught from it</h2>
+          <ul className="cj-shelf-grid">
+            {lawShelf.map((sh) => (
               <li key={sh.to}>
                 <Link to={sh.to}>{sh.title}</Link>
                 <span>{sh.count}</span>
@@ -136,10 +209,9 @@ export default function Home() {
             ))}
           </ul>
           <p className="cj-shelves-foot">
-            {nf.format(stats.verses)} verses across {stats.books} books, with{" "}
-            {nf.format(stats.studies + stats.classes + stats.captains)} notes written on them.{" "}
             <Link to="/about">About this library</Link> ·{" "}
-            <Link to="/api">the whole thing as JSON</Link>.
+            <Link to="/api">the whole thing as JSON</Link> ·{" "}
+            <Link to="/downloads">downloads</Link>.
           </p>
         </div>
       </section>

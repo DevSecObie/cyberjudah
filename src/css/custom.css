@@ -435,21 +435,70 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
   padding: .4rem; color: var(--ifm-color-emphasis-600); transition: color .18s; }
 .cj-find button:hover, .cj-find:focus-within button { color: var(--ifm-color-primary); }
 
-/* second screen: what is in here, as prose */
-.cj-rooms { background: var(--ifm-background-surface-color);
-  border-top: 1px solid var(--ifm-color-emphasis-200); }
-.cj-rooms-inner { max-width: 68rem; margin-inline: auto; padding: clamp(3.5rem, 9vh, 6rem) 1.5rem;
-  display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1.75rem, 4vw, 3.25rem); }
-/* Same as the class cards: the column is the target, not only the heading text. */
-.cj-rooms article { position: relative; }
-.cj-rooms h2 a::after { content: ""; position: absolute; inset: -1rem -1rem -1.25rem; border-radius: 6px; }
-.cj-rooms h2 { margin: 0 0 .7rem; font-size: 1.16rem; font-weight: 600; letter-spacing: -.005em; border: 0; }
-.cj-rooms h2 a { color: var(--cj-display); text-decoration: none;
-  border-bottom: 1px solid var(--ifm-color-emphasis-200); padding-bottom: 3px; transition: border-color .18s, color .18s; }
-.cj-rooms h2 a:hover, .cj-rooms article:hover h2 a { color: var(--ifm-color-primary); border-bottom-color: var(--ifm-color-primary); text-decoration: none; }
-.cj-rooms p { margin: 0; font-size: .965rem; line-height: 1.66; color: var(--ifm-color-emphasis-600); }
+/* hero: one line on what the site is, the ways in, and the size of it */
+.cj-tagline { max-width: 46rem; margin: 0 0 1.75rem; font-size: 1.06rem; line-height: 1.65;
+  color: var(--ifm-color-emphasis-700); }
+.cj-cta { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.6rem 0 1.9rem; }
+.cj-btn { display: inline-flex; align-items: center; gap: .4rem; padding: .62rem 1.05rem; border-radius: 8px;
+  font-family: var(--ifm-font-family-monospace); font-size: .8rem; font-weight: 600; letter-spacing: .03em;
+  color: var(--cj-display); text-decoration: none; border: 1px solid var(--ifm-color-emphasis-300);
+  background: color-mix(in srgb, var(--ifm-background-surface-color) 70%, transparent);
+  transition: border-color .18s, color .18s, box-shadow .18s, background .18s; }
+.cj-btn:hover { color: var(--ifm-color-primary); border-color: var(--ifm-color-primary); text-decoration: none;
+  box-shadow: 0 0 0 3px var(--cj-highlight); }
+.cj-btn-primary { color: var(--ifm-background-color); background: var(--ifm-color-primary); border-color: var(--ifm-color-primary); }
+.cj-btn-primary:hover { color: var(--ifm-background-color); background: color-mix(in srgb, var(--ifm-color-primary) 85%, white);
+  box-shadow: 0 0 22px var(--cj-glow); }
+.cj-stats { display: flex; flex-wrap: wrap; gap: .35rem 1.4rem; margin: 0;
+  font-family: var(--ifm-font-family-monospace); font-size: .7rem; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--cj-tertiary); }
+.cj-stats span::before { content: "//"; margin-right: .5em; color: var(--cj-magenta); opacity: .8; }
 
-@media (max-width: 900px) { .cj-rooms-inner { grid-template-columns: 1fr; gap: 2.1rem; } }
+/* shared section pieces */
+.cj-section-head { margin: 0 0 1.4rem; font-family: var(--ifm-font-family-monospace);
+  font-size: .7rem; font-weight: 500; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--cj-tertiary); border: 0; }
+.cj-kicker { margin: 0 0 .4rem; font-family: var(--ifm-font-family-monospace); font-size: .64rem;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--ifm-color-primary); }
+
+/* new this week: the latest class and the latest episode, as cards with their thumbnails */
+.cj-new { background: var(--ifm-background-surface-color); border-top: 1px solid var(--ifm-color-emphasis-200); }
+.cj-new-inner { max-width: 68rem; margin-inline: auto; padding: clamp(2.5rem, 6vh, 4rem) 1.5rem; }
+.cj-new-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+.cj-note { display: grid; grid-template-columns: 11rem minmax(0, 1fr); gap: 0; overflow: hidden;
+  border: 1px solid var(--ifm-color-emphasis-200); border-radius: 12px; background: var(--ifm-background-color);
+  color: inherit; text-decoration: none; transition: border-color .18s, box-shadow .18s, transform .18s; }
+.cj-note:hover { border-color: var(--ifm-color-primary); box-shadow: 0 0 0 3px var(--cj-highlight); text-decoration: none; color: inherit; transform: translateY(-1px); }
+.cj-note img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 16 / 9; display: block; }
+.cj-note-body { padding: 1rem 1.1rem 1.05rem; min-width: 0; }
+.cj-note h3 { margin: 0 0 .45rem; font-size: 1.08rem; line-height: 1.3; font-weight: 600; color: var(--cj-display); }
+.cj-note:hover h3 { color: var(--ifm-color-primary); }
+.cj-note-meta { margin: 0; display: flex; flex-wrap: wrap; gap: .2rem .9rem; font-family: var(--ifm-font-family-monospace);
+  font-size: .68rem; letter-spacing: .04em; color: var(--cj-tertiary); }
+
+/* what is here: one card per section, the count in monospace, a line on what it holds */
+.cj-rooms { border-top: 1px solid var(--ifm-color-emphasis-200); }
+.cj-rooms-inner { max-width: 68rem; margin-inline: auto; padding: clamp(2.5rem, 6vh, 4rem) 1.5rem; }
+.cj-rooms-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.cj-room { display: block; padding: 1.15rem 1.2rem 1.2rem; border: 1px solid var(--ifm-color-emphasis-200); border-radius: 12px;
+  background: var(--ifm-background-surface-color); color: inherit; text-decoration: none;
+  transition: border-color .18s, box-shadow .18s, transform .18s; }
+.cj-room:hover { border-color: var(--ifm-color-primary); box-shadow: 0 0 0 3px var(--cj-highlight); text-decoration: none; color: inherit; transform: translateY(-1px); }
+.cj-room h3 { margin: 0 0 .3rem; font-size: 1.14rem; font-weight: 600; letter-spacing: -.005em; color: var(--cj-display); }
+.cj-room:hover h3 { color: var(--ifm-color-primary); }
+.cj-room-count { margin: 0 0 .6rem; font-family: var(--ifm-font-family-monospace); font-size: .68rem; letter-spacing: .05em; color: var(--cj-tertiary); }
+.cj-room-blurb { margin: 0; font-size: .93rem; line-height: 1.6; color: var(--ifm-color-emphasis-600); }
+
+@media (max-width: 900px) {
+  .cj-rooms-grid { grid-template-columns: 1fr 1fr; }
+  .cj-new-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+  .cj-rooms-grid { grid-template-columns: 1fr; }
+  .cj-note { grid-template-columns: 1fr; }
+  .cj-note img { aspect-ratio: 16 / 9; height: auto; }
+  .cj-cta .cj-btn { flex: 1 1 100%; justify-content: center; }
+}
 @media (max-width: 700px) {
   .cj-stage { align-items: flex-start; min-height: auto; padding-top: 1rem; }
   .cj-passage blockquote { max-width: none; }
@@ -674,19 +723,22 @@ html:has(.navbar[class*="navbarHidden"]) .theme-doc-sidebar-container [class*="s
    The four cards above cover the reading. The law, precepts, cases, encyclopedia and
    concordance had no route in from the home page at all -- only the navbar and the footer.
    Listed rather than carded, because they are looked up, not read through. */
-.cj-shelves { padding: 0 clamp(1rem, 4vw, 2.5rem) clamp(3rem, 7vw, 5rem); }
-.cj-shelves-inner { max-width: 62rem; margin: 0 auto;
-  border-top: 1px solid var(--ifm-color-emphasis-200); padding-top: clamp(2rem, 4vw, 3rem); }
-.cj-shelves-head { margin: 0 0 1.4rem; font-family: var(--ifm-font-family-monospace);
+.cj-shelves { padding: 0 1.5rem clamp(3rem, 7vw, 5rem); }
+.cj-shelves-inner { max-width: 68rem; margin: 0 auto; padding: 0 0 clamp(1rem, 2vw, 2rem); }
+.cj-shelves-head, .cj-shelves-head-legacy { margin: 0 0 1.4rem; font-family: var(--ifm-font-family-monospace);
   font-size: .7rem; font-weight: 500; letter-spacing: .16em; text-transform: uppercase;
   color: var(--cj-tertiary); border: 0; }
-.cj-shelves ul { list-style: none; padding: 0; margin: 0 0 1.8rem;
-  display: grid; gap: .1rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); }
-.cj-shelves li { display: flex; flex-wrap: wrap; align-items: baseline; gap: .1rem .6rem;
-  padding: .55rem 0; border-bottom: 1px solid var(--ifm-color-emphasis-100); }
-.cj-shelves li a { font-size: 1rem; font-weight: 600; color: var(--cj-display); text-decoration: none; }
-.cj-shelves li a:hover { color: var(--ifm-color-primary); }
-.cj-shelves li span { font-family: var(--ifm-font-family-monospace); font-size: .7rem;
+.cj-shelf-grid { list-style: none; padding: 0; margin: 0 0 1.8rem;
+  display: grid; gap: .8rem; grid-template-columns: repeat(4, 1fr); }
+.cj-shelf-grid li { position: relative; display: flex; flex-direction: column; gap: .25rem; padding: .9rem 1rem;
+  border: 1px solid var(--ifm-color-emphasis-200); border-radius: 10px; background: var(--ifm-background-surface-color);
+  transition: border-color .18s, box-shadow .18s; }
+.cj-shelf-grid li:hover { border-color: var(--ifm-color-primary); box-shadow: 0 0 0 3px var(--cj-highlight); }
+.cj-shelf-grid li a { font-size: 1rem; font-weight: 600; color: var(--cj-display); text-decoration: none; }
+.cj-shelf-grid li a::after { content: ""; position: absolute; inset: 0; }
+.cj-shelf-grid li:hover a { color: var(--ifm-color-primary); }
+.cj-shelf-grid li span { font-family: var(--ifm-font-family-monospace); font-size: .68rem;
   letter-spacing: .04em; color: var(--cj-tertiary); }
+@media (max-width: 800px) { .cj-shelf-grid { grid-template-columns: 1fr 1fr; } }
 .cj-shelves-foot { margin: 0; font-family: var(--ifm-font-family-monospace); font-size: .72rem;
   letter-spacing: .04em; line-height: 1.9; color: var(--cj-tertiary); }
