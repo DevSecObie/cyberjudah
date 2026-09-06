@@ -29,6 +29,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DRY = process.argv.includes("--dry");
 const REPORT = process.argv.includes("--report");
 const RESET = process.argv.includes("--reset");   // recompute `teacher` instead of keeping hand edits
+const FORCE = process.argv.includes("--force");   // ...even where that discards a different name
 
 const FEEDS = [
   { dir: path.join(ROOT, "blog"), series: "IUIC in the ClassRoom" },
@@ -159,6 +160,7 @@ const parseTags = (line) => {
 const yamlList = (xs) => `[${xs.map((x) => JSON.stringify(x)).join(", ")}]`;
 
 let files = 0, tagged = 0, teachers = 0, untaught = 0;
+const keptNames = [], overwrittenNames = [];   // --reset vs. names already set by hand
 const rows = [];
 
 // Pass one: read every note and count. The rates cannot be judged until the whole corpus
@@ -209,7 +211,19 @@ const mean = meanRates(docs.map((d) => d.counted));
         if (out[i].startsWith("teacher:")) out.splice(i, 1);
       const teacherLine = out.findIndex((l) => l.startsWith("teacher:"));
       const existingTeacher = teacherLine >= 0 ? /^teacher:\s*"(.*)"\s*$/.exec(out[teacherLine])?.[1] ?? null : null;
-      const nextTeacher = RESET ? teacher : (existingTeacher ?? teacher);
+      // --reset recomputes from the text, which is right after changing the patterns and wrong
+      // when the existing name was a deliberate correction the text does not support. A class
+      // whose captain introduces himself as "Captain Ab" but is recorded as "Captain Horeb"
+      // is the case that matters, and losing that silently is worse than not resetting.
+      let nextTeacher = RESET ? teacher : (existingTeacher ?? teacher);
+      if (RESET && existingTeacher && teacher !== existingTeacher) {
+        if (FORCE) {
+          overwrittenNames.push(`${name}: ${existingTeacher} -> ${teacher || "(cleared)"}`);
+        } else {
+          keptNames.push(`${name}: keeping ${existingTeacher}, the text says ${teacher || "nothing"}`);
+          nextTeacher = existingTeacher;
+        }
+      }
       if (nextTeacher) {
         if (teacherLine >= 0) out[teacherLine] = `teacher: ${JSON.stringify(nextTeacher)}`;
         else out.splice(out.findIndex((l) => l.startsWith("tags:")), 0, `teacher: ${JSON.stringify(nextTeacher)}`);
@@ -242,4 +256,7 @@ if (REPORT) {
   for (const r of rows) if (r.teacher) tc.set(r.teacher, (tc.get(r.teacher) ?? 0) + 1);
   for (const [t, n] of [...tc].sort((a, b) => b[1] - a[1])) console.error(`  ${n}\t${t}`);
 }
+for (const m of keptNames) console.error(`  kept: ${m}`);
+for (const m of overwrittenNames) console.error(`  overwritten: ${m}`);
+if (keptNames.length) console.error(`  ${keptNames.length} hand-set name(s) kept; pass --force to overwrite them`);
 console.error(`${DRY ? "[dry] " : ""}${files} notes rewritten · ${tagged} with topics · ${teachers} with a named teacher · ${untaught} unattributed`);
