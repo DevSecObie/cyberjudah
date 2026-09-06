@@ -60,9 +60,13 @@ export default function Search() {
       const cap = only ? ONLY_LIMIT : PER_KIND;
       const c: Record<string, number> = {};
       const out: Hit[] = [];
-      for (const [kind] of KINDS) {
-        const res = await pf.search(q.trim(), { filters: { kind } });
-        if (!live) return;
+      // The eight kind searches are independent, so issue them together; they share the
+      // same shard downloads and finish in roughly the time of the slowest one.
+      const searches = await Promise.all(KINDS.map(([kind]) => pf.search(q.trim(), { filters: { kind } })));
+      if (!live) return;
+      for (let i = 0; i < KINDS.length; i++) {
+        const [kind] = KINDS[i];
+        const res = searches[i];
         if (!res.results.length) continue;
         c[kind] = res.results.length;
         if (only && kind !== only) continue;
@@ -129,7 +133,7 @@ export default function Search() {
             </div>
           )}
 
-          {busy && <p className="cj-search-status" role="status">Searching\u2026</p>}
+          {busy && <p className="cj-search-status" role="status">{"Searching\u2026"}</p>}
 
           {hits && !busy && (
             <>
@@ -152,7 +156,7 @@ export default function Search() {
 
               {total === 0 && (
                 <div className="cj-search-empty">
-                  <p>Nothing matches \u201c{q}\u201d.</p>
+                  <p>{"Nothing matches \u201c"}{q}{"\u201d."}</p>
                   <p className="cj-search-egs">
                     Quotation marks match an exact phrase; without them every word is matched
                     separately. Spelling follows the King James text, so try
