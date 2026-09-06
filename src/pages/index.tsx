@@ -60,9 +60,8 @@ const lawShelf: { to: string; title: string; count: string }[] = [
   { to: "/concordance", title: "Concordance", count: `${nf.format(stats.citedChapters)} chapters cited` },
 ];
 
-type Latest = { title: string; url: string; date: string; teacher: string; thumb: string; books: string[] } | null;
-const latestClass = stats.latest?.class as Latest;
-const latestEpisode = stats.latest?.captains as Latest;
+type Recent = { kind: string; title: string; url: string; date: string; teacher: string; thumb: string; books: string[] };
+const recent = (stats.recent ?? []) as Recent[];
 
 const fmtDate = (d: string) => {
   const [y, m, day] = d.split("-").map(Number);
@@ -85,10 +84,10 @@ function useLastChapter() {
   return last;
 }
 
-function NoteCard({ kicker, note, fallbackTo }: { kicker: string; note: Latest; fallbackTo: string }) {
-  if (!note) return null;
+function NoteCard({ note }: { note: Recent }) {
+  const kicker = note.kind === "captains" ? "The Captains" : "Sabbath class";
   return (
-    <Link className="cj-note" to={note.url || fallbackTo}>
+    <Link className="cj-note" to={note.url}>
       {note.thumb && <img src={note.thumb} alt="" loading="lazy" width={320} height={180} />}
       <div className="cj-note-body">
         <p className="cj-kicker">{kicker} · {fmtDate(note.date)}</p>
@@ -169,13 +168,16 @@ export default function Home() {
         </div>
       </section>
 
-      {(latestClass || latestEpisode) && (
+      {recent.length > 0 && (
         <section className="cj-new">
           <div className="cj-new-inner">
-            <h2 className="cj-section-head">New this week</h2>
-            <div className="cj-new-grid">
-              <NoteCard kicker="Sabbath class" note={latestClass} fallbackTo="/classes/browse" />
-              <NoteCard kicker="15 Minutes w/ The Captains" note={latestEpisode} fallbackTo="/captains/browse" />
+            <div className="cj-new-head">
+              <h2 className="cj-section-head">New this week</h2>
+              <p className="cj-new-links"><Link to="/classes/browse">all classes</Link> · <Link to="/captains/browse">all episodes</Link></p>
+            </div>
+            {/* A horizontal strip: scroll or swipe through the latest notes, newest first. */}
+            <div className="cj-new-scroll" role="list">
+              {recent.map((n) => <div role="listitem" key={n.url}><NoteCard note={n} /></div>)}
             </div>
           </div>
         </section>
@@ -208,11 +210,6 @@ export default function Home() {
               </li>
             ))}
           </ul>
-          <p className="cj-shelves-foot">
-            <Link to="/about">About this library</Link> ·{" "}
-            <Link to="/api">the whole thing as JSON</Link> ·{" "}
-            <Link to="/downloads">downloads</Link>.
-          </p>
         </div>
       </section>
     </Layout>

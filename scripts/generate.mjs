@@ -596,9 +596,8 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
     };
   });
   writeJson(path.join(SEARCH, feed.out), feedRows);
-  // The newest note of each feed, for the home page's "new this week" cards.
-  const newest = [...feedRows].sort((a, b) => String(b.date).localeCompare(String(a.date)))[0];
-  latest[feed.label] = newest ? { title: newest.title, url: newest.url, date: newest.date, teacher: newest.teacher, thumb: newest.thumb, books: newest.books } : null;
+  // The newest notes of each feed, for the home page's "new this week" strip.
+  latest[feed.label] = feedRows.map((r) => ({ kind: feed.label, title: r.title, url: r.url, date: r.date, teacher: r.teacher, thumb: r.thumb, books: r.books }));
 }
 // Scripture is grouped one record per chapter, with each verse as an anchored heading, so
 // Pagefind serves verse-level sub-results without emitting one fragment file per verse
@@ -751,7 +750,7 @@ write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
   studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, captains: notes.filter((n) => n.kind === "captains").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
   laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(sectionById).length, parts: handbook.parts.length,
   precepts: precepts.length, cases: cases.cases.length, citedChapters: cited.size,
-  latest: { class: latest.class ?? null, captains: latest.captains ?? null },
+  recent: [...(latest.class ?? []), ...(latest.captains ?? [])].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 10),
 }));
 const count = (d) => fs.readdirSync(d, { recursive: true }).filter((f) => f.endsWith(".md")).length;
 console.error(`docs: ${count(DOCS)} pages · api: ${fs.readdirSync(API, { recursive: true }).filter((f) => f.endsWith(".json")).length} json · cited chapters: ${cited.size}`);
