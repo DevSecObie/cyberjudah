@@ -1,8 +1,15 @@
 import { useRouter } from "@tanstack/react-router";
 import type { MouseEvent } from "react";
 
-/** Rendered note HTML; same-site links inside it navigate through the router. */
-export function NoteBody({ html }: { html: string }) {
+import { RefCards } from "@/components/site/ref-card";
+import type { Book } from "@/lib/api";
+
+/**
+ * Rendered note HTML. Same-site links navigate through the router, and every scripture
+ * reference gets a hover card with the verses, so a reader can check a citation without
+ * leaving the note.
+ */
+export function NoteBody({ html, books }: { html: string; books?: Book[] }) {
   const router = useRouter();
   const onClick = (e: MouseEvent<HTMLDivElement>) => {
     const a = (e.target as HTMLElement).closest("a");
@@ -12,5 +19,9 @@ export function NoteBody({ html }: { html: string }) {
     e.preventDefault();
     router.navigate({ href } as never);
   };
-  return <div className="note" onClick={onClick} dangerouslySetInnerHTML={{ __html: html }} />;
+  return (
+    <RefCards books={books}>
+      <div className="note" onClick={onClick} dangerouslySetInnerHTML={{ __html: html }} />
+    </RefCards>
+  );
 }

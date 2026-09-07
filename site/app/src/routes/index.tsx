@@ -54,11 +54,9 @@ function Console() {
       <Matrix />
       <div className="cj-wrap">
         <div className="console__panel" data-reveal>
-          <div className="console__bar" aria-hidden="true">
-            <i /><i /><i /><span>cyberjudah // search</span>
-          </div>
-          <h2 className="cj-h2"><span className="bk">[</span> query the whole library <span className="bk">]</span></h2>
-          <p className="cj-lede">Every verse, every class, every law and case. A word, a phrase in quotes, or a reference like John 3:16.</p>
+          <p className="cj-kicker">Search</p>
+          <h2 className="cj-h2">The whole library, one query.</h2>
+          <p className="cj-lede">Every verse, every class, every law and case. A word, a phrase in quotes, or a reference like John 3:16. Anywhere on the site, press <kbd className="kbd">⌘K</kbd>.</p>
           <form className="search-form" role="search" onSubmit={go}>
             <span className="prompt" aria-hidden="true">~/cyberjudah<b>$</b></span>
             <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="grep scripture, notes, laws, cases" aria-label="Search the library" spellCheck={false} autoComplete="off" />
@@ -97,7 +95,7 @@ function NewThisWeek({ stats }: { stats: Stats }) {
       <div className="cj-wrap" data-reveal>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", gap: "1rem", flexWrap: "wrap" }}>
           <div>
-            <Kicker>tail -n 8 ./new-this-week</Kicker>
+            <Kicker>New this week</Kicker>
             <h2 className="cj-h2">What was taught.</h2>
           </div>
           <div style={{ display: "flex", gap: "1.5rem" }}>
@@ -111,7 +109,7 @@ function NewThisWeek({ stats }: { stats: Stats }) {
               <Link to={n.url as never} className="rail-card">
                 {n.thumb ? <img src={thumbUrl(n.thumb)} alt="" loading="lazy" width={320} height={180} /> : null}
                 <div className="rail-card__body">
-                  <span className="cj-mono">{n.kind === "captains" ? "captains" : "sabbath-class"} · {fmtDate(n.date)}</span>
+                  <span className="cj-mono">{n.kind === "captains" ? "The Captains" : "Sabbath class"} · {fmtDate(n.date)}</span>
                   <h3>{n.title}</h3>
                   <span className="cj-mono">{[n.teacher, n.books?.slice(0, 2).join(" · ")].filter(Boolean).join("  ·  ")}</span>
                 </div>
@@ -128,7 +126,7 @@ function Library({ stats }: { stats: Stats | null }) {
   const s = stats;
   return (
     <section className="cj-wrap" style={{ padding: "0 0 clamp(3rem, 8vh, 6rem)" }} data-reveal>
-      <Kicker>ls ./library</Kicker>
+      <Kicker>The library</Kicker>
       <h2 className="cj-h2">The library.</h2>
       <GlowGrid>
         <div className="bento__cell bento__cell--a">
@@ -152,26 +150,31 @@ function Library({ stats }: { stats: Stats | null }) {
           <img className="bento__icon" src="/assets/brand/icons/icon-6.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.studies)} chapters` : "The daily reading"}</span>
           <span className="bento__title">4 Chapters a Day</span>
+          <p className="bento__blurb">The daily reading, one chapter per page, every verse taught quoted in place.</p>
         </Link>
         <Link to="/captains" className="bento__cell" style={{ gridColumn: "span 2" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-1.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.captains)} episodes` : "Short teachings"}</span>
           <span className="bento__title">The Captains</span>
+          <p className="bento__blurb">15 Minutes w/ The Captains: one subject at a time.</p>
         </Link>
         <Link to="/cases" className="bento__cell" style={{ gridColumn: "span 2" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-3.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.cases)} judgments · ${nf.format(s.blessings)} kept the law` : "Judgments and blessings"}</span>
           <span className="bento__title">Case Studies</span>
+          <p className="bento__blurb">The judgments, and those who kept the law and were blessed.</p>
         </Link>
         <a href="https://devsecobie.github.io/cyberjudah/law" className="bento__cell" style={{ gridColumn: "span 3" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-2.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.laws)} laws · ${nf.format(s.precepts)} precepts` : "The handbook and the precepts"}</span>
           <span className="bento__title">The Law</span>
+          <p className="bento__blurb">The handbook and the precept index, every law with its scriptures.</p>
         </a>
         <a href="https://devsecobie.github.io/cyberjudah/encyclopedia" className="bento__cell" style={{ gridColumn: "span 3" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-5.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${s.encyclopedia} subjects` : "Subjects gathered from the notes"}</span>
           <span className="bento__title">Encyclopedia</span>
+          <p className="bento__blurb">Subjects gathered from across the notes: the feasts, the priesthood, the covenant.</p>
         </a>
       </GlowGrid>
     </section>

@@ -1,13 +1,14 @@
 import { Link } from "@tanstack/react-router";
 import { useState, type ReactNode } from "react";
 
+import { CommandMenu, openCommand } from "@/components/site/command";
+
 const NAV = [
   { to: "/bible", label: "Bible" },
   { to: "/study", label: "4 Chapters a Day" },
   { to: "/classes", label: "Sabbath Classes" },
   { to: "/captains", label: "The Captains" },
   { to: "/cases", label: "Case Studies" },
-  { to: "/search", label: "Search" },
 ] as const;
 
 export function SiteNav() {
@@ -27,7 +28,13 @@ export function SiteNav() {
             {n.label}
           </Link>
         ))}
+        <button type="button" className="cj-nav__search" onClick={() => { setOpen(false); openCommand(); }} aria-label="Search the library (Command K)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="M20 20l-4.2-4.2" strokeLinecap="round" /></svg>
+          <span>Search</span>
+          <kbd aria-hidden="true">⌘K</kbd>
+        </button>
       </nav>
+      <CommandMenu />
     </header>
   );
 }
@@ -104,6 +111,6 @@ export function ReadLink({ to, href, children, ink = false }: { to?: string; hre
   return <a href={href} className={cls}>{inner}</a>;
 }
 
-export function Kicker({ children }: { children: ReactNode }) {
-  return <p className="cj-kicker">{children}</p>;
+export function Kicker({ children, prompt = false }: { children: ReactNode; prompt?: boolean }) {
+  return <p className={prompt ? "cj-kicker cj-kicker--prompt" : "cj-kicker"}>{children}</p>;
 }
