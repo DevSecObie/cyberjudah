@@ -505,6 +505,13 @@ citedBooks.forEach((b, i) => {
 // and "https://www.youtube.com/watch?v=..." into the search text as words to match on.
 const plain = (md) => md.replace(/%%[\s\S]*?%%/g, " ").replace(/!\[\[[^\]]*\]\]/g, " ").replace(/\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]/g, "$1").replace(/\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/<[^>]+>/g, " ").replace(/[#>*_`\[\]|]+/g, " ").replace(/\s+/g, " ").trim();
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, series: n.series, teacher: n.teacher, summary: n.summary })));
+// One file per note with its markdown body, keyed by the note's site path
+// (/api/notes/study/genesis/2.json, /api/notes/classes/2026/<slug>.json), so a front end
+// that is not this site can render the notes from the same source.
+for (const n of notes) {
+  const rel = n.url.replace(/^\//, "") + ".json";
+  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? "", topics: n.topics ?? [], videoId: /data-video-id="([\w-]{11})"/.exec(n.body)?.[1] ?? null, body: n.body });
+}
 // Search records for the sharded Pagefind index (built by scripts/build-search-index.mjs).
 // Written outside static/ on purpose: the flat notes+verses JSON reached 20 MB, and the old
 // search page downloaded all of it into the browser on the first query. Only the sharded
@@ -721,12 +728,14 @@ writeJson(path.join(API, "index.json"), { kjv: "/api/kjv/books.json", laws: "/ap
   }
 }
 
-write(path.join(ROOT, "src", "data", "stats.json"), JSON.stringify({
+const statsJson = JSON.stringify({
   chapters: Object.values(CHAPTERS).reduce((a, b) => a + b, 0), books: BOOKS.length, verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
   studies: notes.filter((n) => n.kind === "study").length, classes: notes.filter((n) => n.kind === "class").length, captains: notes.filter((n) => n.kind === "captains").length, encyclopedia: notes.filter((n) => n.kind === "encyclopedia").length,
   laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(sectionById).length, parts: handbook.parts.length,
   precepts: precepts.length, cases: cases.cases.filter((c) => !isBlessing(c)).length, blessings: cases.cases.filter(isBlessing).length, citedChapters: cited.size,
   recent: [...(latest.class ?? []), ...(latest.captains ?? [])].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 10),
-}));
+});
+write(path.join(ROOT, "src", "data", "stats.json"), statsJson);
+write(path.join(API, "stats.json"), statsJson);
 const count = (d) => fs.readdirSync(d, { recursive: true }).filter((f) => f.endsWith(".md")).length;
 console.error(`docs: ${count(DOCS)} pages · api: ${fs.readdirSync(API, { recursive: true }).filter((f) => f.endsWith(".json")).length} json · cited chapters: ${cited.size}`);

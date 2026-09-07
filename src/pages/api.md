@@ -21,6 +21,8 @@ Static JSON, served with the site, same versification as the pages. Paths are re
 | `/api/cases/index.json` | the case studies |
 | `/api/cases/<slug>.json` | one case |
 | `/api/notes/index.json` | the study notes, class notes, captains episodes, and encyclopedia entries |
+| `/api/notes/<site-path>.json` | one note with its markdown body, e.g. `/api/notes/study/genesis/2.json` or `/api/notes/classes/2026/<slug>.json` |
+| `/api/stats.json` | the counts on the home page, and the ten newest notes |
 | `/api/index.json` | every endpoint above, as a map |
 
 Every chapter has a concordance file. A chapter that nothing cites returns `{"cited_by": []}`
