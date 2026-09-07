@@ -5,13 +5,13 @@
  * pipeline feeds every front end from one source.
  *
  * Addressing: the branch is served content-addressed through jsDelivr, keyed by commit, so
- * every file is immutable and cacheable forever. A tiny pointer (manifest.json on the raw
- * branch, five-minute cache) says which commit is current. Fetching the pointer once per
+ * every file is immutable and cacheable forever. A tiny pointer (pointer.json on the raw
+ * branch, five-minute cache) says which commit holds the current data set. Fetching the pointer once per
  * five minutes per Worker isolate keeps everything consistent within a build and fresh
  * across builds.
  */
 const REPO = "DevSecObie/cyberjudah";
-const POINTER = `https://raw.githubusercontent.com/${REPO}/data/manifest.json`;
+const POINTER = `https://raw.githubusercontent.com/${REPO}/data/pointer.json`;
 const CDN = (ref: string) => `https://cdn.jsdelivr.net/gh/${REPO}@${ref}`;
 /** The publication that still renders the sections not yet ported (law, precepts, encyclopedia). */
 export const SITE_ORIGIN = "https://devsecobie.github.io/cyberjudah";
