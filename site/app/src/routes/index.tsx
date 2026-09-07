@@ -132,6 +132,7 @@ function Library({ stats }: { stats: Stats | null }) {
       <h2 className="cj-h2">The library.</h2>
       <GlowGrid>
         <div className="bento__cell bento__cell--a">
+          <img className="bento__icon" src="/assets/brand/icons/icon-0.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${s.books} books · ${nf.format(s.verses)} verses` : "King James with the Apocrypha"}</span>
           <span className="bento__title">The Bible</span>
           <p className="bento__blurb">Every chapter on its own page, every verse on its own anchor, with what cites it beside it.</p>
@@ -142,27 +143,33 @@ function Library({ stats }: { stats: Stats | null }) {
         </div>
         <Link to="/classes" className="bento__cell bento__cell--b bento__cell--plate" style={{ backgroundImage: "url(/assets/plates/circuit.jpg)" }}>
           <span className="plate-shade" aria-hidden="true" />
+          <img className="bento__icon" src="/assets/brand/icons/icon-7.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.classes)} classes` : "Sabbath classes"}</span>
           <span className="bento__title">Sabbath Classes</span>
           <p className="bento__blurb">Each class written up in full, scriptures cited inline.</p>
         </Link>
         <Link to="/study" className="bento__cell" style={{ gridColumn: "span 2" }}>
+          <img className="bento__icon" src="/assets/brand/icons/icon-6.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.studies)} chapters` : "The daily reading"}</span>
           <span className="bento__title">4 Chapters a Day</span>
         </Link>
         <Link to="/captains" className="bento__cell" style={{ gridColumn: "span 2" }}>
+          <img className="bento__icon" src="/assets/brand/icons/icon-1.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.captains)} episodes` : "Short teachings"}</span>
           <span className="bento__title">The Captains</span>
         </Link>
         <Link to="/cases" className="bento__cell" style={{ gridColumn: "span 2" }}>
+          <img className="bento__icon" src="/assets/brand/icons/icon-3.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.cases)} judgments · ${nf.format(s.blessings)} kept the law` : "Judgments and blessings"}</span>
           <span className="bento__title">Case Studies</span>
         </Link>
         <a href="https://devsecobie.github.io/cyberjudah/law" className="bento__cell" style={{ gridColumn: "span 3" }}>
+          <img className="bento__icon" src="/assets/brand/icons/icon-2.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.laws)} laws · ${nf.format(s.precepts)} precepts` : "The handbook and the precepts"}</span>
           <span className="bento__title">The Law</span>
         </a>
         <a href="https://devsecobie.github.io/cyberjudah/encyclopedia" className="bento__cell" style={{ gridColumn: "span 3" }}>
+          <img className="bento__icon" src="/assets/brand/icons/icon-5.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${s.encyclopedia} subjects` : "Subjects gathered from the notes"}</span>
           <span className="bento__title">Encyclopedia</span>
         </a>

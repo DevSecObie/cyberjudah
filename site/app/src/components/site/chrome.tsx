@@ -37,7 +37,7 @@ export function SiteFooter() {
     <footer className="cj-footer">
       <div className="cj-wrap cj-footer__grid">
         <div>
-          <p className="wordmark"><span className="bk">[</span> cyberjudah <span className="bk">]</span></p>
+          <p className="wordmark"><img src="/assets/brand/icons/icon-4.png" alt="" width={22} height={22} style={{ verticalAlign: "-0.3em", marginRight: "0.5rem" }} /><span className="bk">[</span> cyberjudah <span className="bk">]</span></p>
           <p style={{ margin: 0, maxWidth: "34ch" }}>
             KJV study Bible with the Apocrypha, and everything taught from it, on the same page.
           </p>
