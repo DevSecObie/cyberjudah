@@ -41,7 +41,15 @@ function ChapterPage() {
   const bookIdx = books.findIndex((b) => b.slug === book.slug);
   const prevBook = !prev && bookIdx > 0 ? books[bookIdx - 1] : null;
   const nextBook = !next && bookIdx < books.length - 1 ? books[bookIdx + 1] : null;
-  const grouped = cited.reduce<Record<string, Citation[]>>((acc, c) => { (acc[c.kind] ??= []).push(c); return acc; }, {});
+  // The concordance lists a note once per citing passage; fold those into one entry per note
+  // and keep the verse ranges together.
+  const merged = cited.reduce<Citation[]>((acc, c) => {
+    const hit = acc.find((x) => x.url === c.url);
+    if (!hit) acc.push({ ...c });
+    else if (c.verses && !(hit.verses ?? "").split(", ").includes(c.verses)) hit.verses = hit.verses ? `${hit.verses}, ${c.verses}` : c.verses;
+    return acc;
+  }, []);
+  const grouped = merged.reduce<Record<string, Citation[]>>((acc, c) => { (acc[c.kind] ??= []).push(c); return acc; }, {});
   return (
     <div className="cj-shell">
       <SiteNav />

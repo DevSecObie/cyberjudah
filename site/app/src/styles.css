@@ -493,7 +493,7 @@
   justify-content: center;
   align-items: center;
   font: 500 0.9rem var(--font-mono);
-  opacity: calc(0.12 + var(--intensity) * 0.88);
+  opacity: calc(0.2 + var(--intensity) * 0.8);
   color: color-mix(in srgb, var(--color-cyan) calc(45% + var(--intensity) * 55%), var(--color-ink-2));
   text-shadow: 0 0 calc(var(--intensity) * 14px) var(--color-cyan);
   transform: scale(calc(1 + var(--intensity) * 0.25));
@@ -1377,4 +1377,34 @@
   .cursor-blink {
     animation: none;
   }
+}
+
+/* ---------- Journey copy: site-level type overrides for the scroll-scrub engine ---------- */
+.scroll-scrub__kicker,
+.scroll-scrub__route,
+.scroll-scrub__route-button,
+.scroll-scrub__tags {
+  font-family: var(--font-mono);
+}
+.scroll-scrub__kicker {
+  text-shadow: 0 0 12px color-mix(in srgb, var(--color-cyan) 40%, transparent);
+}
+.scroll-scrub__title {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: clamp(2.3rem, 4.6vw, 4.9rem);
+  letter-spacing: -0.02em;
+  line-height: 1.02;
+  max-width: 15ch;
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.6);
+}
+.scroll-scrub__body {
+  font-family: var(--font-serif);
+  text-shadow: 0 1px 18px rgba(0, 0, 0, 0.7);
+}
+.scroll-scrub__tags > * {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  border-radius: var(--radius);
 }
