@@ -31,6 +31,9 @@ jobs:
       - run: npm run build
         env:
           DOCUSAURUS_SSR_CONCURRENCY: 4
+          # Four render workers on the four-core runner; the recycler ceiling is set in the
+          # build script (see package.json).
+          DOCUSAURUS_SSG_WORKER_THREAD_COUNT: 4
           NODE_OPTIONS: --max-old-space-size=6144
       - uses: actions/upload-pages-artifact@v3
         with:
