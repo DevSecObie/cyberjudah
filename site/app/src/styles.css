@@ -1006,12 +1006,14 @@
 }
 .reader__split {
   min-height: 60dvh;
+  /* the panel group sets overflow hidden inline; the page is the scroll container here, so
+     the sticky bar and the sticky study panel need the group and panes left open */
+  overflow: visible !important;
 }
 .reader__pane {
   min-width: 0;
-  /* the panel library sets overflow hidden inline, which would turn the sticky bar and the
-     sticky study panel into panel-relative offsets; the page is the scroll container here */
   overflow: visible !important;
+  max-height: none !important;
 }
 .reader__pane--study {
   padding-left: 1.5rem;
