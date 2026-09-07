@@ -1,0 +1,39 @@
+{
+  "name": "cyberjudah-site",
+  "private": true,
+  "type": "module",
+  "description": "The CyberJudah front end: TanStack Start on Cloudflare Workers, reading the content engine's data set.",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "tsr generate && tsc --noEmit && vite build",
+    "typecheck": "tsr generate && tsc --noEmit",
+    "preview": "wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.101.2",
+    "@tanstack/react-router": "^1.170.17",
+    "@tanstack/react-start": "^1.168.27",
+    "cmdk": "^1.1.1",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.0",
+    "marked": "^16.0.0",
+    "radix-ui": "^1.6.2",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-resizable-panels": "^4.12.1"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250813.0",
+    "@tailwindcss/vite": "^4.1.0",
+    "@tanstack/router-cli": "^1.167.18",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.0.4",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.1.0",
+    "wrangler": "^4.30.0"
+  }
+}
