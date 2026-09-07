@@ -1009,6 +1009,9 @@
 }
 .reader__pane {
   min-width: 0;
+  /* the panel library sets overflow hidden inline, which would turn the sticky bar and the
+     sticky study panel into panel-relative offsets; the page is the scroll container here */
+  overflow: visible !important;
 }
 .reader__pane--study {
   padding-left: 1.5rem;
