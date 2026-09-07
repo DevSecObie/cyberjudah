@@ -136,15 +136,19 @@ export const api = {
   concordance: (slug: string, ch: number) => getJson<Concordance>(`/api/concordance/${slug}/${ch}.json`),
   notes: () => getJson<NoteIndexRow[]>("/api/notes/index.json"),
   note: (sitePath: string) => getJson<Note>(`/api/notes${sitePath}.json`),
-  classes: () => getJson<FeedRow[]>("/search/classes.json"),
-  captains: () => getJson<FeedRow[]>("/search/captains.json"),
-  stats: () => getJson<Stats>("/api/stats.json"),
+  classes: () => getJson<FeedRow[]>("/search/classes.json").then(absThumbs),
+  captains: () => getJson<FeedRow[]>("/search/captains.json").then(absThumbs),
+  stats: () => getJson<Stats>("/api/stats.json").then((s) => ({ ...s, recent: absThumbs(s.recent) })),
   cases: () => getJson<CaseIndex>("/api/cases/index.json"),
   case: (slug: string) => getJson<Case>(`/api/cases/${slug}.json`),
 };
 
-/** Thumbnails in the feed are either relative to the data set or absolute. */
+/** Thumbnails in the feed are either relative to the data set or absolute. Loaders make them
+ *  absolute before render, so the server and the client agree on the same URL. */
 export const thumbUrl = (t: string) => (t.startsWith("/") ? `${dataOriginSync()}${t}` : t);
+function absThumbs<T extends { thumb: string }>(rows: T[]): T[] {
+  return rows.map((r) => (r.thumb && r.thumb.startsWith("/") ? { ...r, thumb: thumbUrl(r.thumb) } : r));
+}
 
 /** "genesis" -> "Genesis", "1-samuel" -> "1 Samuel", using the books list when available. */
 export function bookName(slug: string, books?: Book[]): string {
