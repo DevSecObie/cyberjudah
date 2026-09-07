@@ -1,0 +1,284 @@
+---
+title: "Israel Called Gentiles, Strangers, Heathen & Saints"
+slug: "2026/2026-08-07-israel-called-gentiles-strangers-heathen-and-saints"
+date: "2026-08-07"
+teacher: "Captain Matt"
+description: "15 Minutes w/ The Captains · 2026-08-07"
+tags: ["15 Minutes w/ The Captains", "captivity", "idolatry", "mercy", "nations", "purpose"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2026-08-07</p>
+
+<span class="opens"><b>Opens</b> [Matt 4](/bible/matthew/4) · [Isa 9](/bible/isaiah/9) · [John 7](/bible/john/7) · [Ezek 36](/bible/ezekiel/36) · [1 Cor 12](/bible/1-corinthians/12) · [2 Kgs 17](/bible/2-kings/17) · [2 Kgs 24](/bible/2-kings/24) · [Obad 1](/bible/obadiah/1) · [Acts 2](/bible/acts/2) · [Acts 18](/bible/acts/18) · [Eph 2](/bible/ephesians/2) · [Hos 1](/bible/hosea/1) · [Ezek 20](/bible/ezekiel/20) · [Ezek 25](/bible/ezekiel/25) · [Ps 50](/bible/psalms/50) · [Ps 148](/bible/psalms/148) · <i>and 2 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="4yvewCD3Y9o"></div>
+
+## Introduction
+
+Hey, shalom Israel. Most High in Christ bless. Captain Matt here with another 15 Minutes with the Captains.
+
+**All right, today's topic is Israel called Gentiles, strangers, heathen, and saints.**
+
+Why did I have to touch on this topic? Because apparently, all over social media, our people, so-called Christians, have no idea that the Israelites was called any of these names.
+
+So we are going to get into it today. Let us start with Gentiles.
+
+## Scriptures Opened
+
+**[Matthew 4:15](/bible/matthew/4#v15)**  *[[0:42](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=42s)]*
+
+> <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
+
+- The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles.
+
+- What land is this? It said the land of Zebulun and the land of Naphtali. Galilee of the Gentiles. Who was called Gentiles in this verse? Zebulun and Naphtali. They were called Gentiles here.
+
+- Where did this come from?
+
+**[Isaiah 9:6-7](/bible/isaiah/9#v6)**  *[[1:20](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=80s)]*
+
+> <sup>[6](/bible/isaiah/9#v6)</sup> For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
+>
+> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
+
+- For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
+
+- Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever.
+
+**[Isaiah 9:1](/bible/isaiah/9#v1)**  *[[1:57](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=117s)]*
+
+> <sup>[1](/bible/isaiah/9#v1)</sup> Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
+
+- Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun. He lightly afflicted the land of Zebulun. And the land of Naphtali. And the land of Naphtali.
+
+- And afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations. Nations means Gentiles.
+
+- Zebulun and Naphtali were living in Galilee and were called Gentiles.
+
+**[John 7:35](/bible/john/7#v35)**  *[[2:42](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=162s)]*
+
+> <sup>[35](/bible/john/7#v35)</sup> Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
+
+- Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
+
+- He said, will he go to the dispersed among the Gentiles? Israel was called the dispersed here — among the Gentiles, and teach the Gentiles.
+
+- Why would he say that? Because we would be dispersed among the nations and have to be taught Christ. And we would be called Gentiles.
+
+**[Ezekiel 36:19](/bible/ezekiel/36#v19)**  *[[3:28](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=208s)]*
+
+> <sup>[19](/bible/ezekiel/36#v19)</sup> And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.
+
+- And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.
+
+- So when we were scattered among the heathen and dispersed among the Gentiles, we slowly became Gentiles in our mind.
+
+**[1 Corinthians 12:2](/bible/1-corinthians/12#v2)**  *[[3:58](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=238s)]*
+
+> <sup>[2](/bible/1-corinthians/12#v2)</sup> Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
+
+- Watch this. I know what the Christian is saying. They do not understand. They do not get it. But we are going to make sure that you get it today.
+
+- Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. Ye were Gentiles, carried away unto these dumb idols.
+
+- How were you Gentiles? How did you used to be Gentiles? Gentile means nations. So there is no way that you used to be the nations and now you are not any more.
+
+- Who is this talking about? And who was carried away unto dumb idols? It is all going to make sense.
+
+**[2 Kings 17:23](/bible/2-kings/17#v23)**  *[[4:45](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=285s)]*
+
+> <sup>[23](/bible/2-kings/17#v23)</sup> Until the Lord removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day.
+
+- Until the Lord removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day.
+
+- They were carried away into Assyria.
+
+**[2 Kings 24:14](/bible/2-kings/24#v14)**  *[[5:20](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=320s)]*
+
+> <sup>[14](/bible/2-kings/24#v14)</sup> And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
+
+- Let us see what else happened.
+
+- And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
+
+- So they carried away captive all Jerusalem. So in one scripture you have got northern kingdom, or Ephraim, or the kingdom of Israel being carried away to Assyria. Next after that, you have got Judah, or southern kingdom, being carried away captive to Babylon.
+
+**[2 Kings 24:15](/bible/2-kings/24#v15)**  *[[6:08](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=368s)]*
+
+> <sup>[15](/bible/2-kings/24#v15)</sup> And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
+
+- And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
+
+- And what did they have in Babylon? Idols. What did they have in Assyria? Idols.
+
+- And over time, what did we do? We lost our identity, and we lost our connection to God's laws, and we started worshipping idols. So we were Gentiles carried away to these dumb idols. It is talking about Israel.
+
+**[Obadiah 1:12](/bible/obadiah/1#v12)**  *[[6:56](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=416s)]*
+
+> <sup>[12](/bible/obadiah/1#v12)</sup> But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
+
+- Let us touch on strangers now. So Israel was called Gentiles because of the captivity that we went into. We were also called strangers.
+
+- But thou shouldest not have looked on the day of thy brother in the day that he became a stranger. This is talking to Esau about Jacob. The day Jacob became a stranger.
+
+- Neither shouldest thou have rejoiced over the children of Judah in the day of their destruction. Why? Because when we were destroyed, when we were carried away into Babylon and all of these different captivities, they rejoiced. They rejoiced. Why? Because we became strangers.
+
+- When we got moved out of our land, we lost our connection and started to do the things of the people of the land. Just like when we were in Egypt, we did as the Egyptians. When we were in Babylon, we did as the Babylonians. The Persians and Medes, we did as the Greeks. Later on, we did as the Romans. And after that, we did as the Arabs and the Christians. And look at where we are today — calling ourselves American, and fighting against the fact that we are the true children of Israel.
+
+**[Acts 2:10](/bible/acts/2#v10)**  *[[8:22](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=502s)]*
+
+> <sup>[10](/bible/acts/2#v10)</sup> Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
+
+- Let us see if we were only called strangers in that context.
+
+- Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes.
+
+- Why? Because we were in Rome as well. We were in Rome as well. Should I prove it?
+
+**[Acts 18:1-2](/bible/acts/18#v1)**  *[[8:53](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=533s)]*
+
+> <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
+>
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
+
+- Strangers of Rome. Why would that be a thing to understand?
+
+- After these things Paul departed from Athens, and came to Corinth; and found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; because that Claudius had commanded all Jews to depart from Rome.
+
+- We were living in Rome. And in Acts 2, at the time of Pentecost, we came back to Jerusalem to worship for the feast of Pentecost. Strangers of Rome.
+
+**[Ephesians 2:11-12](/bible/ephesians/2#v11)**  *[[9:41](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=581s)]*
+
+> <sup>[11](/bible/ephesians/2#v11)</sup> Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
+>
+> <sup>[12](/bible/ephesians/2#v12)</sup> That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
+
+- Let us see what else — how else we were called strangers.
+
+- Wherefore remember, that ye being in time past Gentiles in the flesh. How were you Gentiles in the flesh in time past? Because you were carried away in the different captivities. You were taken away from God's laws.
+
+- Who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands. Why? Because when northern kingdom, or the kingdom of Israel, was taken away in captivity, and the kingdom of Judah still lived in Jerusalem, Judah kept circumcision.
+
+- The kingdom of Israel, the ten tribes, they did not keep the covenant of circumcision, because at certain times it was illegal for them to circumcise their children. They got put to death for it. They stopped circumcising their children. So they were called uncircumcised by the Jews.
+
+- That at that time ye were without Christ. You were without Christ, and we are going to show how.
+
+- Being aliens from the commonwealth of Israel, and strangers from the covenants of promise. You were strangers. You were aliens from the commonwealth, strangers from the covenants of promise.
+
+- Having no hope, and without God in the world. How were they without God in the world?
+
+**[Hosea 1:6-10](/bible/hosea/1#v6)**  *[[11:34](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=694s)]*
+
+> <sup>[6](/bible/hosea/1#v6)</sup> And she conceived again, and bare a daughter. And God said unto him, Call her name Lo–ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
+>
+> <sup>[7](/bible/hosea/1#v7)</sup> But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
+>
+> <sup>[8](/bible/hosea/1#v8)</sup> Now when she had weaned Lo–ruhamah, she conceived, and bare a son.
+>
+> <sup>[9](/bible/hosea/1#v9)</sup> Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
+>
+> <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
+- And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away. He said, I will utterly take them away. I will no more have mercy on the house of Israel — talking about the ten tribes of Israel.
+
+- But I will have mercy upon the house of Judah. But I will have mercy upon the house of Judah. Judah, Benjamin and Levi. And will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
+
+- Now when she had weaned Loruhamah, she conceived, and bare a son. Then said God, Call his name Loammi: for ye are not my people, and I will not be your God. That is how they were without God. Because he said, I will not be your God. Who was that to? Israel, the northern kingdom.
+
+- Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
+- And that is what Paul was letting them know. Just like we are letting people know today, Paul was letting them know: you were Gentiles in time past. You were Gentiles carried away to these dumb idols. You were strangers to the commonwealth of Israel. You were strangers coming out of Rome. But now you are the children of God. That is Israel coming back into the fold with Judah.
+
+**[Hosea 1:11](/bible/hosea/1#v11)**  *[[13:41](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=821s)]*
+
+> <sup>[11](/bible/hosea/1#v11)</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
+
+- Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
+
+- Then shall the children of Israel and Judah. They were split into two nations, two kingdoms. And they are going to come back.
+
+- Israel was called uncircumcised, heathen, Gentiles, strangers — and they were destined to come back, because the promise was given to Abraham, Isaac and Jacob and the twelve tribes, not just Judah, Benjamin and Levi.
+
+**[Ezekiel 20:32](/bible/ezekiel/20#v32)**  *[[14:21](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=861s)]*
+
+> <sup>[32](/bible/ezekiel/20#v32)</sup> And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
+
+- Let us deal with the word heathen now.
+
+- And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
+
+- So when they started committing idolatry, we started calling them heathen. When we started committing idolatry, we were called heathen, because we were doing the things of the heathen. We said, we will be as the heathen — meaning the other nations. We are going to do what they are going to do. We are not going to be separate and holy. We are going to be just like everybody else. We are going to be heathen too.
+
+**[Ezekiel 25:8](/bible/ezekiel/25#v8)**  *[[15:11](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=911s)]*
+
+> <sup>[8](/bible/ezekiel/25#v8)</sup> Thus saith the Lord God; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;
+
+- Let us see if we are the only ones that said that.
+
+- Thus saith the Lord God; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen.
+
+- So the Chinese, which is Moab, and Caucasians, which is Seir, they said, the house of Judah has become like all the heathen.
+
+- That is why we are just like everybody else. Play the same sports. We are Democrats, we are Republicans. We celebrate their holidays, we do their customs, we follow their ways, we dress like them, we talk like them, we act like them, we hate like them. And then we try to love them. Then we try to intermarry with them. Because we are trying to be just like the heathen.
+
+**[Psalms 50:5](/bible/psalms/50#v5)**  *[[16:06](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=966s)]*
+
+> <sup>[5](/bible/psalms/50#v5)</sup> Gather my saints together unto me; those that have made a covenant with me by sacrifice.
+
+- So let us talk about the saints now.
+
+- Gather my saints together unto me; those that have made a covenant with me by sacrifice.
+
+- What people made a covenant with God by sacrifice? Only the Israelites.
+
+- Even when a mixed multitude was among them, they were not part of the covenant made by sacrifice. And if they were, why did they never suffer the curses of Deuteronomy 28 like Israel did? Because they were never part of the covenant. Therefore they get no curse of the covenant; therefore they get no blessing of the covenant.
+
+**[Psalms 148:14](/bible/psalms/148#v14)**  *[[16:49](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=1009s)]*
+
+> <sup>[14](/bible/psalms/148#v14)</sup> He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
+
+- He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
+
+- Even means indeed. Indeed, the children of Israel. That is who the saints are.
+
+**[Deuteronomy 33:3](/bible/deuteronomy/33#v3)**  *[[17:16](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=1036s)]*
+
+> <sup>[3](/bible/deuteronomy/33#v3)</sup> Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
+
+- Yea, he loved the people; all his saints are in thy hand. Wait, wait a minute. All his saints. Who is his saints? His people.
+
+- And they sat down at thy feet; every one shall receive of thy words. Every one shall receive of thy words.
+
+**[Deuteronomy 33:4](/bible/deuteronomy/33#v4)**  *[[17:44](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=1064s)]*
+
+> <sup>[4](/bible/deuteronomy/33#v4)</sup> Moses commanded us a law, even the inheritance of the congregation of Jacob.
+
+- Moses commanded us a law, even the inheritance of the congregation of Jacob. Not everybody else.
+
+- Only the Israelites are the saints.
+
+**[Daniel 7:27](/bible/daniel/7#v27)**  *[[17:58](https://www.youtube.com/watch?v=4yvewCD3Y9o&t=1078s)]*
+
+> <sup>[27](/bible/daniel/7#v27)</sup> And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+
+- Only Israel is the saints. Israel is the heathen that it was spoken of in the New Testament to be saved. Israel is the strangers that is going to come back. Israel is the Gentiles that it was spoken of to come back.
+
+- And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+
+- The kingdom is going to be given to the saints of the Most High. We are the saints of the Most High. Israel is the saints of the Most High.
+
+- The kingdom cannot be given to everybody, because everybody is not on the level of Israel. If everybody is in rulership, then who is the servant? Who is going to get ruled if everybody is ruling? It does not work like that. You all are ruling now. But in due time, you all will not be ruling any more.
+
+## In Closing
+
+So that is Israel called Gentiles, strangers, heathen, and saints. Most High in Christ bless.
+
+The closing promo:
+
+> Across the earth the prophets move, from city streets to distant lands. The message is the same: Israel must rise. Through every quest, every journey, the truth spreads. No border can contain it. No distance can silence it. Our nation lives in every moment. In joy, we celebrate marriages. In sorrow, we honour our dead. On the Sabbath, we gather as one, families rejoicing together, bound by the commandments of God. Yet are we tried. From the stones in Kenya to the hatred in Montana, we endure as a soldier of the Lord. And still the mission expands: on the airwaves, on the screens, in every nation under heaven, Israel's voice is heard. We build our communities. We raise our children in royalty. We restore what was broken. We clean what was defiled. We show the world who we are. This is Israel United in Christ. Nation in motion. Nation endures.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=4yvewCD3Y9o)
