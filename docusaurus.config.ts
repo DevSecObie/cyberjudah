@@ -121,15 +121,20 @@ const config: Config = {
       title: "CyberJudah",
       logo: { alt: "CyberJudah Holy Bible", src: "img/cyber-bible-icon-256.png" },
       hideOnScroll: true,
-      // One entry per section, named as the section is named on the home page and in the
-      // footer. The four law sidebars share a dropdown, the same grouping the footer uses;
-      // API and GitHub live in the footer's Tools column rather than the navbar.
+      // Bible, then two dropdowns: the three taught collections under "Classes" and the four
+      // law sidebars under "The Law", the same grouping the footer uses. The encyclopedia is
+      // reached from the home page and the footer rather than taking a navbar slot; API and
+      // GitHub live in the footer's Tools column.
       items: [
         { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
-        { type: "docSidebar", sidebarId: "study", label: "4 Chapters a Day", position: "left" },
-        { to: "/classes/browse", label: "Sabbath Classes", position: "left" },
-        { to: "/captains/browse", label: "The Captains", position: "left" },
-        { type: "docSidebar", sidebarId: "encyclopedia", label: "Encyclopedia", position: "left" },
+        {
+          type: "dropdown", label: "Classes", position: "left", to: "/classes/browse",
+          items: [
+            { to: "/classes/browse", label: "Sabbath Classes" },
+            { to: "/captains/browse", label: "The Captains" },
+            { type: "docSidebar", sidebarId: "study", label: "4 Chapters a Day" },
+          ],
+        },
         {
           type: "dropdown", label: "The Law", position: "left", to: "/law",
           items: [
