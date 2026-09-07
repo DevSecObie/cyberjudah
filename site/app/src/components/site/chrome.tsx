@@ -15,8 +15,8 @@ export function SiteNav() {
   return (
     <header className="cj-nav">
       <Link to="/" className="cj-nav__brand" aria-label="CyberJudah home">
-        <img src="/assets/brand/monogram.png" alt="" width={30} height={30} />
-        <span>CyberJudah</span>
+        <img src="/assets/brand/cyber-lion.png" alt="" width={34} height={34} />
+        <span><span className="bk">[</span> cyberjudah <span className="bk">]</span></span>
       </Link>
       <button type="button" className="cj-nav__toggle" aria-expanded={open} aria-controls="cj-nav-links" onClick={() => setOpen((v) => !v)}>
         {open ? "Close" : "Menu"}
@@ -37,14 +37,14 @@ export function SiteFooter() {
     <footer className="cj-footer">
       <div className="cj-wrap cj-footer__grid">
         <div>
-          <h4>CyberJudah</h4>
+          <p className="wordmark"><span className="bk">[</span> cyberjudah <span className="bk">]</span></p>
           <p style={{ margin: 0, maxWidth: "34ch" }}>
-            The King James text with the Apocrypha, and everything taught from it, on the same page.
+            KJV study Bible with the Apocrypha, and everything taught from it, on the same page.
           </p>
           <p className="cj-mono" style={{ marginTop: "1rem" }}>The Bible text is the public-domain King James Version (1769) with Apocrypha.</p>
         </div>
         <div>
-          <h4>Read</h4>
+          <h4>~/read</h4>
           <ul>
             <li><Link to="/bible">Bible</Link></li>
             <li><Link to="/study">4 Chapters a Day</Link></li>
@@ -53,7 +53,7 @@ export function SiteFooter() {
           </ul>
         </div>
         <div>
-          <h4>The law</h4>
+          <h4>~/law</h4>
           <ul>
             <li><Link to="/cases">Case Studies</Link></li>
             <li><a href="https://devsecobie.github.io/cyberjudah/law">Handbook</a></li>
@@ -62,9 +62,9 @@ export function SiteFooter() {
           </ul>
         </div>
         <div>
-          <h4>Tools</h4>
+          <h4>~/bin</h4>
           <ul>
-            <li><Link to="/search">Search</Link></li>
+            <li><Link to="/search" search={{ q: "" }}>Search</Link></li>
             <li><a href="https://devsecobie.github.io/cyberjudah/api">API</a></li>
             <li><a href="https://devsecobie.github.io/cyberjudah/encyclopedia">Encyclopedia</a></li>
             <li><a href="https://github.com/DevSecObie/cyberjudah">GitHub</a></li>

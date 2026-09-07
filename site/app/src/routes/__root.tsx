@@ -10,7 +10,7 @@ import { THEME_COLOR } from "../lib/brand";
 declare const __HF_DESIGN_INSPECTOR__: boolean;
 
 const DEFAULT_TITLE = "CyberJudah";
-const DEFAULT_DESCRIPTION = "The King James text with the Apocrypha, and everything taught from it, on the same page.";
+const DEFAULT_DESCRIPTION = "KJV study Bible with the Apocrypha: every verse, the classes, the law, the precepts and the cases, on the same page.";
 
 type AppMeta = {
   og_title?: string | null;
@@ -58,7 +58,7 @@ function buildHead(meta: AppMeta) {
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" as const },
-      { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" },
+      { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" },
       { rel: "stylesheet", href: appCss },
       { rel: "icon", href: "/favicon.ico", sizes: "32x32" },
       { rel: "icon", href: "/favicon-32.png", type: "image/png", sizes: "32x32" },
@@ -76,7 +76,7 @@ function NotFoundComponent() {
         <p className="cj-kicker">404</p>
         <h1 className="cj-h1">This page is not in the library.</h1>
         <p className="cj-lede">The link may be old, or the chapter may be written differently here.</p>
-        <Link to="/" className="read-link"><span>Back to the front door</span><span aria-hidden="true">→</span></Link>
+        <Link to="/" className="read-link"><span>Back to the front door</span><span aria-hidden="true">{"\u2192"}</span></Link>
       </main>
     </div>
   );
