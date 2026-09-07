@@ -108,30 +108,22 @@ function NoteCard({ note }: { note: Recent }) {
 export default function Home() {
   const [q, setQ] = useState("");
   const history = useHistory();
-  const searchUrl = useBaseUrl("/search");
+  const searchUrl = useBaseUrl("/classes/browse");
   const lion = useBaseUrl("/img/cyber-lion.png");
   const [p, setP] = useState(passages[0]);
   useEffect(() => { setP(passageOfTheDay()); }, []);
   const last = useLastChapter();
   return (
     <Layout title="CyberJudah" description="KJV Study Bible with Apocrypha, study notes, class notes, encyclopedia, the law, precepts, and case studies">
-      <h1 className="sr-only">CyberJudah</h1>
 
       <section className="cj-stage">
         <img className="cj-watermark" src={lion} alt="" aria-hidden="true" />
         <div className="cj-stage-inner">
-          <figure className="cj-passage">
-            <blockquote>
-              <em>{p.lead}</em>{p.rest}
-            </blockquote>
-            <figcaption>
-              <Link to={p.to}>{p.ref}</Link>
-            </figcaption>
-          </figure>
-
+          <p className="cj-kicker">CyberJudah · Class notes & scripture study</p>
+          <h1>Watch the class.<br />Study the scriptures.</h1>
           <p className="cj-tagline">
-            A study library built on one idea: a passage and everything taught from it belong on the same page.
-            The scripture, the classes, the daily reading, the law and the cases, all cross-linked and all searchable.
+            Find class recordings and their notes by teacher, topic, scripture book or year.
+            Follow the teaching, then explore the passages and reference library behind it.
           </p>
 
           <form
@@ -141,8 +133,8 @@ export default function Home() {
             <input
               value={q}
               onChange={(e) => setQ(e.target.value)}
-              placeholder="Search a word, a phrase, or a reference like John 3:16"
-              aria-label="Search"
+              placeholder="Search class notes by word, phrase or scripture"
+              aria-label="Search class notes"
               spellCheck={false}
               autoComplete="off"
             />
@@ -154,12 +146,17 @@ export default function Home() {
           </form>
 
           <div className="cj-cta">
+            <Link className="cj-btn cj-btn-primary" to="/classes/browse">Browse classes & filters →</Link>
+            <Link className="cj-btn" to="/captains/browse">The Captains</Link>
             {last
-              ? <Link className="cj-btn cj-btn-primary" to={last.to}>Continue reading {last.label} →</Link>
-              : <Link className="cj-btn cj-btn-primary" to="/bible/genesis/1">Open the Bible →</Link>}
-            <Link className="cj-btn" to="/study">Start 4 Chapters a Day</Link>
-            <Link className="cj-btn" to="/classes/browse">Browse the classes</Link>
+              ? <Link className="cj-btn" to={last.to}>Continue reading {last.label} →</Link>
+              : <Link className="cj-btn" to="/bible">Open the Bible</Link>}
           </div>
+          <p><Link to="/search">Search the entire library</Link> · <Link to="/study">4 Chapters a Day</Link></p>
+          <figure className="cj-passage">
+            <blockquote><em>{p.lead}</em>{p.rest}</blockquote>
+            <figcaption><Link to={p.to}>{p.ref}</Link></figcaption>
+          </figure>
 
           <p className="cj-stats">
             <span>{stats.books} books</span>
@@ -176,7 +173,7 @@ export default function Home() {
         <section className="cj-new">
           <div className="cj-new-inner">
             <div className="cj-new-head">
-              <h2 className="cj-section-head">New this week</h2>
+              <h2 className="cj-section-head">Latest classes & episodes</h2>
               <p className="cj-new-links"><Link to="/classes/browse">all classes</Link> · <Link to="/captains/browse">all episodes</Link></p>
             </div>
             {/* A horizontal strip: scroll or swipe through the latest notes, newest first. */}
@@ -189,7 +186,7 @@ export default function Home() {
 
       <section className="cj-rooms">
         <div className="cj-rooms-inner">
-          <h2 className="cj-section-head">What is here</h2>
+          <h2 className="cj-section-head">Explore the study library</h2>
           <div className="cj-rooms-grid">
             {rooms.map((r) => (
               <Link key={r.to} className="cj-room" to={r.to}>

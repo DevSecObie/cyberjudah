@@ -9,6 +9,9 @@
     "notes:lint": "python3 scripts/notes/lint.py",
     "start": "npm run sync && docusaurus start",
     "build": "npm run sync && docusaurus build",
+    "build:profile": "node scripts/profile-build.mjs",
+    "build:verify": "node scripts/verify-build.mjs",
+    "test": "node --test tests/*.test.mjs",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "typecheck": "tsc"

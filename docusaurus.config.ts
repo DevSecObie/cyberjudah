@@ -121,12 +121,8 @@ const config: Config = {
       title: "CyberJudah",
       logo: { alt: "CyberJudah Holy Bible", src: "img/cyber-bible-icon-256.png" },
       hideOnScroll: true,
-      // Bible, then two dropdowns: the three taught collections under "Classes" and the four
-      // law sidebars under "The Law", the same grouping the footer uses. The encyclopedia is
-      // reached from the home page and the footer rather than taking a navbar slot; API and
-      // GitHub live in the footer's Tools column.
+      // Put the teaching collections first; group reference tools without changing routes.
       items: [
-        { type: "docSidebar", sidebarId: "bible", label: "Bible", position: "left" },
         {
           type: "dropdown", label: "Classes", position: "left", to: "/classes/browse",
           items: [
@@ -136,8 +132,10 @@ const config: Config = {
           ],
         },
         {
-          type: "dropdown", label: "The Law", position: "left", to: "/law",
+          type: "dropdown", label: "Reference Library", position: "left", to: "/bible",
           items: [
+            { type: "docSidebar", sidebarId: "bible", label: "Bible" },
+            { to: "/encyclopedia", label: "Encyclopedia" },
             { type: "docSidebar", sidebarId: "law", label: "Handbook" },
             { type: "docSidebar", sidebarId: "precepts", label: "Precepts" },
             { type: "docSidebar", sidebarId: "cases", label: "Case Studies" },

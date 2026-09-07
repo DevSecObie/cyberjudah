@@ -392,14 +392,13 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
   .cj-reader-article .scripture .verse { margin-inline: -.2rem; }
 }
 
-/* ── Home ───────────────────────────────────────────────────────────────────
-   Two screens. The first is the passage, the search and the mark: no cards, no
-   chrome, one accent on one phrase. The second is plain prose columns saying what
-   is actually in here — the Relay move, borders left off. */
+/* Class-first home: keep the existing palette, with a compact introduction so
+   recent recordings are not pushed below a mandatory full-screen hero. */
 .cj-stage { position: relative; overflow: hidden; display: flex; align-items: center;
-  min-height: calc(100vh - var(--ifm-navbar-height)); background: var(--ifm-background-color); }
+  background: var(--ifm-background-color); }
 .cj-stage-inner { position: relative; z-index: 1; width: 100%; max-width: 68rem;
-  margin-inline: auto; padding: clamp(3rem, 9vh, 7rem) 1.5rem; }
+  margin-inline: auto; padding: clamp(2rem, 4vh, 3rem) 1.5rem; }
+.cj-stage h1 { font-size: clamp(2rem, 4.5vw, 3.3rem); line-height: 1.15; }
 
 /* the lion, oversized and nearly invisible, bleeding off the right edge */
 .cj-watermark { position: absolute; z-index: 0; pointer-events: none; user-select: none;
@@ -407,16 +406,16 @@ html[data-bible-app="true"] .cj-reader-article .citedby { display: none; }
   opacity: .05; filter: grayscale(1) contrast(1.15); }
 [data-theme="dark"] .cj-watermark { opacity: .085; filter: none; }
 
-.cj-passage { margin: 0 0 clamp(2.5rem, 7vh, 4rem); }
+.cj-passage { margin: 1.5rem 0; }
 .cj-passage blockquote {
   margin: 0; padding: 0; border: 0; background: none;
   font-family: var(--ifm-heading-font-family);
-  font-size: clamp(1.8rem, 4.7vw, 3.3rem);
+  font-size: 1.1rem;
   font-weight: 400; line-height: 1.2; letter-spacing: -.019em;
-  text-wrap: balance; max-width: 23ch; color: var(--cj-display);
+  text-wrap: balance; max-width: 65ch; color: var(--cj-display);
 }
 .cj-passage blockquote em { font-style: normal; color: var(--ifm-color-primary); }
-.cj-passage figcaption { margin-top: 1.5rem; }
+.cj-passage figcaption { margin-top: .5rem; }
 .cj-passage figcaption a {
   font-family: var(--ifm-font-family-monospace); font-size: .72rem;
   letter-spacing: .17em; text-transform: uppercase;

@@ -28,10 +28,20 @@ jobs:
       # The note linter gates the deploy: a malformed note is a content bug the build
       # itself will not catch, since Docusaurus only checks links.
       - run: npm run notes:lint
-      - run: npm run build
+      - run: npm test
+      - run: npm run build:profile
         env:
-          DOCUSAURUS_SSR_CONCURRENCY: 4
-          NODE_OPTIONS: --max-old-space-size=6144
+          DOCUSAURUS_SSR_CONCURRENCY: 1
+          # SSR concurrency applies per worker, not to the whole worker pool.
+          DOCUSAURUS_SSG_WORKER_THREAD_COUNT: 1
+          NODE_OPTIONS: --max-old-space-size=3500
+      - run: npm run typecheck
+      - run: npm run build:verify
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: build-profile
+          path: build-profile
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build

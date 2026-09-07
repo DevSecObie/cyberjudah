@@ -3,6 +3,7 @@ import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useBaseUrl, { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
 import { useHistory, useLocation } from "@docusaurus/router";
+import { filterNotes, notePath } from "../utils/noteFilters";
 
 // The browse page behind both /classes/browse and /captains/browse. The two feeds differ only
 // in their copy and their index file, and the facets are the part worth having in one place:
@@ -56,7 +57,10 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
   const [all, setAll] = useState<Note[] | null>(null);
   const [topicLabels, setTopicLabels] = useState<Topic[]>([]);
   const [allTopics, setAllTopics] = useState(false);
-  const [open, setOpen] = useState(false);          // the filter panel
+  const [open, setOpen] = useState(true);          // make the existing facets discoverable
+  const [loadError, setLoadError] = useState(false);
+  const [searchError, setSearchError] = useState(false);
+  const [searching, setSearching] = useState(false);
 
   // The URL is the state. Reading straight out of it keeps the two in step without an effect
   // syncing them in both directions, which is where this kind of thing usually goes wrong.
@@ -68,15 +72,15 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
   const sortRaw = params.get("sort") ?? "new";
   const sort: Sort = (SORT_KEYS.has(sortRaw) ? sortRaw : "new") as Sort;
 
-  const setParams = (next: Record<string, string | string[]>) => {
-    const p = new URLSearchParams(loc.search);
+  const setParams = (next: Record<string, string | string[]>, replace = false) => {
+    const p = new URLSearchParams(history.location.search);
     for (const [k, v] of Object.entries(next)) {
       const val = Array.isArray(v) ? v.join(",") : v;
       if (val) p.set(k, val); else p.delete(k);
     }
-    // replace, not push: typing in the filter box would otherwise put one history entry per
-    // keystroke between the reader and the page they arrived from.
-    history.replace(`${loc.pathname}${p.toString() ? "?" + p : ""}`);
+    // Facet choices can be undone with Back; typing replaces its current history entry.
+    const target = `${history.location.pathname}${p.toString() ? "?" + p : ""}`;
+    if (replace) history.replace(target); else history.push(target);
   };
   // The box updates on every keystroke; the URL (and the search) follows a beat later, so a
   // fast typist gets one search for "sabbath", not seven.
@@ -84,7 +88,7 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
   useEffect(() => { setTyped(q); }, [q]);
   useEffect(() => {
     if (typed === q) return;
-    const t = setTimeout(() => setParams({ q: typed }), 250);
+    const t = setTimeout(() => setParams({ q: typed }, true), 250);
     return () => clearTimeout(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [typed]);
@@ -103,8 +107,10 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
   const [textHits, setTextHits] = useState<{ q: string; urls: Set<string> } | null>(null);
   useEffect(() => {
     const term = q.trim();
-    if (!term) { setTextHits(null); return; }
+    if (!term) { setTextHits(null); setSearching(false); setSearchError(false); return; }
     let live = true;
+    setSearching(true);
+    setSearchError(false);
     (async () => {
       try {
         const pf = await loadPagefind(base);
@@ -114,17 +120,25 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
           const d = await r.data();
           // Pagefind gives the served path (/cyberjudah/classes/2026/x, possibly with .html);
           // the index rows carry the site-relative /classes/2026/x.
-          let u = d.url.replace(/\.html$/, "").replace(/\/$/, "");
-          if (u.startsWith(base.replace(/\/$/, ""))) u = u.slice(base.replace(/\/$/, "").length);
-          urls.add(u);
+          urls.add(notePath(d.url, base));
         }
         if (live) setTextHits({ q: term, urls });
-      } catch { if (live) setTextHits({ q: term, urls: new Set() }); }
+      } catch {
+        pfPromise = null; // a transient download failure must not poison future searches
+        if (live) { setTextHits({ q: term, urls: new Set() }); setSearchError(true); }
+      } finally { if (live) setSearching(false); }
     })();
     return () => { live = false; };
   }, [q, kind, base]);
 
-  useEffect(() => { fetch(indexUrl).then((r) => r.json()).then(setAll); }, [indexUrl]);
+  useEffect(() => {
+    let live = true;
+    setAll(null); setLoadError(false);
+    fetch(indexUrl).then((r) => { if (!r.ok) throw new Error("Index unavailable"); return r.json(); })
+      .then((rows) => { if (!Array.isArray(rows)) throw new Error("Invalid index"); if (live) setAll(rows); })
+      .catch(() => { if (live) setLoadError(true); });
+    return () => { live = false; };
+  }, [indexUrl]);
   // A missing or unreadable label file only costs the pretty names, so it must not blank the page.
   useEffect(() => { fetch(topicsUrl).then((r) => r.json()).then(setTopicLabels).catch(() => setTopicLabels([])); }, [topicsUrl]);
 
@@ -169,29 +183,13 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
 
   const hits = useMemo(() => {
     if (!all) return [];
-    const lc = q.trim().toLowerCase();
-    const out = all.filter((c) => {
-      if (years.length && !years.includes(c.year)) return false;
-      // Several topics selected means all of them, not any: narrowing is the point.
-      if (topics.length && !topics.every((t) => (c.topics ?? []).includes(t))) return false;
-      if (book && !(c.allBooks ?? c.books).includes(book)) return false;
-      if (teachers.length && !(c.teacher && teachers.includes(c.teacher))) return false;
-      if (lc) {
-        const inTitle = c.title.toLowerCase().includes(lc) || (c.teacher ?? "").toLowerCase().includes(lc);
-        const inText = textHits?.q === q.trim() && textHits.urls.has(c.url);
-        if (!inTitle && !inText) return false;
-      }
-      return true;
-    });
-    return out.sort((a, b) =>
-      sort === "az" ? a.title.localeCompare(b.title)
-        : sort === "old" ? a.date.localeCompare(b.date) || a.title.localeCompare(b.title)
-          : b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+    return filterNotes(all, { q, years, topics, book, teachers, sort },
+      textHits?.q === q.trim() ? textHits.urls : undefined);
   }, [all, q, years, topics, book, teachers, sort, textHits]);
 
   const toggle = (xs: string[], set: (v: string[]) => void, x: string) =>
     set(xs.includes(x) ? xs.filter((y) => y !== x) : [...xs, x]);
-  const clear = () => history.replace(loc.pathname);
+  const clear = () => { setTyped(""); history.push(loc.pathname); };
   const filtered = q.trim() !== "" || years.length > 0 || topics.length > 0 || book !== ALL || teachers.length > 0;
   const activeFilters = years.length + topics.length + (book ? 1 : 0) + teachers.length;
   // Arriving with a filter in the URL opens the panel so the reader can see what is narrowing the list.
@@ -250,7 +248,7 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
 
               {bookOptions.length > 0 && (
                 <div className="cj-facet">
-                  <span className="cj-facet-label">Book</span>
+                  <span className="cj-facet-label">Book cited</span>
                   <select className="cj-select" value={book} onChange={(e) => setBook(e.target.value)} aria-label="Filter by book opened">
                     <option value={ALL}>Any book</option>
                     {bookOptions.map(([b, n]) => <option key={b} value={b}>{b} ({n})</option>)}
@@ -272,7 +270,7 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
                 </div>
               ))}
 
-              {yearCounts.length > 1 && (
+              {yearCounts.length > 0 && (
                 <div className="cj-facet">
                   <span className="cj-facet-label">Year</span>
                   <div className="cj-chips">
@@ -288,8 +286,10 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
             </div>
           </div>
 
-          <p className="cj-count">
-            {all === null ? "Loading" : `${hits.length} ${hits.length === 1 ? noun[0] : noun[1]}`}
+          {loadError && <p role="alert">The class list could not load. <button type="button" onClick={() => window.location.reload()}>Try again</button></p>}
+          {searchError && <p role="alert">Full-text search is temporarily unavailable. Showing title and teacher matches only.</p>}
+          <p className="cj-count" role="status" aria-live="polite">
+            {loadError ? "List unavailable" : all === null ? "Loading…" : searching ? "Searching full notes…" : `${hits.length} ${hits.length === 1 ? noun[0] : noun[1]}`}
             {filtered && all !== null && <> · <button type="button" onClick={clear}>clear</button></>}
           </p>
 
@@ -322,7 +322,7 @@ export default function NoteBrowser({ src, kind, title, heading, description, in
             ))}
           </div>
 
-          {all !== null && hits.length === 0 && (
+          {all !== null && !searching && !searchError && hits.length === 0 && (
             <p className="cj-empty">Nothing matches those filters. <button type="button" onClick={clear}>Clear</button> and try again.</p>
           )}
         </div>
