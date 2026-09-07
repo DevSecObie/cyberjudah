@@ -8,7 +8,7 @@
     "notes:fix": "node scripts/link-timestamps.mjs && node scripts/tag-notes.mjs && node scripts/index-scriptures.mjs",
     "notes:lint": "python3 scripts/notes/lint.py",
     "start": "npm run sync && docusaurus start",
-    "build": "npm run sync && docusaurus build",
+    "build": "npm run sync && DOCUSAURUS_SSG_WORKER_THREAD_RECYCLER_MAX_MEMORY=3000000000 docusaurus build",
     "build:profile": "node scripts/profile-build.mjs",
     "build:verify": "node scripts/verify-build.mjs",
     "test": "node --test tests/*.test.mjs",

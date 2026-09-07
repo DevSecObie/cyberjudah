@@ -1,6 +1,6 @@
-# Docusaurus improvements — local, unpublished
+# Docusaurus improvements — implementation notes
 
-Based on upstream `10e5cbb654b83492ad88249db1264b424f974a50`. This checkout is separate from the Wiki.js and other prototypes. No migration, content deletion, push or deployment was performed.
+Initially based on upstream `10e5cbb654b83492ad88249db1264b424f974a50`, then merged with `c8bf478a` for publication at the owner's request. This checkout is separate from the Wiki.js and other prototypes. No migration or content deletion was performed. The newer worker recycler optimization is retained in the ordinary local build command; CI uses the separately tested single-worker profile command for a more conservative memory budget. The local measurements below predate this merge; the CI build path and application source remain unchanged by the merge.
 
 ## Reader experience
 
