@@ -4,7 +4,7 @@ slug: "2026/2026-07-04-250-years-of-celebration-400-years-of-sweat-equity"
 date: "2026-07-04"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-04"
-tags: ["IUIC in the ClassRoom", "justice", "prophecy", "reparations"]
+tags: ["IUIC in the ClassRoom", "captivity", "justice", "prophecy", "reparations"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>

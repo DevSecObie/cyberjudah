@@ -1,0 +1,263 @@
+---
+title: "Resetting Your Joy In The Lord"
+slug: "2026/2026-08-12-resetting-your-joy-in-the-lord"
+date: "2026-08-12"
+teacher: "Captain Lemuel"
+description: "15 Minutes w/ The Captains · 2026-08-12"
+tags: ["15 Minutes w/ The Captains", "faith", "gossip", "prayer", "sexual-purity", "the-body"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2026-08-12</p>
+
+<span class="opens"><b>Opens</b> [Heb 3](/bible/hebrews/3) · [Song Thr 1](/bible/song-of-the-three-children/1) · [Eccl 8](/bible/ecclesiastes/8) · [Num 14](/bible/numbers/14) · [Num 11](/bible/numbers/11) · [Heb 4](/bible/hebrews/4) · [Ps 139](/bible/psalms/139) · [Ps 25](/bible/psalms/25) · [Ps 51](/bible/psalms/51) · [2 Tim 3](/bible/2-timothy/3) · [Sir 40](/bible/sirach/40)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="fuwoOANedXA"></div>
+
+## Introduction
+
+Hey, shalom Israel. Most High and Christ bless. It is Captain Lemuel. This is 15 Minutes with the Captains.
+
+**Today's lesson is resetting your joy in the Lord.**
+
+As I am going through my four chapters and I am reading through Hebrews chapter 3, I see how the scriptures are going back into the history of how Israel was in the wilderness, and all the various sins that we dealt with. And he said, do not be hardened by the deceitfulness of sin.
+
+And so I got to thinking: how do we get deceived by our sin? We know what sin is. But oftentimes, like what Christ said, when we let the cares of the world, the affairs of this life, or the lust of other things come in and start to disrupt, or distort, or diminish, or extinguish that joy that we had in the Lord — that is when we have got to start to take a step back and start to reset.
+
+So that is what we are going to deal with today.
+
+## Scriptures Opened
+
+**[Hebrews 3:12-13](/bible/hebrews/3#v12)**  *[[1:25](https://www.youtube.com/watch?v=fuwoOANedXA&t=85s)]*
+
+> <sup>[12](/bible/hebrews/3#v12)</sup> Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.
+>
+> <sup>[13](/bible/hebrews/3#v13)</sup> But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
+
+- So the scripture says, be mindful, lest there be any of you that have an evil heart of unbelief. You mean to tell me you can walk in this truth, you can be coming to the school every Sabbath day, and be walking around with an evil heart of unbelief?
+
+- In departing from the living God. Because throughout my years — my few years in this truth — I am telling you, people leave spiritually long before they leave physically. People leave the truth and leave the body spiritually well before they leave physically.
+
+- But exhort one another daily, while it is called To day. While it is called today. When it says to depart from God, what does that mean?
+
+**[Song of the Three Children 1:6](/bible/song-of-the-three-children/1#v6)**  *[[2:31](https://www.youtube.com/watch?v=fuwoOANedXA&t=151s)]*
+
+> <sup>[6](/bible/song-of-the-three-children/1#v6)</sup> For we have sinned and committed iniquity, departing from thee.
+
+- Get Three Holy Children in the Apocrypha, or Prayer of Azariah as it says in some Bible apps, verse six.
+
+- For we have sinned and committed iniquity. Sinned and committed iniquity. Departing from thee. Departing from thee. Departing from our God.
+
+- So an evil heart of unbelief, and departing from our God, is when we pine away in our sin and iniquity. When we add sin upon sin.
+
+- But you see those certain signs and symptoms in people, and we will talk about that briefly. But we are also going to talk about the solutions, in order to reset your joy in the Lord, so you will not be overcome with that evil heart of unbelief.
+
+**[Hebrews 3:17](/bible/hebrews/3#v17)**  *[[3:27](https://www.youtube.com/watch?v=fuwoOANedXA&t=207s)]*
+
+> <sup>[17](/bible/hebrews/3#v17)</sup> But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?
+
+- But with whom was the Lord grieved forty years? Was it not with them that had sinned? It was with them that had sinned — with the Israelites that had sinned in the wilderness.
+
+- Whose carcases fell in the wilderness. Who dropped dead in the wilderness.
+
+- You know, a lot of times — remember what Solomon said. Read that in Ecclesiastes 8. Solomon said something very heavy. Because this said, but with whom was he grieved forty years? And then they dropped dead.
+
+**[Ecclesiastes 8:11](/bible/ecclesiastes/8#v11)**  *[[3:57](https://www.youtube.com/watch?v=fuwoOANedXA&t=237s)]*
+
+> <sup>[11](/bible/ecclesiastes/8#v11)</sup> Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
+
+- Because sentence against an evil work is not executed speedily. So sometimes, because the Lord does not judge us oftentimes, because the Lord does not judge us immediately, because we have not dropped dead —
+
+- Therefore the heart of the sons of men is fully set in them to do evil. A lot of times we are fully set in us to continue to commit the sin within. The sin that doth so easily beset us.
+
+**[Hebrews 3:18](/bible/hebrews/3#v18)**  *[[4:56](https://www.youtube.com/watch?v=fuwoOANedXA&t=296s)]*
+
+> <sup>[18](/bible/hebrews/3#v18)</sup> And to whom sware he that they should not enter into his rest, but to them that believed not?
+
+- And to whom sware he that they should not enter into his rest, but to them that believed not? So who did the Lord say was not going to enter into his rest? Those that continue to sin — they would not enter into his rest.
+
+- What are some of the sins that the children of Israel were committing in the wilderness?
+
+**[Numbers 14:2](/bible/numbers/14#v2)**  *[[5:20](https://www.youtube.com/watch?v=fuwoOANedXA&t=320s)]*
+
+> <sup>[2](/bible/numbers/14#v2)</sup> And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!
+
+- And all the children of Israel murmured against Moses and against Aaron. So, murmuring, complaining, was one of the sins that the children of Israel committed.
+
+- And the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness! So it is not for the Lord delivering us from our enemies — that was not good enough. It is not that the Lord gave us manna to eat. He gave us water to drink. The manna tasted like whatever it is that you wanted it to taste like. That was not enough.
+
+- We continued to murmur and complain against Moses and Aaron. Against the Lord — which was inevitably against the Lord.
+
+**[Numbers 14:4](/bible/numbers/14#v4)**  *[[6:20](https://www.youtube.com/watch?v=fuwoOANedXA&t=380s)]*
+
+> <sup>[4](/bible/numbers/14#v4)</sup> And they said one to another, Let us make a captain, and let us return into Egypt.
+
+- And they said one to another, Let us make a captain, and let us return into Egypt. These dudes were trying to set up a coup. They were trying to — that is called sedition. That is sedition. Let us look up sedition.
+
+**[Numbers 14:10](/bible/numbers/14#v10)**  *[[6:41](https://www.youtube.com/watch?v=fuwoOANedXA&t=401s)]*
+
+> <sup>[10](/bible/numbers/14#v10)</sup> But all the congregation bade stone them with stones. And the glory of the Lord appeared in the tabernacle of the congregation before all the children of Israel.
+
+- But all the congregation bade stone them with stones. And the glory of the Lord appeared in the tabernacle of the congregation before all the children of Israel.
+
+The definition on the screen, Merriam-Webster, sedition:
+
+> Incitement of resistance to or insurrection against lawful authority.
+
+- Moses and Aaron were lawful authority. But Israel was like, I do not care about that.
+
+- And they said one to another, Let us make a captain, and let us return into Egypt. They said, listen, let us move Moses out of the way. Let us set up a leader — and let us go back to captivity.
+
+- You have got to be mindful of that spirit. When you have brothers and sisters, when you are going against authorised authority, or lawful authority — authority that was set up by the Most High God and his son, Jesus the Christ — that is a sure sign of a seditious spirit.
+
+
+**[Numbers 11:4-6](/bible/numbers/11#v4)**  *[[8:09](https://www.youtube.com/watch?v=fuwoOANedXA&t=489s)]*
+
+> <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
+>
+> <sup>[5](/bible/numbers/11#v5)</sup> We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
+>
+> <sup>[6](/bible/numbers/11#v6)</sup> But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
+
+- What else was Israel dealing with?
+
+- And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat? We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick.
+
+- How black people are with food. We cannot do anything without food. It was not the bitter hard bondage that we remembered. It was the leeks, the onions, the garlic, the cucumbers. That is what we remembered from being in slavery under Egypt. That is what we remember from our time in Egypt — how good the food was.
+
+- So it is not a wonder that here in America you have got so many fat brothers and sisters. Because you are more concerned about what you put in your gullet than what you put in your spirit. You are more concerned with feeding your flesh than feeding your spirit.
+
+- But now our soul is dried away: there is nothing at all, beside this manna, before our eyes. You know what that is called, when your eyes are not satisfied or content with the things that the Lord has given you? That is called covetousness.
+
+- And guess what? Many of our brothers and sisters, we suffer from that. Whether it is your marriage — you want more than one wife. You desire more than one wife. Yeah, in the kingdom, of course. But you desire that now. I need that now. You are not satisfied with the one wife that the Lord has given you. Now you need multiple. Or now you need to step out on the one that you have got.
+
+- Well, she does not really make the brisket like I like it. She does not really make the candied yams like I like it. But the work wife does.
+
+- Yeah, my husband — I know he goes to work every day, breaking his back trying to pay the bills. But we do not go out enough. We do not go on enough date nights. We only go once a month. But I will be on Instagram twelve hours a day, and I see all these couples, these married couples, and they go out every other day. That is covetousness. You are not content.
+
+**[Hebrews 3:18-19](/bible/hebrews/3#v18)**  *[[11:13](https://www.youtube.com/watch?v=fuwoOANedXA&t=673s)]*
+
+> <sup>[18](/bible/hebrews/3#v18)</sup> And to whom sware he that they should not enter into his rest, but to them that believed not?
+>
+> <sup>[19](/bible/hebrews/3#v19)</sup> So we see that they could not enter in because of unbelief.
+
+- And to whom sware he that they should not enter into his rest, but to them that believed not? But to them that believed not.
+
+- So we see that they could not enter in because of unbelief. So, guess what? Twenty-three thousand Israelites were not able to enter into the land of Canaan. Why? Because of unbelief. Because of sin and iniquity. Because of murmuring. Because of covetousness. Not being content. Because of sedition.
+
+- So the Lord is telling us to go back and look at the example of our forefathers, and look at the spirits that they were dealing with. They could not enter into the rest at that time, which is the land of Canaan. But for our time, it is the kingdom of heaven. It is immortality. It is eternal life.
+
+**[Hebrews 4:1](/bible/hebrews/4#v1)**  *[[12:24](https://www.youtube.com/watch?v=fuwoOANedXA&t=744s)]*
+
+> <sup>[1](/bible/hebrews/4#v1)</sup> Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
+
+- So the scripture says, let us what? Let us therefore fear, lest, a promise being left us of entering into his rest — that eternal rest — any of you should seem to come short of it. Any of you should come short of it. Any of you should come short of it.
+
+- So then you have got to sit back and examine, and ask yourself: Lord, where am I at in this truth? With my year in, my two years in, my five years in, my ten years in. You have got to self-examine. You have got to take spiritual inventory.
+
+**[Psalms 139:23-24](/bible/psalms/139#v23)**  *[[13:15](https://www.youtube.com/watch?v=fuwoOANedXA&t=795s)]*
+
+> <sup>[23](/bible/psalms/139#v23)</sup> Search me, O God, and know my heart: try me, and know my thoughts:
+>
+> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
+
+- Search me, O God, and know my heart: try me, and know my thoughts. And see if there be any wicked way in me, and lead me in the way everlasting.
+
+- Watch this. In order to start to reset, you have to ask the Lord to search you, try you, see if there is any wicked way in you. Take a step back.
+
+- Because oftentimes we deceive ourselves, and we get overcome by the deceitfulness of sin — thinking that because we have got the best unleavened bread, that makes us in the truth, or that makes us spiritual. Because we are good with security, we are in the truth, or we are spiritual. Because we are good with setting up the microphones. We are good at setting up the audio and video. We are good with social media — that we are in the truth. No.
+
+- Have you taken a step back and asked the Lord to examine you? Try you, search you, see if there is any wicked way in you?
+
+- Because the only way that we get the kingdom of heaven is by maintaining our integrity and uprightness.
+
+**[Psalms 25:21](/bible/psalms/25#v21)**  *[[14:47](https://www.youtube.com/watch?v=fuwoOANedXA&t=887s)]*
+
+> <sup>[21](/bible/psalms/25#v21)</sup> Let integrity and uprightness preserve me; for I wait on thee.
+
+- Let integrity and uprightness preserve me; for I wait on thee.
+
+- You see what is going to preserve us in these last days? Integrity and uprightness. Integrity and uprightness.
+
+- You have to pray to the Lord, and ask the Lord, and take a step back and meditate and examine: where is my integrity in this truth? Am I upright? Am I dealing with murmuring, a seditious spirit, covetousness, fornication? That is another issue that we were dealing with — when you read Exodus 32, when we rose up eating and drinking, and rose up to play.
+
+**[Psalms 51:10-12](/bible/psalms/51#v10)**  *[[15:35](https://www.youtube.com/watch?v=fuwoOANedXA&t=935s)]*
+
+> <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
+>
+> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
+>
+> <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+
+- Another thing that we must do in examining ourselves.
+
+- Create in me a clean heart, O God. Create in me a clean heart, or mind.
+
+- And renew a right spirit within me. In order to not be overcome with the evil heart of unbelief, pray to the Lord that he renews a right spirit within you.
+
+- You being able to use the scriptures to fix whatever character flaw you have got, wherever your integrity lacks — you have to pray to the Lord that he searches and examines that part of your character, that part of your spirit, and he renews that right spirit within you.
+
+- Cast me not away from thy presence. Because if not, you are going to be a castaway. And you are going to leave spiritually and mentally long before you leave physically.
+
+- And you know what you are going to do when you leave physically? You are going to point the finger. It is always somebody else's fault why you are leaving the truth. It is always somebody else's problem. Well, she was rude to me. He was rude to me. The way he corrected me, the way she corrected me, the way she talked about me, the way she talked to me. It is always somebody else's fault. It is always somebody else's problem and reason why you ended up falling off.
+
+- It is never that I fell into an evil heart of unbelief. I do not believe any more. I do not believe in Christ. I do not believe in salvation. I mean — I prefer murmuring. I prefer sedition. I prefer covetousness. I prefer fornication.
+
+- Oh, I did not get married in time. The Lord did not send me a wife early enough in the truth, so that is why I left. That is why I committed fornication and left. That is why now I am going off into multiple wives. Because the Lord did not return soon enough to grant me another wife. I am not content with the one that the Lord gave me, so let me step out and deal with the work wife. It is always somebody else's fault. Well, my wife cannot cook. Well, why did you not tell her to go to another sister's house? Why did you not invite another couple over, and have the other sister that you know can cook come over, and she is side by side with your wife, teaching her the ins and outs of cooking the red beans and rice?
+
+- It is because you have fallen to an evil heart of unbelief. But you have to use these scriptures in order to reset, fine-tune, be renewed, create a clean heart, be not a castaway.
+
+- And take not thy holy spirit from me. Because if you stay in that state long enough — that state of covetousness, and you do not address it; that murmuring spirit, and you do not address it; that spirit of fornication, and you do not address it — the holy spirit will depart. It is not a matter of if, it is a matter of when.
+
+- Restore unto me the joy of thy salvation. You have got to ask the Lord to restore, reset, refocus. Restore unto me the joy of thy salvation. Restore unto me the joy of the Lord.
+
+- Because there is so much out here that will weigh your spirit down, weigh your mind down. Bills. Issues with the wife, issues with the children, issues at work, issues in the congregation. You are behind on your taxes. You are behind on bills. They just let you go. You just got fired. Now you are on a performance improvement plan. You have been in the truth five years and have not found a wife. There is so much crap that can weigh you down in this life.
+
+- You all have to take a step back. Ask the Lord to restore the joy of your salvation. That first love and that first joy that you had when you came in — when you first saw them camp videos and you were binge watching them joints. You were binge watching camp videos. You were binge watching classes. You did not care anything about what was going on at work. You did not care anything about what was going on with the taxes, or whatever, the IRS, whatever. You were trying to get these precepts.
+
+- Then life starts hitting. Then your spiritual eyes were opened up to what the scriptures were really saying. Now that old man is dying. Now that new man is coming to life. And now that war has started in your spirit. Now you have got two people in the same body fighting for which one is going to manifest itself in this flesh. And what are you going to serve? You are going to serve righteousness, or you are going to serve sin?
+
+- So you have got to take a step back, and you have got to ask the Lord to restore your joy in the Lord.
+
+**[2 Timothy 3:15](/bible/2-timothy/3#v15)**  *[[21:33](https://www.youtube.com/watch?v=fuwoOANedXA&t=1293s)]*
+
+> <sup>[15](/bible/2-timothy/3#v15)</sup> And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+
+- How do we restore the joy of that salvation? Where do we start to restore the joy of thy salvation?
+
+- And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus. The place you start is the scriptures.
+
+- After you have sent up prayers to the Lord, and you have asked the Lord, and you have sat back and you have reflected and meditated. Because for the most part you know if you have a particular issue with a brother or sister, any unresolved conflict. You know if you are dealing with unforgiveness, holding a grudge, hatred, wrath.
+
+- If you do not understand where you are going off in the spirit, that means you are a reprobate. The fact that you at least understand where you are going off in the spirit is a good start.
+
+- Now you have got to go to the scriptures, and you have got to read through the scriptures to understand: okay, this hatred spirit that I have got in this heart, this evil heart of unforgiveness that I am dealing with — I need to go through the scriptures in order to figure out and fix that particular sin within. Before it grows root, and I start to grow an evil heart of unbelief, and I am not getting to the kingdom.
+
+- Not the one that I have got a hatred against. They stay in the spirit, they are going to get the kingdom, regardless of if you continue to hate them or not. This is for you. That is why we read Psalm 139. You have got to search you. I am not telling you to search — the scripture does not say search somebody else.
+
+**[Sirach 40:20](/bible/sirach/40#v20)**  *[[23:38](https://www.youtube.com/watch?v=fuwoOANedXA&t=1418s)]*
+
+> <sup>[20](/bible/sirach/40#v20)</sup> Wine and musick rejoice the heart: but the love of wisdom is above them both.
+
+- Go to the last scripture. It says restore the joy.
+
+- Because oftentimes those brothers and sisters that fall to an evil heart of unbelief, they do not read. They do show up to the school. Yes, you will see a Bible in their hand. Yes, you will see them on security. Yes, you will see them in the kitchen. Yes, they will be in broadcast. Yes, they will be on the board. Yes, they will do some good works. Maybe they set up a garden. Maybe they bring in the best unleavened bread.
+
+- But the other six days and eighteen hours, or fifteen hours, or whatever, that they are not in the midst of the body — that is what they have to examine. That is what you have to examine within yourself.
+
+- Wine and music rejoice the heart: but the love of wisdom is above them both. You must love wisdom in order to restore and reset your joy of salvation. You must.
+
+- It is not a matter of, well, maybe if I do something else, maybe if I go out to enough outings or whatever. Okay, that is cool. But if you do not love the scriptures, and if you are not searching the scriptures to fix you, you are going to fall to an evil heart of unbelief.
+
+## In Closing
+
+So I pray you brothers and sisters receive something from the lesson, and with that we say shalom.
+
+The closing promo:
+
+> Across the earth the prophets move, from city streets to distant lands. The message is the same: Israel must rise. Through every quest, every journey, the truth spreads. No border can contain it. No distance can silence it. Our nation lives in every moment. In joy, we celebrate marriages. In sorrow, we honour our dead. On the Sabbath, we gather as one, families rejoicing together, bound by the commandments of God. Yet are we tried. From the stones in Kenya to the hatred in Montana, we endure as a soldier of the Lord. And still the mission expands: on the airwaves, on the screens, in every nation under heaven, Israel's voice is heard. We build our communities. We raise our children in royalty. We restore what was broken. We clean what was defiled. We show the world who we are. This is Israel United in Christ. Nation in motion. Nation endures.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=fuwoOANedXA)
