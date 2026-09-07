@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
 import { Tabs } from "radix-ui";
 
-import { api, CONTENT_ORIGIN, type Book, type Case, type Citation, type Note } from "@/lib/api";
+import { api, dataOrigin, SITE_ORIGIN, type Book, type Case, type Citation, type Note } from "@/lib/api";
 import { renderNote } from "@/lib/markdown";
 import { citationsForVerse, parseRef, shelf, type Ref } from "@/lib/refs";
 import { RefCards } from "@/components/site/ref-card";
@@ -38,7 +38,7 @@ function loadDoc(c: Citation): Promise<Doc> {
       }
       if (s === "precept") {
         const slug = c.url.split("/").filter(Boolean).pop() ?? "";
-        const res = await fetch(`${CONTENT_ORIGIN}/api/precepts/${slug}.json`);
+        const res = await fetch(`${await dataOrigin()}/api/precepts/${slug}.json`);
         if (!res.ok) throw new Error(String(res.status));
         return { kind: "precept", p: (await res.json()) as Precept };
       }
@@ -63,7 +63,7 @@ const LOCAL = ["/study/", "/classes/", "/captains/", "/cases/"];
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
 export function fullHref(url: string): string {
-  return LOCAL.some((k) => url.startsWith(k)) ? url : `${CONTENT_ORIGIN}${url}`;
+  return LOCAL.some((k) => url.startsWith(k)) ? url : `${SITE_ORIGIN}${url}`;
 }
 
 export function StudyPanel({
@@ -164,7 +164,7 @@ function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book
     const href = a.getAttribute("href") ?? "";
     const ref = parseRef(href);
     if (ref) { e.preventDefault(); onGo(ref); return; }
-    const local = href.replace(CONTENT_ORIGIN, "");
+    const local = href.replace(SITE_ORIGIN, "");
     if (PANEL_KINDS.some((k) => local.startsWith(k))) { e.preventDefault(); onStudy(local.split("#")[0]); }
   };
 

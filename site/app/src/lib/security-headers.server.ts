@@ -1,7 +1,7 @@
 /**
  * Security headers applied to every Worker response. The film is scrubbed from Blob URLs
- * (media-src blob:), the search runs the publication's Pagefind module in the browser
- * (script-src and connect-src for devsecobie.github.io), and class recordings embed from
+ * (media-src blob:), the search runs the data set's Pagefind module in the browser (script-src
+ * for cdn.jsdelivr.net, where the data branch is served), and class recordings embed from
  * youtube-nocookie.com.
  */
 export function applySecurityHeaders(response: Response): Response {
@@ -9,7 +9,7 @@ export function applySecurityHeaders(response: Response): Response {
   headers.set(
     "Content-Security-Policy",
     "default-src 'self'; " +
-      "script-src 'self' 'unsafe-inline' https://devsecobie.github.io; " +
+      "script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://devsecobie.github.io; " +
       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; " +
       "font-src 'self' https://fonts.gstatic.com; " +
       "img-src 'self' data: https:; media-src 'self' blob: https:; " +

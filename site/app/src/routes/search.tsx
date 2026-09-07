@@ -1,6 +1,7 @@
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import { Page, ReadLink } from "@/components/site/chrome";
+import { dataOrigin, SITE_ORIGIN } from "@/lib/api";
 
 export const Route = createFileRoute("/search")({
   validateSearch: (s: Record<string, unknown>) => ({ q: typeof s.q === "string" ? s.q : "" }),
@@ -8,9 +9,9 @@ export const Route = createFileRoute("/search")({
   component: SearchPage,
 });
 
-// The publication's Pagefind index is queried in the browser; kinds this site hosts link here,
-// the rest link to the publication.
-const REMOTE = "https://devsecobie.github.io/cyberjudah";
+// The data set's Pagefind index is queried in the browser; kinds this site hosts link here,
+// the rest link to the publication until they are ported.
+const REMOTE = SITE_ORIGIN;
 const KINDS: [string, string][] = [["verse", "Scripture"], ["law", "Laws"], ["precept", "Precepts"], ["case", "Cases"], ["study", "Study notes"], ["class", "Classes"], ["captains", "The Captains"], ["encyclopedia", "Encyclopedia"]];
 const LOCAL = ["/bible/", "/study/", "/classes/", "/captains/", "/cases/"];
 type Hit = { kind: string; title: string; url: string; excerpt: string };
@@ -34,8 +35,9 @@ function SearchPage() {
     (async () => {
       try {
         if (!pf.current) {
-          const mod: Pf = await import(/* @vite-ignore */ `${REMOTE}/pagefind/pagefind.js`);
-          await mod.options({ baseUrl: `${REMOTE}/` });
+          const origin = await dataOrigin();
+          const mod: Pf = await import(/* @vite-ignore */ `${origin}/pagefind/pagefind.js`);
+          await mod.options({ baseUrl: "/" });
           pf.current = mod;
         }
         const res = await Promise.all(KINDS.map(([kind]) => pf.current!.search(q.trim(), { filters: { kind } })));

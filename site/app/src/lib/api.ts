@@ -1,12 +1,58 @@
 /**
- * The library's content lives on the existing CyberJudah publication, which exposes it as
- * static JSON. This front end reads that JSON; it never renders from a database of its own,
- * so the daily note pipeline keeps feeding both sites from one source.
+ * The library's content is built by the content engine (engine/ in the DevSecObie/cyberjudah
+ * repository) into a framework-independent data set on the `data` branch. This front end
+ * reads that data set; it never renders from a database of its own, so the daily note
+ * pipeline feeds every front end from one source.
+ *
+ * Addressing: the branch is served content-addressed through jsDelivr, keyed by commit, so
+ * every file is immutable and cacheable forever. A tiny pointer (manifest.json on the raw
+ * branch, five-minute cache) says which commit is current. Fetching the pointer once per
+ * five minutes per Worker isolate keeps everything consistent within a build and fresh
+ * across builds.
  */
-export const CONTENT_ORIGIN = "https://devsecobie.github.io/cyberjudah";
+const REPO = "DevSecObie/cyberjudah";
+const POINTER = `https://raw.githubusercontent.com/${REPO}/data/manifest.json`;
+const CDN = (ref: string) => `https://cdn.jsdelivr.net/gh/${REPO}@${ref}`;
+/** The publication that still renders the sections not yet ported (law, precepts, encyclopedia). */
+export const SITE_ORIGIN = "https://devsecobie.github.io/cyberjudah";
+/** @deprecated use dataOrigin(); kept for the handful of call sites that build external links. */
+export const CONTENT_ORIGIN = SITE_ORIGIN;
+
+let originCache: { origin: string; at: number } | null = null;
+let originPending: Promise<string> | null = null;
+const POINTER_TTL = 5 * 60 * 1000;
+
+/** The current data root, e.g. https://cdn.jsdelivr.net/gh/DevSecObie/cyberjudah@<commit>. */
+export function dataOrigin(): Promise<string> {
+  if (originCache && Date.now() - originCache.at < POINTER_TTL) return Promise.resolve(originCache.origin);
+  if (originPending) return originPending;
+  originPending = (async () => {
+    try {
+      const res = await fetch(POINTER, { headers: { accept: "application/json" }, cache: "no-store" });
+      if (!res.ok) throw new Error(String(res.status));
+      const m = (await res.json()) as { commit?: string | null };
+      const origin = CDN(m.commit && /^[0-9a-f]{40}$/.test(m.commit) ? m.commit : "data");
+      originCache = { origin, at: Date.now() };
+      return origin;
+    } catch {
+      // The branch name itself still resolves; it is only cached longer at the edge.
+      const origin = originCache?.origin ?? CDN("data");
+      originCache = { origin, at: Date.now() - POINTER_TTL + 30_000 };
+      return origin;
+    } finally {
+      originPending = null;
+    }
+  })();
+  return originPending;
+}
+/** The last resolved data root, for building URLs synchronously after a loader has run. */
+export function dataOriginSync(): string {
+  return originCache?.origin ?? CDN("data");
+}
 
 async function getJson<T>(path: string): Promise<T> {
-  const res = await fetch(`${CONTENT_ORIGIN}${path}`, { headers: { accept: "application/json" } });
+  const origin = await dataOrigin();
+  const res = await fetch(`${origin}${path}`, { headers: { accept: "application/json" } });
   if (!res.ok) throw new Error(`${res.status} for ${path}`);
   return (await res.json()) as T;
 }
@@ -97,8 +143,8 @@ export const api = {
   case: (slug: string) => getJson<Case>(`/api/cases/${slug}.json`),
 };
 
-/** Thumbnails in the feed are either site-relative to the publication or absolute. */
-export const thumbUrl = (t: string) => (t.startsWith("/") ? `${CONTENT_ORIGIN}${t}` : t);
+/** Thumbnails in the feed are either relative to the data set or absolute. */
+export const thumbUrl = (t: string) => (t.startsWith("/") ? `${dataOriginSync()}${t}` : t);
 
 /** "genesis" -> "Genesis", "1-samuel" -> "1 Samuel", using the books list when available. */
 export function bookName(slug: string, books?: Book[]): string {
