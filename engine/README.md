@@ -71,7 +71,10 @@ not files: the front end decides how to render them.
 vault and publishes `dist/` to the `data` branch of this repository, a single commit,
 history discarded. Anything that can serve a git branch can serve the data set:
 
-- jsDelivr, right now, with no setup: `https://cdn.jsdelivr.net/gh/DevSecObie/cyberjudah@data/api/stats.json`
+- jsDelivr, right now, with no setup: `https://cdn.jsdelivr.net/gh/DevSecObie/cyberjudah@data/api/stats.json`.
+  For fresh reads, use the pointer: `https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/pointer.json`
+  names the commit that holds the current data set, and `cdn.jsdelivr.net/gh/DevSecObie/cyberjudah@<that commit>/...`
+  serves it immutably (the branch name alone is cached for hours at the edge)
 - Cloudflare Pages or Netlify, connected to the `data` branch with no build step
 - a Cloudflare R2 bucket, or any object store, by copying the branch
 

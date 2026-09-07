@@ -45,9 +45,13 @@ jobs:
           git checkout -q -b data
           git add -A
           git -c user.name="content engine" -c user.email="engine@cyberjudah.io" commit -qm "data set from ${GITHUB_SHA::12} at $(date -u +%FT%TZ)"
+          # The pointer names the commit that holds the data set, so a CDN can serve that
+          # commit content-addressed (immutable, cached forever) while the pointer itself
+          # stays tiny and short-lived. It has to be a second commit: a commit cannot
+          # contain its own hash.
+          DATA_SHA=$(git rev-parse HEAD)
+          printf '{"commit":"%s","source":"%s","built":"%s"}\n' "$DATA_SHA" "$GITHUB_SHA" "$(date -u +%FT%TZ)" > pointer.json
+          git add pointer.json
+          git -c user.name="content engine" -c user.email="engine@cyberjudah.io" commit -qm "pointer -> $DATA_SHA"
           git push -q --force "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
-      - name: Refresh the CDN copies of the files that change every day
-        run: |
-          for f in manifest.json api/stats.json api/notes/index.json api/by-book.json search/classes.json search/captains.json classes/rss.xml captains/rss.xml classes/feed.json captains/feed.json study/rss.xml study/feed.json api/cases/index.json api/laws/index.json api/precepts/index.json; do
-            curl -sS -o /dev/null -w "$f %{http_code}\n" "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@data/$f" || true
-          done
+          echo "data set: $DATA_SHA"
