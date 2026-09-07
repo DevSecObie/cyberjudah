@@ -1,0 +1,53 @@
+name: Publish the data set
+# The content engine (engine/) turns the vault into a framework-independent data set and
+# publishes it to the `data` branch: one commit, history discarded, about a minute end to
+# end. Front ends read it from there (jsDelivr today, Cloudflare later). The Docusaurus site
+# has its own workflow (deploy.yml) and is untouched by this one.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "blog/**"
+      - "captains/**"
+      - "data/**"
+      - "engine/**"
+      - ".github/workflows/data.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: data
+  cancel-in-progress: true
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history: the study-notes feed dates each entry from the commit that added it.
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: engine/package-lock.json
+      - run: npm ci --prefix engine --no-audit --no-fund
+      - run: npm run notes:lint
+      - name: Build the data set
+        run: node engine/build.mjs --out dist --site https://devsecobie.github.io/cyberjudah
+      - name: Publish to the data branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q
+          git checkout -q -b data
+          git add -A
+          git -c user.name="content engine" -c user.email="engine@cyberjudah.io" commit -qm "data set from ${GITHUB_SHA::12} at $(date -u +%FT%TZ)"
+          git push -q --force "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
+      - name: Refresh the CDN copies of the files that change every day
+        run: |
+          for f in manifest.json api/stats.json api/notes/index.json api/by-book.json search/classes.json search/captains.json classes/rss.xml captains/rss.xml classes/feed.json captains/feed.json study/rss.xml study/feed.json api/cases/index.json api/laws/index.json api/precepts/index.json; do
+            curl -sS -o /dev/null -w "$f %{http_code}\n" "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@data/$f" || true
+          done

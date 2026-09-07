@@ -1,0 +1,18 @@
+{
+  "name": "cyberjudah-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Turns the CyberJudah vault (markdown notes + data) into a framework-independent data set: JSON API, SQLite full-text index, Pagefind index, feeds.",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node check.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "pagefind": "^1.5.2"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
