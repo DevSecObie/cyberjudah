@@ -1,5 +1,5 @@
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
-import { useEffect, useMemo, useRef, useState, type FormEvent } from "react";
+import { useEffect, useRef, useState, type FormEvent } from "react";
 
 import { ScrollScrub } from "@/components/scroll-scrub/scroll-scrub";
 import { buildScrollScrubScenes, scrollScrubTheme } from "@/scroll-scrub-scenes";
@@ -269,7 +269,10 @@ function Passage() {
 function Index() {
   const { stats } = Route.useLoaderData();
   const latestClass = stats?.recent.find((note) => note.kind === "class");
-  const scenes = useMemo(() => buildScrollScrubScenes(stats), [stats]);
+  // Built once, from the first stats seen, and never rebuilt: the scrub controller tears
+  // down and restarts its media whenever the scenes array changes identity, and a loader
+  // refetch after hydration hands back a new stats object with the same numbers in it.
+  const [scenes] = useState(() => buildScrollScrubScenes(stats));
   return (
     <div className="cj-shell">
       <SiteNav />
