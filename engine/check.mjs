@@ -18,7 +18,7 @@ for (const n of notes) known.add(n.url);
 for (const p of handbook.parts) for (const s of p.sections) { known.add(sectionUrl(s)); for (const e of s.entries) known.add(`${sectionUrl(s)}#${s.id}.${e.n}`); }
 for (const t of sortedPrecepts) known.add(preceptUrl(t));
 for (const c of cases.cases) known.add(caseUrl(c));
-for (const p of ["/", "/bible", "/study", "/classes", "/captains", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"]) known.add(p);
+for (const p of ["/", "/bible", "/study", "/classes", "/captains", "/history", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"]) known.add(p);
 for (const b of BOOKS) { known.add(`/bible/${bookSlug[b]}`); known.add(`/study/${bookSlug[b]}`); known.add(`/concordance/${bookSlug[b]}`); }
 for (const t of L.topics) known.add(`/topics/${t.slug}`);
 

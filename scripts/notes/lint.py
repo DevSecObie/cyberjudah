@@ -85,7 +85,10 @@ def lint(path):
 
     if slug and not slug.startswith(f"{date[:4]}/"):
         E.append(f"{rel}: slug {slug!r} does not start with the year of date {date!r}")
-    if slug and os.path.basename(path)[:-3] != f"{date}-{slug.split('/')[-1]}":
+    if feed == "history":
+        if slug and os.path.basename(path)[:-3] != slug.split("/")[-1]:
+            W.append(f"{rel}: filename should be the slug's last segment")
+    elif slug and os.path.basename(path)[:-3] != f"{date}-{slug.split('/')[-1]}":
         W.append(f"{rel}: filename does not match `<date>-<slug>`")
 
     # ---- Our Hidden History: the note's slug is the transcript's, so the page keeps its address ----
