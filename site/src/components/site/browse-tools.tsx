@@ -7,7 +7,7 @@ export function Breadcrumbs({ items }: { items: { label: string; to?: string; ha
     <li><Link to="/">Home</Link></li>
     {items.map((item, i) => <li key={i}>
       <span aria-hidden="true">/</span>
-      {item.to ? <Link to={item.to as never} hash={item.hash}>{item.label}</Link> : <span aria-current={i === items.length - 1 ? "page" : undefined}>{item.label}</span>}
+      {item.to ? <Link to={item.to as never} hash={item.hash} activeProps={{ "aria-current": undefined }}>{item.label}</Link> : <span aria-current={i === items.length - 1 ? "page" : undefined}>{item.label}</span>}
     </li>)}
   </ol></nav>;
 }
