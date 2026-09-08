@@ -56,6 +56,7 @@ export interface ScrollScrubProps {
   connectors?: (ScrollScrubConnector | null)[];
   theme: ScrollScrubTheme;
   className?: string;
+  background?: ReactNode;
   onActiveSectionChange?: (index: number) => void;
 }
 
@@ -182,12 +183,14 @@ export function ScrollScrub({
   connectors,
   theme,
   className,
+  background,
   onActiveSectionChange,
 }: ScrollScrubProps) {
   const rootRef = useRef<HTMLElement>(null);
   const controllerRef = useRef<Controller | null>(null);
   const onActiveRef = useRef(onActiveSectionChange);
   const [activeSection, setActiveSection] = useState(0);
+  const hasBackground = background != null;
   const segments = useMemo(
     () => buildSegments(scenes, connectors ?? []),
     [connectors, scenes]
@@ -493,6 +496,7 @@ export function ScrollScrub({
         segment.layer.style.zIndex = index === currentIndex ? "2" : "1";
 
         if (
+          !hasBackground &&
           y > segment.start - 1.5 * viewportHeight &&
           y < segment.end + 1.5 * viewportHeight
         ) {
@@ -661,7 +665,7 @@ export function ScrollScrub({
         segment.layer.style.removeProperty("z-index");
       }
     };
-  }, [segments]);
+  }, [segments, hasBackground]);
 
   if (scenes.length === 0) {
     return null;
@@ -681,6 +685,7 @@ export function ScrollScrub({
       style={themeStyle}
     >
       <div className="scroll-scrub__stage">
+        {background}
         <div aria-hidden="true" className="scroll-scrub__media">
           {segments.map((segment, index) => {
             const layerStyle: ThemeStyle = {

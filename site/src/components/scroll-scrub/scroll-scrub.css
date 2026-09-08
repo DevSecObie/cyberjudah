@@ -280,3 +280,5 @@
     transition: none;
   }
 }
+.lion-journey .scroll-scrub__media { display: none; }
+.lion-film { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }

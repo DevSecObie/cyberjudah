@@ -1,5 +1,5 @@
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
-import { useEffect, useState, type FormEvent } from "react";
+import { useEffect, useRef, useState, type FormEvent } from "react";
 
 import { ScrollScrub } from "@/components/scroll-scrub/scroll-scrub";
 import { scrollScrubScenes, scrollScrubTheme } from "@/scroll-scrub-scenes";
@@ -8,6 +8,63 @@ import { Motion } from "@/components/site/motion";
 import { Matrix } from "@/components/site/matrix";
 import { GlowGrid, CountUp, Typed } from "@/components/site/cyber";
 import { api, fmtDate, nf, thumbUrl, type Stats } from "@/lib/api";
+
+function LionFilm() {
+  const videoRef = useRef<HTMLVideoElement>(null);
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video) return;
+    const reduced = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const abort = new AbortController();
+    let objectUrl: string | undefined;
+    // A blob keeps seeking reliable on hosts that do not serve MP4 byte ranges.
+    void fetch("/assets/previews/reference-lion.mp4", { signal: abort.signal })
+      .then(response => {
+        if (!response.ok) throw new Error("Lion video unavailable");
+        return response.blob();
+      })
+      .then(blob => {
+        if (abort.signal.aborted) return;
+        objectUrl = URL.createObjectURL(blob);
+        video.src = objectUrl;
+        video.load();
+      })
+      .catch(() => { /* Keep the poster visible if media cannot load. */ });
+    let frame = 0;
+    const update = () => {
+      frame = 0;
+      video.pause();
+      if (!Number.isFinite(video.duration) || video.seeking) return;
+      const section = video.closest<HTMLElement>(".scroll-scrub");
+      if (!section) return;
+      const bounds = section.getBoundingClientRect();
+      const distance = Math.max(1, section.offsetHeight - window.innerHeight);
+      const progress = reduced.matches ? 0 : Math.max(0, Math.min(1, -bounds.top / distance));
+      const target = progress * Math.max(0, video.duration - 0.04);
+      if (Math.abs(video.currentTime - target) > 0.025) video.currentTime = target;
+    };
+    const schedule = () => { if (!frame) frame = requestAnimationFrame(update); };
+    window.addEventListener("scroll", schedule, { passive: true });
+    window.addEventListener("resize", schedule);
+    video.addEventListener("loadedmetadata", schedule);
+    video.addEventListener("seeked", schedule);
+    reduced.addEventListener("change", schedule);
+    schedule();
+    return () => {
+      abort.abort();
+      video.removeAttribute("src");
+      video.load();
+      if (objectUrl) URL.revokeObjectURL(objectUrl);
+      cancelAnimationFrame(frame);
+      window.removeEventListener("scroll", schedule);
+      window.removeEventListener("resize", schedule);
+      video.removeEventListener("loadedmetadata", schedule);
+      video.removeEventListener("seeked", schedule);
+      reduced.removeEventListener("change", schedule);
+    };
+  }, []);
+  return <video ref={videoRef} className="lion-film" poster="/assets/previews/cable-mane-lion.png" muted playsInline preload="metadata" aria-hidden="true" />;
+}
 
 export const Route = createFileRoute("/")({
   loader: async () => {
@@ -221,7 +278,12 @@ function Index() {
           {latestClass ? <ReadLink to={latestClass.url}>Latest class</ReadLink> : null}
           <LampButton to="/classes">Browse classes</LampButton>
         </section>
-        <ScrollScrub scenes={scrollScrubScenes} theme={scrollScrubTheme} />
+        <ScrollScrub
+          background={<LionFilm />}
+          className="lion-journey"
+          scenes={scrollScrubScenes}
+          theme={scrollScrubTheme}
+        />
         <Console />
         {stats ? <Hud stats={stats} /> : null}
         {stats ? <NewThisWeek stats={stats} /> : <div style={{ height: "3rem" }} />}
