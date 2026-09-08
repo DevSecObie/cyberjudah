@@ -60,3 +60,7 @@ __pycache__/
 # content engine output and its dependencies (engine/ is the source; dist/ is published to the data branch)
 /dist
 /engine/node_modules
+/site/node_modules
+/site/dist
+/site/.tanstack
+/site/.wrangler

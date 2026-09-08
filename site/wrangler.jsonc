@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cyberjudah",
+  "main": "dist/server/server.js",
+  "compatibility_date": "2025-05-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true },
+  "workers_dev": true,
+  // Static files in dist/client serve directly; every other path (including /) is
+  // rendered by the Worker. The domain records are created by Cloudflare on deploy.
+  "assets": { "directory": "./dist/client", "binding": "ASSETS", "not_found_handling": "none" },
+  "routes": [
+    { "pattern": "cyberjudah.io", "custom_domain": true },
+    { "pattern": "www.cyberjudah.io", "custom_domain": true }
+  ]
+}

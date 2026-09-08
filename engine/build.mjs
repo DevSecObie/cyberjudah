@@ -350,6 +350,19 @@ write(path.join(OUT, "llms.txt"), [
   console.error(`pagefind: ${records.length} records`);
 }
 
+/* ---------------- headers for hosts that honour a _headers file ---------------- */
+// Cloudflare Workers static assets (and Pages, Netlify) read this. Everything is public
+// and CORS-open; the API refreshes within five minutes of a build, the index and images
+// are content-stable and can be held longer.
+write(path.join(OUT, "_headers"), [
+  "/*", "  Access-Control-Allow-Origin: *", "  Cache-Control: public, max-age=300", "  X-Content-Type-Options: nosniff", "",
+  "/pointer.json", "  Cache-Control: public, max-age=60", "",
+  "/manifest.json", "  Cache-Control: public, max-age=60", "",
+  "/pagefind/*", "  Cache-Control: public, max-age=86400", "",
+  "/img/*", "  Cache-Control: public, max-age=604800", "",
+  "/library.sqlite.gz", "  Cache-Control: public, max-age=3600", "",
+].join("\n"));
+
 /* ---------------- manifest ---------------- */
 let commit = null;
 try { commit = execFileSync("git", ["rev-parse", "HEAD"], { cwd: ROOT, encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim(); } catch { /* not a checkout */ }
