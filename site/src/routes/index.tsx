@@ -66,7 +66,7 @@ function Console() {
           </form>
           <ul className="search-eg">
             {examples.map((eg) => (
-              <li key={eg}><ReadLink href={`/search?q=${encodeURIComponent(eg)}`}>{eg}</ReadLink></li>
+              <li key={eg}><Link to="/search" search={{ q: eg, only: undefined }} className="read-link"><span>{eg}</span><span aria-hidden="true">→</span></Link></li>
             ))}
           </ul>
         </div>
@@ -211,10 +211,16 @@ function Passage() {
 
 function Index() {
   const { stats } = Route.useLoaderData();
+  const latestClass = stats?.recent.find((note) => note.kind === "class");
   return (
     <div className="cj-shell">
       <SiteNav />
       <main>
+        <section className="cj-wrap class-shortcuts" aria-label="Class shortcuts">
+          <p>Recordings and notes for your next study.</p>
+          {latestClass ? <ReadLink to={latestClass.url}>Latest class</ReadLink> : null}
+          <LampButton to="/classes">Browse classes</LampButton>
+        </section>
         <ScrollScrub scenes={scrollScrubScenes} theme={scrollScrubTheme} />
         <Console />
         {stats ? <Hud stats={stats} /> : null}

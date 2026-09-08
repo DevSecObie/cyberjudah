@@ -1,4 +1,5 @@
 import { createServerFn } from "@tanstack/react-start";
+import { parseQuery, ftsExpr } from "./search-query";
 
 /**
  * Library search, server-side against the FTS5 table in D1 (search_docs, loaded from the
@@ -12,20 +13,6 @@ export type SearchResult =
   | { ok: false; reason: string };
 
 export const KINDS = ["verse", "law", "precept", "case", "study", "class", "captains", "history", "encyclopedia"] as const;
-
-/** Turn what a person typed into an FTS5 expression: quoted phrases stay phrases, the rest are terms. */
-export function parseQuery(q: string): { phrases: string[]; terms: string[] } {
-  const phrases: string[] = [];
-  const rest = q.replace(/"([^"]+)"/g, (_m, p: string) => { const t = tokens(p); if (t.length) phrases.push(t.join(" ")); return " "; });
-  return { phrases, terms: tokens(rest) };
-}
-const STOP = new Set(["and", "or", "not", "the", "a", "of"]);
-const tokens = (s: string) => s.toLowerCase().replace(/[^\p{L}\p{N}' ]+/gu, " ").split(/\s+/).map((t) => t.replace(/^'+|'+$/g, "")).filter((t) => t.length > 0 && !STOP.has(t));
-const quote = (t: string) => `"${t.replace(/"/g, '""')}"`;
-
-export function ftsExpr(p: { phrases: string[]; terms: string[] }, join: "AND" | "OR"): string {
-  return [...p.phrases.map(quote), ...p.terms.map(quote)].join(` ${join} `);
-}
 
 type Row = { kind: string; title: string; url: string; sub: string; snippet: string };
 

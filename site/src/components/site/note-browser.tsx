@@ -5,8 +5,7 @@ import { fmtDate, thumbUrl, type FeedRow } from "@/lib/api";
 
 /**
  * The class and episode browser. Topic chips first (that is how people look for a class),
- * then a title search, a topic dropdown, the teacher and the year. (Book filtering is
- * kept in the URL contract but not shown for now.) Every choice lives in the
+ * then a title search, topic, cited book, teacher and year. Every choice lives in the
  * URL, so a filtered view can be shared and Back undoes a chip.
  */
 export type BrowseSearch = { q?: string; topic?: string; book?: string; teacher?: string; year?: string; sort?: "new" | "old" | "az" };
@@ -64,6 +63,7 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
     return [...m.entries()].sort((a, b) => (label.get(a[0]) ?? a[0]).localeCompare(label.get(b[0]) ?? b[0]));
   }, [rows, label]);
   const teachers = useMemo(() => [...new Set(rows.map((r) => r.teacher || "Not recorded"))].sort(), [rows]);
+  const books = useMemo(() => [...new Set(rows.flatMap((r) => r.allBooks ?? r.books))].sort((a, b) => a.localeCompare(b)), [rows]);
   const years = useMemo(() => [...new Set(rows.map((r) => r.year).filter(Boolean))].sort().reverse(), [rows]);
   const active = [search.q, search.book, search.teacher, search.year, ...picked].filter(Boolean).length;
 
@@ -76,9 +76,14 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
           <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search titles, teachers and topics" aria-label="Search" className="browse__q" />
           <select value={picked.length === 1 ? picked[0] : ""} onChange={(e) => set({ topic: e.target.value || undefined })} aria-label="Topic"><option value="">{picked.length > 1 ? `${picked.length} topics` : "Any topic"}</option>{allTopics.map(([t, n]) => <option key={t} value={t}>{label.get(t) ?? t} ({n})</option>)}</select>
           <select value={search.teacher ?? ""} onChange={(e) => set({ teacher: e.target.value || undefined })} aria-label="Teacher"><option value="">Any teacher</option>{teachers.map((t) => <option key={t} value={t}>{t}</option>)}</select>
+          <select value={search.book ?? ""} onChange={(e) => set({ book: e.target.value || undefined })} aria-label="Book cited"><option value="">Any book cited</option>{books.map((book) => <option key={book} value={book}>{book}</option>)}</select>
           {years.length > 1 ? <select value={search.year ?? ""} onChange={(e) => set({ year: e.target.value || undefined })} aria-label="Year"><option value="">Any year</option>{years.map((y) => <option key={y} value={y}>{y}</option>)}</select> : null}
           <select value={search.sort ?? "new"} onChange={(e) => set({ sort: e.target.value === "new" ? undefined : (e.target.value as "old" | "az") })} aria-label="Sort"><option value="new">Newest</option><option value="old">Oldest</option><option value="az">A to Z</option></select>
         </div>
+        <p className="browse__fulltext">
+          <Link to="/search" search={{ q: q.trim(), only: route === "/classes" ? "class" : "captains" }}>Search inside {route === "/classes" ? "class" : "episode"} notes →</Link>
+          <span> Full text across this collection; browse filters do not apply.</span>
+        </p>
         {topicCounts.length ? (
           <div className="browse__topics" role="group" aria-label="Topics">
             {shownTopics.map(([t, n]) => (

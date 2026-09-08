@@ -228,7 +228,7 @@
   padding: 0.45rem 0.7rem;
   cursor: pointer;
 }
-@media (max-width: 860px) {
+@media (max-width: 1400px) {
   .cj-nav__links {
     display: none;
     position: absolute;
@@ -289,6 +289,11 @@
   width: min(100% - 2 * clamp(1rem, 3vw, 2.5rem), 76rem);
   margin-inline: auto;
 }
+.class-shortcuts { display: flex; flex-wrap: wrap; align-items: center; gap: .8rem 1.5rem; padding-block: 1rem; }
+.class-shortcuts p { flex: 1 1 18rem; margin: 0; font-size: 1rem; }
+.class-shortcuts a { flex-shrink: 0; }
+.browse__fulltext { margin: .8rem 0; font-size: 1rem; }
+.browse__row > input, .browse__row > select { min-width: 0; max-width: 100%; }
 .cj-page {
   padding: clamp(2rem, 5vh, 4rem) 0 clamp(3rem, 8vh, 6rem);
 }

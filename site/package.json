@@ -4,6 +4,7 @@
   "type": "module",
   "description": "The CyberJudah front end: TanStack Start on Cloudflare Workers, reading the content engine's data set.",
   "scripts": {
+    "test": "node --test tests/*.test.mjs",
     "dev": "vite dev",
     "build": "tsr generate && tsc --noEmit && vite build",
     "typecheck": "tsr generate && tsc --noEmit",
