@@ -181,7 +181,7 @@ const historyTurns = new Map();
 for (const h of L.history) {
   const turns = transcriptTurns(h);
   historyTurns.set(h.slug, turns);
-  writeJson(path.join(API, "history", `${h.slug}.json`), { ...historyRows.find((r) => r.slug === h.slug), rawTitle: h.rawTitle, start: h.start, body: h.body || null, turns });
+  writeJson(path.join(API, "history", ...h.slug.split("/")).replace(/$/, ".json"), { ...historyRows.find((r) => r.slug === h.slug), rawTitle: h.rawTitle, start: h.start, body: h.body || null, turns });
 }
 console.error(`history: ${L.history.length} episodes, ${L.history.filter((h) => h.noted).length} written up`);
 

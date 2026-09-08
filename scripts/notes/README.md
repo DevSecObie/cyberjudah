@@ -97,6 +97,51 @@ the last pass every `strong` case is already filled in, so the remainder need th
 `teachers.py` never overwrites a name you have set unless you ask it to, and `tag-notes.mjs`
 leaves an existing `teacher` alone unless run with `--reset`.
 
+## Our Hidden History episodes
+
+Our Hidden History Radio (`history/`) is the third feed and follows everything above, with
+these differences. The episodes are book-heavy: Deacon Eythan and the guests read from
+history books at length and turn to scripture as they go.
+
+- **File**: `history/notes/<year>/<date>-<slug>.md`. The slug is NOT invented: it is the
+  `slug` field of the episode's transcript in `history/transcripts/<videoId>.json`, e.g.
+  `2026/2026-09-06-ep-206-the-prophet-and-the-fourth-beast-pt-2`, so the page keeps its
+  address once the write-up lands. `lint.py` fails a note whose slug differs. The transcript
+  must exist before the note; ingest it first (see `history/README.md`).
+- **Frontmatter**: `title` is the transcript's `cleanTitle` unless the recording gives a
+  better one; add `episode: 206` when the title carries a number. `tags` start with
+  `"Our Hidden History"`. `teacher` is `Deacon Eythan` unless someone else says he is
+  teaching; guests who read or comment are named in the body where they speak, not in
+  `teacher`.
+- **Start where the speakers start**: the transcript's `start` is the second the talk
+  begins after the intro music. Nothing before it belongs in the note.
+- **Book readings are quoted, verbatim, in blockquotes**. Every time a book is read from,
+  introduce it on its own line with the title, author and page where they are stated, then
+  the reading as a `>` blockquote, then his commentary as bullets in his own words:
+
+  ```
+  Reading from *Nature Knows No Color-Line* by J. A. Rogers, page 169  *[41:12]*
+
+  > The exact words read, as long as the reading ran. Do not shorten it. Do not fix his
+  > phrasing; do fix caption misspellings of names and places when the book itself makes
+  > the spelling plain.
+
+  - What he said about it, phrase by phrase, in his words.
+  ```
+
+  Sources are listed again under `## Announcements & References` at the end: every book,
+  article or site read from, once each, with page ranges.
+- **Scripture** is handled exactly as in the classes: `S()` blocks with the verses pulled
+  from `data/bible`, checked by `check.py`, never typed by hand, every reference checked
+  with `v.py` before writing. Captions spell references badly ("first Maccabees", "Ecclesiastes
+  chapter 44" for Ecclesiasticus); resolve them from what was actually read aloud.
+- **Sections**: `## Introduction`, `## Readings and Scriptures` in the order of the episode
+  (readings and scriptures interleave as they did on air), `## In Closing`, `## Announcements
+  & References`. The linter requires the first two for this feed.
+- **Nav line**: `[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=<video-id>)`.
+- Word counts: a 2.5 hour episode with readings runs 15,000 to 25,000 words. It is long
+  because the readings are long. That is the point.
+
 File path is `blog/2026/YYYY-MM-DD-<slug-without-date>.md` where the slug itself
 already starts with the date, so the date appears twice in the filename. Captains
 notes use `captains/2026/` and a nav line reading

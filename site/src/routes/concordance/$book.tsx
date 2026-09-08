@@ -16,7 +16,7 @@ export const Route = createFileRoute("/concordance/$book")({
 });
 
 const GROUPS: { label: string; shelves: ReturnType<typeof shelf>[] }[] = [
-  { label: "Notes and classes", shelves: ["study", "class", "captains", "other"] },
+  { label: "Notes and classes", shelves: ["study", "class", "captains", "history", "other"] },
   { label: "Encyclopedia", shelves: ["encyclopedia"] },
   { label: "Cases", shelves: ["case"] },
   { label: "Precepts", shelves: ["precept"] },

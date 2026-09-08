@@ -25,7 +25,6 @@ import { Route as ConcordanceBookRouteImport } from './routes/concordance/$book'
 import { Route as EncyclopediaIndexRouteImport } from './routes/encyclopedia/index'
 import { Route as EncyclopediaSlugRouteImport } from './routes/encyclopedia/$slug'
 import { Route as HistoryIndexRouteImport } from './routes/history/index'
-import { Route as HistorySlugRouteImport } from './routes/history/$slug'
 import { Route as LawIndexRouteImport } from './routes/law/index'
 import { Route as PreceptsIndexRouteImport } from './routes/precepts/index'
 import { Route as PreceptsSlugRouteImport } from './routes/precepts/$slug'
@@ -37,6 +36,7 @@ import { Route as BibleBookChapterRouteImport } from './routes/bible/$book/$chap
 import { Route as CaptainsYearSlugRouteImport } from './routes/captains/$year/$slug'
 import { Route as CasesEraSlugRouteImport } from './routes/cases/$era/$slug'
 import { Route as ClassesYearSlugRouteImport } from './routes/classes/$year/$slug'
+import { Route as HistoryYearSlugRouteImport } from './routes/history/$year/$slug'
 import { Route as LawPartIndexRouteImport } from './routes/law/$part/index'
 import { Route as LawPartSectionRouteImport } from './routes/law/$part/$section'
 import { Route as StudyBookIndexRouteImport } from './routes/study/$book/index'
@@ -122,11 +122,6 @@ const HistoryIndexRoute = HistoryIndexRouteImport.update({
   path: '/history/',
   getParentRoute: () => rootRouteImport,
 } as any)
-const HistorySlugRoute = HistorySlugRouteImport.update({
-  id: '/history/$slug',
-  path: '/history/$slug',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const LawIndexRoute = LawIndexRouteImport.update({
   id: '/law/',
   path: '/law/',
@@ -182,6 +177,11 @@ const ClassesYearSlugRoute = ClassesYearSlugRouteImport.update({
   path: '/classes/$year/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const HistoryYearSlugRoute = HistoryYearSlugRouteImport.update({
+  id: '/history/$year/$slug',
+  path: '/history/$year/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const LawPartIndexRoute = LawPartIndexRouteImport.update({
   id: '/law/$part/',
   path: '/law/$part/',
@@ -213,7 +213,6 @@ export interface FileRoutesByFullPath {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
-  '/history/$slug': typeof HistorySlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/bible/': typeof BibleIndexRoute
@@ -231,6 +230,7 @@ export interface FileRoutesByFullPath {
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
   '/classes/$year/$slug': typeof ClassesYearSlugRoute
+  '/history/$year/$slug': typeof HistoryYearSlugRoute
   '/law/$part/$section': typeof LawPartSectionRoute
   '/study/$book/$chapter': typeof StudyBookChapterRoute
   '/bible/$book/': typeof BibleBookIndexRoute
@@ -247,7 +247,6 @@ export interface FileRoutesByTo {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
-  '/history/$slug': typeof HistorySlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/bible': typeof BibleIndexRoute
@@ -265,6 +264,7 @@ export interface FileRoutesByTo {
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
   '/classes/$year/$slug': typeof ClassesYearSlugRoute
+  '/history/$year/$slug': typeof HistoryYearSlugRoute
   '/law/$part/$section': typeof LawPartSectionRoute
   '/study/$book/$chapter': typeof StudyBookChapterRoute
   '/bible/$book': typeof BibleBookIndexRoute
@@ -282,7 +282,6 @@ export interface FileRoutesById {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
-  '/history/$slug': typeof HistorySlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/bible/': typeof BibleIndexRoute
@@ -300,6 +299,7 @@ export interface FileRoutesById {
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
   '/classes/$year/$slug': typeof ClassesYearSlugRoute
+  '/history/$year/$slug': typeof HistoryYearSlugRoute
   '/law/$part/$section': typeof LawPartSectionRoute
   '/study/$book/$chapter': typeof StudyBookChapterRoute
   '/bible/$book/': typeof BibleBookIndexRoute
@@ -318,7 +318,6 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
-    | '/history/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
     | '/bible/'
@@ -336,6 +335,7 @@ export interface FileRouteTypes {
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
     | '/classes/$year/$slug'
+    | '/history/$year/$slug'
     | '/law/$part/$section'
     | '/study/$book/$chapter'
     | '/bible/$book/'
@@ -352,7 +352,6 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
-    | '/history/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
     | '/bible'
@@ -370,6 +369,7 @@ export interface FileRouteTypes {
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
     | '/classes/$year/$slug'
+    | '/history/$year/$slug'
     | '/law/$part/$section'
     | '/study/$book/$chapter'
     | '/bible/$book'
@@ -386,7 +386,6 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
-    | '/history/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
     | '/bible/'
@@ -404,6 +403,7 @@ export interface FileRouteTypes {
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
     | '/classes/$year/$slug'
+    | '/history/$year/$slug'
     | '/law/$part/$section'
     | '/study/$book/$chapter'
     | '/bible/$book/'
@@ -421,7 +421,6 @@ export interface RootRouteChildren {
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
-  HistorySlugRoute: typeof HistorySlugRoute
   PreceptsSlugRoute: typeof PreceptsSlugRoute
   TopicsSlugRoute: typeof TopicsSlugRoute
   BibleIndexRoute: typeof BibleIndexRoute
@@ -439,6 +438,7 @@ export interface RootRouteChildren {
   CaptainsYearSlugRoute: typeof CaptainsYearSlugRoute
   CasesEraSlugRoute: typeof CasesEraSlugRoute
   ClassesYearSlugRoute: typeof ClassesYearSlugRoute
+  HistoryYearSlugRoute: typeof HistoryYearSlugRoute
   LawPartSectionRoute: typeof LawPartSectionRoute
   StudyBookChapterRoute: typeof StudyBookChapterRoute
   BibleBookIndexRoute: typeof BibleBookIndexRoute
@@ -560,13 +560,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HistoryIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/history/$slug': {
-      id: '/history/$slug'
-      path: '/history/$slug'
-      fullPath: '/history/$slug'
-      preLoaderRoute: typeof HistorySlugRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/law/': {
       id: '/law/'
       path: '/law'
@@ -644,6 +637,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ClassesYearSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/history/$year/$slug': {
+      id: '/history/$year/$slug'
+      path: '/history/$year/$slug'
+      fullPath: '/history/$year/$slug'
+      preLoaderRoute: typeof HistoryYearSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/law/$part/': {
       id: '/law/$part/'
       path: '/law/$part'
@@ -685,7 +685,6 @@ const rootRouteChildren: RootRouteChildren = {
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,
-  HistorySlugRoute: HistorySlugRoute,
   PreceptsSlugRoute: PreceptsSlugRoute,
   TopicsSlugRoute: TopicsSlugRoute,
   BibleIndexRoute: BibleIndexRoute,
@@ -703,6 +702,7 @@ const rootRouteChildren: RootRouteChildren = {
   CaptainsYearSlugRoute: CaptainsYearSlugRoute,
   CasesEraSlugRoute: CasesEraSlugRoute,
   ClassesYearSlugRoute: ClassesYearSlugRoute,
+  HistoryYearSlugRoute: HistoryYearSlugRoute,
   LawPartSectionRoute: LawPartSectionRoute,
   StudyBookChapterRoute: StudyBookChapterRoute,
   BibleBookIndexRoute: BibleBookIndexRoute,

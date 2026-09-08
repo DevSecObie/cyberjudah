@@ -34,6 +34,7 @@ const FORCE = process.argv.includes("--force");   // ...even where that discards
 const FEEDS = [
   { dir: path.join(ROOT, "blog"), series: "IUIC in the ClassRoom" },
   { dir: path.join(ROOT, "captains"), series: "15 Minutes w/ The Captains" },
+  { dir: path.join(ROOT, "history", "notes"), series: "Our Hidden History" },
 ];
 
 /* ---------------- topics ---------------- */

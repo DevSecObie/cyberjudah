@@ -27,6 +27,7 @@ const DRY = process.argv.includes("--dry");
 const FEEDS = [
   { dir: path.join(ROOT, "blog"), index: "[Class Notes Index](/classes)", watch: "Watch the full session" },
   { dir: path.join(ROOT, "captains"), index: "[15 Minutes Index](/captains)", watch: "Watch the full episode" },
+  { dir: path.join(ROOT, "history", "notes"), index: "[Our Hidden History Index](/history)", watch: "Watch the full episode" },
 ];
 
 // "18:01" and "2:23:09". Wrapped in the italics the notes already use, and never already a link.
@@ -47,7 +48,7 @@ for (const feed of FEEDS) {
 
       // The footer, whichever feed it belongs to. The old link is replaced wholesale so a
       // rerun cannot match it twice.
-      const footer = /^\[(?:Class Notes Index|15 Minutes Index)\]\([^)]*\) \| Transcript: \[full (?:session|episode)\]\([^)]*\)$/m;
+      const footer = /^\[(?:Class Notes Index|15 Minutes Index|Our Hidden History Index)\]\([^)]*\) \| Transcript: \[full (?:session|episode)\]\([^)]*\)$/m;
       if (footer.test(after)) {
         after = after.replace(footer, videoId
           ? `${feed.index} · [${feed.watch} on YouTube ↗](${watchUrl(videoId)})`

@@ -45,6 +45,29 @@ def speech_start(segs):
         if all(real(segs[i + k]) for k in range(5)): return segs[i][0]
     return segs[0][0] if segs else 0
 
+SMALL = {"a", "an", "and", "as", "at", "but", "by", "for", "in", "of", "on", "or", "the", "to", "vs", "with"}
+
+def clean_title(raw):
+    """'OUR HIDDEN HISTORY | THE PROPHET AND THE FOURTH BEAST PT 2 EP 206' -> 'The Prophet and the Fourth Beast Pt 2'."""
+    t = re.sub(r"\(previously aired\)", "", raw, flags=re.I)
+    t = re.sub(r"^\s*(our hidden history|ohh)\s*[|:-]\s*", "", t, flags=re.I)
+    t = re.sub(r"\s*[|:-]?\s*\bep(?:isode)?\.?\s*\d+\b\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s+", " ", t).strip()
+    if t == t.upper():
+        words = t.lower().split(" ")
+        t = " ".join(w if (w in SMALL and i > 0) else w[:1].upper() + w[1:] for i, w in enumerate(words))
+    return t or raw
+
+def slugify(t):
+    return re.sub(r"^-|-$", "", re.sub(r"[^a-z0-9]+", "-", t.lower()))[:80].rstrip("-")
+
+def episode_slug(title, episode, date):
+    """Same shape as a class note: <year>/<date>-<slug>. The note for the episode uses this
+    exact slug, so the page keeps its address when the write-up lands."""
+    base = (f"ep-{episode}-" if episode else "") + slugify(clean_title(title))
+    year = (date or "0000")[:4]
+    return f"{year}/{date or 'undated'}-{base}"
+
 def episode_number(title):
     m = re.search(r"\bEP(?:ISODE)?\.?\s*(\d+)\b", title, re.I)
     return int(m.group(1)) if m else None
@@ -55,7 +78,8 @@ def main():
     ap.add_argument("--date", default=None); ap.add_argument("--duration", type=float, default=None); ap.add_argument("--views", type=int, default=None)
     a = ap.parse_args()
     segs = load(a.caption)
-    rec = {"videoId": a.id, "title": a.title.strip(), "episode": episode_number(a.title), "date": a.date, "duration": a.duration, "views": a.views,
+    ep = episode_number(a.title)
+    rec = {"videoId": a.id, "title": a.title.strip(), "cleanTitle": clean_title(a.title), "episode": ep, "slug": episode_slug(a.title, ep, a.date), "date": a.date, "duration": a.duration, "views": a.views,
            "start": speech_start(segs), "words": sum(len(s[1].split()) for s in segs), "segments": segs}
     os.makedirs(OUT, exist_ok=True)
     p = os.path.join(OUT, f"{a.id}.json")

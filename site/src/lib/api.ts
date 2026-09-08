@@ -77,7 +77,7 @@ export type Chapter = { book: string; chapter: number; verses: Verse[] };
 export type Citation = { kind: string; label: string; url: string; verses?: string };
 export type Concordance = { cited_by: Citation[] };
 export type NoteIndexRow = {
-  kind: "study" | "class" | "captains" | "encyclopedia";
+  kind: "study" | "class" | "captains" | "history" | "encyclopedia";
   title: string;
   url: string;
   book?: string;

@@ -17,7 +17,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DRY = process.argv.includes("--dry");
-const FEED_DIRS = [path.join(ROOT, "blog"), path.join(ROOT, "captains")];
+const FEED_DIRS = [path.join(ROOT, "blog"), path.join(ROOT, "captains"), path.join(ROOT, "history", "notes")];
 
 const bibleIndex = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", "index.json"), "utf8"));
 const bookBySlug = Object.fromEntries(bibleIndex.map((e) => [e.slug, e.book]));

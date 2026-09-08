@@ -30,7 +30,7 @@ function loadDoc(c: Citation): Promise<Doc> {
   const s = shelf(c);
   const run = async (): Promise<Doc> => {
     try {
-      if (s === "study" || s === "class" || s === "captains" || s === "encyclopedia") {
+      if (s === "study" || s === "class" || s === "captains" || s === "history" || s === "encyclopedia") {
         const note = await api.note(c.url);
         return { kind: "note", note, html: renderNote(note.body) };
       }
@@ -59,12 +59,12 @@ function loadDoc(c: Citation): Promise<Doc> {
 }
 
 const GROUPS: { id: string; label: string; shelves: ReturnType<typeof shelf>[] }[] = [
-  { id: "notes", label: "Notes", shelves: ["study", "class", "captains", "encyclopedia", "other"] },
+  { id: "notes", label: "Notes", shelves: ["study", "class", "captains", "history", "encyclopedia", "other"] },
   { id: "law", label: "Law", shelves: ["law"] },
   { id: "precepts", label: "Precepts", shelves: ["precept"] },
   { id: "cases", label: "Cases", shelves: ["case"] },
 ];
-const SHELF_LABEL: Record<string, string> = { study: "4 Chapters a Day", class: "Sabbath class", captains: "15 Min w/Captains", encyclopedia: "Encyclopedia", law: "Law", precept: "Precept", case: "Case", other: "Note" };
+const SHELF_LABEL: Record<string, string> = { study: "4 Chapters a Day", class: "Sabbath class", captains: "15 Min w/Captains", history: "Our Hidden History", encyclopedia: "Encyclopedia", law: "Law", precept: "Precept", case: "Case", other: "Note" };
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
@@ -146,7 +146,7 @@ export function StudyPanel({
   );
 }
 
-const PANEL_KINDS = ["/study/", "/classes/", "/captains/", "/cases/", "/encyclopedia/", "/precepts/"];
+const PANEL_KINDS = ["/study/", "/classes/", "/captains/", "/history/", "/cases/", "/encyclopedia/", "/precepts/"];
 
 function DocView({ c, books, from, onBack, onGo, onStudy }: { c: Citation; books: Book[]; from: From; onBack: () => void; onGo: (ref: Ref) => void; onStudy: (url: string) => void }) {
   const [doc, setDoc] = useState<Doc | null>(null);

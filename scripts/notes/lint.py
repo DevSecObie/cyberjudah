@@ -20,8 +20,8 @@ import os, re, sys, glob, json
 
 ROOT = os.environ.get("CJ_ROOT") or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TITLES = ("Bishop", "Deacon", "Captain", "Elder", "Officer")
-SERIES = {"blog": "IUIC in the ClassRoom", "captains": "15 Minutes w/ The Captains"}
-INDEX = {"blog": "[Class Notes Index](/classes)", "captains": "[15 Minutes Index](/captains)"}
+SERIES = {"blog": "IUIC in the ClassRoom", "captains": "15 Minutes w/ The Captains", "history": "Our Hidden History"}
+INDEX = {"blog": "[Class Notes Index](/classes)", "captains": "[15 Minutes Index](/captains)", "history": "[Our Hidden History Index](/history)"}
 # Structural: every note has these, and their absence means the note is malformed.
 REQUIRED_SECTIONS = ["## Introduction", "## Scriptures Opened"]
 # Expected, but a class can simply end -- two do. Whether the teacher gave closing words is a
@@ -55,7 +55,7 @@ def lint(path):
     """Returns (errors, warnings) as lists of strings."""
     E, W = [], []
     rel = os.path.relpath(path, ROOT)
-    feed = "blog" if rel.startswith("blog") else "captains"
+    feed = "blog" if rel.startswith("blog") else "history" if rel.startswith("history") else "captains"
     text = open(path, encoding="utf-8").read()
 
     # ---- frontmatter ----
@@ -87,6 +87,17 @@ def lint(path):
         E.append(f"{rel}: slug {slug!r} does not start with the year of date {date!r}")
     if slug and os.path.basename(path)[:-3] != f"{date}-{slug.split('/')[-1]}":
         W.append(f"{rel}: filename does not match `<date>-<slug>`")
+
+    # ---- Our Hidden History: the note's slug is the transcript's, so the page keeps its address ----
+    if feed == "history":
+        vid_m = re.search(r'data-video-id="([^"]*)"', body)
+        tpath = f"{ROOT}/history/transcripts/{vid_m.group(1)}.json" if vid_m else None
+        if not tpath or not os.path.exists(tpath):
+            E.append(f"{rel}: no transcript in history/transcripts for this video id; ingest it first")
+        else:
+            tslug = json.load(open(tpath)).get("slug")
+            if tslug and slug != tslug:
+                E.append(f"{rel}: slug {slug!r} must be the transcript's {tslug!r}")
 
     # ---- tags ----
     raw = seen.get("tags", ["[]"])[0]
@@ -124,7 +135,7 @@ def lint(path):
     if '<span class="opens">' not in body:
         W.append(f"{rel}: no `Opens` line -- run `npm run notes:fix`")
 
-    for s in REQUIRED_SECTIONS:
+    for s in (["## Introduction", "## Readings and Scriptures"] if feed == "history" else REQUIRED_SECTIONS):
         if s not in body:
             E.append(f"{rel}: no `{s}` section")
     for s in EXPECTED_SECTIONS:
@@ -144,7 +155,7 @@ def lint(path):
             W.append(f"{rel}: {unlinked} timestamps not linked to the recording -- run `npm run notes:fix`")
 
     # ---- the nav line ----
-    nav = re.search(r"^\[(?:Class Notes|15 Minutes) Index\]\([^)]*\).*$", body, re.M)
+    nav = re.search(r"^\[(?:Class Notes|15 Minutes|Our Hidden History) Index\]\([^)]*\).*$", body, re.M)
     if not nav:
         E.append(f"{rel}: no nav line at the end of the note")
     else:
@@ -172,7 +183,7 @@ def main(argv):
     quiet = "--quiet" in argv
     paths = [a for a in argv if not a.startswith("-")]
     if not paths:
-        paths = sorted(glob.glob(f"{ROOT}/blog/*/*.md")) + sorted(glob.glob(f"{ROOT}/captains/*/*.md"))
+        paths = sorted(glob.glob(f"{ROOT}/blog/*/*.md")) + sorted(glob.glob(f"{ROOT}/captains/*/*.md")) + sorted(glob.glob(f"{ROOT}/history/notes/*/*.md"))
     errors = warnings = 0
     for p in paths:
         E, W = lint(p)

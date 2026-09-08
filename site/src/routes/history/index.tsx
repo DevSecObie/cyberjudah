@@ -45,10 +45,10 @@ function HistoryIndex() {
       <div className="card-grid">
         {hits.map((r) => (
           <div key={r.slug} className="rail-card rail-card--browse">
-            <Link to="/history/$slug" params={{ slug: r.slug }} className="rail-card__media"><img src={r.thumb} alt="" loading="lazy" width={320} height={180} /></Link>
+            <Link to={r.url as never} className="rail-card__media"><img src={r.thumb} alt="" loading="lazy" width={320} height={180} /></Link>
             <div className="rail-card__body">
               <span className="cj-mono">{r.episode ? `EP ${r.episode} · ` : ""}{r.date ? fmtDate(r.date) : ""}{r.duration ? ` · ${hms(r.duration)}` : ""}</span>
-              <h3><Link to="/history/$slug" params={{ slug: r.slug }}>{r.title}</Link></h3>
+              <h3><Link to={r.url as never}>{r.title}</Link></h3>
               {r.noted ? <span className="cj-mono" style={{ color: "var(--color-amber)" }}>Written up</span> : null}
             </div>
           </div>

@@ -58,12 +58,12 @@ export function verseCounts(list: Citation[]): Map<number, number> {
 }
 
 export const KIND_LABEL: Record<string, string> = {
-  note: "Note", study: "Study", class: "Class", captains: "Episode", encyclopedia: "Encyclopedia",
+  note: "Note", study: "Study", class: "Class", captains: "Episode", history: "Our Hidden History", encyclopedia: "Encyclopedia",
   law: "Law", precept: "Precept", case: "Case",
 };
 
 /** The concordance calls every note "note"; the URL tells which shelf it is on. */
-export function shelf(c: Citation): "study" | "class" | "captains" | "encyclopedia" | "law" | "precept" | "case" | "other" {
+export function shelf(c: Citation): "study" | "class" | "captains" | "history" | "encyclopedia" | "law" | "precept" | "case" | "other" {
   if (c.kind === "law" || c.kind === "precept" || c.kind === "case") return c.kind;
   if (c.url.startsWith("/law/")) return "law";
   if (c.url.startsWith("/precepts/")) return "precept";
@@ -71,6 +71,7 @@ export function shelf(c: Citation): "study" | "class" | "captains" | "encycloped
   if (c.url.startsWith("/study/")) return "study";
   if (c.url.startsWith("/classes/")) return "class";
   if (c.url.startsWith("/captains/")) return "captains";
+  if (c.url.startsWith("/history/")) return "history";
   if (c.url.startsWith("/encyclopedia/")) return "encyclopedia";
   return "other";
 }

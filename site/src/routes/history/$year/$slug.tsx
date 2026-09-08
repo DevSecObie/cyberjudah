@@ -6,11 +6,11 @@ import { NoteWithContents } from "@/components/site/contents-rail";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api, fmtDate } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
-import { hms } from "./index";
+import { hms } from "../index";
 
-export const Route = createFileRoute("/history/$slug")({
+export const Route = createFileRoute("/history/$year/$slug")({
   loader: async ({ params }) => {
-    const [ep, all] = await Promise.all([api.episode(params.slug).catch(() => null), api.history()]);
+    const [ep, all] = await Promise.all([api.episode(`${params.year}/${params.slug}`).catch(() => null), api.history()]);
     if (!ep) throw notFound();
     const i = all.findIndex((r) => r.slug === ep.slug);
     return { ep, html: ep.body ? renderNote(ep.body) : null, lede: ep.body ? plainLede(ep.body) : (ep.turns[0]?.text.slice(0, 160) ?? ""), prev: all[i + 1] ?? null, next: all[i - 1] ?? null };
@@ -67,8 +67,8 @@ function EpisodePage() {
         </div>
       </section>
       <div className="pager">
-        {prev ? <Link to="/history/$slug" params={{ slug: prev.slug }} className="read-link"><span>{prev.episode ? `EP ${prev.episode} · ` : ""}{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/history">All episodes</ReadLink>}
-        {next ? <Link to="/history/$slug" params={{ slug: next.slug }} className="read-link"><span>{next.episode ? `EP ${next.episode} · ` : ""}{next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/history">All episodes</ReadLink>}
+        {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.episode ? `EP ${prev.episode} · ` : ""}{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/history">All episodes</ReadLink>}
+        {next ? <Link to={next.url as never} className="read-link"><span>{next.episode ? `EP ${next.episode} · ` : ""}{next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/history">All episodes</ReadLink>}
       </div>
     </Page>
   );
