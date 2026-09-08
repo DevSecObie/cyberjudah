@@ -1,6 +1,23 @@
 import { test, expect } from "@playwright/test";
 import type { FeedRow } from "../src/lib/api";
 
+test("case judgment filter narrows results and survives reload", async ({ page }) => {
+  await page.goto("/cases");
+  const filter = page.getByRole("combobox", { name: "Judgment", exact: true });
+  await filter.selectOption("death");
+  await expect(page).toHaveURL(/verdict=death/);
+  await expect(page.locator("main .verdict").first()).toBeVisible();
+  for (const label of await page.locator("main .verdict").allTextContents()) expect(label).toBe("Put to death");
+  await page.reload();
+  await expect(filter).toHaveValue("death");
+  await filter.selectOption("blessed");
+  await expect(page.locator("main .verdict").first()).toHaveText("Kept the law");
+  await expect(page.locator("main .verdict--death")).toHaveCount(0);
+  await page.getByRole("link", { name: "Clear filter", exact: true }).click();
+  await expect(filter).toHaveValue("");
+  await expect(page.locator("main .verdict--death").first()).toBeVisible();
+});
+
 test("navigation fits and primary sections remain reachable", async ({ page }) => {
   await page.goto("/classes");
   const header = page.locator("header.cj-nav");

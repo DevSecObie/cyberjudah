@@ -29,6 +29,38 @@
  },
  "cases": [
   {
+   "slug": "the-man-who-refused-the-prophetic-command",
+   "name": "The man who refused the prophetic command",
+   "era": "Divided Kingdom",
+   "charge": "Refusing a command delivered in the word of the Lord",
+   "verdict": "death",
+   "summary": "A man of the sons of the prophets asked his neighbour to strike him in the word of the Lord. The neighbour refused. The prophet announced that a lion would kill him, and the stated judgment followed.",
+   "offense": "The prophet identifies the refusal as disobedience to the voice of the Lord. This is a particular prophetic command in the narrative, not a general permission to strike someone who asks. The passage does not supply the neighbour's motive for refusing.",
+   "judgment": "After the man departed, a lion found and killed him. Another man then struck and wounded the prophet, who used his disguise in the encounter with Ahab that follows. This event is distinct from the death of the man of God from Judah in 1 Kings 13.",
+   "refs": [
+    { "book": "1 Kings", "chapter": 20, "verses": "35-43" }
+   ],
+   "laws": ["2H"],
+   "topics": ["obedience"],
+   "themes": ["disobedience"]
+  },
+  {
+   "slug": "the-two-women-before-solomon",
+   "name": "The two women before Solomon",
+   "era": "United Monarchy",
+   "charge": "Conflicting claims to a living child",
+   "verdict": "unrecorded",
+   "summary": "Two women brought competing claims to a living infant before Solomon. One alleged that the other had exchanged their children after her own child died. Solomon tested their responses to a proposed division of the child and identified his mother.",
+   "offense": "The account first presents the exchange of the children as one woman's testimony. Both women claimed the surviving child. The narrator identifies the mother through her compassion: she preferred to surrender the child rather than see him killed.",
+   "judgment": "Solomon ordered that the living child be given to his mother and not killed. Israel recognized the wisdom of God in his judgment. The custody decision is explicit; no punishment of the false claimant is recorded. The unrecorded classification refers only to that punishment, not to an absence of a judicial decision.",
+   "refs": [
+    { "book": "1 Kings", "chapter": 3, "verses": "16-28" }
+   ],
+   "laws": ["4F", "8A"],
+   "topics": ["justice", "wisdom"],
+   "themes": ["justice", "wisdom", "deceit"]
+  },
+  {
    "slug": "adam-and-eve",
    "name": "Adam and Eve",
    "era": "Primeval",
@@ -153,10 +185,10 @@
    "slug": "ham",
    "name": "Ham and the curse on Canaan",
    "era": "Primeval",
-   "charge": "Uncovering and publishing his father's nakedness",
+   "charge": "Seeing his father's nakedness and telling his brothers",
    "verdict": "curse",
    "summary": "Noah drank of his vineyard and lay uncovered in his tent. Ham saw his father's nakedness and told his two brothers outside, who walked in backward with a garment and covered him without looking.",
-   "offense": "Dishonor of a father, in the very thing the law later forbids: the nakedness of thy father thou shalt not uncover. Shem and Japheth showed what honor looks like; Ham showed the opposite and made it public.",
+   "offense": "Genesis says Ham saw his father's nakedness and told his two brothers outside; it does not explicitly say that Ham uncovered Noah. Shem and Japheth covered their father without looking. The connection to laws about honoring parents and nakedness is an interpretive comparison, not an additional act stated in the narrative.",
    "judgment": "When Noah awoke and knew what his younger son had done to him, he cursed Canaan, Ham's son: a servant of servants shall he be unto his brethren. Shem and Japheth were blessed in the same breath.",
    "refs": [
     {
@@ -2929,9 +2961,9 @@
    "era": "Wilderness",
    "charge": "Working on the Sabbath",
    "verdict": "death",
-   "summary": "A man was found gathering sticks on the Sabbath day. Because the penalty had not yet been specified, he was held while the Lord's judgment was sought.",
-   "offense": "The command to keep the Sabbath was already given; his act of gathering fuel was plain work on the day of rest, done openly and witnessed.",
-   "judgment": "The Lord commanded that he be put to death; the congregation stoned him outside the camp. A hard case, preserved precisely because the sentence was not obvious and had to be asked.",
+   "summary": "A man was found gathering sticks on the Sabbath day and was held because it had not been declared what should be done to him. The Lord then gave Moses the instruction for this case.",
+   "offense": "The witnesses found him gathering sticks on the Sabbath and brought him to Moses, Aaron, and the congregation. Exodus 31:14-15 and 35:2 already prescribe death for Sabbath work. Numbers does not state his motive or what he intended to do with the sticks.",
+   "judgment": "The Lord instructed Moses that the man must be put to death by stoning outside the camp, and the congregation carried out that command. Numbers 15:34 describes uncertainty about what should be done to this man; it should not be read as saying that no Sabbath death penalty had previously been stated.",
    "refs": [
     {
      "book": "Numbers",
@@ -9662,10 +9694,10 @@
    "name": "The young mockers of Bethel",
    "era": "Divided Kingdom",
    "charge": "Mocking the prophet of the Lord",
-   "verdict": "death",
+   "verdict": "temporal",
    "summary": "As Elisha went up to Bethel, the seat of Jeroboam's calf, a company came out of the city mocking him: go up, thou bald head. He cursed them in the name of the Lord, and two she-bears came out of the wood and tore forty-two of them.",
-   "offense": "Contempt for the office, in the city that had made contempt for the Lord its religion. Go up mocks Elijah's ascent, which the sons of the prophets had just witnessed. The Hebrew word covers youths, not infants; forty-two of them were a crowd, not a prank.",
-   "judgment": "Leviticus warned that if Israel walked contrary to him, the Lord would send wild beasts among them which should rob them of their children. Forty-two were torn. Elisha went on to Carmel.",
+   "offense": "The group mocked Elisha as he went toward Bethel. The KJV calls them little children; the passage gives no exact ages. Reading their words as a reference to Elijah's ascent is an interpretation, not an explanation supplied by the narrator.",
+   "judgment": "After Elisha cursed them in the name of the Lord, two she-bears came out and tore forty-two of them. The passage does not explicitly report how many, if any, died, so this entry does not classify the outcome as a stated death sentence. Leviticus 26:21-22 is a related warning about wild beasts, not an explicit explanation given in 2 Kings 2.",
    "refs": [
     {
      "book": "2 Kings",

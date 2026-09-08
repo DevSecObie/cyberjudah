@@ -6,6 +6,7 @@
 //   node engine/check.mjs          exit 1 on any broken link
 import { loadLibrary } from "./library.mjs";
 import { validVerseRange, duplicateUrls } from "./validation.mjs";
+import { validateCases } from "./case-validation.mjs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -26,6 +27,7 @@ for (const t of L.topics) known.add(`/topics/${t.slug}`);
 const LINK = /\]\(((?:\/|#)[^)\s]*)\)|href="((?:\/|#)[^"]*)"/g;
 let broken = 0, links = 0;
 const report = (n, href, why) => { broken++; console.error(`${n.file}: ${href}: ${why}`); };
+for (const error of validateCases(L)) report({ file: "data/cases.json" }, "case validation", error);
 
 for (const n of duplicateUrls([
   ...notes,
