@@ -38,13 +38,15 @@ def main():
     a = ap.parse_args()
     fdir = os.path.join(ROOT, FEEDS[a.feed]); tdir = os.path.join(fdir, "transcripts"); os.makedirs(tdir, exist_ok=True)
     nocap = os.path.join(fdir, "no-captions.tsv"); meta_all = os.path.join(fdir, "channel-meta.tsv")
+    agegate = os.path.join(fdir, "age-restricted.tsv")  # need a signed-in fetch; listed so they are not retried every run
 
     seen, rows = set(), []
     for tab in a.tabs.split(","):
         for row in listing(a.channel, tab):
             if row[0] not in seen: seen.add(row[0]); rows.append(row)
     done = {os.path.basename(p)[:-5] for p in glob.glob(os.path.join(tdir, "*.json"))}
-    if os.path.exists(nocap): done |= {l.split("\t")[0] for l in open(nocap) if l.strip()}
+    for f in (nocap, agegate):
+        if os.path.exists(f): done |= {l.split("\t")[0] for l in open(f) if l.strip()}
     todo = [r for r in rows if r[0] not in done][: a.limit]
     print(f"{a.channel}: {len(rows)} videos on the channel, {sum(1 for r in rows if r[0] in done)} already in the vault, {len(todo)} to fetch", flush=True)
 
@@ -55,9 +57,10 @@ def main():
         ids = os.path.join(raw, "ids.txt"); meta = os.path.join(raw, "meta.tsv")
         open(ids, "w").write("".join(f"https://www.youtube.com/watch?v={r[0]}\n" for r in batch))
         if os.path.exists(meta): os.remove(meta)
-        sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
+        y = sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
             "--sleep-requests", "1", "--sleep-subtitles", "1", "--retries", "5", "--extractor-retries", "3",
             "--print-to-file", "%(id)s\t%(upload_date)s\t%(duration)s\t%(title)s\t%(view_count)s\t%(subtitles.en.0.ext)s\t%(automatic_captions.en.0.ext)s", meta, "-o", os.path.join(raw, "%(id)s"), "-a", ids])
+        aged = set(re.findall(r"\[youtube\] ([\w-]{11}): Sign in to confirm your age", y.stderr))
         metas = {}
         if os.path.exists(meta):
             for l in open(meta):
@@ -82,10 +85,11 @@ def main():
             if files and m:
                 d = m[1]; date = f"{d[:4]}-{d[4:6]}-{d[6:]}" if re.fullmatch(r"\d{8}", d) else None
                 dur = m[2] if m[2] not in ("NA", "") else None; views = m[4] if m[4] not in ("NA", "") else None
-                cmd = [sys.executable, os.path.join(ROOT, "scripts", "history", "ingest.py"), files[0], "--id", vid, "--title", m[3], "--feed", a.feed]
-                if date: cmd += ["--date", date]
-                if dur: cmd += ["--duration", dur]
-                if views: cmd += ["--views", views]
+                # --id=<vid>: video ids can start with "-", which argparse would read as an option.
+                cmd = [sys.executable, os.path.join(ROOT, "scripts", "history", "ingest.py"), files[0], f"--id={vid}", f"--title={m[3]}", f"--feed={a.feed}"]
+                if date: cmd.append(f"--date={date}")
+                if dur: cmd.append(f"--duration={dur}")
+                if views: cmd.append(f"--views={views}")
                 r = sh(cmd)
                 if r.returncode == 0:
                     got += 1; added.append(vid); open(meta_all, "a").write("\t".join(m[:5]) + "\n"); print(r.stdout.strip(), flush=True)
@@ -94,11 +98,13 @@ def main():
                 nosub += 1; open(nocap, "a").write(f"{vid}\t{m[3]}\n"); print(f"{vid}: no English captions ({m[3]})", flush=True)
             elif m:
                 failed += 1; print(f"{vid}: captions listed but not delivered, will retry next run ({m[3]})", flush=True)
+            elif vid in aged:
+                nosub += 1; open(agegate, "a").write(f"{vid}\t{title}\n"); print(f"{vid}: age-restricted, needs a signed-in fetch ({title})", flush=True)
             else:
                 failed += 1; print(f"{vid}: not fetched ({title})", flush=True)
             for f in files: os.remove(f)
         if a.push and (added or nosub):
-            sh(["git", "-C", ROOT, "add", "--", *[p for p in (tdir, nocap, meta_all) if os.path.exists(p)]])
+            sh(["git", "-C", ROOT, "add", "--", *[p for p in (tdir, nocap, agegate, meta_all) if os.path.exists(p)]])
             sh(["git", "-C", ROOT, "commit", "-q", "-m", f"transcripts: {a.feed} +{len(added)} ({got} this run)\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"])
             tok = os.environ.get("GJT", "")
             env = {k: v for k, v in os.environ.items() if k.lower() not in ("https_proxy", "http_proxy")}
@@ -107,6 +113,6 @@ def main():
                 if r.returncode == 0: break
                 sh(["git", "-C", ROOT, "-c", "http.proxy=", "-c", "credential.helper=!f() { echo username=x-access-token; echo \"password=$GJT\"; }; f", "pull", "--rebase", "-q", "origin", "main"], env=env)
             print(f"push: {'ok' if r.returncode == 0 else re.sub(r'github_pat_[A-Za-z0-9_]*', '[REDACTED]', r.stderr.strip()[-300:])}", flush=True)
-    print(f"done: {got} archived, {nosub} without captions, {failed} failed; {len(todo) - got - nosub - failed} untouched", flush=True)
+    print(f"done: {got} archived, {nosub} without captions or age-restricted, {failed} failed; {len(todo) - got - nosub - failed} untouched", flush=True)
 
 if __name__ == "__main__": main()
