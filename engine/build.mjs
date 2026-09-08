@@ -159,7 +159,9 @@ function transcriptTurns(h) {
     let text = raw;
     if (/^>>/.test(text)) { push(); text = text.replace(/^>>\s*/, ""); }
     if (!cur) cur = { t, text: "" };
-    if (cur.text.length > 1100 && /[.!?]$/.test(cur.text.trim())) { push(); cur = { t, text: "" }; }
+    // A paragraph ends at a sentence end past ~1100 characters; older caption tracks have no
+    // punctuation at all, so past ~1600 it ends at the caption boundary regardless.
+    if (cur.text.length > 1100 && (/[.!?]$/.test(cur.text.trim()) || cur.text.length > 1600)) { push(); cur = { t, text: "" }; }
     cur.text += (cur.text ? " " : "") + text.replace(/>>/g, "").trim();
   }
   push();
