@@ -11,6 +11,7 @@ on:
       - "blog/**"
       - "captains/**"
       - "data/**"
+      - "history/**"
       - "engine/**"
       - ".github/workflows/data.yml"
   workflow_dispatch:
