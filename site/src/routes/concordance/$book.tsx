@@ -4,6 +4,7 @@ import { api, type MergedCitation } from "@/lib/api";
 import { shelf, verseNumbers } from "@/lib/refs";
 import { fromHref } from "@/lib/cite";
 import { GoLink, withFrom } from "@/components/site/return-bar";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/concordance/$book")({
   loader: async ({ params }) => {
@@ -11,7 +12,7 @@ export const Route = createFileRoute("/concordance/$book")({
     if (!b) throw notFound();
     return b;
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.book} · Concordance · CyberJudah` : "Concordance · CyberJudah" }, { name: "description", content: loaderData ? `${loaderData.citations} citations into ${loaderData.cited.length} chapters of ${loaderData.book}.` : "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.book} · Concordance · CyberJudah` : "Concordance · CyberJudah" }, { name: "description", content: loaderData ? `${loaderData.citations} citations into ${loaderData.cited.length} chapters of ${loaderData.book}.` : "" }], match),
   component: ConcordanceBook,
 });
 

@@ -2,11 +2,12 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Page, Kicker } from "@/components/site/chrome";
 import { api, fmtDate, nf } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/history/")({
   validateSearch: (s: Record<string, unknown>): { q?: string; year?: string; sort?: "old" | "az" | "ep" } => ({ q: typeof s.q === "string" && s.q.trim() ? s.q.trim().slice(0, 120) : undefined, year: typeof s.year === "string" && s.year ? s.year : undefined, sort: s.sort === "old" || s.sort === "az" || s.sort === "ep" ? (s.sort as "old" | "az" | "ep") : undefined }),
   loader: () => api.history(),
-  head: () => ({ meta: [{ title: "Our Hidden History · CyberJudah" }, { name: "description", content: "Our Hidden History Radio, written up: the readings, the scriptures and the commentary from each episode." }] }),
+  head: ({ match }) => pageHead([{ title: "Our Hidden History · CyberJudah" }, { name: "description", content: "Our Hidden History Radio, written up: the readings, the scriptures and the commentary from each episode." }], match),
   component: HistoryIndex,
 });
 

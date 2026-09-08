@@ -1,13 +1,14 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { api, nf } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/concordance/")({
   loader: async () => {
     const [rows, stats] = await Promise.all([api.concordanceIndex(), api.stats()]);
     return { rows, stats };
   },
-  head: () => ({ meta: [{ title: "Concordance · CyberJudah" }, { name: "description", content: "Chapter by chapter, everything in the library that cites it: notes, classes, encyclopedia, cases, precepts and laws." }] }),
+  head: ({ match }) => pageHead([{ title: "Concordance · CyberJudah" }, { name: "description", content: "Chapter by chapter, everything in the library that cites it: notes, classes, encyclopedia, cases, precepts and laws." }], match),
   component: ConcordanceIndex,
 });
 

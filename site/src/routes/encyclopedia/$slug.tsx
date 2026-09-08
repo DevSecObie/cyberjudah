@@ -5,6 +5,7 @@ import { CiteLanding } from "@/components/site/return-bar";
 import { NoteWithContents } from "@/components/site/contents-rail";
 import { api } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/encyclopedia/$slug")({
   loader: async ({ params }) => {
@@ -14,7 +15,7 @@ export const Route = createFileRoute("/encyclopedia/$slug")({
     const heads = [...note.body.matchAll(/^## (.+)$/gm)].map((m) => m[1].trim());
     return { note, html: renderNote(note.body), lede: note.summary || plainLede(note.body), heads, prev: all[i - 1] ?? null, next: all[i + 1] ?? null };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.note.title} · Encyclopedia · CyberJudah` : "Encyclopedia · CyberJudah" }, { name: "description", content: loaderData?.lede ?? "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.note.title} · Encyclopedia · CyberJudah` : "Encyclopedia · CyberJudah" }, { name: "description", content: loaderData?.lede ?? "" }], match, { type: "article" }),
   component: EncyclopediaEntry,
 });
 

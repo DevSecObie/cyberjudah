@@ -2,6 +2,7 @@ import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { Page } from "@/components/site/chrome";
 import { api, type CaseRow } from "@/lib/api";
 import { ActiveFilters, Breadcrumbs, eraAnchor } from "@/components/site/browse-tools";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/cases/")({
   validateSearch: (search: Record<string, unknown>): { verdict?: string; view?: "timeline" } => ({
@@ -9,7 +10,7 @@ export const Route = createFileRoute("/cases/")({
     view: search.view === "timeline" ? "timeline" : undefined,
   }),
   loader: () => api.cases(),
-  head: () => ({ meta: [{ title: "Case Studies · CyberJudah" }, { name: "description", content: "Every judgment scripture records, and everyone it records who kept the law and was blessed for it, by era." }] }),
+  head: ({ match }) => pageHead([{ title: "Case Studies · CyberJudah" }, { name: "description", content: "Every judgment scripture records, and everyone it records who kept the law and was blessed for it, by era." }], match),
   component: CasesIndex,
 });
 

@@ -1,13 +1,14 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
 import { api } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/law/")({
   loader: async () => {
     const [parts, stats] = await Promise.all([api.laws(), api.stats()]);
     return { parts, stats };
   },
-  head: () => ({ meta: [{ title: "The Law · CyberJudah" }, { name: "description", content: "The handbook of Bible law: every commandment, statute and judgment, in parts and sections, each with the scripture it rests on." }] }),
+  head: ({ match }) => pageHead([{ title: "The Law · CyberJudah" }, { name: "description", content: "The handbook of Bible law: every commandment, statute and judgment, in parts and sections, each with the scripture it rests on." }], match),
   component: LawIndex,
 });
 

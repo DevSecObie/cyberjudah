@@ -1,10 +1,11 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
+import { pageHead } from "@/lib/head";
 
 const DATA = "https://data.cyberjudah.io";
 
 export const Route = createFileRoute("/downloads")({
-  head: () => ({ meta: [{ title: "Downloads · CyberJudah" }, { name: "description", content: "The whole library as an Obsidian vault, as SQLite, and as JSON." }] }),
+  head: ({ match }) => pageHead([{ title: "Downloads · CyberJudah" }, { name: "description", content: "The whole library as an Obsidian vault, as SQLite, and as JSON." }], match),
   component: Downloads,
 });
 

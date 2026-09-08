@@ -6,6 +6,7 @@ import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { Breadcrumbs } from "@/components/site/browse-tools";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/law/$part/$section")({
   loader: async ({ params }) => {
@@ -15,7 +16,7 @@ export const Route = createFileRoute("/law/$part/$section")({
     const i = flat.findIndex((s) => s.id === section.id);
     return { section, prev: flat[i - 1] ?? null, next: flat[i + 1] ?? null };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.section.id} ${loaderData.section.title} · The Law · CyberJudah` : "The Law · CyberJudah" }, { name: "description", content: loaderData ? `${loaderData.section.entries.length} laws on ${loaderData.section.title.toLowerCase()}, each with the scripture it rests on.` : "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.section.id} ${loaderData.section.title} · The Law · CyberJudah` : "The Law · CyberJudah" }, { name: "description", content: loaderData ? `${loaderData.section.entries.length} laws on ${loaderData.section.title.toLowerCase()}, each with the scripture it rests on.` : "" }], match),
   component: SectionPage,
 });
 

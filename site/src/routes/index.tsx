@@ -1,8 +1,8 @@
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
-import { useEffect, useRef, useState, type FormEvent } from "react";
+import { useEffect, useMemo, useRef, useState, type FormEvent } from "react";
 
 import { ScrollScrub } from "@/components/scroll-scrub/scroll-scrub";
-import { scrollScrubScenes, scrollScrubTheme } from "@/scroll-scrub-scenes";
+import { buildScrollScrubScenes, scrollScrubTheme } from "@/scroll-scrub-scenes";
 import { SiteNav, SiteFooter, LampButton, ReadLink, Kicker } from "@/components/site/chrome";
 import { Motion } from "@/components/site/motion";
 import { Matrix } from "@/components/site/matrix";
@@ -269,19 +269,20 @@ function Passage() {
 function Index() {
   const { stats } = Route.useLoaderData();
   const latestClass = stats?.recent.find((note) => note.kind === "class");
+  const scenes = useMemo(() => buildScrollScrubScenes(stats), [stats]);
   return (
     <div className="cj-shell">
       <SiteNav />
       <main>
         <section className="cj-wrap class-shortcuts" aria-label="Class shortcuts">
-          <p>Recordings and notes for your next study.</p>
+          <p>Sabbath classes, 15 Minutes w/ The Captains and Our Hidden History Radio, written up with every scripture they open linked into the text.</p>
           {latestClass ? <ReadLink to={latestClass.url}>Latest class</ReadLink> : null}
           <LampButton to="/classes">Browse classes</LampButton>
         </section>
         <ScrollScrub
           background={<LionFilm />}
           className="lion-journey"
-          scenes={scrollScrubScenes}
+          scenes={scenes}
           theme={scrollScrubTheme}
         />
         <Console />

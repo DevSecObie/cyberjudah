@@ -5,6 +5,7 @@ import { NoteWithContents } from "@/components/site/contents-rail";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api, fmtDate } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/history/$year/$slug")({
   loader: async ({ params }) => {
@@ -14,7 +15,7 @@ export const Route = createFileRoute("/history/$year/$slug")({
     const row = i >= 0 ? all[i] : null;
     return { note, row, html: renderNote(note.body), lede: plainLede(note.body), prev: i >= 0 ? (all[i + 1] ?? null) : null, next: i >= 0 ? (all[i - 1] ?? null) : null };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.row?.episode ? `EP ${loaderData.row.episode}: ` : ""}${loaderData.note.title} · Our Hidden History · CyberJudah` : "Our Hidden History · CyberJudah" }, { name: "description", content: loaderData?.lede ?? "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.row?.episode ? `EP ${loaderData.row.episode}: ` : ""}${loaderData.note.title} · Our Hidden History · CyberJudah` : "Our Hidden History · CyberJudah" }, { name: "description", content: loaderData?.lede ?? "" }], match, { type: "article" }),
   component: EpisodePage,
 });
 

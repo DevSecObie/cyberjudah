@@ -22,6 +22,27 @@ const ABBR = { Genesis: "Gen", Exodus: "Exod", Leviticus: "Lev", Numbers: "Num",
 export const VERDICT = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
 /** "1-3, 7" -> [1,2,3,7]; "" -> []. */
+/**
+ * Class and episode titles arrive as typed on YouTube, so some are ALL CAPS. A title that is
+ * shouted is set in title case here; titles that already carry mixed case are left alone.
+ */
+const TITLE_SMALL = new Set(["a", "an", "and", "as", "at", "but", "by", "for", "from", "in", "into", "nor", "of", "on", "or", "the", "to", "vs", "with", "w/"]);
+const TITLE_KEEP = new Set(["AI", "CIA", "DNA", "FBI", "FDA", "GMO", "I", "II", "III", "IV", "IX", "KJV", "LGBT", "NASA", "NATO", "NWO", "TV", "UK", "UN", "US", "USA", "V", "VI", "VII", "VIII", "WWI", "WWII", "X", "XI", "XII", "XX"]);
+export function tidyTitle(t) {
+  const s = String(t ?? "").trim();
+  const letters = s.replace(/[^A-Za-z]/g, "");
+  if (letters.length < 4 || letters !== letters.toUpperCase()) return s;
+  return s.split(/(\s+)/).map((w, i, arr) => {
+    if (!w.trim()) return w;
+    if (TITLE_KEEP.has(w.replace(/[^A-Za-z]/g, ""))) return w;
+    const lower = w.toLowerCase();
+    const prevWord = arr.slice(0, i).reverse().find((x) => x.trim());
+    const afterBreak = i === 0 || /[:\-\u2013\u2014?!.]$/.test(prevWord ?? "");
+    if (!afterBreak && TITLE_SMALL.has(lower.replace(/[^a-z/]/g, ""))) return lower;
+    return lower.replace(/(^|[\s("\u201c/-])([a-z])/g, (m, pre, c) => pre + c.toUpperCase());
+  }).join("");
+}
+
 export function versesOf(spec) {
   const out = [];
   for (const part of (spec || "").split(",").filter(Boolean)) {
@@ -128,7 +149,7 @@ export function loadLibrary(ROOT) {
         if (!meta.slug) continue;
         const tags = tagList(meta.tags);
         notes.push({ kind, slug: String(meta.slug).split("/").pop(), file: path.relative(ROOT, path.join(dir, y.name, f)),
-          url: `${prefix}${meta.slug}`, title: meta.title || f, date: meta.date || "",
+          url: `${prefix}${meta.slug}`, title: tidyTitle(meta.title || f), date: meta.date || "",
           dateEstimated: /\(date estimated\)/.test(body), series: tags[0] ?? "", topics: tags.slice(1),
           teacher: meta.teacher || "", description: meta.description || "", year: y.name, body,
           videoId: /data-video-id="([\w-]{11})"/.exec(body)?.[1] ?? null });

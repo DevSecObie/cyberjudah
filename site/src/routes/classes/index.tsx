@@ -2,11 +2,12 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
 import { NoteBrowser, validateBrowse } from "@/components/site/note-browser";
 import { api } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/classes/")({
   validateSearch: validateBrowse,
   loader: async () => { const [rows, topics] = await Promise.all([api.classes(), api.topicLabels()]); return { rows, topics }; },
-  head: () => ({ meta: [{ title: "Sabbath Classes · CyberJudah" }, { name: "description", content: "Every Sabbath class written up in full, scriptures cited inline. Browse by topic, book, teacher or year." }] }),
+  head: ({ match }) => pageHead([{ title: "Sabbath Classes · CyberJudah" }, { name: "description", content: "Every Sabbath class written up in full, scriptures cited inline. Browse by topic, book, teacher or year." }], match),
   component: Classes,
 });
 

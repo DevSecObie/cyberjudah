@@ -5,6 +5,7 @@ import { CiteLanding } from "@/components/site/return-bar";
 import { NoteWithContents } from "@/components/site/contents-rail";
 import { api } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/study/$book/$chapter")({
   loader: async ({ params }) => {
@@ -15,7 +16,7 @@ export const Route = createFileRoute("/study/$book/$chapter")({
     const i = siblings.findIndex((n) => n.url === note.url);
     return { note, html: renderNote(note.body), lede: plainLede(note.body), prev: siblings[i - 1] ?? null, next: siblings[i + 1] ?? null };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.note.title} · CyberJudah` : "CyberJudah" }, { name: "description", content: loaderData?.lede ?? "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.note.title} · CyberJudah` : "CyberJudah" }, { name: "description", content: loaderData?.lede ?? "" }], match, { type: "article" }),
   component: StudyChapter,
 });
 

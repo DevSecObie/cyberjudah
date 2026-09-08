@@ -1,10 +1,11 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
 import { api } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/topics/")({
   loader: () => api.topics(),
-  head: () => ({ meta: [{ title: "Topics · CyberJudah" }, { name: "description", content: "Every topic the classes, episodes and cases are tagged with." }] }),
+  head: ({ match }) => pageHead([{ title: "Topics · CyberJudah" }, { name: "description", content: "Every topic the classes, episodes and cases are tagged with." }], match),
   component: TopicsIndex,
 });
 

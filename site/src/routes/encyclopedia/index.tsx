@@ -1,10 +1,11 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
 import { api } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/encyclopedia/")({
   loader: () => api.encyclopedia(),
-  head: () => ({ meta: [{ title: "Encyclopedia · CyberJudah" }, { name: "description", content: "Standing subjects gathered from across the notes, each one walked through book by book." }] }),
+  head: ({ match }) => pageHead([{ title: "Encyclopedia · CyberJudah" }, { name: "description", content: "Standing subjects gathered from across the notes, each one walked through book by book." }], match),
   component: EncyclopediaIndex,
 });
 

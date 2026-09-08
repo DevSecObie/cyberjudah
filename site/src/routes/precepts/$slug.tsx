@@ -5,6 +5,7 @@ import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { Breadcrumbs } from "@/components/site/browse-tools";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/precepts/$slug")({
   loader: async ({ params }) => {
@@ -13,7 +14,7 @@ export const Route = createFileRoute("/precepts/$slug")({
     const i = all.findIndex((x) => x.slug === p.slug);
     return { p, prev: all[i - 1] ?? null, next: all[i + 1] ?? null };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.p.title} · Precepts · CyberJudah` : "Precepts · CyberJudah" }, { name: "description", content: loaderData ? `${loaderData.p.refs.length} passages on ${loaderData.p.title.toLowerCase()}, quoted in full.` : "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.p.title} · Precepts · CyberJudah` : "Precepts · CyberJudah" }, { name: "description", content: loaderData ? `${loaderData.p.refs.length} passages on ${loaderData.p.title.toLowerCase()}, quoted in full.` : "" }], match),
   component: PreceptPage,
 });
 

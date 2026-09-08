@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
+import { pageHead } from "@/lib/head";
 
 const DATA = "https://data.cyberjudah.io";
 const ROWS: [string, string][] = [
@@ -31,7 +32,7 @@ const ROWS: [string, string][] = [
 ];
 
 export const Route = createFileRoute("/api")({
-  head: () => ({ meta: [{ title: "API · CyberJudah" }, { name: "description", content: "The whole library as static JSON, a full-text index and SQLite, served from data.cyberjudah.io with CORS open." }] }),
+  head: ({ match }) => pageHead([{ title: "API · CyberJudah" }, { name: "description", content: "The whole library as static JSON, a full-text index and SQLite, served from data.cyberjudah.io with CORS open." }], match),
   component: Api,
 });
 

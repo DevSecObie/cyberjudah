@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { api } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/study/$book/")({
   loader: async ({ params }) => {
@@ -10,7 +11,7 @@ export const Route = createFileRoute("/study/$book/")({
     const list = notes.filter((n) => n.kind === "study" && n.book === book.book && n.chapters).sort((a, b) => a.chapters![0] - b.chapters![0]);
     return { book, list };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.book.book} · 4 Chapters a Day · CyberJudah` : "4 Chapters a Day · CyberJudah" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.book.book} · 4 Chapters a Day · CyberJudah` : "4 Chapters a Day · CyberJudah" }], match),
   component: StudyBook,
 });
 

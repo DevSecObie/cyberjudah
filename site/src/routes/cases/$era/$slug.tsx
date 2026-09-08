@@ -5,6 +5,7 @@ import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { Breadcrumbs, eraAnchor } from "@/components/site/browse-tools";
+import { pageHead } from "@/lib/head";
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
@@ -14,7 +15,7 @@ export const Route = createFileRoute("/cases/$era/$slug")({
     if (!c) throw notFound();
     return { c };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.c.name} · Case Studies · CyberJudah` : "CyberJudah" }, { name: "description", content: loaderData?.c.charge ?? "" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.c.name} · Case Studies · CyberJudah` : "CyberJudah" }, { name: "description", content: loaderData?.c.charge ?? "" }], match),
   component: CasePage,
 });
 

@@ -8,6 +8,7 @@ import { StudyPanel } from "@/components/site/study-panel";
 import { api, type Citation } from "@/lib/api";
 import { mergeCitations, verseCounts, verseNumbers, type Ref } from "@/lib/refs";
 import { compressVerses } from "@/lib/cite";
+import { pageHead } from "@/lib/head";
 
 type Search = { study?: string; v?: string };
 
@@ -28,12 +29,10 @@ export const Route = createFileRoute("/bible/$book/$chapter")({
     ]);
     return { books, book, chapter, cited: mergeCitations(concordance.cited_by) };
   },
-  head: ({ loaderData }) => ({
-    meta: [
-      { title: loaderData ? `${loaderData.book.book} ${loaderData.chapter.chapter} · CyberJudah` : "CyberJudah" },
-      { name: "description", content: loaderData ? `${loaderData.book.book} ${loaderData.chapter.chapter}, King James Version, with everything taught from it.` : "" },
-    ],
-  }),
+  head: ({ loaderData, match }) => pageHead([
+    { title: loaderData ? `${loaderData.book.book} ${loaderData.chapter.chapter} · CyberJudah` : "CyberJudah" },
+    { name: "description", content: loaderData ? `${loaderData.book.book} ${loaderData.chapter.chapter}, King James Version, with everything taught from it.` : "" },
+  ], match),
   component: ChapterPage,
 });
 
@@ -161,7 +160,7 @@ function ChapterPage() {
       {bar}
       <p className="cj-kicker">{book.testament}</p>
       <h1 className="cj-h1">{book.book} {ch}</h1>
-      <p className="reader__hint">Select a verse number to see related study material. <span>Shift-click another number to select a range.</span></p>
+      <p className="reader__hint">Select a verse number to see what cites it; the small number beside a verse counts its citations. <span>Shift-click another number to select a range.</span></p>
       <div className="verses">
         {chapter.verses.map((v) => {
           const n = counts.get(v.verse) ?? 0;

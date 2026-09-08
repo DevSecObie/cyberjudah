@@ -3,6 +3,7 @@ import { Page } from '@/components/site/chrome';
 import { Breadcrumbs } from '@/components/site/browse-tools';
 import { lookupDictionary } from '@/lib/dictionary';
 import { RefCards } from '@/components/site/ref-card';
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute('/dictionary/$slug')({
   loader: async ({ params }) => {
@@ -10,7 +11,7 @@ export const Route = createFileRoute('/dictionary/$slug')({
     if (!entry) throw notFound();
     return entry;
   },
-  head: ({ loaderData }) => ({ meta: [{ title: `${loaderData?.term ?? 'Entry not found'} · Dictionary · CyberJudah` }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: `${loaderData?.term ?? 'Entry not found'} · Dictionary · CyberJudah` }], match),
   component: Entry,
 });
 function Entry() {

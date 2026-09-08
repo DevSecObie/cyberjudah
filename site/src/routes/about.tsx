@@ -1,8 +1,9 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, Kicker } from "@/components/site/chrome";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/about")({
-  head: () => ({ meta: [{ title: "About · CyberJudah" }, { name: "description", content: "What CyberJudah is, where the text and the notes come from, and how to report a correction." }] }),
+  head: ({ match }) => pageHead([{ title: "About · CyberJudah" }, { name: "description", content: "What CyberJudah is, where the text and the notes come from, and how to report a correction." }], match),
   component: About,
 });
 

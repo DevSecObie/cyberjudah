@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { api, nf } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/bible/$book/")({
   loader: async ({ params }) => {
@@ -9,7 +10,7 @@ export const Route = createFileRoute("/bible/$book/")({
     if (!book) throw notFound();
     return { book };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: `${loaderData?.book.book ?? "Book"} · CyberJudah` }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: `${loaderData?.book.book ?? "Book"} · CyberJudah` }], match),
   component: BookPage,
 });
 

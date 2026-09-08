@@ -28,15 +28,38 @@ export function verseNumbers(spec: string | undefined): number[] {
 /** Fold the concordance (one row per citing passage) into one row per document. */
 export function mergeCitations(cited: Citation[]): Citation[] {
   const out: Citation[] = [];
+  const whole = new Set<string>();
   for (const c of cited) {
     const hit = out.find((x) => x.url === c.url);
-    if (!hit) out.push({ ...c, verses: c.verses || "" });
-    else if (c.verses) {
-      const have = (hit.verses ?? "").split(", ").filter(Boolean);
-      if (!have.includes(c.verses)) hit.verses = [...have, c.verses].join(", ");
+    if (!hit) {
+      out.push({ ...c, verses: c.verses || "" });
+      if (!c.verses) whole.add(c.url);
+    } else if (!c.verses) {
+      whole.add(c.url);
+    } else if (!whole.has(c.url)) {
+      hit.verses = hit.verses ? `${hit.verses}, ${c.verses}` : c.verses;
     }
   }
+  // One note may cite a chapter several times in any order ("1-2, 3, 1"): sort, dedupe and
+  // merge the runs so the reader sees "1-3". A whole-chapter citation stays whole.
+  for (const c of out) {
+    if (whole.has(c.url)) c.verses = "";
+    else if (c.verses) c.verses = compressVerseList(verseNumbers(c.verses));
+  }
   return out;
+}
+
+/** [1,2,3,7] -> "1-3, 7" */
+export function compressVerseList(nums: number[]): string {
+  const s = [...new Set(nums)].sort((a, b) => a - b);
+  const parts: string[] = [];
+  for (let i = 0; i < s.length; i++) {
+    let j = i;
+    while (j + 1 < s.length && s[j + 1] === s[j] + 1) j++;
+    parts.push(j > i ? `${s[i]}-${s[j]}` : String(s[i]));
+    i = j;
+  }
+  return parts.join(", ");
 }
 
 /** Which merged citations touch a verse: an explicit range, or a whole-chapter citation. */

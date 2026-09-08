@@ -2,6 +2,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { api } from "@/lib/api";
 import { Breadcrumbs } from "@/components/site/browse-tools";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/law/$part/")({
   loader: async ({ params }) => {
@@ -10,7 +11,7 @@ export const Route = createFileRoute("/law/$part/")({
     if (i < 0) throw notFound();
     return { part: parts[i], prev: parts[i - 1] ?? null, next: parts[i + 1] ?? null };
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `Part ${loaderData.part.n}: ${loaderData.part.title} · The Law · CyberJudah` : "The Law · CyberJudah" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `Part ${loaderData.part.n}: ${loaderData.part.title} · The Law · CyberJudah` : "The Law · CyberJudah" }], match),
   component: PartPage,
 });
 

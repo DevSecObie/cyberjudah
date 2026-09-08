@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { api, fmtDate } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/topics/$slug")({
   loader: async ({ params }) => {
@@ -8,7 +9,7 @@ export const Route = createFileRoute("/topics/$slug")({
     if (!t) throw notFound();
     return t;
   },
-  head: ({ loaderData }) => ({ meta: [{ title: loaderData ? `${loaderData.label} · Topics · CyberJudah` : "Topics · CyberJudah" }] }),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData ? `${loaderData.label} · Topics · CyberJudah` : "Topics · CyberJudah" }], match),
   component: TopicPage,
 });
 

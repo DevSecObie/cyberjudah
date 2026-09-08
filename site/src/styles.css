@@ -153,14 +153,27 @@
   color: var(--color-magenta);
   text-shadow: none;
 }
-.cj-nav__links {
-  display: flex;
-  gap: 1.35rem;
+/* Desktop: a Radix navigation menu. Three grouped triggers plus the Bible, so the bar
+   fits on one line at every laptop width. The panel drops from the bar's bottom edge. */
+.cj-menu {
+  position: relative;
   margin-left: auto;
+  display: flex;
   align-items: center;
+}
+.cj-menu__list {
+  display: flex;
+  align-items: center;
+  gap: 1.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 .cj-nav__link {
   position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
   text-decoration: none;
   font: 500 0.72rem var(--font-mono);
   letter-spacing: 0.12em;
@@ -169,6 +182,11 @@
   padding: 0.3rem 0;
   white-space: nowrap;
   transition: color 0.15s;
+}
+.cj-nav__link--trigger {
+  background: none;
+  border: 0;
+  cursor: pointer;
 }
 .cj-nav__link::before {
   content: ">";
@@ -180,14 +198,107 @@
   transition: opacity 0.15s, transform 0.15s;
 }
 .cj-nav__link:hover,
-.cj-nav__link[data-status="active"] {
+.cj-nav__link[data-status="active"],
+.cj-nav__link[data-state="open"] {
   color: var(--color-cyan);
 }
 .cj-nav__link:hover::before,
-.cj-nav__link[data-status="active"]::before {
+.cj-nav__link[data-status="active"]::before,
+.cj-nav__link[data-state="open"]::before {
   opacity: 1;
   transform: none;
 }
+.cj-nav__caret {
+  transition: transform 0.15s;
+}
+.cj-nav__link[data-state="open"] .cj-nav__caret {
+  transform: rotate(180deg);
+}
+.cj-menu__viewport-wrap {
+  position: absolute;
+  top: calc(100% + 0.65rem);
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  pointer-events: none;
+}
+.cj-menu__viewport {
+  pointer-events: auto;
+  position: relative;
+  width: var(--radix-navigation-menu-viewport-width);
+  height: var(--radix-navigation-menu-viewport-height);
+  overflow: hidden;
+  background: color-mix(in srgb, var(--color-panel) 94%, transparent);
+  backdrop-filter: blur(16px) saturate(1.4);
+  border: 1px solid var(--color-hair-2);
+  border-radius: var(--radius);
+  box-shadow: 0 18px 50px -20px rgba(0, 0, 0, 0.85), 0 0 0 1px rgba(0, 229, 255, 0.06);
+  transition: width 0.18s, height 0.18s;
+}
+.cj-menu__viewport[data-state="open"] {
+  animation: cj-menu-in 0.16s ease-out;
+}
+.cj-menu__viewport[data-state="closed"] {
+  animation: cj-menu-out 0.12s ease-in;
+}
+.cj-menu__content {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: max-content;
+  min-width: 18rem;
+  max-width: min(26rem, 90vw);
+}
+.cj-menu__grid {
+  list-style: none;
+  margin: 0;
+  padding: 0.45rem;
+}
+.cj-menu__item {
+  display: grid;
+  gap: 0.15rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--color-ink);
+  border-left: 2px solid transparent;
+  transition: background-color 0.12s, border-color 0.12s;
+}
+.cj-menu__item b {
+  font: 500 0.78rem var(--font-mono);
+  letter-spacing: 0.06em;
+  color: var(--color-ink);
+}
+.cj-menu__item span {
+  font: 400 0.82rem/1.35 var(--font-serif);
+  color: var(--color-muted);
+}
+.cj-menu__item:hover,
+.cj-menu__item:focus-visible {
+  background: var(--color-highlight);
+  border-left-color: var(--color-magenta);
+}
+.cj-menu__item:hover b,
+.cj-menu__item:focus-visible b,
+.cj-menu__item[data-status="active"] b {
+  color: var(--color-cyan);
+}
+.cj-menu__item[data-status="active"] {
+  border-left-color: var(--color-cyan);
+}
+@keyframes cj-menu-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes cj-menu-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cj-menu__viewport,
+  .cj-nav__caret { transition: none; animation: none !important; }
+}
+
 .cj-nav__search {
   display: inline-flex;
   align-items: center;
@@ -218,7 +329,6 @@
 }
 .cj-nav__toggle {
   display: none;
-  margin-left: auto;
   background: none;
   border: 1px solid var(--color-hair-2);
   color: var(--color-cyan);
@@ -228,31 +338,31 @@
   padding: 0.45rem 0.7rem;
   cursor: pointer;
 }
-/* Keep desktop links visible in a wrapping row instead of hiding them. */
-@media (min-width: 861px) and (max-width: 1400px) {
-  :root { --nav-h: 144px; }
-  .cj-nav {
-    height: auto;
-    min-height: 64px;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    padding-block: 0.75rem;
-  }
-  .cj-nav__links {
-    flex: 1 1 100%;
-    min-width: 0;
-    flex-wrap: wrap;
-    gap: 0.65rem 1.35rem;
-    margin-left: 0;
-  }
+/* The phone drawer: the same groups as flat lists under a label. */
+.cj-nav__links {
+  display: none;
 }
 @media (max-width: 860px) {
+  .cj-menu {
+    display: none;
+  }
+  .cj-nav__search {
+    margin-left: auto;
+  }
+  .cj-nav__search span {
+    display: none;
+  }
+  .cj-nav__toggle {
+    display: block;
+  }
   .cj-nav__links {
     display: none;
     position: absolute;
     top: var(--nav-h);
     left: 0;
     right: 0;
+    max-height: calc(100dvh - var(--nav-h));
+    overflow: auto;
     flex-direction: column;
     align-items: stretch;
     gap: 0;
@@ -263,43 +373,27 @@
   .cj-nav__links[data-open="true"] {
     display: flex;
   }
-  .cj-nav__link {
+  .cj-nav__links .cj-nav__link {
     padding: 0.85rem clamp(1rem, 3vw, 2.5rem) 0.85rem calc(clamp(1rem, 3vw, 2.5rem) + 1em);
     font-size: 0.85rem;
   }
-  .cj-nav__link::before {
+  .cj-nav__links .cj-nav__link::before {
     left: clamp(1rem, 3vw, 2.5rem);
   }
-  .cj-nav__search {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.4rem 0.6rem 0.4rem 0.7rem;
-  border: 1px solid var(--color-hair-2);
-  border-radius: var(--radius);
-  background: color-mix(in srgb, var(--color-panel) 70%, transparent);
-  color: var(--color-muted);
-  font: 500 0.72rem var(--font-mono);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  cursor: pointer;
-  transition: color 0.15s, border-color 0.15s;
-}
-.cj-nav__search:hover {
-  color: var(--color-cyan);
-  border-color: var(--color-cyan-dim);
-}
-.cj-nav__search kbd,
-.kbd {
-  font: 500 0.66rem var(--font-mono);
-  padding: 0.1rem 0.35rem;
-  border: 1px solid var(--color-hair-2);
-  border-radius: 3px;
-  color: var(--color-muted);
-  background: var(--color-void);
-}
-.cj-nav__toggle {
-    display: block;
+  .cj-nav__group {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid var(--color-hair);
+    margin-top: 0.4rem;
+    padding-top: 0.4rem;
+  }
+  .cj-nav__group-label {
+    margin: 0.4rem 0 0.2rem;
+    padding: 0 clamp(1rem, 3vw, 2.5rem);
+    font: 500 0.66rem var(--font-mono);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-magenta);
   }
 }
 

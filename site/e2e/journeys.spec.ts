@@ -40,18 +40,43 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
   await page.goto("/classes");
   const header = page.locator("header.cj-nav");
   const toggle = header.getByRole("button", { name: "Menu", exact: true });
-  if (page.viewportSize()!.width <= 860) {
+  const width = page.viewportSize()!.width;
+  const groups: Record<string, string[]> = {
+    Teaching: ["Sabbath Classes", "15 Min w/Captains", "Our Hidden History", "4 Chapters a Day"],
+    Law: ["The Law", "Precepts", "Case Studies"],
+    Reference: ["Dictionary", "Concordance", "Encyclopedia", "Topics", "About"],
+  };
+  const inView = async (locator: ReturnType<typeof header.getByRole>) => {
+    await expect(locator).toBeVisible();
+    const bounds = await locator.boundingBox();
+    expect(bounds!.x).toBeGreaterThanOrEqual(0);
+    expect(bounds!.x + bounds!.width).toBeLessThanOrEqual(width);
+  };
+  if (width <= 860) {
     await expect(toggle).toBeVisible();
     await toggle.click();
-  } else await expect(toggle).toBeHidden();
-  for (const label of ["Precepts", "Case Studies", "The Law", "Sabbath Classes", "Dictionary"]) {
-    const link = header.getByRole("link", { name: new RegExp(`${label}$`) });
-    await expect(link).toBeVisible();
-    const bounds = await link.boundingBox();
-    expect(bounds!.x).toBeGreaterThanOrEqual(0);
-    expect(bounds!.x + bounds!.width).toBeLessThanOrEqual(page.viewportSize()!.width);
+    const drawer = header.locator("#cj-nav-links");
+    for (const items of Object.values(groups)) for (const label of items) await inView(drawer.getByRole("link", { name: new RegExp(`${label.replace("/", "\\/")}$`) }));
+    await drawer.getByRole("link", { name: /Precepts$/ }).click();
+  } else {
+    await expect(toggle).toBeHidden();
+    // The bar itself stays on one line: the Bible link and every group trigger share a row.
+    const bible = header.getByRole("link", { name: /^Bible$/ });
+    await inView(bible);
+    const barY = (await bible.boundingBox())!.y;
+    for (const group of Object.keys(groups)) {
+      const trigger = header.getByRole("button", { name: new RegExp(`^${group}`) });
+      await inView(trigger);
+      expect(Math.abs((await trigger.boundingBox())!.y - barY)).toBeLessThan(4);
+    }
+    for (const [group, items] of Object.entries(groups)) {
+      await header.getByRole("button", { name: new RegExp(`^${group}`) }).click();
+      for (const label of items) await inView(header.getByRole("link", { name: new RegExp(`^${label.replace("/", "\\/")}`) }));
+      await page.keyboard.press("Escape");
+    }
+    await header.getByRole("button", { name: /^Law/ }).click();
+    await header.getByRole("link", { name: /^Precepts/ }).click();
   }
-  await header.getByRole("link", { name: /Precepts$/ }).click();
   await expect(page).toHaveURL(/\/precepts\/?$/);
   await expect(page.locator("main h1")).toBeVisible();
 });

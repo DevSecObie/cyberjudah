@@ -1,10 +1,11 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { api, nf } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/bible/")({
   loader: () => api.books(),
-  head: () => ({ meta: [{ title: "The Bible · CyberJudah" }, { name: "description", content: "The King James text with the Apocrypha, 81 books, every chapter on its own page." }] }),
+  head: ({ match }) => pageHead([{ title: "The Bible · CyberJudah" }, { name: "description", content: "The King James text with the Apocrypha, 81 books, every chapter on its own page." }], match),
   component: BibleIndex,
 });
 

@@ -3,6 +3,7 @@ import { useEffect, useRef, useState, type FormEvent } from "react";
 import { Page } from "@/components/site/chrome";
 import { dataOrigin } from "@/lib/api";
 import { searchLibrary, type SearchHit, type SearchResult } from "@/lib/search";
+import { pageHead } from "@/lib/head";
 
 /**
  * Search runs on the server against the FTS5 index in D1 and renders with the page, so a
@@ -18,7 +19,7 @@ export const Route = createFileRoute("/search")({
     const result: SearchResult = await searchLibrary({ data: { q: deps.q, only: deps.only, limit: deps.only ? 300 : 8 } }).catch((e: unknown) => ({ ok: false as const, reason: String(e) }));
     return { result };
   },
-  head: ({ match }) => ({ meta: [{ title: match.search.q ? `“${match.search.q}” · Search · CyberJudah` : "Search · CyberJudah" }] }),
+  head: ({ match }) => pageHead([{ title: match.search.q ? `“${match.search.q}” · Search · CyberJudah` : "Search · CyberJudah" }], match),
   component: SearchPage,
 });
 

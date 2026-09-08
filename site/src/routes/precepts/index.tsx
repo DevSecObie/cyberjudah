@@ -2,10 +2,11 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Page, Kicker } from "@/components/site/chrome";
 import { api } from "@/lib/api";
+import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/precepts/")({
   loader: () => api.precepts(),
-  head: () => ({ meta: [{ title: "Precepts · CyberJudah" }, { name: "description", content: "The precept index: every subject scripture speaks to, A to Z, with the passages that teach it." }] }),
+  head: ({ match }) => pageHead([{ title: "Precepts · CyberJudah" }, { name: "description", content: "The precept index: every subject scripture speaks to, A to Z, with the passages that teach it." }], match),
   component: PreceptsIndex,
 });
 
