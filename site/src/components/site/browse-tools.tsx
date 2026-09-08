@@ -1,13 +1,12 @@
-import { Link } from "@tanstack/react-router";
-
 export const eraAnchor = (era: string) => `era-${era.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/-$/, "")}`;
 
 export function Breadcrumbs({ items }: { items: { label: string; to?: string; hash?: string }[] }) {
+  // Ancestor anchors must not inherit the router's prefix-matched aria-current.
   return <nav aria-label="Breadcrumb" className="breadcrumbs"><ol>
-    <li><Link to="/">Home</Link></li>
+    <li><a href="/">Home</a></li>
     {items.map((item, i) => <li key={i}>
       <span aria-hidden="true">/</span>
-      {item.to ? <Link to={item.to as never} hash={item.hash} activeProps={{ "aria-current": undefined }}>{item.label}</Link> : <span aria-current={i === items.length - 1 ? "page" : undefined}>{item.label}</span>}
+      {item.to ? <a href={`${item.to}${item.hash ? `#${item.hash}` : ""}`}>{item.label}</a> : <span aria-current={i === items.length - 1 ? "page" : undefined}>{item.label}</span>}
     </li>)}
   </ol></nav>;
 }
