@@ -1,0 +1,906 @@
+---
+title: "ECONOMIC COLLAPSE & UNCERTAIN RICHES"
+slug: "2026/2026-08-08-economic-collapse-uncertain-riches"
+date: "2026-08-08"
+teacher: "Deacon Malachi"
+description: "IUIC in the ClassRoom · 2026-08-08"
+tags: ["IUIC in the ClassRoom", "sabbath"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-08-08</p>
+
+<span class="opens"><b>Opens</b> [Jer 28](/bible/jeremiah/28) · [Hos 5](/bible/hosea/5) · [Zeph 2](/bible/zephaniah/2) · [Matt 6](/bible/matthew/6) · [Matt 19](/bible/matthew/19) · [1 John 2](/bible/1-john/2) · [Luke 21](/bible/luke/21) · [Luke 12](/bible/luke/12) · [Matt 13](/bible/matthew/13) · [Sir 18](/bible/sirach/18) · [Sir 10](/bible/sirach/10) · [Obad 1](/bible/obadiah/1) · [Isa 33](/bible/isaiah/33) · [Ezek 28](/bible/ezekiel/28) · [Rev 18](/bible/revelation/18) · [Rev 13](/bible/revelation/13)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="5UuToCN9Irg"></div>
+
+## Introduction
+
+<div class="reading">
+
+Reading from *Check*, the opening video  *[[0:00](https://www.youtube.com/watch?v=5UuToCN9Irg&t=0s)]*
+
+> Isaiah 58. You supposed to check. Yeah. When the pages flip, things getting dangerous. Break him down all with the fingertip. They scheming, they better pray my fingers slip. Rebuke running them off like a single chick, but that ain't my intention. Build him up, no offenses. You can't help it when the spirit giving them the business. Too many running they mouth for attention. Flick of the wrist, got these wicked ones flinching. Eleventh hour like fourth and inches. Devil on the goal line trying to stop the finish. Nah, it's prophesied that we got to win. You can't stop the men of God when we stop the sin. That's why we correct them. Pull up on your block. That's how we address them. Take it how you want. We don't disrespect them. We the Israelites. We supposed to check them.
+>
+> You supposed to check. Yeah. Isaiah 58. Check. You supposed to check. You supposed to check. Yeah. Isaiah 58. Check. Supposed to check. Yeah. Check. Bible like a Glock with a full clip. Uncle Toms, keep talking that talking, that you get with a bull whip. Try to play your card, I'm a Bible like a Glock with a full clip. Uncle Tom, keep it moving. Check. You lack direction, so let me be direct. I had questions, now we on a quest. While the weekend got them, I'm with the twelve tribes. I don't represent them. You still trying to be gangster but you ain't a threat. We need more in the west. They got the milk of the word, you still ain't a breast. I hit the block and die. Yeah, we warriors acting brand new to me. Bring the whole crew. You going to see when it's war time. So I wish she was trying to go tit for tat. Is real, united in Christ. Yeah, the real is back. Even after the attack, yeah, we still attack. So all those that beef with us, take that. You supposed to check. Yeah. Isaiah 58.
+
+</div>
+
+<div class="reading">
+
+Reading from the thumbnail  *[[2:49](https://www.youtube.com/watch?v=5UuToCN9Irg&t=169s)]*
+
+> This is the dream, baby. God bless America. We got everything we need. That's right, babe. This can never end.
+>
+> This just in: the US economy has reached new lows, with an increase in unemployment and inflation reaching the highest it has ever been.
+>
+> Let us in. I can't access my debit card. Give me my money. Where's the food at? We don't have any food. Please, there's nothing here. You're lying. Where is it?
+
+</div>
+
+*[[4:18](https://www.youtube.com/watch?v=5UuToCN9Irg&t=258s)]* Check, check. Let's rise and face Jerusalem. Y'all got a song ready? Men of Israel, blow trumpets. Trumpets down.
+
+> It's the book of Psalms, chapter 121. I will lift up mine eyes to the hills, from whence cometh my help. My help cometh from the Lord, which made heaven and earth. He will not suffer thy foot to be moved. He that keepeth thee will not slumber. Behold, he that keepeth Israel shall neither slumber nor sleep. The Lord is thy keeper. The Lord is thy shade upon thy right hand. The sun shall not smite thee by day, nor the moon by night. The Lord shall preserve thee from all evil. He shall preserve thy soul. The Lord shall preserve thy going out and thy coming in from this time forth and even for evermore.
+>
+> Blessed be thy name, O Lord God of our father Abraham, Isaac and Jacob. Lord, we come before thee, Father God, on this Sabbath day that you have put aside for us and you, to glorify thy name. We want to thank you, Father God, for everything you have done for us, for bringing us back into the fold, for revealing your son Jesus Christ unto us, Father God. We ask that you be merciful unto your people, the children of Israel, Father God, for we have sinned against thee. We have broken all thy law, statutes and commandments. We ask, Father God, that you forgive us for our sin and the sins of our forefathers.
+>
+> We also ask, Father God, you continue to bless the leadership, strengthen them spiritually as well as physically, Father God. Bless them with more wisdom, knowledge, understanding, Father God, so they could lead your people righteously. Father God, we also ask, O Lord, that you send all your healing angels to heal all the sick that is among us, all the brothers and sisters that go through trial and tribulation, Father God. Strengthen us, O Lord. Bless us, Father God, and guide us. Increase our faith in these last days, Father God. Without you, Lord, we are nothing, Father God. We have nobody to turn to but you, Father God.
+>
+> We also ask, Father God, let your spirit flow to Deacon Malachi, Father God, that is bringing out this your word, Father God, to your people. We ask, Father God, you open the spiritual understanding of your people, Father God, so that they can receive this word, so that they can repent, so we all can glorify and praise that holy name with one mind, one spirit. We also ask, Father God, you send death and destruction upon our enemy. Avenge our blood, Father God, for we can't stand against them, Father God. But O Lord, with your strength, Father God, you can. We ask, Father God, you send more death, destruction and more confusion amongst them as we gather in your Torah over Israel. We also ask, Father God, that you'll send your angels to the brothers that's out there, Father God, in the front line that are preaching your word, gathering your elects, Father God. Have mercy upon them. And we glorify your name by saying, Hallelujah. Hallelujah. Hallelujah. And in the name of Jesus Christ we pray. We thank thee. Amen.
+
+*[[7:21](https://www.youtube.com/watch?v=5UuToCN9Irg&t=441s)]* Men of Israel, sons of God, patient saints, sons of God, hand salute. Most High bless. Salute down. Face sisters. To the honourable daughters of Sarah, we say shalom. Most High bless.
+
+All praises to the Most High. You know, we in the building. We in the building. As y'all can see, I'm in a different — oh my gosh, y'all got the thing up there. Okay. They already know where I'm at. My enemies already know where I'm at. It's all good though.
+
+*[[8:27](https://www.youtube.com/watch?v=5UuToCN9Irg&t=507s)]* Anyways, so first and foremost, all praise to the Most High. We made it to another Sabbath. Also, may the Lord watch over the bishops and deacons and officers and the brothers, wherever y'all at putting in that work. May the Lord watch over you all, man.
+
+**A lot of things is taking place in the world, and the topic I'm going to touch on today is world economic collapse and trusting in uncertain riches.**
+
+Trusting in uncertain riches. World economic collapse. Some of you all like, damn man, every time this dude teach he teaching about debt and destruction and famine and bad things. Some people probably like, yo, Deacon always talking about death and destruction, man. Listen, when you read the scriptures, it says this is what the prophets prophesied of. Let me get that in Jeremiah.
+
+*[[9:25](https://www.youtube.com/watch?v=5UuToCN9Irg&t=565s)]* Oh, I see him in the building, man. All praises. I see Haim in the building. Shout out to you Connecticut brothers, man. Shout out to my one-eyed brethren in the back there.
+
+## Scriptures Opened
+
+
+**[Jeremiah 28:8](/bible/jeremiah/28#v8)**  *[[9:25](https://www.youtube.com/watch?v=5UuToCN9Irg&t=565s)]*
+
+> <sup>[8](/bible/jeremiah/28#v8)</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
+
+- They prophesied against many countries. That's what the prophets does. They prophesy against many countries.
+
+- And against great kingdoms. You all going to hear me speak against America, against Europe, against China, against Russia. Guess what? The prophets prophesy against kingdoms, great kingdoms.
+
+- Of war. Is war coming on this earth? And it's my job to prepare your mind, to let you all know what's coming. As I said, a lot of y'all like, damn, this dude every week keep talking about death and destruction and war. And man, I want a good life, I don't want to hear all of that, I want the love of Jesus. But the prophets prophesy of war.
+
+- And of evil. And there's evil coming on this earth. What type of evil is coming? There will be a global economic collapse. All them money you all got in your bank account, it will disappear.
+
+- And of pestilence. And there is diseases and plagues that going to be hitting this earth. Okay, so that's it on that.
+
+<div class="reading">
+
+Reading from the thumbnail, played again  *[[12:06](https://www.youtube.com/watch?v=5UuToCN9Irg&t=726s)]*
+
+> This is the dream, baby. God bless America. We got everything we need. That's right, babe. This can never end.
+>
+> This just in: the US economy has reached new lows, with an increase in unemployment and inflation reaching the highest it has ever been.
+>
+> Let us in. I can't access my debit card. Give me my money. Where's the food at? We don't have any food. Please, there's nothing here. You're lying. Where is it?
+
+- The world economic collapse. That's a lot of y'all today. A lot of y'all bling bling, you all living it up. A lot of black people today. Billionaires. We got some billionaires, some millionaires. You all living it up.
+
+- Shout out to the brothers on the thumbnail, one and two.
+
+- But what I want you all to understand: things going to get bad. It's going to get bad, and you brothers better understand what time you are living in. You brothers and sisters online, you all better understand what time we are living in. I'm not just going over these classes for no reason. The reason I'm touching on these things is to prepare you all for what's coming. And when it come and it happen, you all going to know that a prophet was amongst you all.
+
+- I'm telling you. You'll be sleeping on us. These things will come to pass.
+
+</div>
+
+*[[14:06](https://www.youtube.com/watch?v=5UuToCN9Irg&t=846s)]* I'm going to start, I'm going to touch on us trusting in uncertain riches.
+
+Now, we as a people, right, we always live beyond our means. That's one thing I realise with our people. We live above our means. Some of you all — because America society is built on debt. That's what the society is built on: debt and credit. The whole fiat system is built on basically debt. So a lot of you all got credit cards and you all live beyond your means.
+
+*[[15:10](https://www.youtube.com/watch?v=5UuToCN9Irg&t=910s)]* When I was growing up it had this song. I forgot the name of it, but it goes like this: what is harder to obtain is harder to maintain, never you live the life that cause you strain, cause it no make no sense, the world you gain then reduce to shame, youth man just keep calling on your name. I know a lot of you like, what song that is? Y'all ain't going to know it. Old school Benji song. But it's saying what is hard to obtain, it going to be harder to maintain. And a lot of you all try to obtain certain things and it's hard to maintain and you end up losing it.
+
+Because why? This whole — you take out credit cards, you take out this and that and you end up losing everything, man. It's hard to obtain, is hard to maintain. A lot of y'all live above your means.
+
+*[[16:04](https://www.youtube.com/watch?v=5UuToCN9Irg&t=964s)]* The time that is coming — okay, guess what? You brothers and sisters got to learn to live below your means. Below your means. All this excess stuff that you see you all got here in Babylon, you got to learn to live without all of that, because the time that's coming, you got to learn to live without all of that.
+
+I telling you all, I grew up cooking outside. I grew up using a latrine, doodooing outside. That's how I grew up. I grew up drinking water from the spring right down the street. The spring bringing out water non-stop, it don't stop, just bringing it out of the ground. That's how I grew up. And guess what? I was happy growing up like that. Happy growing up digging yam, picking bananas from the backyard and cooking outside. Some of y'all might watch that and be like, ah, that's bad living. No.
+
+*[[16:57](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1017s)]* You all comfortable here in America. But let me tell you all something. The way how Babylon is set up is going to change. That comfort that a lot of you all have, it's going to change. Because a lot of you all have been living beyond your means. All those liberal things that these liberal people gave you — black woman here, they gave you food stamps, they gave you social security. All these systems that you see got set up here in Babylon that make you all comfortable, you all will lose all of it. I'm telling you all that's what is about to happen.
+
+Now, let me get in your affliction.
+
+
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[17:44](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1064s)]*
+
+> <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
+
+- In their affliction. In your affliction, when you are being afflicted, they will seek me early. You're going to seek God. So when affliction start taking place, that's the time where people going to seek God.
+
+- Right now you comfortable and stuff like that. But let me tell you all, some affliction is coming. And that affliction is not just oppression by the white man and so forth. It's talking about this famine coming.
+
+- You understand that there will be an economic global collapse. There a lot of brothers and sisters going to lose their job. There is famine coming. There's a great depression coming. There's a world economic collapse coming.
+
+- And guess what? The Lord is allowing that to happen. Why? Because he want you all to seek him. When things get bad, he wants you to seek him.
+
+- And guess what he also want us to do? Because some of y'all is very independent and you think selfish, think about yourself. A lot of brothers and sisters, that's all you care about. You care about self at this time. You got a good job now, you ain't doing bad, you doing good. But when you see things collapse, you lost a job, you're not doing good no more, then you gonna have to rely on that brother or that sister next to you. We gonna be forced to work together to create for our own.
+
+**[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[19:40](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1180s)]*
+
+> <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
+
+- So God want us to gather together and work together. So the Lord is going to force us to gather together, work together, start farms together, start community together.
+
+- Sisters: I want my own house with a white picket fence, I don't want to be around nobody. That's what America taught you. It's about us working together and preparing to survive what's coming. That's what this is about.
+
+- I'm telling you all things is going to get bad, and worse and worse and worse. So it's about preparing for what's coming. So God going to force us to come together.
+
+*[[21:21](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1281s)]* Now I want you to go to Matthew 6 and 19. Trusting in uncertain riches. Some of you all got millions of dollars in your account. Well, I don't think anybody that's amongst us right now got millions of dollars, we all poor. But some of y'all online listening got millions of dollars in your account. And you comfortable. Some of y'all might get a couple hundreds of thousand in your account and you comfortable. You got the house, the car, everything you want you got. You are living comfortably here in Babylon. Now let me show you all some things.
+
+
+**[Matthew 6:19-20](/bible/matthew/6#v19)**  *[[22:11](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1331s)]*
+
+> <sup>[19](/bible/matthew/6#v19)</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
+
+- So God says we should not be laying up treasures upon the earth. How do you lay up treasures upon the earth? You got millions of dollars and you put that thing in the bank and it's just sitting there, when you could give that money to the poor.
+
+- When I said to the poor, I'm talking about give it to us and we going to distribute it as needed in the congregation. That's what it mean when it says give to the poor. It ain't talking about you go out there and give a crackhead, somebody on the street, you give them millions. Bring it to the leaders and we going to distribute it to the people. We going to put it to good use. That's how you store up your riches in heaven.
+
+- But you want to store up your money in a bank. You get your money in the bank, storing it up in the bank.
+
+- Where moth and rust doth corrupt, and where thieves break through and steal. And where somebody could come and steal it.
+
+- This is saying that everything you have and you laying upon this earth, guess what? You could lose it. During the economic collapse in 2008, a lot of people lost a lot of money. The banks — you could not go to the bank and withdraw your money. They said, we could only insure you a hundred thousand. So where the rest of my money at? They stole it. That's what happened.
+
+- So God says don't lay up your treasures where people could steal it. That's them banks. That's what a bank was set up to do. When you put money in the bank, they take your money and they loan it out to investors. So when all that trade and Wall Street and them investors and everything go belly up, guess what? Your money gone too. Because they loaned your money to who? The investors. They invest your money. The whole American system is built on debt, as I said.
+
+> <sup>[20](/bible/matthew/6#v20)</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+
+- How do you lay up for yourself treasure in heaven? You lay your treasures up in heaven by helping the saints. You do good works. That's how you lay your treasures up in heaven.
+
+- He told the good master, what shall I do? He said, give all your money to the poor. But check this, this is how you lay up your treasures in heaven.
+
+**[Matthew 19:16-21](/bible/matthew/19#v16)**  *[[25:17](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1517s)]*
+
+> <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
+>
+> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
+
+- Good master, what good thing shall I do? Why callest thou me good? There is none good but one, that is God. But if thou wilt enter into life, keep the commandments.
+
+> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+>
+> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
+
+- Which? Thou shalt do no murder, thou shalt not commit adultery, thou shalt not steal, thou shalt not bear false witness, honour thy father and thy mother, and thou shalt love thy neighbour as thyself.
+
+> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
+
+- All these have I kept from my youth up. What lack I yet?
+
+> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
+
+- If thou wilt be perfect, go and sell that thou hast — go sell what you have, all your belongings — and give to the poor. When he says give to the poor, give it to the poor believers. Give it to the leaders and they will distribute it to the people amongst us that need it. When you read Acts, I think it's Acts five.
+
+- And this ain't saying to just give away everything you have. This brother had excess. He had a lot. So he's saying, listen, sell what you have and help the poor.
+
+- And thou shalt have treasure in heaven. So how do you have treasure in heaven? When the Lord said store up your riches in heaven, it's talking about giving. It's talking about your good works. Y'all understand? That's how you store up your treasure in heaven.
+
+- So when you give to the righteous, when you help the righteous, when you take the funds, the money you got on the earth, and you help this truth, you are storing up riches in heaven.
+
+- No matter whatever little you have, some of you all might be giving five dollars a week because that's what you can give. I'm talking about those of y'all that's poor, and you're like, damn, that's all I could give. Guess what? That's you storing up riches in heaven. That's how you store up riches, by helping us financially in this truth.
+
+**[Matthew 6:20-21](/bible/matthew/6#v20)**  *[[28:41](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1721s)]*
+
+> <sup>[20](/bible/matthew/6#v20)</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+
+- So how you lay up treasure in heaven? By helping your brothers and sisters financially.
+
+> <sup>[21](/bible/matthew/6#v21)</sup> For where your treasure is, there will your heart be also.
+
+- For where your treasure is, there will your heart be also. So wherever your treasure is, that's where your heart is going to be also.
+
+- So if your treasure is in this world — is the Lamborghini, the nice house — don't get me wrong, it's nice to have a nice house, but it should not be a treasure. You got to be willing to lose it. You cannot love that house or that car or whatever treasure you got on this earth more than God.
+
+- So you got to ask yourself, what is your treasure? Is your treasure the truth? Or is your treasure your house or your car or that ten million dollars you got in your bank account? What is your treasure? What do you love? What do you hold near to you?
+
+- So if you love this world and your treasure is this world, your job or whatever, that's where your mind going to be, in your job, in whatever your treasure is. But if your treasure is the kingdom of heaven, you going to be occupying that. That's where you going to be occupying yourself in.
+
+**[Matthew 6:22-24](/bible/matthew/6#v22)**  *[[30:27](https://www.youtube.com/watch?v=5UuToCN9Irg&t=1827s)]*
+
+> <sup>[22](/bible/matthew/6#v22)</sup> The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
+
+- So the light of your body is your eyes. Meaning whatever your eyes see, that's what you desire, and that's where your body follow. That's where your body go. Like, okay, I want to get that house, I want to get that treasure. You see the treasure, you desire it, your whole body is going towards that treasure.
+
+- If your eye is single, focus on one thing, thy whole body shall be full of light. Your body going to be focused on what? On the truth, on the word of God, on the kingdom of God.
+
+> <sup>[23](/bible/matthew/6#v23)</sup> But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!
+
+- But if thine eye be evil — meaning what? You trying to get that money, make that money. Your mind is just on money, on the treasures of this world.
+
+- Thy whole body shall be full of darkness. Your mind and your body is focused on getting rich in this world and being flamboyant and not on the truth, your whole body is full of darkness.
+
+- So the light that is in you could be darkness. How great is that darkness? That covetousness, that love of this world. How great is it?
+
+> <sup>[24](/bible/matthew/6#v24)</sup> No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
+
+- No man can serve two masters. You can't be serving Christ and Satan. You got to make up your choice, brothers and sisters. This world belongs to Satan. Everything in this world, we are just passing through. The jobs we have, the money we have, the little stuff we have in this world is for us to navigate through this world. We get a house over our head, the things that is necessity for us. Some of us the Most High might bless with more, because he realise, okay, money is not going to defile you, so I'm going to give you money.
+
+- You can't serve two masters. You can't be chasing money and trying to serve God. You got to be focused, one point. Some of you all go take three, four jobs, working like crazy. I got to get this. I want to be successful. I want to make it.
+
+- For either he will hate the one and love the other. Now what does end up happening? A lot of brothers just end up hating the Lord, because the Lord giving you a restriction and Satan telling you, yo, you could live it up, you could do this, you could do that. Satan have no rules and restriction. So you end up hating the Lord and loving Satan. And that brother, you start seeing him less and less and less. He always got to work. I'm always working, you know, to make that money. I got to pay my bills. I've got this bigger house, so I got to get another job. That's what I see a lot of brothers do a lot of time.
+
+- Satan will come to you and will say, listen, I'm going to give you this job. But it's not Satan, but it is Satan. The person that's speaking to you, Satan is sitting in that person. They say, yo, I got a job for you, but I need you to work on the Sabbath day. Now if you take that job, is something wrong?
+
+- You're a new brother. If somebody come to you and say, listen, I got a job for you, I'll give you a hundred and fifty thousand a year, but you got to work on the Sabbath. What's your name? Mai. Okay, Mai. So should you work on the Sabbath for that hundred and fifty thousand a year? No, sir. What about if it's a half a million a year? No, sir. Not even half a million? No. Okay, let me sweeten the pot. A million dollars to work on the Sabbath? You going to work on the Sabbath? No, of course not. How much money you got in your account right now, be real with me? About twenty-five hundred. Okay, so now you could become a millionaire. All you got to do is work on the Sabbath.
+
+- A lot of people will break the Sabbath. You saying you're not going to right now, but when that temptation come your way, that's where the real test start. This is what I hear people say, brothers and sisters: God will understand, I got to do it, I got to pay my bills, I'm in captivity, God will understand. No. You was just tested, and you fail. You fail.
+
+- Daniel was in captivity. Daniel asked for the Sabbath days off. Daniel did not eat unclean foods. Our forefathers in the time of the Maccabees, they rather died than to break the Sabbath, some of them.
+
+- So when you sit back and you said, God is going to understand — you don't understand what the Sabbath day represent. A lot of y'all don't understand. The Sabbath day didn't mean, oh, I could just rest my body. No, the Sabbath day represent righteousness. It represent paradise. It represent us entering into paradise. It represent where we was in the beginning, the kingdom of God, when we going to be at rest from these nations ruling over us. So you want to break that?
+
+- So a lot of you say God will understand. No, God does not understand. And don't come and ask me, yo, you got a job offer and they want you to work on the Sabbath, if it's okay. Don't ask me that. Because I will tell you no. Because God says, whosoever teacheth men so will be called what? If you choose to go do that, that's on you. But I'm not going to tell you it's okay.
+
+- Now one thing I could say is, if you come into the truth and you got a job on the Sabbath and you got to try to get out of it, that's between you and the Lord. But you in the truth and you learn this and you willingly go and say, let me go do this job, I'm going to make a million dollars a year — yo, you don't understand. I'm going to help the truth with that million dollars, man. I'm going to give you all half, man. Half of the money. Yo, Deac, I got you, son. I can look out for the congregation. Now you working all the damn time. Nobody see you no more. And I tell you, that's how Satan set you up.
+
+- Or else he will hold to the one and despise the other. So that's what always happen, and we see it over and over.
+
+- Ye cannot serve God and mammon. Mammon is money. You cannot serve money.
+
+**[Matthew 6:25-32](/bible/matthew/6#v25)**  *[[39:22](https://www.youtube.com/watch?v=5UuToCN9Irg&t=2362s)]*
+
+> <sup>[25](/bible/matthew/6#v25)</sup> Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
+
+- So this is the state of mind that we must have as followers of Christ. Take no thought for your life. You know why he says take no thought for your life? A lot of you all think that you could direct your life. By the time I meet this age I want to accomplish this and I want to have this. The Lord says, man, stop worrying, stop taking thought for your life. Because a lot of people, they try to plan everything. Plan their life. I'm going to do this, I'm going to do that. By this time I'm going to get my house, I should have at least five kids. Sisters, the Lord says stop taking thought of your life — what you going to do tomorrow, how you going to do this, how you going to do that.
+
+- So what you all got to understand is that life is better than meat. What it mean by life is better than meat? Some people died last night. Some people died today. Some people is sick and is dying. And you here worrying about a damn light bill. You here worrying about a car note. You here worrying about a mortgage, and people is dying from different diseases.
+
+- It's not until you go through certain things you're like, damn, I worry about the wrong things. I'm here worrying about this rent, what I going to eat next week, stability, my husband ain't got a good job, and I worry about all of these things. I worry about the wrong thing. The only time you could come to that realisation is when something bad happen to you. You catch some sickness and you realise how much more important your health and your body is than all this crap you be worrying about.
+
+- So your life that you have, and you being healthy, that's much more than the other stuff you worrying about.
+
+> <sup>[26](/bible/matthew/6#v26)</sup> Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
+
+- So you don't think that we are better than the birds and all of that that the Lord feed? Don't you think the Lord know what you need? And he's going to help you. And when I say help you, he gonna allow opportunities to come along to help you. But the thing about it, you got to believe that.
+
+> <sup>[27](/bible/matthew/6#v27)</sup> Which of you by taking thought can add one cubit unto his stature?
+>
+> <sup>[28](/bible/matthew/6#v28)</sup> And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
+
+- And why take ye thought for raiment? To take thought is to worry. Why you worrying about clothes?
+
+> <sup>[29](/bible/matthew/6#v29)</sup> And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
+>
+> <sup>[30](/bible/matthew/6#v30)</sup> Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?
+
+- Shall he not much more clothe you? Shall he not much more give you what you need? You got to believe that.
+
+- O ye of little faith. So this is the key thing. When you see people worry about bills and worry about this and that, and you doing all you can and you still worry, or stressing your husband out — that's what little sisters do — you worry about them things because you got little faith. That's the people that worry about them things.
+
+- You can't be serving God and worry about them many things. You are a servant of God. You serving the creator of the heaven and the earth, and you worrying about them minor things. You worry about, damn, I got to pay this, I got that. You got to have faith like, yo, the Lord got me. The Most High, he bless you in different ways, by people around you, or he send you some jobs. He might even bless you too — a white person might give you a job. All praises to the Lord.
+
+> <sup>[31](/bible/matthew/6#v31)</sup> Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
+>
+> <sup>[32](/bible/matthew/6#v32)</sup> (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
+
+- So you see who worry about these things? White people worry about these things. And because we have been enslaved amongst them, they try to teach us to worry about these things. But the Lord is telling us we need to trust in him, and worry about good life and health and strength, not about materialistic things.
+
+- That's how white people worry: I got to go to college, I finish this, and by the time I meet forty I'm going to start having my kids. That's how white people think. The Gentiles and them worry about these things. But we are not to worry about these things, man. Trusting in uncertain riches.
+
+**[1 John 2:15-16](/bible/1-john/2#v15)**  *[[46:13](https://www.youtube.com/watch?v=5UuToCN9Irg&t=2773s)]*
+
+> <sup>[15](/bible/1-john/2#v15)</sup> Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
+
+- So we should not love this world, neither the things that are in this world. The things that are in this world, we should not put them above God.
+
+- If any man love the world, the love of the Father is not in him. If any one of y'all love this society, y'all love this kingdom, God's spirit is not in you. But you love this kingdom, you love this world.
+
+> <sup>[16](/bible/1-john/2#v16)</sup> For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
+
+- For all that is in the world, the lust of the flesh. Them desires that everybody have. It is sexual, is power, is different lust that we all have in our flesh. That's what's in this world.
+
+- And the lust of the eyes — the things you see and you lust after, whether it's money or woman and so forth.
+
+- And the pride of life. And what is the pride of life? The pride of life is, you sisters, you want the big house, the nice house, so you could show off and show your family members and you could show the people you went to school with: I accomplished this in my life, watch what I accomplished, look, look. You know what that's called? The pride of life. That's all that's in the world.
+
+- Is not of the Father, but is of the world. Stop, you sisters, stop stressing your husband out because you want to keep up with the Joneses. Because you got the pride of life. You want to live nice. You want to show off to everybody, to show what you accomplished in your life. Soon none of that crap is going to matter.
+
+**[Matthew 6:32-34](/bible/matthew/6#v32)**  *[[48:47](https://www.youtube.com/watch?v=5UuToCN9Irg&t=2927s)]*
+
+> <sup>[32](/bible/matthew/6#v32)</sup> (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
+
+- The Gentiles, the other nations, they worry about them things. That's what they care about. We shouldn't care about them things.
+
+- For your heavenly Father knoweth that ye have need of all these things. You think God don't know you need them things? He know what we need.
+
+> <sup>[33](/bible/matthew/6#v33)</sup> But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
+
+- But seek ye first the kingdom of God. That's the problem with a lot of us. A lot of you all end up in bad situations because you don't seek God first. Some of you all got four, five, six jobs. You stop doing the work. You don't seek God and you thinking it's a good thing. No.
+
+- You must seek first the kingdom of God, to hell with your damn job. No — don't go and quit your job and then come and say, yo, Deacon said to hell with the job, now you asking me to help you with your rent. I'm broke too, I can't help you. I got to make sure you all understand. They get to their job on Monday and say, the hell with you, man, I ain't doing this crap no more, I'm seeking the kingdom of heaven first. Yo, no. Full-time prophet. I'm a full-time prophet. Deac, I need money to pay my rent. It's a balanced state.
+
+- And his righteousness, which is keeping the commandments. Do them things first, and what going to happen?
+
+- And all these things shall be added unto you — food, clothing, shelter, the things you need to take care of yourself, the things you need to take care of your family. If you put God first, God say, I'm going to bless you, I'm going to allow you to get the things you need to survive in this wicked world.
+
+- But some of you are going through hard times even right now because you don't put God first. That's why you going through hard times and things is hard. So God is putting you through these things because he like, yo, you don't seek me first. You always going on the job. You got three jobs and still you can't make the bills, and you don't even pray, you don't come around my sons and learn. So hey, you got to learn the hard way. I'm going to just make things hard for you until you understand you got to seek me first.
+
+- These things is not bad. The Lord is going to give it to you if you seek him first.
+
+> <sup>[34](/bible/matthew/6#v34)</sup> Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
+
+- So tomorrow going to take thought for the things of itself. Stop worrying about tomorrow. Tomorrow I got to do this, tomorrow my bill going to be disconnected, tomorrow they going to — so what if it get disconnected, man? Just go and get it reinstated. You just stressing yourself out worried.
+
+- When something is out of your hand and you can't do nothing, stop worrying about it. That's why I'm telling you all, some things is out of our hands and there's nothing we could do. You can't even number the hairs on your head. You worry about certain things — leave it alone and ask the Lord for help.
+
+- Sufficient unto the day is the evil thereof. Every day we wake up, some bad stuff happen, man. I'm tired of this crap. But that's part of life. There's always something bad happen. That's life though. Bad things happen. But guess what? We got to live it. Every day is sufficient; the evil that happened in that day is enough for itself. Stop worrying about stuff, man.
+
+**[Luke 21:34-36](/bible/luke/21#v34)**  *[[53:38](https://www.youtube.com/watch?v=5UuToCN9Irg&t=3218s)]*
+
+> <sup>[34](/bible/luke/21#v34)</sup> And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.
+
+- Surfeiting mean what? Overindulgence or excess. Your heart is overcharged with excess. Excess what? Excess work. Excess drinking.
+
+- And cares of this life. Excess — you always working, you always working.
+
+- Let me give you an example of that. You work at Walmart, right? The corporate call you and corporate say, listen, we going to make you manager of this branch of Walmart, the branch that you working in, because we had to fire the other manager. We going to make you a manager and we going to give you an extra three thousand a year. But guess what, now you got to stay late and you got extra work. You going to be like, three thousand? Can you make it five? They say okay, we going to give you six thousand a year — but you got to work longer hours and you got more responsibility, you got to manage that Walmart. So you said okay, I'll do it. And you think that's a blessing from God.
+
+- So guess what? The more hours you got to work, you are spending less time with your family. You also spending much less time at the school. You also spending less time studying. But in your mind you saying, God just bless me. No, that's not God blessing you. That's Satan trying to take you out. Some of you all get curses and think it's a blessing. No, Satan trying to take you out. But you got to see these things.
+
+- So surfeit is excess. You always working and stuff. So now you are not around. You can't serve God. So guess what? The day of the Lord come and you not aware. Why? Because you caught up in this world.
+
+> <sup>[35](/bible/luke/21#v35)</sup> For as a snare shall it come on all them that dwell on the face of the whole earth.
+
+- They going to come as a trap. The day of the Lord is going to be a trap. It going to come as a trap. But if we watch, it's not going to come as a trap. If you focus, it's not going to come as a trap.
+
+> <sup>[36](/bible/luke/21#v36)</sup> Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+
+- Watch ye therefore. And pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+
+**[Luke 12:13-20](/bible/luke/12#v13)**  *[[58:36](https://www.youtube.com/watch?v=5UuToCN9Irg&t=3516s)]*
+
+> <sup>[13](/bible/luke/12#v13)</sup> And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
+>
+> <sup>[14](/bible/luke/12#v14)</sup> And he said unto him, Man, who made me a judge or a divider over you?
+
+- Master, speak to my brother, that he divide the inheritance with me. And he said unto him, man, who made me a judge or a divider over you?
+
+> <sup>[15](/bible/luke/12#v15)</sup> And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.
+
+- So he said unto them, you all better take heed and beware of covetousness.
+
+- For a man's life consisteth not in the abundance of the things which he possesseth. So a lot of times our people think, because you got the nice house, you got the nice car and the pride of life — remember we read that in John early on — you think your life worth the possessions, the things you get. That's what your life worth. But the Lord says no. The worth of a man's life is not about the amount of money and land and cars and houses and money you got in your bank account. That's not what a man's life worth.
+
+> <sup>[16](/bible/luke/12#v16)</sup> And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:
+>
+> <sup>[17](/bible/luke/12#v17)</sup> And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?
+
+- So this rich man had land, and the land brought forth a lot of fruits, a lot of crops.
+
+> <sup>[18](/bible/luke/12#v18)</sup> And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.
+
+- I'm gonna pull down my barns. Break them down. And build greater. And I'm going to build some greater barns. And there will I bestow all my fruits and my goods. I'm going to build a bigger barn and put all my goods there.
+
+> <sup>[19](/bible/luke/12#v19)</sup> And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.
+
+- This is what this brother said: yo, I'm good, I got enough goods stored up for years. Remember it says don't store up treasures upon the earth. So this brother said, I'm good, I got enough stored up for years.
+
+- Take thine ease. So he could relax now. I've worked hard all this time, now I could just relax and enjoy life. This is what he's saying in his mind. Eat, drink, and be merry.
+
+> <sup>[20](/bible/luke/12#v20)</sup> But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?
+
+- But God said unto this man, this rich man: thou fool. You a fool. This night thy soul shall be required of thee. You about to die tonight. You talking about tearing down your barn next week and putting your crops inside and what you going to do next. Yo, you fool, you going to die tonight.
+
+- That's why the scripture I read early on, it says life is much more than meat. What you worrying about this stuff for? The life you have is much more. So you got this man, he trust in his riches. He said I'm going to build a bigger barn and all of that, but he didn't understand that that same night he was about to die of a heart attack or something.
+
+- So you always got to put your trust in God and not riches.
+
+**[Matthew 13:22](/bible/matthew/13#v22)**  *[[1:02:49](https://www.youtube.com/watch?v=5UuToCN9Irg&t=3769s)]*
+
+> <sup>[22](/bible/matthew/13#v22)</sup> He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
+
+- So you hear the word, and the cares of this world and the deceitfulness of riches choke the word, and he becometh unfruitful.
+
+- Now a lot of you all don't understand the warfare. A lot of you all don't understand what take place. This is war that we just read right here. This is war. It says some of you brothers and sisters is sown amongst thorns. And the word springs up, but the thorns choke the word. It says the deceitfulness of riches. Why says deceitful?
+
+- So when you hear the word, you came into the truth, you are amongst us right now, but you love this world. The care you have for this world — meaning you want a nice house, you want nice things, you want nice cars. And it's nothing wrong in wanting these things, but there's something wrong when you put these things before God.
+
+- It says deceitfulness of riches, because in order to get rich, Satan going to come at you with deceit. And it's all to destroy you and choke you and pull you out of this truth. That's why it says the deceitfulness of riches choke the word that's in you, because the riches is deceiving you.
+
+- It could fall under your job, that promotion on your job. It could fall under many different things. I know this one brother said he want to become a millionaire; he was a barber or something like that and he end up leaving out of here. Some of y'all, the things you want to do — you want to be a scammer and so forth. You can't do that amongst us, so you leave. Some of you all, before you come amongst us you used to do certain crimes and you can't do it no more, and you don't want to have a regular nine to five, so you will leave. The deceitfulness of riches. Riches deceive you. It deceive you in how to obtain it.
+
+- The deceitfulness of riches deceive a lot of brothers and sisters and they left us. The word was choked because of them riches they want to obtain.
+
+- It happen deceitfully. For instance, this is the deceit. You got a job on the Sabbath. You start showing up less on the Sabbath. There is no growth in your spirit. Eventually you going to fall off. That's you being choked. That's the deceitfulness of riches. You making money, you got a job working on the Sabbath, you rarely come amongst brothers and sisters, so your spirit is not growing. So what's the riches doing there? It's choking the word that's in you.
+
+- And you become unfruitful. Meaning it take you out. You going back into the world. Satan destroy you. You are took out. You lost the battle. We see a lot of people left the truth. A lot of people: why I left IUIC. You left because you couldn't endure. That's what it is. You left because you were not one of the elect.
+
+**[Sirach 18:25](/bible/sirach/18#v25)**  *[[1:07:09](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4029s)]*
+
+> <sup>[25](/bible/sirach/18#v25)</sup> When thou hast enough, remember the time of hunger: and when thou art rich, think upon poverty and need.
+
+- When thou hast enough — when you have enough. Meaning what? The Lord blessed you with enough, right? You got money, you got a hundred G's in the account or so forth, you got a nice little savings there.
+
+- Remember the time of hunger. Remember when you had nothing. If you live like that, you going to be all right. But some of you all, you grew up poor and you got a little something now and you forgot where you came from. You forgot poverty. That's why I said we got to learn to live below our means and within our means.
+
+- I love this scripture right here. When you have enough — you might have a good job, the Lord bless you with a good job, you making money. Remember the time of hunger. Remember when you didn't have nothing.
+
+- There's an old saying that says when you have nothing and when you finally get something, you appreciate what you have, because you understand what it is to have nothing. But then you got people that you give them everything, they never had nothing, so they don't really appreciate it. This is basically what this scripture is saying. When you have enough, always remember when you didn't have.
+
+- And when thou art rich, think upon poverty and need. If you become rich, God says listen, think upon poverty. Why you got to think upon poverty and you rich? Because guess what? You could lose everything. You could lose it all.
+
+- And that's what I'm going to go over with you all. Some of y'all will lose everything. And remember Christ said we got to be willing to lose everything for the kingdom and for his name's sake. A lot of y'all will lose a lot.
+
+*[[1:10:48](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4248s)]* There is a financial collapse that's about to take place, and I think it's organised by the higher-ups in society. There's no way Trump is that stupid. You feel what I'm saying? There's no way Trump is that stupid. I think the economic collapse that's about to happen, it's being engineered and forced to bring in the one world order, the one digital currency that everybody going to use, because the US dollar is losing its power. It's losing its dominance in the world. So they have to create something to replace it. So that's what we see taking place.
+
+*[[1:11:53](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4313s)]* So I'm going to touch on some scriptures and show you all what taking place, and show you all some videos. You do not trust in uncertain riches, because the riches that you have today, it's not really real money. It's not riches. You see that bank account you got with the numbers inside there? That doesn't worth nothing.
+
+*[[1:12:50](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4370s)]* What kind of money system we got today? Let me go back in history a little. What is the money system we got today? What's this right here? Fiat currency, all the way to the bottom.
+
+
+<div class="reading">
+
+Reading from a video explaining fiat currency  *[[1:12:50](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4370s)]*
+
+> Fiat currency. Fiat currency is a type of money that is created by a government and is not backed by a physical commodity like silver or gold.
+
+- Pause. In other words — so the money that we have today, the US dollar, is fiat. It's fiat money. It is not backed by nothing valuable. It is not backed by silver. It is not backed by gold. It is fiat money because it came out of nowhere, and it's a piece of paper and they said this is the value, this is what it worth. But it worth nothing. That's the money that all of you all trust in that's in your bank account. It's worth nothing. It's fiat money. Have nothing backing it.
+
+- That's how the financial system was set up ever since after World War II. Ever since 1944, 45, this is what they've been doing. First it was on the gold standard, and then after that it became fiat.
+
+> Fiat currency is a type of money that is created by a government and is not backed by a physical commodity like silver or gold. In other words, it is backed by the perceived stability and authority of the government that issued it, and doesn't represent an actual physical store of value like gold bullion. Today, the most commonly used currencies in the world, like the US dollar and the euro, are fiat currencies.
+
+</div>
+
+<div class="reading">
+
+Reading from a second video on fiat currency  *[[1:14:44](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4484s)]*
+
+> You've heard the phrase fiat currency. But what does it actually mean? The word fiat is Latin and it means by decree or by declaration. It means something is so because the government says that it is so.
+
+- So the word fiat mean by decree or by declaration. So the money is what it is because they made a decree that that's what it is. They said this is what this dollar worth, this is what this worth, by decree. So that's what fiat mean.
+
+> It means something is so because the government says that it is so, and it enforces that it is so. And so when you hear a fiat currency, what you're really hearing is, this is money because the government enforces it. If we take one step further, we can recognise that the only way the government enforces anything is through the use or the threat of violence. Because if you do not abide by the laws, they use violence to incarcerate you, or at worst the death penalty. And so really a fiat currency is not a currency by declaration. It is a currency, or it is money, by force.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on the Great Depression  *[[1:16:22](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4582s)]*
+
+> October 29th, 1929, Black Tuesday. The stock market crashed, wiping out billions in wealth overnight and triggering the worst economic crisis in history. Banks collapsed, leaving millions without their life savings. Panic spread as businesses closed, sending the country into financial ruin. Unemployment skyrocketed to 25 per cent. Once thriving businesses shut their doors, and families struggled just to put food on the table. As if the economic crisis wasn't enough, the Dust Bowl devastated farmland, forcing thousands of families to flee in search of work. Homelessness soared. Hoovervilles, named after President Herbert Hoover, became symbols of suffering and government inaction. In 1933 Franklin D. Roosevelt took office.
+
+- So you all see, this was the Great Depression, 1929 to the 30s. I'm telling you all, what you all saw happen back then is going to happen again today, but on a much higher level.
+
+- Remember last week I touched on there shall be the beginning of famine and so forth, the beginning of sorrows. Now what I'm going to tell you all is that when the American dollar fall globally, everybody going to feel it. Because everyone use the US dollar globally. Everybody, their country is pegged to the US economy. So the US economy fall, guess what? All the economies in the world, all these other countries, their economy will also collapse.
+
+> New Deal — a series of programmes to create jobs, rebuild the economy and restore hope. The Great Depression lingered for years, but World War II finally ended it as industrial production soared and America rebuilt itself. The Great Depression changed America forever, reshaping government policies and financial systems to prevent another disaster.
+
+- So they want to prevent another disaster, but guess what? It's going to happen again. There will be another global collapse that's going to take place. And we see it happening before our eyes right now.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on the forty hour work week  *[[1:19:19](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4759s)]*
+
+> In 1926 they discovered the perfect trap. Forty hours keeps you alive, but too tired to escape. Henry Ford ran the numbers. He tested different work schedules and found the sweet spot. Forty hours — not because it's optimal for productivity, because it's optimal for control. Let's do the math.
+
+- Now let me tell you all something. These jobs that they got set up for us today is about control. Them forty hour a week jobs is for control. Henry Ford, he figured this out in the 1920s: how do I control people? What's the exact amount of time to give them? Okay, forty hours a week. That's good. Eight times five is forty, right?
+
+> Let's do the math. Forty hours work, ten hours commuting, fifty-six hours sleeping, fourteen hours for eating, showering, basic survival. That's a hundred and twenty hours, leaving you forty-eight hours of free time. Except you're exhausted. So you spend Saturday recovering from the week and Sunday dreading Monday. Your weekend isn't freedom, it's recovery time, so you can do it again. Monday morning the alarm goes off and you feel it. That existential dread. Five days until freedom. Five days of giving your life away for what? A paycheck that disappears instantly. Rent, bills, food, loans, nothing left. You want to start that business? Too tired. Learn that skill? Too tired. Build that project? Too tired. That's not an accident. That's the design.
+>
+> Now the crazy part about this is I know exactly how this feels. I knew that I was a slave.
+
+- That's by design. Y'all understand? When the Bible says they never let us go free, it's by design.
+
+</div>
+
+*[[1:21:27](https://www.youtube.com/watch?v=5UuToCN9Irg&t=4887s)]* Now let me show you all this. Your job — what are they paying you for, brethren? Pastor Mike, to the brother right here. What are they paying you for?
+
+- **A brother:** You mean what I do for work, sir?
+
+- No. What are they paying you for? I don't want to know what job you do, man.
+
+- **A brother:** Pay me for my time, sir.
+
+- They pay you for your time. How much hours a day you work?
+
+- **A brother:** Ten to twelve.
+
+- Ten to twelve hours then. So you pass the forty hours a week. Ten to twelve hours a day, right? Now that ten to twelve hours represents what?
+
+- **A brother:** Time I could be given to the Lord, sir.
+
+- No, something else. Yeah, that's good too. But think about it. What are they really paying you for? What are they paying us for? Build his business. Yeah, you building his business. But what does time equal to?
+
+- **A brother:** Freedom.
+
+- Okay, all of that is right. I will just give it to you. Your time equal your life. You are selling them your life, your life force. There's one thing you could never take back in this world.
+
+- **A brother:** My time.
+
+- Your time. Let me give you an example. You work twelve hours a day, five days a week. You give him two and a half days of your life. So these companies and these corporations, they are paying you for your life, your life force. They just say time to sound good. They say, oh, we paying you for your time, you're working this amount of hours. But what they really buying from you is your life force.
+
+- You won't be at that job, because you work for how many years and they retire you when you sixty, right? When your life force is done, your life is over, they said you could retire now because you about to drop dead anyways. So they are paying you for your life. We still slaves. They just set up the system different.
+
+- *[[1:25:30](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5130s)]* When you get paid, all that money going right back in bills. I don't know if it's just me alone, man, I be playing catch-up on them bills. When you get paid, all the money going right back in the bills. That was by design, to keep us in a trap.
+
+- So we have become wage slaves. This is a new form of sharecropping on another level. We have become wage slaves and we give them our life force, our life. Because the time that we give them, that's your life you're giving them. You work a year, five days a week, twelve hours a day, you give them six months of your life. Six months that you will never get back. That's time. That's years going by and you becoming older and older and older.
+
+
+<div class="reading">
+
+Reading from the rat race, and the illusion of happiness  *[[1:26:26](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5186s)]*
+
+> The illusion of happiness. I am love. You are the medication for happiness.
+
+- That's a lot of you all in the rat race. The illusion of happiness. That's our people.
+
+- Damn, man. I paid at least a hundred thousand dollars in tickets in New York, man. I'm telling you. Drinking the alcohol.
+
+- See the money right there? That's a lot of you brothers and sisters chasing money. Chasing the money. Chasing the money. That's a lot of you all chasing the money. Chasing happiness. Chasing that money until you dead. Until you dead. You chase that money, sell your life force, until you drop dead.
+
+</div>
+
+<div class="reading">
+
+Reading from a clip of a Christian being asked, ten trillion dollars or ten minutes with Jesus  *[[1:29:35](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5375s)]*
+
+> Ten trillion dollars or ten minutes with Jesus? Give me the ten trillion dollars. Cause I'mma give Jesus ten per cent. Stop the cap. And me and Jesus good. I'm with Jesus all the time. He walks with me. He texts with me. He the one set the ten trillion up. Give me them ten trillion. I'm going to be on the altar Tuesday. Father God, let me get that scripture.
+
+- Yo, these Christians is stupid. He said give me the ten trillion. He said Jesus is the one, I give him the ten per cent. Yo, that's a covetous man. But a lot of our people, they do a lot of stuff for that money.
+
+</div>
+
+**[Sirach 10:9-10](/bible/sirach/10#v9)**  *[[1:30:32](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5432s)]*
+
+> <sup>[9](/bible/sirach/10#v9)</sup> Why is earth and ashes proud? There is not a more wicked thing than a covetous man: for such an one setteth his own soul to sale; because while he liveth he casteth away his bowels.
+
+- Why is earth and ashes proud? There is not a more wicked thing than a covetous man. When you covetous, what you going to do? For such a one setteth his own soul to sale. So you sell your soul. And that's what our people have done in the Christian church.
+
+- Because while he liveth he casteth away his bowels. He give up his insides. That's what it mean. You going to sell yourself if you covetous. You get diddified. You become a Diddyite.
+
+> <sup>[10](/bible/sirach/10#v10)</sup> The physician cutteth off a long disease; and he that is to day a king to morrow shall die.
+
+- He that is to day a king, to morrow shall die.
+
+*[[1:32:24](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5544s)]* So in 1929 there was a great depression that took place under Hoover, I think that's was his name. Trump say he don't want to fall into that same category too. But this is what was done in 1971. You all got to understand the history behind the US dollar. What happened in 1971?
+
+
+<div class="reading">
+
+Reading from the 1971 address suspending the convertibility of the dollar into gold  *[[1:32:24](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5544s)]*
+
+> Accordingly, I have directed the Secretary of the Treasury to take the action necessary to defend the dollar against the speculators. I have directed Secretary Connally to suspend temporarily the convertibility of the dollar into gold or other reserve assets, except in amounts and conditions determined to be in the interest of monetary stability and in the best interest of the United States. Now, what does this action — which is very technical — what does it mean for you?
+
+- So what Nixon did in the 70s, he took the US dollar off the gold standard. So the US dollar have nothing backing it. It's fiat money. It's fake. It is just a piece of paper.
+
+- So what they did — Nixon said the worth of the dollar is really about the American economy. Our economy back our dollar. There's a video with him saying that the economy, the US economy, back the US dollar. So the strength of our economy, that's all you all need. We taking it off the gold standard.
+
+- Because what America did — the money that they had, a lot of these countries was saying, okay, how we know you got the gold to back the money that you say you have? Because they was giving everybody money and printing money like crazy, but they didn't have the gold to back the money that they was printing. So France and a lot of countries start asking them, like yo, what's going on, give us back our gold. So that's when Nixon came out and did this, to save the US economy. He removed the US from the gold standard.
+
+- Right now Russia and China, BRICS, is trying to establish a new form of currency and trading with gold, to challenge the US dollar. But as I said, what you all see happening right now, it's by design. This whole economy got to crash. The US dollar got to crash for them to put something else in place to control the world, to control the buying and selling throughout the world.
+
+</div>
+
+<div class="reading">
+
+Reading from a documentary on the 401k  *[[1:35:13](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5713s)]*
+
+> In fact, the 401k plans that have become the primary source of retirement income for sixty million Americans were never designed to be retirement plans in the first place. They were created in the late 1970s as a savings plan and tax shelter for ordinary Americans. The idea was that workers would make voluntary contributions and employers would match a portion of them. The taxes would be deferred until the employee reached the age of fifty-nine and a half. It was supposed to supplement the two traditional income streams for retirees, social security and pensions — one leg of a three-legged stool that would support American workers into their golden years. But it didn't turn out that way.
+>
+> Brooks Hamilton has helped design retirement plans for some of the country's largest corporations. He says 401ks turned out to be so much cheaper than funding pensions that many companies decided to freeze their pension plans and replace them with 401ks. The decision created millions of new employee investors for Wall Street and the financial community, and they pounced on the opportunity. When employers began turning 401ks into retirement plans, the financial community was not shy about promoting them as such. The prospect of trillions of dollars in the hands of unsophisticated investors opened the door for all sorts of potential abuses.
+
+- So you all see, a lot of y'all got your 401k, right? You all got that. You all like, yeah, I got two hundred thousand in my 401k right now. I ain't trying to bust your bubble, but all that retirement stuff, and them things that they got set up — I think they start setting them things up in the 70s — all them things going to collapse.
+
+- Remember what the name of the topic is: trusting in uncertain riches. Some of you all have 401ks. Some of you all have stocks. Some of you all have paper gold. When I say paper gold, you could go online and buy gold from the banks, and the bank say you have a million dollars in gold. Let me tell you all something. That ain't real. Some of you all have retirement funds and so forth. All of these things, I'm telling you all, things is about to get crazy. If you all don't prepare, a lot of these things you all will lose. A lot of these things is about to go belly up.
+
+- When the system collapse, or the bubble burst, or the financial institutions collapse, what's going to happen to your retirement fund, your 401k and all of these things? What do you all think going to happen? They going to be gone. That's why the Bible says don't trust in what? Uncertain riches. Don't sit here and say, I'm good. No. Anything could happen.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on the dollar as a Ponzi structure  *[[1:38:57](https://www.youtube.com/watch?v=5UuToCN9Irg&t=5937s)]*
+
+> After the US dollar became pure debt in 1971, the system transformed into a classic total Ponzi structure. And every Ponzi scheme requires two key things: new money, and confidence.
+
+- I tried to bust your bubble, but the whole US system is a Ponzi scheme. You know that paper that you got ain't worth nothing. They take your money out of your paycheck and say, oh, this is your 401k for retirement. Most of you all is not going to see that. In the future you will not see that. All that retirement stuff. Don't get me wrong, you can keep doing it or whatever. I'm just letting you all know what's going to happen. There will be a financial collapse.
+
+- In 2008, how many of y'all lost half of your 401k? I know some people lost eighty grand. Some people lost ten and some grand. In the financial collapse of 2008 a lot of people lost a lot of money. Guess what? This collapse gonna be worse. It's gonna be worse. Now they going to try to give it back, but guess what? You going to fall under that new system. They going to blame the banks and so forth, but they going to try to reimburse you a little something.
+
+> So what did policy makers do? They created new pipelines of money for Wall Street, because after all, we have to feed the beast. 1974, they came up with IRA. 1976 —
+
+- What is IRA? Ain't that some retirement stuff? They came up with that after they came off of the gold standard. So they feeding Wall Street. They feeding the beast.
+
+> Portfolio insurance. Remember that, we're going to talk about it again in a second. And between 1978 and 1981 they created 401ks. Frankly, these were not created to help workers. They were created to feed Wall Street, generate fees, and shift retirement risk from corporations to Main Street. This is how the system kept the illusion alive.
+
+- You all hear that? So that's why, when Wall Street go belly up, all your money going to go belly up. So you're living under an illusion, man. I'm telling you all, y'all better open your eyes and see what's going on.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on the two devastating events coming  *[[1:43:05](https://www.youtube.com/watch?v=5UuToCN9Irg&t=6185s)]*
+
+> We're going to have two devastating events hitting us in the next few years. They have already started, so we're just going to see the end of it. But the end of course is going to happen exponentially, which means that your dollar or your euro or your yen is going to go down also at a very fast pace. So your money will become even more worthless than it is now. And remember, as I said, it's gone down by 99 per cent already since 1971. But the final one per cent starts now, and of course that one per cent fall from now is 100 per cent from here. So that is one disaster that is going to hit ordinary people, and everybody will be affected. Of course, if you have gold you'll be compensated, because the value of gold is going to remain constant as it always has been.
+
+- Now, when that financial collapse take place, as I said, they're going to come with a new system. And that new system is about control. And that new system is what they will use to enforce the mark of the beast.
+
+- The mark of the beast is already here. But that buying and selling on a personal level will be enforced. Meaning you are not going to be able to take money and go to the store any more. That's the future that is going to be created after the economic collapse. You're not going to be able to go to the store with two dollars or five dollars and say, let me get this or let me get that. Everything, every money will be digital and programmable. So you can't buy nothing. If they label you a hate group or whatever, they could shut you out of their system.
+
+- That's what is about to happen. Why they are about to collapse the whole global financial system. The whole global financial system will collapse. And guess what? Europe going to feel it. Everybody all over the world going to feel it.
+
+- Remember, it says though I greatly hated. Let me get that in Obadiah. Now, this is the prophecy concerning America.
+
+</div>
+
+**[Obadiah 1:2](/bible/obadiah/1#v2)**  *[[1:44:38](https://www.youtube.com/watch?v=5UuToCN9Irg&t=6278s)]*
+
+> <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
+
+- Behold, I have made thee small among the heathen: thou art greatly despised. So we got to ask ourselves, why would the heathens greatly despise America and Israel? Is it just because of the war that you see taking place in Palestine and over there? No.
+
+- America and Israel will do stuff to collapse the world economy. What they did to Iran right now — guess who that affecting? That will collapse the world economy. That's what I want you all to understand.
+
+*[[1:46:35](https://www.youtube.com/watch?v=5UuToCN9Irg&t=6395s)]* What you see going on right now with Iran, the Strait of Hormuz being closed. Trump is trying to make a deal. Why is he trying to make a deal with Iran and so forth? Because what Iran and the Houthi rebels are doing, it's affecting the world economy.
+
+
+<div class="reading">
+
+Reading from a video on Iran, Japan and the US bond market  *[[1:46:35](https://www.youtube.com/watch?v=5UuToCN9Irg&t=6395s)]*
+
+> Iran has the US exactly where they want them. Trump just cancelled all attacks against Iran — not because he's winning, because he has to. US debt is currently sitting just below forty trillion dollars. Thirty-year Treasury yields have just hit the exact level right before the global financial crisis. But this time it's worse. Japan, the largest foreign holder of US debt, is breaking. The yen just hit forty-year lows, and Japan burned through fifty-nine billion dollars in one day trying to save it. A drowning country sells what it owns, and Japan owns American debt. So on Friday the US Treasury did something it hasn't done since 1998. It sold euros to buy yen. Not to save Japan — to save themselves. To stop Japan from dumping treasuries into the worst bond market in over two decades. The last time America intervened to save the yen, stocks dumped twenty per cent. The yen carry trade unwind is now accelerating. The US simply can't afford this war, and Iran knows it.
+
+- So the war is causing a global — what Israel and America did by going to war with Iran, it's going to cause a worldwide economic collapse, and it's going to create famine all over the world.
+
+- Remember, at the beginning of famines and great dearth. What you see America and Israel did, guess what is going to cause a global collapse. Not just in third world countries but in Europe also. So that's why the world will hate America.
+
+- Some of you all ask yourself, what the hell Trump is doing. What he's doing is what the Lord prophesied he will do. He is creating global collapse.
+
+- That whole world global economic system after 1945 is set up around the US dollar. All nations peg their dollar to the US dollar. I want you all to understand that all nations after 1945, after World War II, America became not just the military superpower but the economic superpower on the earth. They created the IMF. They created the SWIFT banking system. They created the World Bank, all of that. And guess what? The IMF, they control world finance. America control the world finance. They tell you how much your money worth to their money. They said, man, your money worth only six dollars to one of my dollars, your dollar is a thousand next to my dollar.
+
+- You go to a country with one US dollar, sometimes you got three thousand of their money, or even a million. Some country you get a million for a hundred US. That was done by the IMF, to rob Africa and to rob third world countries.
+
+- So that system that America set up in 1945 to control the world economics, it's falling. That bubble is bursting and it's falling apart, and it's going to cause a global recession. And as I said, I do think they set order up through chaos, right? I do think they are creating this so they could bring that control over us. They could get rid of the paper money and so forth. That's why I think they doing this. And when I say them, I mean the people above Trump.
+
+- They want to get rid of that dollar so everything you buy, they could see. When it says no man could buy or sell, guess what? You can't buy or sell unless you agree with this system. They going to lock me out of their system. I'm not going to be able to buy or sell in the future. In the future, most of us inside here, especially the leaders, we not going to be able to buy a car, we not going to be able to buy groceries, we not going to be able to buy a house, none of these things, because the money would be digital and they could turn it off on us if they deem us a hate group or whatever. We not gonna be able to buy nothing. We gonna have to depend on y'all to help us out, man. Like, yo, go buy me some food, man. It's going to come down to that, for real.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on China shutting down retail paper gold trading  *[[1:52:54](https://www.youtube.com/watch?v=5UuToCN9Irg&t=6774s)]*
+
+> In less than twenty-four hours, one of the biggest gold markets in the world will change the rules. On July 24th several of China's biggest banks are shutting down retail paper gold trading, forcing —
+
+- Did I just hear what I hear? Retail paper gold trading. So China shutting that down. You go online and you buy gold and they send you a piece of paper, they say, oh, you have so and so amount of gold in our bank. Guess what? They sell that gold to millions of other people that they sold to you. It's a Ponzi scheme. It's like I tell you, yo, I got gold, I'm going to hold on to your gold for you for safekeeping, but you could buy it on paper.
+
+- It's a way to manipulate the market so you could become rich. Wall Street stuff. It's like a stock. That's what that paper is. But it's no good. It's not real. When more people buy the same gold that you buy, it go up, and you could pull out fake money. But the bank hold on to the real gold. So China stopped that. China making it illegal. You cannot go online and buy the paper fake gold. If you really want gold in China now, you got to buy the real thing. It's all a scam. And China understand that.
+
+> — shutting down retail paper gold trading, forcing investors to either close their positions or take physical gold delivery. Now on the surface this sounds like a technical banking change. But make no mistake, if you own gold or silver, or are thinking about buying either, this matters more than you think. Because for decades the price of gold and silver has not been primarily determined by physical buying and selling.
+
+- That's some tricky stuff. They never really was able to price gold by buying and selling. The real price of gold is not really there yet. Gold might go up to thirty thousand dollars or something like that, I'm telling you all.
+
+- It ain't nothing wrong in buying a little real gold, brothers and sisters, instead of leaving all your money in that bank. It's good to buy a little gold and put it to the side, and don't let nobody know. Like, yeah man, I got gold — people will come and rob your behind, man. Yeah, I just bought a hundred thousand in gold. You going to get robbed, for real.
+
+> Price is largely determined by paper markets, where far more paper trades hands than the physical metal ever does. And if you follow the price of gold or silver, you've probably found yourself wondering on more than one occasion why prices are getting slammed when all signs point to a value that should be far higher. For gold, it's central banks buying in record quantities. It's wars and conflict and an endless currency creation. For silver, we have a six-year supply deficit and a growing industrial demand. And yet the prices don't reflect the fundamentals. See, in a normal market, more supply, less demand pushes prices lower, whereas less supply and more demand pushes prices higher. It's economics 101. But the truth is, if you take gold, less than one per cent of all total gold contracts actually result in physical delivery. All the rest are settled financially with more paper, which allows multiple claims to be issued against a relatively small amount of physical gold.
+
+- You see that? It's a Ponzi scheme. Those of you all that got gold right now in the bank talking about you got that piece of paper — yeah, I got twenty thousand dollars in gold I bought, and you ain't physically get that. Come on, man. You trusting in uncertain riches. Uncertain riches you trusting in.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on operating outside the system  *[[1:58:17](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7097s)]*
+
+> The moment government flips that kill switch, the people who stay connected are the ones who know how to operate outside the system. Because they've created that network beforehand. They've prepared.
+
+- So those of us that prepare and stay connected, we going to know how to operate outside once the government flip that switch. Because this whole financial institution is going to fall apart and it's going to be replaced. That's what the scripture says, that we should prepare.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on the mathematics of the collapse  *[[1:59:12](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7152s)]*
+
+> The system is going to collapse simply because of math. Every door you walk through is complete and total financial collapse, which in today's world —
+
+- What you see, a lot of economists and a lot of white people getting scared. So all of them running their mouth. But I'm going to show you all in the scriptures what God says concerning that. A lot of white people, they see what's coming.
+
+> — because people can't hunt, or they don't know how to hunt. They don't know how to fish. They don't know how to survive without going to their local Walmart or Circle K three or four times a week. The financial collapse is going to bring a societal nightmare. Gold and silver are your only life jackets, your only life rafts. They're the only thing that's going to float when everything collapses. Can we avoid what's coming, or have we already crossed the point where mathematics determine the outcome? We've already crossed the point of no return. Mathematically, as I said, the current debt outstanding can no longer be repaid in current buying power terms of the currencies they're issued in.
+
+- So a societal nightmare going to happen, because as I said, our people got comfortable. You all forgot about farming. You all forgot about surviving. Y'all got very comfortable. If the lights go off, some of y'all will die. No lights.
+
+- Check what America does. Y'all know the bonds — they sell their debt to other nations. It's called bonds. Like Japan was about to dump a lot of America's bonds, which is American debt. So they buy it and they make a profit off of it. China got a lot of American debt. Japan got a lot of America debt. They buy it as bonds. Trillions of dollars. So if they dump it, they could collapse the US economy, the US dollar. So that's the video I had to show you all early on with Japan. They was about to dump last week, so Trump had to get involved and help them.
+
+> — frighteningly fast. And that's just a function of the amount of credit that's outstanding. It will be an overnight event.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on private equity and the 401k bailout  *[[2:01:38](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7298s)]*
+
+> We're about to bail them all out with our 401ks, which is kind of horrifying. How does that work? Well, right now in the United States the private equity firms have overleveraged all of the companies that they've acquired. They're stuck with like four trillion dollars worth of assets they can't sell, which is effectively going to put themselves out of business. So what they did was they went to the Trump administration, they asked for a bailout. He gave them an executive order that gave them access to our 401ks. And now the Department of Labor is trying to pass a rule that would give the fund managers immunity from us suing them if they lose all of our money badly investing it in private equity and private credit markets. And private credit markets are private equity, they're just shadow banks. So private equity firms don't just buy stuff, they also loan money as if they were a bank, with uncollateralised assets without liquidity flows. And they overleveraged themselves into tech, and now data centres, and now they're in big trouble. And so all of these private credit issuers, which are private equity firms generally, have had to halt withdrawals out of their funds because they're out of money.
+
+- They are out of money. So they're using your 401k. I'm telling you all, this whole thing is a Ponzi scheme. That's why God says don't trust in uncertain riches. That's why it says also in that scripture he read in Sirach, in your prosperity, when you have a lot, you got to think on poverty. Because guess what? Things could get bad any time, and it will get bad.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on Fed Now  *[[2:03:55](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7435s)]*
+
+> Goodbye Zelle, goodbye PayPal, goodbye Venmo. Every app that you have on your phone that is a payment processor, say goodbye, and welcome to Fed Now. Fed Now should be launching in July, July 1st or so.
+
+- Fed Now — that's basically all transactions that you do, financial transactions, the government going to know what you buy, everything you do. It's called Fed Now. So that's being rolled out, and it's being rolled out with the digital currency also. I'm showing you all, it's about control. It's a set-up. They will collapse the dollar and all of these things they will incorporate into one, for control.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on dedollarisation  *[[2:04:54](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7494s)]*
+
+> It's not just war, but it's going to be access pretty soon. Access you have or don't have. And just because you have a good salary now doesn't mean anything when there's dedollarisation. So when the dollar does finally collapse — cause there's thirty-nine trillion of it — it's going to take out the whole world, not just you. And the more prepared you are for that, the better your future is going to be. And that's what Monique and I are committed to telling you: where we think assets are flowing to and where they're leaving.
+
+- So it's going to take out the whole world when you see the dollar collapse. It's going to take out the whole world economy. Why? Because all nations peg their dollar to the US dollar after World War II.
+
+> What you think is coming is a recession. What your crazy friends might say to you is coming is maybe a depression. You'd be mistaken. Those are lies. What is coming is a collapse of the dollar.
+
+- The collapse of the whole system. This whole system that was set up since 1945, it will collapse, and they will bring in a new system. That's what's about to take place.
+
+</div>
+
+<div class="reading">
+
+Reading from a video on how the collapse will unfold  *[[2:05:53](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7553s)]*
+
+> This will happen on a Friday. Remember I told you this. On a Friday you'll hear about a collapse happening. Saturday morning you'll go to the bank, banks will be closed, ATMs will not work. You will not have access to cash, and you'll hear there's a financial collapse. Within three days the stores will be emptied. That's a proven fact. If you remember back to Covid, and they didn't cut the money off, people were fist fighting in the aisles of the stores within days over toilet paper. Imagine what they're going to do when there's no access to cash and food. Three days, stores will be wiped out. Then you're going to start to see looting, rioting, stuff of that nature. During that period, from the time they cut the cash off to the time they come out and say, hey guys, we're going to save everybody from these evils —
+
+- You could take that down. So I'm trying to prepare you brothers and sisters. If there's a financial collapse, that's not the time for you all to run to get food. When you see a financial collapse — we tell you all prepare. We tell you all prepare.
+
+- Now the pantries that we have is mainly for the old and the young. When I say young, I'm talking about kids. Because you grown-ups, we tell you all to prepare. So if something like that happen, if none of you all prepare, it's going to be hard. First and foremost always come first, the young and the elderly. That's our job, to protect the young and the elderly and the fatherless.
+
+- So you brothers and sisters should be preparing for these things. You should have weeks worth of food, months worth of food in your house. Things like that happen, you shouldn't be running to the damn store. And when you run to the store, don't run and buy toilet paper. Can you eat the toilet paper? I saw people fighting for toilet paper, man. To hell with toilet paper. Use some grass and clean yourself. Back in the islands, that's what we use, we use some bush.
+
+- Imagine there is an economic collapse and the first thing to run through people's mind: oh my God, what will I do without toilet paper? That's how stupid people in society is. Instead, you like, okay, food, this, that. You would not be able to use your toilet no more, because the sewage system is going to shut down. You going to have to dig a hole and go in that in your backyard.
+
+</div>
+
+*[[2:09:16](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7756s)]* Now, what can you do? What should you do? Is Deacon just trying to get everybody paranoid and scared? I'm going to show you all what God said to do. What should we do?
+
+
+**[Isaiah 33:6](/bible/isaiah/33#v6)**  *[[2:09:16](https://www.youtube.com/watch?v=5UuToCN9Irg&t=7756s)]*
+
+> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
+
+- So wisdom and knowledge shall be the stability of thy times. A lot of you sisters be talking about you want a man with a stable job. There will be no stability when you see things start getting bad. There will be no stability. What will be the stability will be wisdom and knowledge.
+
+- Now you all inside here have wisdom and knowledge of what's going to happen. That's what going to keep you stable. That will be your stability, if you are smart. Meaning we telling you all what's going to happen. If you don't prepare, you're not going to be stable.
+
+- Wisdom and knowledge is going to be the stability of our time. Meaning the leaders, the teachers, they will tell you what's going to happen. They're going to give you wisdom and knowledge of how to prepare for what's coming. And that's going to be your stability. Getting a nine to five is not going to help you. What going to help you is the wisdom and knowledge that the leaders is teaching you. That's your stability.
+
+- To hell with — you sisters, you look for a brother, yo, he work for transit, he got a stable job, he could pay the bills, I got security. That fake illusion that you all got in your mind, you all got to stop thinking like that. You got to start thinking different. We got to start working together. Buy land and go and build a community. That's the type of thinking we got to think on. Separate ourselves. God tell us what to do. He said to separate.
+
+- If the system collapse, we don't really care. I'm not part of your damn system. So what if it collapse? What if you bringing in that new currency and all of that stuff? We should be laughing when that happen, right, not crying. Not, what did I do? Be like, damn, I know that would have happened, the bishops and deacons already tell us to be prepared.
+
+- So you all want to be stable in these last days: the wisdom and knowledge that the leaders teaching you, apply it, man. Prepare for what's coming.
+
+- And strength of salvation. That's how you going to be saved from that economic collapse and the things that's going to come on this earth.
+
+- The fear of the Lord is his treasure. And that's where treasure is. The fear of the Lord, that's his treasure.
+
+- Behold, their valiant ones shall cry without. Their valiant one going to cry, without. Why? Because they have no food. They ain't have nothing. They have no ways or means to take care of themselves.
+
+*[[2:13:49](https://www.youtube.com/watch?v=5UuToCN9Irg&t=8029s)]* But from there, I want you to go to Ezekiel 28. Now I'm going to show you all some. This is going into Tyrus, but Tyrus here is talking about America. It's talking about back then, Tyrus, but it's twofold. It's going into America also.
+
+
+**[Ezekiel 28:1-5](/bible/ezekiel/28#v1)**  *[[2:14:43](https://www.youtube.com/watch?v=5UuToCN9Irg&t=8083s)]*
+
+> <sup>[1](/bible/ezekiel/28#v1)</sup> The word of the Lord came again unto me, saying,
+>
+> <sup>[2](/bible/ezekiel/28#v2)</sup> Son of man, say unto the prince of Tyrus, Thus saith the Lord God; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:
+
+- Say unto the prince of Tyrus. Because thine heart is lifted up — because your heart is lifted up, and thou hast said, I am a god.
+
+- Because this is the white man right here today too, in his mind. America, they think that they are God. And guess what? There will be a system set up here, which Lord's will, I'm going to touch on another time with you all, where there will be somebody rise up and try to set themselves up as Christ here in America. That's why Christ says, yo, if they say I'm in the wilderness or this, don't believe them. There's a reason why he said that, because somebody's going to come and they're going to try to establish themselves as Christ.
+
+- And I'm not just talking about that white image. There will be a Christianity 2.0 that's going to be set up on the earth. Remember in Daniel 8 he talk about how Antiochus set himself up as God, God manifest on earth. It is a reason why in the scriptures it talk about them fighting against the Prince of princes, because that same spirit going to be here in the last days, where someone will set themselves up as the Lord. And there will be fake miracles, true technologies and so forth. And some of you all will believe that crap.
+
+- I sit in the seat of God. And he sit in the seat of God. This is what going to be said here in the future too. In the midst of the seas — in the midst of all the nations.
+
+- Yet thou art a man. God says, yet you are a man. And not God. And you ain't no damn God. Though thou set thine heart as the heart of God. This is the so-called white man. He set his heart as the heart of God.
+
+> <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
+
+- Behold, thou art wiser than Daniel. So the white man is wiser than Daniel, through his technology. Right now he watching us. Watch at this: you could see me. Some of you all is in another country and you could see me right now, I'm talking to you, I'm pointing, you could see everything I'm doing. That's witchcraft, man. That's witchcraft. Back in the days this would be called magic. Magic. Today you call it technology, but this is magic. I'm speaking in this and everybody could hear me. People all over the world could hear me. I'm speaking into this mic. It's witchcraft. When Christ return, all of this technology will go. It have to go. It's all witchcraft. The white man invented it.
+
+- There is no secret that they can hide from thee. There's no secret you could hide from the white man. Those of you all that's up there watching porn and stuff, the white man see what you watching, see what you doing. You brothers, always remember that the devil see what you doing. The Lord see you. But guess who else see? The white man see you too. On your Google account, watching you like, watch at this talking boy, he a prophet up there watching porn. Watch at him, all that he was talking yesterday.
+
+> <sup>[4](/bible/ezekiel/28#v4)</sup> With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
+
+- With thy wisdom and with thine understanding thou hast gotten thee riches. So how did America get rich? Through his wisdom and his understanding. So what is that going into? How did America get rich? When you go back into history, America became rich, the world economic superpower, by making all nations peg their money to the American dollar. The American dollar became the world standard for everybody to use to trade internationally. If you want to buy something in this country, you will use the American dollar, because that was the most stable currency on the earth. So when America did that, that was their wisdom.
+
+- Then they set up the IMF. Then they set up the World Bank. And the IMF was set up to keep dark nations in check, and to rob and steal from dark nations, and to dictate how much their money worth. That's what the IMF was set up for. So these things they set up, that's their witchcraft.
+
+- For him to say, listen, my money is based on my economy and not gold, my money worth this right here, my money is the top money on the earth, my paper, whatever, and everybody need to use it. That's what fiat money is. That's what he did in 1971.
+
+- So that whole thing that he built around his dollar, that whole system where the whole world used to trade, guess what? It's about to collapse and burst. Why? Because with that money, the US start using his money to sanction nations. He put sanctions on Russia. He put sanctions on China, on Iran. So the nations like, listen, we cannot use your dollar for the standard to trade on the earth any more, because when you get mad at us, you sanction us and you got power over us. So you know what? We not messing with your dollar no more. So the US dollar start to decrease. For years now it been decreasing. So the Iran war just propel it.
+
+- There will be a financial collapse, but I do think it's by design. Trump came into office, he went and started putting tariffs on all nations. That also caused a rift and also caused the dollar to decline. So what you all about to see happening in the next couple years, there will be a global collapse of the US dollar. And they're going to come about and they're going to bring in something new.
+
+- So America became rich through its wisdom and understanding. It's not because they got resources and gold and so forth. America literally trick all nations to use their dollar. Every time a nation use the American dollar, America get richer. That's why America have the petrodollar too also. And that's why BRICS is a big threat to the US dollar right now. And America will collapse the whole world system to destroy BRICS. And that's what you all see going to take place. And the nations will be angry when America do it. The nations will be angry at America when America collapse the whole world economic system for her own interests.
+
+> <sup>[5](/bible/ezekiel/28#v5)</sup> By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:
+
+- By thy great wisdom, and by thy traffic hast thou increased thy riches. So through their wisdom and their traffic they have increased their riches. That going into the IMF, that's going into the trade and so forth. That's how America increase her riches, through her technology. Because you know America is the number one weapon seller on the earth, right? That's how they get rich too.
+
+**[Revelation 18:3](/bible/revelation/18#v3)**  *[[2:23:42](https://www.youtube.com/watch?v=5UuToCN9Irg&t=8622s)]*
+
+> <sup>[3](/bible/revelation/18#v3)</sup> For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
+
+- And the merchants of the earth are waxed rich. The merchants is going into corporations. The corporations of the earth is rich.
+
+- Through the abundance of her delicacies, they are rich. So as I said, China became rich by trading with America. All nations got rich by trading with America. Well, except for who? Africa. They kept us poor over there. They said, don't allow these people to rise up, man.
+
+**[Revelation 18:17](/bible/revelation/18#v17)**  *[[2:24:40](https://www.youtube.com/watch?v=5UuToCN9Irg&t=8680s)]*
+
+> <sup>[17](/bible/revelation/18#v17)</sup> For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
+
+- So America is the richest country on the earth, and in one hour all the riches here is going to come to nought.
+
+- So even though there will be a global collapse, America will come out on top. Europe and them other countries going to still feel it. That's why they going to destroy this place. America will come out on top.
+
+- Guess what? That crypto stuff that you all see the other day where a lot of y'all make money off of it — guess what? The CIA set that up. America been planning this for a while.
+
+*[[2:25:30](https://www.youtube.com/watch?v=5UuToCN9Irg&t=8730s)]* Now I want you to go to Revelation 13, and I'm going to close it off with this one. Revelation 13, about buying and selling.
+
+
+**[Revelation 13:16-17](/bible/revelation/13#v16)**  *[[2:25:30](https://www.youtube.com/watch?v=5UuToCN9Irg&t=8730s)]*
+
+> <sup>[16](/bible/revelation/13#v16)</sup> And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+
+- And he causeth all, both small and great — small nations, great nations, rich and poor. Whether you rich or you poor, this ain't just nations, but it's also people. Because as we grow now, as things happen, we see that it's talking about on an international level, but it's also talking about on a personal level. Whether you rich personally or poor, you're going to have to use this system. Everyone will have to use this system.
+
+- Before, it was just the nations internationally was using the system and was getting sanctions and so forth. Remember Cuba got sanctioned, remember Russia got sanctioned, but recently they start sanctioning individuals. So we understand that the system is evolving.
+
+- Rich and poor, free and bond. Whether you in prison, whether you free or bond — that's also going into nations. Africa is a bond country. They are under Europe and America.
+
+- To receive a mark in their right hand. So that mark that they're going to receive, that mark is that same mark that Cain did in the beginning. That mark goes into sin. That's what that mark is. The same way how Cain had a mark and everybody had that mark on them in the beginning, and God was angry and came and destroyed everybody back then. Guess what? Cain's descendants came back as Esau and are on the earth today, and the same mark is on them. That mark is going into wickedness and sin. That mark is going into following this man's lies, his religions and all of that.
+
+- Or in their foreheads. Your right hand represent what you support. Your forehead represent what you believe. That's what the mark is: what you support, what you believe. It's going into sin.
+
+- Now, are they trying to put chips in people? They probably is. But is that the mark that Cain had? Is that the mark that the Bible speak about today? No. It's talking about sin. When you read Second Thessalonians, it says with all deceivableness of unrighteousness in them that perish, because they did not have a love of the truth. When you read Revelation 18:4, it says come out from amongst her, my people, and be not partaker of her what? Her sins. Her sins, her mark. Same thing. A lot of things fall under that mark. You got democracy, Christianity, policies, politics, all of that. Everything the white man push, all them filthy things, fall under that mark that God tell us not to take part in. Don't take part in none of his ways.
+
+> <sup>[17](/bible/revelation/13#v17)</sup> And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+
+- And that no man might buy or sell. So this is where we are coming to, when they destroy the paper money system and they bring about that digital system. And they've been planning on it for years. That's why, when you all get paid, do you go pick up a paycheck any more? No. It goes straight to your bank account. They making it where you don't have cash. Why is that? Is to bring in this system that we are seeing right here, Revelation 13. That system where there will be no such thing as paper money. Your money will be digital.
+
+- And they could stop you from buying and selling. They could stop you individually from buying and selling by shutting down your bank account, shutting down everything that connect to you, your digital self. They going to shut it down. You ain't going to be able to open a YouTube page, Facebook page. They will shut down everything about you, your whole digital footprint. Why? Because number one, they don't want us teaching this gospel.
+
+- Guess what? They're going to also shut down — a lot of you all online right now watching YouTube, you're not going to be able to see this in the future. There will be no YouTube. Because their job is to stop the truth from going forth. That's why they're making it where we can't buy and sell. They're trying to stop us. That's the main reason. They want to stop us. They're going to start with the leaders first and foremost. That's who they going to start with, the leaders. They're going to cancel our accounts. They're going to cancel our pages. We're going to lose our jobs. They're going to say we are a hate group, we hate. That's what's going to happen.
+
+- Save he that had the mark, or the name of the beast, or the number of his name. So if you support this system, guess what? You could buy and sell. But if you do not support this system, if you go against this system, if you teach against this system, which God says that the leaders will do, that's what the Lord command us to do — the Bible says that you're not going to be able to literally buy or sell. Meaning what? They will cut it off.
+
+- In order for this to happen, what they got to get rid of? If they could stop you from buying and selling, what do they got to get rid of? They got to get rid of paper money. That's why I said there will be a global economic collapse, and they're going to use that to get rid of paper money.
+
+## In Closing
+
+*[[2:32:14](https://www.youtube.com/watch?v=5UuToCN9Irg&t=9134s)]* So this system: there will be a global economic collapse. All the nations going to hate America for it. America going to come out on top after that collapse. I just want you all to understand that.
+
+Some of you all might get back some of your 401k and stuff, but America will come out on top. But the nations will be angry for that collapse, because America is behind the cause of that. And they're going to set up a system where everybody got to fall into that system to buy and sell. That's the system that they're going to set up. And it's going to be aimed at us.
+
+*[[2:33:49](https://www.youtube.com/watch?v=5UuToCN9Irg&t=9229s)]* That global collapse going to affect Europe very bad. Everybody going to feel it very bad. But America will come out on top. That's what I could tell you all.
+
+So I hope you all got some out of that lesson. You all stay tuned. Make sure you all prepare for what's coming. Shalom. Most High and Christ bless.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=5UuToCN9Irg)

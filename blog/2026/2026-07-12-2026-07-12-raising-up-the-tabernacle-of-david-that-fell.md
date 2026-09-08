@@ -4,7 +4,7 @@ slug: "2026/2026-07-12-raising-up-the-tabernacle-of-david-that-fell"
 date: "2026-07-12"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-12"
-tags: ["IUIC in the ClassRoom", "captivity"]
+tags: ["IUIC in the ClassRoom", "captivity", "prayer"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-12</p>
