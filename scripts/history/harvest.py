@@ -58,7 +58,7 @@ def main():
         open(ids, "w").write("".join(f"https://www.youtube.com/watch?v={r[0]}\n" for r in batch))
         if os.path.exists(meta): os.remove(meta)
         y = sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
-            "--sleep-requests", "1", "--sleep-subtitles", "1", "--retries", "5", "--extractor-retries", "3",
+            "--sleep-requests", "2", "--sleep-subtitles", "3", "--retries", "5", "--extractor-retries", "3",
             "--print-to-file", "%(id)s\t%(upload_date)s\t%(duration)s\t%(title)s\t%(view_count)s\t%(subtitles.en.0.ext)s\t%(automatic_captions.en.0.ext)s", meta, "-o", os.path.join(raw, "%(id)s"), "-a", ids])
         aged = set(re.findall(r"\[youtube\] ([\w-]{11}): Sign in to confirm your age", y.stderr))
         metas = {}
@@ -72,10 +72,10 @@ def main():
         # mislabel the rest of the channel.
         listed = [v for v, m in metas.items() if m[5] != "NA" or m[6] != "NA"]
         if listed and not any(glob.glob(os.path.join(raw, f"{v}.*.json3")) for v in listed):
-            print(f"rate limited: {len(listed)} videos have captions but none came through; sleeping 90s and retrying the batch", flush=True)
-            time.sleep(90)
+            print(f"rate limited: {len(listed)} videos have captions but none came through; sleeping 240s and retrying the batch", flush=True)
+            time.sleep(240)
             sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
-                "--sleep-requests", "2", "--sleep-subtitles", "3", "--retries", "5", "-o", os.path.join(raw, "%(id)s"), "-a", ids])
+                "--sleep-requests", "4", "--sleep-subtitles", "6", "--retries", "5", "-o", os.path.join(raw, "%(id)s"), "-a", ids])
             if not any(glob.glob(os.path.join(raw, f"{v}.*.json3")) for v in listed):
                 print("still rate limited; stopping this run (rerun later, it resumes)", flush=True)
                 break
