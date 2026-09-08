@@ -22,6 +22,8 @@ import { Route as CasesIndexRouteImport } from './routes/cases/index'
 import { Route as ClassesIndexRouteImport } from './routes/classes/index'
 import { Route as ConcordanceIndexRouteImport } from './routes/concordance/index'
 import { Route as ConcordanceBookRouteImport } from './routes/concordance/$book'
+import { Route as DictionaryIndexRouteImport } from './routes/dictionary/index'
+import { Route as DictionarySlugRouteImport } from './routes/dictionary/$slug'
 import { Route as EncyclopediaIndexRouteImport } from './routes/encyclopedia/index'
 import { Route as EncyclopediaSlugRouteImport } from './routes/encyclopedia/$slug'
 import { Route as HistoryIndexRouteImport } from './routes/history/index'
@@ -105,6 +107,16 @@ const ConcordanceIndexRoute = ConcordanceIndexRouteImport.update({
 const ConcordanceBookRoute = ConcordanceBookRouteImport.update({
   id: '/concordance/$book',
   path: '/concordance/$book',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DictionaryIndexRoute = DictionaryIndexRouteImport.update({
+  id: '/dictionary/',
+  path: '/dictionary/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DictionarySlugRoute = DictionarySlugRouteImport.update({
+  id: '/dictionary/$slug',
+  path: '/dictionary/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
 const EncyclopediaIndexRoute = EncyclopediaIndexRouteImport.update({
@@ -212,6 +224,7 @@ export interface FileRoutesByFullPath {
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
+  '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
@@ -220,6 +233,7 @@ export interface FileRoutesByFullPath {
   '/cases/': typeof CasesIndexRoute
   '/classes/': typeof ClassesIndexRoute
   '/concordance/': typeof ConcordanceIndexRoute
+  '/dictionary/': typeof DictionaryIndexRoute
   '/encyclopedia/': typeof EncyclopediaIndexRoute
   '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
@@ -246,6 +260,7 @@ export interface FileRoutesByTo {
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
+  '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
@@ -254,6 +269,7 @@ export interface FileRoutesByTo {
   '/cases': typeof CasesIndexRoute
   '/classes': typeof ClassesIndexRoute
   '/concordance': typeof ConcordanceIndexRoute
+  '/dictionary': typeof DictionaryIndexRoute
   '/encyclopedia': typeof EncyclopediaIndexRoute
   '/history': typeof HistoryIndexRoute
   '/law': typeof LawIndexRoute
@@ -281,6 +297,7 @@ export interface FileRoutesById {
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
+  '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
@@ -289,6 +306,7 @@ export interface FileRoutesById {
   '/cases/': typeof CasesIndexRoute
   '/classes/': typeof ClassesIndexRoute
   '/concordance/': typeof ConcordanceIndexRoute
+  '/dictionary/': typeof DictionaryIndexRoute
   '/encyclopedia/': typeof EncyclopediaIndexRoute
   '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
@@ -317,6 +335,7 @@ export interface FileRouteTypes {
     | '/search'
     | '/sitemap.xml'
     | '/concordance/$book'
+    | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
@@ -325,6 +344,7 @@ export interface FileRouteTypes {
     | '/cases/'
     | '/classes/'
     | '/concordance/'
+    | '/dictionary/'
     | '/encyclopedia/'
     | '/history/'
     | '/law/'
@@ -351,6 +371,7 @@ export interface FileRouteTypes {
     | '/search'
     | '/sitemap.xml'
     | '/concordance/$book'
+    | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
@@ -359,6 +380,7 @@ export interface FileRouteTypes {
     | '/cases'
     | '/classes'
     | '/concordance'
+    | '/dictionary'
     | '/encyclopedia'
     | '/history'
     | '/law'
@@ -385,6 +407,7 @@ export interface FileRouteTypes {
     | '/search'
     | '/sitemap.xml'
     | '/concordance/$book'
+    | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
@@ -393,6 +416,7 @@ export interface FileRouteTypes {
     | '/cases/'
     | '/classes/'
     | '/concordance/'
+    | '/dictionary/'
     | '/encyclopedia/'
     | '/history/'
     | '/law/'
@@ -420,6 +444,7 @@ export interface RootRouteChildren {
   SearchRoute: typeof SearchRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
+  DictionarySlugRoute: typeof DictionarySlugRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
   PreceptsSlugRoute: typeof PreceptsSlugRoute
   TopicsSlugRoute: typeof TopicsSlugRoute
@@ -428,6 +453,7 @@ export interface RootRouteChildren {
   CasesIndexRoute: typeof CasesIndexRoute
   ClassesIndexRoute: typeof ClassesIndexRoute
   ConcordanceIndexRoute: typeof ConcordanceIndexRoute
+  DictionaryIndexRoute: typeof DictionaryIndexRoute
   EncyclopediaIndexRoute: typeof EncyclopediaIndexRoute
   HistoryIndexRoute: typeof HistoryIndexRoute
   LawIndexRoute: typeof LawIndexRoute
@@ -537,6 +563,20 @@ declare module '@tanstack/react-router' {
       path: '/concordance/$book'
       fullPath: '/concordance/$book'
       preLoaderRoute: typeof ConcordanceBookRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/dictionary/': {
+      id: '/dictionary/'
+      path: '/dictionary'
+      fullPath: '/dictionary/'
+      preLoaderRoute: typeof DictionaryIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/dictionary/$slug': {
+      id: '/dictionary/$slug'
+      path: '/dictionary/$slug'
+      fullPath: '/dictionary/$slug'
+      preLoaderRoute: typeof DictionarySlugRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/encyclopedia/': {
@@ -684,6 +724,7 @@ const rootRouteChildren: RootRouteChildren = {
   SearchRoute: SearchRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,
+  DictionarySlugRoute: DictionarySlugRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,
   PreceptsSlugRoute: PreceptsSlugRoute,
   TopicsSlugRoute: TopicsSlugRoute,
@@ -692,6 +733,7 @@ const rootRouteChildren: RootRouteChildren = {
   CasesIndexRoute: CasesIndexRoute,
   ClassesIndexRoute: ClassesIndexRoute,
   ConcordanceIndexRoute: ConcordanceIndexRoute,
+  DictionaryIndexRoute: DictionaryIndexRoute,
   EncyclopediaIndexRoute: EncyclopediaIndexRoute,
   HistoryIndexRoute: HistoryIndexRoute,
   LawIndexRoute: LawIndexRoute,

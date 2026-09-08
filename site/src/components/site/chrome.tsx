@@ -77,6 +77,7 @@ export function SiteFooter() {
           <ul>
             <li><Link to="/search" search={{ q: "", only: undefined }}>Search</Link></li>
             <li><Link to="/encyclopedia">Encyclopedia</Link></li>
+            <li><Link to="/dictionary" search={{ q: '', letter: '', page: 1 }}>Dictionary</Link></li>
             <li><Link to="/topics">Topics</Link></li>
             <li><Link to="/api">API</Link></li>
             <li><Link to="/downloads">Downloads</Link></li>
