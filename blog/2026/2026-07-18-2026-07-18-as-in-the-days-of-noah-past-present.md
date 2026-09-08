@@ -4,7 +4,7 @@ slug: "2026/2026-07-18-as-in-the-days-of-noah-past-present"
 date: "2026-07-18"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-18"
-tags: ["IUIC in the ClassRoom", "repentance"]
+tags: ["IUIC in the ClassRoom", "leadership", "repentance"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18</p>
