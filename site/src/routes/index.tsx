@@ -29,7 +29,7 @@ function LionFilm() {
         video.src = objectUrl;
         video.load();
       })
-      .catch(() => { /* Keep the poster visible if media cannot load. */ });
+      .catch(() => { /* Leave the stage background visible if media cannot load. */ });
     let frame = 0;
     const update = () => {
       frame = 0;
@@ -63,7 +63,7 @@ function LionFilm() {
       reduced.removeEventListener("change", schedule);
     };
   }, []);
-  return <video ref={videoRef} className="lion-film" poster="/assets/previews/cable-mane-lion.png" muted playsInline preload="metadata" aria-hidden="true" />;
+  return <video ref={videoRef} className="lion-film" muted playsInline preload="metadata" aria-hidden="true" />;
 }
 
 export const Route = createFileRoute("/")({
