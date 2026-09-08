@@ -5,6 +5,7 @@
 //
 //   node engine/check.mjs          exit 1 on any broken link
 import { loadLibrary } from "./library.mjs";
+import { validVerseRange, duplicateUrls } from "./validation.mjs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -26,6 +27,20 @@ const LINK = /\]\(((?:\/|#)[^)\s]*)\)|href="((?:\/|#)[^"]*)"/g;
 let broken = 0, links = 0;
 const report = (n, href, why) => { broken++; console.error(`${n.file}: ${href}: ${why}`); };
 
+for (const n of duplicateUrls([
+  ...notes,
+  ...sortedPrecepts.map((p) => ({ url: preceptUrl(p), file: "data/precepts.json" })),
+  ...cases.cases.map((c) => ({ url: caseUrl(c), file: "data/cases.json" })),
+  ...handbook.parts.flatMap((p) => p.sections.map((s) => ({ url: sectionUrl(s), file: "data/handbook.json" }))),
+])) report(n, n.url, "duplicate URL");
+
+const recordings = notes.filter((n) => ["class", "captains", "history"].includes(n.kind));
+for (const n of recordings) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(n.date) || !Number.isFinite(Date.parse(n.date))) report(n, n.url, "missing or invalid recording date");
+}
+const missingTeachers = recordings.filter((n) => !n.teacher?.trim());
+if (missingTeachers.length) console.warn(`metadata warning: ${missingTeachers.length} recordings lack teacher metadata; correct from original recordings, do not guess`);
+
 for (const n of notes) {
   for (const m of n.body.matchAll(LINK)) {
     const href = m[1] ?? m[2];
@@ -43,7 +58,7 @@ for (const n of notes) {
       if (hash && !vm) { report(n, href, "bad verse anchor"); continue; }
       if (vm) {
         const last = Number(vm[2] ?? vm[1]);
-        if (Number(vm[1]) < 1 || last > chapter.length || !chapter[last - 1]) report(n, href, `${book} ${bm[2]} has ${chapter.length} verses`);
+        if (!validVerseRange(Number(vm[1]), last, chapter)) report(n, href, `invalid verse range; ${book} ${bm[2]} has ${chapter.length} verses`);
       }
       continue;
     }

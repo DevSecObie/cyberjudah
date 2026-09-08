@@ -5,6 +5,7 @@
   "description": "The CyberJudah front end: TanStack Start on Cloudflare Workers, reading the content engine's data set.",
   "scripts": {
     "test": "node --test tests/*.test.mjs",
+    "test:e2e": "playwright test",
     "dev": "vite dev",
     "build": "tsr generate && tsc --noEmit && vite build",
     "typecheck": "tsr generate && tsc --noEmit",
@@ -26,6 +27,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260907.1",
+    "@playwright/test": "^1.63.0",
     "@tailwindcss/vite": "^4.1.0",
     "@tanstack/router-cli": "^1.167.18",
     "@types/node": "^22.0.0",

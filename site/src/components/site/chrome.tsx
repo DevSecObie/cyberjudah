@@ -4,13 +4,14 @@ import { useState, type ReactNode } from "react";
 import { CommandMenu, openCommand } from "@/components/site/command";
 
 const NAV = [
+  { to: "/classes", label: "Sabbath Classes" },
+  { to: "/precepts", label: "Precepts" },
+  { to: "/cases", label: "Case Studies" },
+  { to: "/law", label: "The Law" },
   { to: "/bible", label: "Bible" },
   { to: "/study", label: "4 Chapters a Day" },
-  { to: "/classes", label: "Sabbath Classes" },
   { to: "/captains", label: "15 Min w/Captains" },
-  { to: "/cases", label: "Case Studies" },
   { to: "/history", label: "Our Hidden History" },
-  { to: "/law", label: "The Law" },
 ] as const;
 
 export function SiteNav() {

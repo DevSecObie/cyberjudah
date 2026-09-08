@@ -6,6 +6,8 @@
 /site/dist
 /site/.tanstack
 /site/.wrangler
+/site/playwright-report
+/site/test-results
 /blog/tags.yml
 /captains/tags.yml
 /teachers.tsv

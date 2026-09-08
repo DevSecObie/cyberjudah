@@ -55,8 +55,10 @@ async function runSearch(q: string, only: string | undefined, limit: number): Pr
       mode = total ? "mixed" : "loose";
     }
     return { ok: true, q, mode, counts, hits, ms: Date.now() - t0 };
-  } catch (e) {
-    return { ok: false, reason: e instanceof Error ? e.message : String(e) };
+  } catch {
+    // Do not log queries, SQL, or raw database errors: those can contain visitor input.
+    console.error(JSON.stringify({ event: "search_failed", elapsedMs: Date.now() - t0 }));
+    return { ok: false, reason: "search-unavailable" };
   }
 }
 
