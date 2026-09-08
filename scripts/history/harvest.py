@@ -57,13 +57,25 @@ def main():
         if os.path.exists(meta): os.remove(meta)
         sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
             "--sleep-requests", "1", "--sleep-subtitles", "1", "--retries", "5", "--extractor-retries", "3",
-            "--print-to-file", "%(id)s\t%(upload_date)s\t%(duration)s\t%(title)s\t%(view_count)s", meta, "-o", os.path.join(raw, "%(id)s"), "-a", ids])
+            "--print-to-file", "%(id)s\t%(upload_date)s\t%(duration)s\t%(title)s\t%(view_count)s\t%(subtitles.en.0.ext)s\t%(automatic_captions.en.0.ext)s", meta, "-o", os.path.join(raw, "%(id)s"), "-a", ids])
         metas = {}
         if os.path.exists(meta):
             for l in open(meta):
                 p = l.rstrip("\n").split("\t")
-                if len(p) == 5: metas[p[0]] = p
+                if len(p) == 7: metas[p[0]] = p
         added = []
+        # A batch where YouTube listed captions but handed none over is rate limiting, not a
+        # run of caption-less videos. Wait it out once; if it persists, stop rather than
+        # mislabel the rest of the channel.
+        listed = [v for v, m in metas.items() if m[5] != "NA" or m[6] != "NA"]
+        if listed and not any(glob.glob(os.path.join(raw, f"{v}.*.json3")) for v in listed):
+            print(f"rate limited: {len(listed)} videos have captions but none came through; sleeping 90s and retrying the batch", flush=True)
+            time.sleep(90)
+            sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
+                "--sleep-requests", "2", "--sleep-subtitles", "3", "--retries", "5", "-o", os.path.join(raw, "%(id)s"), "-a", ids])
+            if not any(glob.glob(os.path.join(raw, f"{v}.*.json3")) for v in listed):
+                print("still rate limited; stopping this run (rerun later, it resumes)", flush=True)
+                break
         for vid, _, title in batch:
             files = sorted(glob.glob(os.path.join(raw, f"{vid}.*.json3")))
             m = metas.get(vid)
@@ -76,10 +88,12 @@ def main():
                 if views: cmd += ["--views", views]
                 r = sh(cmd)
                 if r.returncode == 0:
-                    got += 1; added.append(vid); open(meta_all, "a").write("\t".join(m) + "\n"); print(r.stdout.strip(), flush=True)
+                    got += 1; added.append(vid); open(meta_all, "a").write("\t".join(m[:5]) + "\n"); print(r.stdout.strip(), flush=True)
                 else: failed += 1; print(f"{vid}: ingest failed: {r.stderr.strip()[-200:]}", flush=True)
-            elif m:
+            elif m and m[5] == "NA" and m[6] == "NA":
                 nosub += 1; open(nocap, "a").write(f"{vid}\t{m[3]}\n"); print(f"{vid}: no English captions ({m[3]})", flush=True)
+            elif m:
+                failed += 1; print(f"{vid}: captions listed but not delivered, will retry next run ({m[3]})", flush=True)
             else:
                 failed += 1; print(f"{vid}: not fetched ({title})", flush=True)
             for f in files: os.remove(f)
