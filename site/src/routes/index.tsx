@@ -164,18 +164,18 @@ function Library({ stats }: { stats: Stats | null }) {
           <span className="bento__title">Case Studies</span>
           <p className="bento__blurb">The judgments, and those who kept the law and were blessed.</p>
         </Link>
-        <a href="https://devsecobie.github.io/cyberjudah/law" className="bento__cell" style={{ gridColumn: "span 3" }}>
+        <Link to="/law" className="bento__cell" style={{ gridColumn: "span 3" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-2.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.laws)} laws · ${nf.format(s.precepts)} precepts` : "The handbook and the precepts"}</span>
           <span className="bento__title">The Law</span>
           <p className="bento__blurb">The handbook and the precept index, every law with its scriptures.</p>
-        </a>
-        <a href="https://devsecobie.github.io/cyberjudah/encyclopedia" className="bento__cell" style={{ gridColumn: "span 3" }}>
+        </Link>
+        <Link to="/encyclopedia" className="bento__cell" style={{ gridColumn: "span 3" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-5.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${s.encyclopedia} subjects` : "Subjects gathered from the notes"}</span>
           <span className="bento__title">Encyclopedia</span>
           <p className="bento__blurb">Subjects gathered from across the notes: the feasts, the priesthood, the covenant.</p>
-        </a>
+        </Link>
       </GlowGrid>
     </section>
   );

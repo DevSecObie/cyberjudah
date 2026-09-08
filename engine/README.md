@@ -47,9 +47,14 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/notes/index.json` | every note: `{kind, title, url, book, chapters, range, date, year, series, teacher, topics, summary, videoId}` |
 | `api/notes/<site-path>.json` | one note with its Markdown `body`, e.g. `api/notes/classes/2026/<slug>.json` |
 | `api/laws/index.json` | parts and sections of the handbook |
-| `api/laws/<SECTION>.json` | one section with its laws, references and citations |
-| `api/precepts/index.json`, `api/precepts/<slug>.json` | the precept index and each precept's references |
-| `api/cases/index.json`, `api/cases/<slug>.json` | the case studies; each case carries its laws, precepts, related cases and where it was taught |
+| `api/laws/<SECTION>.json` | one section with its laws; every reference is resolved (`slug`, `url`, `label`, the `study` note that teaches the chapter, the verse `text` up to 12 verses, `more`) |
+| `api/precepts/index.json`, `api/precepts/<slug>.json` | the precept index and each precept's references, resolved the same way |
+| `api/cases/index.json`, `api/cases/<slug>.json` | the case studies (index rows carry `themes` and `topics`); each case carries its laws, precepts, related cases, resolved references (`refsResolved`), where it was taught and encyclopedia `see` links |
+| `api/concordance/index.json` | per book: which chapters are cited (`cited`) and how many citations |
+| `api/concordance/<book-slug>.json` | a whole book: `chapterRows: [{chapter, url, cited_by}]`, one row per citing document with its verse spans merged into `verses: []` |
+| `api/encyclopedia/index.json` | `[{slug, title, url, summary}]` |
+| `api/topics/index.json`, `api/topics/<slug>.json` | every topic label (class topics, case themes, `verdict-<v>`) with the notes and cases that carry it |
+| `downloads/vault.zip` | the Obsidian vault, when `static/downloads/vault.zip` exists in the repository |
 | `api/by-book.json` | which classes and episodes open which book, with the chapters |
 | `api/xref/<book-slug>/<chapter>.json` | cross references per verse |
 | `api/web/<book-slug>/<chapter>.json` | the World English Bible text, per verse |

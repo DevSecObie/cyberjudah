@@ -9,6 +9,7 @@ const NAV = [
   { to: "/classes", label: "Sabbath Classes" },
   { to: "/captains", label: "The Captains" },
   { to: "/cases", label: "Case Studies" },
+  { to: "/law", label: "The Law" },
 ] as const;
 
 export function SiteNav() {
@@ -63,17 +64,21 @@ export function SiteFooter() {
           <h4>~/law</h4>
           <ul>
             <li><Link to="/cases">Case Studies</Link></li>
-            <li><a href="https://devsecobie.github.io/cyberjudah/law">Handbook</a></li>
-            <li><a href="https://devsecobie.github.io/cyberjudah/precepts">Precepts</a></li>
-            <li><a href="https://devsecobie.github.io/cyberjudah/concordance">Concordance</a></li>
+            <li><Link to="/law">The Law</Link></li>
+            <li><Link to="/precepts">Precepts</Link></li>
+            <li><Link to="/concordance">Concordance</Link></li>
+            <li><Link to="/classes/by-book">Classes by book</Link></li>
           </ul>
         </div>
         <div>
           <h4>~/bin</h4>
           <ul>
-            <li><Link to="/search" search={{ q: "" }}>Search</Link></li>
-            <li><a href="https://devsecobie.github.io/cyberjudah/api">API</a></li>
-            <li><a href="https://devsecobie.github.io/cyberjudah/encyclopedia">Encyclopedia</a></li>
+            <li><Link to="/search" search={{ q: "", only: undefined }}>Search</Link></li>
+            <li><Link to="/encyclopedia">Encyclopedia</Link></li>
+            <li><Link to="/topics">Topics</Link></li>
+            <li><Link to="/api">API</Link></li>
+            <li><Link to="/downloads">Downloads</Link></li>
+            <li><Link to="/about">About</Link></li>
             <li><a href="https://github.com/DevSecObie/cyberjudah">GitHub</a></li>
           </ul>
         </div>

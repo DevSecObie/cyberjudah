@@ -22,7 +22,7 @@ import zlib from "node:zlib";
 import Database from "better-sqlite3";
 import * as pagefind from "pagefind";
 
-import { loadLibrary, plain, VERDICT } from "./library.mjs";
+import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -58,19 +58,86 @@ for (const b of BOOKS) {
 writeJson(path.join(API, "kjv", "books.json"), L.bibleIndex.map((e) => ({ ...e, testament: testament(e.book), url: bookUrl(e.book), chapterIds: Object.keys(bible[e.book]).map(Number).sort((a, b) => a - b) })));
 
 /* ---------------- api: law, precepts, cases ---------------- */
+// A reference resolved for rendering: the chapter's slug and route, the study note that
+// teaches the chapter, and the verses themselves (capped; `more` counts the rest), so a law
+// section or a precept is one fetch for a front end.
+const QUOTE_MAX = 12;
+function resolveRef(r) {
+  const slug = bookSlug[r.book];
+  const chapter = bible[r.book]?.[String(r.chapter)] ?? [];
+  const wanted = r.verses ? versesOf(r.verses) : chapter.map((_, i) => i + 1);
+  const rows = wanted.filter((v) => chapter[v - 1]).map((v) => ({ verse: v, text: chapter[v - 1] }));
+  const study = L.studyFor(r.book, r.chapter);
+  return {
+    ...r, slug: slug ?? null,
+    url: slug ? `${chapterUrl(r.book, r.chapter)}${r.verses ? `#v${firstVerse(r.verses)}` : ""}` : null,
+    label: `${r.book} ${r.chapter}${r.verses ? `:${r.verses}` : ""}`,
+    study: study ? { range: study.range, url: study.url } : null,
+    text: rows.slice(0, QUOTE_MAX), more: Math.max(0, rows.length - QUOTE_MAX),
+  };
+}
 for (const p of handbook.parts) for (const s of p.sections)
-  writeJson(path.join(API, "laws", `${s.id}.json`), { id: s.id, title: s.title, part: { n: p.n, title: p.title, url: partUrl(p) }, url: sectionUrl(s), seeAlso: s.seeAlso ?? [], entries: s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, refs: e.refs ?? [], citation: e.citation })) });
+  writeJson(path.join(API, "laws", `${s.id}.json`), { id: s.id, title: s.title, part: { n: p.n, title: p.title, url: partUrl(p) }, url: sectionUrl(s),
+    seeAlso: (s.seeAlso ?? []).map((id) => { const o = L.sectionById[String(id).toUpperCase()]; return o ? { id: o.id, title: o.title, url: sectionUrl(o) } : { id, title: "", url: null }; }),
+    entries: s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, refs: (e.refs ?? []).map(resolveRef), citation: e.citation })) });
 writeJson(path.join(API, "laws", "index.json"), handbook.parts.map((p) => ({ n: p.n, title: p.title, url: partUrl(p), sections: p.sections.map((s) => ({ id: s.id, title: s.title, laws: s.entries.length, url: sectionUrl(s) })) })));
-for (const t of sortedPrecepts) writeJson(path.join(API, "precepts", `${t.slug}.json`), { ...t, url: preceptUrl(t) });
+for (const t of sortedPrecepts) writeJson(path.join(API, "precepts", `${t.slug}.json`), { ...t, refs: t.refs.map(resolveRef), url: preceptUrl(t) });
 writeJson(path.join(API, "precepts", "index.json"), sortedPrecepts.map((t) => ({ slug: t.slug, title: t.title, refs: t.refs.length, url: preceptUrl(t) })));
+const seeAlsoEncyclopedia = (hay) => {
+  const h = hay.toLowerCase();
+  return L.lexicon.filter((l) => l.terms.some((t) => new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(h))).map((l) => L.noteByTitle.get(l.topic.toLowerCase())).filter(Boolean).map((n) => ({ title: n.title, url: n.url }));
+};
 for (const c of cases.cases) {
   const related = cases.cases.filter((o) => o !== c && isBlessing(o) === isBlessing(c) && o.themes.some((t) => c.themes.includes(t))).slice(0, 6).map((o) => ({ slug: o.slug, name: o.name, charge: o.charge, url: caseUrl(o) }));
   const taught = [...new Set(c.refs.map((r) => L.studyFor(r.book, r.chapter)).filter(Boolean))].map((n) => ({ title: n.title, range: n.range, url: n.url }));
   const laws = c.laws.map((l) => { const [sid, n] = l.split("."); const s = L.sectionById[sid]; const en = s && n ? s.entries[+n - 1] : null; return { id: l, text: en ? en.text : s ? `${s.title} (section)` : "", url: L.lawUrl(l) }; });
   const precepts = c.topics.map((t) => { const p = L.findPrecept(t); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : { slug: t, title: t, url: null }; });
-  writeJson(path.join(API, "cases", `${c.slug}.json`), { ...c, url: caseUrl(c), kind: c.kind ?? "judgment", verdictLabel: VERDICT[c.verdict] ?? c.verdict, related, taught, lawsResolved: laws, preceptsResolved: precepts });
+  const see = seeAlsoEncyclopedia(`${c.charge} ${c.summary} ${c.themes.join(" ")} ${c.topics.join(" ")}`);
+  writeJson(path.join(API, "cases", `${c.slug}.json`), { ...c, url: caseUrl(c), kind: c.kind ?? "judgment", verdictLabel: VERDICT[c.verdict] ?? c.verdict, related, taught, lawsResolved: laws, preceptsResolved: precepts, refsResolved: c.refs.map(resolveRef), see });
 }
-writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c) })) });
+writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c), themes: c.themes ?? [], topics: c.topics ?? [] })) });
+
+/* ---------------- api: the concordance as a whole ---------------- */
+// One row per citing document per chapter (the per-chapter files keep one row per passage).
+const mergeRows = (rows) => {
+  const out = new Map();
+  for (const r of uniqueCitations(rows)) {
+    const k = `${r.kind}|${r.url}`;
+    if (!out.has(k)) out.set(k, { kind: r.kind, label: r.label, url: r.url, verses: [] });
+    if (r.verses && !out.get(k).verses.includes(r.verses)) out.get(k).verses.push(r.verses);
+  }
+  return [...out.values()];
+};
+const concordanceIndex = [];
+for (const b of BOOKS) {
+  const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y).filter((c) => (cited.get(`${b}|${c}`) ?? []).length);
+  const chapters = chs.map((c) => ({ chapter: c, url: chapterUrl(b, c), cited_by: mergeRows(cited.get(`${b}|${c}`)) }));
+  const citations = chapters.reduce((a, c) => a + c.cited_by.length, 0);
+  writeJson(path.join(API, "concordance", `${bookSlug[b]}.json`), { book: b, slug: bookSlug[b], testament: testament(b), url: bookUrl(b), chapters: CHAPTERS[b], cited: chs, citations, chapterRows: chapters });
+  concordanceIndex.push({ book: b, slug: bookSlug[b], testament: testament(b), url: bookUrl(b), chapters: CHAPTERS[b], cited: chs, citations });
+}
+writeJson(path.join(API, "concordance", "index.json"), concordanceIndex);
+
+/* ---------------- api: encyclopedia, topics ---------------- */
+writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({ slug: n.slug, title: n.title, url: n.url, summary: n.summary ?? "" })));
+{
+  // Every topic label with the notes and cases that carry it, so a topic page is one fetch.
+  const topicRows = new Map();
+  const add = (slugKey, row) => { if (!topicRows.has(slugKey)) topicRows.set(slugKey, []); topicRows.get(slugKey).push(row); };
+  for (const n of [...classNotes, ...captainNotes]) for (const t of n.topics ?? []) add(t, { kind: n.kind === "captains" ? "captains" : "class", title: n.title, url: n.url, date: n.date ?? null, teacher: n.teacher ?? "" });
+  for (const c of cases.cases) for (const t of [...(c.themes ?? []), `verdict-${c.verdict}`]) add(t, { kind: "case", title: c.name, url: caseUrl(c), charge: c.charge, verdict: c.verdict });
+  const labelOf = new Map(L.topics.map((t) => [t.slug, t.label]));
+  const pretty = (s) => labelOf.get(s) ?? (s.startsWith("verdict-") ? `Verdict: ${VERDICT[s.slice(8)] ?? s.slice(8)}` : s.replace(/-/g, " ").replace(/\b\w/g, (m) => m.toUpperCase()));
+  const index = [...topicRows.entries()].map(([slugKey, rows]) => ({ slug: slugKey, label: pretty(slugKey), notes: rows.filter((r) => r.kind !== "case").length, cases: rows.filter((r) => r.kind === "case").length, url: `/topics/${slugKey}` })).sort((a, b) => a.label.localeCompare(b.label));
+  writeJson(path.join(API, "topics", "index.json"), index);
+  for (const [slugKey, rows] of topicRows) writeJson(path.join(API, "topics", `${slugKey}.json`), { slug: slugKey, label: pretty(slugKey), url: `/topics/${slugKey}`, items: rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.title.localeCompare(b.title)) });
+}
+
+/* ---------------- downloads ---------------- */
+{
+  const vault = path.join(ROOT, "static", "downloads", "vault.zip");
+  if (fs.existsSync(vault)) { fs.mkdirSync(path.join(OUT, "downloads"), { recursive: true }); fs.copyFileSync(vault, path.join(OUT, "downloads", "vault.zip")); }
+}
 
 /* ---------------- api: notes ---------------- */
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, year: n.year, series: n.series, teacher: n.teacher, topics: n.topics ?? [], summary: n.summary ?? n.description ?? "", videoId: n.videoId ?? null })));
@@ -219,8 +286,10 @@ writeJson(path.join(API, "index.json"), {
   kjv: "/api/kjv/books.json", chapter: "/api/kjv/<book-slug>/<chapter>.json", concordance: "/api/concordance/<book-slug>/<chapter>.json",
   notes: "/api/notes/index.json", note: "/api/notes/<site-path>.json", laws: "/api/laws/index.json", law: "/api/laws/<SECTION>.json",
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
-  byBook: "/api/by-book.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
-  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
+  concordanceIndex: "/api/concordance/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
+  topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
+  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
+  downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
 });
 

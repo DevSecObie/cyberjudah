@@ -10,6 +10,9 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AboutRouteImport } from './routes/about'
+import { Route as ApiRouteImport } from './routes/api'
+import { Route as DownloadsRouteImport } from './routes/downloads'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as SearchRouteImport } from './routes/search'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
@@ -17,17 +20,45 @@ import { Route as BibleIndexRouteImport } from './routes/bible/index'
 import { Route as CaptainsIndexRouteImport } from './routes/captains/index'
 import { Route as CasesIndexRouteImport } from './routes/cases/index'
 import { Route as ClassesIndexRouteImport } from './routes/classes/index'
+import { Route as ClassesByBookRouteImport } from './routes/classes/by-book'
+import { Route as ConcordanceIndexRouteImport } from './routes/concordance/index'
+import { Route as ConcordanceBookRouteImport } from './routes/concordance/$book'
+import { Route as EncyclopediaIndexRouteImport } from './routes/encyclopedia/index'
+import { Route as EncyclopediaSlugRouteImport } from './routes/encyclopedia/$slug'
+import { Route as LawIndexRouteImport } from './routes/law/index'
+import { Route as PreceptsIndexRouteImport } from './routes/precepts/index'
+import { Route as PreceptsSlugRouteImport } from './routes/precepts/$slug'
 import { Route as StudyIndexRouteImport } from './routes/study/index'
+import { Route as TopicsIndexRouteImport } from './routes/topics/index'
+import { Route as TopicsSlugRouteImport } from './routes/topics/$slug'
 import { Route as BibleBookIndexRouteImport } from './routes/bible/$book/index'
 import { Route as BibleBookChapterRouteImport } from './routes/bible/$book/$chapter'
 import { Route as CaptainsYearSlugRouteImport } from './routes/captains/$year/$slug'
 import { Route as CasesEraSlugRouteImport } from './routes/cases/$era/$slug'
 import { Route as ClassesYearSlugRouteImport } from './routes/classes/$year/$slug'
+import { Route as LawPartIndexRouteImport } from './routes/law/$part/index'
+import { Route as LawPartSectionRouteImport } from './routes/law/$part/$section'
+import { Route as StudyBookIndexRouteImport } from './routes/study/$book/index'
 import { Route as StudyBookChapterRouteImport } from './routes/study/$book/$chapter'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AboutRoute = AboutRouteImport.update({
+  id: '/about',
+  path: '/about',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiRoute = ApiRouteImport.update({
+  id: '/api',
+  path: '/api',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DownloadsRoute = DownloadsRouteImport.update({
+  id: '/downloads',
+  path: '/downloads',
   getParentRoute: () => rootRouteImport,
 } as any)
 const RobotsDottxtRoute = RobotsDottxtRouteImport.update({
@@ -65,9 +96,59 @@ const ClassesIndexRoute = ClassesIndexRouteImport.update({
   path: '/classes/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ClassesByBookRoute = ClassesByBookRouteImport.update({
+  id: '/classes/by-book',
+  path: '/classes/by-book',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ConcordanceIndexRoute = ConcordanceIndexRouteImport.update({
+  id: '/concordance/',
+  path: '/concordance/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ConcordanceBookRoute = ConcordanceBookRouteImport.update({
+  id: '/concordance/$book',
+  path: '/concordance/$book',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EncyclopediaIndexRoute = EncyclopediaIndexRouteImport.update({
+  id: '/encyclopedia/',
+  path: '/encyclopedia/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EncyclopediaSlugRoute = EncyclopediaSlugRouteImport.update({
+  id: '/encyclopedia/$slug',
+  path: '/encyclopedia/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LawIndexRoute = LawIndexRouteImport.update({
+  id: '/law/',
+  path: '/law/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PreceptsIndexRoute = PreceptsIndexRouteImport.update({
+  id: '/precepts/',
+  path: '/precepts/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PreceptsSlugRoute = PreceptsSlugRouteImport.update({
+  id: '/precepts/$slug',
+  path: '/precepts/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const StudyIndexRoute = StudyIndexRouteImport.update({
   id: '/study/',
   path: '/study/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TopicsIndexRoute = TopicsIndexRouteImport.update({
+  id: '/topics/',
+  path: '/topics/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TopicsSlugRoute = TopicsSlugRouteImport.update({
+  id: '/topics/$slug',
+  path: '/topics/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
 const BibleBookIndexRoute = BibleBookIndexRouteImport.update({
@@ -95,6 +176,21 @@ const ClassesYearSlugRoute = ClassesYearSlugRouteImport.update({
   path: '/classes/$year/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const LawPartIndexRoute = LawPartIndexRouteImport.update({
+  id: '/law/$part/',
+  path: '/law/$part/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LawPartSectionRoute = LawPartSectionRouteImport.update({
+  id: '/law/$part/$section',
+  path: '/law/$part/$section',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const StudyBookIndexRoute = StudyBookIndexRouteImport.update({
+  id: '/study/$book/',
+  path: '/study/$book/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const StudyBookChapterRoute = StudyBookChapterRouteImport.update({
   id: '/study/$book/$chapter',
   path: '/study/$book/$chapter',
@@ -103,126 +199,238 @@ const StudyBookChapterRoute = StudyBookChapterRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/api': typeof ApiRoute
+  '/downloads': typeof DownloadsRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/classes/by-book': typeof ClassesByBookRoute
+  '/concordance/$book': typeof ConcordanceBookRoute
+  '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
+  '/precepts/$slug': typeof PreceptsSlugRoute
+  '/topics/$slug': typeof TopicsSlugRoute
   '/bible/': typeof BibleIndexRoute
   '/captains/': typeof CaptainsIndexRoute
   '/cases/': typeof CasesIndexRoute
   '/classes/': typeof ClassesIndexRoute
+  '/concordance/': typeof ConcordanceIndexRoute
+  '/encyclopedia/': typeof EncyclopediaIndexRoute
+  '/law/': typeof LawIndexRoute
+  '/precepts/': typeof PreceptsIndexRoute
   '/study/': typeof StudyIndexRoute
+  '/topics/': typeof TopicsIndexRoute
   '/bible/$book/$chapter': typeof BibleBookChapterRoute
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
   '/classes/$year/$slug': typeof ClassesYearSlugRoute
+  '/law/$part/$section': typeof LawPartSectionRoute
   '/study/$book/$chapter': typeof StudyBookChapterRoute
   '/bible/$book/': typeof BibleBookIndexRoute
+  '/law/$part/': typeof LawPartIndexRoute
+  '/study/$book/': typeof StudyBookIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/api': typeof ApiRoute
+  '/downloads': typeof DownloadsRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/classes/by-book': typeof ClassesByBookRoute
+  '/concordance/$book': typeof ConcordanceBookRoute
+  '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
+  '/precepts/$slug': typeof PreceptsSlugRoute
+  '/topics/$slug': typeof TopicsSlugRoute
   '/bible': typeof BibleIndexRoute
   '/captains': typeof CaptainsIndexRoute
   '/cases': typeof CasesIndexRoute
   '/classes': typeof ClassesIndexRoute
+  '/concordance': typeof ConcordanceIndexRoute
+  '/encyclopedia': typeof EncyclopediaIndexRoute
+  '/law': typeof LawIndexRoute
+  '/precepts': typeof PreceptsIndexRoute
   '/study': typeof StudyIndexRoute
+  '/topics': typeof TopicsIndexRoute
   '/bible/$book/$chapter': typeof BibleBookChapterRoute
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
   '/classes/$year/$slug': typeof ClassesYearSlugRoute
+  '/law/$part/$section': typeof LawPartSectionRoute
   '/study/$book/$chapter': typeof StudyBookChapterRoute
   '/bible/$book': typeof BibleBookIndexRoute
+  '/law/$part': typeof LawPartIndexRoute
+  '/study/$book': typeof StudyBookIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/api': typeof ApiRoute
+  '/downloads': typeof DownloadsRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/classes/by-book': typeof ClassesByBookRoute
+  '/concordance/$book': typeof ConcordanceBookRoute
+  '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
+  '/precepts/$slug': typeof PreceptsSlugRoute
+  '/topics/$slug': typeof TopicsSlugRoute
   '/bible/': typeof BibleIndexRoute
   '/captains/': typeof CaptainsIndexRoute
   '/cases/': typeof CasesIndexRoute
   '/classes/': typeof ClassesIndexRoute
+  '/concordance/': typeof ConcordanceIndexRoute
+  '/encyclopedia/': typeof EncyclopediaIndexRoute
+  '/law/': typeof LawIndexRoute
+  '/precepts/': typeof PreceptsIndexRoute
   '/study/': typeof StudyIndexRoute
+  '/topics/': typeof TopicsIndexRoute
   '/bible/$book/$chapter': typeof BibleBookChapterRoute
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
   '/classes/$year/$slug': typeof ClassesYearSlugRoute
+  '/law/$part/$section': typeof LawPartSectionRoute
   '/study/$book/$chapter': typeof StudyBookChapterRoute
   '/bible/$book/': typeof BibleBookIndexRoute
+  '/law/$part/': typeof LawPartIndexRoute
+  '/study/$book/': typeof StudyBookIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/about'
+    | '/api'
+    | '/downloads'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
+    | '/classes/by-book'
+    | '/concordance/$book'
+    | '/encyclopedia/$slug'
+    | '/precepts/$slug'
+    | '/topics/$slug'
     | '/bible/'
     | '/captains/'
     | '/cases/'
     | '/classes/'
+    | '/concordance/'
+    | '/encyclopedia/'
+    | '/law/'
+    | '/precepts/'
     | '/study/'
+    | '/topics/'
     | '/bible/$book/$chapter'
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
     | '/classes/$year/$slug'
+    | '/law/$part/$section'
     | '/study/$book/$chapter'
     | '/bible/$book/'
+    | '/law/$part/'
+    | '/study/$book/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/about'
+    | '/api'
+    | '/downloads'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
+    | '/classes/by-book'
+    | '/concordance/$book'
+    | '/encyclopedia/$slug'
+    | '/precepts/$slug'
+    | '/topics/$slug'
     | '/bible'
     | '/captains'
     | '/cases'
     | '/classes'
+    | '/concordance'
+    | '/encyclopedia'
+    | '/law'
+    | '/precepts'
     | '/study'
+    | '/topics'
     | '/bible/$book/$chapter'
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
     | '/classes/$year/$slug'
+    | '/law/$part/$section'
     | '/study/$book/$chapter'
     | '/bible/$book'
+    | '/law/$part'
+    | '/study/$book'
   id:
     | '__root__'
     | '/'
+    | '/about'
+    | '/api'
+    | '/downloads'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
+    | '/classes/by-book'
+    | '/concordance/$book'
+    | '/encyclopedia/$slug'
+    | '/precepts/$slug'
+    | '/topics/$slug'
     | '/bible/'
     | '/captains/'
     | '/cases/'
     | '/classes/'
+    | '/concordance/'
+    | '/encyclopedia/'
+    | '/law/'
+    | '/precepts/'
     | '/study/'
+    | '/topics/'
     | '/bible/$book/$chapter'
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
     | '/classes/$year/$slug'
+    | '/law/$part/$section'
     | '/study/$book/$chapter'
     | '/bible/$book/'
+    | '/law/$part/'
+    | '/study/$book/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AboutRoute: typeof AboutRoute
+  ApiRoute: typeof ApiRoute
+  DownloadsRoute: typeof DownloadsRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  ClassesByBookRoute: typeof ClassesByBookRoute
+  ConcordanceBookRoute: typeof ConcordanceBookRoute
+  EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
+  PreceptsSlugRoute: typeof PreceptsSlugRoute
+  TopicsSlugRoute: typeof TopicsSlugRoute
   BibleIndexRoute: typeof BibleIndexRoute
   CaptainsIndexRoute: typeof CaptainsIndexRoute
   CasesIndexRoute: typeof CasesIndexRoute
   ClassesIndexRoute: typeof ClassesIndexRoute
+  ConcordanceIndexRoute: typeof ConcordanceIndexRoute
+  EncyclopediaIndexRoute: typeof EncyclopediaIndexRoute
+  LawIndexRoute: typeof LawIndexRoute
+  PreceptsIndexRoute: typeof PreceptsIndexRoute
   StudyIndexRoute: typeof StudyIndexRoute
+  TopicsIndexRoute: typeof TopicsIndexRoute
   BibleBookChapterRoute: typeof BibleBookChapterRoute
   CaptainsYearSlugRoute: typeof CaptainsYearSlugRoute
   CasesEraSlugRoute: typeof CasesEraSlugRoute
   ClassesYearSlugRoute: typeof ClassesYearSlugRoute
+  LawPartSectionRoute: typeof LawPartSectionRoute
   StudyBookChapterRoute: typeof StudyBookChapterRoute
   BibleBookIndexRoute: typeof BibleBookIndexRoute
+  LawPartIndexRoute: typeof LawPartIndexRoute
+  StudyBookIndexRoute: typeof StudyBookIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -232,6 +440,27 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/about': {
+      id: '/about'
+      path: '/about'
+      fullPath: '/about'
+      preLoaderRoute: typeof AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api': {
+      id: '/api'
+      path: '/api'
+      fullPath: '/api'
+      preLoaderRoute: typeof ApiRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/downloads': {
+      id: '/downloads'
+      path: '/downloads'
+      fullPath: '/downloads'
+      preLoaderRoute: typeof DownloadsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/robots.txt': {
@@ -283,11 +512,81 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ClassesIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/classes/by-book': {
+      id: '/classes/by-book'
+      path: '/classes/by-book'
+      fullPath: '/classes/by-book'
+      preLoaderRoute: typeof ClassesByBookRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/concordance/': {
+      id: '/concordance/'
+      path: '/concordance'
+      fullPath: '/concordance/'
+      preLoaderRoute: typeof ConcordanceIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/concordance/$book': {
+      id: '/concordance/$book'
+      path: '/concordance/$book'
+      fullPath: '/concordance/$book'
+      preLoaderRoute: typeof ConcordanceBookRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/encyclopedia/': {
+      id: '/encyclopedia/'
+      path: '/encyclopedia'
+      fullPath: '/encyclopedia/'
+      preLoaderRoute: typeof EncyclopediaIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/encyclopedia/$slug': {
+      id: '/encyclopedia/$slug'
+      path: '/encyclopedia/$slug'
+      fullPath: '/encyclopedia/$slug'
+      preLoaderRoute: typeof EncyclopediaSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/law/': {
+      id: '/law/'
+      path: '/law'
+      fullPath: '/law/'
+      preLoaderRoute: typeof LawIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/precepts/': {
+      id: '/precepts/'
+      path: '/precepts'
+      fullPath: '/precepts/'
+      preLoaderRoute: typeof PreceptsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/precepts/$slug': {
+      id: '/precepts/$slug'
+      path: '/precepts/$slug'
+      fullPath: '/precepts/$slug'
+      preLoaderRoute: typeof PreceptsSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/study/': {
       id: '/study/'
       path: '/study'
       fullPath: '/study/'
       preLoaderRoute: typeof StudyIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/topics/': {
+      id: '/topics/'
+      path: '/topics'
+      fullPath: '/topics/'
+      preLoaderRoute: typeof TopicsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/topics/$slug': {
+      id: '/topics/$slug'
+      path: '/topics/$slug'
+      fullPath: '/topics/$slug'
+      preLoaderRoute: typeof TopicsSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/bible/$book/': {
@@ -325,6 +624,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ClassesYearSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/law/$part/': {
+      id: '/law/$part/'
+      path: '/law/$part'
+      fullPath: '/law/$part/'
+      preLoaderRoute: typeof LawPartIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/law/$part/$section': {
+      id: '/law/$part/$section'
+      path: '/law/$part/$section'
+      fullPath: '/law/$part/$section'
+      preLoaderRoute: typeof LawPartSectionRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/study/$book/': {
+      id: '/study/$book/'
+      path: '/study/$book'
+      fullPath: '/study/$book/'
+      preLoaderRoute: typeof StudyBookIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/study/$book/$chapter': {
       id: '/study/$book/$chapter'
       path: '/study/$book/$chapter'
@@ -337,20 +657,36 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AboutRoute: AboutRoute,
+  ApiRoute: ApiRoute,
+  DownloadsRoute: DownloadsRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  ClassesByBookRoute: ClassesByBookRoute,
+  ConcordanceBookRoute: ConcordanceBookRoute,
+  EncyclopediaSlugRoute: EncyclopediaSlugRoute,
+  PreceptsSlugRoute: PreceptsSlugRoute,
+  TopicsSlugRoute: TopicsSlugRoute,
   BibleIndexRoute: BibleIndexRoute,
   CaptainsIndexRoute: CaptainsIndexRoute,
   CasesIndexRoute: CasesIndexRoute,
   ClassesIndexRoute: ClassesIndexRoute,
+  ConcordanceIndexRoute: ConcordanceIndexRoute,
+  EncyclopediaIndexRoute: EncyclopediaIndexRoute,
+  LawIndexRoute: LawIndexRoute,
+  PreceptsIndexRoute: PreceptsIndexRoute,
   StudyIndexRoute: StudyIndexRoute,
+  TopicsIndexRoute: TopicsIndexRoute,
   BibleBookChapterRoute: BibleBookChapterRoute,
   CaptainsYearSlugRoute: CaptainsYearSlugRoute,
   CasesEraSlugRoute: CasesEraSlugRoute,
   ClassesYearSlugRoute: ClassesYearSlugRoute,
+  LawPartSectionRoute: LawPartSectionRoute,
   StudyBookChapterRoute: StudyBookChapterRoute,
   BibleBookIndexRoute: BibleBookIndexRoute,
+  LawPartIndexRoute: LawPartIndexRoute,
+  StudyBookIndexRoute: StudyBookIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

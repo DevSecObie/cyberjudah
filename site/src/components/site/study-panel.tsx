@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
 import { Tabs } from "radix-ui";
 
-import { api, dataOrigin, SITE_ORIGIN, type Book, type Case, type Citation, type Note } from "@/lib/api";
+import { api, dataOrigin, type Book, type Case, type Citation, type LawEntry, type LawSection, type Note } from "@/lib/api";
 import { renderNote } from "@/lib/markdown";
 import { citationsForVerse, parseRef, shelf, type Ref } from "@/lib/refs";
 import { RefCards } from "@/components/site/ref-card";
@@ -17,7 +17,7 @@ type Doc =
   | { kind: "note"; note: Note; html: string }
   | { kind: "case"; c: Case }
   | { kind: "precept"; p: Precept }
-  | { kind: "law"; label: string; url: string }
+  | { kind: "law"; label: string; url: string; section: LawSection; entry: LawEntry | null }
   | { kind: "error"; url: string };
 
 const docCache = new Map<string, Promise<Doc>>();
@@ -42,7 +42,11 @@ function loadDoc(c: Citation): Promise<Doc> {
         if (!res.ok) throw new Error(String(res.status));
         return { kind: "precept", p: (await res.json()) as Precept };
       }
-      return { kind: "law", label: c.label, url: c.url };
+      const [pathPart, hash] = c.url.split("#");
+      const sectionId = pathPart.split("/").filter(Boolean).pop() ?? "";
+      const section = await api.law(sectionId);
+      const entry = section.entries.find((e) => e.id === hash) ?? null;
+      return { kind: "law", label: c.label, url: c.url, section, entry };
     } catch {
       return { kind: "error", url: c.url };
     }
@@ -59,11 +63,11 @@ const GROUPS: { id: string; label: string; shelves: ReturnType<typeof shelf>[] }
   { id: "cases", label: "Cases", shelves: ["case"] },
 ];
 const SHELF_LABEL: Record<string, string> = { study: "4 Chapters a Day", class: "Sabbath class", captains: "The Captains", encyclopedia: "Encyclopedia", law: "Law", precept: "Precept", case: "Case", other: "Note" };
-const LOCAL = ["/study/", "/classes/", "/captains/", "/cases/"];
+
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
 export function fullHref(url: string): string {
-  return LOCAL.some((k) => url.startsWith(k)) ? url : `${SITE_ORIGIN}${url}`;
+  return url;
 }
 
 export function StudyPanel({
@@ -164,7 +168,7 @@ function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book
     const href = a.getAttribute("href") ?? "";
     const ref = parseRef(href);
     if (ref) { e.preventDefault(); onGo(ref); return; }
-    const local = href.replace(SITE_ORIGIN, "");
+    const local = href;
     if (PANEL_KINDS.some((k) => local.startsWith(k))) { e.preventDefault(); onStudy(local.split("#")[0]); }
   };
 
@@ -224,11 +228,20 @@ function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book
             </ul>
           </RefCards>
         ) : (
-          <div className="note note--panel">
-            <h3 className="doc__title">{doc.label.replace(/^\S+\s/, "")}</h3>
-            <p className="cj-mono">{doc.label.split(" ")[0]} in the handbook of law</p>
-            <p>Read the section around this law, with its scriptures, in the handbook.</p>
-          </div>
+          <RefCards books={books} onOpen={onGo}>
+            <h3 className="doc__title">{doc.entry ? doc.entry.id : doc.section.id} · {doc.section.title}</h3>
+            <p className="cj-mono">Part {doc.section.part.n}: {doc.section.part.title}</p>
+            <div className="note note--panel">
+              {doc.entry ? (
+                <>
+                  <p style={{ fontFamily: "var(--font-serif)", fontSize: "1.05rem" }}>{doc.entry.text}</p>
+                  <p><strong>Scripture.</strong> {doc.entry.refs.map((r, i) => <span key={i}>{i ? ", " : ""}{r.url ? <a href={r.url}>{r.label}</a> : r.label}</span>)}</p>
+                </>
+              ) : (
+                <ul>{doc.section.entries.slice(0, 12).map((e) => <li key={e.id}><span className="cj-mono">{e.id}</span> {e.text}</li>)}</ul>
+              )}
+            </div>
+          </RefCards>
         )}
       </div>
     </div>

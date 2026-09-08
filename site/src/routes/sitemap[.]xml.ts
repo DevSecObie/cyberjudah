@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 
 import { api } from "@/lib/api";
 
-const SECTIONS = ["/", "/bible", "/study", "/classes", "/captains", "/cases", "/search"];
+const SECTIONS = ["/", "/bible", "/study", "/classes", "/classes/by-book", "/captains", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"];
 
 export const Route = createFileRoute("/sitemap.xml")({
   server: {
@@ -14,9 +14,14 @@ export const Route = createFileRoute("/sitemap.xml")({
         try {
           const [books, notes] = await Promise.all([api.books(), api.notes()]);
           for (const b of books) for (const c of b.chapterIds) urls.push(`${origin}/bible/${b.slug}/${c}`);
-          for (const n of notes) if (/^\/(study|classes|captains)\//.test(n.url)) urls.push(`${origin}${n.url}`);
-          const cases = await api.cases();
+          for (const b of books) { urls.push(`${origin}/bible/${b.slug}`); urls.push(`${origin}/concordance/${b.slug}`); }
+          for (const n of notes) if (/^\/(study|classes|captains|encyclopedia)\//.test(n.url)) urls.push(`${origin}${n.url}`);
+          for (const b of new Set(notes.filter((n) => n.kind === "study" && n.book).map((n) => n.url.split("/")[2]))) urls.push(`${origin}/study/${b}`);
+          const [cases, laws, precepts, topics] = await Promise.all([api.cases(), api.laws(), api.precepts(), api.topics()]);
           for (const c of cases.cases) urls.push(`${origin}${c.url}`);
+          for (const p of laws) { urls.push(`${origin}${p.url}`); for (const s of p.sections) urls.push(`${origin}${s.url}`); }
+          for (const p of precepts) urls.push(`${origin}${p.url}`);
+          for (const t of topics) urls.push(`${origin}${t.url}`);
         } catch { /* the sections alone are still a valid sitemap */ }
         const xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
           ...urls.map((u) => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`), "</urlset>"].join("\n");

@@ -15,6 +15,11 @@ const SECTIONS = [
   { label: "Sabbath Classes", to: "/classes", hint: "class notes" },
   { label: "The Captains", to: "/captains", hint: "episodes" },
   { label: "Case Studies", to: "/cases", hint: "judgments and blessings" },
+  { label: "The Law", to: "/law", hint: "the handbook" },
+  { label: "Precepts", to: "/precepts", hint: "subject index" },
+  { label: "Concordance", to: "/concordance", hint: "who cites what" },
+  { label: "Encyclopedia", to: "/encyclopedia", hint: "standing subjects" },
+  { label: "Topics", to: "/topics", hint: "tags" },
 ];
 
 let opener: ((open: boolean) => void) | null = null;
