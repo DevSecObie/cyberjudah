@@ -35,7 +35,7 @@ jobs:
       - run: npm ci --prefix engine --no-audit --no-fund
       - run: npm run notes:lint
       - name: Build the data set
-        run: node engine/build.mjs --out dist --site https://devsecobie.github.io/cyberjudah
+        run: node engine/build.mjs --out dist --site https://cyberjudah.io
       - name: Publish to the data branch
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
