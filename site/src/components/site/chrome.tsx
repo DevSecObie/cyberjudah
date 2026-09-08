@@ -7,7 +7,7 @@ const NAV = [
   { to: "/bible", label: "Bible" },
   { to: "/study", label: "4 Chapters a Day" },
   { to: "/classes", label: "Sabbath Classes" },
-  { to: "/captains", label: "The Captains" },
+  { to: "/captains", label: "15 Min w/Captains" },
   { to: "/cases", label: "Case Studies" },
   { to: "/law", label: "The Law" },
 ] as const;
@@ -57,7 +57,7 @@ export function SiteFooter() {
             <li><Link to="/bible">Bible</Link></li>
             <li><Link to="/study">4 Chapters a Day</Link></li>
             <li><Link to="/classes">Sabbath Classes</Link></li>
-            <li><Link to="/captains">The Captains</Link></li>
+            <li><Link to="/captains">15 Min w/Captains</Link></li>
           </ul>
         </div>
         <div>
@@ -67,7 +67,6 @@ export function SiteFooter() {
             <li><Link to="/law">The Law</Link></li>
             <li><Link to="/precepts">Precepts</Link></li>
             <li><Link to="/concordance">Concordance</Link></li>
-            <li><Link to="/classes/by-book">Classes by book</Link></li>
           </ul>
         </div>
         <div>

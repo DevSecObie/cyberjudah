@@ -2,8 +2,10 @@ import { useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
 import { Tabs } from "radix-ui";
 
 import { api, dataOrigin, type Book, type Case, type Citation, type LawEntry, type LawSection, type Note } from "@/lib/api";
+import { compressVerses, findCiteLink, fromHref, landOn, type From } from "@/lib/cite";
+import { GoLink, withFrom } from "@/components/site/return-bar";
 import { renderNote } from "@/lib/markdown";
-import { citationsForVerse, parseRef, shelf, type Ref } from "@/lib/refs";
+import { citationsForVerses, parseRef, shelf, type Ref } from "@/lib/refs";
 import { RefCards } from "@/components/site/ref-card";
 
 /**
@@ -62,29 +64,28 @@ const GROUPS: { id: string; label: string; shelves: ReturnType<typeof shelf>[] }
   { id: "precepts", label: "Precepts", shelves: ["precept"] },
   { id: "cases", label: "Cases", shelves: ["case"] },
 ];
-const SHELF_LABEL: Record<string, string> = { study: "4 Chapters a Day", class: "Sabbath class", captains: "The Captains", encyclopedia: "Encyclopedia", law: "Law", precept: "Precept", case: "Case", other: "Note" };
+const SHELF_LABEL: Record<string, string> = { study: "4 Chapters a Day", class: "Sabbath class", captains: "15 Min w/Captains", encyclopedia: "Encyclopedia", law: "Law", precept: "Precept", case: "Case", other: "Note" };
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
-export function fullHref(url: string): string {
-  return url;
-}
 
 export function StudyPanel({
-  books, citations, activeVerse, study, onStudy, onVerse, onGo, compact = false,
+  books, citations, origin, activeVerses, study, onStudy, onVerses, onGo, compact = false,
 }: {
   books: Book[];
   citations: Citation[];
-  activeVerse?: number;
+  origin: { slug: string; chapter: number };
+  activeVerses: number[];
   study?: string;
   onStudy: (url: string | undefined) => void;
-  onVerse: (v: number | undefined) => void;
+  onVerses: (v: number[]) => void;
   onGo: (ref: Ref) => void;
   compact?: boolean;
 }) {
   const [tab, setTab] = useState("all");
+  const from: From = { slug: origin.slug, chapter: origin.chapter, verses: activeVerses, href: fromHref(origin.slug, origin.chapter, activeVerses) };
 
-  const visible = useMemo(() => (activeVerse ? citationsForVerse(citations, activeVerse) : citations), [citations, activeVerse]);
+  const visible = useMemo(() => (activeVerses.length ? citationsForVerses(citations, activeVerses) : citations), [citations, activeVerses]);
   const counts = useMemo(() => {
     const m: Record<string, number> = { all: visible.length };
     for (const g of GROUPS) m[g.id] = visible.filter((c) => g.shelves.includes(shelf(c))).length;
@@ -98,14 +99,14 @@ export function StudyPanel({
   return (
     <div className={compact ? "study study--compact" : "study"}>
       {open ? (
-        <DocView c={open} books={books} onBack={() => onStudy(undefined)} onGo={onGo} onStudy={onStudy} />
+        <DocView c={open} books={books} from={from} onBack={() => onStudy(undefined)} onGo={onGo} onStudy={onStudy} />
       ) : (
         <>
           <div className="study__head">
             <h2>Cited by</h2>
-            {activeVerse ? (
-              <button type="button" className="chip chip--active" onClick={() => onVerse(undefined)} aria-label={`Showing verse ${activeVerse}; clear`}>
-                Verse {activeVerse} <span aria-hidden="true">×</span>
+            {activeVerses.length ? (
+              <button type="button" className="chip chip--active" onClick={() => onVerses([])} aria-label={`Showing ${activeVerses.length === 1 ? "verse" : "verses"} ${compressVerses(activeVerses)}; clear`}>
+                {activeVerses.length === 1 ? "Verse" : "Verses"} {compressVerses(activeVerses).replace(/,/g, ", ")} <span aria-hidden="true">×</span>
               </button>
             ) : (
               <span className="cj-mono">{citations.length ? "Whole chapter" : ""}</span>
@@ -123,7 +124,7 @@ export function StudyPanel({
               </Tabs.List>
               <div className="study__list">
                 {shown.length === 0 ? (
-                  <p className="study__empty">Nothing cites verse {activeVerse} in this shelf.</p>
+                  <p className="study__empty">Nothing cites {activeVerses.length === 1 ? "verse" : "verses"} {compressVerses(activeVerses).replace(/,/g, ", ")} in this shelf.</p>
                 ) : (
                   <ul className="cited">
                     {shown.map((c) => (
@@ -147,7 +148,7 @@ export function StudyPanel({
 
 const PANEL_KINDS = ["/study/", "/classes/", "/captains/", "/cases/", "/encyclopedia/", "/precepts/"];
 
-function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book[]; onBack: () => void; onGo: (ref: Ref) => void; onStudy: (url: string) => void }) {
+function DocView({ c, books, from, onBack, onGo, onStudy }: { c: Citation; books: Book[]; from: From; onBack: () => void; onGo: (ref: Ref) => void; onStudy: (url: string) => void }) {
   const [doc, setDoc] = useState<Doc | null>(null);
   const body = useRef<HTMLDivElement>(null);
   const url = c.url;
@@ -158,6 +159,14 @@ function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book
     return () => { alive = false; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [url]);
+  // Once the document is in, land on the line that cites the verses the reader has selected.
+  useEffect(() => {
+    if (!doc || doc.kind === "error" || !body.current) return;
+    const root = body.current;
+    const t = window.setTimeout(() => { const el = findCiteLink(root, from); if (el) landOn(el, root.closest(".reader__sticky, .sheet") as HTMLElement | null ?? root); }, 60);
+    return () => window.clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [doc, from.href]);
   useEffect(() => { body.current?.scrollTo({ top: 0 }); }, [doc]);
 
   // Links inside an opened document stay inside the reader: scripture moves the text, other
@@ -177,9 +186,9 @@ function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book
     <div className="doc" onClick={onClick}>
       <div className="doc__bar">
         <button type="button" className="doc__back" onClick={onBack}>← Cited by</button>
-        <a className="read-link" href={fullHref(c.url)} target={fullHref(c.url).startsWith("http") ? "_blank" : undefined} rel="noreferrer">
+        <GoLink className="read-link" href={withFrom(c.url, from.href)}>
           <span>Open page</span><span aria-hidden="true">→</span>
-        </a>
+        </GoLink>
       </div>
       <div className="doc__body" ref={body}>
         <p className="cj-kicker">{SHELF_LABEL[s]}{c.verses ? ` · vv. ${c.verses}` : ""}</p>
@@ -235,7 +244,7 @@ function DocView({ c, books, onBack, onGo, onStudy }: { c: Citation; books: Book
               {doc.entry ? (
                 <>
                   <p style={{ fontFamily: "var(--font-serif)", fontSize: "1.05rem" }}>{doc.entry.text}</p>
-                  <p><strong>Scripture.</strong> {doc.entry.refs.map((r, i) => <span key={i}>{i ? ", " : ""}{r.url ? <a href={r.url}>{r.label}</a> : r.label}</span>)}</p>
+                  <p><strong>Scripture.</strong> {doc.entry.refs.map((r, i) => <span key={i}>{i ? ", " : ""}{r.url ? <a href={r.url} data-verses={r.verses || undefined}>{r.label}</a> : r.label}</span>)}</p>
                 </>
               ) : (
                 <ul>{doc.section.entries.slice(0, 12).map((e) => <li key={e.id}><span className="cj-mono">{e.id}</span> {e.text}</li>)}</ul>

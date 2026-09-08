@@ -1,7 +1,8 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { RefCards } from "@/components/site/ref-card";
-import { RefQuote } from "@/components/site/ref-quote";
+import { RefQuote, TaughtIn } from "@/components/site/ref-quote";
+import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 
 export const Route = createFileRoute("/precepts/$slug")({
@@ -27,11 +28,14 @@ function PreceptPage() {
         <p className="cj-lede" style={{ marginBottom: 0 }}>{p.refs.length} {p.refs.length === 1 ? "passage" : "passages"} across {books.length} {books.length === 1 ? "book" : "books"}{key.length ? `, ${key.length} key` : ""}.</p>
         {books.length > 1 ? <p className="cj-mono" style={{ marginTop: "0.9rem" }}>{books.join(" · ")}</p> : null}
       </div>
-      <RefCards>
-        <div className="refqs">
-          {p.refs.map((r, i) => <RefQuote key={i} r={r} />)}
-        </div>
-      </RefCards>
+      <CiteLanding>
+        <RefCards>
+          <div className="refqs">
+            {p.refs.map((r, i) => <RefQuote key={i} r={r} />)}
+          </div>
+        </RefCards>
+        <TaughtIn refs={p.refs} />
+      </CiteLanding>
       <div className="pager">
         {prev ? <Link to="/precepts/$slug" params={{ slug: prev.slug }} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/precepts">All precepts</ReadLink>}
         {next ? <Link to="/precepts/$slug" params={{ slug: next.slug }} className="read-link"><span>{next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/precepts">All precepts</ReadLink>}

@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 
 import { api } from "@/lib/api";
 
-const SECTIONS = ["/", "/bible", "/study", "/classes", "/classes/by-book", "/captains", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"];
+const SECTIONS = ["/", "/bible", "/study", "/classes", "/captains", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"];
 
 export const Route = createFileRoute("/sitemap.xml")({
   server: {

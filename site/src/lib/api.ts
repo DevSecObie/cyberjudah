@@ -12,7 +12,7 @@
  */
 const REPO = "DevSecObie/cyberjudah";
 /** The data set, served by the content engine's own Worker with short cache lifetimes. */
-const DATA_ORIGIN = "https://data.cyberjudah.io";
+export const DATA_ORIGIN: string = (import.meta.env.VITE_DATA_ORIGIN as string | undefined) || "https://data.cyberjudah.io";
 /** Fallback: the same data set served content-addressed from the git branch. */
 const POINTER = `https://raw.githubusercontent.com/${REPO}/data/pointer.json`;
 const CDN = (ref: string) => `https://cdn.jsdelivr.net/gh/${REPO}@${ref}`;
@@ -185,7 +185,7 @@ export const api = {
   encyclopedia: () => getJson<EncyclopediaRow[]>("/api/encyclopedia/index.json"),
   topics: () => getJson<TopicRow[]>("/api/topics/index.json"),
   topic: (slug: string) => getJson<Topic>(`/api/topics/${slug}.json`),
-  byBook: () => getJson<ByBookRow[]>("/api/by-book.json"),
+  topicLabels: () => getJson<{ slug: string; label: string }[]>("/search/topics.json"),
 };
 
 /** Thumbnails in the feed are either relative to the data set or absolute. Loaders make them

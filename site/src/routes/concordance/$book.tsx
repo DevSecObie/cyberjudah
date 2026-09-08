@@ -2,6 +2,8 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { api, type MergedCitation } from "@/lib/api";
 import { shelf, verseNumbers } from "@/lib/refs";
+import { fromHref } from "@/lib/cite";
+import { GoLink, withFrom } from "@/components/site/return-bar";
 
 export const Route = createFileRoute("/concordance/$book")({
   loader: async ({ params }) => {
@@ -34,7 +36,7 @@ export function verseList(vv: string[]): string {
   return out.join(", ");
 }
 
-export function CitedGroups({ rows }: { rows: MergedCitation[] }) {
+export function CitedGroups({ rows, from }: { rows: MergedCitation[]; from?: { slug: string; chapter: number } }) {
   return (
     <>
       {GROUPS.map((g) => {
@@ -46,7 +48,7 @@ export function CitedGroups({ rows }: { rows: MergedCitation[] }) {
             <ul className="cited-rows">
               {list.map((r) => (
                 <li key={r.kind + r.url}>
-                  <Link to={r.url as never}>{r.label}</Link>
+                  {from ? <GoLink href={withFrom(r.url, fromHref(from.slug, from.chapter, r.verses.length ? verseList(r.verses).replace(/, /g, ",") : ""))}>{r.label}</GoLink> : <Link to={r.url as never}>{r.label}</Link>}
                   {r.verses.length ? <span className="cj-mono"> v. {verseList(r.verses)}</span> : null}
                 </li>
               ))}
@@ -69,7 +71,7 @@ function ConcordanceBook() {
       {b.chapterRows.map((ch) => (
         <section key={ch.chapter} className="book-block" id={`ch-${ch.chapter}`}>
           <h2><Link to="/bible/$book/$chapter" params={{ book: b.slug, chapter: String(ch.chapter) }}>{b.book} {ch.chapter}</Link> <span className="cj-mono" style={{ fontWeight: 400, color: "var(--color-muted)" }}>{ch.cited_by.length}</span></h2>
-          <CitedGroups rows={ch.cited_by} />
+          <CitedGroups rows={ch.cited_by} from={{ slug: b.slug, chapter: ch.chapter }} />
         </section>
       ))}
       <p style={{ marginTop: "2rem" }}><ReadLink to="/concordance">All books</ReadLink></p>

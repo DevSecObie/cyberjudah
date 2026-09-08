@@ -1,7 +1,8 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { RefCards } from "@/components/site/ref-card";
-import { RefQuote } from "@/components/site/ref-quote";
+import { RefQuote, TaughtIn } from "@/components/site/ref-quote";
+import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
@@ -32,6 +33,7 @@ function CasePage() {
           <span style={{ color: "var(--color-muted)" }}>{c.charge}</span>
         </div>
       </div>
+      <CiteLanding>
       <RefCards>
         <div className="note">
           <p>{c.summary}</p>
@@ -57,12 +59,6 @@ function CasePage() {
               <ul>{c.related.map((o) => <li key={o.slug}><Link to={o.url as never}>{o.name}</Link>: {o.charge}</li>)}</ul>
             </>
           ) : null}
-          {c.taught?.length ? (
-            <>
-              <h2>Taught in</h2>
-              <ul>{c.taught.map((t) => <li key={t.url}><Link to={t.url as never}>{t.range} · {t.title}</Link></li>)}</ul>
-            </>
-          ) : null}
           {c.see?.length ? (
             <>
               <h2>See also</h2>
@@ -72,6 +68,8 @@ function CasePage() {
           {c.themes?.length ? <p className="chips" style={{ marginTop: "2rem" }}>{c.themes.map((t) => <Link key={t} to="/topics/$slug" params={{ slug: t }} className="chip">{t.replace(/-/g, " ")}</Link>)}</p> : null}
         </div>
       </RefCards>
+      <TaughtIn refs={refs} />
+      </CiteLanding>
       <p style={{ marginTop: "3rem" }}><ReadLink to="/cases">All cases</ReadLink></p>
     </Page>
   );

@@ -40,7 +40,10 @@ function TopicPage() {
           </ul>
         </section>
       ) : null}
-      <p style={{ marginTop: "2rem" }}><ReadLink to="/topics">All topics</ReadLink></p>
+      <p style={{ marginTop: "2rem", display: "flex", gap: "2rem", flexWrap: "wrap" }}>
+        {classes.length ? <Link to="/classes" search={{ topic: t.slug } as never} className="read-link"><span>Browse classes on {t.label.toLowerCase()}</span><span aria-hidden="true">→</span></Link> : null}
+        <ReadLink to="/topics">All topics</ReadLink>
+      </p>
     </Page>
   );
 }

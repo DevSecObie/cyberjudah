@@ -1,19 +1,20 @@
 import { createFileRoute, Link, notFound, useNavigate } from "@tanstack/react-router";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Dialog } from "radix-ui";
 import { Group, Panel, Separator } from "react-resizable-panels";
 
 import { SiteNav, SiteFooter } from "@/components/site/chrome";
 import { StudyPanel } from "@/components/site/study-panel";
 import { api, type Citation } from "@/lib/api";
-import { mergeCitations, verseCounts, type Ref } from "@/lib/refs";
+import { mergeCitations, verseCounts, verseNumbers, type Ref } from "@/lib/refs";
+import { compressVerses } from "@/lib/cite";
 
-type Search = { study?: string; v?: number };
+type Search = { study?: string; v?: string };
 
 export const Route = createFileRoute("/bible/$book/$chapter")({
   validateSearch: (s: Record<string, unknown>): Search => ({
     study: typeof s.study === "string" && s.study.startsWith("/") ? s.study : undefined,
-    v: Number.isInteger(Number(s.v)) && Number(s.v) > 0 ? Number(s.v) : undefined,
+    v: typeof s.v === "string" && /^\d+(-\d+)?(,\d+(-\d+)?)*$/.test(s.v) ? s.v : typeof s.v === "number" && s.v > 0 ? String(s.v) : undefined,
   }),
   loader: async ({ params }) => {
     const ch = Number(params.chapter);
@@ -73,6 +74,8 @@ function ChapterPage() {
   const [size, cycleSize] = useReaderSize();
   const [sheet, setSheet] = useState(false);
   const [wide, setWide] = useState(true);
+  const selected = useMemo(() => verseNumbers(search.v), [search.v]);
+  const lastPick = useRef<number | null>(null);
 
   useEffect(() => {
     const mq = window.matchMedia("(min-width: 1100px)");
@@ -85,10 +88,23 @@ function ChapterPage() {
   // Panel state lives in the URL, so it survives moving between chapters and can be shared.
   const setStudy = (study: string | undefined) =>
     navigate({ to: "/bible/$book/$chapter", params: { book: book.slug, chapter: String(ch) }, search: { ...search, study }, replace: true, resetScroll: false });
-  const setVerse = (v: number | undefined) =>
-    navigate({ to: "/bible/$book/$chapter", params: { book: book.slug, chapter: String(ch) }, search: { ...search, v, study: undefined }, replace: true, resetScroll: false });
-  const goRef = (ref: Ref) =>
-    navigate({ to: "/bible/$book/$chapter", params: { book: ref.slug, chapter: String(ref.chapter) }, search: { study: search.study, v: ref.verse }, hash: ref.verse ? `v${ref.verse}` : undefined });
+  const setVerses = (list: number[]) =>
+    navigate({ to: "/bible/$book/$chapter", params: { book: book.slug, chapter: String(ch) }, search: { ...search, v: list.length ? compressVerses(list) : undefined, study: undefined }, replace: true, resetScroll: false });
+  // Click selects a verse, click again clears it, shift-click extends the run, like a Bible app.
+  const pick = (v: number, shift: boolean) => {
+    if (shift && lastPick.current !== null && lastPick.current !== v) {
+      const [a, b] = [Math.min(lastPick.current, v), Math.max(lastPick.current, v)];
+      const run = Array.from({ length: b - a + 1 }, (_, i) => a + i);
+      setVerses([...new Set([...selected, ...run])]);
+    } else {
+      setVerses(selected.includes(v) ? selected.filter((x) => x !== v) : [...selected, v]);
+    }
+    lastPick.current = v;
+  };
+  const goRef = (ref: Ref) => {
+    const list = ref.verse ? Array.from({ length: (ref.verseEnd && ref.verseEnd >= ref.verse ? ref.verseEnd : ref.verse) - ref.verse + 1 }, (_, i) => ref.verse! + i) : [];
+    navigate({ to: "/bible/$book/$chapter", params: { book: ref.slug, chapter: String(ref.chapter) }, search: { study: search.study, v: list.length ? compressVerses(list) : undefined }, hash: ref.verse ? `v${ref.verse}` : undefined });
+  };
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -134,10 +150,10 @@ function ChapterPage() {
       <div className="verses">
         {chapter.verses.map((v) => {
           const n = counts.get(v.verse) ?? 0;
-          const active = search.v === v.verse;
+          const active = selected.includes(v.verse);
           return (
-            <p key={v.verse} className="verse" id={`v${v.verse}`} data-cited={n ? "" : undefined} data-active={active ? "" : undefined}>
-              <a className="verse__n" href={`#v${v.verse}`} onClick={(e) => { e.preventDefault(); setVerse(active ? undefined : v.verse); if (!wide && !active && n) setSheet(true); }} title={n ? `${n} ${n === 1 ? "citation" : "citations"} name this verse` : undefined}>
+            <p key={v.verse} className="verse" id={`v${v.verse}`} data-cited={n ? "" : undefined} data-active={active ? "" : undefined} onClick={(e) => { if (window.getSelection()?.toString()) return; pick(v.verse, e.shiftKey); }}>
+              <a className="verse__n" href={`#v${v.verse}`} onClick={(e) => { e.preventDefault(); e.stopPropagation(); pick(v.verse, e.shiftKey); if (!wide && !active && n) setSheet(true); }} title={n ? `${n} ${n === 1 ? "citation" : "citations"} name this verse` : undefined}>
                 {v.verse}
               </a>
               {v.text}
@@ -156,7 +172,7 @@ function ChapterPage() {
   );
 
   const panel = (
-    <StudyPanel books={books} citations={cited} activeVerse={search.v} study={search.study} onStudy={setStudy} onVerse={setVerse} onGo={goRef} compact={!wide} />
+    <StudyPanel books={books} citations={cited} origin={{ slug: book.slug, chapter: ch }} activeVerses={selected} study={search.study} onStudy={setStudy} onVerses={setVerses} onGo={goRef} compact={!wide} />
   );
 
   return (

@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { NoteBody } from "@/components/site/note-body";
+import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
 
@@ -33,7 +34,9 @@ function EncyclopediaEntry() {
           <p className="alpha cj-mono">{heads.map((h) => <a key={h} href={`#${anchor(h)}`}>{h}</a>)}</p>
         </nav>
       ) : null}
-      <NoteBody html={html} />
+      <CiteLanding>
+        <NoteBody html={html} />
+      </CiteLanding>
       <div className="pager">
         {prev ? <Link to="/encyclopedia/$slug" params={{ slug: prev.slug }} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/encyclopedia">All subjects</ReadLink>}
         {next ? <Link to="/encyclopedia/$slug" params={{ slug: next.slug }} className="read-link"><span>{next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/encyclopedia">All subjects</ReadLink>}

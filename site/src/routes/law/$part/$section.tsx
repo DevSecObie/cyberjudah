@@ -2,7 +2,8 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useEffect } from "react";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { RefCards } from "@/components/site/ref-card";
-import { RefQuote } from "@/components/site/ref-quote";
+import { RefQuote, TaughtIn } from "@/components/site/ref-quote";
+import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 
 export const Route = createFileRoute("/law/$part/$section")({
@@ -36,6 +37,7 @@ function SectionPage() {
           <p className="cj-mono" style={{ marginTop: "0.9rem" }}>See also {section.seeAlso.map((s, i) => <span key={s.id}>{i ? ", " : ""}{s.url ? <Link to={s.url as never}>{s.id} {s.title}</Link> : s.id}</span>)}</p>
         ) : null}
       </div>
+      <CiteLanding>
       <RefCards>
         <ol className="laws">
           {section.entries.map((e) => (
@@ -49,6 +51,8 @@ function SectionPage() {
           ))}
         </ol>
       </RefCards>
+      <TaughtIn refs={section.entries.flatMap((e) => e.refs)} />
+      </CiteLanding>
       <div className="pager">
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.id} {prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}
         {next ? <Link to={next.url as never} className="read-link"><span>{next.id} {next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}

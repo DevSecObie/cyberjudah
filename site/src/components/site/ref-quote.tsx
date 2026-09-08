@@ -1,5 +1,7 @@
 import { Link } from "@tanstack/react-router";
 
+import { GoLink, withFrom } from "@/components/site/return-bar";
+import { fromHref } from "@/lib/cite";
 import type { ResolvedRef } from "@/lib/api";
 
 /**
@@ -10,9 +12,8 @@ import type { ResolvedRef } from "@/lib/api";
 export function RefQuote({ r, open = true }: { r: ResolvedRef; open?: boolean }) {
   const head = (
     <span className="refq__head">
-      {r.url ? <Link to={r.url as never} className="refq__ref">{r.label}</Link> : <span className="refq__ref">{r.label}</span>}
+      {r.url ? <Link to={r.url as never} className="refq__ref" data-verses={r.verses || undefined}>{r.label}</Link> : <span className="refq__ref">{r.label}</span>}
       {r.key ? <span className="refq__key">key</span> : null}
-      {r.study ? <span className="refq__taught">taught in <Link to={r.study.url as never}>{r.study.range}</Link></span> : null}
     </span>
   );
   if (!r.text.length) return <div className="refq">{head}</div>;
@@ -34,9 +35,41 @@ export function RefRow({ refs }: { refs: ResolvedRef[] }) {
       {refs.map((r, i) => (
         <span key={i}>
           {i ? <span className="refrow__dot"> · </span> : null}
-          {r.url ? <Link to={r.url as never}>{r.label}</Link> : r.label}
+          {r.url ? <Link to={r.url as never} data-verses={r.verses || undefined}>{r.label}</Link> : r.label}
         </span>
       ))}
     </p>
+  );
+}
+
+/**
+ * The footnote: where these passages were taught in the daily reading. Each link lands on
+ * the line of the study note that cites the passage and carries a Return to this page.
+ */
+export function TaughtIn({ refs }: { refs: ResolvedRef[] }) {
+  const rows = new Map<string, { range: string; url: string; refs: ResolvedRef[] }>();
+  for (const r of refs) {
+    if (!r.study || !r.slug) continue;
+    const row = rows.get(r.study.url) ?? { ...r.study, refs: [] };
+    row.refs.push(r);
+    rows.set(r.study.url, row);
+  }
+  if (!rows.size) return null;
+  return (
+    <aside className="taughtin" aria-label="Taught in">
+      <p className="cj-kicker">Taught in</p>
+      <ol>
+        {[...rows.values()].map((row) => (
+          <li key={row.url}>
+            <span className="taughtin__note">{row.range}</span>
+            <span className="taughtin__refs">
+              {row.refs.map((r, i) => (
+                <span key={i}>{i ? " · " : ""}<GoLink href={withFrom(row.url, fromHref(r.slug!, r.chapter, r.verses ?? ""))}>{r.label}</GoLink></span>
+              ))}
+            </span>
+          </li>
+        ))}
+      </ol>
+    </aside>
   );
 }

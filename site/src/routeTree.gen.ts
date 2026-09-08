@@ -20,7 +20,6 @@ import { Route as BibleIndexRouteImport } from './routes/bible/index'
 import { Route as CaptainsIndexRouteImport } from './routes/captains/index'
 import { Route as CasesIndexRouteImport } from './routes/cases/index'
 import { Route as ClassesIndexRouteImport } from './routes/classes/index'
-import { Route as ClassesByBookRouteImport } from './routes/classes/by-book'
 import { Route as ConcordanceIndexRouteImport } from './routes/concordance/index'
 import { Route as ConcordanceBookRouteImport } from './routes/concordance/$book'
 import { Route as EncyclopediaIndexRouteImport } from './routes/encyclopedia/index'
@@ -94,11 +93,6 @@ const CasesIndexRoute = CasesIndexRouteImport.update({
 const ClassesIndexRoute = ClassesIndexRouteImport.update({
   id: '/classes/',
   path: '/classes/',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const ClassesByBookRoute = ClassesByBookRouteImport.update({
-  id: '/classes/by-book',
-  path: '/classes/by-book',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ConcordanceIndexRoute = ConcordanceIndexRouteImport.update({
@@ -205,7 +199,6 @@ export interface FileRoutesByFullPath {
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
-  '/classes/by-book': typeof ClassesByBookRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
@@ -238,7 +231,6 @@ export interface FileRoutesByTo {
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
-  '/classes/by-book': typeof ClassesByBookRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
@@ -272,7 +264,6 @@ export interface FileRoutesById {
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
-  '/classes/by-book': typeof ClassesByBookRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
@@ -307,7 +298,6 @@ export interface FileRouteTypes {
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
-    | '/classes/by-book'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
@@ -340,7 +330,6 @@ export interface FileRouteTypes {
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
-    | '/classes/by-book'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
@@ -373,7 +362,6 @@ export interface FileRouteTypes {
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
-    | '/classes/by-book'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
@@ -407,7 +395,6 @@ export interface RootRouteChildren {
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
-  ClassesByBookRoute: typeof ClassesByBookRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
   PreceptsSlugRoute: typeof PreceptsSlugRoute
@@ -510,13 +497,6 @@ declare module '@tanstack/react-router' {
       path: '/classes'
       fullPath: '/classes/'
       preLoaderRoute: typeof ClassesIndexRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/classes/by-book': {
-      id: '/classes/by-book'
-      path: '/classes/by-book'
-      fullPath: '/classes/by-book'
-      preLoaderRoute: typeof ClassesByBookRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/concordance/': {
@@ -663,7 +643,6 @@ const rootRouteChildren: RootRouteChildren = {
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
-  ClassesByBookRoute: ClassesByBookRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,
   PreceptsSlugRoute: PreceptsSlugRoute,

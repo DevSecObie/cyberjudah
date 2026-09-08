@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { NoteBody } from "@/components/site/note-body";
+import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
 
@@ -27,7 +28,9 @@ function StudyChapter() {
         <h1 className="cj-h1">{note.title}</h1>
         <ReadLink to={`/bible/${book}/${chapter}`}>Read {note.book} {chapter}</ReadLink>
       </div>
-      <NoteBody html={html} />
+      <CiteLanding>
+        <NoteBody html={html} />
+      </CiteLanding>
       <div style={{ display: "flex", justifyContent: "space-between", gap: "1rem", flexWrap: "wrap", marginTop: "3rem", paddingTop: "1.5rem", borderTop: "1px solid var(--color-hair)" }}>
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <span />}
         {next ? <Link to={next.url as never} className="read-link"><span>{next.title}</span><span aria-hidden="true">→</span></Link> : <Link to="/study" className="read-link"><span>All chapters</span><span aria-hidden="true">→</span></Link>}

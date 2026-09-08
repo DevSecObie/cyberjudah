@@ -3,7 +3,7 @@ import { useCallback, useEffect, useRef, useState, type CSSProperties, type Reac
 import { createPortal } from "react-dom";
 
 import type { Book, Verse } from "@/lib/api";
-import { getChapter, parseRef, refPath, refTitle, type Ref } from "@/lib/refs";
+import { getChapter, parseRef, refPath, refTitle, verseNumbers, type Ref } from "@/lib/refs";
 
 /**
  * Scripture hover cards, the e-Sword habit: rest the pointer on any /bible/... link inside
@@ -11,9 +11,9 @@ import { getChapter, parseRef, refPath, refTitle, type Ref } from "@/lib/refs";
  * One delegated listener per wrapper, so it works on rendered markdown too. Touch devices get
  * the same card on tap, with an explicit Open action.
  */
-type Open = { href: string; ref: Ref; anchor: DOMRect; verses: Verse[] | null; error?: boolean };
+type Open = { href: string; ref: Ref; spec?: string; anchor: DOMRect; verses: Verse[] | null; more?: number; error?: boolean };
 
-const MAX_VERSES = 6;
+const MAX_VERSES = 12;
 
 export function RefCards({ children, books, className, onOpen }: { children: ReactNode; books?: Book[]; className?: string; onOpen?: (ref: Ref) => void }) {
   const wrap = useRef<HTMLDivElement>(null);
@@ -27,13 +27,21 @@ export function RefCards({ children, books, className, onOpen }: { children: Rea
 
   const load = useCallback(async (a: HTMLAnchorElement, ref: Ref) => {
     const rect = a.getBoundingClientRect();
-    setOpen({ href: a.getAttribute("href") ?? "", ref, anchor: rect, verses: null });
+    // A link may name a verse list the anchor cannot (Hebrews 7:19,25): data-verses carries it.
+    const spec = a.dataset.verses || undefined;
+    setOpen({ href: a.getAttribute("href") ?? "", ref, spec, anchor: rect, verses: null });
     try {
       const ch = await getChapter(ref.slug, ref.chapter);
-      const from = ref.verse ?? 1;
-      const to = ref.verseEnd && ref.verseEnd >= from ? ref.verseEnd : ref.verse ? from : Math.min(ch.verses.length, 3);
-      const verses = ch.verses.filter((v) => v.verse >= from && v.verse <= Math.min(to, from + MAX_VERSES - 1));
-      setOpen((o) => (o && o.href === (a.getAttribute("href") ?? "") ? { ...o, verses } : o));
+      let wanted: number[];
+      if (spec) wanted = verseNumbers(spec);
+      else {
+        const from = ref.verse ?? 1;
+        const to = ref.verseEnd && ref.verseEnd >= from ? ref.verseEnd : ref.verse ? from : Math.min(ch.verses.length, 3);
+        wanted = Array.from({ length: to - from + 1 }, (_, i) => from + i);
+      }
+      const all = ch.verses.filter((v) => wanted.includes(v.verse));
+      const verses = all.slice(0, MAX_VERSES);
+      setOpen((o) => (o && o.href === (a.getAttribute("href") ?? "") ? { ...o, verses, more: all.length - verses.length } : o));
     } catch {
       setOpen((o) => (o ? { ...o, verses: [], error: true } : o));
     }
@@ -133,12 +141,12 @@ export function RefCards({ children, books, className, onOpen }: { children: Rea
               className="refcard"
               style={style}
               role="dialog"
-              aria-label={refTitle(open.ref, books)}
+              aria-label={cardTitle(open, books)}
               onMouseEnter={() => window.clearTimeout(timers.current.hide)}
               onMouseLeave={() => { timers.current.hide = window.setTimeout(() => setOpen(null), 180); }}
             >
               <div className="refcard__head">
-                <span className="refcard__title">{refTitle(open.ref, books)}</span>
+                <span className="refcard__title">{cardTitle(open, books)}</span>
                 <button type="button" className="refcard__open" onClick={go}>Open</button>
               </div>
               <div className="refcard__body">
@@ -151,7 +159,7 @@ export function RefCards({ children, books, className, onOpen }: { children: Rea
                     <p key={v.verse}><sup>{v.verse}</sup>{v.text}</p>
                   ))
                 )}
-                {open.verses && open.verses.length >= MAX_VERSES ? <p className="cj-mono refcard__more">Continues in the chapter</p> : null}
+                {open.more ? <p className="cj-mono refcard__more">{open.more} more in the chapter</p> : null}
               </div>
             </div>,
             document.body,
@@ -159,6 +167,11 @@ export function RefCards({ children, books, className, onOpen }: { children: Rea
         : null}
     </div>
   );
+}
+
+function cardTitle(o: Open, books?: Book[]): string {
+  if (!o.spec) return refTitle(o.ref, books);
+  return `${refTitle({ slug: o.ref.slug, chapter: o.ref.chapter }, books)}:${o.spec}`;
 }
 
 /** Fixed-position placement beside the anchor, flipped above when the bottom is short. */

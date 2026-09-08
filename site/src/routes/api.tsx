@@ -20,7 +20,6 @@ const ROWS: [string, string][] = [
   ["/api/notes/<site-path>.json", "one note with its markdown body, e.g. /api/notes/study/genesis/2.json"],
   ["/api/encyclopedia/index.json", "the encyclopedia"],
   ["/api/topics/index.json, /api/topics/<slug>.json", "topics, and what carries each one"],
-  ["/api/by-book.json", "which classes and episodes open which book"],
   ["/api/stats.json", "the counts on the home page and the ten newest notes"],
   ["/api/index.json", "every endpoint above, as a map"],
   ["/search/classes.json, /search/captains.json", "browse feeds: title, url, date, teacher, thumb, books, topics"],

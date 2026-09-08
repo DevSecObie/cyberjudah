@@ -44,6 +44,12 @@ export function citationsForVerse(list: Citation[], verse: number): Citation[] {
   return list.filter((c) => !c.verses || verseNumbers(c.verses).includes(verse));
 }
 
+/** Which merged citations touch any of the selected verses (a whole-chapter citation touches all). */
+export function citationsForVerses(list: Citation[], verses: number[]): Citation[] {
+  if (!verses.length) return list;
+  return list.filter((c) => !c.verses || verseNumbers(c.verses).some((v) => verses.includes(v)));
+}
+
 /** Verse -> number of citations that name it explicitly. */
 export function verseCounts(list: Citation[]): Map<number, number> {
   const m = new Map<number, number>();

@@ -175,7 +175,7 @@ export function loadLibrary(ROOT) {
   for (const c of cases.cases) for (const r of c.refs) cite(r, "case", c.name, caseUrl(c));
   for (const p of handbook.parts) for (const s of p.sections) for (const e of s.entries) {
     const id = `${s.id}.${e.n}`;
-    for (const r of e.refs ?? []) cite(r, "law", `${id} ${e.text.slice(0, 90)}`, `${sectionUrl(s)}#${id}`);
+    for (const r of e.refs ?? []) cite(r, "law", `${id} ${e.text}`, `${sectionUrl(s)}#${id}`);
   }
   const sortedPrecepts = [...precepts].sort((a, b) => a.title.localeCompare(b.title));
   for (const t of sortedPrecepts) for (const r of t.refs) cite(r, "precept", t.title, preceptUrl(t));

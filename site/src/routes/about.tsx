@@ -22,7 +22,7 @@ function About() {
             <tr><td><Link to="/captains">15 Minutes w/ The Captains</Link></td><td>Short weekday teachings, one subject at a time.</td></tr>
             <tr><td><Link to="/encyclopedia">Encyclopedia</Link></td><td>Standing subjects gathered from across the notes.</td></tr>
             <tr><td><Link to="/law">The Law</Link>, <Link to="/precepts">Precepts</Link>, <Link to="/cases">Cases</Link></td><td>The handbook of Bible law, the precept index, and the judgments recorded in scripture with the law each one broke.</td></tr>
-            <tr><td><Link to="/concordance">Concordance</Link></td><td>Chapter by chapter, everything that cites it. <Link to="/classes/by-book">Classes by book</Link> reads the same graph the other way.</td></tr>
+            <tr><td><Link to="/concordance">Concordance</Link></td><td>Chapter by chapter, everything that cites it.</td></tr>
             <tr><td><Link to="/api">API</Link>, <Link to="/downloads">Downloads</Link></td><td>The whole library as JSON and SQLite, and as an Obsidian vault.</td></tr>
           </tbody>
         </table>

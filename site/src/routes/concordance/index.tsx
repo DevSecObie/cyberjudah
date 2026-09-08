@@ -19,7 +19,7 @@ function ConcordanceIndex() {
     <Page>
       <Kicker>Who cites what</Kicker>
       <h1 className="cj-h1">Concordance.</h1>
-      <p className="cj-lede">{nf.format(citations)} citations into {nf.format(stats.citedChapters)} of {nf.format(stats.chapters)} chapters. Every chapter lists the notes, classes, encyclopedia entries, cases, precepts and laws that cite it. <Link to="/classes/by-book">Classes by book</Link> reads the same graph the other way.</p>
+      <p className="cj-lede">{nf.format(citations)} citations into {nf.format(stats.citedChapters)} of {nf.format(stats.chapters)} chapters. Every chapter lists the notes, classes, encyclopedia entries, cases, precepts and laws that cite it.</p>
       {testaments.map((t) => (
         <section key={t} className="book-block">
           <h2>{t}</h2>
