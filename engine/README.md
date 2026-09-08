@@ -54,7 +54,7 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/concordance/<book-slug>.json` | a whole book: `chapterRows: [{chapter, url, cited_by}]`, one row per citing document with its verse spans merged into `verses: []` |
 | `api/encyclopedia/index.json` | `[{slug, title, url, summary}]` |
 | `api/topics/index.json`, `api/topics/<slug>.json` | every topic label (class topics, case themes, `verdict-<v>`) with the notes and cases that carry it |
-| `downloads/vault.zip` | the Obsidian vault, when `static/downloads/vault.zip` exists in the repository |
+| `downloads/vault.zip` | the Obsidian vault, when `data/downloads/vault.zip` exists in the repository |
 | `api/by-book.json` | which classes and episodes open which book, with the chapters |
 | `api/xref/<book-slug>/<chapter>.json` | cross references per verse |
 | `api/web/<book-slug>/<chapter>.json` | the World English Bible text, per verse |

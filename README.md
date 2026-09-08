@@ -1,43 +1,43 @@
-# Website
+# CyberJudah
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+The vault behind [cyberjudah.io](https://cyberjudah.io): the King James Bible with the
+Apocrypha, and everything taught from it, as one linked library.
 
-## Installation
-
-```bash
-npm install
+```
+docs/study/         4 Chapters a Day notes, one file per chapter        (hand-written)
+docs/encyclopedia/  standing subjects                                    (hand-written)
+blog/               Sabbath class notes                                  (hand-written)
+captains/           15 Minutes w/ The Captains                           (hand-written)
+data/               the KJV text, the handbook of law, precepts, cases, cross references
+engine/             turns all of the above into one data set             (node engine/build.mjs)
+site/               the front end, a TanStack Start app on Cloudflare    (reads the data set)
+scripts/notes/      the editorial spec and helpers for writing a note
+brand/              the lion, the icons, the social card
 ```
 
-**Note**: feel free to use the package manager of your choice.
+Nothing is hand-written except the notes and the data. The engine builds the JSON API, the
+full-text index, the SQLite library and the feeds on every push to `main` and publishes them
+to the `data` branch and to `data.cyberjudah.io`; the site reads them from there. The front
+end is replaceable: anything that can read JSON can render this library. The contract is in
+[engine/README.md](engine/README.md).
 
-## Local Development
+## Working on the notes
 
-```bash
-npm run start
+```
+npm ci --prefix engine        # once
+npm run notes:fix             # timestamps, topic tags, scripture index
+npm run notes:lint            # the shape of every note
+npm run check                 # every link resolves to a real chapter, verse, note, law, precept or case
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+The editorial spec is [scripts/notes/README.md](scripts/notes/README.md).
 
-## Build
+## Working on the site
 
-```bash
-npm run build
+```
+cd site && npm ci && npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+`site/README.md` covers the app. Deploys run from GitHub Actions on push:
+`.github/workflows/data.yml` publishes the data set, `.github/workflows/site.yml` deploys the
+Worker. The old GitHub Pages address forwards to cyberjudah.io (`.github/workflows/redirect.yml`).

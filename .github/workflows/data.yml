@@ -34,6 +34,9 @@ jobs:
           cache-dependency-path: engine/package-lock.json
       - run: npm ci --prefix engine --no-audit --no-fund
       - run: npm run notes:lint
+      # The link checker gates the publish: every scripture link and cross reference in the
+      # notes must resolve, the job the Docusaurus build used to do.
+      - run: node engine/check.mjs
       - name: Build the data set
         run: node engine/build.mjs --out dist --site https://cyberjudah.io
       - name: Publish to the data branch

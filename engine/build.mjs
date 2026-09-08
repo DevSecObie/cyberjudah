@@ -135,7 +135,7 @@ writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({
 
 /* ---------------- downloads ---------------- */
 {
-  const vault = path.join(ROOT, "static", "downloads", "vault.zip");
+  const vault = path.join(ROOT, "data", "downloads", "vault.zip");
   if (fs.existsSync(vault)) { fs.mkdirSync(path.join(OUT, "downloads"), { recursive: true }); fs.copyFileSync(vault, path.join(OUT, "downloads", "vault.zip")); }
 }
 

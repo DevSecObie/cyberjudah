@@ -1,0 +1,29 @@
+name: Redirect GitHub Pages to cyberjudah.io
+# The Docusaurus site is retired. GitHub Pages now serves one page that forwards every old
+# URL (devsecobie.github.io/cyberjudah/...) to the same path on cyberjudah.io.
+on:
+  push:
+    branches: [main]
+    paths: [".github/redirect/**", ".github/workflows/redirect.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: touch .github/redirect/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .github/redirect
+      - id: deployment
+        uses: actions/deploy-pages@v4

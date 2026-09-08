@@ -113,9 +113,10 @@ Where there is no recording, drop the second half rather than linking the note t
 6. `npm run notes:fix`, then `npm run notes:lint`. The linter checks the shape of the note --
    frontmatter, sections, the nav line, the tag list, scripture links -- and must report 0
    errors. Warnings are for things only the recording can settle (no video id, no teacher).
-7. `npm run build` from the repo root. The build is the link checker
-   (`onBrokenLinks: "throw"`), so a bad `/bible/...` link fails it.
-8. Commit and push. CI deploys on push to main.
+7. `npm run check` from the repo root (needs `npm ci --prefix engine` once). It is the link
+   checker: every `/bible/...` link must name a real chapter and verse, and every other
+   site link a real note, law, precept or case. Zero broken, or fix and rerun.
+8. Commit and push. CI rebuilds the data set on push to main and cyberjudah.io reads it.
 
 ## The recording
 

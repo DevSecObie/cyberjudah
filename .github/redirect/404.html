@@ -1,0 +1,22 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>cyberjudah.io</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://cyberjudah.io/">
+<style>html{background:#05070f;color:#dfe7ff;font:16px/1.5 ui-monospace,Menlo,monospace}body{margin:0;min-height:100vh;display:grid;place-items:center}a{color:#00e5ff}</style>
+<script>
+(function () {
+  // The site moved to cyberjudah.io. Same paths, with the handful that changed mapped here.
+  var p = location.pathname.replace(/^\/cyberjudah/, "").replace(/\.html$/, "").replace(/\/$/, "") || "/";
+  var q = location.search, h = location.hash, m;
+  if (p === "/classes/browse" || /^\/classes\/page\/\d+$/.test(p)) p = "/classes";
+  else if (p === "/captains/browse" || /^\/captains\/page\/\d+$/.test(p)) p = "/captains";
+  else if (p === "/classes/by-book" || p === "/classes/archive" || p === "/captains/archive") p = p.indexOf("captains") > 0 ? "/captains" : "/classes";
+  else if ((m = p.match(/^\/(classes|captains)\/tags\/([^/]+)$/))) { p = "/" + m[1]; q = "?topic=" + m[2]; }
+  else if (p === "/classes/tags" || p === "/captains/tags" || p === "/tags") p = "/topics";
+  else if ((m = p.match(/^\/tags\/([^/]+)$/))) p = "/topics/" + m[1];
+  else if ((m = p.match(/^\/search$/))) { /* keep q */ }
+  location.replace("https://cyberjudah.io" + p + q + h);
+})();
+</script>
+<p>This library now lives at <a href="https://cyberjudah.io/">cyberjudah.io</a>.</p>
