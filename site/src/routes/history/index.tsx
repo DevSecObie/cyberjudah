@@ -6,7 +6,7 @@ import { api, fmtDate, nf } from "@/lib/api";
 export const Route = createFileRoute("/history/")({
   validateSearch: (s: Record<string, unknown>): { q?: string; year?: string; sort?: "old" | "az" | "ep" } => ({ q: typeof s.q === "string" && s.q.trim() ? s.q.trim().slice(0, 120) : undefined, year: typeof s.year === "string" && s.year ? s.year : undefined, sort: s.sort === "old" || s.sort === "az" || s.sort === "ep" ? (s.sort as "old" | "az" | "ep") : undefined }),
   loader: () => api.history(),
-  head: () => ({ meta: [{ title: "Our Hidden History · CyberJudah" }, { name: "description", content: "Our Hidden History Radio: every episode, verbatim, with the recording beside the words." }] }),
+  head: () => ({ meta: [{ title: "Our Hidden History · CyberJudah" }, { name: "description", content: "Our Hidden History Radio, written up: the readings, the scriptures and the commentary from each episode." }] }),
   component: HistoryIndex,
 });
 
@@ -33,7 +33,7 @@ function HistoryIndex() {
     <Page>
       <Kicker>Our Hidden History Radio</Kicker>
       <h1 className="cj-h1">Our Hidden History.</h1>
-      <p className="cj-lede">{rows.length} episodes, {nf.format(hours)} hours, every word as it was spoken, from the moment the show begins. The recording sits beside the transcript; any line seeks the video to that second.</p>
+      <p className="cj-lede">{rows.length} {rows.length === 1 ? "episode" : "episodes"} written up so far, {nf.format(hours)} hours of radio. Each one carries the books read on air, the scriptures opened, and what was said about them, verse by verse. More are added as the backlog is worked through.</p>
       <div className="browse">
         <div className="browse__row">
           <input value={q} onChange={(e) => { setQ(e.target.value); set({ q: e.target.value || undefined }); }} placeholder="Search titles or an episode number" aria-label="Search" className="browse__q" />
@@ -49,7 +49,6 @@ function HistoryIndex() {
             <div className="rail-card__body">
               <span className="cj-mono">{r.episode ? `EP ${r.episode} · ` : ""}{r.date ? fmtDate(r.date) : ""}{r.duration ? ` · ${hms(r.duration)}` : ""}</span>
               <h3><Link to={r.url as never}>{r.title}</Link></h3>
-              {r.noted ? <span className="cj-mono" style={{ color: "var(--color-amber)" }}>Written up</span> : null}
             </div>
           </div>
         ))}

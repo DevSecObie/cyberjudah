@@ -101,46 +101,74 @@ leaves an existing `teacher` alone unless run with `--reset`.
 
 Our Hidden History Radio (`history/`) is the third feed and follows everything above, with
 these differences. The episodes are book-heavy: Deacon Eythan and the guests read from
-history books at length and turn to scripture as they go.
+history books at length and turn to scripture as they go. The raw transcripts in
+`history/transcripts/` are the backlog the notes are written from; they are NEVER published.
+The site lists an episode only once its note exists.
 
 - **File**: `history/notes/<year>/<date>-<slug>.md`. The slug is NOT invented: it is the
   `slug` field of the episode's transcript in `history/transcripts/<videoId>.json`, e.g.
-  `2026/2026-09-06-ep-206-the-prophet-and-the-fourth-beast-pt-2`, so the page keeps its
-  address once the write-up lands. `lint.py` fails a note whose slug differs. The transcript
-  must exist before the note; ingest it first (see `history/README.md`).
+  `2026/2026-09-06-ep-206-the-prophet-and-the-fourth-beast-pt-2`. `lint.py` fails a note
+  whose slug differs. The transcript must exist before the note; ingest it first (see
+  `history/README.md`).
 - **Frontmatter**: `title` is the transcript's `cleanTitle` unless the recording gives a
   better one; add `episode: 206` when the title carries a number. `tags` start with
   `"Our Hidden History"`. `teacher` is `Deacon Eythan` unless someone else says he is
-  teaching; guests who read or comment are named in the body where they speak, not in
-  `teacher`.
+  teaching. Guests are named in the `description` and the `taught` line
+  (`Our Hidden History · 2026-09-06 · Deacon Eythan, with Captain Yahn`) and where they
+  speak in the body, not in `teacher`.
 - **Start where the speakers start**: the transcript's `start` is the second the talk
   begins after the intro music. Nothing before it belongs in the note.
-- **Book readings are quoted, verbatim, in blockquotes**. Every time a book is read from,
-  introduce it on its own line with the title, author and page where they are stated, then
-  the reading as a `>` blockquote, then his commentary as bullets in his own words:
+- **Scripture is walked verse by verse, with `W()`**, not `S()`. A passage gets one linked
+  heading; then each verse (or the two or three he read in one breath) is quoted once, and
+  what he said about it follows at once as bullets. The bullets are his commentary only.
+  They never re-read the verse: "Verse 3, because of their wickedness they went to burn
+  incense..." is wrong; "Because of their wickedness. So his fury was poured forth..." is
+  the pattern. Never a whole passage in one block and then the commentary re-telling it.
 
+  ```python
+  W("Daniel 8:1-14", "25:52", [
+      ("1-2", ["Shushan in the palace, Babylon, which is in the province of Elam. Keep that in mind."]),
+      ("3",   ["They had two horns, but one was higher... The higher horn is the Persian horn."]),
+      ("4",   ["This powerful ram here is a kingdom. It's a bear in Daniel 7, and the ram in Daniel 8."]),
+      ...
+  ])
   ```
-  Reading from *Nature Knows No Color-Line* by J. A. Rogers, page 169  *[41:12]*
 
-  > The exact words read, as long as the reading ran. Do not shorten it. Do not fix his
-  > phrasing; do fix caption misspellings of names and places when the book itself makes
-  > the spelling plain.
+  `W()` refuses a heading whose verses are not all walked. Every verse comes from
+  `data/bible` through `lib.py`, checked by `check.py`, never typed by hand; every reference
+  checked with `v.py` before writing. Captions spell references badly ("first Maccabees",
+  "Ecclesiastes chapter 44" for Ecclesiasticus); resolve them from what was actually read.
+- **Book readings are quoted, verbatim, with `R()`**: the source line (title, author, page as
+  stated, who read it when it was not the teacher), then each stretch read as a blockquote
+  followed at once by the commentary on it. Same rule as scripture: the words read, then
+  what was said about them, in sequence; not the whole reading and then everything said.
 
-  - What he said about it, phrase by phrase, in his words.
+  ```python
+  R("*History of the Jews* by Heinrich Graetz, on the Greek games in Jerusalem", "42:20", [
+      (["Combatants should be registered as Antiochians or Macedonians, ..."],
+       [Y + "If I could land back on the Greek games...", D + "Combatants is the athletes. ..."]),
+      (["Games were serious occupations to the Greeks, ..."],
+       ["Barbarians means non-Greek speaking. ..."]),
+  ], reader="Captain Yahn")
   ```
 
-  Sources are listed again under `## Announcements & References` at the end: every book,
-  article or site read from, once each, with page ranges.
-- **Scripture** is handled exactly as in the classes: `S()` blocks with the verses pulled
-  from `data/bible`, checked by `check.py`, never typed by hand, every reference checked
-  with `v.py` before writing. Captions spell references badly ("first Maccabees", "Ecclesiastes
-  chapter 44" for Ecclesiasticus); resolve them from what was actually read aloud.
+  Clips and videos played on air use `R()` the same way: the words heard, then the
+  commentary. Do not shorten a reading. Fix caption misspellings of names and places when
+  the book itself makes the spelling plain; do not fix his phrasing.
+- **Speakers are marked**. Unlabelled bullets are the teacher's. A line another speaker
+  says starts `**Captain Yahn:** ` (in the builder, `Y = "**Captain Yahn:** "`), and when
+  the teacher answers him the next line starts `**Deacon Eythan:** `. A viewer's text or
+  call-in is `**Text:** ` followed by the teacher's answer. The site turns these into
+  speaker tags. Use the name as it is said on air: it is Captain Yahn.
 - **Sections**: `## Introduction`, `## Readings and Scriptures` in the order of the episode
-  (readings and scriptures interleave as they did on air), `## In Closing`, `## Announcements
-  & References`. The linter requires the first two for this feed.
+  (readings and scriptures interleave as they did on air; the break, if it is on the
+  recording, is one timestamped paragraph), `## In Closing`, `## Announcements & References`
+  with every source read from, once each, with pages and who read it. The linter requires
+  the first two for this feed.
 - **Nav line**: `[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=<video-id>)`.
 - Word counts: a 2.5 hour episode with readings runs 15,000 to 25,000 words. It is long
   because the readings are long. That is the point.
+- The finished example to match: `history/notes/2026/2026-09-06-ep-206-the-prophet-and-the-fourth-beast-pt-2.md`.
 
 File path is `blog/2026/YYYY-MM-DD-<slug-without-date>.md` where the slug itself
 already starts with the date, so the date appears twice in the filename. Captains

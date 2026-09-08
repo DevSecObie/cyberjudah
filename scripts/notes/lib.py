@@ -51,3 +51,38 @@ def P(items):
         out.append(f"    {note}")
     out.append("")
     return "\n".join(out)
+
+def W(ref, ts=None, walk=()):
+    """A scripture walked verse by verse, the way it is taught on air: one linked heading for
+    the whole passage, then each verse (or the small group he read together) quoted, followed
+    at once by what he said about it. walk = [("1", [notes]), ("3-4", [notes]), ...]. The
+    commentary is his words about the verse; it never re-reads the verse.
+    A note that starts "**Name:** " is that speaker's line; unlabelled lines are the teacher's."""
+    book, ch, vs, spec = parse(ref)
+    head = f"**[{book} {ch}:{spec}](/bible/{SLUG[book]}/{ch}#v{vs[0]})**"
+    if ts: head += f"  *[{ts}]*"
+    parts = [head, ""]
+    covered = []
+    for vspec, notes in walk:
+        _, _, gv, _ = parse(f"{book} {ch}:{vspec}")
+        covered += gv
+        parts += [quote(book, ch, gv), ""]
+        for n in notes: parts += [f"- {n}", ""]
+    missing = [v for v in vs if v not in covered]
+    if missing: raise SystemExit(f"{ref}: verses {missing} in the heading but not walked")
+    return "\n".join(parts)
+
+def R(source, ts=None, walk=(), reader=None):
+    """A reading from a book, article or clip: the source line, then each stretch read as a
+    blockquote followed at once by the commentary on it. source is the citation as stated on
+    air ("*History of the Jews*, Heinrich Graetz, on the Greek games"); reader names who is
+    reading when it is not the teacher. walk = [([paragraphs], [notes]), ...]."""
+    head = f"Reading from {source}"
+    if reader: head += f" · read by {reader}"
+    if ts: head += f"  *[{ts}]*"
+    parts = ['<div class="reading">', "", head, ""]
+    for paras, notes in walk:
+        parts += ["\n>\n".join(f"> {p}" for p in paras), ""]
+        for n in notes: parts += [f"- {n}", ""]
+    parts += ["</div>", ""]
+    return "\n".join(parts)

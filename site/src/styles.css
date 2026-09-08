@@ -1764,6 +1764,39 @@ html[data-reader-size="large"] .verses {
   color: var(--color-cyan);
   text-decoration: none;
 }
+.note .who {
+  font: 600 0.72rem/1 var(--font-mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-amber);
+  margin-right: 0.5em;
+  white-space: nowrap;
+}
+.note li:has(> .who) {
+  list-style: none;
+  margin-left: -1.4rem;
+  padding: 0.35rem 0 0.35rem 0.8rem;
+  border-left: 2px solid color-mix(in srgb, var(--color-amber) 45%, transparent);
+}
+/* A reading from a book, article or clip: the source line, then the words read, then the
+   commentary. The quotes are set apart from scripture by the amber rule. */
+.note .reading {
+  margin: 1.4rem 0 1.8rem;
+}
+.note .reading > p:first-child {
+  font: 500 0.82rem/1.5 var(--font-mono);
+  color: var(--color-ink-2);
+  margin: 0 0 0.5rem;
+}
+.note .reading > p:first-child em:not(:last-child) {
+  font-style: italic;
+  color: var(--color-amber);
+}
+.note .reading blockquote {
+  border-left-color: var(--color-amber);
+  background: color-mix(in srgb, var(--color-amber) 7%, transparent);
+  font-style: italic;
+}
 .note .note-video {
   aspect-ratio: 16 / 9;
   width: 100%;
@@ -2106,12 +2139,3 @@ a.chip { text-decoration: none; }
 @media (max-width: 1099px) { .note-layout__rail { display: none; } }
 
 /* ---------- Our Hidden History ---------- */
-.episode__player { position: relative; aspect-ratio: 16 / 9; max-width: 56rem; margin: 0 0 2rem; border: 1px solid var(--color-hair); border-radius: var(--radius); overflow: hidden; background: #000; }
-.episode__player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
-.transcript { margin-top: 1.5rem; }
-.transcript__note { color: var(--color-muted); font-size: 0.72rem; margin: 0.2rem 0 1.4rem; max-width: 60ch; }
-.transcript__turns { max-width: 46rem; }
-.transcript__turn { font-family: var(--font-serif); font-size: 1.05rem; line-height: 1.65; margin: 0 0 0.9rem; padding-left: 4.4rem; position: relative; }
-.transcript__t { position: absolute; left: 0; top: 0.35rem; background: none; border: 0; padding: 0; color: var(--color-cyan); font-size: 0.66rem; letter-spacing: 0.06em; cursor: pointer; opacity: 0.75; }
-.transcript__t:hover { opacity: 1; text-decoration: underline; }
-@media (max-width: 640px) { .transcript__turn { padding-left: 0; } .transcript__t { position: static; display: block; margin-bottom: 0.15rem; } }

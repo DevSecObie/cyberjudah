@@ -167,9 +167,7 @@ export type TopicItem = { kind: "class" | "captains" | "case"; title: string; ur
 export type Topic = { slug: string; label: string; url: string; items: TopicItem[] };
 export type ByBookRow = { book: string; slug: string; testament: string; notes: { url: string; label: string; kind: "class" | "captains"; chapters: number[] }[] };
 
-export type HistoryRow = { slug: string; title: string; url: string; episode: number | null; date: string | null; year: string; duration: number | null; views: number | null; videoId: string; thumb: string; words: number; teacher: string; topics: string[]; noted: boolean; summary: string };
-export type HistoryTurn = { t: number; text: string };
-export type HistoryEpisode = HistoryRow & { rawTitle: string; start: number; body: string | null; turns: HistoryTurn[] };
+export type HistoryRow = { slug: string; title: string; url: string; episode: number | null; date: string | null; year: string; duration: number | null; videoId: string; thumb: string; teacher: string; topics: string[]; summary: string };
 
 export const api = {
   books: () => getJson<Book[]>("/api/kjv/books.json"),
@@ -192,7 +190,6 @@ export const api = {
   topics: () => getJson<TopicRow[]>("/api/topics/index.json"),
   topic: (slug: string) => getJson<Topic>(`/api/topics/${slug}.json`),
   history: () => getJson<HistoryRow[]>("/api/history/index.json"),
-  episode: (slug: string) => getJson<HistoryEpisode>(`/api/history/${slug}.json`),
   topicLabels: () => getJson<{ slug: string; label: string }[]>("/search/topics.json"),
 };
 

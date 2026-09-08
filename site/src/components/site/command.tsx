@@ -14,7 +14,7 @@ const SECTIONS = [
   { label: "4 Chapters a Day", to: "/study", hint: "the daily reading" },
   { label: "Sabbath Classes", to: "/classes", hint: "class notes" },
   { label: "15 Min w/Captains", to: "/captains", hint: "episodes" },
-  { label: "Our Hidden History", to: "/history", hint: "radio episodes, verbatim" },
+  { label: "Our Hidden History", to: "/history", hint: "radio episodes, written up" },
   { label: "Case Studies", to: "/cases", hint: "judgments and blessings" },
   { label: "The Law", to: "/law", hint: "the handbook" },
   { label: "Precepts", to: "/precepts", hint: "subject index" },

@@ -166,9 +166,9 @@ function Library({ stats }: { stats: Stats | null }) {
         </Link>
         <Link to="/history" className="bento__cell" style={{ gridColumn: "span 6" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-0.png" alt="" width={28} height={28} loading="lazy" />
-          <span className="bento__count">{s?.history ? `${nf.format(s.history)} episodes · ${nf.format(s.historyHours ?? 0)} hours` : "Radio, verbatim"}</span>
+          <span className="bento__count">{s?.history ? `${nf.format(s.history)} ${s.history === 1 ? "episode" : "episodes"} written up · ${nf.format(s.historyHours ?? 0)} hours` : "Radio, written up"}</span>
           <span className="bento__title">Our Hidden History</span>
-          <p className="bento__blurb">Every episode of Our Hidden History Radio, word for word, with the recording beside the transcript.</p>
+          <p className="bento__blurb">Our Hidden History Radio with Deacon Eythan: the books read on air, the scriptures opened, and the commentary, verse by verse.</p>
         </Link>
         <Link to="/law" className="bento__cell" style={{ gridColumn: "span 3" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-2.png" alt="" width={28} height={28} loading="lazy" />

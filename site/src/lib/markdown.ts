@@ -16,7 +16,10 @@ export function renderNote(markdown: string): string {
     // The class video mount becomes a privacy-enhanced YouTube embed.
     .replace(/<div class="class-video-mount" data-video-id="([\w-]{11})"><\/div>/g, (_m, id) =>
       `<div class="note-video"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="Class recording" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`);
-  return marked.parse(src) as string;
+  const html = marked.parse(src) as string;
+  // A line that opens "**Name:** ..." is that speaker's line (the Our Hidden History notes
+  // mark the guests this way); it becomes a speaker tag the stylesheet can pick out.
+  return html.replace(/<(li|p)>\s*<strong>([A-Z][^<:]{1,40}):<\/strong>\s*/g, '<$1><span class="who">$2</span>');
 }
 
 /** A short plain-text lede for descriptions and cards: the first paragraph without markup. */
