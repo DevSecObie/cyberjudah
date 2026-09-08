@@ -4,7 +4,7 @@ slug: "2026/2026-07-04-know-your-enemy-god-s-foes-ours"
 date: "2026-07-04"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-04"
-tags: ["IUIC in the ClassRoom", "media", "nations", "repentance"]
+tags: ["IUIC in the ClassRoom", "media", "nations", "prayer", "repentance"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>
