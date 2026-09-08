@@ -2172,3 +2172,25 @@ a.chip { text-decoration: none; }
 @media (max-width: 1099px) { .note-layout__rail { display: none; } }
 
 /* ---------- Our Hidden History ---------- */
+
+/* Dictionary: quiet reading surface and a compact, wrapping term index. */
+.dictionary-heading { display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; }
+.dictionary-heading .cj-h1 { margin-bottom: 0; overflow-wrap: anywhere; }
+.dictionary-lookup { flex: 0 1 24rem; min-width: 0; }
+.dictionary-lookup label { display: block; font-size: .875rem; margin-bottom: .5rem; }
+.dictionary-lookup > div { display: flex; gap: .5rem; }
+.dictionary-lookup input { width: 100%; min-width: 0; padding: .75rem; background: #0b1220; color: #f2f6fb; border: 1px solid #34465f; font: inherit; }
+.dictionary-hint { color: #a5b6cb; font-size: .875rem; margin: 1.5rem 0; }
+.dictionary-reading { max-width: 78ch; padding: clamp(1rem, 3vw, 2.5rem); border: 1px solid #26374e; border-top: 2px solid #00e5ff; background: #0b1220; line-height: 1.85; font-size: 1.125rem; overflow-wrap: anywhere; }
+.dictionary-reading p:first-child { margin-top: 0; }
+.dictionary-reading p:last-child { margin-bottom: 0; }
+.dictionary-reading p + p { margin-top: 1.5em; }
+.dictionary-reading a { color: #63e8f7; text-decoration: underline; text-underline-offset: .2em; text-decoration-color: #387e8a; }
+.dictionary-reading a:hover, .dictionary-reading a:focus-visible { text-decoration-color: currentColor; }
+.dictionary-search input { flex: 1 1 15rem; min-width: 0; }
+.dictionary-alphabet a { min-width: 2.75rem; min-height: 2.75rem; display: inline-flex; justify-content: center; align-items: center; }
+.dictionary-alphabet a[aria-current="page"] { background: #00e5ff; color: #05070f; border-color: #00e5ff; }
+.dictionary-terms { list-style: none; margin: 1.5rem 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 0 1.5rem; }
+.dictionary-terms a { display: flex; justify-content: space-between; align-items: center; gap: .75rem; min-height: 3.25rem; padding: .75rem .25rem; border-bottom: 1px solid #26374e; overflow-wrap: anywhere; }
+.dictionary-terms a span { color: #63e8f7; flex-shrink: 0; }
+.dictionary-terms a:hover { background: #0b1220; }

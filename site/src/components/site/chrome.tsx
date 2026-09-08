@@ -9,6 +9,7 @@ const NAV = [
   { to: "/cases", label: "Case Studies" },
   { to: "/law", label: "The Law" },
   { to: "/bible", label: "Bible" },
+  { to: "/dictionary", label: "Dictionary" },
   { to: "/study", label: "4 Chapters a Day" },
   { to: "/captains", label: "15 Min w/Captains" },
   { to: "/history", label: "Our Hidden History" },
@@ -27,7 +28,7 @@ export function SiteNav() {
       </button>
       <nav id="cj-nav-links" className="cj-nav__links" data-open={open ? "true" : undefined} aria-label="Sections">
         {NAV.map((n) => (
-          <Link key={n.to} to={n.to} className="cj-nav__link" activeProps={{ "data-status": "active" } as never} onClick={() => setOpen(false)}>
+          <Link key={n.to} to={n.to} search={n.to === "/dictionary" ? { q: "", letter: "", page: 1 } : undefined} className="cj-nav__link" activeProps={{ "data-status": "active" } as never} onClick={() => setOpen(false)}>
             {n.label}
           </Link>
         ))}

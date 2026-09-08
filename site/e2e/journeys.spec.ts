@@ -44,7 +44,7 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
     await expect(toggle).toBeVisible();
     await toggle.click();
   } else await expect(toggle).toBeHidden();
-  for (const label of ["Precepts", "Case Studies", "The Law", "Sabbath Classes"]) {
+  for (const label of ["Precepts", "Case Studies", "The Law", "Sabbath Classes", "Dictionary"]) {
     const link = header.getByRole("link", { name: new RegExp(`${label}$`) });
     await expect(link).toBeVisible();
     const bounds = await link.boundingBox();
