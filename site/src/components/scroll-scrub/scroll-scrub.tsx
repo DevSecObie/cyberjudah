@@ -14,6 +14,11 @@ export interface ScrollScrubScene {
   mobilePoster?: string;
   clip: string;
   mobileClip?: string;
+  /**
+   * Phones scrub a still sequence on a canvas instead of seeking a video, which iOS does
+   * unreliably mid-scroll. `${base}${n}.${ext}` for n in 1..count, zero-padded to 3 digits.
+   */
+  mobileFrames?: { base: string; count: number; ext?: string };
   title: string;
   body: string;
   kicker?: string;
@@ -63,6 +68,7 @@ interface Segment {
   mobilePoster?: string;
   clip: string;
   mobileClip?: string;
+  mobileFrames?: { base: string; count: number; ext?: string };
   weight: number;
   linger: number;
   objectPosition: string;
@@ -85,6 +91,10 @@ interface RuntimeSegment extends Segment {
   video?: HTMLVideoElement;
   objectUrl?: string;
   abort?: AbortController;
+  canvas?: HTMLCanvasElement;
+  frames?: (HTMLImageElement | null)[];
+  framesLoaded?: number;
+  painted?: number;
 }
 
 interface Controller {
@@ -124,6 +134,7 @@ function buildSegments(
       kind: "scene",
       linger: scene.linger ?? 0,
       mobileClip: scene.mobileClip,
+      mobileFrames: scene.mobileFrames,
       mobilePoster: scene.mobilePoster,
       mobileObjectPosition:
         scene.mobileObjectPosition ?? scene.objectPosition ?? "50% 50%",
@@ -216,8 +227,12 @@ export function ScrollScrub({
     ).matches;
     const smallViewport = window.matchMedia("(max-width: 860px)");
     const isMobile = () => coarsePointer || smallViewport.matches;
-    const sourceFor = (segment: RuntimeSegment) =>
-      isMobile() && segment.mobileClip ? segment.mobileClip : segment.clip;
+    const framesFor = (segment: RuntimeSegment) => (isMobile() && segment.mobileFrames ? segment.mobileFrames : null);
+    const sourceFor = (segment: RuntimeSegment) => {
+      const f = framesFor(segment);
+      if (f) return `frames:${f.base}`;
+      return isMobile() && segment.mobileClip ? segment.mobileClip : segment.clip;
+    };
     const runtime: RuntimeSegment[] = segments.map((segment, index) => ({
       ...segment,
       band: bandNodes[index],
@@ -245,6 +260,11 @@ export function ScrollScrub({
     const unloadClip = (segment: RuntimeSegment) => {
       segment.abort?.abort();
       segment.video?.remove();
+      segment.canvas?.remove();
+      delete segment.canvas;
+      delete segment.frames;
+      delete segment.framesLoaded;
+      delete segment.painted;
       if (segment.objectUrl) {
         URL.revokeObjectURL(segment.objectUrl);
       }
@@ -273,6 +293,7 @@ export function ScrollScrub({
         ) {
           unloadClip(segment);
         }
+        delete segment.painted;
         const rect = segment.band.getBoundingClientRect();
         segment.start = rect.top + pageY - rootTop;
         segment.end = segment.start + rect.height;
@@ -310,6 +331,37 @@ export function ScrollScrub({
       segment.loadedSource = source;
       segment.abort = new AbortController();
       const request = segment.abort;
+
+      const frames = framesFor(segment);
+      if (frames) {
+        // Still sequence: the first frame paints as soon as it lands, the rest stream in
+        // small batches; scrubbing snaps to the nearest frame already decoded.
+        const ext = frames.ext ?? "webp";
+        const urls = Array.from({ length: frames.count }, (_, i) => `${frames.base}${String(i + 1).padStart(3, "0")}.${ext}`);
+        const canvas = document.createElement("canvas");
+        canvas.className = "scroll-scrub__video";
+        segment.canvas = canvas;
+        segment.frames = urls.map(() => null);
+        segment.framesLoaded = 0;
+        segment.layer.append(canvas);
+        const loadOne = (i: number) => new Promise<void>((resolve) => {
+          const img = new Image();
+          img.decoding = "async";
+          img.onload = () => { if (segment.frames && segment.loadedSource === source) { segment.frames[i] = img; segment.framesLoaded = (segment.framesLoaded ?? 0) + 1; segment.ready = true; segment.loading = false; dirty = true; } resolve(); };
+          img.onerror = () => resolve();
+          img.src = urls[i];
+        });
+        await loadOne(0);
+        // Then a coarse pass (every 4th) so scrubbing has coverage early, then the rest.
+        const order = [...urls.keys()].filter((i) => i % 4 === 0), rest = [...urls.keys()].filter((i) => i % 4 !== 0);
+        for (const list of [order, rest]) {
+          for (let i = 0; i < list.length; i += 6) {
+            if (destroyed || request.signal.aborted || segment.loadedSource !== source) return;
+            await Promise.all(list.slice(i, i + 6).map(loadOne));
+          }
+        }
+        return;
+      }
 
       try {
         const response = await fetch(source, {
@@ -466,8 +518,42 @@ export function ScrollScrub({
       root.style.setProperty("--ss-progress", String(clamp(y / total)));
     };
 
+    const paintFrame = (segment: RuntimeSegment) => {
+      const { canvas, frames } = segment;
+      if (!canvas || !frames || !segment.ready) return;
+      const n = frames.length;
+      const want = Math.round(clamp(segment.current, 0, 0.999) * (n - 1));
+      // Nearest decoded frame to the one wanted.
+      let idx = -1;
+      for (let d = 0; d < n && idx < 0; d++) {
+        if (want - d >= 0 && frames[want - d]) idx = want - d;
+        else if (want + d < n && frames[want + d]) idx = want + d;
+      }
+      if (idx < 0 || idx === segment.painted) return;
+      const img = frames[idx]!;
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      const w = Math.round(segment.layer.clientWidth * dpr), h = Math.round(segment.layer.clientHeight * dpr);
+      if (canvas.width !== w || canvas.height !== h) { canvas.width = w; canvas.height = h; }
+      const ctx = canvas.getContext("2d");
+      if (!ctx) return;
+      // object-fit: cover at the segment's object-position.
+      const [px, py] = segment.mobileObjectPosition.split(" ").map((v) => parseFloat(v) / 100);
+      const scale = Math.max(w / img.naturalWidth, h / img.naturalHeight);
+      const dw = img.naturalWidth * scale, dh = img.naturalHeight * scale;
+      ctx.drawImage(img, (w - dw) * (isNaN(px) ? 0.5 : px), (h - dh) * (isNaN(py) ? 0.5 : py), dw, dh);
+      segment.painted = idx;
+      segment.layer.dataset.videoPainted = "true";
+    };
+
     const updateVideos = () => {
       for (const segment of runtime) {
+        if (segment.canvas) {
+          if (segment.visible || Math.abs(segment.current - segment.target) >= 0.002) {
+            segment.current += (segment.target - segment.current) * 0.25;
+            paintFrame(segment);
+          }
+          continue;
+        }
         const { video } = segment;
         if (!video || !segment.ready || video.seeking) {
           continue;

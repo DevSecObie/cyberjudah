@@ -1,7 +1,7 @@
 /**
  * Scene data for the scroll-scrub journey. Single-shot film: one continuous 15 second
  * push-in through a dark data hall to the cyber lion, cut into four segments at exact frames, so the four chapters scrub back to back
- * with no seams. Every poster is the exact first frame of the encoded clip beside it.
+ * with no seams. Every poster is the exact first frame of the encoded clip beside it. Desktop scrubs the 4K clips; phones scrub a portrait still sequence on a canvas.
  *
  * Kept as a module constant: changing its identity rebuilds the media controller.
  */
@@ -27,8 +27,8 @@ export const scrollScrubScenes: ScrollScrubScene[] = [
     actions: createElement(LampButton, { to: "/bible", children: "Open the Bible" }),
     clip: "/assets/world/scene-01.mp4",
     poster: "/assets/world/scene-01-poster.jpg",
-    mobileClip: "/assets/world/scene-01-mobile.mp4",
-    mobilePoster: "/assets/world/scene-01-mobile-poster.jpg",
+    mobileFrames: { base: "/assets/world/frames/scene-01/", count: 32 },
+    mobilePoster: "/assets/world/scene-01-mobile-poster.webp",
     align: "left",
     scroll: 1.6,
   },
@@ -42,8 +42,8 @@ export const scrollScrubScenes: ScrollScrubScene[] = [
     actions: createElement(ReadLink, { to: "/bible/genesis/1", children: "Start at Genesis 1" }),
     clip: "/assets/world/scene-02.mp4",
     poster: "/assets/world/scene-02-poster.jpg",
-    mobileClip: "/assets/world/scene-02-mobile.mp4",
-    mobilePoster: "/assets/world/scene-02-mobile-poster.jpg",
+    mobileFrames: { base: "/assets/world/frames/scene-02/", count: 32 },
+    mobilePoster: "/assets/world/scene-02-mobile-poster.webp",
     align: "right",
     scroll: 1.4,
   },
@@ -57,8 +57,8 @@ export const scrollScrubScenes: ScrollScrubScene[] = [
     actions: createElement(ReadLink, { to: "/classes", children: "Browse the classes" }),
     clip: "/assets/world/scene-03.mp4",
     poster: "/assets/world/scene-03-poster.jpg",
-    mobileClip: "/assets/world/scene-03-mobile.mp4",
-    mobilePoster: "/assets/world/scene-03-mobile-poster.jpg",
+    mobileFrames: { base: "/assets/world/frames/scene-03/", count: 32 },
+    mobilePoster: "/assets/world/scene-03-mobile-poster.webp",
     align: "left",
     scroll: 1.4,
   },
@@ -71,8 +71,8 @@ export const scrollScrubScenes: ScrollScrubScene[] = [
     actions: createElement(ReadLink, { to: "/cases", children: "Read the cases" }),
     clip: "/assets/world/scene-04.mp4",
     poster: "/assets/world/scene-04-poster.jpg",
-    mobileClip: "/assets/world/scene-04-mobile.mp4",
-    mobilePoster: "/assets/world/scene-04-mobile-poster.jpg",
+    mobileFrames: { base: "/assets/world/frames/scene-04/", count: 32 },
+    mobilePoster: "/assets/world/scene-04-mobile-poster.webp",
     align: "right",
     scroll: 1.5,
     linger: 0.25,

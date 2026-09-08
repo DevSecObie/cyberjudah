@@ -47,19 +47,23 @@ async function runSearch(q: string, only: string | undefined, limit: number): Pr
   const select = `SELECT kind, title, url, sub, snippet(search_docs, 4, '', '', '…', 18) AS snippet FROM search_docs WHERE search_docs MATCH ?1 AND kind = ?2 ORDER BY ${rank} LIMIT ?3`;
   const countSql = "SELECT kind, count(*) AS n FROM search_docs WHERE search_docs MATCH ?1 GROUP BY kind";
   try {
-    const countRows = await db.prepare(countSql).bind(strict).all<{ kind: string; n: number }>();
-    const counts: Record<string, number> = {};
-    for (const r of countRows.results) if (kinds.includes(r.kind)) counts[r.kind] = r.n;
-    const stmts = kinds.filter((k) => counts[k]).map((k) => db!.prepare(select).bind(strict, k, limit));
-    let hits = dedupe(stmts.length ? (await db.batch<Row>(stmts)).flatMap((r) => r.results) : []);
+    // One round trip: the per-kind counts and the top rows of every kind, together.
+    const pass = async (expr: string) => {
+      const res = await db!.batch<Row & { n?: number }>([db!.prepare(countSql).bind(expr), ...kinds.map((k) => db!.prepare(select).bind(expr, k, limit))]);
+      const counts: Record<string, number> = {};
+      for (const r of res[0].results as unknown as { kind: string; n: number }[]) if (kinds.includes(r.kind)) counts[r.kind] = r.n;
+      return { counts, hits: dedupe(res.slice(1).flatMap((r) => r.results)) };
+    };
+    const strictPass = await pass(strict);
+    const counts = strictPass.counts;
+    let hits = strictPass.hits;
     let mode: "strict" | "loose" | "mixed" = "strict";
     const total = Object.values(counts).reduce((a, b) => a + b, 0);
     if (loose && total < 8) {
-      const looseCounts = await db.prepare(countSql).bind(loose).all<{ kind: string; n: number }>();
-      const lstmts = kinds.filter((k) => looseCounts.results.some((r) => r.kind === k)).map((k) => db!.prepare(select).bind(loose, k, limit));
+      const loosePass = await pass(loose);
       const seen = new Set(hits.map((h) => `${h.kind}|${h.url}`));
-      const extra = dedupe(lstmts.length ? (await db.batch<Row>(lstmts)).flatMap((r) => r.results) : []).filter((h) => !seen.has(`${h.kind}|${h.url}`)).map((h) => ({ ...h, loose: true }));
-      for (const r of looseCounts.results) if (kinds.includes(r.kind)) counts[r.kind] = Math.max(counts[r.kind] ?? 0, r.n);
+      const extra = loosePass.hits.filter((h) => !seen.has(`${h.kind}|${h.url}`)).map((h) => ({ ...h, loose: true }));
+      for (const [k, n] of Object.entries(loosePass.counts)) counts[k] = Math.max(counts[k] ?? 0, n);
       hits = [...hits, ...extra];
       mode = total ? "mixed" : "loose";
     }
