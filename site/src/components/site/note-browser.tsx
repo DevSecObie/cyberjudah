@@ -5,7 +5,8 @@ import { fmtDate, thumbUrl, type FeedRow } from "@/lib/api";
 
 /**
  * The class and episode browser. Topic chips first (that is how people look for a class),
- * then a title search, the book opened, the teacher and the year. Every choice lives in the
+ * then a title search, a topic dropdown, the teacher and the year. (Book filtering is
+ * kept in the URL contract but not shown for now.) Every choice lives in the
  * URL, so a filtered view can be shared and Back undoes a chip.
  */
 export type BrowseSearch = { q?: string; topic?: string; book?: string; teacher?: string; year?: string; sort?: "new" | "old" | "az" };
@@ -56,7 +57,12 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
     return [...m.entries()].sort((a, b) => b[1] - a[1] || (label.get(a[0]) ?? a[0]).localeCompare(label.get(b[0]) ?? b[0]));
   }, [hits, label]);
   const shownTopics = moreTopics ? topicCounts : topicCounts.filter(([t], i) => i < TOP || picked.includes(t));
-  const books = useMemo(() => [...new Set(rows.flatMap((r) => r.allBooks ?? r.books))].sort(), [rows]);
+  // Every topic across the whole feed, for the dropdown (the chips count within the result).
+  const allTopics = useMemo(() => {
+    const m = new Map<string, number>();
+    for (const r of rows) for (const t of r.topics ?? []) m.set(t, (m.get(t) ?? 0) + 1);
+    return [...m.entries()].sort((a, b) => (label.get(a[0]) ?? a[0]).localeCompare(label.get(b[0]) ?? b[0]));
+  }, [rows, label]);
   const teachers = useMemo(() => [...new Set(rows.map((r) => r.teacher || "Not recorded"))].sort(), [rows]);
   const years = useMemo(() => [...new Set(rows.map((r) => r.year).filter(Boolean))].sort().reverse(), [rows]);
   const active = [search.q, search.book, search.teacher, search.year, ...picked].filter(Boolean).length;
@@ -68,7 +74,7 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
       <div className="browse">
         <div className="browse__row">
           <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search titles, teachers and topics" aria-label="Search" className="browse__q" />
-          <select value={search.book ?? ""} onChange={(e) => set({ book: e.target.value || undefined })} aria-label="Book opened"><option value="">Any book</option>{books.map((b) => <option key={b} value={b}>{b}</option>)}</select>
+          <select value={picked.length === 1 ? picked[0] : ""} onChange={(e) => set({ topic: e.target.value || undefined })} aria-label="Topic"><option value="">{picked.length > 1 ? `${picked.length} topics` : "Any topic"}</option>{allTopics.map(([t, n]) => <option key={t} value={t}>{label.get(t) ?? t} ({n})</option>)}</select>
           <select value={search.teacher ?? ""} onChange={(e) => set({ teacher: e.target.value || undefined })} aria-label="Teacher"><option value="">Any teacher</option>{teachers.map((t) => <option key={t} value={t}>{t}</option>)}</select>
           {years.length > 1 ? <select value={search.year ?? ""} onChange={(e) => set({ year: e.target.value || undefined })} aria-label="Year"><option value="">Any year</option>{years.map((y) => <option key={y} value={y}>{y}</option>)}</select> : null}
           <select value={search.sort ?? "new"} onChange={(e) => set({ sort: e.target.value === "new" ? undefined : (e.target.value as "old" | "az") })} aria-label="Sort"><option value="new">Newest</option><option value="old">Oldest</option><option value="az">A to Z</option></select>
@@ -98,7 +104,6 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
             <div className="rail-card__body">
               <span className="cj-mono">{fmtDate(c.date)}{c.estimated ? " ≈" : ""}{c.teacher ? ` · ${c.teacher}` : ""}</span>
               <h3><Link to={c.url as never}>{c.title}</Link></h3>
-              {c.books.length ? <span className="cj-mono">{c.books.slice(0, 3).join(" · ")}</span> : null}
               {c.topics?.length ? (
                 <p className="rail-card__tags">
                   {c.topics.slice(0, 4).map((t) => <button key={t} type="button" className={picked.includes(t) ? "tag tag--active" : "tag"} onClick={() => toggleTopic(t)}>{label.get(t) ?? t}</button>)}
