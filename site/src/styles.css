@@ -2095,3 +2095,12 @@ a.chip { text-decoration: none; }
 .rail-card__media { aspect-ratio: 16 / 9; background: var(--color-hair); overflow: hidden; }
 .rail-card__media img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .hit--loose a { opacity: 0.72; }
+
+/* ---------- Contents rail beside long notes ---------- */
+.note-layout { display: block; }
+@media (min-width: 1100px) {
+  .note-layout--rail { display: grid; grid-template-columns: minmax(0, 1fr) 19rem; gap: 2.5rem; align-items: start; }
+  .note-layout__rail { position: sticky; top: 5.5rem; }
+  .note-layout__rail table-of-content { inline-size: 19rem; }
+}
+@media (max-width: 1099px) { .note-layout__rail { display: none; } }

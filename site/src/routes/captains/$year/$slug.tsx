@@ -2,6 +2,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { NoteBody } from "@/components/site/note-body";
 import { CiteLanding } from "@/components/site/return-bar";
+import { NoteWithContents } from "@/components/site/contents-rail";
 import { api, fmtDate } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
 
@@ -25,7 +26,9 @@ function NotePage() {
         <ReadLink to="/captains">All episodes</ReadLink>
       </div>
       <CiteLanding>
-        <NoteBody html={html} />
+        <NoteWithContents>
+          <NoteBody html={html} />
+        </NoteWithContents>
       </CiteLanding>
       <p style={{ marginTop: "3rem" }}><Link to="/captains" className="read-link"><span>Back to the episodes</span><span aria-hidden="true">→</span></Link></p>
     </Page>

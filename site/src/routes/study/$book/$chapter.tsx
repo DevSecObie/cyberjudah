@@ -2,6 +2,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { NoteBody } from "@/components/site/note-body";
 import { CiteLanding } from "@/components/site/return-bar";
+import { NoteWithContents } from "@/components/site/contents-rail";
 import { api } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
 
@@ -29,7 +30,9 @@ function StudyChapter() {
         <ReadLink to={`/bible/${book}/${chapter}`}>Read {note.book} {chapter}</ReadLink>
       </div>
       <CiteLanding>
-        <NoteBody html={html} />
+        <NoteWithContents>
+          <NoteBody html={html} />
+        </NoteWithContents>
       </CiteLanding>
       <div style={{ display: "flex", justifyContent: "space-between", gap: "1rem", flexWrap: "wrap", marginTop: "3rem", paddingTop: "1.5rem", borderTop: "1px solid var(--color-hair)" }}>
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <span />}

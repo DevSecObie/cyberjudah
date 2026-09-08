@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, ReadLink } from "@/components/site/chrome";
 import { RefCards } from "@/components/site/ref-card";
-import { RefQuote, TaughtIn } from "@/components/site/ref-quote";
+import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 
@@ -68,7 +68,6 @@ function CasePage() {
           {c.themes?.length ? <p className="chips" style={{ marginTop: "2rem" }}>{c.themes.map((t) => <Link key={t} to="/topics/$slug" params={{ slug: t }} className="chip">{t.replace(/-/g, " ")}</Link>)}</p> : null}
         </div>
       </RefCards>
-      <TaughtIn refs={refs} />
       </CiteLanding>
       <p style={{ marginTop: "3rem" }}><ReadLink to="/cases">All cases</ReadLink></p>
     </Page>

@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { RefCards } from "@/components/site/ref-card";
-import { RefQuote, TaughtIn } from "@/components/site/ref-quote";
+import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 
@@ -34,7 +34,6 @@ function PreceptPage() {
             {p.refs.map((r, i) => <RefQuote key={i} r={r} />)}
           </div>
         </RefCards>
-        <TaughtIn refs={p.refs} />
       </CiteLanding>
       <div className="pager">
         {prev ? <Link to="/precepts/$slug" params={{ slug: prev.slug }} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/precepts">All precepts</ReadLink>}

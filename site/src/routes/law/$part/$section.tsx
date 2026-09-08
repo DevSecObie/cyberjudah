@@ -2,7 +2,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useEffect } from "react";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { RefCards } from "@/components/site/ref-card";
-import { RefQuote, TaughtIn } from "@/components/site/ref-quote";
+import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 
@@ -51,7 +51,6 @@ function SectionPage() {
           ))}
         </ol>
       </RefCards>
-      <TaughtIn refs={section.entries.flatMap((e) => e.refs)} />
       </CiteLanding>
       <div className="pager">
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.id} {prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}

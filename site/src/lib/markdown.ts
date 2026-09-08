@@ -10,6 +10,9 @@ marked.setOptions({ gfm: true, breaks: false });
 export function renderNote(markdown: string): string {
   const src = markdown
     .replace(/<!--\s*truncate\s*-->/g, "")
+    // The encyclopedia entries carry " taught in [Genesis 9](/study/genesis/9)" after each
+    // reference; the reader has the citation itself, so the pointer is left out.
+    .replace(/[ \t]+taught in \[[^\]]+\]\(\/study\/[^)]+\)/g, "")
     // The class video mount becomes a privacy-enhanced YouTube embed.
     .replace(/<div class="class-video-mount" data-video-id="([\w-]{11})"><\/div>/g, (_m, id) =>
       `<div class="note-video"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="Class recording" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`);
