@@ -22,7 +22,7 @@ export const Route = createFileRoute("/search")({
   component: SearchPage,
 });
 
-const KINDS: [string, string][] = [["verse", "Scripture"], ["law", "Laws"], ["precept", "Precepts"], ["case", "Cases"], ["study", "Study notes"], ["class", "Classes"], ["captains", "15 Min w/Captains"], ["encyclopedia", "Encyclopedia"]];
+const KINDS: [string, string][] = [["verse", "Scripture"], ["law", "Laws"], ["precept", "Precepts"], ["case", "Cases"], ["study", "Study notes"], ["class", "Classes"], ["captains", "15 Min w/Captains"], ["history", "Our Hidden History"], ["encyclopedia", "Encyclopedia"]];
 type Hit = SearchHit;
 type PfData = { url: string; excerpt: string; meta: { title?: string; kind?: string; sub?: string }; sub_results?: { title: string; url: string; excerpt: string; anchor?: { id: string } }[] };
 type Pf = { options: (o: Record<string, unknown>) => Promise<void>; search: (q: string, o?: Record<string, unknown>) => Promise<{ results: { data: () => Promise<PfData> }[] }> };

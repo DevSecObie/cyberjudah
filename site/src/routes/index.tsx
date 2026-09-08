@@ -155,7 +155,7 @@ function Library({ stats }: { stats: Stats | null }) {
         <Link to="/captains" className="bento__cell" style={{ gridColumn: "span 2" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-1.png" alt="" width={28} height={28} loading="lazy" />
           <span className="bento__count">{s ? `${nf.format(s.captains)} episodes` : "Short teachings"}</span>
-          <span className="bento__title">The Captains</span>
+          <span className="bento__title">15 Min w/Captains</span>
           <p className="bento__blurb">15 Minutes w/ The Captains: one subject at a time.</p>
         </Link>
         <Link to="/cases" className="bento__cell" style={{ gridColumn: "span 2" }}>
@@ -163,6 +163,12 @@ function Library({ stats }: { stats: Stats | null }) {
           <span className="bento__count">{s ? `${nf.format(s.cases)} judgments · ${nf.format(s.blessings)} kept the law` : "Judgments and blessings"}</span>
           <span className="bento__title">Case Studies</span>
           <p className="bento__blurb">The judgments, and those who kept the law and were blessed.</p>
+        </Link>
+        <Link to="/history" className="bento__cell" style={{ gridColumn: "span 6" }}>
+          <img className="bento__icon" src="/assets/brand/icons/icon-0.png" alt="" width={28} height={28} loading="lazy" />
+          <span className="bento__count">{s?.history ? `${nf.format(s.history)} episodes · ${nf.format(s.historyHours ?? 0)} hours` : "Radio, verbatim"}</span>
+          <span className="bento__title">Our Hidden History</span>
+          <p className="bento__blurb">Every episode of Our Hidden History Radio, word for word, with the recording beside the transcript.</p>
         </Link>
         <Link to="/law" className="bento__cell" style={{ gridColumn: "span 3" }}>
           <img className="bento__icon" src="/assets/brand/icons/icon-2.png" alt="" width={28} height={28} loading="lazy" />

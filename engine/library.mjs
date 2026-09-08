@@ -143,6 +143,37 @@ export function loadLibrary(ROOT) {
     notes.push({ kind: "encyclopedia", slug: stem, file: `docs/encyclopedia/${f}`, url: meta.slug || `/encyclopedia/${stem}`,
       title: meta.title || stem, summary: meta.description || "", body });
   }
+  /* ---------------- Our Hidden History: verbatim transcripts, and notes once written ---------------- */
+  // history/transcripts/<videoId>.json is what scripts/history/ingest.py writes; a note at
+  // history/notes/<videoId>.md (frontmatter + markdown with scripture links) sits beside it
+  // once an episode has been written up, and then it cites scripture like any class note.
+  const HIST = path.join(ROOT, "history");
+  const history = [];
+  const SMALL = new Set(["a", "an", "and", "as", "at", "but", "by", "for", "in", "of", "on", "or", "the", "to", "vs", "with"]);
+  const titleCase = (t) => t.toLowerCase().split(/(\s+)/).map((w, i) => (SMALL.has(w) && i > 0 ? w : w.replace(/^[a-z]/, (c) => c.toUpperCase()).replace(/^(\d+)(st|nd|rd|th)$/i, (m) => m.toLowerCase()))).join("");
+  const cleanTitle = (raw) => {
+    let t = raw.replace(/\(previously aired\)/i, "").replace(/^\s*(our hidden history|ohh)\s*[|:-]\s*/i, "").replace(/\s*[|:-]?\s*\bep(?:isode)?\.?\s*\d+\b\s*$/i, "").replace(/\s+/g, " ").trim();
+    if (t === t.toUpperCase()) t = titleCase(t);
+    return t || raw;
+  };
+  const TDIR = path.join(HIST, "transcripts");
+  if (fs.existsSync(TDIR)) {
+    const used = new Set();
+    for (const f of fs.readdirSync(TDIR).filter((f) => f.endsWith(".json")).sort()) {
+      const t = json(path.join(TDIR, f));
+      const noteFile = path.join(HIST, "notes", `${t.videoId}.md`);
+      const [meta, body] = fs.existsSync(noteFile) ? parseFrontmatter(read(noteFile)) : [{}, ""];
+      const title = meta.title || cleanTitle(t.title);
+      let s = (t.episode ? `ep-${t.episode}-` : `${t.date ?? ""}-`) + slug(title);
+      while (used.has(s)) s += "-" + t.videoId.slice(0, 4).toLowerCase();
+      used.add(s);
+      history.push({ kind: "history", slug: s, file: `history/transcripts/${f}`, url: `/history/${s}`, title, rawTitle: t.title, episode: t.episode ?? null,
+        date: t.date ?? null, year: t.date ? t.date.slice(0, 4) : "", duration: t.duration ?? null, views: t.views ?? null, videoId: t.videoId, start: t.start ?? 0, words: t.words ?? 0,
+        segments: t.segments ?? [], body, teacher: meta.teacher || "", topics: tagList(meta.tags), description: meta.description || "", noted: !!body });
+    }
+    history.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || (b.episode ?? 0) - (a.episode ?? 0));
+    for (const h of history) if (h.body) notes.push({ ...h, kind: "history" });
+  }
   const noteByTitle = new Map(notes.map((n) => [n.title.toLowerCase(), n]));
   const studyFor = (book, ch) => notes.find((n) => n.kind === "study" && n.book === book && ch >= n.chapters[0] && ch <= n.chapters[1]) ?? null;
   const noteLabel = (n) => n.kind === "study" ? (n.title.startsWith(n.book) ? `${n.range} \u00b7 ${n.title.replace(/^[^:]+:\s*/, "")}` : `${n.range} \u00b7 ${n.title}`) : n.title;
@@ -171,7 +202,7 @@ export function loadLibrary(ROOT) {
 
   // Citation order matters for nothing downstream except stable output, so it follows the
   // same order the site has always used: notes, cases, laws, precepts.
-  for (const n of [...studyNotes, ...classNotes, ...captainNotes, ...encNotes]) scanCitations(n.body, noteSelf(n));
+  for (const n of [...studyNotes, ...classNotes, ...captainNotes, ...encNotes, ...history.filter((h) => h.body)]) scanCitations(n.body, noteSelf(n));
   for (const c of cases.cases) for (const r of c.refs) cite(r, "case", c.name, caseUrl(c));
   for (const p of handbook.parts) for (const s of p.sections) for (const e of s.entries) {
     const id = `${s.id}.${e.n}`;
@@ -193,7 +224,7 @@ export function loadLibrary(ROOT) {
     handbook, sectionById, partSlug, partUrl, sectionUrl, lawUrl,
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,
-    notes, studyNotes, classNotes, captainNotes, encNotes, studyBooks, noteByTitle, studyFor, noteLabel,
+    notes, studyNotes, classNotes, captainNotes, encNotes, history, studyBooks, noteByTitle, studyFor, noteLabel,
     cited, uniqueCitations, lexicon, topics,
   };
 }

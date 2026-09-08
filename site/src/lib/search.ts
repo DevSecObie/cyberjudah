@@ -11,7 +11,7 @@ export type SearchResult =
   | { ok: true; q: string; mode: "strict" | "loose" | "mixed"; counts: Record<string, number>; hits: SearchHit[]; ms: number }
   | { ok: false; reason: string };
 
-export const KINDS = ["verse", "law", "precept", "case", "study", "class", "captains", "encyclopedia"] as const;
+export const KINDS = ["verse", "law", "precept", "case", "study", "class", "captains", "history", "encyclopedia"] as const;
 
 /** Turn what a person typed into an FTS5 expression: quoted phrases stay phrases, the rest are terms. */
 export function parseQuery(q: string): { phrases: string[]; terms: string[] } {

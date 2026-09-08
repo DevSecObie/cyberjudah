@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 
 import { api } from "@/lib/api";
 
-const SECTIONS = ["/", "/bible", "/study", "/classes", "/captains", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"];
+const SECTIONS = ["/", "/bible", "/study", "/classes", "/captains", "/history", "/cases", "/law", "/precepts", "/concordance", "/encyclopedia", "/topics", "/search", "/api", "/downloads", "/about"];
 
 export const Route = createFileRoute("/sitemap.xml")({
   server: {
@@ -22,6 +22,7 @@ export const Route = createFileRoute("/sitemap.xml")({
           for (const p of laws) { urls.push(`${origin}${p.url}`); for (const s of p.sections) urls.push(`${origin}${s.url}`); }
           for (const p of precepts) urls.push(`${origin}${p.url}`);
           for (const t of topics) urls.push(`${origin}${t.url}`);
+          for (const h of await api.history()) urls.push(`${origin}${h.url}`);
         } catch { /* the sections alone are still a valid sitemap */ }
         const xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
           ...urls.map((u) => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`), "</urlset>"].join("\n");

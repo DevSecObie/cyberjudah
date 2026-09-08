@@ -146,6 +146,43 @@ for (const n of notes) {
   writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, body: n.body });
 }
 
+/* ---------------- api: Our Hidden History ---------------- */
+// The verbatim transcript, from the second the speakers begin, cut into speaker turns (">>"
+// in the captions) and, within a long turn, into paragraphs at sentence ends. Every paragraph
+// keeps the timestamp of its first caption, so the site can seek the recording to it.
+function transcriptTurns(h) {
+  const turns = [];
+  let cur = null;
+  const push = () => { if (cur && cur.text.trim()) turns.push({ t: cur.t, text: cur.text.replace(/\s+/g, " ").trim() }); cur = null; };
+  for (const [t, raw] of h.segments) {
+    if (t < (h.start ?? 0)) continue;
+    let text = raw;
+    if (/^>>/.test(text)) { push(); text = text.replace(/^>>\s*/, ""); }
+    if (!cur) cur = { t, text: "" };
+    if (cur.text.length > 1100 && /[.!?]$/.test(cur.text.trim())) { push(); cur = { t, text: "" }; }
+    cur.text += (cur.text ? " " : "") + text.replace(/>>/g, "").trim();
+  }
+  push();
+  // A one-word interjection ("Yeah.", "Right.") is not a turn worth its own line; it joins the
+  // line before it. Speaker changes with something to say stay separate.
+  const merged = [];
+  for (const t of turns) {
+    if (merged.length && t.text.length < 30) merged[merged.length - 1].text += " " + t.text;
+    else merged.push({ ...t });
+  }
+  return merged;
+}
+const historyRows = L.history.map((h) => ({ slug: h.slug, title: h.title, url: h.url, episode: h.episode, date: h.date, year: h.year, duration: h.duration, views: h.views, videoId: h.videoId,
+  thumb: `https://i.ytimg.com/vi/${h.videoId}/hqdefault.jpg`, words: h.words, teacher: h.teacher, topics: h.topics, noted: h.noted, summary: h.description }));
+writeJson(path.join(API, "history", "index.json"), historyRows);
+const historyTurns = new Map();
+for (const h of L.history) {
+  const turns = transcriptTurns(h);
+  historyTurns.set(h.slug, turns);
+  writeJson(path.join(API, "history", `${h.slug}.json`), { ...historyRows.find((r) => r.slug === h.slug), rawTitle: h.rawTitle, start: h.start, body: h.body || null, turns });
+}
+console.error(`history: ${L.history.length} episodes, ${L.history.filter((h) => h.noted).length} written up`);
+
 /* ---------------- api: cross references, WEB parallel ---------------- */
 for (const [file, dir] of [["crossrefs.json", "xref"], ["web-translation.json", "web"]]) {
   const p = path.join(L.DATA, file);
@@ -278,6 +315,7 @@ const stats = {
   verses: BOOKS.reduce((a, b) => a + Object.values(bible[b]).flat().filter(Boolean).length, 0),
   studies: notes.filter((n) => n.kind === "study").length, classes: classNotes.length, captains: captainNotes.length, encyclopedia: L.encNotes.length,
   laws: handbook.parts.reduce((a, p) => a + p.sections.reduce((x, s) => x + s.entries.length, 0), 0), sections: Object.keys(L.sectionById).length, parts: handbook.parts.length,
+  history: L.history.length, historyHours: Math.round(L.history.reduce((a, h) => a + (h.duration ?? 0), 0) / 3600),
   precepts: sortedPrecepts.length, cases: cases.cases.filter((c) => !isBlessing(c)).length, blessings: cases.cases.filter(isBlessing).length, citedChapters: cited.size,
   recent: [...(latest.class ?? []), ...(latest.captains ?? [])].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 10),
 };
@@ -287,7 +325,8 @@ writeJson(path.join(API, "index.json"), {
   notes: "/api/notes/index.json", note: "/api/notes/<site-path>.json", laws: "/api/laws/index.json", law: "/api/laws/<SECTION>.json",
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
   concordanceIndex: "/api/concordance/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
-  topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
+  topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
+  history: "/api/history/index.json", episode: "/api/history/<slug>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
@@ -415,6 +454,17 @@ write(path.join(OUT, "llms.txt"), [
     }
     flush();
   }
+  for (const h of L.history) {
+    // Transcript paragraphs pack into pieces of a few KB; the url carries the timestamp of the piece.
+    let buf = "", at = null;
+    const flushH = () => { if (buf.trim()) add("history", h.title, `${h.url}#t=${Math.floor(at ?? 0)}`, h.episode ? `EP ${h.episode}` : (h.date ?? ""), buf); buf = ""; at = null; };
+    for (const turn of historyTurns.get(h.slug) ?? []) {
+      if (buf.length + turn.text.length > CHUNK && buf) flushH();
+      if (at === null) at = turn.t;
+      buf += (buf ? " " : "") + turn.text;
+    }
+    flushH();
+  }
   for (const p of handbook.parts) for (const sec of p.sections) for (const e of sec.entries) add("law", `${sec.id}.${e.n} ${e.text}`, `${sectionUrl(sec)}#${sec.id}.${e.n}`, `${sec.id} ${sec.title}`, `${e.text} ${e.citation ?? ""}`);
   for (const t of sortedPrecepts) add("precept", t.title, preceptUrl(t), `${t.refs.length} passages`, `${t.title} ${t.refs.map((r) => `${r.book} ${r.chapter}${r.verses ? ":" + r.verses : ""}`).join(", ")}`);
   for (const c of cases.cases) add("case", c.name, caseUrl(c), `${c.era} · ${VERDICT[c.verdict] ?? c.verdict}`, `${c.charge}. ${c.summary} ${c.offense} ${c.judgment} ${c.themes.join(" ")}`);
@@ -446,6 +496,7 @@ write(path.join(OUT, "llms.txt"), [
   for (const p of handbook.parts) for (const sec of p.sections)
     records.push({ kind: "law", title: `${sec.id} ${sec.title}`, url: sectionUrl(sec), anchored: sec.entries.map((e) => [`${sec.id}.${e.n}`, `${sec.id}.${e.n}`, e.text]) });
   for (const t of sortedPrecepts) records.push({ kind: "precept", title: t.title, url: preceptUrl(t), sub: `${t.refs.length} verses`, content: t.title });
+  for (const h of L.history) records.push({ kind: "history", title: h.title, url: h.url, sub: h.episode ? `EP ${h.episode}` : (h.date ?? ""), content: (historyTurns.get(h.slug) ?? []).map((t) => t.text).join(" ") });
   for (const c of cases.cases) records.push({ kind: "case", title: c.name, url: caseUrl(c), content: `${c.charge}. ${c.summary} ${c.offense} ${c.judgment}` });
 
   const { index, errors: createErrors } = await pagefind.createIndex();

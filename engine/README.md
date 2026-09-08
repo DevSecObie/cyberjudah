@@ -27,6 +27,8 @@ not needed.
 | `data/cases.json` | the case studies |
 | `data/topics.tsv`, `data/lexicon.tsv` | topic labels, encyclopedia terms |
 | `data/crossrefs.json`, `data/web-translation.json` | cross references, WEB parallel text |
+| `history/transcripts/<videoId>.json` | Our Hidden History Radio, verbatim captions per episode (`scripts/history/ingest.py` writes them) |
+| `history/notes/<videoId>.md` | an episode written up, once it is; frontmatter + markdown with scripture links, cited like a class note |
 
 A note cites scripture by linking to `/bible/<book-slug>/<chapter>#v<n>`. Every such link
 becomes a row in the concordance, which is the graph everything else is built from.
@@ -52,6 +54,8 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/cases/index.json`, `api/cases/<slug>.json` | the case studies (index rows carry `themes` and `topics`); each case carries its laws, precepts, related cases, resolved references (`refsResolved`), where it was taught and encyclopedia `see` links |
 | `api/concordance/index.json` | per book: which chapters are cited (`cited`) and how many citations |
 | `api/concordance/<book-slug>.json` | a whole book: `chapterRows: [{chapter, url, cited_by}]`, one row per citing document with its verse spans merged into `verses: []` |
+| `api/history/index.json` | every episode: `{slug, title, url, episode, date, duration, views, videoId, thumb, words, teacher, topics, noted}` |
+| `api/history/<slug>.json` | one episode: the row plus `start` (the second the speakers begin), `body` (the write-up, or null) and `turns: [{t, text}]`, the verbatim transcript from `start` in speaker turns |
 | `api/encyclopedia/index.json` | `[{slug, title, url, summary}]` |
 | `api/topics/index.json`, `api/topics/<slug>.json` | every topic label (class topics, case themes, `verdict-<v>`) with the notes and cases that carry it |
 | `downloads/vault.zip` | the Obsidian vault, when `data/downloads/vault.zip` exists in the repository |

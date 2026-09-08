@@ -24,6 +24,8 @@ import { Route as ConcordanceIndexRouteImport } from './routes/concordance/index
 import { Route as ConcordanceBookRouteImport } from './routes/concordance/$book'
 import { Route as EncyclopediaIndexRouteImport } from './routes/encyclopedia/index'
 import { Route as EncyclopediaSlugRouteImport } from './routes/encyclopedia/$slug'
+import { Route as HistoryIndexRouteImport } from './routes/history/index'
+import { Route as HistorySlugRouteImport } from './routes/history/$slug'
 import { Route as LawIndexRouteImport } from './routes/law/index'
 import { Route as PreceptsIndexRouteImport } from './routes/precepts/index'
 import { Route as PreceptsSlugRouteImport } from './routes/precepts/$slug'
@@ -115,6 +117,16 @@ const EncyclopediaSlugRoute = EncyclopediaSlugRouteImport.update({
   path: '/encyclopedia/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const HistoryIndexRoute = HistoryIndexRouteImport.update({
+  id: '/history/',
+  path: '/history/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HistorySlugRoute = HistorySlugRouteImport.update({
+  id: '/history/$slug',
+  path: '/history/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const LawIndexRoute = LawIndexRouteImport.update({
   id: '/law/',
   path: '/law/',
@@ -201,6 +213,7 @@ export interface FileRoutesByFullPath {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
+  '/history/$slug': typeof HistorySlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/bible/': typeof BibleIndexRoute
@@ -209,6 +222,7 @@ export interface FileRoutesByFullPath {
   '/classes/': typeof ClassesIndexRoute
   '/concordance/': typeof ConcordanceIndexRoute
   '/encyclopedia/': typeof EncyclopediaIndexRoute
+  '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
   '/precepts/': typeof PreceptsIndexRoute
   '/study/': typeof StudyIndexRoute
@@ -233,6 +247,7 @@ export interface FileRoutesByTo {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
+  '/history/$slug': typeof HistorySlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/bible': typeof BibleIndexRoute
@@ -241,6 +256,7 @@ export interface FileRoutesByTo {
   '/classes': typeof ClassesIndexRoute
   '/concordance': typeof ConcordanceIndexRoute
   '/encyclopedia': typeof EncyclopediaIndexRoute
+  '/history': typeof HistoryIndexRoute
   '/law': typeof LawIndexRoute
   '/precepts': typeof PreceptsIndexRoute
   '/study': typeof StudyIndexRoute
@@ -266,6 +282,7 @@ export interface FileRoutesById {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
+  '/history/$slug': typeof HistorySlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/bible/': typeof BibleIndexRoute
@@ -274,6 +291,7 @@ export interface FileRoutesById {
   '/classes/': typeof ClassesIndexRoute
   '/concordance/': typeof ConcordanceIndexRoute
   '/encyclopedia/': typeof EncyclopediaIndexRoute
+  '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
   '/precepts/': typeof PreceptsIndexRoute
   '/study/': typeof StudyIndexRoute
@@ -300,6 +318,7 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
+    | '/history/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
     | '/bible/'
@@ -308,6 +327,7 @@ export interface FileRouteTypes {
     | '/classes/'
     | '/concordance/'
     | '/encyclopedia/'
+    | '/history/'
     | '/law/'
     | '/precepts/'
     | '/study/'
@@ -332,6 +352,7 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
+    | '/history/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
     | '/bible'
@@ -340,6 +361,7 @@ export interface FileRouteTypes {
     | '/classes'
     | '/concordance'
     | '/encyclopedia'
+    | '/history'
     | '/law'
     | '/precepts'
     | '/study'
@@ -364,6 +386,7 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/concordance/$book'
     | '/encyclopedia/$slug'
+    | '/history/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
     | '/bible/'
@@ -372,6 +395,7 @@ export interface FileRouteTypes {
     | '/classes/'
     | '/concordance/'
     | '/encyclopedia/'
+    | '/history/'
     | '/law/'
     | '/precepts/'
     | '/study/'
@@ -397,6 +421,7 @@ export interface RootRouteChildren {
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
+  HistorySlugRoute: typeof HistorySlugRoute
   PreceptsSlugRoute: typeof PreceptsSlugRoute
   TopicsSlugRoute: typeof TopicsSlugRoute
   BibleIndexRoute: typeof BibleIndexRoute
@@ -405,6 +430,7 @@ export interface RootRouteChildren {
   ClassesIndexRoute: typeof ClassesIndexRoute
   ConcordanceIndexRoute: typeof ConcordanceIndexRoute
   EncyclopediaIndexRoute: typeof EncyclopediaIndexRoute
+  HistoryIndexRoute: typeof HistoryIndexRoute
   LawIndexRoute: typeof LawIndexRoute
   PreceptsIndexRoute: typeof PreceptsIndexRoute
   StudyIndexRoute: typeof StudyIndexRoute
@@ -527,6 +553,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof EncyclopediaSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/history/': {
+      id: '/history/'
+      path: '/history'
+      fullPath: '/history/'
+      preLoaderRoute: typeof HistoryIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/history/$slug': {
+      id: '/history/$slug'
+      path: '/history/$slug'
+      fullPath: '/history/$slug'
+      preLoaderRoute: typeof HistorySlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/law/': {
       id: '/law/'
       path: '/law'
@@ -645,6 +685,7 @@ const rootRouteChildren: RootRouteChildren = {
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,
+  HistorySlugRoute: HistorySlugRoute,
   PreceptsSlugRoute: PreceptsSlugRoute,
   TopicsSlugRoute: TopicsSlugRoute,
   BibleIndexRoute: BibleIndexRoute,
@@ -653,6 +694,7 @@ const rootRouteChildren: RootRouteChildren = {
   ClassesIndexRoute: ClassesIndexRoute,
   ConcordanceIndexRoute: ConcordanceIndexRoute,
   EncyclopediaIndexRoute: EncyclopediaIndexRoute,
+  HistoryIndexRoute: HistoryIndexRoute,
   LawIndexRoute: LawIndexRoute,
   PreceptsIndexRoute: PreceptsIndexRoute,
   StudyIndexRoute: StudyIndexRoute,
