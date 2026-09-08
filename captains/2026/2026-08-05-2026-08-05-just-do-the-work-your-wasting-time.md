@@ -1,0 +1,179 @@
+---
+title: "Just Do The Work Your Wasting Time"
+slug: "2026/2026-08-05-just-do-the-work-your-wasting-time"
+date: "2026-08-05"
+teacher: "Captain Karaz"
+description: "15 Minutes w/ The Captains · 2026-08-05"
+tags: ["15 Minutes w/ The Captains", "mercy", "prophecy", "war"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2026-08-05</p>
+
+<span class="opens"><b>Opens</b> [2 Esdras 14](/bible/2-esdras/14) · [Matt 24](/bible/matthew/24) · [Eccl 8](/bible/ecclesiastes/8) · [Sir 5](/bible/sirach/5) · [Rev 20](/bible/revelation/20)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="0k9VXVDRP5I"></div>
+
+## Introduction
+
+*[[0:12](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=12s)]* Hey, shalom family. Most High and Christ bless. Captain Karaz of Houston, Texas, and this is 15 Minutes with the Captains. All right? Don't have a whole lot of time, fifteen minutes, so we going to get right into it.
+
+**Title of the class is: do the work, stop wasting time.**
+
+All right? So let's go ahead and open up with Second Esdras chapter 14.
+
+## Scriptures Opened
+
+**[2 Esdras 14:10-14](/bible/2-esdras/14#v10)**  *[[0:30](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=30s)]*
+
+> <sup>[10](/bible/2-esdras/14#v10)</sup> For the world hath lost his youth, and the times begin to wax old.
+
+- So hold up. So the message was given to our forefather Esdras, from the Most High.
+
+> <sup>[11](/bible/2-esdras/14#v11)</sup> For the world is divided into twelve parts, and the ten parts of it are gone already, and half of a tenth part:
+
+- And the ten parts of it are gone already. So ten and a half parts, back during the time of Esdras, had already passed. And remember it said the world, the time, was divided into twelve parts. So well over two thousand years ago, ten and a half of those parts are already gone. We're in that last one and a half parts that'll be left. Again, over two thousand years ago.
+
+> <sup>[12](/bible/2-esdras/14#v12)</sup> And there remaineth that which is after the half of the tenth part.
+
+- So what is that letting you know? The time is short.
+
+> <sup>[13](/bible/2-esdras/14#v13)</sup> Now therefore set thine house in order, and reprove thy people, comfort such of them as be in trouble, and now renounce corruption,
+
+- So understand, all the way back in the times of Esdras, the commandment was given to go ahead and start setting yourself in order. Time is short. Set yourself in order.
+
+- And reprove thy people: and correct your people.
+
+> <sup>[14](/bible/2-esdras/14#v14)</sup> Let go from thee mortal thoughts, cast away the burdens of man, put off now the weak nature,
+
+- So in other words, start getting yourself right for those end times, or those times that are coming, because there's not a whole lot of time left.
+
+**[Matthew 24:3](/bible/matthew/24#v3)**  *[[2:26](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=146s)]*
+
+> <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
+
+- So this is Christ talking with the disciples concerning the end times.
+
+- So notice what the disciples asked. They said they want to know what should be the sign of his coming, and the end of the world. So we're going to read a few things about that end of the world. And don't find it shocking that some of those things are going on now.
+
+**[Matthew 24:6-7](/bible/matthew/24#v6)**  *[[3:11](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=191s)]*
+
+> <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
+
+- So it says we're getting close. They want to know what was the sign of the end times. Here's one of those signs: hearing of wars and rumours of wars. Every time you turn the TV on, you look at the news now: wars, rumours of wars.
+
+> <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+
+- For nation shall rise against nation. Now, we have that right now. And kingdom against kingdom. And there shall be famines, and pestilences, and earthquakes, in divers places.
+
+**[Matthew 24:9](/bible/matthew/24#v9)**  *[[3:52](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=232s)]*
+
+> <sup>[9](/bible/matthew/24#v9)</sup> Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.
+
+- All right, so we know we got wars, rumours of wars, nation against nation and kingdom against kingdom. But understand, there's going to turn a point to where those that are keeping the commandments, those that are trying to keep God's laws according to scripture, according to the Bible — people are going to turn against you.
+
+- And they're already doing so. Right now we call them haters, but it's really going to get turned up. As times go on and as situations get worse and they get more and more distraught, they're going to start pointing the fingers. They're going to start playing the blame game. They're going to start laying the blame on the Israelites, those that keep God's commandments, so-called blacks, Hispanics, Native Americans.
+
+- So understand, there's going to be a time to where you're going to be afflicted for trying to keep God's laws. And shall kill you: they're going to want to kill you, or they're going to kill you. And ye shall be hated of all nations for my name's sake: and you will be hated for Christ's sake. In other words, you're going to be hated for the lifestyle of trying to live righteously, trying to keep God's laws.
+
+- It will be your fault that the world is in chaos and disarray and disorder. That should let you know something: that these scriptures are true. The Bible is true.
+
+*[[5:24](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=324s)]* So understand that the time is short, and with the things that are coming, we should be getting ourselves ready for those end times. We should be getting ourselves ready to go through the tribulations, to be able to see this thing to the end.
+
+But a lot of us are wasting time. A lot of us are still caught up in the ways of the world. A lot of us are still caught up in the cares and the riches and the lifestyles that we see. A lot of us are caught up in the midst of sins. And we all understand that sin feels good, and we don't want to get rid of those sins. It's going to be a sad day in Israel.
+
+
+**[Ecclesiastes 8:11](/bible/ecclesiastes/8#v11)**  *[[6:16](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=376s)]*
+
+> <sup>[11](/bible/ecclesiastes/8#v11)</sup> Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
+
+- So because God doesn't kill you instantly today for the wrong things that you've done, for breaking his commandments, our minds are fully set to do evil. Our minds are fully set on doing wickedness.
+
+- All right, IT, let's get those images up real quick. Let's look at some of the wickedness that our minds are set to do in these days. Things that keep us away from God's laws. Distractions.
+
+- That first one right there. You see the young man's playing what? PlayStation. Video games. That's a big deception. Grown man playing video games. We should be keeping God's laws. We should be sitting back reading the scriptures, understanding what time we in, and that we have short time. But instead we're playing games like we're adolescents.
+
+- Ah, the drugs, the weed, the smoke, whatever you want to call it. Another distraction. A lot of our people just wake up in the morning, the first thing they want to do is what? Let me go ahead and alter my mental state. Because I can't keep the stresses of this world, I can't go through those stresses. Brothers and sisters, a lot of them go to work just so they can come home and smoke the blunt. Not another care in the world. God's laws is not in their life.
+
+- All right? The streets. Big distraction. Sad part is that there's nothing out there in the streets but death and destruction. But yet this lifestyle is glorified. And if you notice, you see the young, the YNs, with the really young YNs, and they are an influence. The gang life, or banging, or getting a switch, or whatever you want to call it today. Look, that's what the young boys fantasising about. It's sad. That's what we're passing on to our children. Not the understanding of how to live eternally, but the understanding of how to kill one another with a switch.
+
+- And you can't forget about that. Like I said earlier, the sad thing is, if you look at it, that's in the classroom. Where you supposed to be getting an education to go out and be able to take on the world and live a sustainable life. But no, it's all about the twerking and the seduction. And those are young girls. And guess where they got it from? That older generation. Same way you saw those young men in the streets, it's the same way you see those young girls out there in the streets. And if they're doing that in the classroom, you can imagine what they're doing behind the scenes, when the cameras ain't there and the lights is out. At that young of an age.
+
+- So because God doesn't kill us instantly for the things that we do wrong, for the sins that we do — therefore our minds are set for wickedness, death and destruction. We take pleasure in the sins that we do of breaking God's laws, and you're going to be destroyed in those.
+
+**[Sirach 5:4-7](/bible/sirach/5#v4)**  *[[10:02](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=602s)]*
+
+> <sup>[4](/bible/sirach/5#v4)</sup> Say not, I have sinned, and what harm hath happened unto me? for the Lord is longsuffering, he will in no wise let thee go.
+
+- So understand, there's no man or woman on the face of the planet that has not sinned. So don't say that you haven't sinned. Just because God hasn't destroyed you yet, that doesn't mean you haven't sinned.
+
+- And what harm hath happened unto me? And don't test God, talking about, well, what harm has come unto me?
+
+- For the Lord is longsuffering, he will in no wise let thee go.
+
+> <sup>[5](/bible/sirach/5#v5)</sup> Concerning propitiation, be not without fear to add sin unto sin:
+
+- Concerning propitiation. That's not a regular black word. So IT, if you would, please give us that definition of propitiation.
+
+- **IT:** Propitiation: the act of appeasing or satisfying someone's wrath, specifically God's, to gain their favour and achieve reconciliation.
+
+- So propitiation basically goes into pleasing God, to pacify him or satisfy his wrath.
+
+- So concerning pacifying God's wrath, it says, be not without fear to add sin unto sin. In other words, you should be very fearful of sinning, breaking God's laws, because you're adding sin upon sin every time you break his laws. And again, it says in no wise will he let you go. There will be an answer for us breaking his laws.
+
+> <sup>[6](/bible/sirach/5#v6)</sup> And say not His mercy is great; he will be pacified for the multitude of my sins: for mercy and wrath come from him, and his indignation resteth upon sinners.
+
+- And say not his mercy is great. That's what they say in these Sunday churches. Oh, the Lord is full of mercy and grace. Every time you ask them about repentance, or every time you ask them about keeping God's laws — oh, we ain't got to do that, we're under grace, we ain't under law, we're under grace. Biggest lie there is on the face of the planet. So many people deceived behind that.
+
+- For mercy and wrath come from him. Mercy and wrath come from God.
+
+- And his indignation resteth upon sinners. And his fierce anger resteth upon sinners. Those that are breaking God's laws, you're going to feel the wrath of God. That's basically what they're saying.
+
+> <sup>[7](/bible/sirach/5#v7)</sup> Make no tarrying to turn to the Lord, and put not off from day to day: for suddenly shall the wrath of the Lord come forth, and in thy security thou shalt be destroyed, and perish in the day of vengeance.
+
+- So understand again, time is short. Make no tarrying means don't delay to what? Turn to the Lord, to start keeping his commandments.
+
+- And put not off from day to day. And don't say, oh, I'll do it tomorrow. Oh, you know what, I'm going to repent tomorrow. I'm going to smoke this weed today, but I'm going to repent tomorrow. I'm going to go to the school and learn on the Sabbath. You might not make it to the Sabbath.
+
+- And in thy security thou shalt be destroyed. And in your securities, God will destroy you. Meaning when you're comfortable, thinking that you are safe and that nothing can touch you, where you find your comforts at, that's when God's going to show up. You're going to get your wake-up call.
+
+A clip from a Sunday church service is played.  *[[13:53](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=833s)]*
+
+- Because I mentioned about the Sunday church. And this is what goes on in our Sunday churches. They don't learn about God. It's all about singing and dancing and putting on an entertainment show. It's the new club Sunday.
+
+- They're not teaching the people. They're not preparing them for the short times that's ahead. They're just there to entertain, make you laugh and feel good.
+
+- And in their securities — what are some of the securities of the church? It says what? Just call on his name and you're going to be saved. That's a lie. That's a security that the church teaches. That's a lie. What's the other one? Oh yeah. Just say his name and ask for forgiveness right before your death. You can call on him on his deathbed, and you think you're going to be saved. No, that is not the case.
+
+- All right? Lying pastors. And if y'all can't tell, I hate the Sunday churches. Lying and deceiving our people. That's all they do. Give you a false sense of securities.
+
+
+*[[15:12](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=912s)]* So, fifteen minutes. Read two more scriptures. Revelation chapter 20.
+
+
+**[Revelation 20:12-13](/bible/revelation/20#v12)**  *[[15:16](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=916s)]*
+
+> <sup>[12](/bible/revelation/20#v12)</sup> And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
+
+- So if you haven't read, this is judgment day. This is the day that you stand before the Most High. It says, and the books were opened.
+
+- And another book was opened, which is the book of life. So we understand the book of life is the Bible.
+
+- According to their works. Notice it says it's according to your works, not according to your feelings, not according to your beliefs, not according to your opinions. According to the works. What works have you done in the short time that you have?
+
+- The works are going into righteous works: keeping God's laws, honouring him on his high holy days, honouring the Sabbath days, eating clean foods, staying away from unclean foods, putting on your fringes, being a representative, teaching your people. Have you done these works? Or are you secure and safe in the lies that are being told?
+
+> <sup>[13](/bible/revelation/20#v13)</sup> And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+
+- And they were judged every man according to what? According to their works.
+
+- So the time that you've been given, the short time that we've been given, is for you to put in works: works of righteousness, works of keeping God's laws, in order to get the kingdom.
+
+## In Closing
+
+*[[17:10](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=1030s)]* So, again, that's been fifteen minutes, family. I pray y'all got something out of the class. Again, Captain Karaz out of Houston, Texas. Shalom, Most High and Christ bless you all.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=0k9VXVDRP5I)
