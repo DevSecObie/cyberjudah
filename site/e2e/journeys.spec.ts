@@ -13,9 +13,27 @@ test("case judgment filter narrows results and survives reload", async ({ page }
   await filter.selectOption("blessed");
   await expect(page.locator("main .verdict").first()).toHaveText("Kept the law");
   await expect(page.locator("main .verdict--death")).toHaveCount(0);
-  await page.getByRole("link", { name: "Clear filter", exact: true }).click();
+  await page.getByRole("button", { name: "Clear all", exact: true }).click();
   await expect(filter).toHaveValue("");
   await expect(page.locator("main .verdict--death").first()).toBeVisible();
+});
+
+test("case timeline keeps judgment filters and offers era breadcrumbs", async ({ page }) => {
+  await page.goto("/cases?verdict=death&view=timeline");
+  await expect(page.getByRole("combobox", { name: "View", exact: true })).toHaveValue("timeline");
+  const eras = page.getByRole("navigation", { name: "Case eras" });
+  await expect(eras).toBeVisible();
+  await eras.getByRole("link").first().click();
+  await expect(page).toHaveURL(/#era-/);
+  await page.getByRole("button", { name: "Remove Judgment: Put to death", exact: true }).click();
+  await expect(page.getByRole("combobox", { name: "Judgment", exact: true })).toHaveValue("");
+  await expect(page).toHaveURL(/view=timeline/);
+  await page.locator("main .case-era .list a").first().click();
+  const breadcrumbs = page.getByRole("navigation", { name: "Breadcrumb", exact: true });
+  await expect(breadcrumbs).toBeVisible();
+  await expect(breadcrumbs.locator('[aria-current="page"]')).toBeVisible();
+  await breadcrumbs.getByRole("link", { name: "Cases", exact: true }).click();
+  await expect(page).toHaveURL(/\/cases\/?$/);
 });
 
 test("navigation fits and primary sections remain reachable", async ({ page }) => {

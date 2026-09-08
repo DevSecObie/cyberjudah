@@ -4,6 +4,7 @@ import { RefCards } from "@/components/site/ref-card";
 import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
+import { Breadcrumbs, eraAnchor } from "@/components/site/browse-tools";
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
@@ -25,6 +26,7 @@ function CasePage() {
   const precepts = c.preceptsResolved ?? c.topics.map((slug) => ({ slug, title: slug.replace(/-/g, " "), url: `/precepts/${slug}` }));
   return (
     <Page>
+      <Breadcrumbs items={[{ label: "Cases", to: "/cases" }, { label: c.era, to: "/cases", hash: eraAnchor(c.era) }, { label: c.name }]} />
       <div className="note-head">
         <p className="cj-kicker">{c.era}</p>
         <h1 className="cj-h1">{c.name}</h1>

@@ -2,6 +2,7 @@ import { Link, useNavigate } from "@tanstack/react-router";
 import { useEffect, useMemo, useState } from "react";
 
 import { fmtDate, thumbUrl, type FeedRow } from "@/lib/api";
+import { ActiveFilters } from "./browse-tools";
 
 /**
  * The class and episode browser. Topic chips first (that is how people look for a class),
@@ -84,6 +85,14 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
           <Link to="/search" search={{ q: q.trim(), only: route === "/classes" ? "class" : "captains" }}>Search inside {route === "/classes" ? "class" : "episode"} notes →</Link>
           <span> Full text across this collection; browse filters do not apply.</span>
         </p>
+        <ActiveFilters items={[
+          ...(["q", "book", "teacher", "year"] as const).flatMap((key) => search[key] ? [{
+            id: key,
+            label: `${{ q: "Search", book: "Book", teacher: "Teacher", year: "Year" }[key]}: ${search[key]}`,
+            remove: () => { if (key === "q") setQ(""); set({ [key]: undefined }); },
+          }] : []),
+          ...picked.map((topic) => ({ id: `topic-${topic}`, label: `Topic: ${label.get(topic) ?? topic}`, remove: () => toggleTopic(topic) })),
+        ]} onClear={() => { setQ(""); set({ q: undefined, book: undefined, teacher: undefined, year: undefined, topic: undefined }); }} />
         {topicCounts.length ? (
           <div className="browse__topics" role="group" aria-label="Topics">
             {shownTopics.map(([t, n]) => (

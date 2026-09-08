@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { api } from "@/lib/api";
+import { Breadcrumbs } from "@/components/site/browse-tools";
 
 export const Route = createFileRoute("/law/$part/")({
   loader: async ({ params }) => {
@@ -18,6 +19,7 @@ function PartPage() {
   const laws = part.sections.reduce((a, s) => a + s.laws, 0);
   return (
     <Page>
+      <Breadcrumbs items={[{ label: "The Law", to: "/law" }, { label: part.title }]} />
       <Kicker>The Law · Part {part.n}</Kicker>
       <h1 className="cj-h1">{part.title}</h1>
       <p className="cj-lede">{part.sections.length} sections, {laws} laws.</p>

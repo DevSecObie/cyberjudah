@@ -5,6 +5,7 @@ import { RefCards } from "@/components/site/ref-card";
 import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
+import { Breadcrumbs } from "@/components/site/browse-tools";
 
 export const Route = createFileRoute("/law/$part/$section")({
   loader: async ({ params }) => {
@@ -29,6 +30,7 @@ function SectionPage() {
   }, [section.id]);
   return (
     <Page>
+      <Breadcrumbs items={[{ label: "The Law", to: "/law" }, { label: section.part.title, to: section.part.url }, { label: `${section.id} ${section.title}` }]} />
       <div className="note-head">
         <Kicker><Link to={section.part.url as never} style={{ color: "inherit" }}>Part {section.part.n}: {section.part.title}</Link></Kicker>
         <h1 className="cj-h1"><span className="cj-mono law-h1__id">{section.id}</span> {section.title}</h1>

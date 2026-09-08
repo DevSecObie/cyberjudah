@@ -4,6 +4,7 @@ import { RefCards } from "@/components/site/ref-card";
 import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
+import { Breadcrumbs } from "@/components/site/browse-tools";
 
 export const Route = createFileRoute("/precepts/$slug")({
   loader: async ({ params }) => {
@@ -22,6 +23,7 @@ function PreceptPage() {
   const books = [...new Set(p.refs.map((r) => r.book))];
   return (
     <Page>
+      <Breadcrumbs items={[{ label: "Precepts", to: "/precepts" }, { label: p.title }]} />
       <div className="note-head">
         <Kicker>Precept</Kicker>
         <h1 className="cj-h1">{p.title}</h1>
