@@ -13,3 +13,4 @@
 /teachers.tsv
 __pycache__/
 .DS_Store
+.harvest-raw/

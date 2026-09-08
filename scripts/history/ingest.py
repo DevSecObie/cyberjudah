@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Turn a YouTube caption file into a verbatim transcript record for the vault.
 
-    python3 scripts/history/ingest.py <caption file> --id VIDEOID --title "..." --date YYYY-MM-DD --duration SECONDS
+    python3 scripts/history/ingest.py <caption file> --id VIDEOID --title "..." --date YYYY-MM-DD --duration SECONDS [--feed history|classes|captains]
 
 Accepts YouTube's json3 caption format (yt-dlp --sub-format json3) or the transcriptAPI json
-({"transcript":[{"text","start","duration"}]}). Writes history/transcripts/<VIDEOID>.json:
+({"transcript":[{"text","start","duration"}]}). Writes <feed dir>/transcripts/<VIDEOID>.json
+(history/, blog/ for the Sabbath classes, captains/); the feed defaults to history:
 
     {"videoId", "title", "episode", "date", "duration", "start", "segments": [[seconds, text], ...]}
 
@@ -15,6 +16,7 @@ the countdown before it are skipped when the transcript is read on the site).
 import argparse, json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+FEEDS = {"history": "history", "classes": "blog", "captains": "captains"}
 OUT = os.path.join(ROOT, "history", "transcripts")
 NOISE = re.compile(r"\[(music|applause|laughter|inaudible|__)\]|\b(heat\.?\s*)+$", re.I)
 
@@ -51,6 +53,8 @@ def clean_title(raw):
     """'OUR HIDDEN HISTORY | THE PROPHET AND THE FOURTH BEAST PT 2 EP 206' -> 'The Prophet and the Fourth Beast Pt 2'."""
     t = re.sub(r"\(previously aired\)", "", raw, flags=re.I)
     t = re.sub(r"^\s*(our hidden history|ohh)\s*[|:-]\s*", "", t, flags=re.I)
+    t = re.sub(r"\s*(\|\||[|:-])\s*15 minutes? w/?\s*(the )?captains.*$", "", t, flags=re.I)
+    t = re.sub(r"\s*#\w+", "", t)
     t = re.sub(r"\s*[|:-]?\s*\bep(?:isode)?\.?\s*\d+\b\s*$", "", t, flags=re.I)
     t = re.sub(r"\s+", " ", t).strip()
     if t == t.upper():
@@ -76,10 +80,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("caption"); ap.add_argument("--id", required=True); ap.add_argument("--title", required=True)
     ap.add_argument("--date", default=None); ap.add_argument("--duration", type=float, default=None); ap.add_argument("--views", type=int, default=None)
+    ap.add_argument("--feed", default="history", choices=sorted(FEEDS))
     a = ap.parse_args()
+    global OUT
+    OUT = os.path.join(ROOT, FEEDS[a.feed], "transcripts")
     segs = load(a.caption)
     ep = episode_number(a.title)
-    rec = {"videoId": a.id, "title": a.title.strip(), "cleanTitle": clean_title(a.title), "episode": ep, "slug": episode_slug(a.title, ep, a.date), "date": a.date, "duration": a.duration, "views": a.views,
+    rec = {"feed": a.feed, "videoId": a.id, "title": a.title.strip(), "cleanTitle": clean_title(a.title), "episode": ep, "slug": episode_slug(a.title, ep, a.date), "date": a.date, "duration": a.duration, "views": a.views,
            "start": speech_start(segs), "words": sum(len(s[1].split()) for s in segs), "segments": segs}
     os.makedirs(OUT, exist_ok=True)
     p = os.path.join(OUT, f"{a.id}.json")
