@@ -2094,3 +2094,4 @@ a.chip { text-decoration: none; }
 .tag:hover, .tag--active { color: var(--color-cyan); }
 .rail-card__media { aspect-ratio: 16 / 9; background: var(--color-hair); overflow: hidden; }
 .rail-card__media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hit--loose a { opacity: 0.72; }

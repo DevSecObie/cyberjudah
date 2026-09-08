@@ -1,0 +1,85 @@
+import { createServerFn } from "@tanstack/react-start";
+
+/**
+ * Library search, server-side against the FTS5 table in D1 (search_docs, loaded from the
+ * engine's search.sql on every publish). Phrases in quotes match exactly; bare words must
+ * all appear; when that finds little, a looser "any of these words" pass fills in, marked so
+ * the page can say so. Results come back per kind, ranked by bm25 with the title weighted.
+ */
+export type SearchHit = { kind: string; title: string; url: string; sub: string; snippet: string; loose?: boolean };
+export type SearchResult =
+  | { ok: true; q: string; mode: "strict" | "loose" | "mixed"; counts: Record<string, number>; hits: SearchHit[]; ms: number }
+  | { ok: false; reason: string };
+
+export const KINDS = ["verse", "law", "precept", "case", "study", "class", "captains", "encyclopedia"] as const;
+
+/** Turn what a person typed into an FTS5 expression: quoted phrases stay phrases, the rest are terms. */
+export function parseQuery(q: string): { phrases: string[]; terms: string[] } {
+  const phrases: string[] = [];
+  const rest = q.replace(/"([^"]+)"/g, (_m, p: string) => { const t = tokens(p); if (t.length) phrases.push(t.join(" ")); return " "; });
+  return { phrases, terms: tokens(rest) };
+}
+const STOP = new Set(["and", "or", "not", "the", "a", "of"]);
+const tokens = (s: string) => s.toLowerCase().replace(/[^\p{L}\p{N}' ]+/gu, " ").split(/\s+/).map((t) => t.replace(/^'+|'+$/g, "")).filter((t) => t.length > 0 && !STOP.has(t));
+const quote = (t: string) => `"${t.replace(/"/g, '""')}"`;
+
+export function ftsExpr(p: { phrases: string[]; terms: string[] }, join: "AND" | "OR"): string {
+  return [...p.phrases.map(quote), ...p.terms.map(quote)].join(` ${join} `);
+}
+
+type Row = { kind: string; title: string; url: string; sub: string; snippet: string };
+
+async function runSearch(q: string, only: string | undefined, limit: number): Promise<SearchResult> {
+  const t0 = Date.now();
+  let db: D1Database | undefined;
+  try {
+    const cf = await import("cloudflare:workers");
+    db = cf.env.DB;
+  } catch { /* not running on Workers */ }
+  if (!db) return { ok: false, reason: "no-db" };
+  const parsed = parseQuery(q);
+  if (!parsed.phrases.length && !parsed.terms.length) return { ok: true, q, mode: "strict", counts: {}, hits: [], ms: 0 };
+  const strict = ftsExpr(parsed, "AND");
+  const loose = parsed.terms.length + parsed.phrases.length > 1 ? ftsExpr(parsed, "OR") : null;
+  const kinds = only && (KINDS as readonly string[]).includes(only) ? [only] : [...KINDS];
+  // Columns: kind, title, url, sub, text, book, chapter. Title matches count four times a body match.
+  const rank = "bm25(search_docs, 0, 4.0, 0, 0, 1.0, 0, 0)";
+  const select = `SELECT kind, title, url, sub, snippet(search_docs, 4, '', '', '…', 18) AS snippet FROM search_docs WHERE search_docs MATCH ?1 AND kind = ?2 ORDER BY ${rank} LIMIT ?3`;
+  const countSql = "SELECT kind, count(*) AS n FROM search_docs WHERE search_docs MATCH ?1 GROUP BY kind";
+  try {
+    const countRows = await db.prepare(countSql).bind(strict).all<{ kind: string; n: number }>();
+    const counts: Record<string, number> = {};
+    for (const r of countRows.results) if (kinds.includes(r.kind)) counts[r.kind] = r.n;
+    const stmts = kinds.filter((k) => counts[k]).map((k) => db!.prepare(select).bind(strict, k, limit));
+    let hits = dedupe(stmts.length ? (await db.batch<Row>(stmts)).flatMap((r) => r.results) : []);
+    let mode: "strict" | "loose" | "mixed" = "strict";
+    const total = Object.values(counts).reduce((a, b) => a + b, 0);
+    if (loose && total < 8) {
+      const looseCounts = await db.prepare(countSql).bind(loose).all<{ kind: string; n: number }>();
+      const lstmts = kinds.filter((k) => looseCounts.results.some((r) => r.kind === k)).map((k) => db!.prepare(select).bind(loose, k, limit));
+      const seen = new Set(hits.map((h) => `${h.kind}|${h.url}`));
+      const extra = dedupe(lstmts.length ? (await db.batch<Row>(lstmts)).flatMap((r) => r.results) : []).filter((h) => !seen.has(`${h.kind}|${h.url}`)).map((h) => ({ ...h, loose: true }));
+      for (const r of looseCounts.results) if (kinds.includes(r.kind)) counts[r.kind] = Math.max(counts[r.kind] ?? 0, r.n);
+      hits = [...hits, ...extra];
+      mode = total ? "mixed" : "loose";
+    }
+    return { ok: true, q, mode, counts, hits, ms: Date.now() - t0 };
+  } catch (e) {
+    return { ok: false, reason: e instanceof Error ? e.message : String(e) };
+  }
+}
+
+function dedupe(rows: Row[]): SearchHit[] {
+  const seen = new Set<string>();
+  const out: SearchHit[] = [];
+  for (const r of rows) { const k = `${r.kind}|${r.url}`; if (seen.has(k)) continue; seen.add(k); out.push(r); }
+  return out;
+}
+
+export const searchLibrary = createServerFn({ method: "GET" })
+  .inputValidator((input: { q: string; only?: string; limit?: number }) => ({
+    q: String(input.q ?? "").slice(0, 200),
+    only: typeof input.only === "string" && input.only ? input.only : undefined,
+    limit: Math.min(Math.max(Number(input.limit) || 8, 1), 300),
+  }))
+  .handler(async ({ data }) => runSearch(data.q, data.only, data.limit));

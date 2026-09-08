@@ -389,6 +389,54 @@ write(path.join(OUT, "llms.txt"), [
   fs.rmSync(dbPath);
 }
 
+/* ---------------- search.sql: the search index for Cloudflare D1 ---------------- */
+// One FTS5 table the site queries server-side. Every verse is a row; notes are split at
+// headings and paragraph breaks into pieces of a few KB so a statement stays small and a
+// snippet lands near the match; laws, precepts and cases are one row each.
+{
+  const q = (s) => `'${String(s).replace(/'/g, "''")}'`;
+  const rows = [];
+  const add = (kind, title, url, sub, text, meta = {}) => { if (text && text.trim()) rows.push([kind, title, url, sub ?? "", text.replace(/\s+/g, " ").trim(), meta.book ?? "", meta.chapter ?? 0]); };
+  for (const b of BOOKS) for (const [c, vs] of Object.entries(bible[b])) vs.forEach((t, i) => { if (t) add("verse", `${b} ${c}:${i + 1}`, `/bible/${bookSlug[b]}/${c}#v${i + 1}`, "", t, { book: b, chapter: +c }); });
+  const CHUNK = 5000;
+  for (const n of notes) {
+    // Split the markdown at headings first, then pack paragraphs up to CHUNK characters.
+    let buf = "", head = "";
+    const flush = () => { if (buf.trim()) add(n.kind, n.title, n.url, head, buf); buf = ""; };
+    for (const part of n.body.split(/\n(?=#{2,3} )/)) {
+      const hm = part.match(/^#{2,3} (.+)/);
+      if (hm) { flush(); head = plain(hm[1]); }
+      for (const raw of part.replace(/^#{2,3} .+\n?/, "").split(/\n{2,}/)) {
+        const para = plain(raw);
+        if (!para) continue;
+        if (buf.length + para.length > CHUNK && buf) flush();
+        buf += (buf ? " " : "") + para;
+      }
+    }
+    flush();
+  }
+  for (const p of handbook.parts) for (const sec of p.sections) for (const e of sec.entries) add("law", `${sec.id}.${e.n} ${e.text}`, `${sectionUrl(sec)}#${sec.id}.${e.n}`, `${sec.id} ${sec.title}`, `${e.text} ${e.citation ?? ""}`);
+  for (const t of sortedPrecepts) add("precept", t.title, preceptUrl(t), `${t.refs.length} passages`, `${t.title} ${t.refs.map((r) => `${r.book} ${r.chapter}${r.verses ? ":" + r.verses : ""}`).join(", ")}`);
+  for (const c of cases.cases) add("case", c.name, caseUrl(c), `${c.era} · ${VERDICT[c.verdict] ?? c.verdict}`, `${c.charge}. ${c.summary} ${c.offense} ${c.judgment} ${c.themes.join(" ")}`);
+  const out = [
+    "DROP TABLE IF EXISTS search_docs;",
+    "CREATE VIRTUAL TABLE search_docs USING fts5(kind UNINDEXED, title, url UNINDEXED, sub UNINDEXED, text, book UNINDEXED, chapter UNINDEXED, tokenize='porter unicode61');",
+  ];
+  // Statements stay under ~60 KB (D1 caps a statement's size), packing rows until then.
+  let stmt = [], size = 0;
+  const flushStmt = () => { if (stmt.length) out.push(`INSERT INTO search_docs(kind, title, url, sub, text, book, chapter) VALUES ${stmt.join(",")};`); stmt = []; size = 0; };
+  for (const r of rows) {
+    const v = `(${q(r[0])},${q(r[1])},${q(r[2])},${q(r[3])},${q(r[4])},${q(r[5])},${r[6]})`;
+    if (size + v.length > 60000) flushStmt();
+    stmt.push(v); size += v.length;
+  }
+  flushStmt();
+  out.push("DROP TABLE IF EXISTS search_meta;", "CREATE TABLE search_meta(k TEXT PRIMARY KEY, v TEXT);", `INSERT INTO search_meta VALUES ('built', ${q(new Date().toISOString())}), ('rows', ${rows.length});`);
+  const sql = out.join("\n") + "\n";
+  fs.writeFileSync(path.join(OUT, "search.sql.gz"), zlib.gzipSync(sql, { level: 9 }));
+  console.error(`search.sql: ${rows.length} rows, ${(sql.length / 1048576).toFixed(1)} MB`);
+}
+
 /* ---------------- Pagefind: a static full-text index ---------------- */
 {
   const records = [];
