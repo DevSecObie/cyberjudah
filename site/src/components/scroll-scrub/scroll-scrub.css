@@ -282,3 +282,10 @@
 }
 .lion-journey .scroll-scrub__media { display: none; }
 .lion-film { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.scroll-scrub { overflow-x: clip; }
+@media (max-width: 600px) {
+  .scroll-scrub__route { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); overflow: hidden; gap: .15rem; }
+  .scroll-scrub__route-button { min-width: 0; padding: .5rem .15rem; font-size: .7rem; line-height: 1.3; }
+  .scroll-scrub__copy::before { inset-inline: 0; }
+  .scroll-scrub__chapter-pin { padding-top: 5rem; }
+}

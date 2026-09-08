@@ -211,6 +211,10 @@ function DocView({ c, books, from, onBack, onGo, onStudy }: { c: Citation; books
               {doc.c.summary ? <p>{doc.c.summary}</p> : null}
               {doc.c.offense ? <p><strong>Offense.</strong> {doc.c.offense}</p> : null}
               {doc.c.judgment ? <p><strong>{doc.c.kind === "blessing" ? "Blessing." : "Judgment."}</strong> {doc.c.judgment}</p> : null}
+              {doc.c.laws.length > 0 && <section aria-label={doc.c.kind === "blessing" ? "Laws kept" : "Laws broken"}>
+                <h4>{doc.c.kind === "blessing" ? "Laws kept" : "Laws broken"}</h4>
+                <ul>{(doc.c.lawsResolved ?? doc.c.laws.map(id => ({ id, text: "", url: null }))).map(law => <li key={law.id}>{law.url ? <a href={law.url}>{law.id}{law.text ? ` · ${law.text}` : ""}</a> : law.id}</li>)}</ul>
+              </section>}
               {doc.c.refs.length ? (
                 <p>
                   <strong>Scripture.</strong>{" "}
@@ -256,4 +260,3 @@ function DocView({ c, books, from, onBack, onGo, onStudy }: { c: Citation; books
     </div>
   );
 }
-

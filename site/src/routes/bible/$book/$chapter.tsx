@@ -1,4 +1,4 @@
-import { createFileRoute, Link, notFound, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, Link, notFound, useNavigate, useLocation } from "@tanstack/react-router";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Dialog } from "radix-ui";
 import { Group, Panel, Separator } from "react-resizable-panels";
@@ -63,6 +63,7 @@ function useReaderSize(): [Size, () => void] {
 function ChapterPage() {
   const { books, book, chapter, cited } = Route.useLoaderData();
   const search = Route.useSearch();
+  const hash = useLocation({ select: location => location.hash });
   const navigate = useNavigate();
   const ch = chapter.chapter;
   const prev = ch > 1 ? ch - 1 : null;
@@ -74,8 +75,20 @@ function ChapterPage() {
   const [size, cycleSize] = useReaderSize();
   const [sheet, setSheet] = useState(false);
   const [wide, setWide] = useState(true);
-  const selected = useMemo(() => verseNumbers(search.v), [search.v]);
+  const selected = useMemo(() => verseNumbers(search.v ?? (/^v\d+$/.test(hash) ? hash.slice(1) : undefined)).filter(v => chapter.verses.some(row => row.verse === v)), [search.v, hash, chapter.verses]);
   const lastPick = useRef<number | null>(null);
+  useEffect(() => { lastPick.current = null; }, [book.slug, ch]);
+  // Re-land after the desktop/mobile tree switches during hydration.
+  useEffect(() => {
+    if (!/^v\d+$/.test(hash)) return;
+    let cancelled = false;
+    let timer = 0;
+    void document.fonts.ready.then(() => {
+      if (cancelled) return;
+      timer = window.setTimeout(() => document.getElementById(hash)?.scrollIntoView({ block: "start", behavior: "instant" }), 150);
+    });
+    return () => { cancelled = true; clearTimeout(timer); };
+  }, [hash, wide, book.slug, ch]);
 
   useEffect(() => {
     const mq = window.matchMedia("(min-width: 1100px)");
@@ -89,7 +102,7 @@ function ChapterPage() {
   const setStudy = (study: string | undefined) =>
     navigate({ to: "/bible/$book/$chapter", params: { book: book.slug, chapter: String(ch) }, search: { ...search, study }, replace: true, resetScroll: false });
   const setVerses = (list: number[]) =>
-    navigate({ to: "/bible/$book/$chapter", params: { book: book.slug, chapter: String(ch) }, search: { ...search, v: list.length ? compressVerses(list) : undefined, study: undefined }, replace: true, resetScroll: false });
+    navigate({ to: "/bible/$book/$chapter", params: { book: book.slug, chapter: String(ch) }, hash: "", search: { ...search, v: list.length ? compressVerses(list) : undefined, study: undefined }, replace: true, resetScroll: false });
   // Click selects a verse, click again clears it, shift-click extends the run, like a Bible app.
   const pick = (v: number, shift: boolean) => {
     if (shift && lastPick.current !== null && lastPick.current !== v) {
@@ -109,6 +122,7 @@ function ChapterPage() {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const t = e.target as HTMLElement | null;
+      if (e.defaultPrevented || t?.closest('button, a, [role="tab"], [role="separator"], [role="dialog"]')) return;
       if (t && (t.tagName === "INPUT" || t.tagName === "SELECT" || t.tagName === "TEXTAREA" || t.isContentEditable)) return;
       if (e.altKey || e.metaKey || e.ctrlKey) return;
       if (e.key === "ArrowRight" && (next || nextBook)) navigate({ to: "/bible/$book/$chapter", params: next ? { book: book.slug, chapter: String(next) } : { book: nextBook!.slug, chapter: "1" }, search: { study: search.study } });
@@ -147,15 +161,16 @@ function ChapterPage() {
       {bar}
       <p className="cj-kicker">{book.testament}</p>
       <h1 className="cj-h1">{book.book} {ch}</h1>
+      <p className="reader__hint">Select a verse number to see related study material. <span>Shift-click another number to select a range.</span></p>
       <div className="verses">
         {chapter.verses.map((v) => {
           const n = counts.get(v.verse) ?? 0;
           const active = selected.includes(v.verse);
           return (
             <p key={v.verse} className="verse" id={`v${v.verse}`} data-cited={n ? "" : undefined} data-active={active ? "" : undefined} onClick={(e) => { if (window.getSelection()?.toString()) return; pick(v.verse, e.shiftKey); }}>
-              <a className="verse__n" href={`#v${v.verse}`} onClick={(e) => { e.preventDefault(); e.stopPropagation(); pick(v.verse, e.shiftKey); if (!wide && !active && n) setSheet(true); }} title={n ? `${n} ${n === 1 ? "citation" : "citations"} name this verse` : undefined}>
+              <button type="button" className="verse__n" aria-label={`Verse ${v.verse}${n ? `, ${n} citations` : ""}`} aria-pressed={active} onClick={(e) => { e.stopPropagation(); pick(v.verse, e.shiftKey); if (!wide && !active && n) setSheet(true); }} title={n ? `${n} ${n === 1 ? "citation" : "citations"} name this verse` : undefined}>
                 {v.verse}
-              </a>
+              </button>
               {v.text}
               {n ? <span className="verse__mark" aria-hidden="true">{n}</span> : null}
             </p>
