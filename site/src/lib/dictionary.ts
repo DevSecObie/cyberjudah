@@ -1,4 +1,5 @@
 import { createServerFn } from '@tanstack/react-start';
+import { dictionaryRefs } from './dictionary-refs.mjs';
 
 // Loaded only inside the server handler: visitors receive a bounded result page,
 // not the complete dictionary in their JavaScript bundle.
@@ -11,7 +12,9 @@ export const lookupDictionary = createServerFn({ method: 'GET' })
   }))
   .handler(async ({ data }) => {
     const { default: entries } = await import('../data/dictionary/easton.json');
-    const entry = data.slug ? entries.find(e => e.slug === data.slug) ?? null : null;
+    const rawEntry = data.slug ? entries.find(e => e.slug === data.slug) ?? null : null;
+    const { default: bounds } = await import('../data/dictionary/verse-bounds.json');
+    const entry = rawEntry ? { ...rawEntry, paragraphs: rawEntry.definitions.map(p => dictionaryRefs(p, bounds)) } : null;
     const matches = entries.filter(e => (!data.letter || e.term.toUpperCase().startsWith(data.letter)) && (!data.q || e.term.toLowerCase().includes(data.q.toLowerCase())));
     const pages = Math.max(1, Math.ceil(matches.length / 60));
     const page = Math.min(data.page, pages);
