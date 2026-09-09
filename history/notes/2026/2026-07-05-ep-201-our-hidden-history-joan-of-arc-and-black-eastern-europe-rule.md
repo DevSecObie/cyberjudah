@@ -1,0 +1,841 @@
+---
+title: "Our Hidden History | Joan of Arc and Black Eastern Europe Rule"
+slug: "2026/2026-07-05-ep-201-our-hidden-history-joan-of-arc-and-black-eastern-europe-rule"
+date: "2026-07-05"
+episode: 201
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2026-07-05 · with an officer of IUIC Philadelphia"
+tags: ["Our Hidden History", "edom-esau"]
+---
+
+<p class="taught">Our Hidden History · 2026-07-05 · Deacon Eythan, with an officer of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [Deut 28](/bible/deuteronomy/28) · [Deut 22](/bible/deuteronomy/22) · [Zeph 1](/bible/zephaniah/1) · [2 Kgs 17](/bible/2-kings/17) · [2 Macc 4](/bible/2-maccabees/4) · [Rom 2](/bible/romans/2) · [1 Chr 5](/bible/1-chronicles/5) · [Amos 7](/bible/amos/7) · [Judith 3](/bible/judith/3) · [2 Macc 12](/bible/2-maccabees/12) · [Josh 17](/bible/joshua/17) · [1 Macc 8](/bible/1-maccabees/8) · [1 Macc 1](/bible/1-maccabees/1) · [Col 3](/bible/colossians/3) · [Num 1](/bible/numbers/1) · [2 Tim 4](/bible/2-timothy/4)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="RqV7aovY3nw"></div>
+
+## Introduction
+
+*[[5:32](https://www.youtube.com/watch?v=RqV7aovY3nw&t=332s)]* Yo, we are back. We are back. I'm excited. We are coming to an end of us ruling over Europe. It's coming to a close soon. So I did tell y'all I might go into the twelve tribes on the other side of the world, but I don't know, man, that's a huge undertaking. But hey, you are now tuned into Our Hidden History Radio Show. It's episode 201. Damn.
+
+So we just going to jump right into it. I got a lot to cover, but I did say to y'all on the 200th episode that I would go into the twelve tribes, aside from the Western Hemisphere, into the Eastern, but there's so much more to add to that list. That list is an abbreviation. That's not even all of it. We're adding as we go, as we research and study and travel. We've come across, for the most part, personal accounts from the people that live in these areas that we've spoken to, or who are in our congregation, passed on to them through oral tradition as well. We go off of that, along with the books that substantiate those oral traditions, and scriptures as well. So going into that will be a huge undertaking. That may have to be a collective effort. We already, Officer Shahath's like, yeah, man, we should just work together. I'm like, yeah, we'll see what happens.
+
+*[[7:01](https://www.youtube.com/watch?v=RqV7aovY3nw&t=421s)]* But I might touch on the fourth beast. The fourth beast, the seven heads, ten horns, and history surrounding that. There's so much history behind that alone, and that's just all Bible. I don't really got to go anywhere else. That's just all scripture. So I might go into that while I'm working on the twelve tribes on the other side. Like a buffer, an interlude. A brief period of time, event or performance that occurs between longer events or processes. Interlude. I was right. So in the meantime, let's just jump into it. Get me Whence Came the Black Irish, page 35. We're going to hurry up and run through this book real fast. We spent a lot of time in this book and I'm getting exhausted. Because we were touching on the black Irish being shipped off to the Caribbean islands. I saw a lot of Benjamin over there got a lot of Irish last names, Wallace, all them last names.
+
+## Readings and Scriptures
+
+
+<div class="reading">
+
+Reading from *Whence Came the Black Irish*, page 35, Richard Blome on Barbados in 1678 · read by an officer  *[[8:19](https://www.youtube.com/watch?v=RqV7aovY3nw&t=499s)]*
+
+> Richard Blome, writing as early as 1678, tells us concerning Barbados: The inhabitants of this isle may be ranged under three heads or sorts, to wit, masters, which are English, Scotch and Irish,
+
+- Richard Blome. We have this book. This book is actually published in 1678. Those are the white ones.
+
+> with some few Dutch, French and Jews; Christian servants; and Negro slaves; and these three sorts are exceeding numerous, for according to a calculation not long since made, the masters and servants did amount to about 50,000, and the Negroes to about double the number.
+
+- Jews: Israelites. A hundred thousand.
+
+> The figures are probably exaggerated, as Blome is writing from hearsay and not from personal observation. Thomas Warner secured from Charles I on September 13, 1625, a commission as governor of the English islands in the Caribbean Sea, of which Barbados and St. Christopher were for a time to be the principal ones.
+
+- Next, give me page 39. So we got a lot of Negro slaves, going back to when the black Irish are brought over there, and the white Irish, pretty much, and Scots were set over them.
+
+</div>
+
+<div class="reading">
+
+Reading from *Whence Came the Black Irish*, page 39, Father Stretch and his countrymen · read by an officer  *[[9:54](https://www.youtube.com/watch?v=RqV7aovY3nw&t=594s)]*
+
+> The priest referred to was the Reverend John Stretch, S.J., a native of Limerick in Ireland, who labored for a time in the West Indies. But Williamson is in error in assuming that Father Stretch was alone on St. Christopher; as we have seen, he found there a regularly established Jesuit community with Father Destriche as superior. What does seem probable is that Father Stretch was the first Irish Jesuit to visit his countrymen in the land of their bondage,
+
+- In their land of bondage. To visit his countrymen in their land of bondage. So this man here must have been Jacob, visiting his countrymen in their land of bondage. Their land. That's what Ireland was for us: our land of bondage.
+
+> and his welcome must naturally have attracted the attention of the English authorities. Be that as it may, when Father Stretch reached the island of Montserrat, despite the fact that it was under English rule, he found there what was for all practical purposes an Irish Catholic settlement.
+
+- Go to page 44. So these that came out the land of bondage, pretty much.
+
+</div>
+
+<div class="reading">
+
+Reading from *Whence Came the Black Irish*, page 44, Griffith Hughes on the mortality of the Negro slaves and the white servants · read by an officer  *[[11:25](https://www.youtube.com/watch?v=RqV7aovY3nw&t=685s)]*
+
+> Griffith Hughes, and his very name is suggestive, despite the fact that he was rector of St. Lucy's Anglican Church in Barbados,
+
+- A lot of Benjamin is Anglican. A lot of them come from the Anglican church. I think Malachiah came from that background too. They went to Anglican school, church.
+
+> writing in 1750, tells us concerning the Negro slaves even in his day: We are obliged, in order to keep up a necessary number, to have a yearly supply from Africa; the hard labor and often the want of necessaries which these unhappy creatures are obliged to undergo destroy a greater number than are bred here. If this was true of the Negro, inured as he was to hardship and privations, what must have been the mortality among the white indentured servants, who were frequently of gentle origin, and whose lot in bondage was far more arduous and exhausting than that of the Negro slaves.
+
+- Yeah, but they got freedom. They got to let go. So regardless of their bondage being not as worse, they got to go free, them white ones. Because remember, they were shipping us off, and they also shipped off a lot of the white prisoners and inmates and all that stuff. So a lot of them were granted all kinds of privileges; the white folks were granted indentured servitude. So what the authors do is they try to lump them all together: the black slaves and indentured servants are all slaves together. The white indentured servants pretty much became our masters, and if their work was harder than ours, they got to go free. We were not allowed to go free.
+
+> Such then was the fate of the Irish victims of Cromwellian brutality, whether we wish to call them slaves or designate them by the more euphemistic name of bond servants.
+
+- The Irish victims, the black Irish victims. Watch. Bond servants. Deuteronomy 28. Cromwell. You remember Oliver Cromwell went on a rampage and started massacring a lot of the black Irish out the land and shipped us out of there. And then we were also told we can't come back. He was like, nah, they can't come back. Don't bring them back here. Let them stay there. That was ten years. He got that ten years of power. He went crazy, bro. He killed like a quarter of us, a quarter of our population out of there, and put his own people, his military, in the lands that the black Irish and Scots had originally. That's what he did. Deuteronomy chapter 28, 68.
+
+</div>
+
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[13:33](https://www.youtube.com/watch?v=RqV7aovY3nw&t=813s)]*
+
+> <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
+
+- Read again. Yeah, the ships from Ireland. The ships from Scotland, and brought us to the Caribbean. And there ye shall be sold unto your enemies for bondmen and bondwomen: for bond servants. And no man shall buy you: no man can redeem you except the Lord himself. No man can redeem us from that condition as a nation. That's all I want. Let's go back. Jump to page 48, 49, to Jamaica.
+
+<div class="reading">
+
+Reading from *Whence Came the Black Irish*, pages 48 to 49, Cromwell's expedition to Jamaica · read by an officer  *[[15:00](https://www.youtube.com/watch?v=RqV7aovY3nw&t=900s)]*
+
+> In concluding our chapter on the Irish in Barbados, we had occasion to refer in passing to the buccaneers. It is interesting, then, to find Agnes M. Whitson opening her foreword to The Constitutional Development of Jamaica with the observation: The conquest of Jamaica was the first of the great buccaneering expeditions. In a time of peace between England and Spain, Cromwell secretly prepared a naval and military force and sent it out to gain an interest in that part of the West Indies in the possession of the Spaniard.
+
+- Right. So Cromwell went to war against the Spaniards to gain those islands into British rule.
+
+> From the original manuscript in the Boston College Library, we find Admiral Penn reporting from Barbados under date of March 17, 1655, in connection with the land forces: Our new levies, whose number, besides two troops of horse, I suppose are above 3,000. And C. H. Firth, who edited the narrative of General Venables, who was the co-leader of the expedition with Admiral Penn, says: At Barbados between 3,000 and 4,000 men were raised, of whom Lieutenant Colonel Buller gives the following account: Being well settled in our respective quarters, we had command given us to entertain all men that were willing to engage in the present expedition; accordingly we obeyed. But the inhabitants finding themselves much grieved, and were not without cause, they complained that they should be utterly ruined in case their servants were taken from them, they being their livelihood. Upon this complaint our grandees, I mean the commissioners, ordered that no officer whatsoever, upon pain of loss of place, should detain any man's servant that had above nine months to serve, and for the future to entertain none other but free men and such servants as came within the aforementioned limitation.
+
+- That's all for, they're allowed to go back home, but we were not.
+
+> All which was done intentionally to complete every regiment up to a thousand before we marched from the island. The doing this hath much injured poor people even to their undoing, and prejudiced many of the rich, some losing ten servants, some fifteen, some more, some less, none escaping us.
+
+- Go to 53. What was read earlier was that they were not allowed to go, because if they left, the people that had them as slaves couldn't live. That was their livelihood. Keep them Negroes there. That was the point of that last page.
+
+</div>
+
+<div class="reading">
+
+Reading from *Whence Came the Black Irish*, pages 53 to 55, the Irish in Jamaica · read by an officer  *[[17:26](https://www.youtube.com/watch?v=RqV7aovY3nw&t=1046s)]*
+
+> When then we find Major Robert Sedgwick, who reached Jamaica on October 1st, 1655, and who immediately assumed charge as commissioner, reporting that the soldiers left there had been principally drawn from the island of Barbados, we are forced to conclude that a really considerable number of Irish-born, or at least of Irish descent, must have found their way to Jamaica among the earliest settlers under Cromwell.
+
+- These are the black Irish that lived there from the beginning.
+
+> This view is strengthened by what John Poyer writes about Jamaica: The conquest of that island, while it opened a wider field for speculation and the exercise of industry, served to drain the population of Barbados in no inconsiderable degree. Allured by the prospects of greater advantages in a theatre so much more extensive, many opulent planters and other adventurers removed to Jamaica, where land could be procured in greater plenty, cheaper, and with less difficulty. At the start, the Irish population in Jamaica must have been pretty well restricted to the poor class,
+
+- That's the black ones.
+
+> as we find but few suggestive names among the principal planters and settlers in Jamaica in 1663, eight years after the advent of the English to the island. The indications are that well over ten percent were of Irish extraction, and as we might naturally expect, to find the great bulk of the Irish among the non-owners of land.
+
+- Because they were slaves, working the land.
+
+> At that early date, we may justly argue that, even independent of the servant class, the Irish formed a large proportion of the Jamaica population at the time.
+
+- As slaves.
+
+> Of the bondsmen, Gardner writes that few ships arrived from England without some of this class on board, and that they were for the most part Irish. We may judge from the following statement of Arthur Granville Bradley: Jamaica was for some time in a disturbed condition. The Maroons in their mountain fastnesses were a constant danger.
+
+- Benjamin went, they rebelled. The slaves over there rebelled. They fought against the British.
+
+> The British military settlers required a firm hand, while the Catholic Irish prisoners, the unfortunate product of his Irish wars, shipped in batches to the West Indies, were not in a mood to exercise the franchise in a manner conducive to the peace and loyalty of a British colony. Indeed, these drafts may be debited to the wrong side of Cromwell's account in the matter of statesmanship. Idlers and vagabonds, too, in all parts of England and Scotland went in daily dread of being seized by the local authorities under Cromwell's orders and shipped to Jamaica, where for the most part, as white slaves, they had to perform work that only Negroes in that climate can accomplish with impunity.
+
+- That's us, shipped in batches. Go back, read it again: being seized by the local authorities. Because anyone who supported the crown, whether white or black, they were shipped off, but the blacks were told to stay there. But they got off; they were set free. They were indentured. We were bound. We were bound servants. The white slave servants were indentured. We were bound for that forever, not allowed to return. They were indentured, worked up their debts, whatever, and went back. We were told we couldn't go back. At least for a while.
+
+> Criminals from the gaols, as well as political offenders of all kinds, were shipped out to join the motley throng, among whom the death rate was of course prodigious. A great deal of outrage and cruelty, far beyond what Cromwell intended, was perpetrated by individuals exploiting the emigration movement under loose authority at the expense of objects of their personal dislike and vengeance.
+
+- See, criminals, that's them. Political offenders, who supported the black nobility, Gad. Prodigious: huge. The crimes, they do what they want to do.
+
+> That the bondage of the Irish servant in Jamaica was no whit lighter than what we have seen going on in Barbados is evidenced by the earliest legal documents in the island. In the first published collection of the laws of Jamaica, after the act appointing the number of the assembly, immediately follows an act for regulating servants, wherein the status of the indentured whites is considered in detail.
+
+- Watch this. They cared about regulating the servants' rights that were white, in detail. The black, they didn't care about them. So somebody say, oh, you had white servants and black. You did. But the white ones, they had law. Because remember, Cromwell's men didn't care. They mistreated everybody. They was like, no, you can't mistreat the white ones that way. Don't do that to them. The black ones, you don't care about. But the white ones, you don't do that to them. They had to regulate laws to make sure that the white servants were being regulated properly. They served their sentence and they go back home. Criminals, offenders, they can go back home. Them black ones, they stay there. Verse 29.
+
+- **Officer:** Hey D, also a lot of those white indentured servants that stayed, they were able to obtain what is called headrights. Headrights is when you had a slave. So those of us that became slaves, when you had a slave, you was able to get fifty acres of land for each slave that you owned. So they was able to obtain headrights. Even, you had some that had sixty; I read there was a guy, the Edomite, who had got 3,000 acres of land for having sixty slaves. They became free citizens through indentured service, and for every slave they got fifty acres of land.
+
+- **Deacon Eythan:** Wow. Like verse 29 it says, they can't be saved. Those were able to get saved, not us.
+
+</div>
+
+**[Deuteronomy 28:29](/bible/deuteronomy/28#v29)**  *[[24:30](https://www.youtube.com/watch?v=RqV7aovY3nw&t=1470s)]*
+
+> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
+
+- Oh God. No man shall buy you: same thing. No man shall redeem you or buy you. The white servants were redeemed. They got out of there. They passed laws to regulate laws on white servants, to not be mistreated. And it says the indentured whites is considered in detail. The blacks: no detail.
+
+<div class="reading">
+
+Reading from *Whence Came the Black Irish*, page 57, the act for regulating servants · read by an officer  *[[25:17](https://www.youtube.com/watch?v=RqV7aovY3nw&t=1517s)]*
+
+> The following points are worth considering: All servants shall have according to their contract and indenture. But where there is no contract or indenture, servants under eighteen years of age at their arrival in this island shall serve seven years, and above eighteen years of age shall serve four years, and all convicted felons for the time of their banishment. Any man servant marrying without the master's or mistress's consent shall serve two years for such offense.
+
+- This is regulations for white servants.
+
+> All contracts made with servants or slaves to be utterly void. All suits between servants and their masters or mistresses relating to their freedom shall be heard and determined by any two justices of the peace without any appeal.
+
+- **Officer:** Hey D, can I ask a question on that? So just going back up, you said this was for the indentured servants. This was for Esau. Because if we got caught trying to even sleep with them outside of our race, we was put to death.
+
+- **Deacon Eythan:** Put to death. Yeah.
+
+- **Officer:** So as the scripture says in Daniel 9:11, there is no evil that hath been done under the whole heaven that has been done unto Jerusalem. It doesn't matter whether you're reading about indentured servitude or not, because what happened to our people is biblically written; it's the most atrocious thing ever. That's the curses that God placed upon his people.
+
+- **Deacon Eythan:** Right. So this page here is basically giving you an explanation of the regulation of servants in detail. They don't have no details on the black slaves, because they were slaves. They didn't give a damn about them. Cromwell especially wanted the black Irish gone, eradicated out of existence. And for ten years he was successful in doing it. They say he killed a quarter of a million of us off. A lot of us. And gave his own kind our land. The military he used to kill us off, he put them in our lands over there in Ireland, and so they acquired it. All right, so we'll end on that.
+
+- Give me the clip. I want Coming to America real fast. Coming to America, they on a date looking for a wife, and his little sister said she's Joan of Arc. Because if we watch it, it is comedy, but there's some truth to the comedy. I don't watch the whole thing, just one part.
+
+</div>
+
+<div class="reading">
+
+Reading from the clip from *Coming to America*, the dates  *[[28:09](https://www.youtube.com/watch?v=RqV7aovY3nw&t=1689s)]*
+
+> I wish the devil. See, that's the problem. I can't find a man that can satisfy me. Now, some guys go an hour, hour and a half, that's it. A man's got to put in overtime for me to get off. I'm not interested in a man unless he drives a BMW. Well, you know, baby, I'm almost single. My husband's on death row. This is the first date Teresa and I have been on since the doctor separated us. I'm into the group thing. I was Joan of Arc in my former life.
+
+- That's all I want. So you watch that, and it's funny that there's some truth to it. So now give me the book I want, Saint Joan of Arc. The book I have is page four. I was Joan of Arc in my former life.
+
+- So this book right here, Sackville-West, Saint Joan of Arc, born January 6, 1412, burned as a heretic May 30th. She was a psychopath. She was a looney bird that people took seriously, and eventually they stopped taking her seriously and she got killed. And she died canonized. Let's go to page four. Zoom in. Read.
+
+</div>
+
+<div class="reading">
+
+Reading from *Saint Joan of Arc* by Vita Sackville-West, page 4, her description · read by an officer  *[[30:23](https://www.youtube.com/watch?v=RqV7aovY3nw&t=1823s)]*
+
+> If common sense was one of her outstanding and most valuable characteristics, as I believe it to have been, then at least we owe it to her memory never to romanticize her unduly, as she would never have wished to be romanticized.
+
+- The same way they romanticized King Arthur, pretty much.
+
+> There is enough romance and to spare in the facts of her life without inventing also the legend of the china shepherdess leaning on her crook. Joan was not made of china. Better and truer to see her prosaically, sensibly and logically, as she herself would have wished to be seen, without embellishment or false claim.
+
+- Prosaically. Okay, I have to order this.
+
+> Those who describe her, from either first or secondhand knowledge, give on the whole a consistent picture. Her hair, they say, was short and black;
+
+- Either first or secondhand account of Joan of Arc's descriptions we're reading about. She had short black hair.
+
+> her complexion dark and sunburnt, as might be expected.
+
+- So her hair was short and black and her complexion was dark and sunburnt, as might be expected. Why? Why would it be expected? Because the blacks were in this time ruling and living here.
+
+> The author of the first part of King Henry VI makes her refer to herself as black and swart;
+
+- Another black king. There's a whole line of black kings too. King Henry makes her refer to herself as black and swart. Swart mean black. You black and black. She was black on top of black. Blacky black.
+
+> wildly unreliable chronicler though he was, it is still quite likely that his information on this point was derived from some handed-down tradition.
+
+- So Joan of Arc was a black woman. A very, very, very black woman. So y'all now go to Wikipedia. Joan of Arc. Let's see what happened with Joan of Arc. Now, Joan of Arc, you sisters like, yay, Joan of Arc. You sisters is probably clapping it up. And this is good. Now remember she was black, right? Let's see where she's from.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, the article Joan of Arc, read off the screen  *[[32:40](https://www.youtube.com/watch?v=RqV7aovY3nw&t=1960s)]*
+
+> Joan of Arc, Jeanne d'Arc, 1412 to 30 May 1431, is a patron saint of France,
+
+- That's her name. Jeanne d'Arc. Of France. You see what she's wearing, right? Read what her name mean. Middle French: dark. Means dark. Joan is Joan Dark. Jane Dark. Black as hell. So Joan of Arc is Joan Dark. Not Joan of Arc, Joan Dark.
+
+> honored as a defender of the French nation for her role in the siege of Orléans and her insistence on the coronation of Charles VII of France during the Hundred Years' War. Stating that she acted under divine guidance, she became a military leader who gained recognition as a savior of France.
+
+- God was talking to her, right? So her name is Joan of Black, Joan Black, but she got a white, pale-faced demon on the picture here in armor. Who the hell is this? Look like Madonna with armor on. You don't find that suspicious? Game of Thrones. Look like a white walker with armor on. Brienne of Tarth.
+
+> Joan was born to a propertied peasant family in northeast France. In 1428, she requested to be taken to Charles VII, later testifying that she was guided by visions from the Archangel Michael, Saint Margaret and Saint Catherine to help him save France from English domination.
+
+- So she's French. But it said, as was to be expected, she was black. A black French woman. Because Jacob ruled France. He ruled France. Looney Tunes. Because it was Jacob fighting against Jacob. France and England were fighting back and forth. She was like, oh, I'm on your side. God is showing me visions, you're going to win. She's a looney bird.
+
+> After Charles's coronation, Joan participated in the unsuccessful siege of Paris in September 1429 and the failed siege of La Charité in November. Her role in these defeats reduced the court's faith in her.
+
+- No, she told him, you're going to win the battle. They lost. She was part of them losing. She was a liar. Supposed to be a nutcase.
+
+> In early 1430, Joan organized a company of volunteers to relieve Compiègne, which had been besieged by the Burgundians, French allies of the English. She was captured by Burgundian troops on 23 May, after trying unsuccessfully to escape, and was handed to the English in November.
+
+- The Burgundians, like a tribe that resided in France. They're part of the ten; that's what their names are. I might go into that too. Ten horns. Burgundy is a part of that. We're on another topic.
+
+> She was put on trial by Bishop Pierre Cauchon on accusations of heresy, which included blaspheming by wearing men's clothes, acting upon visions that were demonic, and refusing to submit her words and deeds to the judgment of the church. She was declared guilty and burnt at the stake on 30 May 1431, aged about nineteen.
+
+- Stop. Accusations of heresy, which she was. Watch. And what else? By wearing men's clothes. She got put to death young for wearing men's clothes. A young feminist. A crazy feminist. All right, give me the law, please. They weren't wrong. Deuteronomy 22 and 5.
+
+</div>
+
+**[Deuteronomy 22:5](/bible/deuteronomy/22#v5)**  *[[36:36](https://www.youtube.com/watch?v=RqV7aovY3nw&t=2196s)]*
+
+> <sup>[5](/bible/deuteronomy/22#v5)</sup> The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so are abomination unto the Lord thy God.
+
+- So by law, remember these guys are a Christian kingdom, so they put her to death according to that law. Wearing men's garments. You got armor on. You fighting battles. Nah, you got to go. You on some Queen Latifah stuff. Nah, you got to get put to death. And calling out prophecies and we losing. You calling out prophecies and it ain't working. Prophecies is nonsense. I'm supposed to win; your prophecies make me lose. So yeah, that's Joan of Arc. That's history in a nutshell. Black, stupid and crazy, wearing men's clothes, put to death and burnt at the stake at nineteen years old. That's her fate. Short and sweet.
+
+- Now give me Zephaniah 1 and 8. So you know, back then they ain't play that game, women wearing what they want to wear, men's clothes, all that stuff.
+
+- **Officer:** Also, there's no coincidence that a lot of these feminists, they have short hair. Because 1 Corinthians 11 says if she don't want to cover her head, let her head be shorn. So she has short hair too. All these modern feminists, they tend to have short hair. And we're not talking about the sisters who do the big chop in order to let the hair grow. We're not talking about that. But when you see out in the world a lot of these sisters who are the female empowerment and all that, they have short hair.
+
+- **Deacon Eythan:** Yep. Or they got short hair under the weaves and wigs. Zephaniah 1:8.
+
+**[Zephaniah 1:8](/bible/zephaniah/1#v8)**  *[[38:48](https://www.youtube.com/watch?v=RqV7aovY3nw&t=2328s)]*
+
+> <sup>[8](/bible/zephaniah/1#v8)</sup> And it shall come to pass in the day of the Lord’s sacrifice, that I will punish the princes, and the king’s children, and all such as are clothed with strange apparel.
+
+- The princes and the king's children: all Israel. The men and women. Strange apparel is the heathen attire. The mixed clothing, all that stuff. And the cross-dressing, we got that from the other nations. We got that from them. Strange apparel: apparel or clothing or articles of clothing outside of our God-given attire that God gave us. Women in pants, men in skirts, all of that goes right back to strange apparel.
+
+- How much time we got? Thirty minutes. All right, cool. So now, you didn't find anything, right, about the Huns in Germany? Give me page 111 and 112, Ancient and Modern Britons. I just want to look at it. It might be there; I put a question mark. It just mentions us in Germany. I want us in Germany.
+
+- Fourth of July was yesterday. As y'all know, America is 250 years old as of yesterday. And we all know historically, those of you who are historians, or desire to seek to become one as us up here, understand that most empires on average, not all, but most, on average, by 250 years they meet their decline. America has been showing signs of decadence. Decadence means declining, falling apart. It starts to unravel. Foolishness is uplifted. Feminism: the Bishop showed the video yesterday. Feminism is heavily pushed, and whenever you find women's empowerment in an empire, that is a sign of an empire soon to fall. Sexual liberation, all of that goes back to feminism. All of that goes back to a declining empire. And so America has reached the zenith of decadence at this point. And from this year on America will have a steep decline. It's already declining.
+
+- Now you saw, there's a video, I think, of Trump where pretty much everything he said in his initial office he's backtracking, because Iran was whipping his ass. Iran is beating America's ass, to the point where, you see the gas prices is back down low again. Over here they are. I don't know about y'all. If you're from California, I feel sorry, your gas like eight dollars. That's crazy. But over here the gas prices gone down, because Trump is talking all that talk, but now they're spanking them. America's getting humbled. A lot of the European nations get humbled because they're falling apart. Trump is burning bridges, destroying alliances that made America great, like he was trying to do. America was great based upon her alliances with her brothers, France and Britain, and a mother, Britain. Britain's the mommy. America slapped the mommy in the face, tripped her cousin France, disrespecting Russia, disrespecting Spain. It's crazy. So all the things, all the attributes that made America great, Trump is single-handedly just burning all those bridges, as the Bible purports he was going to do. Not him, but what Babylon was going to do. That's like the woman in Revelation getting off the dragon and slapping each dragon's head in the face. Blow, blow. She's just slapping them. That's what Trump is doing. So America is within the age of decadence, a time of failure, a downward spiral to eventual destruction, as the Bible says.
+
+- **Officer:** Yes, sir. Hope you Christian apologists who are watching this show are taking notes of that. Because none of y'all seem to be able to go into the Bible and show America, even though America's in the Bible numerous times.
+
+<div class="reading">
+
+Reading from *Ancient and Modern Britons*, pages 111 to 112, the Huns and the Cimbri · read by an officer  *[[44:08](https://www.youtube.com/watch?v=RqV7aovY3nw&t=2648s)]*
+
+> Hungarian invasions. This was in the year 875, the date of a Danish invasion of Scotland.
+
+- Danes is Jacob too, I believe. Thorfinn was a Dane. Thorfinn the Black was a Dane. You watch, there's an animated show called Vinland Saga, and you have Thorfinn, his father Thors, you have Thors' uncle. Those are Danes. They were black. They should have been depicted as black, but Edomites can't be nothing. And so they're white, because Ammon's a devil too.
+
+> But this statement recalls the Huns proper, of whom something has already been said. They, it will be remembered, united in their persons the qualities of the two great types under consideration. They were of a dark complexion, almost black, deformed in their appearance, of uncouth gesture and shrill voice. They were distinguished, says Gibbon, from the rest of the human species by their broad shoulders, flat noses, and small black eyes deeply buried in the head, and they were almost destitute of beards. They had attained to such a degree of power in the fifth century that they were able to exact an annual tribute from Rome, so that the empire might be secured from further injury.
+
+- Watch. Almost black. They caused some problems.
+
+> They had previously occupied all the territories that had been abandoned by the Goths, whose dominions reached from the Baltic to the Euxine.
+
+- That's all Eastern Europe. Let me see. Read. The Cimbri.
+
+> It is said of the Cimbri that 140,000 were slaughtered by the Romans and 60,000 taken prisoners, and this overwhelming defeat most effectually put a stop to their inroads. But before that they had in one battle destroyed 80,000 Romans. Lempriere, whose words have just been quoted, describes them as a people of ancient Germany, Scythians, who at one time inhabited that part of the country which now forms the modern kingdom of Denmark. They were very powerful, and their invasion of the Roman Empire was so courageous and even desperate that they fastened their first ranks each to the other with cords.
+
+- Ancient Germany. Scythians. Go down. Cimbri, Huns. Read that.
+
+> It now begins to appear possible that the tradition of a Hungarian invasion of Scotland, contemporary with an inroad of Danes,
+
+- Now give me Our Descent, page 11 and 12. Let's try and find what Germany is. I don't want to take it all over the place.
+
+- Now this book is based upon British Israelism. I want to make that clear. Because these Edomites believe that they were descendants of the twelve tribes of Israel, and they're not. But they were on point when it come, the reason why that thought was even in existence is because they knew that the Israelites had taken over Europe and ruled over it. So that's where the whole idea of British Israelism comes from: the idea that the Israelites ruled over Europe. And we did, but they were not Caucasians. So pretty much a bunch of Edomites or Europeans trying to whitewash the black rulership of Europe and turning it into a movement called British Israelism, and many authors, like this one here, reference it. Now some things in this book here I marked off. Some of them are truth mixed with conjecture. So we have other books that substantiate what he's saying in these books, or some things he's saying he just made up. So I'm just going to go through some of it. Page 11, read that.
+
+</div>
+
+<div class="reading">
+
+Reading from *Our Descent*, pages 11 to 12, the Sacae and the Scythians · read by an officer  *[[48:10](https://www.youtube.com/watch?v=RqV7aovY3nw&t=2890s)]*
+
+> The Saxons are found where Israel was lost. I say then, hath God cast away his people?
+
+- No, read verse number one.
+
+> The ten tribes became known to the ancient Greeks, Persians and Romans as Sakai or Sacae.
+
+- Now scholars will say, well, there's no proof of this. But the Sakai and Sacae were called that by the Greeks and Romans. The scholar will say, but they weren't the ten tribes, even though they know the ten tribes were put in those areas.
+
+> For a time they clustered around the shores of the Black Sea.
+
+- Eastern Europe. Let me read that earlier: with the Danes residing over there, that's black. So Jacob was over there. Scythia is ancient Germany, that area, Russia. Eastern Europe.
+
+> Scythians and Sakai became interchangeable terms, being given to the same people.
+
+- That's true.
+
+> Herodotus, Diodorus, Pliny and Ptolemy state that these Scythians and Sakai inhabiting the regions of the Black Sea are the same as those who came from Media across the Euphrates.
+
+- That's true.
+
+> Diodorus says the Sakai sprang from a people in Media who obtained a vast and glorious empire.
+
+- That's also true.
+
+> Pliny says the Sakai were among the most distinguished people of Scythia who settled in Armenia and were called Sacassani. He further states the Sakai were a Scythian race and came from Media.
+
+- Remember, the northern kingdom was put there. The northern kingdom was put there in the time of Assyria. They were put in the cities of the Medes. These guys came about around the 600s BC, the time of Assyria. That's when they popped up. Now Scythia was an area. You had various different nations that fell under that title, but Israelites were the prominent ones in that area, the northern kingdom.
+
+> Albinus said the Saxons were descended from the ancient Sakai of Asia, and in process of time they came to be called Saxons. Ptolemy mentions a Scythian people sprung from the Sakai by the name of Saxons. British History Traced from Egypt and Palestine, Roberts, page 105. The self-liberated ten tribes, after leaving Media, became subsequently known as the Scythians,
+
+- Which is true, because Paul wrote to the Scythians. He wrote to them. That was our people.
+
+> either from occupying a region so called, or else to signify that they were wanderers, which is the import of the name.
+
+- Either because they lived in that area they called Scythians. Page 12.
+
+> He also states that the Sakai came from Media, arriving in Britain via Norway, Denmark, Germany, etc.
+
+- That's true. They did that.
+
+> The Scythians subdued many nations in the regions round about the Caucasus, and spread into Europe from the Don to the Danube, taking a westerly direction. All along this route these people left traces of themselves. North of the Caucasian mountains there are vast plains now covered by immense numbers of tumuli or tombs. It is generally admitted that some of the people who had settled in Ireland came at an early period into Scotland and were known as the Scoti, a name probably derived from Scythian.
+
+- Kept moving west. That's a thought, but Scoti is true.
+
+> Aeschylus, the celebrated Grecian poet, specially mentions that the Sakai were noted for good laws and were preeminently a righteous people.
+
+- **Officer:** Was that Maccabees?
+
+- **Deacon Eythan:** Yeah. Get that Maccabees real quick, about the Scythians, how they had some sense. They would have judged them properly. And give me 2 Kings also, about us being put in the cities of the Medes, just to confirm this history, that we were put in those areas as well. 2 Kings 17, verse 3, and we're going to read down to verse 6.
+
+</div>
+
+**[2 Kings 17:3-6](/bible/2-kings/17#v3)**  *[[52:39](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3159s)]*
+
+> <sup>[3](/bible/2-kings/17#v3)</sup> Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents.
+>
+> <sup>[4](/bible/2-kings/17#v4)</sup> And the king of Assyria found conspiracy in Hoshea: for he had sent messengers to So king of Egypt, and brought no present to the king of Assyria, as he had done year by year: therefore the king of Assyria shut him up, and bound him in prison.
+
+- King of Israel, the northern kingdom.
+
+> <sup>[5](/bible/2-kings/17#v5)</sup> Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years.
+>
+> <sup>[6](/bible/2-kings/17#v6)</sup> In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes.
+
+- Watch: in the cities of the Medes. Medes, that's Iran. And Iran, which is right next door to China, not too far from Europe; it was referred to as Eurasia because it's all connected, they're all not too far from each other, that region alone. So Ephraim, the northern kingdom, was placed in those areas, and they migrated. Some of them migrated westward, some migrated eastward and made their way over there into China, made their way into Japan and so forth.
+
+- Where's it at? Iran's right here. You got Iraq next door, Afghanistan. Above is Turkey. Next door to Iran is Afghanistan. If you go up above, the Black Sea is right there. The Caspian Sea. Georgia, Russia is right above it. Eastern Europe is right there to the left. You go further northwest, you got Germany, whatever. Then further east you got China and so forth. So Ephraim migrated both directions. He migrated in both directions. So let's go down. 2 Maccabees 4:47.
+
+**[2 Maccabees 4:47](/bible/2-maccabees/4#v47)**  *[[55:18](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3318s)]*
+
+> <sup>[47](/bible/2-maccabees/4#v47)</sup> Insomuch that he discharged Menelaus from the accusations, who notwithstanding was cause of all the mischief: and those poor men, who, if they had told their cause, yea, before the Scythians, should have been judged innocent, them he condemned to death.
+
+- Menelaus. Menelaus was an evil Negro sellout that turned on his own people for power. He was like Simon. He was like Judas Iscariot of his time against us. For the sake of the Greeks and power from the Greeks, he turned on his own people. If they had told their cause before the Scythians, that will be us over there. So the author here said that the Scythians were more just in judging matters than the men that did not judge men. That's what he was doing. So the Scythians were known to judge matters, right? Because these were our people living in this land here. Now give me, was it Romans 2? Where it says a law unto themselves. Verse 14.
+
+**[Romans 2:14-15](/bible/romans/2#v14)**  *[[57:00](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3420s)]*
+
+> <sup>[14](/bible/romans/2#v14)</sup> For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:
+
+- The Gentiles: that be the Scythians. That's referring to Gentiles, the northern kingdom scattered abroad. Do by nature the things contained in the law, because the law is already in us. The laws are in us. They belong to us. So we had a knowledge to keep them. These having not the law: meaning the priests to teach them. Are a law unto themselves: they were to judge their own matters among themselves.
+
+> <sup>[15](/bible/romans/2#v15)</sup> Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
+
+- Their conscience also bearing witness that they're the children of God. Judging one another, or freeing another. Accusing or excusing: they were judging matters, because they had knowledge of the law back then. That's why I go back to the Scythians: if they judged the matter, it would have been found innocent. So that's why in this book it says here the Sakai were noted for good laws and were preeminently a righteous people, Aeschylus says.
+
+- Okay. So now go back to the book. Go to page 26. Oh, you have something. We got a book, right?
+
+- **Officer:** Pages 165 and 166. Start there.
+
+<div class="reading">
+
+Reading from a book on the Sacae and the Saxons, pages 165 to 166, the Sakai of independent Tartary and Bokhara · read by an officer  *[[58:33](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3513s)]*
+
+> If the Sacae were of Israelitish origin, we might naturally expect to find some wild remains of them in the country through which we suppose them to have passed, and that they should retain the Israelitish passwords was likely in a country which was probably colonized by Jews at a very early period. These facts at least serve to connect the Sacae or Sakai, whom we find in Cashmere and Orissa, with the Isaakai
+
+- That's Isaac.
+
+> of independent Tartary and Bokhara,
+
+- Tartary is like Russia.
+
+- **Officer:** Bokhara, that's one of the areas, when you read in 1 Chronicles, that Israel, the northern kingdom, got taken to. 1 Chronicles 5, I think, 26. It's called Hara in the scriptures. Bokhara. And that is modern-day Uzbekistan. In the Kings, the verse that was read earlier, it just says the cities of the Medes, but in Chronicles it says Hara.
+
+- **Deacon Eythan:** Let's get it. 1 Chronicles 5:26.
+
+</div>
+
+**[1 Chronicles 5:26](/bible/1-chronicles/5#v26)**  *[[1:00:25](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3625s)]*
+
+> <sup>[26](/bible/1-chronicles/5#v26)</sup> And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath–pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
+
+- That Hara is Bokhara. Where's Bokhara at? You see it? Uzbekistan. Right there. Right above, Afghanistan's right there. Iran's right there. They put them right up there. Uzbekistan, or Hara, next door, right next door to China. Same area. Russia's right above it. Mongolia. They're next to the Caspian Sea. Let's go back.
+
+<div class="reading">
+
+Reading from a book on the Sacae and the Saxons, pages 165 to 166, continued · read by an officer  *[[1:01:21](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3681s)]*
+
+> these countries being in fact precisely the seats of the ancient Sacae, or at least of the people so called by the Persians in the time of Herodotus. It would be very strange if, having from other circumstances been induced to believe that the ten tribes went into those regions, we there found a multitude of people who declared themselves to be the descendants of these tribes, and yet that they should not be so. We have supposed them to have been named Sacae or Sakai after Isaac, and here in the very seat of the Sacae of old we find large numbers of people professing to be Israelites, calling themselves children of Isaac,
+
+- Yep. Children of Isaac.
+
+> a name readily converted into Sakai by the Greeks, who habitually rendered the names of the barbarians only into approximate sounds. It is impossible to account for these facts but on the supposition that they are derived from the real Beni Israel. Why should these people thus name themselves in spite of the prejudice of all the nations around them against everything Jewish? Had they not been accustomed so to denominate themselves from a period when they had reason, from their influence, to be proud of the name, we can scarcely understand why they should be proud of it now, when anything but high hopes or noble aspirations is associated with it, even by themselves. Now, if the Sacae or Sakai of independent Tartary and Bokhara were the predecessors of the so-called Beni Israel now resident in those countries, and if they were also called Isaakai after Isaac, then it is fair to infer that the Sakai who came into India through those countries were of the same origin.
+
+- So remember, in the other book it said that the Scythians came from the east and they came all the way. So they came from the Caspian, from the Caucasus, they went all the way into Europe, and they now got changed to the name Scythians, which we read in the scriptures. And also Amos 7:16, about them being called the house of Isaac. So that's where the Sakai, the Saxons, the Scythians, that's where those names come from.
+
+- **Officer:** And they came from their regions. After Assyria fell, after Babylon fell, a section of us left, obviously, like you read in 2 Esdras. And then a portion of us that were scattered all about started just mixing everywhere else. Start going over to Japan. Made our way over there. Because I think even the name of that book that we were just reading says the Saxons from east to west.
+
+- **Deacon Eythan:** Yep. East to west. Amos 7 verse 16.
+
+</div>
+
+**[Amos 7:16](/bible/amos/7#v16)**  *[[1:04:42](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3882s)]*
+
+> <sup>[16](/bible/amos/7#v16)</sup> Now therefore hear thou the word of the Lord: Thou sayest, Prophesy not against Israel, and drop not thy word against the house of Isaac.
+
+- The house of Isaac. That was the northern kingdom's title. House of Isaac. So that's what that term came from. Sakai, Sacae, Saxon. That's what it was believed to be derived from. I'll put it in that way for those of you who look it up. But those were our people that rule. That's why I entitled the class Joan of Arc and Eastern European Rule, because the northern kingdom got into that area and we start to dominate, and over time we gained rulership over these areas, these lands.
+
+- **Officer:** Didn't we have a city in the northern kingdom that was called after the Scythians? Scythopolis. That's in the Maccabees.
+
+- **Deacon Eythan:** Yes. The Greeks named it that, because that's where the Scythians, they say, they won't say what they were, but I can infer that those were us as well. They put back there. Scythopolis. It means the city of the Scythians. Polis is city. Judith 3 and 10. Get Judith 3 and 10. 2 Maccabees 12 and 29. Read that, the Google overview.
+
+<div class="reading">
+
+Reading from a Google overview on the name Scythopolis, read off the screen  *[[1:05:27](https://www.youtube.com/watch?v=RqV7aovY3nw&t=3927s)]*
+
+> The name Scythopolis, ancient Greek, literally translates to city of the Scythians. It is composed of two parts: the Greek word Scythian and polis, meaning city or state.
+
+- City of the Scythians. Read that, historical naming.
+
+> Historical naming. During the Hellenistic period, Greek and Roman historians, including Herodotus and Pliny the Elder, recorded that a contingent of Scythian mercenaries was garrisoned or settled in the city.
+
+- Time of the Greeks. Remember them earlier? We read those same guys earlier: Herodotus, Pliny, Diodorus, Ptolemy. These same names came up before regarding the Scythians. Read again. Because whenever Israel was conquered, they'll make us, we were warriors, they make us guard the garrisons. You had Jewish garrisons of Egypt, where Israelites were guarding garrisons there, and you had northern kingdom Scythians having to guard the garrisons in that area. And I believe Scythopolis is their land.
+
+- **Officer:** It's in Manasseh. It used to be Bethshan. And then when we read in Chronicles, Manasseh was taken to Hara, where the Scythians were.
+
+- **Deacon Eythan:** Yeah, Bethshan. And that's in here too. So you just connect the dots. That's what we got to do.
+
+- And another thing, for y'all who are watching us, some of you may find yourselves disagreeing with us or may find opposition against us, because of modern scholarship. Let me explain something to you regarding that. Often times we, the word is antiquarian. Look up the word antiquarian, please. We are antiquarians. An antiquarian or antiquary is an expert, collector or student of antiquities and things of the past. The term is most commonly used today to describe dealers of rare, collectible and out-of-print books, old documents, or valuable historical artifacts. That's what we are up here. We are antiquarians. And the reason why I'm emphasizing that: because the older the book, the closer it is to that time. You understand?
+
+- And so what happens is, Esau being the devil he is, the Bible speaks of what modern scholars, modern scholars come behind. We're in the age of information, right? And so when information is readily available and open to the public, that can cause issues or problems with history being told or taught in schools now. In modern times, modern scholars, quote unquote, will come behind and play cleanup. Oh, well, based on DNA and based upon this, this can't be true, and this is wrong, and this is a lie. Meanwhile, these men were around, like Pliny, Herodotus, Diodorus. They were around at this time. So they knew what they were talking about. Modern scholars, 3,000 years later: no, they were wrong. They were there. You weren't there. So not to take away from scholars, but often times modern scholarship will come behind ancient scholarship and undermine it or remove it.
+
+- For example, the Scythians, the northern kingdom: we read earlier the northern kingdom was taken by Tiglath-pileser to a place called Hara, a city of the Medes. Hara became Bokhara. Bokhara is Uzbekistan. That's the same region as the Caspian Sea, the Black Sea, Tartary, Scythia. It's the same place. And Iran and Russia are next-door neighbors. Zoom in again. Go to Russia. Georgia, Russia. Iran is right under it. So it says they put the northern kingdom into the cities of the Medes. Ephraim was all in this area. They just moved up. Some of them moved up to Russia. Russia, that big yellow thing, is Russia. Iran and south Russia are neighbors. So Ephraim migrated themselves either up to Germany, Poland, or some went to China, because Iran and China are literally next-door neighbors. So Scythopolis, or Scythia, this is the northern kingdom being put in those lands. That's why again this class is entitled Joan of Arc and Eastern Europe Rule, because we dominated these areas and these lands, and we got scattered and exiled into them over time. Read Judith 3 and 10. This is when the Assyrians tried to rally against Israel at this time.
+
+</div>
+
+**[Judith 3:10](/bible/judith/3#v10)**  *[[1:11:15](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4275s)]*
+
+> <sup>[10](/bible/judith/3#v10)</sup> And he pitched between Geba and Scythopolis, and there he tarried a whole month, that he might gather together all the carriages of his army.
+
+- Between Geba and Scythopolis. 2 Maccabees 12 and 29.
+
+**[2 Maccabees 12:29](/bible/2-maccabees/12#v29)**  *[[1:11:40](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4300s)]*
+
+> <sup>[29](/bible/2-maccabees/12#v29)</sup> From thence they departed to Scythopolis, which lieth six hundred furlongs from Jerusalem,
+
+- Which lieth six hundred furlongs from Jerusalem. It's the same land, Bethshan, Scythopolis, the city of the Scythians. Read this page here, the blue highlight.
+
+<div class="reading">
+
+Reading from a book on the Scythians, Getae, Thracians and Goths, the passage highlighted in blue, posted to the Telegram  *[[1:12:00](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4320s)]*
+
+> The Scythians, Getae, Thracians and Goths
+
+- The Getae. Geta is the name of Septimius Severus' son; his son's name is Geta. Geta and Caracalla. That's a family name. And remember, Septimius Severus came from the Phoenician line of Israelites that took over Libya all the way to Mauritania. So Hannibal and them were historically known, recognized to be either Asher or Zebulun. That's the northern kingdom. And Hannibal and Septimius Severus were of the same family line. So that name Geta goes back to the northern kingdom, or the Phoenician line. Thracians: Spartacus was a Thracian. We showed you a picture of him, black as hell, and the same wavy hair they have now, but he was dark. A gladiator. It was him and Crixus. He was a Thracian. And the Goths: not the Visigoths, those white ones. The Goths.
+
+> having thus been traced to one common origin, or as being rather different names for the same people, there can be no reasonable doubt but that these represented the descendants of the ten tribes who had escaped from the Assyrian captivity. It has also been seen that some of these migrated into Asia Minor, and thus joined the Greco-Israelites in their colonies there.
+
+- Different names for the same people. There you go. Asia Minor: Galatia, Phrygia, Corinth, Asia Minor. They did what? Joined the Greco-Israelites in their colonies there. That's who Paul was writing to. That's who Paul was dealing with: the Scythians, the Colossians, the Corinthians, the Thessalonians, the Laodiceans, Lacedaemonians, Spartans. That's a Spartan right here. Spartans with the braids going down his back.
+
+- **Officer:** Hold on, D. That other page that they showed earlier, that's going back to the age of decadence, the Age of Empires. That's what I had up.
+
+- **Deacon Eythan:** Oh, okay. Gotcha. Go down. We didn't read this, right? Read that. The first name.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on the name Scythians and the wandering Ephraimites, read off the screen  *[[1:15:00](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4500s)]*
+
+> The first name history records prominently of these now wandering nomad tribes is that of Scythians, which derived its full title from the original words Scouts, Scuts and Skiths. The change in the original singular name is merely caused by the flexible enunciation which we find influences the accent of different tongued peoples in speaking a foreign name; the shibboleth of language, which is just as common today as in the past. To us the name changes provide a record of the peoples with whom the Ephraimites came in contact during their long sojourn through many lands.
+
+- Right.
+
+> The name was first applied to the wandering Ephraimites because of their peculiarity in marking their trail by heaping stones into a pyramidal-style pile. To the ancient Scythians, who first named the Ephraimites Scots, it probably appeared as an oddity of race. But to the escaped Israelites it was an act of consecrated devotion, a ritual that was a definite part of their traditions. It had its origin in the outstanding act performed by Jacob, who, on awakening from his remarkable dream, erected an altar of stones to mark the spot and commemorate the significance of the dream. This was the occasion recorded in the Bible, familiar to every Christian, when Jacob envisioned a continuous flow of angels ascending and descending on ladders between heaven and earth, as a token promise that God would be with Jacob and his lineal seed forever, to perpetuate the covenant.
+
+- Wow. The twelve stones. Jacob's ladder. That's all I want. That's good. That's some good stuff. So give me Joshua 17:11. I'll give you the actual biblical name of Scythopolis prior to being called Scythopolis by the Greeks.
+
+</div>
+
+**[Joshua 17:11](/bible/joshua/17#v11)**  *[[1:16:37](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4597s)]*
+
+> <sup>[11](/bible/joshua/17#v11)</sup> And Manasseh had in Issachar and in Asher Beth–shean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries.
+
+- Manasseh had in Issachar and in Asher. They all shared that landmass. But Manasseh had in possession, in Issachar and in Asher, what? Bethshean. So Bethshean became known as Scythopolis. And western Manasseh became known as Caesarea, which is where Cornelius is from. Dor is Caesarea Maritima, which is where Cornelius resided. So that was Manasseh's land. You got a text.
+
+- **Text:** Shalom, leadership. Most High and Christ bless. Did we bring our records, the Bible, into the lands we were scattered into?
+
+- **Deacon Eythan:** I can't say for sure. I mean, we might have, or we just brought it along with us through oral tradition. I'm sure in some instances we did, in some cases yes, and in some instances no. Over in America, yes, we brought them over here, and in China, Japan, yes, but I'm not sure about everywhere.
+
+- **Officer:** No, you're correct. But I'm saying in some of the lands that we did bring our records, when Esau conquered us and the Arabs conquered us, they burnt our records. Or kept, or stole them and put them in vaults. Vatican, Smithsonian.
+
+- **Text:** Shalom, mighty men of God. Since you just read Maccabees, I was wondering if you recalled the specific verse in that book that indicated Hannibal's defeat from Rome and becoming the Roman Empire.
+
+- **Deacon Eythan:** Yeah, 1 Maccabees 8 and 4, where Hannibal was loosely mentioned. Not mentioned, but the account of his involvement was in 1 Maccabees 8 and 4, when they took the mines. They conquered his brother Hasdrubal. This is when Hannibal sided with Antiochus the Great, the Third, to overthrow Rome, and he lost. And then Hannibal was on the run, and Antiochus got punished for siding with Hannibal.
+
+**[1 Maccabees 8:3-4](/bible/1-maccabees/8#v3)**  *[[1:19:12](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4752s)]*
+
+> <sup>[3](/bible/1-maccabees/8#v3)</sup> And what they had done in the country of Spain, for the winning of the mines of the silver and gold which is there;
+
+- Right. They took the mines of silver and gold from Hannibal's brother Hasdrubal. They conquered Spain and they took it from him.
+
+> <sup>[4](/bible/1-maccabees/8#v4)</sup> And that by their policy and patience they had conquered all the place, though it were very far from them; and the kings also that came against them from the uttermost part of the earth, till they had discomfited them, and given them a great overthrow, so that the rest did give them tribute every year:
+
+- Rome. This is a Roman kingdom by this time. This is Edom and Japheth ruling together. Another example, hold on, I got another one, Hannibal loosely mentioned. Remember the Romans wanted Hannibal as a hostage as well. Get 1 Maccabees 1 and 10. When Antiochus the Third, or the Great, sought Hannibal's counsel, he rejected it, because he didn't want no Negro to have no glory. So he ended up not taking his advice and he lost. He would have won if he took his advice. Hannibal told him, yo, you got to attack Rome in their homeland. And Antiochus is like, nah, I'm going to fight him over here in his little provinces, and ended up losing. And before he lost, Hannibal dipped. He's like, this guy going to lose. And I got the page from Caesar and Christ to back up 1 Maccabees 8.
+
+**[1 Maccabees 1:10](/bible/1-maccabees/1#v10)**  *[[1:21:28](https://www.youtube.com/watch?v=RqV7aovY3nw&t=4888s)]*
+
+> <sup>[10](/bible/1-maccabees/1#v10)</sup> And there came out of them a wicked root Antiochus surnamed Epiphanes, son of Antiochus the king, who had been an hostage at Rome, and he reigned in the hundred and thirty and seventh year of the kingdom of the Greeks.
+
+- Because when Antiochus lost that battle that Hannibal told him he would lose for not fighting in the right place, he ended up losing that battle and he had to pay a heavy tribute. That tribute lasted him like a generation, pretty much. So as a means to show he would pay that tribute, they took his son from him. So Antiochus Epiphanes was held hostage at Rome until Antiochus the Great was able to pay that tribute off, and he wasn't able to. He died. So Antiochus Epiphanes got released from Rome as a hostage.
+
+- **Officer:** Remember, Seleucus, Antiochus the Great's first son, he gave his son Demetrius to get his brother back.
+
+- **Deacon Eythan:** Yeah, that's what he did. In exchange: I want my brother back, I'll give you my firstborn. So that was the reason why he was a hostage at Rome, because he lost a battle against Rome that Hannibal advised him not to do. So Hannibal's tied in the history also. 1 Maccabees 1 and 10 and 1 Maccabees 8 and 3. Daniel 11 is crazy. Daniel 11 is insane. You can go back and watch that too. Go back to my old videos, the Greek history. I go to Daniel 11, verses 1 all the way down, almost completed. Daniel 11 goes into history in detail; it's almost scary. Read that.
+
+<div class="reading">
+
+Reading from *Caesar and Christ*, on the Second Punic War  *[[1:23:32](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5012s)]*
+
+> The Second Punic War changed the face of the western Mediterranean. It gave Spain and all its wealth to Rome, providing the funds for the Roman conquest of Greece. By bringing the precious metals of Spain to finance new luxuries and imperialistic expansion, by enabling Italy to live on the extorted wheat of Spain, Sicily and Africa, it was a pivotal event for almost every phase of Roman history.
+
+- And that's what made the Roman Empire. So that conquest alone was what made Rome go from being a kingdom into an empire, based on black wealth. Rome gained its ascendancy through the black wealth and conquest of Hannibal's provinces: Sicily, Spain, Africa. That's how they became an empire. That's 1 Maccabees 8 and 3.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on Hannibal's counsel to Antiochus, read off the screen  *[[1:24:27](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5067s)]*
+
+> In a consultation which he held respecting the prosecution of the Roman war, Hannibal advised him to march immediately to Italy, where the Romans could be most easily conquered. But the Roman ambassadors, by their frequent and crafty visits to Hannibal, had succeeded in exciting the suspicions of the king against him, and his judicious counsel was not valued according to its merits.
+
+- **Officer:** This is just backing up the history with Hannibal and Antiochus. At home. So that goes back to what you were saying: they didn't value Hannibal's counsel, and he fought with Rome all that time, so he had experience dealing with them.
+
+- **Deacon Eythan:** He had no backup. Nothing. No help from Carthage. All the Negroes was like, now you're on your own. They were jealous and stupid.
+
+- So we're going to go on a quick break. Where we at in the other book, Our Descent? Page 54. I ain't got much in that book anyway. We'll come back to that page. So y'all just stay tuned. We'll be right back. We got more for y'all.
+
+</div>
+
+*[[1:25:57](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5157s)]* The break. On the recording, the IUIC spots: Switch Up and Change; the Afro-Iranians, a vibrant population of black people living right now in Iran, concentrated heavily along the southern coast, scattered centuries ago through the Indian Ocean slave trade, the true twelve tribes of Israel waking up from the provinces of Iran to the islands of the sea (iuic.diaspora@israelunite.org); as the true descendants of Israel our freedom does not hinge on the founding of America, our God did not command Israel to celebrate the Independence Day of America, Deuteronomy 4:6-8; the brothers in Chicago for the Puerto Rican parade, there to wake them up to their true nationality, not to revel; the announcement of the peace deal between the United States and the Islamic Republic of Iran; the Jews of the Indus Valley named Sacae after Isaac; and the festival in Philadelphia where people are out worshiping another god as usual, a Yoruba fertility goddess going back to Ashtoreth, Isis, Easter, Ishtar, our people seeking identity and culture but not quite there yet. And the Our Hidden History spot: we really want to know if you really know who you are.
+
+*[[1:34:23](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5663s)]* All right, we're back. We are back. Pull up some stuff real fast. I'm going to pull some things up for y'all really quick. We using page 54. Zoom in. Kadis history. No, nine. Read that one.
+
+
+<div class="reading">
+
+Reading from *Our Descent*, page 54, the Phoenicians and Cadiz · read by an officer  *[[1:34:50](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5690s)]*
+
+> The Reverend Canon Lysons is quoted by E. F. Wington as saying: The Phoenicians, along with the Israelites,
+
+- They were the same thing.
+
+> had established an emporium for trade at Tarshish or Tartessus, 1 Kings chapter 10, verse 21, etc., afterwards Gades, now Cadiz, in Spain, more than a thousand years before Christ.
+
+- Spain. That's where Hannibal, remember, that's Spain. That's where it started. That's very true. Read number ten.
+
+> Cadiz history: Cadiz, founded according to tradition by Phoenician merchants from Tyre as early as 1100 BC, had become by the seventh century the great western market for the amber and tin from the Cassiterides.
+
+- Initially, we took over. We have that map also. The tin, that's what we got from Spain, the tin, and from Britain also. We went to Britain, we got the tin from there. Go down to Hebrew identity.
+
+> The Hebrew identity of the Phoenicians and Greeks to whom this extract refers will become clear by a study of the context of the present.
+
+- The Hebrew identity of the Phoenicians, because they were Israelites. There's other books that substantiate this. Hannibal, all of them come from there. We got a text.
+
+- **Text:** Shalom. So the main reason for the modern scholars to do the cleanup on the older info is to push a narrative they want, despite the fact they can't deny facts in the older books.
+
+- **Deacon Eythan:** Right. As they do, they put, well, not all books, but for the most part the books we tend to bring out regarding the history of Israelites, they tend to whitewash. Like Native Americans being Israelites. I had to use AI to look up all of the books found in the Library of Congress that show that Israelites are Native Americans. And it's like, yeah, Jesuits said it, missionaries, explorers, politicians. It's in the Library of Congress. And I'm like, so they're true? Well, this, because they have it being true. I'm like, oh God, so even AI be on some BS. But based upon modern scholarship. It's like, well, modern scholarship does not negate the Native Americans telling these people who they are over here. You could use any scholarship you want. William Penn, whom Pennsylvania is named after, he said it, because he came and counted them. Many Jesuits and missionaries and conquerors, explorers, quote unquote colonizers, came over here and was like, yo, these guys are Israelites. James Adair, who spent forty years living with them, living with us, came to that conclusion, and many, many more. So modern scholars go, no, those accounts, no. So you got to be careful with the modern scholarship. I'm not saying deny it all, because I use books from time to time that are modern scholarship. But be very mindful when it comes to biblical history of modern scholarship. That's all I'm saying. Page 55, read that. Spain and Portugal.
+
+</div>
+
+<div class="reading">
+
+Reading from *Our Descent*, page 55, Iberia · read by an officer  *[[1:38:29](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5909s)]*
+
+> Spain and Portugal together constitute the land called the Iberian Peninsula, or Iberia. This name is derived from Ibrahim or Ibrim, meaning in the Hebrew language Hebrews.
+
+- Iberian Peninsula. Yes. Eber.
+
+> The word was probably brought to Spain by a body of the descendants of Zarah, who left Egypt about four centuries before the conquest of Palestine and founded settlements in the Iberian Peninsula.
+
+- Zarah was a tribe of Judah.
+
+> The name of the river Ebro owes its origin to the same cause, being formerly called the Iberus, i.e., the river Hebrew.
+
+- The Hebrew river. That's also true. Go to page 85. Now this, I had to use AI: is it true? It was like, yeah, it's true. Because some things it argues, some things it doesn't.
+
+</div>
+
+<div class="reading">
+
+Reading from *Our Descent*, page 85, the Scythians in Wales and the Kymry  *[[1:39:20](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5960s)]*
+
+> One important section of the Scythians
+
+- Of the Scythians, or Scythopolis. Give me that Colossians 3, when Paul wrote to them or spoke about them. Colossians 3:11.
+
+</div>
+
+**[Colossians 3:11](/bible/colossians/3#v11)**  *[[1:39:40](https://www.youtube.com/watch?v=RqV7aovY3nw&t=5980s)]*
+
+> <sup>[11](/bible/colossians/3#v11)</sup> Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
+
+- Greek nor Jew: these are Israelites. Greek or Jew. Circumcision nor uncircumcision: some of them are circumcised; uncircumcision is the Greeks, circumcised the Jews. Barbarian: those who can't speak Hebrew. Scythian. Bond nor free. But Christ is all and in all his people. Those are all his people, and Christ is in all his people. So the Scythians who Paul mentions, those are our people too. Read that.
+
+<div class="reading">
+
+Reading from *Our Descent*, page 85, continued · read by an officer  *[[1:40:20](https://www.youtube.com/watch?v=RqV7aovY3nw&t=6020s)]*
+
+> One important section of the Scythians who came from Media is to be found in Wales, and may be regarded as identical with the Khumri of the Assyrians, the Kimmerioi of the Greeks, and the Cimbri of the Romans, and now known as the Kymry.
+
+- Came from where? Media, where the northern kingdom was placed. Wales. So these names: Khumri of the Assyrians, Kimmerioi of the Greeks and Cimbri of the Romans.
+
+> In the British Museum there is an obelisk brought from Nineveh by Mr. Layard, on which is the following inscription: The tribute of Jehu, the son of Khumri: silver, gold, bowls, vessels, goblets and pitchers of gold, with scepters for the king's hand, all these have I received. Shalmaneser II.
+
+- Khumri is Omri. The Omri dynasty. This is Ahab's family. Khumri, or Omri. They're called Khumri. Shalmaneser, we read about him earlier.
+
+> Rawlinson found a marble among the ruins of the same city, on which the words were found: Sargon, king of Assyria, came up against the city of Samaria and the tribes of the house of Khumri, and carried captives into Assyria 27,800 families.
+
+- Of who? Khumri. Omri. So he brought a lot of Ephraim into those lands. Omri, Khumri, Cimbri. Read that, of the Galatians.
+
+> Of the Galatians, Bishop Lightfoot, that great scholar and theologian, who was not a British Israelite, said: There is little doubt that these sojourners of Galatia were Celts,
+
+- And the Celts were Israelites. Went over that a long way back.
+
+> and that they were the subdivision made by the philologers of the great Celtic nation known as the Kymry, the kindred branch of which the Welsh today are the modern representatives.
+
+- The Kymry, going back to Omri, northern Ephraim. A lot of Ephraim migrated into Wales. So the Celts and Galatians, that's a fact, that's just to say they're interchangeable. Galatians and Celts, interchangeable. Galatia was a colony of the Gauls. Galatians, Gaelics. Yep.
+
+- So now give me the map, the lineage map. So this is a map from a book called The Heritage of the Anglo-Saxon Race. This book also pushes the whole idea of British Israelism, but which has some truth to it in terms of Israelites ruling and sitting upon the thrones of England and Ireland and Scotland. Those were Israelites, as we showed you over the course of time. Zoom in now. Now the unfortunate thing about this, the Covenant Publishing Company, it is British Israelism, but it says the heritage of the Anglo-Saxon race. So there's some truth to this. But the unfortunate thing about it is that British Israelism is nonsensical, because they go off by the mother, and the Bible goes by the father. Numbers 1:18, the Bible goes by the father, not the mother. So we will present the information. Is there some validity to this? Yes. But I'm not going to put my whole stock in this lineal map. Read the book of Numbers 1:18.
+
+</div>
+
+**[Numbers 1:18](/bible/numbers/1#v18)**  *[[1:43:58](https://www.youtube.com/watch?v=RqV7aovY3nw&t=6238s)]*
+
+> <sup>[18](/bible/numbers/1#v18)</sup> And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.
+
+- So you are what your father is. You go by what your father is. The Bible is patrilineal. Patrilineal.
+
+- Now let's zoom in some, the best we can. You got Adam up here. Adam, it says, which was the son of God. Damn. Which is very true, Luke 3:38. Seth, appointed, because he was the child made in Adam's image, so he was the appointed heir. Enoch, a prophet. Methuselah, the oldest living man to ever live. Noah. There are three sons of Noah: Shem, Ham and Japheth. You see it jump from Shem to Eber. Blessed be the Lord God of Shem. Eber, the origin of the Hebrew, meaning colonizer or colonist; I read it means past, regarding the language, but who knows. Go over to the left. Ham: Canaanites, Philistines, Amorites, Hittites. That's true. Go to the right. You got Japheth: from the seven sons of Japheth are descended the Goyim, or Gentile nations, non-Israelite or foreigners. Yeah, but there were Hamites too. That's stupid. Nahor, Milcah. Go down, over to the left. So you got Abraham right there. Terah, his father. Friend of God. Sarah his wife, the Hebrew. Go over to the right: his brother Nahor, Bilhah, Bethuel, Rebekah, Laban, Leah, Rachel, blah blah blah. Go back over to Abraham again. His nephew Lot.
+
+- Now go down. You see Isaac right there, our grandfather. Go to the left: Ishmael, his older brother, as is the Arabs. Ishmael of the Arabs. That's true. Hagar the Egyptian. That's true. You will be a wild man, blah blah blah. Mahalath, and married Esau. Yes. His daughter married into Esau. Esau married into the Arab nation. So I got a lot of pale-faced Arabs and Turks. Those are Edomites mingled with Arabs. And now it says Esau, right? It says Edom, Turkey, because remember they migrated to Turkey and became the Ottoman Turks. Mingled with the Hittites. That's true. That resided in Mount Seir. Mahalath, of Ishmael. Esau took on these wives, Hamite wives and an Ishmaelite woman.
+
+- Now go to the left. What it says? It says the race ruling over the Saracens and Mohammedans in the present day. So the Saracens were us, the Moors. The Saracens and Mohammedans were Negro Moors. It says the race ruling over the Saracens and Mohammedans in the present day, when this is put together. So who was ruling over the Moors in this time? It was white people. The white man. So the white man tells you in this lineal map here that Esau is the white man. King Ferdinand and Isabella. Woo. I'll read again. It says the race ruling over Saracens and Mohammedans in the present day. And that present day is now. Even now, it was the same thing. The white men conquered the Moors. They didn't stop. They still rule to this day. They were just branched off. So Esau is in fact, this book just tells you that Esau is in fact the so-called white man. That's a fact.
+
+- All right, let's go down. Esau, Jacob. Jacob has twelve sons, right? Abraham's other sons up here: Jokshan, Medan, Midian, Ishbak, Shuah. Israel here, ruling with God. That's true. Leah, Rachel. Hebrews. Go down. You got the tribes. So go over to the left. Reuben being the oldest. Simeon, Levi. Israel in the isles. Levi, the priest tribe. Go over. You got Judah, the scepter tribe. The scepter shall not depart from Judah until Shiloh come. This is true. Go over to Issachar, Zebulun. That's right. Dan, the pioneer tribe. They always wander, they travel around, the pioneer tribe. They sail. Naphtali: they became the Caribs over here and the other places as well. Gad, Asher. The Pacific Islands. Yep, they're over there as well.
+
+- So Israel in the isles. Now the isles here, this is where it becomes a bit conjectural. More hearsay. I don't know no Bible scripture to substantiate. But it says Zarah, going back to Judah again. Darda, his sons, Trojans, Troy, Hector, section seven. So this is Zarah. It says Trojans down there, Hector. They're saying that they're pretty much Judah that resided in Greece, and that's the Trojan War. That's what I've heard. I don't know. I've heard they were Dan. Go down. Cassander, BC 74, Francis, Clodius, Marcomir, Franks. So these are all Jacob families. AD, saying it's Judah, which is possible. I can't put too much stock into this map. But Emerick, Emerick II, Albert, Adalbert, Conrad, Ulrich. These names that came across before. Edgar, Henry, Ulrich. These are all ancient names that eventually lead to like the King James and Charles. Go up. You see Charles up here, right? Charlemagne. Go up. Caradoc. Go up real fast. Let me see. It's a blue line. Follow the blue line. Let's see who he ties to. Okay, it's saying the same thing. He might be southern kingdom. Go down. See all them names? These are all Silurian names: Cyllin, Llewellyn, Idwal, Rhun, Bleddyn, Morgan, Berwyn. These are the Silures. Names. They're saying it's Judah. Who knows? Caradoc, Cynan, Gwyn, Bran, Beli, Lear, like King Lear. House of David. Bran the Blessed, then Caradoc, first Christian king in Britain. They say one of the disciples went and taught him, or Linus may have taught him, or Linus and Claudia are possible descendants of Caradoc. Give me that in Timothy. 2 Timothy 4 and 21. Pudens and Rufus. Claudia. Linus, first bishop of Rome. And then Claudia married Rufus Pudens. And that they are descendants of Caradoc. There's some truth to that part. So who knows? I'm not going to stand ten toes down on this map, but I just find it informative to some degree.
+
+**[2 Timothy 4:21](/bible/2-timothy/4#v21)**  *[[1:52:13](https://www.youtube.com/watch?v=RqV7aovY3nw&t=6733s)]*
+
+> <sup>[21](/bible/2-timothy/4#v21)</sup> Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
+
+- Yep. So those are Paul's people. Well, pretty much Paul wrote to them. They were followers of Christ as well. They were disciples.
+
+- All right, let's go over to the right. Kings of Ireland, of Scotland. See that right there? It's kind of blurry, but we'll make do. Go up to the top. Go up. House of David. Nathan. Pharez. Ezra. Jesse. Go down. Boaz. David. Nathan. Solomon. Go over to the right, where it says the Lord was with Jehoshaphat. So the House of David ruled for seven and a half years over Judah only. 170,000 men that drew sword; 2 Samuel chapter 5. So they basically given scriptures for each one of those that they can identify, in a sense. I'm giving a summary. Go down. Jeconiah, section two. It says the princesses with Zedekiah, or Jeremiah. Yeah, that's the folklore right there, that they left. There's no real biblical evidence of this, but this is folklore, that one of the princesses of King Zedekiah escaped or something like that, and she ended up marrying somebody. But even still, you go by the father, not the mother. But that's the belief, that this woman here fled to Egypt. From Egypt they went, Jeremiah was helped around. I don't know. Go over to the right. Judah, captivity. Go down. Genealogy right here. Read that.
+
+- **Officer:** The genealogy of the house of David. So Jesus Christ the Messiah, BC 4, continued from before the captivity. Son of Salathiel, son of Neri.
+
+- **Deacon Eythan:** Those underlines. It says begat Joseph. Here, underlines it here. Go up to those arrows real fast. Nathan and Jeconiah. So Jeconiah is, from what that map shows, Solomon's line. They know Nathan and Solomon. They know it's different lineages. From the royal line, on both sides. Christ's both parents, on both sides. So Salathiel on the right side. Salathiel begat Zerubbabel. And you got Heli. It says son of Heli. And in the red, go down to the note. I want to see what that says. Read this here.
+
+<div class="reading">
+
+Reading from the note on the two genealogies from the map in *The Heritage of the Anglo-Saxon Race*, quoting the Scofield Bible note on Luke 3  *[[1:56:05](https://www.youtube.com/watch?v=RqV7aovY3nw&t=6965s)]*
+
+> In Matthew, unquestionably the genealogy of Joseph, we are told that Jacob begat Joseph. In Luke, Joseph is described as the son of Heli. He could not be the son of Jacob and Heli. The conclusion is inevitable that in Luke we have Mary's genealogy, and that her husband Joseph was son-in-law to Mary's father Heli. That Joseph in such a case should be called son of Heli would be correct in Jewish usage. Scofield Bible note on Luke 3.
+
+- **Officer:** Hey, remember we have that old Bible too. We do have the old Bible. It says the same thing too. It's under the worship table.
+
+- **Deacon Eythan:** Wow. Go get that. Read that again. The conclusion is inevitable that in Luke we have Mary's genealogy. We need that. Damn. Put that in the Bible. You've been saying it for a while. People argue it. So that whole thing about levirate marriage don't make no damn sense. It ain't biblical. It's just not. He can't be both the son at the same time. If you got Nathan's line on one side and Solomon's on the other, he can't be both. He can't come from both lines. It's impossible. Cannot. And the reason why Luke even talks about that lineage is because of Heli. That's why it mentions Heli. The same way Luke mentions John the Baptist's parents both being of the sons of Aaron; it's parallel. When you read about John the Baptist's lineage and you read Christ's lineage, or the accounts of their lineages in the same chapter, they parallel each other.
+
+- **Officer:** One had the Holy Spirit in him, he goes out and preaches, he goes out and preaches. The parallels. The same angel visited both parents.
+
+- **Deacon Eythan:** Yeah. Gabriel visited Zacharias, and then he went and visited Mary and Joseph. The same angel visited both. So their lives are parallel, but there's no way that Joseph could be both the line of Solomon and Heli and Nathan at the same damn time. No contradictions. Exactly.
+
+- So, like I said, some of this stuff I take with a grain of salt, but some of the stuff is accurate. That Esau joint is fire. This joint here in Luke and Mary is fire too. Glad I decided to go into it. It's been a while since I pulled this out. I had this book for a long time. Let's go over. This is my first time really going through this map like this. So whatever you guys are seeing for the first time, I'm seeing it for the first time. Me and the officer, years ago, we came across this map. We going to use it one day. Read that.
+
+</div>
+
+<div class="reading">
+
+Reading from the map from *The Heritage of the Anglo-Saxon Race* by M. H. Gayer, 1941, the Covenant Publishing Company: the migrations of Israel, 721 BC to 1066  *[[1:59:32](https://www.youtube.com/watch?v=RqV7aovY3nw&t=7172s)]*
+
+> The migrations of Israel, 721 BC to 1066.
+
+- Stop playing, son. They playing games. This book is crazy. Hold on. We took a picture of it, but this is more clear. So this is the map right here, y'all. This is the book right here that we reading from. It's called The Heritage of the Anglo-Saxon Race, by M. H. Gayer. So this is the oldest rendition of the book, because, which is weird, I have three copies of this book. Three copies I ordered, and out of all three only one came with the map. So I said, okay, I know what you're trying to do. So I kept it. Mine is real fragile. This is the map right here we're reading from. It's in a little fold, a little slip in this book right here, back here. Like I said, antiquarians, bro. This book was published in 1941, the Covenant Publishing Company. A bunch of Edomite pictures. There's like eight of them.
+
+> In 721 BC Israel was finally carried captive to Assyria and never returned. Many escaped to other lands, but the bulk of the ten tribes were taken to the region southwest of the Caspian Sea. Here they were called the people of Gutha; the ancient name of Assyria was Gutium. A hundred years later they escaped. The whole land, then seething with war, left open one available route only, northwards through the Caucasus, where one pass to this day is called the Gate of Israel.
+
+- That's the time of Assyria. One pass to this day is called the Gate of Israel.
+
+> Here the tribes seem to have separated: Ephraim and Manasseh, as the Getae, settled at Arsareth, a region of Scythia north of the Crimea; see 2 Esdras chapter 13. While the larger party, called the Massagetae, settled in Casiphia, east of the Caspian, and gradually became known as the Scythians, as Britishers in Canada are called Canadians. The Massagetae: Ezekiel, about 593 BC, visited these tribes seeking their aid against Babylon. They refused. At this time they ceased to be called Israel, though the name was still employed in prophecy concerning them.
+
+- Wow, that's Getae. They trying to say that's America; that's off too. Casiphia, that's in the Bible. That's not too far from Babylon, I believe. That's not scripture I know of. Like I said, you can't put your feet totally ten toes down in here. You got to take it with a grain of salt. Now go. Hebrew, true. Hence Israel, true. Angels, Angles. Yeah, true. Hence Goth, true. That book about Goths and Getae are the same. Norse. Led by Odin: that's legendary stuff. Go down. Read the Getae.
+
+> The Getae. About 593 BC Ephraim and Manasseh separated from the Massagetae and were known as the Getae, or people of Gutha.
+
+- Okay, that I can go along with, because of the Phoenicians. That makes sense. And Geta, Septimius Severus, his son, that family, that can line with that. That makes sense.
+
+> For about 700 years they lived in Dacia, now Romania. Greek and Roman accounts of them are meager and untrustworthy. In war they were deemed invincible, as predicted, Deuteronomy chapter 33 verse 17 and Micah 5:8. About 82 to 76 BC one of the Anes, or Getic god-men, arose among them named Deceneus.
+
+- I definitely believe that. Let's go down, because there's a lot of semi-legendary. Like I said, I'm not going to read all of this. Go to 245.
+
+> In 245 AD the Goths, under King Ostrogotha, whose name they adopted, attacked the Romans but were bought off. Later they defeated the Romans at Moesia. Christianity now spread amongst them, and Ulfilas translated the scriptures into Gothic.
+
+- Okay, go up. Go to the right. Zoom in the map on top. Berbers. Yep, that's us. Let's see what we got here.
+
+> Sketch map illustrating the migrations of the tribes of Israel from the date of their first captivity to Assyria, BC 741, to their final assembling in the isles of the north, AD 1066, under their new name, as foretold in Isaiah chapter 62, verse 2.
+
+- Isaiah 52, no, 42. We black men, we can't figure out these Roman numerals. We ain't Romans. Isaiah 42 verse 2: he shall not cry, nor lift up, nor cause his voice to be heard in the streets. It can't be that. 52 verse 2: shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion. I don't know. I think it's 62 and 2, but they put the L in front of the X. 62 and 2: and the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the Lord shall name. No, that's in the kingdom. That's not what that means.
+
+- Go up. Berbers, Vandals. Okay. Iberia. These blue lines is northern kingdom migrations. Norse, Scythia. Yeah, that's stuff I can go along with. This makes sense, the migrations. Yes, they're migrating all around. Israel right there, being taken captive, being taken all around.
+
+- **Officer:** All the way in the top right corner, you see the Sacae right there, right near the Massagetae. Sakai, all those trails are the migrations.
+
+- **Deacon Eythan:** Okay, that I can roll with. Them traveling all around. That's true. But also the Americas, though, that they left out. Nation and company of nations. That's very true. That's very scripturally accurate. A nation and a company of nations shall be of thee. They got Americas, the red lines there. East Africa, South Africa, India, Australia. Yeah, true. What's the red lines for? Does that indicate where the king is? It should be a legend somewhere. The colors were selected by God for use as a tabernacle: no, that's a color of the cloths and stuff for the tabernacle. Zoom in to the left. British Isles, Great Britain, dominions, settlement. That is true. Conquest, treaty. It says the world of British possessions, blue, surrounded scarlet, American possessions blue. So I guess the red lines is going into populations. Area and population of British dominions. Oh, where Britain took over. That's all. Colonization areas. Australia. Okay, makes sense. This is them glorifying white folks again, trying to make themselves Israelites, and they're not. Not the black ones anyway. Go up to the top right. Manasseh equals America. Zoom in. Ephraim is the Britain, and Manasseh. Yeah, British Israelism is crazy, man. Ashkenazi, Judah. Yeah, my folks is crazy. So they got some good stuff in there, and some of this stuff is freaking wackiness, man. Promises of Ephraim, birthright. Yeah, he's going crazy. Like I said before, it's British Israelism. Be very mindful of it, because it is a doctrine. It is madness. But there's some truth in it. Now, right here is good. Read that. Heraldry.
+
+</div>
+
+<div class="reading">
+
+Reading from the map from *The Heritage of the Anglo-Saxon Race*, the section on heraldry  *[[2:11:54](https://www.youtube.com/watch?v=RqV7aovY3nw&t=7914s)]*
+
+> Heraldry was first introduced into England during the time of the Crusades for the recovery of the Holy Land, AD 1095 to 1249. The earliest roll of arms recorded is in the reign of Henry III. The twelve tribes of Israel had certain emblems and devices peculiar to each. These emblems, at first purely tribal, later became national. The emblem of the house of Judah, the scepter tribe, was the lion.
+
+- Yep, that's true. That's Micah 5 and 8.
+
+> The emblem of the leader of Israel, Ephraim, the birthright tribe, was the unicorn, wild ox, or bull.
+
+- Yes, that's the King James heraldic line. And some of your Bibles actually have that symbol. In the bottom of my Bible here, the Cambridge Bibles. Some of you may have it, some may not have it, but in mine it's right here. Yep. That's the same image you're seeing on the screen. Show it to them. It's small, but it's the King James heraldic line: Judah and Ephraim reigning together. So there is some truth to both kingdoms intermarrying and sitting on that throne. How much truth there is, I can't say for certain, because some of it is conjecture and British Israelistic nonsense. So I can't say for certain. That page in the Bible.
+
+</div>
+
+<div class="reading">
+
+Reading from the old Douay-Rheims Bible (the Old Testament first published by the English College at Douay, AD 1609, the New Testament by the English College at Rheims, AD 1582), the remarks on the two genealogies of Jesus Christ  *[[2:13:33](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8013s)]*
+
+> Holy Bible, Hebrew, Greek and other editions in divers languages. The Old Testament first published by the English College at Douay, AD 1609. The New Testament first published by the English College at Rheims, AD 1582.
+
+- It's older than the King James. 1609 for the old and 1582 for the new. Yeah, it's older. The Douay-Rheims version. There's an older version than the King James. That paragraph here on the bottom, that's all we need.
+
+> Remarks on the two genealogies of Jesus Christ. To make some attempt at an elucidation of the present very difficult subject of inquiry, we must carry in our minds: one, that in the scripture language the word begat applies to the remote as well as the immediate descendant of an ancestor; this accounts for the omission of several descendants in St. Matthew. Two, the word begat applies not only to the natural offspring, but to the offspring assigned to the ancestor by law.
+
+- Yes. That's like a grandfather or father. Law. Yep. In-law.
+
+> Three, if a man married the daughter and only child of another, he became, in the view of the Hebrew law, the son of that person,
+
+- Meaning Mary had no siblings. No brothers. No male. She had a sister. She had no brothers. She had a sister named Mary. It was two Marys. Or Miriam, whatever. But she had no brothers. So when her father passes away, what happens? Let's say, for example, I have all girls, right? And the officer has sons, right? And his sons marry one of my daughters, and I pass on my inheritance. I must put his son as my son to inherit my land. That's why it has that there. That's why Heli is mentioned at all. That's why it mentions him in the first place, because that's the male line. The inheritance is passed through the male.
+
+- **Officer:** That's why she had to marry Judah as well.
+
+- **Deacon Eythan:** She had to have married Judah as well. Marry her tribe. She had to marry Judah, her tribe. You understand? Read on.
+
+> and thus was a son assigned to him by law. The last two positions show in what sense Zorobabel was the son of both Neri and Salathiel, and Joseph the son both of Jacob and of Heli or Joachim. St. Matthew, in descending from Abraham to Joseph, the spouse of the blessed virgin, speaks of a son properly so called, and by way of generation: Abraham begat Isaac, etc. But St. Luke, in ascending from Jesus to God himself, speaks of a son properly or improperly so called. On this account he makes use of an indeterminate expression, in saying the son of Joseph, who was of Heli. That St. Luke does not always speak of a son properly called, and by way of generation, appears from the first and the last he names: for Jesus was only the putative son of Joseph, because Joseph was the spouse of Mary the mother of Christ, and Adam was only the son of God by creation. This being observed, we must acknowledge in the genealogy in St. Luke two sons improperly so called, that is, two sons-in-law instead of sons. As among the Hebrews the women entered not into the genealogy, when a house finished by a daughter, instead of naming the daughter in the genealogy they named the son-in-law, who had for father-in-law the father of his wife. The two sons-in-law mentioned by St. Luke are Joseph, the son-in-law of Heli, and Salathiel, the son-in-law of Neri.
+
+- Yep.
+
+> This remark clears up the difficulty. Joseph, the son of Jacob in St. Matthew, was the son-in-law of Heli in St. Luke. And Salathiel, the son of Jechonias in St. Matthew, was the son-in-law of Neri in St. Luke. Mary was the daughter of Heli, or Eliachim, or Joachim. Joseph, the son of Jacob, and Mary, the daughter of Heli, had a common origin, both descending from Zorobabel: Joseph by Abiud, the eldest, and Mary by Rhesa, the younger brother. Joseph descended from the royal branch of David, of which Solomon was the chief, and Mary from the other branch, of which Nathan was the chief. By Salathiel, the father of Zorobabel and son of Jechonias, Joseph and Mary descended from Solomon, the son and heir of David; and by the wife of Salathiel, the mother of Zorobabel and daughter of Neri, of which Neri Salathiel was the son-in-law, Joseph and Mary descended from Nathan, the other son of David; so that Joseph and Mary reunited in themselves all the blood of David. St. Matthew carries up the genealogy of Jesus to Abraham: this was the promise of the Messias made to the Jews. St. Luke carries it up to Adam: the promise of the Messias made to all men.
+
+- Yep. All right, that's it. All men: all Israelite men. Yes. All men of Israel. That's it.
+
+</div>
+
+## In Closing
+
+*[[2:19:27](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8367s)]* So, yeah, that's pretty much it. So we're going to jump more into, we're almost concluding the Eastern Europe. We took a journey with the northern kingdom into Eastern Europe, and Joan of Arc. We kind of went all over the place today, but it was fun. So, Lord's will, next week we will touch on, if we even have it, the show, we will journey to Eastern Europe and how we ruled over there further. Remember, the northern kingdom was already there. Pretty much our travels into Eastern Europe we did today, and our ruling. So I hope you guys enjoyed it. We kind of went a little off the rails a little bit, but it was still, you know, confined. So, Lord's will, we'll be a bit more on track next week. Hope you guys enjoyed the lesson. I landed right there.
+
+**Officer:** Yes, sir. All praise to the Lord. That was a great lesson. I'm pretty sure a lot of you learned something. I know I did. I always do. All praise to the Lord. Hey, as y'all know, man, this is our 201, man. We appreciate all of you that were part of the whole 200 episodes. Continue to tune in, ask questions, leave your comments, whether positive or negative; it all helps.
+
+**Deacon Eythan:** Oh, almost forgot. We forgot to mention the kilts.
+
+*[[2:20:56](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8456s)]* **Officer:** Oh, yeah. We got the images. I posted them. A sister had asked on Clubhouse real quick, that the men wore kilts, and she was aware of that, there were also certain colors, and why do we wear. But the kilts that Esau wears today is not the kilts that we wore back then.
+
+**Deacon Eythan:** There is a gayer rendition. You know, Esau makes things very gay. So this is how we originally dressed. This is how we used to dress, like this. We had pants. That's how we wore our garments back then. This is a digital AI rendition of the ancient.
+
+**Officer:** It was called the great kilt. When we wore it, it was the great kilt. They revamped it in the 1700s, and that's what we know as kilts today, where they're basically just skirts. But it was basically a woolen cloth that we tied around our waist and then we threw it over our shoulder, because of the Scottish Highlands, to help us from the weather.
+
+**Deacon Eythan:** Yeah. The Highlands. Highlanders. We were the Highlanders. The Lowlanders, that was all us as well. We never touched the Highlands, did we? A little bit. Put the other image too. See how it's like a wrap. It's like almost like a poncho. A black Irish poncho. Those were, this was called the great kilt. And what we have today is not that. We wore the great kilt. Went from the great kilt to the gay kilt. It reminds me of like the West African attire, that throw over their shoulder. We can't have nothing, bro. Esau saw this coming. It just makes it weird and homoerotic, and just ruins everything, man. But our people crazy. They want to wear that which looks masculine, but they'll wear the gay one, because the white man said. With no pants underneath. Just flopping around under the skirt. And they have like a little purse in the middle. Oh, man. So, sis, that's your answer. Your boy right there. No shoes. That's not how we wore our stuff, man. This guy look crazy, bro. He holding up a beer bottle in his hand. Is that a hat? It's a hat to cover his combover. That's his toupee. He's holding his hand with a skinny sword. You know where you got that skirt from, and it damn sure went in the men's department. That's Trump. He ain't got no shoes on, nothing. Macduff. My man. Black man. White Macduff. So that's me, white Macduff. Macduff mean black, but somehow he look like this. This is diabolical, man. The audacity of Caucasity, man. That's what this is. His name means black. He's white. This is insane. And Edomites will read the book and go, yeah, he's white. Go to the page where it mention what his name means. It's in a book called The Clans.
+
+*[[2:25:47](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8747s)]* **Officer:** This surname is one of the most ancient in Scotland, and the chief was among the first of those nobles who became distinguished by the Saxon title of Earl. Duff, the bh having the sound of f or v, is the term in Gaelic descriptive of a black or dark-colored man, and all those who are of this clan refer to Macduff, the powerful Thane of Fife, who overthrew Macbeth in 1056, as their common ancestor.
+
+**Deacon Eythan:** Gaelic, as in Celts, as in the Galatians. Same thing. The Thane. As a common ancestor. So Macbeth is black too. Macduff, go back to this dude again. Goes back to the Scythians. We black. The Getae, the Goths. That's all the same people. So this past comes full circle. Beowulf was a Thane. Yeah, Beowulf. That movie is called Beowulf. You watch that. Angelina Jolie, it's a really good movie, but she's a demon. That's Jacob too. Did this guy Macduff look like this? He look like Frasier. This crazy, bro. This dude's name is black, and he's a white man holding his hair in his hand, chilling. It's crazy, bro. I'm black, and it's white. That was crazy. Yo, I'm done, man. Let's just wrap it up, bro. All praise to the Lord. That guy look like Kramer with a kilt on, bro. Kramer the kilt. He's like a smoked-out Peter Pan.
+
+*[[2:30:16](https://www.youtube.com/watch?v=RqV7aovY3nw&t=9016s)]* So, Lord's will, man, we'll see y'all next week. Well, not next week. We'll see y'all soon. We're going to touch on the Russian black families, Eastern Europe, Ivan the Great, Saint Peter. Ivanov, whatever freaking names, Drago, Rocky, whatever. We're going to go into all that. Russian icons, Russia. The little twisty-top cathedrals over there. We're going to go into that. So, Lord's will, stay tuned for that. I'm going to enjoy going through that. That's pretty much the last of it before we end it. So stay tuned. Look forward to seeing y'all again. Shalom. Most High and Christ bless. Till next time. Shalom.
+
+## Announcements & References
+
+*[[2:27:18](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8838s)]* Continue to tune in to Our Hidden History. Subscribe. We got IUIC Philadelphia, IUIC Philadelphia in the Classroom. Donate to Our Hidden History on PayPal. Donating to Our Hidden History, as you can see, has done a lot for the show, helped purchase a lot of books the deacons and the officers definitely get busy on. All praise to the Lord for that. iuic.philadelphia@israelunite.org. Donate to the Booster Club on PayPal, iuic.pfundraising@israelunite.org. Last but not least, subscribe to IUIC TV for exclusive content from the leadership of IUIC.
+
+*[[2:28:40](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8920s)]* Our missing person segment. Our brother Darrell Jackson is missing. Age 12. African-American. Hair black, brown. Eyes color brown. 5'1 in height, 80 pounds. A thin brother, a little boy. You find any information, know anything about the brother, make sure you call your local authorities and give this information, and update brothers and sisters. Those that are doing this, it has been helping. We have been finding a few of our lost brothers and sisters. All praise to the Lord for this segment. Let's keep it going.
+
+*[[2:29:20](https://www.youtube.com/watch?v=RqV7aovY3nw&t=8960s)]* Now, the land fund: iuic.nationhood@israelunite.org; in the note section, put land. Y'all already seen the commercials. For those of you that do know, y'all seen what's going on. They already building on there, but we need more funds to continue to build on the land, so that we can finally celebrate all our feasts and everything that belongs to us, at peace, at our own discretion. All praise to the Lord for that. Keep donating to that. We're seeking your assistance to enhance our national broadcast. Kindly spare a minute to provide feedback by answering five brief questions. That's a QR code. Scan that, answer your questions. And hey, I can say that the team did pretty good. Any problems that he had today, I blame Manny, even though he's not here. Not here, but he will get the blame. But even though he's not here, the team did well without him. But we miss you, man. Hope you heal up, brother. Get better.
+
+Sources read from in this episode:
+
+- *Whence Came the Black Irish*, pages 35, 39, 44, 48 to 49, 53 to 55 and 57: Blome on Barbados in 1678, Father Stretch, Griffith Hughes on the mortality of slaves and servants, Cromwell's Jamaica expedition, the Irish in Jamaica, and the act for regulating servants (read by an officer).
+- *Saint Joan of Arc* by Vita Sackville-West, page 4, her description (read by an officer); the Wikipedia article on Joan of Arc, read off the screen.
+- *Ancient and Modern Britons*, pages 111 to 112, the Huns and the Cimbri (read by an officer).
+- *Our Descent*, pages 11 to 12, 54, 55 and 85: the Sacae and the Scythians, the Phoenicians and Cadiz, Iberia, and the Scythians in Wales and the Kymry (read by an officer; a British Israelite book, read with that caveat).
+- A book on the Sacae and the Saxons, pages 165 to 166, the Sakai of independent Tartary and Bokhara (read by an officer).
+- A book on the Scythians, Getae, Thracians and Goths, the passage highlighted in blue, posted to the Telegram; a page on the name Scythians and the wandering Ephraimites; a Google overview on the name Scythopolis; the definitions of interlude and antiquarian.
+- *Caesar and Christ*, on the Second Punic War; a page on Hannibal's counsel to Antiochus (read by an officer).
+- *The Heritage of the Anglo-Saxon Race* by M. H. Gayer, 1941, the Covenant Publishing Company: the folding lineage map, its note on the two genealogies quoting the Scofield Bible note on Luke 3, the migrations of Israel 721 BC to 1066, and the section on heraldry.
+- The old Douay-Rheims Bible (Old Testament, Douay 1609; New Testament, Rheims 1582), the remarks on the two genealogies of Jesus Christ (read by an officer).
+- *The Clans*, the entry on Macduff (read by an officer).
+- Video: the clip from *Coming to America*, the dates.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=RqV7aovY3nw)
