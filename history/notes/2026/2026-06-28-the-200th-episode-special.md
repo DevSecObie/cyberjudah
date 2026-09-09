@@ -1,0 +1,933 @@
+---
+title: "The 200th Episode Special"
+slug: "2026/2026-06-28-the-200th-episode-special"
+date: "2026-06-28"
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2026-06-28 · with a captain and the officers of IUIC Philadelphia, before a live audience"
+tags: ["Our Hidden History", "wisdom"]
+---
+
+<p class="taught">Our Hidden History · 2026-06-28 · Deacon Eythan, with a captain and the officers of IUIC Philadelphia, before a live audience</p>
+
+<span class="opens"><b>Opens</b> [Lev 19](/bible/leviticus/19) · [Rom 16](/bible/romans/16) · [2 Pet 2](/bible/2-peter/2) · [1 Tim 5](/bible/1-timothy/5) · [Sir 3](/bible/sirach/3) · [Josh 14](/bible/joshua/14) · [Deut 34](/bible/deuteronomy/34) · [Rom 9](/bible/romans/9) · [Ezek 37](/bible/ezekiel/37) · [Sir 21](/bible/sirach/21) · [Sir 34](/bible/sirach/34) · [Ezek 34](/bible/ezekiel/34) · [Jer 28](/bible/jeremiah/28) · [Ezek 47](/bible/ezekiel/47) · [Eph 5](/bible/ephesians/5) · [Sir 15](/bible/sirach/15) · <i>and 11 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="8qe2AlcfBmo"></div>
+
+## Introduction
+
+*[[12:53](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=773s)]* The 200th episode opens with the show's song: Do you really know? Do you know your history? When an actress play in your city, you know it's not going to be very pretty. Better get online, listen in. We going to heal your mind from within. It's the 200th episode and we really, really want to know if you really know who you are, because we going to go very far.
+
+*[[16:14](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=974s)]* You are now tuned in to Our Hidden History Radio, 200. All praises, man. The audience redeemed us. I'm really excited. Thank y'all for coming. Thank you for your support. Got a live audience this time. It's been a long time. How long has it been? Like four years, right? July of 2020. So shout outs to all of y'all, to the live audience. Shout outs to the brothers, shout outs to the sisters, shout outs to y'all online who've been giving your support all this time. It's been going a long way. Six years. Damn. Don't forget about the plagiarizers, the ones that watch the show and then go back and go, did you know, and make shorts. They go back to the old videos. They screenshotting. But whatever. It's all glory to the Lord regardless.
+
+All praise to the Most High for this episode, the 200th episode. I want to start off with giving a shout out to the bishops, deacons, the captains, officers, soldiers, the men, women and children also, who give their support to watch the show avidly. I'm really without words, because I'm excited. So let's jump into it.
+
+*[[19:08](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=1148s)]* I want to open up with, I think it's Leviticus 19:32. Because when I first came into the truth, really, when it was introduced to me regarding history, it was Deacon Asaph. Well, not even Asaph, but it was before him, when I was in college and I met a brother named Virtue, and he was learning from the elders of the old school years ago, and he was telling me how, you know, King James is a black man, and we used to rule Europe. And I'm like, what? He's like, we used to rule Europe and all that other stuff. I'm like, really? And then eventually, maybe two years or so later, I ran into Asaph, and he expounded upon that history, and then brought me the old VHS tapes. Some of y'all have no idea what a VHS tape even is. I'm telling my age even saying it, but VHS tapes, the VCR. So the elders back at the old school had tapes, and they would go over all the history lessons and so forth, which are very hard to come across. But not recently, because now they start to upload them on YouTube. Bishop Yawasop and Bishop Nathaniel were part of the editing; they were the IT team of the old school years ago. They were behind the editing of the videos, and so they were really exposed to that history as well, obviously before I was born. So I want to read Leviticus 19 verse 32.
+
+## Readings and Scriptures
+
+
+**[Leviticus 19:32](/bible/leviticus/19#v32)**  *[[20:41](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=1241s)]*
+
+> <sup>[32](/bible/leviticus/19#v32)</sup> Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the Lord.
+
+- So the hoary head goes back to the elders that were around before me. The captain was around at the time. He know exactly what I'm talking about. He knows exactly who I'm referring to. That's him right there, man. He was around at the time. And the guy right there at the bottom to the right was who taught Asaph.
+
+- **Captain:** He taught me and Deacon Asaph before I came to IUIC. He was our teacher first.
+
+- **Deacon Eythan:** So he taught Asaph, and Asaph taught me. So that's pretty much my teacher also. But these are all the elders. Go over to the right. The red garment, that's Arya right there.
+
+- **Captain:** Listen, that Arya. Man, you used to turn Times Square. The moment he took the mic, people could hear a pin drop. Time stopped. And when he opened his mouth and opened the Bible, everybody got to stop and listen to what he got to say. All praise to the Most High.
+
+- **Deacon Eythan:** All praises. That's Masha to the right. Arya to the left, and you have Arya's father, who was Yaquab, who was the successor of Abba Bivens. So it was Yaquab and Masha initially, then Arya came later on. But these are pretty much the men that came up before us. There's many others that I don't really see in the picture here. Give me Romans 16:7 as well. So these men were before us. These are the guys that were behind the history before us. Arya was in history. Masha even had some history lessons he was involved in too; Yaquab, I believe, also. But Paul also gave respect to those before him.
+
+- **Captain:** They were beyond their time.
+
+- **Deacon Eythan:** These guys were teaching history before Google, before AI, before the computer, before the smartphone. They had to go to the library. They had to go to the library over and over again, and just read. That's what they had to do.
+
+**[Romans 16:7](/bible/romans/16#v7)**  *[[23:14](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=1394s)]*
+
+> <sup>[7](/bible/romans/16#v7)</sup> Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.
+
+- Right? So the disciples had taught these people that came before Paul. So Paul gave respect to those that were before him. So these men were before us. Most of them are gone, passed away or gone, but they still were around. They built the foundation that was before.
+
+- Now I want to give an analogy in regards to that, because many will say, because they went off, we should disregard the works that they put in. So I'm going to give you an analogy. Let's say you buy a plot of land, and you come across a house. It's a foundation. Bricks there. You got cement blocks there, cement, the whole bottom of a house. And you see plumbing's already set up, all that other stuff. You're like, well, who built this? You're wondering who built this, because you thought it was just land, but it's an unfinished house. So you do your research. And you're going to find out who was behind laying the bricks down, the plumbing and so forth, whatever is involved in building the foundation of a home. You find that it's very sturdy, the bricks are good, the cement was well made, the ground was fixed and so forth, just to build upon this foundation. So you do more research, and you come to find out the men that were behind laying the bricks, the men that were behind putting the cement down, the men that were behind all of the plumbing, the pipes, the digging of the wells, they had all that already done when you got there. You come to find out some of them were alcoholics. Some of them had drug issues. Some of them was involved in prostitution, maybe, or may have been pimps and so forth. May have stole. They had flaws. They had a past. Although we all have a past, but let's say these men that you find out built this amazing portion of a house that's unfinished, that you decide to build upon, that was their past. You're not going to care, because what they've built is what matters. Despite their imperfections, and despite them being gone, wherever they went, they were heavily instrumental in the building of that house. Now Christ is the foundation, but these men put the bricks upon that foundation. They had the cement down. That's why I give respect to these men, because they were before us. You can't put their flaws in front and go, oh, well, he fell off. Yeah, he did. But he still built that foundation that we are now building on today. So Paul said, I respect those before me.
+
+- Now this picture right here, this is Arya right here, and this is our Bishop in the back right there. He was in the presence of great men back then, in the time of their greatness. And I learned from a great man, Bishop, to respect and honor great men, because that's what he was taught to do. And I'm going to follow behind that example, and not allow, because they had flaws or issues, to just disregard the work that they put in. You understand? So this is our Bishop right here, and all the elders right there. Who's that? Captain, enlighten us. Who's at the table, if you remember by name?
+
+- **Captain:** We got Elder Arya, and another elder, and to his right, that was Masha. And behind Masha, that was Yeshaya. Yeshaya, the historian. He was one of the historians I used to watch. On the bottom there was a captain, a Levi. And those, I think, are the Wu-Tang. That's RZA right there, from Wu-Tang, because he knew he was Israel as well. He still does. They used to come to learn. That was when they was on top of their game. Some of the Muslims used to come there. A lot of NOI would come also and learn.
+
+- **Deacon Eythan:** Those are the days. Give me 2 Peter 2:10.
+
+**[2 Peter 2:10](/bible/2-peter/2#v10)**  *[[28:17](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=1697s)]*
+
+> <sup>[10](/bible/2-peter/2#v10)</sup> But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
+
+- Despise government: despise being told what to do, despise leadership. Self-willed. These are those who do what? They are not afraid to speak evil of dignities. All the attributes you read about earlier are the men that are not afraid to speak evil of dignities. Not afraid to speak evil of men before them, like Paul gave reverence to in Romans 16:7. He says, these are they who are not afraid to speak evil of dignities. And understand, for it to be written by Peter that you're not afraid to do it, that means there's consequences behind doing it. Otherwise you would be afraid to do it. That's why I don't do it. I do not do it. I don't speak evil of any of these men. Despite what they may have said or done, I will not speak evil of these men, because yesterday to them, tomorrow for you. So I don't speak evil of them, neither of any of you.
+
+- So in this next picture here, that was Bishop and Arya. Next image here, this is Arya teaching. That's Bishop Yawasop reading for him right there in the street. Right there. These men, both of our bishops, were in the presence of great men in that time. These are the glory days, I call them.
+
+- **Captain:** That was Times Square right there. And because of Arya, Times Square was remodeled and restructured, where you cannot be there no more. They put seats there and put a blockade there where they were teaching at. You can't be there no more. They basically restricted public access because of him. He was on a very high podium. He did like four steps just to go on top of that podium. So he basically literally was on top of the world. And his voice, man. Listen, man.
+
+- **Deacon Eythan:** Play that clip.
+
+<div class="reading">
+
+Reading from the clip of Elder Arya teaching in Times Square  *[[30:32](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=1832s)]*
+
+> Because this is the book of the Israelites. And how in the hell did you try to take this Bible and use it for everybody? You stupid as hell. You dumb as hell. This Bible is what's going to condemn you. Because this is the book of the Israelites. You should have destroyed this book, you dumb so-called white people. Instead of going around and trying to use the Bible, the Bible is the book that's going to destroy your world. That's right.
+
+- Man, that dude, man, was the most.
+
+- **Captain:** See, the brother to Arya's right, he's the one I used to do the editing with, with Bishop Yawasop. Editing team.
+
+> Who is the father of these records called the Bible? Israelites. What was Moses? An Israelite of the tribe of Levi. What was Yahshua? An Israelite, of course. You can read some damn time. Luke, Matthew, John, Paul, Peter, all of them were Israelites. Christ was an Israelite of the tribe of Judah. So why is people so damn stupid and dumb? Read that statement again. Who are the fathers? That's who the fathers of these records are. Israelites that written the books called the Bible. They were Israelites. And of whom as concerning the flesh Christ came. You see these so-called Europeans walking around with the coats and all that, talking about they Jews. They ain't no Jews. These bastards are Edomites, just like the other so-called Europeans. And when you go do study on this, these so-called Jews come out of the Ashkenazis, with a bunch of German bastards. That's who Hitler was killing. German bastards.
+
+- And now you hear everybody on YouTube right now talking about Ashkenazi, Ashkenazi. This man was the one before everybody else that was bringing out the history. Now you got a bunch of young camps talking about Ashkenazi, and they're disrespecting those men. And in the world, you even got Candace Owens talking about this now. You got a lot of public figures saying the exact same thing he's saying here. This is '92, '93. This is the '90s. So he was already saying things that some people are hearing for the first time now, by like Tucker Carlson, Candace Owens, Ye. They're late. They've been saying this stuff. They didn't have no social media or ChatGPT or Claude or whatever. They didn't have any AI. These guys went into the books. They went to the libraries like everybody else, got a library card, went there repeatedly, religiously, in the library, and found these books on their own without any kind of smartphone or digital assistance of any kind. The Most High moved these men to find these things that we're building upon today. We're doing it with the show.
+
+- **Captain:** And Deacon, man, you see that Edomite right there? I'm not saying exactly him, but Edomites used to get out the limo and stop and listen, asking, how did y'all know these things? Who told you that? He said, we spent millions of dollars trying to keep it from you. How you figure it out?
+
+> Wait a minute, Rocky. I see a very disturbing look on this guy's face. Here's a young white man, a little overweight. I don't know how much he weighs, maybe 210 pounds, 205. He looks a little absurd, a little upset. He had a Negro standing by him that's walking across now. He whispered something to him. I don't know what he said. But anyway, here's a white guy that's looking like, is this guy on drugs? You know, doesn't he say these guys are the racists? What's going on here? My own white speaking against me. What do you got to say to him? I don't even talk to white people that don't acknowledge they come from Esau. They're not on first base.
+
+- Pause. That's Rocky Stone. He was the man that would come by, and we used him as a co-signer, a live-action co-signer, to let Negroes know. You don't believe us? Okay, Rocky, please go and tell the stupid black people that we're Jews. Yes, they're the Jews. I read books. Yes. We're Esau. We ruled the Dark Ages. That's true.
+
+- **Captain:** And he used to come every week. He would try to convert you. He would teach Esau in his house that they're Edomites.
+
+- **Deacon Eythan:** He acknowledged that. You're right. I acknowledge it. Where he is now, I don't know. But that's what he was saying back then. Damn. They're not on first base.
+
+- So give me 1 Timothy 5:1, because these men would be the fathers that we never had, really, in this truth, first and foremost. So like I said before, respect is given and respect is due. These men shook the earth when they taught. Arya was by far the most profound, greatest teacher of Israelites of all time. The GOAT. The GOAT of Israelite teachers. And Bishop Yawasop sounds exactly like him. I don't know how, but he sounds just like him. The voice and everything. It's crazy. He'll laugh about it, but it's true. He sounds like him. And Bishop acts like him, that ferocity, that fierceness.
+
+</div>
+
+**[1 Timothy 5:1](/bible/1-timothy/5#v1)**  *[[36:43](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=2203s)]*
+
+> <sup>[1](/bible/1-timothy/5#v1)</sup> Rebuke not an elder, but intreat him as a father; and the younger men as brethren;
+
+- So we were to treat our elders as fathers. And the younger men as brethren. But the point I want to focus on is the elders as fathers. Give me Sirach 3:10. Because these men eventually grew older, and when they grew older, a lot of them passed on. Now when I say passed on, I mean they passed on in two senses. One sense, as in they went off and went back into the world, some of them. Most of them, really, went back into the world. Some of them passed away, and then some of them just went off. They spiritually died, some of them, and then some of them physically passed away. But while they were in their right minds at the time, that is the time I'm referencing, that is what I commemorate. Sirach 3 and 10.
+
+**[Sirach 3:10-14](/bible/sirach/3#v10)**  *[[37:28](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=2248s)]*
+
+> <sup>[10](/bible/sirach/3#v10)</sup> Glory not in the dishonour of thy father; for thy father’s dishonour is no glory unto thee.
+
+- So I will not sit up here and glory in the fall of Arya, or anyone for that matter. I will not glory in the mistakes they've made. I will not glory in the things that they've said that may have you upset. Oh, he said that. Yeah, he did. He said it. So what? But what he said prior to that, you're teaching now. That's what blows my mind. You having debates with people over and over again, based upon us being Israelites, from what the Lord revealed to him. The Lord revealed to him, not the twelve tribes itself, because Abba Bivens, get the picture of Abba right there to the left. Abba Bivens, he was the founder. We're basically Bivites. That's what we are. We're Israelites, but we're Bivites in terms of teaching. Abba Bivens was the founder of the One West Israelite teaching. Then you had Yaquab. Yaquab is on the right, and Masha on the bottom right, and to the top right is the father of Arya, on the bottom left. So that's Arya there, Yaquab to the right, and then to the bottom right is Masha, who was the successor of Abba. Because Abba was a fierce teacher as well. They adopted that from him. He would go on the street on a ladder and teach, the old podium. And he would have competitions. He didn't play games. He'd punch you in the face. I'm not glorifying that. But he didn't play with you. You got out of line, he hurt you, and he'd go back and teach again. Anyway, that's how he was. So he eventually got into a confrontation with some Muslims, and he passed away due to his injuries. He got injured really bad. Muslims are violent and they're murderous. I believe it was in Jersey where it took place.
+
+- **Captain:** It was in Jersey. Newark, New Jersey. The same mosque that belongs to the murderers of Malcolm X, the same men that killed him.
+
+- **Deacon Eythan:** I believe the same murderers that got free, by the way, that they hide to this day. Because three of the guys that shot at Malcolm X, one of them was a fall guy. And the one that did kill Malcolm walked around scot-free for years. And all these Muslims, alhamdulillah, all that BS, sat around, watched this Negro walk around free, who took the life of a man who had six daughters, I believe, that did way more for the nation than anybody after Elijah Muhammad did, and watched this man walk around scot-free, and kept it quiet. Then he dropped dead recently, and they kept it secret. So that same mosque that I believe that murderous Negro came from was the same group of Muslims that harmed Abba during this competition with them. That's what I believe. I could be wrong. I believe it was the same area. And so he passed on the mantle to Yaquab and Masha, and they took on that same ferocious spirit he had, not so much in a violent way, but the way they taught, and they passed it on to Arya, and then Arya passed it on to the rest, Yeshaya and them, and the rest is history. Then Bishop Yawasop, Bishop Nathaniel and the Bishop took on the mantle, the same that they had back then, our bishops had, and passed on to us. And so we treat these men as elders.
+
+- Go back to the picture where the Bishop is behind the elder. I want to give a shout out to the bishops. That one right here, you see how the Bishop is behind Elder Arya.
+
+- **Captain:** Shout out to Bishop Nathaniel. He got the attribute of all of them. And when I came to IUIC, I was like, okay, Yeshaya would be one bishop, and the other elder would be Bishop Yawasop, because he was not playing, just like serious. Bishop Yawasop is no games. And Deacon would be Elder Kazak, the historian. So that'd be you. When I first came, I'm like, wait a minute. You could see the spirits, like, transferring over to those men. I was like, wow. It was amazing. It's almost like I saw everybody that was in the old school.
+
+- **Deacon Eythan:** Shout out, man. So read that, Sirach 3:10.
+
+> <sup>[11](/bible/sirach/3#v11)</sup> For the glory of a man is from the honour of his father; and a mother in dishonour is a reproach to the children.
+
+- Your father's dishonor is no glory unto you. You can't glory in the dishonor of your elders and then get props for that. That's not how that works. So this is referring to your actual parents, but also your elders as well.
+
+> <sup>[12](/bible/sirach/3#v12)</sup> My son, help thy father in his age, and grieve him not as long as he liveth.
+
+- When he gets older.
+
+> <sup>[13](/bible/sirach/3#v13)</sup> And if his understanding fail, have patience with him; and despise him not when thou art in thy full strength.
+>
+> <sup>[14](/bible/sirach/3#v14)</sup> For the relieving of thy father shall not be forgotten: and instead of sins it shall be added to build thee up.
+
+- If his understanding fail: you get old, you start to forget things. Like I think the elders back then, they got old. Yaquab got old, right, Captain?
+
+- **Captain:** Yeah. Got old, and he started losing a little bit. And then I believe Masha behind him, the same thing, losing his wits a little bit, because they got old. They got really old. They lived a long time. When I first came in, Yaquab used to sit right by the door of the school, because he was basically retired. So he didn't go out in the street no more, because he was too old, but he was still present. He was right there, right by the door. He always sit by the door. Before you go in, he'll be right there. Nobody knew who he was. I didn't even know who he was. One day he's sitting there, and I stopped by talking to him, and I was like, who's this? I said, oh, that's Arya's father. I was like, oh, wow, I didn't know that. So nobody knew who he was. He's just quiet, just sitting there.
+
+- **Deacon Eythan:** Then Masha got older eventually as well, and the same thing with him. It says understanding begins to fail you as you get older.
+
+- **Captain:** We got a YouTube of him teaching. Check the Telegram. Yaquab.
+
+- **Deacon Eythan:** Play it, because that's Arya's father.
+
+<div class="reading">
+
+Reading from the clip of Elder Yaquab teaching, the School of Universal Practical Knowledge  *[[45:36](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=2736s)]*
+
+> School of Universal Practical Knowledge. What this is all about is the true facts of the past, that the Israelites are coming back to rule the future kingdom on this planet earth. The Israelites was chased out of the land of Canaan many years ago, according to this Bible, by the Greeks and the Romans. And they set up many churches and synagogues, trying to be us, while we went into a negative setting of the Greeks and Romans, to find out about the other side of what the Most High is showing us. He's showing us, before we can bring the kingdom, to educate us to the negative and the positive. Once we learn the negative, we will know how to set up the positive, which is righteousness on this planet earth. And that's what this book is all about. You want to know what this is all about? Just take a paper. He comes on Friday at four o'clock. But I'm proud to know the truth. Knowing the truth. I'm 72 years old and I feel like a champion. I feel like I could get in the ring with those fighters.
+
+- Pause real fast. So you notice he said, I'm old. He said, I'm 72, but I feel like I can get in the ring. I remember Caleb said the same thing. He said, I'm old, he was 85, but he felt like he was 40. Joshua 14, verse 7.
+
+</div>
+
+**[Joshua 14:7-11](/bible/joshua/14#v7)**  *[[49:08](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=2948s)]*
+
+> <sup>[7](/bible/joshua/14#v7)</sup> Forty years old was I when Moses the servant of the Lord sent me from Kadesh–barnea to espy out the land; and I brought him word again as it was in mine heart.
+>
+> <sup>[8](/bible/joshua/14#v8)</sup> Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the Lord my God.
+
+- They were scared. They were shook.
+
+> <sup>[9](/bible/joshua/14#v9)</sup> And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the Lord my God.
+>
+> <sup>[10](/bible/joshua/14#v10)</sup> And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.
+
+- So I was 40 years old, I spied the land out, and behold, I'm alive. Now I'm 85 years old, he said. Go ahead, watch.
+
+> <sup>[11](/bible/joshua/14#v11)</sup> As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
+
+- So he had the same strength at 85 as when he was 40. He said, man, I'm still strong as I was, I'm 40, 45 years old, and I'm still the same way I did when I went and spied the land out. For war. He was still going to war at 85. 85 years old, Caleb was still going to war. So the same thing he was stepped out to do by Moses at a young age, he did the same thing at his older age. That's the same thing that Yaquab just said.
+
+- **Captain:** Hey, you got Deuteronomy 34 and 7 with Moses.
+
+- **Deacon Eythan:** Oh, yeah. Get that too.
+
+**[Deuteronomy 34:7](/bible/deuteronomy/34#v7)**  *[[50:39](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=3039s)]*
+
+> <sup>[7](/bible/deuteronomy/34#v7)</sup> And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.
+
+- So he still had the same strength as well. Until he was 120 years old, till he died, he still had the same strength he had. Nor his eyes; his eyes wasn't even dim. Good eyes too. No glasses, no prescription, no contact lenses. The guy had the vision of a hawk at 120 years old. What the hell was he eating? I want to eat that too. My eyes are terrible. Anyway, let's go back to where we was at.
+
+- **Captain:** Hey, Deacon, I found a video with Kazak.
+
+- **Deacon Eythan:** He found it. Okay, all praises. That's him right there. Press play.
+
+<div class="reading">
+
+Reading from the clip of Elder Kazak teaching on feast days and so-called holidays  *[[51:25](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=3085s)]*
+
+> Shalom. We coming back with information dealing with our nation, the nation of Israel. The so-called Negroes, West Indians, Puerto Ricans, the Cubans, the Panamanians, the Indians on the reservation, the Indians located from North, South and Central America, are the twelve tribes of the nation of Israel. Our topic tonight is about feast days and so-called holidays. The reason that we coming out with this information tonight is because the so-called Negro, West Indian, Puerto Ricans, our people in this country, are worshiping pagan.
+
+- **Captain:** He was the first one that was put in there, in the coffin. He took over.
+
+- **Deacon Eythan:** Wow. Praise the Lord. So he was OHH of old.
+
+- **Captain:** He was OHH of old. Listen, man, I remember him. He used to teach with this little pen with a finger on it and point. That was his voice. I got a face to the voice now. I remember the voice, but I didn't remember the face. This is a history segment. He's one of the historians. That's the book right there in front of him. This dude was bad, bro.
+
+- **Deacon Eythan:** Now again, remember, there was no AI, there was no Google, there was no smartphone. There was none of that. You was getting your behind up, going to the library, running out a book, reading through it. They read through many books. I have so many books I haven't read all of them. They read all of them, from cover to cover. So these guys were ahead of their time, man. Read on, Sirach 3, verse 13.
+
+</div>
+
+**[Sirach 3:13-14](/bible/sirach/3#v13)**  *[[53:03](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=3183s)]*
+
+> <sup>[13](/bible/sirach/3#v13)</sup> And if his understanding fail, have patience with him; and despise him not when thou art in thy full strength.
+>
+> <sup>[14](/bible/sirach/3#v14)</sup> For the relieving of thy father shall not be forgotten: and instead of sins it shall be added to build thee up.
+
+- So you have to have patience with your elders, or your fathers, that lose their wits, or understanding fails them. And over time that's what happened to these men. Some of them passed on spiritually, some of them passed on physically. Masha physically, Arya spiritually, or who knows.
+
+- **Officer:** Can I read a scripture real quick? Romans chapter 9 and verse 15.
+
+**[Romans 9:15](/bible/romans/9#v15)**  *[[55:32](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=3332s)]*
+
+> <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+
+- **Officer:** Just remember that. That's what the Lord told Moses. The Most High can have mercy on whom he would have mercy, and he'll have compassion on whom he wants to have compassion on. So while you demonize the man that was before you, here you go, the Lord might have mercy on them, because of the work that they put in, and then you going around demonizing them. So just be mindful of that.
+
+- **Deacon Eythan:** Nothing is impossible with the Most High. Next video, Elder Masha, the twelve tribes sign. I'm going to play that just to show that these men, that's it right there.
+
+<div class="reading">
+
+Reading from the clip of Elder Masha breaking down the twelve tribes chart, the sound barely carrying  *[[56:05](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=3365s)]*
+
+> So we want to talk about identity. Going to run down the chart. I met people, child of, so the travel independent, are so Indian, areas of the child.
+
+- All right, stop right there. So that's him breaking out the twelve tribes chart right there. We got a guest call. Let's see who it is.
+
+- **Bishop:** Hey, I miss you. I can't see y'all. I just see you. Everything's good. I'm on my walk. Still on my walk. I'm old as hell, but I carry me through. All praises.
+
+- **Deacon Eythan:** Everything's good, man. It's live. We got an audience, so everyone hears you. We were going over the history of the elders. We were talking about how Yaquab was saying he was 72, but he felt like he was young; he could still go in the ring when he was out there speaking.
+
+- **Bishop:** Oh, yeah. He would always say that.
+
+- **Deacon Eythan:** It reminded us of Caleb. Caleb was 40 when he got sent to spy out the land, but then he turned 85 and he still felt the same way as he did at that time. Still going to war. So it was the same thing we were going into.
+
+- **Bishop:** That's right. All praise to the Most High. Yeah, the elders was something. They were a special breed back then. Special breed. I know the Most High anointed them to bring us this glorious truth, because without them laying the foundation, we all be in the damn Christian church praying about Jesus, and praying to a freaking rock. So you touching on Yaquab. Was it Yaquab picking up the twelve tribes chart, or was it Masha's video?
+
+- **Deacon Eythan:** Masha's video, the twelve tribes chart, going over it. So we're just going over those things now, just showing all the elders going over the twelve tribes chart. And we also showed a picture of you also.
+
+- **Bishop:** Yes, sir. And Arya had a dream about that, and that's how it all came out. Because Bivens, he knew about the two kingdoms, but he knew about American blacks being Judah. That was about it. But the rest of the tribes, Arya was telling us he had a dream. Masha told us the same thing. Yaquab told us the same thing. This is when he had broken his legs. Arya got his legs broken on the construction site or something like that. And he was just studying Genesis 49 and Deuteronomy 33, and one night he just had a dream, and the spirit was showing him which tribe was where, you know, and that's how that came out. All praises.
+
+- **Deacon Eythan:** Yes, sir. All praise. We'll go over that. We were just going over how Abba knew that already, but then the Lord just gave Arya the designations, pretty much.
+
+- **Bishop:** Yes. And then after that, you see now more books have been coming out backing up what the spirit showed Arya decades ago. So this is why, when you look at these apologetics, the books we bring out they leave alone. They pretty much leave alone, because they figure they could twist the Bible, because they know most people don't know the Bible, and they try to say we twist scriptures. But no, with the archaeological and historic facts, some books are from the Spaniards, and it proves who the tribes are. Like Lost Tribes and Promised Lands, those are records. So all these other groups out there just shut the hell up. They mad about the twelve tribes sign. Ezekiel 37 says get two sticks and join them together. That's what that sign is. And people ask, what do y'all mean by this? Same thing like the scriptures say. So all those haters out there, they ain't doing nothing. They do videos about us so they can get views and monetization. That's all they about. They ain't about God's work at all.
+
+- **Deacon Eythan:** That's right. All praises, Bishop. Thanks for calling in.
+
+- **Bishop:** Call me back if y'all need something.
+
+- **Deacon Eythan:** We got a lifeline. We definitely got a lifeline.
+
+- **Officer:** So I'm listening to what you're bringing out, Deacon. And you know, as the Levitical anthropologist of this show, I did some research. I realized the men back then did not have AI. They had SI: spiritual intelligence.
+
+- **Deacon Eythan:** All right. I like that. That was good.
+
+- **Captain:** Hey, Deacon, the Bishop went out with the two sticks, and that's exactly how I got it. I was on Wall Street. I was doing messenger at that time, and they had a camp on Wall Street, and I was passing by and I saw the sign, and I saw Haitian on the sign, and I stopped and I asked him, exactly what do you mean by this? And they went in the scripture and showed me. They showed me the color of Christ and showed me the slavery, and that was it from there.
+
+- **Deacon Eythan:** So that's definitely prophecy. The scripture said, when you ask, what do you mean by these? That's exactly the same thing I told you. Ezekiel 37 and verse 16. What's funny, ironic, is I had that written right here, right after Masha's breakdown. So Bishop mentioned it right before I could bring it out. And I got a video of Bishop too, teaching.
+
+</div>
+
+**[Ezekiel 37:16-20](/bible/ezekiel/37#v16)**  *[[1:03:13](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=3793s)]*
+
+> <sup>[16](/bible/ezekiel/37#v16)</sup> Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
+
+- Judah's companions is Benjamin and Levi, those are his companions. For Joseph, the stick of Ephraim, and for all the house of Israel his companions: that's all the way down, Manasseh, Reuben, Naphtali, Gad, that's the rest of his companions.
+
+> <sup>[17](/bible/ezekiel/37#v17)</sup> And join them one to another into one stick; and they shall become one in thine hand.
+
+- Make them one on that same stick. Make them one.
+
+> <sup>[18](/bible/ezekiel/37#v18)</sup> And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
+
+- What does this mean we talking about? How are these all the same people you're saying? That's what we see in the street all the time. We go on the street and teach at camp. What do you mean by these?
+
+> <sup>[19](/bible/ezekiel/37#v19)</sup> Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
+>
+> <sup>[20](/bible/ezekiel/37#v20)</sup> And the sticks whereon thou writest shall be in thine hand before their eyes.
+
+- And the sticks whereon thou writest: so you're going to write on the stick. That's the sign, the tribes sign we put up. Shall be in thine hand before their eyes.
+
+- Give me that book we have that said the prophets showed signs and held them up. It's an old dictionary. Richard Watson's dictionary. It's under the glossary of prophets, and it shows what they did, what they held up when they went out in the street and taught publicly, for those of y'all who cower behind closed doors. This is an old, old theological dictionary. Go down to the year of it. Richard Watson, 1849. White eyes only. We were still slaves at this time.
+
+- Give me Sirach 21:15. Well, while you find that, let me go backwards. Abba Bivens understood that the blacks and the Native Americans are the same people, that they're Israelites. He knew that. The Lord then revealed to Arya, without any books, the designations of each of the tribes: Ephraim, Puerto Ricans; Simeon, Dominicans. Now people will argue and contest and say that's a lie, that's made up, it's not true. Because Negroes can't have dreams. Negroes can't have visions. We're just Negroes. White folks can have visions and dreams, and people listen to it. We have visions and dreams, it's crazy. Anyway, so let's just play devil's advocate and say that that breakdown of those tribes is wrong. There's one thing you cannot do. You cannot deny historically that those people on that sign are, one, the same people, and two, underwent the same biblical prophecies. The ships, the colonization, the conquering, the overthrowing, them being on this side of the world, and Esdras, that's us. So you negate the designations; you cannot negate the slave trade, the Native American slave trade, the Negro slave trade. Remember, for every three slaves, you have one black and two Native Americans. And Native Americans were cheaper, because they were already there. But because they could run away, Negroes were more of a desire, because we didn't know where we was at. You understand? So both of us were sold as slaves in New York. The slave trade was filled with blacks and Native Americans. So those are the same people. So if you rearrange the tribes chart and go, okay, well, Puerto Ricans are Simeon, either or, all those people on that sign are Israelites regardless of what you say. But we know what we're talking about. We know that Judah is the so-called African-Americans. That's a fact. Get that Edomite real quick, that video of that Edomite saying it, just in case. That's a white man. We're going to do a Rocky Stone today; a modern-day white man going to say it for you, since you guys are confused. The publisher, the one about the tribe of Judah among the blacks we played the other day, Planned Parenthood. And it goes back to the little article we had about the physician that went to that Bible, the Bible being changed. Dr. Stephen Pidgeon, CEO, Cepher Publishing Group. Press play.
+
+<div class="reading">
+
+Reading from the clip of Dr. Stephen Pidgeon of Cepher Publishing on eugenics and the tribe of Judah  *[[1:09:27](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=4167s)]*
+
+> Hitler, you know, and the Nazis of course expanded on Margaret Sanger's approach to eugenics, right? Eugenics was a movement that was born in the United States.
+
+- Eugenics became Planned Parenthood. And it was also referred to before that as the American Birth Control League, but that sounded too evil, which it was. So it turned into a more pleasant-sounding group, Planned Parenthood, which is a eugenics program, or the Negro Project, that started in Germany. Because during World War I, I believe, or II, a lot of black men were enlisted in the military. They got out there in Germany and they was running through them German women like water and making all kind of brown babies. They call them brown babies, or Afro-Germans. So they start sterilizing their own women, because their own women couldn't stop messing with us. So they sterilized their own women. Margaret Sanger took that same practice and said, I'm going to bring it over to the Americas and teach you white folks here how to do what they did to our women over there, messing with them Negroes. So press play here.
+
+> A movement that was born in the United States, under hard doctrines of racism, with the intent of eliminating the tribe of Judah in the African-American community in this country. Right? To eliminate them.
+
+- Eliminating Judah among the African-American community. Rewind it, please. With the intent of eliminating the tribe of Judah in the African-American community in this country, to eliminate them. So the Most High showed these men back then who was who. So Judah is African-American. Ephraim is definitely Puerto Rican. It just goes; it's just domino. It's just what it is.
+
+- So I want to show you guys that the prophets of old back then did the same thing that we're doing: holding up the signs, holding a stick in their hand. There's a video I want, I'm not sure if you can find it on YouTube, where it's Planet of the Apes. There's a scene where it's the orangutan and it's Caesar, and the monkeys start fighting each other, and Caesar tells them. I don't want to spoil it. But this is an old dictionary right here. Prophets. Read this right here.
+
+</div>
+
+<div class="reading">
+
+Reading from Richard Watson's theological dictionary, 1849, the entry on the prophets  *[[1:12:35](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=4355s)]*
+
+> Some of them opened schools, or houses of instruction, and there to their disciples they taught the pure religion of Moses. At Naioth, in the suburbs of Ramah, there was one where Samuel dwelt;
+
+- A school. Samuel's over a school.
+
+> and there was one at Jericho, and a third at Bethel, to which Elijah and Elisha often resorted.
+
+- They went to the same schools of Samuel.
+
+> Thither the people went on Sabbath days and at new moons, and received public lessons of piety and morality. Many of the discourses were preached in camps, in courts, in streets, in schools, in cities, in villages; sometimes with great composure and coolness,
+
+- In what? Camps. Streets. They taught in streets. Taught in schools. They taught in cities. Some taught with great composure and coolness. Calm.
+
+> at other times with vehement action and rapturous energy;
+
+- That's Arya. That's the old-school generation. That's something lively.
+
+> sometimes in a plain, blunt style;
+
+- The devil. The so-called dumb white people. That was the blunt, plain style back then.
+
+> at other times in all the magnificent pomp of Eastern allegory. On some occasions the preachers appeared in public with visible signs, with implements of war, with yokes of slavery, or something adapted to their subject. They gave lectures on these, held them up to view,
+
+- Pride. They appeared in public with what? Visible signs. Holding up signs. With implements of war: they would show props of war. Yokes of slavery: you have yokes of vines in their hand. This is called displays. Held them up to view. This is Christ right here, a black man, according to the Bible.
+
+> girded them on, broke them in pieces, rent their garments, rolled in the dust, and endeavored by all the methods they could devise, agreeably to the customs of their country, to impress the minds of their auditors with the nature and importance of their doctrines.
+
+- Of the listeners. Watch.
+
+> These men were highly esteemed by the pious part of the nation, and princes thought proper to keep seers, and others who were scribes, who read and expounded the law.
+
+- As teachers. That's all I wanted. So we held up signs. We always held up signs back then. So Ezekiel 37:16, that's a sign. The twelve tribes chart, that's a sign. So now get me Sirach 21:15, because what we've done now over these years, matter of fact, this part first, regarding the stick. Press play.
+
+</div>
+
+<div class="reading">
+
+Reading from the clip from *Planet of the Apes*, Caesar and the sticks  *[[1:15:45](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=4545s)]*
+
+> Apes alone, weak. Apes together, strong. Apes stupid.
+
+- That's Caesar right there. Think of that as Negroes in the northern kingdom. Stick in his hand. Koba. Pause. He's saying, why do you want Koba to be a leader? Koba was a womanizer, and he was selfish and stupid and a bully, but Caesar felt he could be a good leader with his right hand. So he's like, yo, why him? Why Koba? Watch. Alone, weak. Together, strong. Pause. That's the twelve tribes together. That's the stick, broken in half, put together. He said, strong. Us apes, that's Judah, but all together it's looking strong. That's Ezekiel 37 right there. Now press play. So after he does that, he's saying unity, and they start fighting. Remember, apes stupid. That's all I want. Black people are stupid. That's what he's saying. He said Negroes are united? No, they stupid. As soon as he said we got to come together, they start fighting. So that's us. That's supposed to be us. Accurately. So what I want, give me Sirach 21:15.
+
+</div>
+
+**[Sirach 21:15](/bible/sirach/21#v15)**  *[[1:18:04](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=4684s)]*
+
+> <sup>[15](/bible/sirach/21#v15)</sup> If a skilful man hear a wise word, he will commend it, and add unto it: but as soon as one of no understanding heareth it, it displeaseth him, and he casteth it behind his back.
+
+- So we heard a wise word. They heard Abba Bivens say that blacks and Native Americans were Israelites. And what they did was, the Lord put the spirit upon these men, later on after him, to add. Read again. He will commend it, or recommend it, and add unto it. But if one comes along that's stupid, a stupid ape comes along and hears it, it displeaseth him. It pisses him off. And he casteth it behind his back. That's, Charles made by a false prophet, he's a cult. That's what a fool does. When you say that, you're shooting yourself in the foot. You're removing any validity of your teachings entirely by saying, oh, that chart was made by a false prophet, yeah, he fell off. Okay, then who you teaching then? Who we going to teach? Everybody. That's what that sounds like. Sounds like Christianity. So going back to this scripture, where it says he will add unto it, is what we have done.
+
+- Now give me Ezekiel 34. This is a sidebar, but I need to touch it before we go on break. No, give me the one about travel first. A wise man travels. Much experience, a man well traveled. Sirach 34:9.
+
+**[Sirach 34:9-11](/bible/sirach/34#v9)**  *[[1:20:29](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=4829s)]*
+
+> <sup>[9](/bible/sirach/34#v9)</sup> A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom.
+
+- It's wise. Why? A man that has traveled knoweth many things. He that has much experience traveling will declare wisdom.
+
+> <sup>[10](/bible/sirach/34#v10)</sup> He that hath no experience knoweth little: but he that hath travelled is full of prudence.
+
+- He that hath no experience don't go nowhere. They local. You domestic. Don't know nothing. He that hath traveled is wise.
+
+> <sup>[11](/bible/sirach/34#v11)</sup> When I travelled, I saw many things; and I understand more than I can express.
+
+- Right. That's good. Now go to Ezekiel 34, because a wise man will hear a word and he will add unto it. Because remember, Abba knew about blacks and Native Americans being Israelites. He knew that. But there were no designations given regarding distinct groups, like African-Americans being Judah, which the white man co-signed and said. He knows. They know. The elites know. We don't know. That's why the captain mentioned earlier that in the old school, they'd come out of a limousine and go, yo, who taught you this? Where you learned this from? We spent millions of dollars hiding this from you. How you come across this information? This is years ago. We had an Israeli come to us and say to us, what you guys teaching right here? Oh, the Israelites. Oh, we know. But the land is ours now. We got it now. To our face. We know you're Jews. Yeah, yeah. But the land's ours now. We got it now. Just like that. So you stupid, pea-brain Negroes know nothing. The elite and the enemies, like, look at them. They argue with them and they're right. Let's sit back and watch. Apes are stupid.
+
+- **Captain:** Hey, Deacon, there was one time, I believe Yeshaya was teaching, and there was a group of Europeans that was vacationing in New York, and he called one of them. He said, did you know that the blacks over here are the Israelites, the Jews? He was like, yeah, don't y'all know that? Everybody knows that. The Germans. We teach that to our children in Europe.
+
+- **Deacon Eythan:** They don't teach us that over here, because that's what Judah is. We're in a bubble here. Read Ezekiel 34:1.
+
+**[Ezekiel 34:1-8](/bible/ezekiel/34#v1)**  *[[1:22:41](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=4961s)]*
+
+> <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
+>
+> <sup>[2](/bible/ezekiel/34#v2)</sup> Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
+
+- Now remember the context of the conversation. A wise man will hear a word, and commend it, and add unto it. Prophesy against the shepherds of Israel: against those who cast it behind them, that are rebellious. Woe be to the shepherds of Israel that do feed themselves: worry about themselves, worry about being in the world, having the finer things in life, fancy cars and money and clothes and women, not going out and finding their people, but taking care of themselves.
+
+> <sup>[3](/bible/ezekiel/34#v3)</sup> Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
+
+- You eat the fat. You doing well. And ye clothe you with the wool: you got the fancy clothes, the name brand.
+
+> <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
+
+- Sought that which is what? Lost. That's us. But with force and with cruelty have ye ruled them.
+
+> <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
+
+- They is us. We were scattered. Watch. Because there is no shepherd: because we had no real leader. When we were scattered.
+
+> <sup>[6](/bible/ezekiel/34#v6)</sup> My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them.
+
+- That's the nations. Upon all the face of the earth: that's nations upon all the face of the earth. None did what? None did search or seek after, except those that travel. Except those that travel and are filled with experience and prudence to know, oh, my people are over here. My people are over there, in this land over here. And they tell us, yeah, we know. We was out there in the Pacific Islands, I believe. Not me, but y'all. And they told us out their own mouth: our fathers told us that people would come here and tell us that we're Israelites. It was a tradition. It was foretold to them in the islands out there that their people will come over here and remind them that they're God's people. If you don't travel, it ain't happening for you. If you ain't traveling, this ain't referring to you. You just domestic. That ain't referring to you.
+
+- **Captain:** Hey, y'all have the book The Lost Tribes and Promised Lands, because it said the same thing on this side too. That they'd be waiting for, pretty much, the southern kingdom to come over and teach them who they were.
+
+- **Deacon Eythan:** Yep. But read that. Finish it up.
+
+> <sup>[7](/bible/ezekiel/34#v7)</sup> Therefore, ye shepherds, hear the word of the Lord;
+>
+> <sup>[8](/bible/ezekiel/34#v8)</sup> As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
+
+- Watch. No shepherd: no real leader. Did they do what? Search for my flock. Now his shepherds search for his flock, search and seek where Israel is scattered abroad, not just in one area. But the shepherds fed themselves and fed not my flock: they ain't got no passport. They worry about themselves, getting cars and money and all that. So when the Bible says a wise man will hear a wise word and add to it, that's why we have the twelve tribes sign for this part of the world. We got a twelve tribes sign for the other part of the world, which we've yet to unveil really, because it's still a work in progress. We have it right there. Let's just do it. Special today. Let's show it on the screen.
+
+- Judah: Igbo, Nigeria; Ashanti, Ghana; Sudan; Liberians; Sierra Leone; Mandinka, Mande; Baganda, Uganda; Sidis of the Kenya coast; Falasha, Ethiopia; indigenous Negroes of North Africa, Morocco, Algeria, Libya, Tunisia, Egypt. Benjamin: Dahomey, Fon, or Benin; Godala; Papua New Guinea. Levi: Malawi, Zambia, Lemba, Zimbabwe, Malawi; Sidis of the Kenya coast; Falasha, Ethiopia. Now also Tanzania is a part of that also, because Tanzanians, Malawians and Mozambicans are all the same people. That's all Levi there. So this is a work in progress, but we building on it, because we travel and we do the research, and we talk to people. So we know these things. So y'all can say what y'all want to say. We going to do what we going to do.
+
+- So like I said before, the foundation was built before I was alive. But now, a wise man, we were going to add to that. So they thought they had us. Oh, see, you're just in America. Oh, no, no, no. We're not just in America. We're in Japan too. Yes. We're in China too. We're going to add that on there. You're going to be mad. What? Japan? Yes. We're over there. We're in Vietnam too. We're there. We don't go over there and see them too? So who knows, we might be over there right now seeing them. So I'm going to end on that. We have a quick break. We will be right back. Y'all stay tuned.
+
+*[[1:28:23](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=5303s)]* The break. On the recording: on behalf of our leadership here in Philadelphia, we want to say thank you for tuning in to the 200th episode; we could not have made it this far without your continued support; this QR code is for donations towards purchasing more of the books that Deacon uses for OHH; the scripture says prove all things, and with these hidden texts that were never meant for our eyes to see, we are bringing out our hidden history. Then the IUIC spots: what is your homeland? Grenada is not your homeland; you were brought here as slaves, the white man bought you, the British man, the French man, the Spanish man, God says those are your enemies, your means of transportation would be slave ships, therefore you are the children of Israel; the brothers in the streets of Milwaukee on Cinco de Mayo, letting the so-called Mexicans know we are not an independent people and you are not Mexicans; a young man learning he is of the tribe of Ephraim; the brothers in the city; and the fundraiser coming August 1st, twenty dollars an adult plate, ten dollars a kids plate.
+
+*[[1:33:00](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=5580s)]* We're back from the break. We got a caller. Let's see who's calling in.
+
+**Caller:** Yo. Hey. Let me get a twelve-piece, extra honey. Four biscuits.
+
+**Deacon Eythan:** No, that's the wrong number. That's not who this is. This ain't Bobo's. How do you Zoom call Bobo's? This is crazy. You can't order Bobo's on a Zoom call. That made no sense.
+
+**Caller:** Listen, Bobo's is getting real sophisticated. Hey, shalom, Most High and Christ bless. Hey, man, what episode is this, bro?
+
+**Deacon Eythan:** 200th episode, bro.
+
+**Caller:** Let's go, man. Y'all still killing it, 200 episodes later, man. I'm telling you, so much has come out on this show. Listen, man, y'all deep. Y'all be going deeper in deep waters. I can't fool with it sometimes, bro. But it is needed. We got to bring these things out, because a lot of our people don't understand how important their history is and how much they have hidden from us, bro. So y'all be on point, man. All praise to the Most High. I had to call in, because you know y'all don't let me call in normally. I be trying to.
+
+**Deacon Eythan:** I don't take your call. You cause problems. You have done it before.
+
+**Caller:** I've never called in and caused any problems. If you had proof, which you don't have on hand. But I've done that, man. Thank you, Deacon. Y'all keep doing y'all's thing, man. All praise be to the Most High God, man. Everybody, make sure you stay locked in to Our Hidden History. If you anywhere else other than here on Sunday, you out the spirit, man.
+
+**Deacon Eythan:** That's right. We would like our audience to make some noise for Oklahoma on the check-in. One of these days you got to go into the history on how Oklahoma isn't tied to Atlanta. There's no waters. There's nothing that connects Oklahoma to Atlanta or New York.
+
+**Caller:** There's an aqueduct in the back. In the back valley, waters, mountains. The water of Atlanta flows into Oklahoma's stream, in the sink.
+
+**Deacon Eythan:** This is the only history I think you got skewed. I'm serious. It's going to be called Hidden Aqueducts of Oklahoma. We start researching ASAP on that. All right, praise God. Christ bless.
+
+*[[1:36:44](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=5804s)]* You got a Zoom call from India. See, when you search and seek your people, they're going to call you from them places. That's right. I think that's my man from India. Stay clean, this guy, man, looking all suave, got the button-up shirt. He had to get right for the 200th episode. Got the spectacles, like Sammy Davis Jr. What's going on, bro?
+
+**Caller:** Shalom. Bless. Good to see you, man. I promised one of the officers that I won't miss this episode. I know this is a special episode, and I won't have so many stuffs to speak. I'll be very short. Just to congratulate OHH for the 200th episode you've done. And you said it's been four years, 2020?
+
+**Deacon Eythan:** Six years. Six years and counting. Excuse the brothers, they don't know math. It's Philadelphia, man. The math, that's for Jersey. It's like the Bronx of Pennsylvania, Jersey.
+
+**Caller:** Six years and counting, man. Congratulations. You know, I knew this truth, this is my third year, I think, in 2023. So three years. And I realized I was part of this history three years ago. And since then I've been so excited. I left the Lutheran church, you know. And yeah, congratulations, guys. I bought the books. And The Island of Deception. And I saw the new release also by one of the captains, I believe, for the epistles of Paul and the rest. I'll also get myself together and get the copies as well. I hope to see you physically one day, brothers. Deacon, the captains, the officers. Lord's will, life lasts.
+
+**Deacon Eythan:** Oh, you got both the books there. Damn. You're building your library. Lord's will, life lasts. All praise.
+
+**Caller:** That's all. Just congratulations, and keep on doing what you're doing. Lord's will, we endure till the end.
+
+**Deacon Eythan:** Okay, brother. Yes, sir. All right, where we at? You got something to throw in real quick?
+
+**Officer:** Oh, yeah. Bring that book up, History of the Jews by Heinrich Graetz. So this is to land back off of the camp signs, with the Richard Watson dictionary, what the prophets was doing during the time that Babylon took us down.
+
+
+<div class="reading">
+
+Reading from *History of the Jews* by Heinrich Graetz, the prophets in the last decades before the destruction of the kingdom · read by an officer  *[[1:41:11](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=6071s)]*
+
+> The prophets of God had a heavy task in this time of degeneracy. They had to be prepared for persecution and ill treatment; but they paid little heed to the dangers they incurred.
+
+- **Officer:** Right. So they were bold when they went out and teach.
+
+> They felt impelled to oppose fearlessly the moral and religious ruin which was impending.
+
+- **Officer:** So despite persecution, ill treatment that was going to come towards them, they were bold when they went out and taught.
+
+> At no period did there arise so many prophets as in the last two decades before the destruction of the Jewish kingdom.
+
+- **Officer:** Right? So there was a lot of prophets at the time before Babylon took us down that was warning our people of the impending danger.
+
+> They addressed the nation, the princes and the king almost daily, at every opportunity.
+
+- **Officer:** They was teaching every day, out in the streets, trying to warn our people that, yo, if we don't keep God's laws, Babylon is going to take us down. They're going to destroy us. Every opportunity. That's why even today, every opportunity. We got classes morning, noon, evening, night, seven days a week. That's why we do thirty days of camp. Some doing a hundred, a hundred and fifty days of camp.
+
+> They warned, roused and threatened them, and prophesied their destruction if the prevailing wickedness did not cease.
+
+- **Officer:** Telling them to repent.
+
+> The names of only four of these prophets have been preserved: Jeremiah, Uriah, Habakkuk and Ezekiel; but the prophecies of others who fought the battle against idolatry have remained, though their names have not been recorded.
+
+- **Officer:** Right? So there was a lot of prophets at that time, just like it's a lot of prophets back at this time, warning our people, keep God's laws before destruction. So that's the same thing that was going on. There's nothing new under the sun.
+
+- **Captain:** Hey, just to back that up real quick, let's read Jeremiah 28 and 8. So what we do today, to make our people realize who they are, to come back to that one stick, the other nation label it as hate speech. But the Bible says different. It says, yo, these guys that are preaching destruction of America, they are the prophets. They are the ones that built on top of the elders that Deacon was bringing out before.
+
+</div>
+
+**[Jeremiah 28:8](/bible/jeremiah/28#v8)**  *[[1:43:25](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=6205s)]*
+
+> <sup>[8](/bible/jeremiah/28#v8)</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
+
+- **Captain:** So exactly what they documented in their dictionary, the white man has proven to us that we are the prophets of the latter days.
+
+- **Deacon Eythan:** All right, give me the next video I want, Elder Yeshaya and Arya. Go to fifteen minutes in. He should be holding a book up with his hand. Let's play, to show you that these guys made gods out of themselves.
+
+<div class="reading">
+
+Reading from the clip of Elder Yeshaya and Elder Arya on the Borgias, from the old-school tapes  *[[1:44:26](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=6266s)]*
+
+> They're sitting at the table making a mess at the table, eating snails. This is ridiculous. Read the scriptures. For such are false apostles. For such are the image of false apostles, like this false image here of Caesar. Deceitful workers.
+
+- Now press pause. Now back then we didn't have the technology we have now. They had to put the camera in front of the book and zoom in, and try to focus on it, hold the book still. That's how it was back then. They used what they had back then. Now you could just use a camera, zoom in, use your phone. But back then you had to hold the book up to the camera and zoom in. So press play.
+
+> The Last Supper, the so-called Last Supper. And the black woman loves this. I cannot figure out what does a black woman see in an animal. Transforming themselves into the apostles of Christ. Now I want to go on another archaeology book, and the name of this book is called The Borgias by Marion Johnson.
+
+- Pause. The Bishop shows this all the time. This is the '90s. This book's about the Borgias posing as Christ, the family posing as God the Father, the Son, Mary as the mother. That's the Borgias. This is an older copy, by the way, also, because when this truth start coming out, they start to reprint these books and revise them and take things out of them. But press play.
+
+> Caesar Borgia and his family, his father, his mother, his sister, his brother. And in this book, on page 218, you see the Borgias, Marion Johnson, writer, author. That's a clear image of it. You little Negroes out there in wonderland need to pick this book up and read. The scripture says, seek ye out the book of the Lord and read, for none of these shall fail. And this is what it's about, brothers. Reading, learning knowledge of yourself and of your power, the Most High. A photograph, the brother can get a close-up of it, in the highlighted areas. It says Maria Enriquez, widow of Juan, Duke of Gandia. Now the next highlighted part: she commissioned this altarpiece with who? Not Jesus, but Caesar. Now you see her standing there, that's Mary holding up a cross with who on it? Caesar. See the cross with a little white guy on it? That's a picture of the new Jesus Christ, painted in 1492. That's his aunt, Maria Enriquez, and that's Caesar on the cross. Not Jesus, but who? Caesar. Show the yellow highlighted part again. She commissioned this altarpiece. Get it up close again, cameraman. Jesus was a black man. So the white man became Jesus in 1492. Now why did that happen? Because during the Renaissance, white people, devils, decided to fight against our people, who were the Christians, who were the great kings and queens and rulers and chancellors, and you name it, of England and Europe and Spain and France and Germany and Russia and Romania and Bulgaria, the Baltic states. We were the kings and queens of all of the world. And because of plundering and internal warfare, we fell. Queen Elizabeth I was black. Henry VI was black. His chancellor was black. Napoleon, when he fought against the leaders of France, they were black. When you read about Constantine the Great in 307 AD, you're reading about a black man. When you read about Maximian, you read about a black man. When you read about Constantius, you read about a black man. When you read about Galerius, you read about a black man. The black man overthrew the Roman Empire in 193 AD. His name was Septimius. They named the month after him, September. Now in this book,
+
+- So what we teach every Sunday is what they were bringing out in the '90s. And again, there was no AI, there was no Google search, none of that, man. These guys are going to the library every day, damn near, and going to these books and bringing out things I never thought I'd hear before. When I heard this history, man, I was hooked. They had me. I learned it, like I said, from Deacon Asaph. I went to my boy Virtue when I was in college, and then I guess he went away somewhere, and I went and learned from Asaph, and he had the tapes of them proving it, and the books, like these tapes here. And I stayed, I was in Asaph's house every single day. Every day I watched him with a Bible in one hand and Micah in his hand, reading the Bible. Micah, we'd rock him to sleep, and he's reading the Bible at the same time. But when I heard that stuff, man, this pulled me in. I knew Christ is black. That wasn't really hard to learn. But King James and King Arthur and Robin Hood, I'm like, what? Shakespeare? I'm like, Shakespeare? Get out of here. Nah. I was like, yeah, Shakespeare too. I said, prove it. And he put these videos on. I was like, yo, I'm going to come back here tomorrow. And he'll fall asleep, wake up, I'm like this in front of the TV for hours, man. I got a binder this thick, my first notes, a binder this thick of all Asaph's notes I took from him in the classes. And then 2006 our lives changed. We came to IUIC after that. But 2003 and up, it was just me and Asaph around that time, just learning, watching the tapes. Then once we watched all the tapes, we was like, okay, we watched all the tapes, now what do we do? White man's the devil, okay, that's true. He ruled Europe, okay. Israelites are black, okay, good. Christ is black, okay. Where do we go from here? We don't know what to do. We lost. Hit our ceiling. Then we start watching Bishop's tapes, his old-school tapes. Get the next video of Bishop. Now he's younger. That's from Yeshaya right there, and that's Bishop. He said earlier, I'm old, I'm trying to walk. This is him in his twenties. Press play.
+
+</div>
+
+<div class="reading">
+
+Reading from the clip of the Bishop, young, teaching the name and the Khazars from *The Thirteenth Tribe*  *[[1:52:38](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=6758s)]*
+
+> When it says Lord God there, that's when he gave Moses the name. Okay. The tetragrammaton in English. Okay, we're going to prove that. Go ahead. The God of Abraham, the God of Isaac.
+
+- There's the video that they use. See, he taught the name, and now he's against it. But he's not against the name at all. We brothers send up prayers every other day. We say Yahawah. Yah. We say Yahawashi amongst us. We haven't changed anything. We just don't make it a necessity or a mandate to say it over and over and over again and put it on a shirt and on a hat like you dummies do. We don't do that. We just say, listen, keep the commandments of God, because all that name stuff is fine, but if you out here doing all kind of evil, what good is the name? What good is it? So that was our point. If y'all want to make it more than what it is. But this is Bishop. We sat back and watched him do the twelve tribes breakdown. This video right here, fast forward some. Go right there to the book part. It shows the book.
+
+> The large majority of the world's Jewry. Page 17: this was written before the full extent of the Holocaust was known. But that does not alter the fact that the large majority of surviving Jews in the world is of Eastern European, and thus perhaps mainly of Khazar, origin. If so, this would mean that their ancestors came not from the Jordan, like the true Jews of the Bible, those of Negro and Indian descent, but from the Volga.
+
+- This is the history. Oh, this is going over the Khazars. Once again, this is long before Candace Owens and all these public officials are talking about, yeah, Khazars and Israelis and the Balfour Declaration. We were already on top of that during this time. I'm telling you, we were ahead. The Israelites were ahead of their time. So it's letting you know the so-called white man who claims to be a Jew, his ancestry does not come from the Jordan, over in Israel, but from the Volga, which is in the Caucasus.
+
+- **Captain:** He's quoting a book by author Koestler called The Thirteenth Tribe. And author Koestler and his wife mysteriously felt the need to kill themselves and jump out the window together, right after his book was published and caused problems.
+
+- **Deacon Eythan:** They just felt, oh, we'll kill ourselves now. We told the truth, let's jump out our window. So that's what happened to the author of this lovely literature we're reading here. So this is Bishop reading The Thirteenth Tribe right here. We still read it to this day, because it's still valid. We got a text.
+
+- **Text:** All praises to the Most High, to all the brothers of OHH. Y'all be going super deep into the history, and we can no longer see history through white lies but divine eyes. Congrats on your 200.
+
+- **Deacon Eythan:** Oh, that's right. Okay. So now get me the next video, Yeshaya, Biblical and Dark Ages. Start at 4:40, real quick. I'm not going to spend too much time on that.
+
+</div>
+
+<div class="reading">
+
+Reading from the clip of Elder Yeshaya, Biblical and Dark Ages, on Septimius Severus, Constantine and the book *The Icon*  *[[1:55:39](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=6939s)]*
+
+> Septimius Severus was a great genius. He was a great Israelite genius, a gladiator that overthrew the Roman Empire in 193 AD.
+
+- **Captain:** Stronghold. That's how we background stated Septimius Severus. This is a pre-recording, so they're practicing right here. Normally they will tape these shows and then broadcast them. I used to bring them to channel 21 in Manhattan. Public access TV, prior to streaming. And we had to bring a VHS.
+
+- **Deacon Eythan:** Damn, published on television. Public access. What the hell is public access? Young bucks have no idea what we're talking about. Press play.
+
+> In 193 AD he overthrew the Roman Empire with the help of other great black gladiators that were former stars, superstars, that fought in the Roman arena, that fought animals and fought other gladiators. And they came to the realization that if they could defeat lions and tigers with their hands, they certainly could defeat a white man. So this is how Rome fell. In 193 AD, Septimius Severus, a black gladiator, a Jew, overthrew the Roman Empire and set up a stronghold in Rome. As time transpired, there were many dynasties throughout Rome and throughout all parts of Europe. And in the year 307 AD, another great black gladiator named Constantine, who was a son of Constantius, set up what is called the Eastern Roman Holy Empire. This is a book called The Icon.
+
+- Pause. Now, I used this book in my lessons, The Icon. I learned about this book from this video. A lot of books that I taught from in this radio show, I got them because I wrote them down in my binder, on loose-leaf paper, and if I was broke, I said, I can't afford it, I'll just write it down; when I can afford it, I'll buy it. And then I came to the truth and I started learning and studying more. I said, oh, I found the pages. I'm going to buy all these books. And we bought all of them. All of them. And I bought all of them thanks to your help, also, those of you guys who donate to the book fund. Thanks to your donations and contributions. Round of applause for that. You guys are the reason why we own these books. Books are hard to come by. Y'all are responsible for us owning a lot of them, which are very rare books.
+
+- **Captain:** Deacon, I don't want to forget. When I came in, around 2015, Bishop Nathaniel and Bishop Yawasop, they dropped the Twelve Tribes of Israel Today DVD. I don't know if y'all remember that. They dropped that DVD where they broke down each tribe. Each tribe had their own segment, and they had all the books for each tribe: for Judah, Benjamin, Levi. So, yeah, that's what got me hooked. I still have that DVD to this day, actually. The Twelve Tribes of Israel Today DVD. The Truth Shall Make You Free.
+
+- **Deacon Eythan:** Some of you don't know what a DVD even is. What's that, a music group? They went heavy into all the tribes. So all praise for that. That was a good segment, The Truth Shall Make You Free. That was when we start getting the high-quality videos up there, start stepping our game up. Go back to six minutes. Stop at 8:30.
+
+> White Christ. And I stated that Constantine, the great Christian leader, was a black man. On the front of this cover is a photograph of a black man named Luke, the Apostle Luke, that walked with Christ, drawing a picture of Mary, the mother of Christ, and Christ himself as a young child. Now in this book called The Icon, on page 407, it clearly shows a clear image of Constantine, the great Christian leader, and his mother, Saint Helen, as being black people. This is unadulterated and crystal clear. Constantine, the great Christian leader, clearly the image of a black man that ruled Constantinople in the year 307 AD. Now I want to show some other photographs that these Byzantine leaders left throughout Russia, Germany, Europe, Spain, Armenia. They have a photograph of the Apostle Paul and Peter. Once again, black men. But it's strange, when you go to college and when you go to high school, all of these appear white. That's because during the Renaissance the devil was allowed out of his pit. Again, the devil being the so-called white man. In the year 1453, they sacked Constantinople with the help of other devils, white men from the Ottoman Empire, which had converted to Islam. Once this conversion took place, they set a race ahead of themselves. And the race was to go and destroy all of the black images in history throughout Europe, throughout the islands, throughout Africa, throughout the whole world as we know it today. Destroy all of the black images that the Byzantine Jews left of themselves. And it's also Saint Nicholas on the other side. A black man. Clearly the image of black men.
+
+- Turkey. Yep. That's it. Now, some skeptics in the audience might say, well, that's in Russia. But the book Icon is what they're using. So I can show y'all what they're showing you, because this was blurry. Real quick, go to The Icon, the book that I bought based upon these videos here. That's my copy there. Go to images real fast. That's what they were showing, right there. Peter and Paul. They were showing that image right there in the video, and I was astounded. I was like, wow, that's Peter and Paul. I was amazed at what I was seeing. And these are kings, on both the right and the left. Serbian kings. Black kings of Serbia. I'm going to go into that, Lord's will, next week. Next image. That's Saint Nicholas right there, to the right. Look for Constantine and his mom. I think it's 340 something. A man and woman standing together with a big cross in the middle of them. Right there. Zoom in. That's it. That's Constantine and his mom. Black as night. Constantine and his mother, Saint Helena. These are the king and his mother that ruled over the Holy Roman Empire. And his father's name is Constantius. He was one of those four men that they grabbed the shoulders, a statue of them, and all the noses are knocked off. And what happened was, you had a lot of Arab raids where they would come and knock the noses off and knock these images down. But those aren't Arab raids. Those are Edomites that converted to Islam and were raiding all the areas where we put our images. That was them. There was Edomite Muslims doing it, and Arabs too hated our guts also, like Muhammad. But that's Constantine and his mother there. You can't even say that's white people. That's clearly a black man and his black mother. And they were in Christianity. They were into Catholicism, ancient Catholicism, or the Western church. So we got a text now.
+
+- **Text:** Shalom, Deacon, Captain and Officers. Most High and Christ bless you all. Congratulations on the 200th episode. This work on OHH is truly spiritual and a great undertaking. You men are heroes. Not only was Our Hidden History my segue into this truth, but it helped me in the search for the fathers of my own family. All praises to the Most High, and never give up.
+
+- **Text:** Shalom, leadership. Congrats on the 200th episode. I just wanted to point out how one of the elders sounds just like Deacon. Congrats again.
+
+- **Deacon Eythan:** Oh, man. All praises. That spirit just comes around, comes back in everybody. It comes back. It revisits the same people for the same purpose. Give me Elder Arya next, classic sermon. It's the very beginning. It's dark, but it's him teaching in the street. We're going to stop at 1:36. When he was out there teaching, remember, Esau knew what we were teaching was right. And occasionally they would come up to our camp and question us and ask us certain things to see if we knew. I call it threat assessment. And we get that often. We get a lot of that in Clubhouse, but it did happen back in the old school when Elder Arya was teaching. I want to show it to y'all. Give me Ezekiel 47:1 while they find that.
+
+</div>
+
+**[Ezekiel 47:1](/bible/ezekiel/47#v1)**  *[[2:08:39](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7719s)]*
+
+> <sup>[1](/bible/ezekiel/47#v1)</sup> Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
+
+- Remember earlier I read Sirach 21:15, that if a wise man will hear a wise word, he will commend it and he will add unto it, meaning it will increase. The waters that issued out, these are the living waters. That's referring to both in this time and eventually in the kingdom. Give me Ephesians 5:26.
+
+**[Ephesians 5:26](/bible/ephesians/5#v26)**  *[[2:09:00](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7740s)]*
+
+> <sup>[26](/bible/ephesians/5#v26)</sup> That he might sanctify and cleanse it with the washing of water by the word,
+
+- Washing of water by the word. We also have, what's it called, the waters of wisdom. Is that in Sirach somewhere? I'm shooting from the hip. Sirach 15:3.
+
+**[Sirach 15:3](/bible/sirach/15#v3)**  *[[2:09:22](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7762s)]*
+
+> <sup>[3](/bible/sirach/15#v3)</sup> With the bread of understanding shall she feed him, and give him the water of wisdom to drink.
+
+- The water of wisdom to drink. The waters of wisdom. Give me Proverbs 18 and 4.
+
+**[Proverbs 18:4](/bible/proverbs/18#v4)**  *[[2:09:50](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7790s)]*
+
+> <sup>[4](/bible/proverbs/18#v4)</sup> The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook.
+
+- Right? So wisdom, once again, is water. So go back to Ezekiel 47 again.
+
+**[Ezekiel 47:1-3](/bible/ezekiel/47#v1)**  *[[2:10:14](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7814s)]*
+
+> <sup>[1](/bible/ezekiel/47#v1)</sup> Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
+>
+> <sup>[2](/bible/ezekiel/47#v2)</sup> Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.
+
+- Waters, come on.
+
+> <sup>[3](/bible/ezekiel/47#v3)</sup> And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.
+
+- So the waters were up to the ankles. Because you read later on, it goes into the waters going to the thighs, past the knees. It goes up, up, up, to the point you can't cross over anymore. So the waters, it was gradual. Understanding was gradual. That's why earlier I read about, a man will hear a wise word, he'll commend it and he will add unto it. Meaning that's the water increasing, the understanding increasing, the wellspring of waters of wisdom increasing. So when our elders taught back then, there were some things that they knew for a fact, but there were some things that they were unclear on back then, that we've now added and now understand better than back then.
+
+- **Officer:** To your point, that's what the prophets did. You had some things that was given to Daniel. It's the same thing, just like you've been bringing out the entire time. We are literally living out what the prophets did. We are just following the footsteps of all those that came before us. It's nothing new under the sun.
+
+- **Deacon Eythan:** Yep. So Abba Bivens, remember, he learned that the Native Americans and the blacks were Israelites, but the Lord gave Arya understanding, or designation, or enhanced understanding of that understanding that Abba already had. 2 Esdras 12 and verse 10.
+
+**[2 Esdras 12:10-12](/bible/2-esdras/12#v10)**  *[[2:12:19](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7939s)]*
+
+> <sup>[10](/bible/2-esdras/12#v10)</sup> And he said unto me, This is the interpretation of the vision:
+>
+> <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
+
+- Thy brother Daniel.
+
+> <sup>[12](/bible/2-esdras/12#v12)</sup> But it was not expounded unto him, therefore now I declare it unto thee.
+
+- It was not expounded unto Daniel. Therefore now I declare it unto thee: now you understand it. So now the understanding of the beast in Daniel 7 is not expounded upon in Daniel, but it's expounded upon in Esdras. Ezra wrote that understanding. He expounded upon it. Same thing we're doing with the twelve tribes. The same exact thing. Now get the video I asked for. Watch this regarding the waters. Now, Edom does the same way. Press play from the very beginning. We're going to stop at 1:36.
+
+<div class="reading">
+
+Reading from the clip of Elder Arya, the classic sermon, November 1992, the Samaritans  *[[2:13:03](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=7983s)]*
+
+> Our own people are not our enemies. It's just that they going to be brought down. You go, you ones that don't come to this truth, you going to be brought down in this setup with the white man. But you coming back in reincarnation, you going to rule over these same devils. You so-called white people ain't got a damn thing to say. This Bible is our Bible. It belong to the Israelites. You don't have nothing to say. What the hell can you say? Can I ask you a question about your Bible? What the hell can you say? Answer my question. What can you say? What do you have to say? I'd like to ask you a question about your Bible. I'm listening. Were the Samaritans Jews? The Samaritans were not Jews, dummy. Go to 17, Second Kings. No, you're not running this program. Second Kings, the 17th chapter, and about the 22nd verse down, tells you about the people in Samaria, how they were put there during the time of the Assyrian captivity.
+
+- This is 1992, November, wintertime, at 6 p.m. Pause. So now, we all thought the same thing, until you read John 4, the woman said, our fathers. So their understanding back then was not granted at the time. It was not expounded unto them at that time. But now, the same way it was expounded unto Daniel about the fourth beast with the symbol, likewise with Arya back then, now we understand that the woman of John 4, that she was our people. What he's talking about is true, about them being displaced. But not all of them were displaced. Remnants remained, and many returned after the Hasmonean dynasty, the Hasmonean family of the Maccabees, when they gained the three governments of the northern kingdom's land. So again, like I said before, I'm not going to sit up here and say, oh, the elders didn't make mistakes. They didn't know everything. There were some things that they were unclear on, but the Most High gave us understanding to expound upon what they were not aware of back then. John 4:5.
+
+</div>
+
+**[John 4:5-6](/bible/john/4#v5)**  *[[2:15:55](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8155s)]*
+
+> <sup>[5](/bible/john/4#v5)</sup> Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
+>
+> <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
+
+- Jump down to verse 9, for time's sake.
+
+**[John 4:9-12](/bible/john/4#v9)**  *[[2:16:20](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8180s)]*
+
+> <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
+
+- Thou being a Jew: being of Judah. We don't talk to each other. Why are you talking to me? You ask me for water and you don't talk to me.
+
+> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+
+- The living water is the same water we read about earlier in Ezekiel 47 and 1, the water of wisdom. It's the same exact water he's referring to, that would rise from the ankles to the knees, and eventually you can't cross over it at all. We're approaching those days, where the water is beginning to increase. Understanding is increasing. For example, back then the garments were worn by the elders; they didn't wear them in regular clothes. That came with Bishop, the understanding of wearing fringes on regular clothes. That came from us. Keeping the feast days, new moons, things of that nature, that came over time. Applying the laws of God and the commandments, that came over time. That wasn't around back then. Women wore dresses on the Sabbath days and wore pants all the rest of the week. It's the waters. As the waters began, the laws began to be expounded upon and applied, understanding increased, and we start to change. Tabernacles changed, all that stuff changed. Even the moon, how we keep the moon, they changed. Understanding was given, as opposed to back then. Read on, verse 11.
+
+> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
+>
+> <sup>[12](/bible/john/4#v12)</sup> Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
+
+- Are you greater than our father Jacob? Which gave us the well: as in Joseph gave his children the well, that well read earlier in John 4, early in the chapter. If she said our father Jacob, if he's her father, then she's Israel. She's the northern kingdom. Back then they say, oh, it was a lie, she was just saying that because she lived there. No. That was her father, her great-grandfather. Jump to verse 20.
+
+**[John 4:20-21](/bible/john/4#v20)**  *[[2:18:43](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8323s)]*
+
+> <sup>[20](/bible/john/4#v20)</sup> Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
+
+- Right, they worshiped in Gerizim.
+
+> <sup>[21](/bible/john/4#v21)</sup> Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
+
+- Because Rome would come and destroy both of us. So jump down to verse 25.
+
+**[John 4:25](/bible/john/4#v25)**  *[[2:19:10](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8350s)]*
+
+> <sup>[25](/bible/john/4#v25)</sup> The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.
+
+- How will she know? Because they read it. These are Israelite women. These are Israelites. When he is come, he will tell us all things: Christ will bring all things to their remembrance. So she does definitely know the king. This is an Israelite woman here, and he spent days there teaching them. So that understanding was not around back then in '92, but now it is around. It was expounded upon. But earlier, Sirach 21:15 says you hear a wise word, and they will add unto it. Because what he said wasn't wrong about the Assyrians being put there and displacing us. That's true. But not all of the northern kingdom was. They were still there. We didn't know that back then. We thought they were all gone. They were not. And our understanding was granted to us, all praise to the Most High, to bring out, and so on and so forth. Even Cornelius: we thought back then he was a white man. He was not. That was an Israelite man. That came about later on, a little bit before us. It wasn't received as well back then, but it came out later on that he was the northern kingdom. He was an Israelite man.
+
+- So now give me real quick the AI video, real fast. I just want the elders to play about maybe a minute of it, the middle part, so those of you who want to watch it can watch it on your own. Give a little teaser. Then we'll move on to the scriptures I want to pull. We got a text.
+
+- **Text:** Shalom, leadership. Most High and Christ bless. Congratulations on the 200th episode. This is the greatest history show in the world. All praises to the Most High for you mighty men. Scholars and college professors tremble when they hear you bring this history out and wake our people up. I am inspired every time I watch this show. Thank you all for the work you all put in. Most High and Christ bless.
+
+- **Deacon Eythan:** That's right. All praises.
+
+<div class="reading">
+
+Reading from the AI video of the history of the Israelites, one minute from the middle  *[[2:22:28](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8548s)]*
+
+> But later he fell into sin, and because of that the kingdom. In remembrance of this great reversal and victory, Esther and Mordecai established the two-day feast of Purim, a memorial that our people continue to keep to this day. When the Greeks tried to erase our laws and heritage, our forefathers, the Maccabees, fought back, and the temple was rededicated. That's the feast of dedication. In time, Christ was born. But Herod, fearing prophecy, murdered the young children of Israel. Christ taught the people, healed the sick, cast out devils, and multitudes followed him. Christ taught, healed and moved the people, and many believed on him, except the scribes and Pharisees, who plotted continually to destroy him. Christ was betrayed, arrested and crucified. He died for our sins, the sins of Israel. After his resurrection, the disciples spread the gospel throughout our people. Paul and the apostles traveled throughout the lands, as the prophecies foretold, teaching Israel scattered in Corinth, Galatia, Rome, Ephesus, Philippi, Thessalonica.
+
+- So y'all can watch it on your own. That's a video we have of the history of the Israelites. Watch it on your own. Really good stuff on there. Give me 2 Esdras 14 and 1.
+
+</div>
+
+**[2 Esdras 14:1-5](/bible/2-esdras/14#v1)**  *[[2:23:31](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8611s)]*
+
+> <sup>[1](/bible/2-esdras/14#v1)</sup> And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras.
+>
+> <sup>[2](/bible/2-esdras/14#v2)</sup> And I said, Here am I, Lord And I stood up upon my feet.
+>
+> <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
+>
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
+
+- Forty days and forty nights. The secrets of the times. He showed Moses the secrets of the times, and the end. The secrets of the times is the beginning, the middle and the end.
+
+> <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
+
+- That's all I want. So he showed Moses the beginning, the secrets of times that goes into the beginning, the middle, and then he showed him the end as well. Give me Wisdom of Solomon 7 and 17.
+
+**[Wisdom of Solomon 7:17-18](/bible/wisdom-of-solomon/7#v17)**  *[[2:25:04](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8704s)]*
+
+> <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
+>
+> <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
+
+- He showed Solomon the beginning, the ending and the midst, meaning the middle times. The medieval times is called the Middle Ages. Medieval times. He showed Solomon the Middle Ages. So Solomon saw what we're bringing out in these books: The Icon, Russian icons, the Dark Ages. Solomon saw these things in the spirit. The beginning, Genesis: he saw the beginning, how things are made. And he saw us here now, in the end. He saw it all. But the point I wanted was, he showed Solomon the beginning, the middle and the end of times, just as he showed Moses the secrets of the times. It's the same thing. Give me Malachi chapter 1, verse 1.
+
+**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[2:25:55](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8755s)]*
+
+> <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
+>
+> <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
+
+- Wherein hast thou loved us? We asked, when? Because we always in captivity. So we always ask, when you loved us?
+
+> <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+
+- And he allowed it, so that Esau was overthrown and conquered eventually, and conquered out of his land by the Arabs. The dragons of the wilderness were the Arabs, that took over the land, in time, gradually, over time. They intermingled with them and conquered them out the land over time, under the Nabateans, leading into the Hasmoneans, the Greek captivity, all the way into the Middle Ages, pretty much.
+
+> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
+
+- Edom said at that time, once they got the boot out their own land by the Arabs, for the most part: we are impoverished. We are poor, but we will return. They will return. And we call that the Renaissance, the rebirth of white superiority on the earth, as the Greeks and Romans. America is an extension of Rome, Greco-Rome. Portugal is an extension of Greco-Rome. Britain's an extension of Greco-Rome. France is an extension of Greco-Rome. Germany is an extension of Rome. Austria is an extension of Rome. But we will return and build the desolate places. They built up during the time of the Dark Ages, from around the 1400s and up. 1400s, they all begin to take over. They begin to take over city by city, land by land, country by country, because black people were fighting among ourselves. Civil wars among ourselves gave the white man the advantage throughout the known world, and the new world as well, to overthrow us and conquer us out of the lands. So in the old world, you had blacks ruling, and black factions and kings and queens, which is great to see. But no, we were evil as hell. We were glorious in looks, but we were evil as hell on the inside. And we would start fighting among ourselves, based upon religion, jealousy, envy, hatred, whatever. This Negro stuff. And while we're fighting among ourselves, as Christ said, a kingdom divided against itself cannot stand. So the white man took the advantage. Okay, they fighting among themselves. We can take them over. We can conquer them. And that's exactly what they did, land by land. They shall build, but I will throw down: they will bring them down. It's happening now. Bringing them down now. And they shall be known as the border, meaning the beginning and the end, of wickedness. Edom is the wicked. The Bible speaks of the Wicked, capital W. Paul gives him a capital W. The Wicked. And the people against whom the Lord hath indignation forever: people that God would hate forever. Now get me Revelation 13 and verse 1.
+
+**[Revelation 13:1-3](/bible/revelation/13#v1)**  *[[2:28:51](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=8931s)]*
+
+> <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+
+- So this is going into the great red dragon, or the European power structure, leading from the time that was written, John's time, all the way into now. As I said before, Greece, Rome, Spain, France, Germany, not Russia, but Austria and Great Britain, were extensions of Rome. Russia is an extension of Edomites, but not of Rome. But these six here, well, that's another story, but Russia also is part of them as well, as they're all the old empires. So all these groups here are extensions of Rome, or Edomites in general. The ten horns as well, down there. So they gained power over the earth in different times, and overthrew us and conquered us out of these lands that you see here. He ruled over; we were conquered out of them. Upon his horns, what? Ten crowns.
+
+> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+
+- Satan gave him his power. Satan is the one that gave him his power to take over and conquer over dark nations, including us. Satan gave him his seat and great authority. Watch.
+
+> <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+
+- That's Rome. His head was wounded to death, meaning it was overthrown, as Yeshaya mentioned earlier, by Septimius Severus in 193 AD. That was a time when black folks felt, we could fight lions and tigers and bears, oh my, we can beat the so-called white man, take over his kingdom. That's exactly what he did. He took over and put his men in the Senate. Made it all black. So the Holy Roman Empire became black people ruling over it. So there's him right there, Septimius Severus. When you watch a movie called Gladiator Part Two, with Denzel, everyone in that movie should have been black. Every single person in that movie, from the crazy kings that were there, the queen, they should have all been black. Every last one of them. The twins should have been black. Macrinus, Denzel's character, was black; that was accurate. Everyone should have been black. Even in part one, Maximus, who was loosely based upon Septimius Severus, should have been a black-played character. Geta and Caracalla should have been black. You got something on that video? Press play. Let's see what she says. Watch this. You don't believe me? Watch this.
+
+<div class="reading">
+
+Reading from the clip of a historian on the princes in *Gladiator II*  *[[2:32:41](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=9161s)]*
+
+> There are victories yet still to come. The two young princes, Geta and Caracalla, are portrayed as white, while Denzel Washington, who is black, portrays Macrinus. Both Caracalla and Geta and Macrinus were of African origin, North Africa, and in real life they probably would have looked much more similar to each other than they're portrayed on screen. This feeds into a general racial problem that we see in most Roman-world movies, where the people who are not in charge are people of color. But actually in the Roman Empire, particularly at this period, we see that people of color were pretty common throughout the Roman Empire, and they did have roles that were pretty important throughout Rome. In particular at this period we have a whole imperial family that's descended from North Africa on one side and Syria on the other. So certainly the rulers in Rome at this stage are people we would consider brown.
+
+- Yep. Black. Now, she said that they were North African. They have Denzel, or they're planning on having Denzel, play Hannibal, and Hannibal was from North Africa. So that means that if he's playing Hannibal, and Hannibal's from the same exact region that Septimius is from, they should have all been black in this movie. But white supremacy is at it again; made everybody white except Denzel, Macrinus. So read that bottom part again. And I saw one of his heads as it were wounded to death: so Septimius Severus and his men conquered Rome. They wounded it. They didn't just overthrow, they took it over. Wounded it. And his deadly wound was healed: meaning the blacks that reigned over Rome were eventually overthrown, and whites took it over, as in the Reconquista, or the Renaissance, the reconquering. Now give me 2 Esdras 12:21. We got a text.
+
+- **Text:** Shalom, Deacon and leadership. Congratulations on y'all's 200th episode. I've been watching this show since I was 12 or 13, and now I'm 17. Praises. This show gave my faith a strong boost, knowing we were something, are still something, and will be even better when Christ comes. Thank y'all for your impact on my life.
+
+- **Deacon Eythan:** That's right. Read that, 12:21.
+
+</div>
+
+**[2 Esdras 12:21](/bible/2-esdras/12#v21)**  *[[2:35:13](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=9313s)]*
+
+> <sup>[21](/bible/2-esdras/12#v21)</sup> And two of them shall perish, the middle time approaching: four shall be kept until their end begin to approach: but two shall be kept unto the end.
+
+- And two of them shall perish, as in these two Edomite rulers of Rome will perish. That's Pertinax and Didius Julianus. Didius Julianus and Pertinax were taken out around the same year that Septimius Severus came into rule. So 193 AD was when Septimius Severus came in, and Pertinax and Didius Julianus were taken out within months of that same year, and Septimius took the throne. So when those two were taken out, Septimius takes over. Read it again. Two of them: Didius Julianus and Pertinax. The middle time approaching. Once those two were taken out, in the year 193 AD, Septimius Severus took over, and the Middle Ages began. Their deaths ushered in the Dark or Middle Ages, the middle times that Solomon spoke of, that was shown to Solomon, that was shown to Moses, and apparently shown to Esdras as well. The middle times, or Middle Ages, approaching. That's the deadly wound. The deadly wound was made when these two were taken out. The deadly wound was made by Septimius. And from what I understand, Septimius Severus, I think it means seven cutter, if I'm not mistaken. September. Septimius does mean seven, and Severus means severe, rigid or stern. Cutter. So Severus means to cut, but Septimius means seven. So seven cutter. The dragon has seven heads and he wounded one. Seven cutter. Some of y'all went over here. It's okay. So Septimius wounded one of the seven heads, because he was a seven cutter of one of the heads. Go to 2 Esdras 7:28.
+
+**[2 Esdras 7:28-31](/bible/2-esdras/7#v28)**  *[[2:36:53](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=9413s)]*
+
+> <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
+
+- Four hundred years. After Ezra, Christ shows up on the scene, and his disciples as well.
+
+> <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
+
+- At that time Christ will die. And all the disciples, that had the true understanding, will have life, will die also. And the world ending with John and Polycarp. After those two, it was a wrap. Understanding was gone. Dark Ages. Darkness fell upon us. Dark skin, and spiritual darkness fell upon dark skin. Dark and beautiful, but dark and dull at the same time, unfortunately.
+
+> <sup>[30](/bible/2-esdras/7#v30)</sup> And the world shall be turned into the old silence seven days, like as in the former judgments: so that no man shall remain.
+
+- Right? I mean, the Dark Ages, that's going into a time when understanding was lost. The old silence means understanding was no longer available. Those who had true understanding, or had life in them, it was gone. They became Greek metaphysics, trinity, Catholic church, different ideologies. It was madness. Church fathers, madness. Like as in the former judgments: because back then there was a time when the Lord got angry at us. Understanding was not given anymore. People didn't understand the Bible no more. They were lost. The prophets had no visions. The word of God was rare. The true understanding was rare, in former judgments. So that no man of understanding, that had life or understanding, shall remain.
+
+> <sup>[31](/bible/2-esdras/7#v31)</sup> And after seven days the world, that yet awaketh not, shall be raised up, and that shall die that is corrupt
+
+- That's talking about now, the army being raised. That's referring to this time, raised up. That's all I want. So we're in a time now where we're being raised up, and the men that had life are being raised up as well, who were once asleep or passed on. Now, you got something you want to show?
+
+- **Officer:** Yeah. This is to land back on the color of Septimius Severus.
+
+- **Deacon Eythan:** Give me that book, Roy Nash, as well, The Conquest of Brazil. Go ahead, read that.
+
+<div class="reading">
+
+Reading from a history of Scotland, the page on Graham's Dyke and the Emperor Severus · read by an officer  *[[2:39:59](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=9599s)]*
+
+> assistant to King Fergus in his own lifetime, but was after his death elected governor or regent of the kingdom during the minority of his son Eugenius, and having in that time broke over the wall of Abercorn, greatly harassed the dominions of the Britons, so that from that adventure that wall is said to have obtained the denomination, retained as yet, of Graham's Dyke;
+
+- Right. So they talking about the wall of Abercorn, right?
+
+> which denomination others assert to be taken from the Emperor Severus, who repaired that wall, which was first begun by Julius Agricola, in the reign of the Emperor Domitian.
+
+- Septimius Severus. So Septimius Severus repaired the wall of Abercorn. Read on. Watch this.
+
+> The reason given for the last is that Severus, being born in Africa, was of a very black and swarthy complexion,
+
+- Septimius Severus, the emperor. Because he was born in Africa. A what? Very black. So Septimius Severus was dark as hell. Black as hell. Read on, why they gave it the name Graham's Dyke.
+
+> and that the dyke was termed Grim's, grim in Irish signifying black or swarthy.
+
+- So that's why they gave the wall that name, because of how black Septimius Severus was. Black wall. A furnace.
+
+- I did want the bloopers, but we running out of time. Let's put one of them up. Get one blooper, your best one. When OHH first started, we were short on readers, and desperate. Needed somebody to read for us, and brothers weren't available. So we had to use what we got. We had to get them off the bench. The lowest, the basest of readers we had to pull out. Play the blooper.
+
+</div>
+
+<div class="reading">
+
+Reading from the bloopers, from the first episodes  *[[2:42:15](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=9735s)]*
+
+> So now let's go to Acts chapter 6, verse 1. Acts chapter 6, verse 1. And in, and in, and in the, in the, in the beginning.
+
+- Damn. This dude speaking the Hebrew, man. Acts 2, on the spirit. Brother speaking in the tongue. Snap. You nervous, man. You mad nervous, bro. Don't be nervous, man. I know you ain't hard in the show that much. You usually in the back, in the seat. You got it. Tremendous. Shout out to Officer Manny, from the very beginning. That was by far the worst reading ever. He tried to read the whole book at once. He trying to read all chapters at the same time. Now we got something else. Get the captain's video, the breath. So I'm going to give y'all some background real quick. We be teaching, right? We'll be teaching, and we'll hear a noise, like panting. What's that noise, man? And Captain's like, I don't know what's going on. What's that noise? Someone beat on the mic hard, man. It's real hollow, too. Press play.
+
+> Northward and southward, so that no beast might stand before him, neither was there any that could deliver out of his hand.
+
+- Damn. Listen, I'm looking at, sometimes in the mic, man. Turn the mic down. I got to hear that, bro. I can't even concentrate on my reading, man. Like, I came yesterday very focused. I forgot to. The damn Haitian choir. Here we go. He's back. I'm talking about pushing my buttons all day, man. I can't take any more, man. I'm trying, boxing Darth Vader and then a freaking mic. Brothers, I got another mic, man. So, yeah, the captain was on a respirator in his mind while he was doing the lesson. Captain be looking normal. You can't tell. Yo, how you sound like that, bro? After that episode, Captain had his mic way back here. He put it back way back in. We had to get a filter. Dude was breathing like he was trying to fight for survival, man. The mic was inside of his lungs, bro. It was crazy, man. You can hear the inside of Captain. You can hear his whole body inside. His whole respiratory system. You hear his lungs and veins and his neck. You hear the blood flowing through him. Look at the text.
+
+- **Text:** Shalom, leadership. Most High and Christ bless. Congratulations on episode 200. When I homeschooled my daughter, I used Our Hidden History to fulfill her social studies requirements. She took notes, and I prepared multiple-choice and short-response questions. She loved learning the truth instead of lies. Thank you all.
+
+- **Deacon Eythan:** Wow. Fire. Let me get one last book, and let me get these last two scriptures done and wrap it up. Roy Nash, The Conquest of Brazil. Just to further conclude that what Yeshaya was saying back then was true, and what we're saying now was true, regarding what we've been teaching.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Conquest of Brazil* by Roy Nash, with eight maps and seventy-seven illustrations, on the period of Moorish dominance · read by an officer  *[[2:47:25](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10045s)]*
+
+> Ripley says the Moors were so similar in type to the natives that it is impossible to identify their descendants; that intermixture would not have modified stature or head form in any degree.
+
+- He's referring to Native Americans and Moors, by having the same features, if I'm not mistaken.
+
+> From the period of Moorish dominance in Portuguese history, three things are worth stressing as bearing directly upon twentieth-century Brazil. And the first has to do with just the subtle difference between brown and brunette. Many North Americans profess horror at the intermarriage of white and colored types which is so common in South America.
+
+- Moorish dominance is when we ruled. Remember it said, Malachi said, we will rebuild again the desolate places, because we were ruling over them, and we put them in the caves, and they came out them caves and began to dominate us over time. Not right away, but over time, because of our infighting. They brought white folks in there, called the blanqueamiento, where they brought a bunch of white folks into Central and South America to whiten, or wash out, the black that was there. But it ain't worked. Black folks, you know, we don't die, we what? Multiply. So all that mixing ain't do a damn thing.
+
+> Mark well, then, that the first contact of the Portuguese and Spanish with a darker-skinned people was the contact of the conquered with their brown-skinned conquerors.
+
+- So there was a time, so he's saying that in Brazil, blacks mixing with whites was horrendous, a terrible thing. But when we ruled, it was like marrying up for white folks. Wow, you married a Moor king? Wow. Read on. Watch. And we were the conquerors.
+
+> And the darker man was the more cultured, more learned, more artistic. He lived in the castles and occupied the towns. He was the rich man, and the Portuguese became serfs upon his land.
+
+- He lived in the castles. We lived in the castles. Not them. We were in the castles. Watch. We were the rich man. We were the ruling class, as it will be again. And they were our slaves, maintaining our castles.
+
+> Under such conditions it would be deemed an honor for the white to marry or mate with the governing class, the brown man, instead of the reverse.
+
+- Right? And that's what white folks did. White folks married with the Moors, got into the family, and then begin to infiltrate and turn us against each other, and then wipe us out and took over. That's what they were doing. So we were in the castles. These authors understand this. That's the picture right there. We're in the castles, and they're walking around butt naked with hair all over the place. Wild men. That's them. Look like white walkers. And that's us over there. The Starks over there, Lannisters. That's us over here. Game of Thrones. That's us in the castles. Black Moor, thirteenth-century Germany, Strasbourg. Germany also. Yeshaya mentioned that earlier. Give me Ezekiel 37:10. So now let's bring it to now.
+
+</div>
+
+**[Ezekiel 37:10](/bible/ezekiel/37#v10)**  *[[2:51:16](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10276s)]*
+
+> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
+
+- That's now, the breath. Going back to what Esdras said earlier, about us awaking, those that had life. Read again. And the life came into us. And they lived: and we lived, as we are doing now. Standing upon our feet: understanding was given to us as well. That's all I want. Now give me Revelation 11:11. And give me that page, I think I sent you, Empire Within the Empire.
+
+**[Revelation 11:11](/bible/revelation/11#v11)**  *[[2:52:03](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10323s)]*
+
+> <sup>[11](/bible/revelation/11#v11)</sup> And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
+
+- That's all I want. That's the same thing that John was mentioning, is what Ezekiel saw. Officer, you sent that page before, Empire Within the Empire. It's on the Telegram. I want you to read that real quick regarding this army. Give me real quick, before you get that, Daniel 2:44, because the army is gradual. Isaiah 9, it says the increase of his government. Isaiah 9 and 7.
+
+**[Isaiah 9:7](/bible/isaiah/9#v7)**  *[[2:53:41](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10421s)]*
+
+> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
+
+- Of his what? Of his government. Government translates to community. It translates to nation. It translates to empire. His government. And peace there shall be no end. There will be no end. Daniel 2:44. Will this kingdom fall? Will it fail? Could this movement be stopped, as I've heard foolishly from my own people? Read that.
+
+**[Daniel 2:44](/bible/daniel/2#v44)**  *[[2:54:20](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10460s)]*
+
+> <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
+
+- In the days of these kings: in the days of these empires. We're in the days of those kings now. We are in a time; days of these kings translates to times of the Gentiles. I'm going to say it again: days of these kings translates to times of the Gentiles. We are in the times of the Gentiles. We're in the fourth beast. We are in the extension of the fourth beast. So in these times of these kings, or kingdoms, shall the God of heaven set up a kingdom, or increase a government, which shall never be destroyed. No, it'll stop, it's a movement, it'll stop. Which shall never be destroyed. Never be destroyed. And the kingdom shall not be left to other people: it will not be a melting pot of other nations. But this kingdom shall destroy all the other kingdoms, and this one shall reign forever. But it started with us rising up, in Ezekiel 37 and 10, Revelation 11 and 11. Also Psalms 15, verse 16 and 21. But give me this page right here. We got a text. Read that text real fast, and let me read this page and we out.
+
+- **Text:** Shalom, Deacon, Captain, leadership. Most High and Christ bless you all. What you men are doing in the spirit of Christ, from deep through the bishops down to leadership, is the bane of all scholars around the world that have sought deep to hide this information. This is what they whipped out of us, from Israel into Toby. I grew up an orphan. I had real identity problems. Y'all have given me not only identity, but courage, strength, a sense of nobility, dignity, royalty. I've been watching since 2020, and now I fully understand why this was the only class I passed in high school.
+
+- **Deacon Eythan:** Oh, really? Okay. Give me that last page of this book right here, regarding the increase of his government, and we going to wrap it up from there. Start from the first.
+
+<div class="reading">
+
+Reading from the page headed Empire Within the Empire, on Rome and the Christian community, posted to the Telegram · read by an officer  *[[2:56:47](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10607s)]*
+
+> For the first time, the imperial government saw with whom they had to do.
+
+- Referring to Rome.
+
+> It was the settled policy of Rome steadily to repress and to stamp out all organizations, all self-governing communities or clubs, as highly dangerous to the spirit of imperial policy;
+
+- Stop. It was Rome's policy to stamp out all organizations. Organized nation, actually. All self-governing means our own elders, our own leadership structure, governments, self-governing communities. Watch. They were deemed highly dangerous in the spirit of imperial policy, meaning treason. Go ahead, watch.
+
+> and as the result of the trials and inquiries which followed the fire of Rome, it found in the Christian community a living embodiment of this tendency, which hitherto Rome had succeeded in crushing;
+
+- Which they blamed on Peter and the apostles and Paul. Nero. Nero did this. They found what? Rome found in the real Christian community, watch, a living embodiment of this tendency.
+
+> found that in their midst, in the capital and in the provinces, an extra-imperial unity was fast growing up: an empire within the empire.
+
+- In the midst of Rome's empire, among the Christians, watch: an extra-imperial unity. They found among the Christians in Rome an extra-imperial unity, fast growing up. What is that? Us. Is that not us right now? What they find? An empire within the empire. They found a Christian organization that was growing in unity, an empire itself within the empire. That's what we are. An empire within an empire.
+
+- **Captain:** Hey, now we understand why J. Edgar said what he said. Black unity is Negro unity. Because that is a threat to national security.
+
+- **Deacon Eythan:** Yep. As it was in America, so it is now. And as the Christians were then, so are we now. We are an empire within an empire. So we're going to keep bringing this history out, and encouraging our people to love their identity, love themselves, learn themselves. So with that, all praise to the Most High. Shalom. Most High and Christ bless. Hope you guys enjoyed the special.
+
+</div>
+
+## In Closing
+
+*[[3:03:56](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=11036s)]* Any last words before we close up? Nah, man. Just keep on watching. You guys being here today, I want to thank y'all for being here today, and for your support. Being here in person is really touching. I appreciate it. Just thank you for your support and being here. What we touching on next? Well, we going to touch on the twelve tribes chart on the other side of the world. We're going to elaborate on that. That's going to be a series, what I showed earlier. We're going to go over that meticulously. That's our next segment, after we finish off the King James stuff in Europe. We're going to go into that next. So I'm excited for that. It's going to take a lot of work and a lot of research, a lot of headache, but they can't plagiarize that. So we're going to have a good time. We're going to see who copy that.
+
+But all praises, once again, to y'all for being here. It's a great turnout, man. A lot of y'all are here today. This is great. The only person missing is one of the captains; shout out to him. He should have called in or something. He's somewhere, apart. So I get it. But all praises, man. Again, thank you, the cast as well. I couldn't do this without them. I'm not a one-man show. This is OHH. It's not my show. It's our show. A lot of the work that's gone into putting these classes together, a lot of it is from them. Shout outs to the officers. One of the captains can't be here. Shout out to the brothers as well, and the IT as well, for helping out, emailing stuff and putting it together in folders and being able to pull it up. It's a joint effort. It's a team effort. There's no I in team. So I appreciate the support of the brothers around me, because without them I couldn't have got this done, and without y'all it wouldn't be enjoyable to teach it. Both sides. That's all I have to say.
+
+## Announcements & References
+
+*[[2:59:27](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10767s)]* **Officer:** Give another hand. This is the 200th episode. Y'all been learning for 200 episodes who you are, man. All praises to the Most High. Our Hidden History. Make sure y'all subscribing on IUIC Philly, IUIC in the Classroom, Our Hidden History Radio. Make sure that y'all donate to OHH, iuic.philadelphia@israelunite.org. And make sure y'all don't forget to donate to the Booster Club, as we've been traveling around the world. The Lord put the spirit on the leadership to send the prophets all across the earth, and we need y'all support. So make sure y'all donate to iuic.pfundraising@israelunite.org. And last but not least, don't forget IUIC TV. Subscribe to get that exclusive content.
+
+*[[3:00:27](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10827s)]* For our missing persons, we got Ayanna Ramos. She's been missing from the 3100 block of East Street, Philly. She's 14, Hispanic. Hair color and eye color are unknown. She's 4'7 and about 120 pounds. She was last seen June 24th. No clothing description. So if you see our sister, make sure that y'all reach out and say something. Let's recover our sister.
+
+*[[3:01:09](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10869s)]* Y'all seen the commercials already. Y'all seen the work that the leadership is doing, Officer Joshua and the rest of the team. Look, we got the land, but we still need to continue to support. So iuic.nationhood@israelunite.org, and in the notes section, put land. Continue your support. And don't forget to scan that QR code to help them out. All five of those questions, just answer them honestly.
+
+*[[3:01:48](https://www.youtube.com/watch?v=8qe2AlcfBmo&t=10908s)]* We also want to give a shout out to those that you do not see, that's behind the scenes. The sisters that's been making the breakfast for us, from the beginning all the way up to the 200th episode, taking care of us. And shout outs to those of you who have been donating as well. I have been receiving the funds. I bought four books last week. So it'll be coming in and I'll be utilizing them. And I bought the books that I didn't have that were presented in one of these videos. So I'm going to be sharing stuff with y'all as well. You guys are sending donations and giving us money for books; I am utilizing it for that purpose. So thank you. Also the Booster Club. Don't forget to donate. Your contributions will not go unused. Shout out to the security team that always got this place, the doors open for the people. Shout out to the decoration team, because y'all don't even understand how this thing works backstage. This thing will be up in an hour and down; I don't know how they do it. Shout out to Officer Ephraim and his team, making sure this place is always laced up. And shout out to the audience that support this all the time behind the scenes. They don't see y'all, but y'all here.
+
+Sources read from in this episode:
+
+- Richard Watson's theological dictionary, 1849, the entry on the prophets: their schools, and the visible signs they held up in public.
+- *History of the Jews* by Heinrich Graetz, the prophets in the last decades before the destruction of the kingdom (read by an officer).
+- A history of Scotland, the page on the wall of Abercorn, Graham's Dyke, and the very black and swarthy complexion of the Emperor Severus (read by an officer).
+- *The Conquest of Brazil* by Roy Nash, on the period of Moorish dominance in Portuguese history (read by an officer).
+- The page headed Empire Within the Empire, on Rome's policy toward the Christian community, posted to the Telegram (read by an officer).
+- *The Icon*, the images of Peter and Paul, the Serbian kings, Saint Nicholas, and Constantine with his mother Saint Helena, shown from the Deacon's copy.
+- The old-school tapes: Elder Arya in Times Square, with Rocky Stone; Elder Yaquab on the School of Universal Practical Knowledge at 72; Elder Kazak on feast days and so-called holidays; Elder Masha on the twelve tribes chart; Elder Yeshaya and Elder Arya on *The Borgias* by Marion Johnson, page 218; the Bishop, young, on the name and on *The Thirteenth Tribe* by Arthur Koestler, page 17; Elder Yeshaya, Biblical and Dark Ages, on Septimius Severus and *The Icon*; Elder Arya's classic sermon of November 1992 on the Samaritans.
+- Videos: Dr. Stephen Pidgeon of Cepher Publishing on eugenics and the tribe of Judah; the scene from *Planet of the Apes*, apes together strong; a historian on the princes in *Gladiator II*; the AI video of the history of the Israelites; the show's bloopers.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=8qe2AlcfBmo)
