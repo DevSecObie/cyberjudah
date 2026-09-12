@@ -29,6 +29,7 @@ from ingest import FEEDS
 
 BASE_URL = "https://transcriptapi.com/api/v2"
 API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY")
+USER_AGENT = os.environ.get("TRANSCRIPTAPI_USER_AGENT", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36")
 
 
 def sh(cmd, **kw):
@@ -57,7 +58,14 @@ def api_get(path, params, *, timeout=60, retries=3):
 
     req = Request(
         f"{BASE_URL}{path}?{urlencode(params)}",
-        headers={"Authorization": f"Bearer {key}", "Accept": "application/json"},
+        headers={
+            "Authorization": f"Bearer {key}",
+            "Accept": "application/json",
+            "User-Agent": USER_AGENT,
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://transcriptapi.com/",
+            "Origin": "https://transcriptapi.com",
+        },
     )
     last = None
     for attempt in range(retries):
@@ -314,7 +322,7 @@ def main():
                     file_duration = m[2] if m[2] not in ("NA", "") else None
                     file_views = m[4] if m[4] not in ("NA", "") else None
             else:
-                code, payload = fetch_transcript(vid)
+                code, payload, _ = fetch_transcript(vid)
                 if code == 200:
                     p = payload.get("metadata", payload)
                     raw_path = os.path.join(raw, f"{vid}.transcript.json")

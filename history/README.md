@@ -14,7 +14,7 @@ The OUR HIDDEN HISTORY RADIO channel (@ourhiddenhistoryradio1991), every full ep
 - `channel-meta.tsv`: id, upload date, duration, title, views for every episode at the time
   of the first pull. `no-captions.tsv`: episodes YouTube has no English captions for.
 
-New episodes: pull the caption track (yt-dlp `--write-auto-subs --sub-format json3`, or
-`python3 scripts/history/harvest.py --backend transcriptapi`) and run `python3 scripts/history/ingest.py
-<captions> --id <videoId> --title "<title>" --date YYYY-MM-DD --duration <seconds>`. The engine
-picks the file up on the next publish.
+New episodes: pull the caption track (yt-dlp `--write-auto-subs --sub-format json3`, or the
+transcript API's json) and run `python3 scripts/history/ingest.py <captions> --id <videoId>
+--title "<title>" --date YYYY-MM-DD --duration <seconds>`. The engine picks the file up on the
+next publish.
