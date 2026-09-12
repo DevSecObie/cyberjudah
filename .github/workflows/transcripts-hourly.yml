@@ -26,6 +26,6 @@ jobs:
           GJT: ${{ secrets.GJT }}
           HARVEST_RAW_DIR: /tmp/transcriptapi-harvest-raw
         run: |
+          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --push
           python3 scripts/history/harvest.py --feed captains --channel iuiccaptains6939 --backend transcriptapi --push
           python3 scripts/history/harvest.py --feed history --channel ourhiddenhistoryradio1991 --backend transcriptapi --push
-          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --push
