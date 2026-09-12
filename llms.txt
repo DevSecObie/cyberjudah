@@ -1,0 +1,34 @@
+# CyberJudah
+
+> A King James Bible with the Apocrypha, cross-linked with the class notes, daily reading
+> notes, encyclopedia, handbook of Bible law, precepts and case studies taught from it.
+> Every chapter lists what cites it; every citation links back into the text.
+
+The Bible text is the public-domain King James Version (1769) with the Apocrypha, 81 books, 1362 chapters.
+
+## Pages
+
+- [The Bible](https://cyberjudah.io/bible): every chapter, with the notes, laws, precepts and cases that cite it
+- [4 Chapters a Day](https://cyberjudah.io/study): 1009 study notes on the daily reading, one page per chapter
+- [Sabbath class notes](https://cyberjudah.io/classes): 100 classes
+- [15 Minutes w/ The Captains](https://cyberjudah.io/captains): 10 episodes
+- [Encyclopedia](https://cyberjudah.io/encyclopedia): 8 standing subjects gathered from the notes
+- [The Law](https://cyberjudah.io/law): a handbook of Bible law in 22 parts, 1562 laws
+- [Precepts](https://cyberjudah.io/precepts): 445 precepts with their references
+- [Case studies](https://cyberjudah.io/cases): 217 judgments recorded in scripture, and 72 who kept the law and were blessed
+
+## Data
+
+Everything on the site is available as static JSON at the same versification as the pages.
+
+- [API index](https://cyberjudah.io/api/index.json): every endpoint
+- [Books](https://cyberjudah.io/api/kjv/books.json), chapters at https://cyberjudah.io/api/kjv/<book-slug>/<chapter>.json
+- [Notes index](https://cyberjudah.io/api/notes/index.json): study, class, captains and encyclopedia notes
+- Citations for a chapter: https://cyberjudah.io/api/concordance/<book-slug>/<chapter>.json
+- [SQLite library with full-text search](https://cyberjudah.io/library.sqlite.gz)
+
+## Feeds
+
+- [Sabbath class notes](https://cyberjudah.io/classes/rss.xml)
+- [15 Minutes w/ The Captains](https://cyberjudah.io/captains/rss.xml)
+- [4 Chapters a Day](https://cyberjudah.io/study/rss.xml)
