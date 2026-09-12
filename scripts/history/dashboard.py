@@ -90,21 +90,28 @@ def build_entry(feed, channel):
     tdir = os.path.join(feed, "transcripts")
     done = set(glob.glob(os.path.join(tdir, "*.json")))
     done_ids = {os.path.basename(p)[:-5] for p in done}
-    done_ids |= read_set(os.path.join(feed, "no-captions.tsv"))
-    done_ids |= read_set(os.path.join(feed, "age-restricted.tsv"))
+
+    no_captions_ids = read_set(os.path.join(feed, "no-captions.tsv"))
+    age_restricted_ids = read_set(os.path.join(feed, "age-restricted.tsv"))
+    done_ids |= no_captions_ids
+    done_ids |= age_restricted_ids
 
     videos = listing_api(channel)
     to_fetch = [vid for vid in videos if vid not in done_ids]
+    in_vault = len(videos) - len(to_fetch)
+    progress = (in_vault / len(videos) * 100.0) if videos else 100.0
+
     return {
         "channel": channel,
         "feed": feed,
         "videos": len(videos),
-        "already_in_vault": len(videos) - len(to_fetch),
+        "already_in_vault": in_vault,
         "to_fetch": len(to_fetch),
         "completed": len(videos) - len(to_fetch),
         "no_backlog": len(to_fetch) == 0,
-        "no_captions": len(done_ids.intersection(read_set(os.path.join(feed, "no-captions.tsv")))),
-        "age_restricted": len(done_ids.intersection(read_set(os.path.join(feed, "age-restricted.tsv")))),
+        "no_captions": len(done_ids.intersection(no_captions_ids)),
+        "age_restricted": len(done_ids.intersection(age_restricted_ids)),
+        "progress_pct": round(progress, 2),
     }
 
 
@@ -114,14 +121,15 @@ def write_markdown(path, rows, now):
         "",
         f"Last checked: {now.isoformat()}",
         "",
-        "| Feed | Channel | Videos | In Vault | To Fetch | No Caption/Age-Restricted |",
-        "|---|---|---:|---:|---:|---:|",
+        "| Feed | Channel | Videos | In Vault | To Fetch | Progress | No Caption/Age-Restricted |",
+        "|---|---|---:|---:|---:|---:|---:|",
     ]
     for row in rows:
         blocked = row["no_captions"] + row["age_restricted"]
+        progress = row["progress_pct"]
         lines.append(
             f"| {row['feed']} | {row['channel']} | {row['videos']} | "
-            f"{row['already_in_vault']} | {row['to_fetch']} | {blocked} |"
+            f"{row['already_in_vault']} | {row['to_fetch']} | {progress:.1f}% | {blocked} |"
         )
     lines.append("")
     lines.append("Dashboard is updated by the hourly transcript workflow.")

@@ -35,6 +35,23 @@ jobs:
         env:
           TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
         run: |
-          python3 scripts/history/dashboard.py --json data/transcript-backlog.json --markdown /tmp/transcript-backlog.md
+          mkdir -p dashboard
+          python3 scripts/history/dashboard.py --json dashboard/transcript-backlog.json --markdown /tmp/transcript-backlog.md
           cat /tmp/transcript-backlog.md >> "$GITHUB_STEP_SUMMARY"
+          cp /tmp/transcript-backlog.md dashboard/transcript-backlog.md
+
+      - name: Commit updated dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -z "$(git status --porcelain dashboard/transcript-backlog.md dashboard/transcript-backlog.json)" ]]; then
+            echo "No dashboard changes."
+            exit 0
+          fi
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dashboard/transcript-backlog.md dashboard/transcript-backlog.json
+          git commit -m "chore: refresh transcript backlog dashboard [skip ci]"
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}
           echo
