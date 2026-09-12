@@ -1,0 +1,54 @@
+{
+  "errors": [],
+  "feeds": [
+    {
+      "age_restricted": 0,
+      "already_in_vault": 429,
+      "channel": "iuiccaptains6939",
+      "completed": 429,
+      "feed": "captains",
+      "no_backlog": false,
+      "no_captions": 9,
+      "progress_pct": 28.35,
+      "to_fetch": 1084,
+      "videos": 1513
+    },
+    {
+      "age_restricted": 0,
+      "already_in_vault": 274,
+      "channel": "ourhiddenhistoryradio1991",
+      "completed": 274,
+      "feed": "history",
+      "no_backlog": false,
+      "no_captions": 12,
+      "progress_pct": 60.49,
+      "to_fetch": 179,
+      "videos": 453
+    },
+    {
+      "age_restricted": 0,
+      "already_in_vault": 0,
+      "channel": "IUICintheClassRoom",
+      "completed": 0,
+      "feed": "classes",
+      "no_backlog": false,
+      "no_captions": 0,
+      "progress_pct": 0.0,
+      "to_fetch": 198,
+      "videos": 198
+    },
+    {
+      "age_restricted": 0,
+      "already_in_vault": 0,
+      "channel": "iuicintheclassroom2",
+      "completed": 0,
+      "feed": "classes",
+      "no_backlog": false,
+      "no_captions": 0,
+      "progress_pct": 0.0,
+      "to_fetch": 199,
+      "videos": 199
+    }
+  ],
+  "generated_at": "2026-09-12T23:15:57.784331+00:00"
+}
