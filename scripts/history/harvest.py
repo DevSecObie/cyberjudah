@@ -18,6 +18,7 @@ import subprocess
 import sys
 import time
 from datetime import datetime
+import shutil
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -32,6 +33,10 @@ API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY
 
 def sh(cmd, **kw):
     return subprocess.run(cmd, text=True, capture_output=True, **kw)
+
+
+def ytdlp_cmd(args):
+    return (["yt-dlp"] + args) if shutil.which("yt-dlp") else ["python3", "-m", "yt_dlp"] + args
 
 
 def api_key():
@@ -123,7 +128,7 @@ def parse_date(value):
 
 
 def listing_yt(channel, tab):
-    r = sh(["yt-dlp", "--flat-playlist", "--print", "%(id)s\t%(duration)s\t%(title)s", f"https://www.youtube.com/@{channel}/{tab}"])
+    r = sh(ytdlp_cmd(["--flat-playlist", "--print", "%(id)s\t%(duration)s\t%(title)s", f"https://www.youtube.com/@{channel}/{tab}"]))
     rows = []
     for line in r.stdout.splitlines():
         p = line.split("\t")
@@ -261,12 +266,12 @@ def main():
             open(ids, "w").write("".join(f"https://www.youtube.com/watch?v={r[0]}\n" for r in batch))
             if os.path.exists(meta):
                 os.remove(meta)
-            y = sh([
-                "yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
+            y = sh(ytdlp_cmd([
+                "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
                 "--sleep-requests", "2", "--sleep-subtitles", "3", "--retries", "5", "--extractor-retries", "3",
                 "--print-to-file", "%(id)s\t%(upload_date)s\t%(duration)s\t%(title)s\t%(view_count)s\t%(subtitles.en.0.ext)s\t%(automatic_captions.en.0.ext)s",
                 meta, "-o", os.path.join(raw, "%(id)s"), "-a", ids
-            ])
+            ]))
             aged = set(re.findall(r"\[youtube\] ([\w-]{11}): Sign in to confirm your age", y.stderr))
             metas = {}
             if os.path.exists(meta):
@@ -278,10 +283,11 @@ def main():
             if listed and not any(glob.glob(os.path.join(raw, f"{v}.*.json3")) for v in listed):
                 print(f"rate limited: {len(listed)} videos have captions but none came through; sleeping 240s and retrying the batch", flush=True)
                 time.sleep(240)
-                sh(["yt-dlp", "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
+                sh(ytdlp_cmd([
+                    "--ignore-errors", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "json3",
                     "--sleep-requests", "4", "--sleep-subtitles", "6", "--retries", "5",
                     "-o", os.path.join(raw, "%(id)s"), "-a", ids
-                ])
+                ]))
                 if not any(glob.glob(os.path.join(raw, f"{v}.*.json3")) for v in listed):
                     print("still rate limited; stopping this run (rerun later, it resumes)", flush=True)
                     break
