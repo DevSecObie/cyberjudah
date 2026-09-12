@@ -1,0 +1,31 @@
+name: Hourly Transcript Harvest
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: transcript-harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run TranscriptAPI harvest
+        env:
+          TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
+          GJT: ${{ secrets.GJT }}
+          HARVEST_RAW_DIR: /tmp/transcriptapi-harvest-raw
+        run: |
+          python3 scripts/history/harvest.py --feed captains --channel iuiccaptains6939 --backend transcriptapi --push
+          python3 scripts/history/harvest.py --feed history --channel ourhiddenhistoryradio1991 --backend transcriptapi --push
+          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --push

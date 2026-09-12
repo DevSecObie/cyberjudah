@@ -262,7 +262,8 @@ def main():
         flush=True
     )
 
-    raw = os.path.join(ROOT, ".harvest-raw"); os.makedirs(raw, exist_ok=True)
+    raw = os.environ.get("HARVEST_RAW_DIR", os.path.join(ROOT, ".harvest-raw"))
+    os.makedirs(raw, exist_ok=True)
     got = nosub = failed = 0
 
     for i in range(0, len(todo), a.batch):
