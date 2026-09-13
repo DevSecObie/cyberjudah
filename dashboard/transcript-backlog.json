@@ -3,15 +3,15 @@
   "feeds": [
     {
       "age_restricted": 0,
-      "already_in_vault": 1229,
+      "already_in_vault": 1387,
       "channel": "iuiccaptains6939",
-      "completed": 1229,
+      "completed": 1387,
       "feed": "captains",
       "no_backlog": false,
-      "no_captions": 29,
-      "progress_pct": 81.23,
-      "to_fetch": 284,
-      "videos": 1513
+      "no_captions": 35,
+      "progress_pct": 94.29,
+      "to_fetch": 84,
+      "videos": 1471
     },
     {
       "age_restricted": 0,
@@ -34,8 +34,8 @@
       "no_backlog": false,
       "no_captions": 0,
       "progress_pct": 0.0,
-      "to_fetch": 197,
-      "videos": 197
+      "to_fetch": 198,
+      "videos": 198
     },
     {
       "age_restricted": 0,
@@ -46,9 +46,9 @@
       "no_backlog": false,
       "no_captions": 0,
       "progress_pct": 0.0,
-      "to_fetch": 199,
-      "videos": 199
+      "to_fetch": 399,
+      "videos": 399
     }
   ],
-  "generated_at": "2026-09-13T01:41:17.269937+00:00"
+  "generated_at": "2026-09-13T05:51:07.477107+00:00"
 }
