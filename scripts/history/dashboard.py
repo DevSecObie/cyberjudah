@@ -137,10 +137,70 @@ def write_markdown(path, rows, now):
         f.write("\n".join(lines))
 
 
+def write_html(path, rows, now):
+    lines = [
+        "<!doctype html>",
+        "<html>",
+        "<head>",
+        '  <meta charset="utf-8" />',
+        '  <meta name="viewport" content="width=device-width, initial-scale=1" />',
+        '  <title>Transcript Backlog Dashboard</title>',
+        "  <style>",
+        "    body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; color: #111827; }",
+        "    h1 { margin: 0 0 8px; }",
+        "    p { color: #4b5563; margin: 0 0 16px; }",
+        "    table { border-collapse: collapse; width: 100%; max-width: 1100px; }",
+        "    th, td { border: 1px solid #d1d5db; padding: 8px 10px; text-align: left; }",
+        "    th { background: #f3f4f6; }",
+        "    .num { text-align: right; }",
+        "    .good { color: #059669; font-weight: 700; }",
+        "    .warn { color: #b91c1c; font-weight: 700; }",
+        "  </style>",
+        "</head>",
+        "<body>",
+        "  <h1>Transcript Backlog Dashboard</h1>",
+        f'  <p>Last checked: {now.isoformat()}</p>',
+        "  <table>",
+        "    <thead>",
+        "      <tr>",
+        "        <th>Feed</th><th>Channel</th><th class='num'>Videos</th><th class='num'>In Vault</th><th class='num'>To Fetch</th><th class='num'>Progress</th><th class='num'>No Caption / Age-Restricted</th><th>Status</th>",
+        "      </tr>",
+        "    </thead>",
+        "    <tbody>",
+    ]
+
+    for row in rows:
+        blocked = row["no_captions"] + row["age_restricted"]
+        status = "ok" if row["to_fetch"] == 0 else "backlog"
+        if row["to_fetch"] == 0:
+            status_label = '<span class="good">OK</span>'
+        else:
+            status_label = '<span class="warn">BACKLOG</span>'
+        lines.append(
+            "      <tr>"
+            f"<td>{row['feed']}</td><td>{row['channel']}</td>"
+            f"<td class='num'>{row['videos']}</td><td class='num'>{row['already_in_vault']}</td>"
+            f"<td class='num'>{row['to_fetch']}</td><td class='num'>{row['progress_pct']:.1f}%</td>"
+            f"<td class='num'>{blocked}</td><td>{status_label}</td></tr>"
+        )
+
+    lines += [
+        "    </tbody>",
+        "  </table>",
+        "  <p>Dashboard is updated by the hourly transcript workflow.</p>",
+        "</body>",
+        "</html>",
+    ]
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", required=True)
     ap.add_argument("--markdown", default=None)
+    ap.add_argument("--html", default=None)
     args = ap.parse_args()
 
     now = datetime.now(timezone.utc)
@@ -164,6 +224,8 @@ def main():
 
     if args.markdown:
         write_markdown(args.markdown, rows, now)
+    if args.html:
+        write_html(args.html, rows, now)
 
     for row in rows:
         status = "OK" if row["to_fetch"] == 0 else "BACKLOG"

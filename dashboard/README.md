@@ -4,5 +4,6 @@ This folder is auto-refreshed by the `Hourly Transcript Harvest` workflow every 
 
 - Live JSON: `transcript-backlog.json`
 - Human-readable: `transcript-backlog.md`
+- Browser view: `transcript-backlog.html`
 
 You can use either file as a real-time dashboard to check backlog and completion progress.
