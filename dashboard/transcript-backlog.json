@@ -15,15 +15,15 @@
     },
     {
       "age_restricted": 0,
-      "already_in_vault": 453,
+      "already_in_vault": 454,
       "channel": "ourhiddenhistoryradio1991",
-      "completed": 453,
+      "completed": 454,
       "feed": "history",
       "no_backlog": true,
-      "no_captions": 15,
+      "no_captions": 16,
       "progress_pct": 100.0,
       "to_fetch": 0,
-      "videos": 453
+      "videos": 454
     },
     {
       "age_restricted": 0,
@@ -50,5 +50,5 @@
       "videos": 399
     }
   ],
-  "generated_at": "2026-09-13T14:48:38.799881+00:00"
+  "generated_at": "2026-09-13T17:48:33.241569+00:00"
 }
