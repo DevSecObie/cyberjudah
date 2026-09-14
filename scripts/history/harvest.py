@@ -279,6 +279,8 @@ def main():
     ap.add_argument("--feed", required=True, choices=sorted(FEEDS))
     ap.add_argument("--channel", required=True)
     ap.add_argument("--backend", default="yt-dlp", choices=("yt-dlp", "transcriptapi"))
+    ap.add_argument("--listing-backend", choices=("yt-dlp", "transcriptapi"),
+                    help="inventory source; transcript fetching still uses --backend")
     ap.add_argument("--limit", type=int, default=100000)
     ap.add_argument("--batch", type=int, default=25)
     ap.add_argument("--push", action="store_true")
@@ -293,7 +295,8 @@ def main():
     agegate = os.path.join(fdir, "age-restricted.tsv")  # permanent: an age gate does not lift on its own
 
     seen, rows = set(), []
-    if a.backend == "yt-dlp":
+    listing_backend = a.listing_backend or a.backend
+    if listing_backend == "yt-dlp":
         for tab in a.tabs.split(","):
             for row in listing_yt(a.channel, tab):
                 if row[0] not in seen:
