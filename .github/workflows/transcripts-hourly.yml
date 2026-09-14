@@ -54,5 +54,14 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html
           git commit -m "chore: refresh transcript backlog dashboard [skip ci]"
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}
-          echo
+
+          for attempt in 1 2 3; do
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}; then
+              exit 0
+            fi
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${GITHUB_REF_NAME}"
+            sleep $((attempt * 2))
+          done
+
+          echo "Dashboard push failed after 3 attempts."
+          exit 1
