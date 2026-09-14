@@ -17,7 +17,7 @@ import re
 import subprocess
 import sys
 import time
-from datetime import datetime
+from datetime import date, datetime, timedelta, timezone
 import shutil
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
@@ -128,6 +128,55 @@ def parse_views(v):
 def parse_date(value):
     if not value:
         return None
+
+
+def append_once(path, video_id, title, stamp=False):
+    """Record a terminal classification without creating duplicate TSV rows.
+
+    `stamp` adds the day the row was written, which is what lets no-captions rows age out
+    (see nocaption_skips). The first sighting is the one that counts: a video still without
+    captions on a later run keeps its original date and so stops being retried on schedule.
+    """
+    existing = set()
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as handle:
+            existing = {line.split("\t", 1)[0] for line in handle if line.strip()}
+    if video_id not in existing:
+        with open(path, "a", encoding="utf-8") as handle:
+            row = f"{video_id}\t{title}"
+            if stamp:
+                row += f"\t{datetime.now(timezone.utc).date().isoformat()}"
+            handle.write(row + "\n")
+
+
+def nocaption_skips(path, recheck_days):
+    """The no-captions ids that should stay skipped this run.
+
+    A class is a livestream, and YouTube publishes its auto-captions some hours after the
+    stream ends -- so a harvest that runs in between sees no track at all. Parking those ids
+    permanently loses the class, and because every new class passes through that window it
+    loses them on an ongoing basis: the 2026-09-12 classes went missing exactly this way.
+
+    A row younger than recheck_days is tried again; its captions may have landed since. Rows
+    written before the date column existed carry no date and stay skipped, as they always did.
+    """
+    skips = set()
+    if not os.path.exists(path):
+        return skips
+    cutoff = datetime.now(timezone.utc).date() - timedelta(days=recheck_days)
+    with open(path, encoding="utf-8") as handle:
+        for line in handle:
+            if not line.strip():
+                continue
+            parts = line.rstrip("\n").split("\t")
+            seen = parts[2] if len(parts) > 2 else ""
+            try:
+                if seen and date.fromisoformat(seen) >= cutoff:
+                    continue
+            except ValueError:
+                pass
+            skips.add(parts[0])
+    return skips
     s = str(value)
     try:
         return datetime.fromisoformat(s.replace("Z", "+00:00")).date().isoformat()
@@ -234,11 +283,14 @@ def main():
     ap.add_argument("--batch", type=int, default=25)
     ap.add_argument("--push", action="store_true")
     ap.add_argument("--tabs", default="videos,streams")
+    ap.add_argument("--recheck-nocaption-days", type=int, default=30,
+                    help="retry a video parked in no-captions.tsv within this many days: a "
+                         "livestream's captions often appear hours after the harvest saw none")
     a = ap.parse_args()
 
     fdir = os.path.join(ROOT, FEEDS[a.feed]); tdir = os.path.join(fdir, "transcripts"); os.makedirs(tdir, exist_ok=True)
     nocap = os.path.join(fdir, "no-captions.tsv"); meta_all = os.path.join(fdir, "channel-meta.tsv")
-    agegate = os.path.join(fdir, "age-restricted.tsv")  # still tracked so they are not retried every run
+    agegate = os.path.join(fdir, "age-restricted.tsv")  # permanent: an age gate does not lift on its own
 
     seen, rows = set(), []
     if a.backend == "yt-dlp":
@@ -252,9 +304,9 @@ def main():
                 seen.add(row[0]); rows.append(row)
 
     done = {os.path.basename(p)[:-5] for p in glob.glob(os.path.join(tdir, "*.json"))}
-    for f in (nocap, agegate):
-        if os.path.exists(f):
-            done |= {l.split("\t")[0] for l in open(f) if l.strip()}
+    done |= nocaption_skips(nocap, a.recheck_nocaption_days)
+    if os.path.exists(agegate):
+        done |= {l.split("\t")[0] for l in open(agegate) if l.strip()}
     todo = [r for r in rows if r[0] not in done][: a.limit]
     print(
         f"{a.channel}: {len(rows)} videos on the channel, "
@@ -317,6 +369,16 @@ def main():
                             if len(p) == 7 and p[0] == vid:
                                 m = p
                                 break
+                if vid in aged and not files:
+                    nosub += 1
+                    append_once(agegate, vid, title)
+                    print(f"{vid}: age-restricted ({title})", flush=True)
+                    continue
+                if m and m[5] == "NA" and m[6] == "NA" and not files:
+                    nosub += 1
+                    append_once(nocap, vid, title, stamp=True)
+                    print(f"{vid}: no English transcript track ({title})", flush=True)
+                    continue
                 if m:
                     upload_date = m[1]
                     file_date = f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:]}" if re.fullmatch(r"\d{8}", upload_date) else None
@@ -340,11 +402,11 @@ def main():
                     reason = (payload.get("detail") or payload.get("error") or "").lower() if isinstance(payload, dict) else ""
                     if "captions" in reason or "transcript" in reason:
                         nosub += 1
-                        open(nocap, "a").write(f"{vid}\t{title}\n")
+                        append_once(nocap, vid, title, stamp=True)
                         print(f"{vid}: no transcript track ({title})", flush=True)
                     elif "age" in reason:
                         nosub += 1
-                        open(agegate, "a").write(f"{vid}\t{title}\n")
+                        append_once(agegate, vid, title)
                         print(f"{vid}: age-restricted ({title})", flush=True)
                     else:
                         failed += 1
