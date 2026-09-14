@@ -3,15 +3,15 @@
   "feeds": [
     {
       "age_restricted": 0,
-      "already_in_vault": 1474,
+      "already_in_vault": 487,
       "channel": "iuiccaptains6939",
-      "completed": 1474,
+      "completed": 487,
       "feed": "captains",
       "no_backlog": false,
       "no_captions": 0,
-      "progress_pct": 97.23,
-      "to_fetch": 42,
-      "videos": 1516
+      "progress_pct": 97.6,
+      "to_fetch": 12,
+      "videos": 499
     },
     {
       "age_restricted": 0,
@@ -27,15 +27,15 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 352,
+      "already_in_vault": 183,
       "channel": "IUICintheClassRoom",
-      "completed": 352,
+      "completed": 183,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 88.66,
-      "to_fetch": 45,
-      "videos": 397
+      "progress_pct": 92.89,
+      "to_fetch": 14,
+      "videos": 197
     },
     {
       "age_restricted": 1,
@@ -50,5 +50,5 @@
       "videos": 399
     }
   ],
-  "generated_at": "2026-09-14T17:43:15.152297+00:00"
+  "generated_at": "2026-09-14T19:42:17.301485+00:00"
 }
