@@ -50,6 +50,27 @@ Path: `.github/workflows/audio-fallback.yml`
 - `blog/channel-meta.tsv`: transcript metadata.
 - `dashboard/transcript-backlog.html`: browser dashboard.
 
+## Captions arrive after the stream ends
+
+A class is a livestream, and YouTube publishes its auto-captions some hours after the stream
+finishes. A harvest that runs in that window sees no caption track and records the id in
+`blog/no-captions.tsv`.
+
+That file used to be folded into the harvester's `done` set unconditionally, which made a
+temporary condition permanent. Because every new class passes through that window, recent
+classes were dropped on an ongoing basis rather than as a one-off: the 2026-09-12 and 09-13
+classes went missing exactly this way, and all three had captions by the time anyone looked.
+
+`harvest.py` now stamps each no-captions row with the day it was parked and retries any row
+younger than `--recheck-nocaption-days` (default 30). The first sighting is the one that
+counts, so a video that never gets captions stops being retried on schedule. Rows written
+before the date column existed carry no date and stay skipped.
+
+- Rows with no date are the pre-existing backlog. If one of them is recent, stamp it with the
+  stream date by hand and the next harvest will pick it up.
+- `blog/age-restricted.tsv` is deliberately still permanent: an age gate does not lift on its
+  own. Those belong to the audio fallback workflow.
+
 ## Known inventory caveat
 
 TranscriptAPI channel listing previously exposed only about 398 and 399 classroom videos, while yt-dlp inventory reported approximately:
@@ -78,6 +99,9 @@ The dashboard therefore undercounts the true YouTube inventory when it relies on
 3. Verify progress by inspecting commits and transcript files on GitHub, without pulling the transcript archive locally.
 4. Improve the dashboard inventory later so it reflects the full yt-dlp-discovered channel totals.
 5. Handle age-restricted and no-caption videos later through the separate audio workflow.
+6. After a Sabbath, check that the classes that streamed actually landed. The channel RSS
+   (`https://www.youtube.com/feeds/videos.xml?channel_id=<id>`) carries exact dates; the
+   `/videos` tab listing carries none and will not tell you what is missing.
 
 ## Security
 
