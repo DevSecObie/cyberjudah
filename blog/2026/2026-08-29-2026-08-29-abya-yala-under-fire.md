@@ -4,7 +4,7 @@ slug: "2026/2026-08-29-abya-yala-under-fire"
 date: "2026-08-29"
 teacher: "Captain Zephaniah"
 description: "IUIC in the ClassRoom · 2026-08-29"
-tags: ["IUIC in the ClassRoom", "america-babylon", "nations", "war"]
+tags: ["IUIC in the ClassRoom", "nations", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-29 (date estimated)</p>
