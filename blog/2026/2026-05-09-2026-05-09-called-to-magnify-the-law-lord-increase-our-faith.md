@@ -4,7 +4,7 @@ slug: "2026/2026-05-09-called-to-magnify-the-law-lord-increase-our-faith"
 date: "2026-05-09"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-09"
-tags: ["IUIC in the ClassRoom", "endurance", "faith", "marriage-family", "prayer", "the-law"]
+tags: ["IUIC in the ClassRoom", "endurance", "faith", "prayer", "the-law", "the-word"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-09 (date estimated)</p>
