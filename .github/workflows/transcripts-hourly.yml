@@ -20,6 +20,10 @@ jobs:
         with:
           fetch-depth: 1
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
       - name: Run TranscriptAPI harvest
         env:
           TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
@@ -30,6 +34,29 @@ jobs:
           python3 scripts/history/harvest.py --feed history --channel ourhiddenhistoryradio1991 --backend transcriptapi --limit 200 --push
           python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --limit 200 --push
           python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --limit 200 --push
+
+      - name: Install authenticated audio fallback
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade "yt-dlp[default]" faster-whisper bgutil-ytdlp-pot-provider
+          git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git /tmp/bgutil-ytdlp-pot-provider
+          cd /tmp/bgutil-ytdlp-pot-provider/server
+          npm ci
+          npx tsc
+          node build/main.js >/tmp/bgutil-provider.log 2>&1 &
+          sleep 2
+
+      - name: Transcribe missing IUIC classroom audio
+        env:
+          HARVEST_RAW_DIR: /tmp/youtube-audio-fallback
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+        run: |
+          printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
+          chmod 600 /tmp/youtube-cookies.txt
+          python3 scripts/history/audio_fallback.py --feed classes --channel IUICintheClassRoom --cookies /tmp/youtube-cookies.txt --limit 2
+          python3 scripts/history/audio_fallback.py --feed classes --channel iuicintheclassroom2 --cookies /tmp/youtube-cookies.txt --limit 2
+          rm -f /tmp/youtube-cookies.txt
 
       - name: Update transcript backlog dashboard
         env:
@@ -45,14 +72,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [[ -z "$(git status --porcelain dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html)" ]]; then
+          if [[ -z "$(git status --porcelain blog/transcripts blog/channel-meta.tsv dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html)" ]]; then
             echo "No dashboard changes."
             exit 0
           fi
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html
-          git commit -m "chore: refresh transcript backlog dashboard [skip ci]"
+          git add blog/transcripts blog/channel-meta.tsv dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html
+          git commit -m "transcripts: refresh backlog and audio fallbacks [skip ci]"
           git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}
           echo
