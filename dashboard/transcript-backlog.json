@@ -26,29 +26,29 @@
       "videos": 455
     },
     {
-      "age_restricted": 0,
-      "already_in_vault": 352,
+      "age_restricted": 1,
+      "already_in_vault": 353,
       "channel": "IUICintheClassRoom",
-      "completed": 352,
+      "completed": 353,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 0,
-      "progress_pct": 88.66,
+      "no_captions": 1,
+      "progress_pct": 88.69,
       "to_fetch": 45,
-      "videos": 397
+      "videos": 398
     },
     {
-      "age_restricted": 0,
+      "age_restricted": 1,
       "already_in_vault": 357,
       "channel": "iuicintheclassroom2",
       "completed": 357,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 0,
+      "no_captions": 1,
       "progress_pct": 89.47,
       "to_fetch": 42,
       "videos": 399
     }
   ],
-  "generated_at": "2026-09-14T14:33:58.951876+00:00"
+  "generated_at": "2026-09-14T15:34:26.233316+00:00"
 }
