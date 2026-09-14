@@ -1,0 +1,91 @@
+name: Audio Transcript Fallback
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: Classroom channel to process
+        required: true
+        default: both
+        type: choice
+        options:
+          - both
+          - IUICintheClassRoom
+          - iuicintheclassroom2
+      limit:
+        description: Maximum videos per selected channel
+        required: true
+        default: "2"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: transcript-audio-fallback
+  cancel-in-progress: false
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install audio transcription dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade "yt-dlp[default]" faster-whisper bgutil-ytdlp-pot-provider
+          git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git /tmp/bgutil-ytdlp-pot-provider
+          cd /tmp/bgutil-ytdlp-pot-provider/server
+          npm ci
+          npx tsc
+          node build/main.js >/tmp/bgutil-provider.log 2>&1 &
+          sleep 2
+
+      - name: Transcribe missing classroom audio
+        env:
+          HARVEST_RAW_DIR: /tmp/youtube-audio-fallback
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+          SELECTED_CHANNEL: ${{ inputs.channel }}
+          VIDEO_LIMIT: ${{ inputs.limit }}
+        run: |
+          printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
+          chmod 600 /tmp/youtube-cookies.txt
+
+          if [[ "$SELECTED_CHANNEL" == "both" || "$SELECTED_CHANNEL" == "IUICintheClassRoom" ]]; then
+            python3 scripts/history/audio_fallback.py --feed classes --channel IUICintheClassRoom --cookies /tmp/youtube-cookies.txt --limit "$VIDEO_LIMIT"
+          fi
+
+          if [[ "$SELECTED_CHANNEL" == "both" || "$SELECTED_CHANNEL" == "iuicintheclassroom2" ]]; then
+            python3 scripts/history/audio_fallback.py --feed classes --channel iuicintheclassroom2 --cookies /tmp/youtube-cookies.txt --limit "$VIDEO_LIMIT"
+          fi
+
+          rm -f /tmp/youtube-cookies.txt
+
+      - name: Commit completed audio transcripts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -z "$(git status --porcelain blog/transcripts blog/channel-meta.tsv)" ]]; then
+            echo "No audio transcripts were added."
+            exit 0
+          fi
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add blog/transcripts blog/channel-meta.tsv
+          git commit -m "transcripts: add audio fallbacks [skip ci]"
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}
+
+      - name: Remove temporary audio and cookies
+        if: always()
+        run: |
+          rm -f /tmp/youtube-cookies.txt
+          rm -rf /tmp/youtube-audio-fallback /tmp/bgutil-ytdlp-pot-provider
