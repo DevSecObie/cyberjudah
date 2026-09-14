@@ -3,27 +3,27 @@
   "feeds": [
     {
       "age_restricted": 0,
-      "already_in_vault": 499,
+      "already_in_vault": 1516,
       "channel": "iuiccaptains6939",
-      "completed": 499,
+      "completed": 1516,
       "feed": "captains",
       "no_backlog": true,
       "no_captions": 42,
       "progress_pct": 100.0,
       "to_fetch": 0,
-      "videos": 499
+      "videos": 1516
     },
     {
       "age_restricted": 0,
-      "already_in_vault": 455,
+      "already_in_vault": 249,
       "channel": "ourhiddenhistoryradio1991",
-      "completed": 455,
+      "completed": 249,
       "feed": "history",
       "no_backlog": true,
       "no_captions": 16,
       "progress_pct": 100.0,
       "to_fetch": 0,
-      "videos": 455
+      "videos": 249
     },
     {
       "age_restricted": 0,
@@ -50,5 +50,5 @@
       "videos": 399
     }
   ],
-  "generated_at": "2026-09-14T01:54:48.150191+00:00"
+  "generated_at": "2026-09-14T07:19:30.505558+00:00"
 }
