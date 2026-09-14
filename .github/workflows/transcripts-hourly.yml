@@ -20,6 +20,9 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Install channel inventory tool
+        run: python3 -m pip install --upgrade yt-dlp
+
       - name: Run TranscriptAPI harvest
         env:
           TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
@@ -28,8 +31,8 @@ jobs:
         run: |
           python3 scripts/history/harvest.py --feed captains --channel iuiccaptains6939 --backend transcriptapi --limit 200 --push
           python3 scripts/history/harvest.py --feed history --channel ourhiddenhistoryradio1991 --backend transcriptapi --limit 200 --push
-          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --limit 200 --push
-          python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --limit 200 --push
+          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --listing-backend yt-dlp --limit 200 --push
+          python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push
 
       - name: Update transcript backlog dashboard
         env:
