@@ -22,6 +22,8 @@ FEED_CONFIG = (
     ("classes", "iuicintheclassroom2"),
 )
 
+FEED_PATHS = {"captains": "captains", "history": "history", "classes": "blog"}
+
 
 def api_key():
     for env in API_KEY_ENV:
@@ -87,14 +89,13 @@ def read_set(path):
 
 
 def build_entry(feed, channel):
-    tdir = os.path.join(feed, "transcripts")
+    feed_path = FEED_PATHS[feed]
+    tdir = os.path.join(feed_path, "transcripts")
     done = set(glob.glob(os.path.join(tdir, "*.json")))
     done_ids = {os.path.basename(p)[:-5] for p in done}
 
-    no_captions_ids = read_set(os.path.join(feed, "no-captions.tsv"))
-    age_restricted_ids = read_set(os.path.join(feed, "age-restricted.tsv"))
-    done_ids |= no_captions_ids
-    done_ids |= age_restricted_ids
+    no_captions_ids = read_set(os.path.join(feed_path, "no-captions.tsv"))
+    age_restricted_ids = read_set(os.path.join(feed_path, "age-restricted.tsv"))
 
     videos = listing_api(channel)
     to_fetch = [vid for vid in videos if vid not in done_ids]
