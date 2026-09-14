@@ -4,7 +4,7 @@ slug: "2026/2026-08-01-beginning-of-sorrows-great-pain"
 date: "2026-08-01"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-08-01"
-tags: ["IUIC in the ClassRoom", "america-babylon", "nations", "prophecy", "war"]
+tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "nations", "prophecy", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01</p>
