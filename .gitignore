@@ -14,3 +14,22 @@
 __pycache__/
 .DS_Store
 .harvest-raw/
+.local-transcript-archive/
+.venv/
+/.obsidian/
+
+# Docusaurus-era output. The site is a TanStack app now (site/) and the data set is built by
+# engine/, so none of this is input to anything -- but it is 28k files and it buried the real
+# untracked work in `git status`. Left on disk, just not reported.
+/build/
+/.docusaurus/
+/static/
+/.search-records.json
+# Generated from data/ by the old site build; the hand-written notes under docs/ are tracked
+# and stay tracked -- docs/study, docs/cases and docs/encyclopedia are deliberately absent here.
+/docs/bible/
+/docs/law/
+/docs/precepts/
+/docs/concordance/
+# Docusaurus sidebar scaffolding; none of it has ever been tracked.
+_category_.json
