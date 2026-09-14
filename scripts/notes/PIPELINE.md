@@ -66,10 +66,11 @@ Writes `<id>.condensed.txt` and `<id>.brief.md`. The brief carries the metadata,
 teacher if he introduced himself, and every scripture reference it found **already verified
 against `data/bible`**. Exit status is non-zero if any reference failed to resolve.
 
-**Read the whole condensed transcript anyway.** `prep.py` finds about 59% of the references
-on a transcript it has not seen — it invents none, but it misses the ones the recogniser
-mangled, books named a breath before their verse, and ranges read through without the end
-announced. Treat the brief as a floor, not a list.
+**Read the whole condensed transcript anyway.** `prep.py` finds about 79% of the references
+across the notes — it invents none, but it misses the ones the recogniser mangled, books
+named a breath before their verse, and ranges read through without the end announced. It
+also finds more than the note opens, because a class cites far more than it stops to read.
+Treat the brief as a floor, not a list.
 
 ## 4. Write the note
 
@@ -96,9 +97,12 @@ commit — so a partial run can be dropped without taking a finished note with i
 
 ## Known gaps
 
-- **Reference recall is 59%** on held-out transcripts. Raising it wants a scored corpus:
-  `prep-score.py` against a hand-built list is how the current number was measured, and
+- **Reference recall is 79%** across the notes, up from 61%. The scored corpus this wanted
+  now exists: `prep-corpus.py` scores against every finished note, since each scripture
+  block in one was validated by `check.py`. Measure, change one pattern, measure again —
   two plausible-looking pattern changes regressed it badly before scoring caught them.
+  What is left is mostly a book named a breath before its verse, and references the
+  recogniser mangled past any pattern.
 - **`prep.py` never detects a range** the teacher reads through without announcing the end
   verse, which is most of them. The brief gives the starting verse; the writer sets the range.
 - **Dating the deep backlog** needs a search or RSS call per batch, because the bulk listing

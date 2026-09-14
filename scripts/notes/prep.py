@@ -16,18 +16,27 @@ What it deliberately does not do is write the note. The note is near-verbatim in
 teacher's own words, which is a judgement call on every line; this just means that by the
 time anyone starts writing, every reference is already known good.
 
-MEASURED, against two Sabbath classes whose references were collected by hand first:
+MEASURED against the finished notes: every scripture block in a note was written from the
+recording by hand and validated by check.py, so the 89 notes that have a transcript give a
+2,597-reference corpus to score against, not the two hand-collected classes this started with.
 
-    THE PIT AND PENDULUM  (tuned on)   15 found, 14 of 19 correct   74% recall
-    INTEGRATED BUT DIVIDED (held out)  18 found, 17 of 29 correct   59% recall
+    whole corpus, 89 classes                      2,058 of 2,597   79% recall
+    THE PIT AND PENDULUM  (originally tuned on)      17 of 19      89% recall
+    INTEGRATED BUT DIVIDED (originally held out)     19 of 29      65% recall
 
 Read that as: **this finds most of the references and never invents one, but it does not
-find all of them.** The held-out number is the real one. It misses a call the recogniser
-mangled past recognition ("Isaiah 33 and6", "verse1 15"), a book named in one breath and
-its verse in the next, and every range the teacher reads through without announcing the
-end verse. So it is a safety net under a human reading the transcript, not a substitute
-for reading it. Raising recall wants a scored corpus of briefs and patient iteration; the
-scorer this was measured with is the place to start.
+find all of them.** It still misses a call the recogniser mangled past recognition ("Isaiah
+33 and6", "verse1 15"), a book named in one breath and its verse in the next, and every
+range the teacher reads through without announcing the end verse. So it is a safety net
+under a human reading the transcript, not a substitute for reading it.
+
+It finds more than the note opens, and that is not an error: a class cites far more than it
+stops to read, and the note records only the passages taught as blocks.
+
+Recall was 61% corpus-wide until resolve_book learned to shorten its capture. BOOKPAT is
+greedy, and "it's the book of Romans chapter 15" -- which is how a reference is announced
+here, 2,993 times across 400 transcripts -- handed it "book of romans", which resolved to
+nothing, and the whole match was dropped rather than retried on the tail.
 
 Exit status is non-zero if any reference failed to resolve, so it can gate a pipeline.
 """
@@ -54,6 +63,10 @@ ALIAS = {
 }
 ORD = {"first": "1", "second": "2", "third": "3", "1st": "1", "2nd": "2", "3rd": "3",
        "i": "1", "ii": "2", "iii": "3", "one": "1", "two": "2"}
+# Books that exist only once numbered, under a different name. "Second Ezra" is 2 Esdras:
+# there is no 2 Ezra in the canon, so an ordinal in front of Ezra can only mean Esdras.
+# Bare "Ezra" is left alone -- that book is real and is asked for by name.
+ORD_ALIAS = {"ezra": "Esdras", "ezras": "Esdras", "esdra": "Esdras"}
 WORDNUM = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
            "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12, "thirteen": 13,
            "fourteen": 14, "fifteen": 15, "sixteen": 16, "seventeen": 17, "eighteen": 18,
@@ -61,6 +74,10 @@ WORDNUM = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seve
 
 def _norm(s):
     s = unicodedata.normalize("NFKD", s.lower()).replace("’", "'")
+    # A teacher says "second Ezra's chapter 9". Stripping punctuation to a space first would
+    # leave "ezra s", which matches no book; no book name contains an apostrophe, so the
+    # possessive can go before the rest of the punctuation does.
+    s = re.sub(r"'s\b", "", s)
     s = re.sub(r"[^a-z0-9 ]+", " ", s)
     return " ".join(s.split())
 
@@ -77,8 +94,25 @@ for k, v in ALIAS.items():
     _LOOKUP.setdefault(_norm(k), v)
 
 def resolve_book(raw):
-    """A book name however it was heard, or None."""
-    n = _norm(raw)
+    """A book name however it was heard, or None.
+
+    BOOKPAT is greedy and the teachers announce a reference as "it's the book of Romans
+    chapter 15", so the capture arrives as "book of romans" and the real name is the tail of
+    it. The full phrase is resolved first -- "first samuel" must not be shortened to "samuel"
+    -- and only when that fails is each shorter tail tried, longest first.
+    """
+    words = _norm(raw).split()
+    for start in range(len(words)):
+        book = _resolve_exact(" ".join(words[start:]))
+        if book:
+            return book
+    return None
+
+
+def _resolve_exact(n):
+    """One normalised name, resolved exactly, or None."""
+    if not n:
+        return None
     if n in _LOOKUP:
         return _LOOKUP[n]
     for word, digit in ORD.items():                      # "second mcabes"
@@ -87,6 +121,8 @@ def resolve_book(raw):
             for cand, book in _LOOKUP.items():
                 if cand == rest and re.match(r"^[123] ", book):
                     return f"{digit} {book.split(' ', 1)[1]}"
+            if rest in ORD_ALIAS and f"{digit} {ORD_ALIAS[rest]}" in SLUG:
+                return f"{digit} {ORD_ALIAS[rest]}"
             if rest in ALIAS:
                 base = ALIAS[rest]
                 stem = base.split(" ", 1)[1] if re.match(r"^[123] ", base) else base
@@ -107,7 +143,7 @@ def _n(tok):
     tok = tok.strip().lower()
     return int(tok) if tok.isdigit() else WORDNUM.get(tok)
 
-BOOKPAT = r"([1-3]?\s?[A-Za-z][A-Za-z'’]*(?:\s+of\s+(?:the\s+)?[A-Za-z]+)?(?:\s+[A-Za-z]+)?)"
+BOOKPAT = r"([1-3]?\s?[A-Za-z][A-Za-z'’]*(?:\s+of\s+(?:the\s+)?[A-Za-z]+)?(?:\s+[A-Za-z][A-Za-z'’]*)?)"
 PATTERNS = [
     # Zechariah 11:5   ·   2 Kings 8:7-15
     re.compile(BOOKPAT + r"\s+(\d{1,3})\s*[:∶]\s*(\d{1,3})(?:\s*[-–]\s*(\d{1,3}))?", re.I),

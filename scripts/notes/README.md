@@ -14,6 +14,7 @@ Run them from the repo root. `CJ_ROOT` overrides the repo location if you need i
 | `check.py <note.md>` | Byte-for-byte validation of every quoted verse in a finished note against `data/bible`. Must report 0 mismatches. |
 | `teachers.py` | Read and edit the `teacher` field across every note. See [Who taught it](#who-taught-it). |
 | `lint.py` | Check every note against this spec. `npm run notes:lint`. Runs in CI, so an error fails the deploy. |
+| `prep-corpus.py` | Score `prep.py`'s reference extraction against every finished note, ~2,600 references. Measure, change one pattern, measure again. |
 | `video.py` | List the notes with no recording; attach one with `video.py set <slug> <url>`. |
 
 ## The note must be near-verbatim, not a summary
