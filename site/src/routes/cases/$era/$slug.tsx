@@ -5,7 +5,6 @@ import { RefQuote } from "@/components/site/ref-quote";
 import { CiteLanding } from "@/components/site/return-bar";
 import { api, type StudyChapter, type TeachingExcerpt } from "@/lib/api";
 import { Breadcrumbs, eraAnchor } from "@/components/site/browse-tools";
-import { FeedbackWidget } from "@/components/site/feedback-widget";
 import { pageHead } from "@/lib/head";
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
@@ -162,8 +161,6 @@ function CasePage() {
         </div>
       </RefCards>
       </CiteLanding>
-
-      <FeedbackWidget context={`Case: ${c.name} (${c.era})`} />
 
       <div className="pager">
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.name}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/cases">All cases</ReadLink>}
