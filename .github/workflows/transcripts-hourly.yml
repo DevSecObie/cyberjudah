@@ -30,12 +30,12 @@ jobs:
           GJT: ${{ secrets.GJT }}
           HARVEST_RAW_DIR: /tmp/transcriptapi-harvest-raw
         run: |
+          python3 scripts/history/harvest.py --feed classes --playlist PLnnrx2V-o7VxaHaFzrEECeIR8NZ1x4zfx --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
           python3 scripts/history/harvest.py --feed captains --channel iuiccaptains6939 --backend transcriptapi --limit 200 --push
           python3 scripts/history/harvest.py --feed history --channel ourhiddenhistoryradio1991 --backend transcriptapi --limit 200 --push
           python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
           python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
           python3 scripts/history/harvest.py --feed classes --channel yabanisrael7530 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
-          python3 scripts/history/harvest.py --feed classes --playlist PLnnrx2V-o7VxaHaFzrEECeIR8NZ1x4zfx --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
 
       - name: Update transcript backlog dashboard
         env:
