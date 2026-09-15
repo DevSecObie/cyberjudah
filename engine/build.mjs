@@ -240,7 +240,7 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
     const cut = Math.max(3, (w[0]?.[1] ?? 0) * 0.4);
     const id = n.videoId || "";
     return {
-      title: n.title, url: n.url, date: n.date, year: n.year, teacher: n.teacher || "",
+      title: n.title, url: n.url, date: n.date, year: n.year, teacher: n.teacher || "", collection: n.collection || "",
       thumb: !id ? "" : localThumb.get(id) ? `/img/${feed.dir}/${id}.jpg` : `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
       books: w.filter(([, c]) => c >= cut).slice(0, 4).map(([b]) => b),
       allBooks: w.map(([b]) => b),

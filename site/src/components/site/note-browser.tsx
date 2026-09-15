@@ -19,7 +19,7 @@ export function validateBrowse(s: Record<string, unknown>): BrowseSearch {
 
 const TOP = 14;
 
-export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; topics: { slug: string; label: string }[]; search: BrowseSearch; route: "/classes" | "/captains" }) {
+export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; topics: { slug: string; label: string }[]; search: BrowseSearch; route: "/classes" | "/captains" | "/truth-shall-make-you-free" }) {
   const navigate = useNavigate();
   const [q, setQ] = useState(search.q ?? "");
   const [moreTopics, setMoreTopics] = useState(false);

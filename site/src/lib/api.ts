@@ -94,6 +94,7 @@ export type FeedRow = {
   date: string;
   year: string;
   teacher: string;
+  collection?: string;
   thumb: string;
   books: string[];
   allBooks?: string[];

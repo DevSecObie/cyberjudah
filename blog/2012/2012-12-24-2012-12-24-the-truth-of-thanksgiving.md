@@ -3,6 +3,7 @@ title: "THE TRUTH OF THANKSGIVING"
 slug: "2012/2012-12-24-the-truth-of-thanksgiving"
 date: "2012-12-24"
 teacher: "Elder Nathanyel"
+collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-24 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom"]
 ---
@@ -363,4 +364,3 @@ This is not spoken from hatred, but from zeal, passion and love for our people a
 ---
 
 [Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=OfeSju75iMY)
-

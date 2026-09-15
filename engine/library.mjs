@@ -151,7 +151,7 @@ export function loadLibrary(ROOT) {
         notes.push({ kind, slug: String(meta.slug).split("/").pop(), file: path.relative(ROOT, path.join(dir, y.name, f)),
           url: `${prefix}${meta.slug}`, title: tidyTitle(meta.title || f), date: meta.date || "",
           dateEstimated: /\(date estimated\)/.test(body), series: tags[0] ?? "", topics: tags.slice(1),
-          teacher: meta.teacher || "", description: meta.description || "", year: y.name, body,
+          teacher: meta.teacher || "", description: meta.description || "", collection: meta.collection || "", year: y.name, body,
           videoId: /data-video-id="([\w-]{11})"/.exec(body)?.[1] ?? null });
       }
   };
