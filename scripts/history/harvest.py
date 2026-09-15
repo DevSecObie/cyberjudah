@@ -4,6 +4,7 @@
     python3 scripts/history/harvest.py --feed classes  --channel IUICintheClassRoom  [--limit 200] [--push]
     python3 scripts/history/harvest.py --feed captains --channel iuiccaptains6939
     python3 scripts/history/harvest.py --feed history  --channel ourhiddenhistoryradio1991
+    python3 scripts/history/harvest.py --feed classes  --playlist PLnnrx2V-o7VxaHaFzrEECeIR8NZ1x4zfx
 
 By default, this uses yt-dlp (legacy behavior). `--backend transcriptapi` pulls
 the channel listing and transcripts from transcriptAPI instead.
@@ -194,6 +195,17 @@ def listing_yt(channel, tab):
     return rows
 
 
+def listing_yt_playlist(playlist):
+    url = f"https://www.youtube.com/playlist?list={playlist}"
+    r = sh(ytdlp_cmd(["--flat-playlist", "--print", "%(id)s\\t%(duration)s\\t%(title)s", url]))
+    rows = []
+    for line in r.stdout.splitlines():
+        p = line.split("\\t")
+        if len(p) == 3 and re.fullmatch(r"[\\w-]{11}", p[0]):
+            rows.append((p[0], p[1], p[2], None, None))
+    return rows
+
+
 def listing_api(channel):
     rows = []
     continuation = None
@@ -277,7 +289,9 @@ def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, fe
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--feed", required=True, choices=sorted(FEEDS))
-    ap.add_argument("--channel", required=True)
+    source = ap.add_mutually_exclusive_group(required=True)
+    source.add_argument("--channel")
+    source.add_argument("--playlist", help="YouTube playlist ID to inventory with yt-dlp")
     ap.add_argument("--backend", default="yt-dlp", choices=("yt-dlp", "transcriptapi"))
     ap.add_argument("--listing-backend", choices=("yt-dlp", "transcriptapi"),
                     help="inventory source; transcript fetching still uses --backend")
@@ -296,7 +310,13 @@ def main():
 
     seen, rows = set(), []
     listing_backend = a.listing_backend or a.backend
-    if listing_backend == "yt-dlp":
+    if a.playlist:
+        if listing_backend != "yt-dlp":
+            ap.error("--playlist currently requires --listing-backend yt-dlp")
+        for row in listing_yt_playlist(a.playlist):
+            if row[0] not in seen:
+                seen.add(row[0]); rows.append(row)
+    elif listing_backend == "yt-dlp":
         for tab in a.tabs.split(","):
             for row in listing_yt(a.channel, tab):
                 if row[0] not in seen:
@@ -312,7 +332,7 @@ def main():
         done |= {l.split("\t")[0] for l in open(agegate) if l.strip()}
     todo = [r for r in rows if r[0] not in done][: a.limit]
     print(
-        f"{a.channel}: {len(rows)} videos on the channel, "
+        f"{a.playlist or a.channel}: {len(rows)} videos in the source, "
         f"{sum(1 for r in rows if r[0] in done)} already in the vault, {len(todo)} to fetch",
         flush=True
     )
