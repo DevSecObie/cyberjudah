@@ -51,16 +51,16 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 146,
+      "already_in_vault": 149,
       "channel": "yabanisrael7530",
-      "completed": 146,
+      "completed": 149,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 81.56,
-      "to_fetch": 33,
+      "progress_pct": 83.24,
+      "to_fetch": 30,
       "videos": 179
     }
   ],
-  "generated_at": "2026-09-15T06:16:52.799173+00:00"
+  "generated_at": "2026-09-15T07:10:06.767270+00:00"
 }
