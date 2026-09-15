@@ -20,6 +20,7 @@ import sys
 import time
 from datetime import date, datetime, timedelta, timezone
 import shutil
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -246,7 +247,7 @@ def fetch_transcript(video_id):
         "include_timestamp": "true",
         "send_metadata": "true",
     }
-    return api_get("/youtube/transcript", params)
+    return api_get("/youtube/transcript", params, timeout=20, retries=2)
 
 
 def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views):
@@ -345,6 +346,18 @@ def main():
         batch = todo[i:i + a.batch]
         added = []
 
+        api_results = {}
+        if a.backend == "transcriptapi":
+            workers = min(6, len(batch))
+            with ThreadPoolExecutor(max_workers=workers) as pool:
+                futures = {pool.submit(fetch_transcript, row[0]): row[0] for row in batch}
+                for future in as_completed(futures):
+                    vid = futures[future]
+                    try:
+                        api_results[vid] = future.result()
+                    except Exception as exc:
+                        api_results[vid] = (None, {"error": "request", "detail": str(exc)}, None)
+
         if a.backend == "yt-dlp":
             ids = os.path.join(raw, "ids.txt"); meta = os.path.join(raw, "meta.tsv")
             open(ids, "w").write("".join(f"https://www.youtube.com/watch?v={r[0]}\n" for r in batch))
@@ -408,7 +421,7 @@ def main():
                     file_duration = m[2] if m[2] not in ("NA", "") else None
                     file_views = m[4] if m[4] not in ("NA", "") else None
             else:
-                code, payload, _ = fetch_transcript(vid)
+                code, payload, _ = api_results[vid]
                 if code == 200:
                     p = payload.get("metadata", payload)
                     raw_path = os.path.join(raw, f"{vid}.transcript.json")
