@@ -1,6 +1,6 @@
 # Transcript Backlog Dashboard
 
-Last checked: 2026-09-15T05:17:55.103314+00:00
+Last checked: 2026-09-15T06:16:52.799173+00:00
 
 | Feed | Channel | Videos | In Vault | To Fetch | Progress | No Caption/Age-Restricted |
 |---|---|---:|---:|---:|---:|---:|
@@ -8,5 +8,6 @@ Last checked: 2026-09-15T05:17:55.103314+00:00
 | history | ourhiddenhistoryradio1991 | 455 | 439 | 16 | 96.5% | 0 |
 | classes | IUICintheClassRoom | 198 | 187 | 11 | 94.4% | 2 |
 | classes | iuicintheclassroom2 | 399 | 357 | 42 | 89.5% | 2 |
+| classes | yabanisrael7530 | 179 | 146 | 33 | 81.6% | 2 |
 
 Dashboard is updated by the hourly transcript workflow.

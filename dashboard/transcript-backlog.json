@@ -48,7 +48,19 @@
       "progress_pct": 89.47,
       "to_fetch": 42,
       "videos": 399
+    },
+    {
+      "age_restricted": 1,
+      "already_in_vault": 146,
+      "channel": "yabanisrael7530",
+      "completed": 146,
+      "feed": "classes",
+      "no_backlog": false,
+      "no_captions": 1,
+      "progress_pct": 81.56,
+      "to_fetch": 33,
+      "videos": 179
     }
   ],
-  "generated_at": "2026-09-15T05:17:55.103314+00:00"
+  "generated_at": "2026-09-15T06:16:52.799173+00:00"
 }
