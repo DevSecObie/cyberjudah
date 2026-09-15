@@ -20,6 +20,7 @@ FEED_CONFIG = (
     ("history", "ourhiddenhistoryradio1991"),
     ("classes", "IUICintheClassRoom"),
     ("classes", "iuicintheclassroom2"),
+    ("classes", "yabanisrael7530"),
 )
 
 FEED_PATHS = {"captains": "captains", "history": "history", "classes": "blog"}
