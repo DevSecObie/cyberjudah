@@ -376,4 +376,4 @@ If you want more information, visit Israel Unite in Christ and the ministry's te
 
 ---
 
-[Class Notes Index](/classes) · [The Truth Shall Make You Free Index](/truth-shall-make-you-free) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=-U_-sfA5QuA)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=-U_-sfA5QuA)
