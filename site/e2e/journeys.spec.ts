@@ -72,9 +72,12 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
       expect(Math.abs((await trigger.boundingBox())!.y - barY)).toBeLessThan(4);
     }
     for (const [group, items] of Object.entries(groups)) {
-      await header.getByRole("button", { name: new RegExp(`${group}$`) }).click();
+      const trigger = header.getByRole("button", { name: new RegExp(`${group}$`) });
+      await trigger.click();
+      await expect(trigger).toHaveAttribute("data-state", "open");
       for (const label of items) await inView(header.getByRole("link", { name: new RegExp(label.replace("/", "\\/")) }));
       await page.keyboard.press("Escape");
+      await expect(trigger).toHaveAttribute("data-state", "closed");
     }
     await header.getByRole("button", { name: /Law$/ }).click();
     await header.getByRole("link", { name: /^Precepts/ }).click();
