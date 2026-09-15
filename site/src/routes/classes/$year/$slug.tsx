@@ -19,12 +19,18 @@ export const Route = createFileRoute("/classes/$year/$slug")({
 
 function NotePage() {
   const { note, html } = Route.useLoaderData();
+  const { year, slug } = Route.useParams();
+  const sourceName = note.date ? `${note.date}-${slug}.md` : `${slug}.md`;
+  const editUrl = `https://github.com/DevSecObie/cyberjudah/edit/main/blog/${year}/${sourceName}`;
   return (
     <Page>
       <div className="note-head">
         <p className="cj-kicker">Sabbath class{note.date ? ` · ${fmtDate(note.date)}` : ""}{note.teacher ? ` · ${note.teacher}` : ""}</p>
         <h1 className="cj-h1">{note.title}</h1>
-        <ReadLink to="/classes">All classes</ReadLink>
+        <div className="note-head__actions">
+          <ReadLink to="/classes">All classes</ReadLink>
+          <a href={editUrl} target="_blank" rel="noreferrer" className="read-link"><span>Edit this note</span><span aria-hidden="true">↗</span></a>
+        </div>
       </div>
       <CiteLanding>
         <NoteWithContents>

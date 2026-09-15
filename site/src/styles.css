@@ -2016,6 +2016,12 @@ html[data-reader-size="large"] .verses {
   margin-bottom: 1.5rem;
   border-bottom: 1px solid var(--color-hair);
 }
+.note-head__actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.5rem;
+}
 
 /* ---------- Lists (study index, cases) ---------- */
 .list {
