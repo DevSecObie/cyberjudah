@@ -197,11 +197,11 @@ def listing_yt(channel, tab):
 
 def listing_yt_playlist(playlist):
     url = f"https://www.youtube.com/playlist?list={playlist}"
-    r = sh(ytdlp_cmd(["--flat-playlist", "--print", "%(id)s\\t%(duration)s\\t%(title)s", url]))
+    r = sh(ytdlp_cmd(["--flat-playlist", "--print", "%(id)s\t%(duration)s\t%(title)s", url]))
     rows = []
     for line in r.stdout.splitlines():
-        p = line.split("\\t")
-        if len(p) == 3 and re.fullmatch(r"[\\w-]{11}", p[0]):
+        p = line.split("\t")
+        if len(p) == 3 and re.fullmatch(r"[\w-]{11}", p[0]):
             rows.append((p[0], p[1], p[2], None, None))
     return rows
 
