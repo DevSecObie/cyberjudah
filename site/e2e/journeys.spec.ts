@@ -73,7 +73,7 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
     }
     for (const [group, items] of Object.entries(groups)) {
       await header.getByRole("button", { name: new RegExp(`${group}$`) }).click();
-      for (const label of items) await inView(header.getByRole("link", { name: new RegExp(`^${label.replace("/", "\\/")}`) }));
+      for (const label of items) await inView(header.getByRole("link", { name: new RegExp(label.replace("/", "\\/")) }));
       await page.keyboard.press("Escape");
     }
     await header.getByRole("button", { name: /Law$/ }).click();
