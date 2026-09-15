@@ -12,7 +12,7 @@
   // The search index (search_docs, FTS5) lives in D1; the data workflow reloads it from the
   // engine's search.sql on every publish. The id is filled in by the deploy workflow from
   // `wrangler d1 list`, so nothing account-specific is committed.
-  "d1_databases": [{ "binding": "DB", "database_name": "cyberjudah", "database_id": "00000000-0000-0000-0000-000000000000" }],
+  "d1_databases": [{ "binding": "DB", "database_name": "cyberjudah", "database_id": "4cad355d-256e-4d2c-805c-2b9ecb1aaccd" }],
   "routes": [
     { "pattern": "cyberjudah.io", "custom_domain": true },
     { "pattern": "www.cyberjudah.io", "custom_domain": true }

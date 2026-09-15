@@ -120,8 +120,24 @@ export type Stats = {
   recent: { kind: string; title: string; url: string; date: string; teacher: string; thumb: string; books: string[] }[];
 };
 export type CaseRef = { book: string; chapter: number; verses?: string };
-export type CaseRow = { slug: string; name: string; era: string; kind: "judgment" | "blessing"; charge: string; verdict: string; url: string };
+export type CaseRow = { slug: string; name: string; era: string; kind: "judgment" | "blessing"; charge: string; verdict: string; url: string; code?: string };
 export type CaseIndex = { eras: string[]; verdicts: Record<string, string>; cases: CaseRow[] };
+export type StudyEntry = {
+  ref: string;
+  commentary: string;
+  precepts?: { ref: string; text: string }[];
+};
+export type StudyChapter = {
+  chapter: string;
+  url: string;
+  entries: StudyEntry[];
+};
+export type TeachingExcerpt = {
+  videoId: string;
+  title: string;
+  date: string | null;
+  excerpts: { timestamp: number; time: string; text: string }[];
+};
 export type Case = {
   slug: string;
   verdictLabel?: string;
@@ -143,6 +159,14 @@ export type Case = {
   laws: string[];
   topics: string[];
   themes: string[];
+  // Enriched fields
+  code?: string;
+  offenseFull?: string[];
+  judgmentFull?: string[];
+  alsoCited?: CaseRef[];
+  relatedCases?: { slug: string; name: string; desc: string }[];
+  studyContent?: StudyChapter[];
+  teachingExcerpts?: TeachingExcerpt[];
 };
 
 /** A scripture reference resolved by the engine: route, study note, and the verses themselves. */
@@ -155,7 +179,8 @@ export type ResolvedRef = {
 export type LawSectionRow = { id: string; title: string; laws: number; url: string };
 export type LawPart = { n: number; title: string; url: string; sections: LawSectionRow[] };
 export type LawEntry = { id: string; text: string; refs: ResolvedRef[]; citation: string };
-export type LawSection = { id: string; title: string; part: { n: number; title: string; url: string }; url: string; seeAlso: { id: string; title: string; url: string | null }[]; entries: LawEntry[] };
+export type LawCaseRef = { slug: string; name: string; charge: string; verdict: string; url: string };
+export type LawSection = { id: string; title: string; part: { n: number; title: string; url: string }; url: string; seeAlso: { id: string; title: string; url: string | null }[]; entries: LawEntry[]; caseRefs?: LawCaseRef[] };
 export type PreceptRow = { slug: string; title: string; refs: number; url: string };
 export type Precept = { slug: string; title: string; url: string; refs: ResolvedRef[] };
 export type MergedCitation = { kind: string; label: string; url: string; verses: string[] };

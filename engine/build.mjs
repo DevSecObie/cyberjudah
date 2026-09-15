@@ -76,10 +76,17 @@ function resolveRef(r) {
     text: rows.slice(0, QUOTE_MAX), more: Math.max(0, rows.length - QUOTE_MAX),
   };
 }
-for (const p of handbook.parts) for (const s of p.sections)
+for (const p of handbook.parts) for (const s of p.sections) {
+  // Case cross-references for this law section
+  const caseRefs = (s.caseRefs ?? []).map((cr) => {
+    const c = cases.cases.find((x) => x.slug === cr.slug);
+    return { slug: cr.slug, name: cr.name, charge: cr.charge, verdict: cr.verdict, url: c ? caseUrl(c) : null };
+  });
   writeJson(path.join(API, "laws", `${s.id}.json`), { id: s.id, title: s.title, part: { n: p.n, title: p.title, url: partUrl(p) }, url: sectionUrl(s),
     seeAlso: (s.seeAlso ?? []).map((id) => { const o = L.sectionById[String(id).toUpperCase()]; return o ? { id: o.id, title: o.title, url: sectionUrl(o) } : { id, title: "", url: null }; }),
-    entries: s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, refs: (e.refs ?? []).map(resolveRef), citation: e.citation })) });
+    entries: s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, refs: (e.refs ?? []).map(resolveRef), citation: e.citation })),
+    ...(caseRefs.length ? { caseRefs } : {}) });
+}
 writeJson(path.join(API, "laws", "index.json"), handbook.parts.map((p) => ({ n: p.n, title: p.title, url: partUrl(p), sections: p.sections.map((s) => ({ id: s.id, title: s.title, laws: s.entries.length, url: sectionUrl(s) })) })));
 for (const t of sortedPrecepts) writeJson(path.join(API, "precepts", `${t.slug}.json`), { ...t, refs: t.refs.map(resolveRef), url: preceptUrl(t) });
 writeJson(path.join(API, "precepts", "index.json"), sortedPrecepts.map((t) => ({ slug: t.slug, title: t.title, refs: t.refs.length, url: preceptUrl(t) })));
@@ -87,15 +94,44 @@ const seeAlsoEncyclopedia = (hay) => {
   const h = hay.toLowerCase();
   return L.lexicon.filter((l) => l.terms.some((t) => new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(h))).map((l) => L.noteByTitle.get(l.topic.toLowerCase())).filter(Boolean).map((n) => ({ title: n.title, url: n.url }));
 };
+// Resolve refs for cases without the 12-verse cap
+function resolveRefFull(r) {
+  const slug = bookSlug[r.book];
+  const chapter = bible[r.book]?.[String(r.chapter)] ?? [];
+  const wanted = r.verses ? versesOf(r.verses) : chapter.map((_, i) => i + 1);
+  const rows = wanted.filter((v) => chapter[v - 1]).map((v) => ({ verse: v, text: chapter[v - 1] }));
+  const study = L.studyFor(r.book, r.chapter);
+  return {
+    ...r, slug: slug ?? null,
+    url: slug ? `${chapterUrl(r.book, r.chapter)}${r.verses ? `#v${firstVerse(r.verses)}` : ""}` : null,
+    label: `${r.book} ${r.chapter}${r.verses ? `:${r.verses}` : ""}`,
+    study: study ? { range: study.range, url: study.url } : null,
+    text: rows, more: 0,
+  };
+}
 for (const c of cases.cases) {
-  const related = cases.cases.filter((o) => o !== c && isBlessing(o) === isBlessing(c) && o.themes.some((t) => c.themes.includes(t))).slice(0, 6).map((o) => ({ slug: o.slug, name: o.name, charge: o.charge, url: caseUrl(o) }));
+  // Prefer author-selected related cases from the HTML extraction, fall back to auto-computed
+  const related = c.relatedCases?.length
+    ? c.relatedCases.map((rc) => { const o = cases.cases.find((x) => x.slug === rc.slug); return o ? { slug: o.slug, name: o.name, charge: o.charge, url: caseUrl(o), desc: rc.desc } : { slug: rc.slug, name: rc.name, charge: rc.desc, url: null, desc: rc.desc }; })
+    : cases.cases.filter((o) => o !== c && isBlessing(o) === isBlessing(c) && o.themes.some((t) => c.themes.includes(t))).slice(0, 6).map((o) => ({ slug: o.slug, name: o.name, charge: o.charge, url: caseUrl(o) }));
   const taught = [...new Set(c.refs.map((r) => L.studyFor(r.book, r.chapter)).filter(Boolean))].map((n) => ({ title: n.title, range: n.range, url: n.url }));
   const laws = c.laws.map((l) => { const [sid, n] = l.split("."); const s = L.sectionById[sid]; const en = s && n ? s.entries[+n - 1] : null; return { id: l, text: en ? en.text : s ? `${s.title} (section)` : "", url: L.lawUrl(l) }; });
   const precepts = c.topics.map((t) => { const p = L.findPrecept(t); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : { slug: t, title: t, url: null }; });
   const see = seeAlsoEncyclopedia(`${c.charge} ${c.summary} ${c.themes.join(" ")} ${c.topics.join(" ")}`);
-  writeJson(path.join(API, "cases", `${c.slug}.json`), { ...c, url: caseUrl(c), kind: c.kind ?? "judgment", verdictLabel: VERDICT[c.verdict] ?? c.verdict, related, taught, lawsResolved: laws, preceptsResolved: precepts, refsResolved: c.refs.map(resolveRef), see });
+  writeJson(path.join(API, "cases", `${c.slug}.json`), {
+    ...c, url: caseUrl(c), kind: c.kind ?? "judgment", verdictLabel: VERDICT[c.verdict] ?? c.verdict,
+    related, taught, lawsResolved: laws, preceptsResolved: precepts,
+    refsResolved: c.refs.map(resolveRefFull), see,
+    // Enriched fields (pass through if present)
+    ...(c.code ? { code: c.code } : {}),
+    ...(c.offenseFull ? { offenseFull: c.offenseFull } : {}),
+    ...(c.judgmentFull ? { judgmentFull: c.judgmentFull } : {}),
+    ...(c.alsoCited ? { alsoCited: c.alsoCited.map(resolveRef) } : {}),
+    ...(c.studyContent ? { studyContent: c.studyContent } : {}),
+    ...(c.teachingExcerpts ? { teachingExcerpts: c.teachingExcerpts } : {}),
+  });
 }
-writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c), themes: c.themes ?? [], topics: c.topics ?? [] })) });
+writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c), themes: c.themes ?? [], topics: c.topics ?? [], ...(c.code ? { code: c.code } : {}) })) });
 
 /* ---------------- api: the concordance as a whole ---------------- */
 // One row per citing document per chapter (the per-chapter files keep one row per passage).
@@ -221,7 +257,10 @@ writeJson(path.join(SEARCH, "topics.json"), L.topics);
 writeJson(path.join(SEARCH, "books.json"), BOOKS.map((b) => ({ book: b, slug: bookSlug[b] })));
 writeJson(path.join(SEARCH, "laws.json"), handbook.parts.flatMap((p) => p.sections.flatMap((s) => s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, url: `${sectionUrl(s)}#${s.id}.${e.n}` })))));
 writeJson(path.join(SEARCH, "precepts.json"), sortedPrecepts.map((t) => ({ title: t.title, url: preceptUrl(t), n: t.refs.length })));
-writeJson(path.join(SEARCH, "cases.json"), cases.cases.map((c) => ({ name: c.name, url: caseUrl(c), text: `${c.charge}. ${c.summary} ${c.offense} ${c.judgment}` })));
+writeJson(path.join(SEARCH, "cases.json"), cases.cases.map((c) => {
+  const narrative = c.offenseFull?.length > 1 ? c.offenseFull.join(" ") + " " + (c.judgmentFull || []).join(" ") : `${c.offense} ${c.judgment}`;
+  return { name: c.name, url: caseUrl(c), text: `${c.charge}. ${c.summary} ${narrative}` };
+}));
 
 /* ---------------- classes by book ---------------- */
 {
@@ -428,7 +467,10 @@ write(path.join(OUT, "llms.txt"), [
   }
   for (const p of handbook.parts) for (const sec of p.sections) for (const e of sec.entries) add("law", `${sec.id}.${e.n} ${e.text}`, `${sectionUrl(sec)}#${sec.id}.${e.n}`, `${sec.id} ${sec.title}`, `${e.text} ${e.citation ?? ""}`);
   for (const t of sortedPrecepts) add("precept", t.title, preceptUrl(t), `${t.refs.length} passages`, `${t.title} ${t.refs.map((r) => `${r.book} ${r.chapter}${r.verses ? ":" + r.verses : ""}`).join(", ")}`);
-  for (const c of cases.cases) add("case", c.name, caseUrl(c), `${c.era} · ${VERDICT[c.verdict] ?? c.verdict}`, `${c.charge}. ${c.summary} ${c.offense} ${c.judgment} ${c.themes.join(" ")}`);
+  for (const c of cases.cases) {
+    const narrative = c.offenseFull?.length > 1 ? c.offenseFull.join(" ") + " " + (c.judgmentFull || []).join(" ") : `${c.offense} ${c.judgment}`;
+    add("case", c.name, caseUrl(c), `${c.era} · ${VERDICT[c.verdict] ?? c.verdict}`, `${c.charge}. ${c.summary} ${narrative} ${c.themes.join(" ")}`);
+  }
   const out = [
     "DROP TABLE IF EXISTS search_docs;",
     "CREATE VIRTUAL TABLE search_docs USING fts5(kind UNINDEXED, title, url UNINDEXED, sub UNINDEXED, text, book UNINDEXED, chapter UNINDEXED, tokenize='porter unicode61');",

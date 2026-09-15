@@ -55,6 +55,22 @@ function SectionPage() {
         </ol>
       </RefCards>
       </CiteLanding>
+      {section.caseRefs?.length ? (
+        <div style={{ marginTop: "2rem" }}>
+          <h2 className="cj-h2">Cases</h2>
+          <p className="cj-mono" style={{ marginBottom: "1rem", color: "var(--color-muted)" }}>{section.caseRefs.length} case{section.caseRefs.length !== 1 ? "s" : ""} turned on {section.id}.</p>
+          <ul className="list">
+            {section.caseRefs.map((cr) => (
+              <li key={cr.slug}>
+                {cr.url ? <Link to={cr.url as never}>
+                  <span><span style={{ display: "block" }}>{cr.name}</span><span style={{ display: "block", fontSize: "0.92rem", color: "var(--color-muted)" }}>{cr.charge}</span></span>
+                  <span className={`verdict verdict--${cr.verdict}`}>{cr.verdict}</span>
+                </Link> : <span>{cr.name}: {cr.charge}</span>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ) : null}
       <div className="pager">
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.id} {prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}
         {next ? <Link to={next.url as never} className="read-link"><span>{next.id} {next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}
