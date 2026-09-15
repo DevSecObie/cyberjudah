@@ -29,8 +29,12 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - run: npm ci --no-audit --no-fund
       - run: npm run build
+      # Case-study drafts are held to the strict gate in the quality workflow. Keep that
+      # separate backlog visible without blocking deployment of valid site and note work.
       - run: npm test
-      - run: node ../engine/check.mjs
+        env:
+          ALLOW_CASE_ERRORS: "1"
+      - run: node ../engine/check.mjs --allow-case-errors
       - run: npx playwright install --with-deps chromium
       - run: npm run test:e2e
       - uses: actions/upload-artifact@v4
