@@ -11,6 +11,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const allowCaseErrors = process.argv.includes("--allow-case-errors");
 const L = loadLibrary(ROOT);
 const { BOOKS, bible, bookSlug, handbook, sectionUrl, sortedPrecepts, preceptUrl, cases, caseUrl, notes } = L;
 
@@ -27,7 +28,10 @@ for (const t of L.topics) known.add(`/topics/${t.slug}`);
 const LINK = /\]\(((?:\/|#)[^)\s]*)\)|href="((?:\/|#)[^"]*)"/g;
 let broken = 0, links = 0;
 const report = (n, href, why) => { broken++; console.error(`${n.file}: ${href}: ${why}`); };
-for (const error of validateCases(L)) report({ file: "data/cases.json" }, "case validation", error);
+for (const error of validateCases(L)) {
+  if (allowCaseErrors) console.warn(`data/cases.json: case validation: ${error}`);
+  else report({ file: "data/cases.json" }, "case validation", error);
+}
 
 for (const n of duplicateUrls([
   ...notes,
