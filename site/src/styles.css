@@ -402,6 +402,33 @@
   }
 }
 
+@media (max-width: 480px) {
+  .cj-nav {
+    gap: 0.5rem;
+    padding-inline: 0.75rem;
+  }
+  .cj-nav__brand {
+    gap: 0.3rem;
+    font-size: 0.82rem;
+    letter-spacing: 0.1em;
+    min-width: 0;
+  }
+  .cj-nav__brand img {
+    width: 30px;
+    height: 30px;
+  }
+  .cj-nav__search {
+    margin-left: auto;
+    padding-inline: 0.55rem;
+  }
+  .cj-nav__search kbd {
+    display: none;
+  }
+  .cj-nav__toggle {
+    padding-inline: 0.6rem;
+  }
+}
+
 .cj-wrap {
   width: min(100% - 2 * clamp(1rem, 3vw, 2.5rem), 76rem);
   margin-inline: auto;
