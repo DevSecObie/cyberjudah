@@ -363,6 +363,7 @@
     right: 0;
     max-height: calc(100dvh - var(--nav-h));
     overflow: auto;
+    overflow-x: hidden;
     flex-direction: column;
     align-items: stretch;
     gap: 0;
@@ -374,6 +375,10 @@
     display: flex;
   }
   .cj-nav__links .cj-nav__link {
+    box-sizing: border-box;
+    width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
     padding: 0.85rem clamp(1rem, 3vw, 2.5rem) 0.85rem calc(clamp(1rem, 3vw, 2.5rem) + 1em);
     font-size: 0.85rem;
   }
@@ -1082,6 +1087,8 @@
   .cj-footer__grid {
     grid-template-columns: 1fr 1fr;
   }
+  .cj-footer__grid > * { min-width: 0; }
+  .cj-footer a { overflow-wrap: anywhere; }
 }
 
 /* ---------- Reader: text beside the study panel ---------- */

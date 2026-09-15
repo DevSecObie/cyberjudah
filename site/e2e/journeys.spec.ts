@@ -42,7 +42,7 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
   const toggle = header.getByRole("button", { name: "Menu", exact: true });
   const width = page.viewportSize()!.width;
   const groups: Record<string, string[]> = {
-    Teaching: ["Sabbath Classes", "15 Min w/Captains", "Our Hidden History", "4 Chapters a Day"],
+    Teaching: ["Sabbath Classes", "The Truth Shall Make You Free", "15 Min w/Captains", "Our Hidden History", "4 Chapters a Day"],
     Law: ["The Law", "Precepts", "Case Studies"],
     Reference: ["Dictionary", "Concordance", "Encyclopedia", "Topics", "About"],
   };
@@ -61,20 +61,20 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
   } else {
     await expect(toggle).toBeHidden();
     // The bar itself stays on one line: the Bible link and every group trigger share a row.
-    const bible = header.getByRole("link", { name: /^Bible$/ });
+    const bible = header.getByRole("link", { name: /Bible$/ });
     await inView(bible);
     const barY = (await bible.boundingBox())!.y;
     for (const group of Object.keys(groups)) {
-      const trigger = header.getByRole("button", { name: new RegExp(`^${group}`) });
+      const trigger = header.getByRole("button", { name: new RegExp(`${group}$`) });
       await inView(trigger);
       expect(Math.abs((await trigger.boundingBox())!.y - barY)).toBeLessThan(4);
     }
     for (const [group, items] of Object.entries(groups)) {
-      await header.getByRole("button", { name: new RegExp(`^${group}`) }).click();
-      for (const label of items) await inView(header.getByRole("link", { name: new RegExp(`^${label.replace("/", "\\/")}`) }));
+      await header.getByRole("button", { name: new RegExp(`${group}$`) }).click();
+      for (const label of items) await inView(header.getByRole("link", { name: new RegExp(`${label.replace("/", "\\/")}$`) }));
       await page.keyboard.press("Escape");
     }
-    await header.getByRole("button", { name: /^Law/ }).click();
+    await header.getByRole("button", { name: /Law$/ }).click();
     await header.getByRole("link", { name: /^Precepts/ }).click();
   }
   await expect(page).toHaveURL(/\/precepts\/?$/);
