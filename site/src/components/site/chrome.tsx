@@ -17,7 +17,6 @@ const GROUPS: NavGroup[] = [
     label: "Teaching",
     items: [
       { to: "/classes", label: "Sabbath Classes", blurb: "Each class written up in full, scriptures cited inline." },
-      { to: "/truth-shall-make-you-free", label: "Truth Shall Make You Free", blurb: "The original IUIC teaching series, gathered in one playlist." },
       { to: "/captains", label: "15 Min w/Captains", blurb: "Short teachings, one subject at a time." },
       { to: "/history", label: "Our Hidden History", blurb: "Our Hidden History Radio with Deacon Eythan, verse by verse." },
       { to: "/study", label: "4 Chapters a Day", blurb: "The daily reading, one chapter per page." },
@@ -143,7 +142,6 @@ export function SiteFooter() {
             <li><Link to="/bible">Bible</Link></li>
             <li><Link to="/study">4 Chapters a Day</Link></li>
             <li><Link to="/classes">Sabbath Classes</Link></li>
-            <li><Link to="/truth-shall-make-you-free">Truth Shall Make You Free</Link></li>
             <li><Link to="/captains">15 Min w/Captains</Link></li>
             <li><Link to="/history">Our Hidden History</Link></li>
           </ul>
