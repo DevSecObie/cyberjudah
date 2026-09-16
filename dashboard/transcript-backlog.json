@@ -33,9 +33,9 @@
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 93.94,
-      "to_fetch": 12,
-      "videos": 198
+      "progress_pct": 94.42,
+      "to_fetch": 11,
+      "videos": 197
     },
     {
       "age_restricted": 1,
@@ -62,5 +62,5 @@
       "videos": 179
     }
   ],
-  "generated_at": "2026-09-16T06:57:01.353958+00:00"
+  "generated_at": "2026-09-16T12:17:41.438934+00:00"
 }
