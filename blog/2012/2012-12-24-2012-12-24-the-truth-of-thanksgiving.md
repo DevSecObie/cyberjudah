@@ -66,13 +66,13 @@ tags: ["IUIC in the ClassRoom"]
 
 - They shall walk after the Lord. So the prophecy says that the Israelites shall walk after the Lord. He shall roar like a lion. He shall roar like a lion. Go ahead. When he shall roar, then the children shall tremble from the west. The Israelites shall tremble what? From the west. From the west. What does it mean we shall tremble from the west? The western hemisphere, okay? That's what this side of the world is called, the western hemisphere because over on Jerusalem side it's called the eastern hemisphere. Is that it? There's more. Go ahead. They shall tremble as a bird out of Egypt. Cuz we're going to be delivered from this captivity called spiritual spiritually called Egypt. Go ahead. And as a dove out of the land of Assyria. Mhm. And I will place them in their houses, saith the Lord. The Most High is going to bring us back to our homeland. From there, let's go to Deuteronomy.
 
-- 33. Because some of you don't. Understand that. Just as THE PROPHET ESDRAS PROPHESIED THE 10 TRIBES WOULD. Come on. This side of the world, the prophet Moses prophesied the same thing. Deuteronomy 33, let's read verse one first. Deuteronomy chapter 33 verse.
+- 33. Because some of you don't. Understand that. Just as THE PROPHET ESDRAS PROPHESIED THE 10 TRIBES WOULD. Come on. This side of the world, the prophet Moses prophesied the same thing. Deuteronomy 33, let's read verse one first. Deuteronomy chapter 33 verse. One.
 
 **[Deuteronomy 33:1](/bible/deuteronomy/33#v1)**  *[[3:17](https://www.youtube.com/watch?v=OfeSju75iMY&t=197s)]*
 
 > <sup>[1](/bible/deuteronomy/33#v1)</sup> And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
 
-- One. And this is the blessing wherewith Moses the man of God blessed the children of Israel before his death. So now, from there, jump down to verse 20. Verse 20. All I want is 20. And Gad he said And Gad he said, WHO IS GAD? GAD ARE the ones you call today the North American Indians. Read it again.
+- And this is the blessing wherewith Moses the man of God blessed the children of Israel before his death. So now, from there, jump down to verse 20. Verse 20. All I want is 20. And Gad he said And Gad he said, WHO IS GAD? GAD ARE the ones you call today the North American Indians. Read it again.
 
 **[Deuteronomy 33:20-21](/bible/deuteronomy/33#v20)**  *[[3:37](https://www.youtube.com/watch?v=OfeSju75iMY&t=217s)]*
 
@@ -112,13 +112,13 @@ tags: ["IUIC in the ClassRoom"]
 
 ### The History Behind Thanksgiving
 
-- Now. So, now we've proven to you what has happened. Okay? How did this land become known as America? Psalm 49:11. God proved it and showed you it. Deuteronomy 28:15. Listen good. Deuteronomy chapter.
+- Now. So, now we've proven to you what has happened. Okay? How did this land become known as America? Psalm 49:11. God proved it and showed you it. Deuteronomy 28:15. Listen good. Deuteronomy chapter. 28:15.
 
 **[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[10:54](https://www.youtube.com/watch?v=OfeSju75iMY&t=654s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 
-- 28:15. But it shall come to pass if thou will not hearken unto the voice of the Lord thy God to observe to do all his commandments and his statutes which I command thee this day that all these curses shall come upon thee and overtake thee. Jump down to verse 30. Listen good. Verse 30. Thou shalt betroth thy wife
+- But it shall come to pass if thou will not hearken unto the voice of the Lord thy God to observe to do all his commandments and his statutes which I command thee this day that all these curses shall come upon thee and overtake thee. Jump down to verse 30. Listen good. Verse 30. Thou shalt betroth thy wife
 
 **[Deuteronomy 28:30-33](/bible/deuteronomy/28#v30)**  *[[11:24](https://www.youtube.com/watch?v=OfeSju75iMY&t=684s)]*
 
