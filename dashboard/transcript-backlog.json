@@ -3,15 +3,15 @@
   "feeds": [
     {
       "age_restricted": 0,
-      "already_in_vault": 1474,
+      "already_in_vault": 1036,
       "channel": "iuiccaptains6939",
-      "completed": 1474,
+      "completed": 1036,
       "feed": "captains",
       "no_backlog": false,
       "no_captions": 0,
-      "progress_pct": 97.23,
-      "to_fetch": 42,
-      "videos": 1516
+      "progress_pct": 97.28,
+      "to_fetch": 29,
+      "videos": 1065
     },
     {
       "age_restricted": 0,
@@ -27,27 +27,27 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 186,
+      "already_in_vault": 622,
       "channel": "IUICintheClassRoom",
-      "completed": 186,
+      "completed": 622,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 94.42,
-      "to_fetch": 11,
-      "videos": 197
+      "progress_pct": 78.04,
+      "to_fetch": 175,
+      "videos": 797
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 186,
+      "already_in_vault": 357,
       "channel": "iuicintheclassroom2",
-      "completed": 186,
+      "completed": 357,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 93.47,
-      "to_fetch": 13,
-      "videos": 199
+      "progress_pct": 89.47,
+      "to_fetch": 42,
+      "videos": 399
     },
     {
       "age_restricted": 1,
@@ -62,5 +62,5 @@
       "videos": 179
     }
   ],
-  "generated_at": "2026-09-16T12:17:41.438934+00:00"
+  "generated_at": "2026-09-16T17:23:01.555524+00:00"
 }
