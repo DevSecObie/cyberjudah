@@ -3,15 +3,15 @@
   "feeds": [
     {
       "age_restricted": 0,
-      "already_in_vault": 1473,
+      "already_in_vault": 487,
       "channel": "iuiccaptains6939",
-      "completed": 1473,
+      "completed": 487,
       "feed": "captains",
       "no_backlog": false,
       "no_captions": 0,
-      "progress_pct": 97.23,
-      "to_fetch": 42,
-      "videos": 1515
+      "progress_pct": 97.6,
+      "to_fetch": 12,
+      "videos": 499
     },
     {
       "age_restricted": 0,
@@ -62,5 +62,5 @@
       "videos": 179
     }
   ],
-  "generated_at": "2026-09-17T06:55:33.746922+00:00"
+  "generated_at": "2026-09-17T17:22:26.924263+00:00"
 }
