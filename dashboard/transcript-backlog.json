@@ -27,15 +27,15 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 186,
+      "already_in_vault": 187,
       "channel": "IUICintheClassRoom",
-      "completed": 186,
+      "completed": 187,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 94.42,
+      "progress_pct": 94.44,
       "to_fetch": 11,
-      "videos": 197
+      "videos": 198
     },
     {
       "age_restricted": 1,
@@ -62,5 +62,5 @@
       "videos": 179
     }
   ],
-  "generated_at": "2026-09-18T21:22:00.427699+00:00"
+  "generated_at": "2026-09-18T23:43:46.522132+00:00"
 }
