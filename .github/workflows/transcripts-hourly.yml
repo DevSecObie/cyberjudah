@@ -30,12 +30,12 @@ jobs:
           GJT: ${{ secrets.GJT }}
           HARVEST_RAW_DIR: /tmp/transcriptapi-harvest-raw
         run: |
-          python3 scripts/history/harvest.py --feed classes --playlist PLnnrx2V-o7VxaHaFzrEECeIR8NZ1x4zfx --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
-          python3 scripts/history/harvest.py --feed captains --channel iuiccaptains6939 --backend transcriptapi --limit 200 --push
-          python3 scripts/history/harvest.py --feed history --channel ourhiddenhistoryradio1991 --backend transcriptapi --limit 200 --push
-          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
-          python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
-          python3 scripts/history/harvest.py --feed classes --channel yabanisrael7530 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1
+          if [[ ! -f dashboard/completed-sources/iuicintheclassroom2.json ]]; then
+            python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/iuicintheclassroom2.json
+          fi
+          if [[ ! -f dashboard/completed-sources/yabanisrael7530.json ]]; then
+            python3 scripts/history/harvest.py --feed classes --channel yabanisrael7530 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/yabanisrael7530.json
+          fi
 
       - name: Update transcript backlog dashboard
         env:
@@ -51,14 +51,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [[ -z "$(git status --porcelain dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html)" ]]; then
+          if [[ -z "$(git status --porcelain dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html dashboard/completed-sources)" ]]; then
             echo "No dashboard changes."
             exit 0
           fi
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html
+          git add dashboard/transcript-backlog.md dashboard/transcript-backlog.json dashboard/transcript-backlog.html dashboard/completed-sources
           git commit -m "chore: refresh transcript backlog dashboard [skip ci]"
 
           for attempt in 1 2 3; do

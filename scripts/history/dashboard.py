@@ -16,10 +16,8 @@ API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY
 
 
 FEED_CONFIG = (
-    ("captains", "iuiccaptains6939"),
-    ("history", "ourhiddenhistoryradio1991"),
-    ("classes", "IUICintheClassRoom"),
     ("classes", "iuicintheclassroom2"),
+    ("classes", "ManVsBible144"),
     ("classes", "yabanisrael7530"),
 )
 
@@ -90,6 +88,11 @@ def read_set(path):
 
 
 def build_entry(feed, channel):
+    marker = os.path.join("dashboard", "completed-sources", f"{channel}.json")
+    if os.path.exists(marker):
+        with open(marker, "r", encoding="utf-8") as handle:
+            return json.load(handle)
+
     feed_path = FEED_PATHS[feed]
     tdir = os.path.join(feed_path, "transcripts")
     done = set(glob.glob(os.path.join(tdir, "*.json")))

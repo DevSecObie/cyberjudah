@@ -303,6 +303,8 @@ def main():
     ap.add_argument("--recheck-nocaption-days", type=int, default=30,
                     help="retry a video parked in no-captions.tsv within this many days: a "
                          "livestream's captions often appear hours after the harvest saw none")
+    ap.add_argument("--completion-marker",
+                    help="write a JSON marker when the source has no remaining videos to fetch")
     a = ap.parse_args()
 
     fdir = os.path.join(ROOT, FEEDS[a.feed]); tdir = os.path.join(fdir, "transcripts"); os.makedirs(tdir, exist_ok=True)
@@ -337,6 +339,31 @@ def main():
         f"{sum(1 for r in rows if r[0] in done)} already in the vault, {len(todo)} to fetch",
         flush=True
     )
+
+    # A non-empty inventory with no remaining work is safe to retire.  The workflow
+    # checks this marker before invoking the harvester again, avoiding repeated channel
+    # listings and TranscriptAPI calls after completion.
+    if rows and not todo and a.completion_marker:
+        marker = a.completion_marker
+        if not os.path.isabs(marker):
+            marker = os.path.join(ROOT, marker)
+        os.makedirs(os.path.dirname(marker), exist_ok=True)
+        with open(marker, "w", encoding="utf-8") as handle:
+            json.dump({
+                "channel": a.channel,
+                "feed": a.feed,
+                "videos": len(rows),
+                "already_in_vault": len(rows),
+                "to_fetch": 0,
+                "completed": len(rows),
+                "no_backlog": True,
+                "no_captions": 0,
+                "age_restricted": 0,
+                "progress_pct": 100.0,
+                "completed_at": datetime.now(timezone.utc).isoformat(),
+            }, handle, indent=2, sort_keys=True)
+            handle.write("\n")
+        print(f"completion marker: {os.path.relpath(marker, ROOT)}", flush=True)
 
     raw = os.environ.get("HARVEST_RAW_DIR", os.path.join(ROOT, ".harvest-raw"))
     os.makedirs(raw, exist_ok=True)
