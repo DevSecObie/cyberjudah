@@ -13,6 +13,18 @@ SPEC.loader.exec_module(corpus)
 
 
 class CorpusTests(unittest.TestCase):
+    def test_caption_offsets_survive_overlap_removal_and_unicode(self):
+        text, offsets = corpus.normalized_with_offsets([
+            (10, '😀 We read Isaiah fourteen verse twelve'),
+            (20, 'Isaiah fourteen verse twelve and continued'),
+            (30, 'and continued'),
+        ])
+        self.assertEqual(text, '😀 We read Isaiah fourteen verse twelve and continued and continued')
+        self.assertEqual(offsets[1], [len('😀 We read Isaiah fourteen verse twelve '.encode('utf-16-le')) // 2, 20])
+        for offset, seconds in offsets:
+            tail = text.encode('utf-16-le')[offset * 2:].decode('utf-16-le')
+            self.assertTrue(tail.startswith('😀' if seconds == 10 else 'and continued'))
+
     def test_normalization_preserves_language_and_removes_exact_overlap(self):
         text = corpus.normalized_join([
             "We read Isaiah fourteen verse twelve",

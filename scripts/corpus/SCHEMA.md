@@ -81,3 +81,5 @@ index remains separate. The import replaces the teaching index, so schedule rebu
 brief search interruption is acceptable. Until imported, the UI displays an unavailable
 message with a link to published-note search. The table exposes excerpts through the website;
 the generated corpus files are not deployed as downloadable assets.
+
+`cue_offsets` contains `[UTF-16 character offset, source caption start seconds]` pairs into `text_normalized`. Search excerpts and video links use the same matched character offset. Caption timings are source timings, not word-level audio alignment.

@@ -16,11 +16,11 @@ def export(source, destination):
             if video:
                 notes[video[1]] = f'/{prefix}/{path.parent.name}/{path.stem}'
     with destination.open('w') as out:
-        out.write('DROP TABLE IF EXISTS teaching_passages;\nCREATE VIRTUAL TABLE teaching_passages USING fts5(title, text, feed UNINDEXED, date UNINDEXED, video UNINDEXED, start UNINDEXED, note UNINDEXED);\n')
+        out.write('DROP TABLE IF EXISTS teaching_passages;\nCREATE VIRTUAL TABLE teaching_passages USING fts5(title, text, feed UNINDEXED, date UNINDEXED, video UNINDEXED, start UNINDEXED, note UNINDEXED, cues UNINDEXED);\n')
         with gzip.open(source / 'segments.jsonl.gz','rt') as rows:
             for line in rows:
                 s = json.loads(line); d = docs[s['doc_id']]
-                values = [d['title'], s['text_normalized'], d['feed'], d['date'], d['video_id'], s['start_seconds'], notes.get(d['video_id'])]
+                values = [d['title'], s['text_normalized'], d['feed'], d['date'], d['video_id'], s['start_seconds'], notes.get(d['video_id']), json.dumps(s['cue_offsets'], separators=(',', ':'))]
                 out.write('INSERT INTO teaching_passages VALUES(' + ','.join(map(literal,values)) + ');\n')
 if __name__ == '__main__':
     p = argparse.ArgumentParser(); p.add_argument('--source',type=Path,default=Path('dist/corpus')); p.add_argument('--out',type=Path,default=Path('dist/teachings.sql'))

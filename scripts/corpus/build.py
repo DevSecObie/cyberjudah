@@ -96,10 +96,12 @@ def overlap_words(left, right, minimum=4, maximum=30):
     return 0
 
 
-def normalized_join(texts):
-    out = []
+def normalized_with_offsets(cues):
+    """Keep UTF-16 character offsets tied to original caption start seconds."""
+    out, offsets = [], []
     previous = ""
-    for raw in texts:
+    length = 0
+    for seconds, raw in cues:
         text = normalize_piece(raw)
         if not text:
             continue
@@ -108,9 +110,17 @@ def normalized_join(texts):
         if overlap == len(words):
             continue
         text = " ".join(words[overlap:])
+        if out:
+            length += 1
+        offsets.append([length, seconds])
         out.append(text)
+        length += len(text.encode("utf-16-le")) // 2
         previous = (previous + " " + text).strip()
-    return " ".join(out)
+    return " ".join(out), offsets
+
+
+def normalized_join(texts):
+    return normalized_with_offsets((0, text) for text in texts)[0]
 
 
 def make_chunks(segments, duration, target_words, max_words):
@@ -274,7 +284,7 @@ def build(args):
                 for segment_index, (first, stop) in enumerate(make_chunks(pairs, duration, args.target_words, args.max_words)):
                     source = valid_segments[first:stop]
                     original = " ".join(x[1] for x in source)
-                    normalized = normalized_join([x[1] for x in source])
+                    normalized, cue_offsets = normalized_with_offsets((x[0], x[1]) for x in source)
                     start_seconds = round(source[0][0], 2)
                     if stop < len(valid_segments):
                         end_seconds = round(valid_segments[stop][0], 2)
@@ -295,6 +305,7 @@ def build(args):
                         "word_count": len(TOKEN.findall(normalized)),
                         "text_original": original,
                         "text_normalized": normalized,
+                        "cue_offsets": cue_offsets,
                         "scripture_references": extract_scriptures(normalized),
                         "source_url": f"https://www.youtube.com/watch?v={video_id}&t={int(start_seconds)}s",
                     }

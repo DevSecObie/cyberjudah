@@ -33,7 +33,7 @@ function Teachings() {
         <p className="cj-mono">{collections[hit.feed] || hit.feed} · {hit.date || 'Date unavailable'} · {timestamp(hit.start)}</p>
         <h2 style={{fontSize:'1.5rem',margin:'.5rem 0'}}><a href={`https://www.youtube.com/watch?v=${encodeURIComponent(hit.video)}&t=${Math.max(0,Math.floor(Number(hit.start)||0))}s`} target="_blank" rel="noreferrer">{<SearchHighlight text={hit.matchedTitle || hit.title} />}</a></h2>
         <p style={{lineHeight:1.7}}><SearchHighlight text={hit.excerpt} /></p>
-        <div style={{display:'flex',gap:'1.5rem',marginTop:'.75rem'}}><a href={`https://www.youtube.com/watch?v=${encodeURIComponent(hit.video)}&t=${Math.max(0,Math.floor(Number(hit.start)||0))}s`} target="_blank" rel="noreferrer">Watch at {timestamp(hit.start)} ↗</a>{hit.note && <Link to={hit.note as never}>Read notes →</Link>}</div>
+        <div style={{display:'flex',gap:'1.5rem',marginTop:'.75rem'}}><a href={`https://www.youtube.com/watch?v=${encodeURIComponent(hit.video)}&t=${Math.max(0,Math.floor(Number(hit.start)||0))}s`} target="_blank" rel="noreferrer">{hit.timing === 'caption' ? 'Watch match at' : 'Watch passage from'} {timestamp(hit.start)} ↗</a>{hit.note && <Link to={hit.note as never}>Read notes →</Link>}</div>
       </article>)}
       <nav aria-label="Result pages" style={{display:'flex',gap:'2rem',marginTop:'2rem'}}>{search.page>1 && <Link to="/teachings" search={{...search,page:search.page-1}}>← Previous</Link>}{result.more && <Link to="/teachings" search={{...search,page:search.page+1}}>Next →</Link>}</nav>
     </>}
