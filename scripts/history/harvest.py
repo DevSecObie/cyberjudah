@@ -250,8 +250,11 @@ def fetch_transcript(video_id):
     return api_get("/youtube/transcript", params, timeout=20, retries=2)
 
 
-def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views):
+def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views, channel, method):
     cmd = [sys.executable, os.path.join(ROOT, "scripts", "history", "ingest.py"), raw_path, f"--id={video_id}", f"--title={title}", f"--feed={feed}"]
+    if channel:
+        cmd.append(f"--source-channel={channel}")
+    cmd.append(f"--transcription-method={method}")
     if date:
         cmd.append(f"--date={date}")
     if duration is not None:
@@ -483,7 +486,9 @@ def main():
             if files:
                 cmd = ingest_payload(
                     files[0], video_id=vid, title=title, feed=a.feed,
-                    date=file_date, duration=file_duration, views=file_views
+                    date=file_date, duration=file_duration, views=file_views,
+                    channel=a.channel or a.playlist,
+                    method="transcriptapi" if a.backend == "transcriptapi" else "youtube-captions",
                 )
                 r = sh(cmd)
                 if r.returncode == 0:

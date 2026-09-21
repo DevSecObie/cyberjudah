@@ -88,6 +88,7 @@ function SearchPage() {
   return (
     <Page>
       <h1 className="cj-h1">Search.</h1>
+      <p style={{ marginBottom: "1.5rem" }}><Link to="/teachings" search={{ q, feed: "", page: 0 }}>Search inside class recordings →</Link></p>
       <form className="search-form" role="search" onSubmit={go} style={{ maxWidth: "48rem" }}>
         <input value={input} onChange={(e) => setInput(e.target.value)} placeholder='A word, several words, or a "quoted phrase"' aria-label="Search the library" spellCheck={false} autoComplete="off" autoFocus />
         <button type="submit" className="search-go" aria-label="Search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="M20 20l-4.2-4.2" strokeLinecap="round" /></svg></button>

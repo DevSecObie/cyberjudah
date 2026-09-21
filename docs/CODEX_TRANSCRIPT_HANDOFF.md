@@ -49,6 +49,17 @@ Path: `.github/workflows/audio-fallback.yml`
 - `blog/transcripts/`: committed transcript JSON files.
 - `blog/channel-meta.tsv`: transcript metadata.
 - `dashboard/transcript-backlog.html`: browser dashboard.
+- `scripts/corpus/build.py`: derives context-sized, metadata-linked corpus records without
+  modifying the transcript archive.
+- `scripts/corpus/SCHEMA.md`: corpus schema, normalization policy, stable IDs, and privacy rules.
+
+## Corpus build
+
+Run `npm run corpus:build` to create the private analysis corpus in `dist/corpus/`. The output
+is derived and Git-ignored; do not commit it or publish it through the site/data workflows.
+Newly ingested transcripts record their acquisition method, channel, language, source format,
+and source-payload SHA-256. Older transcript records remain valid and are assigned explicit
+unknown/null provenance rather than guessed values.
 
 ## Captions arrive after the stream ends
 

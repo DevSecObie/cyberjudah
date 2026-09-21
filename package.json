@@ -5,6 +5,8 @@
   "description": "The CyberJudah vault: the KJV with the Apocrypha, the study notes, class notes, encyclopedia, handbook of law, precepts and case studies. engine/ builds the data set, site/ renders it.",
   "type": "module",
   "scripts": {
+    "corpus:build": "python3 scripts/corpus/build.py",
+    "corpus:test": "python3 -m unittest scripts/corpus/test_build.py",
     "notes:fix": "node scripts/link-timestamps.mjs && node scripts/tag-notes.mjs && node scripts/index-scriptures.mjs",
     "notes:lint": "python3 scripts/notes/lint.py",
     "check": "node engine/check.mjs",

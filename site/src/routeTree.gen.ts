@@ -16,6 +16,8 @@ import { Route as DownloadsRouteImport } from './routes/downloads'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as SearchRouteImport } from './routes/search'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as TeachingsRouteImport } from './routes/teachings'
+import { Route as TruthShallMakeYouFreeRouteImport } from './routes/truth-shall-make-you-free'
 import { Route as BibleIndexRouteImport } from './routes/bible/index'
 import { Route as CaptainsIndexRouteImport } from './routes/captains/index'
 import { Route as CasesIndexRouteImport } from './routes/cases/index'
@@ -77,6 +79,16 @@ const SearchRoute = SearchRouteImport.update({
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
   path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TeachingsRoute = TeachingsRouteImport.update({
+  id: '/teachings',
+  path: '/teachings',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TruthShallMakeYouFreeRoute = TruthShallMakeYouFreeRouteImport.update({
+  id: '/truth-shall-make-you-free',
+  path: '/truth-shall-make-you-free',
   getParentRoute: () => rootRouteImport,
 } as any)
 const BibleIndexRoute = BibleIndexRouteImport.update({
@@ -223,6 +235,8 @@ export interface FileRoutesByFullPath {
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/teachings': typeof TeachingsRoute
+  '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
@@ -259,6 +273,8 @@ export interface FileRoutesByTo {
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/teachings': typeof TeachingsRoute
+  '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
@@ -296,6 +312,8 @@ export interface FileRoutesById {
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/teachings': typeof TeachingsRoute
+  '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
@@ -334,6 +352,8 @@ export interface FileRouteTypes {
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
+    | '/teachings'
+    | '/truth-shall-make-you-free'
     | '/concordance/$book'
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
@@ -370,6 +390,8 @@ export interface FileRouteTypes {
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
+    | '/teachings'
+    | '/truth-shall-make-you-free'
     | '/concordance/$book'
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
@@ -406,6 +428,8 @@ export interface FileRouteTypes {
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
+    | '/teachings'
+    | '/truth-shall-make-you-free'
     | '/concordance/$book'
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
@@ -443,6 +467,8 @@ export interface RootRouteChildren {
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  TeachingsRoute: typeof TeachingsRoute
+  TruthShallMakeYouFreeRoute: typeof TruthShallMakeYouFreeRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
   DictionarySlugRoute: typeof DictionarySlugRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
@@ -521,6 +547,20 @@ declare module '@tanstack/react-router' {
       path: '/sitemap.xml'
       fullPath: '/sitemap.xml'
       preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/teachings': {
+      id: '/teachings'
+      path: '/teachings'
+      fullPath: '/teachings'
+      preLoaderRoute: typeof TeachingsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/truth-shall-make-you-free': {
+      id: '/truth-shall-make-you-free'
+      path: '/truth-shall-make-you-free'
+      fullPath: '/truth-shall-make-you-free'
+      preLoaderRoute: typeof TruthShallMakeYouFreeRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/bible/': {
@@ -723,6 +763,8 @@ const rootRouteChildren: RootRouteChildren = {
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  TeachingsRoute: TeachingsRoute,
+  TruthShallMakeYouFreeRoute: TruthShallMakeYouFreeRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,
   DictionarySlugRoute: DictionarySlugRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,

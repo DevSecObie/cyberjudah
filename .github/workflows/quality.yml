@@ -13,6 +13,8 @@ jobs:
           cache: npm
           cache-dependency-path: site/package-lock.json
       - run: npm ci --prefix site --no-audit --no-fund
+      - run: npm run corpus:test
+      - run: python3 scripts/corpus/build.py --limit 10 --skip-scriptures --out /tmp/cyberjudah-corpus-smoke
       - run: node engine/check.mjs
       - run: npm test --prefix site
       - run: npm run build --prefix site

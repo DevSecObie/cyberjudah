@@ -156,6 +156,8 @@ def main():
             f"--id={video_id}",
             f"--title={title}",
             f"--feed={args.feed}",
+            f"--source-channel={args.channel}",
+            f"--transcription-method=faster-whisper:{args.model}",
         ]
         if date:
             command.append(f"--date={date}")

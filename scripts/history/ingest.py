@@ -11,9 +11,10 @@ Accepts YouTube's json3 caption format (yt-dlp --sub-format json3) or the transc
 
 Nothing is paraphrased. The only edits: caption noise ([music], [applause]) is dropped,
 whitespace is normalised, and `start` marks the second the speakers begin (intro music and
-the countdown before it are skipped when the transcript is read on the site).
+the countdown before it are skipped when the transcript is read on the site). New records also
+carry acquisition provenance and a SHA-256 of the received source payload.
 """
-import argparse, json, os, re, sys
+import argparse, hashlib, json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 FEEDS = {"history": "history", "classes": "blog", "captains": "captains"}
@@ -81,12 +82,21 @@ def main():
     ap.add_argument("caption"); ap.add_argument("--id", required=True); ap.add_argument("--title", required=True)
     ap.add_argument("--date", default=None); ap.add_argument("--duration", type=float, default=None); ap.add_argument("--views", type=int, default=None)
     ap.add_argument("--feed", default="history", choices=sorted(FEEDS))
+    ap.add_argument("--language", default="en")
+    ap.add_argument("--source-platform", default="youtube")
+    ap.add_argument("--source-channel", default=None)
+    ap.add_argument("--transcription-method", default="unknown")
     a = ap.parse_args()
     global OUT
     OUT = os.path.join(ROOT, FEEDS[a.feed], "transcripts")
     segs = load(a.caption)
     ep = episode_number(a.title)
-    rec = {"feed": a.feed, "videoId": a.id, "title": a.title.strip(), "cleanTitle": clean_title(a.title), "episode": ep, "slug": episode_slug(a.title, ep, a.date), "date": a.date, "duration": a.duration, "views": a.views,
+    source_bytes = open(a.caption, "rb").read()
+    source_payload = json.loads(source_bytes)
+    rec = {"schemaVersion": 2, "feed": a.feed, "videoId": a.id, "title": a.title.strip(), "cleanTitle": clean_title(a.title), "episode": ep, "slug": episode_slug(a.title, ep, a.date), "date": a.date, "duration": a.duration, "views": a.views,
+           "language": a.language, "sourcePlatform": a.source_platform, "sourceChannel": a.source_channel,
+           "transcriptionMethod": a.transcription_method, "sourceFormat": "json3" if "events" in source_payload else "transcript-json",
+           "sourceSha256": hashlib.sha256(source_bytes).hexdigest(),
            "start": speech_start(segs), "words": sum(len(s[1].split()) for s in segs), "segments": segs}
     os.makedirs(OUT, exist_ok=True)
     p = os.path.join(OUT, f"{a.id}.json")

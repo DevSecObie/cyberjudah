@@ -12,6 +12,7 @@ data/               the KJV text, the handbook of law, precepts, cases, cross re
 engine/             turns all of the above into one data set             (node engine/build.mjs)
 site/               the front end, a TanStack Start app on Cloudflare    (reads the data set)
 scripts/notes/      the editorial spec and helpers for writing a note
+scripts/corpus/     builds the private transcript corpus for search and analysis
 brand/              the lion, the icons, the social card
 ```
 
@@ -31,6 +32,19 @@ npm run check                 # every link resolves to a real chapter, verse, no
 ```
 
 The editorial spec is [scripts/notes/README.md](scripts/notes/README.md).
+
+## Building the transcript corpus
+
+The timestamped transcripts remain the evidence layer. A separate, reproducible corpus joins
+their metadata, groups caption fragments into useful passages, preserves original and lightly
+normalized text, and annotates scripture references:
+
+```
+npm run corpus:test
+npm run corpus:build       # writes dist/corpus/ (private, not published)
+```
+
+The schema and normalization policy are in [scripts/corpus/SCHEMA.md](scripts/corpus/SCHEMA.md).
 
 ## Working on the site
 
