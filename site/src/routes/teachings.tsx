@@ -18,7 +18,7 @@ function VideoThumbnail({video,title,start,eager}: {video:string;title:string;st
   const [failed,setFailed] = useState(false);
   const seek = Math.max(0,Math.floor(Number(start)||0));
   return <a className="teaching-thumbnail" href={`https://www.youtube.com/watch?v=${encodeURIComponent(video)}&t=${seek}s`} target="_blank" rel="noreferrer" aria-label={`Watch ${title} at ${timestamp(start)}`}>
-    {failed ? <span className="teaching-thumbnail__fallback">Preview unavailable</span> : <img src={`https://i.ytimg.com/vi/${encodeURIComponent(video)}/mqdefault.jpg`} width={320} height={180} alt="" loading={eager ? 'eager' : 'lazy'} decoding="async" onError={()=>setFailed(true)}/>}
+    {failed ? <span className="teaching-thumbnail__fallback">Preview unavailable</span> : <img src={`https://img.youtube.com/vi/${encodeURIComponent(video)}/mqdefault.jpg`} width={320} height={180} alt="" loading={eager ? 'eager' : 'lazy'} decoding="async" onError={()=>setFailed(true)}/>}
     <span className="teaching-thumbnail__play" aria-hidden="true">▶</span>
     <span className="teaching-thumbnail__time" aria-hidden="true">{timestamp(start)}</span>
   </a>;
