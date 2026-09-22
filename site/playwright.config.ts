@@ -13,7 +13,7 @@ export default defineConfig({
     name: `chromium-${width}`, use: { browserName: "chromium", viewport: { width, height: 900 } },
   })),
   webServer: {
-    command: "npx wrangler d1 execute cyberjudah --local --persist-to .wrangler/e2e --file e2e/search.sql && npm run preview -- --port 33359 --persist-to .wrangler/e2e",
+    command: "npx wrangler d1 execute cyberjudah --local --persist-to .wrangler/e2e --file e2e/search.sql && npm run preview -- --local --port 33359 --persist-to .wrangler/e2e",
     url: "http://127.0.0.1:33359/search",
     reuseExistingServer: false,
     timeout: 120_000,
