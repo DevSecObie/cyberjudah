@@ -36,6 +36,9 @@ jobs:
           if [[ ! -f dashboard/completed-sources/yabanisrael7530.json ]]; then
             python3 scripts/history/harvest.py --feed classes --channel yabanisrael7530 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/yabanisrael7530.json
           fi
+          if [[ ! -f dashboard/completed-sources/IUICRaleigh.json ]]; then
+            python3 scripts/history/harvest.py --feed classes --channel IUICRaleigh --backend transcriptapi --listing-backend yt-dlp --tabs videos,streams,shorts --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/IUICRaleigh.json
+          fi
 
       - name: Update transcript backlog dashboard
         env:
