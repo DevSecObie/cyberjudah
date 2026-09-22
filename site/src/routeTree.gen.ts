@@ -12,12 +12,10 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as ApiRouteImport } from './routes/api'
-import { Route as AssistantRouteImport } from './routes/assistant'
 import { Route as DownloadsRouteImport } from './routes/downloads'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as SearchRouteImport } from './routes/search'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
-import { Route as StudyAnswerRouteImport } from './routes/study-answer'
 import { Route as TeachingsRouteImport } from './routes/teachings'
 import { Route as TruthShallMakeYouFreeRouteImport } from './routes/truth-shall-make-you-free'
 import { Route as BibleIndexRouteImport } from './routes/bible/index'
@@ -63,11 +61,6 @@ const ApiRoute = ApiRouteImport.update({
   path: '/api',
   getParentRoute: () => rootRouteImport,
 } as any)
-const AssistantRoute = AssistantRouteImport.update({
-  id: '/assistant',
-  path: '/assistant',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const DownloadsRoute = DownloadsRouteImport.update({
   id: '/downloads',
   path: '/downloads',
@@ -86,11 +79,6 @@ const SearchRoute = SearchRouteImport.update({
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
   path: '/sitemap.xml',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const StudyAnswerRoute = StudyAnswerRouteImport.update({
-  id: '/study-answer',
-  path: '/study-answer',
   getParentRoute: () => rootRouteImport,
 } as any)
 const TeachingsRoute = TeachingsRouteImport.update({
@@ -243,12 +231,10 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
-  '/assistant': typeof AssistantRoute
   '/downloads': typeof DownloadsRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
-  '/study-answer': typeof StudyAnswerRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
   '/concordance/$book': typeof ConcordanceBookRoute
@@ -283,12 +269,10 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
-  '/assistant': typeof AssistantRoute
   '/downloads': typeof DownloadsRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
-  '/study-answer': typeof StudyAnswerRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
   '/concordance/$book': typeof ConcordanceBookRoute
@@ -324,12 +308,10 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
-  '/assistant': typeof AssistantRoute
   '/downloads': typeof DownloadsRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
-  '/study-answer': typeof StudyAnswerRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
   '/concordance/$book': typeof ConcordanceBookRoute
@@ -366,12 +348,10 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/api'
-    | '/assistant'
     | '/downloads'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
-    | '/study-answer'
     | '/teachings'
     | '/truth-shall-make-you-free'
     | '/concordance/$book'
@@ -406,12 +386,10 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/api'
-    | '/assistant'
     | '/downloads'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
-    | '/study-answer'
     | '/teachings'
     | '/truth-shall-make-you-free'
     | '/concordance/$book'
@@ -446,12 +424,10 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/api'
-    | '/assistant'
     | '/downloads'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
-    | '/study-answer'
     | '/teachings'
     | '/truth-shall-make-you-free'
     | '/concordance/$book'
@@ -487,12 +463,10 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
   ApiRoute: typeof ApiRoute
-  AssistantRoute: typeof AssistantRoute
   DownloadsRoute: typeof DownloadsRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
-  StudyAnswerRoute: typeof StudyAnswerRoute
   TeachingsRoute: typeof TeachingsRoute
   TruthShallMakeYouFreeRoute: typeof TruthShallMakeYouFreeRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
@@ -547,13 +521,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ApiRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/assistant': {
-      id: '/assistant'
-      path: '/assistant'
-      fullPath: '/assistant'
-      preLoaderRoute: typeof AssistantRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/downloads': {
       id: '/downloads'
       path: '/downloads'
@@ -580,13 +547,6 @@ declare module '@tanstack/react-router' {
       path: '/sitemap.xml'
       fullPath: '/sitemap.xml'
       preLoaderRoute: typeof SitemapDotxmlRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/study-answer': {
-      id: '/study-answer'
-      path: '/study-answer'
-      fullPath: '/study-answer'
-      preLoaderRoute: typeof StudyAnswerRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/teachings': {
@@ -799,12 +759,10 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
   ApiRoute: ApiRoute,
-  AssistantRoute: AssistantRoute,
   DownloadsRoute: DownloadsRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
-  StudyAnswerRoute: StudyAnswerRoute,
   TeachingsRoute: TeachingsRoute,
   TruthShallMakeYouFreeRoute: TruthShallMakeYouFreeRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,

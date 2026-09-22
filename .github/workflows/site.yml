@@ -54,5 +54,4 @@ jobs:
           # rather than committed.
           ID=$(../.github/scripts/d1-id.sh cyberjudah)
           sed -i "s/00000000-0000-0000-0000-000000000000/$ID/" wrangler.jsonc
-          npx wrangler d1 execute cyberjudah --remote --file=migrations/0001-study-assistant.sql
           npx wrangler deploy

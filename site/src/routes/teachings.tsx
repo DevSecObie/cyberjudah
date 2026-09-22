@@ -14,6 +14,15 @@ export const Route = createFileRoute('/teachings')({
 });
 const collections: Record<string,string> = { classes: 'Classes', captains: 'Captains', history: 'Our Hidden History' };
 function timestamp(value: number) { const n = Math.max(0,Math.floor(Number(value)||0)); return n >= 3600 ? `${Math.floor(n/3600)}:${String(Math.floor(n/60)%60).padStart(2,'0')}:${String(n%60).padStart(2,'0')}` : `${Math.floor(n/60)}:${String(n%60).padStart(2,'0')}`; }
+function VideoThumbnail({video,title,start,eager}: {video:string;title:string;start:number;eager:boolean}) {
+  const [failed,setFailed] = useState(false);
+  const seek = Math.max(0,Math.floor(Number(start)||0));
+  return <a className="teaching-thumbnail" href={`https://www.youtube.com/watch?v=${encodeURIComponent(video)}&t=${seek}s`} target="_blank" rel="noreferrer" aria-label={`Watch ${title} at ${timestamp(start)}`}>
+    {failed ? <span className="teaching-thumbnail__fallback">Preview unavailable</span> : <img src={`https://i.ytimg.com/vi/${encodeURIComponent(video)}/mqdefault.jpg`} width={320} height={180} alt="" loading={eager ? 'eager' : 'lazy'} decoding="async" onError={()=>setFailed(true)}/>}
+    <span className="teaching-thumbnail__play" aria-hidden="true">▶</span>
+    <span className="teaching-thumbnail__time" aria-hidden="true">{timestamp(start)}</span>
+  </a>;
+}
 function Teachings() {
   const search = Route.useSearch(); const result = Route.useLoaderData(); const navigate = useNavigate();
   const [q,setQ] = useState(search.q); const [feed,setFeed] = useState(search.feed);
@@ -21,7 +30,6 @@ function Teachings() {
   return <Page>
     <p className="cj-kicker">The teaching library</p><h1 className="cj-h1">Search teachings.</h1>
     <p className="cj-lede">Find a passage. Open the recording where it was spoken. Read the class notes alongside it.</p>
-    <p style={{marginTop:"1rem"}}><Link to="/assistant">Ask the AI study assistant →</Link></p>
     <form role="search" onSubmit={e => { e.preventDefault(); navigate({ to:'/teachings', search:{q:q.trim(),feed,page:1} }); }} style={{margin:'2rem 0'}}>
       <div className="search-form"><input aria-label="Search teachings" placeholder='Try forgiveness or "love thy neighbour"' value={q} onChange={e=>setQ(e.target.value)} maxLength={200}/><button className="search-go" type="submit">Search</button></div>
       <label style={{display:'block',marginTop:'1rem'}}>Collection <select value={feed} onChange={e=>{ setFeed(e.target.value); if (search.q) navigate({to:'/teachings',search:{q:search.q,feed:e.target.value,page:1}}); }} style={{padding:'.6rem',marginLeft:'.75rem',color:'inherit',background:'var(--color-bg)'}}><option value="">All collections</option>{Object.entries(collections).map(([key,name])=><option key={key} value={key}>{name}</option>)}</select></label>
@@ -30,11 +38,14 @@ function Teachings() {
     {!search.q && <div><p style={{marginTop:'1rem'}}>Explore: {['forgiveness','Sabbath','Isaiah'].map(term=><Link key={term} to="/teachings" search={{q:term,feed:'',page:1}} style={{marginRight:'1rem'}}>{term}</Link>)}</p></div>}
     {result.unavailable ? <p role="status">Teaching search is currently unavailable. Please try again later. <Link to="/search" search={{q:search.q,only:undefined}}>Search published notes and scripture</Link></p> : search.q && <>
       <p className="cj-mono" role="status">{result.hits.length ? `Results ${(search.page-1)*20+1}–${(search.page-1)*20+result.hits.length} for “${search.q}” · Page ${search.page}` : 'No matching passages. Try fewer words or another collection.'}</p>
-      {result.hits.map((hit,i)=><article key={`${hit.video}:${hit.start}:${i}`} style={{padding:'1.5rem 0',borderBottom:'1px solid var(--color-muted)'}}>
+      {result.hits.map((hit,i)=><article className="teaching-result" key={`${hit.video}:${hit.start}:${i}`} style={{padding:'1.5rem 0',borderBottom:'1px solid var(--color-muted)'}}>
+        <VideoThumbnail video={hit.video} title={hit.title} start={hit.start} eager={i<3}/>
+        <div className="teaching-result__body">
         <p className="cj-mono">{collections[hit.feed] || hit.feed} · {hit.date || 'Date unavailable'} · {timestamp(hit.start)}</p>
         <h2 style={{fontSize:'1.5rem',margin:'.5rem 0'}}><a href={`https://www.youtube.com/watch?v=${encodeURIComponent(hit.video)}&t=${Math.max(0,Math.floor(Number(hit.start)||0))}s`} target="_blank" rel="noreferrer">{<SearchHighlight text={hit.matchedTitle || hit.title} />}</a></h2>
         <p style={{lineHeight:1.7}}><SearchHighlight text={hit.excerpt} /></p>
-        <div style={{display:'flex',gap:'1.5rem',marginTop:'.75rem'}}><a href={`https://www.youtube.com/watch?v=${encodeURIComponent(hit.video)}&t=${Math.max(0,Math.floor(Number(hit.start)||0))}s`} target="_blank" rel="noreferrer">{hit.timing === 'caption' ? 'Watch match at' : 'Watch passage from'} {timestamp(hit.start)} ↗</a>{hit.note && <Link to={hit.note as never}>Read notes →</Link>}</div>
+        <div style={{display:'flex',gap:'1.5rem',flexWrap:'wrap',marginTop:'.75rem'}}><a href={`https://www.youtube.com/watch?v=${encodeURIComponent(hit.video)}&t=${Math.max(0,Math.floor(Number(hit.start)||0))}s`} target="_blank" rel="noreferrer">{hit.timing === 'caption' ? 'Watch match at' : 'Watch passage from'} {timestamp(hit.start)} ↗</a>{hit.note && <Link to={hit.note as never}>Read notes →</Link>}</div>
+        </div>
       </article>)}
       <nav aria-label="Result pages" style={{display:'flex',gap:'2rem',marginTop:'2rem'}}>{search.page>1 && <Link to="/teachings" search={{...search,page:search.page-1}}>← Previous</Link>}{result.more && <Link to="/teachings" search={{...search,page:search.page+1}}>Next →</Link>}</nav>
     </>}

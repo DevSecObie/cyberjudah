@@ -8,5 +8,5 @@ interface D1PreparedStatement {
 }
 interface D1Database { prepare(query: string): D1PreparedStatement; batch<T = Record<string, unknown>>(statements: D1PreparedStatement[]): Promise<D1Result<T>[]> }
 declare module "cloudflare:workers" {
-  export const env: { DB?: D1Database; GEMINI_API_KEY?: string; STUDY_GEMINI_FREE_ONLY?: string; STUDY_CLOUDFLARE_FREE_ONLY?: string; AI?: { run(model: string, input: Record<string, unknown>): Promise<unknown> }; ASSETS?: { fetch: typeof fetch } };
+  export const env: { DB?: D1Database; ASSETS?: { fetch: typeof fetch } };
 }
