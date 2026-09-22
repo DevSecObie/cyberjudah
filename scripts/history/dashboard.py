@@ -6,6 +6,8 @@ import json
 import os
 import re
 import glob
+import shutil
+import subprocess
 from datetime import datetime, timezone
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -76,6 +78,33 @@ def listing_api(channel):
     return rows
 
 
+def listing_youtube(channel):
+    """Inventory every public channel surface without spending TranscriptAPI calls."""
+    tabs = ("videos", "streams", "shorts") if channel == "IUICRaleigh" else ("videos", "streams")
+    videos = []
+    seen = set()
+    failures = []
+    executable = ["yt-dlp"] if shutil.which("yt-dlp") else ["python3", "-m", "yt_dlp"]
+    for tab in tabs:
+        result = subprocess.run(
+            executable + ["--flat-playlist", "--print", "%(id)s", f"https://www.youtube.com/@{channel}/{tab}"],
+            text=True,
+            capture_output=True,
+            timeout=180,
+        )
+        if result.returncode != 0:
+            failures.append(f"{tab}: {result.stderr.strip()[-160:]}")
+            continue
+        for video_id in result.stdout.splitlines():
+            video_id = video_id.strip()
+            if re.fullmatch(r"[\w-]{11}", video_id) and video_id not in seen:
+                seen.add(video_id)
+                videos.append(video_id)
+    if not videos and failures:
+        raise RuntimeError("; ".join(failures))
+    return videos
+
+
 def read_set(path):
     if not os.path.exists(path):
         return set()
@@ -102,7 +131,7 @@ def build_entry(feed, channel):
     no_captions_ids = read_set(os.path.join(feed_path, "no-captions.tsv"))
     age_restricted_ids = read_set(os.path.join(feed_path, "age-restricted.tsv"))
 
-    videos = listing_api(channel)
+    videos = listing_youtube(channel)
     to_fetch = [vid for vid in videos if vid not in done_ids]
     in_vault = len(videos) - len(to_fetch)
     progress = (in_vault / len(videos) * 100.0) if videos else 100.0

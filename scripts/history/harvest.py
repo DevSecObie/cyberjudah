@@ -265,11 +265,15 @@ def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views, ch
 
 
 def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, feed):
+    sh(["git", "-C", root, "config", "user.name", "github-actions[bot]"])
+    sh(["git", "-C", root, "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
     sh(["git", "-C", root, "add", "--", *[p for p in (tdir, nocap, agegate, meta_all) if os.path.exists(p)]])
-    sh([
+    commit = sh([
         "git", "-C", root, "commit", "-q",
         "-m", f"transcripts: {feed} +{len(added)} ({len(added) + nosub} this run)\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
     ])
+    if commit.returncode != 0:
+        raise RuntimeError(f"transcript commit failed: {commit.stderr.strip()[-300:]}")
     tok = os.environ.get("GJT", "")
     env = {k: v for k, v in os.environ.items() if k.lower() not in ("https_proxy", "http_proxy")}
     r = None
@@ -286,8 +290,10 @@ def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, fe
             "credential.helper=!f() { echo username=x-access-token; echo \"password=$GJT\"; }; f",
             "pull", "--rebase", "-q", "origin", "main"
         ], env=env)
-    if r is not None:
-        print(f"push: {'ok' if r.returncode == 0 else re.sub(r'github_pat_[A-Za-z0-9_]*', '[REDACTED]', r.stderr.strip()[-300:])}", flush=True)
+    if r is None or r.returncode != 0:
+        detail = "push did not run" if r is None else re.sub(r'github_pat_[A-Za-z0-9_]*', '[REDACTED]', r.stderr.strip()[-300:])
+        raise RuntimeError(f"transcript push failed: {detail}")
+    print("push: ok", flush=True)
 
 
 def main():
