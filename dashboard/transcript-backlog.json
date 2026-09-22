@@ -3,15 +3,15 @@
   "feeds": [
     {
       "age_restricted": 1,
-      "already_in_vault": 357,
+      "already_in_vault": 1237,
       "channel": "iuicintheclassroom2",
-      "completed": 357,
+      "completed": 1237,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 1,
-      "progress_pct": 89.47,
-      "to_fetch": 42,
-      "videos": 399
+      "progress_pct": 86.93,
+      "to_fetch": 186,
+      "videos": 1423
     },
     {
       "age_restricted": 0,
@@ -37,7 +37,19 @@
       "progress_pct": 83.24,
       "to_fetch": 30,
       "videos": 179
+    },
+    {
+      "age_restricted": 1,
+      "already_in_vault": 196,
+      "channel": "IUICRaleigh",
+      "completed": 196,
+      "feed": "classes",
+      "no_backlog": false,
+      "no_captions": 1,
+      "progress_pct": 4.99,
+      "to_fetch": 3733,
+      "videos": 3929
     }
   ],
-  "generated_at": "2026-09-22T01:19:06.378071+00:00"
+  "generated_at": "2026-09-22T06:39:31.029769+00:00"
 }
