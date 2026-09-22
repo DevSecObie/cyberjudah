@@ -21,6 +21,7 @@ function Teachings() {
   return <Page>
     <p className="cj-kicker">The teaching library</p><h1 className="cj-h1">Search teachings.</h1>
     <p className="cj-lede">Find a passage. Open the recording where it was spoken. Read the class notes alongside it.</p>
+    <p style={{marginTop:"1rem"}}><Link to="/assistant">Ask the AI study assistant →</Link></p>
     <form role="search" onSubmit={e => { e.preventDefault(); navigate({ to:'/teachings', search:{q:q.trim(),feed,page:1} }); }} style={{margin:'2rem 0'}}>
       <div className="search-form"><input aria-label="Search teachings" placeholder='Try forgiveness or "love thy neighbour"' value={q} onChange={e=>setQ(e.target.value)} maxLength={200}/><button className="search-go" type="submit">Search</button></div>
       <label style={{display:'block',marginTop:'1rem'}}>Collection <select value={feed} onChange={e=>{ setFeed(e.target.value); if (search.q) navigate({to:'/teachings',search:{q:search.q,feed:e.target.value,page:1}}); }} style={{padding:'.6rem',marginLeft:'.75rem',color:'inherit',background:'var(--color-bg)'}}><option value="">All collections</option>{Object.entries(collections).map(([key,name])=><option key={key} value={key}>{name}</option>)}</select></label>

@@ -16,6 +16,7 @@ const GROUPS: NavGroup[] = [
   {
     label: "Teaching",
     items: [
+      { to: "/assistant", label: "AI Study Assistant", blurb: "Ask questions with sources from the teaching library." },
       { to: "/classes", label: "Sabbath Classes", blurb: "Each class written up in full, scriptures cited inline." },
       { to: "/truth-shall-make-you-free", label: "The Truth Shall Make You Free", blurb: "The complete teaching series, converted into clear scripture-linked notes." },
       { to: "/captains", label: "15 Min w/Captains", blurb: "Short teachings, one subject at a time." },

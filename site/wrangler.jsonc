@@ -6,6 +6,8 @@
   "compatibility_flags": ["nodejs_compat"],
   "observability": { "enabled": true },
   "workers_dev": true,
+  "keep_vars": true,
+  "ai": { "binding": "AI" },
   // Static files in dist/client serve directly; every other path (including /) is
   // rendered by the Worker. The domain records are created by Cloudflare on deploy.
   "assets": { "directory": "./dist/client", "binding": "ASSETS", "not_found_handling": "none" },
