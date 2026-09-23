@@ -3,7 +3,7 @@ title: "FROM NEGROES TO GODS FROM EARTH TO GOLD"
 slug: "2026/2026-09-19-from-negroes-to-gods-from-earth-to-gold"
 date: "2026-09-19"
 description: "IUIC in the ClassRoom · 2026-09-19"
-tags: ["IUIC in the ClassRoom", "discipline", "leadership", "purpose", "repentance", "wisdom"]
+tags: ["IUIC in the ClassRoom", "leadership"]
 teacher: "Captain Amaziah"
 ---
 
@@ -49,7 +49,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 ## Scriptures Opened
 
-**[Baruch 3:10-11](/bible/baruch/3#v10)**  *[10:26]*
+**[Baruch 3:10-11](/bible/baruch/3#v10)**  *[[10:26](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=626s)]*
 
 > <sup>[10](/bible/baruch/3#v10)</sup> How happeneth it Israel, that thou art in thine enemies’ land, that thou art waxen old in a strange country, that thou art defiled with the dead,
 >
@@ -65,7 +65,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - That thou art counted with them that go down into the grave. Go to Proverbs 21:16. We going to build a little bit. How did this happen to you, that you are defiled with the dead?
 
-**[Proverbs 21:16](/bible/proverbs/21#v16)**  *[12:25]*
+**[Proverbs 21:16](/bible/proverbs/21#v16)**  *[[12:25](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=745s)]*
 
 > <sup>[16](/bible/proverbs/21#v16)</sup> The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
 
@@ -77,7 +77,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - The man that wandereth out of the way of understanding shall remain in the congregation of the dead. He that loveth pleasure... That's it. That's it. Go back now. Go back to Baruch. No, verse 10.
 
-**[Baruch 3:10](/bible/baruch/3#v10)**  *[13:15]*
+**[Baruch 3:10](/bible/baruch/3#v10)**  *[[13:15](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=795s)]*
 
 > <sup>[10](/bible/baruch/3#v10)</sup> How happeneth it Israel, that thou art in thine enemies’ land, that thou art waxen old in a strange country, that thou art defiled with the dead,
 
@@ -85,7 +85,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - That thou art waxen old in a strange country. In a strange country. Now that you're in a strange country, what else has happened to us? Jeremiah 17, verse 4 through 5. Jeremiah 17. And this is all our reality right here.
 
-**[Jeremiah 17:4-5](/bible/jeremiah/17#v4)**  *[14:08]*
+**[Jeremiah 17:4-5](/bible/jeremiah/17#v4)**  *[[14:08](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=848s)]*
 
 > <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
 >
@@ -109,7 +109,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now, watch this. Proverbs 13 and 12. This is a Bishop Yahawashi favourite right here. Shout out to Bishop Yahawashi.
 
-**[Proverbs 13:12](/bible/proverbs/13#v12)**  *[15:51]*
+**[Proverbs 13:12](/bible/proverbs/13#v12)**  *[[15:51](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=951s)]*
 
 > <sup>[12](/bible/proverbs/13#v12)</sup> Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
 
@@ -129,7 +129,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now give me Hosea 4:1. We're going to read 1 through 3.
 
-**[Hosea 4:1-3](/bible/hosea/4#v1)**  *[18:19]*
+**[Hosea 4:1-3](/bible/hosea/4#v1)**  *[[18:19](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1099s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 >
@@ -155,7 +155,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. All right. So give me Psalms 106:34. We're going to read through 41.
 
-**[Psalms 106:34-41](/bible/psalms/106#v34)**  *[21:59]*
+**[Psalms 106:34-41](/bible/psalms/106#v34)**  *[[21:59](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1319s)]*
 
 > <sup>[34](/bible/psalms/106#v34)</sup> They did not destroy the nations, concerning whom the Lord commanded them:
 >
@@ -203,7 +203,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now watch this. Psalms 51 and 5.
 
-**[Psalms 51:5](/bible/psalms/51#v5)**  *[26:23]*
+**[Psalms 51:5](/bible/psalms/51#v5)**  *[[26:23](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1583s)]*
 
 > <sup>[5](/bible/psalms/51#v5)</sup> Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 
@@ -211,7 +211,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And in sin did my mother conceive me. So we're born with certain lusts. We're born with certain spirits. And guess what happened? What has happened with those spirits here in America, y'all? Do we have a mic? Now, knowing that we have these spirits in us already... matter of fact, before you answer that, watch this. Mark 7:21. Let's just get the spirits.
 
-**[Mark 7:21-23](/bible/mark/7#v21)**  *[27:23]*
+**[Mark 7:21-23](/bible/mark/7#v21)**  *[[27:23](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1643s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
 >
@@ -241,7 +241,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Very good. So I'm going to give you what I think is a better word. America enhances those spirits, or even cultivates those spirits. Can we look up that word cultivate? America allows these spirits that we already have inside of us to thrive, and they put them spirits on the forefront, and they make it desirable, and they entice not just the younger, but they entice our people to go after that and be just like that. So they put the worst examples of our people out in the forefront to make us desire that. Read it.
 
-*[29:21]*
+*[[29:21](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1761s)]*
 
 > Cultivate. To prepare and use for the raising of crops. To foster the growth of. Culture. To improve by labour, care, or study. Refine.
 
@@ -253,7 +253,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Okay, we read Mark 7:21. Second Esdras 7:57.
 
-**[2 Esdras 7:57](/bible/2-esdras/7#v57)**  *[31:56]*
+**[2 Esdras 7:57](/bible/2-esdras/7#v57)**  *[[31:56](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1916s)]*
 
 > <sup>[57](/bible/2-esdras/7#v57)</sup> Then answered he me, and said, This is the condition of the battle, which man that is born upon the earth shall fight;
 
@@ -265,7 +265,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Romans 13 and 11.
 
-**[Romans 13:11](/bible/romans/13#v11)**  *[33:01]*
+**[Romans 13:11](/bible/romans/13#v11)**  *[[33:01](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=1981s)]*
 
 > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
 
@@ -281,7 +281,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Hold on. Before you get Deuteronomy 11, give me Baruch 2:30. Watch the prophecy now. Now this prophecy is all of us right here.
 
-**[Baruch 2:30-34](/bible/baruch/2#v30)**  *[35:03]*
+**[Baruch 2:30-34](/bible/baruch/2#v30)**  *[[35:03](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2103s)]*
 
 > <sup>[30](/bible/baruch/2#v30)</sup> For I knew that they would not hear me, because it is a stiffnecked people: but in the land of their captivities they shall remember themselves.
 >
@@ -315,7 +315,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - So that was the prophecy. You gonna wake up, hear this Bible, and repent, and begin to do the works of the Lord. Now keep these commandments. Deuteronomy, chapter 1, verse 13.
 
-**[Deuteronomy 1:13-14](/bible/deuteronomy/1#v13)**  *[37:24]*
+**[Deuteronomy 1:13-14](/bible/deuteronomy/1#v13)**  *[[37:24](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2244s)]*
 
 > <sup>[13](/bible/deuteronomy/1#v13)</sup> Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
 >
@@ -371,7 +371,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Hey, real quick, give me that scripture: Isaiah 62 and 6, that cry day and night. Think about something, y'all. What good is it, you coming in here, you say you want to change your life, you was an introvert in the world, but now you come in here and you remain an introvert? That's not what we're raising here. We're not raising nobody to be no damn introvert. We're raising you to be a lion. A lion go out on the streets and bring forth God's words with power. Do y'all understand that? So we ain't looking for no mealy-mouthed, soft dudes. All right. Read it.
 
-**[Isaiah 62:6](/bible/isaiah/62#v6)**  *[44:17]*
+**[Isaiah 62:6](/bible/isaiah/62#v6)**  *[[44:17](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2657s)]*
 
 > <sup>[6](/bible/isaiah/62#v6)</sup> I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,
 
@@ -385,7 +385,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - **Captain (at the table):** Hey, read Isaiah 42 and verse 13. Because if we're supposed to be replications of Christ, you got to understand the spirit that Christ had in him. Read that. Come on, read it with power.
 
-**[Isaiah 42:13](/bible/isaiah/42#v13)**  *[45:01]*
+**[Isaiah 42:13](/bible/isaiah/42#v13)**  *[[45:01](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2701s)]*
 
 > <sup>[13](/bible/isaiah/42#v13)</sup> The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.
 
@@ -397,7 +397,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - **Captain (at the table):** All right. So I want you to go to Numbers 16 and 2. We're going to go on the point now real quick. So y'all have to realize that having a reputation, it comes from experience. Y'all said some of the key words, but y'all weren't hitting the point like Cap was trying to get y'all to hit. Go ahead, read that real quick.
 
-**[Numbers 16:2](/bible/numbers/16#v2)**  *[46:00]*
+**[Numbers 16:2](/bible/numbers/16#v2)**  *[[46:00](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2760s)]*
 
 > <sup>[2](/bible/numbers/16#v2)</sup> And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
 
@@ -409,7 +409,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - **Captain (at the table):** Men of renown. Renown. Can we get a definition for renown real quick, and then I'll pass. So y'all have to realize, what Cap is saying is that being known, of experience, it brings forth someone that has influence. All right, let's read that.
 
-*[47:07]*
+*[[47:07](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2827s)]*
 
 > Renown. Widespread fame, respect, and acclaim earned through great achievements or character.
 
@@ -421,7 +421,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - All praises. Go back to Deuteronomy 1, verse 15.
 
-**[Deuteronomy 1:15-16](/bible/deuteronomy/1#v15)**  *[47:57]*
+**[Deuteronomy 1:15-16](/bible/deuteronomy/1#v15)**  *[[47:57](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2877s)]*
 
 > <sup>[15](/bible/deuteronomy/1#v15)</sup> So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
 >
@@ -443,7 +443,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - All righty then. Now put up my first picture. Don't put it on public yet. As a good leader, you need what? Certain qualities. Would y'all agree? Because if you don't have certain qualities, you're going to destroy lives and destroy spirits. Y'all with me, sisters? Am I right or am I wrong? All right, put it up.
 
-*[50:08]*
+*[[50:08](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3008s)]*
 
 > Ten qualities of a good leader. Number one, physical features.
 
@@ -467,7 +467,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Even when no one's watching, we have to maintain our moral principles. Y'all with me? Oh, hold on. Give me a scripture. Philippians, give me that one. Philippians chapter 2, verse 12. Come on.
 
-**[Philippians 2:12](/bible/philippians/2#v12)**  *[53:30]*
+**[Philippians 2:12](/bible/philippians/2#v12)**  *[[53:30](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3210s)]*
 
 > <sup>[12](/bible/philippians/2#v12)</sup> Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 
@@ -479,7 +479,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Go back. Go to number four.
 
-*[54:37]*
+*[[54:37](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3277s)]*
 
 > Number four, vision.
 
@@ -487,13 +487,13 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Maybe the vision is, let's turn that outside there in the grass into more of a parking lot. Maybe that's the vision, the short-term vision. Maybe the vision is, let's get another building. That's another vision, right? Okay. But if there is no vision and you just here doing nothing and just breaking bread every week, the people are not going to necessarily follow you wholeheartedly. Y'all with me? All right, read the scripture.
 
-**[Proverbs 29:18](/bible/proverbs/29#v18)**  *[55:30]*
+**[Proverbs 29:18](/bible/proverbs/29#v18)**  *[[55:30](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3330s)]*
 
 > <sup>[18](/bible/proverbs/29#v18)</sup> Where there is no vision, the people perish: but he that keepeth the law, happy is he.
 
 - Where there is no vision, the people perish. Because where there's no vision, the people eventually going to go back into the world. The people are going to be destroyed. Okay. Number five.
 
-*[56:04]*
+*[[56:04](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3364s)]*
 
 > Number five, initiative.
 >
@@ -509,7 +509,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And guess what, sisters? Let's be honest. When men have that kind of spirit where they let you do what you want and you can act however you want, be honest, do you respect those men? Say it louder, sisters. Okay. Music to my ears. So I hope y'all brothers hear what the sisters said. Did y'all hear that? If the sisters don't respect you, guess what? They just tolerating you right now. You understand? That ain't what you looking for. I'm glad she said that. She said it pretty confident and loud, too. I like that. Six.
 
-*[58:20]*
+*[[58:20](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3500s)]*
 
 > Number six, motivation skills.
 
@@ -519,7 +519,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - If the people don't see that you're confident in what you believe, and what your behaviour says, and your discipline, guess what? They're not going to follow you. They're not going to want to follow you. They're not going to come ask you questions. They're not going to tell you certain things that's going on in the body if they don't see that self-confidence in you. Number eight.
 
-*[59:13]*
+*[[59:13](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3553s)]*
 
 > Number eight, social skills.
 
@@ -527,7 +527,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - You got to have social skills where you're able to communicate with each other effectively. Effective communication. Okay. Number nine.
 
-*[1:00:12]*
+*[[1:00:12](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3612s)]*
 
 > Number nine, communication skills.
 
@@ -547,13 +547,13 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - **Captain (at the table):** Hey, man. Y'all stop being bashful, for real, man. Get some courage, brother. What the hell is wrong with you?
 
-*[1:02:52]*
+*[[1:02:52](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3772s)]*
 
 - Romans 12 and 1. No, no, no. Give me my video first, because there's something else that goes along with leadership qualities. Okay, put it like this. Trust and believe, the ten qualities we just named, we're all works in progress and working on it. Some may be better in some areas than others. We're all different, right? But nonetheless, we are all working to get those qualities and be the best we can be at those qualities. Y'all with me?
 
 - Now, with those qualities, here's what else has to happen. Now, this is from a worldly standpoint, an employee or an employer standpoint, but we're going to put it to the truth. Come on.
 
-*[1:03:53]*
+*[[1:03:53](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3833s)]*
 
 > The real job of a leader is not about being in charge. It's about taking care of those in our charge. When we're junior, our only responsibility is to be good at our jobs. That's all we really have to do. And if you're good at your job, they'll promote you. And at some point, you'll get promoted to a position where we're now responsible for the people who do the job we used to do. But nobody shows us how to do that.
 >
@@ -585,7 +585,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - **Captain (at the table):** An example of it, and it's not specific to it, but when you look at Acts chapter 6, verse 2, 3, and then I want you to jump down to 7. So the twelve had to make decisions when it came to specific offices. So a part of a leader is being able to know when to give responsibilities to men. So read that.
 
-**[Acts 6:2-3,7](/bible/acts/6#v2)**  *[1:08:03]*
+**[Acts 6:2-3,7](/bible/acts/6#v2)**  *[[1:08:03](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=4083s)]*
 
 > <sup>[2](/bible/acts/6#v2)</sup> Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables.
 >
@@ -615,7 +615,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Hey, go to Acts 9:29. That's what I wanted. Acts 9:29. I'll give you an example of leadership and what it looks like for the church.
 
-**[Acts 9:29-31](/bible/acts/9#v29)**  *[1:12:08]*
+**[Acts 9:29-31](/bible/acts/9#v29)**  *[[1:12:08](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=4328s)]*
 
 > <sup>[29](/bible/acts/9#v29)</sup> And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
 >
@@ -639,7 +639,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now watch this. Give me Romans 12:1. Because at the end of the video he said, as a leader, you have to what? Begins with the letter S. Sacrifice. Guess what? You're going to have to sacrifice time, your family, your friends, your job maybe, right? Your well-being. Okay, come on.
 
-**[Romans 12:1](/bible/romans/12#v1)**  *[1:13:35]*
+**[Romans 12:1](/bible/romans/12#v1)**  *[[1:13:35](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=4415s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 
@@ -651,7 +651,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now watch this. First Peter 5 and 1. What time is it? Come on.
 
-**[1 Peter 5:1-3](/bible/1-peter/5#v1)**  *[1:15:29]*
+**[1 Peter 5:1-3](/bible/1-peter/5#v1)**  *[[1:15:29](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=4529s)]*
 
 > <sup>[1](/bible/1-peter/5#v1)</sup> The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
 >
@@ -707,7 +707,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now, if they see other things that's not right in you, then they're going to veer away from you. You understand? The respect level is not going to be there. Now give me Sirach 10:21, because the Bible says, neither as being lords over God's heritage. What happens when you're lording over the flock?
 
-**[Sirach 10:21](/bible/sirach/10#v21)**  *[1:23:30]*
+**[Sirach 10:21](/bible/sirach/10#v21)**  *[[1:23:30](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5010s)]*
 
 > <sup>[21](/bible/sirach/10#v21)</sup> The fear of the Lord goeth before the obtaining of authority: but roughness and pride is the losing thereof.
 
@@ -717,7 +717,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - So your job is not to lord over, intimidate. What's some good words, y'all? Huh? Be a dictator. No, no, no. A tyrant. That's the word. You're not supposed to be a tyrant over here. The people ain't supposed to necessarily fear you. They're supposed to respect you. Y'all with me? Jump to verse 25.
 
-**[Sirach 10:25](/bible/sirach/10#v25)**  *[1:24:29]*
+**[Sirach 10:25](/bible/sirach/10#v25)**  *[[1:24:29](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5069s)]*
 
 > <sup>[25](/bible/sirach/10#v25)</sup> Unto the servant that is wise shall they that are free do service: and he that hath knowledge will not grudge when he is reformed.
 
@@ -731,7 +731,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Watch this. Proverbs 6:23. A leader that can't take correction, that is a dangerous spirit there. But watch what the Bible says right here.
 
-**[Proverbs 6:23](/bible/proverbs/6#v23)**  *[1:26:17]*
+**[Proverbs 6:23](/bible/proverbs/6#v23)**  *[[1:26:17](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5177s)]*
 
 > <sup>[23](/bible/proverbs/6#v23)</sup> For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:
 
@@ -743,7 +743,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now go back to First Peter 5. Now we're going to read 4 and 5. Not chapter 4. First Peter, I'm sorry. Back to chapter 5, verses 4 and 5.
 
-**[1 Peter 5:4-5](/bible/1-peter/5#v4)**  *[1:28:26]*
+**[1 Peter 5:4-5](/bible/1-peter/5#v4)**  *[[1:28:26](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5306s)]*
 
 > <sup>[4](/bible/1-peter/5#v4)</sup> And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.
 >
@@ -761,7 +761,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And be clothed with humility: for God resisteth the proud. So it said, clothed with humility. Give me the definition of that word humility. We looked up the definition of integrity, right? And we got to have that quality as leaders. Integrity was the characteristic of being honest when nobody's looking. I know I'm jacking it up, but that's it for the most part. Read that.
 
-*[1:29:14]*
+*[[1:29:14](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5354s)]*
 
 > Humility: the quality of having a modest, unpretentious view of your own importance, strengths, and limitations.
 >
@@ -773,7 +773,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Because guess what? If you do have that type of spirit, I want you to think about something. How are you really better, when we're all collectively at the bottom still? You see, you being better than me means absolutely nothing in the grand scheme of things. We're still at the bottom. We still went into slavery together. We born in the ghettos of America together. What's the difference? What you arrogant for? What you got pride for? Read it.
 
-**[Sirach 10:12](/bible/sirach/10#v12)**  *[1:30:12]*
+**[Sirach 10:12](/bible/sirach/10#v12)**  *[[1:30:12](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5412s)]*
 
 > <sup>[12](/bible/sirach/10#v12)</sup> The beginning of pride is when one departeth from God, and his heart is turned away from his Maker.
 
@@ -785,7 +785,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - and his heart is turned away from his Maker. That's a dangerous spirit, a dangerous position to be in right there. Now go back to First Peter 5.
 
-**[1 Peter 5:5-8](/bible/1-peter/5#v5)**  *[1:31:50]*
+**[1 Peter 5:5-8](/bible/1-peter/5#v5)**  *[[1:31:50](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5510s)]*
 
 > <sup>[5](/bible/1-peter/5#v5)</sup> Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
 >
@@ -819,7 +819,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Very good. For instance, division, gossip, disunity, doubt, confusion: those are things Satan will use to destroy us. Miscommunications, grudges: those things are what Satan will use to destroy a body. But watch this. Ephesians 5:15. Start at 14.
 
-**[Ephesians 5:14-15](/bible/ephesians/5#v14)**  *[1:34:33]*
+**[Ephesians 5:14-15](/bible/ephesians/5#v14)**  *[[1:34:33](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5673s)]*
 
 > <sup>[14](/bible/ephesians/5#v14)</sup> Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.
 >
@@ -833,7 +833,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - See then that ye walk circumspectly. What does circumspect mean now? Give me the Google definition. What it say on Google? Circumspect. Anybody know? Read it.
 
-*[1:35:35]*
+*[[1:35:35](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5735s)]*
 
 > Circumspect: thinking very carefully about possible risks and consequences before acting or saying something.
 
@@ -841,7 +841,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Thinking very carefully about possible risks. We got to think about the risks before we make any moves or speak a certain way. And consequences: and we got to think of the consequences. Before acting: before we act on it. Or saying something: or before it comes out of our mouth as leaders. This is how we must walk circumspect. Now go back to Ephesians 5:15 again.
 
-**[Ephesians 5:15](/bible/ephesians/5#v15)**  *[1:36:26]*
+**[Ephesians 5:15](/bible/ephesians/5#v15)**  *[[1:36:26](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5786s)]*
 
 > <sup>[15](/bible/ephesians/5#v15)</sup> See then that ye walk circumspectly, not as fools, but as wise,
 
@@ -861,7 +861,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Yeah. First Corinthians 4:6. Let's get it.
 
-**[1 Corinthians 4:6](/bible/1-corinthians/4#v6)**  *[1:38:19]*
+**[1 Corinthians 4:6](/bible/1-corinthians/4#v6)**  *[[1:38:19](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5899s)]*
 
 > <sup>[6](/bible/1-corinthians/4#v6)</sup> And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
 
@@ -873,7 +873,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - In other words, it's really an insult for me to say to y'all, none of this is possible without me. What does it say about y'all? Y'all can't do nothing without me. Y'all are nobody without me. That's really what I'm saying. Y'all see that? Now I got another one. Matthew 3 and 9.
 
-**[Matthew 3:9](/bible/matthew/3#v9)**  *[1:40:13]*
+**[Matthew 3:9](/bible/matthew/3#v9)**  *[[1:40:13](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6013s)]*
 
 > <sup>[9](/bible/matthew/3#v9)</sup> And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.
 
@@ -897,7 +897,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - I'm going to give you a scripture. Jude 1:16. Now remember the question: why does a leader need trustworthy people around him?
 
-**[Jude 1:16](/bible/jude/1#v16)**  *[1:43:00]*
+**[Jude 1:16](/bible/jude/1#v16)**  *[[1:43:00](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6180s)]*
 
 > <sup>[16](/bible/jude/1#v16)</sup> These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men’s persons in admiration because of advantage.
 
@@ -933,7 +933,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now watch this. Go back to Sirach 10:21 and read that again. Now, as a leader, guess what? Some leaders get brought up. And what happens? Some leaders get what? Brought down, right? And that is a part of the journey. That is a part of being a leader, you know? So watch this.
 
-**[Sirach 10:21](/bible/sirach/10#v21)**  *[1:48:18]*
+**[Sirach 10:21](/bible/sirach/10#v21)**  *[[1:48:18](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6498s)]*
 
 > <sup>[21](/bible/sirach/10#v21)</sup> The fear of the Lord goeth before the obtaining of authority: but roughness and pride is the losing thereof.
 
@@ -941,7 +941,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - So now let's say you fixed that issue. You've been examined. You've been examining yourself. You see the errors in your ways. Galatians 6:1.
 
-**[Galatians 6:1](/bible/galatians/6#v1)**  *[1:49:17]*
+**[Galatians 6:1](/bible/galatians/6#v1)**  *[[1:49:17](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6557s)]*
 
 > <sup>[1](/bible/galatians/6#v1)</sup> Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 
@@ -955,7 +955,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now watch this. Give me Psalms 75 and 6. I forgot this one. I should have read this first, before Sirach 10.
 
-**[Psalms 75:6-7](/bible/psalms/75#v6)**  *[1:50:21]*
+**[Psalms 75:6-7](/bible/psalms/75#v6)**  *[[1:50:21](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6621s)]*
 
 > <sup>[6](/bible/psalms/75#v6)</sup> For promotion cometh neither from the east, nor from the west, nor from the south.
 >
@@ -965,7 +965,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Watch this. Now we're going to show you King David. First Samuel 18 and 5. Let's see how King David acted when he was under King Saul.
 
-**[1 Samuel 18:5-9](/bible/1-samuel/18#v5)**  *[1:51:24]*
+**[1 Samuel 18:5-9](/bible/1-samuel/18#v5)**  *[[1:51:24](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6684s)]*
 
 > <sup>[5](/bible/1-samuel/18#v5)</sup> And David went out whithersoever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.
 >
@@ -997,7 +997,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom? Now remember, Saul promoted David, right? Read verse 13 and 14.
 
-**[1 Samuel 18:13-14](/bible/1-samuel/18#v13)**  *[1:55:07]*
+**[1 Samuel 18:13-14](/bible/1-samuel/18#v13)**  *[[1:55:07](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=6907s)]*
 
 > <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
 >
@@ -1017,7 +1017,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Hey, watch this. I just thought about something. Second Esdras 10. Shout out to Bishop Kai. I remember this scripture he pulled. Second Esdras, is it 10:35, 10:15, something like that?
 
-**[2 Esdras 10:15](/bible/2-esdras/10#v15)**  *[1:57:48]*
+**[2 Esdras 10:15](/bible/2-esdras/10#v15)**  *[[1:57:48](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7068s)]*
 
 > <sup>[15](/bible/2-esdras/10#v15)</sup> Now therefore keep thy sorrow to thyself, and bear with a good courage that which hath befallen thee.
 
@@ -1031,7 +1031,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Some of you brothers, you not coming to class no more, because now you're making excuses. You miss the meetings now and all that kind of stuff. You're out of order, and you're not in the fight. You're emotional. We got to get that sound bite, So Emotional, Carl Thomas. Jump to verse 24.
 
-**[2 Esdras 10:24](/bible/2-esdras/10#v24)**  *[1:59:37]*
+**[2 Esdras 10:24](/bible/2-esdras/10#v24)**  *[[1:59:37](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7177s)]*
 
 > <sup>[24](/bible/2-esdras/10#v24)</sup> And therefore shake off thy great heaviness, and put away the multitude of sorrows, that the Mighty may be merciful unto thee again, and the Highest shall give thee rest and ease from thy labour.
 
@@ -1043,7 +1043,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now give me Sirach chapter 2, verse 4, because I diverted. But remember the scripture before that: we're talking about King David. How Saul dealt with him, and how King David dealt with a promotion, and how King David dealt with a demotion. Y'all with me? In all ways, how did King David behave himself? Wisely. Very good. Come on.
 
-**[Sirach 2:4](/bible/sirach/2#v4)**  *[2:00:28]*
+**[Sirach 2:4](/bible/sirach/2#v4)**  *[[2:00:28](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7228s)]*
 
 > <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
 
@@ -1057,7 +1057,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now you going to step away from your duties, and do it half-way? Huh? Yes. Willful neglect. That's not in the spirit of the Lord. You as a man of God, whether you have the rank or not, you should be doing the work. Does everybody understand that? Read. That was verse four? Okay. Jump to verse 14.
 
-**[Sirach 2:14](/bible/sirach/2#v14)**  *[2:02:17]*
+**[Sirach 2:14](/bible/sirach/2#v14)**  *[[2:02:17](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7337s)]*
 
 > <sup>[14](/bible/sirach/2#v14)</sup> Woe unto you that have lost patience! and what will ye do when the Lord shall visit you?
 
@@ -1067,7 +1067,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And what will ye do when the Lord shall visit you? Is that it? Hebrews 12:14. No, no, no. Before you get that, give me Sirach 10 and 2. I ain't even got this written down, but this is definitely needed.
 
-**[Sirach 10:2](/bible/sirach/10#v2)**  *[2:03:11]*
+**[Sirach 10:2](/bible/sirach/10#v2)**  *[[2:03:11](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7391s)]*
 
 > <sup>[2](/bible/sirach/10#v2)</sup> As the judge of the people is himself, so are his officers; and what manner of man the ruler of the city is, such are all they that dwell therein.
 
@@ -1077,7 +1077,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - I got to speed this up. Hebrews 12:14 through 17. I'm going to try to speed this up a little bit. We got half an hour left.
 
-**[Hebrews 12:14-15](/bible/hebrews/12#v14)**  *[2:04:54]*
+**[Hebrews 12:14-15](/bible/hebrews/12#v14)**  *[[2:04:54](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7494s)]*
 
 > <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
 >
@@ -1093,7 +1093,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Hey, go to Luke 17 real quick. If you can't get over your disgruntled, bitter, you can't forgive, stay your behind home. Stay home. We don't want that spirit in the body. Give me Luke 17:3.
 
-**[Luke 17:3](/bible/luke/17#v3)**  *[2:06:58]*
+**[Luke 17:3](/bible/luke/17#v3)**  *[[2:06:58](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7618s)]*
 
 > <sup>[3](/bible/luke/17#v3)</sup> Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
 
@@ -1107,7 +1107,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Go back to Hebrews 12. I'm going to speed it up. Hebrews 12, verse 15.
 
-**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[2:08:03]*
+**[Hebrews 12:15-17](/bible/hebrews/12#v15)**  *[[2:08:03](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7683s)]*
 
 > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
 >
@@ -1133,7 +1133,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Thank you. Give him a hand. Simple, simple stuff. Matthew 18 and 15.
 
-**[Matthew 18:15-17](/bible/matthew/18#v15)**  *[2:10:45]*
+**[Matthew 18:15-17](/bible/matthew/18#v15)**  *[[2:10:45](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7845s)]*
 
 > <sup>[15](/bible/matthew/18#v15)</sup> Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.
 >
@@ -1157,7 +1157,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Anybody confused about Matthew 18? I know I went through it pretty quick. Anybody confused? Okay. Give me James... I'm going to skip that. Give me Second Timothy 2. Let's get to this earth and gold.
 
-**[2 Timothy 2:20-22](/bible/2-timothy/2#v20)**  *[2:13:16]*
+**[2 Timothy 2:20-22](/bible/2-timothy/2#v20)**  *[[2:13:16](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7996s)]*
 
 > <sup>[20](/bible/2-timothy/2#v20)</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
 >
@@ -1187,13 +1187,13 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - But follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart. With who? With them that call on the Lord out of a pure heart. Who's the them that call on the Lord with a pure heart? Huh? Say it again. The gold and the silver. You with the gold and the silver, because that's where you trying to go. You trying to be with them. You're not trying to be with the wood and the earth as a leader. Come on.
 
-**[2 Timothy 2:23](/bible/2-timothy/2#v23)**  *[2:17:54]*
+**[2 Timothy 2:23](/bible/2-timothy/2#v23)**  *[[2:17:54](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8274s)]*
 
 > <sup>[23](/bible/2-timothy/2#v23)</sup> But foolish and unlearned questions avoid, knowing that they do gender strifes.
 
 - But foolish and unlearned questions avoid, knowing that they do gender strifes. So Paul is just repeating himself. Jump up to verse 16.
 
-**[2 Timothy 2:16](/bible/2-timothy/2#v16)**  *[2:17:54]*
+**[2 Timothy 2:16](/bible/2-timothy/2#v16)**  *[[2:17:54](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8274s)]*
 
 > <sup>[16](/bible/2-timothy/2#v16)</sup> But shun profane and vain babblings: for they will increase unto more ungodliness.
 
@@ -1215,7 +1215,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - But shun profane and vain babblings: for they will increase unto more ungodliness. It will increase unto more ungodliness. Back to 23.
 
-**[2 Timothy 2:23](/bible/2-timothy/2#v23)**  *[2:20:34]*
+**[2 Timothy 2:23](/bible/2-timothy/2#v23)**  *[[2:20:34](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8434s)]*
 
 > <sup>[23](/bible/2-timothy/2#v23)</sup> But foolish and unlearned questions avoid, knowing that they do gender strifes.
 
@@ -1225,7 +1225,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Listen, listen, listen. You already know what spirit they're rolling in. You know what they're going to do with the footage? They're going to doctor the footage to shame the ministry. Am I right or am I wrong? So let's see what the Bible says. Proverbs 26 and 4. When you see an idiot come in your face with a camera and ask you stupid questions that's been answered a thousand times before, you better not let them embarrass you.
 
-**[Proverbs 26:4](/bible/proverbs/26#v4)**  *[2:21:18]*
+**[Proverbs 26:4](/bible/proverbs/26#v4)**  *[[2:21:18](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8478s)]*
 
 > <sup>[4](/bible/proverbs/26#v4)</sup> Answer not a fool according to his folly, lest thou also be like unto him.
 
@@ -1235,7 +1235,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now go back. I know we running out of time here. Second Timothy 2, verse 23.
 
-**[2 Timothy 2:23-26](/bible/2-timothy/2#v23)**  *[2:22:14]*
+**[2 Timothy 2:23-26](/bible/2-timothy/2#v23)**  *[[2:22:14](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8534s)]*
 
 > <sup>[23](/bible/2-timothy/2#v23)</sup> But foolish and unlearned questions avoid, knowing that they do gender strifes.
 >
@@ -1265,7 +1265,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. Read. Chapter 3, verse 1.
 
-**[2 Timothy 3:1-6](/bible/2-timothy/3#v1)**  *[2:23:57]*
+**[2 Timothy 3:1-6](/bible/2-timothy/3#v1)**  *[[2:23:57](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8637s)]*
 
 > <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
 >
@@ -1307,7 +1307,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - For of this sort are they which creep into houses, and lead captive silly women laden with sins. Stop. What scripture would we go back to for that? Read it again. I forgot. Go back. Go back to verse 22 of chapter 2. Come on, y'all, stay with me. The topic has not changed.
 
-**[2 Timothy 2:22](/bible/2-timothy/2#v22)**  *[2:27:21]*
+**[2 Timothy 2:22](/bible/2-timothy/2#v22)**  *[[2:27:21](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8841s)]*
 
 > <sup>[22](/bible/2-timothy/2#v22)</sup> Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
 
@@ -1315,7 +1315,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart. Go back to 3 and 6 now.
 
-**[2 Timothy 3:6](/bible/2-timothy/3#v6)**  *[2:27:40]*
+**[2 Timothy 3:6](/bible/2-timothy/3#v6)**  *[[2:27:40](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8860s)]*
 
 > <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
@@ -1327,7 +1327,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Now, First Peter 2 and 1. We going to wrap it up. We got six minutes. So now remember what we talking about, y'all: leaders, the qualities of good leaders. How do you grow? Watch this.
 
-**[1 Peter 2:1-3](/bible/1-peter/2#v1)**  *[2:28:31]*
+**[1 Peter 2:1-3](/bible/1-peter/2#v1)**  *[[2:28:31](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8911s)]*
 
 > <sup>[1](/bible/1-peter/2#v1)</sup> Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 >
@@ -1349,7 +1349,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - Lamentations 4:1. We got two more scriptures and I'm out. Lamentations 4, 1 through 2.
 
-**[Lamentations 4:1-2](/bible/lamentations/4#v1)**  *[2:29:19]*
+**[Lamentations 4:1-2](/bible/lamentations/4#v1)**  *[[2:29:19](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=8959s)]*
 
 > <sup>[1](/bible/lamentations/4#v1)</sup> How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
 >
@@ -1371,7 +1371,7 @@ So we going to get right into it. As you can see by the theme, the theme is in p
 
 - The work of the hands of the potter! Damn. The work of the hands of the potter. Now give me Isaiah 13 and 12. Watch this.
 
-**[Isaiah 13:12](/bible/isaiah/13#v12)**  *[2:32:15]*
+**[Isaiah 13:12](/bible/isaiah/13#v12)**  *[[2:32:15](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=9135s)]*
 
 > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 

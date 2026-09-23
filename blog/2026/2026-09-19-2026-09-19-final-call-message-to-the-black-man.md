@@ -3,7 +3,7 @@ title: "FINAL CALL: MESSAGE TO THE BLACK MAN"
 slug: "2026/2026-09-19-final-call-message-to-the-black-man"
 date: "2026-09-19"
 description: "IUIC in the ClassRoom · 2026-09-19"
-tags: ["IUIC in the ClassRoom", "endurance", "purpose", "repentance", "the-word"]
+tags: ["IUIC in the ClassRoom", "false-religion"]
 teacher: "Captain Yahn"
 ---
 
@@ -24,7 +24,7 @@ The opening song:
 
 The opening scripture, read by a soldier before the prayer:
 
-**[Psalms 138:1-8](/bible/psalms/138#v1)**  *[0:59]*
+**[Psalms 138:1-8](/bible/psalms/138#v1)**  *[[0:59](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=59s)]*
 
 > <sup>[1](/bible/psalms/138#v1)</sup> I will praise thee with my whole heart: before the gods will I sing praise unto thee.
 >
@@ -62,7 +62,7 @@ We got Captain Hananiah in the building. We got Captain Yamagan in the building.
 
 So today's class was inspired by a conversation that I had with an ex-Muslim. So today's class, we are going to talk to our Muslim brothers. Today's class is called The Final Call: The Message to the Black Man. So play the intro. Shout out to Hezekiah from Arizona, that did a fiery intro. Play that intro. He did an excellent job.
 
-*[7:56]* The intro video:
+*[[7:56](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=476s)]* The intro video:
 
 > The good news that Minister X talks about here is the coming rise of the black man and the fall of the white man. Everyone who is here today realizes that we are now living in the fulfillment of prophecy. We have come to hear and to see the greatest and the wisest and most fearless black man in America today. We demand justice today. And the word was made flesh.
 
@@ -70,7 +70,7 @@ All praises. Let's give a shout out to Hezekiah. Fiery intro. Fiery intro.
 
 So now what I am going to do, I am going to play the intro from when Bishop Nathanyel covered the topic years ago. I am only going to play the beginning. How many of you all remember The Truth Shall Make You Free? Raise your hand. Oh man. Oh wow. That is a good number. So you all have seen the growth. You all have seen the growth. Now I am going to play the intro from when Bishop did the Arab world. Watch this. Play it. I forgot what year this was. It might have been like 2014 or 2013. Oh, 2011.
 
-*[10:52]* The intro from Bishop Nathanyel's class on the Arab world, 2011:
+*[[10:52](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=652s)]* The intro from Bishop Nathanyel's class on the Arab world, 2011:
 
 > I can report to the American people and to the world that the United States has conducted an operation that killed Osama bin Laden, the leader of al-Qaeda, and a terrorist who is responsible for the murder of thousands of innocent men, women and children.
 
@@ -82,7 +82,7 @@ Now, the brother who edited that, his name was Kenny. He is an idiot. He left th
 
 So now, before we get into the topic, I got to play a video, because how many of you all go to the Jamaican restaurant? Benji. Right. We all love Benji food. I love Benji food. I am from the tribe of Benjamin. I love Benji food. But guess what? Benji is rude as hell. Benji is a very rude tribe when it comes to serving your food. I do not like their service when it comes to serving your food, but I like their food. So let's play the Instagram clip about when we go to the Jamaican restaurant. Look how they look at you when you go to the Jamaican restaurant.
 
-*[13:58]* The clip:
+*[[13:58](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=838s)]* The clip:
 
 > When you walk into a Jamaican restaurant, look at the face. Help me.
 
@@ -104,7 +104,7 @@ So now, before we get into the topic, I got to play a video, because how many of
 
 Now, guess what? The class is called The Final Call, The Message to the Black Man. When we say the message to the black man, we are also talking about Hispanics too. You know, Puerto Ricans are black. Dominicans are black. Mexicans are black. Argentinians are black. But guess what? Sometimes our Hispanic brothers, they be forgetting. Play that clip. We got to give it to the Northern Kingdom now. Benji just took one. Now we got to get the other kingdom. Play the clip. Turn it up.
 
-*[16:30]* The clip:
+*[[16:30](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=990s)]* The clip:
 
 > Oh, I'm sorry. I don't speak any Spanish. Sorry, you look just like my cousin. That's why I was speaking to you in Spanish. What do you want?
 >
@@ -134,7 +134,7 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 ## Scriptures Opened
 
-**[Deuteronomy 32:16-17](/bible/deuteronomy/32#v16)**  *[19:55]*
+**[Deuteronomy 32:16-17](/bible/deuteronomy/32#v16)**  *[[19:55](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1195s)]*
 
 > <sup>[16](/bible/deuteronomy/32#v16)</sup> They provoked him to jealousy with strange gods, with abominations provoked they him to anger.
 >
@@ -146,7 +146,7 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 - Islam is a new religion. Islam is a new religion. It is the newest religion. It was established 622 AD. The Bible says that we chose new gods.
 
-**[Exodus 20:3](/bible/exodus/20#v3)**  *[21:21]*
+**[Exodus 20:3](/bible/exodus/20#v3)**  *[[21:21](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1281s)]*
 
 > <sup>[3](/bible/exodus/20#v3)</sup> Thou shalt have no other gods before me.
 
@@ -154,7 +154,7 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 - Thou shalt have no other gods before me. Now, to our Muslim brothers, they may say, well, Allah is our God. Allah is the one true God. Really? Is that truth? Let's see. Is Allah the God that we are supposed to be serving? No. Watch this now.
 
-**[Deuteronomy 4:28](/bible/deuteronomy/4#v28)**  *[22:20]*
+**[Deuteronomy 4:28](/bible/deuteronomy/4#v28)**  *[[22:20](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1340s)]*
 
 > <sup>[28](/bible/deuteronomy/4#v28)</sup> And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
 
@@ -166,13 +166,13 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 - Which neither see, nor hear, nor eat, nor smell. So now remember, Islam was started in 622 AD by Muhammad.
 
-*[23:02]* Right now I want you to get this book about slavery in the Arab world. Read this, Soldier Asael. Pull up Slavery in the Arab World. So we just read a couple scriptures on false religions. Let's get into how do you read about a lot of our people becoming Muslims?
+*[[23:02](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1382s)]* Right now I want you to get this book about slavery in the Arab world. Read this, Soldier Asael. Pull up Slavery in the Arab World. So we just read a couple scriptures on false religions. Let's get into how do you read about a lot of our people becoming Muslims?
 
 - Well, when the white man enslaved us, he forced us to worship who? Caesar Borgia. When the Arabs enslaved us, they forced us to worship who? Allah. Both were slave masters.
 
 - Now, this is the history that Malcolm X did not bring out. This is the history Elijah Muhammad did not bring out. This is the history that Farrakhan did not bring out, and Wallace D. Fard, he did not bring this out. We have to go into the roots of the Islamic religion. And guess what? When you look into the roots of Islam, we were slaves. So that cannot be our religion, when in the roots of that religion we were forced to worship Allah. We were forced to worship this.
 
-*[24:24]* *Slavery in the Arab World* by Murray Gordon, from the chapter The Attitude of Islam Towards Slavery:
+*[[24:24](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1464s)]* *Slavery in the Arab World* by Murray Gordon, from the chapter The Attitude of Islam Towards Slavery:
 
 > Pre-Islamic Arabia and Egypt were terminal points of well-traveled slave trade circuits,
 
@@ -196,7 +196,7 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 - So according to Muhammad, the natural order of things was to have us as slaves.
 
-*[26:11]* *The History of the Jews, from the Destruction of Jerusalem to the Present Time*:
+*[[26:11](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1571s)]* *The History of the Jews, from the Destruction of Jerusalem to the Present Time*:
 
 > 609 AD. Muhammad, the famous Arabian impostor, appeared in the early part of the seventh century, and established a new religion,
 
@@ -234,7 +234,7 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 - Next part. I need you to read fast. We got a lot to cover.
 
-*[31:04]* The next page, on what happened with our people during slavery:
+*[[31:04](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1864s)]* The next page, on what happened with our people during slavery:
 
 > And decades after the last slave ship sailed westward to the Americas and the West Indies, where slavery had been abolished by the early 1870s, Arab dhows were furtively moving out of Zanzibar,
 
@@ -266,7 +266,7 @@ So today we are going to talk to our Muslim brothers. You Shiite Muslims, you Su
 
 - All right. So now, next book. I got to skip that because of time.
 
-*[35:57]* *From Babylon to Timbuktu*, on Islam and Judaism:
+*[[35:57](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2157s)]* *From Babylon to Timbuktu*, on Islam and Judaism:
 
 So we saw in the other book, Arab writers wrote that, guess what, Muhammad copied what he saw with Judaism, with the Jews. This author did the same thing. He is going to talk about it.
 
@@ -286,7 +286,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Remember, the Arabs took over Africa from 639 AD to 709 AD. So that is the seventh and the eighth century. Play that video — it is a short, it has an Arab face on it, he looks like a Saudi Arabian. How Arabs invaded North Africa. It is the only short thumbnail that has an Arab face on it. He has that head tie that the Saudi Arabians be wearing. Do me a favor, get Deuteronomy chapter 28:36.
 
-**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[39:30]*
+**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[[39:30](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2370s)]*
 
 > <sup>[36](/bible/deuteronomy/28#v36)</sup> The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.
 
@@ -298,7 +298,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - The stone religion represents Islam. Why? Because what is the famous stone that they have to kiss? It is called the Kaaba stone. So remember that. The wood represents the Christian religions. The stone represents Islam.
 
-**[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**  *[40:32]*
+**[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**  *[[40:32](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2432s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
@@ -308,7 +308,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - From the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
-**[Ezekiel 20:32](/bible/ezekiel/20#v32)**  *[41:11]*
+**[Ezekiel 20:32](/bible/ezekiel/20#v32)**  *[[41:11](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2471s)]*
 
 > <sup>[32](/bible/ezekiel/20#v32)</sup> And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
 
@@ -316,7 +316,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - When you examine our people, we always tried to follow the other races. We never wanted to stay with our God. We have always become what? Idolaters.
 
-*[41:39]* Images of the Arab slave trade on the screen:
+*[[41:39](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2499s)]* Images of the Arab slave trade on the screen:
 
 - So what are we going over? We are showing you the history of the Arabs enslaving us. Show some of those pictures of what the Arabs did to our people in slavery. How did we come to worship Allah? This is how they had us. These are just some of the AI images that we put together. This is the Arabs. These are the markets that were in Mecca. Remember, they sold men, women, and children. Esau did the same thing. But guess what? Ishmael did the same thing.
 
@@ -330,7 +330,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - **Captain Abiel:** I love AI. AI has done a lot of things recently, but the thing is the authenticity of the images. Okay, this is an actual tapestry of black people in slavery being sold. I got to find the reference on it, but basically what is happening is that the brothers over here, they are being sold to the merchant that is on the right. And then the men up there, they are basically just putting the balances and making sure that they are getting a good deal on these slaves over here.
 
-**[Psalms 83:2-6](/bible/psalms/83#v2)**  *[44:35]*
+**[Psalms 83:2-6](/bible/psalms/83#v2)**  *[[44:35](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2675s)]*
 
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 >
@@ -362,7 +362,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So a lot of our brothers, when they get locked up and they go to prison, what do they become for protection? A Muslim. A Muslim.
 
-**[Leviticus 26:1](/bible/leviticus/26#v1)**  *[47:34]*
+**[Leviticus 26:1](/bible/leviticus/26#v1)**  *[[47:34](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2854s)]*
 
 > <sup>[1](/bible/leviticus/26#v1)</sup> Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God.
 
@@ -370,7 +370,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So now we are going to go back to the order of the video. Play that video where they are in, I think that is Mecca, where they make their yearly Hajj. This is an example. It says, neither rear you up a standing image. This is what they rear up, and our people go to worship this. Look at this. This is called, one word, idolatry. This is it. And what do they do with that stone? They kiss it.
 
-*[48:26]* Videos of the Hajj and the Kaaba stone:
+*[[48:26](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2906s)]* Videos of the Hajj and the Kaaba stone:
 
 - So this is an example of the Hajj. This is not the black man's religion. This is not the black man's religion.
 
@@ -382,7 +382,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - And guess what? Malcolm X saw that when he went to Mecca. He saw that, and it shocked him. Because remember, Islam is not the same as the Nation of Islam. Islam is not the same as NOI. There is a difference.
 
-*[50:10]* The short on how the Arabs invaded North Africa:
+*[[50:10](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3010s)]* The short on how the Arabs invaded North Africa:
 
 > A long time ago, before the European slave trade, Arabs were already involved in slavery in Africa. This started over 700 years before Europeans did the same. It all began in the 7th century when Arabs first invaded North Africa. They entered through a place called Sham and took control of important things like the pyramids, art, and coffins, using them to make money. A general named Amr led the invasion into Egypt in December 639 AD.
 
@@ -400,7 +400,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So we are going to go over a couple more scriptures about Islam and how they enslaved us, and then we are going to transition to Malcolm X, Elijah Muhammad, Louis Farrakhan, Khalid Muhammad, Public Enemy, Professor Griff, and then we are going to talk about us. So it is all going to come together, Lord's will.
 
-**[Jeremiah 2:27](/bible/jeremiah/2#v27)**  *[53:44]*
+**[Jeremiah 2:27](/bible/jeremiah/2#v27)**  *[[53:44](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3224s)]*
 
 > <sup>[27](/bible/jeremiah/2#v27)</sup> Saying to a stock, Thou art my father; and to a stone, Thou hast brought me forth: for they have turned their back unto me, and not their face: but in the time of their trouble they will say, Arise, and save us.
 
@@ -408,7 +408,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Saying to a stone. Remember, the Bible said do not worship wood and stone. Why does it say, saying to a stone, thou hast brought me forth? Because as a Muslim you have to make a what, brothers? A Hajj. And you have to go and visit that Kaaba stone. That is part of the tenets of Islam. The Bible says do not do this. This is idolatry.
 
-**[Jeremiah 3:2](/bible/jeremiah/3#v2)**  *[54:15]*
+**[Jeremiah 3:2](/bible/jeremiah/3#v2)**  *[[54:15](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3255s)]*
 
 > <sup>[2](/bible/jeremiah/3#v2)</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
 
@@ -420,7 +420,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So we sat and learned from the Arabians. What did the Arabians teach us, brothers? Islam. That is what they taught us.
 
-**[Joel 3:1-3](/bible/joel/3#v1)**  *[55:06]*
+**[Joel 3:1-3](/bible/joel/3#v1)**  *[[55:06](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3306s)]*
 
 > <sup>[1](/bible/joel/3#v1)</sup> For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 >
@@ -456,7 +456,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - People say black people sold black people. No, it was the Africans that sold the Jews. You understand?
 
-**[Exodus 11:7](/bible/exodus/11#v7)**  *[58:56]*
+**[Exodus 11:7](/bible/exodus/11#v7)**  *[[58:56](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3536s)]*
 
 > <sup>[7](/bible/exodus/11#v7)</sup> But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
 
@@ -468,7 +468,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - You got to remember, Africa is large. Do not believe the white man. You saw on the news they said we got to change the Mercator map, because on the map they project Africa smaller than what it really is. When we went to Kenya, that flight from Kenya to New Jersey was 16 hours. And I remember, just from Kenya alone, when we made it to Morocco, that was probably about 12 hours. Show a map of Africa. I am going to show you something.
 
-*[1:00:41]* A map of Africa on the screen:
+*[[1:00:41](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3641s)]* A map of Africa on the screen:
 
 - I want to show you how big Africa is. You got a map of Africa with white colonization. Bro, come on. Can we get a general map, that you saw in sixth grade? Pull that map up that you learned from your social studies teacher. Just pull it up real quick on Google. It do not got to be deep. There you go. Yes. So zoom into Kenya right over there. See, it says Nairobi right there, right under Somalia.
 
@@ -480,7 +480,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Oh, brother, I cannot make it out there. You know, you young brothers, man. You know my hips ain't working like they used to, brother. My hips ain't the same. It do not matter how old. We do not care about your hip pain. Go out and do the work. I am not saying you do not have hip pain. Even if it is 20 minutes. You understand? We need to do this work. All right. So we digressed. Go back to Joel chapter 3.
 
-**[Joel 3:4-6](/bible/joel/3#v4)**  *[1:03:48]*
+**[Joel 3:4-6](/bible/joel/3#v4)**  *[[1:03:48](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3828s)]*
 
 > <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
 >
@@ -500,7 +500,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - That ye might remove them far from their border. So now we just touched on the history. That is the history that most of your Muslim brothers in the street, they will not talk to you about. Reuben, do not get upset. Most of your Muslim brothers will not talk to you about that history. They will not go into the evils that the Arabs did and are doing to our brothers. Why? Because it is going to make Islam look bad. And remember, they are there to tell you that Islam is the chosen religion. And it is not. This is the chosen religion. He picked the children of Israel. The Bible is the source.
 
-*[1:05:34]* Pictures of the Nation of Islam in the 60s, and *Message to the Blackman in America*:
+*[[1:05:34](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3934s)]* Pictures of the Nation of Islam in the 60s, and *Message to the Blackman in America*:
 
 - So now let's transition, brothers. Let's come up in time to the 60s. Let's deal with the Nation of Islam, the NOI.
 
@@ -524,7 +524,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So Bishop said you should read Malcolm X's book. I read it. I said, wow, this book is excellent.
 
-*[1:11:00]* Pictures of Malcolm X:
+*[[1:11:00](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4260s)]* Pictures of Malcolm X:
 
 - So Malcolm X was in prison from 46 to 52. He learned Islam while in prison. Malcolm X put in a lot of work. A lot of work. This is him meeting with world leaders. That is Malcolm X with Elijah Muhammad.
 
@@ -534,7 +534,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Play the video with Malcolm X, racial explosion. Just play some of it. Okay. Too risky. Got it. So you all remember that scene from Malcolm X?
 
-*[1:13:22]* *The Autobiography of Malcolm X*:
+*[[1:13:22](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4402s)]* *The Autobiography of Malcolm X*:
 
 - Give me the two snapshots from his book. I love this part in the book. Now, Malcolm X made Islam extremely popular. The Lord blessed him with the gift of oratory. He was a great orator.
 
@@ -554,7 +554,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - It is the same thing today. Our brothers, when we do marches in Miami, Dallas, Baltimore, Chicago, brothers have the same mentality. The mentality, the mind of the Negro, whatever city — LA, Oakland, Sacramento, Houston — it is the same mentality.
 
-**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[1:15:29]*
+**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[1:15:29](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4529s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 
@@ -568,7 +568,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - The rebuke of thy God.
 
-*[1:16:30]* Back to *The Autobiography of Malcolm X*:
+*[[1:16:30](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4590s)]* Back to *The Autobiography of Malcolm X*:
 
 - So the Bible speaks about the mentality of black men. Watch this. He said he disagreed. He thought we should go out into the streets and get more Muslims into the fold.
 
@@ -576,7 +576,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - I had been impatient. So now watch this. This is heavy. I want you all to pay attention to this. Play the first video: Malcolm X, we are the children of Israel. And get the book ready, The Negro Church, by E. Franklin Frazier. Get that ready. This is important. Watch what Malcolm X says. Turn it up.
 
-*[1:17:41]* The clip of Malcolm X:
+*[[1:17:41](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4661s)]* The clip of Malcolm X:
 
 > We believe in the truth that is in the Bible, but we don't believe in the lies that the white man put in the Bible. We believe in the prophets and the scriptures they brought to the people. We believe in the resurrection of the dead, not in the physical resurrection, but in mental resurrection. We believe that the so-called Negroes are most in need of mental resurrection. Therefore, they will be resurrected first.
 >
@@ -602,13 +602,13 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - He said you are the lost sheep.
 
-**[Galatians 4:18](/bible/galatians/4#v18)**  *[1:21:29]*
+**[Galatians 4:18](/bible/galatians/4#v18)**  *[[1:21:29](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4889s)]*
 
 > <sup>[18](/bible/galatians/4#v18)</sup> But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
 - But it is good to be zealously affected always in a good thing. So we saw the spirit that he had on him. He had zeal. It says it is always good to be zealously affected in a good thing.
 
-**[2 Esdras 7:28-30](/bible/2-esdras/7#v28)**  *[1:21:46]*
+**[2 Esdras 7:28-30](/bible/2-esdras/7#v28)**  *[[1:21:46](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4906s)]*
 
 > <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
 >
@@ -630,7 +630,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Now watch this. What does this precept with? The world would descend into the dark ages. The truth would not be taught. So what would happen? There would be a thirst for knowledge. Because the true understanding of who we are, the Bible said, would not be taught anymore.
 
-**[Amos 8:11-12](/bible/amos/8#v11)**  *[1:22:53]*
+**[Amos 8:11-12](/bible/amos/8#v11)**  *[[1:22:53](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4973s)]*
 
 > <sup>[11](/bible/amos/8#v11)</sup> Behold, the days come, saith the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:
 >
@@ -646,7 +646,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - And they would not find it. They would not find it, because the truth lies in the Bible, the way the Israelites are teaching it. This is the true understanding.
 
-**[Ezekiel 37:1-8](/bible/ezekiel/37#v1)**  *[1:24:26]*
+**[Ezekiel 37:1-8](/bible/ezekiel/37#v1)**  *[[1:24:26](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5066s)]*
 
 > <sup>[1](/bible/ezekiel/37#v1)</sup> The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 >
@@ -692,7 +692,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Does the Bible deal with family? Yes, it does. Remember, Malcolm X did not fully understand. He did not fully understand.
 
-**[Colossians 3:18-21](/bible/colossians/3#v18)**  *[1:29:11]*
+**[Colossians 3:18-21](/bible/colossians/3#v18)**  *[[1:29:11](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5351s)]*
 
 > <sup>[18](/bible/colossians/3#v18)</sup> Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 >
@@ -716,7 +716,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Lest they be discouraged. Lest they be discouraged.
 
-**[Sirach 25:1](/bible/sirach/25#v1)**  *[1:31:02]*
+**[Sirach 25:1](/bible/sirach/25#v1)**  *[[1:31:02](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5462s)]*
 
 > <sup>[1](/bible/sirach/25#v1)</sup> In three things I was beautified, and stood up beautiful both before God and men: the unity of brethren, the love of neighbours, a man and a wife that agree together.
 
@@ -736,7 +736,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Pull it up on the screen. Do not worry. Forgive your wife. Do not worry, she will do it again next week.
 
-*[1:33:35]* The IUIC history website:
+*[[1:33:35](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5615s)]* The IUIC history website:
 
 - Scroll down. Wait, pause it. I would like to deal with all of this, but I cannot. Bishop Nathanyel touched on this in the history of the Israelite schools. He touched on the history of the Israelite movement. So we are going to focus. Remember, we are dealing with the 60s till today. Arnold Josiah Ford. Scroll down. There you go. Civil rights movement. Just read that paragraph real quick.
 
@@ -786,7 +786,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So now play that video with Malcolm X on marriage, because remember, the Bible deals with family, right? We are going to have to speed up because of time. We are going to go all the way to the max time, 11:30. We need every minute.
 
-*[1:41:08]* The clip of Malcolm X on marriage:
+*[[1:41:08](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6068s)]* The clip of Malcolm X on marriage:
 
 > Once your work is finished, don't watch the television. Once your work is finished,
 
@@ -814,13 +814,13 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Your husband, when he come home from camp, talk about his camp video. It do not matter if it only got 250 views. You talk about how the video was good, because guess what? The Lord used him to go out and teach the people. So you do not talk about, oh well, these other brothers got 50,000 views, he only got 300. No. Use respect and love, on why the Most High called your husband in, to encourage him.
 
-**[Proverbs 14:1](/bible/proverbs/14#v1)**  *[1:45:23]*
+**[Proverbs 14:1](/bible/proverbs/14#v1)**  *[[1:45:23](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6323s)]*
 
 > <sup>[1](/bible/proverbs/14#v1)</sup> Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
 
 - Every wise woman buildeth her house. So it says every wise woman builds her house. So guess what? You sisters have to learn, as wives, as Israelite women, to build your house. That is why you get around senior women. You get around them. You speak to them. Learn how to build your house.
 
-**[Sirach 26:13](/bible/sirach/26#v13)**  *[1:45:52]*
+**[Sirach 26:13](/bible/sirach/26#v13)**  *[[1:45:52](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6352s)]*
 
 > <sup>[13](/bible/sirach/26#v13)</sup> The grace of a wife delighteth her husband, and her discretion will fatten his bones.
 
@@ -830,7 +830,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - The Israelite man, according to the Bible — God says that man is gold. That is what the Lord says. We do not need to go to no other book. This is the true book. This book says the black man is gold.
 
-**[Isaiah 13:12](/bible/isaiah/13#v12)**  *[1:46:50]*
+**[Isaiah 13:12](/bible/isaiah/13#v12)**  *[[1:46:50](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6410s)]*
 
 > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 
@@ -844,7 +844,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - But while the Lord uses you men, we need you sisters to back us up. You understand? Because this job ain't easy. We need the support of the Israelite woman. And in order for you all to support us, you got to read. You got to study. You got to fast. You got to respect. You got to pray and apply. Sisters, the Lord is using us to take this place down.
 
-*[1:48:14]* Khalid Muhammad and Public Enemy:
+*[[1:48:14](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6494s)]* Khalid Muhammad and Public Enemy:
 
 - Now, Khalid Muhammad. I got to skip a lot of these scriptures; we do not got enough time. Who is Khalid Muhammad? Now, look. That is Khalid Muhammad with Public Enemy. How many of you all know Public Enemy? Everybody know Public Enemy, right? Now let's talk a little bit about Khalid Muhammad. You are going to see how it is going to tie in with us. Play the video with Khalid Muhammad, and then we are going to read the snapshots. Not that one. The other one has better audio.
 
@@ -868,7 +868,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Hold that. Play the video with Farrakhan. So now remember, they assassinated Malcolm X, right? Farrakhan rose up. Play that video real quick with Farrakhan. Remember, we are short of time. Normally we end at 11 a.m., but 11:30 is our max. We going to the top.
 
-*[1:53:18]* The clip of Louis Farrakhan:
+*[[1:53:18](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6798s)]* The clip of Louis Farrakhan:
 
 > There are people in America like the children of Israel. Who are those people? Who? Who? Who? I ain't no owl. Who is you?
 >
@@ -890,7 +890,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - But guess what? He was used, but he did not fully understand how to use the Bible. That is why he said it again: you Israelites, you got the knowledge, but you are too brutish with it.
 
-**[Revelation 2:9](/bible/revelation/2#v9)**  *[1:56:07]*
+**[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:56:07](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6967s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 
@@ -898,7 +898,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - That is thus saith the Lord. We got to use what the Bible says, and they cannot get you.
 
-**[Revelation 3:9](/bible/revelation/3#v9)**  *[1:56:39]*
+**[Revelation 3:9](/bible/revelation/3#v9)**  *[[1:56:39](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6999s)]*
 
 > <sup>[9](/bible/revelation/3#v9)</sup> Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 
@@ -906,7 +906,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - The Nation of Islam, that is not the religion for our brothers. Islam is not the religion for our brothers. It is the Bible. And we must use God's words, not our own. You all understand?
 
-*[1:57:00]* Professor Griff and Public Enemy:
+*[[1:57:00](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7020s)]* Professor Griff and Public Enemy:
 
 - So now get me Professor Griff from Public Enemy. Put a picture of Professor Griff. Now remember, when Public Enemy — I am saying remember like I was an adult, right? From what I was told, from what I read, and they got some good music. When Public Enemy came out, they changed hip hop. Put the album cover: It Takes a Nation of Millions to Hold Us Back. This was conscious rap music. It was not kill your brother.
 
@@ -928,7 +928,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So now let's talk about us. Now let's talk about the Israelites. We got 26 minutes. We going to tear Babylon down. How does this all tie in to us today? We touched on the Message to the Black Man. We showed the book. We showed Malcolm X, the works that he did. We showed the snapshots from his book. We showed what he spoke about with wives, children, family. A lot of things we say are very similar. But guess what? They did not understand how to explain the true source, the Bible. They did not understand how to do that. Why? It starts with this scripture right here.
 
-**[1 Corinthians 4:9](/bible/1-corinthians/4#v9)**  *[2:01:38]*
+**[1 Corinthians 4:9](/bible/1-corinthians/4#v9)**  *[[2:01:38](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7298s)]*
 
 > <sup>[9](/bible/1-corinthians/4#v9)</sup> For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.
 
@@ -940,7 +940,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - As it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men. And to angels, and to men.
 
-**[John 10:27](/bible/john/10#v27)**  *[2:03:05]*
+**[John 10:27](/bible/john/10#v27)**  *[[2:03:05](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7385s)]*
 
 > <sup>[27](/bible/john/10#v27)</sup> My sheep hear my voice, and I know them, and they follow me:
 
@@ -950,7 +950,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - We are going to have to skip a lot of scriptures, but we are going to make this happen.
 
-**[Luke 14:21](/bible/luke/14#v21)**  *[2:03:46]*
+**[Luke 14:21](/bible/luke/14#v21)**  *[[2:03:46](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7426s)]*
 
 > <sup>[21](/bible/luke/14#v21)</sup> So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.
 
@@ -962,7 +962,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Do you know the honor it is to be used to bring somebody in? That is what I want to be used for. To be used to bring somebody in. You understand? Our job is to bring people in. You being used, you sisters being used, because guess what? When you hand a flyer, that flyer could change their life, because you are bringing them in. That is what we want to be used for: to save lives.
 
-**[James 5:20](/bible/james/5#v20)**  *[2:05:09]*
+**[James 5:20](/bible/james/5#v20)**  *[[2:05:09](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7509s)]*
 
 > <sup>[20](/bible/james/5#v20)</sup> Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
 
@@ -972,7 +972,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Remember, it says to bring in. That is your job, to bring in. To bring in to what? The sanctuary of God. To this truth.
 
-**[Psalms 73:15-17](/bible/psalms/73#v15)**  *[2:05:50]*
+**[Psalms 73:15-17](/bible/psalms/73#v15)**  *[[2:05:50](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7550s)]*
 
 > <sup>[15](/bible/psalms/73#v15)</sup> If I say, I will speak thus; behold, I should offend against the generation of thy children.
 >
@@ -988,7 +988,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - But in order for them to come in, we have to do what? Bring them in. There you go. In order for them to come in, somebody got to bring them in. Somebody has to bring them in.
 
-**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[2:07:27]*
+**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[2:07:27](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7647s)]*
 
 > <sup>[22](/bible/isaiah/42#v22)</sup> But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 
@@ -1006,7 +1006,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So why you keep making excuses, and you ain't doing nothing for the body all week? Nothing. You want to be used for good? Start putting in the brick. Start putting in the work. I do not care how old you are. You think God cares about that? Is there a law in the Bible where the Lord says, hey, do not teach anybody that is 85 and over, because they cannot do the work no more? Ask Osha. He was 77 years old doing MOs. Stand up, Osha. He is in the back. Osha was doing MOs at 77 years old. So you cannot tell me age is a reason.
 
-**[Zechariah 9:12-13](/bible/zechariah/9#v12)**  *[2:09:21]*
+**[Zechariah 9:12-13](/bible/zechariah/9#v12)**  *[[2:09:21](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7761s)]*
 
 > <sup>[12](/bible/zechariah/9#v12)</sup> Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
 >
@@ -1028,7 +1028,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - And made thee as the sword of a mighty man. And made thee as the sword of a what? Of a mighty man.
 
-**[Jeremiah 1:5](/bible/jeremiah/1#v5)**  *[2:10:53]*
+**[Jeremiah 1:5](/bible/jeremiah/1#v5)**  *[[2:10:53](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7853s)]*
 
 > <sup>[5](/bible/jeremiah/1#v5)</sup> Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.
 
@@ -1040,7 +1040,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - So some of you all older brothers, you all said, man, I wish I was your age. No. The Lord said it was not meant for you to come at that age. You understand? Some of you all sisters said, man, I wish I was younger. No, it was not meant for you to come in at that time. You had to be ripened. The Lord said, I need you to come in at 43. I need you to come in at 12. I need you to be born into the truth. I need you to come in at 91. Why? I do not know. That is the Lord's choice.
 
-**[Isaiah 49:1-2](/bible/isaiah/49#v1)**  *[2:12:07]*
+**[Isaiah 49:1-2](/bible/isaiah/49#v1)**  *[[2:12:07](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7927s)]*
 
 > <sup>[1](/bible/isaiah/49#v1)</sup> Listen, O isles, unto me; and hearken, ye people, from far; The Lord hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 >
@@ -1066,11 +1066,11 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - In his quiver hath he hid me. So the quiver, that is where you put what? Your bow and arrow, right? That means we are what? Weapons. Weapons. Weapons to do what? Wait, weapons to do what? I am going to show you.
 
-*[2:14:43]*
+*[[2:14:43](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8083s)]*
 
 - Proverbs 11:21. Is that it? Damn, I think I quoted the wrong one. That ain't it. Where is the one: and he that winneth souls is wise? Is it 31? 30. Proverbs 11:30.
 
-**[Proverbs 11:30](/bible/proverbs/11#v30)**  *[2:14:55]*
+**[Proverbs 11:30](/bible/proverbs/11#v30)**  *[[2:14:55](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8095s)]*
 
 > <sup>[30](/bible/proverbs/11#v30)</sup> The fruit of the righteous is a tree of life; and he that winneth souls is wise.
 
@@ -1080,7 +1080,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - The Bible says, when one sinner repents, the angels rejoice. The angels rejoice. When one sinner repents — get that. Get Luke 15:7. Come on, we got 12 minutes.
 
-**[Luke 15:7,10](/bible/luke/15#v7)**  *[2:15:46]*
+**[Luke 15:7,10](/bible/luke/15#v7)**  *[[2:15:46](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8146s)]*
 
 > <sup>[7](/bible/luke/15#v7)</sup> I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 >
@@ -1094,7 +1094,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Give me Proverbs 11 again. It says there is joy. Joy. Is that not a song? Joy and pain, like sunshine. I cannot sing. That ain't my lot. You ain't going to get me to sing. That ain't my gift.
 
-**[Proverbs 11:30](/bible/proverbs/11#v30)**  *[2:16:55]*
+**[Proverbs 11:30](/bible/proverbs/11#v30)**  *[[2:16:55](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8215s)]*
 
 > <sup>[30](/bible/proverbs/11#v30)</sup> The fruit of the righteous is a tree of life; and he that winneth souls is wise.
 
@@ -1106,7 +1106,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - You take every opportunity to help somebody change their life. That is a fisher. You do not wait till Saturday. You do not wait till Sunday. You do not wait till Tuesday. You do not wait till you feel like it. You are on duty all day. That is what a fisher does.
 
-**[Proverbs 25:15](/bible/proverbs/25#v15)**  *[2:18:38]*
+**[Proverbs 25:15](/bible/proverbs/25#v15)**  *[[2:18:38](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8318s)]*
 
 > <sup>[15](/bible/proverbs/25#v15)</sup> By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.
 
@@ -1130,7 +1130,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - Now we understand about persuasion, belief, converting. We are going to end it off with Isaiah chapter 21, with these Arabs. Now, when we go out and teach, a lot of war, a lot of death is going to happen. Judgment is going to come from the east, even over to here.
 
-**[Isaiah 21:1-17](/bible/isaiah/21#v1)**  *[2:22:31]*
+**[Isaiah 21:1-17](/bible/isaiah/21#v1)**  *[[2:22:31](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8551s)]*
 
 > <sup>[1](/bible/isaiah/21#v1)</sup> The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
 >
@@ -1230,7 +1230,7 @@ So we saw in the other book, Arab writers wrote that, guess what, Muhammad copie
 
 - That is an excellent point.
 
-**[Revelation 14:12-13](/bible/revelation/14#v12)**  *[2:29:58]*
+**[Revelation 14:12-13](/bible/revelation/14#v12)**  *[[2:29:58](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8998s)]*
 
 > <sup>[12](/bible/revelation/14#v12)</sup> Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 >
