@@ -2,7 +2,7 @@
 title: "FROM NEGROES TO GODS FROM EARTH TO GOLD"
 slug: "2026/2026-09-19-from-negroes-to-gods-from-earth-to-gold"
 date: "2026-09-19"
-description: "Captain Amaziah teaches on leadership, integrity, humility, correction, forgiveness, and becoming useful in service."
+description: "IUIC in the ClassRoom · 2026-09-19"
 tags: ["IUIC in the ClassRoom", "discipline", "leadership", "purpose", "repentance", "wisdom"]
 teacher: "Captain Amaziah"
 ---
@@ -24,8 +24,6 @@ The notes paraphrase the teaching and preserve its sequence. Scripture quotation
 The opening prayer asks for healing, unity, protection for travelers, and strength for leadership. The introductory video portrays a movement from alienation to repentance and public teaching; it cites 1 Kings 8:47 and Ezekiel 3:17. The main lesson then asks how a community reaches a damaged condition and what kind of leadership can help it recover.
 
 ## Scriptures Opened
-
-### The condition being addressed
 
 **[Baruch 3:10-11](/bible/baruch/3#v10)**  *[[10:02](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=602s)]*
 
@@ -133,8 +131,6 @@ The opening prayer asks for healing, unity, protection for travelers, and streng
 
 - Remembering identity is linked with returning from stubbornness and wicked deeds. The class emphasizes that learning who one believes oneself to be must result in changed behavior.
 
-### Known, qualified, and accountable leaders
-
 **[Deuteronomy 1:13-16](/bible/deuteronomy/1#v13)**  *[[37:46](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=2266s)]*
 
 > <sup>[13](/bible/deuteronomy/1#v13)</sup> Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
@@ -168,8 +164,6 @@ The opening prayer asks for healing, unity, protection for travelers, and streng
 > <sup>[2](/bible/numbers/16#v2)</sup> And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
 
 - The word renown prompts a discussion of reputation, experience, and influence. This citation illustrates the vocabulary of prominence; the wider chapter concerns rebellion and should not be mistaken for an endorsement of the men’s actions.
-
-### Ten qualities examined in the class
 
 *[[50:31](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=3031s)]* The teacher presents ten leadership qualities and asks listeners to identify where they need work. These are the categories shown in the class:
 
@@ -232,8 +226,6 @@ The example of a video editor distracted by an unhealthy habit leads to a larger
 
 - Service requires giving time and effort, not simply accepting a title. The teacher asks listeners to consider what habits and comforts they are willing to give up for worthwhile work.
 
-### Care for the flock without exploiting it
-
 **[1 Peter 5:1-3](/bible/1-peter/5#v1)**  *[[1:14:55](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=4495s)]*
 
 > <sup>[1](/bible/1-peter/5#v1)</sup> The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
@@ -293,8 +285,6 @@ The example of a video editor distracted by an unhealthy habit leads to a larger
 > <sup>[15](/bible/ephesians/5#v15)</sup> See then that ye walk circumspectly, not as fools, but as wise,
 
 - Circumspection is explained as considering risks and consequences before speaking or acting. Thoughtful restraint is part of leadership.
-
-### A leader is neither indispensable nor above correction
 
 **[1 Corinthians 4:6](/bible/1-corinthians/4#v6)**  *[[1:38:31](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=5911s)]*
 
@@ -374,8 +364,6 @@ The example of a video editor distracted by an unhealthy habit leads to a larger
 
 - A group’s conduct reflects the example and standards of its leadership. Leaders are asked to evaluate the effect of their behavior on those around them.
 
-### Resolve disputes with restoration as the goal
-
 **[Hebrews 12:14-17](/bible/hebrews/12#v14)**  *[[2:04:54](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7494s)]*
 
 > <sup>[14](/bible/hebrews/12#v14)</sup> Follow peace with all men, and holiness, without which no man shall see the Lord:
@@ -409,8 +397,6 @@ The example of a video editor distracted by an unhealthy habit leads to a larger
 - The goal of the first step is to regain the relationship. The teacher warns against involving spouses or bystanders in ways that spread a dispute before the people concerned have spoken.
 
 - Church discipline is discussed as a response to persistent refusal to resolve a matter, not as the purpose of beginning the process.
-
-### From earth to gold: useful service and patient teaching
 
 **[2 Timothy 2:20-23](/bible/2-timothy/2#v20)**  *[[2:13:13](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7993s)]*
 
@@ -498,13 +484,6 @@ The example of a video editor distracted by an unhealthy habit leads to a larger
 
 *[[2:33:14](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=9194s)]* Captain Amaziah closes with a Sabbath greeting after urging listeners to believe that change is possible and to demonstrate that belief in their conduct. The lesson's recurring standard is a leader who develops people, receives correction, and remains dependable.
 
-### Review and application
-
-1. What three qualifications are emphasized in Deuteronomy 1:13? **Wisdom, understanding, and being known among the tribes.**
-2. What does leadership add to simply performing a task? **Responsibility for helping the people doing the work.**
-3. What does 1 Peter 5 reject? **Reluctant service, exploitation for money, and domination of the flock.**
-4. What is the goal of the first step in Matthew 18? **To gain the brother through a private conversation.**
-5. What qualities accompany teaching in 2 Timothy 2:24–26? **Gentleness, patience, meekness, and the aim of helping someone recover.**
 
 ## Announcements & References
 

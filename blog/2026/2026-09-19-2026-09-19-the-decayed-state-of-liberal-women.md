@@ -2,7 +2,7 @@
 title: "THE DECAYED STATE OF LIBERAL WOMEN"
 slug: "2026/2026-09-19-the-decayed-state-of-liberal-women"
 date: "2026-09-19"
-description: "Sabbath notes on trials, humility, marriage, family support, and the passages discussed in a critique of modern social ideas."
+description: "IUIC in the ClassRoom · 2026-09-19"
 tags: ["IUIC in the ClassRoom", "adversity", "endurance", "marriage-family", "mental-health", "women"]
 teacher: "Deacon Malachi"
 ---
@@ -27,8 +27,6 @@ The opening prayer asks for forgiveness, healing, protection, and strength for t
 
 ## Scriptures Opened
 
-### Wisdom of the week: adversity and patience
-
 *[[10:47](https://www.youtube.com/watch?v=8g97RjyrRSE&t=647s)]* An illustrative video contrasts a sheltered horse with one accustomed to hard work. The teacher uses it to discuss preparation through difficulty. The practical point is to seek growth and patience in adversity, rather than assume that comfort alone produces readiness.
 
 **[James 1:2-4](/bible/james/1#v2)**  *[[12:45](https://www.youtube.com/watch?v=8g97RjyrRSE&t=765s)]*
@@ -46,8 +44,6 @@ The opening prayer asks for forgiveness, healing, protection, and strength for t
 > <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
 
 - The refining image supports the same theme: testing can develop endurance. The class treats this as an encouragement to remain faithful through difficulty.
-
-### Conversion includes changing the way one thinks
 
 **[Matthew 18:1-4](/bible/matthew/18#v1)**  *[[15:30](https://www.youtube.com/watch?v=8g97RjyrRSE&t=930s)]*
 
@@ -72,8 +68,6 @@ The opening prayer asks for forgiveness, healing, protection, and strength for t
 - Peter is used as an example of development over time. After strengthening his own faith, he is charged with strengthening others.
 
 - The class distinguishes an initial commitment from mature readiness to guide someone else.
-
-### The social argument and its scriptural applications
 
 *[[22:35](https://www.youtube.com/watch?v=8g97RjyrRSE&t=1355s)]* The title video introduces the teacher's argument that modern social and political ideas have damaged family life. From approximately 24:41, he connects changes in marriage and parenting with civil-rights-era policy, feminism, employment, and welfare. These causal claims are presented as his views; the broadcast does not establish them through a systematic historical analysis.
 
@@ -147,8 +141,6 @@ These edited examples do not establish how women or men generally behave. The st
 
 - The reading contrasts hypocrisy and harm to the poor with what is honorable. Verse 9 introduces the address to women that the teacher intends to revisit.
 
-### News clips and the limits of the discussion
-
 *[[1:20:27](https://www.youtube.com/watch?v=8g97RjyrRSE&t=4827s)]* The class plays news and commentary segments about Lindsay Clancy, a reported jury deadlock, juror interviews, and public reaction. A comparison with another Massachusetts case follows at approximately 1:33:22. The teacher uses the material to discuss accountability and his views about motherhood.
 
 These notes do not independently verify the clips' legal reporting or decide criminal responsibility. The broadcast's rejection of mental illness as a possible factor is not a medical or legal finding. Postpartum depression and postpartum psychosis are distinct conditions; neither should be diagnosed or dismissed from an edited news segment.
@@ -174,8 +166,6 @@ These notes do not independently verify the clips' legal reporting or decide cri
 - The reading describes child sacrifice and innocent blood. The teacher links it to his opposition to abortion and harm to children; the modern comparison is his application.
 
 *[[1:40:52](https://www.youtube.com/watch?v=8g97RjyrRSE&t=6052s)]* Additional clips express regret, exhaustion, or reluctance about parenting, followed by an abortion-rights clip. The teacher interprets these as examples of the attitudes he is opposing. The notes do not equate exhaustion, a decision not to have children, or a mental-health symptom with violence toward a child.
-
-### Childbirth, recovery, and practical support
 
 *[[1:48:16](https://www.youtube.com/watch?v=8g97RjyrRSE&t=6496s)]* The class defines postpartum as the period after childbirth, then discusses diagnostic history and reads a symptom list. The teacher disputes the diagnosis of postpartum depression and later attributes it largely to nutrition and prenatal supplements. These claims are not supported by the medical sources linked in these notes.
 
@@ -222,8 +212,6 @@ The teacher mentions the longer period after the birth of a daughter and an inte
 **Supplement context:** The clips' claim that folic acid is generally the cause of postpartum depression is not established here. CDC states that people with common MTHFR variants can process folic acid and that folic acid helps prevent neural tube defects. Do not change prescribed prenatal supplements based on this broadcast; discuss individual needs with a qualified clinician. [CDC: MTHFR Gene Variant and Folic Acid Facts](https://www.cdc.gov/folic-acid/data-research/mthfr/index.html).
 
 *[[2:17:13](https://www.youtube.com/watch?v=8g97RjyrRSE&t=8233s)]* The teacher asks trained nurses, midwives, and other knowledgeable members to help mothers and share practical knowledge. This support theme is distinct from the unverified supplement and treatment claims in the clips.
-
-### Marriage, sexual responsibility, and covenant
 
 *[[2:20:22](https://www.youtube.com/watch?v=8g97RjyrRSE&t=8422s)]* A relationship clip prompts the teacher to turn to virginity and marriage. His emphasis is that sexual relationships carry responsibilities and should not be treated casually.
 
@@ -305,13 +293,6 @@ The teacher mentions the longer period after the birth of a daughter and an inte
 
 The directly usable study themes are patience, humility, commitment, honest communication, and practical support for families. The broadcast's medical claims and sweeping claims about groups should remain separate from those applications.
 
-### Review and application
-
-1. What part of Matthew 18:1–4 receives special attention? **Conversion as a change in thinking, including giving up rivalry and pride.**
-2. What responsibility follows Peter's conversion in Luke 22? **Strengthening his brethren.**
-3. What practical help does the class call for after childbirth? **Meals, childcare, household help, and organized family and congregational support.**
-4. Does Leviticus 12 diagnose or treat postpartum depression? **No. It describes ritual separation and purification; medical symptoms require appropriate care.**
-5. What does Malachi 2 emphasize about a spouse? **Companionship, covenant, and the duty not to deal treacherously.**
 
 ## Announcements & References
 

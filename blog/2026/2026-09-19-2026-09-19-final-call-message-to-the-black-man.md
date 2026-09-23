@@ -2,7 +2,7 @@
 title: "FINAL CALL: MESSAGE TO THE BLACK MAN"
 slug: "2026/2026-09-19-final-call-message-to-the-black-man"
 date: "2026-09-19"
-description: "Captain Yahn discusses religious identity, the Nation of Islam, family, patient outreach, and repentance."
+description: "IUIC in the ClassRoom · 2026-09-19"
 tags: ["IUIC in the ClassRoom", "endurance", "purpose", "repentance", "the-word"]
 teacher: "Captain Yahn"
 ---
@@ -24,8 +24,6 @@ These notes document the class's religious argument in paraphrase. Its claims ab
 The service opens with Psalm 138 and prayer. Captain Hananiah and other guests participate. The introduction compares a new video with an older production from *The Truth Shall Make You Free*, illustrating the congregation's growth in media work. Brief comedy clips lead into a discussion of identity and the lesson's intended audience.
 
 ## Scriptures Opened
-
-### Opening reading and the class’s religious premise
 
 **[Psalms 138:1-8](/bible/psalms/138#v1)**  *[[0:55](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=55s)]*
 
@@ -66,8 +64,6 @@ The service opens with Psalm 138 and prayer. Captain Hananiah and other guests p
 > <sup>[28](/bible/deuteronomy/4#v28)</sup> And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
 
 - The discussion introduces the recurring image of wood and stone. A mistaken reading is corrected in the recording before this passage is read.
-
-### Historical readings and images
 
 *[[24:24](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1464s)]* The class reads selections from *Slavery in the Arab World*, identified on air as Murray Gordon's book. The passages discuss slave-trade routes, markets, and attitudes toward slavery. The teacher uses them to challenge the idea that a religious affiliation alone guarantees solidarity or protection.
 
@@ -155,8 +151,6 @@ The service opens with Psalm 138 and prayer. Captain Hananiah and other guests p
 
 - This interruption in the Joel reading supports the teacher’s distinction between Israel and Egypt. The class then discusses the size of Africa and the extent of the outreach work the speakers believe remains.
 
-### Malcolm X, identity, and active outreach
-
 *[[1:05:47](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=3947s)]* The class transitions to the Nation of Islam and displays *Message to the Black Man*. The teacher acknowledges the appeal of its emphasis on dignity, discipline, family, and unity while disagreeing with its religion.
 
 *[[1:06:40](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4000s)]* Captain Yahn describes how study changed his own attitude toward reading. He credits an elder's recommendation of *The Autobiography of Malcolm X* with encouraging further learning.
@@ -219,8 +213,6 @@ The service opens with Psalm 138 and prayer. Captain Hananiah and other guests p
 
 - He treats dignity, discipline, and organization as meaningful developments, while arguing that the commandments supply the understanding still needed. That historical mapping is his interpretation of the vision.
 
-### Family conduct and the history of the movement
-
 **[Colossians 3:18-21](/bible/colossians/3#v18)**  *[[1:29:04](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5344s)]*
 
 > <sup>[18](/bible/colossians/3#v18)</sup> Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
@@ -265,8 +257,6 @@ The service opens with Psalm 138 and prayer. Captain Hananiah and other guests p
 
 - Verse 13 is read first, then the teacher returns to verse 12 for the precious-gold image. He uses that image to encourage listeners to recognize potential for growth and service.
 
-### Public figures, religious claims, and careful speech
-
 *[[1:48:19](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6499s)]* The class discusses Khalid Abdul Muhammad, Louis Farrakhan, Professor Griff, and Public Enemy. Clips and on-screen summaries are used to describe their language about identity, their public influence, and controversies involving antisemitic, racist, or homophobic remarks.
 
 The speaker argues that some of their ideas came through contact with Israelite teachers and recounts hearing older recordings. These influence claims remain attributed to the class. The notes do not endorse the prejudicial statements or calls for violence discussed in this segment.
@@ -284,8 +274,6 @@ The speaker argues that some of their ideas came through contact with Israelite 
 > <sup>[9](/bible/revelation/3#v9)</sup> Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 
 - The second citation continues the same interpretive argument. Readers should keep the verse and the speaker’s contemporary identification separate.
-
-### The work of bringing people in
 
 **[1 Corinthians 4:9](/bible/1-corinthians/4#v9)**  *[[2:00:57](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7257s)]*
 
@@ -375,8 +363,6 @@ The speaker argues that some of their ideas came through contact with Israelite 
 
 - The speakers caution against chasing someone who wants to leave or overwhelming a listener with more references. Give space, trust the process, and remain open to another conversation.
 
-### Final prophetic reading
-
 **[Isaiah 21:1-17](/bible/isaiah/21#v1)**  *[[2:22:35](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=8555s)]*
 
 > <sup>[1](/bible/isaiah/21#v1)</sup> The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
@@ -429,13 +415,6 @@ The speaker argues that some of their ideas came through contact with Israelite 
 
 *[[2:30:44](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=9044s)]* The class closes with the thought that faithful work continues to matter even after a person's death. The concluding appeal is for repentance and useful service. Its most concrete teaching on outreach is to listen patiently, avoid coercive argument, and keep the other person's response in view.
 
-### Review and application
-
-1. Which passage is actually read when the captions say Amos 8:1? **Amos 8:11–12, the famine of hearing the word.**
-2. Which passage describes responsibilities within the household? **Colossians 3:18–21.**
-3. What is the stated purpose of the weapon imagery in the outreach section? **Teaching that helps people change, rather than physical violence.**
-4. How does Proverbs 25:15 guide outreach? **Use patience, listen, and persuade without turning the encounter into a contest.**
-5. What distinction should be maintained when studying the historical and prophetic sections? **Separate the source text from the teacher's modern identification, recollection, or prediction.**
 
 ## Announcements & References
 

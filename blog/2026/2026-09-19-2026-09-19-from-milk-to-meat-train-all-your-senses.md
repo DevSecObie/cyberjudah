@@ -3,7 +3,7 @@ title: "FROM MILK TO MEAT: TRAIN ALL YOUR SENSES"
 slug: "2026/2026-09-19-from-milk-to-meat-train-all-your-senses"
 date: "2026-09-19"
 teacher: ""
-description: "Sabbath study notes on spiritual growth, discernment, counsel, disciplined speech, and the practice of wisdom."
+description: "IUIC in the ClassRoom · 2026-09-19"
 tags: ["IUIC in the ClassRoom", "discipline", "justice", "prayer", "purpose", "wisdom"]
 ---
 
@@ -26,8 +26,6 @@ These are paraphrased study notes in teaching order, with scripture quotations c
 The opening prayer asks for protection, support for the sick and afflicted, and strength for those teaching and traveling. Before the main lesson, the speakers return to the earlier class's discussion of support after childbirth.
 
 ## Scriptures Opened
-
-### Opening reading and practical care
 
 **[Psalms 121:1-8](/bible/psalms/121#v1)**  *[[5:30](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=330s)]*
 
@@ -62,8 +60,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 - Mary’s stay with Elizabeth and the presence of neighbors and relatives are used to emphasize practical family support after childbirth. The application is to help with meals, laundry, children, and daily responsibilities rather than leaving a new mother isolated.
 
 - This is a pastoral application of the passage, not a medical explanation of postpartum illness.
-
-### A foundation that can carry deeper understanding
 
 *[[14:37](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=877s)]* The title introduces growth through practice. A short illustrative video contrasts quick answers with the patient examination needed in complicated situations. The speakers emphasize that experience should produce better judgment and greater care for people.
 
@@ -126,8 +122,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 - The opening greeting becomes an example of goodwill, covenant remembrance, a willing mind, and peace. The teacher stresses willingness: access to classes and recordings has little value without the desire to learn.
 
 - The discussion links obedience, prayer, and communal support. An anecdote about missed participation illustrates the need to make concrete arrangements when difficulties arise.
-
-### Prefer wisdom, then put it to use
 
 **[Wisdom of Solomon 7:6-10](/bible/wisdom-of-solomon/7#v6)**  *[[32:33](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=1953s)]*
 
@@ -257,8 +251,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 
 - The reading emphasizes exercise, remembering instruction, and doing it. Strength is tied to practice, not simply to possession of information.
 
-### Experience, responsibility, and the purpose of learning
-
 **[Sirach 17:1-3](/bible/sirach/17#v1)**  *[[1:07:06](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=4026s)]*
 
 > <sup>[1](/bible/sirach/17#v1)</sup> The Lord created man of the earth, and turned him into it again.
@@ -323,8 +315,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 
 - Leaders’ conduct affects people who depend on them. The class links that responsibility with preparation, sound judgment, and sharing experience with the next generation.
 
-### The senses and a mind formed by counsel
-
 **[Sirach 17:1-7](/bible/sirach/17#v1)**  *[[1:27:29](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=5249s)]*
 
 > <sup>[1](/bible/sirach/17#v1)</sup> The Lord created man of the earth, and turned him into it again.
@@ -368,8 +358,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 - The example concerns evasive or excessive explanation. Listeners are urged to speak truthfully and plainly and to listen carefully when a matter is being examined.
 
 - The example is illustrative; verbosity or body language alone does not establish that a person is guilty of wrongdoing.
-
-### Eyes: attention, desire, and divided priorities
 
 **[Matthew 6:22-24](/bible/matthew/6#v22)**  *[[1:41:02](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=6062s)]*
 
@@ -428,8 +416,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 > <sup>[11](/bible/1-peter/2#v11)</sup> Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
 - The conflict is described as a spiritual struggle requiring active resistance. The speakers discuss the effects of pornography on expectations and relationships. Their later testing and disease remarks are not a medical protocol.
-
-### Hearing and speech: learn carefully and answer helpfully
 
 **[Romans 10:17](/bible/romans/10#v17)**  *[[1:53:56](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=6836s)]*
 
@@ -507,8 +493,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 
 - A small amount of speech can cause serious damage. The speakers connect careless words and false accusations with harm to homes and relationships.
 
-### Memory and counsel: preparation for sound judgment
-
 **[2 Esdras 14:39-40](/bible/2-esdras/14#v39)**  *[[2:04:33](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=7473s)]*
 
 > <sup>[39](/bible/2-esdras/14#v39)</sup> Then opened I my mouth, and, behold, he reached me a full cup, which was full as it were with water, but the colour of it was like fire.
@@ -542,8 +526,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 - A personal account about delaying a move illustrates the value of receiving correction while still learning. The teacher credits that correction with preventing a premature decision.
 
 - Plans should be tested against wise instruction. Listening early can prevent problems that otherwise take years to repair.
-
-### Spiritual discernment and testing impressions
 
 *[[2:14:58](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=8098s)]* The teacher introduces terms commonly used for claimed extrasensory abilities—clairvoyance, clairaudience, clairsentience, and claircognizance—and connects them with biblical accounts of vision, hearing, discernment, and revealed knowledge. This is the class's religious interpretation; the terms do not establish that a particular impression is supernatural or reliable. The repeated internal test is whether an impression agrees with scripture and righteous conduct.
 
@@ -705,13 +687,6 @@ The opening prayer asks for protection, support for the sick and afflicted, and 
 
 *[[2:45:16](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=9916s)]* The teacher asks listeners to reflect on the lesson, remain faithful, pray for the work, and share the classes. The closing returns to the central progression: learn, apply, receive counsel, and develop judgment through practice.
 
-### Review and application
-
-1. What distinguishes strong meat from milk in Hebrews 5:11–14? **Discernment developed through use, rather than time spent attending alone.**
-2. Does Sirach 37:13 remove the need for counsel? **No. Verses 12–16 join godly companionship, personal judgment, prayer, reasoning, and counsel.**
-3. What is the purpose of a learned tongue in Isaiah 50:4? **To speak helpfully to someone who is weary.**
-4. How does Colossians 4:3–6 shape a teacher's conversation? **Speak clearly and graciously, considering the person being addressed.**
-5. What tests are given for a spiritual claim? **Compare it with the law and testimony, and test rather than automatically believe it.**
 
 ## Announcements & References
 
