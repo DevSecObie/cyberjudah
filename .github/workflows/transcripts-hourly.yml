@@ -2,7 +2,8 @@ name: Hourly Transcript Harvest
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # GitHub's top-of-hour queue is heavily congested and can delay or drop runs.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
