@@ -24,11 +24,14 @@ import sources  # noqa: E402
 CATALOG = sources.ROOT / "data" / "books.tsv"
 KINDS = {
     "history": "History and scholarship",
-    "reference": "Dictionaries, encyclopedias and concordances",
+    "ancient": "Historians and writers of antiquity",
+    "document": "Papal bulls, laws, treaties and reports",
+    "reference": "Dictionaries, encyclopedias, concordances and commentaries",
+    "edition": "Other Bibles and manuscripts",
     "psychology": "Psychology and the family",
     "apocryphal": "Writings outside the 80 books",
     "lost": "Books named in scripture but not preserved",
-    "religious": "Scriptures of other religions",
+    "religious": "Other religions' scriptures and writings",
     "class": "Written by the teachers",
 }
 

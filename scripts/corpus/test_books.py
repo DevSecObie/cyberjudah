@@ -11,9 +11,9 @@ import books  # noqa: E402
 class BookTests(unittest.TestCase):
     def test_the_catalog_is_well_formed(self):
         rows = books.catalog()
-        self.assertGreater(len(rows), 80)
-        titles = [r["title"] for r in rows]
-        self.assertEqual(len(titles), len(set(titles)), "a book is listed twice")
+        self.assertGreater(len(rows), 200)
+        books_ = [(r["title"], r["author"]) for r in rows]
+        self.assertEqual(len(books_), len(set(books_)), "a book is listed twice")
         forms = [f for r in rows for f in r["forms"]]
         self.assertEqual(len(forms), len(set(forms)), "a search form names two books")
         self.assertTrue(all(f == f.lower() for f in forms))
