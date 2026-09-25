@@ -6,7 +6,7 @@ import { routeTree } from "./routeTree.gen";
  * Search params travel as plain strings. The router's default serialiser JSON-encodes any
  * value that happens to parse as JSON, so a quoted phrase search became
  * `?q=%22%5C%22seventh+day%5C%22%22`. Every route validates its own params, so plain
- * strings are enough; empty values are dropped so `/dictionary` stays `/dictionary`.
+ * strings are enough; empty values are dropped so `/glossary` stays `/glossary`.
  */
 function parseSearch(searchStr: string): Record<string, string> {
   const out: Record<string, string> = {};

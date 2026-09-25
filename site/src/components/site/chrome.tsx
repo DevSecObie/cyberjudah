@@ -36,7 +36,6 @@ const GROUPS: NavGroup[] = [
     label: "Reference",
     items: [
       { to: "/glossary", label: "Glossary", blurb: "The words the classes use, with where they are taught." },
-      { to: "/dictionary", label: "Dictionary", blurb: "What a word or a name means." },
       { to: "/concordance", label: "Concordance", blurb: "For a chapter, everything in the library that cites it." },
       { to: "/encyclopedia", label: "Encyclopedia", blurb: "Standing subjects walked through book by book." },
       { to: "/topics", label: "Topics", blurb: "Find classes and episodes by the topic they carry." },
@@ -165,7 +164,6 @@ export function SiteFooter() {
             <li><Link to="/search" search={{ q: "", only: undefined }}>Search</Link></li>
             <li><Link to="/encyclopedia">Encyclopedia</Link></li>
             <li><Link to="/glossary">Glossary</Link></li>
-            <li><Link to="/dictionary">Dictionary</Link></li>
             <li><Link to="/topics">Topics</Link></li>
             <li><Link to="/api">API</Link></li>
             <li><Link to="/downloads">Downloads</Link></li>

@@ -28,7 +28,7 @@ function GlossaryPage() {
       <Kicker>Words of the teaching</Kicker>
       <h1 className="cj-h1">Glossary.</h1>
       <p className="cj-lede">{about || "The words the classes use, defined from the teachings and the King James text, with the moments they are taught."}</p>
-      {entries.length === 0 ? <p className="study__empty">The glossary is being written. <Link to="/dictionary">The dictionary</Link> defines the Bible's own words in the meantime.</p> : (
+      {entries.length === 0 ? <p className="study__empty">The glossary is being written. Meanwhile, <Link to="/precepts">the precepts</Link> gather what scripture says on each subject.</p> : (
         <>
           <div className="filters">
             <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Find a word" aria-label="Find a word" />
