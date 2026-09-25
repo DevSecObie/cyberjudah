@@ -3,11 +3,10 @@ name: Backfill transcript metadata
 # Fills blank upload dates, durations and views in each feed's channel-meta.tsv for
 # transcripts that no source dates. Existing values are never overwritten.
 #
-# It runs daily because the hourly harvest cannot date what it collects: it lists channels
-# with yt-dlp's flat listing (no dates) and TranscriptAPI's transcript metadata carries none.
+# The hourly harvest cannot date what it collects: it lists channels with yt-dlp's flat
+# listing (no dates) and TranscriptAPI's transcript metadata carries none. Run this on demand;
+# add a schedule once the lookups are known to work from GitHub's runners.
 on:
-  schedule:
-    - cron: "41 6 * * *"
   workflow_dispatch:
     inputs:
       limit:
@@ -37,7 +36,7 @@ jobs:
 
       - name: Look up missing metadata
         env:
-          LIMIT: ${{ inputs.limit || '1000' }}
+          LIMIT: ${{ inputs.limit }}
         run: |
           python3 scripts/corpus/backfill_meta.py --report
           python3 scripts/corpus/backfill_meta.py --backend yt-dlp --limit "$LIMIT"

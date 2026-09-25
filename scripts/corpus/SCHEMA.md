@@ -190,8 +190,8 @@ python3 scripts/corpus/backfill_meta.py --backend yt-dlp --limit 500
 python3 scripts/corpus/backfill_meta.py --from-tsv found.tsv     # id, date[, duration, views]
 ```
 
-The **Backfill transcript metadata** workflow runs the yt-dlp lookup on GitHub Actions daily
-(and on demand) and commits the result. It has to: the hourly harvest cannot date what it
+The **Backfill transcript metadata** workflow runs the yt-dlp lookup on GitHub Actions on
+demand and commits the result. It is needed because the hourly harvest cannot date what it
 collects, because it lists channels with yt-dlp's flat listing, which carries no dates, and
 TranscriptAPI's transcript metadata carries none either. Each run tries the undated videos in a
 different order, so videos YouTube will not answer for never block the rest. `--from-tsv` applies dates found any other way (for example TranscriptAPI's
