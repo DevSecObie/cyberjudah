@@ -169,6 +169,41 @@ writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({
   for (const [slugKey, rows] of topicRows) writeJson(path.join(API, "topics", `${slugKey}.json`), { slug: slugKey, label: pretty(slugKey), url: `/topics/${slugKey}`, items: rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.title.localeCompare(b.title)) });
 }
 
+/* ---------------- api: glossary ---------------- */
+{
+  // data/glossary.json: the terms the teachings use, each defined from the teachings and the
+  // KJV. Every reference and moment is checked here, so a bad entry fails the build rather
+  // than publishing a broken link.
+  const file = path.join(ROOT, "data", "glossary.json");
+  const glossary = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : { entries: [] };
+  const problems = [];
+  const seen = new Set();
+  const REF = /^(.+?) (\d+)(?::(\d+(?:-\d+)?))?$/;
+  const entries = (glossary.entries ?? []).map((e) => {
+    const where = e.term || "(untitled entry)";
+    if (!e.term || !e.definition) problems.push(`${where}: needs a term and a definition`);
+    const slug = e.slug || String(e.term).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    if (seen.has(slug)) problems.push(`${where}: slug ${slug} is used twice`);
+    seen.add(slug);
+    const scripture = (e.scripture ?? []).flatMap((label) => {
+      const m = REF.exec(String(label).trim());
+      const chapter = m ? bible[m[1]]?.[m[2]] : null;
+      const verses = m?.[3] ? versesOf(m[3]) : [];
+      if (!m || !bookSlug[m[1]] || !chapter || verses.some((v) => !chapter[v - 1])) { problems.push(`${where}: no such passage "${label}"`); return []; }
+      return [{ label: String(label).trim(), url: `${chapterUrl(m[1], +m[2])}${m[3] ? `#v${firstVerse(m[3])}` : ""}` }];
+    });
+    const taught = (e.taught ?? []).flatMap((t) => {
+      if (!/^[\w-]{11}$/.test(t.video ?? "") || !(Number(t.seconds) >= 0)) { problems.push(`${where}: bad moment ${JSON.stringify(t)}`); return []; }
+      return [{ title: t.title ?? "", video: t.video, seconds: Math.floor(Number(t.seconds)), url: `https://www.youtube.com/watch?v=${t.video}&t=${Math.floor(Number(t.seconds))}s` }];
+    });
+    const see = (e.see ?? []).filter((s) => s && s.url && s.title);
+    return { term: e.term, slug, aliases: e.aliases ?? [], definition: e.definition, scripture, see, taught, url: `/glossary#${slug}` };
+  });
+  if (problems.length) throw new Error(`data/glossary.json:\n  ${problems.join("\n  ")}`);
+  entries.sort((a, b) => a.term.localeCompare(b.term, "en", { sensitivity: "base" }));
+  writeJson(path.join(API, "glossary", "index.json"), { about: glossary.about ?? "", entries });
+}
+
 /* ---------------- downloads ---------------- */
 {
   const vault = path.join(ROOT, "data", "downloads", "vault.zip");
@@ -335,7 +370,7 @@ writeJson(path.join(API, "index.json"), {
   kjv: "/api/kjv/books.json", chapter: "/api/kjv/<book-slug>/<chapter>.json", concordance: "/api/concordance/<book-slug>/<chapter>.json",
   notes: "/api/notes/index.json", note: "/api/notes/<site-path>.json", laws: "/api/laws/index.json", law: "/api/laws/<SECTION>.json",
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
-  concordanceIndex: "/api/concordance/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
+  concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
   history: "/api/history/index.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },

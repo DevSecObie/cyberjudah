@@ -1,0 +1,81 @@
+name: Draft glossary and encyclopedia entries
+
+# Drafts entries from the teachings with Claude (scripts/ai/draft.py) and opens a pull request
+# for review. Nothing reaches the site until a person merges it. Run with "estimate only"
+# first: it prints the size and cost and sends nothing.
+#
+# Needs the ANTHROPIC_API_KEY repository secret, and "Allow GitHub Actions to create and
+# approve pull requests" (Settings -> Actions -> General) for the pull request step; without
+# that the drafts are pushed to a branch and the run summary links to it.
+on:
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: What to draft
+        type: choice
+        options: [glossary, encyclopedia]
+        default: glossary
+      list:
+        description: Terms or subjects file (TSV)
+        default: data/drafting/glossary-terms.tsv
+        required: true
+      limit:
+        description: Draft at most this many from the list (blank for all)
+        default: "25"
+      estimate_only:
+        description: Estimate the cost only, send nothing
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: drafts
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --upgrade anthropic
+      - name: Build the corpus
+        run: python3 scripts/corpus/build.py
+
+      - name: Draft
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          KIND: ${{ inputs.kind }}
+          LIST: ${{ inputs.list }}
+          LIMIT: ${{ inputs.limit }}
+          ESTIMATE: ${{ inputs.estimate_only }}
+        run: |
+          flag=--terms; [[ "$KIND" == encyclopedia ]] && flag=--subjects
+          args=("$KIND" "$flag" "$LIST")
+          [[ -n "$LIMIT" ]] && args+=(--limit "$LIMIT")
+          [[ "$ESTIMATE" == true ]] && args+=(--estimate)
+          python3 scripts/ai/draft.py "${args[@]}" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Open a pull request for review
+        if: ${{ !inputs.estimate_only }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          KIND: ${{ inputs.kind }}
+        run: |
+          if [[ -z "$(git status --porcelain -- data/glossary.json docs/encyclopedia)" ]]; then
+            echo "No drafts to review." | tee -a "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          branch="drafts/${KIND}-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add -- data/glossary.json docs/encyclopedia
+          git commit -m "drafts: ${KIND} entries from the teachings (for review)"
+          git push origin "$branch"
+          if ! gh pr create --base main --head "$branch" --title "Review: drafted ${KIND} entries" --body-file dist/drafts/REPORT.md; then
+            echo "Could not open a pull request; the drafts are on branch $branch: https://github.com/${GITHUB_REPOSITORY}/compare/main...$branch" | tee -a "$GITHUB_STEP_SUMMARY"
+          fi

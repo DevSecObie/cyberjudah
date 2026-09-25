@@ -13,6 +13,7 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as ApiRouteImport } from './routes/api'
 import { Route as DownloadsRouteImport } from './routes/downloads'
+import { Route as GlossaryRouteImport } from './routes/glossary'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as SearchRouteImport } from './routes/search'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
@@ -64,6 +65,11 @@ const ApiRoute = ApiRouteImport.update({
 const DownloadsRoute = DownloadsRouteImport.update({
   id: '/downloads',
   path: '/downloads',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const GlossaryRoute = GlossaryRouteImport.update({
+  id: '/glossary',
+  path: '/glossary',
   getParentRoute: () => rootRouteImport,
 } as any)
 const RobotsDottxtRoute = RobotsDottxtRouteImport.update({
@@ -232,6 +238,7 @@ export interface FileRoutesByFullPath {
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
   '/downloads': typeof DownloadsRoute
+  '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -270,6 +277,7 @@ export interface FileRoutesByTo {
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
   '/downloads': typeof DownloadsRoute
+  '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -309,6 +317,7 @@ export interface FileRoutesById {
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
   '/downloads': typeof DownloadsRoute
+  '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -349,6 +358,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/api'
     | '/downloads'
+    | '/glossary'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
@@ -387,6 +397,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/api'
     | '/downloads'
+    | '/glossary'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
@@ -425,6 +436,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/api'
     | '/downloads'
+    | '/glossary'
     | '/robots.txt'
     | '/search'
     | '/sitemap.xml'
@@ -464,6 +476,7 @@ export interface RootRouteChildren {
   AboutRoute: typeof AboutRoute
   ApiRoute: typeof ApiRoute
   DownloadsRoute: typeof DownloadsRoute
+  GlossaryRoute: typeof GlossaryRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
@@ -526,6 +539,13 @@ declare module '@tanstack/react-router' {
       path: '/downloads'
       fullPath: '/downloads'
       preLoaderRoute: typeof DownloadsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/glossary': {
+      id: '/glossary'
+      path: '/glossary'
+      fullPath: '/glossary'
+      preLoaderRoute: typeof GlossaryRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/robots.txt': {
@@ -760,6 +780,7 @@ const rootRouteChildren: RootRouteChildren = {
   AboutRoute: AboutRoute,
   ApiRoute: ApiRoute,
   DownloadsRoute: DownloadsRoute,
+  GlossaryRoute: GlossaryRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,

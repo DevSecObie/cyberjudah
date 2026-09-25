@@ -182,6 +182,13 @@ export type LawPart = { n: number; title: string; url: string; sections: LawSect
 export type LawEntry = { id: string; text: string; refs: ResolvedRef[]; citation: string };
 export type LawCaseRef = { slug: string; name: string; charge: string; verdict: string; url: string };
 export type LawSection = { id: string; title: string; part: { n: number; title: string; url: string }; url: string; seeAlso: { id: string; title: string; url: string | null }[]; entries: LawEntry[]; caseRefs?: LawCaseRef[] };
+export type GlossaryEntry = {
+  term: string; slug: string; aliases: string[]; definition: string; url: string;
+  scripture: { label: string; url: string }[];
+  see: { title: string; url: string }[];
+  taught: { title: string; video: string; seconds: number; url: string }[];
+};
+export type Glossary = { about: string; entries: GlossaryEntry[] };
 export type PreceptRow = { slug: string; title: string; refs: number; url: string };
 export type Precept = { slug: string; title: string; url: string; refs: ResolvedRef[] };
 export type MergedCitation = { kind: string; label: string; url: string; verses: string[] };
@@ -213,6 +220,8 @@ export const api = {
   concordanceIndex: () => getJson<ConcordanceBookRow[]>("/api/concordance/index.json"),
   concordanceBook: (slug: string) => getJson<ConcordanceBook>(`/api/concordance/${slug}.json`),
   encyclopedia: () => getJson<EncyclopediaRow[]>("/api/encyclopedia/index.json"),
+  // Absent until the first glossary is published; an empty glossary rather than an error page.
+  glossary: () => getJson<Glossary>("/api/glossary/index.json").catch(() => ({ about: "", entries: [] } as Glossary)),
   topics: () => getJson<TopicRow[]>("/api/topics/index.json"),
   topic: (slug: string) => getJson<Topic>(`/api/topics/${slug}.json`),
   history: () => getJson<HistoryRow[]>("/api/history/index.json"),
