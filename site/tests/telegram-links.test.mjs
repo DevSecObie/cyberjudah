@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { appLink, pathToStartParam, startParamToPath } from "../src/lib/telegram-links.mjs";
+import { appLink, launchPath, pathToStartParam, sitePathOf, startParamToPath, toAppPath } from "../src/lib/telegram-links.mjs";
 
 test("start params open the page they name", () => {
   assert.equal(startParamToPath(""), "/");
@@ -33,4 +33,32 @@ test("share links use the Mini App when configured", () => {
   assert.equal(appLink("https://t.me/bot/read", "https://cyberjudah.io", "/bible/john/3", "16"), "https://t.me/bot/read?startapp=bible_john_3_16");
   assert.equal(appLink("https://t.me/bot/read", "https://cyberjudah.io", "/"), "https://t.me/bot/read");
   assert.equal(appLink("", "https://cyberjudah.io", "/bible/john/3", "16"), "https://cyberjudah.io/bible/john/3?v=16");
+});
+
+test("site paths map to the app's screens", () => {
+  assert.equal(toAppPath("/"), "/app");
+  assert.equal(toAppPath("/bible"), "/app/bible");
+  assert.equal(toAppPath("/bible/john"), "/app/bible?book=john");
+  assert.equal(toAppPath("/bible/john/3?v=16#v16"), "/app/read/john/3?v=16#v16");
+  assert.equal(toAppPath("/classes"), "/app/classes?feed=classes");
+  assert.equal(toAppPath("/classes/2026/the-coming-crisis"), "/app/note/classes/2026/the-coming-crisis");
+  assert.equal(toAppPath("/study/john/3#john-3-16"), "/app/note/study/john/3#john-3-16");
+  assert.equal(toAppPath("/search?q=passover"), "/app/search?q=passover");
+  assert.equal(toAppPath("/law/1/a"), null);
+  assert.equal(toAppPath("https://example.com/bible"), null);
+});
+
+test("app screens share the website page they show", () => {
+  assert.equal(sitePathOf("/app/read/john/3"), "/bible/john/3");
+  assert.equal(sitePathOf("/app/note/classes/2026/x"), "/classes/2026/x");
+  assert.equal(sitePathOf("/app"), "/");
+  assert.equal(sitePathOf("/app/classes"), "/classes");
+  assert.equal(sitePathOf("/law"), "/law");
+});
+
+test("Telegram launches land on the app's screens", () => {
+  assert.equal(launchPath(""), "/app");
+  assert.equal(launchPath("john_3_16"), "/app/read/john/3?v=16");
+  assert.equal(launchPath("classes_2026_x"), "/app/note/classes/2026/x");
+  assert.equal(launchPath("law"), "/law");
 });

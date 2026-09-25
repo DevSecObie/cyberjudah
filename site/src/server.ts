@@ -1,6 +1,6 @@
 import { renderErrorPage } from "./lib/error-page";
 import { applySecurityHeaders } from "./lib/security-headers.server";
-import { startParamToPath } from "./lib/telegram-links.mjs";
+import { launchPath } from "./lib/telegram-links.mjs";
 
 type ServerEntry = { fetch: (request: Request, env: unknown, ctx: unknown) => Promise<Response> | Response };
 let serverEntryPromise: Promise<ServerEntry> | undefined;
@@ -23,14 +23,13 @@ export default {
       url.pathname = url.pathname.replace(/\/+$/, "");
       return Response.redirect(url.toString(), 301);
     }
-    // A Telegram deep link (t.me/<bot>/<app>?startapp=john_3_16) arrives at the front door with
-    // the start param in the query; send it straight to the page it names. The target carries
-    // no fragment of its own, so the browser keeps #tgWebAppData across the redirect and the
-    // Mini App still boots; the bridge adds the verse anchor once the SDK has read it.
+    // A Telegram launch (t.me/<bot>/<app>?startapp=john_3_16) arrives with the start param in
+    // the query; send it straight to the app screen it names. The target carries no fragment of
+    // its own, so the browser keeps Telegram's #tgWebAppData across the redirect.
     const start = url.searchParams.get("tgWebAppStartParam");
-    if (start && url.pathname === "/") {
-      const target = startParamToPath(start).split("#")[0];
-      if (target !== "/") return new Response(null, { status: 302, headers: { location: target, "cache-control": "no-store" } });
+    if (start && (url.pathname === "/" || url.pathname === "/app")) {
+      const target = launchPath(start);
+      if (target !== url.pathname) return new Response(null, { status: 302, headers: { location: target, "cache-control": "no-store" } });
     }
     try {
       const handler = await getServerEntry();

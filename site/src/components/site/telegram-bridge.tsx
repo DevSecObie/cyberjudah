@@ -1,9 +1,9 @@
 import { useRouter } from "@tanstack/react-router";
 import { useEffect } from "react";
 
-import { THEME_COLOR } from "@/lib/brand";
+import { SITE_URL, THEME_COLOR } from "@/lib/brand";
 import { haptic, sharePage, telegram, type WebApp } from "@/lib/telegram";
-import { startParamToPath } from "@/lib/telegram-links.mjs";
+import { launchPath, sitePathOf } from "@/lib/telegram-links.mjs";
 
 const OPEN_LAYER = '[role="dialog"][data-state="open"], #cj-nav-links[data-open]';
 
@@ -42,17 +42,16 @@ function connect(app: WebApp, router: ReturnType<typeof useRouter>): () => void 
   // Reading scrolls a long way; a downward swipe should scroll, not close the app.
   if (app.isVersionAtLeast("7.7")) app.disableVerticalSwipes();
 
-  // The Worker redirects a launch with ?tgWebAppStartParam to its page (without the verse
-  // anchor, which would overwrite Telegram's launch fragment); this lands on the verse, and
-  // covers clients that pass the start param only in the launch data. Once per session.
+  // Telegram opens the app's own screens (/app). The Worker already redirects a launch that
+  // carries ?tgWebAppStartParam; this covers clients that pass it only in the launch data, and
+  // a launch at the website's front door. Once per session, so the website stays reachable.
   const start = app.initDataUnsafe.start_param;
   try {
-    if (start && !sessionStorage.getItem("cj-tg-start")) {
+    if (!sessionStorage.getItem("cj-tg-start")) {
       sessionStorage.setItem("cj-tg-start", "1");
-      const href = startParamToPath(start);
-      const loc = router.state.location;
-      const here = loc.pathname + (loc.searchStr ?? "");
-      if (href !== "/" && (loc.pathname === "/" || (href.startsWith(`${here}#`) && !/^v\d/.test(loc.hash)))) void router.navigate({ href, replace: true });
+      const target = launchPath(start ?? "");
+      const at = router.state.location.pathname;
+      if ((at === "/" || at === "/app") && target !== at) void router.navigate({ href: target, replace: true });
     }
   } catch { /* storage unavailable */ }
 
@@ -60,7 +59,10 @@ function connect(app: WebApp, router: ReturnType<typeof useRouter>): () => void 
   const layerOpen = () => document.querySelector(OPEN_LAYER) !== null;
   const syncBack = () => {
     if (!app.isVersionAtLeast("6.1")) return;
-    if (layerOpen() || router.history.canGoBack()) app.BackButton.show();
+    // The app's tab screens are roots, like a phone app's tabs: Telegram shows Close there.
+    const loc = router.state.location;
+    const tabRoot = /^\/app(\/(classes|bible|more))?\/?$/.test(loc.pathname) || (loc.pathname === "/app/search" && !new URLSearchParams(loc.searchStr).get("q"));
+    if (layerOpen() || (!tabRoot && router.history.canGoBack())) app.BackButton.show();
     else app.BackButton.hide();
   };
   const onBack = () => {
@@ -97,7 +99,7 @@ function connect(app: WebApp, router: ReturnType<typeof useRouter>): () => void 
     }, (id) => {
       if (id === "share") sharePage(new URLSearchParams(window.location.search).get("v") ?? undefined);
       if (id === "pin") app.addToHomeScreen();
-      if (id === "web") app.openLink(window.location.href);
+      if (id === "web") app.openLink(`${SITE_URL}${sitePathOf(window.location.pathname)}`);
     });
     if (canPin) app.checkHomeScreenStatus((s) => ask(s === "missed" || s === "unknown"));
     else ask(false);

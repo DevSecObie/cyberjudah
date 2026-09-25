@@ -7,7 +7,7 @@
 import { useEffect, useRef } from "react";
 
 import { SITE_NAME, SITE_URL, TELEGRAM_BUTTON, TELEGRAM_BUTTON_QUIET } from "@/lib/brand";
-import { appLink } from "@/lib/telegram-links.mjs";
+import { appLink, sitePathOf } from "@/lib/telegram-links.mjs";
 
 /**
  * The Mini App's direct link from @BotFather (/newapp), e.g. https://t.me/CyberJudahBot/read.
@@ -104,7 +104,7 @@ export function haptic(kind: "select" | "tap" | "success" = "tap") {
 export function sharePage(verses?: string, text?: string) {
   const app = tg();
   if (!app) return;
-  const link = appLink(TELEGRAM_APP_URL, SITE_URL, window.location.pathname, verses);
+  const link = appLink(TELEGRAM_APP_URL, SITE_URL, sitePathOf(window.location.pathname), verses);
   const title = text ?? document.title.replace(/\s*·\s*CyberJudah$/, "");
   const caption = title && title !== SITE_NAME ? `${title} · ${SITE_NAME}` : SITE_NAME;
   app.openTelegramLink(`https://t.me/share/url?url=${encodeURIComponent(link)}&text=${encodeURIComponent(caption)}`);
