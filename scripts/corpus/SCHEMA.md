@@ -199,8 +199,11 @@ video metadata); it accepts YouTube's own wording such as "Premiered Jan 5, 2023
 
 ## Teaching search
 
-`python3 scripts/corpus/index.py` exports `dist/teachings.sql` for the separate
-`teaching_passages` FTS5 table. It links recordings to existing notes and preserves unknown
+`python3 scripts/corpus/index.py` exports `dist/teachings.sql` for two tables: the separate
+`teaching_passages` FTS5 table, and `teaching_refs`, every verified scripture reference heard in
+those passages with the second it was heard (the caption cue it was heard in, else the passage
+start). Each Bible chapter page's study panel reads `teaching_refs` for its **Taught** tab: the
+recordings that return to the chapter or the selected verses most, with timestamp links. It links recordings to existing notes and preserves unknown
 dates. `/teachings` searches this server-side table with collection filters and 20-result
 pages. Quoted phrases are exact; unquoted terms must all match. Captions are displayed as
 plain text, never HTML. This is keyword search, not semantic question answering.

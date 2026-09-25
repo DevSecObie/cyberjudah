@@ -7,6 +7,7 @@ import { GoLink, withFrom } from "@/components/site/return-bar";
 import { renderNote } from "@/lib/markdown";
 import { citationsForVerses, parseRef, shelf, type Ref } from "@/lib/refs";
 import { RefCards } from "@/components/site/ref-card";
+import { TaughtList, useTaught } from "@/components/site/taught-list";
 
 /**
  * The study panel beside the text, the Logos habit: everything that cites this chapter, read
@@ -83,18 +84,24 @@ export function StudyPanel({
   compact?: boolean;
 }) {
   const [tab, setTab] = useState("all");
+  const taught = useTaught(origin.slug, origin.chapter, activeVerses);
   const from: From = { slug: origin.slug, chapter: origin.chapter, verses: activeVerses, href: fromHref(origin.slug, origin.chapter, activeVerses) };
 
   const visible = useMemo(() => (activeVerses.length ? citationsForVerses(citations, activeVerses) : citations), [citations, activeVerses]);
   const counts = useMemo(() => {
     const m: Record<string, number> = { all: visible.length };
     for (const g of GROUPS) m[g.id] = visible.filter((c) => g.shelves.includes(shelf(c))).length;
+    m.taught = taught.total;
     return m;
-  }, [visible]);
+  }, [visible, taught.total]);
   const shown = tab === "all" ? visible : visible.filter((c) => GROUPS.find((g) => g.id === tab)?.shelves.includes(shelf(c)));
   const open = study ? citations.find((c) => c.url === study) ?? { kind: "note", label: study, url: study, verses: "" } : null;
 
-  useEffect(() => { if (counts[tab] === 0) setTab("all"); }, [counts, tab]);
+  // Leave an emptied tab, but not while the recordings are still loading for a new selection.
+  useEffect(() => { if (counts[tab] === 0 && !(tab === "taught" && taught.state === "loading")) setTab("all"); }, [counts, tab, taught.state]);
+  const hasTaught = taught.total > 0 || (tab === "taught" && taught.state === "loading");
+  // A chapter no note cites yet may still have been taught: open on the recordings.
+  useEffect(() => { if (tab === "all" && counts.all === 0 && taught.total > 0) setTab("taught"); }, [tab, counts.all, taught.total]);
 
   return (
     <div className={compact ? "study study--compact" : "study"}>
@@ -112,7 +119,7 @@ export function StudyPanel({
               <span className="cj-mono">{citations.length ? "Whole chapter" : ""}</span>
             )}
           </div>
-          {citations.length === 0 ? (
+          {citations.length === 0 && !hasTaught ? (
             <p className="study__empty">Nothing in the library cites this chapter yet.</p>
           ) : (
             <Tabs.Root value={tab} onValueChange={setTab} className="study__tabs">
@@ -121,9 +128,12 @@ export function StudyPanel({
                 {GROUPS.filter((g) => counts[g.id] > 0).map((g) => (
                   <Tabs.Trigger key={g.id} value={g.id} className="tab">{g.label} <b>{counts[g.id]}</b></Tabs.Trigger>
                 ))}
+                {hasTaught ? <Tabs.Trigger value="taught" className="tab" title="Recordings where this was taught">Taught <b>{taught.total || ""}</b></Tabs.Trigger> : null}
               </Tabs.List>
               <div className="study__list">
-                {shown.length === 0 ? (
+                {tab === "taught" ? (
+                  <TaughtList taught={taught} />
+                ) : shown.length === 0 ? (
                   <p className="study__empty">Nothing cites {activeVerses.length === 1 ? "verse" : "verses"} {compressVerses(activeVerses).replace(/,/g, ", ")} in this shelf.</p>
                 ) : (
                   <ul className="cited">

@@ -2414,3 +2414,49 @@ button.verse__n[aria-pressed="true"] { color: var(--color-ink); font-weight: 700
   .teaching-result { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
   .teaching-thumbnail { width: 100%; max-width: 360px; }
 }
+
+/* Study panel: recordings where the chapter was taught (components/site/taught-list.tsx). */
+.taught__note {
+  margin: 0.25rem 0.6rem 0.75rem;
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+.taught__item {
+  display: grid;
+  gap: 0.3rem;
+  padding: 0.55rem 0.6rem 0.7rem;
+  border-bottom: 1px solid var(--color-hair);
+}
+.taught__item small {
+  color: var(--color-muted);
+  font: 500 0.66rem var(--font-mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.taught__title {
+  color: var(--color-ink);
+  font: 400 0.95rem/1.35 var(--font-serif);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.taught__title:hover,
+.taught__title:focus-visible {
+  color: var(--color-cyan);
+}
+.taught__moments {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+}
+.taught__moments .chip {
+  text-decoration: none;
+}
+.taught__notes {
+  font: 500 0.7rem var(--font-mono);
+  letter-spacing: 0.06em;
+  color: var(--color-cyan);
+  text-decoration: none;
+  margin-left: 0.25rem;
+}

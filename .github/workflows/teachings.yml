@@ -14,7 +14,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: python3 scripts/corpus/build.py --skip-scriptures
+      - run: python3 scripts/corpus/build.py
       - run: python3 scripts/corpus/index.py
       - run: npm ci --prefix site --no-audit --no-fund
       - name: Load teaching passages
