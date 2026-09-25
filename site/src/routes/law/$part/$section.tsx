@@ -7,6 +7,8 @@ import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { Breadcrumbs } from "@/components/site/browse-tools";
 import { pageHead } from "@/lib/head";
+import { TaughtSection } from "@/components/site/taught-list";
+import { passagesFromRefs } from "@/lib/teaching-refs";
 
 export const Route = createFileRoute("/law/$part/$section")({
   loader: async ({ params }) => {
@@ -71,6 +73,7 @@ function SectionPage() {
           </ul>
         </div>
       ) : null}
+      <TaughtSection passages={passagesFromRefs(section.entries.flatMap((e) => e.refs))} subject="these laws" />
       <div className="pager">
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.id} {prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}
         {next ? <Link to={next.url as never} className="read-link"><span>{next.id} {next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/law">The handbook</ReadLink>}

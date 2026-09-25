@@ -2460,3 +2460,24 @@ button.verse__n[aria-pressed="true"] { color: var(--color-ink); font-weight: 700
   text-decoration: none;
   margin-left: 0.25rem;
 }
+.taught-section {
+  margin: 3rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-hair);
+}
+.taught-section__title {
+  font: 700 0.75rem var(--font-mono);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-cyan);
+  margin: 0 0 0.5rem;
+}
+.taught-section .taught__note {
+  margin-left: 0;
+}
+.taught-section .taught__item {
+  padding-left: 0;
+}
+.taught__all {
+  margin-top: 0.9rem;
+}

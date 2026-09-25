@@ -57,7 +57,7 @@ test('grouping keeps one entry per recording with its moments in time order', ()
     row('y', 12, null, 5, ''),
   ])));
   assert.deepEqual(grouped.map(g => g.video), ['x', 'y']);
-  assert.deepEqual(grouped[0].moments.map(m => [m.verses, m.start]), [['12', 20], ['13-15', 100], ['12', 300]]);
+  assert.deepEqual(grouped[0].moments.map(m => [m.label, m.start]), [['v12', 20], ['v13-15', 100], ['v12', 300]]);
   assert.equal(grouped[1].date, '');
 });
 
@@ -68,4 +68,34 @@ test('verse filtering, clock and watch links', () => {
   assert.equal(refs.clock(59), '0:59');
   assert.equal(refs.clock(3723.9), '1:02:03');
   assert.equal(refs.watchAt('a-b_c', 61.8), 'https://www.youtube.com/watch?v=a-b_c&t=61s');
+});
+
+const passagesSql = readFileSync(new URL('../src/lib/teachings.ts', import.meta.url), 'utf8').match(/const passagesSql = `([^`]+)`/)[1];
+const passageQuery = (db, passages) => db.prepare(passagesSql).all(JSON.stringify(passages));
+
+test('the passage-set query ranks recordings by how many of the passages they taught', () => {
+  const db = database([
+    row('broad', 12, null, 1), { ...row('broad', 3, null, 2), slug: 'genesis', chapter: 1 },
+    row('narrow', 12, null, 5), row('narrow', 12, null, 9),
+    row('offtopic', 30, null, 1),
+  ]);
+  const rows = passageQuery(db, [{ s: 'isaiah', c: 14, a: 10, b: 13 }, { s: 'genesis', c: 1, a: null, b: null }]);
+  assert.deepEqual([...new Set(rows.map(r => r.video))], ['broad', 'narrow']);
+  assert.equal(rows[0].total, 2);
+  assert.deepEqual(rows.filter(r => r.video === 'broad').map(r => `${r.slug} ${r.chapter}:${r.first}`), ['isaiah 14:12', 'genesis 1:3']);
+});
+
+test('passages from links and resolved references', () => {
+  const plain = value => JSON.parse(JSON.stringify(value));
+  assert.deepEqual(plain(refs.passagesInMarkdown('See [Gen 1:26](/bible/genesis/1#v26), [Gen 2](/bible/genesis/2) and [again](/bible/genesis/1#v26), not [x](/law/1).')),
+    [{ slug: 'genesis', chapter: 1, first: 26, last: 26 }, { slug: 'genesis', chapter: 2 }]);
+  assert.deepEqual(plain(refs.verseSpan('1,3-5')), [1, 5]);
+  assert.equal(refs.verseSpan(''), null);
+  assert.deepEqual(plain(refs.passagesFromRefs([
+    { slug: '1-kings', chapter: 3, verses: '5-9', book: '1 Kings' },
+    { slug: null, chapter: 1, verses: '1' },
+    { slug: 'psalms', chapter: 23 },
+  ])), [{ slug: '1-kings', chapter: 3, book: '1 Kings', first: 5, last: 9 }, { slug: 'psalms', chapter: 23 }]);
+  assert.equal(refs.bookName('song-of-solomon'), 'Song of Solomon');
+  assert.equal(refs.bookName('1-kings'), '1 Kings');
 });

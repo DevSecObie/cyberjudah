@@ -6,6 +6,8 @@ import { CiteLanding } from "@/components/site/return-bar";
 import { api } from "@/lib/api";
 import { Breadcrumbs } from "@/components/site/browse-tools";
 import { pageHead } from "@/lib/head";
+import { TaughtSection } from "@/components/site/taught-list";
+import { passagesFromRefs } from "@/lib/teaching-refs";
 
 export const Route = createFileRoute("/precepts/$slug")({
   loader: async ({ params }) => {
@@ -38,6 +40,7 @@ function PreceptPage() {
           </div>
         </RefCards>
       </CiteLanding>
+      <TaughtSection passages={passagesFromRefs(p.refs)} subject="this precept" />
       <div className="pager">
         {prev ? <Link to="/precepts/$slug" params={{ slug: prev.slug }} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/precepts">All precepts</ReadLink>}
         {next ? <Link to="/precepts/$slug" params={{ slug: next.slug }} className="read-link"><span>{next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/precepts">All precepts</ReadLink>}

@@ -6,6 +6,8 @@ import { CiteLanding } from "@/components/site/return-bar";
 import { api, type StudyChapter, type TeachingExcerpt } from "@/lib/api";
 import { Breadcrumbs, eraAnchor } from "@/components/site/browse-tools";
 import { pageHead } from "@/lib/head";
+import { TaughtSection } from "@/components/site/taught-list";
+import { passagesFromRefs } from "@/lib/teaching-refs";
 
 const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
 
@@ -162,6 +164,7 @@ function CasePage() {
       </RefCards>
       </CiteLanding>
 
+      <TaughtSection passages={passagesFromRefs(refs)} subject="this case" />
       <div className="pager">
         {prev ? <Link to={prev.url as never} className="read-link"><span>{prev.name}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/cases">All cases</ReadLink>}
         {next ? <Link to={next.url as never} className="read-link"><span>{next.name}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/cases">All cases</ReadLink>}
