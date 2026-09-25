@@ -4,6 +4,8 @@ import type { ReactNode } from "react";
 
 import appCss from "../styles.css?url";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL, THEME_COLOR } from "../lib/brand";
+import { TELEGRAM_BOOT } from "../lib/telegram";
+import { TelegramBridge } from "../components/site/telegram-bridge";
 
 function buildHead() {
   const title = SITE_NAME;
@@ -78,8 +80,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 
 function RootShell({ children }: { children: ReactNode }) {
   return (
-    <html lang="en" data-theme="default-dark" style={{ colorScheme: "dark" }}>
+    <html lang="en" data-theme="default-dark" style={{ colorScheme: "dark" }} suppressHydrationWarning>
       <head>
+        {/* Loads Telegram's SDK only when Telegram opened the page; see lib/telegram.ts. */}
+        <script dangerouslySetInnerHTML={{ __html: TELEGRAM_BOOT }} />
         <HeadContent />
       </head>
       <body>
@@ -95,6 +99,7 @@ function RootComponent() {
   return (
     <QueryClientProvider client={queryClient}>
       <Outlet />
+      <TelegramBridge />
     </QueryClientProvider>
   );
 }

@@ -29,6 +29,9 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - run: npm ci --no-audit --no-fund
       - run: npm run build
+        env:
+          # The Telegram Mini App's t.me link (repository variable), so shared pages open in Telegram.
+          VITE_TELEGRAM_APP_URL: ${{ vars.TELEGRAM_APP_URL }}
       # Case-study drafts are held to the strict gate in the quality workflow. Keep that
       # separate backlog visible without blocking deployment of valid site and note work.
       - run: npm test

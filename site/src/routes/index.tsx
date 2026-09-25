@@ -8,6 +8,27 @@ import { Motion } from "@/components/site/motion";
 import { Matrix } from "@/components/site/matrix";
 import { GlowGrid, CountUp, Typed } from "@/components/site/cyber";
 import { api, fmtDate, nf, thumbUrl, type Stats } from "@/lib/api";
+import { openCommand } from "@/components/site/command";
+import { prefs, useTelegramButtons } from "@/lib/telegram";
+
+/** Inside Telegram: pick up where the reader left off, and search, from the bottom bar. */
+function useTelegramFrontDoor() {
+  const navigate = useNavigate();
+  const [last, setLast] = useState<{ slug: string; chapter: number; name: string } | null>(null);
+  useEffect(() => {
+    prefs.get("last-read", (v) => {
+      try {
+        const p = v ? JSON.parse(v) : null;
+        if (p && typeof p.slug === "string" && Number.isInteger(p.chapter) && typeof p.name === "string") setLast(p);
+      } catch { /* ignore */ }
+    });
+  }, []);
+  useTelegramButtons(
+    last ? { text: `Continue · ${last.name}`, onClick: () => navigate({ to: "/bible/$book/$chapter", params: { book: last.slug, chapter: String(last.chapter) } }) }
+      : { text: "Open the Bible", onClick: () => navigate({ to: "/bible" }) },
+    { text: "Search", onClick: () => openCommand() },
+  );
+}
 
 function LionFilm() {
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -273,6 +294,7 @@ function Index() {
   // down and restarts its media whenever the scenes array changes identity, and a loader
   // refetch after hydration hands back a new stats object with the same numbers in it.
   const [scenes] = useState(() => buildScrollScrubScenes(stats));
+  useTelegramFrontDoor();
   return (
     <div className="cj-shell">
       <SiteNav />

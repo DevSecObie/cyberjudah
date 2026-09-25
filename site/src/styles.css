@@ -2472,3 +2472,22 @@ button.verse__n[aria-pressed="true"] { color: var(--color-ink); font-weight: 700
 .glossary__entry dd { margin: 0.4rem 0 0; max-width: 46rem; }
 .glossary__entry dd > p { margin: 0.35rem 0; line-height: 1.55; }
 .glossary__refs .cj-mono, .glossary__entry .taught__moments .cj-mono { color: var(--color-muted); margin-right: 0.35rem; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.12em; }
+
+/* Telegram Mini App (html.tg is set before paint when Telegram opens the site). Telegram
+   draws its own header, back button and bottom bar, so the page stops bouncing, the nav
+   clears any safe area Telegram reports, and desktop-only hints go. */
+html.tg,
+html.tg body {
+  overscroll-behavior: none;
+}
+html.tg .cj-nav {
+  top: calc(var(--tg-safe-area-inset-top, 0px) + var(--tg-content-safe-area-inset-top, 0px));
+}
+html.tg body {
+  padding-top: calc(var(--tg-safe-area-inset-top, 0px) + var(--tg-content-safe-area-inset-top, 0px));
+  padding-bottom: var(--tg-safe-area-inset-bottom, 0px);
+}
+html.tg .cj-nav__search kbd,
+html.tg .reader__hint span {
+  display: none;
+}
