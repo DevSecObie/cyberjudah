@@ -1,0 +1,66 @@
+name: Backfill transcript metadata
+
+# Fills blank upload dates, durations and views in each feed's channel-meta.tsv for
+# transcripts that no source dates. Existing values are never overwritten.
+#
+# It runs daily because the hourly harvest cannot date what it collects: it lists channels
+# with yt-dlp's flat listing (no dates) and TranscriptAPI's transcript metadata carries none.
+on:
+  schedule:
+    - cron: "41 6 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Videos to look up this run
+        default: "1000"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  # Shares the harvest's group so the two never push channel-meta.tsv at the same time.
+  group: transcript-harvest
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - run: python3 -m pip install --upgrade yt-dlp
+
+      - name: Look up missing metadata
+        env:
+          LIMIT: ${{ inputs.limit || '1000' }}
+        run: |
+          python3 scripts/corpus/backfill_meta.py --report
+          python3 scripts/corpus/backfill_meta.py --backend yt-dlp --limit "$LIMIT"
+          python3 scripts/corpus/backfill_meta.py --report | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -z "$(git status --porcelain -- '*/channel-meta.tsv')" ]]; then
+            echo "No metadata found."
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- '*/channel-meta.tsv'
+          git commit -m "metadata: backfill upload dates [skip ci]"
+          for attempt in 1 2 3; do
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
+              exit 0
+            fi
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+            sleep $((attempt * 2))
+          done
+          echo "Push failed after 3 attempts."
+          exit 1

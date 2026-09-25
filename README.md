@@ -37,14 +37,17 @@ The editorial spec is [scripts/notes/README.md](scripts/notes/README.md).
 
 The timestamped transcripts remain the evidence layer. A separate, reproducible corpus joins
 their metadata, groups caption fragments into useful passages, preserves original and lightly
-normalized text, and annotates scripture references:
+normalized text, separates intros from speech, identifies language, annotates scripture
+references, and validates every record against a data dictionary:
 
 ```
 npm run corpus:test
 npm run corpus:build       # writes dist/corpus/ (private, not published)
+npm run corpus:backfill -- --report   # transcripts still missing an upload date
 ```
 
-The schema and normalization policy are in [scripts/corpus/SCHEMA.md](scripts/corpus/SCHEMA.md).
+The schema, normalization rules, quality flags and change log are in
+[scripts/corpus/SCHEMA.md](scripts/corpus/SCHEMA.md).
 
 ## Working on the site
 
