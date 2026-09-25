@@ -1,0 +1,102 @@
+# Books brought up in the classes: title<TAB>author<TAB>kind<TAB>search forms (';'-separated,
+# lower case, each distinctive enough to mean this book). scripts/corpus/books.py counts them.
+# kind: history, reference, religious (other traditions' scripture), apocryphal (outside the
+# 80 books), lost (named in scripture, not extant), psychology, class (written by teachers).
+# Forms must mean the book, not the words: "behold a pale horse" is Revelation 6:8 read aloud, so
+# that book is found by its author. Lost books are counted when the verse naming them is read.
+Nature Knows No Color-Line	J. A. Rogers	history	nature knows no color line;nature knows no colorline;nature knows no color-line
+Sex and Race	J. A. Rogers	history	sex and race
+From Babylon to Timbuktu	Rudolph R. Windsor	history	from babylon to timbuktu;babylon to timbuktu;babylon the timbuktu
+Judea Trembles Under Rome	Rudolph R. Windsor	history	judea trembles under rome;judea trembles
+Lost Tribes and Promised Lands	Ronald Sanders	history	lost tribes and promised land;lost tribes and promised lands;lost tribes and the promised land;lost tribes and the promised lands;lost tribes in the promised land;lost tribes in the promised lands
+The History of the American Indians	James Adair	history	history of the american indians;history of the american indian
+Origins of the American Indians: European Concepts, 1492-1729	Lee Eldridge Huddleston	history	origins of the american indians;origin of the american indian;origins of the american indian
+Light and Truth	R. B. Lewis	history	light and truth
+The Story of Civilization	Will Durant	history	story of civilization;caesar and christ
+They Came Before Columbus	Ivan Van Sertima	history	they came before columbus
+Hebrewisms of West Africa	Joseph J. Williams	history	hebrewisms of west africa;hebrewism of west africa
+Whence the "Black Irish" of Jamaica?	Joseph J. Williams	history	black irish of jamaica
+The Lost Tribes a Myth	Allen H. Godbey	history	lost tribes a myth
+The Works of Flavius Josephus	Flavius Josephus	history	josephus;antiquities of the jews;wars of the jews
+The Thirteenth Tribe	Arthur Koestler	history	thirteenth tribe;13th tribe;arthur koestler
+The Invention of the Jewish People	Shlomo Sand	history	invention of the jewish people
+New World Jewry, 1493-1825: Requiem for the Forgotten	Seymour B. Liebman	history	new world jewry
+Stolen Legacy	George G. M. James	history	stolen legacy
+The Two Babylons	Alexander Hislop	history	two babylons;alexander hislop
+Pictorial History of Israel	Jacob A. Rubin and Meyer Barkai	history	pictorial history of israel
+The Israelites	Time-Life Books	history	time life books;time-life books;time life book
+The Jews: A Study of Race and Environment	Maurice Fishberg	history	maurice fishberg;fishberg
+The Jewish Mystique	Ernest van den Haag	history	jewish mystique
+The Fate of Empires	Sir John Glubb	history	fate of empires
+Black Indians: A Hidden Heritage	William Loren Katz	history	black indians
+Before the Mayflower	Lerone Bennett Jr.	history	before the mayflower
+The Destruction of Black Civilization	Chancellor Williams	history	destruction of black civilization
+Description of Africa	Leo Africanus	history	description of africa;leo africanus
+The History of the Yorubas	Samuel Johnson	history	history of the yorubas
+The Martyrdom of Man	Winwood Reade	history	martyrdom of man
+A Tribute for the Negro	Wilson Armistead	history	tribute for the negro
+The Solomon Islands and Their Natives	H. B. Guppy	history	solomon islands and their natives
+The Temples That Jerusalem Forgot	Ernest L. Martin	history	temples that jerusalem forgot
+Who Is Esau-Edom?	Charles A. Weisman	history	who is esau edom;who is esau-edom
+Jews vs. Rome	Barry Strauss	history	jews vs rome;jews versus rome;jews vs. rome
+Racial Matters: The FBI's Secret File on Black America	Kenneth O'Reilly	history	racial matters
+Maritime Trade and the Movement of Culture	Kim Cliett Long	history	maritime trade and the movement of culture
+The New Testament World in Pictures	William H. Stephens	history	new testament world in pictures
+The Black Holocaust for Beginners	S. E. Anderson	history	black holocaust for beginners
+The Twelve Caesars	Suetonius	history	suetonius
+A Short Account of the Destruction of the Indies	Bartolome de las Casas	history	destruction of the indies;de las casas;de la casas
+Harvest of Empire	Juan Gonzalez	history	harvest of empire
+Mexico: Feast and Ferment	Tom Owen-Edmunds	history	feast and ferment
+Israel Redivivus		history	israel redivivus;israel redivus
+The History of Indigenous Slavery in Ghana	Akosua Adoma Perbi	history	indigenous slavery in ghana
+The British History Traced from Egypt and Palestine	L. G. A. Roberts	history	british history traced from egypt
+How to Hide an Empire	Daniel Immerwahr	history	how to hide an empire
+The Jews and Moors in Spain	Joseph Krauskopf	history	jews and moors in spain
+Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries	Meyer Kayserling	history	participation of the jews
+Eternal Rome	Grant Showerman	history	eternal rome
+Medical Apartheid	Harriet A. Washington	history	medical apartheid
+The Willie Lynch Letter		history	willie lynch
+Behold a Pale Horse	Milton William Cooper	history	william cooper;bill cooper;milton cooper
+Confessions of an Economic Hit Man	John Perkins	history	economic hit man;economic hitman
+The Mis-Education of the Negro	Carter G. Woodson	history	mis-education of the negro;miseducation of the negro;mis education of the negro
+Black Macho and the Myth of the Superwoman	Michele Wallace	history	black macho
+Russian Icons		history	russian icons
+The Negro Almanac		reference	negro almanac
+The Jewish Encyclopedia	Funk and Wagnalls, 1901-1906	reference	jewish encyclopedia
+The Universal Jewish Encyclopedia		reference	universal jewish encyclopedia
+Encyclopaedia Judaica		reference	encyclopedia judaica;encyclopaedia judaica
+Encyclopaedia Britannica		reference	encyclopedia britannica;encyclopaedia britannica;britannica
+Encyclopedia Americana		reference	encyclopedia americana
+Strong's Exhaustive Concordance	James Strong	reference	strong's concordance;strongs concordance;strong's exhaustive;strong's;strongs
+Zondervan Bible Dictionary	Zondervan	reference	zondervan
+Smith's Bible Dictionary	William Smith	reference	smith's dictionary;smith's bible dictionary;smiths bible dictionary;smiths dictionary
+Harper's Bible Dictionary		reference	harper's bible dictionary;harper's dictionary;harpers bible dictionary;harpers dictionary
+Unger's Bible Dictionary	Merrill F. Unger	reference	unger's;ungers bible dictionary
+Easton's Bible Dictionary	M. G. Easton	reference	easton's;eastons bible dictionary
+Holman Bible Atlas		reference	holman bible atlas;holman atlas
+Webster's Dictionary	Merriam-Webster	reference	webster's dictionary;webster dictionary;merriam-webster;merriam webster;websters dictionary
+Oxford English Dictionary		reference	oxford dictionary;oxford english dictionary
+Black's Law Dictionary		reference	black's law dictionary;blacks law dictionary
+The Book of Enoch		apocryphal	book of enoch
+The Book of Jubilees		apocryphal	book of jubilees
+The First Book of Adam and Eve		apocryphal	book of adam and eve
+The Gospel of Thomas		apocryphal	gospel of thomas
+The Gospel of Barnabas		apocryphal	gospel of barnabas
+The Book of Jasher	named in Joshua 10:13 and 2 Samuel 1:18	lost	book of jasher;book of jashar
+The Book of the Wars of the Lord	named in Numbers 21:14	lost	book of the wars of the lord
+The Book of the Acts of Solomon	named in 1 Kings 11:41	lost	acts of solomon
+The Book of the Chronicles of the Kings of Israel and Judah	named in 1 and 2 Kings	lost	chronicles of the kings of judah;chronicles of the kings of israel
+The Sayings of the Seers	named in 2 Chronicles 33:19	lost	sayings of the seers
+The Book of Nathan the Prophet	named in 1 Chronicles 29:29	lost	book of nathan the prophet
+The Book of Gad the Seer	named in 1 Chronicles 29:29	lost	book of gad the seer
+The Talmud		religious	talmud
+The Quran		religious	quran;koran
+The Book of Mormon		religious	book of mormon
+The Developmental Psychology of the Black Child	Amos N. Wilson	psychology	psychology of the black child
+Countering the Conspiracy to Destroy Black Boys	Jawanza Kunjufu	psychology	conspiracy to destroy black boys
+Black Men: Obsolete, Single, Dangerous?	Haki R. Madhubuti	psychology	obsolete single and dangerous;obsolete single dangerous;single and dangerous
+Post Traumatic Slave Syndrome	Joy DeGruy	psychology	post traumatic slave syndrome;post-traumatic slave syndrome
+Waking the Tiger	Peter A. Levine	psychology	waking the tiger
+Influence: The Psychology of Persuasion	Robert Cialdini	psychology	psychology of persuasion
+Trauma Letters: Healing the Child Within	Captain Galayah	class	trauma letters
+The Spiritual Power of a Black Woman	Captain Hoshaya	class	spiritual power of a black woman

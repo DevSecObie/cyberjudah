@@ -211,7 +211,7 @@ def _assemble(term, aliases, pattern, per_recording, related, documents, excerpt
     for doc_id in per_recording:
         doc = documents[doc_id]
         feeds[doc["feed"]] += 1
-        years[(doc["date"] or "undated")[:4]] += 1
+        years[doc["date"][:4] if doc["date"] else "undated"] += 1
 
     # Spread excerpts across the recordings that dwell on the term most. From each, take the
     # passage where it is taught rather than merely named: the one with the most mentions,
