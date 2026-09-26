@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "media", "nations", "prayer", "repentance"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="XLxd9su1ZIk"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-xlxd9su1zik.jpg" alt="Class artwork">
 </figure>
@@ -31,7 +33,7 @@ Shalom, shalom brothers. That's the name of the class: Know Your Enemy, God's Fo
 
 ## Scriptures Opened
 
-**[Obadiah 1:3](/bible/obadiah/1#v3)**  *[12:12]*
+**[Obadiah 1:3](/bible/obadiah/1#v3)**  *[[12:12](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=732s)]*
 
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 
@@ -46,7 +48,7 @@ Shalom, shalom brothers. That's the name of the class: Know Your Enemy, God's Fo
 - This is what you call when dumb black people do not know history, when dumb black people do not read. Their book is social media, television, sport. They never pick up a book and sit down and read. This is what happened when you drop out of high school.
 - And you know what's so crazy? That's an older guy. He's supposed to teach the young man. If this guy knew just a little bit about the history, he would know that the ignorance that's coming out of his mouth make no sense.
 
-**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[20:46]*
+**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**  *[[20:46](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=1246s)]*
 
 > <sup>[7](/bible/deuteronomy/33#v7)</sup> And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
 
@@ -94,7 +96,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Read on screen: "America officially declared its independence from Great Britain on July 4th, 1776." In 1776, approximately 500,000 black people lived in the 13 colonies; the vast majority were enslaved. What year did slavery end? December 6, 1865. What year was Jim Crow? 1877. What year was redlining? 1930; that's not even long ago. Black codes? 1865 to 1866. Sharecropping? 1865. Lynching? Martin Luther King died 1968. That was like 60 years ago; that wasn't long. We got some people alive today that was there.
 - So my point is this: that 250th anniversary have nothing to do with black people. They actually celebrating they still have their foot on our neck. That's what they're celebrating. For those of you simple negroes about to barbecue: that's what they're celebrating.
 
-**[Deuteronomy 28:15-33](/bible/deuteronomy/28#v15)**  *[58:27]*
+**[Deuteronomy 28:15-33](/bible/deuteronomy/28#v15)**  *[[58:27](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=3507s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 >
@@ -140,7 +142,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Listen to me clearly: white people cannot survive without black people. We do not understand that. They know that. You think it's a coincidence they burned all these black towns in America, they flooded all these black cities, when black people was trying to do their own thing? They said nope. You see the difference between the white people and us: white people think 100 years from now; black people think about tomorrow. Esau understand what happen if they leave us alone.
 - I was watching a video the other day: a white man was complaining how they cannot even afford food, but his neighbor just bought a brand new Mercedes, and his neighbor is black, and he was pissed. Look at him, he just bought a brand new car, we can't even pay our mortgage. Isn't that what they did to us in Oklahoma, in Georgia, all over? They did that to us.
 
-**[Deuteronomy 28:37-45](/bible/deuteronomy/28#v37)**  *[1:02:34]*
+**[Deuteronomy 28:37-45](/bible/deuteronomy/28#v37)**  *[[1:02:34](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=3754s)]*
 
 > <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
 >
@@ -167,7 +169,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - And you think you're free? No. Freedom for black people is an illusion, just like democracy is an illusion. We're not free; they tell you free on paper.
 - He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail. That happen everywhere the Israelite is.
 
-**[Deuteronomy 28:48-49](/bible/deuteronomy/28#v48)**  *[1:06:35]*
+**[Deuteronomy 28:48-49](/bible/deuteronomy/28#v48)**  *[[1:06:35](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=3995s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 >
@@ -180,7 +182,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - The Lord shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth. A lot of time we read this, we always look at Rome and America. Why we always look at America first? Because that's the land we're in now, and America's sign is the eagle.
 - Read in class: "The French imperial eagle was a figure carried into battle as a standard by the Grande Armee of Napoleon I during the Napoleonic Wars. On 5th December 1804, three days after his coronation, Napoleon I distributed eagle standards based on the eagles of the Roman legions." Now stop: Napoleon was in power what year? When Haiti took the independence, 1804, Napoleon was in power. The Bible is a true book. What happened in 1804? The revolution of Haiti; the Haitians took their independence in 1804. So when the French, the white man, was at war with the Haitians, the eagle was there. The same way the African-American here is under that eagle, there was a time the Haitian was also under that eagle. What's that showing you? We are the Israelites. The same people.
 
-**[Deuteronomy 28:64-67](/bible/deuteronomy/28#v64)**  *[1:14:44]*
+**[Deuteronomy 28:64-67](/bible/deuteronomy/28#v64)**  *[[1:14:44](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=4484s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 >
@@ -195,7 +197,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - And there thou shalt serve other gods, which neither thou nor thy fathers have known. When you go to these countries, you're going to be scattered, you're going to serve the gods of the other nations. Our fathers did not know no Christianity. Our fathers did not know no white Jesus. Our fathers did not know no religion called Islam. They did not know Krishna, Buddha. Picture shown: kissing the feet, that's Catholicism; our fathers did not know trash like that.
 - Read in class: "Haitian voodoo origins. Haitian voodoo is an Afro-Caribbean religion rooted in West African voodoo, developed in Haiti among enslaved Africans and influenced by Catholic elements." Believe it or not, some Haitians believe voodoo is a religion.
 
-**[Genesis 49:5-7](/bible/genesis/49#v5)**  *[1:18:59]*
+**[Genesis 49:5-7](/bible/genesis/49#v5)**  *[[1:18:59](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=4739s)]*
 
 > <sup>[5](/bible/genesis/49#v5)</sup> Simeon and Levi are brethren; instruments of cruelty are in their habitations.
 >
@@ -210,13 +212,13 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - For in their anger they slew a man: that go back to their history about their sister Dinah. If you don't know that history, man, shame on you. You need to know that history.
 - I just want to show you this: it's not only Judah who serve other gods; Levi also serve other gods. When Moses gave that prophecy, all 12 was together. Guess what? The northern kingdom do the same thing. You ever went to a Dominican restaurant, a Hispanic restaurant? They got a little shrine in the corner, they got candles, they got the statue. I'm like, who the hell is this? I know this is not your grandmother, because she got blonde hair, blue eyes. The northern kingdom do the same thing. So that curse is against the whole 12 tribes.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[1:23:31]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[1:23:31](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=5011s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
 - And the Lord shall bring thee into Egypt again with ships. How did the Haitians get to Haiti? How did the Jamaicans get to Jamaica? When we teaching in the street here, we always refer to America, but this cover the whole 12 tribes. I want you guys to understand that. I'm showing you we are one people. There should not be division in the midst of us.
 
-**[Proverbs 1:24-27](/bible/proverbs/1#v24)**  *[1:23:31]*
+**[Proverbs 1:24-27](/bible/proverbs/1#v24)**  *[[1:23:31](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=5011s)]*
 
 > <sup>[24](/bible/proverbs/1#v24)</sup> Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
 >
@@ -231,7 +233,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Donald Trump is not going to only stop there. I hope you guys understand that. And guess what? Donald Trump going to leave office, somebody else going to come; they're not going to stop either. Don't think it's only Donald Trump, cuz nobody talk about all the people Obama deported. Obama deported so many people, I don't even think Donald Trump in four years can catch up. But everybody look at Donald Trump. Donald Trump sit in the same office, that same chair; Obama sat in the seat of the devil, Obama did the devil's work, Donald Trump is doing the same devil work Obama did. They all serving the same Satan. All of them answer to Satan. We answer to Most High; they answer to Satan.
 - The only thing we can do is pray for our people. That's all we can do, and Most High got to show mercy. But guess what? Our people must repent though. I'm not praying for no Haitian in the middle of sin, in the middle of voodooism, killing their own people. I'm not praying for none of these evil people. If you're evil, God is going to send evil towards you. You in darkness, God is going to send darkness towards you. What you see going on right now in Haiti is a result of sin. That's it. You can hate me, you can love me: what's going on right now in Haiti is the result of sin.
 
-**[Ecclesiasticus 12:10](/bible/sirach/12#v10)**  *[1:27:37]*
+**[Ecclesiasticus 12:10](/bible/sirach/12#v10)**  *[[1:27:37](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=5257s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 
@@ -249,7 +251,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Some of you want to know what is the world's problem. The world's problem is the white man. You want peace on earth? The white man got to go. You talking about celebrating 250 years; I want to celebrate a century without the white man. Listen, I want to celebrate a year without the white man, see how it feel.
 - In other words, Haitians do not run Haiti. That's what he said: America run Haiti. This is for those of you who run your mouth talking about, oh yeah, let them go back to Haiti. Haitians do not own Haiti; the State Department own Haiti. That's why Haiti never going to change. Since some of you do not believe us, do not believe the Bible: let the white man say it, cuz some of you love the white man.
 
-**[Malachi 1:4](/bible/malachi/1#v4)**  *[1:40:21]*
+**[Malachi 1:4](/bible/malachi/1#v4)**  *[[1:40:21](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=6021s)]*
 
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 
@@ -260,7 +262,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Now think about it. They borrowed money from the banks of France to pay France. You can't make this stuff up.
 
 
-**[Malachi 1:6-8](/bible/malachi/1#v6)**  *[1:44:24]*
+**[Malachi 1:6-8](/bible/malachi/1#v6)**  *[[1:44:24](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=6264s)]*
 
 > <sup>[6](/bible/malachi/1#v6)</sup> A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the Lord of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?
 >
@@ -271,7 +273,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the Lord of hosts unto you, O priests, that despise my name. That's talking about the Levites.
 - Ye offer polluted bread upon mine altar. That's how you know it's Levi, because Levi was the priests; Levi was the ones doing the sacrifices. And if ye offer the blind for sacrifice, is it not evil? and if ye offer the lame and sick, is it not evil? offer it now unto thy governor; will he be pleased with thee? That's showing you how the Levites got corrupt.
 
-**[Malachi 2:1-9](/bible/malachi/2#v1)**  *[1:48:45]*
+**[Malachi 2:1-9](/bible/malachi/2#v1)**  *[[1:48:45](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=6525s)]*
 
 > <sup>[1](/bible/malachi/2#v1)</sup> And now, O ye priests, this commandment is for you.
 >
@@ -300,7 +302,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Therefore have I also made you contemptible and base before all the people. When you look at the 12 tribes, Levi is the basest of all of them. Haiti is the poorest country in the hemisphere. The poorest. Levi is the base. That's what God is saying. Why? Sin. Sin. Sin.
 - The only way this can change: Levi, repent. Come back to the law of God. So you want change in Haiti? Repent. Oh, you don't want that though. That's the only way. We giving you the solution: the solution is repent, come back to the law of God. And it's not only for Levi: I'm talking about Judah, I'm talking about Benjamin, I'm talking about the whole 12 tribes. You want change? Repent. That's the only way.
 
-**[Malachi 3:3](/bible/malachi/3#v3)**  *[1:52:57]*
+**[Malachi 3:3](/bible/malachi/3#v3)**  *[[1:52:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=6777s)]*
 
 > <sup>[3](/bible/malachi/3#v3)</sup> And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness.
 
@@ -310,26 +312,26 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 - That's it. It's not only Haiti, brothers. Everywhere the Israelite is, they make sure we stay in poverty.
 
-**[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[1:52:57]*
+**[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[[1:52:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=6777s)]*
 
 > <sup>[29](/bible/deuteronomy/33#v29)</sup> Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
 
 - Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee. That's what we see today, brothers: our enemies found liars. Now we can read; now we can open a book and read. We can see these Bibles is about us and our people. This Bible is for the 12 tribes of Israel.
 
-**[Wisdom of Solomon 18:7](/bible/wisdom-of-solomon/18#v7)**  *[1:56:57]*
+**[Wisdom of Solomon 18:7](/bible/wisdom-of-solomon/18#v7)**  *[[1:56:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7017s)]*
 
 > <sup>[7](/bible/wisdom-of-solomon/18#v7)</sup> So of thy people was accepted both the salvation of the righteous, and destruction of the enemies.
 
 - I want you to meditate on this scripture, especially today, a special day the so-called white man is celebrating. So of thy people was accepted both the salvation of the righteous and destruction of the enemies. We got to accept both, brothers and sisters. What we got to accept? The salvation of the righteous: we are the righteous. And you got to accept the destruction of the enemies.
 - You know what that's saying? Don't pray for America to stay in power. Don't pray for peace. No. Pray for the destruction of your enemies. You must accept that. That's the only way you're going to get the kingdom.
 
-**[Psalms 21:8](/bible/psalms/21#v8)**  *[1:56:57]*
+**[Psalms 21:8](/bible/psalms/21#v8)**  *[[1:56:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7017s)]*
 
 > <sup>[8](/bible/psalms/21#v8)</sup> Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.
 
 - God's enemy is our enemy. Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee. God got a lot of enemies, just like the Israelites got a lot of enemies.
 
-**[Psalms 68:1-3](/bible/psalms/68#v1)**  *[1:56:57]*
+**[Psalms 68:1-3](/bible/psalms/68#v1)**  *[[1:56:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7017s)]*
 
 > <sup>[1](/bible/psalms/68#v1)</sup> Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 >
@@ -339,7 +341,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 - Let God arise, let his enemies be scattered: let them also that hate him flee before him. As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God. But let the righteous be glad: let Israel be glad; let them rejoice before God: yea, let them exceedingly rejoice.
 
-**[Psalms 140:1-3](/bible/psalms/140#v1)**  *[1:56:57]*
+**[Psalms 140:1-3](/bible/psalms/140#v1)**  *[[1:56:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7017s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
 >
@@ -349,19 +351,19 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 - Deliver me, O Lord, from the evil man: preserve me from the violent man; which imagine mischiefs in their heart; continually are they gathered together for war. They have sharpened their tongues like a serpent; adders' poison is under their lips.
 
-**[Nahum 1:2](/bible/nahum/1#v2)**  *[1:56:57]*
+**[Nahum 1:2](/bible/nahum/1#v2)**  *[[1:56:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7017s)]*
 
 > <sup>[2](/bible/nahum/1#v2)</sup> God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.
 
 - God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies. So God reserve wrath for America. God reserve wrath for China, for Europe, for all the evil they did to our people.
 
-**[Psalms 92:9](/bible/psalms/92#v9)**  *[1:56:57]*
+**[Psalms 92:9](/bible/psalms/92#v9)**  *[[1:56:57](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7017s)]*
 
 > <sup>[9](/bible/psalms/92#v9)</sup> For, lo, thine enemies, O Lord, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.
 
 - For, lo, thine enemies, O Lord, for, lo, thine enemies shall perish. God's enemies and our enemies shall perish, shall die. And all the workers of iniquity shall be scattered.
 
-**[2 Thessalonians 2:8-9](/bible/2-thessalonians/2#v8)**  *[2:01:09]*
+**[2 Thessalonians 2:8-9](/bible/2-thessalonians/2#v8)**  *[[2:01:09](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7269s)]*
 
 > <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 >
@@ -369,7 +371,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 - And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming. Even him, whose coming is after the working of Satan with all power and signs and lying wonders. So God is going to bring judgment in this place.
 
-**[Psalms 110:1-3](/bible/psalms/110#v1)**  *[2:01:09]*
+**[Psalms 110:1-3](/bible/psalms/110#v1)**  *[[2:01:09](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7269s)]*
 
 > <sup>[1](/bible/psalms/110#v1)</sup> The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 >
@@ -380,7 +382,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Levi, listen: you better repent, that when the destruction come, you don't fall in it.
 - The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool. The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies. Thy people shall be willing in the day of thy power. The scripture said we're going to be willing. That's the remnant. We're going to be willing.
 
-**[Psalms 35:1-9, 16-28](/bible/psalms/35#v1)**  *[2:01:09]*
+**[Psalms 35:1-9, 16-28](/bible/psalms/35#v1)**  *[[2:01:09](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7269s)]*
 
 > <sup>[1](/bible/psalms/35#v1)</sup> Plead my cause, O Lord, with them that strive with me: fight against them that fight against me.
 >
@@ -392,7 +394,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Plead my cause, O Lord, with them that strive with me: fight against them that fight against me. Take hold of shield and buckler, and stand up for mine help. Let them be confounded and put to shame that seek after my soul. Let their way be dark and slippery: and let the angel of the Lord persecute them. Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall. And my soul shall be joyful in the Lord: it shall rejoice in his salvation.
 - Let not them that are mine enemies wrongfully rejoice over me. Don't let them rejoice over the Israelites. Let them not say in their hearts, Ah, so would we have it: because you know that's what they're celebrating today. Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me. And my tongue shall speak of thy righteousness and of thy praise all the day long.
 
-**[Psalms 55:9, 17-21](/bible/psalms/55#v9)**  *[2:05:10]*
+**[Psalms 55:9, 17-21](/bible/psalms/55#v9)**  *[[2:05:10](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7510s)]*
 
 > <sup>[9](/bible/psalms/55#v9)</sup> Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.
 >
@@ -404,7 +406,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.
 - The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.
 
-**[Psalms 69:22-28](/bible/psalms/69#v22)**  *[2:05:10]*
+**[Psalms 69:22-28](/bible/psalms/69#v22)**  *[[2:05:10](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7510s)]*
 
 > <sup>[22](/bible/psalms/69#v22)</sup> Let their table become a snare before them: and that which should have been for their welfare, let it become a trap.
 >
@@ -423,7 +425,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Let their table become a snare before them: and that which should have been for their welfare, let it become a trap. Let their eyes be darkened, that they see not; and make their loins continually to shake. Pour out thine indignation upon them, and let thy wrathful anger take hold of them. Let their habitation be desolate; and let none dwell in their tents.
 - Add iniquity unto their iniquity: and let them not come into thy righteousness. Let them be blotted out of the book of the living, and not be written with the righteous.
 
-**[Psalms 109:1-31](/bible/psalms/109#v1)**  *[2:09:22]*
+**[Psalms 109:1-31](/bible/psalms/109#v1)**  *[[2:09:22](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=7762s)]*
 
 > <sup>[1](/bible/psalms/109#v1)</sup> Hold not thy peace, O God of my praise;
 >
@@ -493,25 +495,25 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him. As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones. Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.
 - But do thou for me, O God the Lord, for thy name's sake: because thy mercy is good, deliver thou me. For I am poor and needy, and my heart is wounded within me. Help me, O Lord my God: O save me according to thy mercy: that they may know that this is thy hand; that thou, Lord, hast done it. Let them curse, but bless thou: let mine adversaries be clothed with shame. I will greatly praise the Lord with my mouth; for he shall stand at the right hand of the poor, to save him from those that condemn his soul. Amen. That's a hell of a prayer right here.
 
-**[Ezekiel 18:32](/bible/ezekiel/18#v32)**  *[2:13:26]*
+**[Ezekiel 18:32](/bible/ezekiel/18#v32)**  *[[2:13:26](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=8006s)]*
 
 > <sup>[32](/bible/ezekiel/18#v32)</sup> For I have no pleasure in the death of him that dieth, saith the Lord God: wherefore turn yourselves, and live ye.
 
 - For I have no pleasure in the death of him that dieth, saith the Lord God. God say he have no pleasure in the death of the Israelite. Wherefore turn yourselves, and live ye. Wherefore repent and live. That's what he say. Levi, repent. Repent. Repent.
 
-**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[2:13:26]*
+**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[[2:13:26](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=8006s)]*
 
 > <sup>[13](/bible/proverbs/28#v13)</sup> He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
 - He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
-**[Psalms 19:7](/bible/psalms/19#v7)**  *[2:13:26]*
+**[Psalms 19:7](/bible/psalms/19#v7)**  *[[2:13:26](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=8006s)]*
 
 > <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
 
 - The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
 
-**[Revelation 18:4](/bible/revelation/18#v4)**  *[2:13:26]*
+**[Revelation 18:4](/bible/revelation/18#v4)**  *[[2:13:26](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=8006s)]*
 
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 
@@ -519,7 +521,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - Why I read this today on the Sabbath? You got our people entangled in foolishness, barbecuing, celebrating; they have nothing to do with the so-called 4th of July. They forgot where they were.
 - And that ye receive not of her plagues. Receive not, in other words, of America's judgment. God will bring judgment here.
 
-**[Luke 13:1-5](/bible/luke/13#v1)**  *[2:17:38]*
+**[Luke 13:1-5](/bible/luke/13#v1)**  *[[2:17:38](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=8258s)]*
 
 > <sup>[1](/bible/luke/13#v1)</sup> There were present at that season some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices.
 >
@@ -541,7 +543,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 - I tell you, Nay: but, except ye repent, ye shall all likewise perish. Except Judah do what? Repent. Except Ephraim do what? Repent. Except Benjamin do what? Repent. Except Issachar do what? Repent. Except Zabulon do what? Repent. Except Manasseh do what? Repent. Ye shall all likewise perish. You're going to die too. Because we are the 12 tribes of Israel. We are the sons and daughters of the living God. This whole thing is about us.
 - So don't be quick to celebrate what's happened to the so-called Haitians. Don't celebrate that. God is telling you, do not celebrate. When you see evil happen to your people, do not celebrate that. Never celebrate that. It can happen to you too. Yes, they come here, they talk evil about Judah. They don't know any better. There was a time you used to talk evil; you didn't know any better. You got to forgive them. That don't justify you celebrating what's happened to them. None of you Israelites who repented should celebrate what just happened to our people. None of you should ever have that spirit.
 
-**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)** (return)  *[2:25:50]*
+**[Deuteronomy 33:7](/bible/deuteronomy/33#v7)** (return)  *[[2:25:50](https://www.youtube.com/watch?v=XLxd9su1ZIk&t=8750s)]*
 
 > <sup>[7](/bible/deuteronomy/33#v7)</sup> And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
 
@@ -562,4 +564,4 @@ Referenced in class: Captain Gideon's class from that morning on the black towns
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=XLxd9su1ZIk)

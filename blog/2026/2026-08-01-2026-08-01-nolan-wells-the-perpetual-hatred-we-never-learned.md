@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "war"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="fJ_pW-RImxU"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-fj_pw-rimxu.jpg" alt="Class artwork">
 </figure>
@@ -36,7 +38,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
 ## Scriptures Opened
 
-**[Genesis 4:1-22](/bible/genesis/4#v1)**  *[8:15]*
+**[Genesis 4:1-22](/bible/genesis/4#v1)**  *[[8:15](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=495s)]*
 
 > <sup>[1](/bible/genesis/4#v1)</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 >
@@ -94,7 +96,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Power over resources, power over music, and power over weapons. What is that one word? Influence: power and dominance over the world. That is what Cain had back then, and that is what he has today. The righteous at this point were pretty much gone; Abel was dead, and evil began to grow and dominate the earth.
 - Tubal-cain is reverenced and admired by the Freemasons, who honor builders; there is a masonic hall right here in Philadelphia with the portraits, the hands held a certain way. The teacher also passed on, flagged as possible internet folklore, the claim that the 007 symbol goes back to two balls and a cane.
 
-**[Genesis 25:20-34](/bible/genesis/25#v20)**  *[23:40]*
+**[Genesis 25:20-34](/bible/genesis/25#v20)**  *[[23:40](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=1420s)]*
 
 > <sup>[20](/bible/genesis/25#v20)</sup> And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan–aram, the sister to Laban the Syrian.
 >
@@ -136,7 +138,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Feed me, I pray thee, with that same red pottage: therefore was his name called Edom, meaning red, because he sought food that matched him. Sometimes a baby comes out pink and the color comes in later; the Lord said, no, he stayed the same: still red, still hairy.
 - Sell me this day thy birthright. And Esau said, behold, I am at the point to die: and what profit shall this birthright do to me? He was the eldest, the heir of Abraham's inheritance, and he did not care, because he was evil and did not care about God's blessings. He sware unto Jacob and sold it; and when he had eaten, he rose up and went his way: thus Esau despised his birthright.
 
-**[Genesis 27:1-45](/bible/genesis/27#v1)**  *[30:27]*
+**[Genesis 27:1-45](/bible/genesis/27#v1)**  *[[30:27](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=1827s)]*
 
 > <sup>[1](/bible/genesis/27#v1)</sup> And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.
 >
@@ -241,7 +243,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - And Esau hated Jacob because of the blessing, and Esau said in his heart, the days of mourning for my father are at hand; then will I slay my brother Jacob. He said it internally, in his mind, and the scripture says those words were told to Rebekah: God was talking to Rebekah; the Lord was dealing with her on a high level.
 - Flee thou to Laban my brother to Haran, and tarry with him a few days, until thy brother's fury turn away. And Esau's anger did turn away; but his children's did not. That hatred he had for Jacob remained dormant in him, and he passed it on to his children. That is the perpetual hatred of today's title.
 
-**[Exodus 17:8-16](/bible/exodus/17#v8)**  *[49:43]*
+**[Exodus 17:8-16](/bible/exodus/17#v8)**  *[[49:43](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=2983s)]*
 
 > <sup>[8](/bible/exodus/17#v8)</sup> Then came Amalek, and fought with Israel in Rephidim.
 >
@@ -266,14 +268,14 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
 - Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation: meaning for ever. It is the same thing Malachi said; we read Malachi 1 all the time, but this is in the law. God will war with Esau for ever, through us, and eventually himself when Christ returns.
 
-**[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[52:34]*
+**[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[[52:34](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3154s)]*
 
 > <sup>[7](/bible/deuteronomy/23#v7)</sup> Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
 
 - Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land. The apologists love to pull this verse on us, and it is actually in our favor: if you pull it, you are agreeing about who Esau is.
 - Why does the Lord speak of the Edomite and the Egyptian in the same breath? The Egyptians were our oppressors. Moses saw the beginning of time, the middle, and the end; he saw who was going to be our Egypt in this time and what they did to us back in Exodus. He is saying, do not carry hatred, because you are going to end up serving under them; if it be possible, be at peace with all men. That is the instruction, not amnesia.
 
-**[Deuteronomy 25:17-19](/bible/deuteronomy/25#v17)**  *[53:44]*
+**[Deuteronomy 25:17-19](/bible/deuteronomy/25#v17)**  *[[53:44](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3224s)]*
 
 > <sup>[17](/bible/deuteronomy/25#v17)</sup> Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;
 >
@@ -286,14 +288,14 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - When the Lord thy God hath given thee rest in the land, thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it. God said do not forget what they did to you. God does not forget; we do. Christianity trains our people to be very forgetful, willfully.
 - Picture shown in class: at the trial of Botham Jean's killer, the judge embracing her, his own brother coming behind to hug her, and a court officer combing her hair. God said do not forget.
 
-**[Numbers 24:20](/bible/numbers/24#v20)**  *[56:58]*
+**[Numbers 24:20](/bible/numbers/24#v20)**  *[[56:58](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3418s)]*
 
 > <sup>[20](/bible/numbers/24#v20)</sup> And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.
 
 - When he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations: the first nation Israel had to war with when we came out of Egypt.
 - But his latter end shall be that he perish for ever: the Lord wars with him from generation to generation, and his end is to be destroyed out of existence for ever.
 
-**[1 Samuel 15:1-9, 32-33](/bible/1-samuel/15#v1)**  *[57:44]*
+**[1 Samuel 15:1-9, 32-33](/bible/1-samuel/15#v1)**  *[[57:44](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3464s)]*
 
 > <sup>[1](/bible/1-samuel/15#v1)</sup> Samuel also said unto Saul, The Lord sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the Lord.
 >
@@ -324,7 +326,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - But Saul and the people spared Agag, the king of the Amalekites, and the best of the sheep and the oxen, being presumptuous and covetous; and every thing that was vile and refuse, that they destroyed utterly. He kept the tough one, their king, alive.
 - Then said Samuel, bring ye hither to me Agag. And Agag came unto him delicately, and said, surely the bitterness of death is past. And Samuel said, as thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the Lord in Gilgal. Samuel followed instructions; Saul played games. Remember Agag; he comes back up in this class.
 
-**[Esther 2:5-23](/bible/esther/2#v5)**  *[1:03:49]*
+**[Esther 2:5-23](/bible/esther/2#v5)**  *[[1:03:49](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=3829s)]*
 
 > <sup>[5](/bible/esther/2#v5)</sup> Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;
 >
@@ -354,7 +356,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it. Do not tell anyone that you are an Israelite. The Persians are a dark people themselves, and from Esther's look you could not tell what she was; she could pass, and she kept the commandment of Mordecai, like as when she was brought up with him.
 - Two of the king's chamberlains, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus. And the thing was known to Mordecai, who told it unto Esther the queen; and Esther certified the king thereof in Mordecai's name. Inquisition was made; both were hanged on a tree; and it was written in the book of the chronicles before the king. Mordecai saved the king's life, and it went on record.
 
-**[Esther 3:1-6](/bible/esther/3#v1)**  *[1:08:04]*
+**[Esther 3:1-6](/bible/esther/3#v1)**  *[[1:08:04](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4084s)]*
 
 > <sup>[1](/bible/esther/3#v1)</sup> After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
 >
@@ -373,7 +375,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - They spake daily unto him, and he hearkened not; and they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew. And when Haman saw that Mordecai bowed not, Haman was full of wrath.
 - And he thought scorn to lay hands on Mordecai alone: Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, for what one Jew would not do. Why all of them? Remember what king Saul was sent to do to Amalek. Haman's people kept the records; he knew Mordecai's line, the line of Kish, was the line sent to destroy his forefathers. Esau forgave Jacob, but his children hold the grudge from generation to generation. They do not forget; we do.
 
-**[1 Samuel 15:32-33](/bible/1-samuel/15#v32)**  *[1:12:12]*
+**[1 Samuel 15:32-33](/bible/1-samuel/15#v32)**  *[[1:12:12](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4332s)]*
 
 > <sup>[32](/bible/1-samuel/15#v32)</sup> Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past.
 >
@@ -390,7 +392,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
     This is the wisdom Samuel applied, and the wisdom we have to learn to apply. Never trust thine enemy: for like as iron rusteth, so is his wickedness. Though he humble himself and go crouching: is that not exactly what Agag did, coming delicately? Yet take good heed and beware of him; thou shalt know that his rust hath not been altogether wiped away. When we apply what the scriptures show us, we learn that our enemies have been the same from day one, and they are not going to change.
 
-**[Esther 13:3-5 (Additions to Esther)](/bible/esther-greek/13#v3)**  *[1:14:33]*
+**[Esther 13:3-5 (Additions to Esther)](/bible/esther-greek/13#v3)**  *[[1:14:33](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4473s)]*
 
 > <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and steadfast fidelity, and had the honour of the second place in the kingdom,
 >
@@ -402,7 +404,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Declared unto us, that in all nations throughout the world there was scattered a certain malicious people, that had laws contrary to all nations, and continually despised the commandments of kings: there is Haman slandering us, the same slander used on us today: they are malicious, they are violent, they are a problem.
 - So as the uniting of our kingdoms cannot go forward: Haman was a Macedonian Edomite in Persia, saying the kingdoms cannot unite as long as these Jews are around, this people alone, continually in opposition unto all men, working all the mischief they can that our kingdom may not be firmly established. The accuser's argument has not changed in all these ages.
 
-**[Psalms 50:16-22](/bible/psalms/50#v16)**  *[1:17:07]*
+**[Psalms 50:16-22](/bible/psalms/50#v16)**  *[[1:17:07](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4627s)]*
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
@@ -426,7 +428,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - These things hast thou done, and I kept silence: God allowed it, because we are in sin. Thou thoughtest that I was altogether such an one as thyself: because God sat back and allowed this man to conquer the earth by blood and warfare, he concludes that God is with him, that God looks like him, that Christ and the angels look like him, that everything good and divine is him. No. But I will reprove thee, and set them in order before thine eyes: and you are watching that order being set now.
 - Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
 
-**[1 John 3:10-12](/bible/1-john/3#v10)**  *[1:21:06]*
+**[1 John 3:10-12](/bible/1-john/3#v10)**  *[[1:21:06](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4866s)]*
 
 > <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
 >
@@ -437,7 +439,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - In this the children of God are manifest, and the children of the devil: the devil has children. That was Cain's children back then, and it is Esau's children today. Whosoever doeth not righteousness is not of God, neither he that loveth not his brother: did Cain love his brother? Does Esau?
 - For this is the message that ye heard from the beginning, that we should love one another. Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.
 
-**[John 8:44](/bible/john/8#v44)**  *[1:22:33]*
+**[John 8:44](/bible/john/8#v44)**  *[[1:22:33](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4953s)]*
 
 > <sup>[44](/bible/john/8#v44)</sup> Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 
@@ -445,7 +447,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - He was a murderer from the beginning: who was a murderer from the beginning? Cain. John said he was of that wicked one; Christ calls him the devil.
 - And abode not in the truth, because there is no truth in him: in process of time Cain stopped abiding in the truth with his offering; Esau did the same. Isaac taught Esau the laws and the commandments, and he cast them off.
 
-**[Wisdom of Solomon 10:1-3](/bible/wisdom-of-solomon/10#v1)**  *[1:24:42]*
+**[Wisdom of Solomon 10:1-3](/bible/wisdom-of-solomon/10#v1)**  *[[1:24:42](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=5082s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/10#v1)</sup> She preserved the first formed father of the world, that was created alone, and brought him out of his fall,
 >
@@ -456,7 +458,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Wisdom preserved the first formed father of the world, that was created alone: Adam; and brought him out of his fall, and gave him power to rule all things.
 - But when the unrighteous went away from her in his anger, he perished also in the fury wherewith he murdered his brother: Cain went away from wisdom, and he was killed the same violent way that he killed Abel. Live by the sword, die by the sword.
 
-**[Amos 1:11](/bible/amos/1#v11)**  *[1:29:34]*
+**[Amos 1:11](/bible/amos/1#v11)**  *[[1:29:34](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=5374s)]*
 
 > <sup>[11](/bible/amos/1#v11)</sup> Thus saith the Lord; For three transgressions of Edom, and for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:
 
@@ -464,7 +466,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - And his anger did tear perpetually, and he kept his wrath for ever: the anger Esau had for Jacob back then passed on into his children. The hatred is generational; it remained, and it does not change. This is the perpetual hatred of the class title.
 - The class contrasted the footage we all keep seeing: unarmed brothers shot again and again, a man pinned down and shot in the face while an officer was calling for a taser, a seven year old boy shot dozens of times; set against armed white suspects wrestled down, talked down, taken alive. Two manner of people, as Genesis 25 said.
 
-**[Ezekiel 35:1-5](/bible/ezekiel/35#v1)**  *[1:31:47]*
+**[Ezekiel 35:1-5](/bible/ezekiel/35#v1)**  *[[1:31:47](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=5507s)]*
 
 > <sup>[1](/bible/ezekiel/35#v1)</sup> Moreover the word of the Lord came unto me, saying,
 >
@@ -483,7 +485,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Mary Turner, May 1918, Valdosta, Georgia: after a plantation owner known for abusing his black workers was shot, white mobs began lynching black men without evidence; one was Hayes Turner. His wife Mary, twenty one years old and eight months pregnant, said publicly that she would press charges; the newspapers said she made unwise remarks. On May 19, 1918 the mob hung her upside down from a tree, set her on fire, cut her open so that her unborn child fell to the ground and was stomped to death, and shot her body dozens of times. Not one person was arrested or named; Georgia did not acknowledge her murder until a historical marker in 2008, ninety years later, and that marker has been shot at, vandalized, and torn down.
 - A fugitive and a vagabond in the earth: no one arrested, no one served time. That is Cain all over again; that is what the class means by we never learn who we are dealing with.
 
-**[Obadiah 1:1-10](/bible/obadiah/1#v1)**  *[1:43:51]*
+**[Obadiah 1:1-10](/bible/obadiah/1#v1)**  *[[1:43:51](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6231s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 >
@@ -512,20 +514,20 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee. That is happening right now; eventually his own confederacy turns on him, as it did in the world wars.
 - Shall I not in that day destroy the wise men out of Edom, and understanding out of the mount of Esau? to the end that every one of the mount of Esau may be cut off by slaughter. For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever. The judgment is written, and the charge on it is the violence against Jacob.
 
-**[1 Peter 5:8](/bible/1-peter/5#v8)**  *[1:47:30]*
+**[1 Peter 5:8](/bible/1-peter/5#v8)**  *[[1:47:30](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6450s)]*
 
 > <sup>[8](/bible/1-peter/5#v8)</sup> Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
 
 - Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour. The Bible speaks of the adversary as a lion; hold on to that image for the next scriptures.
 
-**[2 Timothy 4:17](/bible/2-timothy/4#v17)**  *[1:48:08]*
+**[2 Timothy 4:17](/bible/2-timothy/4#v17)**  *[[1:48:08](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6488s)]*
 
 > <sup>[17](/bible/2-timothy/4#v17)</sup> Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
 
 - Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: all of us scattered abroad. And I was delivered out of the mouth of the lion.
 - Many Bibles carry the margin note on this verse: the lion is Caesar Nero. Commentary read in class: scholars take the lion of 2 Timothy 4:17 as Nero and the Roman authorities who held the power of life and death, or as Satan, echoing 1 Peter 5:8. The class taught it is the same picture: Paul called the Roman power the lion, and the scriptures call the lion the devil.
 
-**[Psalms 22:20-21](/bible/psalms/22#v20)**  *[1:50:10]*
+**[Psalms 22:20-21](/bible/psalms/22#v20)**  *[[1:50:10](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6610s)]*
 
 > <sup>[20](/bible/psalms/22#v20)</sup> Deliver my soul from the sword; my darling from the power of the dog.
 >
@@ -533,7 +535,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
 - Deliver my soul from the sword; my darling from the power of the dog: the dog is the wicked elders of our own people. Save me from the lion's mouth: this is Christ on the cross. On that cross Christ is in the lion's mouth: the Roman, Edomite authority, with the evil ones of our own people who were in bed with that authority.
 
-**[Revelation 12:3-10](/bible/revelation/12#v3)**  *[1:51:09]*
+**[Revelation 12:3-10](/bible/revelation/12#v3)**  *[[1:51:09](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6669s)]*
 
 > <sup>[3](/bible/revelation/12#v3)</sup> And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
 >
@@ -553,14 +555,14 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Am I my brother's keeper comes back around here: give them drugs, give them guns, and then blame them for it. They ask why we are violent: who made the guns, and how did they get there? They call us addicts: how did the drugs get there? They call us poor: who made us poor? Any people placed under our conditions do the same things; the studies have been done.
 - The class taught the accuser's aim: God did not choose Esau, he chose Jacob; so the adversary labors to make Jacob behave like him, believing that if Jacob falls he can stand up in Jacob's place. If you cannot beat them, become them: destroy you, and become you.
 
-**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[1:55:52]*
+**[Jeremiah 50:7](/bible/jeremiah/50#v7)**  *[[1:55:52](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6952s)]*
 
 > <sup>[7](/bible/jeremiah/50#v7)</sup> All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
 
 - All that found them have devoured them: all that found us in our sin devoured us. And their adversaries said, we offend not: and that is not only Edom; that is all the nations that partook, the Arabs too.
 - Because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers: the nations excuse themselves with our sin: they went against their own God, so we are not wrong. They set the conditions, and then they point at the results.
 
-**[Zechariah 11:5](/bible/zechariah/11#v5)**  *[1:57:47]*
+**[Zechariah 11:5](/bible/zechariah/11#v5)**  *[[1:57:47](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7067s)]*
 
 > <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
 
@@ -568,7 +570,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - And they that sell them say, blessed be the Lord; for I am rich: every seller blesses his own god off of our destruction.
 - And their own shepherds pity them not: our own shepherds in allegiance with the powers make their living defending the system against their own people. The class named the media personalities who do this for a career; the scripture already described them.
 
-**[Revelation 13:1-2](/bible/revelation/13#v1)**  *[1:59:00]*
+**[Revelation 13:1-2](/bible/revelation/13#v1)**  *[[1:59:00](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7140s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -578,7 +580,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - The beast was like unto a leopard: it took on the Greek doctrine, democracy, born in Greece; his feet were as the feet of a bear: Persia; and his mouth as the mouth of a lion: Babylon, and back to the devil again. This last empire incorporates all the ancient empires before it to strengthen itself; America became this powerful in only two hundred fifty years.
 - And the dragon gave him his power, and his seat, and great authority: that is the source of the dominance. Not intelligence, not IQ: the dragon gave him his power, and he lives by the sword, exactly as the blessing of Genesis 27 said: the fatness of the earth, obtained by the sword.
 
-**[Ecclesiasticus 12:10-11](/bible/sirach/12#v10)**  *[2:01:11]*
+**[Ecclesiasticus 12:10-11](/bible/sirach/12#v10)**  *[[2:01:11](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7271s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 >
@@ -593,7 +595,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Columbus owned the travels of Marco Polo and had read it with great care, and he studied Esdras; Vasco da Gama sailed around the Cape of Good Hope to India; both were familiar with the reports about Jews in India. Wherever the Israelites are found, the wealth is found: remember the blessing, the dew of heaven and the fatness of the earth.
 - Luis de Torres: Columbus's interpreter spoke Aramaic, Arabic, Chaldee, and Hebrew, and Columbus sent him with Rodrigo de Xeres on shore to communicate with the natives; so after the landfall in America, the first words addressed to the natives were words of Hebrew. Ask yourself why you bring a Hebrew speaker to meet the people you claim you think are in India.
 
-**[Ezekiel 35:5-11](/bible/ezekiel/35#v5)**  *[2:17:10]*
+**[Ezekiel 35:5-11](/bible/ezekiel/35#v5)**  *[[2:17:10](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8230s)]*
 
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
 >
@@ -613,13 +615,13 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Book read in class, Wars of the Jews (page 195): Queen Kahina, an Israelite queen, was resisting the Arab conquest of Africa; the historians write that the Muslims would have it, largely due to the peculiar Jewish weakness of compassion for the enemy. The historians themselves call our compassion for the enemy a peculiar Jewish weakness. Compassion without remembrance is how we keep being destroyed; that is what happened with James Byrd, and that is what happened with Nolan Wells: our people keep turning a blind eye to evil and extending trust where the scriptures say beware.
 - Video read in class, Sam Hose, 1899, Newnan, Georgia: the local newspaper announced the lynching in advance, and special trains from Atlanta offered discounted tickets. Two thousand white men, women, and children watched as his ears and fingers were cut off one by one and he was burned alive, and afterward pieces of his bones and organs were sold as souvenirs. Between 1877 and 1950 over four thousand black people were lynched in America, most as advertised public spectacles printed into postcards and mailed with notes. In 1916, fifteen thousand people gathered in Waco, Texas, to watch seventeen year old Jesse Washington burned alive, with the mayor and the chief of police present. A federal anti lynching bill failed some two hundred times between 1882 and 1968; the Emmett Till Antilynching Act was finally signed on March 29, 2022; and not one person was ever prosecuted for a lynching. Not one.
 
-**[Matthew 11:12](/bible/matthew/11#v12)**  *[2:24:43]*
+**[Matthew 11:12](/bible/matthew/11#v12)**  *[[2:24:43](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8683s)]*
 
 > <sup>[12](/bible/matthew/11#v12)</sup> And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
 
 - From the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. The kingdom of heaven here is the children of Israel; we are the kingdom of heaven. The violent at that time were the Romans, and the violent have taken the kingdom by force.
 
-**[Psalms 140:1-4](/bible/psalms/140#v1)**  *[2:25:21]*
+**[Psalms 140:1-4](/bible/psalms/140#v1)**  *[[2:25:21](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8721s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
 >
@@ -634,13 +636,13 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - They have sharpened their tongues like a serpent; adders' poison is under their lips: propaganda, lies, whitewashed history, old books destroyed, false doctrines poured out.
 - Preserve me from the violent man, who have purposed to overthrow my goings: the same violence Christ described in Matthew 11:12.
 
-**[Matthew 22:7](/bible/matthew/22#v7)**  *[2:26:28]*
+**[Matthew 22:7](/bible/matthew/22#v7)**  *[[2:26:28](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8788s)]*
 
 > <sup>[7](/bible/matthew/22#v7)</sup> But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.
 
 - But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city. The king sent the Roman armies against the wicked elders of our people who had Christ killed, and burned up their city: that is 70 AD.
 
-**[Luke 21:20-24](/bible/luke/21#v20)**  *[2:26:59]*
+**[Luke 21:20-24](/bible/luke/21#v20)**  *[[2:26:59](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8819s)]*
 
 > <sup>[20](/bible/luke/21#v20)</sup> And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 >
@@ -655,7 +657,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - And they shall fall by the edge of the sword: the sword of the violent man, the Romans; and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled. Our land is now walked upon by imposters until their time in that land is up, and we are slowly approaching that time now, all thanks to America and Israel's alliance.
 - Image shown in class, the destroyed black towns and districts: Tulsa and the Osage country in Oklahoma, an hour apart, conquered like the northern and southern kingdoms at the same time; Wilmington, Atlanta, Rosewood, Elaine, Slocum, Colfax, Opelousas, Thibodaux, New Orleans, St. Bernard Parish, Vicksburg, Seneca Falls, Black Bottom in Detroit, and more; and that is a fraction of the list. The Pentagon itself was built on a former black town called Queen City. This is domestic terrorism built upon hatred and murder, and when they could not call it what it was, they renamed the massacres riots.
 
-**[2 Esdras 11:40-46](/bible/2-esdras/11#v40)**  *[2:29:36]*
+**[2 Esdras 11:40-46](/bible/2-esdras/11#v40)**  *[[2:29:36](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8976s)]*
 
 > <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
 >
@@ -691,4 +693,4 @@ Books and materials read in class:
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=fJ_pW-RImxU)

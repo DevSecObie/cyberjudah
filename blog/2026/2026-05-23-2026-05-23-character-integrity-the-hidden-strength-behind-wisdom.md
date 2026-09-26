@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "betrayal", "gossip", "leadership", "wisdom"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="G8e9rhvB-W0"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-g8e9rhvb-w0.jpg" alt="Class artwork">
 </figure>
@@ -23,7 +25,7 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
 ## Scriptures Opened
 
-**[Wisdom of Solomon 1:3-8](/bible/wisdom-of-solomon/1#v3)**  *[1:05]*
+**[Wisdom of Solomon 1:3-8](/bible/wisdom-of-solomon/1#v3)**  *[[1:05](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=65s)]*
 
 > <sup>[3](/bible/wisdom-of-solomon/1#v3)</sup> For froward thoughts separate from God: and his power, when it is tried, reproveth the unwise.
 >
@@ -42,7 +44,7 @@ Integrity is a decision that has to be made every time. If you are not reading y
 - When you have discipline, the Holy Spirit of discipline is going to flee deceit, and will not abide when unrighteousness cometh in.
 - He that speaketh unrighteous things cannot be hid. When you lack character, when you lack integrity, you do something that you know is wrong, eventually those things are going to come out; there is no getting around it. The Lord will reveal that stuff, and it comes out when it is supposed to come out.
 
-**[Joshua 1:16-17](/bible/joshua/1#v16)**  *[12:21]*
+**[Joshua 1:16-17](/bible/joshua/1#v16)**  *[[12:21](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=741s)]*
 
 > <sup>[16](/bible/joshua/1#v16)</sup> And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.
 >
@@ -58,7 +60,7 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
     Camps like that have made themselves students and underlings to foolish men.
 
-**[Genesis 39:1-12](/bible/genesis/39#v9)**  *[14:30]*
+**[Genesis 39:1-12](/bible/genesis/39#v9)**  *[[14:30](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=870s)]*
 
 > <sup>[9](/bible/genesis/39#v9)</sup> There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
 
@@ -75,7 +77,7 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
     Sit not at all with another man's wife; don't play with it. Don't be drinking around somebody else's wife, lest thine heart incline unto her, and through thy desire thou fall into destruction. Both of y'all are going to destroy everything.
 
-**[Job 2:3-13](/bible/job/2#v3)**  *[22:40]*
+**[Job 2:3-13](/bible/job/2#v3)**  *[[22:40](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=1360s)]*
 
 > <sup>[3](/bible/job/2#v3)</sup> And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
 >
@@ -113,13 +115,13 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
     If a man be overtaken in a fault, ye which are spiritual restore such an one in the spirit of meekness. You got to build and restore this man back to life, speak life into that brother to get him back on track. Bear ye one another's burdens; if we was in that same situation, we would want our brothers to come and get us out of it.
 
-**[Daniel 6:4](/bible/daniel/6#v4)**  *[33:00]*
+**[Daniel 6:4](/bible/daniel/6#v4)**  *[[33:00](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=1980s)]*
 
 > <sup>[4](/bible/daniel/6#v4)</sup> Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.
 
 - The presidents and princes sought to find occasion against Daniel, but there was no error or fault found in him. This man lived up to a name integrity, even when they tried to force them to worship other gods, and the Lord showed favor to Daniel.
 
-**[John 12:4-6](/bible/john/12#v4)**  *[33:45]*
+**[John 12:4-6](/bible/john/12#v4)**  *[[33:45](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=2025s)]*
 
 > <sup>[4](/bible/john/12#v4)</sup> Then saith one of his disciples, Judas Iscariot, Simon’s son, which should betray him,
 >
@@ -137,7 +139,7 @@ Integrity is a decision that has to be made every time. If you are not reading y
 
     When your coworkers wondering why this brother don't murmur with them and don't ever work the Sabbath: keep therefore and do them, for this is your wisdom and your understanding in the sight of the nations, which shall say, surely this great nation is a wise and understanding people. The other nations are expecting you to be that greedy individual that lacks integrity, but we give them this right here.
 
-**[1 Samuel 15:13-24](/bible/1-samuel/15#v24)**  *[38:02]*
+**[1 Samuel 15:13-24](/bible/1-samuel/15#v24)**  *[[38:02](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=2282s)]*
 
 > <sup>[24](/bible/1-samuel/15#v24)</sup> And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.
 
@@ -159,20 +161,20 @@ Integrity is a decision that has to be made every time. If you are not reading y
 - Saul eyed David from that day and forward, and cast the javelin to smite David even to the wall. By not obtaining the integrity and not having good moral character, Saul continued to wax worse; his character begins to decline even more over time.
 - When you don't listen to the Lord, when you try to please other people and not the Lord, you're going to destroy yourself. It is only a matter of time, and it's going to be open to the public; everybody saw the decline of Saul.
 
-**[Philippians 2:12](/bible/philippians/2#v12)**  *[44:30]*
+**[Philippians 2:12](/bible/philippians/2#v12)**  *[[44:30](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=2670s)]*
 
 > <sup>[12](/bible/philippians/2#v12)</sup> Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 
 - As ye have always obeyed, not as in my presence only, but now much more in my absence. Some people just show themselves to be that guy in front of everybody; you need to be like that in the absence of everybody. This is the perfect biblical example of integrity.
 
-**[Psalms 7:8](/bible/psalms/7#v8)**  *[46:20]*
+**[Psalms 7:8](/bible/psalms/7#v8)**  *[[46:20](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=2780s)]*
 
 > <sup>[8](/bible/psalms/7#v8)</sup> The Lord shall judge the people: judge me, O Lord, according to my righteousness, and according to mine integrity that is in me.
 
 - Judge me by my integrity and my righteousness, Lord. Judge me by the decisions that I make when times are hard, because that is our works; we're going to be accounted for our actions and our works in righteousness.
 - The commandments and the wisdom of the Lord is the foundation of your integrity. When you upholding that, you're going to accumulate a very strong character that people can be proud to be around. You want to be known by the leadership with very good character and integrity, not for trying to portray something that you're not in front of the people while you sinning against the Lord.
 
-**[Hebrews 2:1](/bible/hebrews/2#v1)**  *[52:30]*
+**[Hebrews 2:1](/bible/hebrews/2#v1)**  *[[52:30](https://www.youtube.com/watch?v=G8e9rhvB-W0&t=3150s)]*
 
 > <sup>[1](/bible/hebrews/2#v1)</sup> Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.
 
@@ -199,4 +201,4 @@ Wisdom is not proven by how deep you sound, how many scriptures you know, how sp
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=G8e9rhvB-W0)

@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "repentance"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="nwLjEGhd2oA"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-nwljeghd2oa.jpg" alt="Class artwork">
 </figure>
@@ -23,7 +25,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 
 ## Scriptures Opened
 
-**[Ecclesiastes 1:4-11](/bible/ecclesiastes/1#v4)**  *[9:10]*
+**[Ecclesiastes 1:4-11](/bible/ecclesiastes/1#v4)**  *[[9:10](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=550s)]*
 
 > <sup>[4](/bible/ecclesiastes/1#v4)</sup> One generation passeth away, and another generation cometh: but the earth abideth for ever.
 >
@@ -60,7 +62,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 - Just like the wind, the sun, the moon, rivers have a flow, likewise man: we come and we go. Meaning you and I have been here before. Different cycles of life. That's why you call it deja vu: I remember this. Definition read in class: deja vu is the psychological sensation of having already experienced a current situation even though you know it's happening for the first time; the term translates literally from French as already seen.
 - Already seen, meaning you see it because you're already meant to be there. When you examine the prophecies, the prophets saw things that came to pass. When the prophets saw us going on slave ships, we had to live out what they saw. So when John saw America in flames, we have to live out what John already saw. We're catching up to the prophecies. That's why we have deja vu: because the things that's leading up to what John saw is already set in motion. You can't change it.
 
-**[2 Esdras 5:42](/bible/2-esdras/5#v42)**  *[17:25]*
+**[2 Esdras 5:42](/bible/2-esdras/5#v42)**  *[[17:25](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=1045s)]*
 
 > <sup>[42](/bible/2-esdras/5#v42)</sup> And he said unto me, I will liken my judgment unto a ring: like as there is no slackness of the last, even so there is no swiftness of the first.
 
@@ -68,7 +70,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 - I'm just going to say it: America is a compilation of every captivity we've been in, from Egypt all the way to Rome. That's why America is the worst and the last, because America is an amalgamation of every captivity we've served from the beginning of our time as a nation until Rome, even until Spain, Portugal. America took all those ancient civilizations and merged them into itself.
 - America is young; America is 250 years old this year. That's very young. Persia goes back thousands of years. But America acquired a lot of power in very little time because America learned from the mistakes of all the other ancient fallen civilizations before it.
 
-**[Genesis 2:7, 21-24](/bible/genesis/2#v7)**  *[17:25]*
+**[Genesis 2:7, 21-24](/bible/genesis/2#v7)**  *[[17:25](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=1045s)]*
 
 > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 >
@@ -80,7 +82,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 - The white man is new compared to other black civilizations way before his time: Egypt, Babylon, every ancient civilization was black people. And we're new as well in a way, because Jacob was born a few moments after Esau; we were the last nation on earth. But in terms of color, Esau is brand new, cuz everybody was dark.
 - She shall be called woman, because woman means out of man, or of man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh. This is the institution we read about for the first time of marriage.
 
-**[Genesis 3:23-24](/bible/genesis/3#v23)**  *[21:27]*
+**[Genesis 3:23-24](/bible/genesis/3#v23)**  *[[21:27](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=1287s)]*
 
 > <sup>[23](/bible/genesis/3#v23)</sup> Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken.
 >
@@ -89,7 +91,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 - Satan goes to Eve, he tempts her, he seduces her into partaking in idolatry, and they end up getting chastised for it. Adam got evicted; Adam and Eve got kicked out of the garden, out of paradise.
 - And he placed at the east of the garden of Eden cherubims, angels, and a flaming sword which turned every way, to keep the way of the tree of life: meaning to keep you away from it; you cannot enter there again. There were angels placed there to cause confusion so you cannot go back. They were placed at the east of the garden.
 
-**[Genesis 4:1-16](/bible/genesis/4#v1)**  *[21:27]*
+**[Genesis 4:1-16](/bible/genesis/4#v1)**  *[[21:27](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=1287s)]*
 
 > <sup>[1](/bible/genesis/4#v1)</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 >
@@ -138,7 +140,7 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 - And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden. That's the same place the cherubims was at, that flaming sword. That's where he went. Who do you think he dealt with over there? The devil.
 - And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city. Obviously it was a bunch of people around at this time; Adam and Eve had children prior; that's where Cain got his wife from. Cain built the city, and that city was called Enoch.
 
-**[Genesis 10:8-10](/bible/genesis/10#v8)**  *[34:02]*
+**[Genesis 10:8-10](/bible/genesis/10#v8)**  *[[34:02](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=2042s)]*
 
 > <sup>[8](/bible/genesis/10#v8)</sup> And Cush begat Nimrod: he began to be a mighty one in the earth.
 >
@@ -158,7 +160,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - So what did Nimrod do? Nimrod built on top of the ruins of Cain's city. That was the older belief of the scholars of Assyria back then. Today that area where Nimrod built is called Warka, Iraq, southeast of Baghdad, not too far from Ur where Abraham was from.
 - When it says consensus view, that means modern scholarship. Real scholars will tell you the best books to have are the oldest ones, because they go back closer to that time. Modern scholars, a lot of them are secular or atheists, and they'll come behind those old scholars and go, they were wrong; that was their opinion; to remove any Bible validation whatsoever. But it is true: Cain did build in that area, and Nimrod built on top of that. That's where the evil was. That's why the Lord told Abraham to move from there, to leave there, cuz it was so evil.
 
-**[Matthew 19:27-28](/bible/matthew/19#v27)**  *[38:07]*  (Captain's addition)
+**[Matthew 19:27-28](/bible/matthew/19#v27)**  *[[38:07](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=2287s)]*  (Captain's addition)
 
 > <sup>[27](/bible/matthew/19#v27)</sup> Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
 >
@@ -167,7 +169,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - What the Deacon is going over is very heavy. It's also called a regeneration; meaning our spirit has been here before.
 - The Son of man is not sitting on his throne right now. He says, in the regeneration, when I come back and I'm on my throne on the earth, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel. That right there is proving the disciples are not sitting on the throne right now; we are not judging the 12 tribes of Israel yet.
 
-**[John 8:44](/bible/john/8#v44)**  *[50:31]*
+**[John 8:44](/bible/john/8#v44)**  *[[50:31](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=3031s)]*
 
 > <sup>[44](/bible/john/8#v44)</sup> Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 
@@ -182,7 +184,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     Not as Cain, who was of that wicked one: Cain was Satan's baby, spiritually obviously. John is saying what Christ said in John 8:44. And wherefore slew he him? Because his own works were evil, and his brother's righteous. And he killed Abel savagely, by the way. It wasn't like he just cut his throat. It was very bad. I'mma show you how.
 
-**[Genesis 4:9 revisited: no accountability](/bible/genesis/4#v9)**  *[54:37]*
+**[Genesis 4:9 revisited: no accountability](/bible/genesis/4#v9)**  *[[54:37](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=3277s)]*
 
 > <sup>[9](/bible/genesis/4#v9)</sup> And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper?
 
@@ -192,7 +194,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - Was it? Calculator in class: 2026 to 1865 is 161 years ago. That's two 80 year olds. 1865 to 1965 is a hundred years. Civil rights to 2026 is 61 years. That's not old. If we got civil rights 61 years ago, what was happening to us prior to those rights? Sharecropping was slavery; sharecropping lasted secretly until 1960, under four different presidents. We held up signs saying, I'm a man. Why? Because you were being treated like slaves, killed and hung after the Emancipation Proclamation: KKK, Jim Crow, Juan Crow, criminal leasing laws, vagrancy laws, black codes, burning our cities down, flooding our cities, bombing our cities. They changed it from Tulsa massacre to Tulsa riot. What riot? Was it our riot? They flew planes over us and dropped dynamite on top of us. No accountability.
 - Matt Walsh: no accountability. Charlie Kirk: you negroes are the most violent people on the earth. All the violence in the earth is done by black people. And got killed by a white man. Look how God cook. Now you can go to heaven and tell God that: yeah, you all are violent, but I got killed by my own. You going to go up there and see a big black man on the throne. Tell him he got low IQ. Tell him that, before you get burned somewhere else.
 
-**[Genesis 6:1-13](/bible/genesis/6#v1)**  *[58:43]*
+**[Genesis 6:1-13](/bible/genesis/6#v1)**  *[[58:43](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=3523s)]*
 
 > <sup>[1](/bible/genesis/6#v1)</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 >
@@ -251,7 +253,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws. Abraham kept the laws, statutes, and commandments just as Noah did.
 
-**[Genesis 25:21-27](/bible/genesis/25#v21)**  *[1:11:33]*
+**[Genesis 25:21-27](/bible/genesis/25#v21)**  *[[1:11:33](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=4293s)]*
 
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
 >
@@ -275,7 +277,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - And after that came his brother out, and his hand took hold on Esau's heel: that fight continued even after that.
 - And Esau was a cunning hunter, a man of the field. What did Cain do? Same exact thing. They're the exact same thing. Why? Nothing new under the sun. And Jacob was a plain man, dwelling in tents.
 
-**[Genesis 27:39-45](/bible/genesis/27#v40)**  *[1:20:15]*
+**[Genesis 27:39-45](/bible/genesis/27#v40)**  *[[1:20:15](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=4815s)]*
 
 > <sup>[40](/bible/genesis/27#v40)</sup> And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
 >
@@ -293,7 +295,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     The unrighteous is who? Cain. He perished also in the fury wherewith he murdered his brother: when he killed Abel, it wasn't just a tap in the back of the head; he brutally killed Abel in his fury. And Cain got killed too, the same violent way he killed Abel. That's why Rebekah said, why shall I be deprived of you both in one day?
 
-**[Psalms 140:1-4](/bible/psalms/140#v1)**  *[1:24:18]*
+**[Psalms 140:1-4](/bible/psalms/140#v1)**  *[[1:24:18](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=5058s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
 >
@@ -323,7 +325,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     The kingdom of heaven, that's Israel, suffereth violence, and the violent take it by force. The violent is the Romans; Esau is the Romans. Esau is the violent man, the wicked man.
 
-**[Genesis 30:36-43](/bible/genesis/30#v36)**  *[1:28:26]*
+**[Genesis 30:36-43](/bible/genesis/30#v36)**  *[[1:28:26](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=5306s)]*
 
 > <sup>[36](/bible/genesis/30#v36)</sup> And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks.
 >
@@ -357,7 +359,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     This is Jacob talking: twenty years have I been with thee; that which was torn of beasts I brought not unto thee; I bare the loss of it. In the day the drought consumed me, and the frost by night. I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times. Laban was a grimy dude, man. He did Jacob dirty: yo, man, you changed my wages, my paycheck is all low, I'm taking care of your cattle, you're doing me wrong over here.
 
-**[Genesis 5:3-32](/bible/genesis/5#v3)**  *[1:32:28]*
+**[Genesis 5:3-32](/bible/genesis/5#v3)**  *[[1:32:28](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=5548s)]*
 
 > <sup>[3](/bible/genesis/5#v3)</sup> And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
 >
@@ -440,7 +442,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     This is Cain's kids: unto Enoch was born Irad, and Mehujael begat Methusael, and Methusael begat Lamech. So Cain had a son named Enoch, one named Methusael, and one named Lamech. Two is always: the left hand side of wickedness and the righteous side. Cain had his Lamech and his Enoch; Seth's line had its Lamech and its Enoch. Righteous Enoch, evil Enoch.
 
-**[Genesis 7:1-16](/bible/genesis/7#v1)**  *[1:41:15]*
+**[Genesis 7:1-16](/bible/genesis/7#v1)**  *[[1:41:15](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6075s)]*
 
 > <sup>[1](/bible/genesis/7#v1)</sup> And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 >
@@ -487,7 +489,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     He that openeth, and no man shutteth; and shutteth, and no man openeth: that was Christ. So right now repentance is open. Longsuffering. That's the time right now to get it right. Once that door is closed, that's it. No one can open it. That great gulf fixed.
 
-**[Hebrews 11:3-7](/bible/hebrews/11#v3)**  *[1:45:52]*
+**[Hebrews 11:3-7](/bible/hebrews/11#v3)**  *[[1:45:52](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6352s)]*
 
 > <sup>[3](/bible/hebrews/11#v3)</sup> Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
 >
@@ -504,7 +506,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - By faith Noah, being warned of God of things not seen as yet: what things were unseen? Heavy rain for 40 days and 40 nights, the whole earth being flooded, everyone dead on earth. That's unseen, unheard of. The Lord said, listen, Noah, I'm gonna kill everybody: get the animals, clean and unclean, get your wife, your sons and their wives, get in the boat, let's go. No problem, Lord. He had no questions; he was faithful like Abraham was.
 - Moved with fear, prepared an ark to the saving of his house; by the which he condemned the world: because Noah got saved and everybody else didn't. And became heir of the righteousness which is by faith: Noah kept the commandments of God, and by faith he built that boat. That was his works; his faith was proven by him building the ark in the first place. Faith without works is dead.
 
-**[1 Peter 3:18-20](/bible/1-peter/3#v18)**  *[1:45:52]*
+**[1 Peter 3:18-20](/bible/1-peter/3#v18)**  *[[1:45:52](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6352s)]*
 
 > <sup>[18](/bible/1-peter/3#v18)</sup> For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
 >
@@ -524,14 +526,14 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     The angels that sinned here are the sons of God in Genesis 6, Seth's line that messed around with the daughters of men. And spared not the old world, but saved Noah the eighth person, a preacher of righteousness. What was Noah? A preacher of righteousness. When it says God was longsuffering, what was he doing? Noah was preaching repentance: y'all better repent, the Most High going to destroy this place. They said: you crazy. Look at that dummy building a boat for no reason. Noah was prophesying all that time because God was longsuffering. He gave them a hundred years. They did not listen.
 
-**[Tobit 4:12](/bible/tobit/4#v12)**  *[1:49:59]*
+**[Tobit 4:12](/bible/tobit/4#v12)**  *[[1:49:59](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6599s)]*
 
 > <sup>[12](/bible/tobit/4#v12)</sup> Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father’s tribe: for we are the children of the prophets, Noe, Abraham, Isaac, and Jacob: remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred, and were blessed in their children, and their seed shall inherit the land.
 
 - Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers: take a wife of your own kind. Do not marry outside your nation. And take not a strange woman to wife: don't marry a heathen woman, Tobias.
 - For we are the children of the prophets: Noah, Abraham, Isaac, and Jacob. Remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred, including Noah. Noah didn't marry daughters of men; he married his own kind, a daughter of God, and his sons' wives are their own kind. Noah did not step outside of that. He did not do what the sons of God were doing, go out and mess with Cain's daughters. He was like, nah, I'mma keep the laws of God and marry my own.
 
-**[2 Esdras 3:5-11](/bible/2-esdras/3#v5)**  *[1:58:43]*
+**[2 Esdras 3:5-11](/bible/2-esdras/3#v5)**  *[[1:58:43](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7123s)]*
 
 > <sup>[5](/bible/2-esdras/3#v5)</sup> And gavest a body unto Adam without soul, which was the workmanship of thine hands, and didst breathe into him the breath of life, and he was made living before thee.
 >
@@ -566,7 +568,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     Seth was Abel's replacement of righteousness. Then began men to call upon the name of the Lord: when the sons of God despised God's commandments, God stopped dealing with us. But once Seth had Enos, that line began to call upon the name of the Lord, and God started dealing with us again. The wickedness is always around, and the righteous is born within the evil, always.
 
-**[Ecclesiasticus 44:16-17](/bible/sirach/44#v16)**  *[2:02:51]*
+**[Ecclesiasticus 44:16-17](/bible/sirach/44#v16)**  *[[2:02:51](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7371s)]*
 
 > <sup>[16](/bible/sirach/44#v16)</sup> Enoch pleased the Lord, and was translated, being an example of repentance to all generations.
 >
@@ -576,7 +578,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - Enoch pleased the Lord, and was translated, being an example of repentance to all generations: meaning Enoch was involved in wickedness too, but he was an example of repentance.
 - Noah was found perfect and righteous; in the time of wrath he was taken in exchange for the world: therefore was he left as a remnant unto the earth, when the flood came. The Lord said, I'm going to destroy all the earth and just keep Noah alive and start all over again with him. Damn.
 
-**[Isaiah 54:8-10](/bible/isaiah/54#v8)**  *[2:07:25]*
+**[Isaiah 54:8-10](/bible/isaiah/54#v8)**  *[[2:07:25](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7645s)]*
 
 > <sup>[8](/bible/isaiah/54#v8)</sup> In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the Lord thy Redeemer.
 >
@@ -588,7 +590,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth, so have I sworn that I would not be wroth with thee, nor rebuke thee. The Lord flooded the earth and made a vow with the rainbow that he would never flood the earth again. Likewise, he will never put us in captivity again once we get delivered. You will not see slavery ever again. You're going to be ruling forever. This is the last go around. No more of this captivity stuff.
 - For the mountains shall depart, and the hills be removed: that means destruction, no more nations. But my kindness shall not depart from thee, neither shall the covenant of my peace be removed. The rainbow itself was a sign that God would not flood the earth again, but also tied into the mercy God would grant us: freeing us from captivity, sending a son to die for us. It's all symbols back to us. The rainbow goes back to us, the sun goes back to us, the moon goes back to us. Everything on this earth refers back to God's people and God's mercy towards that people. No one else.
 
-**[Ezekiel 14:12-20](/bible/ezekiel/14#v12)**  *[2:11:33]*
+**[Ezekiel 14:12-20](/bible/ezekiel/14#v12)**  *[[2:11:33](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7893s)]*
 
 > <sup>[12](/bible/ezekiel/14#v12)</sup> The word of the Lord came again to me, saying,
 >
@@ -612,7 +614,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness. That's what Noah did, his wife did, his sons did, and their wives did: saved themselves by their own righteousness. Likewise Daniel, likewise Job.
 - They shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness. That goes for the man, the wife, the children: it's on you. Every man work out their own soul salvation with fear and trembling.
 
-**[Daniel 2:36-43](/bible/daniel/2#v36)**  *[2:11:33]*
+**[Daniel 2:36-43](/bible/daniel/2#v36)**  *[[2:11:33](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7893s)]*
 
 > <sup>[36](/bible/daniel/2#v36)</sup> This is the dream; and we will tell the interpretation thereof before the king.
 >
@@ -633,7 +635,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 - The dream the Lord showed King Nebuchadnezzar regarding the empires to follow. Thou art this head of gold: that's Babylon. After thee shall arise another kingdom inferior to thee: the Medes joined with the Persians. And another third kingdom of brass: Greece. And the fourth kingdom shall be strong as iron: Rome. And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided: that's America. But there shall be in it of the strength of the iron: Rome's power, military might.
 - Iron: remember what Cain specialized in? Brass and iron, weapons, war. Same thing. Nothing new under the sun.
 
-**[Revelation 13:1-14](/bible/revelation/13#v1)**  *[2:15:45]*
+**[Revelation 13:1-14](/bible/revelation/13#v1)**  *[[2:15:45](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=8145s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -680,7 +682,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     He saw the woman sit upon a scarlet coloured beast that had seven heads and ten horns, she being the eighth head. Arrayed in purple and scarlet, decked with gold: well off, wealthy, powerful. And upon her forehead was a name written: Mystery, Babylon the Great, the mother of harlots. Why is this important? I said before, judgment is like a ring. Babylon was the first, and then it ends with Babylon again. It's full circle, just as a ring. Babylon reigned over us; now Babylon reigns over us again. Nothing new under the sun. This is a whole loop.
 
-**[2 Peter 3:1-7](/bible/2-peter/3#v1)**  *[2:19:58]*
+**[2 Peter 3:1-7](/bible/2-peter/3#v1)**  *[[2:19:58](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=8398s)]*
 
 > <sup>[1](/bible/2-peter/3#v1)</sup> This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:
 >
@@ -722,7 +724,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     Come out of her, my people: out of Babylon. That ye be not partakers of her sins: whose sins do we not partake in? Edom's sins. The same way the sons of God should not partake in the daughters of men's sins back then that Noah was preaching to. It's the exact same thing all over again. And that ye receive not of her plagues: her plagues back then was water; her plagues now going to be fire. For her sins have reached unto heaven, and God hath remembered her iniquities: the Lord remembered Cain's too.
 
-**[2 Peter 3:8-14](/bible/2-peter/3#v8)**  *[2:28:31]*
+**[2 Peter 3:8-14](/bible/2-peter/3#v8)**  *[[2:28:31](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=8911s)]*
 
 > <sup>[8](/bible/2-peter/3#v8)</sup> But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
 >
@@ -753,4 +755,4 @@ So with that, all praises. 12 tribes worldwide. 12 tribes worldwide. 12 tribes w
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=nwLjEGhd2oA)
