@@ -4,7 +4,7 @@ slug: "2026/2026-04-11-the-pride-of-thine-heart-hath-deceived-thee"
 date: "2026-04-11"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-11"
-tags: ["IUIC in the ClassRoom", "deceit", "prayer", "pride", "the-body"]
+tags: ["IUIC in the ClassRoom", "deceit", "pride", "the-body"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-11 (date estimated)</p>

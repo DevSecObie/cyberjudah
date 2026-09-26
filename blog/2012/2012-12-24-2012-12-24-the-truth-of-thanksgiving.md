@@ -5,12 +5,12 @@ date: "2012-12-24"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-24 · with Deacon Asaph"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2012-12-24 · Elder Nathanyel, with Deacon Asaph</p>
 
-<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [2 Esdras 13](/bible/2-esdras/13) · [Hos 11](/bible/hosea/11) · [Deut 33](/bible/deuteronomy/33) · [1 Chr 12](/bible/1-chronicles/12) · [Ps 49](/bible/psalms/49) · [Deut 28](/bible/deuteronomy/28) · [Ps 55](/bible/psalms/55) · [Hab 1](/bible/habakkuk/1) · [Gen 49](/bible/genesis/49) · [Isa 65](/bible/isaiah/65) · [Hos 7](/bible/hosea/7) · [Prov 15](/bible/proverbs/15) · [Amos 5](/bible/amos/5) · [Isa 1](/bible/isaiah/1) · [Lam 5](/bible/lamentations/5) · <i>and 6 more below</i></span>
+<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [2 Esdras 13](/bible/2-esdras/13) · [Hos 11](/bible/hosea/11) · [Deut 33](/bible/deuteronomy/33) · [1 Chr 12](/bible/1-chronicles/12) · [Ps 49](/bible/psalms/49) · [Deut 28](/bible/deuteronomy/28) · [Hos 4](/bible/hosea/4) · [Ps 55](/bible/psalms/55) · [Hab 1](/bible/habakkuk/1) · [Gen 49](/bible/genesis/49) · [Isa 65](/bible/isaiah/65) · [Hos 7](/bible/hosea/7) · [Prov 15](/bible/proverbs/15) · [Amos 5](/bible/amos/5) · [Isa 1](/bible/isaiah/1) · <i>and 7 more below</i></span>
 
 <!-- truncate -->
 
