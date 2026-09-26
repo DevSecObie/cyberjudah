@@ -2,6 +2,233 @@
  "about": "The words the classes use, defined from the teachings and the King James text with the Apocrypha. Where the teaching goes beyond what the text itself says, the entry says so. Each entry links to moments in the recordings where the word is taught.",
  "entries": [
   {
+   "term": "Amalek",
+   "slug": "amalek",
+   "aliases": [
+    "Amalekites"
+   ],
+   "definition": "The grandson of Esau (Genesis 36:12), whose people attacked Israel in the wilderness: \"the Lord will have war with Amalek from generation to generation\" (Exodus 17:16). Saul spared Agag their king (1 Samuel 15:8), and Haman \"the Agagite\" (Esther 3:1) came of his line. The classes teach Amalek as part of Edom and a biblical description of a people, not a label for any modern state an enemy chooses to fight.",
+   "scripture": [
+    "Genesis 36:12",
+    "Exodus 17:16",
+    "1 Samuel 15:8",
+    "Esther 3:1"
+   ],
+   "see": [
+    {
+     "title": "Esau and Edom",
+     "url": "/encyclopedia/esau-and-edom"
+    }
+   ],
+   "taught": [
+    {
+     "title": "The Poisoned Well: The Rise And Fall Of Anti-Semitic Propaganda",
+     "video": "Hb8absE75eA",
+     "seconds": 3900
+    },
+    {
+     "title": "OHH | The Poisoned Well The Rise And Fall Of Anti-Semitic Propaganda (RERUN)",
+     "video": "_fzsuuq4Okc",
+     "seconds": 3899
+    },
+    {
+     "title": "AMALEK AND THE LIBERAL AGENDA",
+     "video": "aJhVFjdp19Y",
+     "seconds": 3026
+    },
+    {
+     "title": "Iran Is Not Amalek",
+     "video": "7dszBxZaO8E",
+     "seconds": 2205
+    }
+   ]
+  },
+  {
+   "term": "Apocrypha",
+   "slug": "apocrypha",
+   "aliases": [
+    "apocryphal books"
+   ],
+   "definition": "The books printed between the Old and New Testaments in the 1611 King James Bible: 1 and 2 Esdras, Tobit, Judith, the rest of Esther, the Wisdom of Solomon, Sirach, Baruch, the Maccabees and others. The classes read them as scripture alongside the other books, teach from them the history of the time between the testaments, such as the Maccabees and the feast of dedication, and hold that the government knows they record the history of the Americas and its peoples.",
+   "scripture": [
+    "Sirach 50:27"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "FEAST OF DEDICATION: The Fight Between Caucasians and Negroes",
+     "video": "PcBHzTVgLzs",
+     "seconds": 1963
+    },
+    {
+     "title": "#IUIC | OUR HIDDEN HISTORY RADIO SHOW - TIMES OF THE GENTILES: GREECE CHAPTER 20 EP. 58",
+     "video": "_IIQMAY0isM",
+     "seconds": 2317
+    },
+    {
+     "title": "Giving The Sense From A-Z: Sirach 25",
+     "video": "wsod4pbEAg0",
+     "seconds": 124
+    },
+    {
+     "title": "FEAST OF DEDICATION 2020",
+     "video": "l7Nr6M5nvqE",
+     "seconds": 3075
+    }
+   ]
+  },
+  {
+   "term": "Babylon",
+   "slug": "babylon",
+   "aliases": [],
+   "definition": "The empire of Nebuchadnezzar that carried Judah captive (2 Kings 25:11), and in Revelation the city named \"MYSTERY, BABYLON THE GREAT\" (Revelation 17:5). The classes distinguish ancient Babylon, the neo-Babylon of Nebuchadnezzar and Babylon the Great, which they identify as the United States of America, and read \"Deliver thyself, O Zion, that dwellest with the daughter of Babylon\" (Zechariah 2:7) and \"Come out of her, my people\" (Revelation 18:4) as calls to the Israelites living there.",
+   "scripture": [
+    "2 Kings 25:11",
+    "Jeremiah 51:6",
+    "Revelation 17:5",
+    "Revelation 18:4",
+    "Zechariah 2:7"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "#IUIC | SABBATH EVENING CLASS: The Third Kingdom of Babylon",
+     "video": "dotETmzPUbc",
+     "seconds": 4912
+    },
+    {
+     "title": "New Moon - Will Trump Make America Great Again?",
+     "video": "BbykrZ2RN6U",
+     "seconds": 9107
+    },
+    {
+     "title": "The New Babylon And It's Power",
+     "video": "LsTgPJnYG7g",
+     "seconds": 3330
+    },
+    {
+     "title": "HISTORY IN THE AM | THE KINGS OF ISRAEL | The Carrying Away Into Babylon Finale: Zedekiah Vs. Jer…",
+     "video": "uC2wK3uZiyI",
+     "seconds": 2953
+    }
+   ]
+  },
+  {
+   "term": "Beast",
+   "slug": "beast",
+   "aliases": [
+    "the beast",
+    "mark of the beast"
+   ],
+   "definition": "In Daniel, the four beasts are four kings and kingdoms, and \"The fourth beast shall be the fourth kingdom upon earth\" (Daniel 7:17, 23); in Revelation a beast rises out of the sea and another out of the earth, and no man may \"buy or sell, save he that had the mark\" (Revelation 13:1, 11, 16-17). The classes teach that the fourth beast began with Rome and ends in Europe and America, and that the second beast with two horns is the American political system.",
+   "scripture": [
+    "Daniel 7:17",
+    "Daniel 7:23",
+    "Revelation 13:1",
+    "Revelation 13:11",
+    "Revelation 13:16-17"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "The Beast System: Order Out Of Chaos",
+     "video": "GjeBHYwKwf0",
+     "seconds": 6881
+    },
+    {
+     "title": "Trade Wars - The Beast System",
+     "video": "kJ1xeEXk6xo",
+     "seconds": 6800
+    },
+    {
+     "title": "THE MARK OF THE BEAST: PREPARING FOR THE DECREE",
+     "video": "RrcmrUMmWXA",
+     "seconds": 3761
+    },
+    {
+     "title": "#IUIC l RAVEN WOLVES RADIO SHOW: Episode 48 - The Anti Christ",
+     "video": "2kYcs5nZcBM",
+     "seconds": 7851
+    }
+   ]
+  },
+  {
+   "term": "Benjamin",
+   "slug": "benjamin",
+   "aliases": [
+    "Benjamites"
+   ],
+   "definition": "The youngest son of Jacob, born to Rachel as she died (Genesis 35:18): \"Benjamin shall ravin as a wolf\" (Genesis 49:27). The tribe was nearly destroyed in the days of the judges (Judges 20:35), then stayed with Judah when the kingdom divided (1 Kings 12:21); Paul was \"of the tribe of Benjamin\" (Philippians 3:5). The classes teach Benjamin as a fierce, formidable tribe that the Lord left with Judah.",
+   "scripture": [
+    "Genesis 35:18",
+    "Genesis 49:27",
+    "Judges 20:35",
+    "1 Kings 12:21",
+    "Philippians 3:5"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "A Moorish Edomite? Repent Brother You Are Of Israel",
+     "video": "GSR9A_hXJm0",
+     "seconds": 1714
+    },
+    {
+     "title": "#IUIC | RAVENING WOLVES RADIO SHOW: Episode 44 - God Will Give Us Reparations",
+     "video": "6wJ-FOK9q0o",
+     "seconds": 3827
+    },
+    {
+     "title": "#IUIC || History In The AM || Judges 19-21",
+     "video": "oJVRU2S4x9Q",
+     "seconds": 4702
+    },
+    {
+     "title": "GENTILES: WHAT HAPPENED TO NORTHERN KINGDOM?",
+     "video": "Xpxyy14ht5E",
+     "seconds": 2113
+    }
+   ]
+  },
+  {
+   "term": "Canaan",
+   "slug": "canaan",
+   "aliases": [
+    "Canaanites"
+   ],
+   "definition": "The son of Ham on whom Noah laid the curse, \"Cursed be Canaan; a servant of servants shall he be unto his brethren\" (Genesis 9:25), and the land his descendants held from Sidon to Gaza (Genesis 10:19) until the Lord gave it to Israel (Deuteronomy 7:1). The classes teach that the land of Canaan is part of Africa, and that the Phoenicians of history were the Israelites living in the land taken from the Canaanites.",
+   "scripture": [
+    "Genesis 9:18",
+    "Genesis 9:25",
+    "Genesis 10:19",
+    "Genesis 15:16",
+    "Deuteronomy 7:1"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "SABBATH EVENING CLASS: The Secrets of History: The Two Promised Lands",
+     "video": "MovDZgJ2zvU",
+     "seconds": 1282
+    },
+    {
+     "title": "OHH - THE COLOR OF GOD AND HIS PEOPLE IN AFRICA EPISODE 4",
+     "video": "gEtHdmQ6pW8",
+     "seconds": 486
+    },
+    {
+     "title": "OHH - Secrets of History: The Two Promised Lands Chapter 1 EPISODE 14",
+     "video": "KHkGmZaN32A",
+     "seconds": 7894
+    },
+    {
+     "title": "THE PLAGUES COMING TO AMERICA",
+     "video": "x9xrlD12Rj4",
+     "seconds": 2722
+    }
+   ]
+  },
+  {
    "term": "Captivity",
    "slug": "captivity",
    "aliases": [
@@ -36,6 +263,80 @@
      "title": "#IUIC: Other Nations Going back to captivity",
      "video": "Tn3NUTI6yZQ",
      "seconds": 4812
+    }
+   ]
+  },
+  {
+   "term": "Christianity",
+   "slug": "christianity",
+   "aliases": [
+    "Christian",
+    "Christians"
+   ],
+   "definition": "The disciples \"were called Christians first in Antioch\" (Acts 11:26), and Peter wrote \"if any man suffer as a Christian, let him not be ashamed\" (1 Peter 4:16). The classes distinguish the early Jewish Christianity of the apostles, who kept the law, from the Nicene Christianity that rose after it and rejected them, which they teach changed the gospel of Christ.",
+   "scripture": [
+    "Acts 11:26",
+    "1 Peter 4:16"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "OHH RADIO SHOW- TIMES OF THE GENTILES: RISE OF ROME DEATH OF THE DISCIPLES AND THE BIRTH O… EP 76",
+     "video": "h02rQ3yJ2J4",
+     "seconds": 560
+    },
+    {
+     "title": "#IUIC |OHH RADIO SHOW- TIMES OF THE GENTILES: RISE OF ROME DEATH OF THE DISCIPLES AND THE BIRTH O…",
+     "video": "JS_uhUEWkGM",
+     "seconds": 2360
+    },
+    {
+     "title": "The Israelites: Christianity Is The Face Of Paganism & Hellenism",
+     "video": "fHttq6AcbVk",
+     "seconds": 1772
+    }
+   ]
+  },
+  {
+   "term": "Commandments",
+   "slug": "commandments",
+   "aliases": [
+    "commandment"
+   ],
+   "definition": "The laws the Most High gave Israel, beginning \"Thou shalt have no other gods before me\" (Exodus 20:3): \"Fear God, and keep his commandments: for this is the whole duty of man\" (Ecclesiastes 12:13). The classes teach that Christ kept his Father's commandments and told his followers to do the same, \"If ye love me, keep my commandments\" (John 14:15), and that the saints at the end \"keep the commandments of God, and the faith of Jesus\" (Revelation 14:12).",
+   "scripture": [
+    "Exodus 20:3",
+    "Ecclesiastes 12:13",
+    "John 14:15",
+    "John 15:10",
+    "Revelation 14:12"
+   ],
+   "see": [
+    {
+     "title": "The handbook of law",
+     "url": "/law"
+    }
+   ],
+   "taught": [
+    {
+     "title": "HAMMERTIME: WHY TROUBLE YOURSELF",
+     "video": "jYYrLP_kkSA",
+     "seconds": 1251
+    },
+    {
+     "title": "HAMMERTIME: Wisdom Crying Out",
+     "video": "nqg3EQMDv40",
+     "seconds": 4511
+    },
+    {
+     "title": "Did Paul keep the Law??",
+     "video": "Mz51poDqcpY",
+     "seconds": 4228
+    },
+    {
+     "title": "Flawed Apologetic Doctrine",
+     "video": "5ckbGq_KbOs",
+     "seconds": 809
     }
    ]
   },
@@ -126,6 +427,77 @@
    ]
   },
   {
+   "term": "Egypt",
+   "slug": "egypt",
+   "aliases": [],
+   "definition": "The land where Israel was held in bondage and from which the Lord brought them out (Exodus 20:2). The law warned that \"the Lord shall bring thee into Egypt again with ships\" (Deuteronomy 28:68). The classes teach that this second Egypt is spiritual, not the land of the pharaohs: the Americas, where the Israelites were carried on slave ships, the great city \"which spiritually is called Sodom and Egypt\" (Revelation 11:8), which the Lord will smite as he smote ancient Egypt (Isaiah 19:22).",
+   "scripture": [
+    "Exodus 20:2",
+    "Deuteronomy 28:68",
+    "Revelation 11:8",
+    "Isaiah 19:22"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "Passover Class: Exodus From America Modern Day Egypt",
+     "video": "VyDEbsxgcas",
+     "seconds": 3161
+    },
+    {
+     "title": "#IUIC: SABBATH EVENING CLASS | Deliverance From Egypt, Then and Now",
+     "video": "7wl9iOsaR_s",
+     "seconds": 1427
+    },
+    {
+     "title": "THE PLAGUES COMING TO AMERICA",
+     "video": "x9xrlD12Rj4",
+     "seconds": 3962
+    },
+    {
+     "title": "JOSEPH IN EGYPT: THEN & NOW",
+     "video": "075qOUs8Sbc",
+     "seconds": 9411
+    }
+   ]
+  },
+  {
+   "term": "Ephraim",
+   "slug": "ephraim",
+   "aliases": [],
+   "definition": "The younger son of Joseph, blessed above his brother Manasseh (Genesis 48:19), and the leading tribe of the northern kingdom, which is often called by his name. The prophets foretold \"within threescore and five years shall Ephraim be broken, that it be not a people\" (Isaiah 7:8) and \"Ephraim, he hath mixed himself among the people\" (Hosea 7:8). The classes teach that Ephraim mixed among the nations, and that the Lord uses Judah to bring Ephraim back, joining the two sticks into one (Ezekiel 37:16).",
+   "scripture": [
+    "Genesis 41:52",
+    "Genesis 48:19",
+    "Hosea 7:8",
+    "Isaiah 7:8",
+    "Ezekiel 37:16"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "The Israelites: The 8 Deadly Atrocities Committed Against Puerto Rico",
+     "video": "hgF0VF-5XxA",
+     "seconds": 3328
+    },
+    {
+     "title": "GENTILES: WHAT HAPPENED TO NORTHERN KINGDOM?",
+     "video": "Xpxyy14ht5E",
+     "seconds": 3733
+    },
+    {
+     "title": "Puerto Rico: The Flame Of Resistance",
+     "video": "YVvCyl2ZZUQ",
+     "seconds": 6252
+    },
+    {
+     "title": "THE DIVIDING HATRED: CORNELIUS THE CENTURION",
+     "video": "zdkkMC_4xfg",
+     "seconds": 6504
+    }
+   ]
+  },
+  {
    "term": "Esau",
    "slug": "esau",
    "aliases": [],
@@ -205,6 +577,48 @@
    ]
   },
   {
+   "term": "Gathering",
+   "slug": "gathering",
+   "aliases": [
+    "ingathering"
+   ],
+   "definition": "The Lord's promise to bring scattered Israel back: he \"shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth\" (Isaiah 11:12; Deuteronomy 30:3), and \"unto him shall the gathering of the people be\" (Genesis 49:10). The feast of ingathering at the end of the year (Exodus 23:16) is taught as its picture.",
+   "scripture": [
+    "Genesis 49:10",
+    "Isaiah 11:12",
+    "Deuteronomy 30:3",
+    "Exodus 23:16"
+   ],
+   "see": [
+    {
+     "title": "The Feasts of the Most High",
+     "url": "/encyclopedia/the-feasts-of-the-most-high"
+    }
+   ],
+   "taught": [
+    {
+     "title": "#IUIC | RAVENING WOLVES RADIO SHOW: Episode 51 - The King",
+     "video": "kmDDzqVyEJ8",
+     "seconds": 4628
+    },
+    {
+     "title": "The 7th Trump: The Voice Of The Lord",
+     "video": "KEdcEDjt0SM",
+     "seconds": 3189
+    },
+    {
+     "title": "MEMORIAL BLOWING OF TRUMPETS",
+     "video": "iSIy_VgkAnE",
+     "seconds": 6178
+    },
+    {
+     "title": "Somethings To Think About",
+     "video": "N0uryy_6-5k",
+     "seconds": 1553
+    }
+   ]
+  },
+  {
    "term": "Gentiles",
    "slug": "gentiles",
    "aliases": [
@@ -243,6 +657,43 @@
    ]
   },
   {
+   "term": "Ham",
+   "slug": "ham",
+   "aliases": [
+    "Hamites"
+   ],
+   "definition": "A son of Noah and \"the father of Canaan\" (Genesis 9:22), whose sons were \"Cush, and Mizraim, and Phut, and Canaan\" (Genesis 10:6); Egypt is called \"the land of Ham\" (Psalms 105:23). The classes teach that the Hamites are the Egyptians, Ethiopians, Libyans and other peoples of Africa, that the Israelites are not Hamites, and that the curse of Genesis 9:25 fell on Canaan, not on Ham.",
+   "scripture": [
+    "Genesis 9:22",
+    "Genesis 9:25",
+    "Genesis 10:6",
+    "Psalms 105:23"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "SABBATH NOON CLASS: The Table of Nations",
+     "video": "t9Ay1T3qUN0",
+     "seconds": 1757
+    },
+    {
+     "title": "ESCAPING THE PLANTATION 2.0: JUDAH VS JEWISH",
+     "video": "azska1wph74",
+     "seconds": 3283
+    },
+    {
+     "title": "OHH -  The Spanish Inquisition Chapter 30 EPISODE 33",
+     "video": "IV-E8HavHD0",
+     "seconds": 6295
+    },
+    {
+     "title": "OUR HIDDEN HISTORY | SLAVE SHIPS: DESTINATIONS EP 152",
+     "video": "Z1bVKZvIMkM",
+     "seconds": 7647
+    }
+   ]
+  },
+  {
    "term": "Heathen",
    "slug": "heathen",
    "aliases": [
@@ -277,6 +728,203 @@
      "title": "#IUIC | RAVENING WOLVES SHOW: The Heathens That Are Called By God's Name (RERUN)",
      "video": "Vl9DpePOXEg",
      "seconds": 1779
+    }
+   ]
+  },
+  {
+   "term": "Heaven",
+   "slug": "heaven",
+   "aliases": [
+    "heavens"
+   ],
+   "definition": "\"In the beginning God created the heaven and the earth\" (Genesis 1:1); Paul speaks of \"the third heaven\" (2 Corinthians 12:2). The classes teach three heavens: the heaven where God dwells, the skies, and heaven as a condition on earth, and that the righteous \"look for new heavens and a new earth, wherein dwelleth righteousness\" (2 Peter 3:13).",
+   "scripture": [
+    "Genesis 1:1",
+    "2 Corinthians 12:2",
+    "2 Peter 3:13",
+    "Isaiah 65:17"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "Heaven",
+     "video": "tLpR4nhiQv0",
+     "seconds": 5584
+    },
+    {
+     "title": "#IUIC | Heaven Explain",
+     "video": "AFyhEnHSuRM",
+     "seconds": 14828
+    },
+    {
+     "title": "The Kingdom Of Adam And The Old World",
+     "video": "SE81_Rxu5sM",
+     "seconds": 13250
+    },
+    {
+     "title": "Escape Christmas Getaway",
+     "video": "wTdKvZUyQdE",
+     "seconds": 15422
+    }
+   ]
+  },
+  {
+   "term": "Hell",
+   "slug": "hell",
+   "aliases": [],
+   "definition": "The grave and the place of the dead, and a word for great distress: \"The sorrows of hell compassed me about\" (Psalms 18:5). At the end \"death and hell were cast into the lake of fire\" (Revelation 20:14). The classes teach that hell in the scriptures is often a condition and not a place, the affliction the Israelites suffer among the nations in captivity, and read Isaiah 5:14 and 28:15 as prophecy about Israel and its leaders.",
+   "scripture": [
+    "Psalms 18:5",
+    "Isaiah 5:14",
+    "Isaiah 28:15",
+    "Revelation 20:14"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "#IUIC | Does God Send People To Hell?",
+     "video": "nvEb1F1F6JY",
+     "seconds": 6905
+    },
+    {
+     "title": "#IUIC | THE BIBLE: BOOK OF OUR FATHERS | Decadence, Hatred And Judgement (Part 4 The Judgement)",
+     "video": "XaQ97NX8k4k",
+     "seconds": 2725
+    },
+    {
+     "title": "ESCAPING NEW YEARS | HELL: 1000 YEARS OF TORMENT",
+     "video": "cjv9MrtUCf0",
+     "seconds": 18720
+    },
+    {
+     "title": "Emancipation",
+     "video": "id6ZzVlZb98",
+     "seconds": 2166
+    }
+   ]
+  },
+  {
+   "term": "Holy Days",
+   "slug": "holy-days",
+   "aliases": [
+    "feast days",
+    "high holy days",
+    "feasts"
+   ],
+   "definition": "The appointed feasts of the Lord, \"holy convocations, which ye shall proclaim in their seasons\" (Leviticus 23:4), together with the new moons (Psalms 81:3; Numbers 10:10). The classes teach that Christ, Paul and the apostles kept the feast days, that Israel is to keep them in captivity as well, and that Colossians 2:16 forbids others to judge Israel for keeping them rather than doing them away.",
+   "scripture": [
+    "Leviticus 23:2",
+    "Leviticus 23:4",
+    "Colossians 2:16",
+    "Psalms 81:3",
+    "Numbers 10:10"
+   ],
+   "see": [
+    {
+     "title": "The Feasts of the Most High",
+     "url": "/encyclopedia/the-feasts-of-the-most-high"
+    }
+   ],
+   "taught": [
+    {
+     "title": "MEMORIAL BLOWING OF TRUMPETS",
+     "video": "iSIy_VgkAnE",
+     "seconds": 4681
+    },
+    {
+     "title": "#IUIC | 15 Minutes with the Captains | Holy Days",
+     "video": "f8uWIehxUAU",
+     "seconds": 27
+    },
+    {
+     "title": "#IUIC | 15 Minutes with the Captains | Let No Man Judge You?",
+     "video": "4lpQ-VHcdBQ",
+     "seconds": 889
+    },
+    {
+     "title": "Why We Keep The Feast Days In Captivity?? || 15 Minutes w/ The Captains",
+     "video": "U82G8c1io_4",
+     "seconds": 355
+    }
+   ]
+  },
+  {
+   "term": "Idolatry",
+   "slug": "idolatry",
+   "aliases": [
+    "idols",
+    "idol"
+   ],
+   "definition": "Worship of anything but the Most High: \"Little children, keep yourselves from idols\" (1 John 5:21), for \"the devising of idols was the beginning of spiritual fornication\" (Wisdom of Solomon 14:12). The classes teach from 1 Corinthians 8 that \"an idol is nothing in the world\" (1 Corinthians 8:4), and that a believer must still take care that his liberty does not become a stumbling block to those new to the faith.",
+   "scripture": [
+    "1 Corinthians 8:4",
+    "1 John 5:21",
+    "Wisdom of Solomon 14:12"
+   ],
+   "see": [
+    {
+     "title": "Idolatry",
+     "url": "/encyclopedia/idolatry"
+    }
+   ],
+   "taught": [
+    {
+     "title": "PAUL THE PROPHET AND IDOL WORSHIP",
+     "video": "sHhY3vLTrj8",
+     "seconds": 2685
+    },
+    {
+     "title": "Giving the Sense From A to Z || 1 Corinthians 8:1",
+     "video": "-CBWAr699Z8",
+     "seconds": 350
+    },
+    {
+     "title": "#IUIC | PASSOVER SABBATH CLASS: IDOLS AND FIRE",
+     "video": "mEcJJj79JuE",
+     "seconds": 2923
+    },
+    {
+     "title": "HISTORY IN THE AM | THE KINGS OF ISRAEL: Wicked Amon & Intro to Josiah",
+     "video": "gdMySTGsGW8",
+     "seconds": 5864
+    }
+   ]
+  },
+  {
+   "term": "Ishmael",
+   "slug": "ishmael",
+   "aliases": [
+    "Ishmaelites"
+   ],
+   "definition": "The son of Abraham by Hagar, promised \"twelve princes shall he beget, and I will make him a great nation\" (Genesis 17:20; 25:16). Esau married his daughter (Genesis 28:9), and the Ishmaelites are named among Israel's enemies in Psalms 83:6. The classes teach that the Arabs descend from Ishmael's twelve sons.",
+   "scripture": [
+    "Genesis 16:10",
+    "Genesis 17:20",
+    "Genesis 25:16",
+    "Genesis 28:9",
+    "Psalms 83:6"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "RAVENING WOLVES RADIO: Episode 74 - The Birth Of Terror",
+     "video": "UTXu4PX5ioo",
+     "seconds": 2067
+    },
+    {
+     "title": "The 6th Seal - The Wild Boars & The Dragons Of Arabia",
+     "video": "7FN9XrzqSDI",
+     "seconds": 7592
+    },
+    {
+     "title": "OHH: The Close Relationship Between Ishmael, Esau and Moab: The Big Three EP 134",
+     "video": "a4BQHaANSfE",
+     "seconds": 6777
+    },
+    {
+     "title": "Armageddon: Islam and the Armies of the East",
+     "video": "Dkl9wrJtETw",
+     "seconds": 5623
     }
    ]
   },
@@ -321,6 +969,294 @@
    ]
   },
   {
+   "term": "Japheth",
+   "slug": "japheth",
+   "aliases": [],
+   "definition": "A son of Noah: \"God shall enlarge Japheth, and he shall dwell in the tents of Shem\" (Genesis 9:27). His sons were Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras, and \"By these were the isles of the Gentiles divided\" (Genesis 10:2, 5). The classes read Genesis 9:27 as Japheth's seed coming to live in the lands of Shem.",
+   "scripture": [
+    "Genesis 9:27",
+    "Genesis 10:2",
+    "Genesis 10:5"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "SABBATH NOON CLASS: The Table of Nations",
+     "video": "t9Ay1T3qUN0",
+     "seconds": 714
+    },
+    {
+     "title": "OHH: ALEXANDER AND PHILIP OF EDOM BECOMING JAPHETH AND THE PHARAOHS OF EGYPT!",
+     "video": "FXnH77Mhf7M",
+     "seconds": 3782
+    },
+    {
+     "title": "Original Greeks Were Black",
+     "video": "bX5u0pqLdnc",
+     "seconds": 78
+    }
+   ]
+  },
+  {
+   "term": "Jews",
+   "slug": "jews",
+   "aliases": [
+    "Jew"
+   ],
+   "definition": "In scripture, the people of Judah and, more broadly, the Israelites; Christ said \"salvation is of the Jews\" (John 4:22). The classes read history showing that the Jews of scripture were known as a dark-complexioned people, and teach that many who claim the name today are those \"which say they are Jews, and are not\" (Revelation 2:9; 3:9).",
+   "scripture": [
+    "John 4:22",
+    "Revelation 2:9",
+    "Revelation 3:9",
+    "Romans 2:28-29"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "#IUIC: OUR HIDDEN HISTORY RADIO SHOW| CHAPTER 30 THE SPANISH INQUISITION",
+     "video": "EYTDEGCJfoE",
+     "seconds": 3116
+    },
+    {
+     "title": "OHH -  The Spanish Inquisition Chapter 30 EPISODE 33",
+     "video": "IV-E8HavHD0",
+     "seconds": 3095
+    },
+    {
+     "title": "OUR HIDDEN HISTORY | THE ROBBERS OF LANDS AND PEOPLE PART 3 EP 162",
+     "video": "EwwDXVmX4o8",
+     "seconds": 3140
+    },
+    {
+     "title": "ESCAPE MEMORIAL DAY | INQUIRY OF THE ASHKENAZI",
+     "video": "TcNcja70Mz8",
+     "seconds": 14945
+    }
+   ]
+  },
+  {
+   "term": "Judah",
+   "slug": "judah",
+   "aliases": [],
+   "definition": "The fourth son of Jacob, the tribe of the kings and of Christ: \"The sceptre shall not depart from Judah\" (Genesis 49:10). After Solomon, Judah and Benjamin formed the southern kingdom (1 Kings 12:21). The classes teach that the tribe of Judah is the so-called Black Americans, the first tribe to wake up to who it is, and that the Lord uses Judah to bring the other tribes back: \"The Lord also shall save the tents of Judah first\" (Zechariah 12:7).",
+   "scripture": [
+    "Genesis 49:8",
+    "Genesis 49:10",
+    "1 Kings 12:21",
+    "Zechariah 12:7",
+    "Deuteronomy 33:7"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "RAVENING WOLVES: RESTORING THE TABERNACLES OF DAVID PART 2 (RERUN)",
+     "video": "4bfbsnd0lDc",
+     "seconds": 3068
+    },
+    {
+     "title": "The Evolution Of Revolutionaries",
+     "video": "2iTTN9QdCgc",
+     "seconds": 22460
+    },
+    {
+     "title": "Ravening Wolves Radio: Restoring The Tabernacles of David Part 2",
+     "video": "A4y6oPEF1gQ",
+     "seconds": 3512
+    },
+    {
+     "title": "THE DIVIDING HATRED: CORNELIUS THE CENTURION",
+     "video": "zdkkMC_4xfg",
+     "seconds": 7268
+    }
+   ]
+  },
+  {
+   "term": "Judaism",
+   "slug": "judaism",
+   "aliases": [
+    "rabbinic Judaism"
+   ],
+   "definition": "The religion of the Jews; Paul spoke of his former life \"in the Jews' religion\" (Galatians 1:13). The classes distinguish the law given to Israel from rabbinic Judaism, built on the Mishnah and the Talmud, and teach that rabbinic Judaism spread by converting other nations, among them the Khazars, whom they hold to be the source of the Ashkenazi Jews.",
+   "scripture": [
+    "Galatians 1:13"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "#IUIC | Times of the Gentiles: Death of the Disciples and Birth of Christianity Chapter 39 (RE-RUN)",
+     "video": "y9_Te4MTQXc",
+     "seconds": 2439
+    },
+    {
+     "title": "#IUIC |OHH RADIO SHOW- TIMES OF THE GENTILES: RISE OF ROME DEATH OF THE DISCIPLES AND THE BIRTH O…",
+     "video": "JS_uhUEWkGM",
+     "seconds": 2542
+    },
+    {
+     "title": "ESCAPE MEMORIAL DAY | INQUIRY OF THE ASHKENAZI",
+     "video": "TcNcja70Mz8",
+     "seconds": 4315
+    }
+   ]
+  },
+  {
+   "term": "Kingdom",
+   "slug": "kingdom",
+   "aliases": [
+    "kingdom of heaven",
+    "kingdom of God"
+   ],
+   "definition": "The rule of the Most High on earth, which the disciples asked Christ to \"restore again ... to Israel\" (Acts 1:6): \"the saints of the most High shall take the kingdom, and possess the kingdom for ever\" (Daniel 7:18). The classes teach that the kingdom passes from people to people, that the kingdom of heaven is a condition that will be here on earth, \"Thy will be done in earth, as it is in heaven\" (Matthew 6:10), and that it will be given to Israel (Daniel 7:27).",
+   "scripture": [
+    "Acts 1:6",
+    "Daniel 7:18",
+    "Daniel 7:27",
+    "Matthew 6:10"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "THE PRAYER OF THE SAINTS",
+     "video": "SbA48Kp7drI",
+     "seconds": 764
+    },
+    {
+     "title": "Heaven On Earth We Shall Rule",
+     "video": "eiEwLYDlkRU",
+     "seconds": 5685
+    },
+    {
+     "title": "#IUIC | RAVENING WOLVES RADIO SHOW: Episode 51 - The King",
+     "video": "kmDDzqVyEJ8",
+     "seconds": 7264
+    },
+    {
+     "title": "The Israelites: The Kingdom of Heaven (Part 1) on WGAI 560 AM Radio",
+     "video": "GGjKylJOKVQ",
+     "seconds": 2299
+    }
+   ]
+  },
+  {
+   "term": "Levites",
+   "slug": "levites",
+   "aliases": [
+    "Levi"
+   ],
+   "definition": "The tribe of Levi, separated to serve the Lord: \"Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine\" (Numbers 8:14). They had no inheritance of land but cities and suburbs among the tribes (Numbers 35:2), and the priests were the sons of Aaron within the tribe. The classes teach that Levi was charged with keeping the law before the people, \"For the priest's lips should keep knowledge\" (Malachi 2:7), which is why Jeroboam cast them off and they went to Judah (2 Chronicles 11:14).",
+   "scripture": [
+    "Numbers 8:14",
+    "Numbers 18:20",
+    "Numbers 35:2",
+    "Malachi 2:7",
+    "2 Chronicles 11:14"
+   ],
+   "see": [
+    {
+     "title": "The Priesthood",
+     "url": "/encyclopedia/the-priesthood"
+    }
+   ],
+   "taught": [
+    {
+     "title": "#IUIC | SABBATH AFTERNOON CLASS: Thy Servant The Prophet",
+     "video": "itWVpokSkDo",
+     "seconds": 6062
+    },
+    {
+     "title": "#IUIC | SABBATH AFTERNOON CLASS: Deprogramming Mis-Education Series: Tithing",
+     "video": "QcOi5iimI3w",
+     "seconds": 4571
+    },
+    {
+     "title": "#IUIC | SABBATH MORNING CLASS: Hebrews Chapter 7",
+     "video": "a6VQ231Y3As",
+     "seconds": 4040
+    },
+    {
+     "title": "Be Not Partakers Of Her Sins",
+     "video": "ovrc6zVRAgM",
+     "seconds": 4451
+    }
+   ]
+  },
+  {
+   "term": "Messiah",
+   "slug": "messiah",
+   "aliases": [
+    "Christ",
+    "Messias"
+   ],
+   "definition": "The anointed one promised to Israel: \"We have found the Messias, which is, being interpreted, the Christ\" (John 1:41); Daniel foretold \"the Messiah the Prince\" (Daniel 9:25). The classes teach that Christ is recognised as the Messiah by his works, his words and his fulfilling of the prophecies, that he is the Israelites' passover (1 Corinthians 5:7), and that the image of Christ set up by the churches is one of the \"false Christs\" he warned of (Matthew 24:24).",
+   "scripture": [
+    "John 1:41",
+    "John 4:25",
+    "Daniel 9:25",
+    "1 Corinthians 5:7",
+    "Matthew 24:24"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "RAVENING WOLVES RADIO SHOW: Episode 56 - The Fake Jewish Messiah",
+     "video": "KfX2y_JFRV0",
+     "seconds": 2095
+    },
+    {
+     "title": "#IUIC | SABBATH MORNING CLASS: CHRIST IN THE VOLUME OF THE BOOK",
+     "video": "p3YOxirsawE",
+     "seconds": 1371
+    },
+    {
+     "title": "#IUIC | SABBATH NOON CLASS: Understanding The Schoolmaster",
+     "video": "5PJjSPvaHF4",
+     "seconds": 8612
+    },
+    {
+     "title": "THE DESTRUCTION AT NOON DAY -THANKSKILLING CLASS",
+     "video": "PRhlouDtXoQ",
+     "seconds": 10117
+    }
+   ]
+  },
+  {
+   "term": "Moab",
+   "slug": "moab",
+   "aliases": [
+    "Moabites"
+   ],
+   "definition": "The son of Lot by his elder daughter, \"the father of the Moabites unto this day\" (Genesis 19:37). The law barred the Moabite from \"the congregation of the Lord\" (Deuteronomy 23:3), and the prophets spoke of \"the pride of Moab\" (Jeremiah 48:29). The classes teach Moab as a proud and lying nation (Jeremiah 48:30), still among the nations today.",
+   "scripture": [
+    "Genesis 19:37",
+    "Deuteronomy 23:3",
+    "Jeremiah 48:29",
+    "Jeremiah 48:30"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "The Madmen Of China And Their Hatred For Black People",
+     "video": "6XyhSewrzz0",
+     "seconds": 7815
+    },
+    {
+     "title": "#IUIC | SABBATH EVENING CLASS: Our Salvation & China's Desolation",
+     "video": "XIbwjRr-Hvg",
+     "seconds": 7130
+    },
+    {
+     "title": "ESCAPING THE PLANTATION 2.0: PROPHESY THOU AGAINST MOAB",
+     "video": "9AMzJ0HnqC4",
+     "seconds": 1777
+    },
+    {
+     "title": "OUR HIDDEN HISTORY | THE BIG THREE: ISLAM'S DARK SECRETS PART 2 EP 137",
+     "video": "tSbg2mE_hBU",
+     "seconds": 7150
+    }
+   ]
+  },
+  {
    "term": "Most High",
    "slug": "most-high",
    "aliases": [
@@ -356,6 +1292,42 @@
      "title": "Christ Is King and Israel Is His Government",
      "video": "y9OB53JrkDA",
      "seconds": 1061
+    }
+   ]
+  },
+  {
+   "term": "Pharisees",
+   "slug": "pharisees",
+   "aliases": [
+    "Pharisee"
+   ],
+   "definition": "A party among the Jews in the days of Christ: they believed in the resurrection, angels and spirit, where the Sadducees did not (Acts 23:8), and \"sit in Moses' seat\" (Matthew 23:2). The classes trace their origin to the time of the Maccabees, and teach that they held an allegiance with Rome and that their successors are the religious leaders of today.",
+   "scripture": [
+    "Acts 23:8",
+    "Matthew 23:2",
+    "Matthew 23:23"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "Rise And Fall Of The Pharisees",
+     "video": "DyzYPqC3mPs",
+     "seconds": 1447
+    },
+    {
+     "title": "#IUIC | THE BIBLE: BOOK OF OUR FATHERS : The Sects Of Jews During The Time Of Christ",
+     "video": "QoSmM-UEwAU",
+     "seconds": 6102
+    },
+    {
+     "title": "#IUIC | SABBATH NOON CLASS: Acts Of The Apostles Part 2",
+     "video": "ljWpgRSrocI",
+     "seconds": 8527
+    },
+    {
+     "title": "Racial and Financial Idolatry!",
+     "video": "F3FUJ_VPcqc",
+     "seconds": 4669
     }
    ]
   },
@@ -398,6 +1370,311 @@
    ]
   },
   {
+   "term": "Remnant",
+   "slug": "remnant",
+   "aliases": [],
+   "definition": "Those left of a people after judgment. The Lord will \"set his hand again the second time to recover the remnant of his people\" from Assyria, Egypt, Cush and \"the islands of the sea\" (Isaiah 11:11), and the dragon makes war \"with the remnant of her seed, which keep the commandments of God\" (Revelation 12:17). The classes teach that the remnant of Israel is scattered across the earth today, and read \"the remnant of Edom\" (Amos 9:12) as those of the nations who will serve Israel.",
+   "scripture": [
+    "Isaiah 11:11",
+    "Amos 9:12",
+    "Romans 11:5",
+    "Revelation 12:17"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "Ravening Wolves Radio: Restoring The Tabernacles of David Part 2",
+     "video": "A4y6oPEF1gQ",
+     "seconds": 2193
+    },
+    {
+     "title": "RAVENING WOLVES: The Heathens That Are Called By God's Name",
+     "video": "4hKJSQJ8ePk",
+     "seconds": 1509
+    },
+    {
+     "title": "#IUIC | RAVENING WOLVES RADIO SHOW: Episode 51 - The King",
+     "video": "kmDDzqVyEJ8",
+     "seconds": 4905
+    }
+   ]
+  },
+  {
+   "term": "Repentance",
+   "slug": "repentance",
+   "aliases": [
+    "repent"
+   ],
+   "definition": "Turning from sin back to the law: \"Repent ye therefore, and be converted, that your sins may be blotted out\" (Acts 3:19). The classes teach that Christ was exalted \"to give repentance to Israel, and forgiveness of sins\" (Acts 5:31), and that forgiveness follows repentance: \"if he repent, forgive him\" (Luke 17:3).",
+   "scripture": [
+    "Acts 3:19",
+    "Acts 5:31",
+    "Luke 17:3"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "#IUIC | SABBATH NOON CLASS: Atonement: Forgiveness & Judgement",
+     "video": "ul23BlPjHQM",
+     "seconds": 2372
+    },
+    {
+     "title": "#IUIC | SABBATH NOON CLASS: Teaching Repentance Is A Crime Today",
+     "video": "MtkOoVrQGHc",
+     "seconds": 3296
+    },
+    {
+     "title": "Sabbath Noon Class: No Forgiveness For Judas Traitors",
+     "video": "NE7b8B6seLo",
+     "seconds": 3374
+    },
+    {
+     "title": "THE MERCY AND HUMILITY OF KING MANASSEH",
+     "video": "5tWDINEq3UI",
+     "seconds": 7535
+    }
+   ]
+  },
+  {
+   "term": "Rome",
+   "slug": "rome",
+   "aliases": [
+    "Romans",
+    "Roman Empire"
+   ],
+   "definition": "The empire that ruled Judaea in the days of Christ; its leaders feared \"the Romans shall come and take away both our place and nation\" (John 11:48), and it destroyed Jerusalem (Luke 21:20). The classes teach that Rome is the fourth beast of Daniel (Daniel 7:7), ruled by Edom, and that it never truly fell: its power, its religion and its customs continue in Europe and America, the healed head of the beast (Revelation 13:3).",
+   "scripture": [
+    "John 11:48",
+    "Luke 21:20",
+    "Daniel 7:7",
+    "Revelation 13:3"
+   ],
+   "see": [
+    {
+     "title": "Esau and Edom",
+     "url": "/encyclopedia/esau-and-edom"
+    }
+   ],
+   "taught": [
+    {
+     "title": "ESCAPE MEMORIAL DAY | INQUIRY OF THE ASHKENAZI",
+     "video": "TcNcja70Mz8",
+     "seconds": 5135
+    },
+    {
+     "title": "OUR HIDDEN HISTORY | DARK AGES: THE TAKEOVER EP 179",
+     "video": "bv_DjoNomBQ",
+     "seconds": 6440
+    },
+    {
+     "title": "MEMORIAL DAY GETAWAY | 10 HORNS, 10 TOES, 2 FEATHERS",
+     "video": "n9UGbR4gEh4",
+     "seconds": 13360
+    },
+    {
+     "title": "#IUIC | OHH RADIO SHOW- TIMES OF THE GENTILES: RISE OF ROME (GALATIANS  PT. 2) CHAP 32 EP 69",
+     "video": "vE-0tP-KWDw",
+     "seconds": 4871
+    }
+   ]
+  },
+  {
+   "term": "Sabbath",
+   "slug": "sabbath",
+   "aliases": [
+    "Sabbath day"
+   ],
+   "definition": "The seventh day, holy to the Lord: \"Remember the sabbath day, to keep it holy\" (Exodus 20:8), given to \"the children of Israel ... for a perpetual covenant\" (Exodus 31:16); the land also kept a sabbath every seventh year (Leviticus 25:2). The classes teach that the Sabbath was not done away with, that it was given to Israel, and that keeping it means doing no work and no buying or selling on that day (Nehemiah 13:15).",
+   "scripture": [
+    "Exodus 20:8",
+    "Exodus 31:16",
+    "Leviticus 25:2",
+    "Nehemiah 13:15"
+   ],
+   "see": [
+    {
+     "title": "The Sabbath",
+     "url": "/encyclopedia/the-sabbath"
+    }
+   ],
+   "taught": [
+    {
+     "title": "#IUIC || WHAT CHRISTIANITY NEVER TAUGHT YOU || THE SABBATH AIN'T NEVA BEEN SUNDAY!!",
+     "video": "1VKSaA4dcaA",
+     "seconds": 284
+    },
+    {
+     "title": "Understanding The Sabbath",
+     "video": "iytGeR00Low",
+     "seconds": 10659
+    },
+    {
+     "title": "#IUIC | SABBATH EVENING CLASS: The Sabbath Is A 1,000 Years Of Rest",
+     "video": "BEEyxVXjqg4",
+     "seconds": 3769
+    },
+    {
+     "title": "HAMMER TIME: SABBATH SICKNESS",
+     "video": "d6TSSfG7JvQ",
+     "seconds": 3656
+    }
+   ]
+  },
+  {
+   "term": "Salvation",
+   "slug": "salvation",
+   "aliases": [
+    "saved"
+   ],
+   "definition": "Deliverance by the Lord, as at the Red Sea: \"stand still, and see the salvation of the Lord\" (Exodus 14:13). The classes teach that salvation is promised to Israel, \"Israel shall be saved in the Lord with an everlasting salvation\" (Isaiah 45:17), and that it means being saved \"from our enemies, and from the hand of all that hate us\" (Luke 1:71).",
+   "scripture": [
+    "Exodus 14:13",
+    "Isaiah 45:17",
+    "Luke 1:71",
+    "Wisdom of Solomon 18:7"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "The Israelites:The Salvation of God",
+     "video": "FPq-lYsZKKI",
+     "seconds": 977
+    },
+    {
+     "title": "SALVATION HAS ALWAYS BEEN FOR ISRAEL || CaptainsInTheClassroom",
+     "video": "LR-QAEVTWr4",
+     "seconds": 4526
+    },
+    {
+     "title": "Emancipation",
+     "video": "id6ZzVlZb98",
+     "seconds": 6446
+    },
+    {
+     "title": "#IUIC | SABBATH MORNING CLASS: Trials Are Seasonal, Salvation Is Forever",
+     "video": "YzsysfgzIrY",
+     "seconds": 7945
+    }
+   ]
+  },
+  {
+   "term": "Shem",
+   "slug": "shem",
+   "aliases": [
+    "Semites"
+   ],
+   "definition": "The son of Noah through whom the blessing passed: \"Blessed be the Lord God of Shem\" (Genesis 9:26). His children were Elam, Asshur, Arphaxad, Lud and Aram (Genesis 10:22), and his generations lead to Abraham (Genesis 11:10). The classes teach Shem as Noah's righteous son, as Seth was Adam's, and that the Israelites come out of his line.",
+   "scripture": [
+    "Genesis 9:26",
+    "Genesis 9:27",
+    "Genesis 10:22",
+    "Genesis 11:10"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "SABBATH NOON CLASS: The Table of Nations",
+     "video": "t9Ay1T3qUN0",
+     "seconds": 714
+    },
+    {
+     "title": "The Barbra Streisand Effect Is Starting To Affect Jewish People!",
+     "video": "K42EGV7v7d0",
+     "seconds": 1932
+    },
+    {
+     "title": "AS IN THE DAYS OF NOAH: PAST & PRESENT",
+     "video": "nwLjEGhd2oA",
+     "seconds": 5705
+    },
+    {
+     "title": "#IUIC | OUR HIDDEN HISTORY RADIO SHOW- TIMES OF THE GENTILES: ASSYRIA CHAPTER 2",
+     "video": "DKL7OKa0xyY",
+     "seconds": 3730
+    }
+   ]
+  },
+  {
+   "term": "Sons of God",
+   "slug": "sons-of-god",
+   "aliases": [],
+   "definition": "Those called God's own. \"The sons of God came to present themselves before the Lord\" (Job 1:6); \"Israel is my son, even my firstborn\" (Exodus 4:22); \"as many as are led by the Spirit of God, they are the sons of God\" (Romans 8:14). The classes teach that the sons of God in Genesis 6:2 are the descendants of Adam through Seth, the chosen line, and that the children of Israel are the sons of God today.",
+   "scripture": [
+    "Genesis 6:2",
+    "Job 1:6",
+    "Exodus 4:22",
+    "Romans 8:14",
+    "1 John 3:1"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "#IUIC | ESCAPE COLUMBUS DAY: Continuing Of Genesis",
+     "video": "DEBiH-edn54",
+     "seconds": 5350
+    },
+    {
+     "title": "THE HOLY WAR",
+     "video": "BGBbM1H_fX4",
+     "seconds": 4944
+    },
+    {
+     "title": "#IUIC | ESCAPE MEMORIAL DAY : As In The Days Of Noah",
+     "video": "a0xto1Jl4VI",
+     "seconds": 5128
+    },
+    {
+     "title": "OUR HIDDEN HISTORY | SLEEPING WITH THE ENEMY: JEWS AND MIXING EP 164",
+     "video": "DMK80Twp1SM",
+     "seconds": 678
+    }
+   ]
+  },
+  {
+   "term": "Tithe",
+   "slug": "tithe",
+   "aliases": [
+    "tithes",
+    "tithing"
+   ],
+   "definition": "A tenth of the increase: \"Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year\" (Deuteronomy 14:22), given to the Levites for their service (Numbers 18:21) and, every third year, to \"the Levite, the stranger, the fatherless, and the widow\" (Deuteronomy 26:12). The classes teach that the tithe belonged to the Levitical priesthood and the temple, and that churches collecting a tenth of wages from their members misuse Malachi 3:10.",
+   "scripture": [
+    "Deuteronomy 14:22",
+    "Deuteronomy 26:12",
+    "Numbers 18:21",
+    "Malachi 3:10",
+    "Matthew 23:23"
+   ],
+   "see": [
+    {
+     "title": "The Priesthood",
+     "url": "/encyclopedia/the-priesthood"
+    }
+   ],
+   "taught": [
+    {
+     "title": "#IUIC | SABBATH AFTERNOON CLASS: Deprogramming Mis-Education Series: Tithing",
+     "video": "QcOi5iimI3w",
+     "seconds": 6381
+    },
+    {
+     "title": "#IUIC | SABBATH MORNING CLASS: Hebrews Chapter 7",
+     "video": "a6VQ231Y3As",
+     "seconds": 3189
+    },
+    {
+     "title": "#IUIC || WHAT CHRISTIANITY NEVER TAUGHT YOU || The LIE In Your Tithe!!",
+     "video": "wVFclfNbOCo",
+     "seconds": 151
+    },
+    {
+     "title": "The Israelites: Stop Tithing Your Pastors Pockets",
+     "video": "8yYBXhNVU8Q",
+     "seconds": 2970
+    }
+   ]
+  },
+  {
    "term": "Twelve Tribes",
    "slug": "twelve-tribes",
    "aliases": [
@@ -434,6 +1711,44 @@
      "title": "#IUIC | RAVENING WOLVES RADIO SHOW: Episode 50 - Is God & Christ A Racist?",
      "video": "rYLnOS0CaBA",
      "seconds": 10128
+    }
+   ]
+  },
+  {
+   "term": "Zion",
+   "slug": "zion",
+   "aliases": [
+    "Sion"
+   ],
+   "definition": "The stronghold David took in Jerusalem: \"the strong hold of Zion: the same is the city of David\" (2 Samuel 5:7; 1 Kings 8:1). The classes teach that Zion is a people before it is a place, as the Lord says \"unto Zion, Thou art my people\" (Isaiah 51:16): the children of Israel, who are told \"Deliver thyself, O Zion, that dwellest with the daughter of Babylon\" (Zechariah 2:7).",
+   "scripture": [
+    "2 Samuel 5:7",
+    "1 Kings 8:1",
+    "Psalms 87:2",
+    "Isaiah 51:16",
+    "Zechariah 2:7"
+   ],
+   "see": [],
+   "taught": [
+    {
+     "title": "SABBATH NOON CLASS: Stop The Rioting, Deliver Thyself O Zion",
+     "video": "uLHe-Asst1w",
+     "seconds": 11259
+    },
+    {
+     "title": "The Evolution Of Revolutionaries",
+     "video": "2iTTN9QdCgc",
+     "seconds": 3044
+    },
+    {
+     "title": "RAVENING WOLVES SHOW: Episode 77 - The City Of God",
+     "video": "07nrqZSqu2Q",
+     "seconds": 5225
+    },
+    {
+     "title": "#IUIC l RAVENING WOLVES RADIO SHOW: Episode 45 - Nuclear War Palestinian, Iran, and Israel Conflict",
+     "video": "vGaenY-hFAI",
+     "seconds": 5217
     }
    ]
   }
