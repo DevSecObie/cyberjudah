@@ -121,9 +121,12 @@ def notes(root=ROOT):
                 continue
             meta = _frontmatter(text)
             tags = meta.get("tags")
+            # The page's address is the note's slug when it has one (the engine publishes by it;
+            # older files repeat the date in their name), else the file's place.
+            slug = str(meta.get("slug") or "").strip().strip("/")
             found[video[1]] = {
                 "path": str(path.relative_to(root)),
-                "url": f"/{prefix}/{path.parent.name}/{path.stem}",
+                "url": f"/{prefix}/{slug}" if slug else f"/{prefix}/{path.parent.name}/{path.stem}",
                 "date": iso_date(meta.get("date")),
                 "tags": sorted({str(t).strip() for t in tags if str(t).strip()}) if isinstance(tags, list) else [],
             }
