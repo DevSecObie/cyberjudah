@@ -55,6 +55,11 @@ jobs:
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
           SELECTED_CHANNEL: ${{ inputs.channel }}
           VIDEO_LIMIT: ${{ inputs.limit }}
+          # With the Cloudflare secrets set, the audio goes to Workers AI's Whisper on GPUs
+          # instead of faster-whisper on the runner's CPU: minutes a class instead of an hour.
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          TRANSCRIBE_ENGINE: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && 'workers-ai' || 'faster-whisper' }}
         run: |
           printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
           chmod 600 /tmp/youtube-cookies.txt
