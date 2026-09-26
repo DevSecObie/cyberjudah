@@ -31,6 +31,10 @@ jobs:
           GJT: ${{ secrets.GJT }}
           HARVEST_RAW_DIR: /tmp/transcriptapi-harvest-raw
         run: |
+          # The main classroom channel is live: the Sabbath classes land here every week, so it
+          # runs every hour with no completion marker, and a class seen before its captions are
+          # published is tried again for three days.
+          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --listing-backend yt-dlp --tabs videos,streams --limit 60 --push --recheck-nocaption-days 3
           if [[ ! -f dashboard/completed-sources/iuicintheclassroom2.json ]]; then
             python3 scripts/history/harvest.py --feed classes --channel iuicintheclassroom2 --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/iuicintheclassroom2.json
           fi

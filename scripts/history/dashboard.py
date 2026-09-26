@@ -19,6 +19,7 @@ API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY
 
 FEED_CONFIG = (
     ("classes", "iuicintheclassroom2"),
+    ("classes", "IUICintheClassRoom"),
     ("classes", "ManVsBible144"),
     ("classes", "yabanisrael7530"),
     ("classes", "IUICRaleigh"),
