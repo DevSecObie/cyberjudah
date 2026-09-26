@@ -4,7 +4,7 @@ slug: "2026/2026-09-19-from-milk-to-meat-train-all-your-senses"
 date: "2026-09-19"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-09-19"
-tags: ["IUIC in the ClassRoom", "discipline", "justice", "prayer", "purpose", "wisdom"]
+tags: ["IUIC in the ClassRoom", "discipline", "justice", "prayer", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-19</p>
