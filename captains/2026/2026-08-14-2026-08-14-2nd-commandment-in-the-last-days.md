@@ -4,7 +4,7 @@ slug: "2026/2026-08-14-2nd-commandment-in-the-last-days"
 date: "2026-08-14"
 teacher: "Captain Kemuel"
 description: "15 Minutes w/ The Captains · 2026-08-14"
-tags: ["15 Minutes w/ The Captains", "faith", "false-religion", "idolatry", "prophecy"]
+tags: ["15 Minutes w/ The Captains", "faith", "false-religion", "idolatry", "prophecy", "the-law"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-14</p>
