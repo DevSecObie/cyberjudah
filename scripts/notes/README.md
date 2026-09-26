@@ -25,13 +25,35 @@ This is the part that matters most, and the easiest to get wrong.
   analysis of what he taught. If he read a verse and then said three things about it,
   the note has those three things, in his phrasing.
 - News clips and videos are **quoted at length**, not digested into a line.
-- The thumbnail or opening video is transcribed **verbatim** where there is one.
+- The thumbnail or title video **the teacher plays as part of the class** is transcribed
+  **verbatim**. What runs before he takes the mic is not in the note (see below).
 - "In Closing" is **the teacher's own closing words**, first person.
 - 15 Minutes episodes follow the episode's own order rather than a fixed section
   layout: a clip stays where it fell in the teaching.
 
 Word counts for reference: Sabbath class notes run 12,000 to 22,000 words. 15 Minutes
 episodes run 2,500 to 5,000.
+
+## The note starts where the teaching starts
+
+The recording starts before the class does: the stream loop, the opening tracks, the reader's
+psalm, the prayer, the trumpets and the salute. None of that is in the note. `## Introduction`
+opens with the first words of whoever is teaching, timestamped -- his greeting, who is in the
+building, what the class is about -- and runs from there. A title or thumbnail video he calls
+for once he has the mic is part of the class and is transcribed in full where it fell; a
+pre-class word from the presiding Bishop is teaching and is kept, marked `**Bishop:**`.
+
+Take the four classes of 2026-09-19 as the pattern: each opens on the teacher's greeting.
+
+## Nothing about the recording
+
+The note is the class, not a report on how it was captured. It never mentions captions, the
+transcript, the recogniser, or what was or was not audible: no "as the captions have it",
+no "the intro as far as the captions catch it", no "(captions: ...)", no source line at the
+end. A word bleeped on the recording is left out with no marker: not `[ __ ]`, not
+`[bleeped]`, nothing. A stretch that cannot be made out is left out. Where the words are
+plain, write them; where they are not, write nothing. `lint.py` fails a note that carries
+any of these.
 
 ## Anatomy
 

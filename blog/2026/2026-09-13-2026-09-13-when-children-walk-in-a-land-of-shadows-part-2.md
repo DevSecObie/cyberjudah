@@ -27,7 +27,7 @@ Before that, add this to your notes from last week. Last week we proved from Act
 
 ## In The News
 
-The class ran a series of clips through the teaching. Several were commentary videos narrating street fights in black neighbourhoods in the style of a nature documentary; they are not transcribed here at length, because the narration is extended racial mockery and reproducing it adds nothing the class did not say itself. What the class drew from them is recorded with the scriptures below. The exchange after them:
+The class ran a series of clips through the teaching. Several were commentary videos narrating street fights in black neighbourhoods in the style of a nature documentary. What the class drew from them is with the scriptures below. The exchange after them:
 
 - On a serious note, looking at that — that is the result of what happened to us when we got off those slave ships and we were never rehabilitated by the scriptures. That is the aftermath of none of what we are teaching up here. They need this so badly, because without this lesson our people are left in the same mental and psychological state that came out of the ships and all throughout our sojourn in this country. Never got the therapy, never got the help, never learned how to set up a marriage, never learned how to deal with children. That is what you get from this. And our enemies laugh at us because of it.
 - This is shameful. It really is. But this is a lesson that we as men have to take seriously and fix our people. Our people are sick.

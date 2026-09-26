@@ -59,7 +59,7 @@ In the news, played in class (public service announcements, by the way):
 Nolan Wells, missing on Horn Island, Mississippi. His mother Christine Wesley's post read in class: "Guys, my husband and I going to have to stop posting for a little bit. We've been up for close to 48 hours now and my body feels like it's shutting down. Please contact the Jackson County Sheriff Department if you have any leads on his whereabouts. We need to know if he left the island and with who." Second post: "This is our Nolan Wells aka No. One of the sweetest and kindest souls you could ever meet. He went missing on Horn Island on July 4th. Please help us find our sunshine."
 
 - His mother is what they call Blasian, mixed with Chinese and black; if you look at him, you can see in his eyes he got a little bit of her.
-- This brother, his wife, and this young man went celebrating July 4th with a bunch of [ __ ]. That's not the black man or black woman's holiday.
+- This brother, his wife, and this young man went celebrating July 4th with a bunch of. That's not the black man or black woman's holiday.
 
 
 - Now, this young lady, I like what she says, but when I see black women with yellow hair, I just get a little annoyed. But what she says, I'll give you one point for that.
@@ -397,7 +397,7 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 - Rehoboam consulted with the old men that stood before Solomon his father: how do ye advise that I may answer this people? But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him: those are his peers. Notice the difference: to the old men, how do you advise that I may answer this people; to the young men, what counsel give ye that we may answer this people? Meaning we all together, y'all my peers, we running this thing.
 - My little finger shall be thicker than my father's loins. My father chastised you with whips, but I will chastise you with scorpions: I'mma be worse than my father. Notice they're showing you the character of Solomon when he got old: what was Solomon doing when people didn't want to pay taxes? He had them forced.
 - What portion have we in David? To your tents, O Israel: talking to the 10 tribes. Now see to thine own house, David: see to your own house, Judah. So Israel departed unto their tents.
-- King Rehoboam sent Adoram, who was over the tribute, and all Israel stoned him with stones, that he died. [ __ ], you came in to collect money? We ain't giving you nothing. And Rehoboam made speed to get him up to his chariot to flee to Jerusalem; he said, they going to kill me next. So Israel rebelled against the house of David unto this day.
+- King Rehoboam sent Adoram, who was over the tribute, and all Israel stoned him with stones, that he died., you came in to collect money? We ain't giving you nothing. And Rehoboam made speed to get him up to his chariot to flee to Jerusalem; he said, they going to kill me next. So Israel rebelled against the house of David unto this day.
 
   Precepts:
   - **[Ecclesiasticus 30:4-6](/bible/sirach/30#v4)**
