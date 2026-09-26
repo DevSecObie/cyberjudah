@@ -193,6 +193,15 @@ def lint(path):
             if slug and target.rstrip("/").endswith(slug):
                 E.append(f"{rel}: nav line links to this same page ({target})")
 
+    # ---- nothing about the recording ----
+    # The note is the class, not a report on how it was captured. Book readings are quoted in
+    # blockquotes and may say "transcript" in their own voice, so those lines are not checked.
+    prose = "\n".join(l for l in body.split("\n") if not l.lstrip().startswith(">"))
+    for m in sorted({m.group(0) for m in re.finditer(r"\b(?:captions|captioned|transcripts?|transcribed (?:here|above|below|as|from|verbatim|in)|recogni[sz]er|auto-generated)\b", prose, re.I)}):
+        E.append(f"{rel}: mentions the recording ({m!r}); the note is the class, not how it was captured")
+    for m in sorted({m.group(0) for m in re.finditer(r"\[(?: __ |bleeped|inaudible|unclear|music)\]", body, re.I)}):
+        E.append(f"{rel}: marker {m} -- a word that cannot be heard is simply left out")
+
     # ---- names ----
     for name, pat in NAMES:
         hits = sorted({m.group(0) for m in pat.finditer(text)})
