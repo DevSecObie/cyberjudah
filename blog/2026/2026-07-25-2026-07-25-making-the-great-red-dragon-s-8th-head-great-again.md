@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "media", "reparations"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="Oas2Tg98VMA"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-oas2tg98vma.jpg" alt="Class artwork">
 </figure>
@@ -27,20 +29,20 @@ This is what Trump is basically saying; he's just out pronouncing it. But this h
 
 ## Scriptures Opened
 
-**[Job 9:24](/bible/job/9#v24)**  *[12:53]*
+**[Job 9:24](/bible/job/9#v24)**  *[[12:53](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=773s)]*
 
 > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
 
 - They want to keep it this way. The Bible says the earth is given into the hand of the wicked. The wicked cover the faces of the judges. And if not, if Esau is not the wicked, you tell God who and where is the wicked.
 
-**[Proverbs 29:2](/bible/proverbs/29#v2)**  *[12:53]*
+**[Proverbs 29:2](/bible/proverbs/29#v2)**  *[[12:53](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=773s)]*
 
 > <sup>[2](/bible/proverbs/29#v2)</sup> When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.
 
 - When the righteous are in authority: the righteous people, that's the Israelites. The people of the earth rejoice. There's obviously that the righteous ain't winning. The righteous ain't in rulership at all.
 - But when the wicked beareth rule, the people mourn. Everybody mourning. The birds mourning, the sharks are mourning, everything on the planet earth is catching hell because there's a fool in office. There's a fool ruling.
 
-**[Ecclesiastes 10:5-7](/bible/ecclesiastes/10#v5)**  *[12:53]*
+**[Ecclesiastes 10:5-7](/bible/ecclesiastes/10#v5)**  *[[12:53](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=773s)]*
 
 > <sup>[5](/bible/ecclesiastes/10#v5)</sup> There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:
 >
@@ -54,7 +56,7 @@ This is what Trump is basically saying; he's just out pronouncing it. But this h
 - I have seen servants upon horses, and princes walking as servants upon the earth: the man that's in the power seat is a servant to you. And the princes, the Israelites, the twelve tribes of Israel, walking as servants upon the earth.
 - Image shown: the statue that was in front of the Museum of Natural History on 81st Street; they took it down. The man on the horse is Teddy Roosevelt. The Bible says that that's a servant; he's sitting up in the power seat like he's in rulership, but meanwhile the servants are on the side: Gad on the right side, and Judah on the left side. You can zoom in and see the sight on the barrel of the musket; that's indicating that the negro is so brainwashed he will fight for the man on a horse. There was a lot of thinking that went into putting this together. Damn, Judah, he sleep; he got the dag on gun like, I'm going to fight for the man on the horse. Now go on the other side: this is Gad. He got the gun pointed down in defiance like, you're on my land, I'm not fighting for you. For this to even be put up, that means the sculptor has to know the psychology of the negro and the psychology of Gad. Now they took it down; you can't even go look it up or research it or nothing. Thank God for pictures.
 
-**[Psalms 82:5](/bible/psalms/82#v5)**  *[17:13]*
+**[Psalms 82:5](/bible/psalms/82#v5)**  *[[17:13](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=1033s)]*
 
 > <sup>[5](/bible/psalms/82#v5)</sup> They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
 
@@ -90,7 +92,7 @@ Definition read in class: a baddie is a modern slang term for a confident, highl
 
 - Confident to do 15 years. Highly stylish to do 15 years. This is what you get when your prefrontal cortex is not developed and you following stupidity. This whole system is set up to drive our people just like this. Why do you think they are against what we're doing? We're trying to save our kids from becoming this, trying to save the young sisters and the young brothers from becoming sweat equity. That's the reason why they hate us so much: because we're getting in their way. This is the unity; J. Edgar Hoover, even his old racist red ass is dead, the mentality is still out here all over the place.
 
-**[2 Esdras 5:8](/bible/2-esdras/5#v8)**  *[1:11:21]*
+**[2 Esdras 5:8](/bible/2-esdras/5#v8)**  *[[1:11:21](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=4281s)]*
 
 > <sup>[8](/bible/2-esdras/5#v8)</sup> There shall be a confusion also in many places, and the fire shall be oft sent out again, and the wild beasts shall change their places, and menstruous women shall bring forth monsters:
 
@@ -98,7 +100,7 @@ Definition read in class: a baddie is a modern slang term for a confident, highl
 - And the wild beasts shall change their places: all kinds of animal habitats is scattered all over the place. Like we read earlier, all of the foundations of the earth is out of course. Everything is upside down now.
 - And menstruous women shall bring forth monsters: meaning demonic, evil, I ain't got no man type of woman; you can't tell me nothing type of woman. Shall bring forth monsters: shall bring forth demons. That's what you got going on out here now. A little wild drill music. Demons, no empathy, don't care about nothing. Shoot up the block, make them hop, double Dutch; y'all heard the music. Switch up on a Glock: the illegal switch that they put on a Glock to make it shoot like a machine gun. Complete foolishness.
 
-**[Isaiah 3:12](/bible/isaiah/3#v12)**  *[1:11:21]*
+**[Isaiah 3:12](/bible/isaiah/3#v12)**  *[[1:11:21](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=4281s)]*
 
 > <sup>[12](/bible/isaiah/3#v12)</sup> As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
 
@@ -121,7 +123,7 @@ Reading in class (Deacon Yosua): agents of socialization in sociology. "In socio
 - Deacon: we've allowed mass media to raise our kids, and that's a secondary thing. We've exchanged, and we fell for the trap hook, line, and sinker. Many of our people mistake feeding their kids and making sure they have clothes and a roof and they go to school as raising your kids, and it's two distinct differences.
 
   Precepts:
-  - **[Ecclesiasticus 30:11](/bible/sirach/30#v11)**  *[1:28:15]*
+  - **[Ecclesiasticus 30:11](/bible/sirach/30#v11)**  *[[1:28:15](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=5295s)]*
     > <sup>[11](/bible/sirach/30#v11)</sup> Give him no liberty in his youth, and wink not at his follies.
 
     Give him no liberty in his youth, and wink not at his follies. You have to hold those children in; you have to take that by the reins. You're the one that's going to form their thoughts, their shapes, their identity. The stuff that Bishop is bringing out, that's not normal behavior, not just for our people, the royalty; that ain't normal period. See how the evil comes up: scripture tell you of idleness cometh much evil. And the part where the eighth head comes in: they know this, and they don't care if it affects some of theirs; that's collateral damage, because they're elite. They're going to make sure that they give theirs those lessons that they need to not fall into this. We the only ones that eat this stuff up.
@@ -151,7 +153,7 @@ Reading in class: the 13th Amendment, ratified December 6th, 1865. "Section one:
 - Another example of the fuel, just happened last year under Trump: he was deporting all the Mexican farmers. So the whole agricultural association came to him and said, whoa, whoa, we want you to get these people out the country, but not these ones that farm the land. If you do this, we won't have any workers to work the farms. And Trump went on and said he going to ease back on that, and his whole base got mad at him, and it died down in the news. He not raided them places anymore, cuz they said, we need these guys. Who else is going to do this hard labor and farm work that they do for pennies? One of those major farmers said, if you remove this labor, within a week the American people will feel the effects, meaning the supply chain is going to be disrupted. So what happened? You don't hear about it no more. Keep them working. That's that fuel. They said, but as for an exception of a crime: so if they can induce your children into crime, they got slavery.
 - So that mean they're out to get your children. So when we go and be as hard as we need to be to keep them out of the clutches of what they're trying to do, that's love. That's perseverance.
 
-**[Daniel 7:15-25](/bible/daniel/7#v15)**  *[1:57:29]*
+**[Daniel 7:15-25](/bible/daniel/7#v15)**  *[[1:57:29](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=7049s)]*
 
 > <sup>[15](/bible/daniel/7#v15)</sup> I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me.
 >
@@ -191,7 +193,7 @@ Book read in class: The Complete Works of Flavius Josephus, Antiquities of the J
 
 - The priests showed Alexander he was in the Bible. After being shown that he was next to rule, he ran with it.
 
-**[1 Maccabees 1:1-9](/bible/1-maccabees/1#v1)**  *[2:06:19]*
+**[1 Maccabees 1:1-9](/bible/1-maccabees/1#v1)**  *[[2:06:19](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=7579s)]*
 
 > <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
 >
@@ -245,7 +247,7 @@ Definition read in class: reasoning, the how. Reasoning is the continuous cognit
 - This is what our enemies say: teach them how to read, basically call out words, but you don't understand what they're saying; your reading comprehension is off. We don't know how to get the how. How did it happen? Why did it happen? That's what reasoning does. They have to do an analysis of the information that's around them to draw conclusions.
 - I might understand the answer that you gave, but the way you came to that answer does not make sense, because my reasoning tell me that you did not reach the proper answer based on the information that's around it.
 
-**[Ephesians 6:11](/bible/ephesians/6#v11)**  *[2:31:52]*  (officer's teaching)
+**[Ephesians 6:11](/bible/ephesians/6#v11)**  *[[2:31:52](https://www.youtube.com/watch?v=Oas2Tg98VMA&t=9112s)]*  (officer's teaching)
 
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 
@@ -330,4 +332,4 @@ Bishop Nathanyel's class follows this one.
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=Oas2Tg98VMA)

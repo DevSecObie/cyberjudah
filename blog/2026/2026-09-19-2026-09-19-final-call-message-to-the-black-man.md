@@ -9,43 +9,13 @@ teacher: "Captain Yahn"
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-19</p>
 
-<span class="opens"><b>Opens</b> [Ps 138](/bible/psalms/138) · [Deut 32](/bible/deuteronomy/32) · [Exod 20](/bible/exodus/20) · [Deut 4](/bible/deuteronomy/4) · [Deut 28](/bible/deuteronomy/28) · [Ezek 20](/bible/ezekiel/20) · [Ps 83](/bible/psalms/83) · [Lev 26](/bible/leviticus/26) · [Jer 2](/bible/jeremiah/2) · [Jer 3](/bible/jeremiah/3) · [Joel 3](/bible/joel/3) · [Exod 11](/bible/exodus/11) · [Isa 51](/bible/isaiah/51) · [Gal 4](/bible/galatians/4) · [2 Esdras 7](/bible/2-esdras/7) · [Amos 8](/bible/amos/8) · <i>and 22 more below</i></span>
+<span class="opens"><b>Opens</b> [Deut 32](/bible/deuteronomy/32) · [Exod 20](/bible/exodus/20) · [Deut 4](/bible/deuteronomy/4) · [Deut 28](/bible/deuteronomy/28) · [Ezek 20](/bible/ezekiel/20) · [Ps 83](/bible/psalms/83) · [Lev 26](/bible/leviticus/26) · [Jer 2](/bible/jeremiah/2) · [Jer 3](/bible/jeremiah/3) · [Joel 3](/bible/joel/3) · [Exod 11](/bible/exodus/11) · [Isa 51](/bible/isaiah/51) · [Gal 4](/bible/galatians/4) · [2 Esdras 7](/bible/2-esdras/7) · [Amos 8](/bible/amos/8) · [Ezek 37](/bible/ezekiel/37) · <i>and 21 more below</i></span>
 
 <!-- truncate -->
 
 <div class="class-video-mount" data-video-id="CiL1d9RUSfE"></div>
 
 ## Introduction
-
-The opening video, Damage Control, as the captions pick it up:
-
-> ...able transaction. My arm at 300 p was sold for the cold shoulder. I'm frozen in this suspense. I'm chosen but knowing this ain't enough. Smoke and mirrors for what? Like how can I make it up? I need a real healing. I'm the real villain and it shows. Change rose. I suppose that those closest to me know that paranoia get thick and cut the tension with a butter knife, requesting an extension. I don't want to lose my other life. Need an intervention. I don't want to lose my other life. Thought twice. Got to fix it tonight. Damaged soul need damage control. For quality assurance, the word of God is a demon deterrent. I'm determined. Keep my update current like iOS. So, got to get it off my chest to be blessed when my spirit's low. And I've been fighting daily on this lonely road. And I can't lie, sometimes it gets cold. But with the strength of the Lord...
-
-**[Psalms 138:1-8](/bible/psalms/138#v1)**  *[[0:59](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=59s)]*
-
-> <sup>[1](/bible/psalms/138#v1)</sup> I will praise thee with my whole heart: before the gods will I sing praise unto thee.
->
-> <sup>[2](/bible/psalms/138#v2)</sup> I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
->
-> <sup>[3](/bible/psalms/138#v3)</sup> In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.
->
-> <sup>[4](/bible/psalms/138#v4)</sup> All the kings of the earth shall praise thee, O Lord, when they hear the words of thy mouth.
->
-> <sup>[5](/bible/psalms/138#v5)</sup> Yea, they shall sing in the ways of the Lord: for great is the glory of the Lord.
->
-> <sup>[6](/bible/psalms/138#v6)</sup> Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.
->
-> <sup>[7](/bible/psalms/138#v7)</sup> Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
->
-> <sup>[8](/bible/psalms/138#v8)</sup> The Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands.
-
-- Let's rise and face Jerusalem. This is the book of Psalms, chapter 138 and verse 1.
-
-The opening prayer:
-
-> Father, in the name of your son Jesus the Christ, we come today, Father, in this Sabbath. Thank you, Father, for another Sabbath that you give us, God, Father, to glorify you, Father. Father, we ask for the well-being of our bishops, deacons, captains, officers, soldiers, and men that are traveling through the four corners of the earth spreading your gospel, Father. Father, we pray for the sick in the body. Father, make them whole so that they could serve you, Father, with more fervency. Father, that they might be able to come and serve you with humbleness, Father, in the name of your son Jesus the Christ. Father, we pray for all those women, all those sisters that are carrying babies right now. Father, protect their womb, Father, so they could bring forth prophets that will come and take down this evil kingdom. Father, we pray against all those nations, Father, who have come against your children, the Israelites, throughout the four corners of the earth, starting with France. Father, make sure that they are destroyed, Father, that they will never rise up against your children. England, the United States, and all the countries that have come against you and are plotting against us, Father, as a nation. Father, in the name of the son Jesus the Christ, I ask, Father, that you put up the spirit of Captain Yahn, that he might be able to edify the nation, Father, that they might be enlightened with whatever lesson that is being brought up today. In the name of the Sovereignty of Christ, let the congregation say hallelujah. Hallelujah. Hallelujah. Hallelujah. In Jesus' name we pray. Amen.
-
-All praises. Men of Israel, blow trumpets. Trumpets down. Men of Israel, sons of God, patient saints, sons of God. Hand salute. Most High bless. Salute down. Face sisters. And to the honorable daughters of Sarah, we say shalom. Christ bless.
 
 *[[4:05](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=245s)]* All shalom. Happy Sabbath. Most High and Christ bless you all. Brothers forgot to blow the horns first. It's the 9:00 a.m. class, so I understand. We in this building. Shout out to the soldiers who just started reading right away. I'm like, "Wait, wait." But all praises, the first time reading. All praise to the Most High. All praise. We got Captain Hananiah and I in the building. All praises. Yes, sir.
 
@@ -55,7 +25,7 @@ So, as y'all know, it's the 9:00 a.m. class. This is the beginner's class. This 
 
 *[[6:13](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=373s)]* So today's class was inspired by a conversation that I had with an NOI. So today's class, we're going to talk to our Muslim brothers. Today's class is called The Final Call: The Message to the Black Man. So play the intro. Shout out to Hezekiah from Arizona that did a fiery intro. All right, play that intro. He did an excellent job.
 
-The intro, as far as the captions catch it over the music:
+Hezekiah's intro:
 
 > Allah has seen it. Yes, sir. The good news that Minister X talks about here is the coming rise of the black man and the fall of the white man. Everyone who is here today realizes that we are now living in the fulfillment of prophecy. We have come to hear and to see the greatest and the wisest and most fearless black man in America today. We demand justice today. And the word was made flesh. I come say this behind. Paycheck. My children be free.
 

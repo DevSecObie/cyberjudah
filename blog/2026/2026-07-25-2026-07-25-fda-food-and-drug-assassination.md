@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "health", "marriage-family"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="hEWhwtZEqxk"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-hewhwtzeqxk.jpg" alt="Class artwork">
 </figure>
@@ -31,7 +33,7 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 
 ## Scriptures Opened
 
-**[1 Peter 3:7-12](/bible/1-peter/3#v7)**  *[13:29]*
+**[1 Peter 3:7-12](/bible/1-peter/3#v7)**  *[[13:29](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=809s)]*
 
 > <sup>[7](/bible/1-peter/3#v7)</sup> Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 >
@@ -67,7 +69,7 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 - For the eyes of the Lord are over the righteous: this is why, because God is watching what you're doing. God is watching how you are dealing with each other. And his ears are open unto their prayers. But the face of the Lord is against them that do evil. So you do evil and you deal evil with each other, the Lord is going to be against you. I'm not going to deal evil with my wife. You know why? Because God watching me, and God going to judge me. It should be the same thing with you damn sisters. Judgment going to come to your black behind if you keep dealing evil with your husband and keep running your damn mouth and being disrespectful. God sees you.
 - So brothers and sisters, y'all don't be in the house calling each other names. Don't be dealing evil with each other and fooling yourself thinking that you serving God. Stop arguing in front of your damn kids and saying hurtful stuff to each other in front of your kids.
 
-**[Psalms 64:2-3](/bible/psalms/64#v2)**  *[38:10]*
+**[Psalms 64:2-3](/bible/psalms/64#v2)**  *[[38:10](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=2290s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 >
@@ -83,7 +85,7 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 
     The earth is given into the hand of the wicked; he covereth the faces of the judges thereof. So who is ruling on the earth today? Esau, he's the one ruling. He's the wicked. The white man is the wicked.
 
-**[Psalms 83:1-4](/bible/psalms/83#v1)**  *[38:10]*
+**[Psalms 83:1-4](/bible/psalms/83#v1)**  *[[38:10](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=2290s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 >
@@ -105,7 +107,7 @@ A lot of our people is dying from heart attacks and from cancer and from a lot o
 
     Moreover, the nations in their wicked conspiracy. The nations got wicked conspiracies, and one of them wicked conspiracies is to destroy us, to wipe out the people of God, the sons of God, the Israelites.
 
-**[Habakkuk 3:13-14](/bible/habakkuk/3#v13)**  *[42:42]*
+**[Habakkuk 3:13-14](/bible/habakkuk/3#v13)**  *[[42:42](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=2562s)]*
 
 > <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 >
@@ -156,13 +158,13 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - The form of healing that he used was that diseases cannot survive in an alkaline body. You could read about it in Genesis: an alkaline body is basically Genesis, when it says God gave man the herbs to eat, the green herbs. Alkaline is basically eating greens and eating food that is not acidic or toxic like meat and beef and chicken. And that's how we were eating in Genesis. When your body alkaline, you eating fruits and vegetables, that's an alkaline body. So diseases can't survive in it, because your body kill the diseases. Your body literally attacks these. And he beat the government; he proved that what he does is better than what they does, cuz they say there ain't no cure for AIDS, they said there's no cure for a lot of these diseases. But he was curing people. And remember it stem all the way back from the Flexner report from 1910.
 
 
-**[Genesis 2:7](/bible/genesis/2#v7)**  *[1:17:21]*
+**[Genesis 2:7](/bible/genesis/2#v7)**  *[[1:17:21](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=4641s)]*
 
 > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
 - And the Lord God formed man of the dust of the ground: so we were created from the dust of the ground. That's how God created us, from the earth.
 
-**[Psalms 1:1-3](/bible/psalms/1#v1)**  *[1:21:30]*
+**[Psalms 1:1-3](/bible/psalms/1#v1)**  *[[1:21:30](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=4890s)]*
 
 > <sup>[1](/bible/psalms/1#v1)</sup> Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 >
@@ -180,7 +182,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 
     To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness. So the Lord referred to us as trees of righteousness. In Psalms 1 it referred to us as trees whose leaves not going to wither, meaning those trees is healthy, those trees is nourished.
 
-**[Genesis 1:29](/bible/genesis/1#v29)**  *[1:25:37]*
+**[Genesis 1:29](/bible/genesis/1#v29)**  *[[1:25:37](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=5137s)]*
 
 > <sup>[29](/bible/genesis/1#v29)</sup> And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
@@ -203,13 +205,13 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - Because you are not getting the nourishment from the food you eat: brothers and sisters, if you don't go out in the sun, make sure you take vitamin D, vitamin D3, 10,000 IU every day. Why black people get sick so much? It's harder for us to absorb it because of the pigment in our skin; we got to be out there longer to get it. Make sure every day you all take your magnesium, cuz you're not getting it in the food. Go to your doctor, do a blood work, and see what you lacking, and make sure you take these things in supplement form. When you drink water, buy a copper jar and drink your water out of the copper cup; your body need copper. All of these, zinc, your body needs zinc, make sure you get it. Otherwise, if you don't have the nourishment your body need, you're going to get sick.
 - What I could tell you all is that herbs does not cure you. You can't wait till you got stage four cancer, then you talking about you going and use herbs. It don't work like that. When you use the herbs and nutrition, it prevents sickness. Or if you are sick, if you use the herbs and nutrition, it help your body get rid of the sickness. The herbs don't just go there and get rid of the sickness; it strengthen your body, and it's your body that really fight that sickness. You got millions of warrior cells in your body that fight anything that come in there that don't supposed to be there. This is war. You got white blood cells that fight everything; that's how God created us. But if you are deficient in zinc and magnesium and vitamin D, then your body is not strong enough to fight off these things. And that's how they are killing us with their food, that's how they assassinate us with their food and their drugs.
 
-**[Psalms 104:14](/bible/psalms/104#v14)**  *[1:42:37]*
+**[Psalms 104:14](/bible/psalms/104#v14)**  *[[1:42:37](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=6157s)]*
 
 > <sup>[14](/bible/psalms/104#v14)</sup> He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
 
 - He causeth the grass to grow for the cattle, and herb for the service of man. So you all see why God gave herbs: herbs was given for the service of man. So what the hell the Rockefellers talking about, herbs is quackery? God says he gave the herbs for the service of man, for us to use to help keep our body to function, to keep our body nourished.
 
-**[Revelation 22:2](/bible/revelation/22#v2)**  *[1:46:40]*
+**[Revelation 22:2](/bible/revelation/22#v2)**  *[[1:46:40](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=6400s)]*
 
 > <sup>[2](/bible/revelation/22#v2)</sup> In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.
 
@@ -217,7 +219,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - And the leaves of the tree were for the healing of the nations: this is going into something spiritual, because we know the Lord heal us, we are healed through the word of God. But why is it saying the leaves of the trees? Because a lot of these trees on the earth, the leaves literally heal you. You all know it got the soursop leaves. Soursop leaves kill cancer cells, medically proven. We all got small amount of cancer cells in us, but it's when it's overgrown. In the morning you get up, you just boil some soursop leaf, boil some lime leaf, boil some cloves, boil the herbs and just drink a cup of tea. Just that alone kill cancer cells. It help you from getting sick. This is stuff you got to do every morning. But they don't teach you all this no more. In the islands when I woke up, we went outside and we put different leaves and we boil it and we drink some tea. That's how I grew up in the islands. I never go to the doctor unless it's something like I break my hand, I chop off my finger one time. But we usually just go outside, pick the herbs and make tea with it and we drink it every day. These things we got to start doing and implementing in your life, and it's going to help you to stay healthy. Don't wait till you get sick, now you running and looking for this and that. You need to start from now. Don't wait till the cancer cells become alert. You got to keep it under control, because the food that we eat, everything we eat get us sick and give us diseases.
 - And they're not talking about ganja, man, for you weed smokers. The leaves is not talking about that. It's talking for medication, healing. You know it was found on King Solomon's grave; he was the wisest man in these days.
 
-**[Genesis 4:11-12](/bible/genesis/4#v11)**  *[1:50:48]*
+**[Genesis 4:11-12](/bible/genesis/4#v11)**  *[[1:50:48](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=6648s)]*
 
 > <sup>[11](/bible/genesis/4#v11)</sup> And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;
 >
@@ -227,7 +229,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - When thou tillest the ground, it shall not henceforth yield unto thee her strength: the strength that the earth supposed to yield is the minerals, those irons in the soil. So God says when the white man farm, the earth is not going to yield minerals. So you all wonder why white people today, they farming, and you ain't getting no minerals in the food you eating. Because that's a curse that God put on the white man, on that murderous genocidal race of people. The earth say, I ain't giving you no minerals, you murderer.
 - And then they pour all type of fertilizer on the food to force the earth to get minerals. But the earth doesn't naturally give the white man minerals anytime they farm. They create a way to put minerals there in the food. And guess what the fertilizer they get is from? Oil. You also get fertilizer from oil. So the earth does not yield its strength unto the white man when he farm, thus is no nutrients in the food, and that's why a lot of us is getting sick.
 
-**[Ezekiel 4:9-13](/bible/ezekiel/4#v9)**  *[1:55:02]*
+**[Ezekiel 4:9-13](/bible/ezekiel/4#v9)**  *[[1:55:02](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=6902s)]*
 
 > <sup>[9](/bible/ezekiel/4#v9)</sup> Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.
 >
@@ -241,19 +243,19 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 
 - Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof. Put them all in one bowl, take all this wheat and flour and put it in one bowl and make some bread.
 - Three hundred and ninety days shalt thou eat thereof. And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it. Thou shalt drink also water by measure, the sixth part of an hin.
-- And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight: bake the bread with human [ __ ]. In everybody's sight.
-- And the Lord said, Even thus shall the children of Israel eat their defiled bread among the Gentiles. You all understand what that is saying. That was a prophecy for today. The food we eat is [ __ ]. It's defiled. There's all type of chemicals in the food that give you cancer, pesticides they spraying on the food. There's no nutrients in the food. God says, Ezekiel, I want you to make bread and knead it with human [ __ ] in front of everybody, and let them know that's how they going to eat their food in the future when they are enslaved and scattered amongst the Gentiles. So God prophesied us eating all that filth that we eating today that get us sick. And who is behind all of this? The wicked. The white man. Now he messing with the chicken. He cloning everything.
+- And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight: bake the bread with human. In everybody's sight.
+- And the Lord said, Even thus shall the children of Israel eat their defiled bread among the Gentiles. You all understand what that is saying. That was a prophecy for today. The food we eat is. It's defiled. There's all type of chemicals in the food that give you cancer, pesticides they spraying on the food. There's no nutrients in the food. God says, Ezekiel, I want you to make bread and knead it with human in front of everybody, and let them know that's how they going to eat their food in the future when they are enslaved and scattered amongst the Gentiles. So God prophesied us eating all that filth that we eating today that get us sick. And who is behind all of this? The wicked. The white man. Now he messing with the chicken. He cloning everything.
 
 
 - So they giving us lab grown food to eat right now. They growing animals and lab grown beef and all type of stuff. The Lord says we going to eat our food defiled amongst the Gentiles. And why is it like that? Because Esau is behind all of that. The food and drug is trying to assassinate us, and they work hand in hand. The food got no nutrients; the food get you sick; then they create the drug to treat the sickness, and then they kill you. That's how they kill us.
 
-**[Psalms 64:2](/bible/psalms/64#v2)** (read again)  *[1:59:46]*
+**[Psalms 64:2](/bible/psalms/64#v2)** (read again)  *[[1:59:46](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=7186s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 
 - Hide me from the secret counsel of the wicked, from the insurrection of the workers of iniquity. So the wicked got secret counsel to destroy us. If any one of you all think that the white man ain't evil and he ain't got things set up to destroy us, after what I showed you all with how the pharmaceutical companies got rid of all natural remedies that could heal you, if you all don't think that they trying to destroy us, something wrong with you all.
 
-**[Revelation 6:7-8](/bible/revelation/6#v7)**  *[1:59:46]*
+**[Revelation 6:7-8](/bible/revelation/6#v7)**  *[[1:59:46](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=7186s)]*
 
 > <sup>[7](/bible/revelation/6#v7)</sup> And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
 >
@@ -265,7 +267,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - Definition read in class: zoonosis is an infectious disease that spreads naturally from animals to humans, caused by germs like viruses, bacteria, parasites, and fungi; common examples include rabies. Zoonosis is when Esau take them diseases that animals got, like COVID 19, that's a bat disease; they took it and they make it where humans could contract it, and they turn it into a bioweapon.
 - Definition read in class: gain of function research is scientific experimentation that genetically alters an organism to give it new or enhanced biological traits, such as increased virulence, transmissibility, or a broader host range. Its primary goals are understanding disease mechanisms, improving pandemic preparedness, and developing effective vaccines and treatments.
 
-**[Isaiah 14:20](/bible/isaiah/14#v20)**  *[2:04:13]*
+**[Isaiah 14:20](/bible/isaiah/14#v20)**  *[[2:04:13](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=7453s)]*
 
 > <sup>[20](/bible/isaiah/14#v20)</sup> Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned.
 
@@ -304,26 +306,26 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - Start fasting. Do a two, three days fast. Start detoxing. Do blood detox. Go to a certified holistic doctor and get herbs to help cleanse your blood. Take detox baths: you get into the tub with all that different stuff and you sweat and you detox. Get the toxins out of your body. Another way is by sweating; you sweat a lot, because that's how you detox too.
 - The solution for those of y'all that got that vaccination: you got to start detoxing. Go to a doctor, find out if the spike protein in your blood is high. So one thing y'all could start doing is fasting, fast more. Another thing is you all got to start taking your minerals. You're not getting the minerals in your food; start taking supplements. As I said, I'm not telling no one to get off their medication, but those of you all that is not sick, start taking more minerals and supplements in your diet and do things to prevent you from getting sick, because it's hard to find real holistic doctors. Because of Rockefeller, most of them is extinct. You still got one, two of them, but most of them is extinct.
 
-**[Job 13:4](/bible/job/13#v4)**  *[2:25:15]*
+**[Job 13:4](/bible/job/13#v4)**  *[[2:25:15](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=8715s)]*
 
 > <sup>[4](/bible/job/13#v4)</sup> But ye are forgers of lies, ye are all physicians of no value.
 
 - But ye are forgers of lies, ye are all physicians of no value. So the wise man is physicians of no value. Them things that he giving you is to treat your sickness, is not to cure you. They are physicians of no value.
 
-**[2 Chronicles 16:12](/bible/2-chronicles/16#v12)**  *[2:25:15]*
+**[2 Chronicles 16:12](/bible/2-chronicles/16#v12)**  *[[2:25:15](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=8715s)]*
 
 > <sup>[12](/bible/2-chronicles/16#v12)</sup> And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the Lord, but to the physicians.
 
 - And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: so he had a disease in his feet. Yet in his disease he sought not to the Lord, but to the physicians. So who you got to seek first and foremost when you sick? You got to go to the Lord, not the physician first. This brother, he did not go to the Lord; he went to the physicians first.
 
-**[Psalms 51:7](/bible/psalms/51#v7)**  *[2:29:31]*
+**[Psalms 51:7](/bible/psalms/51#v7)**  *[[2:29:31](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=8971s)]*
 
 > <sup>[7](/bible/psalms/51#v7)</sup> Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
 
 - Purge me with hyssop, and I shall be clean. So brothers and sisters, y'all need to do a purge. Every three months in the islands, we do what you call a purge, where you get rid of the parasites out of you and stuff like that. Every couple months you're supposed to do a purge.
 - Hyssop is a herb. Y'all should get this herb in your house; it's a good herb for cleansing. You bathe with it and so forth. God used hyssop; our forefathers used hyssop to cleanse themselves. So it show you God, you could use herbs to do your body cleanse. So you want to do your body cleanse, go to a holistic doctor and use herbs and get them toxins out of your body. All them vegetables that you eat and think you eating healthy, you're not eating healthy; there's all type of stuff in these things that cause cancer. We need to cleanse out every three months. You need to do a body cleanse to get them parasites, not just parasites, but them toxins out of your body.
 
-**[Ecclesiasticus 38:1-5](/bible/sirach/38#v1)**  *[2:29:31]*
+**[Ecclesiasticus 38:1-5](/bible/sirach/38#v1)**  *[[2:29:31](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=8971s)]*
 
 > <sup>[1](/bible/sirach/38#v1)</sup> Honour a physician with the honour due unto him for the uses which ye may have of him: for the Lord hath created him.
 >
@@ -340,7 +342,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - And he that is wise will not abhor them: you're not going to hate them. Didn't the white man say, to hell with all these medicine that came from the earth, we going to make our pharmaceutical and petroleum, and we going to condemn anyone that use the medicine from the earth? That's how this whole medical system is set up, that a lot of you brothers and sisters trust in. You trust in the white man's system. But it's okay, cuz the white man did a job on us and then he destroyed all our doctors that really knew how to do these things, so we had no other choice but to depend on him. So you get a headache right now, you like, damn man, I got to go take a Tylenol. They ask me, yo, Deacon, should I take a Tylenol? Man, go take a damn Tylenol. But just know that the Tylenol affect your kidney. Keep taking it all the time, it's a chemical, it will affect your kidney. And guess what? You got a headache because something else is wrong with you. That's why your head hurting.
 - Was not the water made sweet with wood, that the virtue thereof might be known?
 
-**[Ecclesiasticus 37:27-31](/bible/sirach/37#v27)**  *[2:33:45]*
+**[Ecclesiasticus 37:27-31](/bible/sirach/37#v27)**  *[[2:33:45](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9225s)]*
 
 > <sup>[27](/bible/sirach/37#v27)</sup> My son, prove thy soul in thy life, and see what is evil for it, and give not that unto it.
 >
@@ -361,19 +363,19 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 - By surfeiting have many perished: by excess, many people perish. You eat too much sweets, you eat too much meat, now you sick and you died. So the Lord tell us how to deal with even food; he says not to have it in excess.
 - But he that taketh heed prolongeth his life: you're going to live longer. You're not going to die from colon cancer, you're not going to get diabetes by eating too much sugar. You're going to prolong your life if you take heed. Back then our forefathers understood these things, and we live long and we live healthy. Too much of nothing is good for you.
 
-**[Proverbs 25:27](/bible/proverbs/25#v27)**  *[2:33:45]*
+**[Proverbs 25:27](/bible/proverbs/25#v27)**  *[[2:33:45](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9225s)]*
 
 > <sup>[27](/bible/proverbs/25#v27)</sup> It is not good to eat much honey: so for men to search their own glory is not glory.
 
 - It is not good to eat much honey. So it ain't good to eat too much honey, too much sugar. That's what God says, brothers and sisters. Too much sugar is no good for you; too much honey is no good for you. It's okay to have a little cheat days, but to do it all the time, you're going to get sick.
 
-**[Ecclesiasticus 31:19](/bible/sirach/31#v19)**  *[2:38:18]*
+**[Ecclesiasticus 31:19](/bible/sirach/31#v19)**  *[[2:38:18](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9498s)]*
 
 > <sup>[19](/bible/sirach/31#v19)</sup> A very little is sufficient for a man well nurtured, and he fetcheth not his wind short upon his bed.
 
 - A very little is sufficient for a man well nurtured, and he fetcheth not his wind short upon his bed. You ain't going to be farting all the time on the bed. You brothers on the bed lying up next to your wife, you busting, eating a bunch. The worst is if a sister fart around you. Yo brothers, there is some commandments that cannot never be broken. I hope you sisters understand that there's a commandment that could never be broken: don't ever fart around your husband. That's an eternal law that could never be broken. You are a woman; you supposed to be roses and all of that stuff and smelling good.
 
-**[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[2:38:18]*
+**[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[2:38:18](https://www.youtube.com/watch?v=hEWhwtZEqxk&t=9498s)]*
 
 > <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 >
@@ -401,4 +403,4 @@ Bishop Yawasop's class follows this one.
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=hEWhwtZEqxk)
