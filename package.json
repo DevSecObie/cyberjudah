@@ -7,7 +7,7 @@
   "scripts": {
     "corpus:build": "python3 scripts/corpus/build.py",
     "corpus:test": "python3 -m unittest discover -s scripts/corpus -p 'test_*.py'",
-    "notes:fix": "node scripts/link-timestamps.mjs && node scripts/tag-notes.mjs && node scripts/index-scriptures.mjs",
+    "notes:fix": "node scripts/fix-names.mjs && node scripts/link-timestamps.mjs && node scripts/tag-notes.mjs && node scripts/index-scriptures.mjs",
     "notes:lint": "python3 scripts/notes/lint.py",
     "check": "node engine/check.mjs",
     "build": "node engine/build.mjs --out dist",

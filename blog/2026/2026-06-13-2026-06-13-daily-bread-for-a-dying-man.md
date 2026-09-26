@@ -602,7 +602,7 @@ Definitions and readings shown in class: didactic learning versus hands on appli
 
 Video played: a martial arts student stands in the same stance and repeats the same block for months until the day a surprise punch comes and the block is instant. You have to get to the point where you truly believe that if you do not consume this book and learn to pray, you are going to die.
 
-The evening class with Bishop Nathaniel follows.
+The evening class with Bishop Nathanyel follows.
 
 ---
 

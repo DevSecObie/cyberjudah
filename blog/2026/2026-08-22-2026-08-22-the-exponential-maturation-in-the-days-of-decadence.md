@@ -29,7 +29,7 @@ All praise to the Most High. First of all, I am glad to be back in IUIC Connecti
 
 Yeah, you all can give me some bombs today. I ain't going to starve you all on the bombs. Let you all bring the bombs up.
 
-- Well, this is somewhat of a distillation of what we discuss among men, because we are leaders of the nation of Israel. We are the visionaries — Bishop Nathaniel, myself, Bishop Kana, the deacons, the captains. We come together with the war mentality so that we can use the Bible to bring forth God's kingdom, and that is what our job is. So when we have our meetings, so to speak, we talk about those kinds of things. Just like Esau and the other countries, they have their war rooms and so forth, and we do the same. Okay? Because the Most High is a man of war. So we are about that. And that is all I will say about that, because that is our business, and we will discuss those things among ourselves, on how we are going to make it through into the kingdom.
+- Well, this is somewhat of a distillation of what we discuss among men, because we are leaders of the nation of Israel. We are the visionaries — Bishop Nathanyel, myself, Bishop Kani, the deacons, the captains. We come together with the war mentality so that we can use the Bible to bring forth God's kingdom, and that is what our job is. So when we have our meetings, so to speak, we talk about those kinds of things. Just like Esau and the other countries, they have their war rooms and so forth, and we do the same. Okay? Because the Most High is a man of war. So we are about that. And that is all I will say about that, because that is our business, and we will discuss those things among ourselves, on how we are going to make it through into the kingdom.
 
 - I will say, in addition to that, everything will be done the right way in righteousness, because I am going to go over that today. We are not going to do anything that will shame the gospel, that will shame the ministry.
 
@@ -795,7 +795,7 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 
 So with that, brothers and sisters, twelve tribes. Twelve tribes. Twelve tribes.
 
-And with that, we say shalom. Stay tuned for Bishop Nathaniel coming up next.
+And with that, we say shalom. Stay tuned for Bishop Nathanyel coming up next.
 
 ---
 

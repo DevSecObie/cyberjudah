@@ -19,7 +19,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon"]
 
 Thumbnail video: "Hast thou considered my servant Job?"
 
-Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary: we are going to take a look, through the prophet Job, at today's class. America is in the Bible and is described in several ways. Bishop Yahwasap went over Revelation 17, so we are not going to touch the whole chapter, but we did want to hit Revelation 18:1-4, because this is one way that you know Babylon is America and the children of Israel are here. The opening prayer asked the Most High to look upon America in their pride as they celebrate their 250th year, to deliver his people from the four corners of the earth, and to bring us to righteousness, love, and unity.
+Well, this is Babylon's 250th anniversary. Job sees America's 250th anniversary: we are going to take a look, through the prophet Job, at today's class. America is in the Bible and is described in several ways. Bishop Yawasop went over Revelation 17, so we are not going to touch the whole chapter, but we did want to hit Revelation 18:1-4, because this is one way that you know Babylon is America and the children of Israel are here. The opening prayer asked the Most High to look upon America in their pride as they celebrate their 250th year, to deliver his people from the four corners of the earth, and to bring us to righteousness, love, and unity.
 
 ## Scriptures Opened
 

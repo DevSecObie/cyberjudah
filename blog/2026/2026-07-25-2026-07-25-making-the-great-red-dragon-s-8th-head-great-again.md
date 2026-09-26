@@ -19,7 +19,7 @@ tags: ["IUIC in the ClassRoom", "media", "reparations"]
 
 ## Introduction
 
-Today's lesson, the topic is making the great red dragon's eighth head great again. Now of course, we're not trying to make it great again; y'all know better than that. This is what this country is all about. This country is about bringing it back, and we need to be mindful of that comeback. Shout out to the bishops: Bishop Nathaniel, Bishop Kana, who I am honored to have with me, Deacon Yosua; I got the captains, Captain Noah, Captain Zakar.
+Today's lesson, the topic is making the great red dragon's eighth head great again. Now of course, we're not trying to make it great again; y'all know better than that. This is what this country is all about. This country is about bringing it back, and we need to be mindful of that comeback. Shout out to the bishops: Bishop Nathanyel, Bishop Kani, who I am honored to have with me, Deacon Yosua; I got the captains, Captain Noah, Captain Zakar.
 
 When I said making the great red dragon, cuz we know that this beast called America is that eighth beast that rode on the back, so to speak, of the seven heads that carried her. So this eighth beast is America, and the runners of America, presidents, governors, and the people that are set up to sustain this, is absolutely duty bound in their spirit to make sure that this lasts forever, meaning at our detriment, because this place would not be anything if it were not for slavery. The whole world economy is based on our destruction, is based on us being pillaged, exploited, robbed, raped, thoroughly robbed, hung; you name it, it was done to us. Everything that God had given us for the benefit of us, they have taken it and used it for their benefit, meanwhile at the same time kept us at a deficit to make sure that we would never rise to even recognize what our true potential are. As they said in the documentary with the Native American Indians, The Canary Effect: kill the Indian and save the man. In other words, kill his real spirit, but save the body, save the sweat equity. That's what's been done to the twelve tribes of Israel. We're basically a shell of a people; we are the dry bones in the valley. Lost, destroyed, no sense of unity, nothing.
 
@@ -306,7 +306,7 @@ Definition read in class: the age of consent is the age at which a person is con
 
 ## In Closing
 
-Shoot, brothers and sisters. My class is all over the place, but I hope y'all was able to get something out of this. Stay tuned for Bishop Nathaniel coming up next. All praise to the Lord.
+Shoot, brothers and sisters. My class is all over the place, but I hope y'all was able to get something out of this. Stay tuned for Bishop Nathanyel coming up next. All praise to the Lord.
 
 ## Announcements & References
 
@@ -326,7 +326,7 @@ Media referenced in class:
 - Unwritten (radio song telling people to release their inhibitions)
 - Previous classes referenced: 250 years of celebration of our 400 years of sweat equity; the celebration of our complete demise; a game of fools without the rules
 
-Bishop Nathaniel's class follows this one.
+Bishop Nathanyel's class follows this one.
 
 ---
 

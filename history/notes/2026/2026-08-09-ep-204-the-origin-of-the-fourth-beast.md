@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 ## Introduction
 
-*[[6:13](https://www.youtube.com/watch?v=bAVa6xHECE0&t=373s)]* Hey, I haven't done the show in a minute, man. Feels different. All praises. Shout out to the leadership traveling abroad. All praise to the Most High. Shout out to all the men, safe travels. Also, shout out to Deacon Asaf's class yesterday as well, and Deacon Malachi's, the captains, Malachi and Deacon Asaf's class as well. All praise to the Most High.
+*[[6:13](https://www.youtube.com/watch?v=bAVa6xHECE0&t=373s)]* Hey, I haven't done the show in a minute, man. Feels different. All praises. Shout out to the leadership traveling abroad. All praise to the Most High. Shout out to all the men, safe travels. Also, shout out to Deacon Asaph's class yesterday as well, and Deacon Malachi's, the captains, Malachi and Deacon Asaph's class as well. All praise to the Most High.
 
 So let's get into it. Remember, Deacon, what he's going to next is the fourth beast, which is Rome. Let's get that real quick, in Daniel 7, the fourth beast. Hey, shout out, we got a reader. Praise to the Most High.
 

@@ -27,7 +27,7 @@ Men of Israel, sons of God. Patient saints, sons of God. Hand salute. Salute dow
 
 All praise to the Most High. Happy Sabbath. Happy new moon, Israel. All praises to the Father for this day.
 
-The Most High has got my brothers with me. I have got Captain Yan, straight from headquarters. And to my left I have got Captain Yamagan. So I do not know if it is southern kingdom and northern kingdom, or southern kingdom and southern kingdom. It depends.
+The Most High has got my brothers with me. I have got Captain Yahn, straight from headquarters. And to my left I have got Captain Yamagan. So I do not know if it is southern kingdom and northern kingdom, or southern kingdom and southern kingdom. It depends.
 
 **Today's topic is Abya Yala under fire.**
 

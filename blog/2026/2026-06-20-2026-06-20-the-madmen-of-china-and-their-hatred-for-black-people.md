@@ -508,7 +508,7 @@ Nobody gets away with what they did to God's chosen people. Moab and Ammon, the 
 
 Field reports played:
 
-- IUIC attended the march and rally for Carmelo Anthony after the jury sentenced him to 35 years, reading Ecclesiastes 4:1 over the oppression of our people in the courts. Bishop Kenny to the family: we understand this is a painful time; we are not going to find justice in America, because they frame the law by mischief. We get justice when we repent, keep the commandments, and return to the laws of God as the Israelites.
+- IUIC attended the march and rally for Carmelo Anthony after the jury sentenced him to 35 years, reading Ecclesiastes 4:1 over the oppression of our people in the courts. Bishop Kani to the family: we understand this is a painful time; we are not going to find justice in America, because they frame the law by mischief. We get justice when we repent, keep the commandments, and return to the laws of God as the Israelites.
 - IUIC Philly invaded the Odunde festival, casting down the idolatry of the Yoruba fertility goddess and preaching the gospel; many came to the table with questions and were excited to learn their true heritage.
 - The prophets of the Northeast, hosted by IUIC Rochester, brought the word of God to the Juneteenth celebration in Buffalo, statistically the second largest Juneteenth festival in America; thousands of flyers were distributed and the city was extremely receptive.
 - IUIC Austin launched the first Taking Back the Community (TBTC) event in Texas, returning in full force to a neighborhood that had threatened the camp, with missing persons outreach, the Hope and Healing community cleanup, and Show Thyself a Man; one man gave up vaping on the spot and asked God to keep him for his wife and family.

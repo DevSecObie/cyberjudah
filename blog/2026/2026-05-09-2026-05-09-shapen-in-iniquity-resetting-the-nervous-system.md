@@ -17,9 +17,9 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "mental-health", "prayer", "t
 
 ## Introduction
 
-Sabbath class from Gastonia, in the Carolinas, taught by Captain Galayah, with Bishop Yahwasap in the building. Opening prayer: pour out your spirit, Father, and let thy words be in his mouth, to heal the nation quickly and speedily; gather the elect and the twelve tribes.
+Sabbath class from Gastonia, in the Carolinas, taught by Captain Galayah, with Bishop Yawasop in the building. Opening prayer: pour out your spirit, Father, and let thy words be in his mouth, to heal the nation quickly and speedily; gather the elect and the twelve tribes.
 
-Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last year, almost two years now, Bishop Yahwasap and the captains here in the Carolinas have been having a lot of discussions about psychology and the mind, and how we have to heal our people, not only from a physical standpoint but from a mental standpoint. The number one health crisis in the United States of America and throughout the world right now is mental health, and every generation our people are declining. The Most High has found it fit to give us the truth of the scriptures; now it is our job to go into the Bible, and also into psychology, and help heal our people.
+Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last year, almost two years now, Bishop Yawasop and the captains here in the Carolinas have been having a lot of discussions about psychology and the mind, and how we have to heal our people, not only from a physical standpoint but from a mental standpoint. The number one health crisis in the United States of America and throughout the world right now is mental health, and every generation our people are declining. The Most High has found it fit to give us the truth of the scriptures; now it is our job to go into the Bible, and also into psychology, and help heal our people.
 
 ## Scriptures Opened
 
@@ -91,7 +91,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[31](/bible/2-esdras/4#v31)</sup> Ponder now by thyself, how great fruit of wickedness the grain of evil seed hath brought forth.
 
 - The grain of evil seed hath been sown in the heart of Adam from the beginning, and how much ungodliness hath it brought up unto this time, and how much shall it yet bring forth until the time of threshing come. The time of threshing is when Christ returns; until then we are going to be surrounded by evil.
-- That is why you hear Bishop Yahwasap and the elders say we are not trying to build a metropolis, but we are building a nation within a nation. Christ is the one who is going to correct all the wickedness and give us immortality; but while we are here, we have a job to do. It is our job to heal ourselves so that we can heal our people.
+- That is why you hear Bishop Yawasop and the elders say we are not trying to build a metropolis, but we are building a nation within a nation. Christ is the one who is going to correct all the wickedness and give us immortality; but while we are here, we have a job to do. It is our job to heal ourselves so that we can heal our people.
 
 **[2 Esdras 7:48](/bible/2-esdras/7#v48)**  *[[27:05](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1625s)]*
 
@@ -632,7 +632,7 @@ Books and studies referenced in class:
 - A counselor in the body sent in the adverse childhood experience questionnaire used with clients in the field.
 - Series referenced as an illustration of intergenerational trauma: Them.
 
-Shout out to the ad team and the media department for the thumbnail video, and to Bishop Yahwasap and the captains, officers, and soldiers in the building in Gastonia.
+Shout out to the ad team and the media department for the thumbnail video, and to Bishop Yawasop and the captains, officers, and soldiers in the building in Gastonia.
 
 ---
 

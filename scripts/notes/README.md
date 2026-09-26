@@ -98,6 +98,28 @@ the last pass every `strong` case is already filled in, so the remainder need th
 `teachers.py` never overwrites a name you have set unless you ask it to, and `tag-notes.mjs`
 leaves an existing `teacher` alone unless run with `--reset`.
 
+### Spelling the names
+
+The captions never spell a name the same way twice: Bishop Kani has arrived as Kai, Kana,
+Kanai, Kennai, Kenny and thirty other ways. `data/names.tsv` is the glossary that settles it,
+one person per row:
+
+```
+name            variants                                     note
+Bishop Kani     Bishop Kai;Bishop Kana;Bishop Kanai;...      the captions never spell him the same way twice
+Captain Yahn    Captain Yan;Captain Yawn                     Officer Yan is someone else; not listed
+```
+
+`name` is the spelling to use, with its title. `variants` is every wrong form seen, `;`
+separated, each with its title too, so an ordinary word is never caught ("Bishop keeps" is
+not a name). `npm run notes:fix` runs `scripts/fix-names.mjs` first and rewrites every
+variant, whole word and any case, in the body and the frontmatter alike, so the `teacher`
+field and the browse chips get the same spelling; `lint.py` fails a note that still carries
+one. Transcripts are never touched; they are the evidence of what was heard.
+
+When a new mis-spelling turns up, add it to the row; when a new person turns up, add a row.
+Do not add a variant that could be another person (Officer Yan is not Captain Yahn).
+
 ## Our Hidden History episodes
 
 Our Hidden History Radio (`history/`) is the third feed and follows everything above, with

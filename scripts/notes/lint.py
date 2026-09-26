@@ -51,6 +51,28 @@ def topics():
 TOPICS = topics()
 
 
+def names():
+    """data/names.tsv: the spelling to use for each leader and every mis-spelling seen.
+    `npm run notes:fix` rewrites the variants; a note that still carries one was not fixed."""
+    p = f"{ROOT}/data/names.tsv"
+    if not os.path.exists(p):
+        return []
+    rows = [l.split("\t") for l in open(p, encoding="utf-8").read().split("\n") if l.strip()]
+    head, rows = rows[0], rows[1:]
+    i_name, i_var = head.index("name"), head.index("variants")
+    out = []
+    for r in rows:
+        name = r[i_name].strip() if len(r) > i_name else ""
+        variants = [v.strip() for v in (r[i_var] if len(r) > i_var else "").split(";") if v.strip()]
+        if name and variants:
+            alt = "|".join(re.escape(v).replace("\\ ", r"\s+") for v in sorted(variants, key=len, reverse=True))
+            out.append((name, re.compile(r"\b(?:%s)\b" % alt, re.I)))
+    return out
+
+
+NAMES = names()
+
+
 def lint(path):
     """Returns (errors, warnings) as lists of strings."""
     E, W = [], []
@@ -170,6 +192,12 @@ def lint(path):
         for target in re.findall(r"\]\((/[^)]*)\)", line):
             if slug and target.rstrip("/").endswith(slug):
                 E.append(f"{rel}: nav line links to this same page ({target})")
+
+    # ---- names ----
+    for name, pat in NAMES:
+        hits = sorted({m.group(0) for m in pat.finditer(text)})
+        if hits:
+            E.append(f"{rel}: {', '.join(hits)} should be spelled {name} -- run `npm run notes:fix`")
 
     # ---- scripture links ----
     for bslug, ch in re.findall(r"\]\(/bible/([a-z0-9-]+)/(\d+)", body):

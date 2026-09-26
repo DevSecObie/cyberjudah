@@ -200,7 +200,7 @@ Later in the class, the slides on what respect actually is:
 
 - Cleave: to adhere closely, stick, cling, usually followed by to; to remain faithful. So it means very closely joined, and that it remains firmly attached.
 
-- So cleaving means marriage basically creates a new household. That is what it is to cleave. That is what we get on you about: you should not be living in mama's house or daddy's house if you are married. You should have your own roof. I am not talking about something catastrophic happening and you staying with somebody. But cleaving extends out to the branching off of a new household. That is why Bishop Nathaniel always talks about a strong marriage being the foundation for a strong nation — a strong marriage that is run by biblical principles, both sides playing it.
+- So cleaving means marriage basically creates a new household. That is what it is to cleave. That is what we get on you about: you should not be living in mama's house or daddy's house if you are married. You should have your own roof. I am not talking about something catastrophic happening and you staying with somebody. But cleaving extends out to the branching off of a new household. That is why Bishop Nathanyel always talks about a strong marriage being the foundation for a strong nation — a strong marriage that is run by biblical principles, both sides playing it.
 
 - So cleaving means your allegiance shifts. As much as you love your dad, as much as you love your mom, you are now under the authority of your husband. It goes from your family unit and everything being about that, to now it is about this new household. Because the other thing that winds up happening is there is an over-attachment to the allegiance that is still with the mom and still with the dad, and it can happen on both the husband and the wife side.
 
@@ -284,7 +284,7 @@ Later in the class, the slides on what respect actually is:
 
 - Because if that was the case with God, then every commandment could be excused with enough context. And that is what Christianity does. That is what wound up happening as we kept the sacrificial law — everything wound up being excused with enough context.
 
-- It is another saying that Bishop Nathaniel has when it comes to judgments: if you take the feelings out of it and you take the emotions out of it and you go by what the scripture says, then it all makes sense. I know it is easier said than done, especially when it is people close to you. A lot of times we will do judgment, we want to understand why somebody did something, and then they still get judged, because that is order, that is the way God said things have got to be. But what understanding does is open the door of compassion for us to try to gain you back.
+- It is another saying that Bishop Nathanyel has when it comes to judgments: if you take the feelings out of it and you take the emotions out of it and you go by what the scripture says, then it all makes sense. I know it is easier said than done, especially when it is people close to you. A lot of times we will do judgment, we want to understand why somebody did something, and then they still get judged, because that is order, that is the way God said things have got to be. But what understanding does is open the door of compassion for us to try to gain you back.
 
 **[Proverbs 14:1](/bible/proverbs/14#v1)**  *[[1:25:01](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=5101s)]*
 

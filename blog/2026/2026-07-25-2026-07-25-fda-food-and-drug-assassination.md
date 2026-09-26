@@ -385,7 +385,7 @@ Reading in class: petroleum and medication. "Petroleum works with medication as 
 
 ## In Closing
 
-Shalom, my Christ bless. Bishop Yahawashi coming up next. Y'all stay tuned.
+Shalom, my Christ bless. Bishop Yawasop coming up next. Y'all stay tuned.
 
 ## Announcements & References
 
@@ -397,7 +397,7 @@ Sources referenced in class:
 - Dr. Peter McCullough's protocol (spike protein inhibition)
 - Dr. Sebi (Alfredo Bowman), the African bio-mineral balance
 
-Bishop Yahawashi's class follows this one.
+Bishop Yawasop's class follows this one.
 
 ---
 

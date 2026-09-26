@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance"]
 
 ## Introduction
 
-*[[0:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=22s)]* Shalom and welcome to another edition of The Truth Shall Make You Free. I'm your host Elder Nathaniel on my right. Deacon Asaph. Today's topic, we're going to go over the truth of Thanksgiving. All right, but before we do so, let's open up with John chapter 8 and verse.
+*[[0:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=22s)]* Shalom and welcome to another edition of The Truth Shall Make You Free. I'm your host Elder Nathanyel on my right. Deacon Asaph. Today's topic, we're going to go over the truth of Thanksgiving. All right, but before we do so, let's open up with John chapter 8 and verse.
 
 - 32. John chapter 8 verse 32.
 

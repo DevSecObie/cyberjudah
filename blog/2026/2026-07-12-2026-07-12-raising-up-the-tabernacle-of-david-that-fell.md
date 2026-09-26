@@ -691,7 +691,7 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 - Rise, Peter; kill, and eat. But Peter said, Not so, Lord. And the voice spake unto him again the second time, What God hath cleansed, that call not thou common. So what does God cleanse? Does he cleanse Esau? I never read that one.
 - Verse 28 is where he breaks down the dream: God hath shewed me that I should not call any man common or unclean. Any man. It's not talking about roaches or ants or eating unclean pig. The dream was about man. What man? The Israelites being cleansed; the northern kingdom being cleansed.
 - Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons. Now this is where Christians get you: they'll read verse 34 and 35. But the next verse explains Cornelius: the word which God sent unto the children of Israel. So Acts 10 is telling you that this was for the children of Israel. But because of supersessionism, replacement theology, we go, oh, God accepts everybody; this Cornelius was a white man, an Italian man, a Roman. That's replacement theology.
-- If y'all wasn't in Bishop Kanah's class, it's called Acts 10 Reloaded: Call No Man Common, maybe two months ago. He goes really slow on it and it's excellent.
+- If y'all wasn't in Bishop Kani's class, it's called Acts 10 Reloaded: Call No Man Common, maybe two months ago. He goes really slow on it and it's excellent.
 
   Precepts:
   - **[Acts 22:12](/bible/acts/22#v12)**
@@ -932,7 +932,7 @@ Books and media referenced in class:
 - The Jewish Mystique, by Ernest van den Haag (Esau's own record of what was taken from us; read at length above)
 - The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History, by Allen H. Godbey, PhD (1930, Duke University; listed at $7,000 on AbeBooks; read at length above)
 - The Complete Works of Flavius Josephus (more detail on the prophets showing Cyrus what he must do)
-- Bishop Kanah's class Acts 10 Reloaded: Call No Man Common (about two months ago; excellent breakdown of the Acts 10 vision)
+- Bishop Kani's class Acts 10 Reloaded: Call No Man Common (about two months ago; excellent breakdown of the Acts 10 vision)
 - Movies referenced: Othello (Laurence Fishburne), American History X, Game of Thrones (the wildlings as the Khazars), Leap of Faith was not this week; the Zondervan Bible dictionary on the word Gentiles
 
 Field reports played:

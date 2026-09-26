@@ -979,7 +979,7 @@ With that, brothers and sisters: twelve tribes. The class was much more intricat
 
 ## Announcements & References
 
-- Bishop Nathaniel appeared on the Soft White Underbelly interview, bringing the unfiltered truth: the blacks, Latinos, and Native American Indians are part of the twelve tribes of Israel spoken of in the Holy Bible. Share and repost so more people can hear the word.
+- Bishop Nathanyel appeared on the Soft White Underbelly interview, bringing the unfiltered truth: the blacks, Latinos, and Native American Indians are part of the twelve tribes of Israel spoken of in the Holy Bible. Share and repost so more people can hear the word.
 - The prophets blitzed Black Bike Week in Myrtle Beach, South Carolina, bringing the gospel of repentance where our people had gathered for entertainment.
 - IUIC Detroit completed their annual Cinco de Mayo blitz, led by Captain Zephaniah, Captain Joel, and Captain Yamagan with men from Detroit, New York, Ohio, and other regions, reaching both northern and southern kingdom and bringing blacks and Latinos together with the word of God.
 - IUIC Austin fire mission: 365 days of flyers until fire falls; the brothers are committed to hitting the streets every day for a year.

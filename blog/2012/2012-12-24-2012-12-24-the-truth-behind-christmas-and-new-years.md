@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts"]
 
 ## Introduction
 
-*[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]* Shalom and welcome to another edition of the truth shall make you free I'm your host Elder Nathaniel and to my right Deacon ASAP today's topic is the truth of Christmas and New Years but before we open up let's go to John 8:32 John chapter 8 verse 32.
+*[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]* Shalom and welcome to another edition of the truth shall make you free I'm your host Elder Nathanyel and to my right Deacon ASAP today's topic is the truth of Christmas and New Years but before we open up let's go to John 8:32 John chapter 8 verse 32.
 
 **[John 8:32](/bible/john/8#v32)**  *[[0:36](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=36s)]*
 

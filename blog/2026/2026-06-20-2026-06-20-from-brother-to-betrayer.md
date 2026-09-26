@@ -642,7 +642,7 @@ Field reports played:
 - IUIC New York headquarters taught at the Puerto Rican Festival in the Bronx, their second year at the event; a brother took off his cross as a fruit of repentance. Also the 152nd Street Cultural Festival in the Bronx, with literature and the Holy Bible.
 - IUIC New Jersey completed their first community cleanup of the year in Newark: nine blocks, applying Judith 8:24, letting their light shine one block at a time.
 - IUIC St. Louis annual park day: family fun and nation building.
-- Pentecost 2026 in Austin with Bishop Kenai: the feast of weeks of Deuteronomy 16:16, a day of deliverance. We have days of deliverance, yet our people would rather celebrate days of oppression.
+- Pentecost 2026 in Austin with Bishop Kani: the feast of weeks of Deuteronomy 16:16, a day of deliverance. We have days of deliverance, yet our people would rather celebrate days of oppression.
 - IUIC Sacramento celebrated the marriage of the house of Officer Eliakim: marriage is honorable in all.
 
 Music and media:

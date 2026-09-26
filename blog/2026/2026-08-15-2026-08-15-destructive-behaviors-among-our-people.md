@@ -19,11 +19,11 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "mental-health", "mercy", "pr
 
 Shalom Israel. It is good to be back. We just came back from the men's conference.
 
-Today I am going to touch on a touchy subject. It is the type of subject that a lot of us want to ignore. I know Bishop Yawasap talks about this a lot. It is nothing you have not heard before, it is not a new subject, but we have to continue to talk about it, because coming from the men's conference there are a lot of us still struggling with this. There are a lot of us still behaving a certain way we are not supposed to behave.
+Today I am going to touch on a touchy subject. It is the type of subject that a lot of us want to ignore. I know Bishop Yawasop talks about this a lot. It is nothing you have not heard before, it is not a new subject, but we have to continue to talk about it, because coming from the men's conference there are a lot of us still struggling with this. There are a lot of us still behaving a certain way we are not supposed to behave.
 
 The title is Destructive Behaviors Among Our People. I know the first thing that comes to your mind, because you see the picture, is that I am talking about our brothers and sisters in the world. No. I do not want to talk about the blood in the world. I want to focus on the truth. What about destructive behaviors among the Israelites? Yes, we do have that. We do have that. And a lot of the time we do not talk about it.
 
-This title is actually one of Bishop Nathaniel's titles for the deacons and the captains to go over at the men's conference, but I do not remember if any deacon or any captain covered this subject. So it does not matter, I am going to cover it, because not everybody heard it. Bishop Yawasap covers a lot on psychological trauma. Deacon Joshua also covers a lot of that. Those are things that we want to sweep under the rug. Those are things we do not really want to talk about, especially in the Israelite community. But this is going on among us.
+This title is actually one of Bishop Nathanyel's titles for the deacons and the captains to go over at the men's conference, but I do not remember if any deacon or any captain covered this subject. So it does not matter, I am going to cover it, because not everybody heard it. Bishop Yawasop covers a lot on psychological trauma. Deacon Joshua also covers a lot of that. Those are things that we want to sweep under the rug. Those are things we do not really want to talk about, especially in the Israelite community. But this is going on among us.
 
 ## In The News
 

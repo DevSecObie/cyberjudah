@@ -101,7 +101,7 @@ Man, give the Lord a hand for that. Give the Lord a hand, man. That was fire. Sa
 
 - And we've been trusting in man a very long time. We trust in this man's school system. We trust in his religious system. We trust in his political system. And where is it? Where has it gotten us collectively, y'all? At the bottom of society. No matter which way you turn, the Negro is always on the bottom. No matter what avenue you go. You want to go into sports, you're at the bottom there. You want to go into politics, you at the bottom there. You want to go into Hollywood, wherever you turn, collectively, listen to what I'm saying, collectively, we remain on the bottom. Read it again.
 
-- You make flesh your arm. Meaning, you're going to follow whatever man that you think is going to lead you somewhere better than where you're currently at. Now, watch this. Proverbs 13 and 12. This is a Bishop Yawasap favorite right here. Shout out to Bishop Yawasap.
+- You make flesh your arm. Meaning, you're going to follow whatever man that you think is going to lead you somewhere better than where you're currently at. Now, watch this. Proverbs 13 and 12. This is a Bishop Yawasop favorite right here. Shout out to Bishop Yawasop.
 
 **[Proverbs 13:12](/bible/proverbs/13#v12)**  *[[16:32](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=992s)]*
 
@@ -363,7 +363,7 @@ Man, give the Lord a hand for that. Give the Lord a hand, man. That was fire. Sa
 
 - So a good leader must have what? Number one, physical features. Let's stop right there. Let me look around. Let me look around. Who's in the red? I seen some red brothers here today since I've been here. Some brothers been red a long time. Listen, y'all got to go to war with that spirit. Maybe you like comfort food. Maybe it could be low self-esteem, things of that nature. But you must have a physical appearance that is able to influence also, because if somebody's overweight, I'm going to be nice, if somebody's in the red and you trying to lead me somewhere, you trying to lead everybody else that is in the green, but I'm in the red up here at the table, is the people in the green really going to take me serious, sisters? No, they're not. They're not going to take you serious. They're going to listen to you, yeah, but they're going to look at you like, this guy is full of ish. He can't even manage himself. He can't lead himself away from the table, but he's going to lead me. No, it don't work like that.
 
-- I'll give you another example. Shout out to Bishop Nathanyel. Bishop once, when he had his hair pulled back, I was with him. Me, Bishop Kai, Bishop Yawasap was there, a bunch of brothers. We was in Bahamas. We met with the prime minister of Bahamas, I think it was. And that's when he had the hair pulled back, and he's talking to the prime minister, and the hair went whoop. He went right here, and then he did one of these, and the prime minister went for Bishop. He said, "Let me talk to this guy over here." I'm like, "Damn." But that's an example. And guess what Bishop did? He changed it and he cut it. Because guess what? We are what? Ambassadors of Christ. Okay. So we got to play that part. So the physical features got to be right. What else?
+- I'll give you another example. Shout out to Bishop Nathanyel. Bishop once, when he had his hair pulled back, I was with him. Me, Bishop Kani, Bishop Yawasop was there, a bunch of brothers. We was in Bahamas. We met with the prime minister of Bahamas, I think it was. And that's when he had the hair pulled back, and he's talking to the prime minister, and the hair went whoop. He went right here, and then he did one of these, and the prime minister went for Bishop. He said, "Let me talk to this guy over here." I'm like, "Damn." But that's an example. And guess what Bishop did? He changed it and he cut it. Because guess what? We are what? Ambassadors of Christ. Okay. So we got to play that part. So the physical features got to be right. What else?
 
 - Number two, knowledge. You got to understand and know what you talking about in this word. If you don't, guess what? The people are going to see it and they're not going to follow you.
 
@@ -771,7 +771,7 @@ Man, give the Lord a hand for that. Give the Lord a hand, man. That was fire. Sa
 
 - And because David behaved himself wisely, and the Lord was with him. Boom. And the Lord was with him. Yo, that's my man right there. David is my man right there. I'm with David right there. Give the Lord a hand for that thing. So stop the emotion. The Lord ain't with you, brothers, when you're in your emotions, and you got all these thoughts in your minds, and it has to be said, and I have to let him know how I feel. Or shut up. Shut up. Damn.
 
-- Hey, watch this. I just thought about something. Second Esdras 10. Shout out to Bishop Kai. I remember this scripture he pulled. Second Esdras, is it 10:35, 10:15, something like that. Yes. Yes. Come on.
+- Hey, watch this. I just thought about something. Second Esdras 10. Shout out to Bishop Kani. I remember this scripture he pulled. Second Esdras, is it 10:35, 10:15, something like that. Yes. Yes. Come on.
 
 **[2 Esdras 10:15](/bible/2-esdras/10#v15)**  *[[1:58:07](https://www.youtube.com/watch?v=kVa8_cJOSDw&t=7087s)]*
 

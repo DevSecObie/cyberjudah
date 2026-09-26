@@ -2,7 +2,7 @@
 title: "FROM MILK TO MEAT: TRAIN ALL YOUR SENSES"
 slug: "2026/2026-09-19-from-milk-to-meat-train-all-your-senses"
 date: "2026-09-19"
-teacher: ""
+teacher: "Bishop Kani"
 description: "IUIC in the ClassRoom · 2026-09-19"
 tags: ["IUIC in the ClassRoom", "the-word", "wisdom"]
 ---

@@ -550,7 +550,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 ## In Closing
 
-12 tribes. Worldwide. 12 tribes. Worldwide. 12 tribes. Worldwide. Never give up. Never give up. Never give up. Never give in. Bishop Yahwasab is next. Shalom Israel. Love you. Happy Sabbath.
+12 tribes. Worldwide. 12 tribes. Worldwide. 12 tribes. Worldwide. Never give up. Never give up. Never give up. Never give in. Bishop Yawasop is next. Shalom Israel. Love you. Happy Sabbath.
 
 ## Announcements & References
 

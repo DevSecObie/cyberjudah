@@ -81,7 +81,7 @@ Officer Carmela on Mississippi — Patient Saints Radio.
 
 - So Carmela begins to speak, and he talks about something that I thought was very, very important to acknowledge, especially when we go to these quote unquote small towns, when we go to these less developed, if you will, these quote unquote backwater towns — but a lot of our people are there. Like Mississippi. That is like the highest count of black people. So you can imagine the repression, oppression, and all kinds of evils that are going on there, and how the people feel like they have no hope and they feel like they just have to live with it.
 
-- I remember when I went down there with Captain Galiah, and we went to the home of Medgar Evers, and we were talking about the different things that were going on down there, and he mentioned the area of Natchez. He was talking about how the people are so afraid that they live in total fear. We were talking about actually going to speak to some of the people. He said the people there are horrified. They are scared to death to even be approached by somebody who is seeking the welfare of our brothers in those areas.
+- I remember when I went down there with Captain Galayah, and we went to the home of Medgar Evers, and we were talking about the different things that were going on down there, and he mentioned the area of Natchez. He was talking about how the people are so afraid that they live in total fear. We were talking about actually going to speak to some of the people. He said the people there are horrified. They are scared to death to even be approached by somebody who is seeking the welfare of our brothers in those areas.
 
 - The reason why I say that is because I particularly admire when people go into the psychological levels of how our people feel, because when you are trying to reach a people, you have to deal with the trauma behind the face. You have to deal with the trauma behind the tough exterior.
 
@@ -93,7 +93,7 @@ Officer Carmela on Mississippi — Patient Saints Radio.
 >
 > — The oppression has beaten them into submission. The oppression really has subjugated those people to the point where it is like the daily cycle is just go to work, go home, and mind your business.
 >
-> — You know, Captain Galiah said something heavy. He said that the people are dilapidated. So when you riding through, you can see the state of the immediate area. A lot of the houses, everything look like it was built in the seventies. Nothing looks modern. With the exception of a football field. That looked like one of the most modern things in the area, a football field. But the homes, the stores, everything boarded up, busted windows bust out.
+> — You know, Captain Galayah said something heavy. He said that the people are dilapidated. So when you riding through, you can see the state of the immediate area. A lot of the houses, everything look like it was built in the seventies. Nothing looks modern. With the exception of a football field. That looked like one of the most modern things in the area, a football field. But the homes, the stores, everything boarded up, busted windows bust out.
 >
 > — It do not look like the nice areas. It look run down. Like, bro, I remember when I was driving, you go through some of these areas, you like, damn. I heard it was bad, but when you go to some of these places and you realise that people live there, you like, damn, bro, our people really been trodden down.
 >
@@ -119,7 +119,7 @@ Officer Carmela on Mississippi — Patient Saints Radio.
 
 - He said six people. He is not saying six like it was a big number. Out of all of the people that are down there feeling that cloud of oppression, only six people came out that were brave enough to come out.
 
-- Captain Galiah went beyond the physical structure. He said the people's spirits are dilapidated. This is some heavy stuff.
+- Captain Galayah went beyond the physical structure. He said the people's spirits are dilapidated. This is some heavy stuff.
 
 - You look and you say, this is how the people feel. You could tell the people feel boarded up and busted out. You hear this? That is how the people feel. You see this when you look into your people's eyes when you go to these areas. You can look into the windows of their soul, the eyes, and you can feel the oppression in their spirit.
 

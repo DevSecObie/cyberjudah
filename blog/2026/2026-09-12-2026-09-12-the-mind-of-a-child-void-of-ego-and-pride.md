@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "mental-health"
 
 ## Introduction
 
-All praise to the Most High. We are in this building. I have not been in New York in a minute. Shout out to Captain Yan, in the building — we have got so many captains, we are growing so much now, the rotation is like every five months. And a special shout out to Captain Hannah in town. All praises. It is good to be back in New York.
+All praise to the Most High. We are in this building. I have not been in New York in a minute. Shout out to Captain Yahn, in the building — we have got so many captains, we are growing so much now, the rotation is like every five months. And a special shout out to Captain Hananiah in town. All praises. It is good to be back in New York.
 
 I have had this topic on my mind for at least two, three weeks: the mind of a child, void of ego and pride. But while I am putting the topic together, I am watching the news and I see the Houthis dropping, took over Saudi Arabia, and all types of crazy stuff going on. So this class I have got to touch on that a little, and then I am going into the lesson, the mind of a child. I have got to touch on what is going on in Yemen and Saudi Arabia.
 

@@ -25,7 +25,7 @@ Men of Israel, sons of God, patient saints, sons of God, hand salute. Most High 
 
 All praises to the Most High God. Happy Sabbath, family. The Sabbath is truly a reviving and a rejuvenation of the spirit. If you do not see it that way, something is wrong with you. All praises to the Most High for another Sabbath day. All praise for the new moon.
 
-Shout out to Captain Zebadiah, excellent class. Northern Kingdom, it is time to wake up. Shout out to Captain Yan and Captain Yamagan as well. Excellent class, brothers.
+Shout out to Captain Zebadiah, excellent class. Northern Kingdom, it is time to wake up. Shout out to Captain Yahn and Captain Yamagan as well. Excellent class, brothers.
 
 **Today's title: the building blocks of bitterness.**
 

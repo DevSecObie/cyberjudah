@@ -264,7 +264,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 
 ## In Closing
 
-To be continued: this class picks up right from here, and the whole teaching will be put together in one video. They knew what they were coming here to do; the records prove it. The lands were promised, and at the end of days the children of Israel will go forth from where they now are and reign over the whole earth, as they once did. Twelve tribes. Happy Sabbath, and stay tuned for Bishop Nathaniel coming up next.
+To be continued: this class picks up right from here, and the whole teaching will be put together in one video. They knew what they were coming here to do; the records prove it. The lands were promised, and at the end of days the children of Israel will go forth from where they now are and reign over the whole earth, as they once did. Twelve tribes. Happy Sabbath, and stay tuned for Bishop Nathanyel coming up next.
 
 ## Announcements & References
 
