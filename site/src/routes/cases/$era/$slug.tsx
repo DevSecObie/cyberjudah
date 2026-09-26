@@ -9,7 +9,7 @@ import { pageHead } from "@/lib/head";
 import { TaughtSection } from "@/components/site/taught-list";
 import { passagesFromRefs } from "@/lib/teaching-refs";
 
-const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
+const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", deferred: "Sentence deferred", blessed: "Kept the law" };
 
 export const Route = createFileRoute("/cases/$era/$slug")({
   loader: async ({ params }) => {

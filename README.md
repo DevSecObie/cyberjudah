@@ -8,7 +8,8 @@ docs/study/         4 Chapters a Day notes, one file per chapter        (hand-wr
 docs/encyclopedia/  standing subjects                                    (hand-written)
 blog/               Sabbath class notes                                  (hand-written)
 captains/           15 Minutes w/ The Captains                           (hand-written)
-data/               the KJV text, the handbook of law, precepts, cases, cross references
+data/               the KJV text, the handbook of law, precepts, cross references; cases.json is
+                    generated from the Case Studies of the Bible book (scripts/cases-from-book.py)
 engine/             turns all of the above into one data set             (node engine/build.mjs)
 site/               the front end, a TanStack Start app on Cloudflare    (reads the data set)
 scripts/notes/      the editorial spec and helpers for writing a note

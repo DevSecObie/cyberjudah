@@ -13,7 +13,7 @@ export const Route = createFileRoute("/topics/$slug")({
   component: TopicPage,
 });
 
-const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", blessed: "Kept the law" };
+const VERDICT: Record<string, string> = { death: "Put to death", plague: "Plague", exile: "Exile", captivity: "Captivity", curse: "Cursed", restitution: "Restitution", spared: "Spared", reprieve: "Reprieve", temporal: "Temporal judgment", unrecorded: "Sentence not recorded", deferred: "Sentence deferred", blessed: "Kept the law" };
 
 function TopicPage() {
   const t = Route.useLoaderData();
