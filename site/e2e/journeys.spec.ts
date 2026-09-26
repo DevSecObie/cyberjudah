@@ -44,7 +44,7 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
   const groups: Record<string, string[]> = {
     Teaching: ["Sabbath Classes", "The Truth Shall Make You Free", "15 Min w/Captains", "Our Hidden History", "4 Chapters a Day"],
     Law: ["The Law", "Precepts", "Case Studies"],
-    Reference: ["Dictionary", "Concordance", "Encyclopedia", "Topics", "About"],
+    Reference: ["Glossary", "Concordance", "Encyclopedia", "Topics", "About"],
   };
   const inView = async (locator: ReturnType<typeof header.getByRole>) => {
     await expect(locator).toBeVisible();
