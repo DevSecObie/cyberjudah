@@ -1,7 +1,7 @@
 import { createServerFn } from '@tanstack/react-start';
 import { passageExcerpt } from './passage-excerpt';
 import { parseQuery, ftsExpr } from './search-query';
-import type { TeachingRef } from './teaching-refs';
+import type { PassageQuery, TeachingRef } from './teaching-refs';
 export type Passage = { title: string; matchedTitle: string; excerpt: string; feed: string; date: string; video: string; start: number; note: string; timing: 'caption' | 'passage' };
 export const searchTeachings = createServerFn({ method: 'GET' })
   .inputValidator((s: { q: string; feed?: string; page?: number }) => ({
@@ -61,5 +61,41 @@ export const taughtInChapter = createServerFn({ method: 'GET' })
       const result = await env.DB.prepare(taughtSql).bind(data.slug, data.chapter, JSON.stringify(data.verses)).all<TeachingRef & { total: number }>();
       const rows = result.results;
       return { rows, total: rows[0]?.total ?? 0, unavailable: false };
+    } catch { return { ...empty, unavailable: true }; }
+  });
+
+/**
+ * The recordings that taught the most of a set of passages (a precept's, a law's, a case's or
+ * an encyclopedia entry's scripture). A passage without verses matches its whole chapter.
+ */
+const passagesSql = `WITH q AS (
+  SELECT json_extract(value, '$.s') AS s, json_extract(value, '$.c') AS c, json_extract(value, '$.a') AS a, json_extract(value, '$.b') AS b FROM json_each(?1)
+), hits AS (
+  SELECT DISTINCT r.slug, r.chapter, r.first, r.last, r.video, r.start, r.timing, r.title, r.feed, r.date, r.note, r.heard
+  FROM q JOIN teaching_refs AS r ON r.slug = q.s AND r.chapter = q.c
+  WHERE q.a IS NULL OR (r.first <= q.b AND coalesce(r.last, r.first) >= q.a)
+), top AS (
+  SELECT video, count(DISTINCT slug || ' ' || chapter || ':' || first) AS n, max(coalesce(date, '')) AS d FROM hits GROUP BY video ORDER BY n DESC, d DESC, video LIMIT 20
+)
+SELECT h.*, (SELECT count(DISTINCT video) FROM hits) AS total
+FROM hits AS h JOIN top USING (video) ORDER BY top.n DESC, top.d DESC, h.video, h.start`;
+
+export const taughtForPassages = createServerFn({ method: 'GET' })
+  .inputValidator((s: { passages: PassageQuery[] }) => ({
+    passages: (Array.isArray(s.passages) ? s.passages : []).slice(0, 300).flatMap(p => {
+      const slug = String(p?.slug ?? ''), chapter = Math.floor(Number(p?.chapter));
+      if (!/^[a-z0-9-]{1,40}$/.test(slug) || !(chapter > 0 && chapter < 200)) return [];
+      const a = Math.floor(Number(p.first)), b = Math.floor(Number(p.last ?? p.first));
+      return [{ s: slug, c: chapter, a: a > 0 ? a : null, b: a > 0 ? Math.max(a, b > 0 ? b : a) : null }];
+    }),
+  }))
+  .handler(async ({ data }) => {
+    const empty = { rows: [] as TeachingRef[], total: 0, unavailable: false };
+    if (!data.passages.length) return empty;
+    try {
+      const { env } = await import('cloudflare:workers');
+      if (!env.DB) return { ...empty, unavailable: true };
+      const result = await env.DB.prepare(passagesSql).bind(JSON.stringify(data.passages)).all<TeachingRef & { total: number }>();
+      return { rows: result.results, total: result.results[0]?.total ?? 0, unavailable: false };
     } catch { return { ...empty, unavailable: true }; }
   });

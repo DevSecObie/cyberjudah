@@ -8,7 +8,8 @@ docs/study/         4 Chapters a Day notes, one file per chapter        (hand-wr
 docs/encyclopedia/  standing subjects                                    (hand-written)
 blog/               Sabbath class notes                                  (hand-written)
 captains/           15 Minutes w/ The Captains                           (hand-written)
-data/               the KJV text, the handbook of law, precepts, cases, cross references
+data/               the KJV text, the handbook of law, precepts, cross references; cases.json is
+                    generated from the Case Studies of the Bible book (scripts/cases-from-book.py)
 engine/             turns all of the above into one data set             (node engine/build.mjs)
 site/               the front end, a TanStack Start app on Cloudflare    (reads the data set)
 scripts/notes/      the editorial spec and helpers for writing a note
@@ -48,6 +49,24 @@ npm run corpus:backfill -- --report   # transcripts still missing an upload date
 
 The schema, normalization rules, quality flags and change log are in
 [scripts/corpus/SCHEMA.md](scripts/corpus/SCHEMA.md).
+
+## The glossary and drafted entries
+
+`data/glossary.json` holds the glossary: each term defined from the teachings and the KJV, with
+its scripture and the moments it is taught. The engine checks every reference and moment and
+publishes it at `/api/glossary/index.json`; the site renders it at `/glossary`.
+
+New glossary and encyclopedia entries can be drafted from the recordings with Claude and are
+always reviewed before they are published:
+
+```
+python3 scripts/corpus/evidence.py pack "Edom" --alias Edomites   # what the recordings say
+python3 scripts/ai/draft.py glossary --terms data/drafting/glossary-terms.tsv --estimate
+```
+
+The **Draft glossary and encyclopedia entries** workflow runs the same drafting on GitHub
+Actions (it needs the `ANTHROPIC_API_KEY` secret) and opens a pull request with the drafts and
+a review report. Nothing reaches the site until that pull request is merged.
 
 ## Working on the site
 

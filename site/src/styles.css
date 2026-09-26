@@ -2315,27 +2315,6 @@ a.chip { text-decoration: none; }
 
 /* ---------- Our Hidden History ---------- */
 
-/* Dictionary: quiet reading surface and a compact, wrapping term index. */
-.dictionary-heading { display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; }
-.dictionary-heading .cj-h1 { margin-bottom: 0; overflow-wrap: anywhere; }
-.dictionary-lookup { flex: 0 1 24rem; min-width: 0; }
-.dictionary-lookup label { display: block; font-size: .875rem; margin-bottom: .5rem; }
-.dictionary-lookup > div { display: flex; gap: .5rem; }
-.dictionary-lookup input { width: 100%; min-width: 0; padding: .75rem; background: #0b1220; color: #f2f6fb; border: 1px solid #34465f; font: inherit; }
-.dictionary-hint { color: #a5b6cb; font-size: .875rem; margin: 1.5rem 0; }
-.dictionary-reading { max-width: 78ch; padding: clamp(1rem, 3vw, 2.5rem); border: 1px solid #26374e; border-top: 2px solid #00e5ff; background: #0b1220; line-height: 1.85; font-size: 1.125rem; overflow-wrap: anywhere; }
-.dictionary-reading p:first-child { margin-top: 0; }
-.dictionary-reading p:last-child { margin-bottom: 0; }
-.dictionary-reading p + p { margin-top: 1.5em; }
-.dictionary-reading a { color: #63e8f7; text-decoration: underline; text-underline-offset: .2em; text-decoration-color: #387e8a; }
-.dictionary-reading a:hover, .dictionary-reading a:focus-visible { text-decoration-color: currentColor; }
-.dictionary-search input { flex: 1 1 15rem; min-width: 0; }
-.dictionary-alphabet a { min-width: 2.75rem; min-height: 2.75rem; display: inline-flex; justify-content: center; align-items: center; }
-.dictionary-alphabet a[aria-current="page"] { background: #00e5ff; color: #05070f; border-color: #00e5ff; }
-.dictionary-terms { list-style: none; margin: 1.5rem 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 0 1.5rem; }
-.dictionary-terms a { display: flex; justify-content: space-between; align-items: center; gap: .75rem; min-height: 3.25rem; padding: .75rem .25rem; border-bottom: 1px solid #26374e; overflow-wrap: anywhere; }
-.dictionary-terms a span { color: #63e8f7; flex-shrink: 0; }
-.dictionary-terms a:hover { background: #0b1220; }
 
 /* Reading surfaces prioritize calm typography over the surrounding site chrome. */
 .reader-page { background: #05070f; border-radius: 14px; }
@@ -2460,3 +2439,36 @@ button.verse__n[aria-pressed="true"] { color: var(--color-ink); font-weight: 700
   text-decoration: none;
   margin-left: 0.25rem;
 }
+.taught-section {
+  margin: 3rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-hair);
+}
+.taught-section__title {
+  font: 700 0.75rem var(--font-mono);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-cyan);
+  margin: 0 0 0.5rem;
+}
+.taught-section .taught__note {
+  margin-left: 0;
+}
+.taught-section .taught__item {
+  padding-left: 0;
+}
+.taught__all {
+  margin-top: 0.9rem;
+}
+
+/* Glossary (routes/glossary.tsx). */
+.glossary { margin: 0; display: grid; gap: 0; }
+.glossary__entry { padding: 1.1rem 0; border-bottom: 1px solid var(--color-hair); scroll-margin-top: 5rem; }
+.glossary__entry:target { background: linear-gradient(90deg, color-mix(in srgb, var(--color-cyan) 8%, transparent), transparent); }
+.glossary__entry dt { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.6rem; }
+.glossary__term { font: 400 1.35rem/1.2 var(--font-serif); color: var(--color-ink); text-decoration: none; }
+.glossary__term:hover { color: var(--color-cyan); }
+.glossary__aliases { color: var(--color-muted); font: 500 0.72rem var(--font-mono); letter-spacing: 0.04em; }
+.glossary__entry dd { margin: 0.4rem 0 0; max-width: 46rem; }
+.glossary__entry dd > p { margin: 0.35rem 0; line-height: 1.55; }
+.glossary__refs .cj-mono, .glossary__entry .taught__moments .cj-mono { color: var(--color-muted); margin-right: 0.35rem; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.12em; }

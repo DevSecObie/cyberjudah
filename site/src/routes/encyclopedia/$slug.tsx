@@ -6,6 +6,8 @@ import { NoteWithContents } from "@/components/site/contents-rail";
 import { api } from "@/lib/api";
 import { renderNote, plainLede } from "@/lib/markdown";
 import { pageHead } from "@/lib/head";
+import { TaughtSection } from "@/components/site/taught-list";
+import { passagesInMarkdown } from "@/lib/teaching-refs";
 
 export const Route = createFileRoute("/encyclopedia/$slug")({
   loader: async ({ params }) => {
@@ -35,6 +37,7 @@ function EncyclopediaEntry() {
           <NoteBody html={html} />
         </NoteWithContents>
       </CiteLanding>
+      <TaughtSection passages={passagesInMarkdown(note.body)} subject="this subject" />
       <div className="pager">
         {prev ? <Link to="/encyclopedia/$slug" params={{ slug: prev.slug }} className="read-link"><span>{prev.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/encyclopedia">All subjects</ReadLink>}
         {next ? <Link to="/encyclopedia/$slug" params={{ slug: next.slug }} className="read-link"><span>{next.title}</span><span aria-hidden="true">→</span></Link> : <ReadLink to="/encyclopedia">All subjects</ReadLink>}
