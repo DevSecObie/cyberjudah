@@ -16,6 +16,15 @@ on:
         description: One video id (or several, comma-separated) to transcribe first, whatever the limit
         required: false
         default: ""
+      engine:
+        description: Transcription engine (auto = Workers AI when the Cloudflare secrets allow it, else the runner's CPU)
+        required: false
+        default: auto
+        type: choice
+        options:
+          - auto
+          - faster-whisper
+          - workers-ai
       limit:
         description: Maximum videos per selected channel
         required: true
@@ -64,7 +73,7 @@ jobs:
           # instead of faster-whisper on the runner's CPU: minutes a class instead of an hour.
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          TRANSCRIBE_ENGINE: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && 'workers-ai' || 'faster-whisper' }}
+          TRANSCRIBE_ENGINE: ${{ inputs.engine != 'auto' && inputs.engine || (secrets.CLOUDFLARE_API_TOKEN != '' && 'workers-ai' || 'faster-whisper') }}
         run: |
           printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
           chmod 600 /tmp/youtube-cookies.txt
