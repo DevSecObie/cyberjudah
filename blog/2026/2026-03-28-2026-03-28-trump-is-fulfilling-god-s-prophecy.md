@@ -1,0 +1,389 @@
+---
+title: "Trump Is Fulfilling God's Prophecy"
+slug: "2026/2026-03-28-trump-is-fulfilling-god-s-prophecy"
+date: "2026-03-28"
+teacher: ""
+description: "IUIC in the ClassRoom · 2026-03-28"
+tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "nations", "prophecy", "war"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-03-28</p>
+
+<span class="opens"><b>Opens</b> [Sir 20](/bible/sirach/20) · [Heb 13](/bible/hebrews/13) · [Dan 4](/bible/daniel/4) · [Prov 21](/bible/proverbs/21) · [Prov 20](/bible/proverbs/20) · [Dan 10](/bible/daniel/10) · [Isa 46](/bible/isaiah/46) · [Jer 28](/bible/jeremiah/28) · [Jer 25](/bible/jeremiah/25) · [Isa 14](/bible/isaiah/14) · [Matt 24](/bible/matthew/24) · [Jer 51](/bible/jeremiah/51) · [Rev 6](/bible/revelation/6) · [2 Esdras 16](/bible/2-esdras/16) · [Eccl 5](/bible/ecclesiastes/5) · [2 Esdras 15](/bible/2-esdras/15)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="tbNxY_tnFF4"></div>
+
+## Introduction
+
+*[[9:47](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=587s)]* Trump is fulfilling God's prophecy: the president who ran on ending wars is bombing Iran, killing its leaders and starving the world's fuel and fertilizer, because the king's heart is in the hand of the Lord and the Most High rules in the kingdom of men. The class reads America as Nebuchadnezzar, the Lord's servant sent to oppress all nations, as the oppressor and Lucifer of Isaiah 14, and as the pale horse given power over the fourth part of the earth to kill with sword, hunger and death, and reads the war, the Strait of Hormuz and the coming famine as the scourges sent for correction and the beginning of sorrows. It opens with two warnings to the congregation on lying to destroy and on dishonourable marriages, and closes with make you ready to the battle and be as pilgrims upon the earth.
+
+## In The News
+
+- *[[29:49](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=1789s)]* **MAGA supporters saying they no longer recognise the president they voted for: buried Epstein files, no wall, no deportations, tax cuts for the rich, and now a regime-change war with Iran** — The man who ran on peace changed, and they cannot see why.
+- *[[31:20](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=1880s)]* **The campaign quotes: Trump equals peace, a vote for Trump is a vote to end wars, Vance and Hegseth against regime-change wars** — Every one of them was a lie, and here we are on the edge of a world war.
+- *[[46:35](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2795s)]* **The definition of a fatwa and Khamenei's fatwa against nuclear weapons, from the mid 1990s and declared at the IAEA in 2005** — The Ayatollah was the one man in Iran against nuclear weapons and was about to hand over the enriched uranium; the Lord had Trump kill him because prophecy says Iran will acquire it, and the hardliners who rise want revenge.
+- *[[1:03:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3830s)]* **Iran's AI videos trolling Trump and Netanyahu, and Trump saying the war is finished three times** — The Iranians are not backward; their women are professors and physicists building the weapons. But do not make the man who rules the nations in anger angry, or he blows up a nuclear power plant.
+- *[[1:26:30](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5190s)]* **An American commentator: sanctions and wars since 1971 killed thirty-eight million people, starving Venezuela, Cuba and Iran to make them rise against their governments** — Their wickedness is being revealed, and what comes next will be billions.
+- *[[1:34:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5690s)]* **The Fourth Part of the World by Toby Lester: global discovery, imperial ambition and the birth of America** — America is the fourth part of the earth of Revelation 6, and Trump's Monroe Doctrine tells China and Russia the Western Hemisphere is his.
+- *[[1:46:48](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6408s)]* **Putin warning the war will be a crisis on the scale of the pandemic, with forty-five million dying of hunger** — Putin understands what we have not been taught to think about on a geopolitical stage.
+- *[[1:48:00](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6480s)]* **Why America cannot leave the Middle East: Gulf states fall to Iran, the petrodollar collapses, Japan and Korea rearm, NATO fractures, the dollar loses reserve status** — The Strait of Hormuz is the key that locks America inside the trap and Iran is holding it; for every action there is a reaction, so prepare, and do not come to my house if you bought an X5 instead.
+- *[[1:52:00](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6720s)]* **Fuel panic in the Philippines, Thailand, India, Vietnam and Australia, and the Philippine state of national energy emergency** — One move by Iran and the whole world is walking to work; that is the famine the pale horse brings.
+- *[[2:01:34](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7294s)]* **Trump saying Iran was not supposed to hit Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait, that they could have yielded** — How dare you fight back: that pride is why the Lord has him in a trick bag, unable to leave and forced to rule in anger.
+- *[[2:06:17](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7577s)]* **The fertilizer shock: a third of the world's urea and a quarter of its ammonia pass through the strait, prices up thirty-seven per cent in a week, at the start of spring sowing** — Fertilizer is made from gas, half the world's food depends on it, and smaller harvests mean the famine that scripture promised.
+
+## Scriptures Opened
+
+**[Sirach 20:24-26](/bible/sirach/20#v24)**  *[[10:54](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=654s)]*
+
+> <sup>[24](/bible/sirach/20#v24)</sup> A lie is a foul blot in a man, yet it is continually in the mouth of the untaught.
+>
+> <sup>[25](/bible/sirach/20#v25)</sup> A thief is better than a man that is accustomed to lie: but they both shall have destruction to heritage.
+>
+> <sup>[26](/bible/sirach/20#v26)</sup> The disposition of a liar is dishonourable, and his shame is ever with him.
+
+- A lie is a foul blot in a man, a thief is better than one accustomed to lie, and the liar's shame is ever with him. Some lie from fear, as Sarah did before the angels; others lie to deceive and destroy, and an accusation of adultery is a lie meant to kill.
+
+- For the leaders of the schools: when people lie to destroy, put them out and let them learn online. A sister accused a brother of pushing her, which is a put-out offence; the cameras showed she lied.
+
+
+**[Hebrews 13:4](/bible/hebrews/13#v4)**  *[[16:10](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=970s)]*
+
+> <sup>[4](/bible/hebrews/13#v4)</sup> Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
+
+- Marriage is honourable in all, but what makes it honourable is both sides applying the scriptures and loving thy neighbour as thyself. Marrying an Israelite does not make it honourable; some brothers and sisters are vessels to dishonour who hate each other and say shalom on the Sabbath.
+
+- Counsel is given twice on the same matter; if it is not fixed, both of you are wrong and you are wasting my time. Leadership gives the scriptures; it cannot make a husband love you or a wife respect you, and those who fix it never come back.
+
+  Precepts:
+  - **[1 Timothy 3:5](/bible/1-timothy/3#v5)**
+    > <sup>[5](/bible/1-timothy/3#v5)</sup> (For if a man know not how to rule his own house, how shall he take care of the church of God?)
+
+    If a man know not how to rule his own house: it is your job, not leadership's, to rule it.
+
+
+**[Daniel 4:17](/bible/daniel/4#v17)**  *[[34:01](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2041s)]*
+
+> <sup>[17](/bible/daniel/4#v17)</sup> This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
+
+- The Most High ruleth in the kingdom of men: whatever you see on the earth, the Lord is behind it. Trump talks peace, but God wants war.
+
+- He gives it to whomsoever he will: Babylon, then Persia, the same Iran, then Greece, then Rome, of which America and Europe are the extension. He sets up over it the basest of men: kings walking as servants and servants on horses, and the Epstein class of pedophiles ruling.
+
+
+**[Proverbs 21:1](/bible/proverbs/21#v1)**  *[[37:42](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2262s)]*
+
+> <sup>[1](/bible/proverbs/21#v1)</sup> The king’s heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will.
+
+- The king's heart, his mind, is in the hand of the Lord, and he turns it as rivers of water wherever he will: peace treaty or nuclear bomb. That is what happened to Trump; do not be mad when you see it, God is behind it.
+
+
+**[Proverbs 20:24](/bible/proverbs/20#v24)**  *[[39:33](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2373s)]*
+
+> <sup>[24](/bible/proverbs/20#v24)</sup> Man’s goings are of the Lord; how can a man then understand his own way?
+
+- Man's goings are of the Lord, so how can a man understand his own way? Pharaoh let Israel go and then chased them because the Lord hardened and softened his heart to make him an example. Everything Trump does is of the Lord.
+
+
+**[Daniel 10:19-21](/bible/daniel/10#v19)**  *[[41:16](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2476s)]*
+
+> <sup>[19](/bible/daniel/10#v19)</sup> And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.
+>
+> <sup>[20](/bible/daniel/10#v20)</sup> Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
+>
+> <sup>[21](/bible/daniel/10#v21)</sup> But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
+
+- An example of God ruling in the kingdom of men: Christ tells Daniel he returns to fight the prince of Persia, and the prince of Grecia shall come. The Lord was creating war, transferring power to Alexander, while the spirit of Satan in the king of Persia resisted.
+
+- Things happen in the spiritual realm you cannot see: the Lord and the angels guide men. The Lord had Trump kill the Ayatollah, his family, Larijani and tiers of Iran's leadership, and whoso sheddeth man's blood, by man shall his blood be shed.
+
+
+**[Isaiah 46:10](/bible/isaiah/46#v10)**  *[[51:41](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3101s)]*
+
+> <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
+
+- Declaring the end from the beginning: the prophets prophesied what Iran will do to the Israelis and that Iran will acquire nuclear capability no matter what America does. My counsel shall stand; not the Ayatollah nor Trump can stop it.
+
+
+**[Jeremiah 28:8-9](/bible/jeremiah/28#v8)**  *[[53:43](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3223s)]*
+
+> <sup>[8](/bible/jeremiah/28#v8)</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
+>
+> <sup>[9](/bible/jeremiah/28#v9)</sup> The prophet which prophesieth of peace, when the word of the prophet shall come to pass, then shall the prophet be known, that the Lord hath truly sent him.
+
+- The prophets of old prophesied against many countries and great kingdoms, of war, of evil and of pestilence: that is our job, to bring out of the Bible the war coming to Europe, the Middle East and America.
+
+- The prophet of peace is known only when his word comes to pass, and there will be no peace in the Middle East and no two-state solution; the Palestinians will never have their own land.
+
+
+**[Jeremiah 25:9](/bible/jeremiah/25#v9)**  *[[55:42](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3342s)]*
+
+> <sup>[9](/bible/jeremiah/25#v9)</sup> Behold, I will send and take all the families of the north, saith the Lord, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land, and against the inhabitants thereof, and against all these nations round about, and will utterly destroy them, and make them an astonishment, and an hissing, and perpetual desolations.
+
+- The Lord calls Nebuchadnezzar my servant and sends him against Judah and all the nations round about to utterly destroy them. Nebuchadnezzar is the analogy for Trump: the Lord uses America today to bring judgment on Lebanon, Saudi Arabia and every neighbour of Jerusalem, and the chapter is twofold, ancient Babylon and the last days.
+
+
+**[Isaiah 14:3-19](/bible/isaiah/14#v3)**  *[[59:23](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3563s)]*
+
+> <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
+>
+> <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
+>
+> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
+>
+> <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
+>
+> <sup>[7](/bible/isaiah/14#v7)</sup> The whole earth is at rest, and is quiet: they break forth into singing.
+>
+> <sup>[8](/bible/isaiah/14#v8)</sup> Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
+>
+> <sup>[9](/bible/isaiah/14#v9)</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
+>
+> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
+>
+> <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
+>
+> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
+>
+> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+>
+> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
+>
+> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
+>
+> <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
+>
+> <sup>[17](/bible/isaiah/14#v17)</sup> That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?
+>
+> <sup>[18](/bible/isaiah/14#v18)</sup> All the kings of the nations, even all of them, lie in glory, every one in his own house.
+>
+> <sup>[19](/bible/isaiah/14#v19)</sup> But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.
+
+- The rest from sorrow and hard bondage is for the Israelites, the kingdom of heaven, and the thou taking up the proverb against the king of Babylon is us: how hath the oppressor ceased, the golden city ceased. The king of Babylon is America.
+
+- He that smote the people in wrath with a continual stroke and ruled the nations in anger: America is now the oppressor openly, and Iran should not taunt a man who rules in anger. When America is destroyed the whole earth is at rest and breaks forth into singing, and the cedars of Lebanon, where over twelve hundred are dead and half the country seized, say no feller is come up against us.
+
+- Hell from beneath stirs up the chief ones of the earth: the kings of the nations rise from their thrones against Israel and America and say art thou become weak as we, thy pomp brought down to the grave.
+
+- How art thou fallen from heaven, O Lucifer: Lucifer is America, which weakened the nations through sanctions and, when Iran built a military around the sanctions, through war. I will ascend into heaven is space travel, above the heights of the clouds is the airplane, the mount of the congregation in the sides of the north is sitting on the twelve tribes in North America, and I will be like the Most High is setting themselves up as God's people.
+
+- Is this the man that made the earth to tremble, that shook kingdoms and made the world a wilderness: Lucifer is a man, the white man, who wars by flying over your cities and dropping bombs, as Palestine, Libya and now Iran show. That opened not the house of his prisoners: we are still slaves in Babylon, born into it and conditioned not to see it. All the kings of the nations lie in glory, every one in his own house, so everyone goes back to his own land, but thou art cast out.
+
+
+**[Matthew 24:3-8](/bible/matthew/24#v3)**  *[[1:17:02](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=4622s)]*
+
+> <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
+>
+> <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
+>
+> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
+>
+> <sup>[6](/bible/matthew/24#v6)</sup> And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
+>
+> <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+>
+> <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
+
+- What shall be the sign of thy coming: the deception of many coming in Christ's name goes with the wars and rumours of wars, because the Judeo-Christian religion and the people who say they are Jews put in that land are behind the wars.
+
+- Nation against nation, famines, pestilences and earthquakes must all come before Christ returns, and the class shows who is behind them.
+
+
+**[Jeremiah 51:49](/bible/jeremiah/51#v49)**  *[[1:20:26](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=4826s)]*
+
+> <sup>[49](/bible/jeremiah/51#v49)</sup> As Babylon hath caused the slain of Israel to fall, so at Babylon shall fall the slain of all the earth.
+
+- As Babylon caused the slain of Israel to fall, at Babylon shall fall the slain of all the earth: America is responsible for every war on the earth, whichever president sits, and the Russia-Ukraine war began with America dangling NATO before Ukraine and then walking away.
+
+  Precepts:
+  - **[Revelation 18:21-24](/bible/revelation/18#v21)**
+    > <sup>[21](/bible/revelation/18#v21)</sup> And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.
+    >
+    > <sup>[22](/bible/revelation/18#v22)</sup> And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
+    >
+    > <sup>[23](/bible/revelation/18#v23)</sup> And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.
+    >
+    > <sup>[24](/bible/revelation/18#v24)</sup> And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.
+
+    With violence shall that great city Babylon be thrown down, and in her was found the blood of prophets, of saints and of all that were slain upon the earth: the prophets and saints will be killed in America, and she is the cause of all the earth's slain, as angels worked with Nebuchadnezzar's army in Ezekiel 9.
+
+
+**[Revelation 6:7-8](/bible/revelation/6#v7)**  *[[1:25:05](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5105s)]*
+
+> <sup>[7](/bible/revelation/6#v7)</sup> And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+>
+> <sup>[8](/bible/revelation/6#v8)</sup> And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
+
+- The fourth seal: a pale horse whose rider is death and hell followed with him. That is America, the oppressor, bringing death and hell wherever he goes, secretly under Obama, who killed Gaddafi with nobody saying a word, and openly under Trump.
+
+- Power was given over the fourth part of the earth, which is America's Western Hemisphere, to kill with sword, with hunger, with death and with the beasts of the earth: the wars and rumours of wars, the beginning of sorrows of Matthew 24. When the Lord says he will bring plagues, this is how he brings them.
+
+  Precepts:
+  - **[Habakkuk 2:3-5](/bible/habakkuk/2#v3)**
+    > <sup>[3](/bible/habakkuk/2#v3)</sup> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
+    >
+    > <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
+    >
+    > <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
+
+    The vision is for an appointed time and will not tarry; his soul is not upright in him, he is a proud man who keepeth not at home, with bases in every country, who enlargeth his desire as hell and is as death: hell and death of Revelation 6 is America.
+
+
+**[2 Esdras 16:19-22](/bible/2-esdras/16#v19)**  *[[1:37:37](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5857s)]*
+
+> <sup>[19](/bible/2-esdras/16#v19)</sup> Behold, famine and plague, tribulation and anguish, are sent as scourges for amendment.
+>
+> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be always mindful of the scourges.
+>
+> <sup>[21](/bible/2-esdras/16#v21)</sup> Behold, victuals shall be so good cheap upon earth, that they shall think themselves to be in good case, and even then shall evils grow upon earth, sword, famine, and great confusion.
+>
+> <sup>[22](/bible/2-esdras/16#v22)</sup> For many of them that dwell upon earth shall perish of famine; and the other, that escape the hunger, shall the sword destroy.
+
+- Famine, plague, tribulation and anguish are sent as scourges for amendment, for correction, so our people seek the Lord early; if America were kind to them they would say I'm good, so God is turning it up through Trump.
+
+- For all these things they shall not turn from their wickedness nor be always mindful of the scourges: after coronavirus, Palestine, Ukraine and Iran, our people are still shaking on TikTok and planning the club, and the nations keep their evil.
+
+- Victuals shall be so cheap that they think themselves in good case, and even then shall evils grow upon the earth, sword, famine and great confusion: cheap food and two-dollar gas are passing, and the pale horse is about to bring famine.
+
+- Many shall perish of famine, and the others that escape the hunger the sword shall destroy; America is behind it, and the Lord behind America.
+
+
+**[Ecclesiastes 5:8-10](/bible/ecclesiastes/5#v8)**  *[[1:58:45](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7125s)]*
+
+> <sup>[8](/bible/ecclesiastes/5#v8)</sup> If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
+>
+> <sup>[9](/bible/ecclesiastes/5#v9)</sup> Moreover the profit of the earth is for all: the king himself is served by the field.
+>
+> <sup>[10](/bible/ecclesiastes/5#v10)</sup> He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.
+
+- If thou seest the oppression of the poor and violent perverting of judgment, marvel not, for he that is higher than the highest regardeth: America blockaded Cuba and Venezuela, kidnapped Maduro, and babies are dying on ventilators with no power while Europe and the Philippines said nothing. So the Lord flipped it: Iran blocked the strait and starved the world's oil, and now Europe calls it a crisis.
+
+- He that loveth silver shall not be satisfied with silver: Trump wanting Cuba is never satisfied, and woe to him that increaseth that which is not his. The Lord has them in a trick bag, and Iran's leaders too are moved by the Lord.
+
+- Teaching this word will get us killed, because when you see evil you call it out, and they call you a hate group and anti-American.
+
+
+**[2 Esdras 15:1-8](/bible/2-esdras/15#v1)**  *[[2:12:19](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7939s)]*
+
+> <sup>[1](/bible/2-esdras/15#v1)</sup> Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
+>
+> <sup>[2](/bible/2-esdras/15#v2)</sup> And cause them to be written in paper: for they are faithful and true.
+>
+> <sup>[3](/bible/2-esdras/15#v3)</sup> Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
+>
+> <sup>[4](/bible/2-esdras/15#v4)</sup> For all the unfaithful shall die in their unfaithfulness.
+>
+> <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
+>
+> <sup>[6](/bible/2-esdras/15#v6)</sup> For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled.
+>
+> <sup>[7](/bible/2-esdras/15#v7)</sup> Therefore saith the Lord,
+>
+> <sup>[8](/bible/2-esdras/15#v8)</sup> I will hold my tongue no more as touching their wickedness, which they profanely commit, neither will I suffer them in those things, in which they wickedly exercise themselves: behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually.
+
+- Speak in the ears of my people the words of prophecy and write them: that is what this class is. Fear not their imaginations against thee, the hate-group talk, and let not the unbelief of them that speak against thee trouble thee, for all the unfaithful shall die, every unrepentant Christian worshipping the white man's lies.
+
+- I will bring plagues upon the world, the sword, famine, death and destruction, for wickedness hath exceedingly polluted the whole earth; I will hold my tongue no more as touching their wickedness. It starts with his spirit on us teaching, and then he comes back and deals with them.
+
+  Precepts:
+  - **[Sirach 39:28-31](/bible/sirach/39#v28)**
+    > <sup>[28](/bible/sirach/39#v28)</sup> There be spirits that are created for vengeance, which in their fury lay on sore strokes; in the time of destruction they pour out their force, and appease the wrath of him that made them.
+    >
+    > <sup>[29](/bible/sirach/39#v29)</sup> Fire, and hail, and famine, and death, all these were created for vengeance;
+    >
+    > <sup>[30](/bible/sirach/39#v30)</sup> Teeth of wild beasts, and scorpions, serpents, and the sword punishing the wicked to destruction.
+    >
+    > <sup>[31](/bible/sirach/39#v31)</sup> They shall rejoice in his commandment, and they shall be ready upon earth, when need is; and when their time is come, they shall not transgress his word.
+
+    There be spirits created for vengeance which in their fury lay on sore strokes in the time of destruction: the angels, who are made spirits and a flame of fire, pour out the vials of the wrath of God upon the earth, and America bombing Iran and killing Palestinians is the Lord behind it.
+  - **[Hebrews 1:7](/bible/hebrews/1#v7)**
+    > <sup>[7](/bible/hebrews/1#v7)</sup> And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
+
+    Who maketh his angels spirits and his ministers a flame of fire: the spirits created for vengeance.
+  - **[Revelation 16:1](/bible/revelation/16#v1)**
+    > <sup>[1](/bible/revelation/16#v1)</sup> And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
+
+    The seven angels pour out the vials of the wrath of God upon the earth, war and civil war among them; they poured some on Trump too, who is on a rampage against DEI, black history and citizenship because God put that spirit on him. May the Lord give him seven more years; if he is the one to fulfil God's will, let him stay.
+
+
+**[2 Esdras 16:1-17](/bible/2-esdras/16#v1)**  *[[2:23:30](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=8610s)]*
+
+> <sup>[1](/bible/2-esdras/16#v1)</sup> Woe be unto thee, Babylon, and Asia! woe be unto thee, Egypt and Syria!
+>
+> <sup>[2](/bible/2-esdras/16#v2)</sup> Gird up yourselves with cloths of sack and hair, bewail your children, and be sorry; for your destruction is at hand.
+>
+> <sup>[3](/bible/2-esdras/16#v3)</sup> A sword is sent upon you, and who may turn it back?
+>
+> <sup>[4](/bible/2-esdras/16#v4)</sup> A fire is sent among you, and who may quench it?
+>
+> <sup>[5](/bible/2-esdras/16#v5)</sup> Plagues are sent unto you, and what is he that may drive them away?
+>
+> <sup>[6](/bible/2-esdras/16#v6)</sup> May any man drive away an hungry lion in the wood? or may any one quench the fire in stubble, when it hath begun to burn?
+>
+> <sup>[7](/bible/2-esdras/16#v7)</sup> May one turn again the arrow that is shot of a strong archer?
+>
+> <sup>[8](/bible/2-esdras/16#v8)</sup> The mighty Lord sendeth the plagues and who is he that can drive them away?
+>
+> <sup>[9](/bible/2-esdras/16#v9)</sup> A fire shall go forth from his wrath, and who is he that may quench it?
+>
+> <sup>[10](/bible/2-esdras/16#v10)</sup> He shall cast lightnings, and who shall not fear? he shall thunder, and who shall not be afraid?
+>
+> <sup>[11](/bible/2-esdras/16#v11)</sup> The Lord shall threaten, and who shall not be utterly beaten to powder at his presence?
+>
+> <sup>[12](/bible/2-esdras/16#v12)</sup> The earth quaketh, and the foundations thereof; the sea ariseth up with waves from the deep, and the waves of it are troubled, and the fishes thereof also, before the Lord, and before the glory of his power:
+>
+> <sup>[13](/bible/2-esdras/16#v13)</sup> For strong is his right hand that bendeth the bow, his arrows that he shooteth are sharp, and shall not miss, when they begin to be shot into the ends of the world.
+>
+> <sup>[14](/bible/2-esdras/16#v14)</sup> Behold, the plagues are sent, and shall not return again, until they come upon the earth.
+>
+> <sup>[15](/bible/2-esdras/16#v15)</sup> The fire is kindled, and shall not be put out, till it consume the foundation of the earth.
+>
+> <sup>[16](/bible/2-esdras/16#v16)</sup> Like as an arrow which is shot of a mighty archer returneth not backward: even so the plagues that shall be sent upon earth shall not return again.
+>
+> <sup>[17](/bible/2-esdras/16#v17)</sup> Woe is me! woe is me! who will deliver me in those days?
+
+- Woe be unto thee Babylon and Asia, Egypt and Syria: death and destruction; gird up in sackcloth and bewail your children, for your destruction is at hand. America and Israel are about to destroy many over there; Iran will not be fully destroyed and will make some agreement, but Iran is hitting America's pockets.
+
+- A sword is sent upon you and who may turn it back; a fire, the bombs, and who may quench it; plagues, and who may drive them away. Nobody can say we will not do what the Lord wants; if God wants a tactical nuclear weapon dropped or a power plant destroyed, Trump will do it, because America and Israel must be greatly despised for evil against international law.
+
+- No man drives away a hungry lion or turns back a strong archer's arrow: the mighty Lord sendeth the plagues. Impeach Trump and the next president does the same, because a man's goings are of the Lord.
+
+- The Lord shall threaten, and who shall not be utterly beaten to powder: prophesying is threatening, telling them the Lord is coming back to destroy America and Europe, so do not expect a quiet life for it.
+
+- The plagues are sent and shall not return until they come upon the earth, the fire shall not be put out; Ezra says woe is me in those days because Ezra is alive on the earth now. The beginning of sorrows and great mournings, of famine and great death, of wars, and the powers shall stand in fear, while those who understand say yes, Lord, you are doing your thing.
+
+
+**[2 Esdras 16:39-41](/bible/2-esdras/16#v39)**  *[[2:35:05](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=9305s)]*
+
+> <sup>[39](/bible/2-esdras/16#v39)</sup> Even so shall not the plagues be slack to come upon the earth, and the world shall mourn, and sorrows shall come upon it on every side.
+>
+> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
+>
+> <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
+
+- The plagues shall not be slack to come upon the earth, the world shall mourn and sorrows come on every side; eighty per cent of the Caribbean's food comes from abroad, and if America falls everybody falls.
+
+- O my people, hear my word: make you ready to the battle. If you believe, prepare; buy land and build self-sustaining communities, and do not sit down saying God has got me.
+
+- In those evils be even as pilgrims upon the earth: be ready to leave the house, the car and the job and go to another state or country. Brothers, make sure she is a ride-or-die who is not Americanised; sisters, toughen up and keep your femininity, because a lot of suffering is about to take place.
+
+
+## Class Questions
+
+- **How does a marriage become honourable?** When both the brother and the sister apply the scriptures, love thy neighbour as thyself, and deal right with each other; not by the fact of being Israelites.
+- **What happened to Trump, who ran on ending wars?** The king's heart is in the hand of the Lord, and he turns it as rivers of water wherever he will; the Most High rules in the kingdom of men and wants war.
+- **Why did the Lord have the Ayatollah killed?** His fatwa forbade nuclear weapons and Iran was about to hand over its enriched uranium; prophecy says Iran will acquire nuclear capability, so the Lord removed him and raised hardliners who want revenge.
+- **What does amendment mean in the scourges sent for amendment?** Correction: a change for the better in behaviour, closely tied to repentance.
+
+## In Closing
+
+*[[2:37:53](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=9473s)]* O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth. Be willing to leave it all when things get crazy. A lot of suffering is about to take place. With that, brothers and sisters, I say shalom.
+
+## Announcements & References
+
+- The booster club is open again and answering emails; it is looking only for its best members, so include your name, your camp and how long you have been with IUIC.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=tbNxY_tnFF4)
