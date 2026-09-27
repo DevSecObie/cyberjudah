@@ -1,0 +1,787 @@
+---
+title: "Edom's Achilles' Heel"
+slug: "2026/2026-02-08-edom-s-achilles-heel"
+date: "2026-02-08"
+teacher: "Bishop Nathanyel"
+description: "IUIC in the ClassRoom · 2026-02-08"
+tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-02-08</p>
+
+<span class="opens"><b>Opens</b> [Jer 23](/bible/jeremiah/23) · [Acts 7](/bible/acts/7) · [Ps 73](/bible/psalms/73) · [Rev 13](/bible/revelation/13) · [Gen 25](/bible/genesis/25) · [Gen 3](/bible/genesis/3) · [Dan 2](/bible/daniel/2) · [2 Esdras 6](/bible/2-esdras/6) · [Dan 7](/bible/daniel/7) · [Eph 6](/bible/ephesians/6) · [Dan 8](/bible/daniel/8) · [Ps 19](/bible/psalms/19) · [Job 5](/bible/job/5) · [Ps 91](/bible/psalms/91) · [Isa 17](/bible/isaiah/17) · [Job 20](/bible/job/20)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="QNTH14obhzs"></div>
+
+## Introduction
+
+*[[11:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=713s)]* Bishop Nathanyel takes the title from Genesis 25:26, where Jacob's hand takes hold of Esau's heel, and 2 Esdras 6:9, which says Esau is the end of the world and Jacob the beginning of what follows. The class opens on the pastors who scatter God's sheep and refuse Christ's justice, moves through Asaph's envy of the prosperous wicked and the image of the beast, then traces Esau from the womb through Alexander, Rome, NATO and America using Daniel 2, Daniel 7, Daniel 8 and the scholars' own books, before closing on Job 5, Psalm 91 and Job 20: the stone strikes the feet, the wicked flee the iron weapon, and everything Edom took is restored.
+
+## In The News
+
+- *[[32:27](https://www.youtube.com/watch?v=QNTH14obhzs&t=1947s)]* **A Black megachurch service that looks like a rap concert, followed by a white commentator saying ninety to ninety-five percent of the Black church in America is heretical and should be split up so its members can find a God-fearing white church with biblically qualified men.** — That is the white man's solution, and the Black apologetics online agree with him without a single video against it. If the Black church stood for truth and justice, the FBI, the ADL and the SPLC would have been on it like every other Black group that stood up.
+- *[[38:54](https://www.youtube.com/watch?v=QNTH14obhzs&t=2334s)]* **A painting of a Black Mary and a Black infant Christ set beside the adult white Jesus.** — The baby grows up and somehow becomes a white man, and nobody sees anything wrong with it. That is the wicked covering the faces of the judges.
+- *[[42:36](https://www.youtube.com/watch?v=QNTH14obhzs&t=2556s)]* **The list of the ten richest men on earth, all Edomites, with fortunes from two hundred billion dollars down.** — Our people see this and get envious. Nine times out of ten that wealth came through criminality, old slave money invested in weapons, or theft like the founder of Facebook taking it from the students who hired him.
+- *[[44:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=2677s)]* **A collage of Black men, women and children killed by police and vigilantes.** — Violence covers him as a garment. Christians could care less about these people; we talk about them.
+- *[[48:31](https://www.youtube.com/watch?v=QNTH14obhzs&t=2911s)]* **Maduro says he was kidnapped, calls himself a prisoner of war and pleads not guilty in a New York court; his military was shut down in minutes by a weapon that left soldiers vomiting and bleeding from the nose.** — That is the violent man. Under Trump the United States bombed at least seven countries in 2025, and under Obama it dropped over twenty-six thousand bombs on seven countries in 2016. How are they not a hate group?
+- *[[51:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=3113s)]* **A young white commentator asks why anyone celebrates Martin Luther King Day, citing FBI files alleging affairs, orgies and King laughing while a pastor assaulted a woman.** — This is how they speak loftily concerning oppression. Decades after his death they open FBI files, which of course never lie, to besmirch the man Black people look up to, and Black Christians join the song and dance.
+- *[[53:41](https://www.youtube.com/watch?v=QNTH14obhzs&t=3221s)]* **A monologue on how Europeans traumatized every continent, enslaving cosmologies as well as bodies, breaking treaties by lunch and displaying the pieces in museums, and building institutions so the trauma reproduces across generations.** — The trauma this white man caused has multiplied from way back until now. It is why America does not speak against Israel's genocide: go forth and conquer, my brother.
+- *[[1:05:19](https://www.youtube.com/watch?v=QNTH14obhzs&t=3919s)]* **Pages from In the Pillory: The Tale of the Borgia Pope by John Bond, which labels its plate 'Bust of the Saviour, posed for by Cesare Borgia,' with the Borgia bust and Leonardo's sketches.** — It is an open secret among white folks that the white Jesus is Cesare Borgia. Nine of ten of them read the book and know; nine of ten of us do not read. The elders taught this long before the book surfaced, and one Edomite, Rocky Stone, went to the library and came back to tell the crowd the elders were right.
+- *[[1:12:41](https://www.youtube.com/watch?v=QNTH14obhzs&t=4361s)]* **Definition and film still of Achilles, the Greek warrior made invulnerable by the river Styx except for the heel his mother held him by.** — You could not kill Achilles in the chest or the back; you had to take him at the heel. Esau has an Achilles heel too.
+- *[[1:34:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=5696s)]* **The Chronology of Ancient Nations (1879) tracing Philip of Macedon's genealogy back through Rome and Eliphaz to Esau, Isaac and Abraham; The Rise of Christendom (1890) stating King Philip was a descendant of Esau.** — The scholars know Alexander the Great was an Edomite. They insert Greek gods into the line to look important, but Esau is right there in their own genealogy.
+- *[[1:45:22](https://www.youtube.com/watch?v=QNTH14obhzs&t=6322s)]* **Modern Judaism by John Allen (1830), page 231, on the rabbis' tradition that Esau's descendants, few in Mount Seir while Israel was strong, multiplied after Assyria and Babylon, subjugated Italy, founded Rome, destroyed the second temple under Titus, embraced Christianity, and hold dominion over all Europe, detaining Jacob in captivity until Messiah ben David appears.** — Written while we were in slavery. The Roman Empire were Edomites, Europe is Edom, and the prophecies of Isaiah, Jeremiah and Obadiah against Edom have not yet received their full accomplishment; final vengeance for the second temple is executed in the time of the Messiah.
+- *[[1:49:27](https://www.youtube.com/watch?v=QNTH14obhzs&t=6567s)]* **Dr. William Smith's Dictionary of the Bible (1890) on Obadiah: rabbinical interpretation holds that Edom means Rome and Christians; Kimchi says Julius Caesar was an Idumean; Scaliger reports the Jews believed Titus was an Edomite.** — Julius Caesar, Vespasian and Titus were Edomites. We are not making anything up; there are sources on top of sources.
+- *[[2:02:44](https://www.youtube.com/watch?v=QNTH14obhzs&t=7364s)]* **A church chart of Daniel's four beasts that gets the lion, bear and leopard right and invents a monster for the fourth.** — Esau knows the fourth beast is the eagle from 2 Esdras 12, but he knows Black Christians do not read, so he drew a made-up creature to throw them off.
+- *[[2:07:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=7673s)]* **Definitions of 'deep state' and 'shadow government': entrenched bureaucrats, the CIA, FBI and military officials who keep their own agendas regardless of elected leadership.** — A president serves four years and cannot run eight hundred fifty bases alone. Obama's policies were not his, Trump's are not his; the man who runs the electric grid threatened lights out over Canada and Trump backed off. Democrats and Republicans are two horns on the same beast, good cop and bad cop with one agenda.
+- *[[2:22:25](https://www.youtube.com/watch?v=QNTH14obhzs&t=8545s)]* **Reports on Trump's Board of Peace: first meeting February 19 at the renamed US Institute of Peace, a draft charter that no longer mentions Gaza, a one-billion-dollar fee for a permanent seat, and founding members Kushner, Rubio, Witkoff and Blair, with Egypt, Saudi Arabia and Turkey invited.** — By peace shall he destroy many. It is a private alternative to the UN, run by Amalek, so when they take land and kill there will be nowhere to complain. The UN itself sits on stolen Native land with no Native seat in the building.
+- *[[2:43:26](https://www.youtube.com/watch?v=QNTH14obhzs&t=9806s)]* **The back of the dollar bill: the unfinished pyramid with the eye, 'Annuit Coeptis' meaning our enterprise succeeds, and 'Novus Ordo Seclorum,' new order of the ages.** — The pyramid is not complete. They have not finished what they set out to do, which is wipe us out, and God disappoints the devices of the crafty so their hands cannot perform their enterprise.
+- *[[3:07:11](https://www.youtube.com/watch?v=QNTH14obhzs&t=11231s)]* **An Indian scholar rebukes an American woman questioning his country's temples: a descendant of a genocidal people whose nation stands on the dead bodies of Native Americans has no right to sit as judge over anyone's history.** — You have to go overseas to hear common sense. That is the point about the UN and its courts: murderers of millions setting up to decide right and wrong.
+
+## Scriptures Opened
+
+**[Jeremiah 23:1-15](/bible/jeremiah/23#v1)**  *[[13:22](https://www.youtube.com/watch?v=QNTH14obhzs&t=802s)]*
+
+> <sup>[1](/bible/jeremiah/23#v1)</sup> Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the Lord.
+>
+> <sup>[2](/bible/jeremiah/23#v2)</sup> Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord.
+>
+> <sup>[3](/bible/jeremiah/23#v3)</sup> And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.
+>
+> <sup>[4](/bible/jeremiah/23#v4)</sup> And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the Lord.
+>
+> <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
+>
+> <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
+>
+> <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
+>
+> <sup>[8](/bible/jeremiah/23#v8)</sup> But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
+>
+> <sup>[9](/bible/jeremiah/23#v9)</sup> Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the Lord, and because of the words of his holiness.
+>
+> <sup>[10](/bible/jeremiah/23#v10)</sup> For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force is not right.
+>
+> <sup>[11](/bible/jeremiah/23#v11)</sup> For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the Lord.
+>
+> <sup>[12](/bible/jeremiah/23#v12)</sup> Wherefore their way shall be unto them as slippery ways in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, even the year of their visitation, saith the Lord.
+>
+> <sup>[13](/bible/jeremiah/23#v13)</sup> And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
+>
+> <sup>[14](/bible/jeremiah/23#v14)</sup> I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.
+>
+> <sup>[15](/bible/jeremiah/23#v15)</sup> Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
+
+- Woe be unto the pastors that destroy and scatter the sheep of my pasture. The sheep are the lost sheep of the house of Israel, the twelve tribes, not every nation. Pastors scatter the flock by dividing our people into Baptists, Methodists and Catholics and driving them from the knowledge of the one true God.
+
+- God will gather the remnant out of all countries whither he drove them, from Assyria and Babylon down to Spain, France, England and America, and set up shepherds who feed them with knowledge and understanding, which Malachi says is the law at the priest's lips.
+
+- The righteous Branch of David is Christ, who shall execute judgment and justice in the earth. That is why the white man does not want Christ back: he has never executed justice, because he would have to start with himself. Our people in the churches do not want it either; read them Revelation 13:10 and they say no, not that Jesus justice, give the white man a pass. Even our righteous ancestors, Daniel, Ezekiel, Mordecai and Esther, went into captivity, so the 'good white folks' are going into captivity too.
+
+- In his days Judah shall be saved and Israel shall dwell safely: not the Baptists or the Catholics. Judah and Israel are named separately because of the two kingdoms. They will no longer say 'the Lord that brought Israel out of Egypt' but 'the Lord that brought the seed of Israel out of the north country,' North America, and from all countries into their own land, which is Jerusalem.
+
+- Jeremiah is like a drunken man because of the words of God's holiness: the land is full of adulterers, the pleasant places dried up, and both prophet and priest are profane, treating what is holy as common and unclean. God found their wickedness in his own house, so their way is slippery and he brings evil upon Israel because of them.
+
+- The prophets of Samaria, the northern Latino tribes, prophesied in Baal; the prophets of Jerusalem commit adultery and walk in lies, from December 25 to the ever-virgin Mary, and strengthen the hands of evildoers so the white man can do no wrong. They are all to God as Sodom and Gomorrah.
+
+  Precepts:
+  - **[Matthew 15:24](/bible/matthew/15#v24)**
+    > <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+
+    I am not sent but unto the lost sheep of the house of Israel.
+  - **[Jeremiah 3:15](/bible/jeremiah/3#v15)**
+    > <sup>[15](/bible/jeremiah/3#v15)</sup> And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
+
+    I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
+  - **[Malachi 2:7](/bible/malachi/2#v7)**
+    > <sup>[7](/bible/malachi/2#v7)</sup> For the priest’s lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts.
+
+    The priest's lips should keep knowledge, and they should seek the law at his mouth. God's knowledge is his law.
+  - **[Revelation 13:9-10](/bible/revelation/13#v9)**
+    > <sup>[9](/bible/revelation/13#v9)</sup> If any man have an ear, let him hear.
+    >
+    > <sup>[10](/bible/revelation/13#v10)</sup> He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
+
+    He that leadeth into captivity shall go into captivity; he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints. That is justice for the white man.
+  - **[Jeremiah 6:13](/bible/jeremiah/6#v13)**
+    > <sup>[13](/bible/jeremiah/6#v13)</sup> For from the least of them even unto the greatest of them every one is given to covetousness; and from the prophet even unto the priest every one dealeth falsely.
+
+    From the least to the greatest every one is given to covetousness, and from the prophet to the priest every one dealeth falsely.
+  - **[Micah 3:11-12](/bible/micah/3#v11)**
+    > <sup>[11](/bible/micah/3#v11)</sup> The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us.
+    >
+    > <sup>[12](/bible/micah/3#v12)</sup> Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.
+
+    The heads judge for reward, the priests teach for hire, the prophets divine for money, yet say 'Is not the Lord among us? none evil can come upon us.' Now there are women pastors too, which the Bible only knew under Diana of the Ephesians, which is why Paul told those women to keep silence. Therefore Zion is plowed as a field.
+  - **[Zechariah 11:5](/bible/zechariah/11#v5)**
+    > <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
+
+    Whose possessors slay them and hold themselves not guilty, and they that sell them say 'Blessed be the Lord, for I am rich,' and their own shepherds pity them not. The white man possesses us, walks free after killing us, took the covenant in his mouth, and our own pastors do not care.
+
+
+**[Acts 7:37-38](/bible/acts/7#v37)**  *[[34:48](https://www.youtube.com/watch?v=QNTH14obhzs&t=2088s)]*
+
+> <sup>[37](/bible/acts/7#v37)</sup> This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.
+>
+> <sup>[38](/bible/acts/7#v38)</sup> This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:
+
+- This is he that was in the church in the wilderness with the angel and with our fathers who received the lively oracles. The church in the wilderness was the twelve tribes of Israel, not a Baptist, Catholic or Protestant church. When the Bible says church it means the assembly of Israel.
+
+- Had the Black church stood for righteousness and organized for justice, the arm of white supremacy would have harassed and slandered it out of existence. It stands for nothing except 'feed me.'
+
+
+**[Psalms 73:1-20](/bible/psalms/73#v1)**  *[[36:29](https://www.youtube.com/watch?v=QNTH14obhzs&t=2189s)]*
+
+> <sup>[1](/bible/psalms/73#v1)</sup> Truly God is good to Israel, even to such as are of a clean heart.
+>
+> <sup>[2](/bible/psalms/73#v2)</sup> But as for me, my feet were almost gone; my steps had well nigh slipped.
+>
+> <sup>[3](/bible/psalms/73#v3)</sup> For I was envious at the foolish, when I saw the prosperity of the wicked.
+>
+> <sup>[4](/bible/psalms/73#v4)</sup> For there are no bands in their death: but their strength is firm.
+>
+> <sup>[5](/bible/psalms/73#v5)</sup> They are not in trouble as other men; neither are they plagued like other men.
+>
+> <sup>[6](/bible/psalms/73#v6)</sup> Therefore pride compasseth them about as a chain; violence covereth them as a garment.
+>
+> <sup>[7](/bible/psalms/73#v7)</sup> Their eyes stand out with fatness: they have more than heart could wish.
+>
+> <sup>[8](/bible/psalms/73#v8)</sup> They are corrupt, and speak wickedly concerning oppression: they speak loftily.
+>
+> <sup>[9](/bible/psalms/73#v9)</sup> They set their mouth against the heavens, and their tongue walketh through the earth.
+>
+> <sup>[10](/bible/psalms/73#v10)</sup> Therefore his people return hither: and waters of a full cup are wrung out to them.
+>
+> <sup>[11](/bible/psalms/73#v11)</sup> And they say, How doth God know? and is there knowledge in the most High?
+>
+> <sup>[12](/bible/psalms/73#v12)</sup> Behold, these are the ungodly, who prosper in the world; they increase in riches.
+>
+> <sup>[13](/bible/psalms/73#v13)</sup> Verily I have cleansed my heart in vain, and washed my hands in innocency.
+>
+> <sup>[14](/bible/psalms/73#v14)</sup> For all the day long have I been plagued, and chastened every morning.
+>
+> <sup>[15](/bible/psalms/73#v15)</sup> If I say, I will speak thus; behold, I should offend against the generation of thy children.
+>
+> <sup>[16](/bible/psalms/73#v16)</sup> When I thought to know this, it was too painful for me;
+>
+> <sup>[17](/bible/psalms/73#v17)</sup> Until I went into the sanctuary of God; then understood I their end.
+>
+> <sup>[18](/bible/psalms/73#v18)</sup> Surely thou didst set them in slippery places: thou castedst them down into destruction.
+>
+> <sup>[19](/bible/psalms/73#v19)</sup> How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
+>
+> <sup>[20](/bible/psalms/73#v20)</sup> As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.
+
+- Truly God is good to Israel, to such as are of a clean heart. Asaph's feet had almost slipped, because he was envious at the foolish when he saw the prosperity of the wicked. Some of us in here get envious the same way.
+
+- Job 9:24 says the earth is given into the hand of the wicked and he covereth the faces of the judges. By elimination it is not the Black or Latin man ruling; it is the white man, and Malachi names Esau, Edom, as the border of wickedness and the people against whom the Lord hath indignation for ever.
+
+- There are no bands in their death, but their strength is firm. They grow old on stolen organs as well as stolen lands; putting organ donor on your license can turn an ear infection into a death, and Kendrick Johnson's organs were missing.
+
+- They are not in trouble as other men; pride compasseth them as a chain and violence covereth them as a garment, because old slave money is invested in weapons and war. Psalm 140 calls him the violent man who is continually gathered together for war and whose purpose is to overthrow our goings; his religion and politics are adder's poison, and his nets and gins are his traps.
+
+- They are corrupt and speak wickedly concerning oppression; they speak loftily. Trump says strip King's name from the parks, take slavery out of the schools, end DEI, and no apology for slavery: we did it, so what. Their people get the last drop of the full cup and we get nothing, and they ask 'How doth God know?'
+
+- When Asaph thought to know this it was too painful, until he went into the sanctuary of God and understood their end. Only by reading the word will you understand it. God set them in slippery places and casts them into destruction, brought into desolation as in a moment, that one hour, utterly consumed with terrors like a dream when one awaketh.
+
+- When the Lord awakes and intervenes, he shall despise their image. That image is Cesare Borgia, the fake Jesus who represents all Edom.
+
+  Precepts:
+  - **[Job 9:24](/bible/job/9#v24)**
+    > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
+
+    The earth is given into the hand of the wicked: he covereth the faces of the judges thereof.
+  - **[Malachi 1:3-4](/bible/malachi/1#v3)**
+    > <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+    >
+    > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
+
+    I hated Esau and laid his heritage waste, the Dark Ages. Edom saith, We are impoverished, but we will return and build: that is the Renaissance, when they returned and enslaved us. They shall build, but I will throw down, and men shall call them the border of wickedness, the people against whom the Lord hath indignation for ever.
+  - **[Psalms 140:1-5](/bible/psalms/140#v1)**
+    > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
+    >
+    > <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
+    >
+    > <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
+    >
+    > <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
+    >
+    > <sup>[5](/bible/psalms/140#v5)</sup> The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
+
+    Deliver me from the evil man, preserve me from the violent man, which imagine mischiefs and are continually gathered together for war. If there is no war he will start one; it is his nature. Their tongues are sharpened like a serpent with adder's poison, and they hide snares, cords, nets and gins.
+  - **[Micah 6:11-12](/bible/micah/6#v11)**
+    > <sup>[11](/bible/micah/6#v11)</sup> Shall I count them pure with the wicked balances, and with the bag of deceitful weights?
+    >
+    > <sup>[12](/bible/micah/6#v12)</sup> For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.
+
+    Shall I count them pure with the wicked balances and the bag of deceitful weights? The rich men thereof are full of violence, and the inhabitants have spoken lies. The descendants justify their ancestors' evil because they benefit from it.
+
+
+**[Revelation 13:14-15](/bible/revelation/13#v14)**  *[[1:02:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=3776s)]*
+
+> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+>
+> <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
+
+- He deceiveth them that dwell on the earth by the means of those miracles, his science and technology, which he had power to do in the sight of the beast: the atom bomb dropped on Hiroshima and Nagasaki while the beast with seven heads and ten horns, Europe, watched.
+
+- He says to make an image to the beast which had the wound by a sword and did live: the image had to come from Rome. That image is the Borgia Jesus, carried in every serviceman's wallet in World War II with 'In God We Trust.'
+
+- He had power to give life unto the image: they gave Cesare Borgia the life of Christ in their church system and their movies, and hire actors who look like him to speak the Bible's words while our people cry. As many as would not worship the image should be killed, which is exactly what they did when they conquered.
+
+
+**[Genesis 25:21-30](/bible/genesis/25#v21)**  *[[1:15:24](https://www.youtube.com/watch?v=QNTH14obhzs&t=4524s)]*
+
+> <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
+>
+> <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
+>
+> <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
+>
+> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+>
+> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
+>
+> <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
+>
+> <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
+>
+> <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
+>
+> <sup>[29](/bible/genesis/25#v29)</sup> And Jacob sod pottage: and Esau came from the field, and he was faint:
+>
+> <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
+
+- Two nations are in Rebekah's womb, two manner of people, and the one shall be stronger than the other, and the elder shall serve the younger. Twins, but not identical.
+
+- The first came out red all over like an hairy garment, and they called his name Esau. There is no white man; they forced us to call him that, but white means pure and holy and he is neither. Esau means wasted away, Seir means hair, Edom means red, and Idumea is the Greek and Roman name for Edom.
+
+- His brother came out with his hand holding Esau's heel and was called Jacob. Notice no colour is given for Jacob. That heel is the whole class.
+
+- Esau grew up a cunning hunter, a man of the field, who wanted the raw red pottage, and he still likes his meat rare. Isaac loved Esau for his venison, but Rebekah loved Jacob because she understood the prophecy.
+
+
+**[Genesis 3:15](/bible/genesis/3#v15)**  *[[1:20:57](https://www.youtube.com/watch?v=QNTH14obhzs&t=4857s)]*
+
+> <sup>[15](/bible/genesis/3#v15)</sup> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+
+- I will put enmity between thee and the woman, and between thy seed and her seed. Satan has seed on this earth, and her seed is Israel. It shall bruise thy head, and Christ is our head, smitten so the sheep scattered; and thou shalt bruise his heel.
+
+- God told Cain that if he did not do well, sin lieth at the door and unto thee shall be his desire: Satan would be Cain's god and father. Adam begat Seth in his own likeness after his image, but Cain is never called Adam's image, because 1 John 3 says Cain was of that wicked one.
+
+- Cain's line died in the flood, but all spirits return. Cain came back as Esau and Abel, or Seth, came back as Jacob.
+
+  Precepts:
+  - **[Genesis 4:6-7](/bible/genesis/4#v6)**
+    > <sup>[6](/bible/genesis/4#v6)</sup> And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?
+    >
+    > <sup>[7](/bible/genesis/4#v7)</sup> If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
+
+    If thou doest not well, sin lieth at the door, and unto thee shall be his desire, and thou shalt rule over him. Satan became Cain's father.
+  - **[Genesis 5:3](/bible/genesis/5#v3)**
+    > <sup>[3](/bible/genesis/5#v3)</sup> And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
+
+    Adam begat a son in his own likeness, after his image, and called his name Seth. Cain is never said to be in Adam's image.
+  - **[1 John 3:10-12](/bible/1-john/3#v10)**
+    > <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
+    >
+    > <sup>[11](/bible/1-john/3#v11)</sup> For this is the message that ye heard from the beginning, that we should love one another.
+    >
+    > <sup>[12](/bible/1-john/3#v12)</sup> Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.
+
+    In this the children of God are manifest, and the children of the devil. Not as Cain, who was of that wicked one, and slew his brother.
+  - **[2 Thessalonians 2:9](/bible/2-thessalonians/2#v9)**
+    > <sup>[9](/bible/2-thessalonians/2#v9)</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
+
+    Even him, whose coming is after the working of Satan. Satan is his father.
+
+
+**[Daniel 2:31-45](/bible/daniel/2#v31)**  *[[1:27:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=5276s)]*
+
+> <sup>[31](/bible/daniel/2#v31)</sup> Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.
+>
+> <sup>[32](/bible/daniel/2#v32)</sup> This image’s head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
+>
+> <sup>[33](/bible/daniel/2#v33)</sup> His legs of iron, his feet part of iron and part of clay.
+>
+> <sup>[34](/bible/daniel/2#v34)</sup> Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.
+>
+> <sup>[35](/bible/daniel/2#v35)</sup> Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
+>
+> <sup>[36](/bible/daniel/2#v36)</sup> This is the dream; and we will tell the interpretation thereof before the king.
+>
+> <sup>[37](/bible/daniel/2#v37)</sup> Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.
+>
+> <sup>[38](/bible/daniel/2#v38)</sup> And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou art this head of gold.
+>
+> <sup>[39](/bible/daniel/2#v39)</sup> And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
+>
+> <sup>[40](/bible/daniel/2#v40)</sup> And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
+>
+> <sup>[41](/bible/daniel/2#v41)</sup> And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
+>
+> <sup>[42](/bible/daniel/2#v42)</sup> And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
+>
+> <sup>[43](/bible/daniel/2#v43)</sup> And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
+>
+> <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
+>
+> <sup>[45](/bible/daniel/2#v45)</sup> Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
+
+- The image's head of gold is Nebuchadnezzar and Babylon; the breast and arms of silver, Media and Persia; the belly and thighs of brass, Greece; the legs of iron, Rome; and the feet of iron mixed with clay are America and NATO from 1776 until today, still a continuation of Rome. The party is not over.
+
+- The stone cut out without hands smote the image upon his feet. It struck the heel, and the whole image broke together and blew away like chaff, and the stone became a great mountain and filled the whole earth.
+
+- The third kingdom of brass shall bear rule over all the earth. 1 Maccabees 1 shows Alexander, son of Philip the Macedonian, uniting the Edomite nations, slaying the kings of the earth, going to the ends of the earth until it was quiet before him, and being exalted in heart. That is the beginning of white supremacy. He fell sick and divided the kingdom among Ptolemy, Seleucus, Cassander and Lysimachus, and evils were multiplied in the earth.
+
+- The fourth kingdom, Rome, is strong as iron, but the kingdom shall be divided, and a house divided cannot stand. The iron is the military strength America still has; the toes are the EU and NATO, the same ten horns as Revelation 17. The miry clay is the melting pot: they shall mingle themselves with the seed of men, but they shall not cleave one to another, because every nation looks out for its own interest except ours.
+
+- In the days of these kings shall the God of heaven set up a kingdom which shall never be destroyed. We are living in the days of these kings, and what you see here is the beginning of God's kingdom. That is the difference between the Israelites and the Black Panthers or the NOI: kill millions of us and this truth continues.
+
+- The kingdom shall not be left to other people; other races will be there, but ruling nothing. The stone is Christ, the chief cornerstone of Ephesians 2:20, and he will break these empires in pieces at the feet.
+
+  Precepts:
+  - **[1 Maccabees 1:1-9](/bible/1-maccabees/1#v1)**
+    > <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
+    >
+    > <sup>[2](/bible/1-maccabees/1#v2)</sup> And made many wars, and won many strong holds, and slew the kings of the earth,
+    >
+    > <sup>[3](/bible/1-maccabees/1#v3)</sup> And went through to the ends of the earth, and took spoils of many nations, insomuch that the earth was quiet before him; whereupon he was exalted and his heart was lifted up.
+    >
+    > <sup>[4](/bible/1-maccabees/1#v4)</sup> And he gathered a mighty strong host and ruled over countries, and nations, and kings, who became tributaries unto him.
+    >
+    > <sup>[5](/bible/1-maccabees/1#v5)</sup> And after these things he fell sick, and perceived that he should die.
+    >
+    > <sup>[6](/bible/1-maccabees/1#v6)</sup> Wherefore he called his servants, such as were honourable, and had been brought up with him from his youth, and parted his kingdom among them, while he was yet alive.
+    >
+    > <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelves years, and then died.
+    >
+    > <sup>[8](/bible/1-maccabees/1#v8)</sup> And his servants bare rule every one in his place.
+    >
+    > <sup>[9](/bible/1-maccabees/1#v9)</sup> And after his death they all put crowns upon themselves; so did their sons after them many years: and evils were multiplied in the earth.
+
+    Alexander, son of Philip the Macedonian, smote Darius and reigned the first over Greece, made many wars, slew the kings of the earth, and was exalted; then he fell sick, parted his kingdom among his servants while yet alive, and evils were multiplied in the earth.
+  - **[Ephesians 2:20](/bible/ephesians/2#v20)**
+    > <sup>[20](/bible/ephesians/2#v20)</sup> And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
+
+    Built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone. The stone is the King.
+
+
+**[2 Esdras 6:7-10](/bible/2-esdras/6#v7)**  *[[1:52:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=6776s)]*
+
+> <sup>[7](/bible/2-esdras/6#v7)</sup> Then answered I and said, What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?
+>
+> <sup>[8](/bible/2-esdras/6#v8)</sup> And he said unto me, From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob’s hand held first the heel of Esau.
+>
+> <sup>[9](/bible/2-esdras/6#v9)</sup> For Esau is the end of the world, and Jacob is the beginning of it that followeth.
+>
+> <sup>[10](/bible/2-esdras/6#v10)</sup> The hand of man is betwixt the heel and the hand: other question, Esdras, ask thou not.
+
+- What shall be the parting asunder of the times, the end of the first and the beginning of that which followeth? From Abraham unto Isaac, when Jacob and Esau were born, Jacob's hand held first the heel of Esau.
+
+- For Esau is the end of the world, and Jacob is the beginning of it that followeth. The Israelites who say Japheth rules the end are wrong; the Bible says Esau. The hand of man is betwixt the heel and the hand: all the other nations, Chinese, Indians, Arabs, are extras in the movie, with Jacob the star and Esau the co-star.
+
+
+**[Daniel 7:1-8](/bible/daniel/7#v1)**  *[[1:54:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=6877s)]*
+
+> <sup>[1](/bible/daniel/7#v1)</sup> In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.
+>
+> <sup>[2](/bible/daniel/7#v2)</sup> Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
+>
+> <sup>[3](/bible/daniel/7#v3)</sup> And four great beasts came up from the sea, diverse one from another.
+>
+> <sup>[4](/bible/daniel/7#v4)</sup> The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
+>
+> <sup>[5](/bible/daniel/7#v5)</sup> And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
+>
+> <sup>[6](/bible/daniel/7#v6)</sup> After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
+>
+> <sup>[7](/bible/daniel/7#v7)</sup> After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
+>
+> <sup>[8](/bible/daniel/7#v8)</sup> I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.
+
+- Daniel wrote the dream down; write your dreams down before the details fade. Four beasts came up from the sea: the lion with eagle's wings is Babylon, whose wings were plucked when it conquered Assyria; the bear raised on one side is Persia rising above Media, with three ribs in its mouth, the Egypt, Ethiopia and Sabeans that Isaiah 45:14 says would come over to Cyrus.
+
+- The leopard with four wings and four heads is Greece under Alexander's four generals. The fourth beast, dreadful and strong with iron teeth and ten horns, is Rome; its animal is not named in Daniel, and 2 Esdras 12:10-11 reveals it is the eagle Daniel saw but was not expounded to him. Precept upon precept, or you stay confused.
+
+- It stamped the residue with the feet of it: the philosophies and doctrines stamped on us until we believe Sunday, their days of the week, and all their foolishness. Its ten horns are the ten horns of Revelation, what we call NATO.
+
+- The little horn that came up among them is America, which came out of Britain and plucked up three of the first horns: France, Britain and Spain. Its eyes like the eyes of man are vision, the airplane, the moon landing, the phone, shared with his European brothers and nobody else. Its mouth speaking great things blasphemes the Most High.
+
+  Precepts:
+  - **[Isaiah 45:14](/bible/isaiah/45#v14)**
+    > <sup>[14](/bible/isaiah/45#v14)</sup> Thus saith the Lord, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over unto thee, and they shall be thine: they shall come after thee; in chains they shall come over, and they shall fall down unto thee, they shall make supplication unto thee, saying, Surely God is in thee; and there is none else, there is no God.
+
+    The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over unto thee in chains. The three ribs God promised Cyrus for releasing Israel.
+  - **[2 Esdras 12:10-11](/bible/2-esdras/12#v10)**
+    > <sup>[10](/bible/2-esdras/12#v10)</sup> And he said unto me, This is the interpretation of the vision:
+    >
+    > <sup>[11](/bible/2-esdras/12#v11)</sup> The eagle, whom thou sawest come up from the sea, is the kingdom which was seen in the vision of thy brother Daniel.
+
+    The eagle whom thou sawest come up from the sea is the kingdom seen in the vision of thy brother Daniel, but it was not expounded unto him.
+  - **[Daniel 7:25](/bible/daniel/7#v25)**
+    > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
+
+    He shall speak great words against the Most High, wear out the saints, and think to change times and laws: daylight saving, a year that begins in dead winter, same-sex marriage, the Sabbath moved to the first day. The saints are given into his hand until a time, times and the dividing of time.
+
+
+**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[2:06:21](https://www.youtube.com/watch?v=QNTH14obhzs&t=7581s)]*
+
+> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+
+- We wrestle not against flesh and blood, but against principalities, powers, the rulers of the darkness of this world, and spiritual wickedness in high places. Do not say Trump is the last one; when he goes the spirit jumps on the next man, the way they replaced Fauci.
+
+- The rulers of darkness are governments, with a hierarchy among them: America at the pinnacle, then Britain, France and Germany. Behind the figurehead is the deep state and shadow government, the people who hand the new president his instructions once he sits in the chair, and the think-tank books that wrote his agenda for him.
+
+
+**[Daniel 8:19-25](/bible/daniel/8#v19)**  *[[2:14:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=8096s)]*
+
+> <sup>[19](/bible/daniel/8#v19)</sup> And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be.
+>
+> <sup>[20](/bible/daniel/8#v20)</sup> The ram which thou sawest having two horns are the kings of Media and Persia.
+>
+> <sup>[21](/bible/daniel/8#v21)</sup> And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king.
+>
+> <sup>[22](/bible/daniel/8#v22)</sup> Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
+>
+> <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
+>
+> <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
+>
+> <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
+
+- The ram with two horns is Media and Persia, the rough goat is Greece, and the great horn between its eyes is Alexander, the first king. Broken, four stood up in its place, but not in his power; the generals had none of his charisma.
+
+- In the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, understanding dark sentences, shall stand up. There are groups among them who know who the twelve tribes are and what is coming. Revelation 12:12 says the devil knows he has but a short time, and he measures that time by us: the churches never bring out the transgressions, so they watch the Israelites, which is why they let our videos back on YouTube after shutting them down for a year.
+
+- His power shall be mighty, but not by his own power. Revelation 13:2 says the dragon gave him his power and his seat and great authority. A spirit told Esau to pack Chinese firecrackers into a bomb, to put gunpowder in a metal casing, to build a propulsion unit and a suit for the moon. How did the white man figure it all out? Satan.
+
+- He shall destroy wonderfully and prosper, and destroy the mighty and the holy people. That is us, and it is going to escalate; the party is not over. Through his policy he causes craft to prosper and by peace shall destroy many, and 1 Thessalonians 5:3 says when they shall say peace and safety, then sudden destruction cometh.
+
+- He shall stand up against the Prince of princes, Christ, but he shall be broken without hand, the same stone of Daniel 2. This extension of Rome is going to fall, for Esau is the end of the world.
+
+  Precepts:
+  - **[Revelation 12:12](/bible/revelation/12#v12)**
+    > <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
+
+    Rejoice, ye heavens, the sovereign nations; woe to the inhabiters of the earth and of the sea, the other nations and the islands, for the devil is come down having great wrath, because he knoweth that he hath but a short time.
+  - **[Revelation 13:2](/bible/revelation/13#v2)**
+    > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+
+    The beast was like a leopard, with feet of a bear and mouth of a lion: elements of Greece, Persia and Babylon. And the dragon gave him his power, and his seat, and great authority.
+  - **[1 Thessalonians 5:3](/bible/1-thessalonians/5#v3)**
+    > <sup>[3](/bible/1-thessalonians/5#v3)</sup> For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.
+
+    When they shall say, Peace and safety, then sudden destruction cometh upon them, and they shall not escape. That is the Board of Peace.
+
+
+**[Psalms 19:1-11](/bible/psalms/19#v1)**  *[[2:30:57](https://www.youtube.com/watch?v=QNTH14obhzs&t=9057s)]*
+
+> <sup>[1](/bible/psalms/19#v1)</sup> The heavens declare the glory of God; and the firmament sheweth his handywork.
+>
+> <sup>[2](/bible/psalms/19#v2)</sup> Day unto day uttereth speech, and night unto night sheweth knowledge.
+>
+> <sup>[3](/bible/psalms/19#v3)</sup> There is no speech nor language, where their voice is not heard.
+>
+> <sup>[4](/bible/psalms/19#v4)</sup> Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
+>
+> <sup>[5](/bible/psalms/19#v5)</sup> Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.
+>
+> <sup>[6](/bible/psalms/19#v6)</sup> His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
+>
+> <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
+>
+> <sup>[8](/bible/psalms/19#v8)</sup> The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes.
+>
+> <sup>[9](/bible/psalms/19#v9)</sup> The fear of the Lord is clean, enduring for ever: the judgments of the Lord are true and righteous altogether.
+>
+> <sup>[10](/bible/psalms/19#v10)</sup> More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
+>
+> <sup>[11](/bible/psalms/19#v11)</sup> Moreover by them is thy servant warned: and in keeping of them there is great reward.
+
+- Day unto day uttereth speech and night unto night sheweth knowledge: not the sun and stars but the teachers, teaching day and night. There is no speech nor language where their voice is not heard; their line is gone out through all the earth, and their words to the end of the world. Romans 10:18 proves Paul read it as the sound of the gospel going into all the earth.
+
+- How shall they hear without a preacher, and how shall they preach except they be sent? Prepare yourselves to be sent. Faith cometh by hearing and hearing by the word of God: however old you are, that is how many years of brainwashing you must undo, so once a week will not do it; listen daily and read more than four chapters.
+
+- The line going out through all the earth is repentance for the twelve tribes in the name of Christ, not the doctrines of concubines, or John the Baptist as a wicked Israelite, or animal sacrifice under the old covenant. God has favoured this teaching.
+
+- In them hath he set a tabernacle for the sun: sanctuaries for the wisdom of the word in every state and country, fulfilling prophecy. The teacher is as a bridegroom coming out of his chamber and a strong man running a race; if you are boring, sit down.
+
+- The law of the Lord is perfect, converting the soul; the testimony is sure, making wise the simple. People hunt for discrepancies over how many horses Solomon had, but the ten commandments are perfect and only the law converts the soul.
+
+  Precepts:
+  - **[Romans 10:14-18](/bible/romans/10#v14)**
+    > <sup>[14](/bible/romans/10#v14)</sup> How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
+    >
+    > <sup>[15](/bible/romans/10#v15)</sup> And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+    >
+    > <sup>[16](/bible/romans/10#v16)</sup> But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
+    >
+    > <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
+    >
+    > <sup>[18](/bible/romans/10#v18)</sup> But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
+
+    How shall they hear without a preacher, and how shall they preach except they be sent? Faith cometh by hearing, and hearing by the word of God. Have they not heard? Yes verily, their sound went into all the earth.
+
+
+**[Job 5:11-27](/bible/job/5#v11)**  *[[2:40:03](https://www.youtube.com/watch?v=QNTH14obhzs&t=9603s)]*
+
+> <sup>[11](/bible/job/5#v11)</sup> To set up on high those that be low; that those which mourn may be exalted to safety.
+>
+> <sup>[12](/bible/job/5#v12)</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
+>
+> <sup>[13](/bible/job/5#v13)</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
+>
+> <sup>[14](/bible/job/5#v14)</sup> They meet with darkness in the daytime, and grope in the noonday as in the night.
+>
+> <sup>[15](/bible/job/5#v15)</sup> But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
+>
+> <sup>[16](/bible/job/5#v16)</sup> So the poor hath hope, and iniquity stoppeth her mouth.
+>
+> <sup>[17](/bible/job/5#v17)</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
+>
+> <sup>[18](/bible/job/5#v18)</sup> For he maketh sore, and bindeth up: he woundeth, and his hands make whole.
+>
+> <sup>[19](/bible/job/5#v19)</sup> He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
+>
+> <sup>[20](/bible/job/5#v20)</sup> In famine he shall redeem thee from death: and in war from the power of the sword.
+>
+> <sup>[21](/bible/job/5#v21)</sup> Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
+>
+> <sup>[22](/bible/job/5#v22)</sup> At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
+>
+> <sup>[23](/bible/job/5#v23)</sup> For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.
+>
+> <sup>[24](/bible/job/5#v24)</sup> And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
+>
+> <sup>[25](/bible/job/5#v25)</sup> Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.
+>
+> <sup>[26](/bible/job/5#v26)</sup> Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
+>
+> <sup>[27](/bible/job/5#v27)</sup> Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
+
+- To set up on high those that be low, that those which mourn may be exalted to safety: that is us. 1 Samuel 2 says the Lord killeth and maketh alive, maketh poor and maketh rich, raiseth the poor out of the dust and the beggar from the dunghill to set them among princes and inherit the throne of glory. We are the beggars now, begging for reparations and Section 8, and whatever house you have is a dunghill compared to where we came from.
+
+- He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise. The crafty is this white man, and his enterprise is on the back of his dollar with the unfinished pyramid. He taketh the wise in their own craftiness and carries the froward headlong.
+
+- Happy is the man whom God correcteth; despise not the chastening of the Almighty. Romans 5 says tribulation worketh patience, experience and hope, and Hebrews 12 says whom the Lord loveth he chasteneth, and without chastisement ye are bastards and not sons. In this truth, expect to be scourged.
+
+- He maketh sore and bindeth up; he woundeth and his hands make whole. Isaiah 1:4-6 describes the nation as Job: wounds, bruises and putrifying sores from the sole of the foot to the head. Job was real, but his life represents Israel, and God will make us whole again.
+
+- He shall deliver thee in six troubles, the six trumps, and in seven there shall no evil touch thee: at the seventh trump the kingdoms of this world become the kingdoms of our Lord and his Christ. In famine and war he redeems, we are hid from the scourge of the tongue, and we are not to be afraid of destruction when it cometh, because it is coming.
+
+- At destruction and famine thou shalt laugh, the beasts of the field shall be at peace with thee, thy tabernacle shall be in peace, and thou shalt not sin: Isaiah 60:21 says thy people shall be all righteous. Thy seed shall be great as the grass, and thou shalt come to thy grave in a full age like a shock of corn in its season: Israel's life will be long, forever.
+
+  Precepts:
+  - **[1 Samuel 2:3-8](/bible/1-samuel/2#v3)**
+    > <sup>[3](/bible/1-samuel/2#v3)</sup> Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.
+    >
+    > <sup>[4](/bible/1-samuel/2#v4)</sup> The bows of the mighty men are broken, and they that stumbled are girded with strength.
+    >
+    > <sup>[5](/bible/1-samuel/2#v5)</sup> They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.
+    >
+    > <sup>[6](/bible/1-samuel/2#v6)</sup> The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up.
+    >
+    > <sup>[7](/bible/1-samuel/2#v7)</sup> The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up.
+    >
+    > <sup>[8](/bible/1-samuel/2#v8)</sup> He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lord’s, and he hath set the world upon them.
+
+    Talk no more so exceeding proudly; the Lord is a God of knowledge and by him actions are weighed. He raiseth up the poor out of the dust and lifteth the beggar from the dunghill, to set them among princes and make them inherit the throne of glory.
+  - **[Romans 5:3-5](/bible/romans/5#v3)**
+    > <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
+    >
+    > <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
+    >
+    > <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
+
+    We glory in tribulations, knowing that tribulation worketh patience, patience experience, and experience hope, and hope maketh not ashamed.
+  - **[Hebrews 12:6-8](/bible/hebrews/12#v6)**
+    > <sup>[6](/bible/hebrews/12#v6)</sup> For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
+    >
+    > <sup>[7](/bible/hebrews/12#v7)</sup> If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?
+    >
+    > <sup>[8](/bible/hebrews/12#v8)</sup> But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.
+
+    Whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye be without chastisement, then are ye bastards, and not sons.
+  - **[Isaiah 1:4-6](/bible/isaiah/1#v4)**
+    > <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
+    >
+    > <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
+    >
+    > <sup>[6](/bible/isaiah/1#v6)</sup> From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
+
+    Ah sinful nation, laden with iniquity; the whole head is sick, from the sole of the foot unto the head there is no soundness, but wounds, bruises and putrifying sores. Israel as a nation in Job's condition.
+  - **[Revelation 11:15](/bible/revelation/11#v15)**
+    > <sup>[15](/bible/revelation/11#v15)</sup> And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.
+
+    The seventh angel sounded, and the kingdoms of this world are become the kingdoms of our Lord and of his Christ. In seven there shall no evil touch thee.
+  - **[Isaiah 60:21-22](/bible/isaiah/60#v21)**
+    > <sup>[21](/bible/isaiah/60#v21)</sup> Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
+    >
+    > <sup>[22](/bible/isaiah/60#v22)</sup> A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time.
+
+    Thy people also shall be all righteous; they shall inherit the land for ever. A little one shall become a thousand: the Lord will bring certain spirits back quickly through marriage and childbearing.
+
+
+**[Psalms 91:1-16](/bible/psalms/91#v1)**  *[[2:51:20](https://www.youtube.com/watch?v=QNTH14obhzs&t=10280s)]*
+
+> <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+>
+> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
+>
+> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+>
+> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
+>
+> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
+>
+> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+>
+> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
+>
+> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
+>
+> <sup>[9](/bible/psalms/91#v9)</sup> Because thou hast made the Lord, which is my refuge, even the most High, thy habitation;
+>
+> <sup>[10](/bible/psalms/91#v10)</sup> There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
+>
+> <sup>[11](/bible/psalms/91#v11)</sup> For he shall give his angels charge over thee, to keep thee in all thy ways.
+>
+> <sup>[12](/bible/psalms/91#v12)</sup> They shall bear thee up in their hands, lest thou dash thy foot against a stone.
+>
+> <sup>[13](/bible/psalms/91#v13)</sup> Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
+>
+> <sup>[14](/bible/psalms/91#v14)</sup> Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
+>
+> <sup>[15](/bible/psalms/91#v15)</sup> He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.
+>
+> <sup>[16](/bible/psalms/91#v16)</sup> With long life will I satisfy him, and shew him my salvation.
+
+- He that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty. The secret place is the Bible; Deuteronomy 29:29 says the things revealed belong to us and our children that we may do all the words of this law. His truth, his law, is thy shield and buckler.
+
+- Thou shalt not be afraid for the arrow that flieth by day, the missile, nor the destruction that wasteth at noonday, which tells you the hour. A thousand shall fall at thy side and ten thousand at thy right hand, but it shall not come nigh thee; only with thine eyes shalt thou behold the reward of the wicked, because thou hast made the Lord thy refuge.
+
+- He shall give his angels charge over thee, to bear thee up lest thou dash thy foot against a stone. Matthew 24:31 shows the angels gathering the elect with a great sound of a trumpet; there will be so much destruction that the angels keep us from being hurt while our enemies are put to death.
+
+- Thou shalt tread upon the lion and adder and trample the dragon, the nations. Because he hath set his love upon me, I will deliver him, set him on high, answer him, be with him in trouble, and with long life satisfy him and shew him my salvation.
+
+  Precepts:
+  - **[Deuteronomy 29:29](/bible/deuteronomy/29#v29)**
+    > <sup>[29](/bible/deuteronomy/29#v29)</sup> The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
+
+    The secret things belong unto the Lord our God, but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
+  - **[Matthew 24:30-31](/bible/matthew/24#v30)**
+    > <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+    >
+    > <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+
+    They shall see the Son of man coming in the clouds with power and great glory, and he shall send his angels with a great sound of a trumpet to gather his elect from the four winds.
+
+
+**[Isaiah 17:12-14](/bible/isaiah/17#v12)**  *[[2:58:55](https://www.youtube.com/watch?v=QNTH14obhzs&t=10735s)]*
+
+> <sup>[12](/bible/isaiah/17#v12)</sup> Woe to the multitude of many people, which make a noise like the noise of the seas; and to the rushing of nations, that make a rushing like the rushing of mighty waters!
+>
+> <sup>[13](/bible/isaiah/17#v13)</sup> The nations shall rush like the rushing of many waters: but God shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.
+>
+> <sup>[14](/bible/isaiah/17#v14)</sup> And behold at eveningtide trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us.
+
+- Woe to the multitude of many people, the rushing of nations like the rushing of mighty waters; many waters in prophecy are nations. God shall rebuke them and they shall be chased as chaff before the wind and a rolling thing before the whirlwind.
+
+- At eveningtide trouble, and before the morning he is not. That is how fast the Lord does away with the wicked. This is the portion of them that spoil us, and the lot of them that rob us.
+
+
+**[Job 20:4-29](/bible/job/20#v4)**  *[[3:00:15](https://www.youtube.com/watch?v=QNTH14obhzs&t=10815s)]*
+
+> <sup>[4](/bible/job/20#v4)</sup> Knowest thou not this of old, since man was placed upon earth,
+>
+> <sup>[5](/bible/job/20#v5)</sup> That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
+>
+> <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
+>
+> <sup>[7](/bible/job/20#v7)</sup> Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
+>
+> <sup>[8](/bible/job/20#v8)</sup> He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.
+>
+> <sup>[9](/bible/job/20#v9)</sup> The eye also which saw him shall see him no more; neither shall his place any more behold him.
+>
+> <sup>[10](/bible/job/20#v10)</sup> His children shall seek to please the poor, and his hands shall restore their goods.
+>
+> <sup>[11](/bible/job/20#v11)</sup> His bones are full of the sin of his youth, which shall lie down with him in the dust.
+>
+> <sup>[12](/bible/job/20#v12)</sup> Though wickedness be sweet in his mouth, though he hide it under his tongue;
+>
+> <sup>[13](/bible/job/20#v13)</sup> Though he spare it, and forsake it not; but keep it still within his mouth:
+>
+> <sup>[14](/bible/job/20#v14)</sup> Yet his meat in his bowels is turned, it is the gall of asps within him.
+>
+> <sup>[15](/bible/job/20#v15)</sup> He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.
+>
+> <sup>[16](/bible/job/20#v16)</sup> He shall suck the poison of asps: the viper’s tongue shall slay him.
+>
+> <sup>[17](/bible/job/20#v17)</sup> He shall not see the rivers, the floods, the brooks of honey and butter.
+>
+> <sup>[18](/bible/job/20#v18)</sup> That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
+>
+> <sup>[19](/bible/job/20#v19)</sup> Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;
+>
+> <sup>[20](/bible/job/20#v20)</sup> Surely he shall not feel quietness in his belly, he shall not save of that which he desired.
+>
+> <sup>[21](/bible/job/20#v21)</sup> There shall none of his meat be left; therefore shall no man look for his goods.
+>
+> <sup>[22](/bible/job/20#v22)</sup> In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
+>
+> <sup>[23](/bible/job/20#v23)</sup> When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
+>
+> <sup>[24](/bible/job/20#v24)</sup> He shall flee from the iron weapon, and the bow of steel shall strike him through.
+>
+> <sup>[25](/bible/job/20#v25)</sup> It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him.
+>
+> <sup>[26](/bible/job/20#v26)</sup> All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.
+>
+> <sup>[27](/bible/job/20#v27)</sup> The heaven shall reveal his iniquity; and the earth shall rise up against him.
+>
+> <sup>[28](/bible/job/20#v28)</sup> The increase of his house shall depart, and his goods shall flow away in the day of his wrath.
+>
+> <sup>[29](/bible/job/20#v29)</sup> This is the portion of a wicked man from God, and the heritage appointed unto him by God.
+
+- Knowest thou not that the triumphing of the wicked is short, and the joy of the hypocrite but for a moment? It seems long, but the Bible says short. Though his excellency mount up to the heavens and his head reach the clouds, the one flying planes and travelling space, he shall perish for ever like his own dung.
+
+- They which have seen him shall say, Where is he? He shall fly away as a dream and be chased away as a vision of the night, a nightmare you wake up from. His children shall seek to please the poor, and his hands shall restore their goods: the Bible already prophesied reparations, so do not worry about them.
+
+- His bones are full of the sin of his youth, all the way back to Cain, not just 1776. Wickedness is sweet in his mouth and he hides it under his tongue: the president and first lady drawn as monkeys, and no apology, and never believe their apologies when they come.
+
+- Though he spare it and forsake it not: he spared his wickedness for sixty years, from civil rights in 1965 until now, and we squandered the time we had to organize the twelve tribes. Now the mask comes off, Black History Month goes, and he shows you he is the devil. The Most High is allowing it because we played games.
+
+- He hath swallowed down riches and he shall vomit them up again; God shall cast them out of his belly. He shall not see the rivers of honey and butter, the kingdom; he will be a servant there. That which he laboured for shall he restore according to his substance, and restitution is another word for reparations, and he shall not rejoice therein because he oppressed and forsook the poor and took away houses he did not build. Negroes built the White House.
+
+- When he is about to fill his belly, when they say peace and safety, God shall cast the fury of his wrath upon him while he is eating. He shall flee from the iron weapon, the intercontinental ballistic missile, and the bow of steel shall strike him through. A fire not blown, nuclear fire, shall consume him; whoever is left in his tabernacle, the USA, it shall go ill with him; and the heaven shall reveal his iniquity and the earth rise up against him. This is the portion of a wicked man from God.
+
+- The Most High caused him to build the very weapon that ends it. He has the whole scene in his hands.
+
+
+## Class Questions
+
+- **Why is the class called Edom's Achilles' heel?** Achilles could only be killed at the heel his mother held him by. Jacob came out holding Esau's heel, 2 Esdras 6 says Esau is the end of the world and Jacob the beginning of what follows, and Daniel 2 has the stone cut without hands striking the image on its feet, the last empire of iron and clay. Esau's one vulnerability is the heel, the end of his rule, when Christ the stone breaks him without hand.
+- **How do we know the Greeks, Romans and Europeans are Edom?** From their own scholars. The Chronology of Ancient Nations and The Rise of Christendom trace Philip of Macedon to Esau; Modern Judaism records that Esau's descendants founded Rome, destroyed the second temple, embraced Christianity and hold dominion over Europe with Jacob in captivity; and Smith's Bible Dictionary reports Julius Caesar and Titus as Idumeans and Edom in Obadiah as Rome and the Christians.
+- **Who is the fourth beast and its little horn?** Daniel 7 names no animal for the fourth beast, and 2 Esdras 12 reveals it as the eagle. It is Rome, continued through America and NATO, whose ten horns are the same ten of Revelation 17. The little horn that plucked up three horns, France, Britain and Spain, is America, with eyes of vision, a mouth of great words, and the intent to change times and laws.
+- **What is the end of the wicked, and what happens to what he took?** Psalm 73 says God set him in slippery places to be brought into desolation in a moment. Job 20 says his triumphing is short: he flees the iron weapon, a fire not blown consumes him, and he vomits up the riches he swallowed and restores what he laboured for, which is reparations already prophesied. Psalm 91 and Job 5 say Israel will watch with its eyes, borne up by angels, and laugh at destruction.
+
+## In Closing
+
+*[[3:11:23](https://www.youtube.com/watch?v=QNTH14obhzs&t=11483s)]* The heaven shall reveal his iniquity and the earth shall rise up against him; his goods shall flow away in the day of God's wrath. This is the portion of a wicked man from God, the heritage appointed him. The Most High caused Esau to build the iron weapon that ends it all, and he holds the whole scene, so twelve tribes: the party is not over for Edom, but the stone is coming for the heel.
+
+## Announcements & References
+
+- Passover is a couple of months away; support the brothers and sisters travelling from out of state.
+- IUIC Arkansas: the Arkansas Takeover 3.0 docuseries, twelve cities in six months, four episodes premiering on the next four Sundays; and the first exclusive cookoff on IUIC TV.
+- IUIC Shreveport was invited back to the Kim Money MLK celebration; IUIC Cincinnati and IUIC Indiana held a barbershop sit-down.
+- Feast of Nicanor begins February 13 at sundown; Feast of Purim runs February 14 to 15 at sundown. Both are memorials, not Sabbaths. Next fast date is February 27.
+- Original Royalty: the Loop playlists on Spotify and Apple Music; the single Bad Habits and The Pen's third album Saving Sarah's Daughters release at Purim, with a listening party and livestream on February 14; Purim sale, fifteen percent off select 2025 merchandise.
+- Subscribe to IUIC Cape Verde and Sao Tome, IUIC Japan, and IUIC Diaspora 2.0; the platforms are shadow-banning the camp, including the Bishop's latest London video.
+- Booster Club mission 187 to Santo Domingo, Dominican Republic, was completed with a community cleanup; documentary on the Leon, Mexico work is coming.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=QNTH14obhzs)
