@@ -2,7 +2,7 @@
 title: "SHE REVERENCE HER HUSBAND: Submission, Grace & Self-Examination of a Biblical Wife"
 slug: "2026/2026-09-12-she-reverence-her-husband-submission-grace-self-examination-of-a-biblical-wife"
 date: "2026-09-12"
-teacher: "Deacon Yoshua"
+teacher: "Deacon Yashua"
 description: "IUIC in the ClassRoom · 2026-09-12"
 tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 ---
