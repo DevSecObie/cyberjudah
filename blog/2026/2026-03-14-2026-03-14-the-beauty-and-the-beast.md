@@ -1,0 +1,590 @@
+---
+title: "The Beauty And The Beast"
+slug: "2026/2026-03-14-the-beauty-and-the-beast"
+date: "2026-03-14"
+teacher: "Captain Mattathias"
+description: "IUIC in the ClassRoom · 2026-03-14"
+tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-03-14</p>
+
+<span class="opens"><b>Opens</b> [Rev 13](/bible/revelation/13) · [Rev 17](/bible/revelation/17) · [2 Cor 4](/bible/2-corinthians/4) · [Amos 9](/bible/amos/9) · [2 Esdras 15](/bible/2-esdras/15) · [Sir 25](/bible/sirach/25) · [Prov 16](/bible/proverbs/16) · [Luke 13](/bible/luke/13) · [Prov 29](/bible/proverbs/29) · [Sir 4](/bible/sirach/4) · [Sir 34](/bible/sirach/34)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="gTc6TQLSDrI"></div>
+
+## Introduction
+
+*[[5:46](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=346s)]* Captain Mattathias's 9 a.m. Sabbath class, The Beauty and the Beast, with Officer Hezekiah. The first half reads the beast of Revelation 13 and 17 against the week's news: Iran's new leader vowing revenge for the bombed school, the Strait of Hormuz closed, and Europe, Canada, Spain, and Germany pulling away from America's war, which is the ten horns beginning to hate the whore. The second half turns inward for Passover season: the beast is also the well-favoured harlot whose pleasures mesmerize us, so overcome her by purging the leaven, staying around the righteous, taking correction, learning discipline, seeking wisdom like Solomon, and fearing the Lord who comes as a lion to fight for mount Zion.
+
+## In The News
+
+- *[[6:45](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=405s)]* **The thumbnail animation: this is the vision, the beast with ten horns and seven heads; keep walking, redemption is nigh.** — Shout out to the thumbnail team.
+- *[[8:09](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=489s)]* **Iran's new supreme leader, son of the assassinated Ayatollah, vows revenge for every death, especially the 175 mostly children killed at the school in Minab, keeps the Strait of Hormuz closed with mines laid and oil back over a hundred dollars, and urges the Gulf states to shut the American bases. A preliminary US military investigation blames outdated targeting data; Trump says he does not know about it.** — First they called it a mistake, then blamed Iran, now Trump knows nothing. Ezekiel 28:3 says they are wiser than Daniel with no secret hid from them, so how did they mistake a school for a base? Psalms 58:3, they lie from the womb. The Strait carries a fifth of the world's oil.
+- *[[25:42](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1542s)]* **A short history of NATO and the Warsaw Pact: twelve nations signed the North Atlantic Treaty in Washington in 1949 with Article 5 making an attack on one an attack on all, Greece, Turkey, and West Germany joined, the Soviets answered with the Warsaw Pact in 1955, and the pact dissolved in 1991.** — Revelation 17:12-13: ten kings receiving power one hour with the beast, of one mind, giving their strength to it. The Bible is prophetic and comes to life over time.
+- *[[30:21](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1821s)]* **France and Italy open talks with Iran for their vessels to pass the Strait of Hormuz after a week-long standstill, as Iran threatens to burn any ship passing without permission.** — Europe negotiating with Iran while America still blocks is a conflict of interest: we agreed to give you power, but this is your war, Trump.
+- *[[32:21](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1941s)]* **Canada's prime minister tells parliament Canada will never join American offensive operations against Iran; German chancellor Merz says Germany shares some goals but sees no plan to end the war, condemns Iran's strikes on Germany's partners in the region, and warns against an endless war or Iran's collapse.** — Europe is not staying quiet. They see the oil prices, the destabilization, and their Gulf allies being bombed.
+- *[[37:32](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2252s)]* **Spain permanently withdraws its ambassador to Israel over Spain's opposition to the US-Israeli attacks on Iran, after banning weapons flights and ships to Israel over Gaza; Israel's foreign minister calls it anti-Semitic. A Greek clip in the same vein.** — Greece, Spain, Germany, Italy, France: the ten horns beginning to hate the whore, Revelation 17:16.
+- *[[46:24](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2784s)]* **Netanyahu announcing the offensive on Iran two days before Purim, invoking Persia rising against the Jews 2,500 years ago, and the next day calling Tehran Amalek.** — Purim is Esther and Mordecai against Haman the Amalekite, Esau Edom, who wanted to eradicate all of us; Esther, married to the Persian king, moved his heart to kill Haman. Now the man pretending to be us calls the Persians Amalek. If the Persians are Amalek, who are the Persians? Netanyahu and his crew are the Amalekites.
+- *[[49:11](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2951s)]* **A European parliamentarian: Trump, Putin, Xi, and the tech autocrats all fear a united Europe and want twenty-seven weak nations; this is Europe's moment of independence; we need a United States of Europe now.** — The Lord is doing his job; it is time for us to do ours.
+- *[[1:53:55](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6835s)]* **A sitcom scene of a man starting a fight over chicken for dinner so he can storm out to get some duck.** — Sirach 32:17, the sinful man finds an excuse according to his will. Bishop's coworker started fights with one woman to go see the other. You blame everybody else when really you want to go to your pleasure and your lust. As the Bishop's graphic says, a sin-filled soul finds and makes excuses only to fulfil its lust.
+- *[[1:58:19](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=7099s)]* **A psychiatrist explains why a child with ADHD can play video games for hours but not do homework: the game gives continuous immediate consequences and the homework's consequences are delayed; put such a person where there are no consequences and failure is guaranteed because he cannot self-motivate.** — Keeping the commandments has delayed gratification, the kingdom, while sin gives instant dopamine, so a deceived man stops seeing any reason to keep the law. In this truth you must self-motivate; nobody is coming to give you a pep talk. Wisdom raineth down skill.
+
+## Scriptures Opened
+
+**[Revelation 13:1-6](/bible/revelation/13#v1)**  *[[15:46](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=946s)]*
+
+> <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+>
+> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+>
+> <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+>
+> <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
+>
+> <sup>[5](/bible/revelation/13#v5)</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
+>
+> <sup>[6](/bible/revelation/13#v6)</sup> And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
+
+- A beast rises out of the sea with seven heads and ten horns, ten crowns, and the name of blasphemy on his heads; he opens his mouth to blaspheme God, his tabernacle, and them that dwell in heaven, the Most High, Christ, and the angels. They lie against God's people and God himself.
+
+- The seven heads are Greece, Rome, Spain, France, Germany, Russia, and Great Britain. The ten horns are the ten common markets, the EU, and NATO on the military side, now over thirty.
+
+- A ranking man among us re-enlisted in the army in the middle of Bible prophecy, knowing he will be deployed. Everyone in purple and gold is not in the right mindset, and Passover is around the corner: the purging begins, people drop, because the leaven has to be removed.
+
+  Precepts:
+  - **[Ezekiel 28:3](/bible/ezekiel/28#v3)**
+    > <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
+
+    Behold, thou art wiser than Daniel; there is no secret that they can hide from thee. Daniel interpreted dreams; America interprets your next move with its surveillance. That is why the school strike was no mistake.
+  - **[Revelation 12:3](/bible/revelation/12#v3)**
+    > <sup>[3](/bible/revelation/12#v3)</sup> And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
+
+    A great red dragon in heaven, in rulership, with seven heads and ten horns. The beast is the red dragon. Genesis 25:25: the first came out red all over like an hairy garment and they called his name Esau; Jacob needed no description because he looked like everyone else with dark pigmentation.
+
+
+**[Revelation 17:1-18](/bible/revelation/17#v1)**  *[[19:12](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1152s)]*
+
+> <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
+>
+> <sup>[2](/bible/revelation/17#v2)</sup> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
+>
+> <sup>[3](/bible/revelation/17#v3)</sup> So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
+>
+> <sup>[4](/bible/revelation/17#v4)</sup> And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
+>
+> <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+>
+> <sup>[6](/bible/revelation/17#v6)</sup> And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
+>
+> <sup>[7](/bible/revelation/17#v7)</sup> And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
+>
+> <sup>[8](/bible/revelation/17#v8)</sup> The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
+>
+> <sup>[9](/bible/revelation/17#v9)</sup> And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
+>
+> <sup>[10](/bible/revelation/17#v10)</sup> And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space.
+>
+> <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
+>
+> <sup>[12](/bible/revelation/17#v12)</sup> And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
+>
+> <sup>[13](/bible/revelation/17#v13)</sup> These have one mind, and shall give their power and strength unto the beast.
+>
+> <sup>[14](/bible/revelation/17#v14)</sup> These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
+>
+> <sup>[15](/bible/revelation/17#v15)</sup> And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
+>
+> <sup>[16](/bible/revelation/17#v16)</sup> And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
+>
+> <sup>[17](/bible/revelation/17#v17)</sup> For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
+>
+> <sup>[18](/bible/revelation/17#v18)</sup> And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
+
+- The woman on the scarlet beast, the well-favoured harlot, sits on the Hudson River; her skirt is being pulled and the world sees she is not the virgin she portrays.
+
+- The beast that was, and is not, and shall ascend out of the bottomless pit, Europe and Great Britain, and go into perdition. They that dwell on the earth whose names were not written in the book of life shall wonder: Esau Edom's names are not written, and only the Israelites, the so-called blacks, Hispanics, and Native Americans, are. That is good news.
+
+- Seven mountains, seven European kingdoms; five fallen, one is (Rome), the other not yet come (Great Britain) who continues a short space; the beast is the eighth and of the seven, because the Americans migrated from England. The ten horns received no kingdom as yet but receive power one hour with the beast: NATO, formed in 1949, with America at the front.
+
+- The ten horns shall hate the whore, make her desolate and naked, eat her flesh, and burn her with fire: intercontinental ballistic missiles. Trump badmouths NATO over dues and threatens to end it, and now Europe does not want a long war. Before that comes, we must achieve abstinence, discipline, overcoming, and unity.
+
+  Precepts:
+  - **[Romans 13:11](/bible/romans/13#v11)**
+    > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
+
+    Now it is high time to awake out of sleep, for now is our salvation nearer than when we believed. Passover is about the destruction of our enemies and our deliverance from their hands; how fitting in a time like this. Deacon Yoshua in Phoenix said it: prophecy should move us to correction, not entertain us.
+  - **[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**
+    > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
+    >
+    > <sup>[2](/bible/zephaniah/2#v2)</sup> Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
+
+    Gather yourselves together, O nation not desired, before the decree bring forth. They label us minorities, blacks, Hispanics, Dalits, Afro-Iranians, Afro-Palestinians, hated wherever we are scattered; Israelite unity is what they fear most. The decree is already made.
+  - **[2 Peter 3:9-11](/bible/2-peter/3#v9)**
+    > <sup>[9](/bible/2-peter/3#v9)</sup> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
+    >
+    > <sup>[10](/bible/2-peter/3#v10)</sup> But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
+    >
+    > <sup>[11](/bible/2-peter/3#v11)</sup> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
+
+    The Lord is not slack concerning his promise but longsuffering, not willing that any should perish but that all come to repentance; still the day of the Lord will come as a thief, the heavens pass away with a great noise, and the elements melt with fervent heat, nuclear fire. Seeing all these things shall be dissolved, what manner of persons ought ye to be? Popcorn is not a sin, but if watching is all you do without applying, now is the time to work like never before.
+
+
+**[2 Corinthians 4:18](/bible/2-corinthians/4#v18)**  *[[50:47](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=3047s)]*
+
+> <sup>[18](/bible/2-corinthians/4#v18)</sup> While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
+
+- We look not at the things which are seen, which are temporal, but at the things not seen, which are eternal. America influences the whole world in music and culture, but this power will fall; the kingdom we cannot see yet lasts forever. Stack your bricks and do not be a situational Israelite.
+
+  Precepts:
+  - **[2 Timothy 2:4](/bible/2-timothy/2#v4)**
+    > <sup>[4](/bible/2-timothy/2#v4)</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
+
+    No man that warreth entangleth himself with the affairs of this life, that he may please him who chose him to be a soldier. Christ chose us; when Ezekiel saw the exceeding great army he saw purple and gold, because who else is going nation to nation and island to island teaching?
+  - **[Romans 12:2](/bible/romans/12#v2)**
+    > <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+
+    Be not conformed to this world but transformed by the renewing of your mind. New creatures in Christ; if you feel Satan raising his head and the old man coming back, do everything to deaden that spirit.
+  - **[Hebrews 12:1](/bible/hebrews/12#v1)**
+    > <sup>[1](/bible/hebrews/12#v1)</sup> Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
+
+    Lay aside every weight and the sin which doth so easily beset us, and run with patience the race. Wisdom of Solomon 9:15: the corruptible body presseth down the soul. Some things stop when you come in, pork, Sabbath-breaking, the beard, but lust, hatred, and covetousness do not go away; you learn to keep that Negro or Latino in check until you die or Christ returns. Do not worry about the war in Iran; God has that. Worry about the day-to-day war.
+  - **[1 Corinthians 7:31](/bible/1-corinthians/7#v31)**
+    > <sup>[31](/bible/1-corinthians/7#v31)</sup> And they that use this world, as not abusing it: for the fashion of this world passeth away.
+
+    They that use this world as not abusing it, for the fashion of this world passeth away. Use the things of the world without leaning on them over Christ; the fear should kick in on its own, so nobody has to keep checking you. Sirach 1:19, wisdom raineth down skill; walking with Christ should make you skilful in the word by default.
+
+
+**[Amos 9:9-10](/bible/amos/9#v9)**  *[[58:32](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=3512s)]*
+
+> <sup>[9](/bible/amos/9#v9)</sup> For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
+>
+> <sup>[10](/bible/amos/9#v10)</sup> All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
+
+- I will sift the house of Israel among all nations as corn in a sieve, yet not the least grain shall fall. The Lord knows who is who; his angels sort Israelite from tare, not us.
+
+- All the sinners of my people shall die by the sword, which say the evil shall not overtake nor prevent us. Some of you carry that spirit: I am an Israelite, the Lord will give me mercy. If you fall, get back up immediately, because that mindset has this future.
+
+  Precepts:
+  - **[Jeremiah 51:6](/bible/jeremiah/51#v6)**
+    > <sup>[6](/bible/jeremiah/51#v6)</sup> Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the Lord’s vengeance; he will render unto her a recompence.
+
+    Flee out of the midst of Babylon and deliver every man his soul. Physically, the day may come to move to another land or city to keep the gospel moving; spiritually, flee the ways of the beast now. Deliver the real you under the sinful flesh, and do not be like Lot's wife.
+
+
+**[2 Esdras 15:1-7](/bible/2-esdras/15#v1)**  *[[1:02:06](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=3726s)]*
+
+> <sup>[1](/bible/2-esdras/15#v1)</sup> Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
+>
+> <sup>[2](/bible/2-esdras/15#v2)</sup> And cause them to be written in paper: for they are faithful and true.
+>
+> <sup>[3](/bible/2-esdras/15#v3)</sup> Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
+>
+> <sup>[4](/bible/2-esdras/15#v4)</sup> For all the unfaithful shall die in their unfaithfulness.
+>
+> <sup>[5](/bible/2-esdras/15#v5)</sup> Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
+>
+> <sup>[6](/bible/2-esdras/15#v6)</sup> For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled.
+>
+> <sup>[7](/bible/2-esdras/15#v7)</sup> Therefore saith the Lord,
+
+- Speak in the ears of my people the words of prophecy and write them, for they are faithful and true. That is why the bishops and deacons go into prophecy: not entertainment, but the reality that it is salvation or destruction depending on what you do in this life.
+
+- Fear not the imaginations against thee, let not the incredulity of them trouble thee. About eighty percent of the prophecies heard in this truth have come to pass; leadership said in 2018 they would change the Passover doctrine and they did. Be patient and let nobody sway your faith; haters mean you are doing right.
+
+- All the unfaithful shall die in their unfaithfulness. You say you are faithful to God but disloyal to your brother; that is the same thing, because loyalty to God is shown through his people. No time for backstabbing and bitterness.
+
+- I will bring plagues upon the world, the sword, famine, death, and destruction, for wickedness hath exceedingly polluted the whole earth and their hurtful works are fulfilled. Esau did that: Malachi calls Edom the border of wickedness, and 1 Maccabees 1:9 says after Alexander's death evils were multiplied in the earth, from the Greeks through Rome, Spain, France, Germany, Britain, Russia, and America.
+
+  Precepts:
+  - **[1 Maccabees 1:9](/bible/1-maccabees/1#v9)**
+    > <sup>[9](/bible/1-maccabees/1#v9)</sup> And after his death they all put crowns upon themselves; so did their sons after them many years: and evils were multiplied in the earth.
+
+    After Alexander's death they all put crowns upon themselves, so did their sons after them many years, and evils were multiplied in the earth.
+  - **[Isaiah 60:1-2](/bible/isaiah/60#v1)**
+    > <sup>[1](/bible/isaiah/60#v1)</sup> Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
+    >
+    > <sup>[2](/bible/isaiah/60#v2)</sup> For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
+
+    Arise, shine, for thy light is come: awake to righteousness and go teach. Darkness shall cover the earth, the nations defiled by Edom, and gross darkness the people, God's people, affected by it. But the Lord shall arise upon thee, on those who want to stop sinning, not those taking advantage of his mercy.
+  - **[Revelation 18:7](/bible/revelation/18#v7)**
+    > <sup>[7](/bible/revelation/18#v7)</sup> How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow.
+
+    She saith in her heart, I sit a queen and shall see no sorrow. If you think no harm will come to you in your sins, Amos 9:10, you have Edom's characteristic. You cannot get salvation unless she is destroyed, so remaining in your sins means you want America to continue. This is for the brothers and sisters who fade and always have something more important.
+
+
+**[Sirach 25:21](/bible/sirach/25#v21)**  *[[1:10:44](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=4244s)]*
+
+> <sup>[21](/bible/sirach/25#v21)</sup> Stumble not at the beauty of a woman, and desire her not for pleasure.
+
+- Stumble not at the beauty of a woman, and desire her not for pleasure. Many of you see America as a gorgeous woman and are mesmerized; every pleasure is available in her. Many brothers fall by harlots, and you do not have to pick up a prostitute to be dealing with the mother of all harlots.
+
+  Precepts:
+  - **[2 Timothy 3:1-4](/bible/2-timothy/3#v1)**
+    > <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
+    >
+    > <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+    >
+    > <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+    >
+    > <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
+
+    In the last days men shall be lovers of their own selves, without natural affection (minors, the same sex), trucebreakers, despisers of those that are good (I just don't like that brother; what does he do? teach the word of God), traitors, lovers of pleasures more than lovers of God. Love pleasure more than God and you make excuses to feed the lust and stop showing up for the work.
+  - **[Hebrews 11:24-25](/bible/hebrews/11#v24)**
+    > <sup>[24](/bible/hebrews/11#v24)</sup> By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
+    >
+    > <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
+
+    Moses refused to be called the son of Pharaoh's daughter, choosing affliction with the people of God over the pleasures of sin for a season. He gave up status in Egypt, so the nice job is no excuse. This is temporary; be robotic and get the feelings out of it, because feelings get you killed.
+  - **[Isaiah 13:19](/bible/isaiah/13#v19)**
+    > <sup>[19](/bible/isaiah/13#v19)</sup> And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah.
+
+    Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah. Seeing seven crowns and ten toes on the Statue of Liberty should make you say the Bible is true, not God bless America. Stop gazing at her pleasures; wake up.
+  - **[Nahum 3:4](/bible/nahum/3#v4)**
+    > <sup>[4](/bible/nahum/3#v4)</sup> Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.
+
+    The well-favoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms and families through her witchcrafts. They sold us, which is how we got here. If you are down with America you are down with the devil.
+  - **[Revelation 18:4](/bible/revelation/18#v4)**
+    > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
+
+    Come out of her, my people, that ye be not partakers of her sins and receive not of her plagues. Mystery Babylon, mother of harlots and abominations. The Lord is still sending plagues, remember the pandemic; come out spiritually so that is not your condemnation.
+  - **[Ezekiel 28:7](/bible/ezekiel/28#v7)**
+    > <sup>[7](/bible/ezekiel/28#v7)</sup> Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
+
+    I will bring strangers upon thee, the terrible of the nations, terrorists, and they shall draw their swords against the beauty of thy wisdom and defile thy brightness. Wisdom is double, Job 11:6: contextually the king of Tyrus, prophetically America, which everyone thought untouchable. It decays from the inside out, then the finale with the ten horns, and its pretence of moral world police is defiled.
+
+
+**[Proverbs 16:6](/bible/proverbs/16#v6)**  *[[1:22:40](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=4960s)]*
+
+> <sup>[6](/bible/proverbs/16#v6)</sup> By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.
+
+- By mercy and truth iniquity is purged, and by the fear of the Lord men depart from evil. Christ strengthens you to resist sin; that is why we remove the leaven, which represents sin. Purge means to free from moral defilement and to cause evacuation: get the leaven out of the house, put the blood on the doorpost, and be delivered from your captors.
+
+- The fear is not the fear of the servant who hid his talent or the brother making excuses because he is nervous; Psalms 119:120, my flesh trembleth for fear of thee and I am afraid of thy judgments. He is the King of terrors.
+
+  Precepts:
+  - **[John 15:1-5](/bible/john/15#v1)**
+    > <sup>[1](/bible/john/15#v1)</sup> I am the true vine, and my Father is the husbandman.
+    >
+    > <sup>[2](/bible/john/15#v2)</sup> Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+    >
+    > <sup>[3](/bible/john/15#v3)</sup> Now ye are clean through the word which I have spoken unto you.
+    >
+    > <sup>[4](/bible/john/15#v4)</sup> Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
+    >
+    > <sup>[5](/bible/john/15#v5)</sup> I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+
+    I am the true vine, the root and offspring of David, Revelation 22:16, and my Father is the husbandman; ye are God's husbandry, 1 Corinthians 3:9. Every branch that beareth not fruit he taketh away, because one bad apple spoils the bunch and hinders growth; every branch that beareth fruit he purgeth that it may bring forth more. Abide in me, for the branch cannot bear fruit of itself.
+  - **[2 Timothy 2:19-21](/bible/2-timothy/2#v19)**
+    > <sup>[19](/bible/2-timothy/2#v19)</sup> Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
+    >
+    > <sup>[20](/bible/2-timothy/2#v20)</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
+    >
+    > <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
+
+    The Lord knoweth them that are his, and he establishes leaders to guide you past the wiles of Satan. In a great house, Israel, there are vessels of gold and silver and also of wood and earth, some to honour and some to dishonour. Purge yourself from the wood and earth, the dead spirits always in some mess who separate from leadership and sit with the clique in the back, and you will be a vessel unto honour, meet for the master's use. You learned what the new moon was from a leadership video and now you avoid them?
+  - **[2 Peter 1:4-9](/bible/2-peter/1#v4)**
+    > <sup>[4](/bible/2-peter/1#v4)</sup> Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
+    >
+    > <sup>[5](/bible/2-peter/1#v5)</sup> And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
+    >
+    > <sup>[6](/bible/2-peter/1#v6)</sup> And to knowledge temperance; and to temperance patience; and to patience godliness;
+    >
+    > <sup>[7](/bible/2-peter/1#v7)</sup> And to godliness brotherly kindness; and to brotherly kindness charity.
+    >
+    > <sup>[8](/bible/2-peter/1#v8)</sup> For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.
+    >
+    > <sup>[9](/bible/2-peter/1#v9)</sup> But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.
+
+    Partakers of the divine nature, having escaped the corruption in the world through lust; add to your faith virtue, knowledge, temperance, patience, godliness, brotherly kindness, charity. Knowing that Christ is black is not enough; add to your repertoire. If these abound you shall not be barren nor unfruitful, and you will not be purged out. He that lacketh them is blind, cannot see afar off that America is destroyed and salvation is coming, and has forgotten he was purged from his old sins. Keep trimming or you end up back in the old folly.
+
+
+**[Luke 13:20-21](/bible/luke/13#v20)**  *[[1:34:57](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=5697s)]*
+
+> <sup>[20](/bible/luke/13#v20)</sup> And again he said, Whereunto shall I liken the kingdom of God?
+>
+> <sup>[21](/bible/luke/13#v21)</sup> It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.
+
+- The kingdom is like leaven a woman hid in three measures of meal till the whole was leavened. Leaven grows.
+
+  Precepts:
+  - **[1 Corinthians 5:6-7](/bible/1-corinthians/5#v6)**
+    > <sup>[6](/bible/1-corinthians/5#v6)</sup> Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?
+    >
+    > <sup>[7](/bible/1-corinthians/5#v7)</sup> Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:
+
+    A little leaven leaveneth the whole lump; purge out the old leaven that ye may be a new lump, for Christ our passover is sacrificed for us. Leaven left among Israelites spreads and defiles others, so purge it from your spirit and from the congregations.
+  - **[Matthew 16:6-12](/bible/matthew/16#v6)**
+    > <sup>[6](/bible/matthew/16#v6)</sup> Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
+    >
+    > <sup>[7](/bible/matthew/16#v7)</sup> And they reasoned among themselves, saying, It is because we have taken no bread.
+    >
+    > <sup>[8](/bible/matthew/16#v8)</sup> Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
+    >
+    > <sup>[9](/bible/matthew/16#v9)</sup> Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?
+    >
+    > <sup>[10](/bible/matthew/16#v10)</sup> Neither the seven loaves of the four thousand, and how many baskets ye took up?
+    >
+    > <sup>[11](/bible/matthew/16#v11)</sup> How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
+    >
+    > <sup>[12](/bible/matthew/16#v12)</sup> Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
+
+    Beware of the leaven of the Pharisees and Sadducees; the disciples thought he meant bread, but he meant their doctrine, their say-and-do-not hypocrisy. They were Israelites. When leaders warn you of leaven, listen; when you see a spirit on someone who can influence you negatively, consider the end of their conversation, Hebrews 13:7.
+  - **[2 Corinthians 2:11](/bible/2-corinthians/2#v11)**
+    > <sup>[11](/bible/2-corinthians/2#v11)</sup> Lest Satan should get an advantage of us: for we are not ignorant of his devices.
+
+    Lest Satan should get an advantage of us, for we are not ignorant of his devices. Every Passover the same thing happens and people who have seen it before still fall for it. Not studying, not praying, not getting your four chapters: Satan has you where he wants you.
+  - **[Sirach 21:12](/bible/sirach/21#v12)**
+    > <sup>[12](/bible/sirach/21#v12)</sup> He that is not wise will not be taught: but there is a wisdom which multiplieth bitterness.
+
+    He that is not wise will not be taught, but there is a wisdom which multiplieth bitterness: seeing it your own way. Sirach 3:26, a stubborn heart shall fare evil at the last, and he that loveth danger shall perish therein.
+  - **[Sirach 10:12](/bible/sirach/10#v12)**
+    > <sup>[12](/bible/sirach/10#v12)</sup> The beginning of pride is when one departeth from God, and his heart is turned away from his Maker.
+
+    The beginning of pride is when one departeth from God, and his heart is turned away from his Maker. When your study habits change and you pull back from the believers, pride has set in and you are regressing.
+  - **[Hebrews 3:13](/bible/hebrews/3#v13)**
+    > <sup>[13](/bible/hebrews/3#v13)</sup> But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
+
+    Exhort one another daily, while it is called today, lest any of you be hardened through the deceitfulness of sin. Exhortation cannot happen if you are around nobody. Sin feels good but deceives; pull away and you may never recover. 2 Thessalonians 2:9-11: America came after the working of Satan with lying wonders; those who received not the love of the truth get strong delusion to believe a lie, still alive with a dead soul.
+
+
+**[Proverbs 29:20](/bible/proverbs/29#v20)**  *[[1:46:35](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6395s)]*
+
+> <sup>[20](/bible/proverbs/29#v20)</sup> Seest thou a man that is hasty in his words? there is more hope of a fool than of him.
+
+- Seest thou a man that is hasty in his words? There is more hope of a fool than of him. Fools do not take heed to the commandments, 1 Samuel 13:13. If you act on impulse, learn patience, resolve, and discipline.
+
+- Proverbs 25:28: he that hath no rule over his own spirit is like a city broken down without walls. Anyone can invade your spirit, and around the wrong spirits you are gone.
+
+- Romans 6:16-19: to whom ye yield yourselves servants to obey, his servants ye are. Fall into sin and you worship the devil in that moment; you cannot serve two masters. As ye yielded your members to uncleanness, now yield them to righteousness unto holiness. Satan says you fell and cannot get up; you can repent, that is why Christ came.
+
+  Precepts:
+  - **[Sirach 7:36](/bible/sirach/7#v36)**
+    > <sup>[36](/bible/sirach/7#v36)</sup> Whatsoever thou takest in hand, remember the end, and thou shalt never do amiss.
+
+    Whatsoever thou takest in hand, remember the end, and thou shalt never do amiss. Around the right people, when tempted you think it through, remember the judgment, and the fear activates.
+  - **[Hebrews 12:15](/bible/hebrews/12#v15)**
+    > <sup>[15](/bible/hebrews/12#v15)</sup> Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
+
+    Looking diligently lest any man fail of the grace of God, lest any root of bitterness springing up trouble you. Not occupied in the work and the study, bitterness springs up; separate from your people and Satan plays on your psyche: they never liked you anyway. 1 Peter 5:8, be sober and vigilant, for the devil walks about seeking whom he may devour, as he desired to sift Peter.
+  - **[Sirach 32:17](/bible/sirach/32#v17)**
+    > <sup>[17](/bible/sirach/32#v17)</sup> A sinful man will not be reproved, but findeth an excuse according to his will.
+
+    A sinful man will not be reproved, but findeth an excuse according to his will. Do not hear a class like this and say that ain't it; that is the excuse to go back to your pleasure. Sirach 6:4, a wicked soul shall destroy him that hath it and make him laughed to scorn of his enemies. Sirach 27:3, unless a man hold himself diligently in the fear of the Lord, his house shall soon be overthrown.
+  - **[Sirach 23:2](/bible/sirach/23#v2)**
+    > <sup>[2](/bible/sirach/23#v2)</sup> Who will set scourges over my thoughts, and the discipline of wisdom over mine heart? that they spare me not for mine ignorances, and it pass not by my sins:
+
+    Who will set scourges over my thoughts and the discipline of wisdom over my heart, that they spare me not for my ignorances? Wisdom of Solomon 6:17, the very true beginning of her is the desire of discipline, and the care of discipline is love. Ephesians 6:11, put on the whole armour; if you are not studying you are not battling, only falling victim.
+  - **[2 Esdras 16:50](/bible/2-esdras/16#v50)**
+    > <sup>[50](/bible/2-esdras/16#v50)</sup> So shall righteousness hate iniquity, when she decketh herself, and shall accuse her to her face, when he cometh that shall defend him that diligently searcheth out every sin upon earth.
+
+    So shall righteousness hate iniquity when she decketh herself, and shall accuse her to her face; the Lord defends him that diligently searcheth out every sin. Discipline your mind to hate iniquity. Wisdom of Solomon 5:13-15: the hope of the ungodly is dust blown away and the remembrance of a guest that tarrieth but a day, but the righteous live for evermore and their reward is with the Lord. Do the homework and you live forever while the instant feelings pass.
+
+
+**[2 Esdras 15:7-12](/bible/2-esdras/15#v7)**  *[[2:02:08](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=7328s)]*
+
+> <sup>[7](/bible/2-esdras/15#v7)</sup> Therefore saith the Lord,
+>
+> <sup>[8](/bible/2-esdras/15#v8)</sup> I will hold my tongue no more as touching their wickedness, which they profanely commit, neither will I suffer them in those things, in which they wickedly exercise themselves: behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually.
+>
+> <sup>[9](/bible/2-esdras/15#v9)</sup> And therefore, saith the Lord, I will surely avenge them, and receive unto me all the innocent blood from among them.
+>
+> <sup>[10](/bible/2-esdras/15#v10)</sup> Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt:
+>
+> <sup>[11](/bible/2-esdras/15#v11)</sup> But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof.
+>
+> <sup>[12](/bible/2-esdras/15#v12)</sup> Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it.
+
+- I will hold my tongue no more as touching their wickedness; the innocent and righteous blood crieth unto me and the souls of the just complain continually. All the murders and injustice against God's children in spiritual Egypt.
+
+- I will surely avenge them; my people is led as a flock to the slaughter; I will not suffer them now to dwell in the land of Egypt, but bring them out with a mighty hand and smite Egypt with plagues as before and destroy all the land thereof. As before means a coming Egypt, the United States. When it comes, we do not want to go down with it.
+
+  Precepts:
+  - **[Wisdom of Solomon 13:3](/bible/wisdom-of-solomon/13#v3)**
+    > <sup>[3](/bible/wisdom-of-solomon/13#v3)</sup> With whose beauty if they being delighted took them to be gods; let them know how much better the Lord of them is: for the first author of beauty hath created them.
+
+    If, delighted with their beauty, they took them to be gods, let them know how much better the Lord of them is, for the first author of beauty hath created them. Real beauty is not the Statue of Liberty; only virgins are beautiful, and God looked at us as beautiful.
+  - **[Jeremiah 6:2](/bible/jeremiah/6#v2)**
+    > <sup>[2](/bible/jeremiah/6#v2)</sup> I have likened the daughter of Zion to a comely and delicate woman.
+
+    I have likened the daughter of Zion to a comely and delicate woman. That is how the Lord sees his people.
+  - **[Lamentations 2:1](/bible/lamentations/2#v1)**
+    > <sup>[1](/bible/lamentations/2#v1)</sup> How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
+
+    The Lord cast down from heaven unto the earth the beauty of Israel, from rulership to servitude, because we went away from the author who created us and looked to another nation for beauty. America under the skirt is a worn-out harlot who has been with everyone on the block. Knowing that, we return.
+  - **[Psalms 45:7-11](/bible/psalms/45#v7)**
+    > <sup>[7](/bible/psalms/45#v7)</sup> Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
+    >
+    > <sup>[8](/bible/psalms/45#v8)</sup> All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad.
+    >
+    > <sup>[9](/bible/psalms/45#v9)</sup> Kings’ daughters were among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.
+    >
+    > <sup>[10](/bible/psalms/45#v10)</sup> Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father’s house;
+    >
+    > <sup>[11](/bible/psalms/45#v11)</sup> So shall the king greatly desire thy beauty: for he is thy Lord; and worship thou him.
+
+    Thou lovest righteousness and hatest wickedness, therefore God hath anointed thee with the oil of gladness. Hearken, O daughter, forget thine own people and thy father's house; so shall the king greatly desire thy beauty, for he is thy Lord, and worship thou him. Like a marriage, the Lord will not share us; love righteousness, hate iniquity, and he desires our beauty as he created it.
+
+
+**[Sirach 4:11](/bible/sirach/4#v11)**  *[[2:08:01](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=7681s)]*
+
+> <sup>[11](/bible/sirach/4#v11)</sup> Wisdom exalteth her children, and layeth hold of them that seek her.
+
+- Wisdom exalteth her children and layeth hold of them that seek her. Christ is the wisdom of God, 1 Corinthians 1:24, and Proverbs 8:16-19 says by me princes rule, I love them that love me, those that seek me early shall find me, and riches and honour are with me, durable riches that last forever. Seek him early now in the midst of wars and rumours of wars.
+
+- Solomon as a youth asked for an understanding heart to judge the people, not long life, riches, or his enemies' lives, and the Lord gave him what he did not ask as well. Seek ye first the kingdom and the rest is added. Wisdom of Solomon 7:6-13: he preferred her before sceptres and thrones, loved her above health and beauty, and did not hide her riches; Sirach 4:23, hide not thy wisdom in her beauty. Our conversation should be in the scriptures.
+
+  Precepts:
+  - **[1 Corinthians 1:24](/bible/1-corinthians/1#v24)**
+    > <sup>[24](/bible/1-corinthians/1#v24)</sup> But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
+
+    Christ the power of God and the wisdom of God.
+  - **[Proverbs 8:16-19](/bible/proverbs/8#v16)**
+    > <sup>[16](/bible/proverbs/8#v16)</sup> By me princes rule, and nobles, even all the judges of the earth.
+    >
+    > <sup>[17](/bible/proverbs/8#v17)</sup> I love them that love me; and those that seek me early shall find me.
+    >
+    > <sup>[18](/bible/proverbs/8#v18)</sup> Riches and honour are with me; yea, durable riches and righteousness.
+    >
+    > <sup>[19](/bible/proverbs/8#v19)</sup> My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.
+
+    By me princes rule; I love them that love me; those that seek me early shall find me; riches and honour are with me, yea, durable riches and righteousness. If you are not seeking him, he does not love you.
+  - **[1 Kings 3:3-13](/bible/1-kings/3#v3)**
+    > <sup>[3](/bible/1-kings/3#v3)</sup> And Solomon loved the Lord, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.
+    >
+    > <sup>[4](/bible/1-kings/3#v4)</sup> And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt offerings did Solomon offer upon that altar.
+    >
+    > <sup>[5](/bible/1-kings/3#v5)</sup> In Gibeon the Lord appeared to Solomon in a dream by night: and God said, Ask what I shall give thee.
+    >
+    > <sup>[6](/bible/1-kings/3#v6)</sup> And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day.
+    >
+    > <sup>[7](/bible/1-kings/3#v7)</sup> And now, O Lord my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in.
+    >
+    > <sup>[8](/bible/1-kings/3#v8)</sup> And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude.
+    >
+    > <sup>[9](/bible/1-kings/3#v9)</sup> Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?
+    >
+    > <sup>[10](/bible/1-kings/3#v10)</sup> And the speech pleased the Lord, that Solomon had asked this thing.
+    >
+    > <sup>[11](/bible/1-kings/3#v11)</sup> And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;
+    >
+    > <sup>[12](/bible/1-kings/3#v12)</sup> Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee.
+    >
+    > <sup>[13](/bible/1-kings/3#v13)</sup> And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.
+
+    Solomon loved the Lord and asked for an understanding heart to discern between good and bad; the speech pleased the Lord, who gave him a wise heart like none before or after, and also riches and honour he had not asked for.
+  - **[Wisdom of Solomon 7:6-13](/bible/wisdom-of-solomon/7#v6)**
+    > <sup>[6](/bible/wisdom-of-solomon/7#v6)</sup> For all men have one entrance into life, and the like going out.
+    >
+    > <sup>[7](/bible/wisdom-of-solomon/7#v7)</sup> Wherefore I prayed, and understanding was given me: I called upon God, and the spirit of wisdom came to me.
+    >
+    > <sup>[8](/bible/wisdom-of-solomon/7#v8)</sup> I preferred her before sceptres and thrones, and esteemed riches nothing in comparison of her.
+    >
+    > <sup>[9](/bible/wisdom-of-solomon/7#v9)</sup> Neither compared I unto her any precious stone, because all gold in respect of her is as a little sand, and silver shall be counted as clay before her.
+    >
+    > <sup>[10](/bible/wisdom-of-solomon/7#v10)</sup> I loved her above health and beauty, and chose to have her instead of light: for the light that cometh from her never goeth out.
+    >
+    > <sup>[11](/bible/wisdom-of-solomon/7#v11)</sup> All good things together came to me with her, and innumerable riches in her hands.
+    >
+    > <sup>[12](/bible/wisdom-of-solomon/7#v12)</sup> And I rejoiced in them all, because wisdom goeth before them: and I knew not that she was the mother of them.
+    >
+    > <sup>[13](/bible/wisdom-of-solomon/7#v13)</sup> I learned diligently, and do communicate her liberally: I do not hide her riches.
+
+    I prayed and understanding was given me; I preferred her before sceptres and thrones, esteemed riches nothing in comparison, loved her above health and beauty; all good things came to me with her, and I did not hide her riches.
+  - **[James 1:5-6](/bible/james/1#v5)**
+    > <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+    >
+    > <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
+
+    If any of you lack wisdom, let him ask of God, that giveth to all men liberally, but let him ask in faith, nothing wavering. Sirach 4:17-18: at first wisdom walks with him by crooked ways, brings fear and dread, torments him with her discipline until she may trust his soul, then returns the straight way, comforts him, and shows him her secrets. There is no cap on wisdom. Hebrews 11:6, without faith it is impossible to please him, and Romans 10:17, faith cometh by hearing the word of God, so increase your study.
+  - **[Psalms 103:13](/bible/psalms/103#v13)**
+    > <sup>[13](/bible/psalms/103#v13)</sup> Like as a father pitieth his children, so the Lord pitieth them that fear him.
+
+    As a father pitieth his children, so the Lord pitieth them that fear him. Isaiah 49:25, I will contend with him that contendeth with thee, and I will save thy children. Zechariah 3:8-9, my servant the Branch, Christ, and I will remove the iniquity of that land in one day. Revelation 12:10-11, they overcame the accuser by the blood of the Lamb and the word of their testimony, and loved not their lives unto the death.
+
+
+**[Sirach 34:16](/bible/sirach/34#v16)**  *[[2:20:10](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=8410s)]*
+
+> <sup>[16](/bible/sirach/34#v16)</sup> For the eyes of the Lord are upon them that love him, he is their mighty protection and strong stay, a defence from heat, and a cover from the sun at noon, a preservation from stumbling, and an help from falling.
+
+- The eyes of the Lord are upon them that love him; he is their mighty protection, a defence from heat, nuclear heat, and a cover from the sun at noon, because the destruction wasteth at noonday, Psalms 91:6. Sirach 14:27, by her he shall be covered from heat and in her glory shall he dwell. Be faithful and fear him and he protects you from what is coming.
+
+- Wisdom of Solomon 5:1-5: then shall the righteous man stand in great boldness before those who afflicted him, and they, amazed at the strangeness of his salvation, shall say, this was he whom we had in derision; how is he numbered among the children of God? Revelation 1:7, he cometh with clouds, his chariots, and every eye shall see him and all kindreds of the earth shall wail.
+
+- Habakkuk 3:16, the prophet's belly trembled because he was put in it, and when he cometh up unto the people he will invade them with his troops. Isaiah 31:4, like as the lion and the young lion roaring on his prey, the Lion of the tribe of Judah of Revelation 5:5, so shall the Lord of hosts come down to fight for mount Zion; as birds flying, Christ and the angels, he will defend Jerusalem, and passing over he will preserve it. Jeremiah 4:7, the lion is come up from his thicket, the destroyer of the Gentiles, Nebuchadnezzar contextually and Christ prophetically. 2 Esdras 11:37, a roaring lion chased out of the wood sends a man's voice unto the eagle, America.
+
+  Precepts:
+  - **[Psalms 91:6](/bible/psalms/91#v6)**
+    > <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+
+    Nor for the pestilence that walketh in darkness, nor for the destruction that wasteth at noonday.
+  - **[Wisdom of Solomon 5:1-5](/bible/wisdom-of-solomon/5#v1)**
+    > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
+    >
+    > <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
+    >
+    > <sup>[3](/bible/wisdom-of-solomon/5#v3)</sup> And they repenting and groaning for anguish of spirit shall say within themselves, This was he, whom we had sometimes in derision, and a proverb of reproach:
+    >
+    > <sup>[4](/bible/wisdom-of-solomon/5#v4)</sup> We fools accounted his life madness, and his end to be without honour:
+    >
+    > <sup>[5](/bible/wisdom-of-solomon/5#v5)</sup> How is he numbered among the children of God, and his lot is among the saints!
+
+    The righteous man stands in great boldness before those who afflicted him; they are troubled with terrible fear and amazed at the strangeness of his salvation, so far beyond all they looked for.
+  - **[Revelation 1:7](/bible/revelation/1#v7)**
+    > <sup>[7](/bible/revelation/1#v7)</sup> Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+
+    Behold, he cometh with clouds, and every eye shall see him, and all kindreds of the earth shall wail because of him.
+  - **[Habakkuk 3:16](/bible/habakkuk/3#v16)**
+    > <sup>[16](/bible/habakkuk/3#v16)</sup> When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
+
+    When I heard, my belly trembled; when he cometh up unto the people, he will invade them with his troops.
+  - **[Isaiah 31:4-5](/bible/isaiah/31#v4)**
+    > <sup>[4](/bible/isaiah/31#v4)</sup> For thus hath the Lord spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, he will not be afraid of their voice, nor abase himself for the noise of them: so shall the Lord of hosts come down to fight for mount Zion, and for the hill thereof.
+    >
+    > <sup>[5](/bible/isaiah/31#v5)</sup> As birds flying, so will the Lord of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.
+
+    Like as the lion roaring on his prey, so shall the Lord of hosts come down to fight for mount Zion; as birds flying, so will he defend Jerusalem, and passing over he will preserve it.
+  - **[Revelation 5:5](/bible/revelation/5#v5)**
+    > <sup>[5](/bible/revelation/5#v5)</sup> And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
+
+    The Lion of the tribe of Judah, the Root of David, hath prevailed. That lion is Christ.
+  - **[Jeremiah 4:7](/bible/jeremiah/4#v7)**
+    > <sup>[7](/bible/jeremiah/4#v7)</sup> The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.
+
+    The lion is come up from his thicket, and the destroyer of the Gentiles is on his way to make thy land desolate, and thy cities laid waste without an inhabitant.
+  - **[2 Esdras 11:37](/bible/2-esdras/11#v37)**
+    > <sup>[37](/bible/2-esdras/11#v37)</sup> And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
+
+    As it were a roaring lion chased out of the wood sent out a man's voice unto the eagle. Christ roaring against America.
+
+
+## Class Questions
+
+- **Why is the school strike not a mistake?** Ezekiel 28:3, they are wiser than Daniel and no secret is hid from them. Psalms 58:3, they lie from the womb. First a mistake, then Iran's fault, then Trump knows nothing.
+- **What are the seven heads, the eighth, and the ten horns?** Greece, Rome, Spain, France, Germany, Russia, Great Britain; America is the eighth, of the seven, come out of Britain; the ten horns are the common markets, the EU, and NATO, receiving power one hour with the beast.
+- **Whose names are not written in the book of life?** Esau Edom's, Revelation 17:8. Only the Israelites, the so-called blacks, Hispanics, and Native Americans, are written. That is good news.
+- **What does Europe negotiating with Iran and refusing the war show?** Revelation 17:16 beginning: the ten horns shall hate the whore and burn her with fire, by intercontinental ballistic missiles.
+- **Who is Amalek, Iran or Israel?** Netanyahu invoked Purim and called Tehran Amalek, but Haman was an Amalekite of Esau, Esther was married to the Persian king, and Netanyahu's crew are the Amalekites. Iran is Persia.
+- **What is Passover really about?** The destruction of our enemies and deliverance from their hands, with the leaven removed. It is also purging season, when people who will not repent get moved out of the way.
+- **What happens to Israelites who say the evil shall not overtake us?** Amos 9:10, all the sinners of my people shall die by the sword. If you fall, get up immediately.
+- **How is disloyalty to a brother unfaithfulness to God?** 2 Esdras 15:4, all the unfaithful die in their unfaithfulness. Loyalty to God is shown through his people.
+- **Why is America called a harlot and not a beauty?** Nahum 3:4 and Revelation 17:5. Sirach 25:21 says stumble not at the beauty of a woman nor desire her for pleasure; under the skirt she is worn out. The first author of beauty is God, who likens Zion to a comely woman.
+- **Who are the vessels of wood and earth in the great house?** 2 Timothy 2:20-21, Israelites with dead spirits who bear no fruit and separate from leadership. Purge yourself from them to be a vessel unto honour.
+- **Why must we exhort one another daily?** Hebrews 3:13, lest any be hardened through the deceitfulness of sin. Pull away and Satan plays on your psyche; you may never recover.
+- **Why does sin win over the commandments for the undisciplined?** Sin gives instant gratification; the reward of the commandments is delayed, the kingdom. You must self-motivate and learn discipline, the true beginning of wisdom, Wisdom of Solomon 6:17.
+- **What did Solomon ask for and what did he get?** An understanding heart to judge the people, 1 Kings 3:9, and the Lord also gave riches and honour he did not ask for. Seek first the kingdom.
+- **How does the Lord come at the end?** As a lion roaring on his prey, Isaiah 31:4, the Lion of the tribe of Judah, with clouds and troops, to fight for mount Zion and pass over and preserve Jerusalem, and roaring against the eagle, 2 Esdras 11:37.
+
+## In Closing
+
+*[[2:25:41](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=8741s)]* Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him he will not be afraid of their voice, so shall the Lord of hosts come down to fight for mount Zion. As birds flying, Christ and the angels, so will the Lord of hosts defend Jerusalem; defending also he will deliver it, and passing over he will preserve it. Keep walking; redemption is nigh. Happy Sabbath, Israel.
+
+## Announcements & References
+
+- The booster club is accepting applications again from the best members; email with your name, camp, and time in IUIC.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=gTc6TQLSDrI)
