@@ -2,7 +2,7 @@
 title: "Restoring the Broken Minds of the Daughters of Zion"
 slug: "2026/2026-09-26-restoring-the-broken-minds-of-the-daughters-of-zion"
 date: "2026-09-26"
-teacher: "Deacon Malachi"
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-09-26"
 tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-health", "women"]
 ---
