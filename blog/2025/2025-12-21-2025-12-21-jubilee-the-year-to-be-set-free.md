@@ -374,8 +374,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
     > <sup>[19](/bible/zephaniah/3#v19)</sup> Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 
     I will get them praise and fame in every land where they have been put to shame.
-  - **[Isaiah 63:1](/bible/isaiah/63#v1)**
-    > <sup>[1](/bible/isaiah/63#v1)</sup> Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
+  - **[Isaiah 63:4](/bible/isaiah/63#v4)**
+    > <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
 
     The year of my redeemed is come.
 
