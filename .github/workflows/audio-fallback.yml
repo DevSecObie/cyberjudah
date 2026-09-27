@@ -104,7 +104,17 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add blog/transcripts blog/channel-meta.tsv
           git commit -m "transcripts: add audio fallbacks [skip ci]"
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}
+          # Other commits land on main while a transcription runs; rebase and retry
+          # so a finished transcript is never lost to a rejected push.
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${GITHUB_REF_NAME}"
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}; then
+              exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "Could not push the transcripts after 5 attempts." >&2
+          exit 1
 
       - name: Remove temporary audio and cookies
         if: always()
