@@ -2,7 +2,7 @@
 title: "Mindset Of A Leader, Actions Of A King"
 slug: "2026/2026-03-21-mindset-of-a-leader-actions-of-a-king"
 date: "2026-03-21"
-teacher: "Captain OC"
+teacher: "Captain Osee"
 description: "IUIC in the ClassRoom · 2026-03-21"
 tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 ---
