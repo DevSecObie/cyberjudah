@@ -2,7 +2,7 @@
 title: "Foundational Babylonian Advocates: Division Among the Dispersion"
 slug: "2026/2026-08-22-foundational-babylonian-advocates-division-among-the-dispersion"
 date: "2026-08-22"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-08-22"
 tags: ["IUIC in the ClassRoom", "america-babylon", "captivity"]
 ---
