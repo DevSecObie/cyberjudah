@@ -1,13 +1,10 @@
 name: Write class notes
 
-# Writes the study-guide note of the newest class that has a transcript and no note, every
-# five hours (scripts/notes/auto.py): newest first, so the latest Sabbath's classes are
-# written the same weekend and the backlog follows behind them. Every verse is pulled from
-# data/bible and checked, notes:fix links the timestamps, notes:lint gates the shape, and a
-# note that fails is not written. Needs the ANTHROPIC_API_KEY repository secret.
+# Writes the study-guide note of the newest class that has a transcript and no note
+# (scripts/notes/auto.py) through the API, on demand. The five-hourly schedule runs as a
+# Claude Code routine instead, which writes the same notes on the plan rather than the API;
+# this is the fallback when that is not running. Needs the ANTHROPIC_API_KEY secret.
 on:
-  schedule:
-    - cron: "41 */5 * * *"
   workflow_dispatch:
     inputs:
       limit:
