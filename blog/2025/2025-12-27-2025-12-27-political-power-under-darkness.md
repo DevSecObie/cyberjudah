@@ -241,8 +241,8 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 - Israel must overcome its addictions and wait for that power, not act before its time.
 
   Precepts:
-  - **[Isaiah 54:16](/bible/isaiah/54#v16)**
-    > <sup>[16](/bible/isaiah/54#v16)</sup> Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
+  - **[Isaiah 54:17](/bible/isaiah/54#v17)**
+    > <sup>[17](/bible/isaiah/54#v17)</sup> No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the Lord, and their righteousness is of me, saith the Lord.
 
     No weapon formed against thee shall prosper, and every tongue against thee shall be condemned.
   - **[Psalms 91:5](/bible/psalms/91#v5)**
