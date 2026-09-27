@@ -414,7 +414,7 @@ tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
 ## Announcements & References
 
 - New moon on February 1.
-- Feast of Nika on February 13 at sundown and Feast of Purim on February 14 at sundown.
+- Day of Nicanor on February 13 at sundown and Feast of Purim on February 14 at sundown.
 - Fast day on January 30, 2026.
 - The first cohort of the doula and maternal support training is full; a waitlist is open for the next.
 - Subscribe to IUIC Diaspora 2.0 and give to the booster club to fund travel for the mission.
