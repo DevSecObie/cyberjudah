@@ -767,7 +767,7 @@ Books referenced in class:
 - The Cambridge History of Judaism: The Early Modern World, 1500-1815 (black Jewish communities in Africa; read at length above)
 - The Complete Works of Flavius Josephus (history of Theudas and Judas of Galilee)
 - The Spiritual Power of a Black Woman, by Captain Hoshaya (on Amazon)
-- Trauma Letters: Healing the Child Within, by Captain Galayah (on Amazon): "You were not born this way. The patterns, the defenses, the reactions, the way you think, respond, and protect yourself: none of it started as identity. It started as adaptation." Full sit down with Bishop Yawasop, Captain Hoshaya, and Captain Galayah drops this week; if you purchased the books, leave a review on Amazon.
+- Trauma Letters: Healing the Child Within, by Captain Galayah (on Amazon): "You were not born this way. The patterns, the defenses, the reactions, the way you think, respond, and protect yourself: none of it started as identity. It started as adaptation." Full sit down with Bishop Yawasap, Captain Hoshaya, and Captain Galayah drops this week; if you purchased the books, leave a review on Amazon.
 - Yahawashi Invades France, issue #4 (comic book; sold out during class). Coming next: Yahawashi Invades Rome, issue #1, going through the seven heads.
 
 Music and media:
