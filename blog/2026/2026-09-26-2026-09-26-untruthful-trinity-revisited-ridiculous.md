@@ -2,7 +2,7 @@
 title: "Untruthful Trinity Revisited & Ridiculous"
 slug: "2026/2026-09-26-untruthful-trinity-revisited-ridiculous"
 date: "2026-09-26"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-09-26"
 tags: ["IUIC in the ClassRoom", "christ", "false-religion", "the-law", "wisdom"]
 ---
