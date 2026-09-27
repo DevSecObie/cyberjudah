@@ -262,8 +262,10 @@ def main():
         if write_one(t, a.feed, a.from_json):
             done += 1
             if a.commit:
-                sh(["git", "add", "-A", "--", FEED_DIR[a.feed], "src/data"])
-                sh(["git", "commit", "-q", "-m", f"notes: {t.get('cleanTitle') or t['title']} ({t['date']})\n\nWritten from the transcript by scripts/notes/auto.py; every verse checked against data/bible."])
+                paths = [p for p in (FEED_DIR[a.feed], "blog", "captains", "site/src/data", "src/data") if os.path.isdir(f"{ROOT}/{p}")]
+                sh(["git", "add", "-A", "--", *dict.fromkeys(paths)])
+                code, out = sh(["git", "commit", "-q", "-m", f"notes: {t.get('cleanTitle') or t['title']} ({t['date']})\n\nWritten from the transcript by scripts/notes/auto.py; every verse checked against data/bible.\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"])
+                if code != 0: print(f"  commit failed: {out[-300:]}", flush=True)
     print(f"done: {done} of {min(a.limit, len(rows))} written", flush=True)
     return 0 if done or not rows else 1
 

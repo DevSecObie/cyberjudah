@@ -4,7 +4,7 @@ slug: "2026/2026-09-05-the-pit-and-pendulum-the-slow-genocide-of-the-undesired"
 date: "2026-09-05"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-09-05"
-tags: ["IUIC in the ClassRoom", "mental-health"]
+tags: ["IUIC in the ClassRoom", "captivity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-05</p>
