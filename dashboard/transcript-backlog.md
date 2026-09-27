@@ -1,6 +1,6 @@
 # Transcript Backlog Dashboard
 
-Last checked: 2026-09-27T18:24:43.535474+00:00
+Last checked: 2026-09-27T22:11:12.830662+00:00
 
 | Feed | Channel | Videos | In Vault | To Fetch | Progress | No Caption/Age-Restricted |
 |---|---|---:|---:|---:|---:|---:|
@@ -8,6 +8,6 @@ Last checked: 2026-09-27T18:24:43.535474+00:00
 | classes | IUICintheClassRoom | 2110 | 1817 | 293 | 86.1% | 3 |
 | classes | ManVsBible144 | 529 | 529 | 0 | 100.0% | 0 |
 | classes | yabanisrael7530 | 179 | 149 | 30 | 83.2% | 3 |
-| classes | IUICRaleigh | 3931 | 3716 | 215 | 94.5% | 3 |
+| classes | IUICRaleigh | 3932 | 3716 | 216 | 94.5% | 3 |
 
 Dashboard is updated by the hourly transcript workflow.
