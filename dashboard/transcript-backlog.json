@@ -8,21 +8,21 @@
       "completed": 1238,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 1,
+      "no_captions": 2,
       "progress_pct": 86.94,
       "to_fetch": 186,
       "videos": 1424
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 1816,
+      "already_in_vault": 1817,
       "channel": "IUICintheClassRoom",
-      "completed": 1816,
+      "completed": 1817,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 1,
-      "progress_pct": 86.07,
-      "to_fetch": 294,
+      "no_captions": 2,
+      "progress_pct": 86.11,
+      "to_fetch": 293,
       "videos": 2110
     },
     {
@@ -45,7 +45,7 @@
       "completed": 149,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 1,
+      "no_captions": 2,
       "progress_pct": 83.24,
       "to_fetch": 30,
       "videos": 179
@@ -57,11 +57,11 @@
       "completed": 3716,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 1,
+      "no_captions": 2,
       "progress_pct": 94.53,
       "to_fetch": 215,
       "videos": 3931
     }
   ],
-  "generated_at": "2026-09-27T08:10:22.918224+00:00"
+  "generated_at": "2026-09-27T13:59:48.267043+00:00"
 }
