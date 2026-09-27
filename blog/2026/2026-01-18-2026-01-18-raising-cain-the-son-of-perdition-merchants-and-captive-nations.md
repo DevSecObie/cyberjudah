@@ -2,7 +2,7 @@
 title: "Raising Cain: The Son of Perdition, Merchants, and Captive Nations"
 slug: "2026/2026-01-18-raising-cain-the-son-of-perdition-merchants-and-captive-nations"
 date: "2026-01-18"
-teacher: "Deacon Joshua"
+teacher: "Deacon Yashua"
 description: "IUIC in the ClassRoom · 2026-01-18"
 tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
 ---
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
 
 ## Introduction
 
-*[[13:31](https://www.youtube.com/watch?v=36emQd9wjts&t=811s)]* Deacon Joshua traces the spirit of Cain, the son of perdition, from the first murder to the United States. Cain's hatred and deceit, Tubal-cain's weapons and Lamech's boast pass into Esau, who lives by the sword and waits to kill his brother. The same pattern shows today: America labels a leader a drug lord, strips him of legitimacy, sanctions and isolates his country, then removes him, as it did to Maduro. The class sets this beside the merchants of Revelation 18 and the School of the Americas. It shows how the northern kingdom in Latin America was mixed and whitened, and ends on the promise that God will not give up Ephraim, but will bend Judah and fill the bow with Ephraim.
+*[[13:31](https://www.youtube.com/watch?v=36emQd9wjts&t=811s)]* Deacon Yashua traces the spirit of Cain, the son of perdition, from the first murder to the United States. Cain's hatred and deceit, Tubal-cain's weapons and Lamech's boast pass into Esau, who lives by the sword and waits to kill his brother. The same pattern shows today: America labels a leader a drug lord, strips him of legitimacy, sanctions and isolates his country, then removes him, as it did to Maduro. The class sets this beside the merchants of Revelation 18 and the School of the Americas. It shows how the northern kingdom in Latin America was mixed and whitened, and ends on the promise that God will not give up Ephraim, but will bend Judah and fill the bow with Ephraim.
 
 ## In The News
 
