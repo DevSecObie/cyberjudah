@@ -22,6 +22,7 @@ import zlib from "node:zlib";
 import Database from "better-sqlite3";
 import * as pagefind from "pagefind";
 
+import { fetchBoard, findVisuals, placeFrames } from "./frames.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -208,6 +209,24 @@ writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({
 {
   const vault = path.join(ROOT, "data", "downloads", "vault.zip");
   if (fs.existsSync(vault)) { fs.mkdirSync(path.join(OUT, "downloads"), { recursive: true }); fs.copyFileSync(vault, path.join(OUT, "downloads", "vault.zip")); }
+}
+
+/* ---------------- frames: what was on the screen, placed in the notes ---------------- */
+// For every class or episode with a recording and a transcript, the captions say when the
+// teacher pointed at the screen; the Worker's storyboard grid says where that frame sits.
+if (THUMBS) {
+  const withVideo = notes.filter((n) => (n.kind === "class" || n.kind === "captains") && n.videoId);
+  const transcriptOf = (n) => { for (const d of ["blog", "captains"]) { const f = path.join(ROOT, d, "transcripts", `${n.videoId}.json`); if (fs.existsSync(f)) return f; } return null; };
+  const jobs = withVideo.map((n) => ({ n, file: transcriptOf(n) })).filter((j) => j.file).map((j) => ({ ...j, visuals: findVisuals(JSON.parse(fs.readFileSync(j.file, "utf8")).segments ?? []) })).filter((j) => j.visuals.length);
+  let placed = 0, figures = 0, noBoard = 0;
+  const one = async (j) => {
+    const board = await fetchBoard(j.n.videoId);
+    if (!board) { noBoard++; return; }
+    const body = placeFrames(j.n.body, j.n.videoId, board, j.visuals);
+    if (body !== j.n.body) { j.n.body = body; placed++; figures += j.visuals.length; }
+  };
+  for (let i = 0; i < jobs.length; i += 8) await Promise.all(jobs.slice(i, i + 8).map(one));
+  console.error(`frames: ${placed} notes with ${figures} frames placed, ${noBoard} recordings without frames yet (${jobs.length} with screen moments)`);
 }
 
 /* ---------------- api: notes ---------------- */
