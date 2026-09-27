@@ -193,8 +193,8 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
     > <sup>[38](/bible/2-esdras/6#v38)</sup> And I said, O Lord, thou spakest from the beginning of the creation, even the first day, and saidst thus; Let heaven and earth be made; and thy word was a perfect work.
 
     God spoke from the beginning, and brought a light out of his treasures.
-  - **[John 1:1](/bible/john/1#v1)**
-    > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
+  - **[John 1:4](/bible/john/1#v4)**
+    > <sup>[4](/bible/john/1#v4)</sup> In him was life; and the life was the light of men.
 
     In him was life, and the life was the light of men.
   - **[John 8:12](/bible/john/8#v12)**
@@ -251,8 +251,8 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
     > <sup>[8](/bible/revelation/13#v8)</sup> And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
     Whose names are not written in the book of life of the Lamb slain from the foundation of the world.
-  - **[Revelation 22:8](/bible/revelation/22#v8)**
-    > <sup>[8](/bible/revelation/22#v8)</sup> And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
+  - **[Revelation 22:9](/bible/revelation/22#v9)**
+    > <sup>[9](/bible/revelation/22#v9)</sup> Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
 
     I am thy fellow servant, and of thy brethren the prophets.
   - **[2 Corinthians 5:1](/bible/2-corinthians/5#v1)**
@@ -397,8 +397,8 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
     > <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
 
     That they might be called trees of righteousness, the planting of the Lord.
-  - **[Psalms 1:1](/bible/psalms/1#v1)**
-    > <sup>[1](/bible/psalms/1#v1)</sup> Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
+  - **[Psalms 1:3](/bible/psalms/1#v3)**
+    > <sup>[3](/bible/psalms/1#v3)</sup> And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 
     Like a tree planted by the rivers of water, that bringeth forth his fruit in his season.
 
