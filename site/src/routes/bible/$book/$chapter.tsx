@@ -9,6 +9,7 @@ import { api, type Citation } from "@/lib/api";
 import { mergeCitations, verseCounts, verseNumbers, type Ref } from "@/lib/refs";
 import { compressVerses } from "@/lib/cite";
 import { pageHead } from "@/lib/head";
+import { prefs, sharePage, useTelegramButtons } from "@/lib/telegram";
 
 type Search = { study?: string; v?: string };
 
@@ -42,10 +43,7 @@ type Size = (typeof SIZES)[number];
 function useReaderSize(): [Size, () => void] {
   const [size, setSize] = useState<Size>("regular");
   useEffect(() => {
-    try {
-      const s = window.localStorage.getItem("cj-reader-size") as Size | null;
-      if (s && SIZES.includes(s)) setSize(s);
-    } catch { /* storage unavailable */ }
+    prefs.get("reader-size", (s) => { if (s && SIZES.includes(s as Size)) setSize(s as Size); });
   }, []);
   useEffect(() => {
     document.documentElement.setAttribute("data-reader-size", size);
@@ -53,7 +51,7 @@ function useReaderSize(): [Size, () => void] {
   }, [size]);
   const cycle = () => setSize((s) => {
     const n = SIZES[(SIZES.indexOf(s) + 1) % SIZES.length];
-    try { window.localStorage.setItem("cj-reader-size", n); } catch { /* ignore */ }
+    prefs.set("reader-size", n);
     return n;
   });
   return [size, cycle];
@@ -130,6 +128,24 @@ function ChapterPage() {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [book.slug, next, prev, nextBook, prevBook, navigate, search.study]);
+
+  // Where the reader left off, for "Continue" on the front door (synced through Telegram).
+  useEffect(() => { prefs.set("last-read", JSON.stringify({ slug: book.slug, chapter: ch, name: `${book.book} ${ch}` })); }, [book.slug, book.book, ch]);
+
+  // Inside Telegram the bottom bar is the reader's control: next and previous chapter, or,
+  // with verses selected, share them into a chat and open what cites them.
+  const go = (slug: string, chapter: number) => navigate({ to: "/bible/$book/$chapter", params: { book: slug, chapter: String(chapter) }, search: { study: search.study } });
+  const passage = selected.length ? `${book.book} ${ch}:${compressVerses([...selected].sort((a, b) => a - b))}` : "";
+  useTelegramButtons(
+    passage ? { text: `Share ${passage}`, onClick: () => sharePage(compressVerses([...selected].sort((a, b) => a - b)), passage) }
+      : next ? { text: `${book.book} ${next} →`, onClick: () => go(book.slug, next) }
+      : nextBook ? { text: `${nextBook.book} 1 →`, onClick: () => go(nextBook.slug, 1) }
+      : null,
+    passage ? (!wide && cited.length ? { text: "Study", onClick: () => setSheet(true) } : { text: "Clear", onClick: () => setVerses([]) })
+      : prev ? { text: `← ${book.book} ${prev}`, onClick: () => go(book.slug, prev) }
+      : prevBook ? { text: `← ${prevBook.book}`, onClick: () => go(prevBook.slug, prevBook.chapters) }
+      : null,
+  );
 
   const keep = { study: search.study };
   const bar = (

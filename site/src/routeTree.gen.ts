@@ -12,6 +12,7 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as ApiRouteImport } from './routes/api'
+import { Route as AppRouteImport } from './routes/app'
 import { Route as DownloadsRouteImport } from './routes/downloads'
 import { Route as GlossaryRouteImport } from './routes/glossary'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
@@ -19,6 +20,11 @@ import { Route as SearchRouteImport } from './routes/search'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as TeachingsRouteImport } from './routes/teachings'
 import { Route as TruthShallMakeYouFreeRouteImport } from './routes/truth-shall-make-you-free'
+import { Route as AppIndexRouteImport } from './routes/app/index'
+import { Route as AppBibleRouteImport } from './routes/app/bible'
+import { Route as AppClassesRouteImport } from './routes/app/classes'
+import { Route as AppMoreRouteImport } from './routes/app/more'
+import { Route as AppSearchRouteImport } from './routes/app/search'
 import { Route as BibleIndexRouteImport } from './routes/bible/index'
 import { Route as CaptainsIndexRouteImport } from './routes/captains/index'
 import { Route as CasesIndexRouteImport } from './routes/cases/index'
@@ -36,6 +42,7 @@ import { Route as PreceptsSlugRouteImport } from './routes/precepts/$slug'
 import { Route as StudyIndexRouteImport } from './routes/study/index'
 import { Route as TopicsIndexRouteImport } from './routes/topics/index'
 import { Route as TopicsSlugRouteImport } from './routes/topics/$slug'
+import { Route as AppNoteSplatRouteImport } from './routes/app/note/$'
 import { Route as BibleBookIndexRouteImport } from './routes/bible/$book/index'
 import { Route as BibleBookChapterRouteImport } from './routes/bible/$book/$chapter'
 import { Route as CaptainsYearSlugRouteImport } from './routes/captains/$year/$slug'
@@ -46,6 +53,7 @@ import { Route as LawPartIndexRouteImport } from './routes/law/$part/index'
 import { Route as LawPartSectionRouteImport } from './routes/law/$part/$section'
 import { Route as StudyBookIndexRouteImport } from './routes/study/$book/index'
 import { Route as StudyBookChapterRouteImport } from './routes/study/$book/$chapter'
+import { Route as AppReadBookChapterRouteImport } from './routes/app/read/$book/$chapter'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -60,6 +68,11 @@ const AboutRoute = AboutRouteImport.update({
 const ApiRoute = ApiRouteImport.update({
   id: '/api',
   path: '/api',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AppRoute = AppRouteImport.update({
+  id: '/app',
+  path: '/app',
   getParentRoute: () => rootRouteImport,
 } as any)
 const DownloadsRoute = DownloadsRouteImport.update({
@@ -96,6 +109,31 @@ const TruthShallMakeYouFreeRoute = TruthShallMakeYouFreeRouteImport.update({
   id: '/truth-shall-make-you-free',
   path: '/truth-shall-make-you-free',
   getParentRoute: () => rootRouteImport,
+} as any)
+const AppIndexRoute = AppIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => AppRoute,
+} as any)
+const AppBibleRoute = AppBibleRouteImport.update({
+  id: '/bible',
+  path: '/bible',
+  getParentRoute: () => AppRoute,
+} as any)
+const AppClassesRoute = AppClassesRouteImport.update({
+  id: '/classes',
+  path: '/classes',
+  getParentRoute: () => AppRoute,
+} as any)
+const AppMoreRoute = AppMoreRouteImport.update({
+  id: '/more',
+  path: '/more',
+  getParentRoute: () => AppRoute,
+} as any)
+const AppSearchRoute = AppSearchRouteImport.update({
+  id: '/search',
+  path: '/search',
+  getParentRoute: () => AppRoute,
 } as any)
 const BibleIndexRoute = BibleIndexRouteImport.update({
   id: '/bible/',
@@ -182,6 +220,11 @@ const TopicsSlugRoute = TopicsSlugRouteImport.update({
   path: '/topics/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AppNoteSplatRoute = AppNoteSplatRouteImport.update({
+  id: '/note/$',
+  path: '/note/$',
+  getParentRoute: () => AppRoute,
+} as any)
 const BibleBookIndexRoute = BibleBookIndexRouteImport.update({
   id: '/bible/$book/',
   path: '/bible/$book/',
@@ -232,11 +275,17 @@ const StudyBookChapterRoute = StudyBookChapterRouteImport.update({
   path: '/study/$book/$chapter',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AppReadBookChapterRoute = AppReadBookChapterRouteImport.update({
+  id: '/read/$book/$chapter',
+  path: '/read/$book/$chapter',
+  getParentRoute: () => AppRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
+  '/app': typeof AppRouteWithChildren
   '/downloads': typeof DownloadsRoute
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
@@ -244,11 +293,16 @@ export interface FileRoutesByFullPath {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
+  '/app/bible': typeof AppBibleRoute
+  '/app/classes': typeof AppClassesRoute
+  '/app/more': typeof AppMoreRoute
+  '/app/search': typeof AppSearchRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
+  '/app/': typeof AppIndexRoute
   '/bible/': typeof BibleIndexRoute
   '/captains/': typeof CaptainsIndexRoute
   '/cases/': typeof CasesIndexRoute
@@ -261,6 +315,7 @@ export interface FileRoutesByFullPath {
   '/precepts/': typeof PreceptsIndexRoute
   '/study/': typeof StudyIndexRoute
   '/topics/': typeof TopicsIndexRoute
+  '/app/note/$': typeof AppNoteSplatRoute
   '/bible/$book/$chapter': typeof BibleBookChapterRoute
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
@@ -271,6 +326,7 @@ export interface FileRoutesByFullPath {
   '/bible/$book/': typeof BibleBookIndexRoute
   '/law/$part/': typeof LawPartIndexRoute
   '/study/$book/': typeof StudyBookIndexRoute
+  '/app/read/$book/$chapter': typeof AppReadBookChapterRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -283,11 +339,16 @@ export interface FileRoutesByTo {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
+  '/app/bible': typeof AppBibleRoute
+  '/app/classes': typeof AppClassesRoute
+  '/app/more': typeof AppMoreRoute
+  '/app/search': typeof AppSearchRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
+  '/app': typeof AppIndexRoute
   '/bible': typeof BibleIndexRoute
   '/captains': typeof CaptainsIndexRoute
   '/cases': typeof CasesIndexRoute
@@ -300,6 +361,7 @@ export interface FileRoutesByTo {
   '/precepts': typeof PreceptsIndexRoute
   '/study': typeof StudyIndexRoute
   '/topics': typeof TopicsIndexRoute
+  '/app/note/$': typeof AppNoteSplatRoute
   '/bible/$book/$chapter': typeof BibleBookChapterRoute
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
@@ -310,12 +372,14 @@ export interface FileRoutesByTo {
   '/bible/$book': typeof BibleBookIndexRoute
   '/law/$part': typeof LawPartIndexRoute
   '/study/$book': typeof StudyBookIndexRoute
+  '/app/read/$book/$chapter': typeof AppReadBookChapterRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
+  '/app': typeof AppRouteWithChildren
   '/downloads': typeof DownloadsRoute
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
@@ -323,11 +387,16 @@ export interface FileRoutesById {
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
+  '/app/bible': typeof AppBibleRoute
+  '/app/classes': typeof AppClassesRoute
+  '/app/more': typeof AppMoreRoute
+  '/app/search': typeof AppSearchRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
+  '/app/': typeof AppIndexRoute
   '/bible/': typeof BibleIndexRoute
   '/captains/': typeof CaptainsIndexRoute
   '/cases/': typeof CasesIndexRoute
@@ -340,6 +409,7 @@ export interface FileRoutesById {
   '/precepts/': typeof PreceptsIndexRoute
   '/study/': typeof StudyIndexRoute
   '/topics/': typeof TopicsIndexRoute
+  '/app/note/$': typeof AppNoteSplatRoute
   '/bible/$book/$chapter': typeof BibleBookChapterRoute
   '/captains/$year/$slug': typeof CaptainsYearSlugRoute
   '/cases/$era/$slug': typeof CasesEraSlugRoute
@@ -350,6 +420,7 @@ export interface FileRoutesById {
   '/bible/$book/': typeof BibleBookIndexRoute
   '/law/$part/': typeof LawPartIndexRoute
   '/study/$book/': typeof StudyBookIndexRoute
+  '/app/read/$book/$chapter': typeof AppReadBookChapterRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -357,6 +428,7 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/api'
+    | '/app'
     | '/downloads'
     | '/glossary'
     | '/robots.txt'
@@ -364,11 +436,16 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/teachings'
     | '/truth-shall-make-you-free'
+    | '/app/bible'
+    | '/app/classes'
+    | '/app/more'
+    | '/app/search'
     | '/concordance/$book'
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
+    | '/app/'
     | '/bible/'
     | '/captains/'
     | '/cases/'
@@ -381,6 +458,7 @@ export interface FileRouteTypes {
     | '/precepts/'
     | '/study/'
     | '/topics/'
+    | '/app/note/$'
     | '/bible/$book/$chapter'
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
@@ -391,6 +469,7 @@ export interface FileRouteTypes {
     | '/bible/$book/'
     | '/law/$part/'
     | '/study/$book/'
+    | '/app/read/$book/$chapter'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -403,11 +482,16 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/teachings'
     | '/truth-shall-make-you-free'
+    | '/app/bible'
+    | '/app/classes'
+    | '/app/more'
+    | '/app/search'
     | '/concordance/$book'
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
+    | '/app'
     | '/bible'
     | '/captains'
     | '/cases'
@@ -420,6 +504,7 @@ export interface FileRouteTypes {
     | '/precepts'
     | '/study'
     | '/topics'
+    | '/app/note/$'
     | '/bible/$book/$chapter'
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
@@ -430,11 +515,13 @@ export interface FileRouteTypes {
     | '/bible/$book'
     | '/law/$part'
     | '/study/$book'
+    | '/app/read/$book/$chapter'
   id:
     | '__root__'
     | '/'
     | '/about'
     | '/api'
+    | '/app'
     | '/downloads'
     | '/glossary'
     | '/robots.txt'
@@ -442,11 +529,16 @@ export interface FileRouteTypes {
     | '/sitemap.xml'
     | '/teachings'
     | '/truth-shall-make-you-free'
+    | '/app/bible'
+    | '/app/classes'
+    | '/app/more'
+    | '/app/search'
     | '/concordance/$book'
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/topics/$slug'
+    | '/app/'
     | '/bible/'
     | '/captains/'
     | '/cases/'
@@ -459,6 +551,7 @@ export interface FileRouteTypes {
     | '/precepts/'
     | '/study/'
     | '/topics/'
+    | '/app/note/$'
     | '/bible/$book/$chapter'
     | '/captains/$year/$slug'
     | '/cases/$era/$slug'
@@ -469,12 +562,14 @@ export interface FileRouteTypes {
     | '/bible/$book/'
     | '/law/$part/'
     | '/study/$book/'
+    | '/app/read/$book/$chapter'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
   ApiRoute: typeof ApiRoute
+  AppRoute: typeof AppRouteWithChildren
   DownloadsRoute: typeof DownloadsRoute
   GlossaryRoute: typeof GlossaryRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
@@ -534,6 +629,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ApiRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/app': {
+      id: '/app'
+      path: '/app'
+      fullPath: '/app'
+      preLoaderRoute: typeof AppRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/downloads': {
       id: '/downloads'
       path: '/downloads'
@@ -582,6 +684,41 @@ declare module '@tanstack/react-router' {
       fullPath: '/truth-shall-make-you-free'
       preLoaderRoute: typeof TruthShallMakeYouFreeRouteImport
       parentRoute: typeof rootRouteImport
+    }
+    '/app/': {
+      id: '/app/'
+      path: '/'
+      fullPath: '/app/'
+      preLoaderRoute: typeof AppIndexRouteImport
+      parentRoute: typeof AppRoute
+    }
+    '/app/bible': {
+      id: '/app/bible'
+      path: '/bible'
+      fullPath: '/app/bible'
+      preLoaderRoute: typeof AppBibleRouteImport
+      parentRoute: typeof AppRoute
+    }
+    '/app/classes': {
+      id: '/app/classes'
+      path: '/classes'
+      fullPath: '/app/classes'
+      preLoaderRoute: typeof AppClassesRouteImport
+      parentRoute: typeof AppRoute
+    }
+    '/app/more': {
+      id: '/app/more'
+      path: '/more'
+      fullPath: '/app/more'
+      preLoaderRoute: typeof AppMoreRouteImport
+      parentRoute: typeof AppRoute
+    }
+    '/app/search': {
+      id: '/app/search'
+      path: '/search'
+      fullPath: '/app/search'
+      preLoaderRoute: typeof AppSearchRouteImport
+      parentRoute: typeof AppRoute
     }
     '/bible/': {
       id: '/bible/'
@@ -702,6 +839,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof TopicsSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/app/note/$': {
+      id: '/app/note/$'
+      path: '/note/$'
+      fullPath: '/app/note/$'
+      preLoaderRoute: typeof AppNoteSplatRouteImport
+      parentRoute: typeof AppRoute
+    }
     '/bible/$book/': {
       id: '/bible/$book/'
       path: '/bible/$book'
@@ -772,13 +916,43 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof StudyBookChapterRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/app/read/$book/$chapter': {
+      id: '/app/read/$book/$chapter'
+      path: '/read/$book/$chapter'
+      fullPath: '/app/read/$book/$chapter'
+      preLoaderRoute: typeof AppReadBookChapterRouteImport
+      parentRoute: typeof AppRoute
+    }
   }
 }
+
+interface AppRouteChildren {
+  AppBibleRoute: typeof AppBibleRoute
+  AppClassesRoute: typeof AppClassesRoute
+  AppMoreRoute: typeof AppMoreRoute
+  AppSearchRoute: typeof AppSearchRoute
+  AppIndexRoute: typeof AppIndexRoute
+  AppNoteSplatRoute: typeof AppNoteSplatRoute
+  AppReadBookChapterRoute: typeof AppReadBookChapterRoute
+}
+
+const AppRouteChildren: AppRouteChildren = {
+  AppBibleRoute: AppBibleRoute,
+  AppClassesRoute: AppClassesRoute,
+  AppMoreRoute: AppMoreRoute,
+  AppSearchRoute: AppSearchRoute,
+  AppIndexRoute: AppIndexRoute,
+  AppNoteSplatRoute: AppNoteSplatRoute,
+  AppReadBookChapterRoute: AppReadBookChapterRoute,
+}
+
+const AppRouteWithChildren = AppRoute._addFileChildren(AppRouteChildren)
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
   ApiRoute: ApiRoute,
+  AppRoute: AppRouteWithChildren,
   DownloadsRoute: DownloadsRoute,
   GlossaryRoute: GlossaryRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
