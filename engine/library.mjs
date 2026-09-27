@@ -206,6 +206,44 @@ export function loadLibrary(ROOT) {
     }
   }
 
+  // Precepts lined up with the scripture they were taught under. A class note opens a
+  // scripture as a bold linked heading at the start of a line; the precepts the teacher
+  // paired with it are the indented "Precepts:" list beneath, each a bold link, the verse
+  // quoted, then his line about it. Both ends are kept: the chapter opened learns the
+  // precepts, and the precept's chapter learns where it was opened.
+  const linked = new Map(); // "Book|ch" -> [{verses, kind, ref, text, note, ts}]
+  const link = (r, row) => { const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
+  const HEAD = /^\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*(?:\s+\*\[\[?([\d:]+)\]?\([^)]*\)\]\*)?/;
+  const PRECEPT = /^\s+-\s+\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*/;
+  const refOf = (label, bslug, ch, anchor) => {
+    const book = bookBySlug[bslug]; if (!book || !bible[book]?.[ch]) return null;
+    const lm = /:([\d,\-]+)$/.exec(label.trim());
+    return { book, chapter: +ch, verses: lm ? lm[1] : anchor || "", label: label.trim(), url: `/bible/${bslug}/${ch}${anchor ? "#v" + anchor : ""}` };
+  };
+  function scanPrecepts(body, n) {
+    const note = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
+    const lines = body.split("\n");
+    let opened = null, ts = "", precept = null, point = "";
+    const flush = () => {
+      if (!opened || !precept) return;
+      const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
+      link(opened, { kind: "precept", ref: precept.ref, text, point, note, ts });
+      link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts });
+      precept = null;
+    };
+    for (const raw of lines) {
+      const h = HEAD.exec(raw);
+      if (h) { flush(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = ""; continue; }
+      if (!opened) continue;
+      const pm = PRECEPT.exec(raw);
+      if (pm) { flush(); const ref = refOf(pm[1], pm[2], pm[3], pm[4]); precept = ref ? { ref, text: [] } : null; continue; }
+      if (/^- /.test(raw)) { flush(); point = plain(raw.slice(2)); continue; }
+      if (/^\S/.test(raw) && !/^>/.test(raw)) { flush(); if (/^#/.test(raw)) opened = null; continue; }
+      if (precept && /^\s{4}\S/.test(raw) && !/^\s*>/.test(raw) && !/^\s*Precepts:/.test(raw)) precept.text.push(plain(raw));
+    }
+    flush();
+  }
+
   const sortDated = (list) => list.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
   const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
   const studyNotes = studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]));
@@ -217,6 +255,7 @@ export function loadLibrary(ROOT) {
   // same order the site has always used: notes, cases, laws, precepts.
   const historyNoteList = notes.filter((n) => n.kind === "history");
   for (const n of [...studyNotes, ...classNotes, ...captainNotes, ...encNotes, ...historyNoteList]) scanCitations(n.body, noteSelf(n));
+  for (const n of [...classNotes, ...captainNotes]) scanPrecepts(n.body, n);
   for (const c of cases.cases) for (const r of c.refs) cite(r, "case", c.name, caseUrl(c));
   for (const p of handbook.parts) for (const s of p.sections) for (const e of s.entries) {
     const id = `${s.id}.${e.n}`;
@@ -239,6 +278,6 @@ export function loadLibrary(ROOT) {
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,
     notes, studyNotes, classNotes, captainNotes, encNotes, history, studyBooks, noteByTitle, studyFor, noteLabel,
-    cited, uniqueCitations, lexicon, topics,
+    cited, uniqueCitations, linked, lexicon, topics,
   };
 }

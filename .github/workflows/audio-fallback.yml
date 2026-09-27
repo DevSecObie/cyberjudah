@@ -12,6 +12,10 @@ on:
           - both
           - IUICintheClassRoom
           - iuicintheclassroom2
+      video:
+        description: One video id (or several, comma-separated) to transcribe first, whatever the limit
+        required: false
+        default: ""
       limit:
         description: Maximum videos per selected channel
         required: true
@@ -55,6 +59,7 @@ jobs:
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
           SELECTED_CHANNEL: ${{ inputs.channel }}
           VIDEO_LIMIT: ${{ inputs.limit }}
+          VIDEO_IDS: ${{ inputs.video }}
           # With the Cloudflare secrets set, the audio goes to Workers AI's Whisper on GPUs
           # instead of faster-whisper on the runner's CPU: minutes a class instead of an hour.
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -64,8 +69,11 @@ jobs:
           printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
           chmod 600 /tmp/youtube-cookies.txt
 
+          ONLY=()
+          for v in ${VIDEO_IDS//,/ }; do ONLY+=(--video "$v"); done
+
           if [[ "$SELECTED_CHANNEL" == "both" || "$SELECTED_CHANNEL" == "IUICintheClassRoom" ]]; then
-            python3 scripts/history/audio_fallback.py --feed classes --channel IUICintheClassRoom --cookies /tmp/youtube-cookies.txt --limit "$VIDEO_LIMIT"
+            python3 scripts/history/audio_fallback.py --feed classes --channel IUICintheClassRoom --cookies /tmp/youtube-cookies.txt --limit "$VIDEO_LIMIT" "${ONLY[@]}"
           fi
 
           if [[ "$SELECTED_CHANNEL" == "both" || "$SELECTED_CHANNEL" == "iuicintheclassroom2" ]]; then

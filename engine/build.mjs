@@ -42,7 +42,7 @@ const API = path.join(OUT, "api");
 const SEARCH = path.join(OUT, "search");
 
 const L = loadLibrary(ROOT);
-const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations } = L;
+const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked } = L;
 
 /* ---------------- api: scripture and concordance ---------------- */
 for (const b of BOOKS) {
@@ -51,7 +51,7 @@ for (const b of BOOKS) {
     const verses = bible[b][String(c)] ?? [];
     writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
-    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []) });
+    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [] });
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0), chapterIds: chs });
 }
@@ -214,7 +214,7 @@ writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, year: n.year, series: n.series, teacher: n.teacher, topics: n.topics ?? [], summary: n.summary ?? n.description ?? "", videoId: n.videoId ?? null })));
 for (const n of notes) {
   const rel = n.url.replace(/^\//, "") + ".json";
-  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, body: n.body });
+  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, body: n.body });
 }
 
 /* ---------------- api: Our Hidden History ---------------- */

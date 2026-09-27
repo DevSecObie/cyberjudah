@@ -123,12 +123,22 @@ def transcribe_workers_ai(wav_path, account, token, model="@cf/openai/whisper-la
     return segments
 
 
+def clean(prefix):
+    """Removes everything yt-dlp and the splitter left for one video, files and folders alike."""
+    for path in glob.glob(prefix + ".*"):
+        if os.path.isdir(path):
+            shutil.rmtree(path, ignore_errors=True)
+        else:
+            os.remove(path)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--feed", default="classes", choices=sorted(FEEDS))
     parser.add_argument("--channel", required=True)
     parser.add_argument("--cookies", required=True)
     parser.add_argument("--limit", type=int, default=2)
+    parser.add_argument("--video", action="append", default=[], help="Only these video ids (repeatable); they come first and ignore --limit")
     parser.add_argument("--model", default="small.en")
     parser.add_argument("--tabs", default="videos,streams")
     parser.add_argument("--engine", default=os.environ.get("TRANSCRIBE_ENGINE", "faster-whisper"), choices=["faster-whisper", "workers-ai"],
@@ -142,7 +152,12 @@ def main():
 
     rows = list_channel(args.channel, [x.strip() for x in args.tabs.split(",") if x.strip()], args.cookies)
     done = {os.path.basename(path)[:-5] for path in glob.glob(os.path.join(transcript_dir, "*.json"))}
-    todo = [row for row in rows if row[0] not in done][: args.limit]
+    wanted = [v.strip() for v in args.video if v.strip()]
+    if wanted:
+        by_id = {row[0]: row for row in rows}
+        todo = [by_id.get(v, (v, 0, "")) for v in wanted if v not in done]
+    else:
+        todo = [row for row in rows if row[0] not in done][: args.limit]
     print(f"audio fallback {args.channel}: {len(rows)} listed, {len(done.intersection({r[0] for r in rows}))} transcripts, {len(todo)} selected")
     if not todo:
         return 0
@@ -181,8 +196,7 @@ def main():
         if result.returncode != 0 or not audio_files:
             failed += 1
             print(f"{video_id}: audio download failed: {result.stderr.strip()[-500:]}")
-            for path in glob.glob(prefix + ".*"):
-                os.remove(path)
+            clean(prefix)
             continue
 
         title, date, duration, views = metadata(info_path, fallback_title, duration_hint)
@@ -231,8 +245,7 @@ def main():
         else:
             failed += 1
             print(f"{video_id}: ingest failed: {ingest.stderr.strip()[-500:]}")
-        for path in glob.glob(prefix + ".*"):
-            os.remove(path)
+        clean(prefix)
 
     print(f"audio fallback done: {archived} archived, {failed} failed")
     return 0
