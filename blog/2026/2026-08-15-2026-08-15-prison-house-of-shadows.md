@@ -2,7 +2,7 @@
 title: "PRISON HOUSE OF SHADOWS"
 slug: "2026/2026-08-15-prison-house-of-shadows"
 date: "2026-08-15"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-08-15"
 tags: ["IUIC in the ClassRoom", "justice"]
 ---
