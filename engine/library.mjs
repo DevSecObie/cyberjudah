@@ -218,6 +218,27 @@ export function loadLibrary(ROOT) {
   // second, so the Bible can link a verse straight to where it was taught.
   const moments = new Map(); // "Book|ch" -> [{verses, label, url, date, video, t, ts}]
   const secondsOf = (ts) => ts.split(":").reduce((a, x) => a * 60 + Number(x || 0), 0);
+  // The class's own breakdown of a scripture it opened, the points under it in the note, each
+  // placed on the verse of the passage it speaks to (the one it shares the most words with;
+  // the first verse when none stands out), for the verse's Comments.
+  const commentary = new Map(); // "Book|ch" -> [{verses, points[], note, ts, video, t}]
+  const STOPW = new Set("the and that unto shall this with them they their thou thee thy for from was were have hath which what when then there his him her not all but his our you your ye are into upon".split(" "));
+  const wordsOf = (t) => new Set((t.toLowerCase().match(/[a-z]{3,}/g) ?? []).filter((w) => !STOPW.has(w)));
+  const verseList = (spec, n) => { if (!spec) return Array.from({ length: n }, (_, i) => i + 1); const out = []; for (const part of spec.split(",")) { const [a, b] = part.split("-").map(Number); for (let v = a; v <= (b || a); v++) if (v >= 1 && v <= n) out.push(v); } return out; };
+  const placePoints = (opened, pts, row) => {
+    const texts = bible[opened.book]?.[opened.chapter] ?? [];
+    const vs = verseList(opened.verses, texts.length);
+    if (!vs.length || !pts.length) return;
+    const by = new Map();
+    for (const pt of pts) {
+      const w = wordsOf(pt); let best = vs[0], score = 0;
+      if (vs.length > 1) for (const v of vs) { let s = 0; for (const x of wordsOf(texts[v - 1] ?? "")) if (w.has(x)) s++; if (s > score) { best = v; score = s; } }
+      const at = vs.length > 1 && score < 2 ? vs[0] : best;
+      if (!by.has(at)) by.set(at, []); by.get(at).push(pt);
+    }
+    const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);
+    for (const [v, list] of [...by].sort((a, b) => a[0] - b[0])) commentary.get(k).push({ verses: String(v), passage: opened.label, points: list, ...row });
+  };
   const PRECEPT = /^\s+-\s+\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*/;
   const refOf = (label, bslug, ch, anchor) => {
     const book = bookBySlug[bslug]; if (!book || !bible[book]?.[ch]) return null;
@@ -235,7 +256,8 @@ export function loadLibrary(ROOT) {
   function scanPrecepts(body, n) {
     const note = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
     const lines = body.split("\n");
-    let opened = null, ts = "", precept = null, point = "";
+    let opened = null, ts = "", precept = null, point = "", video = null, points = [];
+    const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }); points = []; };
     const flush = () => {
       if (!opened || !precept) return;
       const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
@@ -249,19 +271,19 @@ export function loadLibrary(ROOT) {
     for (const raw of lines) {
       const h = HEAD.exec(raw);
       if (h) {
-        flush(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = "";
-        const video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
+        flush(); closePassage(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = "";
+        video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
         if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", video, t: secondsOf(ts), ts }); }
         continue;
       }
       if (!opened) continue;
       const pm = PRECEPT.exec(raw);
       if (pm) { flush(); const ref = refOf(pm[1], pm[2], pm[3], pm[4]); precept = ref ? { ref, text: [] } : null; continue; }
-      if (/^- /.test(raw)) { flush(); point = plain(raw.slice(2)); continue; }
-      if (/^\S/.test(raw) && !/^>/.test(raw)) { flush(); if (/^#/.test(raw)) opened = null; continue; }
+      if (/^- /.test(raw)) { flush(); point = plain(raw.slice(2)); points.push(point); continue; }
+      if (/^\S/.test(raw) && !/^>/.test(raw)) { flush(); if (/^#/.test(raw)) { closePassage(); opened = null; } continue; }
       if (precept && /^\s{4}\S/.test(raw) && !/^\s*>/.test(raw) && !/^\s*Precepts:/.test(raw)) precept.text.push(plain(raw));
     }
-    flush();
+    flush(); closePassage();
   }
 
   const sortDated = (list) => list.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
@@ -298,6 +320,6 @@ export function loadLibrary(ROOT) {
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,
     notes, studyNotes, classNotes, captainNotes, encNotes, history, studyBooks, noteByTitle, studyFor, noteLabel,
-    cited, uniqueCitations, linked, moments, lexicon, topics,
+    cited, uniqueCitations, linked, moments, commentary, lexicon, topics,
   };
 }
