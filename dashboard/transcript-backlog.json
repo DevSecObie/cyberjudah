@@ -15,15 +15,15 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 1814,
+      "already_in_vault": 1817,
       "channel": "IUICintheClassRoom",
-      "completed": 1814,
+      "completed": 1817,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 2,
-      "progress_pct": 86.13,
-      "to_fetch": 292,
-      "videos": 2106
+      "progress_pct": 86.11,
+      "to_fetch": 293,
+      "videos": 2110
     },
     {
       "age_restricted": 0,
@@ -58,10 +58,10 @@
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 2,
-      "progress_pct": 94.53,
-      "to_fetch": 215,
-      "videos": 3933
+      "progress_pct": 94.49,
+      "to_fetch": 217,
+      "videos": 3935
     }
   ],
-  "generated_at": "2026-09-28T15:28:39.752145+00:00"
+  "generated_at": "2026-09-28T22:02:09.963566+00:00"
 }
