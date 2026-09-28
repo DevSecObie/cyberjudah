@@ -80,7 +80,7 @@ def passages():
                 close()
                 if cur and cur["precepts"]:
                     out.append(cur)
-                cur = {"file": rel, "title": meta.get("title", ""), "teacher": meta.get("teacher", ""), "opened": h.group(1).strip(),
+                cur = {"file": rel, "slug": h.group(2), "title": meta.get("title", ""), "teacher": meta.get("teacher", ""), "opened": h.group(1).strip(),
                        "ts": h.group(5) or "", "video": h.group(6) or "", "verse": "", "points": [], "precepts": []}
                 continue
             if cur is None:
@@ -88,7 +88,7 @@ def passages():
             pm = PRECEPT.match(raw)
             if pm:
                 close()
-                precept = {"label": pm.group(1).strip(), "verse": "", "line": ""}
+                precept = {"label": pm.group(1).strip(), "slug": pm.group(2), "verse": "", "line": ""}
                 continue
             if raw.startswith("- "):
                 close()
@@ -215,10 +215,35 @@ def main():
     ap.add_argument("--limit", type=int, default=0, help="at most this many passages this run")
     ap.add_argument("--timeout", type=int, default=5400, help="seconds to wait for the batch")
     ap.add_argument("--show", action="store_true", help="print the breakdowns written")
+    ap.add_argument("--book", help="only passages where this book (slug, e.g. genesis) is opened or a precept")
+    ap.add_argument("--export", help="write the briefs for what is missing to this directory, one file per passage, and stop")
+    ap.add_argument("--merge", help="merge breakdowns written by hand: a JSON file {key: why} (keys as in the brief)")
     args = ap.parse_args()
 
     done = load()
+    if args.merge:
+        got = json.load(open(args.merge, encoding="utf-8"))
+        valid = {key(p, pre) for p in passages() for pre in p["precepts"]}
+        bad = [k for k in got if k not in valid]
+        ok = {k: v.strip() for k, v in got.items() if k in valid and v.strip() and len(v.split()) <= 70}
+        done.update(ok)
+        save(done)
+        print(f"merged {len(ok)} breakdowns; {len(bad)} keys not found, {len(got) - len(ok) - len(bad)} too long or empty")
+        for k in bad[:10]:
+            print("  unknown: " + k)
+        return
     todo = [p for p in passages() if any(key(p, pre) not in done for pre in p["precepts"])]
+    if args.book:
+        slug = args.book.lower()
+        todo = [p for p in todo if p.get("slug") == slug or any(pre.get("slug") == slug for pre in p["precepts"])]
+    if args.export:
+        os.makedirs(args.export, exist_ok=True)
+        for i, p in enumerate(todo):
+            keys = [key(p, pre) for pre in p["precepts"] if key(p, pre) not in done]
+            with open(os.path.join(args.export, f"{i:04d}.txt"), "w", encoding="utf-8") as f:
+                f.write(prompt(p) + "\n\nKEYS (answer {key: why} for each):\n" + "\n".join(keys) + "\n")
+        print(f"{len(todo)} briefs written to {args.export} · {sum(len(p['precepts']) for p in todo)} precepts")
+        return
     if args.limit:
         todo = todo[: args.limit]
     precepts = sum(len(p["precepts"]) for p in todo)
