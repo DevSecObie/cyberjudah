@@ -253,8 +253,14 @@ export function loadLibrary(ROOT) {
   // the precept shows under that verse rather than piled on the first verse of the range.
   const atFile = path.join(DATA, "precepts", "at.json");
   const AT = fs.existsSync(atFile) ? JSON.parse(fs.readFileSync(atFile, "utf8")) : {};
+  // Who taught each passage of a note, when a class had several teachers or the note names
+  // none: "<note file>|<scripture opened>" -> "Bishop Nathanyel". The Bishops' and Deacons'
+  // teaching is shown first wherever several classes speak to a verse.
+  const teachersFile = path.join(DATA, "precepts", "teachers.json");
+  const TEACHERS = fs.existsSync(teachersFile) ? JSON.parse(fs.readFileSync(teachersFile, "utf8")) : {};
   function scanPrecepts(body, n) {
-    const note = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
+    const classNote = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
+    let note = classNote;
     const lines = body.split("\n");
     let opened = null, ts = "", precept = null, point = "", video = null, points = [];
     const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }); points = []; };
@@ -272,8 +278,9 @@ export function loadLibrary(ROOT) {
       const h = HEAD.exec(raw);
       if (h) {
         flush(); closePassage(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = "";
+        const who = opened && TEACHERS[`${n.file}|${opened.label}`]; note = who ? { ...classNote, teacher: who } : classNote;
         video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
-        if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", video, t: secondsOf(ts), ts }); }
+        if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", teacher: note.teacher, video, t: secondsOf(ts), ts }); }
         continue;
       }
       if (!opened) continue;
@@ -319,11 +326,12 @@ export function loadLibrary(ROOT) {
   for (const f of passFiles) {
     const c = JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8"));
     if (!c.video || notedVideos.has(c.video)) continue;
-    const note = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: c.teacher || "" };
+    const classNote = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: c.teacher || "" };
     for (const p of c.passages ?? []) {
       const opened = refFrom(p.opened); if (!opened) continue;
+      const note = p.teacher ? { ...classNote, teacher: p.teacher } : classNote;
       const ts = p.ts || "", t = ts ? secondsOf(ts) : 0;
-      if (ts) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses, label: c.title, url: note.url, date: note.date, video: c.video, t, ts }); }
+      if (ts) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses, label: c.title, url: note.url, date: note.date, teacher: note.teacher, video: c.video, t, ts }); }
       for (const s of p.sense ?? []) {
         if (!s.text) continue;
         const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);

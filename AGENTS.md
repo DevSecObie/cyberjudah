@@ -38,6 +38,7 @@ A **precept pass** turns one class that has no study note yet into one data file
 #### 1. Every scripture the class OPENED
 A scripture is "opened" when the teacher calls for it, it is read aloud, and it is taught. For each one record:
 - `opened`: the reference exactly as it was read, e.g. `"Isaiah 61:1-3"`, `"Genesis 1:1"`, `"Luke 19:11-27"`. Use the full range that was actually read, not just the first verse.
+- `teacher`: who taught this passage, with the title and spelling as the class gives it (e.g. `"Bishop Nathanyel"`, `"Deacon Malachi"`, `"Captain Gideon"`). A long class often has several teachers; record the one teaching at this passage. Leave empty only if the class never says.
 - `ts`: the timestamp where the reading begins, as `m:ss` or `h:mm:ss`, from the transcript line where it happened.
 
 Keep the passages in the order the class opened them.
@@ -70,6 +71,8 @@ Use as many short paragraphs as it takes, separated by a blank line (`\n\n` in t
 
 ### Rules (these are strict)
 
+0. **The Bishops' and Deacons' teaching takes precedence over everyone else's.** Their breakdowns stand as written. Where another teacher in the same class says something different about a scripture, give the Bishop's or Deacon's understanding. Always record `teacher` so the app can put their teaching first.
+
 1. **Never invent a reference.** Only scriptures actually read in the class. If the captions garble a reference ("second Ezra six and thirty-eight" is 2 Esdras 6:38), fix it only when the verse that was read proves which one it is. If you can't tell, leave it out.
 2. **Skip what was not taught:** verses only listed on a dictionary or commentary screen and not read; a scripture called for and then dropped; readings with no teaching (an opening prayer, the bread and wine).
 3. **Quote scripture exactly** in the King James Version (1611, with the Apocrypha), inside curly quotes “like this”. Only quote words that were actually read in that moment of the class, and copy them word for word, spelling included ("spakest", "commandedst", "saith"). Never paraphrase inside quotes.
@@ -95,6 +98,7 @@ Write ONE JSON file, `data/precepts/classes/<video id>.json`, exactly in this sh
   "passages": [
     {
       "opened": "Isaiah 61:1-3",
+      "teacher": "Bishop Nathanyel",
       "ts": "29:11",
       "sense": [
         { "at": "1", "text": "Paragraph one.\n\nParagraph two." }
