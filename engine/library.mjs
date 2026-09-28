@@ -228,6 +228,10 @@ export function loadLibrary(ROOT) {
   // from the class by scripts/precepts/why.py and keyed "<note file>|<scripture opened>|<precept>".
   const whyFile = path.join(DATA, "precepts", "why.json");
   const WHY = fs.existsSync(whyFile) ? JSON.parse(fs.readFileSync(whyFile, "utf8")) : {};
+  // The verse each precept explains when the class opened a range (scripts/precepts/at.py):
+  // the precept shows under that verse rather than piled on the first verse of the range.
+  const atFile = path.join(DATA, "precepts", "at.json");
+  const AT = fs.existsSync(atFile) ? JSON.parse(fs.readFileSync(atFile, "utf8")) : {};
   function scanPrecepts(body, n) {
     const note = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
     const lines = body.split("\n");
@@ -235,8 +239,10 @@ export function loadLibrary(ROOT) {
     const flush = () => {
       if (!opened || !precept) return;
       const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
-      const why = WHY[`${n.file}|${opened.label}|${precept.ref.label}`];
-      link(opened, { kind: "precept", ref: precept.ref, text, point, note, ts, ...(why ? { why } : {}) });
+      const key = `${n.file}|${opened.label}|${precept.ref.label}`;
+      const why = WHY[key];
+      const at = AT[key]?.v;
+      link(at ? { ...opened, verses: at } : opened, { kind: "precept", ref: precept.ref, text, point, note, ts, ...(why ? { why } : {}) });
       link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts, ...(why ? { why } : {}) });
       precept = null;
     };
