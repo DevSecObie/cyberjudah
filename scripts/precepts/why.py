@@ -122,10 +122,18 @@ def key(p, pre):
 
 CANON = "genesis exodus leviticus numbers deuteronomy joshua judges ruth 1-samuel 2-samuel 1-kings 2-kings 1-chronicles 2-chronicles ezra nehemiah esther job psalms proverbs ecclesiastes song-of-solomon isaiah jeremiah lamentations ezekiel daniel hosea joel amos obadiah jonah micah nahum habakkuk zephaniah haggai zechariah malachi matthew mark luke john acts romans 1-corinthians 2-corinthians galatians ephesians philippians colossians 1-thessalonians 2-thessalonians 1-timothy 2-timothy titus philemon hebrews james 1-peter 2-peter 1-john 2-john 3-john jude revelation".split()
 
+# A breakdown shorter than this is a first, short pass: it is written again in full.
+DEEP_MIN = 60
+
+
+def deep(done, k):
+    return len(done.get(k, "").split()) >= DEEP_MIN
+
+
 _transcripts = {}
 
 
-def spoken(video, ts, before=90, after=360, max_words=1400):
+def spoken(video, ts, before=45, after=1500, max_words=5000):
     """The class's own words around the moment the scripture was opened."""
     if not video:
         return ""
@@ -142,18 +150,24 @@ def spoken(video, ts, before=90, after=360, max_words=1400):
     return " ".join(words[:max_words])
 
 
-SYSTEM = """You write the quick breakdowns in CyberJudah's Bible app. Under a verse, a reader taps "Precept(s)" and sees each precept a class lined up with that verse, its words, and your breakdown: why that precept is there.
+SYSTEM = """You write the breakdowns in CyberJudah's Bible app. Under a verse, a reader taps "Precept(s)" and sees each precept a class lined up with that verse, its words, and your breakdown: why that precept is there. This is not an ordinary Bible app; it is meant to be comprehensive. Get all the meat off the bone.
 
-For each precept you are given, write one or two sentences (at most 45 words) that say why the class paired it with the scripture opened: what the precept shows or proves about that verse, as the class taught it.
+For each precept you are given, write everything the class drew from it at that moment:
+- what the precept says, and what it proves or explains about the scripture opened;
+- the verses read around it, when the class kept reading;
+- the points made from it, the connections drawn to the other scriptures read in that moment, words defined, names and places identified, history given, and how the class applied it to our people today;
+- the class's conclusion: why it matters for understanding the scripture opened.
+Use as many short paragraphs as it takes, separated by a blank line. Don't pad it and don't repeat yourself, but leave nothing out that the class taught.
 
-- Teach it plainly, as the class's understanding, in warm and simple words. Do not write "the teacher says", "the class teaches" or "this precept"; just say it.
-- Stay inside what the class taught (the note's points, its line on the precept, and the class's own words). Never bring in other doctrine, other verses or outside commentary. If the material is thin, keep to what the two verses themselves plainly share.
-- You may quote a few words of either verse exactly, in curly quotes. Do not quote anything else.
-- Keep proper names and titles exactly as given.
+- The Bishops' and Deacons' teaching takes precedence over everyone else's.
+- Teach it plainly, as the class's understanding, in warm and simple words. Never write "the teacher says", "the class teaches", "this precept" or "the speaker"; just say it.
+- Stay inside what the class taught (the note's points, its line on the precept, and the class's own words). Never bring in other doctrine, commentary or verses the class did not read.
+- Quote scripture only word for word in the King James Version, in curly quotes, and only verses read in that moment. Do not quote anything else.
+- Keep proper names and titles exactly as given. Nothing about captions or transcripts.
 
-Answer with JSON only: {"breakdowns": [{"precept": "<the precept's label exactly as given>", "why": "<the breakdown>"}]}"""
+Answer with JSON only: {"breakdowns": [{"precept": "<the precept's label exactly as given>", "why": "<the breakdown, paragraphs separated by \\n\\n>"}]}"""
 
-EXAMPLE_IN = """Scripture opened: Genesis 1:1
+EXAMPLE_IN = """Scripture opened: Genesis 1:1 (the class read Genesis 1:1-5, 2 Esdras 6:38-40, John 1:1-10 and John 8:12 here)
 "In the beginning God created the heaven and the earth."
 Class: The Kingdom Of Adam And The Old World
 Points:
@@ -164,9 +178,9 @@ Precepts:
 2. John 1:4: "In him was life; and the life was the light of men." Note's line: In him was life, and the life was the light of men.
 3. John 8:12: "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life." Note's line: I am the light of the world."""
 EXAMPLE_OUT = json.dumps({"breakdowns": [
-    {"precept": "2 Esdras 6:38", "why": "Ezra says God spoke on the first day and brought a light out of his treasures. That light came before the sun and moon, so the beginning started with God's word and that light, not with the earth."},
-    {"precept": "John 1:4", "why": "“In him was life; and the life was the light of men.” The light made first is Christ, so “in the beginning” begins with him."},
-    {"precept": "John 8:12", "why": "Christ calls himself “the light of the world”, naming himself as the light God called forth on the first day."},
+    {"precept": "2 Esdras 6:38", "why": "Ezra says the Lord spoke “from the beginning of the creation, even the first day”, saying “Let heaven and earth be made; and thy word was a perfect work.” The word that did that perfect work is Christ.\n\nRead on and Ezra shows what was there before anything was made: “darkness and silence were on every side; the sound of man’s voice was not yet formed.” Nothing, a great void. “Then commandedst thou a fair light to come forth of thy treasures, that thy work might appear.” That fair light out of God’s treasures is the light of Genesis 1:3, and it is worded that way because that light is what made everything else: it came forth so that God’s works could appear.\n\nSo “in the beginning” is not only the making of the earth and the sky. It is the beginning of all creation, and it begins with Christ, the first thing God created, the light called forth on the first day."},
+    {"precept": "John 1:4", "why": "John opens the way Genesis does: “In the beginning was the Word, and the Word was with God, and the Word was God.” The Word that was with God is Christ. He was a God in the beginning, made in the image of his Father, creating angels, galaxies and planets. “The same was in the beginning with God”: two different persons, the Father and the Son.\n\n“All things were made by him; and without him was not any thing made that was made.” Then: “In him was life; and the life was the light of men. And the light shineth in darkness.” That is the same light God brought out of his treasures in 2 Esdras 6, the light of Genesis 1.\n\nJohn the Baptist “came for a witness, to bear witness of the Light”, and “He was not that Light.” Christ is “the true Light, which lighteth every man that cometh into the world”: the true light God created on the first day."},
+    {"precept": "John 8:12", "why": "Christ says it himself: “I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.” We read that Christ is the first thing created; we go to the first thing created and God says “Let there be light”; and here Christ says, I am that light. The scriptures line up.\n\nThat is why the light of Genesis 1:3 is not the light of the sun. The earth was “without form and void”, not yet made, and the sun and moon, the “two great lights”, were not made until “the fourth day.” Read with a carnal mind, it sounds like daylight; read with the spirit, it is the Son.\n\nMoses was told to hide these things and not make them plain for everyone, which is why Christ is called the hidden wisdom. Even the dividing of the light from the darkness, the light called day and the darkness night, is a similitude."},
 ]}, ensure_ascii=False)
 
 
@@ -190,7 +204,7 @@ def prompt(p):
 def request(p):
     return {
         "model": MODEL,
-        "max_tokens": 1200,
+        "max_tokens": 6000,
         "system": SYSTEM,
         "messages": [
             {"role": "user", "content": EXAMPLE_IN},
@@ -219,7 +233,7 @@ def main():
     ap.add_argument("--show", action="store_true", help="print the breakdowns written")
     ap.add_argument("--book", help="only passages where this book (slug, e.g. genesis) is opened or a precept")
     ap.add_argument("--export", help="write the briefs for what is missing to this directory, one file per passage, and stop")
-    ap.add_argument("--next-book", action="store_true", help="print the first book, in order, that still has precepts missing a breakdown")
+    ap.add_argument("--next-book", action="store_true", help="print the first book, in order, that still has precepts missing a full breakdown")
     ap.add_argument("--merge", help="merge breakdowns written by hand: a JSON file {key: why} (keys as in the brief)")
     args = ap.parse_args()
 
@@ -228,17 +242,17 @@ def main():
         got = json.load(open(args.merge, encoding="utf-8"))
         valid = {key(p, pre) for p in passages() for pre in p["precepts"]}
         bad = [k for k in got if k not in valid]
-        ok = {k: v.strip() for k, v in got.items() if k in valid and v.strip() and len(v.split()) <= 70}
+        ok = {k: v.strip() for k, v in got.items() if k in valid and v.strip() and len(v.split()) <= 1200}
         done.update(ok)
         save(done)
         print(f"merged {len(ok)} breakdowns; {len(bad)} keys not found, {len(got) - len(ok) - len(bad)} too long or empty")
         for k in bad[:10]:
             print("  unknown: " + k)
         return
-    todo = [p for p in passages() if any(key(p, pre) not in done for pre in p["precepts"])]
+    todo = [p for p in passages() if any(not deep(done, key(p, pre)) for pre in p["precepts"])]
     if args.next_book:
         order = CANON + sorted(f[:-5] for f in os.listdir(os.path.join(ROOT, "data", "bible")) if f[:-5] not in CANON)
-        left = {p.get("slug") for p in todo} | {pre.get("slug") for p in todo for pre in p["precepts"] if key(p, pre) not in done}
+        left = {p.get("slug") for p in todo} | {pre.get("slug") for p in todo for pre in p["precepts"] if not deep(done, key(p, pre))}
         print(next((b for b in order if b in left), ""))
         return
     if args.book:
@@ -247,7 +261,7 @@ def main():
     if args.export:
         os.makedirs(args.export, exist_ok=True)
         for i, p in enumerate(todo):
-            keys = [key(p, pre) for pre in p["precepts"] if key(p, pre) not in done]
+            keys = [key(p, pre) for pre in p["precepts"] if not deep(done, key(p, pre))]
             with open(os.path.join(args.export, f"{i:04d}.txt"), "w", encoding="utf-8") as f:
                 f.write(prompt(p) + "\n\nKEYS (answer {key: why} for each):\n" + "\n".join(keys) + "\n")
         print(f"{len(todo)} briefs written to {args.export} · {sum(len(p['precepts']) for p in todo)} precepts")
@@ -257,7 +271,7 @@ def main():
     precepts = sum(len(p["precepts"]) for p in todo)
     tin = sum(len(json.dumps(request(p))) // 4 for p in todo)
     tout = precepts * 70
-    print(f"{len(todo)} passages · {precepts} precepts missing a breakdown · ~{tin:,} input / ~{tout:,} output tokens · about ${tin * PRICE_IN + tout * PRICE_OUT:,.2f} at batch prices for {MODEL}")
+    print(f"{len(todo)} passages · {precepts} precepts missing a full breakdown · ~{tin:,} input / ~{tout:,} output tokens · about ${tin * PRICE_IN + tout * PRICE_OUT:,.2f} at batch prices for {MODEL}")
     if args.plan or not todo:
         return
 
@@ -294,7 +308,7 @@ def main():
         by = {str(x.get("precept", "")).strip(): str(x.get("why", "")).strip() for x in got.get("breakdowns", []) if isinstance(x, dict)}
         for pre in p["precepts"]:
             why = by.get(pre["label"])
-            if why and len(why.split()) <= 70:
+            if why and len(why.split()) <= 1200:
                 done[key(p, pre)] = why
                 wrote += 1
                 if args.show:
