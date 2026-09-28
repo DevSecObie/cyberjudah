@@ -220,6 +220,10 @@ export function loadLibrary(ROOT) {
     const lm = /:([\d,\-]+)$/.exec(label.trim());
     return { book, chapter: +ch, verses: lm ? lm[1] : anchor || "", label: label.trim(), url: `/bible/${bslug}/${ch}${anchor ? "#v" + anchor : ""}` };
   };
+  // The "Precept(s)" breakdowns, one or two sentences on why each precept is there, written
+  // from the class by scripts/precepts/why.py and keyed "<note file>|<scripture opened>|<precept>".
+  const whyFile = path.join(DATA, "precepts", "why.json");
+  const WHY = fs.existsSync(whyFile) ? JSON.parse(fs.readFileSync(whyFile, "utf8")) : {};
   function scanPrecepts(body, n) {
     const note = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
     const lines = body.split("\n");
@@ -227,8 +231,9 @@ export function loadLibrary(ROOT) {
     const flush = () => {
       if (!opened || !precept) return;
       const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
-      link(opened, { kind: "precept", ref: precept.ref, text, point, note, ts });
-      link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts });
+      const why = WHY[`${n.file}|${opened.label}|${precept.ref.label}`];
+      link(opened, { kind: "precept", ref: precept.ref, text, point, note, ts, ...(why ? { why } : {}) });
+      link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts, ...(why ? { why } : {}) });
       precept = null;
     };
     for (const raw of lines) {
