@@ -60,9 +60,9 @@ def seconds(ts):
 
 
 def passages():
-    """Every passage with precepts, in every class and Captains note, as the engine reads them."""
+    """Every passage with precepts, in every class, Captains and study note, as the engine reads them."""
     out = []
-    for path in sorted(glob.glob(os.path.join(ROOT, "blog", "*", "*.md")) + glob.glob(os.path.join(ROOT, "captains", "*", "*.md"))):
+    for path in sorted(glob.glob(os.path.join(ROOT, "blog", "*", "*.md")) + glob.glob(os.path.join(ROOT, "captains", "*", "*.md")) + glob.glob(os.path.join(ROOT, "docs", "study", "*", "*.md"))):
         meta, body = front(open(path, encoding="utf-8").read())
         rel = os.path.relpath(path, ROOT)
         cur = None
@@ -127,6 +127,10 @@ DEEP_MIN = 60
 
 
 def deep(done, k):
+    # A study note has no recording behind it: its breakdown is as full as the note allows,
+    # so any written breakdown counts as done.
+    if k.startswith("docs/study/"):
+        return bool(done.get(k, "").strip())
     return len(done.get(k, "").split()) >= DEEP_MIN
 
 
