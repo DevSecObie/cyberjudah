@@ -298,6 +298,47 @@ export function loadLibrary(ROOT) {
   const historyNoteList = notes.filter((n) => n.kind === "history");
   for (const n of [...studyNotes, ...classNotes, ...captainNotes, ...encNotes, ...historyNoteList]) scanCitations(n.body, noteSelf(n));
   for (const n of [...classNotes, ...captainNotes]) scanPrecepts(n.body, n);
+  // Classes with no study note yet: their precept passes (data/precepts/classes/<video>.json,
+  // checked by scripts/precepts/classes.py) add the same precepts, moments and breakdowns.
+  // A class that has since got its note is read from the note instead.
+  const notedVideos = new Set([...classNotes, ...captainNotes].map((n) => n.videoId).filter(Boolean));
+  const passDir = path.join(DATA, "precepts", "classes");
+  const BOOK_ALIAS = { ecclesiasticus: "sirach", "wisdom of sirach": "sirach", "rest of esther": "esther-greek", "the rest of esther": "esther-greek", "esther (greek)": "esther-greek", "the wisdom of solomon": "wisdom-of-solomon", "song of the three holy children": "song-of-the-three-children", "the song of the three holy children": "song-of-the-three-children", "history of susanna": "susanna", "the history of susanna": "susanna", "prayer of manasses": "prayer-of-manasseh", "the prayer of manasses": "prayer-of-manasseh", "epistle of jeremy": "epistle-of-jeremiah", psalm: "psalms", "song of songs": "song-of-solomon" };
+  const slugByName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => [b.toLowerCase(), sl]));
+  const refFrom = (label) => {
+    const m = /^\s*(.+?)\s+(\d+)(?::\s*([\d,\s\-–]+))?\s*$/.exec(String(label)); if (!m) return null;
+    const name = m[1].trim().toLowerCase().replace(/\./g, "");
+    const sl = slugByName[name] ?? BOOK_ALIAS[name]; const book = sl && bookBySlug[sl];
+    if (!book || !bible[book]?.[m[2]]) return null;
+    const verses = (m[3] ?? "").replace(/\s+/g, "").replace(/–/g, "-");
+    const first = verses ? verses.split(/[-,]/)[0] : "";
+    return { book, chapter: +m[2], verses, label: String(label).trim(), url: `/bible/${sl}/${m[2]}${first ? "#v" + first : ""}` };
+  };
+  const passFiles = fs.existsSync(passDir) ? fs.readdirSync(passDir).filter((f) => f.endsWith(".json")).sort() : [];
+  let passPrecepts = 0;
+  for (const f of passFiles) {
+    const c = JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8"));
+    if (!c.video || notedVideos.has(c.video)) continue;
+    const note = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: c.teacher || "" };
+    for (const p of c.passages ?? []) {
+      const opened = refFrom(p.opened); if (!opened) continue;
+      const ts = p.ts || "", t = ts ? secondsOf(ts) : 0;
+      if (ts) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses, label: c.title, url: note.url, date: note.date, video: c.video, t, ts }); }
+      for (const s of p.sense ?? []) {
+        if (!s.text) continue;
+        const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);
+        commentary.get(k).push({ verses: String(s.at || opened.verses.split(/[-,]/)[0] || "1"), passage: opened.label, points: String(s.text).split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean), note, ts, video: c.video, t });
+      }
+      for (const pre of p.precepts ?? []) {
+        const ref = refFrom(pre.ref); if (!ref) continue;
+        const row = { text: "", point: "", note, ts, ...(pre.why ? { why: pre.why } : {}) };
+        link(pre.at ? { ...opened, verses: String(pre.at) } : opened, { kind: "precept", ref, ...row });
+        link(ref, { kind: "opened", ref: opened, ...row });
+        passPrecepts++;
+      }
+    }
+  }
+  if (passFiles.length) console.error(`precept passes: ${passFiles.length} classes, ${passPrecepts} precepts`);
   for (const c of cases.cases) for (const r of c.refs) cite(r, "case", c.name, caseUrl(c));
   for (const p of handbook.parts) for (const s of p.sections) for (const e of s.entries) {
     const id = `${s.id}.${e.n}`;
