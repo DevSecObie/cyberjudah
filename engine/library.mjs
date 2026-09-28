@@ -304,7 +304,8 @@ export function loadLibrary(ROOT) {
   // same order the site has always used: notes, cases, laws, precepts.
   const historyNoteList = notes.filter((n) => n.kind === "history");
   for (const n of [...studyNotes, ...classNotes, ...captainNotes, ...encNotes, ...historyNoteList]) scanCitations(n.body, noteSelf(n));
-  for (const n of [...classNotes, ...captainNotes]) scanPrecepts(n.body, n);
+  // Study notes too: their breakdown of each passage is a verse's comment like a class's.
+  for (const n of [...classNotes, ...captainNotes, ...studyNotes]) scanPrecepts(n.body, n);
   // Classes with no study note yet: their precept passes (data/precepts/classes/<video>.json,
   // checked by scripts/precepts/classes.py) add the same precepts, moments and breakdowns.
   // A class that has since got its note is read from the note instead.
