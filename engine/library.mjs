@@ -220,7 +220,7 @@ export function loadLibrary(ROOT) {
   const secondsOf = (ts) => ts.split(":").reduce((a, x) => a * 60 + Number(x || 0), 0);
   // The class's own breakdown of a scripture it opened, the points under it in the note, each
   // placed on the verse of the passage it speaks to (the one it shares the most words with;
-  // the first verse when none stands out), for the verse's Comments.
+  // a point that speaks to none in particular is left off), for the verse's Comments.
   const commentary = new Map(); // "Book|ch" -> [{verses, points[], note, ts, video, t}]
   const STOPW = new Set("the and that unto shall this with them they their thou thee thy for from was were have hath which what when then there his him her not all but his our you your ye are into upon".split(" "));
   const wordsOf = (t) => new Set((t.toLowerCase().match(/[a-z]{3,}/g) ?? []).filter((w) => !STOPW.has(w)));
@@ -233,7 +233,10 @@ export function loadLibrary(ROOT) {
     for (const pt of pts) {
       const w = wordsOf(pt); let best = vs[0], score = 0;
       if (vs.length > 1) for (const v of vs) { let s = 0; for (const x of wordsOf(texts[v - 1] ?? "")) if (w.has(x)) s++; if (s > score) { best = v; score = s; } }
-      const at = vs.length > 1 && score < 2 ? vs[0] : best;
+      // A point that speaks to no verse of the passage in particular is not a comment on any
+      // one of them, so it is left off rather than put on the first.
+      if (vs.length > 1 && score < 2) continue;
+      const at = best;
       if (!by.has(at)) by.set(at, []); by.get(at).push(pt);
     }
     const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);
