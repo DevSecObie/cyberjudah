@@ -265,11 +265,59 @@ if (THUMBS) {
   console.error(`frames: ${placed} notes with ${figures} frames placed, ${noBoard} recordings without frames yet (${jobs.length} with screen moments)`);
 }
 
+/* ---------------- api: library (public-domain books the classes read from) ---------------- */
+// data/library/<slug>/: book.json, pages.json and reads.json (scripts/library/archive_book.py).
+// Each book gets its contents, its chapters page by page, its maps, and every class moment
+// where it was read, linked to that class's note when there is one.
+const LIB = path.join(ROOT, "data", "library");
+const libraryIndex = [];
+const booksReadIn = new Map(); // videoId -> [{ slug, title, page, t, ts }]
+const booksByNote = new Map(); // note url -> the same, for notes found by their artwork
+if (fs.existsSync(LIB)) {
+  // A note names its video in data-video-id, or only (lowercased) in its class artwork's file name.
+  const noteByVideo = new Map();
+  for (const n of notes) {
+    if (n.videoId) noteByVideo.set(n.videoId.toLowerCase(), n);
+    const art = /\/class-images\/class-([a-z0-9_-]{11})\.jpg/.exec(n.body ?? "")?.[1];
+    if (art && !noteByVideo.has(art)) noteByVideo.set(art, n);
+  }
+  for (const h of L.history) if (h.noted && h.videoId && !noteByVideo.has(h.videoId.toLowerCase())) noteByVideo.set(h.videoId.toLowerCase(), h);
+  const transcript = (v) => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, "blog", "transcripts", `${v}.json`), "utf8")); } catch { return {}; } };
+  for (const slug of fs.readdirSync(LIB).sort()) {
+    const dir = path.join(LIB, slug);
+    if (!fs.existsSync(path.join(dir, "book.json"))) continue;
+    const book = JSON.parse(fs.readFileSync(path.join(dir, "book.json"), "utf8"));
+    const pages = JSON.parse(fs.readFileSync(path.join(dir, "pages.json"), "utf8"));
+    const readsFile = path.join(dir, "reads.json");
+    const reads = (fs.existsSync(readsFile) ? JSON.parse(fs.readFileSync(readsFile, "utf8")).reads : []).map((r) => {
+      const n = noteByVideo.get(r.video.toLowerCase()), t = n ? null : transcript(r.video);
+      return { ...r, title: n?.title ?? t.title ?? "", date: n?.date ?? t.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null };
+    }).sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.t - b.t);
+    for (const r of reads) {
+      if (!booksReadIn.has(r.video)) booksReadIn.set(r.video, []);
+      booksReadIn.get(r.video).push({ slug, title: book.title, page: r.page, t: r.t, ts: r.ts });
+      if (r.url) { if (!booksByNote.has(r.url)) booksByNote.set(r.url, []); booksByNote.get(r.url).push({ slug, title: book.title, page: r.page, t: r.t, ts: r.ts, video: r.video }); }
+    }
+    const readsOn = (p) => reads.filter((r) => r.page === p).map(({ video, t, ts, title, date, teacher, url }) => ({ video, t, ts, title, date, teacher, url }));
+    const chapters = book.chapters.map((c, k) => ({ k, ...c, reads: reads.filter((r) => r.page >= c.page && r.page <= c.end).length }));
+    chapters.forEach((c) => writeJson(path.join(API, "library", slug, "chapter", `${c.k}.json`), {
+      ...c, pages: pages.filter((p) => p.page >= c.page && p.page <= c.end).map((p) => ({ ...p, reads: readsOn(p.page) })),
+    }));
+    for (const m of book.maps) fs.copyFileSync(path.join(dir, m.file), (fs.mkdirSync(path.join(API, "library", slug, "maps"), { recursive: true }), path.join(API, "library", slug, m.file)));
+    const maps = book.maps.map((m) => ({ ...m, url: `/api/library/${slug}/${m.file}`, chapter: chapters.findIndex((c) => m.facing >= c.page && m.facing <= c.end), reads: reads.filter((r) => r.page === m.facing || r.page === m.facing + 1).length }));
+    const classes = new Set(reads.map((r) => r.video)).size;
+    writeJson(path.join(API, "library", slug, "book.json"), { ...book, chapters, maps, reads, classes });
+    libraryIndex.push({ slug, title: book.title, subtitle: book.subtitle, author: book.author, year: book.year, pages: book.pages, chapters: chapters.length, maps: maps.length, cover: maps[0]?.url ?? null, reads: reads.length, classes });
+  }
+}
+writeJson(path.join(API, "library", "index.json"), libraryIndex);
+console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a, b) => a + b.reads, 0)} class readings`);
+
 /* ---------------- api: notes ---------------- */
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, year: n.year, series: n.series, teacher: n.teacher, topics: n.topics ?? [], summary: n.summary ?? n.description ?? "", videoId: n.videoId ?? null })));
 for (const n of notes) {
   const rel = n.url.replace(/^\//, "") + ".json";
-  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, body: n.body });
+  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, books: booksReadIn.get(n.videoId ?? "") ?? booksByNote.get(n.url) ?? [], body: n.body });
 }
 
 /* ---------------- api: Our Hidden History ---------------- */
@@ -427,7 +475,7 @@ writeJson(path.join(API, "index.json"), {
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
   concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
-  history: "/api/history/index.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
+  history: "/api/history/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
