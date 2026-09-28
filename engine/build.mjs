@@ -45,6 +45,19 @@ const SEARCH = path.join(OUT, "search");
 const L = loadLibrary(ROOT);
 const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary } = L;
 
+/* ---------------- people (STEPBible TIPNR, CC BY 4.0) ---------------- */
+// Who is named in each verse, and a page per person: names, family, every verse, and what the
+// classes taught where the person comes up (a comment on one of their verses naming them).
+const peopleFile = path.join(ROOT, "data", "people", "people.json");
+const peopleDoc = fs.existsSync(peopleFile) ? JSON.parse(fs.readFileSync(peopleFile, "utf8")) : { people: [] };
+const personById = new Map(peopleDoc.people.map((p) => [p.id, p]));
+const namedIn = new Map(); // "slug|ch" -> { verse: [id] }
+for (const p of peopleDoc.people) for (const ref of p.verses) {
+  const [sl, ch, v] = ref.split("/"); const k = `${sl}|${ch}`;
+  if (!namedIn.has(k)) namedIn.set(k, {}); (namedIn.get(k)[v] ??= []).push(p.id);
+}
+const bySlugName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => [sl, b]));
+
 /* ---------------- api: scripture and concordance ---------------- */
 for (const b of BOOKS) {
   const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
@@ -52,7 +65,7 @@ for (const b of BOOKS) {
     const verses = bible[b][String(c)] ?? [];
     writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
-    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [] });
+    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {} });
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0), chapterIds: chs });
 }
@@ -154,6 +167,29 @@ for (const b of BOOKS) {
   concordanceIndex.push({ book: b, slug: bookSlug[b], testament: testament(b), url: bookUrl(b), chapters: CHAPTERS[b], cited: chs, citations });
 }
 writeJson(path.join(API, "concordance", "index.json"), concordanceIndex);
+
+const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name } : null; };
+const peopleIndex = [];
+for (const p of peopleDoc.people) {
+  const words = new Set(p.names.map((n) => n.toLowerCase()));
+  const taught = [];
+  for (const ref of p.verses) {
+    const [sl, ch, v] = ref.split("/"); const book = bySlugName[sl]; if (!book) continue;
+    for (const c of commentary.get(`${book}|${ch}`) ?? []) {
+      if (c.verses !== v) continue;
+      const pts = c.points.filter((pt) => [...words].some((w) => new RegExp(`\\b${w.replace(/[^a-z]/g, "")}\\b`, "i").test(pt)));
+      if (pts.length) taught.push({ verse: `${book} ${ch}:${v}`, url: `/bible/${sl}/${ch}#v${v}`, points: pts, note: c.note, ts: c.ts, video: c.video, t: c.t });
+    }
+  }
+  writeJson(path.join(API, "people", `${p.id}.json`), {
+    id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe,
+    father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
+    siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
+    verses: p.verses, taught, source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
+  });
+  peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, verses: p.verses.length, first: p.verses[0] });
+}
+writeJson(path.join(API, "people", "index.json"), peopleIndex);
 
 /* ---------------- api: encyclopedia, topics ---------------- */
 writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({ slug: n.slug, title: n.title, url: n.url, summary: n.summary ?? "" })));
