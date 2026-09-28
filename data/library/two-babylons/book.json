@@ -1,0 +1,393 @@
+{
+ "title": "The Two Babylons",
+ "subtitle": "Or the Papal Worship Proved to be the Worship of Nimrod and His Wife",
+ "author": "Alexander Hislop",
+ "year": 1871,
+ "publisher": "S. W. Partridge and Co., London (third edition)",
+ "license": "Public domain.",
+ "slug": "two-babylons",
+ "source": "https://archive.org/details/cu31924029406448",
+ "items": [
+  {
+   "id": "cu31924029406448",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 333,
+ "volumes": 1,
+ "chapters": [
+  {
+   "n": "I",
+   "title": "Distinctive Character of the Two Systems",
+   "vol": 1,
+   "volume": "",
+   "page": 4,
+   "end": 11,
+   "topics": "Distinctive Character Of."
+  },
+  {
+   "n": "II",
+   "title": "Objects of Worship",
+   "vol": 1,
+   "volume": "",
+   "page": 12,
+   "end": 73,
+   "topics": "Objects Of Worship. Section I. Teinity In Unity. Trinity In Unity. The Mother And Child. -The Mother And Child, And The Original Of The Child. Sub-Section I. The Child In Assyria. Objects In Worship. The Child In Egypt. Sub-Section Iii. The Child In Greece. The Child In Greece. Sub-Section Iv. The Death Op The Child. Sub-Section V. — The Deification Of The Child. Objects Op Woeship. The Deification Of The Child."
+  },
+  {
+   "n": "III",
+   "title": "The Mother Op the Child",
+   "vol": 1,
+   "volume": "",
+   "page": 74,
+   "end": 124,
+   "topics": "The Mother Of The Child. Festivals. Section I. — Christmas And Lady-Day. Christmas And Lady-Day. Easter."
+  },
+  {
+   "n": "IV",
+   "title": "The Feast of the Assumption",
+   "vol": 1,
+   "volume": "",
+   "page": 125,
+   "end": 166,
+   "topics": "Doctkine And Discipline."
+  },
+  {
+   "n": "V",
+   "title": "Purgatory and Peayees Foe the Dead",
+   "vol": 1,
+   "volume": "",
+   "page": 167,
+   "end": 196,
+   "topics": "Rites And Ceremonies. Section I. — Idol Processions. The Clothing And Crowning Of Images."
+  },
+  {
+   "n": "VI",
+   "title": "The Sign of the Ceoss",
+   "vol": 1,
+   "volume": "",
+   "page": 197,
+   "end": 224,
+   "topics": "Eites And Cekemonies. Religious Orders. Section I. The Sovereign Pontiff. Religious Oedees. The Sovereign Pontiff. Religious Orders."
+  },
+  {
+   "n": "VII",
+   "title": "The Two Developments Historically and Prophetically Considered (1 of 2)",
+   "vol": 1,
+   "volume": "",
+   "page": 225,
+   "end": 304,
+   "topics": "The Great Red Dragon. The Great Bed Dragon. The Two Developments Considered. Section Hi. — The Beast From The Earth. The Beast From The Earth. The Invisible Head Of The Papacy. Conclusion. Appendix."
+  },
+  {
+   "n": "VII",
+   "title": "The Two Developments Historically and Prophetically Considered (2 of 2)",
+   "vol": 1,
+   "volume": "",
+   "page": 305,
+   "end": 333,
+   "topics": "The Great Red Dragon. The Great Bed Dragon. The Two Developments Considered. Section Hi. — The Beast From The Earth. The Beast From The Earth. The Invisible Head Of The Papacy. Conclusion. Appendix."
+  }
+ ],
+ "figures": [
+  {
+   "kind": "figure",
+   "title": "Fig. 1.",
+   "caption": "Fig. 1.",
+   "vol": 1,
+   "page": 5,
+   "img": 30,
+   "file": "figures/v1-n30.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 2.",
+   "caption": "Fig. 2.",
+   "vol": 1,
+   "page": 6,
+   "img": 31,
+   "file": "figures/v1-n31.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 5.",
+   "caption": "Fig. 5.",
+   "vol": 1,
+   "page": 19,
+   "img": 44,
+   "file": "figures/v1-n44.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 8.",
+   "caption": "Fig. 8.",
+   "vol": 1,
+   "page": 29,
+   "img": 54,
+   "file": "figures/v1-n54.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 9.",
+   "caption": "Fig. 9.",
+   "vol": 1,
+   "page": 33,
+   "img": 58,
+   "file": "figures/v1-n58.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 12.",
+   "caption": "Fig. 12.",
+   "vol": 1,
+   "page": 36,
+   "img": 61,
+   "file": "figures/v1-n61.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 16.",
+   "caption": "Fig. 16.",
+   "vol": 1,
+   "page": 42,
+   "img": 67,
+   "file": "figures/v1-n67.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 19.",
+   "caption": "Fig. 19.",
+   "vol": 1,
+   "page": 45,
+   "img": 70,
+   "file": "figures/v1-n70.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 21.",
+   "caption": "Fig. 21.",
+   "vol": 1,
+   "page": 47,
+   "img": 72,
+   "file": "figures/v1-n72.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 24.",
+   "caption": "Fig. 24.",
+   "vol": 1,
+   "page": 70,
+   "img": 95,
+   "file": "figures/v1-n95.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 26.",
+   "caption": "Fig. 26.",
+   "vol": 1,
+   "page": 88,
+   "img": 113,
+   "file": "figures/v1-n113.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 28.",
+   "caption": "Fig. 28.",
+   "vol": 1,
+   "page": 100,
+   "img": 125,
+   "file": "figures/v1-n125.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 31.",
+   "caption": "Fig. 31.",
+   "vol": 1,
+   "page": 108,
+   "img": 133,
+   "file": "figures/v1-n133.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 82.",
+   "caption": "Fig. 82.",
+   "vol": 1,
+   "page": 109,
+   "img": 134,
+   "file": "figures/v1-n134.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 334",
+   "caption": "Fig. 334",
+   "vol": 1,
+   "page": 111,
+   "img": 136,
+   "file": "figures/v1-n136.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 36.",
+   "caption": "Fig. 36.",
+   "vol": 1,
+   "page": 142,
+   "img": 167,
+   "file": "figures/v1-n167.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 37.",
+   "caption": "Fig. 37.",
+   "vol": 1,
+   "page": 160,
+   "img": 185,
+   "file": "figures/v1-n185.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 39.",
+   "caption": "Fig. 39.",
+   "vol": 1,
+   "page": 185,
+   "img": 210,
+   "file": "figures/v1-n210.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 43.",
+   "caption": "Fig. 43.",
+   "vol": 1,
+   "page": 197,
+   "img": 222,
+   "file": "figures/v1-n222.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 46.",
+   "caption": "Fig. 46.",
+   "vol": 1,
+   "page": 200,
+   "img": 225,
+   "file": "figures/v1-n225.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 47.",
+   "caption": "Fig. 47.",
+   "vol": 1,
+   "page": 214,
+   "img": 239,
+   "file": "figures/v1-n239.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 49.",
+   "caption": "Fig. 49.",
+   "vol": 1,
+   "page": 216,
+   "img": 241,
+   "file": "figures/v1-n241.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 52.",
+   "caption": "Fig. 52.",
+   "vol": 1,
+   "page": 227,
+   "img": 252,
+   "file": "figures/v1-n252.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 54.",
+   "caption": "Fig. 54.",
+   "vol": 1,
+   "page": 238,
+   "img": 263,
+   "file": "figures/v1-n263.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 55.",
+   "caption": "Fig. 55.",
+   "vol": 1,
+   "page": 257,
+   "img": 282,
+   "file": "figures/v1-n282.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 58.",
+   "caption": "Fig. 58.",
+   "vol": 1,
+   "page": 266,
+   "img": 291,
+   "file": "figures/v1-n291.webp",
+   "width": 1438,
+   "height": 2352
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 61.",
+   "caption": "Fig. 61.",
+   "vol": 1,
+   "page": 303,
+   "img": 328,
+   "file": "figures/v1-n328.webp",
+   "width": 1438,
+   "height": 2352
+  }
+ ]
+}
