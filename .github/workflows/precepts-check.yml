@@ -35,6 +35,6 @@ jobs:
       - name: Build the Bible data with them
         run: |
           set -o pipefail
-          npm ci --no-audit --no-fund
+          npm ci --prefix engine --no-audit --no-fund
           npm run build 2>&1 | tee build.log | tail -3
           grep -E "precept passes|engine:" build.log >> "$GITHUB_STEP_SUMMARY" || true
