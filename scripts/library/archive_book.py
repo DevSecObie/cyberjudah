@@ -27,7 +27,7 @@ BOOKS = {
         "subtitle": "Suggestions Towards Rewriting Hebrew History",
         "author": "Allen H. Godbey",
         "year": 1930,
-        "publisher": "Duke University Press, Durham, N.C.",
+        "publisher": "Duke University Press, Durham, North Carolina",
         "archive": "losttribesmythsu00godb",
         "license": "Public domain in the United States (published 1930).",
         "chapters": [
@@ -53,6 +53,9 @@ BOOKS = {
             (398, 366, "From Palestine to India and China", "From Palestine to India and China"),
         ],
         "contents_leaves": (19, 30),
+        # Pages whose running head the OCR could not read, checked against the scan: the copy
+        # lacks pp. 272-273, so image 303 is p. 274 (keyed by page-image index).
+        "page_at": {303: 274},
     },
 }
 
@@ -85,15 +88,47 @@ def main(slug):
               for l, body in re.findall(r'<page leafNum="(\d+)">(.*?)</page>', scan, re.S)}
     djvu = get(base + "_djvu.xml").decode("utf-8")
     pages, contents = [], []
-    map_leaves = {m[0] for m in b["maps"]}
+    # "maps" are archive.org page-image indexes (the djvu leaf minus one, the colour card being
+    # leaf 0); a fold-out is its face and its back, and neither is a page of text.
+    foldout = {m[0] + 1 for m in b["maps"]} | {m[0] + 2 for m in b["maps"]}
+    leaves = []
     for name, block in re.findall(r'<OBJECT[^>]*?usemap="([^"]+)"[^>]*>(.*?)</OBJECT>', djvu, re.S):
         leaf = int(re.search(r"_(\d+)\.djvu", name).group(1))
         lo, hi = b["contents_leaves"]
         if lo <= leaf <= hi:
             contents += paragraphs(block)
-        n = number.get(leaf)
-        if n and leaf not in map_leaves and not (pages and pages[-1]["page"] == int(n)):
-            pages.append({"page": int(n), "leaf": leaf, "text": "\n\n".join(paragraphs(block))})
+        if leaf not in foldout:
+            leaves.append((leaf, paragraphs(block)))
+    # Printed page numbers: the scan's own numbering drifts around the fold-outs, so number the
+    # pages in order from the first, resyncing to the running head ("258 THE LOST TRIBES…",
+    # "…AND TARTARS 261") wherever it and the next page's head agree.
+    def head(paras):
+        t = paras[0] if paras else ""
+        m = re.match(r"^(\d{1,3})\.? [A-Z]", t) or re.match(r"^[A-Z][A-Z ,’'.\-]{5,}? (\d{1,3})(?: |$)", t)
+        return int(m.group(1)) if m else None
+    first = min(l for l, _ in leaves if number.get(l) == "1")
+    body = [(l, ps) for l, ps in leaves if l >= first and number.get(l)]
+    heads = [head(ps) for _, ps in body]
+    n = 0
+    for i, (leaf, ps) in enumerate(body):
+        n += 1
+        h = heads[i]
+        if h and h != n and abs(h - n) <= 4 and ((i + 1 < len(body) and heads[i + 1] == h + 1) or (i + 2 < len(body) and heads[i + 2] == h + 2)):
+            n = h
+        n = b.get("page_at", {}).get(leaf - 1, n)
+        # The running head and a bracketed folio ("[ 257 ]") are the page number, shown apart.
+        text = [x for x in ps if not re.fullmatch(r"\[?\s*\d{1,3}\s*\]?", x.strip())]
+        # A chapter's opening heading ("CHAPTER XI" and its title) is on the screen already.
+        if text and len(text[0]) < 70 and re.match(r"^CH\w{2,4}TER\b", text[0]):
+            text = text[1:]
+            if text and len(text[0]) < 60 and not text[0].rstrip().endswith((".", ",", ";")):
+                text = text[1:]
+        if text and len(text[0]) < 70 and (head(text[:1]) or re.match(r"^\d{1,3}\b", text[0]) or re.search(r"\b\d{1,3}$", text[0]) or text[0].isupper()):
+            text = text[1:]
+        titles = {re.sub(r"\W", "", t.lower()) for _, t, _ in b["chapters"]}
+        if text and re.sub(r"\W", "", text[0].lower()) in titles:
+            text = text[1:]
+        pages.append({"page": n, "leaf": leaf - 1, "text": "\n\n".join(text)})
     # Each chapter's topics, from the table of contents ("CHAPTER X  Title  topic, 204. ...").
     toc = "\n\n".join(contents)
     chapters = []
