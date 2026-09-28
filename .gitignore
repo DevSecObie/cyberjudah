@@ -33,3 +33,4 @@ __pycache__/
 /docs/concordance/
 # Docusaurus sidebar scaffolding; none of it has ever been tracked.
 _category_.json
+.cache/

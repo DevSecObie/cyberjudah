@@ -1,0 +1,79 @@
+{
+ "title": "The Critical Review, or Annals of Literature",
+ "subtitle": "By a Society of Gentlemen, volume the fifty-seventh (January to June 1784)",
+ "author": "A Society of Gentlemen",
+ "year": 1784,
+ "publisher": "Printed for A. Hamilton, London",
+ "license": "Public domain.",
+ "slug": "critical-review-1784",
+ "source": "https://archive.org/details/sim_critical-review-or-annals-of-literature_1784-01_57",
+ "items": [
+  {
+   "id": "sim_critical-review-or-annals-of-literature_1784-01_57",
+   "label": "January 1784"
+  },
+  {
+   "id": "sim_critical-review-or-annals-of-literature_1784-02_57",
+   "label": "February 1784"
+  },
+  {
+   "id": "sim_critical-review-or-annals-of-literature_1784-03_57",
+   "label": "March 1784"
+  },
+  {
+   "id": "sim_critical-review-or-annals-of-literature_1784-04_57",
+   "label": "April 1784"
+  },
+  {
+   "id": "sim_critical-review-or-annals-of-literature_1784-05_57",
+   "label": "May 1784"
+  },
+  {
+   "id": "sim_critical-review-or-annals-of-literature_1784-06_57",
+   "label": "June 1784"
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 320,
+ "volumes": 6,
+ "chapters": [
+  {
+   "n": "",
+   "title": "January 1784",
+   "vol": 1,
+   "volume": "January 1784",
+   "page": 1,
+   "end": 80,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "February 1784",
+   "vol": 2,
+   "volume": "February 1784",
+   "page": 81,
+   "end": 159,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "March 1784",
+   "vol": 3,
+   "volume": "March 1784",
+   "page": 161,
+   "end": 240,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "May 1784",
+   "vol": 5,
+   "volume": "May 1784",
+   "page": 321,
+   "end": 400,
+   "topics": ""
+  }
+ ],
+ "figures": []
+}

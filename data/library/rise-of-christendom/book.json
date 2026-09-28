@@ -1,0 +1,131 @@
+{
+ "title": "The Rise of Christendom",
+ "subtitle": "",
+ "author": "Edwin Johnson",
+ "year": 1890,
+ "publisher": "Kegan Paul, Trench, Trübner and Co., London",
+ "license": "Public domain.",
+ "slug": "rise-of-christendom",
+ "source": "https://archive.org/details/riseofchristendo00john",
+ "items": [
+  {
+   "id": "riseofchristendo00john",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 503,
+ "volumes": 1,
+ "chapters": [
+  {
+   "n": "I",
+   "title": "The Object of the Inquiry",
+   "vol": 1,
+   "volume": "",
+   "page": 22,
+   "end": 38,
+   "topics": "The Object Of The Inquiey."
+  },
+  {
+   "n": "II",
+   "title": "The Roman Empire and Christendom",
+   "vol": 1,
+   "volume": "",
+   "page": 39,
+   "end": 64,
+   "topics": "Ihsts Xpixtts Nic A."
+  },
+  {
+   "n": "III",
+   "title": "Glimpses of Medieval Rome and Italy",
+   "vol": 1,
+   "volume": "",
+   "page": 65,
+   "end": 95,
+   "topics": "Glimpses Of Mediaeval Eome And Italy. Glimpses Of Medi.^Val Rome And Italy."
+  },
+  {
+   "n": "IV",
+   "title": "Moral and Religious Teaching Among the Romans",
+   "vol": 1,
+   "volume": "",
+   "page": 96,
+   "end": 118,
+   "topics": "Koman Morality And Religion."
+  },
+  {
+   "n": "V",
+   "title": "The Ethics of the Monasteries",
+   "vol": 1,
+   "volume": "",
+   "page": 119,
+   "end": 131,
+   "topics": ""
+  },
+  {
+   "n": "VI",
+   "title": "The Traditions of the Mosque",
+   "vol": 1,
+   "volume": "",
+   "page": 132,
+   "end": 207,
+   "topics": ""
+  },
+  {
+   "n": "VII",
+   "title": "THE TRADITIONS OF THE MOSQUE— Continued",
+   "vol": 1,
+   "volume": "",
+   "page": 208,
+   "end": 284,
+   "topics": ""
+  },
+  {
+   "n": "VIII",
+   "title": "The Rise of Hebrew Literature",
+   "vol": 1,
+   "volume": "",
+   "page": 285,
+   "end": 331,
+   "topics": "The Eise Of Hebrew Literature. The Kise Of Hebrew Literature."
+  },
+  {
+   "n": "IX",
+   "title": "The System of Church Literature",
+   "vol": 1,
+   "volume": "",
+   "page": 332,
+   "end": 393,
+   "topics": "The System Of Chuech Liteeature. The Kise Of Christendom."
+  },
+  {
+   "n": "X",
+   "title": "Early Forms of the Christian Legend.]",
+   "vol": 1,
+   "volume": "",
+   "page": 394,
+   "end": 433,
+   "topics": ""
+  },
+  {
+   "n": "XI",
+   "title": "The Interpolations in the Literature of the Roman Empire",
+   "vol": 1,
+   "volume": "",
+   "page": 434,
+   "end": 469,
+   "topics": "Interpolations In Roman Literature."
+  },
+  {
+   "n": "XII",
+   "title": "Summary and Conclusion",
+   "vol": 1,
+   "volume": "",
+   "page": 470,
+   "end": 503,
+   "topics": "Ixdex. Date Due. Gaylord."
+  }
+ ],
+ "figures": []
+}

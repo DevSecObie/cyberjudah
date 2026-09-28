@@ -266,12 +266,13 @@ if (THUMBS) {
 }
 
 /* ---------------- api: library (public-domain books the classes read from) ---------------- */
-// data/library/<slug>/: book.json, pages.json and reads.json (scripts/library/archive_book.py).
-// Each book gets its contents, its chapters page by page, its maps, and every class moment
-// where it was read, linked to that class's note when there is one.
+// data/library/<slug>/: book.json, pages.json, figures/ and reads.json (scripts/library/).
+// Each book gets its contents, its chapters page by page, its pictures (fold-out maps, plates,
+// pages with figures), and every class moment where it was read, linked to that class's note
+// when there is one.
 const LIB = path.join(ROOT, "data", "library");
 const libraryIndex = [];
-const booksReadIn = new Map(); // videoId -> [{ slug, title, page, t, ts }]
+const booksReadIn = new Map(); // videoId -> [{ slug, title, vol, page, t, ts }]
 const booksByNote = new Map(); // note url -> the same, for notes found by their artwork
 if (fs.existsSync(LIB)) {
   // A note names its video in data-video-id, or only (lowercased) in its class artwork's file name.
@@ -286,32 +287,42 @@ if (fs.existsSync(LIB)) {
   for (const slug of fs.readdirSync(LIB).sort()) {
     const dir = path.join(LIB, slug);
     if (!fs.existsSync(path.join(dir, "book.json"))) continue;
-    const book = JSON.parse(fs.readFileSync(path.join(dir, "book.json"), "utf8"));
-    const pages = JSON.parse(fs.readFileSync(path.join(dir, "pages.json"), "utf8"));
-    const readsFile = path.join(dir, "reads.json");
-    const reads = (fs.existsSync(readsFile) ? JSON.parse(fs.readFileSync(readsFile, "utf8")).reads : []).map((r) => {
+    let book, pages, readsRaw;
+    try {
+      book = JSON.parse(fs.readFileSync(path.join(dir, "book.json"), "utf8"));
+      pages = fs.readdirSync(dir).filter((f) => f === "pages.json" || /^pages-v\d+\.json$/.test(f)).sort((a, b) => a.length - b.length || a.localeCompare(b)).flatMap((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")));
+      readsRaw = fs.existsSync(path.join(dir, "reads.json")) ? JSON.parse(fs.readFileSync(path.join(dir, "reads.json"), "utf8")).reads : [];
+    } catch (e) { console.error(`library: ${slug} skipped (${e.message})`); continue; }
+    const reads = readsRaw.map((r) => {
       const n = noteByVideo.get(r.video.toLowerCase()), t = n ? null : transcript(r.video);
-      return { ...r, title: n?.title ?? t.title ?? "", date: n?.date ?? t.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null };
+      return { video: r.video, vol: r.vol ?? 1, page: r.page, t: r.t, ts: r.ts, title: n?.title ?? t.title ?? "", date: n?.date ?? t.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null };
     }).sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.t - b.t);
     for (const r of reads) {
+      const row = { slug, title: book.title, vol: r.vol, page: r.page, t: r.t, ts: r.ts, video: r.video };
       if (!booksReadIn.has(r.video)) booksReadIn.set(r.video, []);
-      booksReadIn.get(r.video).push({ slug, title: book.title, page: r.page, t: r.t, ts: r.ts });
-      if (r.url) { if (!booksByNote.has(r.url)) booksByNote.set(r.url, []); booksByNote.get(r.url).push({ slug, title: book.title, page: r.page, t: r.t, ts: r.ts, video: r.video }); }
+      booksReadIn.get(r.video).push(row);
+      if (r.url) { if (!booksByNote.has(r.url)) booksByNote.set(r.url, []); booksByNote.get(r.url).push(row); }
     }
-    const readsOn = (p) => reads.filter((r) => r.page === p).map(({ video, t, ts, title, date, teacher, url }) => ({ video, t, ts, title, date, teacher, url }));
-    const chapters = book.chapters.map((c, k) => ({ k, ...c, reads: reads.filter((r) => r.page >= c.page && r.page <= c.end).length }));
+    const same = (a, b) => a.vol === b.vol && a.page === b.page;
+    const inChapter = (c, x) => x.vol === c.vol && x.page >= c.page && x.page <= c.end;
+    const readsOn = (p) => reads.filter((r) => same(r, p)).map(({ video, t, ts, title, date, teacher, url }) => ({ video, t, ts, title, date, teacher, url }));
+    const chapters = book.chapters.map((c, k) => ({ k, ...c, reads: reads.filter((r) => inChapter(c, r)).length }));
+    const figures = (book.figures ?? []).map((f) => ({ ...f, url: `/api/library/${slug}/${f.file}`, chapter: chapters.findIndex((c) => f.page != null && inChapter(c, f)), reads: reads.filter((r) => r.vol === f.vol && (r.page === f.page || r.page === f.page + 1)).length }));
+    const figByImg = new Map(figures.filter((f) => f.kind !== "foldout").map((f) => [`${f.vol}/${f.img}`, f.url]));
     chapters.forEach((c) => writeJson(path.join(API, "library", slug, "chapter", `${c.k}.json`), {
-      ...c, pages: pages.filter((p) => p.page >= c.page && p.page <= c.end).map((p) => ({ ...p, reads: readsOn(p.page) })),
+      ...c, item: book.items?.[c.vol - 1]?.id ?? null,
+      pages: pages.filter((p) => inChapter(c, p)).map((p) => ({ ...p, reads: readsOn(p), figure: figByImg.get(`${p.vol}/${p.img}`) ?? null, foldout: figures.find((f) => f.kind === "foldout" && f.vol === p.vol && f.page === p.page) ?? null })),
     }));
-    for (const m of book.maps) fs.copyFileSync(path.join(dir, m.file), (fs.mkdirSync(path.join(API, "library", slug, "maps"), { recursive: true }), path.join(API, "library", slug, m.file)));
-    const maps = book.maps.map((m) => ({ ...m, url: `/api/library/${slug}/${m.file}`, chapter: chapters.findIndex((c) => m.facing >= c.page && m.facing <= c.end), reads: reads.filter((r) => r.page === m.facing || r.page === m.facing + 1).length }));
+    fs.mkdirSync(path.join(API, "library", slug, "figures"), { recursive: true });
+    if (fs.existsSync(path.join(dir, "figures"))) for (const f of fs.readdirSync(path.join(dir, "figures"))) fs.copyFileSync(path.join(dir, "figures", f), path.join(API, "library", slug, "figures", f));
     const classes = new Set(reads.map((r) => r.video)).size;
-    writeJson(path.join(API, "library", slug, "book.json"), { ...book, chapters, maps, reads, classes });
-    libraryIndex.push({ slug, title: book.title, subtitle: book.subtitle, author: book.author, year: book.year, pages: book.pages, chapters: chapters.length, maps: maps.length, cover: maps[0]?.url ?? null, reads: reads.length, classes });
+    const cover = book.cover ? `/api/library/${slug}/${book.cover}` : figures[0]?.url ?? null;
+    writeJson(path.join(API, "library", slug, "book.json"), { ...book, cover, chapters, figures, reads, classes });
+    libraryIndex.push({ slug, title: book.title, subtitle: book.subtitle, author: book.author, year: book.year, pages: book.pages, volumes: book.volumes ?? 1, chapters: chapters.length, figures: figures.length, cover, reads: reads.length, classes });
   }
 }
 writeJson(path.join(API, "library", "index.json"), libraryIndex);
-console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a, b) => a + b.reads, 0)} class readings`);
+console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a, b) => a + b.reads, 0)} class readings, ${libraryIndex.reduce((a, b) => a + b.figures, 0)} pictures`);
 
 /* ---------------- api: notes ---------------- */
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, year: n.year, series: n.series, teacher: n.teacher, topics: n.topics ?? [], summary: n.summary ?? n.description ?? "", videoId: n.videoId ?? null })));

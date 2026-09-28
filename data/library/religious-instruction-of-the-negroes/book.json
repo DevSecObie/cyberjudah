@@ -1,0 +1,59 @@
+{
+ "title": "The Religious Instruction of the Negroes in the United States",
+ "subtitle": "",
+ "author": "Charles Colcock Jones",
+ "year": 1842,
+ "publisher": "Thomas Purse, Savannah",
+ "license": "Public domain.",
+ "slug": "religious-instruction-of-the-negroes",
+ "source": "https://archive.org/details/religiousinstruc00jone",
+ "items": [
+  {
+   "id": "religiousinstruc00jone",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 281,
+ "volumes": 1,
+ "chapters": [
+  {
+   "n": "I",
+   "title": "Chapter I",
+   "vol": 1,
+   "volume": "",
+   "page": 1,
+   "end": 46,
+   "topics": "^ Religious Ikstruction Of The Negroes. Historical Sketch. Historical Sketch. A."
+  },
+  {
+   "n": "XI",
+   "title": "The Second Period — From the first Census in 1790, to 1820, a Period of 30 years (1 of 3)",
+   "vol": 1,
+   "volume": "",
+   "page": 47,
+   "end": 126,
+   "topics": "Histohical Sketch. Histoiucal Sketch. Excuses. Chapter Hi. Objections. Benefits. Heans And Plans. Conclusion."
+  },
+  {
+   "n": "XI",
+   "title": "The Second Period — From the first Census in 1790, to 1820, a Period of 30 years (2 of 3)",
+   "vol": 1,
+   "volume": "",
+   "page": 127,
+   "end": 206,
+   "topics": "Histohical Sketch. Histoiucal Sketch. Excuses. Chapter Hi. Objections. Benefits. Heans And Plans. Conclusion."
+  },
+  {
+   "n": "XI",
+   "title": "The Second Period — From the first Census in 1790, to 1820, a Period of 30 years (3 of 3)",
+   "vol": 1,
+   "volume": "",
+   "page": 207,
+   "end": 281,
+   "topics": "Histohical Sketch. Histoiucal Sketch. Excuses. Chapter Hi. Objections. Benefits. Heans And Plans. Conclusion."
+  }
+ ],
+ "figures": []
+}

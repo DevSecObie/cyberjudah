@@ -1,0 +1,356 @@
+{
+ "title": "The Works of Flavius Josephus",
+ "subtitle": "The Antiquities of the Jews, the Wars of the Jews, Against Apion and the Life, translated by William Whiston",
+ "author": "Flavius Josephus",
+ "year": 1905,
+ "publisher": "S. S. Scranton Company, Hartford (Whiston's translation, 1737)",
+ "license": "Public domain.",
+ "slug": "josephus",
+ "source": "https://archive.org/details/completeworksoff05jose",
+ "items": [
+  {
+   "id": "completeworksoff05jose",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 981,
+ "volumes": 1,
+ "chapters": [
+  {
+   "n": "",
+   "title": "The Life of Flavius Josephus",
+   "vol": 1,
+   "volume": "The Life of Flavius Josephus",
+   "page": 7,
+   "end": 36,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Preface to the Antiquities",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 37,
+   "end": 39,
+   "topics": ""
+  },
+  {
+   "n": "I",
+   "title": "Book I",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 40,
+   "end": 64,
+   "topics": "From the creation to the death of isaac."
+  },
+  {
+   "n": "II",
+   "title": "Book II",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 65,
+   "end": 93,
+   "topics": ""
+  },
+  {
+   "n": "III",
+   "title": "Book III",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 94,
+   "end": 119,
+   "topics": "Containing the interval of two years, from the exodus out of egypt, to the rejection of that generation."
+  },
+  {
+   "n": "IV",
+   "title": "Book IV",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 120,
+   "end": 147,
+   "topics": ""
+  },
+  {
+   "n": "V",
+   "title": "Book V",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 148,
+   "end": 176,
+   "topics": "Containing an interval of 476 years,* from the death of moses to the death of eli."
+  },
+  {
+   "n": "VI",
+   "title": "Book VI",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 177,
+   "end": 210,
+   "topics": "Containing the interval of thirty-two years,* from the death of eli to the death of saul."
+  },
+  {
+   "n": "VII",
+   "title": "Book VII",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 211,
+   "end": 244,
+   "topics": ""
+  },
+  {
+   "n": "VIII",
+   "title": "Book VIII",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 245,
+   "end": 280,
+   "topics": ""
+  },
+  {
+   "n": "IX",
+   "title": "Book IX",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 281,
+   "end": 304,
+   "topics": "Containing an interval of 157 years,* from the death of ahab to the captivity of the ten tribes. b. c. 897-725."
+  },
+  {
+   "n": "X",
+   "title": "Book X",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 305,
+   "end": 326,
+   "topics": "Containing an interval of 182£ years, from the captivity of the ten tribes to the first of cyrus."
+  },
+  {
+   "n": "XI",
+   "title": "Book XI",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 327,
+   "end": 350,
+   "topics": "Containing an interval of 253 years 5 months, from the first of cyrus to the death of alexander the great."
+  },
+  {
+   "n": "XII",
+   "title": "Book XII",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 351,
+   "end": 381,
+   "topics": ""
+  },
+  {
+   "n": "XIII",
+   "title": "Book XIII",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 382,
+   "end": 413,
+   "topics": "Containing an interval of 82 years, from the death of judas maccabeus to queen alexandra's death."
+  },
+  {
+   "n": "XIV",
+   "title": "Book XIV",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 414,
+   "end": 450,
+   "topics": "Containing an interval of 32 years, from the death of queen alexandra to the death of antigonus."
+  },
+  {
+   "n": "XV",
+   "title": "Book XV",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 451,
+   "end": 484,
+   "topics": "Containing an interval op eighteen years, from the death of antigonus to the finishing of the temple by herod."
+  },
+  {
+   "n": "XVI",
+   "title": "Book XVI",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 485,
+   "end": 513,
+   "topics": "Containing an interval of twelve years, from the finishing of the temple by herod to the death of alexander and aristobulus."
+  },
+  {
+   "n": "XVII",
+   "title": "Book XVII",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 514,
+   "end": 542,
+   "topics": "Containing an interval of fourteen years, from alexander ant aristobulus's deaths to the banishment of archelaus."
+  },
+  {
+   "n": "XVIII",
+   "title": "Book XVIII",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 543,
+   "end": 572,
+   "topics": "Containing an interval of thirty-two years, from the banish- ment of archelaus to the departure of the jews from babylon."
+  },
+  {
+   "n": "XIX",
+   "title": "Book XIX",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 573,
+   "end": 598,
+   "topics": ""
+  },
+  {
+   "n": "XX",
+   "title": "Book XX",
+   "vol": 1,
+   "volume": "The Antiquities of the Jews",
+   "page": 599,
+   "end": 618,
+   "topics": "Containing the interval of twenty-two years, from."
+  },
+  {
+   "n": "",
+   "title": "Preface to the Wars",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 619,
+   "end": 621,
+   "topics": ""
+  },
+  {
+   "n": "I",
+   "title": "Book I",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 622,
+   "end": 681,
+   "topics": "Containing an interval of 1g7 years, from the taking op jerusalem by antiochus epipiianes to the death of herod the great."
+  },
+  {
+   "n": "II",
+   "title": "Book II",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 682,
+   "end": 728,
+   "topics": "Containing the interval of sixty-nine years, from the death of herod till vespasian was sent to subdue the jews by nero."
+  },
+  {
+   "n": "III",
+   "title": "Book III",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 729,
+   "end": 757,
+   "topics": ""
+  },
+  {
+   "n": "IV",
+   "title": "Book IV",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 758,
+   "end": 794,
+   "topics": "Containing the interval of about one year, from the siege of gamala to the coming of titus to besiege jerusalem."
+  },
+  {
+   "n": "V",
+   "title": "Book V",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 795,
+   "end": 829,
+   "topics": ""
+  },
+  {
+   "n": "VI",
+   "title": "Book VI",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 830,
+   "end": 856,
+   "topics": "Containing the interval of about one month, from the great extremity to which the jews were reduced to the taking of jerusalem by titus."
+  },
+  {
+   "n": "VII",
+   "title": "Book VII",
+   "vol": 1,
+   "volume": "The Wars of the Jews",
+   "page": 857,
+   "end": 881,
+   "topics": ""
+  },
+  {
+   "n": "I",
+   "title": "Book I",
+   "vol": 1,
+   "volume": "Flavius Josephus Against Apion",
+   "page": 882,
+   "end": 903,
+   "topics": ""
+  },
+  {
+   "n": "II",
+   "title": "Book II",
+   "vol": 1,
+   "volume": "Flavius Josephus Against Apion",
+   "page": 904,
+   "end": 926,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Josephus's Discourse to the Greeks Concerning Hades",
+   "vol": 1,
+   "volume": "Discourse and Dissertations",
+   "page": 927,
+   "end": 937,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Dissertation I",
+   "vol": 1,
+   "volume": "Discourse and Dissertations",
+   "page": 938,
+   "end": 941,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Dissertation II",
+   "vol": 1,
+   "volume": "Discourse and Dissertations",
+   "page": 942,
+   "end": 949,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Dissertation III",
+   "vol": 1,
+   "volume": "Discourse and Dissertations",
+   "page": 950,
+   "end": 963,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Tables and Index",
+   "vol": 1,
+   "volume": "Discourse and Dissertations",
+   "page": 964,
+   "end": 981,
+   "topics": ""
+  }
+ ],
+ "figures": []
+}

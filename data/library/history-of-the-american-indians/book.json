@@ -1,0 +1,113 @@
+{
+ "title": "The History of the American Indians",
+ "subtitle": "Particularly Those Nations Adjoining to the Mississippi, East and West Florida, Georgia, South and North Carolina, and Virginia",
+ "author": "James Adair",
+ "year": 1775,
+ "publisher": "Edward and Charles Dilly, London",
+ "license": "Public domain.",
+ "slug": "history-of-the-american-indians",
+ "source": "https://archive.org/details/historyofamerica00adairich",
+ "items": [
+  {
+   "id": "historyofamerica00adairich",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 468,
+ "volumes": 1,
+ "chapters": [
+  {
+   "n": "",
+   "title": "Observations on the Origin and Descent of the Indians (1 of 3)",
+   "vol": 1,
+   "volume": "",
+   "page": 10,
+   "end": 89,
+   "topics": "Argument I. Argument Ii. Argument Iii. Argument Iv. Argument V. Argument Vi. Argument Vii. Argument Viii. Argument Ix. Argument X. Argument Xii. Argument Xiii. Argument Xiv. Arc It-. Argument Xv. A R G U M,E N T Xvl. Argument Xvii. Argument Xviil. Argument Xix. Argument Xx. Argument Xxii. Argument Xxiii. Katahba, Cheerake, Muskohge, Choktah, And Chikkasah Nations. Occasional Observations."
+  },
+  {
+   "n": "",
+   "title": "Observations on the Origin and Descent of the Indians (2 of 3)",
+   "vol": 1,
+   "volume": "",
+   "page": 90,
+   "end": 169,
+   "topics": "Argument I. Argument Ii. Argument Iii. Argument Iv. Argument V. Argument Vi. Argument Vii. Argument Viii. Argument Ix. Argument X. Argument Xii. Argument Xiii. Argument Xiv. Arc It-. Argument Xv. A R G U M,E N T Xvl. Argument Xvii. Argument Xviil. Argument Xix. Argument Xx. Argument Xxii. Argument Xxiii. Katahba, Cheerake, Muskohge, Choktah, And Chikkasah Nations. Occasional Observations."
+  },
+  {
+   "n": "",
+   "title": "Observations on the Origin and Descent of the Indians (3 of 3)",
+   "vol": 1,
+   "volume": "",
+   "page": 170,
+   "end": 224,
+   "topics": "Argument I. Argument Ii. Argument Iii. Argument Iv. Argument V. Argument Vi. Argument Vii. Argument Viii. Argument Ix. Argument X. Argument Xii. Argument Xiii. Argument Xiv. Arc It-. Argument Xv. A R G U M,E N T Xvl. Argument Xvii. Argument Xviil. Argument Xix. Argument Xx. Argument Xxii. Argument Xxiii. Katahba, Cheerake, Muskohge, Choktah, And Chikkasah Nations. Occasional Observations."
+  },
+  {
+   "n": "",
+   "title": "An Account of the Katahba Nation",
+   "vol": 1,
+   "volume": "",
+   "page": 225,
+   "end": 226,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "An Account of the Cheerake Nation",
+   "vol": 1,
+   "volume": "",
+   "page": 227,
+   "end": 256,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "An Account of the Muskohge Nation",
+   "vol": 1,
+   "volume": "",
+   "page": 257,
+   "end": 282,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "An Account of the Choktah Nation",
+   "vol": 1,
+   "volume": "",
+   "page": 283,
+   "end": 352,
+   "topics": "Chikkasah Nation."
+  },
+  {
+   "n": "",
+   "title": "An Account of the Chikkasah Nation",
+   "vol": 1,
+   "volume": "",
+   "page": 353,
+   "end": 372,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "General Observations on the North American Indians",
+   "vol": 1,
+   "volume": "",
+   "page": 373,
+   "end": 447,
+   "topics": "Observations. North American Indians."
+  },
+  {
+   "n": "",
+   "title": "Appendix: Advice to Statesmen",
+   "vol": 1,
+   "volume": "",
+   "page": 448,
+   "end": 468,
+   "topics": "Advice To Statesmen. Shewing. Advice To Statesmen. Finis."
+  }
+ ],
+ "figures": []
+}
