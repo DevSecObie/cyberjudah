@@ -213,7 +213,11 @@ export function loadLibrary(ROOT) {
   // precepts, and the precept's chapter learns where it was opened.
   const linked = new Map(); // "Book|ch" -> [{verses, kind, ref, text, note, ts}]
   const link = (r, row) => { const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
-  const HEAD = /^\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*(?:\s+\*\[\[?([\d:]+)\]?\([^)]*\)\]\*)?/;
+  const HEAD = /^\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*(?:\s+\*\[\[?([\d:]+)\]?\(([^)]*)\)\]\*)?/;
+  // The moments a class read a scripture: the verses, the class, and its recording at that
+  // second, so the Bible can link a verse straight to where it was taught.
+  const moments = new Map(); // "Book|ch" -> [{verses, label, url, date, video, t, ts}]
+  const secondsOf = (ts) => ts.split(":").reduce((a, x) => a * 60 + Number(x || 0), 0);
   const PRECEPT = /^\s+-\s+\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*/;
   const refOf = (label, bslug, ch, anchor) => {
     const book = bookBySlug[bslug]; if (!book || !bible[book]?.[ch]) return null;
@@ -238,7 +242,12 @@ export function loadLibrary(ROOT) {
     };
     for (const raw of lines) {
       const h = HEAD.exec(raw);
-      if (h) { flush(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = ""; continue; }
+      if (h) {
+        flush(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = "";
+        const video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
+        if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", video, t: secondsOf(ts), ts }); }
+        continue;
+      }
       if (!opened) continue;
       const pm = PRECEPT.exec(raw);
       if (pm) { flush(); const ref = refOf(pm[1], pm[2], pm[3], pm[4]); precept = ref ? { ref, text: [] } : null; continue; }
@@ -283,6 +292,6 @@ export function loadLibrary(ROOT) {
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,
     notes, studyNotes, classNotes, captainNotes, encNotes, history, studyBooks, noteByTitle, studyFor, noteLabel,
-    cited, uniqueCitations, linked, lexicon, topics,
+    cited, uniqueCitations, linked, moments, lexicon, topics,
   };
 }
