@@ -120,6 +120,8 @@ def key(p, pre):
     return f"{p['file']}|{p['opened']}|{pre['label']}"
 
 
+CANON = "genesis exodus leviticus numbers deuteronomy joshua judges ruth 1-samuel 2-samuel 1-kings 2-kings 1-chronicles 2-chronicles ezra nehemiah esther job psalms proverbs ecclesiastes song-of-solomon isaiah jeremiah lamentations ezekiel daniel hosea joel amos obadiah jonah micah nahum habakkuk zephaniah haggai zechariah malachi matthew mark luke john acts romans 1-corinthians 2-corinthians galatians ephesians philippians colossians 1-thessalonians 2-thessalonians 1-timothy 2-timothy titus philemon hebrews james 1-peter 2-peter 1-john 2-john 3-john jude revelation".split()
+
 _transcripts = {}
 
 
@@ -217,6 +219,7 @@ def main():
     ap.add_argument("--show", action="store_true", help="print the breakdowns written")
     ap.add_argument("--book", help="only passages where this book (slug, e.g. genesis) is opened or a precept")
     ap.add_argument("--export", help="write the briefs for what is missing to this directory, one file per passage, and stop")
+    ap.add_argument("--next-book", action="store_true", help="print the first book, in order, that still has precepts missing a breakdown")
     ap.add_argument("--merge", help="merge breakdowns written by hand: a JSON file {key: why} (keys as in the brief)")
     args = ap.parse_args()
 
@@ -233,6 +236,11 @@ def main():
             print("  unknown: " + k)
         return
     todo = [p for p in passages() if any(key(p, pre) not in done for pre in p["precepts"])]
+    if args.next_book:
+        order = CANON + sorted(f[:-5] for f in os.listdir(os.path.join(ROOT, "data", "bible")) if f[:-5] not in CANON)
+        left = {p.get("slug") for p in todo} | {pre.get("slug") for p in todo for pre in p["precepts"] if key(p, pre) not in done}
+        print(next((b for b in order if b in left), ""))
+        return
     if args.book:
         slug = args.book.lower()
         todo = [p for p in todo if p.get("slug") == slug or any(pre.get("slug") == slug for pre in p["precepts"])]
