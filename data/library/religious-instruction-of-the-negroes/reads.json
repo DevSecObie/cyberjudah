@@ -1,0 +1,117 @@
+{
+ "about": "Moments in the classes where this book was read aloud: the class's video, the volume and printed page, and the second it was read. Found by matching the recordings against the book's text (scripts/library/reads.py).",
+ "reads": [
+  {
+   "video": "3EKy7S9C4FY",
+   "vol": 1,
+   "page": 33,
+   "t": 3211,
+   "ts": "53:31",
+   "hits": 12
+  },
+  {
+   "video": "6-4lW3iB6ZU",
+   "vol": 1,
+   "page": 275,
+   "t": 1382,
+   "ts": "23:02",
+   "hits": 12
+  },
+  {
+   "video": "Glpz9HKJ6ys",
+   "vol": 1,
+   "page": 275,
+   "t": 208,
+   "ts": "3:28",
+   "hits": 11
+  },
+  {
+   "video": "QcOi5iimI3w",
+   "vol": 1,
+   "page": 162,
+   "t": 5820,
+   "ts": "1:37:00",
+   "hits": 11
+  },
+  {
+   "video": "UoF-SkBZ6dI",
+   "vol": 1,
+   "page": 33,
+   "t": 5430,
+   "ts": "1:30:30",
+   "hits": 14
+  },
+  {
+   "video": "eb88cf1dcKI",
+   "vol": 1,
+   "page": 33,
+   "t": 10317,
+   "ts": "2:51:57",
+   "hits": 11
+  },
+  {
+   "video": "ftOC2vTEE9M",
+   "vol": 1,
+   "page": 33,
+   "t": 6753,
+   "ts": "1:52:33",
+   "hits": 14
+  },
+  {
+   "video": "l9xWOTZxXR8",
+   "vol": 1,
+   "page": 33,
+   "t": 4163,
+   "ts": "1:09:23",
+   "hits": 11
+  },
+  {
+   "video": "mbZ3tmc48C0",
+   "vol": 1,
+   "page": 6,
+   "t": 4262,
+   "ts": "1:11:02",
+   "hits": 148
+  },
+  {
+   "video": "mbZ3tmc48C0",
+   "vol": 1,
+   "page": 7,
+   "t": 4721,
+   "ts": "1:18:41",
+   "hits": 108
+  },
+  {
+   "video": "mbZ3tmc48C0",
+   "vol": 1,
+   "page": 156,
+   "t": 5063,
+   "ts": "1:24:23",
+   "hits": 63
+  },
+  {
+   "video": "mbZ3tmc48C0",
+   "vol": 1,
+   "page": 157,
+   "t": 5239,
+   "ts": "1:27:19",
+   "hits": 16
+  },
+  {
+   "video": "mbZ3tmc48C0",
+   "vol": 1,
+   "page": 158,
+   "t": 5530,
+   "ts": "1:32:10",
+   "hits": 115
+  },
+  {
+   "video": "qemCqfRUXo0",
+   "vol": 1,
+   "page": 237,
+   "t": 321,
+   "ts": "5:21",
+   "hits": 12
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "about": "Moments in the classes where this book was read aloud: the class's video, the volume and printed page, and the second it was read. Found by matching the recordings against the book's text (scripts/library/reads.py).",
+ "reads": [
+  {
+   "video": "4fML805MO8A",
+   "vol": 1,
+   "page": 449,
+   "t": 9437,
+   "ts": "2:37:17",
+   "hits": 11
+  },
+  {
+   "video": "4fML805MO8A",
+   "vol": 1,
+   "page": 64,
+   "t": 9645,
+   "ts": "2:40:45",
+   "hits": 9
+  },
+  {
+   "video": "4vadD-QENH4",
+   "vol": 1,
+   "page": 33,
+   "t": 11383,
+   "ts": "3:09:43",
+   "hits": 12
+  },
+  {
+   "video": "C5q-raZJyNA",
+   "vol": 1,
+   "page": 64,
+   "t": 7005,
+   "ts": "1:56:45",
+   "hits": 9
+  },
+  {
+   "video": "SctKiLk-iMQ",
+   "vol": 1,
+   "page": 10,
+   "t": 1155,
+   "ts": "19:15",
+   "hits": 29
+  },
+  {
+   "video": "SctKiLk-iMQ",
+   "vol": 1,
+   "page": 13,
+   "t": 1254,
+   "ts": "20:54",
+   "hits": 31
+  },
+  {
+   "video": "SctKiLk-iMQ",
+   "vol": 1,
+   "page": 94,
+   "t": 2951,
+   "ts": "49:11",
+   "hits": 15
+  },
+  {
+   "video": "SrkPVVmvyxY",
+   "vol": 1,
+   "page": 13,
+   "t": 1415,
+   "ts": "23:35",
+   "hits": 22
+  },
+  {
+   "video": "ZEkyw3JFH_A",
+   "vol": 1,
+   "page": 13,
+   "t": 1164,
+   "ts": "19:24",
+   "hits": 11
+  },
+  {
+   "video": "ZEkyw3JFH_A",
+   "vol": 1,
+   "page": 27,
+   "t": 1181,
+   "ts": "19:41",
+   "hits": 20
+  },
+  {
+   "video": "rZhB0YsH7NY",
+   "vol": 1,
+   "page": 15,
+   "t": 9782,
+   "ts": "2:43:02",
+   "hits": 6
+  },
+  {
+   "video": "rZhB0YsH7NY",
+   "vol": 1,
+   "page": 64,
+   "t": 10011,
+   "ts": "2:46:51",
+   "hits": 18
+  },
+  {
+   "video": "tRDgJ_Xqt88",
+   "vol": 1,
+   "page": 15,
+   "t": 5068,
+   "ts": "1:24:28",
+   "hits": 4
+  },
+  {
+   "video": "zQ8sefmty1I",
+   "vol": 1,
+   "page": 14,
+   "t": 5266,
+   "ts": "1:27:46",
+   "hits": 8
+  },
+  {
+   "video": "zQ8sefmty1I",
+   "vol": 1,
+   "page": 22,
+   "t": 5335,
+   "ts": "1:28:55",
+   "hits": 8
+  }
+ ]
+}
