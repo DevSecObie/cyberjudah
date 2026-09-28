@@ -163,6 +163,7 @@ Use as many short paragraphs as it takes, separated by a blank line. Don't pad i
 - Teach it plainly, as the class's understanding, in warm and simple words. Never write "the teacher says", "the class teaches", "this precept" or "the speaker"; just say it.
 - Stay inside what the class taught (the note's points, its line on the precept, and the class's own words). Never bring in other doctrine, commentary or verses the class did not read.
 - Quote scripture only word for word in the King James Version, in curly quotes, and only verses read in that moment. Do not quote anything else.
+- Keep the class's own language. Where the class used strong words, slurs or profanity to make a point, keep them exactly as said. Never soften, censor or clean up the teaching.
 - Keep proper names and titles exactly as given. Nothing about captions or transcripts.
 
 Answer with JSON only: {"breakdowns": [{"precept": "<the precept's label exactly as given>", "why": "<the breakdown, paragraphs separated by \\n\\n>"}]}"""
