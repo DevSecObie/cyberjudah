@@ -33,6 +33,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           LIMIT: ${{ inputs.limit || '0' }}
         run: |
+          set -o pipefail
           python3 scripts/precepts/why.py --plan --limit "$LIMIT" | tee -a "$GITHUB_STEP_SUMMARY"
           python3 scripts/precepts/why.py --limit "$LIMIT" --show --timeout 9000 | tee -a "$GITHUB_STEP_SUMMARY"
 
