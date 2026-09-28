@@ -2,7 +2,7 @@
 title: "The Nativity: the Bloodline, Birthright, & the Messiah"
 slug: "2026/2026-09-08-the-nativity-the-bloodline-birthright-the-messiah"
 date: "2026-09-08"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-09-08"
 tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 ---
