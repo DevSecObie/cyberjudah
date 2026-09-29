@@ -35,7 +35,7 @@
  ],
  "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
  "cover": "figures/cover.webp",
- "pages": 320,
+ "pages": 488,
  "volumes": 6,
  "chapters": [
   {
@@ -67,13 +67,65 @@
   },
   {
    "n": "",
+   "title": "April 1784",
+   "vol": 4,
+   "volume": "April 1784",
+   "page": 241,
+   "end": 318,
+   "topics": ""
+  },
+  {
+   "n": "",
    "title": "May 1784",
    "vol": 5,
    "volume": "May 1784",
    "page": 321,
    "end": 400,
    "topics": ""
+  },
+  {
+   "n": "",
+   "title": "June 1784",
+   "vol": 6,
+   "volume": "June 1784",
+   "page": 401,
+   "end": 480,
+   "topics": ""
   }
  ],
- "figures": []
+ "figures": [
+  {
+   "kind": "plate",
+   "title": "and fixed? If this‘be’an exact ftate of the quettion,",
+   "caption": "and fixed? If this‘be’an exact ftate of the quettion,",
+   "vol": 4,
+   "page": 257,
+   "img": 16,
+   "file": "figures/v4-n16.webp",
+   "width": 1554,
+   "height": 2520
+  },
+  {
+   "kind": "plate",
+   "title": "principles.",
+   "caption": "principles.",
+   "vol": 4,
+   "page": 306,
+   "img": 65,
+   "file": "figures/v4-n65.webp",
+   "width": 1554,
+   "height": 2520
+  },
+  {
+   "kind": "plate",
+   "title": "He dines",
+   "caption": "He dines",
+   "vol": 6,
+   "page": 415,
+   "img": 14,
+   "file": "figures/v6-n14.webp",
+   "width": 1554,
+   "height": 2520
+  }
+ ]
 }
