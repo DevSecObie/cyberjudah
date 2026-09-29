@@ -293,9 +293,17 @@ if (fs.existsSync(LIB)) {
       pages = fs.readdirSync(dir).filter((f) => f === "pages.json" || /^pages-v\d+\.json$/.test(f)).sort((a, b) => a.length - b.length || a.localeCompare(b)).flatMap((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")));
       readsRaw = fs.existsSync(path.join(dir, "reads.json")) ? JSON.parse(fs.readFileSync(path.join(dir, "reads.json"), "utf8")).reads : [];
     } catch (e) { console.error(`library: ${slug} skipped (${e.message})`); continue; }
+    // What the class said as it read: the recording's words from just before the reading to
+    // two and a half minutes after, or until the class turned to another page of the book.
+    const said = (r, all) => {
+      const t = transcript(r.video), segs = t.segments ?? [];
+      const next = all.filter((x) => x.video === r.video && x.t > r.t && !(x.vol === r.vol && x.page === r.page)).map((x) => x.t).sort((a, b) => a - b)[0];
+      const end = Math.max(r.t + 45, Math.min(r.t + 150, next ? next - 2 : Infinity));
+      return segs.filter((s) => s[0] >= r.t - 12 && s[0] <= end).slice(0, 60).map((s) => ({ t: Math.round(s[0]), text: String(s[1]).replace(/\s+/g, " ").trim() })).filter((s) => s.text);
+    };
     const reads = readsRaw.map((r) => {
       const n = noteByVideo.get(r.video.toLowerCase()), t = n ? null : transcript(r.video);
-      return { video: r.video, vol: r.vol ?? 1, page: r.page, t: r.t, ts: r.ts, title: n?.title ?? t.title ?? "", date: n?.date ?? t.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null };
+      return { video: r.video, vol: r.vol ?? 1, page: r.page, t: r.t, ts: r.ts, title: n?.title ?? t.title ?? "", date: n?.date ?? t.date ?? null, teacher: n?.teacher ?? "", url: n?.url ?? null, said: said(r, readsRaw) };
     }).sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.t - b.t);
     for (const r of reads) {
       const row = { slug, title: book.title, vol: r.vol, page: r.page, t: r.t, ts: r.ts, video: r.video };
@@ -305,9 +313,9 @@ if (fs.existsSync(LIB)) {
     }
     const same = (a, b) => a.vol === b.vol && a.page === b.page;
     const inChapter = (c, x) => x.vol === c.vol && x.page >= c.page && x.page <= c.end;
-    const readsOn = (p) => reads.filter((r) => same(r, p)).map(({ video, t, ts, title, date, teacher, url }) => ({ video, t, ts, title, date, teacher, url }));
+    const readsOn = (p) => reads.filter((r) => same(r, p)).map(({ video, t, ts, title, date, teacher, url, said }) => ({ video, t, ts, title, date, teacher, url, said }));
     const chapters = book.chapters.map((c, k) => ({ k, ...c, reads: reads.filter((r) => inChapter(c, r)).length }));
-    const figures = (book.figures ?? []).map((f) => ({ ...f, url: `/api/library/${slug}/${f.file}`, chapter: chapters.findIndex((c) => f.page != null && inChapter(c, f)), reads: reads.filter((r) => r.vol === f.vol && (r.page === f.page || r.page === f.page + 1)).length }));
+    const figures = (book.figures ?? []).map((f) => ({ ...f, url: `/api/library/${slug}/${f.file}`, chapter: chapters.findIndex((c) => f.page != null && inChapter(c, f)), reads: reads.filter((r) => r.vol === f.vol && (r.page === f.page || r.page === f.page + 1)).length, readings: reads.filter((r) => r.vol === f.vol && (r.page === f.page || r.page === f.page + 1)).map(({ video, t, ts, title, date, teacher, url, said }) => ({ video, t, ts, title, date, teacher, url, said })) }));
     const figByImg = new Map(figures.filter((f) => f.kind !== "foldout").map((f) => [`${f.vol}/${f.img}`, f.url]));
     chapters.forEach((c) => writeJson(path.join(API, "library", slug, "chapter", `${c.k}.json`), {
       ...c, item: book.items?.[c.vol - 1]?.id ?? null,
@@ -317,7 +325,7 @@ if (fs.existsSync(LIB)) {
     if (fs.existsSync(path.join(dir, "figures"))) for (const f of fs.readdirSync(path.join(dir, "figures"))) fs.copyFileSync(path.join(dir, "figures", f), path.join(API, "library", slug, "figures", f));
     const classes = new Set(reads.map((r) => r.video)).size;
     const cover = book.cover ? `/api/library/${slug}/${book.cover}` : figures[0]?.url ?? null;
-    writeJson(path.join(API, "library", slug, "book.json"), { ...book, cover, chapters, figures, reads, classes });
+    writeJson(path.join(API, "library", slug, "book.json"), { ...book, cover, chapters, figures, reads: reads.map(({ said, ...r }) => r), classes });
     libraryIndex.push({ slug, title: book.title, subtitle: book.subtitle, author: book.author, year: book.year, pages: book.pages, volumes: book.volumes ?? 1, chapters: chapters.length, figures: figures.length, cover, reads: reads.length, classes });
   }
 }
