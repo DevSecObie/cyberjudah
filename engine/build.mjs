@@ -58,18 +58,67 @@ for (const p of peopleDoc.people) for (const ref of p.verses) {
 }
 const bySlugName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => [sl, b]));
 
+/* ---------------- Strong's: every King James word keyed to its Hebrew or Greek ---------------- */
+// data/strongs (scripts/strongs/build.py): each verse of the 66 books as spans with Strong's
+// numbers, and Strong's own dictionaries. Chapters carry the spans; each number gets a page
+// with its entry and every verse it stands behind (the concordance).
+const STRONGS = path.join(ROOT, "data", "strongs");
+const strongsCache = new Map();
+const strongsTags = (slug) => {
+  if (!strongsCache.has(slug)) {
+    const f = path.join(STRONGS, "tags", `${slug}.json`);
+    strongsCache.set(slug, fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : null);
+  }
+  return strongsCache.get(slug);
+};
+
 /* ---------------- api: scripture and concordance ---------------- */
 for (const b of BOOKS) {
   const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
   for (const c of chs) {
     const verses = bible[b][String(c)] ?? [];
-    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t })).filter((v) => v.text) });
+    const tags = strongsTags(bookSlug[b]);
+    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
     writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {} });
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0), chapterIds: chs });
 }
 writeJson(path.join(API, "kjv", "books.json"), L.bibleIndex.map((e) => ({ ...e, testament: testament(e.book), url: bookUrl(e.book), chapterIds: Object.keys(bible[e.book]).map(Number).sort((a, b) => a - b) })));
+if (fs.existsSync(path.join(STRONGS, "hebrew.json"))) {
+  const dict = { ...JSON.parse(fs.readFileSync(path.join(STRONGS, "hebrew.json"), "utf8")), ...JSON.parse(fs.readFileSync(path.join(STRONGS, "greek.json"), "utf8")) };
+  const occ = new Map(); // number -> [{ slug, book, chapter, verse, words }]
+  const rendered = new Map(); // number -> Map(kjv word -> count)
+  for (const b of BOOKS) {
+    const tags = strongsTags(bookSlug[b]);
+    if (!tags) continue;
+    for (const [c, vs] of Object.entries(tags)) for (const [v, spans] of Object.entries(vs)) for (const [text, nums] of spans) {
+      const word = text.replace(/[^A-Za-z' -]/g, "").trim();
+      for (const n of nums) {
+        if (!occ.has(n)) { occ.set(n, []); rendered.set(n, new Map()); }
+        const list = occ.get(n);
+        const last = list[list.length - 1];
+        if (last && last.slug === bookSlug[b] && last.chapter === Number(c) && last.verse === Number(v)) last.words.push(word);
+        else list.push({ slug: bookSlug[b], book: b, chapter: Number(c), verse: Number(v), words: [word] });
+        rendered.get(n).set(word.toLowerCase(), (rendered.get(n).get(word.toLowerCase()) ?? 0) + 1);
+      }
+    }
+  }
+  const strongsIndex = [];
+  for (const [n, e] of Object.entries(dict)) {
+    const list = occ.get(n) ?? [];
+    const count = list.reduce((a, o) => a + o.words.length, 0);
+    const words = [...(rendered.get(n) ?? new Map()).entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([w, k]) => ({ word: w, count: k }));
+    writeJson(path.join(API, "strongs", `${n}.json`), {
+      number: n, language: n[0] === "H" ? "Hebrew" : "Greek", ...e, count, verses: list.length, words,
+      occurrences: list.slice(0, 600).map((o) => ({ slug: o.slug, book: o.book, chapter: o.chapter, verse: o.verse, text: bible[o.book]?.[String(o.chapter)]?.[o.verse - 1] ?? "", words: o.words })),
+      source: "Strong's Exhaustive Concordance (1890) and Concise Dictionaries (1894), public domain; JSON by Open Scriptures (CC BY-SA).",
+    });
+    strongsIndex.push({ n, lemma: e.lemma, xlit: e.xlit, def: (e.def || e.kjv || "").slice(0, 90), count });
+  }
+  writeJson(path.join(API, "strongs", "index.json"), strongsIndex);
+  console.error(`strongs: ${strongsIndex.length} entries, ${[...occ.values()].reduce((a, l) => a + l.length, 0)} verse occurrences`);
+}
 
 /* ---------------- api: law, precepts, cases ---------------- */
 // A reference resolved for rendering: the chapter's slug and route, the study note that
@@ -494,7 +543,7 @@ writeJson(path.join(API, "index.json"), {
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
   concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
-  history: "/api/history/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
+  history: "/api/history/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
