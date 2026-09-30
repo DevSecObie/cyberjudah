@@ -73,16 +73,53 @@ const strongsTags = (slug) => {
 };
 
 /* ---------------- api: scripture and concordance ---------------- */
+// Every moment a class read a verse aloud, straight from the transcripts
+// (scripts/precepts/readings.py): per book, chapter and verse, [video, second]. A class with a
+// note lends the note's title, date, teacher and url; the rest carry what the transcript says.
+const READINGS = path.join(ROOT, "data", "precepts", "readings");
+const readVideos = fs.existsSync(path.join(READINGS, "videos.json")) ? JSON.parse(fs.readFileSync(path.join(READINGS, "videos.json"), "utf8")) : {};
+const noteByVideo = new Map(L.notes.filter((n) => n.videoId).map((n) => [n.videoId, n]));
+const hms = (s) => { const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), x = s % 60; return h ? `${h}:${String(m).padStart(2, "0")}:${String(x).padStart(2, "0")}` : `${m}:${String(x).padStart(2, "0")}`; };
+const teacherRank = (t) => (/^bishop\b/i.test(t ?? "") ? 0 : /^deacon\b/i.test(t ?? "") ? 1 : 2);
+function readingsOf(slug) {
+  const f = path.join(READINGS, `${slug}.json`);
+  if (!fs.existsSync(f)) return {};
+  const raw = JSON.parse(fs.readFileSync(f, "utf8")), out = {};
+  for (const [c, vs] of Object.entries(raw)) {
+    out[c] = {};
+    for (const [v, rows] of Object.entries(vs)) {
+      out[c][v] = rows.map(([video, t]) => {
+        const meta = readVideos[video] ?? {}, note = noteByVideo.get(video);
+        return { video, t, ts: hms(t), title: note?.title || meta.title || "Class", date: note?.date || meta.date || "", teacher: note?.teacher || meta.teacher || "", ...(note ? { url: note.url } : {}) };
+      }).sort((a, b) => teacherRank(a.teacher) - teacherRank(b.teacher) || (b.date || "").localeCompare(a.date || ""));
+    }
+  }
+  return out;
+}
+let readingsTotal = 0;
 for (const b of BOOKS) {
+  const readings = readingsOf(bookSlug[b]);
   const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
   for (const c of chs) {
     const verses = bible[b][String(c)] ?? [];
     const tags = strongsTags(bookSlug[b]);
     writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
-    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {} });
+    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
+    readingsTotal += Object.values(readings[String(c)] ?? {}).reduce((a, r) => a + r.length, 0);
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0), chapterIds: chs });
+}
+if (readingsTotal) console.error(`readings: ${readingsTotal} verse readings from the transcripts placed on their verses`);
+// The Greek of the Apocrypha (Swete's Septuagint, scripts/strongs/lxx.py), a chapter a file, for the Words tab of books Strong's does not cover.
+const LXX = path.join(ROOT, "data", "lxx");
+if (fs.existsSync(LXX)) {
+  let n = 0;
+  for (const f of fs.readdirSync(LXX).filter((x) => x.endsWith(".json") && x !== "sources.json")) {
+    const slug = f.slice(0, -5), chs = JSON.parse(fs.readFileSync(path.join(LXX, f), "utf8"));
+    for (const [c, vs] of Object.entries(chs)) { writeJson(path.join(API, "lxx", slug, `${c}.json`), { slug, chapter: +c, source: "Swete's Septuagint (1909)", verses: vs }); n += Object.keys(vs).length; }
+  }
+  console.error(`lxx: ${n} Greek verses of the Apocrypha`);
 }
 writeJson(path.join(API, "kjv", "books.json"), L.bibleIndex.map((e) => ({ ...e, testament: testament(e.book), url: bookUrl(e.book), chapterIds: Object.keys(bible[e.book]).map(Number).sort((a, b) => a - b) })));
 if (fs.existsSync(path.join(STRONGS, "hebrew.json"))) {
@@ -252,7 +289,25 @@ writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({
   const pretty = (s) => labelOf.get(s) ?? (s.startsWith("verdict-") ? `Verdict: ${VERDICT[s.slice(8)] ?? s.slice(8)}` : s.replace(/-/g, " ").replace(/\b\w/g, (m) => m.toUpperCase()));
   const index = [...topicRows.entries()].map(([slugKey, rows]) => ({ slug: slugKey, label: pretty(slugKey), notes: rows.filter((r) => r.kind !== "case").length, cases: rows.filter((r) => r.kind === "case").length, url: `/topics/${slugKey}` })).sort((a, b) => a.label.localeCompare(b.label));
   writeJson(path.join(API, "topics", "index.json"), index);
-  for (const [slugKey, rows] of topicRows) writeJson(path.join(API, "topics", `${slugKey}.json`), { slug: slugKey, label: pretty(slugKey), url: `/topics/${slugKey}`, items: rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.title.localeCompare(b.title)) });
+  // The thread of a topic: every scripture the classes on it opened, in Bible order, each with
+  // the classes that opened it (the recording at that second) and the precepts read with it.
+  const threadOf = (rows) => {
+    const stops = new Map();
+    for (const r of rows) {
+      if (r.kind === "case") continue;
+      for (const p of L.openedBy.get(r.url) ?? []) {
+        const k = `${p.book}|${p.chapter}|${p.verses}`;
+        if (!stops.has(k)) { const first = p.verses ? Number(p.verses.split(/[-,]/)[0]) : 1; stops.set(k, { book: p.book, chapter: p.chapter, verses: p.verses, label: p.label, url: p.url, text: (bible[p.book]?.[String(p.chapter)]?.[first - 1] ?? "").slice(0, 220), classes: [], precepts: [] }); }
+        const st = stops.get(k);
+        if (!st.classes.some((c) => c.url === r.url && c.ts === p.ts)) st.classes.push({ title: r.title, url: r.url, date: r.date ?? "", teacher: p.teacher || r.teacher || "", ts: p.ts, video: p.video, t: p.t, points: p.points });
+        for (const q of p.precepts) if (!st.precepts.some((x) => x.label === q.label)) st.precepts.push(q);
+      }
+    }
+    const first = (v) => (v ? Number(v.split(/[-,]/)[0]) : 0);
+    return [...stops.values()].map((st) => ({ ...st, classes: st.classes.sort((a, b) => teacherRank(a.teacher) - teacherRank(b.teacher) || String(b.date).localeCompare(String(a.date))) }))
+      .sort((a, b) => (L.bookNum[a.book] ?? 99) - (L.bookNum[b.book] ?? 99) || a.chapter - b.chapter || first(a.verses) - first(b.verses));
+  };
+  for (const [slugKey, rows] of topicRows) writeJson(path.join(API, "topics", `${slugKey}.json`), { slug: slugKey, label: pretty(slugKey), url: `/topics/${slugKey}`, items: rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")) || a.title.localeCompare(b.title)), thread: threadOf(rows) });
 }
 
 /* ---------------- api: glossary ---------------- */
@@ -321,6 +376,7 @@ if (THUMBS) {
 // when there is one.
 const LIB = path.join(ROOT, "data", "library");
 const libraryIndex = [];
+const bookSearchRows = []; // [title, url, sub, text] per page, for search.sql
 const booksReadIn = new Map(); // videoId -> [{ slug, title, vol, page, t, ts }]
 const booksByNote = new Map(); // note url -> the same, for notes found by their artwork
 if (fs.existsSync(LIB)) {
@@ -372,6 +428,7 @@ if (fs.existsSync(LIB)) {
     }));
     fs.mkdirSync(path.join(API, "library", slug, "figures"), { recursive: true });
     if (fs.existsSync(path.join(dir, "figures"))) for (const f of fs.readdirSync(path.join(dir, "figures"))) fs.copyFileSync(path.join(dir, "figures", f), path.join(API, "library", slug, "figures", f));
+    for (const p of pages) { const c = chapters.find((x) => inChapter(x, p)); bookSearchRows.push([book.title, `/books/${slug}/p/${p.vol}-${p.page}`, `${book.volumes > 1 ? `vol. ${p.vol}, ` : ""}p. ${p.page}${c?.title ? ` · ${c.title}` : ""}`, p.text]); }
     const classes = new Set(reads.map((r) => r.video)).size;
     const cover = book.cover ? `/api/library/${slug}/${book.cover}` : figures[0]?.url ?? null;
     writeJson(path.join(API, "library", slug, "book.json"), { ...book, cover, chapters, figures, reads: reads.map(({ said, ...r }) => r), classes });
@@ -535,6 +592,20 @@ const stats = {
   history: L.history.filter((h) => h.noted).length, historyHours: Math.round(L.history.filter((h) => h.noted).reduce((a, h) => a + (h.duration ?? 0), 0) / 3600),
   precepts: sortedPrecepts.length, cases: cases.cases.filter((c) => !isBlessing(c)).length, blessings: cases.cases.filter(isBlessing).length, citedChapters: cited.size,
   recent: [...(latest.class ?? []), ...(latest.captains ?? [])].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 10),
+  // What landed lately, so the app can show the library growing: precept passes and books by the
+  // day they were added to the repository, and the newest class notes.
+  whatsNew: (() => {
+    const added = (p) => { try { return execFileSync("git", ["log", "-1", "--format=%cs", "--diff-filter=A", "--", p], { cwd: ROOT, stdio: ["ignore", "pipe", "ignore"] }).toString().trim(); } catch { return ""; } };
+    const rows = [];
+    const passDir = path.join(ROOT, "data", "precepts", "classes");
+    if (fs.existsSync(passDir)) for (const f of fs.readdirSync(passDir).filter((x) => x.endsWith(".json"))) {
+      const d = JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8")); const note = noteByVideo.get(d.video);
+      rows.push({ kind: "pass", title: d.title, url: note ? note.url : `/watch/${d.video}`, date: added(path.join(passDir, f)) || d.date || "", teacher: d.teacher || "", sub: `${d.passages.reduce((a, p) => a + p.precepts.length, 0)} precepts under ${d.passages.length} scriptures` });
+    }
+    for (const b of libraryIndex) rows.push({ kind: "book", title: b.title, url: `/books/${b.slug}`, date: added(path.join(ROOT, "data", "library", b.slug, "book.json")), teacher: "", sub: [b.author, b.year].filter(Boolean).join(", ") });
+    for (const n of [...(latest.class ?? []), ...(latest.captains ?? [])].slice(0, 6)) rows.push({ kind: n.kind === "captains" ? "captains" : "class", title: n.title, url: n.url, date: n.date, teacher: n.teacher || "", sub: "" });
+    return rows.filter((r) => r.date).sort((a, b) => b.date.localeCompare(a.date)).slice(0, 12);
+  })(),
 };
 writeJson(path.join(API, "stats.json"), stats);
 writeJson(path.join(API, "index.json"), {
@@ -673,6 +744,7 @@ write(path.join(OUT, "llms.txt"), [
   }
   for (const p of handbook.parts) for (const sec of p.sections) for (const e of sec.entries) add("law", `${sec.id}.${e.n} ${e.text}`, `${sectionUrl(sec)}#${sec.id}.${e.n}`, `${sec.id} ${sec.title}`, `${e.text} ${e.citation ?? ""}`);
   for (const t of sortedPrecepts) add("precept", t.title, preceptUrl(t), `${t.refs.length} passages`, `${t.title} ${t.refs.map((r) => `${r.book} ${r.chapter}${r.verses ? ":" + r.verses : ""}`).join(", ")}`);
+  for (const [title, url, sub, text] of bookSearchRows) add("book", title, url, sub, text);
   for (const c of cases.cases) {
     const narrative = c.offenseFull?.length > 1 ? c.offenseFull.join(" ") + " " + (c.judgmentFull || []).join(" ") : `${c.offense} ${c.judgment}`;
     add("case", c.name, caseUrl(c), `${c.era} · ${VERDICT[c.verdict] ?? c.verdict}`, `${c.charge}. ${c.summary} ${narrative} ${c.themes.join(" ")}`);

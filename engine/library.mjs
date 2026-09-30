@@ -222,6 +222,8 @@ export function loadLibrary(ROOT) {
   // placed on the verse of the passage it speaks to (the one it shares the most words with;
   // a point that speaks to none in particular is left off), for the verse's Comments.
   const commentary = new Map(); // "Book|ch" -> [{verses, points[], note, ts, video, t}]
+  // The passages each note opened, in order, with the precepts under each: note url -> [{book, chapter, verses, label, ts, video, t, precepts[], points}]. Topic threads are strung from these.
+  const openedBy = new Map();
   const STOPW = new Set("the and that unto shall this with them they their thou thee thy for from was were have hath which what when then there his him her not all but his our you your ye are into upon".split(" "));
   const wordsOf = (t) => new Set((t.toLowerCase().match(/[a-z]{3,}/g) ?? []).filter((w) => !STOPW.has(w)));
   const verseList = (spec, n) => { if (!spec) return Array.from({ length: n }, (_, i) => i + 1); const out = []; for (const part of spec.split(",")) { const [a, b] = part.split("-").map(Number); for (let v = a; v <= (b || a); v++) if (v >= 1 && v <= n) out.push(v); } return out; };
@@ -265,8 +267,8 @@ export function loadLibrary(ROOT) {
     const classNote = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
     let note = classNote;
     const lines = body.split("\n");
-    let opened = null, ts = "", precept = null, point = "", video = null, points = [];
-    const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }); points = []; };
+    let opened = null, ts = "", precept = null, point = "", video = null, points = [], passage = null;
+    const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }); if (passage) passage.points = points.length; points = []; };
     const flush = () => {
       if (!opened || !precept) return;
       const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
@@ -275,6 +277,7 @@ export function loadLibrary(ROOT) {
       const at = AT[key]?.v;
       link(at ? { ...opened, verses: at } : opened, { kind: "precept", ref: precept.ref, text, point, note, ts, ...(why ? { why } : {}) });
       link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts, ...(why ? { why } : {}) });
+      if (passage) passage.precepts.push({ label: precept.ref.label, url: precept.ref.url, ...(why ? { why } : {}) });
       precept = null;
     };
     for (const raw of lines) {
@@ -284,6 +287,8 @@ export function loadLibrary(ROOT) {
         const who = opened && TEACHERS[`${n.file}|${opened.label}`]; note = who ? { ...classNote, teacher: who } : classNote;
         video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
         if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", teacher: note.teacher, video, t: secondsOf(ts), ts }); }
+        passage = opened ? { book: opened.book, chapter: opened.chapter, verses: opened.verses || "", label: opened.label, url: opened.url, ts, video, t: ts ? secondsOf(ts) : 0, teacher: note.teacher || "", precepts: [], points: 0 } : null;
+        if (passage) { if (!openedBy.has(n.url)) openedBy.set(n.url, []); openedBy.get(n.url).push(passage); }
         continue;
       }
       if (!opened) continue;
@@ -373,6 +378,6 @@ export function loadLibrary(ROOT) {
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,
     notes, studyNotes, classNotes, captainNotes, encNotes, history, studyBooks, noteByTitle, studyFor, noteLabel,
-    cited, uniqueCitations, linked, moments, commentary, lexicon, topics,
+    cited, uniqueCitations, linked, moments, commentary, openedBy, lexicon, topics,
   };
 }
