@@ -97,6 +97,12 @@ BOOKS = {
         "license": "Public domain.", "items": ["1889dictionaryofb01smituoft", "1889dictionaryofb02smituoft", "1889dictionaryofb03smituoft", "1889dictionaryofb04smituoft"],
         "mention": r"smith'?s (bible )?dictionary|dictionary of the bible|william smith", "dictionary": True,
     },
+    "international-standard-bible-encyclopaedia": {
+        "title": "The International Standard Bible Encyclopaedia", "subtitle": "In five volumes, James Orr, general editor (1915)",
+        "author": "James Orr (general editor)", "year": 1915, "publisher": "The Howard-Severance Company, Chicago",
+        "license": "Public domain.", "items": ["theinternational01unknuoft", "bibleencyclopedi02orruoft", "internationalsta0003john", "internationalsta0004unse_n9k4", "bibleencyclopedi05orruoft"],
+        "mention": r"international standard bible encyclop|\bisbe\b|james orr", "dictionary": True, "not_figures": [(1, 705)],
+    },
     "rise-of-christendom": {
         "title": "The Rise of Christendom", "subtitle": "",
         "author": "Edwin Johnson", "year": 1890, "publisher": "Kegan Paul, Trench, Trübner and Co., London",
@@ -446,6 +452,11 @@ def dictionary_chapters(vol_pages, block=40, title=""):
     stop = set(re.findall(r"[a-z]+", title.lower())) | {"the", "and", "of", "vol"}
 
     def first_word(p):
+        # A dictionary's running head (the entry the page is on) is a short first paragraph of
+        # its own: "Acts", "Amos". Take that when it is there; otherwise the first word in capitals.
+        head = (p["paras"][0].strip() if p["paras"] else "")
+        if head and len(head) <= 28 and re.fullmatch(r"[A-Za-z][A-Za-z'’\- ]*", head) and head.lower() not in stop and not head.isupper():
+            return head[0].upper() + head[1:]
         for t in p["paras"][:2]:
             w = [x for x in re.findall(r"\b[A-Z][A-Z'’\-]{2,}\b", t) if x.lower() not in stop]
             if w:
@@ -479,6 +490,8 @@ def build(slug):
         skip |= {f[0] for f in (b.get("figures") or [])} if vi == 1 else set()
         nums, first = number_pages(pages, {i: n for i, n in (b.get("page_at") or {}).items()} if vi == 1 else None, skip)
         figs = figure_pages(pages, nums, first, b.get("figures") if vi == 1 else None)
+        # A page the picture finder took for a plate that is only a stamp or a blank: (volume, image index) pairs to leave out.
+        figs = [f for f in figs if (vi, f["img"]) not in {tuple(x) for x in (b.get("not_figures") or [])}]
         for f in figs:
             if f["page"] is None:  # an unnumbered plate faces the last numbered page before it
                 f["page"] = max((n for j, n in nums.items() if j < f["img"]), default=None)
