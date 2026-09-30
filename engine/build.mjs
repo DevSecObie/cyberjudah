@@ -764,8 +764,32 @@ write(path.join(OUT, "llms.txt"), [
   flushStmt();
   out.push("DROP TABLE IF EXISTS search_meta;", "CREATE TABLE search_meta(k TEXT PRIMARY KEY, v TEXT);", `INSERT INTO search_meta VALUES ('built', ${q(new Date().toISOString())}), ('rows', ${rows.length});`);
   const sql = out.join("\n") + "\n";
-  fs.writeFileSync(path.join(OUT, "search.sql.gz"), zlib.gzipSync(sql, { level: 9 }));
-  console.error(`search.sql: ${rows.length} rows, ${(sql.length / 1048576).toFixed(1)} MB`);
+  const gz = zlib.gzipSync(sql, { level: 9 });
+  fs.writeFileSync(path.join(OUT, "search.sql.gz"), gz);
+  // The whole index is past the 25 MiB a Workers static asset may be, so it is also written
+  // in parts under search/, each under 20 MiB gzipped and each valid SQL on its own, to be run
+  // in order (the first creates the table, the last writes search_meta). search/parts.json
+  // lists them. The whole file stays for the data branch and the D1 load here, but is kept
+  // out of the assets upload by .assetsignore.
+  const PART_MAX = 20 * 1048576, ratio = gz.length / sql.length, target = Math.floor((PART_MAX * 0.9) / ratio);
+  fs.rmSync(path.join(OUT, "search"), { recursive: true, force: true });
+  fs.mkdirSync(path.join(OUT, "search"), { recursive: true });
+  const parts = [];
+  let chunk = [], chunkSize = 0;
+  const flushPart = () => {
+    if (!chunk.length) return;
+    let body = zlib.gzipSync(chunk.join("\n") + "\n", { level: 9 });
+    if (body.length > PART_MAX) throw new Error(`search part ${parts.length + 1} is ${body.length} bytes gzipped, over the ${PART_MAX} limit`);
+    const name = `${String(parts.length + 1).padStart(2, "0")}.sql.gz`;
+    fs.writeFileSync(path.join(OUT, "search", name), body);
+    parts.push({ file: name, bytes: body.length, statements: chunk.length });
+    chunk = []; chunkSize = 0;
+  };
+  for (const st of out) { if (chunkSize + st.length > target && chunk.length) flushPart(); chunk.push(st); chunkSize += st.length; }
+  flushPart();
+  writeJson(path.join(OUT, "search", "parts.json"), { built: new Date().toISOString(), rows: rows.length, sql_bytes: sql.length, parts });
+  write(path.join(OUT, ".assetsignore"), "# Over the 25 MiB Workers asset limit; served in parts from search/ instead.\nsearch.sql.gz\n");
+  console.error(`search.sql: ${rows.length} rows, ${(sql.length / 1048576).toFixed(1)} MB, ${(gz.length / 1048576).toFixed(1)} MB gzipped, in ${parts.length} parts`);
 }
 
 /* ---------------- Pagefind: a static full-text index ---------------- */
