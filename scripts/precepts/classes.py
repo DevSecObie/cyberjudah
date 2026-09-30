@@ -189,6 +189,21 @@ def next_classes(n, book=None):
     return ranked[:n]
 
 
+def series_classes(name):
+    """A series of classes to pass in order (data/precepts/series.tsv), the ones done marked."""
+    f = os.path.join(ROOT, "data", "precepts", "series.tsv")
+    rows = [l.split("\t") for l in open(f, encoding="utf-8").read().splitlines()[1:] if l.strip()]
+    done = {os.path.basename(x)[:-5] for x in glob.glob(os.path.join(DIR, "*.json"))}
+    out = []
+    for series, order, video, title, *also in rows:
+        if series != name: continue
+        also = [a for a in (also[0].split(",") if also and also[0] else []) if a]
+        out.append({"order": order, "videoId": video, "title": title, "also": also, "done": video in done or any(a in done for a in also)})
+    if not out:
+        raise SystemExit(f"no series {name!r} in data/precepts/series.tsv")
+    return out
+
+
 def main():
     args = sys.argv[1:]
     if not args or args[0] == "check":
@@ -198,6 +213,10 @@ def main():
             print("✗ " + e)
         print(f"{len(files)} class file(s) checked, {len(errs)} problem(s)")
         sys.exit(1 if errs else 0)
+    if args[0] == "series":
+        for c in series_classes(args[1] if len(args) > 1 else "revelation"):
+            print(f"{'done ' if c['done'] else 'todo '} {c['order']:>4}  {c['videoId']}  {c['title']}" + (f"  (same class as {', '.join(c['also'])})" if c['also'] else ""))
+        return
     if args[0] == "next":
         rest = args[1:]
         book = None

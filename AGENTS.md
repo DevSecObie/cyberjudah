@@ -14,7 +14,7 @@ A **precept pass** turns one class that has no study note yet into one data file
 
 ### The workflow
 
-1. **Pick the classes.** `python3 scripts/precepts/classes.py next 5` lists the next classes to do, newest first (date, video id, title). `python3 scripts/precepts/classes.py next 5 --book Isaiah` lists instead the classes that read the most verses of that book, so a book can be filled in class by class. Do the ones you are asked to do, or the first on the list.
+1. **Pick the classes.** `python3 scripts/precepts/classes.py next 5` lists the next classes to do, newest first (date, video id, title). `python3 scripts/precepts/classes.py next 5 --book Isaiah` lists instead the classes that read the most verses of that book, so a book can be filled in class by class. `python3 scripts/precepts/classes.py series revelation` lists a series of classes in order (`data/precepts/series.tsv`), the ones done marked; a class uploaded twice is listed once, under the id to use, with its twin noted. Do the ones you are asked to do, or the first on the list.
 2. **Read the class.** The transcript is `blog/transcripts/<video id>.json`: `segments` is a list of `[start_seconds, text]` (auto-captions, unpunctuated and mis-heard in places). For a cleaner read with timestamps and the scripture references already verified:
    ```python
    import sys, json; sys.path.insert(0, "scripts/notes"); import auto
