@@ -162,11 +162,31 @@ def check(path):
     return errs
 
 
-def next_classes(n):
+def next_classes(n, book=None):
+    """The next classes to pass, newest first; with a book, the classes that read the most
+    verses of that book (from data/precepts/readings, scripts/precepts/readings.py) first."""
     sys.path.insert(0, os.path.join(ROOT, "scripts", "notes"))
     import auto  # noqa: E402
     done = {os.path.basename(f)[:-5] for f in glob.glob(os.path.join(DIR, "*.json"))}
-    return [c for c in auto.queue("classes") if c["videoId"] not in done][:n]
+    queue = [c for c in auto.queue("classes") if c["videoId"] not in done]
+    if not book:
+        return queue[:n]
+    import prep  # noqa: E402
+    name = prep.resolve_book(book)
+    if not name:
+        raise SystemExit(f"unknown book {book!r}")
+    f = os.path.join(ROOT, "data", "precepts", "readings", f"{prep.SLUG[name]}.json")
+    if not os.path.exists(f):
+        raise SystemExit("no readings yet: run scripts/precepts/readings.py first")
+    count = {}
+    for vs in json.load(open(f)).values():
+        for rows in vs.values():
+            for vid, _ in rows:
+                count[vid] = count.get(vid, 0) + 1
+    ranked = sorted((c for c in queue if count.get(c["videoId"])), key=lambda c: (-count[c["videoId"]], c.get("date") or ""))
+    for c in ranked:
+        c["verses"] = count[c["videoId"]]
+    return ranked[:n]
 
 
 def main():
@@ -179,8 +199,12 @@ def main():
         print(f"{len(files)} class file(s) checked, {len(errs)} problem(s)")
         sys.exit(1 if errs else 0)
     if args[0] == "next":
-        for c in next_classes(int(args[1]) if len(args) > 1 else 10):
-            print(f"{c['date']}  {c['videoId']}  {c.get('cleanTitle') or c['title']}")
+        rest = args[1:]
+        book = None
+        if "--book" in rest:
+            i = rest.index("--book"); book = rest[i + 1]; rest = rest[:i] + rest[i + 2:]
+        for c in next_classes(int(rest[0]) if rest else 10, book):
+            print(f"{c['date']}  {c['videoId']}  {c.get('cleanTitle') or c['title']}" + (f"  ({c['verses']} verses of {book})" if book else ""))
         return
     print(__doc__)
     sys.exit(2)
