@@ -1,0 +1,336 @@
+{
+  "audio": "recordings/michael-armenta/genesis/1.m4a",
+  "reader": "Michael Armenta",
+  "verses": [
+    [
+      1,
+      0.04,
+      4.08
+    ],
+    [
+      2,
+      5.42,
+      16.06
+    ],
+    [
+      3,
+      17.6,
+      22.54
+    ],
+    [
+      4,
+      23.86,
+      27.7
+    ],
+    [
+      5,
+      27.7,
+      43.0
+    ],
+    [
+      6,
+      44.46,
+      52.56
+    ],
+    [
+      7,
+      54.2,
+      64.78
+    ],
+    [
+      8,
+      66.46,
+      73.66
+    ],
+    [
+      9,
+      75.12,
+      86.16
+    ],
+    [
+      10,
+      86.86,
+      98.08
+    ],
+    [
+      11,
+      99.72,
+      115.88
+    ],
+    [
+      12,
+      117.18,
+      130.0
+    ],
+    [
+      13,
+      131.72,
+      134.88
+    ],
+    [
+      14,
+      136.76,
+      148.78
+    ],
+    [
+      15,
+      149.98,
+      157.4
+    ],
+    [
+      16,
+      158.68,
+      168.72
+    ],
+    [
+      17,
+      170.24,
+      173.92
+    ],
+    [
+      18,
+      174.66,
+      184.02
+    ],
+    [
+      19,
+      185.42,
+      188.4
+    ],
+    [
+      20,
+      190.32,
+      201.76
+    ],
+    [
+      21,
+      203.1,
+      218.36
+    ],
+    [
+      22,
+      219.26,
+      230.76
+    ],
+    [
+      23,
+      232.72,
+      235.56
+    ],
+    [
+      24,
+      236.82,
+      250.62
+    ],
+    [
+      25,
+      252.06,
+      264.74
+    ],
+    [
+      26,
+      265.04,
+      287.08
+    ],
+    [
+      27,
+      289.34,
+      301.04
+    ],
+    [
+      28,
+      303.14,
+      320.6
+    ],
+    [
+      29,
+      322.36,
+      338.62
+    ],
+    [
+      30,
+      340.22,
+      354.28
+    ],
+    [
+      31,
+      356.38,
+      365.36
+    ]
+  ],
+  "source": "bible_kjv_complete_2001_librivox/bible_001_kjv_128kb.mp3",
+  "sourceStart": 31.94,
+  "sourceEnd": 397.34,
+  "textSha256": "a7a95937c226dfd9a68691735ffb1416adc733e64a0130b9f0c9a117b9b9aa97",
+  "check": true,
+  "checks": [
+    {
+      "verse": 1,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 2,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 4,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 5,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 6,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 7,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 8,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 10,
+      "check": true,
+      "reasons": [
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 11,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 15,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 16,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 18,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 22,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 24,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 25,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 26,
+      "check": true,
+      "reasons": [
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 27,
+      "check": true,
+      "reasons": [
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 28,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 16%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 29,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 30,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 31,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    }
+  ],
+  "aligner": {
+    "engine": "stable-ts",
+    "version": "2.19.1",
+    "backend": "mlx",
+    "model": "mlx-community/whisper-large-v3-turbo",
+    "pipeline": 2
+  }
+}

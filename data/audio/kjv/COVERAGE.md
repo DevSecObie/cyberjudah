@@ -5,7 +5,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 | Book | Indexed chapters | Verified source candidates | Missing timings |
 | --- | --- | --- | --- |
-| Genesis | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 |
+| Genesis | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Michael Armenta | 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 |
 | Exodus | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Leviticus | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 |
 | Numbers | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 |
@@ -89,6 +89,275 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 ## Listening review
 
+- Genesis 1:1 (Michael Armenta): Low-confidence word alignment.
+- Genesis 1:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 1:4 (Michael Armenta): ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 1:5 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 1:6 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 1:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 1:8 (Michael Armenta): Low-confidence word alignment.
+- Genesis 1:10 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 1:11 (Michael Armenta): Low-confidence word alignment.
+- Genesis 1:15 (Michael Armenta): Low-confidence word alignment.
+- Genesis 1:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 1:18 (Michael Armenta): Low-confidence word alignment.
+- Genesis 1:22 (Michael Armenta): Low-confidence word alignment.
+- Genesis 1:24 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 1:25 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
+- Genesis 1:26 (Michael Armenta): A word has no duration.
+- Genesis 1:27 (Michael Armenta): A word has no duration.
+- Genesis 1:28 (Michael Armenta): ASR differs from source text (word agreement 16%); listen for skip/addition/misread or ASR error.
+- Genesis 1:29 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
+- Genesis 1:30 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 1:31 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 2:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 2:6 (Michael Armenta): Low-confidence word alignment.
+- Genesis 2:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 2:9 (Michael Armenta): Low-confidence word alignment.
+- Genesis 2:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 2:12 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 2:14 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 2:15 (Michael Armenta): Low-confidence word alignment.
+- Genesis 2:16 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 2:17 (Michael Armenta): Low-confidence word alignment.
+- Genesis 2:18 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 2:20 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 2:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 2:23 (Michael Armenta): Low-confidence word alignment.
+- Genesis 2:24 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 2:25 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 3:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 3:2 (Michael Armenta): Low-confidence word alignment.
+- Genesis 3:5 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
+- Genesis 3:6 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 3:8 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 3:10 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 3:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 3:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 3:15 (Michael Armenta): Low-confidence word alignment.
+- Genesis 3:16 (Michael Armenta): Low-confidence word alignment.
+- Genesis 3:18 (Michael Armenta): Low-confidence word alignment.
+- Genesis 3:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 3:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 3:22 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 3:23 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
+- Genesis 3:24 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 4:1 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 4:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 4:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:5 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 4:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 4:7 (Michael Armenta): Low-confidence word alignment.
+- Genesis 4:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 4:9 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 4:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:13 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 4:17 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
+- Genesis 4:18 (Michael Armenta): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:19 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
+- Genesis 4:20 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 4:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 4:22 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:23 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 4:24 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 5:1 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 5:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 5:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 5:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 5:8 (Michael Armenta): Low-confidence word alignment.
+- Genesis 5:9 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
+- Genesis 5:10 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 5:11 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Genesis 5:12 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 5:13 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 5:14 (Michael Armenta): Low-confidence word alignment.
+- Genesis 5:17 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 5:18 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 5:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 5:22 (Michael Armenta): Low-confidence word alignment.
+- Genesis 5:23 (Michael Armenta): Low-confidence word alignment.
+- Genesis 5:26 (Michael Armenta): A word has no duration.
+- Genesis 5:28 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 5:29 (Michael Armenta): Low-confidence word alignment.
+- Genesis 5:30 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 5:32 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 6:1 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 6:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 6:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:7 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 6:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 6:9 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 6:10 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
+- Genesis 6:12 (Michael Armenta): ASR differs from source text (word agreement 44%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:15 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:16 (Michael Armenta): Low-confidence word alignment.
+- Genesis 6:17 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 6:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 6:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 7:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 7:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:5 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 7:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:7 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 7:8 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 7:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 7:11 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 7:12 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:13 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 7:14 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 7:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:17 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 7:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 7:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 7:20 (Michael Armenta): Low-confidence word alignment.
+- Genesis 7:21 (Michael Armenta): Low-confidence word alignment.
+- Genesis 7:22 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 7:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 7:24 (Michael Armenta): Low-confidence word alignment.
+- Genesis 8:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 8:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 8:4 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 8:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 8:6 (Michael Armenta): Low-confidence word alignment.
+- Genesis 8:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 8:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 8:9 (Michael Armenta): Low-confidence word alignment.
+- Genesis 8:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 8:11 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 8:13 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
+- Genesis 8:14 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 8:15 (Michael Armenta): A word has no duration.
+- Genesis 8:16 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 8:18 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 8:20 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 8:21 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 8:22 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
+- Genesis 9:1 (Michael Armenta): Low-confidence word alignment.
+- Genesis 9:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 9:4 (Michael Armenta): Low-confidence word alignment.
+- Genesis 9:10 (Michael Armenta): Low-confidence word alignment.
+- Genesis 9:11 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 9:14 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 9:15 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 9:16 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 9:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 9:19 (Michael Armenta): Low-confidence word alignment.
+- Genesis 9:20 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
+- Genesis 9:23 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 9:27 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 9:29 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:1 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:2 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:3 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 10:4 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 10:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:6 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
+- Genesis 10:7 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:8 (Michael Armenta): Low-confidence word alignment.
+- Genesis 10:9 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:10 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:11 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:12 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:13 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Genesis 10:14 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:15 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:16 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 10:17 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 10:18 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:19 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 10:21 (Michael Armenta): Low-confidence word alignment.
+- Genesis 10:22 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:23 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 10:24 (Michael Armenta): ASR differs from source text (word agreement 40%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:25 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:26 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:27 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:28 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:29 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 10:30 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:31 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 10:32 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 11:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 11:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 11:3 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 11:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 11:5 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
+- Genesis 11:10 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
+- Genesis 11:11 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 11:12 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 11:13 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:14 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 11:15 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 11:17 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
+- Genesis 11:18 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:19 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Genesis 11:20 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 11:21 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 11:22 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 11:23 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:24 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
+- Genesis 11:25 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 11:26 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:27 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 11:28 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 11:29 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:30 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
+- Genesis 11:31 (Michael Armenta): Low-confidence word alignment.
+- Genesis 11:32 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 12:1 (Michael Armenta): Low-confidence word alignment.
+- Genesis 12:5 (Michael Armenta): Low-confidence word alignment.
+- Genesis 12:6 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
+- Genesis 12:8 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 12:10 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 12:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 12:14 (Michael Armenta): Low-confidence word alignment.
+- Genesis 12:15 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 12:17 (Michael Armenta): Low-confidence word alignment.
+- Genesis 12:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 12:19 (Michael Armenta): Low-confidence word alignment.
+- Genesis 12:20 (Michael Armenta): Low-confidence word alignment.
+- Genesis 13:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 13:2 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 13:3 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 13:7 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 13:8 (Michael Armenta): Low-confidence word alignment.
+- Genesis 13:9 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 13:10 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 13:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 13:13 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 13:14 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 13:15 (Michael Armenta): Low-confidence word alignment.
+- Genesis 13:17 (Michael Armenta): Low-confidence word alignment.
+- Genesis 13:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 14:1 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 14:2 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 14:4 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 14:5 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 14:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 14:7 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 14:8 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 14:9 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 14:10 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
+- Genesis 14:12 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- Genesis 14:13 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 14:14 (Michael Armenta): Low-confidence word alignment.
+- Genesis 14:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 14:17 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 14:18 (Michael Armenta): Low-confidence word alignment.
+- Genesis 14:20 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 14:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 14:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 14:23 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 14:24 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
 - Tobit 1:1 (Glenn O'Brien): ASR differs from source text (word agreement 68%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
 - Tobit 1:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
 - Tobit 1:3 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
