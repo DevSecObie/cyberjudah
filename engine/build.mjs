@@ -273,7 +273,7 @@ for (const p of peopleDoc.people) {
     siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
     verses: p.verses, taught, source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
   });
-  peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, verses: p.verses.length, first: p.verses[0] });
+  peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, verses: p.verses.length, first: p.verses[0] });
 }
 writeJson(path.join(API, "people", "index.json"), peopleIndex);
 
