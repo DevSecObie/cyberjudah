@@ -135,12 +135,22 @@
       "duration": 3674.55,
       "sha1": "10a5e87281d27c5c286aefc1c9c0a394f6b08c97",
       "bytes": 58796917,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 240 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/genesis/25.json",
+        "michael-armenta/genesis/26.json",
+        "michael-armenta/genesis/27.json",
+        "michael-armenta/genesis/28.json",
+        "michael-armenta/genesis/29.json",
+        "michael-armenta/genesis/30.json",
+        "michael-armenta/genesis/31.json",
+        "michael-armenta/genesis/32.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_003_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_004_kjv_128kb.mp3",
