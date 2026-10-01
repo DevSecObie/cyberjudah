@@ -1,0 +1,97 @@
+{
+  "audio": "recordings/glenn-obrien/tobit/9.m4a",
+  "reader": "Glenn O'Brien",
+  "verses": [
+    [
+      1,
+      0.04,
+      3.02
+    ],
+    [
+      2,
+      3.72,
+      13.46
+    ],
+    [
+      3,
+      14.68,
+      17.44
+    ],
+    [
+      4,
+      18.66,
+      23.62
+    ],
+    [
+      5,
+      24.78,
+      33.7
+    ],
+    [
+      6,
+      34.52,
+      40.6
+    ]
+  ],
+  "source": "tobit_kjv_1512_librivox/tobit_09_kjv_128kb.mp3",
+  "sourceStart": 16.16,
+  "sourceEnd": 56.8,
+  "textSha256": "6656c67aad3d6802ddff1a8dc7142fc1c9c81234af5fc88483761220de22575e",
+  "check": true,
+  "checks": [
+    {
+      "verse": 1,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 2,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 3,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 4,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 5,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 6,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    }
+  ],
+  "aligner": {
+    "engine": "stable-ts",
+    "version": "2.19.1",
+    "backend": "mlx",
+    "model": "mlx-community/whisper-large-v3-turbo",
+    "pipeline": 2
+  }
+}

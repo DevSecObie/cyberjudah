@@ -1,0 +1,304 @@
+{
+  "audio": "recordings/librivox-volunteer/wisdom-of-solomon/12.m4a",
+  "reader": "A LibriVox Volunteer",
+  "verses": [
+    [
+      1,
+      0.04,
+      5.48
+    ],
+    [
+      2,
+      6.34,
+      19.28
+    ],
+    [
+      3,
+      20.26,
+      27.62
+    ],
+    [
+      4,
+      28.26,
+      33.94
+    ],
+    [
+      5,
+      34.82,
+      42.68
+    ],
+    [
+      6,
+      43.56,
+      52.54
+    ],
+    [
+      7,
+      53.6,
+      60.46
+    ],
+    [
+      8,
+      62.0,
+      71.92
+    ],
+    [
+      9,
+      73.2,
+      83.76
+    ],
+    [
+      10,
+      84.56,
+      100.42
+    ],
+    [
+      11,
+      101.5,
+      110.66
+    ],
+    [
+      12,
+      111.6,
+      128.16
+    ],
+    [
+      13,
+      129.52,
+      137.66
+    ],
+    [
+      14,
+      138.96,
+      145.42
+    ],
+    [
+      15,
+      146.56,
+      159.16
+    ],
+    [
+      16,
+      160.16,
+      168.82
+    ],
+    [
+      17,
+      169.6,
+      179.78
+    ],
+    [
+      18,
+      180.88,
+      190.86
+    ],
+    [
+      19,
+      191.82,
+      203.36
+    ],
+    [
+      20,
+      204.4,
+      216.9
+    ],
+    [
+      21,
+      217.94,
+      227.2
+    ],
+    [
+      22,
+      228.58,
+      245.04
+    ],
+    [
+      23,
+      246.62,
+      255.08
+    ],
+    [
+      24,
+      256.14,
+      269.52
+    ],
+    [
+      25,
+      270.88,
+      277.54
+    ],
+    [
+      26,
+      278.42,
+      286.34
+    ],
+    [
+      27,
+      287.44,
+      308.54
+    ]
+  ],
+  "source": "wisdom_of_solomon_kjv_1407_librivox/wisdomofsolomon_02_kjv_128kb.mp3",
+  "sourceStart": 841.26,
+  "sourceEnd": 1149.84,
+  "textSha256": "65f6b00d01365c199e5638dcb37166bbb12af7d5019037ed19852b9157abe099",
+  "check": true,
+  "checks": [
+    {
+      "verse": 1,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 3,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 4,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 5,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 7,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 8,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 9,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 11,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 12,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 13,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 14,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 15,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 16,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 17,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 18,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 21,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 24,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 26,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 27,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    }
+  ],
+  "aligner": {
+    "engine": "stable-ts",
+    "version": "2.19.1",
+    "backend": "mlx",
+    "model": "mlx-community/whisper-large-v3-turbo",
+    "pipeline": 2
+  }
+}

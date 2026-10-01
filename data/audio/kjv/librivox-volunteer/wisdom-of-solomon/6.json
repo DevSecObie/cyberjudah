@@ -1,0 +1,256 @@
+{
+  "audio": "recordings/librivox-volunteer/wisdom-of-solomon/6.m4a",
+  "reader": "A LibriVox Volunteer",
+  "verses": [
+    [
+      1,
+      0.04,
+      6.8
+    ],
+    [
+      2,
+      7.7,
+      12.82
+    ],
+    [
+      3,
+      14.1,
+      22.34
+    ],
+    [
+      4,
+      24.32,
+      32.82
+    ],
+    [
+      5,
+      34.48,
+      41.78
+    ],
+    [
+      6,
+      42.92,
+      48.46
+    ],
+    [
+      7,
+      49.74,
+      63.38
+    ],
+    [
+      8,
+      64.56,
+      67.24
+    ],
+    [
+      9,
+      68.66,
+      75.52
+    ],
+    [
+      10,
+      76.42,
+      85.56
+    ],
+    [
+      11,
+      86.76,
+      92.88
+    ],
+    [
+      12,
+      94.7,
+      104.48
+    ],
+    [
+      13,
+      105.6,
+      111.06
+    ],
+    [
+      14,
+      112.16,
+      118.84
+    ],
+    [
+      15,
+      120.16,
+      129.1
+    ],
+    [
+      16,
+      130.12,
+      139.56
+    ],
+    [
+      17,
+      140.46,
+      147.48
+    ],
+    [
+      18,
+      148.9,
+      156.62
+    ],
+    [
+      19,
+      158.08,
+      161.04
+    ],
+    [
+      20,
+      162.58,
+      165.62
+    ],
+    [
+      21,
+      166.96,
+      176.64
+    ],
+    [
+      22,
+      177.96,
+      195.12
+    ],
+    [
+      23,
+      196.66,
+      202.82
+    ],
+    [
+      24,
+      203.86,
+      211.48
+    ],
+    [
+      25,
+      213.1,
+      218.22
+    ]
+  ],
+  "source": "wisdom_of_solomon_kjv_1407_librivox/wisdomofsolomon_01_kjv_128kb.mp3",
+  "sourceStart": 1061.04,
+  "sourceEnd": 1279.3,
+  "textSha256": "0c62ab11b05dbc855a2a61905f8923f1c55ceb534b0382b340db54216a947634",
+  "check": true,
+  "checks": [
+    {
+      "verse": 1,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 4,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 7,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 8,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 13,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 14,
+      "check": true,
+      "reasons": [
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 15,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 16,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 18,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 19,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 20,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 21,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 22,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 23,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error"
+      ]
+    }
+  ],
+  "aligner": {
+    "engine": "stable-ts",
+    "version": "2.19.1",
+    "backend": "mlx",
+    "model": "mlx-community/whisper-large-v3-turbo",
+    "pipeline": 2
+  }
+}
