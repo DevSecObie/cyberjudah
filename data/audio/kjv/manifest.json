@@ -37,18 +37,16 @@
       "duration": 3834.4,
       "sha1": "0ae7a05d12aa510694926d03487bfe9e88c45925",
       "bytes": 61354441,
-      "quality": "Forced aligned against repository KJV; 269 verses need listening review. Noise/volume need listening review.",
-      "status": "needs-review",
+      "quality": "Forced aligned against repository KJV; 49 verses need listening review. Noise/volume need listening review.",
+      "status": "partial-alignment",
       "timingFiles": [
         "michael-armenta/genesis/1.json",
         "michael-armenta/genesis/2.json",
         "michael-armenta/genesis/3.json",
         "michael-armenta/genesis/4.json",
         "michael-armenta/genesis/5.json",
-        "michael-armenta/genesis/6.json",
         "michael-armenta/genesis/7.json",
         "michael-armenta/genesis/8.json",
-        "michael-armenta/genesis/9.json",
         "michael-armenta/genesis/10.json",
         "michael-armenta/genesis/11.json",
         "michael-armenta/genesis/12.json",
@@ -58,7 +56,16 @@
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_001_kjv_128kb.mp3"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [
+        {
+          "chapter": 6,
+          "reason": "Verse 12: 1.72s is too short to speak 21 words; re-align or withhold"
+        },
+        {
+          "chapter": 9,
+          "reason": "Verse 29: 0.64s is too short to speak 15 words; re-align or withhold"
+        }
+      ]
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_002_kjv_128kb.mp3",
@@ -89,7 +96,7 @@
       "duration": 3618.1,
       "sha1": "8aba2b49f9e9b028df6495f31f37fe1300f0c332",
       "bytes": 57893739,
-      "quality": "Forced aligned against repository KJV; 234 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 21 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "michael-armenta/genesis/15.json",
@@ -135,7 +142,7 @@
       "duration": 3674.55,
       "sha1": "10a5e87281d27c5c286aefc1c9c0a394f6b08c97",
       "bytes": 58796917,
-      "quality": "Forced aligned against repository KJV; 240 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 26 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "michael-armenta/genesis/25.json",
@@ -182,25 +189,32 @@
       "duration": 4139.32,
       "sha1": "ed5336c57881c4c4acbf5adf12783883c41bb517",
       "bytes": 66233278,
-      "quality": "Forced aligned against repository KJV; 295 verses need listening review. Noise/volume need listening review.",
-      "status": "needs-review",
+      "quality": "Forced aligned against repository KJV; 42 verses need listening review. Noise/volume need listening review.",
+      "status": "partial-alignment",
       "timingFiles": [
         "michael-armenta/genesis/33.json",
         "michael-armenta/genesis/34.json",
-        "michael-armenta/genesis/35.json",
         "michael-armenta/genesis/36.json",
         "michael-armenta/genesis/37.json",
         "michael-armenta/genesis/38.json",
         "michael-armenta/genesis/39.json",
         "michael-armenta/genesis/40.json",
         "michael-armenta/genesis/41.json",
-        "michael-armenta/genesis/42.json",
         "michael-armenta/genesis/43.json"
       ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_004_kjv_128kb.mp3"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [
+        {
+          "chapter": 35,
+          "reason": "Verse 17: 2.04s is too short to speak 25 words; re-align or withhold"
+        },
+        {
+          "chapter": 42,
+          "reason": "Verse 8: 0.34s is too short to speak 10 words; re-align or withhold"
+        }
+      ]
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_005_kjv_128kb.mp3",
@@ -228,7 +242,7 @@
       "duration": 2525.74,
       "sha1": "0e86b86475d6f989c1005960224e05a78da1bae5",
       "bytes": 40415940,
-      "quality": "Forced aligned against repository KJV; 159 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 10 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "michael-armenta/genesis/44.json",
@@ -4577,7 +4591,7 @@
       "duration": 274.23,
       "sha1": "7c0a200e1d1248b7a265b88758b96c4125379748",
       "bytes": 4392454,
-      "quality": "Forced aligned against repository KJV; 21 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 13 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/1.json"
@@ -4604,7 +4618,7 @@
       "duration": 180.14,
       "sha1": "f29325761348941d37f45e0f6088b0160c2e8f44",
       "bytes": 2886933,
-      "quality": "Forced aligned against repository KJV; 14 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 5 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/2.json"
@@ -4631,7 +4645,7 @@
       "duration": 253.88,
       "sha1": "ce969bb6d820c2d8b52d9fe1e8265afcee30983a",
       "bytes": 4066832,
-      "quality": "Forced aligned against repository KJV; 15 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 8 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/3.json"
@@ -4658,7 +4672,7 @@
       "duration": 280.63,
       "sha1": "e65aadac545afb393f0c5035b41543bba3ea0585",
       "bytes": 4494822,
-      "quality": "Forced aligned against repository KJV; 21 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 10 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/4.json"
@@ -4685,8 +4699,8 @@
       "duration": 217.81,
       "sha1": "f7fddcf67bb4094e363a70da1ec8a7a1e836dc7a",
       "bytes": 3489630,
-      "quality": "Forced aligned against repository KJV; 22 verses need listening review. Noise/volume need listening review.",
-      "status": "alignment-failed",
+      "quality": "Forced aligned against repository KJV; 0 verses need listening review. Noise/volume need listening review.",
+      "status": "partial-alignment",
       "timingFiles": [],
       "alignmentErrors": [
         {
@@ -4715,7 +4729,7 @@
       "duration": 227.55,
       "sha1": "e8aab541bc8009710d9ea49da53f547317046bea",
       "bytes": 3645561,
-      "quality": "Forced aligned against repository KJV; 17 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 6 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/6.json"
@@ -4742,7 +4756,7 @@
       "duration": 196.23,
       "sha1": "7259678efe6486ffa10a48ebfc40cb2a3d044afa",
       "bytes": 3144428,
-      "quality": "Forced aligned against repository KJV; 17 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 9 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/7.json"
@@ -4769,7 +4783,7 @@
       "duration": 186.36,
       "sha1": "a4152ef633368e3703b332a44b251296f189c64e",
       "bytes": 2986407,
-      "quality": "Forced aligned against repository KJV; 19 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 16 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/8.json"
@@ -4796,7 +4810,7 @@
       "duration": 64.08,
       "sha1": "d0d84b67821b9df3bea87782b46d6eada19a0729",
       "bytes": 1029940,
-      "quality": "Forced aligned against repository KJV; 6 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 4 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/9.json"
@@ -4823,7 +4837,7 @@
       "duration": 142.11,
       "sha1": "ee5fbb89579da1805f05823d69a2f876794bd930",
       "bytes": 2278384,
-      "quality": "Forced aligned against repository KJV; 11 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 5 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/10.json"
@@ -4850,7 +4864,7 @@
       "duration": 180.32,
       "sha1": "f183dd4aaec818f1109544d5ec51bd8346d2fd40",
       "bytes": 2889859,
-      "quality": "Forced aligned against repository KJV; 17 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 12 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/11.json"
@@ -4877,7 +4891,7 @@
       "duration": 196.34,
       "sha1": "052644e1eae3674978162a9fe0d464739a0f5103",
       "bytes": 3146068,
-      "quality": "Forced aligned against repository KJV; 21 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 7 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/12.json"
@@ -4904,8 +4918,8 @@
       "duration": 211.59,
       "sha1": "e3f37d70906c764303f2223171bc744c21c0588a",
       "bytes": 3390156,
-      "quality": "Forced aligned against repository KJV; 16 verses need listening review. Noise/volume need listening review.",
-      "status": "alignment-failed",
+      "quality": "Forced aligned against repository KJV; 0 verses need listening review. Noise/volume need listening review.",
+      "status": "partial-alignment",
       "timingFiles": [],
       "alignmentErrors": [
         {
@@ -4934,7 +4948,7 @@
       "duration": 221.02,
       "sha1": "79ad196a932262c67b1553551a07883aa2cec43d",
       "bytes": 3541039,
-      "quality": "Forced aligned against repository KJV; 15 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 7 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/14.json"
@@ -4965,7 +4979,7 @@
       "duration": 1003.02,
       "sha1": "647af5d7344ba57872660b755c6cfc440b0a14ef",
       "bytes": 16053065,
-      "quality": "Forced aligned against repository KJV; 84 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 16 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/judith/1.json",
@@ -5000,7 +5014,7 @@
       "duration": 1418.06,
       "sha1": "72ab76eccce15d29d4b76a7bf4ba5beab771eee3",
       "bytes": 22693601,
-      "quality": "Forced aligned against repository KJV; 119 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 5 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/judith/6.json",
@@ -5036,7 +5050,7 @@
       "duration": 1358.86,
       "sha1": "31b51449a8d9f41d9b2f0b51ea3d1a5ad31e862d",
       "bytes": 21746537,
-      "quality": "Forced aligned against repository KJV; 114 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 12 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/judith/11.json",
@@ -5074,7 +5088,7 @@
       "duration": 1594.93,
       "sha1": "2e4945ae2a34ff4ee6ec0f17d25236e93138efe6",
       "bytes": 25523602,
-      "quality": "Forced aligned against repository KJV; 113 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 4 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "librivox-volunteer/wisdom-of-solomon/1.json",
@@ -5112,7 +5126,7 @@
       "duration": 1377.1,
       "sha1": "b503e78f236a537778d7f2c34612d70c08e16f1d",
       "bytes": 22038241,
-      "quality": "Forced aligned against repository KJV; 102 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 8 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "librivox-volunteer/wisdom-of-solomon/8.json",
@@ -5149,7 +5163,7 @@
       "duration": 1648.64,
       "sha1": "8192b55ed96d5fa7b13507f7cd7d367e07b9098c",
       "bytes": 26382927,
-      "quality": "Forced aligned against repository KJV; 118 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 10 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "librivox-volunteer/wisdom-of-solomon/14.json",
@@ -5181,7 +5195,7 @@
       "duration": 626.69,
       "sha1": "6a535078c51e784ee2aabf945dbe53e78c578396",
       "bytes": 10027091,
-      "quality": "Forced aligned against repository KJV; 59 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 13 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "david-shamp/song-of-the-three-children/1.json"
@@ -5208,7 +5222,7 @@
       "duration": 580.82,
       "sha1": "26041132b5dbbe5745a14e7ae62d40f77d107917",
       "bytes": 9293154,
-      "quality": "Forced aligned against repository KJV; 47 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 3 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "david-shamp/susanna/1.json"
@@ -5265,8 +5279,8 @@
       "duration": 214.16,
       "sha1": "d2ae150b23de423369b4160dc0bc8bab0e843e95",
       "bytes": 3426647,
-      "quality": "Forced aligned against repository KJV; 14 verses need listening review. Noise/volume need listening review.",
-      "status": "needs-review",
+      "quality": "Forced aligned against repository KJV; 0 verses need listening review. Noise/volume need listening review.",
+      "status": "aligned",
       "timingFiles": [
         "david-shamp/prayer-of-manasseh/1.json"
       ],
@@ -5296,7 +5310,7 @@
       "duration": 2720.18,
       "sha1": "d51c9a8d0b7c0a0f52cc50b98f3d252d6dde1ca8",
       "bytes": 43527612,
-      "quality": "Forced aligned against repository KJV; 289 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 41 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/1-maccabees/1.json",
@@ -5331,7 +5345,7 @@
       "duration": 2868.17,
       "sha1": "facd37395bac371c3512dd545ab8712845cab906",
       "bytes": 45895351,
-      "quality": "Forced aligned against repository KJV; 279 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 32 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/1-maccabees/6.json",
@@ -5367,7 +5381,7 @@
       "duration": 2789.88,
       "sha1": "4b74f93c2b84fd9e40376053e8a66bb16fc8bde9",
       "bytes": 44642727,
-      "quality": "Forced aligned against repository KJV; 272 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 57 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/1-maccabees/11.json",
@@ -5403,7 +5417,7 @@
       "duration": 1884.84,
       "sha1": "06a570b380e58805b53d2a3670c1aadcbb16ac8e",
       "bytes": 30162145,
-      "quality": "Forced aligned against repository KJV; 179 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 25 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/2-maccabees/1.json",
@@ -5438,7 +5452,7 @@
       "duration": 2032.64,
       "sha1": "42cfb6fdc1ab639d94774ea031a726e7caf9ac0b",
       "bytes": 32526927,
-      "quality": "Forced aligned against repository KJV; 169 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 13 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/2-maccabees/6.json",
@@ -5473,7 +5487,7 @@
       "duration": 2183.84,
       "sha1": "0720284669d7b597a987f9d6b035f79acf5a0c40",
       "bytes": 34946106,
-      "quality": "Forced aligned against repository KJV; 174 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 20 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/2-maccabees/11.json",

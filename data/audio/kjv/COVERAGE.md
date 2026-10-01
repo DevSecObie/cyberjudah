@@ -5,7 +5,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 | Book | Indexed chapters | Verified source candidates | Missing timings |
 | --- | --- | --- | --- |
-| Genesis | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 | Michael Armenta | — |
+| Genesis | 1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50 | Michael Armenta | 6, 9, 35, 42 |
 | Exodus | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
 | Leviticus | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 |
 | Numbers | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 |
@@ -89,3532 +89,522 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 ## Listening review
 
-- Genesis 1:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 1:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 1:4 (Michael Armenta): ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 1:5 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 1:6 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 1:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 1:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 1:10 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 1:11 (Michael Armenta): Low-confidence word alignment.
-- Genesis 1:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 1:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 1:18 (Michael Armenta): Low-confidence word alignment.
-- Genesis 1:22 (Michael Armenta): Low-confidence word alignment.
-- Genesis 1:24 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 1:25 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 1:26 (Michael Armenta): A word has no duration.
-- Genesis 1:27 (Michael Armenta): A word has no duration.
+- Genesis 6 (Michael Armenta): chapter withheld — Verse 12: 1.72s is too short to speak 21 words; re-align or withhold.
+- Genesis 9 (Michael Armenta): chapter withheld — Verse 29: 0.64s is too short to speak 15 words; re-align or withhold.
+- Genesis 1:4 (Michael Armenta): ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error.
+- Genesis 1:5 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - Genesis 1:28 (Michael Armenta): ASR differs from source text (word agreement 16%); listen for skip/addition/misread or ASR error.
 - Genesis 1:29 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
-- Genesis 1:30 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 1:31 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 2:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 2:6 (Michael Armenta): Low-confidence word alignment.
-- Genesis 2:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 2:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 2:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 2:12 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 2:14 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 2:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 2:16 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 2:17 (Michael Armenta): Low-confidence word alignment.
-- Genesis 2:18 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 2:20 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 2:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 2:23 (Michael Armenta): Low-confidence word alignment.
-- Genesis 2:24 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 2:25 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 3:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 3:2 (Michael Armenta): Low-confidence word alignment.
-- Genesis 3:5 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 3:6 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 3:8 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 3:10 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 3:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 3:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 3:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 3:16 (Michael Armenta): Low-confidence word alignment.
-- Genesis 3:18 (Michael Armenta): Low-confidence word alignment.
-- Genesis 3:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 3:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 3:22 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 3:23 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 3:24 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 4:1 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 4:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 4:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 4:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 4:5 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 4:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 4:7 (Michael Armenta): Low-confidence word alignment.
-- Genesis 4:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 4:9 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 4:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 4:13 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 4:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 4:17 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 4:18 (Michael Armenta): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 4:19 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 4:20 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 4:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 4:22 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 4:23 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 4:24 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 5:1 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 5:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 5:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 5:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 5:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 5:9 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 5:10 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 4:13 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 4:18 (Michael Armenta): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
+- Genesis 4:22 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Genesis 5:10 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Genesis 5:11 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - Genesis 5:12 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Genesis 5:13 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 5:14 (Michael Armenta): Low-confidence word alignment.
-- Genesis 5:17 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 5:18 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 5:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 5:22 (Michael Armenta): Low-confidence word alignment.
-- Genesis 5:23 (Michael Armenta): Low-confidence word alignment.
-- Genesis 5:26 (Michael Armenta): A word has no duration.
-- Genesis 5:28 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 5:29 (Michael Armenta): Low-confidence word alignment.
-- Genesis 5:30 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 5:32 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 6:1 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 6:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 6:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:7 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 6:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 6:9 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 6:10 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 6:12 (Michael Armenta): ASR differs from source text (word agreement 44%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:15 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:16 (Michael Armenta): Low-confidence word alignment.
-- Genesis 6:17 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 6:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 6:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 7:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 7:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:5 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 7:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:7 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 7:8 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 7:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 7:11 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 7:12 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:13 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 7:14 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 7:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:17 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 7:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 7:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 7:20 (Michael Armenta): Low-confidence word alignment.
-- Genesis 7:21 (Michael Armenta): Low-confidence word alignment.
-- Genesis 7:22 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 7:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 7:24 (Michael Armenta): Low-confidence word alignment.
-- Genesis 8:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 8:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 8:4 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 8:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 8:6 (Michael Armenta): Low-confidence word alignment.
-- Genesis 8:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 8:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 8:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 8:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 8:11 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 8:13 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 8:14 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 8:15 (Michael Armenta): A word has no duration.
-- Genesis 8:16 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 8:18 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 8:20 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 8:21 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 8:22 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 9:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 9:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 9:4 (Michael Armenta): Low-confidence word alignment.
-- Genesis 9:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 9:11 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 9:14 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 9:15 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 9:16 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 9:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 9:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 9:20 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 9:23 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 9:27 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 9:29 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:1 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:2 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:3 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 10:4 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 10:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:6 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 10:7 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 10:9 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:10 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:11 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:12 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 5:13 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Genesis 5:18 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Genesis 10:1 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Genesis 10:2 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Genesis 10:4 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 10:7 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 10:10 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 10:12 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Genesis 10:13 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
-- Genesis 10:14 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:15 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:16 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 10:17 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 10:18 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:19 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 10:21 (Michael Armenta): Low-confidence word alignment.
-- Genesis 10:22 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:23 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 10:24 (Michael Armenta): ASR differs from source text (word agreement 40%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:25 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:26 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:27 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 10:28 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 10:14 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Genesis 10:15 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 10:16 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 10:17 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 10:18 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 10:22 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 10:24 (Michael Armenta): ASR differs from source text (word agreement 40%); listen for skip/addition/misread or ASR error.
+- Genesis 10:26 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error.
+- Genesis 10:27 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Genesis 10:28 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error.
 - Genesis 10:29 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Genesis 10:30 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 10:31 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 10:32 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 11:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 11:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 11:3 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 11:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 11:5 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 11:10 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 11:11 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 10:30 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Genesis 11:12 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Genesis 11:13 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:13 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
 - Genesis 11:14 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - Genesis 11:15 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Genesis 11:17 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 11:18 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 11:18 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
 - Genesis 11:19 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - Genesis 11:20 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - Genesis 11:21 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Genesis 11:22 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Genesis 11:23 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 11:24 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 11:25 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 11:26 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 11:27 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 11:28 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 11:29 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 11:30 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 11:31 (Michael Armenta): Low-confidence word alignment.
-- Genesis 11:32 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 12:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 12:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 12:6 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 12:8 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 12:10 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 12:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 12:14 (Michael Armenta): Low-confidence word alignment.
-- Genesis 12:15 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 12:17 (Michael Armenta): Low-confidence word alignment.
-- Genesis 12:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 12:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 12:20 (Michael Armenta): Low-confidence word alignment.
-- Genesis 13:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 13:2 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 13:3 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 13:7 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 13:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 13:9 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 13:10 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 13:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 13:13 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 13:14 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 13:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 13:17 (Michael Armenta): Low-confidence word alignment.
-- Genesis 13:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 14:1 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 14:2 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 14:4 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 14:5 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 14:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 14:7 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 14:8 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 14:9 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 14:10 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 14:12 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 14:13 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 14:14 (Michael Armenta): Low-confidence word alignment.
-- Genesis 14:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 14:17 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 14:18 (Michael Armenta): Low-confidence word alignment.
-- Genesis 14:20 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 14:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 14:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 14:23 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 14:24 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 15:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 15:2 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 15:5 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 15:6 (Michael Armenta): Low-confidence word alignment.
-- Genesis 15:9 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 15:10 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 11:25 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Genesis 13:3 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 14:1 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 14:2 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 14:4 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 14:5 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Genesis 14:7 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 14:9 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 14:23 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Genesis 15:11 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Genesis 15:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 15:14 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 15:17 (Michael Armenta): Low-confidence word alignment.
-- Genesis 15:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 15:20 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 15:21 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 16:1 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 16:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 16:5 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 16:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 16:7 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 16:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 16:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 16:10 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 16:14 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 17:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 17:3 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 17:5 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:7 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:8 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 17:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 17:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 17:11 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:12 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 17:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 17:17 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:18 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 17:19 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 17:22 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 17:23 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 17:25 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 18:2 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:3 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 18:4 (Michael Armenta): Low-confidence word alignment.
-- Genesis 18:5 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 18:6 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 18:7 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:10 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 18:11 (Michael Armenta): A word has no duration.
-- Genesis 18:12 (Michael Armenta): Low-confidence word alignment.
-- Genesis 18:13 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 18:14 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 18:15 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 18:16 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 18:17 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 18:19 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 18:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 18:22 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 18:24 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 18:25 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:26 (Michael Armenta): A word has no duration.
-- Genesis 18:27 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:28 (Michael Armenta): Low-confidence word alignment.
-- Genesis 18:29 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:30 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:31 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 18:32 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 18:33 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:5 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:7 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 19:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 19:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:14 (Michael Armenta): Low-confidence word alignment.
-- Genesis 19:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 19:18 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:21 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:22 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:23 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:24 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 19:26 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:27 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:28 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 19:29 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:30 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 19:31 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:35 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:36 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 19:37 (Michael Armenta): ASR differs from source text (word agreement 72%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 19:38 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 20:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 20:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 20:3 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 20:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 20:6 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 20:7 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 20:8 (Michael Armenta): A word has no duration.
-- Genesis 20:9 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 20:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 20:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 20:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 20:13 (Michael Armenta): A word has no duration.
-- Genesis 20:14 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 20:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 20:18 (Michael Armenta): Low-confidence word alignment.
-- Genesis 21:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 21:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 21:3 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 21:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 21:5 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 21:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 21:7 (Michael Armenta): Low-confidence word alignment.
-- Genesis 21:8 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 21:9 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:10 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:13 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 21:14 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 21:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 21:16 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 21:17 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 21:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 21:21 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 21:22 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:23 (Michael Armenta): Low-confidence word alignment.
-- Genesis 21:25 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 21:26 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 21:28 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:29 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 21:30 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:31 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:32 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 21:33 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
+- Genesis 15:20 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 16:14 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Genesis 17:17 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 18:32 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Genesis 18:33 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Genesis 19:18 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Genesis 19:22 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 19:37 (Michael Armenta): ASR differs from source text (word agreement 72%); listen for skip/addition/misread or ASR error.
+- Genesis 19:38 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Genesis 21:26 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Genesis 21:29 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Genesis 21:31 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - Genesis 21:34 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Genesis 22:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 22:2 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 22:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 22:4 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 22:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 22:6 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 22:7 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 22:9 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 22:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:12 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 22:13 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:15 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 22:17 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 22:18 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
 - Genesis 22:19 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Genesis 22:20 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 22:21 (Michael Armenta): ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 22:21 (Michael Armenta): ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error.
 - Genesis 22:22 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
-- Genesis 22:23 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 22:24 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 23:2 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 23:3 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 23:4 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 23:5 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 23:8 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 23:9 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 23:10 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 23:11 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 23:12 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 23:13 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 23:14 (Michael Armenta): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 23:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 23:16 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 23:17 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 23:18 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 23:19 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 23:20 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:1 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:3 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:6 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:7 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 24:9 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:10 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:11 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 24:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 24:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 24:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 24:19 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:20 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 24:21 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 24:22 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:24 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:25 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:27 (Michael Armenta): Low-confidence word alignment.
-- Genesis 24:28 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:29 (Michael Armenta): Low-confidence word alignment.
-- Genesis 24:30 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:31 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:32 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:34 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:35 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:36 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:37 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:38 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 24:40 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:41 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:43 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:44 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:45 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:46 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:47 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:49 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:50 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:52 (Michael Armenta): Low-confidence word alignment.
-- Genesis 24:55 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:56 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 24:57 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 24:59 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 24:60 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 24:61 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 24:62 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:63 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 24:65 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 24:66 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 24:67 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 25:1 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:2 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 22:24 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Genesis 23:5 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Genesis 23:14 (Michael Armenta): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- Genesis 24:50 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 25:2 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
 - Genesis 25:3 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
-- Genesis 25:4 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:5 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 25:6 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:7 (Michael Armenta): Low-confidence word alignment.
-- Genesis 25:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 25:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 25:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:11 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 25:12 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 25:13 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 25:4 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 25:13 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Genesis 25:14 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - Genesis 25:15 (Michael Armenta): ASR differs from source text (word agreement 57%); listen for skip/addition/misread or ASR error.
-- Genesis 25:17 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 25:18 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:19 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 25:20 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:21 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 25:22 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 25:23 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 25:26 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 25:27 (Michael Armenta): Low-confidence word alignment.
-- Genesis 25:29 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 25:30 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 25:32 (Michael Armenta): A word has no duration.
-- Genesis 25:33 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 25:34 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 26:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 26:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 26:3 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 26:4 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 26:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 26:7 (Michael Armenta): Low-confidence word alignment.
-- Genesis 26:10 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 26:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 26:12 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 26:14 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 26:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 26:17 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 26:18 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 26:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 26:21 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 26:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Genesis 25:19 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Genesis 26:23 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
-- Genesis 26:24 (Michael Armenta): Low-confidence word alignment.
-- Genesis 26:25 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 26:26 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Genesis 26:27 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 26:29 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 26:32 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 26:33 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 26:34 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 26:35 (Michael Armenta): Low-confidence word alignment.
-- Genesis 27:1 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:6 (Michael Armenta): A word has no duration.
-- Genesis 27:8 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:9 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 27:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 27:14 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 27:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 27:17 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 27:19 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 27:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 27:23 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 27:24 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:26 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 27:27 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:28 (Michael Armenta): A word has no duration.
-- Genesis 27:29 (Michael Armenta): Low-confidence word alignment.
-- Genesis 27:31 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:32 (Michael Armenta): Low-confidence word alignment.
-- Genesis 27:33 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:34 (Michael Armenta): A word has no duration; Low-confidence word alignment.
+- Genesis 26:33 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - Genesis 27:35 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Genesis 27:36 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:37 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:38 (Michael Armenta): Low-confidence word alignment.
-- Genesis 27:39 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 27:40 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 27:41 (Michael Armenta): A word has no duration.
-- Genesis 27:42 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 27:43 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:44 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 27:45 (Michael Armenta): Low-confidence word alignment.
-- Genesis 27:46 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 28:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 28:2 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 28:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 28:5 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 28:6 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 28:7 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 28:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 28:9 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 27:37 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Genesis 28:10 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Genesis 28:11 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 28:12 (Michael Armenta): Low-confidence word alignment.
-- Genesis 28:13 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 28:14 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 28:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 28:17 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 28:18 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 28:19 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 28:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 28:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:1 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 29:3 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 29:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 29:6 (Michael Armenta): Low-confidence word alignment.
-- Genesis 29:8 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 29:9 (Michael Armenta): A word has no duration.
-- Genesis 29:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 29:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:13 (Michael Armenta): Low-confidence word alignment.
-- Genesis 29:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 29:15 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 29:17 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:18 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 29:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 29:21 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 29:25 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 29:26 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 29:27 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 29:28 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 29:29 (Michael Armenta): Low-confidence word alignment.
-- Genesis 29:30 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 29:31 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:33 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 29:34 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 29:35 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:2 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:3 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 30:5 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:6 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 30:7 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 30:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 30:12 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:13 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 30:15 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 30:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:22 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 30:24 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:25 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:26 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:27 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 30:28 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
+- Genesis 29:15 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 29:17 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 30:5 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 30:12 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 30:24 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
+- Genesis 30:25 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - Genesis 30:30 (Michael Armenta): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
-- Genesis 30:31 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:32 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:33 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:34 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:35 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:36 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 30:37 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 30:38 (Michael Armenta): Low-confidence word alignment.
-- Genesis 30:39 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 30:40 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 30:42 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 30:43 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Genesis 31:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 31:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:6 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:7 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:8 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 31:10 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 31:11 (Michael Armenta): Low-confidence word alignment.
-- Genesis 31:12 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:13 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:15 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:18 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 31:20 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:22 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 31:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 31:25 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 31:26 (Michael Armenta): ASR differs from source text (word agreement 25%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 30:39 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 31:26 (Michael Armenta): ASR differs from source text (word agreement 25%); listen for skip/addition/misread or ASR error.
 - Genesis 31:27 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- Genesis 31:28 (Michael Armenta): ASR differs from source text (word agreement 57%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:30 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:32 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:33 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 31:34 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:35 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 31:36 (Michael Armenta): Low-confidence word alignment.
-- Genesis 31:37 (Michael Armenta): Low-confidence word alignment.
-- Genesis 31:38 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:39 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 31:40 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:41 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:42 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:43 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:44 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:45 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 31:46 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
+- Genesis 31:28 (Michael Armenta): ASR differs from source text (word agreement 57%); listen for skip/addition/misread or ASR error.
+- Genesis 31:30 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Genesis 31:47 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
-- Genesis 31:48 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 31:49 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:51 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 31:53 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:54 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 31:55 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 32:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 32:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 32:4 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 32:5 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 32:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 32:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 32:9 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 32:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 32:11 (Michael Armenta): Low-confidence word alignment.
-- Genesis 32:12 (Michael Armenta): A word has no duration.
-- Genesis 32:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 32:14 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 32:15 (Michael Armenta): A word has no duration.
-- Genesis 32:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 32:17 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 32:18 (Michael Armenta): Low-confidence word alignment.
-- Genesis 32:19 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 32:22 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 32:27 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 32:28 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 32:29 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 32:30 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 32:31 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 32:32 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 33:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 33:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 33:6 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 33:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 33:8 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 33:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 33:10 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 33:11 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 33:12 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 33:13 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 33:14 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 33:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 33:16 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 33:17 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 33:18 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 33:20 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 34:2 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 34:4 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 34:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:6 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:7 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 34:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 34:13 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:14 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 34:17 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 34:19 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 34:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 34:21 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:24 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:26 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 34:28 (Michael Armenta): Low-confidence word alignment.
-- Genesis 34:29 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 34:30 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 34:31 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:2 (Michael Armenta): A word has no duration.
-- Genesis 35:3 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:6 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:7 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 35:8 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
-- Genesis 35:9 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 35:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 35:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:12 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:13 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 35:14 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 35:15 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Genesis 35:16 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:17 (Michael Armenta): ASR differs from source text (word agreement 32%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 35:18 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 35:19 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:20 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 35:23 (Michael Armenta): Low-confidence word alignment.
-- Genesis 35:26 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:27 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 35:28 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Genesis 35:29 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:2 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:3 (Michael Armenta): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:4 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:5 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:6 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 36:8 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 36:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
+- Genesis 32:5 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 35 (Michael Armenta): chapter withheld — Verse 17: 2.04s is too short to speak 25 words; re-align or withhold.
+- Genesis 42 (Michael Armenta): chapter withheld — Verse 8: 0.34s is too short to speak 10 words; re-align or withhold.
+- Genesis 33:20 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 36:3 (Michael Armenta): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Genesis 36:5 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Genesis 36:11 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
-- Genesis 36:12 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:13 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:14 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:15 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:16 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:17 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:18 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:19 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 36:20 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:21 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:22 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 36:12 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Genesis 36:13 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Genesis 36:14 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Genesis 36:17 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 36:18 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Genesis 36:20 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Genesis 36:21 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 36:22 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
 - Genesis 36:23 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
-- Genesis 36:24 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:25 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:26 (Michael Armenta): ASR differs from source text (word agreement 52%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:27 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:28 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 36:29 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:30 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:31 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 36:32 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:33 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 36:34 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:35 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
+- Genesis 36:24 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 36:25 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Genesis 36:26 (Michael Armenta): ASR differs from source text (word agreement 52%); listen for skip/addition/misread or ASR error.
+- Genesis 36:27 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Genesis 36:28 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Genesis 36:29 (Michael Armenta): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Genesis 36:30 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 36:33 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 36:34 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Genesis 36:36 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
-- Genesis 36:37 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 36:37 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Genesis 36:38 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Genesis 36:39 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:40 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 36:41 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 36:39 (Michael Armenta): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Genesis 36:40 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 36:41 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Genesis 36:42 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- Genesis 36:43 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 37:1 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 37:2 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 37:3 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 37:4 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 37:5 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 37:6 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 37:9 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 37:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 37:11 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 37:12 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 37:13 (Michael Armenta): Low-confidence word alignment.
-- Genesis 37:14 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 37:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 37:16 (Michael Armenta): Low-confidence word alignment.
-- Genesis 37:20 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 37:22 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 37:23 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 37:24 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 37:25 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 37:26 (Michael Armenta): A word has no duration.
-- Genesis 37:27 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 37:28 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 37:29 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 37:32 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 37:34 (Michael Armenta): Low-confidence word alignment.
-- Genesis 37:35 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 38:1 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:2 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:3 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 38:1 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 38:3 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Genesis 38:4 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Genesis 38:5 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Genesis 38:6 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:7 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 38:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 38:9 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 38:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:11 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:12 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:13 (Michael Armenta): Low-confidence word alignment.
-- Genesis 38:14 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 38:16 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:17 (Michael Armenta): Low-confidence word alignment.
-- Genesis 38:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:19 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 38:20 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:21 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:22 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 38:24 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:25 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 38:26 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 38:27 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 38:28 (Michael Armenta): Low-confidence word alignment.
-- Genesis 38:30 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 39:1 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 39:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 39:5 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 39:6 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 39:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 39:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 39:9 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 39:11 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 39:12 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 39:14 (Michael Armenta): Low-confidence word alignment.
-- Genesis 39:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 39:17 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 39:20 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 39:21 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 39:23 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 40:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 40:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 40:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 40:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 40:7 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 40:8 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 40:10 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 40:11 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:12 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:13 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:14 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 40:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:18 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 40:21 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:22 (Michael Armenta): Low-confidence word alignment.
-- Genesis 40:23 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 38:12 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Genesis 40:23 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - Genesis 41:1 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- Genesis 41:2 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:3 (Michael Armenta): ASR differs from source text (word agreement 56%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Genesis 41:2 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Genesis 41:3 (Michael Armenta): ASR differs from source text (word agreement 56%); listen for skip/addition/misread or ASR error.
 - Genesis 41:4 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Genesis 41:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 41:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 41:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 41:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:11 (Michael Armenta): Low-confidence word alignment.
-- Genesis 41:12 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 41:14 (Michael Armenta): A word has no duration; Low-confidence word alignment.
 - Genesis 41:18 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Genesis 41:19 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 41:20 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:21 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:24 (Michael Armenta): Low-confidence word alignment.
-- Genesis 41:26 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 41:27 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:28 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:29 (Michael Armenta): A word has no duration.
-- Genesis 41:30 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:32 (Michael Armenta): A word has no duration.
-- Genesis 41:33 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:34 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 41:35 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 41:36 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:39 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 41:41 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 41:42 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 41:43 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 41:44 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 41:45 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:46 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 41:47 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:48 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 41:49 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 41:50 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:51 (Michael Armenta): Low-confidence word alignment.
-- Genesis 41:52 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:53 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 41:54 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 41:55 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 41:56 (Michael Armenta): Low-confidence word alignment.
-- Genesis 41:57 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:2 (Michael Armenta): A word has no duration.
-- Genesis 42:3 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 42:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 42:6 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:7 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:8 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:9 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:10 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:11 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 42:12 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 42:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 42:16 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 42:17 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:18 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 42:19 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 42:21 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 42:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:23 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 42:25 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 42:26 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Genesis 42:27 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 42:28 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:29 (Michael Armenta): Low-confidence word alignment.
-- Genesis 42:30 (Michael Armenta): A word has no duration.
-- Genesis 42:31 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:34 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:35 (Michael Armenta): Low-confidence word alignment.
-- Genesis 42:36 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 42:38 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 43:1 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 43:2 (Michael Armenta): A word has no duration.
-- Genesis 43:3 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 43:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 43:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 43:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 43:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 43:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 43:11 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 43:12 (Michael Armenta): Low-confidence word alignment.
-- Genesis 43:13 (Michael Armenta): Low-confidence word alignment.
-- Genesis 43:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 43:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 43:17 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 43:20 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 43:21 (Michael Armenta): Low-confidence word alignment.
-- Genesis 43:22 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 43:23 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 43:25 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 43:27 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 43:28 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 43:30 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 43:31 (Michael Armenta): A word has no duration.
-- Genesis 43:32 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 43:33 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 43:34 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 44:4 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 44:5 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:6 (Michael Armenta): A word has no duration.
-- Genesis 44:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 44:8 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:9 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 44:13 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:15 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:16 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 44:18 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 44:20 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 44:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 44:24 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 44:25 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 44:26 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:28 (Michael Armenta): Low-confidence word alignment.
-- Genesis 44:29 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 44:30 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 44:31 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 44:32 (Michael Armenta): Low-confidence word alignment.
-- Genesis 44:33 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 44:34 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 45:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 45:2 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 45:4 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 45:5 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 45:6 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Genesis 45:9 (Michael Armenta): Low-confidence word alignment.
-- Genesis 45:10 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 45:13 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 45:16 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 45:17 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 45:18 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 45:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 45:20 (Michael Armenta): A word has no duration.
-- Genesis 45:21 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 45:24 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 45:25 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 45:26 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 45:27 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 45:28 (Michael Armenta): Low-confidence word alignment.
-- Genesis 46:1 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 46:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 46:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:5 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 46:6 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:7 (Michael Armenta): Low-confidence word alignment.
+- Genesis 41:20 (Michael Armenta): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Genesis 41:39 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Genesis 41:45 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Genesis 44:13 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Genesis 44:24 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Genesis 46:9 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Genesis 46:10 (Michael Armenta): Low-confidence word alignment.
-- Genesis 46:11 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:12 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 46:13 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 46:14 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Genesis 46:15 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 46:16 (Michael Armenta): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 46:17 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 46:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 46:20 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 46:21 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:22 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:23 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:24 (Michael Armenta): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 46:25 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:26 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 46:27 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 46:31 (Michael Armenta): Low-confidence word alignment.
-- Genesis 46:32 (Michael Armenta): Low-confidence word alignment.
-- Genesis 46:34 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 47:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 47:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 47:3 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 47:4 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 47:5 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 47:6 (Michael Armenta): Low-confidence word alignment.
-- Genesis 47:8 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 47:9 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Genesis 47:10 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 47:11 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Genesis 47:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 47:14 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 47:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 47:18 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 47:19 (Michael Armenta): Low-confidence word alignment.
-- Genesis 47:21 (Michael Armenta): Low-confidence word alignment.
-- Genesis 47:22 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 47:23 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 47:24 (Michael Armenta): ASR differs from source text (word agreement 29%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 47:25 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 47:27 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 47:28 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 47:30 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 47:31 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 48:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 48:2 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 48:3 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 48:4 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Genesis 48:5 (Michael Armenta): Low-confidence word alignment.
-- Genesis 48:6 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 48:7 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Genesis 48:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 48:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 48:10 (Michael Armenta): A word has no duration.
-- Genesis 48:11 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 48:12 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 48:13 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 48:16 (Michael Armenta): Low-confidence word alignment.
-- Genesis 48:17 (Michael Armenta): Low-confidence word alignment.
-- Genesis 48:20 (Michael Armenta): A word has no duration.
-- Genesis 48:21 (Michael Armenta): A word has no duration.
-- Genesis 48:22 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 49:1 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:2 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 49:6 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Genesis 49:8 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:9 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 49:10 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Genesis 49:12 (Michael Armenta): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 49:13 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 49:15 (Michael Armenta): Low-confidence word alignment.
-- Genesis 49:16 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 49:17 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:18 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 49:19 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 49:20 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:22 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 49:24 (Michael Armenta): Low-confidence word alignment.
-- Genesis 49:25 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:26 (Michael Armenta): Low-confidence word alignment.
-- Genesis 49:27 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:28 (Michael Armenta): Low-confidence word alignment.
-- Genesis 49:29 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 49:30 (Michael Armenta): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:31 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 49:32 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 50:1 (Michael Armenta): Low-confidence word alignment.
-- Genesis 50:2 (Michael Armenta): A word has no duration; Low-confidence word alignment.
-- Genesis 50:3 (Michael Armenta): Low-confidence word alignment.
-- Genesis 50:4 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Genesis 50:5 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 50:6 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 50:7 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 50:8 (Michael Armenta): Low-confidence word alignment.
-- Genesis 50:10 (Michael Armenta): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 50:11 (Michael Armenta): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 50:12 (Michael Armenta): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 50:13 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 50:15 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 50:16 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 50:18 (Michael Armenta): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 50:19 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 50:22 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Genesis 50:23 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 50:24 (Michael Armenta): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Genesis 50:25 (Michael Armenta): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Genesis 50:26 (Michael Armenta): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:1 (Glenn O'Brien): ASR differs from source text (word agreement 68%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:3 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:4 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:5 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:6 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:7 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:8 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:9 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:10 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:12 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Tobit 1:13 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:14 (Glenn O'Brien): ASR differs from source text (word agreement 61%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:15 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 1:16 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:17 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:18 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:19 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:20 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:21 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 1:22 (Glenn O'Brien): ASR differs from source text (word agreement 53%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:1 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:2 (Glenn O'Brien): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:3 (Glenn O'Brien): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 2:4 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:5 (Glenn O'Brien): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Tobit 2:6 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:7 (Glenn O'Brien): Low-confidence word alignment.
-- Tobit 2:8 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:9 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:10 (Glenn O'Brien): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 2:11 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Tobit 2:12 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 2:13 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 2:14 (Glenn O'Brien): ASR differs from source text (word agreement 61%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:1 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 3:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 3:3 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:4 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:5 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 3:6 (Glenn O'Brien): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Tobit 3:7 (Glenn O'Brien): ASR differs from source text (word agreement 65%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:8 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:9 (Glenn O'Brien): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:10 (Glenn O'Brien): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:11 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:12 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:13 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 3:15 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 3:17 (Glenn O'Brien): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:1 (Glenn O'Brien): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:2 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:3 (Glenn O'Brien): Low-confidence word alignment.
-- Tobit 4:4 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Tobit 4:5 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:6 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:7 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:9 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:10 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:11 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:12 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:13 (Glenn O'Brien): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:14 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:15 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:16 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Tobit 4:17 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Tobit 4:18 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:19 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 4:20 (Glenn O'Brien): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 4:21 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Genesis 46:12 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Genesis 46:16 (Michael Armenta): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Genesis 46:17 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Genesis 46:21 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Genesis 46:24 (Michael Armenta): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error.
+- Genesis 47:24 (Michael Armenta): ASR differs from source text (word agreement 29%); listen for skip/addition/misread or ASR error.
+- Genesis 48:11 (Michael Armenta): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Tobit 1:1 (Glenn O'Brien): ASR differs from source text (word agreement 68%); listen for skip/addition/misread or ASR error.
+- Tobit 1:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Tobit 1:3 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 1:6 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Tobit 1:9 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 1:13 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Tobit 1:14 (Glenn O'Brien): ASR differs from source text (word agreement 61%); listen for skip/addition/misread or ASR error.
+- Tobit 1:15 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Tobit 1:16 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 1:17 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 1:18 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Tobit 1:21 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 1:22 (Glenn O'Brien): ASR differs from source text (word agreement 53%); listen for skip/addition/misread or ASR error.
+- Tobit 2:3 (Glenn O'Brien): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- Tobit 2:5 (Glenn O'Brien): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
+- Tobit 2:10 (Glenn O'Brien): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
+- Tobit 2:13 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Tobit 2:14 (Glenn O'Brien): ASR differs from source text (word agreement 61%); listen for skip/addition/misread or ASR error.
+- Tobit 3:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Tobit 3:3 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 3:4 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 3:7 (Glenn O'Brien): ASR differs from source text (word agreement 65%); listen for skip/addition/misread or ASR error.
+- Tobit 3:8 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Tobit 3:9 (Glenn O'Brien): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Tobit 3:11 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Tobit 3:17 (Glenn O'Brien): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
+- Tobit 4:1 (Glenn O'Brien): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
+- Tobit 4:7 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Tobit 4:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 4:9 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Tobit 4:10 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Tobit 4:11 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 4:12 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 4:13 (Glenn O'Brien): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Tobit 4:15 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 4:20 (Glenn O'Brien): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error.
 - Tobit 5 (Glenn O'Brien): chapter withheld — Opening/closing scripture anchor uncertain; listening review required.
-- Tobit 6:1 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 6:2 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Tobit 6:3 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:4 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:5 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 6:6 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:7 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:8 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 6:9 (Glenn O'Brien): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 6:10 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:11 (Glenn O'Brien): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:12 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:13 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 6:14 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:15 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:16 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 6:17 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:1 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:2 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:3 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:4 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:5 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Tobit 6:2 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 6:5 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Tobit 6:9 (Glenn O'Brien): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
+- Tobit 6:10 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Tobit 6:11 (Glenn O'Brien): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- Tobit 6:13 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 7:1 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 7:2 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Tobit 7:3 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - Tobit 7:6 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Tobit 7:7 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:8 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:9 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:10 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:11 (Glenn O'Brien): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:12 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:13 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:14 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 7:16 (Glenn O'Brien): ASR differs from source text (word agreement 63%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:17 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 7:18 (Glenn O'Brien): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:1 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:2 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 8:3 (Glenn O'Brien): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:4 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:5 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Tobit 8:6 (Glenn O'Brien): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:7 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Tobit 7:9 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 7:12 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Tobit 7:13 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 7:14 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 7:16 (Glenn O'Brien): ASR differs from source text (word agreement 63%); listen for skip/addition/misread or ASR error.
+- Tobit 8:1 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Tobit 8:2 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 8:3 (Glenn O'Brien): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Tobit 8:5 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 8:6 (Glenn O'Brien): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Tobit 8:7 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - Tobit 8:9 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- Tobit 8:10 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 8:11 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:12 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Tobit 8:10 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Tobit 8:11 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Tobit 8:12 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Tobit 8:13 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- Tobit 8:14 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:15 (Glenn O'Brien): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 8:16 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:17 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:18 (Glenn O'Brien): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:20 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 8:21 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 9:1 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 9:2 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Tobit 8:14 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 8:15 (Glenn O'Brien): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Tobit 8:16 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 8:18 (Glenn O'Brien): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
+- Tobit 8:20 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Tobit 9:2 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
 - Tobit 9:3 (Glenn O'Brien): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error.
-- Tobit 9:4 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Tobit 9:5 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 9:6 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 10:1 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 10:2 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Tobit 9:5 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 9:6 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Tobit 10:2 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Tobit 10:3 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Tobit 10:4 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 10:5 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 10:6 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 10:7 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 10:8 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 10:10 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 10:11 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 10:12 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:1 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 11:2 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:3 (Glenn O'Brien): Low-confidence word alignment.
-- Tobit 11:4 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:5 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 11:6 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Tobit 11:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:9 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 11:10 (Glenn O'Brien): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:11 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:13 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:14 (Glenn O'Brien): ASR differs from source text (word agreement 34%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:15 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:16 (Glenn O'Brien): ASR differs from source text (word agreement 53%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:17 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:18 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 11:19 (Glenn O'Brien): Low-confidence word alignment.
-- Tobit 12:1 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 12:2 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Tobit 12:3 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:4 (Glenn O'Brien): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:5 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:6 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:7 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 12:8 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 12:9 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:10 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 12:11 (Glenn O'Brien): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:12 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:13 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:14 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:15 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 12:16 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:17 (Glenn O'Brien): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Tobit 12:18 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Tobit 12:19 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:20 (Glenn O'Brien): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 12:22 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Tobit 10:4 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 10:6 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 10:10 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 11:1 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Tobit 11:2 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Tobit 11:4 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 11:5 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Tobit 11:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 11:9 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 11:11 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 11:14 (Glenn O'Brien): ASR differs from source text (word agreement 34%); listen for skip/addition/misread or ASR error.
+- Tobit 11:15 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Tobit 11:16 (Glenn O'Brien): ASR differs from source text (word agreement 53%); listen for skip/addition/misread or ASR error.
+- Tobit 11:17 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 11:18 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Tobit 12:1 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Tobit 12:4 (Glenn O'Brien): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- Tobit 12:5 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Tobit 12:9 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Tobit 12:12 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Tobit 12:14 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 12:15 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Tobit 13 (Glenn O'Brien): chapter withheld — Opening/closing scripture anchor uncertain; listening review required.
-- Tobit 14:1 (Glenn O'Brien): Low-confidence word alignment.
-- Tobit 14:2 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:3 (Glenn O'Brien): Low-confidence word alignment.
-- Tobit 14:4 (Glenn O'Brien): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 14:5 (Glenn O'Brien): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:6 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 14:7 (Glenn O'Brien): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:9 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:10 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:11 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:12 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 14:13 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Tobit 14:14 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Tobit 14:15 (Glenn O'Brien): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:1 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:2 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 1:4 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 1:5 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 1:6 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:7 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:8 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 1:9 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 1:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:12 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:13 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:14 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 1:15 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 1:16 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 2:1 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:2 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 2:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 2:4 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 2:5 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:6 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:7 (ancientchristian): Low-confidence word alignment.
-- Judith 2:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:10 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Judith 2:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:14 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Judith 2:15 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 2:18 (ancientchristian): Low-confidence word alignment.
-- Judith 2:19 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 2:21 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:22 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 2:23 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:25 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:26 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 2:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 2:28 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 3:1 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 3:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 3:3 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 3:5 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 3:6 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 3:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 3:8 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 3:9 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 3:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 4:1 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 4:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 4:4 (ancientchristian): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 4:5 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 4:6 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 4:8 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 4:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 4:10 (ancientchristian): Low-confidence word alignment.
-- Judith 4:11 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 4:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 4:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 4:14 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 4:15 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:1 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 5:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 5:4 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Judith 5:6 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 5:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 5:9 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Judith 5:11 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 5:13 (ancientchristian): Low-confidence word alignment.
-- Judith 5:14 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:15 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Tobit 14:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Tobit 14:9 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Tobit 14:10 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Tobit 14:12 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Tobit 14:13 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Tobit 14:14 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Tobit 14:15 (Glenn O'Brien): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
+- Judith 1:1 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Judith 1:6 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 1:7 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Judith 1:8 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Judith 1:9 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 1:15 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Judith 2:21 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Judith 2:23 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 2:26 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Judith 3:1 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Judith 3:9 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Judith 4:4 (ancientchristian): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Judith 4:6 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 5:11 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Judith 5:14 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - Judith 5:16 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Judith 5:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 5:18 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:20 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:21 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:22 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 5:23 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 5:24 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:1 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:2 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:3 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:4 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 6:8 (ancientchristian): Low-confidence word alignment.
-- Judith 6:9 (ancientchristian): Low-confidence word alignment.
-- Judith 6:10 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:12 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:14 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:15 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:16 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:17 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:18 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 6:19 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 6:20 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 6:21 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 7:1 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:3 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:4 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:5 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:10 (ancientchristian): Low-confidence word alignment.
-- Judith 7:11 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 7:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:15 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Judith 7:16 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:17 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 7:18 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:19 (ancientchristian): Low-confidence word alignment.
-- Judith 7:20 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 7:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:23 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 7:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:25 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Judith 7:26 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:27 (ancientchristian): Low-confidence word alignment.
-- Judith 7:28 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:29 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 7:30 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 7:31 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Judith 7:32 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:1 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:2 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:3 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:4 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:5 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:6 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:8 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:10 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:13 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:14 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:16 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:17 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:18 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:19 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Judith 8:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:21 (ancientchristian): Low-confidence word alignment.
-- Judith 8:22 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:23 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:24 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:25 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 8:27 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:28 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:29 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:30 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:31 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Judith 8:32 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 8:33 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:34 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 8:35 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Judith 8:36 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 9:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Judith 9:4 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:5 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Judith 9:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:7 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 9:8 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:11 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:12 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 9:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:2 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:4 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:5 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:6 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Judith 10:7 (ancientchristian): Low-confidence word alignment.
-- Judith 10:8 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:10 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 10:12 (ancientchristian): Low-confidence word alignment.
-- Judith 10:13 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:15 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:16 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:17 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 10:19 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 10:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 10:22 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 10:23 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 11:1 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:2 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Judith 11:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Judith 11:4 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 11:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 11:6 (ancientchristian): Low-confidence word alignment.
-- Judith 11:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:8 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 11:9 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:10 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 11:12 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 11:14 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:16 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 11:17 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 11:18 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 11:19 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 11:20 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 11:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 11:22 (ancientchristian): A word has no duration.
-- Judith 11:23 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:1 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 12:2 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:3 (ancientchristian): Low-confidence word alignment.
-- Judith 12:4 (ancientchristian): Low-confidence word alignment.
-- Judith 12:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 12:6 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:7 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 12:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 12:11 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:12 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Judith 12:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:14 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 12:15 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:16 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 12:18 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 12:19 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 12:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 13:1 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 13:2 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 13:4 (ancientchristian): Low-confidence word alignment.
-- Judith 13:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 13:6 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:8 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 13:9 (ancientchristian): Low-confidence word alignment.
-- Judith 13:10 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 13:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:13 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:14 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 13:15 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 13:16 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Judith 13:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 13:18 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 13:19 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 13:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:1 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 14:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:4 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 14:6 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 14:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 14:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:9 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Judith 14:10 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 14:11 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 14:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 14:13 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:14 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 14:16 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 14:18 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 14:19 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 15:1 (ancientchristian): Low-confidence word alignment.
-- Judith 15:2 (ancientchristian): ASR differs from source text (word agreement 72%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 15:3 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:4 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:6 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:7 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 15:9 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 15:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:12 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 15:13 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:2 (ancientchristian): ASR differs from source text (word agreement 7%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:3 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Judith 6:15 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Judith 7:3 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Judith 8:10 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 8:13 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 8:23 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 11:1 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 12:6 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Judith 13:2 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 13:19 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 15:2 (ancientchristian): ASR differs from source text (word agreement 72%); listen for skip/addition/misread or ASR error.
+- Judith 15:4 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Judith 15:6 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Judith 16:2 (ancientchristian): ASR differs from source text (word agreement 7%); listen for skip/addition/misread or ASR error.
+- Judith 16:3 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Judith 16:4 (ancientchristian): ASR differs from source text (word agreement 18%); listen for skip/addition/misread or ASR error.
-- Judith 16:5 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:6 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 16:7 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 16:8 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 16:9 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 16:10 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 16:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:12 (ancientchristian): Low-confidence word alignment.
-- Judith 16:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 16:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:15 (ancientchristian): Low-confidence word alignment.
-- Judith 16:16 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:18 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Judith 16:19 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Judith 16:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 16:21 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Judith 16:22 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Judith 16:23 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Judith 16:24 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 1:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 1:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 1:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 1:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 1:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 1:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 1:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 1:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 1:15 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 1:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 2:1 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 2:3 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 2:4 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 2:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 2:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 2:7 (A LibriVox Volunteer): A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 2:8 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 2:9 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 2:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 2:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 2:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 2:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 2:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 2:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 2:22 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 2:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 2:24 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 3:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 3:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 3:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 3:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 3:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 3:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 3:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 3:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 3:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 3:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 3:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 3:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 3:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 4:1 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 4:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 4:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 4:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 4:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 4:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 4:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 4:9 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 4:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 4:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 4:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 4:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 4:15 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 4:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 4:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 4:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 4:19 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 5:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 5:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 5:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 5:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 5:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 5:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 5:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 5:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 5:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 5:11 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 5:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 5:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 5:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 5:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 5:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 5:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 5:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 5:21 (A LibriVox Volunteer): A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 5:22 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 5:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 6:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 6:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 6:7 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 6:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 6:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 6:14 (A LibriVox Volunteer): A word has no duration.
-- Wisdom of Solomon 6:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 6:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 6:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Judith 16:10 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 16:23 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 4:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 6:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 6:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 6:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 6:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 6:22 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 6:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 7:1 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 7:2 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 7:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 7:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 7:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 7:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 7:10 (A LibriVox Volunteer): A word has no duration.
-- Wisdom of Solomon 7:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 7:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 7:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 7:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 7:18 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 7:20 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 7:21 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 7:22 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 7:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 7:24 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 7:25 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 7:26 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 7:27 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 7:28 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 7:30 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 8:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 8:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 8:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 8:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 8:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 8:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 8:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 8:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 8:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 8:13 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 8:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 8:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 8:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 8:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 8:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 8:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 8:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 9:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 9:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Wisdom of Solomon 6:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 8:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 8:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 9:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 9:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 9:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 9:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 9:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 9:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 9:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 9:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 9:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 9:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 9:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 9:13 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 9:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 9:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 9:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 9:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 10:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 10:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 10:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 10:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 10:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 10:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 10:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 10:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 10:11 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 10:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 10:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 10:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 10:15 (A LibriVox Volunteer): A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 10:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 10:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 10:18 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 10:19 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 10:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 11:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 11:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 11:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 11:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 11:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 11:9 (A LibriVox Volunteer): A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 11:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 11:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 11:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 11:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 11:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 11:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 11:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 11:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 11:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 11:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 11:22 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 11:24 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 11:25 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 12:1 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 12:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 12:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 12:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 12:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 12:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 12:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 12:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 12:12 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 12:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 12:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 12:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 12:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 12:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 12:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 12:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 12:24 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 12:26 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 12:27 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 13:1 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 13:2 (A LibriVox Volunteer): A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 13:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 13:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 13:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 9:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 12:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 13:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 13:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 13:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 13:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 13:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 13:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 13:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 13:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 14:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 14:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 14:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 14:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 14:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 14:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 14:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 14:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 14:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:24 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 14:25 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 14:27 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 14:28 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 14:31 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 15:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 15:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 15:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 15:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 15:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 15:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 15:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 15:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 15:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 15:12 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 15:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 15:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 15:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 15:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 15:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 16:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 16:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:9 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 16:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 16:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 16:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 16:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 16:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 16:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 16:24 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 16:26 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 16:28 (A LibriVox Volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 16:29 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 17:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 17:2 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 17:3 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 17:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 17:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 17:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 17:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 17:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 17:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 17:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Wisdom of Solomon 15:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 15:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 16:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 16:28 (A LibriVox Volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 17:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 17:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 17:15 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 17:16 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 17:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 17:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 17:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 17:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 18:1 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 18:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 18:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 18:5 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 18:6 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 18:7 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 18:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 18:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 18:10 (A LibriVox Volunteer): A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 18:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 18:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 18:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 18:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 18:15 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 18:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 18:18 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 18:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 18:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 18:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 18:22 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 18:23 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 18:24 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 19:1 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 19:2 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 19:3 (A LibriVox Volunteer): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 19:4 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 19:5 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 19:7 (A LibriVox Volunteer): Low-confidence word alignment.
 - Wisdom of Solomon 19:8 (A LibriVox Volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 19:9 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 19:10 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 19:11 (A LibriVox Volunteer): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Wisdom of Solomon 19:12 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 19:13 (A LibriVox Volunteer): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 19:14 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
 - Wisdom of Solomon 19:15 (A LibriVox Volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 19:17 (A LibriVox Volunteer): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Wisdom of Solomon 19:18 (A LibriVox Volunteer): Low-confidence word alignment.
-- Wisdom of Solomon 19:19 (A LibriVox Volunteer): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Wisdom of Solomon 19:20 (A LibriVox Volunteer): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Wisdom of Solomon 19:21 (A LibriVox Volunteer): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:1 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:2 (David Shamp): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:4 (David Shamp): Low-confidence word alignment.
-- Song of the Three Holy Children 1:5 (David Shamp): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:6 (David Shamp): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Song of the Three Holy Children 1:8 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:9 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:10 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:11 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:12 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:13 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:14 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:15 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Song of the Three Holy Children 1:16 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:17 (David Shamp): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:19 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Song of the Three Holy Children 1:20 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:21 (David Shamp): Low-confidence word alignment.
-- Song of the Three Holy Children 1:22 (David Shamp): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:23 (David Shamp): A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:24 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:25 (David Shamp): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:27 (David Shamp): A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:28 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:29 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:31 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:32 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:35 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:36 (David Shamp): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:37 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:38 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:39 (David Shamp): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Song of the Three Holy Children 1:35 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:39 (David Shamp): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:40 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:41 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:42 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:43 (David Shamp): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:44 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:45 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:46 (David Shamp): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Song of the Three Holy Children 1:47 (David Shamp): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Song of the Three Holy Children 1:48 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:49 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:50 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:51 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- Song of the Three Holy Children 1:43 (David Shamp): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:47 (David Shamp): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:51 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:52 (David Shamp): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:53 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:54 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:55 (David Shamp): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:56 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:57 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:58 (David Shamp): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:59 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- Song of the Three Holy Children 1:54 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:55 (David Shamp): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:56 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:59 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:60 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:61 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:62 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:64 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Song of the Three Holy Children 1:66 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Song of the Three Holy Children 1:67 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Song of the Three Holy Children 1:68 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:1 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:2 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:4 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:5 (David Shamp): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:6 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:8 (David Shamp): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:9 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:10 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:12 (David Shamp): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:13 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:15 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:16 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:18 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:22 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:25 (David Shamp): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:26 (David Shamp): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:27 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:28 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:29 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:30 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:32 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:33 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:36 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:38 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:39 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:40 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:41 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:42 (David Shamp): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:44 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:45 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:46 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:47 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:48 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:49 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:50 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:51 (David Shamp): Low-confidence word alignment.
-- History of Susanna 1:52 (David Shamp): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:53 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:54 (David Shamp): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:55 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:56 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:57 (David Shamp): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- History of Susanna 1:58 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- History of Susanna 1:60 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:61 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- History of Susanna 1:62 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:63 (David Shamp): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- History of Susanna 1:1 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- History of Susanna 1:29 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- History of Susanna 1:58 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Bel and the Dragon 1 (David Shamp): chapter withheld — Verse 36: invalid/overlapping timing 340.8–340.8.
-- Prayer of Manasses 1:1 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Prayer of Manasses 1:2 (David Shamp): Low-confidence word alignment.
-- Prayer of Manasses 1:3 (David Shamp): Low-confidence word alignment.
-- Prayer of Manasses 1:4 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Prayer of Manasses 1:5 (David Shamp): Low-confidence word alignment.
-- Prayer of Manasses 1:6 (David Shamp): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Prayer of Manasses 1:7 (David Shamp): Low-confidence word alignment.
-- Prayer of Manasses 1:8 (David Shamp): Low-confidence word alignment.
-- Prayer of Manasses 1:9 (David Shamp): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- Prayer of Manasses 1:10 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- Prayer of Manasses 1:11 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- Prayer of Manasses 1:12 (David Shamp): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Prayer of Manasses 1:13 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- Prayer of Manasses 1:14 (David Shamp): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 1:1 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:2 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:4 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:5 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 1:6 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:7 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:9 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 1:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:12 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 1:13 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:16 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:17 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:18 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:19 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:21 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:22 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:23 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:24 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:25 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 1:26 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:27 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:28 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:29 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:30 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 1:31 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:32 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 1:33 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:35 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:37 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 1:39 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:40 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:41 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:42 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:43 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:44 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:45 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:46 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:48 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:49 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:51 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:52 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:53 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:54 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 1:55 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 1:56 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:57 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 1:58 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:59 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 1:60 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 1:61 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 1:64 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:1 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:2 (ancientchristian): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration.
+- 1 Maccabees 1:2 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:7 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:18 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:35 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:40 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:42 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:53 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:2 (ancientchristian): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:3 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:4 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:5 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:6 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:7 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:8 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 2:9 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:10 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:11 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:12 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:14 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:15 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:16 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:17 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:18 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:19 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:20 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 2:22 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:23 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:25 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:26 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:28 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:30 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:31 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:32 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:33 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:34 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:35 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:36 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:37 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:38 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:39 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:40 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:41 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:42 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:43 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:44 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:45 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:46 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:47 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:48 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:49 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:50 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:51 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:52 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:53 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:54 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:55 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:56 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:57 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:59 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:60 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 2:61 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 2:62 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:63 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:64 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:65 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 2:67 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 2:69 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 2:70 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:1 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:2 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:4 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:6 (ancientchristian): Low-confidence word alignment.
+- 1 Maccabees 2:4 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:5 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:6 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:15 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:18 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:26 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:35 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:39 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:47 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:60 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:63 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 3:2 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 3:7 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:9 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:10 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 3:11 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:13 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:14 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:16 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 3:17 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:19 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:21 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:23 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:27 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:28 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:30 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:31 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:32 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:33 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:34 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:36 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:37 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:38 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:39 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:41 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 3:42 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:43 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:44 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:45 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:47 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 3:48 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:49 (ancientchristian): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:50 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:52 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:53 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:54 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:55 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:56 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:57 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:58 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 3:59 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 3:60 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:4 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 4:5 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 4:6 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:8 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:14 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:15 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:16 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:19 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 4:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:22 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:23 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:24 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:25 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:28 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:29 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:30 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:31 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:33 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:34 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:35 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:36 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:37 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:38 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:39 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:40 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:41 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:42 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:43 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 4:44 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:45 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 4:46 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:47 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:48 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:50 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:52 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:53 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:54 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:55 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:56 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:57 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:58 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 4:59 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 4:60 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 4:61 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:1 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:4 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:9 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:12 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:13 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:15 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:16 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:18 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:19 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:20 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:22 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:23 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:24 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:25 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:26 (ancientchristian): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:27 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:28 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:29 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 5:30 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:31 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 5:32 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:33 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:34 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:35 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:36 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:37 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:38 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:39 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:40 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:41 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 5:42 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:43 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:44 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:45 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:46 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:47 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:48 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:50 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:51 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:52 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:53 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 5:54 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:55 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:56 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:57 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:58 (ancientchristian): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:59 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:60 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:61 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 5:62 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 5:63 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:64 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:65 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 5:66 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- 1 Maccabees 3:38 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 3:49 (ancientchristian): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 3:55 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 3:57 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:14 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:29 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:37 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:42 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:52 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:4 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:13 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:22 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:25 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:26 (ancientchristian): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:36 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:43 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:55 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:58 (ancientchristian): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:67 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:68 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 6:1 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:2 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:4 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 6:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:9 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 6:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:11 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 6:12 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 6:14 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:15 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:16 (ancientchristian): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:17 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 6:18 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 6:20 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 6:21 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:24 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:25 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:26 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:27 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 6:28 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:29 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- 1 Maccabees 6:16 (ancientchristian): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 6:30 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:31 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:32 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 6:33 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:34 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:35 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:36 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:37 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:38 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 6:39 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:40 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:41 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:42 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:43 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:44 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:46 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:47 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 6:48 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:49 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:50 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:51 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:53 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:54 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:55 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:56 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:57 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:58 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:59 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 6:60 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:61 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:62 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 6:63 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:1 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 7:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:3 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 7:4 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:6 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 7:7 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 7:9 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:12 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 7:13 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:14 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:15 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:16 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:17 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:19 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 7:20 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:21 (ancientchristian): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:22 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:23 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:25 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:26 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:28 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:29 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 7:30 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:31 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 7:32 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:33 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:34 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:35 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:36 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:38 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 7:39 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:40 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:41 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:42 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:43 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:44 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:45 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 7:47 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 7:48 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 7:50 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:1 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:2 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 8:4 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 8:5 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:6 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:8 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 8:9 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:12 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:14 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:15 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:17 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:18 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:19 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:22 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:23 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:24 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 8:25 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 8:26 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:28 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 8:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 8:30 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 8:31 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 8:32 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:1 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:5 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:6 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 9:8 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 9:9 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:11 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:12 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:13 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:15 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:16 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:18 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 9:19 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 9:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:23 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:24 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:26 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:28 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:29 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:30 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:31 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:31 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:32 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:33 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:50 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:61 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:62 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 7:20 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 7:21 (ancientchristian): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 7:22 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 7:40 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 7:45 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 7:50 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 8:23 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 8:26 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:1 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:24 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:32 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:33 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:34 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:35 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:37 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:38 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 9:39 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:40 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:41 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:42 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:43 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 9:44 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:45 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 9:46 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:47 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:48 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:49 (ancientchristian): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:50 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:51 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:52 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:53 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:54 (ancientchristian): A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:55 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:56 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 9:57 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:58 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:59 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:60 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:62 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:63 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:64 (ancientchristian): A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:65 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:66 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 9:67 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:68 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:69 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:70 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 9:71 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:72 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 9:73 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:1 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:4 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:6 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:10 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:11 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:12 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:14 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:15 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:16 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:18 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:21 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:22 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 10:23 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:24 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:25 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:27 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:28 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:29 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:30 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:31 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:32 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:33 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:34 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:35 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:36 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:37 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:38 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:39 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:40 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:41 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:42 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:43 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:44 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:45 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:46 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:47 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:48 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:49 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:50 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:51 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:52 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:53 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:54 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:55 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:56 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:57 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:58 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:59 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:60 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:61 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:62 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:63 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:64 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:65 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:67 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 10:68 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:69 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:71 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:72 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:73 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 10:74 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:75 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:77 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:78 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:79 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:80 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:81 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:82 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:83 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:84 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 10:85 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:86 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:87 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 10:88 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 10:89 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:1 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:2 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:4 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:5 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:6 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:8 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:10 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:13 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:14 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:15 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:16 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:17 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:18 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:19 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:20 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:22 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:24 (ancientchristian): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:25 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:26 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:27 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:28 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:30 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:32 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:33 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:34 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:35 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:36 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:37 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:38 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:39 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:40 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:41 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:42 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:43 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:44 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:45 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:47 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:48 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:49 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:50 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:51 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:52 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:53 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:54 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:55 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- 1 Maccabees 9:49 (ancientchristian): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:52 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:57 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:66 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:12 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:16 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:39 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:48 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:57 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:60 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:68 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:69 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:88 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:8 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:16 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:18 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:24 (ancientchristian): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:27 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:36 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:39 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 11:56 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:57 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:58 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:59 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:60 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:61 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:63 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:64 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:65 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:66 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:67 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:68 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 11:69 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 11:71 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:72 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 11:73 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 11:74 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:1 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:2 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:4 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:5 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:6 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:8 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:9 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:11 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- 1 Maccabees 12:5 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:8 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:12 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:13 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:14 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:15 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:16 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:17 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:19 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:20 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:21 (ancientchristian): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:22 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:23 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:24 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:25 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:27 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:28 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- 1 Maccabees 12:15 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:17 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:19 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:20 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:21 (ancientchristian): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:23 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:24 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:30 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:31 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:32 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:33 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:34 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 12:35 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:36 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:37 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:38 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:39 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:40 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:41 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:42 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:43 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:44 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:45 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:46 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:47 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:48 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 12:49 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:50 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 12:51 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 12:53 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:1 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:6 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:7 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 13:8 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:9 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:11 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:12 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration.
+- 1 Maccabees 12:31 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:36 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:38 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:42 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:49 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:12 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:13 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:14 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 13:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:16 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 13:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:18 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 13:19 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:20 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:21 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:22 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:23 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- 1 Maccabees 13:23 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:24 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 13:27 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:28 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:29 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:30 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:31 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:32 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:33 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:34 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:36 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 13:37 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:38 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:39 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 13:40 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:41 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 13:42 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:43 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 13:45 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- 1 Maccabees 13:27 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:31 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:33 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:34 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:38 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:46 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:47 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 13:48 (ancientchristian): ASR differs from source text (word agreement 6%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:49 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:50 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:51 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 13:52 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 13:53 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:1 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:2 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 14:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:4 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:5 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:6 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:7 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 14:9 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:10 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:11 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:14 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 14:15 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:18 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:19 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:20 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:21 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:22 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:23 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:24 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:27 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:28 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:29 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:30 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:31 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:32 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 14:33 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:34 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:35 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:36 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:37 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:38 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:39 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:40 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:41 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 14:42 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 14:43 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:44 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 14:45 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 14:46 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 14:47 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 14:48 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 14:49 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:1 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:4 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 15:5 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:6 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:8 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:9 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:10 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:11 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:13 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:14 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:16 (ancientchristian): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:17 (ancientchristian): Low-confidence word alignment.
-- 1 Maccabees 15:18 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:19 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:20 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:21 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:22 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 15:23 (ancientchristian): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:24 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:25 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 15:26 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:27 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:28 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:29 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 15:30 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 1 Maccabees 15:31 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:32 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:33 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:35 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 15:36 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:37 (ancientchristian): ASR differs from source text (word agreement 63%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
+- 1 Maccabees 13:47 (ancientchristian): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:48 (ancientchristian): ASR differs from source text (word agreement 6%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:7 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:10 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:19 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:24 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:33 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:39 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:8 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:11 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:16 (ancientchristian): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:22 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:23 (ancientchristian): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:35 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:37 (ancientchristian): ASR differs from source text (word agreement 63%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:38 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:39 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:40 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 15:41 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:1 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:2 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:4 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:6 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:7 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:8 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:9 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:11 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:12 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:14 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:15 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 1 Maccabees 16:16 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:18 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:19 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 16:20 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:21 (ancientchristian): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 1 Maccabees 16:23 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:1 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:5 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:6 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 1:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:9 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:10 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:11 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:12 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:13 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:15 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:16 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 1:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 1:18 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:19 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:20 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:21 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:22 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:23 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:24 (ancientchristian): A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:26 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
+- 1 Maccabees 15:39 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:40 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:41 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 16:1 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 16:4 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 16:9 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 16:21 (ancientchristian): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 1:9 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 1:21 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 1:29 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:30 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 1:31 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 1:32 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:33 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 1:34 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:35 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 1:36 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 2:2 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 2:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:4 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:5 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:6 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 2:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 2:8 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:9 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:10 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 2:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:12 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 2:13 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:14 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 2:15 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 2:16 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 2:17 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:18 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:19 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 2:20 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 2:21 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:22 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 2:23 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 2:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 2:25 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 2:26 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 2:27 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 2:28 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 2:30 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 2:31 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 2:32 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:1 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:3 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:4 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 3:5 (ancientchristian): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:6 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:7 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:8 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:9 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:11 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:12 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:14 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:15 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:16 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:18 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:19 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 3:20 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:21 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:22 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 3:23 (ancientchristian): A word has no duration.
-- 2 Maccabees 3:24 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:26 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 3:27 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:28 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:29 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:30 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:31 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:32 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 3:33 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 3:34 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 3:35 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:36 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 3:37 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 3:38 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 3:39 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:1 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:3 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 4:4 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:5 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:6 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 4:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:8 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:9 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:11 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:15 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:16 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 4:17 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:18 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:19 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:20 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:21 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:22 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:23 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:24 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 4:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 4:27 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:28 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 4:29 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:30 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 4:31 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:32 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:33 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:34 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:35 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 4:36 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:37 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:38 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:39 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:40 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:41 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:42 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:43 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:44 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:45 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 4:46 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:47 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:48 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:49 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 4:50 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:1 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:2 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:3 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:5 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:6 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:7 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 5:8 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:9 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 5:10 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 5:11 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:12 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:13 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 5:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:15 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:16 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:17 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 5:18 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:19 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:20 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 5:21 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:22 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:23 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:24 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 5:25 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 5:26 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 5:27 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 6:1 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 6:2 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 6:4 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:5 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:7 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:8 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:9 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:10 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 6:11 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:12 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:13 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:14 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:16 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:17 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:18 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 6:19 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:20 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:21 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:22 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:23 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:24 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:25 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:26 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- 2 Maccabees 1:36 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 2:8 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 2:14 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 2:20 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 2:28 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:5 (ancientchristian): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:7 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:8 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:14 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:15 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:31 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:4 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:8 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:20 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:22 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:29 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:33 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:43 (ancientchristian): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:45 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 5:1 (ancientchristian): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 5:3 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 5:23 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 6:2 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 6:14 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 6:27 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 6:28 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 6:29 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:30 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 6:31 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:2 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 7:3 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:4 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 7:5 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:7 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:9 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:10 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:11 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:12 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:13 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:16 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 7:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:18 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:19 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 7:20 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:22 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:23 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:24 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:26 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 7:27 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:29 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:30 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:31 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:32 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 7:33 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:34 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:35 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:36 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:37 (ancientchristian): A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:38 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:39 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:40 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 7:41 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 7:42 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:1 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:3 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 8:4 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:5 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:7 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:8 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:11 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:12 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:13 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:15 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:16 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:17 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:18 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 8:19 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 8:20 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:21 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:22 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:23 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:24 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:25 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:26 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:27 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:28 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:29 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:30 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:31 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 8:32 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 8:33 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:34 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:35 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 8:36 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 7:31 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 8:7 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 8:19 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 8:29 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 8:32 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 9:1 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 9:2 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:3 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:4 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:5 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:6 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:8 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:9 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:10 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:11 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 9:12 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:13 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 9:14 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:15 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:16 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:18 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 9:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:21 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:22 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:23 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 9:24 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:25 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 9:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:27 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:28 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 9:29 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:1 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:2 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 10:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:4 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:5 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:6 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 10:7 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:8 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:9 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 10:10 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:11 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:12 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:14 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:16 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:18 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:19 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 10:20 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:21 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:22 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:23 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:24 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:26 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:28 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:29 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:30 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:31 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:32 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 10:33 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 10:34 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:35 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:36 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 10:37 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 10:38 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 11:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:2 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 11:3 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:4 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 11:5 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:6 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 11:7 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:8 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:9 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:10 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:11 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:12 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:13 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 11:16 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:17 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:18 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:19 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:20 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 9:3 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 10:23 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 10:32 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 10:37 (ancientchristian): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 11:19 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 11:21 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 11:22 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:23 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 11:24 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:30 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:31 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:32 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 11:33 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 11:34 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 11:36 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:1 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:2 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:4 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:5 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 12:6 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 12:7 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:8 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 12:9 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:10 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:11 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:12 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:13 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:14 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:15 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:16 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:17 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:18 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:19 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:20 (ancientchristian): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:21 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:22 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:23 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 12:24 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 12:25 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:26 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:27 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:29 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:30 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 12:31 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:32 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:33 (ancientchristian): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:35 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:36 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 12:37 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 12:38 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:39 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:40 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:41 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:42 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 12:43 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 12:44 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 12:45 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:1 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:2 (ancientchristian): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:3 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:4 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:5 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:6 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 13:7 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:8 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:10 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:11 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:12 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:13 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:14 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:15 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:17 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:18 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:19 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 13:21 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:22 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:23 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 13:24 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 13:25 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 13:26 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:1 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:3 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 14:4 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:5 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:6 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:7 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:8 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 14:9 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:10 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:11 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:12 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:13 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:14 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 14:15 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:16 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:17 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:18 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:20 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:21 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:22 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:23 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:24 (ancientchristian): ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:26 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:27 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:28 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:30 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:31 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:32 (ancientchristian): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:33 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:34 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 14:35 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:36 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 14:37 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:38 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:39 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:40 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:41 (ancientchristian): ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 14:42 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 14:44 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 14:46 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:1 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:2 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:3 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:4 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:6 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:7 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:9 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:10 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:11 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:12 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:13 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:14 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:15 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 15:17 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 15:19 (ancientchristian): A word has no duration.
-- 2 Maccabees 15:20 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:21 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:22 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:24 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 15:25 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:26 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 15:27 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 15:29 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:30 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:31 (ancientchristian): Low-confidence word alignment.
-- 2 Maccabees 15:32 (ancientchristian): ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:33 (ancientchristian): ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:34 (ancientchristian): ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:35 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration.
-- 2 Maccabees 15:36 (ancientchristian): ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:37 (ancientchristian): ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
-- 2 Maccabees 15:38 (ancientchristian): ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error; Low-confidence word alignment.
-- 2 Maccabees 15:39 (ancientchristian): ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error; A word has no duration; Low-confidence word alignment.
+- 2 Maccabees 11:30 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:9 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:10 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:17 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:19 (ancientchristian): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:20 (ancientchristian): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:33 (ancientchristian): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:35 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 12:40 (ancientchristian): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:1 (ancientchristian): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:2 (ancientchristian): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:7 (ancientchristian): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:19 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:22 (ancientchristian): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:24 (ancientchristian): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 14:5 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 14:7 (ancientchristian): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 14:21 (ancientchristian): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 
 ## Notes
 

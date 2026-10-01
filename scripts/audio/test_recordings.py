@@ -1,6 +1,6 @@
 import copy
 import unittest
-from recordings import timing_errors, source_errors, chapter_payload, audit_difference, scripture_window
+from recordings import timing_errors, source_errors, chapter_payload, audit_difference, scripture_window, alignment_hints
 
 class Timings(unittest.TestCase):
     def test_export_bounds_must_contain_every_verse_and_fit_source(self):
@@ -46,6 +46,29 @@ class Timings(unittest.TestCase):
         reasons = audit_difference('He saith unto thee', {'start': 0, 'end': 4, 'words': [{'start': 0, 'end': 4, 'probability': 1}]},
                                   [{'word': 'He says to you', 'start': 0, 'end': 4}])
         self.assertTrue(any('ASR differs' in r for r in reasons))
+
+    def test_a_verse_too_short_to_speak_fails(self):
+        text = ['And all the days of Noah were nine hundred and fifty years: and he died.', 'Next verse']
+        self.assertEqual(timing_errors({'verses': [[1, 0, 5], [2, 5.1, 6]]}, 2, text), [])
+        errors = timing_errors({'verses': [[1, 0, .6], [2, .7, 6]]}, 2, text)
+        self.assertTrue(any('too short' in e for e in errors))
+        record = {'readerId': 'reader', 'slug': 'genesis', 'reader': 'Reader', 'id': 'source/file.mp3'}
+        segment = {'text': text[0], 'start': 10., 'end': 10.6, 'words': [{'start': 10., 'end': 10.6, 'probability': 1}]}
+        with self.assertRaises(ValueError):
+            chapter_payload(record, 9, [segment], [{'word': text[0], 'start': 10, 'end': 10.6}], [text[0]])
+
+    def test_aligner_noise_is_a_hint_not_a_review_flag(self):
+        record = {'readerId': 'reader', 'slug': 'genesis', 'reader': 'Reader', 'id': 'source/file.mp3'}
+        segment = {'text': 'In the beginning', 'start': 0., 'end': 1.2,
+                   'words': [{'start': 0., 'end': 0., 'probability': .1}, {'start': 0., 'end': 1.2, 'probability': .9}]}
+        payload = chapter_payload(record, 1, [segment], [{'word': 'In the beginning', 'start': 0, 'end': 1.2}], ['In the beginning'])
+        self.assertNotIn('check', payload)
+        self.assertEqual(payload['hints'], [{'verse': 1, 'reasons': alignment_hints(segment)}])
+        self.assertEqual(audit_difference('In the beginning God', {'start': 0, 'end': 1.6}, [{'word': 'In the beginning god', 'start': 0, 'end': 1.6}]), [])
+
+    def test_chapter_check_must_match_its_flags(self):
+        self.assertTrue(timing_errors({'verses': [[1, 0, 2]], 'check': True}, 1))
+        self.assertTrue(timing_errors({'verses': [[1, 0, 2]], 'checks': [{'verse': 1, 'check': True, 'reasons': ['x']}]}, 1))
 
 if __name__ == '__main__':
     unittest.main()

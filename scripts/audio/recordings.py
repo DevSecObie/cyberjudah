@@ -78,7 +78,20 @@ def download(record):
     raise ValueError('; '.join(failures))
 
 
-def timing_errors(value, count):
+# Seconds per spoken word. Below MIN_PACE no reader could have said the verse, so its
+# boundaries are wrong and the chapter is withheld. Outside the review band a verse is
+# plausible but unusual, so it is flagged for listening.
+MIN_PACE = 0.12
+REVIEW_PACE = (0.15, 1.0)
+# Below this ASR word agreement a skipped, added or misread word is likely.
+MIN_AGREEMENT = 0.90
+
+
+def pace(text, start, end):
+    return (end - start) / max(1, len(words(text)))
+
+
+def timing_errors(value, count, text=None):
     errors = []
     rows = value.get('verses', [])
     if len(rows) != count:
@@ -94,10 +107,17 @@ def timing_errors(value, count):
             continue
         if start < 0 or end <= start or start < previous - 0.001:
             errors.append(f'Verse {verse}: invalid/overlapping timing {start}–{end}')
+        elif text is not None and verse <= len(text) and pace(text[verse-1], start, end) < MIN_PACE:
+            errors.append(f'Verse {verse}: {end-start:.2f}s is too short to speak {len(words(text[verse-1]))} words; re-align or withhold')
         previous = end
     for flag in value.get('checks', []):
         if flag.get('check') is not True or flag.get('verse') not in range(1, count + 1) or not flag.get('reasons'):
             errors.append('Invalid verse review flag')
+    if value.get('check') is not (True if value.get('checks') else None):
+        errors.append('Chapter check does not match its verse flags')
+    for hint in value.get('hints', []):
+        if hint.get('verse') not in range(1, count + 1) or not hint.get('reasons'):
+            errors.append('Invalid alignment hint')
     return errors
 
 
@@ -114,19 +134,31 @@ def source_errors(value, duration):
 
 
 def audit_difference(text, segment, transcript):
+    """Reasons a verse needs listening review: actionable ones only."""
     expected = words(text)
     spoken = words(' '.join(w['word'] for w in transcript
                            if w['end'] > segment['start'] + 0.05 and w['start'] < segment['end'] - 0.05))
     reasons = []
     if expected != spoken:
         ratio = difflib.SequenceMatcher(None, expected, spoken, autojunk=False).ratio()
-        reasons.append(f'ASR differs from source text (word agreement {ratio:.0%}); listen for skip/addition/misread or ASR error')
-    ws = segment.get('words', [])
-    if not ws or any(w['end'] <= w['start'] for w in ws):
-        reasons.append('A word has no duration')
-    if any(w.get('probability', 0) < 0.3 for w in ws):
-        reasons.append('Low-confidence word alignment')
+        if ratio < MIN_AGREEMENT:
+            reasons.append(f'ASR differs from source text (word agreement {ratio:.0%}); listen for skip/addition/misread or ASR error')
+    rate = pace(text, segment['start'], segment['end'])
+    if not REVIEW_PACE[0] <= rate <= REVIEW_PACE[1]:
+        reasons.append(f'Unusual pace ({rate:.2f}s per word); listen for a misplaced verse boundary')
     return reasons
+
+
+def alignment_hints(segment):
+    """Word-level aligner signals, kept for reference. They are common in forced alignment
+    and say nothing certain about the verse boundaries, so they never set `check`."""
+    ws = segment.get('words', [])
+    hints = []
+    if not ws or any(w['end'] <= w['start'] for w in ws):
+        hints.append('A word has no duration')
+    if any(w.get('probability', 0) < 0.3 for w in ws):
+        hints.append('Low-confidence word alignment')
+    return hints
 
 
 def chapter_payload(record, chapter, segments, transcript, text):
@@ -134,7 +166,7 @@ def chapter_payload(record, chapter, segments, transcript, text):
         raise ValueError(f'{chapter}: forced aligner omitted a verse')
     start = float(max(0, segments[0]['start'] - 0.04))
     end = float(segments[-1]['end'] + 0.04)
-    rows, checks = [], []
+    rows, checks, hints = [], [], []
     for i, (verse, segment) in enumerate(zip(text, segments), 1):
         if words(verse) != words(segment['text']):
             raise ValueError(f'{chapter}:{i}: forced alignment text changed')
@@ -142,13 +174,17 @@ def chapter_payload(record, chapter, segments, transcript, text):
         reasons = audit_difference(verse, segment, transcript)
         if reasons:
             checks.append({'verse': i, 'check': True, 'reasons': reasons})
+        if hint := alignment_hints(segment):
+            hints.append({'verse': i, 'reasons': hint})
     value = {'audio': f"recordings/{record['readerId']}/{record['slug']}/{chapter}.m4a",
              'reader': record['reader'], 'verses': rows,
              'source': record['id'], 'sourceStart': round(start, 3), 'sourceEnd': round(end, 3),
              'textSha256': hashlib.sha256(json.dumps(text, ensure_ascii=False).encode()).hexdigest()}
     if checks:
         value.update(check=True, checks=checks)
-    errors = timing_errors(value, len(text))
+    if hints:
+        value['hints'] = hints
+    errors = timing_errors(value, len(text), text)
     if errors:
         raise ValueError('; '.join(errors))
     return value
@@ -268,7 +304,7 @@ def check(manifest):
                 value = read(DATA / name)
                 ch = Path(name).stem
                 verses = scripture(record['slug'])[ch]
-                errors.extend(f'{name}: {error}' for error in timing_errors(value, len(verses)))
+                errors.extend(f'{name}: {error}' for error in timing_errors(value, len(verses), verses))
                 errors.extend(f'{name}: {error}' for error in source_errors(value, record['duration']))
                 expected = hashlib.sha256(json.dumps(verses, ensure_ascii=False).encode()).hexdigest()
                 if value.get('textSha256') != expected:

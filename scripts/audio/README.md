@@ -41,8 +41,12 @@ spoken word to its last, removing source announcements. There is no duration-by-
 count approximation. The independent transcription is compared word-by-word to flag
 possible skipped, added or misread words. ASR errors (particularly biblical names)
 are expected: a flag is a review request, not an assertion that the reader erred.
-Zero-length words and weak alignment also produce flags. Missing, overlapping or
-out-of-order verse timings fail; no fabricated time is substituted. A failed chapter
+A verse is flagged only when it is actionable: ASR word agreement below 90%, or a
+pace outside 0.15–1.0 seconds per word. Zero-length words and low-confidence words
+are common in forced alignment, so they are kept as `hints` and never set `check`.
+Missing, overlapping or out-of-order verse timings fail, as does a verse timed faster
+than 0.12 seconds per word (no reader can say it that fast, so its boundaries are
+wrong); no fabricated time is substituted. A failed chapter
 is withheld while other valid chapters in that source can still be indexed. Source
 ranges that overlap keep the first chapter index and flag the later source for
 review. Provenance includes the model, backend, stable-ts version and trimming
@@ -50,7 +54,8 @@ pipeline version; incompatible cached alignment results are not reused. `--force
 re-evaluates a source, retaining reusable independent transcription caches.
 
 Each chapter keeps the requested `audio`, `reader`, `verses` shape and adds source
-provenance and `checks: [{verse, check: true, reasons: [...]}]` when review is needed.
+provenance and `checks: [{verse, check: true, reasons: [...]}]` when review is needed,
+plus `hints: [{verse, reasons: [...]}]` for the aligner's word-level signals.
 The top-level `check: true` indicates at least one flagged verse. `COVERAGE.md` lists
 all pending source chapters and every flagged verse. Export retains those flags.
 
@@ -76,8 +81,9 @@ review remains recorded in each source's quality note.
 Six Apocrypha books currently have no verified open-license human **KJV** source:
 1 Esdras, 2 Esdras, Rest of Esther, Ecclesiasticus (Sirach), Baruch and Epistle of
 Jeremiah. Recordings of another translation are not substitutes. Tobit 5 and 13
-currently fail the independent opening/closing anchor check; they are withheld,
-not assigned estimated verse times. See the generated coverage for current progress
+currently fail the independent opening/closing anchor check, and Genesis 6, 9, 35
+and 42 each have one verse the aligner squeezed below the pace floor (6:12, 9:29,
+35:17, 42:8); they are withheld until re-aligned, not assigned estimated verse times. See the generated coverage for current progress
 and additional chapter-level failures. Alternatives in the manifest are verified
 source leads, explicitly not yet indexed or compared by listening.
 

@@ -40,20 +40,10 @@
   "check": true,
   "checks": [
     {
-      "verse": 1,
-      "check": true,
-      "reasons": [
-        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
-      ]
-    },
-    {
       "verse": 2,
       "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error",
-        "A word has no duration",
-        "Low-confidence word alignment"
+        "ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
@@ -64,25 +54,50 @@
       ]
     },
     {
-      "verse": 4,
-      "check": true,
-      "reasons": [
-        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error"
-      ]
-    },
-    {
       "verse": 5,
       "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
+        "ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 6,
       "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error",
+        "ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error"
+      ]
+    }
+  ],
+  "hints": [
+    {
+      "verse": 1,
+      "reasons": [
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 2,
+      "reasons": [
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 4,
+      "reasons": [
+        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 5,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 6,
+      "reasons": [
         "Low-confidence word alignment"
       ]
     }

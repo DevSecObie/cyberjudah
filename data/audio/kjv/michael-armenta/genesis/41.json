@@ -305,18 +305,14 @@
       "verse": 2,
       "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error",
-        "A word has no duration",
-        "Low-confidence word alignment"
+        "ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 3,
       "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 56%); listen for skip/addition/misread or ASR error",
-        "A word has no duration",
-        "Low-confidence word alignment"
+        "ASR differs from source text (word agreement 56%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
@@ -327,15 +323,57 @@
       ]
     },
     {
-      "verse": 5,
+      "verse": 18,
       "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 20,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 39,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 45,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error"
+      ]
+    }
+  ],
+  "hints": [
+    {
+      "verse": 2,
+      "reasons": [
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 3,
+      "reasons": [
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 5,
       "reasons": [
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 6,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
@@ -344,21 +382,18 @@
     },
     {
       "verse": 7,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 9,
-      "check": true,
       "reasons": [
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 10,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -366,14 +401,12 @@
     },
     {
       "verse": 11,
-      "check": true,
       "reasons": [
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 12,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
         "A word has no duration"
@@ -381,37 +414,25 @@
     },
     {
       "verse": 14,
-      "check": true,
       "reasons": [
         "A word has no duration",
         "Low-confidence word alignment"
       ]
     },
     {
-      "verse": 18,
-      "check": true,
-      "reasons": [
-        "ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error"
-      ]
-    },
-    {
       "verse": 19,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 20,
-      "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 21,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -419,21 +440,18 @@
     },
     {
       "verse": 24,
-      "check": true,
       "reasons": [
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 26,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 27,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -441,7 +459,6 @@
     },
     {
       "verse": 28,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
@@ -450,14 +467,12 @@
     },
     {
       "verse": 29,
-      "check": true,
       "reasons": [
         "A word has no duration"
       ]
     },
     {
       "verse": 30,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -465,14 +480,12 @@
     },
     {
       "verse": 32,
-      "check": true,
       "reasons": [
         "A word has no duration"
       ]
     },
     {
       "verse": 33,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
@@ -481,7 +494,6 @@
     },
     {
       "verse": 34,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "A word has no duration"
@@ -489,14 +501,12 @@
     },
     {
       "verse": 35,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 36,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
@@ -505,15 +515,12 @@
     },
     {
       "verse": 39,
-      "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error",
         "A word has no duration"
       ]
     },
     {
       "verse": 41,
-      "check": true,
       "reasons": [
         "A word has no duration",
         "Low-confidence word alignment"
@@ -521,7 +528,6 @@
     },
     {
       "verse": 42,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "A word has no duration"
@@ -529,7 +535,6 @@
     },
     {
       "verse": 43,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "A word has no duration"
@@ -537,7 +542,6 @@
     },
     {
       "verse": 44,
-      "check": true,
       "reasons": [
         "A word has no duration",
         "Low-confidence word alignment"
@@ -545,16 +549,13 @@
     },
     {
       "verse": 45,
-      "check": true,
       "reasons": [
-        "ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 46,
-      "check": true,
       "reasons": [
         "A word has no duration",
         "Low-confidence word alignment"
@@ -562,7 +563,6 @@
     },
     {
       "verse": 47,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
@@ -571,7 +571,6 @@
     },
     {
       "verse": 48,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
         "A word has no duration"
@@ -579,7 +578,6 @@
     },
     {
       "verse": 49,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
@@ -588,7 +586,6 @@
     },
     {
       "verse": 50,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -596,14 +593,12 @@
     },
     {
       "verse": 51,
-      "check": true,
       "reasons": [
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 52,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -611,14 +606,12 @@
     },
     {
       "verse": 53,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 54,
-      "check": true,
       "reasons": [
         "A word has no duration",
         "Low-confidence word alignment"
@@ -626,7 +619,6 @@
     },
     {
       "verse": 55,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
         "Low-confidence word alignment"
@@ -634,14 +626,12 @@
     },
     {
       "verse": 56,
-      "check": true,
       "reasons": [
         "Low-confidence word alignment"
       ]
     },
     {
       "verse": 57,
-      "check": true,
       "reasons": [
         "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
