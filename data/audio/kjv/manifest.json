@@ -5378,9 +5378,16 @@
       "duration": 2032.64,
       "sha1": "42cfb6fdc1ab639d94774ea031a726e7caf9ac0b",
       "bytes": 32526927,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": []
+      "quality": "Forced aligned against repository KJV; 169 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "ancientchristian/2-maccabees/6.json",
+        "ancientchristian/2-maccabees/7.json",
+        "ancientchristian/2-maccabees/8.json",
+        "ancientchristian/2-maccabees/9.json",
+        "ancientchristian/2-maccabees/10.json"
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "2maccabees_2005_librivox/maccabees2_03_kjv_128kb.mp3",
@@ -5406,9 +5413,16 @@
       "duration": 2183.84,
       "sha1": "0720284669d7b597a987f9d6b035f79acf5a0c40",
       "bytes": 34946106,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": []
+      "quality": "Forced aligned against repository KJV; 174 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "ancientchristian/2-maccabees/11.json",
+        "ancientchristian/2-maccabees/12.json",
+        "ancientchristian/2-maccabees/13.json",
+        "ancientchristian/2-maccabees/14.json",
+        "ancientchristian/2-maccabees/15.json"
+      ],
+      "alignmentErrors": []
     }
   ],
   "alternatives": [
