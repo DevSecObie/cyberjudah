@@ -85,7 +85,9 @@ export function loadLibrary(ROOT) {
   const bookNum = Object.fromEntries(BOOKS.map((b, i) => [b, i + 1]));
   const testament = (b) => (APOC.includes(b) ? "Apocrypha" : CANON.indexOf(b) < 39 ? "Old Testament" : "New Testament");
   const bible = {};
-  for (const e of bibleIndex) bible[e.book] = json(path.join(DATA, "bible", e.slug + ".json")).chapters;
+  // A book's prologue (the 1611's two before Ecclesiasticus) is not a verse: it rides with chapter 1.
+  const prologues = {};
+  for (const e of bibleIndex) { const f = json(path.join(DATA, "bible", e.slug + ".json")); bible[e.book] = f.chapters; if (f.prologue) prologues[e.book] = f.prologue; }
   const CHAPTERS = Object.fromEntries(bibleIndex.map((e) => [e.book, e.chapters]));
   const abbr = (b) => ABBR[b] ?? b;
   // Greek Esther exists only as the Additions (chapters 10-16). A reference to 1-9 in that
@@ -373,7 +375,7 @@ export function loadLibrary(ROOT) {
 
   return {
     ROOT, DATA,
-    bibleIndex, BOOKS, CHAPTERS, bible, bookSlug, bookBySlug, bookNum, testament, abbr, chapterUrl, bookUrl, verseText, refLabel, resolveChapter,
+    bibleIndex, BOOKS, CHAPTERS, bible, prologues, bookSlug, bookBySlug, bookNum, testament, abbr, chapterUrl, bookUrl, verseText, refLabel, resolveChapter,
     handbook, sectionById, partSlug, partUrl, sectionUrl, lawUrl,
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,

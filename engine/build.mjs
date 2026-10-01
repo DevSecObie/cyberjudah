@@ -103,7 +103,7 @@ for (const b of BOOKS) {
   for (const c of chs) {
     const verses = bible[b][String(c)] ?? [];
     const tags = strongsTags(bookSlug[b]);
-    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
+    writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), ...(c === chs[0] && L.prologues[b] ? { prologue: L.prologues[b] } : {}), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
     writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
     readingsTotal += Object.values(readings[String(c)] ?? {}).reduce((a, r) => a + r.length, 0);
