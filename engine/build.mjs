@@ -209,6 +209,56 @@ function resolveRefFull(r) {
     text: rows, more: 0,
   };
 }
+/* ---------------- the people in each case study ---------------- */
+// A case study is linked to a person when its title names them and they are named in the case's
+// own scripture (a chapter it reads): the title says who, the scripture says which of those so
+// named, the one named in its very verses first.
+const normName = (s) => s.replace(/[\u2010-\u2015]/g, "-").replace(/\u2019/g, "'");
+const caseVerses = (c) => {
+  const out = new Set();
+  for (const r of c.refs) {
+    const slug = bookSlug[r.book], chapter = bible[r.book]?.[String(r.chapter)];
+    if (!slug || !chapter) continue;
+    for (const v of r.verses ? versesOf(r.verses) : chapter.map((_, i) => i + 1)) out.add(`${slug}/${r.chapter}/${v}`);
+  }
+  return out;
+};
+// The patriarchs whose names became nations: in a title after Genesis, "Israel", "Judah", "Moab"
+// are the people, not the man.
+const EPONYMS = new Set(["Israel", "Judah", "Benjamin", "Levi", "Moab", "Amalek", "Esau"]);
+const eponymous = (p) => EPONYMS.has(p.name) && p.verses[0]?.startsWith("genesis/");
+const nameMatchers = new Map(); // name -> [regex, people]
+for (const p of peopleDoc.people) for (const n of new Set([p.name, ...p.names])) {
+  const k = normName(n);
+  // A name as written, capital and all; not a people's name ("Hittite") but the person's own.
+  if (k.length < 2 || !/^[A-Z]/.test(k) || (k !== p.name && /ites?$/.test(k))) continue;
+  if (!nameMatchers.has(k)) nameMatchers.set(k, [new RegExp(`(?<![A-Za-z-])${k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?![A-Za-z-])`), []]);
+  nameMatchers.get(k)[1].push(p);
+}
+const peopleOfCase = new Map(), casesOfPerson = new Map();
+for (const c of cases.cases) {
+  const title = normName(c.name), verses = caseVerses(c), found = [];
+  const chapters = new Set([...verses].map((v) => v.slice(0, v.lastIndexOf("/"))));
+  const early = c.era === "Primeval" || c.era === "Patriarchal";
+  for (const [, [re, people]] of nameMatchers) {
+    const m = re.exec(title); if (!m) continue;
+    // "Ahaziah of Israel", "the captivity of Judah": a realm; "son of Nebat" is still a man.
+    const before = title.slice(0, m.index);
+    if (/\bof $/.test(before) && !/\b(son|sons|daughter|daughters|wife|father|mother|brother|house) of $/i.test(before)) continue;
+    let best = null, most = 0;
+    for (const p of people) {
+      if (eponymous(p) && !early) continue;
+      const n = p.verses.reduce((a, v) => a + (verses.has(v) ? 1000 : 0) + (chapters.has(v.slice(0, v.lastIndexOf("/"))) ? 1 : 0), 0);
+      if (n > most) { best = p; most = n; }
+    }
+    if (best && !found.some((f) => f.p.id === best.id)) found.push({ p: best, at: m.index });
+  }
+  found.sort((a, b) => a.at - b.at);
+  peopleOfCase.set(c.slug, found.map(({ p }) => ({ id: p.id, name: p.name })));
+  for (const { p } of found) (casesOfPerson.get(p.id) ?? casesOfPerson.set(p.id, []).get(p.id)).push(c);
+}
+const preview = (s = "") => { const t = s.replace(/\s+/g, " ").trim(); if (t.length <= 200) return t; const m = /^.{60,200}?[.;](?=\s)/.exec(t); return m ? m[0] : `${t.slice(0, 200).replace(/\s+\S*$/, "")}…`; };
+
 for (const c of cases.cases) {
   // Prefer author-selected related cases from the HTML extraction, fall back to auto-computed
   const related = c.relatedCases?.length
@@ -220,7 +270,7 @@ for (const c of cases.cases) {
   const see = seeAlsoEncyclopedia(`${c.charge} ${c.summary} ${c.themes.join(" ")} ${c.topics.join(" ")}`);
   writeJson(path.join(API, "cases", `${c.slug}.json`), {
     ...c, url: caseUrl(c), kind: c.kind ?? "judgment", verdictLabel: VERDICT[c.verdict] ?? c.verdict,
-    related, taught, lawsResolved: laws, preceptsResolved: precepts,
+    related, taught, lawsResolved: laws, preceptsResolved: precepts, people: peopleOfCase.get(c.slug) ?? [],
     refsResolved: c.refs.map(resolveRefFull), see,
     // Enriched fields (pass through if present)
     ...(c.code ? { code: c.code } : {}),
@@ -272,6 +322,7 @@ for (const p of peopleDoc.people) {
     father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
     siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
     verses: p.verses, taught, source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
+    cases: (casesOfPerson.get(p.id) ?? []).map((c) => ({ slug: c.slug, name: c.name, url: caseUrl(c), era: c.era, kind: c.kind ?? "judgment", verdict: c.verdict, verdictLabel: VERDICT[c.verdict] ?? c.verdict, charge: c.charge, preview: preview(c.summary) })),
   });
   peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, verses: p.verses.length, first: p.verses[0] });
 }
