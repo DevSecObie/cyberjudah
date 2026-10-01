@@ -1,0 +1,308 @@
+# IUIC YouTube channels to harvest, largest audience first. One row per channel; the hourly
+# harvest takes the next channel with no dashboard/completed-sources/<handle>.json marker.
+# class: official (IUIC boilerplate, its number, or IUIC + a place) or likely-official (an IUIC show).
+rank	handle	channel_id	feed	subscribers	videos	class	title
+1	IUICintheClassRoom	UC8gdvMmoqFOcx2N8YdjqRxw	classes	203000	2300	official	IUICintheClassRoom
+2	IUICEvents	UCyoOBQfewSmfFL4yol0vL-Q	classes	110000	1800	official	IUICEvents
+3	IUICDALLAS	UCe4YtEYBDr6_kuaBZxOXMfA	classes	93400	3300	official	IUIC DALLAS
+4	iuictallahasseeintheclassr4265	UC_hDA8LZOGg1DUTqPxFS5Yw	classes	83800	2000	official	IUIC TALLAHASSEE TWO
+5	iuicjacksonville2808	UCke2ASZ4Du6-Uzh76utMt9g	classes	74700	3200	official	IUIC Jacksonville
+6	iuicintheclassroom2	UCF1VsEsoOwm5k6lvRYXNEmw	classes	73500	1400	official	IUICintheclassroom Two
+7	IUICCALIFORNIA	UCgqJIJLxyPDnbNfAM--X_Vg	classes	65600	3400	official	IUIC Los Angeles
+8	iuictallahassee643	UCZfzgNaWEVG_UOg0T6B6G_A	classes	64700	4200	official	IUIC Tallahassee
+9	IUICSanDiego	UC85k80YbM_3sL2_yHVFqPjA	classes	58400	2400	official	IUIC San Diego
+10	IUICOrlando	UCGs_JpS3143R7qe087aZYFg	classes	56800	3400	official	IUIC Orlando
+11	IUICQueensCamp	UCcn97yZN9A9H8EfN1VG4h-Q	classes	56200	1700	official	IUICQueensCamp
+12	iuicmississippiburning8520	UCZH9wtM7GHdNxfi_AM6FqIw	classes	54700	4400	official	IUIC Mississippi Burning
+13	iuicmiami	UCvaDps8Ghqa5xH6ILh4XRHg	classes	53700	3100	official	IUIC Miami
+14	IUICOklahoma	UCZlvMgPCcGePhluKr9UaAkw	classes	52300	4200	official	IUIC Oklahoma
+15	IUICDetroit	UCx_HhJ4EK31wuJ0ZINz9Ylg	classes	46100	3700	official	IUIC Detroit
+16	IUICARKANSAS	UCV6GjYsYnsBb_XkO2ExH9vA	classes	45900	3700	official	IUIC ARKANSAS
+17	IUICHOUSTON	UCS-xBR1Dkpgb9sLxhMb-zVg	classes	42300	2700	official	IUIC HOUSTON
+18	IUICAustinCamp	UCbX7FFYlbAXzEqQonF0Lu7A	classes	42000	3800	official	IUIC Austin
+19	iuiccaptains6939	UCyBZhuxJe-BUFZLiVy4grhA	captains	40400	1500	likely-official	IUIC Captains
+20	IUICNEWJERSEY	UCKILBtTrDi_xZgn-IUPnadg	classes	39300	3700	official	IUIC NEW JERSEY
+21	IUICBronxCamp	UCoWWvKcRA-0G5eiMs3I0xHA	classes	39200	1800	official	IUICBronxCamp
+22	IUICRaleigh	UCwqYkY7QbMKBed17lylPXeQ	classes	38500	3900	official	IUIC Raleigh
+23	iuicmt.vernon	UCmp1OwDPDx5OeR2Oj5O2PAg	classes	38400	1500	official	IUIC MOUNT VERNON
+24	Memphis144k	UC0wp5JVSe-FipvgvrbnVj3A	classes	36300	4400	official	IUIC Memphis, TN
+25	iuicphiladelphia1540	UC-DeYZt-X_VEXZv-h919mmw	classes	35800	4200	official	IUIC PHILADELPHIA
+26	IUICGastonia	UCIxCgP4BCTfzEcDA4CAEgcg	classes	33700	1900	official	IUIC Gastonia, NC
+27	iuicphoenix	UCUKicPun9YwHgdYj4z6w_Nw	classes	33200	3400	official	IUIC Phoenix
+28	IUICNewOrleans	UCZ7GXHNZIw6f8w-Rzi47mpA	classes	32200	4000	official	IUIC New Orleans
+29	iuicwatchread226	UCeqTwU18rA3VIu-UH6_XfzA	classes	31100	78	likely-official	IUIC Watch & Read
+30	IUICReloadedChicago	UC7ZlpOpCXFD94e7w3zyfQZA	classes	30900	4600	official	IUIC Chicago
+31	IsraeliteSocial	UCK8Sfdm5rzCE1PPsBbB-xBQ	classes	27000	3200	official	Israelite Social
+32	FRIDAYNIGHTRAW	UCYJVQBIKjC4vlTFo-EBvLDg	classes	26600	425	likely-official	IUIC FRIDAY NIGHT RAW
+33	IUICColumbiaSC	UCLoGxxKcJvt-Ry0MXUbPc-g	classes	26300	2200	official	IUIC Columbia SC
+34	iuicnashvilletennessee144k	UCNjP7UpU7OK1dvVviQJ7rRA	classes	25800	2100	official	IUIC NASHVILLE, TENNESSEE
+35	iuicconnecticut5161	UCNNxqCLuccTwiuQjR14SDeg	classes	25300	2600	official	IUIC Connecticut
+36	IUICWashingtonDC	UClFdNdo7zGol8tP1EP2XakQ	classes	25100	2700	official	IUIC Washington DC
+37	iuicsaintlouis	UCm4jxQj_t2AvI2xJaKdE3Ow	classes	25000	3900	official	IUIC Saint Louis
+38	iuicatlantacamp2.0	UCT_Zcy6PG2WB1GdA5prkZGg	classes	24900	2400	official	IUICAtlantaburning 2.0
+39	patientsaintsradio2.013	UCN81yTqq84_wq9-CYn_luZw	classes	24900	1200	likely-official	Patient Saints Radio 2.0
+40	IUICKansasCity	UCVMErZBrGGlxQVWgrg2tWAQ	classes	24500	3900	official	IUIC Kansas City
+41	iuicdenver	UCWd2lvhCcq4DDDnr236yyqQ	classes	23800	3600	official	IUIC Denver
+42	IUICintheClassRoomOrlando	UCzQ9rowk93wmA6cX8uyp20A	classes	23500	1200	official	IUICintheClassRoom Orlando
+43	iuicva12	UC-Df2y_RRELp7rs5RLvZaxg	classes	22200	2300	official	IUIC Virginia
+44	12TribesRepent	UC4HHenfdMqjYqQFHAL_vRPA	classes	21700	708	likely-official	12TribesRepent
+45	IUICBatonRouge	UCKPCfqBwJn1793IJsgBScZg	classes	21100	3100	official	IUIC Baton Rouge
+46	iuicharlemcamp	UCPvWZrOd_z2fgHXnDyVtwjQ	classes	20400	1500	official	IUIC HARLEM
+47	IUICSacramentoCA	UCPLthz-9rPe9_91r6nNxvRg	classes	20100	1900	official	IUIC Sacramento, CA
+48	iuicdailybread4293	UCm-A4aS_cfu97DBd1F9k3Xw	classes	19600	2200	likely-official	IUIC Daily Bread
+49	IUICLONDON	UCp3eAYrQav4h28xflNgBgpA	classes	19400	1400	official	IUIC LONDON
+50	thebiblebookofourfathers9521	UClz01Kx152GCAy_INmjY21A	classes	19300	785	official	The Bible: Book Of Our Fathers
+51	IUICPittsburgh	UCMA9SUledb32hHEFxhUHX_w	classes	18700	2200	official	IUIC Pittsburgh
+52	iuiclouisville	UCOA2PKGGf_qDn3PP6x-5WTA	classes	18600	3800	official	IUIC LOUISVILLE
+53	iuicrochestercamp	UCHbq3tGX718Hj_ebaCGTJAg	classes	17800	3000	official	IUIC Rochester Camp
+54	IUICHAITIIZRAYELPOUJEZI	UC1GQKh0yArBLxkuY08rDFLw	classes	17300	2800	official	IUIC HAITI
+55	iuicshreveport5080	UCjUDGvBMtCS40a_tWizdnZw	classes	17000	3300	official	IUIC Shreveport
+56	iuicbirmingham6917	UCxCFWYPoPnMWSURYG9kWvng	classes	16800	1800	official	IUIC Birmingham
+57	iuiclasvegas	UCyTDQCdIPK5pxDwL0iOAvYg	classes	16500	1200	official	IUIC Las Vegas
+58	ISRAELUNIDOenCRISTO	UCKxRXgD8GtaKQWkEjUFrvqA	classes	16300	3000	official	ISRAELUNIDOenCRISTO
+59	iuiccincinnatiofficial	UCYSJBoIYpMEBKKFP7dYA0mQ	classes	16100	2700	official	IUIC CINCINNATI
+60	joiniuic	UCwQqKWduVoprKuG0Lv32G3g	classes	15700	0	official	ISRAEL UNITED IN CHRIST SUBSCRIBERS
+61	IuicTupelo	UCGhLyLbKelWj_qAkQZpskjg	classes	15400	2100	official	IUIC Tupelo
+62	iuicevents2	UCDg9N3m8JMjGQM5HlLZ2RXQ	classes	15000	173	official	IUIC Events2
+63	iuicbaltimore1341	UCVTMfw2_PmxodNQb-aC5zMA	classes	14600	2000	official	IUIC BALTIMORE
+64	ourhiddenhistoryradio1991	UCcdAe1qJFhl3h8m_BL4wOKg	history	14400	459	likely-official	OUR HIDDEN HISTORY RADIO
+65	iuicmilwaukee6812	UCBlGvm3R1lTMYkm8ehdy-dQ	classes	14100	3000	official	IUIC Milwaukee
+66	iuicintheclassroom3	UCQ1RD5aqeDY_PhqsptwZKdQ	classes	13200	39	likely-official	IUIC IntheClassroom3
+67	IUICOakland	UCwWStvYmC5celV4M1tOp_Yw	classes	12900	1600	official	IUIC Oakland
+68	iuicjamaica5835	UCpYcxTPCtSA1WbPhTVV9unQ	classes	12200	763	official	IUIC Jamaica
+69	iuicasia	UCemVEhadnP09ETnY2JOwJYA	classes	11800	582	official	IUIC ASIA
+70	iuicoceania	UCATX4fx4cQ7BGZqQhbJVs8g	classes	11800	407	official	IUIC Oceania
+71	iuicindiana3910	UCyhVc8dTkqVRAcTf6q4ee8Q	classes	11400	1700	official	IUIC Indiana
+72	IUICHawaii	UCGuO8plq-Xl2SoFV7l9pnpQ	classes	11200	873	official	IUIC Hawaii
+73	iuicaugusta	UCo5S4EZx5tSE_1FL-olkuFg	classes	11100	2300	official	IUIC Augusta
+74	iuicminneapolis81	UCNoIt-6ZWOCNX_7V7uR41zA	classes	11100	4500	official	IUIC Minneapolis
+75	iuicboston8037	UCm3AhyI09eFKXLC_ngjRjuQ	classes	10900	1400	official	IUIC Boston
+76	iuiccarolinasintheclassroom	UCb4cxE182a5m6wU70TF9z9A	classes	10500	833	official	IUIC Carolinas in the Classroom
+77	IUICSeattle	UCUreMcs4qntc1KFLnCJsG2A	classes	10500	2000	official	IUIC Seattle
+78	IUICDocumentaries	UC6kbNBZ769smgbTh5Vkn1Fw	classes	10000	80	likely-official	IUIC Documentaries
+79	IUICLubbock	UCNLBFO3BI1xCuaoZF29668w	classes	9650	2700	official	IUIC Lubbock
+80	iuicmobilealabama676	UCV_CqVOkVEAnTjonk2DUE_g	classes	9550	1400	official	IUIC MOBILE
+81	iuicmaconga	UCprKnhFRnUfyqBXWHXyW1GQ	classes	9450	1600	official	IUIC Middle, GA
+82	IUICTRINIDADANDTOBAGO	UCcwOMs3iWocHGFG8TbjiSYw	classes	9280	1700	official	IUIC TRINIDADANDTOBAGO
+83	IUICBakersfieldCamp	UCT1KL98ame4eM0FWzVJm1qA	classes	9090	766	official	IUIC Bakersfield Camp
+84	iuicportland5361	UCcGoXdAHGKDyciUP2l0iHDg	classes	8940	3900	official	IUIC Portland
+85	iuicsatx	UCLyGU2kzFfTM0xbHLcB3w8g	classes	8930	1500	official	IUIC San Antonio Reloaded
+86	iuicnetherlands6369	UCWw8JHdG-0t17vQRW-aMZFw	classes	8500	2000	official	IUIC Netherlands
+87	iuicphiladelphia2.0	UCTMz1npAjtT4licAABPD3CQ	classes	8450	172	official	IUIC PHILADELPHIA 2.0
+88	IUICSouthAfrica	UCBVtSevhGyyA-31_IfsgZhQ	classes	8250	693	official	IUIC South Africa
+89	IUICMontreal	UC-Jms-al6G2mzd14DlOwvWQ	classes	8180	1600	official	IUIC Montreal, Canada
+90	IUICTULSA	UCq0fAQ0Ym9J0jFfF_sDkMVQ	classes	8070	2100	official	IUIC Tulsa
+91	IUICDiaspora2.0	UCMRMm4Gz_mERUV7Sd8hBF-g	classes	7850	46	official	IUIC Diaspora 2.0
+92	iuiccolumbusga8733	UCrCIlsJPzy-kdF5-oIkYHDw	classes	7800	1400	official	IUIC Columbus GA
+93	iuicghana	UCjC5xA7PoHxc8dM4Myv59aQ	classes	7630	500	official	IUIC GHANA
+94	iuicnassaubahamas	UCEsToUSr2SxgoQxBgacgteQ	classes	7270	1600	official	IUIC NASSAU BAHAMAS
+95	iuicguyana1796	UCgo-5fWBQb7CIc94w1rJHgA	classes	7050	1300	official	IUIC GUYANA
+96	IUICDMV	UCOQX2CWT2yJLdCBiZZ-X_nw	classes	7040	1000	official	IUIC DMV
+97	iuicnigeria5198	UCjGYKl-eTchV98S6QMWtv9Q	classes	6900	770	official	IUIC NIGERIA
+98	IUICColumbusOhio2	UCJVyL4f8gHPBC1lqqMKQXQA	classes	6490	1000	official	IUIC Columbus Ohio 2.0
+99	iuic365prophets4	UCRMJeBgpb02cx3s7viOL6ZQ	classes	6470	177	likely-official	IUIC 365 Prophets
+100	TheMinorityReport-N7	UCdbsgPy02c0lmCqEb0crwWA	classes	6380	24	likely-official	TheMinority Report
+101	AtlantaIsOnFire	UC6Ksqz3XSxsVk5APhAJD6xg	classes	6260	68	likely-official	AtlantaIsOnFire
+102	IUICARKANSASTWO	UCIhfGZrK8V8-TFdW2Wos-ag	classes	6250	345	official	IUIC ARKANSAS TWO
+103	IUICLIBERIA	UCqWUcxAxEGE9Rd4NVNU1vvg	classes	5900	300	official	IUIC LIBERIA
+104	IUICRaleigh2	UCcEfuAefTWOZOOS8GYWDIQg	classes	5840	277	official	IUIC Raleigh 2
+105	IUIC.ATLANTA.CLASSROOM	UCfwZAWJJD0SR9D7K9UAZOLQ	classes	5800	1200	official	IUIC ATLANTA IN THE CLASSROOM
+106	iuiclevant	UCila8-nFClcbV1koXvy-ByQ	classes	5770	626	official	IUIC Levant
+107	iuicgrenada	UCNKIplxfWoHhnX3Kk8MUk1w	classes	5750	756	official	IUIC GRENADA
+108	iuicsavannah1079	UCLHDdhsEQx5UmWGIOgOGrYw	classes	5730	1600	official	IUIC SAVANNAH
+109	iuictampa7904	UC7DkQt41ArLzq7a15znt9zQ	classes	5650	1400	official	IUIC TAMPA
+110	iuicdominica	UC3Qf5c8fITgAB8vWGoC3-HQ	classes	5620	288	official	IUIC DOMINICA
+111	iuicbarbados	UCpQhmW-jZLdETDkOX3PZB5w	classes	5610	1100	official	IUIC Barbados
+112	iuicgrandrapids	UCLRu5nCu2fs1JfNJmx_mBIQ	classes	5450	1100	official	IUIC Grand Rapids
+113	PatientSaintsRadio3.0	UC04Xt7pFQo73VevKdHn8kMg	classes	5450	2	likely-official	Patient Saints Radio 3.0
+114	iuiciowa273	UCk8D0NhuLZMYnITgo-BKujw	classes	5350	3700	official	IUIC IOWA
+115	iuic_dominicanrepublic	UCHGVXRVw8iVO0OFRXbGvlyg	classes	5310	426	official	IUIC Dominican Republic
+116	iuicshortfilms2764	UCzYbPw-Cp4J2LAXYG6uSK_Q	classes	5150	9	likely-official	IUIC Short Films
+117	iuicsierraleone4079	UC9SOJDegN7Hn8tITzZEdNdA	classes	5060	518	official	IUIC SierraLeone
+118	IUICCleveland2.0	UCto_Zs-mDLyz5GW3PpPc9CQ	classes	4920	727	official	IUIC Cleveland 2.0
+119	iuicethiopia	UCyAJAcaADD56OOKa-lUgdnw	classes	4900	153	official	IUIC Ethiopia & Eritrea
+120	iuic.mexico	UCyVhpbU4YIA6wHQ5e_2wIqQ	classes	4860	890	official	IUIC Mexico
+121	iuicbirminghamuk	UCvipyLZueNGSlzZXHkc6yaQ	classes	4780	801	official	IUIC BIRMINGHAM UK
+122	iuicvaclassroom12	UC9VPEGlKa8ffGciDcwkcHYg	classes	4770	480	official	IUIC Virginia In The Classroom
+123	iuicmiami2	UCdUtcxX_Rg6h4wwEJrQTuLQ	classes	4760	547	official	IUIC Miami Reloaded
+124	iuiccleveland	UCXX19KMnWBpessxAKJ3MPnQ	classes	4610	716	official	IUIC Cleveland
+125	IUICSignLanguage	UCShkObVDdLwkc-LCbPTkzoQ	classes	4580	150	likely-official	IUIC Sign Language
+126	IUICUKWESTMIDLANDSCAMP	UCIX7_3l6-lPIFWk_qmpRY6Q	classes	4420	0	official	IUIC UK - WEST MIDLANDS CAMP
+127	iuicisrael9678	UCh9pO7yLBrHvZ5x0C2EeVig	classes	4400	6	official	IUIC ISRAEL
+128	IUICNEWJERSEY2	UCLMHagatww5MdZL4NEC3mzg	classes	4250	1600	official	IUIC NEW JERSEY 2
+129	iuicradio1719	UCsIRxAEIefmSWPhmj50pJBw	classes	4220	25	likely-official	IUIC Radio
+130	iuicuganda9187	UCbll0dMWtAVFUQlbrzWsKaw	classes	4050	458	official	IUIC Uganda
+131	iuicbostonintheclassroom8050	UCspwt122TfXn2nR9w4OKMhg	classes	3960	747	official	IUIC Boston In The Classroom
+132	iuicdcintheclassroom2167	UCMMNnhNd6ZcZzZ-N28plCuQ	classes	3890	424	official	IUIC DC In The Classroom
+133	iuicsuriname3078	UCu-r1ncy_cmSJnxUy_MCXIA	classes	3750	1400	official	IUIC SURINAME
+134	IUICGermany2.0	UC_OPVlmcdJuhTMXlQ5kOW3w	classes	3610	129	official	IUIC Germany 2.0
+135	IUICGREENVILLESC	UCDbiAd7SdtAtmr2ih3W5R_A	classes	3330	731	official	IUIC Greenville SC
+136	iuicsmyrna	UCJnrjkIAzLxCCdiwBC3n4kw	classes	3310	13	official	IUIC Smyrna ( Izmir )
+137	Iuickenya	UCg0GaHxIuGRitFUyqcCX6mA	classes	3220	446	official	IUIC Kenya
+138	IUIC_Puerto_Rico	UCNmVS3ESR6yySilwsnM2K8w	classes	3200	702	official	IUIC Puerto Rico
+139	IUICTijuana	UCZO9o-TJvhJzMwZXCPMXBeA	classes	3200	1100	official	IUIC Tijuana
+140	IUICComedy	UCC3LcWwGvJNHVwZtB2EA6gQ	classes	3170	89	likely-official	IUIC Comedy
+141	iuicochorios-jamaica1071	UCeJqNM-ItLAh82-DbdqsPzg	classes	3120	631	official	IUIC OCHO RIOS - JAMAICA
+142	iuicsaintlouis2.0	UCe7ZBU3CMlTrWDo4FHte5cQ	classes	3090	462	official	IUIC Saint Louis 2.0
+143	IUICToronto2.0	UC1ueouYxE-W82Y0lb5f7RCg	classes	3040	104	official	IUIC Toronto 2.0
+144	iuicireland	UCs8m1zs4-buol0eHH6U0fsQ	classes	3010	297	official	IUIC Ireland
+145	IUICAntigua	UCpPX70TWEWYhvcaaVtVzpzA	classes	2990	625	official	IUIC Antigua
+146	iuic4chaptersaday616	UCKCpFTjlU2HLmfKmzh5kkJg	classes	2960	255	likely-official	IUIC 4 Chapters a Day
+147	IUICDelaware	UCh1i44PkG8Fxm_Z5XH4JLBQ	classes	2910	404	official	IUIC Delaware
+148	IUICCharlotte	UCvVCmz5CwGKX6X9z8f5XgMw	classes	2900	354	official	IUIC Charlotte, NC
+149	iuicsanfrancisco	UC3ui32HOGeK7pHFssLTHc1A	classes	2790	1300	official	IUIC San Francisco
+150	iuicdeepbasics6589	UCyaxxQGNzrbz0HHvShhmNSA	classes	2750	51	likely-official	IUIC DEEPBASICS
+151	IUICDallas2.0	UC5BN_0fNp4auIhNnR7vCH9w	classes	2740	84	official	IUIC Dallas 2.0
+152	iuicnottinghamuk	UCGxz-LSfuQNWZArYbnptPtw	classes	2660	385	official	IUIC Nottingham UK
+153	iuicbermuda7610	UC0DK5u2_LiATnYotJBKnbIA	classes	2640	961	official	IUIC Bermuda
+154	iuicspanishtown-jamaica686	UCZ6_F0mLYLuDsFhiD3zhYTw	classes	2640	712	official	IUIC SPANISH TOWN - JAMAICA
+155	IUICCHATT	UCSyog-U5EGqbEdh9xI7oecQ	classes	2620	353	official	IUIC CHATTANOOGA
+156	IUICItaly2	UCpEXdjQThXORZR5p3cezbLw	classes	2600	42	official	IUIC Italy 2.0
+157	iuic_spain	UCqRl_yXy_73wnL8rCUYOiiQ	classes	2360	303	official	IUIC SPAIN
+158	IUICSeattleInTheClassroom	UCy1SWDFOxvKXz4TWYC4c4Dw	classes	2320	404	official	IUIC Seattle In The Classroom
+159	IUICNewMexico	UCQm59UuZq_Py-Iw3xdFJf3g	classes	2300	334	official	IUIC New Mexico
+160	iuicrussia	UC-RfCJmXokowv4c-ywZuuUw	classes	2300	261	official	IUIC Russia
+161	IUICBuffalocamp	UC9iLfZCw03k33OgZnP5RR8w	classes	2290	924	official	IUIC Buffalo  Camp
+162	iuicjacksonville2.0	UCmH_nhNVBIkdLWaISS6zZ5g	classes	2250	176	official	IUIC Jacksonville 2.0
+163	iuicdenver2	UCFtbdIjs0t7NqE3WzQ1IrhQ	classes	2230	490	official	IUIC Denver Two
+164	iuicmanchesteruk	UCiyWSJNXd0EoI8LYtPkq-KA	classes	2220	264	official	Northern Region, UK
+165	iuicwestafrica	UCxCO66s99Ak6Q2vsSlqK27g	classes	2200	300	official	IUIC West Africa
+166	iuichaitiintheclassroom	UCRyk-b8Eu-e2uTk4DxyAspg	classes	2180	574	official	IUIC HAITI IN THE CLASSROOM
+167	iuicottawa	UCsY1NHTogVMpR5wLkdedCgg	classes	2160	154	official	IUIC Ottawa
+168	IUICMontgomery	UCmrbQNbATDz5j9tGPOrO7WA	classes	2070	618	official	IUIC Montgomery
+169	iuicdenverclassroom	UCwCB_fh-8328f3y0wLY3-Sw	classes	2050	340	official	IUIC DENVER IN THE CLASSROOM
+170	iuicfreeportbahamas	UC1RA8WzQDZZ6_P9CCIewjmA	classes	2050	797	official	IUIC Freeport, Bahamas
+171	iuicpresentsthequesttowake8061	UCJdDh_z25nQXsbWxkK62CSw	classes	2050	45	likely-official	IUIC Presents: The Quest to Wake up the 12 Tribes
+172	IUICSan_Jose	UCqqEmni4FGVucbKV7_5oZZg	classes	2040	894	official	IUIC San Jose
+173	IUICSPOKANE2.0	UCPB3TLAU1zJT2cpQMtisMeg	classes	2000	2300	official	IUIC SPOKANE 2.0
+174	iuicvenezuela	UC7ODdx03k7H8ixBmpYWX9hQ	classes	1980	112	official	IUIC Venezuela
+175	IUICNewHavenGreen	UCqZyMqeIxmOWkPYu7l-iF6w	classes	1950	347	official	IUIC New Haven Green
+176	IUICAlbany	UC-dlECs_XxzAuQq93TnetQQ	classes	1910	395	official	IUIC Albany New York
+177	iuicmandeville-jamaica6393	UCW4haBzlVM8PmKCY0HiZ9bg	classes	1790	198	official	IUIC MANDEVILLE - JAMAICA
+178	iuicscotland	UC8e806pSzbQ_83rpCMs67LQ	classes	1750	115	official	IUIC Scotland
+179	iuicohio3237	UC-cuXKx4XHOyaX072xEgnJA	classes	1740	8	official	IUIC OHIO
+180	IUICBrooklynCamp2.0	UCsfCD4FczMBQvderyAJGKRA	classes	1730	63	official	IUIC Brooklyn Camp 2.0
+181	iuicpoetry7259	UCLBwLG-Wj9_ZVNLhSpddiEQ	classes	1710	67	likely-official	IUIC Poetry
+182	iuicst.vincent5195	UCenxi7xOT9yArKBw5lr5Bkg	classes	1710	855	official	IUIC ST.VINCENT
+183	iuicanchorage	UC35JHRCKdDi3FJ7hTMGzD8w	classes	1660	1400	official	IUIC ANCHORAGE ALASKA
+184	iuichouston2.0	UCPySNqdtL9JQxvDGXlB9ecw	classes	1660	1300	official	IUIC Houston 2.0
+185	IUICSanDiego2.0	UCWsbMJ08FYSDDPLqtq8ftCA	classes	1600	725	official	IUIC San Diego 2
+186	IUICMontserrat	UCHkFdxTUZ4c8ZgI9k9z1p3w	classes	1560	9	official	IUIC Montserrat
+187	IUICCapeVerdeSãoTomé	UCOl7orjzSvwUW2DeZD569Sg	classes	1530	44	official	IUIC Cape Verde & São Tomé
+188	IUICClevelandIntheClassr-ti8qz	UCBmVSEsSevUjgNj3aLWHQUQ	classes	1520	39	official	IUIC Cleveland In the Classroom
+189	iuic_peru	UCg_WaDwoekZv1ipE0yrO9bA	classes	1490	92	official	IUIC Peru
+190	iuicmexico4068	UCCEZHeXfDFhY-jMXWzrm6kQ	classes	1490	0	official	IUIC Mexico
+191	IUICBelgium	UCssWCvsCo5cgAMJddrEhDHQ	classes	1450	316	official	IUIC Belgium
+192	iuicedmonton	UCD97YrpQBnATt7e8u3YKt1A	classes	1390	204	official	IUIC Edmonton, Canada
+193	iuicfloridaevents8382	UC4GLXaSOlk1DL-9JOn1ag0w	classes	1390	10	official	IUIC Florida Events
+194	IUICCongo	UCOknVI7HR6sLh0mf0vfLcOw	classes	1380	187	official	IUIC Congo
+195	iuicdetroitintheclassroom615	UCu1xSUjMfcapwTwwcsuDs2Q	classes	1350	206	official	IUIC Detroit #2
+196	iuicsavannah6354	UC3Eb-uqVxE9mSgVUxw4tE-g	classes	1300	0	official	IUIC Savannah
+197	IUICBrasil	UC7XdUBCkuaOgSGTYe3I4UKQ	classes	1290	241	official	IUIC Brasil
+198	iuicoklahoma2.0	UCbFaGHw96ylKfOvNcKm1rRQ	classes	1230	17	official	IUICOklahoma 2.0
+199	IUICGhana2	UCKuAc6jNCdZ6qVkbT0Wal3A	classes	1220	32	official	IUIC Ghana 2.0
+200	IUICMississippiBurning2	UC234mI4Hyx-RPSO_CYHolOg	classes	1210	115	official	IUIC Mississippi Burning 2
+201	IUICGreensboro	UCfVChCfMoHLO8CfE2cJxGTg	classes	1180	340	official	IUIC Greensboro, NC
+202	IUICSTLUCIA144	UC9Nm1i68fpCfvjh7wV1mEnQ	classes	1180	403	official	IUIC ST_LUCIA
+203	IUICStocktonCamp	UCbnkwgpO-QpviDWJTdYHbRw	classes	1180	885	official	IUIC Stockton
+204	IUICMONTANA	UCZEvoO1OKBZjbyCGsRiUKww	classes	1150	87	official	IUIC MONTANA
+205	Iuic.Nebraska	UCD5r7Mlq0zZoUbClkz93m0g	classes	1140	1700	official	IUIC Nebraska
+206	IsraelUnidoEnCristoDos	UCqNnICfzjg8CO2uOGKSzRSg	classes	1110	230	official	ISRAELUNIDOenCRISTO Dos
+207	iuicdallasespanol	UC-JuqbwrA1UhYRHwdUE7CGw	classes	1090	117	official	IUIC Dallas Español
+208	IUICTorontoInTheClassroom1	UC_odvIfH6x-QiK1kdjmd5ww	classes	1090	144	official	IUIC Toronto In The Classroom
+209	iuictanzania	UCeuNRypOvHXvverdSnNBnlg	classes	1010	322	official	IUIC Tanzania
+210	IUICMilwaukee	UCsjEmvynLlqqDJWzYXIQTMQ	classes	944	331	official	IUIC Milwaukee 2.0
+211	iuicmontegobay-jamaica4752	UCvpC7AcWnpME4C41D-Vh1VA	classes	913	108	official	IUIC MONTEGO BAY - JAMAICA
+212	IUICTurksandCaicosIslands	UC88HkVFRnqgBHcYan13RwKw	classes	907	142	official	IUIC Turks and Caicos Islands
+213	IUICFortMyers	UCqK8FMMtOH6X8h9VpqiQ9vA	classes	851	123	official	IUIC Fort Myers
+214	IUICInlandEmpire	UCcBi0cqFIkVz5CzQX4oT2ww	classes	834	503	official	IUIC Inland Empire
+215	IUICAUSTIN-g3j	UCqhrj_BXkSGhfHEuZJqXAbw	classes	826	45	official	IUIC AUSTIN
+216	iuicrhodeisland2333	UCAx5zTgUnUJtYxK8uE-pgKg	classes	823	468	official	IUIC Rhode Island
+217	iuicCuracao	UCVm60fDaTGPa9yXI9vqEVVA	classes	771	356	official	IUIC Curaçao
+218	iuicportland-jamaica9652	UCuz49CkyKP7weV_kcS12JsQ	classes	733	420	official	IUIC PORTLAND - JAMAICA
+219	iuicstkittsnevis3595	UCtm1iVCHaai75sh7Ow-IfuQ	classes	687	89	official	IUIC St Kitts & Nevis
+220	IUICAustralia	UCtm69RzIC6pRLvuErDR2EnQ	classes	602	43	official	IUIC Australia
+221	IUICRichmond	UCM04V506Ton0EshQrGeHAeQ	classes	601	27	official	IUIC Richmond
+222	IUICLEXINGTON144k	UCoZVk_mg8j7E2bj1ieDhyRA	classes	596	1200	official	IUIC LEXINGTON
+223	IUICBoostetClub	UC3LVbFO1kzXfBGJ34ryZixg	classes	561	85	likely-official	IUIC Booster Club
+224	iuicohiointheclassroom9962	UC8dRFBmBo6QA9a1ViGoB5SQ	classes	561	3	official	IUIC Ohio in the Classroom
+225	iuicneworleanstwo1787	UCuJqlfuHM1ivbqKGgg-FjUw	classes	558	517	official	IUIC NEW ORLEANS TWO
+226	IUICLOUISVILLEKYCAMP	UCCvug5MtfkNTsLDMl3grHlg	classes	550	4	official	IUICLOUISVILLEKYCAMP
+227	iuicmemphisintheclassroom1628	UC54DhO4qbXFgNzgd5s_AHfQ	classes	461	3	official	IUIC Memphis In The Classroom
+228	IUICDaytona	UCdQlUlKib7o04E_eq8Z9uXQ	classes	431	454	official	IUIC Daytona
+229	IUICVancouver	UCLi3c5N3w6UgPj4QJp-atMQ	classes	419	16	official	IUIC Vancouver, Canada
+230	IUIC-BVI	UCePGT3Cqq2h52v0hSn1SW1Q	classes	415	222	official	IUIC British Virgin Islands
+231	IUICOcala	UCrfqGBFvD7Urjt8Pvpv1MlQ	classes	389	274	official	IUIC Ocala
+232	iuictoledo9517	UCfuykEc1PV39IIkQI8d6Ufw	classes	379	12	official	IUIC Toledo
+233	iuicpapiamentuintheclassro3811	UCnq2ioSHvWbbUd2PbUE7ZRQ	classes	377	399	official	IUIC Papiamentu In the Classroom
+234	IUICMartinique-l2l	UCCJ7GyGTyvVvP2l3pCphDrw	classes	360	30	official	IUIC Martinique
+235	iuicillinoismissouri1231	UCrUy9iP-VX9_ZmpNJEXY8kQ	classes	353	10	official	IUIC Illinois/Missouri
+236	iuicaugusta2.0	UCXDNaHnoeLwo0Ssz9E2xNZg	classes	349	35	official	IUIC Augusta 2.0
+237	iuicnychq5098	UCTyp9HXICO0UvvArjHkaGVg	classes	348	0	official	IUIC NYC HQ
+238	IUICNorthDakota2.0	UCoAeJb2H_N8hn-BQbm5xKNQ	classes	346	577	official	IUIC North Dakota 2.0
+239	iuicsacramento802	UCT5b0WZQ_PbbVaqgptmbzHQ	classes	324	1	official	IUIC Sacramento
+240	SignsOfTheTImes-w4k	UCRQbrDZE6B8saWTrUSHZcWA	classes	317	20	official	Signs Of The TImes
+241	iuicdallas5191	UCpARS6unhRIhwjT6U75Vbdw	classes	310	0	official	IUIC DALLAS
+242	ReginaSaskatchewanIUIC	UCVmQEhz0vCCojPToEuX4mYw	classes	310	139	official	Regina, Saskatchewan IUIC
+243	JamaicaMontegoIUIC	UCNIvPb_wwf7_7g3XIIl0f-Q	classes	306	105	official	IUIC Montego Bay, Jamaica
+244	iuicspokane1825	UCZ8AQf86YpttnnSLEgoDcYg	classes	300	43	official	IUIC Spokane
+245	IUICBOSTONSPANISH	UCKeKhNl3Jhlo-TnaAn_-gwQ	classes	297	268	official	IUICBostonSpanish
+246	IUICLeicesterUK	UCmat-YF8jqJicoKYO0vGyyQ	classes	297	18	official	IUIC Leicester UK
+247	IUICALLENTOWN	UC8SNKQeMWoc8dDspR4GmiiA	classes	287	5	official	IUIC ALLENTOWN
+248	IUICDenverEnEspanol	UCWBLNoK51BFXky_HugOk_zA	classes	286	79	official	IUIC Denver En Espanol
+249	IUICBoston-Haiti	UC17nnubiGigHUlhAxso5TZQ	classes	279	224	official	IUIC Boston-Haiti
+250	IUICARUBA1	UC4oFsavXRRhydk7Yang0vPQ	classes	267	306	official	IUIC ARUBA
+251	iuickansascityintheclassro3816	UCpMYCA5VQ5T_jOlVrBmfD2w	classes	247	0	official	IUIC Kansas City In The Classroom
+252	iuicdayofatonement5647	UCZkrpHTy-A6Snr4BoZBdlCA	classes	232	2	likely-official	IUIC DAYOFATONEMENT
+253	iuicmusicandsabbathclasses8429	UCEf8mAYJwfwITIA5CSAGOQA	classes	231	33	likely-official	IUIC MUSIC AND SABBATH CLASSES
+254	IUICAustin2.0	UC9qONFISOOPUaCgFKR3Kghg	classes	228	65	official	Austin 2.0
+255	iuicsaintlouis526	UCHCWznK5fTwBB_YmFPa_PQw	classes	226	1	official	IUIC Saint Louis
+256	IUICCameroon2	UCmF7i49OEMxyxZz0-sjCxZQ	classes	214	61	official	IUIC Cameroon 2.0
+257	IUICSanAntonioReloaded2.0	UC1uvqlUmsR4xrO2gmdYUxlQ	classes	211	138	official	IUIC San Antonio Reloaded 2.0
+258	IUICNovaScotia	UCMJF9dFEL_tnDwfvZoH39rA	classes	208	23	official	IUIC Nova Scotia
+259	IUICCaymanIslands	UCYDKpqA62RpKLxzz4OiyltA	classes	204	81	official	IUIC Cayman Islands
+260	IUICSAVANNAH2	UCpNRIiDxhVpPxOUCaVVmfkw	classes	204	27	official	IUIC SAVANNAH 2
+261	iuic_elsalvador	UCxg1--gx91a8QeLNUuVraHg	classes	195	187	official	IUIC El Salvador
+262	iuic_panama	UCu3eQiJewoAiA6KNrVwY-xQ	classes	190	200	official	IUIC Panama
+263	IUICCostaRica	UC1xIXdhtucMHbbE8nQLxidA	classes	166	61	official	IUIC Costa Rica
+264	iuicbelgium1680	UCCWfp_1A3hVQd-nDAMxTQ1Q	classes	152	1	official	IUIC Belgium
+265	iuicorlando6683	UC_8f0YU-EQB0rPIBHVOLTEQ	classes	139	1	official	IUIC ORLANDO
+266	IUICEcuador	UCXpipWmtQlQfv0IZbodnlfQ	classes	125	21	official	IUIC Ecuador
+267	iuic-atlcamp1015	UCBqyXnL7tf-e9Kfml2rQZ8w	classes	114	1	official	IUIC-ATL Camp101
+268	iuiceditors554	UCpyp01KIm3o74g8Q1sdWJPA	classes	113	0	likely-official	Iuic Editors
+269	IUICAbaco	UCeXy6vAtds22czNdE5UCCZA	classes	109	22	official	IUIC Abaco
+270	IUICBermuda2.0	UCdebCFoDzK1UzPl9Jz4kMxw	classes	107	6	official	IUIC Bermuda 2.0
+271	IUICIndianOcean	UCnQSKKOR8dgoEc6CrMjOrZQ	classes	90	44	official	IUIC Indian Ocean
+272	iuicdarkages4486	UCtL-qXYR_wbwM_dhWgOEx1A	classes	88	0	likely-official	IUIC DARK AGES
+273	iuicaccra	UCwTFPpu1DLR2NYDQhd6hniQ	classes	76	68	official	IUIC Accra
+274	iuickumasi	UCNo9jyKo6zrFgsw9cKJnhzw	classes	76	58	official	IUIC Kumasi
+275	iuicbatonrouge2.0	UCd8uBGe3KzyZba-4k0s_LwA	classes	72	17	official	IUIC Baton Rouge 2.0
+276	IUICDENVERUNLISTED	UCZymRBDVOWVM0GQsJYP5KTQ	classes	67	0	official	IUIC DENVERUNLISTED UPLOADS
+277	iuichealthwellness5286	UCHPQZL1VOEiyv5le8akST6g	classes	67	0	likely-official	IUIC HEALTH & WELLNESS
+278	IUICColumbusOH	UCFbrebg_cJfxrDrgS1K8p4w	classes	66	0	official	IUIC Columbus, OH
+279	iuicottawa7082	UCKsvHqxdeBwEhr8kxxQffLA	classes	65	0	official	IUIC Ottawa
+280	IUICCedarRapidsIA	UCNMgWIIZDwlDouzasaJ5tHQ	classes	64	90	official	IUIC  Cedar Rapids IA
+281	iuicdayton2312	UCdKCDLsNHP-LAJ3s-B8mG1Q	classes	62	0	official	IUIC Dayton
+282	IUICSPGMO	UCN5RLZ1P9l5Mr_Amj5CrX9Q	classes	60	26	official	IUIC Springfield_MO
+283	iuicsandiego176	UCXupjl8GBHsuLlG7t56xXAw	classes	56	0	official	IUIC San Diego
+284	IUICLubbock2.0	UCzjjWMNApjyfFSaKhnWIKmw	classes	55	42	official	IUIC Lubbock 2.0
+285	IUICPittsburgh2.0	UCebwSgdRVfq17K7-JM3UOOw	classes	54	37	official	IUIC Pittsburgh 2.0
+286	iuicatlantaeditors	UCPQBz6MgTg_ujS1BXafSBDg	classes	48	0	official	IUIC Atlanta Editors
+287	iuicbelize2822	UCj_SEAmSwRApC2n3b2neUYQ	classes	48	1	official	IUIC Belize
+288	IUICRaleighAV	UCYu-5gNIUuN0widj6RI19IQ	classes	40	0	official	IUIC Raleigh AV
+289	IUICSouthAfrica2	UCP20tgH-53WDI-ypulVX1sQ	classes	40	7	official	IUIC South Africa 2
+290	iuicatlantait9845	UCf9b9KTv0zHFmKHdo9wj5nQ	classes	38	62	official	IUIC ATLANTA IT
+291	iuicequatorialguinea	UCcMGEXLK1YUA95t-NHZVdxg	classes	37	0	official	IUIC Equatorial Guinea
+292	IUICPortugal2	UCtnL4HDIPsTFsuftEA-TDsw	classes	35	147	official	IUIC Portugal 2.0
+293	seattleiuic5529	UCEiZgKt1SgAwMABMbYOPGGQ	classes	33	3	official	Seattle IUIC
+294	IUICBelizeTwo	UC5coPeCZM0Z4ShxGbojZHRw	classes	20	22	official	IUIC Belize 2
+295	IUICBoston-IT	UCtYxVKJFSbD-tqB1hQ7xSQg	classes	19	1	official	IUIC Boston - IT
+296	connecticutiuic813	UCvi9MeQ5hDkQo9RLx3XE6uw	classes	15	1	official	Connecticut IUIC
+297	SayingOfTheSeers2	UCvvwD1jv9fzsk-tHhs7q4kA	classes	13	11	likely-official	IUIC Kansas City 2.0
+298	IUICMILWAUKEE144	UC9hQpsTiC8P4Hi0sS9uJWYw	classes	8	1	official	IUIC MILWAUKEE
+299	IUICORLANDOEDITING	UCRkyEu0GNAynSrNVge60qrg	classes	8	1	official	IUIC ORLANDO EDITING
+300	IUICSpringfieldMO	UCWGgh0JMtfWhTTjjVlqtr9A	classes	7	50	official	IUIC Springfield MO
+301	IUICVenezuela2.0	UCWMXuxkzwMhgh2wMtJmy9VQ	classes	7	19	official	IUIC Venezuela
+302	IUICATX	UCDnwjPQlulVl_GfNAKjzFOg	classes	3	1	official	IUIC ATX
+303	IsraelUnitedInChristMalawi	UCALD-RBe7KCvNMx6GM_Q0jA	classes	2	1	official	Israel United In Christ Malawi
+304	iuiccolumbiaisraelunitedin2306	UCxfZvugCxOLDJ4VgjLBCp4w	classes	1	2	official	IUIC Columbia Israel United In Christ
