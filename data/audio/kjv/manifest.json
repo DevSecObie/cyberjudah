@@ -713,11 +713,28 @@
       "duration": 4034.94,
       "sha1": "46a66c215502dbcc268b258de6ff9d957e230a13",
       "bytes": 64563113,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 24 verses need listening review. Noise/volume need listening review.",
+      "status": "partial-alignment",
+      "timingFiles": [
+        "michael-armenta/exodus/23.json",
+        "michael-armenta/exodus/24.json",
+        "michael-armenta/exodus/25.json",
+        "michael-armenta/exodus/26.json",
+        "michael-armenta/exodus/28.json",
+        "michael-armenta/exodus/29.json",
+        "michael-armenta/exodus/30.json",
+        "michael-armenta/exodus/31.json",
+        "michael-armenta/exodus/32.json",
+        "michael-armenta/exodus/33.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_008_kjv_128kb.mp3"
+      ],
+      "alignmentErrors": [
+        {
+          "chapter": 27,
+          "reason": "Verse 7: invalid/overlapping timing 55.82–55.82; Verse 7: implausibly short timing (below 0.12 seconds per word); Verse 8: invalid/overlapping timing 55.82–55.82; Verse 8: implausibly short timing (below 0.12 seconds per word)"
+        }
       ]
     },
     {
@@ -746,12 +763,21 @@
       "duration": 2627.15,
       "sha1": "f9e7641a44ff951288950828b8baa7ef49b101c5",
       "bytes": 42038425,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 26 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/exodus/34.json",
+        "michael-armenta/exodus/35.json",
+        "michael-armenta/exodus/36.json",
+        "michael-armenta/exodus/37.json",
+        "michael-armenta/exodus/38.json",
+        "michael-armenta/exodus/39.json",
+        "michael-armenta/exodus/40.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_009_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_010_kjv_128kb.mp3",
@@ -5612,7 +5638,7 @@
       "alignmentErrors": [
         {
           "chapter": 1,
-          "reason": "Verse 36: invalid/overlapping timing 340.8–340.8"
+          "reason": "Verse 35: implausibly short timing (below 0.12 seconds per word); Verse 36: invalid/overlapping timing 340.8–340.8; Verse 36: implausibly short timing (below 0.12 seconds per word)"
         }
       ]
     },

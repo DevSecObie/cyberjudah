@@ -6,7 +6,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 | Book | Indexed chapters | Verified source candidates | Missing timings |
 | --- | --- | --- | --- |
 | Genesis | 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 | Michael Armenta | 9, 35 |
-| Exodus | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | Michael Armenta | 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 |
+| Exodus | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 | Michael Armenta | 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 27 |
 | Leviticus | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 |
 | Numbers | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 |
 | Deuteronomy | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 |
@@ -89,7 +89,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 ## Listening review
 
-580 of 4353 indexed verses need listening review.
+630 of 4933 indexed verses need listening review.
 Active flags: ASR agreement below 90%, duration outside 0.15–1.0 seconds/word, or at least three consecutive zero-duration words. Timings below 0.12 seconds/word are withheld.
 Raw word confidence remains in `audit`; earlier broad flags remain in `previousChecks` and are not silently discarded.
 
@@ -297,6 +297,57 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Exodus 20 (Michael Armenta): chapter withheld — Opening/closing scripture anchor uncertain; listening review required.
 - Exodus 21 (Michael Armenta): chapter withheld — Opening/closing scripture anchor uncertain; listening review required.
 - Exodus 22 (Michael Armenta): chapter withheld — Opening/closing scripture anchor uncertain; listening review required.
+- Exodus 27 (Michael Armenta): chapter withheld — Verse 7: invalid/overlapping timing 55.82–55.82; Verse 7: implausibly short timing (below 0.12 seconds per word); Verse 8: invalid/overlapping timing 55.82–55.82; Verse 8: implausibly short timing (below 0.12 seconds per word).
+- Exodus 24:9 (Michael Armenta): 4 consecutive words have no duration.
+- Exodus 25:5 (Michael Armenta): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
+- Exodus 25:18 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 25:25 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Exodus 25:30 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Exodus 25:38 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 26:14 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Exodus 26:15 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Exodus 26:33 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- Exodus 28:6 (Michael Armenta): ASR differs from source text (word agreement 72%); listen for skip/addition/misread or ASR error.
+- Exodus 28:13 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Exodus 28:14 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Exodus 28:25 (Michael Armenta): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- Exodus 29:40 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- Exodus 30:1 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Exodus 30:2 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Exodus 30:3 (Michael Armenta): ASR differs from source text (word agreement 64%); listen for skip/addition/misread or ASR error.
+- Exodus 30:5 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Exodus 30:12 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Exodus 30:13 (Michael Armenta): ASR differs from source text (word agreement 61%); listen for skip/addition/misread or ASR error.
+- Exodus 30:24 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Exodus 30:34 (Michael Armenta): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; 6 consecutive words have no duration.
+- Exodus 32:9 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 33:20 (Michael Armenta): 5 consecutive words have no duration.
+- Exodus 34:22 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Exodus 35:6 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Exodus 35:7 (Michael Armenta): ASR differs from source text (word agreement 60%); listen for skip/addition/misread or ASR error.
+- Exodus 35:10 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Exodus 35:13 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Exodus 35:26 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 36:12 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error; 8 consecutive words have no duration.
+- Exodus 36:20 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Exodus 36:28 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- Exodus 37:4 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Exodus 37:12 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 37:23 (Michael Armenta): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- Exodus 38:4 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Exodus 39:6 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 39:10 (Michael Armenta): 3 consecutive words have no duration.
+- Exodus 39:12 (Michael Armenta): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Exodus 39:18 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Exodus 39:23 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- Exodus 39:24 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Exodus 39:36 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Exodus 39:39 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- Exodus 39:40 (Michael Armenta): 7 consecutive words have no duration.
+- Exodus 40:1 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Exodus 40:2 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Exodus 40:3 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Exodus 40:4 (Michael Armenta): ASR differs from source text (word agreement 51%); listen for skip/addition/misread or ASR error.
 - Tobit 1:1 (Glenn O'Brien): ASR differs from source text (word agreement 68%); listen for skip/addition/misread or ASR error.
 - Tobit 1:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
 - Tobit 1:3 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
@@ -484,7 +535,7 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - History of Susanna 1:1 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - History of Susanna 1:29 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - History of Susanna 1:58 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Bel and the Dragon 1 (David Shamp): chapter withheld — Verse 36: invalid/overlapping timing 340.8–340.8.
+- Bel and the Dragon 1 (David Shamp): chapter withheld — Verse 35: implausibly short timing (below 0.12 seconds per word); Verse 36: invalid/overlapping timing 340.8–340.8; Verse 36: implausibly short timing (below 0.12 seconds per word).
 - 1 Maccabees 1:2 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:7 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:18 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
