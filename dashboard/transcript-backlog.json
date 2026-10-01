@@ -14,15 +14,16 @@
       "videos": 1424
     },
     {
-      "age_restricted": 1,
-      "already_in_vault": 1817,
+      "age_restricted": 0,
+      "already_in_vault": 2110,
       "channel": "IUICintheClassRoom",
-      "completed": 1817,
+      "completed": 2110,
+      "completed_at": "2026-10-01T18:55:32.824359+00:00",
       "feed": "classes",
-      "no_backlog": false,
-      "no_captions": 2,
-      "progress_pct": 86.11,
-      "to_fetch": 293,
+      "no_backlog": true,
+      "no_captions": 0,
+      "progress_pct": 100.0,
+      "to_fetch": 0,
       "videos": 2110
     },
     {
@@ -63,5 +64,5 @@
       "videos": 3942
     }
   ],
-  "generated_at": "2026-10-01T13:13:36.197033+00:00"
+  "generated_at": "2026-10-01T18:55:32.894140+00:00"
 }
