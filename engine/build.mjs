@@ -530,6 +530,11 @@ function introOf(body) {
   if (text.length <= 600) return text;
   return text.slice(0, 600).replace(/\s+\S*$/, "") + "…";
 }
+// The chapters a note says its class opened (its "Opens" line), in the class's order.
+function opensOf(body) {
+  const line = /<span class="opens">([\s\S]*?)<\/span>/.exec(body ?? "")?.[1] ?? "";
+  return [...line.matchAll(/\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)\)/g)].map(([, label, slug, ch]) => ({ label, slug, chapter: +ch }));
+}
 const latest = {};
 const feedRowsByKind = {};
 for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out: "classes.json", label: "class" },
@@ -578,6 +583,7 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
       estimated: !!n.dateEstimated,
       videoId: id || null,
       intro: introOf(n.body),
+      opens: opensOf(n.body),
     };
   });
   writeJson(path.join(SEARCH, feed.out), rows);
