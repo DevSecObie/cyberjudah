@@ -67,6 +67,39 @@ def key(word):
     return re.sub(r"[^a-z']", "", word.lower())
 
 
+_lower = None
+def common_words():
+    """Words the KJV text also writes in lower case ("he", "people"): ordinary words, not names."""
+    global _lower
+    if _lower is None:
+        _lower = set()
+        for name in os.listdir(os.path.join(ROOT, "data", "bible")):
+            doc = json.load(open(os.path.join(ROOT, "data", "bible", name), encoding="utf-8")) if name.endswith(".json") else None
+            if not isinstance(doc, dict) or "chapters" not in doc:
+                continue
+            for verses in doc["chapters"].values():
+                for v in verses:
+                    _lower.update(key(w) for w in re.findall(r"\b[a-z][a-z'\-]*", v if isinstance(v, str) else v.get("text", "")))
+    return _lower
+
+
+_books = {}
+def verse_words(refs):
+    """For the KJV verses given as 'slug/chapter/verse': each word (keyed as above) and in how many of them it is."""
+    out = {}
+    for ref in refs:
+        slug, c, v = ref.split("/")
+        if slug not in _books:
+            f = os.path.join(ROOT, "data", "bible", f"{slug}.json")
+            _books[slug] = json.load(open(f, encoding="utf-8")).get("chapters", {}) if os.path.exists(f) else {}
+        verses = _books[slug].get(c) or []
+        text = verses[int(v) - 1] if 0 < int(v) <= len(verses) else ""
+        text = text if isinstance(text, str) else text.get("text", "")
+        for k in {key(w.replace("–", "-")) for w in re.findall(r"[A-Za-z][A-Za-z'\-–]*[A-Za-z]|[A-Za-z]", text)}:
+            out[k] = out.get(k, 0) + 1
+    return out
+
+
 def kjv_forms(shown):
     """The King James forms in one of TIPNR's spellings: 'Aeneas =ESV,NIV; Eneas =KJV' -> ['Eneas'];
     'Avims,Avites =KJV' -> both; a plain name is every version's, the KJV's included."""
@@ -78,6 +111,19 @@ def kjv_forms(shown):
         forms, _, versions = part.partition("=")
         if "KJV" in [v.strip() for v in versions.split(",")]:
             out += named(forms)
+    return out
+
+
+def labelled_forms(shown):
+    """Each spelling in one of TIPNR's entries, with whether TIPNR marks it as the KJV's:
+    'Gideon =ESV,NIV; Gedeon =KJV' -> [('Gideon', False), ('Gedeon', True)]."""
+    named = lambda forms: [f.strip() for f in forms.split(",") if re.search(r"[A-Za-z]", f)]
+    if "=" not in shown:
+        return [(f, True) for f in named(shown)]
+    out = []
+    for part in shown.split(";"):
+        forms, _, versions = part.partition("=")
+        out += [(f, "KJV" in [v.strip() for v in versions.split(",")]) for f in named(forms)]
     return out
 
 
@@ -119,12 +165,26 @@ def as_written(form, words):
     return form[:1].upper() + form[1:], min(n for _, n in found)
 
 
-def kjv_names(person, words, original=None):
+DIVINE = {"god", "lord", "jesus", "christ", "jehovah", "jah", "messiah", "messias"}
+
+
+def kjv_names(person, words, original=None, others=None):
     """A person's names as the KJV spells them, the one its text uses most first. Where none of
     the KJV forms is in the text, the record's own name if the text has it, else the first."""
     forms = []
+    # A spelling TIPNR gives to other versions is still the KJV's when the KJV's own verses about
+    # this person use it: Gideon is "Gideon" in Judges and "Gedeon" in Hebrews 11:32.
+    own = verse_words(person.get("verses", []))
+    def kjv_too(f):
+        # One proper name the KJV capitalises, in two or more of this person's own verses, and not
+        # a divine name or someone else's name ("Jesus" for Barabbas, "Hermes" for Hermas).
+        k = key(f)
+        return (" " not in f and own.get(k, 0) >= 2 and k not in common_words()
+                and k not in DIVINE and k not in (others or set()))
     for shown in person["names"]:
-        for f in kjv_forms(shown):
+        for f, marked in labelled_forms(shown):
+            if not marked and not kjv_too(f):
+                continue
             # As the text writes it; where it only has it as a people's name, that form
             # ("Emim" -> "Emims", "Nympha" -> "Nymphas", "Nehelam" -> "Nehelamite").
             if not as_written(f, words)[1]:
@@ -207,8 +267,13 @@ def apply_kjv(people):
     for p in people:
         p.setdefault("id_name", p["name"])
     unnamed = []
+    # Each person's own id name, so another version's spelling that is someone else's name is not taken.
+    id_names = {}
     for p in people:
-        name, names = kjv_names(p, words, p["id_name"])
+        id_names.setdefault(key(p["id_name"]), set()).add(p["id"])
+    for p in people:
+        others = {k for k, ids in id_names.items() if ids - {p["id"]}} - {key(p["id_name"])}
+        name, names = kjv_names(p, words, p["id_name"], others)
         if name is None:
             unnamed.append(p)
             continue
