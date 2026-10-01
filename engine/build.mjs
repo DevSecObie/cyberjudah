@@ -501,7 +501,7 @@ for (const n of notes) {
 // raw transcripts in history/transcripts are the backlog the notes are written from and
 // are never published; an episode page carries the note and the recording, nothing else.
 const historyRows = L.history.filter((h) => h.noted).map((h) => ({ slug: h.slug, title: h.title, url: h.url, episode: h.episode, date: h.date, year: h.year, duration: h.duration, videoId: h.videoId,
-  thumb: `https://i.ytimg.com/vi/${h.videoId}/hqdefault.jpg`, teacher: h.teacher, topics: h.topics, summary: h.description }));
+  thumb: `https://i.ytimg.com/vi/${h.videoId}/hqdefault.jpg`, teacher: h.teacher, topics: h.topics, summary: h.description, intro: introOf(h.body) }));
 writeJson(path.join(API, "history", "index.json"), historyRows);
 console.error(`history: ${historyRows.length} episodes written up, ${L.history.length - historyRows.length} transcripts in the backlog`);
 
@@ -514,6 +514,22 @@ for (const [file, dir] of [["crossrefs.json", "xref"], ["web-translation.json", 
 }
 
 /* ---------------- browse feeds with thumbnails and book weights ---------------- */
+// A note's opening ("## Introduction"), as plain text for a feed preview: its timestamps, links
+// and emphasis taken out, the words kept whole, cut at a word near 600 characters; the app links
+// to the full note.
+function introOf(body) {
+  const m = /^## Introduction[ \t]*\n([\s\S]*?)(?=\n## |\n<!--|(?![\s\S]))/m.exec(body ?? "");
+  if (!m) return "";
+  const text = m[1]
+    .replace(/^>\s?/gm, "")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\*?\[\[\d+(?::\d+){1,2}\]\([^)]*\)\]\*?/g, " ")
+    .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/[*_`]+/g, "")
+    .replace(/\s+/g, " ").trim();
+  if (text.length <= 600) return text;
+  return text.slice(0, 600).replace(/\s+\S*$/, "") + "…";
+}
 const latest = {};
 const feedRowsByKind = {};
 for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out: "classes.json", label: "class" },
@@ -561,6 +577,7 @@ for (const feed of [{ list: classNotes, prefix: "/classes/", dir: "classes", out
       topics: n.topics ?? [],
       estimated: !!n.dateEstimated,
       videoId: id || null,
+      intro: introOf(n.body),
     };
   });
   writeJson(path.join(SEARCH, feed.out), rows);
