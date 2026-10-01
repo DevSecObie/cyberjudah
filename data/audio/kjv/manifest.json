@@ -37,7 +37,7 @@
       "duration": 3834.4,
       "sha1": "0ae7a05d12aa510694926d03487bfe9e88c45925",
       "bytes": 61354441,
-      "quality": "Forced aligned against repository KJV; 49 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 54 verses need listening review. Noise/volume need listening review.",
       "status": "partial-alignment",
       "timingFiles": [
         "michael-armenta/genesis/1.json",
@@ -45,6 +45,7 @@
         "michael-armenta/genesis/3.json",
         "michael-armenta/genesis/4.json",
         "michael-armenta/genesis/5.json",
+        "michael-armenta/genesis/6.json",
         "michael-armenta/genesis/7.json",
         "michael-armenta/genesis/8.json",
         "michael-armenta/genesis/10.json",
@@ -58,12 +59,123 @@
       ],
       "alignmentErrors": [
         {
-          "chapter": 6,
-          "reason": "Verse 12: 1.72s is too short to speak 21 words; re-align or withhold"
-        },
-        {
           "chapter": 9,
-          "reason": "Verse 29: 0.64s is too short to speak 15 words; re-align or withhold"
+          "reason": "Verse 20: implausibly short timing (below 0.12 seconds per word)",
+          "previousChecks": [
+            {
+              "verse": 1,
+              "check": true,
+              "reasons": [
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 2,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 4,
+              "check": true,
+              "reasons": [
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 10,
+              "check": true,
+              "reasons": [
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 11,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 14,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 15,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 16,
+              "check": true,
+              "reasons": [
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 18,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 19,
+              "check": true,
+              "reasons": [
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 20,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error"
+              ]
+            },
+            {
+              "verse": 23,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 27,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+                "A word has no duration"
+              ]
+            },
+            {
+              "verse": 29,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -96,7 +208,7 @@
       "duration": 3618.1,
       "sha1": "8aba2b49f9e9b028df6495f31f37fe1300f0c332",
       "bytes": 57893739,
-      "quality": "Forced aligned against repository KJV; 21 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 24 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "michael-armenta/genesis/15.json",
@@ -142,7 +254,7 @@
       "duration": 3674.55,
       "sha1": "10a5e87281d27c5c286aefc1c9c0a394f6b08c97",
       "bytes": 58796917,
-      "quality": "Forced aligned against repository KJV; 26 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 32 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "michael-armenta/genesis/25.json",
@@ -189,7 +301,7 @@
       "duration": 4139.32,
       "sha1": "ed5336c57881c4c4acbf5adf12783883c41bb517",
       "bytes": 66233278,
-      "quality": "Forced aligned against repository KJV; 42 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 49 verses need listening review. Noise/volume need listening review.",
       "status": "partial-alignment",
       "timingFiles": [
         "michael-armenta/genesis/33.json",
@@ -200,6 +312,7 @@
         "michael-armenta/genesis/39.json",
         "michael-armenta/genesis/40.json",
         "michael-armenta/genesis/41.json",
+        "michael-armenta/genesis/42.json",
         "michael-armenta/genesis/43.json"
       ],
       "mirrors": [
@@ -208,11 +321,187 @@
       "alignmentErrors": [
         {
           "chapter": 35,
-          "reason": "Verse 17: 2.04s is too short to speak 25 words; re-align or withhold"
-        },
-        {
-          "chapter": 42,
-          "reason": "Verse 8: 0.34s is too short to speak 10 words; re-align or withhold"
+          "reason": "Verse 17: implausibly short timing (below 0.12 seconds per word)",
+          "previousChecks": [
+            {
+              "verse": 1,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 2,
+              "check": true,
+              "reasons": [
+                "A word has no duration"
+              ]
+            },
+            {
+              "verse": 3,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 6,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 7,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error"
+              ]
+            },
+            {
+              "verse": 8,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error"
+              ]
+            },
+            {
+              "verse": 9,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error"
+              ]
+            },
+            {
+              "verse": 10,
+              "check": true,
+              "reasons": [
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 11,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 12,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 13,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 96%); listen for skip/addition/misread or ASR error",
+                "A word has no duration"
+              ]
+            },
+            {
+              "verse": 14,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+                "A word has no duration"
+              ]
+            },
+            {
+              "verse": 15,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error"
+              ]
+            },
+            {
+              "verse": 16,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 17,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 32%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 18,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error",
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 19,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 20,
+              "check": true,
+              "reasons": [
+                "A word has no duration",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 23,
+              "check": true,
+              "reasons": [
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 26,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 27,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            },
+            {
+              "verse": 28,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error"
+              ]
+            },
+            {
+              "verse": 29,
+              "check": true,
+              "reasons": [
+                "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+                "Low-confidence word alignment"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -242,7 +531,7 @@
       "duration": 2525.74,
       "sha1": "0e86b86475d6f989c1005960224e05a78da1bae5",
       "bytes": 40415940,
-      "quality": "Forced aligned against repository KJV; 10 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 12 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "michael-armenta/genesis/44.json",
@@ -287,12 +576,24 @@
       "duration": 3597.2,
       "sha1": "88f8f343a9f2e5b543feb5d0b5e40ee6c9787bc0",
       "bytes": 57559339,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 19 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/exodus/1.json",
+        "michael-armenta/exodus/2.json",
+        "michael-armenta/exodus/3.json",
+        "michael-armenta/exodus/4.json",
+        "michael-armenta/exodus/5.json",
+        "michael-armenta/exodus/6.json",
+        "michael-armenta/exodus/7.json",
+        "michael-armenta/exodus/8.json",
+        "michael-armenta/exodus/9.json",
+        "michael-armenta/exodus/10.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_006_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_007_kjv_128kb.mp3",
@@ -326,10 +627,60 @@
       "sha1": "f3d53aab9bab28760de9bd69928225e9efee817c",
       "bytes": 60909314,
       "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
+      "status": "alignment-failed",
       "timingFiles": [],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_007_kjv_128kb.mp3"
+      ],
+      "alignmentErrors": [
+        {
+          "chapter": 11,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 12,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 13,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 14,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 15,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 16,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 17,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 18,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 19,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 20,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 21,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        },
+        {
+          "chapter": 22,
+          "reason": "Opening/closing scripture anchor uncertain; listening review required"
+        }
       ]
     },
     {
@@ -4591,7 +4942,7 @@
       "duration": 274.23,
       "sha1": "7c0a200e1d1248b7a265b88758b96c4125379748",
       "bytes": 4392454,
-      "quality": "Forced aligned against repository KJV; 13 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 14 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/1.json"
@@ -4672,7 +5023,7 @@
       "duration": 280.63,
       "sha1": "e65aadac545afb393f0c5035b41543bba3ea0585",
       "bytes": 4494822,
-      "quality": "Forced aligned against repository KJV; 10 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 11 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/4.json"
@@ -4699,8 +5050,8 @@
       "duration": 217.81,
       "sha1": "f7fddcf67bb4094e363a70da1ec8a7a1e836dc7a",
       "bytes": 3489630,
-      "quality": "Forced aligned against repository KJV; 0 verses need listening review. Noise/volume need listening review.",
-      "status": "partial-alignment",
+      "quality": "Forced aligned against repository KJV; 22 verses need listening review. Noise/volume need listening review.",
+      "status": "alignment-failed",
       "timingFiles": [],
       "alignmentErrors": [
         {
@@ -4729,7 +5080,7 @@
       "duration": 227.55,
       "sha1": "e8aab541bc8009710d9ea49da53f547317046bea",
       "bytes": 3645561,
-      "quality": "Forced aligned against repository KJV; 6 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 7 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/6.json"
@@ -4891,7 +5242,7 @@
       "duration": 196.34,
       "sha1": "052644e1eae3674978162a9fe0d464739a0f5103",
       "bytes": 3146068,
-      "quality": "Forced aligned against repository KJV; 7 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 8 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "glenn-obrien/tobit/12.json"
@@ -4918,8 +5269,8 @@
       "duration": 211.59,
       "sha1": "e3f37d70906c764303f2223171bc744c21c0588a",
       "bytes": 3390156,
-      "quality": "Forced aligned against repository KJV; 0 verses need listening review. Noise/volume need listening review.",
-      "status": "partial-alignment",
+      "quality": "Forced aligned against repository KJV; 16 verses need listening review. Noise/volume need listening review.",
+      "status": "alignment-failed",
       "timingFiles": [],
       "alignmentErrors": [
         {
@@ -4957,7 +5308,7 @@
     },
     {
       "id": "bookofjudith_2007_librivox/bookofjudith_01_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "judith",
       "chapters": [
@@ -4979,7 +5330,7 @@
       "duration": 1003.02,
       "sha1": "647af5d7344ba57872660b755c6cfc440b0a14ef",
       "bytes": 16053065,
-      "quality": "Forced aligned against repository KJV; 16 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 17 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/judith/1.json",
@@ -4988,11 +5339,12 @@
         "ancientchristian/judith/4.json",
         "ancientchristian/judith/5.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "bookofjudith_2007_librivox/bookofjudith_02_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "judith",
       "chapters": [
@@ -5023,11 +5375,12 @@
         "ancientchristian/judith/9.json",
         "ancientchristian/judith/10.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "bookofjudith_2007_librivox/bookofjudith_03_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "judith",
       "chapters": [
@@ -5060,11 +5413,12 @@
         "ancientchristian/judith/15.json",
         "ancientchristian/judith/16.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "wisdom_of_solomon_kjv_1407_librivox/wisdomofsolomon_01_kjv_128kb.mp3",
-      "reader": "A LibriVox Volunteer",
+      "reader": "LibriVox volunteer",
       "readerId": "librivox-volunteer",
       "slug": "wisdom-of-solomon",
       "chapters": [
@@ -5088,7 +5442,7 @@
       "duration": 1594.93,
       "sha1": "2e4945ae2a34ff4ee6ec0f17d25236e93138efe6",
       "bytes": 25523602,
-      "quality": "Forced aligned against repository KJV; 4 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 7 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "librivox-volunteer/wisdom-of-solomon/1.json",
@@ -5099,11 +5453,12 @@
         "librivox-volunteer/wisdom-of-solomon/6.json",
         "librivox-volunteer/wisdom-of-solomon/7.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "A LibriVox Volunteer"
     },
     {
       "id": "wisdom_of_solomon_kjv_1407_librivox/wisdomofsolomon_02_kjv_128kb.mp3",
-      "reader": "A LibriVox Volunteer",
+      "reader": "LibriVox volunteer",
       "readerId": "librivox-volunteer",
       "slug": "wisdom-of-solomon",
       "chapters": [
@@ -5126,7 +5481,7 @@
       "duration": 1377.1,
       "sha1": "b503e78f236a537778d7f2c34612d70c08e16f1d",
       "bytes": 22038241,
-      "quality": "Forced aligned against repository KJV; 8 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 9 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "librivox-volunteer/wisdom-of-solomon/8.json",
@@ -5136,11 +5491,12 @@
         "librivox-volunteer/wisdom-of-solomon/12.json",
         "librivox-volunteer/wisdom-of-solomon/13.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "A LibriVox Volunteer"
     },
     {
       "id": "wisdom_of_solomon_kjv_1407_librivox/wisdomofsolomon_03_kjv_128kb.mp3",
-      "reader": "A LibriVox Volunteer",
+      "reader": "LibriVox volunteer",
       "readerId": "librivox-volunteer",
       "slug": "wisdom-of-solomon",
       "chapters": [
@@ -5163,7 +5519,7 @@
       "duration": 1648.64,
       "sha1": "8192b55ed96d5fa7b13507f7cd7d367e07b9098c",
       "bytes": 26382927,
-      "quality": "Forced aligned against repository KJV; 10 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 12 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "librivox-volunteer/wisdom-of-solomon/14.json",
@@ -5173,7 +5529,8 @@
         "librivox-volunteer/wisdom-of-solomon/18.json",
         "librivox-volunteer/wisdom-of-solomon/19.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "A LibriVox Volunteer"
     },
     {
       "id": "additions_daniel_ds_librivox/danieladditions_01_kjv.mp3",
@@ -5195,7 +5552,7 @@
       "duration": 626.69,
       "sha1": "6a535078c51e784ee2aabf945dbe53e78c578396",
       "bytes": 10027091,
-      "quality": "Forced aligned against repository KJV; 13 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 14 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "david-shamp/song-of-the-three-children/1.json"
@@ -5288,7 +5645,7 @@
     },
     {
       "id": "1maccabees_2005_librivox/maccabees1_01_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "1-maccabees",
       "chapters": [
@@ -5310,7 +5667,7 @@
       "duration": 2720.18,
       "sha1": "d51c9a8d0b7c0a0f52cc50b98f3d252d6dde1ca8",
       "bytes": 43527612,
-      "quality": "Forced aligned against repository KJV; 41 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 46 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/1-maccabees/1.json",
@@ -5319,11 +5676,12 @@
         "ancientchristian/1-maccabees/4.json",
         "ancientchristian/1-maccabees/5.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "1maccabees_2005_librivox/maccabees1_02_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "1-maccabees",
       "chapters": [
@@ -5345,7 +5703,7 @@
       "duration": 2868.17,
       "sha1": "facd37395bac371c3512dd545ab8712845cab906",
       "bytes": 45895351,
-      "quality": "Forced aligned against repository KJV; 32 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 36 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/1-maccabees/6.json",
@@ -5354,11 +5712,12 @@
         "ancientchristian/1-maccabees/9.json",
         "ancientchristian/1-maccabees/10.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "1maccabees_2005_librivox/maccabees1_03_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "1-maccabees",
       "chapters": [
@@ -5381,7 +5740,7 @@
       "duration": 2789.88,
       "sha1": "4b74f93c2b84fd9e40376053e8a66bb16fc8bde9",
       "bytes": 44642727,
-      "quality": "Forced aligned against repository KJV; 57 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 58 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/1-maccabees/11.json",
@@ -5391,11 +5750,12 @@
         "ancientchristian/1-maccabees/15.json",
         "ancientchristian/1-maccabees/16.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "2maccabees_2005_librivox/maccabees2_01_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "2-maccabees",
       "chapters": [
@@ -5417,7 +5777,7 @@
       "duration": 1884.84,
       "sha1": "06a570b380e58805b53d2a3670c1aadcbb16ac8e",
       "bytes": 30162145,
-      "quality": "Forced aligned against repository KJV; 25 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 28 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/2-maccabees/1.json",
@@ -5426,11 +5786,12 @@
         "ancientchristian/2-maccabees/4.json",
         "ancientchristian/2-maccabees/5.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "2maccabees_2005_librivox/maccabees2_02_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "2-maccabees",
       "chapters": [
@@ -5452,7 +5813,7 @@
       "duration": 2032.64,
       "sha1": "42cfb6fdc1ab639d94774ea031a726e7caf9ac0b",
       "bytes": 32526927,
-      "quality": "Forced aligned against repository KJV; 13 verses need listening review. Noise/volume need listening review.",
+      "quality": "Forced aligned against repository KJV; 17 verses need listening review. Noise/volume need listening review.",
       "status": "needs-review",
       "timingFiles": [
         "ancientchristian/2-maccabees/6.json",
@@ -5461,11 +5822,12 @@
         "ancientchristian/2-maccabees/9.json",
         "ancientchristian/2-maccabees/10.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     },
     {
       "id": "2maccabees_2005_librivox/maccabees2_03_kjv_128kb.mp3",
-      "reader": "ancientchristian",
+      "reader": "LibriVox volunteer",
       "readerId": "ancientchristian",
       "slug": "2-maccabees",
       "chapters": [
@@ -5496,7 +5858,8 @@
         "ancientchristian/2-maccabees/14.json",
         "ancientchristian/2-maccabees/15.json"
       ],
-      "alignmentErrors": []
+      "alignmentErrors": [],
+      "catalogReader": "ancientchristian"
     }
   ],
   "alternatives": [

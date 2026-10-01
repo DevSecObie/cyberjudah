@@ -1,6 +1,6 @@
 {
   "audio": "recordings/librivox-volunteer/wisdom-of-solomon/10.m4a",
-  "reader": "A LibriVox Volunteer",
+  "reader": "LibriVox volunteer",
   "verses": [
     [
       1,
@@ -112,62 +112,770 @@
   "sourceStart": 394.74,
   "sourceEnd": 600.3,
   "textSha256": "c569d94755849777bf1e657809ee7e822429f83e53f09298d712e007ee0f39f6",
+  "auditVersion": 1,
+  "audit": [
+    {
+      "verse": 1,
+      "wordAgreement": 0.9756,
+      "secondsPerWord": 0.456,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.09538528323173523,
+        0.9894395470619202,
+        0.9963345527648926,
+        0.8973555564880371,
+        0.3058571219444275,
+        0.3000301122665405,
+        0.9980779886245728,
+        0.9982153177261353,
+        0.9900034070014954,
+        0.9585086703300476,
+        0.997275173664093,
+        0.9886947274208069,
+        0.8068024516105652,
+        0.9982206225395203,
+        0.9986581802368164,
+        0.964415967464447,
+        0.9993556141853333,
+        0.999160647392273,
+        0.9977377653121948,
+        0.9959980249404907
+      ]
+    },
+    {
+      "verse": 2,
+      "wordAgreement": 0.9333,
+      "secondsPerWord": 0.2225,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.014593938365578651,
+        0.9820069670677185,
+        0.995327353477478,
+        0.9823379516601562,
+        0.9934693574905396,
+        0.9957799911499023,
+        0.9930365681648254,
+        0.9953625202178955
+      ]
+    },
+    {
+      "verse": 3,
+      "wordAgreement": 0.9767,
+      "secondsPerWord": 0.3345,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.9339163899421692,
+        0.98408442735672,
+        0.9951227307319641,
+        0.9899070262908936,
+        0.9892310500144958,
+        0.9973853230476379,
+        0.9763475060462952,
+        0.9921727180480957,
+        0.9740564227104187,
+        0.9908303022384644,
+        0.9942876696586609,
+        0.5921805500984192,
+        0.9941907525062561,
+        0.9907169938087463,
+        0.9716367125511169,
+        0.9949591159820557,
+        0.9876245260238647,
+        0.9661986827850342,
+        0.985216498374939,
+        0.9855092167854309,
+        0.9936793446540833,
+        0.9926775693893433
+      ]
+    },
+    {
+      "verse": 4,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.3366,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.9891433119773865,
+        0.9913977384567261,
+        0.9768518805503845,
+        0.9398214817047119,
+        0.9937175512313843,
+        0.8680569529533386,
+        0.9992218017578125,
+        0.9966152310371399,
+        0.9635788202285767,
+        0.9885623455047607,
+        0.7305817008018494,
+        0.9983951449394226,
+        0.9976045489311218,
+        0.9994217157363892,
+        0.8039605021476746,
+        0.9982359409332275,
+        0.9969272017478943,
+        0.9920543432235718,
+        0.9980219602584839,
+        0.9992337226867676,
+        0.9980545043945312,
+        0.9797516465187073,
+        0.9957001209259033,
+        0.9968315958976746,
+        0.9987720847129822,
+        0.998910665512085,
+        0.9963141083717346,
+        0.998123824596405,
+        0.9976848363876343
+      ]
+    },
+    {
+      "verse": 5,
+      "wordAgreement": 0.9836,
+      "secondsPerWord": 0.4239,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.9863815307617188,
+        0.979458749294281,
+        0.9984387755393982,
+        0.6600939035415649,
+        0.9995120763778687,
+        0.999226450920105,
+        0.9977043271064758,
+        0.9225147366523743,
+        0.9887514710426331,
+        0.9753026366233826,
+        0.9953497052192688,
+        0.9956907629966736,
+        0.9972479939460754,
+        0.9897443652153015,
+        0.9921087622642517,
+        0.9969594478607178,
+        0.9488485455513,
+        0.9993059039115906,
+        0.9980183839797974,
+        0.9822240471839905,
+        0.9966744184494019,
+        0.9986336827278137,
+        0.9972118735313416,
+        0.9987601041793823,
+        0.984024167060852,
+        0.9929365515708923,
+        0.9972135424613953,
+        0.9988909363746643,
+        0.9882948398590088,
+        0.9914759397506714,
+        0.6384427547454834
+      ]
+    },
+    {
+      "verse": 6,
+      "wordAgreement": 0.9524,
+      "secondsPerWord": 0.3629,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.6002650260925293,
+        0.9961368441581726,
+        0.9972212910652161,
+        0.9986951351165771,
+        0.9893963932991028,
+        0.9954937696456909,
+        0.9960151314735413,
+        0.9950419664382935,
+        0.9439541697502136,
+        0.9598256945610046,
+        0.9980025887489319,
+        0.9952001571655273,
+        0.9971471428871155,
+        0.9906186461448669,
+        0.9616685509681702,
+        0.9980375170707703,
+        0.9969174861907959,
+        0.9964531660079956,
+        0.9958815574645996,
+        0.9304556846618652,
+        0.9954858422279358
+      ]
+    },
+    {
+      "verse": 7,
+      "wordAgreement": 0.9067,
+      "secondsPerWord": 0.3811,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.620490312576294,
+        0.9771610498428345,
+        0.996925950050354,
+        0.843289315700531,
+        0.9944846034049988,
+        0.9963197708129883,
+        0.9962862730026245,
+        0.762534499168396,
+        0.38054966926574707,
+        0.7430341839790344,
+        0.9931744933128357,
+        0.9883828163146973,
+        0.9913148283958435,
+        0.9947646856307983,
+        0.9850918650627136,
+        0.5742060542106628,
+        0.9603874683380127,
+        0.9882886409759521,
+        0.9967755675315857,
+        0.9867826700210571,
+        0.9958779811859131,
+        0.0018013318767771125,
+        0.9955542683601379,
+        0.9921524524688721,
+        0.4537886083126068,
+        0.9629504680633545,
+        0.884369969367981,
+        0.8700589537620544,
+        0.9958575367927551,
+        0.9690453410148621,
+        0.04538308084011078,
+        0.9598999619483948,
+        0.9849472045898438,
+        0.9722614884376526,
+        0.9773985147476196,
+        0.989264965057373,
+        0.9920451641082764
+      ]
+    },
+    {
+      "verse": 8,
+      "wordAgreement": 0.9167,
+      "secondsPerWord": 0.3596,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.4347893297672272,
+        0.7960443496704102,
+        0.9751127362251282,
+        0.8446659445762634,
+        0.979314386844635,
+        0.028778161853551865,
+        0.9145416021347046,
+        0.9963110089302063,
+        0.9926764965057373,
+        0.978917121887207,
+        0.9745697379112244,
+        0.9958307147026062,
+        0.9672697186470032,
+        0.9956035614013672,
+        0.985637366771698,
+        0.9962524771690369,
+        0.9943785071372986,
+        0.9932448267936707,
+        0.5435778126120567,
+        0.9561885595321655,
+        0.9946099519729614,
+        0.9669645428657532,
+        0.997357189655304,
+        0.9963127970695496,
+        0.9862755537033081,
+        0.9961439371109009,
+        0.9916254878044128,
+        0.9857945442199707,
+        0.998151957988739,
+        0.996010422706604,
+        0.9979329109191895,
+        0.9962214231491089,
+        0.9051351547241211,
+        0.9930405616760254,
+        0.872294545173645,
+        0.989624559879303,
+        0.9952483773231506,
+        0.9866466522216797,
+        0.9124553203582764,
+        0.928570568561554,
+        0.5718140006065369,
+        0.9921254515647888,
+        0.9971477389335632,
+        0.9909144639968872,
+        0.999146580696106,
+        0.9909760355949402,
+        0.9946862459182739,
+        0.9960325360298157
+      ]
+    },
+    {
+      "verse": 9,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.4,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.9064857959747314,
+        0.9419536590576172,
+        0.9837890863418579,
+        0.9963417649269104,
+        0.9926145076751709,
+        0.9929850697517395,
+        0.9936498999595642,
+        0.7599249482154846,
+        0.9919118881225586,
+        0.9832964539527893
+      ]
+    },
+    {
+      "verse": 10,
+      "wordAgreement": 0.95,
+      "secondsPerWord": 0.367,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.9461395144462585,
+        0.9939261078834534,
+        0.9664342999458313,
+        0.9926303625106812,
+        0.977820098400116,
+        0.7919937968254089,
+        0.3766731023788452,
+        0.9918973445892334,
+        0.23708979785442352,
+        0.9839969277381897,
+        0.9833016991615295,
+        0.9841290712356567,
+        0.9874556064605713,
+        0.9912126660346985,
+        0.009685706347227097,
+        0.9732741713523865,
+        0.9923266172409058,
+        0.8996071219444275,
+        0.9516412019729614,
+        0.9826377034187317,
+        0.7826352119445801,
+        0.9884387850761414,
+        0.9933805465698242,
+        0.9885815978050232,
+        0.9806071519851685,
+        0.9739198088645935,
+        0.9964693784713745,
+        0.9355137944221497,
+        0.9970889687538147,
+        0.996164083480835,
+        0.9887603521347046,
+        0.9951211810112,
+        0.987548828125,
+        0.9915521144866943,
+        0.9890426993370056,
+        0.994508683681488,
+        0.9843454957008362,
+        0.9922112226486206,
+        0.9944995641708374,
+        0.6136736869812012
+      ]
+    },
+    {
+      "verse": 11,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.3213,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.20317134261131287,
+        0.9928190112113953,
+        0.9946299195289612,
+        0.9919852018356323,
+        0.9917083382606506,
+        0.9783745408058167,
+        0.9419460296630859,
+        0.9946187734603882,
+        0.8063511252403259,
+        0.9946297407150269,
+        0.9926033616065979,
+        0.9807495474815369,
+        0.979758620262146,
+        0.994884192943573,
+        0.9968827962875366,
+        0.9967801570892334
+      ]
+    },
+    {
+      "verse": 12,
+      "wordAgreement": 0.9859,
+      "secondsPerWord": 0.3211,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.8488830327987671,
+        0.9947776794433594,
+        0.9967094659805298,
+        0.9696692824363708,
+        0.9943282008171082,
+        0.997319757938385,
+        0.9754937291145325,
+        0.9947764873504639,
+        0.9967446327209473,
+        0.990362286567688,
+        0.9879554510116577,
+        0.9912298917770386,
+        0.9762227535247803,
+        0.993966817855835,
+        0.9905416369438171,
+        0.9768045544624329,
+        0.9563242793083191,
+        0.9716523289680481,
+        0.9907141923904419,
+        0.9909688830375671,
+        0.9904677271842957,
+        0.9903544187545776,
+        0.9945113658905029,
+        0.9948288798332214,
+        0.9943128824234009,
+        0.5208220537751913,
+        0.8175173997879028,
+        0.9884871244430542,
+        0.9391492605209351,
+        0.9945623278617859,
+        0.9846258759498596,
+        0.8950255513191223,
+        0.9964214563369751,
+        0.9981104135513306,
+        0.9946258664131165,
+        0.9951474070549011
+      ]
+    },
+    {
+      "verse": 13,
+      "wordAgreement": 0.9767,
+      "secondsPerWord": 0.35,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.3388791084289551,
+        0.9919984936714172,
+        0.9759092926979065,
+        0.9933575987815857,
+        0.9838305115699768,
+        0.9833968281745911,
+        0.9950993657112122,
+        0.9441278576850891,
+        0.995370090007782,
+        0.9883785843849182,
+        0.9945843815803528,
+        0.9979775547981262,
+        0.9967113733291626,
+        0.9979546070098877,
+        0.8599817752838135,
+        0.9974803328514099,
+        0.9920966625213623,
+        0.9951102137565613,
+        0.9967294931411743,
+        0.9940272569656372,
+        0.9967247843742371,
+        0.9848164916038513
+      ]
+    },
+    {
+      "verse": 14,
+      "wordAgreement": 0.95,
+      "secondsPerWord": 0.3655,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.06531582772731781,
+        0.9890011548995972,
+        0.999184787273407,
+        0.9961280226707458,
+        0.9872215390205383,
+        0.9930416345596313,
+        0.910882830619812,
+        0.9941675662994385,
+        0.9851053953170776,
+        0.9934197068214417,
+        0.9924221634864807,
+        0.8718321919441223,
+        0.9969338178634644,
+        0.9925053119659424,
+        0.9616563320159912,
+        0.5604463815689087,
+        0.9850135445594788,
+        0.9941997528076172,
+        0.9967071413993835,
+        0.9903126955032349,
+        0.9862483143806458,
+        0.9920657277107239,
+        0.5712799429893494,
+        0.9935837388038635,
+        0.9857838153839111,
+        0.9889467358589172,
+        0.9776792526245117,
+        0.9935546517372131,
+        0.9967184662818909,
+        0.9846797585487366,
+        0.41959601640701294,
+        0.9924456477165222,
+        0.9956467747688293,
+        0.995818555355072,
+        0.9925141334533691,
+        0.939532458782196,
+        0.9884566068649292,
+        0.9812299013137817,
+        0.9833954572677612,
+        0.9935081005096436
+      ]
+    },
+    {
+      "verse": 15,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.3429,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.8655566573143005,
+        0.9882534742355347,
+        0.9941158294677734,
+        0.9936100840568542,
+        0.9933577179908752,
+        0.12074980139732361,
+        0.9863821864128113,
+        0.9420948028564453,
+        0.9376252889633179,
+        0.9919978976249695,
+        0.9861526489257812,
+        0.9941270351409912,
+        0.9878151416778564,
+        0.9951570630073547
+      ]
+    },
+    {
+      "verse": 16,
+      "wordAgreement": 0.973,
+      "secondsPerWord": 0.34,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.254977285861969,
+        0.9966158270835876,
+        0.9782786965370178,
+        0.9961692690849304,
+        0.9420261383056641,
+        0.996218740940094,
+        0.9921397566795349,
+        0.9484045505523682,
+        0.99125075340271,
+        0.9938994646072388,
+        0.8067626357078552,
+        0.9566534161567688,
+        0.9944475889205933,
+        0.9953502416610718,
+        0.9475300908088684,
+        0.9683150053024292,
+        0.9933909177780151,
+        0.9900210499763489,
+        0.5796639770269394
+      ]
+    },
+    {
+      "verse": 17,
+      "wordAgreement": 0.9394,
+      "secondsPerWord": 0.3333,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.7151628136634827,
+        0.9965925812721252,
+        0.9949800372123718,
+        0.9689245820045471,
+        0.9909031987190247,
+        0.9976709485054016,
+        0.9931429624557495,
+        0.9967288970947266,
+        0.7396678924560547,
+        0.8881363868713379,
+        0.9979491829872131,
+        0.9901632070541382,
+        0.9923507571220398,
+        0.8868634700775146,
+        0.9881839752197266,
+        0.8802585601806641,
+        0.9837421178817749,
+        0.9847262501716614,
+        0.9955552220344543,
+        0.9819989204406738,
+        0.9935226440429688,
+        0.9884417057037354,
+        0.9928320646286011,
+        0.9958525896072388,
+        0.9525265693664551,
+        0.9839662909507751,
+        0.9972301125526428,
+        0.9977600574493408,
+        0.9891400337219238,
+        0.9930817484855652,
+        0.9961560368537903,
+        0.9969630837440491,
+        0.7411323487758636
+      ]
+    },
+    {
+      "verse": 18,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.2733,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.7850158214569092,
+        0.9962377548217773,
+        0.9797620177268982,
+        0.9948771595954895,
+        0.857641875743866,
+        0.008231768384575844,
+        0.9855592250823975,
+        0.9652982950210571,
+        0.9972780346870422,
+        0.9911265969276428,
+        0.9946973323822021,
+        0.9964548349380493
+      ]
+    },
+    {
+      "verse": 19,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.2938,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.8169843554496765,
+        0.964205265045166,
+        0.990057647228241,
+        0.08565755188465118,
+        0.9991819262504578,
+        0.9990893602371216,
+        0.9993337988853455,
+        0.9989155530929565,
+        0.9986353516578674,
+        0.9987015724182129,
+        0.999224066734314,
+        0.999931812286377,
+        0.9995312690734863,
+        0.9998997449874878,
+        0.9999650716781616,
+        0.999447762966156
+      ]
+    },
+    {
+      "verse": 20,
+      "wordAgreement": 1.0,
+      "secondsPerWord": 0.4183,
+      "zeroDurationWords": 0,
+      "longestZeroDurationRun": 0,
+      "wordProbabilities": [
+        0.7787915468215942,
+        0.9858295321464539,
+        0.9959132075309753,
+        0.8308755159378052,
+        0.9996155500411987,
+        0.9997260570526123,
+        0.9982019662857056,
+        0.9992226362228394,
+        0.8833166360855103,
+        0.9922009706497192,
+        0.9988723397254944,
+        0.9989755153656006,
+        0.8545551896095276,
+        0.9971017241477966,
+        0.9997753500938416,
+        0.9979702830314636,
+        0.999790370464325,
+        0.9988985061645508,
+        0.9936261177062988,
+        0.9990944862365723,
+        0.9993875026702881,
+        0.9997674822807312,
+        0.999954342842102,
+        0.9998776912689209
+      ]
+    },
+    {
+      "verse": 21,
+      "wordAgreement": 0.9714,
+      "secondsPerWord": 0.3211,
+      "zeroDurationWords": 1,
+      "longestZeroDurationRun": 1,
+      "wordProbabilities": [
+        0.9711564779281616,
+        0.9980661273002625,
+        0.9998577833175659,
+        0.9997405409812927,
+        0.9988025426864624,
+        0.9998717308044434,
+        0.9998735189437866,
+        0.9996625185012817,
+        0.9988985061645508,
+        0.9998703002929688,
+        0.9998682737350464,
+        0.9990617632865906,
+        0.9998537302017212,
+        0.9995645880699158,
+        0.9970794916152954,
+        0.9991756081581116,
+        0.9998123049736023,
+        0.9889797568321228
+      ]
+    }
+  ],
   "hints": [
     {
       "verse": 1,
       "reasons": [
-        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 2,
       "reasons": [
-        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 3,
       "reasons": [
-        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
-        "A word has no duration"
+        "A word has no duration",
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 5,
       "reasons": [
-        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
-        "A word has no duration"
+        "A word has no duration",
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 6,
       "reasons": [
-        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
-        "A word has no duration"
+        "A word has no duration",
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 7,
       "reasons": [
-        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 8,
       "reasons": [
-        "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 10,
       "reasons": [
-        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
@@ -179,22 +887,22 @@
     {
       "verse": 12,
       "reasons": [
-        "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
-        "A word has no duration"
+        "A word has no duration",
+        "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 13,
       "reasons": [
-        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
-        "A word has no duration"
+        "A word has no duration",
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
       "verse": 14,
       "reasons": [
-        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
@@ -207,9 +915,9 @@
     {
       "verse": 16,
       "reasons": [
-        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
         "A word has no duration",
-        "Low-confidence word alignment"
+        "Low-confidence word alignment",
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error"
       ]
     },
     {
@@ -233,8 +941,8 @@
     {
       "verse": 21,
       "reasons": [
-        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
-        "A word has no duration"
+        "A word has no duration",
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error"
       ]
     }
   ],
@@ -244,5 +952,149 @@
     "backend": "mlx",
     "model": "mlx-community/whisper-large-v3-turbo",
     "pipeline": 2
-  }
+  },
+  "previousChecks": [
+    {
+      "verse": 1,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 2,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 93%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 3,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 5,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 6,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 7,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 91%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 8,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 10,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 11,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 12,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 99%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 13,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 98%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    },
+    {
+      "verse": 14,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 95%); listen for skip/addition/misread or ASR error",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 15,
+      "check": true,
+      "reasons": [
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 16,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+        "A word has no duration",
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 17,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error"
+      ]
+    },
+    {
+      "verse": 18,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 19,
+      "check": true,
+      "reasons": [
+        "Low-confidence word alignment"
+      ]
+    },
+    {
+      "verse": 21,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error",
+        "A word has no duration"
+      ]
+    }
+  ]
 }
