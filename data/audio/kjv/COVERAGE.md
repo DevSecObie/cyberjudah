@@ -67,7 +67,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 | 1 Peter | — | Michael Armenta | 1, 2, 3, 4, 5 |
 | 2 Peter | — | Michael Armenta | 1, 2, 3 |
 | 1 John | — | Michael Armenta | 1, 2, 3, 4, 5 |
-| 2 John | — | Michael Armenta | 1 |
+| 2 John | 1 | Michael Armenta | — |
 | 3 John | 1 | Michael Armenta | — |
 | Jude | — | Michael Armenta | 1 |
 | Revelation | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |
@@ -89,7 +89,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 ## Listening review
 
-633 of 4947 indexed verses need listening review.
+635 of 4960 indexed verses need listening review.
 Active flags: ASR agreement below 90%, duration outside 0.15–1.0 seconds/word, or at least three consecutive zero-duration words. Timings below 0.12 seconds/word are withheld.
 Raw word confidence remains in `audit`; earlier broad flags remain in `previousChecks` and are not silently discarded.
 
@@ -348,6 +348,8 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Exodus 40:2 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Exodus 40:3 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Exodus 40:4 (Michael Armenta): ASR differs from source text (word agreement 51%); listen for skip/addition/misread or ASR error.
+- 2 John 1:11 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 2 John 1:13 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Duration outlier (1.051 seconds per word); listen to verify boundaries.
 - 3 John 1:1 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - 3 John 1:8 (Michael Armenta): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 3 John 1:9 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
