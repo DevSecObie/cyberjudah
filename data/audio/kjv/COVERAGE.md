@@ -35,7 +35,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 | Hosea | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 |
 | Joel | — | Michael Armenta | 1, 2, 3 |
 | Amos | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9 |
-| Obadiah | — | Michael Armenta | 1 |
+| Obadiah | 1 | Michael Armenta | — |
 | Jonah | — | Michael Armenta | 1, 2, 3, 4 |
 | Micah | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7 |
 | Nahum | — | Michael Armenta | 1, 2, 3 |
@@ -61,7 +61,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 | 1 Timothy | — | Michael Armenta | 1, 2, 3, 4, 5, 6 |
 | 2 Timothy | — | Michael Armenta | 1, 2, 3, 4 |
 | Titus | — | Michael Armenta | 1, 2, 3 |
-| Philemon | — | Michael Armenta | 1 |
+| Philemon | 1 | Michael Armenta | — |
 | Hebrews | — | Michael Armenta | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |
 | James | — | Michael Armenta | 1, 2, 3, 4, 5 |
 | 1 Peter | — | Michael Armenta | 1, 2, 3, 4, 5 |
@@ -89,7 +89,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 ## Listening review
 
-635 of 4960 indexed verses need listening review.
+642 of 5006 indexed verses need listening review.
 Active flags: ASR agreement below 90%, duration outside 0.15–1.0 seconds/word, or at least three consecutive zero-duration words. Timings below 0.12 seconds/word are withheld.
 Raw word confidence remains in `audit`; earlier broad flags remain in `previousChecks` and are not silently discarded.
 
@@ -348,6 +348,13 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Exodus 40:2 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Exodus 40:3 (Michael Armenta): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Exodus 40:4 (Michael Armenta): ASR differs from source text (word agreement 51%); listen for skip/addition/misread or ASR error.
+- Obadiah 1:21 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Philemon 1:1 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Philemon 1:2 (Michael Armenta): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- Philemon 1:18 (Michael Armenta): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Philemon 1:23 (Michael Armenta): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
+- Philemon 1:24 (Michael Armenta): ASR differs from source text (word agreement 50%); listen for skip/addition/misread or ASR error.
+- Philemon 1:25 (Michael Armenta): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error; 4 consecutive words have no duration.
 - 2 John 1:11 (Michael Armenta): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 2 John 1:13 (Michael Armenta): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error; Duration outlier (1.051 seconds per word); listen to verify boundaries.
 - 3 John 1:1 (Michael Armenta): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
