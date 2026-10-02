@@ -23,6 +23,7 @@ import Database from "better-sqlite3";
 import * as pagefind from "pagefind";
 
 import { fetchBoard, findVisuals, placeFrames } from "./frames.mjs";
+import { teachingDate } from "./timeline.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -271,6 +272,8 @@ for (const c of cases.cases) {
   writeJson(path.join(API, "cases", `${c.slug}.json`), {
     ...c, url: caseUrl(c), kind: c.kind ?? "judgment", verdictLabel: VERDICT[c.verdict] ?? c.verdict,
     related, taught, lawsResolved: laws, preceptsResolved: precepts, people: peopleOfCase.get(c.slug) ?? [],
+    // The date the teaching gives this case, if any (the Timeline shows no other).
+    ...(teachingDate(c) ? { date: teachingDate(c) } : {}),
     refsResolved: c.refs.map(resolveRefFull), see,
     // Enriched fields (pass through if present)
     ...(c.code ? { code: c.code } : {}),
@@ -281,7 +284,7 @@ for (const c of cases.cases) {
     ...(c.teachingExcerpts ? { teachingExcerpts: c.teachingExcerpts } : {}),
   });
 }
-writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c), themes: c.themes ?? [], topics: c.topics ?? [], ...(c.code ? { code: c.code } : {}) })) });
+writeJson(path.join(API, "cases", "index.json"), { eras: ERAS, verdicts: cases.verdicts, cases: cases.cases.map((c) => ({ slug: c.slug, name: c.name, era: c.era, kind: c.kind ?? "judgment", charge: c.charge, verdict: c.verdict, url: caseUrl(c), themes: c.themes ?? [], topics: c.topics ?? [], ...(c.code ? { code: c.code } : {}), ...(teachingDate(c) ? { date: teachingDate(c).label } : {}) })) });
 
 /* ---------------- api: the concordance as a whole ---------------- */
 // One row per citing document per chapter (the per-chapter files keep one row per passage).
