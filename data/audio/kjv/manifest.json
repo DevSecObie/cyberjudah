@@ -4840,12 +4840,15 @@
       "duration": 158.12,
       "sha1": "0370fabc5e93c582fdf25a202b84576c19c5b9dd",
       "bytes": 2534593,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 3 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/3-john/1.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_124_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_125_kjv_128kb.mp3",
