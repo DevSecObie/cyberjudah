@@ -1,0 +1,1 @@
+{"built":"2026-10-02T19:39:52.803Z","rows":66850,"sql_bytes":146850735,"parts":[{"file":"01.sql.gz","bytes":16532369,"statements":888},{"file":"02.sql.gz","bytes":20324956,"statements":900},{"file":"03.sql.gz","bytes":17173422,"statements":781}]}
