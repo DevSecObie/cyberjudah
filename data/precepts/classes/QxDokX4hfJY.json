@@ -232,7 +232,7 @@
    ]
   },
   {
-   "opened": "Colossians 1:12-15",
+   "opened": "Colossians 1:12-13",
    "teacher": "Bishop Nathanyel",
    "ts": "1:29:24",
    "sense": [
@@ -243,7 +243,39 @@
     {
      "at": "13",
      "text": "The power of darkness is Satan's kingdom, Babylon, Rome, the realm in which the white man rules. Darkness is sin. The Father delivers us from that power and translates us into the kingdom of his dear Son. Leaving that darkness means learning and following the light Christ brought."
-    },
+    }
+   ],
+   "precepts": [
+    {
+     "ref": "Revelation 16:10",
+     "at": "13",
+     "why": "The fifth angel pours his vial on the seat of the beast, and its kingdom is full of darkness while they gnaw their tongues for pain. The beast is the so-called white man. The place where he rules is the kingdom of darkness, Satan's realm, from which the Father delivers his people. The darkness translates to sin."
+    }
+   ]
+  },
+  {
+   "opened": "John 3:19",
+   "teacher": "Bishop Nathanyel",
+   "ts": "1:31:47",
+   "sense": [
+    {
+     "at": "19",
+     "text": "Light came into the world, but men loved darkness rather than light because their deeds were evil. Christ is that light: the Messiah, lawkeeper, lawgiver and teacher who magnified God's law. People prefer the darkness because sin is pleasurable. Deliverance from the kingdom of darkness requires turning away from that preference."
+    }
+   ],
+   "precepts": [
+    {
+     "ref": "Hebrews 11:25",
+     "at": "19",
+     "why": "“Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season”. Sin's pleasure is temporary. A brother or sister arranges a meeting through Facebook, enjoys fifteen or thirty minutes, then finds out they contracted a disease. Was that pleasure worth it? They ask why God did it while forgetting their own choice.\n\nThe drug dealer makes quick money but is always looking over his shoulder, worried about the police or another dealer who wants to take him out. That is no way to live. The pleasure lasts only a season and brings consequences; choose affliction with God's people over that darkness."
+    }
+   ]
+  },
+  {
+   "opened": "Colossians 1:14-15",
+   "teacher": "Bishop Nathanyel",
+   "ts": "1:33:55",
+   "sense": [
     {
      "at": "14",
      "text": "Redemption and forgiveness come through Christ's blood. Without his sacrifice we can do nothing. Evil is present even when we want to do good; that nature is in every man and woman from the womb. Watch a child take candy when nobody is looking, or strike another child who receives the toy he wanted. The evil nature does not have to be taught, but the light, God's laws, must be taught."
@@ -253,23 +285,7 @@
      "text": "Christ is the image of the invisible God and the firstborn of every creature. Firstborn means exactly that: he is the first of the Father's creations. That is why he is the only begotten Son. He is not merely another prophet. Proverbs explains his existence with the Father before the earth and the rest of creation."
     }
    ],
-   "precepts": [
-    {
-     "ref": "Revelation 16:10",
-     "at": "13",
-     "why": "The fifth angel pours his vial on the seat of the beast, and its kingdom is full of darkness while they gnaw their tongues for pain. The beast is the so-called white man. The place where he rules is the kingdom of darkness, Satan's realm, from which the Father delivers his people. The darkness translates to sin."
-    },
-    {
-     "ref": "John 3:19",
-     "at": "13",
-     "why": "Light came into the world, but men loved darkness rather than light because their deeds were evil. Christ is that light: the Messiah, lawkeeper, lawgiver and teacher who magnified God's law. People prefer the darkness because sin is pleasurable. Deliverance from the kingdom of darkness requires turning away from that preference."
-    },
-    {
-     "ref": "Hebrews 11:25",
-     "at": "13",
-     "why": "“Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season”. Sin's pleasure is temporary. A brother or sister arranges a meeting through Facebook, enjoys fifteen or thirty minutes, then finds out they contracted a disease. Was that pleasure worth it? They ask why God did it while forgetting their own choice.\n\nThe drug dealer makes quick money but is always looking over his shoulder, worried about the police or another dealer who wants to take him out. That is no way to live. The pleasure lasts only a season and brings consequences; choose affliction with God's people over that darkness."
-    }
-   ]
+   "precepts": []
   },
   {
    "opened": "Proverbs 8:22-31",
