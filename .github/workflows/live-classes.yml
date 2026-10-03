@@ -119,6 +119,7 @@ jobs:
           path: |
             ~/.cache/huggingface
             ~/.cache/torch
+            ~/nltk_data
           key: whisperx-${{ env.WHISPERX_VERSION }}-${{ inputs.model || 'small.en' }}
 
       - name: Install WhisperX and the audio downloader
@@ -128,6 +129,9 @@ jobs:
           python3 -m pip install --upgrade pip
           python3 -m pip install $TORCH_INSTALL
           python3 -m pip install "whisperx==$WHISPERX_VERSION" "yt-dlp[default]" bgutil-ytdlp-pot-provider
+          # WhisperX's alignment splits sentences with NLTK's punkt_tab; fetch it here so a
+          # failure shows in this step instead of silently leaving the timestamps unaligned.
+          python3 -c "import nltk, sys; sys.exit(0 if nltk.download('punkt_tab', quiet=True) else 1)"
           git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git /tmp/bgutil-ytdlp-pot-provider
           cd /tmp/bgutil-ytdlp-pot-provider/server
           npm ci
@@ -200,6 +204,7 @@ jobs:
           python3 -m pip install --upgrade pip
           python3 -m pip install $TORCH_INSTALL
           python3 -m pip install "whisperx==$WHISPERX_VERSION"
+          python3 -c "import nltk, sys; sys.exit(0 if nltk.download('punkt_tab', quiet=True) else 1)"
 
       - name: Transcribe a sample
         run: |
