@@ -41,10 +41,29 @@ Path: `.github/workflows/audio-fallback.yml`
 - Required GitHub secret: `YOUTUBE_COOKIES`.
 - Leave this workflow idle until the normal-caption backlog is addressed.
 
+### Live Sabbath Classes (WhisperX)
+
+Path: `.github/workflows/live-classes.yml`
+
+- Runs hourly every Saturday from 14:47 UTC to Sunday 10:47 UTC, and supports manual dispatch
+  (a video id, a look-back window, and the Whisper model).
+- `scripts/history/live_watch.py` picks IUICintheClassRoom streams that YouTube reports
+  `was_live` and that have no transcript. Streams that are still live or processing wait for the
+  next hour.
+- Each finished class gets its own job: `audio_fallback.py --engine whisperx` downloads the
+  audio and runs WhisperX on the runner's CPU (batched decoding plus wav2vec2 word alignment).
+  The transcript is committed to main with `transcriptionMethod` set to `whisperx:<model>`.
+- It does not wait for captions. The weekly caption harvest skips a class that already has a
+  transcript.
+- On a pull request that touches the pipeline, a smoke-test job installs WhisperX and
+  transcribes an 11-second public sample.
+- Required GitHub secret: `YOUTUBE_COOKIES`.
+
 ## Important implementation files
 
 - `scripts/history/harvest.py`: TranscriptAPI and legacy yt-dlp caption harvesting.
-- `scripts/history/audio_fallback.py`: authenticated audio download and Whisper fallback.
+- `scripts/history/audio_fallback.py`: authenticated audio download and Whisper fallback (faster-whisper, WhisperX or Workers AI).
+- `scripts/history/live_watch.py`: finds finished Sabbath live streams with no transcript.
 - `scripts/history/dashboard.py`: backlog dashboard generation.
 - `blog/transcripts/`: committed transcript JSON files.
 - `blog/channel-meta.tsv`: transcript metadata.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download missing YouTube audio in CI and transcribe it with faster-whisper.
+"""Download missing YouTube audio in CI and transcribe it with faster-whisper or WhisperX.
 
 This is the fallback for videos that have no caption track or cannot be returned by
 TranscriptAPI. Audio and intermediary files live only in HARVEST_RAW_DIR and are
@@ -123,6 +123,31 @@ def transcribe_workers_ai(wav_path, account, token, model="@cf/openai/whisper-la
     return segments
 
 
+def transcribe_whisperx(wav_path, model_name, batch_size=8):
+    """Transcribe with WhisperX on the runner's CPU: voice-activity detection cuts the class into
+    speech chunks that are decoded in batches (several times faster than faster-whisper alone on
+    a long recording), then wav2vec2 forced alignment pins each segment to the words actually
+    spoken, so a timestamp in a note lands on the sentence rather than up to 30s before it."""
+    import whisperx
+
+    audio = whisperx.load_audio(wav_path)
+    model = whisperx.load_model(model_name, "cpu", compute_type="int8", language="en", threads=max(1, os.cpu_count() or 2))
+    result = model.transcribe(audio, batch_size=batch_size, language="en")
+    segments = result["segments"]
+    del model
+    try:
+        align_model, align_meta = whisperx.load_align_model(language_code="en", device="cpu")
+        segments = whisperx.align(segments, align_model, align_meta, audio, "cpu", return_char_alignments=False)["segments"]
+    except Exception as error:  # noqa: BLE001 - the unaligned segments are still a full transcript
+        print(f"whisperx alignment failed, keeping unaligned timestamps: {error}")
+    out = []
+    for seg in segments:
+        text = (seg.get("text") or "").strip()
+        if text and seg.get("start") is not None and seg.get("end") is not None:
+            out.append(SimpleNamespace(start=float(seg["start"]), end=float(seg["end"]), text=text))
+    return out
+
+
 def clean(prefix):
     """Removes everything yt-dlp and the splitter left for one video, files and folders alike."""
     for path in glob.glob(prefix + ".*"):
@@ -141,8 +166,10 @@ def main():
     parser.add_argument("--video", action="append", default=[], help="Only these video ids (repeatable); they come first and ignore --limit")
     parser.add_argument("--model", default="small.en")
     parser.add_argument("--tabs", default="videos,streams")
-    parser.add_argument("--engine", default=os.environ.get("TRANSCRIBE_ENGINE", "faster-whisper"), choices=["faster-whisper", "workers-ai"],
-                        help="workers-ai sends the audio to Cloudflare's Whisper (needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN)")
+    parser.add_argument("--engine", default=os.environ.get("TRANSCRIBE_ENGINE", "faster-whisper"), choices=["faster-whisper", "whisperx", "workers-ai"],
+                        help="workers-ai sends the audio to Cloudflare's Whisper (needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN); "
+                             "whisperx runs batched, word-aligned WhisperX on the runner")
+    parser.add_argument("--batch-size", type=int, default=8, help="WhisperX batch size")
     args = parser.parse_args()
 
     feed_dir = os.path.join(ROOT, FEEDS[args.feed])
@@ -150,13 +177,14 @@ def main():
     meta_path = os.path.join(feed_dir, "channel-meta.tsv")
     os.makedirs(transcript_dir, exist_ok=True)
 
-    rows = list_channel(args.channel, [x.strip() for x in args.tabs.split(",") if x.strip()], args.cookies)
     done = {os.path.basename(path)[:-5] for path in glob.glob(os.path.join(transcript_dir, "*.json"))}
     wanted = [v.strip() for v in args.video if v.strip()]
     if wanted:
-        by_id = {row[0]: row for row in rows}
-        todo = [by_id.get(v, (v, 0, "")) for v in wanted if v not in done]
+        # Named ids need no channel listing: title, date and duration come from each one's info json.
+        rows = [(v, "", "") for v in wanted]
+        todo = [row for row in rows if row[0] not in done]
     else:
+        rows = list_channel(args.channel, [x.strip() for x in args.tabs.split(",") if x.strip()], args.cookies)
         todo = [row for row in rows if row[0] not in done][: args.limit]
     print(f"audio fallback {args.channel}: {len(rows)} listed, {len(done.intersection({r[0] for r in rows}))} transcripts, {len(todo)} selected")
     if not todo:
@@ -171,7 +199,7 @@ def main():
     if args.engine == "faster-whisper":
         from faster_whisper import WhisperModel
         model = WhisperModel(args.model, device="cpu", compute_type="int8", cpu_threads=max(1, os.cpu_count() or 2))
-    method = f"faster-whisper:{args.model}" if model else "workers-ai:whisper-large-v3-turbo"
+    method = {"faster-whisper": f"faster-whisper:{args.model}", "whisperx": f"whisperx:{args.model}"}.get(args.engine, "workers-ai:whisper-large-v3-turbo")
     archived = failed = 0
 
     for video_id, duration_hint, fallback_title in todo:
@@ -200,7 +228,15 @@ def main():
             continue
 
         title, date, duration, views = metadata(info_path, fallback_title, duration_hint)
-        if model:
+        if args.engine == "whisperx":
+            try:
+                segments = transcribe_whisperx(audio_files[0], args.model, args.batch_size)
+            except Exception as error:  # noqa: BLE001 - one bad recording must not stop the rest
+                failed += 1
+                print(f"{video_id}: whisperx failed: {error}")
+                clean(prefix)
+                continue
+        elif model:
             segments, _ = model.transcribe(
                 audio_files[0],
                 language="en",

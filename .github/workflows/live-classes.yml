@@ -1,0 +1,217 @@
+name: Live Sabbath Classes (WhisperX)
+
+# Watches IUICintheClassRoom every Saturday and transcribes each class with WhisperX as soon as
+# its live stream ends, instead of waiting hours for YouTube's captions. It runs hourly from
+# Saturday 14:47 UTC (10:47 a.m. Eastern) to Sunday 10:47 UTC, which spans every US time zone's
+# Sabbath classes and the hours after the last one ends. An idle run takes about a minute.
+#
+# watch       lists the newest streams and picks the ones YouTube reports finished
+#             (scripts/history/live_watch.py); a stream still live is left for the next hour.
+# transcribe  one job per finished class, in parallel: downloads the audio and runs WhisperX on
+#             the runner (scripts/history/audio_fallback.py --engine whisperx), then commits the
+#             transcript to main. The weekly caption harvest skips any class that already has one.
+#
+# Runs never overlap (the concurrency group queues the next hour behind a transcription that is
+# still going), so a class is never transcribed twice. Needs the YOUTUBE_COOKIES secret, the same
+# one the audio fallback uses.
+on:
+  schedule:
+    - cron: "47 14-23 * * 6"
+    - cron: "47 0-10 * * 0"
+  workflow_dispatch:
+    inputs:
+      video:
+        description: Video id(s) to transcribe, comma-separated (blank = watch the channel)
+        required: false
+        default: ""
+      since_hours:
+        description: Look at streams that started within this many hours
+        required: false
+        default: "36"
+      model:
+        description: Whisper model (small.en is about 3x faster on the runner than medium.en)
+        required: false
+        default: small.en
+        type: choice
+        options:
+          - small.en
+          - medium.en
+          - large-v3-turbo
+  pull_request:
+    paths:
+      - .github/workflows/live-classes.yml
+      - scripts/history/audio_fallback.py
+      - scripts/history/live_watch.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-classes-${{ github.event_name == 'pull_request' && github.ref || 'watch' }}
+  cancel-in-progress: false
+
+env:
+  WHISPERX_VERSION: "3.8.6"
+  TORCH_INSTALL: torch==2.8.0 torchaudio==2.8.0 torchvision==0.23.0 --index-url https://download.pytorch.org/whl/cpu
+
+jobs:
+  watch:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.pick.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Install channel inventory tool
+        if: inputs.video == ''
+        run: python3 -m pip install --upgrade "yt-dlp[default]"
+
+      - name: Find finished classes with no transcript
+        id: pick
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+          VIDEO_IDS: ${{ inputs.video }}
+          SINCE_HOURS: ${{ inputs.since_hours || '36' }}
+        run: |
+          if [[ -n "$VIDEO_IDS" ]]; then
+            python3 -c 'import json, os; ids = [v.strip() for v in os.environ["VIDEO_IDS"].split(",") if v.strip()]; print("matrix=" + json.dumps(ids))' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          cookies=()
+          if [[ -n "$YOUTUBE_COOKIES" ]]; then
+            printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
+            chmod 600 /tmp/youtube-cookies.txt
+            cookies=(--cookies /tmp/youtube-cookies.txt)
+          fi
+          python3 scripts/history/live_watch.py --channel IUICintheClassRoom --since-hours "$SINCE_HOURS" "${cookies[@]}" --github-output | tee -a "$GITHUB_STEP_SUMMARY"
+          rm -f /tmp/youtube-cookies.txt
+
+  transcribe:
+    needs: watch
+    if: needs.watch.outputs.matrix != '' && needs.watch.outputs.matrix != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        video: ${{ fromJSON(needs.watch.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache WhisperX models
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/torch
+          key: whisperx-${{ env.WHISPERX_VERSION }}-${{ inputs.model || 'small.en' }}
+
+      - name: Install WhisperX and the audio downloader
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade pip
+          python3 -m pip install $TORCH_INSTALL
+          python3 -m pip install "whisperx==$WHISPERX_VERSION" "yt-dlp[default]" bgutil-ytdlp-pot-provider
+          git clone --depth 1 --branch 2.0.0 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git /tmp/bgutil-ytdlp-pot-provider
+          cd /tmp/bgutil-ytdlp-pot-provider/server
+          npm ci
+          npx tsc
+          node build/main.js >/tmp/bgutil-provider.log 2>&1 &
+          sleep 2
+
+      - name: Transcribe ${{ matrix.video }} with WhisperX
+        env:
+          HARVEST_RAW_DIR: /tmp/youtube-audio-live
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+          VIDEO_ID: ${{ matrix.video }}
+          MODEL: ${{ inputs.model || 'small.en' }}
+        run: |
+          printf '%s' "$YOUTUBE_COOKIES" > /tmp/youtube-cookies.txt
+          chmod 600 /tmp/youtube-cookies.txt
+          python3 scripts/history/audio_fallback.py --feed classes --channel IUICintheClassRoom --cookies /tmp/youtube-cookies.txt \
+            --engine whisperx --model "$MODEL" --video "$VIDEO_ID" | tee -a "$GITHUB_STEP_SUMMARY"
+          rm -f /tmp/youtube-cookies.txt
+          test -f "blog/transcripts/$VIDEO_ID.json"
+
+      - name: Commit the transcript
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VIDEO_ID: ${{ matrix.video }}
+        run: |
+          if [[ -z "$(git status --porcelain blog/transcripts blog/channel-meta.tsv)" ]]; then
+            echo "No transcript was added."
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add blog/transcripts blog/channel-meta.tsv
+          git commit -m "transcripts: live class $VIDEO_ID (WhisperX) [skip ci]"
+          # The other classes' jobs push to main at about the same time; rebase and retry.
+          for attempt in 1 2 3 4 5 6; do
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "Could not push the transcript after 6 attempts." >&2
+          exit 1
+
+      - name: Remove temporary audio and cookies
+        if: always()
+        run: |
+          rm -f /tmp/youtube-cookies.txt
+          rm -rf /tmp/youtube-audio-live /tmp/bgutil-ytdlp-pot-provider
+
+  # On a pull request that changes this pipeline: install WhisperX exactly as above and run the
+  # same transcription function on an 11-second public sample, so a broken install or API change
+  # shows up before Saturday does. Touches no YouTube, secret or branch.
+  smoke-test:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install WhisperX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade pip
+          python3 -m pip install $TORCH_INSTALL
+          python3 -m pip install "whisperx==$WHISPERX_VERSION"
+
+      - name: Transcribe a sample
+        run: |
+          curl -sSfL -o /tmp/sample.flac https://raw.githubusercontent.com/SYSTRAN/faster-whisper/master/tests/data/jfk.flac
+          ffmpeg -loglevel error -y -i /tmp/sample.flac /tmp/sample.wav
+          python3 - <<'EOF'
+          import sys
+          sys.path.insert(0, "scripts/history")
+          from audio_fallback import transcribe_whisperx
+          segments = transcribe_whisperx("/tmp/sample.wav", "tiny.en", batch_size=4)
+          for s in segments:
+              print(f"{s.start:7.2f} {s.end:7.2f}  {s.text}")
+          text = " ".join(s.text for s in segments).lower()
+          assert segments and "country" in text, "WhisperX returned no usable transcript"
+          EOF
