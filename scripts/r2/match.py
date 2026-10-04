@@ -492,7 +492,8 @@ def write_teachers(outlines, result, cat):
             "# date written in the R2 file name; score is the outline's scripture + word match.\n")
     TEACHERS.write_text(head + "\t".join(["date", "file_date", "video", "teacher", "session", "lang", "score", "r2_key"])
                         + "\n" + "".join("\t".join(c) + "\n" for c in keep), encoding="utf-8")
-    print(f"{len(keep)} classes with a teacher; {len(rows) - len(keep)} left out (two teachers)", file=sys.stderr)
+    print(f"{len({c[2] for c in keep})} classes with a teacher ({len(keep)} outlines); "
+          f"{len(rows) - len(keep)} left out (two teachers)", file=sys.stderr)
 
 
 def main():
