@@ -115,3 +115,16 @@ sqlite3 library.sqlite "SELECT v.book_slug, v.chapter, v.verse, snippet(verses_f
   FROM verses_fts JOIN verses v ON v.id = verses_fts.rowid WHERE verses_fts MATCH 'lamp AND feet' LIMIT 5"
 sqlite3 library.sqlite "SELECT kind, label, url, verses FROM citations WHERE book_slug = 'psalms' AND chapter = 119"
 ```
+
+### People corrections and pictures
+
+The People CMS changes only summaries, family relationships and optional credited
+pictures in `data/people/people.json`. The engine validates those profiles before
+building and copies picture metadata into their existing API responses. Picture
+URLs and source pages must use HTTPS; caption, credit and licence are required.
+No picture or biographical fact is added by the reader itself.
+
+Twenty-one unresolved links already present in the upstream-derived profiles are
+recorded in `people-legacy-links.json` with their source revision. They remain
+visible for correction; new unresolved relationships fail the gate. Editing one
+profile must not require inventing replacements for unrelated historical gaps.

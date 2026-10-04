@@ -1,3 +1,4 @@
+import { validatePeople, personPicture } from "./people-validation.mjs";
 // The CyberJudah content engine.
 //
 //   node engine/build.mjs [--out dist] [--site https://cyberjudah.io] [--no-thumbs]
@@ -52,6 +53,8 @@ const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbo
 // classes taught where the person comes up (a comment on one of their verses naming them).
 const peopleFile = path.join(ROOT, "data", "people", "people.json");
 const peopleDoc = fs.existsSync(peopleFile) ? JSON.parse(fs.readFileSync(peopleFile, "utf8")) : { people: [] };
+const peopleProblems = validatePeople(peopleDoc);
+if (peopleProblems.length) throw new Error(peopleProblems.join("\n"));
 const personById = new Map(peopleDoc.people.map((p) => [p.id, p]));
 const namedIn = new Map(); // "slug|ch" -> { verse: [id] }
 for (const p of peopleDoc.people) for (const ref of p.verses) {
@@ -326,7 +329,7 @@ for (const p of peopleDoc.people) {
     }
   }
   writeJson(path.join(API, "people", `${p.id}.json`), {
-    id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe,
+    id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe, ...personPicture(p),
     father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
     siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
     verses: p.verses, taught, source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
