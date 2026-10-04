@@ -9,6 +9,10 @@ on:
     paths:
       - "data/precepts/classes/**"
       - "scripts/precepts/classes.py"
+      - "scripts/precepts/test_classes.py"
+      - "engine/library.mjs"
+      - "engine/precept-moments.test.mjs"
+      - ".github/workflows/precepts-check.yml"
 
 permissions:
   contents: read
@@ -25,8 +29,19 @@ jobs:
       - name: Only precept passes in this pull request
         run: |
           git fetch --no-tags --depth=1 origin "${{ github.base_ref }}"
-          other=$(git diff --name-only "origin/${{ github.base_ref }}" HEAD | grep -v '^data/precepts/classes/' | grep -v '^scripts/precepts/classes.py$' || true)
-          if [ -n "$other" ]; then echo "::error::A precept pass adds only data/precepts/classes/<video id>.json. Also changed:"; echo "$other"; exit 1; fi
+          files=$(git diff --name-only "origin/${{ github.base_ref }}" HEAD)
+          passes=$(printf '%s\n' "$files" | grep '^data/precepts/classes/' || true)
+          if [ -n "$passes" ]; then
+            other=$(printf '%s\n' "$files" | grep -v '^data/precepts/classes/[A-Za-z0-9_-]\{11\}\.json$' || true)
+            if [ -n "$other" ] || [ "$(printf '%s\n' "$passes" | wc -l)" -ne 1 ]; then
+              echo "::error::A content edit must change exactly one precept pass and no other files."
+              exit 1
+            fi
+          fi
+      - name: Test precept validation and playback timestamps
+        run: |
+          python3 -m unittest discover -s scripts/precepts -p 'test_*.py'
+          node --test engine/precept-moments.test.mjs
       - name: Check the passes
         run: |
           set -o pipefail
@@ -36,5 +51,5 @@ jobs:
         run: |
           set -o pipefail
           npm ci --prefix engine --no-audit --no-fund
-          npm run build 2>&1 | tee build.log | tail -3
+          node engine/build.mjs --no-thumbs 2>&1 | tee build.log | tail -3
           grep -E "precept passes|engine:" build.log >> "$GITHUB_STEP_SUMMARY" || true
