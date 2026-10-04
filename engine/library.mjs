@@ -353,7 +353,7 @@ export function loadLibrary(ROOT) {
       }
       for (const pre of p.precepts ?? []) {
         const ref = refFrom(pre.ref); if (!ref) continue;
-        const row = { text: "", point: "", note, ts, ...(pre.why ? { why: pre.why } : {}) };
+        const row = { text: "", point: "", note, ts: pre.ts ?? ts, ...(pre.why ? { why: pre.why } : {}) };
         link(pre.at ? { ...opened, verses: String(pre.at) } : opened, { kind: "precept", ref, ...row });
         link(ref, { kind: "opened", ref: opened, ...row });
         passPrecepts++;

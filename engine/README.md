@@ -148,3 +148,7 @@ Worker can display the same title/date while its transcript search index awaits 
 rebuild. Publishing live content uses the `production` environment. Before enabling
 CMS publication, the owner must configure required reviewers for that environment
 in this repository; the environment name alone does not enforce approval.
+
+### Precept playback corrections
+
+A pass precept may carry an optional `ts` (`m:ss` or `h:mm:ss`). Its links in both directions use that moment; omitting it retains the opened passage's timestamp. Explanations and references are unchanged. `scripts/precepts/classes.py check` rejects invalid calendar dates and timestamp components and retains the exact KJV quote check. Data edits still require exactly one pass per PR; checker/reader implementation changes without pass data are allowed separately. CMS publication requires both `validate` and `check`. Production approval remains separate.
