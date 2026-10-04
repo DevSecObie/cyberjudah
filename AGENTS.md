@@ -21,7 +21,14 @@ A **precept pass** turns one class that has no study note yet into one data file
    t = json.load(open("blog/transcripts/<video id>.json"))
    text, refs, who = auto.prepare(t)   # text: the class condensed with [m:ss] times; refs: verified references in order; who: teacher, if found
    ```
-   When the class never names its teacher, `who` comes from `data/sources/class-teachers.tsv`: who the sabbath-classes-images transcripts are filed under. A name the class gives itself always wins.
+   When the class never names its teacher, `who` comes from `data/sources/class-teachers.tsv`: who the class outlines in the sabbath-classes-images R2 bucket are filed under. A name the class gives itself always wins.
+
+   Many classes also have their own outline in that bucket: the scriptures in the order they were read, each with a line of what was drawn from it. `data/sources/r2-classes.tsv` says which. Where the captions are garbled, read it:
+   ```python
+   o = auto.outline("<video id>")   # None if the class has no outline, or R2_ACCESS_KEY_ID is not set
+   o["refs"], o["teacher"], o["text"]
+   ```
+   Use it to settle a reference the captions mangle, the spelling of a name or word, and who taught. It is supplementary: record only what the class actually read and taught (a scripture on the outline that was never opened in the class is left out), the Bishops' and Deacons' teaching still comes first, and nothing from the outline is quoted as the class's words. It is read live from R2. Never copy its text into the repository.
    Read ALL of it before writing. `refs` is a strong hint, not a limit: a passage read as a range (Isaiah 61:1-3) may show there as single verses.
 3. **Write** `data/precepts/classes/<video id>.json` by the rules below. The King James text is in `data/bible/<book slug>.json` (`chapters["<n>"][verse - 1]`). Use it for every quote.
 4. **Check it:** `python3 scripts/precepts/classes.py check data/precepts/classes/<video id>.json` must print `0 problem(s)`. The same check runs on the pull request.
