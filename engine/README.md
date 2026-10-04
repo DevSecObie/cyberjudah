@@ -76,6 +76,24 @@ JSON shape, existing fields are not removed or renamed without a note here.
 Site-relative URLs inside the data (`/bible/genesis/1`, `/classes/2026/...`) are routes,
 not files: the front end decides how to render them.
 
+### Strong's concordance pages
+
+`api/strongs/<number>.json` retains its definition, total counts and first 600
+`occurrences` for existing clients. `occurrencePages` adds `{revision, pageSize,
+pages, nextPage}`. Follow `nextPage` at
+`api/strongs/<number>/occurrences/<revision>/<page>.json` until it is `null`.
+Each page contains `{number, revision, page, total, occurrences, nextPage}`;
+page 0 is embedded only in the entry and has no separate file. `pages` counts all
+logical pages, including that initial page; continuation files start at page 1
+only when `nextPage` is non-null and contain every remaining occurrence in corpus
+order. The revision is the SHA-256 of the full
+occurrence array, so a client must retain that revision while paging and reject
+a response for another number or revision. A missing historical page should
+offer a retry/reload, never silently append data from a newer revision.
+
+Run `node --test engine/strongs-pages.test.mjs` for coverage using the real H430
+tagged corpus, including occurrences beyond 600 and exact page boundaries.
+
 ## Where it is published
 
 `.github/workflows/data.yml` runs the engine on every push to `main` that touches the
