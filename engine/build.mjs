@@ -24,6 +24,7 @@ import * as pagefind from "pagefind";
 
 import { fetchBoard, findVisuals, placeFrames } from "./frames.mjs";
 import { teachingDate } from "./timeline.mjs";
+import { strongsPages } from "./strongs-pages.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -147,9 +148,13 @@ if (fs.existsSync(path.join(STRONGS, "hebrew.json"))) {
     const list = occ.get(n) ?? [];
     const count = list.reduce((a, o) => a + o.words.length, 0);
     const words = [...(rendered.get(n) ?? new Map()).entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([w, k]) => ({ word: w, count: k }));
+    const complete = list.map((o) => ({ slug: o.slug, book: o.book, chapter: o.chapter, verse: o.verse, text: bible[o.book]?.[String(o.chapter)]?.[o.verse - 1] ?? "", words: o.words }));
+    const paged = strongsPages(n, complete);
+    for (const page of paged.pages) writeJson(path.join(API, "strongs", n, "occurrences", paged.revision, `${page.page}.json`), page);
     writeJson(path.join(API, "strongs", `${n}.json`), {
       number: n, language: n[0] === "H" ? "Hebrew" : "Greek", ...e, count, verses: list.length, words,
-      occurrences: list.slice(0, 600).map((o) => ({ slug: o.slug, book: o.book, chapter: o.chapter, verse: o.verse, text: bible[o.book]?.[String(o.chapter)]?.[o.verse - 1] ?? "", words: o.words })),
+      occurrences: paged.pages[0].occurrences,
+      occurrencePages: { revision: paged.revision, pageSize: paged.pageSize, pages: paged.pages.length, nextPage: paged.pages[0].nextPage },
       source: "Strong's Exhaustive Concordance (1890) and Concise Dictionaries (1894), public domain; JSON by Open Scriptures (CC BY-SA).",
     });
     strongsIndex.push({ n, lemma: e.lemma, xlit: e.xlit, def: (e.def || e.kjv || "").slice(0, 90), count });
