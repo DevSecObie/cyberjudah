@@ -83,8 +83,10 @@ not files: the front end decides how to render them.
 pages, nextPage}`. Follow `nextPage` at
 `api/strongs/<number>/occurrences/<revision>/<page>.json` until it is `null`.
 Each page contains `{number, revision, page, total, occurrences, nextPage}`;
-page 0 repeats the entry's initial results. Subsequent pages contain every
-remaining occurrence in corpus order. The revision is the SHA-256 of the full
+page 0 is embedded only in the entry and has no separate file. `pages` counts all
+logical pages, including that initial page; continuation files start at page 1
+only when `nextPage` is non-null and contain every remaining occurrence in corpus
+order. The revision is the SHA-256 of the full
 occurrence array, so a client must retain that revision while paging and reject
 a response for another number or revision. A missing historical page should
 offer a retry/reload, never silently append data from a newer revision.

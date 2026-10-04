@@ -13,18 +13,26 @@ test("the real Hebrew concordance loses no verses beyond the former 600 limit", 
   }
   assert.ok(rows.length > 600);
   const result = strongsPages("H430", rows);
-  assert.deepEqual(result.pages.flatMap((p) => p.occurrences), rows);
-  assert.deepEqual(result.pages[0].occurrences, rows.slice(0, 600));
+  assert.deepEqual([result.firstPage, ...result.pages].flatMap((p) => p.occurrences), rows);
+  assert.deepEqual(result.firstPage.occurrences, rows.slice(0, 600));
+  assert.equal(result.firstPage.nextPage, 1);
+  assert.deepEqual(result.pages.map((p) => p.page), Array.from({ length: Math.ceil(rows.length / 600) - 1 }, (_, i) => i + 1));
   assert.equal(result.pages.at(-1).nextPage, null);
   for (const p of result.pages) assert.equal(p.total, rows.length);
   assert.equal(strongsPages("H430", rows).revision, result.revision);
   assert.notEqual(strongsPages("H430", rows.slice(1)).revision, result.revision);
 });
 test("empty entries and exact page boundaries terminate without a phantom page", () => {
-  assert.deepEqual(strongsPages("G1", []).pages[0].occurrences, []);
-  assert.equal(strongsPages("G1", []).pages[0].nextPage, null);
+  assert.deepEqual(strongsPages("G1", []).firstPage.occurrences, []);
+  assert.equal(strongsPages("G1", []).firstPage.nextPage, null);
+  assert.deepEqual(strongsPages("G1", []).pages, []);
   const rows = [{ verse: 1 }, { verse: 2 }];
-  assert.equal(strongsPages("G1", rows, 2).pages.length, 1);
-  assert.equal(strongsPages("G1", rows, 2).pages[0].nextPage, null);
+  assert.deepEqual(strongsPages("G1", rows, 2).pages, []);
+  assert.equal(strongsPages("G1", rows, 2).firstPage.nextPage, null);
+  const twoPages = strongsPages("G1", [...rows, ...rows], 2);
+  assert.equal(twoPages.firstPage.nextPage, 1);
+  assert.equal(twoPages.pages.length, 1);
+  assert.equal(twoPages.pages[0].page, 1);
+  assert.equal(twoPages.pages[0].nextPage, null);
   assert.throws(() => strongsPages("../H1", rows));
 });

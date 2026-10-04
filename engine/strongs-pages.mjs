@@ -10,5 +10,6 @@ export function strongsPages(number, occurrences, pageSize = 600) {
     occurrences: occurrences.slice(page * pageSize, (page + 1) * pageSize),
     nextPage: (page + 1) * pageSize < occurrences.length ? page + 1 : null,
   }));
-  return { revision, pageSize, pages };
+  // The entry already contains page 0. Only continuation pages need files.
+  return { revision, pageSize, firstPage: pages[0], pages: pages.slice(1) };
 }

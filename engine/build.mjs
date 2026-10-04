@@ -153,8 +153,8 @@ if (fs.existsSync(path.join(STRONGS, "hebrew.json"))) {
     for (const page of paged.pages) writeJson(path.join(API, "strongs", n, "occurrences", paged.revision, `${page.page}.json`), page);
     writeJson(path.join(API, "strongs", `${n}.json`), {
       number: n, language: n[0] === "H" ? "Hebrew" : "Greek", ...e, count, verses: list.length, words,
-      occurrences: paged.pages[0].occurrences,
-      occurrencePages: { revision: paged.revision, pageSize: paged.pageSize, pages: paged.pages.length, nextPage: paged.pages[0].nextPage },
+      occurrences: paged.firstPage.occurrences,
+      occurrencePages: { revision: paged.revision, pageSize: paged.pageSize, pages: paged.pages.length + 1, nextPage: paged.firstPage.nextPage },
       source: "Strong's Exhaustive Concordance (1890) and Concise Dictionaries (1894), public domain; JSON by Open Scriptures (CC BY-SA).",
     });
     strongsIndex.push({ n, lemma: e.lemma, xlit: e.xlit, def: (e.def || e.kjv || "").slice(0, 90), count });
