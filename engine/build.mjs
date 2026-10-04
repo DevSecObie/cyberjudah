@@ -1,3 +1,4 @@
+import { correctedClass, classCatalog } from "./class-metadata.mjs";
 // The CyberJudah content engine.
 //
 //   node engine/build.mjs [--out dist] [--site https://cyberjudah.io] [--no-thumbs]
@@ -80,6 +81,9 @@ const strongsTags = (slug) => {
 // note lends the note's title, date, teacher and url; the rest carry what the transcript says.
 const READINGS = path.join(ROOT, "data", "precepts", "readings");
 const readVideos = fs.existsSync(path.join(READINGS, "videos.json")) ? JSON.parse(fs.readFileSync(path.join(READINGS, "videos.json"), "utf8")) : {};
+for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(row, L.classMetadata, video);
+writeJson(path.join(API, "classes", "metadata.json"), classCatalog(readVideos, notes, L.classMetadata));
+writeJson(path.join(API, "classes", "corrections.json"), Object.fromEntries(L.classMetadata));
 const noteByVideo = new Map(L.notes.filter((n) => n.videoId).map((n) => [n.videoId, n]));
 const hms = (s) => { const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), x = s % 60; return h ? `${h}:${String(m).padStart(2, "0")}:${String(x).padStart(2, "0")}` : `${m}:${String(x).padStart(2, "0")}`; };
 const teacherRank = (t) => (/^bishop\b/i.test(t ?? "") ? 0 : /^deacon\b/i.test(t ?? "") ? 1 : 2);
@@ -440,7 +444,10 @@ const booksReadIn = new Map(); // videoId -> [{ slug, title, vol, page, t, ts }]
 const booksByNote = new Map(); // note url -> the same, for notes found by their artwork
 if (fs.existsSync(LIB)) {
   // A note names its video in data-video-id, or only (lowercased) in its class artwork's file name.
-  const noteByVideo = new Map();
+  for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(row, L.classMetadata, video);
+writeJson(path.join(API, "classes", "metadata.json"), classCatalog(readVideos, notes, L.classMetadata));
+writeJson(path.join(API, "classes", "corrections.json"), Object.fromEntries(L.classMetadata));
+const noteByVideo = new Map();
   for (const n of notes) {
     if (n.videoId) noteByVideo.set(n.videoId.toLowerCase(), n);
     const art = /\/class-images\/class-([a-z0-9_-]{11})\.jpg/.exec(n.body ?? "")?.[1];
