@@ -128,3 +128,23 @@ Twenty-one unresolved links already present in the upstream-derived profiles are
 recorded in `people-legacy-links.json` with their source revision. They remain
 visible for correction; new unresolved relationships fail the gate. Editing one
 profile must not require inventing replacements for unrelated historical gaps.
+
+### Admin class metadata corrections
+
+`data/sources/class-teachers.tsv` holds explicit admin corrections with the columns
+`video`, `teacher`, `date`, `title` (tabs, one recording per row). Dates are real
+`YYYY-MM-DD` dates or blank when unknown. Do not infer a teacher or date. The in-app
+CMS also changes a linked note's front matter in the same review.
+
+The library applies these corrections before building note lists, commentary and
+precept metadata. Verse readings use the same correction, and
+`api/classes/metadata.json` includes both noted and undated recordings for the CMS.
+Original note URLs and transcript text stay intact. Invalid or duplicated rows fail
+`engine/check.mjs` and the regular `validate` CI check. The table starts empty;
+adding this reader changes no class facts.
+
+`api/classes/corrections.json` exposes only explicit corrections so the Telegram
+Worker can display the same title/date while its transcript search index awaits a
+rebuild. Publishing live content uses the `production` environment. Before enabling
+CMS publication, the owner must configure required reviewers for that environment
+in this repository; the environment name alone does not enforce approval.
