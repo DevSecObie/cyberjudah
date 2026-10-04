@@ -26,6 +26,8 @@ jobs:
           mkdir -p r2-inventory
           python3 scripts/r2/r2.py list > r2-inventory/listing.ndjson
           python3 scripts/r2/summary.py r2-inventory/listing.ndjson > r2-inventory/SUMMARY.md
+          # The bucket's own guide to its layout.
+          python3 scripts/r2/r2.py get text/README.md r2-inventory/BUCKET-README.md
           cat r2-inventory/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
       - name: Commit the list
         run: |
