@@ -25,6 +25,7 @@ R2_BUCKET_NAME if they differ from r2.py's defaults).
 import argparse
 import collections
 import datetime
+import difflib
 import glob
 import hashlib
 import json
@@ -172,16 +173,61 @@ def fetch(key):
         return read_outline(key, raw=r.read().decode("utf-8", errors="replace"))
 
 
+KNOWN = {}   # the teachers the bucket files outlines under: lowercase -> their spelling
+
+
+def known_teachers(outlines):
+    for o in outlines.values():
+        if o["rank"] != "Unorganized":
+            KNOWN[o["name"].lower()] = o["name"].capitalize() if o["name"].isupper() else o["name"]
+
+
 def teacher_of(o):
-    """Who the bucket files the outline under, or, for the unorganized files, who it names."""
+    """Who the bucket files the outline under, or, for the unorganized files, who it names:
+    in its title, or on its first page if that is a known teacher's name."""
     if o["rank"] != "Unorganized":
         name = o["name"].capitalize() if o["name"].isupper() else o["name"]
         return f"{o['rank']} {name}"
-    for s in (o["title"], o["key"].split("/")[-1], o["text"][:800]):
-        m = TEACHER.search(s.replace("Natahnyel", "Nathanyel"))
-        if m and m.group(2).lower() not in NOT_NAMES:
-            return f"{RANKS[m.group(1).lower()]} {m.group(2).capitalize()}"
+    for n, s in enumerate((o["title"], o["key"].split("/")[-1], o["text"][:800])):
+        for m in TEACHER.finditer(s):
+            name = proper_name(m.group(2), titled=n < 2)
+            if name:
+                return f"{RANKS[m.group(1).lower()]} {name}"
     return ""
+
+
+def proper_name(word, titled=False):
+    """A teacher's name: as the bucket spells it, a name from the Bible, or a near spelling of a
+    teacher the bucket files outlines under ("Yawasop" -> "Yawasap"). A name in a title or file
+    name is taken as given; on the page, an ordinary word after a title ("Bishop asks") is not."""
+    w = word.lower()
+    if w in NOT_NAMES or len(w) < 3:
+        return None
+    if w in KNOWN:
+        return KNOWN[w]
+    if w in bible_names():
+        return word.capitalize()
+    close = difflib.get_close_matches(w, KNOWN, n=1, cutoff=.8)
+    if close:
+        return KNOWN[close[0]]
+    return word.capitalize() if titled and word[0].isupper() else None
+
+
+_NAMES = set()
+
+
+def bible_names():
+    """Words the King James text only ever writes capitalized: its proper names."""
+    if not _NAMES:
+        upper, lower = set(), set()
+        for f in glob.glob(str(ROOT / "data" / "bible" / "*.json")):
+            if not f.endswith("index.json"):
+                for ch in json.load(open(f, encoding="utf-8"))["chapters"].values():
+                    for v in ch:
+                        for x in re.findall(r"[A-Za-z]+", v):
+                            (upper if x[0].isupper() else lower).add(x.lower())
+        _NAMES.update(upper - lower)
+    return _NAMES
 
 
 def session_of(o):
@@ -456,6 +502,7 @@ def main():
 
     files = fetch_all()
     outlines = {k: read_outline(k, p) for k, p in sorted(files.items())}
+    known_teachers(outlines)
     cat = catalog()
     import multiprocessing  # here, not at the top: auto.py imports this module with scripts/notes first on the path
     with multiprocessing.Pool() as pool:
