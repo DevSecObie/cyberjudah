@@ -117,6 +117,17 @@ def raw_lines(t):
     return "\n".join(f"[{s[0]}s] {s[1]}" for s in t["segments"] if s[0] >= (t.get("start") or 0) - 60)
 
 
+def filed_teacher(video):
+    """Who taught a class, as the sabbath-classes-images bucket files its transcript
+    (data/sources/class-teachers.tsv). Used only when the class never names its teacher."""
+    path = os.path.join(ROOT, "data", "sources", "class-teachers.tsv")
+    if not os.path.exists(path): return ""
+    for line in open(path, encoding="utf-8"):
+        cols = line.rstrip("\n").split("\t")
+        if len(cols) > 3 and cols[2] == video: return cols[3]
+    return ""
+
+
 def prepare(t):
     paras, _ = prep.condense(raw_lines(t))
     text = "\n\n".join(paras)
@@ -125,7 +136,7 @@ def prepare(t):
         good, detail = prep.verify(r)
         if good and detail not in refs: refs.append(detail)
     who, _ = prep.teacher_of(text[:12000])
-    return text, refs, who
+    return text, refs, who or filed_teacher(t.get("videoId", ""))
 
 
 def ask_model(t, text, refs, who):

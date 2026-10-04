@@ -26,10 +26,10 @@ jobs:
           mkdir -p r2-inventory
           python3 scripts/r2/r2.py list > r2-inventory/listing.ndjson
           python3 scripts/r2/summary.py r2-inventory/listing.ndjson > r2-inventory/SUMMARY.md
-          # The bucket's own guide to its layout.
-          python3 scripts/r2/r2.py get text/README.md r2-inventory/BUCKET-README.md
           cat r2-inventory/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
+      # The list is committed only on a working branch, never on main.
       - name: Commit the list
+        if: github.ref_name != 'main'
         run: |
           git config user.name "r2 inventory"; git config user.email "engine@cyberjudah.io"
           git add r2-inventory
