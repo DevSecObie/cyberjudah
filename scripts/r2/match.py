@@ -449,6 +449,26 @@ def decide(m, outlines, yrefs):
     return result
 
 
+REVIEWED = ROOT / "data" / "sources" / "r2-reviewed.tsv"
+
+
+def apply_reviewed(m, outlines, result):
+    """Matches decided by reading the outline against the class (data/sources/r2-reviewed.tsv)
+    replace what the scores say. An empty video means the class has no YouTube copy."""
+    if not REVIEWED.exists():
+        return
+    for line in REVIEWED.read_text(encoding="utf-8").splitlines():
+        cells = line.split("\t")
+        if len(cells) < 4 or not cells[0].startswith("text/") or cells[0] not in outlines:
+            continue
+        key, video, twins = cells[0], cells[1], [t for t in cells[2].split(",") if t]
+        if video:
+            result[key] = {"status": "match", "how": "reviewed", "f": m.score(outlines[key], video),
+                           "twins": twins, "others": []}
+        else:
+            result[key] = {"status": "none", "how": "reviewed", "f": None, "twins": twins, "others": []}
+
+
 TEACHERS = ROOT / "data" / "sources" / "r2-class-teachers.tsv"
 
 
@@ -477,7 +497,7 @@ def write_teachers(outlines, result, cat):
             f = r["f"]
             rows[key] = [cat[f["id"]]["date"] or "", (o["dates"] or [""])[0], f["id"], teacher, session_of(o), o["lang"],
                          str(round(f["s"] + (f["w"] or 0), 2)), key]
-        elif key in old and r["status"] == "none" and len(o["refs"]) < 3:   # no scriptures to check the title match by
+        elif key in old and r["status"] == "none" and r["how"] != "reviewed" and len(o["refs"]) < 3:   # no scriptures to check the title match by
             rows[key] = old[key]
     by_video = collections.defaultdict(set)
     for key, cells in rows.items():
@@ -511,6 +531,7 @@ def main():
         yrefs = dict(pool.map(transcript_refs, [(i, c["path"]) for i, c in cat.items()], chunksize=50))
     m = Matcher(cat, yrefs)
     result = decide(m, outlines, yrefs)
+    apply_reviewed(m, outlines, result)
 
     header = ("# Every class outline in the sabbath-classes-images R2 bucket (text/), and the YouTube class it is.\n"
               "# Written by scripts/r2/match.py, which matches by the outline's scriptures and words against what was\n"
