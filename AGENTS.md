@@ -21,6 +21,7 @@ A **precept pass** turns one class that has no study note yet into one data file
    t = json.load(open("blog/transcripts/<video id>.json"))
    text, refs, who = auto.prepare(t)   # text: the class condensed with [m:ss] times; refs: verified references in order; who: teacher, if found
    ```
+   When the class never names its teacher, `who` comes from an admin correction in `data/sources/class-teachers.tsv`, else from `data/sources/r2-class-teachers.tsv` (who the sabbath-classes-images transcripts are filed under). A name the class gives itself always wins.
    Read ALL of it before writing. `refs` is a strong hint, not a limit: a passage read as a range (Isaiah 61:1-3) may show there as single verses.
 3. **Write** `data/precepts/classes/<video id>.json` by the rules below. The King James text is in `data/bible/<book slug>.json` (`chapters["<n>"][verse - 1]`). Use it for every quote.
 4. **Check it:** `python3 scripts/precepts/classes.py check data/precepts/classes/<video id>.json` must print `0 problem(s)`. The same check runs on the pull request.

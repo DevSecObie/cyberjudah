@@ -1,0 +1,37 @@
+# Lists the sabbath-classes-images R2 bucket (read only) and commits the file list to
+# this branch, so the contents can be reviewed without handing the keys to anyone.
+# The keys stay in Actions secrets; only object names, sizes and dates are written.
+name: Inventory R2
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/hopeful-lovelace-96k2r6]
+    paths: [".github/workflows/r2-inventory.yml", "scripts/r2/**"]
+permissions:
+  contents: write
+concurrency: r2-inventory
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: List the bucket
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT: https://2ab28c80faa4e6e48e1671865852cb45.r2.cloudflarestorage.com
+          R2_BUCKET_NAME: sabbath-classes-images
+        run: |
+          test -n "$R2_ACCESS_KEY_ID" && test -n "$R2_SECRET_ACCESS_KEY" || { echo "::error::R2 secrets are not set on this repository"; exit 1; }
+          mkdir -p r2-inventory
+          python3 scripts/r2/r2.py list > r2-inventory/listing.ndjson
+          python3 scripts/r2/summary.py r2-inventory/listing.ndjson > r2-inventory/SUMMARY.md
+          cat r2-inventory/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
+      # The list is committed only on a working branch, never on main.
+      - name: Commit the list
+        if: github.ref_name != 'main'
+        run: |
+          git config user.name "r2 inventory"; git config user.email "engine@cyberjudah.io"
+          git add r2-inventory
+          git commit -qm "R2 inventory $(date -u +%FT%TZ) [skip ci]" || exit 0
+          git push -q origin HEAD:${GITHUB_REF_NAME}
