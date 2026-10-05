@@ -26,7 +26,7 @@ Owner (Obie, DevSecObie)  ──  approves every merge and every production depl
     └── Data steward            (publishes, link check, D1 loads, holy-day calendar check, workflow health)
 ```
 
-Everyone reports to the CEO. The CEO reports to the owner. CeeJay is outside the production chain: it hires and configures seats, carries the owner's requests into Paperclip, and does not write product code or content. The existing agent **Dex** (codex_local, unconfigured) can be given the App engineer or Backend engineer seat instead of hiring a new agent; see `ops/SETUP.md`.
+Everyone reports to the CEO. The CEO reports to the owner. CeeJay is outside the production chain: it hires and configures seats, carries the owner's requests into Paperclip, and does not write product code or content. The existing agent **Dex** (codex_local, unconfigured) is not part of the team: CeeJay could not reconfigure it, so a separate Backend engineer was hired (5 October 2026); the owner can delete Dex or keep it for other work. See `ops/SETUP.md` §3.
 
 ## Model tiers in this Paperclip
 

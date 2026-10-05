@@ -36,7 +36,7 @@ Why you: only you hold the Cloudflare account and the GitHub account.
 
 ## 3. Create each agent in Paperclip with the right adapter and model
 
-CeeJay can create all of these for you once you confirm the list (it will post one confirmation card naming every seat; company approval gates still apply to each hire). If you prefer to create them yourself, use the table. The exact model names are in `ops/TEAM.md` and nowhere else.
+**Done 5 October 2026, ~02:40 UTC.** You accepted the confirmation card on [CYB-2](/CYB/issues/CYB-2) and CeeJay created all thirteen seats below through the hire API, each with the matching `ops/agents/<role>/AGENTS.md` as its managed instructions, the `paperclip` skill, the budget, icon and reporting line in this table, and timer heartbeats off. The company does not require board approval for new agents, so every seat is `idle` and ready. The table stays as the record of what was set; the exact model names are in `ops/TEAM.md` and nowhere else.
 
 | Paperclip agent name | Role key | Adapter | Model (from TEAM.md) | Effort / options | Budget (cents/month) | Timer heartbeat | Reports to | Icon |
 |---|---|---|---|---|---|---|---|---|
@@ -56,19 +56,28 @@ CeeJay can create all of these for you once you confirm the list (it will post o
 
 For every seat:
 
-- [ ] **Instructions.** Paste the full text of `ops/agents/<role>/AGENTS.md` into the agent's managed instructions bundle as `AGENTS.md` (the hire API field is `instructionsBundle.files["AGENTS.md"]`). Prepend this one line so the seat always reads the latest copy from the repository before working:
+- [x] **Instructions.** The full text of `ops/agents/<role>/AGENTS.md` is in each agent's managed instructions bundle as `AGENTS.md` (hire API field `instructionsBundle.files["AGENTS.md"]`), with this line prepended so the seat always reads the latest copy from the repository before working:
   `Before any work: fetch and read the current ops/RULES.md, ops/STATE.md and ops/agents/<role>/AGENTS.md from the main branch of DevSecObie/cyberjudah; the copy below is the version at hire time.`
-- [ ] **Working directory.** `adapterConfig.cwd` is a directory on the Paperclip host that will hold the seat's checkouts (one per repository). Content seats need a full checkout of `cyberjudah` (the transcripts and `data/bible`); the Timeline researchers need both repositories and set `CJ_ROOT` to the cyberjudah checkout.
-- [ ] **Skills.** Give every seat the `paperclip` skill. The Data steward also needs nothing else. CeeJay keeps `paperclip-create-agent` and `paperclip-board`; no other seat needs them.
-- [ ] **Secrets.** Bind the §2 secrets to the seats named there.
-- [ ] **Existing agent Dex.** Dex is an unconfigured `codex_local` agent in this company. Rather than hiring a thirteenth agent, you can rename it to App Engineer or Backend Engineer, set its model, budget and instructions as above, and set `reportsTo` to the CEO. If you keep Dex for something else, say so and CeeJay will leave it alone.
-- [ ] **Approval.** If the company requires board approval for new agents (it does not today), approve each hire in Paperclip's approvals.
+  That line only works once PR #51 is merged, so **merge PR #51 before any seat runs.**
+- [x] **Working directory.** No `adapterConfig.cwd` was set: Paperclip gives each run the project's managed workspace (the `Onboarding` project, strategy `project_primary`), which already holds a `cyberjudah` checkout. The Timeline researchers and the two engineers also need `cyberjudah-telegram`; they clone it beside `cyberjudah` on first use and set `CJ_ROOT` to the cyberjudah checkout. If you prefer a fixed directory per seat, set `cwd` in the agent's settings.
+- [x] **Skills.** Every seat has the `paperclip` skill and nothing else. CeeJay keeps `paperclip-create-agent` and `paperclip-board`.
+- [ ] **Secrets.** Bind the §2 secrets to the seats named there (owner; see §2).
+- [ ] **Existing agent Dex.** CeeJay could not repurpose Dex: its key may hire agents but not edit another agent's configuration (the API answered 403 `agents:configure`). A separate **Backend Engineer** was therefore hired, so the company has thirteen team seats plus Dex. Dex is untouched and still unconfigured; delete it in the Paperclip UI, or keep it for something else and tell CeeJay.
+- [x] **Approval.** The company does not require board approval for new agents; every hire landed `idle`.
+- [ ] **Verify one seat.** CeeJay cannot read back another agent's configuration (the API redacts it), so open one agent in the Paperclip UI (the CEO, say) and confirm the model, effort, budget and instructions match the table above.
 
 Why you (or CeeJay with your confirmation): hiring is a governed action.
 
 ## 4. Create the routines
 
-Routines create an issue for their seat on a schedule; the seat picks it up like any issue. All times UTC. Concurrency `skip_if_active` (never two of the same run at once); catch-up `skip_missed`. CeeJay can create these once the agents exist; agents can only own routines assigned to themselves, so CeeJay creates them on each seat's behalf with board rights or you create them in the UI.
+Routines create an issue for their seat on a schedule; the seat picks it up like any issue. All times UTC. Concurrency `skip_if_active` (never two of the same run at once); catch-up `skip_missed`.
+
+**Status 5 October 2026:** CeeJay tried to create all nine and Paperclip refused every one (403, "Agents can only manage routines assigned to themselves"); an agent key cannot create a routine for another seat, board rights or not. The standing **"CEO seat" issue exists as [CYB-3](/CYB/issues/CYB-3)** (unassigned until PR #51 is merged). Two ways to finish, pick one:
+
+- **You create them in the Paperclip UI** from the table below (Routines → New; assign to the seat; schedule trigger with the cron and timezone UTC; parent issue CYB-3 for the CEO's). About ten minutes.
+- **Each seat creates its own.** After PR #51 is merged, tell CeeJay "dispatch the routine issues": it opens one issue per seat with the exact title, cron, description and policies, and the seat creates the routine assigned to itself on its first run. That first run is also the seat's "took the seat" check.
+
+Either way, create them **paused** until §5 is done for the one they replace, then activate.
 
 | Routine | Seat | Cron (UTC) | Notes |
 |---|---|---|---|
