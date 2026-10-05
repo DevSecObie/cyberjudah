@@ -2,7 +2,7 @@
 
 The CEO keeps this file current at the end of every cycle (see `ops/RUNBOOK.md`). It holds the roadmap, the decisions and their dates, what is waiting on the owner, what is blocked, and the next actions, so that any runtime can take the CEO seat by reading it. Every assignment and decision is also a Paperclip issue or comment; this file is the summary, Paperclip is the record.
 
-**Last updated:** 5 October 2026, ~02:40 UTC, by CeeJay (chief of staff): the thirteen seats now exist in Paperclip (`ops/SETUP.md` §3); routines and the CEO's first run wait on PR #51 merging (§5.1, §6). Built from the handoff of 4 October 2026 (~18:00 UTC) and a read of both GitHub repositories at 5 October ~01:45 UTC. Where the two differ, both are given; the CEO verifies on GitHub before acting.
+**Last updated:** 5 October 2026, ~02:40 UTC, by CeeJay (chief of staff): the thirteen seats exist in Paperclip (`ops/SETUP.md` §3); the routine-setup issues CYB-4 to CYB-11 are pre-created and released to the seats when PR #51 merges (§4); the owner has decided to delete Dex in the UI (§3). Built from the handoff of 4 October 2026 (~18:00 UTC) and a read of both GitHub repositories at 5 October ~01:45 UTC. Where the two differ, both are given; the CEO verifies on GitHub before acting.
 
 ---
 
@@ -56,7 +56,7 @@ No other standing approval exists. Every other merge and every production deploy
 
 ## 5. Waiting on the owner
 
-1. **Set up the team** (`ops/SETUP.md`). Done: GitHub connected (§1); the thirteen seats created, all `idle` (§3). Still yours: **merge PR #51** so the seats can read `ops/` from `main`; add the R2 secrets (§2); create the nine routines in the UI or tell CeeJay to dispatch the routine issues (§4); assign [CYB-3](/CYB/issues/CYB-3) to the CEO or run its routine once by hand (§7); switch off the three Claude routines after their replacements' first runs (§5); delete or keep Dex (§3).
+1. **Set up the team** (`ops/SETUP.md`). Done: GitHub connected (§1); the thirteen seats created, all `idle` (§3). Still yours: **merge PR #51** so the seats can read `ops/` from `main`; add the R2 secrets (§2); nothing further for the routines: CYB-4 to CYB-11 go to the seats automatically after the merge (§4); activate each routine after switching off the Claude routine it replaces (§5); assign [CYB-3](/CYB/issues/CYB-3) to the CEO or run its routine once by hand (§7); delete Dex in the UI (§3).
 2. **Confirm or withdraw the standing approval for precept-pass merges** (§1).
 3. **Timeline tagging decisions:**
    - Is Brazil Asher? A class places it in Asher's span: video `0FPiXYsd-z8` at 1:18:56.
@@ -78,7 +78,8 @@ No other standing approval exists. Every other merge and every production deploy
 | 30 Timeline drafts | Sources at splcenter.org, adl.org and apnews.com could not be reached from the previous environment | Timeline researchers retry from Paperclip (web access); if still blocked, say so plainly |
 | Precepts reviewer merging | §1 standing approval unconfirmed | Owner |
 | Any seat's first run | PR #51 not merged: every seat's instructions start by reading `ops/` from `main`, which has no `ops/` yet | Owner merges cyberjudah #51 |
-| The nine routines (`ops/SETUP.md` §4) | Paperclip refuses an agent creating a routine for another seat (403) | Owner creates them in the UI, or tells CeeJay to dispatch one routine-setup issue per seat after #51 merges |
+| The nine routines (`ops/SETUP.md` §4) | Paperclip refuses an agent creating a routine for another seat (403); each seat creates its own | Routine-setup issues CYB-4 to CYB-11 are parked in `backlog`; CeeJay releases them to the seats once PR #51 is merged |
+| Deleting Dex (`ops/SETUP.md` §3) | Agent keys get 403 "Board access required" on terminate and delete | Owner deletes Dex in the Paperclip UI |
 
 ## 7. Next actions (for the CEO's first cycle)
 
