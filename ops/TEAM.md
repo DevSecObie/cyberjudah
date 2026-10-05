@@ -13,20 +13,27 @@ Owner (Obie, DevSecObie)  ──  approves every merge and every production depl
 │
 └── CEO  ──  owns the roadmap, assigns, reviews against the rules, reports daily
     ├── App engineer            (cyberjudah-telegram: app/)
+    │   └── Junior app engineer         (free; the mechanical part)
     ├── Backend engineer        (cyberjudah-telegram: bot/, shared/, resources/)
+    │   └── Junior backend engineer     (free; the mechanical part)
     ├── QA engineer             (reviews every PR; tests)
+    │   └── Junior QA engineer          (free; the mechanical part)
     ├── Security reviewer       (reviews every PR; secrets, admin checks, allowlists, privacy)
     ├── Release manager         (branches current, CI green, merge order, changelog, "ready to merge" list)
+    │   └── Junior release manager      (free; the mechanical part)
     ├── Notes writer            (cyberjudah: one class note at a time)
     ├── Precepts writer         (cyberjudah: one precept pass per PR; next-book breakdowns)
     ├── Precepts reviewer       (checks every pass against its class)
     ├── Timeline researcher A   (Judah batch, then shared upkeep)
+    │   └── Junior timeline researcher A  (free; the mechanical part)
     ├── Timeline researcher B   (Benjamin, Levi–Simeon batches, then shared upkeep)
+    │   └── Junior timeline researcher B  (free; the mechanical part)
     ├── Class archivist         (the sabbath-classes-images R2 bucket, read-only)
+    │   └── Junior class archivist      (free; the mechanical part)
     └── Data steward            (publishes, link check, D1 loads, holy-day calendar check, workflow health)
 ```
 
-Everyone reports to the CEO. The CEO reports to the owner. CeeJay is outside the production chain: it hires and configures seats, carries the owner's requests into Paperclip, and does not write product code or content. The existing agent **Dex** (codex_local, unconfigured) is not part of the team: CeeJay could not reconfigure it, so a separate Backend engineer was hired (5 October 2026), and the owner decided to delete Dex; CeeJay cannot delete agents, so that is a UI step for the owner. See `ops/SETUP.md` §3.
+Every senior seat reports to the CEO. The CEO reports to the owner. The seven **junior seats** (hired 5 October 2026, 16:49 UTC) each report to their senior counterpart, not to the CEO: the senior assigns the work, checks it and answers for it. A junior carries the same `ops/agents/<role>/AGENTS.md` text as its senior with the junior-seat rules on top, runs on a completely free model at a monthly budget of 0, has no timer heartbeat, and wakes only when the senior or the CEO gives it an issue. Where a junior's work needs a judgement — what is ready to merge, whether a pass is faithful, whether a source holds — it stops and hands it to the senior. CeeJay is outside the production chain: it hires and configures seats, carries the owner's requests into Paperclip, and does not write product code or content. The existing agent **Dex** (codex_local, unconfigured) is not part of the team: CeeJay could not reconfigure it, so a separate Backend engineer was hired (5 October 2026), and the owner decided to delete Dex; CeeJay cannot delete agents, so that is a UI step for the owner. See `ops/SETUP.md` §3.
 
 ## Model tiers in this Paperclip
 
@@ -40,6 +47,18 @@ The adapters installed here are `claude_local`, `codex_local`, `gemini_local`, `
 | Mid | `claude_local` · `claude-sonnet-5` | `claude-opus-5` (content) or `codex_local` · `gpt-5.6-sol` (QA) | Strong and cheaper; web fetch and search are available for research. |
 | Low-cost | `claude_local` · `claude-haiku-4-5` | `claude-sonnet-5` | Fast and cheap for mechanical work. |
 | Free or local | `opencode_local` · `opencode/nemotron-3.5-lightning-free` | `gemini_local` (default model, free tier) | No-cost model for scripted checks that open issues. No local model server (Ollama) is installed on this host; if one is added, point this seat at it. |
+
+### The three free pools (the junior seats)
+
+The owner's decision of 5 October 2026 keeps every senior seat on the tiers above and puts the junior seats on completely free models. One free pool cannot carry seven seats, so the load is spread across three. Each pool has its own counter, so a junior stopping on a limit never stops the others.
+
+| Free pool | Adapter · model | Fallback | Limits and what it carries |
+|---|---|---|---|
+| **OpenCode free pool** | `opencode_local` · `opencode/nemotron-3.5-lightning-free` | another `opencode/*-free` model from the same pool | OpenCode's own free models; no key, nothing to buy. Carries the mechanical sweeps (the Junior release manager), the same pool the Data steward already runs on. |
+| **OpenRouter free** | `opencode_local` · `openrouter/<model>:free` — `openrouter/qwen/qwen3.8-27b:free` (QA), `openrouter/nvidia/nemotron-3.5-lightning:free` (archive), `openrouter/poolside/laguna-s-2.1:free` (code) | `openrouter/qwen/qwen3.8-27b:free` for the coding seats | Needs the owner's `OPENROUTER_API_KEY` (`ops/SETUP.md` §3). 20 requests a minute; 50 a day on an account that has never bought credit, 1,000 a day once it has bought $10 once. Free models never spend that credit. The counter is **per account**, so all four OpenRouter juniors share it. Carries the judgement-adjacent junior work. |
+| **Second free pool** | `gemini_local` · default model, free tier | none; the seat stops and says so | Needs `GEMINI_API_KEY` or that pool's CLI login on the host (`ops/SETUP.md` §3). Carries the two junior Timeline researchers' web research, so it never draws on the OpenRouter counter. |
+
+Nobody works around a pool's limit. A run that stops on a rate limit says so plainly, the issue goes back to its senior, and the CEO reports it the same day (rule 9).
 
 Budgets below are Paperclip monthly caps (`budgetMonthlyCents`) used to track estimated spend and pause a runaway seat; the Claude and Codex seats run on the owner's subscriptions, so the caps are a tracking ceiling, not a bill. **Weekly-limit risk:** every `claude_local` seat draws on one subscription's weekly allowance. The schedules below are staggered so that the heavy content runs never overlap, the two engineers sit on Codex, and the CEO reports spend in every daily report (see `ops/RUNBOOK.md`, "Spending").
 
@@ -60,10 +79,19 @@ Budgets below are Paperclip monthly caps (`budgetMonthlyCents`) used to track es
 | **Timeline researcher B** | Finish **Benjamin** (the West Indies) and **Levi–Simeon** (Haiti and the Dominican Republic) the same way; then share the drafts and upkeep. | CEO | Mid, with web access · `claude-sonnet-5` (`claude-opus-5`) | Trigger: one batch per issue | $50 | Same as A. The two never work the same batch; the CEO assigns batches and the researchers' PRs are stacked, not parallel, on the three data files. | Same as A. |
 | **Class archivist** | The `sabbath-classes-images` R2 bucket (read-only): match files to classes; fill teacher and date gaps (corrections to `class-teachers.tsv`, the R2 table to `r2-class-teachers.tsv`); list the classes found only in R2; hand the Spanish files to the CEO for a decision; give the writers checked wording with its R2 key and line. | CEO | Low-cost · `claude-haiku-4-5` (`claude-sonnet-5`) | Trigger: issues from the CEO or a writer's request; weekly inventory check (Wednesday 09:00 UTC) | $25 | **cyberjudah:** `data/sources/class-teachers.tsv`, `data/sources/r2-class-teachers.tsv`, `data/sources/r2-classes.tsv` (if #47 lands), `scripts/r2/**` (tools), `r2-inventory/**` on a working branch only. | Copy R2 text wholesale into a repo; write notes or passes; set a teacher or date it cannot point to a file name or line for; merge. |
 | **Data steward** | Watches data.cyberjudah.io publishes, the link check, D1 search loads, the weekly IUIC holy-day calendar check, the health of routines and workflows, and R2 bundle status. Opens an issue on any failure. | CEO | Free or local · `opencode/nemotron-3.5-lightning-free` (`gemini_local`) | Routine every 6 h at 03:45, 09:45, 15:45, 21:45 UTC + Monday 06:30 UTC holy-days check | $0 | Paperclip issues only. No repository writes. | Re-run a workflow that deploys or publishes; close someone else's issue; "fix" anything; touch secrets. |
+| **Junior release manager** | The mechanical part of the Release manager's sweep: merge `main` into the team's own PR branches, read CI status, list what is green and what is red, keep `ops/RELEASES.md` typed up. The senior holds the judgement. | Release manager | Junior free · OpenCode pool · `opencode/nemotron-3.5-lightning-free` (another `opencode/*-free`) | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | What the Release manager may write to, and only on a branch the senior names. | Everything the Release manager never does, and: decide the ready-to-merge order; retarget a PR; touch a branch the senior has not named; answer the owner or the CEO instead of its senior. |
+| **Junior QA engineer** | The mechanical part of QA: run typecheck, the unit tests and Playwright in all three browsers, paste the exact failing output, re-run a suspected flake once and say that it flaked. The senior holds the judgement. | QA engineer | Junior free · OpenRouter · `openrouter/qwen/qwen3.8-27b:free` | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | Test files only, as the QA engineer may, on the PR's own branch or a `qa/<pr>` branch the senior names. | Everything the QA engineer never does, and: block or approve a PR; decide what a red check means; write a new test without the senior's wording of what it must prove. |
+| **Junior class archivist** | The mechanical part of the archive work: list R2 keys, match file names to classes, pull the title, teacher and date lines out of a text file and tabulate them with the R2 key and the line number. The senior holds the judgement. | Class archivist | Junior free · OpenRouter · `openrouter/nvidia/nemotron-3.5-lightning:free` | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | The Class archivist's paths, on a working branch the senior names; rows for `class-teachers.tsv` and the `r2-*.tsv` files as a proposal the senior checks before the PR. | Everything the Class archivist never does, and: set a teacher or a date; call a match confirmed; copy R2 text wholesale; decide anything about the Spanish files. |
+| **Junior app engineer** | The mechanical part of the app work: scaffolding, renames, moving a component, the type fixes the compiler names, writing out a change the senior has specified, running the build. The senior holds the judgement. | App engineer | Junior free · OpenRouter · `openrouter/poolside/laguna-s-2.1:free` (`openrouter/qwen/qwen3.8-27b:free`) | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | What the App engineer may write to, on the senior's branch or a branch the senior names, one specified change at a time. | Everything the App engineer never does, and: design a screen; change a data shape or a contract; touch `bot/`; open a PR without the senior. |
+| **Junior backend engineer** | The mechanical part of the Worker work: moving a handler, the type and lint fixes the tooling names, writing out a change the senior has specified, running the tests. The senior holds the judgement. | Backend engineer | Junior free · OpenRouter · `openrouter/poolside/laguna-s-2.1:free` (`openrouter/qwen/qwen3.8-27b:free`) | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | What the Backend engineer may write to, on the senior's branch or a branch the senior names, one specified change at a time. | Everything the Backend engineer never does, and: decide an API shape; touch secrets, bindings or `wrangler.jsonc`; change `ADMIN_IDS` or any gate; open a PR without the senior. |
+| **Junior timeline researcher A** | The mechanical part of a batch: run the research kit's searches, collect candidate sources with their URLs and dates, search the classes for the event, and fill the batch fields that are plain transcription. The senior holds the judgement. | Timeline researcher A | Junior free · second pool · `gemini_local` default model, free tier | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | `app/scripts/final-captivity/research/batches/<batch>.json` on the senior's branch, candidate rows only. | Everything the Timeline researcher never does, and: judge whether a source holds; assign a tribe; write the public wording; run `tmerge.py` or touch the merged data files. |
+| **Junior timeline researcher B** | Same, for the senior's batches. The two juniors never work the same batch; each takes only what its own senior assigns. | Timeline researcher B | Junior free · second pool · `gemini_local` default model, free tier | None; on demand (no timer heartbeat; wakes on an issue from its senior or the CEO) | $0 | Same as A, on researcher B's branch. | Same as A. |
 
 Seat notes:
 
 - **Two researchers, one `AGENTS.md`.** Both Timeline seats read `ops/agents/timeline-researcher/AGENTS.md`; the seat letter and the batch come from the Paperclip issue. They are two agents in Paperclip (A and B) so they run in parallel on different batches.
+- **The junior seats, one rule.** Each junior carries its senior's `ops/agents/<role>/AGENTS.md` word for word, with the junior-seat rules on top: do only what the issue names; never decide, only report; when a judgement is needed, stop and hand it back to the senior with what you found; never merge, never open a PR of your own, never answer the owner directly; if the free pool refuses the run, say so plainly and stop (rule 9). The senior answers for the junior's work as if it were its own.
+- **Junior timeline researchers A and B** read the same `ops/agents/timeline-researcher/AGENTS.md` as the seniors; the seat letter and the batch come from the Paperclip issue, and each junior takes work only from its own senior.
 - **CeeJay** keeps its existing configuration and instructions; it is listed here so the chart is complete.
 - **Codex (ChatGPT) and GitHub Copilot** keep working from the owner's prompts and issue templates as before. They are not Paperclip agents. The team reviews their PRs (QA, Security, the Precepts reviewer, the Notes writer) and the Release manager keeps their merge order, but never rewrites their branches.
 
@@ -85,6 +113,8 @@ Seat notes:
 | | `strong/**` (the Bible Strong fork), `PRIVACY.md`, `SECURITY.md`, `LICENSE` | nobody without the owner |
 | **R2 `sabbath-classes-images`** | read only | Class archivist; Notes and Precepts writers may read a file the archivist points them to |
 | **R2 `cyberjudah-audio`**, D1, KV, Vectorize, Worker secrets | no agent writes; the owner (an admin) publishes bundles and deploys | — |
+
+A junior seat adds no paths of its own: it may write only where its senior may, only on a branch the senior names, and only the change the issue spells out.
 
 ## What nobody on the team ever does
 
