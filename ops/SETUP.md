@@ -65,19 +65,19 @@ Why you: only you hold the Cloudflare account and the GitHub account.
 | Junior Class Archivist | `class-archivist` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | Class Archivist | `search` |
 | Junior App Engineer | `app-engineer` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | App Engineer | `code` |
 | Junior Backend Engineer | `backend-engineer` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | Backend Engineer | `database` |
-| Junior Timeline Researcher A | `timeline-researcher` | `gemini_local` | Junior free · Gemini | Gemini free tier | 0 | off (wake on demand) | Timeline Researcher A | `telescope` |
-| Junior Timeline Researcher B | `timeline-researcher` | `gemini_local` | Junior free · Gemini | Gemini free tier | 0 | off (wake on demand) | Timeline Researcher B | `telescope` |
+| Junior Timeline Researcher A | `timeline-researcher` | `gemini_local` | Junior free · pool 2 | second free pool | 0 | off (wake on demand) | Timeline Researcher A | `telescope` |
+| Junior Timeline Researcher B | `timeline-researcher` | `gemini_local` | Junior free · pool 2 | second free pool | 0 | off (wake on demand) | Timeline Researcher B | `telescope` |
 
 **The keys these seats need (yours; no agent can do it).** Add each under the company's secrets and bind it as an **environment variable** to the seats named. Never into a file, a PR, a comment or a chat (rule 2).
 
 | Secret (environment variable name) | Bind to | Why |
 |---|---|---|
 | `OPENROUTER_API_KEY` | Junior QA Engineer, Junior Class Archivist, Junior App Engineer, Junior Backend Engineer | OpenCode reads it from the run's environment and only then lists OpenRouter's free models at all. Without it those four seats cannot start. |
-| `GEMINI_API_KEY` | Junior Timeline Researcher A, Junior Timeline Researcher B | The Gemini CLI free tier. **Or** sign the Gemini CLI in on this host once (`gemini` → login) instead of a key; either path works, not both needed. |
+| `GEMINI_API_KEY` | Junior Timeline Researcher A, Junior Timeline Researcher B | The second free pool's CLI free tier. **Or** sign that CLI in on this host once (login) instead of a key; either path works, not both needed. |
 
 - [ ] Create the key at openrouter.ai/keys and bind it to the four seats above.
 - [ ] Buy **$10 of OpenRouter credit once**. This lifts the free cap from 50 to 1,000 requests a day for the whole account; free models never spend the credit. Without it the four seats share 50 requests a day, which is one short run between them.
-- [ ] `GEMINI_API_KEY` bound to the two Gemini seats, or a Gemini CLI login on the host.
+- [ ] `GEMINI_API_KEY` bound to the two second-pool seats, or a CLI login on the host.
 
 The Junior Release Manager needs no key: it runs on OpenCode's own free pool, the one the Data Steward already uses. The other six cannot run until the three boxes above are ticked (`ops/STATE.md` §6).
 
