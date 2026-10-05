@@ -115,3 +115,40 @@ sqlite3 library.sqlite "SELECT v.book_slug, v.chapter, v.verse, snippet(verses_f
   FROM verses_fts JOIN verses v ON v.id = verses_fts.rowid WHERE verses_fts MATCH 'lamp AND feet' LIMIT 5"
 sqlite3 library.sqlite "SELECT kind, label, url, verses FROM citations WHERE book_slug = 'psalms' AND chapter = 119"
 ```
+
+### People corrections and pictures
+
+The People CMS changes only summaries, family relationships and optional credited
+pictures in `data/people/people.json`. The engine validates those profiles before
+building and copies picture metadata into their existing API responses. Picture
+URLs and source pages must use HTTPS; caption, credit and licence are required.
+No picture or biographical fact is added by the reader itself.
+
+Twenty-one unresolved links already present in the upstream-derived profiles are
+recorded in `people-legacy-links.json` with their source revision. They remain
+visible for correction; new unresolved relationships fail the gate. Editing one
+profile must not require inventing replacements for unrelated historical gaps.
+
+### Admin class metadata corrections
+
+`data/sources/class-teachers.tsv` holds explicit admin corrections with the columns
+`video`, `teacher`, `date`, `title` (tabs, one recording per row). Dates are real
+`YYYY-MM-DD` dates or blank when unknown. Do not infer a teacher or date. The in-app
+CMS also changes a linked note's front matter in the same review.
+
+The library applies these corrections before building note lists, commentary and
+precept metadata. Verse readings use the same correction, and
+`api/classes/metadata.json` includes both noted and undated recordings for the CMS.
+Original note URLs and transcript text stay intact. Invalid or duplicated rows fail
+`engine/check.mjs` and the regular `validate` CI check. The table starts empty;
+adding this reader changes no class facts.
+
+`api/classes/corrections.json` exposes only explicit corrections so the Telegram
+Worker can display the same title/date while its transcript search index awaits a
+rebuild. Publishing live content uses the `production` environment. Before enabling
+CMS publication, the owner must configure required reviewers for that environment
+in this repository; the environment name alone does not enforce approval.
+
+### Precept playback corrections
+
+A pass precept may carry an optional `ts` (`m:ss` or `h:mm:ss`). Its links in both directions use that moment; omitting it retains the opened passage's timestamp. Explanations and references are unchanged. `scripts/precepts/classes.py check` rejects invalid calendar dates and timestamp components and retains the exact KJV quote check. Data edits still require exactly one pass per PR; checker/reader implementation changes without pass data are allowed separately. CMS publication requires both `validate` and `check`. Production approval remains separate.

@@ -1,0 +1,283 @@
+# Who taught each class, as the transcript files in the sabbath-classes-images R2 bucket are filed
+# (by rank and teacher), matched to the YouTube class by title and date. Supplementary only:
+# the class's own words, then data/sources/class-teachers.tsv (admin corrections), win.
+date	file_date	video	teacher	session	lang	score	r2_key
+2023-02-18		CVG0in5y2xg	Deacon Malachi		en	0.85	text/Deacon/Malachi/en/Deacon_Malachi_Destruction_of_Nicanor_Class_Destruction_of_Nicanor.txt
+2023-04-22		SA1NDTDVj0k	Officer Yechiel		es	1.0	text/Officer/Yechiel/es/Officer_Yechiel_BBOOF_Shouldest_Destroy_Them_Which_Destroy_The_Earth.txt
+2023-09-09	2023-09-09	SR7Z5lrXTJM	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_Sorrow_&_Joy_Works_Together_090923.txt
+2023-09-16		Zk9FA121PN4	Deacon Malachi	Afternoon	en	0.98	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Afternoon_Class_WHY_CAN'T_WE_SUPPORT_EACHOTHER.txt
+2023-09-16	2023-09-16	_gGArCENCR8	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_Return_of_the_Saints_091623.txt
+2023-09-23	2023-09-23	XQ9zaCTDHrI	Bishop Kani		en	1.15	text/Bishop/Kani/en/Bishop_Kani_Afternoon_Class_Overcoming_Temptation_092323_.txt
+2023-09-24	2023-09-23	kfUCr2riN-s	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Sabbath_Evening_09_23_23_Bishop_Nathanyel_Rise_of_An_Unseen_Government.txt
+2023-09-30		UzqDReW3E4A	Captain Yahn	Morning	en	1.0	text/Captain/Yahn/en/Captain_Yahn_Sabbath_Morning_Class_The_United_States_is_Falling.txt
+2023-09-30	2023-09-29	mhd5cHSBoI4	Deacon Malachiyah		en	1.15	text/Deacon/Malachiyah/en/Deacon Malachiyah - Memorial of Blowing of Trumpets - 092923.txt
+2023-10-01		Pbm9vgNp3CY	Bishop Nathanyel	Evening	es	0.92	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Class_Wickedness_The_Grain_of_Evil.txt
+2023-10-07	2023-10-07	lv3c6Uw_S10	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_The_Imagination_of_Mankind_100723.txt
+2023-10-08	2023-10-07	w4xq3pRsMZM	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Class_Apocalypse_Approaching_100723.txt
+2023-10-09	2023-10-08	GO4X3j8CWR4	Deacon Malachiyah		en	1.15	text/Deacon/Malachiyah/en/Deacon Malachiyah - Day of Atonement - 100823 (2).txt
+2023-10-14		iecqAgeRdHA	Captain Gad	Morning	en	1.0	text/Captain/Gad/en/Captain_Gad_Sabbath_Morning_Class_Flattery_The_Compliments_of_Satan.txt
+2023-10-14	2023-10-14	pjSlmQHW340	Captain Hananiah	Noon	en	1.15	text/Captain/Hananiah/en/Sabbath_Noon_Class_Walk_worthy_of_our_calling_Captain_Hananiah_101423.txt
+2023-10-22	2023-10-21	mxrUSmorBPE	Bishop Nathanyel		en	0.91	text/Bishop/Nathanyel/en/Bishop Nathanyel _ FOT Close _Chastised By God _10.21.23.txt
+2023-10-28	2023-10-28	YE3iKK_tano	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_Now_Is_the_Time_to_WAKE_UP_102823.txt
+2023-10-28		nQ_yGdss3CY	Deacon Malachiyah	Afternoon	en	0.99	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Afternoon_TheWorldsGreatestConspiracyandControversy.txt
+2023-10-29	2023-10-28	DUgaKTdxW7w	Bishop Nathanyel		en	1.15	text/Bishop/Nathanyel/en/Bishop Nathanyel America_ Code Name Merodach 10_28_23.txt
+2023-11-04	2023-11-04	OEkPNZrhPSo	Captain Zakar	Morning	en	1.15	text/Captain/Zakar/en/Captain Zakar Sabbath Morning The Overcoming 110423.txt
+2023-11-04		_HfJf3gKno4	Bishop Kani	Afternoon	en	0.99	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Afternoon_YahawahsPowerForgivenessAndVengeance.txt
+2023-11-11		B6NVz6Ae9Pw	Deacon Malachiyah	Noon	en	0.9	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Class_NAKBA_Oppression_&_Modern_Day.txt
+2023-11-11		NgF1C9SlOiA	Deacon Yoshua	Afternoon	en	1.0	text/Deacon/Yoshua/en/Deacon_Yoshua_SabbathAfternoon_TheZionistsAndTheWildmanAsSalvationApproaches.txt
+2023-11-18	2023-11-18	0h8U1T4Vc64	Captain Shemaiah	Afternoon	en	1.15	text/Captain/Shemaiah/en/Captain_Shemaiah_SabbathAfternoon_TheHiddenEnemy_111823_compressed.txt
+2023-11-24		59-Gx4T9s5s	Deacon Malachi		en	0.93	text/Deacon/Malachi/en/Deacon_Malachi_Event_Class_An_Apartheid_State,_Thankskilling_Getaway.txt
+2023-11-25	2023-11-25	073Ck9rLJbA	Captain Aryeh	Morning	en	1.15	text/Captain/Aryeh/en/Captain Aryeh Sabbath Morning Unwaverable 11-25-23 .txt
+2023-11-25	2023-11-25	604Buk8BO6E	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_The_Door_of_Salvation_112523.txt
+2023-11-26		481KBcZqhqI	Bishop Nathanyel		es	0.97	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Nazi_Propoganda_is_the_ashke_nazi_agenda_Sabbath.txt
+2023-11-28	2023-11-27	TSP1caemZwI	Deacon Malachiyah		en	0.99	text/Deacon/Malachiyah/en/Deacon_Malachiyah_New_Moon_Class_The_Beginning_Of_Sorrows_112723.txt
+2023-12-02		I09F6vgSU8c	Deacon Yoshua	Afternoon	en	1.0	text/Deacon/Yoshua/en/Deacon_Yoshua_SabbathAfternoon_MartyrsForChristExaminingTheApostlesDeaths.txt
+2023-12-02	2023-12-02	aFwElf-rxL8	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_The_Last_Man_Standing_120223.txt
+2023-12-09	2023-12-09	ILcT5gXCCPA	Captain Zakar	Noon	en	0.95	text/Captain/Zakar/en/CAPTAIN_ZAKAR_Sabbath_Noon_Class_Lord_Remember_Me_12_09_2023_compressed.txt
+2023-12-09		jlp3rzyD0CI	Deacon Isaac	Afternoon	en	1.0	text/Deacon/Isaac/en/Deacon_Isaac_SabbathAfternoon_MoreThanServantsButFriendsDeathBeforeDishonor.txt
+2023-12-10	2023-12-09	3te_MLSvrIo	Deacon Malachiyah	Evening	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_The_Avengers_Sabbath_Evening_Class_12_09_23_.txt
+2023-12-16		yfAqSow0TWs	Captain Amaziah	Noon	en	1.0	text/Captain/Amaziah/en/Captain Amaziah Sabbath Noon Class_ Unbreakable (1).txt
+2023-12-22		w-olMXK_fdw	Deacon Malachiyah		en	0.91	text/Deacon/Malachiyah/en/Deacon_Malachiyah_FOD_Opening_The_Hammer_of_God_and_the_7_Arch_Angels.txt
+2023-12-23	2023-12-23	jHgdDSmNB-8	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_Restoring_Ourselves_122323.txt
+2023-12-23		kpfVcgj2peE	Bishop Yawasap	Afternoon	en	1.0	text/Bishop/Yawasap/en/BishopYawasap_SabbathAfternoon_DedicatedToTheMissionOfTheMinistry.txt
+2023-12-24	2023-12-23	-6qYpEJB-zE	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_PrepareForTheMaccabeesPerils_122323.txt
+2023-12-30	2023-12-30	KbdZXKl-6Fk	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_Perilous_Times_Shall_Come_123023.txt
+2023-12-30		Sq2RBBQ_CJg	Deacon Abbayael	Afternoon	es	1.0	text/Deacon/ABBAYAEL/es/Deacon_Abbayael_SabbathAfternoon_HeIsWorthyOurReasonableService.txt
+2023-12-31		Ogq8ZVwtDRM	Bishop Nathanyel	Evening	es	0.92	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_THE_CHEMARIMS_&_CATERPILLARS_FOR.txt
+2024-01-01	2023-12-31	D1_ZaM5nOtg	Deacon Malachi		en	0.88	text/Deacon/Malachi/en/Deacon_Malachi_NYE_Escape_So_Called__New_Year's_Eve__Marathon_123123.txt
+2024-01-06		2fPkHjF8ndo	Deacon Labachaa	Noon	en	0.97	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_Perilous_Times_Shall_Come_Part.txt
+2024-01-06	2024-01-06	DY4DXSQjrto	Bishop Kani	Afternoon	en	1.15	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Afternoon_Filled_With_The_Holy_Ghost_010624.txt
+2024-01-13		K0DWaWvJADM	Deacon Malachi	Noon	es	1.0	text/Deacon/Malachi/es/Deacon_Malachi_Sabbath_Noon_Genocide_In_Gaza_And_The_World_is_Silent.txt
+2024-01-13	2024-01-13	oaBguk6C9jI	Captain Shemaiah	Morning	en	1.15	text/Captain/Shemaiah/en/Pain_Produces_Power_Captain_Shemaiah_Sabbath_Morning_01_13_2024.txt
+2024-02-03		SPwzrfeFC98	Deacon Abbayael	Afternoon	es	1.0	text/Deacon/ABBAYAEL/es/Deacon_Abbayael_Sabbath_Afternoon_Be_Not_Conformed_But_Be_Ye_Transformed.txt
+2024-02-03	2024-02-03	mv92jSiL7tc	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_War_and_Rumors_of_Wars_020324.txt
+2024-02-04	2024-02-03	EMjPAB2eZXg	Bishop Nathanyel		es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_Lamenting_Our_Lost_People_02_03_2024.txt
+2024-02-10	2024-02-10	X7MoCscece0	Captain Kemuel	Morning	es	1.15	text/Captain/Kemuel/es/Captain_Kemuel_Sabbath_Morning_Class_Sanctuaries_of_the_Lord_021024.txt
+2024-02-10	2024-02-10	zXl0oQIhTno	Deacon Malachiyah	Afternoon	en	1.15	text/Deacon/Malachiyah/en/DeaconMalachiyah_SabbathAfternoon_WeightierMattersOfLaw_021024_compressed.txt
+2024-02-17		bnDJ6f_kUxw	Bishop Kani	Afternoon	en	0.99	text/Bishop/Kani/en/Bishop_Kani_SabbathAfternoon_OvercomeTurningSetbacksIntoComebacks2.txt
+2024-02-17		eKzFB2Ox89A	Deacon Malachiyah	Noon	en	0.98	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Class_Judgment,_Mercy,_and_Faith.txt
+2024-02-24		WH3aEAuGtlA	Deacon Malachi	Noon	en	1.0	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_Begin_to_Build_a_Little_Sanctuary.txt
+2024-02-25		c7ql6idxuKw	Bishop Nathanyel	Evening	es	0.87	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Class_Judgment_for_the_Mysteries (2).txt
+2024-03-02	2024-03-02	QpAgwZt57iU	Captain Joel	Morning	es	1.15	text/Captain/Joel/es/Captain_Joel_Sabbath_Morning_Ship_Full_of_Broken_Souls_03_02_2024.txt
+2024-03-02		xIseAxPXpVk	Bishop Kani	Afternoon	en	0.92	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Afternoon_Prepare_The_Chosen_Of_God_Shall_Be.txt
+2024-03-09	2024-03-09	rvUtoxrE4j8	Deacon Malachi	Afternoon	en	1.15	text/Deacon/Malachi/en/DeaconMalachi_SabbathAfternoon_WhoIsModernDayEsther_030924_compressed.txt
+2024-03-09	2024-03-09	ume12BJP6uI	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Kicking_Against_The_Pricks_030924.txt
+2024-03-23		Uf-y9XSFzLI	Deacon Abbayael	Afternoon	es	0.99	text/Deacon/ABBAYAEL/es/DeaconAbbayael_SabbathAfternoon_FruitsOfAPoisonousTreeFornication.txt
+2024-03-23	2024-03-23	c-6ujRQ6yqA	Captain Zakar	Morning	en	1.15	text/Captain/Zakar/en/Captain_Zakar_The_Fear_of_Purple_Sabbath_Morning_Class_03_23_24_ (2).txt
+2024-03-23	2024-03-23	xgOX_y5IihQ	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_Mortal_to_Immortal_03_23_2024.txt
+2024-03-24		YwHFtd9su84	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Resurrection_Of_The_Walking_Dead.txt
+2024-03-26	2024-03-25	pTh0COZxzR8	Deacon Malachiyah		en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_New_Moon_Getting_Rid_of_the_Leaven_032524.txt
+2024-03-30	2024-03-30	ovrc6zVRAgM	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Be_Not_Partakers_of_Her_Sins_033024.txt
+2024-03-31	2024-03-30	YYaP66DcEmk	Bishop Nathanyel	Evening	es	0.91	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Putin_Opens_Russias_Vault_033024.txt
+2024-04-06	2024-04-06	5ddle5YVJck	Captain Yadin	Noon	es	1.15	text/Captain/Yadin/es/Captain_Yadin_Sabbath_Noon_Divide_And_Conquer_Satan_In_My_Ear_040624.txt
+2024-04-06	2024-04-06	VeDO06f-1_g	Deacon Asaph	Afternoon	en	1.15	text/Deacon/Asaph/en/SabbathAfternoon_DeaconAsaph_WhatMannerOfPersonsOughtYeToBe_040624.txt
+2024-04-13	2024-04-13	V15SsIfBV5I	Captain Erel	Morning	en	1.15	text/Captain/Erel/en/Captain Erel - Sabbath Morning - Friendly Fire - 041324.txt
+2024-04-13	2024-04-13	znynrXyay6Y	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_The_Flesh_O_Wretched_Man_That_I_Am_041324.txt
+2024-04-14		rVYNnF8dKMc	Bishop Kani	Evening	en	0.86	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Evening_Class_Kingdom_Economics_Money_vs_Materials.txt
+2024-04-20	2024-04-20	q4UorwlTdjs	Deacon Labachaa	Noon	en	0.86	text/Deacon/Labachaa/en/Deacon_Labbacha_Sabbath_Noon_Class_The_Beloved_04_20_24.txt
+2024-04-24		XyEg16YPDHE	Deacon Malachiyah		en	0.9	text/Deacon/Malachiyah/en/Deacon_Malachiyah_New_Moon_Deliverance_and_the_Fruits_of_the_Spirit.txt
+2024-04-27		PaeMIk1l7Lc	Deacon Eythan	Noon	en	0.86	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Delivered_to_Satan_Spiritual_Solitary.txt
+2024-04-27	2024-04-27	ROHYYGUAHdI	Captain Gideon	Morning	en	1.15	text/Captain/Gideon/en/Captain_Gideon_Sabbath_Morning_Law_and_Order_042724_compressed.txt
+	2024-05-10	X2zRCAu6W6s	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Class_The_Fight_Within_05_10_24.txt
+	2024-05-11	EAiHhaWqq7I	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Sabbath_Class_Judges_of_the_Earth_051124.txt
+	2024-05-18	GMTntItyb6E	Deacon Malachiyah	Afternoon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_SabbathAfternoon_TheHiddenThingsOfWisdom_051824.txt
+	2024-05-18	XG1J6lr9WOI	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Wondrous_Things_Out_Of_Thy_Law_051824.txt
+	2024-05-25	AoVbL3x7CSo	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon Labachaa-Sabbath Noon Class-Accept The War-05.25.24--.txt
+	2024-05-25	LCl0ehoaInc	Captain Hananiah	Morning	en	1.0	text/Captain/Hananiah/en/Captain_Hananiah_Sabbath_Morning_Lord_Open_Mine_Understanding_052524.txt
+	2024-05-25	kKBMO1G0E8s	Deacon Yoshua	Afternoon	en	1.0	text/Deacon/Yoshua/en/Deacon_Yoshua_Sabbath_Afternoon_Class_A_Time_To_Change_05_25_2024.txt
+2024-06-01		DwOCVgDabZc	Deacon Malachiyah	Afternoon	en	0.91	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Afternoon_Class_A_Thin_Line_Between_Love.txt
+2024-06-01		xJhQJuXhK9U	Captain Gad	Morning	en	0.99	text/Captain/Gad/en/Captain_Gad_Sabbath_Morning_Class_Justification_Is_Satans_Manipulation.txt
+	2024-06-08	MAbvQuXaNrQ	Deacon Malachiyah	Noon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_The_Pitfalls_of_Porn_060824.txt
+	2024-06-15	oQ4V3co-VEw	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_The_Main_Weapons_of_the_Enemy_061524.txt
+	2024-06-22	_74hyjRBwjM	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Becoming_The_Bride_Of_Christ_062224.txt
+	2024-07-06	e_A7VSmukn4	Captain Horeb	Morning	en	1.0	text/Captain/Horeb/en/Captain_Horeb_Sabbath_Morning_Opposition_Of_Science_070624.txt
+	2024-07-06	uL_FmbE6qKA	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_Prophecy_of_Balaam_070624_compressed.txt
+	2024-07-13	7eibXgwt3W0	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_Disturbing_Truth_071324_compressed.txt
+	2024-07-20	AQEFVmBsAnM	Captain Amaziah	Morning	en	0.9	text/Captain/Amaziah/en/Captain_Amaziah_Sabbath_Morning_The_Broken_&_Bashful_7_20_24.txt
+	2024-07-22	IBnT5Ap3g2I	Captain Shemaiah	Noon	en	1.0	text/Captain/Shemaiah/en/Captain_Shemaiah_Sabbath_Noon_Silencing_the_Lambs_07_22_24.txt
+	2024-07-27	2cQdlYK4Pjc	Bishop Nathanyel	Evening	es	0.89	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Idolatry_America's_Last_Sin_072724.txt
+	2024-07-27	5HE_b5-Wj8Y	Captain Zakar	Morning	en	1.0	text/Captain/Zakar/en/Captain_Zakar_Sabbath_Morning_The_Saints_Encourage_Themselves_072724.txt
+	2024-07-27	kK4HV9Tq4Kk	Bishop Kani	Afternoon	en	1.0	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Afternoon_Natural_Born_Killers_072724.txt
+	2024-08-03	mCmhtA6UwlA	Captain Yadon	Noon	en	1.0	text/Captain/Yadon/en/Captain_Yadon_Sabbath_Noon_Love_Thy_Neighbor_as_Thyself_080324.txt
+2024-08-10	2024-08-10	40rKMV3e94k	Officer Nahum	Morning	en	1.04	text/Officer/Nahum/en/Officer_Nahum_Sabbath_Morning_Youth_Violence_and_Gangs_081024.txt
+2024-08-10		w-vqxlv-V-I	Bishop Kani	Afternoon	en	0.92	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Afternoon_The_Making_of_a_Leader_Destroy_and.txt
+2024-08-11	2024-08-10	uG32K9aIbYw	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Zechariah's_Leadership_081024.txt
+2024-08-17	2024-08-17	CIVzIyeudAA	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon Labachaa - Sabbath Noon - The Battle Is On - 081724.txt
+2024-08-24	2024-08-24	YsPnDB-Y4h8	Deacon Abbayael	Afternoon	es	1.07	text/Deacon/ABBAYAEL/es/Deacon_Abbayael_Sabbath_Afternoon_Shut_Your_Big_Black_Mouth_082424.txt
+2024-08-25		LeDD4syXbtc	Deacon Malachiyah	Evening	en	0.85	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Evening_Class_Negroes_The_Illusion_Of.txt
+2024-08-31		0aM832-ESy0	Captain Gedaliyah	Morning	en	1.0	text/Captain/Gedaliyah/en/Captain_Gedaliyah_Sabbath_Morning_Soul_Searchers_Looking_for_a_Purpose.txt
+2024-08-31	2024-08-31	ZVg3dLGWfFo	Deacon Malachiyah	Afternoon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Afternoon_From_Hoes_To_Housewives_083124.txt
+2024-09-01		wSs_GhzBz7s	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Israel_On_The_Islands_Of_The_Sea.txt
+2024-09-07		FEzDfBCBxRI	Captain Tobias	Morning	en	1.0	text/Captain/Tobias/en/Captain_Tobias_Sabbath_Morning_Marry_Thy_DaughterWeighty_Matter.txt
+2024-09-07	2024-09-07	UAOmCrSXU5Q	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Doth_Nature_Itself_Teach_You_090724.txt
+2024-09-08	2024-09-07	QiqRjb5boSQ	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_From_Desolation_to_Dominion_090724.txt
+2024-09-14		y9OB53JrkDA	Deacon Isaac	Noon	es	1.0	text/Deacon/Isaac/es/Deacon_Isaac_Sabbath_Noon_Christ_Is_King,_and_Israel_Is_His_Government.txt
+2024-09-21	2024-09-21	D05hRFh4sKo	Deacon Malachiyah	Noon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_My_Wife_Does_Not_Respect_Me_092124.txt
+2024-09-28	2024-09-27	5ejyYxeXaog	Bishop Kani		en	1.15	text/Bishop/Kani/en/Bishop Kani - DOA - Healing the Nation of Israel - 092724.txt
+2024-09-28	2024-09-28	lOMe4I6o6fU	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon Eythan - Sabbath Noon - The God of Free Will - 092824.txt
+2024-10-05		C-hR2CF-TYo	Deacon Malachi	Noon	en	0.9	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Am_I_Ready_for_the_Return_of_the_Black.txt
+2024-10-10	2024-10-10	Lj4IshVQWIs	Deacon Eythan		en	1.03	text/Deacon/Eythan/en/Deacon_Eythan_FOT_Close_Freedom_and_Mercy_of_the_New_Covenant_101024.txt
+2024-10-12	2024-10-12	Cn0to-m7zKI	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_The_Return_of_the_Temple_101224.txt
+2024-10-12	2024-10-12	naBUmGX7T1Y	Captain Yadon	Morning	en	1.15	text/Captain/Yadon/en/Captain_Yadon_Sabbath_Morning_The_Blueprint_of_A_Nation_10_12_2024.txt
+2024-10-19	2024-10-19	PZ0hBzYEx5c	Deacon Eythan	Noon	en	1.07	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_A_Just_Mans_Fall,_Rise_and_Resolve_101924.txt
+2024-10-20	2024-10-19	0DwfIBNGOP0	Bishop Nathanyel		es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_Palestine_And_The_Man_Of_Sin_101924.txt
+2024-11-02	2024-11-02	BWqCcXeGkaA	Captain Zakar	Morning	en	1.15	text/Captain/Zakar/en/Captain_Zakar_Sabbath_Morning_The_Vicissitudes_of_Life_110224_compressed.txt
+2024-11-03		KvGsyuoJGgw	Bishop Yawasap		en	1.0	text/Bishop/Yawasap/en/Bishop_Yawasap_Evening_Class_The_Curse_of_the_Absence_of_Fathers.txt
+2024-11-09	2024-11-09	1KzfRehOV2g	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon Labachaa - Sabbath Noon - Trust In the Lord - 110924.txt
+2024-11-09		zZ0uy-MzOx8	Captain Kemuel	Morning	es	0.87	text/Captain/Kemuel/es/Captain_Kemuel_Sabbath_Morning_The_Precepts_of_Stewardship_Order.txt
+2024-11-10		TF6HBkwSSf4	Bishop Yawasap	Evening	en	0.85	text/Bishop/Yawasap/en/Bishop_Yawasap_Sabbath_Evening_The_Blessings_&_Benefits_of_Present.txt
+2024-11-16	2024-11-16	HX4CC7f7mjs	Deacon Malachiyah	Afternoon	en	1.15	text/Deacon/Malachiyah/en/DeaconMalachiyah_SabbathAfternoon_TheShadowOfThingsToCome_111624.txt
+2024-11-16	2024-11-16	wXqhuFCk3ek	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Parental_Guidance_Suggested_111624.txt
+2024-11-17		zHx0l-HG8h0	Bishop Yawasap	Evening	en	0.9	text/Bishop/Yawasap/en/Bishop_Yawasap_Sabbath_Evening_Saving_Our_Children_Is_Our_Future.txt
+2024-11-23		6yXSTod_UEI	Captain Shem	Morning	en	0.92	text/Captain/Shem/en/Captain_Shem_Sabbath_Morning_Before_Bombs_Burst_Remember_Re_examine.txt
+2024-11-23	2024-11-23	g5whItMBiNQ	Deacon Abbayael	Afternoon	es	1.11	text/Deacon/ABBAYAEL/es/DeaconAbbayael_SabbathAfternoon_Leviticus18InRealTime_112324_compressed.txt
+2024-11-30	2024-11-30	4PBPKEKlbIk	Captain Amaziah	Morning	en	1.15	text/Captain/Amaziah/en/Captain_Amaziah_Sabbath_Morning_Class_The_War_Before_the_Woe_113024.txt
+2024-11-30	2024-11-30	q5Bdp3FLdO0	Deacon Malachiyah	Noon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Generational_Curses_113024.txt
+2024-12-01		Dz9y53bdfd4	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Assata_&_Saddam_A_tale_of_2_Revolutions.txt
+2024-12-10	2024-12-09	Ul1xR9TOUBo	Bishop Kani		en	1.15	text/Bishop/Kani/en/Bishop Kani - FOD - The Maccabean Revolt - 120924.txt
+2024-12-14	2024-12-14	GCAs12N5NgU	Captain Yawanathan	Morning	en	0.98	text/Captain/Yawanathan/en/Captain_Yawanathan_Sabbath_Morning_What_Manner_Ought_Ye_to_Be_121424.txt
+2024-12-17	2024-12-16	BGBbM1H_fX4	Deacon Malachiyah		en	1.15	text/Deacon/Malachiyah/en/Deacon Malachiyah - FOD - The Holy War - 121624.txt
+2024-12-21	2024-12-21	-M3tKjQTg1k	Captain Gad	Morning	en	1.15	text/Captain/Gad/en/Captain Gad Sabbath Morning The Depression of Man 12-21-24.txt
+2024-12-22	2024-12-21	hz27RvhwS8I	Deacon Malachiyah	Evening	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Evening_There_Shall_Be_No_More_Curse_122124.txt
+2024-12-28		Xpxyy14ht5E	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Gentiles_What_Happened_to_Northern_Kingdom.txt
+2024-12-28	2024-12-28	c0u_qKOB9Z4	Bishop Kani	Afternoon	en	0.91	text/Bishop/Kani/en/BishopKani-SabbathAfternoon-FalseBrethren-122824_compressed.txt
+2025-01-01	2024-12-31	lM9ftpXIPo0	Deacon Eythan		en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Escape_New_Years_Armageddon_Chain_Of_Events_123124.txt
+2025-01-05		kmqWQHTdbSs	Bishop Nathanyel	Evening	es	0.95	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Identifying_Babylon_The_Great_01.txt
+2025-01-11		B3IuvcBfCPc	Captain Yahn	Morning	en	1.0	text/Captain/Yahn/en/Captain_Yahn_Sabbath_Morning_Class_The_War_Between_Blacks_&_Whites.txt
+2025-01-11	2025-01-11	mffmDVtiY0Q	Bishop Kani	Afternoon	en	1.15	text/Bishop/Kani/en/BishopKani_SabbathAfternoon_TheWarBetweenBlacksAndWhites_011125.txt
+2025-01-11		xFkqTbTfPHU	Deacon Malachi	Afternoon	en	1.0	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Afternoon_These_Are_Not_Defiled_With_Women.txt
+2025-01-12	2025-01-11	7gYy1m-_ask	Bishop Nathanyel		es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_THE_LAST_MAN_STANDING_011125_compressed.txt
+2025-01-18	2025-01-18	B17IISPLBqc	Captain Shemaiah	Morning	en	1.15	text/Captain/Shemaiah/en/Captain Shemaiah Sabbath Morning The Price of Gold 01-18-25.txt
+2025-01-18		_6tfSfvYe5o	Deacon Eythan	Noon	en	0.88	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Gentiles_Northern_Kingdom_In_the_New.txt
+2025-01-25	2025-01-25	3bV6Af2KDCQ	Deacon Labachaa	Noon	en	1.15	text/Deacon/Labachaa/en/Deacon Labachaa - Sabbath Noon - The Power of Hope - 012525.txt
+2025-02-01		XKQtjuPlUa0	Deacon Malachiyah	Noon	en	0.95	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Affliction_Trump_2_0_020125.txt
+2025-02-02	2025-02-01	Dt0hL9vHpZ8	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Trump_&_The_Epiphanes_Complex_020125.txt
+2025-02-08	2025-02-08	XkPZ4snAIUs	Bishop Yawasap	Afternoon	en	0.85	text/Bishop/Yawasap/en/BishopYawasap-SabbathAfternoon-TheCurtainsOfControl-020825.txt
+2025-02-08	2025-02-08	_XGxodGsXG4	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon Eythan - Sabbath Noon - Times of Temptation - 020825.txt
+	2025-02-15	CTA8up0tnjs	Deacon Malachi	Afternoon	en	1.0	text/Deacon/Malachi/en/DeaconMalachi-SabbathAfternoon-TheIdeologyOfDemocracy-021525.txt
+	2025-02-15	EpfLs3aBQUQ	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon Labachaa - Sabbath Noon - 1 John 2.19 - 021525.txt
+	2025-02-15	rq0Q1p13UOI	Captain Zakar	Morning	en	1.0	text/Captain/Zakar/en/Captain Zakar Sabbath Morning The Demons We Feed 02-15-2025.txt
+	2025-03-01	QtCD7LhJT0k	Bishop Nathanyel		es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_Religious_Roots_of_Injustice_030125.txt
+	2025-03-01	rR3mltltLQ4	Captain Gad	Noon	en	1.0	text/Captain/Gad/en/Captain Gad - Sabbath Noon - A Family That Preys - 030125.txt
+	2025-03-08	2Z7OQB_Re4U	Captain Yadaya	Morning	en	0.92	text/Captain/Yadaya/en/Captain_Yadaya_Sabbath_Morning_Vice_and_Virtues_of_a_Leader_030825.txt
+	2025-03-08	INmZ5ZqhX9o	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon Labachaa - Sabbath Noon - Faith Declare War - 030825.txt
+	2025-03-15	3gCB2OjDOv8	Bishop Kani	Afternoon	en	1.0	text/Bishop/Kani/en/BishopKani_SabbathAfternoon_JesusChristTheWordBecameFlesh_031525.txt
+	2025-03-15	v3tjeiEEpFg	Bishop Nathanyel		es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_Project_Esther_03_15_25_compressed.txt
+	2025-04-12	kbga-R4vGGg	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Giving_Instructions_to_the_Wise_041225.txt
+	2025-04-19	Z3HDO-S3al8	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Easter_Ishtar_Madness_041925_compressed.txt
+	2025-04-19	g604eNCOyGI	Bishop Nathanyel	Evening	es	0.98	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_Trials_Of_God's_Servants_041925.txt
+	2025-05-17	4oyea4Hx6Zc	Deacon Malachi	Noon	en	1.0	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_War_for_the_Souls_of_Our_People_051725.txt
+	2025-05-24	AfaFMc3tjGA	Bishop Nathanyel		es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_Does_The_Word_of_God_Offend_You_052425.txt
+	2025-05-31	tXioH3K3zYQ	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_The_Souls_That_Multiply_Offenses_053125.txt
+	2025-06-11	F3FUJ_VPcqc	Deacon Eythan		en	0.87	text/Deacon/Eythan/en/Deacon_Eythan_New_Moon_Racial_and_Financial_Idolatry_061125_compressed (2).txt
+	2025-06-21	DW6Nfl88dFc	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Deceit_By_The_Nations_062125_compressed.txt
+	2025-07-12	wQmRrCJGISk	Deacon Malachi		en	1.0	text/Deacon/Malachi/en/Deacon_Malachi_Focus_On_Your_Purpose_Not_Your_Problem_071225_compressed (2).txt
+	2025-07-19	yQ9imRtRTyw	Deacon Labachaa	Noon	en	0.93	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Knowledge_Is_The_Key_071925_compressed.txt
+	2025-07-26	RaOaf4BQ1Xk	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Threshing_and_the_Wine_Press_072625.txt
+	2025-07-26	hhzgItKmwpU	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Sabbath_Evening_Bishop_Nathanyel_From_Persecution_to_Power_072625.txt
+	2025-07-26	xhFjupwa5wY	Captain Zakar	Morning	en	1.0	text/Captain/Zakar/en/Captain_Zakar_Sabbath_Morning_Class_The_Stench_of_Willie_Lynch_072625.txt
+	2025-08-09	EjmA-1pnDdI	Captain Enoch	Morning	es	1.0	text/Captain/Enoch/es/Captain_Enoch_Sabbath_Morning_The_Bride_of_Frankenstein_080925_compressed.txt
+	2025-08-09	FLLfnFohZyc	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_2025_Men's_Conference_Recap_080925.txt
+	2025-08-09	a8J3Oy0QNlQ	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon Eythan - Sabbath Noon - Reasoning Vs. Debate - 080925.txt
+	2025-08-23	85VexRXsWUI	Deacon Labachaa	Noon	en	1.0	text/Deacon/Labachaa/en/Deacon_Labachaa_Sabbath_Noon_Re_Instruct_Your_Mind_082325_compressed.txt
+	2025-08-30	PMqWRDkZmoo	Deacon Malachi	Afternoon	en	1.0	text/Deacon/Malachi/en/Sabbath_Afternoon_Healing_Flows_From_the_Throne_Deacon_Malachi_08302025.txt
+2025-09-13	2025-09-13	DI2kjlcL19g	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_God_So_Loved_The_World_091325_compressed.txt
+2025-09-14		Et-03cHgfDU	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_BLACK_ALLIANCE_WITH_A_SHADOW_GOVERNMENT.txt
+2025-09-20	2025-09-18	FOvDDLjL8h0	Deacon Malachiyah	Noon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_God’s_Plan_Racism_&_Patriotism_091825.txt
+2025-10-04	2025-10-04	ubIhf8KSWY4	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Bold_Witnesses_for_the_Kingdom_100425.txt
+2025-10-08	2025-10-07	w2HVHMfPm5M	Deacon Eythan		en	0.95	text/Deacon/Eythan/en/Deacon_Eythan_New_Moon_Born_in_Fire_&_Water_100725_compressed.txt
+	2025-10-11	mucBwf2P-zk	Bishop Kani		en	0.94	text/Bishop/Kani/en/Sabbath_Class_Bishop_Kani_The_Red,_The_White,_and_the_Bruised_10112025.txt
+2025-10-18	2025-10-18	ADQRNmPfDCs	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_The_Art_of_a_Dynamic_Teacher_101825_compressed.txt
+2025-10-25		VKPwznYI0sQ	Deacon Malachiyah	Noon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Racial_Idolatry_Racism_&_Patriotism.txt
+2025-11-01	2025-11-01	pBD8P3LGW9k	Captain Azariyah	Morning	en	0.93	text/Captain/Azariyah/en/Captain_Azariah_Sabbath_Morning_Class_State_of_Decay_110125_compressed.txt
+2025-11-08	2025-11-08	sHhY3vLTrj8	Deacon Eythan	Noon	en	1.15	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Paul_The_Prophet_And_Idol_Worship_110825.txt
+2025-11-15	2025-11-15	aqfyQICjjUY	Captain Osee	Morning	en	1.15	text/Captain/Osee/en/Captain_Osee_Sabbath_Morning_The_Evolution_of_Persecution_111525.txt
+2025-11-15	2025-11-15	sf1BtJDt3pQ	Deacon Malachiyah	Noon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_The_Rise_and_Fall_of_Lucifer_111525.txt
+2025-11-16	2025-11-15	fLYuJrzNSgY	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_4_Temples_In_Jerusalem_111525.txt
+2025-11-29	2025-11-29	PCaC1bom4x8	Deacon Malachiyah	Noon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_The_5_Signs_of_a_Good_Wife_112925.txt
+2025-12-07	2025-12-06	mgZyw88Kvhs	Bishop Kani	Evening	en	1.15	text/Bishop/Kani/en/Bishop_Kani_Sabbath_Evening_Class_Radicalize_The_Youth_12_06_2025.txt
+2025-12-14		JDW1q70sbhI	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_Gospel_Is_Black_Liberation.txt
+2025-12-20		jUTjrFS8YGQ	Deacon Eythan	Noon	en	0.9	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_CHRISTMAS_ICONS,_IDOLATRY,_WHITE_SUPREMACY.txt
+2025-12-21		-QJZ04vGiMw	Bishop Nathanyel	Evening	es	0.91	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Class_Jubilee_The_Year_To_Be_Set.txt
+2026-01-03		v7JMsDMvuXw	Deacon Eythan	Noon	en	0.89	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_All_Skinfolk_Ain't_Kinfolk_Children_Of.txt
+2026-01-10	2026-01-10	udNwS8tEwrg	Deacon Malachiyah	Noon	en	1.1	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_America's_Hegemony_&_Oppression_011026.txt
+2026-01-11		e51lFpTuIds	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_CHRIST_THE_ENEMY_OF_CHRISTIANITY.txt
+2026-01-25		zdkkMC_4xfg	Deacon Eythan	Evening	en	0.87	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Evening_The_Dividing_Hatred_Cornelius_The.txt
+2026-01-31	2026-01-31	_zOB4Ip0MNk	Captain Zakar	Noon	es	1.15	text/Captain/Zakar/es/Captain_Zakar_Sabbath_Noon_The_Pride_of_Thine_Heart_013126.txt
+2026-02-01		g3Yh2GSq8E4	Deacon Eythan	Evening	en	0.87	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Evening_The_Dividing_Hatred_The_Grafted_In.txt
+2026-02-02	2026-02-01	6Pzne8A1Nww	Deacon Malachiyah		en	0.99	text/Deacon/Malachiyah/en/Deacon_Malachiyah_New_Moon_A_Tree_Bearing_No_Fruits_020126_compressed.txt
+2026-03-14	2026-03-14	HXteD06sNrk	Deacon Malachi	Noon	en	1.15	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_The_Storm_Before_the_Kingdom_031426.txt
+2026-03-15		EUL_omVPaWc	Bishop Nathanyel	Evening	es	0.91	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Prophecy_From_Pain_To_Peace_03.txt
+2026-03-28		tbNxY_tnFF4	Deacon Malachiyah	Noon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Class_Trump_is_Fulfilling_God's_Prophecy.txt
+2026-03-29		1vtxrpoLjyM	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_ZIONISM_IN_THE_FACE_OF_SYRIA_&_HEZBOLLAH.txt
+2026-04-04		5tWDINEq3UI	Deacon Eythan	Noon	en	0.87	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Class_The_Mercy_and_Humility_of_King.txt
+2026-04-05		JLhHPemmiSk	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_RELIGION_THE_FALSE_PROPHET_04_04.txt
+2026-04-18		3Qdksp7DVZI	Deacon Malachiyah		en	1.0	text/Deacon/Malachiyah/en/Leaven the Root of Bitterness_Deacon Malachiyah_compressed.txt
+2026-04-25	2026-04-25	YVvCyl2ZZUQ	Captain Zephaniah	Noon	en	1.09	text/Captain/Zephaniah/en/Captain_Zephaniah_Sabbath_Noon_Puerto_Rico_Flame_of_Resistance_042526.txt
+2026-04-25		vJ3j9kchmtI	Deacon Malachiyah	Afternoon	en	0.85	text/Deacon/Malachiyah/en/Afternoon_Sabbath_Class_ToHellWithYourReparations_DeaconMalachiyah.txt
+2026-04-26	2026-04-25	tsdO9OrUI54	Deacon Asaph	Evening	en	1.05	text/Deacon/Asaph/en/Deacon_Asaph_SabbathEvening_Are_You_An_Independent_Woman_4_25_26.txt
+2026-05-02		-cEhJw1V02Y	Deacon Malachi	Noon	en	1.0	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Called_to_Judge_Commanded_to_Be_Just.txt
+2026-05-02	2026-05-02	PT0-nh5g0VA	Captain Yadin	Morning	en	1.15	text/Captain/Yadin/en/Captain_Yadin_Sabbath_Morning_Class_This_Woman’s_Work_05_02_26_compressed.txt
+2026-05-16		Bb3r5SDV3PI	Deacon Malachiyah	Afternoon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_SabbathAfternoon_Integrating_into_A_Burning_house.txt
+2026-05-16	2026-05-16	z55asCbUER8	Captain Amaziah	Noon	en	1.15	text/Captain/Amaziah/en/Captain_Amaziah_Sabbath_Noon_Class_The_Bold_and_the_Bashful_051626.txt
+2026-05-17		jsT6wS00jmw	Bishop Yawasap	Evening	en	0.93	text/Bishop/Yawasap/en/Bishop_Yawasap_SabbathEvening_The_Developmental_Psychology_of_Being.txt
+2026-05-30		LmS2WNcC-Rk	Bishop Kani	Afternoon	en	0.92	text/Bishop/Kani/en/Bishop_Kani_SabbathAfternoon_Pay_The_Price_Pleasure_Now,_Regret.txt
+2026-06-06	2026-06-06	7vmCIf3gj2I	Deacon Malachiyah	Noon	en	1.15	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Class_God_Purpose_and_Sacrifice_060626.txt
+2026-06-06	2026-06-06	MYjE1-GE1kg	Deacon Abbayael	Afternoon	es	1.12	text/Deacon/ABBAYAEL/es/Afternoon_Sabbath_Class_MembersInTheBody_DeaconAbbayael_06062026.txt
+2026-06-07		AP1-gbdhOv8	Bishop Nathanyel	Evening	es	0.97	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_Deceived_By_Enticing_Words_Colossians.txt
+2026-06-13	2026-06-13	bvqCl9KmDt4	Deacon Abbayael	Afternoon	es	1.06	text/Deacon/ABBAYAEL/es/Afternoon_Sabbath_Class_Members_In_the_Body_Pt2_DeaconAbbayael_06132026 (2).txt
+2026-06-13	2026-06-13	cdxo7DlRCrc	Captain Erel	Morning	es	1.11	text/Captain/Erel/es/Captain_Erel_Morning_Sabbath_Class_Forge_By_Fire_06_13_26_compressed.txt
+2026-06-13		qPKSyeIvjDI	Deacon Malachiyah	Noon	en	0.89	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Class_Seeking_Justice_in_an_Unjust.txt
+2026-06-14	2026-06-13	Qw2v07pohR4	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_FROM_BROTHER_TO_BETRAYER_06_13_26.txt
+	2026-06-15	gRzMeyP-c6Y	Captain Joel		es	0.87	text/Captain/Joel/es/Escaping The Plantation 2.0_Captain Joel_06.15.26.txt
+2026-06-20		EtPB8pdK2XE	Deacon Yoshua	Afternoon	en	1.0	text/Deacon/Yoshua/en/Afternoon_Sabbath_Class_Daily_Bread_for_a_Dying_Man_Deacon_Yoshua.txt
+2026-06-27	2026-06-27	LmH1fhfwlzM	Deacon Malachiyah	Afternoon	en	1.01	text/Deacon/Malachiyah/en/Afternoon_Sabbath_class_BORN_FOR_ADVERSITY_DeaconMalachiyah_06272026.txt
+2026-06-28		U39hwR1pDTQ	Bishop Nathanyel	Evening	es	0.86	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_THE_NEGRO_COMMUNITY_A_WASTE_LAND.txt
+2026-07-04		XLxd9su1ZIk	Deacon Malachi	Noon	en	0.89	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_Know_Your_Enemy_God’s_Foes_and.txt
+2026-07-05		oDJQWLjahKg	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_JOB_SEES_AMERICA'S_250TH_ANNIVERSARY.txt
+2026-08-01		fJ_pW-RImxU	Deacon Eythan	Noon	en	0.91	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Nolan_Wells_The_Perpetual_Hatred_We_Never.txt
+2026-08-02	2026-08-01	FpEHxWGgai8	Bishop Nathanyel	Evening	es	1.15	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_WE_ARE_BORN_IN_BABYLON_08_1_26_compressed.txt
+2026-08-23		RyRdIO615fU	Bishop Kani	Evening	en	0.92	text/Bishop/Kani/en/Bishop_Kani_SabbathEvening_GOD'S_PEOPLE_NEED_CHARITY,_HEALING,_&.txt
+2026-08-29	2026-08-29	14p8vV6KBfI	Deacon Malachiyah	Afternoon	en	1.15	text/Deacon/Malachiyah/en/Afternoon_Sabbath_Class_WhiteSupremacy&Racism_DeaconMalachiyah_08292026.txt
+2026-08-29		d9CXnvRB7es	Captain Shemaiah	Noon	en	1.0	text/Captain/Shemaiah/en/Captain_Shemaiah_Sabbath_Noon_Class_The_Building_Blocks_of_Bitterness.txt
+2026-08-30		cnDvZpSxtIk	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_The_Waters_of_Noah_Will_Be_Fire.txt
+2026-09-05		5Q2rftmZNcg	Bishop Nathanyel	Evening	es	0.89	text/Bishop/Nathanyel/es/Bishop_Nathanyel_SabbathEvening_WHEN_CHILDREN_WALK_IN_A_LAND_OF (2).txt
+2026-09-05	2026-09-05	nx0AUmr2DM0	Deacon Malachi	Noon	en	0.87	text/Deacon/Malachi/en/Deacon_Malachi_Sabbath_Noon_Class_Integrated_but_Divided_090526.txt
+2026-09-05		qTVrCZZKzes	Captain Osee	Morning	en	1.0	text/Captain/Osee/en/Sabbath_Morning_Class_Captain_Osee_Unity_The_Sweet_Savor_of_Salvation.txt
+2026-09-19		8g97RjyrRSE	Deacon Malachiyah	Afternoon	en	0.99	text/Deacon/Malachiyah/en/AfternoonSabbathClass_TheDecayedStateofLiberalWomen_DeaconMalachiyah.txt
+2026-09-20		kw1RCi6Wuzk	Bishop Kani	Evening	en	1.0	text/Bishop/Kani/en/Bishop_Kani_SabbathEvening_FROM_MILK_TO_MEAT_TRAIN_ALL_YOUR_SENSES.txt
+		65HdVmezM-E	Captain Enoch	Morning	en	0.85	text/Captain/Enoch/en/Captain_Enoch_Sabbath_Morning_Class_Where_Their_World_Ends,_Ours (2).txt
+		7fmmdSKN7hU	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Yes_The_Bible_Offends_Me_05_31.txt
+		8vnEFt0HGxc	Bishop Nathanyel		es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_From_Chaos_To_Commander_In_Chief.txt
+		90A-k-1wXhg	Bishop Nathanyel	Evening	es	0.94	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Pharaohs,_Mysteries_&_Prophecies.txt
+		BJKef7CYNe8	Bishop Nathanyel	Evening	es	0.91	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Iran_Calls_For_Jihad_In_The_United (2).txt
+		D_9BCkvT7H4	Captain Gedaliyah		en	0.87	text/Captain/Gedaliyah/en/Captain_Gedaliah_THE_SCAPEGOAT_AND_THE_RETURN_OF_THE_RED_SUMMER.txt
+		DyzYPqC3mPs	Bishop Nathanyel	Evening	es	0.87	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_Rise_&_Fall_Of_The_Pharisees.txt
+		FDhJVmxbiXg	Bishop Kani		en	1.0	text/Bishop/Kani/en/Bishop_Kani_Consider_What_You_Say_Every_Word_Heals_or_Hurts_compressed.txt
+		IFmsImKd-gM	Deacon Eythan	Noon	en	0.95	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_She_Cried_And_There_Was_None_To_Save (2).txt
+		KsTXzp3-Bto	Bishop Nathanyel	Evening	es	0.89	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Quest_8_Searching_&_Seeking_for.txt
+		Qh56wzmRBrQ	Bishop Yawasap	Evening	en	1.0	text/Bishop/Yawasap/en/Bishop_Yawasap_Sabbath_Evening_Change_of_World_After_Change_of_Nation.txt
+		TduU9lBNa2U	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_The_Fashion_Of_Our_Forefathers_&_Mothers.txt
+		VQMwcAjwkDw	Bishop Nathanyel	Evening	es	0.95	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_The_Hidden_Tyranny_Of_Zionism_02.txt
+		VVZCeVtMXro	Deacon Yoshua		en	1.0	text/Deacon/Yoshua/en/Deacon_Yoshua_Afternoon_Class_Vanity,_Joy,_and_The_Kingdom_to_Come.txt
+		WD6tyeDPptY	Captain Gedaliyah	Morning	en	0.87	text/Captain/Gedaliyah/en/Sabbath_Morning_Class_Captain_Gedaliah_The_Holy_War_Light_Vs_Darkness.txt
+		X4Hm0O-_2go	Deacon Eythan		en	0.87	text/Deacon/Eythan/en/Deacon_Eythan_Day_of_Simon_DAY_OF_SIMON_HISTORY_IS_PROPHECY_FULFILLED.txt
+		_UsGaLb2Aa4	Deacon Abbayael	Afternoon	es	0.85	text/Deacon/ABBAYAEL/es/Deacon_Abbayael_Sabbath_Afternoon_Good_is_set_against_evil_the_elected.txt
+		ajHeO9b2Mp8	Deacon Malachi	Noon	en	1.0	text/Deacon/Malachi/en/DeaconMalachi_SabbathNoon_Depression&Anxiety_RisingAboveYourSadness.txt
+		bjQRdMCGuDo	Deacon Eythan		en	0.85	text/Deacon/Eythan/en/Deacon_Eythan_Purim_Opening_Purim_Amalek's_End_Is_To_Perish_Forever.txt
+		eLmfPJZANNo	Deacon Malachiyah	Noon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_It_Will_Hurt_The_Trying_of_Our_Faith.txt
+		gzOGZVQRDj0	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_RESISTING_RELIGIOUS_CHAINS_OF_OPPRESSION (2).txt
+		j_uxa3-N9a4	Deacon Malachiyah		en	0.9	text/Deacon/Malachiyah/en/Deacon_Malachiyah_New_Moon_Spiritually_Militant_The_Mind_of_a_Soldier.txt
+		kJ1xeEXk6xo	Deacon Malachiyah	Afternoon	es	1.0	text/Deacon/Malachiyah/es/Deacon_Malachiyah_Sabbath_Afternoon_Trade_Wars_The_Beast_System.txt
+		n2qZGAJGZK4	Deacon Malachiyah	Noon	en	1.0	text/Deacon/Malachiyah/en/Deacon_Malachiyah_Sabbath_Noon_Is_Digital_ID_The_Mark_Of_The_Beast.txt
+		n9UGbR4gEh4	Deacon Eythan		en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Memorial_Day_Getaway_10_Horns_10_Toes_2_Feathers.txt
+		nPK8ZSkVutA	Captain Yahn	Morning	en	0.86	text/Captain/Yahn/en/Captain_Yahn_Sabbath_Morning_Sodom_and_Gomorrah_America_in_the_Past.txt
+		nR7zKeLDMLk	Captain Lemuel	Morning	es	0.85	text/Captain/Lemuel/es/Captain_Lemuel_Sabbath_Morning_DOA_The_Ministry_of_Reconciliation.txt
+		o5EKJgJ83Ys	Deacon Malachiyah		en	0.9	text/Deacon/Malachiyah/en/Deacon_Malachiyah_New_Moon_FBA_The_Division_Between_Blacks_&_Hispanics.txt
+		oI5OTXgJEU8	Bishop Nathanyel		es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Class_The_Evil_Behind_Replacement_Theology.txt
+		p07mRoV4BYo	Bishop Nathanyel	Evening	es	1.0	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_Nephilim_And_the_Warnings_of_Jude.txt
+		pq7ZD1uzTAw	Captain Gedaliyah	Morning	en	0.88	text/Captain/Gedaliyah/en/Captain_Gedaliah_Sabbath_Morning_When_Satan_Rises_Up_in_Your_Home.txt
+		sCmOi9EUiT4	Captain Banqanayah	Morning	en	1.0	text/Captain/Banqanayah/en/Captain_Banqanayah_Sabbath_Morning_Fear_God’s_Judgement_Love_Mercy.txt
+		uxXducJDJ4w	Deacon Eythan	Noon	en	1.0	text/Deacon/Eythan/en/Deacon_Eythan_Sabbath_Noon_Wondrous_Things_Out_Of_Thy_Law_Part_2.txt
+		wvcimtOtuBI	Bishop Nathanyel	Evening	es	0.92	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Evening_Sabbath_Class_Recon_to_Ephesus_and_Smyrna.txt
+		xq2_FUAs2XE	Bishop Nathanyel	Evening	es	0.88	text/Bishop/Nathanyel/es/Bishop_Nathanyel_Sabbath_Evening_America's_New_State_of_Hate_Policies.txt
