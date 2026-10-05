@@ -6,11 +6,11 @@ Under the owner's standing job [CYB-100](/CYB/issues/CYB-100): the Release Manag
 | # | Repo | PR | Title | Why |
 |---|---|---|---|---|
 | 1 | telegram | [#144](https://github.com/DevSecObie/cyberjudah-telegram/pull/144) | Dependabot: ignore major versions of TS, Vite, plugin-react, workers-types | Config-only, CI green, not security-sensitive |
+| 2 | telegram | [#145](https://github.com/DevSecObie/cyberjudah-telegram/pull/145) | Deps (production): react-query, hono, Anthropic SDK patch/minor bumps | Minor/patch only, CI green (main merged in to resolve a CHANGELOG.md conflict with #144), not security-sensitive |
 
 ## Not yet ready
 | Repo | PR | Title | Why not | Who acts |
 |---|---|---|---|---|
-| telegram | [#145](https://github.com/DevSecObie/cyberjudah-telegram/pull/145) | Deps (production): react-query, hono, Anthropic SDK patch/minor bumps | Approved; main merged in to resolve a CHANGELOG.md conflict with #144; every check green except `browser-tests (chromium)`, still running | Merges itself once that check finishes (no further review needed) |
 | telegram | [#146](https://github.com/DevSecObie/cyberjudah-telegram/pull/146) | Deps (production): react-router 7→8 | Major upgrade named in the standing job's "ask the owner first" list | Owner |
 | telegram | [#147](https://github.com/DevSecObie/cyberjudah-telegram/pull/147) | Deps (production): marked 16→18 | Major upgrade, renders transcript text; owner's call per the standing job | Owner |
 | telegram | [#148](https://github.com/DevSecObie/cyberjudah-telegram/pull/148) | People show their portraits; 37 approved Timeline portraits | CI green, content reviewed (CYB-92 pass), but all six commits are authored `Claude <noreply@anthropic.com>` — rule 12 on the commit identity itself | Owner: fix authorship or say how to write the squash commit |
