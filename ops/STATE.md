@@ -2,7 +2,7 @@
 
 The CEO keeps this file current at the end of every cycle (see `ops/RUNBOOK.md`). It holds the roadmap, the decisions and their dates, what is waiting on the owner, what is blocked, and the next actions, so that any runtime can take the CEO seat by reading it. Every assignment and decision is also a Paperclip issue or comment; this file is the summary, Paperclip is the record.
 
-**Last updated:** 5 October 2026, ~02:00 UTC, by CeeJay (chief of staff), from the handoff of 4 October 2026 (~18:00 UTC) and a read of both GitHub repositories at 5 October ~01:45 UTC. Where the two differ, both are given; the CEO verifies on GitHub before acting.
+**Last updated:** 5 October 2026, ~02:20 UTC, by CeeJay (chief of staff), from the handoff of 4 October 2026 (~18:00 UTC) and a read of both GitHub repositories at 5 October ~01:45 UTC. Where the two differ, both are given; the CEO verifies on GitHub before acting.
 
 ---
 
@@ -73,7 +73,7 @@ No other standing approval exists. Every other merge and every production deploy
 
 | Item | Blocked on | Owner of the unblock |
 |---|---|---|
-| Any PR from the team to either repository | A GitHub connection in Paperclip (fine-grained token; see `ops/SETUP.md` §1) | Owner |
+| ~~Any PR from the team to either repository~~ | Unblocked 5 October 2026, ~02:15 UTC: the owner installed the GitHub connection in Paperclip (token acts as `DevSecObie`). First PR from it: cyberjudah #51 (this `ops/` tree). | — |
 | Class archivist: reading R2 | `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY` (read-only) as Paperclip secrets for the archivist's seat, with `R2_BUCKET_NAME=sabbath-classes-images` and `R2_ENDPOINT` | Owner |
 | 30 Timeline drafts | Sources at splcenter.org, adl.org and apnews.com could not be reached from the previous environment | Timeline researchers retry from Paperclip (web access); if still blocked, say so plainly |
 | Precepts reviewer merging | §1 standing approval unconfirmed | Owner |
