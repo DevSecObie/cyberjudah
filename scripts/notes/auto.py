@@ -118,13 +118,15 @@ def raw_lines(t):
 
 
 def filed_teacher(video):
-    """Who taught a class, as the sabbath-classes-images bucket files its transcript
-    (data/sources/class-teachers.tsv). Used only when the class never names its teacher."""
-    path = os.path.join(ROOT, "data", "sources", "class-teachers.tsv")
-    if not os.path.exists(path): return ""
-    for line in open(path, encoding="utf-8"):
-        cols = line.rstrip("\n").split("\t")
-        if len(cols) > 3 and cols[2] == video: return cols[3]
+    """Who taught a class when the class never names its teacher: an admin correction in
+    data/sources/class-teachers.tsv first, then who the sabbath-classes-images transcripts
+    are filed under (data/sources/r2-class-teachers.tsv)."""
+    for name, vcol, tcol in (("class-teachers.tsv", 0, 1), ("r2-class-teachers.tsv", 2, 3)):
+        path = os.path.join(ROOT, "data", "sources", name)
+        if not os.path.exists(path): continue
+        for line in open(path, encoding="utf-8"):
+            cols = line.rstrip("\n").split("\t")
+            if len(cols) > max(vcol, tcol) and cols[vcol] == video and cols[tcol]: return cols[tcol]
     return ""
 
 

@@ -18,6 +18,7 @@ James text of a verse in that passage's books and chapters; an empty breakdown.
 """
 import glob
 import json
+from datetime import date
 import os
 import re
 import sys
@@ -44,7 +45,8 @@ _bible = {}
 
 def chapters(slug):
     if slug not in _bible:
-        _bible[slug] = json.load(open(os.path.join(ROOT, "data", "bible", f"{slug}.json"), encoding="utf-8"))["chapters"]
+        with open(os.path.join(ROOT, "data", "bible", f"{slug}.json"), encoding="utf-8") as source:
+            _bible[slug] = json.load(source)["chapters"]
     return _bible[slug]
 
 
@@ -92,8 +94,11 @@ def at_verses(at, passage):
 def seconds(ts):
     if not re.match(r"^\d{1,2}(:\d{2}){1,2}$", str(ts or "")):
         return None
+    parts = str(ts).split(":")
+    if any(int(x) > 59 for x in parts[1:]):
+        return None
     t = 0
-    for x in str(ts).split(":"):
+    for x in parts:
         t = t * 60 + int(x)
     return t
 
@@ -106,7 +111,8 @@ def check(path):
     errs = []
     name = os.path.basename(path)
     try:
-        d = json.load(open(path, encoding="utf-8"))
+        with open(path, encoding="utf-8") as source:
+            d = json.load(source)
     except ValueError as e:
         return [f"{name}: not valid JSON ({e})"]
     video = d.get("video", "")
@@ -117,8 +123,12 @@ def check(path):
     for k in ("title", "date"):
         if not str(d.get(k, "")).strip():
             errs.append(f"{name}: missing {k}")
-    if d.get("date") and not re.match(r"^\d{4}-\d{2}-\d{2}$", d["date"]):
-        errs.append(f"{name}: date must be YYYY-MM-DD")
+    try:
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(d.get("date", ""))):
+            raise ValueError()
+        date.fromisoformat(d["date"])
+    except (ValueError, TypeError):
+        errs.append(f"{name}: date must be a real calendar date in YYYY-MM-DD")
     passages = d.get("passages")
     if not isinstance(passages, list) or not passages:
         return errs + [f"{name}: passages must be a non-empty list"]
@@ -143,6 +153,8 @@ def check(path):
             if not str(s.get("text", "")).strip():
                 errs.append(f"{where} sense {j}: empty text")
         for j, pre in enumerate(p.get("precepts", []) or [], 1):
+            if "ts" in pre and seconds(pre["ts"]) is None:
+                errs.append(f"{where} precept {j}: ts must be m:ss or h:mm:ss, with minutes and seconds below 60")
             r = parse(pre.get("ref", ""))
             if not r:
                 errs.append(f"{where} precept {j}: {pre.get('ref')!r} is not a real King James reference")

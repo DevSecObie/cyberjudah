@@ -449,11 +449,12 @@ def decide(m, outlines, yrefs):
     return result
 
 
-TEACHERS = ROOT / "data" / "sources" / "class-teachers.tsv"
+TEACHERS = ROOT / "data" / "sources" / "r2-class-teachers.tsv"
 
 
 def write_teachers(outlines, result, cat):
-    """data/sources/class-teachers.tsv: who taught each matched class, for auto.prepare.
+    """data/sources/r2-class-teachers.tsv: who taught each matched class, for auto.prepare
+    (after the admin corrections in data/sources/class-teachers.tsv).
 
     A match by the outline's text decides. An earlier match by title is kept only where the
     outline has no text to check it against. A class filed under two teachers is left out."""

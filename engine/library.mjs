@@ -10,6 +10,7 @@
 //   data/handbook.json, data/precepts.json, data/cases.json         the reference works
 //   data/lexicon.tsv, data/topics.tsv                               encyclopedia terms, topic labels
 //   data/crossrefs.json, data/web-translation.json                  cross references, WEB parallel
+import { loadClassMetadata, correctedClass } from "./class-metadata.mjs";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -71,6 +72,7 @@ function parseFrontmatter(text) {
 const tagList = (v) => [...String(v ?? "").matchAll(/"((?:[^"\\]|\\.)*)"/g)].map((m) => m[1].replace(/\\(["\\])/g, "$1"));
 
 export function loadLibrary(ROOT) {
+  const classMetadata = loadClassMetadata(ROOT);
   const DATA = path.join(ROOT, "data");
   const DOCS = path.join(ROOT, "docs");
   const BLOG = path.join(ROOT, "blog");
@@ -303,6 +305,7 @@ export function loadLibrary(ROOT) {
     flush(); closePassage();
   }
 
+  for (let i = 0; i < notes.length; i++) if (["class", "captains"].includes(notes[i].kind)) notes[i] = correctedClass(notes[i], classMetadata);
   const sortDated = (list) => list.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
   const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
   const studyNotes = studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]));
@@ -335,7 +338,7 @@ export function loadLibrary(ROOT) {
   const passFiles = fs.existsSync(passDir) ? fs.readdirSync(passDir).filter((f) => f.endsWith(".json")).sort() : [];
   let passPrecepts = 0;
   for (const f of passFiles) {
-    const c = JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8"));
+    const c = correctedClass(JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8")), classMetadata);
     if (!c.video || notedVideos.has(c.video)) continue;
     const classNote = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: c.teacher || "" };
     for (const p of c.passages ?? []) {
@@ -350,7 +353,7 @@ export function loadLibrary(ROOT) {
       }
       for (const pre of p.precepts ?? []) {
         const ref = refFrom(pre.ref); if (!ref) continue;
-        const row = { text: "", point: "", note, ts, ...(pre.why ? { why: pre.why } : {}) };
+        const row = { text: "", point: "", note, ts: pre.ts ?? ts, ...(pre.why ? { why: pre.why } : {}) };
         link(pre.at ? { ...opened, verses: String(pre.at) } : opened, { kind: "precept", ref, ...row });
         link(ref, { kind: "opened", ref: opened, ...row });
         passPrecepts++;
@@ -374,7 +377,7 @@ export function loadLibrary(ROOT) {
     : [];
 
   return {
-    ROOT, DATA,
+    ROOT, DATA, classMetadata,
     bibleIndex, BOOKS, CHAPTERS, bible, prologues, bookSlug, bookBySlug, bookNum, testament, abbr, chapterUrl, bookUrl, verseText, refLabel, resolveChapter,
     handbook, sectionById, partSlug, partUrl, sectionUrl, lawUrl,
     precepts, sortedPrecepts, preceptUrl, findPrecept,

@@ -25,6 +25,8 @@ concurrency:
   cancel-in-progress: true
 jobs:
   publish:
+    # CMS publication merges reviewed source; live data still requires owner approval.
+    environment: production
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

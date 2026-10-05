@@ -21,7 +21,7 @@ A **precept pass** turns one class that has no study note yet into one data file
    t = json.load(open("blog/transcripts/<video id>.json"))
    text, refs, who = auto.prepare(t)   # text: the class condensed with [m:ss] times; refs: verified references in order; who: teacher, if found
    ```
-   When the class never names its teacher, `who` comes from `data/sources/class-teachers.tsv`: who the class outlines in the sabbath-classes-images R2 bucket are filed under. A name the class gives itself always wins.
+   When the class never names its teacher, `who` comes from an admin correction in `data/sources/class-teachers.tsv`, else from `data/sources/r2-class-teachers.tsv` (who the class outlines in the sabbath-classes-images R2 bucket are filed under). A name the class gives itself always wins.
 
    Many classes also have their own outline in that bucket: the scriptures in the order they were read, each with a line of what was drawn from it. `data/sources/r2-classes.tsv` says which. Where the captions are garbled, read it:
    ```python
