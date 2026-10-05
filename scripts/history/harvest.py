@@ -130,6 +130,34 @@ def parse_views(v):
 def parse_date(value):
     if not value:
         return None
+    s = str(value)
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        return None
+
+
+def parse_publish_date(value):
+    """The video's own `publishDate`, from /youtube/video/metadata.
+
+    Documented as ISO (`2009-10-25`), but premieres and streams come back as
+    "Premiered Nov 15, 2019" or "Streamed live on Nov 15, 2019"; an ordinary
+    upload is sometimes "Nov 15, 2019" with no prefix at all. Returns None,
+    never an empty string, when the shape doesn't match any of these.
+    """
+    if not value:
+        return None
+    s = str(value).strip()
+    iso = parse_date(s)
+    if iso:
+        return iso
+    s = re.sub(r"^(premiered|streamed live on|published on|starts)\s+", "", s, flags=re.I)
+    for fmt in ("%b %d, %Y", "%B %d, %Y"):
+        try:
+            return datetime.strptime(s, fmt).date().isoformat()
+        except ValueError:
+            continue
+    return None
 
 
 def append_once(path, video_id, title, stamp=False):
@@ -179,11 +207,6 @@ def nocaption_skips(path, recheck_days):
                 pass
             skips.add(parts[0])
     return skips
-    s = str(value)
-    try:
-        return datetime.fromisoformat(s.replace("Z", "+00:00")).date().isoformat()
-    except ValueError:
-        return None
 
 
 def listing_yt(channel, tab):
@@ -248,6 +271,21 @@ def fetch_transcript(video_id):
         "send_metadata": "true",
     }
     return api_get("/youtube/transcript", params, timeout=20, retries=2)
+
+
+def video_publish_date(video_id):
+    """The video's own publish date, for when the channel listing carries none.
+
+    The `/videos` tab listing (yt-dlp's --flat-playlist, used as --listing-backend for
+    every classes workflow) never carries a date at all; the transcript endpoint's
+    `send_metadata` is oEmbed-only (title, author, thumbnail, no date either). Only
+    /youtube/video/metadata's `publishDate` has it.
+    """
+    code, payload, _ = api_get("/youtube/video/metadata", {"video_url": video_id}, timeout=20, retries=2)
+    if code != 200:
+        return None
+    p = payload.get("content", payload)
+    return parse_publish_date(p.get("publishDate"))
 
 
 def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views, channel, method):
@@ -470,6 +508,8 @@ def main():
                     title = p.get("title") or title
                     if file_views is None and p.get("views_text"):
                         file_views = parse_views(p.get("views_text"))
+                    if not file_date:
+                        file_date = video_publish_date(vid)
                 elif code in (400, 404):
                     reason = (payload.get("detail") or payload.get("error") or "").lower() if isinstance(payload, dict) else ""
                     if "captions" in reason or "transcript" in reason:
