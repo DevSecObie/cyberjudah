@@ -1,0 +1,76 @@
+name: Backfill Transcript Dates
+
+on:
+  workflow_dispatch:
+    inputs:
+      feed:
+        description: Feed to backfill
+        required: true
+        default: classes
+        type: choice
+        options:
+          - classes
+          - captains
+          - history
+      limit:
+        description: Maximum undated transcripts to check this run
+        required: true
+        default: "200"
+        type: string
+      dry_run:
+        description: Look up dates but write nothing
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: transcript-backfill-dates
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Backfill undated transcripts from the video's own publish date
+        env:
+          TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
+          FEED: ${{ inputs.feed }}
+          LIMIT: ${{ inputs.limit }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          ARGS=(--feed "$FEED" --limit "$LIMIT")
+          if [[ "$DRY_RUN" == "true" ]]; then
+            ARGS+=(--dry-run)
+          fi
+          python3 scripts/history/backfill_dates.py "${ARGS[@]}"
+
+      - name: Commit backfilled dates
+        if: ${{ inputs.dry_run == 'false' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No dates were confirmed this run."
+            exit 0
+          fi
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- blog captains history
+          git commit -m "transcripts: backfill ${{ inputs.feed }} dates from video metadata [skip ci]"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${GITHUB_REF_NAME}"
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}; then
+              exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "Could not push the backfilled dates after 5 attempts." >&2
+          exit 1
