@@ -36,7 +36,7 @@ Why you: only you hold the Cloudflare account and the GitHub account.
 
 ## 3. Create each agent in Paperclip with the right adapter and model
 
-**Done 5 October 2026, ~02:40 UTC.** You accepted the confirmation card on [CYB-2](/CYB/issues/CYB-2) and CeeJay created all thirteen seats below through the hire API, each with the matching `ops/agents/<role>/AGENTS.md` as its managed instructions, the `paperclip` skill, the budget, icon and reporting line in this table, and timer heartbeats off. The company does not require board approval for new agents, so every seat is `idle` and ready. The table stays as the record of what was set; the exact model names are in `ops/TEAM.md` and nowhere else.
+**Done 5 October 2026, ~02:40 UTC.** You accepted the confirmation card on [CYB-2](/CYB/issues/CYB-2) and CeeJay created all thirteen senior seats below through the hire API, each with the matching `ops/agents/<role>/AGENTS.md` as its managed instructions, the `paperclip` skill, the budget, icon and reporting line in this table, and timer heartbeats off. The company does not require board approval for new agents, so every seat is `idle` and ready. The table stays as the record of what was set; the exact model names are in `ops/TEAM.md` and nowhere else.
 
 | Paperclip agent name | Role key | Adapter | Model (from TEAM.md) | Effort / options | Budget (cents/month) | Timer heartbeat | Reports to | Icon |
 |---|---|---|---|---|---|---|---|---|
@@ -54,14 +54,41 @@ Why you: only you hold the Cloudflare account and the GitHub account.
 | Class Archivist | `class-archivist` | `claude_local` | Low-cost | effort `low` | 2500 | off | CEO | `search` |
 | Data Steward | `data-steward` | `opencode_local` | Free or local | — | 0 | off (routine) | CEO | `radar` |
 
+### The seven junior seats
+
+**Done 5 October 2026, 16:49 UTC.** After your decision on [CYB-12](/CYB/issues/CYB-12) — seniors stay on the Frontier tier, the juniors run on completely free models — the CEO hired these seven. Each reports to its senior counterpart, carries the same `ops/agents/<role>/AGENTS.md` as that senior with the junior-seat rules on top, has a monthly budget of 0 and no timer heartbeat, and wakes only when its senior or the CEO gives it an issue. The tier names below are in `ops/TEAM.md` ("The three free pools"); the model ids live there and nowhere else.
+
+| Paperclip agent name | Role key | Adapter | Model (from TEAM.md) | Free pool | Budget (cents/month) | Timer heartbeat | Reports to | Icon |
+|---|---|---|---|---|---|---|---|---|
+| Junior Release Manager | `release-manager` | `opencode_local` | Junior free · OpenCode pool | OpenCode free pool (no key) | 0 | off (wake on demand) | Release Manager | `git-branch` |
+| Junior QA Engineer | `qa-engineer` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | QA Engineer | `bug` |
+| Junior Class Archivist | `class-archivist` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | Class Archivist | `search` |
+| Junior App Engineer | `app-engineer` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | App Engineer | `code` |
+| Junior Backend Engineer | `backend-engineer` | `opencode_local` | Junior free · OpenRouter | OpenRouter | 0 | off (wake on demand) | Backend Engineer | `database` |
+| Junior Timeline Researcher A | `timeline-researcher` | `gemini_local` | Junior free · Gemini | Gemini free tier | 0 | off (wake on demand) | Timeline Researcher A | `telescope` |
+| Junior Timeline Researcher B | `timeline-researcher` | `gemini_local` | Junior free · Gemini | Gemini free tier | 0 | off (wake on demand) | Timeline Researcher B | `telescope` |
+
+**The keys these seats need (yours; no agent can do it).** Add each under the company's secrets and bind it as an **environment variable** to the seats named. Never into a file, a PR, a comment or a chat (rule 2).
+
+| Secret (environment variable name) | Bind to | Why |
+|---|---|---|
+| `OPENROUTER_API_KEY` | Junior QA Engineer, Junior Class Archivist, Junior App Engineer, Junior Backend Engineer | OpenCode reads it from the run's environment and only then lists OpenRouter's free models at all. Without it those four seats cannot start. |
+| `GEMINI_API_KEY` | Junior Timeline Researcher A, Junior Timeline Researcher B | The Gemini CLI free tier. **Or** sign the Gemini CLI in on this host once (`gemini` → login) instead of a key; either path works, not both needed. |
+
+- [ ] Create the key at openrouter.ai/keys and bind it to the four seats above.
+- [ ] Buy **$10 of OpenRouter credit once**. This lifts the free cap from 50 to 1,000 requests a day for the whole account; free models never spend the credit. Without it the four seats share 50 requests a day, which is one short run between them.
+- [ ] `GEMINI_API_KEY` bound to the two Gemini seats, or a Gemini CLI login on the host.
+
+The Junior Release Manager needs no key: it runs on OpenCode's own free pool, the one the Data Steward already uses. The other six cannot run until the three boxes above are ticked (`ops/STATE.md` §6).
+
 For every seat:
 
 - [x] **Instructions.** The full text of `ops/agents/<role>/AGENTS.md` is in each agent's managed instructions bundle as `AGENTS.md` (hire API field `instructionsBundle.files["AGENTS.md"]`), with this line prepended so the seat always reads the latest copy from the repository before working:
   `Before any work: fetch and read the current ops/RULES.md, ops/STATE.md and ops/agents/<role>/AGENTS.md from the main branch of DevSecObie/cyberjudah; the copy below is the version at hire time.`
-  That line only works once PR #51 is merged, so **merge PR #51 before any seat runs.**
+  That line only works once PR #51 is merged, so **merge PR #51 before any seat runs.** A junior seat carries the same file as its senior, with the junior-seat rules prepended (`ops/TEAM.md`, seat notes).
 - [x] **Working directory.** No `adapterConfig.cwd` was set: Paperclip gives each run the project's managed workspace (the `Onboarding` project, strategy `project_primary`), which already holds a `cyberjudah` checkout. The Timeline researchers and the two engineers also need `cyberjudah-telegram`; they clone it beside `cyberjudah` on first use and set `CJ_ROOT` to the cyberjudah checkout. If you prefer a fixed directory per seat, set `cwd` in the agent's settings.
 - [x] **Skills.** Every seat has the `paperclip` skill and nothing else. CeeJay keeps `paperclip-create-agent` and `paperclip-board`.
-- [ ] **Secrets.** Bind the §2 secrets to the seats named there (owner; see §2).
+- [ ] **Secrets.** Bind the §2 secrets to the seats named there, and the two keys above to the junior seats named there (owner).
 - [ ] **Existing agent Dex: delete it in the Paperclip UI** (Agents → Dex → Terminate or Delete). The owner decided on 5 October to terminate Dex and keep the hired **Backend Engineer** as its replacement. CeeJay cannot do it: terminate, delete and configure on another agent all answer 403 ("Board access required"), so this is a UI step for the owner. Until then Dex sits idle, unconfigured and outside the team; nothing is assigned to it.
 - [x] **Approval.** The company does not require board approval for new agents; every hire landed `idle`.
 - [ ] **Verify one seat.** CeeJay cannot read back another agent's configuration (the API redacts it), so open one agent in the Paperclip UI (the CEO, say) and confirm the model, effort, budget and instructions match the table above.

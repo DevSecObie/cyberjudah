@@ -2,7 +2,7 @@
 
 The CEO keeps this file current at the end of every cycle (see `ops/RUNBOOK.md`). It holds the roadmap, the decisions and their dates, what is waiting on the owner, what is blocked, and the next actions, so that any runtime can take the CEO seat by reading it. Every assignment and decision is also a Paperclip issue or comment; this file is the summary, Paperclip is the record.
 
-**Last updated:** 5 October 2026, ~02:40 UTC, by CeeJay (chief of staff): the thirteen seats exist in Paperclip (`ops/SETUP.md` §3); the routine-setup issues CYB-4 to CYB-11 are pre-created and released to the seats when PR #51 merges (§4); the owner has decided to delete Dex in the UI (§3). Built from the handoff of 4 October 2026 (~18:00 UTC) and a read of both GitHub repositories at 5 October ~01:45 UTC. Where the two differ, both are given; the CEO verifies on GitHub before acting.
+**Last updated:** 5 October 2026, ~17:10 UTC, by CeeJay (chief of staff): the owner's free-model decision and the seven junior seats hired at 16:49 UTC are recorded (§4, §5.10, §6; `ops/TEAM.md`, `ops/SETUP.md` §3). Before that, at ~02:40 UTC: the thirteen senior seats exist in Paperclip (`ops/SETUP.md` §3); the routine-setup issues CYB-4 to CYB-11 are pre-created and released to the seats when PR #51 merges (§4); the owner has decided to delete Dex in the UI (§3). Built from the handoff of 4 October 2026 (~18:00 UTC) and a read of both GitHub repositories at 5 October ~01:45 UTC. Where the two differ, both are given; the CEO verifies on GitHub before acting.
 
 ---
 
@@ -53,10 +53,11 @@ No other standing approval exists. Every other merge and every production deploy
 | 2026-10-04 | Timeline wording: "From the classes" and "Quotes and sources". Precept passes: never "the teacher says", "the class teaches", "this precept". | rule 11 |
 | 2026-10-04 | Tribe names exactly as the chart (rule 10). | rule 10 |
 | 2026-10-05 | The Paperclip team is set up as in `ops/TEAM.md`; the three Claude routines are to be switched off once the Notes writer, Precepts writer and Precepts reviewer are running. | this folder, `ops/SETUP.md` |
+| 2026-10-05 | **Free models for the junior seats.** The owner's four answers on [CYB-12](/CYB/issues/CYB-12): (1) every senior seat stays on the Frontier tier — no content or review seat moves to a free model; (2) the junior seats run on completely free models, scope B, the mechanical seats first; (3) a one-time **$10 credit purchase on OpenRouter**, which lifts the free cap from 50 to 1,000 requests a day for the account (free models never spend the credit); (4) the load is spread across **three free pools** — OpenCode's own free pool for the sweeps, the Gemini free tier for the Timeline research, OpenRouter for the judgement-adjacent work — so no one pool's counter stops the others. Seven junior seats hired by the CEO the same day at 16:49 UTC, each reporting to its senior counterpart, budget 0, no timer heartbeat. | `ops/TEAM.md` ("The three free pools" and the seats table), `ops/SETUP.md` §3, [CYB-12](/CYB/issues/CYB-12), [CYB-13](/CYB/issues/CYB-13) |
 
 ## 5. Waiting on the owner
 
-1. **Set up the team** (`ops/SETUP.md`). Done: GitHub connected (§1); the thirteen seats created, all `idle` (§3). Still yours: **merge PR #51** so the seats can read `ops/` from `main`; add the R2 secrets (§2); nothing further for the routines: CYB-4 to CYB-11 go to the seats automatically after the merge (§4); activate each routine after switching off the Claude routine it replaces (§5); assign [CYB-3](/CYB/issues/CYB-3) to the CEO or run its routine once by hand (§7); delete Dex in the UI (§3).
+1. **Set up the team** (`ops/SETUP.md`). Done: GitHub connected (§1); the thirteen senior seats created, all `idle`, and the seven junior seats added on 5 October (§3). Still yours: **merge PR #51** so the seats can read `ops/` from `main`; add the R2 secrets (§2); nothing further for the routines: CYB-4 to CYB-11 go to the seats automatically after the merge (§4); activate each routine after switching off the Claude routine it replaces (§5); assign [CYB-3](/CYB/issues/CYB-3) to the CEO or run its routine once by hand (§7); delete Dex in the UI (§3).
 2. **Confirm or withdraw the standing approval for precept-pass merges** (§1).
 3. **Timeline tagging decisions:**
    - Is Brazil Asher? A class places it in Asher's span: video `0FPiXYsd-z8` at 1:18:56.
@@ -68,6 +69,11 @@ No other standing approval exists. Every other merge and every production deploy
 7. **The Codex environment network draft** (§3).
 8. **The Spanish R2 files** (248 by the handoff's count): what, if anything, to do with them. The archivist will list them; the CEO asks.
 9. **Production deploy approvals** for every merge to `main` of cyberjudah-telegram, and the `production` approval for cyberjudah's data publish when CMS publication begins.
+10. **Turn the junior seats on** (added 5 October 2026; `ops/SETUP.md` §3, "The seven junior seats"). Two steps, both yours:
+    - **The key binding.** Add `OPENROUTER_API_KEY` as a company secret and bind it as an environment variable to the four OpenRouter juniors (Junior QA Engineer, Junior Class Archivist, Junior App Engineer, Junior Backend Engineer). For the two Timeline juniors, either bind `GEMINI_API_KEY` or sign the Gemini CLI in on this host once — either path works.
+    - **The $10 purchase.** Buy $10 of OpenRouter credit once. It lifts the free cap from 50 to 1,000 requests a day for the whole account; free models never spend the credit. At 50 a day the four OpenRouter juniors share one short run between them.
+
+    The Junior Release Manager needs neither: it runs on OpenCode's own free pool. The other six stay blocked until both steps are done (§6).
 
 ## 6. Blocked
 
@@ -80,6 +86,7 @@ No other standing approval exists. Every other merge and every production deploy
 | Any seat's first run | PR #51 not merged: every seat's instructions start by reading `ops/` from `main`, which has no `ops/` yet | Owner merges cyberjudah #51 |
 | The nine routines (`ops/SETUP.md` §4) | Paperclip refuses an agent creating a routine for another seat (403); each seat creates its own | Routine-setup issues CYB-4 to CYB-11 are parked in `backlog`; CeeJay releases them to the seats once PR #51 is merged |
 | Deleting Dex (`ops/SETUP.md` §3) | Agent keys get 403 "Board access required" on terminate and delete | Owner deletes Dex in the Paperclip UI |
+| The six key-dependent junior seats: Junior QA Engineer, Junior Class Archivist, Junior App Engineer, Junior Backend Engineer, Junior Timeline Researcher A and B | §5.10 is not done. The four OpenRouter seats have no `OPENROUTER_API_KEY` bound and the account has not bought the $10 that lifts the daily cap from 50 to 1,000; the two Gemini seats have no `GEMINI_API_KEY` and no Gemini CLI login on this host. Each would fail at the start of its first run. | Owner (both steps are UI and account steps; no agent can do them). The Junior Release Manager is **not** blocked: OpenCode's free pool needs no key. |
 
 ## 7. Next actions (for the CEO's first cycle)
 
