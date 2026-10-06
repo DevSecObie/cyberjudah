@@ -199,7 +199,7 @@ And a sister's account of what the class had been describing all along:
 
 - Now we know verse 21 we cannot apply today. But you know who does? The white man. The white man will take that rebellious child of yours and put a whooping on him like you never saw in your life, throw him in jail, and sometimes put him to death.
 
-- And this is why it is very important. I was speaking with Captain Mattathias and Captain Osham — they did an excellent job in Mississippi. I said we have got to be mindful when we do press conferences for some of these young people that get put to death. Some of them might be drug dealers who put half the neighbourhood to death. We cannot stand up for that. We have got to evaluate and examine the cases we stand on behalf of.
+- And this is why it is very important. I was speaking with Captain Mattathias and Captain Hoshayah — they did an excellent job in Mississippi. I said we have got to be mindful when we do press conferences for some of these young people that get put to death. Some of them might be drug dealers who put half the neighbourhood to death. We cannot stand up for that. We have got to evaluate and examine the cases we stand on behalf of.
 
 - And these videos of children cursing their parents: what you are watching, that behaviour did not just start. This is when you get these wicked kids from little, and he used to say smart little things and the mother thought he was cute, and she tolerated it. The first time he said it, if he got a smack in the mouth, he would never have said it again.
 
