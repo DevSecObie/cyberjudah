@@ -86,7 +86,7 @@ For every seat:
 - [x] **Instructions.** The full text of `ops/agents/<role>/AGENTS.md` is in each agent's managed instructions bundle as `AGENTS.md` (hire API field `instructionsBundle.files["AGENTS.md"]`), with this line prepended so the seat always reads the latest copy from the repository before working:
   `Before any work: fetch and read the current ops/RULES.md, ops/STATE.md and ops/agents/<role>/AGENTS.md from the main branch of DevSecObie/cyberjudah; the copy below is the version at hire time.`
   That line only works once PR #51 is merged, so **merge PR #51 before any seat runs.** A junior seat carries the same file as its senior, with the junior-seat rules prepended (`ops/TEAM.md`, seat notes).
-- [x] **Working directory.** No `adapterConfig.cwd` was set: Paperclip gives each run the project's managed workspace (the `Onboarding` project, strategy `project_primary`), which already holds a `cyberjudah` checkout. The Timeline researchers and the two engineers also need `cyberjudah-telegram`; they clone it beside `cyberjudah` on first use and set `CJ_ROOT` to the cyberjudah checkout. If you prefer a fixed directory per seat, set `cwd` in the agent's settings.
+- [x] **Working directory.** No `adapterConfig.cwd` was set: Paperclip gives each run the project's managed workspace (the `Onboarding` project, strategy `project_primary`), which already holds a `cyberjudah` checkout. The Timeline researchers and the two engineers also need `cyberjudah-telegram`; they clone it beside `cyberjudah` on first use with `bash /data/git/ws.sh clone` (never `gh repo clone`; `ops/RUNNER.md` §6) and set `CJ_ROOT` to the cyberjudah checkout. If you prefer a fixed directory per seat, set `cwd` in the agent's settings.
 - [x] **Skills.** Every seat has the `paperclip` skill and nothing else. CeeJay keeps `paperclip-create-agent` and `paperclip-board`.
 - [ ] **Secrets.** Bind the §2 secrets to the seats named there, and the two keys above to the junior seats named there (owner).
 - [ ] **Existing agent Dex: delete it in the Paperclip UI** (Agents → Dex → Terminate or Delete). The owner decided on 5 October to terminate Dex and keep the hired **Backend Engineer** as its replacement. CeeJay cannot do it: terminate, delete and configure on another agent all answer 403 ("Board access required"), so this is a UI step for the owner. Until then Dex sits idle, unconfigured and outside the team; nothing is assigned to it.
@@ -135,6 +135,16 @@ These are in the repos' own docs (`docs/CMS.md`, `docs/OPERATIONS.md`, `engine/R
 - [ ] **Required checks on `main` of cyberjudah-telegram:** keep the existing ones and add `playwright` and `cms-content` (CMS.md).
 - [ ] **CMS tokens** (CMS.md "Owner setup"): `APP_REPO_TOKEN` as a Worker secret (fine-grained, only cyberjudah-telegram: Contents RW, Pull requests RW, Checks read); `CYBERJUDAH_TOKEN` given the same permissions on cyberjudah. Neither goes into Paperclip.
 - [ ] **Codex environment network draft:** remove the api.bible hosts, keep ebible.org and CrossWire, save and publish (handoff §3).
+
+## 6b. One copy of each repository on the host (once)
+
+`ops/RUNNER.md` §6 explains why. On the host, with the agents paused and a GitHub login that can read both repositories:
+
+- [ ] `bash ops/bin/ws.sh setup` from a cyberjudah checkout on `main`. It creates `/data/git/cyberjudah.git` and `/data/git/cyberjudah-telegram.git`, installs `/data/git/ws.sh`, and creates an empty `/data/git/keep`.
+- [ ] Put in `/data/git/keep`, one per line, the checkouts Paperclip itself manages for each seat (the ones a run starts in). Until that file lists at least one, the sweep removes nothing.
+- [ ] `bash /data/git/ws.sh attach <checkout>` for every checkout `ws.sh report` lists. Each one keeps its branches, stashes and unpushed commits, and drops its copy of what is already on GitHub.
+- [ ] `bash /data/git/ws.sh report`, and keep the before and after disk lines for `ops/STATE.md`.
+- [ ] Resume the agents.
 
 ## 7. First run and verification
 

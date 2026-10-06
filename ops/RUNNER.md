@@ -122,3 +122,59 @@ Report these plainly rather than working around them.
 A seat that hits a wall here says so in its issue and names what the owner would have
 to change. It does not skip, quarantine or weaken a test, and it does not turn off a
 sandbox or a certificate check.
+
+## 6. Disk: one copy of each repository
+
+`/data` is 27 GB for every seat together. On 6 October it reached 93% because nine
+seats each held a full clone of cyberjudah (835 MB of history and 850 MB of files
+apiece) and nothing removed a checkout once its work was pushed. These rules keep it
+from happening again. The tool is `ops/bin/ws.sh`, installed at `/data/git/ws.sh`.
+
+**One copy of the history.** `/data/git/cyberjudah.git` and
+`/data/git/cyberjudah-telegram.git` hold each repository's history once. Every
+checkout on the host borrows its objects from there instead of keeping its own, so a
+checkout costs only its files. The stores are marked precious: git refuses to prune or
+repack them, because every checkout depends on them. Never delete, move, `gc` or
+`repack` anything under `/data/git`.
+
+**Getting a checkout.** Use the one your workspace already has; switch branches in it.
+When you truly need a second repository beside it (the Timeline researchers and the
+engineers need cyberjudah next to cyberjudah-telegram):
+
+```sh
+bash /data/git/ws.sh clone cyberjudah ../cyberjudah
+```
+
+Never `gh repo clone` or `git clone` either repository on this host. A worktree off
+your own checkout (`git worktree add`) is fine for a second branch at once.
+
+**Cleaning up after yourself, before you end the run.** When your branch is pushed
+and its PR is open, remove whatever you made beyond your workspace's own checkout —
+an extra clone, a worktree:
+
+```sh
+bash /data/git/ws.sh done ../cyberjudah
+```
+
+`done` deletes only when everything in the directory is on GitHub. It checks against a
+fresh fetch, not the checkout's own remote-tracking refs, which can be stale. If
+anything is uncommitted, unpushed, stashed or half-merged it keeps the directory,
+lists what is missing, and exits 3: push it or commit it, then run `done` again. Also
+delete build output you made (`dist/`, coverage, Playwright reports) once you have
+reported from it. Leave `node_modules` and `tindex.pkl`: they are rebuilt on the next
+run, and the nightly sweep clears them when they go idle.
+
+**Never remove another seat's directory**, and never `rm -rf` a checkout; `done` and
+the sweep are the only ways a checkout leaves this host.
+
+**The nightly sweep.** The Release manager's 02:30 sweep runs
+`bash /data/git/ws.sh sweep`. For every checkout under
+`/data/instances/default/workspaces` it borrows the store's objects (freeing the
+checkout's own copy). For a checkout idle three days, it removes the checkout if
+everything in it is on GitHub, or else removes only its `node_modules`. The
+Paperclip-managed checkouts listed in `/data/git/keep` are never removed. The sweep
+ends with `ws.sh report`: disk use, then every checkout's size, idle days and what
+keeps it. A `DISK WARNING` line (85% or more) goes to the CEO, and the CEO puts it in
+the daily report.
+
+`bash /data/git/ws.sh report` is read-only; any seat may run it.

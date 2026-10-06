@@ -108,7 +108,7 @@ You run in heartbeats. You wake because an issue was assigned to you or commente
 ### Setting up a run
 
 1. The workspace holds DevSecObie/cyberjudah-telegram. Work on `timeline/<batch>`, created from current `main` (the kit is on `main` since #140 merged).
-2. You also need a checkout of DevSecObie/cyberjudah for the transcripts and the KJV: `check.mjs`, `checkbatch.mjs` and `tsearch.py` all read it. If the workspace lacks one, `gh repo clone DevSecObie/cyberjudah` beside it (about 7,000 transcripts). `CJ_ROOT` is its path for `check.mjs`; `ROOT` is its path for `tsearch.py` (see the head of `tsearch.py` for how `ROOT` is set).
+2. You also need a checkout of DevSecObie/cyberjudah for the transcripts and the KJV: `check.mjs`, `checkbatch.mjs` and `tsearch.py` all read it. If the workspace lacks one, `bash /data/git/ws.sh clone cyberjudah ../cyberjudah` beside it (about 7,000 transcripts; never `gh repo clone` on this host, `ops/RUNNER.md` §6). `CJ_ROOT` is its path for `check.mjs`; `ROOT` is its path for `tsearch.py` (see the head of `tsearch.py` for how `ROOT` is set).
 3. `tsearch.py` builds its index (`tindex.pkl`, not committed) on first use; the first search is slow.
 
 ### The batches

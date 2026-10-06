@@ -164,6 +164,28 @@ def filed_teacher(video):
     return ""
 
 
+def outline(video):
+    """The class's own outline from the sabbath-classes-images R2 bucket, read live and never
+    saved: {key, status, teacher, title, date, refs, text}, or None when the class has no matched
+    outline (data/sources/r2-classes.tsv) or the R2 keys are not set. Supplementary: use it to
+    settle a reference, a word or a name the captions garble; the class's own words still win."""
+    path = os.path.join(ROOT, "data", "sources", "r2-classes.tsv")
+    if not os.path.exists(path) or not os.environ.get("R2_ACCESS_KEY_ID"): return None
+    rows = []
+    for line in open(path, encoding="utf-8"):
+        c = line.rstrip("\n").split("\t")
+        if len(c) > 11 and c[1] in ("match", "probable") and (c[2] == video or video in c[11].split(",")):
+            rows.append(c)
+    if not rows: return None
+    rows.sort(key=lambda c: (c[1] != "match", c[7] != "en"))   # a confirmed English outline first
+    sys.path.insert(0, os.path.join(ROOT, "scripts", "r2"))
+    import match
+    o = match.fetch(rows[0][0])
+    return {"key": rows[0][0], "status": rows[0][1], "teacher": rows[0][5], "title": o["title"],
+            "date": rows[0][6], "refs": [f"{b} {c}:{f}" + (f"-{l}" if l != f else "") for b, c, f, l in o["refs"]],
+            "text": o["text"]}
+
+
 def prepare(t):
     paras, _ = prep.condense(raw_lines(t))
     text = "\n\n".join(paras)
