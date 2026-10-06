@@ -97,7 +97,8 @@ Work in a checkout with both remotes fetched. Commands below are the ones the re
 7. **Review issues.** For each PR without a QA review issue and a Security review issue, create them (`POST /api/companies/{companyId}/issues`), assigned to the QA engineer and the Security reviewer, as children (`parentId`) of the PR's Paperclip issue, or of a tracking issue you create and assign to the CEO when the PR has none (Codex, Copilot, Dependabot, the owner). Each description is self-contained: repository, PR number, title, branch, base, what to check, and the instruction to **post the verdict on the review issue itself and mark it `done`** (never "comment on the parent"). Then set the parent's `blockedByIssueIds` to the two review issues. If you cannot create them, tell the CEO on your run issue.
 8. **Stacked PRs.** Record the order and the constraints (§5.3). Retarget a dependent PR (`gh pr edit <number> --base main`) **only** when its parent has merged **and** the CEO's note asking for it is on your issue; then wait for checks on that version.
 9. **Write the list** (§5.4), save it as the `releases` document on your run issue, post it as a comment, and open or update the `ops/RELEASES.md` PR.
-10. **Close** the run issue `done` with a one-line summary: how many PRs swept, how many brought current, how many review issues opened, what is ready.
+10. **The disk sweep (02:30 run only).** `bash /data/git/ws.sh sweep` (`ops/RUNNER.md` §6). Put its report on your run issue as a comment. If it prints `DISK WARNING`, or keeps an idle checkout because of unpushed or uncommitted work, tell the CEO on your run issue and name the seat whose directory it is (the workspace id is the agent id). Never delete a checkout by hand.
+11. **Close** the run issue `done` with a one-line summary: how many PRs swept, how many brought current, how many review issues opened, what is ready.
 
 ### 5.3 Stacked PRs and merge order
 

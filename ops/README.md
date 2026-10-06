@@ -11,6 +11,7 @@ The Paperclip team that builds and maintains CyberJudah: who does what, under wh
 | `RUNNER.md` | The agents' own runner: how to run browser tests on it, the settings they need, the limits every seat shares, and what it cannot do. | CeeJay. |
 | `SETUP.md` | The owner's one-time checklist: GitHub connection, secrets, agents, routines, switching off the old routines, repository settings. | CeeJay. |
 | `RELEASES.md` | The ordered "ready to merge" list the Release manager hands the owner. Created by the Release manager's first sweep. | The Release manager. |
+| `bin/ws.sh` | One copy of each repository on the agents' host: shared clones, cleanup, the nightly disk sweep (`RUNNER.md` §6). | CeeJay. |
 | `agents/<role>/AGENTS.md` | The full working instructions each seat reads at every start. One per seat; the two Timeline researchers share one. | CeeJay, with the CEO. |
 
 Nothing in this folder is product code or content. Changing it is a PR like any other; the owner merges.
