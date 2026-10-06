@@ -1,4 +1,4 @@
-# Ready to merge — 2026-10-06 16:00 UTC
+# Ready to merge — 2026-10-06 16:10 UTC
 
 ## Ready, in order
 
@@ -30,7 +30,7 @@
 | telegram | [#139](https://github.com/DevSecObie/cyberjudah-telegram/pull/139) | AI answer block in search | CI green, but Reviewer verdict (CYB-93) unchanged: fail on PR-body wording (rule 12), a privacy-doc gap on the new per-IP counter, and a quota-math question. Owner's `ceejay/*` branch. | Owner |
 | telegram | [#152](https://github.com/DevSecObie/cyberjudah-telegram/pull/152) | Browser test for #139 | Based on #139's own branch; rides on its disposition | Follows #139 |
 | telegram | [#158](https://github.com/DevSecObie/cyberjudah-telegram/pull/158) | Tests for #153: `/api/img/` serves only allowlisted keys | Brought current with `main` this sweep (clean merge, no conflict); checks re-running on the new head | Nobody; ready once green |
-| telegram | [#155](https://github.com/DevSecObie/cyberjudah-telegram/pull/155) | Pause scripture audio without losing your place | Behind `main`; the App engineer is actively mid-task on exactly this "merge main in" step — not touched, to avoid racing | App engineer (in progress) |
+| telegram | [#155](https://github.com/DevSecObie/cyberjudah-telegram/pull/155) | Pause scripture audio without losing your place | Brought current with `main` again this sweep (clean merge, `895f7b2`→`33b1326`, no conflict, pushed); checks re-running on the new head | Nobody; ready once green |
 | telegram | [#163](https://github.com/DevSecObie/cyberjudah-telegram/pull/163) | Keep Bible audio playing across screens | Draft, stacked on #155; QA and Security review issues exist but are blocked/not started | QA / Security reviewers, after #155 |
 | telegram | [#162](https://github.com/DevSecObie/cyberjudah-telegram/pull/162) | Changelog entries as one file per PR | Owner's `claude/*` session branch; checks still running (`stage`, one browser-tests job pending) | Owner's session |
 
@@ -44,3 +44,4 @@ content #4, #10, #25
 - **#150 and #156 both merged with their QA/Security reviews unresolved** (CYB-101 never started; CYB-137 was a fail verdict). Flagging for visibility only — already live, not reversible from this seat.
 - Found the CEO seat reported in `error` ("Process adapter missing command") in a comment thread today; this may be why some escalations (e.g. CYB-149, still `blocked` despite #150 already merging) aren't moving. Worth the owner's attention if escalations keep stalling.
 - Cleaned up a dangling local merge conflict left in the shared `cyberjudah-telegram` workspace checkout (a stray, unpushed local branch with an unresolved conflict in `app/scripts/timeline-portraits.json` from an earlier sweep's aborted attempt on #150 — #150 merged through another path since, so the local state was stale). Aborted it; no push involved, nothing lost.
+- Closed [CYB-160](/CYB/issues/CYB-160) (a parallel "Release Manager" issue covering the same ground, stalled on repeated terminal-limit failures) as `done`: its authority question is the same one resolved on CYB-100, and its outstanding items (branch hygiene, stacked-PR tracking, the changelog keystone, Copilot drafts, the ordered list, deploys) are all covered above.
