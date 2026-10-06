@@ -10,7 +10,7 @@ The CEO keeps this file current at the end of every cycle (see `ops/RUNBOOK.md`)
 
 | Approval | Scope | Given | Status |
 |---|---|---|---|
-| Precept passes may be merged by the reviewer when every check passes and the pass is faithful to its class | `data/precepts/classes/<video id>.json`, one file per PR | Implied by the Claude routine "Review ChatGPT precept passes" (merges passes that are good) | **To confirm with the owner before the Precepts reviewer merges anything.** Until the owner confirms it here, the reviewer comments only. |
+| Precept passes may be merged by the reviewer when every check passes and the pass is faithful to its class | `data/precepts/classes/<video id>.json`, one file per PR | Implied by the Claude routine "Review ChatGPT precept passes" (merges passes that are good) | Confirmed by the owner on 6 October 2026. |
 
 No other standing approval exists. Every other merge and every production deploy needs the owner's go-ahead in the current conversation (rule 1).
 
