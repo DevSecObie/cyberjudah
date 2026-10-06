@@ -1,17 +1,17 @@
-# Ready to merge — 2026-10-06 17:00 UTC
+# Ready to merge — 2026-10-06 21:10 UTC
 
 ## Ready, in order
 
 | # | Repo | PR | Title | Checks | Reviews | Merge order | Deploy approval that follows |
 |---|---|---|---|---|---|---|---|
-| 1 | cyberjudah | [#70](https://github.com/DevSecObie/cyberjudah/pull/70) | Class note: The Slave Mentality Yesterday & Today | CI green (`validate`) | Notes need no further review; checks pass | standalone | none (content repo, no gate) |
-| 2 | cyberjudah | [#57](https://github.com/DevSecObie/cyberjudah/pull/57) | Precept pass: You Are Hated And In Hell | CI green | Precepts Reviewer: faithful, 0 problems | standalone | none — standing approval for precept-pass merges (`ops/STATE.md` §1) still unconfirmed, so this is the owner's own merge |
-| 3 | cyberjudah | [#59](https://github.com/DevSecObie/cyberjudah/pull/59) | Precept pass: The Slave Mentality Yesterday & Today | CI green | Precepts Reviewer: faithful, 0 problems (fix applied, re-reviewed) | standalone | same note as #57 |
-| 4 | cyberjudah | [#63](https://github.com/DevSecObie/cyberjudah/pull/63) | Precept pass: Blood Toucheth Blood | CI green | Precepts Reviewer: faithful, 0 problems (round 2) | standalone | same note as #57 |
-| 5 | cyberjudah | [#66](https://github.com/DevSecObie/cyberjudah/pull/66) | Check two-way family links on every Apocrypha person batch (touches `.github/workflows/**`) | CI green | Security/QA re-check (CYB-154) confirmed: 0 problems, one non-blocking nit | standalone | security-sensitive (workflow-adjacent); owner's call |
-| 6 | telegram | [#146](https://github.com/DevSecObie/cyberjudah-telegram/pull/146) | Deps (production): react-router 7→8 | **all green on current head, including `stage`** — still **behind `main`** (9 commits) | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed from the owner first**; `ceejay/*` branch, not mine to merge main into without the CEO's note |
-| 7 | telegram | [#147](https://github.com/DevSecObie/cyberjudah-telegram/pull/147) | Deps (production): marked 16→18 | **all green on current head, including `stage`** — still **behind `main`** (9 commits) | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed; renders transcript text**; same branch-ownership note as #146 |
-| 8 | telegram | [#139](https://github.com/DevSecObie/cyberjudah-telegram/pull/139) | AI answer block in search | **all green**, still behind `main` (7 commits) | fixes for CYB-93 pushed; re-check [CYB-194](/CYB/issues/CYB-194) open, unassigned (Reviewer paused) | standalone, [#152](https://github.com/DevSecObie/cyberjudah-telegram/pull/152) rides on it | owner's call once re-reviewed |
+| 1 | cyberjudah | [#74](https://github.com/DevSecObie/cyberjudah/pull/74) | Class note: You Are Hated And In Hell | CI green (`validate`); `check.py` 130 verses, 0 mismatches; `notes:lint` 0 errors | Notes need no further review; checks pass. A content-accuracy check ([CYB-231](/CYB/issues/CYB-231), teacher attribution) is open and unactioned — doesn't block, worth the owner's look | standalone, one file | none (content repo, no gate) |
+| 2 | cyberjudah | [#81](https://github.com/DevSecObie/cyberjudah/pull/81) | Class note: The Gospel Is Black Liberation | CI green (`validate`); `check.py` 183 verses, 0 mismatches; `notes:lint` 0 errors; `npm run check` 0 broken | Notes need no further review; checks pass. Author flags the note at 9,852 words, over the 3,000–8,000 reference range in `scripts/notes/README.md` (under the 10,000 that sends a note back); will trim on request | standalone, one file | none (content repo, no gate) |
+| 3 | cyberjudah | [#82](https://github.com/DevSecObie/cyberjudah/pull/82) | Class note: The Beauty in Civility the Cost of Immorality | CI green (`validate`); `check.py` 51 verses, 0 mismatches; `notes:lint` 0 errors (1 warning: teacher never named in the class, left blank rather than guessed); `npm run check` 0 broken | Notes need no further review; checks pass | standalone, one file | none (content repo, no gate) |
+| 4 | telegram | [#146](https://github.com/DevSecObie/cyberjudah-telegram/pull/146) | Deps (production): react-router 7→8 | **all green on current head, including `stage`** — still **behind `main`** (9 commits) | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed from the owner first**; `ceejay/*` branch, not mine to merge main into without the CEO's note |
+| 5 | telegram | [#147](https://github.com/DevSecObie/cyberjudah-telegram/pull/147) | Deps (production): marked 16→18 | **all green on current head, including `stage`** — still **behind `main`** (9 commits) | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed; renders transcript text**; same branch-ownership note as #146 |
+| 6 | telegram | [#139](https://github.com/DevSecObie/cyberjudah-telegram/pull/139) | AI answer block in search | **all green**, still behind `main` (7 commits) | fixes for CYB-93 pushed; re-check [CYB-194](/CYB/issues/CYB-194) open, unassigned (Reviewer paused) | standalone, [#152](https://github.com/DevSecObie/cyberjudah-telegram/pull/152) rides on it | owner's call once re-reviewed |
+
+Rows 4–6 (telegram) are carried over unchanged from the 17:00 UTC sweep; this run was scoped to [CYB-254](/CYB/issues/CYB-254) (the three cyberjudah class-note PRs) and did not re-check telegram.
 
 ## For the owner right now — production deploy on the gate
 
@@ -39,6 +39,12 @@
 ## Held (leave unless the owner asks)
 
 content #4, #10, #25
+
+## Process notes (21:10 UTC, CYB-254)
+
+- Scoped run: [CYB-254](/CYB/issues/CYB-254) asked me to review and put PRs [#74](https://github.com/DevSecObie/cyberjudah/pull/74), [#81](https://github.com/DevSecObie/cyberjudah/pull/81), [#82](https://github.com/DevSecObie/cyberjudah/pull/82) (class notes) on this list. All three verified directly against GitHub: `OPEN`, `MERGEABLE`/`CLEAN`, one file each, `validate` check passing. Per rule 1, merging them is the owner's call, not mine.
+- While here, confirmed by `gh pr view --json state` that rows previously in the Ready table for [#70](https://github.com/DevSecObie/cyberjudah/pull/70), [#57](https://github.com/DevSecObie/cyberjudah/pull/57), [#59](https://github.com/DevSecObie/cyberjudah/pull/59), [#63](https://github.com/DevSecObie/cyberjudah/pull/63), [#66](https://github.com/DevSecObie/cyberjudah/pull/66) are all `MERGED` — removed as stale. No action needed on those.
+- Not re-swept this run: the rest of cyberjudah's open PRs ([#75](https://github.com/DevSecObie/cyberjudah/pull/75), [#80](https://github.com/DevSecObie/cyberjudah/pull/80)) and telegram's full PR list, and the "Not yet ready" / "Held" / deploy-gate tables below, which are carried over unchanged from the 17:00 UTC sweep and may be stale. Next full sweep should re-verify them.
 
 ## Process notes (17:00 UTC sweep)
 
