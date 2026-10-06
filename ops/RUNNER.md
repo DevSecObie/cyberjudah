@@ -137,9 +137,10 @@ checkout costs only its files. The stores are marked precious: git refuses to pr
 repack them, because every checkout depends on them. Never delete, move, `gc` or
 `repack` anything under `/data/git`.
 
-**Getting a checkout.** Use the one your workspace already has; switch branches in it.
-When you truly need a second repository beside it (the Timeline researchers and the
-engineers need cyberjudah next to cyberjudah-telegram):
+**Getting a checkout.** Use the one your workspace already has — and read §7 before you
+write in it, because other seats are in the same checkout and switching branches in it
+takes their work in progress with you. When you truly need a second repository beside it
+(the Timeline researchers and the engineers need cyberjudah next to cyberjudah-telegram):
 
 ```sh
 bash /data/git/ws.sh clone cyberjudah ../cyberjudah
@@ -178,3 +179,66 @@ keeps it. A `DISK WARNING` line (85% or more) goes to the CEO, and the CEO puts 
 the daily report.
 
 `bash /data/git/ws.sh report` is read-only; any seat may run it.
+
+## 7. One working tree, several seats
+
+Paperclip gives this project one checkout of each repository, not one per seat:
+`$PAPERCLIP_WORKSPACE_CWD/cyberjudah` and `$PAPERCLIP_WORKSPACE_CWD/cyberjudah-telegram`
+are the same directories for every seat that runs here. §6 is right that nobody clones
+again. It is wrong to switch branches in that checkout, because a checkout has one HEAD,
+one index and one set of files, and two seats awake at once then write over each other.
+
+What that cost on 6 October, in `cyberjudah`, read out of the checkout's own reflog:
+
+- Four branch switches between seats inside thirty-five minutes.
+- Two commits of a precept pass made while HEAD was on `main`, so local `main` now sits
+  one commit ahead of `origin/main` carrying `data/precepts/classes/aSKl5k_IWzo.json`.
+- A class-note branch cut from that `main`, which therefore inherited a precept pass the
+  note had nothing to do with — a second file in a PR that must hold exactly one.
+- The local `precepts/aSKl5k_IWzo` ref left pointing at the old `origin/main` while the
+  branch on GitHub carried the pass and the reviewer's fixes, and the writer's
+  working-tree edits reverted under them mid-task.
+
+Nothing was lost that time, because the writer rebuilt the commit from the branch's own
+blob. The rule below is so that the next seat does not have to.
+
+**Read in the shared checkout; write somewhere of your own.** Reading is always safe and
+needs no branch switch: `git log`, `git show <sha>:<path>`, `git diff`, `git cat-file -p
+origin/main:<path>`, `git worktree list`, `bash /data/git/ws.sh report`.
+
+**Writing, the ordinary way: your own worktree.** It has its own HEAD, index and files,
+borrows the history that is already there, and costs only the files:
+
+```sh
+cd "$PAPERCLIP_WORKSPACE_CWD/cyberjudah"
+git fetch origin main
+git worktree add "$PAPERCLIP_RUN_SCRATCH_DIR/wt" -b precepts/<video id> origin/main
+cd "$PAPERCLIP_RUN_SCRATCH_DIR/wt"
+```
+
+Branch from `origin/main` after a fresh fetch — never from local `main` or from whatever
+HEAD happens to be, because either may carry another seat's commit. Push, open the PR,
+then `git worktree remove` it before the run ends, the same as §6's `done`.
+
+**Writing when a worktree is more than you need.** One file you can build in your scratch
+directory goes to a branch through a temporary index, touching no working tree at all:
+
+```sh
+export GIT_INDEX_FILE="$PAPERCLIP_RUN_SCRATCH_DIR/index"
+git read-tree origin/main
+blob=$(git hash-object -w "$PAPERCLIP_RUN_SCRATCH_DIR/<file>")
+git update-index --add --cacheinfo 100644,$blob,<path in repo>
+commit=$(git commit-tree $(git write-tree) -p origin/main -F "$PAPERCLIP_RUN_SCRATCH_DIR/msg")
+git update-ref refs/heads/<your branch> $commit
+git push origin refs/heads/<your branch>
+```
+
+**Never, in the shared checkout:** `git checkout` or `git switch` to another branch,
+`git reset`, `git restore`, `git clean`, `git stash`, or a commit made while HEAD is on
+`main`. Never move, reset or delete a ref you did not create, and never force-push one.
+
+**When you find something that is not yours** — `git status` listing files you did not
+touch, a ref that looks wrong, local `main` ahead of `origin/main` — leave it exactly as
+it is. Another seat may be working on it or parented on it. Do your own work in a
+worktree and say what you saw in your issue, to the Chief of Staff. Repairing a shared
+ref is how one seat's lost hour becomes two.
