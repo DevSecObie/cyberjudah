@@ -2,7 +2,7 @@
 title: "Blood Toucheth Blood"
 slug: "2026/2026-10-03-blood-toucheth-blood"
 date: "2026-10-03"
-teacher: ""
+teacher: "Captain Ashan-El"
 description: "IUIC in the ClassRoom · 2026-10-03"
 tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "sexual-purity"]
 ---
