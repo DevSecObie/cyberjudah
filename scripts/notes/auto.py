@@ -34,6 +34,12 @@ SERIES = {"classes": "IUIC in the ClassRoom", "captains": "15 Minutes w/ The Cap
 SKIP_TITLES = re.compile(r"patient saints radio|power hour|\bpsr\b", re.I)
 MIN_WORDS = 2500
 
+# Video ids to hold out of the queue regardless of what GitHub says, each commented with the
+# PR that justifies it. Remove the line once that PR lands.
+HOLD = {
+    "EBEwdiVcsTg": 41,  # copilot/add-class-notes-for-spiritual-uprising
+}
+
 SPEC = """You write the class notes of CyberJudah, a library of the King James Bible (with the Apocrypha) \
 and the teaching given from it in the Sabbath classes of IUIC. You are given the captions of one class, \
 condensed into timestamped paragraphs, and the scripture references already verified in it.
@@ -98,9 +104,29 @@ def noted():
     return ids, keys
 
 
+def open_pr_note_paths():
+    """note path (repo-relative) -> PR number, for every file an open pull request already changes.
+    None when GitHub could not be listed, so callers skip nothing extra rather than fail."""
+    try:
+        r = subprocess.run(["gh", "pr", "list", "--state", "open", "--json", "number,files", "--limit", "200"],
+                            cwd=ROOT, text=True, capture_output=True, timeout=30)
+        if r.returncode != 0: raise RuntimeError((r.stderr or r.stdout).strip()[-300:] or "gh exited nonzero")
+        prs = json.loads(r.stdout)
+        paths = {}
+        for pr in prs:
+            for f in pr.get("files", []):
+                paths.setdefault(f["path"], pr["number"])
+        return paths
+    except Exception as e:
+        print(f"warning: could not list open PRs ({e}); --plan will not skip notes already in a PR this run", flush=True)
+        return None
+
+
 def queue(feed):
-    """Transcripts with no note, newest first: the latest Sabbath first, then the backlog."""
+    """Transcripts with no note, newest first: the latest Sabbath first, then the backlog.
+    A class on the HOLD list, or whose note path is already in an open PR's files, is left out."""
     ids, keys = noted()
+    pr_paths = open_pr_note_paths()
     rows = []
     for f in glob.glob(f"{ROOT}/{FEED_DIR[feed]}/transcripts/*.json"):
         try: t = json.load(open(f, encoding="utf-8"))
@@ -108,6 +134,14 @@ def queue(feed):
         if t.get("feed") != feed or t["videoId"] in ids or not t.get("date"): continue
         if _key(t.get("cleanTitle") or t.get("title"), t["date"]) in keys or _key(t.get("title"), t["date"]) in keys: continue
         if SKIP_TITLES.search(t.get("title", "")) or (t.get("words") or 0) < MIN_WORDS: continue
+        if t["videoId"] in HOLD:
+            print(f"skipped {t['videoId']} — note in open PR #{HOLD[t['videoId']]}", flush=True)
+            continue
+        if pr_paths is not None:
+            rel = os.path.relpath(note_path(t, feed), ROOT)
+            if rel in pr_paths:
+                print(f"skipped {t['videoId']} — note in open PR #{pr_paths[rel]}", flush=True)
+                continue
         rows.append(t)
     rows.sort(key=lambda t: (t["date"], t.get("views") or 0), reverse=True)
     return rows
