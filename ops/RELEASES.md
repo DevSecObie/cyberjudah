@@ -1,4 +1,4 @@
-# Ready to merge — 2026-10-06 16:10 UTC
+# Ready to merge — 2026-10-06 16:25 UTC
 
 ## Ready, in order
 
@@ -9,8 +9,8 @@
 | 3 | cyberjudah | [#59](https://github.com/DevSecObie/cyberjudah/pull/59) | Precept pass: The Slave Mentality Yesterday & Today | CI green | Precepts Reviewer: faithful, 0 problems (fix applied, re-reviewed) | standalone | same note as #57 |
 | 4 | cyberjudah | [#63](https://github.com/DevSecObie/cyberjudah/pull/63) | Precept pass: Blood Toucheth Blood | CI green | Precepts Reviewer: faithful, 0 problems (round 2) | standalone | same note as #57 |
 | 5 | cyberjudah | [#66](https://github.com/DevSecObie/cyberjudah/pull/66) | Check two-way family links on every Apocrypha person batch (touches `.github/workflows/**`) | CI green | Security/QA re-check (CYB-154) confirmed: 0 problems, one non-blocking nit | standalone | security-sensitive (workflow-adjacent); owner's call |
-| 6 | telegram | [#146](https://github.com/DevSecObie/cyberjudah-telegram/pull/146) | Deps (production): react-router 7→8 | all green | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed from the owner first** |
-| 7 | telegram | [#147](https://github.com/DevSecObie/cyberjudah-telegram/pull/147) | Deps (production): marked 16→18 | all green | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed; renders transcript text** |
+| 6 | telegram | [#146](https://github.com/DevSecObie/cyberjudah-telegram/pull/146) | Deps (production): react-router 7→8 | all green on current head, but fell **behind `main` again** this sweep | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed from the owner first**; `ceejay/*` branch, not mine to merge main into without the CEO's note |
+| 7 | telegram | [#147](https://github.com/DevSecObie/cyberjudah-telegram/pull/147) | Deps (production): marked 16→18 | all green on current head, but fell **behind `main` again** this sweep | n/a (dependency bump) | standalone | production deploy — **major-upgrade go-ahead needed; renders transcript text**; same branch-ownership note as #146 |
 
 ## For the owner right now — two production deploys sitting on the gate
 
@@ -29,16 +29,20 @@
 | cyberjudah | [#25](https://github.com/DevSecObie/cyberjudah/pull/25), [#10](https://github.com/DevSecObie/cyberjudah/pull/10), [#4](https://github.com/DevSecObie/cyberjudah/pull/4) | Audio alignment draft; dirty `claude/*` branch; Dependabot on `v5` base | Unchanged holds — draft, conflicting, or not in today's priority list | Owner / original authors |
 | telegram | [#139](https://github.com/DevSecObie/cyberjudah-telegram/pull/139) | AI answer block in search | CI green, but Reviewer verdict (CYB-93) unchanged: fail on PR-body wording (rule 12), a privacy-doc gap on the new per-IP counter, and a quota-math question. Owner's `ceejay/*` branch. | Owner |
 | telegram | [#152](https://github.com/DevSecObie/cyberjudah-telegram/pull/152) | Browser test for #139 | Based on #139's own branch; rides on its disposition | Follows #139 |
-| telegram | [#158](https://github.com/DevSecObie/cyberjudah-telegram/pull/158) | Tests for #153: `/api/img/` serves only allowlisted keys | Brought current with `main` this sweep (clean merge, no conflict); checks re-running on the new head | Nobody; ready once green |
-| telegram | [#155](https://github.com/DevSecObie/cyberjudah-telegram/pull/155) | Pause scripture audio without losing your place | Brought current with `main` again this sweep (clean merge, `895f7b2`→`33b1326`, no conflict, pushed); checks re-running on the new head | Nobody; ready once green |
+| telegram | [#158](https://github.com/DevSecObie/cyberjudah-telegram/pull/158) | Tests for #153: `/api/img/` serves only allowlisted keys | Current with `main`; `browser-tests` (chromium/firefox/webkit) still pending, nothing failing | Nobody; ready once green |
+| telegram | [#155](https://github.com/DevSecObie/cyberjudah-telegram/pull/155) | Pause scripture audio without losing your place | Current with `main`; QA and Security review issues both already `done`, clean. `stage`/`browser-tests` still pending | Nobody; ready once green |
 | telegram | [#163](https://github.com/DevSecObie/cyberjudah-telegram/pull/163) | Keep Bible audio playing across screens | Draft, stacked on #155; QA and Security review issues exist but are blocked/not started | QA / Security reviewers, after #155 |
-| telegram | [#162](https://github.com/DevSecObie/cyberjudah-telegram/pull/162) | Changelog entries as one file per PR | Owner's `claude/*` session branch; checks still running (`stage`, one browser-tests job pending) | Owner's session |
+| telegram | [#162](https://github.com/DevSecObie/cyberjudah-telegram/pull/162) | Changelog entries as one file per PR | Owner's `claude/*` session branch; one `browser-tests` (chromium) job still pending, everything else green | Owner's session |
 
 ## Held (leave unless the owner asks)
 
 content #4, #10, #25
 
-## Process notes
+## Process notes (16:25 UTC sweep)
+
+- No new merges or deploy approvals by me this sweep (list-only, per the authority resolution). Both flagged deploys are unchanged: run 37483332759 stays skipped per the owner's answer; run 37489577515 is still sitting on the `production` gate waiting for a go/skip.
+- No PRs opened or closed since the 16:10 UTC sweep; the open-PR set on both repos is unchanged.
+- #64's content-fidelity review (CYB-150) and #150's old QA+Security review (CYB-101, telegram) are both still exactly where they were — unstarted/backlog. Not something I can push on from this seat.
 
 - A lot of movement happens directly on GitHub between sweeps (shared `DevSecObie` login for every seat, so the actor field can't distinguish who merged). Since the last report: cyberjudah #47, #54, #71 and telegram #148, #149, #150, #151, #153, #156, #160, #161, #164 are now merged; #157 and #142 closed as superseded. None of this was me — I am operating list-only per the authority resolution on CYB-100 (owner chose "canonical" rules: I never merge or approve a deploy myself).
 - **#150 and #156 both merged with their QA/Security reviews unresolved** (CYB-101 never started; CYB-137 was a fail verdict). Flagging for visibility only — already live, not reversible from this seat.
