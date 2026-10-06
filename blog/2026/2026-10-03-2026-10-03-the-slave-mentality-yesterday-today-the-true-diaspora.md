@@ -2,7 +2,7 @@
 title: "The Slave Mentality Yesterday & Today: the True Diaspora"
 slug: "2026/2026-10-03-the-slave-mentality-yesterday-today-the-true-diaspora"
 date: "2026-10-03"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-10-03"
 tags: ["IUIC in the ClassRoom", "mental-health"]
 ---
