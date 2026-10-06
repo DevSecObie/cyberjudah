@@ -47,7 +47,10 @@ jobs:
       # notes must resolve, the job the Docusaurus build used to do.
       # Case-study drafts are validated by the quality workflow. Do not let that separate
       # backlog block publication of otherwise-valid notes and their scripture links.
-      - run: node engine/check.mjs --allow-case-errors
+      - name: Check the library, including every person a batch added or edited for two-way family links
+        env:
+          PEOPLE_BASE: ${{ github.event.before }}
+        run: node engine/check.mjs --allow-case-errors
       - name: Build the data set
         run: node engine/build.mjs --out dist --site https://cyberjudah.io
       - name: Publish to the data branch
