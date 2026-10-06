@@ -38,7 +38,6 @@ MIN_WORDS = 2500
 # PR that justifies it. Remove the line once that PR lands.
 HOLD = {
     "EBEwdiVcsTg": 41,  # copilot/add-class-notes-for-spiritual-uprising
-    "CO-THOc-IhQ": 56,  # notes/CO-THOc-IhQ, "Class note: Blood Toucheth Blood"
 }
 
 SPEC = """You write the class notes of CyberJudah, a library of the King James Bible (with the Apocrypha) \
@@ -113,14 +112,14 @@ def open_pr_note_paths():
                             cwd=ROOT, text=True, capture_output=True, timeout=30)
         if r.returncode != 0: raise RuntimeError((r.stderr or r.stdout).strip()[-300:] or "gh exited nonzero")
         prs = json.loads(r.stdout)
+        paths = {}
+        for pr in prs:
+            for f in pr.get("files", []):
+                paths.setdefault(f["path"], pr["number"])
+        return paths
     except Exception as e:
         print(f"warning: could not list open PRs ({e}); --plan will not skip notes already in a PR this run", flush=True)
         return None
-    paths = {}
-    for pr in prs:
-        for f in pr.get("files", []):
-            paths.setdefault(f["path"], pr["number"])
-    return paths
 
 
 def queue(feed):
