@@ -6,7 +6,9 @@ import { changedPersonIds, validateReciprocity } from './people-reciprocity.mjs'
 const peopleDoc = JSON.parse(fs.readFileSync(new URL('../data/people/people.json', import.meta.url)));
 
 test('an id with no relations at all has nothing to check', () => {
-  assert.deepEqual(validateReciprocity(peopleDoc, ['abraham-gen-11-26']), []);
+  const noRelations = peopleDoc.people.find((p) => ['father', 'mother', 'siblings', 'partners', 'children'].every((k) => !(p[k]?.length)));
+  assert.ok(noRelations, 'fixture must contain a person with no relation fields to make this test meaningful');
+  assert.deepEqual(validateReciprocity(peopleDoc, [noRelations.id]), []);
 });
 
 test('a one-directional relationship from a changed id fails the check', () => {

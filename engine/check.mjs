@@ -24,9 +24,11 @@ const peopleProblems = [...validatePeople(peopleDoc)];
 const peopleBase = process.env.PEOPLE_BASE;
 if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives the all-zero SHA; nothing to diff against
   if (!/^[a-f0-9]{7,40}$/.test(peopleBase)) throw new Error("PEOPLE_BASE must be a commit SHA");
+  try { execFileSync("git", ["cat-file", "-e", `${peopleBase}^{commit}`], { encoding: "utf8" }); }
+  catch { throw new Error(`PEOPLE_BASE ${peopleBase} is not a known commit`); } // an unknown base must not fall through to "check the whole catalog"
   let beforeDoc = null;
   try { beforeDoc = JSON.parse(execFileSync("git", ["show", `${peopleBase}:data/people/people.json`], { encoding: "utf8", maxBuffer: 50_000_000 })); }
-  catch { beforeDoc = { people: [] }; } // the file did not exist at that commit
+  catch { beforeDoc = { people: [] }; } // the commit exists; the file did not exist at that commit
   const { exceptions } = JSON.parse(fs.readFileSync(path.join(ROOT, "engine/people-reciprocity-exceptions.json"), "utf8"));
   const changed = changedPersonIds(beforeDoc, peopleDoc);
   peopleProblems.push(...validateReciprocity(peopleDoc, changed, exceptions));
