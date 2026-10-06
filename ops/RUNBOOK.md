@@ -13,7 +13,7 @@ The schedule is staggered so the heavy content seats never run at the same time 
 | Time (UTC) | Who | What |
 |---|---|---|
 | 00:10 | Notes writer | One class note from the queue (`auto.py --plan`), one PR. |
-| 02:30 | Release manager | Sweep both repos: merge `main` into team branches, rerun checks, update the ready list and the stacked order. |
+| 02:30 | Release manager | Sweep both repos: merge `main` into team branches, rerun checks, update the ready list and the stacked order. Then the disk sweep (`ws.sh sweep`, `ops/RUNNER.md` §6). |
 | 03:17 | GitHub (`deploy.yml` nightly) | Search index reload and embed on the app's Worker. Not the team's. |
 | 03:45 | Data steward | Health sweep: data publish, link check, D1 load, deploy runs and pending approvals, live smoke, bundle artifact, catalog, routine health. Opens issues on failures. |
 | 05:10 | Notes writer | Second note. |
