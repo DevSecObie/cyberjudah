@@ -697,7 +697,9 @@ const stats = {
     }
     for (const b of libraryIndex) rows.push({ kind: "book", title: b.title, url: `/books/${b.slug}`, date: added(path.join(ROOT, "data", "library", b.slug, "book.json")), teacher: "", sub: [b.author, b.year].filter(Boolean).join(", ") });
     for (const n of [...(latest.class ?? []), ...(latest.captains ?? [])].slice(0, 6)) rows.push({ kind: n.kind === "captains" ? "captains" : "class", title: n.title, url: n.url, date: n.date, teacher: n.teacher || "", sub: "" });
-    return rows.filter((r) => r.date).sort((a, b) => b.date.localeCompare(a.date)).slice(0, 12);
+    // Passes stay out of the twelve: the app does not list them, so counting them here pushed books and
+    // classes off Home whenever a few passes landed together.
+    return rows.filter((r) => r.date && r.kind !== "pass").sort((a, b) => b.date.localeCompare(a.date)).slice(0, 12);
   })(),
 };
 writeJson(path.join(API, "stats.json"), stats);
