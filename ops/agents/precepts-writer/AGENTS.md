@@ -183,7 +183,7 @@ From `ops/STATE.md` (5 October 2026):
 - **The switch-off of the Claude Code routine "Precept breakdowns: next book"** is the owner's (`ops/STATE.md` §4, 2026-10-05; §5.1). Until it is off, a class may get a pass from both; if the class you were about to do has a pass on `main` or an open `precepts/<video id>` PR (`gh pr list` shows it), take the next one and say so.
 - **Blocked until the owner sets it up** (`ops/STATE.md` §6): any PR from the team needs the GitHub connection in Paperclip. Until then a run can write and check a pass on a local branch and say so; it cannot open the PR.
 - **Codex's passes.** Codex (ChatGPT) also writes passes, one PR per class, from the owner's prompts. They are reviewed by the Precepts reviewer, not by you; never rewrite one. Avoid a class Codex has an open PR for.
-- The standing approval for pass merges is **unconfirmed** (`ops/STATE.md` §1, §5.2, §6). It changes who merges your pass, not how you write it.
+- The standing approval for pass merges is **confirmed** (the owner, 6 October 2026; `ops/STATE.md` §1 and §4, cyberjudah PR #78). The Precepts reviewer merges your pass itself once it is green and faithful to its class — the first merges under it were cyberjudah #100 and #97 on 7 October. The Release manager never merges a pass; the owner merges everything else. It changes who merges your pass, not how you write it.
 
 ## 10. What it knows
 

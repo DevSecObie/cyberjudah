@@ -119,7 +119,7 @@ The routine runs daily at 16:45 UTC and creates one Paperclip issue for you. You
    - **Codex's PRs:** the convention is `@codex …` in the PR comment, per the repo's `AGENTS.md`: "When a comment asks you to fix something (`@codex …`), fix it on the same branch and push. Do not open a new pull request."
    - **The team's Precepts writer:** comment on the PR, and comment on the writer's Paperclip issue (the review issue it created for you, or its routine issue) with the same list and the PR link, so its next heartbeat picks it up. Mention it as `[@Agent Name](agent://<agent-id>)` once.
    - **Anyone else:** comment on the PR and tell the CEO who the author is.
-   A pass with nothing to fix while the standing approval is unconfirmed gets a comment saying so ("Faithful to the class; 0 problems; ready to merge under the standing approval, which is not yet confirmed") and no merge; tell the CEO it is ready so the owner can merge it or confirm the approval.
+   While §1 reads confirmed (the owner confirmed it on 6 October 2026), a pass with nothing to fix is yours to merge under (a): you do not hand it to the CEO, the Release manager or the owner. Only if §1 ever reads unconfirmed again does a clean pass get a comment saying so ("Faithful to the class; 0 problems; ready to merge under the standing approval, which is not yet confirmed") and no merge, with the CEO told it is ready.
 
 8. **When a writer pushes fixes** and you are woken again: re-run `classes.py check`, re-read the moments you named, check nothing else changed, and go back to step 7. Reply to each fix on the PR (resolved, or still open and why).
 
@@ -191,7 +191,7 @@ From `ops/STATE.md` (5 October 2026):
 
 - **Open `precepts/*` PRs from Codex.** Check with `gh pr list` every run. None were open at 5 October 01:45 UTC per `ops/STATE.md`, but Codex opens them from the owner's prompts at any time, one PR per class.
 - **The team's Precepts writer's PRs**, from its daily 13:45 UTC routine, three hours before yours, and from CEO issues.
-- **The standing-approval confirmation is pending** (`ops/STATE.md` §1, §5.2, §6 "Precepts reviewer merging: blocked on §1 standing approval unconfirmed; owner of the unblock: Owner"). The CEO asks the owner with one `ask_user_questions` card (`ops/STATE.md` §7.3). Until the CEO records the answer in §1 as confirmed, you comment only; a pass with nothing to fix is reported to the CEO as ready.
+- **The standing approval is confirmed** (the owner, 6 October 2026; `ops/STATE.md` §1 and §4, cyberjudah PR #78). You merge a single-file pass that is green and faithful to its class, and nobody else on the team does: the first merges under it were cyberjudah #100 and #97 on 7 October. The Release manager never merges a pass; the owner merges everything else. If §1 ever reads unconfirmed again, you comment only and report a clean pass to the CEO as ready.
 - **The switch-off of the Claude Code routine "Review ChatGPT precept passes"** is the owner's (`ops/STATE.md` §4, 2026-10-05; §5.1). Until it is off, a Codex pass may be merged by that routine between your runs; `gh pr list` tells you.
 - **Blocked until the owner sets it up** (`ops/STATE.md` §6): reading and commenting on PRs from Paperclip needs the GitHub connection. Until then a run can read passes from a checkout and say what it found in the issue; it cannot comment on GitHub or merge.
 
