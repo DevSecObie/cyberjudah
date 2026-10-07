@@ -191,8 +191,9 @@ one index and one set of files, and two seats awake at once then write over each
 What that cost on 6 October, in `cyberjudah`, read out of the checkout's own reflog:
 
 - Four branch switches between seats inside thirty-five minutes.
-- Two commits of a precept pass made while HEAD was on `main`, so local `main` now sits
-  one commit ahead of `origin/main` carrying `data/precepts/classes/aSKl5k_IWzo.json`.
+- Two commits of a precept pass made while HEAD was on `main`, so local `main` then sat
+  one commit ahead of `origin/main` carrying `data/precepts/classes/aSKl5k_IWzo.json`
+  (repaired on 7 October; the end of this section says how).
 - A class-note branch cut from that `main`, which therefore inherited a precept pass the
   note had nothing to do with — a second file in a PR that must hold exactly one.
 - The local `precepts/aSKl5k_IWzo` ref left pointing at the old `origin/main` while the
@@ -283,8 +284,12 @@ ref is how one seat's lost hour becomes two.
 **One repair has been made, by the owner's direction, and it is not a precedent.** On
 7 October 2026 the owner kept one shared checkout per project rather than one per seat,
 which makes this section the permanent rule and not a stopgap, and directed the Chief of
-Staff to fast-forward both local `main` refs and prune the stale local branches. Two
-things from it that every seat reads out of the checkout today:
+Staff to bring both local `main` refs to `origin/main` and prune the stale local
+branches. On `cyberjudah-telegram` that was a fast-forward. On `cyberjudah` local `main`
+was the one commit ahead described above, so it was a compare-and-swap reset
+(`git update-ref refs/heads/main <origin/main tip> <old tip>`), which dropped a
+superseded pass draft that `origin/main` already carried in its reviewed form. Two
+things from the repair that every seat reads out of the checkout today:
 
 - **HEAD in both shared checkouts is now detached at `origin/main`**, so
   `git rev-parse --abbrev-ref HEAD` reads `HEAD` and a stray commit cannot land on a
