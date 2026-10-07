@@ -1,6 +1,8 @@
-# Ready to merge — 2026-10-07 20:55 UTC
+# Ready to merge — 2026-10-07 21:16 UTC
 
 Supersedes the 20:45 UTC version on this same branch (`ops/releases-2026-10-07`). That version's own sweep ([CYB-374](/CYB/issues/CYB-374)) was interrupted before it could post its report or finish watching the checks it had just re-run; this edit, from the same issue, verifies every "not yet landed" item fresh against GitHub and adds one PR ([#114](https://github.com/DevSecObie/cyberjudah/pull/114)) that opened after the 20:45 write.
+
+Supersedes that in turn: this edit, from [CYB-246](/CYB/issues/CYB-246), returns #80 to Ready on [CYB-370](/CYB/issues/CYB-370)'s PASS verdict and re-reads #80's mergeability fresh (it was still `UNKNOWN`/recomputing when the Reviewer posted).
 
 ## Ready, in order
 
@@ -20,6 +22,7 @@ Supersedes the 20:45 UTC version on this same branch (`ops/releases-2026-10-07`)
 | 12 | telegram | [#180](https://github.com/DevSecObie/cyberjudah-telegram/pull/180) | Drawers: stop a link-starting swipe from native drag | Reviewer PASS ([CYB-333](/CYB/issues/CYB-333), done). `browser-tests (chromium)` now **passes** (15m42s) and `firefox` passes; `webkit` still running as of this edit | standalone | **merge first of the telegram batch** — this is the [CYB-320](/CYB/issues/CYB-320) chromium-drawer fix; everything unstable below turns green once it lands |
 | 13 | telegram | [#173](https://github.com/DevSecObie/cyberjudah-telegram/pull/173) | Research kit: fix hardcoded and unresolvable paths | QA PASS ([CYB-258](/CYB/issues/CYB-258)), Security PASS ([CYB-259](/CYB/issues/CYB-259)); still `pending` as of this edit, re-running after the merge | standalone | production deploy |
 | 14 | telegram | [#174](https://github.com/DevSecObie/cyberjudah-telegram/pull/174) | Research kit: gitignore the pickle search index | QA PASS ([CYB-263](/CYB/issues/CYB-263)), Security PASS ([CYB-264](/CYB/issues/CYB-264)); confirmed red **only** on `browser-tests (chromium)`/`playwright` — same CYB-320 pattern, `firefox`/`webkit`/everything else green | standalone | production deploy |
+| 15 | cyberjudah | [#80](https://github.com/DevSecObie/cyberjudah/pull/80) | ops: one working tree, several seats (RUNNER.md §7) | `validate` green (run [37682690314](https://github.com/DevSecObie/cyberjudah/actions/runs/37682690314)); `mergeable: true`, `mergeable_state: clean`, re-read fresh via REST at 21:16 UTC (it was `UNKNOWN`/recomputing when the Reviewer posted, right after `main` moved via #90) | Reviewer PASS ([CYB-370](/CYB/issues/CYB-370), done) at head `271be658c`, covering the full delta since [CYB-249](/CYB/issues/CYB-249)'s PASS | standalone | none (`ops/**`, documentation only) |
 
 No production deploy is currently sitting on the `production` approval gate on either repository. **#167, #170 and #92 are off this list because they already merged** (telegram #167/#170 at 17:23–17:24 UTC; cyberjudah #92 at 18:57 UTC) — see "What changed."
 
@@ -35,6 +38,10 @@ No production deploy is currently sitting on the `production` approval gate on e
 | telegram | [#178](https://github.com/DevSecObie/cyberjudah-telegram/pull/178) | Reviewer PASS ([CYB-311](/CYB/issues/CYB-311)) | Confirmed this edit: only `browser-tests (chromium)`/`playwright` fail, same CYB-320 pattern |
 | telegram | [#174](https://github.com/DevSecObie/cyberjudah-telegram/pull/174) | QA PASS ([CYB-263](/CYB/issues/CYB-263)), Security PASS ([CYB-264](/CYB/issues/CYB-264)) | Same CYB-320-only red (also listed on Ready, row 14, since it carries production-deploy follow-up) |
 | telegram | [#169](https://github.com/DevSecObie/cyberjudah-telegram/pull/169) | Confirmed CYB-320-only red by annotation this standup; its own review ([CYB-234](/CYB/issues/CYB-234)) is still **in_progress**, undecided | CYB-320 red, plus its own review not yet closed |
+
+## What changed since the 20:55 UTC version
+
+- **#80 returns to Ready, row 15.** [CYB-370](/CYB/issues/CYB-370) closed **PASS** at head `271be658c7242007630152a9e78a05fb05bb3875` (QA and security), covering the full `ops/RUNNER.md` delta since [CYB-249](/CYB/issues/CYB-249)'s PASS — the three new §7 addenda (explicit push refspec, no `node_modules` needed in a fresh worktree, `--lock`/`prune` mechanics) plus the section recording the owner's 7 October decision to keep `project_primary`. Total +122/−3, still the one file. `validate` green. Mergeability was `UNKNOWN` (GitHub recomputing, right after `main` moved via #90) when the Reviewer posted; re-read fresh via REST this edit at 21:16 UTC: `mergeable: true`, `mergeable_state: clean`. Citing CYB-370, not CYB-249, as the verdict of record.
 
 ## What changed since the 20:45 UTC version
 
@@ -91,7 +98,6 @@ Not re-verified this sweep (no reason to think they've changed): the two known-`
 
 | Repo | PR | Title | Why not | Who acts |
 |---|---|---|---|---|
-| cyberjudah | [#80](https://github.com/DevSecObie/cyberjudah/pull/80) | ops: one working tree, several seats (RUNNER.md §7) | Head moved to `b6bbe882` (+41 lines of new §7 rules) since [CYB-249](/CYB/issues/CYB-249)'s PASS, which covered only the earlier `8419512` head. `validate` is green and the PR is still one file, `CLEAN` — the content, not the checks, is what's unverified. | Reviewer, [CYB-370](/CYB/issues/CYB-370) (still `backlog`) |
 | telegram | [#175](https://github.com/DevSecObie/cyberjudah-telegram/pull/175) | Tests for #147: PDF list rendering | Review [CYB-309](/CYB/issues/CYB-309) still `in_progress`; checks `pending` as of this edit | Reviewer |
 | telegram | [#179](https://github.com/DevSecObie/cyberjudah-telegram/pull/179) | Audio settings in Settings, narration completeness | No review issue found in Paperclip search; checks `pending` as of this edit | Release manager opens a review issue if still missing next sweep |
 | telegram | [#181](https://github.com/DevSecObie/cyberjudah-telegram/pull/181) | live-smoke.yml: chromium only, 35-minute cap, keep traces on cancel | Confirmed red is the same CYB-320-only pattern; review [CYB-336](/CYB/issues/CYB-336) still `in_progress` | Reviewer |
