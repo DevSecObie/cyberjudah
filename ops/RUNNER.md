@@ -214,24 +214,38 @@ cd "$PAPERCLIP_WORKSPACE_CWD/cyberjudah"
 git fetch origin main
 git worktree add "$PAPERCLIP_RUN_SCRATCH_DIR/wt" -b precepts/<video id> origin/main
 cd "$PAPERCLIP_RUN_SCRATCH_DIR/wt"
+# ... your edits, your gate ...
+git push origin precepts/<video id>:refs/heads/precepts/<video id>
 ```
 
 Branch from `origin/main` after a fresh fetch — never from local `main` or from whatever
 HEAD happens to be, because either may carry another seat's commit. Push, open the PR,
 then `git worktree remove` it before the run ends, the same as §6's `done`.
 
-**Three things that come out of using that pattern**, each found by a seat running it
+**Four things that come out of using that pattern**, each found by a seat running it
 rather than reading it:
 
-- **A fresh worktree has no `engine/node_modules`**, so `npm run check` (`node
-  engine/check.mjs`) fails in it out of the box. Symlink the shared checkout's copy:
-  `ln -s "$PAPERCLIP_WORKSPACE_CWD/cyberjudah/engine/node_modules"
-  "$PAPERCLIP_RUN_SCRATCH_DIR/wt/engine/node_modules"`. That reads the shared tree and
-  writes nothing to it, which is the whole point of this section; fall back to
-  `npm ci --prefix engine` inside the worktree if it misbehaves. **Never run `npm ci` in
-  the shared checkout.** With that one symlink the whole note gate passes in a scratch
-  worktree — `scripts/notes/check.py`, `npm run notes:fix`, `npm run notes:lint` and
-  `node engine/check.mjs` — and the repository root needs no `node_modules` at all.
+- **Push with an explicit refspec**, as above: `git push origin
+  <branch>:refs/heads/<branch>`. `git worktree add -b <branch> origin/main` sets the new
+  branch's upstream to `refs/heads/main` — `git config --get branch.<branch>.merge` reads
+  it back. A bare `git push` from that worktree refuses, and the refusal's own first
+  suggestion is `git push origin HEAD:main`: a direct push of your work to `main`, offered
+  by name, inside the one section whose purpose is keeping seats off shared refs. Do not
+  copy it. The explicit refspec is safe whatever the upstream happens to be, which is why
+  it is the habit rather than `-b <branch> --no-track origin/main`, though that avoids the
+  trap too.
+- **A fresh worktree needs no `node_modules` at all for the note and precept gates.**
+  `scripts/notes/check.py`, `npm run notes:fix`, `npm run notes:lint` and `npm run check`
+  (`node engine/check.mjs`) all pass in a worktree cut straight from `origin/main` with
+  nothing installed: the repository root's `package.json` declares no dependencies, and
+  those scripts and `engine/check.mjs` import only node builtins and relative modules. The
+  only packages the engine wants — `better-sqlite3` and `pagefind` — are imported by
+  `engine/build.mjs`, which nothing but the publish workflow runs. If a later step does
+  want them, symlink the shared checkout's copy rather than installing: `ln -s
+  "$PAPERCLIP_WORKSPACE_CWD/cyberjudah/engine/node_modules"
+  "$PAPERCLIP_RUN_SCRATCH_DIR/wt/engine/node_modules"`. That reads the shared tree; an
+  `npm install` through the symlink writes into it, which is the harm this section exists
+  to prevent. **Never run `npm ci` or `npm install` in the shared checkout.**
 - **Do not pass `--lock` to `git worktree add`.** There is nothing to protect: Paperclip
   owns `$PAPERCLIP_RUN_SCRATCH_DIR` and deletes it when the run ends. And `git worktree
   prune` skips a *locked* record even when its directory is already gone, so a run that
