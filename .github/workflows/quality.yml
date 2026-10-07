@@ -22,7 +22,7 @@ jobs:
         env:
           PEOPLE_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: node engine/check.mjs
-      - run: node --test engine/strongs-pages.test.mjs engine/class-metadata.test.mjs engine/people-validation.test.mjs engine/people-reciprocity.test.mjs
+      - run: node --test engine/strongs-pages.test.mjs engine/class-metadata.test.mjs engine/people-validation.test.mjs engine/people-reciprocity.test.mjs engine/people-evidence.test.mjs
       - run: npm test --prefix site
       - run: npm run build --prefix site
       - run: npx --prefix site playwright install --with-deps chromium
