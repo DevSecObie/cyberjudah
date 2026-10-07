@@ -220,6 +220,29 @@ Branch from `origin/main` after a fresh fetch — never from local `main` or fro
 HEAD happens to be, because either may carry another seat's commit. Push, open the PR,
 then `git worktree remove` it before the run ends, the same as §6's `done`.
 
+**Three things that come out of using that pattern**, each found by a seat running it
+rather than reading it:
+
+- **A fresh worktree has no `engine/node_modules`**, so `npm run check` (`node
+  engine/check.mjs`) fails in it out of the box. Symlink the shared checkout's copy:
+  `ln -s "$PAPERCLIP_WORKSPACE_CWD/cyberjudah/engine/node_modules"
+  "$PAPERCLIP_RUN_SCRATCH_DIR/wt/engine/node_modules"`. That reads the shared tree and
+  writes nothing to it, which is the whole point of this section; fall back to
+  `npm ci --prefix engine` inside the worktree if it misbehaves. **Never run `npm ci` in
+  the shared checkout.** With that one symlink the whole note gate passes in a scratch
+  worktree — `scripts/notes/check.py`, `npm run notes:fix`, `npm run notes:lint` and
+  `node engine/check.mjs` — and the repository root needs no `node_modules` at all.
+- **Do not pass `--lock` to `git worktree add`.** There is nothing to protect: Paperclip
+  owns `$PAPERCLIP_RUN_SCRATCH_DIR` and deletes it when the run ends. And `git worktree
+  prune` skips a *locked* record even when its directory is already gone, so a run that
+  locks a worktree and then dies leaves an entry no later sweep can ever clear. If you do
+  lock one, unlock it before the run ends.
+- **`git worktree prune` is the one cleanup that is safe in the shared checkout.** It
+  deletes dead administrative records only — no refs, no branches, no files, nothing
+  another seat can be parented on. Still call `git worktree remove` at the end of your
+  own run; prune is the sweep for the runs that hit a limit or died and never reached
+  their own cleanup, which is why these records accumulate at all.
+
 **Writing when a worktree is more than you need.** One file you can build in your scratch
 directory goes to a branch through a temporary index, touching no working tree at all:
 
@@ -242,3 +265,21 @@ touch, a ref that looks wrong, local `main` ahead of `origin/main` — leave it 
 it is. Another seat may be working on it or parented on it. Do your own work in a
 worktree and say what you saw in your issue, to the Chief of Staff. Repairing a shared
 ref is how one seat's lost hour becomes two.
+
+**One repair has been made, by the owner's direction, and it is not a precedent.** On
+7 October 2026 the owner kept one shared checkout per project rather than one per seat,
+which makes this section the permanent rule and not a stopgap, and directed the Chief of
+Staff to fast-forward both local `main` refs and prune the stale local branches. Two
+things from it that every seat reads out of the checkout today:
+
+- **HEAD in both shared checkouts is now detached at `origin/main`**, so
+  `git rev-parse --abbrev-ref HEAD` reads `HEAD` and a stray commit cannot land on a
+  branch. Branch from `origin/main` by name, as above, and this changes nothing for you.
+- **A branch with no upstream is not a dead branch.** The test for whether a local branch
+  can be dropped is reachability, not the remote: `git rev-list --count <branch>
+  --not --remotes`. Zero means every commit on it is already held by some remote ref. On
+  7 October that test kept two branches a no-upstream test would have deleted, one of
+  them carrying unpushed work on the People checks.
+
+Any future repair is announced on its issue before it is made, by the seat the owner
+names. Finding a ref that looks wrong is still not authority to touch it.
