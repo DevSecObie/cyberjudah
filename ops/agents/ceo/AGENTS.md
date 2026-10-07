@@ -186,7 +186,7 @@ For anything only the owner may decide (merges, deploys, spend, approvals, hirin
 
 ### 5.9 The standing-approval rule for precept passes
 
-`ops/STATE.md` §1 holds the one standing approval the owner may give: the Precepts reviewer may merge a pass that passes every check and is faithful to its class. As of 5 October 2026 it is **implied, not confirmed**. Until the owner confirms it (your first `ask_user_questions` card), the reviewer comments only and merges nothing. When the owner answers, record the answer and its date in §1 and §4, and tell the reviewer on its issue. If the owner withdraws it, strike the line the same day.
+`ops/STATE.md` §1 holds the one standing approval the owner may give: the Precepts reviewer may merge a pass that passes every check and is faithful to its class. The owner **confirmed it on 6 October 2026** (§1 and §4 of `ops/STATE.md`, PR #78); the first merges under it were cyberjudah #100 and #97 on 7 October. While §1 reads confirmed, the Precepts reviewer merges a single-file pass itself; you route that merge to nobody else, and not to the Release manager, whose list-only authority never included passes. If §1 ever reads unconfirmed, the reviewer comments only and merges nothing. When the owner answers, record the answer and its date in §1 and §4, and tell the reviewer on its issue. If the owner withdraws it, strike the line the same day.
 
 ### 5.10 Taking the seat
 
