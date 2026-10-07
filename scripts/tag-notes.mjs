@@ -1,6 +1,6 @@
 // Stamp topic tags and a teacher onto the committed class and captains notes.
 //
-//   node scripts/tag-notes.mjs [--dry] [--report]
+//   node scripts/tag-notes.mjs [--dry] [--report] [--all] [file ...]
 //
 // The notes carried one tag each, the series name, so /classes/browse could only filter by
 // title text and year while the cases and precepts already had a hundred topical tags. This
@@ -8,14 +8,31 @@
 // committed source: Docusaurus turns them into /classes/tags/<topic> pages, the browse page
 // facets on them, and they can be corrected by hand afterwards.
 //
-// Idempotent. The `tags` line is rewritten whole with the series tag first, so a rerun after
-// editing data/topics.tsv replaces the derived set rather than appending to it. A tag that is
-// not a known topic slug and not the series is treated as a hand-addition and kept.
+// A topic is kept when a note uses it at a materially higher rate than the *corpus mean* for
+// that topic (see MIN_RATIO below), and that mean moves every time a note is added or edited.
+// So a full re-derivation is not idempotent across the corpus: notes sitting near the threshold
+// flip in or out as unrelated notes are written, which would turn every single-note PR into a
+// commit that also rewrites dozens of other notes' tags for no reason connected to that PR.
+//
+// To keep that drift out of ordinary note PRs, the default run (the one `npm run notes:fix`
+// calls with no arguments) still scans the *whole* corpus to compute the rates, but only
+// WRITES a derived tag set to a note that doesn't have one yet — a `tags:` line that is
+// missing, or that carries only the series tag — or to a file named explicitly on the command
+// line. Every other note's `tags:` line is left exactly as committed. Pass `--all` to recompute
+// and rewrite every note's tags from the current corpus; that is a deliberate, separate
+// mechanical pass (its own PR), not a side effect of writing one note.
+//
+// Where a note's tags *are* rewritten, the line is rewritten whole with the series tag first,
+// so a rerun after editing data/topics.tsv replaces the derived set rather than appending to
+// it. A tag that is not a known topic slug and not the series is treated as a hand-addition
+// and kept.
 //
 // The teacher is only written where the note actually says who taught: "taught by X",
 // "class from X", "X teaches". Most classes never name the teacher, and those are left blank
 // rather than guessed at from whoever happens to be mentioned first — the notes are full of
-// people who are greeted, prayed for or quoted without teaching anything.
+// people who are greeted, prayed for or quoted without teaching anything. Teacher handling does
+// not depend on --all: it is always recomputed and (subject to the hand-edit rules below)
+// written for every note, because it does not suffer from the corpus-mean drift above.
 //
 // Some notes carry a teacher this cannot derive, read out of the class by hand: the Abya Yala
 // class names its teacher only in the opening prayer ("put your spirit upon Captain Zephaniah,
@@ -30,6 +47,14 @@ const DRY = process.argv.includes("--dry");
 const REPORT = process.argv.includes("--report");
 const RESET = process.argv.includes("--reset");   // recompute `teacher` instead of keeping hand edits
 const FORCE = process.argv.includes("--force");   // ...even where that discards a different name
+const ALL = process.argv.includes("--all");       // re-derive tags for every note, not just untagged ones
+
+// Any non-flag argument is a note file explicitly asked for on the command line, which gets
+// its tags (re)derived this run regardless of --all. Resolved against cwd so both a path typed
+// from the repo root and one typed from inside scripts/ work.
+const EXPLICIT_FILES = new Set(
+  process.argv.slice(2).filter((a) => !a.startsWith("--")).map((a) => path.resolve(a)),
+);
 
 const FEEDS = [
   { dir: path.join(ROOT, "blog"), series: "IUIC in the ClassRoom" },
@@ -153,6 +178,19 @@ function teacherFor(body) {
 }
 
 /* ---------------- rewrite ---------------- */
+/** No derived topic yet: no `tags:` line at all, or one that carries nothing but the series
+ *  tag every note starts with. Exported so the selection rule can be unit tested without
+ *  running the whole corpus pipeline. */
+export function needsTagDerivation(tagLine, existingTags, seriesTag) {
+  return tagLine < 0 || (existingTags.length === 1 && existingTags[0] === seriesTag);
+}
+
+/** Whether a note's `tags:` line is (re)written this run: --all, no derived topic yet, or the
+ *  file was named explicitly on the command line. */
+export function isSelectedForTags({ all, tagLine, existingTags, seriesTag, explicit }) {
+  return all || needsTagDerivation(tagLine, existingTags, seriesTag) || explicit;
+}
+
 const parseTags = (line) => {
   const m = /^tags:\s*\[(.*)\]\s*$/.exec(line);
   if (!m) return null;
@@ -206,13 +244,29 @@ const mean = meanRates(docs.map((d) => d.counted));
 
       const tagLine = head.findIndex((l) => l.startsWith("tags:"));
       const existing = tagLine >= 0 ? (parseTags(head[tagLine]) ?? []) : [];
-      // Anything that is neither the series nor a topic slug was added by hand: keep it.
-      const kept = existing.filter((t) => t !== feed.series && !TOPIC_SLUGS.has(t));
-      const nextTags = [feed.series, ...topics, ...kept];
+      const selected = isSelectedForTags({
+        all: ALL,
+        tagLine,
+        existingTags: existing,
+        seriesTag: feed.series,
+        explicit: EXPLICIT_FILES.has(path.resolve(file)),
+      });
 
       const out = [...head];
-      if (tagLine >= 0) out[tagLine] = `tags: ${yamlList(nextTags)}`;
-      else out.push(`tags: ${yamlList(nextTags)}`);
+      let effectiveTopics;
+      if (selected) {
+        // Anything that is neither the series nor a topic slug was added by hand: keep it.
+        const kept = existing.filter((t) => t !== feed.series && !TOPIC_SLUGS.has(t));
+        const nextTags = [feed.series, ...topics, ...kept];
+        if (tagLine >= 0) out[tagLine] = `tags: ${yamlList(nextTags)}`;
+        else out.push(`tags: ${yamlList(nextTags)}`);
+        effectiveTopics = topics;
+      } else {
+        // Not selected this run: the mean has moved since this note's tags were derived, but
+        // rewriting them now would be unrelated drift, not a correction. Leave the line as
+        // committed and report the topics it already carries.
+        effectiveTopics = existing.filter((t) => TOPIC_SLUGS.has(t));
+      }
 
       // A teacher already in the frontmatter is a hand correction and is left alone: only 14
       // of these notes say who taught, so the rest are expected to be filled in by hand, and
@@ -264,8 +318,8 @@ const mean = meanRates(docs.map((d) => d.counted));
       }
       if (nextTeacher) teachers++; else untaught++;
 
-      rows.push({ name, topics, teacher: nextTeacher });
-      if (topics.length) tagged++;
+      rows.push({ name, topics: effectiveTopics, teacher: nextTeacher });
+      if (effectiveTopics.length) tagged++;
 
       const after = `---\n${out.join("\n")}\n---\n${body}`;
       if (after !== before) { files++; if (!DRY) fs.writeFileSync(file, after); }
