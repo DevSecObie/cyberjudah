@@ -1,6 +1,7 @@
 import json
 import tempfile
 import unittest
+import subprocess
 from pathlib import Path
 from unittest.mock import patch
 from broadcasts import RELATIVE_PATH, parse_broadcast, record_broadcast
@@ -33,9 +34,18 @@ class BroadcastTests(unittest.TestCase):
             file = Path(root) / RELATIVE_PATH
             file.parent.mkdir(parents=True)
             file.write_text('{"other-video": {}}')
-            with patch("broadcasts.urlopen", side_effect=OSError("blocked")):
+            with patch("broadcasts.subprocess.run", side_effect=OSError("blocked")):
                 self.assertFalse(record_broadcast(root, VIDEO, "2026-10-03"))
             self.assertEqual(file.read_text(), '{"other-video": {}}')
+
+    def test_successful_fetch_is_saved_and_reused(self):
+        with tempfile.TemporaryDirectory() as root:
+            response = subprocess.CompletedProcess([], 0, page(), '')
+            with patch("broadcasts.subprocess.run", return_value=response) as fetch:
+                self.assertTrue(record_broadcast(root, VIDEO, "2026-10-03"))
+                self.assertFalse(record_broadcast(root, VIDEO, "2026-10-03"))
+                fetch.assert_called_once()
+            self.assertEqual(json.loads((Path(root) / RELATIVE_PATH).read_text())[VIDEO]["broadcastAt"], "2026-10-03T21:56:00Z")
 
 
 if __name__ == "__main__":

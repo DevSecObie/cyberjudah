@@ -1,9 +1,9 @@
 """Preserve actual YouTube broadcast starts, independently of upload timestamps."""
 import json
 import re
+import subprocess
 from datetime import date, datetime, timezone
 from pathlib import Path
-from urllib.request import Request, urlopen
 
 RELATIVE_PATH = "data/sources/class-broadcasts.json"
 
@@ -39,12 +39,12 @@ def record_broadcast(root, video, teaching_date):
     if video in rows:
         return False
     try:
-        request = Request(f"https://www.youtube.com/watch?v={video}", headers={
-            "User-Agent": "Mozilla/5.0", "Accept-Language": "en-US,en;q=0.9",
-        })
-        with urlopen(request, timeout=15) as response:
-            row = parse_broadcast(response.read().decode("utf-8"), video, teaching_date)
-    except (OSError, ValueError):
+        response = subprocess.run([
+            "curl", "--fail", "--silent", "--show-error", "--location", "--max-time", "15",
+            f"https://www.youtube.com/watch?v={video}",
+        ], capture_output=True, text=True, timeout=20)
+        row = parse_broadcast(response.stdout, video, teaching_date) if response.returncode == 0 else None
+    except (OSError, ValueError, subprocess.TimeoutExpired):
         row = None
     if row is None:
         print(f"{video}: broadcast start unconfirmed; keeping existing order", flush=True)
