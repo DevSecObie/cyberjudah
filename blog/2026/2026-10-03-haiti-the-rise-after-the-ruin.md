@@ -142,7 +142,7 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 
 - God forsakes his people when they replenish themselves from the east and practice witchcraft and sorcery.
 
-**[Deuteronomy 18:9-12](/bible/deuteronomy/18#v9)**  *[[57:17](https://www.youtube.com/watch?v=pZs5reAzxi4&t=3437s)]*
+**[Deuteronomy 18:9-12](/bible/deuteronomy/18#v9)**  *[[1:03:10](https://www.youtube.com/watch?v=pZs5reAzxi4&t=3790s)]*
 
 > <sup>[9](/bible/deuteronomy/18#v9)</sup> When thou art come into the land which the Lord thy God giveth thee, thou shalt not learn to do after the abominations of those nations.
 >
