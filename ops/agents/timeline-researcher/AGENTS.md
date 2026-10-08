@@ -177,13 +177,15 @@ The two seats' PRs touch the same three data files, so they are **stacked, not p
 
 Thirty events sit in `drafts.json` because their sources at splcenter.org, adl.org and apnews.com could not be reached from the previous environment. When the CEO assigns them: try each source from this environment with your web fetch tool. If a host is still unreachable, say so plainly and name the hosts. Where a source now reads, verify the draft's `account` against it and fill its `sources`. How a draft is moved into `events.json` is not written in the kit (`tmerge.py` is additive): read `tmerge.py` and the batch models, and if there is no path, propose one to the CEO rather than hand-editing. The CMS Timeline editor (#134) can move drafts into the published list once it lands.
 
-### The three owner decisions
+### The three owner decisions, answered
 
-These are not yours to decide. Tag per the current data and list each under "Owner decisions" in the PR:
+The owner answered all three on 7 October 2026 at 18:26 UTC (the card on [CYB-3](/CYB/issues/CYB-3); recorded in `ops/STATE.md` §4). They are settled. Apply them; do not ask again and do not list them as open in a PR:
 
-- Is Brazil Asher? A class places it in Asher's span: video `0FPiXYsd-z8` at 1:18:56.
-- Should the teacher on "A Time Of Defamation" be Bishop Nathanyel? The re-upload `Dvja0vhkJ6o` is titled that way.
-- Confirm the Caste War Maya as Issachar and Zebulon, and the Garifuna and canal workers as Zebulon and Benjamin.
+- **Brazil is Asher.** A class places it in Asher's span: video `0FPiXYsd-z8` at 1:18:56. Tag the Brazil events Asher.
+- **The teacher on "A Time Of Defamation" is Bishop Nathanyel.** The re-upload is `Dvja0vhkJ6o`.
+- **Confirmed as they stand:** the Caste War Maya as Issachar and Zebulon, the Garifuna as Zebulon, the canal workers as Benjamin. Leave those tags alone.
+
+Apply the first two in your next data PR and record all three in the kit's coverage notes ([CYB-342](/CYB/issues/CYB-342)). No owner decision on tagging is open. A new one is still not yours to decide: put it to the CEO, who takes it to the owner as a board approval.
 
 ## 6. Definition of done
 
@@ -237,7 +239,7 @@ From `ops/STATE.md` and the handoff of 4 October 2026, as of 5 October ~02:00 UT
 - **#140 merged** 5 October 01:24 (`d60e141`; the handoff still said "waiting on the owner"); deploy run 777 completed. The research kit and every merged batch are on `main`. Start the remaining batches on fresh branches from `main`; do not reuse #140's original branch.
 - **Three batches to do:** `judah.json` (A), `benjamin.json` (B), `levi-simeon.json` (B). Each previous attempt stopped at a usage limit before writing a file. Start fresh; write early.
 - **30 drafts** waiting on sources at splcenter.org, adl.org and apnews.com. Retry from this environment; if blocked, say so and name the hosts.
-- **Three owner decisions** pending (section 5). Tag per the current data; list them in each PR they touch.
+- **The three owner decisions are answered** (section 5; the owner on 7 October 2026 at 18:26 UTC): Brazil is Asher; the teacher on "A Time Of Defamation" is Bishop Nathanyel; the Caste War Maya, Garifuna and canal-worker tags are confirmed as they stand. Apply the first two in your next data PR and record all three in the kit's coverage notes ([CYB-342](/CYB/issues/CYB-342)).
 - **The CMS stack #134 → #135 → #136 → #137** edits Timeline events through the app; its editor shares the `check.mjs` schema and its saves arrive as `cms/*` branches and `CMS: …` PRs. A batch PR and a `cms/*` PR may touch the same files: merge `main` in, never hand-merge.
 - **Events per tribe after #140:** Judah 86, Gad 46, Issachar 34, Asher 33, Ephraim 32, Zebulon 25, Manasseh 24, Reuben 24, Naphtali 18, Levi 6, Simeon 4, Benjamin 4; 49 events untagged.
 - **First use of `answer`:** 12 "what they say about us" events in the `spoken-against` batch.
@@ -290,7 +292,7 @@ From `ops/STATE.md` and the handoff of 4 October 2026, as of 5 October ~02:00 UT
 
 **Three kinds of statement, never mixed:** documented history (`summary`, `account`: only what the cited sources say); the assembly's interpretation (`teaching`: attributed to the exact recording and moment); scriptural application (`scriptures`: the verses read with it and how the class applied them). An event without a documented source stays in `drafts.json`.
 
-**Tagging decisions so far.** Events in Africa and Europe before the crossing, IUIC's own history and the forerunners stay untagged, because they concern the whole nation. #140 put tribe tags on 112 events. The Haitian Revolution is Levi; the Seminole Wars are Reuben; the Trail of Tears is Gad and Reuben where the sources include the Seminoles; a US law aimed at all Black Americans is Judah. The three open questions in section 5 are the owner's.
+**Tagging decisions so far.** Events in Africa and Europe before the crossing, IUIC's own history and the forerunners stay untagged, because they concern the whole nation. #140 put tribe tags on 112 events. The Haitian Revolution is Levi; the Seminole Wars are Reuben; the Trail of Tears is Gad and Reuben where the sources include the Seminoles; a US law aimed at all Black Americans is Judah. The owner settled the last three open questions on 7 October 2026 (section 5): Brazil is Asher; the teacher on "A Time Of Defamation" is Bishop Nathanyel; the Caste War Maya as Issachar and Zebulon, the Garifuna as Zebulon and the canal workers as Benjamin are confirmed.
 
 **The merged batches** (`research/batches/`): gad-reuben, spoken-against, zebulon-issachar, naphtali-asher, ephraim-manasseh. Use them as models for shape, depth and ledger. `spoken-against` is the model for `answer` events under the ring rule.
 

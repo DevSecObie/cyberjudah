@@ -1,0 +1,566 @@
+---
+title: "Christ: Israel's Last Temple"
+slug: "2025/2025-12-05-christ-israel-s-last-temple"
+date: "2025-12-05"
+teacher: "Captain Hoshayah"
+description: "IUIC in the ClassRoom · 2025-12-05"
+tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2025-12-05</p>
+
+<span class="opens"><b>Opens</b> [1 Macc 2](/bible/1-maccabees/2) · [Rom 3](/bible/romans/3) · [1 Macc 3](/bible/1-maccabees/3) · [Ps 50](/bible/psalms/50) · [2 Pet 1](/bible/2-peter/1) · [Deut 28](/bible/deuteronomy/28) · [James 2](/bible/james/2) · [Jer 3](/bible/jeremiah/3) · [Gen 2](/bible/genesis/2) · [Col 2](/bible/colossians/2) · [1 Tim 6](/bible/1-timothy/6) · [Jer 14](/bible/jeremiah/14) · [Lam 4](/bible/lamentations/4) · [Lam 5](/bible/lamentations/5) · [2 Macc 7](/bible/2-maccabees/7) · [John 10](/bible/john/10) · <i>and 10 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="VfOy8UOCtHc"></div>
+
+## Introduction
+
+*[[5:24](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=324s)]* The fourth day of the Feast of Dedication and a new moon, and the class he had planned never got taught. He spent the time motivating the men instead: the Feast of Dedication is the warriors' feast, so he opened the Maccabees on zeal for the law, answered the Christian apologists coming at the camp, and showed from the prophets and from Christ at the feast of the dedication that the holy days were never done away with. What he named the class for, Christ as Israel's last temple and the sacrifices he replaced, he reached only at the end, and he said he would do a part two.
+
+## In The News
+
+- *[[18:41](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1121s)]* **A news report on the shooting of Sonya Massey in her own home, with her best friend speaking** — He played it because we fight for the laws and we fight for the nation: when that happened to her, the camp showed up, and showed up in numbers, week after week.
+- *[[20:20](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1220s)]* **The camp's own footage from Springfield, Illinois, her home town** — The people in the city were happy to see them and gained strength from it; a sister came up later and said she remembered them coming down there. People see hope and strength in us when they see us move the way we move.
+- *[[21:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1316s)]* **Footage on Kendrick Johnson, who was assaulted, severely beaten and hit with a stun gun** — We have not forgotten about him. Never think you have no power: if we had none they would not be fighting back against us this hard, shadowbanning us and fighting us on levels we cannot fight back on.
+- *[[29:30](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1770s)]* **A woman's video on how she treats men** — She is angry, and some of what she says is real: a lot of brothers cannot stop, have no discipline and no business of their own, and still want to be called daddy. Our brothers lie down in their shame, and that is what she is looking at.
+- *[[1:09:08](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4148s)]* **A street interview asking men whether they would live on a planet with all women, and the women whether they would live on one with all men** — The Christian man with the big cross had to stop and think about it, and said he would need an hour before he would regret it. That is the kind of man Christianity breeds; the women all said yes at once, which means they die, and the men said no, which means we live.
+- *[[1:14:53](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4493s)]* **The camp's own work at a Christian conference, and a brother breaking down the twelve gates and the names of the twelve tribes** — Your pastor says there are two gates; the Bible says twelve, with the names of the twelve tribes of the children of Israel on them. They have no scriptures, no doctrine and no knowledge; all they can do is scream Jesus, and after that there is nothing. Every brother who grabs the mic brings forth the word of God.
+
+## Scriptures Opened
+
+**[1 Maccabees 2:50](/bible/1-maccabees/2#v50)**  *[[7:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=476s)]*
+
+> <sup>[50](/bible/1-maccabees/2#v50)</sup> Now therefore, my sons, be ye zealous for the law, and give your lives for the covenant of your fathers.
+
+- Be ye zealous for the law, and give your lives for the covenant of your fathers. That is what the Feast of Dedication is: the warriors' feast.
+
+- Shout out to all the brothers that have been putting in the work -- 30 days of camp, 60 days, 100 days, 365 days. It does not matter how many days you are doing, as long as you are out there fighting for the laws and fighting for the nation.
+
+- If you are not ready to give your life for this truth, get the hell out of the way. We are looking for the brothers that are ready to give their lives for the laws of God. We are looking for the ultimate warriors.
+
+- We fight for our men, we fight for the women, we fight for the children, we fight for our people, and when our people call upon us we show up. They are not calling on these Christian pastors.
+
+- They have no answers and no solutions. We have the solution.
+
+
+**[Romans 3:3-4](/bible/romans/3#v3)**  *[[8:47](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=527s)]*
+
+> <sup>[3](/bible/romans/3#v3)</sup> For what if some did not believe? shall their unbelief make the faith of God without effect?
+>
+> <sup>[4](/bible/romans/3#v4)</sup> God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
+
+- What if some did not believe? Your unbelief is not going to stop the faith of God and it is not going to stop the truth of God. Let God be true and every man a liar.
+
+- We do not have to prove that we are the Israelites. The people over there in Israel right now are the ones who need to prove it.
+
+- Until they show us they went on slavery ships, until they show us they served their enemies in want of all things, until they show us their names and their nationalities were changed, until they show us they were the lost sheep of the house of Israel, nobody wants to hear anything they have to say.
+
+- We are the ones that attack. Do not feel like we are being attacked because a few Christian apologists are popping up making their little videos -- they are trying to fight back.
+
+
+**[1 Maccabees 3:25](/bible/1-maccabees/3#v25)**  *[[11:40](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=700s)]*
+
+> <sup>[25](/bible/1-maccabees/3#v25)</sup> Then began the fear of Judas and his brethren, and an exceeding great dread, to fall upon the nations round about them:
+
+- The fear of Judas and his brethren fell on the nations round about them, and an exceeding great dread. When we go out and do this work, that is what falls on the nations.
+
+- Read the comment sections. They are talking about their armies needing to prepare for war over a few thousand men marching down the street.
+
+- They have the drones, the tanks, every kind of technology, and they are the ones saying get ready for war, because they see the spiritual side of it. You see a thousand men; Esau sees a million.
+
+- It is because we are moving in the spirit of God and keeping the commandments. They see us, and we are seizing the whole earth.
+
+  Precepts:
+  - **[Revelation 11:11](/bible/revelation/11#v11)**
+    > <sup>[11](/bible/revelation/11#v11)</sup> And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
+
+    The spirit of life from God entering into them is the commandments entering into us; they stood upon their feet and great fear fell upon them which saw them.
+
+
+**[1 Maccabees 3:18](/bible/1-maccabees/3#v18)**  *[[15:00](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=900s)]*
+
+> <sup>[18](/bible/1-maccabees/3#v18)</sup> Unto whom Judas answered, It is no hard matter for many to be shut up in the hands of a few; and with the God of heaven it is all one, to deliver with a great multitude, or a small company:
+
+- It is no hard matter for many to be shut up in the hands of a few. It is no hard matter for us to take on the world.
+
+- And with the God of heaven it is all one. We are one with the God of heaven, and that is why we are able to do the things we do.
+
+- To deliver with a great multitude or a small company. Power does not come with numbers, it comes with righteousness.
+
+- They keep asking how we get these men to come together, to move like that, to march in step. First and foremost it is the commandments of God, and it is no hard thing for God to set men in order.
+
+
+**[Psalms 50:20-21](/bible/psalms/50#v20)**  *[[24:42](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1482s)]*
+
+> <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
+>
+> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+
+- Thou sittest and speakest against thy brother, thou slanderest thine own mother's son. That is the apologists, and Esau does it too.
+
+- Thou thoughtest that I was altogether such a one as thyself. That is why they sit up there and put the white image of Jesus Christ up.
+
+- We do not have to prove to them that Christ is black. They need to prove to us that he is white, after pushing that image for thousands of years.
+
+- One of them put up a message saying nobody is trying to make Jesus Christ white. That is a lie. In Haiti he is on every cab, every sign, every poster. In Ghana his picture is up in the Kentucky Fried Chicken, and in America it is not. Then they keep making movie after movie.
+
+
+**[2 Peter 1:4-7](/bible/2-peter/1#v4)**  *[[31:07](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1867s)]*
+
+> <sup>[4](/bible/2-peter/1#v4)</sup> Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
+>
+> <sup>[5](/bible/2-peter/1#v5)</sup> And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
+>
+> <sup>[6](/bible/2-peter/1#v6)</sup> And to knowledge temperance; and to temperance patience; and to patience godliness;
+>
+> <sup>[7](/bible/2-peter/1#v7)</sup> And to godliness brotherly kindness; and to brotherly kindness charity.
+
+- Exceeding great and precious promises are given unto us, and the us has to be settled first, because so many covenants have been made with us.
+
+- Partakers of the divine nature, having escaped the corruption that is in the world through lust. Homosexuality is a corruption, pedophilia is a corruption, abortion is a corruption, and you are supposed to escape them. You are supposed to escape Thanksgiving too, and not replace what God gave you with something made up.
+
+- It starts with the eyes and then the mind, which is what Christ was teaching in Matthew 5: he did not only say do not commit adultery, he said do not look at her. You cut it off right there.
+
+- Give all diligence. Do not be slothful in this truth. Work hard for the heavenly Father; we jump over obstacles, we knock them over, we run through them.
+
+- Temperance is self-control, and a lot of you brothers have none. All you do is play video games. Stop it.
+
+- The more temperate you become the more patient you learn to be, the more patient the more godly, the more godly the better you treat your brother, and brotherly kindness becomes charity: you treat him how you want to be treated, you think no evil of him, and if he is going through it, you are going through it.
+
+  Precepts:
+  - **[1 Peter 1:1](/bible/1-peter/1#v1)**
+    > <sup>[1](/bible/1-peter/1#v1)</sup> Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+
+    The us is the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia -- and Paul wrote a whole book to the Galatians.
+  - **[1 Peter 2:9](/bible/1-peter/2#v9)**
+    > <sup>[9](/bible/1-peter/2#v9)</sup> But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:
+
+    Those same strangers are a chosen generation, a royal priesthood, an holy nation, a peculiar people; no other nation on the earth has ever been called a holy nation but the children of Israel.
+  - **[Romans 9:4](/bible/romans/9#v4)**
+    > <sup>[4](/bible/romans/9#v4)</sup> Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
+
+    Who are Israelites: to them pertaineth the adoption, the glory, the covenants, the giving of the law, the service of God and the promises.
+
+
+**[Deuteronomy 28:17](/bible/deuteronomy/28#v17)**  *[[44:43](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=2683s)]*
+
+> <sup>[17](/bible/deuteronomy/28#v17)</sup> Cursed shall be thy basket and thy store.
+
+- Cursed shall be thy basket and thy store. The store is where our businesses are, and we do not own the businesses in our own neighborhoods to this day.
+
+- What that sister is complaining about in the video is biblical. Moses gave Israel blessings for obedience and curses for disobedience: break the commandments of God and your basket and your store are cursed.
+
+- Christianity is white supremacy and it is a curse upon us. Look at our neighborhoods. You as men have to wake the hell up and snap out of it.
+
+
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[48:13](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=2893s)]*
+
+> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
+
+- Therefore shalt thou serve thine enemies, which the Lord shall send against thee. He did not send them against the Chinese, he did not send them against the Arabs, he did not send them against these Indians. He sent them right against you.
+
+- In hunger and in thirst: they control the food, the farms and the production of food on a mass scale, and they control the water. Memphis sits on an aquifer of the purest water in the country, and something God made, man has claimed.
+
+- And in nakedness: they control the production of clothing on a mass scale, the textiles, everything.
+
+- And in want of all things: you go to them for everything. You are born and get a birth certificate, you die and get a death certificate, you marry and get a marriage certificate.
+
+- And he shall put a yoke of iron upon thy neck, until he have destroyed thee. This literally happened to us. What other nation did this happen to?
+
+- That is exactly what the sister in that video is looking at: you have to go to the white man for everything and you are still broke. Sometimes you have to play it in a video like that so they can hear it, and get a rude awakening.
+
+
+**[James 2:18](/bible/james/2#v18)**  *[[55:37](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=3337s)]*
+
+> <sup>[18](/bible/james/2#v18)</sup> Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.
+
+- Yea, a man may say thou hast faith. If you are sitting back doing nothing with the faith you say you have, you might as well go on somewhere.
+
+- All of you that claim to have the knowledge of God and the truth and do nothing with it are shameful. Where are your works? Where are your videos? Go fight against these nations.
+
+- One of them said I need to learn a better way to talk to the sisters. Put the video up and show me exactly how it is done, and if that is the way, I will do it. I have not seen a video yet.
+
+
+**[Jeremiah 3:25](/bible/jeremiah/3#v25)**  *[[56:19](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=3379s)]*
+
+> <sup>[25](/bible/jeremiah/3#v25)</sup> We lie down in our shame, and our confusion covereth us: for we have sinned against the Lord our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the Lord our God.
+
+- We lie down in our shame. Why do we lie down in our shame? The Lord sent your enemies against you and you just serve them, and you are not trying to do anything to change the conditions for your people.
+
+- That is the weak spirit Christianity puts on a man, and it is why women are able to make videos and talk like that.
+
+- And our confusion covereth us. You think a man can lie with a man and a woman with a woman, that a woman can go get an abortion, you choose Thanksgiving over the Feast of Dedication and Easter over the Passover.
+
+- Our people know we are the Israelites now -- everybody is talking about us, whether they are making jokes or not -- and they still lie down in their shame. You cannot run from this truth, so why are you trying to?
+
+
+**[Genesis 2:18](/bible/genesis/2#v18)**  *[[1:00:00](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=3600s)]*
+
+> <sup>[18](/bible/genesis/2#v18)</sup> And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
+
+- And the Lord God said, it is not good that the man should be alone. The Bible says it is not good, so where did he get his answer from?
+
+- The feminists are the ones who sat up there and told black women they do not need a man. You never hear a man say he does not need a woman, and if any of you brothers say it, get away from me.
+
+- I had a brother who called me about black women like that, and I have not spoken to him since. I am not your counselor; you are counselling with the wrong person.
+
+
+**[Colossians 2:8](/bible/colossians/2#v8)**  *[[1:02:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=3776s)]*
+
+> <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
+
+- Beware lest any man spoil you through philosophy and vain deceit: the Greek philosophy and the Roman philosophy of that time, not the philosophers they have now.
+
+- Spoil you. It perverts you and it destroys you, and it is the traditions of men that do it.
+
+- Is the new moon a tradition of men? Is the Sabbath day? No -- they were given and commanded by God in Leviticus 23, along with the Feast of Dedication and the Feast of Tabernacles and all the high holy days.
+
+- They will tell you not to keep the new moon, and then slaughter turkeys by the billions for one day that has nothing to do with Jesus Christ, and tell you there is nothing wrong with being thankful. Thankful to whom?
+
+
+**[1 Timothy 6:20](/bible/1-timothy/6#v20)**  *[[1:04:35](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=3875s)]*
+
+> <sup>[20](/bible/1-timothy/6#v20)</sup> O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
+
+- Keep that which is committed to thy trust, avoiding profane and vain babblings. The holidays are the profane and vain babblings; the Lord gave you days to celebrate and here they come with Thanksgiving.
+
+- And oppositions of science falsely so called. That goes right back to their philosophers.
+
+- Going to Africa one time showed me how the rest of the world looks at Esau. They said he is God because he has planes and all the rest of it -- and he never tells you where he got his wisdom and his knowledge from.
+
+
+**[Jeremiah 14:2](/bible/jeremiah/14#v2)**  *[[1:06:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4016s)]*
+
+> <sup>[2](/bible/jeremiah/14#v2)</sup> Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up.
+
+- Judah mourneth, and the gates thereof languish; they are black unto the ground. A brother sent a long message saying he was leaving the camp because this is only talking about a condition.
+
+- All right -- let us roll with their argument and follow it through the prophets.
+
+- If you want to leave, tell the truth and be honest. Do not sit up there and say you are leaving because we are teaching the wrong thing. He also said he could not see himself on the street teaching it, and I have never seen him teach.
+
+
+**[Lamentations 4:8](/bible/lamentations/4#v8)**  *[[1:07:40](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4060s)]*
+
+> <sup>[8](/bible/lamentations/4#v8)</sup> Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+
+- Their visage is blacker than a coal. Look the word visage up: a visage is a person's face.
+
+- This is the same prophet, Jeremiah, who wrote the verse they just used. Do not let them take one verse out of three, four, five thousand.
+
+- Put a coal up on the screen and look at it. That is what the prophet is comparing the face to.
+
+
+**[Lamentations 5:10](/bible/lamentations/5#v10)**  *[[1:11:58](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4318s)]*
+
+> <sup>[10](/bible/lamentations/5#v10)</sup> Our skin was black like an oven because of the terrible famine.
+
+- Our skin was black like an oven, because of the terrible famine. He said our skin -- not their condition.
+
+- You are thinking about a modern-day oven. The oven of the first century was black.
+
+- When did people get real hungry and then turn black? That is the one to figure out.
+
+- This is why the Bible says precept upon precept, line upon line: a little here and a little there.
+
+
+**[1 Maccabees 2:34](/bible/1-maccabees/2#v34)**  *[[1:16:59](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4619s)]*
+
+> <sup>[34](/bible/1-maccabees/2#v34)</sup> But they said, We will not come forth, neither will we do the king’s commandment, to profane the sabbath day.
+
+- But they said, we will not come forth, neither will we do the king's commandment to profane the sabbath day. We are not conforming.
+
+- Do not betray the laws of God and do not betray your God.
+
+- We are not betraying the Lord because we want something in this nation, and we are not going to keep lying down in shame.
+
+- Keep applying the pressure on this earth. Do not stop, do not give up, become more temperate, more patient, more godly.
+
+
+**[2 Maccabees 7:2](/bible/2-maccabees/7#v2)**  *[[1:19:14](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4754s)]*
+
+> <sup>[2](/bible/2-maccabees/7#v2)</sup> But one of them that spake first said thus, What wouldest thou ask or learn of us? we are ready to die, rather than to transgress the laws of our fathers.
+
+- We are ready to die rather than to transgress the laws of our fathers. We choose death over defilement, and that is what the warriors' feast is.
+
+- Righteous warriors are unyielding, and we are going to be unyielding in this truth.
+
+- The main push-back right now is that we do not have to keep the commandments of God, and they butcher Colossians to get there.
+
+- They are trying to make salvation for everybody, and that is impossible: the law was not given to everybody. Who are they being saved from? They are the ones with the nuclear weapons -- they need saving from themselves. We are the ones without hope in this world. We are the ones who need saving.
+
+
+**[Colossians 2:16-17](/bible/colossians/2#v16)**  *[[1:25:36](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5136s)]*
+
+> <sup>[16](/bible/colossians/2#v16)</sup> Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:
+>
+> <sup>[17](/bible/colossians/2#v17)</sup> Which are a shadow of things to come; but the body is of Christ.
+
+- Let no man therefore judge you in meat or in drink. It is about the meat offerings, the drink offerings and the burnt offerings that came with those holy days -- not about the days.
+
+- Or in respect of an holyday, or of the new moon, or of the sabbath days. Do not let anybody ask you where your meat offering is for the new moon or your burnt offering for the Day of Atonement. That is what Paul is warning against in this whole chapter.
+
+- Which are a shadow of things to come. A shadow passes away; those offerings were already foretold to pass away.
+
+- But the body is of Christ. Ask a Christian why you never hear them say that part. The bodies used before were the blood of bulls and goats. They will read all the rest and they will not read verse 17.
+
+- And they still have not proved Christmas to us. We need the book, the chapter and the verse that tells you to set up a tree, put presents under it and wait on Santa Claus. We have a book, chapter and verse that says do not do it.
+
+
+**[John 10:22-23](/bible/john/10#v22)**  *[[1:27:53](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5273s)]*
+
+> <sup>[22](/bible/john/10#v22)</sup> And it was at Jerusalem the feast of the dedication, and it was winter.
+>
+> <sup>[23](/bible/john/10#v23)</sup> And Jesus walked in the temple in Solomon’s porch.
+
+- And it was at Jerusalem the feast of the dedication, and it was winter. Christ kept the high holy days.
+
+- The feast of the dedication is the temple being cleansed and rededicated to the Most High after we whooped the Greeks and took it back.
+
+- And Jesus walked in the temple in Solomon's porch. The temple was open; that was where everybody came around to talk about the word of God, and where a lot of the miracles were happening.
+
+  Precepts:
+  - **[Acts 5:12](/bible/acts/5#v12)**
+    > <sup>[12](/bible/acts/5#v12)</sup> And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch.
+
+    By the hands of the apostles were many signs and wonders wrought among the people, and they were all with one accord in Solomon's porch.
+  - **[Acts 3:11](/bible/acts/3#v11)**
+    > <sup>[11](/bible/acts/3#v11)</sup> And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering.
+
+    The lame man who was healed held Peter and John and all the people ran together unto them in the porch that is called Solomon's: everybody was out there.
+
+
+**[John 10:24-36](/bible/john/10#v24)**  *[[1:31:06](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5466s)]*
+
+> <sup>[24](/bible/john/10#v24)</sup> Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
+>
+> <sup>[25](/bible/john/10#v25)</sup> Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
+>
+> <sup>[26](/bible/john/10#v26)</sup> But ye believe not, because ye are not of my sheep, as I said unto you.
+>
+> <sup>[27](/bible/john/10#v27)</sup> My sheep hear my voice, and I know them, and they follow me:
+>
+> <sup>[28](/bible/john/10#v28)</sup> And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
+>
+> <sup>[29](/bible/john/10#v29)</sup> My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.
+>
+> <sup>[30](/bible/john/10#v30)</sup> I and my Father are one.
+>
+> <sup>[31](/bible/john/10#v31)</sup> Then the Jews took up stones again to stone him.
+>
+> <sup>[32](/bible/john/10#v32)</sup> Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?
+>
+> <sup>[33](/bible/john/10#v33)</sup> The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.
+>
+> <sup>[34](/bible/john/10#v34)</sup> Jesus answered them, Is it not written in your law, I said, Ye are gods?
+>
+> <sup>[35](/bible/john/10#v35)</sup> If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
+>
+> <sup>[36](/bible/john/10#v36)</sup> Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
+
+- Then came the Jews round about him: how long dost thou make us to doubt? If thou be the Christ, tell us plainly. They were trying to figure out whether he was the Son of God and the saviour or not.
+
+- The works that I do in my Father's name, they bear witness of me, but ye believe not because ye are not of my sheep. These were Jews, and he told them they were not his sheep. My sheep hear my voice.
+
+- Then the Jews took up stones again to stone him. Read it carefully: this was not all of Israel, it was only certain Jews.
+
+- For a good work we stone thee not, but for blasphemy, because thou being a man makest thyself God.
+
+- Christ answered them out of the law: is it not written in your law, I said, Ye are gods? When he went through the temptations and the trials he always went back to the law. We follow Christ, and Christ went back to the scriptures.
+
+  Precepts:
+  - **[Romans 9:6](/bible/romans/9#v6)**
+    > <sup>[6](/bible/romans/9#v6)</sup> Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
+
+    Not all Israel are Israel; if you do not hear the voice of the Father you are not of his sheep.
+
+
+**[John 10:41-42](/bible/john/10#v41)**  *[[1:34:50](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5690s)]*
+
+> <sup>[41](/bible/john/10#v41)</sup> And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.
+>
+> <sup>[42](/bible/john/10#v42)</sup> And many believed on him there.
+
+- Many resorted unto him, and said John did no miracle, but all things that John spake of this man were true.
+
+- And many believed on him there. It was not all the Jews that rejected Christ; many of them believed, and those are the sheep that heard his voice.
+
+- So what if some did not believe? That does not make the truth of God of none effect. Let God be true and every man a liar.
+
+
+**[John 2:19-21](/bible/john/2#v19)**  *[[1:35:42](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5742s)]*
+
+> <sup>[19](/bible/john/2#v19)</sup> Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.
+>
+> <sup>[20](/bible/john/2#v20)</sup> Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
+>
+> <sup>[21](/bible/john/2#v21)</sup> But he spake of the temple of his body.
+
+- Destroy this temple, and in three days I will raise it up. He was speaking of his death and his resurrection.
+
+- Then said the Jews, forty and six years was this temple in building, and wilt thou rear it up in three days? They thought he meant the building.
+
+- But he spake of the temple of his body. That is what I named this class for: Christ is Israel's last temple, and he replaced all the sacrifices.
+
+- The sacrifices were a shadow of things to come. A shadow -- you see it and then it is gone. It was already foretold that Christ was to come.
+
+
+**[Isaiah 53:10](/bible/isaiah/53#v10)**  *[[1:36:36](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5796s)]*
+
+> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
+
+- Yet it pleased the Lord to bruise him. It pleased the Lord to bruise Christ.
+
+- When thou shalt make his soul an offering for sin. Christ's soul was made the offering for sin.
+
+- He shall see his seed, he shall prolong his days. It was written before it happened, so the sacrifice system always had its end in it.
+
+
+**[1 Peter 2:4-5](/bible/1-peter/2#v4)**  *[[1:38:27](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5907s)]*
+
+> <sup>[4](/bible/1-peter/2#v4)</sup> To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,
+>
+> <sup>[5](/bible/1-peter/2#v5)</sup> Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
+
+- To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God. Christ died to become that living stone, and it was not all men who rejected him -- it was the scribes, the Pharisees and some of those Jews that followed him.
+
+- Ye also, as lively stones. We are the lively stones: the old man dies, we become new creatures and we live in the faith of Christ.
+
+- Are built up a spiritual house. We are building up a spiritual house with Christ as the chief cornerstone and the foundation.
+
+- An holy priesthood. We make up the holy priesthood, and Christ is the high priest. There is only one chief high priest; a man in a camp calling himself that would have to offer a sacrifice for himself first.
+
+- To offer up spiritual sacrifices, acceptable to God by Jesus Christ. The spiritual sacrifice is obedience and praise, and that is why we are still keeping the feast days.
+
+- These are the same Israelites we established earlier -- the ones in Galatia and Cappadocia, the chosen, the peculiar people, the royal priesthood. This is light work. Why will they not read it?
+
+
+**[Isaiah 66:23](/bible/isaiah/66#v23)**  *[[1:41:42](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=6102s)]*
+
+> <sup>[23](/bible/isaiah/66#v23)</sup> And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the Lord.
+
+- And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me. Isaiah is future prophecy.
+
+- So why would Christ do away with the new moons and the feast days and the Sabbaths, and then turn around and have this prophesied?
+
+- All flesh means everybody. You heathen are going to keep the new moon and the Sabbath too. You want the kingdom so badly, and you are fighting against everything the kingdom stands for and against the people of God.
+
+
+**[Matthew 15:22-27](/bible/matthew/15#v22)**  *[[1:47:10](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=6430s)]*
+
+> <sup>[22](/bible/matthew/15#v22)</sup> And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
+>
+> <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
+>
+> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+>
+> <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
+>
+> <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
+>
+> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
+
+- A woman of Canaan cried after him: have mercy on me, O Lord, thou son of David; my daughter is grievously vexed with a devil. But he answered her not a word. The Son of God ignored her and did not hear a thing she had to say.
+
+- His disciples came and said, send her away, for she crieth after us. So much for salvation for everybody.
+
+- But he answered and said, I am not sent but unto the lost sheep of the house of Israel. The man said it himself.
+
+- It is not meet to take the children's bread, and to cast it to dogs. The Son of God called this woman a dog.
+
+- And she said, truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table. She had sense. She knew who the masters were, she knew who the children of God were, and she was ready to serve -- and her own people were ruling at the time, and she still humbled herself.
+
+- The nations are not coming to us like that. You are not telling us we are the masters, you are not telling us we are the sons and daughters of the living God; you are calling us porch monkeys and everything else, and you hate our guts. Stop cursing the Israelites: bless us and you are blessed, curse us and you are cursed.
+
+
+**[Leviticus 23:22](/bible/leviticus/23#v22)**  *[[1:52:38](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=6758s)]*
+
+> <sup>[22](/bible/leviticus/23#v22)</sup> And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the Lord your God.
+
+- And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field, neither shalt thou gather any gleaning. When the Lord blesses you and you are in the land, you do not pick up everything off the field.
+
+- Thou shalt leave them unto the poor, and to the stranger. Those gleanings are the crumbs that fall from the master's table.
+
+- The harvest is the bread, and the bread and the kingdom are for us. The gleanings are for the strangers -- for the ones who come saying truth, Lord, and are ready to serve.
+
+
+**[Obadiah 1:5-6](/bible/obadiah/1#v5)**  *[[1:53:22](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=6802s)]*
+
+> <sup>[5](/bible/obadiah/1#v5)</sup> If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?
+>
+> <sup>[6](/bible/obadiah/1#v6)</sup> How are the things of Esau searched out! how are his hidden things sought up!
+
+- Even a thief steals till he has enough and stops, and a grapegatherer leaves some grapes behind. Esau takes everything.
+
+- That is why the countries are impoverished. He takes everything, literally.
+
+- How are the things of Esau searched out, how are his hidden things sought up -- all the policies, all the plans, all the things he has. The Lord told us how he gets stopped.
+
+
+**[Isaiah 14:2](/bible/isaiah/14#v2)**  *[[1:56:24](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=6984s)]*
+
+> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
+
+- And the people shall take them, and bring them to their place. We are the people.
+
+- And the house of Israel shall possess them in the land of the Lord for servants and handmaids. That is the only way they are coming into this thing.
+
+- Esau does not want to do this. He is not letting his kingdom go -- and you black Christians are fighting for his kingdom. You are fighting for the wrong kingdom; fight for the kingdom of God.
+
+
+**[Revelation 22:14](/bible/revelation/22#v14)**  *[[2:00:03](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=7203s)]*
+
+> <sup>[14](/bible/revelation/22#v14)</sup> Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
+
+- Blessed are they that do his commandments. His commandments were not done away with; what was dealt with is the sacrifices that were tied to them.
+
+- That they may have right to the tree of life -- that is eternal life -- and may enter in through the gates into the city. And there are twelve of those gates.
+
+- Without are dogs. If you want in, humble yourself: we are your masters, we are the children of God, and you cleave to us as servants and handmaids. Start blessing us.
+
+
+**[1 Corinthians 11:23-30](/bible/1-corinthians/11#v23)**  *[[2:01:35](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=7295s)]*
+
+> <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
+>
+> <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+>
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
+>
+> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
+>
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
+>
+> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
+>
+> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
+>
+> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
+
+- He wrapped the class up on the feast day and called for the bread and the wine, everybody with their own, and the reading was taken straight through to the prayer.
+
+
+## Class Questions
+
+- **Who is the us in these promises?** Israel: the chosen generation, the royal priesthood, the holy nation, the peculiar people, the strangers scattered in Galatia, Cappadocia, Asia and Bithynia.
+- **Who controls the food, the water and the clothing?** The enemies you were sent to serve. They control the farms and the production of food and clothing on a mass scale, and you go to them for everything.
+- **Is the new moon a tradition of men? Is the Sabbath day?** No. They were given by God and commanded in Leviticus 23, along with the Feast of Dedication and the Feast of Tabernacles.
+- **Brothers, do you want to be like the man in that video? Sisters, do you want a brother like that?** No, and the children in the building said it loudest.
+
+## In Closing
+
+*[[1:59:23](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=7163s)]* I did not get into the class, so there will be a part two. I wanted to motivate the men for all the work you have been doing, so keep the press going -- full court press. We are not on defense mode; we have been the ones attacking, they tried to fight back, and they are losing terribly. They acknowledge us: if I were winning a fight and at the top, I would not acknowledge the people at the bottom, and these folks with millions of followers have to come all the way down to where we are, because we are making noise. This high holy day is for you and this new month is for you, and all of it is a sign of our Lord and his coming. Shalom. Happy new moon. Happy Feast of Dedication.
+
+## Announcements & References
+
+- Day four of the Feast of Dedication, and a new moon: the warriors' feast, which is the temple taken back, cleansed and rededicated to the Most High after the heathen profaned it.
+- A triple Sabbath this week, and the seventh-day Sabbath is a feast within itself according to Leviticus 23.
+- A part two on Christ as Israel's last temple and the sacrifices he replaced, which this class did not reach.
+- His earlier class, 10 Signs Your Wife Don't Believe.
+- Captain Mat's recent class on the content creators who are not men of God.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=VfOy8UOCtHc)

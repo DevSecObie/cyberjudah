@@ -103,6 +103,16 @@ them by hand -- `npm run notes:fix` derives them, adds the `Opens` line under
 `<p class="taught">`, and turns each `*[18:01]*` timestamp into a link into the recording.
 Run it after writing a note and commit what it produces.
 
+The topic slugs are a rate over the *whole corpus*, so that rate moves every time any note is
+added or edited. `npm run notes:fix` (`tag-notes.mjs` with no arguments) still scans every note
+to compute the rate, but by default only writes a derived tag set to a note that has none
+yet -- a `tags:` line that is missing, or that carries only the series tag -- or to a file
+named explicitly on the command line (`node scripts/tag-notes.mjs path/to/note.md`). Every
+other note's `tags:` line is left exactly as committed, so writing one note never drags dozens
+of unrelated tag changes into its PR. To recompute and rewrite every note's tags from the
+current corpus -- its own mechanical PR, not a side effect of writing one note -- run
+`node scripts/tag-notes.mjs --all`.
+
 ### Who taught it
 
 `teacher` is the name with its own title: `Captain Noah`, `Deacon Malachi`,
@@ -242,6 +252,8 @@ Where there is no recording, drop the second half rather than linking the note t
 6. `npm run notes:fix`, then `npm run notes:lint`. The linter checks the shape of the note --
    frontmatter, sections, the nav line, the tag list, scripture links -- and must report 0
    errors. Warnings are for things only the recording can settle (no video id, no teacher).
+   `notes:fix` only derives tags for a note that has none yet (above, under "Anatomy"), so
+   this is what gives the new note its topic tags; it does not touch any other note's tags.
 7. `npm run check` from the repo root (needs `npm ci --prefix engine` once). It is the link
    checker: every `/bible/...` link must name a real chapter and verse, and every other
    site link a real note, law, precept or case. Zero broken, or fix and rerun.

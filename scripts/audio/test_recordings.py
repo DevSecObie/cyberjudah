@@ -1,4 +1,11 @@
 import unittest
+import io
+import json
+import hashlib
+import tempfile
+from pathlib import Path
+from unittest.mock import patch
+import recordings
 from recordings import timing_errors, source_errors, chapter_payload, audit_difference, scripture_window, alignment_hints
 
 class Timings(unittest.TestCase):
@@ -82,6 +89,58 @@ class Timings(unittest.TestCase):
         reasons, _ = audit_difference('He saith unto thee', {'start': 0, 'end': 4, 'words': [{'start': 0, 'end': 4, 'probability': 1}]},
                                   [{'word': 'He says to you', 'start': 0, 'end': 4}])
         self.assertTrue(any('ASR differs' in r for r in reasons))
+
+class Publishing(unittest.TestCase):
+    def tearDown(self):
+        recordings.archive_locations.cache_clear()
+
+    def test_archive_replica_fallback_still_requires_the_pinned_bytes(self):
+        payload = b'licensed source fixture'
+        record = {'id': 'collection/track.mp3', 'download': 'https://archive.org/download/collection/track.mp3',
+                  'sha1': hashlib.sha1(payload).hexdigest()}
+        calls = []
+        def get(url, **_):
+            calls.append(url)
+            if url == record['download']:
+                raise OSError('upstream unavailable')
+            if '/metadata/' in url:
+                return io.BytesIO(json.dumps({'d1': 'ia801504.us.archive.org', 'd2': 'untrusted.invalid', 'dir': '/24/items/collection'}).encode())
+            return io.BytesIO(payload)
+        with tempfile.TemporaryDirectory() as directory, patch.object(recordings, 'CACHE', Path(directory)), patch.object(recordings.urllib.request, 'urlopen', side_effect=get):
+            result = recordings.download(record)
+            self.assertEqual(result.read_bytes(), payload)
+            self.assertEqual(calls[-1], 'https://ia801504.us.archive.org/24/items/collection/track.mp3')
+            self.assertEqual(len(calls), 3)
+            recordings.download(record)
+            self.assertEqual(len(calls), 3, 'verified cache must avoid another download')
+            result.unlink()
+            with self.assertRaisesRegex(ValueError, 'checksum mismatch'):
+                recordings.download({**record, 'sha1': '0' * 40})
+            self.assertFalse(result.exists())
+            self.assertFalse(list(Path(directory).rglob('*.part')))
+
+    def test_partial_export_reports_missing_sources_and_keeps_review_flags(self):
+        records = [{'id': 'missing', 'timingFiles': ['reader/genesis/1.json']},
+                   {'id': 'ready', 'timingFiles': ['reader/genesis/2.json'], 'readerId': 'reader', 'reader': 'Reader', 'slug': 'genesis', 'source': 'https://source.invalid', 'license': 'https://license.invalid'}]
+        value = {'sourceStart': 1, 'sourceEnd': 3, 'audio': 'recordings/reader/genesis/2.m4a', 'reader': 'Reader', 'verses': [[1, 0, 2]], 'check': True, 'checks': [{'verse': 1, 'reasons': ['listen'], 'check': True}]}
+        def download(record):
+            if record['id'] == 'missing': raise OSError('503')
+            return Path('source.mp3')
+        def encode(args, **_): Path(args[-1]).write_bytes(b'encoded fixture')
+        with tempfile.TemporaryDirectory() as directory, patch.object(recordings, 'check', return_value=True), patch.object(recordings, 'download', side_effect=download), patch.object(recordings, 'read', return_value=value), patch.object(recordings.subprocess, 'run', side_effect=encode):
+            with self.assertRaises(OSError): recordings.export({'recordings': records}, directory)
+            self.assertFalse((Path(directory) / 'catalog.json').exists())
+            recordings.export({'recordings': records}, directory, allow_unavailable=True)
+            catalog = json.loads((Path(directory) / 'catalog.json').read_text())
+            self.assertEqual([c['chapter'] for c in catalog['chapters']], [2])
+            self.assertTrue(catalog['partial'])
+            self.assertEqual(json.loads((Path(directory) / 'unavailable.json').read_text())[0]['source'], 'missing')
+            index = json.loads((Path(directory) / 'indexes/reader/genesis/2.json').read_text())
+            self.assertEqual(index['checks'], value['checks'])
+        with tempfile.TemporaryDirectory() as directory, patch.object(recordings, 'check', return_value=True), patch.object(recordings, 'download', side_effect=OSError('503')):
+            with self.assertRaisesRegex(ValueError, 'No narration sources'):
+                recordings.export({'recordings': records}, directory, allow_unavailable=True)
+            self.assertFalse((Path(directory) / 'catalog.json').exists())
 
 if __name__ == '__main__':
     unittest.main()

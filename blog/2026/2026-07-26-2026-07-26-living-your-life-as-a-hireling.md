@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "the-body"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="AEtwteuLiy4"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-aetwteuliy4.jpg" alt="Class artwork">
 </figure>
@@ -44,7 +46,7 @@ Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy 
 
 ## Scriptures Opened
 
-**[Job 20:11-13](/bible/job/20#v11)**  *[33:26]*
+**[Job 20:11-13](/bible/job/20#v11)**  *[[33:26](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2006s)]*
 
 > <sup>[11](/bible/job/20#v11)</sup> His bones are full of the sin of his youth, which shall lie down with him in the dust.
 >
@@ -81,7 +83,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 - There's an expression, well, I like to say it: marriage is political, and it generally reveals who your allegiance is to.
 
-**[Numbers 31:15-16](/bible/numbers/31#v15)**  *[46:21]*
+**[Numbers 31:15-16](/bible/numbers/31#v15)**  *[[46:21](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2781s)]*
 
 > <sup>[15](/bible/numbers/31#v15)</sup> And Moses said unto them, Have ye saved all the women alive?
 >
@@ -92,7 +94,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - Post shown: Officer Brandon Tatum and wife, "Marriage isn't political. It doesn't determine your religion." Oh, shut the hell up. This dude right here, he'll kill black people if he get a chance. He hates his people. That's an Edomite; she ain't ambiguous.
 - Y'all get mad when we say this: remember during the 50s Esau was saying, hey, the Bible says no miscegenation, meaning racial mixing. Black people was mad. And the Bible does say that. What you mad for? That's what it says.
 
-**[Acts 5:34-37](/bible/acts/5#v34)**  *[50:31]*
+**[Acts 5:34-37](/bible/acts/5#v34)**  *[[50:31](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3031s)]*
 
 > <sup>[34](/bible/acts/5#v34)</sup> Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
 >
@@ -105,7 +107,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - Gamaliel is the one that taught and instructed Paul, a doctor of the law, had in reputation among all the people. If you want this history more in depth, it is in the book of The Complete Works of Flavius Josephus.
 - These two men he mentions, Theudas and Judas of Galilee: they set themselves up to be somebody, and they got put to death, because both of their intent was to go against the laws of the land, and all, as many as obeyed them, were dispersed.
 
-**[John 10:8-13](/bible/john/10#v8)**  *[50:31]*
+**[John 10:8-13](/bible/john/10#v8)**  *[[50:31](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3031s)]*
 
 > <sup>[8](/bible/john/10#v8)</sup> All that ever came before me are thieves and robbers: but the sheep did not hear them.
 >
@@ -127,7 +129,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - There's no passion for the work; that's why you got them dead spirits. Brothers asked last week about dead spirits: these brothers with dead spirits are hirelings. They got no passion for this truth. They could care less. They're just here. This is Buena Vista Social Club for them; this is just a hangout. I ain't got nothing else to do, I'mma hang out with them brothers in purple and gold; they got some pretty women over there.
 - Performing dirty work: it is frequently used in contexts where an authority figure or boss uses subordinates to handle distasteful tasks they want to avoid themselves.
 
-**[Job 7:1-2](/bible/job/7#v1)**  *[54:53]*
+**[Job 7:1-2](/bible/job/7#v1)**  *[[54:53](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3293s)]*
 
 > <sup>[1](/bible/job/7#v1)</sup> Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?
 >
@@ -136,7 +138,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - Are not his days also like the days of an hireling? Meaning a dispensation of time is given to every man on this earth.
 - As an hireling looketh for the reward of his work: a hireling generally looks for the reward of his work. That's what he's looking for.
 
-**[Jeremiah 23:1-4](/bible/jeremiah/23#v1)**  *[54:53]*
+**[Jeremiah 23:1-4](/bible/jeremiah/23#v1)**  *[[54:53](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3293s)]*
 
 > <sup>[1](/bible/jeremiah/23#v1)</sup> Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the Lord.
 >
@@ -161,7 +163,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     I will give you pastors according to mine heart, which shall feed you with knowledge and understanding of what? God's laws. Ain't talking about feeding them with jumping up and down and screaming and foaming at the mouth.
 
-**[Jeremiah 23:5-8](/bible/jeremiah/23#v5)**  *[59:02]*
+**[Jeremiah 23:5-8](/bible/jeremiah/23#v5)**  *[[59:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3542s)]*
 
 > <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
 >
@@ -184,7 +186,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     Come forth, and flee from the land of the north: flee from North America. I have spread you abroad as the four winds of the heaven; we're not just in North America. Deliver thyself, O Zion, that dwellest with the daughter of Babylon: who's that? Judah. He that toucheth you toucheth the apple of his eye: meaning we're his favorite. We're God's favorite.
 
-**[Jeremiah 23:9-15](/bible/jeremiah/23#v9)**  *[1:03:14]*
+**[Jeremiah 23:9-15](/bible/jeremiah/23#v9)**  *[[1:03:14](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3794s)]*
 
 > <sup>[9](/bible/jeremiah/23#v9)</sup> Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the Lord, and because of the words of his holiness.
 >
@@ -209,7 +211,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - That none doth return from his wickedness. They are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah. Videos played: a pastor saying, "I'm always inspired by my husband. We celebrated 20 years this year, and we got married at a time where we could not legally get married, and we stood on the shores of Hilton Head, South Carolina, and we tied the knot. Select you a good man and hang in there." And the Atlanta church clip: what is this filth? That was a man in a dress. These black churches got to go. Bishop: remember the white man said the black church need to be broken down.
 - Therefore thus saith the Lord of hosts concerning the prophets: behold, I will feed them with wormwood, destruction, death, and make them drink the water of gall: poison. For from the prophets of Jerusalem is profaneness gone forth into all the land. It's talking about our people.
 
-**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[1:07:35]*
+**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[[1:07:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4055s)]*
 
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 >
@@ -220,7 +222,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - But if thou wilt enter into life, keep the commandments. That's what we should be discussing.
 - You could tell that they purposely try to get away from the point. They go to other words in the sentence, knowing damn well where the main point is. Them was some evil demons, man. The Most High going to tear they behind up when the time come.
 
-**[Jeremiah 23:16-20](/bible/jeremiah/23#v16)**  *[1:16:26]*
+**[Jeremiah 23:16-20](/bible/jeremiah/23#v16)**  *[[1:16:26](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4586s)]*
 
 > <sup>[16](/bible/jeremiah/23#v16)</sup> Thus saith the Lord of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, and not out of the mouth of the Lord.
 >
@@ -275,7 +277,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     The entrances of the elder world were wide and sure, and brought immortal fruit; the elder world was during the time of Adam. Nevertheless the righteous shall suffer strait things, that's tribulation, and hope for the wide. All Israel is going to go through tribulation: the righteous and the unrighteous. What we are seeing on the news, with death after death after death, is just the beginning. Oh, it's going to escalate. They're not going to go, hey, what God do you serve? No: you're in the image of God, we're going to kill all of you, all you melanated brothers and sisters.
 
-**[Jeremiah 23:21-32](/bible/jeremiah/23#v21)**  *[1:25:02]*
+**[Jeremiah 23:21-32](/bible/jeremiah/23#v21)**  *[[1:25:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5102s)]*
 
 > <sup>[21](/bible/jeremiah/23#v21)</sup> I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.
 >
@@ -325,7 +327,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     If there be a prophet among you, I the Lord will make myself known unto him in a vision, and will speak unto him in a dream. My servant Moses is not so: with him will I speak mouth to mouth, even apparently, and not in dark speeches. The only one the Lord spoke with mouth to mouth was Moses. When you hear black women go, God told me: God tell you nothing. Stop lying. The Lord spoke to me this morning, his voice was so clear: that's a lie. But people be believing this crap. Miriam said God spoke to me too, and she was a prophet; wherefore then were ye not afraid to speak against my servant Moses?
 
-**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[1:37:35]*
+**[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[1:37:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5855s)]*
 
 > <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
 
@@ -338,7 +340,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     And the seed of Israel separated themselves from all strangers, and stood and confessed their sins. This is where it came from: God instructed the twelve tribes to separate from these other nations, stop following the customs and traditions of these other nations.
 
-**[Ezekiel 34:1-6](/bible/ezekiel/34#v1)**  *[1:41:36]*
+**[Ezekiel 34:1-6](/bible/ezekiel/34#v1)**  *[[1:41:36](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6096s)]*
 
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
@@ -357,7 +359,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field: they became meat to all the nations. My flock was scattered upon all the face of the earth, and none did search or seek after them.
 - None of these pastors are searching or seeking for the twelve tribes. I'm going to say something else: you got Israelite groups that are not seeking or searching for the twelve tribes of Israel. They are comfy at home on the internet. They are comfy standing on the corner, and you got nobody listening to them. Their whole damn campaign is trying to stop the Israelites that's actually doing the work, that's actually trying to save our people. That's how demonic they are.
 
-**[Ezekiel 34:11-16](/bible/ezekiel/34#v11)**  *[1:45:47]*
+**[Ezekiel 34:11-16](/bible/ezekiel/34#v11)**  *[[1:45:47](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6347s)]*
 
 > <sup>[11](/bible/ezekiel/34#v11)</sup> For thus saith the Lord God; Behold, I, even I, will both search my sheep, and seek them out.
 >
@@ -408,7 +410,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     Let Israel rejoice in him that made him: cuz we have not been rejoicing in our creator, we've been rejoicing in the white man. Let the children of Zion be joyful in their King: for so long we've been joyful in the white man. For the Lord taketh pleasure in his people: he don't take pleasure in all races on the planet, only in his people. Let the saints be joyful in glory: let them sing aloud upon their beds. That's the rest right there.
 
-**[Lamentations 2:14](/bible/lamentations/2#v14)**  *[1:50:01]*
+**[Lamentations 2:14](/bible/lamentations/2#v14)**  *[[1:50:01](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6601s)]*
 
 > <sup>[14](/bible/lamentations/2#v14)</sup> Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.
 
@@ -417,7 +419,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - To turn away thy captivity: Christ died on the cross to save us from our sins, cuz we went in captivity because of our sins. That's why Christ had to come.
 - But have seen for thee false burdens and causes of banishment. A false burden is something you don't have to carry, but you carry it anyway. Like Christmas: people spend all their money, all their check on Christmas gifts; it's a waste of time. Easter: you got to get a new suit every Easter, new shoes, new socks, new drawers too. New Year's Eve, wedding anniversaries, Valentine's Day, Thanksgiving: it's a false burden, cuz no way that God said, oh, today is my birthday, what are you going to buy me? So by us supporting those false burdens, it causes us to be banished from the coming kingdom. We're banished from New Jerusalem.
 
-**[1 Corinthians 9:16-17](/bible/1-corinthians/9#v16)**  *[1:54:12]*
+**[1 Corinthians 9:16-17](/bible/1-corinthians/9#v16)**  *[[1:54:12](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6852s)]*
 
 > <sup>[16](/bible/1-corinthians/9#v16)</sup> For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
 >
@@ -427,7 +429,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - For if I do this thing willingly: if you do this thing willing, you have a passion for this truth, loyalty to God Almighty, and I have a reward. But if against my will: if somebody always got to yell at me, tell me to do this and do that, because I'm a hireling, I'm really not in this thing; you don't hear how boring I am, I got a dead spirit on me, I could care less.
 - A dispensation of the gospel is committed unto me: you get a limited amount of time in this truth, and then God moves you out the way and brings somebody else. That's musical chairs. We've seen it over the years: it's like whole new congregations that come before us; same spirits, but it's a different people. On your phone it says memories on Facebook, it'll go back two years, and I'm like, who's these brothers I was standing with? And it's all new people, because them dudes fell out.
 
-**[1 Corinthians 6:1-5](/bible/1-corinthians/6#v1)**  *[1:54:12]*
+**[1 Corinthians 6:1-5](/bible/1-corinthians/6#v1)**  *[[1:54:12](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6852s)]*
 
 > <sup>[1](/bible/1-corinthians/6#v1)</sup> Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
 >
@@ -461,7 +463,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     Ye which have followed me, in the regeneration, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel. So it ain't Michael and Gabriel and Uriel; it's talking about our own people.
 
-**[Luke 19:11-27](/bible/luke/19#v11)**  *[2:02:35]*
+**[Luke 19:11-27](/bible/luke/19#v11)**  *[[2:02:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=7355s)]*
 
 > <sup>[11](/bible/luke/19#v11)</sup> And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
 >
@@ -558,7 +560,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. That goes back to what we just read: this guy that was in the truth, he took his talent, hid it in a napkin. I'm not helping them anymore; I did it full time, but I don't want to do it no more.
 
-**[Hebrews 11:25](/bible/hebrews/11#v25)**  *[2:15:41]*
+**[Hebrews 11:25](/bible/hebrews/11#v25)**  *[[2:15:41](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8141s)]*
 
 > <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
 
@@ -575,7 +577,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-**[3 John 1:9-11](/bible/3-john/1#v9)**  *[2:19:56]*
+**[3 John 1:9-11](/bible/3-john/1#v9)**  *[[2:19:56](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8396s)]*
 
 > <sup>[9](/bible/3-john/1#v9)</sup> I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
 >
@@ -597,7 +599,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     And he is the head of the body, the church: that in all things he might have the preeminence. There's only one preeminent, and that's Christ. He's the king; not you, not me. Christ has the preeminence, not Diotrephes. He lost his mind. You know why? He was a hireling.
 
-**[2 Esdras 8:28](/bible/2-esdras/8#v28)**  *[2:24:08]*
+**[2 Esdras 8:28](/bible/2-esdras/8#v28)**  *[[2:24:08](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8648s)]*
 
 > <sup>[28](/bible/2-esdras/8#v28)</sup> Think not upon those that have walked feignedly before thee: but remember them, which according to thy will have known thy fear.
 
@@ -641,7 +643,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
     Be kindly affectioned one to another with brotherly love; in honour preferring one another. Not slothful in business: not lazy concerning God's work. Fervent in spirit: be on fire in your spirit, serving the Lord.
 
-**[Ezekiel 34:20-31](/bible/ezekiel/34#v20)**  *[2:33:02]*
+**[Ezekiel 34:20-31](/bible/ezekiel/34#v20)**  *[[2:33:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=9182s)]*
 
 > <sup>[20](/bible/ezekiel/34#v20)</sup> Therefore thus saith the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
 >
@@ -674,7 +676,7 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - The earth shall yield her increase: remember what God told Cain, the earth shall not yield to you her strength; so now here it's saying the earth will yield her strength to us. And they shall be safe in their land, and none shall make them afraid: nobody's going to make us afraid ever again, cuz right now we live in fear.
 - And they shall no more be a prey to the heathen, the other nations. I will raise up for them a plant of renown, meaning famous. Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people. And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord God.
 
-**[1 Kings 13:1-32](/bible/1-kings/13#v1)**  *[2:37:12]*  (Bishop's teaching)
+**[1 Kings 13:1-32](/bible/1-kings/13#v1)**  *[[2:37:12](https://www.youtube.com/watch?v=AEtwteuLiy4&t=9432s)]*  (Bishop's teaching)
 
 > <sup>[1](/bible/1-kings/13#v1)</sup> And, behold, there came a man of God out of Judah by the word of the Lord unto Beth–el: and Jeroboam stood by the altar to burn incense.
 >
@@ -792,4 +794,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=AEtwteuLiy4)

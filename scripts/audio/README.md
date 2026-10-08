@@ -28,6 +28,13 @@ python3 scripts/audio/recordings.py export
 
 `--recording <manifest id>` processes one track. Downloads, model results and AAC
 exports live in git-ignored `.cache/audio/`. Source bytes are checked before use;
+If a pinned Archive URL fails, the downloader discovers the collection's current
+Archive replicas and still checks the original SHA-1 before accepting any bytes.
+`export --allow-unavailable` explicitly exports only reachable, timing-validated
+chapters, writes `unavailable.json`, and marks the catalog partial. The app's
+publisher must merge that catalog with the published catalog so unavailable
+sources never remove existing chapters. A completely unavailable export fails
+without writing a catalog. Ordinary `export` remains all-or-nothing.
 all emitted timing files include a hash of our exact source verses. A changed Bible
 chapter fails validation until it is re-aligned.
 

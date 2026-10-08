@@ -17,18 +17,18 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 
 ## Introduction
 
-*[[3:08](https://www.youtube.com/watch?v=PkFnZPllE5w&t=188s)]* Israel came out of Egypt with their bodies free and their minds still in bondage, and the same mind is on black people and Hispanics now: defending the oppressor, denying who they are, and taking Christianity in the place of the law. The class walks the murmurings of the Exodus, the curses of Deuteronomy 28 and the prophets to show that diaspora, ghetto and lost identity are words that were coined on Israel and belong to Israel.
+*[[4:12](https://www.youtube.com/watch?v=PkFnZPllE5w&t=252s)]* Israel came out of Egypt with their bodies free and their minds still in bondage, and the same mind is on black people and Hispanics now: defending the oppressor, denying who they are, and taking Christianity in the place of the law. The class walks the murmurings of the Exodus, the curses of Deuteronomy 28 and the prophets to show that diaspora, ghetto and lost identity are words that were coined on Israel and belong to Israel.
 
 ## In The News
 
 - *[[30:57](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1857s)]* **A debate between Mark Viser and a group of Israelites, from 54:30 to 55:35** — He argues that no one in the Old Testament ever thought there was a prophecy of Israel losing her identity and having it restored, and that to call yourself an Israelite is a rewriting of your entire history. His whole agenda is to convince us that we are a bunch of Africans trying to be Israelites. If we are not the Israelites, who is? Look at his complexion and you know who he thinks Israel is.
 - *[[35:23](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2123s)]* **A video of a man who says he fears a black person more than a white person, and that he used to have a revolutionary heart but now has a heart in Christ** — A heart in Christ, the way he means it, is a weak, complacent, soft-spirited slave. The Messiah was the greatest revolutionary to ever walk the earth. He says a revolutionary heart comes with an identity crisis, and that is exactly what the man sitting next to him wants to hear.
 - *[[41:25](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2485s)]* **A screenshot of Alan Parr sitting down with Avery, who goes by White God Logic, on what every Christian should know about black Hebrew Israelites, headed dismantling Deuteronomy 28** — A non-Israelite is brought on to explain Israelites so that we never get to answer for ourselves. That is cowardice. The premise is to dismantle the teaching and keep the same negro we read about earlier: soft, weak, loving Massa, and going back to Egypt.
-- *[[44:07](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2647s)]* **A video from camp, from 25:21 to 27:50, of a man arguing that his friend is saved** — Asked three times whether his own people went into slavery on slave ships he finally says no, and then says that if his friend goes to hell, then so will he. That is what Christianity creates.
+- *[[44:46](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2686s)]* **A video from camp, from 25:21 to 27:50, of a man arguing that his friend is saved** — Asked three times whether his own people went into slavery on slave ships he finally says no, and then says that if his friend goes to hell, then so will he. That is what Christianity creates.
 
 ## Scriptures Opened
 
-**[Exodus 1:7-22](/bible/exodus/1#v7)**  *[[6:21](https://www.youtube.com/watch?v=PkFnZPllE5w&t=381s)]*
+**[Exodus 1:7-22](/bible/exodus/1#v7)**  *[[6:32](https://www.youtube.com/watch?v=PkFnZPllE5w&t=392s)]*
 
 > <sup>[7](/bible/exodus/1#v7)</sup> And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
 >
@@ -75,7 +75,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - When they could not kill them in the womb the edict was to cast every son into the river. Later on that became gator bait, and there are no white gator bait babies. Our sons are still the target: the drugs, the crack era, emasculation. Nothing new under the sun.
 
 
-**[Exodus 3:1-12](/bible/exodus/3#v1)**  *[[15:51](https://www.youtube.com/watch?v=PkFnZPllE5w&t=951s)]*
+**[Exodus 3:1-12](/bible/exodus/3#v1)**  *[[16:30](https://www.youtube.com/watch?v=PkFnZPllE5w&t=990s)]*
 
 > <sup>[1](/bible/exodus/3#v1)</sup> Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
 >
@@ -110,7 +110,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Ye shall serve God upon this mountain. You are going to come right back to this same mountain, and there he received God's laws.
 
 
-**[Exodus 14:30-31](/bible/exodus/14#v30)**  *[[19:34](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1174s)]*
+**[Exodus 14:30-31](/bible/exodus/14#v30)**  *[[19:44](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1184s)]*
 
 > <sup>[30](/bible/exodus/14#v30)</sup> Thus the Lord saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.
 >
@@ -159,7 +159,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Harriet Tubman said she would have saved thousands more slaves had they known they were slaves. It is the same mentality here. These are broken men and women.
 
 
-**[Numbers 11:1-5](/bible/numbers/11#v1)**  *[[23:13](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1393s)]*
+**[Numbers 11:1-5](/bible/numbers/11#v1)**  *[[23:29](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1409s)]*
 
 > <sup>[1](/bible/numbers/11#v1)</sup> And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
 >
@@ -182,7 +182,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - They were free, but their minds were not. Likewise black people and Hispanics today: we have freedoms but we are not free. We have privileges, not freedoms.
 
 
-**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[28:15](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1695s)]*
+**[Numbers 14:1-4](/bible/numbers/14#v1)**  *[[28:41](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1721s)]*
 
 > <sup>[1](/bible/numbers/14#v1)</sup> And all the congregation lifted up their voice, and cried; and the people wept that night.
 >
@@ -199,7 +199,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Let us make a captain, and let us return into Egypt. Return to slavery. That is the black man and the black woman today: I am a citizen, let us vote, politics works. It is the same slave mentality.
 
 
-**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[51:36](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3096s)]*
+**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[52:09](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3129s)]*
 
 > <sup>[7](/bible/ecclesiastes/7#v7)</sup> Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 
@@ -210,7 +210,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Without the revolutionary mind you hate your own people, and you would die with Esau.
 
 
-**[Deuteronomy 28:1](/bible/deuteronomy/28#v1)**  *[[57:12](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3432s)]*
+**[Deuteronomy 28:1](/bible/deuteronomy/28#v1)**  *[[57:52](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3472s)]*
 
 > <sup>[1](/bible/deuteronomy/28#v1)</sup> And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:
 
@@ -221,7 +221,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - That is if we kept God's laws. We did the opposite.
 
 
-**[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[[58:09](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3489s)]*
+**[Deuteronomy 28:15-16](/bible/deuteronomy/28#v15)**  *[[58:30](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3510s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 >
@@ -251,7 +251,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Ask whether the curse in the city means the ghetto and you are told to read it through mainstream scholarship rather than through the Israelites. AI is being set up to fight against us too, and that shows you the impact we are having.
 
 
-**[Deuteronomy 28:25](/bible/deuteronomy/28#v25)**  *[[1:38:47](https://www.youtube.com/watch?v=PkFnZPllE5w&t=5927s)]*
+**[Deuteronomy 28:25](/bible/deuteronomy/28#v25)**  *[[1:39:07](https://www.youtube.com/watch?v=PkFnZPllE5w&t=5947s)]*
 
 > <sup>[25](/bible/deuteronomy/28#v25)</sup> The Lord shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth.
 
@@ -273,7 +273,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Every curse in 28 is not in the land. The scattering, the vexation and the pestilence, being made a byword among all the nations where he would lead us, none of that is in the land only.
 
 
-**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[[1:55:44](https://www.youtube.com/watch?v=PkFnZPllE5w&t=6944s)]*
+**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[[1:56:13](https://www.youtube.com/watch?v=PkFnZPllE5w&t=6973s)]*
 
 > <sup>[28](/bible/deuteronomy/28#v28)</sup> The Lord shall smite thee with madness, and blindness, and astonishment of heart:
 
@@ -288,7 +288,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - That is why I pull all these books out, because our people are mad, blind and bewildered. These books are worthless to me and the Bible is the most important, but because we are so destroyed and slave-minded I have to go to the white man's book for us to see we are black Jews. That is the strong delusion he said he would send.
 
 
-**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[2:10:02](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7802s)]*
+**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[2:10:48](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7848s)]*
 
 > <sup>[14](/bible/jeremiah/2#v14)</sup> Is Israel a servant? is he a homeborn slave? why is he spoiled?
 
@@ -297,7 +297,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Why is he spoiled, why is he destroyed? He asks it here and the verses that follow answer it.
 
 
-**[Jeremiah 2:21-22](/bible/jeremiah/2#v21)**  *[[2:10:58](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7858s)]*
+**[Jeremiah 2:21-22](/bible/jeremiah/2#v21)**  *[[2:11:17](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7877s)]*
 
 > <sup>[21](/bible/jeremiah/2#v21)</sup> Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
 >
@@ -310,7 +310,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Wearing a white woman's hair, a white man's hair, an East Indian woman's hair. Bleaching your skin, walking around in the heat in the Caribbean with hoodies on so the sun will not touch you. Degeneracy.
 
 
-**[Jeremiah 2:25](/bible/jeremiah/2#v25)**  *[[2:12:01](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7921s)]*
+**[Jeremiah 2:25](/bible/jeremiah/2#v25)**  *[[2:12:48](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7968s)]*
 
 > <sup>[25](/bible/jeremiah/2#v25)</sup> Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go.
 
@@ -321,7 +321,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - For I have loved strangers, and after them will I go. We love other nations and we will go after them even to hell. I love Massa, and where Massa goes I am going to be. That is why you became degenerate.
 
 
-**[Isaiah 1:3](/bible/isaiah/1#v3)**  *[[2:13:00](https://www.youtube.com/watch?v=PkFnZPllE5w&t=7980s)]*
+**[Isaiah 1:3](/bible/isaiah/1#v3)**  *[[2:13:22](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8002s)]*
 
 > <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
 
@@ -354,7 +354,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - But when the desire cometh it is a tree of life, when the desire to keep God's commandments comes.
 
 
-**[Esther (Greek) 14:19](/bible/esther-greek/14#v19)**  *[[2:15:23](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8123s)]*
+**[Esther (Greek) 14:19](/bible/esther-greek/14#v19)**  *[[2:15:41](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8141s)]*
 
 > <sup>[19](/bible/esther-greek/14#v19)</sup> O thou mighty God above all, hear the voice of the forlorn and deliver us out of the hands of the mischievous, and deliver me out of my fear.
 
@@ -378,7 +378,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - A protector of the forlorn and a saviour of them that are without hope. He is the protector of the lost, the hopeless, the abandoned, the outcast. That is us.
 
 
-**[Isaiah 2:6](/bible/isaiah/2#v6)**  *[[2:18:26](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8306s)]*
+**[Isaiah 2:6](/bible/isaiah/2#v6)**  *[[2:18:58](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8338s)]*
 
 > <sup>[6](/bible/isaiah/2#v6)</sup> Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.
 
@@ -400,7 +400,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Heritage is one word, and that word is identity. Discontinue from your language, your oral stories and your social customs and you lose your identity. He said you will discontinue, which means you are going to lose it, you will forget, you will be lost and forlorn.
 
 
-**[Sirach 17:11](/bible/sirach/17#v11)**  *[[2:20:57](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8457s)]*
+**[Sirach 17:11](/bible/sirach/17#v11)**  *[[2:21:33](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8493s)]*
 
 > <sup>[11](/bible/sirach/17#v11)</sup> Beside this he gave them knowledge, and the law of life for an heritage.
 
@@ -411,7 +411,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Our laws are part of our race. Our oral stories go back to the law, our customs go back to the law, our monuments go back to the law. No law means no identity, no culture, no heritage.
 
 
-**[Psalms 119:111](/bible/psalms/119#v111)**  *[[2:21:55](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8515s)]*
+**[Psalms 119:111](/bible/psalms/119#v111)**  *[[2:22:28](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8548s)]*
 
 > <sup>[111](/bible/psalms/119#v111)</sup> Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart.
 
@@ -422,7 +422,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - Without our laws we are not the people. What makes us a peculiar people is the peculiar laws he gave us in the first place, and they go hand in hand with our race.
 
 
-**[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[2:22:53](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8573s)]*
+**[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[2:23:29](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8609s)]*
 
 > <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
@@ -457,7 +457,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 - And I will move them to jealousy with those which are not a people. That is the northern kingdom.
 
 
-**[1 Peter 1:1](/bible/1-peter/1#v1)**  *[[2:27:48](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8868s)]*
+**[1 Peter 1:1](/bible/1-peter/1#v1)**  *[[2:27:57](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8877s)]*
 
 > <sup>[1](/bible/1-peter/1#v1)</sup> Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
@@ -489,7 +489,7 @@ tags: ["IUIC in the ClassRoom", "mental-health"]
 
 ## In Closing
 
-*[[2:28:34](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8914s)]* Which in time past were not a people. That is the lost identity. He called you out of darkness into his marvellous light, so you are not lost any more. And with that we say shalom. Happy Sabbath.
+*[[2:29:17](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8957s)]* Which in time past were not a people. That is the lost identity. He called you out of darkness into his marvellous light, so you are not lost any more. And with that we say shalom. Happy Sabbath.
 
 ## Announcements & References
 

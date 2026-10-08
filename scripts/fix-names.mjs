@@ -44,12 +44,18 @@ export function loadNames(file = path.join(ROOT, "data", "names.tsv")) {
 const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+");
 
 /** One regex per person, all its variants alternated, longest first so "Bishop Ka Nai" wins
- *  over "Bishop Ka". Whole words only; case-insensitive. */
+ *  over "Bishop Ka". Whole words only; case-insensitive.
+ *
+ *  A row with no variants yet has nothing to respell against, so it is skipped: an empty
+ *  alternation (`(?:)`) matches the zero-length string at every word boundary and `fixText`
+ *  would insert the name there, corrupting every note it runs over. */
 export function compile(names) {
-  return names.map(({ name, variants }) => ({
-    name,
-    re: new RegExp(`\\b(?:${[...variants].sort((a, b) => b.length - a.length).map(escape).join("|")})\\b`, "gi"),
-  }));
+  const out = [];
+  for (const { name, variants } of names) {
+    if (!variants.length) { console.error(`fix-names: "${name}" has no variants yet; skipping (no-op)`); continue; }
+    out.push({ name, re: new RegExp(`\\b(?:${[...variants].sort((a, b) => b.length - a.length).map(escape).join("|")})\\b`, "gi") });
+  }
+  return out;
 }
 
 export function fixText(text, rules) {

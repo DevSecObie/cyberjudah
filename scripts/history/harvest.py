@@ -28,6 +28,7 @@ from urllib.request import Request, urlopen
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from ingest import FEEDS
+from broadcasts import RELATIVE_PATH as BROADCASTS_PATH, record_broadcast
 
 BASE_URL = "https://transcriptapi.com/api/v2"
 API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY")
@@ -305,7 +306,7 @@ def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views, ch
 def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, feed):
     sh(["git", "-C", root, "config", "user.name", "github-actions[bot]"])
     sh(["git", "-C", root, "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
-    sh(["git", "-C", root, "add", "--", *[p for p in (tdir, nocap, agegate, meta_all) if os.path.exists(p)]])
+    sh(["git", "-C", root, "add", "--", *[p for p in (tdir, nocap, agegate, meta_all, os.path.join(root, BROADCASTS_PATH)) if os.path.exists(p)]])
     commit = sh([
         "git", "-C", root, "commit", "-q",
         "-m", f"transcripts: {feed} +{len(added)} ({len(added) + nosub} this run)\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
@@ -540,6 +541,10 @@ def main():
                 if r.returncode == 0:
                     got += 1
                     added.append(vid)
+                    if a.feed == "classes":
+                        with open(os.path.join(tdir, f"{vid}.json")) as transcript:
+                            archived = json.load(transcript)
+                        record_broadcast(ROOT, vid, archived.get("date"))
                     if file_date is None and duration_hint and duration_hint not in ("NA", ""):
                         file_duration = duration_hint
                     with open(meta_all, "a") as mf:

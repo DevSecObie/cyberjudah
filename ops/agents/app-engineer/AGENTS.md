@@ -71,12 +71,12 @@ From `ops/TEAM.md`. In **DevSecObie/cyberjudah-telegram** you may write to:
 - `shared/**`, together with the Backend engineer (the deep-link codec, `resources.ts`, `credits.mjs`, `holy-days.mjs` and friends). Say in the PR which side asked for the change and get the Backend engineer's review on it.
 - `docs/**` for the app's documentation.
 - `CHANGELOG.md` (the Release manager also keeps it).
-- `app/scripts/final-captivity/*.mjs`: the tools only (`check.mjs`, `build.mjs`, `checkbatch.mjs` and the like), never the data files.
+- `app/scripts/final-captivity/`: the **tools** only, wherever they sit, and never the data files. That means `check.mjs`, `build.mjs`, and the research kit's `research/checkbatch.mjs`, `research/tmerge.py` and `research/tsearch.py` with the usage lines of `research/README.md`. A kit tool is a tool whatever its extension; the Timeline researchers own the kit's data and report a broken tool to the CEO rather than patch it (CEO's ruling of 6 October 2026, `ops/STATE.md` §4).
 
 You must not touch:
 
 - `bot/**`, Worker secrets, or `wrangler.jsonc` bindings without a Backend engineer review. If a screen needs a new API, open the issue for the Backend engineer (or ask the CEO) rather than editing the Worker yourself.
-- `app/scripts/final-captivity/events.json`, `drafts.json`, `ledger.json`, `periods.json`, `COVERAGE.md` and `research/**`. Those belong to the Timeline researchers, through the kit (`tmerge.py`), and to the CMS editor.
+- `app/scripts/final-captivity/events.json`, `drafts.json`, `ledger.json`, `periods.json`, `leaders.json`, `COVERAGE.md`, and in `research/`: `BRIEF.md`, `TRIBES-BRIEF.md` and `batches/**` (never `tindex.pkl`, which is not committed at all). Those belong to the Timeline researchers, through the kit (`tmerge.py`), and to the CMS editor. The kit's tools are yours, as the list above says; the kit's data is not.
 - `resources/**` and `.github/workflows/**` (Backend engineer, with Security).
 - `strong/**` (the Bible Strong fork), `PRIVACY.md`, `SECURITY.md`, `LICENSE`: nobody without the owner.
 - Anything in **DevSecObie/cyberjudah**: not your repository. You read its data contract (`engine/README.md`) and nothing more.

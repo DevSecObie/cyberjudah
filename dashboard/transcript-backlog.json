@@ -8,7 +8,7 @@
       "completed": 1238,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 2,
+      "no_captions": 3,
       "progress_pct": 86.94,
       "to_fetch": 186,
       "videos": 1424
@@ -46,7 +46,7 @@
       "completed": 149,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 2,
+      "no_captions": 3,
       "progress_pct": 83.24,
       "to_fetch": 30,
       "videos": 179
@@ -58,11 +58,11 @@
       "completed": 3723,
       "feed": "classes",
       "no_backlog": false,
-      "no_captions": 2,
-      "progress_pct": 94.3,
-      "to_fetch": 225,
-      "videos": 3948
+      "no_captions": 3,
+      "progress_pct": 94.16,
+      "to_fetch": 231,
+      "videos": 3954
     }
   ],
-  "generated_at": "2026-10-07T14:33:45.379435+00:00"
+  "generated_at": "2026-10-08T01:03:13.678343+00:00"
 }
