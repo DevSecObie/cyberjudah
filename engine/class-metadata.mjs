@@ -18,6 +18,15 @@ export function loadClassMetadata(root) {
   const file = path.join(root, 'data/sources/class-teachers.tsv');
   return fs.existsSync(file) ? parseClassMetadata(fs.readFileSync(file, 'utf8')) : new Map();
 }
+/** Actual broadcast starts; the class date stays independent of UTC midnight and upload day. */
+export function loadClassBroadcasts(root) {
+  const file = path.join(root, 'data/sources/class-broadcasts.json');
+  const rows = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
+  for (const [video, row] of Object.entries(rows)) {
+    if (!/^[\w-]{11}$/.test(video) || !row || !/^\d{4}-\d{2}-\d{2}$/.test(row.date) || !Number.isFinite(Date.parse(row.date)) || new Date(row.date).toISOString().slice(0, 10) !== row.date || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(row.broadcastAt) || !Number.isFinite(Date.parse(row.broadcastAt))) throw new Error(`Invalid broadcast metadata for ${video}`);
+  }
+  return rows;
+}
 export function correctedClass(record, overrides, video = record.videoId ?? record.video) {
   const correction = overrides.get(video);
   return correction ? { ...record, ...correction, year: correction.date.slice(0,4), dateEstimated: false } : record;

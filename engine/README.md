@@ -63,6 +63,7 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/xref/<book-slug>/<chapter>.json` | cross references per verse |
 | `api/web/<book-slug>/<chapter>.json` | the World English Bible text, per verse |
 | `search/classes.json`, `search/captains.json` | browse feeds: title, url, date, teacher, thumb, books, topics |
+| `api/classes/broadcasts.json` | video ID → `{date, broadcastAt}`: the class's calendar date and verified broadcast start in UTC |
 | `search/topics.json`, `search/books.json`, `search/laws.json`, `search/precepts.json`, `search/cases.json` | small indexes for browse pages |
 | `pagefind/` | a sharded full-text index; load `pagefind/pagefind.js` and search every verse, note, law, precept and case |
 | `search.sql.gz` | the search index as SQL: one FTS5 table `search_docs(kind, title, url, sub, text, book, chapter)`, every verse a row, notes split at headings into pieces of a few KB, laws, precepts and cases one row each; the site loads it into Cloudflare D1 on every publish |
@@ -152,3 +153,19 @@ in this repository; the environment name alone does not enforce approval.
 ### Precept playback corrections
 
 A pass precept may carry an optional `ts` (`m:ss` or `h:mm:ss`). Its links in both directions use that moment; omitting it retains the opened passage's timestamp. Explanations and references are unchanged. `scripts/precepts/classes.py check` rejects invalid calendar dates and timestamp components and retains the exact KJV quote check. Data edits still require exactly one pass per PR; checker/reader implementation changes without pass data are allowed separately. CMS publication requires both `validate` and `check`. Production approval remains separate.
+
+### Broadcast order
+
+`data/sources/class-broadcasts.json` preserves YouTube's completed-stream
+`playerMicroformatRenderer.liveBroadcastDetails.startTimestamp`, verified against
+that renderer's `externalVideoId`. This is the broadcast start, not the recording's
+upload/publication timestamp. The initial backfill covers 184 completed broadcasts
+from the published Sabbath-class catalog plus Haiti: The Rise After the Ruin,
+checked on 2026-10-08 UTC. Each source is `https://www.youtube.com/watch?v=<videoId>`.
+The stored `date` retains the class's existing calendar day even when a broadcast
+crosses midnight UTC. Missing timestamps are left unknown.
+
+The transcript harvester records the same metadata as new transcripts arrive.
+A failed metadata lookup does not block transcript ingestion or invent a time.
+Consumers can show newest dates first and sort each date by ascending
+`broadcastAt`; unavailable metadata must not hide the class or its notes.

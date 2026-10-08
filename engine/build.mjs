@@ -1,6 +1,6 @@
 import { validatePeople, personPicture } from "./people-validation.mjs";
 
-import { correctedClass, classCatalog } from "./class-metadata.mjs";
+import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
 // The CyberJudah content engine.
 //
 //   node engine/build.mjs [--out dist] [--site https://cyberjudah.io] [--no-thumbs]
@@ -88,6 +88,7 @@ const readVideos = fs.existsSync(path.join(READINGS, "videos.json")) ? JSON.pars
 for (const [video, row] of Object.entries(readVideos)) readVideos[video] = correctedClass(row, L.classMetadata, video);
 writeJson(path.join(API, "classes", "metadata.json"), classCatalog(readVideos, notes, L.classMetadata));
 writeJson(path.join(API, "classes", "corrections.json"), Object.fromEntries(L.classMetadata));
+writeJson(path.join(API, "classes", "broadcasts.json"), loadClassBroadcasts(ROOT));
 const noteByVideo = new Map(L.notes.filter((n) => n.videoId).map((n) => [n.videoId, n]));
 const hms = (s) => { const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), x = s % 60; return h ? `${h}:${String(m).padStart(2, "0")}:${String(x).padStart(2, "0")}` : `${m}:${String(x).padStart(2, "0")}`; };
 const teacherRank = (t) => (/^bishop\b/i.test(t ?? "") ? 0 : /^deacon\b/i.test(t ?? "") ? 1 : 2);
