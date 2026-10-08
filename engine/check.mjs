@@ -2,6 +2,7 @@ import fs from "node:fs";
 import { execFileSync } from "node:child_process";
 import { validatePeople } from "./people-validation.mjs";
 import { changedPersonIds, validateReciprocity } from "./people-reciprocity.mjs";
+import { validatePeopleEvidence } from "./people-evidence.mjs";
 // The link checker. The Docusaurus build used to be the gate (onBrokenLinks: throw); this
 // does the same job against the library itself, in a few seconds, with no site build:
 // every site-relative link in every note must point at a chapter, verse, note, law,
@@ -11,6 +12,8 @@ import { changedPersonIds, validateReciprocity } from "./people-reciprocity.mjs"
 //   PEOPLE_BASE=<commit> node engine/check.mjs       also: every person a batch added or
 //                                                    edited since <commit> names its family
 //                                                    back (engine/people-reciprocity.mjs)
+//                                                    and cites only verses that name them
+//                                                    (engine/people-evidence.mjs)
 import { loadLibrary } from "./library.mjs";
 import { validVerseRange, duplicateUrls } from "./validation.mjs";
 import { validateCases } from "./case-validation.mjs";
@@ -33,6 +36,9 @@ if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives 
   const changed = changedPersonIds(beforeDoc, peopleDoc);
   peopleProblems.push(...validateReciprocity(peopleDoc, changed, exceptions));
   console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for two-way relationships`);
+  const { exceptions: evidenceExceptions } = JSON.parse(fs.readFileSync(path.join(ROOT, "engine/people-evidence-exceptions.json"), "utf8"));
+  peopleProblems.push(...validatePeopleEvidence(peopleDoc, changed, { bibleDir: path.join(ROOT, "data/bible"), exceptions: evidenceExceptions }));
+  console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for scripture evidence`);
 }
 if (peopleProblems.length) { for (const message of peopleProblems) console.error(message); process.exit(1); }
 const L = loadLibrary(ROOT);
