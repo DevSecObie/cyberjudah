@@ -23,6 +23,8 @@ jobs:
           PEOPLE_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: node engine/check.mjs
       - run: node --test engine/strongs-pages.test.mjs engine/class-metadata.test.mjs engine/people-validation.test.mjs engine/people-reciprocity.test.mjs
+      - run: python3 -m unittest discover -s scripts/audio -p 'test_*.py'
+      - run: python3 scripts/audio/recordings.py check
       - run: npm test --prefix site
       - run: npm run build --prefix site
       - run: npx --prefix site playwright install --with-deps chromium

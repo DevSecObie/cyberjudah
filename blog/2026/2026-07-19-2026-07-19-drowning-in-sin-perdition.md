@@ -13,6 +13,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 <!-- truncate -->
 
+<div class="class-video-mount" data-video-id="ND_RbWngH9I"></div>
+
 <figure class="class-hero">
   <img src="/static/class-images/class-nd_rbwngh9i.jpg" alt="Class artwork">
 </figure>
@@ -27,7 +29,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
 ## Scriptures Opened
 
-**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[13:10]*
+**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[13:10](https://www.youtube.com/watch?v=ND_RbWngH9I&t=790s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 >
@@ -70,7 +72,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
 - Y'all better write that stuff down. That's some good stuff. But I know, we're conspiracy theorists. We're crazy. We're a hate group.
 
-**[2 Thessalonians 2:1-3](/bible/2-thessalonians/2#v1)**  *[38:22]*
+**[2 Thessalonians 2:1-3](/bible/2-thessalonians/2#v1)**  *[[38:22](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2302s)]*
 
 > <sup>[1](/bible/2-thessalonians/2#v1)</sup> Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
 >
@@ -94,7 +96,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
     They shall fall by the edge of the sword: the Israelites. And shall be led away captive into all nations: slavery. And Jerusalem shall be trodden down of the Gentiles: Jerusalem shall be taken over by other nations, in particular Edomite nations, until that time of rulership is fulfilled.
 
-**[Revelation 17:8-11](/bible/revelation/17#v8)**  *[42:24]*
+**[Revelation 17:8-11](/bible/revelation/17#v8)**  *[[42:24](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2544s)]*
 
 > <sup>[8](/bible/revelation/17#v8)</sup> The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
 >
@@ -108,7 +110,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 - And yet is: because the attributes of Rome at that time is in America.
 - There are seven kings: five are fallen; and one is: that's Rome. And the other is not yet come; and when he cometh, he must continue a short space: that's Britain. And the beast that was, and is not, even he is the eighth, and is of the seven: remember America comes out of Britain. And goeth into perdition: goes into hell, to destruction. That's the United States of America, Babylon the Great.
 
-**[Romans 9:13-22](/bible/romans/9#v13)**  *[46:28]*
+**[Romans 9:13-22](/bible/romans/9#v13)**  *[[46:28](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2788s)]*
 
 > <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 >
@@ -158,7 +160,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
     This is talking about ancient Egypt. Bring it up to today: the enchantments today is called science, Esau's science, his technology. Upon the destruction of the firstborn, they acknowledged this people to be the sons of God. As it was then, it's going to be now. That's when they're going to acknowledge we're the sons of God: when death come, great death.
 
-**[Psalms 50:16-21](/bible/psalms/50#v16)**  *[59:28]*
+**[Psalms 50:16-21](/bible/psalms/50#v16)**  *[[59:28](https://www.youtube.com/watch?v=ND_RbWngH9I&t=3568s)]*
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
@@ -182,7 +184,7 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 - These things hast thou done, and I kept silence: that's what Romans 9 means by endured with much longsuffering. Some people say, I don't believe in God; why didn't he save us during slavery, during Jim Crow? He said, I saw all these things and I kept silent. I'm waiting.
 - Thou thoughtest that I was altogether such an one as thyself: the white man said, well, God ain't judging us, so surely he's a white man. But I will reprove thee, and set them in order before thine eyes: and set the Israelites, the children of Jacob, in order right before you. That's what y'all see right now.
 
-**[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[1:07:59]*
+**[Deuteronomy 23:7](/bible/deuteronomy/23#v7)**  *[[1:07:59](https://www.youtube.com/watch?v=ND_RbWngH9I&t=4079s)]*
 
 > <sup>[7](/bible/deuteronomy/23#v7)</sup> Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
 
@@ -222,7 +224,7 @@ Book read in class: Modern Judaism, or a brief account of the opinions, traditio
 - "Secondly, that the prophecies of the prophets against Esau, Edom, Seir, and the cities of Edom, especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment; but that though the house of Esau has experienced some particular judgments of God on account of the injuries at different periods of time inflicted upon Israel" (World War I, World War II), "yet the final vengeance on account of that last and greatest injury, the destruction of the second temple by Titus and the transportation of the Jews into captivity in which they are still most appropriately detained, is yet impending over it, to be executed in the time of the Messiah. And that the fate of Christians at that time will be far more dreadful than that of Mohammedans. Abarbanel particularly says the slaughter of the Turks in the future battle will not be so great as that of the Christians; for many of the Turks will escape, according to Isaiah 66:19, but of the Christians, Obadiah says there shall not be any remaining of the house of Esau."
 - Now that's what the scholars think. So don't let nobody tell you the white man is Japheth. It's all a lie. Why? Cuz they love Esau; they want to save the white man. And these coon Israelites will purposely read no scriptures about judgment, vengeance, death, destruction on the nations. They will purposely avoid like Revelation 13:9 and 10. Why? Because they'll have Edomites sprinkled throughout the congregation.
 
-**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[1:28:51]*
+**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[1:28:51](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5331s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 >
@@ -244,7 +246,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
     The king shall do according to his will, and he shall exalt himself, and magnify himself above every god: this is saying the same thing we just read in Thessalonians.
 
-**[2 Thessalonians 2:5-7](/bible/2-thessalonians/2#v5)**  *[1:41:20]*
+**[2 Thessalonians 2:5-7](/bible/2-thessalonians/2#v5)**  *[[1:41:20](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6080s)]*
 
 > <sup>[5](/bible/2-thessalonians/2#v5)</sup> Remember ye not, that, when I was yet with you, I told you these things?
 >
@@ -262,7 +264,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
     We went here because of the mystery of iniquity. Here it says Mystery, Babylon the Great: that's the nation, the kingdom of perdition. That's the United States of America, and everyone that follows her policies.
 
-**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[1:45:31]*
+**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[1:45:31](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6331s)]*
 
 > <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
 >
@@ -279,14 +281,14 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 - And they shall call them the border of wickedness: the border meaning the beginning and the ending of wickedness is Edom. And the people against whom the Lord hath indignation for ever: God has righteous anger forever.
 - Deacon: when we on Clubhouse they like to go, that's your interpretation, until we pull out the Zondervan Bible dictionary and look up Edom, and it says they're the scene of great future judgment. White people put that dictionary together, not us.
 
-**[Isaiah 14:20](/bible/isaiah/14#v20)**  *[1:49:38]*
+**[Isaiah 14:20](/bible/isaiah/14#v20)**  *[[1:49:38](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6578s)]*
 
 > <sup>[20](/bible/isaiah/14#v20)</sup> Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned.
 
 - When you read verse 4: take up this proverb against the king of Babylon; that's Babylon the great. Thou shalt not be joined with them in burial: Babylon, Edom shall not be joined with the other nations in burial. Because thou hast destroyed thy land: they allowed 9/11 to happen, they allowed COVID to happen. And slain thy people: they're the ones that slay their own people.
 - The seed of evildoers shall never be renowned. Definition read in class: renown means celebrated, famous, or widely recognized for a specific skill, achievement or quality; it typically implies that someone is not just widely known but highly respected and esteemed within their field. What race on earth is celebrated? It ain't China; it's this white man that's celebrated, famous, recognized for technology, most highly respected on the earth. They ain't going to be respected no more. Right now they are held in such high esteem, especially amongst black women; you got some black men in the church that hold them in high esteem. That Brandon Tatum, that dude simple as hell.
 
-**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[1:49:38]*
+**[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[1:49:38](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6578s)]*
 
 > <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
@@ -300,7 +302,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
     Lift ye up a banner upon the high mountain: the banner is the Bible. Exalt your voice unto them; shake the hand: reprove them, correct them. That they may go into the gates of the nobles: that they may go to the Edomites; it ain't black people, the nobles is white folks. I have commanded my sanctified ones: that's us. I have also called my mighty ones for mine anger: the mighty ones is the angels.
 
-**[Hebrews 10:32-39](/bible/hebrews/10#v32)**  *[1:53:48]*
+**[Hebrews 10:32-39](/bible/hebrews/10#v32)**  *[[1:53:48](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6828s)]*
 
 > <sup>[32](/bible/hebrews/10#v32)</sup> But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;
 >
@@ -325,7 +327,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 - For ye have need of patience, that, after ye have done the will of God, ye might receive the promise. So Paul was encouraging them, and that's the same way we got to encourage one another.
 - But if any man draw back: if any one of you men or women draw back from this truth, you want to do your own little thing, I'mma be a Muslim, I'mma go back to the Christian church: my soul shall have no pleasure in him. But we are not of them who draw back unto perdition: we got to be resolved in our mind and spirit. Why does it say draw back unto perdition? Because you're joining the white man. That's what you're doing.
 
-**[2 Esdras 16:68-74](/bible/2-esdras/16#v68)**  *[1:58:02]*
+**[2 Esdras 16:68-74](/bible/2-esdras/16#v68)**  *[[1:58:02](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7082s)]*
 
 > <sup>[68](/bible/2-esdras/16#v68)</sup> For, behold, the burning wrath of a great multitude is kindled over you, and they shall take away certain of you, and feed you, being idle, with things offered unto idols.
 >
@@ -347,7 +349,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 - They shall be like mad men, sparing none: it's not going to be the whole country. Remember Christ said if they persecute you in one city, flee to another; that means there's going to be some cities, some states that's going to be relatively calm. We just got to identify where can we go to run from this.
 - For they shall waste and take away their goods: that's what happened in Hebrews 10:34. Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
 
-**[Philippians 1:27-30](/bible/philippians/1#v27)**  *[2:02:08]*
+**[Philippians 1:27-30](/bible/philippians/1#v27)**  *[[2:02:08](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7328s)]*
 
 > <sup>[27](/bible/philippians/1#v27)</sup> Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
 >
@@ -363,7 +365,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 - And in nothing terrified by your adversaries: you have enemies out there who despise the gospel. I don't see how Christians read this and get love for everybody. Which is to them an evident token of perdition: an evident sign of hell, destruction. Why? They took homes, they took houses, they put people to death; remember what they did to James, and John. But to you of salvation: I'm going through this; this is a sign of salvation for us.
 - For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake. It's not enough just to believe. Everybody in here say they believe, but how many of us are willing to suffer for his sake?
 
-**[Wisdom of Solomon 3:1-6](/bible/wisdom-of-solomon/3#v1)**  *[2:06:37]*
+**[Wisdom of Solomon 3:1-6](/bible/wisdom-of-solomon/3#v1)**  *[[2:06:37](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7597s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/3#v1)</sup> But the souls of the righteous are in the hand of God, and there shall no torment touch them.
 >
@@ -382,7 +384,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 - Misery because they say you could have had a good job, you could have been working on a Sabbath making big money, a mansion, a yacht, and a string of polo ponies, and a white woman on your arm. But no, you decided you wanted Shaquita over there, and you wanted to ride a bus or a train and have that job where you don't work on a Sabbath. That's what you chose.
 - And having been a little chastised, they shall be greatly rewarded: you see what God's calling it? A little chastisement. I know for the moment you're in pain, but it's just a little chastisement. For God proved them, and found them worthy for himself. As gold in the furnace hath he tried them, and received them as a burnt offering: so the death of the righteous is like a burnt offering to the Lord.
 
-**[2 Thessalonians 2:8-9](/bible/2-thessalonians/2#v8)**  *[2:10:39]*
+**[2 Thessalonians 2:8-9](/bible/2-thessalonians/2#v8)**  *[[2:10:39](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7839s)]*
 
 > <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 >
@@ -431,7 +433,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
     He maketh fire come down from heaven on the earth in the sight of men: that's thermonuclear fire. And deceiveth them by the means of those miracles: see what it's calling it? Miracles. That's signs and wonders; saying the same thing Matthew 24 is saying, but it's a different word.
 
-**[2 Thessalonians 2:10](/bible/2-thessalonians/2#v10)**  *[2:18:56]*
+**[2 Thessalonians 2:10](/bible/2-thessalonians/2#v10)**  *[[2:18:56](https://www.youtube.com/watch?v=ND_RbWngH9I&t=8336s)]*
 
 > <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 
@@ -482,7 +484,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 - Why did I show those videos? Because of this verse here: because they received not the love of the truth, that they might be saved. That's why the teaching is blasphemous: when they say God's laws are done away with, that's blasphemy, and the white man taught them that; the Catholic Church, then the Protestant church picked it up and pushes it worldwide.
 
-**[2 Thessalonians 2:11-15](/bible/2-thessalonians/2#v11)**  *[2:35:45]*
+**[2 Thessalonians 2:11-15](/bible/2-thessalonians/2#v11)**  *[[2:35:45](https://www.youtube.com/watch?v=ND_RbWngH9I&t=9345s)]*
 
 > <sup>[11](/bible/2-thessalonians/2#v11)</sup> And for this cause God shall send them strong delusion, that they should believe a lie:
 >
@@ -515,7 +517,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 
 - That's some good stuff right there.
 
-**[Matthew 8:11](/bible/matthew/8#v11)**  *[2:39:55]*
+**[Matthew 8:11](/bible/matthew/8#v11)**  *[[2:39:55](https://www.youtube.com/watch?v=ND_RbWngH9I&t=9595s)]*
 
 > <sup>[11](/bible/matthew/8#v11)</sup> And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 
@@ -534,7 +536,7 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
     Deacon: they always like to go to Abraham like that is going to get the other nations in. Paul had to clean it up: neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. The calling is on Isaac: Abraham, Isaac, Jacob, 12 tribes. That cuts his stuff about bringing up Abraham. You just close your Bible up and sit down.
 - But what's that prove? That our teachings is in his school, his church. He's trying to do a cleanup. The mere fact that he has to address it is impacting the church. I'm telling y'all right now, it's impacting it.
 
-**[2 Peter 3:3-11](/bible/2-peter/3#v3)**  *[2:48:34]*
+**[2 Peter 3:3-11](/bible/2-peter/3#v3)**  *[[2:48:34](https://www.youtube.com/watch?v=ND_RbWngH9I&t=10114s)]*
 
 > <sup>[3](/bible/2-peter/3#v3)</sup> Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
 >
@@ -597,4 +599,4 @@ Closing reading: 1 Corinthians 11:23-29, the bread and the cup, in remembrance o
 
 ---
 
-[Class Notes Index](/classes)
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=ND_RbWngH9I)
