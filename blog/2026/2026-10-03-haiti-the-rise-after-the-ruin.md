@@ -4,7 +4,7 @@ slug: "2026/2026-10-03-haiti-the-rise-after-the-ruin"
 date: "2026-10-03"
 description: "Haiti's rise after ruin"
 tags: ["IUIC in the ClassRoom", "haiti", "israel", "captivity", "marriage-family", "witchcraft"]
-teacher: "Bishop"
+teacher: "Bishop Nathanyel"
 draft: true
 ---
 
