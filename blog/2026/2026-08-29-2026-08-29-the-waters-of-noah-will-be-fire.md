@@ -2,7 +2,7 @@
 title: "THE WATERS OF NOAH WILL BE FIRE"
 slug: "2026/2026-08-29-the-waters-of-noah-will-be-fire"
 date: "2026-08-29"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-08-29"
 tags: ["IUIC in the ClassRoom", "deceit"]
 ---
@@ -23,7 +23,7 @@ Both bishops in town. Men of Israel, blow trumpets. Trumpets down.
 
 Men Israel, sons of God, patient saints, sons of God, hand salute. Most High Christ. Salute down. Face sisters. To the honorable daughters of Sarah, we say shalom.
 
-Happy new moon, Israel. Happy new moon. It is a great opportunity to come out here and spend a Sabbath with you all, keep the new moon. This is going to be an epic weekend. This class is going to be epic. I do not know the title of it, but it is going to be epic anyway. Thank you all for the hospitality thus far. You have been doing a fantastic job. The school looks fantastic. I told Bishop Yawasop, this is one of my favorite locations as far as housekeeping. It is good to be here. Happy Sabbath everybody online. Most High Christ bless you all.
+Happy new moon, Israel. Happy new moon. It is a great opportunity to come out here and spend a Sabbath with you all, keep the new moon. This is going to be an epic weekend. This class is going to be epic. I do not know the title of it, but it is going to be epic anyway. Thank you all for the hospitality thus far. You have been doing a fantastic job. The school looks fantastic. I told Bishop Yawasap, this is one of my favorite locations as far as housekeeping. It is good to be here. Happy Sabbath everybody online. Most High Christ bless you all.
 
 Shalom brothers and sisters. Happy Sabbath. All praise to the Lord. We seek to move mountains to get the bishops up in here, my brethren. All praise to the Lord. Bishop Kani, Bishop Nathanyel, it is always an honor to have you back here in Gastonia. The inspiration of my friend, and the Most High putting the spirit on him to give us the spirit to do the things that we do in IUIC, is all glory to the Father. But for us to be able to come together and deliver the word of God to our brothers and sisters that are not only here in the congregation but also to those watching online, we are honored by the Most High to be allowed to come into your homes, to come into your hearts and minds, and we seek to bring you the word of God. I am thrilled to have these men here. I am thrilled to have the deacons here, captains, all praises to the Most High. And to the wonderful sisters that support these great men, the wives and all that. It is a lot of work that is required to continue to stand up against evil, to stand up with the fortress of righteousness, and to continue to push through the evil so that we can get to the kingdom. And we thank all of y'all for supporting, being an aid, wives, daughters, sons, brothers, men, women, everybody that seeks the kingdom as we do.
 

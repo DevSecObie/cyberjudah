@@ -4,7 +4,7 @@ slug: "2026/2026-09-19-the-decayed-state-of-liberal-women"
 date: "2026-09-19"
 description: "IUIC in the ClassRoom · 2026-09-19"
 tags: ["IUIC in the ClassRoom", "marriage-family", "mental-health", "women"]
-teacher: "Deacon Malachi"
+teacher: "Deacon Malachiyah"
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-19</p>

@@ -1,5 +1,6 @@
 import { renderErrorPage } from "./lib/error-page";
 import { applySecurityHeaders } from "./lib/security-headers.server";
+import { launchPath } from "./lib/telegram-links.mjs";
 
 type ServerEntry = { fetch: (request: Request, env: unknown, ctx: unknown) => Promise<Response> | Response };
 let serverEntryPromise: Promise<ServerEntry> | undefined;
@@ -21,6 +22,14 @@ export default {
     if (url.pathname.length > 1 && url.pathname.endsWith("/")) {
       url.pathname = url.pathname.replace(/\/+$/, "");
       return Response.redirect(url.toString(), 301);
+    }
+    // A Telegram launch (t.me/<bot>/<app>?startapp=john_3_16) arrives with the start param in
+    // the query; send it straight to the app screen it names. The target carries no fragment of
+    // its own, so the browser keeps Telegram's #tgWebAppData across the redirect.
+    const start = url.searchParams.get("tgWebAppStartParam");
+    if (start && (url.pathname === "/" || url.pathname === "/app")) {
+      const target = launchPath(start);
+      if (target !== url.pathname) return new Response(null, { status: 302, headers: { location: target, "cache-control": "no-store" } });
     }
     try {
       const handler = await getServerEntry();

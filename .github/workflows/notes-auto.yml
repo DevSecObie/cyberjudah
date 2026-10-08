@@ -1,0 +1,59 @@
+name: Write class notes
+
+# Writes the study-guide note of the newest class that has a transcript and no note
+# (scripts/notes/auto.py) through the API, on demand. The five-hourly schedule runs as a
+# Claude Code routine instead, which writes the same notes on the plan rather than the API;
+# this is the fallback when that is not running. Needs the ANTHROPIC_API_KEY secret.
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: How many notes to write this run
+        default: "1"
+      video:
+        description: One video id to write instead of the queue (optional)
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: write-notes
+  cancel-in-progress: false
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: python3 -m pip install --upgrade anthropic
+
+      - name: Write the notes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LIMIT: ${{ inputs.limit || '1' }}
+          VIDEO: ${{ inputs.video }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          args=(--limit "$LIMIT" --commit)
+          [[ -n "$VIDEO" ]] && args+=(--video "$VIDEO")
+          python3 scripts/notes/auto.py "${args[@]}" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ "$(git rev-list --count origin/main..HEAD)" == "0" ]]; then echo "Nothing written."; exit 0; fi
+          for attempt in 1 2 3; do
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then exit 0; fi
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+            sleep $((attempt * 3))
+          done
+          exit 1

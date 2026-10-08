@@ -1,0 +1,4 @@
+{
+  "_readme": "Documented exceptions to engine/people-reciprocity.mjs's two-way check, as \"id|kind|otherId\". Add one only when the text itself gives a one-directional relation that cannot be completed the other way (for example, a parent named only in a genealogy whose own record the catalog does not carry). Say why in the batch's commit message; do not add an entry to silence a link that was simply forgotten.",
+  "exceptions": []
+}

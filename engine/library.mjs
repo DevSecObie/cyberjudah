@@ -10,6 +10,7 @@
 //   data/handbook.json, data/precepts.json, data/cases.json         the reference works
 //   data/lexicon.tsv, data/topics.tsv                               encyclopedia terms, topic labels
 //   data/crossrefs.json, data/web-translation.json                  cross references, WEB parallel
+import { loadClassMetadata, correctedClass } from "./class-metadata.mjs";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -71,6 +72,7 @@ function parseFrontmatter(text) {
 const tagList = (v) => [...String(v ?? "").matchAll(/"((?:[^"\\]|\\.)*)"/g)].map((m) => m[1].replace(/\\(["\\])/g, "$1"));
 
 export function loadLibrary(ROOT) {
+  const classMetadata = loadClassMetadata(ROOT);
   const DATA = path.join(ROOT, "data");
   const DOCS = path.join(ROOT, "docs");
   const BLOG = path.join(ROOT, "blog");
@@ -85,7 +87,9 @@ export function loadLibrary(ROOT) {
   const bookNum = Object.fromEntries(BOOKS.map((b, i) => [b, i + 1]));
   const testament = (b) => (APOC.includes(b) ? "Apocrypha" : CANON.indexOf(b) < 39 ? "Old Testament" : "New Testament");
   const bible = {};
-  for (const e of bibleIndex) bible[e.book] = json(path.join(DATA, "bible", e.slug + ".json")).chapters;
+  // A book's prologue (the 1611's two before Ecclesiasticus) is not a verse: it rides with chapter 1.
+  const prologues = {};
+  for (const e of bibleIndex) { const f = json(path.join(DATA, "bible", e.slug + ".json")); bible[e.book] = f.chapters; if (f.prologue) prologues[e.book] = f.prologue; }
   const CHAPTERS = Object.fromEntries(bibleIndex.map((e) => [e.book, e.chapters]));
   const abbr = (b) => ABBR[b] ?? b;
   // Greek Esther exists only as the Additions (chapters 10-16). A reference to 1-9 in that
@@ -206,6 +210,102 @@ export function loadLibrary(ROOT) {
     }
   }
 
+  // Precepts lined up with the scripture they were taught under. A class note opens a
+  // scripture as a bold linked heading at the start of a line; the precepts the teacher
+  // paired with it are the indented "Precepts:" list beneath, each a bold link, the verse
+  // quoted, then his line about it. Both ends are kept: the chapter opened learns the
+  // precepts, and the precept's chapter learns where it was opened.
+  const linked = new Map(); // "Book|ch" -> [{verses, kind, ref, text, note, ts}]
+  const link = (r, row) => { const k = `${r.book}|${r.chapter}`; if (!linked.has(k)) linked.set(k, []); linked.get(k).push({ verses: r.verses || "", ...row }); };
+  const HEAD = /^\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*(?:\s+\*\[\[?([\d:]+)\]?\(([^)]*)\)\]\*)?/;
+  // The moments a class read a scripture: the verses, the class, and its recording at that
+  // second, so the Bible can link a verse straight to where it was taught.
+  const moments = new Map(); // "Book|ch" -> [{verses, label, url, date, video, t, ts}]
+  const secondsOf = (ts) => ts.split(":").reduce((a, x) => a * 60 + Number(x || 0), 0);
+  // The class's own breakdown of a scripture it opened, the points under it in the note, each
+  // placed on the verse of the passage it speaks to (the one it shares the most words with;
+  // a point that speaks to none in particular is left off), for the verse's Comments.
+  const commentary = new Map(); // "Book|ch" -> [{verses, points[], note, ts, video, t}]
+  // The passages each note opened, in order, with the precepts under each: note url -> [{book, chapter, verses, label, ts, video, t, precepts[], points}]. Topic threads are strung from these.
+  const openedBy = new Map();
+  const STOPW = new Set("the and that unto shall this with them they their thou thee thy for from was were have hath which what when then there his him her not all but his our you your ye are into upon".split(" "));
+  const wordsOf = (t) => new Set((t.toLowerCase().match(/[a-z]{3,}/g) ?? []).filter((w) => !STOPW.has(w)));
+  const verseList = (spec, n) => { if (!spec) return Array.from({ length: n }, (_, i) => i + 1); const out = []; for (const part of spec.split(",")) { const [a, b] = part.split("-").map(Number); for (let v = a; v <= (b || a); v++) if (v >= 1 && v <= n) out.push(v); } return out; };
+  const placePoints = (opened, pts, row) => {
+    const texts = bible[opened.book]?.[opened.chapter] ?? [];
+    const vs = verseList(opened.verses, texts.length);
+    if (!vs.length || !pts.length) return;
+    const by = new Map();
+    for (const pt of pts) {
+      const w = wordsOf(pt); let best = vs[0], score = 0;
+      if (vs.length > 1) for (const v of vs) { let s = 0; for (const x of wordsOf(texts[v - 1] ?? "")) if (w.has(x)) s++; if (s > score) { best = v; score = s; } }
+      // A point that speaks to no verse of the passage in particular is not a comment on any
+      // one of them, so it is left off rather than put on the first.
+      if (vs.length > 1 && score < 2) continue;
+      const at = best;
+      if (!by.has(at)) by.set(at, []); by.get(at).push(pt);
+    }
+    const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);
+    for (const [v, list] of [...by].sort((a, b) => a[0] - b[0])) commentary.get(k).push({ verses: String(v), passage: opened.label, points: list, ...row });
+  };
+  const PRECEPT = /^\s+-\s+\*\*\[([^\]]+)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)\*\*/;
+  const refOf = (label, bslug, ch, anchor) => {
+    const book = bookBySlug[bslug]; if (!book || !bible[book]?.[ch]) return null;
+    const lm = /:([\d,\-]+)$/.exec(label.trim());
+    return { book, chapter: +ch, verses: lm ? lm[1] : anchor || "", label: label.trim(), url: `/bible/${bslug}/${ch}${anchor ? "#v" + anchor : ""}` };
+  };
+  // The "Precept(s)" breakdowns, one or two sentences on why each precept is there, written
+  // from the class by scripts/precepts/why.py and keyed "<note file>|<scripture opened>|<precept>".
+  const whyFile = path.join(DATA, "precepts", "why.json");
+  const WHY = fs.existsSync(whyFile) ? JSON.parse(fs.readFileSync(whyFile, "utf8")) : {};
+  // The verse each precept explains when the class opened a range (scripts/precepts/at.py):
+  // the precept shows under that verse rather than piled on the first verse of the range.
+  const atFile = path.join(DATA, "precepts", "at.json");
+  const AT = fs.existsSync(atFile) ? JSON.parse(fs.readFileSync(atFile, "utf8")) : {};
+  // Who taught each passage of a note, when a class had several teachers or the note names
+  // none: "<note file>|<scripture opened>" -> "Bishop Nathanyel". The Bishops' and Deacons'
+  // teaching is shown first wherever several classes speak to a verse.
+  const teachersFile = path.join(DATA, "precepts", "teachers.json");
+  const TEACHERS = fs.existsSync(teachersFile) ? JSON.parse(fs.readFileSync(teachersFile, "utf8")) : {};
+  function scanPrecepts(body, n) {
+    const classNote = { label: n.title, url: n.url, date: n.date || "", teacher: n.teacher || "" };
+    let note = classNote;
+    const lines = body.split("\n");
+    let opened = null, ts = "", precept = null, point = "", video = null, points = [], passage = null;
+    const closePassage = () => { if (opened && points.length) placePoints(opened, points, { note, ts, video, t: ts ? secondsOf(ts) : 0 }); if (passage) passage.points = points.length; points = []; };
+    const flush = () => {
+      if (!opened || !precept) return;
+      const text = precept.text.join(" ").replace(/\s+/g, " ").trim();
+      const key = `${n.file}|${opened.label}|${precept.ref.label}`;
+      const why = WHY[key];
+      const at = AT[key]?.v;
+      link(at ? { ...opened, verses: at } : opened, { kind: "precept", ref: precept.ref, text, point, note, ts, ...(why ? { why } : {}) });
+      link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts, ...(why ? { why } : {}) });
+      if (passage) passage.precepts.push({ label: precept.ref.label, url: precept.ref.url, ...(why ? { why } : {}) });
+      precept = null;
+    };
+    for (const raw of lines) {
+      const h = HEAD.exec(raw);
+      if (h) {
+        flush(); closePassage(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = "";
+        const who = opened && TEACHERS[`${n.file}|${opened.label}`]; note = who ? { ...classNote, teacher: who } : classNote;
+        video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
+        if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", teacher: note.teacher, video, t: secondsOf(ts), ts }); }
+        passage = opened ? { book: opened.book, chapter: opened.chapter, verses: opened.verses || "", label: opened.label, url: opened.url, ts, video, t: ts ? secondsOf(ts) : 0, teacher: note.teacher || "", precepts: [], points: 0 } : null;
+        if (passage) { if (!openedBy.has(n.url)) openedBy.set(n.url, []); openedBy.get(n.url).push(passage); }
+        continue;
+      }
+      if (!opened) continue;
+      const pm = PRECEPT.exec(raw);
+      if (pm) { flush(); const ref = refOf(pm[1], pm[2], pm[3], pm[4]); precept = ref ? { ref, text: [] } : null; continue; }
+      if (/^- /.test(raw)) { flush(); point = plain(raw.slice(2)); points.push(point); continue; }
+      if (/^\S/.test(raw) && !/^>/.test(raw)) { flush(); if (/^#/.test(raw)) { closePassage(); opened = null; } continue; }
+      if (precept && /^\s{4}\S/.test(raw) && !/^\s*>/.test(raw) && !/^\s*Precepts:/.test(raw)) precept.text.push(plain(raw));
+    }
+    flush(); closePassage();
+  }
+
+  for (let i = 0; i < notes.length; i++) if (["class", "captains"].includes(notes[i].kind)) notes[i] = correctedClass(notes[i], classMetadata);
   const sortDated = (list) => list.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
   const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
   const studyNotes = studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]));
@@ -217,6 +317,50 @@ export function loadLibrary(ROOT) {
   // same order the site has always used: notes, cases, laws, precepts.
   const historyNoteList = notes.filter((n) => n.kind === "history");
   for (const n of [...studyNotes, ...classNotes, ...captainNotes, ...encNotes, ...historyNoteList]) scanCitations(n.body, noteSelf(n));
+  // Study notes too: their breakdown of each passage is a verse's comment like a class's.
+  for (const n of [...classNotes, ...captainNotes, ...studyNotes]) scanPrecepts(n.body, n);
+  // Classes with no study note yet: their precept passes (data/precepts/classes/<video>.json,
+  // checked by scripts/precepts/classes.py) add the same precepts, moments and breakdowns.
+  // A class that has since got its note is read from the note instead.
+  const notedVideos = new Set([...classNotes, ...captainNotes].map((n) => n.videoId).filter(Boolean));
+  const passDir = path.join(DATA, "precepts", "classes");
+  const BOOK_ALIAS = { ecclesiasticus: "sirach", "wisdom of sirach": "sirach", "rest of esther": "esther-greek", "the rest of esther": "esther-greek", "esther (greek)": "esther-greek", "the wisdom of solomon": "wisdom-of-solomon", "song of the three holy children": "song-of-the-three-children", "the song of the three holy children": "song-of-the-three-children", "history of susanna": "susanna", "the history of susanna": "susanna", "prayer of manasses": "prayer-of-manasseh", "the prayer of manasses": "prayer-of-manasseh", "epistle of jeremy": "epistle-of-jeremiah", psalm: "psalms", "song of songs": "song-of-solomon" };
+  const slugByName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => [b.toLowerCase(), sl]));
+  const refFrom = (label) => {
+    const m = /^\s*(.+?)\s+(\d+)(?::\s*([\d,\s\-–]+))?\s*$/.exec(String(label)); if (!m) return null;
+    const name = m[1].trim().toLowerCase().replace(/\./g, "");
+    const sl = slugByName[name] ?? BOOK_ALIAS[name]; const book = sl && bookBySlug[sl];
+    if (!book || !bible[book]?.[m[2]]) return null;
+    const verses = (m[3] ?? "").replace(/\s+/g, "").replace(/–/g, "-");
+    const first = verses ? verses.split(/[-,]/)[0] : "";
+    return { book, chapter: +m[2], verses, label: String(label).trim(), url: `/bible/${sl}/${m[2]}${first ? "#v" + first : ""}` };
+  };
+  const passFiles = fs.existsSync(passDir) ? fs.readdirSync(passDir).filter((f) => f.endsWith(".json")).sort() : [];
+  let passPrecepts = 0;
+  for (const f of passFiles) {
+    const c = correctedClass(JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8")), classMetadata);
+    if (!c.video || notedVideos.has(c.video)) continue;
+    const classNote = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: c.teacher || "" };
+    for (const p of c.passages ?? []) {
+      const opened = refFrom(p.opened); if (!opened) continue;
+      const note = p.teacher ? { ...classNote, teacher: p.teacher } : classNote;
+      const ts = p.ts || "", t = ts ? secondsOf(ts) : 0;
+      if (ts) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses, label: c.title, url: note.url, date: note.date, teacher: note.teacher, video: c.video, t, ts }); }
+      for (const s of p.sense ?? []) {
+        if (!s.text) continue;
+        const k = `${opened.book}|${opened.chapter}`; if (!commentary.has(k)) commentary.set(k, []);
+        commentary.get(k).push({ verses: String(s.at || opened.verses.split(/[-,]/)[0] || "1"), passage: opened.label, points: String(s.text).split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean), note, ts, video: c.video, t });
+      }
+      for (const pre of p.precepts ?? []) {
+        const ref = refFrom(pre.ref); if (!ref) continue;
+        const row = { text: "", point: "", note, ts: pre.ts ?? ts, ...(pre.why ? { why: pre.why } : {}) };
+        link(pre.at ? { ...opened, verses: String(pre.at) } : opened, { kind: "precept", ref, ...row });
+        link(ref, { kind: "opened", ref: opened, ...row });
+        passPrecepts++;
+      }
+    }
+  }
+  if (passFiles.length) console.error(`precept passes: ${passFiles.length} classes, ${passPrecepts} precepts`);
   for (const c of cases.cases) for (const r of c.refs) cite(r, "case", c.name, caseUrl(c));
   for (const p of handbook.parts) for (const s of p.sections) for (const e of s.entries) {
     const id = `${s.id}.${e.n}`;
@@ -233,12 +377,12 @@ export function loadLibrary(ROOT) {
     : [];
 
   return {
-    ROOT, DATA,
-    bibleIndex, BOOKS, CHAPTERS, bible, bookSlug, bookBySlug, bookNum, testament, abbr, chapterUrl, bookUrl, verseText, refLabel, resolveChapter,
+    ROOT, DATA, classMetadata,
+    bibleIndex, BOOKS, CHAPTERS, bible, prologues, bookSlug, bookBySlug, bookNum, testament, abbr, chapterUrl, bookUrl, verseText, refLabel, resolveChapter,
     handbook, sectionById, partSlug, partUrl, sectionUrl, lawUrl,
     precepts, sortedPrecepts, preceptUrl, findPrecept,
     cases, ERAS, eraSlug, caseUrl, isBlessing,
     notes, studyNotes, classNotes, captainNotes, encNotes, history, studyBooks, noteByTitle, studyFor, noteLabel,
-    cited, uniqueCitations, lexicon, topics,
+    cited, uniqueCitations, linked, moments, commentary, openedBy, lexicon, topics,
   };
 }

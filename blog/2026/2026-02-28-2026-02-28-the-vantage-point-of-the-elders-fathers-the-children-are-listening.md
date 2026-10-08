@@ -1,0 +1,183 @@
+---
+title: "The Vantage Point of the Elders & Fathers: the Children Are Listening"
+slug: "2026/2026-02-28-the-vantage-point-of-the-elders-fathers-the-children-are-listening"
+date: "2026-02-28"
+teacher: "Bishop Yawasap"
+description: "IUIC in the ClassRoom · 2026-02-28"
+tags: ["IUIC in the ClassRoom", "discipline", "faith", "sexual-purity"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-02-28</p>
+
+<span class="opens"><b>Opens</b> [Deut 28](/bible/deuteronomy/28) · [James 2](/bible/james/2) · [Zeph 3](/bible/zephaniah/3) · [Acts 4](/bible/acts/4) · [Exod 22](/bible/exodus/22) · [1 Cor 15](/bible/1-corinthians/15) · [Lev 19](/bible/leviticus/19)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="e6T83y297Cc"></div>
+
+## Introduction
+
+*[[5:41](https://www.youtube.com/watch?v=e6T83y297Cc&t=341s)]* The vantage point of the elders and fathers, part two: the children are listening. Continuing last week's class, Bishop Yawasap explains why the elders pass down their experience filtered through the Bible: the enemy's objective was always to cut the fathers off so every generation starts from the bottom, and Christianity did to the black mind what chattel slavery failed to do. The elders' job is to set up organizational foundations, real institutions where faith is validated by works, to operate as a nation now while the Lord rises up to the prey, to seize the time, to be warriors against sinful impulses in the sanctuary, and to guard the daughters and discipline the sons. Footage from the Bronx basement drills, the Saving Sarah's Daughters seminar in Cameroon, the Rasheem Carter rally, and the marriages done right shows the results of the children listening.
+
+## In The News
+
+- *[[6:52](https://www.youtube.com/watch?v=e6T83y297Cc&t=412s)]* **Last week's thumbnail, The Fathers Have Spoken, and today's, The Children Are Listening.** — The elders and fathers are the leadership and counsellors bringing their experience and the historical accounts to the new generation so they do not repeat our mistakes. That is what nationhood is about: educating the next wave of leaders, families, and nation.
+- *[[53:29](https://www.youtube.com/watch?v=e6T83y297Cc&t=3209s)]* **The title of Captain Galayah's local class, Our Forefathers Built This; We as Sons Must Preserve This, and the 1940s film on the 25 secrets of why marriages stay together that it referenced.** — The class was local, dealing with a matter in the congregation, but the cameras were hit. Why do we have to go back to the 1940s to learn how to set up a proper marriage? That is the deficit: in 2026 we are not even at the level of the forties with this immorality.
+- *[[1:01:06](https://www.youtube.com/watch?v=e6T83y297Cc&t=3666s)]* **The definition of seize the time, from the Panthers' book of the eighties: to make the most of the present moment, taking action immediately rather than procrastinating.** — Strike while the iron is hot. You are young, some of you still under your parents' roof with counsel around you; that is the time to turn it all the way on, not after drugs, pregnancy, and bills make it too late. Opportunities are still around those past that mark, but we were never educated to see them.
+- *[[1:09:43](https://www.youtube.com/watch?v=e6T83y297Cc&t=4183s)]* **The description on every IUIC YouTube video.** — Israel United in Christ is a biblical organization that teaches the gospel of repentance from sin to our people scattered around the world as a result of disobedience to God's commandments. Our people suffer self-hatred, domestic violence, mass incarceration, and economic exploitation, but the Bible has the solution. Behind the lies of the SPLC and Canary Mission, this is what we are about.
+- *[[1:13:06](https://www.youtube.com/watch?v=e6T83y297Cc&t=4386s)]* **A captain on the 1960s film How to Sell to the Negro.** — The sales psychologists said negroes have lacked recognition, so give them recognition and they will buy anything. That is why we kill each other over sneakers and jackets: I am validated because I have this on, and nothing if I take it off. We spend trillions and do not own a factory to make toilet paper.
+- *[[1:29:27](https://www.youtube.com/watch?v=e6T83y297Cc&t=5367s)]* **A video of children trapped in a grocery store after stealing, cursing and threatening to break the door.** — A mother and a father produced that. Without laws and guidance, if you marry the wrong man or woman, this is who you bail out of booking. That is what unclean children look like, and many end up in the psychiatric hospital's quiet room or dead before twenty. Prove properly; if you will not guide children, do not have them.
+- *[[1:45:31](https://www.youtube.com/watch?v=e6T83y297Cc&t=6331s)]* **A captain on Mardi Gras in Mobile, Alabama last week.** — They were throwing honey buns and oatmeal pies, and a 65-year-old woman in a pin diaper turned around to shake her behind at the camp, then broke a beer bottle when told to put on some clothes. At the parades it is always the black woman who attacks the camp for saying young girls should not dress like that, while a pedophile stands next to the camp; in Raleigh the sheet showed 694 in the county.
+- *[[1:53:36](https://www.youtube.com/watch?v=e6T83y297Cc&t=6816s)]* **The Saving Sarah's Daughters seminar with high school girls in Yaoundé, Cameroon: modesty, emotional management, promiscuity, marriage, broken homes, self-confidence, skin bleaching, and jealousy, answered from the scriptures.** — A little girl holding the flyer under her chin, fully engaged. The girls looked at the covered sisters from the States like aliens and kept them outside two more hours asking questions. If we were a group of faith and no works, this word would never have reached her.
+- *[[1:59:37](https://www.youtube.com/watch?v=e6T83y297Cc&t=7177s)]* **Drone pictures of the long train of brothers in the streets, and a graphic of the iceberg.** — Most of these men were slated to be drug dealers, murderers, locked up, homosexuals, and baby daddies. You see the finished product, not the dedication, habits, sacrifice, failure, and persistence beneath the tip of the iceberg over decades.
+- *[[2:03:29](https://www.youtube.com/watch?v=e6T83y297Cc&t=7409s)]* **Footage from the basement on Pauling Avenue in the Bronx: Captain Shem drilling brothers. No man should be able to break you by getting in your head; this is supposed to be uncomfortable; when I look at column three I should see one face; everybody on the deck, we move together.** — This is where the thousands in the street started. Standing at attention hardens you against impulses so that physical discipline transcends to mental and spiritual discipline; one brother out of line and everybody feels it, because what you do affects everybody else. He was personifying sin, trying to get in your head. Mothers, do not be afraid to send your sons into this.
+- *[[2:16:52](https://www.youtube.com/watch?v=e6T83y297Cc&t=8212s)]* **Captain Nan and Officer Ezekiel on V101.9 in Charlotte, an old-school R&B station, on Community Connections.** — Community clean-ups, missing persons, marriage: as men we should not wait for other people to come into our communities and fix what we can fix.
+- *[[2:18:38](https://www.youtube.com/watch?v=e6T83y297Cc&t=8318s)]* **The Rasheem Carter rally in Taylorsville, Mississippi, and the medical examiner unable to determine a cause of death.** — The brothers jumped out of the cars and got into formation, and a sister from Houston whose nephew was also killed ran after them live on TikTok, overwhelmed to see black men on one accord. His mother Tiffany Carter was left a sawed-open skull and cannot give him a proper burial. He would be thirty this year. Whether in the truth or not, he is an Israelite. We are also against the violence we do to each other.
+- *[[2:22:40](https://www.youtube.com/watch?v=e6T83y297Cc&t=8560s)]* **The IUIC recruitment video: the revolution will be televised, but first it must start within, in the mind; building back our families, communities, and nation; saving our daughters and molding our boys; an organized nation, not an organization.** — Join the movement, join the mission, join the fight.
+- *[[2:28:37](https://www.youtube.com/watch?v=e6T83y297Cc&t=8917s)]* **Pictures of marriages done right, rolling as the class closes.** — People taken from the dregs and set right according to the Bible, with a nation behind them to counsel when there is trouble in the flesh. This is what brothers and sisters should aspire to, and what is ahead when we follow the commandments.
+
+## Scriptures Opened
+
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[15:42](https://www.youtube.com/watch?v=e6T83y297Cc&t=942s)]*
+
+> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
+
+- Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things. We broke God's laws and went into physical captivity: whips, tar and feathers, lynchings, castrations. A nation with men in it provides its own food, water, clothes, and shelter; having to go to another man for them was a slap in the face meant to make us mad, and anger is a good thing, because surely oppression maketh a wise man mad enough to get off his behind.
+
+- In want of all things we went to our oppressors for everything until it felt normal, and now our own people say, why do that for ourselves when we have daddy white man to feed us. He shall put a yoke of iron upon thy neck, until he have destroyed thee: the yoke restrained the body and the mind, and it stayed on until they said give them Christianity. Then they could let us go, because our spirits were in chains and we would never want freedom or to provide for ourselves.
+
+- Christianity did to the black mind what chattel slavery failed to do. In chains we still fought, broke away, killed massa's chickens and hogs, and kept a semblance of pride; under Christianity its victims sit and hate themselves, the perfect doctrine for a slave. It destroyed the men, and once the men are destroyed the nation is destroyed: men watch their women raped and now do it to each other.
+
+- Bishop Nathanyel said in his interviews that IUIC began because our people need spiritual correction from the Bible, the commandments, not a carnal movement. Our minds were sickened in slavery and had to be rebooted and transformed, and the only thing that transforms is the laws of God. We stand on the elders' shoulders, and really on the shoulders of Christ, and now you are to stand on ours and take this gospel further.
+
+
+**[James 2:14-17](/bible/james/2#v14)**  *[[27:04](https://www.youtube.com/watch?v=e6T83y297Cc&t=1624s)]*
+
+> <sup>[14](/bible/james/2#v14)</sup> What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?
+>
+> <sup>[15](/bible/james/2#v15)</sup> If a brother or sister be naked, and destitute of daily food,
+>
+> <sup>[16](/bible/james/2#v16)</sup> And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?
+>
+> <sup>[17](/bible/james/2#v17)</sup> Even so faith, if it hath not works, is dead, being alone.
+
+- The elders' serious job is setting up organizational foundations: literal buildings and institutions where people can see the works of your teaching. Tell someone in the street to repent and they ask where the sanctuary is; you cannot send them to the internet. Bishop Nathanyel said in 2015, over the New York building, that any leader not thinking forwardly about building and directing institutions is a waste of time. As a man thinks, you should see action from it; anyone, women, men, friends, or family, who threatens that, you separate from.
+
+- What doth it profit, my brethren, though a man say he hath faith, and have not works? Can faith save him? Faith in your head that I cannot see might as well not be there; I only know what is in your mind when I see action. As a man thinketh, he becomes what he thinks.
+
+- If a brother or sister be naked and destitute of daily food, and one of you say, depart in peace, be ye warmed and filled, notwithstanding ye give them not those things which are needful to the body, what doth it profit? Be warmed and filled with my great words: the man is still hungry. That is church; that is Christianity. Notwithstanding means not validated, no value. Even so faith, if it hath not works, is dead, being alone: faith does not exist without works attached, and anyone preaching faith without works is lying.
+
+- The organization is the society: a nation within another nation in captivity that must learn to cohabit, trade talents, and deal righteously, applying the laws of God. Of the four sections of law left now that we no longer sacrifice, the moral and civil laws trip us up most, and the enemy works on both through TikTok and media run by the so-called Jews. It is uncivilized and evil to entice a woman away from her fathers; that is bewitching, not love, because you cannot walk away from God's righteousness and be okay. We are the city on the hill, a beacon for the brothers and sisters still in darkness, and the sanctuary is the safe haven where they get their minds right.
+
+- Our people in the world are raised to be slaves and statistics, fuel for the oppressor; when they see people who look like them building families, businesses, and healing on every level, they ask how, and you answer with the hope of your gospel: I was in a mess like you. When you come through these doors the brothers say welcome home, and I felt it: I never knew I was not home until I got there, and only then did the whole landscape make sense.
+
+  Precepts:
+  - **[Hebrews 11:1](/bible/hebrews/11#v1)**
+    > <sup>[1](/bible/hebrews/11#v1)</sup> Now faith is the substance of things hoped for, the evidence of things not seen.
+
+    Faith is the substance of things hoped for, the evidence of things not seen. Substance is what you can touch. The student crossing campus with his T-squares and architect tubes has no degree yet, but the works of his mind tell you where he is going; that is how faith is validated by action. The Lord called the earth earth while it was without form and void because it existed in his mind, then the Spirit moved on the elements and formed it, and he compared the light to what he imagined and saw that it was good. Sisters do the same in the mirror, and walk away when the image matches the one in their mind. That is the power we have, and our elders were cut off from teaching us basics like that.
+
+
+**[Zephaniah 3:8](/bible/zephaniah/3#v8)**  *[[41:59](https://www.youtube.com/watch?v=e6T83y297Cc&t=2519s)]*
+
+> <sup>[8](/bible/zephaniah/3#v8)</sup> Therefore wait ye upon me, saith the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.
+
+- Wait ye upon me, saith the Lord, until the day that I rise up to the prey. This verse gets thrown at you to keep you from making moves: sit back and wait on the Lord. He is not telling you to wait to get your families together or to build, as Jeremiah says build ye houses; he is telling you to build and wait while he kills your enemies, so that you have already learned how to be a nation.
+
+- For my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger; all the earth shall be devoured with the fire of my jealousy. While he holds the nations at bay and gets set to smash them, he needs us to practice nationhood now. Who will commit true riches to you if you cannot deal right with each other now? He is jealous over us as parents are jealous over their children.
+
+- When the smashing is done he says, well done, good servant, thou hast turned one talent into five and ten, have thou authority over five cities. You cannot inherit cities you have not rehearsed; you would turn them into debauchery. Practice now with the wisdom of the scriptures your elders gave you, and then you are ready.
+
+
+**[Acts 4:32-35](/bible/acts/4#v32)**  *[[57:51](https://www.youtube.com/watch?v=e6T83y297Cc&t=3471s)]*
+
+> <sup>[32](/bible/acts/4#v32)</sup> And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.
+>
+> <sup>[33](/bible/acts/4#v33)</sup> And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
+>
+> <sup>[34](/bible/acts/4#v34)</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
+>
+> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
+
+- Awakened from decades of sleep, and actually going backwards in our national progress, the elders and fathers see the importance of maintaining institutions of learning. You are privileged to sit under bishops, deacons, captains, and officers learning divine, tested knowledge; why destroy your life while hearing greatness? I have seen no success stories of people who left this truth. None.
+
+- Our faith is demonstrated by providing, through the Lord's power, a place to be fed spiritually and to learn to take care of ourselves physically, so we are not destitute of food or clothing. We learn the application of Acts 4: the elders put out the edict, the brothers and sisters pooled what they had extra and laid it at the apostles' feet, and the body was taken care of. Seek ye first the kingdom and all these things shall be added; if he clothes the lilies and feeds the fowls that do not work, he can take care of you, O ye of little faith, and real faith makes things happen.
+
+- Now has come the time to manfully change the tide of ignorance, sin, debauchery, and laziness, and to seize the time. IUIC did not have everything when it started and still does not; with our backs against the wall we asked each other what talent do you have, and said we are going to organize and build and get the first school and the second, and talk big while doing it because we do not entertain doubt. We are not asking permission from any oppressor. It is the incumbent duty of a man to fix his own problems; calling men of another nation to fix them while wearing the badge of a man means you need to level-set your brain. The fathers of our nation have spoken and now it is time for the children to listen.
+
+
+**[Exodus 22:2](/bible/exodus/22#v2)**  *[[1:18:47](https://www.youtube.com/watch?v=e6T83y297Cc&t=4727s)]*
+
+> <sup>[2](/bible/exodus/22#v2)</sup> If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.
+
+- If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him. The castle doctrine and self-defense laws came from our records. We do not advocate violence on any level and are not in a weapons race, but the nation needs a level of preservation: if someone comes to attack you, you have the right to protect yourself by any means necessary, and make sure they do not do it to anyone else. Do not go looking for anybody; get into this Bible and build your families.
+
+- Luke 22:36: he that hath no sword, let him sell his garment, and buy one. Christ said it because he was going off the scene and the disciples would be left to defend the gospel and would be attacked. That is the Bible, and I am not sorry about anything the Bible says.
+
+- The hard times and the destruction of our nation have created strong men. Surely oppression maketh a wise man mad, not a dumb man: wise enough to organize, to teach his children and his nation, and to get them up out of the mud. And because of that they come against us, and we are not supposed to lay down and let them run over us.
+
+
+**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[1:22:03](https://www.youtube.com/watch?v=e6T83y297Cc&t=4923s)]*
+
+> <sup>[33](/bible/1-corinthians/15#v33)</sup> Be not deceived: evil communications corrupt good manners.
+
+- Hard times create warriors against sinful impulses. Men are the vanguards of righteousness, to ward off any semblance of sin: see evil going on, blab it out, no X-files up in here, put it on blast so you are afraid to bring nastiness in, because we want blessings from the Lord and not problems. Our people hate change and are afraid of revolutionary thought, as Bishop Nathanyel taught in The Fear of Being Born Again, so everyone who comes in gets tried and watched, and if you refuse to change you have to go; we cannot let a bad example destroy the flock. God would have all come to repentance, 2 Peter 3:9, and we expect you to arrive with negative impulses, but the demons get exercised out of you by the congregation, and you will thank your brothers and sisters for the wounds of a friend rather than the kisses of an enemy.
+
+- Proving means a man and a woman working out their differences until they are on one accord about rebuilding the nation, with the man's mind together because he is who she will follow when trouble hits and step in to handle the business. Both must hate sin, fervently, having seen what it did to the generations before, or you end up with the children in that grocery store. Proving is not betrothal; it is seeing if you are compatible, and betrothal is when you are engaged to be married. There is no fornication in proving, and no ceremony over fornication; Malachi 2:16-17 answers the negro laws used to beguile sisters who do not study.
+
+- Be not deceived: evil communications corrupt good manners. Evil communications come to men and women, and when they come you shut them down and do not entertain them, as the captain was drilling, or you end up caught in foolishness. A father who came up through this will make sure his sons learn that discipline and are not given feminine softness, so that when he grows up he can deal with a woman properly. That is not abuse.
+
+  Precepts:
+  - **[1 Samuel 22:2](/bible/1-samuel/22#v2)**
+    > <sup>[2](/bible/1-samuel/22#v2)</sup> And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men.
+
+    Every one that was in distress, in debt, and discontented gathered themselves unto David, and he became a captain over them, about four hundred men. The beginning of IUIC was men with problems and issues, not the full package, taken in and built with structure and discipline, as the women are built through Ladies in Waiting, Titus 2, and Daughters of Sarah. 2 Samuel 17:8: thy father and his men be mighty men, chafed in their minds as a bear robbed of her whelps. Not mighty at first; David put in the work, as the leadership put work in us.
+
+
+**[Leviticus 19:29](/bible/leviticus/19#v29)**  *[[1:38:03](https://www.youtube.com/watch?v=e6T83y297Cc&t=5883s)]*
+
+> <sup>[29](/bible/leviticus/19#v29)</sup> Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.
+
+- Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness. Dig into the words. Prostituting your daughter is not only the music and the crowds or allowing boyfriends; the step before that is the attire, letting her go outside with her behind hanging out. That drives men wild for the wrong reasons; they just want a nut, they are not marrying her, and she wants validation because her father is nothing and her mother told her to sell herself by letting everybody look. People kill over this, the drug dealers in the Suzuki jeeps in New York.
+
+- That is exactly why the enemy goes after the daughters: mess up the women and the children are done, because they are the ones with the kids. Willie Lynch called her the most valuable commodity for that reason. Once she is whored out by all kinds of men, her value and self-esteem are gone and she lays with any man who smiles at her, as the 65-year-old at Mardi Gras. Then the land falls to whoredom, women giving their bodies with no scrutiny to sweet words, and the land becomes full of wickedness, everything about what feels good now. I am only talking about it; your children are living it, and you had better be glad someone is telling you.
+
+  Precepts:
+  - **[Hosea 4:1-2](/bible/hosea/4#v1)**
+    > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
+    >
+    > <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
+
+    Hear the word of the Lord, ye children of Israel, for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. Truth is the law, Psalms 119:142, and nobody in the land adheres to do not prostitute thy daughter; no mercy, because brothers go to jail and get shot over it; no knowledge, because the priest's lips are not teaching it. By swearing, and lying, the complete lies we heard two weeks ago from a man claiming nobody told him to leave the sister alone, corrected in front of everybody; and killing, and stealing, as in the videos; and committing adultery, they break out, and blood toucheth blood. David saw Bathsheba and lost it all. The Lord gave a dress code because he knows what happens when the clothes come off. Full of wickedness is literal, and backdoor marriages produce it. You will do it right or not at all.
+
+
+## Class Questions
+
+- **Why did the enemy always cut off the fathers?** To cut off the heritage and the knowledge pipeline, so every generation starts from the bottom experimenting to get the engine running again. Those days are gone; the elders pass down their experience filtered through the Bible.
+- **What did Christianity do that chattel slavery could not?** It put our spirits in chains, Deuteronomy 28:48. In physical chains we still fought and kept pride; under Christianity we hate ourselves and never want to provide for ourselves. The yoke of iron stayed on until they gave us Christianity.
+- **Why did IUIC begin, according to Bishop Nathanyel's interviews?** Because our people need spiritual correction from the Bible, the commandments. Minds sickened in slavery have to be transformed, and only the laws of God transform.
+- **What are organizational foundations?** Literal buildings and institutions where people can see the works of your teaching. Any leader not thinking forwardly about building institutions is a waste of time.
+- **What is faith according to Hebrews 11:1 and James 2?** The substance of things hoped for and the evidence of things not seen, validated only by action. Faith without works is dead, being alone; be ye warmed and filled is Christianity, not the Israelites.
+- **What does wait ye upon me in Zephaniah 3:8 mean?** Wait until the day the Lord rises up to the prey and smashes the nations, not wait to build your families and nation. Practice nationhood now so you can inherit the cities later.
+- **Which two sections of the law trip us up most?** The moral laws and the civil laws, which the enemy attacks through social media and filth. Enticing a woman away from her fathers is uncivilized and evil, not love.
+- **What does it mean to seize the time?** To make the most of the present moment and take action immediately rather than procrastinating. Strike while the iron is hot, while you are young and have counsel around you, before the body ages and the bills come.
+- **What did Exodus 22:2 and Luke 22:36 establish?** If a thief breaking in is smitten that he die, no blood is shed for him; and he that hath no sword, let him sell his garment and buy one. The nation has a right to preserve and protect itself, without advocating violence or looking for anybody.
+- **Why are the men the vanguards of righteousness?** Hard times create warriors against sinful impulses. Sin in the sanctuary gets put on blast so no one brings it in, everyone who comes in is tried, and those who refuse to change have to go for the sake of the flock.
+- **How do you prostitute your daughter in Leviticus 19:29?** Letting her go out with her behind hanging out, the step before boyfriends and babies. It drives men wild for the wrong reasons, destroys her value, and the land falls to whoredom and fills with wickedness, Hosea 4:1-2.
+- **What is the difference between proving and betrothal?** Proving is seeing if a man and a woman are compatible and working out differences until they are on one accord about rebuilding the nation; betrothal is being engaged to be married. There is no fornication in proving and no ceremony over fornication.
+- **What did the basement drills in the Bronx teach?** Discipline: no man should get in your head and break your concentration, and the unit moves together so one brother out of line is felt by everyone. Physical discipline transcends to the mental and spiritual, 1 Corinthians 15:33, shutting down evil communications.
+- **How does 1 Samuel 22:2 describe the beginning of IUIC?** Men in distress, in debt, and discontented gathered to David and he became their captain. They became the mighty men of 2 Samuel 17:8 through his work, as our leadership put work into us.
+
+## In Closing
+
+*[[2:28:37](https://www.youtube.com/watch?v=e6T83y297Cc&t=8917s)]* The vantage point of the elders and fathers has been spoken, and now the children are listening. These marriages were done right, people taken from the dregs and set right according to the Bible, with a nation behind them to counsel and bring solutions when there is trouble in the flesh. That is what a nation is; we have been used to individual thinking and never educated to operate as one. This is what is ahead of us when we follow God's commandments. When you turn your back on this and lie on the Bible to please your sin, we cannot help you; let the Lord deal with you, and when your mind is right we can take it from there. This work is too serious to get emotional about this brother or that sister. If you want to deal right, we will deal right; otherwise move, we have work to do.
+
+## Announcements & References
+
+- This continues last week's class, The Vantage Point of the Elders: The Fathers Have Spoken; the men in the building will dig deeper after the Sabbath.
+- Visitors from the Virginia camp and IUIC Miami were in the building.
+- Stay tuned for Bishop Nathanyel, up next on IUIC in the Classroom.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=e6T83y297Cc)

@@ -28,6 +28,7 @@ from urllib.request import Request, urlopen
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from ingest import FEEDS
+from broadcasts import RELATIVE_PATH as BROADCASTS_PATH, record_broadcast
 
 BASE_URL = "https://transcriptapi.com/api/v2"
 API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY")
@@ -130,6 +131,34 @@ def parse_views(v):
 def parse_date(value):
     if not value:
         return None
+    s = str(value)
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        return None
+
+
+def parse_publish_date(value):
+    """The video's own `publishDate`, from /youtube/video/metadata.
+
+    Documented as ISO (`2009-10-25`), but premieres and streams come back as
+    "Premiered Nov 15, 2019" or "Streamed live on Nov 15, 2019"; an ordinary
+    upload is sometimes "Nov 15, 2019" with no prefix at all. Returns None,
+    never an empty string, when the shape doesn't match any of these.
+    """
+    if not value:
+        return None
+    s = str(value).strip()
+    iso = parse_date(s)
+    if iso:
+        return iso
+    s = re.sub(r"^(premiered|streamed live on|published on|starts)\s+", "", s, flags=re.I)
+    for fmt in ("%b %d, %Y", "%B %d, %Y"):
+        try:
+            return datetime.strptime(s, fmt).date().isoformat()
+        except ValueError:
+            continue
+    return None
 
 
 def append_once(path, video_id, title, stamp=False):
@@ -179,11 +208,6 @@ def nocaption_skips(path, recheck_days):
                 pass
             skips.add(parts[0])
     return skips
-    s = str(value)
-    try:
-        return datetime.fromisoformat(s.replace("Z", "+00:00")).date().isoformat()
-    except ValueError:
-        return None
 
 
 def listing_yt(channel, tab):
@@ -250,6 +274,21 @@ def fetch_transcript(video_id):
     return api_get("/youtube/transcript", params, timeout=20, retries=2)
 
 
+def video_publish_date(video_id):
+    """The video's own publish date, for when the channel listing carries none.
+
+    The `/videos` tab listing (yt-dlp's --flat-playlist, used as --listing-backend for
+    every classes workflow) never carries a date at all; the transcript endpoint's
+    `send_metadata` is oEmbed-only (title, author, thumbnail, no date either). Only
+    /youtube/video/metadata's `publishDate` has it.
+    """
+    code, payload, _ = api_get("/youtube/video/metadata", {"video_url": video_id}, timeout=20, retries=2)
+    if code != 200:
+        return None
+    p = payload.get("content", payload)
+    return parse_publish_date(p.get("publishDate"))
+
+
 def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views, channel, method):
     cmd = [sys.executable, os.path.join(ROOT, "scripts", "history", "ingest.py"), raw_path, f"--id={video_id}", f"--title={title}", f"--feed={feed}"]
     if channel:
@@ -267,7 +306,7 @@ def ingest_payload(raw_path, *, video_id, title, feed, date, duration, views, ch
 def commit_and_push(root, fdir, tdir, nocap, agegate, meta_all, added, nosub, feed):
     sh(["git", "-C", root, "config", "user.name", "github-actions[bot]"])
     sh(["git", "-C", root, "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
-    sh(["git", "-C", root, "add", "--", *[p for p in (tdir, nocap, agegate, meta_all) if os.path.exists(p)]])
+    sh(["git", "-C", root, "add", "--", *[p for p in (tdir, nocap, agegate, meta_all, os.path.join(root, BROADCASTS_PATH)) if os.path.exists(p)]])
     commit = sh([
         "git", "-C", root, "commit", "-q",
         "-m", f"transcripts: {feed} +{len(added)} ({len(added) + nosub} this run)\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
@@ -470,6 +509,8 @@ def main():
                     title = p.get("title") or title
                     if file_views is None and p.get("views_text"):
                         file_views = parse_views(p.get("views_text"))
+                    if not file_date:
+                        file_date = video_publish_date(vid)
                 elif code in (400, 404):
                     reason = (payload.get("detail") or payload.get("error") or "").lower() if isinstance(payload, dict) else ""
                     if "captions" in reason or "transcript" in reason:
@@ -500,6 +541,10 @@ def main():
                 if r.returncode == 0:
                     got += 1
                     added.append(vid)
+                    if a.feed == "classes":
+                        with open(os.path.join(tdir, f"{vid}.json")) as transcript:
+                            archived = json.load(transcript)
+                        record_broadcast(ROOT, vid, archived.get("date"))
                     if file_date is None and duration_hint and duration_hint not in ("NA", ""):
                         file_duration = duration_hint
                     with open(meta_all, "a") as mf:

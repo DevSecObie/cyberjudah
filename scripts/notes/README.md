@@ -17,22 +17,33 @@ Run them from the repo root. `CJ_ROOT` overrides the repo location if you need i
 | `prep-corpus.py` | Score `prep.py`'s reference extraction against every finished note, ~2,600 references. Measure, change one pattern, measure again. |
 | `video.py` | List the notes with no recording; attach one with `video.py set <slug> <url>`. |
 
-## The note must be near-verbatim, not a summary
+## The note is a study guide, not a transcript
 
-This is the part that matters most, and the easiest to get wrong.
+This is the part that matters most, and the one that drifted. The transcript already holds
+every word of the class, and it is kept for that. The note is what a student takes away:
+the points that were made, and the breakdown of each scripture that was opened.
 
-- Bullets walk the verse **phrase by phrase in the teacher's own words**. Not your
-  analysis of what he taught. If he read a verse and then said three things about it,
-  the note has those three things, in his phrasing.
-- News clips and videos are **quoted at length**, not digested into a line.
-- The thumbnail or title video **the teacher plays as part of the class** is transcribed
-  **verbatim**. What runs before he takes the mic is not in the note (see below).
-- "In Closing" is **the teacher's own closing words**, first person.
-- 15 Minutes episodes follow the episode's own order rather than a fixed section
-  layout: a clip stays where it fell in the teaching.
+- **Scriptures Opened is the spine.** Every passage the teacher reads gets its block: the
+  reference, the moment it was opened, the verses (always through `lib.py`, never typed),
+  then bullets with **the concrete points he made on it**. One bullet, one point, in his
+  words but without the run-on: what the verse means, who it is about, what it corrects,
+  what to do with it. Three to six bullets is a passage; a bullet that re-reads the verse is
+  not a point.
+- **Precepts nest under the passage** they were brought to prove, with the one line he
+  drew from them.
+- **Introduction** is what the class is about and why he taught it, in a short paragraph,
+  timestamped at his first words. Greetings, roll calls and shout-outs are not in it.
+- **In The News** names the clip and the point it was played to make, in a line or two.
+  The clip itself is not transcribed; the recording has it.
+- **Class Questions** keeps the questions the teacher put to the class and the answers he
+  gave, one line each.
+- **In Closing** is his charge to the class, in his words, kept to the point he closed on.
+- Nothing is padded to length. A stretch of the class that made no point (banter, the
+  sound check, the thumbnail video's own words, a story told for effect) is a line at most.
 
-Word counts for reference: Sabbath class notes run 12,000 to 22,000 words. 15 Minutes
-episodes run 2,500 to 5,000.
+Word counts for reference: a Sabbath class note runs 3,000 to 8,000 words. A 15 Minutes
+episode runs 800 to 2,000. The notes of 2026-05-23 are the pattern; a note over 10,000
+words is a transcript with headings and gets sent back.
 
 ## The note starts where the teaching starts
 
@@ -91,6 +102,16 @@ tags: ["IUIC in the ClassRoom"]
 them by hand -- `npm run notes:fix` derives them, adds the `Opens` line under
 `<p class="taught">`, and turns each `*[18:01]*` timestamp into a link into the recording.
 Run it after writing a note and commit what it produces.
+
+The topic slugs are a rate over the *whole corpus*, so that rate moves every time any note is
+added or edited. `npm run notes:fix` (`tag-notes.mjs` with no arguments) still scans every note
+to compute the rate, but by default only writes a derived tag set to a note that has none
+yet -- a `tags:` line that is missing, or that carries only the series tag -- or to a file
+named explicitly on the command line (`node scripts/tag-notes.mjs path/to/note.md`). Every
+other note's `tags:` line is left exactly as committed, so writing one note never drags dozens
+of unrelated tag changes into its PR. To recompute and rewrite every note's tags from the
+current corpus -- its own mechanical PR, not a side effect of writing one note -- run
+`node scripts/tag-notes.mjs --all`.
 
 ### Who taught it
 
@@ -231,6 +252,8 @@ Where there is no recording, drop the second half rather than linking the note t
 6. `npm run notes:fix`, then `npm run notes:lint`. The linter checks the shape of the note --
    frontmatter, sections, the nav line, the tag list, scripture links -- and must report 0
    errors. Warnings are for things only the recording can settle (no video id, no teacher).
+   `notes:fix` only derives tags for a note that has none yet (above, under "Anatomy"), so
+   this is what gives the new note its topic tags; it does not touch any other note's tags.
 7. `npm run check` from the repo root (needs `npm ci --prefix engine` once). It is the link
    checker: every `/bible/...` link must name a real chapter and verse, and every other
    site link a real note, law, precept or case. Zero broken, or fix and rerun.

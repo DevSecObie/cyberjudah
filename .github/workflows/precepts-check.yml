@@ -1,0 +1,55 @@
+name: Check precept passes
+
+# Every pull request that adds or changes a class precept pass (data/precepts/classes/*.json,
+# see AGENTS.md) is checked before review: real references, verses inside their passages,
+# timestamps in order, and every quote word for word from the King James text. The build
+# then proves the pass loads into the Bible data.
+on:
+  pull_request:
+    paths:
+      - "data/precepts/classes/**"
+      - "scripts/precepts/classes.py"
+      - "scripts/precepts/test_classes.py"
+      - "engine/library.mjs"
+      - "engine/precept-moments.test.mjs"
+      - ".github/workflows/precepts-check.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Only precept passes in this pull request
+        run: |
+          git fetch --no-tags --depth=1 origin "${{ github.base_ref }}"
+          files=$(git diff --name-only "origin/${{ github.base_ref }}" HEAD)
+          passes=$(printf '%s\n' "$files" | grep '^data/precepts/classes/' || true)
+          if [ -n "$passes" ]; then
+            other=$(printf '%s\n' "$files" | grep -v '^data/precepts/classes/[A-Za-z0-9_-]\{11\}\.json$' || true)
+            if [ -n "$other" ] || [ "$(printf '%s\n' "$passes" | wc -l)" -ne 1 ]; then
+              echo "::error::A content edit must change exactly one precept pass and no other files."
+              exit 1
+            fi
+          fi
+      - name: Test precept validation and playback timestamps
+        run: |
+          python3 -m unittest discover -s scripts/precepts -p 'test_*.py'
+          node --test engine/precept-moments.test.mjs
+      - name: Check the passes
+        run: |
+          set -o pipefail
+          files=$(git diff --name-only --diff-filter=AM "origin/${{ github.base_ref }}" HEAD -- 'data/precepts/classes/*.json')
+          python3 scripts/precepts/classes.py check $files | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Build the Bible data with them
+        run: |
+          set -o pipefail
+          npm ci --prefix engine --no-audit --no-fund
+          node engine/build.mjs --no-thumbs 2>&1 | tee build.log | tail -3
+          grep -E "precept passes|engine:" build.log >> "$GITHUB_STEP_SUMMARY" || true

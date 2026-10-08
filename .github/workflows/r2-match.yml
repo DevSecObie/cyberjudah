@@ -1,0 +1,64 @@
+# Re-matches the class outlines in the sabbath-classes-images R2 bucket to the YouTube classes
+# (scripts/r2/match.py) as the hourly harvest brings in more channels: an outline with no
+# YouTube copy today often has one once its channel is harvested. Writes
+# data/sources/r2-classes.tsv and r2-class-teachers.tsv, and dates newly matched undated
+# classes from their outlines' file names. Decisions in data/sources/r2-reviewed.tsv always
+# stand. The outlines are read with Actions secrets; none of their text is committed.
+name: Match R2 outlines
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays
+
+permissions:
+  contents: write
+
+concurrency:
+  # Shares the harvest's group so the two never push channel-meta.tsv at the same time.
+  group: transcript-harvest
+  cancel-in-progress: false
+
+jobs:
+  match:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Match the outlines
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT: https://2ab28c80faa4e6e48e1671865852cb45.r2.cloudflarestorage.com
+          R2_BUCKET_NAME: sabbath-classes-images
+          R2_CACHE: ${{ runner.temp }}/r2-text
+        run: |
+          test -n "$R2_ACCESS_KEY_ID" && test -n "$R2_SECRET_ACCESS_KEY" || { echo "::error::R2 secrets are not set on this repository"; exit 1; }
+          python3 scripts/r2/match.py --dates > "$RUNNER_TEMP/dates.tsv" 2> >(tee -a "$GITHUB_STEP_SUMMARY" >&2)
+          python3 scripts/corpus/backfill_meta.py --from-tsv "$RUNNER_TEMP/dates.tsv" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          files=(data/sources/r2-classes.tsv data/sources/r2-class-teachers.tsv '*/channel-meta.tsv')
+          if [[ -z "$(git status --porcelain -- "${files[@]}")" ]]; then
+            echo "No new matches."
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- "${files[@]}"
+          git commit -m "r2: re-match class outlines [skip ci]"
+          for attempt in 1 2 3; do
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
+              exit 0
+            fi
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+            sleep $((attempt * 2))
+          done
+          echo "Push failed after 3 attempts."
+          exit 1

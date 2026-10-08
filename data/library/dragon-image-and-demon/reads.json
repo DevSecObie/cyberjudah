@@ -1,0 +1,37 @@
+{
+ "about": "Moments in the classes where this book was read aloud: the class's video, the volume and printed page, and the second it was read. Found by matching the recordings against the book's text (scripts/library/reads.py).",
+ "reads": [
+  {
+   "video": "6XyhSewrzz0",
+   "vol": 1,
+   "page": 363,
+   "t": 2845,
+   "ts": "47:25",
+   "hits": 13
+  },
+  {
+   "video": "XIbwjRr-Hvg",
+   "vol": 1,
+   "page": 363,
+   "t": 6985,
+   "ts": "1:56:25",
+   "hits": 27
+  },
+  {
+   "video": "uL_FmbE6qKA",
+   "vol": 1,
+   "page": 363,
+   "t": 7603,
+   "ts": "2:06:43",
+   "hits": 11
+  },
+  {
+   "video": "v3tjeiEEpFg",
+   "vol": 1,
+   "page": 363,
+   "t": 7155,
+   "ts": "1:59:15",
+   "hits": 16
+  }
+ ]
+}

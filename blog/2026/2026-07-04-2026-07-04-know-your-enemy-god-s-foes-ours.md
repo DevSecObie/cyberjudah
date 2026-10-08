@@ -4,7 +4,7 @@ slug: "2026/2026-07-04-know-your-enemy-god-s-foes-ours"
 date: "2026-07-04"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-04"
-tags: ["IUIC in the ClassRoom", "media", "nations", "prayer", "repentance"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "media", "nations", "prayer", "repentance"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>
@@ -552,7 +552,7 @@ Read in class: Great Africa, top 17 pan-African leaders of all time: Julius Nyer
 
 ## In Closing
 
-12 tribes. Worldwide. 12 tribes. Worldwide. 12 tribes. Worldwide. Never give up. Never give up. Never give up. Never give in. Bishop Yawasop is next. Shalom Israel. Love you. Happy Sabbath.
+12 tribes. Worldwide. 12 tribes. Worldwide. 12 tribes. Worldwide. Never give up. Never give up. Never give up. Never give in. Bishop Yawasap is next. Shalom Israel. Love you. Happy Sabbath.
 
 ## Announcements & References
 

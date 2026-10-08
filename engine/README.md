@@ -63,9 +63,11 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/xref/<book-slug>/<chapter>.json` | cross references per verse |
 | `api/web/<book-slug>/<chapter>.json` | the World English Bible text, per verse |
 | `search/classes.json`, `search/captains.json` | browse feeds: title, url, date, teacher, thumb, books, topics |
+| `api/classes/broadcasts.json` | video ID → `{date, broadcastAt}`: the class's calendar date and verified broadcast start in UTC |
 | `search/topics.json`, `search/books.json`, `search/laws.json`, `search/precepts.json`, `search/cases.json` | small indexes for browse pages |
 | `pagefind/` | a sharded full-text index; load `pagefind/pagefind.js` and search every verse, note, law, precept and case |
 | `search.sql.gz` | the search index as SQL: one FTS5 table `search_docs(kind, title, url, sub, text, book, chapter)`, every verse a row, notes split at headings into pieces of a few KB, laws, precepts and cases one row each; the site loads it into Cloudflare D1 on every publish |
+| `search-index/parts.json`, `search-index/NN.sql.gz` | the same index in parts, each under 20 MiB gzipped and valid SQL on its own, to run in order; `search.sql.gz` itself is over the 25 MiB a Workers asset may be and is kept out of data.cyberjudah.io by `.assetsignore` (it stays in the `data` branch) |
 | `library.sqlite.gz` | the whole library as SQLite with FTS5 tables (`verses_fts`, `notes_fts`, `laws_fts`, `cases_fts`); import into Cloudflare D1, Turso, or open locally |
 | `img/classes/<videoId>.jpg`, `img/captains/<videoId>.jpg` | thumbnails |
 | `classes/rss.xml`, `captains/rss.xml`, `study/rss.xml` and `*/feed.json` | feeds |
@@ -74,6 +76,24 @@ JSON shape, existing fields are not removed or renamed without a note here.
 
 Site-relative URLs inside the data (`/bible/genesis/1`, `/classes/2026/...`) are routes,
 not files: the front end decides how to render them.
+
+### Strong's concordance pages
+
+`api/strongs/<number>.json` retains its definition, total counts and first 600
+`occurrences` for existing clients. `occurrencePages` adds `{revision, pageSize,
+pages, nextPage}`. Follow `nextPage` at
+`api/strongs/<number>/occurrences/<revision>/<page>.json` until it is `null`.
+Each page contains `{number, revision, page, total, occurrences, nextPage}`;
+page 0 is embedded only in the entry and has no separate file. `pages` counts all
+logical pages, including that initial page; continuation files start at page 1
+only when `nextPage` is non-null and contain every remaining occurrence in corpus
+order. The revision is the SHA-256 of the full
+occurrence array, so a client must retain that revision while paging and reject
+a response for another number or revision. A missing historical page should
+offer a retry/reload, never silently append data from a newer revision.
+
+Run `node --test engine/strongs-pages.test.mjs` for coverage using the real H430
+tagged corpus, including occurrences beyond 600 and exact page boundaries.
 
 ## Where it is published
 
@@ -96,3 +116,56 @@ sqlite3 library.sqlite "SELECT v.book_slug, v.chapter, v.verse, snippet(verses_f
   FROM verses_fts JOIN verses v ON v.id = verses_fts.rowid WHERE verses_fts MATCH 'lamp AND feet' LIMIT 5"
 sqlite3 library.sqlite "SELECT kind, label, url, verses FROM citations WHERE book_slug = 'psalms' AND chapter = 119"
 ```
+
+### People corrections and pictures
+
+The People CMS changes only summaries, family relationships and optional credited
+pictures in `data/people/people.json`. The engine validates those profiles before
+building and copies picture metadata into their existing API responses. Picture
+URLs and source pages must use HTTPS; caption, credit and licence are required.
+No picture or biographical fact is added by the reader itself.
+
+Twenty-one unresolved links already present in the upstream-derived profiles are
+recorded in `people-legacy-links.json` with their source revision. They remain
+visible for correction; new unresolved relationships fail the gate. Editing one
+profile must not require inventing replacements for unrelated historical gaps.
+
+### Admin class metadata corrections
+
+`data/sources/class-teachers.tsv` holds explicit admin corrections with the columns
+`video`, `teacher`, `date`, `title` (tabs, one recording per row). Dates are real
+`YYYY-MM-DD` dates or blank when unknown. Do not infer a teacher or date. The in-app
+CMS also changes a linked note's front matter in the same review.
+
+The library applies these corrections before building note lists, commentary and
+precept metadata. Verse readings use the same correction, and
+`api/classes/metadata.json` includes both noted and undated recordings for the CMS.
+Original note URLs and transcript text stay intact. Invalid or duplicated rows fail
+`engine/check.mjs` and the regular `validate` CI check. The table starts empty;
+adding this reader changes no class facts.
+
+`api/classes/corrections.json` exposes only explicit corrections so the Telegram
+Worker can display the same title/date while its transcript search index awaits a
+rebuild. Publishing live content uses the `production` environment. Before enabling
+CMS publication, the owner must configure required reviewers for that environment
+in this repository; the environment name alone does not enforce approval.
+
+### Precept playback corrections
+
+A pass precept may carry an optional `ts` (`m:ss` or `h:mm:ss`). Its links in both directions use that moment; omitting it retains the opened passage's timestamp. Explanations and references are unchanged. `scripts/precepts/classes.py check` rejects invalid calendar dates and timestamp components and retains the exact KJV quote check. Data edits still require exactly one pass per PR; checker/reader implementation changes without pass data are allowed separately. CMS publication requires both `validate` and `check`. Production approval remains separate.
+
+### Broadcast order
+
+`data/sources/class-broadcasts.json` preserves YouTube's completed-stream
+`playerMicroformatRenderer.liveBroadcastDetails.startTimestamp`, verified against
+that renderer's `externalVideoId`. This is the broadcast start, not the recording's
+upload/publication timestamp. The initial backfill covers 184 completed broadcasts
+from the published Sabbath-class catalog plus Haiti: The Rise After the Ruin,
+checked on 2026-10-08 UTC. Each source is `https://www.youtube.com/watch?v=<videoId>`.
+The stored `date` retains the class's existing calendar day even when a broadcast
+crosses midnight UTC. Missing timestamps are left unknown.
+
+The transcript harvester records the same metadata as new transcripts arrive.
+A failed metadata lookup does not block transcript ingestion or invent a time.
+Consumers can show newest dates first and sort each date by ascending
+`broadcastAt`; unavailable metadata must not hide the class or its notes.

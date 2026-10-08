@@ -2,7 +2,7 @@
 title: "ESAU THE HATER, LIAR, AND KILLER"
 slug: "2026/2026-08-22-esau-the-hater-liar-and-killer"
 date: "2026-08-22"
-teacher: ""
+teacher: "Captain Gideon"
 description: "IUIC in the ClassRoom · 2026-08-22"
 tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "false-religion"]
 ---

@@ -1,0 +1,726 @@
+---
+title: "Edom: The Robbers of thy people revealed past and present"
+slug: "2026/2026-04-03-edom-the-robbers-of-thy-people-revealed-past-and-present"
+date: "2026-04-03"
+teacher: ""
+description: "IUIC in the ClassRoom · 2026-04-03"
+tags: ["IUIC in the ClassRoom", "edom-esau"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-04-03</p>
+
+<span class="opens"><b>Opens</b> [Ps 121](/bible/psalms/121) · [Gen 14](/bible/genesis/14) · [Gen 25](/bible/genesis/25) · [Gen 27](/bible/genesis/27) · [Gen 36](/bible/genesis/36) · [Mal 1](/bible/malachi/1) · [Obad 1](/bible/obadiah/1) · [Jer 50](/bible/jeremiah/50) · [Ezek 35](/bible/ezekiel/35) · [Num 24](/bible/numbers/24) · [Judg 3](/bible/judges/3) · [1 Esdras 4](/bible/1-esdras/4) · [Sir 50](/bible/sirach/50) · [1 Macc 1](/bible/1-maccabees/1) · [Esther 3](/bible/esther/3) · [Wis 7](/bible/wisdom-of-solomon/7) · <i>and 10 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="E7-T_cAwLUc"></div>
+
+## Introduction
+
+*[[5:04](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=304s)]* A new moon and new year class, taught while Iran's missiles fall on Israel, on Edom, the robbers of thy people, past and present. From Rebekah's womb to Mount Seir, the Horite dukes Esau conquered, the perpetual hatred that burned the first temple and moved into Judah's villages, the Macedonian Haman, the rabbis who wrote that Edom holds dominion over all Europe until Messiah ben David appears, the wild men of the caves whom the Moors drove into Covadonga and the Caucasus, the Khazars who became conquistadors, and the sword bathed in heaven that comes down on Idumea, the people devoted to destruction. A question for the apologists runs through it: does Israel's final return to the land come before the Messiah or after?
+
+## In The News
+
+- *[[14:03](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=843s)]* **The anatomy and physiology workbook: the pink to red colour of Caucasian skin is caused by hemoglobin showing through skin with little melanin** — There is no such thing as white people; the so-called white man is pink to red because his blood shows through his skin, red when slapped, red when he cries, born red.
+- *[[47:21](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2841s)]* **The definition of the Horims or Horites: cave or hole, cave dwellers in the mountains of Seir** — Esau conquered cave dwellers and became a cave dweller, and Caucasian means cave dweller.
+- *[[1:22:55](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4975s)]* **The full genealogy of Haman in the rabbinic text: son of Stench, son of Robbery, son of Herod, son of Refuse, son of the Red One, son of Amalek, of Eliphaz, son of Esau** — The book itself makes Haman an Edomite, and the medieval chroniclers say expressly that Edom means the Roman Empire, the European powers; Jews and Arabs both regarded the Greeks and Romans as Esau, the elder brethren of the Israelites.
+- *[[1:27:08](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5228s)]* **Modern Judaism by John Allen, 1830, on what the rabbis taught about Edom** — The descendants of Esau are the sworn enemies of Jacob to the end of the world; a small nation confined to Seir while the twelve tribes ruled, they wonderfully increased after Assyria and Babylon, spread west, hold dominion over all Europe and detain Judah in captivity until Messiah ben David appears; the final vengeance for the second temple is yet impending, executed in the time of the Messiah, and the cities of Edom belong to Rome and the modern Christians.
+- *[[1:38:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5931s)]* **Sirach 50:26 in the other translations** — The Good News, New Revised Standard and New American Bibles read those who live in Seir, the Edomites, where the King James says they that sit upon the mountain of Samaria; the Greeks sat on Mount Gerizim in Samaria when Sirach was written.
+- *[[1:53:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6831s)]* **Sex and Race by J. A. Rogers: the reconstruction of Neanderthal man, the first known German** — No lips, big nose, big ears: who is the monkey? That is the first German, Edom, and Teman and Amalek are the same.
+- *[[1:55:39](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6939s)]* **The Wild Man: Medieval Myth and Symbolism, with the Luttrell Psalter and the Swiss wild man festival** — Hairy all over, naked, on all fours, living in tree trunks and caves, eating roots and raw meat, cannibals associated with werewolves, in the Alpine regions of Germany, Austria and Switzerland; that is Job 30 and Esau before the razor. Beside them the same manuscripts show us armoured in the castles, crowned, with spurs on our sandals and fringes with the ribbon of blue.
+- *[[2:04:55](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7495s)]* **History of the Conquest of Spain: the Goths fleeing the Moors into the Asturias, Pelayo's thirty men and ten women in the cave of Covadonga, and the birth of Castilian Spanish there** — We killed Edom down to thirty men living on honey from the crevices of the rock and let them gather strength; the Latin they spoke was lost in the caves and the Spanish language was born there, a cave language.
+- *[[2:09:24](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7764s)]* **The court of the King's Bench in the Great Hall at Westminster, and King James's grandson with his counsellors** — Black judges judging matters in England and a black king; we ruled Europe and were the kings and judges of the earth, and it has all been whitewashed.
+- *[[2:16:04](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8164s)]* **The Jewish Encyclopedia on the Khazars: King Bulan's conversion, Hasdai ibn Shaprut's letter, the tradition that the Khazars once dwelt near the Seir mountains, and the royal family that emigrated to Spain after the Russians and Byzantines conquered them** — The Khazars are the Israelis of today: Edomites the Jews taught Judaism in the mountains, who came from Seir and whose royal family became the conquistadors, taking Israel to be the Jews and the Americas to be Christians.
+- *[[2:22:56](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8576s)]* **Isaiah 34:5 in the NIV, NLT, ESV, Berean and New American Standard** — The people I have totally destroyed, the nation marked for destruction, the people I have devoted to destruction, designated for destruction: every version says what Edom's purpose is.
+- *[[2:40:07](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9607s)]* **A film clip: we must rob and spoil this land, this land will be ours by any means, and the state of Israel is born** — Played to close the class on the robbers of thy people.
+
+## Scriptures Opened
+
+**[Psalms 121:1-8](/bible/psalms/121#v1)**  *[[2:26](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=146s)]*
+
+> <sup>[1](/bible/psalms/121#v1)</sup> I will lift up mine eyes unto the hills, from whence cometh my help.
+>
+> <sup>[2](/bible/psalms/121#v2)</sup> My help cometh from the Lord, which made heaven and earth.
+>
+> <sup>[3](/bible/psalms/121#v3)</sup> He will not suffer thy foot to be moved: he that keepeth thee will not slumber.
+>
+> <sup>[4](/bible/psalms/121#v4)</sup> Behold, he that keepeth Israel shall neither slumber nor sleep.
+>
+> <sup>[5](/bible/psalms/121#v5)</sup> The Lord is thy keeper: the Lord is thy shade upon thy right hand.
+>
+> <sup>[6](/bible/psalms/121#v6)</sup> The sun shall not smite thee by day, nor the moon by night.
+>
+> <sup>[7](/bible/psalms/121#v7)</sup> The Lord shall preserve thee from all evil: he shall preserve thy soul.
+>
+> <sup>[8](/bible/psalms/121#v8)</sup> The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore.
+
+- The opening prayer for the new moon and the new year: he that keepeth Israel shall neither slumber nor sleep.
+
+
+**[Genesis 14:6](/bible/genesis/14#v6)**  *[[8:40](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=520s)]*
+
+> <sup>[6](/bible/genesis/14#v6)</sup> And the Horites in their mount Seir, unto El–paran, which is by the wilderness.
+
+- The Horites were in their Mount Seir before Esau or Jacob was born: a group of Hamites named after the region they lived in. Hold that; it matters later.
+
+
+**[Genesis 25:20-34](/bible/genesis/25#v20)**  *[[10:25](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=625s)]*
+
+> <sup>[20](/bible/genesis/25#v20)</sup> And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan–aram, the sister to Laban the Syrian.
+>
+> <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
+>
+> <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
+>
+> <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
+>
+> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+>
+> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
+>
+> <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
+>
+> <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
+>
+> <sup>[28](/bible/genesis/25#v28)</sup> And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
+>
+> <sup>[29](/bible/genesis/25#v29)</sup> And Jacob sod pottage: and Esau came from the field, and he was faint:
+>
+> <sup>[30](/bible/genesis/25#v30)</sup> And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
+>
+> <sup>[31](/bible/genesis/25#v31)</sup> And Jacob said, Sell me this day thy birthright.
+>
+> <sup>[32](/bible/genesis/25#v32)</sup> And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?
+>
+> <sup>[33](/bible/genesis/25#v33)</sup> And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
+>
+> <sup>[34](/bible/genesis/25#v34)</sup> Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
+
+- Rebekah was barren; the Lord heard Isaac and the children struggled together in her womb. Two nations, two nationalities, are in thy womb, and two manner of people: different in looks and behaviour, twins that would not be together, one stronger, and the elder shall serve the younger. That is not equality.
+
+- The first came out red all over like an hairy garment, and Jacob is not described because he was normal and looked like his parents. They are fraternal twins, not identical, and they were called Esau, wasted away for lack of melanin, and Jacob, who took hold of the heel because the fight in the womb continued outside it.
+
+- Esau was a cunning hunter, a man of the field: hunting animals to extinction, hunting people and resources. Name a black nation that has wiped out an entire race and taken its identity, or dropped a nuclear bomb. They are not like us; two manner of people. Jacob was a plain man dwelling in tents.
+
+- Isaac loved Esau for his venison and Rebekah loved Jacob because the Lord had told her. Esau came in faint from a sun he was not built for and asked for the red pottage, so his name was called Edom, red, because he was already red himself.
+
+- He sold his birthright, the inheritance of Abraham's blessing and the kingdom, for lentils and bread, and despised it; the elder serving the younger was that birthright.
+
+
+**[Genesis 27:11-29](/bible/genesis/27#v11)**  *[[21:31](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=1291s)]*
+
+> <sup>[11](/bible/genesis/27#v11)</sup> And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:
+>
+> <sup>[12](/bible/genesis/27#v12)</sup> My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.
+>
+> <sup>[13](/bible/genesis/27#v13)</sup> And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them.
+>
+> <sup>[14](/bible/genesis/27#v14)</sup> And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved.
+>
+> <sup>[15](/bible/genesis/27#v15)</sup> And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:
+>
+> <sup>[16](/bible/genesis/27#v16)</sup> And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:
+>
+> <sup>[17](/bible/genesis/27#v17)</sup> And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob.
+>
+> <sup>[18](/bible/genesis/27#v18)</sup> And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?
+>
+> <sup>[19](/bible/genesis/27#v19)</sup> And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
+>
+> <sup>[20](/bible/genesis/27#v20)</sup> And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the Lord thy God brought it to me.
+>
+> <sup>[21](/bible/genesis/27#v21)</sup> And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.
+>
+> <sup>[22](/bible/genesis/27#v22)</sup> And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau.
+>
+> <sup>[23](/bible/genesis/27#v23)</sup> And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.
+>
+> <sup>[24](/bible/genesis/27#v24)</sup> And he said, Art thou my very son Esau? And he said, I am.
+>
+> <sup>[25](/bible/genesis/27#v25)</sup> And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank.
+>
+> <sup>[26](/bible/genesis/27#v26)</sup> And his father Isaac said unto him, Come near now, and kiss me, my son.
+>
+> <sup>[27](/bible/genesis/27#v27)</sup> And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the Lord hath blessed:
+>
+> <sup>[28](/bible/genesis/27#v28)</sup> Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
+>
+> <sup>[29](/bible/genesis/27#v29)</sup> Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee.
+
+- Grown, Esau was still a hairy man and Jacob a smooth man; the hair never fell off and the red never changed. Rebekah put the skins of the kids of the goats on Jacob's hands and neck, because Esau's hair was goat hair, thin and stringy, not woolly like a sheep; that is the hair the sisters buy at the Chinese store.
+
+- Jacob feared a curse for the disguise and Rebekah said upon me be thy curse, because she was making sure the prophecy she received in her womb came to pass. The Muslims who call Jacob a deceiver do it because they love Ishmael, but God chose Isaac.
+
+- Blind Isaac heard Jacob's voice but felt Esau's hands, hairy as his brother's, smelled the field on the raiment and blessed him: the dew of heaven, which falls everywhere, is the world; the fatness of the earth; let people serve thee and nations bow down; be lord over thy brethren and let thy mother's son bow down to thee. That is not equality either.
+
+
+**[Genesis 27:30-41](/bible/genesis/27#v30)**  *[[29:33](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=1773s)]*
+
+> <sup>[30](/bible/genesis/27#v30)</sup> And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
+>
+> <sup>[31](/bible/genesis/27#v31)</sup> And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me.
+>
+> <sup>[32](/bible/genesis/27#v32)</sup> And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau.
+>
+> <sup>[33](/bible/genesis/27#v33)</sup> And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed.
+>
+> <sup>[34](/bible/genesis/27#v34)</sup> And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father.
+>
+> <sup>[35](/bible/genesis/27#v35)</sup> And he said, Thy brother came with subtilty, and hath taken away thy blessing.
+>
+> <sup>[36](/bible/genesis/27#v36)</sup> And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?
+>
+> <sup>[37](/bible/genesis/27#v37)</sup> And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?
+>
+> <sup>[38](/bible/genesis/27#v38)</sup> And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
+>
+> <sup>[39](/bible/genesis/27#v39)</sup> And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;
+>
+> <sup>[40](/bible/genesis/27#v40)</sup> And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
+>
+> <sup>[41](/bible/genesis/27#v41)</sup> And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
+
+- Esau came in from hunting as soon as Jacob had gone, and Isaac trembled exceedingly: whoever was here, I blessed him, and he shall be blessed. Esau cried with a great and bitter cry.
+
+- He said Jacob took away my birthright; he is a liar, he sold it for food. Isaac had made Jacob his lord and given him all his brethren for servants, the earth and everything the dew falls on, and had nothing left.
+
+- Esau's blessing: thy dwelling shall be the fatness of the earth too, but by thy sword shalt thou live. He would take by force what Jacob inherited: firepower, gunpowder, ballistic missiles, nuclear fire. That is why he is so good at war. When thou shalt have the dominion thou shalt break his yoke; when Solomon fell, Esau got free of Jacob.
+
+- Esau hated Jacob because of the blessing, and that thought has never left him: the earth belongs to me, I am the oldest, I should be the chosen people; I will enslave them, make them gentiles and make myself Israel. America, Israel, Africa, anywhere Jacob is belongs to him. This is war, and the Christian-brainwashed think the same: the white man is God.
+
+
+**[Genesis 27:41-45](/bible/genesis/27#v41)**  *[[36:23](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2183s)]*
+
+> <sup>[41](/bible/genesis/27#v41)</sup> And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
+>
+> <sup>[42](/bible/genesis/27#v42)</sup> And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee.
+>
+> <sup>[43](/bible/genesis/27#v43)</sup> Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;
+>
+> <sup>[44](/bible/genesis/27#v44)</sup> And tarry with him a few days, until thy brother’s fury turn away;
+>
+> <sup>[45](/bible/genesis/27#v45)</sup> Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?
+
+- Esau said in his heart, not out loud, that when the days of mourning for his father came he would slay Jacob; the Lord revealed his thoughts to Rebekah because Isaac had a favourite.
+
+- She sent Jacob to Laban in Haran until his brother's fury turned, lest she be deprived of both in one day, since God would kill Esau if Esau killed Jacob. Esau himself calmed down and forgave, but his children never forgot and never forgave.
+
+
+**[Genesis 36:1-8](/bible/genesis/36#v1)**  *[[37:46](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2266s)]*
+
+> <sup>[1](/bible/genesis/36#v1)</sup> Now these are the generations of Esau, who is Edom.
+>
+> <sup>[2](/bible/genesis/36#v2)</sup> Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
+>
+> <sup>[3](/bible/genesis/36#v3)</sup> And Bashemath Ishmael’s daughter, sister of Nebajoth.
+>
+> <sup>[4](/bible/genesis/36#v4)</sup> And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
+>
+> <sup>[5](/bible/genesis/36#v5)</sup> And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan.
+>
+> <sup>[6](/bible/genesis/36#v6)</sup> And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
+>
+> <sup>[7](/bible/genesis/36#v7)</sup> For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
+>
+> <sup>[8](/bible/genesis/36#v8)</sup> Thus dwelt Esau in mount Seir: Esau is Edom.
+
+- Esau, who is Edom, took wives of the daughters of Canaan, Hittite and Hivite, against his parents, and when they were angry he married Bashemath, Ishmael's daughter, which was still bad; that is why so many light-skinned Arabs are Esau, and Nebajoth's line became the Nabataeans.
+
+- His sons were born in Canaan, the land promised to Jacob, where the brothers shared the land after he calmed down and both grew very rich. Then he went from the face of his brother, because their riches were more than they could dwell together and the land was not his, and dwelt in Mount Seir, where the Horites were.
+
+
+**[Genesis 36:15-21](/bible/genesis/36#v15)**  *[[41:25](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2485s)]*
+
+> <sup>[15](/bible/genesis/36#v15)</sup> These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
+>
+> <sup>[16](/bible/genesis/36#v16)</sup> Duke Korah, duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah.
+>
+> <sup>[17](/bible/genesis/36#v17)</sup> And these are the sons of Reuel Esau’s son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau’s wife.
+>
+> <sup>[18](/bible/genesis/36#v18)</sup> And these are the sons of Aholibamah Esau’s wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes that came of Aholibamah the daughter of Anah, Esau’s wife.
+>
+> <sup>[19](/bible/genesis/36#v19)</sup> These are the sons of Esau, who is Edom, and these are their dukes.
+>
+> <sup>[20](/bible/genesis/36#v20)</sup> These are the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,
+>
+> <sup>[21](/bible/genesis/36#v21)</sup> And Dishon, and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom.
+
+- The dukes of the sons of Esau: Teman, Omar, Zepho, Kenaz, Korah, Gatam and Amalek, all sons of Eliphaz, his firstborn. Remember them; they are around today under names like German, Israeli and Polish.
+
+- Then the sons of Seir the Horite who inhabited the land, with their own dukes, Lotan, Shobal, Zibeon, Anah, Dishon, Ezer and Dishan. Esau learned dukes from the Horites, took the title and the land, and Seir the Hamite land became Edom.
+
+  Precepts:
+  - **[Deuteronomy 2:12](/bible/deuteronomy/2#v12)**
+    > <sup>[12](/bible/deuteronomy/2#v12)</sup> The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the Lord gave unto them.
+
+    The Horims dwelt in Seir beforetime, but the children of Esau succeeded them when they had destroyed them and dwelt in their stead, as Israel did in Canaan; but we left Canaanites alive and Esau killed them all out by the sword.
+  - **[Deuteronomy 2:22](/bible/deuteronomy/2#v22)**
+    > <sup>[22](/bible/deuteronomy/2#v22)</sup> As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:
+
+    Esau destroyed the Horims from before them and dwells in their stead unto this day: the conquered cave dwellers became cave dwellers.
+
+
+**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[48:01](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2881s)]*
+
+> <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
+>
+> <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
+>
+> <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+>
+> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
+
+- Israel in captivity over and over asks wherein hast thou loved us, and the Lord answers: was not Esau Jacob's brother? Yet I loved Jacob and hated Esau. The theologians say the Hebrew means preferred less; tell your son you prefer him less and see if it sounds better. It means hate.
+
+- His mountains and heritage were laid waste for the dragons of the wilderness, the Arabs: the Nabataeans pushed much of Esau out of Seir in the time of Babylon, and Mount Seir is Petra today, rock, Peter.
+
+- Edom says we are impoverished, poor cave dwellers where they had been rich in Canaan, but we will return and build the desolate places; they shall build, and I will throw down. They shall be called the border of wickedness, the beginning and end of it, and the people against whom the Lord hath indignation for ever. Indignation is righteous hatred, until the end. That is their lot.
+
+
+**[Obadiah 1:1-4](/bible/obadiah/1#v1)**  *[[53:00](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=3180s)]*
+
+> <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
+>
+> <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
+>
+> <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
+>
+> <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
+
+- An ambassador is sent among the heathen: arise and let us rise up against her in battle. That is happening now; Trump's administration is leading up to it, and it means Edom had first rebuilt the desolate places and become a power worth rising against.
+
+- Small among the heathen, a minority on the earth, and greatly despised: the world is turning on Israel and America's own citizens on America. Trump is the honest face America hid for centuries and Netanyahu his little brother. From bullying Ye, Kyrie and Nick Cannon they exposed themselves, and now Iran calls them the Epstein regime.
+
+- The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock: the cave dweller, whose habitation is high, who says who shall bring me down. Though thou exalt thyself as the eagle: Greece, Rome, Spain, France, Russia, Britain and America all use the eagle, and all are Caucasian. Show me a black superpower that dwells in caves and exalts itself as the eagle.
+
+- Though thou set thy nest among the stars, the space stations and Space Force, thence will I bring thee down. America is in the age of decadence, the decline every empire shows: feminism, homosexuality, entertainment, the dying dollar. Make America great again admits it is not, and Trump is burning the alliances with his European family that made her great.
+
+
+**[Jeremiah 50:17](/bible/jeremiah/50#v17)**  *[[1:03:47](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=3827s)]*
+
+> <sup>[17](/bible/jeremiah/50#v17)</sup> Israel is a scattered sheep; the lions have driven him away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.
+
+- Israel is a scattered sheep: first Assyria devoured the northern kingdom and last Nebuchadnezzar broke Judah's bones. When both kingdoms fell Edom had no more threat, and that was when he found the time to grow and rise.
+
+
+**[Ezekiel 35:1-10](/bible/ezekiel/35#v1)**  *[[1:05:17](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=3917s)]*
+
+> <sup>[1](/bible/ezekiel/35#v1)</sup> Moreover the word of the Lord came unto me, saying,
+>
+> <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
+>
+> <sup>[3](/bible/ezekiel/35#v3)</sup> And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
+>
+> <sup>[4](/bible/ezekiel/35#v4)</sup> I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.
+>
+> <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
+>
+> <sup>[6](/bible/ezekiel/35#v6)</sup> Therefore, as I live, saith the Lord God, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.
+>
+> <sup>[7](/bible/ezekiel/35#v7)</sup> Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.
+>
+> <sup>[8](/bible/ezekiel/35#v8)</sup> And I will fill his mountains with his slain men: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.
+>
+> <sup>[9](/bible/ezekiel/35#v9)</sup> I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the Lord.
+>
+> <sup>[10](/bible/ezekiel/35#v10)</sup> Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:
+
+- Set thy face against Mount Seir: Edom took it over and became Seir. Because thou hast had a perpetual hatred, the hatred Esau forgave but his descendants kept in their blood from then until now.
+
+- They shed the blood of the children of Israel by the sword in the time of their calamity and when their iniquity had an end: when Babylon devoured our bones Edom assisted, and after the emancipation they found Jim Crow, the black codes and the Klan to extend the terror.
+
+- I will prepare thee unto blood and blood shall pursue thee, sith thou hast not hated blood; they love it, resemble it and shed it. Perpetual desolations and thy cities shall not return: after this there is no rebuilding, no more America, no more capitals.
+
+- Because thou hast said these two nations and these two countries shall be mine, though the Lord was there: Judah and Ephraim, Judah and Samaria, and Israel and America too. Whatever was given to Jacob Esau takes by the sword because he believes the birthright is his.
+
+
+**[Numbers 24:20](/bible/numbers/24#v20)**  *[[1:09:05](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4145s)]*
+
+> <sup>[20](/bible/numbers/24#v20)</sup> And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.
+
+- Amalek was the first of the nations, the first to attack us out of Egypt, and his latter end is to perish for ever: condemned at the very beginning of the Bible, and there is no saving this family.
+
+- They attacked from behind, where the elders, the mothers and the children were, cowards then and now, dropping bombs and running off, crying about antisemitism because they are not built for war though they are murderous and very emotional.
+
+
+**[Judges 3:13](/bible/judges/3#v13)**  *[[1:11:23](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4283s)]*
+
+> <sup>[13](/bible/judges/3#v13)</sup> And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.
+
+- The king of Moab gathered Ammon and Amalek to smite Israel and possess the city of palm trees: Edom always used as the tool to take our land, back to the birthright he gave away and the blessing he lost.
+
+
+**[1 Esdras 4:45](/bible/1-esdras/4#v45)**  *[[1:12:15](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4335s)]*
+
+> <sup>[45](/bible/1-esdras/4#v45)</sup> Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees.
+
+- Darius vowed to build up the temple which the Edomites burned when Judea was made desolate by the Chaldees: Edom, already conquered, helped Babylon overthrow us and burned the first temple, and as the Romans they destroyed the second.
+
+- The Edomites should give over the villages of the Jews which then they held: when Babylon took us they moved into our land, until Persia put them out. It is always them trying to take our land.
+
+  Precepts:
+  - **[1 Esdras 4:50](/bible/1-esdras/4#v50)**
+    > <sup>[50](/bible/1-esdras/4#v50)</sup> And that all the country which they hold should be free without tribute; and that the Edomites should give over the villages of the Jews which then they held:
+
+    Persia decreed the Edomites give back the villages of the Jews they held; they moved in the moment we were carried away.
+
+
+**[Sirach 50:26](/bible/sirach/50#v26)**  *[[1:14:35](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4475s)]*
+
+> <sup>[26](/bible/sirach/50#v26)</sup> They that sit upon the mountain of Samaria, and they that dwell among the Philistines, and that foolish people that dwell in Sichem.
+
+- Sirach was written by Jesus the son of Sirach around 200 to 175 BC, in the Greek period, to fight Greek influence. They that sit upon the mountain of Samaria were the Greeks, who built the temple of Jupiter on Mount Gerizim; other translations say Edomites verbatim, so Sirach tells you the Greeks were Edomites.
+
+- The Philistines are the Hamites, and that foolish people that dwell in Sichem is the silly northern kingdom that loved the heathen, the not a people of Deuteronomy 32.
+
+  Precepts:
+  - **[2 Maccabees 6:1-2](/bible/2-maccabees/6#v1)**
+    > <sup>[1](/bible/2-maccabees/6#v1)</sup> Not long after this the king sent an old man of Athens to compel the Jews to depart from the laws of their fathers, and not to live after the laws of God:
+    >
+    > <sup>[2](/bible/2-maccabees/6#v2)</sup> And to pollute also the temple in Jerusalem, and to call it the temple of Jupiter Olympius; and that in Garizim, of Jupiter the Defender of strangers, as they did desire that dwelt in the place.
+
+    The Greek king sent an old man of Athens to compel the Jews to depart from the laws of their fathers, Hellenization, assimilation like African Americans today, and to call the temple in Jerusalem Jupiter Olympius and the one in Gerizim Jupiter the defender of strangers.
+
+
+**[1 Maccabees 1:1](/bible/1-maccabees/1#v1)**  *[[1:18:40](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4720s)]*
+
+> <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
+
+- Alexander, son of Philip the Macedonian, came out of Chittim and smote Darius the Persian: the Greeks began to conquer the dark nations, which is Edom rebuilding the desolate places.
+
+
+**[Esther 3:1](/bible/esther/3#v1)**  *[[1:19:26](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4766s)]*
+
+> <sup>[1](/bible/esther/3#v1)</sup> After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
+
+- Haman the son of Hammedatha the Agagite: Agag was the Amalekite king of 1 Samuel 15, so Haman descended from the Edomites Saul failed to finish, and when he learned Mordecai was of Saul's line he sought to kill them all. From the womb to the tomb, this is war.
+
+  Precepts:
+  - **[Esther (Greek) 12:6](/bible/esther-greek/12#v6)**
+    > <sup>[6](/bible/esther-greek/12#v6)</sup> Howbeit Aman the son of Amadathus the Agagite, who was in great honour with the king, sought to molest Mardocheus and his people because of the two eunuchs of the king.
+
+    Haman the Agagite sought to molest Mordecai and his people because of the two eunuchs, the assassins he hired to take the Persian throne from inside.
+  - **[Esther (Greek) 16:10](/bible/esther-greek/16#v10)**
+    > <sup>[10](/bible/esther-greek/16#v10)</sup> For Aman, a Macedonian, the son of Amadatha, being indeed a stranger from the Persian blood, and far distant from our goodness, and as a stranger received of us,
+
+    Haman, a Macedonian, a stranger from the Persian blood: Philip was the Macedonian, so Edomites and Macedonians are the same people, and Haman was an Edomite.
+
+
+**[Wisdom of Solomon 7:17-18](/bible/wisdom-of-solomon/7#v17)**  *[[1:32:33](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5553s)]*
+
+> <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
+>
+> <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
+
+- Solomon was given to know how the world was made, the beginning, ending and midst of the time: he saw Genesis, the last days and the Middle Ages, which are the middle of the last days.
+
+- The last days began when Christ was born and time restarted and went forward; BC counts backwards, and if the earth were billions of years old we would not be counting 2026 from Christ. The Dark Ages are the middle, and we are now in the last of the last days.
+
+
+**[2 Esdras 12:21](/bible/2-esdras/12#v21)**  *[[1:35:00](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5700s)]*
+
+> <sup>[21](/bible/2-esdras/12#v21)</sup> And two of them shall perish, the middle time approaching: four shall be kept until their end begin to approach: but two shall be kept unto the end.
+
+- Two of them shall perish, the middle time approaching: Didius Julianus and Pertinax, the Roman emperors killed out of the way in 193 AD when Septimius Severus, a black man, took Rome. Once they fell the middle time began, and blacks ruled Europe and the Byzantine Empire for over a thousand years, evil Negroes with crowns on for the most part.
+
+
+**[Revelation 13:1-4](/bible/revelation/13#v1)**  *[[1:38:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5931s)]*
+
+> <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+>
+> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+>
+> <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+>
+> <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
+
+- The beast out of the sea with seven heads and ten horns is Edom: Greece, Rome, Spain, France, Germany, Russia and Great Britain, with America the eighth out of Britain, and the ten horns the common markets, the European Union.
+
+- Like a leopard because he took the Greek attribute, democracy born in Athens and the Senate born in Rome; feet of a bear because he borrowed duality from the Medes and Persians, Republican and Democrat, the illusion of choice in an oligarchy where the dukes rule behind the scenes; the mouth of a lion is Babylon, the new year, birthdays, the customs and the banking system the Rothschilds took from Babylon's records.
+
+- The dragon gave him his power, his seat and great authority: that is how he rebuilt the desolate places, and Satan gave him authority over religion, politics, education and media to tell you who is who.
+
+- One head wounded to death was Rome, wounded by us under Septimius Severus in the Dark Ages, and the deadly wound healed in the Renaissance, the Reconquista, the white power structure back over the earth. All the world wondered after the beast and worshipped the dragon: black people worship the white man as God because Satan gave him power, keeping his New Year, his Christmas, his white Jesus, adoring his technology and his witchcraft that turns a man into a woman. He controls the news, the food, the medicine and your thoughts; most of our brains is the television.
+
+
+**[Job 30:1-10](/bible/job/30#v1)**  *[[1:47:37](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6457s)]*
+
+> <sup>[1](/bible/job/30#v1)</sup> But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
+>
+> <sup>[2](/bible/job/30#v2)</sup> Yea, whereto might the strength of their hands profit me, in whom old age was perished?
+>
+> <sup>[3](/bible/job/30#v3)</sup> For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.
+>
+> <sup>[4](/bible/job/30#v4)</sup> Who cut up mallows by the bushes, and juniper roots for their meat.
+>
+> <sup>[5](/bible/job/30#v5)</sup> They were driven forth from among men, (they cried after them as after a thief;)
+>
+> <sup>[6](/bible/job/30#v6)</sup> To dwell in the clifts of the valleys, in caves of the earth, and in the rocks.
+>
+> <sup>[7](/bible/job/30#v7)</sup> Among the bushes they brayed; under the nettles they were gathered together.
+>
+> <sup>[8](/bible/job/30#v8)</sup> They were children of fools, yea, children of base men: they were viler than the earth.
+>
+> <sup>[9](/bible/job/30#v9)</sup> And now am I their song, yea, I am their byword.
+>
+> <sup>[10](/bible/job/30#v10)</sup> They abhor me, they flee far from me, and spare not to spit in my face.
+
+- They that are younger than I have me in derision, whose fathers I would have disdained to set with the dogs of my flock: they are that vile. For want and famine they were solitary, fleeing into the wilderness: the Moors forced them into the caves of Covadonga in Spain and Portugal and into the Caucasus between the Black and Caspian Seas.
+
+- They cut up mallows and juniper roots for meat, driven forth from among men and cried after as thieves, to dwell in the cliffs of the valleys, in caves of the earth and in the rocks; among the bushes they bray, making animal noises. Children of fools, children of base men, men of no name, viler than the earth: ask Epstein.
+
+- And now am I their song and their byword; they abhor me, flee from me and spare not to spit in my face. They mock us as kushi and schwartzer, and we have seen them spit and vomit in a sister's face. To go from the caves to this they must have a god, and the dragon gave them his power.
+
+
+**[Job 9:24](/bible/job/9#v24)**  *[[2:08:35](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7715s)]*
+
+> <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
+
+- The earth is given into the hand of the wicked and he covereth the faces of the judges thereof: he whitewashed the Messiah, the Father, the angels, the Israelites and our own leaders of the Dark Ages, the black judges of the King's Bench and the black kings.
+
+
+**[Ezekiel 35:10-12](/bible/ezekiel/35#v10)**  *[[2:11:44](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7904s)]*
+
+> <sup>[10](/bible/ezekiel/35#v10)</sup> Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:
+>
+> <sup>[11](/bible/ezekiel/35#v11)</sup> Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.
+>
+> <sup>[12](/bible/ezekiel/35#v12)</sup> And thou shalt know that I am the Lord, and that I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.
+
+- I will do according to thine anger and thine envy which thou hast used out of thy hatred against them, and I will make myself known among them when I have judged thee: while they are distracted by Iran, the word is spreading and we are waking up as an exceeding great army.
+
+- I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying they are laid desolate, they are given us to consume: enslaved, and consumed spiritually and literally.
+
+  Precepts:
+  - **[Ezekiel 37:10](/bible/ezekiel/37#v10)**
+    > <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
+
+    The breath came into them and they stood up, an exceeding great army: that is now.
+  - **[Psalms 50:16-22](/bible/psalms/50#v16)**
+    > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
+    >
+    > <sup>[17](/bible/psalms/50#v17)</sup> Seeing thou hatest instruction, and castest my words behind thee.
+    >
+    > <sup>[18](/bible/psalms/50#v18)</sup> When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
+    >
+    > <sup>[19](/bible/psalms/50#v19)</sup> Thou givest thy mouth to evil, and thy tongue frameth deceit.
+    >
+    > <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
+    >
+    > <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+    >
+    > <sup>[22](/bible/psalms/50#v22)</sup> Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+
+    To the wicked that hate instruction and take his covenant in their mouth, that sit and slander their own mother's son: thou thoughtest that I was altogether such an one as thyself, a white God with white angels and a white Christ; I will reprove thee and set them in order before thine eyes, lest I tear you in pieces.
+
+
+**[Revelation 2:9](/bible/revelation/2#v9)**  *[[2:15:17](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8117s)]*
+
+> <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
+
+- The blasphemy of them which say they are Jews and are not, but are the synagogue of Satan: the chief house of the devil, to whom the dragon gave his seat.
+
+  Precepts:
+  - **[Revelation 3:9](/bible/revelation/3#v9)**
+    > <sup>[9](/bible/revelation/3#v9)</sup> Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
+
+    Those of the synagogue of Satan who say they are Jews and do lie will be made to come and worship before thy feet and to know that I have loved thee: the real Jews are obviously not them.
+
+
+**[Isaiah 34:1-8](/bible/isaiah/34#v1)**  *[[2:21:23](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8483s)]*
+
+> <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
+>
+> <sup>[2](/bible/isaiah/34#v2)</sup> For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
+>
+> <sup>[3](/bible/isaiah/34#v3)</sup> Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
+>
+> <sup>[4](/bible/isaiah/34#v4)</sup> And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.
+>
+> <sup>[5](/bible/isaiah/34#v5)</sup> For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
+>
+> <sup>[6](/bible/isaiah/34#v6)</sup> The sword of the Lord is filled with blood, it is made fat with fatness, and with the blood of lambs and goats, with the fat of the kidneys of rams: for the Lord hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea.
+>
+> <sup>[7](/bible/isaiah/34#v7)</sup> And the unicorns shall come down with them, and the bullocks with the bulls; and their land shall be soaked with blood, and their dust made fat with fatness.
+>
+> <sup>[8](/bible/isaiah/34#v8)</sup> For it is the day of the Lord’s vengeance, and the year of recompences for the controversy of Zion.
+
+- The indignation of the Lord is upon all nations and his fury upon all their armies; their slain cast out, the mountains melted with blood, the host of heaven dissolved and the heaven rolled together as a scroll: nuclear destruction, and the host falling like leaves and figs are the missiles.
+
+- My sword shall be bathed in heaven, where Edom is, the ruling kingdom of today, and it shall come down upon Idumea and upon the people of my curse to judgment. Every other version reads the people devoted, marked or designated for destruction; that is their purpose.
+
+- The Lord hath a sacrifice in Bozrah, the capital of Edom, and a great slaughter in the land of Idumea, the land of Israel today; their land soaked with blood, for it is the day of the Lord's vengeance and the year of recompenses for the controversy of Zion.
+
+  Precepts:
+  - **[Romans 9:21-23](/bible/romans/9#v21)**
+    > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+    >
+    > <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+    >
+    > <sup>[23](/bible/romans/9#v23)</sup> And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
+
+    Of the same lump, Isaac, one vessel unto honour and one unto dishonour: Edom is the vessel of wrath fitted to destruction and we are the vessels of mercy afore prepared unto glory. There is no saving any of them, however much you love grandma.
+  - **[Zechariah 12:3](/bible/zechariah/12#v3)**
+    > <sup>[3](/bible/zechariah/12#v3)</sup> And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.
+
+    The controversy of Zion: Jerusalem a burdensome stone to all that burden themselves with it, and the Israelis holding and expanding a land that does not belong to them are being cut in pieces by it.
+
+
+**[Zechariah 14:1-11](/bible/zechariah/14#v1)**  *[[2:27:32](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8852s)]*
+
+> <sup>[1](/bible/zechariah/14#v1)</sup> Behold, the day of the Lord cometh, and thy spoil shall be divided in the midst of thee.
+>
+> <sup>[2](/bible/zechariah/14#v2)</sup> For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.
+>
+> <sup>[3](/bible/zechariah/14#v3)</sup> Then shall the Lord go forth, and fight against those nations, as when he fought in the day of battle.
+>
+> <sup>[4](/bible/zechariah/14#v4)</sup> And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.
+>
+> <sup>[5](/bible/zechariah/14#v5)</sup> And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the Lord my God shall come, and all the saints with thee.
+>
+> <sup>[6](/bible/zechariah/14#v6)</sup> And it shall come to pass in that day, that the light shall not be clear, nor dark:
+>
+> <sup>[7](/bible/zechariah/14#v7)</sup> But it shall be one day which shall be known to the Lord, not day, nor night: but it shall come to pass, that at evening time it shall be light.
+>
+> <sup>[8](/bible/zechariah/14#v8)</sup> And it shall be in that day, that living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be.
+>
+> <sup>[9](/bible/zechariah/14#v9)</sup> And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one.
+>
+> <sup>[10](/bible/zechariah/14#v10)</sup> All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king’s winepresses.
+>
+> <sup>[11](/bible/zechariah/14#v11)</sup> And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
+
+- All nations gathered against Jerusalem, the city taken, the houses rifled, the women ravished and half the city into captivity: the Israelis, in the war taking place over there now. Then the Lord goes forth to fight and his feet stand on the mount of Olives, the place he left from, and it cleaves into a great valley.
+
+- One day known to the Lord, light at evening time, is the bombs and the nukes; then living waters from Jerusalem and the Lord king over all the earth with one name, which is not now.
+
+- Men shall dwell in it and there shall be no more utter destruction, but Jerusalem shall be safely inhabited: if the people there were the right people there would be no war, because the Messiah must return before we enter the land. That is why they are being blown to hell.
+
+  Precepts:
+  - **[Isaiah 60:18](/bible/isaiah/60#v18)**
+    > <sup>[18](/bible/isaiah/60#v18)</sup> Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.
+
+    Violence shall no more be heard in thy land, nor wasting nor destruction within thy borders: no bombs in Tel Aviv, Ashdod or Ashkelon when the rightful people are placed there.
+  - **[Isaiah 60:21](/bible/isaiah/60#v21)**
+    > <sup>[21](/bible/isaiah/60#v21)</sup> Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
+
+    Thy people also shall be all righteous and inherit the land for ever: the people over there are not all righteous, so they cannot be the guys.
+
+
+**[Ezekiel 38:8-11](/bible/ezekiel/38#v8)**  *[[2:30:34](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9034s)]*
+
+> <sup>[8](/bible/ezekiel/38#v8)</sup> After many days thou shalt be visited: in the latter years thou shalt come into the land that is brought back from the sword, and is gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them.
+>
+> <sup>[9](/bible/ezekiel/38#v9)</sup> Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee.
+>
+> <sup>[10](/bible/ezekiel/38#v10)</sup> Thus saith the Lord God; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:
+>
+> <sup>[11](/bible/ezekiel/38#v11)</sup> And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
+
+- After many days thou shalt be visited by our Lord, and in the latter years come into the land brought back from the sword and gathered out of many people, against the mountains of Israel which have been always waste, and they shall dwell safely, all of them.
+
+- Are the Israelis dwelling safely? They are in bomb shelters, running and crying about the unsanitary conditions. Where is their god, on vacation, with Epstein, at Starbucks? The land of unwalled villages with neither bars nor gates is not the land of walls over there today.
+
+
+**[Joel 3:1-8](/bible/joel/3#v1)**  *[[2:32:44](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9164s)]*
+
+> <sup>[1](/bible/joel/3#v1)</sup> For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
+>
+> <sup>[2](/bible/joel/3#v2)</sup> I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
+>
+> <sup>[3](/bible/joel/3#v3)</sup> And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
+>
+> <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
+>
+> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
+>
+> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
+>
+> <sup>[7](/bible/joel/3#v7)</sup> Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
+>
+> <sup>[8](/bible/joel/3#v8)</sup> And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the Lord hath spoken it.
+
+- When I bring again the captivity of Judah I will gather all nations into the valley of Jehoshaphat and plead with them there for my people and my heritage Israel: he emphasises my people and my land because Christianity would teach he comes to save all people.
+
+- They cast lots for my people, auctioned us off, gave a boy for an harlot and sold a girl for wine. Tyre, Sidon and the coasts of Palestine, the Hamites and the Arabs, took our silver and gold into their temples, built on Solomon's, and sold the children of Judah to the Grecians, the white man, in the trans-Saharan and transatlantic trades to remove us far from our border.
+
+- I will raise them out of the place where ye sold them and sell your sons and daughters into the hand of the children of Judah, who sell them to the Sabeans, the Somalis, a people far off.
+
+
+**[Joel 3:9-21](/bible/joel/3#v9)**  *[[2:35:22](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9322s)]*
+
+> <sup>[9](/bible/joel/3#v9)</sup> Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:
+>
+> <sup>[10](/bible/joel/3#v10)</sup> Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.
+>
+> <sup>[11](/bible/joel/3#v11)</sup> Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O Lord.
+>
+> <sup>[12](/bible/joel/3#v12)</sup> Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
+>
+> <sup>[13](/bible/joel/3#v13)</sup> Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.
+>
+> <sup>[14](/bible/joel/3#v14)</sup> Multitudes, multitudes in the valley of decision: for the day of the Lord is near in the valley of decision.
+>
+> <sup>[15](/bible/joel/3#v15)</sup> The sun and the moon shall be darkened, and the stars shall withdraw their shining.
+>
+> <sup>[16](/bible/joel/3#v16)</sup> The Lord also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the Lord will be the hope of his people, and the strength of the children of Israel.
+>
+> <sup>[17](/bible/joel/3#v17)</sup> So shall ye know that I am the Lord your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
+>
+> <sup>[18](/bible/joel/3#v18)</sup> And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim.
+>
+> <sup>[19](/bible/joel/3#v19)</sup> Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land.
+>
+> <sup>[20](/bible/joel/3#v20)</sup> But Judah shall dwell for ever, and Jerusalem from generation to generation.
+>
+> <sup>[21](/bible/joel/3#v21)</sup> For I will cleanse their blood that I have not cleansed: for the Lord dwelleth in Zion.
+
+- Proclaim this among the Gentiles: prepare war, wake up the mighty men, let all the men of war draw near. Get the uranium; Iran, Saudi Arabia, China and Russia, do your thing. Beat your plowshares into swords, and let the weak, all the nations the Europeans weakened, say I am strong, we can defeat America and Israel.
+
+- Assemble yourselves, all ye heathen, and cause thy mighty ones to come down, the angels and Christ; the heathen wakened and come up to the valley of Jehoshaphat, the valley of decision in the Near East, where the Lord sits to judge all the heathen, as Isaiah 34 and Zechariah 14 said.
+
+- Put in the sickle, for the harvest is ripe: the 144,000 is ready to go home, and once our blood is shed in this land it is a wrap. Sun and moon darkened is the black rain of the bombs; the Lord roars out of Zion and the heavens and earth shake when he lands.
+
+- The Lord will be the hope of his people, not all people, and the strength of the children of Israel; then Jerusalem is holy and no strangers pass through her any more. Egypt shall be a desolation and Edom a desolate wilderness for the violence against the children of Judah, no more America and no more Israeli state, but Judah shall dwell for ever and Jerusalem from generation to generation.
+
+
+**[1 Corinthians 11:23-30](/bible/1-corinthians/11#v23)**  *[[2:41:00](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9660s)]*
+
+> <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
+>
+> <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+>
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
+>
+> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
+>
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
+>
+> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
+>
+> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
+>
+> <sup>[30](/bible/1-corinthians/11#v30)</sup> For this cause many are weak and sickly among you, and many sleep.
+
+- The bread and wine to bring in the new year: this do in remembrance of me, and let a man examine himself, for he that eateth and drinketh unworthily eateth damnation to himself.
+
+
+## Class Questions
+
+- **According to prophecy, does Israel's last return from exile take place before the Messiah returns or after?** After. Every prophet has the whole nation gathered into the land safely after the Messiah comes, so the people there now, who themselves say they still wait for the Messiah, cannot be the ones who returned, and Ephraim is nowhere among them.
+- **Where did Esau learn about dukes?** From the Horites, the Hamite dukes of Seir; he got among them, took the title, destroyed them and took the land.
+- **Show me a black nation today that is a superpower, dwells in caves and exalts itself as the eagle.** There is none. Obadiah fits one people, the Europeans: Greece, Rome, Spain, France, Russia, Britain and America all carry the eagle.
+- **During BC did time count forward or backward?** Backward. When Christ was born time restarted and went forward towards the end; that is why the year is 2026 and not two billion.
+
+## In Closing
+
+*[[2:38:38](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9518s)]* Egypt shall be a desolation and Edom a desolate wilderness for the violence against the children of Judah, because they have shed innocent blood in their land; but Judah shall dwell for ever, and Jerusalem from generation to generation. Happy new year.
+
+## Announcements & References
+
+- Bread and wine after the class to bring in the new moon and the new year, with Passover approaching.
+- The books read from were sent to the congregation on Telegram: the anatomy workbook, the rabbinic and medieval sources on Edom, Modern Judaism, Sex and Race volume three, The Wild Man, History of the Conquest of Spain, and the Jewish Encyclopedia on the Khazars.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=E7-T_cAwLUc)

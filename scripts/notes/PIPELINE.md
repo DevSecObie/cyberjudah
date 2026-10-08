@@ -21,9 +21,9 @@ note cites it; there is no separate ledger to fall out of step.
 | shape of the note | `npm run notes:lint` | yes |
 | links | `npm run build` | yes |
 
-Everything except writing is mechanical. Writing is not, and should not be automated into
-a summary: near-verbatim in the teacher's own words is the point of the note, and a
-summarised note has been rejected before.
+Everything except writing is mechanical. Writing is not: the note is the study guide of the
+class, the points made and the scriptures broken down, in the teacher's words but not at his
+length. The transcript is the record of every word; the note is what a student keeps.
 
 ---
 

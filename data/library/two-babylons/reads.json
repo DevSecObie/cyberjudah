@@ -1,0 +1,933 @@
+{
+ "about": "Moments in the classes where this book was read aloud: the class's video, the volume and printed page, and the second it was read. Found by matching the recordings against the book's text (scripts/library/reads.py).",
+ "reads": [
+  {
+   "video": "-0R6K8gSNAI",
+   "vol": 1,
+   "page": 127,
+   "t": 7008,
+   "ts": "1:56:48",
+   "hits": 10
+  },
+  {
+   "video": "-U_-sfA5QuA",
+   "vol": 1,
+   "page": 97,
+   "t": 489,
+   "ts": "8:09",
+   "hits": 58
+  },
+  {
+   "video": "-U_-sfA5QuA",
+   "vol": 1,
+   "page": 98,
+   "t": 546,
+   "ts": "9:06",
+   "hits": 92
+  },
+  {
+   "video": "-U_-sfA5QuA",
+   "vol": 1,
+   "page": 99,
+   "t": 758,
+   "ts": "12:38",
+   "hits": 28
+  },
+  {
+   "video": "-U_-sfA5QuA",
+   "vol": 1,
+   "page": 102,
+   "t": 799,
+   "ts": "13:19",
+   "hits": 12
+  },
+  {
+   "video": "-U_-sfA5QuA",
+   "vol": 1,
+   "page": 93,
+   "t": 1582,
+   "ts": "26:22",
+   "hits": 80
+  },
+  {
+   "video": "-U_-sfA5QuA",
+   "vol": 1,
+   "page": 94,
+   "t": 1671,
+   "ts": "27:51",
+   "hits": 23
+  },
+  {
+   "video": "05vKsK7eC_c",
+   "vol": 1,
+   "page": 127,
+   "t": 1470,
+   "ts": "24:30",
+   "hits": 10
+  },
+  {
+   "video": "0JYOwll_8zY",
+   "vol": 1,
+   "page": 103,
+   "t": 3362,
+   "ts": "56:02",
+   "hits": 67
+  },
+  {
+   "video": "0JYOwll_8zY",
+   "vol": 1,
+   "page": 104,
+   "t": 3824,
+   "ts": "1:03:44",
+   "hits": 98
+  },
+  {
+   "video": "0JYOwll_8zY",
+   "vol": 1,
+   "page": 107,
+   "t": 4265,
+   "ts": "1:11:05",
+   "hits": 23
+  },
+  {
+   "video": "0JYOwll_8zY",
+   "vol": 1,
+   "page": 108,
+   "t": 4523,
+   "ts": "1:15:23",
+   "hits": 88
+  },
+  {
+   "video": "0JYOwll_8zY",
+   "vol": 1,
+   "page": 109,
+   "t": 4983,
+   "ts": "1:23:03",
+   "hits": 92
+  },
+  {
+   "video": "0YIZdcloRsc",
+   "vol": 1,
+   "page": 127,
+   "t": 1622,
+   "ts": "27:02",
+   "hits": 10
+  },
+  {
+   "video": "16uZYlAJoPE",
+   "vol": 1,
+   "page": 96,
+   "t": 6403,
+   "ts": "1:46:43",
+   "hits": 27
+  },
+  {
+   "video": "16uZYlAJoPE",
+   "vol": 1,
+   "page": 97,
+   "t": 6637,
+   "ts": "1:50:37",
+   "hits": 144
+  },
+  {
+   "video": "16uZYlAJoPE",
+   "vol": 1,
+   "page": 97,
+   "t": 8996,
+   "ts": "2:29:56",
+   "hits": 133
+  },
+  {
+   "video": "16uZYlAJoPE",
+   "vol": 1,
+   "page": 98,
+   "t": 9188,
+   "ts": "2:33:08",
+   "hits": 48
+  },
+  {
+   "video": "2mpS5gGtVRg",
+   "vol": 1,
+   "page": 188,
+   "t": 1633,
+   "ts": "27:13",
+   "hits": 20
+  },
+  {
+   "video": "2mpS5gGtVRg",
+   "vol": 1,
+   "page": 189,
+   "t": 1694,
+   "ts": "28:14",
+   "hits": 36
+  },
+  {
+   "video": "3LcyGeVOBU0",
+   "vol": 1,
+   "page": 127,
+   "t": 2281,
+   "ts": "38:01",
+   "hits": 10
+  },
+  {
+   "video": "9QZ7P2qfVL8",
+   "vol": 1,
+   "page": 127,
+   "t": 878,
+   "ts": "14:38",
+   "hits": 10
+  },
+  {
+   "video": "B0PtUlhR7nI",
+   "vol": 1,
+   "page": 19,
+   "t": 7609,
+   "ts": "2:06:49",
+   "hits": 18
+  },
+  {
+   "video": "B0PtUlhR7nI",
+   "vol": 1,
+   "page": 20,
+   "t": 7624,
+   "ts": "2:07:04",
+   "hits": 128
+  },
+  {
+   "video": "B0PtUlhR7nI",
+   "vol": 1,
+   "page": 21,
+   "t": 7864,
+   "ts": "2:11:04",
+   "hits": 18
+  },
+  {
+   "video": "B0PtUlhR7nI",
+   "vol": 1,
+   "page": 295,
+   "t": 8184,
+   "ts": "2:16:24",
+   "hits": 252
+  },
+  {
+   "video": "B0PtUlhR7nI",
+   "vol": 1,
+   "page": 296,
+   "t": 8505,
+   "ts": "2:21:45",
+   "hits": 91
+  },
+  {
+   "video": "Cf7NIvuINQE",
+   "vol": 1,
+   "page": 276,
+   "t": 8211,
+   "ts": "2:16:51",
+   "hits": 8
+  },
+  {
+   "video": "Cf7NIvuINQE",
+   "vol": 1,
+   "page": 277,
+   "t": 8216,
+   "ts": "2:16:56",
+   "hits": 18
+  },
+  {
+   "video": "EKci_JKdtvc",
+   "vol": 1,
+   "page": 103,
+   "t": 34,
+   "ts": "0:34",
+   "hits": 5
+  },
+  {
+   "video": "EKci_JKdtvc",
+   "vol": 1,
+   "page": 197,
+   "t": 167,
+   "ts": "2:47",
+   "hits": 21
+  },
+  {
+   "video": "Em4IjuvooSU",
+   "vol": 1,
+   "page": 127,
+   "t": 2302,
+   "ts": "38:22",
+   "hits": 10
+  },
+  {
+   "video": "Em4IjuvooSU",
+   "vol": 1,
+   "page": 127,
+   "t": 3580,
+   "ts": "59:40",
+   "hits": 10
+  },
+  {
+   "video": "GrcpwyhAC5c",
+   "vol": 1,
+   "page": 97,
+   "t": 488,
+   "ts": "8:08",
+   "hits": 61
+  },
+  {
+   "video": "GrcpwyhAC5c",
+   "vol": 1,
+   "page": 98,
+   "t": 548,
+   "ts": "9:08",
+   "hits": 85
+  },
+  {
+   "video": "GrcpwyhAC5c",
+   "vol": 1,
+   "page": 99,
+   "t": 759,
+   "ts": "12:39",
+   "hits": 31
+  },
+  {
+   "video": "GrcpwyhAC5c",
+   "vol": 1,
+   "page": 102,
+   "t": 799,
+   "ts": "13:19",
+   "hits": 10
+  },
+  {
+   "video": "GrcpwyhAC5c",
+   "vol": 1,
+   "page": 93,
+   "t": 1579,
+   "ts": "26:19",
+   "hits": 85
+  },
+  {
+   "video": "GrcpwyhAC5c",
+   "vol": 1,
+   "page": 94,
+   "t": 1671,
+   "ts": "27:51",
+   "hits": 23
+  },
+  {
+   "video": "HbGnsQfMnjw",
+   "vol": 1,
+   "page": 197,
+   "t": 6902,
+   "ts": "1:55:02",
+   "hits": 130
+  },
+  {
+   "video": "HbGnsQfMnjw",
+   "vol": 1,
+   "page": 198,
+   "t": 7209,
+   "ts": "2:00:09",
+   "hits": 47
+  },
+  {
+   "video": "HbGnsQfMnjw",
+   "vol": 1,
+   "page": 199,
+   "t": 7318,
+   "ts": "2:01:58",
+   "hits": 141
+  },
+  {
+   "video": "ILcT5gXCCPA",
+   "vol": 1,
+   "page": 91,
+   "t": 2514,
+   "ts": "41:54",
+   "hits": 219
+  },
+  {
+   "video": "J_YD95hY5OU",
+   "vol": 1,
+   "page": 109,
+   "t": 3056,
+   "ts": "50:56",
+   "hits": 29
+  },
+  {
+   "video": "MtlS8uLwn3U",
+   "vol": 1,
+   "page": 127,
+   "t": 8747,
+   "ts": "2:25:47",
+   "hits": 11
+  },
+  {
+   "video": "OaCT4rr5-EQ",
+   "vol": 1,
+   "page": 103,
+   "t": 768,
+   "ts": "12:48",
+   "hits": 7
+  },
+  {
+   "video": "OaCT4rr5-EQ",
+   "vol": 1,
+   "page": 108,
+   "t": 1051,
+   "ts": "17:31",
+   "hits": 12
+  },
+  {
+   "video": "OaCT4rr5-EQ",
+   "vol": 1,
+   "page": 308,
+   "t": 2965,
+   "ts": "49:25",
+   "hits": 14
+  },
+  {
+   "video": "OaCT4rr5-EQ",
+   "vol": 1,
+   "page": 104,
+   "t": 3254,
+   "ts": "54:14",
+   "hits": 4
+  },
+  {
+   "video": "OaCT4rr5-EQ",
+   "vol": 1,
+   "page": 105,
+   "t": 3295,
+   "ts": "54:55",
+   "hits": 16
+  },
+  {
+   "video": "RhBLaN9k0nk",
+   "vol": 1,
+   "page": 127,
+   "t": 18,
+   "ts": "0:18",
+   "hits": 15
+  },
+  {
+   "video": "TCuIHi4Rm8o",
+   "vol": 1,
+   "page": 103,
+   "t": 768,
+   "ts": "12:48",
+   "hits": 7
+  },
+  {
+   "video": "TCuIHi4Rm8o",
+   "vol": 1,
+   "page": 108,
+   "t": 1053,
+   "ts": "17:33",
+   "hits": 10
+  },
+  {
+   "video": "TCuIHi4Rm8o",
+   "vol": 1,
+   "page": 308,
+   "t": 2965,
+   "ts": "49:25",
+   "hits": 14
+  },
+  {
+   "video": "TCuIHi4Rm8o",
+   "vol": 1,
+   "page": 104,
+   "t": 3254,
+   "ts": "54:14",
+   "hits": 9
+  },
+  {
+   "video": "TCuIHi4Rm8o",
+   "vol": 1,
+   "page": 105,
+   "t": 3300,
+   "ts": "55:00",
+   "hits": 15
+  },
+  {
+   "video": "WVdlzCbdyfI",
+   "vol": 1,
+   "page": 93,
+   "t": 42,
+   "ts": "0:42",
+   "hits": 36
+  },
+  {
+   "video": "WVdlzCbdyfI",
+   "vol": 1,
+   "page": 93,
+   "t": 542,
+   "ts": "9:02",
+   "hits": 167
+  },
+  {
+   "video": "WVdlzCbdyfI",
+   "vol": 1,
+   "page": 93,
+   "t": 966,
+   "ts": "16:06",
+   "hits": 32
+  },
+  {
+   "video": "WVdlzCbdyfI",
+   "vol": 1,
+   "page": 93,
+   "t": 1781,
+   "ts": "29:41",
+   "hits": 62
+  },
+  {
+   "video": "WVdlzCbdyfI",
+   "vol": 1,
+   "page": 94,
+   "t": 1835,
+   "ts": "30:35",
+   "hits": 15
+  },
+  {
+   "video": "XG1J6lr9WOI",
+   "vol": 1,
+   "page": 127,
+   "t": 1116,
+   "ts": "18:36",
+   "hits": 10
+  },
+  {
+   "video": "YTvQvpVDbp8",
+   "vol": 1,
+   "page": 127,
+   "t": 593,
+   "ts": "9:53",
+   "hits": 10
+  },
+  {
+   "video": "Z3HDO-S3al8",
+   "vol": 1,
+   "page": 103,
+   "t": 5941,
+   "ts": "1:39:01",
+   "hits": 47
+  },
+  {
+   "video": "ZztygjY4U2w",
+   "vol": 1,
+   "page": 127,
+   "t": 5790,
+   "ts": "1:36:30",
+   "hits": 10
+  },
+  {
+   "video": "ac67I6Ag0GU",
+   "vol": 1,
+   "page": 104,
+   "t": 6528,
+   "ts": "1:48:48",
+   "hits": 4
+  },
+  {
+   "video": "ac67I6Ag0GU",
+   "vol": 1,
+   "page": 105,
+   "t": 6538,
+   "ts": "1:48:58",
+   "hits": 7
+  },
+  {
+   "video": "aijmA2A4ACA",
+   "vol": 1,
+   "page": 96,
+   "t": 6403,
+   "ts": "1:46:43",
+   "hits": 27
+  },
+  {
+   "video": "aijmA2A4ACA",
+   "vol": 1,
+   "page": 97,
+   "t": 6637,
+   "ts": "1:50:37",
+   "hits": 140
+  },
+  {
+   "video": "aijmA2A4ACA",
+   "vol": 1,
+   "page": 97,
+   "t": 8996,
+   "ts": "2:29:56",
+   "hits": 134
+  },
+  {
+   "video": "aijmA2A4ACA",
+   "vol": 1,
+   "page": 98,
+   "t": 9188,
+   "ts": "2:33:08",
+   "hits": 47
+  },
+  {
+   "video": "cvZF6nREScM",
+   "vol": 1,
+   "page": 127,
+   "t": 4317,
+   "ts": "1:11:57",
+   "hits": 10
+  },
+  {
+   "video": "d6TSSfG7JvQ",
+   "vol": 1,
+   "page": 136,
+   "t": 2262,
+   "ts": "37:42",
+   "hits": 10
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 20,
+   "t": 956,
+   "ts": "15:56",
+   "hits": 78
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 21,
+   "t": 1123,
+   "ts": "18:43",
+   "hits": 92
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 22,
+   "t": 1290,
+   "ts": "21:30",
+   "hits": 58
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 23,
+   "t": 1538,
+   "ts": "25:38",
+   "hits": 13
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 29,
+   "t": 1598,
+   "ts": "26:38",
+   "hits": 13
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 29,
+   "t": 2751,
+   "ts": "45:51",
+   "hits": 32
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 30,
+   "t": 4223,
+   "ts": "1:10:23",
+   "hits": 80
+  },
+  {
+   "video": "dotETmzPUbc",
+   "vol": 1,
+   "page": 47,
+   "t": 4444,
+   "ts": "1:14:04",
+   "hits": 34
+  },
+  {
+   "video": "f0wk1YzyfSQ",
+   "vol": 1,
+   "page": 97,
+   "t": 489,
+   "ts": "8:09",
+   "hits": 58
+  },
+  {
+   "video": "f0wk1YzyfSQ",
+   "vol": 1,
+   "page": 98,
+   "t": 546,
+   "ts": "9:06",
+   "hits": 94
+  },
+  {
+   "video": "f0wk1YzyfSQ",
+   "vol": 1,
+   "page": 99,
+   "t": 758,
+   "ts": "12:38",
+   "hits": 22
+  },
+  {
+   "video": "f0wk1YzyfSQ",
+   "vol": 1,
+   "page": 102,
+   "t": 799,
+   "ts": "13:19",
+   "hits": 12
+  },
+  {
+   "video": "f0wk1YzyfSQ",
+   "vol": 1,
+   "page": 93,
+   "t": 1582,
+   "ts": "26:22",
+   "hits": 85
+  },
+  {
+   "video": "f0wk1YzyfSQ",
+   "vol": 1,
+   "page": 94,
+   "t": 1671,
+   "ts": "27:51",
+   "hits": 23
+  },
+  {
+   "video": "gmGKMAA-FMk",
+   "vol": 1,
+   "page": 92,
+   "t": 6897,
+   "ts": "1:54:57",
+   "hits": 4
+  },
+  {
+   "video": "gmGKMAA-FMk",
+   "vol": 1,
+   "page": 91,
+   "t": 6910,
+   "ts": "1:55:10",
+   "hits": 51
+  },
+  {
+   "video": "h0z8nve9LdE",
+   "vol": 1,
+   "page": 103,
+   "t": 1141,
+   "ts": "19:01",
+   "hits": 35
+  },
+  {
+   "video": "h0z8nve9LdE",
+   "vol": 1,
+   "page": 107,
+   "t": 1349,
+   "ts": "22:29",
+   "hits": 27
+  },
+  {
+   "video": "h8NVkx5M-Mw",
+   "vol": 1,
+   "page": 189,
+   "t": 1386,
+   "ts": "23:06",
+   "hits": 10
+  },
+  {
+   "video": "hufskCDlc7o",
+   "vol": 1,
+   "page": 93,
+   "t": 5377,
+   "ts": "1:29:37",
+   "hits": 27
+  },
+  {
+   "video": "hufskCDlc7o",
+   "vol": 1,
+   "page": 94,
+   "t": 5424,
+   "ts": "1:30:24",
+   "hits": 27
+  },
+  {
+   "video": "hufskCDlc7o",
+   "vol": 1,
+   "page": 98,
+   "t": 5462,
+   "ts": "1:31:02",
+   "hits": 75
+  },
+  {
+   "video": "iF7H26_sO64",
+   "vol": 1,
+   "page": 197,
+   "t": 2100,
+   "ts": "35:00",
+   "hits": 22
+  },
+  {
+   "video": "iF7H26_sO64",
+   "vol": 1,
+   "page": 102,
+   "t": 3067,
+   "ts": "51:07",
+   "hits": 11
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 93,
+   "t": 2862,
+   "ts": "47:42",
+   "hits": 93
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 96,
+   "t": 3040,
+   "ts": "50:40",
+   "hits": 28
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 97,
+   "t": 3169,
+   "ts": "52:49",
+   "hits": 31
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 98,
+   "t": 3328,
+   "ts": "55:28",
+   "hits": 98
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 99,
+   "t": 3723,
+   "ts": "1:02:03",
+   "hits": 10
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 99,
+   "t": 3928,
+   "ts": "1:05:28",
+   "hits": 59
+  },
+  {
+   "video": "kXna_qJ5fE8",
+   "vol": 1,
+   "page": 102,
+   "t": 4058,
+   "ts": "1:07:38",
+   "hits": 23
+  },
+  {
+   "video": "l6uu9MUAYfE",
+   "vol": 1,
+   "page": 127,
+   "t": 3777,
+   "ts": "1:02:57",
+   "hits": 10
+  },
+  {
+   "video": "npauhYTNdM8",
+   "vol": 1,
+   "page": 93,
+   "t": 3446,
+   "ts": "57:26",
+   "hits": 192
+  },
+  {
+   "video": "npauhYTNdM8",
+   "vol": 1,
+   "page": 93,
+   "t": 3871,
+   "ts": "1:04:31",
+   "hits": 30
+  },
+  {
+   "video": "npauhYTNdM8",
+   "vol": 1,
+   "page": 93,
+   "t": 4686,
+   "ts": "1:18:06",
+   "hits": 64
+  },
+  {
+   "video": "npauhYTNdM8",
+   "vol": 1,
+   "page": 94,
+   "t": 4739,
+   "ts": "1:18:59",
+   "hits": 22
+  },
+  {
+   "video": "qNrxGXl2cJE",
+   "vol": 1,
+   "page": 93,
+   "t": 4255,
+   "ts": "1:10:55",
+   "hits": 48
+  },
+  {
+   "video": "qNrxGXl2cJE",
+   "vol": 1,
+   "page": 93,
+   "t": 4861,
+   "ts": "1:21:01",
+   "hits": 50
+  },
+  {
+   "video": "qNrxGXl2cJE",
+   "vol": 1,
+   "page": 98,
+   "t": 5130,
+   "ts": "1:25:30",
+   "hits": 68
+  },
+  {
+   "video": "qNrxGXl2cJE",
+   "vol": 1,
+   "page": 96,
+   "t": 5179,
+   "ts": "1:26:19",
+   "hits": 19
+  },
+  {
+   "video": "qNrxGXl2cJE",
+   "vol": 1,
+   "page": 98,
+   "t": 5935,
+   "ts": "1:38:55",
+   "hits": 39
+  },
+  {
+   "video": "qNrxGXl2cJE",
+   "vol": 1,
+   "page": 99,
+   "t": 6029,
+   "ts": "1:40:29",
+   "hits": 94
+  },
+  {
+   "video": "yPgRr5Ta23Y",
+   "vol": 1,
+   "page": 29,
+   "t": 9819,
+   "ts": "2:43:39",
+   "hits": 20
+  }
+ ]
+}

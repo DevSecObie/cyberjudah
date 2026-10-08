@@ -1,0 +1,812 @@
+---
+title: "The Mercy and Humility of King Manasseh"
+slug: "2026/2026-04-04-the-mercy-and-humility-of-king-manasseh"
+date: "2026-04-04"
+teacher: ""
+description: "IUIC in the ClassRoom · 2026-04-04"
+tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentance"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-04-04</p>
+
+<span class="opens"><b>Opens</b> [Sir 36](/bible/sirach/36) · [2 Kgs 20](/bible/2-kings/20) · [2 Kgs 21](/bible/2-kings/21) · [2 Chr 32](/bible/2-chronicles/32) · [2 Chr 33](/bible/2-chronicles/33) · [Pr Man 1](/bible/prayer-of-manasseh/1) · [Prov 18](/bible/proverbs/18) · [Exod 33](/bible/exodus/33) · [Ps 34](/bible/psalms/34) · [Isa 57](/bible/isaiah/57) · [2 Esdras 16](/bible/2-esdras/16) · [Sir 17](/bible/sirach/17) · [Luke 13](/bible/luke/13) · [2 Esdras 8](/bible/2-esdras/8) · [Jer 24](/bible/jeremiah/24) · [Ps 32](/bible/psalms/32) · <i>and 12 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="5tWDINEq3UI"></div>
+
+## Introduction
+
+*[[8:35](https://www.youtube.com/watch?v=5tWDINEq3UI&t=515s)]* The mercy and humility of King Manasseh: the son of righteous Hezekiah who rebuilt the high places, burned his children to Baal in the valley of Hinnom and made Judah do worse than the heathen, then was carried in fetters to Babylon, humbled himself, and was heard. The class walks his prayer line by line to show that repentance is appointed to sinners and not to the just, that the Lord breaks the haughty before he honours them, that sin left alone weighs a man down until no one can help him, and that Manasseh stands for the nation and for every one of us who came into this truth with a past.
+
+## In The News
+
+- *[[19:26](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1166s)]* **A description of the valley of the son of Hinnom, Gehenna, read from the screen** — A deep valley south of the old city, known for child sacrifice and later as a burning refuse dump, which is why it became the biblical picture of hell, fire and judgment.
+- *[[20:57](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1257s)]* **Images of Ashtoreth with her eggs and breasts, and of the brass bull of Baal with its plates and the fire beneath** — The spring orgies in honour of the fertility goddess brought winter births, and the babies were laid on the heated plates until they wiggled into the flame while drums drowned the screams. That is what Manasseh had Judah doing by the thousands.
+- *[[1:14:40](https://www.youtube.com/watch?v=5tWDINEq3UI&t=4480s)]* **The definition of a potter's field read from the screen** — A public burial ground for the unclaimed and the poor, with its root in the story of Judas. Many of us come from homes like that, and the class is not to make anyone feel the worst sinner alive but to get us fixed before the Lord returns.
+
+## Scriptures Opened
+
+**[Sirach 36:1-5](/bible/sirach/36#v1)**  *[[5:08](https://www.youtube.com/watch?v=5tWDINEq3UI&t=308s)]*
+
+> <sup>[1](/bible/sirach/36#v1)</sup> Have mercy upon us, O Lord God of all, and behold us:
+>
+> <sup>[2](/bible/sirach/36#v2)</sup> And send thy fear upon all the nations that seek not after thee.
+>
+> <sup>[3](/bible/sirach/36#v3)</sup> Lift up thy hand against the strange nations, and let them see thy power.
+>
+> <sup>[4](/bible/sirach/36#v4)</sup> As thou wast sanctified in us before them: so be thou magnified among them before us.
+>
+> <sup>[5](/bible/sirach/36#v5)</sup> And let them know thee, as we have known thee, that there is no God but only thou, O God.
+
+- The opening prayer: have mercy upon us, send thy fear upon the nations that seek not after thee, and let them know thee as we have known thee.
+
+
+**[2 Kings 20:21](/bible/2-kings/20#v21)**  *[[9:48](https://www.youtube.com/watch?v=5tWDINEq3UI&t=588s)]*
+
+> <sup>[21](/bible/2-kings/20#v21)</sup> And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.
+
+- Hezekiah was one of the very few righteous kings, so righteous that the Most High extended his life, and Manasseh his son reigned in his stead.
+
+- Kings gives more detail on the northern kingdom and Chronicles on the southern, so the class reads both accounts of Manasseh.
+
+
+**[2 Kings 21:1-17](/bible/2-kings/21#v1)**  *[[10:48](https://www.youtube.com/watch?v=5tWDINEq3UI&t=648s)]*
+
+> <sup>[1](/bible/2-kings/21#v1)</sup> Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother’s name was Hephzi–bah.
+>
+> <sup>[2](/bible/2-kings/21#v2)</sup> And he did that which was evil in the sight of the Lord, after the abominations of the heathen, whom the Lord cast out before the children of Israel.
+>
+> <sup>[3](/bible/2-kings/21#v3)</sup> For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.
+>
+> <sup>[4](/bible/2-kings/21#v4)</sup> And he built altars in the house of the Lord, of which the Lord said, In Jerusalem will I put my name.
+>
+> <sup>[5](/bible/2-kings/21#v5)</sup> And he built altars for all the host of heaven in the two courts of the house of the Lord.
+>
+> <sup>[6](/bible/2-kings/21#v6)</sup> And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the Lord, to provoke him to anger.
+>
+> <sup>[7](/bible/2-kings/21#v7)</sup> And he set a graven image of the grove that he had made in the house, of which the Lord said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:
+>
+> <sup>[8](/bible/2-kings/21#v8)</sup> Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
+>
+> <sup>[9](/bible/2-kings/21#v9)</sup> But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the Lord destroyed before the children of Israel.
+>
+> <sup>[10](/bible/2-kings/21#v10)</sup> And the Lord spake by his servants the prophets, saying,
+>
+> <sup>[11](/bible/2-kings/21#v11)</sup> Because Manasseh king of Judah hath done these abominations, and hath done wickedly above all that the Amorites did, which were before him, and hath made Judah also to sin with his idols:
+>
+> <sup>[12](/bible/2-kings/21#v12)</sup> Therefore thus saith the Lord God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
+>
+> <sup>[13](/bible/2-kings/21#v13)</sup> And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, wiping it, and turning it upside down.
+>
+> <sup>[14](/bible/2-kings/21#v14)</sup> And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;
+>
+> <sup>[15](/bible/2-kings/21#v15)</sup> Because they have done that which was evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day.
+>
+> <sup>[16](/bible/2-kings/21#v16)</sup> Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another; beside his sin wherewith he made Judah to sin, in doing that which was evil in the sight of the Lord.
+>
+> <sup>[17](/bible/2-kings/21#v17)</sup> Now the rest of the acts of Manasseh, and all that he did, and his sin that he sinned, are they not written in the book of the chronicles of the kings of Judah?
+
+- Manasseh began at twelve and reigned fifty-five years, and did not follow his father's example: he rebuilt the high places Hezekiah had cast down, reared altars to Baal and a grove as Ahab did, and worshipped the host of heaven, the stars and the zodiac.
+
+- He built altars for the host of heaven in the two courts of the temple where the Lord had put his name, and made his son pass through the fire. He became another Solomon, but far worse.
+
+- Observing times, enchantments, familiar spirits and wizards: witchcraft and sorcery. He seduced Judah to do more evil than the nations the Lord destroyed before Israel, a wicked king and a bad influencer.
+
+- Because of Manasseh the Lord promised evil on Jerusalem to make both ears tingle, the line of Samaria and the plummet of the house of Ahab: the same judgment that sent Assyria against the northern kingdom would now fall on Judah.
+
+- Wiping Jerusalem as a man wipes a dish and turns it upside down is deportation out of the land. The innocent blood from one end of Jerusalem to the other was the children sacrificed under his edict, the ancient abortions.
+
+
+**[2 Chronicles 32:33](/bible/2-chronicles/32#v33)**  *[[16:37](https://www.youtube.com/watch?v=5tWDINEq3UI&t=997s)]*
+
+> <sup>[33](/bible/2-chronicles/32#v33)</sup> And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
+
+- All Judah honoured Hezekiah at his death and buried him in the chiefest of the sepulchres of the sons of David, and Manasseh reigned in his stead.
+
+
+**[2 Chronicles 33:1-9](/bible/2-chronicles/33#v1)**  *[[17:22](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1042s)]*
+
+> <sup>[1](/bible/2-chronicles/33#v1)</sup> Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
+>
+> <sup>[2](/bible/2-chronicles/33#v2)</sup> But did that which was evil in the sight of the Lord, like unto the abominations of the heathen, whom the Lord had cast out before the children of Israel.
+>
+> <sup>[3](/bible/2-chronicles/33#v3)</sup> For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.
+>
+> <sup>[4](/bible/2-chronicles/33#v4)</sup> Also he built altars in the house of the Lord, whereof the Lord had said, In Jerusalem shall my name be for ever.
+>
+> <sup>[5](/bible/2-chronicles/33#v5)</sup> And he built altars for all the host of heaven in the two courts of the house of the Lord.
+>
+> <sup>[6](/bible/2-chronicles/33#v6)</sup> And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the Lord, to provoke him to anger.
+>
+> <sup>[7](/bible/2-chronicles/33#v7)</sup> And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever:
+>
+> <sup>[8](/bible/2-chronicles/33#v8)</sup> Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses.
+>
+> <sup>[9](/bible/2-chronicles/33#v9)</sup> So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the Lord had destroyed before the children of Israel.
+
+- Chronicles adds that he caused his children to pass through the fire in the valley of the son of Hinnom, the place where Israel burned its garbage, which the Muslims call Gehenna and hell.
+
+- The order of it: the spring orgies for Ashtoreth, the black fertility goddess whose star is Venus and whose nose is knocked off the statues, and nine months later the winter births offered on the brass bull, Baal, the sun god the Egyptians called Apis. Carnival babies, Freaknik and the club are the same worship today.
+
+- The reason for the sacrifice: Ashtoreth's baby god Tammuz died an infant, so the women had to lose theirs and weep as she wept, which is the weeping for Tammuz Ezekiel saw at the north gate.
+
+- He set the carved image in the house where the Lord had promised David and Solomon to put his name for ever and never again move Israel out of the land, on condition that they keep the whole law by the hand of Moses.
+
+- Manasseh made Judah err and do worse than the heathen the Lord had destroyed before them, the nations Joshua and the elders were sent to kill out of the land for the very same works.
+
+  Precepts:
+  - **[Ezekiel 8:14](/bible/ezekiel/8#v14)**
+    > <sup>[14](/bible/ezekiel/8#v14)</sup> Then he brought me to the door of the gate of the Lord’s house which was toward the north; and, behold, there sat women weeping for Tammuz.
+
+    The women sat weeping for Tammuz at the door of the Lord's house: the mourning that followed the sacrifice of their own babies.
+  - **[Wisdom of Solomon 12:3-7](/bible/wisdom-of-solomon/12#v3)**
+    > <sup>[3](/bible/wisdom-of-solomon/12#v3)</sup> For it was thy will to destroy by the hands of our fathers both those old inhabitants of thy holy land,
+    >
+    > <sup>[4](/bible/wisdom-of-solomon/12#v4)</sup> Whom thou hatedst for doing most odious works of witchcrafts, and wicked sacrifices;
+    >
+    > <sup>[5](/bible/wisdom-of-solomon/12#v5)</sup> And also those merciless murderers of children, and devourers of man’s flesh, and the feasts of blood,
+    >
+    > <sup>[6](/bible/wisdom-of-solomon/12#v6)</sup> With their priests out of the midst of their idolatrous crew, and the parents, that killed with their own hands souls destitute of help:
+    >
+    > <sup>[7](/bible/wisdom-of-solomon/12#v7)</sup> That the land, which thou esteemedst above all other, might receive a worthy colony of God’s children.
+
+    The old inhabitants of the holy land were hated for odious works of witchcraft, wicked sacrifices, merciless murders of children, devouring of man's flesh and feasts of blood, and Manasseh did worse than they.
+
+
+**[2 Chronicles 33:10-13](/bible/2-chronicles/33#v10)**  *[[31:33](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1893s)]*
+
+> <sup>[10](/bible/2-chronicles/33#v10)</sup> And the Lord spake to Manasseh, and to his people: but they would not hearken.
+>
+> <sup>[11](/bible/2-chronicles/33#v11)</sup> Wherefore the Lord brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.
+>
+> <sup>[12](/bible/2-chronicles/33#v12)</sup> And when he was in affliction, he besought the Lord his God, and humbled himself greatly before the God of his fathers,
+>
+> <sup>[13](/bible/2-chronicles/33#v13)</sup> And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God.
+
+- The Lord spoke to Manasseh and the people through the prophets, but they would not hearken, because they assumed the son of so righteous a father must be righteous too.
+
+- So the Lord brought the captains of the host of the king of Assyria, who took Manasseh among the thorns, the wicked leaders under him, bound him with fetters and carried him to Babylon.
+
+- In his affliction, locked up, he besought the Lord and humbled himself greatly, and the Lord was entreated of him and brought him again to Jerusalem. Then Manasseh knew that the Lord he was God.
+
+
+**[Prayer of Manasseh 1:1-6](/bible/prayer-of-manasseh/1#v1)**  *[[33:34](https://www.youtube.com/watch?v=5tWDINEq3UI&t=2014s)]*
+
+> <sup>[1](/bible/prayer-of-manasseh/1#v1)</sup> O Lord, Almighty God of our fathers, Abraham, Isaac, and Jacob, and of their righteous seed;
+>
+> <sup>[2](/bible/prayer-of-manasseh/1#v2)</sup> who hast made heaven and earth, with all the ornament thereof;
+>
+> <sup>[3](/bible/prayer-of-manasseh/1#v3)</sup> who hast bound the sea by the word of thy commandment; who hast shut up the deep, and sealed it by thy terrible and glorious name;
+>
+> <sup>[4](/bible/prayer-of-manasseh/1#v4)</sup> whom all men fear, and tremble before thy power; for the majesty of thy glory cannot be borne, and thine angry threatening toward sinners is importable:
+>
+> <sup>[5](/bible/prayer-of-manasseh/1#v5)</sup> but thy merciful promise is unmeasurable and unsearchable;
+>
+> <sup>[6](/bible/prayer-of-manasseh/1#v6)</sup> for thou art the most high Lord, of great compassion, longsuffering, very merciful, and repentest of the evils of men. Thou, O Lord, according to thy great goodness hast promised repentance and forgiveness to them that have sinned against thee: and of thine infinite mercies hast appointed repentance unto sinners, that they may be saved.
+
+- This is the prayer he prayed as king of Judah when he was held captive in Babylon, the same prayer Chronicles says the Lord heard.
+
+- The majesty of his glory cannot be borne and his angry threatening towards sinners is importable, that is, it gets executed; but his merciful promise is unmeasurable and unsearchable.
+
+- He is long-suffering and repents of the evils of men because he knows what is in man, and of his infinite mercies has appointed repentance unto sinners that they may be saved. Manasseh says repentance over and over.
+
+
+**[Prayer of Manasseh 1:7](/bible/prayer-of-manasseh/1#v7)**  *[[36:02](https://www.youtube.com/watch?v=5tWDINEq3UI&t=2162s)]*
+
+> <sup>[7](/bible/prayer-of-manasseh/1#v7)</sup> Thou therefore, O Lord, that art the God of the just, hast not appointed repentance to the just, as to Abraham, and Isaac, and Jacob, which have not sinned against thee; but thou hast appointed repentance unto me that am a sinner:
+
+- The God of the just has not appointed repentance to the just: if you are just you have nothing to repent from, and what makes a man just is applying the law and the commandment, which are holy, just and good.
+
+- Paul says the same thing: the law is not made for a righteous man but for the lawless, the ungodly, murderers, whoremongers, them that defile themselves with mankind, menstealers and liars, and it is according to the glorious gospel, so the law and the gospel go together.
+
+- Abraham, Isaac and Jacob kept God's laws; but thou hast appointed repentance unto me that am a sinner. Under the law of Moses Manasseh was condemned on every count with no sacrifice that could cover him, a king worthy of death, and the Lord let him live to be an example to us in this time.
+
+- Kings and celebrities with that status will not repent, because when you are rich you become your own god; the world literally calls them idols. Oprah said on air she does not respect a jealous God, because she is a goddess of this world.
+
+  Precepts:
+  - **[Romans 7:12](/bible/romans/7#v12)**
+    > <sup>[12](/bible/romans/7#v12)</sup> Wherefore the law is holy, and the commandment holy, and just, and good.
+
+    The law is holy and the commandment holy, just and good: applying it is what makes you just.
+  - **[1 Timothy 1:9-11](/bible/1-timothy/1#v9)**
+    > <sup>[9](/bible/1-timothy/1#v9)</sup> Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+    >
+    > <sup>[10](/bible/1-timothy/1#v10)</sup> For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
+    >
+    > <sup>[11](/bible/1-timothy/1#v11)</sup> According to the glorious gospel of the blessed God, which was committed to my trust.
+
+    The law is not made for a righteous man but for the lawless and disobedient, and it accords with the glorious gospel.
+
+
+**[Proverbs 18:10-12](/bible/proverbs/18#v10)**  *[[44:20](https://www.youtube.com/watch?v=5tWDINEq3UI&t=2660s)]*
+
+> <sup>[10](/bible/proverbs/18#v10)</sup> The name of the Lord is a strong tower: the righteous runneth into it, and is safe.
+>
+> <sup>[11](/bible/proverbs/18#v11)</sup> The rich man’s wealth is his strong city, and as an high wall in his own conceit.
+>
+> <sup>[12](/bible/proverbs/18#v12)</sup> Before destruction the heart of man is haughty, and before honour is humility.
+
+- The name of the Lord that is a strong tower is his word, his reputation, his deeds and his people, not a name you scream out for protection like a superhero; the righteous runs into it and is safe.
+
+- The rich man's wealth is his strong city, his fortified palace, and a high wall in his own conceit: money makes a man conceited enough to call his own people racial idolaters while he is a financial idolater whose god is his money, his status and his golf buddies.
+
+- Before destruction the heart of man is haughty, and before honour is humility. The Most High has to bring you down to nothing before you see that you are nothing.
+
+- Manasseh is the embodiment of us as a nation: what he did as one man we did as a people and still do, and that is why his history is written.
+
+
+**[Exodus 33:19](/bible/exodus/33#v19)**  *[[50:15](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3015s)]*
+
+> <sup>[19](/bible/exodus/33#v19)</sup> And he said, I will make all my goodness pass before thee, and I will proclaim the name of the Lord before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.
+
+- Why was Manasseh not killed, or Solomon, or David? This verse is what grace is: I will be gracious to whom I will be gracious, and show mercy on whom I will show mercy.
+
+- The law says kill him for these acts, and the Lord said, not Manasseh; I will have mercy on him.
+
+
+**[Psalms 34:18](/bible/psalms/34#v18)**  *[[51:48](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3108s)]*
+
+> <sup>[18](/bible/psalms/34#v18)</sup> The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
+
+- The Lord is nigh to them of a broken heart and saves such as be of a contrite spirit. Man by nature is arrogant, so the Lord has a way of breaking you down and shaming you until you say, I cannot do these things any more; I have to do better for the Lord's sake, for my own and for my people's as an example.
+
+  Precepts:
+  - **[Psalms 51:17](/bible/psalms/51#v17)**
+    > <sup>[17](/bible/psalms/51#v17)</sup> The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+
+    The sacrifices of God are a broken spirit and a broken and contrite heart, not so much an animal.
+
+
+**[Isaiah 57:15](/bible/isaiah/57#v15)**  *[[52:24](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3144s)]*
+
+> <sup>[15](/bible/isaiah/57#v15)</sup> For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
+
+- The high and lofty one that inhabits eternity dwells in the holy place above, and also with him that is of a contrite and humble spirit, to revive the heart of the contrite ones.
+
+- The Father and the Son deal and dwell with the humble in spirit; that to him is a sacrifice worth his time, and offering the best sacrifices while haughty is a complete waste of it. Humility comes before honour.
+
+
+**[2 Esdras 16:76-78](/bible/2-esdras/16#v76)**  *[[54:02](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3242s)]*
+
+> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
+>
+> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
+>
+> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
+
+- Many of us came into the school guilty of things too shameful to confess, and some are still doing them; if you do not confess it weighs on your spirit and you cannot function, and after a while it shows on you.
+
+- Some brothers will not come into the building because they will not humble themselves; watching online on the outskirts is wandering from the herd, and the lion takes the one that wanders. Brothers who post questions with the answer already in them, to look deep in the comments, are that same haughty spirit, and that is why they get no answer.
+
+- Let not your sins weigh you down: sin feels good, and when the pleasure is gone the guilt rolls in and becomes a burden. Let not your iniquities lift up themselves means do not let them overthrow you.
+
+- Bound with their sins and covered with iniquities as a field with thorns: when you are so caught up in sin, doing weird things at work and getting locked up, no one can reach you without being hurt, and the herd cannot help you.
+
+- Left undressed, like a lawn never mowed, the field is cast into the fire. Reject help and stay to yourself and destruction is the only thing left.
+
+  Precepts:
+  - **[Hebrews 12:1](/bible/hebrews/12#v1)**
+    > <sup>[1](/bible/hebrews/12#v1)</sup> Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
+
+    Lay aside every weight and the sin which so easily besets us and run the race with patience: you cannot win a race on a timer while carrying weights, and walking it is not winning at all.
+
+
+**[Sirach 17:25](/bible/sirach/17#v25)**  *[[1:04:46](https://www.youtube.com/watch?v=5tWDINEq3UI&t=3886s)]*
+
+> <sup>[25](/bible/sirach/17#v25)</sup> Return unto the Lord, and forsake thy sins, make thy prayer before his face, and offend less.
+
+- This class is not to bash those battling things. Everyone in this truth is fallible, everyone will fall and make mistakes to repent from; the point is to abstain as much as possible.
+
+- Return unto the Lord and forsake thy sins, make thy prayer before his face and offend less; some Bibles say lessen thy offence and point to the Prayer of Manasseh right under it, because that is what he did.
+
+- No one becomes perfect tomorrow: an addiction does not stop right away, and it may be day one again and again. Lust is a strong and pleasurable demon with a blowback behind it.
+
+- Every sin is a gateway. Porn means fornicate, and it evolves from man and woman to worse; cigarettes become vaping and Black and Milds, weed becomes lacing and pills, a sip becomes alcoholism. Wean yourself off over time, relapse or not.
+
+- Eating, drinking, sleeping around, anger, drugs, and for sisters attention and social media are outlets for unresolved things. Scrolling shorts shortens your attention and your intellect until you cannot read a book; learn to fight these off.
+
+
+**[Prayer of Manasseh 1:8](/bible/prayer-of-manasseh/1#v8)**  *[[1:12:31](https://www.youtube.com/watch?v=5tWDINEq3UI&t=4351s)]*
+
+> <sup>[8](/bible/prayer-of-manasseh/1#v8)</sup> for I have sinned above the number of the sands of the sea. My transgressions, O Lord, are multiplied: my transgressions are multiplied, and I am not worthy to behold and see the height of heaven for the multitude of mine iniquities.
+
+- I have sinned above the number of the sands of the sea; my transgressions are multiplied. Many of us come from broken homes and fatherless households with hang-ups we hold on to, and this class is not to make anyone say I am a sinner above all others.
+
+
+**[Luke 13:1-5](/bible/luke/13#v1)**  *[[1:16:49](https://www.youtube.com/watch?v=5tWDINEq3UI&t=4609s)]*
+
+> <sup>[1](/bible/luke/13#v1)</sup> There were present at that season some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices.
+>
+> <sup>[2](/bible/luke/13#v2)</sup> And Jesus answering said unto them, Suppose ye that these Galileans were sinners above all the Galileans, because they suffered such things?
+>
+> <sup>[3](/bible/luke/13#v3)</sup> I tell you, Nay: but, except ye repent, ye shall all likewise perish.
+>
+> <sup>[4](/bible/luke/13#v4)</sup> Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?
+>
+> <sup>[5](/bible/luke/13#v5)</sup> I tell you, Nay: but, except ye repent, ye shall all likewise perish.
+
+- Pilate killed Galileans at their sacrifices; Christ says they were not sinners above all Galileans, and except ye repent ye shall all likewise perish. That is why Manasseh says repentance over and over.
+
+- The eighteen crushed by the tower of Siloam were not the worst sinners in Jerusalem. Do not think your sin is less than another man's: he was a thief, you were in witchcraft in Christianity, and both are worthy of death; sin is sin, and there is repentance for it regardless.
+
+- We laugh about old sins to keep you from being too hard on yourself. A brother who battled the same-sex lifestyle is told to cut his hair low, and a shapely sister who was promiscuous to wear a bigger dress and talk to no one for years, with the ladies in waiting programme to keep her busy; idle time is the danger. That is advice, not a law, and a step towards fixing it.
+
+  Precepts:
+  - **[1 Corinthians 11:6-15](/bible/1-corinthians/11#v6)**
+    > <sup>[6](/bible/1-corinthians/11#v6)</sup> For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.
+    >
+    > <sup>[7](/bible/1-corinthians/11#v7)</sup> For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.
+    >
+    > <sup>[8](/bible/1-corinthians/11#v8)</sup> For the man is not of the woman; but the woman of the man.
+    >
+    > <sup>[9](/bible/1-corinthians/11#v9)</sup> Neither was the man created for the woman; but the woman for the man.
+    >
+    > <sup>[10](/bible/1-corinthians/11#v10)</sup> For this cause ought the woman to have power on her head because of the angels.
+    >
+    > <sup>[11](/bible/1-corinthians/11#v11)</sup> Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.
+    >
+    > <sup>[12](/bible/1-corinthians/11#v12)</sup> For as the woman is of the man, even so is the man also by the woman; but all things of God.
+    >
+    > <sup>[13](/bible/1-corinthians/11#v13)</sup> Judge in yourselves: is it comely that a woman pray unto God uncovered?
+    >
+    > <sup>[14](/bible/1-corinthians/11#v14)</sup> Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
+    >
+    > <sup>[15](/bible/1-corinthians/11#v15)</sup> But if a woman have long hair, it is a glory to her: for her hair is given her for a covering.
+
+    If a woman will not be covered let her be shorn, and since that is a shame, let her be covered; a man with long hair is a shame to him, and a woman's long hair is her glory and her covering.
+  - **[1 Corinthians 6:9](/bible/1-corinthians/6#v9)**
+    > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
+
+    The shame of the long hair in Greece was the effeminate way it was worn, and effeminacy is the step before abusers of themselves with mankind; Samson, Samuel and John the Baptist had long hair without that nature.
+
+
+**[Luke 13:6-9](/bible/luke/13#v6)**  *[[1:25:31](https://www.youtube.com/watch?v=5tWDINEq3UI&t=5131s)]*
+
+> <sup>[6](/bible/luke/13#v6)</sup> He spake also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none.
+>
+> <sup>[7](/bible/luke/13#v7)</sup> Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?
+>
+> <sup>[8](/bible/luke/13#v8)</sup> And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:
+>
+> <sup>[9](/bible/luke/13#v9)</sup> And if it bear fruit, well: and if not, then after that thou shalt cut it down.
+
+- The lord of the vineyard found no fruit on the fig tree in three years and said cut it down; the dresser said let it alone this year also till I dig about it and dung it, and if it bears fruit, well, and if not, then cut it down.
+
+- Digging and dunging is teaching and nourishing. We are a work in progress; you do not become whole right away, and humility takes time, so we set things up for you to get better, and pride goes before the fall for those who refuse the medicine.
+
+  Precepts:
+  - **[Leviticus 19:23-25](/bible/leviticus/19#v23)**
+    > <sup>[23](/bible/leviticus/19#v23)</sup> And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.
+    >
+    > <sup>[24](/bible/leviticus/19#v24)</sup> But in the fourth year all the fruit thereof shall be holy to praise the Lord withal.
+    >
+    > <sup>[25](/bible/leviticus/19#v25)</sup> And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the Lord your God.
+
+    Three years the fruit of a planted tree is uncircumcised and not eaten, the fourth year it is holy to praise the Lord, and the fifth year you eat it: growth is a process, and that is where Christ pulled the parable from.
+
+
+**[2 Esdras 8:6](/bible/2-esdras/8#v6)**  *[[1:31:27](https://www.youtube.com/watch?v=5tWDINEq3UI&t=5487s)]*
+
+> <sup>[6](/bible/2-esdras/8#v6)</sup> O Lord, if thou suffer not thy servant, that we may pray before thee, and thou give us seed unto our heart, and culture to our understanding, that there may come fruit of it; how shall each man live that is corrupt, who beareth the place of a man?
+
+- The only time the word culture appears in the Bible: give a seed unto our heart and culture to our understanding, which is where agriculture comes from. When you apply what is taught you are the soil taking in the nutrients, and then you bring forth fruit.
+
+- We are all plants: we come from the ground, we need water and sun, chlorophyll is the plant's melanin, and Eve was a cutting taken from Adam. The plant that refuses the fertilizer gets uprooted and thrown into the fire to keep the righteous warm.
+
+
+**[Jeremiah 24:1-10](/bible/jeremiah/24#v1)**  *[[1:34:43](https://www.youtube.com/watch?v=5tWDINEq3UI&t=5683s)]*
+
+> <sup>[1](/bible/jeremiah/24#v1)</sup> The Lord shewed me, and, behold, two baskets of figs were set before the temple of the Lord, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
+>
+> <sup>[2](/bible/jeremiah/24#v2)</sup> One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.
+>
+> <sup>[3](/bible/jeremiah/24#v3)</sup> Then said the Lord unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.
+>
+> <sup>[4](/bible/jeremiah/24#v4)</sup> Again the word of the Lord came unto me, saying,
+>
+> <sup>[5](/bible/jeremiah/24#v5)</sup> Thus saith the Lord, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.
+>
+> <sup>[6](/bible/jeremiah/24#v6)</sup> For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.
+>
+> <sup>[7](/bible/jeremiah/24#v7)</sup> And I will give them an heart to know me, that I am the Lord: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.
+>
+> <sup>[8](/bible/jeremiah/24#v8)</sup> And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the Lord, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:
+>
+> <sup>[9](/bible/jeremiah/24#v9)</sup> And I will deliver them to be removed into all the kingdoms of the earth for their hurt, to be a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.
+>
+> <sup>[10](/bible/jeremiah/24#v10)</sup> And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.
+
+- Two baskets of figs before the temple after Jeconiah was carried to Babylon: one very good, the other so naughty they could not be eaten.
+
+- The good figs are the righteous people carried captive whom the Lord acknowledges for their good: he will bring them again, build and not pull down, plant and not pluck up, and give them a heart to know him because they return with their whole heart.
+
+- The evil figs are Zedekiah, his princes and those left in the land and in Egypt, delivered to be a reproach and a curse in every kingdom with sword, famine and pestilence. Good fig or bad fig is your decision.
+
+
+**[Prayer of Manasseh 1:8-9](/bible/prayer-of-manasseh/1#v8)**  *[[1:37:31](https://www.youtube.com/watch?v=5tWDINEq3UI&t=5851s)]*
+
+> <sup>[8](/bible/prayer-of-manasseh/1#v8)</sup> for I have sinned above the number of the sands of the sea. My transgressions, O Lord, are multiplied: my transgressions are multiplied, and I am not worthy to behold and see the height of heaven for the multitude of mine iniquities.
+>
+> <sup>[9](/bible/prayer-of-manasseh/1#v9)</sup> I am bowed down with many iron bands, that I cannot lift up mine head, neither have any release: for I have provoked thy wrath, and done evil before thee: I did not thy will, neither kept I thy commandments: I have set up abominations, and have multiplied offences.
+
+- I am not worthy to behold the height of heaven for the multitude of mine iniquity: many of us think this. Bowed down with many iron bands is his prison, and I did not thy will neither kept I thy commandments, because his will is his commandments.
+
+- Two men prayed in the temple: the Pharisee thanked God he was not like other men, fasted twice a week and paid tithes; the publican stood afar off, would not lift his eyes because he felt unworthy, and said God be merciful to me a sinner, the words of Manasseh.
+
+- The publican went home justified rather than the other. Everyone that exalts himself shall be abased, as Manasseh was locked up, and he that humbles himself shall be exalted, as Manasseh was later; and you will not like the humbling.
+
+  Precepts:
+  - **[Luke 18:9-14](/bible/luke/18#v9)**
+    > <sup>[9](/bible/luke/18#v9)</sup> And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:
+    >
+    > <sup>[10](/bible/luke/18#v10)</sup> Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
+    >
+    > <sup>[11](/bible/luke/18#v11)</sup> The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.
+    >
+    > <sup>[12](/bible/luke/18#v12)</sup> I fast twice in the week, I give tithes of all that I possess.
+    >
+    > <sup>[13](/bible/luke/18#v13)</sup> And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
+    >
+    > <sup>[14](/bible/luke/18#v14)</sup> I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
+
+    The parable for those who trust in themselves that they are righteous and despise others: the sinner who humbled himself went down justified.
+  - **[Psalms 40:8](/bible/psalms/40#v8)**
+    > <sup>[8](/bible/psalms/40#v8)</sup> I delight to do thy will, O my God: yea, thy law is within my heart.
+
+    I delight to do thy will, yea thy law is within my heart: God's will is his laws.
+
+
+**[Prayer of Manasseh 1:10-11](/bible/prayer-of-manasseh/1#v10)**  *[[1:42:26](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6146s)]*
+
+> <sup>[10](/bible/prayer-of-manasseh/1#v10)</sup> Now therefore I bow the knee of mine heart, beseeching thee of grace.
+>
+> <sup>[11](/bible/prayer-of-manasseh/1#v11)</sup> I have sinned, O Lord, I have sinned, and I acknowledge mine iniquities:
+
+- I bow the knee of mine heart, the knee of my mind, beseeching thee of grace; I have sinned and I acknowledge mine iniquities. Another word for acknowledge is accountability.
+
+- Satan's biggest trick is not convincing the world he does not exist; it is convincing you that you are the smartest person in the room, wise in your own conceit, as David was with Bathsheba and Manasseh on his throne. The slick questions on the comment board are the same thing.
+
+
+**[Psalms 32:5](/bible/psalms/32#v5)**  *[[1:44:06](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6246s)]*
+
+> <sup>[5](/bible/psalms/32#v5)</sup> I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.
+
+- I acknowledged my sin unto thee and mine iniquity have I not hid; I said I will confess my transgressions unto the Lord, and thou forgavest. David held himself accountable, and so must you.
+
+
+**[Psalms 51:1-19](/bible/psalms/51#v1)**  *[[1:44:57](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6297s)]*
+
+> <sup>[1](/bible/psalms/51#v1)</sup> Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> <sup>[2](/bible/psalms/51#v2)</sup> Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+> <sup>[3](/bible/psalms/51#v3)</sup> For I acknowledge my transgressions: and my sin is ever before me.
+>
+> <sup>[4](/bible/psalms/51#v4)</sup> Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
+>
+> <sup>[5](/bible/psalms/51#v5)</sup> Behold, I was shapen in iniquity; and in sin did my mother conceive me.
+>
+> <sup>[6](/bible/psalms/51#v6)</sup> Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
+>
+> <sup>[7](/bible/psalms/51#v7)</sup> Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
+>
+> <sup>[8](/bible/psalms/51#v8)</sup> Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
+>
+> <sup>[9](/bible/psalms/51#v9)</sup> Hide thy face from my sins, and blot out all mine iniquities.
+>
+> <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
+>
+> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
+>
+> <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+>
+> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
+>
+> <sup>[14](/bible/psalms/51#v14)</sup> Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
+>
+> <sup>[15](/bible/psalms/51#v15)</sup> O Lord, open thou my lips; and my mouth shall shew forth thy praise.
+>
+> <sup>[16](/bible/psalms/51#v16)</sup> For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
+>
+> <sup>[17](/bible/psalms/51#v17)</sup> The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+>
+> <sup>[18](/bible/psalms/51#v18)</sup> Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
+>
+> <sup>[19](/bible/psalms/51#v19)</sup> Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
+
+- Written when Nathan came to him after Bathsheba: David saw her from his roof, took her, sent Uriah home to cover the pregnancy, and when the loyal man would not go in, put him in the hottest battle to be killed. The Lord said, you killed him, and evil never left David's house.
+
+- He kept the promise of Psalm 32: I acknowledge my transgressions and my sin is ever before me. Shapen in iniquity and conceived in sin means we are all prone to sin and all flawed.
+
+- Purge me with hyssop, a strong cleaning agent, and wash me whiter than snow is a washed soul. The bones thou hast broken are his humbling, the confrontation and the consequences.
+
+- Create in me a clean heart and renew a right spirit, because his spirit had grown evil; cast me not away and take not thy Holy Spirit from me, because the Lord can make a man reprobate.
+
+- Then will I teach transgressors thy ways: once he has been through it and learned it he can teach others, and sinners will be converted. Deliver me from blood guiltiness is Uriah.
+
+- Thou desirest not sacrifice, thou delightest not in burnt offering; the sacrifices of God are a broken spirit and a contrite heart. The animals were temporary; a broken and humbled mind is the sacrifice he wants, and only then are the bullocks on the altar acceptable.
+
+  Precepts:
+  - **[1 Samuel 15:22](/bible/1-samuel/15#v22)**
+    > <sup>[22](/bible/1-samuel/15#v22)</sup> And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+
+    Saul did not listen either: to obey is better than sacrifice, and to hearken than the fat of rams.
+  - **[Sirach 35:17](/bible/sirach/35#v17)**
+    > <sup>[17](/bible/sirach/35#v17)</sup> The prayer of the humble pierceth the clouds: and till it come nigh, he will not be comforted; and will not depart, till the most High shall behold to judge righteously, and execute judgment.
+
+    The prayer of the humble pierces the clouds, and the Lord hears it.
+
+
+**[Jeremiah 14:20](/bible/jeremiah/14#v20)**  *[[1:53:49](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6829s)]*
+
+> <sup>[20](/bible/jeremiah/14#v20)</sup> We acknowledge, O Lord, our wickedness, and the iniquity of our fathers: for we have sinned against thee.
+
+- We acknowledge, O Lord, our wickedness and the iniquity of our fathers, for we have sinned against thee. Accountability is what Christianity does not teach; its doctrine is excuses, fall and stay down because Christ died for you. The Bible says you fall and get back up.
+
+
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[1:54:35](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6875s)]*
+
+> <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
+
+- I will return to my place till they acknowledge their offence and seek my face; in their affliction they will seek me early.
+
+- Manasseh, like Job and Adam, is the living embodiment of the nation in its fall and in the mercy the Lord has for it. The time you are going through hell is the time you seek God the most.
+
+
+**[Prayer of Manasseh 1:12](/bible/prayer-of-manasseh/1#v12)**  *[[1:55:22](https://www.youtube.com/watch?v=5tWDINEq3UI&t=6922s)]*
+
+> <sup>[12](/bible/prayer-of-manasseh/1#v12)</sup> wherefore, I humbly beseech thee, forgive me, O Lord, forgive me, and destroy me not with mine iniquites. Be not angry with me for ever, by reserving evil for me; neither condemn me to the lower parts of the earth. For thou art the God, even the God of them that repent;
+
+- I humbly beseech thee, forgive me and destroy me not with mine iniquities; be not angry with me for ever by reserving evil for me. There is evil reserved for you while you keep playing around.
+
+- God spared not the angels that sinned but delivered them into chains of darkness reserved unto judgment; take the Holy Spirit from a man, as David feared, and he is in those chains.
+
+- The Lord knows how to deliver the godly out of temptation and reserves the unjust unto the day of judgment, chiefly those who walk after the flesh, despise government and are not afraid to speak evil of leadership that is trying to help them. That is an arrogant heart.
+
+- Wells without water and clouds carried with a tempest, blown from doctrine to doctrine, following Balaam for money; to them the mist of darkness, the reprobate mind, is reserved for ever. The heavens and the earth are reserved unto fire, nuclear and hellfire, against the day of judgment of ungodly men; that is the evil Manasseh asked not to be reserved for him.
+
+  Precepts:
+  - **[2 Peter 2:4-17](/bible/2-peter/2#v4)**
+    > <sup>[4](/bible/2-peter/2#v4)</sup> For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;
+    >
+    > <sup>[5](/bible/2-peter/2#v5)</sup> And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
+    >
+    > <sup>[6](/bible/2-peter/2#v6)</sup> And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;
+    >
+    > <sup>[7](/bible/2-peter/2#v7)</sup> And delivered just Lot, vexed with the filthy conversation of the wicked:
+    >
+    > <sup>[8](/bible/2-peter/2#v8)</sup> (For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)
+    >
+    > <sup>[9](/bible/2-peter/2#v9)</sup> The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:
+    >
+    > <sup>[10](/bible/2-peter/2#v10)</sup> But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
+    >
+    > <sup>[11](/bible/2-peter/2#v11)</sup> Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.
+    >
+    > <sup>[12](/bible/2-peter/2#v12)</sup> But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
+    >
+    > <sup>[13](/bible/2-peter/2#v13)</sup> And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you;
+    >
+    > <sup>[14](/bible/2-peter/2#v14)</sup> Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
+    >
+    > <sup>[15](/bible/2-peter/2#v15)</sup> Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;
+    >
+    > <sup>[16](/bible/2-peter/2#v16)</sup> But was rebuked for his iniquity: the dumb ass speaking with man’s voice forbad the madness of the prophet.
+    >
+    > <sup>[17](/bible/2-peter/2#v17)</sup> These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
+
+    The fallen angels reserved in chains of darkness, and the unjust reserved unto judgment, are what reserving evil means.
+  - **[2 Peter 3:7](/bible/2-peter/3#v7)**
+    > <sup>[7](/bible/2-peter/3#v7)</sup> But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
+
+    The heavens and the earth are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
+
+
+**[Prayer of Manasseh 1:13](/bible/prayer-of-manasseh/1#v13)**  *[[2:00:27](https://www.youtube.com/watch?v=5tWDINEq3UI&t=7227s)]*
+
+> <sup>[13](/bible/prayer-of-manasseh/1#v13)</sup> and in me thou wilt shew all thy goodness: for thou wilt save me, that am unworthy, according to thy great mercy.
+
+- Neither condemn me into the lower parts of the earth, the hellfire; for thou art the God, even the God of them that repent.
+
+- Unto them that repent he granted return and comforted those that failed in patience. Examine yourself before judgment and you find mercy in the day of visitation; humble yourself before you are sick, and in the time of sins show repentance.
+
+- Repent ye, for the kingdom of heaven is at hand, was the first word of Christ's preaching and of John's; John baptized all Judea confessing their sins, called the Pharisees a generation of vipers, and said bring forth fruits meet for repentance, the fruit of the fig tree in Luke 13.
+
+- The Pharisees asked why Christ ate with publicans and sinners, the same spirit as the Pharisee in Luke 18. They that be whole need not a physician: the law is not made for the righteous but for the sick, the lawless and whoremongers. I will have mercy and not sacrifice, from Hosea, and I am come to call sinners to repentance.
+
+  Precepts:
+  - **[Sirach 17:24](/bible/sirach/17#v24)**
+    > <sup>[24](/bible/sirach/17#v24)</sup> But unto them that repent, he granted them return, and comforted those that failed in patience.
+
+    To them that repent he granted return, and comforted those that failed in patience.
+  - **[Sirach 18:20-21](/bible/sirach/18#v20)**
+    > <sup>[20](/bible/sirach/18#v20)</sup> Before judgment examine thyself, and in the day of visitation thou shalt find mercy.
+    >
+    > <sup>[21](/bible/sirach/18#v21)</sup> Humble thyself before thou be sick, and in the time of sins shew repentance.
+
+    Before judgment examine thyself and find mercy in the day of visitation; humble thyself before thou be sick, and in the time of sins show repentance.
+  - **[Matthew 3:2-8](/bible/matthew/3#v2)**
+    > <sup>[2](/bible/matthew/3#v2)</sup> And saying, Repent ye: for the kingdom of heaven is at hand.
+    >
+    > <sup>[3](/bible/matthew/3#v3)</sup> For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+    >
+    > <sup>[4](/bible/matthew/3#v4)</sup> And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.
+    >
+    > <sup>[5](/bible/matthew/3#v5)</sup> Then went out to him Jerusalem, and all Judea, and all the region round about Jordan,
+    >
+    > <sup>[6](/bible/matthew/3#v6)</sup> And were baptized of him in Jordan, confessing their sins.
+    >
+    > <sup>[7](/bible/matthew/3#v7)</sup> But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?
+    >
+    > <sup>[8](/bible/matthew/3#v8)</sup> Bring forth therefore fruits meet for repentance:
+
+    Repent, for the kingdom of heaven is at hand; bring forth fruits meet for repentance.
+  - **[Matthew 9:11-13](/bible/matthew/9#v11)**
+    > <sup>[11](/bible/matthew/9#v11)</sup> And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
+    >
+    > <sup>[12](/bible/matthew/9#v12)</sup> But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
+    >
+    > <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
+
+    They that be whole need not a physician; I will have mercy and not sacrifice; I am come to call sinners to repentance.
+  - **[Hosea 6:6](/bible/hosea/6#v6)**
+    > <sup>[6](/bible/hosea/6#v6)</sup> For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
+
+    The verse Christ told the Pharisees to go and learn: he desires mercy and not sacrifice.
+
+
+**[Mark 1:4](/bible/mark/1#v4)**  *[[2:04:13](https://www.youtube.com/watch?v=5tWDINEq3UI&t=7453s)]*
+
+> <sup>[4](/bible/mark/1#v4)</sup> John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.
+
+- John preached the baptism of repentance for the remission of sins.
+
+
+**[Acts 3:19](/bible/acts/3#v19)**  *[[2:04:13](https://www.youtube.com/watch?v=5tWDINEq3UI&t=7453s)]*
+
+> <sup>[19](/bible/acts/3#v19)</sup> Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
+
+- Repent and be converted that your sins may be blotted out when the times of refreshing come, which is the kingdom refreshing the earth.
+
+- What converts us is the law of the Lord, which is perfect, converting the soul.
+
+  Precepts:
+  - **[Psalms 19:7](/bible/psalms/19#v7)**
+    > <sup>[7](/bible/psalms/19#v7)</sup> The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.
+
+    The law of the Lord is perfect, converting the soul: the laws are what convert a man.
+
+
+**[Ezekiel 18:30](/bible/ezekiel/18#v30)**  *[[2:05:57](https://www.youtube.com/watch?v=5tWDINEq3UI&t=7557s)]*
+
+> <sup>[30](/bible/ezekiel/18#v30)</sup> Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
+
+- The Old Testament definition of repentance: I will judge you, O house of Israel, every one according to his ways; repent and turn yourselves from all your transgressions. To repent is to turn away from your transgressions.
+
+
+**[2 Esdras 14:13-15](/bible/2-esdras/14#v13)**  *[[2:06:47](https://www.youtube.com/watch?v=5tWDINEq3UI&t=7607s)]*
+
+> <sup>[13](/bible/2-esdras/14#v13)</sup> Now therefore set thine house in order, and reprove thy people, comfort such of them as be in trouble, and now renounce corruption,
+>
+> <sup>[14](/bible/2-esdras/14#v14)</sup> Let go from thee mortal thoughts, cast away the burdens of man, put off now the weak nature,
+>
+> <sup>[15](/bible/2-esdras/14#v15)</sup> And set aside the thoughts that are most heavy unto thee, and haste thee to flee from these times.
+
+- Set thine house in order, reprove thy people and comfort such of them as be in trouble, as David said he would teach transgressors once he was restored.
+
+- Renounce corruption and let go from thee mortal thoughts: the sins that beset and weigh you down, the thorns. Sisters and brothers alike hold on to old things and want to be victims for life; we are trying to go home.
+
+- Cast away the burdens of men, the weights of Hebrews 12 and 2 Esdras 16, and put off now, not later, the weak nature that concerns itself with everything but what the Bible says to do. Focus on the laws and the commandments to the best of your ability.
+
+- Set aside the thoughts most heavy unto thee: depression is the root of most of the addictions that hold us down. Some were molested, raped or abused, and the trauma is not dismissed, but at some point you have to let it go or it hinders your growth like the barren fig tree and the evil fig; you can pull your past into your present but not into the future.
+
+- Those who hurt you will be gone when this place is gone; you will not stand in the kingdom with a new body crying about an uncle. Some of you have talents this truth could use that your hang-ups have never let out. Haste thee to flee from these times: we want to go home.
+
+
+**[Revelation 2:4-5](/bible/revelation/2#v4)**  *[[2:13:32](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8012s)]*
+
+> <sup>[4](/bible/revelation/2#v4)</sup> Nevertheless I have somewhat against thee, because thou hast left thy first love.
+>
+> <sup>[5](/bible/revelation/2#v5)</sup> Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+
+- Thou hast left thy first love: everyone comes into this truth on fire telling the whole world, then it becomes yeah, yeah, keep the Sabbath, and Sabbath sickness sets in.
+
+- Remember from whence thou art fallen, repent and do the first works, or the candlestick, the wisdom and Holy Spirit, is removed, except thou repent, just as Luke 13 said.
+
+
+**[Revelation 3:17-19](/bible/revelation/3#v17)**  *[[2:15:43](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8143s)]*
+
+> <sup>[17](/bible/revelation/3#v17)</sup> Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
+>
+> <sup>[18](/bible/revelation/3#v18)</sup> I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
+>
+> <sup>[19](/bible/revelation/3#v19)</sup> As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+
+- I am rich and increased with goods and have need of nothing is the conceit again: the six-figure job, the cars and properties, and you know not that you are wretched, miserable, poor in spirit, blind to who you are and where your God is, and naked in your sin.
+
+- Buy of me gold tried in the fire, the word of God, white raiment for an immortal body, and eye salve for understanding.
+
+- As many as I love I rebuke and chasten; be zealous therefore and repent.
+
+
+**[Proverbs 24:16](/bible/proverbs/24#v16)**  *[[2:17:12](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8232s)]*
+
+> <sup>[16](/bible/proverbs/24#v16)</sup> For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.
+
+- A just man falls seven times and rises up again; the wicked fall into mischief and stay down. You will make mistakes; the difference is getting back up.
+
+
+**[Prayer of Manasseh 1:13-14](/bible/prayer-of-manasseh/1#v13)**  *[[2:17:53](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8273s)]*
+
+> <sup>[13](/bible/prayer-of-manasseh/1#v13)</sup> and in me thou wilt shew all thy goodness: for thou wilt save me, that am unworthy, according to thy great mercy.
+>
+> <sup>[14](/bible/prayer-of-manasseh/1#v14)</sup> Therefore I will praise thee for ever all the days of my life: for all the powers of the heavens do praise thee, and thine is the glory for ever and ever. Amen.
+
+- In me thou wilt show all thy goodness: in Manasseh's case the Lord shows how merciful and compassionate he is, saving one that is unworthy according to his great mercy, and Manasseh praises him all the days of his life.
+
+
+**[2 Chronicles 33:12-19](/bible/2-chronicles/33#v12)**  *[[2:18:42](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8322s)]*
+
+> <sup>[12](/bible/2-chronicles/33#v12)</sup> And when he was in affliction, he besought the Lord his God, and humbled himself greatly before the God of his fathers,
+>
+> <sup>[13](/bible/2-chronicles/33#v13)</sup> And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God.
+>
+> <sup>[14](/bible/2-chronicles/33#v14)</sup> Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
+>
+> <sup>[15](/bible/2-chronicles/33#v15)</sup> And he took away the strange gods, and the idol out of the house of the Lord, and all the altars that he had built in the mount of the house of the Lord, and in Jerusalem, and cast them out of the city.
+>
+> <sup>[16](/bible/2-chronicles/33#v16)</sup> And he repaired the altar of the Lord, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the Lord God of Israel.
+>
+> <sup>[17](/bible/2-chronicles/33#v17)</sup> Nevertheless the people did sacrifice still in the high places, yet unto the Lord their God only.
+>
+> <sup>[18](/bible/2-chronicles/33#v18)</sup> Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the Lord God of Israel, behold, they are written in the book of the kings of Israel.
+>
+> <sup>[19](/bible/2-chronicles/33#v19)</sup> His prayer also, and how God was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers.
+
+- Locked up in Babylon he humbled himself greatly, the Lord heard his supplication and brought him back to his kingdom, and then Manasseh knew that the Lord he was God.
+
+- After this he built the wall of the city of David, put captains in the fenced cities, took the strange gods and the idols out of the house of the Lord, cast the altars out of the city, repaired the altar of the Lord, offered peace and thank offerings and commanded Judah to serve the Lord.
+
+- His prayer, how God was entreated of him, and all his sin before he was humbled are written among the sayings of the seers, which is where the Apocrypha keeps it.
+
+
+**[2 Chronicles 33:21-23](/bible/2-chronicles/33#v21)**  *[[2:21:41](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8501s)]*
+
+> <sup>[21](/bible/2-chronicles/33#v21)</sup> Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem.
+>
+> <sup>[22](/bible/2-chronicles/33#v22)</sup> But he did that which was evil in the sight of the Lord, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them;
+>
+> <sup>[23](/bible/2-chronicles/33#v23)</sup> And humbled not himself before the Lord, as Manasseh his father had humbled himself; but Amon trespassed more and more.
+
+- Amon reigned two years and did evil as his father had done, sacrificed to the carved images Manasseh had made, and humbled not himself as Manasseh had humbled himself, but trespassed more and more. Hezekiah was righteous, Manasseh wicked and then humbled, and Amon followed the bad example.
+
+
+**[Job 22:29](/bible/job/22#v29)**  *[[2:22:21](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8541s)]*
+
+> <sup>[29](/bible/job/22#v29)</sup> When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.
+
+- When men are cast down, as Manasseh, David and Job were, then thou shalt say there is lifting up, and he shall save the humble person.
+
+
+**[Proverbs 29:23](/bible/proverbs/29#v23)**  *[[2:23:09](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8589s)]*
+
+> <sup>[23](/bible/proverbs/29#v23)</sup> A man’s pride shall bring him low: but honour shall uphold the humble in spirit.
+
+- A man's pride, or a woman's, shall bring them low, but honour shall uphold the humble in spirit.
+
+
+## Class Questions
+
+- **What is the whole purpose of sacrificing the babies?** The doctrine was that Ashtoreth's baby god Tammuz died an infant, so the women had to lose their children and weep for them as she wept for hers, the weeping for Tammuz of Ezekiel 8.
+- **How can long hair be a shame to a man when Samson had locks?** The shame Paul meant was how the Greeks wore it, styled to be effeminate, which is the step before the act itself; Samson, Samuel and John the Baptist were Nazarites without that nature.
+- **Does your sin make you the most wicked person in the world?** No. Christ said the Galileans Pilate killed and the eighteen under the tower were not sinners above all others, and except ye repent ye shall all likewise perish; sin is sin and there is repentance for it.
+- **What converts us?** The law of the Lord, which is perfect, converting the soul.
+
+## In Closing
+
+*[[2:23:09](https://www.youtube.com/watch?v=5tWDINEq3UI&t=8589s)]* A man's pride shall bring him low, but honour shall uphold the humble in spirit. Hope you got something out of the lesson today. All praise to the Most High.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=5tWDINEq3UI)

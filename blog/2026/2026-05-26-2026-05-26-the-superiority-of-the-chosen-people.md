@@ -1,0 +1,711 @@
+---
+title: "The Superiority of the Chosen People"
+slug: "2026/2026-05-26-the-superiority-of-the-chosen-people"
+date: "2026-05-26"
+teacher: ""
+description: "IUIC in the ClassRoom · 2026-05-26"
+tags: ["IUIC in the ClassRoom", "wisdom"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-05-26</p>
+
+<span class="opens"><b>Opens</b> [Gen 12](/bible/genesis/12) · [Gen 13](/bible/genesis/13) · [Gen 14](/bible/genesis/14) · [Gen 25](/bible/genesis/25) · [Gen 32](/bible/genesis/32) · [Exod 1](/bible/exodus/1) · [Dan 7](/bible/daniel/7) · [Deut 7](/bible/deuteronomy/7) · [Ps 82](/bible/psalms/82) · [Ezra 9](/bible/ezra/9) · [Neh 9](/bible/nehemiah/9) · [Joel 3](/bible/joel/3) · [Dan 1](/bible/daniel/1) · [Wis 7](/bible/wisdom-of-solomon/7) · [1 Sam 4](/bible/1-samuel/4) · [1 Kgs 4](/bible/1-kings/4) · <i>and 10 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="xHfm0T2bm8w"></div>
+
+## Introduction
+
+*[[21:44](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=1304s)]* A marathon class in Philadelphia on the superiority of the chosen people, with Deacon Malachi at the side. Our low self-esteem is by design, because our history is hidden; the class reads it back: Abraham teaching Egypt arithmetic and astronomy and arming three hundred and eighteen trained servants, Jacob wrestling the angel to daybreak, Israel mightier than Egypt and dealt with wisely through taskmasters, midwives and the river; the same dealing today in vaccines, C-sections, hysterectomies and the 1969 plan to change the Bible; then the gods among us, Daniel ten times better, Bezaleel, Solomon, the Moors' almanac and algebra, Benjamin Banneker, Thomas Fuller, Toussaint, Henrietta Lacks, the Tuskegee airmen; and why the nations conspire to keep us from reproducing.
+
+## In The News
+
+- *[[29:52](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=1792s)]* **Josephus, Antiquities, on Abraham in Egypt** — Abraham confuted the Egyptians' divided reasonings, was admired as a very wise man, and communicated to them arithmetic and the science of astronomy, which came from the Chaldeans into Egypt and from Egypt to the Greeks.
+- *[[46:53](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=2813s)]* **Photographs and engravings of the wild man of the caves and of a captive wild man in Switzerland** — Hair over the face like a garment, on all fours, naked, some of them cannibals: the wolf man of the stories is the Caucasian man in his natural habitat before the razor.
+- *[[59:37](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3577s)]* **The scene from Malcolm X where the teacher tells the class president a lawyer is no realistic goal for a nigger** — Malcolm had the best grades in the class; he was told to be a carpenter because Jesus was a carpenter, and that is how the inferiority is ingrained, more openly then than now.
+- *[[1:18:27](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=4707s)]* **A black man on video saying black people are godless, hopeless, broke, build nothing and own nothing** — That is the Oreo mind, white on the inside, that spiritual Egypt programs; and a lot of us think the same of ourselves.
+- *[[1:31:58](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=5518s)]* **Time magazine: a CDC senior scientist admits the 2004 vaccine-autism study left out its data on African-American boys** — William Thompson said on tape that among African-American boys autism was higher among the vaccinated; the article is damage control, and Kennedy has since said it plainly.
+- *[[1:38:50](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=5930s)]* **How ancient Egypt tested pregnancy and the child's sex with urine on barley and wheat** — Barley first meant a boy; so the Egyptians knew the sex before birth, which is why the midwives were told to kill on the stools.
+- *[[1:50:28](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=6628s)]* **The New Order of Barbarians: Dr. Lawrence Dunegan's account of Dr. Richard Day's lecture to pediatricians on March 20, 1969** — A Planned Parenthood medical director told pediatricians the Bible would be changed gradually by replacing key words with shades of meaning, that laws and customs would change, that everything has an ostensible purpose and a real one, and named population control, permission to have babies, sex education, tax-funded abortion, encouraged homosexuality, sex separated from reproduction, blended religions and more school with less learning; every revised Bible dates after 1969, and the truth began in 1969.
+- *[[1:55:36](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=6936s)]* **Memoirs of the Secret Services of John Macky under King William, Queen Anne and King George I** — The sons of King Charles II are described as of a black complexion, very like King Charles, and the Duke of Newcastle as a black ruddy-complexioned man; ruddy meant a healthy brown, not red, and the last black kings of England were Charles II and James II before his daughters married the two Germans.
+- *[[2:29:40](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=8980s)]* **Why doctors and hospitals are paid more for C-sections, and what the cut does to the womb** — A Caesarean is Roman law, cutting a child from a dying mother; doctors get ten to fifteen percent more and hospitals thousands, it is schedulable, and the scar leaves a weak spot that limits how many children a woman can carry; Deacon Malachi's wife was told after one cut she could never birth naturally again and could have two more.
+- *[[2:44:20](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=9860s)]* **Uterine fibroids in black women** — Up to eighty percent of black women develop fibroids by fifty, larger and faster growing, and Esau's answer is the hysterectomy; Deacon Malachi cut chicken, white rice, soda and sugar from his house for five years and his wife's fibroids were gone.
+- *[[2:59:13](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10753s)]* **La Operacion: the sterilization of Puerto Rican women from 1930, and Ethiopian women in Israel given Depo-Provera without consent** — By 1970 almost forty percent of childbearing women in Puerto Rico were sterilized for industrialists who wanted workers with no families; the Israelis did the same to our sisters for thirty years so they would not be outnumbered; deal wisely with them, Egypt again.
+- *[[4:09:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14969s)]* **Africans diving for pearls in the Persian Gulf: Zanzibar under the Sultan of Oman, thirty to fifty thousand a year through its market, the dhow, the diver with a stone on his ankle, forty to fifty dives a day** — Dominion over our bodies on the east side of Africa, and the Zanj rebellion of 869 was one of the largest slave revolts in history; the Arab trade never stopped.
+- *[[4:18:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=15509s)]* **African slaves pearl diving off Venezuela and Colombia for the Spanish from the 1500s; the natives of the Carolinas trained from youth to dive three and four fathoms** — The white man did on the west side what the Arab did on the east, and the northern kingdom here were expert divers who could stay under twenty feet of water on one breath.
+- *[[4:25:47](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=15947s)]* **Benjamin Banneker, 1731 to 1806** — Son of a father who asserted tribal royalty in West Africa, self-taught in astronomy and mathematics like Abraham, he built a wooden clock accurate for fifty years from one borrowed watch, predicted eclipses, published almanacs, surveyed the capital, and chided Jefferson for enslaving his people while fighting for liberty; the masons used his genius to lay out Washington's pentagram.
+- *[[4:44:08](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=17048s)]* **History of the Conquest of Spain by the Arab-Moors: the almanac and algebra** — To the Moors we owe the name and form of the calendar, al-manakh, the measure; they knew the earth was spheroidal and computed its diameter and circumference from eclipses of the moon; algebra is theirs too, and the islands still call the calendar the almanac.
+- *[[4:52:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=17535s)]* **Thomas Fuller, the African calculator, in Brissot's New Travels and in Dr. Rush's account** — Near seventy, unable to read, he gave the seconds in a year and a half in two minutes and the seconds of a man's life in a minute and a half, and when told he was wrong said, stop, massa, you forgot the leap year; asked about his lack of schooling he said many learned men be great fools.
+- *[[5:11:35](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18695s)]* **A speaker on eugenics born in America to eliminate the tribe of Judah in the African-American community, and the 1969 hearings calling the Negroes of the United States the most advanced section of the Negro population of the world and the vanguard of its liberation** — They know Judah is the essential worker of liberation for black people globally, which is why Bibles, education, contraception and vaccines are all aimed at Judah here.
+- *[[5:20:16](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=19216s)]* **Toussaint Louverture, and the comparison of his tactics with the Maccabees** — The bait-and-switch ambush at Beth-horon, the tactical retreat and burned camp at Emmaus, and the rural scorched earth of Mattathias are the same playbook Toussaint used against the French; same tribe, same people.
+- *[[5:29:43](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=19783s)]* **The Southern Literary Messenger, 1860, on the Negro in the Egyptian monuments** — From the temples of the Nile to Babylon, Rome, Athens, Carthage, Havana and Richmond, the writer finds the Negro always in slavery and asks who will say slavery is not their doom; the Bible asks the same question and gives the reason.
+- *[[5:40:06](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20406s)]* **Henrietta Lacks and the HeLa cell line** — Her cells reproduced every twenty-four hours and would not die, the first immortalized human cell line, taken without her knowledge; they looked for it in her father and did not find it, because it is in the womb.
+- *[[5:46:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20775s)]* **Peter Nygard at dinner with black women, describing the stem cell technology he invests in** — Take the egg of a young perfect woman specimen, remove the nucleus and put our DNA in it; black women from Africa have a monopoly on this genetic perfection and we want some of that, for a hundred dollars, then sixty thousand for eggs, placenta, umbilical cord and period blood; that is why they push interracial marriage and target sisters alone.
+- *[[6:00:04](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21604s)]* **Two biracial daughters on video: stop reproducing with white people; a white mother calling her biracial son a stupid nigger** — When you mix your seed with the nations the children grow up confused and hated by one side; all that girl can do is marry her own and weed it out.
+- *[[6:04:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21855s)]* **Melanin as a biomaterial for space travel, and its price by the gram** — Melanin shields against cosmic and ultraviolet radiation and is worth more than gold by weight; the damage-control article says human melanin is not harvested, but they turned Nat Turner into bags and lampshades, so do not fall for it.
+- *[[6:13:07](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=22387s)]* **The Negro in Africa and America, 1902, on the Middle Passage** — Only the hardiest survived the crossing, so the stock landed in America was physically superior to that left behind and passed that strength to its children; Esau knew it.
+- *[[6:17:36](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=22656s)]* **The 1949 first aerial gunnery competition and the Tuskegee Airmen of the 332nd Fighter Group** — Black pilots in old P-47s beat the newer Mustangs in the first Top Gun; the award was hidden for seventy-two years, and Trump has since removed them from the federal buildings.
+- *[[6:21:21](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=22881s)]* **A numbered list of black inventions: Banneker's clock, dry cleaning, the corn planter, the shoe-lasting machine, the automatic lubricator, the carbon filament, mobile refrigeration, blood plasma banks, color television, GPS geodesy** — Give us a plane, a boat, a pool, a racket or a Bible and we excel; the crack of the eighties and the fentanyl of today are the same Psalm 83 answer to it.
+- *[[6:28:59](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=23339s)]* **The scene from Glass: there just can't be gods amongst us, it's not fair** — The secret order keeps the order by convincing the gods they are ordinary; that is the whole purpose of the council.
+
+## Scriptures Opened
+
+**[Genesis 12:9-20](/bible/genesis/12#v9)**  *[[26:47](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=1607s)]*
+
+> <sup>[9](/bible/genesis/12#v9)</sup> And Abram journeyed, going on still toward the south.
+>
+> <sup>[10](/bible/genesis/12#v10)</sup> And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land.
+>
+> <sup>[11](/bible/genesis/12#v11)</sup> And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon:
+>
+> <sup>[12](/bible/genesis/12#v12)</sup> Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive.
+>
+> <sup>[13](/bible/genesis/12#v13)</sup> Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee.
+>
+> <sup>[14](/bible/genesis/12#v14)</sup> And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair.
+>
+> <sup>[15](/bible/genesis/12#v15)</sup> The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house.
+>
+> <sup>[16](/bible/genesis/12#v16)</sup> And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.
+>
+> <sup>[17](/bible/genesis/12#v17)</sup> And the Lord plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife.
+>
+> <sup>[18](/bible/genesis/12#v18)</sup> And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife?
+>
+> <sup>[19](/bible/genesis/12#v19)</sup> Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way.
+>
+> <sup>[20](/bible/genesis/12#v20)</sup> And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
+
+- A famine sent Abram into Egypt, as it would send Jacob later, and the Lord plagued Pharaoh's house over Sarai; here Abraham acquired Hagar, and here, by Josephus, he taught the Egyptians arithmetic and astronomy and confuted their divided customs.
+
+- Our history is hidden by design, so that we have low self-esteem and call the white man boss; the city in Ghana built without cement by our people is credited to anyone but us.
+
+
+**[Genesis 13:1-2](/bible/genesis/13#v1)**  *[[33:13](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=1993s)]*
+
+> <sup>[1](/bible/genesis/13#v1)</sup> And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
+>
+> <sup>[2](/bible/genesis/13#v2)</sup> And Abram was very rich in cattle, in silver, and in gold.
+
+- Abram was very rich in cattle, silver and gold; rich in the Bible with those things means wealthy.
+
+
+**[Genesis 14:13-24](/bible/genesis/14#v13)**  *[[36:54](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=2214s)]*
+
+> <sup>[13](/bible/genesis/14#v13)</sup> And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram.
+>
+> <sup>[14](/bible/genesis/14#v14)</sup> And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.
+>
+> <sup>[15](/bible/genesis/14#v15)</sup> And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus.
+>
+> <sup>[16](/bible/genesis/14#v16)</sup> And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.
+>
+> <sup>[17](/bible/genesis/14#v17)</sup> And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king’s dale.
+>
+> <sup>[18](/bible/genesis/14#v18)</sup> And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
+>
+> <sup>[19](/bible/genesis/14#v19)</sup> And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
+>
+> <sup>[20](/bible/genesis/14#v20)</sup> And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
+>
+> <sup>[21](/bible/genesis/14#v21)</sup> And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
+>
+> <sup>[22](/bible/genesis/14#v22)</sup> And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,
+>
+> <sup>[23](/bible/genesis/14#v23)</sup> That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:
+>
+> <sup>[24](/bible/genesis/14#v24)</sup> Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
+
+- When Lot was taken in the war of the four kings with five, Abram armed his trained servants born in his own house, three hundred and eighteen of them: he had an estate, an armory and men he had trained, and he went to war by night and brought back Lot, the women, the people and all the goods.
+
+- Abraham was no wimp: a wealthy warrior who trained his household, and the martial nations that surround his descendants, Arabs, Israel and Esau, learned it at his dojo.
+
+- Melchizedek, priest of the most high God, blessed him, and Abram refused a thread or a shoelatchet from the king of Sodom lest he say I have made Abram rich; he was well off enough.
+
+
+**[Genesis 25:21-26](/bible/genesis/25#v21)**  *[[40:22](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=2422s)]*
+
+> <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
+>
+> <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
+>
+> <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
+>
+> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+>
+> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
+>
+> <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
+
+- Two nations in Rebekah's womb, two manner of people, separate, and the one stronger than the other: the twins were not alike in look, behavior or thought, and the elder would serve the younger, from David to Christ's return.
+
+- Esau came out red all over like an hairy garment, no pigment and thin goat-like hair; Jacob needed no description because he looked like his parents.
+
+- This is the origin of the so-called white man in his purest form; the hair was a covering for a man born without melanin, the albino's short life in the sun, and that is a genetic defect Jacob did not have.
+
+
+**[Genesis 32:24-30](/bible/genesis/32#v24)**  *[[50:16](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3016s)]*
+
+> <sup>[24](/bible/genesis/32#v24)</sup> And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
+>
+> <sup>[25](/bible/genesis/32#v25)</sup> And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him.
+>
+> <sup>[26](/bible/genesis/32#v26)</sup> And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
+>
+> <sup>[27](/bible/genesis/32#v27)</sup> And he said unto him, What is thy name? And he said, Jacob.
+>
+> <sup>[28](/bible/genesis/32#v28)</sup> And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
+>
+> <sup>[29](/bible/genesis/32#v29)</sup> And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there.
+>
+> <sup>[30](/bible/genesis/32#v30)</sup> And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
+
+- Jacob wrestled a man until the breaking of the day; a boxing match is twelve rounds and he fought to daybreak, and the angel had to dislocate his thigh to stop him.
+
+- Thy name shall be called Israel, for as a prince hast thou power with God and with men and hast prevailed: that is what the name means, and no other man in scripture wrestled an angel.
+
+- Jacob was trained by Isaac and Abraham; imagine his descendants, David running through warriors, Samson; our forefathers were intellectual and physically powerful, and Jacob was a god on the earth.
+
+  Precepts:
+  - **[Hosea 12:3-4](/bible/hosea/12#v3)**
+    > <sup>[3](/bible/hosea/12#v3)</sup> He took his brother by the heel in the womb, and by his strength he had power with God:
+    >
+    > <sup>[4](/bible/hosea/12#v4)</sup> Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Beth–el, and there he spake with us;
+
+    He took his brother by the heel in the womb and by his strength he had power with God, yea, he had power over the angel and prevailed; his name was changed because of his strength.
+
+
+**[Exodus 1:8-14](/bible/exodus/1#v8)**  *[[1:01:52](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3712s)]*
+
+> <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
+>
+> <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
+>
+> <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
+>
+> <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
+>
+> <sup>[12](/bible/exodus/1#v12)</sup> But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
+>
+> <sup>[13](/bible/exodus/1#v13)</sup> And the Egyptians made the children of Israel to serve with rigour:
+>
+> <sup>[14](/bible/exodus/1#v14)</sup> And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
+
+- A new king said the children of Israel are more and mightier than we; the Egyptians were tall and strong, so something had happened for them to say these Hebrews are mightier, and they could not destroy us head on.
+
+- Let us deal wisely with them: not to be rid of us but to restrict our growth and keep us, a resource whose might they needed, so they set up institutions of oppression, and there is nothing new under the sun.
+
+- Dealing wisely instilled the slave mentality that made us want to go back to Egypt under Moses; taskmasters with sticks keep you working so you have no time to think of leaving, and the same thought followed us into the hands of the white man, the Arab and the Asian.
+
+- The more they afflicted us the more we multiplied; we built Pithom and Raamses as we built the White House and the Capitol, and the service in the field was the plantation, the best cotton in the world being Egyptian.
+
+- All manner of service is the civil servant job today, paid just enough to keep you comfortable; the essential worker sent out in the plague was the same thing.
+
+- We were mightier than the white man in slavery too; the Mandingo fighters could have killed him, so deal wisely with them: white Jesus, don't hurt Massa, and later the front of the bus and the vote.
+
+  Precepts:
+  - **[Genesis 43:32](/bible/genesis/43#v32)**
+    > <sup>[32](/bible/genesis/43#v32)</sup> And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.
+
+    They set on for Joseph by himself and for the Egyptians by themselves, because the Egyptians might not eat bread with the Hebrews, an abomination; Joseph ruled Egypt and still could not sit at their table: that is Jim Crow.
+  - **[Genesis 46:34](/bible/genesis/46#v34)**
+    > <sup>[34](/bible/genesis/46#v34)</sup> That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
+
+    Every shepherd is an abomination unto the Egyptians, so Israel was placed apart in Goshen: segregation and redlining, and no Egyptian blood among us in Goshen.
+
+
+**[Exodus 1:15-22](/bible/exodus/1#v15)**  *[[1:20:53](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=4853s)]*
+
+> <sup>[15](/bible/exodus/1#v15)</sup> And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:
+>
+> <sup>[16](/bible/exodus/1#v16)</sup> And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live.
+>
+> <sup>[17](/bible/exodus/1#v17)</sup> But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.
+>
+> <sup>[18](/bible/exodus/1#v18)</sup> And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?
+>
+> <sup>[19](/bible/exodus/1#v19)</sup> And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them.
+>
+> <sup>[20](/bible/exodus/1#v20)</sup> Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.
+>
+> <sup>[21](/bible/exodus/1#v21)</sup> And it came to pass, because the midwives feared God, that he made them houses.
+>
+> <sup>[22](/bible/exodus/1#v22)</sup> And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
+
+- Pharaoh told the Hebrew midwives, Shiphrah and Puah the most notable, that when they saw the women on the stools and it was a son they were to kill him; women then birthed sitting, with gravity, and the baby came fast.
+
+- They could tell the child's sex before birth and they knew how to end it in the womb: the midwives were trained in abortion, and the stools are where it was to be done.
+
+- The midwives feared God and did not; their answer, the Hebrew women are lively and delivered ere the midwives come, means our women had birthed before they arrived and a living child could not be killed.
+
+- God dealt well with the midwives, the people multiplied and waxed very mighty, and we built those sisters houses for saving our sons; the males are the base of the race, so kill the males and keep the girls.
+
+- When covert failed Pharaoh went overt, every son into the river as gator bait; COVID went the same way, first quiet, then open, with the vaccine's harm admitted after the fact and people in this congregation dead from it.
+
+
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[2:07:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=7635s)]*
+
+> <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
+
+- He shall think to change times and laws: the 1969 plan says changing laws and customs in so many words, and every revision of the Bible since replaces black with dark, ruddy with red, and black with mourning, so that David and the Shulamite become white men with a tan.
+
+- Do not trust the white man; the Apocrypha speaks of the nations with their wicked conspiracy, and a conspiracy theory is what they call a truth they are hiding until it comes out.
+
+- Everything has two purposes, the ostensible and the real: civil rights was the front, and the real purpose was every heathen's rights and the death of black schools and businesses, the white man's ice being colder.
+
+- The 1960s and the 1990s were the two waves: the truth began in 1969 and the one-West teachers came in the 1990s, so Esau hit each wave with the Bible revisions, the vaccine schedule, crack, the three-strikes law and the prison pipeline.
+
+  Precepts:
+  - **[Jeremiah 6:16](/bible/jeremiah/6#v16)**
+    > <sup>[16](/bible/jeremiah/6#v16)</sup> Thus saith the Lord, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk therein.
+
+    Ask for the old paths, where is the good way, and walk therein; the old religions will have to go means the law and the commandments have to go, and they said we will not walk therein.
+  - **[John 3:16](/bible/john/3#v16)**
+    > <sup>[16](/bible/john/3#v16)</sup> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+    After the civil rights era Christianity changed from the Klan's white Jesus to God loves everybody and all-inclusive churches; the lamb's horns and the dragon's voice, a doctrine of adaptation, while the truth cannot adapt.
+
+
+**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[3:01:42](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10902s)]*
+
+> <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
+
+- Thou art an holy people, chosen above all people upon the face of the earth; the nations know it, and so they divide us by language, culture, politics, religion and phenotype, and conspire to keep us from reproducing, because we are a problem to them.
+
+- In captivity we are beneath them by our own doing, but in the eyes of God we are above every people on the earth, and he will make it so soon enough.
+
+- When doctors said Deacon Malachi's unborn son might be deformed and offered a needle that could kill him with nothing to be done if it did, he fasted, prayed and refused; they saw his genes and were after his son, and that is where faith comes in.
+
+  Precepts:
+  - **[Job 13:4](/bible/job/13#v4)**
+    > <sup>[4](/bible/job/13#v4)</sup> But ye are forgers of lies, ye are all physicians of no value.
+
+    Ye are forgers of lies, ye are all physicians of no value: seek counsel from the Lord and from the licensed midwives and doulas the school has before you take a doctor's word; it is advice, not law.
+
+
+**[Psalms 82:1-8](/bible/psalms/82#v1)**  *[[4:00:23](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14423s)]*
+
+> <sup>[1](/bible/psalms/82#v1)</sup> God standeth in the congregation of the mighty; he judgeth among the gods.
+>
+> <sup>[2](/bible/psalms/82#v2)</sup> How long will ye judge unjustly, and accept the persons of the wicked? Selah.
+>
+> <sup>[3](/bible/psalms/82#v3)</sup> Defend the poor and fatherless: do justice to the afflicted and needy.
+>
+> <sup>[4](/bible/psalms/82#v4)</sup> Deliver the poor and needy: rid them out of the hand of the wicked.
+>
+> <sup>[5](/bible/psalms/82#v5)</sup> They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
+>
+> <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
+>
+> <sup>[7](/bible/psalms/82#v7)</sup> But ye shall die like men, and fall like one of the princes.
+>
+> <sup>[8](/bible/psalms/82#v8)</sup> Arise, O God, judge the earth: for thou shalt inherit all nations.
+
+- God standeth in the congregation of the mighty and judgeth among the gods: the gods are our leaders, through whom the Lord moved, Moses, Aaron, the captains and officers.
+
+- Because our leaders walked on in darkness, all the foundations of the earth are out of course; the world is out of order because its rightful heirs are not in their place.
+
+- I have said ye are gods, and all of you are children of the most High, and he meant it; but ye shall die like men, like the heathen, for the darkness we walked in, which is why we cannot afford an inferiority complex.
+
+  Precepts:
+  - **[Exodus 22:28](/bible/exodus/22#v28)**
+    > <sup>[28](/bible/exodus/22#v28)</sup> Thou shalt not revile the gods, nor curse the ruler of thy people.
+
+    Thou shalt not revile the gods nor curse the ruler of thy people; the gods and the rulers are the same men.
+
+
+**[Ezra 9:8-9](/bible/ezra/9#v8)**  *[[4:03:30](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14610s)]*
+
+> <sup>[8](/bible/ezra/9#v8)</sup> And now for a little space grace hath been shewed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
+>
+> <sup>[9](/bible/ezra/9#v9)</sup> For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
+
+- A little reviving in our bondage under the kings of Persia to set up the house of our God: we were bondmen even when allowed to rebuild Jerusalem.
+
+
+**[Nehemiah 9:36-37](/bible/nehemiah/9#v36)**  *[[4:04:21](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14661s)]*
+
+> <sup>[36](/bible/nehemiah/9#v36)</sup> Behold, we are servants this day, and for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:
+>
+> <sup>[37](/bible/nehemiah/9#v37)</sup> And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
+
+- We are servants this day in the land thou gavest our fathers; colonized, our land yielding its increase to the kings set over us, and they have dominion over our bodies, to work our own crops for a foreign nation, as in Africa, South America, Australia and the Pacific today.
+
+
+**[Joel 3:1-6](/bible/joel/3#v1)**  *[[4:06:45](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14805s)]*
+
+> <sup>[1](/bible/joel/3#v1)</sup> For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
+>
+> <sup>[2](/bible/joel/3#v2)</sup> I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
+>
+> <sup>[3](/bible/joel/3#v3)</sup> And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
+>
+> <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
+>
+> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
+>
+> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
+
+- When he brings again the captivity of Judah he will gather all nations to the valley of Jehoshaphat and plead with them there for his heritage Israel, whom they scattered and whose land they parted, the Israelis and Palestinians with America's help.
+
+- They cast lots for my people, gave a boy for an harlot, and sold a girl for wine: bred the boys and sold our daughters for drink.
+
+- Tyre and Zidon and the coasts of Palestine, the Canaanites of West Africa and the Arabs, sold the children of Judah and Jerusalem unto the Grecians, the so-called white man who became the Portuguese, Spanish, French, Dutch, German and American; we were sold off both sides of Africa, into the Atlantic and into the Indian Ocean and the Persian Gulf, to Arabs and Asians alike.
+
+- In Zanzibar this Passover our brothers and sisters, heavily Islamic, did not know the Arabs had depopulated their island through its slave market; Zanj means black people.
+
+
+**[Daniel 1:3-6](/bible/daniel/1#v3)**  *[[4:36:47](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=16607s)]*
+
+> <sup>[3](/bible/daniel/1#v3)</sup> And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king’s seed, and of the princes;
+>
+> <sup>[4](/bible/daniel/1#v4)</sup> Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans.
+>
+> <sup>[5](/bible/daniel/1#v5)</sup> And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
+>
+> <sup>[6](/bible/daniel/1#v6)</sup> Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
+
+- Nebuchadnezzar took children of the king's seed and of the princes, without blemish, skillful in all wisdom, cunning in knowledge and understanding science, to stand in the palace; royalty with a genius, like Banneker's line.
+
+- It is no coincidence that Babylon used Daniel to advance itself and modern Babylon used a black man to lay out its capital; the slave masters knew that though captive we were not stupid, and Egypt, Persia, Greece, Rome and America all used the genius of the conquered.
+
+  Precepts:
+  - **[Daniel 1:17-20](/bible/daniel/1#v17)**
+    > <sup>[17](/bible/daniel/1#v17)</sup> As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.
+    >
+    > <sup>[18](/bible/daniel/1#v18)</sup> Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar.
+    >
+    > <sup>[19](/bible/daniel/1#v19)</sup> And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.
+    >
+    > <sup>[20](/bible/daniel/1#v20)</sup> And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.
+
+    God gave the four knowledge and skill in all learning and wisdom, and the king found them ten times better than all the magicians and astrologers in his realm; Banneker was likewise wiser than the masons who used him.
+  - **[Daniel 5:11](/bible/daniel/5#v11)**
+    > <sup>[11](/bible/daniel/5#v11)</sup> There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;
+
+    A man in whom is the spirit of the holy gods, with light and understanding and wisdom like the wisdom of the gods, made master of the magicians, astrologers, Chaldeans and soothsayers, a dissolver of doubts; Daniel was set over the elite brain of Babylon.
+  - **[Deuteronomy 4:6](/bible/deuteronomy/4#v6)**
+    > <sup>[6](/bible/deuteronomy/4#v6)</sup> Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people.
+
+    Keep therefore and do them, for this is your wisdom and understanding in the sight of the nations, which shall say, surely this great nation is a wise and understanding people; our reputation for wisdom came from keeping the law.
+
+
+**[Wisdom of Solomon 7:17-21](/bible/wisdom-of-solomon/7#v17)**  *[[4:49:44](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=17384s)]*
+
+> <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
+>
+> <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
+>
+> <sup>[19](/bible/wisdom-of-solomon/7#v19)</sup> The circuits of years, and the positions of stars:
+>
+> <sup>[20](/bible/wisdom-of-solomon/7#v20)</sup> The natures of living creatures, and the furies of wild beasts: the violence of winds, and the reasonings of men: the diversities of plants and the virtues of roots:
+>
+> <sup>[21](/bible/wisdom-of-solomon/7#v21)</sup> And all such things as are either secret or manifest, them I know.
+
+- God gave Solomon certain knowledge of how the world was made and the operation of the elements, the periodic table; the beginning, ending and midst of times; the alterations of the sun and the change of seasons, meteorology; the circuits of years and positions of stars, the almanac; the natures of living creatures and the furies of wild beasts, zoology; the violence of winds; the reasonings of men, psychology; the diversities of plants and the virtues of roots, botany.
+
+- All such things as are either secret or manifest, them I know: Solomon knew almost everything, every science and every age.
+
+
+**[1 Samuel 4:6-8](/bible/1-samuel/4#v6)**  *[[5:00:55](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18055s)]*
+
+> <sup>[6](/bible/1-samuel/4#v6)</sup> And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the Lord was come into the camp.
+>
+> <sup>[7](/bible/1-samuel/4#v7)</sup> And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.
+>
+> <sup>[8](/bible/1-samuel/4#v8)</sup> Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.
+
+- When the ark came into the camp of the Hebrews the Philistines said, woe unto us, who shall deliver us out of the hand of these mighty Gods; the heathen called us gods, and the Asians understand it today, which is why they dumb us down on purpose.
+
+- It is in our DNA: anything we do we excel at, while being held back; that is why reading was a crime for a slave and why every revolt began with slaves who read.
+
+  Precepts:
+  - **[Wisdom of Solomon 18:12-13](/bible/wisdom-of-solomon/18#v12)**
+    > <sup>[12](/bible/wisdom-of-solomon/18#v12)</sup> So they all together had innumerable dead with one kind of death; neither were the living sufficient to bury them: for in one moment the noblest offspring of them was destroyed.
+    >
+    > <sup>[13](/bible/wisdom-of-solomon/18#v13)</sup> For whereas they would not believe any thing by reason of the enchantments; upon the destruction of the firstborn, they acknowledged this people to be the sons of God.
+
+    When the noblest offspring of the Egyptians was destroyed in one moment, they who would believe nothing by reason of the enchantments acknowledged this people to be the sons of God.
+
+
+**[1 Kings 4:29-30](/bible/1-kings/4#v29)**  *[[5:04:42](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18282s)]*
+
+> <sup>[29](/bible/1-kings/4#v29)</sup> And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.
+>
+> <sup>[30](/bible/1-kings/4#v30)</sup> And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
+
+- God gave Solomon largeness of heart as the sand on the seashore, and his wisdom excelled all the children of the east country, the Persians, the Indians and the Chinese, and all the wisdom of Egypt.
+
+- The temple he built was on another level than the pyramids, its stones carved to fit without a hammer heard; the Lord had it destroyed because the world would have marveled at it forever, and the second was nowhere near the first.
+
+
+**[Exodus 31:1-11](/bible/exodus/31#v1)**  *[[5:06:55](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18415s)]*
+
+> <sup>[1](/bible/exodus/31#v1)</sup> And the Lord spake unto Moses, saying,
+>
+> <sup>[2](/bible/exodus/31#v2)</sup> See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
+>
+> <sup>[3](/bible/exodus/31#v3)</sup> And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
+>
+> <sup>[4](/bible/exodus/31#v4)</sup> To devise cunning works, to work in gold, and in silver, and in brass,
+>
+> <sup>[5](/bible/exodus/31#v5)</sup> And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship.
+>
+> <sup>[6](/bible/exodus/31#v6)</sup> And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;
+>
+> <sup>[7](/bible/exodus/31#v7)</sup> The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that is thereupon, and all the furniture of the tabernacle,
+>
+> <sup>[8](/bible/exodus/31#v8)</sup> And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,
+>
+> <sup>[9](/bible/exodus/31#v9)</sup> And the altar of burnt offering with all his furniture, and the laver and his foot,
+>
+> <sup>[10](/bible/exodus/31#v10)</sup> And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,
+>
+> <sup>[11](/bible/exodus/31#v11)</sup> And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do.
+
+- The Lord filled Bezaleel of Judah with the spirit of God in wisdom, understanding, knowledge and all manner of workmanship, to devise cunning works: goldsmith, silversmith, brass worker, stone cutter, wood carver, one man.
+
+- With Aholiab of Dan and every wise-hearted man he made the tabernacle, the ark, the mercy seat, the furniture, the candlestick, the altars, the laver, the garments of Aaron and his sons, the anointing oil and the incense; we read of these things without asking who made them, and Exodus 37 lists each in detail.
+
+  Precepts:
+  - **[Exodus 36:1-2](/bible/exodus/36#v1)**
+    > <sup>[1](/bible/exodus/36#v1)</sup> Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the Lord put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the Lord had commanded.
+    >
+    > <sup>[2](/bible/exodus/36#v2)</sup> And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the Lord had put wisdom, even every one whose heart stirred him up to come unto the work to do it:
+
+    Then wrought Bezaleel and Aholiab and every wise hearted man in whom the Lord put wisdom and understanding; the two led a team whose hearts stirred them up to come unto the work.
+
+
+**[Genesis 49:8-12](/bible/genesis/49#v8)**  *[[5:16:03](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18963s)]*
+
+> <sup>[8](/bible/genesis/49#v8)</sup> Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father’s children shall bow down before thee.
+>
+> <sup>[9](/bible/genesis/49#v9)</sup> Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
+>
+> <sup>[10](/bible/genesis/49#v10)</sup> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
+>
+> <sup>[11](/bible/genesis/49#v11)</sup> Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
+>
+> <sup>[12](/bible/genesis/49#v12)</sup> His eyes shall be red with wine, and his teeth white with milk.
+
+- Judah is a lion's whelp, a young lion in the sixties and an old lion after; the sceptre shall not depart from Judah nor a lawgiver from between his feet until Shiloh come, and unto him shall the gathering of the people be.
+
+- Judah is the essential tribe that gathers the twelve for the liberation the 1969 hearings feared; a sister in Papua New Guinea wrote that her people are still colonized by religion and must go back to the Bible and listen to the tribe of Judah.
+
+- Every other tribe, Jamaica, Africa, Europe, Levi with six languages, is better educated than Judah in America because Judah is here; if Judah knew five or six languages this thing would be over quickly, so America's schools are dumbed down for Judah.
+
+  Precepts:
+  - **[Deuteronomy 33:7](/bible/deuteronomy/33#v7)**
+    > <sup>[7](/bible/deuteronomy/33#v7)</sup> And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
+
+    Hear, Lord, the voice of Judah, and bring him unto his people: bring Judah to all the tribes on an international scale, so we can get out of here.
+
+
+**[1 Maccabees 2:1-5](/bible/1-maccabees/2#v1)**  *[[5:18:36](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=19116s)]*
+
+> <sup>[1](/bible/1-maccabees/2#v1)</sup> In those days arose Mattathias the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem, and dwelt in Modin.
+>
+> <sup>[2](/bible/1-maccabees/2#v2)</sup> And he had five sons, Joannan, called Caddis:
+>
+> <sup>[3](/bible/1-maccabees/2#v3)</sup> Simon; called Thassi:
+>
+> <sup>[4](/bible/1-maccabees/2#v4)</sup> Judas, who was called Maccabeus:
+>
+> <sup>[5](/bible/1-maccabees/2#v5)</sup> Eleazar, called Avaran: and Jonathan, whose surname was Apphus.
+
+- Mattathias had five sons, and the class is on the day of Simon, so Simon is not forgotten: Judas was the hammer and Simon was the hand behind it.
+
+  Precepts:
+  - **[1 Maccabees 2:49-50](/bible/1-maccabees/2#v49)**
+    > <sup>[49](/bible/1-maccabees/2#v49)</sup> Now when the time drew near that Mattathias should die, he said unto his sons, Now hath pride and rebuke gotten strength, and the time of destruction, and the wrath of indignation:
+    >
+    > <sup>[50](/bible/1-maccabees/2#v50)</sup> Now therefore, my sons, be ye zealous for the law, and give your lives for the covenant of your fathers.
+
+    Now hath pride and rebuke gotten strength; my sons, be ye zealous for the law and give your lives for the covenant of your fathers.
+  - **[1 Maccabees 2:65-66](/bible/1-maccabees/2#v65)**
+    > <sup>[65](/bible/1-maccabees/2#v65)</sup> And behold, I know that your brother Simon is a man of counsel, give ear unto him alway: he shall be a father unto you.
+    >
+    > <sup>[66](/bible/1-maccabees/2#v66)</sup> As for Judas Maccabeus, he hath been mighty and strong, even from his youth up: let him be your captain, and fight the battle of the people.
+
+    Simon is a man of counsel, give ear unto him always, he shall be a father unto you; Judas hath been mighty and strong from his youth, let him be your captain: Simon the brain, Judas the brawn, and Toussaint fought the French with the same playbook.
+  - **[1 Maccabees 3:16-24](/bible/1-maccabees/3#v16)**
+    > <sup>[16](/bible/1-maccabees/3#v16)</sup> And when he came near to the going up of Bethhoron, Judas went forth to meet him with a small company:
+    >
+    > <sup>[17](/bible/1-maccabees/3#v17)</sup> Who, when they saw the host coming to meet them, said unto Judas, How shall we be able, being so few, to fight against so great a multitude and so strong, seeing we are ready to faint with fasting all this day?
+    >
+    > <sup>[18](/bible/1-maccabees/3#v18)</sup> Unto whom Judas answered, It is no hard matter for many to be shut up in the hands of a few; and with the God of heaven it is all one, to deliver with a great multitude, or a small company:
+    >
+    > <sup>[19](/bible/1-maccabees/3#v19)</sup> For the victory of battle standeth not in the multitude of an host; but strength cometh from heaven.
+    >
+    > <sup>[20](/bible/1-maccabees/3#v20)</sup> They come against us in much pride and iniquity to destroy us, and our wives and children, and to spoil us:
+    >
+    > <sup>[21](/bible/1-maccabees/3#v21)</sup> But we fight for our lives and our laws.
+    >
+    > <sup>[22](/bible/1-maccabees/3#v22)</sup> Wherefore the Lord himself will overthrow them before our face: and as for you, be ye not afraid of them.
+    >
+    > <sup>[23](/bible/1-maccabees/3#v23)</sup> Now as soon as he had left off speaking, he leapt suddenly upon them, and so Seron and his host was overthrown before him.
+    >
+    > <sup>[24](/bible/1-maccabees/3#v24)</sup> And they pursued them from the going down of Bethhoron unto the plain, where were slain about eight hundred men of them; and the residue fled into the land of the Philistines.
+
+    The bait-and-switch at Beth-horon: Judas hid his men in the heights and charged when the Greek column was congested in the narrow pass, the exact tactic Toussaint used to lure the French into a crossfire.
+
+
+**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[5:36:24](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20184s)]*
+
+> <sup>[14](/bible/jeremiah/2#v14)</sup> Is Israel a servant? is he a homeborn slave? why is he spoiled?
+
+- Is Israel a servant? Is he a homeborn slave? Why is he spoiled? The 1860 writer found us slaves at Thebes, Babylon, Rome, Athens, Carthage, Havana and Richmond and called slavery our doom; the Bible answers that we are spoiled because we keep breaking God's laws.
+
+  Precepts:
+  - **[Jeremiah 2:21](/bible/jeremiah/2#v21)**
+    > <sup>[21](/bible/jeremiah/2#v21)</sup> Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
+
+    I planted thee a noble vine, wholly a right seed; how then art thou turned into the degenerate plant of a strange vine: lost, self-hating, twerking and mumble-rapping.
+  - **[Jeremiah 2:25](/bible/jeremiah/2#v25)**
+    > <sup>[25](/bible/jeremiah/2#v25)</sup> Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go.
+
+    Thou saidst, there is no hope: no, for I have loved strangers, and after them will I go; we followed the Persians, Babylonians, Greeks, Romans and Canaanites into slavery every time, despite being superior to them.
+
+
+**[Psalms 83:2-7](/bible/psalms/83#v2)**  *[[5:38:36](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20316s)]*
+
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
+>
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+>
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+>
+> <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
+>
+> <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
+
+- They have taken crafty counsel against thy people and consulted against thy hidden ones: let us deal wisely with them, the think tanks, the order; we became the hidden ones once our identity was destroyed.
+
+- Come, let us cut them off from being a nation, that the name of Israel may be no more in remembrance; they consulted with one consent, confederate against God and his people.
+
+- Edom the white man, the Ishmaelites and Hagarenes the Arabs, Moab the Chinese, Amalek the Japanese, Gebal and Ammon, the Philistines with Tyre the Canaanites of Africa who gave us to the Arabs and the white man: the same nations as Joel 3, and today the United Nations.
+
+
+**[Psalms 64:2-8](/bible/psalms/64#v2)**  *[[5:43:51](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20631s)]*
+
+> <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+>
+> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+>
+> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
+>
+> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+>
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+>
+> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
+>
+> <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
+
+- Hide me from the secret counsel of the wicked: the order, the council of Psalm 83, whose tongue is a sword and whose arrows are bitter words, propaganda.
+
+- They commune of laying snares privily, and say who shall see them: secret societies, and education is the snare laid privately, the eugenics tree.
+
+- They search out iniquities, they accomplish a diligent search: research; they dug up Christmas, Easter, Valentine's, Sunday and birthdays, and they dig into cells, stem cells, cloning and GMOs, with contingency plans three hundred years ahead.
+
+- God shall shoot at them with an arrow; they shall make their own tongue to fall upon themselves, which is the whistleblower.
+
+
+**[Malachi 2:14-15](/bible/malachi/2#v14)**  *[[5:56:09](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21369s)]*
+
+> <sup>[14](/bible/malachi/2#v14)</sup> Yet ye say, Wherefore? Because the Lord hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.
+>
+> <sup>[15](/bible/malachi/2#v15)</sup> And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.
+
+- The wife of thy youth is thy companion and the wife of thy covenant, and we dealt treacherously against her by laying with other nations.
+
+- Did not he make one? And wherefore one? That he might seek a godly seed: the woman's womb is the housing for gods, which is why they found the immortal cells in Henrietta and not in her father, and why Nygard wants the eggs.
+
+- Put your seed in the womb that belongs to you; a child of mixed seed grows up confused and shunned by both sides.
+
+  Precepts:
+  - **[Sirach 26:19-21](/bible/sirach/26#v19)**
+    > <sup>[19](/bible/sirach/26#v19)</sup> My son, keep the flower of thine age sound; and give not thy strength to strangers.
+    >
+    > <sup>[20](/bible/sirach/26#v20)</sup> When thou hast gotten a fruitful possession through all the field, sow it with thine own seed, trusting in the goodness of thy stock.
+    >
+    > <sup>[21](/bible/sirach/26#v21)</sup> So thy race which thou leavest shall be magnified, having the confidence of their good descent.
+
+    Give not thy strength to strangers; when thou hast gotten a fruitful possession through all the field, sow it with thine own seed, trusting in the goodness of thy stock, so shall thy race which thou leavest be magnified, having the confidence of their good descent; Israel has every color and feature, so there is no reason to step out.
+
+
+**[Genesis 2:7](/bible/genesis/2#v7)**  *[[6:04:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21855s)]*
+
+> <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+
+- The Lord God formed man of the dust of the ground: that dust is the deep rich melanin they desire from us, a shield against cosmic radiation worth more than gold by the gram; Manny could go to space without a suit.
+
+
+**[Lamentations 4:8](/bible/lamentations/4#v8)**  *[[6:11:35](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=22295s)]*
+
+> <sup>[8](/bible/lamentations/4#v8)</sup> Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+
+- Their visage is blacker than a coal, their skin cleaveth to their bones: already black, and blacker in famine; we become hypermelanated when deprived, while the white man gets lighter, and Native Americans in Alaska are still brown, so the cold-climate doctrine is stupid.
+
+  Precepts:
+  - **[Lamentations 5:10](/bible/lamentations/5#v10)**
+    > <sup>[10](/bible/lamentations/5#v10)</sup> Our skin was black like an oven because of the terrible famine.
+
+    Our skin was black like an oven because of the terrible famine.
+
+
+**[Isaiah 29:14-16](/bible/isaiah/29#v14)**  *[[6:31:21](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=23481s)]*
+
+> <sup>[14](/bible/isaiah/29#v14)</sup> Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
+>
+> <sup>[15](/bible/isaiah/29#v15)</sup> Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
+>
+> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
+
+- Woe unto them that seek deep to hide their counsel from the Lord, whose works are in the dark, who say who seeth us: the council of 1969 and the order in the film.
+
+- Your turning of things upside down shall be esteemed as the potter's clay; the Most High turns them right side up through his prophets.
+
+  Precepts:
+  - **[Isaiah 29:20-21](/bible/isaiah/29#v20)**
+    > <sup>[20](/bible/isaiah/29#v20)</sup> For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
+    >
+    > <sup>[21](/bible/isaiah/29#v21)</sup> That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
+
+    The terrible one is brought to nought and the scorner consumed, and all that watch for iniquity, that search out iniquity and lay a snare for him that reproveth in the gate, are cut off; that is happening now.
+  - **[Isaiah 29:22-24](/bible/isaiah/29#v22)**
+    > <sup>[22](/bible/isaiah/29#v22)</sup> Therefore thus saith the Lord, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
+    >
+    > <sup>[23](/bible/isaiah/29#v23)</sup> But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
+    >
+    > <sup>[24](/bible/isaiah/29#v24)</sup> They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+
+    Jacob shall not now be ashamed nor his face wax pale; when he seeth his children in the midst of him they shall sanctify the Holy One of Jacob, they that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+
+
+## Class Questions
+
+- **Why was Esau born hairy?** Because he was born without pigment, like an albino, and the hair was his covering from the sun; shaved today, they get skin cancer. It is a genetic defect, and it shows Jacob was different and better.
+- **What two things did the Egyptian midwives know how to do?** Determine a child's sex before birth, with urine on barley and wheat, and end the child in the womb; that is why the order was for the stools, and why our women delivered before they came.
+- **Where was Israel when Nehemiah says they have dominion over our bodies?** In our own land, colonized by Persia, working our own crops for foreign kings; the same dominion sent us pearl diving on both sides of Africa.
+- **What does almanac mean?** Al-manakh, the measure: the Moors, our people in Spain, gave the calendar its name and form, and the islands still call it the almanac, with the moons and the planting and fishing days on it.
+- **Why does the woman carry the god gene and not the father?** Because the womb was made to seek a godly seed; it is the housing for gods, which is why they found the immortal cells in Henrietta Lacks and not in her father, and why they buy eggs, placenta and period blood.
+
+## In Closing
+
+*[[6:32:09](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=23529s)]* The terrible one is brought to nought and the scorner is consumed; Jacob shall not now be ashamed, neither shall his face wax pale. When he sees his children in the midst of him they shall sanctify the Holy One of Jacob, those that erred in spirit shall come to understanding, and those that murmured shall learn doctrine. Repent, turn to the Lord, and acknowledge how superior we are according to him.
+
+## Announcements & References
+
+- The class was kept on the day of Simon of Maccabees, memorialized in place of the pagan holiday.
+- Sisters in the medical field: get certified, set up clinics, and be Shiphrah and Puah for the nation; sisters near labor should be paired with a licensed midwife or doula in the school before seeing the doctor.
+- Read Exodus 37:1-29 for everything Bezaleel and Aholiab made in detail.
+- Watch Unbreakable, Split and Glass for the scene on the gods amongst us.
+- Bread and wine were taken at the close, 1 Corinthians 11:23-30 read over them.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=xHfm0T2bm8w)

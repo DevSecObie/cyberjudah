@@ -1,0 +1,36 @@
+name: Weekly Sabbath Classes
+
+# The Sabbath classes are published on IUICintheClassRoom on Saturday, and YouTube has their
+# captions up within hours. One pass early Sunday (UTC) transcribes the week's classes; a class
+# whose captions are still on the way is tried again the following week.
+on:
+  schedule:
+    - cron: "23 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: transcript-harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Install channel inventory tool
+        run: python3 -m pip install --upgrade yt-dlp
+
+      - name: Transcribe the week's classes
+        env:
+          TRANSCRIPTAPI_KEY: ${{ secrets.TRANSCRIPTAPI_KEY }}
+          GJT: ${{ secrets.GJT }}
+          HARVEST_RAW_DIR: /tmp/transcriptapi-harvest-raw
+        run: |
+          python3 scripts/history/harvest.py --feed classes --channel IUICintheClassRoom --backend transcriptapi --listing-backend yt-dlp --tabs videos,streams --limit 60 --push --recheck-nocaption-days 10

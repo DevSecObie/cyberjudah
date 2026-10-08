@@ -1,0 +1,346 @@
+---
+title: "Wars Are Here: Seek Good Not Evil"
+slug: "2026/2026-03-07-wars-are-here-seek-good-not-evil"
+date: "2026-03-07"
+teacher: "Captain Shem"
+description: "IUIC in the ClassRoom · 2026-03-07"
+tags: ["IUIC in the ClassRoom", "health", "nations", "sabbath", "the-law", "war"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-03-07</p>
+
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Isa 1](/bible/isaiah/1) · [2 Esdras 15](/bible/2-esdras/15) · [Amos 5](/bible/amos/5) · [Exod 15](/bible/exodus/15) · [Rev 19](/bible/revelation/19) · [Isa 14](/bible/isaiah/14) · [Amos 9](/bible/amos/9) · [Jer 50](/bible/jeremiah/50) · [Gen 7](/bible/genesis/7) · [1 Kgs 8](/bible/1-kings/8)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="CC4-qipCtzY"></div>
+
+## Introduction
+
+*[[5:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=301s)]* Wars are here, so seek good and not evil. Captain Shem walks through past times of war and destruction in the scriptures to prepare the mind for the wars that are here now and the final war to come. Iran is not the end of the story: 2 Esdras 15 gives the order of prophecy, the dragons of Arabia unite first and the Carmanians join battle with them. The Most High is a man of war who wields the wicked as his sword, declared the end from the beginning, and drowned a whole generation in the flood while preserving eight. The only response for Israel is to confess and forsake sin, keep the commandments, and endure to the end.
+
+## In The News
+
+- *[[5:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=301s)]* **The class thumbnail: Wars Are Here, Seek Good Not Evil, with evil in red.** — The tech team made it in a matter of moments. Every Israelite should feel this title in daily life, because we see war.
+- *[[12:05](https://www.youtube.com/watch?v=CC4-qipCtzY&t=725s)]* **Former Army Colonel Douglas McGregor on China and Russia backing Iran.** — China has the greatest interest in the permanent survival of the Iranian state and will keep providing intelligence, missiles, and technical support, with some Chinese pilots on the ground. Iran is not alone, and this war is not the end.
+- *[[15:36](https://www.youtube.com/watch?v=CC4-qipCtzY&t=936s)]* **A map of the Persian Gulf with Qatar circled.** — Israel, Lebanon, Syria, Jordan, Iraq, Saudi Arabia, Bahrain, Qatar, the UAE, Oman, Yemen, and Kuwait are where the bulk of the sons of Ishmael live. The peninsula was carved into small states controlled by many US military bases, and Iran is not having any of that.
+- *[[28:47](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1727s)]* **The map again, zoomed to Manama, the capital of Bahrain, directly across the Gulf from Iran.** — A major US military base sits right there. Iran has bombed some 27 US bases around the greater Middle East while the US defense budget is focused on protecting the little slab called Israel, our occupied homeland.
+- *[[31:27](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1887s)]* **A search result on the US Fifth Fleet.** — After a 48-year hiatus the Fifth Fleet was reactivated and directs operations in the Persian Gulf, Red Sea, and Arabian Sea from headquarters at NSA Bahrain in Manama. That is why Bahrain took the biggest hits.
+- *[[33:15](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1995s)]* **A commentator's footage of Bahrain citizens outside applauding as Iranian missiles hit US installations in their own country.** — The people of Bahrain celebrated because they are occupied. Their rulers are billionaires living lavishly off oil deals with the US. If it is happening in Bahrain it is happening in Qatar, Saudi Arabia, Yemen, Oman, and the UAE. Disclaimer: we are not pro-Arab or pro-Israeli, we are pro-God, because all of this is happening on account of the real Israelites.
+- *[[35:11](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2111s)]* **McGregor continued: the US has not made a dent in Iran's enormous missile arsenal.** — Mainstream outlets make it look like Iran is being decimated. Iran is being bombed heavily, but its low- and mid-grade rockets are breaching the Iron Dome and it has massive underground stockpiles built over two decades with help from China and Russia. Iran is now part of BRICS.
+- *[[37:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2221s)]* **A headline: Kissinger warns about the dangers of restoring Iran's nuclear deal.** — Henry Kissinger was saying the US should go to war with Iran over twenty years ago. They knew this day was coming, and Iran prepared by aligning with Russia and China.
+- *[[38:38](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2318s)]* **McGregor continued: some Iranian missiles have greater range than anticipated, air superiority alone has never guaranteed success in war, and a ground force is absurd.** — There are already talks of sending active-duty US infantry units. We do not have to worry about it, but we have to acknowledge that we are close to the end times.
+- *[[40:29](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2429s)]* **A definition of the GCC, the Gulf Cooperation Council.** — A political, economic, and military alliance of six Arab monarchies bordering the Persian Gulf: Saudi Arabia, the UAE, Qatar, Kuwait, Oman, and Bahrain. They are kingdoms ruled by kings and crown princes, and their monarchies report to someone.
+- *[[41:21](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2481s)]* **A map zoomed to the Strait of Hormuz.** — Look at the sheer size of Iran. It borders the whole Gulf of Oman, the whole Strait of Hormuz, and almost exactly half the shore of the Persian Gulf. All six GCC countries sit on the other side, and the only way in and out is the choke point Iran controls.
+- *[[48:02](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2882s)]* **Footage of a cluster munition breaking apart over Israel.** — A missile comes in at very high speed and breaks into a cluster of ordnance. The Iron Dome that is supposed to stop everything is not stopping this. You are not being told the whole story.
+- *[[50:37](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3037s)]* **A Chinese professor with his hand on a relief map, thumb on the Strait of Hormuz.** — Even if you know nothing about the participants or the weaponry, the map tells you how this war will progress. Iran is full of mountain ranges; Saudi Arabia and the GCC states across the gulf are arid and flat, and they depend on crossing that little strait for food and water.
+- *[[1:02:30](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3750s)]* **The professor: the strait is about 33 kilometers wide.** — That is about 20.5 miles. Iran surrounds it and controls it. If Kuwait, Iraq, and Saudi Arabia cannot get supplies through the Strait of Hormuz they will be starved, the people will want the war to stop, and the Arabs will unite.
+- *[[1:05:07](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3907s)]* **The professor: 20 percent of the world's oil flows through the strait to Asia. India gets about 60 percent of its oil from the Gulf and Japan about 70 percent.** — Japan and India are US allies, and they are going to be weakened. This is Isaiah 14, the man that weakened the nations.
+- *[[1:17:06](https://www.youtube.com/watch?v=CC4-qipCtzY&t=4626s)]* **A definition of desalination: removing salt from seawater to produce fresh water, primarily by reverse osmosis.** — Saudi Arabia and the GCC depend on desalination plants for drinking water. Iran has planned for years to hit those plants and could also hit the oil fields. Take away the water and the oil money and the sons of Ishmael rise up against the leaders who failed them.
+- *[[1:32:19](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5539s)]* **A much younger Benjamin Netanyahu addressing US diplomats.** — He guaranteed that taking out Saddam's regime would have enormous positive reverberations, named Libya as a third nation, and said he would like to see regime change in Iran. Saddam was removed and terror did not stop; Gaddafi, who gave his people free schooling and health care, was removed. The least of the flock draws Babylon out to fight its wars, and that is prophecy.
+
+## Scriptures Opened
+
+**[Romans 15:4](/bible/romans/15#v4)**  *[[5:54](https://www.youtube.com/watch?v=CC4-qipCtzY&t=354s)]*
+
+> <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
+
+- Whatsoever things were written aforetime were written for our learning. Paul, who lived long after Isaiah and after Christ, sent the reader back to Genesis, Exodus, Numbers, Deuteronomy, and Joshua. The Christian church says deal only with the New Testament, but Paul says learn from the past.
+
+- So we take a journey through past times of war and destruction to prepare our minds for what is here and the ultimate war to come. The Most High and his Son are about war.
+
+
+**[Isaiah 1:4-5](/bible/isaiah/1#v4)**  *[[7:38](https://www.youtube.com/watch?v=CC4-qipCtzY&t=458s)]*
+
+> <sup>[4](/bible/isaiah/1#v4)</sup> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
+>
+> <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
+
+- Ah sinful nation, a people laden with iniquity. Laden is like a ladle dipped in soup: we are soaked and drenched with iniquity. The sinful nation breaks God's laws.
+
+- A seed of evildoers, children that are corrupters. We call evil good and good evil, and our leaders, Christian pastors and the men in the mosques, cause us to err.
+
+- They have forsaken the Lord, provoked the Holy One of Israel unto anger. That is why we went into slavery. From 1865 to 1965 we lived under overt racism but had civility, a dress code, an order for approaching a sister. Since 1965 we gained nearly twenty million abortions and the dumbest generation of children with the smartest technology.
+
+- The whole head is sick. You are sick and I am sick. That is the whole point of the class: we have to keep getting right.
+
+  Precepts:
+  - **[2 Esdras 15:24](/bible/2-esdras/15#v24)**
+    > <sup>[24](/bible/2-esdras/15#v24)</sup> Woe to them that sin, and keep not my commandments! saith the Lord.
+
+    Woe to them that sin, and keep not my commandments. Sin is not keeping God's commandments. Put this in your arsenal beside 1 John 5:3; precept upon precept.
+  - **[Psalms 147:19-20](/bible/psalms/147#v19)**
+    > <sup>[19](/bible/psalms/147#v19)</sup> He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
+    >
+    > <sup>[20](/bible/psalms/147#v20)</sup> He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.
+
+    He sheweth his word unto Jacob, his statutes and his judgments unto Israel; he hath not dealt so with any nation. The commandments were given to the twelve tribes, and Israel is the nation that gets judged. That is why our people went into the trans-Saharan and trans-Atlantic slave trades.
+
+
+**[2 Esdras 15:28-30](/bible/2-esdras/15#v28)**  *[[13:49](https://www.youtube.com/watch?v=CC4-qipCtzY&t=829s)]*
+
+> <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
+>
+> <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
+>
+> <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
+
+- Behold an horrible vision, and the appearance thereof from the east. Today they call it the Middle East. Watch the order that has to happen: it will not be Iran taking Chinese missiles, destroying the US, and the US dropping nukes.
+
+- The nations of the dragons of Arabia are the Arabs, the sons of Ishmael. Not Game of Thrones dragons; fierce nations. Today that is Iraq, Syria, Jordan, northern Egypt, the north coast of Africa, Saudi Arabia, Yemen, Oman, the UAE, Qatar, Bahrain, and Kuwait, with some scattered in Australia, England, and the US.
+
+- They shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth. They will move together as one mind. Right now they are divided: Iraq warred with Iran and with Saudi Arabia, and Esau divided the whole region through Mossad, the CIA, money, and deceit. This war in the Middle East will be a major part of bringing the Arabs together.
+
+- That all they which hear them may fear and tremble. Nobody fears the Arabs right now. Over a hundred thousand Palestinian Arabs have been killed and not even the trillionaire crown princes can put a dome over Palestine or send relief in, because it is not time yet in prophecy.
+
+- Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come and join battle with them. The Carmanians are the Iranians. The Arabs lead the charge and Iran joins them. That is not happening yet, which is how we know this war is not Armageddon, but we are getting closer.
+
+
+**[Amos 5:18](/bible/amos/5#v18)**  *[[22:15](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1335s)]*
+
+> <sup>[18](/bible/amos/5#v18)</sup> Woe unto you that desire the day of the Lord! to what end is it for you? the day of the Lord is darkness, and not light.
+
+- Woe unto you that desire the day of the Lord. Christians say I am already saved, sanctified, and filled with the Holy Ghost, I cannot wait for that day. That goes against the prophets and Christ himself.
+
+- We had better not desire the day of the Lord, because we are not right. You may wear fringes, keep the Sabbath, put the pork down, and still battle patience, anger, a brawling spirit, an evil eye, or the weed you will not put down. Now is not the time to roll in that spirit.
+
+
+**[2 Esdras 15:28-30](/bible/2-esdras/15#v28)**  *[[44:09](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2649s)]*
+
+> <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
+>
+> <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
+>
+> <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
+
+- Second reading with the GCC in view. The nations of the dragons of Arabia include those six monarchies run by billionaires and trillionaires the people cannot stand. The bulk of the sons of Ishmael are celebrating US bases being destroyed. We do not want anyone to die; many of us served in the US military. But rich men make war and poor men fight it.
+
+- Wars are here and more are coming, so the mindset is I have to get right, not I am saved, brother. We have wicked hearts and are rehearsing the righteous acts. If you live near a school and skip the Sabbath because you do not feel like coming, or lie, or feign sick, or take a job on the Sabbath when you could have found another, you do not fear the Lord. The Sabbath and new moons are the environment where we get right.
+
+- If the Arabs had chariots, power, there would be a national Arab army driving ships to the Palestinian shore. They cannot, because it is not time. The Israelis are not worried about the Arabs at all; they are starting to worry about the Iranians.
+
+
+**[Exodus 15:1-3](/bible/exodus/15#v1)**  *[[51:30](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3090s)]*
+
+> <sup>[1](/bible/exodus/15#v1)</sup> Then sang Moses and the children of Israel this song unto the Lord, and spake, saying, I will sing unto the Lord, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
+>
+> <sup>[2](/bible/exodus/15#v2)</sup> The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
+>
+> <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
+
+- Then sang Moses and the children of Israel: the horse and his rider hath he thrown into the sea. Israel sang gloriously about the destruction of the Egyptian army that chased them. God the Father and God the Son love war; when we were in our righteousness, God fought for us and we destroyed nations.
+
+- The Lord is my strength and song, and he is become my salvation. Amid all this we get strength in the Lord. Salvation means enduring to the end keeping the commandments while the wars and rumors of wars go on. He is my God, and I will prepare him an habitation: the habitation we want is the kingdom, Isaiah 14:1-3, Revelation 13:10 and Revelation 2:26, us having power, ruling, with servants and handmaids, every wrong turned upside down. Not the pie-in-the-sky fairy tale of modern Christianity.
+
+- The Lord is a man of war. We serve a terrible God who is also merciful, and he is going to use these nations to create a final battle. I pray I make it and you make it.
+
+  Precepts:
+  - **[Proverbs 3:1-5](/bible/proverbs/3#v1)**
+    > <sup>[1](/bible/proverbs/3#v1)</sup> My son, forget not my law; but let thine heart keep my commandments:
+    >
+    > <sup>[2](/bible/proverbs/3#v2)</sup> For length of days, and long life, and peace, shall they add to thee.
+    >
+    > <sup>[3](/bible/proverbs/3#v3)</sup> Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:
+    >
+    > <sup>[4](/bible/proverbs/3#v4)</sup> So shalt thou find favour and good understanding in the sight of God and man.
+    >
+    > <sup>[5](/bible/proverbs/3#v5)</sup> Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+
+    My son, forget not my law, but let thine heart keep my commandments; the heart is the mind, and the laws are the commandments. Length of days, long life, and peace shall they add to thee: despite wars and mayhem, you want peace, do what he said. Trust in the Lord with all thine heart and lean not unto thine own understanding: trust that the prophecies go in order, Iran will not bring in World War III but will help unite the Arabs. The understanding is not I am already saved; it is he that endureth to the end shall be saved, and he shall direct thy paths.
+
+
+**[Revelation 19:12-13](/bible/revelation/19#v12)**  *[[57:28](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3448s)]*
+
+> <sup>[12](/bible/revelation/19#v12)</sup> His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
+>
+> <sup>[13](/bible/revelation/19#v13)</sup> And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
+
+- His eyes were as a flame of fire, on his head were many crowns, and he had a name written that no man knew but he himself. So do not trip over YHWH, Yahawashi, or Jesus; call him what you call him, but keep the commandments.
+
+- He was clothed with a vesture dipped in blood, and his name is called the Word of God. Christ is about righteous destruction, as Isaiah 63 shows. When he comes back he is not meeting them as a man.
+
+  Precepts:
+  - **[Revelation 1:1](/bible/revelation/1#v1)**
+    > <sup>[1](/bible/revelation/1#v1)</sup> The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
+
+    The Revelation of Jesus Christ. This proves who chapter 19 is describing.
+  - **[Revelation 1:14-15](/bible/revelation/1#v14)**
+    > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
+    >
+    > <sup>[15](/bible/revelation/1#v15)</sup> And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
+
+    His head and his hairs were white like wool, his eyes as a flame of fire, and his feet like unto fine brass as if they burned in a furnace. Jesus Christ was a black man; the Bible, archaeology, and history all say it, and everyone knows it except dumb Americans, and I was one. Christ is coming back to make war.
+
+
+**[Isaiah 14:4,16-17](/bible/isaiah/14#v4)**  *[[1:05:07](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3907s)]*
+
+> <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
+>
+> <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
+>
+> <sup>[17](/bible/isaiah/14#v17)</sup> That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?
+
+- Take up this proverb against the king of Babylon. The United States is the daughter of Babylon, Psalms 137, and Isaiah is speaking prophetically of Babylon the Great that John wrote about long after ancient Babylon fell. How hath the oppressor ceased, the golden city ceased: allies like India and Japan are still oppressed by the US, and people die crossing Central America to reach the golden city where they think money grows on trees. The Lord hath broken the staff of the wicked.
+
+- They that see thee shall narrowly look upon thee: everyone sees the US and says, I see you, that used to be you. Is this the man that made the earth to tremble, that did shake kingdoms? Not Arabs or black men; the so-called white man of the United States. The real power began with the atomic bombs on Hiroshima and Nagasaki in 1945, decimating hundreds of thousands, and that was written.
+
+- That made the world as a wilderness and destroyed the cities thereof, and weakened the nations. He is weakening his own allies, talking of embargoing Spain, a NATO member, while 845 bases and sanctions on every country that disagreed with him made the earth tremble. He destroys spiritually too: Christmas in Kuwait, strip clubs in countries that never had them, while the Arab and Iranian women are happy with their own culture.
+
+- God is hardening the hearts of the neocons and Donald Trump's circle to do exactly what he wants, as he did with Pharaoh. AIPAC funds both parties and Candace Owens and Tucker Carlson see it but cannot stop it. How could a country not even as big as Jordan control the world's largest military? Because God is a master and the least of the flock had to draw them out.
+
+  Precepts:
+  - **[Revelation 17:5](/bible/revelation/17#v5)**
+    > <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+
+    Upon her forehead was a name written, Mystery Babylon the Great, the mother of harlots. It is similitude, not a literal brothel. Everybody but our own people can see this is the United States of America, not Iraq. John, who lived under Rome, was not writing about ancient Babylon.
+
+
+**[Amos 9:4-5](/bible/amos/9#v4)**  *[[1:19:40](https://www.youtube.com/watch?v=CC4-qipCtzY&t=4780s)]*
+
+> <sup>[4](/bible/amos/9#v4)</sup> And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.
+>
+> <sup>[5](/bible/amos/9#v5)</sup> And the Lord God of hosts is he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as by the flood of Egypt.
+
+- Though they go into captivity before their enemies, thence will I command the sword, and it shall slay them. Israel went captivity after captivity, and God allowed every bit of it. The Iranians do not get a pass; they had us in captivity too, as did the princes of Ishmael and Amalek. Slavery is still happening in parts of Africa right now, and it is not black Americans running it.
+
+- I will set mine eyes upon them for evil, and not for good. That is Israel, because we did not keep the commandments. Put the thumbnail back up: this is the point. Wars are here, seek good and not evil.
+
+- The Lord God of hosts is he that toucheth the land, and it shall melt, and all that dwell therein shall mourn. When Iran and Israel are touched right now, the Lord is involved by his counsel. Amos lived long before anything could melt the earth; today thermonuclear ICBMs can, and Iran is destroying parts of the Middle East with ordinary ballistic missiles.
+
+- They send drones that cost fifteen to twenty thousand dollars and the other side fires interceptors that cost a million or more to knock them down. You see how they will not be able to keep up, and how God put all this in these leaders.
+
+  Precepts:
+  - **[Psalms 17:13](/bible/psalms/17#v13)**
+    > <sup>[13](/bible/psalms/17#v13)</sup> Arise, O Lord, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:
+
+    Arise, O Lord, disappoint him, cast him down; deliver my soul from the wicked, which is thy sword. God wields the wicked as his sword, and the wicked today is the United States. We do not bug out over what we see; we understand why it is happening and what we have to do.
+  - **[Isaiah 46:10](/bible/isaiah/46#v10)**
+    > <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
+
+    Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure. This is our power: the Most High planned every war, including the third world war, from the time of Adam. He is behind the Israelis in the US government and behind Iran's twenty years of tunnels and munitions. Chattel slavery, Jim Crow, and civil rights were his pleasure too; we had to learn the lesson.
+
+
+**[Jeremiah 50:44-46](/bible/jeremiah/50#v44)**  *[[1:26:21](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5181s)]*
+
+> <sup>[44](/bible/jeremiah/50#v44)</sup> Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
+>
+> <sup>[45](/bible/jeremiah/50#v45)</sup> Therefore hear ye the counsel of the Lord, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them.
+>
+> <sup>[46](/bible/jeremiah/50#v46)</sup> At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
+
+- Hear ye the counsel of the Lord that he hath taken against Babylon, and his purposes against the land of the Chaldeans. The counsel that stands, Isaiah 46:10, is against the same Babylon the Great John saw, not the Babylon of Jeremiah's day.
+
+- Surely the least of the flock shall draw them out. Babylon the Great today is Esau: Germany and the United States are part of the flock, and Israel is the least of it. Netanyahu has been naming the countries the US should fight since the nineties, and that is how twenty-seven bases ended up across the Persian Gulf.
+
+- Surely he shall make their habitation desolate with them: both of them are going to be destroyed. At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations. The noise is the missiles. Nobody in ancient Babylon could move the earth with a rock in a sling; today they possess weapons that move the earth.
+
+- Netanyahu is not being comical about Venezuela and Greenland; the least of the flock is literally drawing the US out to do its bidding, and that is the counsel of the Lord. Pharaoh's men surely told him to let Israel go in peace after the plagues, and the order at the Red Sea was still charge on. Donald Trump is not led by himself.
+
+
+**[Genesis 7:1-23](/bible/genesis/7#v1)**  *[[1:36:39](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5799s)]*
+
+> <sup>[1](/bible/genesis/7#v1)</sup> And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
+>
+> <sup>[2](/bible/genesis/7#v2)</sup> Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.
+>
+> <sup>[3](/bible/genesis/7#v3)</sup> Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
+>
+> <sup>[4](/bible/genesis/7#v4)</sup> For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.
+>
+> <sup>[5](/bible/genesis/7#v5)</sup> And Noah did according unto all that the Lord commanded him.
+>
+> <sup>[6](/bible/genesis/7#v6)</sup> And Noah was six hundred years old when the flood of waters was upon the earth.
+>
+> <sup>[7](/bible/genesis/7#v7)</sup> And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.
+>
+> <sup>[8](/bible/genesis/7#v8)</sup> Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,
+>
+> <sup>[9](/bible/genesis/7#v9)</sup> There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.
+>
+> <sup>[10](/bible/genesis/7#v10)</sup> And it came to pass after seven days, that the waters of the flood were upon the earth.
+>
+> <sup>[11](/bible/genesis/7#v11)</sup> In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.
+>
+> <sup>[12](/bible/genesis/7#v12)</sup> And the rain was upon the earth forty days and forty nights.
+>
+> <sup>[13](/bible/genesis/7#v13)</sup> In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;
+>
+> <sup>[14](/bible/genesis/7#v14)</sup> They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.
+>
+> <sup>[15](/bible/genesis/7#v15)</sup> And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.
+>
+> <sup>[16](/bible/genesis/7#v16)</sup> And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in.
+>
+> <sup>[17](/bible/genesis/7#v17)</sup> And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.
+>
+> <sup>[18](/bible/genesis/7#v18)</sup> And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.
+>
+> <sup>[19](/bible/genesis/7#v19)</sup> And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered.
+>
+> <sup>[20](/bible/genesis/7#v20)</sup> Fifteen cubits upward did the waters prevail; and the mountains were covered.
+>
+> <sup>[21](/bible/genesis/7#v21)</sup> And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:
+>
+> <sup>[22](/bible/genesis/7#v22)</sup> All in whose nostrils was the breath of life, of all that was in the dry land, died.
+>
+> <sup>[23](/bible/genesis/7#v23)</sup> And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark.
+
+- Look at the mind of God for destruction. If over a hundred thousand Palestinians and more than a thousand Iranians dead sounds bad, revisit the flood, where there were no righteous except the ones on the ark. The Lord said unto Noah, come thou and all thy house into the ark, for thee have I seen righteous before me in this generation: he got the orders on how to build it and did it faithfully.
+
+- Of every clean beast thou shalt take to thee by sevens, the male and his female, and of beasts that are not clean by two. Christianity pushes two by two because printing seven by seven would make people question and start reading the Bible.
+
+- The flood was forty days upon the earth, the waters increased and bare up the ark, and the waters prevailed. Prevail means to win: God's counsel won, his plan of destroying everything won. Picture the ark rising on ten or twenty feet of water while people who had never seen rain start floating and screaming.
+
+- All the high hills under the whole heaven were covered, fifteen cubits upward, and the mountains were covered, above the foothills and above Everest and Kilimanjaro. Noah and his family saw that destruction. A thermonuclear war is coming on another level, Psalms 91, a thousand at thy side and ten thousand at thy right hand.
+
+- All flesh died that moved upon the earth, fowl, cattle, beast, every creeping thing, and every man in whose nostrils was the breath of life, and every living substance was destroyed. Why would God kill innocent animals? I do not know and I do not care; he has a reason for all destruction. We do not have to worry about why these wars are going. God set it up, so keep the commandments and he will deliver us. A lot more than eight will make it this time, but very few, so do not be surprised when your family will not listen at camp.
+
+  Precepts:
+  - **[2 Peter 2:5](/bible/2-peter/2#v5)**
+    > <sup>[5](/bible/2-peter/2#v5)</sup> And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
+
+    God spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly. Noah was righteous because he preached and kept the commandments. He was the eighth person because a true captain put his wife, his sons, and their wives on first and got on last. Men of God have to be strong; we come to the Sabbath because we are sick, surrounded by the world all week.
+
+
+**[1 Kings 8:47-48](/bible/1-kings/8#v47)**  *[[1:49:24](https://www.youtube.com/watch?v=CC4-qipCtzY&t=6564s)]*
+
+> <sup>[47](/bible/1-kings/8#v47)</sup> Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
+>
+> <sup>[48](/bible/1-kings/8#v48)</sup> And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:
+
+- Slavery, Jim Crow, water hoses and German shepherds on our brothers at the diner, little black girls and boys spit on at integrated schools into the seventies: none of it was good, but it was a just thing with God. Yet if they shall bethink themselves in the land whither they were carried captives: bethink means remember again.
+
+- Our people were carried captive all over the earth, which is why bishops, deacons, and captains go to the Solomon Islands, India, and Russia. We cannot get bogged down in politics and worry about wars; we are reading about the flood, warfare to the greatest ability.
+
+- And repent, and make supplication unto thee, saying, We have sinned, and have done perversely, we have committed wickedness. The Christian church does not teach black, Latino, or Native American people to repent, because repenting requires learning God's laws; instead it says Jesus did away with sin while homosexuality, infidelity, and remarriage fill the church. Even in the congregation we still battle, which is why you need the Sabbath, the new moon, and brothers and sisters who correct you.
+
+- And so return unto thee with all their heart and with all their soul in the land of their enemies. You have enemies in the lands you were taken to.
+
+
+## Class Questions
+
+- **What is sin, and who was given the commandments?** Woe to them that sin and keep not my commandments, 2 Esdras 15:24. He showed his word unto Jacob and his statutes unto Israel and hath not dealt so with any nation, Psalms 147:19-20.
+- **According to 2 Esdras 15:28-30, what is the order of the war to come?** The nations of the dragons of Arabia, the sons of Ishmael, come out first with many chariots, moving together as the wind so that all who hear them fear and tremble. Then the Carmanians, the Iranians, go forth as wild boars and join battle with them. The Arabs lead and Iran joins, so the present war is not the end.
+- **Why should Israel not desire the day of the Lord?** Woe unto you that desire the day of the Lord, Amos 5:18. The whole head is sick, Isaiah 1:4-5; we are a sinful nation laden with iniquity and have to keep getting right rather than claiming to be saved already.
+- **What did Israel sing after the Red Sea, and what does it show about God?** The horse and his rider hath he thrown into the sea; the Lord is my strength and song, he is become my salvation; the Lord is a man of war, Exodus 15:1-3. God the Father and his Son are about war and fought for Israel in righteousness.
+- **How does the class prove Revelation 19:12-13 is Christ, and what does he look like?** The Revelation of Jesus Christ, Revelation 1:1; his hairs white like wool, eyes as a flame of fire, feet like fine brass burned in a furnace, Revelation 1:14-15. He comes clothed in a vesture dipped in blood to make war.
+- **Who is the man that made the earth to tremble and weakened the nations?** The king of Babylon in Isaiah 14:4,16-17 is Babylon the Great, the United States, Revelation 17:5 and Psalms 137. Its power began with the atomic bombs of 1945, and now it is weakening even its allies.
+- **Who is God's sword in Psalms 17:13 and Amos 9:4?** The wicked, which is thy sword. God commands the sword against captive Israel because we did not keep the commandments, and today he wields the United States and these wars.
+- **What does Isaiah 46:10 give the Israelite?** Declaring the end from the beginning, my counsel shall stand, I will do all my pleasure. Every war including the third world war was planned from ancient times, so the Israelite does not have to worry, only rehearse the righteous acts.
+- **Who is the least of the flock in Jeremiah 50:45?** Israel, the smallest of Esau's flock, which draws the United States out into the Middle East. Both habitations are made desolate at the noise of the taking of Babylon.
+- **How many of each animal went into the ark, and why was Noah the eighth person?** Clean beasts by sevens and unclean by two, Genesis 7:2, not two by two as Christianity teaches. Noah the eighth person, a preacher of righteousness, 2 Peter 2:5, put his family on first and boarded last.
+- **What must Israel do in the land of its enemies?** Bethink themselves, repent, make supplication, and say we have sinned and done perversely, returning with all their heart and soul, 1 Kings 8:47-48.
+- **How does the class close on mercy?** He that covereth his sins shall not prosper, but whoso confesseth and forsaketh them shall have mercy; happy is the man that feareth alway, but he that hardeneth his heart shall fall into mischief, Proverbs 28:13-14.
+
+## In Closing
+
+*[[1:53:16](https://www.youtube.com/watch?v=CC4-qipCtzY&t=6796s)]* Everybody wants mercy while the wars go on, girls' schools and volleyball teams blown up, ballistic missiles detonating, and hypersonic missiles coming that cannot be shot down. God is bringing in war and it will get worse in the days, weeks, months, and years to come. That is more reason to repent. Proverbs 28:13-14: he that covereth his sins shall not prosper, but whoso confesseth and forsaketh them shall have mercy. That is the mercy: confess, forsake, and use the dispensation of time we are given, because every one of us is sick. Happy is the man that feareth alway; that fear brings the peace of Proverbs 3. But he that hardeneth his heart shall fall into mischief, which leads to destruction. Repent, and stand up in these last days.
+
+## Announcements & References
+
+- Content from Thursday night's class was carried over, including the McGregor timestamps that were not reached then.
+- Up next in the lineup: the Almighty Deacons and Almighty Bishops bring the word of God.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=CC4-qipCtzY)

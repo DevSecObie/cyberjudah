@@ -1,0 +1,400 @@
+---
+title: "Restoring the Broken Minds of the Daughters of Zion"
+slug: "2026/2026-09-26-restoring-the-broken-minds-of-the-daughters-of-zion"
+date: "2026-09-26"
+teacher: "Deacon Malachiyah"
+description: "IUIC in the ClassRoom · 2026-09-26"
+tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-health", "women"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-09-26</p>
+
+<span class="opens"><b>Opens</b> [Ezek 33](/bible/ezekiel/33) · [Hos 4](/bible/hosea/4) · [Isa 29](/bible/isaiah/29) · [Isa 30](/bible/isaiah/30) · [Deut 33](/bible/deuteronomy/33) · [Rom 12](/bible/romans/12) · [1 Tim 2](/bible/1-timothy/2) · [1 Tim 5](/bible/1-timothy/5) · [Gen 3](/bible/genesis/3) · [Gen 35](/bible/genesis/35) · [Gen 30](/bible/genesis/30) · [Matt 12](/bible/matthew/12) · [Prov 4](/bible/proverbs/4) · [Prov 23](/bible/proverbs/23) · [Sir 30](/bible/sirach/30) · [Prov 17](/bible/proverbs/17) · <i>and 14 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="yRPiKi_Q6LU"></div>
+
+## Introduction
+
+*[[8:50](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=530s)]* The second part of last week's class on the decayed state of the liberal woman: the sisters' minds are broken, as the brothers' are, by everything Babylon taught us, and they have to be restored. Postpartum is in the Bible, the depression Esau attached to it is a weapon and a business, and the answer is to keep the heart, to marry and bear children and guide the house, for the husband to cheer up his wife, and for the nation to build the support around a sister that the word of God, which heals all things, requires.
+
+## In The News
+
+- *[[10:23](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=623s)]* **Wisdom of the week: the bull, the dog, the pig and the owner** — Information distortion: by the time a word passes through four or five people it is something else; ask the person before you judge, because last week's lesson came back to him as something he never said.
+- *[[19:13](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1153s)]* **The thumbnail film for the class** — The serpent still speaks to the daughters of Zion through the screen, the music and the movement: you do not need a man, a home or the laws of God; and the fruit is homes divided and fathers pushed out. What is broken can be restored.
+- *[[27:02](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1622s)]* **A woman's commentary on the end of the Lindsay Clancy trial** — She was never diagnosed with postpartum depression or psychosis; a mother who wanted out of the life of a mother killed her children, TikTok rallied a crowd to get her off, and it took a man to say not today. Any sister among us who sympathises with her has the liberal mind the class is about.
+- *[[32:41](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1961s)]* **A mother filming the day she gives her seven-year-old up for adoption** — She feels nothing, is buying an RV and calls herself a free woman: that is the state of mind some sisters carry in with them.
+- *[[49:56](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2996s)]* **The eugenics tree and the Willie Lynch letter, brought by Captain Yahn** — The eugenics congresses of 1912 to 1932 in New York studied race crossing and how to control our people; the letter says to test the female in every way because she is the most important factor for good economics; postpartum depression did not exist in Jamaica or Haiti, and the point of last week was to see how deep Esau went so the sisters would believe him over the Bible.
+
+## Scriptures Opened
+
+**[Ezekiel 33:30-33](/bible/ezekiel/33#v30)**  *[[22:28](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1348s)]*
+
+> <sup>[30](/bible/ezekiel/33#v30)</sup> Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the Lord.
+>
+> <sup>[31](/bible/ezekiel/33#v31)</sup> And they come unto thee as the people cometh, and they sit before thee as my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, but their heart goeth after their covetousness.
+>
+> <sup>[32](/bible/ezekiel/33#v32)</sup> And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
+>
+> <sup>[33](/bible/ezekiel/33#v33)</sup> And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
+
+- To many of you we are a very lovely song: you log on every Sabbath because you like hearing the deacons and bishops play well on the instrument, which is the Bible.
+
+- They hear thy words but they do them not: you do not want to do what is taught, because everything you were taught in Babylon is wrong and the way our people think is wrong.
+
+- When it comes to pass you will know a prophet was among you; the bishops and deacons are prophets, and when what they said comes to pass you will remember it.
+
+
+**[Hosea 4:6-8](/bible/hosea/4#v6)**  *[[35:08](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2108s)]*
+
+> <sup>[6](/bible/hosea/4#v6)</sup> My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.
+>
+> <sup>[7](/bible/hosea/4#v7)</sup> As they were increased, so they sinned against me: therefore will I change their glory into shame.
+>
+> <sup>[8](/bible/hosea/4#v8)</sup> They eat up the sin of my people, and they set their heart on their iniquity.
+
+- My people are destroyed for lack of knowledge: we are a destroyed people, and even in childbirth there is much we do not know; the sisters are destroyed and their husbands are destroyed too.
+
+- Having forgotten the law, God forgets the children and changes their glory into shame.
+
+- They set their heart on their iniquity: the heart is the mind, and it means you hear the scriptures and do not want to change; the same people then and now.
+
+
+**[Isaiah 29:13,16](/bible/isaiah/29#v13)**  *[[37:43](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2263s)]*
+
+> <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
+>
+> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
+
+- Our people draw near with the mouth and honour him with the lips, but the heart is far from him: you hear every Sabbath online and do nothing.
+
+- Their fear toward me is taught by the precept of men: which man taught you? The white man, in education, medicine, psychology, history, statistics, economics; everything we know was taught by the oppressor, and none of it for our benefit.
+
+- Your turning of things upside down shall be esteemed as the potter's clay: the Lord will turn it back the way it should be, and he does it through the men he sent to restore the sisters' broken minds.
+
+
+**[Isaiah 30:8-13](/bible/isaiah/30#v8)**  *[[42:59](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2579s)]*
+
+> <sup>[8](/bible/isaiah/30#v8)</sup> Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
+>
+> <sup>[9](/bible/isaiah/30#v9)</sup> That this is a rebellious people, lying children, children that will not hear the law of the Lord:
+>
+> <sup>[10](/bible/isaiah/30#v10)</sup> Which say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy deceits:
+>
+> <sup>[11](/bible/isaiah/30#v11)</sup> Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.
+>
+> <sup>[12](/bible/isaiah/30#v12)</sup> Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:
+>
+> <sup>[13](/bible/isaiah/30#v13)</sup> Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.
+
+- Write it in a book for ever: this is a rebellious people, lying children that will not hear the law of the Lord; it is not the deacon you are angry at, it is the Lord.
+
+- They say to the seers, see not, and to the prophets, prophesy not right things, speak smooth things: the right thing is that you have to change your mind, and you will not get smooth things from the seers, because that would be a disservice.
+
+- When the scripture cuts you, examine yourself and fix it instead of turning the seer into your enemy.
+
+- Because they despise this word and trust in oppression, everything the white man taught, and want to stay there, this iniquity shall be as a breach ready to fall.
+
+
+**[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[[47:13](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2833s)]*
+
+> <sup>[29](/bible/deuteronomy/33#v29)</sup> Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
+
+- Thine enemies shall be found liars unto thee: everything that was taught to us was lies, meant to destroy us, and you cannot pick some of it to hold on to.
+
+
+**[Romans 12:2](/bible/romans/12#v2)**  *[[48:06](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2886s)]*
+
+> <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+
+- Be transformed by the renewing of your mind: acknowledge that everything you were taught was a lie and be taught again like a little child; this truth is about change.
+
+- The world tells the woman to finish college, build a career, freeze her eggs and have children at forty, or that childbirth is too dangerous to risk; be mindful what you let enter you, because it defiles you.
+
+
+**[1 Timothy 2:15](/bible/1-timothy/2#v15)**  *[[55:55](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=3355s)]*
+
+> <sup>[15](/bible/1-timothy/2#v15)</sup> Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
+
+- She shall be saved in childbearing, if she continues in faith and charity and holiness with sobriety: not just having babies, but the whole of what God requires of a woman, which the liberal woman will never tell you.
+
+
+**[1 Timothy 5:14](/bible/1-timothy/5#v14)**  *[[57:42](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=3462s)]*
+
+> <sup>[14](/bible/1-timothy/5#v14)</sup> I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
+
+- The younger women marry, bear children and guide the house: that is what saved in childbearing goes into, being a good wife, having children and not hating them, keeping the house, the cooking and the cleaning.
+
+- Give none occasion to the adversary to speak reproachfully: the sisters are supposed to be a light to the world, not a voice for a woman who murdered her children.
+
+
+**[Genesis 3:16](/bible/genesis/3#v16)**  *[[1:00:26](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=3626s)]*
+
+> <sup>[16](/bible/genesis/3#v16)</sup> Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.
+
+- I will greatly multiply thy sorrow and thy conception: the sorrow starts at thirteen or fourteen with the cycle, runs through morning sickness and the birth, and continues after it; it is the judgment for what Eve did, and many follow in her footsteps today.
+
+- Thy desire shall be to thy husband and he shall rule over thee: respect and honour your husband and have children, and that is being saved in childbearing.
+
+
+**[Genesis 35:16-18](/bible/genesis/35#v16)**  *[[1:03:09](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=3789s)]*
+
+> <sup>[16](/bible/genesis/35#v16)</sup> And they journeyed from Beth–el; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.
+>
+> <sup>[17](/bible/genesis/35#v17)</sup> And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.
+>
+> <sup>[18](/bible/genesis/35#v18)</sup> And it came to pass, as her soul was in departing, (for she died) that she called his name Ben–oni: but his father called him Benjamin.
+
+- Rachel travailed, had hard labour, and died: the seriousness of birth is understood; his own wife's four pregnancies were high risk, the doctors pressed for an abortion of the last child over an abnormality, and the answer was to trust the Lord.
+
+- She named him Ben-oni, son of my sorrow, with her last breath, and Jacob called him Benjamin, son of the right hand: he did not let her dying emotion name his son.
+
+
+**[Genesis 30:1-3](/bible/genesis/30#v1)**  *[[1:10:10](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4210s)]*
+
+> <sup>[1](/bible/genesis/30#v1)</sup> And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
+>
+> <sup>[2](/bible/genesis/30#v2)</sup> And Jacob’s anger was kindled against Rachel: and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb?
+>
+> <sup>[3](/bible/genesis/30#v3)</sup> And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
+
+- Rachel was favoured and beautiful, and beautiful women have issues and use their beauty to control brothers; she envied her sister and was depressed because she had no children.
+
+- Give me children or else I die was a manipulation of her husband, and a demon: she called it on herself, and when God gave her the second child she died.
+
+- Jacob's anger was kindled: am I in God's stead? God shut your womb, not me.
+
+
+**[Matthew 12:37](/bible/matthew/12#v37)**  *[[1:13:03](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4383s)]*
+
+> <sup>[37](/bible/matthew/12#v37)</sup> For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
+
+- By thy words thou shalt be condemned: you can call judgment on yourself, so be careful what you say and what you call to yourself, including the word depression.
+
+
+**[Proverbs 4:20-24](/bible/proverbs/4#v20)**  *[[1:15:58](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4558s)]*
+
+> <sup>[20](/bible/proverbs/4#v20)</sup> My son, attend to my words; incline thine ear unto my sayings.
+>
+> <sup>[21](/bible/proverbs/4#v21)</sup> Let them not depart from thine eyes; keep them in the midst of thine heart.
+>
+> <sup>[22](/bible/proverbs/4#v22)</sup> For they are life unto those that find them, and health to all their flesh.
+>
+> <sup>[23](/bible/proverbs/4#v23)</sup> Keep thy heart with all diligence; for out of it are the issues of life.
+>
+> <sup>[24](/bible/proverbs/4#v24)</sup> Put away from thee a froward mouth, and perverse lips put far from thee.
+
+- Keep the words in the midst of thine heart, for they are life and health to all your flesh.
+
+- Keep thy heart with all diligence: your heart is your mind, and when the thought comes that you hate yourself, your husband or your kids, shake it off; out of the heart are the issues of life.
+
+- Put away a froward mouth: Rachel had a froward mouth and God answered her.
+
+
+**[Proverbs 23:7](/bible/proverbs/23#v7)**  *[[1:18:42](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4722s)]*
+
+> <sup>[7](/bible/proverbs/23#v7)</sup> For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
+
+- As he thinketh in his heart, so is he: dwell on anger, envy or depression and it manifests; Esau understands it, which is why the music pushes what it pushes.
+
+- Keep saying you are depressed and you become depressed; when the thought comes, do not entertain it. When his wife said she felt depressed he told her it was the devil, went through the scriptures with her and told her to find something to do.
+
+- Esau added the word depression to postpartum for psychological warfare and to sell medication; the difficulties after birth are real, but a husband cannot let his wife use them as an excuse to be evil in the house, and it is his job to guard her mind.
+
+
+**[Sirach 30:21-24](/bible/sirach/30#v21)**  *[[1:23:32](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5012s)]*
+
+> <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
+>
+> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
+>
+> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
+>
+> <sup>[24](/bible/sirach/30#v24)</sup> Envy and wrath shorten the life, and carefulness bringeth age before the time.
+
+- Give not over thy mind to heaviness: life is hard and the spirit tries to jump on everyone, but you cannot allow depression to rise up on you, and a depressed person around you spreads it.
+
+- Afflict not thyself in thine own counsel: sisters give birth and then afflict themselves in their own thoughts, and the brothers have to spot it and help.
+
+- The gladness of the heart is the life of a man and joyfulness prolongs his days: that is your medicine; love thine own soul and comfort thy heart, and brothers, comfort hers.
+
+- Remove sorrow far from thee, for sorrow hath killed many and there is no profit in it; Esau's profit is the sorrowful medication, big business built on telling the black woman she is depressed.
+
+- The list called postpartum depression is what women naturally deal with after birth, except two lines Esau put in: wanting to kill yourself or your baby. Only a mind with heavy illness thinks that, and it is rare; the women you hear saying it are women who hate their kids.
+
+
+**[Proverbs 17:22](/bible/proverbs/17#v22)**  *[[1:30:39](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5439s)]*
+
+> <sup>[22](/bible/proverbs/17#v22)</sup> A merry heart doeth good like a medicine: but a broken spirit drieth the bones.
+
+- A merry heart doeth good like a medicine; a broken spirit dries the bones and makes you sick, even to mental illness.
+
+
+**[Nehemiah 8:10](/bible/nehemiah/8#v10)**  *[[1:30:39](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5439s)]*
+
+> <sup>[10](/bible/nehemiah/8#v10)</sup> Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength.
+
+- The joy of the Lord is your strength: if you are always depressed you have no joy in the Lord; find joy, find something you love doing, and do not sit in the house saying woe is me.
+
+
+**[Proverbs 29:18](/bible/proverbs/29#v18)**  *[[1:37:19](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5839s)]*
+
+> <sup>[18](/bible/proverbs/29#v18)</sup> Where there is no vision, the people perish: but he that keepeth the law, happy is he.
+
+- Where there is no vision the people perish: this congregation has vision, and the programs exist. Hope and Healing is for those with mental illness, with licensed psychiatrists who fold the scriptures into what they learned, so no sister has an excuse.
+
+- Birth of a Nation is the other: a sister gave birth in Jersey this week with only her husband there, who knows no medical terms; when a sister goes into labour there should be midwives, doulas and a support system, and afterward sisters cooking and bringing food.
+
+- Young sisters, learn herbs, learn Esau's medicine, learn to deliver children; terrible times are coming and you will bring forth the young prophets. Instead of hating the seer, set these things up and take them to another level.
+
+
+**[Psalms 50:21](/bible/psalms/50#v21)**  *[[1:38:21](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5901s)]*
+
+> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+
+- I will reprove thee and set them in order: Esau is being reproved now, and the vision is to set our people in order.
+
+- Order is the household, men, woman, children, and it is also our own schools, our own doctors and medical teams, like the Black Panthers' clinics; the East Coast support system for sisters has to be much stronger, and love your neighbour as yourself makes it real.
+
+
+**[Deuteronomy 24:5](/bible/deuteronomy/24#v5)**  *[[1:42:42](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=6162s)]*
+
+> <sup>[5](/bible/deuteronomy/24#v5)</sup> When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he hath taken.
+
+- A man with a new wife shall not go to war nor be charged with business, but be free at home one year and cheer up his wife: your wife is depressed because you do not cheer her up.
+
+- Cheering her up begins with giving her a baby and the act of it, and it continues through the pregnancy and the difficulties after: after the eighty days of the second child he left the kids with Deacon Malachi's household and took his wife to the Poconos.
+
+- Take her out from time to time; help as much as you can, because the grandmother and the sisters who used to surround a new mother are not there and it is often the two of you alone; that stretch is a strain on her.
+
+
+**[Genesis 26:8](/bible/genesis/26#v8)**  *[[1:48:25](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=6505s)]*
+
+> <sup>[8](/bible/genesis/26#v8)</sup> And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife.
+
+- Isaac was sporting with Rebekah, and the king could tell she was no sister: sporting is to laugh, play, caress and revel; walk with her hand in hand, put your arm around her, show her off. It is all right to hold your wife's hand.
+
+- When she asks if she is fat after the birth, the answer is not yes; you are the one she trusts, and your word is what cheers her.
+
+
+**[Colossians 3:19](/bible/colossians/3#v19)**  *[[1:52:23](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=6743s)]*
+
+> <sup>[19](/bible/colossians/3#v19)</sup> Husbands, love your wives, and be not bitter against them.
+
+- Husbands, love your wives and be not bitter against them: after a birth the intimacy diminishes, the baby cries every time, she asks for time before the next pregnancy, and a brother can turn bitter.
+
+- A womb needs time to heal, and what you work out between you is between you; kids change a marriage, and it is now about growth. These are the difficulties the brothers have to navigate and overcome.
+
+
+**[Ecclesiastes 9:9](/bible/ecclesiastes/9#v9)**  *[[1:55:13](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=6913s)]*
+
+> <sup>[9](/bible/ecclesiastes/9#v9)</sup> Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.
+
+- Live joyfully with the wife whom thou lovest all the days of thy vanity: do not neglect her after the birth; make sure she gets the right food and is not in the house alone all the time, and have someone watch the children now and then, or she is overwhelmed and that brings on depression.
+
+- She was eight and a half months pregnant on a ladder painting the kitchen, he shouted, she cried; the hormones and the emotion are real, and the man has to be patient and apologise, but a sister cannot use her hormones to be evil or disrespectful.
+
+
+**[Deuteronomy 28:28-29](/bible/deuteronomy/28#v28)**  *[[2:01:40](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=7300s)]*
+
+> <sup>[28](/bible/deuteronomy/28#v28)</sup> The Lord shall smite thee with madness, and blindness, and astonishment of heart:
+>
+> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
+
+- The Lord shall smite thee with madness, and blindness, and astonishment of heart: a deep, paralysing confusion of the mind, like Nebuchadnezzar; that is the curse, and bipolar and schizophrenia are a broken mind under it.
+
+- Worry and the things you call on yourself bring on that sickness; some among us genuinely have anxiety disorders, bipolar and schizophrenia, and the class turns to them.
+
+
+**[Matthew 4:24](/bible/matthew/4#v24)**  *[[2:04:24](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=7464s)]*
+
+> <sup>[24](/bible/matthew/4#v24)</sup> And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+
+- They brought to Christ the sick, those possessed with devils, the lunatic and those with the palsy: what Esau calls mental illness today, the Bible calls devils and unclean spirits.
+
+
+**[Matthew 17:14-21](/bible/matthew/17#v14)**  *[[2:05:20](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=7520s)]*
+
+> <sup>[14](/bible/matthew/17#v14)</sup> And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,
+>
+> <sup>[15](/bible/matthew/17#v15)</sup> Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water.
+>
+> <sup>[16](/bible/matthew/17#v16)</sup> And I brought him to thy disciples, and they could not cure him.
+>
+> <sup>[17](/bible/matthew/17#v17)</sup> Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.
+>
+> <sup>[18](/bible/matthew/17#v18)</sup> And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.
+>
+> <sup>[19](/bible/matthew/17#v19)</sup> Then came the disciples to Jesus apart, and said, Why could not we cast him out?
+>
+> <sup>[20](/bible/matthew/17#v20)</sup> And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
+>
+> <sup>[21](/bible/matthew/17#v21)</sup> Howbeit this kind goeth not out but by prayer and fasting.
+
+- The lunatic son fell often into the fire and into the water, trying to kill himself: lunatic translates a word meaning moonstruck, a sickness of the mind, and the spirit behind wanting to kill yourself or your baby is a devil.
+
+- Jesus rebuked the devil and the child was cured from that hour; the disciples could not, because of their unbelief at that stage, though later Peter's shadow healed people.
+
+- This kind goeth not out but by prayer and fasting: there are levels to demons, and the one that controls your mind and thoughts, like the spirit on Sarah in Tobit that killed her husbands without her knowing, is high level; why call it to yourself?
+
+- Prayer and fasting build the spiritual power of the Holy Spirit in you; when his spirit feels drained he fasts. His son had seizures at seven, he threw out the medication, fasted and prayed, and there was never another; that is his faith, not an instruction.
+
+- Do not get off your medication if your faith is not there; men will rise up among us whom God will use to heal the sick, the autistic and those who lost their minds, and it will shock many.
+
+
+**[Luke 4:18](/bible/luke/4#v18)**  *[[2:21:35](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=8495s)]*
+
+> <sup>[18](/bible/luke/4#v18)</sup> The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
+
+- Christ was anointed to heal the brokenhearted: the people whose minds are broken, and to recover sight to the blind; read with Deuteronomy 28, the brokenhearted are the madness and the blind are the blindness of a people taught lies.
+
+- A lot of sisters are crazy in how they think and move even if not schizophrenic: sleeping with man after man transfers spirits, and some sisters who were fine single went crazy once married. Some need to stay single and serve God.
+
+- Liberal sisters have crept in unawares and wait to marry a brother; one who had been a lesbian married, hated the brother and the baby, and went back. Those offended by last week's lesson can leave, because what was said is that postpartum is not to be used to justify evil.
+
+
+**[Psalms 147:3](/bible/psalms/147#v3)**  *[[2:29:29](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=8969s)]*
+
+> <sup>[3](/bible/psalms/147#v3)</sup> He healeth the broken in heart, and bindeth up their wounds.
+
+- He healeth the broken in heart and bindeth up their wounds: IUIC is a place of healing, and the brothers and sisters have to be healed of the mental issues we have.
+
+- A man who lost his mind, chased by police, hearing and seeing things, fasted five days with him; the bishop said he was crazy, and you would never tell it now. God heals mental illness, but stay on your medication until your faith is there, and someone who comes around acting crazy is put out of the school.
+
+
+**[Wisdom of Solomon 16:12](/bible/wisdom-of-solomon/16#v12)**  *[[2:32:55](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=9175s)]*
+
+> <sup>[12](/bible/wisdom-of-solomon/16#v12)</sup> For it was neither herb, nor mollifying plaister, that restored them to health: but thy word, O Lord, which healeth all things.
+
+- It was neither herb nor mollifying plaster that restored them to health, but thy word, O Lord, which healeth all things: all things means all things, and a sister with postpartum difficulties is healed by the word, not licensed by them to be evil.
+
+
+**[Matthew 9:20-22](/bible/matthew/9#v20)**  *[[2:35:55](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=9355s)]*
+
+> <sup>[20](/bible/matthew/9#v20)</sup> And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:
+>
+> <sup>[21](/bible/matthew/9#v21)</sup> For she said within herself, If I may but touch his garment, I shall be whole.
+>
+> <sup>[22](/bible/matthew/9#v22)</sup> But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
+
+- The woman with the issue of blood twelve years touched the hem of his garment: thy faith hath made thee whole. The word heals, but the power is believing it can.
+
+
+## Class Questions
+
+- **What was the basis of last week's class?** The decayed state of the liberal woman: how liberal women think, that they hate their kids and do not want them, and that no sister among us should think that way.
+
+## In Closing
+
+*[[2:36:48](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=9408s)]* Sisters, get your mind right, and let's build this nation.
+
+## Announcements & References
+
+- Hope and Healing: the program for brothers and sisters dealing with mental illness, with licensed psychiatrists who incorporate the scriptures.
+- Birth of a Nation: the program for sisters giving birth; midwives, doulas and a support system so no sister is in the hospital with her husband alone.
+- Isaiah 4:1, the daughters restored as the branch of the Lord, is left for another class.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=yRPiKi_Q6LU)

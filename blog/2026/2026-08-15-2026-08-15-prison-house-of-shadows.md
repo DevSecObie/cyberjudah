@@ -2,7 +2,7 @@
 title: "PRISON HOUSE OF SHADOWS"
 slug: "2026/2026-08-15-prison-house-of-shadows"
 date: "2026-08-15"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-08-15"
 tags: ["IUIC in the ClassRoom", "justice"]
 ---
@@ -25,7 +25,7 @@ Today's lesson is called Prison House of Shadows. Today is going to be an eye-re
 
 Snapshot read in class: "In the Bible, the word prison is used both literally and figuratively. Literally, it refers to a place where people were held captive, such as Joseph, Jeremiah, John the Baptist and Paul. Figuratively, it describes spiritual bondage, oppression or slavery, being under the dominion and control of another people or nation, being trapped by sin, fear, suffering or disobedience."
 
-Now, those are the two ways prison is used in the Holy Bible. There is a literal meaning, and then there is a figurative meaning. Everybody got that. And it is amazing, and I know this is of the Lord, because many of our classes coincide. Bishop Yawasop's class and Deacon Malachi's class today touched on the same thing. What I am going over flows perfectly with what they went over today.
+Now, those are the two ways prison is used in the Holy Bible. There is a literal meaning, and then there is a figurative meaning. Everybody got that. And it is amazing, and I know this is of the Lord, because many of our classes coincide. Bishop Yawasap's class and Deacon Malachi's class today touched on the same thing. What I am going over flows perfectly with what they went over today.
 
 ## In The News
 

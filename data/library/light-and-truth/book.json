@@ -1,0 +1,131 @@
+{
+ "title": "Light and Truth",
+ "subtitle": "Collected from the Bible and Ancient and Modern History, Containing the Universal History of the Colored and the Indian Race",
+ "author": "R. B. Lewis",
+ "year": 1844,
+ "publisher": "Published by a committee of colored gentlemen, Boston",
+ "license": "Public domain.",
+ "slug": "light-and-truth",
+ "source": "https://archive.org/details/lightandtruthcoll00lewirich",
+ "items": [
+  {
+   "id": "lightandtruthcoll00lewirich",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 404,
+ "volumes": 1,
+ "chapters": [
+  {
+   "n": "I",
+   "title": "The History of Man",
+   "vol": 1,
+   "volume": "",
+   "page": 5,
+   "end": 39,
+   "topics": "Primitive Man — The Land Of Ethiopia. The Fall Of Man — His Location. The Sons Of Adam. The History Of Man. Ii. The Generation Of Adam. The Sons Of Noah. The Generations Of Ham. The Generations Oe Japhet. The Two Nations Of Isaac. The Generations Of Esau — The Red People. History Of Man. Xv. The Generations Of Jacob. History Of Man."
+  },
+  {
+   "n": "II",
+   "title": "Ancient Cities and Kingdoms",
+   "vol": 1,
+   "volume": "",
+   "page": 40,
+   "end": 123,
+   "topics": "Cities Of Ethiopia. The Kingdom Of Assyria. The Cities Of Egypt. The Towns And Cities Of Jordan. The Cities Of The Philistines, And Palestine. The Cities Of Judea. The Cities Of Asia Minor. The Cities Of Persia And Media. The Kingdom And Cities Of Syria. The Great Commercial City Of Tyrus Or Tyre. The Cities Of Edom. The Amalekites. The Cities Of Moab. The Grecian Cities. The Roman Empire. The Kingdom Of Macedonia. The Islands Of The Mediterranean. African Islands."
+  },
+  {
+   "n": "III",
+   "title": "Antiquity of America",
+   "vol": 1,
+   "volume": "",
+   "page": 124,
+   "end": 127,
+   "topics": ""
+  },
+  {
+   "n": "IV",
+   "title": "Ancient Kings and Waes",
+   "vol": 1,
+   "volume": "",
+   "page": 128,
+   "end": 191,
+   "topics": "Abraham The Prince, A Conqueror Of Kings. The Ethiopian Kings Of Egypt. The Character Of Julius Oesar. A Comparison Of Oesar With Cato. The Character Of Cato. The Ancient Kings. Darius' Expedition Against The Scythians. Alexander. The Overthrow Of The Persian Empire. Arabian Kings. The Ethiopian Kings Of Babylon And Assyria. The Kings Of The Hebrews. The Kings Of Judah. The Kings Of Israel. The Kings Of Syria. The Judges Of Israel."
+  },
+  {
+   "n": "V",
+   "title": "Colored Generals and Soldiers",
+   "vol": 1,
+   "volume": "",
+   "page": 192,
+   "end": 209,
+   "topics": "Moses. Hanno. Hamilcar. Imilcon. Hannibal. Scipio Africanus. Pompey. Cimon. Col. Henry Diaz. Colored Soldiers. Tiie Last American War With Great Britain. Proclamation To The Free People Of Color."
+  },
+  {
+   "n": "VI",
+   "title": "Destruction of Jerusalem",
+   "vol": 1,
+   "volume": "",
+   "page": 210,
+   "end": 245,
+   "topics": "Toe Great City Of Jerusalem. The Upper City. Tpie Lower City. A Description Of Solomon'S Temple. The Destruction Of Jerusalem. Destruction Of The Jews."
+  },
+  {
+   "n": "VII",
+   "title": "The Present State of Judah and Israel",
+   "vol": 1,
+   "volume": "",
+   "page": 246,
+   "end": 303,
+   "topics": "The Hebrews Or Israelites, The Jews. The Indian Tribes In America. The True Christians In This Land Are Indians. The Arts And Sciences. Astronomy. Rhetoric. The Lake Of Mceris. Temples Of Egypt. The Explanation Of Five Grand Virtues. The Grecian Philosophers."
+  },
+  {
+   "n": "IX",
+   "title": "Modern Eminent Colored Men",
+   "vol": 1,
+   "volume": "",
+   "page": 304,
+   "end": 308,
+   "topics": ""
+  },
+  {
+   "n": "X",
+   "title": "The Great Historical Ages",
+   "vol": 1,
+   "volume": "",
+   "page": 309,
+   "end": 335,
+   "topics": "Modern Historians. Female Writers. Burning Of The Libraries."
+  },
+  {
+   "n": "XI",
+   "title": "The Ancient Arabians",
+   "vol": 1,
+   "volume": "",
+   "page": 336,
+   "end": 368,
+   "topics": "The Arabic Language. The Word Negro. The Hair Of Men'S Heads. History Of The Prophets. The Shepherds Of Antiquity. The Birth Of Christ."
+  },
+  {
+   "n": "XIII",
+   "title": "Periods, &C",
+   "vol": 1,
+   "volume": "",
+   "page": 369,
+   "end": 384,
+   "topics": ""
+  },
+  {
+   "n": "XIV",
+   "title": "St. Domingo or Haiti",
+   "vol": 1,
+   "volume": "",
+   "page": 385,
+   "end": 404,
+   "topics": "Hayti. Ha.Yti. Brief Sketch Of The Late And Passing Rev Olution L\\ Hayti. Extracts. The Three Colored Republics Of Guiana. U.C. Berkeley Libraries."
+  }
+ ],
+ "figures": []
+}

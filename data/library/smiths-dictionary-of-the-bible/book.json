@@ -1,0 +1,1100 @@
+{
+ "title": "Smith's Dictionary of the Bible",
+ "subtitle": "Comprising Its Antiquities, Biography, Geography and Natural History, in four volumes (Hackett and Abbot's American edition)",
+ "author": "William Smith",
+ "year": 1889,
+ "publisher": "Houghton, Mifflin and Company, Boston (first published 1870)",
+ "license": "Public domain.",
+ "slug": "smiths-dictionary-of-the-bible",
+ "source": "https://archive.org/details/1889dictionaryofb01smituoft",
+ "items": [
+  {
+   "id": "1889dictionaryofb01smituoft",
+   "label": ""
+  },
+  {
+   "id": "1889dictionaryofb02smituoft",
+   "label": ""
+  },
+  {
+   "id": "1889dictionaryofb03smituoft",
+   "label": ""
+  },
+  {
+   "id": "1889dictionaryofb04smituoft",
+   "label": ""
+  }
+ ],
+ "scan": "https://archive.org/download/{id}/page/n{img}_w1200.jpg",
+ "cover": "figures/cover.webp",
+ "pages": 3716,
+ "volumes": 4,
+ "chapters": [
+  {
+   "n": "",
+   "title": "Aaron – Agriculture",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 1,
+   "end": 40,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Agriculture – Amarias",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 41,
+   "end": 80,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Ambassador – Apharsathchites",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 81,
+   "end": 120,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Apherra – Arms",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 121,
+   "end": 160,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Arms – Augustus",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 161,
+   "end": 200,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Avith – Baptism",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 201,
+   "end": 240,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Baptism – Berachiah",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 241,
+   "end": 280,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Beri – Bottomless",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 281,
+   "end": 320,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Bracelb' – Canon",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 321,
+   "end": 360,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Canon – Cedak",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 361,
+   "end": 400,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Cedar – Chronology",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 401,
+   "end": 440,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Chronology – Colors",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 441,
+   "end": 480,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Colors – Gush",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 481,
+   "end": 520,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Cuthah – David",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 521,
+   "end": 560,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "David – Dibon-Gad",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 561,
+   "end": 600,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Dilean – Ebal",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 601,
+   "end": 640,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Eber – Egypt",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 641,
+   "end": 680,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Egypt – Elisha",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 681,
+   "end": 720,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Elisha – Eranites",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 721,
+   "end": 760,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Esar-Haddon – Ezekiel",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 761,
+   "end": 800,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Ezekibl – Fowler",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 801,
+   "end": 840,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Fox – Gehenna",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 841,
+   "end": 880,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Gekealogy – Gennesaret",
+   "vol": 1,
+   "volume": "Volume 1",
+   "page": 881,
+   "end": 900,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "William – Gilboa",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 885,
+   "end": 924,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Gilead – Governor",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 925,
+   "end": 964,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Uraba – Haeodite",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 965,
+   "end": 1004,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Harp – Hephekites",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1005,
+   "end": 1044,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Herd – Hod",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1045,
+   "end": 1084,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Hophni – Idolatry",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1085,
+   "end": 1124,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Idolatry – Isaiah",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1125,
+   "end": 1164,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Isaiah – James",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1165,
+   "end": 1204,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Jambs – Jehovah",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1205,
+   "end": 1244,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Jehovah – Jerusalem",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1245,
+   "end": 1284,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Jerusalem – Jerusalem",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1285,
+   "end": 1324,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Jerusalem – Jesus",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1325,
+   "end": 1364,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Jesus – Job",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1365,
+   "end": 1404,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Job – Jokshan",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1405,
+   "end": 1444,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Joktan – Jubilee",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1445,
+   "end": 1484,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Jubilee – Kadmiel",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1485,
+   "end": 1524,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Kanah – Kirjathaim",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1525,
+   "end": 1564,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Kirjath-Arba – Law",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1565,
+   "end": 1604,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Law – Levites",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1605,
+   "end": 1644,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Levites – Lord'S",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1645,
+   "end": 1684,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Lot – Maccabees",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1685,
+   "end": 1724,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Maccabees – Malchus",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1725,
+   "end": 1764,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Mallows – Market",
+   "vol": 2,
+   "volume": "Volume 2",
+   "page": 1765,
+   "end": 1794,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "William – Mary",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 1781,
+   "end": 1820,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Mary – Medicine",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 1821,
+   "end": 1860,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Medicine – Meronothite",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 1861,
+   "end": 1900,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Mesha – Mines",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 1901,
+   "end": 1940,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Mines – Moab",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 1941,
+   "end": 1980,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Moab – Moses",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 1981,
+   "end": 2020,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Moses – Names",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2021,
+   "end": 2060,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Names – Nehemiah",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2061,
+   "end": 2100,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Nehemiah – New",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2101,
+   "end": 2138,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "New – Noah",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2139,
+   "end": 2178,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Noah – Old",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2179,
+   "end": 2218,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Old – Ophir",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2219,
+   "end": 2258,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Ophir – Palestine",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2259,
+   "end": 2298,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Palestine – Partition",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2299,
+   "end": 2338,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Partridge – Paul",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2339,
+   "end": 2378,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Paul – Pentateuch",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2379,
+   "end": 2418,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Pentateuch – Peter",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2419,
+   "end": 2458,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Peter – Philistines",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2459,
+   "end": 2498,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Philistines – Plague",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2499,
+   "end": 2538,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Plagues – Priest",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2539,
+   "end": 2578,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Priest – Psalms",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2579,
+   "end": 2618,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Psalms – Rabbith",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2619,
+   "end": 2658,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Rabshakeh – Reed",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2659,
+   "end": 2698,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Pages 2699–2700",
+   "vol": 3,
+   "volume": "Volume 3",
+   "page": 2699,
+   "end": 2700,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "William – Revelation",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2686,
+   "end": 2725,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Revelation – Sabbath",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2726,
+   "end": 2765,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Sabbath – Samakitan",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2766,
+   "end": 2805,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Samaritan – Sargon",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2806,
+   "end": 2845,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Satan – Sea",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2846,
+   "end": 2885,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Sea – Septuagint",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2886,
+   "end": 2925,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Sepulchke – Shekel",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2926,
+   "end": 2965,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Shekel – Ship",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 2966,
+   "end": 3005,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Ship – Si'Mon",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3006,
+   "end": 3045,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Simon – Solomok",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3046,
+   "end": 3085,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Solomon – Succoth-Bexoth",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3086,
+   "end": 3125,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Sun – Tabok",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3126,
+   "end": 3165,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Tabor – Temple",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3166,
+   "end": 3205,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Temple – Tiberias",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3206,
+   "end": 3245,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Tiglath-Pileser – Tongues",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3246,
+   "end": 3285,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Tongues – Troughs",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3286,
+   "end": 3325,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Tryphena – Uta",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3326,
+   "end": 3365,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Sherah – Versions",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3366,
+   "end": 3405,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Versions – Vestry",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3406,
+   "end": 3445,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Vine – Wajnukring",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3446,
+   "end": 3484,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "War – Wilderness",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3485,
+   "end": 3524,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Wilderness – Wkiting",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3525,
+   "end": 3564,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Writing – Zechariah",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3565,
+   "end": 3604,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Zechauiah – Zoba",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3605,
+   "end": 3644,
+   "topics": ""
+  },
+  {
+   "n": "",
+   "title": "Zoheleth – Ixdex",
+   "vol": 4,
+   "volume": "Volume 4",
+   "page": 3645,
+   "end": 3668,
+   "topics": ""
+  }
+ ],
+ "figures": [
+  {
+   "kind": "figure",
+   "title": "Fig. 1.",
+   "caption": "Fig. 1.",
+   "vol": 1,
+   "page": 41,
+   "img": 58,
+   "file": "figures/v1-n58.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 4. — Corn growing in patches. — (Surenhusius.)",
+   "caption": "Fig. 4. — Corn growing in patches. — (Surenhusius.)",
+   "vol": 1,
+   "page": 42,
+   "img": 59,
+   "file": "figures/v1-n59.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 12. — Beaping. — (Surenhusius.)",
+   "caption": "Fig. 12. — Beaping. — (Surenhusius.)",
+   "vol": 1,
+   "page": 43,
+   "img": 60,
+   "file": "figures/v1-n60.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 15. — Threshing instrument. — (From Fellows's Asia Minor.)",
+   "caption": "Fig. 15. — Threshing instrument. — (From Fellows's Asia Minor.)",
+   "vol": 1,
+   "page": 44,
+   "img": 61,
+   "file": "figures/v1-n61.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 8. Assyrian Gryphon. (Layard, ii. 459.)",
+   "caption": "Fig. 8. Assyrian Gryphon. (Layard, ii. 459.)",
+   "vol": 1,
+   "page": 420,
+   "img": 437,
+   "file": "figures/v1-n437.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 5. Assyrian sphinx. (Laj'ard, ii. 34o./",
+   "caption": "Fig. 5. Assyrian sphinx. (Laj'ard, ii. 34o./",
+   "vol": 1,
+   "page": 421,
+   "img": 438,
+   "file": "figures/v1-n438.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 6. A Orecian grlflln.",
+   "caption": "Fig. 6. A Orecian grlflln.",
+   "vol": 1,
+   "page": 422,
+   "img": 439,
+   "file": "figures/v1-n439.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 1. An Egyptian. (Lane's Modem Egyptians.)",
+   "caption": "Fig. 1. An Egyptian. (Lane's Modem Egyptians.)",
+   "vol": 1,
+   "page": 620,
+   "img": 637,
+   "file": "figures/v1-n637.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 2. A Bedouin. (Lynch, Dead Sea.)",
+   "caption": "Fig. 2. A Bedouin. (Lynch, Dead Sea.)",
+   "vol": 1,
+   "page": 621,
+   "img": 638,
+   "file": "figures/v1-n638.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 6. An Egyptian Woman. (Lane.)",
+   "caption": "Fig. 6. An Egyptian Woman. (Lane.)",
+   "vol": 1,
+   "page": 622,
+   "img": 639,
+   "file": "figures/v1-n639.webp",
+   "width": 994,
+   "height": 1735
+  },
+  {
+   "kind": "plate",
+   "title": "Ko. 4. — Fka of Haram Area at JeraaalMB",
+   "caption": "Ko. 4. — Fka of Haram Area at JeraaalMB",
+   "vol": 2,
+   "page": 1316,
+   "img": 433,
+   "file": "figures/v2-n433.webp",
+   "width": 1277,
+   "height": 2190
+  },
+  {
+   "kind": "figure",
+   "title": "Plate II",
+   "caption": "Plate II",
+   "vol": 2,
+   "page": 1322,
+   "img": 441,
+   "file": "figures/v2-n441.webp",
+   "width": 1277,
+   "height": 2190
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 1. The city of Lachish repelling the attack of Sennacherib, From Layard's Monmneats of Nineveh,",
+   "caption": "Fig. 1. The city of Lachish repelling the attack of Sennacherib, From Layard's Monmneats of Nineveh, 2d Series, plate 21.",
+   "vol": 2,
+   "page": 1579,
+   "img": 700,
+   "file": "figures/v2-n700.webp",
+   "width": 1277,
+   "height": 2190
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 2. Plan of Lachlsh (?) after Itt capture. From the same work, plate 24.",
+   "caption": "Fig. 2. Plan of Lachlsh (?) after Itt capture. From the same work, plate 24.",
+   "vol": 2,
+   "page": 1580,
+   "img": 701,
+   "file": "figures/v2-n701.webp",
+   "width": 1277,
+   "height": 2190
+  },
+  {
+   "kind": "plate",
+   "title": "llAF or Palestine, >nth section of the country from JaSta, to the mountalnB of M«iab.",
+   "caption": "llAF or Palestine, >nth section of the country from JaSta, to the mountalnB of M«iab.",
+   "vol": 3,
+   "page": 2288,
+   "img": 511,
+   "file": "figures/v3-n511.webp",
+   "width": 1303,
+   "height": 2177
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 2. The opening verses of St. John's Gospel firom the Cod. Alex. The two first lines are rubrica",
+   "caption": "Fig. 2. The opening verses of St. John's Gospel firom the Cod. Alex. The two first lines are rubricated. The specimen exhibits the common contractions, QC, ANON, and an example of itacism, ^wpec's. The stop at the end of the fifth line, ovSe ev, is only visible in a strong light, but certainly exists there, as in G D L, etc.",
+   "vol": 3,
+   "page": 2125,
+   "img": 346,
+   "file": "figures/v3-n346.webp",
+   "width": 1303,
+   "height": 2180
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 1, Diagram Plan of Solomon's Palace.",
+   "caption": "Fig. 1, Diagram Plan of Solomon's Palace.",
+   "vol": 3,
+   "page": 2281,
+   "img": 504,
+   "file": "figures/v3-n504.webp",
+   "width": 1303,
+   "height": 2177
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 2. Diagram Sections of the House of Cedars of Lebanon.",
+   "caption": "Fig. 2. Diagram Sections of the House of Cedars of Lebanon.",
+   "vol": 3,
+   "page": 2282,
+   "img": 505,
+   "file": "figures/v3-n505.webp",
+   "width": 1303,
+   "height": 2177
+  },
+  {
+   "kind": "figure",
+   "title": "Fig. 2. Brit. Mus. Add. 5,463. Matt. xxi. 30, 31, ait — novissimiis. This magnificent MS. shows the ",
+   "caption": "Fig. 2. Brit. Mus. Add. 5,463. Matt. xxi. 30, 31, ait — novissimiis. This magnificent MS. shows the beginning of contraction (ditob-) and punctuation.",
+   "vol": 4,
+   "page": 3475,
+   "img": 792,
+   "file": "figures/v4-n792.webp",
+   "width": 1534,
+   "height": 2542
+  }
+ ]
+}
