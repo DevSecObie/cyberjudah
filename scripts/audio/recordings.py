@@ -17,6 +17,8 @@ import shutil
 import subprocess
 import sys
 import urllib.request
+import urllib.parse
+from functools import lru_cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -57,6 +59,35 @@ def scripture(slug):
     return read(ROOT / 'data/bible' / f'{slug}.json')['chapters']
 
 
+@lru_cache(maxsize=64)
+def archive_locations(item):
+    """Discover current replicas; Archive moves collections between servers."""
+    with urllib.request.urlopen(f'https://archive.org/metadata/{item}', timeout=30) as response:
+        metadata = json.load(response)
+    directory = metadata.get('dir', '')
+    if not re.fullmatch(r'/\d+/items/' + re.escape(item), directory):
+        return []
+    hosts = [metadata.get('d1'), metadata.get('d2'), *metadata.get('workable_servers', [])]
+    return [f'https://{host}{directory}/' for host in dict.fromkeys(hosts)
+            if isinstance(host, str) and re.fullmatch(r'[a-z0-9-]+\.(?:us|ca)\.archive\.org', host)]
+
+
+def source_urls(record):
+    yield from dict.fromkeys([*record.get('mirrors', []), record['download']])
+    # This is lazy: metadata is needed only if the pinned URLs have failed.
+    parsed = urllib.parse.urlparse(record['download'])
+    parts = parsed.path.split('/')
+    if parsed.scheme != 'https' or parsed.hostname != 'archive.org' or len(parts) != 4 or parts[1] != 'download':
+        return
+    item, filename = parts[2:]
+    if not re.fullmatch(r'[a-zA-Z0-9_-]+', item):
+        return
+    try:
+        yield from (base + filename for base in archive_locations(item))
+    except (OSError, ValueError):
+        return
+
+
 def download(record):
     # A checksum pins the actual licensed source, even when its host redirects.
     path = CACHE / 'source' / record['id']
@@ -65,7 +96,7 @@ def download(record):
     path.parent.mkdir(parents=True, exist_ok=True)
     part = path.with_suffix('.part')
     failures = []
-    for url in dict.fromkeys([*record.get('mirrors', []), record['download']]):
+    for url in source_urls(record):
         try:
             with urllib.request.urlopen(url, timeout=45) as source, part.open('wb') as dest:
                 shutil.copyfileobj(source, dest)
@@ -410,15 +441,24 @@ def coverage(manifest):
     (DATA / 'COVERAGE.md').write_text('\n'.join(rows) + '\n')
 
 
-def export(manifest, destination):
+def export(manifest, destination, allow_unavailable=False):
     if not check(manifest):
         raise ValueError('Timing validation failed')
     dest = Path(destination)
-    chapters = []
+    chapters, unavailable = [], []
     for record in manifest['recordings']:
+        if not record['timingFiles']:
+            continue
+        try:
+            source = download(record)
+        except (OSError, ValueError) as error:
+            if not allow_unavailable:
+                raise
+            unavailable.append({'source': record['id'], 'chapters': record['timingFiles'], 'reason': str(error)})
+            print(f"Unavailable: {record['id']}: {error}", file=sys.stderr, flush=True)
+            continue
         for name in record['timingFiles']:
             value = read(DATA / name)
-            source = download(record)
             output = dest / value['audio']; output.parent.mkdir(parents=True, exist_ok=True)
             subprocess.run(['ffmpeg','-v','error','-y','-i',str(source),'-ss',str(value['sourceStart']),
                             '-t',str(value['sourceEnd']-value['sourceStart']),'-vn','-ac','1',
@@ -429,7 +469,10 @@ def export(manifest, destination):
                              'chapter': int(Path(name).stem), 'index': name, 'audio': value['audio'],
                              'source': record['source'], 'license': record['license'],
                              'sha256': digest(output), 'bytes': output.stat().st_size})
-    write(dest / 'catalog.json', {'schemaVersion': 1, 'chapters': chapters})
+    if not chapters:
+        raise ValueError('No narration sources could be exported; catalog not written')
+    write(dest / 'unavailable.json', unavailable)
+    write(dest / 'catalog.json', {'schemaVersion': 1, 'chapters': chapters, 'partial': bool(unavailable)})
     print(f'{len(chapters)} timing-validated chapters exported; review flags preserved; no upload performed')
 
 
@@ -444,6 +487,7 @@ def main():
     p.add_argument('--output', default=str(CACHE / 'export'))
     p.add_argument('--force', action='store_true', help='Re-align selected sources, including previously indexed chapters')
     p.add_argument('--indexed-only', action='store_true', help='Recheck sources with existing chapter indexes before resuming pending sources')
+    p.add_argument('--allow-unavailable', action='store_true', help='Export reachable checked sources, report gaps; publisher must retain existing chapters')
     args = p.parse_args(); manifest = read(DATA / 'manifest.json')
     selected = [r for r in manifest['recordings'] if (args.recording is None or r['id'] == args.recording) and r['readerId'] != args.exclude_reader]
     if args.indexed_only:
@@ -455,7 +499,7 @@ def main():
     if args.command == 'check':
         return 0 if check(manifest) else 1
     if args.command == 'export':
-        export(manifest, args.output); return 0
+        export(manifest, args.output, args.allow_unavailable); return 0
     if args.command == 'coverage':
         coverage(manifest); return 0
     model = load_model(args) if args.command == 'index' else None
