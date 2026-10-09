@@ -1,4 +1,4 @@
-# Ready to merge — 2026-10-09 ~03:55 UTC
+# Ready to merge — 2026-10-09 ~04:15 UTC
 
 Full rebuild. The 2026-10-08 02:05 UTC list is entirely stale: every PR on it (telegram #191/#177/#179/#192/#193/#190, cyberjudah #102/#119/#121/#41's prior state/#10/#109) has left the open list since (merged, closed, or superseded) — none of them are open on GitHub as of this sweep. This sweep found a fully new set of open PRs.
 
@@ -8,12 +8,18 @@ Full rebuild. The 2026-10-08 02:05 UTC list is entirely stale: every PR on it (t
 
 **Review coverage opened this sweep.** None of the 8 telegram PRs or #135 had a Reviewer verdict on file. Five of the eight (the ones that are `CLEAN` and not blocked behind a stack) now have a review issue open, as children of [CYB-427](/CYB/issues/CYB-427): telegram #215 ([CYB-432](/CYB/issues/CYB-432)), #217 ([CYB-431](/CYB/issues/CYB-431)), #218 ([CYB-430](/CYB/issues/CYB-430)), #220 ([CYB-429](/CYB/issues/CYB-429)), #221 ([CYB-428](/CYB/issues/CYB-428)) — all assigned to the Reviewer (QA and security). **That seat currently reads `error` in Paperclip** (a terminal-limit failure, the same class as the Precepts Writer's on 7 October); only the owner can clear an agent error, so none of these verdicts can land until that happens. cyberjudah #135 (a single-file precept pass) needs the Precepts Reviewer's faithfulness check instead, which runs on its own daily 16:45 UTC routine — not duplicated here.
 
+**Added this update, from [CYB-439](/CYB/issues/CYB-439).** Two cyberjudah class-note PRs opened after the 03:55 UTC read, from the Notes Writer's routine on [CYB-422](/CYB/issues/CYB-422): [#137](https://github.com/DevSecObie/cyberjudah/pull/137) and [#139](https://github.com/DevSecObie/cyberjudah/pull/139). Each changes exactly one new `blog/**` note file and nothing else; neither is a child of the open telegram/#135 set above and neither stacks on the other (both base directly on the same `main` commit, `741070e5a`). The Release Manager verified the gates itself rather than taking the PR body's word for it — in a fresh checkout of each branch: `check.py` reported 178 verses/0 mismatches (#137) and 217 verses/0 mismatches (#139); `notes:lint` run on each note file alone reported 0 errors/0 warnings (#137) and 0 errors/1 warning, "no `## In Closing` section" (#139); `npm run notes:fix` on each branch rewrote only the drift already present on `main` (the Haiti note's bad tags, tracked separately as [CYB-438](/CYB/issues/CYB-438)) and left the new note file itself unchanged, confirming `notes:fix`'s output was already committed; `node engine/check.mjs` (`npm run check`) reported 0 broken links on each branch (1,240 notes, 81,730 links for #137; 1,240 notes, 81,731 links for #139). Both commits on both branches carry the `Co-Authored-By: Paperclip <noreply@paperclip.ing>` trailer and no model name. Both PRs are `CLEAN`/`MERGEABLE` and their `validate` check is green.
+
+Two things the owner should weigh before approving, read in full on the PRs rather than summarized away here: both notes run well over the README's 3,000–8,000 prose-word band (#137 is 1,725 prose words/hour of class against the corpus's 7,000–11,000; #139 is 2,849/hour, with scripture that was actually read aloud over half the note) — the PR author's position is that trimming further means dropping verses the teacher read, and will cut on the same branch if the owner names the sections; and #139's "Deacon Abbayeal" teacher attribution comes from a fuzzy match on `data/sources/r2-class-teachers.tsv` (row 485, 0.96), not from the class itself, and is flagged for the Class archivist to confirm rather than asserted as settled.
+
 ## Ready, in order
 
 | # | Repo | PR | Title | Checks | Reviews | Merge order | Deploy approval that follows |
 |---|---|---|---|---|---|---|---|
+| 1 | cyberjudah | [#137](https://github.com/DevSecObie/cyberjudah/pull/137) | Notes: The Fallacy of Black Christians (`aSKl5k_IWzo`, 2025-11-23) | `validate` green; Release Manager independently reran `check.py`/`notes:lint`/`notes:fix`/`npm run check` on [CYB-439](/CYB/issues/CYB-439), all clean | Release Manager review done (content-only PR, per [CYB-422](/CYB/issues/CYB-422): "the Release Manager reviews"); no QA/Security child opened — one new `blog/**` file, no code | standalone; no stack constraint with #139 or any open PR | `data.yml` publish on `main` (touches `blog/**`) — needs the owner's `production` approval |
+| 2 | cyberjudah | [#139](https://github.com/DevSecObie/cyberjudah/pull/139) | Notes: Book of Our Fathers: Who's Who Part 3 (`rlhDrWiUMVs`, 2025-11-22) | `validate` green; Release Manager independently reran `check.py`/`notes:lint`/`notes:fix`/`npm run check` on [CYB-439](/CYB/issues/CYB-439), all clean | Release Manager review done, same basis as #137; teacher attribution flagged above for the Class archivist, not blocking | standalone; no stack constraint with #137 or any open PR | `data.yml` publish on `main` (touches `blog/**`) — needs the owner's `production` approval |
 
-None. Nothing on the open list has a Reviewer or Precepts Reviewer verdict yet.
+Nothing else from the 03:55 UTC read has a Reviewer or Precepts Reviewer verdict yet.
 
 ## Not yet ready
 
@@ -30,13 +36,16 @@ None. Nothing on the open list has a Reviewer or Precepts Reviewer verdict yet.
 | cyberjudah | [#135](https://github.com/DevSecObie/cyberjudah/pull/135) | Precept pass: Bishop Nathanyel \| Revelation 20 (`6RecaZHll-Y`) | `CLEAN`, `check` and `validate` green, single file (`data/precepts/classes/6RecaZHll-Y.json`). No Precepts Reviewer verdict yet | Precepts Reviewer (daily 16:45 UTC routine, or sooner); merges under the `ops/STATE.md` §1 standing approval if faithful, otherwise comments fixes |
 | cyberjudah | [#41](https://github.com/DevSecObie/cyberjudah/pull/41) | Copilot draft: class note for EBEwdiVcsTg "SPIRITUAL UPRISING" | `UNSTABLE`, draft, two `CHANGES_REQUESTED` reviews, unchanged since the last sweep | Owner, tracked on [CYB-96](/CYB/issues/CYB-96) |
 
+Not re-checked this update (added above, scope was #137/#139 only): the eight telegram PRs and #135 are carried forward from the 03:55 UTC read, not re-verified at 04:15 UTC.
+
 ## Held (leave unless the owner asks)
 
 cyberjudah [#25](https://github.com/DevSecObie/cyberjudah/pull/25) (draft, licensed KJV recording alignment continuation, unchanged)
 
 ## Process notes
 
-- **Authority note.** CYB-419 (this sweep's issue) was worded as a standing "approve and merge what qualifies" instruction under CYB-100. `ops/STATE.md` §1 and §4 (2026-10-06) already settled this exact conflict: the canonical files (`ops/RULES.md` rule 1, this seat's `AGENTS.md`) govern over CYB-100's override paragraph, and the Release manager operates list-only with no merge authority exercised. This sweep followed that ruling — nothing was merged. It is moot this cycle regardless: no open PR has a completed review verdict yet, so nothing would have qualified to merge under either reading.
-- Nothing was mechanically ready to bring current: every open PR on both repositories is either the owner's own branch (not the Release manager's to touch) or already held/draft. No `git merge main` was run into anyone's branch this sweep.
+- **Authority note.** CYB-419 (an earlier sweep's issue) was worded as a standing "approve and merge what qualifies" instruction under CYB-100. `ops/STATE.md` §1 and §4 (2026-10-06) already settled this exact conflict: the canonical files (`ops/RULES.md` rule 1, this seat's `AGENTS.md`) govern over CYB-100's override paragraph, and the Release manager operates list-only with no merge authority exercised. Nothing is merged by this seat under either reading; #137 and #139 above are raised to the owner as a board approval, per `ops/STATE.md` §1 (the rule of 2026-10-07 22:21 UTC), not merged here.
+- Nothing was mechanically ready to bring current on the 03:55 UTC set: every open PR on both repositories was either the owner's own branch (not the Release manager's to touch) or already held/draft. #137 and #139 (the Notes Writer's `notes/<video id>` branches) were already current with `main` when checked at 04:1x UTC — no merge-in needed.
 - Five review issues opened (children of [CYB-427](/CYB/issues/CYB-427)); the Reviewer (QA and security) agent is in `error` and can't act on them until the owner clears it in the Paperclip UI.
 - cyberjudah #4 and cyberjudah-telegram's previously-held PRs are no longer open; dropped from this list.
+- #137 and #139 did not get QA/Security review children: per [CYB-422](/CYB/issues/CYB-422) ("one PR per item, CI green; the Release Manager reviews and merges") class-note PRs that touch exactly one `blog/**` file and no code go through the Release Manager's own review, the same pattern as past note merges (#91, #92, #99, #106–108, #113, #114, #119, #121). The precept-pass equivalent of that pattern (#135 above) goes to the Precepts Reviewer instead.
