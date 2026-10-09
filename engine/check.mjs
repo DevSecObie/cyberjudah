@@ -37,7 +37,7 @@ if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives 
   peopleProblems.push(...validateReciprocity(peopleDoc, changed, exceptions));
   console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for two-way relationships`);
   const { exceptions: evidenceExceptions } = JSON.parse(fs.readFileSync(path.join(ROOT, "engine/people-evidence-exceptions.json"), "utf8"));
-  peopleProblems.push(...validatePeopleEvidence(peopleDoc, changed, { bibleDir: path.join(ROOT, "data/bible"), exceptions: evidenceExceptions }));
+  peopleProblems.push(...validatePeopleEvidence(peopleDoc, changed, { bibleDir: path.join(ROOT, "data/bible"), exceptions: evidenceExceptions, beforeDoc }));
   console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for scripture evidence`);
 }
 if (peopleProblems.length) { for (const message of peopleProblems) console.error(message); process.exit(1); }
