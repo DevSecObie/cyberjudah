@@ -108,6 +108,35 @@ test('normalisation does not loosen matching past whole words: "Aaro" still fail
   assert.equal(problems.length, 1);
 });
 
+test('"Juda" does not meet "Judas" when Judas is another person\'s own name form (CYB-451)', () => {
+  // luke/22/3 names Judas Iscariot, not the "Juda" of the Luke genealogy. Without the
+  // other person in the catalog, the trailing-s suffix is harmless (nothing to cross into).
+  const juda = person({ id: 'joda-luk-3-26', names: ['Juda'], verses: ['luke/22/3'], source: kjv });
+  const onlyJuda = doc([juda]);
+  assert.deepEqual(validatePeopleEvidence(onlyJuda, ['joda-luk-3-26'], { bibleDir }), []);
+  // With Judas Iscariot present as a different person carrying the literal name "Judas",
+  // the match must be refused: "Juda" does not meet "Judas".
+  const withJudas = doc([juda, person({ id: 'judas-iscariot', names: ['Judas', 'Judas Iscariot'], verses: [] })]);
+  const problems = validatePeopleEvidence(withJudas, ['joda-luk-3-26'], { bibleDir });
+  assert.equal(problems.length, 1);
+  assert.match(problems[0], /joda-luk-3-26: verse luke\/22\/3/);
+});
+
+test('"Anna" does not meet "Annas" when Annas is another person\'s own name form (CYB-451)', () => {
+  const anna = person({ id: 'anna-luk-2-36', names: ['Anna'], verses: ['john/18/13'], source: kjv });
+  const withAnnas = doc([anna, person({ id: 'annas-high-priest', names: ['Annas'], verses: [] })]);
+  const problems = validatePeopleEvidence(withAnnas, ['anna-luk-2-36'], { bibleDir });
+  assert.equal(problems.length, 1);
+});
+
+test('a name a person shares with itself under the trailing s still passes', () => {
+  // A person's own name form matching only through the trailing s (no other owner of
+  // the matched word) still counts as evidence — only a *different* person's name form
+  // is refused.
+  const d = doc([person({ id: 'self-match', names: ['Israelite'], verses: ['exodus/9/7'], source: kjv })]);
+  assert.deepEqual(validatePeopleEvidence(d, ['self-match'], { bibleDir }), []);
+});
+
 test('the real exceptions file parses', () => {
   const ex = JSON.parse(fs.readFileSync(path.join(ROOT, 'engine/people-evidence-exceptions.json'), 'utf8'));
   assert.ok(ex && typeof ex.exceptions === 'object');

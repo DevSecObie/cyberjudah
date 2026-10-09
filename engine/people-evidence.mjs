@@ -28,6 +28,31 @@ function namePattern(form) {
   return new RegExp(`\\b${parts.join('[-\\s]?')}'?s?\\b`);
 }
 
+// The same pattern without the optional trailing s/'s, to tell whether a match only
+// succeeded because of that suffix (the hyphen/space join stays optional — it is part
+// of the form itself, not a cross-name risk).
+function strictNamePattern(form) {
+  const parts = form.split(/[-\s]+/).filter(Boolean).map(escapeRegExp);
+  return new RegExp(`\\b${parts.join('[-\\s]?')}\\b`);
+}
+
+// Every literal name form in the catalog, mapped to the person id(s) that carry it.
+// Used to refuse a match that only works through the optional trailing s — "Juda" must
+// not meet "Judas" in a verse just because Judas is itself a different person's own
+// name form (CYB-451's finding on PR #144).
+function buildFormOwners(peopleDoc) {
+  const owners = new Map();
+  for (const p of peopleDoc.people ?? []) {
+    for (const form of p.names ?? []) {
+      if (typeof form !== 'string' || !form.trim()) continue;
+      const key = form.trim();
+      if (!owners.has(key)) owners.set(key, new Set());
+      owners.get(key).add(p.id);
+    }
+  }
+  return owners;
+}
+
 function loadBook(cache, bibleDir, slug) {
   if (!cache.has(slug)) {
     let chapters = null;
@@ -59,6 +84,7 @@ export function validatePeopleEvidence(peopleDoc, ids, { bibleDir, exceptions = 
   const problems = [];
   const byId = new Map((peopleDoc.people ?? []).map((p) => [p.id, p]));
   const beforeById = new Map((beforeDoc?.people ?? []).map((p) => [p.id, p]));
+  const formOwners = buildFormOwners(peopleDoc);
   const cache = new Map();
   for (const id of ids ?? []) {
     const person = byId.get(id);
@@ -76,7 +102,15 @@ export function validatePeopleEvidence(peopleDoc, ids, { bibleDir, exceptions = 
         problems.push(`${id}: verse ${ref} does not resolve to a verse in data/bible`);
         continue;
       }
-      const named = forms.some((form) => namePattern(form).test(text));
+      const named = forms.some((form) => {
+        const match = namePattern(form).exec(text);
+        if (!match) return false;
+        if (strictNamePattern(form).test(text)) return true; // matches without the trailing s/'s; no cross-name risk
+        // Only matched through the optional suffix: refuse it if the matched word is
+        // itself another person's own name form (e.g. "Juda" must not meet "Judas").
+        const owners = formOwners.get(match[0]);
+        return !owners || [...owners].every((ownerId) => ownerId === id);
+      });
       if (named) continue;
       const reason = exceptions[key];
       if (typeof reason === 'string' && reason.trim()) continue;
