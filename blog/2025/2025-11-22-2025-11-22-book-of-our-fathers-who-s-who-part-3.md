@@ -19,6 +19,11 @@ tags: ["IUIC in the ClassRoom", "faith"]
 
 *[[6:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=393s)]* Part three of Book of Our Fathers, the who's who of the Bible: Joshua, Caleb, the judges and Samuel, each one named with his tribe, his birth, his battles and the point of his life. It opens on why our people were cut off from this heritage and who went to great lengths to hide it, then walks Ecclesiasticus 46 figure by figure out of the histories.
 
+## In The News
+
+- *[[33:44](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2024s)]* **A video of a commentator answering Kanye West's claim that black people are of the twelve tribes** — He grants that a large percentage of those sold in the transatlantic slave trade were of Israelite tribes displaced in Africa, then says our people reach false conclusions from a colonised Christian framework and mistranslations of the King James Bible. The information is busting out the seams, so the work now is damage control: admit it, include themselves in it, and steer our people away from Christ. We never needed validation from any nation, only from the Most High and his son, and we had it before they were forced to say it.
+- *[[43:00](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2580s)]* **A page shown on the screen from a book on Jewish life in the New World, 1493 to 1825, on the Caribbean shipping business** — They were the largest ship chandlers in the entire Caribbean region, where the shipping business was mainly their enterprise, which answers the man in the video: his own people were in the slave trade, so they never bore witness with us.
+
 ## Scriptures Opened
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[8:17](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=497s)]*
