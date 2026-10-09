@@ -19,6 +19,15 @@ const KJV_SOURCE = 'King James Version with Apocrypha';
 
 const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
+// A name form matches with its hyphen/space joins optional (so "Esar-haddon" meets
+// "Esarhaddon" in 2-kings/19/37) and a trailing s/'s accepted (so "Israelite" meets
+// "Israelites" in exodus/9/7), \b anchored on both ends as check.py anchors the
+// unnormalised form.
+function namePattern(form) {
+  const parts = form.split(/[-\s]+/).filter(Boolean).map(escapeRegExp);
+  return new RegExp(`\\b${parts.join('[-\\s]?')}'?s?\\b`);
+}
+
 function loadBook(cache, bibleDir, slug) {
   if (!cache.has(slug)) {
     let chapters = null;
@@ -41,10 +50,15 @@ export function evidenceVerseText(ref, bibleDir, cache = new Map()) {
 }
 
 /** Every verse a changed person cites must name them (whole-word), or be excepted with
- * a reason. `exceptions` maps "personId|book/chapter/verse" to the written reason. */
-export function validatePeopleEvidence(peopleDoc, ids, { bibleDir, exceptions = {} } = {}) {
+ * a reason. `exceptions` maps "personId|book/chapter/verse" to the written reason.
+ * `beforeDoc`, when given, is the catalog before the batch: a changed person's verses
+ * that already cited the same reference before the batch are not re-proven — only
+ * `person.verses - before.verses` (all verses, for a person new to `beforeDoc`) needs
+ * evidence, matching docs/proposals/apocrypha/check.py in cyberjudah-telegram. */
+export function validatePeopleEvidence(peopleDoc, ids, { bibleDir, exceptions = {}, beforeDoc = null } = {}) {
   const problems = [];
   const byId = new Map((peopleDoc.people ?? []).map((p) => [p.id, p]));
+  const beforeById = new Map((beforeDoc?.people ?? []).map((p) => [p.id, p]));
   const cache = new Map();
   for (const id of ids ?? []) {
     const person = byId.get(id);
@@ -53,14 +67,16 @@ export function validatePeopleEvidence(peopleDoc, ids, { bibleDir, exceptions = 
     // with Apocrypha is in scope. Batches without it are checked as-is (see note above).
     if (person.source?.name && person.source.name !== KJV_SOURCE) continue;
     const forms = (person.names ?? []).filter((f) => typeof f === 'string' && f.trim());
+    const beforeVerses = new Set(beforeById.get(id)?.verses ?? []);
     for (const ref of person.verses ?? []) {
+      if (beforeVerses.has(ref)) continue; // already cited before this batch; not this batch's claim to prove
       const key = `${id}|${ref}`;
       const text = evidenceVerseText(ref, bibleDir, cache);
       if (text === null) {
         problems.push(`${id}: verse ${ref} does not resolve to a verse in data/bible`);
         continue;
       }
-      const named = forms.some((form) => new RegExp(`\\b${escapeRegExp(form)}\\b`).test(text));
+      const named = forms.some((form) => namePattern(form).test(text));
       if (named) continue;
       const reason = exceptions[key];
       if (typeof reason === 'string' && reason.trim()) continue;

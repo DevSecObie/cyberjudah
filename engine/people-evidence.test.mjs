@@ -69,6 +69,45 @@ test('matching is whole-word, like check.py', () => {
   assert.equal(validatePeopleEvidence(d, ['whole-word'], { bibleDir }).length, 1);
 });
 
+test('a patched person keeps a legacy verse that does not name them', () => {
+  // The person is already in beforeDoc with a verse that does not name them (a legacy
+  // citation this check never proved); the batch patches an unrelated field (description)
+  // and keeps that verse untouched. Only person.verses - before.verses needs evidence
+  // (docs/proposals/apocrypha/check.py's semantics), so the legacy verse is not re-checked.
+  const before = doc([person({ id: 'patched', names: ['Aaron'], verses: ['exodus/1/1'], source: kjv })]);
+  const after = doc([person({ id: 'patched', names: ['Aaron'], verses: ['exodus/1/1'], description: 'patched', source: kjv })]);
+  assert.deepEqual(validatePeopleEvidence(after, ['patched'], { bibleDir, beforeDoc: before }), []);
+});
+
+test('a verse newly added to a patched person still needs evidence', () => {
+  const before = doc([person({ id: 'patched2', names: ['Aaron'], verses: ['exodus/1/1'], source: kjv })]);
+  const after = doc([person({ id: 'patched2', names: ['Aaron'], verses: ['exodus/1/1', 'exodus/4/14'], source: kjv })]);
+  assert.deepEqual(validatePeopleEvidence(after, ['patched2'], { bibleDir, beforeDoc: before }), []);
+  const bad = doc([person({ id: 'patched2', names: ['Nobody Here'], verses: ['exodus/1/1', 'exodus/4/14'], source: kjv })]);
+  const problems = validatePeopleEvidence(bad, ['patched2'], { bibleDir, beforeDoc: before });
+  assert.equal(problems.length, 1);
+  assert.match(problems[0], /exodus\/4\/14/);
+});
+
+test('a hyphenated name form meets its unhyphenated verse text', () => {
+  // esarhaddon-2ki-19-37 (data/people/people.json): names include "Esar-haddon", and
+  // 2-kings/19/37 reads "...Esarhaddon his son..." with no hyphen.
+  const d = doc([person({ id: 'esar', names: ['Esar-haddon'], verses: ['2-kings/19/37'], source: kjv })]);
+  assert.deepEqual(validatePeopleEvidence(d, ['esar'], { bibleDir }), []);
+});
+
+test('a singular name form meets its pluralised verse text', () => {
+  // israel-gen-25-26: names include "Israelite", and exodus/9/7 reads "...Israelites dead...".
+  const d = doc([person({ id: 'isr', names: ['Israelite'], verses: ['exodus/9/7'], source: kjv })]);
+  assert.deepEqual(validatePeopleEvidence(d, ['isr'], { bibleDir }), []);
+});
+
+test('normalisation does not loosen matching past whole words: "Aaro" still fails', () => {
+  const d = doc([person({ id: 'still-fails', names: ['Aaro'], verses: ['exodus/4/14'], source: kjv })]);
+  const problems = validatePeopleEvidence(d, ['still-fails'], { bibleDir });
+  assert.equal(problems.length, 1);
+});
+
 test('the real exceptions file parses', () => {
   const ex = JSON.parse(fs.readFileSync(path.join(ROOT, 'engine/people-evidence-exceptions.json'), 'utf8'));
   assert.ok(ex && typeof ex.exceptions === 'object');
