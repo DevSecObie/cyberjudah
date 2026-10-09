@@ -1,0 +1,833 @@
+---
+title: "Book of Our Fathers: Who’s Who Part 3"
+slug: "2025/2025-11-22-book-of-our-fathers-who-s-who-part-3"
+date: "2025-11-22"
+teacher: "Deacon Abbayeal"
+description: "IUIC in the ClassRoom · 2025-11-22"
+tags: ["IUIC in the ClassRoom", "faith"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2025-11-22</p>
+
+<span class="opens"><b>Opens</b> [Rom 15](/bible/romans/15) · [Jer 17](/bible/jeremiah/17) · [Isa 1](/bible/isaiah/1) · [Ps 83](/bible/psalms/83) · [Joel 3](/bible/joel/3) · [Judith 5](/bible/judith/5) · [Sir 46](/bible/sirach/46) · [Josh 1](/bible/joshua/1) · [Josh 6](/bible/joshua/6) · [Num 14](/bible/numbers/14) · [Josh 24](/bible/joshua/24) · [Josh 14](/bible/joshua/14) · [Josh 15](/bible/joshua/15) · [Num 13](/bible/numbers/13) · [Judg 6](/bible/judges/6) · [Judg 11](/bible/judges/11) · <i>and 7 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="rlhDrWiUMVs"></div>
+
+## Introduction
+
+*[[6:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=393s)]* Part three of Book of Our Fathers, the who's who of the Bible: Joshua, Caleb, the judges and Samuel, each one named with his tribe, his birth, his battles and the point of his life. It opens on why our people were cut off from this heritage and who went to great lengths to hide it, then walks Ecclesiasticus 46 figure by figure out of the histories.
+
+## Scriptures Opened
+
+**[Romans 15:4](/bible/romans/15#v4)**  *[[8:17](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=497s)]*
+
+> <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
+
+- Every class starts here, because this is a Bible-based teaching: whatsoever things were written aforetime were written for our learning.
+
+- The things written aforetime are what men call the Old Testament, the books of the prophets the Most High used to bring his people to understanding; through patience and the comfort of the scriptures we have hope.
+
+- That hope is the faith we are here for: endure, keep the commandments and the faith in his son, and we receive what the book says we receive. We are not here to hang out with each other.
+
+
+**[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[10:45](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=645s)]*
+
+> <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
+
+- Thou, even thyself, shalt discontinue from thy heritage that I gave thee: that is a prophecy, so ask who on the planet was disconnected from their true heritage, their God, their culture, their traditions and their laws. We are the only people who fit it.
+
+- And I will cause thee to serve thine enemies in the land which thou knowest not: it happened because we kindled the fire of his anger, and he made good his word.
+
+  Precepts:
+  - **[Baruch 2:1](/bible/baruch/2#v1)**
+    > <sup>[1](/bible/baruch/2#v1)</sup> Therefore the Lord hath made good his word, which he pronounced against us, and against our judges that judged Israel, and against our kings, and against our princes, and against the men of Israel and Juda,
+
+    The Lord hath made good his word which he pronounced against us, against our judges, our kings, our princes and the men of Israel and Judah, to bring upon us great plagues. That word is Deuteronomy 28, verses 15 to 68, the chapter the nations want you to stay away from; ask when those curses fell and you start putting dates to your own history.
+
+
+**[Isaiah 1:3](/bible/isaiah/1#v3)**  *[[16:54](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=1014s)]*
+
+> <sup>[3](/bible/isaiah/1#v3)</sup> The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider.
+
+- The ox knoweth his owner and the ass his master's crib, but Israel doth not know, my people doth not consider. They want us dumber than the animal that knows who feeds it.
+
+- We never thought to open the book and look for our heritage, because we bought the lie that we are all the same and all go to heaven holding hands; now black folks say colour does not matter before the white man says it.
+
+- What we had was not faith, it was superstition: a Bible on the dashboard so you would not crash, a cross on the rearview to keep the devil out of the car, salt over the shoulder and ten steps back from a black cat. A black cat held the same power as John 3:16 to you.
+
+- When you do read it, you see yourself in it: your temperament, why you move the way you move, and that Abraham, Isaac, Jacob and Judah are your own fathers. That is what brings self-worth, and that is what they do not want.
+
+
+**[Psalms 83:1-5](/bible/psalms/83#v1)**  *[[20:39](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=1239s)]*
+
+> <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
+>
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
+>
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+>
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+
+- Thine enemies make a tumult, and they that hate thee have lifted up the head: they cannot reach up and strike God, so they come at the ones they can touch.
+
+- They have taken crafty counsel against thy people and consulted against thy hidden ones. The hidden ones are our people with no sense of who they are, hidden because they were cut off from the book.
+
+- Come, and let us cut them off from being a nation, that the name of Israel may be no more in remembrance: cut off from being a nationality, so you do not remember you are of Judah, Ephraim, Manasseh, Simeon, Gad, Naphtali or Asher, because if you did you would change how you think, how you eat and how you treat your neighbour.
+
+- They are confederate against thee. This was not one good idea; they came together with one consent to work out how to remove us from power for ever and rule in our place.
+
+- And take the accountability with it: God said he would scatter us among the nations for breaking his laws, and he did. The nations then took advantage of a people already down; blaming them without knowing that is just complaining.
+
+  Precepts:
+  - **[1 Maccabees 3:46-48](/bible/1-maccabees/3#v46)**
+    > <sup>[46](/bible/1-maccabees/3#v46)</sup> Wherefore the Israelites assembled themselves together, and came to Maspha, over against Jerusalem; for in Maspha was the place where they prayed aforetime in Israel.
+    >
+    > <sup>[47](/bible/1-maccabees/3#v47)</sup> Then they fasted that day, and put on sackcloth, and cast ashes upon their heads, and rent their clothes,
+    >
+    > <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
+
+    The Israelites assembled at Maspha, where they prayed aforetime, fasted, put on sackcloth, cast ashes on their heads, rent their clothes, and laid open the book of the law, wherein the heathen had sought to paint the likeness of their images. They opened a book that was not theirs and painted their own faces into it, so that when you went back to the book you would not see your own people in it. That is why imagery matters, and why they narrowed the noses on the statues in Egypt and coloured over the people: see a thing enough and you believe it.
+  - **[Psalms 64:2-6](/bible/psalms/64#v2)**
+    > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+    >
+    > <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+    >
+    > <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
+    >
+    > <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+    >
+    > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+
+    Hide me from the secret counsel of the wicked, from the insurrection of the workers of iniquity, that they may shoot in secret at the perfect. We are the perfect they shoot at in secret, and they do not fear while they do it. They search out iniquity and accomplish a diligent search: Esau thinks long term while we play in the now.
+  - **[Job 9:24](/bible/job/9#v24)**
+    > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
+
+    The earth is given into the hand of the wicked; he covereth the faces of the judges thereof. He has hidden the true kings of this earth and is holding back the emergence of God's people as long as he can — and Israel is busting out the seams now, which is why the information is being controlled and our pages taken down.
+
+
+**[Joel 3:4-6](/bible/joel/3#v4)**  *[[39:45](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2385s)]*
+
+> <sup>[4](/bible/joel/3#v4)</sup> Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;
+>
+> <sup>[5](/bible/joel/3#v5)</sup> Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
+>
+> <sup>[6](/bible/joel/3#v6)</sup> The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
+
+- What have ye to do with me, O Tyre and Zidon, and all the coasts of Palestine: Tyre and Zidon are the sons of Ham, the coasts of Palestine the sons of Ishmael.
+
+- Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things: they took the treasures out of our temples, our books and our writings, and put them in theirs.
+
+- The children also of Judah and the children of Jerusalem have ye sold unto the Grecians. This is the southern kingdom, Judah, Benjamin and Levi, sold to white people, and it is a prophecy specifically of the transatlantic slave trade.
+
+- So when they say black people sold black people, we know that, and the Bible said it first. Hamites sold us at places like Fort Ouidah and Ishmaelites sold us at places like Zanzibar, to the white man who came on the boats to the coast to pick us up. What they will not say is that those sellers were not the same people as us.
+
+
+**[Judith 5:17-20](/bible/judith/5#v17)**  *[[47:13](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2833s)]*
+
+> <sup>[17](/bible/judith/5#v17)</sup> And whilst they sinned not before their God, they prospered, because the God that hateth iniquity was with them.
+>
+> <sup>[18](/bible/judith/5#v18)</sup> But when they departed from the way which he appointed them, they were destroyed in many battles very sore, and were led captives into a land that was not their’s, and the temple of their God was cast to the ground, and their cities were taken by the enemies.
+>
+> <sup>[19](/bible/judith/5#v19)</sup> But now are they returned to their God, and are come up from the places where they were scattered, and have possessed Jerusalem, where their sanctuary is, and are seated in the hill country; for it was desolate.
+>
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+
+- Whilst they sinned not before their God, they prospered, because the God that hateth iniquity was with them; when they departed from the way he appointed, they were destroyed in many battles and led captive into a land that was not theirs.
+
+- Now therefore, my lord and governor, if there be any error in this people and they sin against their God, let us consider that this shall be their ruin, and let us go up and we shall overcome them. That is their fear and their whole strategy: not our money or our noise, but our compliance with the Most High.
+
+- You can have a thousand people kissing your boot and you are no threat. Get two or three Israelites to repent, keep the commandments and believe on Christ, and they will try to take you off the map.
+
+- And notice this is generational study. They watched how our people are destroyed over centuries and learned exactly when to move on us: when Israel keeps the commandments the Lord is with them and they cannot be touched, but in the midst of sin they are got.
+
+
+**[Sirach 46:1-6](/bible/sirach/46#v1)**  *[[49:36](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2976s)]*
+
+> <sup>[1](/bible/sirach/46#v1)</sup> Jesus the son a Nave was valiant in the wars, and was the successor of Moses in prophecies, who according to his name was made great for the saving of the elect of God, and taking vengeance of the enemies that rose up against them, that he might set Israel in their inheritance.
+>
+> <sup>[2](/bible/sirach/46#v2)</sup> How great glory gat he, when he did lift up his hands, and stretched out his sword against the cities!
+>
+> <sup>[3](/bible/sirach/46#v3)</sup> Who before him so stood to it? for the Lord himself brought his enemies unto him.
+>
+> <sup>[4](/bible/sirach/46#v4)</sup> Did not the sun go back by his means? and was not one day as long as two?
+>
+> <sup>[5](/bible/sirach/46#v5)</sup> He called upon the most high Lord, when the enemies pressed upon him on every side; and the great Lord heard him.
+>
+> <sup>[6](/bible/sirach/46#v6)</sup> And with hailstones of mighty power he made the battle to fall violently upon the nations, and in the descent of Beth-horon he destroyed them that resisted, that the nations might know all their strength, because he fought in the sight of the Lord, and he followed the Mighty One.
+
+- Jesus the son of Nun is Joshua; the name is the same name with the same meaning, Yehoshua, Yeshua, Jesus.
+
+- Valiant in the wars and the successor of Moses in prophecies, made great for the saving of the elect of God, for taking vengeance of the enemies that rose up, and to set Israel in their inheritance.
+
+- Did not the sun go back by his means, and was not one day as long as two? He called on the Most High when the enemies pressed on every side, and the great Lord heard him and fought with hailstones of mighty power.
+
+- He fought on the side of the Lord and followed the mighty one, and in the descent of Beth-horon he destroyed them that resisted, that the nations might know all their strength.
+
+  Precepts:
+  - **[Numbers 13:8](/bible/numbers/13#v8)**
+    > <sup>[8](/bible/numbers/13#v8)</sup> Of the tribe of Ephraim, Oshea the son of Nun.
+
+    Of the tribe of Ephraim, Oshea the son of Nun. Write that down: Joshua was an Ephraimite.
+  - **[Numbers 13:16-20](/bible/numbers/13#v16)**
+    > <sup>[16](/bible/numbers/13#v16)</sup> These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
+    >
+    > <sup>[17](/bible/numbers/13#v17)</sup> And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:
+    >
+    > <sup>[18](/bible/numbers/13#v18)</sup> And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many;
+    >
+    > <sup>[19](/bible/numbers/13#v19)</sup> And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds;
+    >
+    > <sup>[20](/bible/numbers/13#v20)</sup> And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes.
+
+    Moses called Oshea the son of Nun Jehoshua, the same name again, and sent him with the men to spy out the land of Canaan: to see whether the people were strong or weak, few or many, the cities tents or strongholds, the land fat or lean.
+  - **[Numbers 14:30](/bible/numbers/14#v30)**
+    > <sup>[30](/bible/numbers/14#v30)</sup> Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.
+
+    Ye shall not come into the land, save Caleb the son of Jephunneh and Joshua the son of Nun. Of that generation only the two of them and those twenty and under came out; the rest of the carcasses fell in the wilderness.
+  - **[Deuteronomy 31:7](/bible/deuteronomy/31#v7)**
+    > <sup>[7](/bible/deuteronomy/31#v7)</sup> And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the Lord hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.
+
+    Moses called Joshua in the sight of all Israel: be strong and of a good courage, for thou must go with this people unto the land, and thou shalt cause them to inherit it. Moses already knew he would not see it himself.
+
+
+**[Joshua 1:1-6](/bible/joshua/1#v1)**  *[[56:57](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=3417s)]*
+
+> <sup>[1](/bible/joshua/1#v1)</sup> Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake unto Joshua the son of Nun, Moses’ minister, saying,
+>
+> <sup>[2](/bible/joshua/1#v2)</sup> Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
+>
+> <sup>[3](/bible/joshua/1#v3)</sup> Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses.
+>
+> <sup>[4](/bible/joshua/1#v4)</sup> From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.
+>
+> <sup>[5](/bible/joshua/1#v5)</sup> There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.
+>
+> <sup>[6](/bible/joshua/1#v6)</sup> Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.
+
+- Moses my servant is dead; now therefore arise, go over this Jordan. It was Joshua who was going to take them over.
+
+- Why tell a man to have good courage? Put yourself in that seat. Every peer and elder he looked up to had just died in the wilderness, Israel was rebellious and stiffnecked, and he did not know what he was stepping into. Brothers made officer of ten feel the weight; this was a whole nation.
+
+- Every place that the sole of your foot shall tread upon have I given unto you, from the wilderness and Lebanon unto the Euphrates and the great sea. That is a great land mass, not something he could see from where he stood.
+
+- There shall not any man be able to stand before thee; as I was with Moses, so I will be with thee. The land was his, but he still had to go and get it, and there were people living in it. He was not a president watching from a distance; he was in the army, boots on the ground.
+
+- Any seat of leadership takes strength: things come your way that are not yours and are still your responsibility to get rectified.
+
+
+**[Joshua 6:1-10](/bible/joshua/6#v1)**  *[[1:03:42](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=3822s)]*
+
+> <sup>[1](/bible/joshua/6#v1)</sup> Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
+>
+> <sup>[2](/bible/joshua/6#v2)</sup> And the Lord said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour.
+>
+> <sup>[3](/bible/joshua/6#v3)</sup> And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days.
+>
+> <sup>[4](/bible/joshua/6#v4)</sup> And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.
+>
+> <sup>[5](/bible/joshua/6#v5)</sup> And it shall come to pass, that when they make a long blast with the ram’s horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
+>
+> <sup>[6](/bible/joshua/6#v6)</sup> And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the Lord.
+>
+> <sup>[7](/bible/joshua/6#v7)</sup> And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the Lord.
+>
+> <sup>[8](/bible/joshua/6#v8)</sup> And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the Lord, and blew with the trumpets: and the ark of the covenant of the Lord followed them.
+>
+> <sup>[9](/bible/joshua/6#v9)</sup> And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, the priests going on, and blowing with the trumpets.
+>
+> <sup>[10](/bible/joshua/6#v10)</sup> And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
+
+- Jericho was straitly shut up because of the children of Israel; none went out and none came in. That is martial law, and the Canaanites declared it because of us.
+
+- See, I have given into thine hand Jericho and the king thereof and the mighty men of valour: the city was given before a wall fell.
+
+- Compass the city, all ye men of war, once a day for six days, seven priests bearing seven trumpets of rams' horns, and seven times on the seventh day.
+
+- Let him that is armed pass on before the ark of the Lord. This was not a prayer team and these were not prayer warriors; the armed men went first. This book is a war book.
+
+  Precepts:
+  - **[Joshua 6:20-21](/bible/joshua/6#v20)**
+    > <sup>[20](/bible/joshua/6#v20)</sup> So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
+    >
+    > <sup>[21](/bible/joshua/6#v21)</sup> And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
+
+    The people shouted with a great shout and the wall fell down flat, and they went up every man straight before him and took the city. They did not pray the city into their hands; they took it, and utterly destroyed all that was in it, both men and women, young and old, and ox and sheep and ass, with the edge of the sword. This is the part so-called Christians get uncomfortable with. Our fathers did this.
+
+
+**[Numbers 14:6-12](/bible/numbers/14#v6)**  *[[1:08:53](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=4133s)]*
+
+> <sup>[6](/bible/numbers/14#v6)</sup> And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:
+>
+> <sup>[7](/bible/numbers/14#v7)</sup> And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land.
+>
+> <sup>[8](/bible/numbers/14#v8)</sup> If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.
+>
+> <sup>[9](/bible/numbers/14#v9)</sup> Only rebel not ye against the Lord, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the Lord is with us: fear them not.
+>
+> <sup>[10](/bible/numbers/14#v10)</sup> But all the congregation bade stone them with stones. And the glory of the Lord appeared in the tabernacle of the congregation before all the children of Israel.
+>
+> <sup>[11](/bible/numbers/14#v11)</sup> And the Lord said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
+>
+> <sup>[12](/bible/numbers/14#v12)</sup> I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.
+
+- Joshua and Caleb, who had searched the land, rent their clothes and told the whole congregation the land is an exceeding good land, and if the Lord delight in us he will bring us into it.
+
+- Only rebel not against the Lord, neither fear ye the people of the land, for they are bread for us: their defence is departed from them and the Lord is with us. Those were young men with faith, speaking to older men whose faith was weak.
+
+- And all the congregation bade stone them with stones. That is what faith got them from their own people.
+
+- How long will this people provoke me, and how long will it be ere they believe me, for all the signs which I have shewed among them? When the Lord steps in to fix us, look at how he fixes it.
+
+
+**[Joshua 24:15](/bible/joshua/24#v15)**  *[[1:11:18](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=4278s)]*
+
+> <sup>[15](/bible/joshua/24#v15)</sup> And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the Lord.
+
+- Choose you this day whom ye will serve, the gods your fathers served on the other side of the flood, or the gods of the Amorites in whose land ye dwell. Pick a side; there was no in between.
+
+- But as for me and my house, we will serve the Lord. That was the temperament of Joshua, said after the Canaanites were conquered.
+
+
+**[Joshua 24:29-32](/bible/joshua/24#v29)**  *[[1:12:16](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=4336s)]*
+
+> <sup>[29](/bible/joshua/24#v29)</sup> And it came to pass after these things, that Joshua the son of Nun, the servant of the Lord, died, being an hundred and ten years old.
+>
+> <sup>[30](/bible/joshua/24#v30)</sup> And they buried him in the border of his inheritance in Timnath–serah, which is in mount Ephraim, on the north side of the hill of Gaash.
+>
+> <sup>[31](/bible/joshua/24#v31)</sup> And Israel served the Lord all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the Lord, that he had done for Israel.
+>
+> <sup>[32](/bible/joshua/24#v32)</sup> And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
+
+- Joshua the son of Nun, the servant of the Lord, died an hundred and ten years old and was buried in the border of his own inheritance in Timnath-serah, in mount Ephraim.
+
+- Look at the life: born in Egypt, saw the plagues, lived through the wilderness and all the rebellion, and because he remained faithful he saw the land divided that Moses never saw.
+
+- Israel served the Lord all the days of Joshua and all the days of the elders that outlived him, who had known all the works of the Lord. That is what his leadership produced: great leaders make more great leaders, and the men raised under him rolled in the same spirit.
+
+- And the bones of Joseph, brought up out of Egypt, were buried in Shechem in the parcel of ground Jacob bought of the sons of Hamor.
+
+  Precepts:
+  - **[Numbers 32:11-12](/bible/numbers/32#v11)**
+    > <sup>[11](/bible/numbers/32#v11)</sup> Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
+    >
+    > <sup>[12](/bible/numbers/32#v12)</sup> Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the Lord.
+
+    None of the men that came up out of Egypt from twenty years old and upward shall see the land, because they have not wholly followed me, save Caleb the son of Jephunneh and Joshua the son of Nun, for they have wholly followed the Lord. The others had doubt in them somewhere; these two had complete faith and never questioned what the Lord told Moses.
+
+
+**[Sirach 46:7-10](/bible/sirach/46#v7)**  *[[1:16:36](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=4596s)]*
+
+> <sup>[7](/bible/sirach/46#v7)</sup> In the time of Moses also he did a work of mercy, he and Caleb the son of Jephunne, in that they withstood the congregation, and withheld the people from sin, and appeased the wicked murmuring.
+>
+> <sup>[8](/bible/sirach/46#v8)</sup> And of six hundred thousand people on foot, they two were preserved to bring them in to the heritage, even unto the land that floweth with milk and honey.
+>
+> <sup>[9](/bible/sirach/46#v9)</sup> The Lord gave strength also unto Caleb, which remained with him unto his old age: so that he entered upon the high places of the land, and his seed obtained it for an heritage:
+>
+> <sup>[10](/bible/sirach/46#v10)</sup> That all the children of Israel might see that it is good to follow the Lord.
+
+- In the time of Moses he did a work of mercy, he and Caleb the son of Jephunneh, in that they withstood the congregation, withheld the people from sin, and appeased the wicked murmuring.
+
+- Of six hundred thousand people on foot, they two were preserved to bring them into the heritage, the land that floweth with milk and honey.
+
+- The Lord gave strength also unto Caleb, which remained with him unto his old age, so that he entered upon the high places of the land and his seed obtained it for an heritage. Everybody does not get that strength, and strength is not shown when everything is good; it shows when you are going through something.
+
+- That all the children of Israel might see that it is good to follow the Lord: his life was put there as the example.
+
+  Precepts:
+  - **[Numbers 13:6](/bible/numbers/13#v6)**
+    > <sup>[6](/bible/numbers/13#v6)</sup> Of the tribe of Judah, Caleb the son of Jephunneh.
+
+    Of the tribe of Judah, Caleb the son of Jephunneh. Write it down: Caleb was of Judah.
+  - **[Joshua 14:6](/bible/joshua/14#v6)**
+    > <sup>[6](/bible/joshua/14#v6)</sup> Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the Lord said unto Moses the man of God concerning me and thee in Kadesh–barnea.
+
+    Caleb the son of Jephunneh the Kenezite said unto Joshua in Gilgal, thou knowest the thing the Lord said unto Moses concerning me and thee in Kadesh-barnea. He is called the Kenezite in places, and it is the same man; these names in the histories are not different people.
+
+
+**[Joshua 14:9-15](/bible/joshua/14#v9)**  *[[1:20:03](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=4803s)]*
+
+> <sup>[9](/bible/joshua/14#v9)</sup> And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the Lord my God.
+>
+> <sup>[10](/bible/joshua/14#v10)</sup> And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.
+>
+> <sup>[11](/bible/joshua/14#v11)</sup> As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
+>
+> <sup>[12](/bible/joshua/14#v12)</sup> Now therefore give me this mountain, whereof the Lord spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I shall be able to drive them out, as the Lord said.
+>
+> <sup>[13](/bible/joshua/14#v13)</sup> And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.
+>
+> <sup>[14](/bible/joshua/14#v14)</sup> Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the Lord God of Israel.
+>
+> <sup>[15](/bible/joshua/14#v15)</sup> And the name of Hebron before was Kirjath–arba; which Arba was a great man among the Anakims. And the land had rest from war.
+
+- Moses sware that the land whereon his feet had trodden would be his inheritance and his children's for ever, because he had wholly followed the Lord.
+
+- I am this day fourscore and five years old, and as yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, to go out and to come in. He did not keep that strength to walk around in a small shirt; he kept it to fight, and he was not retired from battle at eighty-five.
+
+- Now therefore give me this mountain, for thou heardest how the Anakims were there and the cities were great and fenced: if the Lord be with me, I shall be able to drive them out.
+
+- Joshua blessed him and gave Caleb Hebron for an inheritance, the place that was before called Kirjath-arba after a great man among the Anakims, and the land had rest from war.
+
+
+**[Numbers 14:20-24](/bible/numbers/14#v20)**  *[[1:23:23](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5003s)]*
+
+> <sup>[20](/bible/numbers/14#v20)</sup> And the Lord said, I have pardoned according to thy word:
+>
+> <sup>[21](/bible/numbers/14#v21)</sup> But as truly as I live, all the earth shall be filled with the glory of the Lord.
+>
+> <sup>[22](/bible/numbers/14#v22)</sup> Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;
+>
+> <sup>[23](/bible/numbers/14#v23)</sup> Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:
+>
+> <sup>[24](/bible/numbers/14#v24)</sup> But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
+
+- I have pardoned according to thy word, but as truly as I live, all the earth shall be filled with the glory of the Lord.
+
+- Those men who saw his glory and his miracles in Egypt and in the wilderness and tempted him ten times shall not see the land, neither shall any of them that provoked him see it. The Lord does not lie and he was not playing.
+
+- But my servant Caleb, because he had another spirit with him and hath followed me fully, him will I bring into the land. That is what the Lord wants from us: a different spirit about faith, following fully whatever everybody else is doing, whatever the peer pressure, the trial or the temptation, and he was rewarded for it.
+
+
+**[Joshua 15:12-16](/bible/joshua/15#v12)**  *[[1:26:06](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5166s)]*
+
+> <sup>[12](/bible/joshua/15#v12)</sup> And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families.
+>
+> <sup>[13](/bible/joshua/15#v13)</sup> And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the Lord to Joshua, even the city of Arba the father of Anak, which city is Hebron.
+>
+> <sup>[14](/bible/joshua/15#v14)</sup> And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
+>
+> <sup>[15](/bible/joshua/15#v15)</sup> And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjath–sepher.
+>
+> <sup>[16](/bible/joshua/15#v16)</sup> And Caleb said, He that smiteth Kirjath–sepher, and taketh it, to him will I give Achsah my daughter to wife.
+
+- Unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the Lord to Joshua, even the city of Arba, which is Hebron.
+
+- And Caleb drove thence the three sons of Anak, Sheshai, Ahiman and Talmai. He was promised Hebron and he went and claimed it himself.
+
+- He went up to the inhabitants of Debir, which was before called Kirjath-sepher, and offered his daughter Achsah to the man that would smite it and take it.
+
+
+**[Numbers 13:29-31](/bible/numbers/13#v29)**  *[[1:27:02](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5222s)]*
+
+> <sup>[29](/bible/numbers/13#v29)</sup> The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
+>
+> <sup>[30](/bible/numbers/13#v30)</sup> And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
+>
+> <sup>[31](/bible/numbers/13#v31)</sup> But the men that went up with him said, We be not able to go up against the people; for they are stronger than we.
+
+- The Amalekites in the south, the Hittites, Jebusites and Amorites in the mountains, the Canaanites by the sea and by the coast of Jordan: that is who was in the land.
+
+- And Caleb stilled the people before Moses and said, let us go up at once and possess it, for we are well able to overcome it. Caleb was no punk.
+
+- But the men that went up with him said, we be not able to go up against the people, for they are stronger than we. You cannot have men like that in your circle.
+
+- They brought up an evil report: a land that eateth up the inhabitants thereof, men of great stature, the giants, the sons of Anak, and we were in our own sight as grasshoppers. Those are the giants Caleb went up and took his land from.
+
+
+**[Sirach 46:11](/bible/sirach/46#v11)**  *[[1:30:35](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5435s)]*
+
+> <sup>[11](/bible/sirach/46#v11)</sup> And concerning the judges, every one by name, whose heart went not a whoring, nor departed from the Lord, let their memory be blessed.
+
+- And concerning the judges, every one by name, whose heart went not a whoring nor departed from the Lord, let their memory be blessed. That sends us to the book of Judges to name them.
+
+  Precepts:
+  - **[Judges 3:7-11](/bible/judges/3#v7)**
+    > <sup>[7](/bible/judges/3#v7)</sup> And the children of Israel did evil in the sight of the Lord, and forgat the Lord their God, and served Baalim and the groves.
+    >
+    > <sup>[8](/bible/judges/3#v8)</sup> Therefore the anger of the Lord was hot against Israel, and he sold them into the hand of Chushan–rishathaim king of Mesopotamia: and the children of Israel served Chushan–rishathaim eight years.
+    >
+    > <sup>[9](/bible/judges/3#v9)</sup> And when the children of Israel cried unto the Lord, the Lord raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb’s younger brother.
+    >
+    > <sup>[10](/bible/judges/3#v10)</sup> And the Spirit of the Lord came upon him, and he judged Israel, and went out to war: and the Lord delivered Chushan–rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan–rishathaim.
+    >
+    > <sup>[11](/bible/judges/3#v11)</sup> And the land had rest forty years. And Othniel the son of Kenaz died.
+
+    Israel did evil, forgot the Lord their God and served Baalim and the groves, so he sold them into the hand of Cushan-rishathaim king of Mesopotamia and they served him eight years. When they cried unto the Lord he raised up a deliverer, Othniel the son of Kenaz, Caleb's younger brother — see the connection. The spirit of the Lord came upon him, he judged Israel and went out to war, his hand prevailed, and the land had rest forty years.
+  - **[Judges 3:12-15](/bible/judges/3#v12)**
+    > <sup>[12](/bible/judges/3#v12)</sup> And the children of Israel did evil again in the sight of the Lord: and the Lord strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the Lord.
+    >
+    > <sup>[13](/bible/judges/3#v13)</sup> And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.
+    >
+    > <sup>[14](/bible/judges/3#v14)</sup> So the children of Israel served Eglon the king of Moab eighteen years.
+    >
+    > <sup>[15](/bible/judges/3#v15)</sup> But when the children of Israel cried unto the Lord, the Lord raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab.
+
+    Israel did evil again, so the Lord strengthened Eglon king of Moab against them; he gathered Ammon and Amalek and possessed the city of palm trees, and Israel served him eighteen years. Then the Lord raised up a deliverer, Ehud the son of Gera, a Benjamite, a man left-handed. That is judge number two: of Benjamin, and left-handed.
+  - **[Judges 3:30-31](/bible/judges/3#v30)**
+    > <sup>[30](/bible/judges/3#v30)</sup> So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years.
+    >
+    > <sup>[31](/bible/judges/3#v31)</sup> And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.
+
+    Moab was subdued that day under the hand of Israel and the land had rest fourscore years. And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad, and he also delivered Israel. An ox goad is a weapon sometimes ten feet long with a sharp point; six hundred men died by one of them.
+  - **[Judges 4:4-5](/bible/judges/4#v4)**
+    > <sup>[4](/bible/judges/4#v4)</sup> And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
+    >
+    > <sup>[5](/bible/judges/4#v5)</sup> And she dwelt under the palm tree of Deborah between Ramah and Beth–el in mount Ephraim: and the children of Israel came up to her for judgment.
+
+    Deborah, a prophetess, the wife of Lapidoth, judged Israel at that time, and dwelt under the palm tree between Ramah and Beth-el in mount Ephraim, and the children of Israel came up to her for judgment. The only woman among them: a wise woman Israel respected, who rose up when the brothers were not handling business.
+  - **[Judges 10:1-5](/bible/judges/10#v1)**
+    > <sup>[1](/bible/judges/10#v1)</sup> And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
+    >
+    > <sup>[2](/bible/judges/10#v2)</sup> And he judged Israel twenty and three years, and died, and was buried in Shamir.
+    >
+    > <sup>[3](/bible/judges/10#v3)</sup> And after him arose Jair, a Gileadite, and judged Israel twenty and two years.
+    >
+    > <sup>[4](/bible/judges/10#v4)</sup> And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth–jair unto this day, which are in the land of Gilead.
+    >
+    > <sup>[5](/bible/judges/10#v5)</sup> And Jair died, and was buried in Camon.
+
+    After Abimelech there arose to defend Israel Tola the son of Puah, a man of Issachar, who dwelt in Shamir in mount Ephraim and judged Israel twenty and three years. After him arose Jair, a Gileadite, who judged twenty and two years and had thirty sons that rode on thirty ass colts, with thirty cities called Havoth-jair in Gilead, named for where he was from.
+  - **[Judges 12:8-9](/bible/judges/12#v8)**
+    > <sup>[8](/bible/judges/12#v8)</sup> And after him Ibzan of Beth–lehem judged Israel.
+    >
+    > <sup>[9](/bible/judges/12#v9)</sup> And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
+
+    After him Ibzan of Beth-lehem judged Israel, and he had thirty sons and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons.
+  - **[Judges 12:11-12](/bible/judges/12#v11)**
+    > <sup>[11](/bible/judges/12#v11)</sup> And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.
+    >
+    > <sup>[12](/bible/judges/12#v12)</sup> And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.
+
+    After him Elon, a Zebulonite, judged Israel ten years, and died and was buried in Aijalon in the country of Zebulun: another judge, out of the tribe of Zebulun.
+  - **[Judges 12:13-14](/bible/judges/12#v13)**
+    > <sup>[13](/bible/judges/12#v13)</sup> And after him Abdon the son of Hillel, a Pirathonite, judged Israel.
+    >
+    > <sup>[14](/bible/judges/12#v14)</sup> And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
+
+    After him Abdon the son of Hillel, a Pirathonite, judged Israel, and he had forty sons and thirty nephews that rode on threescore and ten ass colts, and he judged Israel eight years.
+
+
+**[Judges 6:1-13](/bible/judges/6#v1)**  *[[1:38:18](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5898s)]*
+
+> <sup>[1](/bible/judges/6#v1)</sup> And the children of Israel did evil in the sight of the Lord: and the Lord delivered them into the hand of Midian seven years.
+>
+> <sup>[2](/bible/judges/6#v2)</sup> And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds.
+>
+> <sup>[3](/bible/judges/6#v3)</sup> And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them;
+>
+> <sup>[4](/bible/judges/6#v4)</sup> And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass.
+>
+> <sup>[5](/bible/judges/6#v5)</sup> For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it.
+>
+> <sup>[6](/bible/judges/6#v6)</sup> And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the Lord.
+>
+> <sup>[7](/bible/judges/6#v7)</sup> And it came to pass, when the children of Israel cried unto the Lord because of the Midianites,
+>
+> <sup>[8](/bible/judges/6#v8)</sup> That the Lord sent a prophet unto the children of Israel, which said unto them, Thus saith the Lord God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;
+>
+> <sup>[9](/bible/judges/6#v9)</sup> And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;
+>
+> <sup>[10](/bible/judges/6#v10)</sup> And I said unto you, I am the Lord your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
+>
+> <sup>[11](/bible/judges/6#v11)</sup> And there came an angel of the Lord, and sat under an oak which was in Ophrah, that pertained unto Joash the Abi–ezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.
+>
+> <sup>[12](/bible/judges/6#v12)</sup> And the angel of the Lord appeared unto him, and said unto him, The Lord is with thee, thou mighty man of valour.
+>
+> <sup>[13](/bible/judges/6#v13)</sup> And Gideon said unto him, Oh my Lord, if the Lord be with us, why then is all this befallen us? and where be all his miracles which our fathers told us of, saying, Did not the Lord bring us up from Egypt? but now the Lord hath forsaken us, and delivered us into the hands of the Midianites.
+
+- Israel did evil and the Lord delivered them into the hand of Midian seven years, so they made dens in the mountains and caves and strongholds; Midian and Amalek and the children of the east destroyed the increase of the earth and left no sustenance, no sheep, nor ox, nor ass, and Israel was greatly impoverished.
+
+- When they cried unto the Lord he sent a prophet first: I brought you up from Egypt and out of the house of bondage, I delivered you out of the hand of all that oppressed you and gave you their land, and I said I am the Lord your God, fear not the gods of the Amorites in whose land ye dwell — but ye have not obeyed my voice.
+
+- The angel of the Lord sat under the oak in Ophrah while Gideon threshed wheat by the winepress to hide it from the Midianites, and said, the Lord is with thee, thou mighty man of valour.
+
+- Gideon answered, if the Lord be with us, why then is all this befallen us, and where be all his miracles which our fathers told us of? The Lord hath forsaken us and delivered us into the hands of the Midianites. Read chapters 6 through 8 for the rest of him.
+
+- And take this with the captivities named all through the book: there is not one nation that has not got something to pay for. All of them play a part in our demise to this day.
+
+
+**[Judges 11:1-6](/bible/judges/11#v1)**  *[[1:42:38](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6158s)]*
+
+> <sup>[1](/bible/judges/11#v1)</sup> Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.
+>
+> <sup>[2](/bible/judges/11#v2)</sup> And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou art the son of a strange woman.
+>
+> <sup>[3](/bible/judges/11#v3)</sup> Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
+>
+> <sup>[4](/bible/judges/11#v4)</sup> And it came to pass in process of time, that the children of Ammon made war against Israel.
+>
+> <sup>[5](/bible/judges/11#v5)</sup> And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:
+>
+> <sup>[6](/bible/judges/11#v6)</sup> And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.
+
+- Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot; his father's other sons thrust him out and told him he would not inherit in their father's house because he was the son of a strange woman, and he fled to the land of Tob.
+
+- Then the elders of Gilead came to him: come and be our captain, that we may fight with the children of Ammon. And he asked them, did not ye hate me and expel me out of my father's house? Jephthah did not forget.
+
+- We all have backgrounds. Do not think the Lord cannot use who he wants to use. Read chapters 11 and 12 for the rest.
+
+
+**[Sirach 46:12-20](/bible/sirach/46#v12)**  *[[1:45:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6333s)]*
+
+> <sup>[12](/bible/sirach/46#v12)</sup> Let their bones flourish out of their place, and let the name of them that were honoured be continued upon their children.
+>
+> <sup>[13](/bible/sirach/46#v13)</sup> Samuel, the prophet of the Lord, beloved of his Lord, established a kingdom, and anointed princes over his people.
+>
+> <sup>[14](/bible/sirach/46#v14)</sup> By the law of the Lord he judged the congregation, and the Lord had respect unto Jacob.
+>
+> <sup>[15](/bible/sirach/46#v15)</sup> By his faithfulness he was found a true prophet, and by his word he was known to be faithful in vision.
+>
+> <sup>[16](/bible/sirach/46#v16)</sup> He called upon the mighty Lord, when his enemies pressed upon him on every side, when he offered the sucking lamb.
+>
+> <sup>[17](/bible/sirach/46#v17)</sup> And the Lord thundered from heaven, and with a great noise made his voice to be heard.
+>
+> <sup>[18](/bible/sirach/46#v18)</sup> And he destroyed the rulers of the Tyrians, and all the princes of the Philistines.
+>
+> <sup>[19](/bible/sirach/46#v19)</sup> And before his long sleep he made protestations in the sight of the Lord and his anointed, I have not taken any man’s goods, so much as a shoe: and no man did accuse him.
+>
+> <sup>[20](/bible/sirach/46#v20)</sup> And after his death he prophesied, and shewed the king his end, and lifted up his voice from the earth in prophecy, to blot out the wickedness of the people.
+
+- Let their bones flourish out of their place, and let the name of them that were honoured be continued upon their children: that is the blessing on the judges.
+
+- Samuel, the prophet of the Lord, beloved of his Lord, established a kingdom and anointed princes over his people, and by the law of the Lord he judged the congregation.
+
+- By his faithfulness he was found a true prophet, and by his word he was known to be faithful in vision. He called upon the mighty Lord when his enemies pressed on every side, as he offered the sucking lamb, and the Lord thundered from heaven and destroyed the rulers of the Tyrians and all the princes of the Philistines.
+
+- Before his long sleep he made his protestations before the Lord and his anointed: I have not taken any man's goods, so much as a shoe, and no man did accuse him.
+
+- And after his death he prophesied, and shewed the king his end, and lifted up his voice from the earth in prophecy to blot out the wickedness of the people.
+
+  Precepts:
+  - **[1 Samuel 1:1-2](/bible/1-samuel/1#v1)**
+    > <sup>[1](/bible/1-samuel/1#v1)</sup> Now there was a certain man of Ramathaim–zophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
+    >
+    > <sup>[2](/bible/1-samuel/1#v2)</sup> And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.
+
+    Samuel the son of Elkanah, of Ramathaim-zophim of mount Ephraim; his mother was Hannah, and Elkanah's other wife Peninnah had children while Hannah had none. Put his birth at about 1100 BC, an approximate, and note where he is from; Ramah is the same area.
+
+
+**[1 Samuel 1:9-20](/bible/1-samuel/1#v9)**  *[[1:48:13](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6493s)]*
+
+> <sup>[9](/bible/1-samuel/1#v9)</sup> So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the Lord.
+>
+> <sup>[10](/bible/1-samuel/1#v10)</sup> And she was in bitterness of soul, and prayed unto the Lord, and wept sore.
+>
+> <sup>[11](/bible/1-samuel/1#v11)</sup> And she vowed a vow, and said, O Lord of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the Lord all the days of his life, and there shall no razor come upon his head.
+>
+> <sup>[12](/bible/1-samuel/1#v12)</sup> And it came to pass, as she continued praying before the Lord, that Eli marked her mouth.
+>
+> <sup>[13](/bible/1-samuel/1#v13)</sup> Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
+>
+> <sup>[14](/bible/1-samuel/1#v14)</sup> And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.
+>
+> <sup>[15](/bible/1-samuel/1#v15)</sup> And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the Lord.
+>
+> <sup>[16](/bible/1-samuel/1#v16)</sup> Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
+>
+> <sup>[17](/bible/1-samuel/1#v17)</sup> Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.
+>
+> <sup>[18](/bible/1-samuel/1#v18)</sup> And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more sad.
+>
+> <sup>[19](/bible/1-samuel/1#v19)</sup> And they rose up in the morning early, and worshipped before the Lord, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the Lord remembered her.
+>
+> <sup>[20](/bible/1-samuel/1#v20)</sup> Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the Lord.
+
+- Hannah was in bitterness of soul, prayed unto the Lord and wept sore, and vowed that if he would look on the affliction of his handmaid and give her a man child, she would give him unto the Lord all the days of his life and no razor would come upon his head.
+
+- She spake in her heart and only her lips moved, so Eli thought she was drunken; she answered that she was a woman of a sorrowful spirit who had drunk neither wine nor strong drink but poured out her soul before the Lord.
+
+- Eli said go in peace, and the God of Israel grant thee thy petition; she went her way and did eat, and her countenance was no more sad.
+
+- Sometimes you go before the Lord and let it go. She wanted seed; everybody is not capable of that, but you do not know what the Lord has in store, and if he chooses to give, he will. The Lord remembered her, and she bare a son and called his name Samuel, because she had asked him of the Lord.
+
+
+**[1 Samuel 1:24-28](/bible/1-samuel/1#v24)**  *[[1:52:28](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6748s)]*
+
+> <sup>[24](/bible/1-samuel/1#v24)</sup> And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the Lord in Shiloh: and the child was young.
+>
+> <sup>[25](/bible/1-samuel/1#v25)</sup> And they slew a bullock, and brought the child to Eli.
+>
+> <sup>[26](/bible/1-samuel/1#v26)</sup> And she said, Oh my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto the Lord.
+>
+> <sup>[27](/bible/1-samuel/1#v27)</sup> For this child I prayed; and the Lord hath given me my petition which I asked of him:
+>
+> <sup>[28](/bible/1-samuel/1#v28)</sup> Therefore also I have lent him to the Lord; as long as he liveth he shall be lent to the Lord. And he worshipped the Lord there.
+
+- When the child was weaned she brought him to the house of the Lord in Shiloh with three bullocks, an ephah of flour and a bottle of wine, and told Eli, for this child I prayed and the Lord hath given me my petition which I asked of him.
+
+- Therefore also I have lent him to the Lord; as long as he liveth he shall be lent to the Lord. She kept her end of the bargain, and the child grew up to be a powerful prophet.
+
+
+**[1 Samuel 2:1-10](/bible/1-samuel/2#v1)**  *[[1:53:16](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=6796s)]*
+
+> <sup>[1](/bible/1-samuel/2#v1)</sup> And Hannah prayed, and said, My heart rejoiceth in the Lord, mine horn is exalted in the Lord: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.
+>
+> <sup>[2](/bible/1-samuel/2#v2)</sup> There is none holy as the Lord: for there is none beside thee: neither is there any rock like our God.
+>
+> <sup>[3](/bible/1-samuel/2#v3)</sup> Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.
+>
+> <sup>[4](/bible/1-samuel/2#v4)</sup> The bows of the mighty men are broken, and they that stumbled are girded with strength.
+>
+> <sup>[5](/bible/1-samuel/2#v5)</sup> They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.
+>
+> <sup>[6](/bible/1-samuel/2#v6)</sup> The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up.
+>
+> <sup>[7](/bible/1-samuel/2#v7)</sup> The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up.
+>
+> <sup>[8](/bible/1-samuel/2#v8)</sup> He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lord’s, and he hath set the world upon them.
+>
+> <sup>[9](/bible/1-samuel/2#v9)</sup> He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.
+>
+> <sup>[10](/bible/1-samuel/2#v10)</sup> The adversaries of the Lord shall be broken to pieces; out of heaven shall he thunder upon them: the Lord shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.
+
+- My heart rejoiceth in the Lord, mine horn is exalted, my mouth is enlarged over mine enemies, because I rejoice in thy salvation: that is the level of faith, and the context is what she had just been given.
+
+- Talk no more so exceeding proudly, let not arrogance come out of your mouth, for the Lord is a God of knowledge, and by him actions are weighed.
+
+- The bows of the mighty men are broken, and they that stumbled are girded with strength; the barren hath born seven, and she that hath many children is waxed feeble. The Lord killeth and maketh alive, maketh poor and maketh rich, bringeth low and lifteth up.
+
+- He raiseth up the poor out of the dust and lifteth the beggar from the dunghill, to set them among princes and to make them inherit the throne of glory; he will keep the feet of his saints, and the wicked shall be silent in darkness.
+
+- The adversaries of the Lord shall be broken to pieces; out of heaven shall he thunder upon them, and the Lord shall judge the ends of the earth, and give strength unto his king and exalt the horn of his anointed.
+
+
+**[1 Samuel 7:15](/bible/1-samuel/7#v15)**  *[[1:56:41](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7001s)]*
+
+> <sup>[15](/bible/1-samuel/7#v15)</sup> And Samuel judged Israel all the days of his life.
+
+- And Samuel judged Israel all the days of his life. He was the last judge, because after him came King Saul and Israel went into kingship.
+
+
+**[1 Samuel 10:1-4](/bible/1-samuel/10#v1)**  *[[1:58:45](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7125s)]*
+
+> <sup>[1](/bible/1-samuel/10#v1)</sup> Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the Lord hath anointed thee to be captain over his inheritance?
+>
+> <sup>[2](/bible/1-samuel/10#v2)</sup> When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
+>
+> <sup>[3](/bible/1-samuel/10#v3)</sup> Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Beth–el, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
+>
+> <sup>[4](/bible/1-samuel/10#v4)</sup> And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands.
+
+- Then Samuel took a vial of oil and poured it upon his head and kissed him: is it not because the Lord hath anointed thee to be captain over his inheritance?
+
+- He gave him the signs that would meet him on the road — the two men by Rachel's sepulchre in the border of Benjamin, the three men going up to Beth-el with kids, loaves and a bottle of wine, and the two loaves they would give him — the word of God spoken before it happened.
+
+  Precepts:
+  - **[1 Samuel 9:26-27](/bible/1-samuel/9#v26)**
+    > <sup>[26](/bible/1-samuel/9#v26)</sup> And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad.
+    >
+    > <sup>[27](/bible/1-samuel/9#v27)</sup> And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God.
+
+    Samuel called Saul to the top of the house early in the morning, sent the servant on before them, and told Saul to stand still a while that he might shew him the word of God.
+
+
+**[1 Samuel 16:13](/bible/1-samuel/16#v13)**  *[[1:59:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7173s)]*
+
+> <sup>[13](/bible/1-samuel/16#v13)</sup> Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the Lord came upon David from that day forward. So Samuel rose up, and went to Ramah.
+
+- Samuel took the horn of oil and anointed David in the midst of his brethren, and the spirit of the Lord came upon David from that day forward.
+
+- But the spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled him. Samuel anointed both kings.
+
+
+**[1 Samuel 3:1-12](/bible/1-samuel/3#v1)**  *[[2:00:28](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7228s)]*
+
+> <sup>[1](/bible/1-samuel/3#v1)</sup> And the child Samuel ministered unto the Lord before Eli. And the word of the Lord was precious in those days; there was no open vision.
+>
+> <sup>[2](/bible/1-samuel/3#v2)</sup> And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see;
+>
+> <sup>[3](/bible/1-samuel/3#v3)</sup> And ere the lamp of God went out in the temple of the Lord, where the ark of God was, and Samuel was laid down to sleep;
+>
+> <sup>[4](/bible/1-samuel/3#v4)</sup> That the Lord called Samuel: and he answered, Here am I.
+>
+> <sup>[5](/bible/1-samuel/3#v5)</sup> And he ran unto Eli, and said, Here am I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down.
+>
+> <sup>[6](/bible/1-samuel/3#v6)</sup> And the Lord called yet again, Samuel. And Samuel arose and went to Eli, and said, Here am I; for thou didst call me. And he answered, I called not, my son; lie down again.
+>
+> <sup>[7](/bible/1-samuel/3#v7)</sup> Now Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him.
+>
+> <sup>[8](/bible/1-samuel/3#v8)</sup> And the Lord called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the Lord had called the child.
+>
+> <sup>[9](/bible/1-samuel/3#v9)</sup> Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth. So Samuel went and lay down in his place.
+>
+> <sup>[10](/bible/1-samuel/3#v10)</sup> And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
+>
+> <sup>[11](/bible/1-samuel/3#v11)</sup> And the Lord said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.
+>
+> <sup>[12](/bible/1-samuel/3#v12)</sup> In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.
+
+- The child Samuel ministered unto the Lord before Eli, and the word of the Lord was precious in those days: there was no open vision.
+
+- Three times the Lord called him and three times he ran to Eli saying, here am I, for thou calledst me, because Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him. Then Eli perceived that it was the Lord calling the child and told him to answer, speak, Lord, for thy servant heareth.
+
+- Behold, I will do a thing in Israel at which both the ears of every one that heareth it shall tingle: in that day I will perform against Eli all things which I have spoken concerning his house, and when I begin, I will also make an end. Samuel had to carry that word to Eli, who knew exactly what evil was going on in his own house with his sons.
+
+
+**[1 Samuel 7:3-13](/bible/1-samuel/7#v3)**  *[[2:02:47](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7367s)]*
+
+> <sup>[3](/bible/1-samuel/7#v3)</sup> And Samuel spake unto all the house of Israel, saying, If ye do return unto the Lord with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the Lord, and serve him only: and he will deliver you out of the hand of the Philistines.
+>
+> <sup>[4](/bible/1-samuel/7#v4)</sup> Then the children of Israel did put away Baalim and Ashtaroth, and served the Lord only.
+>
+> <sup>[5](/bible/1-samuel/7#v5)</sup> And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the Lord.
+>
+> <sup>[6](/bible/1-samuel/7#v6)</sup> And they gathered together to Mizpeh, and drew water, and poured it out before the Lord, and fasted on that day, and said there, We have sinned against the Lord. And Samuel judged the children of Israel in Mizpeh.
+>
+> <sup>[7](/bible/1-samuel/7#v7)</sup> And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.
+>
+> <sup>[8](/bible/1-samuel/7#v8)</sup> And the children of Israel said to Samuel, Cease not to cry unto the Lord our God for us, that he will save us out of the hand of the Philistines.
+>
+> <sup>[9](/bible/1-samuel/7#v9)</sup> And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the Lord: and Samuel cried unto the Lord for Israel; and the Lord heard him.
+>
+> <sup>[10](/bible/1-samuel/7#v10)</sup> And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the Lord thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.
+>
+> <sup>[11](/bible/1-samuel/7#v11)</sup> And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Beth–car.
+>
+> <sup>[12](/bible/1-samuel/7#v12)</sup> Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben–ezer, saying, Hitherto hath the Lord helped us.
+>
+> <sup>[13](/bible/1-samuel/7#v13)</sup> So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the Lord was against the Philistines all the days of Samuel.
+
+- If ye do return unto the Lord with all your hearts, then put away the strange gods and Ashtaroth from among you, prepare your hearts unto the Lord and serve him only, and he will deliver you out of the hand of the Philistines. Israel put away Baalim and Ashtaroth and served the Lord only.
+
+- Gathered at Mizpeh they drew water and poured it out before the Lord, fasted, and said, we have sinned against the Lord. When the Philistines heard it they came up, and Israel was afraid, because they knew they had been in sin and thought judgment was coming.
+
+- Samuel took a sucking lamb and offered it for a burnt offering wholly unto the Lord and cried unto the Lord for Israel, and the Lord heard him; as he was offering, the Lord thundered with a great thunder upon the Philistines and discomfited them, and they were smitten before Israel. That is the thunder Ecclesiasticus 46 spoke of.
+
+- Samuel set up a stone between Mizpeh and Shen and called it Ebenezer, saying, hitherto hath the Lord helped us; the Philistines were subdued and came no more into the coasts of Israel all the days of Samuel.
+
+- See how a prophet gets to the root of the problem: the only way we are able to fight is to get the sin out from among us and pray to the Most High for forgiveness.
+
+
+**[1 Samuel 15:22-28](/bible/1-samuel/15#v22)**  *[[2:05:11](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=7511s)]*
+
+> <sup>[22](/bible/1-samuel/15#v22)</sup> And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+>
+> <sup>[23](/bible/1-samuel/15#v23)</sup> For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
+>
+> <sup>[24](/bible/1-samuel/15#v24)</sup> And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.
+>
+> <sup>[25](/bible/1-samuel/15#v25)</sup> Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the Lord.
+>
+> <sup>[26](/bible/1-samuel/15#v26)</sup> And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the Lord, and the Lord hath rejected thee from being king over Israel.
+>
+> <sup>[27](/bible/1-samuel/15#v27)</sup> And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.
+>
+> <sup>[28](/bible/1-samuel/15#v28)</sup> And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
+
+- Hath the Lord as great delight in burnt offerings and sacrifices as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+
+- For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry; because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
+
+- Saul said, I have sinned, for I have transgressed the commandment of the Lord and thy words, because I feared the people and obeyed their voice — and Samuel would not return with him.
+
+- As Samuel turned to go away, Saul laid hold upon the skirt of his mantle and it rent, and Samuel said, the Lord hath rent the kingdom of Israel from thee this day and hath given it to a neighbour of thine that is better than thou.
+
+
+## Class Questions
+
+- **Who is Jesus the son of Nun in Ecclesiasticus 46?** Joshua. It is the same name with the same meaning: Yehoshua, Yeshua, Jesus.
+- **What tribe was Joshua from?** Ephraim, as Numbers 13:8 names him: of the tribe of Ephraim, Oshea the son of Nun.
+- **Who made it out of Egypt out of that generation?** All those twenty and under, and Joshua and Caleb.
+- **Why did Moses tell Joshua to be of good courage?** Because of all he had just seen die and what he was about to take on: a stiffnecked nation and a land he had to go and get.
+- **What does it mean that none went out of Jericho and none came in?** It was martial law, declared by the Canaanites because of the children of Israel.
+- **What tribe was Caleb from?** Judah: of the tribe of Judah, Caleb the son of Jephunneh.
+- **What did Caleb's seed obtain?** Hebron, the inheritance given him because he wholly followed the Lord God of Israel.
+- **Why was Samuel the last judge?** Because after him came King Saul, and Israel went into kingship.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=rlhDrWiUMVs)
