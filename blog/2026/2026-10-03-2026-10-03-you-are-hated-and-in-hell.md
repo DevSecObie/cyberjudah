@@ -9,7 +9,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-03</p>
 
-<span class="opens"><b>Opens</b> [Wis 18](/bible/wisdom-of-solomon/18) · [Eccl 3](/bible/ecclesiastes/3) · [Deut 7](/bible/deuteronomy/7) · [Exod 4](/bible/exodus/4) · [Rom 9](/bible/romans/9) · [2 Esdras 11](/bible/2-esdras/11) · [Amos 3](/bible/amos/3) · [John 15](/bible/john/15) · [Hos 5](/bible/hosea/5) · [Deut 28](/bible/deuteronomy/28) · [Judg 2](/bible/judges/2) · [Ezek 5](/bible/ezekiel/5) · [Isa 5](/bible/isaiah/5) · [Ps 44](/bible/psalms/44) · [Isa 42](/bible/isaiah/42) · [Jer 2](/bible/jeremiah/2) · <i>and 14 more below</i></span>
+<span class="opens"><b>Opens</b> [Wis 18](/bible/wisdom-of-solomon/18) · [Eccl 3](/bible/ecclesiastes/3) · [Deut 7](/bible/deuteronomy/7) · [Exod 4](/bible/exodus/4) · [Ps 89](/bible/psalms/89) · [Rom 9](/bible/romans/9) · [2 Esdras 11](/bible/2-esdras/11) · [Amos 3](/bible/amos/3) · [John 15](/bible/john/15) · [Hos 5](/bible/hosea/5) · [Deut 28](/bible/deuteronomy/28) · [Judg 2](/bible/judges/2) · [Ezek 5](/bible/ezekiel/5) · [Isa 5](/bible/isaiah/5) · [Ps 44](/bible/psalms/44) · [Isa 42](/bible/isaiah/42) · <i>and 15 more below</i></span>
 
 <!-- truncate -->
 
@@ -21,9 +21,9 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 ## In The News
 
-- *[[20:36](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1236s)]* **A white woman explaining why white people hate black people** — Let her tell it, because when we tell it we are called racist. She says the cruelty of slavery comes down through their DNA: that is the perpetual hatred, and Esau cannot change.
-- *[[27:17](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1637s)]* **A black man from the 1960s demanding that America keep its word on freedom and justice** — They are not going to give us anything. When one people oppresses another, that is war, as at Tulsa, Oklahoma.
-- *[[32:06](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1926s)]* **A reading on the black Jews who fled into the interior of Africa after 70 AD (the Timbuktu snapshot, page 86)** — We carried our culture, history, laws and written record with us, which gave us a higher social organization: kings, judges, architects, doctors, craftsmen. That is nation building, and it comes from the Bible.
+- *[[20:36](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1236s)]* **The Edomite woman explaining why white people hate black people** — Let her tell it, because when we tell it we are called racist. She says the cruelty of slavery comes down through their DNA: that is the perpetual hatred, and Esau cannot change. Can a leopard change his spots? No. Nolan Wells's family should be praying for destruction of their enemies every night: send a hurricane and have the meteorologist call it Hurricane Nolan. Destroy Ocean Springs. Wipe that place out. Destroy their posterity. Cut off their children. That is what they should be praying for.
+- *[[27:17](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1637s)]* **A black man from the 1960s demanding that America keep its word on freedom and justice** — They are not going to give us anything. When one people oppresses another, that is war, as at Tulsa, Oklahoma, the first time the US government ever dropped bombs on people. That is that perpetual hatred; they will always hate us no matter what you do. Nolan Wells had to learn the hard way: how can you be comfortable the only Jake on a boat full of red pasty milky Edomite devils?
+- *[[32:06](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1926s)]* **A reading on the black Jews who fled into the interior of Africa after 70 AD (the Timbuktu snapshot, about page 86 as he had it)** — We carried our culture, history, laws and written record with us, which gave us a higher social organization: kings, judges, architects, doctors, craftsmen. That is nation building, and it comes from the Bible.
 - *[[37:24](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=2244s)]* **A memorandum to Nixon describing the Igbos as the wandering Jews of West Africa** — The white man knows who we are: gifted, aggressive, westernized, at best envied and resented, and mostly despised by their neighbors. All nations hate us, the Hamites too, not only Esau.
 - *[[50:26](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3026s)]* **The Jim Crow Museum and the Wikipedia list of anti-black slurs** — The restaurants, kitchen products, lawn jockeys, cartoons and slurs show that we became an astonishment, a proverb and a byword among all nations, just as Deuteronomy 28:37 says. Show the children: these are not things only of yesterday.
 - *[[1:05:09](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3909s)]* **A former mercenary describing a planned 1981-82 coup in Haiti backed by the Vatican, the CIA and Mobil Oil, including buying a nuclear device** — The Most High is allowing them to tell on themselves: the plot was to steal resources, the fruit of thy land eaten up by a nation thou knowest not.
@@ -40,6 +40,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 - The salvation of the righteous is the only people that is going to be saved, which is one third of our people.
 
 - The destruction of the enemies is the part our people have a humongous problem with. They want the other nations saved, but God is not giving you an option: you have to accept both.
+
+- Look at what is going on in the news with Nolan Wells: our people praying for justice, hoping justice comes, finding evidence of wrongdoing, but Esau just like, nah, we're not going to include that. We are a hated people, and not only in the United States of America: the Caribbean islands, Europe, wherever the Most High scattered us.
 
 
 **[Ecclesiastes 3:18](/bible/ecclesiastes/3#v18)**  *[[7:12](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=432s)]*
@@ -80,13 +82,38 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - The firstborn receives all the inheritance and the blessings of the father. The covenants, promises and kingdom of God belong to us, joint heirs with Christ.
 
-- Psalms 89:27: spoken to King David and going into his descendants, whom we are. God makes him his firstborn, higher than the kings of the earth, and that is what the nations hate about us.
-
   Precepts:
   - **[Jeremiah 31:9](/bible/jeremiah/31#v9)**
     > <sup>[9](/bible/jeremiah/31#v9)</sup> They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.
 
     God is talking about the Israelites only. We stumbled wherever we were scattered by following the religions and philosophies of the nations; he will make us walk a straight way. I am a father to Israel, and Israel only: that is what makes us sons of God.
+
+
+**[Psalms 89:7,22-27](/bible/psalms/89#v7)**  *[[15:52](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=952s)]*
+
+> <sup>[7](/bible/psalms/89#v7)</sup> God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him.
+>
+> <sup>[22](/bible/psalms/89#v22)</sup> The enemy shall not exact upon him; nor the son of wickedness afflict him.
+>
+> <sup>[23](/bible/psalms/89#v23)</sup> And I will beat down his foes before his face, and plague them that hate him.
+>
+> <sup>[24](/bible/psalms/89#v24)</sup> But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted.
+>
+> <sup>[25](/bible/psalms/89#v25)</sup> I will set his hand also in the sea, and his right hand in the rivers.
+>
+> <sup>[26](/bible/psalms/89#v26)</sup> He shall cry unto me, Thou art my father, my God, and the rock of my salvation.
+>
+> <sup>[27](/bible/psalms/89#v27)</sup> Also I will make him my firstborn, higher than the kings of the earth.
+
+- He called for the whole chapter because the whole chapter is bad: God promised that if we repent under his son, sent to die only for the nation of Israel, we may get the kingdom of God.
+
+- He is going to throw them a beating. He is going to beat down our foes before our face, and plague them that hate him, that hate us.
+
+- He is speaking to King David here, but he is also going into the offspring, the descendants of King David, whom we are.
+
+- And in my name shall his horn be exalted: that is Christ.
+
+- Higher than the kings of the earth. This is what the nations hate about us, us being the firstborn of the Most High.
 
 
 **[Romans 9:3-4](/bible/romans/9#v3)**  *[[17:32](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1052s)]*
@@ -101,9 +128,15 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - To whom pertaineth means who does this belong to. The adoption into the new covenant, the glory, the covenants old and new, the giving of the law, the service of God and the promises belong only to the Israelites, not the Hamites, Moabites or Ammonites.
 
-- Romans 8:14: It is not enough that we were chosen and given God's laws; when we apply them and are led by the spirit, we are the sons of God.
+  Precepts:
+  - **[Romans 8:14](/bible/romans/8#v14)**
+    > <sup>[14](/bible/romans/8#v14)</sup> For as many as are led by the Spirit of God, they are the sons of God.
 
-- 1 John 3:10: Whosoever does not do righteousness is not of God. If you are not applying the law you are the son of the devil, just like a heathen, and you will get the same thing they get.
+    It is not enough that we were chosen and given God's laws; when we apply them and are led by the spirit, we are the sons of God.
+  - **[1 John 3:10](/bible/1-john/3#v10)**
+    > <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
+
+    Whosoever does not do righteousness is not of God. If you are not applying the law you are the son of the devil, just like a heathen, and you will get the same thing they get.
 
 
 **[2 Esdras 11:40](/bible/2-esdras/11#v40)**  *[[26:12](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1572s)]*
@@ -170,7 +203,11 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - If we do not apply his laws, all these curses shall come upon us and overtake us. That is how bad our condition got when God turned his back on us.
 
-- Deuteronomy 27:26: our forefathers that came up out of Egypt said Amen. We agreed to the covenant and everything written in it.
+  Precepts:
+  - **[Deuteronomy 27:26](/bible/deuteronomy/27#v26)**
+    > <sup>[26](/bible/deuteronomy/27#v26)</sup> Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen.
+
+    Our forefathers that came up out of Egypt said Amen to this. We agreed to the covenant and to everything written in it.
 
 
 **[Judges 2:14](/bible/judges/2#v14)**  *[[45:40](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=2740s)]*
@@ -259,9 +296,23 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - That is what many of these unreasonable C-sections are for, to weaken the woman's body so she cannot produce or hold children. There is so much evil in the medical field that we do not know about.
 
-- Deuteronomy 28:64: scattered from one end of the earth to the other to serve gods we did not know, Christianity and Islam, the bloodiest and most dominant religions our people struggle with.
+  Precepts:
+  - **[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**
+    > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
-- Deuteronomy 28:65: even the sole of your foot shall have no rest. The prophecy was and is still being fulfilled, as Lamentations 1:3 says that Judah dwells among the heathen and finds no rest, and so do all the other tribes.
+    The other gods we were scattered to serve are Christianity and Islam, and even wood and stone. Those two are the bloodiest and most dominant religions our people struggle with.
+  - **[Leviticus 26:33](/bible/leviticus/26#v33)**
+    > <sup>[33](/bible/leviticus/26#v33)</sup> And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.
+
+    He brought this straight after Deuteronomy 28:64, out of the law of Moses, on the same scattering.
+  - **[Deuteronomy 28:65](/bible/deuteronomy/28#v65)**
+    > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
+
+    Deuteronomy predicted it, and this prophecy was and is currently still being fulfilled: we are not in the land of our rest.
+  - **[Lamentations 1:3](/bible/lamentations/1#v3)**
+    > <sup>[3](/bible/lamentations/1#v3)</sup> Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
+
+    Jeremiah lamented the same thing. He findeth no rest wherever Judah is at, and so do all the other tribes, not just Judah.
 
 
 **[Ezekiel 5:10](/bible/ezekiel/5#v10)**  *[[1:14:09](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=4449s)]*
@@ -270,7 +321,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - This happened during the time of Babylon, and again in 70 AD under Rome, when the food and water were cut off and we started to eat each other.
 
-- It happened to us on this side too. On a Portuguese slave ship in 1837 the captain and crew forced the slaves to eat another slave named Mina; the British vessel HMS Snake captured the ship off Cuba and brought it to Jamaica, where the others told of the atrocities. The book The Delectable Negro gives other accounts.
+- It happened to us on this side too. On a Portuguese slave ship in 1837 the captain and crew forced the slaves to eat another slave named Mina, while the Edomite ate his heart and liver; the British vessel HMS Snake captured the ship off Cuba and brought it to Jamaica, where the others told of the atrocities. The book The Delectable Negro gives other accounts.
 
   Precepts:
   - **[Deuteronomy 28:52-53](/bible/deuteronomy/28#v52)**
@@ -312,10 +363,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - Therefore hell, meaning everything stated in verse 13, the captivity, hath enlarged herself.
 
-- Psalms 18:5-6: the sorrows of hell. The hell he is speaking of is sorrow and distress.
-
-- Psalms 79:7-8: the nations have devoured Jacob, and being brought very low, to a low estate, is also hell.
-
   Precepts:
   - **[Jonah 2:1-2](/bible/jonah/2#v1)**
     > <sup>[1](/bible/jonah/2#v1)</sup> Then Jonah prayed unto the Lord his God out of the fish’s belly,
@@ -323,6 +370,18 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
     > <sup>[2](/bible/jonah/2#v2)</sup> And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice.
 
     Hell is also confinement: Jonah's affliction was being swallowed up, and the fish's belly was his small captivity hell; that is the state of the black man in America and abroad.
+  - **[Psalms 18:5-6](/bible/psalms/18#v5)**
+    > <sup>[5](/bible/psalms/18#v5)</sup> The sorrows of hell compassed me about: the snares of death prevented me.
+    >
+    > <sup>[6](/bible/psalms/18#v6)</sup> In my distress I called upon the Lord, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.
+
+    The hell he is speaking of here is sorrow and distress.
+  - **[Psalms 79:7-8](/bible/psalms/79#v7)**
+    > <sup>[7](/bible/psalms/79#v7)</sup> For they have devoured Jacob, and laid waste his dwelling place.
+    >
+    > <sup>[8](/bible/psalms/79#v8)</sup> O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.
+
+    They that devoured Jacob are the other nations, and Jacob is the Israelites; being brought very low, to a low estate, is also hell.
 
 
 **[Psalms 44:19-26](/bible/psalms/44#v19)**  *[[1:27:27](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=5247s)]*
@@ -362,11 +421,19 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - Robbed, as Deuteronomy 28:33 says: in Papua New Guinea the tribes of Naphtali and Benjamin export 98 percent of their resources to Australia and Britain, then have to import them back and pay interest. That is being dominated.
 
-- Isaiah 42:7: we are the prisoners in the prison house, the ones that sit in darkness.
+  Precepts:
+  - **[Isaiah 42:7](/bible/isaiah/42#v7)**
+    > <sup>[7](/bible/isaiah/42#v7)</sup> To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.
 
-- Wisdom of Solomon 17:2: unrighteous men oppress the holy nation, prisoners of darkness exiled from the eternal providence. That has been us this whole time.
+    We are the prisoners in the prison house, the ones that sit in darkness.
+  - **[Wisdom of Solomon 17:2](/bible/wisdom-of-solomon/17#v2)**
+    > <sup>[2](/bible/wisdom-of-solomon/17#v2)</sup> For when unrighteous men thought to oppress the holy nation; they being shut up in their houses, the prisoners of darkness, and fettered with the bonds of a long night, lay there exiled from the eternal providence.
 
-- 2 Esdras 13:40: The ten tribes were carried away prisoners out of their own land; that has always been our reputation, and God used those who hate us to enslave and chastise us because we broke his commandments.
+    Unrighteous men oppress the holy nation, prisoners of darkness exiled from the eternal providence. That has been us this whole time.
+  - **[2 Esdras 13:40](/bible/2-esdras/13#v40)**
+    > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
+
+    The ten tribes were carried away prisoners out of their own land; that has always been our reputation, and God used those who hate us to enslave and chastise us because we broke his commandments.
 
 
 **[Jeremiah 2:23-24](/bible/jeremiah/2#v23)**  *[[1:31:35](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=5495s)]*
@@ -381,7 +448,11 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - They that seek her will not weary themselves: the ones who set up these religions do not have to seek us; we go to them, because we are in heat to do wickedly.
 
-- Deuteronomy 31:29: Moses knew that after his death we would utterly corrupt ourselves with idolatry and different religions, and evil would befall us in the latter days; we spoiled ourselves.
+  Precepts:
+  - **[Deuteronomy 31:29](/bible/deuteronomy/31#v29)**
+    > <sup>[29](/bible/deuteronomy/31#v29)</sup> For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the Lord, to provoke him to anger through the work of your hands.
+
+    Moses knew that after his death we would utterly corrupt ourselves with idolatry and different religions, and that evil would befall us in the latter days; we spoiled ourselves.
 
 
 **[Isaiah 10:6](/bible/isaiah/10#v6)**  *[[1:37:40](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=5860s)]*
@@ -394,10 +465,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - We were trodden down like the mire of the streets, and we are still being stomped on this very day.
 
-- 1 Esdras 8:77: because of our sins and our fathers' we were given up to the kings of the earth for a prey with shame, until this very day.
-
-- Lamentations 3:1-6: Jeremiah was not taken into Babylon but saw the affliction of our people. Brought into darkness and not into light, compassed with gall and travail, set in dark places: that is the hell, the captivity, his people were catching.
-
   Precepts:
   - **[Ezekiel 22:25-26](/bible/ezekiel/22#v25)**
     > <sup>[25](/bible/ezekiel/22#v25)</sup> There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof.
@@ -405,6 +472,24 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
     > <sup>[26](/bible/ezekiel/22#v26)</sup> Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
     It is not just the other nations that hate us: the conspiracy of prophets is these no-good pastors and priests who devour the souls of our people destitute of knowledge, violate God's laws and hide their eyes from his Sabbaths; it is natural to be a prey to the nations, but our own should not be.
+  - **[1 Esdras 8:77](/bible/1-esdras/8#v77)**
+    > <sup>[77](/bible/1-esdras/8#v77)</sup> And for our sins and our fathers’ we with our brethren and our kings and our priests were given up unto the kings of the earth, to the sword, and to captivity, and for a prey with shame, unto this day.
+
+    Because of our sins and our fathers' we were given up to the kings of the earth for a prey, with shame, until this very day.
+  - **[Lamentations 3:1-6](/bible/lamentations/3#v1)**
+    > <sup>[1](/bible/lamentations/3#v1)</sup> I am the man that hath seen affliction by the rod of his wrath.
+    >
+    > <sup>[2](/bible/lamentations/3#v2)</sup> He hath led me, and brought me into darkness, but not into light.
+    >
+    > <sup>[3](/bible/lamentations/3#v3)</sup> Surely against me is he turned; he turneth his hand against me all the day.
+    >
+    > <sup>[4](/bible/lamentations/3#v4)</sup> My flesh and my skin hath he made old; he hath broken my bones.
+    >
+    > <sup>[5](/bible/lamentations/3#v5)</sup> He hath builded against me, and compassed me with gall and travail.
+    >
+    > <sup>[6](/bible/lamentations/3#v6)</sup> He hath set me in dark places, as they that be dead of old.
+
+    Jeremiah was not taken into Babylon but saw the affliction of our people. Brought into darkness and not into light, compassed with gall and travail, set in dark places: that is the hell, the captivity, his people were catching.
 
 
 **[Jeremiah 30:10-16](/bible/jeremiah/30#v10)**  *[[1:42:32](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6152s)]*
@@ -431,7 +516,21 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - Even though we are in this hellish condition we can still repent, and all that devour us shall be devoured; every one of our adversaries shall go into captivity.
 
-- Zechariah 8:13-15: as we were a curse among the heathen, so God will save us and we shall be a blessing. Fear not.
+- All thy lovers have forgotten thee, they seek thee not: just like this situation with Nolan Wells. Jacob is thinking the DA, the devil's assistant, the district attorney, is going to bring it forth, because in law they say you can indict a ham sandwich. The jury did not bring back an indictment although they had seen all the evidence: oh no, we do not see any evidence of foul play. Jacob is going crazy because he is depending on this Edomite dog devil to bring forth truth.
+
+- Because our sins were increased. That is why we are in hell.
+
+- Why criest thou for thine affliction? Why are you crying, Jacob? You American blacks, you Caribbean blacks, you Haitian blacks, why are you crying, when on Sunday you are still running to the church, you are still going to celebrate Christmas two months from now, and you will make an excuse to go to your auntie's house for Thanksgiving?
+
+  Precepts:
+  - **[Zechariah 8:13-15](/bible/zechariah/8#v13)**
+    > <sup>[13](/bible/zechariah/8#v13)</sup> And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong.
+    >
+    > <sup>[14](/bible/zechariah/8#v14)</sup> For thus saith the Lord of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the Lord of hosts, and I repented not:
+    >
+    > <sup>[15](/bible/zechariah/8#v15)</sup> So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.
+
+    As we were a curse among the heathen, so God will save us and we shall be a blessing. Fear not.
 
 
 **[Isaiah 14:1-3](/bible/isaiah/14#v1)**  *[[1:48:05](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6485s)]*
@@ -486,7 +585,11 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - The daughter of Babylon who is to be destroyed is Edom: future prophecy.
 
-- Lamentations 5:18: Zion was made desolate and the foxes walk upon it: Edom are the foxes, a base person, a usurper; they always wanted the land, until this very day.
+  Precepts:
+  - **[Lamentations 5:18](/bible/lamentations/5#v18)**
+    > <sup>[18](/bible/lamentations/5#v18)</sup> Because of the mountain of Zion, which is desolate, the foxes walk upon it.
+
+    Edom are the foxes that walk upon desolate Zion: a base person, a usurper. They always wanted the land, until this very day.
 
 
 **[Luke 13:31-32](/bible/luke/13#v31)**  *[[1:55:18](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6918s)]*
@@ -524,7 +627,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - They, plural, every man, woman and child, are called the border of wickedness, the beginning and pioneer of it.
 
-- Indignation for ever means for ever, not for a dispensation of time. No podcast or doctrine can change God's mind.
+- Indignation for ever means for ever, not for a dispensation of time. That is to you apologists. You stupid dumb apologists following Heymon Malone. Simple as hell. The Bible says for ever. It does not matter how many podcasts you go on, what you try to put out there or what doctrine you try to spin up, you cannot change God's mind.
 
   Precepts:
   - **[Romans 9:10-13](/bible/romans/9#v10)**
@@ -589,7 +692,15 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - We were hated but will be redeemed out of hell; Esau is hated and will not. The house of Jacob shall be a fire and the house of Esau stubble, and there shall not be any remaining.
 
-- Ezekiel 35:10: These two nations and these two countries shall be mine: they could not wait to inherit the land when Babylon carried us away, and they do the same in this present time.
+  Precepts:
+  - **[Ezekiel 35:10](/bible/ezekiel/35#v10)**
+    > <sup>[10](/bible/ezekiel/35#v10)</sup> Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:
+
+    They could not wait to inherit the land when Babylon carried us away, and they do the same in this present time.
+  - **[Galatians 6:7](/bible/galatians/6#v7)**
+    > <sup>[7](/bible/galatians/6#v7)</sup> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
+
+    Brought to prove that thy reward shall return upon thine own head: you reap what you sow. Whatever you sow, you sowed robbery, you sowed violence, you are going to reap the same thing. That is what the Most High is telling you.
 
 
 **[Isaiah 34:5-10](/bible/isaiah/34#v5)**  *[[2:17:24](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=8244s)]*
@@ -633,11 +744,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - He is red because he is slaughtering the red man and has his blood all over himself.
 
-- He treads the winepress alone because he wants to show his power, and he stains all his raiment, not just some parts of it.
+- He treads the winepress alone because he wants to show his power, and he stains all his raiment, not just some parts of it. Not just the sleeves where he used his big black hands to strangle Esau. No, to rip his head off. All of it. He is going to be soaked in blood, and that is a beautiful sight to behold.
 
 - He treads them down in his anger for the controversy of Zion and brings their strength down to a low estate.
 
-- Lamentations 4:21-22: Esau is going to drink of the same cup and the same hell we received, but his is worse, unforgiving and unquenchable. Rejoice and be glad is the Most High being sarcastic: laugh now, cry later. The punishment of the daughter of Zion is accomplished, but he will visit the iniquity of the daughter of Edom.
+  Precepts:
+  - **[Lamentations 4:21-22](/bible/lamentations/4#v21)**
+    > <sup>[21](/bible/lamentations/4#v21)</sup> Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
+    >
+    > <sup>[22](/bible/lamentations/4#v22)</sup> The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.
+
+    Esau is going to drink of the same cup and the same hell we received, but his is worse, unforgiving and unquenchable. Rejoice and be glad is the Most High being sarcastic: laugh now, cry later. The punishment of the daughter of Zion is accomplished, but he will visit the iniquity of the daughter of Edom.
 
 
 **[Isaiah 47:7-11](/bible/isaiah/47#v7)**  *[[2:23:31](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=8611s)]*
@@ -665,21 +782,29 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 >
 > <sup>[3](/bible/revelation/18#v3)</sup> For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
 
-- Revelation 17:1-2: the great whore is America, sitting upon many waters, many nations. Her allies commit fornication with her for resources and economic benefits, and the wine of her fornication is lies and philosophies, as Micah 2:11 shows.
-
 - Babylon the great, America, is fallen.
 
 - All nations have drunk of her wine because she sits on many nations and spreads her doctrine; somehow every nation has America's policies, democracy or religions.
 
-- Revelation 18:8: her plagues come in one day and she is utterly burned with fire. That is thermonuclear destruction, that hellfire.
-
-- Revelation 18:13: among her merchandise are slaves and souls of men, the slaves and souls of the Israelites.
-
   Precepts:
+  - **[Revelation 17:1-2](/bible/revelation/17#v1)**
+    > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
+    >
+    > <sup>[2](/bible/revelation/17#v2)</sup> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
+
+    The great whore is America, sitting upon many waters, many nations. Her allies commit fornication with her for resources and economic benefits, and the wine of her fornication is lies and philosophies, as Micah 2:11 shows.
   - **[Isaiah 21:9](/bible/isaiah/21#v9)**
     > <sup>[9](/bible/isaiah/21#v9)</sup> And, behold, here cometh a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.
 
     Babylon is fallen and her graven images broken; we serve many gods here, some unknowingly by wearing their apparel, and everything in this place is idolatry, so the Most High will destroy it.
+  - **[Revelation 18:13](/bible/revelation/18#v13)**
+    > <sup>[13](/bible/revelation/18#v13)</sup> And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
+
+    The slaves and souls of men among her merchandise are the slaves and souls of the Israelites.
+  - **[Revelation 18:8](/bible/revelation/18#v8)**
+    > <sup>[8](/bible/revelation/18#v8)</sup> Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judgeth her.
+
+    That is thermonuclear destruction, that hellfire, and God says she shall be utterly burned with fire.
 
 
 **[Revelation 19:2-3](/bible/revelation/19#v2)**  *[[2:30:47](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=9047s)]*
@@ -713,8 +838,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - We have to walk circumspect, because the time is at hand.
 
-- Isaiah 13:6: howl from the pain of that fire, not rejoice. We are already catching hell; we do not want the hell Esau is going to get.
-
   Precepts:
   - **[Zechariah 14:12-13](/bible/zechariah/14#v12)**
     > <sup>[12](/bible/zechariah/14#v12)</sup> And this shall be the plague wherewith the Lord will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.
@@ -722,6 +845,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
     > <sup>[13](/bible/zechariah/14#v13)</sup> And it shall come to pass in that day, that a great tumult from the Lord shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.
 
     This is the plague on all that fought against Jerusalem, the controversy of Zion: the Most High fights on our behalf, and their flesh consumes away before their bones can hit the pavement.
+  - **[Isaiah 13:6](/bible/isaiah/13#v6)**
+    > <sup>[6](/bible/isaiah/13#v6)</sup> Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
+
+    Howl from the pain of that fire, not rejoice. We are already catching hell; we do not want the hell Esau is going to get.
 
 
 **[Revelation 19:7](/bible/revelation/19#v7)**  *[[2:36:14](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=9374s)]*
