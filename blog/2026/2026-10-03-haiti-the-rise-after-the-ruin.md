@@ -3,14 +3,14 @@ title: "Haiti: the Rise After the Ruin"
 slug: "2026/2026-10-03-haiti-the-rise-after-the-ruin"
 date: "2026-10-03"
 description: "Haiti's rise after ruin"
-tags: ["IUIC in the ClassRoom", "haiti", "israel", "captivity", "marriage-family", "witchcraft"]
+tags: ["IUIC in the ClassRoom", "nations", "passover-feasts", "prophecy", "the-body"]
 teacher: "Bishop Nathanyel"
 draft: true
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-03</p>
 
-<span class="opens"><b>Opens</b> [Psal 19](/bible/psalms/19) · [Deut 33](/bible/deuteronomy/33) · [Job 11](/bible/job/11) · [Deut 28](/bible/deuteronomy/28) · [1 Cor 14](/bible/1-corinthians/14) · [1 Pet 3](/bible/1-peter/3) · [Gene 49](/bible/genesis/49) · [Hebr 1](/bible/hebrews/1) · [Zeph 2](/bible/zephaniah/2) · [Isai 2](/bible/isaiah/2) · [Deut 18](/bible/deuteronomy/18) · [Acts 7](/bible/acts/7) · [Amos 5](/bible/amos/5) · [Psal 124](/bible/psalms/124) · [Mala 2](/bible/malachi/2) · [Numb 23](/bible/numbers/23) · [Acts 12](/bible/acts/12) · [Eccl 4](/bible/ecclesiastes/4) · [Jere 50](/bible/jeremiah/50) · [Psal 44](/bible/psalms/44) · [Psal 55](/bible/psalms/55) · [Psal 119](/bible/psalms/119) · [Ephe 4](/bible/ephesians/4) · [Levi 19](/bible/leviticus/19) · [Roma 11](/bible/romans/11) · [Reve 7](/bible/revelation/7) · [Isai 8](/bible/isaiah/8) · [Gene 35](/bible/genesis/35) · [Mala 3](/bible/malachi/3) · [Mica 5](/bible/micah/5) · [2 Esd 1](/bible/2-esdras/1) · [Hebr 13](/bible/hebrews/13) · [1 Cor 11](/bible/1-corinthians/11)</span>
+<span class="opens"><b>Opens</b> [Ps 19](/bible/psalms/19) · [Deut 33](/bible/deuteronomy/33) · [Job 11](/bible/job/11) · [Deut 28](/bible/deuteronomy/28) · [1 Cor 14](/bible/1-corinthians/14) · [1 Pet 3](/bible/1-peter/3) · [Gen 49](/bible/genesis/49) · [Heb 1](/bible/hebrews/1) · [Zeph 2](/bible/zephaniah/2) · [Isa 2](/bible/isaiah/2) · [Deut 18](/bible/deuteronomy/18) · [Acts 7](/bible/acts/7) · [Amos 5](/bible/amos/5) · [Ps 124](/bible/psalms/124) · [Mal 2](/bible/malachi/2) · [Num 23](/bible/numbers/23) · <i>and 17 more below</i></span>
 
 <!-- truncate -->
 
