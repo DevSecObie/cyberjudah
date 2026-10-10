@@ -2,7 +2,7 @@
 title: "The Kingdom Of Adam And The Old World"
 slug: "2025/2025-12-26-the-kingdom-of-adam-and-the-old-world"
 date: "2025-12-26"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2025-12-26"
 tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
 ---
