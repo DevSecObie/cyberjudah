@@ -3470,12 +3470,15 @@
       "duration": 298.62,
       "sha1": "fd5930e88e3fc7dec62c2464aaaae9f373f88d73",
       "bytes": 4781993,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 1 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/obadiah/1.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_082_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_083_kjv_128kb.mp3",
@@ -4625,12 +4628,15 @@
       "duration": 210.32,
       "sha1": "33d3dd4f0f1f0dc35d5408716453fd6602b7503e",
       "bytes": 3369259,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 6 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/philemon/1.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_117_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_118_kjv_128kb.mp3",
@@ -4813,12 +4819,15 @@
       "duration": 161.31,
       "sha1": "bb8543c574f10ec505690379303953bcd4003ec5",
       "bytes": 2585584,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 2 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/2-john/1.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_123_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_124_kjv_128kb.mp3",
@@ -4840,12 +4849,15 @@
       "duration": 158.12,
       "sha1": "0370fabc5e93c582fdf25a202b84576c19c5b9dd",
       "bytes": 2534593,
-      "quality": "Noise and level not yet audited; spoken text requires alignment against our KJV.",
-      "status": "pending-alignment",
-      "timingFiles": [],
+      "quality": "Forced aligned against repository KJV; 3 verses need listening review. Noise/volume need listening review.",
+      "status": "needs-review",
+      "timingFiles": [
+        "michael-armenta/3-john/1.json"
+      ],
       "mirrors": [
         "https://dn710603.ca.archive.org/0/items/bible_kjv_complete_2001_librivox/bible_124_kjv_128kb.mp3"
-      ]
+      ],
+      "alignmentErrors": []
     },
     {
       "id": "bible_kjv_complete_2001_librivox/bible_125_kjv_128kb.mp3",
