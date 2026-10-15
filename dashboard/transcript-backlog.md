@@ -1,6 +1,6 @@
 # Transcript Backlog Dashboard
 
-Last checked: 2026-10-15T13:26:31.441330+00:00
+Last checked: 2026-10-15T18:18:36.754491+00:00
 
 | Feed | Channel | Videos | In Vault | To Fetch | Progress | No Caption/Age-Restricted |
 |---|---|---:|---:|---:|---:|---:|
