@@ -1,0 +1,510 @@
+---
+title: "Tabernacles the Goodly Boughs"
+slug: "2026/2026-10-10-tabernacles-the-goodly-boughs"
+date: "2026-10-10"
+teacher: "Deacon Malachiyah"
+description: "IUIC in the ClassRoom · 2026-10-10"
+tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "sabbath"]
+---
+
+<p class="taught">IUIC in the ClassRoom · 2026-10-10</p>
+
+<span class="opens"><b>Opens</b> [Ps 50](/bible/psalms/50) · [Jer 16](/bible/jeremiah/16) · [Ezek 20](/bible/ezekiel/20) · [Zech 14](/bible/zechariah/14) · [1 Cor 10](/bible/1-corinthians/10) · [Col 2](/bible/colossians/2) · [Lev 23](/bible/leviticus/23) · [2 Pet 1](/bible/2-peter/1)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="W71b00kgk0E"></div>
+
+## Introduction
+
+*[[9:34](https://www.youtube.com/watch?v=W71b00kgk0E&t=574s)]* On the first night of the feast of tabernacles, kept in the booths in the wilderness, the Deacon taught what the feast is a shadow of: Israel brought out of America back into the wilderness to dwell in booths again, and the goodly boughs that stand for the immortal body, the heavenly tabernacle, lost after Adam's sin and given back on the eighth day.
+
+## Scriptures Opened
+
+**[Psalms 50:19-21](/bible/psalms/50#v19)**  *[[15:59](https://www.youtube.com/watch?v=W71b00kgk0E&t=959s)]*
+
+> <sup>[19](/bible/psalms/50#v19)</sup> Thou givest thy mouth to evil, and thy tongue frameth deceit.
+>
+> <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
+>
+> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+
+- This is Esau, the white man: he gives his mouth to evil, speaks lies and calls himself a Jew.
+
+- He speaks against his brother, the 12 tribes of Israel, the so-called negroes, blacks and Hispanics, and lies on us.
+
+- He thought God was unjust like himself, but God is reproving the nation of Edom now: the wars in Russia and Ukraine, the rioting in France, everything happening in Europe.
+
+- God sets Israel in order before Esau's eyes. Esau says these negroes cannot organize or be on time; God answers by putting his spirit on men, first the bishops, to set structure and order in IUIC, in your house and in the nation.
+
+- The kingdom of heaven is about order and structure, so stop being late, take your life serious and learn order now.
+
+
+**[Jeremiah 16:13-16](/bible/jeremiah/16#v13)**  *[[24:27](https://www.youtube.com/watch?v=W71b00kgk0E&t=1467s)]*
+
+> <sup>[13](/bible/jeremiah/16#v13)</sup> Therefore will I cast you out of this land into a land that ye know not, neither ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.
+>
+> <sup>[14](/bible/jeremiah/16#v14)</sup> Therefore, behold, the days come, saith the Lord, that it shall no more be said, The Lord liveth, that brought up the children of Israel out of the land of Egypt;
+>
+> <sup>[15](/bible/jeremiah/16#v15)</sup> But, The Lord liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.
+>
+> <sup>[16](/bible/jeremiah/16#v16)</sup> Behold, I will send for many fishers, saith the Lord, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
+
+- We were cast out of the land of Israel, our land; it belongs neither to the Palestinians nor to the Europeans that call themselves Jews.
+
+- The land we knew not is America and every land we were brought into, where we serve other gods: the white man's religion, the Arab's religion, Christianity.
+
+- God shows us no favor here in Babylon; do not think things will get better for the negro in the land of captivity.
+
+- The land of the north is North America, Mystery Babylon. The deliverance that will be spoken of is no longer out of ancient Egypt but out of America and every land we were driven to.
+
+- Being brought back into our land is what deliverance, the so-called rapture, is about.
+
+
+**[Ezekiel 20:33-38](/bible/ezekiel/20#v33)**  *[[27:50](https://www.youtube.com/watch?v=W71b00kgk0E&t=1670s)]*
+
+> <sup>[33](/bible/ezekiel/20#v33)</sup> As I live, saith the Lord God, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:
+>
+> <sup>[34](/bible/ezekiel/20#v34)</sup> And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
+>
+> <sup>[35](/bible/ezekiel/20#v35)</sup> And I will bring you into the wilderness of the people, and there will I plead with you face to face.
+>
+> <sup>[36](/bible/ezekiel/20#v36)</sup> Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord God.
+>
+> <sup>[37](/bible/ezekiel/20#v37)</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
+>
+> <sup>[38](/bible/ezekiel/20#v38)</sup> And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
+
+- This is what the Christians call the rapture: God brings Israel out from the people, the white people and mixed multitude of America, with fury poured out at Armageddon.
+
+- He gathers you, the children of Israel, not all nations, and brings us into the wilderness of the people, most likely the same wilderness as before; you will not be floating in the sky.
+
+- In the wilderness we dwell in booths again, and he pleads with us face to face as he did with our fathers out of Egypt.
+
+- Passing under the rod is correction; the bond of the covenant is learning God's laws plainly so we do not sin again.
+
+- He purges out the rebels, those that transgress against him; they are brought out of Babylon but do not enter the land, as that whole generation did not.
+
+- Feast of tabernacles is preparation, rehearsing the righteous acts: the cold, no signal and no comforts of home will be the same again, so get your spirit right now.
+
+  Precepts:
+  - **[Hebrews 8:10](/bible/hebrews/8#v10)**
+    > <sup>[10](/bible/hebrews/8#v10)</sup> For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
+
+    The bond of the new covenant is God putting his laws in our minds and writing them in our hearts.
+  - **[Zechariah 12:10-13](/bible/zechariah/12#v10)**
+    > <sup>[10](/bible/zechariah/12#v10)</sup> And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.
+    >
+    > <sup>[11](/bible/zechariah/12#v11)</sup> In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
+    >
+    > <sup>[12](/bible/zechariah/12#v12)</sup> And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;
+    >
+    > <sup>[13](/bible/zechariah/12#v13)</sup> The family of the house of Levi apart, and their wives apart; the family of Shimei apart, and their wives apart;
+
+    In the wilderness we first see Christ, whom we pierced, and mourn for him, every family apart, knowing what house we are from.
+  - **[Zechariah 13:1-3](/bible/zechariah/13#v1)**
+    > <sup>[1](/bible/zechariah/13#v1)</sup> In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
+    >
+    > <sup>[2](/bible/zechariah/13#v2)</sup> And it shall come to pass in that day, saith the Lord of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
+    >
+    > <sup>[3](/bible/zechariah/13#v3)</sup> And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the Lord: and his father and his mother that begat him shall thrust him through when he prophesieth.
+
+    In that day Christ is the fountain for sin; the idols, false prophets and unclean spirit are cut off, and a son that prophesies lies is put to death by his own parents.
+
+
+**[Zechariah 14:16-19](/bible/zechariah/14#v16)**  *[[45:13](https://www.youtube.com/watch?v=W71b00kgk0E&t=2713s)]*
+
+> <sup>[16](/bible/zechariah/14#v16)</sup> And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the Lord of hosts, and to keep the feast of tabernacles.
+>
+> <sup>[17](/bible/zechariah/14#v17)</sup> And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the Lord of hosts, even upon them shall be no rain.
+>
+> <sup>[18](/bible/zechariah/14#v18)</sup> And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the Lord will smite the heathen that come not up to keep the feast of tabernacles.
+>
+> <sup>[19](/bible/zechariah/14#v19)</sup> This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.
+
+- Those left of all the nations are the ones not destroyed at Armageddon, the people the Lord saved to be slaves.
+
+- When Christ rules for the thousand years the nations come up yearly to worship the King and keep tabernacles outside the city, honoring Christ and the Israelites; when God rules, the nations will not be here.
+
+- They will be forced to worship at first; they must see his power before they worship a black man.
+
+- Whoever does not come up gets no rain and the plague: famine and death. That is the judgment.
+
+- Salvation is not for all nations; the kingdom is a hierarchy, Israel ruling the earth in righteousness under Christ, all nations subject to us.
+
+  Precepts:
+  - **[Isaiah 2:1-4](/bible/isaiah/2#v1)**
+    > <sup>[1](/bible/isaiah/2#v1)</sup> The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
+    >
+    > <sup>[2](/bible/isaiah/2#v2)</sup> And it shall come to pass in the last days, that the mountain of the Lord’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
+    >
+    > <sup>[3](/bible/isaiah/2#v3)</sup> And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
+    >
+    > <sup>[4](/bible/isaiah/2#v4)</sup> And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
+
+    In the last days Israel is established above every nation and all nations flow to it, but first they must be judged and rebuked.
+
+
+**[1 Corinthians 10:1-10](/bible/1-corinthians/10#v1)**  *[[58:01](https://www.youtube.com/watch?v=W71b00kgk0E&t=3481s)]*
+
+> <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
+>
+> <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
+>
+> <sup>[3](/bible/1-corinthians/10#v3)</sup> And did all eat the same spiritual meat;
+>
+> <sup>[4](/bible/1-corinthians/10#v4)</sup> And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.
+>
+> <sup>[5](/bible/1-corinthians/10#v5)</sup> But with many of them God was not well pleased: for they were overthrown in the wilderness.
+>
+> <sup>[6](/bible/1-corinthians/10#v6)</sup> Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
+>
+> <sup>[7](/bible/1-corinthians/10#v7)</sup> Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.
+>
+> <sup>[8](/bible/1-corinthians/10#v8)</sup> Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
+>
+> <sup>[9](/bible/1-corinthians/10#v9)</sup> Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
+>
+> <sup>[10](/bible/1-corinthians/10#v10)</sup> Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.
+
+- Paul was writing to Israelites scattered in Corinth, not heathens: all their fathers were under the cloud and passed through the sea.
+
+- The Rock that followed them was Christ, and it was Christ they tempted in the wilderness.
+
+- These things were our examples because Paul understood Ezekiel 20: we are going right back into the wilderness, and keeping tabernacles is rehearsing it.
+
+- At the feast stay in the spirit: no fornication, no murmuring, no evil speaking; those causing confusion now will be the rebels in the wilderness.
+
+- If you can't get it right now, you will not get it right when Christ returns.
+
+  Precepts:
+  - **[Exodus 32:6](/bible/exodus/32#v6)**
+    > <sup>[6](/bible/exodus/32#v6)</sup> And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.
+
+    Rising up to play was feasting, drinking and orgies before the calf, right after we were delivered from Egypt.
+  - **[Numbers 25:1-9](/bible/numbers/25#v1)**
+    > <sup>[1](/bible/numbers/25#v1)</sup> And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
+    >
+    > <sup>[2](/bible/numbers/25#v2)</sup> And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
+    >
+    > <sup>[3](/bible/numbers/25#v3)</sup> And Israel joined himself unto Baal–peor: and the anger of the Lord was kindled against Israel.
+    >
+    > <sup>[4](/bible/numbers/25#v4)</sup> And the Lord said unto Moses, Take all the heads of the people, and hang them up before the Lord against the sun, that the fierce anger of the Lord may be turned away from Israel.
+    >
+    > <sup>[5](/bible/numbers/25#v5)</sup> And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal–peor.
+    >
+    > <sup>[6](/bible/numbers/25#v6)</sup> And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
+    >
+    > <sup>[7](/bible/numbers/25#v7)</sup> And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;
+    >
+    > <sup>[8](/bible/numbers/25#v8)</sup> And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.
+    >
+    > <sup>[9](/bible/numbers/25#v9)</sup> And those that died in the plague were twenty and four thousand.
+
+    Whoredom with strange women led Israel to their gods; the Lord had the heads hanged up and 24,000 died in the plague.
+  - **[Numbers 21:5-7](/bible/numbers/21#v5)**
+    > <sup>[5](/bible/numbers/21#v5)</sup> And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread.
+    >
+    > <sup>[6](/bible/numbers/21#v6)</sup> And the Lord sent fiery serpents among the people, and they bit the people; and much people of Israel died.
+    >
+    > <sup>[7](/bible/numbers/21#v7)</sup> Therefore the people came to Moses, and said, We have sinned, for we have spoken against the Lord, and against thee; pray unto the Lord, that he take away the serpents from us. And Moses prayed for the people.
+
+    Murmuring against God and Moses over the bread brought the fiery serpents; there will be no Popeye's or McDonald's in the wilderness either.
+  - **[Matthew 20:1-3,8-16](/bible/matthew/20#v1)**
+    > <sup>[1](/bible/matthew/20#v1)</sup> For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.
+    >
+    > <sup>[2](/bible/matthew/20#v2)</sup> And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.
+    >
+    > <sup>[3](/bible/matthew/20#v3)</sup> And he went out about the third hour, and saw others standing idle in the marketplace,
+    >
+    > <sup>[8](/bible/matthew/20#v8)</sup> So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them their hire, beginning from the last unto the first.
+    >
+    > <sup>[9](/bible/matthew/20#v9)</sup> And when they came that were hired about the eleventh hour, they received every man a penny.
+    >
+    > <sup>[10](/bible/matthew/20#v10)</sup> But when the first came, they supposed that they should have received more; and they likewise received every man a penny.
+    >
+    > <sup>[11](/bible/matthew/20#v11)</sup> And when they had received it, they murmured against the goodman of the house,
+    >
+    > <sup>[12](/bible/matthew/20#v12)</sup> Saying, These last have wrought but one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.
+    >
+    > <sup>[13](/bible/matthew/20#v13)</sup> But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?
+    >
+    > <sup>[14](/bible/matthew/20#v14)</sup> Take that thine is, and go thy way: I will give unto this last, even as unto thee.
+    >
+    > <sup>[15](/bible/matthew/20#v15)</sup> Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?
+    >
+    > <sup>[16](/bible/matthew/20#v16)</sup> So the last shall be first, and the first last: for many be called, but few chosen.
+
+    The penny is the kingdom; in the wilderness some will murmur that others were made equal or over them, and many are called but few chosen.
+  - **[Luke 19:27](/bible/luke/19#v27)**
+    > <sup>[27](/bible/luke/19#v27)</sup> But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
+
+    The enemies who would not have him reign are the rebels in the wilderness that will not listen to the men Christ sets up.
+
+
+**[Colossians 2:16-17](/bible/colossians/2#v16)**  *[[1:19:36](https://www.youtube.com/watch?v=W71b00kgk0E&t=4776s)]*
+
+> <sup>[16](/bible/colossians/2#v16)</sup> Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:
+>
+> <sup>[17](/bible/colossians/2#v17)</sup> Which are a shadow of things to come; but the body is of Christ.
+
+- Let no man judge you concerning the holy days, new moons or sabbaths.
+
+- Every high holy day is a shadow of things to come; dwelling in booths is a shadow of something to come.
+
+  Precepts:
+  - **[Psalms 119:18](/bible/psalms/119#v18)**
+    > <sup>[18](/bible/psalms/119#v18)</sup> Open thou mine eyes, that I may behold wondrous things out of thy law.
+
+    There are wondrous things in the law, even in how we keep tabernacles, and God must open your eyes to see them; none of the feasts were commanded for no reason.
+
+
+**[Leviticus 23:1-3](/bible/leviticus/23#v1)**  *[[1:22:12](https://www.youtube.com/watch?v=W71b00kgk0E&t=4932s)]*
+
+> <sup>[1](/bible/leviticus/23#v1)</sup> And the Lord spake unto Moses, saying,
+>
+> <sup>[2](/bible/leviticus/23#v2)</sup> Speak unto the children of Israel, and say unto them, Concerning the feasts of the Lord, which ye shall proclaim to be holy convocations, even these are my feasts.
+>
+> <sup>[3](/bible/leviticus/23#v3)</sup> Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the Lord in all your dwellings.
+
+- These are the Lord's feasts.
+
+- The seventh day is the sabbath of the Lord, the Lord's sabbath, created for him.
+
+- God's rest is not a day or a nap; he was not tired. It is a place entered into: paradise, the kingdom.
+
+  Precepts:
+  - **[Matthew 12:8](/bible/matthew/12#v8)**
+    > <sup>[8](/bible/matthew/12#v8)</sup> For the Son of man is Lord even of the sabbath day.
+
+    The Son of man is Lord of the sabbath: the sabbath was created for Christ.
+  - **[Revelation 1:10](/bible/revelation/1#v10)**
+    > <sup>[10](/bible/revelation/1#v10)</sup> I was in the Spirit on the Lord’s day, and heard behind me a great voice, as of a trumpet,
+
+    The Lord's day is the sabbath.
+  - **[Hebrews 4:3-10](/bible/hebrews/4#v3)**
+    > <sup>[3](/bible/hebrews/4#v3)</sup> For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
+    >
+    > <sup>[4](/bible/hebrews/4#v4)</sup> For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
+    >
+    > <sup>[5](/bible/hebrews/4#v5)</sup> And in this place again, If they shall enter into my rest.
+    >
+    > <sup>[6](/bible/hebrews/4#v6)</sup> Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:
+    >
+    > <sup>[7](/bible/hebrews/4#v7)</sup> Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
+    >
+    > <sup>[8](/bible/hebrews/4#v8)</sup> For if Jesus had given them rest, then would he not afterward have spoken of another day.
+    >
+    > <sup>[9](/bible/hebrews/4#v9)</sup> There remaineth therefore a rest to the people of God.
+    >
+    > <sup>[10](/bible/hebrews/4#v10)</sup> For he that is entered into his rest, he also hath ceased from his own works, as God did from his.
+
+    Believers enter into rest, a certain place; the rest that remains to the people of God is the kingdom, where we cease from our works.
+
+
+**[2 Peter 1:14-15](/bible/2-peter/1#v14)**  *[[1:31:34](https://www.youtube.com/watch?v=W71b00kgk0E&t=5494s)]*
+
+> <sup>[14](/bible/2-peter/1#v14)</sup> Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.
+>
+> <sup>[15](/bible/2-peter/1#v15)</sup> Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.
+
+- Peter's tabernacle is his body: tabernacles means not only the booths but this flesh.
+
+- Christ showed him he was going to die; this flesh must die to put off the tabernacle, which scripture calls transfiguration.
+
+
+**[Leviticus 23:34-36](/bible/leviticus/23#v34)**  *[[1:33:29](https://www.youtube.com/watch?v=W71b00kgk0E&t=5609s)]*
+
+> <sup>[34](/bible/leviticus/23#v34)</sup> Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the Lord.
+>
+> <sup>[35](/bible/leviticus/23#v35)</sup> On the first day shall be an holy convocation: ye shall do no servile work therein.
+>
+> <sup>[36](/bible/leviticus/23#v36)</sup> Seven days ye shall offer an offering made by fire unto the Lord: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the Lord: it is a solemn assembly; and ye shall do no servile work therein.
+
+- Tonight, the fifteenth day of the seventh month, begins the feast of tabernacles, Sukkot, dwelling in booths, for seven days.
+
+- It is much more than dwelling in booths.
+
+- The first day and the eighth day are holy convocations; what those two days mean comes later in the class.
+
+
+**[Leviticus 23:39-41](/bible/leviticus/23#v39)**  *[[1:35:06](https://www.youtube.com/watch?v=W71b00kgk0E&t=5706s)]*
+
+> <sup>[39](/bible/leviticus/23#v39)</sup> Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the Lord seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.
+>
+> <sup>[40](/bible/leviticus/23#v40)</sup> And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the Lord your God seven days.
+>
+> <sup>[41](/bible/leviticus/23#v41)</sup> And ye shall keep it a feast unto the Lord seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.
+
+- A bough is the large thick limb that branches off the shaft of the tree, not the leaves or small branches; the goodly boughs are the best.
+
+- Adam was the tree in the garden of God, and the goodly boughs cut off with him are the righteous, Israel, in our immortal body; when Adam sinned the water from the Father stopped and we all fell and were born in this flesh.
+
+- The goodly boughs we build the booth with represent the tabernacle we have in the heavens, the body we lost after Adam's sin and are working to get back.
+
+- The first day is a sabbath because on the first day, before sin, we were with the Lord in our immortal body.
+
+- The eighth day is a sabbath because when the Most High touches down this corrupt flesh dies and we get back our tabernacle from heaven.
+
+- The feast of the Lord is receiving the glorious garments, the white robes; then the tabernacle of God is with men and there is no more death.
+
+  Precepts:
+  - **[Ezekiel 31:2-3,7-17](/bible/ezekiel/31#v2)**
+    > <sup>[2](/bible/ezekiel/31#v2)</sup> Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness?
+    >
+    > <sup>[3](/bible/ezekiel/31#v3)</sup> Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
+    >
+    > <sup>[7](/bible/ezekiel/31#v7)</sup> Thus was he fair in his greatness, in the length of his branches: for his root was by great waters.
+    >
+    > <sup>[8](/bible/ezekiel/31#v8)</sup> The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the chesnut trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty.
+    >
+    > <sup>[9](/bible/ezekiel/31#v9)</sup> I have made him fair by the multitude of his branches: so that all the trees of Eden, that were in the garden of God, envied him.
+    >
+    > <sup>[10](/bible/ezekiel/31#v10)</sup> Therefore thus saith the Lord God; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;
+    >
+    > <sup>[11](/bible/ezekiel/31#v11)</sup> I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.
+    >
+    > <sup>[12](/bible/ezekiel/31#v12)</sup> And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him.
+    >
+    > <sup>[13](/bible/ezekiel/31#v13)</sup> Upon his ruin shall all the fowls of the heaven remain, and all the beasts of the field shall be upon his branches:
+    >
+    > <sup>[14](/bible/ezekiel/31#v14)</sup> To the end that none of all the trees by the waters exalt themselves for their height, neither shoot up their top among the thick boughs, neither their trees stand up in their height, all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit.
+    >
+    > <sup>[15](/bible/ezekiel/31#v15)</sup> Thus saith the Lord God; In the day when he went down to the grave I caused a mourning: I covered the deep for him, and I restrained the floods thereof, and the great waters were stayed: and I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
+    >
+    > <sup>[16](/bible/ezekiel/31#v16)</sup> I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.
+    >
+    > <sup>[17](/bible/ezekiel/31#v17)</sup> They also went down into hell with him unto them that be slain with the sword; and they that were his arm, that dwelt under his shadow in the midst of the heathen.
+
+    Pharaoh is compared to Adam, the cedar of the garden of God; his boughs and branches are us, broken off and delivered unto death with him.
+  - **[2 Esdras 7:6-14](/bible/2-esdras/7#v6)**
+    > <sup>[6](/bible/2-esdras/7#v6)</sup> There is also another thing; A city is builded, and set upon a broad field, and is full of all good things:
+    >
+    > <sup>[7](/bible/2-esdras/7#v7)</sup> The entrance thereof is narrow, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water:
+    >
+    > <sup>[8](/bible/2-esdras/7#v8)</sup> And one only path between them both, even between the fire and the water, so small that there could but one man go there at once.
+    >
+    > <sup>[9](/bible/2-esdras/7#v9)</sup> If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
+    >
+    > <sup>[10](/bible/2-esdras/7#v10)</sup> And I said, It is so, Lord. Then said he unto me, Even so also is Israel’s portion.
+    >
+    > <sup>[11](/bible/2-esdras/7#v11)</sup> Because for their sakes I made the world: and when Adam transgressed my statutes, then was decreed that now is done.
+    >
+    > <sup>[12](/bible/2-esdras/7#v12)</sup> Then were the entrances of this world made narrow, full of sorrow and travail: they are but few and evil, full of perils,: and very painful.
+    >
+    > <sup>[13](/bible/2-esdras/7#v13)</sup> For the entrances of the elder world were wide and sure, and brought immortal fruit.
+    >
+    > <sup>[14](/bible/2-esdras/7#v14)</sup> If then they that live labour not to enter these strait and vain things, they can never receive those that are laid up for them.
+
+    The city is paradise; for Israel's sake the world was made, and when Adam transgressed the wide entrances of the elder world were made narrow.
+  - **[Wisdom of Solomon 2:23-24](/bible/wisdom-of-solomon/2#v23)**
+    > <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
+    >
+    > <sup>[24](/bible/wisdom-of-solomon/2#v24)</sup> Nevertheless through envy of the devil came death into the world: and they that do hold of his side do find it.
+
+    God created man to be immortal; through the devil's envy death came, and all Adam's sons lost their immortal body.
+  - **[Isaiah 61:3](/bible/isaiah/61#v3)**
+    > <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
+
+    The trees of righteousness, the planting of the Lord, are the Israelites.
+  - **[2 Corinthians 5:1-4](/bible/2-corinthians/5#v1)**
+    > <sup>[1](/bible/2-corinthians/5#v1)</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
+    >
+    > <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
+    >
+    > <sup>[3](/bible/2-corinthians/5#v3)</sup> If so be that being clothed we shall not be found naked.
+    >
+    > <sup>[4](/bible/2-corinthians/5#v4)</sup> For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
+
+    This flesh is the earthly tabernacle; we groan to be clothed with our house from heaven, the eternal tabernacle the goodly boughs stand for.
+  - **[2 Esdras 7:30-31](/bible/2-esdras/7#v30)**
+    > <sup>[30](/bible/2-esdras/7#v30)</sup> And the world shall be turned into the old silence seven days, like as in the former judgments: so that no man shall remain.
+    >
+    > <sup>[31](/bible/2-esdras/7#v31)</sup> And after seven days the world, that yet awaketh not, shall be raised up, and that shall die that is corrupt
+
+    After seven days of silence comes the eighth day, when that which is corrupt dies: flesh and blood cannot inherit the kingdom.
+  - **[2 Esdras 2:11-12](/bible/2-esdras/2#v11)**
+    > <sup>[11](/bible/2-esdras/2#v11)</sup> Their glory also will I take unto me, and give these the everlasting tabernacles, which I had prepared for them.
+    >
+    > <sup>[12](/bible/2-esdras/2#v12)</sup> They shall have the tree of life for an ointment of sweet savour; they shall neither labour, nor be weary.
+
+    God gives the everlasting tabernacles he prepared: the one you had on the first day, given back on the eighth.
+  - **[2 Esdras 2:38-48](/bible/2-esdras/2#v38)**
+    > <sup>[38](/bible/2-esdras/2#v38)</sup> Arise up and stand, behold the number of those that be sealed in the feast of the Lord;
+    >
+    > <sup>[39](/bible/2-esdras/2#v39)</sup> Which are departed from the shadow of the world, and have received glorious garments of the Lord.
+    >
+    > <sup>[40](/bible/2-esdras/2#v40)</sup> Take thy number, O Sion, and shut up those of thine that are clothed in white, which have fulfilled the law of the Lord.
+    >
+    > <sup>[41](/bible/2-esdras/2#v41)</sup> The number of thy children, whom thou longedst for, is fulfilled: beseech the power of the Lord, that thy people, which have been called from the beginning, may be hallowed.
+    >
+    > <sup>[42](/bible/2-esdras/2#v42)</sup> I Esdras saw upon the mount Sion a great people, whom I could not number, and they all praised the Lord with songs.
+    >
+    > <sup>[43](/bible/2-esdras/2#v43)</sup> And in the midst of them there was a young man of a high stature, taller than all the rest, and upon every one of their heads he set crowns, and was more exalted; which I marvelled at greatly.
+    >
+    > <sup>[44](/bible/2-esdras/2#v44)</sup> So I asked the angel, and said, Sir, what are these?
+    >
+    > <sup>[45](/bible/2-esdras/2#v45)</sup> He answered and said unto me, These be they that have put off the mortal clothing, and put on the immortal, and have confessed the name of God: now are they crowned, and receive palms.
+    >
+    > <sup>[46](/bible/2-esdras/2#v46)</sup> Then said I unto the angel, What young person is it that crowneth them, and giveth them palms in their hands?
+    >
+    > <sup>[47](/bible/2-esdras/2#v47)</sup> So he answered and said unto me, It is the Son of God, whom they have confessed in the world. Then began I greatly to commend them that stood so stiffly for the name of the Lord.
+    >
+    > <sup>[48](/bible/2-esdras/2#v48)</sup> Then the angel said unto me, Go thy way, and tell my people what manner of things, and how great wonders of the Lord thy God, thou hast seen.
+
+    Those sealed in the feast of the Lord put off the mortal clothing, put on the immortal and are clothed in white; stand stiffly for the name of the Lord.
+  - **[Revelation 7:8-17](/bible/revelation/7#v8)**
+    > <sup>[8](/bible/revelation/7#v8)</sup> Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
+    >
+    > <sup>[9](/bible/revelation/7#v9)</sup> After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
+    >
+    > <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
+    >
+    > <sup>[11](/bible/revelation/7#v11)</sup> And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
+    >
+    > <sup>[12](/bible/revelation/7#v12)</sup> Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
+    >
+    > <sup>[13](/bible/revelation/7#v13)</sup> And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
+    >
+    > <sup>[14](/bible/revelation/7#v14)</sup> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+    >
+    > <sup>[15](/bible/revelation/7#v15)</sup> Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
+    >
+    > <sup>[16](/bible/revelation/7#v16)</sup> They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+    >
+    > <sup>[17](/bible/revelation/7#v17)</sup> For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
+
+    After the 144,000 are sealed and the thousand years, the great multitude in white robes, our heavenly bodies, stands before the Father's throne.
+  - **[Revelation 21:2-4](/bible/revelation/21#v2)**
+    > <sup>[2](/bible/revelation/21#v2)</sup> And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
+    >
+    > <sup>[3](/bible/revelation/21#v3)</sup> And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
+    >
+    > <sup>[4](/bible/revelation/21#v4)</sup> And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+
+    The tabernacle of God is with men: the Father himself dwells with us, and there is no more death because we got back our tabernacle from heaven.
+
+
+## Class Questions
+
+- **Why does God have to set Israel in order before Esau's eyes?** Because Esau destroyed us so we do not understand order, and he says we cannot work together; God answers by sending men, starting with the bishops, to set structure and order.
+- **What is the bond of the covenant?** God putting his laws in our minds and writing them in our hearts, so we understand plainly and do not sin again (Hebrews 8:10).
+- **How long will we be in the wilderness, forty years again?** We don't know how long, but we are going back into the wilderness, Christ will teach us, and the rebels will be put to death.
+- **Why would God rest on the seventh day, was he tired?** No; rest is a place he entered into, paradise, his kingdom.
+- **What do the goodly boughs represent?** Us, the righteous with Adam in our immortal body, cut off when he sinned; the booth stands for the tabernacle we have in the heavens.
+- **Why are the first day and the eighth day sabbaths?** On the first day we had our immortal body with the Lord; on the eighth day, when the Most High touches down, this flesh dies and we get it back.
+
+## In Closing
+
+*[[2:22:06](https://www.youtube.com/watch?v=W71b00kgk0E&t=8526s)]* God shall wipe away all tears and there shall be no more death, because we got back our tabernacle from heaven. Happy tabernacles.
+
+## Announcements & References
+
+- The Psalm Squad's song for tabernacles, played in the booth.
+- A clip that United in Christ is no longer allowed to evangelize France: the dragon is wroth, as the scriptures said.
+- "Ready", the first single from Royal Priesthood's second album, premiering on Original Royalty Recordings YouTube.
+- October 14th the O day goes global: a contest for who reps the hardest in O gear while tabernacling; rules posted soon, see your local O rep.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=W71b00kgk0E)

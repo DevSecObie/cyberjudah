@@ -432,7 +432,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
 ## Announcements & References
 
-- Shout out to Captain Zeff and Captain IBL; a variation of this class was given at February's new moon and is on the IUIC Phoenix YouTube page.
+- Shout out to Captain Zephaniah and Captain IBL; a variation of this class was given at February's new moon and is on the IUIC Phoenix YouTube page.
 - The pride and submission piece will be taken deeper on the show, the power hour.
 - Bishop Nathanyel's class is up next.
 - Like and subscribe to IUIC Phoenix; the channel passed 32,000 subscribers and is aiming for 35,000. Scan the QR codes for all the socials.
