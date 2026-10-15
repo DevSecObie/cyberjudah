@@ -122,10 +122,12 @@ def open_pr_note_paths():
         return None
 
 
-def queue(feed):
+def queue(feed, precepts=False):
     """Transcripts with no note, newest first: the latest Sabbath first, then the backlog.
-    A class on the HOLD list, or whose note path is already in an open PR's files, is left out."""
-    ids, keys = noted()
+    A class on the HOLD list, or whose note path is already in an open PR's files, is left out.
+    With precepts, the queue for precept passes: a blog note does not count as done (a class with a
+    note can still lack its precept pass), and an open PR counts when it has the class's precept file."""
+    ids, keys = (set(), set()) if precepts else noted()
     pr_paths = open_pr_note_paths()
     rows = []
     for f in glob.glob(f"{ROOT}/{FEED_DIR[feed]}/transcripts/*.json"):
@@ -138,7 +140,7 @@ def queue(feed):
             print(f"skipped {t['videoId']} — note in open PR #{HOLD[t['videoId']]}", flush=True)
             continue
         if pr_paths is not None:
-            rel = os.path.relpath(note_path(t, feed), ROOT)
+            rel = f"data/precepts/classes/{t['videoId']}.json" if precepts else os.path.relpath(note_path(t, feed), ROOT)
             if rel in pr_paths:
                 print(f"skipped {t['videoId']} — note in open PR #{pr_paths[rel]}", flush=True)
                 continue

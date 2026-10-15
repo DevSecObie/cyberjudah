@@ -180,7 +180,7 @@ def next_classes(n, book=None):
     sys.path.insert(0, os.path.join(ROOT, "scripts", "notes"))
     import auto  # noqa: E402
     done = {os.path.basename(f)[:-5] for f in glob.glob(os.path.join(DIR, "*.json"))}
-    queue = [c for c in auto.queue("classes") if c["videoId"] not in done]
+    queue = [c for c in auto.queue("classes", precepts=True) if c["videoId"] not in done]
     if not book:
         return queue[:n]
     import prep  # noqa: E402

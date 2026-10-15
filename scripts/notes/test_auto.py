@@ -144,6 +144,21 @@ class Queue(unittest.TestCase):
         self.assertEqual(self.ids(rows), ["TESTVIDEO01", "TESTVIDEO02", "TESTVIDEO03"])
         self.assertEqual(printed, "")
 
+    def test_the_precept_queue_keeps_a_class_that_has_a_blog_note(self):
+        with mock.patch.object(auto, "noted", return_value=({"TESTVIDEO01"}, set())), \
+                mock.patch.object(auto, "open_pr_note_paths", return_value=None):
+            self.assertEqual(self.ids(run_capturing(auto.queue, "classes")[0]), ["TESTVIDEO02", "TESTVIDEO03"])
+            rows, printed = run_capturing(auto.queue, "classes", True)
+        self.assertEqual(self.ids(rows), ["TESTVIDEO01", "TESTVIDEO02", "TESTVIDEO03"])
+        self.assertEqual(printed, "")
+
+    def test_the_precept_queue_skips_a_class_whose_precept_file_is_in_an_open_pr(self):
+        prs = {"data/precepts/classes/TESTVIDEO02.json": 164, NOTE_ONE: 41}
+        with mock.patch.object(auto, "open_pr_note_paths", return_value=prs):
+            rows, printed = run_capturing(auto.queue, "classes", True)
+        self.assertEqual(self.ids(rows), ["TESTVIDEO01", "TESTVIDEO03"])
+        self.assertEqual(printed.splitlines(), ["skipped TESTVIDEO02 — note in open PR #164"])
+
 
 if __name__ == "__main__":
     unittest.main()
