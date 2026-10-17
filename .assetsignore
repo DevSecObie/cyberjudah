@@ -1,0 +1,2 @@
+# Over the 25 MiB Workers asset limit; served in parts from search-index/ instead.
+search.sql.gz
