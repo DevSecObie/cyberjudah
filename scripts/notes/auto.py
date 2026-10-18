@@ -60,6 +60,12 @@ Return ONLY a JSON object with this shape (no prose around it):
       "ts": "18:01",                           // when it was opened
       "points": ["one concrete point he made on it, in his words but without the run-on", "..."],
       "precepts": [ {"ref": "Sirach 4:27", "note": "the one line he drew from it"} ]
+    },
+    {                                          // a book, article or clip read aloud, in its place among the passages
+      "reading": "*History of the Jews* by Heinrich Graetz, p. 42",  // title, author, page, only as stated on air
+      "ts": "42:20",
+      "reader": "Captain Yahn" | null,         // who read it, when it was not the teacher and he is named
+      "walk": [ {"read": ["the words read, verbatim"], "notes": ["what was said on that stretch"]} ]
     }
   ],
   "questions": [ {"q": "a question he put to the class", "a": "the answer he gave"} ],
@@ -75,6 +81,9 @@ the book, chapter and verse certain. Verses come from the Bible itself later; ne
 - The teacher's words, cleaned of filler, stutters and caption errors, never your own commentary or praise.
 - Greetings, roll calls, shout-outs, the sound check, the words of a thumbnail video, a story told for \
 effect: at most a line, usually nothing.
+- Every book, article or definition read aloud is a "reading" item in "passages", where it was read: \
+the words read quoted verbatim, stretch by stretch, each followed by what was said on it. Never paraphrase \
+a reading into points, and never shorten one.
 - A clip in "news" is named, not transcribed. Leave a list empty when the class had none.
 - Timestamps as m:ss or h:mm:ss, from the paragraph where it happened.
 - Names as the library spells them: Bishop Nathanyel, Captain Yahn, Deacon Malachi. When unsure, the \
@@ -253,6 +262,11 @@ def render(t, d, feed):
     out += ["## Scriptures Opened", ""]
     kept = 0
     for p in d.get("passages", []):
+        if p.get("reading"):
+            walk = [([x.strip() for x in w.get("read", []) if x.strip()], [x.strip() for x in w.get("notes", []) if x.strip()])
+                    for w in p.get("walk", [])]
+            if any(r for r, _ in walk): out += [lib.R(p["reading"].strip(), p.get("ts"), walk, reader=p.get("reader")), ""]
+            continue
         s = block(p.get("ref", ""), p.get("ts"), [x.strip() for x in p.get("points", []) if x.strip()], p.get("precepts"))
         if s: out += [s, ""]; kept += 1
     if not kept: raise SystemExit("no passage resolved; the note is not written")

@@ -22,12 +22,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 ## In The News
 
 - *[[10:49](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=649s)]* **The class intro video: the Borgia family in Rome, Rodrigo with the authority of the papacy summoning a painter to paint the Messiah in Cesare's likeness, then the Inquisition and the Atlantic slave trade** — The history behind the image: a face repeated long enough, and generations forget who chose it.
-- *[[36:57](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=2217s)]* **A Google image search for Ivan the Terrible** — Google shows him white and will lie to you; the book Art Treasures of Russia shows the soldiers of Moscow as black men. This is why they put a media blackout on us: we got the proof.
-- *[[1:04:07](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3847s)]* **An article posted by Captain Zeph: Neo-Nazis in the Dominican Republic work with the government to prevent solidarity with Haitian people** — **Captain Zeph:** The division on that island is not natural, it is by design; the enemy knows who is on the island and has to keep a division between Simeon and Levi.
 - *[[1:05:48](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3948s)]* **The Columbus lighthouse and statue in the Dominican Republic, with a naked Taino woman crawling up to Christopher Columbus** — **Captain Zeph:** That is how they want us to remember our history, conquered by Columbus; but our history goes further: we were speaking Hebrew and keeping our high holy days on Hispaniola.
 - *[[1:40:03](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6003s)]* **A news report: local Catholics call on Pope Leo XIV to address clergy sex abuse, with the Archbishop of New Orleans calling it one of the major issues** — Forbidding to marry: the Catholic Church does not teach our people God's commandments, and this is why so many end up in a life of sin.
 - *[[1:41:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6106s)]* **A news report: an Iowa church covered up a priest's abuse of 50 boys; the Diocese of Sioux City let Father Jerome Coyle live with the Ortiz family in New Mexico** — They always cover it up. **Captain Zeph:** In the background sits an image of Cesare Borgia; they still believe in the white man Jesus while the church molests their children. Why is the Catholic Church not called a hate group?
-- *[[1:45:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6355s)]* **A still from the movie Spotlight, and a report that U.S. Catholic dioceses and religious communities spent $5.025 billion from 2004 through 2023 on sex abuse allegations, about $251 million a year** — The Catholic Church just pays off the families with settlements. A brother added: if they can pay that much a year, they are robbing the people of way more.
+- *[[1:45:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6355s)]* **A still from the movie Spotlight** — When you watch Spotlight, it goes into the Catholic Church and how they cover up sex abuse, the big scandals, and how they pay it out in settlements. An excellent movie.
 - *[[1:47:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6475s)]* **A video of people lining up to shake Pope Leo's hand** — Look how Esau feels about you: everybody happy to shake the white man's hand, and look at his face when they do.
 - *[[1:59:53](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=7193s)]* **A documentary on the atom bomb and the nuclear chain reaction** — John saw the dropping of the atom bomb: fire come down from heaven in the sight of men in 1945, 130,000 people disintegrated, something the world never saw before.
 
@@ -149,10 +147,24 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
 - They were driven forth from among men, meaning we sent them into the wilderness, to dwell in the cliffs of the valleys and in caves of the earth.
 
-- The book on the Ghuzz Turks shows the same: a traveler accustomed to the splendid baths of Baghdad could not get over their dirtiness; they did not wash after defecating or urinating and refused to have anything to do with water.
-
 - This is your caveman, this is their history. That's why Job said, and now I am become their song.
 
+
+<div class="reading">
+
+Reading from a book on the Ghuzz Turks  *[[28:16](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=1696s)]*
+
+> Accustomed to the splendid baths of Baghdad, our traveler could not get over the dirtiness of the Turks.
+
+- This is the Ghuzz. Esau. Watch what it says about how Esau lived.
+
+> They do not wash themselves after defecating or urinating, nor do they bathe after seminal pollution or on other occasions. They refuse to have anything to do with water.
+
+- Esau did not wash themselves. After taking a dump, they did not wash themselves.
+
+- They refuse to have anything to do with water. This is your caveman. This is their history. That's why Job said, and now I'm become their song. This is how they lived, and I'm become their song.
+
+</div>
 
 **[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[[32:45](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=1965s)]*
 
@@ -166,10 +178,38 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
 - In the Anglo-Saxon Chronicles and the windows at Augsburg Cathedral (Jonah, King David) you can see where they began to whitewash the hands and faces, and didn't finish. Anglo-Saxons means the angelic sons of Isaac.
 
-- The Oxford Illustrated History of Medieval Europe calls Christ's darkened flesh tones almost negroid. Why are we finding black men in books that deal with Europe? Because we ruled during the dark ages.
+- The Oxford Illustrated History of Medieval Europe: whenever we want our history, they always tell us to go to Africa. Why are we finding black men in books that deal with Europe? Because we ruled during the dark ages.
 
 - This ain't church. You came up here because you're a leader; you got to learn to teach and bring this history. Order these books and build your library.
 
+
+<div class="reading">
+
+Reading from *The Oxford Illustrated History of Medieval Europe*  *[[34:49](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=2089s)]*
+
+> Christ, whose darkened flesh tones now give him an almost negroid cast.
+
+- Look what Esau did. Esau says Christ, whose darkened flesh tone now gives him an almost negroid cast. Does that look like a negro to you, brothers? Esau says he almost looks like a negro. Almost.
+
+</div>
+
+<div class="reading">
+
+Reading from *Art Treasures of Russia*  *[[36:22](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=2182s)]*
+
+> The Church Militant. Mid-16th century.
+
+- That means the mid 1500s. We're going to Russia to look at black men.
+
+- Go to Google and type in Ivan the Terrible. Google is going to show you what Ivan the Terrible looks like. This is why they don't want us doing interviews, why they don't want us teaching, why they put a media blackout on us: because we got the proof. Look at Ivan the Terrible, the Czar of Russia. What color is he, brothers? So you go to Google, Google going to lie to you. But now go back to the book, Art Treasures of Russia. The Israelites got the truth. We are those brothers. IUIC is dangerous.
+
+> In 1552 saw Ivan the Terrible defeated the Tartar horde and captured the city of Kazan. It was a victory of the cross over the crescent. At the icon's right, in a circle of flames, is Sodom.
+
+- When you look, it says this was in Moscow, and these are the soldiers. What color are these soldiers, brothers? These soldiers are black men. Y'all need to order these books.
+
+- Look how dark these men are. When you went to the Catholic Church, you didn't see these images. You didn't see none of these icons. Why? Because we were brainwashed.
+
+</div>
 
 **[Isaiah 29:15-16](/bible/isaiah/29#v15)**  *[[38:06](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=2286s)]*
 
@@ -278,10 +318,98 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
 - The Lord is giving you the map: through Euphrates and the narrow passages of the river, around Africa, a journey of a year and a half. Y'all did not cross the Bering Strait. Get out the Catholic Church, learn your history.
 
-- The book Feats and Wisdom of the Ancients shows a Phoenician inscription found in the Americas: we are sons of Canaan from Sidon, the story of a voyage around Africa ending in salvation on the shores of what is now Brazil. Why nobody clap when we read 2 Esdras 13, but clap when the white man says it?
 
-- Christopher Columbus and the Participation of the Jews shows the language of the Indians of Hispaniola, Cuba and Jamaica had many resemblances to Hebrew; they had fast days, sacrificed first fruits (Pentecost) and carried a holy ark in war. Lost Tribes and Promised Lands shows Columbus brought Luis de Torres, who knew Hebrew, specifically as an interpreter, in 1492.
+<div class="reading">
 
+Reading from *Feats and Wisdom of the Ancients*, on the Phoenicians in America  *[[57:50](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3470s)]*
+
+> Phoenicians in America?
+
+- The Phoenicians is talking about the land of Canaan. What the scholars are putting in the book is, what are people from the land of Canaan doing in America? That's why they put a question mark.
+
+> “We are sons of Canaan from Sidon,” begins the manuscript.
+
+- Look what they found in an inscription. They found this manuscript in the Americas. This manuscript is going to sound just like 2 Esdras 13.
+
+> It is written in a Phoenician language used some 500 years before the birth of Christ.
+
+- What's this language, brothers? Hebrew.
+
+> In only eight lines it tells a story of a voyage around Africa,
+
+- Esau is trying to figure out why are we finding a manuscript in the Americas that talks about a journey from a people that spoke Hebrew. A voyage around Africa. The Bible's a true book; Esau showed it to you.
+
+- Why nobody clap when we read 2 Esdras 13? Why we clapping when it's the white man saying it? Y'all better check y'all spirit. When I read 2 Esdras 13, you like, yeah, yeah. When I read the white man say it: God damn, let's give that man a round of applause. That white man good.
+
+> of storm, human sacrifice and salvation on the shores of what is now Brazil.
+
+- In the journey we came, remember it said, and they entered into Euphrates by the narrow passages of the river. You see how it shows on the map Brazil. That's why in the book it said, on the shores of what is now Brazil. Esau knows we are the Jews.
+
+- Since y'all Dominicans don't want to believe us, we going to let gringo tell you. You don't want to believe your brother, so we going to let the white man tell you.
+
+</div>
+
+<div class="reading">
+
+Reading from *Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries*, p. 99  *[[1:01:38](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3698s)]*
+
+> Rhodon's chief argument in support of his view is the language of the Indians in Española,
+
+- The white man is going to tell you they knew that the Dominicans are Israelites. He's saying we got to look into the language on Española. Was it Español? Let's find out.
+
+> Cuba, Jamaica and the adjoining islands. He contends that it has many resemblances to Hebrew.
+
+- So on Española, Cuba, Jamaica, they found resemblances of Hebrew. The Israelites, we didn't come to play with y'all. We got the books. We got the records. We are the twelve tribes of the nation of Israel.
+
+> They had definite fast days. Marriage with sisters-in-law was permitted if they were childless widows. Wives were discarded for new helpmates.
+
+- Remember, this is what they saw on the island of Española. This is the Dominicans.
+
+> They also sacrificed first fruits
+
+- What's the feast of first fruits called, brothers? Pentecost. Dominicans were celebrating Pentecost.
+
+> on high mountains and under shady trees. They had temples and carried a holy ark before them in time of war.
+
+- You Dominicans, leave the white man alone. Dominicans, learn to believe your black brothers. You know what the problem is? Dominicans don't think they black. No, papa, I ain't no negro, I ain't no black, I'm Dominican. Take it easy.
+
+</div>
+
+<div class="reading">
+
+Reading from an article posted by Captain Zeph  *[[1:04:57](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3897s)]*
+
+> Neo-Nazis in the Dominican Republic work with the government to prevent solidarity with Haitian people.
+
+- **Captain Zeph:** This is going to explain what's going on in the Dominican Republic and Haiti at this moment right now, why there's such a big division. You think it's natural that we don't get along. No, it's by design. Esau, the enemy.
+
+- **Captain Zeph:** Work with the government, the Dominican government, to prevent solidarity: to prevent unity with Haitian people. So this is what we're up against. Our enemies know who's on that island, so they have to keep a division between Simeon and Levi. So don't think that it's just natural we don't get along. No, the enemy is constantly trying to divide us as a people.
+
+</div>
+
+<div class="reading">
+
+Reading from *Lost Tribes and Promised Lands*, p. 91  *[[1:10:33](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4233s)]*
+
+> We do not know much concerning Columbus's crew of about 90 men aboard the three ships, but at least one of them was an Israelite,
+
+- Who did Columbus bring with him? An Israelite. Why? Because of 2 Esdras 13:40. We read it.
+
+> whose presence as such was not merely accidental.
+
+- It wasn't an accident that Columbus brought him.
+
+> This was Luis de Torres, a convert of possibly only that year, who had once held a position with the governor of Murcia.
+
+- When did Columbus land on the island of Hispaniola? Northern kingdom, y'all better know this. 1492. Levi had to save Simeon.
+
+- 1492, Columbus, the first place he went was Hispaniola. What did Columbus bring? He brought the cross, and he brought Cesare Borgia with him.
+
+> He was said to have known Hebrew, Aramaic and some Arabic, and had been brought along by Columbus specifically as an interpreter.
+
+- Specifically as an interpreter. Why? Because he wanted to destroy.
+
+</div>
 
 **[Isaiah 5:20](/bible/isaiah/5#v20)**  *[[1:12:06](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4326s)]*
 
@@ -315,12 +443,32 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
 - Esau changed the truth of God into a lie.
 
-- American Holocaust shows how bad it was: within 21 years of Columbus landing, nearly 8 million people on Hispaniola were killed by violence, disease and despair, the equivalent of more than 50 Hiroshimas, and Hispaniola was only the beginning.
-
-- Spain sent Columbus and gave him the authority to murder the Israelites, for the Catholic Church.
-
 - They worshiped and served the creature more than the creator. Esau did this because he would have the power to do it.
 
+
+<div class="reading">
+
+Reading from *American Holocaust*  *[[1:16:04](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4564s)]*
+
+> The industrial city of Hiroshima was leveled by nuclear blast.
+
+- This is where? Japan. What year, brothers? 1945.
+
+> Never before had so many people, at least 130,000, probably many more, died from a single explosion.
+
+- Remember, the Catholic Church used Columbus: you had Spain send Columbus and give him the authority to murder the Israelites. He's going to talk about how bad the destruction was. Right now they're talking about Hiroshima and Nagasaki. From a single blast, how many died? 130,000.
+
+> Just 21 years after Columbus's first landing in the Caribbean, the vastly populous island that the explorer had renamed Hispaniola was effectively desolate. Nearly 8 million people, those Columbus chose to call Indians, had been killed by violence, disease and despair.
+
+- How many did he kill? Nearly 8 million people. Now watch what it says, how bad the destruction was.
+
+> It took a little longer, about the span of a single human generation, but what happened on Hispaniola was the equivalent of more than 50 Hiroshimas.
+
+- You see what it says about Columbus's murder? It was equivalent to 50 bombs being dropped on Hiroshima and Nagasaki. They did a lot of killing.
+
+> And Hispaniola was only the beginning.
+
+</div>
 
 **[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[[1:17:44](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4664s)]*
 
@@ -370,10 +518,42 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
 - An ungodly custom grown strong, kept as a law: centuries ago we were forced to worship that image; in the 1960s and 70s we were free, and we do it willingly now. They don't need to force us.
 
-- The book shows the bust of the Savior from the church of San Salvatore in Terni, an open secret that Cesare Borgia posed for it, shown by the guide as the bust of the relative of a famous pope.
 
-- Leonardo da Vinci entered Borgia's service in 1502 as military architect and engineer, and Niccolo Machiavelli came to his court for Florence. Everybody wants to quote Machiavelli, even Tupac. All these men were evil and wicked.
+<div class="reading">
 
+Reading from a book on the bust of the Savior posed for by Cesare Borgia  *[[1:25:47](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=5147s)]*
+
+> The original of this bust was found in the church of San Salvatore in Terni, now destroyed. It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
+
+- You didn't learn this in the Catholic Church. You didn't learn this history, but the Israelites is bringing it for you.
+
+> Cesare Borgia, son of Pope Alexander. Bust of the Savior.
+
+- The Savior represents who, brothers? Now Cesare Borgia is posing as the Savior. That's what Wisdom of Solomon was going into.
+
+> Posed for by Cesare Borgia. It was removed from the church of San Salvatore in Terni, now destroyed, to the monumental morgue of St. Louis church, where it may still be seen, and is shown by the guide as the bust of the relative of a famous pope.
+
+- Who was the famous pope, brothers? Pope Alexander VI of Rome.
+
+- Cesare Borgia: remember the famous painters, Leonardo da Vinci, Donatello, Raphael. Leonardo da Vinci was hired to paint him as Christ. And guess what, Cesare Borgia and Niccolo Machiavelli knew each other. Everybody want to quote Machiavelli; Tupac quoting Machiavelli. You're going to see how all this coincides with Cesare Borgia.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on Cesare Borgia's life, “How their lives intersected”  *[[1:28:19](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=5299s)]*
+
+> How their lives intersected. Cesare Borgia was the son of Pope Alexander VI. Backed by papal authority and French military power, he attempted to construct a powerful state in central Italy.
+
+> Leonardo. Leonardo da Vinci entered Borgia's service in 1502 as his general military architect and engineer. He inspected fortifications, studied terrain, designed improvements and produced exceptionally detailed maps.
+
+- And remember, he was a famous painter.
+
+> Niccolo Machiavelli arrived at Borgia's court as a representative of the Republic of Florence. His assignment was to understand Borgia's intentions and protect Florence from his expanding power.
+
+- Everybody quotes this man. All these men were evil and wicked. All of them were evil and wicked.
+
+</div>
 
 **[Daniel 11:39](/bible/daniel/11#v39)**  *[[1:29:09](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=5349s)]*
 
@@ -463,6 +643,18 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 - The Catholic Church does not teach our people to keep God's commandments; this is why a lot of our brothers are adulterers and fornicators.
 
 
+<div class="reading">
+
+Reading from a report on Catholic sex abuse settlements  *[[1:46:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6406s)]*
+
+> In the United States, Catholic dioceses, eparchies and men's religious communities reported spending $5.025 billion from 2004 through 2023 on allegations of sexual abuse of minors, an average of about $251 million per year over those 20 years. This is not a fixed annual bill. It varies sharply because of large settlements, lawsuits and bankruptcies.
+
+- I'm going to show you how much money is put into these large settlements. This is what the Catholic Church does. They just pay off the families. This is the evil of the Catholic Church.
+
+- Think about how many of us been hearing about abuse coming out of a Catholic church. We always been hearing that. Why it don't make it to the ADL, the SPLC? Why the Catholic Church ain't number one? It's getting paid. It's all BS.
+
+</div>
+
 **[Revelation 13:6-8](/bible/revelation/13#v6)**  *[[1:49:25](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6565s)]*
 
 > <sup>[6](/bible/revelation/13#v6)</sup> And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
@@ -473,7 +665,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
 - This is Spain and Portugal as well as the Catholic Church opening their mouth in blasphemy.
 
-- Power was given him to make war with the saints: they enslaved us. America, being the latest and most accurate description of the New World, records John III of Portugal selling as slaves all the Jews that refused to embrace the Roman religion, sent to Guinea, Angola and the island of St. Thomas.
+- Power was given him to make war with the saints: they enslaved us.
 
 - All that dwell upon the earth shall worship him: the him is Cesare Borgia, and he would get the world to worship him because he would have power.
 
@@ -507,6 +699,24 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 
     The other spirit you receive in church is fornication, idolatry and the homosexual spirit; such were some of you, but the Catholic Church doesn't want our people to change. The Catholic Church is a business.
 
+
+<div class="reading">
+
+Reading from *America, Being the Latest and Most Accurate Description of the New World*  *[[1:50:29](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6629s)]*
+
+> America, being the latest and most accurate description of the New World, containing the original of the inhabitants, and the remarkable voyages thither.
+
+> The Portuguese that dwelt in this island inform the Netherlands that few live above 50 years there; yet notwithstanding, the great gain tempted them to tarry, several of them having two or three hundred negroes that worked in sugar mills.
+
+> John III, King of Portugal, sent a colony thither above 200 years before, whom though the unwholesome air destroyed, yet the place was not left desolate.
+
+- Remember, Spain and Portugal was involved.
+
+> For he sent new inhabitants, who first settled in Guinea, next Angola, and lastly on the island St. Thomas, that so they might be the better used to the air; that the said king sold all those Jews for slaves that refused to embrace the Roman religion.
+
+- All those Jews: this is talking about those sold from Africa. That refused to embrace the Roman religion.
+
+</div>
 
 **[Revelation 13:9-15](/bible/revelation/13#v9)**  *[[1:57:20](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=7040s)]*
 
