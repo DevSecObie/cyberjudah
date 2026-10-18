@@ -832,7 +832,7 @@ Reading from a text on Jean Baptiste Point du Sable  *[[2:42:12](https://www.you
 
 - I bet a lot of people didn't know that.
 
-> The founding of Chicago. The first settlement: in the late 1770s or 1780s, du Sable traveled up the Mississippi River and established a permanent, prosperous trading post and estate at the mouth of the Chicago River. A multicultural hub: fluent in French, Spanish, English, and multiple Native American
+> The founding of Chicago. The first settlement: in the late 1770s or 1780s, du Sable traveled up the Mississippi River and established a permanent, prosperous trading post and estate at the mouth of the Chicago River. A multicultural hub: fluent in French, Spanish, English, and multiple Native American…
 
 </div>
 
@@ -908,7 +908,7 @@ Reading from an article on a Haitian student's suicide  *[[2:58:28](https://www.
 
 - Do you know the humiliation this young man must have felt? Have to walk around. Never had been arrested. Never. But the ankle monitor, you know, they're going to ship him out of the country. He committed suicide as a result. This is sad.
 
-> Pierre Deas Bell, 20, of Springfield, Ohio, expressed feeling shame and humiliation at having to wear an ankle monitor. The college student died by suicide days later.
+> Pierre Damas Bel, 20, of Springfield, Ohio, expressed feeling shame and humiliation at having to wear an ankle monitor. The college student died by suicide days later.
 
 - You can't make this stuff up.
 
