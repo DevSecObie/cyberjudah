@@ -776,14 +776,24 @@ Reading from a dictionary entry on odious  *[[2:00:18](https://www.youtube.com/w
 > Odious. Deserving or causing hatred.
 >
 > Hateful.
->
+
+- A hateful woman.
+
 > Detestable.
->
+
+- Detestable. But you know what? She's probably married because she look good. But she has all these qualities about her. Let's look at some of the synonyms.
+
 > Execrable. Despicable. Objectionable. Abominable.
->
+
+- Now, if those are too hard to understand, look at the antonyms, the opposite.
+
 > Lovable.
->
+
+- So, she's not lovable.
+
 > Attractive.
+
+- So, that's not the physical attraction. That goes back to Peter's. That's the inner woman.
 
 </div>
 
