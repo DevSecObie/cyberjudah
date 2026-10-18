@@ -2,7 +2,7 @@
 title: "The Foolish, the Faithless"
 slug: "2026/2026-10-17-the-foolish-the-faithless"
 date: "2026-10-17"
-teacher: ""
+teacher: "Captain Aryeh"
 description: "IUIC in the ClassRoom · 2026-10-17"
 tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 ---

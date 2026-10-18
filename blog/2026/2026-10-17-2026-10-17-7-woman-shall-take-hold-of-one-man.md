@@ -2,7 +2,7 @@
 title: "7 Woman Shall Take Hold of One Man"
 slug: "2026/2026-10-17-7-woman-shall-take-hold-of-one-man"
 date: "2026-10-17"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-10-17"
 tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "war", "women"]
 ---

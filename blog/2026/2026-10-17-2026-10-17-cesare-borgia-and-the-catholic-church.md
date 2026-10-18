@@ -2,7 +2,7 @@
 title: "Cesare Borgia and the Catholic Church"
 slug: "2026/2026-10-17-cesare-borgia-and-the-catholic-church"
 date: "2026-10-17"
-teacher: ""
+teacher: "Captain Yahn"
 description: "IUIC in the ClassRoom · 2026-10-17"
 tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "passover-feasts"]
 ---
