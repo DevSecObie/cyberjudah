@@ -200,13 +200,42 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 
 - The Epicureans were not a race of people but a belief system, named after the Greek philosopher Epicurus, no different from Egyptology or the FBA movement.
 
-- The Stoics, founded in Athens around 300 BC by Zeno of Citium, were a belief system too, not the other nations; the Greeks had the Israelites in Greece following stoicism.
-
-- Black people follow the customs of the Greeks today in fraternities and sororities; all those thoughts come from your colonizers and have nothing to do with God.
-
 - They called Paul a babbler and a setter forth of strange gods, the same way people look at us when we say God is a black man and only the twelve tribes will be saved.
 
 - The Athenians spent their time in nothing else but to hear some new thing, like those always on TikTok, Instagram and YouTube instead of following what the Most High said.
+
+
+<div class="reading">
+
+Reading from the Zondervan Bible dictionary, on the Epicureans and the Stoics  *[[40:34](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=2434s)]*
+
+> Epicurean has two main meanings: a modern sense related to fine food and drink, and a historical sense rooted in ancient Greek philosophy.
+
+- So you had black people following the customs of the Greeks, just like in the colleges. You black people join Greek fraternities. You sisters join sororities and you speak about your sisters in these fraternities. Where did you get this from? The Greeks. Alpha, Delta, Gamma, whatever all that stupid stuff that y'all do. That's the Greek philosophy. And they brought it into the places of learning, into the colleges. And that's why you black people want to join it, 'cause it's stuff that white people, your white colonizers, put that philosophy, that thought into your mind. All your thoughts now are by your colonizers. They have nothing to do with God. So that's why we go into the scripture and we paint the picture to show that God's chosen people are the Israelites, and what you're doing is not right.
+
+> Modern culinary and luxury meaning. Definition: fond of or adapted to luxury, sensual indulgence and refined taste, especially regarding high-quality food and drink.
+
+- That's why a lot of those people, when they join those fraternities, they think they're better than everybody else.
+
+> Epicureanism: related to Epicurus, 341 to 270 BC, an ancient Greek philosopher, or his school of thought.
+
+- It was named after a man. His school of thought is where you get Epicureanism from. This was something that they were training the Jews to follow.
+
+> Stoic: a person who endures pain, hardship or difficulty without complaining, showing emotion or reacting with excess feeling.
+
+- I had the most stupidest argument, that they were trying to say that these Stoics are the other nations. A Stoic is a belief system, just like Epicurean is a belief system.
+
+- Meaning they just have a blank look on their face, a stoic look on their face.
+
+> It was founded in Athens around 300 BC by Zeno of Citium, who taught in a public colonnade called the Stoa Poikile.
+
+- This is 300 years before Christ. The Greeks had the Israelites in Greece following stoicism.
+
+- So the Epicureans and the Stoics was a belief system that Paul had to deal with, the same way today. Now we got FBAs attacking us. We got black people who believe in Islam attacking us. We got people who believe in Egyptology attacking us. And the list goes on. We got black politicians believing that we have to vote for a better life to fix things, when we're telling you no, you're not going to get things fixed by voting. You're going to get things fixed by the black Messiah. The people that you're listening to are liars.
+
+- So it's always been a problem, even before Christ, of our people following the ways of fake leaders, of ideologies, of theology, of different means of thought other than God.
+
+</div>
 
 
 **[Acts 17:22-27](/bible/acts/17#v22)**  *[[48:29](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=2909s)]*
@@ -261,22 +290,180 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 - Nor to profess himself to be a Jew: that is why they are mad when we say we are the real Jews. That is why they removed the book of Maccabees, so you could not put the pieces together.
 
 
-**[Isaiah 11:11](/bible/isaiah/11#v11)**  *[[58:55](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=3535s)]*
+<div class="reading">
+
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", pp. 170-171  *[[57:31](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=3451s)]*
+
+> Alexander the Great, being convinced of their affection and fidelity, gave them the province of Samaria,
+
+- So that's how we know there were Israelites in Samaria. I could prove it in the scripture, but I'm showing you that Alexander the Great, he was the first leader of the Greeks.
+
+> and exempted it from tribute; and when he built Alexandria, settled some Jews in it, granting them the same privileges as the other citizens,
+
+- Like America did. They'll give you some privileges, but when they get sick of you, they take them back. That's why you're losing your right to vote. You're losing any grants that they gave you for school. You're losing public housing. You're losing the lending practices to get a home. They're getting rid of that. They're going after Wells Fargo, and it's to target a specific people group.
+
+- Alexander gave them exempt from taxes and gave them a place. It's the same thing with us now. After they freed us from slavery and we fought for civil rights, they gave us certain liberties. Now you're seeing a whole campaign to take everything back.
+
+> till at last they also were called Macedonians.
+
+- So the Jews were calling themselves Macedonians.
+
+> Indeed, the first of the Ptolemies,
+
+- Ptolemy was one of Alexander's four generals. You had Ptolemy, Cassander, Seleucus and Lysimachus.
+
+> having taken Jerusalem by surprise,
+
+- He attacked Jerusalem by surprise.
+
+> carried great numbers of the Jews captives into Egypt,
+
+- And took the Israelites captive where? Into Egypt. So that's why when we read Isaiah chapter 11, it says that Jews have to be recovered from Egypt. Can we get that real quick?
+
+</div>
+
+
+**[Isaiah 11:11](/bible/isaiah/11#v11)**  *[[59:40](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=3580s)]*
 
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 
-- Read from Manners of the Ancient Israelites by Claude Fleury and Adam Clarke: Alexander the Great gave the Jews the province of Samaria and settled some in Alexandria with the same privileges as citizens, till they were called Macedonians.
-
-- Like America, they give you privileges and take them back when they get sick of you: voting, school grants, housing, lending.
-
-- Ptolemy took Jerusalem by surprise and carried great numbers of Jews captive into Egypt, as far as Cyrene; that is why Isaiah says the remnant must be recovered from Egypt.
-
-- They tell us about the transatlantic and Arab slave trades, but not these earlier captivities and displacements.
-
-- The Greek and Syrian kings gave the Jews citizenship, lands and favors to secure their allegiance; they always tried to get us to leave God with land, freedoms and no taxes.
+- From Egypt. How did they get into Egypt? It told you in these writings that he took Jews captives into Egypt.
 
 
-**[Acts 17:23-28](/bible/acts/17#v23)**  *[[1:10:52](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4252s)]*
+<div class="reading">
+
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", pp. 171-172  *[[1:00:07](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=3607s)]*
+
+> who were spread as far as Cyrene.
+
+- Cyrene is on that map. So it shows you from Egypt to Cyrene there were Israelites there. So we don't understand this displacement of these captivities, because they don't tell us that. They just tell us about the cargo slave ship from the transatlantic slave trade and the sub-Saharan slave trade with the Arabs. But prior to that, we know that Alexander and Ptolemy called Israelites Macedonians and, taking Jerusalem by surprise, carried great numbers of Jews captives into Egypt. So that's why it's prophesied in Isaiah there will be a remnant of Israel being recovered from Assyria and Egypt.
+
+> But afterwards finding how religious they were,
+
+- Oh, after he attacked us and saw how much we wanted to follow our religion, our beliefs.
+
+> and faithful to their oaths,
+
+- And we were faithful to keeping God's commandments.
+
+> he put some of them into his garrisons, and treated them so well, that it drew many more into that country.
+
+- So a lot of Israelites started coming, because they said, "Yo, these guys really believe in their God and their Bible." So a lot more Israelites started coming.
+
+> It is said that his son Philadelphus redeemed all the Jews that were slaves in his dominions, and sent great presents to Jerusalem to procure that translation which he got made of their law.
+
+- So the government was trying to butter us up.
+
+> They were also favoured by several kings of Syria.
+
+- The Syrian government was trying to butter us up.
+
+> Seleucus Nicanor gave them the right of citizens in the cities which he built in Asia Minor
+
+- That's why a lot of you are proud to call yourself Americans, 'cause certain liberties and amenities come with you identifying as an American. It started during the time of the Greeks. That's why it's called the Greco-Roman Empire. America is an extension of ancient Rome. America's doing the same thing now.
+
+> and Cœlo-Syria, and even in Antioch his capital,
+
+- Did not Paul go to Antioch? This was 300 years before Paul went to Antioch.
+
+> with privileges that they also enjoyed under the Romans.
+
+- Why? If they bow down to Roman rule, Rome gave them privileges. It's the same thing now. We're telling people that follow this same system, let go of our stuff and return back to God as Israelites. They don't want to hear that.
+
+> Antiochus the Great having received signal services from the Jews, granted considerable favours and immunities to the city of Jerusalem;
+
+- As long as the Israelites work with them, they will give them freedom, 'cause they don't believe in no god. All they care about is money and living the way they want.
+
+> and to secure Lydia and Phrygia, which were not quite sound in their allegiance, he established colonies of Jews there, giving them lands to cultivate and build on.
+
+- You pull that map up that I showed you. These are all the places that the Bible mentions.
+
+- Lydia and Phrygia, they had a little trouble there. Not quite sound in their allegiance to who? To the government.
+
+- So they always tried to find a way to get us to leave God. We'll give you land. We'll give you freedoms. We won't tax you. We'll give you loans. We'll let your kids go to school. The bottom line is they don't want you serving God as Israelites.
+
+> The first privilege that the Jews always asked upon these occasions was liberty to exercise their religion
+
+- Let us serve our God. We'll do what you want, but just let us serve our God. That was the first privilege that the Jews asked for.
+
+> and observe their law.
+
+- Let us keep the Sabbath. Let us follow the dietary law. Let us follow the dress code. That's what we were trying to work out with the government 300 years before Jesus Christ.
+
+> But as for the rest, they could not avoid learning many Grecian customs,
+
+- That's why Paul says there's no difference between the Jew and the Greek.
+
+- That's what Paul had to deal with. These were Jews learning Grecian customs. The government was trying to mold them to move away from serving God and follow Greek customs.
+
+> as they had Chaldean and others,
+
+- Because they were already following Babylonian customs. So the Greeks saw that and said, we need to bring them to our customs.
+
+- So every time the Israelites were in captivity: when a nation enslaves you, they change you and rename you. So that's why we were following Egyptian customs. We were following Chaldean customs. We were following Assyrian customs. Now the Greeks. This is historically documented. We got a little mixture of all our captivities inside of us.
+
+- They already were following Chaldean customs. They brought it over with them.
+
+> and particularly the Greek tongue, which was then become common throughout all the east,
+
+- That's why when you look up in the Zondervan Bible dictionary where it says Grecian or Greeks, it says Greek-speaking Jews, just like y'all now. Y'all speak Spanish, y'all speak English, you speak French, you speak Creole. Those are the tongues of your captives. Black people don't speak the ancient Hebrew that God gave us.
+
+- That was common practice for the Israelites, to now learn how to speak Greek.
+
+> and continued so as long as the Roman empire lasted there.
+
+- As long as Rome was ruling, you had to speak Greek. So that's why the New Testament is not in Hebrew. It's in Greek and Latin. You had the Greeks first. Latin was the tongue of Rome.
+
+> Thence it was that many took Greek names,
+
+- So the Israelites took Greek names, because people say, I don't believe in that book, or I don't believe in the New Testament, because of the names that are there.
+
+> as, Aristobulus,
+
+- We'll find that in the New Testament.
+
+> Philon,
+
+- You have Philemon in the New Testament.
+
+> Andreas, and Philippus;
+
+- You got a book named after that name there.
+
+> or Hebrew names disguised with Greek terminations,
+
+- That's why even some American names, they got Hebrew, and they have some of the American qualities to it.
+
+> as Jason for Jesus, Simon for Simeon, Hierosolyma for Jerusalem.
+
+- So this is what was going on before Christ came on the earth, before Paul started his ministry of salvation in Jesus Christ. So this shows us why Paul had to write certain things in his letters. Once you arm yourself with this information, you could destroy the thought of salvation for the other nations.
+
+> It was probably about this time that the Jews passed the seas and settled in Europe. For they that understood the Greek tongue, and had resided among that people in Asia, Syria, and Egypt, might easily live in any part of the Grecian empire,
+
+- So I'm showing you the Israelites adopted Syrian customs, Egypt customs, so that they could live in any part where the Greeks had power.
+
+> even in Macedonia and Achaia,
+
+- All these names are in the Bible.
+
+> according as they found it more convenient, or they enjoyed greater liberty.
+
+- They was assimilating into the government for freedom. So that's why Paul said there's no difference between the Jew and the Greek; to the Jew first and to the Gentile.
+
+- You got to know this history. Then the New Testament won't be a mystery. And you won't be saying stupid stuff like these dumb Christians in Christianity, that they just see a word and they assume something, and they don't know the history.
+
+> Thus St. Paul found great numbers of them in all the cities of Greece when he went to preach the gospel there,
+
+- That's why when he went to Athens there were Epicureans and there were Stoics.
+
+- Of these converts, of these people destroyed by the government. This is who Paul encountered. Now the letters of the New Testament make sense to us. We got the history. So this is no longer a mystery.
+
+- That's what he saw in Acts chapter 17. Can we go back to Acts chapter 17, where he said, to the unknown God? You people are superstitious. Paul said, "What the hell are y'all doing here?" We need this history to explain that.
+
+</div>
+
+
+**[Acts 17:23-28](/bible/acts/17#v23)**  *[[1:11:16](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4276s)]*
 
 > <sup>[23](/bible/acts/17#v23)</sup> For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
 >
@@ -290,47 +477,150 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 >
 > <sup>[28](/bible/acts/17#v28)</sup> For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 
-- The first privilege the Jews asked was liberty to exercise their religion, but they could not avoid learning Grecian customs, as they already had Chaldean ones, and the Greek tongue.
-
-- They took Greek names and Hebrew names disguised with Greek terminations, as Jason for Jesus and Simon for Simeon; that is why the New Testament carries those names and is in Greek.
-
-- Saint Paul found great numbers of them in all the cities of Greece: those at the altar to the unknown God were Israelites abused and confused by the Greeks, just trying to survive.
+- These people were confused: they were abused and confused by the Greeks, just trying to survive. Whom ye ignorantly worship: they were not worshiping the God of Abraham, Isaac and Jacob, and knew nothing about Jesus Christ. Him declare I unto you: leave that stuff alone and come and serve your own Jesus Christ, the black Messiah.
 
 - All the empires have an appointed time until Jesus Christ, the black Messiah, comes; Paul's ministry was to bring them back to the Lord, who is not far from us.
 
 - 'Certain of your own poets': the Israelites had poets, because the Greeks brought them into poetry and literature.
 
 
-**[Acts 6:1](/bible/acts/6#v1)**  *[[1:15:15](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4515s)]*
+<div class="reading">
+
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", p. 172  *[[1:13:50](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4430s)]*
+
+> about two hundred and fifty years after the time of Antiochus the Great.
+
+- Athens, Greece. 'Cause those fools that's attacking us is telling us that those are Caucasian people. No, the Caucasian people were persuading our people to follow the customs of Greeks.
+
+- You see the time period. It was 250 years after Antiochus. It's the same thing with our captivity. We've served 400 years of oppression, 250 years of chattel slavery. Paul came 250 years after all this destruction that happened to the Israelites.
+
+> These Jews were half Greeks,
+
+- That's why Paul said there's no difference between a Jew and a Greek, you dumb Christians.
+
+> whom the eastern Jews called *Hellenists;*
+
+- Because there was a place called Helena where the Jews were Hellenized.
+
+> and they gave the Gentiles the name of *Hellenes,* which properly signifies Greeks;
+
+- That's why when you read, get Acts 6:1 and read it in the ASV, 'cause King James translated it as the Grecians or the Greeks. But the other translations tell you that these were Israelites who are identifying as Greeks.
+
+- I let this guy read this out of his Bible and he didn't want to talk no more. He said, "I got to go back and study. I got to go check that." He was all cocky and running his mouth till he read this.
+
+</div>
+
+
+**[Acts 6:1](/bible/acts/6#v1)**  *[[1:16:04](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4564s)]*
 
 > <sup>[1](/bible/acts/6#v1)</sup> And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
-
-- The Jews who were half Greeks were called Hellenists, and they gave the Gentiles the name of Hellen, which signifies Greeks.
 
 - The King James calls them Grecians, but the American Standard Version reads 'Grecian Jews' and the New International Version 'Hellenistic Jews': these were Israelites identifying as Greeks.
 
 - Let them read their own translations; they cannot explain it because they do not know the history.
 
-- In Saint Paul's epistles Greek and Gentile signify the same thing, and he is referring to the Jews.
-
-- The Greeks got knowledge of our religion and laws, especially after the Septuagint translated the Old Testament into Greek.
+- When you see Hellenistic Jews, Grecian Jews, it's not white people: there was a forced conversion under Alexander the Great and his four generals. Only the King James calls them Greeks or Grecians.
 
 
-**[Acts 26:27-28](/bible/acts/26#v27)**  *[[1:22:06](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4926s)]*
+<div class="reading">
+
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", p. 172  *[[1:17:56](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4676s)]*
+
+> whence it comes that in St. Paul's epistles Greek and Gentile signify the same thing.
+
+- The same way you people call yourself American. You call yourself Spanish. You call yourself West Indian. You call your name after your colonizers, after your enslavers. You call yourself African, after a Roman general, a white Roman general, Scipio Africanus. You call your name after your colonizer, after your enslaver, not the name God gave you.
+
+- When he says Greeks and Gentiles, he's referring to the Jews. It's the same thing. But these Christians, they read that there and they say, "No, brother. This means the other nations can be saved." They don't know this.
+
+> The Jews could not be so mixed with the Greeks, without the latter, who were very curious at that time, getting some knowledge of their religion and laws, especially after the translation of the sacred books.
+
+- That's why there's a Septuagint. They took the Old Testament and translated it into Greek. So if someone comes to you and tells you about the Septuagint, it comes from the word seventy. They translated the Old Testament into Greek because they were curious about it.
+
+- When the Greeks had knowledge of our religion and our laws.
+
+> Their wise men and true philosophers held them in great esteem, as we may learn by what Strabo wrote about them long after. All admired the magnificence of their temple and exact order of their ceremonies. Agrippa himself, son-in-law of Augustus, was astonished at it.
+
+- Remember what he said to Paul. He said, "You almost convinced me to be a Christian." Was it Agrippa or was it Felix? Can we get that in Acts chapter 26? I want to make sure I'm not butchering the name, 'cause I get one name wrong, they're going to be: you see, he doesn't know what he's talking about.
+
+- Because remember, the Jews were trying to stop him. They were following him around, as we read in Acts chapter 17.
+
+- For the sake of time, because I got a lot to read here, and I don't want to run out of time, 'cause I want to arm you men when you go out into the streets with this information. So when people start arguing about the Jew and the Greek, once you finish this, all they're going to want to do is fight you or leave the room, like they've been doing. They don't have no more argument. The confusion saying that the other nations could be saved is the argument about Gentiles and Greeks. Once you bring this history out, they have no other argument. They're going to want to fight you.
+
+</div>
+
+
+**[Acts 26:27-28](/bible/acts/26#v27)**  *[[1:22:14](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4934s)]*
 
 > <sup>[27](/bible/acts/26#v27)</sup> King Agrippa, believest thou the prophets? I know that thou believest.
 >
 > <sup>[28](/bible/acts/26#v28)</sup> Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.
 
-- Agrippa said, 'Almost thou persuadest me to be a Christian'; the book says Agrippa, son-in-law of Augustus, was astonished at the temple and the order of the ceremonies.
+- Agrippa said, 'Almost thou persuadest me to be a Christian': the way Paul was talking, he almost wanted to follow this man Jesus Christ. Agrippa and them were already admiring us.
 
-- A portion admired how we conducted ourselves, but most of the Greeks found the Jews too grave for a people made effeminate by Asiatic luxury.
 
-- That is what they say about us: too serious with the Sabbath, the fringes, the beard and the dress code. America makes weak, effeminate black men.
+<div class="reading">
 
-- The philosophers only discoursed on virtue and exercised themselves in disputation; many study to argue with us, not to learn about God.
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", pp. 172-173  *[[1:22:36](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=4956s)]*
 
-- The rest gave themselves to rhetoric, poetry, the gym and the sciences, and nothing to do with God; it affected our people.
+> But most of the Greeks at that time, I mean in the reign of the Macedonians, were not capable of relishing the customs and maxims of the Jews.
+
+- They were looking at how we conduct ourselves, and they admired us. They couldn't believe how these black people conducted themselves.
+
+- Because they hated what we were doing. You had a portion of white people that was amazed at what we was doing, how we was establishing our government. Then you had Greeks that said, we not following this.
+
+> They were too grave for the people
+
+- They were too serious. Do people not tell you that? You people are too serious with your Sabbath, with your fringes, with your beard, with telling the woman not to show their ass and their titties, and your head coverings and your dietary law. What did they say at that time?
+
+> whom the Asiatic luxury had made effeminate,
+
+- Made them gay. That's what it said. The way that they wanted to live was to make the men effeminate. So the spirit was already on the bishop, but he said, "You're going to look like men. We're going to clean you up. You're going to grow your beard. You're not going to come out looking dirty. You're going to have black boots. You're going to have order." They don't like that. That's scary. They don't want us marching through the cities, 'cause we don't look effeminate like that.
+
+- These guys are too serious. What about the love of white Jesus? Can't we all just get along?
+
+- America makes weak, black, effeminate men.
+
+> and whose sole employment was in trifles. There were indeed a great number of philosophers; but most of them contented themselves with only discoursing upon virtue,
+
+- So the philosophers was only to contend over our virtue.
+
+> and exercising themselves in disputation.
+
+- Pay attention. Before we switch to this page, I want to show y'all something. There were indeed a great number of philosophers. That's why I tell the people, when I'm going back and forth, I don't want to hear your philosophy or your theology, 'cause they try to reason that what we're saying is wrong. They have a philosophy, a belief system. They don't care what the Bible says.
+
+- Most of them, they wanted to argue.
+
+- So a lot of these people, they study to argue with us, not study to learn about God. They want to dispute. So that's why they're like, "I want to debate you. I want to debate you. I want to debate you." Because they have a philosophy that they're right. They don't care how they look in God's sight. They already put a philosophy together to come and argue with you. This was going on 300 years before Jesus Christ.
+
+> All the rest of the Greeks were possessed with curiosity and a fondness for *polite literature:* some applied themselves to rhetoric,
+
+- That's why Paul said, "Avoid vain and foolish babbling, because they're going to increase unto ungodliness." These people came with rhetoric. That's why when y'all hear us online, I'll be saying, "Yo, shut up. You're just talking. You just say stupid stuff. We don't want to hear this no more." This is what they were dealing with.
+
+- They want things that sound good.
+
+> others to poetry and music.
+
+- That's why Paul said, "Even of your poets," your poets, in Acts chapter 17. A fool tried to tell me that there were white poets teaching the people. No, the Israelites were into poetry and the literature of the Greeks.
+
+> Painters, sculptors, and architects, were in great repute.
+
+- That's what they hold in high reputation. They don't want to hear nothing about no Bible and keeping God's laws.
+
+> Others spent all their time in gymnastic exercises,
+
+- Working out, exercising. All they cared about was their body.
+
+> to form their bodies and make them good wrestlers. Others studied geometry, astronomy, and natural philosophy.
+
+- That's why you people, you put the education system before God. I'm not saying not to get an education, 'cause you need it to thrive in this world. But this was how the Greeks were. He's showing you they didn't care about nothing to do with God. They had their time in the gym working out, into playing sports, into geometry, into astronomy, into natural philosophy.
+
+> There were every where virtuosi, connoisseurs, curious and idle people of all sorts.
+
+- You had many different ways of thought during this time, and it affected our people.
+
+- Go back to what we was reading in Acts chapter 17. He says, "One of your poets," because I already showed you they brought the Israelites into poetry.
+
+</div>
 
 
 **[Acts 17:26-27](/bible/acts/17#v26)**  *[[1:28:35](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=5315s)]*
@@ -443,7 +733,252 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 - This is the same thing Paul says in Acts 17:31: God has appointed a day, and the people who are not right will die in his sight, so walk in righteousness.
 
 
-**[Acts 12:1-4](/bible/acts/12#v1)**  *[[2:16:03](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=8163s)]*
+<div class="reading">
+
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", pp. 173-175  *[[1:51:54](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=6714s)]*
+
+> The manners of the Romans were at that time much more solid.
+
+- Watch this now. Because the Greeks gave them a lot of freedom as long as they assimilated. It says the manner of Rome was more solid.
+
+> They applied themselves to nothing but agriculture,
+
+- They were focused on agriculture.
+
+> the knowledge of the laws and war,
+
+- They wanted to understand war and law.
+
+> and willingly left the glory of excelling in curious arts and sciences to the Greeks; that they might have the more time to extend their conquests,
+
+- Rome was only focused on shutting people down, on conquest.
+
+> and attend the government of their subjects, making politics, as Virgil says, their principal concern.
+
+- That's why this political system exists. They said, "We need to focus on establishing our government, not what the Greeks were doing."
+
+> The Jews were still a great deal more serious, as they made morality and the service of God their chief study.
+
+- We still wanted to keep our laws.
+
+- So while Rome was focused on government and agriculture and war, the Jews was like, "We just want to keep God's laws." It's the same thing now, while we tell y'all, don't join in the wars of America. Don't focus on their science and their politics. It's all BS. Focus on the laws, statutes of God, because that's how the kingdom is going to be established. The only way to go to the kingdom is if we bring them to the laws, statutes, and commandments of God. Rome's ideologies and Greek ideologies was different. You're not getting no salvation following another nation.
+
+> We have a good example of it in the book of Ecclesiasticus, written about the same time. Yet this was the reason that the Greeks looked upon them as an ignorant people,
+
+- Because we wanted to follow God's laws, they looked at us as ignorant people.
+
+> seeing they would learn nothing but their own law.
+
+- Is that not the response we get? We want to keep the laws, and people like, you stupid. Well, what is that? Why you got your woman dressed like that? Why y'all put those things on your shirt? You don't like pork. You're not getting a Christmas tree. They looked at us as ignorant for focusing on the laws.
+
+> They called them *barbarians,* as they did all nations that were not Greeks,
+
+- So that's why Paul spoke about barbarians. The Greeks were the ones that called us that.
+
+- That was a Greek custom, to call you a barbarian based on not speaking their language and their customs and their history.
+
+> and despised them more than any other strangers,
+
+- And they hated us more than any other nation because we were focused on the laws. The term barbarians was put on the Israelites.
+
+- They hated the Israelites more than any other race or nation of people.
+
+> upon account of their religion,
+
+- Because we wanted to serve God, and we wanted to teach the laws, statutes, and commandments. So I'm showing you, all the way back during the time of the Greeks, they hated us for serving God's laws. It's the same thing in America. People are mad at us, saying two things: salvation is for everybody, and you don't have to keep those laws. They don't even care if we say we're the Israelites anymore, because there's too much proof of that. But what they want to get you to do is to break God's laws.
+
+- And they hate you because they ain't you. So a cult is what they will paint you. Then they're going to slander us. Then they're going to lie on us. Like Nero: he started a fire and blamed the followers of Jesus Christ. So that's why we're very protective. That's why we're very suspect, because of the same tactics that Greece and Rome used. America is just an extension. They're just a different name today. And they have more surveillance. They have more policing. They're more curious. That's why we tell you they're going to send spies here. And all they're going to do is see us keeping God's laws, and they're going to hate us.
+
+- Because our religion was different. What we believed in God was different.
+
+> which appeared to them austere and absurd.
+
+- You guys are too serious. That's stupid, that you keep the new moon. You won't buy and sell on the Sabbath. You men want to grow your beards. You people put fringes on. You got your woman with skirts and dresses, and they have their head wrapped. This is absurd.
+
+> They saw them refrain from debauchery,
+
+- You guys won't go to the club. You won't drink. You won't smoke. You won't have sex with a whole bunch of different people.
+
+> not out of frugality and policy, but from a principle of conscience:
+
+- Because this bothers our conscience. Us not serving God, we feel uncomfortable. That's why Paul said in Acts chapter 17, in the time past God winked at our ignorance, but now God says he's appointed a time that we need to repent.
+
+> this appeared to them too strict, and they were particularly offended at their sabbaths,
+
+- How many of your family members were mad because you said you keeping the Sabbath? Mad. The particular thing they didn't like was that we did the Sabbath, because they already set it up. You go to church on Sunday. What is the seventh day of the week? You're supposed to be partying. You're supposed to take the kids to Chuck E. Cheese and shopping and doing all your stuff. You want to keep a Sabbath?
+
+> their fasts,
+
+- You starving yourself. You're not going to eat.
+
+> and distinction of meats.
+
+- You don't eat pork, shrimp, crab, the Red Lobster. What's wrong with you?
+
+> They accounted them enemies to all mankind.
+
+- That's what they saying about us. We are the enemies to all mankind because we want to put fringes on our clothes. We want to grow our beard. We want to keep the Sabbath. We want to dwell in booths for the Feast of Tabernacles. We want to do Passover. We don't care about Christmas, New Year's, Thanksgiving, Halloween, birthdays, Mother's Day. So they said we are enemies to all mankind.
+
+- Right now we got the powers that be watching us, but eventually it's going to be everybody. So that's why, as we start to teach, look, this book is only for them. Everybody don't see it yet. People still believe that their religion is attached to this book, but God is going to make it so it's going to be clear. Our teachings are going to be clear. The Israelites are here. Then the other nations are going to move in fear, and it's going to say just what it said: they counted them enemies to all mankind.
+
+> *They live separate from every body else,*
+
+- Is that not what people are saying? You cut your family off. You don't want to go to the club no more. You don't eat how you used to eat. You don't listen to the music. Look how she's dressing. She's not dressing the same. The stuff that you guys are teaching. Why? Or the other nation is saying, "We want to come in your church." They don't care about what we're teaching. They don't want to follow. They just hate the fact that we separate ourselves from everybody else.
+
+> says a Greek philosopher, *having nothing common with us, neither altar, offerings, prayers, nor sacrifices.*
+
+- We don't believe in what they do with the church. We don't care about what they do. A guy asked yesterday, why y'all don't do baptism? What's wrong with doing Mother's Day? What's wrong with celebrating my birthday? I'm showing you, all the way back to the time of the Greeks, the Israelites were trying to keep the laws, statutes, and commandments, and the other nations couldn't understand them.
+
+- So philosophers would sit down and study us and say, "These people are different. They don't care about what we care about. They don't follow what we follow."
+
+> *They are at a greater distance from us than the inhabitants of Susa, Bactria, and India.*
+
+- The other nations were following the Greeks, but we were a greater distance in our beliefs away from them.
+
+> We may add to this, that the fear of idolatry made the Jews reject sculpture and painting,
+
+- So that's why some Israelites, they don't even want statues in their house. They look at paintings as idolatry.
+
+- They were so worried about idol worship, like when we told people, take that cross off your neck. You idolizing that cross.
+
+> (which arts the Greeks held in much esteem,)
+
+- The Greeks held that in high esteem. We don't want that stuff around us.
+
+> as useless, ridiculous pieces of workmanship, and the fruits of idleness; which is the reason that idols are so often called *vanity* in Scripture,
+
+- Because our people were forced to be idolaters, to worship images. Like when you read in Acts about they were saying, great is Diana. When you read about Alexander the coppersmith, he was making money because he was making idols and selling them to the people. So this is showing you what Paul had to deal with. This is showing you a lot of explanations in the New Testament. You must know the history.
+
+- That's why we be like, "Yo, take that cross off." Number one, that's not what Jesus Christ look like. And who said to take Jesus and put him on a cross and wear it around your neck? It's idolatry.
+
+> to show that they are vain things, that have only a deceitful outside, and serve to no manner of good purpose.
+
+- There's no power in putting a cross with a white man on your neck, who we now know is Pope Alexander VI of Rome's son, Cesare Borgia.
+
+> They are also called an *abomination,* because they cannot be sufficiently detested, when we consider the stupidity that attributes the incommunicable name of God to them.
+
+- We understand the power of our God. You have a cross on your neck of a white man that was made up by Rome. We detest that. It's not who Jesus Christ is, and you're an idolater. So that's why you don't see us with no crucifix. But if you look at the Christian church, the crucifix is in everything, because they're heavy in idolatry.
+
+> For the same reason the Jews could not hear without horror the impious fables with which the Greek poets were filled.
+
+- So Paul spoke about poetry in Acts chapter 17. There were poets because the Israelites were listening to poetry, to music, to their arts. They were assimilating into the belief systems of things that pull you away from God, but it makes the people feel pleasure. It makes the people feel like they're higher and they're better.
+
+> Thus they drew upon themselves the hatred of the grammarians, whose profession it was to explain them; and of the rhapsodists, who made a trade of singing their heroic poems in public;
+
+- That's why Paul said, one of yourselves, even your poets, because the Israelites were following poetry.
+
+> and of the actors of tragedies and comedies;
+
+- That's why they were always doing plays. And you go into Manhattan, to the Broadway shows that they have.
+
+- That's why black people want to go into acting, and the tragedies and the comedies. They always have people, court jesters, and people to tell jokes. This started with the enemy. And you got certain comedians, black comedians, they can't do nothing for the black people. These actors, they can't do nothing for black people. These comedians and these actors were trained to entertain. This is where it came from.
+
+- They have like a Tyler Perry. They're always doing something bad with black people, or someone on drugs, or some abuser, or some womanizer, or the movie *For Colored Girls*, where they show what's his name throwing the kids out the window. They like to see tragedy. They like to see that stuff repeated in the movies by actors.
+
+- And then at the same time, there's someone to tell you jokes and to make you laugh.
+
+> and of all others, whose livelihood depended upon poetry and false theology.
+
+- So that's why when you're talking, and someone is going to theology and they're moving away from the scripture, shut them down.
+
+> The Jews indeed made it a rule not to laugh at other nations,
+
+- Don't clown them.
+
+> nor to say any thing disrespectful of their gods;
+
+- And that's what we tell y'all. Just tell them, "Look, we don't believe that. We're not following that." Because they get upset and they want to fight.
+
+> but it was scarce possible that some word of contempt should not escape from them.
+
+- It was hard not to ridicule white man Jesus. It was hard not to ridicule Hercules or Zeus, or whatever foolishness that they learned from the Greeks, because we know the one true God.
+
+> Now how angry must a Greek grammarian have been, if he had heard a Jew repeat a passage out of the prophets against idols;
+
+- So we went into the scriptures to condemn idolatry. When we went into the scriptures to condemn pagan worship, the grammarians of the Greeks, that's a sect of Greeks, they were upset when we would condemn what they believe with book, chapter and verse.
+
+- So you got to remember the way the church is set up. They're not set up to go and read thou shalt not kill, thou shalt not steal, thou shalt not commit adultery. That's why when they want us to debate, they don't want y'all going into those scriptures. So they're studying the scriptures to paint a different picture of what God has to say.
+
+> if he had heard him assert that Homer was a false prophet and impostor, or ridicule the absurdities that occur in the genealogies, the amours and crimes of their gods?
+
+- Because they were into wickedness. And when we read in our Bible and show you what our God got to say, they're upset that we're going a different way.
+
+> How could they bear any one's showing an abhorrence to the scandalous impurities of the theatre,
+
+- That's your movies today. It's all scandal. It's impurity. Has nothing to do with God.
+
+> and the abominable ceremonies of Bacchus and Ceres:
+
+- We read about that in Second Maccabees chapter 6, that the Jews were forced to carry ivy to Bacchus.
+
+> in a word, to hear him maintain that the God of the Jews was the only true God,
+
+- That's why they hate us, 'cause we don't care about nobody else's god. We don't care about Muhammad. We don't care about Islam. We don't care about Mithraism, Buddha, Hindu. We don't care about that. We say there's only one God you're supposed to follow.
+
+> and that *they* only, of all the people upon earth, were in possession of the true religion and morality?
+
+- They hate that. They're saying, "What makes you people right? Why do you think you're better than us? Why are you so boldly saying that you're the Israelites and God is only for you?" They can't stand that. So this history is excellent to show you how far this goes back, because now we're seeing why they ready to attack.
+
+> They despised them the more for not knowing how to make learned harangues, or dispute in form;
+
+- For not knowing how to make learned lectures or speeches, 'cause that's what they do when they go back and forth with us. They'd be like, "Stop using that Bible. Stop reading all those scriptures," 'cause they made things up to get people to be interested in them or to listen to them.
+
+- When people come to us and they don't know the Bible, they're trying to find a way to argue with us, and it's not working, because we using book, chapter, and verse.
+
+> and because, for a proof of these great truths, they chiefly alleged facts, that is to say, the great miracles that God had wrought in the sight of their fathers.
+
+- We keep talking about the deliverance of our forefathers: Moses parting the Red Sea, the ark, the flood, people being raised from the dead, miracle healings, the miracles of Jesus Christ. They don't want to hear none of that.
+
+> Now the common people among the Greeks did not make any distinction betwixt those miracles and the prodigies which they also related in their fables;
+
+- They didn't care about the miracles of our forefathers. They didn't care about the lies that the Greeks were teaching.
+
+> and philosophers thought them impossible, because they only reasoned from the laws of nature,
+
+- They only believe in nature, what they could see. They don't believe in spirituality. They don't believe in the miracles written in the Bible, and God defying science.
+
+> which they held to be absolutely fixed and unalterable.
+
+- So when we talk about a man being raised from the dead, everlasting life, telling the people that we're going to be resurrected, they say, "You're altering the things of nature. Who are you to come saying this? Who are you here to tell the people, don't worry about death, there's a God that's going to raise you up after you die?" They're saying you're altering things by teaching this out of your Bible.
+
+> This being the disposition of the Greeks, they listened the more eagerly to the calumnies of the Phœnicians,
+
+- The calumnies is the ridicule that they have against us, because they hate us. If anybody comes up with anything that goes against what we teach.
+
+- The Phoenicians were before the Greeks.
+
+> Egyptians,
+
+- The Egyptians were before the Greeks.
+
+> and other enemies of the Jews.
+
+- So they would listen to what the other nations had to say. So it's not just the United States of America that don't want the teachings of the Israelites to go out. It's going to be China, Japan, all these other nations that hate us for the color of our skin.
+
+- It said, this being the disposition of the Greeks, they listened more eagerly to the calumnies, that's the ridicule, that's the disrespect, of the Phoenicians, the Egyptians, and other enemies of the Jews. Stop thinking it's just these Caucasian people that enslaved us. The Arabs hate us. Any nation that's against us, they listen to them, is what it's saying here.
+
+> And thence proceeded those impertinent stories that Tacitus
+
+- Which was a Roman historian.
+
+> tells us so gravely, when he is explaning the origin of the Jews,
+
+- So they will study our origin.
+
+> and has a mind to act the learned historian; and which are to be met with likewise in Justin, who had had the same information. Strabo does not seem to know much more of the matter, though he treats it more sensibly.
+
+- So he named historians at that time who had knowledge of what we were doing.
+
+> But besides these slanders, which might easily have been overlooked, the Greeks proceeded to violence and persecution.
+
+- Slanders: they were speaking against us because we want to serve our God. We want to follow our religion. We were separate from them. We looked down upon what they were doing.
+
+- Which is what we're coming to now. Eventually, as we start to grow, we're not that big right now, or the Lord is not going to show us how big we are. Eventually, when they see that this movement is coming, they're going to resort to violence and persecution. Let's get that in Acts 12, verse one.
+
+</div>
+
+
+**[Acts 12:1-4](/bible/acts/12#v1)**  *[[2:16:43](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=8203s)]*
 
 > <sup>[1](/bible/acts/12#v1)</sup> Now about that time Herod the king stretched forth his hands to vex certain of the church.
 >
@@ -453,10 +988,6 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 >
 > <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 
-- The book says the Greeks hated the Jews more than any other strangers for their religion, Sabbaths, fasts and distinction of meats, and accounted them enemies to all mankind; that is what they say about us now.
-
-- Beside the slanders, the Greeks proceeded to violence and persecution; when they see this movement coming, they will do the same.
-
 - Herod vexed certain of the church: they target the leaders and teachers who have an impact, because smite the shepherd and the flock will scatter.
 
 - It pleased the Jews: when something happens to us, it is other black Hebrew Israelites rallying and doing videos.
@@ -464,7 +995,36 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 - He arrested Peter in the days of unleavened bread; that is why we must have security on our high holy days.
 
 
-**[Luke 18:1-7](/bible/luke/18#v1)**  *[[2:22:22](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=8542s)]*
+<div class="reading">
+
+Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", pp. 175-176  *[[2:20:06](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=8406s)]*
+
+> Thus Ptolemy Philopater, after he had lost the battle of Raphia, discharged his wrath upon the Jews: and his son Epiphanes, being provoked at their not letting him go into the sanctuary, would have them exposed to elephants,
+
+- That's how it's going to be. When they realize they can't stop us, they're going to proceed to violence and persecution. As we arm you men with more information, they're going to say, "Look, we can't take these guys no more. Start hurting them."
+
+- We read about that during the time of the Maccabees. Because remember, they wanted to bring the abomination of desolation on us that Daniel spoke of.
+
+> as it is related in the Maccabees. Under Seleucus Philopater, king of Syria, Heliodorus came to plunder the sacred treasure,
+
+- All this history is in First and Second Maccabees.
+
+- Remember, they came to take our money.
+
+> and nothing but a miracle prevented his doing it.
+
+- Remember, he's talking about when the Lord sent angels. The angels had to come and defend the sanctuary.
+
+> At last, under Antiochus Epiphanes began the greatest persecution they ever suffered, and which is not inferior to any that the Christians have endured since. Those who died at that time for the law of God have been ordinarily classed among the martyrs.
+
+- So this is what we've been preparing you for, that they're going to attack us. And some of us are going to die keeping the laws of God. This history was during the time of the Greeks and the Romans, and it's coming now in the time of America.
+
+- So we got to have the mindset to pray and ask for vengeance from God, as it says in Luke 18:1, because some people find it strange. We're now knowledgeable. We're knowing what's coming. Now that we know this history, we know that history repeats itself. We're preparing you to pray and ask God for vengeance. That's what y'all got to start having in your prayer.
+
+</div>
+
+
+**[Luke 18:1-7](/bible/luke/18#v1)**  *[[2:22:51](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=8571s)]*
 
 > <sup>[1](/bible/luke/18#v1)</sup> And he spake a parable unto them to this end, that men ought always to pray, and not to faint;
 >
@@ -479,8 +1039,6 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 > <sup>[6](/bible/luke/18#v6)</sup> And the Lord said, Hear what the unjust judge saith.
 >
 > <sup>[7](/bible/luke/18#v7)</sup> And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
-
-- Now that we know this history and that history repeats itself, we must pray and ask God for vengeance.
 
 - We are supposed to weary God with asking for vengeance, as the widow wearied the unjust judge.
 
@@ -531,7 +1089,7 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 ## Announcements & References
 
 - The closing of the Feast of Tabernacles is at sundown tomorrow; the calendars say the 17th and the website the 18th. Be packed up.
-- Reference: Manners of the Ancient Israelites by Claude Fleury and Adam Clarke, pages given by the California school in Bakersfield.
+- Reference: *Manners of the Ancient Israelites* by Claude Fleury and Adam Clarke, Part III, Chapter III, "The State of the Jews under the Macedonians", pp. 170-176, pages given by officer Matt Dias of the California school in Bakersfield.
 - Reference: the Zondervan Bible dictionary, on the Epicureans, the Stoics and the Grecians.
 
 ---

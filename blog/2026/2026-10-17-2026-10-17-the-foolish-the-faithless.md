@@ -24,7 +24,6 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 - *[[7:47](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=467s)]* **The thumbnail video: a brother at the feast who cannot put up his tent, helped by a sister** — Things that actually took place after the day of atonement: brothers at the tabernacle who never trimmed their lamps, sneaking and creeping.
 - *[[1:21:53](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=4913s)]* **An image of Brandon Tatum** — For all men have not faith: men that hope for our downfall; anybody against this truth does not hate us, he hates Christ.
 - *[[2:28:19](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8899s)]* **Images of a single-edged knife and a two-edged sword** — All sin is a two-edged sword: sharp on both sides, it cuts, lacerates and kills.
-- *[[2:30:57](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=9057s)]* **An article on the blood knife trap, the way hunters in the Arctic kill wolves with a blade frozen inside layers of blood** — Satan is the hunter, lust (money, drugs) is the blood on the blade, social media, music and TV are the layering; sin numbs the tongue until the wolf bleeds to death in the snow. The wages of sin is death.
 
 ## Scriptures Opened
 
@@ -36,17 +35,13 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 >
 > <sup>[28](/bible/leviticus/23#v28)</sup> And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the Lord your God.
 
-- On the tenth day of the seventh month there shall be a day of atonement. Atonement means taking action to fix a past wrongdoing, show remorse, or restore a broken relationship.
+- On the tenth day of the seventh month there shall be a day of atonement.
 
 - A just man falleth seven times but getteth back up again: we are going to make mistakes in this truth. The Lord could have easily cast you off and killed you, but he made a specific day for the entire twelve tribes to atone and repent.
 
 - The day of atonement is not a get out of jail free card. Cutting up all year because the day is coming and the Lord has to forgive you is a mindset the Lord has a special place for.
 
-- Brothers and sisters come into the day of atonement and never atone: the sinful brother or sister is still there, no remorse. You have hatred for a brother or sister from five to ten years ago and smile in their face every year. What you have done unto them, you have done unto me.
-
-- Expressing deep regret and accountability through behavior rather than just words: the Lord knows if you are sincere. Go Matthew 18, get it clarified, apply the laws.
-
-- It shall be an holy convocation: an assembly of persons called together by the laws of God to meet on the Lord's terms. It should be face to face, not a phone call; you are to be there, not keep it in your backyard. Ye shall afflict your souls, and do no work, no buying or selling, in that day.
+- It shall be an holy convocation: a lot of brothers and sisters have the ability to be there, because it's a commandment, a holy convocation, not an unholy separation. It should be face to face, not a phone call. Ye shall afflict your souls, and do no work, no buying or selling, in that day.
 
   Precepts:
   - **[Jonah 3:7-8](/bible/jonah/3#v7)**
@@ -56,6 +51,70 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
     To afflict your soul is to humble down with a broken and contrite heart: not eating, not tasting water, crying mightily unto God and turning from your evil ways. Not eating a huge meal the day before or sleeping through the day of atonement; it shows you can control that flesh.
 
+
+<div class="reading">
+
+Reading from a dictionary, on the word atonement  *[[13:21](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=801s)]*
+
+> Atonement. Atonement means taking action to fix a past wrongdoing, show remorse, or restore a broken relationship.
+
+- Whoa. So it says taking action to fix a past wrongdoing. Wow, this is heavy. Or restore a broken relationship. So let's take that into consideration.
+
+- You see the middle part right there? Show remorse. Brothers and sisters don't show remorse. Brothers and sisters keep the day of atonement and still come into the day of atonement and never atone for their sins. They're there carnally. They're just there. The sinful brother or the sinful sister is still there. There was no exorcism of those wrongs or showing any type of remorse for going against God's laws. You remain in your sin from year to year to year.
+
+- You have hatred for a brother or sister from five to damn ten years ago. You never atone, but you will smile in their face every damn year. It's going to come a time that the Lord is going to cast your black ass out these doors. You don't want to make no atonement. There is no building a broken relationship.
+
+- The Most High said, what you've done unto them, you've done unto me. Whether visiting the sick, whether visiting those in prison, making amends with your brother and sister, you got to see Christ in one another. But brothers and sisters, I can't get over what you did to me. Well, the Lord ain't never going to get over what you did to him.
+
+> Making amends: doing something practical or meaningful to correct a mistake,
+
+- Against the Father. Correct the mistakes. You broke the laws.
+
+> pay compensation,
+
+- You must pay compensation. Atone. Rectify.
+
+> or repair an injury you caused.
+
+- You injured your brother or sister. The stroke of that tongue, and the nastiness of a lot of y'all brothers and sisters that don't have seasoning nowhere inside your tongue. You could destroy spirits. You could offend the little ones. I don't give a damn. Not everybody's spirit is the same, brothers and sisters. But a lot of you brothers and a lot of you sisters, your tongue is very, very sharp and nasty, and the damage created, you don't give a damn.
+
+> Showing remorse: expressing deep regret
+
+- Wait a minute. Expressing deep regret: that's even before you utter a sentence or you're face to face with that person. Did you really reflect and examine yourself of how you dealt? Is that godly? Is that on the grounds of being a daughter of Sarah? You sisters should be comparing yourself to your foremothers, not the sister that sits next to you: Rachel, Sarah, Deborah. A lot of times you brothers and sisters want to compare yourselves to the brother to the right or to the left of you. Hold yourself accountable and compare yourself to your forefathers and foremothers.
+
+> and accountability through behavior rather than just words.
+
+- See what I said? There must be sincerity. The Lord knows if you're sincere. Brothers and sisters will say, well, I don't feel that you were sincere enough. At the end of the day, between you and the Lord, you know if you are sincere, and the Lord will remind you. If that brother or sister feels that you weren't sincere, that's between him and the Lord. You made atonement, you went Matthew 18, everything was clarified. Y'all got to apply the laws.
+
+> Synonyms: amends, reparation, restitution, penance, and reconciliation.
+
+- Reparations: payment. Restitution: payment, repay.
+
+- Reconciliation. You got brothers and sisters that ain't even trying to make the day of atonement. They don't want to be there: you know what, we'll keep it in our backyards. Now, we understand there's brothers and sisters that are sick, or may not have the means to be in the midst of the entire body. But at the end of the day, it says that we are to reconcile. We are to be there.
+
+</div>
+
+<div class="reading">
+
+Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=1388s)]*
+
+> Convocation: an assembly of persons
+
+- Does it say an assembly of persons? There's an s at the back of that, meaning there's a multitude of brothers and sisters included in this holy, set-apart convocation.
+
+> called together to a meeting;
+
+- They were called together by the laws of God to meet on the Lord's terms.
+
+> an assembly of bishops.
+
+- So it just clarified that convocation is a righteous assembly via the law of our heavenly Father, the God of Abraham, Isaac and Jacob.
+
+> Synonyms of convocation: assembly, conference, meeting, assemblage.
+
+- That assembly is the getting there. The conference amongst brothers and sisters. The meetings with your leadership. The breaking down, getting the knowledge, the milk. The assemblage, the gathering together of a great and mighty nation. That's what the Lord requires of his children.
+
+</div>
 
 **[Matthew 25:1-13](/bible/matthew/25#v1)**  *[[29:42](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=1782s)]*
 
@@ -311,7 +370,7 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
 - Thou hatest all workers of iniquity: remember that word, workers. The Lord will destroy the workers of sin.
 
-- Leasing is not an everyday word: go back and check the dictionary. Leasing is the act of lying, a lie, a falsehood.
+- Leasing is not an everyday word: go back and check the dictionary. Now you're thinking a brother or sister has leased me their car, leased me an asset or a loan.
 
   Precepts:
   - **[Psalms 4:2](/bible/psalms/4#v2)**
@@ -319,6 +378,16 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
     How long will ye love vanity and seek after leasing: the lies of this world and doctrines of devils, the oppressor's agenda, Islam, Buddha, Chinese New Year, Kwanzaa, Christmas and Halloween on the 31st of this month. A lot of y'all have itching ears for pastors but will not seek after the Lord, the history or the whole book of Leviticus.
 
+
+<div class="reading">
+
+Reading from *Merriam-Webster's* dictionary, on the word leasing  *[[1:43:43](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=6223s)]*
+
+> Leasing: the act of lying; also: lie, falsehood.
+
+- Lie and falsehood.
+
+</div>
 
 **[Matthew 16:21-27](/bible/matthew/16#v21)**  *[[1:46:22](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=6382s)]*
 
@@ -419,12 +488,24 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
 - Foolishness is bound in the heart of a child: Christ likened the men of that generation to children because they were fools who denied the testimony and denied him being the King.
 
-- That is the mentality of the scribes and Pharisees and of the leaders today: foolish, malevolent, spewing venom in their podcasts. But it ain't going to stop this truth; our leader is untouchable.
+- That is the mentality of the scribes and Pharisees and of the leaders today: foolish, dumb, ignorant, evil, nasty, malevolent, rebellious.
 
 - The rod of correction at home: chastise your children as it is written, not throwing them through the wall. These kids are not being disciplined; that is why they are emotional, killing and shooting.
 
 - The rod of correction from the Lord to a fool is the bullet, the penitentiary, AIDS and herpes for the adulterer, life in prison for the pornography. Puffy is going through that right now. Judgment is the only thing that will fix a fool that despises God's laws.
 
+
+<div class="reading">
+
+Reading from a dictionary, on the word malevolent  *[[2:16:34](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8194s)]*
+
+> Malevolent is an adjective that means having, showing, or coming from a strong desire to cause harm, evil, or pain to others.
+
+- And how does that happen today? Spewing all types of venom in their podcasts, all types of venom in their videos. But you know what? It ain't going to stop this truth. The thing y'all fail to forget is our leader is untouchable. Your creator is untouchable. You're fighting against your creator, so you can't stop his program. It's going to continue on.
+
+- Our prayer is that you repent, but if this is how the Lord has you drawn out, fulfill your course. I'm just glad I don't have to go down that line with you. Play out your course. Brute beasts.
+
+</div>
 
 **[Proverbs 6:32-33](/bible/proverbs/6#v32)**  *[[2:20:22](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8422s)]*
 
@@ -501,6 +582,62 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
     I will recompense their iniquity and their sin double, because they have defiled my land.
 
+
+<div class="reading">
+
+Reading from an article on the blood knife trap  *[[2:30:57](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=9057s)]*
+
+> The blood knife trap. The allegory. In the traditional narrative, the trap is described through the following steps.
+
+> Number one, the preparation. A hunter
+
+- In this text I'm going to put it spiritually: Esau. Satan.
+
+> takes a razor-sharp hunting knife,
+
+- Edom, Satan. Your lust.
+
+> dips the blade into animal blood, such as seal or caribou blood,
+
+- Money, drugs. That's the blood that's on that blade.
+
+> and lets it freeze in the Arctic cold.
+
+- So now you have a hunter that goes out and hunts wolves in the Arctic. This is the way that they trap wolves. This world.
+
+> The layering. The process is repeated multiple times, adding layer upon layer of frozen blood until the lethal steel blade is entirely hidden inside a blood popsicle.
+
+- The programming, through social media, music and TV. So they've done a deep, diligent research on how to trap the children of Israel through their media.
+
+> The trap setup. The hunter buries the handle of the knife deep into the frozen ground or snow, leaving the sharp, blood-covered blade pointing straight up.
+
+- The hunter: Satan.
+
+> The outcome. A wolf smells the blood from miles away
+
+- His lust, whether it be porn, whatever the case may be.
+
+> and begins licking the frozen block.
+
+- Oh, he's having a time.
+
+> As it licks, the cold numbs its tongue.
+
+- The sin numbs the ability to understand that he's going to be put to death.
+
+> Eventually, the frozen blood melts away,
+
+- All bread is sweet to a whoremonger; he will not leave off until he die.
+
+> and the wolf slices its own tongue on the bare blade.
+
+- So you end up lacerating your own spirit, over and over.
+
+> Driven by a frenzy for the fresh, warm blood, the wolf allegedly continues to lick the blade, unaware that it is consuming its own life force, until it bleeds to death in the snow.
+
+- It's that euphoria of never getting caught and adding sin to sin. The wages of sin is death.
+
+</div>
 
 **[Sirach 17:25-26](/bible/sirach/17#v25)**  *[[2:33:09](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=9189s)]*
 

@@ -160,5 +160,27 @@ class Queue(unittest.TestCase):
         self.assertEqual(printed.splitlines(), ["skipped TESTVIDEO02 — note in open PR #164"])
 
 
+class ReadingsRender(unittest.TestCase):
+    """A reading item is quoted where it was read, between the passages, never turned into points."""
+    T = {"videoId": "TESTVIDEO01", "date": "2026-01-03", "slug": "2026/2026-01-03-test-class-one", "title": "Test"}
+
+    def test_a_reading_is_quoted_in_place_with_its_breakdown(self):
+        d = {"about": "x", "intro_ts": "1:00", "passages": [
+            {"ref": "Genesis 1:1", "ts": "2:00", "points": ["a point"]},
+            {"reading": "*A Book* by An Author, p. 9", "ts": "3:00", "reader": "Captain Yahn",
+             "walk": [{"read": ["The words read."], "notes": ["What was said on them."]}]},
+            {"ref": "Genesis 1:2", "ts": "4:00", "points": ["another point"]}]}
+        md = auto.render(self.T, d, "classes")
+        at = md.index("Reading from *A Book* by An Author, p. 9 · read by Captain Yahn  *[3:00]*")
+        self.assertLess(md.index("Genesis 1:1"), at)
+        self.assertLess(at, md.index("Genesis 1:2"))
+        self.assertIn("> The words read.\n\n- What was said on them.", md)
+
+    def test_a_reading_with_nothing_read_is_left_out(self):
+        d = {"about": "x", "passages": [{"ref": "Genesis 1:1", "ts": "2:00", "points": ["p"]},
+                                         {"reading": "*Empty*", "ts": "3:00", "walk": [{"read": [" "], "notes": ["n"]}]}]}
+        self.assertNotIn("Empty", auto.render(self.T, d, "classes"))
+
+
 if __name__ == "__main__":
     unittest.main()
