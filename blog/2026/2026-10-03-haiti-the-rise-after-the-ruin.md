@@ -58,6 +58,58 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 
 - God is the shield of Israel's help and the sword of their excellency, and they will tread upon their enemies' high places.
 
+<div class="reading">
+
+Reading from *Bulgarian Monasteries*  *[[18:39](https://www.youtube.com/watch?v=pZs5reAzxi4&t=1119s)]*
+
+> Bulgarian Monasteries.
+
+- This is how they found liars. So, this is a monastery in Bulgaria. That's all the way, that's in Europe.
+
+- On this monastery you got images of the prophets and the saints as black people. So we've been told all our lives that these people were European Caucasians. Now we're finding books that show the ancient relics that our ancestors built, showing and painted images of our people on these churches, on these monasteries.
+
+- Here's the crucifixion. That's Christ in the center. A black man with the two thieves on either side of him. Black men. Everybody in the painting is black. So it's like, wait a minute. Hold on. That's Mary, Martha. Those are the priests, the scribes, Pharisees. Everybody's black. So for centuries, they've taught us that these people were Caucasian. They make movie after movie after movie with these people, our people, as Caucasians.
+
+> Gospel scenes are painted on the lunettes of the wall niches, the upper part of the vault arcs and the supports of the cupola. The standing figures of saints and archangels are painted on the lower parts of the murals.
+
+- See these type of books, y'all go to the African-American section, you ain't going to get nothing there but Martin Luther King, Harriet Tubman, Sojourner Truth and the civil rights. You got to go to the European section, the Jewish book stores, Jewish section and parts of the Byzantine section. That's where you find these books. But black people don't know about that.
+
+> Here we find the nativity, the presentation in the temple, the baptism and the circumcision. The dormition of the virgin is depicted in the lunette on the western wall. On the vault area of the same wall, the raising of Lazarus and the entry into Jerusalem are to be seen. On the vault area of the north wall are the scenes of the crucifixion and the descent into hell. A monumental image of the virgin Platytera with the image of Christ in a medallion on her breast is painted in a small conch of the apse. There is a monumental image of Christ Pantocrator surrounded by a frieze of medallions with the image of angels. The standing figures of the 12 apostles are on the walls of the drum at the side. Large composition of judgment day.
+
+- Now look on the right. On the left you got Europeans in the front. You got Caucasian. That's what they do. They whitewash our images and put their images. See the one that got his face blotted up. They didn't finish messing up the face. They took the color out of the rest. But that one, you had to chisel that out and then repaint it. But now when you go to the right of the book, it shows you all the black faces of the prophets and the saints with the apostles.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes, a Myth: Suggestions Towards Rewriting Hebrew History* by Allan H. Godbey, PhD (Duke University Press, 1930)  *[[22:31](https://www.youtube.com/watch?v=pZs5reAzxi4&t=1351s)]*
+
+> Yemen Jews and Falashas, Berber, Moorish, and Negro Jews.
+
+- Negro Jews. What?
+
+- Now, I'm going to this map to show you that on the continent of Africa, and it's not just the continent of Africa, it's worldwide, Israelites are scattered. And the reason I want y'all to understand this part, because today's lesson we're going to talk about Haiti, the tribe of Levi. Many people listening assume that we're saying the only Levites on the planet Earth is in Haiti. No, nobody ever said that. We know that they're scattered. But we're saying there is a portion, a remnant on the island of Haiti.
+
+> Levite cities.
+
+- Right under Nigeria. And you see right above it, it says Hausa. Now, today the Hausa are Islamic. But guess what? That is where the Levite cities are. Now remember this book was published in 1930. This map is older than that. The Edomite author found the map, put it in the book.
+
+- Another Levite cities with an S. They're plural. That's in Nigeria.
+
+> Beni Ephraim.
+
+- Beni means sons of Ephraim. We know the only Ephraimites is not just in Puerto Rico. You got a remnant that never intermingled with anybody right there on the continent of Africa.
+
+> Jewish colonies, Jewish kingdom of Ganata. Judeo-paganism.
+
+- This whole map, and there's other maps that talk about the Melanesian islands as well, where Israelites are the tribe of Naphtali. So a lot of these things, these books were put together in hopes that Negroes and Latinos would never get our black hands on them. But there is a God. And the Most High said, look over here. Pick this book up. Look at it. Open it.
+
+- So when we say the term Africa or African, be mindful there are Hamites in Africa which sold us into slavery, and then you have Shemites called Africans as well, which are our brothers and sisters.
+
+- So if y'all could get a copy of this book, get it, that way you know. Fact check.
+
+</div>
+
 **[Job 11:6](/bible/job/11#v6)**  *[[26:30](https://www.youtube.com/watch?v=pZs5reAzxi4&t=1590s)]*
 
 > <sup>[6](/bible/job/11#v6)</sup> And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth.
@@ -93,6 +145,24 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 > <sup>[7](/bible/1-peter/3#v7)</sup> Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 
 - Husbands should dwell with their wives according to knowledge and give honor to them as the weaker vessel, and they are heirs together of the grace of life.
+
+<div class="reading">
+
+Reading from an excerpt sent by Bishop Yosep, on the free negro and the Constitution  *[[36:37](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2197s)]*
+
+> A free negro of the African race whose ancestors were brought to this country and sold as slaves is not a citizen within the meaning of the Constitution of the United States.
+
+- So, this is an excerpt from the US Constitution. It references us as being brought to this country and sold as slaves.
+
+- That's why I always say that we are what's called denizens. If you're a citizen, you don't need to vote for civil rights. You don't need to run to Congress and ask for rights and voting rights. We're not true citizens in a sense of the word.
+
+> When the constitution was adopted, they were not regarded in any of the states as members of the community which constituted the state and were not numbered among its people or citizens.
+
+- Y'all see that right there? So, we need to stop deceiving ourselves. Oh, we're citizens. No, you're not.
+
+- We're not citizens in the true meaning of the word. They may have us citizens on paper today because of the amendment, but a citizen, like I said, you don't have to fight for voting rights. You don't have to fight for civil rights. It would be given to you automatically. But we got to fight for everything.
+
+</div>
 
 **[Genesis 49:1](/bible/genesis/49#v1)**  *[[42:45](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2565s)]*
 
@@ -141,6 +211,44 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 > <sup>[9](/bible/isaiah/2#v9)</sup> And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.
 
 - God forsakes his people when they replenish themselves from the east and practice witchcraft and sorcery.
+
+<div class="reading">
+
+Reading from a comparison of Haiti and the Dominican Republic  *[[58:35](https://www.youtube.com/watch?v=pZs5reAzxi4&t=3515s)]*
+
+> Haiti and the Dominican Republic share the Caribbean island of Hispaniola. But they have stark differences in their history, economy, environment, and culture.
+
+- So, there's difference. So, when it says, be thou not united, not only are they separated on the island, they're separated in terms of their history, economy, environment, and culture.
+
+> Haiti. Colonized by France. It operated as an intense, brutal sugar plantation economy relying on massive numbers of enslaved Africans. Haiti won its independence in 1804 through a historic slave revolt, but was later forced by France to pay a massive crippling indemnity that hindered its early financial development.
+
+- They forced Haiti to pay the white men reparations.
+
+> Dominican Republic. Colonized by Spain. The eastern side of the island developed a more diversified settler-based society with less extreme wealth extraction. It declared independence from Spain in 1821 and later fought off a period of Haitian occupation from 1822 to 1844.
+
+- So these are the differences. So when it says be thou not united, these are the differences between the two.
+
+- So Haiti was colonized by France. Santo Domingo, Dominican Republic was colonized by Spain.
+
+- United the whole island. There was a president of Dominican Republic that did not want to be under the Haitians. He'd rather be under Spain, and he wrote letters to Spain, said we want to be under you.
+
+> Economy and wealth. Haiti remains the poorest nation in the Western Hemisphere, struggling with severe political instability, weak infrastructure, and recurring natural disasters. Dominican Republic developed one of the largest and most stable economies in Latin America, heavily driven by global trade, foreign investment, and a booming tourism industry.
+
+- So here's another difference with Haiti and Dominican Republic.
+
+> Environment and geography. Haiti suffers from severe deforestation and topsoil erosion because a large portion of the population relies on wood and charcoal for energy, leaving much of the terrain dry and less fertile.
+
+- So, as you know, Spain puts money in America to enter the Dominican Republic. That keeps the Dominican Republic fertile, infrastructures good. Haiti, no true investments there. So, they got to tear down a lot of the trees. That's what it's talking about. Deforestation.
+
+> Dominican Republic features lush green landscapes, higher rainfall, rich agricultural valleys like the Cibao Valley, and strict environmental protection laws.
+
+> Language and culture. Haiti: culturally and linguistically tied to France. The population predominantly speaks Haitian Creole and French, with Afro-descendant traditions forming the core of local identity. Dominican Republic: culturally and linguistically tied to Spain. The official language is Spanish, and the society features a blended Spanish, African, and indigenous Taíno heritage.
+
+- Here's another difference. Be thou not united. They're not united in language and culture.
+
+- So now we have a better understanding of be thou not united. We went over the economy, the language, the culture. They're not united in those things, those factors. This is how we know that today the Haitians are the tribe of Levi, and Simeon is in the Dominican Republic.
+
+</div>
 
 **[Deuteronomy 18:9-12](/bible/deuteronomy/18#v9)**  *[[1:03:10](https://www.youtube.com/watch?v=pZs5reAzxi4&t=3790s)]*
 
@@ -204,6 +312,84 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 
 - The Levites' job was to teach Jacob's judgments and the law.
 
+<div class="reading">
+
+Reading from an image on Napoleon and Toussaint Louverture  *[[1:18:52](https://www.youtube.com/watch?v=pZs5reAzxi4&t=4732s)]*
+
+> Napoleon was one of the greatest generals who ever lived. But at the end of the 18th century, a self-educated captive with no military training drove Napoleon out of Haiti and led his country to independence. His name was Toussaint Louverture.
+
+- Levi fought against this bastard right here, Napoleon Bonaparte, from 1791 to 1804. It wasn't a one-year war. This war continued for quite some time.
+
+- When I say the white man loves their white people, they are true nationalists. But when we say that we're nationalists, it's evil. We're not supposed to be nationalist, meaning love your race. That's a nationalist. Somebody loves their nation of people.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on Haiti's war for independence  *[[1:21:25](https://www.youtube.com/watch?v=pZs5reAzxi4&t=4885s)]*
+
+> Haiti's war for independence, known as the Haitian Revolution, lasted for 13 years,
+
+- This was a 13-year war.
+
+> from 1791 to 1804. Key timeline. The start: the uprising began with a coordinated slave revolt on August 21st, 1791. The turning point: General Jean-Jacques Dessalines defeated French forces at the Battle of Vertières on November 18th, 1803. The end: independence was officially declared on January 1st, 1804.
+
+- And they wanted that to be hushed. But word of what happened there spread throughout the Americas. And when you read books, they say it was only a few slave rebellions. I don't believe that.
+
+</div>
+
+<div class="reading">
+
+Reading from a quotation of Jean-Jacques Dessalines  *[[1:23:15](https://www.youtube.com/watch?v=pZs5reAzxi4&t=4995s)]*
+
+> We have repaid these true cannibals, war for war, crime for crime, outrage for outrage. Jean-Jacques Dessalines.
+
+- That was a bust in honor of him. This was a painting of him.
+
+- We have repaid these true cannibals. Nobody call them that.
+
+</div>
+
+<div class="reading">
+
+Reading from an image of Henri Christophe  *[[1:24:13](https://www.youtube.com/watch?v=pZs5reAzxi4&t=5053s)]*
+
+> Born a slave, crowned a king, Henri Christophe shot himself with a silver bullet in 1820 rather than face a coup. His forced labor system built legendary fortresses, but sparked a rebellion that ended his reign.
+
+- Under Henri Christophe, he built a lot of fortresses. But he used Haitians and he was killing some of them. He used pig blood, pigs, human blood.
+
+- Notice: forced labor system.
+
+- There was going to be a coup. His fellow Haitians were going against him because of the forced labor and the elements he was using to build these things.
+
+- We visited. This is it right here. We visit, and it's on a high mountain. We had to take horses to go up there, and my horse had anorexia and wanted to commit suicide.
+
+</div>
+
+<div class="reading">
+
+Reading from a text sent by Deacon Isaac, on Haiti and the Dominican rebels  *[[1:27:43](https://www.youtube.com/watch?v=pZs5reAzxi4&t=5263s)]*
+
+> Haiti's President Jean-Pierre Boyer abolished slavery and proclaimed Dominican emancipation for a second time on February 9th, 1822. Hispaniola became the only independent nation in the Caribbean and the only region in the Americas where slavery was abolished.
+
+- So not only did they kick the French off the island, they got rid of Spain, too. They went to the Dominican Republic side and freed them from slavery.
+
+> But 22 years later, after the unification period with Haiti ended, the white elite re-annexed Santo Domingo to Spain.
+
+- So they had a president that said, we want to be under Spain. We don't like this unification. We want to be under the white man.
+
+> Black Dominican rebels understood the implicit threat of re-enslavement and again implored Haiti for its support in overthrowing Spanish rule.
+
+- In the Dominican Republic, one of the difference also, they have mulatto, mixed breeds, mixed race. Some of those mixed-race kids have allegiance to their white parent, their white father or white mother, whichever it is. And they wanted to be back under Spain. It was not the pure bloods. It was the mixed children. Y'all can read that history.
+
+> Defying threats from Spain, Haiti supplied the Dominican rebels with arms, fighters, and safe harbor.
+
+> Dominicans, with the help of their Haitian allies, defeated the Spanish in 1865. Today, however, Haitians face the most extreme human rights abuses in the Dominican Republic. In the neighboring country, many people of Haitian descent are trapped in a form of indentured servitude on sugar plantations, while their descendants are stripped of their citizenship.
+
+- Wow, that's crazy.
+
+</div>
+
 **[Psalms 124:1-8](/bible/psalms/124#v1)**  *[[1:32:04](https://www.youtube.com/watch?v=pZs5reAzxi4&t=5524s)]*
 
 > <sup>[1](/bible/psalms/124#v1)</sup> If it had not been the Lord who was on our side, now may Israel say;
@@ -224,6 +410,18 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 
 - If it wasn't for the Lord, the nations would have swallowed Israel up quick.
 
+<div class="reading">
+
+Reading from Wikipedia, on the Haitian Revolution  *[[1:35:10](https://www.youtube.com/watch?v=pZs5reAzxi4&t=5710s)]*
+
+> The Haitian Revolution, also known as the Haitian War of Independence, was a successful insurrection by enslaved Africans against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolution was one of the only known slave rebellions in human history that led to the founding of a state which was both free from slavery, though not from forced labor, and ruled by former captives.
+
+> Commanders and leaders. 1791 to 1793: Dutty Boukman, Jean-François Papillon, Georges Biassou, Toussaint Louverture. 1793 to 1798: Toussaint Louverture, André Rigaud, Alexandre Pétion. 1798 to 1801: Toussaint Louverture. 1802 to 1804: Toussaint Louverture, Jean-Jacques Dessalines, Henri Christophe, Alexandre Pétion, François Capois, Jean Dukeworth, Jean Lauren.
+
+- So those are the names of the leaders of the revolution from the 1700s to 1804. So it was not just one guy. It was many, many leaders they had.
+
+</div>
+
 **[Malachi 2:1-3](/bible/malachi/2#v1)**  *[[1:37:42](https://www.youtube.com/watch?v=pZs5reAzxi4&t=5862s)]*
 
 > <sup>[1](/bible/malachi/2#v1)</sup> And now, O ye priests, this commandment is for you.
@@ -233,6 +431,80 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 > <sup>[3](/bible/malachi/2#v3)</sup> Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it.
 
 - God will curse the blessings of the Levites if they don't give glory to His name.
+
+<div class="reading">
+
+Reading from a text on traditional Haitian voodoo  *[[1:40:18](https://www.youtube.com/watch?v=pZs5reAzxi4&t=6018s)]*
+
+> In traditional Haitian voodoo, the use of feces or other bodily fluids is not a feature of standard religious practice.
+
+- What is feces, brothers? Dung.
+
+- See, y'all read Malachi 2:3 about the dung and go, it's metaphoric. Oh, no, no, no. It is literal as well.
+
+- So, it's not standard, but.
+
+> Mainstream voodoo focuses heavily on honoring ancestral spirits, the Lwa, community healing, and elaborate ceremonies involving music, dance, and food offerings.
+
+> However, the intersection of feces, bodily elements, and Haitian culture occurs primarily across three specific contexts: magical defenses, contagious magic;
+
+- So, under that type of magic, they use fecal matter, dead.
+
+> secret society, malevolent magic, maji or Bizango; and the stigmatized labor of the Bayakou.
+
+- So those three groups right there use doodoo in their spells.
+
+> Contagious magic and spiritual defenses. In anthropological terms, certain practices associated with voodoo operate on the principles of contagious magic. This is the spiritual belief that a permanent connection exists between an individual and any part of their body, even after separation. Vulnerability: because of this connection, a person's hair,
+
+- Hair. Watch out when somebody want to take a piece of your hair.
+
+> fingernails,
+
+- Watch out. You clipping your nails, they want a piece of that too.
+
+> clothing,
+
+- They want a piece of your clothing. Like a scarf or something. Watch out.
+
+> and bodily waste, feces or urine, are believed to carry their unique essence.
+
+- You better flush the toilet.
+
+> Precautionary measures. Practitioners must take extreme care in how they dispose of these materials. If an adversary or malevolent sorcerer obtains them, they could theoretically use them to anchor a curse or cause the individual to fall ill. Consequently, handling waste carefully serves as a critical defense strategy rather than an active ritual action.
+>
+> Malevolent spells and folk sorcery, maji. Mainstream voodoo priests, oungan, and priestesses, manbo, explicitly distance themselves from harmful spells, which are instead categorized as maji nwa, black magic, bo, or the work of separate secret societies like the Bizango or Makaya. In these marginal practices, as well as sister diaspora paths like hoodoo, bodily waste can be utilized aggressively.
+
+- Aggressively means all over your face, on your body. Just put the doodoo on.
+
+> The most documented context involves curses meant to cause physical or digestive harm to an enemy, sometimes referred to in folklore as inflaming the bowels. In these aggressive rituals, a target's feces
+
+- That means doodoo, man.
+
+> might be combined with elements like hot peppers
+
+- Imagine doodoo with hot peppers.
+
+> or graveyard dirt to symbolically rot or destroy the individual from the inside out.
+>
+> The secular context: the Bayakou and pit latrines. Much of the modern association between Haitian voodoo, secrecy, and feces stems from a marginalized socioeconomic group known as the Bayakou. The role: the Bayakou are manual laborers in Haiti who empty pit latrines by hand,
+
+- Ew.
+
+> working entirely at night to avoid severe social stigma.
+
+- Yeah, you messing with doodoo and pee, everybody going to curse you out.
+
+> The connection to secrecy: because they operate in the dark and clear away literal human waste,
+
+- Literal, not metaphoric, not symbolic, literal.
+
+> folklore often links them to the supernatural. Historically, Bayakou have reported discovering concealed objects hidden deep inside latrines, such as talismanic bundles, charms or ritual tokens.
+
+- Didn't we read about that in Deuteronomy, not to deal with that stuff? Charms, ritual. It's all there, right?
+
+> These items are sometimes discarded by individuals trying to secretly neutralize bad luck or hide objects related to sorcery, further tying pit latrines to dark spiritual secrecy in the public imagination.
+
+</div>
 
 **[Numbers 23:23](/bible/numbers/23#v23)**  *[[1:46:20](https://www.youtube.com/watch?v=pZs5reAzxi4&t=6380s)]*
 
@@ -246,11 +518,219 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 
 - God will corrupt the seed of the Levites and spread dung on their faces if they do not keep His ways.
 
+<div class="reading">
+
+Reading from an article, *Haiti: The Puppet Master's Coronation*, by Wired JA staff, February 10th, 2026  *[[2:00:55](https://www.youtube.com/watch?v=pZs5reAzxi4&t=7255s)]*
+
+> Haiti: the puppet master's coronation. How Haiti's oligarchs finally claimed the throne they've always controlled.
+
+- Hey, can we look up that word oligarch? 'Cause that's not even a English word. I believe it's Greek.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of oligarch  *[[2:01:17](https://www.youtube.com/watch?v=pZs5reAzxi4&t=7277s)]*
+
+> An oligarch is an extremely rich and powerful person who uses their wealth to influence a country's government and politics. The word comes from oligarchy, an ancient Greek term
+
+- So, it's a Greek term that means what?
+
+> meaning rule by the few.
+
+- Rule by the few.
+
+> Oligos meaning few, and archein meaning to rule.
+
+</div>
+
+<div class="reading">
+
+Reading from an article, *Haiti: The Puppet Master's Coronation*, by Wired JA staff, February 10th, 2026, continued  *[[2:02:13](https://www.youtube.com/watch?v=pZs5reAzxi4&t=7333s)]*
+
+> As American warships enforce stability, a businessman assumes sole power in a nation run for centuries by six families who profit from chaos.
+
+- When was this published? February 10th, 2026. So, that was this year.
+
+- Six families run Haiti.
+
+> Port-au-Prince, Haiti. February 10th, 2026. By Wired JA staff. February 7th has always held sacred meaning in Haiti, the anniversary of democracy's triumph over the Duvalier dictatorship. Traditionally, the day presidents take their oath. This year, that historic date carried a bitter irony that cuts to the bone of Haiti's dysfunction. Power was formally transferred not to an elected leader, but to an unelected businessman, while the oligarch families who have bled the nation for over a century watched from the shadows they have always preferred.
+
+- So these oligarchs, these six families, hide in the shadows. They run Haiti behind the scenes.
+
+> The nine-member transitional presidential council officially dissolved Saturday, handing sole executive authority to Prime Minister Alix Didier Fils-Aimé, a 54-year-old businessman who has never faced voters. The ceremony unfolded with grim formality and with American naval vessels anchored offshore to ensure no one disrupted Washington's preferred outcome.
+
+- Let's get to the point. Right here is what I wanted to get to.
+
+> The BAM BAM: Haiti's hidden rulers.
+
+- They call them the Bam Bam 'cause the word BAM is an acronym for their names.
+
+> Sherif Abdallah, Reginald Boulos, Gregory Mevs, Gregory Brandt, Carl Braun, Gilbert Bigio, Marc-Antoine Acra, Andy Apaid.
+
+> Haiti's oligarchs, who control 80% of the wealth of that impoverished country and control all the gangs and ports.
+
+- Do you see who controls the gangs? These six dudes, these six families. That's why I told the police commissioner, it's not just the gangs. They're being controlled by other forces. And he stayed quiet when I said it.
+
+> To understand Saturday's transfer, one must first understand who actually runs Haiti. It is not the black faces who cycle through the presidential palace. It is a numerically minuscule but economically omnipotent collection of families known to Haitians as the BAM BAM, an acronym that phonetically means gimme gimme in Creole. The letters stand for six dynasties: Brandt, Acra, Madsen,
+
+- These are their last names.
+
+- So the first BAM is Brandt, Acra, and Madsen. That's the first BAM.
+
+> Bigio, Apaid, and Mevs.
+
+- That's the next BAM. So if you're on the street, you can say the Bam Bams run Haiti. If you can't remember the names, all you got to do, if you Google it, it'll pop up on Wikipedia.
+
+> These families, predominantly of Middle Eastern and European descent, arrived in Haiti in the late 1800s and early 1900s: refugees from Syria, Palestine, Lebanon, and later European Jews fleeing the Holocaust.
+
+- Y'all see that?
+
+> They are not descendants of the enslaved Africans who fought and died to create the world's first black republic. Yet they control an estimated 90% of Haiti's wealth,
+
+- Now, notice above it said 80%. Now it's telling you 90%.
+
+> while the vast majority of the black population lives in grinding poverty, some 66% of Haitians survive on less than $3.65 per day.
+
+- You know how we know that's true?
+
+> The oligarchs' business model is elegantly brutal.
+
+- Brutal. One time, remember, we were discussing what if we opened up a restaurant in Haiti, and we were told you have to go get permission from one of these seven families. If not, they will have you killed.
+
+- And it's going to say that. Watch as we keep reading here.
+
+> They maintain monopolies on key imports, avoid virtually all taxes through honorary diplomatic titles from their countries of origin, own private ports with minimal government oversight, and, according to mounting evidence, use armed gangs as private militias to eliminate competition and maintain political control.
+
+> When successful black entrepreneurs attempt to challenge the system, they are systematically destroyed.
+
+- They are murdered.
+
+> Telecommunications executive Franck Ciné invested $85 million in Haiti's largest ever private investment, only to be arrested on dubious charges and have his assets seized. The message was clear. The system tolerates no threats.
+
+- That's six families. You cannot interfere with them.
+
+- And that's what I was telling the police commissioner. I said until you remove those six families, the problem's going to stay there in Haiti. Nobody want to hear that.
+
+</div>
+
+<div class="reading">
+
+Reading from a summary on Haiti's BAM families  *[[2:10:19](https://www.youtube.com/watch?v=pZs5reAzxi4&t=7819s)]*
+
+> Haiti BAM. BAM is an acronym used to describe six powerful, wealthy elite families who control a major share of the nation's economy: private ports, banking, and import-export businesses. The acronym stands for: Brandt, import-export and retail;
+
+- So next to the name is what they control.
+
+> Acra, textiles and garments; Madsen, telecommunications and construction; Bigio, consumer goods and distribution; Apaid, agriculture and real estate; Mevs, import and export and energy.
+
+- So you can't make this stuff up.
+
+</div>
+
+<div class="reading">
+
+Reading from a news report on the meeting with the police commissioner  *[[2:11:18](https://www.youtube.com/watch?v=pZs5reAzxi4&t=7878s)]*
+
+> Black American religious group visits Haiti, meets with Jean Ernest Muscadin, seeks land to build church and invest.
+
+- Well, that was good. That one right there was good.
+
+- We did not ask him for protection. We were not running from the gangs. When you read the article, it goes into how we were afraid for our lives. We ran from Barbecue. We're like, that's not true.
+
+</div>
+
+<div class="reading">
+
+Reading from a summary on Haiti's food imports  *[[2:14:14](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8054s)]*
+
+> Haiti imports roughly 50% to 85% of its total food supply
+
+- Do you understand what that means? If Haiti does not obey Esau, they'll cut off the food supply from them.
+
+- And guess what? This happened from the time of Rome. I'm going to show you in the Bible.
+
+</div>
+
 **[Acts 12:20](/bible/acts/12#v20)**  *[[2:14:48](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8088s)]*
 
 > <sup>[20](/bible/acts/12#v20)</sup> And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s country.
 
 - The Bible shows that countries that depend on another country for food are not truly living.
+
+<div class="reading">
+
+Reading from a summary on Haiti's food imports, continued  *[[2:17:29](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8249s)]*
+
+> depending on the specific crop, season, and economic conditions.
+
+- So go back to the thing with Haiti and 50%, 80%. Now Esau did this on purpose, 'cause remember Haiti at one time grew their own rice. Bill Clinton, your president, he destroyed it and made Haiti accept food from the United States. And not just rice, it were other things. That's what this is revealing.
+
+> Percentage of food imported. Overall dependency:
+
+- Dependency. You're dependent on Esau.
+
+> around 50% to 80% of all food consumed in the country is imported. Staple foods: Haiti imports about 80% of its rice and is fully dependent on imports for items like wheat and vegetable oils.
+>
+> Main trading partners. The United States: the leading supplier of key staples like rice, poultry, and wheat. Dominican Republic:
+
+- Uh-oh. Y'all get food from Santo Domingo, too.
+
+> a major regional trade partner providing substantial food products, fresh goods, and cross-border staples. Other partners: countries such as Canada for wheat, Malaysia for edible oils, and China.
+
+- So that's not considered a life. Like if we do it as individuals, God said that's not a life. Esau got it set up so everyone's dependent on them.
+
+- America, Babylon the Great, is the great puppet master.
+
+</div>
+
+<div class="reading">
+
+Reading from an article from the *New York Times*  *[[2:19:34](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8374s)]*
+
+> Ransom. Demanding reparations, and ending up in exile.
+
+- That's Aristide. Former President Aristide.
+
+> A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power.
+
+- It was billions of dollars that he said France owes them in reparations, and he said we want it in USD, United States money.
+
+> The shock came midway through the speech.
+
+- Ah, he gave a great speech.
+
+> Reparation! boomed Jean-Bertrand Aristide, Haiti's firebrand president, to the cheers of the farmers, workers and students in the crowd. The French ambassador, sitting on stage, hid his alarm behind an awkward smile. He knew Mr. Aristide well enough to expect barbs at Haiti's former French colonizers and slave masters. But on that day, April 7th, 2003, the president suddenly started calling for reparations, a bombshell that became a hallmark of his presidency and, diplomats now concede, part of his undoing. We had to try to defuse it, the French ambassador, Yves Gaudeul, said of Mr. Aristide's call for reparations, calling it an explosive.
+
+- They were shocked that in the middle of his speech he said what France owes them. They didn't like that thing.
+
+> 21 trillion 685,135,571.
+
+- That's what he wanted.
+
+> Mr. Gaudeul, France's former ambassador to Haiti, wanted to negotiate. Mr. Aristide's sudden call for restitution was a political hand grenade, he feared, threatening to embarrass France on the world stage and rip apart relations between the two countries.
+
+- Y'all can read this article on your own. It's good.
+
+> Several hundred US Marines arrived to form the vanguard of the international stabilization force. But without large numbers of troops, the city, Haiti, Port-au-Prince, remained in a power vacuum with no army or reliable police force in place. Some rebels said they have begun shooting looters. Aristide, speaking from a government compound in the Central African Republic.
+
+- That's what I want to get to. They kidnapped Aristide and his wife. They put a bag over their head at night. It's the middle of the night.
+
+- And guess what they said? America said, no, we don't kidnap people. We never did. When you read the article, there's many articles, they said they did not kidnap Aristide and his family. But look at Venezuela. Did they kidnap Maduro? That's what they do. So America kidnapped Aristide and exiled him from country.
+
+</div>
+
+<div class="reading">
+
+Reading from the *LA Times*  *[[2:25:20](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8720s)]*
+
+> Aristide says U.S. forced him to leave. March 2nd, 2004.
+
+> Washington. A day after a U.S.-chartered plane spirited him from his strife-torn country to Africa, exiled Haitian President Jean-Bertrand Aristide charged Monday that the United States had forced him to leave in what he described as a coup d'état and kidnapping.
+
+- So notice, now he was speaking against France, but America intervened and took him out of power, took him out of office, and then they allowed him to come back. I forgot what year it was, but they warned him, you open your black lips again, you going to die. And they put him back in office. That's what America does. When God says America is Babylon the Great, God knows what he's talking about.
+
+</div>
 
 **[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[2:27:00](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8820s)]*
 
@@ -263,6 +743,98 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 > <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
 - The Bible shows that the oppressed have no comforter, but the oppressors have power.
+
+<div class="reading">
+
+Reading from a summary on Haiti's mineral resources  *[[2:28:07](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8887s)]*
+
+> The primary extracting elements and mineral resources found in Haiti include gold, copper, bauxite, iridium, alongside industrial minerals like limestone and marble. While the country is rich in untapped geological wealth, with precious metal reserves estimated at nearly $20 billion, large-scale mining operations have been heavily restricted due to historical exploitation, environmental concerns, and a political moratorium on metal extraction.
+
+- This goes with Deuteronomy 28:33.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes, a Myth: Suggestions Towards Rewriting Hebrew History* by Allan H. Godbey, PhD (Duke University Press, 1930), from page 251  *[[2:28:47](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8927s)]*
+
+> The Lost Tribes, a Myth, by Allan H. Godbey, PhD, in 1930.
+
+- So again, I just want to reiterate what we already discussed at the beginning of the lesson. We have never said, nor will we ever say, the only Levites are in Haiti. Like as you see there, you got Levite cities in Nigeria, under the Hausa, but they're Muslims today. You got another Levite city. There's two that Esau found. Levite cities, suburbs.
+
+> Remnants of a far-traveled African Judaism are found in northern Nigeria among the Hausas and Nupes, on the east side of the lower Niger, from 300 to 700 miles from the sea. The survivals are of peculiar interest because they did not reach that region from North Africa, nor through the contact of European Judaism with the west coast. They are due to the great expansion of the Nuba,
+
+- So the Judaism we had in Africa was not from the European Judaism. They got theirs from us.
+
+> Nuba or Nubian Empire in Byzantine times. Hence the mixture of Judaism and Christianity in Nupeland has the same provenance that Falasha Judaism and Abyssinian Christianity have.
+
+> Now, Kisra is Kaiser.
+
+- Kaiser. Pay attention to this.
+
+> It points to the Roman period in Nubia, when the Roman title Caesar supplanted the Egyptian title Pharaoh, with the result that Caesar is represented as the ancient oppressor of Israel.
+
+- So, Kaiser and Caesar is the same word. You heard of Kaiser, sir? It's Caesar. It's the same word.
+
+> But the most striking survival of Judaism among the Hausas and Nupes is a powerful Levitical institution. It will be more properly considered in the chapter upon shrine Levites. Livingstone also found a colony of educated negroes 200 miles inland from St. Paul de Loanda, at Ambaca, and called the Jews of Angola. Remarkably keen in trade, eager for learning, with much knowledge of the history of Portugal and Portuguese law, they penetrate hundreds of miles into the interior in their trading expeditions and are in esteem as clerks and writers. Livingstone found them of delicate constitution, and mulattoes among them in a few generations revert to the color of the black maternal ancestor. By Mendelian principles this would mean that the white or mixed children of each generation did not survive.
+>
+> But St. Paul de Loanda began, like São Tomé, as a political penal colony, and from this Angola coast black wives were taken for the São Tomé Jews. So the Portuguese Jews were connected with this region long before the Jesuit order existed. The Jesuits reached Angola in 1560. No careful examination for survivals of Judaism has been reported.
+>
+> Similarly, negro Jews once existed in Jamaica and Surinam as a result of extensive concubinage of Spanish and Portuguese Jews with negro
+
+- So, you mean Esau don't know who he got in slavery? This proves he knew who was taken into slavery, the Jews.
+
+> Negro Judaism in America is of peculiar value to the historical student as illustrating what has gone on in every century where bigotry and persecution did not prevent, and it illustrates the varied reactions that have always appeared, either in ancient Yahwism or later Judaism, toward all proselytes or propagandism. Since claims of some African Jewish ancestry appear, there is additional interest.
+
+- So Esau want to search out how many of us know that we're the Israelites. That's what he was doing.
+
+> Mr. Meyer Shapiro of Brooklyn, New York, having had his attention called to negro Jews insisting upon kosher meat, took with him a reporter from the New York Sun and W. B. Seabrook, known for his sympathetic investigation of voodooism in the island of Haiti,
+
+- Y'all see that part where it said Mr. Meyer Shapiro of Brooklyn, New York, having had his attention called to Negro Jews, insisting upon kosher meat? What they were doing, those that knew that they were Israelites, they were trying to force them to follow European crap, Judaism. That was the problem. 'Cause kosher meat is, you got the fake rabbi. He does the little homala prayer over it, spits on it, and says it's kosher. Ain't anybody eating that.
+
+> the party visited the synagogue or church of the Commandment Keepers, Holy Church of the Living God, Pillar and Ground of the Truth.
+
+> Against the white man's pretensions, they assert that they are the pure original Israelites of the tribe of Judah,
+
+- Now, the mistake. Watch the mistake they made.
+
+> and that all white Jews represent the lost 10 tribes.
+
+- That's not right. So, that was the error at that time that was being made.
+
+> Another negro congregation, Beni Beth Abraham, presided over by Rabbi Joshua Ford, and the Beth Zion, presided over by Rabbi Israel Ben, hold to Jewish tenets and reject Jesus.
+
+- So that was the next congregation.
+
+> Thus, Bishop Matthews claims an immemorial Jewish ancestry. But since that ancestry is negro, it follows that negroes were the original Jews. But, my friends, we are not fakers.
+
+- 'Cause Esau was saying that they were fakers.
+
+> Every black man is a real Hebrew, whether he knows it or not.
+
+- That's right. Keep reading.
+
+> We as a race do not know who we are.
+>
+> Thus, race discriminations are always repaid in their own coin. Compare Winwood Reade's report of a Sierra Leone negro preacher's sermon some 70 years ago:
+>
+> My brethren, you see white man bad too much, ugly too much, no good. You want savvy, you want savvy how men like that come to live in them world? Well, I tell you. Adam and Eve, they coloured people, very handsome, live in one beautiful garden. They there. They have all things that be good: plantains, yam, sweet potatoes, foo-foo, palm wine, hide too much. Then they have two children, Cain and Abel. Cain don't like Abel's pale. One day he kill him. Then God angry, and he said, Cain, Cain. Go hide himself. He take him very angry. He thinking very clever. Hi, hi. God say again, Cain, you think I don't see you? You bush. Then Cain come out, and he said, Yes, massa, I live here. What the matter, massa? Then God say, one big voice like the thunder in the sky, Where am brother Abel? Then Cain turned white all over with fear. That the first white man, brethren.
+
+- Y'all see that? First white man came.
+
+</div>
+
+<div class="reading">
+
+Reading from a text on Jean Baptiste Point du Sable  *[[2:42:12](https://www.youtube.com/watch?v=pZs5reAzxi4&t=9732s)]*
+
+> A Haitian founded Chicago. Jean Baptiste Point du Sable, a free black pioneer and merchant born in Saint-Domingue, modern-day Haiti, around 1745, is officially recognized as the founder of Chicago.
+
+- I bet a lot of people didn't know that.
+
+> The founding of Chicago. The first settlement: in the late 1770s or 1780s, du Sable traveled up the Mississippi River and established a permanent, prosperous trading post and estate at the mouth of the Chicago River. A multicultural hub: fluent in French, Spanish, English, and multiple Native American
+
+</div>
 
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[2:43:04](https://www.youtube.com/watch?v=pZs5reAzxi4&t=9784s)]*
 
@@ -294,11 +866,65 @@ The class covers the rise of Haiti after ruin, exploring the history and biblica
 
 - The psalmist asks God to deliver them from the oppression of man and to keep His precepts.
 
+<div class="reading">
+
+Reading from *Before the Mayflower: A History of Black America* by Lerone Bennett Jr., page 68  *[[2:46:21](https://www.youtube.com/watch?v=pZs5reAzxi4&t=9981s)]*
+
+> Every schoolboy knows that Lafayette and Kosciuszko answered America's call for help. Not so well known is the fact that blacks from Haiti came to America to fight.
+
+- If y'all don't have this book, it is a good book. It gives a lot of good history. This is the book that tells you the first slaves all spoke Spanish and had Spanish names, because they came from Spain. From Spain, they took them to Africa. Then from Africa, they brought them here. So the author was saying most people don't know why the first slaves were all speaking Spanish and had Spanish names. Those were the Moors, the Moorish Jews that ruled Spain and Portugal.
+
+- So, a lot of people don't know that the Haitians came to America to fight during the revolution.
+
+> The Haitians, called the Fontages Legion, were in the front ranks at the siege of Savannah and helped prevent a rout of the American forces. While thousands of Haitian and American blacks were pressing the American cause, other blacks, no less courageous, were pursuing the same objective, black freedom, in the ranks of the British Army.
+
+- So, I wanted this part here because I keep hearing the stupidity about foundational black Americans. Now, I don't have a problem with the term, but the problem I got, they dismiss the other tribes of Israel. If you're Haitian, you're not accepted. If you're Jamaican, you're not accepted. They call you a tether. And I'm like, where is this coming from? Esau. All these brothers and sisters that's talking FBA, foundational black American, don't deal with Haitians, Jamaicans, Brazilians, Panamanians, Hondurans, Mexicans, Puerto Ricans. Esau's paying them to do that.
+
+</div>
+
 **[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[2:50:05](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10205s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 
 - God tells the nation not desired to gather themselves together.
+
+<div class="reading">
+
+Reading from an article on TPS  *[[2:51:45](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10305s)]*
+
+> Temporary Protected Status, or TPS, is a temporary US immigration benefit that protects foreign nationals from deportation and grants them work authorization if their home countries are unsafe due to war, natural disasters, or extraordinary crisis.
+
+- I really didn't know about TPS too much. I had to look it up.
+
+- Okay, that's all I wanted.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on a Haitian student's suicide  *[[2:58:28](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10708s)]*
+
+> Haitian student dies by suicide after ICE issued him an ankle monitor.
+
+- Do you know the humiliation this young man must have felt? Have to walk around. Never had been arrested. Never. But the ankle monitor, you know, they're going to ship him out of the country. He committed suicide as a result. This is sad.
+
+> Pierre Deas Bell, 20, of Springfield, Ohio, expressed feeling shame and humiliation at having to wear an ankle monitor. The college student died by suicide days later.
+
+- You can't make this stuff up.
+
+</div>
+
+<div class="reading">
+
+Reading from a headline on white South African refugees  *[[2:59:28](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10768s)]*
+
+> Trump administration to welcome up to 17,500 more white South Africans as refugees. September 22nd, 2026.
+
+- Y'all don't see nothing wrong with this? The black ones, y'all got to go. But the white ones, come on in.
+
+- So, Esau sticks together. Our people, the children of Jacob, we don't stick together. We must learn to come together as one.
+
+</div>
 
 **[Ephesians 4:3](/bible/ephesians/4#v3)**  *[[3:00:09](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10809s)]*
 
@@ -396,7 +1022,6 @@ The class ends with a sense of community and a call to unity among the 12 tribes
 - The teacher mentioned that they would be going through a new study course.
 - The teacher encouraged the congregation to read four chapters a day.
 - There is a movie about Napoleon that does not show his defeat at the hands of Haiti.
-- The Haitian Revolution is an example of a successful slave rebellion that led to the founding of a new nation.
 - The history of the Haitian Revolution is often suppressed or distorted, but it is an important part of the history of the Americas.
 - The teacher mentioned an article about Haiti's oligarchs and their control over the country's wealth and politics, published on February 10th, 2026.
 - The teacher mentioned an article from the New York Times about Haiti's president demanding reparations from France.

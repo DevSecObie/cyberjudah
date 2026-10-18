@@ -23,14 +23,8 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
 
 - *[[19:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=1170s)]* **An image of the Ancient of Days with hair like pure wool.** — If God sat, had a garment, and had hair like wool, he has a body, and it is not the Caucasian painted in the churches. Black people. How you like me now?
 - *[[45:51](https://www.youtube.com/watch?v=lTjnCZsWsng&t=2751s)]* **The class trailer: Hosea warned that Israel would abide many days without an image; stripped of identity, now accepting a counterfeit; fornication or marriage, drunkenness or sobriety, mercy or murder, coons or kings, one man or the army of God; the image of dysfunction or the image of God.** — Shout out to the media team. That is the question for every one of us, as individuals and as a nation.
-- *[[1:06:20](https://www.youtube.com/watch?v=lTjnCZsWsng&t=3980s)]* **Captain Gedaliah's book When Trauma Speaks, chapter 10, Created versus Conditioned, pages 112 and 113.** — Every person must confront a foundational question: am I who I was created to be or who I was conditioned to become? Everything in you was shaped by one of two forces, creation or conditioning; one is intentional and reflects origin, the other is reactive and reflects adaptation to slavery, ghettos, and abuse. Most live in between without distinguishing them. Our job is to distinguish what we were made into from who we truly are.
 - *[[1:15:47](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4547s)]* **A picture of a man holding a sign in front of his face.** — The conditioned self is the sign we show the world; the real soul is hidden behind it and scared. When the Bishop talks to our people he is usually talking to the mask, the representative, not the real them. The real you has not surfaced yet and must be encouraged to come forward.
-- *[[1:40:48](https://www.youtube.com/watch?v=lTjnCZsWsng&t=6048s)]* **Richard Williams's book They Stole It, But You Must Return It, chapter 4, What did white America do to the black father?** — Blacks came from a country where many men were warriors and family heads, and those men were a threat to white America's economic plans, so the submission of the black male became the major emphasis of a slave system built to destroy his manhood. Nobody sails across an ocean for dummies; they brought brilliant people to build this place and had to make them dysfunctional. The fourth-grade failure syndrome in Countering the Conspiracy to Destroy Black Boys is the same work: teachers spot genius in your sons and kill it, as they killed Malcolm's aspiration to be a lawyer. That is why Jacob's Hope Academy matters.
-- *[[1:48:00](https://www.youtube.com/watch?v=lTjnCZsWsng&t=6480s)]* **From Babylon to Timbuktu by Rudolph Windsor on the black Jews of the Ghanaian states: kings, princes, governors, generals, secretaries, treasurers, judges, architects, engineers, doctors, historians, interpreters, mathematicians, jewellers, masons, goldsmiths, blacksmiths, agriculturalists.** — We carried our laws and written records with us and absorbed the native tribes. Esau said we need that industry and skill over here. Dummies do not build societies; the enslaved mind of a resourceful people did, and Black Wall Street, Durham, and Rosewood showed what we built with nothing, so they bombed it.
-- *[[2:01:33](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7293s)]* **Dictionary slides for the squeaky wheel gets the oil: the one who complains loudest gets attention, help, or results; quiet people are ignored.** — They want us on mute, with community guidelines blocking the word of God while a man with a chicken goes unflagged. We will squeak: prophesy, complain, bring out the records, and bug the Most High until he kills our enemies. That is why they clamped down on conscious rap, Public Enemy, KRS-One, Lakim Shabazz, Professor Griff, and pushed gangster rap. Thank God for Original Royalty.
-- *[[2:09:07](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7747s)]* **An old flyer, Who are the blacks that were brought to America on slave ships, citing Deuteronomy 28:15, Ezekiel 39:23, and Luke 21:24.** — Bishop Nathanyel made these from a book of artwork he had. He never handed out a crinkled flyer, because the flyer represents your faith. That discipline is why IUIC flyers look the way they do now.
 - *[[2:11:20](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7880s)]* **A commentator: keep him in destructive mode, do not let him think about anything serious, because then he becomes a danger; produce an image of comfort, which is false.** — That is exactly why we are pushed toward sports, entertainment, and dancing. Frolic means to play about in a carefree way. The white mother buys her son a model plane to build over days; the black family buys it assembled, from the book Black Men by Haki Madhubuti. One family raises rulers, the other raises consumers.
-- *[[2:19:29](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8369s)]* **Lest We Forget by Velma Maia Thomas, the passage on seasoning: the process that broke strong men and women, stripped them of dignity, rewarded good behaviour and punished bad, and remade men into an image pleasing to their oppressor; the wise slave master never believed his captives were natural-born slaves and knew their psychology had to be altered.** — Seasoning is what they still do to our sports figures, entertainers, and politicians. It remade us from the image of God into the image of dysfunction, the Negro made in a laboratory. The real man inside wants to be free and squeaks all day, but some men are too cowardly to let him speak.
 - *[[2:22:45](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8565s)]* **A viral video of a man dancing on a table for white executives, trying to get a record deal.** — On the slave ships they made us dance so we looked healthy at market and so we looked happy. If we look happy they can present us as well treated. That is a betraying comfort, and it teaches a young son that this is what to aspire to.
 - *[[2:27:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8866s)]* **An old clip of the Bishop in a New York YouTube studio with Officer Jonah, from the series The Truth Shall Make You Free, titled Painkillers: Christianity, like a painkiller, kills the pain for a moment but never treats the cause, so the homes stay broken and the men keep going to jail.** — Drugs, alcohol, sitcoms, cell phones, and social media are painkillers too, a kaleidoscope of foolishness that never asks who we really are. You have to go to the source of the pain and the real image of yourself to fix it; the church just gets high on the drums and the Hammond organ.
 - *[[2:31:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=9106s)]* **An Israeli government official on American soil naming black Americans as the problem.** — The secret councils are not jive. They were literally talking about us, and they know the prophecy.
@@ -188,7 +182,153 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
     These are the nations which the Lord left to prove Israel, that the generations might know to teach them war, at least such as before knew nothing thereof. He did not remove all the nations because he did not want us to skate through. We are in training now; in the kingdom we will be experts in everything. They can kill the body but not the spirit, and when I come back I am hanging you.
 
 
-**[Jeremiah 1:4-5](/bible/jeremiah/1#v4)**  *[[1:08:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4126s)]*
+<div class="reading">
+
+Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created versus Conditioned", p. 112  *[[1:07:26](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4046s)]*
+
+> Created versus conditioned. At some point in the journey, every person must confront a foundational question.
+
+- A foundational question. Every person, like I was asking earlier, how do we see ourselves? We have to do that. The foundation of you. We need to know about the foundation of us. The essence of us. I know the world don't want to hear the essence of us, but we owe it to ourselves to examine the essence of us. Who are we?
+
+> Am I who I was created to be, or who I was conditioned to become?
+
+- Or am I what I was conditioned to become? That's the question. Am I actually measuring up to what God actually created me to be? Or am I a compaction or a composite of someone else's morphing of traumas upon us, and we became that?
+
+- They said, that's me. That's not you. You are the compaction of traumas. You are the compaction of all kinds of abuse. The real you haven't came up yet. That's the question. That's the point.
+
+> This is not a surface level question.
+
+- Meaning you got to go deep.
+
+> It is an identity question.
+
+- It is a question that deals with the real soul of man. The soul of woman. The real you. Your spirit was brought into this earth not as a mistake. There was a decision made in the heavens to bring you forward. As that sperm was trying to reach that egg, each one of those sperms are different spirits. The Lord said, wait, I want this one rather than that one. Millions trying to get to that egg, and he's making the decision to bring back Jeremiah, for an example. Like it says in Jeremiah 1 and 5: before I put you in the womb, I knew you.
+
+- So each one of us was known by the father before that sperm hit that egg. That means there was a decision that was made based on a purpose. I want you instead of that one. I want you, sister, instead of that sister. There's a reason why God chose you to be here as opposed to someone else.
+
+- It deals with the real you. In this society, they don't tell us how to deal with our own selves. The hell with that. I'm not here just because. I'm here because there was a direct action from God. And I must find out what that purpose is.
+
+> Because everything you have experienced up to this point, your patterns, your responses, your beliefs, your defenses, has been shaped by one of two forces:
+
+- Everything about us, our patterns, our responses to different things, our beliefs, our defenses, all of these things that are in us has been shaped by either one of two forces.
+
+> creation or conditioning.
+
+- The person who we've become is a manifestation of what God created, or we are a manifestation of the traumas and the things that have been pushed upon us, and we think that's the real us. No. One of the two. We are either the image of God or we're the image of dysfunction.
+
+> Creation speaks to design.
+
+- Creation speaks to God says, I want you to be here.
+
+> Conditioning speaks to experience.
+
+- Conditioning speaks to: well, we want to make a slave out of him. We want to make a slave out of her and make them think that that's what they innately are. That's a total different being.
+
+- That's when I be making the point I said the Negro was created in a lab. That's what I'm talking about, because the real him has not stood up yet. The real us has not even surfaced yet. The greatness that is up in us, that's buried under self-doubt, has not even surfaced yet.
+
+- That's why a lot of times I'll say that when I'm talking to people I'm not even talking to the real them. I'm talking to a composite that was made. I haven't even got to the real you yet, because the real you were scared, because it's living up under a tarp of trauma and lies and deceit and trickery and psychological hang-ups.
+
+> One is intentional. The other is reactive.
+
+- That's how we are. We are reactive people.
+
+> One reflects origin.
+
+- The image that God made.
+
+> The other reflects adaptation.
+
+- Damn. The other reflects us just adapting to slavery. Adapting to being taken advantage of. Adapting to ghettos. Adapted to being unclean. Nasty. A gang member. A drug addict. We've adapted to that. That's not who we really are.
+
+> And most people live somewhere in between these two realities without ever clearly distinguishing them.
+
+- Our job is to distinguish between what we've been made into and who we truly are.
+
+</div>
+
+<div class="reading">
+
+Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created versus Conditioned", pp. 112-113  *[[1:16:36](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4596s)]*
+
+> You were created with intention, not randomly formed,
+
+- You were not randomly formed.
+
+> not accidentally designed,
+
+- It was not an accident.
+
+> not undefined in purpose.
+
+- You was not undefined. You did have purpose. You just lost your way.
+
+> This is the original declaration, not just about humanity in general, but about you specifically.
+
+- About you specifically: the real soul of man and woman, the real them. Not the person that they've made, try to tell you that you're a whore, you're a drug addict, you're a drug dealer, you're this and that. The real you is about righteousness, and you cannot define yourselves by the conditioning of how you've been made to look.
+
+> You were made in the image of God, not in the image of your dysfunction,
+
+- That's how we operate. We're operating dysfunctionally. We have to come away from that to get back to the image of God.
+
+> not the image of your traumatic experiences,
+
+- Even though we've been through all kinds of trauma, we have to see through that and get to the real image of us. That's that part that I was talking about in 2nd Esdras. We got to go through all that hardship, but keep in your mind that you are not what the world have said you are.
+
+- Where it was said that you are not my people, there it shall be said unto you that you are in fact the sons and daughters of God. And all of that garbage rubbish that they put on you is not the real you.
+
+> not the image crafted by an unstable childhood, an abusive relationship, or an environment that never reflected your worth back to you accurately.
+
+- Did you hear that? So we are not the image that's crafted by an unstable childhood. Many of us went through that. We're not the image of one that was morphed out of an abusive relationship, or an environment that never reflected our worth back to us accurately. They tell us that we're everything except the children of God. We are not what you say we are. We are what God said that we are.
+
+- And that's how you have to carry yourselves, and you must teach that to your children, because this damn world will turn them upside down if you're not 100% serious about that thing.
+
+> The image of God. This is not just a theological statement. It is an identity foundation, and it matters enormously in healing because it establishes what the baseline is. Before conditioning entered, before survival strategies developed, before the false self was constructed, there was an image.
+
+- Did you hear that? There was an image of you before the false self emerged. That's what I was showing you with the man with the sign. That was a false self. That was not the real him. That was an image that he's projecting, but the real him has not even emerged yet.
+
+> An original design. And that design carries attributes: the capacity for creativity,
+
+- The real us creates. A lot of people look at the things that we do in a naive way. They say, oh man, that must have sold out. No, your brain is dead. Why you can't believe that we could do things? Because you still live with a dysfunctional mind and believe that you can't do anything.
+
+- Men and women, regardless of what you went through, you can fix it. Don't let somebody tell you that you can't move, that you can't do this, you can't do that. We never had that kind of spirit in IUIC. We told everybody, go to hell. We're going to do what we got to do regardless.
+
+> for dominion,
+
+- We have the capacity to rule.
+
+> for fruitfulness.
+
+- Children, all that, nationhood, all that.
+
+> These are not aspirational.
+
+- We're not just aspiring to it, like it's just some nice novel that we're reading about. No, it is not just that. It is about us in our essence.
+
+> They are original.
+
+- These attributes of greatness are in us. It is our DNA. You've just been taught that it's not a part of you.
+
+> They are what was placed within you before the world had its say.
+
+- These attributes was placed in you by God before the world opened up its lips to say anything.
+
+</div>
+
+<div class="reading">
+
+Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created versus Conditioned", p. 113  *[[1:26:41](https://www.youtube.com/watch?v=lTjnCZsWsng&t=5201s)]*
+
+> You were not formed for survival. You were formed for a purpose that originates outside of your circumstances,
+
+- You were not formed to be a product of your environment.
+
+> a purpose that is connected to the nature and intent of the one who formed you.
+
+- We are made in the image of God. That's what that part is telling you. We were made connected to the nature and intent of the power, the Most High, who formed us.
+
+</div>
+
+**[Jeremiah 1:4-5](/bible/jeremiah/1#v4)**  *[[1:27:29](https://www.youtube.com/watch?v=lTjnCZsWsng&t=5249s)]*
 
 > <sup>[4](/bible/jeremiah/1#v4)</sup> Then the word of the Lord came unto me, saying,
 >
@@ -266,6 +406,92 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
     Hide me from the secret counsel of the wicked, from the insurrection of the workers of iniquity, who whet their tongue like a sword and bend their bows to shoot bitter words, calling us anti-Semitic when we are Semites from Shem and their fathers came from Esau. They shoot in secret at the perfect, encourage themselves in an evil matter, commune of laying snares privily, and accomplish a diligent search; the inward thought and heart is deep. They think deep on how to trap us into perpetuating our own destruction, making us image ourselves as nothing so they no longer have to enforce it: parading a simple brother in a dress, stripping our women, keeping us clowns on the court and the stage who know nothing of their ancestors. If we as men do not do this work, no other species will.
 
 
+<div class="reading">
+
+Reading from *They Stole It, But You Must Return It* by Richard Williams, chapter 4, "What did white America do to the Black father?"  *[[1:41:50](https://www.youtube.com/watch?v=lTjnCZsWsng&t=6110s)]*
+
+> Blacks came from a country where many men were warriors and family heads.
+
+- That's what we were before they came and got us.
+
+- We are a valuable resource, and that's why they wanted to make sure that we stay subdued, dysfunctional. They didn't just grab people to come over here and build this if they didn't know anything. Even in so-called Black Wall Street, they cut us off from every damn thing. They give us no money. We basically gave them the finger and went and built, and we were doing so damn well. They got mad. Had to bomb it. We had our own hospitals, hotels, movie theaters. And we had towns all over this damn country, not just down there in Tulsa. Durham, North Carolina was another one. Rosewood, all that. That was all us.
+
+> These black warriors and black family heads, however, offered a threat to white America's economic plans.
+
+- In other words, we cannot enslave people that are great thinkers and are about themselves. We can't exploit them if they're brilliant, if they're smart, if they're into their God, if they're into their own nation, if they're into their culture. We can't penetrate that thing to make them dysfunctional to work for us. That's what their quest is.
+
+> But these warriors and family heads, if made slaves,
+
+- If we can make them dysfunctional for their own purpose, then we can get away with it. So we have to change the mindset.
+
+- We headed our families. We were family heads, fathers. We almost let that word go. So we held families together. We had communities. We had systems of government. We had all kind of things. So they knew that we were brilliant. You don't go all across the ocean to bring a dummy back. You go across the ocean because you need that brilliance to build this damn wicked place up.
+
+- And plus, they knew our history. They knew that we messed up with God.
+
+> could bring the highest economic return for white America. Therefore, the submission of the black males became a major emphasis
+
+- In other words, we got to change their psychology. We got to make them dysfunctional. We cannot leave them in their natural state. That's what Willie Lynch said.
+
+- How many of y'all remember me making mention of this book called Countering the Conspiracy to Destroy Black Boys, by Jawanza Kunjufu? There's a section in that book that speaks about the fourth grade failure syndrome. These racist teachers look to see if there's a spark of intelligence and genius in your sons, and they begin to work on them to kill their confidence, to kill their aspirations, to make them become apathetic about doing great things.
+
+- In the fourth grade, that's when they started working on your sons to kill that mind, to make them a slave later on. That's documented. They've taken a boy whose name was Darryl in the book. He was in the 98 percentile of the whole country in the earlier grades. By the time he got to the fourth and fifth grades, all his wisdom was gone, his aspirations were gone. Just like they told Malcolm. Malcolm wanted to be a lawyer. They killed his aspirations. He dropped out of school right then and there.
+
+- That's the reason why it's important for us to teach our sons. Jacob's Hope Academy, all that. Nothing that we have was because they gave it to us. This is because we obey God's commandments and God blesses us to be able to do the things that we're doing.
+
+> and resulted in the development of a new slave system,
+
+- They needed to create a system, meaning a system of dysfunction to mess us up.
+
+> a slave system designed to destroy the manhood of the black males.
+
+- And the way to kill black men is by killing your sons first. Kill them in the mind. So you see, we're at war, brothers and sisters. And we're at war to make sure that our people do not learn the garbage that kills our men and our women in the mind.
+
+</div>
+
+<div class="reading">
+
+Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor  *[[1:48:43](https://www.youtube.com/watch?v=lTjnCZsWsng&t=6523s)]*
+
+> The black Jews had an advantage over the African tribes. They carried their culture, history, laws, and written records with them.
+
+- The so-called white man, he knew about the Israelites. It's telling you right here in this book.
+
+> This assured them a constant precedent for the development of a higher social organization.
+
+- In other words, Esau said, we need that kind of intelligence over here.
+
+> Because of the stability of the black Jewish culture, the Jews were not absorbed into the … population. In fact, the Jews absorbed some of the native tribes. The Jews made use of every opportunity.
+
+- These Jews is talking about us now. That's why it started off by saying the black Jews. They had to be redundant, because our people will just automatically think that we're talking about those bastards over there. They ain't talking about that. You're the Jews.
+
+> They were industrious and skillful people.
+
+- We were industrious and skillful people. Well, in their mind, we need that industry and skill over here. So, no, we're not niggas. We're not coons, Ham, all that lie garbage that was gave to us to make us think that we are a different image than what God made us. When in reality, you are the greatest people that ever put your foot on this damn planet. Bar none.
+
+> In the Jewish Ghanaian states were found kings, princes, governors, generals, secretaries,
+
+- That's the family heads that we was reading in the other book.
+
+> treasurers, revenue agents, judges, architects, engineers, doctors, historians, language interpreters, mathematicians, jewellers, sculptors, masons, carpenters, painters of art, goldsmiths, leather workers, potters, armorers, saddlers, blacksmiths, agriculturalists, et cetera.
+
+- This is stewardship, basically. Ghana, that's where our brothers are. Mathematicians, the people that teach math. These are builders. Blacksmiths made weapons.
+
+- Et cetera, meaning the list rolls on and on. Paper couldn't even hold it all. I'm just letting you know how great we are, brothers. Dummies don't build societies. Resources from an enslaved mind build societies. And that's what they've done to us. It caused us to be the object of dysfunction, in the image of dysfunction. That's not who we are.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of the squeaky wheel gets the oil  *[[2:03:45](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7425s)]*
+
+> The phrase the squeaky wheel gets the oil, or the squeaky wheel gets the grease, means that the person who complains or speaks up the loudest is the one who gets attention, help, or results.
+
+- That's what we want. That's why we're going to prophesy. We're going to agitate the hell out of them till the Most High come out and kill our enemies. They don't want us to talk. They don't want us to complain about what's happened to us. We're going to complain, damn it. We're going to tell it. We're going to bug you. We're going to bug the Most High.
+
+- They don't like when we speak up. They don't like when we go and seek the welfare of our people, like Nehemiah 2 and 10 talked about. That's the reason why they have such a heavy lid on rap music, because they couldn't control it. If they start talking conscious, we got a problem with that. We need to get them into the gangster rap. Tell Public Enemy to come down. Tell KRS-One to come down. Tell Lakim Shabazz to come down. Tell Professor Griff, all the other brothers that was teaching the right stuff to wake our people up. But thank God we got Original Royalty now, and you ain't telling us to do a damn thing.
+
+</div>
+
 **[Isaiah 62:6-7](/bible/isaiah/62#v6)**  *[[2:04:32](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7472s)]*
 
 > <sup>[6](/bible/isaiah/62#v6)</sup> I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,
@@ -286,6 +512,122 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
 
     Fear is nothing else but a betraying of the succours which reason offereth. Frolic produces an image of comfort that is false: the athlete making millions running up and down the court thinks he has made it, but the real soul knows he is still a slave. Kaepernick caught the fever and stood up, and they made an example of him; his teammates know he was right and pretend to be fine. That pretence is fear. We cannot drown out the squeaking of our wretched condition with frolic, drugs, alcohol, or music, dancing slaves made to look whole while the spirit rots.
 
+
+<div class="reading">
+
+Reading from the squeaky wheel slides, on its meaning and usage  *[[2:06:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7606s)]*
+
+> Meaning and usage. Core concept: quiet people are often ignored,
+
+- Quiet people that don't say a damn thing get passed over. That's what they want. They want us on mute. That's what this social media is about. They wanna block us and say that we can't say that. Community guidelines, blah, blah, blah. Meanwhile you can find a man having sex with a chicken, and nobody has nothing to say. But when we tell the word of God, they tell us, you're offending people. Yeah, we're offending you with the word of God.
+
+> while noisy problems or vocal people force others to take action.
+
+- We want the Most High to take action, because we're gonna constantly complain like the unjust judge, like what we read about in the New Testament.
+
+</div>
+
+<div class="reading">
+
+Reading from Merriam-Webster, on the squeaky wheel  *[[2:08:03](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7683s)]*
+
+> The squeaky wheel gets the grease, or oil. The meaning of the squeaky wheel gets the grease or oil is used to say that someone who complains or causes problems is more likely to receive attention or help than someone who stays quiet and does not cause problems.
+
+- That's what they want us to do. They want us to say, you're causing problems. Yeah, we're causing problems, because you're not supposed to be over us. They want you to be a quiet slave. The hell with you. Say we're making trouble. Yeah, we're making trouble. They want to shut us up.
+
+</div>
+
+<div class="reading">
+
+Reading from a flyer from the old school  *[[2:08:56](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7736s)]*
+
+> Who are the blacks that were brought to America on slave ships? The Holy Bible, King James Version 1611, proves they are the Israelites, not Africans, punished for breaking God's laws. Deuteronomy 28:15, Ezekiel 39:23, and Luke 21:24.
+
+- Bishop Nathanyel came up with these flyers. This particular artwork that's here is actually from a book that Bishop had. I remember when he bought the book and he was showing it to me, and it's got a lot of nice imagery like this. He actually made flyers.
+
+- Shout out to Bishop Nathanyel. He was always a man of order and neatness, and he was always about don't have no wrinkled up, crinkled up flyers. That's standard. That's discipline. When we first got to the old school, when you copy something so many times, the stuff starts turning sideways, start looking all crazy, all spotted. Many of us looked at that and said, listen, we're handling the Lord's business. We cannot hand this to people. That's the reason why our flyers look the way they look now, in color, nice, folded up, done the right way, because that flyer represents you.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of frolic  *[[2:12:48](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7968s)]*
+
+> Frolic means to play, jump or move about in a happy, lively, and carefree way.
+
+- That's what that man just said: keep him in a silly mode. Keep him playing basketball and jumping around and acting crazy, dancing and swinging. But nothing analytical. Nothing serious. Not wanting to know how things run.
+
+- Like I pointed out in that book that I bring from time to time: the white mom would take her son to the craft shop to buy an airplane with different parts in it that he would have to build, and with time and labor, after days go by, the plane will fly. The black family will go and buy the plane already assembled. That's in a book called Black Men, by Haki Madhubuti. So the black family is learning how to be a consumer. The white family is teaching their sons how to run the world.
+
+- So keeping us in the silly mode is to make us a consumer. If we're constantly in a mode of frolic, playing games, that is a false image of being comfortable in slavery. He makes billions of dollars running up and down the court. Can't tell him nothing. He think he's made it. Entertainment, but nothing to do with analytics. Nothing to do with running your own banks, running your own medical centers.
+
+</div>
+
+<div class="reading">
+
+Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipation* by Velma Maia Thomas, "To Make a Slave"  *[[2:20:27](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8427s)]*
+
+> To make a slave. How does one become a slave? What is the process that turns a human being into a creature of self-hatred and self-doubt, someone fully controlled and in fearful awe of another?
+
+- In fearful awe of white folks. What could we do to make them terribly afraid of us? How do we make a slave out of these warriors?
+
+> Slaveholders developed a system. It was called seasoning.
+
+- That's what they do to our sports figures. That's what they do to our entertainers. That's what they do to our politicians. They do all of it. They scared the hell out of them. Through their secret councils, they figure out how to do these things.
+
+> It was the process under which strong men and women were broken,
+
+- They find out ways to break us.
+
+> stripped of their dignity and tortured.
+
+- This is what they literally did to us in chattel slavery.
+
+> Seasoning was a brutal system, a system that remade men into an image pleasing to their oppressor.
+
+- It was a system that remade us from the image of God and turned us into an image of dysfunction. The Negro in the laboratory that I often talk about.
+
+> It rewarded good behavior
+
+- Quote unquote good behavior, what they considered good.
+
+> and punished bad behavior.
+
+- What they considered bad, which was good for us.
+
+> It turned captive men into things, their captors into beasts.
+
+- Jump, Negro! Run! Catch the ball! Dance! They make us dance in slavery, on the slave ships.
+
+- They would say that they would make us dance to make sure that we were healthy by the time we got to market. To keep us from getting too stiff, so that we look good when we go to market. That's part of it.
+
+</div>
+
+<div class="reading">
+
+Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipation* by Velma Maia Thomas, "To Make a Slave", continued  *[[2:24:48](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8688s)]*
+
+> The wise slave master never took seriously the belief that my people were natural-born slaves.
+
+- I always zeroed in on that part there. The wise slave master, not the dumb slave master, the wise one that know who we really are. The one that read the records, that know that these people that I'm bringing over here are brilliant. He never took seriously the belief that my people were natural-born slaves, because he know that we are great people, because those are the kinds of people you need to build your society.
+
+> He knew that African men and women, fresh from the continent, had to be broken in,
+
+- Because we were geniuses.
+
+> forced to accept a subservient position.
+
+- They will have to force us to accept a subservient position: dancing on a table, wanting to play, jump up and down, acting crazy on stage. They got to make us into that thing, a dysfunctional composite of something made in a lab. The real them ain't even in there.
+
+> Slaves can never be trusted fully. Men want to be free.
+
+- The real soul of us wants to be free. That's the real man inside that's not allowed to speak. That real soul in you is squeaking all day, but some men are too damn cowardice to allow that squeaking wheel to really speak, to get the attention that it needs so the Most High can get involved.
+
+> If slavery were to work, if strong men and succeeding generations were to wear the yoke of bondage, their psychology would have to be altered.
+
+- They would have to change our mindset. That's a heavy statement right there. As a man thinketh, he becomes that. But in the reality of his soul, the real him is buried up underneath that psychological shell, that psychological tarp of what they made out of us. The real us have not even surfaced.
+
+</div>
 
 **[Psalms 91:1-16](/bible/psalms/91#v1)**  *[[4:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=270s)]*
 
