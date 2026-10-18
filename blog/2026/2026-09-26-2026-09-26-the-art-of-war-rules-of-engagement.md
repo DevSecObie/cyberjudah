@@ -23,8 +23,6 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 
 - *[[6:44](https://www.youtube.com/watch?v=eNMvid6j-qk&t=404s)]* **The thumbnail film on The Art of War** — Every war is fought twice, once in the mind before the battle; know the enemy, sin, and know yourself, where you are weak and what opens the gate.
 - *[[12:15](https://www.youtube.com/watch?v=eNMvid6j-qk&t=735s)]* **Pictures from the trip to Papua New Guinea with Deacon Isaac, Captain Yuri, Officer Ibuka and Officer Luke** — The people there are the most receptive and studious he has met; the NBC radio host took the truth on air knowing the cost; being shut out of the stage sent the brothers to the university, where the Lord had one sheep waiting who had been studying IUIC for years.
-- *[[36:22](https://www.youtube.com/watch?v=eNMvid6j-qk&t=2182s)]* **A reading from a 1926 book on the origin and migration of the New Zealand Maori** — The Maori's own legends begin in Assyria, name twelve houses descended from Hakopa, Jacob, through Isaac and Abraham, tell of Egypt, a split into two parties, ten nations crossing to Portugal, Mexico, Peru and Easter Island, and the South Sea Islands before New Zealand; the route of the northern kingdom in the Maori's own words.
-- *[[1:51:03](https://www.youtube.com/watch?v=eNMvid6j-qk&t=6663s)]* **An article on the phone as an extension of the mind** — The phone holds our memory, photos and tasks and has become part of our thinking, so whoever manipulates the feed is manipulating the mind itself; that is why the phone needs rules of engagement.
 
 ## Scriptures Opened
 
@@ -97,9 +95,204 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 >
 > <sup>[41](/bible/2-esdras/13#v41)</sup> But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt,
 
-- The ten tribes were carried into Assyria by Shalmaneser; that was the first captivity, where the northern kingdom took on Gentile names and customs and lost all recollection of where it came from.
+- The ten tribes were carried into Assyria by Shalmaneser; that was the first captivity, where the northern kingdom took on Gentile names and customs.
 
-- When Cyrus gave liberty they took counsel to leave the heathen and go to a further country where mankind never dwelt, the western hemisphere; that is why the Maori's legend begins in Assyria and not Jerusalem.
+- When Cyrus gave liberty they took counsel to leave the heathen and go to a further country where mankind never dwelt, the western hemisphere.
+
+
+<div class="reading">
+
+Reading from a 1926 book, "Origin and Migration of the New Zealand Maori"  *[[38:19](https://www.youtube.com/watch?v=eNMvid6j-qk&t=2299s)]*
+
+> Origin and Migration of the New Zealand Maori. The origin of the New Zealand Maori is still a subject of discussion and acute controversy with European and American scientists,
+
+- We don't give a damn if it's a controversy with Europeans and scientists or not. They don't dictate our history. They don't tell us about our traditions, our customs and our culture. We tell them, no, this is what it is. Stand back in the corner and let's wait for your destruction to come, because it's coming.
+
+> but the Maori himself is perfectly clear as to the history of his race
+
+- You see, he says, I'm clear about our history. We don't care about your science and your historical discoveries or your archaeology. We're clear about our history and our race.
+
+> from the remotest ages.
+
+- Let's jump down.
+
+> But the truth is that the Maori legends have never been treated seriously by Europeans, and no man of science
+
+- That's why all the books I was looking for, it was always argument. So it's never really conclusive, whether or not I could say, okay, these are really. Even though I know the spirit speak it, and the scriptures, my sheep hear my voice, but I could not prove it.
+
+> has ever succeeded in penetrating into the secret lore of what is undoubtedly one of the most remarkable races in the world.
+
+- Jump down.
+
+> In the next few pages, the Maori migration legends, as handed down for many generations by the elders and men of learning, will be summarized as briefly and explicitly as possible.
+>
+> The Holy Land, the land where mankind, Maori, was created, was Assyria,
+
+- Wait a minute. Why did they start at Assyria, but they live in New Zealand? What do we read in 2 Esdras? Shalmaneser the king of Assyria took away captive. So now he started the legends of his migration from Assyria.
+
+- Notice he didn't start his origin from Jerusalem. You know why? Because Assyria was when they was officially turned to Gentiles. They lost all traces and recollection of where they came from. That was the first valley of the shadow of death, Assyria. Their nationality was completely wiped away in northern kingdom. That's why it says Ephraim shall be broken, that it be not a people. When did it happen? In Assyria. That's why they said their origin started in the land of Assyria.
+
+> the land of western Asia. When this land became overpopulated, different sections of mankind migrated in different directions. The white Maori went to the north, the black Maori to the south, the yellow Maori to the east, and the brown New Zealand Maori to the west.
+
+- The western hemisphere.
+
+> There were originally twelve nations, or houses, of the brown Maori in Assyria, all descended from Hakopa, Jacob,
+
+- All descended of who? Jacob. They called him Hakopa.
+
+> and they first migrated to Egypt, where they built cities.
+
+- So he's telling you his history: our origins first came from Egypt, when we built the cities of Egypt.
+
+> After a time they returned to Assyria,
+
+- After a time we came back to captivity and went to Assyria captivity. He's showing you the history of his ancestors.
+
+> but a few generations later they split into two parties,
+
+- He said a few generations later, after he came from Egypt, they split into two parties. Two kingdoms, southern kingdom and northern kingdom.
+
+> and one party began its great migration to the west.
+
+- Northern kingdom began its great migration to the western hemisphere.
+
+> Two nations remained in Assyria, but ten crossed the Caucasus until they reached a cold climate,
+
+- So now he's showing you the split, the migrations, because not everybody came through the Euphrates River.
+
+- If you look at the books, the different tribes went to different areas, because we have books that show that there's tribes in the Caucasus. That's how Esau, under the Khazarians, learned Judaism, because you have Israelites that taught them there in the Caucasus Mountains.
+
+> … the Black Sea, where most turned westward and journeyed across Europe. During this migration, three other nations broke off from the main body and either settled in the lands through which they were passing or migrated in other directions. Thus it came about that representatives of only seven nations eventually reached Portugal,
+
+- So he's showing you the exact route and what took place during the migration.
+
+> Pukera. During their passage across Europe, the brown Maori had encountered the white Maori, gigantic men and fierce fighters, who would not allow them to settle peaceably in any numbers. Five of the seven nations, and certain noble women of the other two nations, sailed west from Portugal and reached Mexico
+
+- Penetrating the western hemisphere. Portugal to Mexico.
+
+> Hawaii nui, where they organized themselves into one strong nation,
+
+- So that's when Issachar started to organize himself in one strong nation.
+
+> built the seven cities referred to in their legends, and remained for many generations.
+
+- I showed you the Mexicans are Israelites. That's what he's telling you. In Mexico, when they settled down, the Israelites settled down in Mexico.
+
+> Of the two nations left in Portugal, some members migrated to Morocco,
+
+- In Africa.
+
+> others to the Canary Islands and elsewhere, and others remained in Portugal. The settlers in Mexico had long been in possession when the great white Maori came down from the north and made war upon them. When Mexico fell, the brown Maori were scattered in defeat, some going north, others to the islands in the Gulf of Mexico, others to different parts of Central America
+
+- So he said when he fell, others went to parts of Central America.
+
+> Yucatan, etc.
+
+- So now there's other Israelites that went to Yucatan.
+
+> Many settled in Jamaica
+
+- So now the Israelites settled in Jamaica. He's telling you they call it Hawaka.
+
+> Hawai… or founded colonies in Guiana, …, and other countries afterwards said by Europeans to have been inhabited by the Arawak tribes.
+
+- So the Arawak Indians we read about.
+
+> Those not dispersed gathered themselves together and went south, reaching Peru,
+
+- So he's telling exactly the events that happened. This book, he's going in depth into the migration, how exactly they started pushing forth into the different countries and how northern kingdom settled.
+
+- So now he said they're pushing down further, to South America. They reached Peru.
+
+> which then included a great part of South America. There they established themselves in the new and uninhabited land, fighting wild beasts and building up their civilization.
+
+- New and uninhabited land, where mankind never dwelt. Arsareth.
+
+> At last a great council was held at Tetaka, and one nation, the Arawa, decided to migrate still further west.
+
+- So he says one nation decided to push down even further west.
+
+> They established a colony on Easter Island,
+
+- Now they're starting to hit the Pacific Islands. So he's showing the exact migration once they settled in Central, South and North America. All right, one nation decides to go further west, into Easter Island.
+
+> where they took roots, seeds and birds with them, especially a great stock of tubers, taro, kumara, etc., for cultivation in the new land.
+
+- They hoped to find the promised land. Remember the book called The Two Promised Lands? That was their hope, to find it.
+
+> Supplies of food ran short on Easter Island, but luckily starvation was averted by the arrival of immense flocks of birds, manu …, which came from the American mainland, as clover still go to Hawaii, a distance of 3,000 miles, and the godwit cross from New Zealand to Siberia.
+
+> Passing through the South Sea Islands
+
+- They pass through the South Sea Islands. You know what they call the South Sea Islands? The Melanesian Islands. Melanesia comes from melanin, meaning the island of black people, showing you who inhabited the south.
+
+- I could never find how they went to the South Pacific. Now we know they pushed through to the South Sea islands.
+
+> and leaving monuments to mark their passage, the brown Maori ultimately reached New Zealand,
+
+- Now he says the brown Maori reached New Zealand after passing through the South Sea Islands.
+
+> some 800 strong, in seven canoes, arriving separately in different parts of the country. There they found the so-called Moriori, or Mayori, the descendants of the prehuman ancestor.
+>
+> It was assumed that these people had migrated eastwards and were the children of the dawn, whereas the Maori had always travelled toward the setting sun and were people from the farthest west, not from the east, as Europeans have mistakenly …
+
+- You know why those people were there? Why do you think those people were there?
+
+> The sacred legends say that while many members of the House of the Bull went to Mexico, some dropped out while crossing Europe and thus may have travelled even farther afield. That all the voyagers to New Zealand were members of one house is definitely proved by the fact that they all have the same crest, the Turtle.
+
+- That's that Assyrian BS garbage that they took with them. Northern kingdom, in idolatry.
+
+> As already stated, all the members of the ten nations
+
+- These are the 10 tribes.
+
+> did not migrate from Assyria to Portugal and the West. Certain parties remained in the various countries
+
+- So he's telling you all the members of the 10 tribes just didn't come to the west. The northern kingdom was scattered all throughout. Cuz remember, some of them went to China and Japan. Some went to India.
+
+> through which the migrants passed, and the subsequent migrations, with their consequent intermarriages, scattered those sections of the brown Maori in many directions. But the main body of each nation can be definitely traced by their crests and signs.
+
+- Crests and signs, and symbols behind.
+
+> The two nations which remained in Assyria were the Mermaid and the Clover,
+
+- You see, this northern kingdom BS again.
+
+> the ten nations migrating being the Turtle, the Serpent, the Eel, the Fish, the Whale, the Lion, the Dog, the Bull, the Dove and the Eagle. The three nations which fell out en route were the Whale, the Lion and the Eagle, leaving five nations to go to Mexico: the Turtle, the Fish, the Dog, the Bull and the Dove. To these must be added women from the Eel and the Serpent nations. Of all these, as already mentioned, only the Turtle, or the Arawa nation, reached New Zealand.
+
+- The Mexicans be worshiping the serpent god. That's what he said. The serpent went to Mexico.
+
+- Go to the Museum of Natural History. What do they call the serpent god in Mexico? Quetzalcoatl, the serpent god. But we know who that Quetzalcoatl really is.
+
+> The traditional descent of the Arawa Maori is from Ahaka, Isaac,
+
+- They know that they come from Isaac.
+
+> who was the son of Aberahama, Abraham,
+
+- Abraham.
+
+> and the son of Ahaka was Hakopa, Jacob,
+
+- They know they came from Abraham, Isaac and Jacob. They have that tradition.
+
+> from whom came the twelve houses of …. The word wi means literally the ribs of a house or a man, etc.; therefore wi means the people. … is obviously Israel.
+
+- So they know that they come from the descendants of the Israelites.
+
+> Ra in Maori means the son, or the son god, or god, and ihi in Maori means the origin or the source. Thus the term … means the people of the son god,
+
+- What do we call Christ? We sort of went into idolatry, but they said we're the people of the son god, because why? Christ is the son of God. Remember it says the sun of righteousness come upon you. We're the people of the son.
+
+> or the people of God.
+
+- Or the people of God.
+
+> The earthly country from which these people came was called A…, which is an abbreviation of Ihirawi. An alternative spelling of A…, insisted upon by some of the Maori nobles, is Ahari.
+
+- So that's it. So I wanted to share that experience.
+
+</div>
 
 
 **[Deuteronomy 33:23](/bible/deuteronomy/33#v23)**  *[[54:00](https://www.youtube.com/watch?v=eNMvid6j-qk&t=3240s)]*
@@ -108,9 +301,30 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 
 - Naphtali is satisfied with favour and full of the blessing of the Lord: gold, silver, copper, crude oil, forestry the other nations come to Papua New Guinea for, and fishery.
 
-- Possess thou the west and the south is the southwest Pacific: Australia and New Zealand where the Maori are, and Melanesia, Papua New Guinea, Fiji, the Solomon Islands, Vanuatu and New Caledonia.
 
-- The book also has parts of the migration going round Africa and dropping tribes in Morocco, Nigeria and Madagascar.
+<div class="reading">
+
+Reading from an on-screen search result on the key territories of the southwest Pacific  *[[55:28](https://www.youtube.com/watch?v=eNMvid6j-qk&t=3328s)]*
+
+> The southwest Pacific region includes major nations like Australia and New Zealand
+
+- Where the Maori reside. Australia and New Zealand.
+
+> alongside numerous island countries and territories in Melanesia, Micronesia and Polynesia. Key countries and territories: Australia and New Zealand.
+
+- I want Melanesia now.
+
+> Melanesia includes Papua New Guinea,
+
+- Papua New Guinea.
+
+> Fiji, the Solomon Islands, Vanuatu and New Caledonia.
+
+- So the Southwest Pacific is where the tribe of Naphtali would inhabit. Now we have the documented history showing the exact migration from ancient Assyria to different countries, and the route that they took.
+
+- There was one part of the book I forgot to bring out. In the book it shows you that one part went around Africa and they dropped off some of the tribes in Nigeria, Morocco and some other countries in Africa, and Madagascar as well. So they're showing you that some of the northern tribes were dropped off in Africa too.
+
+</div>
 
 
 **[2 Timothy 2:3-4](/bible/2-timothy/2#v3)**  *[[59:30](https://www.youtube.com/watch?v=eNMvid6j-qk&t=3570s)]*
@@ -337,7 +551,48 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 - Drinking is another trigger; after every fall look back at how the defences were taken down and by whom, and never let circumstances, timing or feelings break a rule you made.
 
 
-**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[1:56:55](https://www.youtube.com/watch?v=eNMvid6j-qk&t=7015s)]*
+<div class="reading">
+
+Reading from an article on phones as extensions of the mind  *[[1:51:03](https://www.youtube.com/watch?v=eNMvid6j-qk&t=6663s)]*
+
+> I have many fond memories of many things, but when I want to really remember things, I whip up my phone or computer. This probably isn't an accident, but maybe it's not the disaster we think it is either. I've been thinking about this differently lately. What if our phones aren't just devices we use, but actual extensions of our cognitive systems?
+
+- You know that your phone now has become a part of us, like a cyborg. It's a part of your cognitive system. Where do you go to remember things now?
+
+- Before phones became really popular, it was Nokia, then Sidekick came, then BlackBerry came, then iPhone came and changed the game. Prior to that, how did you remember numbers? Now how do you remember numbers? This became an extension of your brain.
+
+- Photos and images: where do you store your photos and images? A photo album. You're supposed to store it in your memory bank. Your phone is your photo album. Tasks, anything you do, you store it where? Your phone. Your ideas, everything. The phone has become an extension of your cognitive functions. It is you. It's a part of you. You become a cyborg.
+
+> What if the boundary between human intelligence and digital augmentation dissolved years ago without us noticing?
+
+- None of us even know it. You leave your house, you forget your phone, you know it automatically. Why is it that you know that you forgot your phone? There's a spirit connecting it.
+
+- Nikola Tesla. He was a demon. He was a prophet when it comes to Esau's world, meaning a prophet on the left side. He was able to tap into radio frequencies, and it was called spirit radio before it became the radio. When he first created the radio, he was able to communicate with the unseen world and heard demons in that world. And after the spirit radio came, you have the spirit phone that was created. They used to use the phone and the radio to communicate to demons.
+
+- So when the phone was created, it was created as an extension of us, as an extension to the unseen worlds. And that's why we're attached. Whatever spirits that's within us is attached to that phone, and it's a connection that we can't let go of.
+
+> This isn't about phone numbers and addresses, though that's part of it. It's about something deeper. I think we've already become cyborgs, somewhat, and we're still pretending we're pure humans interacting with external tools. And I suspect this confusion about what we actually are makes us more vulnerable to manipulation.
+>
+> The extended mind thesis. Memory was never just personal. It was always extended beyond the boundaries of individual brains. Oral traditions preserve knowledge across generations. Community memory kept track of who owed what to whom. Written language let us offload complex thoughts, stories, records and memories onto external symbols.
+>
+> Now digital systems handle most of our memory storage and retrieval. Google Photos or Apple Photos organizes our visual memories. Our phones remember phone numbers, directions, appointments. Social platforms remember our connections and conversations. Search engines remember what we've learned and forgotten.
+>
+> I think the key insight is this: these aren't external tools we occasionally use. They're cognitive extensions that have become so integrated with our thinking that losing access to them feels like losing part of our minds. That's a lot of trust we're putting into these systems. When my phone dies, I don't just lose a device, I lose access to a significant portion of my cognitive capabilities.
+
+- Scary.
+
+> The difference isn't that we've lost something. It's that we've gained cognitive extensions that fundamentally expand what human intelligence can be. The problem isn't technological augmentation itself. The problem is that we haven't acknowledged that this augmentation makes us vulnerable to manipulation through our extended cognitive systems.
+>
+> When someone manipulates our social media feeds, they're not manipulating an external tool, they're manipulating part of our actual thinking process. This changes everything about how we understand digital manipulation.
+
+- So it could actually manipulate our thought process, our direction, what we think, how we think, and it actually could cause us to do things. Sometimes a thought you think is your thought. No, it was manipulated by social media, that was able to steer you into their direction.
+
+- So understanding the enemy, knowing the enemy, and having some type of rules of engagement, even when it comes to your phone, to protect your mind for progress.
+
+</div>
+
+
+**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[1:57:29](https://www.youtube.com/watch?v=eNMvid6j-qk&t=7049s)]*
 
 > <sup>[33](/bible/1-corinthians/15#v33)</sup> Be not deceived: evil communications corrupt good manners.
 
@@ -394,9 +649,92 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 
 - The husband is the head and the final authority, so when a wife approaches him it is a tactical engagement, never just a thought or an idea; ask whether the concern is legitimate or a thought planted to start an argument, and whether he came home from a hard day.
 
-- What to expect when you approach a head: defensiveness, a desire for preeminence, disagreement taken as a challenge to his authority, advice rejected, withdrawal from the conversation, questioning your approach, pride and stubbornness, a desire to control the outcome, delayed decisions, selective listening.
 
-- Sisters, your approach and your timing are everything: get to the point in a sentence, not a book; act on your own outside his guidance and that is the next argument.
+<div class="reading">
+
+Reading from an on-screen list of what can go wrong when a wife approaches her husband  *[[2:11:58](https://www.youtube.com/watch?v=eNMvid6j-qk&t=7918s)]*
+
+> Defensiveness.
+
+- He can become defensive.
+
+> Desire for preeminence.
+
+- He might think that you're challenging him, because a man, an authority figure, is supposed to keep the preeminence in the household. So based upon what you bring to him, it could be looked at as a challenge.
+
+> Perceiving disagreement as a challenge to his authority.
+
+- So you might disagree, but he says you're challenging my authority as a man.
+
+> Rejection of advice.
+
+- You might come with advice for a situation that you try to bring to your husband: hey, listen, I think we should go this way. The outcome might not be the outcome that you look for. You might get rejected at the advice that you're trying to implement in the relationship.
+
+> Lack of communication.
+
+- There might be a lack of communication from him.
+
+> Or withdraw from conversation.
+
+- He might withdraw from the conversation when you bring it to him. These are the things, the expected outcome that could occur when you engage with your husband.
+
+> Questioning approach.
+
+- He might question your approach. I don't like how you approach me.
+
+> Pride and stubbornness.
+
+- Men, we're prideful. We're stubborn. That's how we are.
+
+> Desire to control the outcome.
+
+- Because that's what comes with an authority figure. We desire to control the outcome.
+
+> Resistance to compromise.
+
+- You might want us to compromise and follow your direction, but as a man, he's resistant to that. So that's the expected outcome when you bring the conversation.
+
+- You have to know how to engage and how to receive these things when it happens, and not be, oh, why is this happening? And then you engage in it and you argue it, because these are the expected outcomes and you don't like it.
+
+> Delay of decision.
+
+- You might want an immediate decision. He said, not right now. He doesn't want to give you a decision now. You act on it, you argue with him, you act on your own, you do something outside of his guidance, and then that's another conversation. That's another argument.
+
+- Rules of engagement, sisters: your approach is everything. Timing is everything. The outcome of what you expect might not be the outcome, based upon an authoritative figure.
+
+> Avoidance.
+
+- He might avoid you.
+
+> Retaliation.
+
+- He might retaliate if he's evil.
+
+> Feeling undermined or disrespectful.
+
+- He might feel undermined or disrespected based upon your approach. You got to be able to assess the situation, the scenario, and be spiritual and discern.
+
+> Dismissing her concerns.
+
+- He might dismiss your concern.
+
+> Selective listening.
+
+- We do it all the time. Some of you like to talk too much. You never get to the point. You take one situation and we're like, get to the point.
+
+- Sometime you talk too much. You're too wordy. Get to the point. Don't go to the left. Don't go to the right. Straight, narrow. You got 5 seconds to get your point across. I don't want a book. I want a sentence.
+
+> Refusing to revisit previous decisions.
+
+- You might say, did you decide on this? I'm not ready to decide on it. I decide when I want to decide. That's how we are. You're not going to force us to decide.
+
+- You might say this is a warfare. It is a warfare, because based upon your response it could develop into arguments and fighting, and it's something within you, a lust, a power struggle that you might want to engage in.
+
+> Anger and frustration. Difficulty acknowledging his wife's feelings.
+
+- You don't understand my feelings. I feel this way. I feel that way. So it might be difficult for him, acknowledging your feelings. You say, he don't understand what I'm feeling, he just dismissed me.
+
+</div>
 
 
 **[1 Peter 3:7](/bible/1-peter/3#v7)**  *[[2:16:20](https://www.youtube.com/watch?v=eNMvid6j-qk&t=8180s)]*
@@ -407,7 +745,68 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 
 - Give honour to the wife: a man who looks at every flaw cannot be happy; understand how she was created and order, structure and teach her within that creation.
 
-- What to expect from the weaker vessel: emotion, many words, a conversation that goes in every direction, being easily offended, correction taken personally, the past brought up, unrelated issues, withdrawn affection, and the expectation that you read her mind.
+
+<div class="reading">
+
+Reading from an on-screen list of what to expect from the weaker vessel in a conversation  *[[2:19:02](https://www.youtube.com/watch?v=eNMvid6j-qk&t=8342s)]*
+
+> Emotional.
+
+- She's going to get emotional.
+
+> Very wordy.
+
+- She's very wordy.
+
+> Conversation goes in many different directions.
+
+- It never stays there.
+
+> Emotionally disengaged.
+
+- Because she's emotional, now she's disengaged. It's all about emotions.
+
+> Self-centered.
+
+- She's self-centered. It's all about her.
+
+> Easily offended.
+
+- You can't say anything to her. Why you correct me? Why you say that to me? She's easily offended.
+
+> Difficulty controlling emotions.
+
+- She can't control herself. She starts crying, you say anything.
+
+> Takes correction personally.
+
+- You correct her, she said, he hates me, I want to kill myself. Why? He corrected me. He doesn't love me.
+
+> Dwells on past disagreements.
+
+- Woman can't let go of the past. This is the expected outcome when you go in a conversation or argument.
+
+> Brings up unrelated issues.
+
+> Makes assumptions without clarification.
+
+- Understand the weaker vessel, and what comes with the weaker vessel, when you engage in tactical warfare.
+
+> Interrupts during conversations.
+
+- Talks over the other person.
+
+> Shuts down emotionally.
+
+> Withdraws affection during disagreements.
+
+- So she sleeps somewhere else, another room. Or she sits there like this: you done? Like a mummy. No spirit, nothing. No love. You eat a sandwich, it's boring, it's plain. Mayonnaise and mustard. No season on chicken.
+
+> Expects the other person to read their mind.
+
+- Brothers, this is what they expect you to do. They walk around the house angry. What's wrong? Nothing. What's going on? Nothing. I'm angry cuz you didn't read my thoughts. Well, I'm not God. Women expect you to read their minds. We're not Professor X. But that's the expected outcome when you engage in tactical warfare.
+
+</div>
 
 
 **[Proverbs 13:10](/bible/proverbs/13#v10)**  *[[2:21:46](https://www.youtube.com/watch?v=eNMvid6j-qk&t=8506s)]*

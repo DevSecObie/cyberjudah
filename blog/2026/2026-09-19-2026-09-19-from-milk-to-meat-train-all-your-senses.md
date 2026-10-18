@@ -526,9 +526,15 @@ The class video:
 
 - Okay? He gave them to understand good and evil. So what we read about are those senses that the Most High gave us. There's many of them, but we're going to touch upon a handful of them today. You got the definition of cogitation? Are we ready? C-O-G-I-T-A-T-I-O-N-S. I think they have auto-correcting spell. If you look in the Apocrypha, in the book of Sirach, Ecclesiasticus, that's between the New Testament and the Old. Okay, read the word cogitation.
 
-> Cogitation: the act of thinking very carefully and deeply about a subject, or a carefully considered thought itself.
+<div class="reading">
 
-- So now go on down. Let me see something real quick. Oh, you can't scroll down. Go back up. The word meditation is good, too. Is there more? Keep on going. Example usage. Okay, go back up. Let's use the word meditation. All right. So let's read this verse again. Verse 5.
+Reading from a definition of cogitation  *[[1:29:42](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=5382s)]*
+
+> Cogitation means the act of thinking very carefully and deeply about a subject, or a carefully considered thought itself.
+
+- So now go on down. Let me see something real quick. Oh, you can't scroll down. Go back up. The word meditation is good, too. Is there more? Keep on going. Example usage. Okay, go back up. Let's use the word meditation. All right.
+
+</div>
 
 - So the sixth place is understanding. And in the seventh, speech. The seventh is speech. The speech is the interpretation of what your mind meditates on. So out of the abundance of your heart, your mouth speaketh. These are the senses. Now read the next one. Verse six.
 
@@ -540,9 +546,15 @@ The class video:
 
 - Okay. So slow. Counsel is one. A tongue is another. And eyes. Eyes is another. Ears. And a heart is another one, for them to understand. Read on. And showed them good and evil. Oh, here we go.
 
-> Cogitation: the act of cogitating; meditation; the capacity to think or reflect.
+<div class="reading">
+
+Reading from a definition of cogitation  *[[1:31:18](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=5478s)]*
+
+> Cogitation: the act of cogitating, meditation, the capacity to think or reflect.
 
 - All right, that's one of the senses we have. We have the capability to think and reflect. Well, let me explain something to you. Thinking and reflecting does not work unless it's funnelled through the word of God. That's how your mind has to work. So when you think, or you reflect on something, if you're not moving right, guess what? The thought that comes out is going to be off. You understand that, right? All right. Hold this. We're going to come right back here. I want to go back to Sirach. It just struck me. Sirach chapter 30. Oh, it might be 34. Give me a second. No, it's not 34. It's 37. Watch this. I want you to read Sirach 37:13. Let's go.
+
+</div>
 
 **[Sirach 37:13](/bible/sirach/37#v13)**  *[[1:31:24](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=5484s)]*
 
@@ -846,13 +858,17 @@ The class video:
 
 - Yeah. In the latter end of your life. Listen to counsel, that you could be wise in the later parts of your life. Do it while you're young, when you could figure it out. Here's one thing. Let me help you out again. Just shut up sometime. That's your best bet, because what's going to come out your mouth, especially when you unlearned, is going to be nonsense. Like me, I was talking about mandrakes was weed. Oh, God, it sounds so comical now. Listen, listen. Preserve yourself, and in those things you will strengthen your senses to discern. But if you think you know, do it your way. Read.
 
-- Right, because we have all kind of devices in our hearts. All kind of bright ideas, which are not right. But one thing is going to do what? What's the last part of that verse? The counsel of the Lord, that shall stand. All right, I'm done with that. I got too much to go through. All right, so let me move on now. So we dealt with physical senses. I'm not going to touch on some of this. Well, I'm going to touch on the spiritual senses now, that you exercise from milk to meat. I want you to look up the word clairvoyance. Okay, he can't spell. C-L-A-I-R. Don't worry, I can't spell either. Don't feel bad. We're in the same boat. Oh, snap. Who's behind that? Okay. All right. Good. Good. Definition of clairvoyance.
+- Right, because we have all kind of devices in our hearts. All kind of bright ideas, which are not right. But one thing is going to do what? What's the last part of that verse? The counsel of the Lord, that shall stand. All right, I'm done with that. I got too much to go through. All right, so let me move on now. So we dealt with physical senses. I'm not going to touch on some of this. Well, I'm going to touch on the spiritual senses now, that you exercise from milk to meat. I want you to look up the word clairvoyance. Okay, he can't spell. C-L-A-I-R. Don't worry, I can't spell either. Don't feel bad. We're in the same boat. Oh, snap. Who's behind that? Okay. All right. Good. Good.
 
-**The spiritual senses: clairvoyance**  *[[2:14:58](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=8098s)]*
+<div class="reading">
+
+Reading from a definition of clairvoyance  *[[2:15:12](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=8112s)]*
 
 > Clairvoyance is the claimed ability to gain information about past, present or future events through extra-sensory perception, often described as clear seeing in the mind's eye.
 
 - Right? The point I want is clear seeing in the mind's eye. This mind has an eye. You can foresee certain things. All right? So let's go through this real quick. So clairvoyance, another way of saying it, is prophetic vision. Seeing things that other people can't see. Everybody understand that? You can see things that other people cannot see. Watch this. Numbers 12 and 6.
+
+</div>
 
 **[Numbers 12:6](/bible/numbers/12#v6)**  *[[2:15:53](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=8153s)]*
 

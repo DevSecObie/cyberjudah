@@ -29,61 +29,138 @@ So today's topic is called *She Reverence Her Husband*, as we read in Ephesians 
 
 The first slide is from Abuela — the sister that does all the marriage stuff, seminars on how to get women right to be proper wives. She does this under Christianity, white Jesus Christianity, but she is on point when it comes to articulating submission. I saw this one and it sparked me to begin taking notes to prepare this class.
 
+<div class="reading">
+
+Reading from an Instagram post by Abuela, a sister who does marriage seminars  *[[13:44](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=824s)]*
+
 > The reason many modern women struggle in marriage is because they have learned to explain themselves better than they have learned to examine themselves.
->
-> When she is disrespectful, she wants him to remember everything she has been carrying. When she becomes emotionally reactive, she wants him to consider her stress. When she withdraws, punishes, or becomes cold, she wants him to understand how deeply she was hurt.
+
+- Modern women today, and especially in marriage, that's going to be the main focus. But by and large, in general, what has happened with the feminist movement, the crafty council of creating a wedge between men and women, especially in our communities, that equality mindset, when they were never meant to be equal. And they think when I say that, that that means that they're less. And they are the weaker vessel, but they were never meant to be equal to man. God made a man distinct characteristics to be a man, biologically, physiologically, and in spirit. Men are built different. Men are made different. Men experience the world differently. We see things through a different lens. And our instincts are different than what women have.
+
+- And when you try to disrupt the order, to put woman to try to be in that man's role, first of all, they're not made that way to fulfill it on all those levels, biologically, physiologically, physically, all that. And they're also not equipped spiritually to see it that way. And we're going to back all this up with scriptures.
+
+- But one of the big things you notice today, brothers do it too with that spirit of explaining, but chiefly with women, is you've been taught by the world to explain yourselves better than you've been learned to examine yourselves and accept accountability.
+
+> When she is disrespectful, she wants him to remember everything she has been carrying. When she becomes emotionally reactive, she wants him to consider her stress.
+
+- Me, me, me, me, me, me.
+
+> When she withdraws, punishes, or becomes cold, she wants him to understand how deeply she was hurt.
 >
 > In other words, she wants context for herself and accountability for him.
 
-- Modern women, and especially in marriage — that is the main focus. But by and large, what has happened with the feminist movement, the crafty council of creating a wedge between men and women especially in our communities, is that equality mindset, when they were never meant to be equal.
-- And they think when I say that it means they are less. They are the weaker vessel, but they were never meant to be equal to man. God made a man with distinct characteristics to be a man: biologically, physiologically, and in spirit. Men are built different, men are made different, men experience the world differently, we see things through a different lens, and our instincts are different from what women have. When you try to disrupt the order and put a woman in that man's role, first of all she is not made that way to fulfil it on all those levels, and she is also not equipped spiritually to see it that way.
-- Me, me, me, me, me. She wants context for herself and accountability for him. That is the dynamic, and that is why the relationship and the marriage becomes a power struggle. That is where conflict comes in.
-- Part of this feminist movement was when they destroyed what they call traditional values. Think about it — the number one issue of concern for women who vote in the United States is whether or not they would be allowed to kill their babies in the womb. They call it women's rights, to murder their children. That is the top thing in their mind, by and large. That goes to show you how out of course things are, just on that one issue. The mind is not right. There is no self-examination behind these things.
+- And that's the dynamic. And that's why the relationship and the marriage becomes like this power struggle. And this is where conflict comes in.
+
+- Now, part of this feminist movement and all these things that happened was when they destroyed what they call traditional values. It's really the world at large, but especially here in the United States, the number one issue of concern for women who vote and want to take action, when they look at who they vote for, is whether or not they would be allowed to kill their babies in the womb. That is the number one concern for women. They call it women's rights, to murder their children. That's the top thing in their mind, by and large. That goes to show you how out of course things are, just on that one issue.
+
+- So it goes back to what I'm saying. The mind ain't right. There's no self-examination behind these things to look at that stuff.
+
+- I saw some crazy stat the other day. I didn't even get to validate it, but it was something to the effect like, in the modern age of abortion, women have murdered like three times as much as all casualties of war throughout history. I don't know how true that is, but I'm gonna look it up and try to validate it and see.
+
+</div>
+
 
 Then the article on the trad wives, dated August 10th, 2025. Notice the writer is a woman. When you report, unless it is an editorial, it is not supposed to have your opinion in it; it is supposed to be a neutral story where you state the facts. Those lines have gotten blurred. She starts off very neutral and then she says certain things.
 
-> Would you be happier as a trad wife? The recent media coverage of social media mega-influencer Hannah Neilman of Ballerina Farm has brought the trad wife movement into the spotlight and raised the question of whether women like Hannah are as happy as they portray themselves on social media. Could this life really be a blissful escape from the modern grind, or is it all a facade? Are these women really happy in their traditional marriages, or have they been manipulated into a life of thankless unpaid labour?
->
-> Surprisingly enough, research provides an explanation as to how trad wives might actually be happy with this seemingly unfair arrangement. But it does not mean that the trad wife life is right for everyone.
->
-> The trad wife movement is based on the belief that men and women should assume traditional gender roles, with women caring for the house and children and with men providing financially and managing most decisions for the family.
->
-> One such influencer is Jasmine Dennis. On her Instagram, Jasmine makes statements such as: I am teaching my daughter that it is perfectly acceptable to depend on a man, that being a homemaker is the number one career she should strive for. I used to be really into politics, but now I just relax while my husband tells me what to think.
->
-> Of course, the trad wife movement is problematic for many reasons. Most notably, traditional gender roles are only an option for wealthy families, that include a man and woman married to each other, which means most families in the world are excluded right off the bat.
->
-> First, the most recent research does not find any evidence that being a traditional wife protects you from divorce, and even suggests that more egalitarian relationships may be more likely to stand the test of time. One study from Sweden found that couples in which housework was split equally were less likely to divorce or break up when compared to more traditional arrangements.
->
-> Research finds that couples married before 1975 were more likely to get divorced when the woman worked and completed fewer household tasks. But these factors did not seem to matter for couples married after 1975. Although divorce is more common now than in the 1950s, divorce rates have been steadily declining from 2000.
->
-> Most young men and women also now report that they want an egalitarian relationship. Although the trad wife movement may be getting a lot of attention, the ideals for marriage for most people are clearly shifting.
+<div class="reading">
 
-- Traditional gender roles are only an option for wealthy families — that is not true, because Israel has been broke the majority of us throughout history, and we had prosperous, what they call traditional, marriages throughout the scriptures. If you did not come from a broken home, meaning both your father and mother were there, most of us did not have money like that. There are measures to poverty, but you do this in poverty.
-- The reason I kept this article is because I want you to see how even in this they look to cheapen what God has said is his divine order.
-- I relax while my husband tells me what to think. I knew that was going to be a trigger. A woman that is polluted by this earth does not realise the care and ease that she has. She does not have to worry about having the roof over her head, the food, the clothes, protection, or fear of the world. When you have a righteous husband and you have these biblical roles the way they are supposed to be, the woman does not have the burden of the stresses to think like the man has to think. And that is liberating. But they went and changed that up. That is why you have these psychos out here talking about I have got to kill my babies because of postpartum.
-- These types of traditional marriages only emerged at the start of the industrial revolution and mostly only in wealthier white European and American families — that is not true. You see how they want to take credit for everything. Even in her negativity towards this, she wants to take credit for it being wealthy white Europeans and Americans that came up with traditional marriage. No.
-- If you are going to destroy your whole marriage over housework, you probably should not have been together in the first place.
-- The data actually shows that when she was not involved in the home like she should be, they actually were more likely to get divorced.
-- The reason they are saying that divorce rates are declining is because people are not getting married. You see how they will throw a fact out but they do not show you the other side of it. They are declining because there are fewer people married in general, because of how jacked up everything is.
-- Most young men and women now report that they want an egalitarian relationship — simps. Young men talking about, yeah, I want to wash the dishes and do all the things a woman is supposed to do in the house too.
-- Remember certain pieces that I said from this article. This sets the foundation for the mindset, because women in here have elements of the contrary of this. You have not fully embraced the biblical standards. I will say it is because of programming, and there is a lot that has gone through your mind. I get it. But we know now, so it is not an excuse. Most women really do not understand submission and the gravity of submission.
+Reading from an article dated August 10th, 2025, *Would You Be Happier as a Trad Wife? The Research Behind the Trad Wife Movement*  *[[19:46](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=1186s)]*
 
-Later in the class, the slides on what respect actually is:
+> The recent media coverage of social media mega-influencer Hannah Neilman of the Ballerina Farm has brought the trad wife movement into the spotlight and raised the question of whether women like Hannah are as happy as they portray themselves on social media. Could this life really be a blissful escape from the modern grind? Or is it all a facade? Are these women really happy in their traditional marriages? Or have they been manipulated into a life of thankless unpaid labor?
 
-> Wives, your husband is not your improvement project. You are his wife, not his supervisor. Some wives call it helping, but every suggestion carries correction, every question challenges his judgment, every conversation tells him how he could have done better. Eventually he stops hearing concern; he hears constant dissatisfaction. He feels as though nothing he does can simply be received without being evaluated.
+- So, she's already starting, and we gonna clear that up. We're gonna clear that up today with the scriptures on what it is to be a biblical wife. They call it a traditional wife. So it's lacking the Bible, but there's overlap in some of the way that they play their roles in it.
+
+> Surprisingly enough, research provides an explanation as to how trad wives might actually be happy with this seemingly unfair arrangement.
+
+- Oh, it's unfair. They see all the little digs, she's already starting.
+
+> But it doesn't mean that the trad wife life is right for everyone.
+
+- No. If you want to be a hoe, you can not be a trad.
+
+> The trad wife movement is based on the belief that men and women should assume traditional gender roles with women caring for the house and children and with men providing financial…
+
+- You know that's a misnomer, traditional gender roles, because there's gender roles. Even before you get to the scripture, we look different. We perceive things different. We receive and express emotions different.
+
+- Most of us, some brothers, that's why the scripture talks about that effeminate spirit. A lot of y'all automatically think effeminate spirit means you're gay. No, it means you have women tendencies. And it could be in how you receive criticism, how you react to it. So, be mindful. You could be a big strong macho man, not gay by a mile, but you soft emotionally and how you're dealt with and spoken to. That's effeminate.
+
+- But anyway, that's a misnomer, traditional gender roles. There's gender roles, and the Bible tells you there's responsibilities that women have, both as daughters, as wives, as mothers, as single sisters. It's very clear on all those things, and likewise for the men. So there is a division, there is gender roles. The fact that they're made male and female means it's not the same thing. That is common sense.
+
+> And with men providing financially and managing most decisions for the family,
+
+- Now, what women are going to cling on to that, because yes, the ideal situation is that the man primarily provides financially, but women worked. You read that in Proverbs 31. So there's this confusion that women didn't work.
+
+- You remember we were agrarian. So we were like agricultural society. So a lot of times that was basically the man's little business, his sheep, his flocks, his farming of the land. And the wife worked with him in certain responsibilities in dealing with the land, to some extent. There was also opportunity for them to get what they called women's work. The fact that there's even a term that is women's work, we understand that.
+
+> Although Hannah Neilman of Ballerina Farm does not self-identify as a trad wife, much less promote this lifestyle, many influencers on social media do identify with this label and are insistent that this way of life is superior.
+
+- Now, biblically, we know that it is superior. And hopefully, Lord willing, by the end of the class you'll be able to see and understand why it's so important and why we stress the submission so much. It's not about men trying to dominate women. It's about God's order, so that all things could be brought under Christ. Quite literally, the marriage and how you live your biblical marriage falls in line with bringing everything under Christ. And we'll talk about that too, Lord willing.
+
+> One such influencer is Jasmine Dennis. On her Instagram, Jasmine makes statements such as, “I'm teaching my daughter that it's perfectly acceptable to depend on a man, that being a homemaker is the number one career she should strive for. I used to be really into politics, but now I just relax while my husband tells me what to think.”
+
+- I knew that was going to be a trigger. I relax while my husband tells me what to think. See, a woman that is polluted by this earth doesn't realize the care and ease that she has. She don't got to worry about having the roof over her head. She don't got to worry about having the food or the clothes or none of that stuff, or protection, or fear the world. When you have a righteous husband and you have these biblical roles the way they're supposed to be, the woman doesn't have the burden of the stresses to think like the man has to think. And that is liberating.
+
+- But they went and they changed that up. That's why you got these psychos out here talking about I got to kill my babies because of postpartum.
+
+> Research and experience have consistently shown that these traditional values and practices contribute to relationship stability and long-lasting marriages,
+
+- Because that's the way God intended the order to be for all of his creation, for all humanity, meaning the other nations as well. That's how it's supposed to be. Never forget that the other nations are going to pay for the sins that they did too. They're breaking God's laws as well. In this time, it's not for them, but they will be judged by the same standard and measure. That's part of everything coming under Christ as well. But they have judgment for sin. The scripture tells you, as in Revelation, her sins have reached heaven, or something like that.
+
+> Another trad wife, Estee Williams, promotes dropping out of college and only leaving the house with your husband's permission. Like Jasmine and Estee, many trad wives on social media claim that being a traditional wife is the ideal arrangement for a happy marriage and family. Of course, the trad wife movement is problematic for many reasons,
+
+- Says her.
+
+> Most notably, traditional gender roles are only an option for wealthy families
+
+- That's not true, because Israel been broke, the majority of us, throughout history. And we had prosperous, what they call traditional, marriages throughout the scriptures. And we know, if you didn't come from a broken home, meaning that both your father and mother were there, most of us did not have money like that. There's measures to poverty, but you do this in poverty.
+
+- Like I said, she's starting to leak her views in. The reason I kept this article is because I want you to see how even in this they look to cheapen what God has said as his divine order.
+
+> that include a man and woman married to each other, which means most families in the world are excluded right off the bat. It also goes without saying that most of what these trad wives and posting on social media is a performative fantasy life at…
+
+- Now, I wouldn't say just trad. In general, social media is performative fantasy life, especially you incessant posters, that you post everything. You post a picture because you want feedback for the picture. Or you'll do like the passive aggressive stuff, or like the subtle things where you're looking for attention, but you'll word it in a different way so it don't look like attention. It's a dopamine hit to you when you get the likes and the comments and things like that. It's a fantasy. It's a lie. And then these people don't even know you. They think that they know you. They got a version of you that they see on the social media.
+
+> Yet, it is hard not to wonder whether a trad wife is the easier and simpler way as you watch them blissfully making bread from scratch or homeschooling their 10 children with a smile on their face. Clearly, these trad wives are on to something. But are they really as happy as they claim?
 >
-> Being a helper does not mean constantly managing the man you were created to support. Help strengthens. Control supervises. Respect knows the difference.
->
-> Ask yourself honestly: does my husband experience me as a woman who believes in him, or as another person he must continually prove himself to?
+> Do trad wives have happier marriages? Many trad wives claim that women serving as homemakers and men serving as breadwinners is how marriage is meant to be. They often cite the lower divorce rates when traditional gender roles were more common. Of course, there are many problems with this argument. Namely, that when traditional gender roles were more common, there was more of a religious and cultural stigma around divorce
 
-- It is not your job to fix your husband, it is not your job to teach your husband. You focus on yourself. You know who deals with him? Christ deals with him, and Christ will get him right.
-- Every suggestion you make to your husband is really you trying to correct him. But you think because you say it with sweet words, because you rubbed his back or his shoulder, because you told him how great he was before you gave your differing opinion, that that is not correction. But it is.
-- Women are the most critical of both genders. They criticise everything. You know how they criticise each other? They criticise each other with compliments. It is a backhanded criticism disguised as a compliment. Oh, those are such nice earrings you have — you know, they would have looked good, because my ears are small and perfect. And you think, did she just say my ears are big?
-- You wear him down. He hears constant dissatisfaction. And that is you. You wives, women in general, you have this thing where all you do is evaluate. That is not submission, that is not being led.
-- Ask yourself honestly — to ask yourself honestly is to self-examine.
-- Notice it is you-centric. Not trying to understand why we saw your disrespect as anything but disrespect. Does my husband experience me as a woman who believes in him, or as another person he has to continually prove himself to? Because the second part is the part you do not understand. Men are always having to prove themselves to someone — at work, in the street, in how they carry themselves to other men. It is a constant thing for us. It is not something we obsess over, it is built into us, which is what creates the masculine frame, and that is why other men who are well adjusted can respect it. But we are not trying to do that at home. We married you because we saw what the Bible says. We married you because we wanted that helpmeet and that submissive wife. And what we wind up getting is somebody else we have to prove ourselves to.
-- Another way of saying prove ourselves is measure up. We have to measure up out there, and then you come home and you have to measure up to your wife. That does not make any sense. I am trying to come home and be in a safe space and unwind and de-stress.
-- And a lot of you get married on the fly. You see all the red flags and go, it is all right, I will fix that while we are married. Home improvement. Same man, better version. Fixing today for a brighter tomorrow. Husband upgrades: better communication, more patience, spiritual growth, help around the house, be present, less distractions, more leadership. Same love, greater man. Look at her, she is trying to get into his dome, she is drilling, she has all the tools. And she is wearing pants.
+- Because you're not supposed to get divorced. So she's talking about it flippantly, but she's keying in on an important thing. We've lost values. They call it religious and cultural stigmas, but we've lost values.
+
+- I remember as a kid, when my father left, I was embarrassed to say that my father left. And that was like, what, the 80s. So even as recent as the 80s, I mean, young people, that seem like forever ago to you, but even as recent as the 80s, it was like an embarrassment to say. And then to have a stepfather was wild. I remember people would ask me about my father and I didn't want to say, I would change the subject. Even though my stepfather was all right. He weren't a bad guy. Worked, breadwinner, all that stuff. Had good work ethic.
+
+> And often women didn't even have the legal or financial means to divorce during this time in history.
+
+- Ah, so now you start to connect the dots. Again, we'll unpack this in full on a future Power Hour episode or something like that.
+
+> In addition, these types of marriages are not really even traditional. These types of traditional marriages only emerged at the start of the industrial revolution and mostly only in wealthier white European…
+
+- That's not true. You see how they want to take credit for everything. Even in her negativity towards this, she want to take credit for it, that it's wealthy white European and American families that came up with traditional marriage. No, that's not true.
+
+> …and American families. But putting these issues aside, are marriages with traditional gender roles more stable? And are they actually happier? First, the most recent research does not find any evidence that being a traditional wife protects you from divorce and even suggests that more egalitarian relationship,
+
+- When they say egalitarian, they mean 50/50.
+
+> may be more likely to stand the test of time. One study from Sweden found that couples in which housework was split equally were less likely to divorce or break up when compared to more traditional arrangements.
+
+- Look, if you're going to destroy your whole marriage over housework, y'all probably shouldn't have been together in the first place.
+
+> If you feel like you have heard the opposite, it could be because this trend has been changing. Research finds that couples married before 1975 were more likely to get divorced when the woman worked and completed fewer household tasks.
+
+- So the data actually shows that when she wasn't involved in the home like she should be, they actually were more likely to get divorced.
+
+> But these factors did not seem to matter for couples married after 1975. Although divorce is more common now than in the 1950s, divorce rates have been steadily declining from 2000. While the rate of women in the workforce has stayed stable with the exception of a dip in 2020 during the pandemic and relationships are becoming more egalitarian over time.
+
+- One thing I want to point out: the reason they're saying that divorce rates are declining is because people aren't getting married. You see how they'll throw a fact out, but they don't show you the other side of it. They're declining because there's less people married in general, because of how jacked up everything is, as far as the mindset that we have, that you could just live and let live, so to speak.
+
+> Most young men and women also now report that they want an egalitarian relationship.
+
+- Simps. Young men talking about, yeah, I want to wash the dishes and do all the things that a woman's supposed to do in the house too.
+
+> Although the trad wife movement may be getting a lot of attention, the ideals for marriage for most people are clearly shifting.
+
+- Now, let's get into the scriptures. You'll see how twisted that is. But remember certain pieces that I said from this article. This sets the foundation for the mindset, because women in here, you have elements of the contrary of this. You guys have not fully embraced the biblical standards. I will say it's because of programming, and there's a lot that's gone through your mind. I get it. But we know now. So it's not an excuse. That's the whole point of what we're going to go over, because most women really don't understand submission and the gravity of submission.
+
+</div>
 
 
 ## Scriptures Opened
@@ -116,7 +193,93 @@ Later in the class, the slides on what respect actually is:
 
 - The reason you are all right with it is kind of like our faith in our walk. It is easy to have faith when everything is good. But when things become challenging to you, where is your faith then? That is when your faith is magnified. Agreement does not require submission. You know if you have a submissive spirit precisely when you have a different opinion or view of what your husband wants to do and how he wants to lead. That is when you will know if you are really about submission or not. You will see whose authority you are really under.
 
-**[Genesis 3:16](/bible/genesis/3#v16)**  *[[48:14](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=2894s)]*
+<div class="reading">
+
+Reading from slides on a wife and her husband  *[[41:22](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=2482s)]*
+
+> Wives, your husband is not your improvement project.
+
+- Y'all understand that, sisters? It's not your job to fix your husband. It's not your job to teach your husband. It says he is not your improvement project. You focus on yourself. You know who deals with him? We just read that in 1 Corinthians 11. Christ deals with him, and Christ will get him right.
+
+> You are his wife, not his supervisor.
+
+- Say that one more time again. You are his wife, not his supervisor.
+
+> Some wives call it helping.
+
+- No, I'm just helping you out.
+
+> But every suggestion carries correction.
+
+- Do you stop and meditate on that for a second, sisters? Every correction that you make to your husband, every suggestion is really you trying to correct them. But you think because you say it with sweet words, you think because you rubbed his back or his shoulder, that you told him how great he was before you gave your differing opinion and view, that that's not correction. But it is.
+
+- Now later I'm going to expound on, remember I said y'all are not voiceless. I'm going to show you in the context when it's all right, and even give you a biblical example of how women did sometimes advise. But you have to be a woman that's built up very firmly in the scriptures before you open your mouth to say those type of things, because you don't know when to be in season or out. And a lot of y'all don't know how to have salt and grace in your tongue. So until you meet all of those, it's better that you do shut up.
+
+> Every question challenges his judgment.
+
+- Every question that you do, you wonder why you getting so mad. I'm just, I'm on your side, I'm just trying to help you. No, you're questioning me. You're challenging my judgment.
+
+> Every conversation tells him how he could have done better.
+
+- Let me tell you, women are the most critical of both genders. Women are the most critical. They criticize everything. You know how they criticize each other? They criticize each other with compliments. It's like a backhanded criticism disguised as a compliment. Oh, that's such nice earrings you have. You know, they would have looked good, cuz you know my ears are small and perfect. It's like, damn, did she just say my ears is big? That's how it be. That's how it is.
+
+> Eventually, he stops hearing concern.
+
+- You wear him down.
+
+> He hears constant dissatisfaction.
+
+- That's what he hears.
+
+> He feels as though nothing he does can simply be received without being evaluated.
+
+- And that's you. You wives, women in general, you have this thing where all you do is evaluate. That's not submission. That's not being led. Remember how the trad wife said she don't got to think of anything, except about what she got to do in the house? That's it.
+
+- And like I said, later I'm going to explain, maybe give some scenarios where it is all right to say your peace. Talking about life and death, sins in the mix, something like that, that you see that I might have missed, that's different. But every little course, because remember, you're my helpmeet, and that doesn't mean that you question everything. You're my helpmeet, but you got to be in submission. There's an order to it.
+
+> Being a helper does not mean constantly managing the man you were created to support.
+
+- You're not there to manage him.
+
+> Help strengthens.
+
+- A helpmeet strengthens her man.
+
+> Control supervises.
+
+- Y'all need to sit with that one there and find the difference between the two, what supervises and what strengthens.
+
+> Respect knows the difference.
+
+- And when you learn reverence for your husband, you'll know the difference. Until then, you're going to give the confused face you give when we tell you that you're being disrespectful, and you give the confused face that I'm not.
+
+> Ask yourself honestly.
+
+- To ask yourself honestly is to self-examine. To self-examine.
+
+> Does my husband experience me as a woman who believes in him or as another person he must continually prove himself to?
+
+- And let me tell you, that's the difference between a happy marriage and a marriage that's broiled in conflict and continually has issues and divisions coming up. Does my husband experience me? Notice it's you-centric. Not trying to understand why we saw your disrespect as anything but disrespect.
+
+- Because the second part of that is the part that y'all don't understand. Men are always having to prove themselves to someone, at work, in the street, how they carry themselves to other men. It's a constant thing for us. It's not something where we obsess over it. It's built into us, which is what kind of creates the masculine frame. And that's why other men who are well adjusted can respect that. So it's not like a paranoia that we have, but we're not trying to do that at home.
+
+- We married you because we saw what the Bible says. We married you because we wanted that helpmeet and that submissive wife. And what we wind up getting here is somebody else we got to prove ourselves to. We married you. Why do we got to continue to prove ourselves to you?
+
+</div>
+
+<div class="reading">
+
+Reading from a graphic of a wife at work on her husband  *[[48:32](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=2912s)]*
+
+> Home improvement. Same man, better version. Fixing today for a brighter tomorrow. Husband upgrades: better communication, more patience, spiritual growth, help around the house, be present, less distractions, more leadership. Same love, greater man. Building a better…
+
+- That's a good graphic. This is not what your job is, sisters. And a lot of y'all think that. A lot of y'all get married on the fly. You see all the red flags and go, it's all right, I'll fix that while we married. That's what y'all do.
+
+- Look. She trying to get into his dome. She drilling. Look, all the tools. And she wearing pants.
+
+</div>
+
+**[Genesis 3:16](/bible/genesis/3#v16)**  *[[49:01](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=2941s)]*
 
 > <sup>[16](/bible/genesis/3#v16)</sup> Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.
 
@@ -170,19 +333,44 @@ Later in the class, the slides on what respect actually is:
 
 - Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
 
-- Submission: an act or instance of submitting, or yielding control to a more powerful or authoritative entity. So it literally means that you yield control. Those examples I gave in the Instagram post show that you have yet to be in submission — when your submission has qualifications, when your submission requires him understanding what you are dealing with and what you are going through. I am not saying there is not a place for that, but it is his job to see when that place is, and not for you to make your submission conditional upon those things.
+<div class="reading">
 
-- Submission really goes into willingly placing yourself under the authority and the order. It is not inferiority. It is powerful, because it is magnified in the willing spirit that you have to do it. If you do it grudgingly then that is not submission either, and you will never find the peace that comes through it.
+Reading from a dictionary entry on submission  *[[58:32](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3512s)]*
 
-- Remember, he is trying to show us how we stay unified. How could we say that we want one nation in Christ with one people ruling the whole earth and everything in it, but you want division in your marriage, and you live your life in division in your marriage, and you do not practise that submission to your lord? Then you are not worthy of the kingdom, because you do not know how to serve.
+> Submission. An act or instance of submitting or yielding control to a more powerful or authoritative entity.
 
-- The second definition: the act or condition of submitting something for consideration, approval, treatment or action. So again, when it says desire unto him — you want your husband's approval, you want that acknowledgement, but it should be received because he sees it out of your action, out of your chaste conversation.
+- So it literally means that you yield control. So those examples I gave in the Instagram post shows that you have yet to be in submission, when your submission has qualifications, when your submission requires him understanding what you're dealing with and what you're going through. Now, I'm not saying there's not a place for that, but it's his job to see when that place is, and not for you to make your submission conditional upon those things.
 
-- Reverence: a feeling or attitude of deep respect tinged with awe, veneration. You have got to look at your husband with awe, the same way when you were proving and you could not wait to see him. Some of you, your husband comes home and you barely get up. You are lucky if you get a shalom, my lord. You get the head nod. Remember the scripture says you are supposed to rise for the hoary head, meaning the senior. You are supposed to get up. The dog is more excited to see the husband than the wife.
+- Submission really goes into willingly placing yourself under the authority and order. It's not inferiority. It's powerful because it's magnified in the willing spirit that you have to do it. If you do it grudgingly, then that's not submission either. And you'll never find the peace that comes through it if it's grudgingly. You have to see it for what it is.
 
-- Reverence is deep respect expressed in attitude. You attitude-having sisters — the words will sound how they sound, they will sing in how they speak to you, but their face is like a warface. Deep respect expressed in attitude, in your speech, and most importantly in your conduct. In Ephesians 5:33 the Greek word used goes into the sense of reverencing or respecting the husband in the relationship.
+- Remember, he's trying to show us how we stay unified. How could we say that we want one nation in Christ with one people ruling the whole earth and everything in it, but you want division in your marriage, and you live your life in division in your marriage, and you don't practice that submission to your Lord? Then you're not worthy of the kingdom, because you don't know how to serve.
 
-- The outward manifestation of this feeling. You have to show it. You cannot just be like, but I do. Oh, when you die one day I am going to be devastated. Show me.
+> Number two, the act or condition of submitting something for consideration, approval, treatment, or action.
+
+- So remember again, when it says desire unto him, you want your husband's approval. You want that acknowledgement, but it should be received because he sees it out of your action, out of your chaste conversation, which we'll read about in a little bit. Chaste conversation, when you look at the words that are being used there, is not exclusively your words. Chaste conversation goes into your actions in that context.
+
+</div>
+
+<div class="reading">
+
+Reading from a dictionary entry on reverence  *[[1:01:04](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3664s)]*
+
+> Reverence. A feeling or attitude of deep respect tinged with awe, veneration.
+
+- You got to look at your husband with awe. The same way when you were proving and you couldn't wait to see him. Some of y'all, your husband come home, you barely get up. You lucky if you get a 'sup. The dog is more excited to see the husband than the wife. You get this: Shalom, my lord. You get the head nod.
+
+- Remember the scripture say you're supposed to rise for the hoary head, meaning the senior. You supposed to get up. Wasn't there a verse in Genesis where she was sitting and he was like, why didn't she get up? She was hiding the stuff she stole. If y'all can find that, let's read that real quick. Show you reverence.
+
+- So reverence, as y'all look for that, is deep respect expressed in attitude. It's respect expressed in attitude. You attitude-having-looking-ass sisters. They'll sing in how they speak to you, but their face is like a warface. Deep respect expressed in attitude, in your speech, and most importantly in your conduct.
+
+- In Ephesians 5:33, the Greek word they use for that is called phobio. It means the sense of reverencing or respecting the husband in the relationship.
+
+> The outward manifestation of this feeling.
+
+- The outward manifestation of that feeling. You have to show it. You can't just be like, but I do. Oh, when you die one day, I'm going to be devastated. Show me.
+
+</div>
+
 
 **[Genesis 31:35](/bible/genesis/31#v35)**  *[[1:03:24](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3804s)]*
 
@@ -192,13 +380,54 @@ Later in the class, the slides on what respect actually is:
 
 - Now merely it was an evil that she did that, because she was sitting on idolatrous items. But the point was the rising itself. Husbands, if you get that greeting and it is sincere, then great. How often does your wife greet you when you come home, at the door? It does not happen. Kids will do it a lot more, and the pets will for sure — well, not cats. Even if they do come up to you they will not even touch you, they just walk up like, oh, you here now?
 
-**[Genesis 2:24](/bible/genesis/2#v24)**  *[[1:08:32](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=4112s)]*
+<div class="reading">
+
+Reading from a dictionary entry on agape  *[[1:06:28](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=3988s)]*
+
+> Agape, the love of God or Christ for humankind.
+>
+> Number two, the love of Christians for other persons corresponding to the love of God for humankind.
+
+- Now the other part I want you to think about in verse 33, Ephesians 5:33, he says, let every one of you in particular so love his wife. The word that they use is agape. Because it's not talking about romantic love. Sisters read that and they're like, oh, he needs to romantically love me, sit down and cuddle me, take me out on dates, all this other stuff. Not saying those things are wrong, but that's not the love that's being spoken about here. He's speaking about the love that Christ had, that God have for his people. It's a sacrificial love.
+
+- A man sacrifices a lot when he gets married and he has children. He's saying, I'm now going to put myself in a position where I put this family before others and my own well-being. And it's thankless. It's a thankless, enduring thing that we have to deal with, that's supposed to be made more pleasant. Its reward should be the biblical constructs of the marriage itself. But in modern times, we don't have that. So we're still expected to give that sacrificial love, but not get the benefits of why we gave it in the first place.
+
+- It all corresponds. That's why he says like Christ gave himself for the church. That's how you love your wife.
+
+> Unselfish love of one person for another without sexual implications.
+
+- It's not romantic love that he's talking about here, sisters. Or brothers, some of you, because the wife got you twisted up: see, you're supposed to caress me, buy me roses. No, that's not what it's talking about. And yes, that's part of the marriage. But that comes by nurturing. What you would call romantic love, affectionate love, comes by what your behavior is like.
+
+- I don't want to take you out nowhere if you nasty all the time. And if I do decide to do it when you're being nasty, I'm doing it because I really want to eat at the place that I'm going to, more than likely. Might have had prior commitment, can't cancel the reservation now, I got to pay anyway or something.
+
+> Love marked by a committed concern for another's good.
+
+- And that's why he uses Christ's example of self-sacrificing. That's the type of love that it's talking about. So marriage isn't just coexisting together till you drop dead or Christ return. There's a high standard for both the husband and the wife. It's a high standard. It's not a light thing.
+
+- The wife is called to submission and reverence, and the husband is commanded to love sacrificially. He's supposed to nourish and cherish his wife, same way that Christ gave his life.
+
+</div>
+
+<div class="reading">
+
+Reading from a dictionary entry on cleave  *[[1:08:59](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=4139s)]*
+
+> Cleave: to adhere closely; stick; cling, usually followed by to.
+>
+> To remain faithful, usually followed by to.
+
+- Now, the scripture talks about cleaving. Says he shall cleave to his wife.
+
+- So it means very closely joined, and that it remains firmly attached.
+
+</div>
+
+**[Genesis 2:24](/bible/genesis/2#v24)**  *[[1:09:22](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=4162s)]*
 
 > <sup>[24](/bible/genesis/2#v24)</sup> Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 
 - Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 
-- Cleave: to adhere closely, stick, cling, usually followed by to; to remain faithful. So it means very closely joined, and that it remains firmly attached.
 
 - So cleaving means marriage basically creates a new household. That is what it is to cleave. That is what we get on you about: you should not be living in mama's house or daddy's house if you are married. You should have your own roof. I am not talking about something catastrophic happening and you staying with somebody. But cleaving extends out to the branching off of a new household. That is why Bishop Nathanyel always talks about a strong marriage being the foundation for a strong nation — a strong marriage that is run by biblical principles, both sides playing it.
 
@@ -330,9 +559,23 @@ Later in the class, the slides on what respect actually is:
 
 - Even the ornament of a meek and quiet spirit. Meek means gentle, not aggressive, not all up in my face doing all this and that. Let your actions, your demeanour, your countenance reflect it truly when you deal with your husband.
 
-- Which is in the sight of God of great price. It goes into self-discipline. Self-discipline: discipline and training of oneself, usually for improvement. Oh yes, you are accountable to train your damn self. Because you do not teach me, this is why I act the way I do — that is the other one you hear. No, I teach you every day with my actions. You see my stoicism. You see my austerity. You see my nurturing and protection and providing in the home. When are you going to play your part?
+- Which is in the sight of God of great price. It goes into self-discipline.
 
-- Notice it is for improvement. What it boils down to is that you are able to govern your emotions, you govern your words, you govern your desires and your conduct. You build yourself up to be principled rather than impulsive. It is strength in order under God's word. That is the real strength. That is why it talks about the hidden man of the heart and that ornament.
+<div class="reading">
+
+Reading from a dictionary entry on self-discipline  *[[1:32:51](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=5571s)]*
+
+> Self-discipline: discipline and training of oneself,
+
+- Oh yes, you are accountable to train your damn self.
+
+- That's the other one you hear: you don't teach me, this is why I act the way I do. No, I teach you every day with my actions. You see my stoicism. You see my austerity. You see my nurturing and protection and providing in the home. When you going to play your part?
+
+> usually for improvement.
+
+- Notice it's for improvement. It's for improvement. Really, what it boils down to, what it's saying, is that you're able to govern your emotions. You govern your words. You govern your desires and your conduct. You build yourself up to be principled rather than impulsive. It's strength in order under God's word. That's the real strength. That's why it talks about the hidden man of the heart and that ornament.
+
+</div>
 
 **[1 Peter 3:5-6](/bible/1-peter/3#v5)**  *[[1:33:44](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=5624s)]*
 
@@ -352,7 +595,17 @@ Later in the class, the slides on what respect actually is:
 
 - So do not think that biblical submission is, I eventually did what he said, because a lot of you hang your head on that. Well, I did it, after so much trifling and arguing, division and hatred. Well, at the end of the day I do it. That is not submission, sisters. You can comply but still be contemptuous. You can comply and be sarcastic. I like sarcasm in the context of us having a funny moment; every other time it is like nails on a chalkboard. That is such a disrespectful manifestation of a serious topic. You can comply and still be hostile. You can comply and still be dismissive. And you can comply and still have a rebellious spirit.
 
-- While submission involves yielding, compliance or giving up power to someone else, sarcasm is a covert way of fighting back or asserting superiority without engaging in direct conflict. But I see the conflict, which is why it vexes me when I see the sarcasm in that situation. It is one of your covert mechanisms. It is like you have a power set and you say, okay, I am going to use sarcasm to show my rebellion, and maybe he is not going to get it.
+<div class="reading">
+
+Reading from a passage pulled up on submission and sarcasm  *[[1:38:28](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=5908s)]*
+
+> While submission involves yielding, compliance or giving up power to someone else, sarcasm is a covert way of fighting back or asserting superiority without engaging in a direct conflict.
+
+- But I see the conflict, which is why it vexes me when I see the sarcasm in that situation. It's one of your covert mechanisms. It's like you have like a power set and you're like, okay, I'm going to use this one. I'm going to use sarcasm to show my rebellion, and maybe he ain't going to get it.
+
+- But let's talk about submission is really obedience, and what type of spirits accompany the obedience, because I said spirits move together. So we know that you got to be meek and quiet. You know that you got to understand that you got to adapt to the husband.
+
+</div>
 
 **[Sirach 26:13-16](/bible/sirach/26#v13)**  *[[1:39:08](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=5948s)]*
 
@@ -372,9 +625,53 @@ Later in the class, the slides on what respect actually is:
 
 - As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house. Because that is her domain.
 
-- Grace: favour or goodwill, benevolence, benignity, love, kindliness, kindness; a manifestation of favour, especially by a superior. So grace is not mercy or pardon, it goes into graciousness. Gracious: pleasantly kind, benevolent, and courteous. It is something that brings delight rather than heaviness. So when it says the grace of a wife, it is the pleasingness that a woman can have on her husband.
+<div class="reading">
 
-- And a lot of you think it is just by looks and appearance. That goes back to Peter saying, do not just let it be the outward adorning. If you really want to get into the heart of your man and show him that you love him, you have that meek and quiet spirit, and then these actions. You will be so surprised at how that changes how you experience your husband in marriage. It is just that you are unyielding and unwilling, and you do not fear the Lord enough, and you do not have enough faith in him. He is literally telling you that this is how you handle situations whether your husband is in order or out of it.
+Reading from a slide on how a husband experiences respect  *[[1:40:56](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=6056s)]*
+
+> A wife usually thinks respect is about speaking kindly.
+
+- Nope.
+
+> A husband experiences respect much differently. He experiences it when you trust his leadership even when you would have chosen another path.
+
+- That's respect. That's submission. Submission doesn't require you to agree with every decision your husband makes. He experiences that respect and that submission even when he chooses another path.
+
+> He experiences it when you do not question every decision until he feels like he is standing before a jury instead of beside his wife.
+
+- If y'all didn't realize it, that's what y'all do. That's how we feel. You question every decision until we feel like we're standing before a jury.
+
+> He experiences it when your words build his confidence instead of quietly dismantling…
+
+- Remember Proverbs 14, a wise woman buildeth her house. It's not just talking about putting pictures on the wall, picking the color and the throw rug and the furniture and all of that. It says you strengthen your husband. Your words build him because they build confidence in him. That's very different than trying to change him as a self-improvement project.
+
+> He experiences it when he knows you are for him, not against him.
+
+- That's that difference that we spoke about, where the whole world's against us when we out there. When we come home, we ain't trying to deal with none of that.
+
+</div>
+
+<div class="reading">
+
+Reading from a dictionary entry on grace and gracious  *[[1:43:03](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=6183s)]*
+
+> Grace: favor or good will.
+>
+> Benevolence, benignity, love, kindliness, kindness.
+>
+> Number four, a manifestation of favor, especially by a superior.
+
+- So grace is not mercy or pardon. It goes into graciousness. It's something that brings delight rather than heaviness. So when it says the grace of a wife, it's the pleasingness that a woman can have on her husband.
+
+- And a lot of y'all think it's just by looks and appearance. That goes back to Peter saying, don't just let it be the outward adorning. If you really want to get into the heart of your man and you want to show him that you love him, you have that meek and quiet spirit, and then these actions that we read here. Cuz remember it said, the grace of a wife delighteth her husband.
+
+> Gracious: pleasantly kind, benevolent, and courteous.
+
+- That's the grace of a wife. So it says the grace of a wife delighteth her husband, and her discretion will fatten his bones. She builds him up. Why? Because she don't act out. She stays in that meek and quiet spirit. Her chaste conversation coupled with her fear of the Lord presents all these things. And you'll be so surprised at how that changes your experience of how you experience your husband in marriage.
+
+- It's just that y'all are unyielding and unwilling, and you don't fear the Lord enough, and you don't have enough faith in him. He's literally telling you that this is how you handle situations, whether your husband is in order or out of it. Like we said in obey not the word, yet y'all will not apply this. That's why I get to a point sometimes there's no more scriptures for me to give you. Y'all go figure that thing out.
+
+</div>
 
 - You cannot be a silent loving woman if your mind is not well instructed. That is you that has to learn. That is you that has to study those things, especially the way this world is set up. You have to seek out the book and meditate on the things you need to improve in. That is why we had to rein in some of the Titus subjects some years back, because you were out here teaching all this women's empowerment stuff veiled as scriptures. And we said no — Titus 2 says teach them how to love their husbands, love their children, guide the house. You were more focused on your best friend, sisterhood, than you were about the foundational things that actually make you a strong believing woman in the scriptures.
 
@@ -408,9 +705,27 @@ Later in the class, the slides on what respect actually is:
 
 - But she that dishonoureth him in her pride shall be counted ungodly of all. And you know that nothing ungodly is going to enter into the gates of the kingdom of heaven. Notice it calls the lack of submission pride. It calls the lack of application of those things pride.
 
-- The godly wife: she shows grace, she has discretion, she is silent and loving, she is well instructed, she is shamefaced, she is faithful, she honours her husband, and she orders her house. And the contrary spirit: pride, dishonour, shamelessness, loudness, scolding, contention, undisciplined speech. Some sisters think they get by because they do not do all the other ones, but then they have undisciplined speech.
+<div class="reading">
 
-- So what should you be asking yourself? Which woman am I becoming when conflict enters my marriage? Notice it is not taken out on your husband, nor is it a qualifier for your behaviour to your husband. You meditate on these scriptures, you meditate on these chapters, and then you deal with it.
+Reading from a graphic on the godly wife versus a contrary spirit  *[[1:53:18](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=6798s)]*
+
+> The godly wife: she shows grace. She has discretion. She's silent and loving. She's well instructed. She's shamefaced. She's faithful. She honors her husband and she orders her house.
+
+- Because you got all the other things, and then she got the house in disorganization and disarray. That's part of it too, sisters. Some of y'all got a lazy spirit. You don't want to order the house. It's always a mess.
+
+</div>
+
+<div class="reading">
+
+Reading from the same graphic, on the contrary spirit · read by Tobias  *[[1:53:51](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=6831s)]*
+
+> The contrary spirit: pride, dishonor, shamelessness, loudness, scolding, contention, undisciplined speech.
+
+- Because some sisters think they get by because they don't do all the other ones, but then they have undisciplined speech.
+
+- So, what should you be asking yourself? Which woman am I becoming when conflict enters my marriage? And you got some verses there that you can refer to, some chapters that you can look at, so you can meditate on the things that you're doing wrong and right. So your journey and understanding and your self-examination, notice it's not taken out on your husband, nor is it a qualifier for your behavior to your husband. You meditate on these scriptures. You meditate on these chapters, and then you deal with it.
+
+</div>
 
 **[Proverbs 21:9](/bible/proverbs/21#v9)**  *[[1:54:15](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=6855s)]*
 
@@ -434,9 +749,17 @@ Later in the class, the slides on what respect actually is:
 
 - A continual dropping in a very rainy day and a contentious woman are alike. Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.
 
-- Contentious: tending to argument or strife; quarrelsome, argumentative, disputatious; causing, involving or characterised by argument or controversy.
+- So what is really being said here is that contention from a wife, from a woman, is not always manifested as one big explosion. Let's read the definition, and then I'm going to paint a visual for you.
 
-- So what is really being said here is that contention from a wife is not always manifested as one big explosion. Think about it. Drip. Criticism, drip. Correction, drip. Complaint, drip. Sarcasm, drip. Another comment, drip. Another reminder, drip. Another explanation, drip. Then your husband blows up, and you are out here wondering and saying that came out of nowhere. No. It came from all your contentious drips. But why are you acting like that? Drip, drip, drip, drip. I cannot take it any more. And then they try to paint you as the bad guy.
+<div class="reading">
+
+Reading from a dictionary entry on contentious  *[[1:57:02](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7022s)]*
+
+> Contentious. Tending to argument or strife; quarrelsome, argumentative, disputatious; causing, involving or characterized by argument or controversy.
+
+- Now, it says in 27:15, a continual dropping in a rainy day is the same thing like a contentious woman. So think about it. Drip, drip, drip. Criticism, drip. Correction, drip. Complaint, drip. Sarcasm, drip. Another comment, drip. Another reminder, drip. Another explanation, drip. Then your husband blows up, and you out here wondering and saying that that came out of nowhere. No. It came from all your contentious drips. But why are you acting like that? Drip, drip, drip, drip, drip, drip, drip. I can't take it no more. And then they try to paint you as the bad guy.
+
+</div>
 
 **[Proverbs 30:21-23](/bible/proverbs/30#v21)**  *[[1:58:04](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7084s)]*
 
@@ -446,15 +769,23 @@ Later in the class, the slides on what respect actually is:
 >
 > <sup>[23](/bible/proverbs/30#v23)</sup> For an odious woman when she is married; and an handmaid that is heir to her mistress.
 
-- For three things the earth is disquieted, and for four which it cannot bear. So when the earth is disquieted — think about it, the house is hostile, there is no peace. What kind of environment does that make the house, brothers? Toxic. It is a hostile environment.
+<div class="reading">
 
-- For a servant when he reigneth. So a servant when he reigns. Who is reigning the earth today? Servants. That is why the scriptures say the earth is turned upside down. The rightful owners of the earth are not ruling. And is there peace in the earth? Absolutely not.
+Reading from a dictionary entry on odious  *[[2:00:18](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7218s)]*
 
-- And a fool when he is filled with meat.
+> Odious. Deserving or causing hatred.
+>
+> Hateful.
+>
+> Detestable.
+>
+> Execrable. Despicable. Objectionable. Abominable.
+>
+> Lovable.
+>
+> Attractive.
 
-- For an odious woman when she is married. Odious: deserving or causing hatred, hateful, detestable. But she is probably married because she looked good, and she has all these qualities about her. Look at some of the synonyms: execrable, despicable, objectionable, abominable. And if those are too hard to understand, look at the antonyms, the opposite: lovable, attractive. So she is not lovable, and that is not the physical attraction. That goes back to Peter's — that is the inner woman.
-
-- So that odious woman when she is married, she is going to disquiet the earth even. That is the housetop it is better to be on, than with that contentious woman.
+</div>
 
 **[Proverbs 31:10-25](/bible/proverbs/31#v10)**  *[[2:01:28](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=7288s)]*
 
@@ -550,27 +881,40 @@ Later in the class, the slides on what respect actually is:
 
 - Husbands, love your wives, even as Christ also loved the church, and gave himself for it; that he might sanctify and cleanse it with the washing of water by the word. So the husband has accountability. He has to make sure that he dwells with her according to knowledge, that he gives honour to her as the weaker vessel.
 
-- The word used for love in Ephesians 5:33 is agape. It is not talking about romantic love. Sisters read that and think, oh, he needs to romantically love me, sit down and cuddle me, take me out on dates. Not saying those things are wrong, but that is not the love being spoken about here. He is speaking about the love that Christ had, that God has for his people. It is a sacrificial love.
-
-- Agape: the love of God or Christ for humankind; the love of Christians for other persons corresponding to the love of God for humankind; unselfish love of one person for another without sexual implications. It is love marked by a committed concern for another's good. That is why he uses Christ's example of self-sacrificing.
-
-- A man sacrifices a lot when he gets married and has children. He is saying, I am now going to put myself in a position where I put this family before others and my own well-being. And it is thankless. It is a thankless, enduring thing that is supposed to be made more pleasant, and its reward should be the biblical constructs of the marriage itself. But in modern times we do not have that, so we are still expected to give that sacrificial love but not get the benefits of why we gave it in the first place.
-
-- That comes by nurturing. What you would call romantic love, affectionate love, comes by what your behaviour is like. I do not want to take you out anywhere if you are nasty all the time. And if I do decide to do it when you are being nasty, I am doing it because I really want to eat at the place I am going to, more than likely, or I had a prior commitment and cannot cancel the reservation.
-
-- So marriage is not just coexisting together till you drop dead or Christ returns. There is a high standard for both the husband and the wife. The wife is called to submission and reverence, and the husband is commanded to love sacrificially. He is supposed to nourish and cherish his wife the same way that Christ gave his life.
 
 - So the wife should be asking herself: did I submit, did I reverence, did I govern my spirit, did I speak with wisdom? The husband should say: did I love with the sacrificial love, did I understand, did I honour, did I nourish, did I cherish, and did I lead the way I was supposed to? Neither the husband nor the wife can get that answer by pointing at the spouse. You cannot say, Lord, it is the wife you gave me. And the wife cannot blame the husband.
 
-- Here are the husband's responsibilities and the wife's responsibilities. You see how many more the husband has. The wives out here try so hard to be a wife — should have thought about that before you became a wife.
+<div class="reading">
 
-- The husband's responsibility, a love that gives, protects and leads. Sacrifice: be willing to lay down self for her. Nourish: provide for her spiritual, emotional and physical well-being. Cherish: value her, treat her with care and tenderness. A woman thinks cherish means I have got to put her up on a pedestal. No. It says I see the value in you and I treat you with care, and I am not trying to treat you like one of the brothers. That is where the tenderness comes in. It does not mean I have to talk to you softly every time. Lead: lead in righteousness, setting the spiritual direction for the home — the man sets the spiritual direction for the home, not the woman. Protect: be her covering and defend it. Teach by the word: guide her with the scriptures. Love her as his own body: treat her as himself, seeking her good. Dwell with her according to knowledge: understand her, be considerate, live with insight. Give her honour: show respect and esteem.
+Reading from a graphic summary of the husband's and the wife's responsibilities · read by Tobias  *[[2:14:31](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=8071s)]*
 
-- The wife's responsibility, a submission that builds, not destroys. Submit: be in subjection to your own husband. Reverence: respect and honour him. Govern your spirit: maintain a meek and quiet spirit. Speak with wisdom: use a tongue of kindness. Build the home: be a keeper at home, ordering her house well. The grace of a wife delighteth her husband, and her discretion will fatten his bones.
+> Husbands, love your wives. Husbands, love your wives even as Christ also loved the church and gave himself for it. Ephesians 5:25.
+>
+> The husband's responsibility, a love that gives, protects, and leads. Sacrifice. Be willing to lay down self for her. Nourish. Provide for her spiritual, emotional, and physical well-being. Cherish. Value her. Treat her with care and tenderness.
 
-- So the real lesson here is that submission is revealed under pressure, sisters. It is easy to be quiet when nothing bothers you. It is easy to reverence a husband when you agree with him. It is easy to demonstrate kindness when you feel appreciated. It is easy to follow when he is making the decisions that you wanted. The scriptures that talk about meekness, submission, reverence, discretion and self-government become meaningful when you are disappointed, when you are offended, when you are stressed, when you are hurt, or when you disagree. That is when you need them even more, and that is when they will actually make sense. Right now you are like, yeah, yeah, yeah. Go back to them when you are feeling any of those other ways and let us see if you are really in the spirit.
+- Here are the husband's responsibilities and the wife's responsibilities. You see how many more the husband got? See how much more demanding the husband's are? The wives out here try so hard to be a wife. Should have thought about that before you became a wife.
 
-- And as a man, brothers, that headship becomes meaningful when the wife is difficult to understand — when she is emotional, disagreeable, or when she disappoints you. You have got some brothers ready to just throw the wife away. That is when you are going to see who is in charge. She is going to find out if she is in subjection to you, or you are going to find out if you are in subjection to Christ.
+- See, a woman thinks cherish means I got to put her up on a pedestal. No. It says, I see the value in you and I treat you with care, and I'm not trying to treat you like one of the brothers. That's where the tenderness comes in. It don't mean I'm be like, let me talk to you softly every time.
+
+> Lead. Lead in righteousness, setting the spiritual direction for the home.
+
+- You see that the husband, the man, sets the spiritual direction for the home, not the woman.
+
+> Protect, be her covering, and defend it.
+
+- We don't have time for all these verses, but it references verses here as well.
+
+> Teach by the word, guide her with the scriptures. Love her as his own body. Treat her as himself, seeking her good. Dwell with her according to knowledge. Understand her. Be considerate and live with insight. Give her honor. Show respect and esteem.
+>
+> The wife's responsibility, a submission that builds, not destroys. Submit. Be in subjection to your own husband. Reverence, respect, and honor him. Govern your spirit. Maintain a meek and quiet spirit. Speak with wisdom. Use a tongue of kindness. Build the home. Be a keeper at home, ordering her house well. The grace of a wife delighteth her husband, and her discretion will fatten his bones.
+
+- And her discretion will fatten his bones. So the real lesson here is that submission is revealed under pressure, sisters. It's easy to be quiet when nothing bothers you. It's easy to reverence a husband when you agree with him. It's easy to demonstrate kindness when you feel appreciated. It's easy to follow when he's making the decisions that you wanted.
+
+- The scriptures that talk about meekness, submission, reverence, discretion, and self-government become meaningful when you're disappointed, when you're offended, when you're stressed, when you're hurt, or when you disagree. That's when you need them even more. And that's when they'll actually make sense. Right now, you're like, yeah, yeah, yeah. Go back to them when you feeling any of those other ways and let's see if you really in the spirit. Examine yourself if you're really in the faith.
+
+- And as a man, brothers, that headship becomes meaningful when the wife is difficult to understand. You got some brothers ready to just throw the wife away. When she's difficult to understand, when she's emotional, disagreeable, or when she disappoints you, that's when you going to see who's in charge. She going to find out if she in subjection to you, or you going to find out if you in subjection to Christ.
+
+</div>
 
 **[Ephesians 6:10-12](/bible/ephesians/6#v10)**  *[[2:17:21](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=8241s)]*
 
@@ -634,13 +978,37 @@ Later in the class, the slides on what respect actually is:
 
 - Remember, we started all the way in the beginning: examine yourself whether you be in the faith. It says Christ is in there, unless you are reprobate, meaning void of God and understanding. You talk about living by the word of God, but you do not.
 
-**[Ephesians 6:18](/bible/ephesians/6#v18)**  *[[2:33:37](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=9217s)]*
+**[Ephesians 6:18](/bible/ephesians/6#v18)**  *[[2:29:37](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=8977s)]*
 
 > <sup>[18](/bible/ephesians/6#v18)</sup> Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
 - Praying always with all prayer and supplication in the Spirit. Being mindful of all this, we must always pray. Pray for unity. Pray to be able to see the things that are wrong in you. It is like in that psalm with David when he says, show me any wicked way in me.
 
 - And watching thereunto with all perseverance and supplication for all saints. For all of us. We need to look for that unity and that bond. The family should not be fighting each other while the enemy is shooting at us.
+
+<div class="reading">
+
+Reading from a headline and a text exchange on the Lindsay Clancy case  *[[2:32:11](https://www.youtube.com/watch?v=BcG8X9aUt8s&t=9131s)]*
+
+> Man cancels his wedding two weeks out after fiance says she supports Lindsay Clancy.
+
+- People are talking about that Lindsay Clancy thing now. And they're saying, if they retry her and they find her innocent, lawyers are advising men in their prenups to put language in there that deals with that. And they said, if you're in a battle, like for custody, and she's publicly made a statement in support of Lindsay Clancy, you could take that to the court and say the children are in danger by being with this woman, because they saying that when she's stressed and when she's bugged out, that she's justified in killing the kids. So the welfare of the children, you can deal with that.
+
+- I've been seeing stuff. I was going to bring it on the show, but the people been posting text exchanges saying, yeah, I'm done. They were engaged, weddings planned. They're like, why? It's just opinion. He was saying something to the effect of like, what this shows me is that this is what the potential future could look like. And the minute something gets heavy and burdensome for you, you're telling me that the kids can just be cast off. Like you're going to justify your evil by saying you're overwhelmed and stressed.
+
+- That's what I'm saying. This world, we not each other's enemies. This world is jacked up, and we need to use the word of God and have the whole armor of God in front of us to keep our unity. But when it says that this place is polluted, and that it'll destroy you with a sword of destruction, that thing is real. It's real.
+
+> So, you're really breaking up with me over a opinion.
+>
+> I'm not breaking up with you over an opinion. I'm breaking up with you because that opinion showed me a fundamental difference in our values.
+
+- And that's heavy, man. I tell you, the values matter more than if you like the same steak or the same chips or the same music.
+
+> I can have compassion for someone struggling mentally without excusing what happened to those children. If I'm choosing someone to potentially be the mother of my kids, I need to trust their judgment completely, especially when it comes to protecting them. What you said created a doubt in me that I can't ignore or gamble my future children.
+
+- Good for him. Good for him.
+
+</div>
 
 ## In Closing
 
