@@ -23,9 +23,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - *[[20:36](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1236s)]* **The Edomite woman explaining why white people hate black people** — Let her tell it, because when we tell it we are called racist. She says the cruelty of slavery comes down through their DNA: that is the perpetual hatred, and Esau cannot change. Can a leopard change his spots? No. Nolan Wells's family should be praying for destruction of their enemies every night: send a hurricane and have the meteorologist call it Hurricane Nolan. Destroy Ocean Springs. Wipe that place out. Destroy their posterity. Cut off their children. That is what they should be praying for.
 - *[[27:17](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1637s)]* **A black man from the 1960s demanding that America keep its word on freedom and justice** — They are not going to give us anything. When one people oppresses another, that is war, as at Tulsa, Oklahoma, the first time the US government ever dropped bombs on people. That is that perpetual hatred; they will always hate us no matter what you do. Nolan Wells had to learn the hard way: how can you be comfortable the only Jake on a boat full of red pasty milky Edomite devils?
-- *[[32:06](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1926s)]* **A reading on the black Jews who fled into the interior of Africa after 70 AD (the Timbuktu snapshot, about page 86 as he had it)** — We carried our culture, history, laws and written record with us, which gave us a higher social organization: kings, judges, architects, doctors, craftsmen. That is nation building, and it comes from the Bible.
-- *[[37:24](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=2244s)]* **A memorandum to Nixon describing the Igbos as the wandering Jews of West Africa** — The white man knows who we are: gifted, aggressive, westernized, at best envied and resented, and mostly despised by their neighbors. All nations hate us, the Hamites too, not only Esau.
-- *[[50:26](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3026s)]* **The Jim Crow Museum and the Wikipedia list of anti-black slurs** — The restaurants, kitchen products, lawn jockeys, cartoons and slurs show that we became an astonishment, a proverb and a byword among all nations, just as Deuteronomy 28:37 says. Show the children: these are not things only of yesterday.
 - *[[1:05:09](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3909s)]* **A former mercenary describing a planned 1981-82 coup in Haiti backed by the Vatican, the CIA and Mobil Oil, including buying a nuclear device** — The Most High is allowing them to tell on themselves: the plot was to steal resources, the fruit of thy land eaten up by a nation thou knowest not.
 - *[[1:21:39](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=4899s)]* **Maxine Waters asking the Secretary of State why the administration is cutting off oil to Cuba and starving the children** — She speaks as if they just changed now. Esau does not take us seriously, and they can cut off a whole island by the snap of a finger: dominion over our bodies.
 
@@ -163,6 +160,26 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 - Here is the sequence of events: election, law, disobedience, punishment, which is captivity. The Most High is using those who hate us to rule over us.
 
 
+<div class="reading">
+
+Reading from an article on Timbuktu, "the snapshot", page 86 as he gave it  *[[32:42](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1962s)]*
+
+> The black Jews had an advantage over the African tribes. They carried their culture, history, laws, and written record with them. This assured them a constant precedent for the development of a higher social organization.
+
+- So this is what happened during the time of 70 AD, when the white man, the so-called Romans, led by Titus and Vespasian, besieged Jerusalem in 70 AD. And we ran deeper south into the interiors of Africa, which we were already there. Most of the tribes were there already in the interiors.
+
+- So we had a higher, that word culture, history and laws goes into what? The Bible. This is what allowed us to be higher, right? Deuteronomy 7:6, above all people, right? It allowed us to be a more constant precedent for the development of a higher social organization.
+
+> Because of the stability of the black Jewish culture, the Jews were not absorbed into the population. In fact, the Jews absorbed some of the native tribes.
+
+- That's when we started to intermingle. We started to take them into our tribes.
+
+> The Jews made use of every opportunity. They were an industrious and skillful people. In the Jewish Ghanaian states were found kings, princes, governors, generals, secretaries, treasurers, revenue agents, judges, architects, engineers, doctors, historians, language interpreters, mathematicians, jewelers, sculptors, masons, carpenters, painters of art, goldsmiths, leather workers, potters, armorers, saddlers, blacksmiths, agriculturalists.
+
+- So what is this? A community, a commonwealth. This is nation building right here. All these different areas of expertise is what governs, is what makes a nation. And it said that when we maintain these things, we had a higher social organization. Well, let's see if the so-called white man knew exactly what was going on while we was on the continent.
+
+</div>
+
 **[John 15:18-19](/bible/john/15#v18)**  *[[35:55](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=2155s)]*
 
 > <sup>[18](/bible/john/15#v18)</sup> If the world hate you, ye know that it hated me before it hated you.
@@ -181,6 +198,38 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
     Ye shall be hated of all nations for Christ's name's sake: they know Christ is in us and that Christ is black, so if they hate Christ they hate us, and our people are coming up missing and hung from trees because we are a hated people.
 
+
+<div class="reading">
+
+Reading from the memorandum to Nixon on the Igbos, which he gave as Henry Kissinger's letter  *[[38:49](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=2329s)]*
+
+> The Ibos are the wandering Jews of West Africa:
+
+- Because we read earlier that our history, our culture, allowed us to have a higher social organization. What do you think that breeds? Because I know we talking about Esau hating us, but this is talking about all nations hate us, 'cause they know we above.
+
+- So the white man knows that the Ibos are the wandering Jews of West Africa.
+
+> gifted,
+
+> aggressive,
+
+- Aggressive. No namby-pamby, foul, yellow, make-me-sad, soft, homosexual, trisexual, bisexual spirit.
+
+> Westernized,
+
+- We're westernized. Because what? We've been colonized. Now we got the white man. The white man's brain is in our skull.
+
+> at best envied
+
+- Why are we envied? Because Romans 9:3 and 4 tells you why we're envied. 'Cause God's laws was only given to the Israelites.
+
+> and resented,
+
+- And they hate us. Now, this is talking about the neighbors in Africa. This is talking about the Nilotic tribes, the pure-blooded Nyos. The Hamites hated us. They hate us as well. Not just Esau.
+
+> but mostly despised by their neighbors in the Federation.
+
+</div>
 
 **[Hosea 5:15](/bible/hosea/5#v15)**  *[[41:42](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=2502s)]*
 
@@ -231,11 +280,87 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 > <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
 
-- Esau's perpetual hatred is unreal; he is obsessed with us. He put our caricature on everything in the grocery store, so that his people knew we were a mockery.
+<div class="reading">
+
+Reading from the Jim Crow Museum  *[[51:45](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3105s)]*
+
+> Chicken Inn. Chicken Inn was a small restaurant chain in the American West from the late 1920s through the 1950s.
+
+- If y'all ever get a chance, y'all could visit this. I think this is in Michigan somewhere. A Jim Crow museum. Y'all should do an outing with the body and travel to these places. Show the children these are not things only of yesterday. They are today, and it will be things of the future. Just like America says never forget, we say never forget.
+
+- You know, no black people was accepted in that. Some of y'all never heard of the Chicken Inn. That's crazy.
+
+> The restaurants were known for their entrances, which featured the head of a winking, grinning, grotesquely caricatured black man wearing a porter's cap. The words Chicken Inn were written on the teeth, framed by oversized red lips. Visitors entered through a doorway in the middle of the black man's mouth.
+
+- See, Esau is just upset. I'm telling you, the perpetual hatred is unreal. He's obsessed with us.
+
+> The menu included southern fried chicken sandwiches and chicken pie, as well as hamburgers, seafood, chili, and assorted sandwiches. Black people, especially ones with very dark skin, were employed as waiters, waitresses and cooks, to add injury to insult.
+
+- Wow. They employed black waiters with big red lips to be the damn waitresses and waiters. Unbelievable.
+
+> Racism in the kitchen.
+
+- Look at that. Let everybody online, I hope your kids are seeing this too. Don't try to tell your kids to go to the bedroom. They need to see this.
+
+- Longwood plantation syrup from Baton Rouge, Louisiana. Look at the brother in the background. Black, like, tall, with big red lips. This is how they used to make fun of us.
+
+> During the Jim Crow period, a typical American kitchen had many products with images that portrayed black people in negative ways. These included packaging for cereal, syrup, pancake mix, and detergent, salt and pepper shakers, string holders, cookbooks, hand towels,
+
+- So they made sure that Edomite constituents knew that we were a mockery. They put it on every single thing. You could probably see in a grocery store, had our picture on it. It was making fun of us. We were what? Proverbs and byword.
+
+> place mats, grocery list reminders, and wall hangings. Any object found in a kitchen could be, and often was, transformed into anti-black propaganda.
+
+> Racism on the lawn.
+
+- Show the picture. I want the picture so the audience could see. We need visual aid, not just words. Let that thing sink into your mind. Let your eyes process what the hell you seeing.
+
+> The lawn jockey is a decorative yard ornament that caricatures black people and promotes the idea of their servitude. Typically a cast replica about half scale, it depicts a black man dressed in jockey's clothing, carrying a lantern or a metal ring suitable for hitching a horse. The black lawn jockeys often have exaggerated features such as bulging eyes, large red lips, a flat nose, and curly hair. The flesh of the figure is usually a glossy black color. Traditionally, two styles of lawn jockey have been produced: the stocky, hunched Jocko, and the thinner Cavalier Spirit. Both styles were still manufactured in 2012. Many Americans, especially African-Americans, feel that lawn jockeys are racially offensive. It is common for homeowners to repaint the figure's skin with pink or white paint to avoid charges of being racially insensitive.
+
+- Look at that in the middle. Martini that had a racial background, racial origin. For you sisters that love the little martini drinks when y'all go out, I hope y'all not ordering martinis.
+
+> Caricaturing black people. In the United States, all racial groups have been caricatured, but none as often or in as many ways.
+
+- For the sake of time, we're not going to read everything. Just show the pictures.
+
+- Then on the right side, you got the mammies. We know about that.
+
+- Of course, you had the cartoons that many of these senior citizens were around for. A lot of them grew up on that. Doll collection, games, and toys. They made sure they embedded in the minds of these people the racism and the hatred. That's why the first video I showed with the Edomite, she said that thing is in their DNA. It's passed down. They cannot get rid of it.
+
+- But the reason this is happening is because of why? Why, brothers? We broke God's laws.
+
+- Aunt Jemima, and Jemima's in the Bible. That's a mockery at God. The Most High is going to rip their tongue out of their mouth for that. The Most High is going to kill all of them for that. 'Cause remember, Jemima was whose daughter? Job's daughter. So that's mockery. They're making fun. It's called truthful mock when Esau does that.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia's list of anti-black slurs  *[[58:28](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3508s)]*
+
+> Aunt Jemima.
+
+- Look at the A. And there's more to it. They just put a few.
+
+> Abid,
+
+- That's what the Arabs call us, which means slaves.
+
+> acting white, a franchi,
+
+- I never heard of that.
+
+> alligator bait, bomba, blackbuck, bushman, choice, colored, … song, Cushi,
+
+- Many of our forefathers was called Cushi, which just means black, but we don't come from Kush, because Kush is a Hamite.
+
+> diversity, equity, inclusion.
+
+- All of these are little words, code words that they say amongst themselves. Monday is a byword.
+
+- So the Most High meant what he said, that we shall become proverbs and byword amongst all nations.
+
+</div>
 
 - An astonishment means people look at your condition in disbelief; a proverb means slick sayings, your suffering becomes an example; a byword is being called outside your God-given name.
-
-- The reason this happened is because we broke God's laws.
 
   Precepts:
   - **[Jeremiah 18:16](/bible/jeremiah/18#v16)**
@@ -600,7 +725,37 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
 
 - That fox was Herod, and Herod was an Edomite.
 
-- The fox in its negative sense is a weakling, a usurper, a poser, a nobody, a pompous pretender. Put pretender in the place of fox.
+<div class="reading">
+
+Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=7018s)]*
+
+> Consider the following list of possibilities for fox in its negative sense: weakling, small fry, usurper,
+
+- Usurper. What was Christ calling this? Edomite.
+
+> poser,
+
+- Poser. Posing as what? Go to Revelation. Y'all forgot what Christ said.
+
+- Poser, usurper, not the people of God.
+
+> clown, insignificant person,
+
+- Insignificant person, as a dust of a balance, or the water that falls from a vessel.
+
+> cream puff, nobody,
+
+- You're a nobody. You're not a somebody. You're not a Yehudi. You're a Edomite.
+
+> weasel, jackass, tin soldier, peon, hick, pompous pretender,
+
+- Pompous pretender. He's a prideful pretender. That's why in the book of Isaiah says, what? Your pomp shall be brought down to the ground.
+
+> jerk, upstart.
+
+- That's all I want. Go back to Luke again, and replace the word fox here for pretender.
+
+</div>
 
 - Christ, the epitome of what a black revolutionary should be, did not tuck his tail and run. Herod was like the president of that time. That is the spirit of power we have to walk with.
 
