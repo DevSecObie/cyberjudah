@@ -78,12 +78,102 @@ Tonight's topic is the end of PAX Americana. Some of you all might be hearing th
 - For the Spirit searcheth all things, yea, the deep things of God: those deep things, those parables, those dark sentences, the spirit searches out and shows to us.
 - The things of God knoweth no man, but the Spirit of God: the Spirit of God understands the things of God and reveals them to us; God's plan for the future, what is going to happen on this earth. The prophets wrote what is going to happen in these last days, and the things you see taking place on this earth, the prophets wrote about. Only the sons of God, the Israelites, can understand these visions, because we have the Spirit of God dwelling in us.
 
-Definitions and article read in class:
+<div class="reading">
 
-- The noun phrase Pax Americana was first coined in the 1890s, with the earliest recorded evidence in an 1894 magazine issue, originally describing pan-American peace and the Monroe Doctrine.
-- Pax Americana, Latin for American peace, is a term for the period of global relative peace and stability backed by the economic, military, and cultural power of the United States after World War II. Pax is Latin, meaning it is a Roman language; remember America is Rome. American peace was set up in 1945 by economics, military power, and democracy.
-- Article: "The End of Pax Americana Under Trump 2.0." Key takeaways: the pillars of Pax Americana, military credibility (peace through strength, you have heard that term from Trump), economic openness (free trade, which Trump just threw in the garbage, putting tariffs on all these nations), and democratic values, are weakening and may not endure. Democratic values is America pushing democracy all over the earth; that began in 1945. Growing US unpredictability and global power shifts are undermining America's role as Europe's reliable security guarantor; Europe must reduce its dependence on the United States and prepare for greater strategic and security autonomy. I am going to show you all that in the scriptures.
-- For decades Germany and many other European and Western countries have based their relationship with the United States on the concept of Pax Americana: the idea that American power and strength contribute to the security of Western countries and to international stability, military power embedded in alliance structures. That alliance is America, the European Union, and NATO, and that is falling apart. The three pillars of Pax Americana have been eroding for years, even decades; under the second Trump administration they may finally crash down for good. And that is the Lord's doing.
+Reading from a definition of Pax Americana  *[[27:43](https://www.youtube.com/watch?v=stGojnrSmJA&t=1663s)]*
+
+> The origin of the term: the noun phrase Pax Americana was first coined in the 1890s, … earliest recorded evidence in a 1894 issue of for magazine to originally describe pan-American peace and the Monroe Doctrine.
+
+- So it's about American peace. American peace. And the Monroe Doctrine. It's about American peace. Now I'm going to go a little more into that. I sent you an article.
+
+</div>
+
+<div class="reading">
+
+Reading from the article *The End of Pax Americana Under Trump 2.0*  *[[28:32](https://www.youtube.com/watch?v=stGojnrSmJA&t=1712s)]*
+
+> The End of Pax Americana Under Trump 2.0.
+
+- Under Trump 2.0. The end of Pax Americana. So Pax Americana. You know what? Look up the word Pax Americana definition. The exact definition.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of Pax Americana  *[[29:20](https://www.youtube.com/watch?v=stGojnrSmJA&t=1760s)]*
+
+> Pax Americana, Latin for American peace,
+
+- So, the word Pax Americana, it's Latin, meaning it's Roman, Roman language. You understand? Remember America is Rome. So, Pax Americana, it mean America peace. So I'm going to show you all what that's going into when they talk about the end of Pax Americana. So it's talking about America peace.
+
+> is a term for the period of global relative peace and stability backed by the economic, military, and cultural power of the United States after World War II.
+
+- So you all see when that American peace was set up: after World War II. American peace was set up by economics, military power, and democracy. That's a cultural power, after World War II. So, I'm going to touch on some things concerning Pax America.
+
+</div>
+
+<div class="reading">
+
+Reading from the article *The End of Pax Americana Under Trump 2.0*  *[[31:07](https://www.youtube.com/watch?v=stGojnrSmJA&t=1867s)]*
+
+> Key takeaways. The pillars of Pax Americana, military credibility,
+
+- So military credibility, meaning they got military strength and able to maintain peace through strength. You all heard that term by Trump, right?
+
+> economic openness,
+
+- Economic openness, meaning free trade and so forth, which Trump just throw in the garbage, putting tariffs on all these nations.
+
+> and democratic values are weakening and may not endure.
+
+- Democratic values is America pushing democracy all over the earth. Let me tell you all when that began. That began in 1945. America and Europe start establishing democracy all over the world. And I'm going to show you all some things with that.
+
+> Growing US unpredictability and global power shifts are undermining America's role as Europe's reliable security guarantor. Europe must reduce its dependence on the United States and prepare for greater strategic and security autonomy.
+
+- So I'm going to show you all also that in the scriptures.
+
+> The concept of Pax Americana.
+>
+> For decades, Germany and many other European and Western countries have based their relationship with the United States on the concept of Pax Americana. This concept is centered on the idea that American power and strength have significantly contributed to the security of western countries and to international stability more broadly. This notion has also been very powerful in the United States as reflected in Donald Trump's slogan peace through strength.
+
+- So that's what this basically is about. It is about America military being able to maintain peace on the earth, through all these nations, through strength.
+
+> However, Pax Americana is based on much more than just military and economic might. Rather, it is the specific exercise of American power that contributes to international security: military power embedded in alliance structures
+
+- That alliance is who? It's America and the European Union and NATO. America and NATO, that's the military alliance. That's falling apart. Trump don't want to mess with NATO no more.
+
+> and backed by economic openness and liberal democratic values.
+
+- And liberal democratic values. So Pax America, it started in 1945, and guess what? That's when they start pushing liberal democratic values, or democracy. And I'm going to touch on democracy also with you all and show you all some things.
+
+> This understanding of US power has formed the basis of the NATO alliance.
+>
+> The three pillars of Pax Americana, military, economic, and normative, have been eroding for years, even decades. Under the second Trump administration, they may finally crash down for good.
+
+- And that's the Lord's doing.
+
+> The erosion of US military and economic leadership.
+>
+> With regard to military power, the credibility of US security assurances within its vast alliance system has diminished. One reason for this lies in domestic US politics. The increasingly toxic political polarization.
+>
+> The crisis of liberal democratic values.
+>
+> Finally, in terms of values, Pax Americana implies that the spread of democracy after 1945 and 1989, as well as US/Western support for liberal democratic values worldwide, would contribute to international peace and stability.
+
+- So you'll see that in 1945, the Western support for democratic values worldwide would contribute to international peace. I'm going to show you all who did that in the past.
+
+- What they did after 1945, America and the European Union, they pushed democracy, and they said democracy going bring forth world peace. That's why it's called Pax Americana. Through America being the head, ruling with Europe, after World War II they establish peace through strength. They establish economics, them trading with each other, and setting up the IMF and so forth. And they push democracy.
+
+- So the democracy is on a decline. America say we don't care about these nations no more, and we are not going to be the world government. We are not going to go into countries and push democracy anymore. You all heard that, if you are paying attention to the news. That's one of the points that Trump is pushing. He's saying we are not going to other countries if it don't benefit us. If you can't give us something, or money, or so forth, we ain't coming and push no democracy and try to be the world police no more. We just going to worry about our hemisphere. That's what Trump is pushing.
+
+> This view is based on social science research into the democratic peace, which empirically suggests that democracies rarely go to war with each other. However, the idea that democracies fight fewer wars and act more peacefully is more debatable. In retrospect, we now know that the spread of democracy did not lead to the end of history. Rather, values have become a central battleground in their own right, with not only democracies but also autocracies often quite successfully fighting to restructure the regional and international system in their image.
+
+- Just for you all to get a basic understanding of what Pax Americana is.
+
+</div>
+
+Videos played in class:
+
 - Videos played: after World War II, for the first time there was a power able to dominate the entire globe, through aerial supremacy backed by special forces and the CIA. The CIA infiltrated governments in the world, identified who would be loyal to the American empire and promoted them; those who challenged it were demoted or eliminated. You heard that? When it says military, don't think it is just the army; the CIA is part of their military. Trump said he was about to unleash the CIA in Venezuela, and then they took down Maduro.
 - For decades Pax Americana meant US led global alliances ensured security and promoted democracy worldwide. Under Trump's grand strategy every alliance is now transactional; the US is refocusing on its own hemisphere, reviving a modern Monroe Doctrine; troop cuts across Europe and the Middle East; aggressive tariffs; foreign aid slashed; global institutions like the WTO sidelined. The old consensus that maintained global peace is crumbling.
 - A commentator: future historians will look back on 2026 as the beginning of the end of Pax Americana, not because China is doing something, but because the current administration is doing things which will accelerate it, adopting a very aggressive posture against many countries, starting the reciprocal tariff war. That American peace set up all over the world, you see it coming to an end. You see Russia and Ukraine at war, nations warring with each other; America cannot control the world anymore.
@@ -190,7 +280,7 @@ Video played in class, on Sir John Glubb's study of empires:
 - A king of fierce countenance, and understanding dark sentences, shall stand up: when you go into the history, this goes into Antiochus. But this scripture is twofold; it is not just talking about Antiochus, and I am going to show you all that.
 - And his power shall be mighty, but not by his own power: that king is talking about that system; it is talking about America. Their power is going into their technology; how did they get that power? We answer that in Revelation 13.
 - And he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people: we know Antiochus did that in the past, and America did the same thing to the holy people. America enslaved us, destroyed the North American Indians, destroyed us over here on this side of the world. And it is not just what they did to us, but what they are going to do.
-- And through his policy also he shall cause craft to prosper in his hand. Definition read in class: in this verse craft means deceit, cunning, trickery, and clever scheming. His policy goes into his politics, his religion, his economics. It is going into democracy; it is going into him setting up the IMF, which tells countries how much their money is worth; going into taking the resources of Africa ever since 1945. All that scheming, trickery, and deceit: Antiochus prospered with it, and America prospered with it too. Look at Christianity: did it not prosper in his hand? Everything he set up since 1945, financial and religious, it all prospered; that is his deceit, with all deceivableness of unrighteousness in them that perish.
+- And through his policy also he shall cause craft to prosper in his hand: so I'm going to show you all the policy and the crafts, what Antio did, and I'm going to show you all the same thing America have done.
 - And by peace shall destroy many: remember what we are going over. Pax means peace; Pax Americana, American peace. Through peace he shall destroy many. To understand that we have to go to the history in 1 Maccabees.
 - He shall also stand up against the prince of princes: did Antiochus stand up against the Prince of princes? Antiochus did not fight against Christ, so this is letting you know it is twofold: the same thing is going to be done again in these last days. It is the same thing we just read in Revelation 17: they going to make war with the Lamb, and the Lamb shall overcome them.
 - But he shall be broken without hands: that goes back into Daniel, where he saw the statue and the feet broken by a stone cut without hands.
@@ -249,6 +339,24 @@ Video played in class, on Sir John Glubb's study of empires:
 - Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness. For in one hour is she made desolate.
 - Rejoice over her, thou heaven, and ye holy apostles and prophets: why, when mystery Babylon the great is destroyed, will the apostles and the prophets be rejoicing?
 - For God hath avenged you on her: why does God have to avenge us on her? Because in that war, the prophets are here. That is why I tell you all I am a prophet, and there are thousands of prophets here in IUIC. A lot of the prophets are going to die here in Babylon teaching the word of God. And not just the prophets are here; the apostles are here too.
+
+<div class="reading">
+
+Reading from a screenshot of the word craft, on Daniel 8:25  *[[1:27:55](https://www.youtube.com/watch?v=stGojnrSmJA&t=5275s)]*
+
+> Daniel 8 and verse 25, which says, “And through his policy also he shall cause craft to prosper in his hand.” In this verse, craft means deceit,
+
+- So that craft, when it mentioned the craft going prosper, is talking about his deceit.
+
+> cunning, trickery, and clever scheming.
+
+- So all the clever scheming and trickery and deceit, the same way how Antio prosperated, guess what? America also prosperated.
+
+- His policies goes into his religion, goes into his politics. It goes into his economics. It's going into his religion. It's going into democracy. It's going into him setting up his economics, which is the IMF, which he tell countries how much their money worth. Him going and stealing from Africa. Ever since 1945, he been rubbing resources from Africa and from all over the world. You all understand? So all that scheme and trickery and deceit, guess what? Antiochus prospered with it. And guess what? America, they prospered with it, too.
+
+- So the craft that prospering in his hand is his lies, his deceit. Watch at Christianity. Didn't it prosper in his hand? All these establishment that he have set up ever since 1945, whether it's financial, whether it's religious, it all prospered. The whole world, everybody following the white man, everybody worshiping white Jesus, it prospered in his hand, his deceit. Remember what the scripture said: with all deceivableness in unrighteousness in them that perish. Why? He was deceived by the white man. He was deceived to think that God is white.
+
+</div>
 
 **[1 Maccabees 1:41-47, 50-51](/bible/1-maccabees/1#v41)**  *[[1:31:17](https://www.youtube.com/watch?v=stGojnrSmJA&t=5477s)]*
 

@@ -145,6 +145,24 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
     In the days of Jehoram the son of Jehoshaphat, king of Judah, Edom revolted from under the hand of Judah, and made a king over themselves. That is the first time Esau broke the yoke from off his neck, just as Genesis 27:40 prophesied.
 
+<div class="reading">
+
+Reading from a text on Edom and the destruction of the first temple · read by Captain Yuri  *[[38:46](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2326s)]*
+
+> According to biblical text, Edom aided the Babylonian Empire during the destruction of the first temple in 586
+
+- So now you had the brother of the Israelites, assisted and helped the Babylonians, which were Kushites, destroy the first temple.
+
+> BCE, rather than helping Judah.
+
+- Rather than helping Judah, their brother.
+
+> The … rejoiced, looted the city, blocked fleeing survivors, and participated in the raising.
+
+- Raising means destroying of Solomon's temple. Everybody got that, right?
+
+</div>
+
 **[Obadiah 1:11-14](/bible/obadiah/1#v11)**  *[[39:50](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2390s)]*
 
 > <sup>[11](/bible/obadiah/1#v11)</sup> In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.
@@ -155,7 +173,6 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 >
 > <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 
-- Reading shown on screen: according to biblical text, Edom aided the Babylonian Empire during the destruction of the first temple in 586 BC. Rather than helping Judah, the Edomites rejoiced, looted the city, blocked fleeing survivors, and participated in the razing of Solomon's temple. So the brother of the Israelites assisted and helped the Babylonians, which were Cushites, destroy the first temple.
 - Verse 1 read for context: the vision of Obadiah. Thus saith the Lord God concerning Edom: this whole chapter is about Edom and what they did.
 - In the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them: even thou, Edom, was as one of them.
 - Thou shouldest not have looked on the day of thy brother in the day that he became a stranger: the twelve tribes did become strangers. Neither shouldest thou have rejoiced over the children of Judah in the day of their destruction: they rejoiced when we got destroyed. Neither shouldest thou have spoken proudly in the day of distress.
@@ -168,15 +185,67 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
     Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees. So who burned the temple? The Edomites.
 
-Book read in class: Light and Truth: Collected from the Bible and Ancient and Modern History, Containing the Universal History of the Colored and the Indian Race, from the Creation of the World to the Present Time, by R. B. Lewis, a colored man, written in 1844:
-
 - During the middle ages, around 711 AD in Spain, you had Israelites who were called Moors. Remember Israel went into the Assyrian captivity, the Babylonian captivity, the Persian and Mede captivity, the Greek, then the Roman: 70 AD. About 600 years after that you had the Moors.
-- "Negro is derived from the Latin term niger, meaning black. Moor: a negro. Negro: a black Moor. Moor, negro: an African by birth, or a descendant of one, of full blood." See that: the negro was called Moor, not the Hamite. On the continent of Africa there are negroes and Hamites, Shemites and Hamites, Israelites and Hamites; it is not all the same over there.
-- The book lists the blood degrees: full blood, a whole negro; three quarter blood; mulatto, one half blood; quadroon, one quarter blood; mestizo, a half quarter blood. That is why the Latinos fall under this: they have a term called blanqueamiento, the whitening. That is why you got Puerto Ricans, Mexicans, Dominicans all falling under those mulatto, quadroon, mestizo names; the southern kingdom went through the same thing.
-- The word was formerly used by the Moors and the old Romans to designate any black; it was not a derogatory word. Esau made it derogatory, and many today take it derogatory.
-- "Micah the Morasthite: a prophet of the Moors. He prophesied in the days of Hezekiah, king of Judah, and spake to all the people of Judah, the Moors." The Moors, meaning the blacks.
-- "Moseroth was built by the Moors in the desert of Paran, in the land of Amalek. It was the ancient encampment of Israel in the days of Moses. In the Moorish war some of the books of Moses were burnt. Moriah: a hill adjacent to Jerusalem on the northeast. Here Abraham offered his son. When Solomon built the temple on it, it became included in the city."
-- Also read, from The Story of Civilization: Caesar and Christ, by Will Durant: "The Latins gave the name Africa to the region around Carthage and Utica." That is where Africa came from; the white man put that name there. We are not Africans; we have to go back to the name God calls us. Rome named the continent Africa.
+
+<div class="reading">
+
+Reading from *Light and Truth, Collected from the Bible and Ancient and Modern History, Containing the Universal History of the Colored and the Indian Race, from the Creation of the World to the Present Time* by R. B. Lewis, a colored man, written in 1844 · read by Captain Yuri  *[[43:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2582s)]*
+
+> The word negro.
+>
+> Negro is derived from the Latin term … meaning black.
+
+> Moor. A marsh, a fin, a negro.
+
+- See that? The negro was called Moor. Not the Hamite was called Moor. The negro was called Moor.
+
+> Negro. Blackmoor.
+
+> Moor. A negro. Negro. A black Moor, a Moor, Negro, an African by birth or a descendant of one of full blood.
+
+- On the continent, remember on the continent of Africa, there are Negroes and Hamites. I hope you'll understand the difference. Shemites and Hamites. Israelites and Hamites. Everybody understand what I'm saying? It's not all the same over there.
+
+> Moor, a black man. Negro, a black Moor, a slave, a mean wretch.
+>
+> Moor, a black … in Dr. Webster's definition of the complexion of the skin. He calls it the blood of Africa or their descendants as follows.
+
+> Mangrun is all black, a full blood, a whole negro.
+
+- So if you ain't got no white in your family or nothing, like you was a mangrun, full blood negro. Mangrun they used to call you.
+
+> … is three-quarter blood, three-quarter negro. Mulatto is one half blood, one half negro. Quadroon is one quarter blood, one quarter negro. Mestizo is a half quarter blood, a half quarter negro. …
+
+- This is why the Latinos would fall under that, because they have a term they call blanqueamiento, the whitening. And with the kingdom, the southern kingdom, they did the same thing, and they gave these different names here. Now you see mestizo, half quarter blood. That's why you got Puerto Ricans, Mexicans, Dominicans, they all following that mulatto, quadroon, mestizo. Those half quarter bloods, one quarter blood, one half blood. Y'all see that?
+
+> …, a Latin word, was formerly used by the Moors, the old Romans, to designate any black.
+
+- The word was used by the Moors. It was not a derogatory word, just like Acts 13:1. It was not a derogatory word. Esau made it derogatory, and many of you today take it derogatory.
+
+> Micah the Morasthite. A prophet of the Moors.
+
+- He was called a prophet of the Moors. That's the prophet Micah, the Morasthite.
+
+> Prophesied in the days of Hezekiah, king of Judah, and spake to all the people of Judah, the Moors,
+
+- The Moors, meaning the blacks.
+
+> saying, Thus saith the Lord of hosts, Zion shall be plowed like a field, and Jerusalem shall become heaps …
+>
+> Micah showeth the wrath of God against Jacob for idolatry.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Story of Civilization: Caesar and Christ* by Will Durant · read by Captain Yuri  *[[48:20](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2900s)]*
+
+> The Latins gave the name Africa to the region around Carthage and Utica.
+
+- The Latins is the white man, by the way. They later became known as the Romans.
+
+- That's where Africa came from. The white man put that name there. We got to go back to the name God calls us.
+
+</div>
 
 **[Micah 1:1](/bible/micah/1#v1)**  *[[49:08](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2948s)]*
 
@@ -197,6 +266,20 @@ Book read in class: Light and Truth: Collected from the Bible and Ancient and Mo
     > <sup>[1](/bible/2-chronicles/3#v1)</sup> Then Solomon began to build the house of the Lord at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.
 
     Then Solomon began to build the house of the Lord at Jerusalem in mount Moriah, where the Lord appeared unto David his father. Moriah: Moor right there, black again. The hill of the Moors was part of Jerusalem.
+
+<div class="reading">
+
+Reading from *Light and Truth* by R. B. Lewis · read by Captain Yuri  *[[50:36](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3036s)]*
+
+> Moseroth was built by the Moors in the desert of Paran in the land of Amalek. It was the ancient encampment of Israel in the days of Moses.
+>
+> In the Moorish war of Adele in Africa, some of the books of Moses were burnt.
+
+> Moriah, a hill adjacent to Jerusalem on the northeast. Here Abraham offered his son. Genesis chapter 22. When Solomon built the temple on it, it became included in the city.
+
+- So Moriah was a hill adjacent to Jerusalem.
+
+</div>
 
 - Video played: they do not teach you that the Moors went into Europe in 710 AD. They brought universities into Europe, brought soap, brought the disinfecting holy waters that became rubbing alcohol, brought strawberries, olives, and grapes, taught Europeans how to make wine, and brought the game of chess. Now we know those Moors were Israelites; Africa was a term that came way later, just like the term Moors came later.
 - Anytime we are set somewhere, we rise up as a nation. So what happens? The Lord allows Esau to conquer us. Why? Because the savior is Christ; if we could do it without Christ, then why would we need Christ?
@@ -241,10 +324,31 @@ Book read in class: Light and Truth: Collected from the Bible and Ancient and Mo
 
     He shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. Israel and Judah were scattered worldwide.
 
-Book read in class: Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate, published 1959, under the title "American Negro problems":
+<div class="reading">
 
-- "The Negro question in the United States of America must be treated in its relation to the huge Negro masses of farmers and workers oppressed and exploited by white imperialism in Africa and South America. The Negroes of the United States are the most advanced section of the Negro population of the world and can play a decisive role in helping and leading the liberation movement of the Negro colonies." Wait a minute: you have negroes in Jamaica, Haiti, Africa, Saudi Arabia; the southern kingdom is everywhere; but the white man examined all the negro populations and said the American negro is the most advanced.
-- Deacon: remember, when Nebuchadnezzar came against Judah, they took the best out of the best, the most educated. Esau is not stupid; he knows that history. When we were in Ghana at Elmina Castle, the tour guide actually said it: you never ask why the American black is more advanced; because when they came to Africa, they took the best of them. For a good example, notice right after slavery, without even reparations, how the blacks here advanced; that is why they came and dropped bombs and destroyed them.
+Reading from *Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate*, 1959, "American Negro Problems" · read by Captain Yuri  *[[1:00:16](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3616s)]*
+
+> At the same time, the Negro question in the United States of America
+
+- Why are they so hard on Judah here, opposed to Judah scattered elsewhere? Well, let's find out in this book.
+
+- Remember, you got Negroes in Jamaica, Haiti, Africa, Saudi Arabia. Negroes is everywhere. Judah's everywhere. Southern kingdom's everywhere, but it's pinpointing something about the American Negro.
+
+> must be treated in its relations to the huge negro masses of farmers and workers oppressed and exploited by white imperialism in Africa and South America.
+>
+> The Negroes of the United States are the most advanced section of the Negro population
+
+- So wait a minute. The white man examined all the Negro populations and they said the American Negro in the United States is the most advanced.
+
+> of the world and can play a decisive role in helping and leading the liberation movement of the Negro colonies.
+
+- **Deacon Malachi:** Let me tell you guys something. Remember, if I'm not mistaken, I think King Nebuchadnezzar, when they come against Judah, the one that they took among us was the most educated one. They took the best out of the best. So Esau is not stupid. He know that history.
+
+- **Deacon Malachi:** I'm going to give an example. We was in Ghana, we went to Elmina Castle. The guy who was giving a tour, he actually said that. He said, You guys never ask why the American black is more advanced. He said because they took the best when they come to Africa. In other words, that's why you see Africa is always behind.
+
+- **Deacon Malachi:** For a good example of that, you notice right after slavery the blacks here, what they did, and they didn't even give reparation yet, how they advance. That's what Bishop say earlier, how they come and drop bomb, destroy them. Because those blacks, those slaves, they were not regular. They were more advanced. The one they left behind, they was not. That's why you see Africa the way it is. That's why you see the blacks over here the way they are. Esau know that history.
+
+</div>
 
 **[Daniel 1:3-4](/bible/daniel/1#v3)**  *[[1:03:47](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3827s)]*
 
@@ -253,7 +357,25 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 > <sup>[4](/bible/daniel/1#v4)</sup> Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans.
 
 - The king spake unto Ashpenaz, the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes; children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science. That is what Deacon was talking about: Babylon did not take any old body. Esau did the same thing; they said, no, we need the best ones, and they put them in North America.
-- Back to the hearings: "Within the Negro population of the United States the Negro working class is destined to be the vanguard of all liberation movements, and may become the vanguard of the liberation movement of the Negro peasant masses on an international scale. A strong Negro movement in the USA will be able to influence and direct the Negro movement in all those backward parts of the world where the Negroes are oppressed by the various imperialist powers." You see what they called all the other places: backward parts of the earth. That is why Esau always has his eye on the American blacks. People ask why Canada and Europe have free healthcare and not America: they do not want the American blacks to get it, because this group here is more dangerous than all the other groups. Sisters, do not just let your boys run out; the white man has his eyes on your sons; they know what stock they come from.
+<div class="reading">
+
+Reading from *Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate*, 1959, "American Negro Problems" · read by Captain Yuri  *[[1:04:38](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3878s)]*
+
+> Within the Negro population of the United States, the Negro working class is destined to be the vanguard of all liberation movements and may become the vanguard of the liberation movement of the Negro peasant masses on an international scale.
+
+- Y'all see that? That's why Esau always got his eye on the American blacks. That's why people ask, Canada and Europe have free medical, Medicaid, however they call it, healthcare. They said, why not in America? They don't want the American blacks to get it, because that group here is more dangerous than all the other groups where the blacks are.
+
+- Sisters, y'all just let your boys run out. The white man got his eyes on your sons. They know what stock they come from.
+
+> The Negro question in the United States must be treated in its relation to the general international negro problem.
+
+> A strong Negro movement in the USA will be able to influence and direct the Negro movement in all those backward parts of the world where the Negroes are oppressed by the various imperialist powers.
+
+- You see what they used to call all the other places: backwards parts of the earth. They said, but the American Negro. That's Judah.
+
+</div>
+
+- That's why the Lord said this, and this history y'all should be proud of it. Some of y'all might be sucking your teeth mad, but don't be mad. Be glad.
 
   Precepts:
   - **[Zechariah 12:7](/bible/zechariah/12#v7)**
@@ -265,7 +387,23 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
     And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people. Judah is going to be the one teaching and preaching, and he is the one that is going to know where the tribes are. Let his hands be sufficient for him; and be thou an help to him from his enemies.
 
-- Reading shown from the American Economic Association: "In view of these facts, it is probable that the Negro stock landed in America was physically superior to the average of that left behind. No doubt many were permanently broken in health, but it could not have been so with any large proportion, or the trade could not have flourished as it did. It is probable that the great majority, being by nature the soundest and strongest, quickly recovered and transmitted to their offspring their congenital qualities." We did not write that; the white man wrote that. The books we read, white folks wrote this stuff. Sisters, you may have had a no good man, but your son is of that good stock; you better thank God.
+<div class="reading">
+
+Reading from the American Economic Association  *[[1:07:49](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4069s)]*
+
+> In view of these facts, it is probable that the Negro stock landed in America was physically superior to the average of that left behind.
+
+- Damn. We didn't write that. White man wrote that. The books we read, white folks wrote this stuff. They examined all the blacks, and wherever their slaves was, they said that American Negro right there.
+
+> No doubt many were permanently broken in health, but it could not have been so with any large proportion, or the trade could not have flourished as it did. It is probable that the great majority, being by nature the soundest and strongest, quickly recovered and transmitted to their offspring their congenital quality.
+
+- That's why I said, you sisters, you had a no good man, but your son is of that good stock right there. You better thank God.
+
+- See, they ain't clapping. They don't give a damn. They said their son is a no good, like their daddy was. That's the mentality of a lot of these women: my son ain't no damn good cuz their daddy was no damn good. I don't know what's wrong with some of your sisters.
+
+</div>
+
+- A lot of you black women don't understand this.
 
   Precepts:
   - **[Ecclesiasticus 26:19-21](/bible/sirach/26#v19)**
@@ -322,7 +460,18 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
 > <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
 
-- Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel. Reading shown on screen: Zerubbabel means born in Babylon, or seed, offspring of Babylon; some scholars note it could also be understood as born in exile, but the standard rendering is born in Babylon. One of our forefathers was named Born in Babylon; that is today's lesson: we are born in Babylon.
+- Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel.
+
+<div class="reading">
+
+Reading from a text on the meaning of the name Zerubbabel  *[[1:21:09](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4869s)]*
+
+> Zerubbabel means something like born in Babylon, or seed, offspring of Babylon. The name comes from Hebrew elements often read as Zerubbabel, commonly rendered as born in Babylon or seed of Babylon. Some scholars note it could also be understood as born in exile. But the standard rendering in most English Bibles is born in Babylon.
+
+- Born in Babylon. One of our forefathers was named Zerubbabel.
+
+</div>
+
 - Not by might, nor by power, but by my spirit, saith the Lord of hosts. Now you have to ask: why did the Lord say that to Zerubbabel?
 
 **[1 Esdras 3:4, 10-12](/bible/1-esdras/3#v4)**  *[[1:22:29](https://www.youtube.com/watch?v=FpEHxWGgai8&t=4949s)]*
@@ -337,11 +486,34 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
 - Then the three young men that were of the guard that kept the king's body spake one to another: these three were the king's bodyguard. Let me fill in the gap: the king set forth a contest; whoever gives the wisest saying about what is the strongest, I will give you wealth, fame and fortune, and you can sit beside me. The three bodyguards accepted the challenge.
 - The first wrote, Wine is the strongest. The second wrote, The king is strongest. The third wrote, Women are strongest: but above all things Truth beareth away the victory. The third was Zerubbabel.
-- Reading shown: the Persian king's personal bodyguards were chosen from the ten thousand Immortals, an elite standing force of heavy infantry in the Achaemenid empire. Selection for the supreme unit required strict nobility, extreme physical endurance, proven combat skills, and unwavering personal loyalty to the monarch; and under Zoroastrian principles, character and honor: a cultural emphasis on truth and moral discipline. The apple bearers, one thousand out of the ten thousand, were the innermost personal bodyguard protecting the king directly, distinguished by golden pomegranates on their spears. That is where Zerubbabel was.
-- Think about why Zerubbabel would serve the Persian king with loyalty. Say you are the top fighter, but the rest of the nation is not, and they have knives to everybody's throat: if you do not give up, everybody dies. Zerubbabel obviously did not fight, because if he fought, he might live, but they were all going to die. Illustration given from The Usual Suspects: the captors learned they had no control over that man; but here the whole nation was tied up in captivity, so our forefather submitted and became the king's bodyguard.
-- Now apply it: it said cultural emphasis on truth and moral discipline. You have brothers who want to be on security who do not know the scriptures, have no discipline, and are immoral, and you want them to guard you. Captains, you have to check these men; you cannot just put anybody on security; it dealt with honor, discipline, and morality.
 
-**[1 Esdras 4:13-50](/bible/1-esdras/4#v13)**  *[[1:23:32](https://www.youtube.com/watch?v=FpEHxWGgai8&t=5012s)]*
+<div class="reading">
+
+Reading from a text on the Persian king's bodyguards  *[[1:25:06](https://www.youtube.com/watch?v=FpEHxWGgai8&t=5106s)]*
+
+> The Persian king's personal bodyguards were chosen from the 10,000 Immortals, an elite standing force of heavy infantry in the Achaemenid empire. Selection for the supreme unit required strict nobility,
+
+- So in order to be one of them, you had to understand nobility.
+
+> extreme physical endurance,
+
+- You had to have extreme physical endurance.
+
+> proven combat skills,
+
+- People had to see you at war.
+
+> and unwavering personal loyalty to the monarch.
+
+- Unwavering personal loyalty to the monarch. To the king. Now, I sit back and I think, why would Zerubbabel do what the Persian king said? You got to think about it. Let's say you're this top fighter, but the rest of the brothers and sisters are not. And they got the knives to everybody's throat: if you don't give up, we kill everybody. What would you do as a top warrior?
+
+- Now, how many of y'all saw the movie The Usual Suspects? So now that was an extreme case. Now we're talking about the Persians or Babylon taking everybody in captivity. They got the whole nation tied up.
+
+- So Zerubbabel, obviously he didn't fight, because he said, You know what? If I fight, they all going to die. I might live, but they going to die. So he became the king's bodyguard.
+
+</div>
+
+**[1 Esdras 4:13-50](/bible/1-esdras/4#v13)**  *[[1:29:51](https://www.youtube.com/watch?v=FpEHxWGgai8&t=5391s)]*
 
 > <sup>[13](/bible/1-esdras/4#v13)</sup> Then the third, who had spoken of women, and of the truth, (this was Zorobabel) began to speak.
 >
@@ -435,6 +607,38 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 - Notice how noble our forefather was: he asked nothing for himself. He said, Remember thy vow, which thou hast vowed to build Jerusalem, and to send away all the vessels that were taken away out of Jerusalem, which Cyrus set apart when he vowed to destroy Babylon. Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees. He did not say give me silver, give me gold, give me this woman to marry; he thought about his people and the temple. That should be our mentality. That is why I said, to be of the king's guard you had to be of a special sort, and Zerubbabel was that top guy.
 - Then Darius the king stood up, and kissed him: on the cheek; that was the custom in the east. And he wrote letters for him unto all the treasurers and lieutenants and captains and governors, that they should safely convey on their way both him, and all those that go up with him to build Jerusalem; and letters unto the lieutenants in Celosyria and Phenice, and unto them in Libanus, to bring cedar wood from Libanus unto Jerusalem, and build the city with him.
 - Moreover he wrote for all the Jews that went out of his realm up into Jewry, concerning their freedom: they got freed from captivity because of this. No officer, no ruler, no lieutenant, nor treasurer should forcibly enter into their doors; all the country which they hold should be free without tribute, no taxes; and the Edomites should give over the villages of the Jews which then they held. Pay attention to that: after Edom burned down the temple, they took over the land, and now the decree was to give it back.
+
+<div class="reading">
+
+Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.youtube.com/watch?v=FpEHxWGgai8&t=6748s)]*
+
+> Character and honor. Cultural emphasis on truth and moral discipline
+
+- Didn't we read that with Zerubbabel? It said cultural emphasis on truth and moral discipline. Here you got brothers, I want to be on security. Some of these brothers on security, I'm not saying here in Atlanta, but I'll just say, gentlemen I see don't know the scriptures, no discipline, and are immoral. And you want them to guard you. They'll sell you out.
+
+> under Zoroastrian principles meant recruits had to demonstrate high personal honor.
+
+> Hierarchy of the royal guard. The 10,000. The broader elite corps always maintained an exact count of 10,000 fighters. Any casualty or illness was replaced instantly to preserve the illusion that the force was undying.
+
+- Remember, this is the Persians.
+
+> The Apple Bearers.
+
+- At the end of their spears they had like silver or brass apples.
+
+> The Apple Bearers, 1,000. Out of the 10,000, the innermost personal bodyguard protecting the king directly consisted of 1,000 premier soldiers.
+
+- This is where Zerubbabel is in.
+
+> They were distinguished by spears featuring golden pomegranate or apple-shaped counterweights at the base, while the other 9,000 guards carried silver pomegranate.
+
+- That was it right there. So now that's how they became bodyguards. That's how they became part of the 10,000, or the top three. It dealt with honor, discipline, morality. You cannot be: I don't know the scriptures, I have no understanding of truth, but I want to be a part of this. No, no, no.
+
+- That's why you captains, y'all got to check these dudes. Y'all just put anybody on security. The dude that just came off the street slinging drugs, y'all put him on security. What the hell is going on here? He's immoral. He has no understanding of truth. And what else did they say? No discipline. That's the captain's fault. That's y'all fault. Y'all ain't checking these men. You got to build these brothers.
+
+- You got 18 year olds on security. I'm like, what? Wait, what? He's 18 years old. He was watching porn last night. You got him on security.
+
+</div>
 
 **[Zechariah 3:8-10](/bible/zechariah/3#v8)**  *[[1:55:54](https://www.youtube.com/watch?v=FpEHxWGgai8&t=6954s)]*
 
@@ -600,8 +804,25 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
     Many of the priests and Levites and chief of the fathers, who were ancient men that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy: so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; and the noise was heard afar off.
 
-- Reading shown on Herod: the temple Zerubbabel rebuilt was completed around 515 BC, but it did not compare to Solomon's. King Herod the Great began a massive expansion and renovation of the second temple around 20 to 19 BC, to beautify the site, impress the Roman world, and win favor with his Jewish subjects: he doubled the area of the Temple Mount platform to about 35 acres with giant retaining walls; workers used enormous carved white limestone blocks, some weighing over 500 tons; the main temple building was covered in bright white stone trimmed with gold; and he added grand colonnades, magnificent entry gates, and spacious public spaces for worshippers and pilgrims.
-- You see that last sentence: spacious public spaces for worshippers and pilgrims. Meaning the other nations had a place now; they could come and look at what was going on in the temple. That was not in the original design that God gave us. Herod added it. Herod was an Idumean, an Edomite, and this Edomite wanted favor with the Jews.
+<div class="reading">
+
+Reading from a text on Herod's renovation of the second temple · read by Captain Yuri  *[[2:17:27](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8247s)]*
+
+> King Herod the Great began a massive grand expansion and renovation of the second temple
+
+- Why? Because it did not look that good. Not in comparison to what Solomon had built. So, King Herod the Edomite.
+
+> around 20 through 19 BCE to beautify the site, impress the Roman world, and win favor with his Jewish subjects.
+
+- So this Edomite wanted favor with the Jews. So he used better marble and things of that nature to make it look nice.
+
+> Key expansion details. Doubled the size. He doubled the area of the Temple Mount platform to about 35 to 36 acres by building giant retaining walls and filling in the slopes. Massive stones. Workers use enormous carved white limestone blocks, some weighing over 500 tons. Opulent finishes. The main temple building was covered in bright white stone and trimmed details of gold that gleamed in the sun. New courtyards and gates. He added grand colonnades, magnificent entry gates and spacious public spaces for worshippers and pilgrims.
+
+- Y'all see that last sentence right there? And spacious public spaces for worshippers and pilgrims. Meaning the other nations had a place now. They could come and look at what was going on in the temple.
+
+</div>
+
+- That was not in the original design that God gave us. Herod added it. I'm going to show you all that.
 
   Precepts:
   - **[Jeremiah 22:13](/bible/jeremiah/22#v13)**
@@ -617,14 +838,105 @@ Book read in class: Hearings before the Subcommittee on Constitutional Rights of
 
     The thief cometh not, but for to steal, and to kill, and to destroy. Who is he talking about? Rome. Remember Herod was an Idumean, and Rome were Idumeans; they were the same race.
 
-Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this book; this is not a negro writing this:
+<div class="reading">
 
-- "Herod was a shrewd and unscrupulous tyrant and was despised by the Judahites because he was an Idumean, and not one of their own stock. Herod hated the people of Judah, and one of his first acts was to execute forty-five of their leaders of the old aristocracy, to eliminate any rivalry for leadership. Having secured the kingship, Herod next destroyed the priestly line of Hyrcanus, the last being Antigonus, who taunted Herod with his Idumean origin, and asserted that the kingdom should fall on one of the royal family." Idumean means Edomite; that is why he did all that building, to get in good graces.
-- "We thus find that in the years just before the time of Christ, Judea was controlled by an Edomite faction who usurped the Judahite name, land, and heritage. Historically, the Edomites became known as Jews, derived from Judea, which was derived from the name Judah, being the royal line of Israel, though they were never of Judah or Israel." Usurped the name meaning they became Jewish: we are converts, we are Jews now. That is what Herod was doing.
-- "The Jews of today fall within two main types: the Sephardic Jew, also known as the Spanish Jews, who constitute about 5 percent of the Jews in the world; and the Ashkenazi Jew, the East European Jews found in Poland, Russia, Germany, and western Asia, who make up 90 percent." Initially we were the Sephardim in Spain; when they conquered us and cast us out, Esau became the Sephardic ones in Spain.
-- "Many reference and historical sources have unequivocally identified that the bulk of the Ashkenazi Jews were derived from a people known as Khazars. The original Jewish Encyclopedia of 1905 revealed that the main stock came from this Asiatic people: Chazars, a people of Turkish origin whose life and history are interwoven with the very beginnings of the history of the Jews of Russia. The Khazars are also of Edomite stock, and both stocks make up the present day Jews. According to the Jewish Encyclopedia, the original stock of the Khazars came from the land of Edom." We had to find out whether the Khazars were Japheth or Esau; their own encyclopedia says Edomite stock. Do not tell us we do not know what we are talking about: we have second, third, and fourth book sources, and the Bible is always our main source.
-- "As it is written, Jacob have I loved, but Esau have I hated (Romans 9:13). God not only hates Esau-Edom, but refers to them as the people of my curse (Isaiah 34:5). There is not one favorable or positive statement in the Bible in relation to Esau-Edom. If God hated you and your ancestors, how would you react? By natural reaction you would be against God and his people, and try to prevent them from finding out you are Esau. Who is it that tries to conceal their identity as Edom, the one hated by God, by claiming to be Israel, the one loved by God? Why do you suppose the Jews form organizations such as the Anti-Defamation League, to monitor and combat hate and to identify hate groups? If you were Esau-Edom, would you not do the same? An Edomite would also want to infiltrate churches."
-- That is the game now against the truth: they go into the churches and say, hate in Romans 9:13 does not really mean hate, it just means displeased; you have to go into the Hebrew. That is what they are doing now.
+Reading from *Who Is Esau-Edom?* by Charles A. Weisman · read by Captain Yuri  *[[2:20:40](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8440s)]*
+
+> Herod was a shrewd and unscrupulous tyrant and was despised by the Judites
+
+- Now, Esau wrote this book. See, this is why he did all that, to get in good graces.
+
+> because he was an Idumean
+
+- He was an Edomite. That's what Idumean means. Edomite.
+
+> and not one of their own stock.
+
+- He was not of the stock of Israel.
+
+> Herod hated the people of Judah and one of his first acts was to execute 45 of their leaders of the old aristocracy to eliminate any rivalry for leadership. Having secured the kingship, Herod next destroyed the priestly line of Hyrcanus,
+
+- That's John, descendant of Simon or Jonathan Maccabee.
+
+> the last being Antigonus, who taunted Herod with his Idumean origin
+
+- So Antigonus would mock Herod being an Idumean.
+
+> and asserted that the kingdom should fall on one of the royal family.
+
+> We thus find that in the years just before the time of Christ, Judea was controlled by an Edomite faction who usurped the Judite name,
+
+- When it says who usurped the Judite name, meaning they became Jewish. They said, we're Jews now. That's what Herod was doing. We are converts. We're Jews.
+
+> land and heritage.
+
+> Historically, the … became known as Jews,
+
+- Y'all look at white folks and go, those are the Jews.
+
+> derived from Judea, which was derived from the name Judah, being the royal line of Israel, though they were never of Judah or Israel.
+
+> The origins of the Jews. The Jews of today fall within two main types: the Sephardic Jew and the Ashkenazi Jew. The Sephardi are also known as the Spanish Jews
+
+- Because initially we were the Sephardim in Spain. When they conquered us, cast us out, Esau became the Sephardic ones in Spain. And the Ashkenazis are those from Germany, Eastern Germany.
+
+> and constitute about 5% of the Jews in the world. The Ashkenazim are the East European Jews which were found in Poland, Russia, Germany, and Western Asia. This group of Jews make up 90% of the so-called Jews in the world.
+
+> Many reference and historical sources have unequivocally identified that the bulk of the Ashkenazi Jews were derived from a people known as Khazars,
+
+- Now, let's see what the Khazars were. We had to find out: Japheth or Esau.
+
+> or Chazars in some text. The original Jewish Encyclopedia
+
+- I got this encyclopedia, by the way.
+
+> of 1905 revealed that the main stock of the Jews came from this Asiatic people known as Khazars or Chazars.
+
+- Now in this Jewish encyclopedia, they spell Chazars with a C. They don't have it with a K.
+
+> Chazars. A people of Turkish origin whose life and history are interwoven with the very beginnings of the history of the Jews of Russia.
+
+- So you'll say, oh, look, see, they're Turkish, so they're Japheth. Let's see.
+
+> Historical evidence points to the region of the … as the home of the Khazars.
+
+> The Khazars are also of Edomite stock
+
+- Do y'all see that? They know the Khazars are not Japhetic.
+
+> and both stocks make up the present day Jews.
+
+- That's it: the Sephardic and the Ashkenazis.
+
+> According to the Jewish Encyclopedia, the original stock of the Khazars came from the land of Edom.
+
+- Do y'all see that thing right there? Don't tell us we don't know what we're talking about. We know. We have sources, secondary, third, and fourth book sources. Now, the Bible's always our main source.
+
+> As it is written, Jacob have I loved, but Esau have I hated. Romans 9:13.
+>
+> God not only hates Esau, Edom, and is against these people, but refers to them as the people of my curse.
+
+- Remember, Esau's writing this. This is not a Negro writing this.
+
+> Isaiah 34:5. This curse is not just on Esau but also his seed and his brethren.
+>
+> There is not one favorable or positive statement in the Bible in relation to Esau Edom. If God hated you and your ancestors, how would you react? And what would you do? By natural reaction, you would be against God and his people and try to prevent them from finding out you are Esau,
+
+- If you was the children of the devil, you don't want nobody to know you're the children of the devil. That's what he's saying. If you know you're Esau, you want to make sure nobody on the planet knows you're Esau.
+
+> the one God is against, knowing that if God is against something, so will his followers. Who is it that tries to conceal their identity as Edom, the one hated by God, by claiming to be Israel, the one loved by God? Only one group of people reacts as though God has a hatred for them. That is the Jews.
+
+- That's the so-called Jewish people.
+
+> Why do you suppose the Jews form organizations such as the Anti-Defamation League to monitor and combat "hate" and to identify "hate groups"?
+
+- That's the ADL. That's what they do. They say, these guys know that we're the children of the devil. Put them on a hate list. Hate speech, anti-Semitic. We can't let the world know that they know we're the children of the devil.
+
+> Would not Esau want to do this? Why is it that it is predominantly Jews who promote the anti-hate law and other hate crime legislation? If you were Esau Edom, would you not do the same? And Edomite would also want to infiltrate churches.
+
+- Now, when you get this book, it says they go into churches. And that's why you see these videos now: hate in Romans 9:13 doesn't mean hate. It just means he's displeased with it. You got to go into the Hebrew. That's what they're doing now. This is the game now against the truth.
+
+</div>
 
 **[Mark 13:1-4](/bible/mark/13#v1)**  *[[2:28:11](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8891s)]*
 
@@ -638,8 +950,25 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
 - Master, see what manner of stones and what buildings are here: Herod made that thing look so good the disciples marveled at it. And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
 - And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately, Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled? Their question was: when will this temple be destroyed, when shall the end come?
-- Book read: The Temples That Jerusalem Forgot, by Ernest L. Martin: "When Jesus said the temple and the city of Jerusalem would be obliterated, his prophecies were accurate to a T. The historical records show that when the Romans got through with their fury in dismantling Jerusalem and the temple, no stones were left in place that would make one believe there was once a city or a holy sanctuary in the area. So thorough was the ruin of the temple, and also of Jewish Jerusalem, that scholars cannot find any stone of the temple still in place in its original location. My conclusions show that the Bible and history reveal the wailing wall was not a wall of the temple, but is the western wall of Herod's fort Antonia."
-- Everybody in the world thinks that western wall was part of the temple. Christ said there would not be one stone left, and now Esau himself is revealing that wall was Herod's fortress. Diagram shown of the Temple Mount with fort Antonia: that is the wall that was left, not the temple; the temple was totally destroyed. Every year masses of people go to that wailing wall to pray at Herod's fort.
+<div class="reading">
+
+Reading from *The Temples That Jerusalem Forgot* by Ernest L. Martin  *[[2:29:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8942s)]*
+
+> As a matter of fact, when Jesus said the temple and the city of Jerusalem would be obliterated, his prophecies were accurate to a T. The historical records show that when the Romans got through with their fury in dismantling Jerusalem and the temple, no stones were left in place that would make one believe there was once a city or a holy sanctuary in the area.
+
+- Y'all see that? Not one stone was left.
+
+> So thorough was the ruin of the temple and also of Jewish Jerusalem that scholars cannot find any stone of the temple still in place in its original location on the Ophel mound, once a part of the southeast ridge of Jerusalem.
+
+> My conclusion … show that the Bible and history revealed the wailing wall was not a wall of the temple but is the western wall of Herod's fort and Antonia.
+
+- Do y'all see that right there? Everybody in the world think that western wall was a part of the temple. Christ said there wouldn't be one stone left. Now Esau's revealing that was Herod's fort. Herod built.
+
+- You see the temple mount right there. See that? Antonia's fortress. That's the wall that was left, not the temple. The temple was totally destroyed. So every year masses of people go to that wailing wall to pray, or they dive in, hump the wall. It was Herod's fortress.
+
+- That's called davening. It's a sexual thrust. It is. I ain't lying. That's not how he prayed in the scriptures at all. It's a sexual union between spirits. Y'all could look it up.
+
+</div>
 
 **[Revelation 11:1-2](/bible/revelation/11#v1)**  *[[2:31:42](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9102s)]*
 
@@ -697,7 +1026,17 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 - If so be ye have tasted that the Lord is gracious: if you know this word is true. To whom coming, as unto a living stone, disallowed indeed of men: rejected of men, the scribes and Pharisees; but chosen of God, and precious.
 - Ye also, as lively stones, are built up a spiritual house: that is the real temple right there; wherever our congregation is, that is a spiritual house. An holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Lively meaning the laws percolate within you, meaning have some kind of zeal and passion about yourself. We need men with fire when they teach; I do not have to speak the language to read a boring spirit on a screen.
 - Remember, Zerubbabel got to that position not just for his fighting skills; it said he was of noble character, understanding truth and moral discipline. We all should walk in the footsteps of Zerubbabel: not deceitful with one another, not envious, not hateful, not filled with guile.
-- Frederick Douglass said, it is easier to build strong children than to repair broken men. All of us come in broken, broken with sins. So in order for us to grow mentally and spiritually and improve our character: verse one, lay it all aside, then desire the sincere milk of the word.
+<div class="reading">
+
+Reading from a quote of Frederick Douglass · read by Captain Yuri  *[[2:41:31](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9691s)]*
+
+> The famous quote by Frederick Douglass actually says, "It is easier to build strong children than to repair broken men."
+
+- All of us come in broken. All of us. Most of us in the adult, 15 and up, you're entering the adult age. You're broken from what? Broken with sins.
+
+</div>
+
+- So in order for us to grow mentally and spiritually and improve our character: verse one, lay it all aside, then desire the sincere milk of the word.
 
   Precepts:
   - **[Ephesians 2:21-22](/bible/ephesians/2#v21)**
@@ -868,7 +1207,21 @@ Book read in class: Who Is Esau-Edom?, by Charles A. Weisman. Esau wrote this bo
 
     If a man be found lying with a woman married to an husband, then they shall both of them die: so shalt thou put away evil from Israel. At the sit down, the Christian pastors could not explain adultery.
 
-- Reading shown from a "swingers of color" site connecting black swingers in the lifestyle: this is adultery. True story told from one of our congregations: two couples switched partners for months before it came out; the brother who revealed it only revealed it because he was angry, not because a spirit told him to; and we had to put him out. He is on YouTube and TikTok now like an all knowing teacher, teaching everything we teach, but he is not going to reveal that he was that swinger brother.
+<div class="reading">
+
+Reading from an article, "Connecting with Swingers of Color" · read by Captain Yuri  *[[3:10:13](https://www.youtube.com/watch?v=FpEHxWGgai8&t=11413s)]*
+
+> Connecting with swingers of color. More than a few black swingers have told us that they sometimes feel alone in a crowd of people
+
+- This is adultery.
+
+> because no one else in the room has much melanin. How is it possible to be the only black person at a party when we know there are a lot of sexy people of color in the swinging lifestyle? Not finding other interracial couples? There is actually a very vibrant community of swingers of color with resources and special opportunities for you to enjoy. If you are looking to connect with other black swingers or even just hear how others navigate the lifestyle, we put together a list of resources to help.
+
+- Okay, take that off, in case some of y'all get any ideas.
+
+</div>
+
+- True story told from one of our congregations: two couples switched partners for months before it came out; the brother who revealed it only revealed it because he was angry, not because a spirit told him to; and we had to put him out. He is on YouTube and TikTok now like an all knowing teacher, teaching everything we teach, but he is not going to reveal that he was that swinger brother.
 - And against false swearers.
 
   Precepts:

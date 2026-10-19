@@ -27,14 +27,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
 ## In The News
 
-- The Nolan Wells case frames the whole class. As read in class: Nolan Xavier Wells, 2026, an eighteen year old college freshman who disappeared and was later found dead following a July 4th boat trip to Horn Island, Mississippi, with a group of white high school friends. The class set the case beside Zechariah 11:5, whose possessors slay them, and hold themselves not guilty: they kill us and lawyer up. We do not know what happened; get my mom, she is a judge.
-- A list was read in class of our people found dead after trusting themselves alone among white friends:
-- Tamla Horsford, 2018: a forty year old mother of five found dead in a backyard after an overnight birthday sleepover in Forsyth County, Georgia, where she was the only black attendee among a group of white friends.
-- Quawan Charles, 2020: a boy from Louisiana who went missing after leaving his home with a white friend and the friend's mother, and was later found dead in a nearby sugarcane field.
-- Alonzo Brooks, 2004: a young man who attended a large party with mostly white acquaintances in Kansas and never came home.
-- Peter Spencer, December 2021: a twenty nine year old Jamaican immigrant invited to a weekend getaway at a cabin in Venango County, Pennsylvania, by a white former coworker; found dead with multiple gunshot wounds, and they called it suicide.
-- Daniel Irvin, Texas: an eighteen year old honor student and swimmer who went to Lake Ray Hubbard near Dallas with white acquaintances and never returned home. His death was first looked at as an accidental drowning, but police later arrested two individuals for allegedly tampering with evidence, including hiding his clothes and deleting messages. That was in Bishop's class last week; same kid.
-- That is six people. We don't learn, man. We don't learn. We never learn.
+- The Nolan Wells case frames the whole class. The class set the case beside Zechariah 11:5, whose possessors slay them, and hold themselves not guilty: they kill us and lawyer up. We do not know what happened; get my mom, she is a judge.
 
 ## Scriptures Opened
 
@@ -525,7 +518,47 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[17](/bible/2-timothy/4#v17)</sup> Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
 
 - Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: all of us scattered abroad. And I was delivered out of the mouth of the lion.
-- Many Bibles carry the margin note on this verse: the lion is Caesar Nero. Commentary read in class: scholars take the lion of 2 Timothy 4:17 as Nero and the Roman authorities who held the power of life and death, or as Satan, echoing 1 Peter 5:8. The class taught it is the same picture: Paul called the Roman power the lion, and the scriptures call the lion the devil.
+
+<div class="reading">
+
+Reading from a margin note in the Bible at 2 Timothy 4:17  *[[1:48:35](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6515s)]*
+
+> Caesar Nero or the emperor Nero.
+
+- What did Paul call Nero? The lion. What did the Bible call lion? The devil. Same thing.
+
+</div>
+
+<div class="reading">
+
+Reading from a commentary on the lion of 2 Timothy 4:17  *[[1:48:52](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6532s)]*
+
+> In 2 Timothy 4:17, when the Apostle Paul writes that he was delivered out of the mouth of the lion, biblical scholars and commentators generally believe he was referring metaphorically to Emperor Nero,
+
+- That's what our Bibles have.
+
+> the Roman authorities/judges before whom he had his first hearing,
+
+- The lion is the Roman authorities.
+
+- And remember, our people were in alignment with that, so that's on them too.
+
+> or Satan as a figurative or spiritual adversary.
+
+- Which is still going back to Esau, Rome. Same thing.
+
+> He does not name a specific individual as a literal lion.
+>
+> Interpretations of the lion. Emperor Nero: many early church fathers and commentators believe Paul used the lion as a fierce title for Nero or his local Roman magistrates who held the power of life and death.
+>
+> Satan/the devil: some view it as a spiritual reference to the devil, echoing passages like First Peter 5 and 8, describing the adversary as a roaring lion.
+>
+> Extreme persecution: others view it simply as a general metaphor for surviving an imminent terrifying death sentence or trial.
+
+- Yeah. From the white man. It's a white man. It's the devil. Paul's calling him the devil. That's what he's doing.
+
+</div>
+
 
 **[Psalms 22:20-21](/bible/psalms/22#v20)**  *[[1:50:10](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=6610s)]*
 
@@ -587,13 +620,195 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 > <sup>[11](/bible/sirach/12#v11)</sup> Though he humble himself, and go crouching, yet take good heed and beware of him, and thou shalt be unto him as if thou hadst wiped a lookingglass, and thou shalt know that his rust hath not been altogether wiped away.
 
 - Never trust thine enemy: for like as iron rusteth, so is his wickedness. As he was in the beginning, so is he now; he hides the rust for a season, but rust always comes back up through the surface, in any sword, over time.
-- James Byrd made that mistake and trusted a truck full of white men. Nolan Wells trusted a boat full of white high school friends. The list read in class, from Tamla Horsford to Peter Spencer to Daniel Irvin, is what this verse looks like when it is ignored. The scriptures already gave us the wisdom; the class charge is that we never learn it.
-- Book read in class, Columbus's journal remarks: in his October 14, 1492 entry Columbus wrote that the indigenous people he encountered lacked modern weapons and could easily be subjugated; they did not bear arms, were unfamiliar with them, cutting themselves on swords out of ignorance, and had no iron. He famously wrote that with fifty men they could all be subjugated and made to do what is required of them: which is what? Slavery. That was his first calculation on arrival.
-- Book read in class, The Conquest of America (page 22): the interpretation of nature's signs as practiced by Columbus is determined by the result that must be arrived at. He does not discover America; he finds it where he knew it would be. And how did he know? He had read Toscanelli, and the prophecies of Esdras: 2 Esdras places the ten tribes across the water. He knew exactly who he was going to find here, and he came to enslave them.
-- Book read in class, Sails of Hope: to what extent Columbus hoped that Jewish people would be found there was a concern he locked away in the innermost recesses of his soul; but among his contemporaries the belief was slow to die, and the first voyagers and colonists looked for whatever signs might link the Indians with the ten lost tribes of Israel. When the Spaniards conquered Peru they were again disposed to look for evidence that the Peruvians were of Jewish origin. In 1607 Gregorio Garcia expressed the view that the first inhabitants of the Americas had been Jewish; in 1650 the same opinion was put forward in England; Menasseh Ben Israel, the Portuguese rabbi who persuaded Cromwell to readmit the Jews to England, shared the conviction; and Montezinos, under the name Aaron Levi, reported that in South America he had associated with Jews of the ten tribes of Israel. Scholars noted the parallels between the Indians and the ancient Hebrews: belief in a life after death, the organization of the priesthood, prophecies and dream interpretation, religious sacrifices, and the appointment of a day of rest, a Sabbath.
-- Also from the reading: the greatest auto da fe in the new world was staged in Lima, Peru, on January 23, 1639: they burned people alive under the Inquisition. The Indians were regarded as subhuman; they were held to have no property rights at all; their land, their possessions, and their women belonged to the Spanish conquerors; and new instruments of torture unknown in Spain were devised and tried out on the Indians. If they proved refractory, they were slaughtered.
-- Columbus owned the travels of Marco Polo and had read it with great care, and he studied Esdras; Vasco da Gama sailed around the Cape of Good Hope to India; both were familiar with the reports about Jews in India. Wherever the Israelites are found, the wealth is found: remember the blessing, the dew of heaven and the fatness of the earth.
-- Luis de Torres: Columbus's interpreter spoke Aramaic, Arabic, Chaldee, and Hebrew, and Columbus sent him with Rodrigo de Xeres on shore to communicate with the natives; so after the landfall in America, the first words addressed to the natives were words of Hebrew. Ask yourself why you bring a Hebrew speaker to meet the people you claim you think are in India.
+- James Byrd made that mistake. Trusted a car full of white folks and they dragged him to his death. Three miles. Then his head and arm come off and they drag him a mile and a half longer. Four and a half miles of being dragged to your death. You know how painful that is? You take your hand and rub it across the carpet fast. That burns. Imagine a street. Trying to hold his head up, trying to survive, his legs burn, his skin being torn off piece by piece. And you forgive that? Y'all is crazy, bro. Crazy. I'm sorry. Y'all crazy, man.
+
+<div class="reading">
+
+Reading from a list of black deaths and white friends  *[[2:02:41](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7361s)]*
+
+> Several prominent and thoroughly scrutinized cases.
+>
+> Nolan Xavier Wells, 2026. An 18-year-old college freshman who disappeared and was later found dead following a July 4th boat trip to Horn Island, Mississippi with a group of white high school friends.
+>
+> Tamla Horsford, 2018. A 40-year-old mother of five who was found dead in a backyard after attending an overnight birthday sleepover where she was the only black attendee among a group of white friends in Forsyth County, Georgia.
+
+- Why they the only there? Why? Why? For what? That's a grown up summer party. You grown. She's face down in the backyard. We don't know what happened. Amber, what happened, Amber? I don't know. Kimberly, what say you, Kelly? I don't know.
+
+> Quawan Charles, 2020. A 50-year-old from Louisiana who went missing after leaving his home with a white friend and his friend's mother and was later found dead in a nearby sugarcane field.
+
+- Wow.
+
+> Alonzo Brooks, 2004. A 20-year-old who attended a large party with mostly white acquaintances in Lamar, Kansas.
+
+- You don't learn, man. You don't learn.
+
+> Peter Spencer, Pennsylvania, December 2021.
+
+- This is 5 years ago.
+
+> A 29-year-old Jamaican immigrant was invited to a weekend getaway at a cabin in Venango County by a white former coworker.
+
+- I remember this.
+
+> He was found dead at a cabin with multiple gunshot wounds. The other individuals at the cabin were white. The case sparked outrage.
+
+- I think they were saying he committed suicide. So, he just took a gun out, bow bow. That's what he did. Executed himself. Shot himself multiple times. Suicide. That's what we do. That's how you do it.
+
+> Daniel Irvin, Texas, an 18-year-old honor student and swimmer, went to Lake Ray Hubbard near Dallas with white acquaintances and never returned home. His death was initially looked at as an accidental drowning, but police later arrested two individuals for allegedly tampering with evidence, including hiding his clothes and deleting messages.
+
+- … class last week. Same kid. That's the last Bishop's class last week. He mentioned that joint.
+
+- So, this is like what's that? Six people. Six. We don't learn, man. We don't learn. We never learn, man.
+
+</div>
+
+<div class="reading">
+
+Reading from Columbus's journal remarks  *[[2:05:52](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7552s)]*
+
+> Christopher Columbus wrote in his October 14th, 1492 journal entry that the indigenous people he encountered lacked modern weapons and could easily be subjugated
+
+- Could easily be enslaved. This is his initial thought, Columbus, in his journal. They can be what? Subjugated. We could be easily enslaved.
+
+> with a small force.
+>
+> Journal observations, October 14th, 1492. He noted that the island inhabitants did not bear arms and were unfamiliar with them, cutting themselves on swords out of ignorance.
+
+- They grabbed the swords by the edges. They didn't know what it was. Use arrows, daggers.
+
+> He observed that they had no iron and used simple cane spears. He famously wrote, with 50 men
+
+- Well, he calculated in his mind, with 50 men.
+
+> we could subjugate them and make them do whatever we want, or as translated elsewhere, with 50 men they can all be subjugated and made to do what is required of them.
+
+- Which is what? Slavery.
+
+</div>
+
+<div class="reading">
+
+Reading from *Conquest of America*, page 22  *[[2:07:56](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7676s)]*
+
+> The interpretation of nature's signs as practiced by Columbus is determined by the result that must be arrived at. His very exploit,
+
+- This is Columbus's very exploit.
+
+> the discovery of America proceeds from the same behavior. He does not discover it. He finds it where he knew it would be,
+
+- He finds the land where he knew it would be.
+
+> where he thought the eastern coast of Asia was to be found. He had always thought in his inmost heart, Las Casas reports, whatever the reason for this opinion, it was by reading … and the prophecies of Esdras.
+
+- What did he read? The prophecies of Esdras. In his journal, he was reading the prophecies of Esdras. What's in Esdras? Arsareth, the ten tribes of Israel being on this side of the world. He knew exactly who he was going to find here, and to enslave them.
+
+- Showing that Columbus knew who he was going to encounter. Whether he believed there was Asia or not, I don't believe it. But even so, his mission was to find God's people. Remember what the blessing was? Where you find our people is the dew of heaven and resources.
+
+</div>
+
+<div class="reading">
+
+Reading from *Sails of Hope*  *[[2:09:26](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7766s)]*
+
+> The greatest auto-da-fé in the New World was staged in Lima,
+
+- Auto means act of faith. That means a burning. They would burn us alive.
+
+> Lima, Peru on January 23rd, 1639.
+
+- So they would burn the Native Americans alive under the Inquisition.
+
+> They regarded the Indians as subhuman,
+
+- Sound familiar? That was us, too. Three-fifths of a man. As subhuman.
+
+> upon whom they were conferring a blessing by converting them to Christianity. If they prove …, they were slaughtered.
+
+- They fought against it. They killed us.
+
+> The Indians were regarded as having no property rights at all. Their land, their possessions, and their women belong to the Spanish conquerors.
+
+> The point was that everything should follow the pattern used back home in Spain. The inventive spirit of the torturer celebrated triumphs in the Indies. Also, new instruments of torture
+
+- They tortured us.
+
+> … unknown in Spain were devised and tried out on the Indians.
+
+- And tortured Native Americans. Took our land.
+
+</div>
+
+<div class="reading">
+
+Reading from *Sails of Hope*, pages 216-217  *[[2:11:17](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=7877s)]*
+
+> To what extent he hoped that Jewish people would be found there is of course not known. This was a concern he locked away in the innermost recesses of his soul.
+
+- So it says Columbus believed that the islands that would be reached were close to India. Then to what extent he hoped that Jewish people would be found there. Why? Because he read what? Esdras, in his journal. So you hear dumb black people say, oh, the Israelites are wrong. The Native Americans are not Israelites according to genetics. We don't care what you think. You're black and stop talking to us. Okay? He knew in Esdras that Israelites are over here.
+
+- That's why we can't talk to dumb black people. We just teach. We teach, you learn, we speak, you shut up.
+
+> But among his contemporaries, the belief was slow to die. And since the first voyagers and colonists carried this notion with them, it is not surprising that they regard the natives from this angle and look for whatever sign they might link the Indians with the ten lost tribes of Israel.
+
+- Letting you know who he knew he was coming here for, by reading the prophecy of Esdras.
+
+> When the Spaniards reached the mainland of South America and conquered the kingdom of Peru,
+
+- They conquered the Incas.
+
+> they were again disposed to look for evidence that the Peruvians were of Jewish origin.
+
+- Why? Because he read Esdras.
+
+> In 1607, Gregorio García expressed the view that the first inhabitants of the Americas had been Jewish. In 1650, the same opinion was put forward by the Englishman Thomas …. Menasseh ben Israel, a Portuguese rabbi who lived in Amsterdam and was responsible for persuading Cromwell to readmit the Jews to England, also shared his conviction.
+>
+> … Montezinos … and then assumed the name of Aaron Levi, that in South America he had associated with Jews who belonged to the ten tribes of Israel.
+>
+> Scholars now began to approach the problem from a scientific point of view, drawing upon the old accounts of the first voyages, explorers, and missionaries. They noted many parallels in basic religious tenets, including a belief in a life after death, in religious customs, in the organization of the priesthood, in prophecies and dream interpretations, in religious sacrifices, and in appointment of a day of rest, a Sabbath. Similar features could also be found in the midst of the Indians in the ancient Hebrews.
+
+</div>
+
+<div class="reading">
+
+Reading from *Sails of Hope*  *[[2:14:21](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8061s)]*
+
+> As we have mentioned before, Columbus owned the travels of Marco Polo and had read it with great care, intensity.
+
+- So he read Marco Polo's travels and he studied Esdras.
+
+> Vasco da Gama found the way to India around the Cape of Good Hope.
+
+- So he sailed around Africa, around South Africa, to go to India.
+
+> We can assume that Columbus and Vasco da Gama familiar with the reports about Jews in India.
+
+- So that's why he went to India. He went because he know wherever Israelites are found, wealth is found.
+
+- It mentions the first language of the Jews was Hebrew.
+
+> Some have inferred that the interpreter would be the first to go on land in order to communicate with the natives.
+
+- So Columbus had an interpreter on a ship named Luis de Torres. And Luis de Torres spoke Aramaic, Arabic, Chaldean, and Hebrew.
+
+> We also read in Columbus's journal that as the ships approach shore, … natives poured onto the beach. Columbus first mentions Torres when he speaks of sending an interpreter to talk with the chief of the natives.
+
+- He sent this interpreter to speak to the natives.
+
+> Remember in Marco Polo's narrative,
+
+- His book. Remember, Marco Polo and them had records of the Jews being in different parts of the world.
+
+> Columbus calls this chief the Great Khan. At any rate, it is known that Torres was among the first of the Europeans to settle in America. If the discovery of lands ruled by Jews was the common aim of Columbus and of the Jews and the conversos who had supported his voyage with their money and influence, the person of the interpreter would provide a key piece in the puzzle.
+
+> We do know, however, that Columbus sent them together with Rodrigo de Xeres on shore to communicate with the natives.
+
+- He sent Luis de Torres along with Rodrigo de Xeres. These are conversos. On shore to do what?
+
+> And so we can conclude that after the landfall in America, the first words addressed to the natives were words of Hebrew.
+
+- So Native Americans were Israelites. You don't need you black people telling us what we don't know or we do know. Know what we're talking about. Let's be quiet. You're dumb.
+
+</div>
 
 **[Ezekiel 35:5-11](/bible/ezekiel/35#v5)**  *[[2:17:10](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8230s)]*
 
@@ -612,7 +827,23 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 - Therefore, as I live, saith the Lord God, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee. I will kill you the way you killed others. I will make thee perpetual desolations, and thy cities shall not return: perpetual hatred answered with perpetual desolation.
 - Because thou hast said, these two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there. In the old time that was Judah and Samaria; brought forward, it is the land of Israel and the Americas: I will be a Jew in Israel and a Christian in America, possessing the people and the lands where the Lord's people are. The class connected this to Columbus, to the Balfour Declaration, and to the edicts Dum Diversas and Inter Caetera issued under Rodrigo Borgia for the crown, authorizing the enslavement of the peoples on this side of the world.
 - I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them. Where is the envy from? God did not choose them. The hatred runs from Cain and Abel all the way to now; and what God hath made crooked, no man can make straight.
-- Book read in class, Wars of the Jews (page 195): Queen Kahina, an Israelite queen, was resisting the Arab conquest of Africa; the historians write that the Muslims would have it, largely due to the peculiar Jewish weakness of compassion for the enemy. The historians themselves call our compassion for the enemy a peculiar Jewish weakness. Compassion without remembrance is how we keep being destroyed; that is what happened with James Byrd, and that is what happened with Nolan Wells: our people keep turning a blind eye to evil and extending trust where the scriptures say beware.
+
+<div class="reading">
+
+Reading from *Wars of the Jews*, page 195  *[[2:20:07](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8407s)]*
+
+> But the Muslims would have it, and largely due to the peculiar Jewish weakness of compassion for the enemy.
+
+- I want you to read this. This is what happened with James Byrd. This is what happened with Nolan Wells. That sister and many of our people that turn the blind eye to evil.
+
+- Now, at this point in time, we're going to war with the Arabs. They're taking over Africa and we're giving them resistance. And the sister right here, her name was Queen Kahina. She was an Israelite queen, and she was fighting against the Arabs' colonization.
+
+- The compassion for the enemy. It says the Muslims would have it, or gain rulership over Africa, due to the peculiar Jewish weakness of compassion for the enemy. Forgive, forgive, love, love, forgive. I don't see color. The historians call it a peculiar Israelite weakness.
+
+- That's how we always get destroyed and hung and killed and lynched and castrated and raped and murdered, because we have a peculiar Jewish compassion, which is a weakness. This is insane, man.
+
+</div>
+
 - Video read in class, Sam Hose, 1899, Newnan, Georgia: the local newspaper announced the lynching in advance, and special trains from Atlanta offered discounted tickets. Two thousand white men, women, and children watched as his ears and fingers were cut off one by one and he was burned alive, and afterward pieces of his bones and organs were sold as souvenirs. Between 1877 and 1950 over four thousand black people were lynched in America, most as advertised public spectacles printed into postcards and mailed with notes. In 1916, fifteen thousand people gathered in Waco, Texas, to watch seventeen year old Jesse Washington burned alive, with the mayor and the chief of police present. A federal anti lynching bill failed some two hundred times between 1882 and 1968; the Emmett Till Antilynching Act was finally signed on March 29, 2022; and not one person was ever prosecuted for a lynching. Not one.
 
 **[Matthew 11:12](/bible/matthew/11#v12)**  *[[2:24:43](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=8683s)]*
