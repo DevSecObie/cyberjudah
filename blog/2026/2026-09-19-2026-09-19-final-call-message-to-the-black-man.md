@@ -99,69 +99,83 @@ But y'all saw the works that Malcolm X, that the Muslims was putting in the stre
 
 - We have to go into the roots of the Islamic religion. And guess what? When you look into the roots of Islam, we were slaves. So that cannot be our religion when in the roots of that religion we were forced to worship Allah. So now read this. Soldier Asael, we're going to give Asael a little break. Let him get his compass together.
 
-*[[24:28](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1468s)]* Reading from *Slavery in the Arab World* by Murray Gordon, the attitude of Islam towards slavery.
+<div class="reading">
 
-> Pre-Islamic Arabia and Egypt were terminal points of a well-traveled slave trade circuit.
+Reading from *Slavery in the Arab World* by Murray Gordon, "The Attitude of Islam towards Slavery"  *[[24:28](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1468s)]*
 
-- So who were the slaves, brothers? We were. Come on.
+> Pre-Islamic Arabia and Egypt were terminal points of well-traveled slave trade circuit.
+
+- So who were the slaves, brothers? We were.
 
 > Some of the most important of which originated in the Sudan and Somalia. The Bilad as-Sudan.
 
-- Now Reuben's mad at you because you didn't pronounce it the right way. Remember, he's a former Muslim. So you know how they pronounce their words. Keep reading.
+- Now Reuben's mad at you because you didn't pronounce it the right way. Remember, he's a former Muslim. So you know how they pronounce their words.
 
-> The land of the blacks had from time immemorial attracted slave raiders who found a ready demand for their captives in nearby Egypt.
+> The land of the blacks had for time and memorial attracted slave raiders who found a ready demand for their captives in nearby Egypt.
 
-- So guess what? Islam, when you look into the history, had us as slaves. Just like Esau, just like the white men, the Arabs did the same thing. Next page.
+- So guess what? Islam, when you look into the history, had us as slaves. Just like Esau, just like the white men, the Arabs did the same thing.
 
 > Ethiopia, another rich catchment area for slaves.
 
-- Who are the slaves, brothers? Come on.
+- Who are the slaves, brothers?
 
 > Habashas, the name given to the Ethiopians by the Arabs, filled the slave marts of Mecca.
 
-- Reuben, don't get upset. Read. So Mecca was a large slave port. Mecca. Mecca was a large slave port. Come on, read the part where it says Muhammad.
+- Reuben, don't get upset. So Mecca was a large slave port. Mecca. Mecca was a large slave port.
 
 > Muhammad, who accepted the existing sociopolitical order, looked upon slavery as part of the natural order of things.
 
-- So according to Muhammad, the natural order of things was to have us as slaves. Next page.
+- So according to Muhammad, the natural order of things was to have us as slaves.
 
-*[[26:18](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1578s)]* Reading from *The History of the Jews from the Destruction of Jerusalem to the Present Time*.
+</div>
 
-> 609 AD. Muhammad, the famous Arabian impostor, appeared in the early part of the seventh century, and established a new religion.
+<div class="reading">
 
-- A what? A new religion. What did we read in Deuteronomy 32:16? That it would be new gods. Gods whom we knew not, to gods that came newly up. Islam is a new religion. Read.
+Reading from *The History of the Jews from the Destruction of Jerusalem to the Present Time*  *[[26:18](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=1578s)]*
 
-> Which by force of arms made a rapid progress in the world.
+> 609 AD. Muhammad, the famous Arabian impostor, appeared in the early part of the 7th century, and established a new religion.
 
-- Which by what? Force of arms. It wasn't no voting. It wasn't a choice. We were forced to become Muslims. Read.
+- A what? A new religion. What did we read in Deuteronomy 32:16? That it would be new gods. Gods whom we knew not, to gods that came newly up. Islam is a new religion.
 
+> Which by force of arms
+
+- Which by what? Force of arms. It wasn't no voting. It wasn't a choice. We were forced to become Muslims.
+
+> made a rapid progress in the world.
+>
 > Many of the Jews, after the destruction of their country, had fled to Arabia.
 
-- When it says many of the Jews, after destruction of their country, what happened, brothers? What happened? 70 AD. A lot of us ran into Africa. Guess what? A lot of us ran into Arabia. Everybody didn't just go into Africa. A lot of us went into Arabia. So you had a large group that said, "Listen, we're going to listen to what Christ said. We going to Africa." You had another group that said, "We're going to go into Arabia." Come on. Next paragraph.
+- When it says many of the Jews, after destruction of their country, what happened, brothers? What happened? 70 AD. A lot of us ran into Africa. Guess what? A lot of us ran into Arabia. Everybody didn't just go into Africa. A lot of us went into Arabia. So you had a large group that said, "Listen, we're going to listen to what Christ said. We going to Africa." You had another group that said, "We're going to go into Arabia."
 
-> Their number and respectability induced Muhammad at first to treat them with great attention. He ordered his followers, when they prayed, to turn towards the temple of Jerusalem, and adopted many of their opinions and customs.
+> Their number and respectability induced Muhammad at first to treat them with great attention. He ordered his followers, when they prayed, to turn towards the temple of Jerusalem,
 
-- What did Muhammad tell them to do? Ordered his followers, when they prayed, to turn towards the temple of Jerusalem. Watch this. And adopted many of their opinions and customs.
+- What did Muhammad tell them to do? Ordered his followers, when they prayed, to turn towards the temple of Jerusalem.
+
+> and adopted many of their opinions and customs,
 
 - This is why we see similarities between Israelites and the Nation of Islam. Muslims, they face Mecca. We face Jerusalem. They pray multiple times a day. We pray three times a day. You'll see they don't eat pork. We don't eat pork. Why? Muhammad copied the Israelites. He copied what he saw the Israelites doing. This is the history our brother Malcolm X did not cover. Elijah Muhammad did not cover. All praise to the Most High. He has given us the understanding to bring this knowledge out.
 
-- So what I want y'all to see is, our brother Malcolm X, Louis Farrakhan, they played their part. We needed them to do that. You understand? The Lord used them to shake this system up. Guess what? To make it easier for the Israelites to do our job. You understand? So I'm going to show you the connection, how the Lord used Malcolm X, used MLK, used Farrakhan, and now, it only used them to make our job easier. Watch this. Read.
+- So what I want y'all to see is, our brother Malcolm X, Louis Farrakhan, they played their part. We needed them to do that. You understand? The Lord used them to shake this system up. Guess what? To make it easier for the Israelites to do our job. You understand? So I'm going to show you the connection, how the Lord used Malcolm X, used MLK, used Farrakhan, and now, it only used them to make our job easier. Watch this. In order to what?
 
-> In order to engage them in his interest. The Arabian writers assert that this nation sent twelve of their doctors to assist him in compiling the Quran.
+> in order to engage them in his interest.
+>
+> The Arabian writers assert that this nation sent twelve of their doctors to assist him in compiling the Quran.
 
-- Wait, wait, wait, wait. Read that again. What did Muhammad do? What? The Arabian writers assert that this nation. This nation. Which nation is that talking about? The Israelites. This nation, the Israelites. Remember, we fled to Arabia. Watch this. Read. Sent twelve of their doctors to assist him in compiling. Sent twelve of their doctors. These are doctors. These are Jews. To assist Muhammad in compiling the Quran. Read that paragraph again.
+- Wait, wait, wait, wait. Read that again. What did Muhammad do? What? The Arabian writers assert that this nation. This nation, which nation is that talking about? The Israelites. This nation, the Israelites. Remember, we fled to Arabia. Sent twelve of their doctors, these are doctors, these are Jews, to assist Muhammad in compiling the Quran. Read that paragraph again.
 
-- So the Arabian writers assert, read, that this nation, which nation? The nation that fled from Jerusalem to come into Arabia. Read. Sent twelve of their doctors. They're doctors. They are doctors. Talking about Hebrews, Jews that fled from Jerusalem into Arabia. Read. To assist him. Who's the him? Muhammad. Read. In compiling the Quran. So our own people helped him compile the Quran. Read the next part.
+- So the Arabian writers assert, that this nation, which nation? The nation that fled from Jerusalem to come into Arabia. Sent twelve of their doctors. They're doctors. They are doctors. Talking about Hebrews, Jews that fled from Jerusalem into Arabia. To assist him. Who's the him? Muhammad. So our own people helped him compile the Quran.
 
-> In his Quran he reproaches them with betraying and murdering the prophets, and styles them a people justly cursed of God for their violation of his Sabbath and laws, for their treatment of Jesus Christ.
+> In his Quran he reproaches them with betraying and murdering the prophets,
 
-- Did our people murder the prophets? They did. They murdered the prophets. You read that all throughout the scriptures. Come on. Next part. I need you to read fast, so we got a lot to cover. There's another page. Go ahead.
+- Did our people murder the prophets? They did. They murdered the prophets. You read that all throughout the scriptures.
 
-- So now this goes back into what happened with our people during slavery. Watch this. I want to show you what it's going to say about our people as slaves. Read this.
+> and styles them a people justly cursed of God for their violation of his Sabbath and laws, for their treatment of Jesus Christ.
+
+- Next part. I need you to read fast, so we got a lot to cover. There's another page. So now this goes back into what happened with our people during slavery. Watch this. I want to show you what it's going to say about our people as slaves.
 
 > And decades after the last slave ship sailed westward to the Americas and the West Indies, where slavery had been abolished by the early 1870s, Arab dhows were furtively moving out of Zanzibar, Mombasa, and other East African ports.
 
-- Zanzibar, this is East Africa. Come on. Mombasa, that's Kenya. This is East Africa. Watch this.
+- This is East Africa. Mombasa, that's Kenya. This is East Africa.
 
 - Now remember, in our school system, all of us, most of us, everybody here from New York, we learned about slavery coming out of West Africa. The New York public school system don't really cover East Africa. They don't. We didn't learn that. We did not learn that. What did you learn? To Kill a Mockingbird. Of Mice and Men by John Steinbeck. Catcher in the Rye. I was with a coworker. He young. He's 20, fresh out of school. I was like, "Do they still teach Of Mice and Men?" He was like, "Yeah, that was a great book." I was like, "Do you see how the public school system, they don't change? It's based on white supremacy." You understand?
 
@@ -169,31 +183,37 @@ But y'all saw the works that Malcolm X, that the Muslims was putting in the stre
 
 - What was that quote, Bishop gave? When you send your children to Caesar, don't be surprised if they come back as Romans. I love that quote. That was a heavy quote. That's why it's important for us to get our children out of the school system. Get them into Jacob's Hope Academy. Shout out to Captain Joe with Jacob's Hope Academy. Let's give a round of applause for that. Jacob's Hope Academy is growing because now it's our schools, our own school teachers, sisters, brothers, that are teaching our children the right way, that are teaching our children to have pride and believe in, they're an Israelite. But if you send them to the school system, don't be surprised when they come back LGBT supporters. Don't be surprised if they come back touched. Why? Because you got other knucklehead kids that are not learning the Israelites. You don't know what their parents are teaching them.
 
-- So you're putting in all this effort to raise your child. Now you got to go to work. You got to get money to pay the bills. But when your child goes to school, he's surrounded. He's in a cesspool of other kids that have no value of their culture. You understand? That's why if you have the power, take your child out the school system and homeschool them. You understand? So now, back to this. Read this.
+- So you're putting in all this effort to raise your child. Now you got to go to work. You got to get money to pay the bills. But when your child goes to school, he's surrounded. He's in a cesspool of other kids that have no value of their culture. You understand? That's why if you have the power, take your child out the school system and homeschool them. You understand? So now, back to this.
 
-> Following the familiar Indian Ocean routes for the consignment of ebony, the masters of these fast lateen-rigged ships, which were methodically packed in sardine-like fashion with men, women, and children, maneuvered skillfully in evading the small force of British sloops.
+> Following the familiar Indian Ocean routes for the consignment of ebony, the masters of these fast lateen-rigged ships, which were methodically packed in sardine-like fashion with men, women, and children, maneuvered skillfully and evading the small force of British sloops.
 
 - What's heavy about that is because when we went to Kenya, Captain Ben Zion, shout out to Captain Ben Zion, when we were there with Bishop, Deacon Malachi, I think Deacon Malachi was there, we were there, and when we went to Mombasa, what's interesting is we learned about the role that the Arabs played in slavery. This was at Fort Jesus. They gave us a tour. It was the same thing, the door of no return. So in Ghana, you got Elmina Castle. You had the door of no return. But this is the Portuguese. This is Esau, right? But in Kenya, this is the Arabs.
 
 - That's why it's important for us to continue to travel, because when we visit these locations, we learn about the impact of Deuteronomy 28. Y'all understand? This is why it's important. All right. So now, next book. I got to skip that because of time.
 
-*[[36:17](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2177s)]* Reading from *From Babylon to Timbuktu*, about Islam and Judaism. So we saw in the other book, Arab writers wrote that, guess what, Muhammad copied what he saw with Judaism, with the Jews. This author did the same thing. He's going to talk about it. Read this.
+</div>
 
-> The prophet Muhammad adopted many principles and laws from the Jewish religion. First of all, the basic idea of monotheism, which is the belief in one God. The Jewish confession of the unity of God is Adonai Eloheinu Adonai Echad. Hear, O Israel, the Lord our God, the Lord is one.
+- Okay. This is From Babylon to Timbuktu, about Islam and Judaism. So we saw in the other book, Arab writers wrote that, guess what, Muhammad copied what he saw with Judaism, with the Jews. This author did the same thing. He's going to talk about it.
 
-- Watch this now. The Mohammedan slogan is as follows. Reuben, do not get upset. Go ahead.
+<div class="reading">
 
-> The Mohammedan slogan is as follows: La ilaha illa Allah, Muhammad Rasul Allah.
+Reading from *From Babylon to Timbuktu*, on Islam and Judaism  *[[36:17](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2177s)]*
 
-- You know how they talk. If Reuben was up here with us, he would be able to do it. He was a devout Muslim. All right. But all praise, Reuben came in and he came into the shoot. So all praise to the Most High. Reuben made it. Reuben made it. So it says Muhammad what? Adopted.
+> The prophet Muhammad adopted many principles and laws from the Jewish religion. First of all, the basic idea of monotheism, which is the belief in one God. The Jewish confession of the unity of God is Adonai Eloheinu Adonai … Hear, O Israel, the Lord our God, the Lord is one.
+>
+> The Mohammedan slogan is as follows: … illa Allah, Muhammad Rasul Allah.
+
+- Reuben, do not get upset. You know how they talk. If Reuben was up here with us, he would be able to do it. He was a devout Muslim. All right. But all praise, Reuben came in and he came into the shoot. So all praise to the Most High. Reuben made it. Reuben made it. So it says Muhammad what? Adopted.
 
 > Muhammad adopted also the main details of the Jewish calendar: the Day of Atonement, the Sabbath, much of the Bible and narratives from the Midrash, and many points of the ritual law. Incidentally, the Jews pray three times a day facing the city of Jerusalem, and the Muslims, true believers, pray five times a day facing the city of Mecca.
 
-- You see the similarities. Now, you got to remember Malcolm X thought this was the religion for our people. So one thing Malcolm X understood: do not follow the white man. Anything coming from him, he's not gonna save our people. But he thought this was the way. That's what he thought. Watch this. Read.
+- You see the similarities. Now, you got to remember Malcolm X thought this was the religion for our people. So one thing Malcolm X understood: do not follow the white man. Anything coming from him, he's not gonna save our people. But he thought this was the way. That's what he thought.
 
 > Trying his best, Muhammad sought to convert the Jews to his new religion.
 
 - So now we're going to end it there because of time's sake. Next book. No, I don't need that. We're going to skip that.
+
+</div>
 
 - *[[38:03](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=2283s)]* So now, you got some of those pictures, right, with the Arab slave trade, right? Get it ready. I'll show that later. Get me Deuteronomy chapter 28. No, play that video. Play that video where it says the invasion, because remember, the Arabs took over Africa from 639 AD to 709 AD. So that's the seventh and the eighth century. Play that video. It's a short. Y'all see it? It's right after, it has an Arab face. He looks like a Saudi Arabian. How Arabs Invaded North Africa. Play that short. It's the only short thumbnail that has an Arab face on it. He has that head tie that the Saudi Arabians be wearing. All right. Do me a favor. Get Deuteronomy chapter 28:36.
 
@@ -353,21 +373,33 @@ So at one point now, to go back to Malcolm, there has always been a war with bla
 
 *[[1:11:10](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4270s)]* So Bishop said, "You should read Malcolm X's book." I read it. I said, "Wow, this book is excellent." So now let's show pictures of Malcolm X. So Malcolm X was in prison, right, from 46 to 52. He learned Islam. Show the pictures on the screen. He learned Islam while in prison. Malcolm X put in a lot of work. Lot of work. Go ahead. This is him meeting with world leaders. I forgot who it was. Saudi Arabia, right? That's Malcolm X with Elijah Muhammad. How many of you all were alive when Malcolm X was alive? Raise your hand. Brothers and sisters. Wow, that's a good amount. How many of y'all remember some of Malcolm X's speeches? Y'all were old enough to remember his speeches. Wow. Wow. Look at that. So let's give a round of applause to those that see the transition of what Malcolm X was doing and what IUIC is doing today. Y'all have seen the transition. Go ahead. Show some more pictures. Look at the sisters in the back. You got to think about it. Our people at this time, they really thought this was the way. Go ahead. Next picture. There's no God but Allah. Next picture. Malcolm X with Elijah Muhammad.
 
-*[[1:12:31](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4351s)]* Hold on. I want to make sure I'm showing, what's the next link I have? We're going to do this right. So you got Malcolm X, right? Do me a favor. Play the video with Malcolm X, racial explosion. Can we play this without anything that's going to happen? Okay, just play some of it. "...in America was truly an American citizen. We wouldn't have a racial problem if the Emancipation..." So y'all remember this scene? Got it. Okay. Too risky. Okay. Got it. So y'all remember that scene from Malcolm X? All right. Do me a favor. Give me the two snapshots from his book. I love this part in the book. Let's read a part of the book. This is The Autobiography of Malcolm X. Now, Malcolm X made Islam extremely popular. The Lord blessed him with the gift of oratory. He was a great orator. Read this.
+*[[1:12:31](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4351s)]* Hold on. I want to make sure I'm showing, what's the next link I have? We're going to do this right. So you got Malcolm X, right? Do me a favor. Play the video with Malcolm X, racial explosion. Can we play this without anything that's going to happen? Okay, just play some of it. "...in America was truly an American citizen. We wouldn't have a racial problem if the Emancipation..." So y'all remember this scene? Got it. Okay. Too risky. Okay. Got it. So y'all remember that scene from Malcolm X? All right. Do me a favor. Give me the two snapshots from his book. I love this part in the book. Let's read a part of the book. This is The Autobiography of Malcolm X. Now, Malcolm X made Islam extremely popular. The Lord blessed him with the gift of oratory. He was a great orator.
 
-*[[1:13:46](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4426s)]* Reading from *The Autobiography of Malcolm X*:
+<div class="reading">
 
-> I thought it was outrageous that our small temple still had some empty seats. I said to my brother Wilfred that there should be no empty seats, with the surrounding streets full of our brainwashed black brothers and sisters, drinking, cursing, fighting, dancing, carousing, and using dope, the very things that Mr. Muhammad taught were helping the black man to stay under the heel of the white man here in America.
+Reading from *The Autobiography of Malcolm X*  *[[1:13:45](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4425s)]*
 
-- Come on. Come on. Zion, come on. Read with power. Because when you read the book, Malcolm X's brothers and sisters shared Islam with him. They were the ones that shared it with him. Watch this. Read.
+> I thought it was outrageous that our small temple still had some empty seats.
+
+- Come on. Zion, come on. Read with power.
+
+> … to my brother Wilfred that there should be no empty seats,
+
+- Because when you read the book, Malcolm X's brothers and sisters shared Islam with them. They were the ones that shared it with them.
+
+> with the surrounding streets full of our brainwashed black brothers and sisters, drinking, cursing, fighting, dancing, carousing, and using dope, the very things that Mr. Muhammad taught were helping the black man to stay under the heel of the white man here in America.
 
 - Come on, watch what he says here. I love this part in the book.
 
-> From what I could gather, the recruitment attitude at the temple seemed to me to amount to a self-defeating waiting view, an assumption that Allah would bring us more Muslims. I felt that Allah would be more inclined to help those who help themselves. I had lived for years in ghetto streets. I knew the Negroes in those streets. Harlem or Detroit were no different.
+> From what I could gather, the recruitment attitude at the temple seemed to me to amount to a self-defeating waiting view,
 
 - Meaning, let's just wait for brothers to join in. He was like, I don't think that should be the attitude. It doesn't make sense for us to just sit here and wait for brothers to become Muslims.
 
-- It's the same thing today. Our brothers, when we do marches in Miami, Dallas, Baltimore, Chicago, brothers have the same mentality. Get me Isaiah 51:20. Asael, Isaiah 51:20. The mentality, the mind of the Negro, whatever city, LA, Oakland, Sacramento, Houston, it's the same mentality. Read this.
+> an assumption that Allah would bring us more Muslims. I felt that Allah would be more inclined to help those who help themselves. I had lived for years in ghetto streets. I knew the Negroes in those streets. Harlem or Detroit were no different.
+
+- It's the same thing today. Our brothers, when we do marches in Miami, Dallas, Baltimore, Chicago, brothers have the same mentality. Get me Isaiah 51:20. Asael, Isaiah 51:20. The mentality, the mind of the Negro, whatever city, LA, Oakland, Sacramento, Houston, it's the same mentality.
+
+</div>
 
 **[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[1:15:34](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4534s)]*
 
@@ -375,11 +407,17 @@ So at one point now, to go back to Malcolm, there has always been a war with bla
 
 - Thy sons have fainted, they lie at the head of all the streets. Whatever city you go to, do you see blacks and Hispanics on street corners? So what Malcolm X saw during his time, we still see it today. Read. As a wild bull. The Bible says black men are wild. Wild. Read. As a wild bull in a net. You see when our Hispanic brothers are running from them bulls, right? You see when they got that red cape and that bull is charging? That's the same, that God is comparing the mentality of the black man to a wild bull. Read. They are full of the fury of the Lord. Full of the fury of the Lord. That's why whenever white people see black people, what do they do? They do the fake smile. I don't want no problems. You understand? I don't want no problems. They all got the fake smile. You know the fake smile. Keep reading. The rebuke of thy God. That's the end of it, right?
 
-- So now go back to the book. Read this. So the Bible speaks about the mentality of black men. Watch this.
+- So now go back to the book. So the Bible speaks about the mentality of black men. Watch this.
+
+<div class="reading">
+
+Reading from *The Autobiography of Malcolm X*  *[[1:16:52](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4612s)]*
 
 > I said I disagreed, that I thought we should go out into the streets and get more Muslims into the fold. All my life, as you know, I had been an activist. I had been impatient.
 
 - I had been impatient. So now, watch this. Now this is heavy. Now I want y'all to pay attention to this. Play the first video. Malcolm X: We Are the Children of Israel. Hey, and get the book ready. The Negro Church by E. Franklin Frazier. Get that ready. This is important. Don't mess this part up. Play this. Malcolm X. Watch what Malcolm X says. Turn it up.
+
+</div>
 
 *[[1:17:50](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=4670s)]* Malcolm X, as the clip was played and paused:
 
@@ -491,29 +529,37 @@ So at one point now, to go back to Malcolm, there has always been a war with bla
 
 - *[[1:32:30](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5550s)]* It's falling asleep. You know why? Because I start talking about husbands and wives. You and the wife was arguing this week. You and the wife, it got into a little argument. I understand, it happens. I know it get real sometimes during that week. Your wife be getting on your nerves. You're like, "Ah, this woman, man. When's the next class? Let me get up out this house. She's getting on my nerves." This is what happens, right? But the unity has to be there. The unity has to be there. You got it. Now, history. Pull it up on the screen. Don't worry. Forgive your wife. Don't worry. She'll do it again next week. Scroll down. We're going to go to where it says, you're going to see Malcolm X. I believe you're going to see Malcolm X or Martin Luther King. Come down.
 
-- *[[1:33:35](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5615s)]* Wait, pause it. I would like to deal with all of this, but I can't. Bishop Nathanyel touched on this in the history of the Israelite schools. He touched on the history of the Israelite movement. So we're going to focus. Remember, we're dealing with the 60s till today. So go down. Scroll down. Arnold Josiah Ford. Scroll down. There you go. Civil rights movement. Go down. Read this. Just read that paragraph real quick.
+- *[[1:33:35](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5615s)]* Wait, pause it. I would like to deal with all of this, but I can't. Bishop Nathanyel touched on this in the history of the Israelite schools. He touched on the history of the Israelite movement. So we're going to focus. Remember, we're dealing with the 60s till today. So go down. Scroll down. Arnold Josiah Ford. Scroll down. There you go. Civil rights movement. Go down.
 
-*[[1:34:01](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5641s)]* Reading from the IUIC history website, the civil rights movement:
+<div class="reading">
 
-> The civil rights movement came to national prominence in the United States during the mid-1950s and continued to challenge racial segregation and discrimination through 1969. The Civil Rights Act of 1964 prohibits discrimination on the basis of race, color, religion, sex, or national origin. Provisions of this act forbade discrimination based on sex as well as race in hiring, promoting, and firing.
+Reading from the IUIC history website, on the civil rights movement and Abba Bivens  *[[1:34:01](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5641s)]*
 
-- Come down. Remember, how did Malcolm X know we were the Israelites? Watch this. Come down. Abba Bivens. Read about Abba Bivens. So that's Abba Bivens, and next to him, that's Arya as a teenager. Read this. Zoom in.
+> The civil rights movement came to national prominence in the United States during the mid-1950s and continued to challenge racial segregation and discrimination through 1969. The Civil Rights Act of 1964 prohibits discrimination on the basis of race, color, religion, sex, or national origin. Provisions of this act forbade discrimination based on sex as well as race and hiring, promoting, and firing.
 
-> 1960. Eber ben Yomin, also known as Abba Bivens.
+- Come down. Remember, how did Malcolm X know we were the Israelites? Watch this. Come down. Abba Bivens. Read about Abba Bivens. So that's Abba Bivens, and next to him, that's Arya. As a child, that's as a teenager. Sorry. Zoom in.
 
-- Brothers, are we Israelites, brothers? Yes, sir. Are we Israelites, brothers? Our lovely sisters, are we Israelites? Make sure y'all read this history and learn your history on how this movement came about. Read this whole section. Know how to explain how Bishop Nathanyel came into the truth. Who his elders were. Learn the history of how Bishop Yawasap came. Learn that. Because guess what? All of that played a part in how you came into the truth. Right? So now read this. Read this with some pride.
+> 1960. Eber ben Yamin, also known as Abba Bivens.
+
+- Brothers, are we Israelites, brothers? Are we Israelites, brothers? Our lovely sisters, are we Israelites? Make sure y'all read this history and learn your history on how this movement came about. Read this whole section. Know how to explain how Bishop Nathanyel came into the truth. Who his elders were. Learn the history of how Bishop Yawasap came. Learn that. Because guess what? All of that played a part in how you came into the truth. Right? So now read this. Read this with some pride.
 
 > Also known as Abba Bivens, was initially taught that he was an Israelite by an ex-slave many years earlier in the south. Bivens believed in the black Christ, and during his journey to New York, he visited many Native American reservations. Through scriptural study, he concluded that the so-called Indians were also Israelites.
 
-- So it was Abba Bivens. Bishop Nathanyel taught us it was Abba Bivens that taught Native Americans and Hispanics, they're Israelites too. That separated him from all the other teachers. That was the Lord that gave him that understanding that separated him. Read.
+- So it was Abba Bivens. Bishop Nathanyel taught us it was Abba Bivens that taught Native Americans and Hispanics, they're Israelites too. That separated him from all the other teachers. That was the Lord that gave him that understanding that separated him.
 
 > Upon arriving in New York, he joined the Commandment Keepers under Wentworth Matthew, but rejected Matthew's teachings of Old Testament only doctrine and Kabbalah. Bivens later founded the Israeli School of Universal Practical Knowledge, and became the first to teach that blacks, Latinos, and Native Americans of the Americas are Israelites.
+>
+> While in New Jersey,
 
-- Come down. Watch this. Now read.
+- While in New Jersey. Jersey, y'all took a major L with this one.
 
-> While in New Jersey, he was assaulted by members of the Nation of Islam because he publicly and biblically denounced Islam as a false religion of the Arabs.
+> he was assaulted by members of the Nation of Islam
 
-- While in New Jersey. Jersey, y'all took a major L with this one. He was assaulted by members of the Nation of Islam. You see that? Why? Why? Because of arguing over the doctrine. Why? Because NOI, you better accept what we teach. And they killed him. They beat Abba Bivens to death. Read this. While in New Jersey, he was assaulted by members of the Nation of Islam, because he publicly and biblically denounced Islam as a false religion of the Arabs. That's why we started off reading in the beginning that Islam is the religion of the Arabs. Abba Bivens understood that. So when Islam was at its height, was at its apex, Abba Bivens was like, "Nah, this ain't the way." But guess what? The Lord just had Nation of Islam become popular. They were all over the news. But guess what? This truth was being taught. These brothers was in the street teaching. This truth was being taught. But the Lord put NOI on the map. Y'all understand, brothers? That was all of the Lord. Read.
+- You see that? Why? Why? Because of arguing over the doctrine. Why? Because NOI, you better accept what we teach. And they killed him. They beat Abba Bivens to death.
+
+> because he publicly and biblically denounced Islam as a false religion of the Arabs.
+
+- That's why we started off reading in the beginning that Islam is the religion of the Arabs. Abba Bivens understood that. So when Islam was at its height, was at its apex, Abba Bivens was like, "Nah, this ain't the way." But guess what? The Lord just had Nation of Islam become popular. They were all over the news. But guess what? This truth was being taught. These brothers was in the street teaching. This truth was being taught. But the Lord put NOI on the map. Y'all understand, brothers? That was all of the Lord.
 
 > As a result, he contracted a severe case of pneumonia. Before he passed away, he declared Masha and Yaiqab as the school leaders. However, jealousy led many members to reject the new leadership.
 
@@ -522,6 +568,8 @@ So at one point now, to go back to Malcolm, there has always been a war with bla
 - **Captain Hananiah:** Yeah, Cap. When they teaching the streets, they was all on crates. You had Islam on crates, you had the Israelites on crates, and you had the Christianity on crates. So he was out there denouncing them in front of everybody. It wasn't like he was doing it in secret. They was out there, and he was denouncing them in front of the whole crowd that was standing out there in Jersey. You understand? So they stood out there on crates, crying out loud, preaching the word. So at that time, he was denouncing all other religions in front of everybody else.
 
 - And what's heavy, and all praise, that's how you know the spirit that the class came out. Captain Hananiah was at the old school with Bishop back in his younger days. Give a shout out to Captain Hananiah. Don't look at me, put it on him. Cameraman falling asleep. Captain Hananiah saw Bishop back in the days, in his younger days. So that was the spirit, that he's here, because we're talking about this back in the days. Y'all understand, brothers?
+
+</div>
 
 - *[[1:39:10](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=5950s)]* So now put Yaiqab on the screen. This is one of Bishop Nathanyel's elders. So all the way to the left, that's Lahab. Where's the mouse? Lahab. Go to the right. Masha behind him. Arya. Behind that's Kazaq. Go in front of him. That's Yesh. Go in the front. That's Yaiqab. That's Yaiqab. And all the way to the right, the big brother, that's Shaw. Now go back to Yaiqab right here. Bishop Nathanyel said Yaiqab, he met with Malcolm X. And he would show Malcolm X that we are the Israelites. He would show him that we are the Israelites. You understand? So guess what? We were around in the 60s. NOI just got the publicity during that time period. You understand? Y'all understand, brothers?
 
@@ -587,25 +635,37 @@ So at one point now, to go back to Malcolm, there has always been a war with bla
 
 - Bishop Nathanyel, y'all may remember this from class. Bishop Nathanyel and Bishop Yawasap was there. Khalid Muhammad said, y'all remember the Israelites back in the days on 42nd? Y'all remember Khalid Muhammad said, "You Israelites, you got the knowledge, but you're too brutish with it." Bishop, play the tape with Bishop Nathanyel, you will find it. He said that. Bishop Nathanyel played the tape with him at the camp, and he was a fiery teacher. He said, "You got the knowledge, but you're too brutish with it." And Bishop Nathanyel said in class, he said he always filed that, when Khalid Muhammad said that. You understand? Brute meaning you're too hard with it. Now we seen how the level of understanding has increased. You understand?
 
-- Now watch this. Put the snapshot real quick of what happened to him. I got two snapshots. I got him and Professor Griff. Put the one with him. Read this. Why he was kicked out.
+- Now watch this. Put the snapshot real quick of what happened to him. I got two snapshots. I got him and Professor Griff. Put the one with him. Why he was kicked out.
+
+<div class="reading">
+
+Reading from a snapshot on Khalid Muhammad  *[[1:52:55](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6775s)]*
 
 > Khalid Abdul Muhammad was demoted and suspended from the Nation of Islam in February 1994 by leader Louis Farrakhan.
 
 - Hold that. Play the video with Farrakhan. Watch this. So now remember, they assassinated Malcolm X. Right. Farrakhan rose up. Right. Play that video real quick with Farrakhan. Remember, we're short of time. We taking every minute. Normally we end at 11:00 a.m., but 11:30 is our max. We going to the top. Go ahead.
 
+</div>
+
 *[[1:53:26](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6806s)]* Louis Farrakhan, in the clip:
 
 > There are people in America like the children of Israel. Who are those people? Who? Who? Who? I ain't no owl. Who is you?
 
-- He said, "Who?" And the crowd said, "We are." Another famous leader of the Nation of Islam, quoting the Bible. The Quran cannot be the book. The Quran cannot be the book. The two most popular leaders and speakers of the Nation of Islam resorted to the Bible. Resorted to the Bible. This is the source. Now go back to Khalid Muhammad. I just wanted to show once. So now the two leaders, these great leaders, quoted the Bible. So why not we go to that book that they quoted? That book says we're the Jews. We're the Israelites. So we should be following the source. That's right. Remember, Muhammad copied what he saw the Israelites doing. The source always goes back to the Bible. Always. Read that. No, the snapshot. Khalid Muhammad, what happened to him?
+- He said, "Who?" And the crowd said, "We are." Another famous leader of the Nation of Islam, quoting the Bible. The Quran cannot be the book. The Quran cannot be the book. The two most popular leaders and speakers of the Nation of Islam resorted to the Bible. Resorted to the Bible. This is the source. Now go back to Khalid Muhammad. I just wanted to show once. So now the two leaders, these great leaders, quoted the Bible. So why not we go to that book that they quoted? That book says we're the Jews. We're the Israelites. So we should be following the source. That's right. Remember, Muhammad copied what he saw the Israelites doing. The source always goes back to the Bible. Always. No, the snapshot. Khalid Muhammad, what happened to him? Now we're going to read why. Hate speech. Why he was kicked out? Hateful speech.
 
-> Khalid Abdul Muhammad was demoted and suspended from the Nation of Islam in February 1994 by leader Louis Farrakhan. The discipline followed a highly controversial speech Muhammad delivered on November 29th, 1993, at Kean College in New Jersey.
+<div class="reading">
 
-- Now we're going to read why. Read the part. Hate speech. Why he was kicked out? Hateful speech. Because of that, because guess who he went at? Who do you think he went after? Amalek. The so-called Jew. They kicked him out. They kicked him out. This is not the true religion. Because what he said, guess what? The Jews are not being a real Jew. He's right. Read this. Anti-Semitic.
+Reading from a snapshot on Khalid Muhammad  *[[1:55:00](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6900s)]*
+
+> The discipline followed a highly controversial speech Muhammad delivered on November 29th, 1993, at Kean College in New Jersey.
+
+- Because of that, because guess who he went at? Who do you think he went after? Amalek. The so-called Jew. They kicked him out. They kicked him out. This is not the true religion. Because what he said, guess what? The Jews are not being a real Jew. He's right. Anti-Semitic.
 
 > Anti-Semitic and racist remarks. During the speech, he referred to Jews as bloodsuckers of the black community, labeled the Pope a no-good cracker, and advocated for the killing of white South Africans.
 
 - So now what he did, now that's our brother. But guess what? This is why Bishop says, use the words of what? They can't get you. Use the words of the Bible. Go to Revelation 2 and 9. Stay in the Bible. Let God speak. Don't use your own words. But guess what? He was used, but he didn't fully understand how to use the Bible. That's why he said it again: "Y'all Israelites, you got the knowledge, but you're too brutish with it." Watch this.
+
+</div>
 
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:56:15](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=6975s)]*
 
@@ -627,11 +687,21 @@ So at one point now, to go back to Malcolm, there has always been a war with bla
 
 - **Captain Hananiah:** And you know when we went to the Million Man March, right? And we was out there, the NOI, FOI, they was all mad at us. They said, "Oh, what y'all doing out here?" We said, "God sent us out here." So they must have ran back and told Farrakhan, because the first thing he said when he came out is, "Listen, everybody, we are the children of Israel. We are the people of the Bible." That's the first thing he said when he came out, and everybody was shocked, because we was out there teaching that the whole time. So they must have told him that the Israelites out there teaching, and he came back, his response was, we are the children of the Bible.
 
-- You see that? Round of applause. So now where we at? So this Public Enemy. So remember, they prescribed to the teachers of the Nation of Islam. All right. One of their famous hit songs was Don't Believe the Hype. I want to play the song, but we can't. You understand? Put the snapshot of Professor Griff. The snapshot now. You can't play the video. That's Professor Griff. Now, what was the name of the S1Ws? Put the snapshot I have of Professor Griff. Why did they kick him out of the group? And he wasn't even a rapper. He was just with the group, the militant part. Watch this. Read this.
+- You see that? Round of applause. So now where we at? So this Public Enemy. So remember, they prescribed to the teachers of the Nation of Islam. All right. One of their famous hit songs was Don't Believe the Hype. I want to play the song, but we can't. You understand? Put the snapshot of Professor Griff. The snapshot now. You can't play the video. That's Professor Griff. Now, what was the name of the S1Ws? Put the snapshot I have of Professor Griff. Why did they kick him out of the group? And he wasn't even a rapper. He was just with the group, the militant part. Watch this.
 
-> Professor Griff was fired from Public Enemy on June 21st, 1989, because of severe backlash over anti-Semitic and homophobic remarks he made in an interview.
+<div class="reading">
 
-- And you know Chuck D didn't want to fire him. You know he didn't want to do that. But they put the pressure on him. Once again, who got upset, brothers? Amalek. Amalek. Why? Because they understand that the truth was coming out, that they are not the Jews. They tried to contain it. So you could take that down.
+Reading from a snapshot on Professor Griff  *[[2:00:16](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7216s)]*
+
+> Professor Griff was fired from Public Enemy on June 21st, 1989,
+
+- And you know Chuck D didn't want to fire him. You know he didn't want to do that. But they put the pressure on him. What happened?
+
+> because of severe backlash over anti-Semitic and homophobic remarks he made in an interview.
+
+- Once again, who got upset, brothers? Amalek. Amalek. Why? Because they understand that the truth was coming out, that they are not the Jews. They tried to contain it. So you could take that down.
+
+</div>
 
 - *[[2:00:51](https://www.youtube.com/watch?v=CiL1d9RUSfE&t=7251s)]* So now let's talk about us. Now let's talk about the Israelites. We got 26 minutes. We got 26 minutes, we going to tear Babylon down. We going to tear Babylon down. How does this all tie in to us today? We touched on Message to the Black Man. We showed the book. We showed Malcolm X, his works that he did. We showed the snapshots from his book. We showed the works, what he spoke about with wives, children, family. A lot of things we say, very similar. But guess what? They didn't understand how to explain the true source, the Bible. They did not understand how to do that. Why? It starts with this scripture right here. 1 Corinthians chapter 4:9. This is what it starts with. Read this.
 

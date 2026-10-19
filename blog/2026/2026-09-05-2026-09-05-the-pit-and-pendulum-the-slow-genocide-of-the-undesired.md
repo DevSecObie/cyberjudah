@@ -55,13 +55,17 @@ I would also like to say to my brothers and sisters that are following online, t
 
 ## In The News
 
-Flock cameras.
-
 - So, you know, on the way here I noticed something. Everybody is talking about flock cameras. You heard about that thing, right? And I have seen them on TV, I have seen them on news and stuff like that. Can we show a picture? Look for the actual flock cameras. Just put it in. Do not just show generic stuff. Show an actual flock camera. We passed by one coming here, which surprised me. Not really. I mean, come on. I know what time it is.
 
-> Flock cameras are automated licence plate reading — ALPR — surveillance systems made by Flock Safety that capture and log vehicle details to create searchable databases for law enforcement and private entities.
+<div class="reading">
+
+Reading from a search result on Flock cameras  *[[14:47](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=887s)]*
+
+> Flock cameras are automated license plate reading, ALPR, surveillance systems made by Flock Safety that capture and log vehicle details to create searchable databases for law enforcement and private entities.
 
 - So the purpose of these things is to log vehicle details to create searchable databases on everybody.
+
+</div>
 
 - This kind of paranoia goes all the way back to the seventies, during the time of the Kent State University thing. I could talk about that in another class. But during the Kent State rebellion — well, let me just call it the right word. It was the protest against the Vietnam War. It was a protest against men being drafted to go fight in Vietnam. That is what it was about. And the college campuses were a hotbed for political discussions, and the paranoid runners of this whole society said, we have to get control of what is going on on these college campuses, because they are too free in their thinking, and we cannot have that. So they have to curtail and rule and bring the people back in to be up underneath, be good citizens, so to speak.
 
@@ -138,292 +142,6 @@ Officer Carmela on Mississippi — Patient Saints Radio.
 - Deacon Malachi — a lot of people did not understand why Deacon Malachi used to say, yo, Trump is my man, bring him on. They did not understand. Deacon crazy as hell. No, he ain't. Deacon had it one hundred per cent on point, because with him on the tirade and the rampage and all of that, that is going to force black folk, Hispanic folk, the twelve tribes of Israel, to come together. The Lord of Hosts is mustering up that thing.
 
 - They coming. They coming. White people are looking. We used to be in camp, we used to say, brother, you can say it, the white man ain't looking. We understand that. It sounds like a joke, but it is not a joke. We understand the psyche. We understand what is going on. That is the terror.
-
-Situational awareness — the skit.
-
-- I want you women to pay attention to this. Now, this is a skit. I am just going to let it play. This was done by one of our schools. I want you brothers to pay attention, because you better recognise what time you are in. You already know you are not desired. Cannot be out here playing games.
-
-> Situational awareness is key. Got to put that phone down. Somebody can snatch you up just that quick. This right here, you will pass out and you will be gone to another country. Maybe get killed. Maybe get raped. You got to put your phone down and check your surroundings. Pay attention to where you are at. Do you know I followed you in the store, out the store, through the parking lot? You did not even see me.
-
-- That is many of you sisters. You are on your damn phone. Ain't paying attention to nothing. That is how your behind gets snatched up. Knapsacked. Inside that rag will be some kind of chemical to knock you out. Inside that parking lot will be some van with the door already open. Slow genocide. There is a whole network of this kind of stuff going on. I want you all to understand what I am saying. It is a network of people trying to kill us off slowly.
-
-- And you need to understand why they are trying to kill us off slowly. Because you are the greatest thing. You are the greatest people that ever put your foot on this damn planet. And I am saying that for real, because you are God's people. And the more of you that wake up, the more in trouble they are. So their objective is to neutralise the numbers, so to speak. Kill them off slowly. Siphon them off.
-
-- How many of your daughters will fall right into this trap right here, because they got their head buried in a damn phone? They ain't paying attention to nothing. Now, I know a lot of people quiet now. I do not give a damn. I am trying to save your behind. We out here playing games. Next damn thing you know, you hanging up in a damn noose.
-
-- And let me tell you about these diabolical people, by the way, while I am on it. These people are so sick. These klansmen — and I am talking about all of them — they are your enemies. You got to understand that. I do not have time to play with you. They do not want you dead off the top. These people have such an insatiable appetite to see you struggle, to see life leave your body. That turns them on. That is an aphrodisiac to them. I know I am talking sick, perverted, but that is how they are. They want to see life leave you. They want to throw you in the water like Nolan Wells. They threw him in the water. I noticed what they did. And watch them. They love that. They get a thrill off of that. They will drag a man to his death. They do not say they want to kill him — we want to have the satisfaction of taking his life from him. We want him to beg for his life. We want to see him suffer. We want to see the women suffer.
-
-- They want to knock you out. They do not want to kill you. The man that will come and put the thing around your nose is not to kill you. They will wake you up later on when you do not know where the hell you are at.
-
-- You forget too damn much. They done forgot about the campaign of all these missing black women. Did you all forget that? You all remember that just a few years ago? Thousands of black women just missing. Black men missing. Posters going up, missing campaigns all over the place because another one is missing. Another one is missing. But here comes Christmas, Fourth of July, Thanksgiving, and you forget all about it. Then here comes a whole other wave of murder, and you move on to the next one.
-
-- Why is it that your mind moves so much from one thing to the other? It is because your mind has been messed up with the sensation of social media, where you cannot even concentrate on one thing at a time. They kill our people one year, murder our people another year, raped our women another year, and you cannot remember something that happened just a year ago. But meanwhile family members are dead. Members in your community dead, because you cannot even remember, because your mind is on channel zero changing with every TikTok, every short. You have no ability to even focus on any one thing at a time. That is by design.
-
-- So they want to make sure that we never come to the real essence of who we really are. So that is the reason why they are killing us and want to continue to kill us, and they want to terrorise you with that killing so that you do not even spark no kind of interest to wake your people up. Terrorism. We are in it. The pit and the pendulum.
-
-- How many of our women are being trafficked all over the damn country, all over the world? Your daughters, damn it, trafficked. Your sons trafficked. They made all kinds of movies on it and we still playing games. The world out here is sick. We ain't got no time to be damn playing games.
-
-Babylon to Timbuktu.
-
-- They do not want us when we are connected with the essence of who we are. They do not want us connected to become one in unity with Christ. They do not want that, because their whole objective of bringing us over here was to work us to death, to work us to build this kingdom for them. Give me the book, Babylon to Timbuktu.
-
-> The black Jews had an advantage over the African tribes. They carried their culture, history, laws and written records with them. This assured them a constant precedent for the development of a higher social organisation.
-
-- That is the reason why they wanted us. That is the reason why they sent the army out to get us, because we had an advantage over all of the Hamites. Because you are a special people. You do not understand that. That is the essence of you.
-
-- So when we got our Bible, when we have our laws, this is what garners us to develop a higher social organisation. That is what they do not want. You leaving us alone? Just think about it. Black Wall Street and Tulsa and all the towns. It was not just Tulsa. We had towns all over the place. Durham, North Carolina was one of them. We had towns all over, running it. A lot of people probably do not even know nothing about. You can look these things up.
-
-- And you just imagine, how in the world were we able to muster and organise and build and do better than the so-called whites, with the discrimination and the hatred and being robbed out of slavery? You all got to understand the time period. We were basically stripped of everything. We had to imagine bootstraps. And even in that we were still able to build and had enough collective power to set up great monuments of business, great monuments of society, banks, oil companies, movie theatres, hotels, hospitals. We did this in the damn twenties without money from them. Telling me how great we are.
-
-> Because of the stability of the black Jewish culture, the Jews were not absorbed into the autochthonous population. In fact, the Jews absorbed some of the native tribes. The Jews made use of every opportunity. They were an industrious and skilful people. In the Jewish Ghanaian states were found kings, princes, governors, generals, secretaries, treasurers, revenue agents, judges, architects, engineers, doctors, historians, language interpreters, mathematicians, jewellers, sculptors, masons, carpenters, painters of art, goldsmiths, leather workers, potters, armourers, saddlers, blacksmiths, agriculturalists, et cetera.
-
-- We were an industrious people, like we still are. They said we could not make music. They said, no problem, we will just get on the lunch counters. Next thing you know, somebody get up and start rhyming rap music. I am talking about the real rap music, not this mess that they got now. Next thing you know, McDonald's is rapping. Burger King is rapping. The department stores, Walmart, they all rapping, because of what you started in the Bronx. Beating on some drum, beating on some table. Resilient. That is a word. Resilient.
-
-- No help from white folks. As you all see these things, no help from Esau. This is all us. Ghana. The list goes on and on. That is the bubbling greatness that is in us. Now we trying to ignite that within our brothers and sisters right up in here. We can do things. A lot of people think we cannot do anything. I make it my business to show that we can do it. And I say again, it ain't just me. I am just sitting before you now, but I am talking about all the leadership. We have been trying to show you that there is greatness just waiting to come loose, waiting to be untapped, waiting to come on out.
-
-They Stole It But You Must Return It — Dr Richard Williams.
-
-> Chapter four. What did white America do to the black father? Blacks came from a country where many men were warriors and family heads. These black warriors and black family heads, however, offered a threat to white America's economic place. But these warriors and family heads, if made slaves, could bring the highest economic return for white America. Therefore the submission of the black males became a major emphasis, and resulted in the development of a new slave system. A slave system designed to destroy the manhood of the black males.
-
-- That is the kind of men we were. We can get that back. Ain't nothing wrong with having that spirit. What do you mean we do not take care of families? We took care of our families. Ain't no such thing as woman pregnant and she got a baby and nobody. That did not happen with us. Even in slavery that did not happen. I got records from Lerone Bennett Jr talking about how we were dealing even in chattel slavery, how we did not even deal with the mess that you see us doing now today.
-
-- That is the point right there. If you are left with your essence, if we are left with our Bible, if we are left with the greatness that God gave us — for you are a holy people unto the Lord thy God, the Bible says — if we are left alone with that greatness, that is a threat to them. Not the drug dealer, not the drug cartel, not the murderer, not the serial killer. They are after us. They ain't looking for these people. They are not looking for the real gangsters. They are not looking for the people that is really bringing real hell on this earth, and hell followed with that pale horse. They are not looking for him. They are looking for us.
-
-- If they could turn us away from the greatness that is in you, if they can make us believe that we are not great people, if they could reverse our psychology to make us believe that we are nobodies — like what they did during the Jim Crow era, like what they did with the minstrel shows and made us ashamed of our lips, made us ashamed of our skin and our hair and all that. If they can actually make you believe that something is wrong with you, as a man or a woman thinketh, they will become that. And that is exactly what an oppressor wants you to do. They want you to think like that.
-
-- They did not want dummies. I want you to understand your greatness. They did not go to dummies. They did not go and try to colonise people that ain't got no sense. Dummies cannot build up your society. Dummies cannot do nothing. They want smart people. They want brilliant people. But we cannot have them using their brilliance for their own. So we have to find out, how can we get to them? Oh, I know. They are God's people and they broke God's laws. And if they are breaking God's laws, God is not going to be for them. Therefore we can step in and we can exploit them. So what is the one thing that we have to do — is to make sure that they never get connected back to their God. That is what is happening.
-
-- So they want our brilliance. They want our talents. There is not a sports field with damn near all the people on the teams black men, Hispanic men, the Israelites. They want that because you got that talent. Believe me, they are using us in a whole lot of other areas too, because we got that talent.
-
-- That is what this whole campaign is about. To destroy the manhood of your fathers, to destroy the manhood of your sons, your husbands. That is what their objective is. But they are not looking to destroy the manhood just of anybody. They are looking to destroy the manhood of those that have the great talent and the wisdom and all of the skills and the greatness that is just bubbling within us. They do not want us to have that for ourselves.
-
-To Make A Slave — seasoning.
-
-> To make a slave. How does one become a slave? What is the process that turns a human being into a creature of self-hatred and self-doubt? Someone fully controlled and in fearful awe of another. Slaveholders developed a system. It was called seasoning. It was the process under which strong men and women were broken. Stripped of their dignity and tortured. Seasoning was a brutal system, a system that remade men in an image pleasing to their oppressor. It rewarded good behaviour and punished bad behaviour. It turned their captives into beasts. The wise slave master never took seriously the belief that my people were natural-born slaves. He knew that African men and women fresh from the continent had to be broken in, forced to accept a subservient position. Slaves could never be trusted fully. Men wanted to be free. If slavery were to work, if strong men and succeeding generations were to wear the yoke of bondage, their psychology would have to be altered.
-
-- What is the process that turns a human being into a creature of self-hatred? That is what they did. They made us hate ourselves. They made us have self-doubt. This is the reason why you are loaded with all kind of talent, but yet we are scared to move on it, because you got a whole lot of doubt in you. Why in the world are we doubting? Because this bastard says something.
-
-- How do you make someone to be in fearful awe of another? That is what they were trying to figure out. How do we take somebody and make them hate themselves, make them doubt themselves, and turn them into fearful beings so afraid? How do we do it?
-
-- Seasoning. This is what was done to us. They did not want to just straight kill us. They want the body. Kill the Indian and save the man. Same thing that they did to Gad.
-
-- Christianity is the perfection of slavery. One of my quotes, all praise to the Most High. Christianity is the perfection of slavery. It is the final finishing touches of what slavery could not do or did not do. Chattel slavery had its limit. Christianity completed it, and glossed it and waxed it and polished it up, made it perfect. Christianity is the perfection of what slavery was supposed to do.
-
-- Here you have pastors in church. They do not hear about all of these lynchings and murders. Where are they at? All them big strong burly men up there in church supposedly. Where they at? Not saying a damn thing. Nothing. Scared. Christianity has dulled their minds down to the fact they cannot even speak. They got to feel God in them. They got to feel the white man in them. That is what they got. They ain't got to feel God in them at all.
-
-- You recognise that we are still being seasoned. When they hang your sisters and your brothers up, they are still seasoning us. Seasoning. Terrorism is seasoning. To be terrorised is a seasoning. It is changing the flavour of your thinking. That is what seasoning does. When you season meat, you change the components of it. You change the taste of it. You change how it behaves in the pan when you are cooking it. Well, when we are seasoned, they are changing how we operate. And what changes us more? Terrorism. When they terrorise us, we become afraid. And these preachers that say they got the word of God ain't doing nothing but pimping you brothers and pimping you sisters.
-
-- Do you all hear this? That is what it did. It made us flavourful for our oppressors. We are that tough meat. They did not want that tough meat. They season us to make us more acceptable. You are the good negroes. You are the good preachers. Those Israelites, they are the bad ones. You bought that line.
-
-- It rewarded quote unquote good behaviour and punished bad behaviour. You want to know what this is called? Operant conditioning. It is a system of reward and punishment. Like what they call meritorious manumission. When you turn your brothers in, or you reported someone stealing master's hogs or something like that, and they grant you good for doing that — but meanwhile you was being enslaved, everybody. Your mother's raped, your daughter's raped.
-
-- Bad behaviour was behaviour that they did not like, but yet it was good for your survival. That is what bad behaviour was. Good behaviour meaning, I will stay a slave. Oh, you are a good slave. What do you mean you trying to escape? You must have drapetomania. That was an actual term that they made up. What is the name — Samuel Cartwright. A demon. So-called Jew made up a term so that if you want to get away from slavery, you are a sick negro.
-
-> Drapetomania is a historical pseudoscientific diagnosis from 1851 that claimed enslaved black people who tried to run away from bondage suffered from a mental illness.
-
-- In other words, BS. Pseudo meaning fake. It ain't real. It ain't scientific. That is the point. Do you all hear this? So some of us believe this. We do not want to get away from them. We want to be next to them. We always want to be around them because we feel like we cannot do nothing for ourselves. And that is a mindset that they put on us. And if we believe that, then we are desired only up until they get what they want from us. Then after that they do not care about us at all. So they ain't never going to love you. Even if you are a quote unquote good slave for them, they still do not love you. They just want to use you, which is the exact reason why they brought us over here in the first place. It was never to love us.
-
-- The wise slave master — in other words, the ones of the so-called white men that studied. He never took seriously the belief that we were truly inferior. We were never natural-born slaves. We are the children of the Lord. Why in the world would we even think that we are natural-born slaves? Because that is the psychology that they have been trying to get us to accept.
-
-- He said, I can never really trust them, because there is a spirit in man that is going to always try to figure things out. You can never allow them to get near a book. You can never allow them to read — or teach them to read but not reason. Do not let them get together, because that spirit in them is going to come out and we going to have much problems. Like Cicero and Mandingo. And after you hang me, kiss my ass.
-
-- So this is the reason why I say often, we have not even tapped into who we really are. We are still shells of what was made. The real us have not really even come to the surface yet. We working on it. We in here. We getting it. But just think about our people out there talking all kind of crazy. That is why I say when so-called negroes talk crazy, I am not even dealing with the real man. I am dealing with a byproduct of what white folks made. That is what you are dealing with. You are not even dealing with your own people.
-
-- That is what Christianity did. You got all them black people in church and nobody says, what does Jesus Christ look like? Thousands and thousands of people sitting up under a negro preacher, and not one person will stand up and in declarative tones say, by the way, that Bible says that Jesus Christ was hung on a cross. So that meant he had a body. And if he had a body, what did that body look like? That is all they have to say. And the whole church would stone him. All them negroes would stone him. He got the devil on him. But this just goes to show how messed up we are.
-
-- Well, we were fighting, then revolts, then killing. Nat Turner, then Denmark Vesey, then Gabriel Prosser, then Will the Executioner. Then my heroes. If they were to have that kind of thinking, they ain't going to put that collar on with ease. So how are you going to get us to put that collar on with ease? They got to break that strong spirit. They got to break your man up.
-
-- That is the reason why they go after your young sons in school. You sisters — prison, the school to prison pipeline. My sisters, the fourth grade failure syndrome. If your son exhibits too much leadership ability when he is in the fourth grade, the witches that are called teachers notice that in him, and right away they start to work on him. They said, this man has got the spirit to become a leader one day. Let us embarrass him a few times. Let us make him put that back in his spirit. Do not let him be outspoken. Do not let him speak with dignity. Do not let him speak up. Make him shy. Make him scared to raise his voice. You talk to a man, his voice sound like a damn cat. I said, where the hell is your voice at, man? Speak. He is scared to speak. He is not used to speaking loud, because you have been made to think that way.
-
-- Resilient. Let us see what they say about it.
-
-> Resilient: being able to bounce back quickly after facing a difficult situation, change or physical stress.
-
-- So they hate the fact that we are resilient. They said, no matter what we do — we gave you drugs, we gave you bad education, we put you in prison, we put poison in your food, we sell you bad groceries, we jack you up in the hospitals, when you go to the clinics you get half the care, we railroad your sons and daughters to go to prison. We do all kinds of things to destroy you, but yet you still keep coming. That is what they call the resilient monster. We are the boogeyman. Because you keep coming back. That is how they see us.
-
-- Deuteronomy 28:48, at the end it said, he shall put a yoke of iron upon your neck until he have destroyed us. So they said we were destroyed, but yet we still here. Exactly. Yet we still that beacon of light. Yet we still that hope. They are upset with that thing. They hate that thing, man.
-
-The images of the brothers.
-
-- When we come to your town, we the Israelites, in united fashion. We are united in Christ. We are united with our brothers in Christ. We are the Israelites that the Bible speaks of. We are not what they want us to be. They want us to be in slavery. They do not want us to look like this. This is terror to them. We ain't doing nothing. You do not even see us smoking a cigarette. That is the discipline.
-
-> — Let me ask you something. Screaming Jesus, and Jesus. And we just read what Jesus said in the Bible. I am not trying to offend you, but Christianity is not what the Christians is talking about in the Bible.
->
-> — We got the Bible. We ain't worried about their hard faces and what they got to say. Going to bring out this word regardless of what they want to hear.
->
-> — We here as the prophets of God, man, to wake up the lost sheep, man. To wipe the mud out of our brothers and sisters' eyes, man, to get the clay out of their ears, man, so they can heal. Pray for our people that is at this conference and that are caught up into Christianity in itself, because we was once like them. We are no better than them. We just been freely given the wisdom of God, and freely we shall give.
->
-> — And had a wall great and high, and twelve gates. Your pastor said there is two, but the Bible just said there is what? Twelve gates. And at the gates twelve angels. And there is twelve big black angels at the gates. And names written thereon, which are the names of the twelve tribes of the children of Israel. Ariel, what gate are you going through?
->
-> — Trying to show them a positive imagery of where black men are supposed to be, black women are supposed to be, and our people are supposed to be in their mind. Our people have lost their mind. They actually think that we are against Jesus Christ. Jesus Christ is black and our people need to know better. And hopefully we can teach our people the truth so that they can come out of that ignorance and out of that psychological damage that they have been suffering up underneath the vice of white supremacy Christianity.
->
-> — The question is, since Jesus died for the law, what happened? He died for the nation of Israel. The law was the law of the sacrifice system. The Israelites had five sets of laws that they had to abide by. Ceremonial law, which means our holy days. The civil law, which means how we deal with each other like brothers and sisters. We are horrible to each other. We do not act civilised with each other at all. We labelled our women and let them go have babies on their own. That is sickness. The law is against that. We are supposed to be civil with our sisters.
-
-- How many of them went when our sisters got lynched? How many of them went when our brothers got maimed and killed? None of them went there and said nothing, but they speaking against us, and we are the ones that is consoling these families. They are my people. I hate to call them that, because they acting the way so-called master gave them the brain to think like that, because that is not the real them. They are seasoned that way.
-
-- Tell the pastor in your church have not even told you the truth about Jesus, and none of you all say anything. All of you all are sitting in the dark, ain't even reading anything, and none of you all have anything to say. We come out here reading the Bible and everybody got something to say. We expect it, because we know that this whole system is against what we are bringing out.
-
-- You really got to think — I hate to say this — you got to think like the devil as you look and see these. This is why I said the resilient monster. Now, I ain't saying that I am the devil. You all know I ain't the devil, right? But in order to deal with the devil, to know how to deal with him, you got to know how crazy thinks.
-
-- Look at all them brothers. That ain't no AI right there. Each one of those men come from a woman. Come from a mother and a father. Each individual, they were born in all kinds of different places, different countries, different cities, different states. They all came together as one to perform what the Bible says. Your eyes shall see your teachers. And they stood up upon their feet, and great fear fell upon them which saw them. That is what we are displaying there.
-
-- As Satan is looking at this, in his mind: how many of these men could I have gotten caught up in the pit of drugs, in the pit of being a homosexual, in the pit of being a murderer, of being a thief, of being a drug dealer? I want you to understand how they are looking. They said, all of these could have been slaves. These could have been my wonderful slaves. I could have gotten good sweat equity out of them, but now look at him. And what is doing this? What is causing this? I cannot get no damn sleep. Every time I turn around, more of them are waking up. So it is driving him to panic, because what is the ultimate of these numbers increasing? The 144,000. Once that number come in, Esau and everybody going to get it.
-
-The thumbnail — the pit and the pendulum.
-
-- Look at the telegram. There are elements here. You see the pendulum? That pendulum is the oppression that is being levelled against our people because we do not know. We are prisoners of hope. We are in a game of fools and we do not know the rules. So we are trying to make it and we do not know what making it is. We are trying to survive, trying to come together, but we are not coming together up under the Bible. We are not coming together up under the auspices of what this Bible told us to do. Gather together, O nation not desired. Gather together and keep his commandments. Our brothers ain't being taught this. The churches is guaranteeing to make sure that they never learn it. So that swinging guillotine, that device, is coming down on our people, because Esau is afraid of us waking up.
-
-- Now if you look to the right of that, you see the pit. That is our people falling to traps of alcohol, falling to the traps of money, falling to the traps of drugs. These are the things that is catching our people off guard and destroying our people. Let us read some of them signs. Poverty, addiction, violence, death, and no future. You all see that? We are asking for help. Another sign says dead end. Move on the other side. Coloured only, white only. This is the segregation. This is the Jim Crow. All of that stuff we living. Negroes denied rights. Again, a man is not a crime, because that is what they criminalise us. The pit and the pendulum.
-
-> The Pit and the Pendulum is a classic 1842 horror story by Edgar Allan Poe about an unnamed prisoner facing gruesome psychological and physical torture by the Spanish Inquisition.
->
-> The condemnation. An unnamed narrator is sentenced to death by fanatic judges during the Spanish Inquisition. He faints and wakes up in a pitch black darkness. The pit. He tries to measure the cell by walking along the wall, but he trips and discovers a deep, deadly pit in the centre. After passing out from exhaustion, he wakes to find food and water left by his captors. The pendulum. He wakes up strapped to a wooden frame. Above him, a huge swinging pendulum with a razor-sharp crescent blade slowly descends towards his chest.
-
-- I think it was a tale that comes from the Spanish Inquisition when they wanted to torture people, and he had moments before that blade would actually kill him. It is swinging backwards and forwards like the pendulum in an old clock. That is what the pendulum is. It was an actual blade. And you are tied to a table, and the pit is, if you roll over you are going to be eaten up by rats. So you are trapped.
-
-- Focus on that: facing gruesome psychological torture. That is the hangings. That is the lynchings. That is the things that we are going through in our neighbourhoods. That is the oppression. You losing your job, foreclosures on your homes, being pulled over by the police and you do not know what might happen. These are psychological terrors that we go through every day. We living in this kind of environment every day.
-
-- So as this blade is swinging, every time it swings it is getting closer and closer to when it is going to cut him in half. My point is, we live in this kind of terror. This is how black and Hispanic people live, in this kind of terror. Even though we try to act like we are not terrorised, we live like a terrorised people. We sell drugs to each other. We kill each other. We rape, rob and murder each other because we are afraid to do anything outside of that misplaced aggression. We do evil to each other. We lie to each other. We do all kind of evil to each other because we are allowed to do that. We are encouraged to do that.
-
-- They make us create music that encourages that. They give us television sitcoms, and we see ourselves on the screen doing just that. The music, we do that. The movies, we do that. Everything we do, we do that. So we fulfil this culture, because we are terrorised people. Whenever you get one of the actors or anybody that says, you know what, we are not going to do this, we want to bring a positive imagery to our people — what do they do? They set them up. They lie on them. They give them the Bill Cosby, and boom.
-
-- So that is the terrorism that we live in. The reason why they do this is to knock us off one by one, to keep our numbers down, to prevent us from reaching that number. Same thing like what happened during the time of Pharaoh. Kill off, because there is this deliverer, Moses. We do not want that to happen. So kill off the babies two years and under, just like they did with Christ. Kill off the saviours. Kill those people that are looking for the welfare of the people. We got to get rid of that. So that is the reason why they have that hatred towards us, and they want us to have that mindset of terror so that we can feel that there is no way out. But there is a way out. God is going to give you the way out.
-
-Keep them in the silly mode.
-
-> It is like that dangerous black person on the plantation who is always going around trying to read something or trying to figure things out, asking questions, trying to figure out how the plantation is run. That is a dangerous negro on this plantation. Sell him down the river, or give him a good whipping and stop him from being curious about serious things. Keep him in the silly mode. You are supposed to be in the silly mode, the destructive mode.
-
-- So when that number is reached, this system is done. So that is why they said, we cannot allow them to wake up. Cannot do it. Got to keep them silly. Keep these dumb statements. Keep these dumb movies out. This dumb music. Keep all that dumb stuff going.
-
-- That is the category that black people — that is what the sitcoms are about. That is what your dumb music is about. That is what it is all about. Keep you in the damn silly mode. Grown men talking about some damn basketball. Talking about a baseball or football. What the hell is wrong with you?
-
-- Do not let them think about anything serious, because then they become a danger. That is why they go after your children in school. If they notice that you are studious and you are studying, you figuring out engineering problems and stuff like that, that means you have the ability to reason.
-
-- You remember I pointed out from that record from King Leopold II, and he said, you are to teach your servants how to read, but do not teach them how to reason.
-
-> To reason is the mental process of using logic, facts and rational thought to draw a conclusion. Reasoning is the actual chain or method of thinking you use to get there. It is essentially the how behind your conclusions, allowing you to connect evidence to a claim.
-
-- Do you hear that? To draw a conclusion. Meaning that you can figure out how things happen just by looking at the elements around it. If you are trying to investigate something, you are trying to say, well, how did this happen like this? And you ain't even been there. You can just talk and figure out — well, because this happened that way and that happened this way, this must have happened, this person must have done this. That is reasoning. That means your mind is thinking on levels.
-
-- They do not want us to think like that, because you might figure out how to get out of slavery, because you will reason. How did we get into slavery? You say, okay, we broke God's laws. We were evil to each other. We did not take care of our women. We abused the priest funds. We did all kinds of evil. So what must we do? What is the reasoning on how we get out of this? You look at the ways of how you got to where you at, and you go in the opposite direction. But you have to reason to figure that out. Not just call out words about, I could read. You ain't reading. Reasoning is getting behind the words and investigating how we got here.
-
-- The Bible. That is how we figured out who the Israelites are, because we reasoned to figure out who the tribes are. A leads to B, B leads to C. How do we get into slavery? We must have did this, we must have did that. That is how you figure that thing out. So how do we get out of it? Look at how you got there. That is called reasoning. We been had that gift, but they want us to forget that we have that gift.
-
-J. Edgar Hoover: negro unity.
-
-> When FBI director J. Edgar Hoover was asked what in his opinion was the single greatest threat to the United States of America, he responded: negro unity.
-
-- So negro unity is the single greatest threat to the sovereignty of this country. He put that there, and he said it is a threat to the ongoing operations. What has actually been done? You basically put a target on all of our backs, because the quote unquote real Americans want their country to continue to flourish. But every time they see a brown face, you are the reason why my country is in trouble.
-
-NBC News: Trump claim brings new pain to relatives of lynching victims.
-
-> Trump claim brings new pain to relatives of lynching victims.
->
-> President Donald Trump's claim that the impeachment inquiry is a lynching struck a painful chord for black people whose relatives died in racist lynchings.
->
-> A statue of a chained man is on display at the National Memorial for Peace and Justice, a new memorial to honour thousands of people killed in racist lynchings, in Montgomery, Alabama, on April 22nd, 2018.
->
-> Willie Edwards Jr, a black truck driver, was killed by Ku Klux Klansmen who forced him to jump off a bridge in Alabama in 1957. Two years earlier, white men had bludgeoned black teenager Emmett Till to death in Mississippi. No one went to prison for either slaying.
->
-> Both people died in racist lynchings, and relatives of each were aghast Tuesday after President Donald Trump compared his own possible impeachment to lynching — racist killings, often for the purpose of inciting terror, that took an estimated 4,400 black lives over roughly seven decades in twenty states, mostly in the South.
->
-> Made in a tweet that drew backing from some Republican supporters, including Senator Lindsey Graham of South Carolina, Trump's claim was ill-informed at best and racist at worst, they said. And it denigrated the fates of people who were hanged, beaten, shot, drowned, burned or battered to death because of the colour of their skin. Either he is very ignorant, or very insensitive, or very racist and just does not care.
->
-> Deborah Watts of Minneapolis sits in a Jackson, Mississippi hotel and speaks about events in Mississippi and Illinois during the week that commemorate the sixtieth anniversary of the slaying of her cousin Emmett Till, on August 27th, 2015. Deborah Watts, a cousin of Till, called the president's tweet insensitive and offensive. Lynching is the ultimate act of racial terror that resulted in the brutal murders, trauma and terrorism that my cousin Emmett and thousands of innocent black men, women and entire communities of colour suffered for hundreds of years, she said. A collective — we all suffered a collective injury that permeated all states throughout this country, all over the world.
-
-- Does anybody have any idea what this is saying? You remember when he went through the thing where they was trying to impeach him? He is saying that he compared that to mothers and fathers losing their children. This is sick. I got to be careful, but I know he is the president, so I got to lean back. For him to say that, it just lets you know that he is not connected to us at all.
-
-- So Trump compared the thing that happened to him with the White House to this. Do you see the insensitivity? He has no feelings for these families that have lost these sons and daughters.
-
-- So how in the hell is Trump going to compare that little skirmish to this? No sensitivity to black people. In other words, I do not care about you. That is what he is saying. This MAGA country, make America great again, which means put black people in chains.
-
-- They were left speechless, flabbergasted. There it is, in black and white. He compared these horrible situations, historical massacres, to some damn impeachment proceedings. And his behind is in the White House getting ready to turn the White House into a damn casino basically, with all that damn nine hundred million dollars going into building some ballroom and all of that. White folks crying and starving. This man is completely mad. Mad. But I love him. He needs to continue to do exactly what he is doing.
-
-- And if he thinks that way, all of his MAGA white folks think that way. Everywhere you go, people thinking like this. So you brothers and sisters better be on guard. That is what I was telling you earlier. Better be on guard legally, but be on guard.
-
-- And he is going to compare all that suffering to him being so-called impeached? And his ass ain't impeached at all. That just shows you Esau do not give a rat's ass about us. And it is time you recognise that. When the Bible says a nation not desired, it means just that. This is the proof. That is like when I read the Dred Scott decision. I know black folks were damn near crying because America said, you are not a citizen. They ain't like that thing that hurt feelings. Prisoners of hope. Better wake the hell up.
-
-The United Nations definition of genocide.
-
-- What are some of the causes of slow genocide? Let us read the definition of genocide first. Let us understand first what genocide actually is by definition, because our people do not believe that we are facing genocide. We are facing genocide.
-
-- I was watching a brother in a video, and he was saying about you brothers and everywhere where you go — that is the one where he said do not go to the mailbox without your stuff. He said you better recognise what time you are in. This is genocide. You are living in a system where they are trying to kill your babies off. He said, I am not trying to scare you. Because a lot of people hear me talking, they say, man, he is scaring us with that talk. Like when Carmela said that he went down there, they said, you scared us with all these black men. No, we are not trying to scare you. We are trying to terrorise you into waking up. How about that, to let you know how serious this is?
-
-- Let me narrow this thing down, because in here I am talking to the choir. Most of you all are already on board. We are organising. We are building. We are in unity. We keep the commandments. Sisters keep the commandments. Brothers keep the commandments. I am mainly talking about you brothers and sisters that is at home watching. You that ain't really picked up and made a move toward this truth yet. I am mainly talking to you, because you will be the next one on a damn tree. You will be the next one hung. Your sisters be lynched out somewhere bleeding out over a damn abandoned tree. It is time for you to wake the hell up.
-
-> Genocide definition, by United Nations. Under the United Nations Genocide Convention, genocide is defined as any of five specific acts committed with the intent to destroy, in whole or in part, a national, ethnical, racial or religious group.
->
-> The five prohibited acts. Article two outlines five physical acts constituting genocide: killing; causing serious bodily or mental harm; deliberately inflicting destructive living conditions; imposing birth prevention measures; and forcibly transferring children.
->
-> Key elements of the crime. Intent — mental element: requires a specific intent to destroy the targeted group. Protected groups: limited to national, ethnic, racial and religious groups, excluding political or social groups. Punishable offences include conspiracy, incitement, attempts and complicity.
-
-- Religious group. I want to make a point about religious group. You know that this system do not really want to classify us as a bona fide religious group. That is why they try to say the black Hebrew Israelite. Ain't no such thing as that. We are the Israelites of the Bible, and religiously we are the children of the Most High. But they do not want to do that, because at that point you fall up under what they call protected groups. Whenever you go after a racial group, if you go after a religious group, you fit the definition of perpetrating genocide against a legitimate people. So that is why they wanted to deny the legitimacy of the Israelites. That is why they gave us those fake bastard people called Jews. They are the ones that are supposed to be not a nation up underneath the Most High. You are the real Israelites.
-
-- Killing. That is what is happening with these trees. Causing serious bodily or mental harm — bodily or psychological mental harm, that is terrorism. All of this constitutes genocide, because it drives you crazy. That will put you in the hospital. That will create high blood pressure. These are things that make you literally sick. This is done by design to kill you off.
-
-- Deliberately inflicting destructive living conditions — meaning deprived in your communities, cannot get certain services, cannot get the proper wages, cannot get business loans. That is what this is talking about. All of those are acts of genocide.
-
-- Imposing birth prevention measures. Wait a minute. Birth control. Planned Parenthood. That is genocide, damn it. So what the hell are they talking about, that Planned Parenthood is not eugenics? It is the same damn thing that constitutes genocide.
-
-- And forcibly transferring children. Trafficking. Genocide. Bam.
-
-- They have an intent to destroy us. The SPLC had an intent to destroy us. Every snooker that joined her to be against us had an intent to destroy us. They themselves are practising genocide against you and me.
-
-- Protected groups, limited to national, ethnic, racial and religious groups. You see that? So if they consider you a bona fide religious group, to attack them would be a crime. So they said, we do not want to call you who you really are. You are the Israelites of the Bible, but we do not want to say that, because we want to say you are individuals. That is some hatred there. You are the Israelites that the Bible speaks of.
-
-Soft genocide.
-
-> Soft genocide is a descriptive term used to characterise slow, indirect or systemic methods of destroying a group without overt mass military bloodshed.
->
-> Definition and concept. Slow destruction: it involves starving, blockading resources, denying medical care, or forcing displacement over time.
-
-- Slow, indirect — meaning you did not see it. You thought the snake was pretty. Without overt, meaning in your face. I am the wolf, I am here to kill you. That is overt. Covert is hidden. That is how they moving. Soft genocide.
-
-- No, because they are doing it through immunisations. Doing it through your doctor's office. Doing it through these different shots and stuff like that. Slowly killing you. End up with shingles and all types of stuff. Slowly killing you.
-
-- Slow destruction, where you do not even notice it. Here you got an evil wife that hates your guts, and she is crushing glass in your food, smashing a little fine powder, and slipping arsenic in it, which is odourless and tasteless. And she is rubbing your head as you eat. Oh, baby, you all right? That is soft genocide. Meanwhile you are bleeding every time you go to the bathroom and you do not know why.
-
-- Slow destruction involves starving, blockading resources, denying monies, denying payments, denying opportunities, denying job opportunities, denying centres for your boys and sons and so forth. Denial of resources is an act of genocide.
-
-- Denying medical care. Like Charles Drew, who came up with the blood bank. He was refused medical intervention when he was in a car accident, because the hospital did not — and they try to say that ain't true. It is true. They try to say it ain't factual. It is factual. They denied him entry into the hospital for him to benefit from his own damn invention. He needed blood. He was in a car accident, and they would not allow him to go inside a racist white hospital that is using his invention to save other white folks. He is the creator of it, and he was not even allowed to benefit from his own invention. Charles Drew, the father of blood plasma. Look it up.
-
-- Forcing displacement over time is urban renewal. Gentrification. Moving into your neighbourhoods and the next thing you know, you are gone. The property value goes down. All of that fits with genocide. We all know about things like this and we have seen it. Mississippi is a good example of it. That is why the people live and feel like their spirits are boarded up, because they are feeling all of these. And when I say they, we all feel it.
-
-Planned Parenthood.
-
-- Here is a part of genocide right here. Here is Planned Parenthood welcoming black women to go in and murder their babies. Watch this.
-
-> — Why do pro-abortion people act this way? She is following me around just to play music in my face and try to distract me.
->
-> — I am allowed to stay right here. I am not blocking the door. I am not doing anything wrong. She is impeding on my path and sticking her phone near me.
->
-> — Ma'am, we can help you today. Your baby is a gift from God. Your baby is a blessing from the Lord. Please do not murder your baby, ma'am. We would love to help you. Your baby is a gift from God. Please do not hurt your baby.
-
-- Meaning the guy with the black shirt on, he is against it. He is trying to tell the sisters, do not go in there. Do not kill your baby. Love your babies. That is what he is doing.
-
-- Now she is yelling at the mom, telling her to ignore me because I am apparently yelling at her. You see how they do? We are yelling? They say we are yelling. Oh, you are offending me.
-
-- Now show me the very next scene. You saw, now they escorted her. How do they not see this hypocrisy? They just walked the sister in there, and this same pink woman come out smiling, because that is another dead child. Genocide. You all see this? This probably happened just yesterday. That is just showing you what we are dealing with. Like I said, it is a slow death. It is a soft genocide, but you better operate like it is right there at your doorstep. Stop playing games.
-
-The truth behind social media.
-
-- I want you all to listen to this here, to show you all how much of a dupe your sons and daughters are into when they get hooked up on these phones. You all going to learn about the diabolicalness of how these people set this thing up.
-
-> How social media is destroying your life. Facebook comments have been pouring in after four people died while hiking. So you are dealing with an addicted generation. This is a big time bomb ticking. These kids who commit suicide, you go look at their Instagrams, you would have no clue.
->
-> — Mr Zuckerberg, would you be comfortable sharing with us the name of the hotel you stayed in last night?
->
-> — Um, uh, no.
->
-> People who spend more time on Facebook suffer higher rates of depression than people who spend less time on Facebook. It will destroy relationships. It will cost time and it will cost money, and it will make your life worse. To be human means that you are persuadable in every single moment. It does not matter what language you speak. It does not matter how intelligent you are. It is not about what someone knows. It is about how your mind actually works. And we now know that many of the major social media companies hire individuals called attention engineers, who borrow principles from Las Vegas casino gambling, among other places, to try to make these products as addictive as possible.
-
-- To try to make the phone as addictive as possible. Now, they went and dealt with people in the casino. Do you all recognise that inside a casino there is no clock? There are no windows, and you are going in there and you are just pulling levers. You will be in there for days and do not even realise it. That is how you are when you doom scrolling on your phone.
-
-- So they studied the casinos to find out how they can get their phones with the likes and the dopamine. The same thing that happens with you at the slot machine. Ah, maybe I am going to hit on the next one. Maybe I am going to hit on the next one. And you will be there for hours and will not even realise it. Here you doom scrolling on your phone. You are late for work. You miss work. All your productivity time is used up in that thing.
-
-- And every time that you go from channel to channel, subject to subject, your sensitivity towards any subject is less than nothing. That is why you do not register emotions. That is the reason why you kill somebody and it do not mean nothing, because your mind cannot even process anything at one time. Your mind is always on go. And that is how they deal with these Julio Foolio type of people, killing and don't register nothing until their behinds get ready to do sweat equity. Now all of a sudden they in court crying. It is too late then.
-
-- So all of this is done to keep you in a stupor, to keep you from being useful for the Lord.
 
 ## Scriptures Opened
 
@@ -518,6 +236,30 @@ The truth behind social media.
 - But the way things are going now, you brothers that is getting caught out here that is not paying attention, you sisters that is getting out here playing around like you lollygagging in the tulips — you are going to end up dead. You are going to end up on a noose. You are going to end up getting chopped up and cut up, because you do not recognise that there is no such thing as a nice snake. There is no such thing as a cute fox.
 
 - Live peaceably with all men. So when our people are catching hell, we better watch what is happening.
+
+Situational awareness — the skit.
+
+- I want you women to pay attention to this. Now, this is a skit. I am just going to let it play. This was done by one of our schools. I want you brothers to pay attention, because you better recognise what time you are in. You already know you are not desired. Cannot be out here playing games.
+
+> Situational awareness is key. Got to put that phone down. Somebody can snatch you up just that quick. This right here, you will pass out and you will be gone to another country. Maybe get killed. Maybe get raped. You got to put your phone down and check your surroundings. Pay attention to where you are at. Do you know I followed you in the store, out the store, through the parking lot? You did not even see me.
+
+- That is many of you sisters. You are on your damn phone. Ain't paying attention to nothing. That is how your behind gets snatched up. Knapsacked. Inside that rag will be some kind of chemical to knock you out. Inside that parking lot will be some van with the door already open. Slow genocide. There is a whole network of this kind of stuff going on. I want you all to understand what I am saying. It is a network of people trying to kill us off slowly.
+
+- And you need to understand why they are trying to kill us off slowly. Because you are the greatest thing. You are the greatest people that ever put your foot on this damn planet. And I am saying that for real, because you are God's people. And the more of you that wake up, the more in trouble they are. So their objective is to neutralise the numbers, so to speak. Kill them off slowly. Siphon them off.
+
+- How many of your daughters will fall right into this trap right here, because they got their head buried in a damn phone? They ain't paying attention to nothing. Now, I know a lot of people quiet now. I do not give a damn. I am trying to save your behind. We out here playing games. Next damn thing you know, you hanging up in a damn noose.
+
+- And let me tell you about these diabolical people, by the way, while I am on it. These people are so sick. These klansmen — and I am talking about all of them — they are your enemies. You got to understand that. I do not have time to play with you. They do not want you dead off the top. These people have such an insatiable appetite to see you struggle, to see life leave your body. That turns them on. That is an aphrodisiac to them. I know I am talking sick, perverted, but that is how they are. They want to see life leave you. They want to throw you in the water like Nolan Wells. They threw him in the water. I noticed what they did. And watch them. They love that. They get a thrill off of that. They will drag a man to his death. They do not say they want to kill him — we want to have the satisfaction of taking his life from him. We want him to beg for his life. We want to see him suffer. We want to see the women suffer.
+
+- They want to knock you out. They do not want to kill you. The man that will come and put the thing around your nose is not to kill you. They will wake you up later on when you do not know where the hell you are at.
+
+- You forget too damn much. They done forgot about the campaign of all these missing black women. Did you all forget that? You all remember that just a few years ago? Thousands of black women just missing. Black men missing. Posters going up, missing campaigns all over the place because another one is missing. Another one is missing. But here comes Christmas, Fourth of July, Thanksgiving, and you forget all about it. Then here comes a whole other wave of murder, and you move on to the next one.
+
+- Why is it that your mind moves so much from one thing to the other? It is because your mind has been messed up with the sensation of social media, where you cannot even concentrate on one thing at a time. They kill our people one year, murder our people another year, raped our women another year, and you cannot remember something that happened just a year ago. But meanwhile family members are dead. Members in your community dead, because you cannot even remember, because your mind is on channel zero changing with every TikTok, every short. You have no ability to even focus on any one thing at a time. That is by design.
+
+- So they want to make sure that we never come to the real essence of who we really are. So that is the reason why they are killing us and want to continue to kill us, and they want to terrorise you with that killing so that you do not even spark no kind of interest to wake your people up. Terrorism. We are in it. The pit and the pendulum.
+
+- How many of our women are being trafficked all over the damn country, all over the world? Your daughters, damn it, trafficked. Your sons trafficked. They made all kinds of movies on it and we still playing games. The world out here is sick. We ain't got no time to be damn playing games.
 
 **[Ephesians 5:15-16](/bible/ephesians/5#v15)**  *[[1:01:51](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=3711s)]*
 
@@ -615,6 +357,60 @@ The truth behind social media.
 
 - So I just say that they do not like me talking like this here. There will be a camera following me. That is all right. You all dig it?
 
+- They do not want us when we are connected with the essence of who we are. They do not want us connected to become one in unity with Christ. They do not want that, because their whole objective of bringing us over here was to work us to death, to work us to build this kingdom for them. Give me the book, Babylon to Timbuktu.
+
+<div class="reading">
+
+Reading from *From Babylon to Timbuktu*  *[[1:16:02](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=4562s)]*
+
+> The black Jews had an advantage over the African tribes.
+
+- That's the reason why they wanted us. That's the reason why they sent the army out to get us, because we had an advantage over all of the Hamites. Because you are a special people. You don't understand that. That's the essence of you.
+
+> They carried their culture, history, laws, and written records with them. This assured them a constant precedent for the development of a higher social organization.
+
+- So when we got our Bible, when we have our laws, this is what garners us to develop a higher social organization. That's what they don't want. You leaving us alone? Just think about it. Black Wall Street and Tulsa and all the towns. It wasn't just Tulsa. We had towns all over the place. Durham, North Carolina was one of them. We had towns all over, running it. A lot of people probably don't even know nothing about. You can look these things up. It wasn't just quote unquote Black Wall Street.
+
+- And you just imagine how in the world were we able to muster and organize and build and do better than the so-called whites, with the discrimination and the hatred and the being robbed out of slavery. Y'all got to understand the time period. We were basically stripped of everything. We had to imagine bootstraps. We had to imagine some kind of culture of holding ourselves together. And even in that we were still able to build and had enough collective power to set up great monuments of business, great monuments of society, banks, oil companies, movie theaters, hotels, hospitals. We did this in the damn 20s without money from them. Telling me how great we are.
+
+> Because of the stability of the black Jewish culture, the Jews were not absorbed into the autochthonous population. In fact, the Jews absorbed some of the native tribes. The Jews made use of every opportunity. They were an industrious and skillful people.
+
+- We were an industrious, like we still are. They said we couldn't make music. They said no problem. We'll just get on the lunch counters. Next thing you know, somebody get up and start rhyming rap music. I'm talking about the real rap music, not this mess that they got now. Next thing you know, McDonald's is rapping. Burger King is rapping. The department stores, Walmart, they all rapping because of what you started in the Bronx. Beating on some drum, beating some table, beating on the drums. Resilient. That's a word. Resilient.
+
+> In the Jewish Ghanaian states were found kings, princes, governors, generals,
+
+- No help from white folks. As y'all see these things, no help from Esau. This is all us. Ghana.
+
+> secretaries, treasurers, revenue agents, judges, architects, engineers, doctors, historians, language interpreters, mathematicians, jewelers, sculptors, masons, carpenters, painters of art, goldsmiths, leather workers, potters, armorers, saddlers, blacksmiths, agriculturalists, etc.
+
+- The list goes on and on. That's the bubbling greatness that's in us. Now, we trying to ignite that within our brothers and sisters right up in here. We can do things. A lot of people think we can't do anything. I make it my business to show that we can do it. And I say again, it ain't just me. I'm just sitting before you now, but I'm talking about all the leadership. We've been trying to show you that there's greatness just waiting to come loose, waiting to be untapped, waiting to come on out.
+
+- So, you see that we had all of these skills. All of these skills and then some.
+
+</div>
+
+<div class="reading">
+
+Reading from *They Stole It, But You Must Return It* by Dr. Richard Williams, Chapter Four, “What Did White America Do to the Black Father?”  *[[1:20:49](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=4849s)]*
+
+> Blacks came from a country where many men were warriors and family heads.
+
+- That's the kind of men we were. We can get that back. Ain't nothing wrong with having that spirit. Blacks came from a country where many men were warriors and family heads. What do you mean we don't take care of families? We took care of our families. Ain't no such thing as woman pregnant and she got a baby and nobody. That did not happen with us. Even in slavery, that didn't happen. I got records from Lerone Bennett Jr. talk about how we were dealing even in child slavery, how we didn't even deal with the mess that you see us doing now today.
+
+> These black warriors and black family heads, however, offered a threat to white America's economic place.
+
+- That's the point right there. If you're left with your essence, if we're left with our Bible, if we are left with the greatness that God gave us, for you are a holy people unto the Lord thy God, the Bible says, if we are left alone with that greatness, that is a threat to them. Not the drug dealer, not the drug cartel, not the murderer, not the serial killer. They're after us. They ain't looking for these people. They're not looking for the real gangsters. They're not looking for the people that's really bringing real hell on this earth, and hell followed with that pale horse. They're not looking for him. They're looking for us.
+
+> But these warriors and family heads, if made slaves,
+
+- If they can make us slaves, if they could turn us away from the greatness that is in you, if they can make us believe that we are not great people, if they could reverse our psychology to make us believe that we are nobodies, like what they did during the Jim Crow era, like what they did with the minstrel shows and made us ashamed of our lips, made us ashamed of our skin and our hair and all that. If they can actually make you believe that something is wrong with you, as a man or a woman thinks, they will become that. And that's exactly what an oppressor want you to do. They want you to think like that.
+
+- If we can make them slaves, if we could take these great, these warriors, these men that got all kinds of talent. They did not want dummies. I want you to understand your greatness. They didn't go to dummies. They didn't go and try to colonize people that ain't got no sense. Dummies cannot build up your society. Dummies can't do nothing. They want smart people. They want brilliant people. But we cannot have them using their brilliance for their own.
+
+- So we have to find out, how can we get to them? Oh, I know. They're God's people and they broke God's laws. And if they breaking God's laws, God is not going to be for them. Therefore, we can step in and we can exploit them. So what is the one thing that we have to do? Is to make sure that they never get connected back to their God. That's what's happening.
+
+</div>
+
 **[2 Corinthians 2:15-16](/bible/2-corinthians/2#v15)**  *[[1:24:33](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=5073s)]*
 
 > <sup>[15](/bible/2-corinthians/2#v15)</sup> For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
@@ -633,6 +429,46 @@ The truth behind social media.
 
 - And who is sufficient for these things? That is what we are. We are sufficient to do these things.
 
+<div class="reading">
+
+Reading from *They Stole It, But You Must Return It* by Dr. Richard Williams, Chapter Four, continued  *[[1:27:41](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=5261s)]*
+
+> could bring the highest economic return for white America.
+
+- Bring the highest economic return for white America. So they want our brilliance. They want our talents. There's not a sports field with damn near all the people on the teams black men, Hispanic men, the Israelites. They want that cuz you got that talent. Believe me, they're using us in a whole lot of other areas too, because we got that talent.
+
+> Therefore, the submission of the black males became a major emphasis and resulted in the development of a new slave system. A slave system designed to destroy the manhood of the black males.
+
+- That's what this whole campaign is about. To destroy the manhood of your fathers, to destroy the manhood of your sons, your husbands. That's what their objective is. But they're not looking to destroy the manhood just of anybody. They look to destroy the manhood of those that have the great talent and the wisdom and all of the skills and the greatness that's just bubbling within us. They don't want us to have that for ourselves.
+
+</div>
+
+<div class="reading">
+
+Reading from a book on the seasoning of slaves, the section “To Make a Slave”  *[[1:29:55](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=5395s)]*
+
+> How does one become a slave?
+
+- This is what they wanted to do. So they didn't just want just anybody. They don't want dummies. They want people that got all of the skills that we read when we was in Ghana. That's one of the areas that they took us from, all over the Ivory Coast. Talent was all up and down the coast. So that's why they went to get us from there. They said, I know, how are we going to build our society up? We got to get these brilliant people to build it for us, but we cannot allow them to use their own brilliance for their own sustainment.
+
+> What is the process that turns a human being into a creature of self-hatred and self-doubt? Someone fully controlled and in fearful awe of another.
+
+- They said, what is a process that turns a human being into a creature of self-hatred. That's what they did. They made us hate ourselves. They made us have self-doubt. This is the reason why you're loaded with all kind of talent, but yet we're scared to move on it, because you got a whole lot of doubt in you. Why in the world are we doubting? Because this bastard says something. Self-doubt.
+
+- Someone fully controlled. They want us to be fully controlled.
+
+- How do you make someone to be in fearful awe of another? That's what they're trying to figure out. How do we take somebody and make them hate themselves, make them doubt themselves, and turn them into fearful beings so afraid? How do we do it? Just going to tell you how they did it.
+
+> Slaveholders developed a system. It was called seasoning.
+
+- This is what was done to us. Seasoning. They didn't want to just straight kill us. They want the body. How do they say it? Kill the mind and save the body. How'd it go? Kill the Indian and save the man. Same thing that they did to Gad.
+
+> It was the process under which strong men and women were broken.
+
+- It is the process of how strong men and women were broken.
+
+</div>
+
 **[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[1:33:38](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=5618s)]*
 
 > <sup>[7](/bible/ecclesiastes/7#v7)</sup> Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
@@ -647,6 +483,88 @@ The truth behind social media.
 
 - So, surely oppression maketh a wise man mad. Mad enough to organise, mad enough to come together, mad enough to put down the crack, to put down the dope, put down the alcohol, put down the OnlyFans and the pornography, put all that garbage away and stand up and be real men and organise the way the Most High told us to organise, up underneath his commandments. That is what our sisters need. They need to see that. That is what our brothers need to see. And when we come to your town, they are standing in awe. They cannot believe it. Especially Esau. He really cannot believe it.
 
+<div class="reading">
+
+Reading from a book on the seasoning of slaves, the section “To Make a Slave”, continued  *[[1:38:02](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=5882s)]*
+
+> Stripped of their dignity and tortured. Seasoning was a brutal system.
+
+- Christianity is the perfection of slavery. One of my quotes, all praise to the Most High. Christianity is the perfection of slavery. It is the final finishing touches of what slavery couldn't do or didn't do. Child slavery had its limit. Christianity completed it and glossed it and waxed it and polished it up, made it perfect. Christianity is the perfection of what slavery was supposed to do.
+
+- That's what they did in Christianity. Here you have pastors in church. They don't hear about all of these lynchings and murders. Where they at? All them big strong burly men up there in church supposedly. Where they at? Not saying a damn thing. Nothing. Scared. Christianity have dulled their minds down to the fact they can't even speak. They got to feel God in them. They got to feel the white man in them. That's what they got. They ain't got to feel God in them at all.
+
+- It was a brutal system. You recognize that we're still being seasoned. When they hang your sisters and your brothers up, they're still seasoning us. Seasoning. Terrorism is seasoning. To be terrorized is a seasoning. It's changing the flavor of your thinking. That's what seasoning does. When you season meat, you change the components of it. You change the taste of it. You change how it behaves in the pan when you're cooking it. Well, when we're seasoned, they're changing how we operate. And what changes us more? Terrorism. When they terrorize us, we become afraid. And these preachers that say they got the word of God ain't doing nothing but pimping you brothers and pimping you sisters. That's what they're doing.
+
+> A system that remade men in an image pleasing to their oppressor.
+
+- Do y'all hear this? That's what it did. It made us flavorful for our oppressors. We're that tough meat. They didn't want that tough meat. They season us to make us more acceptable. You're the good negroes. You're the good preachers. Those Israelites, they're the bad ones. You bought that line.
+
+> It rewarded good behavior and punished bad behavior.
+
+- You want to know what this is called? Operant conditioning. This is a system of reward and punishment. They rewarded what they call good. Like what they call it? Meritorious manumission. When you turn your brothers in, or you reported someone stealing massa's hogs or something like that, and they grant you good for doing that, but meanwhile you was being enslaved, everybody. Your mother's raped, your daughter's raped. No, man. No.
+
+- Bad behavior was behavior that they didn't like, but yet it was good for your survival. That's what bad behavior was. Good behavior meaning I will stay a slave. Oh, you're a good slave. What do you mean you trying to escape? You must have drapetomania. That was an actual term that they made up. What's the name, Samuel Cartwright. A demon. So-called Jew made up a term so that if you want to get away from slavery, you're a sick negro.
+
+- If you wanted freedom, they quote unquote diagnosed you and said that you had a disease called drapetomania, because you wanted freedom. So you are a bad slave. If you're a good slave, you would want to serve them. If you can make a people think that way, they would love us. We would be desired. You were once desired. The Bible, we was reading Zephaniah 2, it says, gather yourselves together, yea, gather together, O nation not desired. The reason why we're not desired is because we are uniting up underneath the Most High. And they don't like that. So this whole nation in their mind has drapetomania.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of drapetomania  *[[1:42:18](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=6138s)]*
+
+> Drapetomania is a historical pseudoscientific diagnosis
+
+- In other words, BS. Pseudo meaning fake. It ain't real. It ain't scientific. That's the point.
+
+> from 1851 that claimed enslaved black people who tried to run away from bondage suffered from a mental illness.
+
+- Do y'all hear this? So, some of us believe this. We don't want to get away from them. We want to be next to them. We always want to be around them because we feel like we cannot do nothing for ourselves. And that's a mindset that they put on us.
+
+- And if we believe that, then we are desired only up until they get what they want from us. Then after that, they don't care about us at all. So they ain't never going to love you. Even if you're a quote unquote good slave for them, they still don't love you. They just want to use you, which is the exact reason why they brought us over here in the first place. It was never to love you. It was never to love us.
+
+</div>
+
+<div class="reading">
+
+Reading from a book on the seasoning of slaves, the section “To Make a Slave”, continued  *[[1:43:29](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=6209s)]*
+
+> It turned captive men into things, their captives into beasts. The wise slave master never took seriously the belief that my people were natural-born slaves.
+
+- In other words, the ones of the so-called white men that studied. It says the so-called wise slave master never took seriously the belief that we were truly inferior. That's what he's saying.
+
+- In other words, they knew what they had.
+
+- We were never natural-born slaves. We're the children of the Lord. Why in the world would we even think that we are natural-born slaves? Because that's the psychology that they've been trying to get us to accept.
+
+> He knew that African men and women fresh from the continent had to be broken in,
+
+- Fresh from what we were just reading about in Ghana, for an example. All that greatness that we were doing.
+
+- They knew that we had to be seasoned. They knew that we had to be broken in. So this is the reason why I say often we have not even tapped into who we really are. We are still shells of what was made. The real us have not really even came to the surface yet. We working on it. We in here. We getting it. But just think about our people out there talking all kind of crazy. That's why I say when so-called negroes talk crazy, I'm not even dealing with the real man. I'm dealing with a byproduct of what white folks made. That's what you're dealing with. You're not even dealing with your own people.
+
+> forced to accept a subservient position.
+
+- That's what Christianity did. You got all them black people in church and nobody says, what does Jesus Christ look like? Just think about that. Thousands and thousands of people sitting up under a negro preacher, and not one person will stand up, defend, and in declarative tones say, by the way, that Bible says that Jesus Christ was hung on a cross. So that meant he had a body. And if he had a body, what did that body look like? That's all they have to say. And the whole church would stone him. All them negroes would stone him. So he got the devil on him. But this just goes to show how messed up we are.
+
+> Slaves could never be trusted fully. Men wanted to be free.
+
+- He said the wise slave master. This is the one that studied. This is the one that's reading the Bible and said these are the Israelites, and we know that these people got all kinds of great substance in them. And if we could just get them to not know who they really are, we can extract all this greatness from them. That's what this wise so-called slave master understood.
+
+- He said he never took seriously the belief that my people, meaning us, were natural-born slaves. He knew that African men and women, meaning the Israelites that came over from over there, fresh from the continent, had to be broken in, forced to accept a servant position. Slaves could never be trusted. He knew this. He said, I can never really trust them, because there's a spirit in man that's going to always try to figure things out. That's what he's saying.
+
+- You can never allow them to get near a book. That's what he's saying. You can never allow them to read, or teach them to read but not reason. Don't let them get together, because that spirit in them is going to come out and we going to have much problems, like Cicero and Mandingo. And after you hang me, kiss my ass.
+
+- Men, real men, wanted to be free. We don't want to be up under you. You can't make a slave out of a man that think like this.
+
+> If slavery were to work, if strong men and succeeding generations were to wear the yoke of bondage, their psychology would have to be altered.
+
+- And succeeding generations, this is what happened to us. If we were to comfortably, like, let me put it on, let me put on the yoke of bondage.
+
+- Their psychology would have to be altered.
+
+</div>
+
 **[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[1:51:14](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=6674s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
@@ -659,9 +577,107 @@ The truth behind social media.
 
 - And he shall put a yoke of iron upon thy neck. So when he put that yoke of iron on our neck, at first we resisted. We fought. What did this book say? It says, if strong men and succeeding generations were to wear this yoke of bondage — meaning wear it in comfort, the way we are now — our psychology would have to be altered.
 
+- Well, we were fighting, then revolts, then killing. Nat Turner, then Denmark Vesey, then Gabriel Prosser, then Will the Executioner. Then my heroes. If they were to have that kind of thinking, they ain't going to put that collar on with ease. So how are you going to get us to put that collar on with ease? They got to break that strong spirit. They got to break your man up.
+
+- That is the reason why they go after your young sons in school. You sisters — prison, the school to prison pipeline. My sisters, the fourth grade failure syndrome. If your son exhibits too much leadership ability when he is in the fourth grade, the witches that are called teachers notice that in him, and right away they start to work on him. They said, this man has got the spirit to become a leader one day. Let us embarrass him a few times. Let us make him put that back in his spirit. Do not let him be outspoken. Do not let him speak with dignity. Do not let him speak up. Make him shy. Make him scared to raise his voice. You talk to a man, his voice sound like a damn cat. I said, where the hell is your voice at, man? Speak. He is scared to speak. He is not used to speaking loud, because you have been made to think that way.
+
 - Until he have destroyed thee. So they had to fight with us, whip us, kill us, lynch us, castrate us, drag us, rip us apart by horses, do that to us so many times until we succumbed to, okay, you can put the chain on me — which means I am totally submitted into slavery. Our psychology has been changed.
 
 - That is when they desire you. You cannot have enough babies. Then we want more babies out of you. But now when you try to do something for yourselves, here comes eugenics — I mean Planned Parenthood. Same thing. That is when that comes in. O nation not desired.
+
+<div class="reading">
+
+Reading from a definition of resilient  *[[1:57:28](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=7048s)]*
+
+> Resilient. Being able to bounce back quickly after facing a difficult situation, change, or physical stress.
+
+- We are that resilient monster. Look up the word resilient. You know, I forgot to look that up. I meant to put that in here.
+
+- So they hate the fact that we're resilient. They said, no matter what we do, we gave you drugs. We gave you bad education. We put you in prison. We put poison in your food. We sell you bad groceries. We jack you up in the hospitals. When you go to the clinics, you get half the care. We railroad your sons and daughters to go to prison. We do all kinds of things to destroy you, but yet you still keep coming. They call that the resilient monster. We're the boogeyman. Because you keep coming back. That's how they see us.
+
+</div>
+
+The images of the brothers.
+
+- When we come to your town, we the Israelites, in united fashion. We are united in Christ. We are united with our brothers in Christ. We are the Israelites that the Bible speaks of. We are not what they want us to be. They want us to be in slavery. They do not want us to look like this. This is terror to them. We ain't doing nothing. You do not even see us smoking a cigarette. That is the discipline.
+
+> — Let me ask you something. Screaming Jesus, and Jesus. And we just read what Jesus said in the Bible. I am not trying to offend you, but Christianity is not what the Christians is talking about in the Bible.
+>
+> — We got the Bible. We ain't worried about their hard faces and what they got to say. Going to bring out this word regardless of what they want to hear.
+>
+> — We here as the prophets of God, man, to wake up the lost sheep, man. To wipe the mud out of our brothers and sisters' eyes, man, to get the clay out of their ears, man, so they can heal. Pray for our people that is at this conference and that are caught up into Christianity in itself, because we was once like them. We are no better than them. We just been freely given the wisdom of God, and freely we shall give.
+>
+> — And had a wall great and high, and twelve gates. Your pastor said there is two, but the Bible just said there is what? Twelve gates. And at the gates twelve angels. And there is twelve big black angels at the gates. And names written thereon, which are the names of the twelve tribes of the children of Israel. Ariel, what gate are you going through?
+>
+> — Trying to show them a positive imagery of where black men are supposed to be, black women are supposed to be, and our people are supposed to be in their mind. Our people have lost their mind. They actually think that we are against Jesus Christ. Jesus Christ is black and our people need to know better. And hopefully we can teach our people the truth so that they can come out of that ignorance and out of that psychological damage that they have been suffering up underneath the vice of white supremacy Christianity.
+>
+> — The question is, since Jesus died for the law, what happened? He died for the nation of Israel. The law was the law of the sacrifice system. The Israelites had five sets of laws that they had to abide by. Ceremonial law, which means our holy days. The civil law, which means how we deal with each other like brothers and sisters. We are horrible to each other. We do not act civilised with each other at all. We labelled our women and let them go have babies on their own. That is sickness. The law is against that. We are supposed to be civil with our sisters.
+
+- How many of them went when our sisters got lynched? How many of them went when our brothers got maimed and killed? None of them went there and said nothing, but they speaking against us, and we are the ones that is consoling these families. They are my people. I hate to call them that, because they acting the way so-called master gave them the brain to think like that, because that is not the real them. They are seasoned that way.
+
+- Tell the pastor in your church have not even told you the truth about Jesus, and none of you all say anything. All of you all are sitting in the dark, ain't even reading anything, and none of you all have anything to say. We come out here reading the Bible and everybody got something to say. We expect it, because we know that this whole system is against what we are bringing out.
+
+- You really got to think — I hate to say this — you got to think like the devil as you look and see these. This is why I said the resilient monster. Now, I ain't saying that I am the devil. You all know I ain't the devil, right? But in order to deal with the devil, to know how to deal with him, you got to know how crazy thinks.
+
+- Look at all them brothers. That ain't no AI right there. Each one of those men come from a woman. Come from a mother and a father. Each individual, they were born in all kinds of different places, different countries, different cities, different states. They all came together as one to perform what the Bible says. Your eyes shall see your teachers. And they stood up upon their feet, and great fear fell upon them which saw them. That is what we are displaying there.
+
+- As Satan is looking at this, in his mind: how many of these men could I have gotten caught up in the pit of drugs, in the pit of being a homosexual, in the pit of being a murderer, of being a thief, of being a drug dealer? I want you to understand how they are looking. They said, all of these could have been slaves. These could have been my wonderful slaves. I could have gotten good sweat equity out of them, but now look at him. And what is doing this? What is causing this? I cannot get no damn sleep. Every time I turn around, more of them are waking up. So it is driving him to panic, because what is the ultimate of these numbers increasing? The 144,000. Once that number come in, Esau and everybody going to get it.
+
+The thumbnail — the pit and the pendulum.
+
+- Look at the telegram. There are elements here. You see the pendulum? That pendulum is the oppression that is being levelled against our people because we do not know. We are prisoners of hope. We are in a game of fools and we do not know the rules. So we are trying to make it and we do not know what making it is. We are trying to survive, trying to come together, but we are not coming together up under the Bible. We are not coming together up under the auspices of what this Bible told us to do. Gather together, O nation not desired. Gather together and keep his commandments. Our brothers ain't being taught this. The churches is guaranteeing to make sure that they never learn it. So that swinging guillotine, that device, is coming down on our people, because Esau is afraid of us waking up.
+
+- Now if you look to the right of that, you see the pit. That is our people falling to traps of alcohol, falling to the traps of money, falling to the traps of drugs. These are the things that is catching our people off guard and destroying our people.
+
+<div class="reading">
+
+Reading from the signs on the class thumbnail  *[[2:07:03](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=7623s)]*
+
+> Poverty, addiction, violence, death, and no future.
+
+- Y'all see that? We're asking for help.
+
+> Dead end.
+
+- Move on the other side. This is on the other side.
+
+> Colored only, white only.
+
+- This is the segregation. This is the Jim Crow. All of that stuff we living. This is how we live.
+
+> Negroes denied rights.
+
+- Again, a man is not a crime, because that's what they criminalize us. The pit and the pendulum.
+
+</div>
+
+- I think it was a tale that comes from the Spanish Inquisition when they wanted to torture people, and he had moments before that blade would actually kill him. It is swinging backwards and forwards like the pendulum in an old clock. That is what the pendulum is. It was an actual blade. And you are tied to a table, and the pit is, if you roll over you are going to be eaten up by rats. So you are trapped.
+
+<div class="reading">
+
+Reading from a search result on *The Pit and the Pendulum*  *[[2:09:13](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=7753s)]*
+
+> The Pit and the Pendulum is a classic 1842 horror story by Edgar Allan Poe about an unnamed prisoner facing gruesome psychological and physical torture by the Spanish Inquisition.
+
+- That's what it was. So, y'all understand that. But I want to focus on facing gruesome psychological torture. That's the hangings. That's the lynchings. That's the things that we're going through in our neighborhoods. That's the oppression. You losing your job, foreclosures on your homes, being pulled over by the police and you don't know what might happen. These are psychological terrors that we go through every day. We living in this kind of environment every day.
+
+- So it says psychological torture and physical torture by the Spanish Inquisition.
+
+> The condemnation. An unnamed narrator is sentenced to death by fanatic judges during the Spanish Inquisition. He faints and wakes up in a pitch black darkness.
+>
+> The pit. He tries to measure a sail by walking along the wall, but he trips and discovers a deep, deadly pit in the center. After passing out from exhaustion, he wakes to find food and water left by his captors.
+>
+> The pendulum. He wakes up strapped to a wooden frame. Above him, a huge swinging pendulum with a razor sharp crescent blade slowly descends towards his chest.
+
+- So, as this blade is swinging, every time it swings, it's getting closer and closer to when it's going to cut him in half. My point is, we live in this kind of terror. This is how black and Hispanic people live in this kind of terror. Even though we try to act like we're not terrorized, we live like a terrorized people. We sell drugs to each other. We kill each other. We rape, rob, and murder each other, because we are afraid to do anything outside of that misplaced aggression. We do evil to each other. We lie to each other. We do all kind of evil to each other because we are allowed to do that. We are encouraged to do that.
+
+- They make us create music that encourages that. They give us television sitcoms, and we see ourselves on the screen doing just that. The music, we do that. The movies, we do that. Everything we do, we do that. So we fulfill this culture because we are terrorized people. Whenever you get one of the actors or anybody that says, you know what, we're not going to do this, we want to do something different, we want to bring a positive imagery to our people, what do they do? They set them up. They lie on them. They give them the Bill Cosby, and boom. You dig it? That's what they do.
+
+- So that's the terrorism that we live in. The reason why they do this is to knock us off one by one, to keep our numbers down, to prevent us from reaching that number. Same thing like what happened during the time of Pharaoh. Kill off, because there's this deliverer, Moses. We don't want that to happen. So kill off the babies two years and under, just like they did with Christ. Kill off the saviors. Kill those people that are looking for the welfare of the people. We got to get rid of that.
+
+- So that's the reason why they have that hatred towards us, and they want us to have that mindset of terror so that we can feel that there's no way out. But there is a way out. God is going to give you the way out.
+
+</div>
 
 **[Revelation 12:12](/bible/revelation/12#v12)**  *[[2:12:55](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=7975s)]*
 
@@ -696,6 +712,238 @@ The truth behind social media.
 - Till we have sealed the servants of our God in their foreheads. That is when he is going to release it. Do not bring the destruction yet, until we have sealed the servants of our God in their foreheads. Meaning your psychologically altered mind is going to be changed to what God wanted it to be. You ain't going to have that slave mind no more. You are going to have a mind of real men. You are going to have a mind of real kings. You are going to have a mind of real righteous men. When you get that kind of mindset, you become a threat.
 
 - And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel. So when that number is reached, this system is done.
+
+Keep them in the silly mode.
+
+> It is like that dangerous black person on the plantation who is always going around trying to read something or trying to figure things out, asking questions, trying to figure out how the plantation is run. That is a dangerous negro on this plantation. Sell him down the river, or give him a good whipping and stop him from being curious about serious things. Keep him in the silly mode. You are supposed to be in the silly mode, the destructive mode.
+
+- So when that number is reached, this system is done. So that is why they said, we cannot allow them to wake up. Cannot do it. Got to keep them silly. Keep these dumb statements. Keep these dumb movies out. This dumb music. Keep all that dumb stuff going.
+
+- That is the category that black people — that is what the sitcoms are about. That is what your dumb music is about. That is what it is all about. Keep you in the damn silly mode. Grown men talking about some damn basketball. Talking about a baseball or football. What the hell is wrong with you?
+
+- Do not let them think about anything serious, because then they become a danger. That is why they go after your children in school. If they notice that you are studious and you are studying, you figuring out engineering problems and stuff like that, that means you have the ability to reason.
+
+- You remember I pointed out from that record from King Leopold II, and he said, you are to teach your servants how to read, but do not teach them how to reason.
+
+<div class="reading">
+
+Reading from a definition of reasoning  *[[2:18:00](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=8280s)]*
+
+> To reason is the mental process of using logic, facts, and rational thought to draw a conclusion.
+
+- Do you hear that? To draw a conclusion. Meaning that you can figure out how things happen just by looking at the elements around it. If you're trying to investigate something, you're trying to say, well, how did this happen like this? And you ain't even been there. You can just talk and figure out, well, because this happened that way and that happened this way, this person must have done this, that must have happened, and this must have did that, and such and such. That's reasoning. That means your mind is thinking on levels.
+
+- They don't want us to think like that, because you might figure out how to get out of slavery, cuz you will reason. How do we get into slavery? You say, okay, we broke God's laws. We were evil to each other. We didn't take care of our women. We were evil to the men. We abused the priest funds. We did all kind of things and all kinds of evil. So what must we do? What is the reasoning on how we get out of this? You look at the ways of how you got to where you at, and you go in the opposite direction. But you have to reason to figure that out. Not just call out words. You ain't reading. Reasoning is getting behind the words and investigating how we got here.
+
+- Using logic. See, you got to break these things down. Using logic, facts, and rational thought to draw conclusions. The Bible. That's how we figured out who the Israelites are, because we reason to figure out who the tribes are.
+
+> Reasoning is the actual chain or method of thinking you use to get there.
+
+- The reasoning is the actual chain of thoughts, the actual succession. A leads to B, B leads to C. Such and such is the actual chain or method of thinking that you use to get there. How do we get into slavery? We must have did this. We must have did that. Such and such. That's how you figure that thing out. So how do we get out of it? Look at how you got there. That's called reasoning.
+
+> It's essentially the how behind your conclusions, allowing you to connect evidence to a claim.
+
+- It's the how did this happen? How did that happen? When you ask questions in an investigation, well, how did this happen? And you're listening to the various stories and you can say, wait a minute, that don't make sense. That doesn't make sense. Even though you wasn't there with neither one of them, but the way it's coming out, you said that does not add up. You're lying to me. You're not being truthful, because that doesn't make sense with this. That's how you figure out the how behind the conclusions.
+
+- That's reasoning. We been had that gift, but they want us to forget that we have that gift.
+
+</div>
+
+J. Edgar Hoover: negro unity.
+
+> When FBI director J. Edgar Hoover was asked what in his opinion was the single greatest threat to the United States of America, he responded: negro unity.
+
+- So negro unity is the single greatest threat to the sovereignty of this country. He put that there, and he said it is a threat to the ongoing operations. What has actually been done? You basically put a target on all of our backs, because the quote unquote real Americans want their country to continue to flourish. But every time they see a brown face, you are the reason why my country is in trouble.
+
+<div class="reading">
+
+Reading from an NBC News article, *Trump claim brings new pain to relatives of lynching victims*  *[[2:22:34](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=8554s)]*
+
+> President Donald Trump's claim that the impeachment inquiry is a lynching struck a painful chord for black people whose relatives died in racist lynchings.
+
+- Does anybody have any idea what this is saying? Hands up. I ain't going to call on you. Just put your hands up.
+
+- Damn. Did y'all get this? Who knows what's happening here? You remember when he went through the thing where they was trying to impeach him? He compared that to mothers and fathers losing their children. This sick — I got to be careful. But I know he's the president, so I got to lean back. But for him to say that, just letting you know that he is not connected to the people, to us, at all.
+
+> A statue of a chained man is on display at the National Memorial for Peace and Justice, a new memorial to honor thousands of people killed in racist lynchings, in Montgomery, Alabama on April 22nd, 2018.
+
+- So Trump compared the thing that happened to him with the White House to this. Do you see the insensitivity? Do y'all see the insensitivity? He has no feelings for these families that have lost these sons and daughters.
+
+> Montgomery, Alabama. Willie Edwards Jr., a black truck driver, was killed by Ku Klux Klansmen who forced him to jump off a bridge in Alabama in 1957. Two years earlier, white men had bludgeoned black teenager Emmett Till to death in Mississippi. No one went to prison for either slaying.
+
+- So, how in the hell is Trump going to compare that little skirmish to this? No sensitivity to black people. In other words, I don't care about you. That's what he's saying. This MAGA country, make America great again, which means put black people in chains.
+
+> Both people died in racist lynchings and relatives of each were aghast Tuesday after President Donald Trump
+
+- They were left speechless. They were left speechless, flabbergasted.
+
+> compared his own possible impeachment to lynching,
+
+- There it is in black and blue and white. He compared these horrible situations, historical massacres, to some damn impeachment proceedings. And his behind is in the White House getting ready to turn the White House into a damn casino basically, with all that damn $900 million going into building some ballroom and all of that. White folks crying and starving. This man is completely mad. Mad. But I love him. He need to continue to do exactly what he doing.
+
+> racist killings, often for the purpose of inciting terror, that took an estimated 4,400 black lives over roughly seven decades in 20 states, mostly in the South.
+
+- So, how in the world you compare what happened to him in the White House to this? No sensitivity at all, but that's your president.
+
+> Made in a tweet that drew backing from some Republican supporters, including Senator Lindsey Graham of South Carolina, Trump's claim was ill-informed at best and racist at worst, they said. And it denigrated the fates of people who were hanged, beaten, shot, drowned, burned, or battered to death because of the color of their skin. They said, either he is very…
+
+- Meaning Trump. For Trump to even compare some impeachment proceedings to this. This is the statement.
+
+> Either he's very ignorant or very insensitive or very racist and just doesn't care.
+
+- That's the answer. He just don't give a — that's what it is. He just don't give a damn. That's the point. And if he thinks that way, all of his MAGA white folks think that way. Everywhere you go, people thinking like this. So you brothers and sisters better be on guard. That's what I was telling you earlier. Better be on guard legally, but be on guard.
+
+- The Most High Christ said, sell your garment and get you a sword, a weapon to protect yourself when you're living in these virulent, heavy times. Legally. I ain't telling you to do nothing illegal. I'm going say that again. I'd be damned if I sit here and allow you to go out there and become another victim because you was scared to take somebody's damn head off that was trying to kill you. The hell with that.
+
+> Deborah Watts of Minneapolis sits in Jackson, Mississippi hotel and speaks about events in Mississippi and Illinois during the week that commemorate the 60th anniversary of the slaying of her cousin Emmett Till on August 27th, 2015. Deborah Watts, a cousin of Till, called the president's tweet insensitive and offensive. Lynching is the ultimate act of racial terror that resulted in the brutal murders, trauma, and terrorism that my cousin Emmett and thousands of innocent black men, women, and entire communities of color suffered for hundreds of years. She said a collective, we all suffered a collective injury that permeated all states all throughout this country, all over the world.
+
+- We felt this. And he's going to compare all that suffering to him going and being so-called impeached. And his ass ain't impeached at all. That just shows you Esau don't give a rat's ass about us. And it's time you recognize that. When the Bible says a nation not desired, it means just that. This is the proof.
+
+- That's like when I read the Dred Scott decision. I know black folks were damn near crying because America said, you're not a citizen. Prisoners of hope. Better wake the hell up.
+
+</div>
+
+- What are some of the causes of slow genocide? Let us read the definition of genocide first. Let us understand first what genocide actually is by definition, because our people do not believe that we are facing genocide. We are facing genocide.
+
+- I was watching a brother in a video, and he was saying about you brothers and everywhere where you go — that is the one where he said do not go to the mailbox without your stuff. He said you better recognise what time you are in. This is genocide. You are living in a system where they are trying to kill your babies off. He said, I am not trying to scare you. Because a lot of people hear me talking, they say, man, he is scaring us with that talk. Like when Carmela said that he went down there, they said, you scared us with all these black men. No, we are not trying to scare you. We are trying to terrorise you into waking up. How about that, to let you know how serious this is?
+
+- Let me narrow this thing down, because in here I am talking to the choir. Most of you all are already on board. We are organising. We are building. We are in unity. We keep the commandments. Sisters keep the commandments. Brothers keep the commandments. I am mainly talking about you brothers and sisters that is at home watching. You that ain't really picked up and made a move toward this truth yet. I am mainly talking to you, because you will be the next one on a damn tree. You will be the next one hung. Your sisters be lynched out somewhere bleeding out over a damn abandoned tree. It is time for you to wake the hell up.
+
+<div class="reading">
+
+Reading from the United Nations definition of genocide  *[[2:29:55](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=8995s)]*
+
+> Genocide definition by United Nations. Under the United Nations Genocide Convention, genocide is defined as any of five specific acts committed with the intent to destroy in whole or in part,
+
+- In whole. This is the definition of genocide. Genocide is defined as any of five specific acts committed with the intent to destroy, meaning destroy us, brethren, to destroy all of us or part of us.
+
+> a national, ethnical, racial or religious group.
+
+- Religious group. I want to make a point about religious group. You know that this system don't really want to classify us as a bona fide religious group. That's why they try to say the black Hebrew Israelite. Ain't no such thing as that. We're the Israelites of the Bible, and religiously we are the children of the Most High, if you want to put that on some book somewhere.
+
+- But they don't want to do that, because at that point you fall up under what's known as, what they call, protected groups or something like that. So whenever you go after a racial group, if you go after a religious group, you fit the definition of perpetrating genocide against a legitimate people. So that's why they wanted to deny the legitimacy of the Israelites. That's why they gave us those fake bastard people called Jews. They're the ones that supposed to be not a nation up underneath the Most High. You're the real Israelites.
+
+> The five prohibited acts. Article two outlines five physical acts constituting genocide. Killing.
+
+- That's what's happening with these trees.
+
+> Causing serious bodily or mental harm.
+
+- Bodily or psychological mental harm, that's terrorism. All of this constitutes genocide because it drives you crazy. That'll put you in the hospital. That'll create high blood pressure. These are things that make you literally sick. This is done by design to kill you off.
+
+- Killing constitutes genocide. Causing serious bodily or mental harm, that constitutes genocide.
+
+> Deliberately inflicting destructive living conditions.
+
+- Meaning living conditions, meaning deprived in your communities, can't get certain services, can't get the proper wages, can't get business loans. That's what this is talking about. All of those are acts of genocide.
+
+> Imposing birth prevention measures.
+
+- Wait a minute. Birth control. Planned Parenthood. That's genocide, damn it. So what the hell are they talking about, that Planned Parenthood is not eugenics? It's the same damn thing that constitutes genocide.
+
+> And forcibly transferring children.
+
+- Trafficking. Genocide. Bam.
+
+> Key elements of the crime. Intent. Mental element. Requires a specific intent to destroy the targeted group.
+
+- They have an intent to destroy us. SPLC had an intent to destroy us. Every snooker that joined her to be against us had an intent to destroy us. They themselves are practicing genocide against you and me.
+
+> Protected groups. Limited to national, ethnic, racial, and religious groups,
+
+- You see that, racial, religious group. So if they consider you a bona fide religious group, to attack them would be a crime. So they said, we don't want to call you who you really are. You're the Israelites of the Bible, but we don't want to say that, because we want to say you're individuals. That's some hatred there. You're the Israelites that the Bible speaks of.
+
+> excluding political or social groups.
+
+- Because if you can be a politician, you could do all these kinds of things, but we are the Israelites by birth.
+
+> Punishable offenses includes conspiracy, incitement, attempts, and complicity.
+
+- This is what they do to all of us.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of soft genocide  *[[2:36:40](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=9400s)]*
+
+> Soft genocide is a descriptive term used to characterize slow, indirect
+
+- This is what I was talking about earlier, in the beginning.
+
+- Slow, indirect, meaning you didn't see it. You thought the snake was pretty.
+
+> or systemic methods of destroying a group without overt,
+
+- Meaning in your face. Without overt, meaning in your face: I'm the wolf, I'm here to kill you. That's overt. Covert is hidden. That's how they moving. Soft genocide.
+
+> without overt mass military bloodshed.
+
+- No, because they're doing it through immunizations. Doing it through your doctor's office. Doing it through these different shots and stuff like that. Slowly killing you. End up with shingles and all types of stuff. Slowly killing you.
+
+> Definition and concept. Slow destruction.
+
+- Slow destruction where you don't even notice it. Here you got an evil wife that hates your guts, and she's crushing glass in your food, smashing a little fine powder and slipping arsenic in it, which is odorless and tasteless. And she's rubbing your head as you eat. Oh, baby, you all — that soft genocide. Meanwhile, you're bleeding every time you go to the bathroom and you don't know why.
+
+> It involves starving, blockading resources, denying medical care,
+
+- Slow destruction involves starving, blockading resources, denying monies, denying payments, denying opportunities, denying job opportunities, denying centers for your boys and sons and so forth. Denial of resources is an act of genocide.
+
+- Denying medical care, like Charles Drew, who came up with the blood bank. He was refused medical intervention when he was in a car accident, because the hospital did not — and they try to say no, that ain't true. It is true. They try to say it ain't factual. It is factual. They denied him entry into the hospital for him to benefit from his own damn invention. He needed blood. He was in a car accident and they would not allow him to go inside a racist hospital, white hospital, that's using his invention to save other white folks. He's the damn creator of it. And he wasn't even allowed to benefit from his own invention. Charles Drew, the father of blood plasma. Look it up.
+
+> or forcing displacement over time.
+
+- Forcing displacement over time is urban renewal. Gentrification. Moving into your neighborhoods and the next thing you know, you're gone. The property value goes down. All of that fits with genocide. We all know about things like this and we've seen it. Mississippi is a good example of it. That's why the people live and feel like their spirits are boarded up, because they're feeling all of these. And when I say they, we all feel it.
+
+</div>
+
+Planned Parenthood.
+
+- Here is a part of genocide right here. Here is Planned Parenthood welcoming black women to go in and murder their babies. Watch this.
+
+<div class="reading">
+
+Reading from the words on screen in a clip outside Planned Parenthood  *[[2:40:49](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=9649s)]*
+
+> Why do pro-abortion people act this way?
+>
+> She's following me around just to play music in my face and try to distract me.
+
+- Meaning that the guy with the black shirt on, he's against it. He's trying to tell the sisters, don't go in there. Don't kill your baby. Love your babies. That's what he's doing.
+
+> She's impeding on my path and sticking her phone near me.
+
+> Now she's yelling at the mom, telling her to ignore me because I'm apparently yelling at her.
+
+- You see how they do? We're yelling. They say we're yelling. Oh, you're offending me.
+
+</div>
+
+> — I am allowed to stay right here. I am not blocking the door. I am not doing anything wrong.
+>
+> — Ma'am, we can help you today. Your baby is a gift from God. Your baby is a blessing from the Lord. Please do not murder your baby, ma'am. We would love to help you. Your baby is a gift from God. Please do not hurt your baby.
+
+- Now show me the very next scene. You saw, now they escorted her. How do they not see this hypocrisy? They just walked the sister in there, and this same pink woman come out smiling, because that is another dead child. Genocide. You all see this? This probably happened just yesterday. That is just showing you what we are dealing with. Like I said, it is a slow death. It is a soft genocide, but you better operate like it is right there at your doorstep. Stop playing games.
+
+The truth behind social media.
+
+- I want you all to listen to this here, to show you all how much of a dupe your sons and daughters are into when they get hooked up on these phones. You all going to learn about the diabolicalness of how these people set this thing up.
+
+> How social media is destroying your life. Facebook comments have been pouring in after four people died while hiking. So you are dealing with an addicted generation. This is a big time bomb ticking. These kids who commit suicide, you go look at their Instagrams, you would have no clue.
+>
+> — Mr Zuckerberg, would you be comfortable sharing with us the name of the hotel you stayed in last night?
+>
+> — Um, uh, no.
+>
+> People who spend more time on Facebook suffer higher rates of depression than people who spend less time on Facebook. It will destroy relationships. It will cost time and it will cost money, and it will make your life worse. To be human means that you are persuadable in every single moment. It does not matter what language you speak. It does not matter how intelligent you are. It is not about what someone knows. It is about how your mind actually works. And we now know that many of the major social media companies hire individuals called attention engineers, who borrow principles from Las Vegas casino gambling, among other places, to try to make these products as addictive as possible.
+
+- To try to make the phone as addictive as possible. Now, they went and dealt with people in the casino. Do you all recognise that inside a casino there is no clock? There are no windows, and you are going in there and you are just pulling levers. You will be in there for days and do not even realise it. That is how you are when you doom scrolling on your phone.
+
+- So they studied the casinos to find out how they can get their phones with the likes and the dopamine. The same thing that happens with you at the slot machine. Ah, maybe I am going to hit on the next one. Maybe I am going to hit on the next one. And you will be there for hours and will not even realise it. Here you doom scrolling on your phone. You are late for work. You miss work. All your productivity time is used up in that thing.
+
+- And every time that you go from channel to channel, subject to subject, your sensitivity towards any subject is less than nothing. That is why you do not register emotions. That is the reason why you kill somebody and it do not mean nothing, because your mind cannot even process anything at one time. Your mind is always on go. And that is how they deal with these Julio Foolio type of people, killing and don't register nothing until their behinds get ready to do sweat equity. Now all of a sudden they in court crying. It is too late then.
+
+- So all of this is done to keep you in a stupor, to keep you from being useful for the Lord.
 
 **[Zephaniah 2:2-3](/bible/zephaniah/2#v2)**  *[[2:47:54](https://www.youtube.com/watch?v=RtKx6aQEzDM&t=10074s)]*
 
