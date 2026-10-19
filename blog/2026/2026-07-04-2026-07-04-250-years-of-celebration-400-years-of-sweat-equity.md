@@ -193,6 +193,59 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - For the accuser of our brethren is cast down, which accused them before our God day and night. Esau is the accuser, accusing our people before our God: look, the Israelites are in sin; we have them in adultery, in dope, drunk, celebrating the false holidays; these are your people, and they know better. That is them accusing us, like somebody telling your parents your children are worthless, while setting the children up to fail.
 - Clips from the film 1492: Conquest of Paradise were played: Columbus arguing that he could cross the ocean, and when asked how he could be so certain of the distance, citing his sources: the calculations of mariners, and Esdras. The Bible. Columbus had logbooks and records; he was looking for the twelve tribes of Israel. He knew there was land out there because he read the book. Movies are not made for our entertainment: they put things out there because they know our people are asleep, and they measure whether we are waking up. If too many wake up, they adjust the dope: the religion dope, the education dope, the television dope, the music. Once you think outside the box, they call you a radical, an extremist, a hate group: all of it designed to put you back in your place.
 - A lecture clip was played on the Huxtable effect: when positive images of our people were broadcast, test scores rose, 75 percent of black males graduated high school in 1990, and enrollment at Morehouse College went up 37 percent. Then came the opposite effect: scores went down, and by 2010 graduation had fallen to 47 percent. The music our people ask for is chosen by executives worth billions who market racist images of black people. It is the corporate sale of racism. Nothing is put out here for your entertainment: everything allowed to reach your ears and your screen is carefully sculpted to produce a thought, which becomes your actions, which become your destiny. They allowed the positive images as a test, saw that we respond to imagery, and then changed the music and the images to put us back to sleep: sweat equity.
+- The Greeks, Columbus's ancestors, learned to search out everyone's history: their strengths and their weaknesses.
+
+<div class="reading">
+
+Reading from a book of Flavius Josephus, on Demetrius Phalereus and the king's library  *[[1:51:46](https://www.youtube.com/watch?v=4fML805MO8A&t=6706s)]*
+
+> He procured the law to be interpreted, and set free those that were come from Jerusalem into Egypt, and were in slavery there, who were 120,000.
+>
+> The occasion was this. Demetrius Phalereus, who was library keeper to the king, was now endeavoring, if it were possible, to gather together all the books that were in the habitable earth, and buying whatsoever was anywhere valuable, or agreeable to the king's inclination, who was very earnestly set upon collecting of books, to which inclination of his Demetrius was zealously subservient. And when once Ptolemy asked him how many 10,000s of books he had collected, he replied that he had already about 20 times 10,000, but that in a little time he should have 50 times 10,000. But he said he had been informed that there were many books of laws among the Jews worthy of inquiring after,
+
+- If the Greeks are talking like that, you got to understand Esau takes care of Esau. They'll get the books. When they died, they passed the books down. The Romans came from the Greeks. Spain came from the Romans. So that history goes all the way down. So Columbus got that understanding.
+
+- I'm talking real facts here when I talk about how they deal with books. Me and Deacon Asaph, New York. We used to go to this bookstore in New York, 12th Street and Broadway. That's where this bookstore called Strands was at. We was just buying books like crazy. One of the books that I have had a note written, cuz it's used. It was a gift to a man named Seth. So they would buy the books, read through them and all of that, and then pass them down.
+
+- He said, "We need to know about these Israelites, but we don't want them to know about it." That's why they was so mad at Leonard Jeffries when he was in the school system teaching. He was trying to go into the history. They would get mad at all these guys. Ed W. Scobie. When you look these guys up, they was making a whole lot of trouble in the college scenes, because Amalek runs that. And it said, "You're getting too close to the truth, so we going to disband you," and all types of stuff. Say he's anti-Semitic. All that mess, and took this man out of his tenure. A tenured professor, they got rid of him, because he was getting on they behind about going into them records. They said, "We don't want them to get too deep."
+
+- This is for my book: "April 25th, 1987. Dear Seth, best wishes to you on this special day, Raymond Montana." That's in the book. The name of the book is *Jewish Civilization*. I'll bring the book and I'll show it to y'all in case y'all doubt me.
+
+> and worthy of the king's library; but which, being written in characters and in a dialect of their own, will cause no small pain in getting them translated into the Greek tongue.
+
+- But he still wanted those books. Even in the Book of Eli, the Bible was in Braille. He needed that woman to interpret that thing.
+
+> When thou, O king, gave us to me a charge concerning the collection of books that were wanting to fill your library, and concerning the care that ought to be taken about such as are imperfect, I have used the utmost diligence about those matters. And I let you know that we want the books of the Jewish legislation,
+
+- Meaning our legislation. Talking about us.
+
+> with some others; for they are written in the Hebrew characters, and being in the language of that nation, are to us unknown.
+>
+> Now it is necessary that thou shouldest have accurate copies of them. And indeed this legislation is full of hidden wisdom, and entirely blameless,
+
+- They know that the Bible is a true book.
+
+- There's a section in here where you had the … that came and showed Alexander himself the book of Daniel. I said that would take me off my topic a little bit. And he perceived that the one he was showing him in the Bible was talking about himself. He said, "That's talking about me." First over Greece. That's in this book.
+
+> as being the legislation of God;
+
+- So we with our dumb selves, the nations know that our Bible is what's happening. And we're messing up, and it's their desire to keep us messing up. As long as we keep messing up with our God, they can exploit us forever, because we don't know the power of that book. It's not just a book. It's a weapon. That's what he said, didn't he? He slapped the dude upside the head: "It's not just a book. It's a weapon."
+
+> since it is a holy law, and ought not to be published by profane mouths. If then it please thee, O king, thou mayest write to the high priest of the Jews, to send six of the elders out of every tribe, and those such as are most skillful of the laws, that by their means we may learn the clear and agreeing sense of those books, and may obtain an accurate interpretation of their contents, and so may have such a collection of these as may be suitable to thy desire.
+
+- So he said, "You want this in your library, because this is where it's really at."
+
+> I have determined to procure an interpretation of your law, and to have it translated out of Hebrew into Greek, and to be deposited in my library.
+
+- That library was in Alexandria. So he had the records of all the nations.
+
+> Thou will therefore do well to choose out and send to me men of a good character, who are now elders in age, and six in number out of every tribe. These, by their age, must be skillful in the laws, and of abilities to make an accurate interpretation of them. And when this shall be finished, I shall think that I have done a work glorious to myself.
+
+- Because he would know all things. That's why they want that book. You're the children of that book, but you're not made to understand that. On purpose.
+
+- Have our people be tired of this stupid mess talking about some 4th of July. You have no idea how simple you are, our brothers and sisters, with this craziness.
+
+</div>
 
 **[Judith 5:3-4, 17-21](/bible/judith/5#v3)**  *[[2:01:40](https://www.youtube.com/watch?v=4fML805MO8A&t=7300s)]*
 
@@ -210,8 +263,6 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 
-- Before this, history was read from The Complete Works of Flavius Josephus: Demetrius Phalereus, library keeper to king Ptolemy, was endeavoring to gather together all the books that were in the habitable earth, and reported he had collected about two hundred thousand books and would soon have five hundred thousand; and he had been informed that there were many books of laws among the Jews worthy of inquiring after, written in characters and in a dialect of their own, which would cause no small pains to get translated into Greek. He wrote: this legislation is full of hidden wisdom and entirely blameless, as being the legislation of God, and asked the king to send for six elders out of every tribe to make an accurate interpretation, to be deposited in the library at Alexandria. The nations know that our Bible is what is happening. It is not just a book; it is a weapon. You are the children of that book, but you are not made to understand that, on purpose.
-- The Greeks, Columbus's ancestors, learned to search out everyone's history: their strengths and their weaknesses. Esau takes care of Esau: when they died, they passed the books down. The Romans came from the Greeks, Spain from the Romans, so that knowledge went all the way down to Columbus. Scholars of ours who got too close to those records in the universities were slandered and pushed out of tenure.
 - Tell me now, ye sons of Chanaan, who this people is, that dwelleth in the hill country, and what are the cities that they inhabit, and what is the multitude of their army, and wherein is their power and strength: this is what nations do when they want to conquer you. They need to know what held you together as a nation, what your strong man at the door is. The strong man in our case is the Bible and our adherence to the Bible. When we stop adhering to the Bible, the strong man is gone and our goods can be spoiled.
 - And whilst they sinned not before their God, they prospered, because the God that hateth iniquity was with them. He is warning the captain of the army: if they are not sinning, you cannot take them. Their objective, then and now, is to make sure we do not keep God's commandments.
 - But when they departed from the way which he appointed them, they were destroyed in many battles very sore, and were led captives into a land that was not theirs. When we departed from God's commandments, it was easy to destroy us. So they must keep us in sin. Think about that.
@@ -235,7 +286,7 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 - Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive. Assyria moved against the northern kingdom first; then Babylon took down Assyria and took her captives, then moved down and took Judah; then the Persians came in, and under Cyrus a proclamation was made allowing Israel to go back and build Jerusalem. Four books detail this history: Ezra, Nehemiah, 1 Esdras, and 2 Esdras.
 - But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt, that they might there keep their statutes, which they never kept in their own land. The bulk of the tribes said, we are not staying; we are going to a further country. Columbus read this, and he knew the Israelites were here: the northern kingdom, Gad and Reuben and those tribes, before he ever sailed.
 - And they entered into Euphrates by the narrow passages of the river: for the most High then shewed signs for them, and held still the flood, till they were passed over.
-- For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth. A year and a half of travel means stops along the way: the maritime ports. From the book Maritime Trade and the Movement of Culture, by the sister the teacher interviewed on the Quest voyage and whose museum in Charleston the nation plans to visit: the Red Sea and Indian Ocean connected Africa to the wider world as early as the third century BCE, trading gold, ivory, spices, and textiles with Arabia, India, Persia, and China, with cultural diffusion along the coasts.
+- For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth. A year and a half of travel means stops along the way: the maritime ports.
 
   Precepts:
   - **[Ezra 1:3-4](/bible/ezra/1#v3)**
@@ -251,16 +302,183 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
     >
     > <sup>[28](/bible/1-kings/9#v28)</sup> And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.
 
-    And king Solomon made a navy of ships in Ezion-geber, which is beside Eloth, on the shore of the Red sea. Hiram sent shipmen that had knowledge of the sea: the maritime men. And they came to Ophir, and fetched from thence gold, four hundred and twenty talents. Ezion-geber sits at the northern tip of the Red Sea's Gulf of Aqaba, near the region where the tribes entered the Euphrates. We had maritime trade going in Solomon's time, so it was no mystery for us to make it from Persia over to the Americas: the ports were there. Ivan Van Sertima's They Came Before Columbus speaks of Solomon's ships.
+    And king Solomon made a navy of ships in Ezion-geber, which is beside Eloth, on the shore of the Red sea. Hiram sent shipmen that had knowledge of the sea: the maritime men. And they came to Ophir, and fetched from thence gold, four hundred and twenty talents. Ezion-geber is very near the region where the tribes entered the Euphrates. We had maritime trade going in Solomon's time, so it was no mystery for us to make it from Persia over to the Americas: the ports were there. Ivan Van Sertima's They Came Before Columbus speaks of Solomon's ships.
   - **[Isaiah 13:12](/bible/isaiah/13#v12)**
     > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 
-    I will make a man more precious than fine gold; even a man than the golden wedge of Ophir. We read this often without going deeper into what the gold of Ophir is: an exceptionally fine, pure gold prized in the ancient world, whose exact source remains one of the great archaeological mysteries. That is what the Most High is going to make you: that pure fine gold.
+    I will make a man more precious than fine gold; even a man than the golden wedge of Ophir. We read this often without going deeper into what the gold of Ophir is.
 
-- Definition read in class: reference works call Arsareth a mythical region mentioned in 2 Esdras, described as another land, a year and a half's journey beyond the Euphrates, where the ten lost tribes of Israel migrated and will dwell until the end of time. It is not mythical: the historians have it in their records, and it is in the Bible, but they hope we are content to read the word mythical and discredit everything. The Jewish Encyclopedia entry itself states: Columbus identified America with this land. It was passed down from the records of the Greeks; they share that information among themselves so they can know your strengths while you do not even know your own.
-- From The History of the American Indians by James Adair, a trader who lived among them forty years, as republished by Samuel Cole Williams: the book presents observations and arguments in proof of the American Indians being descended from the Jews: their division into tribes, their worship of Jehovah, their notions of a theocracy, their belief in the ministration of angels, their prophets and high priests, their laws of uncleanness and abstinence from unclean things, their marriage and punishment of adultery, their cities of refuge, and raising seed to a deceased brother. That is Bible. Adair also records a remnant tribe called Kanaai, resembling the Hebrew proper name Canaan.
-- From Lost Tribes and Promised Lands by Ronald Sanders, in the passages from the Spanish explorers of the Southern United States, 1528 to 1543: only the sorcerers of his tribe had perceived that they were a special people, and had given warning that they should be left alone. "The God of these children of Israel is the true God," they had said, "and everything inscribed on their tablets is true. At the end of days, they will be lords of all the nations of the earth. One nation will come bringing many things to this land, and after we have all been provided for, these children of Israel will go forth from where they now are, and reign over the whole earth, as they once did." The same warning Achior gave Holofernes: if these people are following the laws of God, leave them alone.
-- One nation will come: the ships with Judah. That is why Zechariah says the Lord shall raise the tents of Judah first, and bring him to his people: Judah was going to teach the rest of the tribes. Here they are in the 1500s, before the 1611 King James Bible was ever printed, carrying that record.
+<div class="reading">
+
+Reading from a definition of the word maritime  *[[2:23:32](https://www.youtube.com/watch?v=4fML805MO8A&t=8612s)]*
+
+> Maritime refers to things connected with the sea, oceans, or navigation.
+>
+> It primarily describes human activities such as shipping, commerce, and naval operations, but can also refer to regions, cultures, or climates located near the coast.
+
+- The reason why I'm bringing this out is because if it took us a year and a half to get all of us from one area to another, you don't think we were making stops? And we was running those ports. Even if it wasn't us particularly, we had understanding with the nations, whoever it was that we was passing by.
+
+</div>
+
+<div class="reading">
+
+Reading from *Maritime Trade and the Movement of Culture* by Kim Cliett Long  *[[2:24:40](https://www.youtube.com/watch?v=4fML805MO8A&t=8680s)]*
+
+> The importance of maritime trade. The Red Sea and Indian Ocean connected Africa to the wider world as early as the 3rd century BCE, enabling trade with Arabia, India, Persia, and China. Exchange of goods like ivory, gold, and exotic animals from Africa for spices, textiles, and gemstones from Asia. Cultural diffusion, where languages, religions, and technologies were shared among civilizations.
+
+- That's all I want out of here for now. My point is to draw attention to the ports as we were traveling.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on Ezion-geber  *[[2:26:34](https://www.youtube.com/watch?v=4fML805MO8A&t=8794s)]*
+
+> Ezion-Geber is historically located at the northern tip of the Red Sea's Gulf of Aqaba,
+
+- Aqaba. That's how that's pronounced. Aqaba, the Gulf of Aqaba.
+
+> closely associated with the modern-day Aqaba, Jordan and Eilat, Israel. The exact biblical port site is widely debated among archaeologists, with many identifying it with the ancient ruins of Tell el-Kheleifeh, located about 500 m from the current shoreline.
+
+- See the name highlighted in red? So when we talking about Solomon's navy, we talking about that area. So he had ships dealing on all of this.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on the gold of Ophir  *[[2:29:37](https://www.youtube.com/watch?v=4fML805MO8A&t=8977s)]*
+
+> The gold of Ophir refers to an exceptionally fine, pure gold
+
+- That's what the Most High is going to make you men. He's going to make us that pure fine gold.
+
+> prized within the ancient world. Famous as the primary resource imported by King Solomon and King Hiram of Tyre. Its exact geographic location remains one of history's greatest archaeological mysteries.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen definition of Arsareth  *[[2:31:13](https://www.youtube.com/watch?v=4fML805MO8A&t=9073s)]*
+
+> Arsareth, also spelled Arzereth, is a mythical region mentioned
+
+- The white man is the damn devil that the Bible speaks of. He tried to throw you off by calling it mythical. The damn historians got it in their records. It's in the Bible, but yet in case any of us find out about it, he think we so dumb, all he has to do is say it's mythical. Oh, okay, and you discredit everything that I just went over.
+
+- But meanwhile, he have you celebrating damn 4th of July when your black ass was in slavery. You tell me about some Easter Sunday, tell me about some bunny rabbits and eggs, and rabbits don't lay eggs, dummy. Christmas trees ain't got nothing to do with Christ. Light bulbs and some tinsel. Tell me about some Jesus Christ, December 25th. What the hell has that got to do with the Bible? But yet when we bring up stuff like this here, the dadgum snaggle-toothed white man put up mythical region, and you tell me, oh, okay. That's garbage.
+
+> in the apocryphal
+
+- It ain't mythical, you bastard.
+
+> of second Esdras, fourth Ezra.
+
+- Wait a minute. He said it's a mythical region. Why would the Bible put something mystical in the Bible? That's the absolute utmost insult to our intelligence. You going to tell us that the Bible has a mythical region in it? Because you said it?
+
+- You want me to believe that Omar was a stoolie because Sosa said it? You remember that in Scarface, right? You bought that lie. Now you want me to believe that this is mystical because these people said it?
+
+> It is described as being another land located a year and a half's journey beyond the Euphrates River, where the 10 lost tribes of Israel migrated and will dwell until the end of time.
+
+- So you would have read the word mystical and you would have discounted all the rest of this. So negro will fall apart and will miss all of this here. Now let's go into the records and see if it is in fact mystical.
+
+</div>
+
+<div class="reading">
+
+Reading from the Jewish Encyclopedia, on Arsareth  *[[2:34:12](https://www.youtube.com/watch?v=4fML805MO8A&t=9252s)]*
+
+> Arsareth. The name of the land beyond the great river, far away from the habitation of man, in the which the 10 tribes of Israel will dwell, observing the laws of Moses until the time of restoration, according to fourth Esdras chapter 13 verse 45. Columbus identified America with this land.
+
+- The fourth Esdras, meaning the second book of Esdras. That's what I was saying earlier. Ezra and Nehemiah are the first two books. First Esdras and second Esdras is book three and book four.
+
+- So that's telling you what he was doing. He knew it, cuz it was passed down from the records all the way from the Greeks. They pass these records to each other, to know what to keep among themselves but not allow you to get it. So he'll tell you mystical to shunt you back away from it. But meanwhile, they share that special information among themselves, so they can know your strengths, and you don't even know about your own strengths.
+
+</div>
+
+<div class="reading">
+
+Reading from *Adair's History of the American Indians* by Samuel Cole Williams  *[[2:36:12](https://www.youtube.com/watch?v=4fML805MO8A&t=9372s)]*
+
+> The history of the American Indians, particularly those nations adjoining to the Mississippi, east and west Florida, Georgia, South and North Carolina, and Virginia; containing an account of their origin, language, manners,
+
+- So all of this information is written in this book about what this man Adair observed when he came among them.
+
+> religious and civil customs, laws, form of government, punishments, conduct in war and domestic life, their habits, eases, and methods of cure, and other particulars sufficient to render it a complete Indian system, with observations on former historians, the conduct of our colony governors, superintendents, missionaries, etc. Also an appendix, containing a description of the Floridas and the Mississippi lands, with their productions, the benefits of colonizing Georgian and civilizing the Indians, and the way to make all the colonies more valuable to the mother country, with a new map of the country referred to in the history, by James Adair, Esquire,
+
+- Esquire, it means he was a lawyer.
+
+> a trader with the Indians, and resident in their country 40 years.
+
+- He spent 40 years among these quote unquote savages, as somebody would say. Well, let's see what he found out when he was among these Indians.
+
+> A history of the North Americans, their customs, etc. Observations on their color, shape, temper, and dress. Observation on the origin and descent of the Indians. Observation and arguments in proof of the American Indians being descended from the Jews.
+
+- In proof. Wait, in mystical? In proof.
+
+> Their divisions into tribes. Two, their worship of Jehovah. Three, their nations of theocracy, the belief in the ministration of angels.
+
+- That's the book of Corinthians: what it say about the women have to have their heads covered? That's what that's talking about. What the hell would the Indians be doing dealing with this here, if they're not the Jews?
+
+> Their language and dialects.
+>
+> Daily sacrifices, prophets and high priests. Law of uncleanness, their abstinence from unclean things, their marriage, divorce, and punishment for adultery. The cities of refuge.
+
+- Do y'all see this? The Indians is doing this.
+
+> Raising seed to a deceased brother.
+
+- That's Bible. Arguments and proof.
+
+> There was about 30 years ago a remnant of a nation or subdivided tribe of Indians called Kanaai, which resembles the Hebrew proper name of Canaan.
+
+- Canaan. They called themselves like they were going to the land of Canaan. That's what one of the tribes was called.
+
+</div>
+
+<div class="reading">
+
+Reading from *Lost Tribes and Promised Lands*  *[[2:42:58](https://www.youtube.com/watch?v=4fML805MO8A&t=9778s)]*
+
+> Passages from Spanish explorers in the Southern United States, 1528 to 1543.
+
+- Lost Tribes and Promised Lands. Promised. The lands were promised. That means they knew about this. That's the reason why they entered into the Euphrates in the first place, because they knew that this land was for them. Solomon's ships was coming over here. Ivan Van Sertima, *They Came Before Columbus*. He was talking about Solomon's ships.
+
+- Passages from Spanish explorers, meaning conquistadors, the people that came over here to pillage the brothers and the sisters of the Southern United States, the same areas that we was reading in that Esquire book with James Adair. This is the time period from 1528 to 1543. These are the records.
+
+- You had a Edomite … Indian guide, Francisco, and Montezinos. That's the two names that's involved in this thing here. And they was making a point about what his ancestors did to the native people that was in these lands here.
+
+> His ancestors, to their eternal shame, had indeed made war on them, and
+
+- Made war on these so-called Indians. These are the Israelites.
+
+> only the sorcerers of his tribe had perceived that they were a special people,
+
+- He didn't listen to what his witches told him. He said, "These are the Israelites, so you better be careful how you mess with them." His Jesuit priests, so you can understand.
+
+> and had given warning that they should be left alone.
+
+- You need to leave these people alone. Achior told Holofernes, "If these people are following the laws of God, leave them alone." That's the same thing that's being said here.
+
+> "The God of these children of Israel is the true God," they had said, "and everything inscribed on their tablets is true.
+
+- What tablets? They had the Bible. What do you mean they did only a oral tradition? They had tablets, meaning they had the laws, they had things written down.
+
+> … end of days, they will be lords of all the nations of the earth.
+
+- At the end of days. So they knew the prophecy.
+
+> One nation will come bringing many things to this land.
+
+- The slave ships with Judah. It's in the book of Ezekiel: it said that we were two different nations. He said that he would join the two nations together again. So one nation will come over to here. That's why it says that in Zechariah, that the Lord shall raise the tents of Judah first, so that his brethren don't magnify themselves against Judah, and bring him to his people. So Judah was going to teach the rest of the tribes.
+
+- Here we are in the 1500s, and they're bringing this information out. The King James Bible was 1611. So what records did they have before that? They had their own.
+
+> And after we have all been provided for,
+
+- Provided for by telling you that you're the Israelites, cuz they were going to lose their tradition. They were going to lose their heritage and all that. All that's being given back through Judah.
+
+> these children of Israel will go forth from where they now are and reign over the whole earth, as they once did."
+
+</div>
 
 ## In Closing
 

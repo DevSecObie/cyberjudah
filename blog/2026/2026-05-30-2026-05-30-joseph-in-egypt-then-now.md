@@ -19,20 +19,117 @@ tags: ["IUIC in the ClassRoom", "captivity"]
 
 Today's class is entitled Joseph in Egypt: Then and Now. Reading the four chapters today, I'm back in Genesis again, looking at the history on Joseph. It's long, so we're going to chop it up and read certain verses out of the chapters. Before we get into the scriptures, we go to the proofs of the color of the Jews, the Israelites, first.
 
-Books opened on the board before the scriptures:
-
-- Nature Knows No Color Line, by J. A. Rogers. It could be that the Jews before they left Egypt imbibed some color prejudice, but it could not have been strong among them because they were dark or even black. One rabbi says the passage "black but comely" from the Song of Solomon means, I was black in Egypt but comely in Egypt. There is no doubt that after four centuries in Egypt the Jews had mixed much with Egyptians and Ethiopians, whom their legends describe as black and woolly haired. The main difference between Hebrew and Egyptian was not racial but religious. We have no proof that the original 70 Jews who went into Egypt were white; according to their legends they originated in Chaldea, and there is considerable evidence the inhabitants of that region in earliest times were Negroid. Some writers said the Jews were an African people; Strabo said many of his time believed they were. So when you have the Holy Bible as your primary source, then you have books like these as your secondary source, you should never be deceived and go back into Christianity.
-- Wait says an interesting gradation of all shades down to the black is exhibited by the Jews; especially dark were the Jews of Spain and Portugal. The Duchess d'Abrantes said the Jew, the Negro, and the Portuguese could be seen in a single person. So dark were the Jews of Portugal and southern Spain that many whites thought all Jews were black. And the first slave ships over here came from Spain and Portugal, and the slaves all had Spanish names.
-- Negroes were imported into Christian Spain and Portugal in droves from 1440 until the abolition of slavery in Portugal in 1773. Before the discovery of America, thousands of Negro slaves from Senegal, Guinea, and the Congo were working in Lisbon, in Algarve, in Seville, and in all Andalusia. The Catholic sovereigns were dealers in Negro slaves; remember, the Catholic Church under Pope Nicholas V was the first to orchestrate the transatlantic slave trade. The Negro came first to the Indies from Spain, not from Africa.
-- Sex and Race, volume one, by J. A. Rogers: the earliest Jews were in all probability Negroes. Abraham came from Ur of the Chaldees; Chaldea was the seat of Sumerian civilization, long considered to be white Aryan, but it was proved to be a Negroid people. Only 70 Jews went to Egypt, but according to the Bible 600,000 men left it. Since the Jews were slaves, after more than three centuries almost every trace of the first generation must have been lost together with their culture; Jewish culture was Egyptian culture. Think of what has happened to Negroes in the United States: they are so Americanized that were it not for their color, one would forget they ever came from Africa. That's how Americanized, or Europeanized, our people have become. Moses himself was black.
-- Lost Civilizations: Ramses II, Magnificence on the Nile: inside the tombs you see the slaves in Egypt working for the Egyptians, and they are black. The 18th Dynasty of the New Kingdom is the dynasty of the new king that knew not Joseph; Seti I of the 19th Dynasty adopted Moses, and Ramses II was the pharaoh Moses took the Israelites out from under. Before the New Kingdom, the Hyksos from Palestine, who were shepherd kings, took over the Delta region and founded the 15th Dynasty, until the Thebans declared war and liberated the Delta. Joseph was very familiar with the history regarding the Hyksos; that history comes back later in the lesson.
-- Pictorial History of Israel, by Jacob A. Rubin: the first page in the book is a mural depicting Israel's bondage in Egypt, found in the Theban tomb of Rekhmire, governor and vizier at the time of Thutmose III, about 1450 BC, with the scripture from Exodus 1:13-14. The Kemetic community says there's no historical data that the Israelites ever existed; they are on the tombs of Egypt, and they are black. The yokes with hooks at the ends on those captives are just like what America used; America did the same things from ancient Egypt.
-- The Israelites (Time-Life Books): an 1800 BC wall painting from the palace at Mari on the Euphrates shows a Semitic tribesman, and we come from Shem. The frescoes discovered in the synagogue of Dura-Europos on the Euphrates in Syria, preserved under a sand pack from 256 AD, show Moses parting the Red Sea, black with an afro, Aaron beside him black, the twelve tribesmen black, the hand of God over Israel. When they started bombing over there, they made sure to destroy the relics that were discovered. You cannot look at that fresco and say the people running Israel today are these Israelites.
-- Our Living Bible: the priests on the fresco from Dura-Europos, third century AD, are all black. And one of the earliest depictions found of Christ, from the oldest known Christian church at Dura-Europos, shows Christ healing the paralyzed man who takes up his bed and walks; everybody in the painting is black.
-
 They pay archaeologists hundreds of thousands of dollars to do these digs, they uncover the black Egyptians of the past, and then Hollywood gets access to all of it and makes Moses white and the Pharaohs white. You ever notice Christians can never dispute the archaeology? They'll argue with the Bible all day, but when we show the archaeology that coincides with the biblical text, they become blind all of a sudden.
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from a Google search on J. A. Rogers  *[[20:56](https://www.youtube.com/watch?v=075qOUs8Sbc&t=1256s)]*
+
+- Now, a lot of y'all may have questions about J. Rogers. He was married to a black woman initially. Then, I'm not sure if she died or they got divorced. Google it real quick. J. A. Rogers. But, I do know, later on in life, he married the white woman. The white woman gave him access to all the things that he discovered and found out. She was able to get him into certain museums, certain parties, get him certain books. She got him access to a whole lot of stuff.
+
+> J. A. Rogers had only one wife. Helga M. Rogers, the German nee Biessenbach. The German-born widow was instrumental in the historian's career. After he passed away in 1966, she dedicated herself to republishing his foundational text, ensuring his vital historical works remain in print for decades.
+
+- Okay, that's what I wanted. Okay, so he had one wife, one wife. I thought he had two. That was Marcus Garvey had two. That's Marcus Garvey. Okay, got them mixed up.
+
+</div>
+
+<div class="reading">
+
+Reading from *Nature Knows No Color Line* by J. A. Rogers  *[[21:33](https://www.youtube.com/watch?v=075qOUs8Sbc&t=1293s)]*
+
+> It could be that the Jews before they left Egypt imbibed some of the color prejudice mentioned by Massey, but it could not have been strong among them because they were dark or even black.
+
+- Now, this is old books. These are old books in the '60s.
+
+> One rabbi does say they were black at that time that the passage black but comely from the Songs of Solomon means, "I was black in Egypt but comely in Egypt." There is no doubt that after four centuries in Egypt, the Jews had mixed much with Egyptians and Ethiopians whom their legends describe as black and woolly hair.
+>
+> Thus, the main difference between Hebrew and Egyptian was not racial but religious. The form which economic exploitation then took, Miriam's objection to the Ethiopian wife of Moses, Zipporah, was not on color but on religion and more likely on culture. Furthermore, we have no proof that the original 70 Jews who went into Egypt were white. According to their legends, they originated in Chaldea, and there is considerable evidence the inhabitants of that region in earliest times were Negroid. Some writers said the Jews were an African people. Strabo said many of his time believed they were.
+
+- So when you have the Holy Bible as your primary source, then you have books like these as your secondary source, you should never be deceived and go back into Christianity. Never in your life. If you do, you're just a dumb ass. Okay? I'm going back to white Jesus. Are you kidding me? Yeah, the Jews are white. You're just dumb. We can't help you. This was never for you.
+
+> As was already said, the ancient Jews who left Egypt must have been quite Negroid. 27. After mating with Egyptians and Ethiopians for centuries, they were probably even originally Negroid. Abraham, according to the Bible, came from Ur of the Chaldees. Chaldea was the seat of Sumerian civilization, which was long considered to be white Aryan, but it was Negroid, says Spiering in The Childhood of Art. The discovery, he says, was very disconcerting to literary historians and philologists, for that race was proved to be not a branch of the civilizing Aryans nor of the gifted Semites, but of a Negroid people having affinities with Mongols.
+
+- Yeah, messed them all up. Messed them up cuz they've been teaching that they were … for centuries.
+
+> Wait says, "An interesting gradation of all shades down to the black is exhibited by the Jews. Especially dark were the Jews of Spain and Portugal."
+
+- And the first slave ships came from Spain and Portugal. The first slave ships over here. And they all, it said they all had Spanish names.
+
+> The Portuguese Jews were very dark, says Prichard. The Duchess d'Abrantes, wife of Napoleon's ambassador to Portugal, said that the Jew, the Negro, and the Portuguese could be seen in a single person. So dark were the Jews, especially of Portugal and southern Spain, that many whites thought all Jews were black or dark.
+>
+> As regards Christian Spain and Portugal, Negroes were imported in droves from 1440 until the abolition of slavery in Portugal in 1773. Already before the discovery of America, says Fernando Ortiz, several thousands of Negro slaves had been expatriated from Senegal, Guinea, and the Congo and were working in Lisbon, in Algarve, in Seville, and in all Andalusia. The Catholic sovereigns were dealers in Negro slaves.
+
+- Remember, the Catholic Church under Pope Nicholas V was the first to institute or orchestrate the transatlantic slave trade. That was the Catholics. Right?
+
+> It was Christopher Columbus who went plundering in Negro slaves in Guinea before stealing Indian slaves in Cuba before the discovery of America. The Negroes already were cutting sugarcane in Andalusia and in Seville. There was a municipal council of native Negroes with fraternal orders, kings and overseers. The Negro came first to the Indies from Spain, not from Africa.
+
+- Exactly. And I'm glad he put that in there. Because a lot of time people say, "Oh, slaves came from Africa." No, the first ones came from Spain. They brought some to Indies and they brought some to America and a bunch to Brazil. That's what they did.
+
+</div>
+
+<div class="reading">
+
+Reading from *Sex and Race: Negro-Caucasian Mixing in All Ages and All Lands* by J. A. Rogers, volume one, The Old World  *[[26:54](https://www.youtube.com/watch?v=075qOUs8Sbc&t=1614s)]*
+
+> But the earliest Jews were in all probability Negroes. Abraham, their ancestor, is said to have come from Chaldea and the ancient Chaldeans were black. The Chaldees, says Higgins, were originally Negroes, as was said. Two, relics of prehistoric Negroes have been discovered in this region. It is even possible that the Jews originated not in Asia, but in Africa. Gerald Massey has advanced considerable argument in proof of that theory. Whatever was the original color of the Jews, they lived for more than four centuries among the Negroid Egyptians. Only 70 Jews went to Egypt, but according to the Bible, 600,000 men left it. Which must have meant an additional two or three million women and children. Since the Jews were slaves, their women were undoubtedly concubines of the Egyptians and must have produced mixed offspring. After more than three centuries of slavery, almost every trace of the first century Jews must have been lost together with their culture.
+>
+> Thus, Jewish culture was Egyptian culture. For instance, the Egyptians did not eat pork and still do not eat it. To get an idea what must have happened to only those 70 Jews, think of what has happened to Negroes in the United States who came in hundreds of thousands over a period of centuries and not all at once as the Jews did in Egypt. The Negroes are so Americanized that were it not for their color, one would forget that they ever came from Africa.
+
+- Damn! Damn, you see that right there? If it wasn't for their color, that's how Americanized or Europeanized our people have become. Damn.
+
+> Moses himself was black. In all likelihood, he was the son of Pharaoh's own daughter, which would account for his adoption and rearing for the throne.
+
+</div>
+
+<div class="reading">
+
+Reading from *Lost Civilizations: Ramses the Second, Magnificence on the Nile*  *[[30:24](https://www.youtube.com/watch?v=075qOUs8Sbc&t=1824s)]*
+
+- I just want to show y'all what they found inside the tombs. Those are the slaves in Egypt working for the Egyptians. What color are they? Black. You can't get a white boy out of those.
+
+- All right, the loincloth is white. Exactly. As you can see there. You got the Egyptians and you have the Israelites in these tombs. The slaves and the oppressed and the oppressors.
+
+> New Kingdom, 1550 to 1070 BC.
+
+- Now, what you're going to find out like I found out, a lot Egyptian scholars never agree on dates. So, it's very difficult to get accurate timelines with Egypt. They got certain dynasties on certain dates that don't mesh with other scholars. But anyway, so I just picked this one.
+
+> 18th Dynasty, 1550 to 1307. Thutmose the third. Hatshepsut.
+
+- Is a short list of the 18th Dynasty. There's a lot more pharaohs in the 18th Dynasty.
+
+- Hatshepsut was the first female pharaoh.
+
+> Amenhotep the third. Akhenaten. Tutankhamun.
+
+- Tutankhamun was the boy king.
+
+> Horemheb. 19th Dynasty. 1307 to 1196.
+
+- Right, this is important.
+
+> Seti the first.
+
+- That's the one that adopted Moses. Seti the first adopted Moses.
+
+> Ramses the second.
+
+- Ramses the second was the one Moses took the Israelites and we fled from under. That was the 19th dynasty.
+
+- So now when you pull to the side which says Hyksos, you have the Hyksos. And the reason I wanted that, the Hyksos were shepherds. Joseph was very familiar with the history regarding the Hyksos. So he was very aware of what had occurred. So when Joseph entered Egypt, possibly 17th dynasty. Remember he was in there for quite a while at that.
+
+> For unknown reasons, the Middle Kingdom crumbled. Egypt once again slipped into disorder and the crown of the pharaoh rapidly passed from one king to the next. Meanwhile, the Hyksos from Palestine took over the Delta region founding the 15th dynasty which dominated the country for decades. Ultimately, 17th dynasty Thebans declared war and with the help of horse and chariot, a new lethal piece of military equipment from the Near East above liberated the Delta from foreign rule ushering in the New Kingdom.
+
+- The New Kingdom is when you got the 18th dynasty. Remember it said there rose up a new king that knew not Joseph. This new kingdom of this dynasty of family did not recognize Joseph. They never heard of no Joseph. They didn't think about it. They didn't give a damn about what Joseph did for the previous dynasty.
+
+- So this was an Egyptian woman with the wig. Egypt was famous for wearing wigs, especially the women.
+
+- And again, you can't get … out of these stone reliefs or these mummies that they find.
+
+- And it's funny when you see stuff like this. Arabs are now saying, "We were those Egyptians." No, you were not. Today's lesson, I'mma show you the Arabs had nothing to do with ancient Egypt.
+
+</div>
 
 **[Psalms 64:6](/bible/psalms/64#v6)**  *[[35:12](https://www.youtube.com/watch?v=075qOUs8Sbc&t=2112s)]*
 
@@ -40,6 +137,120 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
 - They search out iniquities; they accomplish a diligent search. This is what's called a diligent search: the archaeological digs. Both the inward thought of every one of them, and the heart, is deep.
 - And when they find these things, America incorporates the holidays and customs these people have discovered. America said, we'll take Christmas, we'll take Easter, Ishtar. That's what they did.
+
+<div class="reading">
+
+Reading from *Pictorial History of Israel* by Jacob A. Rubin and Meyer Barkai, the first page  *[[36:54](https://www.youtube.com/watch?v=075qOUs8Sbc&t=2214s)]*
+
+- So, again, this one of my favorite books. When you open a book, you just flip through it, Esau, Esau, Esau, Esau, Esau, Esau, Esau. But, the first page here. This is the first page in the book. And they got from the tombs of Egypt, the Israelites are black.
+
+> This mural depicting Israel's bondage in Egypt was found in the Theban tomb of Rekhmire, governor and vizier at the time of Thutmose III,
+
+- Wait, wait. You got to read this slow because you got the Kemetic community saying, "There's no historical data that the Israelites ever existed." How come that on the tombs of Egypt? Oh, they are on the tombs of Egypt.
+
+- This in the time of Thutmose III.
+
+> about 1450 BCE.
+
+- Put a hole in their balloon right there.
+
+> The scripture, "And the Egyptians made the children of Israel to serve with rigor. And they made their lives bitter with hard bondage in mortar and in brick and all manner of service in the field." Exodus chapter 1 verse 13 and 14.
+
+- Okay, give me the next book. I know this is overkill brothers and sisters. I just like to lay it on thick like thick gravy.
+
+</div>
+
+<div class="reading">
+
+Reading from *Picture History of Jewish Civilization*  *[[38:33](https://www.youtube.com/watch?v=075qOUs8Sbc&t=2313s)]*
+
+- Got some of these books, get these books. Build your library. Cuz I'm telling you they're going to do a big clean on the internet.
+
+> Chained captives are shown on these painted clay facing plaques from a building erected by Ramses the second in honor of the king's brave warriors.
+
+- So, you may say to yourself, "Wait a minute. Wait a minute. No, those couldn't be Israelites because those were war captives." So, I want you to think about this. In Exodus chapter 1, watch. I want y'all to pay attention to the wording and put yourselves there. Exodus chapter 1 and verse 8.
+
+- So, what did they do? They made the children of Israel slaves. Do you think it was a easy task? You got our race living free from the time of Joseph. Now you get this new Pharaoh coming saying, "No, no, let's enslave them." You think it was a easy thing? We just stood there and let people put shackles on our necks? Is that what you would do? Maybe some of y'all might do that. Some of you just might stand there and let somebody put a shackle around your neck. Are you kidding me? No, there was fight. There was war.
+
+- The American Negro with shackles. Yeah, look at that. These are very similar. I want you to look. You see the hooks at the ends? The hooks at the end of those yokes on there, it's just like America. America did the same things from ancient Egypt.
+
+- You got the Israelites working in the vineyards, in the fields, picking olives, grapes, and all types of foods for Pharaoh. All black.
+
+- This is Tutankhamun, the boy king. He died around 12 years old. So, this was just an homage to him they did. You got the Israelites there working.
+
+- You got the Israelites and taskmasters. Look, how do you get white people out of that? How do you get white folks out of that? It's amazing. And the black church never disputes Hollywood. It's okay. No, it's not okay.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Israelites*, a Time-Life book  *[[42:18](https://www.youtube.com/watch?v=075qOUs8Sbc&t=2538s)]*
+
+- On the cover, soon as I saw the cover I was going to throw the book back, but then our spirit said just open the book. So, I opened the book and it flipped to this. I said, "Wait a minute. Wait a minute. Wait a minute. I see a black guy right there."
+
+> In this detail of an 1800 BC wall painting from the palace at Mari on the Euphrates River in Mesopotamia, a bull adorned with a white crescent and gilded horn tips is led to ritual slaughter by a Semitic tribesman wearing characteristic dress.
+
+- Remember, we come from Shem. That's where Shem comes from, Semite. Shem.
+
+> Animal sacrifices to the gods were basic to Near Eastern religions. When the Israelite patriarchs undertook to call upon their one God, they often did so after making a sacrifice.
+
+- That's right. So, they know that that picture right there was an Israelite.
+
+> Painted in the 3rd century AD, this fresco, more than 4 ft high, dramatizes a traditional view of Moses' God-given powers.
+
+- So, this is about Moses.
+
+> Miraculously creating a well in the desert, he provides water for 12 tribesmen who, exhausted by the flight from Egypt, had lost confidence that he would save them. The work was discovered on the wall of a synagogue in Dura Europos, an ancient city on the Euphrates River in Syria.
+
+- Now, you see what it is, right? In Syria. When Netanyahu and them started bombing over there, they made sure to destroy the stuff that was discovered. That's what they were doing. Discover all, destroy all of the proof, all of the relics of Moses with an afro, with the 12 tribesmen all around the sides from the well of water there. With the menorah in the very center, all black.
+
+- Okay, these were some of the false gods of Egypt.
+
+> A portion of which is reproduced here was found in the ruins of a synagogue at the Syrian city of Dura Europos by a British patrol during World War I. The picture had unwittingly been preserved by the city's inhabitants in 256 AD. The temple was located close to the town wall. In a last effort at defense against an advancing enemy,
+
+- You ever notice a pathological in Christians? They can never dispute the archaeology. They'll look at these videos and make like you don't see it. Just close your eyes. They will never try to counter the evidence of archaeology. And the archaeology we show coincides with the biblical text. Now, they'll argue with the Bible all day because you're just reading pages on the book. But when we say, "Hey, look at the archaeology," they go, "No, no, no, we don't see that." They become blind all of a sudden.
+
+> the citizens tore the roof from the building and filled the rooms with sand to make a deep barrier. Because of the protective sand pack, when the British dug out the synagogue, the fragile paintings emerged almost unscathed by the passage of some 17 centuries.
+
+- Was painted 17th century. Look at the Moses with a fro. Look at the Moses. How you going to look at that and say Netanyahu? How you going to look at that and say Netanyahu? You must be dumb as a rock. I hope all you Christians out there that's watching this, that's Moses.
+
+- The Egyptians are being drowned right there on the right. They're all black, by the way.
+
+- There's God's hand over Moses' head, black. Look at Moses' legs. That's right, black. His hands are black. Look at Aaron beside him. You can see Aaron's legs on the left, black. The hell is this?
+
+- There's the hand of God right there at the top. Those are the Israelite soldiers there. Moses on the right. That's Moses right with a fro. And a nappy beard, too.
+
+> During the Exodus from Egypt, Moses carries out the orders of his God, symbolized by the hands at the top of this 244 AD fresco. At left, he leads the oppressed Israelites across the Red Sea, just drained by divine intervention, so that the remaining shallows team with jumping brown fish. Lined up behind the vanguard of troops are the elders of the traditional 12 Israelite tribes. At right, a second image of Moses appears in the act of flooding the Red Sea again, now that the Israelites are safe in the desert, thereby engulfing the Egyptians who pursued them. The 4-ft high fresco only …
+
+- Yeah, jumping brown fish. So, that's Moses right there, the hand of God over Israel. Everybody's black. Get Charlton Heston out of that.
+
+</div>
+
+<div class="reading">
+
+Reading from *Our Living Bible*  *[[48:57](https://www.youtube.com/watch?v=075qOUs8Sbc&t=2937s)]*
+
+- Our Living Bible, another good book. Now, there's a series of this, which comes in a set of five, but this one here sums all five up to make an abbreviation of the five books.
+
+> The lady Bithynia on a fresco from Dura-Europos.
+
+- Right, Dura-Europos. I want you to see all these black images. Okay, black people.
+
+> Priests on a fresco from Dura-Europos, 3rd century AD.
+
+- So these are priests who were during the 3rd century. What color are they? They're all black. How do you get white people out of that and then say Netanyahu and them is the real Israelites? Y'all are stupid as hell.
+
+> This miraculous act of healing consequently became a favorite subject of early Christian art. It is depicted on the walls of the oldest known Christian church found in a private house in the city of Dura Europos on the banks of the Euphrates and dating to the first half of the 3rd century AD. In this painting, we see the formerly paralyzed man now healed carrying on his back a typical ancient bed climb consisting of a metal or wooden framework and a mattress formed by a crisscross of ropes.
+
+- This was the first painting of Christ that was discovered. That's Christ healing the man on the bed. He tells the man, "Take up your bed and walk." Everybody's black. Jesus is black. That man carrying the bed is black. So that was the first depiction that they found of Christ, one of the earliest ones.
+
+- Okay? And then you got some Israelite camps in Boston, "It's evil to do images." Y'all shut the hell up and take down your Facebook page. And take down your Instagram with all the pictures on there.
+
+> Woman and youth praying from fresco in the catacomb of Saint Callixtus, Rome.
+
+- This was in the catacombs of Rome. Now I have more books on that, but I didn't get into it.
+
+</div>
 
 **[Genesis 37:1-2](/bible/genesis/37#v1)**  *[[52:39](https://www.youtube.com/watch?v=075qOUs8Sbc&t=3159s)]*
 
@@ -535,7 +746,18 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
 - And the famine was sore in the land. It's always been famines. The only difference is now we think a famine could never happen, because we've been accustomed here.
 - Judah said unto Israel his father, send the lad with me, and we will arise and go; that we may live, and not die. I will be surety for him.
-- News read in class: the Texas GOP's new congressional map would move Representative Jasmine Crockett's home out of her district. They're changing district lines so black representatives lose their seats, and then our people have no voice in Congress. Scourges come, like what happened with George Floyd, and our people tend to forget, the same way people act like apartheid never happened in South Africa. Civil rights was 62 years ago and people said it could never happen again; now they're bringing back vagrancy laws under the 13th Amendment, where the homeless get arrested and prison labor becomes slavery again. And while food is cheap and everybody thinks things are fine, they're moving supermarkets out of our communities and pricing our people off the cruise lines and airlines.
+- They're changing district lines so black representatives lose their seats, and then our people have no voice in Congress. Scourges come, like what happened with George Floyd, and our people tend to forget, the same way people act like apartheid never happened in South Africa. Civil rights was 62 years ago and people said it could never happen again; now they're bringing back vagrancy laws under the 13th Amendment, where the homeless get arrested and prison labor becomes slavery again. And while food is cheap and everybody thinks things are fine, they're moving supermarkets out of our communities and pricing our people off the cruise lines and airlines.
+
+<div class="reading">
+
+Reading from a news headline, on screen  *[[1:48:44](https://www.youtube.com/watch?v=075qOUs8Sbc&t=6524s)]*
+
+> Texas GOP's new map would move Representative Crockett's home out of her district / dem seats.
+
+- They're doing that with all the black folks. They're doing that with all the black folks. Make America great again. Damn it. Yes. See, we happy for that. We like that stuff. Cuz we've been warning blacks and Latinos for years, and y'all been going pick the middle finger. It ain't going to happen to us. That's what y'all was doing. That's what y'all was doing to us. We're like, "Okay." Laugh now, you're going to cry later. Now you're seeing all this stuff happening. We're like, "Ha, ha, told you." We've been telling you. "No, America's a great country. It's for us. This is the promised land." All right. You're going to see.
+
+</div>
+
 - Discussion of Idi Amin, Uganda, and South Africa: Idi Amin expelled the Asian and European merchants from Uganda and handed their businesses to Ugandans who had no experience in the imports and exports of that merchandise, and the stores collapsed. Today in South Africa the xenophobia is the same error: legal migrants from Ghana, Nigeria, and the ECOWAS region with legitimate small businesses are being beaten, driven from hospitals, and flown home, while about 90 percent of the businesses and the land are owned by white people. They turn against their own brothers while the real owners of the country are standing in front of them. Black people in America do the same thing when we riot and burn down stores in our own neighborhoods instead of saving our money and opening our own. Nobody has solutions to the problems, and the white man's solution is jail time.
 
   Precepts:
@@ -559,7 +781,61 @@ They pay archaeologists hundreds of thousands of dollars to do these digs, they 
 
     Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate. You cannot mate another book with the Bible. Esau is loading the Bible apps with additional books like Enoch and Jasher.
 
-Book read in class: the Book of Jasher, chapter 54, was read at length as an example of why we stay away from these added books. In Jasher's telling, Judah crushes a 400 shekel stone into dust with his strength, Naphtali runs on the ears of corn without breaking them and numbers the twelve streets of Egypt, Simeon offers to level Egypt with one stone from the mount, and the Egyptian army flees in terror from Judah's scream. That did not happen; it makes nice fairy tale stuff, but it contradicts the biblical text.
+<div class="reading">
+
+Reading from the Book of Jasher, chapter 54  *[[2:01:37](https://www.youtube.com/watch?v=075qOUs8Sbc&t=7297s)]*
+
+- And what happens is now what Esau is doing is putting other books. When you download a Bible app, it's come with all kind of other, y'all seen them additional books? I'm not talking about the apocryphal books that we got, the other ones like Enoch, Jasher, and all of that.
+
+- You know I put on Bible apps when I go to sleep on YouTube. And you know, when the audio ends, it'll go to the next or another one. So, I'll wake up and it's the book of Jasher. And it sounded strange to me cuz I was like, "That didn't happen." No, what is that? I look, I click. I said, "Book of Jasher." I'mma show you the book of Jasher chapter 54. Watch this. This why I stay away from these books.
+
+> Book of Jasher chapter 54. And when Judah saw the dealings of Joseph with them, Judah approached him and broke open the door and came with his brethren before Joseph.
+>
+> And Judah said unto Joseph, "Let it not seem grievous in the sight of my Lord. May thy servant, I pray thee, speak a word before thee." And Joseph said unto him, "Speak." And Judah spoke before Joseph, and his brethren were there standing before them. And Judah said unto Joseph, "Surely when we were first came to our Lord to buy food, thou didst consider us as spies of the land, and we brought Benjamin before thee, and thou still make us sport of us this day. Now, therefore, let the king hear my words, and send I pray thee our brother that he may go along with us to our father, lest thy soul perish this day with all the souls of the inhabitants of Egypt. Dost thou not know what two of my brethren, Simeon and Levi, did unto the city of Shechem and unto seven cities of the Amorites on account of our sister Dinah, and also what they would do for the sake of their brother Benjamin, and I, with my strength, who am greater and mightier than both of them, come this day upon thee and thy land if thou art unwilling to send our brother. Hast thou not heard what our God, who made choice of us, did unto Pharaoh on account of Sarah our mother, whom he took away from our father, that he smote him and his household with heavy plagues, that even unto this day the Egyptians relate this wonder to each other? So will our God do unto thee on account of Benjamin, whom thou hast this day taken from his father, and on account of the evils which thou this day heapest over us in thy land. For our God will remember his covenant with our father Abraham and bring evil upon thee because thou hast grieved the soul of our father this day. Now therefore, hear my words that I have this day spoken unto thee, and send our brother that he may go away, lest thou and the people of thy land die by the sword, for you cannot all prevail over me."
+
+- For you cannot all prevail over me. Watch.
+
+> And Joseph answered Judah saying, "Why hast thou opened wide thy mouth, and why dost thou boast over us, saying, 'Strength is with thee'? As Pharaoh liveth, if I command all my valiant men to fight with you, surely thou and these thy brethren would sink in the mire." And Judah said unto Joseph, "Surely it becometh thee and thy people to fear me. As the Lord liveth, if I once draw my sword, I shall not sheath it again until I shall this day have slain all Egypt. And I will commence with thee and finish with Pharaoh thy master." And Joseph answered his son saying "Surely strength belongeth not alone to thee. I am stronger and mightier than thou. Surely if thou drawest thy sword, I will put it to thy neck and the neck of all thy brethren." And Judah said unto him, "Surely, if I this day open my mouth against thee, I will swallow thee up that thou beest destroyed from off the earth and perish this day from thy kingdom." And Joseph said, "Surely, if thou openest thy mouth, I have power and might to close thy mouth with a stone until thou shalt not be able to utter a word. See how many stones are before us? Truly, I could take a stone and force it into thy mouth and break thy jaws."
+>
+> And Judah said, "God is witness between us that we have not hitherto desired to battle with thee. Only give us our brother and we will go from thee." And Joseph answered and said, "As Pharaoh liveth, if all the kings of Canaan came together with you, you should not take him from my hand. Now therefore, go your way to your father and your brother shall be unto me for a slave, for he has robbed the king's house." And Judah said, "What is it to thee or to the character of the king? Surely, the king sendeth forth from his house throughout the land silver and gold either in gifts or expenses. And thou still talkest about thy cup which thou didst place in our brother's bag saying that he has stolen it from thee? God forbid that our brother Benjamin or any of the seed of Abraham should do this thing to steal from thee or from anyone else, whether king, prince, or any man. Now therefore, cease this accusation lest the whole earth hear thy words saying, 'For a little silver, the king of Egypt wrangled with the men and he accused them and took their brother for a slave.'" And Joseph answered and said, "Take unto you this cup and go from me and leave your brother for a slave, for it is the judgment of a thief to be a slave." And Judah said, "Why art thou not ashamed of thy words to leave our brother and to take thy cup? Surely, if thou give us thy cup or 1,000 times as much, we will not leave our brother for the silver which is found in the hand of any man that we will not die over him." And Joseph answered, "And why did you forsake your brother and sell him for 20 pieces of silver unto this day? And why then will you not do the same to this your brother?"
+
+- I'm going to jump to the point.
+
+> Verse 28. And when Judah heard this thing, he was exceedingly wroth, and his anger burned within him. And there was before him in that place a stone, the weight of which was about 400 shekels. And Judah's anger was kindled, and he took the stone in one hand and cast it to the heavens and caught it with his left hand. And he placed it
+
+- So, Judah's Superman here.
+
+> afterward under his legs, and he sat upon it with all his strength, and the stone was turned into dust from the force of Judah.
+>
+> And Joseph saw the act of Judah, and he was very much afraid. But he commanded Manasseh, his son, and he also did with another stone like unto the act of Judah.
+
+- Now, remember, Manasseh and Ephraim were little kids.
+
+> And Judah said unto his brethren, "Let not any of you say, this man is an Egyptian, but by his doing this thing, he is of our father's family." And Joseph said, "Not to you only is strength given, for we are also powerful men. And why will you boast over us all?" And Judah said unto Joseph, "Send I pray thee our brother, and ruin not thy country this day." And Joseph answered and said unto them, "Go and tell your father, an evil beast have devoured him, as you said concerning your brother Joseph." And Judah spoke to his brother Naphtali, and he said unto him, "Make haste. Go now and number all the streets of Egypt and come and tell me." And Simeon said unto him, "Let not this thing be a trouble to thee. Now I will go into the mount and take up one large stone from the mount and level it at everyone in Egypt and kill all that are in it."
+>
+> Wow.
+>
+> And Joseph heard all these words that his brethren spoke before him and they did not know that Joseph understood him, for they imagined that he knew not to speak Hebrew. And Joseph was greatly afraid at the words of his brethren lest they should destroy Egypt. And he commanded his son Manasseh saying, "Go now make haste and gather unto me all the inhabitants of Egypt and all the valiant men together and let them come to me now upon horseback and on foot with all sorts of musical instruments." And Manasseh went and did so. And Naphtali went as Judah commanded him.
+
+- Listen to this.
+
+> For Naphtali was light-footed as one of the swift stags and he would go upon the ears of corn and they would not break under him.
+
+- So he was so quick and fast he could run on corn without them breaking.
+
+> And he went and numbered all the streets of Egypt and found them to be 12. And he came hastily and told Judah. And Judah said unto his brethren, "Hasten you and put on every man his sword upon his loins and we will come over Egypt and smite them all and let not a remnant remain." And Judah said, "Behold, I will destroy thee of the streets with my strength and you shall each destroy one street." And when Judah was speaking this thing, behold, the inhabitants of Egypt and all the mighty men came toward them with all sorts of musical instruments and loud shouting.
+>
+> And the number was 500 cavalry and 10,000 infantry and 400 men who could fight without sword or spear only with their hands and strength. And all the mighty men came with great storming and shouting and they all surrounded the sons of Jacob and terrified them and the ground quaked at the sound of their shouting. And when the sons of Jacob saw these troops, they were greatly afraid of their lives. And Joseph did so in order to terrify the sons of Jacob to become tranquilized. And Judah, seeing some of his brethren terrified, said unto them, "Why are you afraid whilst the grace of God is with us?" And when Judah saw all the people of Egypt surrounding them at the command of Joseph to terrify them, only Joseph commanded them saying, "Do not touch any of them."
+>
+> Then Judah hastened and drew his sword and uttered a loud and bitter scream. And he smote with his sword and he sprang upon the ground and he still continued to shout against all the people. And when he did this thing, the Lord caused the terror of Judah and his brethren to fall upon the valiant men and all the people that surrounded them and they all fled at the sound of the shouting and they were terrified and fell one upon the other.
+
+- Egyptian army is running from Judah.
+
+> And many of them died as they fell. And they all fled from before Judah and his brethren and from before Joseph.
+
+- That's what I wanted. This did not happen, where Judah beat the entire Egyptian army. That did not happen. It makes nice fairy tale stuff but it contradicts the biblical text. Everybody see that, right? And it goes worse and worse. If y'all flip through and then read it, you get a good laugh.
+
+</div>
 
 **[Genesis 46:5-11](/bible/genesis/46#v5)**  *[[2:13:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=7996s)]*
 
@@ -601,7 +877,7 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 
 - All the souls of the house of Jacob which came into Egypt were threescore and ten: 70 souls.
 - Joseph fell on his father's neck, and wept on his neck a good while. And Israel said, now let me die, since I have seen thy face, because thou art yet alive.
-- Joseph instructed them: when Pharaoh shall ask, what is your occupation, ye shall say, thy servants' trade hath been about cattle from our youth; for every shepherd is an abomination unto the Egyptians. Joseph was fully aware of the history of the Hyksos, the shepherd kings from Palestine who had taken over the Delta and ruled Egypt in the 15th Dynasty. That's why he told his father and brothers to tell Pharaoh they were shepherds, so they would be placed apart in Goshen.
+- Joseph instructed them: when Pharaoh shall ask, what is your occupation, ye shall say, thy servants' trade hath been about cattle from our youth; for every shepherd is an abomination unto the Egyptians.
 
 **[Genesis 43:30-32](/bible/genesis/43#v30)**  *[[2:16:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8176s)]*
 
@@ -612,7 +888,35 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 > <sup>[32](/bible/genesis/43#v32)</sup> And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.
 
 - They set on bread for Joseph by himself, and for his brethren by themselves, and for the Egyptians by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.
-- What we read about ancient Egypt is not just for back then. In the Jim Crow era it was an abomination for Esau to sit and allow us in their restaurants. Signs read in class: we serve whites only, no Spanish or Mexicans; no dogs and no Mexicans, El Paso, Texas, 1929; and the rest of the signs all across the South forbidding us their restaurants, toilets, and water fountains. Issachar was included in that too, no matter how light their skin was; after that time period a lot of Mexicans petitioned to be classified as white, because they had been classified as Negroes.
+- What we read about ancient Egypt is not just for back then. In the Jim Crow era it was an abomination for Esau to sit and allow us in their restaurants.
+
+<div class="reading">
+
+Reading from signs from the Jim Crow era, shown on screen  *[[2:18:38](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8318s)]*
+
+> We serve whites only. No Spanish or Mexicans.
+
+> No dogs, no … and no Mexicans.
+
+> No Mexicans.
+
+> No dogs, … or Mexicans. El Paso, Texas, 1929.
+
+- These were things all across the South. Okay? So, what we're reading about the occurrences in ancient Egypt, and we think it was for back then. No, no, no, no, no, no, no. This is recent. All of these things were more recent, over 60 years ago. Like we already said, we have got that little civil rights here from 1965 till today, and we think we've won the world. No, you have not. Now, they're retaking, they're taking back all of those things.
+
+- So, what we read in Genesis 43, it said it's an abomination for an Egyptian to sit with a Hebrew. And you want to know why? Why the white man didn't want to sit down with us? Why the white man wouldn't even pray with us? John 3:16. Galatians 3:28. Remember that?
+
+- All of these are Jim Crow laws where we were forbidden to use their restaurants, their toilets, their water fountains even. And Issachar was included in that, too. Although a lot of Issachar today like to say they like Dominicans are not black. Oh, no, you a … too. You just a Spanish-speaking …
+
+- And after this time period, a lot of Mexicans wanted to be classified as white. There's books and records on that. They wanted to be classified because they were never classified as a white. They were classified as Negroes. No matter how light their skin was. Some of them could pass.
+
+- Look at that. NAACP our fools. Jake wanted Jim Crow era to end. They got Jim Crow in a casket over there.
+
+> No …, no Jews, no dogs.
+
+- And that's the only reason Imlac joined with us.
+
+</div>
 - You had your 62 years since civil rights, and what have we done in those years? The same thing South Africans have done since apartheid ended in 1994. We have not organized into any faction of society; we still don't have our own hospitals, and we gave up the bus lines and institutions we did have in order to integrate. Now Esau is taking the integration rules and laws away.
 
   Precepts:
@@ -631,7 +935,23 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 >
 > <sup>[4](/bible/genesis/47#v4)</sup> They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
 
-- Joseph took five of his brethren and presented them unto Pharaoh, and they answered as Joseph instructed: thy servants are shepherds, both we and also our fathers; for to sojourn in the land are we come. The Hyksos history is why that answer secured them Goshen.
+- Joseph took five of his brethren and presented them unto Pharaoh, and they answered as Joseph instructed: thy servants are shepherds, both we and also our fathers; for to sojourn in the land are we come.
+
+<div class="reading">
+
+Reading from *Lost Civilizations: Ramses the Second, Magnificence on the Nile*, again  *[[2:24:19](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8659s)]*
+
+- Why was Joseph telling them to say that you are shepherds? You see where it says 15th Dynasty Hyksos?
+
+> 15th Hyksos, 16th and 17th Dynasty.
+
+- The Hyksos were shepherd kings, shepherds. They were shepherds.
+
+> 1640 to 1550 BC. In a divided country, kings of these dynasties ruled contemporaneously with one another.
+
+- So, just before the New Kingdom, you had the Hyksos there. Joseph was fully aware of the history of what the Hyksos did. That's why he told his father and his brothers, tell Pharaoh you are shepherds, because it was an abomination for the Egyptians to sit with shepherds. Joseph understood that history. Okay? Let him know that the Hyksos era predated Joseph some, for a little bit at least.
+
+</div>
 
 **[Genesis 47:15-20](/bible/genesis/47#v15)**  *[[2:26:10](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8770s)]*
 
@@ -714,13 +1034,88 @@ Book read in class: the Book of Jasher, chapter 54, was read at length as an exa
 - Blessings of heaven above: good climate and weather. Blessings of the deep that lieth under: fish and the things beneath the waters. Blessings of the breasts, and of the womb: children upon children.
 - The blessings of thy father have prevailed above the blessings of my progenitors: what God promised to Abraham, Isaac, and Jacob was not yet fulfilled in their day, but Joseph ruled all Egypt. Canaan wasn't ours yet, and Joseph already had the crown.
 
-Book read in class: Lost Tribes and Promised Land, with passages from Spanish records, 1528 to 1543. Duran came to see elements of a Judaic character in the old Aztec religion: the eating of only unleavened bread on certain days of the year, the prohibition of drinking liquids after certain ritual food, the use of baths for purification; in time this seemed to him overwhelming evidence that the Indians are descended from the lost tribes of Israel, and he opens The History of the Indies of New Spain with an unqualified assertion to this effect. In Peru in the 1560s and 70s a Dominican friar declared a war to the death against the Indians to bring on the final redemption, because they were the lost tribes of Israel. And in the account of the Portuguese Marrano Antonio de Montesinos: the Indian guide Francisco declared his countrymen would be avenged upon the Spaniards by means of a people now hidden; Indians came by canoe and recited to Montesinos in Hebrew, Shema Yisrael, Adonai Eloheinu, Adonai Echad; they told him they were of the tribe of Reuben, and that the tribe of Joseph lived on an island nearby. That island speaks of Puerto Rico, with Cuba beside it. Their tablets said that at the end of days they will be lords of all the nations of the earth.
+<div class="reading">
+
+Reading from *Lost Tribes and Promised Land*  *[[2:42:27](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9747s)]*
+
+- Now, I got this back in the '90s. Y'all can probably get this today.
+
+> Passages from Spanish explorers in the Southern United States, 1528 to 1543.
+
+- Aren't clever writings. These were records. These were records put into this book form.
+
+> Duran came to see elements of a Judaic character in the old Aztec religion.
+
+- That's the Mexicans.
+
+> At first, this tendency appears only as a fervent search for Jewish analogies,
+
+- So, notice he said he found Judaic characters in the old Aztec religion.
+
+> provoked by Aztec customs such as the eating of only unleavened bread on certain days of the year, the prohibition of drinking liquids after the eating of certain ritual food, and the use of bath for purification. In time, this begins to seem to Duran like overwhelming evidence that the Indians are indeed descended from the lost tribes of Israel.
+>
+> And he opens his last and most important work, The History of the Indies of New Spain, with an unqualified assertion to this effect in this way, "Even certain fundamental legends can be explained, such as the one that Montezuma presented to Cortez. The departure of the great lord in antiquity now seems to Duran to be a memory of Moses. As for the abject condition of the Indian, it can now be accounted for in the classic way. This is God's punishment once again wrought upon the Jewish people for their sins."
+
+- That's right.
+
+> In Peru, in the 1560s and 70s, a Dominican friar called Francisco de la Cruz had declared himself the Messiah of the New World Christianity, which had a fight, a war to the death against the Indians in order to bring on the final redemption because they were the lost tribes of Israel.
+
+- This Edomite want to do? Bring on a major fight to slaughter them to force Christ to come back. This is in Peru.
+
+> A lost tribe discovered in New York in September 1644. A Portuguese Marrano named Antonio de Montesinos
+
+> Nothing more had been offered by them on this point, but later in the same conversation, Francisco, one of the Indian guides, had declared that his countrymen would be avenged upon the Spaniards in time anyway by means of a people now hidden.
+
+- The people now hidden was Judah.
+
+</div>
 
   Precepts:
   - **[Psalms 83:3](/bible/psalms/83#v3)**
     > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 
     They have taken crafty counsel against thy people, and consulted against thy hidden ones. The same words the record used: a people now hidden.
+
+<div class="reading">
+
+Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9939s)]*
+
+> Upon his return to Cartagena, the Judaizing Montesinos had found himself accused by the Inquisition and put in prison. Praying for salvation in his cell one day, he was reciting what was by then a standard formula among New World Marranos, "Blessed be the name of the Lord, who has not made me an idolater, a barbarian, a negro, an Indian." When suddenly he stopped. "Those Indians," he told himself, "they are Hebrews."
+>
+> Pondering this thought incredulously, and yet with growing conviction, he resolved that if he ever was released, he would seek out the Indian Francisco and try to learn the truth. Montesinos' story, unclear as to the circumstances of his incarceration, is equally unclear as to those of his release, but released he was, and he immediately went to Francisco, revealing himself as a Jew. Montesinos proclaimed his conviction that Francisco's hidden people were of the same race as he. Would Francisco lead him to them?
+>
+> Eventually, a canoe appeared bearing three men and a woman, all of them Indians, to the place where Francisco and Montesinos were standing at the water's edge. The woman got off and spoke to Francisco in an Indian tongue that Montesinos could not understand. Although he could perceive that he was being identified in the conversation. She then turned to her male companions to explain the situation. Upon hearing her words, they rose, went over to Montesinos, and to his other astonishment said, "Shema Yisrael, Adonai Eloheinu, Adonai Ehad." Hear, O Israel, the Lord our God, the Lord is one. They had recited in Hebrew the fundamental credo of Judaism.
+>
+> They told him that they were themselves of the tribe of Reuben, and that the tribe of Joseph lived on an island nearby.
+
+- Right. So, that Joseph lived on an island nearby. That was Puerto Rico, and you had Manasseh Cuba living there. I'm just going to rush through this now.
+
+> His ancestors, to their eternal shame, had indeed made war on them and persecuted them. Only the sorcerers of his tribe had perceived that they were a special people
+
+- Deuteronomy 7:6.
+
+> and had given warning that they should be left alone. The God of these children of Israel is the true God,
+
+- That's right.
+
+> they had said, "and everything inscribed on their tablets is true.
+
+- I thought they didn't have records. Everything inscribed on their tablets is true. Remember, these are records that Spain collected.
+
+> At the end of days, they will be lords of all the nations of the earth.
+
+- That's what they don't want.
+
+> One nation will come, bringing many things to this land.
+
+- That's right, Judah.
+
+> And after we have all been provided for, these children of Israel will go forth from where they now are and reign over the whole earth as they once did."
+
+- Y'all see that right there? That's right.
+
+</div>
+
   - **[Daniel 7:27](/bible/daniel/7#v27)**
     > <sup>[27](/bible/daniel/7#v27)</sup> And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
 

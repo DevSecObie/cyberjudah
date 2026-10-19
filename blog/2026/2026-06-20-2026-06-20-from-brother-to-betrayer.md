@@ -61,7 +61,17 @@ Today's topic: From Brother To Betrayer. This is based on what Christ said in Ma
 - In the vision Onias, who had been high priest, a virtuous and a good man, reverend in conversation, gentle in condition, well spoken, exercised from a child in all points of virtue, held up his hands and prayed for the whole body of the Jews. This is a lover of the brethren, who prayeth much for the people and for the holy city. Then Jeremiah the prophet gave Judas a holy sword, a gift from God, with which thou shalt wound the adversaries.
 - The care they took for their wives, children, brethren, and kinsfolk was in least account with them; the greatest and principal fear was for the holy temple. It is not that they didn't care for their families; the love of the temple was greater.
 
-Books required in class: when the Bishop was young in the truth it was mandatory to get Who's Who in the Bible: the Old Testament and the Apocrypha, and the New Testament (two volumes in one, by Joan Comay and Ronald Brownrigg), the Zondervan Compact Bible Dictionary, and The Complete Works of Flavius Josephus. That way you look people up yourself instead of asking who Onias or Peter is. Josephus has a few bones in it since he was a slave to Rome, but a lot of the history is on point.
+Books required in class: when the Bishop was young in the truth it was mandatory to get Who's Who in the Bible: the Old Testament and the Apocrypha, and the New Testament, the Zondervan Compact Bible Dictionary, and The Complete Works of Flavius Josephus. That way you look people up yourself instead of asking who Onias or Peter is. Josephus has a few bones in it since he was a slave to Rome, but a lot of the history is on point.
+
+<div class="reading">
+
+Reading from the cover of *Who's Who in the Bible*  *[[16:29](https://www.youtube.com/watch?v=Qw2v07pohR4&t=989s)]*
+
+> Two volumes in one, by Joan Comay and Ronald Brownrigg.
+
+- I have this at home. When I first started, I told all the men, the deacons, get this book. That way you don't ask stupid questions.
+
+</div>
 
 **[2 Maccabees 3:1-6](/bible/2-maccabees/3#v1)**  *[[18:32](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1112s)]*
 
@@ -78,7 +88,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 > <sup>[6](/bible/2-maccabees/3#v6)</sup> And told him that the treasury in Jerusalem was full of infinite sums of money, so that the multitude of their riches, which did not pertain to the account of the sacrifices, was innumerable, and that it was possible to bring all into the king’s hand.
 
 - The holy city was inhabited with all peace, and the laws were kept very well, because of the godliness of Onias the high priest and his hatred of wickedness. Because of Onias's faith, his strength and love for God's laws, that inspired everybody else; even the kings themselves honored the place and magnified the temple with their best gifts. Seleucus king of Asia, of the line of Alexander's four generals (Lysimachus over Thrace and Asia Minor, Cassander over Macedonia and Greece, Ptolemy over Egypt, Seleucus over Babylon and Syria), bore all the costs of the sacrifices out of his own revenues.
-- But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city. The role of the temple governor was read: management of temple resources, maintenance of the temple, administration of worship, handling disputes, coordination with other authorities, and security. Whatever the dispute was, Onias as high priest had the last say.
+- But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city. Whatever the dispute was, Onias as high priest had the last say.
 - And when he could not overcome Onias, he got him to Apollonius the governor of Coelosyria and Phenice. He ran to the other nations. They were working together on this temple, and because of one argument he goes to the other nations against Onias, and told them that the treasury in Jerusalem was full of infinite sums of money. You cannot make this stuff up.
 
   Precepts:
@@ -105,13 +115,54 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Every friend saith, I am his friend also: but there is a friend, which is only a friend in name. Is it not a grief unto death, when a companion and friend is turned to an enemy? There is a companion which rejoiceth in the prosperity of a friend, but in the time of trouble will be against him. They had one dispute, and he ran to the other nations and told them about all the money in Jerusalem.
 
+<div class="reading">
+
+Reading from an on-screen search on the role of the governor of the temple in Jerusalem · read by Captain Yuri  *[[24:52](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1492s)]*
+
+> Number one, management of temple resources. The governor would oversee the financial resources of the temple, ensuring that offerings and donations were properly accounted for and used for their intended purposes.
+>
+> Number two, maintenance of the temple. Ensuring that the physical structure of the temple was well-maintained and that it adhered to the religious and ceremonial standards required for worship.
+>
+> Number three, administration of worship. The governor would facilitate the religious activities taking place in the temple, including overseeing the priests and assisting in the scheduling of sacrifices and other rituals.
+>
+> Number four, handling disputes. Addressing any disputes or issues that arose within the temple precincts among the priests or worshippers, and ensuring order was maintained.
+>
+> Number five, coordination with other authorities. Working alongside the high priests and other Jewish leaders to manage affairs relating to both religious and civic matters in the city.
+>
+> Number six, security. Ensuring the safety and security of the temple grounds, especially given its significance to the Jewish people and the political tensions of the time.
+
+- This is what Simon of the tribe of Benjamin, who was the governor... this was his role. Now the high priest was over him regarding the temple. Evidently they had a falling out, based on that verse.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on what the temple collections were for · read by Captain Yuri  *[[29:39](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1779s)]*
+
+> Specific purposes for these collections included sustenance for the Levites,
+
+- Now, this was pertaining to the riches that was in the temple.
+
+> because the Levites had no territorial inheritance. The first tithe was given to them as compensation for their full-time duties in the tabernacle and temple, example, maintenance, music, and guarding.
+>
+> Support for Aaronic priests. The Levites were required to take a tenth of the tithes they collected, a tithe of the tithe, and presented as a sacred offering to the high priests.
+>
+> Community welfare. Every third year, the collection was set aside as a community chest to feed local Levites, widows, orphans, and resident foreigners.
+
+- And resident foreigners. Now, that was for, let's say, Judah or somebody from Issachar was traveling. Those are the strangers first and foremost.
+
+> Temple maintenance. In certain eras, designated monetary collections were specifically earmarked for repairing and maintaining the physical structure of the temple in Jerusalem.
+
+- So that's what the money that was in there was for.
+
+</div>
+
 **[Deuteronomy 14:28-29](/bible/deuteronomy/14#v28)**  *[[30:58](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1858s)]*
 
 > <sup>[28](/bible/deuteronomy/14#v28)</sup> At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:
 >
 > <sup>[29](/bible/deuteronomy/14#v29)</sup> And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the Lord thy God may bless thee in all the work of thine hand which thou doest.
 
-- What riches in the temple did not pertain to the sacrifices? The reading explained the collections: sustenance for the Levites, who had no territorial inheritance; support for the Aaronic priests, the tithe of the tithe; and every third year a community chest to feed local Levites, widows, orphans, and resident foreigners.
 - At the end of three years thou shalt bring forth all the tithe of thine increase, and the Levite, the stranger, and the fatherless, and the widow within thy gates shall come, and shall eat and be satisfied. The scripture tells you the monies collected were for the Levites, the strangers, the fatherless, and the widows.
 
 **[Tobit 1:3-8](/bible/tobit/1#v3)**  *[[31:48](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1908s)]*
@@ -314,7 +365,19 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Whosoever hateth his brother is a murderer. That is Simon. The domino effect: he coveted power, from there it turned to anger, from there to slander, and from there to murder. Holding on to anger is like drinking poison and expecting the other person to die; the only one affected is you.
 
-- There is always that one brother or sister that all the murmurers draw to, telling them all the things they don't like about people. Ask yourself: why do they feel so comfortable telling you? Story told in class: a deacon pointed at a sister and called her loose because of her high heels; the Bishop called the other deacons over, they saw nothing wrong with her, and he blew the brother's spot up in front of them. You cannot come to me with evil. We must train ourselves to hate evil.
+<div class="reading">
+
+Reading from an on-screen saying  *[[1:07:55](https://www.youtube.com/watch?v=Qw2v07pohR4&t=4075s)]*
+
+> Don't tell me what they say about me. Tell me why they feel comfortable telling you.
+
+- I want you to think about this. There's always that one brother or that one sister in IUIC. All the murmurers draw to him, and they tell all the things that they don't like about people. Why do they draw to you? And why do they still feel so comfortable saying it to you? And you obviously didn't have our back, cuz he's slandering, she's slandering, and they just feel so comfortable saying evil stuff to you. I notice in every IUIC school, you got a brother and there's a sister just like that. You cannot come to me and murmur.
+
+- I got a story for you. Brother comes up to me. He was a deacon. It's a while back. He goes, "Bishop, look at that sister over there." I said, "What sister?" He says, "That one right there with those red shoes." I said, "Okay, what's wrong?" He says, "She's a hoe." I said, "What do you mean she's a hoe? How'd you determine that?" He said, "The shoes. The heels." She had real high heels. I said, "Bro, you mean to tell me you figured out she's a hoe because she got high heels?" He goes, "Yeah." I said, "Word?" I said, "Deacon Asaph, Deacon Malachi, Deacon …, everybody come here. Look at that sister right there." They all look. They said, "What sister?" I said, "That one right there with the red shoes. Do you think she's a hoe?" They were like, "No." I said, "Well, this mother effer right here says she's a hoe because of the shoes."
+
+- See, you can't come to me with evil. I'mma blow your spot up when you come to me with evil. You all got to learn how to do that. They go, "I better not go to Bishop on this one. He going to embarrass me." We must train ourselves to hate evil.
+
+</div>
 
 **[2 Maccabees 4:4-6](/bible/2-maccabees/4#v4)**  *[[1:11:55](https://www.youtube.com/watch?v=Qw2v07pohR4&t=4315s)]*
 
@@ -469,7 +532,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
 - Three years afterward Jason sent Menelaus, the aforesaid Simon's brother, to bear the money unto the king. Remember Simon of the tribe of Benjamin: his brother is Menelaus. But he, being brought to the presence of the king, magnified him for the glorious appearance of his power, and got the priesthood to himself, offering more than Jason by three hundred talents of silver. He came bringing nothing worthy the high priesthood, but having the fury of a cruel tyrant and the rage of a savage beast.
 - Then Jason, who had undermined his own brother, being undermined by another, was compelled to flee into the country of the Ammonites. Now the high priest is of the tribe of Benjamin. You cannot make this stuff up.
-- Menelaus, supposing that he had gotten a convenient time, stole certain vessels of gold out of the temple, gave some of them to Andronicus, and sold some into Tyrus and the cities round about. When Onias knew of a surety, he reproved him, and withdrew himself into a sanctuary at Daphne, by Antiochia; the map was shown in class of where Onias had to flee.
+- Menelaus, supposing that he had gotten a convenient time, stole certain vessels of gold out of the temple, gave some of them to Andronicus, and sold some into Tyrus and the cities round about. When Onias knew of a surety, he reproved him, and withdrew himself into a sanctuary at Daphne, by Antiochia.
 - Wherefore Menelaus, taking Andronicus apart, prayed him to get Onias into his hands; who, coming to Onias in deceit, gave him his right hand with oaths; and though he were suspected by him, yet persuaded he him to come forth of the sanctuary: whom forthwith he shut up without regard of justice. He killed Onias III, the real high priest.
 - Not only the Jews, but many also of other nations, took great indignation, and were much grieved for the unjust murder of the man, because Onias had a good report even among the other nations. The king was heartily sorry, and moved to pity, and wept, because of the sober and modest behaviour of him that was dead; and being kindled with anger, he took away Andronicus his purple, rent off his clothes, led him through the whole city unto that very place where he had committed impiety against Onias, and there slew he the cursed murderer. Thus the Lord rewarded him his punishment, as he had deserved.
 
@@ -523,6 +586,16 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 
     Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation. Our people living like Gentiles will repent based on your conduct out there in the world.
 
+<div class="reading">
+
+Reading from an on-screen web page shown with the map of Daphne · read by Captain Yuri  *[[1:55:14](https://www.youtube.com/watch?v=Qw2v07pohR4&t=6914s)]*
+
+> This page deals with monuments and sites which are located in the north northeastern corner of the Mediterranean Sea. It belong to the historical regions of Cilicia, today …, and Syria, as shown in the maps here below. Part two is dedicated to Roman floor mosaic.
+
+- So you see Daphne, bottom right. He ran there. That's where Onias had to run. He fled from Jerusalem up here to get the hell away from these guys, the new high priest of the tribe of Benjamin.
+
+</div>
+
 **[2 Maccabees 5:1-14](/bible/2-maccabees/5#v1)**  *[[2:03:57](https://www.youtube.com/watch?v=Qw2v07pohR4&t=7437s)]*
 
 > <sup>[1](/bible/2-maccabees/5#v1)</sup> About the same time Antiochus prepared his second voyage into Egypt:
@@ -556,7 +629,7 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 - Through all the city, for the space almost of forty days, there were seen horsemen running in the air, in cloth of gold, and armed with lances; and every man prayed that the apparition might turn to good.
 - When there was gone forth a false rumour, as though Antiochus had been dead, Jason took at the least a thousand men and suddenly made an assault upon the city, and Menelaus fled into the castle. Now Menelaus is running from his one-time friend Jason, whose priesthood he took. But Jason slew his own citizens without mercy, thinking they had been his enemies, and not his countrymen, because he despised his own people.
 - Howbeit for all this he obtained not the principality, but at the last received shame for the reward of his treason, and fled again into the country of the Ammonites. You think you can be a traitor and be honored and respected? Nobody likes a traitor; even in Rise of the Planet of the Apes, they spray painted the word donkey on the traitor apes. That is the brothers that left in 2018 and the brothers that just bugged out in LA. You cannot be trusted.
-- In the end therefore he had an unhappy return: accused before Aretas the king of the Arabians, fleeing from city to city, pursued of all men, hated as a forsaker of the laws, and being had in abomination as an open enemy of his country and countrymen, he was cast out into Egypt. Thus he that had driven many out of their country perished in a strange land, retired to the Lacedemonians (that is Sparta); and he that had cast out many unburied had none to mourn for him, nor any solemn funerals at all, nor sepulchre with his fathers. All that evil he did came back on him.
+- In the end therefore he had an unhappy return: accused before Aretas the king of the Arabians, fleeing from city to city, pursued of all men, hated as a forsaker of the laws, and being had in abomination as an open enemy of his country and countrymen, he was cast out into Egypt. Thus he that had driven many out of their country perished in a strange land, retired to the Lacedemonians; and he that had cast out many unburied had none to mourn for him, nor any solemn funerals at all, nor sepulchre with his fathers. All that evil he did came back on him.
 - When these doings came to the king's ear, he thought that Judea had revolted; he took the city by force of arms, and there were destroyed within the space of three whole days fourscore thousand, whereof forty thousand were slain in the conflict, and no fewer sold than slain.
 - Yet was he not content with this, but presumed to go into the most holy temple of all the world; Menelaus, that traitor to the laws, and to his own country, being his guide. An Israelite guided Esau on what to do. And besides Menelaus, the governors he left were worse than all the rest, bearing a heavy hand over the citizens, having a malicious mind against his countrymen the Jews. That is why to this day they look for those who will be harder on us than Esau, because they have something to prove.
 - Apollonius, pretending peace, forbare till the holy day of the Sabbath, and taking the Jews keeping holy day, commanded his men to arm themselves, and slew all them that were gone to the celebrating of the Sabbath. But Judas Maccabeus with nine others withdrew himself into the wilderness, and lived in the mountains after the manner of beasts, and fed on herbs continually, lest they should be partakers of the pollution.
@@ -570,6 +643,16 @@ Books required in class: when the Bishop was young in the truth it was mandatory
     > <sup>[24](/bible/matthew/26#v24)</sup> The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
 
     Woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born. That is what the scripture says about the betrayer.
+
+<div class="reading">
+
+Reading from an on-screen definition of Lacedonia  *[[2:11:16](https://www.youtube.com/watch?v=Qw2v07pohR4&t=7876s)]*
+
+> Lacedonia, also spelled …, is the ancient geographic and historical name for the city-state of Sparta in the surrounding region of Laconia in southern Greece.
+
+- That's all I want to say. This is Sparta.
+
+</div>
 
 **[2 Maccabees 13:3-8](/bible/2-maccabees/13#v3)**  *[[2:18:38](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8318s)]*
 
@@ -618,9 +701,27 @@ Books required in class: when the Bishop was young in the truth it was mandatory
 >
 > <sup>[40](/bible/matthew/22#v40)</sup> On these two commandments hang all the law and the prophets.
 
-- Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind: this is the first and great commandment. The ten commandments were read in class: the first four deal with that one.
-- And the second is like unto it: thou shalt love thy neighbour as thyself. Commandments five through ten deal with loving your neighbor as yourself. And remember, thou shalt not covet, although it is number ten, is where all the others start: coveting is an internal thing within you and me.
+- Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind: this is the first and great commandment.
+- And the second is like unto it: thou shalt love thy neighbour as thyself.
 - On these two commandments hang all the law and the prophets. What we read in Maccabees today pertains to those two great commandments.
+
+<div class="reading">
+
+Reading from an on-screen list of the ten commandments · read by Captain Yuri  *[[2:23:20](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8600s)]*
+
+> Number one, thou shalt have no other gods before me. Number two, thou shalt not make unto thee any graven image. Number three, thou shalt not take the name of the Lord thy God in vain. Number four, remember the Sabbath day to keep it holy.
+
+- In regards to the ten commandments, I'm only discussing the ten commandments this moment. So the first four commandments of the 10 deal with that one. Yes, we know there's a lot more commandments, but I'm just dealing with this right here, the 10.
+
+> Number five, honor thy father and thy mother.
+
+- These laws deal with loving your neighbor as you love yourself.
+
+> Number six, thou shalt not kill. Number seven, thou shalt not commit adultery. Number eight, thou shalt not steal. Number nine, thou shalt not bear false witness against thy neighbor. Number 10, thou shalt not covet.
+
+- Now remember, thou shalt not covet. Although it's number 10, that's where all the other ones above it start in your mind. It begins right there, cuz coveting is an internal thing within you and me.
+
+</div>
 
 ## In Closing
 

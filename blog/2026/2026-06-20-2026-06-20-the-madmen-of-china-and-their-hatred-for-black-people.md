@@ -31,7 +31,19 @@ Videos played in class around the boycott:
 - The angry Chinese lady: she blamed our people for the killing of a black boy by a store owner, saying if you had disciplined your boy he would not have been in someone's store trying to steal a fifty cent bottle of water, and pointing to the black jurors who found the shooter not guilty. But the boy did not steal any water: he left his bag at the front, took the water out and put it back, showed his pockets, and left the store. They chased him for a hundred and thirty yards and shot the boy in the back. He ran because he was scared; he is a boy with two grown men chasing behind him.
 - A response video exposed that woman: her online persona and accent are fake, public records contradict her story, and she has her own record of victimizing people; after it circulated she deleted her accounts. And on the victim mentality talking point: when a rapist rapes somebody, is that person a victim? Did we get raped during slavery? We are victims, and we are not going to forget it. That talking point is designed to get us to be quiet, and it does not work on us. If you rob me, I am going to keep saying you are a robber.
 - Another commentator said the boycott will not hold: where are you going to get your weave, Walmart? It is still made by the Chinese; Amazon, still made by the Chinese; and the moment the paycheck comes, it is right back to the hair, feet, and nails. That proves the point: too many of our women have been raised to despise the way they look, running after fake hair, fake nails, and lashes China makes. Sisters, love your hair and your complexion. And brothers, some of you are the reason for it, talking about the hair textures and complexions you prefer; you hate the way you look, and that spirit lands on the women.
-- Statistics read in class: black consumers spend about 9.4 billion dollars a year on beauty products, around 11 to 12.5 percent of the total US beauty market; black hair care is a 2.5 billion dollar industry, and black women spend roughly nine times more on ethnic hair products than non-black consumers.
+
+<div class="reading">
+
+Reading from on-screen text on hair and beauty supply stores  *[[34:44](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2084s)]*
+
+> Hair and beauty supply stores. The most documented intersection of black spending at Asian-owned businesses is in the ethnic beauty supply sector.
+>
+> Overall beauty spending. Black consumers spend 9.4 billion on beauty products annually, accounting for 11.1 to 12.5% of the total US beauty market.
+>
+> The hair care product: black hair care specifically is a $2.51 billion industry. Black women spend roughly 9 times more on ethnic hair products than non-black consumers.
+
+</div>
+
 - The Natasha stress doll: a stress relief toy resembling a small black baby is going viral, with users squeezing, stomping, throwing, and running it over for content. The dolls come in multiple colors, yet the trend focuses on this specific version. Make your own decision about what that trend is.
 - A man who admitted burning a cross in Grant Park, Chicago, topped with a MAGA hat, gave a softball interview claiming he never learned what a burning cross means in America. What man gets an interview first before the police lock him up? You cannot make this stuff up.
 
@@ -73,7 +85,27 @@ Videos played in class around the boycott:
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
 
-- And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person. Definition read in class, the primary countries and territories of East Asia: China, the largest country in the region by landmass and population, a global economic and manufacturing powerhouse; Japan, an island nation known for technological innovation; South Korea; North Korea; Mongolia; and Taiwan, a global leader in semiconductor production. That is the Asia this prophecy addresses.
+- And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person. Now let's see who Asia is. Let's examine Asia. Give me the primary countries and territories of East Asia, cuz that's what it's talking about.
+
+<div class="reading">
+
+Reading from on-screen text on the primary countries and territories of East Asia  *[[20:23](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1223s)]*
+
+> The primary countries and territories of East Asia are China, People's Republic of China, the largest country in the region by both landmass and population, acting as a global economic and manufacturing powerhouse.
+>
+> Japan, an island nation known for its technological innovation, rich history, and the world's third largest economy.
+>
+> South Korea, Republic of Korea, a highly developed, high-income country, globally recognized for electronics, manufacturing, and its cultural impact. K-pop cinema.
+>
+> North Korea, Democratic People's Republic of Korea. Located on the northern half of the Korean Peninsula, characterized by its distinct isolated political system.
+>
+> Mongolia, a vast landlocked country in the continental interior known for its geography and nomadic heritage.
+>
+> Taiwan, Republic of China, an island nation that is a global leader in high tech manufacturing and semiconductor production.
+
+- All right, that's all I want from that.
+
+</div>
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[26:41](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1601s)]*
 
@@ -107,15 +139,54 @@ Videos played in class around the boycott:
 - Sodom and Gomorrah have just been destroyed, and Lot dwells in a cave with his two daughters. They think everybody on the planet is dead: our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth. Both the daughters of Lot were with child by their father.
 - And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day. And the younger bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
 - When I came into this truth in the nineties, our elders already taught us that Moab is the Chinese and Ammon is the Japanese. It was not until recently that we found the books.
-- Book read in class: The Japanese: Who Are They?, by Thomas W. Plant. From the highlighted sections: after a careful study of the whole of the arguments, "the author had definitely established his case, namely that the Japanese are the children of Ammon"; by the family tree of Abraham and Lot "you will see at once that Japan and China, versus Ben-ammi and Moab of old, are of Shemitic origin"; and "the proving of Japan to be the children of Ammon carries with it the claim that the Chinese are the children of Moab."
-- Book read in class: The Dragon, Image, and Demon: The Three Religions of China (Confucianism, Buddhism, and Taoism). On page 363 the author applies Jeremiah's words directly: "As of Moab, it may be said, We have heard the pride of China; he is exceeding proud, his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart." You see how Moab was translated to China.
-- Genetics read in class: Koreans are genetically slightly closer to Japanese than to Chinese populations, so write it down: the Koreans, North and South, are Ammonites. Vietnamese people are significantly closer to Chinese people: the Vietnamese are Moab. Mongolia is genetically closer to China than to Japan: Mongolia is Moab.
+
+<div class="reading">
+
+Reading from *The Japanese: Who Are They?* by Thomas W. Plant  *[[45:09](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2709s)]*
+
+> The late Lancia McI was one of those friends, and after a careful study of the whole of the arguments contained in the pamphlet, he stated that he considered the author and had definitely established his case, namely that the Japanese are the children of Ammon.
+
+> Isaac, the son of Abraham, who was the uncle of Lot. By this tree worked out on page 18, you will see at once that Japan and China versus Ben-ammi and Moab of old are of Shemitic origin.
+
+> This proving of Japan to be the children of Ammon carries with it the claim that the Chinese are the children of Moab.
+
+- So, we didn't get that first. This came way later. We recently found these things.
+
+</div>
 
 **[Jeremiah 48:29](/bible/jeremiah/48#v29)**  *[[46:56](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2816s)]*
 
 > <sup>[29](/bible/jeremiah/48#v29)</sup> We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
 
 - We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart. If you did not know the Chinese man was proud, you learned it these last few weeks.
+
+<div class="reading">
+
+Reading from *The Dragon, Image, and Demon: The Three Religions of China, Confucianism, Buddhism, and Taoism*, page 363  *[[47:18](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2838s)]*
+
+> As of Moab, it may be said, We have heard the pride of China. He is exceeding proud, his loftiness, and his arrogancy and his pride and the hardiness of his heart.
+
+- You see how they translated China? Moab was translated to China.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen text on the genetics of the peoples of East Asia  *[[47:48](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2868s)]*
+
+> Genetically, Koreans are slightly closer to Japanese than to Chinese population.
+
+- So, write this down. Koreans are Ammon. Koreans, South Koreans, North Koreans are Ammonites.
+
+> Genetically, Vietnamese people are significantly closer to Chinese people.
+
+- Vietnamese are Moab. So, it ain't just China. It's the Vietnamese as well.
+
+> Mongolia is genetically closer to China than to Japan.
+
+- Mongolia is Moab.
+
+</div>
 
 **[Isaiah 15:1-2](/bible/isaiah/15#v1)**  *[[48:38](https://www.youtube.com/watch?v=6XyhSewrzz0&t=2918s)]*
 
@@ -124,7 +195,19 @@ Videos played in class around the boycott:
 > <sup>[2](/bible/isaiah/15#v2)</sup> He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off.
 
 - The burden of Moab. Ar and Kir are cities in Moab, laid waste and brought to silence. This took place under Nebuchadnezzar, when Babylon came in smiting Moab; but these scriptures carry a dual meaning for the last days.
-- On all their heads shall be baldness, and every beard cut off. Moab shaves the hair in mourning, and it remains in their religions: definition read in class, in Chinese religious traditions head shaving is an absolute obligation for ordained monastics; in the Buddhist tradition the shaving of the head, the tonsure, carries significant meaning, and fully ordained monks and nuns must shave.
+- On all their heads shall be baldness, and every beard cut off. Moab has a thing that when they're in great sorrow or mourning, they shave all their hair off. In their religions, they shave off their body hair. That is one of their customs.
+
+<div class="reading">
+
+Reading from on-screen text on head shaving in Chinese religions  *[[51:44](https://www.youtube.com/watch?v=6XyhSewrzz0&t=3104s)]*
+
+> In Chinese religious traditions, head shaving is not a requirement for lay followers, but it is an absolute obligation for ordained monastics, monks, and nuns.
+>
+> In the Buddhist tradition, the shaving of the head known as tonor carries significant meaning in the Chinese religious life.
+>
+> Buddhism: who must shave: fully ordained monks, biscus and nuns, Biscosunis, often referred to as chuch shang, those who leave the household life.
+
+</div>
 
   Precepts:
   - **[Revelation 11:8](/bible/revelation/11#v8)**
@@ -219,8 +302,60 @@ Videos played in class around the boycott:
 > <sup>[9](/bible/2-maccabees/5#v9)</sup> Thus he that had driven many out of their country perished in a strange land, retiring to the Lacedemonians, and thinking there to find succour by reason of his kindred:
 
 - Jason, the wicked Israelite who slew his own citizens without mercy, fled again into the country of the Ammonites, and in the end was accused before Aretas the king of the Arabians. Why? Because by that time the Arabs controlled the land of the Ammonites.
-- Book read in class: The Antiquities of the Jews, by Flavius Josephus, book 13 chapter 15: Alexander Jannaeus "was forced to deliver back to the king of Arabia the land of Moab and Gilead which he had subdued," so that the Arabians would not join the war against him. The king of Arabia had the land of Moab as well. Context read in class: during the reign of the Hasmonean king Alexander Jannaeus (103 to 76 BC), the Nabataean kingdom, ruled by the king of Arabia, took those territories. The Nabataeans were Arabs; that is why foolish people online read that Edom was ruled by the Nabataeans and say Edom are the Arabs. The Nabataeans came later, during the time of the Maccabees.
-- Reading from the research summary: the Moabites and Ammonites did not leave their ancestral lands in a single voluntary exodus; they vanished from the region between the sixth and first centuries BC through military devastation and forced exiles, from the time of Nebuchadnezzar to the time of the Greeks, in increments. But the claim that they simply blended into the newer Arab populations is not true; the AI summaries and search engines will mislead you on purpose so you never find out who Moab and Ammon are. Remember who controls them.
+
+<div class="reading">
+
+Reading from *The Antiquities of the Jews* by Flavius Josephus, book 13, chapter 15  *[[1:11:09](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4269s)]*
+
+> Nay, at length they reduced him to that degree of necessity that he was forced to deliver back to the king of Arabia the land of Moab and Gilead which he had subdued, and the places that were in them, that they might not join with them in the war against him, as they had done ten thousand other things that tended to affront and reproach him.
+
+- What I want you to see, the king of Arabia also had the land of Moab as well.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen text on the context of the quote  *[[1:11:46](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4306s)]*
+
+> The text refers to the reign of the Hasmonean king Alexander Jannaeus, 103 to 76 BCE. Jannaeus, an active and often brutal military ruler, had expanded his kingdom across the Jordan River into the territories of Moab and Gilead.
+>
+> The political crisis: during his military campaigns, Jannaeus alienated many of his own subjects, particularly the Pharisees, which sparked a brutal six-year civil war in Judea, fearing that the internal rebellion against Jannaeus might draw in the neighboring Nabataean kingdom ruled by the king of Arabia.
+
+- Now y'all see that Nabataean. A lot of times you read about the Nabataeans. Those were Arabs. This why, like when you look up Edom, it'll say ruled by the Nabataeans. Those are Arabs. That's why you got some foolish people online that say Edom are the Arabs. Those are the Nabataeans. That came later. The Nabataeans, the Arabs, came at this time, during the time of the Maccabees.
+
+> Jannaeus's adversaries successfully forced the king of Arabia to intervene. Reduced to a desperate state, Jannaeus had to back down and strike a deal with the Arabians. To prevent a broader conflict, to guarantee that the king of Arabia would not join with the Jewish rebels, Jannaeus was forced to return the territories of Moab and Gilead to the king of Arabia. Surrender the specific cities and fortresses he had previously subdued.
+
+- So y'all could read that in Flavius Josephus. I told you to get the book. That's one of the source: Flavius Josephus, Antiquities of the Jews, book 13, chapter 15. It explains what we were just reading in Maccabees.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen text on the Moabites and Ammonites  *[[1:14:10](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4450s)]*
+
+> The Moabites and Ammonites did not leave their ancestral lands in a single voluntary exodus.
+
+- It was from the time of Nebuchadnezzar all the way to the time of the Greeks, in increments.
+
+> Instead, they permanently vanished from history between the 6th and 1st centuries BCE due to military devastation, forced exiles and eventual cultural assimilation into expanding Arab population.
+
+- So the Arabs began to take over.
+
+> Rather than walking away,
+
+- They did walk away. This part is wrong.
+
+> their populations were decimated by world empires,
+
+- Babylon, Persia Media, then the Greeks and Rome.
+
+> and the survivors simply blended into the newer peoples who moved into the region.
+
+- That part right there, it's not true. And I'm going to show you that, too.
+
+- So all this the research says, China and Japan, or Moab and Ammon, when you go to ChatGPT, this says, oh, they disappeared, nobody know. That's a lie. Remember, Amalek controls that. When you go to this, what is it called, GPT chat, whatever, Google, be careful, cuz they will mislead you on purpose so that you will never find out who Moab is. You'll never find out Ammon. You won't find no real history.
+
+</div>
 
 **[Jeremiah 48:26-27](/bible/jeremiah/48#v26)**  *[[1:15:48](https://www.youtube.com/watch?v=6XyhSewrzz0&t=4548s)]*
 
@@ -294,19 +429,227 @@ Videos played in class around the boycott:
 **Books opened on the hidden history**  *[[1:31:58](https://www.youtube.com/watch?v=6XyhSewrzz0&t=5518s)]*
 
 - Encyclopedia of Japanese History: paintings from the 1400s and 1500s showing black faces in Japan. The Portuguese and Spanish brought black slaves over, and the black faces in these paintings are slaves. You do not learn this in school, and you definitely will not learn it in Sunday school.
-- Paintings of the Kunlun: African slaves in ancient China. The first African slaves in ancient China were given as tribute gifts by the Srivijayan empire of Indonesia to the Chinese empire during the Tang dynasty (618 to 907 AD), long before the Portuguese. Article read in class, from the African American Registry: African slavery in China peaked during the Tang and Song dynasties (960 to 1279 AD); the Kunlun were portrayed in stories of the period as heroic, resourceful, and culturally Chinese; the number taken to China during this six hundred year period is unclear.
-- Enslaved Africans were first brought to China in large numbers by the Portuguese in the sixteenth century, following the establishment of the trading post at Macau in 1557, a distinct branch of the global Portuguese slave trade. The majority were trafficked from Southeast and East Africa, the Zambezi valley and coastal Mozambique. Roles read in class: enslaved Africans formed the core of Macau's defensive military force, and in the 1622 Battle of Macau a Dutch invasion force was decisively defeated primarily by an armed force of African slaves; they frequently served as armed retainers, bodyguards, and private armies; many escaped across the border into mainland China. The presence of black Africans in China predated the Portuguese via Arab trade routes from the eighth to fourteenth centuries; the Chinese associated people of darker skin with the sweeping term Kunlun.
-- Article read in class, The Forgotten History of the African Slave Trade in China: the first Africans arrived as gifts from the king of Kalinga in Java to the Tang emperor in 813 AD, treated as exotic ornaments; the Chinese called them Zangzhi, a reference to Zanzibar, which then described the whole east African coast. The journey took approximately six months, shipwrecks were common, and many captives died. The Chinese thought Africans had immense physical strength, so slaves were mainly forced into hard labor.
-- Who's Who in Philadelphia, by Charles Frederick White, 1912: the Negro learns from history that Hannibal was of Ethiopian blood; that King Solomon proudly acknowledged that he was black; that the Jews were of African blood; that Jesus Christ himself was as much a Negro as some of the race you persecute. And on Japan: Jimmu Tenno brought Negroes with the sun and fire worship from Mesopotamia through Manchuria; and the old proverb said, "To be a good samurai, one must have half black blood in one's veins." In those days they were not ashamed to acknowledge it.
-- The Ancient Jewish Diaspora in Japan: a Japanese sect holds that their ancestors came to Japan from western Asia about 660 BC, during the time of Babylon; the name samurai recalls ancient Samaria; carvings preserved by the samurai show early immigrants clothed very much like the ancient Assyrians; the samurai observed rites like those of the Jews, such as the redemption of the firstborn and the wearing of a phylactery-like box by Japanese priests; and the six-pointed star is common in Japan, worn by children on their hats. The Israelites of Samaria were the samurai. There is so much they covered up, and now we are learning it.
-- Same book, page 27: the Great Wall of China, "architectural masterpiece by the hands of Jewish diaspora." The author marvels "at the fabulous amount of hard labors and splendid skills that those Jewish captives had to render." And from the Account of the Eastern Barbarians in the latter Han period: in building the Great Wall these captives were brutally oppressed by Chinese kings, "who were much like the Pharaoh in Egypt." Some of these captives escaped and eventually made their way to Japan by way of Korea. I did not write the book, but God revealed the book.
+
+<div class="reading">
+
+Reading from on-screen text, "Paintings of Kunlun …: African Slaves in Ancient China"  *[[1:35:36](https://www.youtube.com/watch?v=6XyhSewrzz0&t=5736s)]*
+
+> Paintings of Kunlun …, African slaves in ancient China.
+
+- Now, I don't know if you ever watched the show Iron Fist. It's corny. I didn't like it. With a Luke Cage. Anybody saw that? I didn't like Iron Fist because he was like a ballet dancer. I didn't like him. But anyway, he had to go to Kunlun to defeat the dragon to get the iron fist. Kunlun was a city where the slaves dwelt. So yeah, that's Iron Fist right there in the comic. The white boy had to defeat a dragon to get the iron fist. But they don't tell you that Kunlun was where they had the slaves.
+
+- They don't talk about that.
+
+> The first African slaves in ancient China were given as tribute gifts by the Srivijayan Empire of Indonesia to the Chinese Empire during the Tang Dynasty.
+
+- This is during the Tang Dynasty, 618 AD to 907 AD. So this is way before the Portuguese of the 1400s.
+
+</div>
+
+<div class="reading">
+
+Reading from *African Kunlun Servants in Ancient China: A Story*, from the African American Registry  *[[1:36:57](https://www.youtube.com/watch?v=6XyhSewrzz0&t=5817s)]*
+
+> African Kunlun servants in ancient China. A story.
+
+- So if you look at the picture, you can see the slave right there. Like they had the movie Afro Samurai. Y'all be like, that's so funny. We were the samurai. We going to show you that, too.
+
+> On this first day of the 2018 Chinese New Year, we affirm and briefly explore the African Kunlun servants in ancient China.
+>
+> African slavery in China peaked during the Tang and Song dynasties,
+
+- Write that down. The Tang Dynasty and Song Dynasties is the preeminent time periods when we were slaves over there.
+
+> 960 AD to 1279 AD.
+
+- If you remember dates, that's good. But if you can remember the Tang dynasty and Song, remember the Song dynasty, you'll be okay.
+
+> But the number of African slaves taken to China during this 600 year period is unclear. By this point, Chinese perceptions of African Kunlun servants ranged from strong and mysterious to frightening.
+
+- Now, notice that it's unclear. As we read on in the book of Ezra, it tells you why it's unclear. Just remind me so I don't forget.
+
+> The Kunlun in the Tang Dynasty era were portrayed in stories of the period as heroic, resourceful, and ironically culturally Chinese. Most Chinese during this period, however, unless they were very wealthy, had little contact with African slaves, perhaps explaining the differing views of the Kunlun.
+
+- I cut it off during the Song Dynasty. Anyway, go back to the top so y'all could Google it and read the whole thing. African American Registry. Y'all can Google that. It'll pop up. You can read the entire article. It's a good reading. It makes a good read.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen text on enslaved Africans brought to China by the Portuguese  *[[1:39:16](https://www.youtube.com/watch?v=6XyhSewrzz0&t=5956s)]*
+
+> Enslaved Africans were first brought to China by the Portuguese in large numbers during the 16th century,
+
+- So now this is way after the Tang dynasty and the Song Dynasty. This is the 1500s.
+
+> primarily following the establishment of the Portuguese trading post at Macau in 1557. This network formed a distinct branch of the global Portuguese slave trade separate from the transatlantic route.
+>
+> Geographic origins. East African routes. Unlike the West African ports that supplied Brazil, the majority of the enslaved individuals taken to East Asia were trafficked from Southeast and East Africa.
+>
+> The Mozambique hub. The primary point of origin was the Zambezi Valley and coastal regions of Mozambique.
+>
+> Roles and society. Military defenses. Enslaved Africans formed the core of Macau's defensive military force. During the 1622 Battle of Macau, a Dutch invasion force was decisively defeated, primarily by an armed force of African slaves.
+>
+> Bodyguards and security. Because of their physical capabilities and combat skills, they frequently served as armed retainers, bodyguards, and private armies to protect Portuguese merchants and Jesuit missionaries from pirates and rival traders.
+>
+> Labor and exploitation. Beyond military service, they worked in shipping crews on regional trading …, as domestic servants, and in some cases women were subjected to sexual exploitation as concubines.
+>
+> Escapes and legal context. … escaping to mainland China, because the Ming dynasty placed no formal restrictions on the bondage of sub-Saharan African.
+
+- So you also had the Ming dynasty. So you had Ming, Tang and Song, Ming.
+
+> Thousands lived under Portuguese control. However, many enslaved individuals successfully escaped across the border into mainland China.
+>
+> Cultural context. The presence of black Africans in China predated the Portuguese via Arab trade routes from the 8th to 14th centuries. Historically, the Chinese associated people of darker skin tones with the historical sweeping term Kunlun.
+
+- That's what they called us.
+
+</div>
+
+<div class="reading">
+
+Reading from *Who's Who in Philadelphia* by Charles Fred White, 1912  *[[1:42:54](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6174s)]*
+
+> The Negro learns from history that Hannibal, the world's greatest general and one of its greatest statesmen, was of Ethiopian blood;
+
+- Now, we know he was our people. We found it. But in this book, it said Ethiopian, which means burnt faces.
+
+> that King Solomon, the wise man of our Bible, proudly acknowledged that he was black;
+
+- Solomon acknowledged he was black. So this is in this book.
+
+> that the Jews were mixed with African breed and much of the beauty of their religion;
+
+- So they know the Jews were black. Not mixed. Well, some of us did mix with the Philistines.
+
+> that Jesus Christ himself was as much a Negro as some of the race you persecuted.
+
+- Y'all see that right there? That was in 1912. But the party ain't over. The party ain't over.
+
+> All Japanese cultures, religion, education, the Shindaya language are distinctly Mongolian. Jimmu Tenno brought Negroes with the sun and fire worship from Mesopotamia and through Manchuria. Zoroastrian traditions prove this.
+
+> To be a good samurai, fighting servant, one must have half black blood in one's veins, said the old proverb. In those days they were not ashamed to acknowledge
+
+- I forgot to get the rest.
+
+</div>
+
+<div class="reading">
+
+Reading from a book on a Japanese sect  *[[1:45:25](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6325s)]*
+
+> Japanese sect … that their ancestors came to Japan from Western Asia about 660 BCE.
+
+- What time? That was during the time of Babylon.
+
+> The name samurai recalls ancient Samaria.
+
+- Wait a minute. Wait a minute. Wait a minute. What the hell? It make my teeth white. There's so much they covered up and we don't know. Now we're learning it.
+
+> Once the Israelites were exiled, … carvings preserved by the samurai show early immigrants clothed very much like the ancient Assyrians.
+
+- So the samurai was from Samaria, which is the same word. That's what they're saying.
+
+> The samurai also observed a number of rites like those observed by Jews,
+
+- Because … was Samaritans.
+
+> such as the redemption of the firstborn and the wearing of a … by Japanese priests, which is compared to the phylacteries. The six-pointed star of David is also very common in Japan, being worn by children on their hats and used as a decorative motive.
+
+</div>
+
 - French art book of Nanban screens: black slaves in the Japanese paintings of the 1500s, carrying loads, rowing the boats, carrying the litters on their shoulders, the same thing we had to do for the white folks over here. Why are these books not in English in America? We had to go to foreign countries to dig this up, because they keep it secret.
+
+<div class="reading">
+
+Reading from a Google search result on African slaves in China  *[[1:51:00](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6660s)]*
+
+> African slaves were brought to China between the 7th and 17th centuries
+
+- That's a long time.
+
+> through maritime trade networks,
+
+- Now, this is on Google. Now, I found this amazing, cuz they never teach this in school.
+
+> primarily by Arab, Persian, and later Portuguese merchants. Historically referred to by the enigmatic term Kunlun slaves.
+
+</div>
 
   Precepts:
   - **[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**
     > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
     And the Lord shall scatter thee among all people, from the one end of the earth even unto the other. We were scattered everywhere, and that includes, as we are finding out, China and Japan.
+
+
+<div class="reading">
+
+Reading from the same Google search result  *[[1:52:13](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6733s)]*
+
+> Kunlun, they were mostly East Africans originating from the Zange coast, modern-day Tanzania,
+
+- When you look up Zange, it tells you we were the slaves. That was another name they called us, the Z.
+
+> Kenya and Somalia and Madagascar. While human bondage existed throughout imperial China, African slavery was a highly specialized luxury trade restricted to the wealthy upper class in coastal commercial hubs.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Forgotten History of the African Slave Trade in China*, from Historium  *[[1:53:00](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6780s)]*
+
+> How common was African slavery in China? I've always known that Arab slave traders and Chinese merchant ships brought African slaves to China, but I wasn't sure to what extent, how many and how common, and why the African slave trade died out in China.
+>
+> The first Africans arrived in China as gifts from the king of Kalinga in Java to the Tang Emperor in 813 AD, these young boys, and were treated as exotic ornaments, no different from the rhinoceros and other animals they were presented alongside. The Chinese called them Zangzhi,
+
+- So that Zangzhi is another spelling for Zang. Z-A-N-G. Same word though.
+
+> a reference to Zanzibar, which at that time described the whole length of the eastern African coastal region, including Madagascar. Nothing is known about the fate of these child slaves, who disappear from the historical record after a single brief mention.
+>
+> In later accounts, African slaves turn up as the personal property
+
+> The journey took approximately 6 months and shipwrecks were a common hazard. Many captives must have died along the way. Even those who made it to China alive could still perish suddenly while trying to acclimatize to a new environment. As one Song dynasty (960 to 1279 AD) government officially observed, if in captivity they are fed cooked food, after several days they get diarrhea. For this reason they sometimes fall ill and die.
+>
+> The Chinese thought that Africans had immense physical strength and so slaves were mainly forced to engage in hard labor.
+
+- We were the slaves there. And this is China. We had to do hard labor. I want to know how hard a labor did the Africans do.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Ancient Jewish Diaspora in Japan: The Tribe of …, Their Religious and Cultural Influence* by Akuro Tashima, page 27  *[[1:55:59](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6959s)]*
+
+> The Great Wall of China. Architectural masterpiece by the hands of Jewish diaspora.
+
+- Wait a minute. Wait a minute. It's calling them the Jewish diaspora. The Jews built the Great Wall of China.
+
+> Stretches 1,500 miles across the country's northern plains.
+>
+> Whenever I think of this great construction, which is by far more colossal than the Roman Colosseum, I cannot help but marvel at the fabulous amount of hard labors and splendid skills that those Jewish captives had to render.
+
+- Those Jewish captives had to render. They didn't just reinforce it. They were building it.
+
+> Some of these captives escaped
+
+- We had to get the hell out of Dodge.
+
+> and eventually made their way to Japan
+
+- We went from China to Japan, some of us.
+
+> by way of Korea. We find their story inscribed on the famous monument of Kodal.
+
+> Also the account of Eastern barbarians written by Fanha of … in the latter Han period, for 445 CE, records somewhat similar narratives in building the Great Wall. These Yudsa captives were brutally oppressed by Chinese kings,
+
+- See, I want you to see: in building. Don't just say reinforcing. In building the Great Wall, these captives were brutally oppressed by Chinese kings.
+
+> who were much like the Pharaoh in Egypt.
+
+- Those Chinese kings treated us like the Pharaoh in Egypt. Y'all see this? I didn't write the book, but God revealed the book.
+
+</div>
 
 **[2 Esdras 15:46-53](/bible/2-esdras/15#v46)**  *[[1:58:32](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7112s)]*
 
@@ -360,7 +703,17 @@ Videos played in class around the boycott:
     > <sup>[33](/bible/1-kings/12#v33)</sup> So he offered upon the altar which he had made in Beth–el the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.
 
     Jeroboam made two calves of gold and said, Behold thy gods, O Israel, which brought thee up out of the land of Egypt; and he set the one in Bethel, and the other put he in Dan, and this thing became a sin. He made priests of the lowest of the people, and ordained a feast in the eighth month, on the fifteenth day of the month, devised of his own heart, in place of the feast of tabernacles. That is the shame of Bethel.
-    Images shown in class: the horned gods of Chinese religion, carved with the cow's head and body, very similar to Baal, the calf god. More proof of who they are.
+    Images shown in class: the horned gods of Chinese religion, very similar to Baal, the calf god. More proof of who they are.
+
+<div class="reading">
+
+Reading from on-screen text on Baal  *[[2:07:03](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7623s)]*
+
+> Baal, the worst false god in the Bible.
+
+- It was a cow god. Horns. See it on the left. It's carved in stone. See the cow's head, the body.
+
+</div>
 
 **[Jeremiah 48:14-20](/bible/jeremiah/48#v14)**  *[[2:07:19](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7639s)]*
 
@@ -380,7 +733,21 @@ Videos played in class around the boycott:
 
 - How say ye, We are mighty and strong men for the war? Moab always says that; they think they can defeat anybody. I will give them this: they have order. But Moab is spoiled, and his chosen young men are gone down to the slaughter, saith the King, whose name is the Lord of hosts.
 - The calamity of Moab is near to come, and his affliction hasteth fast. How is the strong staff broken, and the beautiful rod! Dibon, Aroer, Arnon: cities of ancient Moab, in the land America calls Jordan today.
-- Article shown in class, from the Guardian: the MOAB, the "mother of all bombs," used in Afghanistan. America named their biggest conventional bomb MOAB, and it is slated for a fight with China. Is it a coincidence? Maybe you believe in coincidences; I do not.
+- Now, the question is, does America, the elites of America, know who China actually is?
+
+<div class="reading">
+
+Reading from an article from the Guardian  *[[2:08:22](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7702s)]*
+
+> MOAB attack on ISIS was a baffling choice in cold-blooded terms of cost.
+
+- Now, America got a bomb.
+
+> Using mother of all bombs in Afghanistan to kill 36 militants at $450,000 each will not change its reputation as a white elephant.
+
+- So, the mother of all bombs, they decided, let's call it MOAB. And they want to use this if they ever fight against China. They said, this is going to be their bomb. I wonder why. I wonder why they chose that name right there. Is it a coincidence? Maybe. I don't believe in coincidences. Maybe you do, but I don't believe in coincidences.
+
+</div>
 
 **[Jeremiah 48:25-30](/bible/jeremiah/48#v25)**  *[[2:13:00](https://www.youtube.com/watch?v=6XyhSewrzz0&t=7980s)]*
 
@@ -456,7 +823,18 @@ Videos played in class around the boycott:
 >
 > <sup>[47](/bible/jeremiah/48#v47)</sup> Yet will I bring again the captivity of Moab in the latter days, saith the Lord. Thus far is the judgment of Moab.
 
-- Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab. He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare. Article shown in class: the hidden metropolis, the Dixia Cheng, a sprawling cold war bunker city beneath Beijing. They think they will be safe in these underground bunkers; the Lord is telling us in the scripture that it is not going to work.
+- Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab. He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare.
+
+<div class="reading">
+
+Reading from on-screen text on the hidden metropolis beneath Beijing  *[[2:25:31](https://www.youtube.com/watch?v=6XyhSewrzz0&t=8731s)]*
+
+> Hidden metropolis. The underground city, the Dixia Cheng, is a Cold War sprawling bunker beneath Beijing.
+
+- So what we were just reading about: go into the mountains, go into the earth, trying to get all these safeguards. But the Lord is telling us in the scripture that ain't going to work. That ain't going to work. They think they're going to be safe in these bunkers, these underground bunkers.
+
+</div>
+
 - Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives: prisoners of war.
 - Yet will I bring again the captivity of Moab in the latter days, saith the Lord. Although it happened with Nebuchadnezzar, God said it is going to happen again in the latter days. Thus far is the judgment of Moab.
 
