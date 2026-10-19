@@ -45,32 +45,11 @@ So before we get into all that, we are going to go into the history of how the n
 
 ## In The News
 
-The books that already say who we are.
-
-- Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries. Page 95: and Cuba, Española, the other islands which he discovered. Española is modern-day Dominican Republic and Haiti. It was called Española, or Little Spain. Columbus found natives who had their cacique and their own language and traditions. He found Israelites. Why? Because he read the Bible. The Bible told him there would be people here, the ten tribes of Israel, the northern kingdom of Israel.
-- To what race did these aborigines belong? So that is the question. Who are these people? Are they just natives? Are they Dominicans, Puerto Ricans, Colombians, Cubans? The book: several writers have asserted, and have displayed much learning in attempting to prove, that the aborigines were descendants of the Jews. Descendants of the Jews. Historians know who we are. You so-called Latinos, Native Americans, wake up to your true nationality, your true history. You find it in the Bible. I know Esau, the so-called white man, used it against you Native Americans, but your history is in the Bible.
-- This result was reached already in the sixteenth century by the Spanish clergyman Roldan. So it was already understood. His arguments were derived from an unpublished manuscript which he discovered in the library of San Pablo. And the highlighted part: that he had mingled in South America with the Jews of the ten tribes. So these conquistadors, colonizers, always knew who our people were on this side of the earth.
-- The descent of the Americans is in fact a question which has often been discussed since the discovery of America down to the present day. So scholars have always discussed who the descendants of these natives in these lands are. They know, but they do not want to say it. Why? Because if we know who we are, then it is a problem. When we start to wake up and realize that the so-called blacks, Latinos and Native Americans are the Israelites, it is a problem for the other nations.
-- It is not improbable that the Jews who were driven from Nineveh by Salmanasar wandered into uninhabited regions. We read that in 2 Esdras chapter 13 verses 40 to 45.
-- Several writers give the exact route by which the Jews travelled until they settled in Cuba. So these writers give the exact route. It was not the Bering Strait. But then: Lord Kingsborough even asserts that they crossed the Bering Strait and then proceeded to Mexico and Peru. That is a lie. You cannot cross ice fields where people cannot even survive. It makes no sense.
-- The second book, Mysteries of the Past by Lionel Casson. This is all to show you brothers and sisters that there is history out there that proves who we are. We do not have to go by the white man saying you are Latino, you are Puerto Rican. No, these are all bywords and proverbs to confuse us, to divide us, to subjugate us, and to keep us docile and hidden.
-- In 1641 Antonio de Montesinos, a Portuguese Jew, made a voyage to South America, and reported that while journeying near Quito in Ecuador he met up with a native who, to his astonishment, was Jewish. He was an Israelite. Quito in Ecuador. That is the tribe of Asher. You find the tribe of Asher in Ecuador.
-- What is more, the man took him on an arduous week-long trip through the hinterland to a remote spot where an entire community of Jews was living. So he showed him where an entire community of Israelites lived. So we populated Ecuador. He did not find savages, people with no name, no identity. No, we have a history.
-- Antonio actually heard them recite in Hebrew the traditional prayer, Hear, O Israel. Returning to Europe, he reported his find to Manasseh ben Israel, the most eminent Jewish scholar of the day, and an author who had wide readership among non-Jews. No less an artist than Rembrandt was illustrator for one of his books.
-- Before long, Antonio's tale of the Israelites who had wandered to America was escalated into a theory which put them among the founders of New World civilization. They like to call it a theory, but it is not a theory, it is a fact that the Israelites populated America. They founded the Americas, Abya Yala.
-- Britain's Lord Kingsborough, for example, went through the family fortune and landed in debtor's prison no less than three times. He died there the last time. So this Edomite, Lord Kingsborough, went broke trying to find the information proving that we, the indigenous people of these lands, are the descendants of the Israelites. He died in debtor's prison trying to prove it. He probably proved it but they would not acknowledge it. Why? Because like I said, we have to remain hidden in order for Esau to remain on top.
-- In order to publish their superbly illustrated deluxe volumes proving the Mexican Indians were descendants of the lost tribes. So these are just two books proving who the natives are, who we are. And it coincides with exactly what the scriptures say. Historians corroborate what the Bible already proves to us, that we are the ten tribes of Israel here in the Americas.
-- The definition of Arsareth according to the Jewish Encyclopedia: the name of the land beyond the great river, far away from the habitation of man, in which the ten tribes of Israel will dwell, observing the laws of Moses until the time of restoration, according to 4 Esdras chapter 13 verse 45. This is also called 2 Esdras 13. And: Columbus identified America with this land. So Columbus knew where he was trying to get to. Why? Because he read the book of Esdras.
-
 Abya Yala under fire: the article.
 
-- The article that inspired this class: Abya Yala under fire, the return of US military intervention. The picture beneath it: indigenous protest in Cauca, Colombia, led by community members, primarily Nasa people, with representation from the CRIC movement.
-- Military bombings begin just three days after President Abelardo de la Espriella took office on August 7th. So this guy took office August 7th. August 10th, right after he took office, earthquakes hit Colombia and they started bombing the natives. This is all not by coincidence. This is all by design.
 - The clip on who he is: it is very important to understand who exactly de la Espriella is. A far-right Trump supporter. A lawyer who defended drug traffickers. So how is a guy who defended drug traffickers now all of a sudden waging war against drug traffickers? It makes no sense. And you know how it is nonsense, right? Because Maduro was arrested for so-called drug trafficking. Noriega in the nineties was arrested for so-called drug trafficking. But the drugs never stop in our lands, in our communities. Make it make sense. It does not. It is all a farce, a lie, to continue to deceive the people and do what they want with us, with our land, with our resources.
 - The clip continues: this guy is like a walking satire, a symbol of US imperialism in Latin America and the old colonial banana republics that the US empire is trying to bring back today in the twenty-first century. This was admitted by the New York Times in an article hilariously titled, From defending Colombian drug traffickers to waging war on them. Quote, in Miami, de la Espriella moved in the murky world of white powder lawyers, lawyers who helped accused Latin American drug traffickers become US government informants or witnesses. He employed a former trafficker from Colombia. End quote. He is a literal friend and defender of drug traffickers. This narco is one of the closest US allies in the region. And today the Trump administration claims that it is cracking down hard and fighting against drug cartels.
 - Remember, Colombia had a president, Gustavo Petro. He was for the people. He was a socialist president, meaning he was for the benefit of the people, the indigenous people of the land. But he was removed. Why? Because they fix elections. And now they have this narco-trafficker, drug lawyer, white powder lawyer in Colombia.
-- The article: the first strikes took place on August 10th in Catatumbo, in the country's northeast, where three civilians were wounded and hundreds were displaced. Bombings and threats of further military strikes have since followed, including in Cauca, in the west, where indigenous, Afro-descendant and campesino communities are facing an escalating humanitarian crisis. Indigenous and Afro-descendants. The Israelites, the real people of the land.
-- De la Espriella, a leader in the nation's far-right movement, campaigned on confronting narcoterrorism without truce, and ending peace talks with opposition groups like the National Liberation Army, ELN, and FARC. His administration's first military operation targeted the ELN. So this guy, under the pretext of fighting the war on drugs, is actually attacking indigenous and Afro-descendant people of Colombia. This is what he was set up for. The United States government always has its hand in Latin American affairs. Why? Because they cannot afford to have a leftist socialist president for the people. They need to oppress the people.
 - The picture of the shield of the Americas, Donald Trump with his allies. The one on the left is Abinader, the president of the Dominican Republic. He just used fifty million dollars of the people's money to create a Holocaust museum in the Dominican Republic. Because they want to fight antisemitism throughout the world. It is all a farce. Then you have got Nayib Bukele from El Salvador, who has the prison industry on lock. Then you have got Javier Milei from Argentina. And Mulino from Panama. These are all far-right puppets of the Trump administration.
 - From the floor: all those presidents that were pictured, ninety percent of them are not our people, to be honest with you. Bukele is an Arab. Abinader is also a Syrian. So none of those people that you see as president are our people. So our people have got to stop selecting these people as their king, as the Bible says in Deuteronomy.
 
@@ -80,11 +59,6 @@ Earthquakes, tanks and arson.
 - The second earthquake video from Venezuela: they are doing idolatry, they are doing witchcraft. So it is not only the tribe of Levi, the so-called Haitians. You northern kingdom are involved in that as well. And look what happened. You want to celebrate witchcraft, idolatry, the Most High is jacking us up. The plagues keep following us. Why? Because we do not learn. That is our people going through the curses, and our animals.
 - The clip from Colombia: a 7.4 magnitude earthquake hits Colombia. Footage shows the powerful earthquake hitting Cartago in western Colombia. The strong quake caused the facade of this church to partially collapse. God knows how long that church has been up. It took the Most High's fierce anger against our people to destroy it.
 - The tanks: you might think these are Colombian tanks. Guess what, wrong. These are Israeli tanks. In Latin America, during an earthquake, they are supposed to be helping the people, but they have got tanks, and the people are complaining about it. The people are saying, they do not bring help, they bring tanks. The people were waiting for humanitarian aid, and what they get is tanks from Israel. War tanks. That is what they brought.
-- The arson thread: they burn the land to steal the land. Video evidence. Arson exposed in Colombia. Israeli occupation soldiers arrive in Colombia to help with the earthquake. Suddenly wildfires erupt. A man is captured on camera setting the forest ablaze. So it is Amalek causing the fires, causing more destruction, more grief, more anguish upon the people of Colombia.
-- Greece, Colombia, Palestine. The pattern is the same. As Malcolm X said, revolutions are based upon land. Revolutionaries are the landless against the landlord. We have to rise against those who own our lands, who possess our lands. Why? Because they covet fields.
-- The arson, Jamundí, Colombia. A man is caught on camera igniting the forest. Jamundí, Valle del Cauca. The fires begin. The timing: Israeli occupation soldiers had just arrived in Colombia under the guise of earthquake relief. But it was not relief, it was more grief. Within days, forests burning, land being cleared, communities displaced, indigenous territories threatened. The colonizer always leaves ash in his wake.
-- The humanitarian selfies: Israeli mercenaries taking selfies when they are supposed to be clearing bodies from underneath the rubble, posing as if helping. How is it that the same ones who caused destruction in Gaza are in Colombia trying to help? Selfies with bombed buildings. Selfies with Palestinians they kidnapped. Selfies with Palestinian families being wiped out. Now in Colombia, selfies in IOF gear. Selfies while forests burn. Selfies while people are under the rubble. This is not aid. This is propaganda. This is performance. This is whitewashing genocide through fake humanitarian work.
-- The racist insults: Israeli mercenaries hurling racist insults at Colombians carrying the Palestinian flag and chanting for a free Palestine. Threatening a Colombian in his own land because he put up a sign saying free Palestine. They do not respect the victims, they despise them. Colombians showing solidarity with Palestine, insulted, degraded, mocked. This is who they are. They burn your land. They take selfies over your suffering. They insult your people when you resist. They are not humanitarians. They are colonizers with cameras. They do not come to help. They come to humiliate, to steal, and to erase. Why are they burning the earth? Not for chaos, for control.
 
 Elections, minerals, and the earthquakes that follow.
 
@@ -103,22 +77,12 @@ The missionaries and the oil companies.
 - The clip: SIL was an evangelical missionary group based out of Oklahoma that had extremely close ties to oil companies. These missionaries were financed by oil companies. They had a long history of going in and working with the indigenous people. When oil companies discovered, or thought that there was a good possibility, that oil lay under the lands lived on by indigenous people, SIL would go in and convince these people to move off their lands and onto missionary reservations, and sign their lands over to the oil company. And in turn the missionaries were financed by the oil companies. So there was this very cozy relationship.
 - And SIL used some interesting techniques to get these people off the lands. As one example, they would send food into indigenous villages and lace it heavily with laxatives. So they gave the indigenous people food, but it was laced with laxatives. So everybody went to the bathroom. Everybody. The people would get bad dysentery, what they thought was dysentery. And the missionaries then would come in with medicines that would very quickly cure it. Of course they knew what caused it, it was their own laxatives. And say that God had sent them and that they were there to help the people.
 - So they come with the medicine and say, Cesare Borgia gave us this power to heal you, God gave us the power to heal you. So northern kingdom, they are going to believe him, because they were able to cure them. And mind you, that is one example of what they did. They did several other things. Why? Because what is their goal? To steal. To indoctrinate.
-- The article: how the American government used Protestantism to block communism in Latin America. So they utilized your Baptist church in Latin America, your Pentecostal church in Latin America, to dumb you down. It was at the height of the Cold War that the CIA and the American government, fearing the weakening of the capitalist bloc in Latin America due to the influence of liberation theology, began subsidizing Protestant missions, mostly of Pentecostal denomination, with the intent of diluting Catholic presence and preventing the spread of Marxist ideals through religion. Declassified CIA documents, State Department memoranda and USAID contracts indicate that between the 1950s and 1980s the US used Protestant missions as part of a counterinsurgency strategy.
-- Because Latin America, the people of Latin America, were waking up. They wanted freedom. They could not have that. The Catholic Church lost its grip on the people. So they utilized the Protestant religion, all those churches that our people now dance in and give ten percent to. So all your churches are utilized as weapons against you. It is the same play over and over again with our people.
-
-Ecuador: no visa required.
-
-- The article: US soldiers and contractors begin ground operations in Ecuador. A ministerial agreement grants US soldiers immunity and special immigration status. The US presence in Esmeraldas and Manabí was also announced. Esmeraldas. Do we not have brothers and sisters that live there? They all live in Esmeraldas. And guess what, they are black, they are Afro-descendants. So why is the US present in Esmeraldas, Ecuador?
-- The government of Daniel Noboa, through a ministerial agreement, has allowed US soldiers and contractors to enter Ecuador without a visa, even if they are not working on security operations. They do not need a visa. We have got to jump through hurdles to get a visa. But these devils have got free rein to go up into Ecuador. So it is a farce. They are not working on security operations. What are they doing there? They are buying land, stealing land, stealing resources.
-- For several years now Ecuador has been experiencing its worst security crisis in history, due to a territorial dispute between drug trafficking gangs over control of drug trafficking routes and illegal mining operations. There we go again. You know what it is when they say drug trafficking gangs. It is really our people that they have a war against. It is the indigenous, the Afro-descendants, because those are the people on the land over the precious resources. So they call them drug traffickers. Some of them might be drug traffickers, but they are not on the scale of moving tons. Like when they showed Trump and his military bombing those little boats, talking about how they are shipping drugs. Those little boats. You think they are going to waste time sending drugs on little boats? No. They use shipping containers, barges full of containers, hundreds of containers full of drugs and all kinds of illicit things. Do not fall for it. It is all a war on our people.
-- It is estimated that the largest amount of cocaine in the world passes through Ecuador, primarily bound for the United States and Europe. And Esau wants all of it. That is why you see Marco Rubio. Every time you see him his jaw is moving crazy.
 
 Puerto Rico.
 
 - The clip: Puerto Rico is in a water crisis right now, and the government just approved a two billion dollar resort. Proyecto Esencia is a two thousand acre luxury development proposed for Los Pozos, right on Boquerón Bay, backed by a UK investment firm and financed with the help of JP Morgan Chase. Mandarin Oriental has since signed on to anchor it with a luxury resort and residences. The price tag: two billion dollars. Puerto Rico's own Department of Natural Resources rejected the project's environmental review. The permitting office approved it anyway, with forty-six conditions attached. The Senate has now opened two separate investigations, one specifically asking whether Cabo Rojo's water system can even support a project this size in the middle of a water crisis. Local residents and investigative journalists warn that it could raise land prices and displace families already struggling with the cost of living, and strain water resources that are already stretched thin.
 - So they are trying to make resorts. The people are suffering from water shortage, electricity shortage, and here the rich are trying to buy up the land in Puerto Rico, that little island.
 - The next one: the governor of Puerto Rico, Jennifer González, sitting with the delegation. What flags do you see there? Making deals with the devil. Unrighteous decrees. Sign here. Shake hands. She is raising her hand affirming that she is going to do the bidding of Satan.
-- Riot police deployed as Puerto Ricans protest at governor's 1.5 million dollar fundraiser for her 2028 re-election. So she is not raising funds to bring water to the island, to fix the water infrastructure. She is raising funds so she can get re-elected, so she can continue robbing and raping the land and selling the people out.
 
 Rigged elections.
 
@@ -149,7 +113,6 @@ Argentina.
 Renée Kaplan.
 
 - This guy on the right is a spokesman for Israel. But look, he is in military attire. And the guy on the left is an evangelist. What does an evangelist have to do with a Zionist missionary, or with the word of God, or with the people of Colombia? Meanwhile, in Gaza, that is what is going on. But that is who you invite into your house, talking about telling God to bless him. Meanwhile he is a destroyer of worlds with his bombs. He is talking about how they are there to help. Look what they are doing in the world. Lebanon, Yemen, Gaza, destroying Ishmael.
-- The headline: Renée Kaplan, the spokesman accused of covering up genocide, now leads rescue efforts in Colombia. So the one who was covering up the genocide in Gaza, Lebanon and Yemen is now leading rescue efforts in Colombia. They are not rescuing anything. All they are doing is land grabbing, preparing the land for their people, because they know they are not safe in Israel any more. So they have to find other lands. That is why they are going to Argentina, to Patagonia. The fertile lands with the water, with the minerals.
 
 ## Scriptures Opened
 
@@ -221,6 +184,122 @@ Renée Kaplan.
 
 - From the floor: what is heavy about this is the fact that they were even able to take the counsel. Because Cyrus gave them liberty. They could not take that counsel in Babylon. Nebuchadnezzar did not show mercy. They could not do it in Assyria. But when you read the history in Isaiah, Cyrus gave the Israelites liberty. He said, I am going to give you the freedom, you can go back to your own country. Northern kingdom came together and said, look, why do we not keep God's laws in the Western Hemisphere? We do not need to stay here any more. Let us go to another land. This is how you Dominicans initially came here. This is how you Puerto Ricans initially came here. So we know according to the Bible that it is a lie that Christopher Columbus discovered America.
 
+<div class="reading">
+
+Reading from the *Jewish Encyclopedia*, on Arsareth  *[[23:44](https://www.youtube.com/watch?v=FSUFtJ08joo&t=1424s)]*
+
+> The name of the land beyond the great river, far away from the habitation of man, in which the ten tribes of Israel will dwell, observing the laws of Moses until the time of restoration, according to Fourth Ezra chapter 13 and verse 45.
+
+- This is also called 2 Esdras 13.
+
+> Columbus identified America with this land.
+
+- So Columbus knew where he was trying to get to. Why? Because he read the book of Esdras.
+
+- So the scholars know what Arsareth means. Columbus knew this land was called Arsareth in the scriptures. So now let's go into some books that also prove who the northern kingdom are.
+
+</div>
+
+<div class="reading">
+
+Reading from *Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries*, from page 95  *[[24:52](https://www.youtube.com/watch?v=FSUFtJ08joo&t=1492s)]*
+
+> … and Cuba, Española, and the other islands which he discovered,
+
+- So this, Española, is modern-day Dominican Republic and Haiti. It was called Española.
+
+> or Little Spain. Columbus found natives who had their cacique
+
+- He found natives. He found Israelites. Why? Because he read the Bible. The Bible told them there would be people here, the ten tribes of Israel, the northern kingdom of Israel.
+
+> and their own language and traditions. To what race did these aborigines of America …
+
+- So that's the question. Who are these people? Are they just natives? Are they Dominicans, Puerto Ricans, Colombians, Cubans? Let's see who they are.
+
+> Several writers have asserted and have displayed much learning in attempting to prove that the aborigines were descendants of the Jews.
+
+- Descendants of the Jews. Historians know who we are. You so-called Latinos, Native Americans, wake up to your true nationality, your true history. You find it in the Bible. I know Esau, the so-called white man, used it against you Native Americans, but your history is in the Bible.
+
+> This result was reached already in the sixteenth century
+
+- So it was already understood.
+
+> by the Spanish clergyman Raldon. His arguments were derived from an unpublished manuscript which he discovered in the library of San Pablo.
+>
+> … Manasseh, that he had mingled in South America with the Jews of the ten tribes.
+
+- So Manasseh was a voyager. I don't know if he was Israel or he was a fake Jew or Jewish, but he mingled in South America with Jews of the ten tribes. So these conquistadors, colonizers, they always knew who our people were on this side of the earth.
+
+> The descent of the Americans is in fact a question which has often been discussed since the discovery of America down to the present day.
+
+- So-called white people, scholars, have always discussed who the descendants of these natives are in these lands. They know, but they don't want to say it. Why? Because if we know who we are, then it's a problem. When we start to wake up and realize that the so-called blacks, Latinos and Native Americans are the Israelites, it's a problem for the other nations.
+
+> It is not improbable that the Jews who were driven from Nineveh by Salmanasar wandered into uninhabited regions.
+
+- Wandered into uninhabited regions. We read that in 2 Esdras chapter 13 verse 40 to 45.
+
+> Several writers give the exact route by which the Jews travelled until they settled in Cuba.
+
+- So these writers give the exact route. It wasn't the Bering Straits. They like to say it's the Bering Straits. No. Like Lord Kingsborough, that bottom part, so you can see what I'm talking about.
+
+> Lord Kingsborough even asserts that they crossed Bering Straits and then proceeded to Mexico and Peru.
+
+- That's a damn lie. You cannot cross icelands, where it's freezing, where people can't even survive. Makes no sense.
+
+</div>
+
+- This is all to show you brothers and sisters that there's history out there that proves who we are. We don't have to go by the white man saying you're Latino, you're Puerto Rican. No, these are all proverbs and bywords to confuse us, to divide us, to subjugate us, and keep us docile and hidden.
+
+<div class="reading">
+
+Reading from *Mysteries of the Past* by Lionel Casson  *[[29:33](https://www.youtube.com/watch?v=FSUFtJ08joo&t=1773s)]*
+
+> In 1641, Antonio de Montesinos, a Portuguese Jew, made a voyage to South America
+
+- Abya Yala. The indigenous word for Latin America. South America.
+
+> and reported that while journeying near Quito in Ecuador
+
+- Quito in Ecuador. That's the tribe of Asher. You find the tribe of Asher in Ecuador.
+
+> he met up with a native who to his astonishment was Jewish.
+
+- Was an Israelite. He wasn't Jewish. He was an Israelite.
+
+> What is more, the man took him on an arduous week-long trip through the hinterland to a remote spot where an entire community of Jews was living.
+
+- Tough week. A long trip.
+
+- So he showed him where an entire community of Israelites lived. So we populated Ecuador. He didn't find savages, people with no name, no identity. No, we have a history.
+
+> Antonio actually heard them recite in Hebrew the traditional prayer
+
+- They were reciting the Lord's prayer.
+
+> Hear, O Israel. Returning to Europe, he reported his find to Manasseh
+
+- Cuz that's what they do. They gather information. And then they take it back to their higher authorities, or whatever you want to call it.
+
+> ben Israel, the most eminent Jewish scholar of the day and an author who had wide readership among non-Jews. No less an artist than Rembrandt was illustrator for one of his books. Manasseh published this spectacular …
+>
+> Before long, Antonio's tale of the Israelites who had wandered to America was escalated into a theory which put them among the founders of New World civilization
+
+- They like to call it a theory, but it's not a theory. It's a fact that the Israelites populated America. They founded America, the Americas, or Abya Yala.
+
+> … area that reached its heyday in the nineteenth century. Britain's Lord Kingsborough, for example, went through the family fortune and landed in debtor's prison no less than three times.
+
+- So this Edomite, Lord Kingsborough, went broke trying to find the information proving that we, the indigenous people of these lands, are the descendants of the Israelites.
+
+> He died there the last time
+
+- He died in debtor's prison trying to prove it. So he went broke and was in jail trying to prove who we were. He probably proved it, but they wouldn't acknowledge it. Why? Because like I said, we have to remain hidden in order for Esau to remain on top.
+
+> in order to publish their deluxe, superbly illustrated volumes proving the Mexican Indians were descendants of the lost tribes.
+
+- So we have those. These are just two books, cuz we got a lot of information we want to go through. These are just two books proving who the natives are, who we are. And it coincides with exactly what the scriptures say. Historians can cooperate what the Bible already proves to us, that we are the ten tribes of Israel here in the Americas.
+
+</div>
+
 **[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[34:48](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2088s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
@@ -257,6 +336,32 @@ Renée Kaplan.
 
 - And he shall put a yoke of iron upon thy neck, until he have destroyed thee. He put a yoke of iron upon our necks in captivity, slavery. Until we no longer need the chains on our necks, because they are on our minds now. Now we see the so-called white man as God. Why? Because he forced us to worship him, as Cesare Borgia painted as the new Jesus Christ during the Renaissance era. So that image that Abuelita has in the living room, in the bedroom, in the bathroom, in the kitchen, on the refrigerator door, that is Cesare Borgia, the image of the beast. That is not Jesus Christ.
 
+- This is what motivated, inspired me to do the class, was this article right here.
+
+<div class="reading">
+
+Reading from the article *Abya Yala under fire: the return of US military intervention*  *[[40:53](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2453s)]*
+
+> Abya Yala under fire: the return of the US military intervention.
+
+- So remember, Abya Yala is the indigenous name for Latin America. Under fire. So Latin America is under fire. The return of US military intervention. They never left. They've always been. They're just reinforcing the intervention.
+
+> Indigenous protest in Cauca, Colombia, led by community members, primarily Nasa people, with representation from the CRIC movement.
+>
+> Military bombings
+
+- Military bombings. So they're bombing who? The indigenous, the Afro-descendants of Colombia. That's why it's called Abya Yala under fire. US military intervention.
+
+> Military bombings begin just three days after President Abelardo de la Espriella took office on August 7th
+
+- So this is a right-wing, that's what you call it, right-wing president. He's a crony of the Trump administration.
+
+> and Colombia,
+
+- So, my bad. So this guy took office August 7th. August 10th, right after he took office, earthquakes hit Colombia. They started bombing the natives. This is all not by coincidence. This is all by design.
+
+</div>
+
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[48:36](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2916s)]*
 
 > <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
@@ -264,6 +369,30 @@ Renée Kaplan.
 - Then certain ungodly persons who hated their own people. Certain ungodly persons, like this president. This man hates his own people. He would rather have power. He would rather have wealth. He would rather be on the side of evil. He would rather see his people destroyed for his own personal gain.
 
 - Went unto the king, and told him that Jonathan besieged the tower. He went unto Donald Trump. And ratted on his people, turned on his people, betrayed his people. It is the same thing over and over again. We are always going to have traitors amongst our people.
+
+<div class="reading">
+
+Reading from the article *Abya Yala under fire*, continued  *[[49:50](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2990s)]*
+
+> The first strikes took place on August 10th in Catatumbo,
+
+- So he's not fighting the war on drugs. What he's doing, he's fighting the indigenous people of the land. Why? Because there's precious resources, oil, gold, lithium, all these precious resources that Esau needs for his kingdom, for his government. And they use this guy, Espriella, along with other puppets in Latin America, to do their bidding.
+
+> in the country's northeast, where three civilians were wounded and hundreds were displaced.
+
+- And hundreds displaced.
+
+> Bombings and threats of further military strikes have since followed, including in Cauca, in the West, where indigenous, Afro-descendant
+
+- Afro-descendants. The Israelites, the real people of the land.
+
+> and campesino communities are facing an escalating humanitarian crisis.
+>
+> De la Espriella, a leader in the nation's far-right movement, campaigned on confronting narcoterrorism without truce, and ending peace talks with opposition groups like the National Liberation Army, ELN, and FARC. His administration's first military operation targeted the ELN.
+
+- So this guy, under the force that he's going to fight drugs, the war on drugs, is actually attacking indigenous and Afro-descendant people of Colombia. This is what he was set up for. This is why Petro is no longer president. He was removed through fake elections. And this always goes on in Latin America. The United States government always has his hand in Latin American affairs. Why? Because they cannot afford to have a leftist socialist president for the people. They need to oppress the people. And this is what this guy is doing, Espriella.
+
+</div>
 
 **[2 Kings 17:16-18](/bible/2-kings/17#v16)**  *[[58:26](https://www.youtube.com/watch?v=FSUFtJ08joo&t=3506s)]*
 
@@ -292,6 +421,58 @@ Renée Kaplan.
     > <sup>[17](/bible/hosea/4#v17)</sup> Ephraim is joined to idols: let him alone.
 
     Ephraim is joined to idols: let him alone. Ephraim is joined to idols. Let him alone. You get that in Santería, brujería, Catholicism. This is what our people are into.
+
+<div class="reading">
+
+Reading from a series of posts on the wildfires in Colombia  *[[1:05:43](https://www.youtube.com/watch?v=FSUFtJ08joo&t=3943s)]*
+
+> They burn the land to steal the land. Video evidence. Arson exposed in Colombia.
+
+- Let's see who's causing the arson in Colombia.
+
+> They burn the land to steal the land. Israeli occupation soldiers arrive in Colombia to help with the earthquake. Suddenly, wildfires erupt. A man is captured on camera setting the forest ablaze.
+
+- So it's Amalek. Amalek causing the fires, causing more destruction, more grief, more anguish upon the people of Colombia.
+
+> Greece, Colombia, Palestine. The pattern is the same.
+
+- It's the same pattern.
+
+> As Malcolm X said, revolutions are based upon land. Revolutionaries are the landless against the landlord.
+
+- See that? The revolutionaries are the landless against the landlords. We have to rise against those who own our lands, who possess our lands. Why? Because they covet fields.
+
+> The arson, Jamundí, Colombia. A man is caught on camera igniting the forest. Jamundí, Valle del Cauca. The fires begin.
+>
+> The timing. Israeli occupation soldiers had just arrived in Colombia under the guise of earthquake relief.
+
+- But it wasn't relief. It was more grief. Shout out Deacon Asaph.
+
+> The timing.
+>
+> The arson, Jamundí, Colombia. Within days, forest burning, land being cleared, communities displaced, indigenous territories threatened. The colonizer always leaves ash in his wake.
+>
+> The humanitarian selfies.
+
+- You got Israeli mercenaries taking selfies when they're supposed to be clearing bodies underneath the rubble. Posing as if helping. How is it that the same ones who caused destruction in Gaza are in Colombia trying to help? It's all a farce. They're here for another reason that we're going to get into.
+
+> The humanitarian selfies. Gaza, Palestine. Selfies with bombed buildings. Selfies with Palestinians they kidnapped. Selfies with Palestinian families were being wiped out. Now in Colombia, selfies in IOF gear. Selfies while forests burn. Selfies while people are under the rubble. This is not aid. This is propaganda. This is performance. This is whitewashing genocide through fake humanitarian work.
+
+- This is what's going on in Latin America, for you so-called FBA who say we're not under the curses, we're not the people of the book, we're not the same people. Then tell me who we are. Because the Bible says the curses are going to follow us throughout the generations for disobedience of God's commandments.
+
+> The racist insults. Israeli mercenaries hurling racist insults at Colombians carrying the Palestinian flag and chanting for a free Palestine.
+
+- Look at this damn … small hat. Threatening a Colombian in his own land because he put up a sign saying free Palestine.
+
+> They don't respect the victims. They despise them. Footage shows Israeli mercenaries in Colombia hurling racist insults at Colombians who were walking around with the Palestinian flag. Colombians showing solidarity with Palestine. Insulted, degraded, mocked.
+
+- That's what's going on in Colombia.
+
+> This is who they are. They burn your land. They take selfies over your suffering. They insult your people when you resist. They are not humanitarians. They are colonizers with cameras. They don't come to help. They come to humiliate, to steal, and to erase.
+>
+> Why are they burning the earth? Not for chaos, for control.
+
+</div>
 
 **[Micah 2:2](/bible/micah/2#v2)**  *[[1:09:54](https://www.youtube.com/watch?v=FSUFtJ08joo&t=4194s)]*
 
@@ -365,6 +546,66 @@ Renée Kaplan.
 
 - Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
 
+<div class="reading">
+
+Reading from the article *How the American government used Protestantism to block communism in Latin America*  *[[1:34:40](https://www.youtube.com/watch?v=FSUFtJ08joo&t=5680s)]*
+
+> How the American government used Protestantism to block communism in Latin America.
+
+- So they utilize your Protestant, your Baptist church in Latin America, Pentecostal church in Latin America, to dumb you down.
+
+> It was at the height of the Cold War that the CIA and the American government, fearing the weakening of the capitalistic bloc in Latin America due to the influence of liberation theology
+
+- Because Latin America, the people of Latin America, were waking up. They wanted freedom. They couldn't have that. The Catholic Church lost a grip on the people. So they utilize what? The Protestant religion, which is considered what? Baptist Church, Pentecostal Church, and all those churches that our people now dance on and give the 10% on and everything like that.
+
+> liberation theology in the southern part of the continent, began subsidizing Protestant missions, mostly of Pentecostal denomination, with the intent of diluting Catholic presence and preventing the spread of Marxist ideals through religion.
+>
+> Declassified CIA documents, State Department memoranda and USAID, United States Agency for International Development, contracts indicate that between the 1950s and 1980s, the US used Protestant missions as part of a counterinsurgency strategy.
+
+- So all your churches are utilized as weapons against you. That's what it is. So better get out of them damn churches, man. So it's the same play over and over and over again with our people.
+
+</div>
+
+<div class="reading">
+
+Reading from the article *US soldiers and contractors begin ground operations in Ecuador*  *[[1:36:47](https://www.youtube.com/watch?v=FSUFtJ08joo&t=5807s)]*
+
+> US soldiers and contractors begin ground operations in Ecuador. A ministerial agreement grants US soldiers immunity and special immigration status. The US presence in Esmeraldas and Manabí was also announced.
+
+- US presence in Esmeraldas. Don't we have brothers and sisters that live there? All of them lived in Esmeraldas. And guess what? They're black. They're Afro-descendants. So why is the US presence in Esmeraldas, Ecuador?
+
+> The government of Daniel Noboa, through a ministerial agreement, has allowed US soldiers and contractors to enter Ecuador without a visa,
+
+- They don't need a visa. We got to jump through hurdles to get a visa. But these damn devils, they got free reign to go up in Ecuador.
+
+> even if they are not working on security operations.
+
+- So it's a … They're not working on security operations. What are they doing there? They're buying land, stealing land, stealing resources.
+
+> So for several years now, Ecuador has been experiencing its worst security crisis in history due to a territorial dispute between drug trafficking gangs
+
+- There we go again. You know what it is when they say drug trafficking gangs. It's really our people that they have a war against. It's the indigenous, the Afro-descendants, because those are the people in the land over the precious resources. So they call them drug traffickers. Some of them might be drug traffickers, but they're not on the scale moving tons. Like when they showed Trump and his military bombing them little boats, talking about they shipping drugs. Those little boats. You think they're going to waste time sending drugs on little boats? No. They use shipping containers, barges full of containers, hundreds of containers full of drugs and all kinds of illicit things. Don't fall for it. This is all lies. It's all a war on our people.
+
+> over control of drug trafficking routes
+
+- So basically they want control of the routes. They want control of the drugs. That's what they doing. And when I say they, I'm talking about Esau, his military.
+
+> and illegal mining operations.
+
+- What's in those mines? Precious minerals. They trying to take them. That's why they don't need a visa. They can go up in there even if it's not for security purposes. It's for what? The mining. The mining.
+
+> It is estimated that the largest amount of cocaine in the world passes through Ecuador,
+
+- And Esau wants all of it. Esau wants it all.
+
+> primarily bound for the United States and Europe.
+
+- Exactly. They want their drugs. That's why you see, what's the dude from Miami that's with President Trump? Rubio. Marco Rubio. Every time you see him, his jaw is moving crazy.
+
+> The ministerial agreement thus seeks to present itself as part of the comprehensive strategy to reduce crime.
+
+</div>
+
 **[Habakkuk 2:5](/bible/habakkuk/2#v5)**  *[[1:40:08](https://www.youtube.com/watch?v=FSUFtJ08joo&t=6008s)]*
 
 > <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
@@ -426,6 +667,16 @@ Renée Kaplan.
 - And to take away the right from the poor of my people. To take away the rights of the rightful owners of the land, the rightful owners of the country.
 
 - That widows may be their prey, and that they may rob the fatherless. Widows are their prey. We have seen videos, and we are going to show more videos, where they are attacking our people, killing the widows, taking the children from their parents. They may rob us, the fatherless, of our lands, displace us, terrorize us. All this is by design.
+
+<div class="reading">
+
+Reading from a headline on the protest in Puerto Rico  *[[2:06:09](https://www.youtube.com/watch?v=FSUFtJ08joo&t=7569s)]*
+
+> Riot police deployed as Puerto Ricans protest at governor's $1.5 million fundraiser for her 2028 reelection.
+
+- So she's not raising funds to bring water to the island, to fix the water infrastructure. No, she's raising funds so she can get reelected. So she can continue robbing and raping the land and selling us out. Selling the people out.
+
+</div>
 
 **[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[2:07:18](https://www.youtube.com/watch?v=FSUFtJ08joo&t=7638s)]*
 
@@ -514,6 +765,16 @@ Renée Kaplan.
 - This guy in military attire, what is the military attire for? For war, for fighting. But he is in quote unquote God's house, teaching God's people.
 
 - The words of his mouth were smoother than butter, but war was in his heart. But war is in his heart. That is why you see the destruction that comes when you let him into your lands. That is what Argentina was protesting. That is what Puerto Rico is protesting. That is what Peru is protesting. But these puppet governments are siccing the military on our people, killing our people.
+
+<div class="reading">
+
+Reading from a headline on Renée Kaplan  *[[2:31:15](https://www.youtube.com/watch?v=FSUFtJ08joo&t=9075s)]*
+
+> Renée Kaplan, the spokesman accused of covering up genocide, now leads rescue efforts in Colombia.
+
+- So the one who was covering up the genocide in Gaza, Lebanon and Yemen is now leading rescue efforts in Colombia. They're not rescuing anything. All they doing is land grabbing, preparing the land for their people, because they know they're not safe in Israel anymore. So they have to find other lands. That's why they're going to Argentina, to Patagonia. The fertile lands with the water, with the minerals. This is what's going on in Latin America.
+
+</div>
 
 **[2 Esdras 9:1-7](/bible/2-esdras/9#v1)**  *[[2:32:02](https://www.youtube.com/watch?v=FSUFtJ08joo&t=9122s)]*
 

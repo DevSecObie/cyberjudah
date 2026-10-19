@@ -25,19 +25,11 @@ Shalom Israel. Happy Sabbath. Happy Sabbath to all those online following. We ha
 
 Esau's character.
 
-- Image read: "Never forget that the Black Panthers, a group formed to protect black people from the KKK, were dismantled by the US government while the KKK still exists today." Many of the programs that we get today, like WIC, were formed by the Black Panthers. It was a group designed to protect us against the KKK, but the FBI made war with them. Some of their members are still in jail today. But how come the KKK is still alive? You have a group that actually killed people, lynched people, burned crosses on people's yards, bombed churches, and they are still in existence today. But a group that was there just to elevate our people is destroyed. The reality is this: it is the hatred they have for us. They never want to see anyone rise to help save us. So what they did to Christ, that is what they did to all the black leaders. And that is what is going to happen to us also in the future. It is only a matter of time.
-- America's largest hate groups: number one Proud Boys, number two Nation of Islam, number three Israel United in Christ. And number 20, the American Christian Dixie Knights of the Ku Klux Klan. So peep game. How can the KKK still be in existence, with all the proven crimes they have done, and now IUIC is number three on the largest hate group list? You want to call us haters? Have we ever lynched anyone? Have we ever terrorised anybody? The problem is the scriptures are terrorising them. To us it is a savour of life, and to them a savour of death. That is what is terrorising them. Think about it: if we as black men had done something as bad as the KKK, would we still be right here on YouTube live teaching like this? They would come and arrest us and kill us and make a public example out of us.
 - Heidi Beirich, again, after Bishop brought it out last week. Her own words: "White people have this horrific, it is like we are genetically driven to destroy black people. They are, in comparison to the Israelite community itself, yes, they are a hate group." She is the reason our name was number three and the KKK was number 20.
-- The article: "The SPLC's legal nightmare just got a lot worse. Heidi Beirich, former high-ranking SPLC official, allegedly directed 1.2 million to a group informant who was also her lover. The case against the Southern Poverty Law Center took another bizarre turn this week when so-called Employee 2, named in the superseding indictment, was identified as Heidi Beirich, an SPLC official described as a person who would become director of the SPLC's Intelligence Project. The New York Post reports that Beirich is accused of directing 1.2 million in donor money to an informant in the National Alliance, a white supremacist group. He is also allegedly her lover. The document also describes how Employee 2 wrote an article based on stolen material from National Alliance headquarters in 2014, then paid off an informant to accept blame for the robbery. Beirich, 58, is a so-called fascism expert who served as director of intelligence at the Alabama-based SPLC between 2012 and 2019. According to the indictment, Beirich was very close to the informant identified as F9, who infiltrated the neo-Nazi organisation National Alliance. Beirich was also in a romantic relationship with F9. During this relationship, Beirich and F9 shared a house and two bank accounts."
-- I thought she was fighting hatred. Her job at the SPLC is what? A group designed to fight hatred, anti-semitism, which makes no sense because we are the Semites. But yet money from that same group is going to a KKK group. So she was funnelling money to herself and the lover, who is a racist KKK member.
-- New York Post: "Hooded, one-legged imperial wizard, true believer and cleaning lady who show no signs of reform. Two of the eight informants paid by the Southern Poverty Law Center can be unhooded by the Post as a suburban mom from Georgia and a one-legged true believer from Alabama. One of the SPLC's so-called informants was an imperial wizard of the United Klans of America, a Ku Klux Klan organisation, who remained a committed racist until his death in 2023. Bradley Scott Jenkins was high up enough in the organisation to call himself a leader of the true Klan and never displayed any signs of reform or subverting the KKK's message, the stated aim of the SPLC's informant program, according to his son Noah Jenkins."
-- So that dude recently just died, and his group was still in existence doing things. So how can this guy be roaming around but Black Panther members are in jail? And the same one-legged dude, his group did this. Birmingham Post-Herald headline: "Bomb blast kills four children, injures 17 at church here." Did any Black Panther ever do this? Did any IUIC member ever do this? So how is the KKK not number one? Since the abolishing of slavery the KKK has been killing people. And how are they number 20 on the list when we have not done anything like this, and people who actually did this lived out their lives all the way till 2023 and died normal?
-- A list of massacres of black populations, put on the screen so people could take those names and research them. Have any IUIC group done any of these things, or the Panthers, or any black group for that matter? We have not. But when it comes to us uniting, they do not want us to unite. Why? Remember what J. Edgar Hoover said was the number one threat to America? Negro unity. That is why we are number three. Because they know who we are. And they know when we actually remember who we are and come back together as the Israelites, that is the end of their world. This is why we are such a threat. Not because we are picking up guns, but because we have the number one weapon. We do not need bullets. We need this. The Bible is our weapon. Like the movie Book of Eli: this is not just a book, it is a weapon. And they know it.
 - How they mentally destroyed us. He gave us the Bible, but he gave us Christianity with the Bible, and that manipulated our minds to be submissive to white Jesus. That is it. He said the chain would not come off until we were mentally destroyed. What did he use to mentally destroy us? Christianity. So the same book that is our weapon, they were able to use against us, because they gave us the slave Bible with books missing. They were indoctrinating us with Christianity, and if we did not accept it, what happened? You got killed. Whosoever would not worship the image of the beast was put to death. And we accepted it, and by accepting it that is how the yoke was able to come off.
 - The elephant. One of the ways to break an elephant is to take the two rear legs, tie them with strong ropes to a very strong tree trunk, and just leave them there for weeks. Elephants believe in their strength, so they keep pulling and pulling. But can they take away the tree trunk? After a number of weeks you remove the rope and he is not going anywhere. He is broken, because in his head that rope is still tied to that tree. That is us today. But just like the Willie Lynch letter says, the mind has the ability to correct itself if it comes across a substantial historical truth. As we are coming back to the laws, statutes and commandments, we are realising, oh, damn.
 - The pride of his heart hath deceived him. He is so prideful he did not burn the Bible. From the time we were in slavery a new Bible should have been written, and then we would see no black scriptures. But he thought what he did was so good that he said, we can keep using this Bible. Because when we read it: oh damn, the Jews are black. Solomon is black. Jesus is black. Now our eyes are open and we can clearly see them.
-- And if you do not believe this book is a weapon to conquer the world, just look at slavery. They conquered the whole world with this book. Christianity is all over the world. How did Chinese people accept Christianity? Through musket guns, opium and a major beating. India, all the Arab lands. And during World War II they were dropping the pamphlet with the new Caesar on it. The Head of Christ: "The Head of Christ originated as a charcoal sketch of the Son of Man done in 1924 and sold to be the cover of the Covenant Companion, the denominational magazine for the Evangelical Covenant Church. Sallman completed several versions of the painting over the years, and the first oil version dates from 1935 for the 50th anniversary celebration of the Evangelical Covenant Church. The Baptist bookstore initially popularised the painting, distributing various size lithographic images for sale throughout the southern United States. The Salvation Army and the YMCA, as members of the USO, handed out pocket-sized versions of the painting to American servicemen headed overseas during World War II." So they were not just going to war, they were carrying a message.
-- On the Klan's body count: "A definitive single-number answer of how many black people the Ku Klux Klan has killed from 1900 through 2026 is not possible from the available reporting. Contemporary sources document hundreds of Klan-like lynchings and massacres in the 20th century, and several well-documented atrocities continuing into the civil rights era." It is impossible to say the exact number. Why? Because all those massacres we showed you were not the only ones. It was happening in the South, the Northeast, the Midwest and the West Coast. And usually they do not tell you how many people died in those massacres. There will be mass graves, but they tell you three or four people died. Imagine down in Mississippi in the 1900s, in Georgia, in the pitch black of the night, where the police is a KKK member, the judge is a KKK member, the whole city is KKK, and these people practise a form of witchcraft. So they needed to sacrifice people. That is what a lot of us do not get yet.
+- And if you do not believe this book is a weapon to conquer the world, just look at slavery. They conquered the whole world with this book. Christianity is all over the world. How did Chinese people accept Christianity? Through musket guns, opium and a major beating. India, all the Arab lands. And during World War II they were dropping the pamphlet with the new Caesar on it.
 
 The church.
 
@@ -57,15 +49,12 @@ The hatred today.
 - Now, if these people were very old you could say, that is the same old mentality. But those are young teens, to show you nothing ever changed. And that is just what we can see. Imagine the things that happen behind closed doors. And that proves the point about the lynchings: they film that stuff, it just does not get out. That one just happened to get out. Like Moses said, he is going to make their own mouths fall upon them. The Most High allowed that one out. The girl is disabled, and you invite her over, get her drunk just to beat her, and talk about you are going to kill her. Now you can understand what the four Ws are: whiskey, white women, woods and water. Stay away.
 - Video: "In 1916, 15,000 Texans watched a black teenager burn alive in Waco. Jesse Washington was 17, convicted in a trial that lasted four minutes. White officials watched from windows as the black teenager was dragged out and burned. The NAACP published a report called The Waco Horror and sent it across the country. What does it mean that this happened in public, in daylight, before thousands of people?"
 - For 15,000 people to show up for a lynching, what does that mean? Did 15,000 people just wake up out of their beds and say, let us go lynch somebody? There had to be communication. How do you get 15,000 people to show up? There had to be a pamphlet circulating. There had to be word of mouth spreading, saying, listen, that dude, we are going to lynch him today, and we need to come in full force, because if we do not come in full force we might not be able to do it. That happened in 1916, but it is still happening today. It is just not happening where 15,000 people are watching it. But there is probably some underground live streaming going on when these things happen, a private chat where they can all witness it, or videos being sold on the black market. Because these people are insatiable when it comes to blood. They just have to kill people. And whose people do they want to kill? Us. Why? Because this whole earth was given unto us. This whole kingdom is ours. And they hate that God has chosen us. So they are going to kill us, they are going to lie about us, and they are going to steal everything we have. That is just their character. You cannot reason with them. That is why the scripture calls him the deaf adder. But that snake has a smile. So you think because the snake has a smile he is listening to you, nodding his head. No, he is looking at where he can strike.
-- Image: "13 in 14 months. Six were found hanging from trees, labelled suicides. Media coverage: barely." I do not know black people to be the type of people to be hanging themselves. Am I missing a page of history? But when you have power, that is what you call systematic racism. When you control the media, you can do stuff like that.
-- The Nolan Wells audio, transcribed with timestamps on screen: "Oh, you killed him. He is already dead. Is he dead? Yeah. Nolan, wake up. Nolan, wake up. Get up. Wake up. Get up. Damn it. No. Really dead now." So allegedly, if this audio is real, why is nobody in jail? Where is the investigation going? Nowhere. Because you are dealing with a murderous, hateful, thieving killer, and it just so happens they are in power. And you are not fighting one person. Bishop always brings it out: people talk about the police, the police. Okay, the police wrongfully killed you. You have the judge, you have the jury. It is the whole system that lets him go free. Yes, he is a bad cop, but it is the whole system that let him go free. So you are not fighting one person, you are fighting a system. And your only way out is to dive deep in this book. Stop taking this thing for granted. The day will come when you are going to wish you were at an IUIC school. Brothers go to camp and take it for granted. One day you are going to wish you were able to go to camp.
 - The soccer coach. This dude used to get pissed off, veins on his neck, when you are in groups of four and all you are doing is passing the ball between four people and somebody makes a bad pass and the ball goes into left field. He would come running: you have no pressure on you, why are you making a bad pass? Because if you cannot make a good pass when there is no pressure, when it is just four friends passing the ball around, what is going to happen when there is pressure in the game? It is the same thing with the truth right now. There is a level of pressure we are not under yet. Like the Bible says, ye have not yet resisted unto blood, striving against sin. Yes, we have people that got stabbed, we got shot at. But if you think that is something, it is going to get worse. We might get to the level where every Sabbath you hear, so-and-so brother got shot. What is going to happen to your faith then? If you are not building up your faith right now, how are you going to endure in times of trials and tribulations?
 - And so you can understand to what level you need to bring your faith up. Do you actually think this man is going to relinquish power by just watching the purple group going over scriptures, having a beautiful congregation, and saying, yeah, let them just rise up and take over the kingdom, here are the keys? No. It is not going to happen that way. They are going to fight.
 - Even John the Baptist doubted. John baptised Christ. When Christ walked over to him he knew that was Christ, he knew that was the saviour. But when he was locked up about to be put to death, he sent disciples to Christ to ask him, are you the one? So stop playing in the truth. Really build your faith.
 
 The theft.
 
-- Image: "Around half of Venezuela's oil production now goes to the United States. Let this serve as an eye opener to those who still believe that the US is not a country of thieves." The house of the thief. They went to Venezuela and kidnapped Maduro. They stole the man, brought him to America, locked him in jail for things he was not doing, and now they are stealing all the oil out of Venezuela. You think God is not going to hold you guilty for that?
 - Haiti. The occupation happened in 1915. The Marines came in and said, you all are not free, we are taking over, and they occupied Haiti for a long time. We had the Cacos, the rebel group fighting against the Marines, and they were whipping them. You had Charlemagne Péralte, who was the head, and guess what, his own people betrayed him. They showed exactly where he was at, and they gave his uniform to the white man, and the white man put shoe polish on their faces and at night went among them and captured and killed him. Video: "A year before the occupation Haiti had its own money, and it was backed by gold. The US Marines landed in Haiti, went to the Haitian Treasury, carted out our gold, brought it to the City Bank of New York. The reason they did that was because after our independence the United States, Jefferson, refused to acknowledge Haiti's independence. There was an embargo on Haiti for 60 years, from 1804 to the Civil War. It was not until the Civil War that Abraham Lincoln recognised Haiti. In order for Haiti to be recognised by France we were forced to pay an independence debt in 1825."
 - When they tell you pull yourself up by your own bootstraps and they embargo you for 60 years, and then after that they come into the country and take all the gold, and then say, see, they cannot govern themselves. Those Haitians, they are eating mud cake. Why are they eating mud cake? Because of you.
 - The French robbed us. You like to go to France, go see the Eiffel Tower? It was built with Haitian money. You like Champs-Élysées? Haitian money. Haiti could have been even more beautiful than France if they could have kept their money. But you have the Monroe Doctrine, where America came and said, everything in my backyard is mine. And that is how they destabilised Haiti. They are the thieves the Bible speaks of.
@@ -76,19 +65,73 @@ The liars.
 
 - Video on the Khazars: "Between the 7th and 10th centuries a powerful empire rose between the Black Sea and the Caspian. A trade hub, a military force, and a political wild card. It was called Khazaria. The Khazars were a Turkic people who ruled over a vast multicultural population. And in the middle of clashing empires, Christian Byzantium and the Islamic Caliphate, they made a strategic move. In the 8th century the Khazar king and his elite converted to Judaism. But this was not a spiritual awakening. It was a geopolitical mask, a way to remain neutral and powerful. The ruling class adopted Jewish law, but what they practised in secret is still debated. Some sources, including Arab chroniclers and later Russian texts, accused them of continuing pagan rites, ritual sacrifice and occult worship. Beneath the surface the Khazars controlled Silk Road trade routes, taxed empires, and built immense wealth. Their empire became a safe haven for outcasts, merchants, mystics and manipulators. By the 10th century Khazaria began to collapse, pressured by the Rus and Byzantines. But the ruling bloodlines did not disappear. They migrated west into Ukraine, Poland and Germany, blending into Jewish communities across Europe. Some believe this was the genesis of the Ashkenazi elite, not descendants of Abraham, but of a throne that wore a mask. So ask yourself, if the empire fell, why does its influence still shape the world today?"
 - Those people that call themselves Jews, they are not Jews. They are Khazarians. And they do not practise the law. They practise Kabbalah, Zoroastrianism. You read the Talmud and it tells you exactly what they are into. And notice what he said at the end: if the empire fell, why does its influence still shape the world today? They never fell. They are the same people.
-- Article: "Christianity's death toll. The institutions of Christianity have played a central role in shaping Western history for nearly two millennia, influencing political, social and cultural developments on a global scale. Alongside its contributions to art, education and social welfare, Christianity has also been a catalyst for some of history's most violent and destructive events. From the Crusades and Inquisitions to pogroms and forced conversions, these actions have resulted in untold suffering and loss of life. This post seeks to critically examine the death tolls associated with Christianity's direct and indirect actions."
-- Pogroms. Nobody was going to raise their hand for that word. That is the problem: you all do not look up words. Definition read out: "A pogrom is a violent riot or attack directed against a specific ethnic or religious group, with a long history of targeting Jewish communities. The word comes from Russian, meaning to demolish violently or to wreak havoc. These outbreaks typically involve the destruction of homes, businesses and places of worship, alongside physical violence and murder."
-- Pause for a second. You see how you read one little word, and that is how clever they are. They are telling the truth, and within the truth they are going to lie. They are going to hide behind big words. That is why you have to look up words you do not understand. How does one word mean all that? That is a title. And when it says Jewish communities, we are not talking about those so-called white people that live in Israel. The true Jews. They used to attack us. So Christianity was created to destroy us. How can you be a Christian today? And it is impossible to say how many people Christianity has killed from their inception all the way up to today, because Christians are still killing people today. You forgot all the lynching. They are Christians. They practise Christianity.
 - Bishop on the forced conversions, showing the books: the imagery is black people, and you have knights and kings with swords. "Does it look like they have a sincere desire to become Christian? You see this guy has a sword behind my man's head right here, and the king has a sword in front of them. This does not look like sincere conversion. This looks like forced." That is where they got the term converso. Your job was not to teach them about God, they already knew God. As a Jew you would say, no, we already know Christ, he is black. No, no, we are talking about the white Jesus, will you accept it? No. Heads off. After a thousand heads, the thousand and first says Jesus is king and gets baptised. For every thousand that died, one accepted it. And out of that, three of ten could secretly still practise Judaism. That is why they still had to hunt us, set a spy among us to see, hold up, he is clean on the Sabbath. Then they baptised us, and we became the type of Christian they wanted us to be: the kind that did not keep any commandment, the immoral kind, the kind of today.
-- Articles on the land: "How Jewish people got the land of Israel from the Palestinians. The land of Israel was acquired through a combination of legal purchases, international support and conflict. Jewish leaders initiated land purchases in the late 19th and early 20th centuries, aiming to establish a Jewish homeland, which was further supported by the Balfour Declaration and the British Mandate. The 1948 war led to significant territorial changes and the establishment of Israel, resulting in the displacement of many Palestinians." And: "The Zionist movement. The late 19th century Zionist movement aimed to establish a Jewish homeland in Palestine, leading to organised land purchases from Arab landowners. Balfour Declaration: in 1917 the British government expressed support for a Jewish homeland in Palestine, influencing international opinion and migration. Land purchases: between 1882 and 1948 Jewish organisations purchased approximately 1.5 million acres of land, often from absentee Arab landowners. 1948 Arab-Israeli war: following Israel's declaration of independence, conflict erupted, resulting in the displacement of around 700,000 Palestinians."
-- How did the whites take America? Through war. They went to war with Gad. How did they take the land of Israel? Through war. And the same way the natives allowed them to come here and make treaties with them is the same way the Palestinians allowed them in. The first Jewish people that entered that land had Palestinian passports. That means the Palestinian embassies had to approve their paperwork to come to the land. You let them in, they take your whole house. That is just their nature. So that is not a peaceful people. And notice how clever they are. They are just talking about displacement. We can see what is happening today, they call it displacement as well, but we can see the death toll.
-- The Talmud on Christ: "Jesus said to him, he is punished with boiling excrement." They are saying that Christ, the black Messiah, is being punished in boiling excrement to this day. That is framing deceit right there. That is the antichrist. And remember the scripture says there are many antichrists. All Christians are antichrist. Everyone who practises Christianity is an antichrist. Everyone who is in that synagogue of Satan is an antichrist, because you do not know Jesus. So will an antichrist make it to the kingdom? So as long as you stay in those dead churches you are not making it into the kingdom. So you want to know why the colour of Christ matters? That is why it matters. Because once you take that image, you do not have the real doctrine.
 - The Belgian paratroopers in Somalia: "Look closely at this photograph. It was taken in Somalia in 1993. Two Belgian paratroopers are holding a young Somali boy over an open fire. They were part of the foreign military intervention sent to Somalia amid civil war and famine. But this photograph was not the only disturbing incident to emerge. Amnesty International documented multiple cases of abuse involving Belgian soldiers and Somali civilians. One child was allegedly force-fed salt water until he vomited, then forced to eat his own vomit. Another child was reportedly locked inside a metal container in extreme heat for two days without food or water. He was later found dead. There were also allegations of the rape of a teenage Somali girl. And another photograph showed a Belgian soldier urinating on the apparently lifeless body of a Somali man. Then there was the boy over the fire. When this photograph emerged publicly in Belgium in 1997, it caused a national scandal. The two soldiers were prosecuted, but they did not even deny it. Their defence argued that they had been playing with the boy and that they were trying to deter young Somalis from stealing military equipment. As weak as that defence sounds, a Belgian military court actually acquitted them, citing insufficient evidence. Prosecutors appealed, but the acquittal was upheld. The soldiers walked free without any jail time. More than 30 years later, presented to the world as humanitarian, the question is, who protects civilians when those sent to protect them become their abusers?"
 - 1993. That is very recent. If that is not hatred, what is? Perpetual. What was the reason they were in Africa? To help them. That does not look like help. If that is help, I do not want it. Do you want to play this game? Does this look like a game to you, to be put over a fire to be roasted? You are dealing with a people that have no conscience. And they did not go to jail. Just like in Israel, the soldiers that raped the Palestinian boy.
-- Charles Kinsey: "The phrase refers to the July 20, 2016 police shooting of Charles Kinsey, an unarmed behavioural therapist in North Miami, Florida. Kinsey was lying on the ground with his hands in the air, trying to protect an autistic patient playing with a toy truck, when an officer shot him in the leg. After he was shot, Kinsey asked the officer why he fired, and the officer replied, I do not know." They do not even know why they do what they do.
-- The book, The Chosen People from the Caucasus, page read: "Nuclear war, environmental pollution, resource rape, all are primary threats to our survival, and all are the result of peculiar Caucasoid behaviour, Caucasoid values and Caucasoid psychology. There is no way to avoid the truth. The problem with the world is white men."
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from an image on the Black Panthers and the KKK  *[[11:25](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=685s)]*
+
+> Never forget that the Black Panthers, a group formed to protect black people from the KKK, were dismantled by the US government while the KKK still exists today.
+
+- Many of the programs that we get today, like WIC, I think that was formed by the Black Panthers. So it was a group designed to protect us against the KKK, but the FBI made a war with them. Some of their members are still in jail today.
+
+- But how come the KKK is still alive? You got a group that actually kill people, lynch people, burn crosses on people's yard, bomb churches. But they're still in existence today. But a group that was there just to elevate our people is destroyed.
+
+- And the reality is this. It's a hatred that they have for us. They never want to see anyone rise to come help save us. So what they did to Christ, that's what they did to all the black leaders. And that's what's going to happen to us also in the future. It's only a matter of time. The same exact thing gonna happen.
+
+</div>
+
+<div class="reading">
+
+Reading from an image of America's largest hate groups  *[[13:01](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=781s)]*
+
+> America's largest hate groups. Number one, Proud Boys, Nation of Islam.
+>
+> Number three, Israel United in Christ.
+>
+> Number 20. American Christian Dixie Knights of the Ku Klux Klan.
+
+- So peep game. How can the KKK, first of all, how can there still be in existence with all the crime? Not some, like, proven crimes they've done, not he says, she says. It was known throughout the South, right? Even in the north, they did much, much evil, but yet they're still in existence, right? And now IUIC is number three on the largest hate group. You want to call us haters? Have we ever lynched anyone? Have we ever terrorized anybody?
+
+- You know the problem is the scriptures terrorizing them. The scripture says what? To us is a savour of life and to them is a savour of death. That's what's terrorizing them.
+
+- Think about this. You think us as black men, if we had done something as bad as the KKK, we still be right here on YouTube on live teaching like this? Right now, while we're alive, they will come and arrest us and kill us. Make a public example out of us. So it's to show you these people are evil as hell. They hate us. They stole us from our land. First of all, they hate us and they're going to kill us eventually.
+
+</div>
+
+<div class="reading">
+
+Reading from a headline on the screen  *[[15:26](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=926s)]*
+
+> Former employee at Southern Poverty Law Center arrested on fraud charges.
+
+- Interesting. Talking about looks, you think she don't look like a blob? Look. Am I lying? I mean, a picture is worth the what? How many words? A thousand words.
+
+- We're going to take a moment of silence, and you be the judge. That's a blob. That's on a bad day. On a good day, that's when she got makeup on. Miss Piggy dress, everything. Same hand gesture. I mean, come on. Like I said, if I look like this, I would hate black people, too.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on Heidi Beirich and the SPLC  *[[17:29](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1049s)]*
+
+> The SPLC's legal nightmare just got a lot worse.
+>
+> Heidi Beirich, former high-ranking SPLC official, allegedly directed 1.2 million to a group informant who was also her lover … Washington DC. The case against the Selective Policing and Labeling Committee, aka the Southern Poverty Law Center, took another bizarre turn this week when so-called employee 2, named in the superseding indictment, was identified as Heidi Beirich, a SPLC official described as a person who would become director of the SPLC's intelligence project. The New York Post reports that would be Beirich, who is accused of directing 1.2 million in donor money to an informant in the National Alliance, a white supremacist group.
+
+- I thought she was fighting hatred. Her job, SPLC, is what? A group designed to fight hatred, anti-semitism, right? Which make no damn sense, because we are Semite. But yet money from the same group is going to a KKK group.
+
+- Now you understand why they're number three. 'Cause you know, when you got a dude putting that work, people be forgetting stuff. She got that dude putting that work on her, she like, I don't think you hate nobody.
+
+> He is also allegedly her lover. The document also describes how employee 2, allegedly Beirich, wrote an article based on stolen material from National Alliance headquarters in 2014, then paying off an informant to accept blame for the robbery. Beirich, 58, is also a so-called fascism expert who served as director of intelligence at the Alabama based SPLC between 2012 and 2019. According to the indictment, Beirich was very close to the informant identified as F9, who infiltrated the neo-Nazi organization National Alliance. Beirich was also in a romantic relationship with F9. During this relationship, Beirich and F9 shared a house and two bank accounts. The indictment read,
+
+- So she was following money to herself and the lover. Who's a what? A racist ass KKK member.
+
+</div>
 
 **[2 Corinthians 13:8](/bible/2-corinthians/13#v8)**  *[[21:43](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1303s)]*
 
@@ -100,6 +143,52 @@ The liars.
 
 - And those who are meant to be in this truth, it does not matter how they hear the truth, whether it was in a positive light or a negative light. They are going to go look at some videos and say, oh damn, they are actually speaking the truth, I need to join. Because the true prophets of the Lord, we are like Manchurian candidates. The moment we hear it, we know that is the way. Whether it was from somebody talking trash about us or somebody talking good about us.
 
+<div class="reading">
+
+Reading from the article from the New York Post  *[[22:36](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1356s)]*
+
+> Hooded one-legged imperial wizard, true believer, and cleaning lady who show no signs of reform.
+
+- Now, that's a title for the head of any KKK groups. Imperial Wizards. I wonder why they call them wizards.
+
+> Two of the eight informants paid by the Southern Poverty Law Center can be unhooded by the Post as a suburban mom from Georgia and a one-legged true believer from Alabama. One of the SPLC so-called informants was an imperial wizard of the United Klans of America, a Ku Klux Klan organization, who remained a committed racist until his death in 2023.
+
+- So that dude recently just died. So his group, like, they were still in existence doing things. So how can this guy be roaming around, but Black Panther members are in jail?
+
+> Bradley Scott Jenkins was high up enough in the organization to call himself a leader of the true Klan and never displayed any signs of reform or subverting the KKK's message, the stated aim of the SPLC's informant program, according to his son Noah Jenkins.
+
+- Now that's a handsome fella. I told you that hatred comes from, like, they're ugly as hell. But you know, some of our people think they're handsome and good looking.
+
+- I'm sorry to say this, but Benji and Levi, they like to pick some of the fattest, ugliest Edomite possible. Now, I don't know if it's for paper's sake, green card, you know. I don't know if it's the green card, but damn. Like, that'd be huge, massive. And brothers be walking around like they got a trophy next to them or something. Like, how do you go through the hood like that, passing some beautiful sisters, and you got a big blob just rolling with you down the hill?
+
+</div>
+
+<div class="reading">
+
+Reading from the Birmingham Post-Herald  *[[25:27](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1527s)]*
+
+> Bomb blast kills four children, injures 17 at church here.
+
+- So the same one-legged dude, his group did this. So, did any Black Panther ever did this? Did any IUIC member ever did this? So how the hell the KKK is not number one? Since the abolishing of slavery, the KKK's been killing people.
+
+- So how the hell they're still in existence to begin with? And how the hell they're number 20 on the list with number one, when we ain't done nothing like this? And people who actually did this live to live their life all the way till 2023, died normal. Meanwhile, you have Panther members who haven't done such a thing that are in jail. So you understand what kind of person you going up against.
+
+</div>
+
+<div class="reading">
+
+Reading from an image of massacres of black populations  *[[26:30](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1590s)]*
+
+> Massacres of black populations. Choose a massacre and research it.
+
+- So leave it on the screen so people can take those names and research them. Now, have any IUIC group have done any of these things, or the Panthers, or any black groups for that matter? We have not done that.
+
+- But yet, when it comes to us uniting, they don't want us to unite. Why? Because remember, what's his name, J. Edgar Hoover, what did he say was the number one threat to America?
+
+- Negro unity. That's why we're number three. Why? Because they know who we are. And they know when we actually remember who we are, come back together as the Israelites, is what? The end of their world. This is why we're such a threat. Not because we're picking up guns, because we have the number one weapon. We don't need bullets. We need this. The Bible's our weapon. Like the movie Book of Eli. This is not just a book. It's a weapon. They know it.
+
+</div>
+
 **[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[28:11](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1691s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
@@ -109,6 +198,82 @@ The liars.
 - So how was that scripture fully fulfilled? How were they able to do that? He gave us the Bible, but he gave us Christianity with the Bible, and that manipulated our minds to be submissive to white Jesus. And within that context of white Jesus we lost everything of who we were, and then we fulfilled that.
 
 - That is it. He said the chain would not come off until we were mentally destroyed. What did he use to mentally destroy us? Christianity. So the same book that is our weapon for us, they were able to use against us, because they gave us the slave Bible with books missing. They were indoctrinating us with their garbage, and if we did not accept it, you got killed. Whosoever would not worship the image of the beast was put to death. And we accepted it, and by accepting it that is how the yoke was able to come off.
+
+<div class="reading">
+
+Reading from an article on the Head of Christ  *[[33:11](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=1991s)]*
+
+> The Head of Christ originated as a charcoal sketch of the Son of Man done in 1924 and sold to be the clover of the Covenant Companion, the denominational magazine for the Evangelical Covenant Church. Sallman completed several versions of the painting over the years and the first oil versions were dates from 1935 for the 50th anniversary celebration of the Evangelical Covenant Church.
+>
+> The Baptist bookstore initially popularized the painting, distributing various size lithographic images for sale throughout the southern United States.
+>
+> The Salvation Army and the YMCA, as members of the USO, handed out pocket-sized versions of the painting to American servicemen headed overseas during World War II.
+
+- So they were not just going to war, man. They were carrying a message.
+
+</div>
+
+<div class="reading">
+
+Reading from a search on how many black people the Ku Klux Klan has killed since 1900  *[[34:31](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=2071s)]*
+
+> How many black people has the Ku Klux Klan killed since 1900?
+>
+> A definitive single number answer of how many black people the Ku Klux Klan has killed from 1900 through 2026 is not possible from the available reporting. Contemporary sources document hundreds of Klan-like lynchings and massacres in the 20th century and several well documented atrocities continuing into the civil rights era.
+
+- Stop for a second. It's impossible to say the exact number. Why? Because all those massacres we showed you, and those were not the only ones. That was just like the South and the Northeast. It was happening in the Midwest, it was happening in the West Coast as well. And usually they don't tell you how many people died in those massacres. There'll be mass graves, but they tell you three or four people died.
+
+- It's impossible, because if you see today with cameras, we see lynching is happening on a regular. Imagine down in Mississippi in the 1900, in Georgia, in the pitch black of the night, where the police is a KKK member, the judge is a KKK member, the whole city's KKK, and these people practice what? It's a form of witchcraft they're practicing. So they needed to sacrifice people. That's what a lot of us don't get yet.
+
+- But the point is it's impossible to name exactly how many, because that's like over a hundred years. How can you account for a hundred years of killing, many of which happened in the dark of the night, that there's no report about it whatsoever?
+
+</div>
+
+**[Psalms 58:3](/bible/psalms/58#v3)**  *[[45:26](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=2726s)]*
+
+> <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
+
+- The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies. The wicked are estranged from the womb. They go astray as soon as they be born.
+
+- So you might be thinking, maybe there is hope for them. Nope. Because what the Bible says, can it be undone? The Bible said we were going to go into slavery. Did we go into slavery? The Bible said we would forget who we were. Did we forget who we were? So if the Bible says they are wicked and as soon as they be born they are speaking lies, that is what it is.
+
+- Speaking lies. They lie about who they are. They say they are the Jews. Are they the Jews? They say they are the Christians. Are they the Christians? No, they are the devil the Bible speaks of. So you are dealing with a lying nation that still cannot take accountability for all the murdering and the plundering, the thievery and the killing that they have done among our people. Till today you cannot go to school and learn the truth, because till today they teach that Christopher Columbus discovered the world. Do they not have statues of him? Do they not have holidays all over the world on his behalf? Did he actually do any of those things? At the end his own people put him in jail. That is how evil that dude was.
+
+<div class="reading">
+
+Reading from image number 17  *[[1:00:19](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=3619s)]*
+
+> 13 and 14 months. Six were found hanging from trees, labeled suicides. Media coverage: barely.
+
+- Now, I don't know about where you grew up. I don't know black people to be the type of people to be hanging themselves. Like, am I missing a page of history? Where we just love hanging ourselves because we're so miserable? Nah. Now, negro overdose, yeah, they shoot up some heroin in there, next thing you know, they're dead. I understand that.
+
+- But come on now. We all know they're lying. They know they're lying. But when you have power, that's what you call systematic racism. When you have power and you control the media, you can do stuff like that.
+
+</div>
+
+**[Habakkuk 2:4](/bible/habakkuk/2#v4)**  *[[1:00:52](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=3652s)]*
+
+> <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
+
+- Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith. There is no way your soul is right when you can take a sick child, get that person drunk, and just beat the daylight out of them.
+
+- You can understand Rasheed Carter, the one whose skull they cut in half, talking about an animal does that. You understand what kind of bold-faced liar you have to be to make a statement like that? What animal can cut a skull like a chainsaw? Animals crush skulls. And they have the nerve to put that on TV.
+
+- His soul is not upright in him. We all know that Esau is not right. And the hatred that he has towards us is going to be a perpetual hatred. He cannot change who he is.
+
+<div class="reading">
+
+Reading from image number 18, the Nolan Wells audio with the time stamps and the wording  *[[1:03:15](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=3795s)]*
+
+> Oh, you killed him. He's already dead. Is he dead? Yeah. Yells Nolan. Oh my god. Nolan, wake up. Inaudible but clear. Wyatt, get up. Well, get wake up. Get the f up. Damn it, Bart. No. No. Really dead now.
+
+- So, allegedly, if this audio is real, why nobody's in jail? Where's the investigation going? Nowhere. Because you're dealing with what? A murderous, hateful, thievering killer. And it just so happened they're in power.
+
+- You're not fighting one person. Bishop always bring it out. People are talking about the police, the police, the police. Okay, the police, let's say, wrongfully killed you. You got the judge, you got the jury. It's the whole system that let him go free. Yes, he's a bad cop, but it's the whole system that let him go free. So you're not fighting one person. You're fighting a system.
+
+- And your only way out is to what? Dive deep in this book. Stop taking this thing for granted. The opportunities that we have to come here on the Sabbath and sit down and go over scriptures, because the day will come where you're gonna wish you was at an IUIC school. Brothers going to camp and they take it for granted. One day you're going to wish you was able to go to camp.
+
+</div>
 
 **[Romans 10:17](/bible/romans/10#v17)**  *[[1:07:43](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=4063s)]*
 
@@ -158,6 +323,18 @@ The liars.
 
 - Especially Judah. Because Benji is proud: me have me own land, man have a nice banana tree. They boast against Judah. But guess what, you are still a slave too. Because when America said you cannot bring any more doctors from Cuba to come and help you, guess what you did? Yes sir, boss. And Bishop brought it out, the dude asked the question: so you all bad-mouthing Jamaica, so if we say no, can we fight America? Forty percent of our food comes from America. You are still a slave too. Talk about land of wood and water. You have no water, you have no land. We are oppressed together.
 
+<div class="reading">
+
+Reading from an image on Venezuela's oil  *[[1:20:55](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=4855s)]*
+
+> Around half of Venezuela's oil production now goes to the United States. Let this serve as an eye opener to those who still believe that the US isn't a country of thieves.
+
+- The house of the thief. Maduro. They went to Venezuela and kidnapped him. They stole the man, brought him to America. And so, was it a Nike sweatsuit? Immediately the stock went up on that sweatsuit. Everybody wanted it. Lock this dude in jail for things he were not doing, and then now they're stealing all the oil out of Venezuela.
+
+- So let this serve as an eye opener to those who still believe that the US is in a country of thieves. So when the Bible say it's going to enter in the house of the thief and it's going to be cut off, then we know who the thief is.
+
+</div>
+
 **[Jeremiah 22:13](/bible/jeremiah/22#v13)**  *[[1:25:09](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5109s)]*
 
 > <sup>[13](/bible/jeremiah/22#v13)</sup> Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour’s service without wages, and giveth him not for his work;
@@ -176,25 +353,45 @@ The liars.
 
     For he is not a God of the dead, but of the living: for all live unto him. So he is not the God of the dead. So that church is the church of the dead, because they worship the dead.
 
-**[Psalms 58:3](/bible/psalms/58#v3)**  *[[45:26](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=2726s)]*
+<div class="reading">
 
-> <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
+Reading from an article, *Christianity's death toll*  *[[1:30:58](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5458s)]*
 
-- The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies. The wicked are estranged from the womb. They go astray as soon as they be born.
+> Christianity's death toll.
+>
+> The institutions of the Christianity have played a central role in shaping Western history for nearly two millennia, influencing political, social, and cultural developments on a global scale. Alongside its contributions to art, education, and social welfare, the Christianity has also been a catalyst for some of the history's most violent and destructive events.
 
-- So you might be thinking, maybe there is hope for them. Nope. Because what the Bible says, can it be undone? The Bible said we were going to go into slavery. Did we go into slavery? The Bible said we would forget who we were. Did we forget who we were? So if the Bible says they are wicked and as soon as they be born they are speaking lies, that is what it is.
+- Wow. I mean, you can't be God's people if you're known to be so violent.
 
-- Speaking lies. They lie about who they are. They say they are the Jews. Are they the Jews? They say they are the Christians. Are they the Christians? No, they are the devil the Bible speaks of. So you are dealing with a lying nation that still cannot take accountability for all the murdering and the plundering, the thievery and the killing that they have done among our people. Till today you cannot go to school and learn the truth, because till today they teach that Christopher Columbus discovered the world. Do they not have statues of him? Do they not have holidays all over the world on his behalf? Did he actually do any of those things? At the end his own people put him in jail. That is how evil that dude was.
+> From the Crusades and Inquisitions to pogroms and forced conversions.
 
-**[Habakkuk 2:4](/bible/habakkuk/2#v4)**  *[[1:00:52](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=3652s)]*
+- That's a big word right there. Who knows what that word means? See, nobody was going to lift up their hand for that word. They're like, yeah, I got this. That's the problem with Eagles, man. Y'all don't look up words.
 
-> <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
+- Oh, the young men know. Y'all go to school. Y'all got straight A's, right? He's like, straight A's? What's that? He look at me like, hey, I never seen that letter a day in my life. I know it from the word alphabet.
 
-- Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith. There is no way your soul is right when you can take a sick child, get that person drunk, and just beat the daylight out of them.
+- Pull up the word pogroms. Let's research that word. It's a big word.
 
-- You can understand Rasheed Carter, the one whose skull they cut in half, talking about an animal does that. You understand what kind of bold-faced liar you have to be to make a statement like that? What animal can cut a skull like a chainsaw? Animals crush skulls. And they have the nerve to put that on TV.
+</div>
 
-- His soul is not upright in him. We all know that Esau is not right. And the hatred that he has towards us is going to be a perpetual hatred. He cannot change who he is.
+<div class="reading">
+
+Reading from the definition pulled up on the screen  *[[1:32:25](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5545s)]*
+
+> Pogroms. A pogrom is a violent riot or attack directed against a specific ethnic or religious group with a long history of targeting Jewish communities.
+
+- Pause for a second. You see how you read one little word, and that's how clever they are. They're telling the truth, and within the truth they're going to lie. They're going to hide behind big words. That's why you got to look up. When you see words you don't understand, look it up. How the hell that one word mean all that? That's a title.
+
+- When it says Jewish communities, we're not talking about them so-called white people that live in Israel. The true Jews, they used to attack us.
+
+> The word comes from Russian, meaning to demolish violently, or to wreck havoc. These outbreaks typically involve the destruction of homes, businesses, and places of worship, alongside physical violence and murder.
+
+- If you think that was back then, guess what? Read the book of … It's going to happen again. Pogrom is going to happen again. And it's deliberately done against what? A specific group and a people and community, and that group and community was us.
+
+- So Christianity was created to destroy us. How can you be a Christian today? The question still remain.
+
+- Pogrom, that's heavy. See, I just learned something today, right?
+
+</div>
 
 **[Psalms 137:7](/bible/psalms/137#v7)**  *[[1:33:47](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5627s)]*
 
@@ -206,6 +403,18 @@ The liars.
 
 - And look at the definition of pogrom: a violent riot or attack directed against a specific ethnic or religious group. That is what the crusades, the Inquisition and the forced conversions were always against. Us. That is what happened in slavery. It was just a continuation of the crusade. That is why they wore the same mask as the ones in Italy and the ones in Spain, the capirotes. It did not just appear out of thin air.
 
+<div class="reading">
+
+Reading from *Christianity's death toll*, continued  *[[1:36:04](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=5764s)]*
+
+> These actions have resulted in untold sufferings and loss of life. This post seeks to critically examine the death tolls associated with Christianity's direct and indirect actions, placing them with their historical context and exploring the moral and ethical implications of such a legacy.
+
+- It is impossible to say how many people Christianity have killed from their inception all the way up to today, 'cause Christians are still killing people today. Now you might like, what you mean? The KKK. You forgot all the lynching. They're Christians.
+
+- They practice Christianity. They're still killing people till today. They are murderous, evil church. And they never stop.
+
+</div>
+
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:40:37](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6037s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
@@ -215,6 +424,32 @@ The liars.
 - And I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan. It is a blasphemy for them to say they are Jews. They are Khazarian. They come from Ukraine, Poland, Czechoslovakia, Yugoslavia, Germany, Eastern Europe, and migrated to the land of Israel.
 
 - But are the synagogue of Satan. They are the synagogue of Satan because they practise Kabbalah. They practise Zoroastrianism. They have nothing to do with the law. They are pretending to keep the law, but they do not do it according to the law. Look at the little show strings hanging: that is not the law. That little curl on the side: that is not biblical. The yarmulke on their head: that is not biblical. They are not the people of the Lord.
+
+<div class="reading">
+
+Reading from article number 27, on how Jewish people got the land of Israel from the Palestinians, in two pages  *[[1:43:36](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6216s)]*
+
+> How Jewish people got the land of Israel from the Palestinians. The land of Israel was acquired through a combination of legal purchases, international support and conflict. Jewish leaders initiated land purchases in the late 19th and early 20th centuries, aiming to establish a Jewish homeland, which was further supported by the Balfour Declaration and the British Mandate. The 1948 war led to a significant territorial changes and the establishment of Israel, resulting in the displacement of many Palestinians.
+
+- Stop for a second. How did the whites took America? Through war. They went to war with Gad. They went to war with the …, right? How did they take the land of Israel? Through war. 1948 war led to significant territorial changes and establishment of Israel.
+
+- And the same way the natives allowed them to come here and make treaties with them is the same way the Palestinian allowed them to. The first Jewish people that entered that land had Palestinian passports. So that means what? The Palestinian courts and the embassies had to approve their paperwork to come to the land. You let them in, they take your whole freaking house. That's just their nature. So that's not a peaceful people. That's a hateful, murderous, thieving group of people right there.
+
+> Historical context of land acquisition. The acquisition of land in Israel's involves various complex factors.
+>
+> Zionist movement. The late 19th century Zionist movement aimed to establish a Jewish homeland in Palestine, leading to organized land purchases from Arab land owners.
+>
+> Balfour Declaration. In 1917, the British government expressed support for a Jewish homeland in Palestine, influencing international opinion and migration.
+>
+> Land purchases. Between 1882 and 1948, Jewish organizations purchased approximately 1.5 million acres of land, often from absentee Arab land owners.
+>
+> 1948 Arab-Israeli war. Following Israel's declaration of independence, conflict erupted, resulting in the displacement of around 700,000 Palestinians. International …
+
+- So that's not friendly relations right there. So they did not take that land by being friends. Okay, you know what? I'll pay you $5, you give me this. No, no. They murdered people. And notice how clever they are. They're just talking about displacement.
+
+- Now, we can see what's happening today. They call it displacement as well, but we can see the death toll. And we're not going to go into it, but we played them before. We had videos of their own people admitting the amount of killing they did during the first Nakba. So these people are thieves. They're haters and they're killers. And everything that come out their mouth is blasphemy.
+
+</div>
 
 **[Psalms 50:16-20](/bible/psalms/50#v16)**  *[[1:46:17](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=6377s)]*
 
@@ -350,6 +585,20 @@ The liars.
 
 - But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself. But Esau, remember this is concerning Esau. They are different. Till today they are robbing Africa. It never ends. They never have enough. Esau is like the ocean: all the rivers run to it, but it is never full. It rains, rivers run to it, it is never going to be full. That is Esau. They are not like regular grape gatherers. They are not like regular thieves. They want everything. The apple tastes good? I want the tree. I want the land it stands on, because if I plant it in my country it is not going to have the same taste, because it is not the same land. They take everything. That is just their character.
 
+<div class="reading">
+
+Reading from the Talmud, on the screen  *[[2:16:40](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8200s)]*
+
+> What is the punishment of that man?
+>
+> Jesus said to him, he is punished with boiling excrement.
+
+- That's the Jewish man. Frame it deceit right there. That's the Antichrist. Well, remember, scripture say there's many antichrist. All Christians are antichrist. I'm going to say it again. Everyone who practice Christianity is an antichrist. Everyone who's in that synagogue of sin is an antichrist, because you don't know Jesus.
+
+- Let that sink in. So will Antichrist make it to the kingdom? No. So as long as you stay in those dead churches, you ain't make it in the kingdom. So you want to know why the color of Christ matter? That's why it matters. Because once you take that image, you don't have the real doctrine.
+
+</div>
+
 **[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[2:17:34](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=8254s)]*
 
 > <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
@@ -416,6 +665,18 @@ The liars.
 
 - This is why you could have that white friend that is cool. I am pretty sure those boys were cool with Nolan, otherwise he would not have been friends with them for so long. But one day they just transform into who they are. Just like the Bible says we are going to hear a word behind us saying, this is the way, walk ye in it. That is for us. They hear a word behind them: you are the devil, kill him. How many times do you hear dudes say the voice told me to kill him? You hear that all over the news.
 
+<div class="reading">
+
+Reading from a search on the cop in Florida who said he did not know why he shot  *[[2:35:18](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9318s)]*
+
+> Cops said, "I don't know why I shot you" in Florida.
+>
+> The phrase refers to the July 20, 2016 police shooting of Charles Kinsey, an unarmed behavioral therapist in North Miami, Florida. Kinsey was lying on the ground with his hands in the air, trying to protect an autistic patient playing with a toy truck, when an officer shot him in the leg. After he was shot, Kinsey asked the officer why he fired, and the officer replied, "I don't know."
+
+- They don't even know why they do what they do, man. They don't know.
+
+</div>
+
 **[Ezekiel 35:1-6](/bible/ezekiel/35#v1)**  *[[2:35:50](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9350s)]*
 
 > <sup>[1](/bible/ezekiel/35#v1)</sup> Moreover the word of the Lord came unto me, saying,
@@ -451,6 +712,16 @@ The liars.
 - And that man of sin be revealed. That is the thing. That man of sin must be revealed. It is our job to reveal that man of sin. That bloody man, that man full of malice, full of hatred, full of lies, that thieving killer. It is our job to reveal him, because everybody took him as God.
 
 - Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. That is his characteristic. He opposes and exalts himself above everything that is called God. So he made his image to be the image of God, the image of Christ, and the whole world worships him as God.
+
+<div class="reading">
+
+Reading from *The Chosen People from the Caucasus*, the highlighted section  *[[2:40:02](https://www.youtube.com/watch?v=0yyd-1tBSXU&t=9602s)]*
+
+> Nuclear war, environmental pollution, resource rape, all are primary threats to our survival, and all are the result of peculiar Caucasoid behavior, Caucasoid values and Caucasoid psychology.
+>
+> There is no way to avoid the truth. The problem with the world is white men.
+
+</div>
 
 ## In Closing
 

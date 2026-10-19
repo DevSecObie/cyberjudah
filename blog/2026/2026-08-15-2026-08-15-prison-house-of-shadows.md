@@ -23,26 +23,19 @@ We are back, brothers. Get your pen and paper. We got another good one today. An
 
 Today's lesson is called Prison House of Shadows. Today is going to be an eye-revealing class. A spiritually awakening class.
 
-Snapshot read in class: "In the Bible, the word prison is used both literally and figuratively. Literally, it refers to a place where people were held captive, such as Joseph, Jeremiah, John the Baptist and Paul. Figuratively, it describes spiritual bondage, oppression or slavery, being under the dominion and control of another people or nation, being trapped by sin, fear, suffering or disobedience."
+<div class="reading">
 
-Now, those are the two ways prison is used in the Holy Bible. There is a literal meaning, and then there is a figurative meaning. Everybody got that. And it is amazing, and I know this is of the Lord, because many of our classes coincide. Bishop Yawasap's class and Deacon Malachi's class today touched on the same thing. What I am going over flows perfectly with what they went over today.
+Reading from a snapshot on the word prison in the Bible · read by Captain Yuri  *[[15:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=910s)]*
+
+> In the Bible, the word prison is used both literally and figuratively. Literally, it refers to a place where people were held captive, such as Joseph, Jeremiah, John the Baptist, and Paul. Figuratively, it describes spiritual bondage, oppression or slavery, being under the dominion and control of another people or nation, being trapped by sin, fear, suffering, or disobedience.
+
+- Now, those are the two ways prison is used in the Holy Bible. There's a literal meaning, then there's a figurative meaning. Everybody got that?
+
+</div>
+
+And it is amazing, and I know this is of the Lord, because many of our classes coincide. Bishop Yawasap's class and Deacon Malachi's class today touched on the same thing. What I am going over flows perfectly with what they went over today.
 
 ## In The News
-
-The results of slavery.
-
-- Read in class, on systemic racism: "Systemic racism can contribute to a range of psychological, emotional, social and physical harms among black people. Experiences vary, and not every black person experiences these effects. Low self-esteem and diminished self-worth."
-- Pause right there. Low self-esteem. Let me tell you something, brother. When you see the black woman with dead hair on her head, and when I say dead hair I mean animal hair she bought from the Chinese, that is low self-esteem, diminished self-worth. That is mental trauma. She will tell you, no, I love myself. No, you do not, sis. You have dead animal hair on your head. You have hair trying to look like the white woman. That is trauma. That is low self-esteem. That is mental slavery right there. And when you have our people that do that bleaching, and I am not talking about clearing up hyperpigmentation, I am talking about trying to change your complexion 100 percent, that is low self-esteem, diminished self-worth. And those same people will say, I love myself. No, you do not. This is all a result of slavery.
-- "Internalised racism, such as absorbing negative stereotypes about blackness." That is why when you go to church, everything good and holy is white and pure, and everything black is evil.
-- "Chronic stress and racial battle fatigue. Anxiety, depression and feelings of hopelessness." You have brothers and sisters who are on medication for anxiety, depression, feelings of hopelessness. All of this is a result of what we went through in the past where we got no therapy for it. Little Billy, the white kid, just saw a shooting at Sandy Hook. The kids that did not get put to death, they all went through therapy. But wait a minute. We saw people killed all the time growing up. Where is our therapy? We suffer from generational curses. Where is our therapy? Brothers, sisters, our only therapy is the Holy Bible. That is the only thing.
-- "Hypervigilance, or constantly anticipating discrimination or danger." You go on a job interview and that goes through your mind. I hope they do not discriminate against me for the way I look, the way my hair is.
-- "Trauma from racial harassment, violence and discrimination. Fear and mistrust of institutions, including police, schools, healthcare and government." Wait, what do you mean healthcare? There have been medical things that came up where Edomite doctors believe black people do not feel the same amount of pain as white folks, and they do not give us as much anaesthesia as necessary.
-- "Anger, grief and emotional exhaustion. Identity conflict or shame, especially when dominant social messages devalue black culture." Identity conflict or shame: when our people identify with other races before they do their own people. You ever notice, when we go to London, they all have that British accent over there. We assimilate to the dominant culture.
-- "Pressure to code switch or suppress aspects of one's identity." Black people, we always code switch. We act one way amongst each other, but when we get among Esau we put on a different voice. We straighten up. You know what I am talking about, because we all do it.
-- "Social isolation or difficulty feeling a sense of belonging. Intergenerational trauma, where the effects of historical and ongoing racism affect families across generations." See that? A lot of you think Deuteronomy 28 does not affect us. This is telling you it is intergenerational trauma passed down. It goes across whole generations.
-- "Economic and housing insecurity, which can increase stress and limit opportunities. Educational and workplace stress, including being stereotyped, overlooked, or held to unequal standards. Health impacts such as sleep problems, elevated stress and increased risk of stress-related illness." Some brothers, they say you have sleep apnoea. You have problems going to sleep, you need medication. Why? You are always troubled. You are always stressed. And you cannot identify why. High blood pressure.
-- "Exposure to community grief and collective trauma from repeated racial violence and injustice."
-- This is the proof. Slavery is still on us mentally. This is for everyone that thinks they are free. Like I did an interview with Jason Whitlock. He said, I make ten million dollars a year, I am free, I am not oppressed, I do not play that victim stuff that you guys do. Same thing Brandon Tatum does.
 
 Sixty-two years since civil rights.
 
@@ -53,12 +46,10 @@ Sixty-two years since civil rights.
 
 H. Rap Brown.
 
-- How many of you have heard of H. Rap Brown? Fourteen people. Rap Brown was part of the revolutionary group called SNCC. This was his wanted poster by the FBI. His original name was Hubert Gerold Brown. Time magazine: "The many lives of H. Rap Brown. Civil rights activist Dick Gregory, left, and musician Otis Redding flank H. Rap Brown at an August 1967 convention in Atlanta."
+- How many of you have heard of H. Rap Brown? Fourteen people. Rap Brown was part of the revolutionary group called SNCC. This was his wanted poster by the FBI. His original name was Hubert Gerold Brown.
 - Interview clip, on voting: "Politics as defined by the geographical and influential spheres of this country is irrelevant to black people and it is irrelevant to the masses of people. The vote has been used as a tool of oppression against black people. Camus raises a very good point when he says, what better way to enslave a man than give him the vote and call him free. It does not profit black people or poor people anything to have the vote and not be able to select the candidates who they want to choose. Now, how can you choose between Lyndon Johnson, Nixon, Agnew, Wallace and Humphrey? There is no choice. Evil is evil. There is nothing in between that. I think the vote can only be used as a tool of organisation. We can only use the vote to organise our people. To really believe that we can put someone in office and that these people would be responsive to our needs is politically naive, because even if one of the black candidates who ran for office were to take the office of president, then black people must be prepared to fight against that person. Because the system mandates the action of the individual. The individual does not determine how this country will function. This country works off the military-industrial complex, which means that it is profitable to wage war. And unless you devise another plan to boost this economy, then it is going to be necessary to wage war whether a black individual is in office or a white individual is in office."
 - So unless you change the system completely there is no way it will benefit black people. Whether you had a black candidate in office like with Obama, what did he really do for black people? Nothing. And you have black women screaming, he is our Moses. No, he is not. Whoever sits in that seat will do the bidding of the powers that be that sit behind them, and what they call the shadow government. What better way to enslave a people than to give them the vote and make him think he is free. I am free, I could vote for who I want. But the candidates you are voting for are the ones they want you to vote for. And nobody sees a problem with that.
-- Report on his case: "This imprisoned Black Panther leader is seeking a retrial after another man confessed to the crime on tape. Imam Jamil Al-Amin, formerly known as H. Rap Brown, in the 1960s was chairman of the Student Nonviolent Coordinating Committee." His own words: "There is no in between. You are either free or you are a slave. There is no such thing as second class citizenship. For black people, justice is a joke. There is no such thing as justice in this country. For black people, the courts are a tool of oppression."
-- "Al-Amin was involved with multiple black liberation groups. In 2002 he was sentenced to life in prison after being convicted of the murder of a police officer. Al-Amin's family and supporters say the trial was unfairly executed. Al-Amin has served 20 plus years in prison, most of which were in solitary confinement. Al-Amin has maintained his innocence since he was first charged, but an unofficial gag order prevents him from speaking to news media. There is another man who has been confessing to this crime for 21 years. Otis Jackson confessed to the murder on paper months after it occurred, and again on tape as part of his testimony in an unrelated trial in 2019. However, Jackson's confessions were never presented to the jury. He has been telling us for 21 years in numerous different ways, from affidavit to handwritten to testifying to FBI agents to now on camera. More than 70,000 people have signed a petition calling for a new trial." His son: "It is very draining, but it cannot be harder than what he is doing. It is a fight that we fight until we win or until there is no reason to fight any more."
-- Can you imagine being convicted of a crime and somebody else says, no, I did it, I am the one that did it, and they ignore that guy and arrest H. Rap Brown? This is crazy. He died last year.
+- The report on his case played his own words: "There is no in between. You are either free or you are a slave. There is no such thing as second class citizenship. For black people, justice is a joke. There is no such thing as justice in this country. For black people, the courts are a tool of oppression." On Otis Jackson: "There is another man who has been confessing to this crime for 21 years. He has been telling us for 21 years in numerous different ways, from affidavit to handwritten to testifying to FBI agents to now on camera." His son: "It is very draining, but it cannot be harder than what he is doing. It is a fight that we fight until we win or until there is no reason to fight any more."
 
 Evangelical racial reconciliation.
 
@@ -70,38 +61,15 @@ The Southern Poverty Law Center.
 - Heidi Beirich: "What we try to do is bust up the groups. We try to sow discord among the organisations. Show that the people who lead these organisations are hypocrites and so on, to give people a chance to look at what they have gotten involved in and maybe reconsider it. The number one thing I would say that drives people out of hate groups is seeing their leadership corrupt. I am optimistic in the long run and I am extremely pessimistic in the short run. Some of the racial strife that we have been experiencing over the last year are all related to our inability to digest the fact that this country is changing and white people are not going to be the majority here."
 - If you remember, in 2018 you had brothers from IUIC join with her against Israel United in Christ and say we were a cult and evil. That dude Mark, and it was not just him, you had Uzziah. There is going to be a heavy judgment on him and his family. And the black lady that is interviewing her did not pick up that thing she just said, that white people will not be the majority. Why should that even be an issue? She did not pick up on it.
 - The list. That is the list she put us on, from the SPLC and the Anti-Defamation League. They have us number three as America's largest hate group. Go all the way down to the bottom. Look who is on the bottom. The Ku Klux Klan is on the bottom. You do not see anything wrong with that? This is how they put us on a list, and we have never burned a cross on anybody's lawn. We have never been in a conspiracy to murder anybody. We have never been involved in systematic racism to harm and get people fired. That is what they do. But they have the nerve to put us on this list. And they will have black people, our own people, believe this garbage. We will do videos that say Israel United in Christ is just as bad, if not worse, than the Ku Klux Klan. What church have we ever bombed and killed four little girls? Who have we dragged with a truck? Who have we hung? Nobody.
-- Then the arrest: "Holy crap. Heidi Beirich, the former CFO of the Southern Poverty Law Center, was arrested on fraud charges after sending secret payments to individuals inside quote unquote white supremacist groups." She was funding white supremacy groups. That is why they had us number three and the KKK at the bottom. Prayer works. You are going to understand something about us in these last days. We are the prophets. Stop playing with the prophets. That is why Bishop said pray three times a day and ask for judgment. You keep playing with us, things are going to happen.
-- Article: "Exclusive. Former employee at Southern Poverty Law Center arrested on fraud charges. A former employee of the Southern Poverty Law Center has been arrested in California on charges that she oversaw secret payments to informants inside of white supremacist groups, one of whom she was allegedly living with and had a romantic relationship with at the time. The woman, Heidi Beirich, previously ran the SPLC's project tracking hate groups in the US. The Justice Department has alleged that the program, which is no longer running, defrauded donors who did not realise they were helping to pay individuals inside the same groups that the SPLC aimed to root out. Beirich allegedly oversaw payments of donors' money to people inside of these hate groups according to an indictment unsealed Wednesday. She also allegedly shared a bank account with one of those sources which included funds from the SPLC's payments." Attorney General Todd Blanche: "I believe she was part of the effort to open bank accounts in completely fictitious companies' names and make payments to individuals for reasons that were not accurate as described." She has been charged as part of a superseding indictment with wire fraud conspiracy, conspiracy to submit false statements to a federally insured bank, and conspiracy to conceal money laundering.
-- And she was with the Imperial Wizard. "Despite her role in overseeing the payments, some of which were directed to an imperial wizard in the KKK, Beirich allegedly had a romantic relationship with one source who infiltrated a white supremacy group and stole documents for the SPLC. That person, prosecutors say, was paid over one million dollars by the SPLC since 2007, $147,000 of which was put into a bank account that Beirich and the person shared. Beirich allegedly used that money to pay for their personal living expenses. The documents that person allegedly stole were used as part of an article that the SPLC later published. Beirich then allegedly paid a second informant $6,000 to take the fall for the stolen documents."
-- "Hooded, one-legged imperial wizard, true believer and cleaning lady who show no signs of reform. Bradley Scott Jenkins, right, with a prosthetic leg, is referred to as unknown in court documents. He is one of eight hate group leaders the SPLC is accused of funnelling millions of dollars to. In April, the Post unmasked other informants mentioned in the indictment, including a one-legged imperial wizard in the KKK named Bradley Scott Jenkins, who received money from SPLC while reconstituting a once defunct KKK splinter group, as well as a Georgia mother named April Chambers, a KKK member who runs a home cleaning business. He was seemingly happy to take the nonprofit's money while revitalising the UKA, a once defunct Alabama-based KKK splinter group, described on the SPLC's website as a millennial reboot of what was once a serious domestic threat. In the 60s, UKA had been responsible for many racist attacks and the 16th Street Baptist Church bombing in Birmingham, Alabama, which resulted in the deaths of four little girls in 1963."
-- How are you going to compare us to that? We have never done it. But she was funding these people. The SPLC was funding them. And our people in Christianity, you were believing the SPLC against Israel United in Christ. Shame on all of you. And a lot of us never asked ourselves, the KKK, we were thinking it was only men under those hoods. Who was making those hoods? It was women like her.
-
-The economics of the yoke.
-
-- Looked up in class: "Jamaica receives roughly 85 million to 103 million dollars annually in standard baseline official development assistance." And on food: "The United States supplies roughly 40 percent of all food and agricultural products imported by Jamaica, totalling around 590 million dollars annually." I bet some of you did not know that. You thought Jamaica, we are independent, we are free. No. What scripture does that go with? Deuteronomy 28:48. Very good.
-- Take out Jamaica and put in Trinidad: "America does not typically donate food to Trinidad and Tobago, but Trinidad and Tobago buys roughly 40 percent of its imported food, valued at over 400 million US dollars annually, from the United States through commercial trade." I bet you did not know that either. You thought you were free. You are not free.
-
-The bombs.
-
-- Read in class: "In 2016, during the final year of Barack Obama's presidency, the United States military dropped an estimated 26,171 bombs across seven different countries." Stop right there. You are going to read that and let white people talk about black-on-black crime? Pooky and Ray Ray, that is not a conversation. This is the conversation. Pooky and Ray Ray never did devastation like this.
-- "According to an analysis of Defense Department data published by the Council on Foreign Relations, the breakdown of US bombs dropped in 2016 included Iraq 12,192 bombs, Syria 12,178 bombs, Afghanistan 1,337 bombs, Libya 496 bombs, Yemen 34 bombs, Somalia 14 bombs, Pakistan 3 bombs. The total equates to roughly 72 bombs dropped every single day of that year, or three bombs every hour."
-- On civilian deaths: "The precise number of civilians killed by the 26,171 US bombs dropped in 2016 is heavily disputed, with a vast discrepancy between official US military estimates and independent conflict monitors. While the official US Pentagon data acknowledged only a few hundred civilian deaths for the entire anti-ISIS campaign spanning multiple years, independent watchdog organisations estimate that between 1,500 and over 4,000 civilians were killed by US and coalition air strikes in 2016 alone." In 2016 alone. Do not talk about Pooky and Ray Ray ever again. And you know how we know these numbers are a lie: that is the murderer investigating his own crime. Like Deacon Malachi said, you cannot have the oppressor investigate themselves, because they are always going to give you a very low number.
-- "President Donald Trump has ordered direct military strikes and bombings in 10 different countries across his first term, 2017 to 2021, and his second term. This represents the highest number of individual nations targeted by air and drone strikes of any US president in the 21st century." So Obama did seven countries, Trump did ten. So, brothers, never let them use that talking point about black-on-black crime compared to this.
 
 Venezuela, Cuba and Jamaica.
 
 - Report: "Two and a half hours. That is all it took, after months of planning, for the US to snatch Venezuelan President Nicolas Maduro and his wife. They called it Operation Absolute Resolve. For months, CIA spy drones had been tracking Maduro's movements. It started at 11:46pm when Donald Trump gave the order. Step one, clear an air corridor. The US military smashed Venezuela's air and aviation defences. This also included communication centres. This would allow more than 150 US aircraft to be deployed alongside helicopters to carry its elite Delta Force troops tasked with snatching Maduro. By 2:01am US troops were approaching Maduro's compound in Fuerte Tiuna. A replica of the compound had been built in the US. Gun battles broke out and much of Maduro's security detail were killed. In the last moments before Maduro's capture he tried to run for a safe room but could not close the door in time. By 4:29am the American Air Force took Maduro and his wife back to the US Navy ships waiting in the Caribbean. For the US it was undoubtedly a successful exercise of naked power."
-- Remember Venezuela used to send fuel to Cuba. Once America shut down Venezuela, the fuel to Cuba ended. Report: "Starved of fuel, Cubans scramble to make ends meet. Cubans are switching jobs and ditching their cars amid blackouts and fuel shortages as a US-imposed oil blockade on the island upends their lives. Washington has stopped Venezuela from shipping oil to Cuba since it toppled Caracas' leftist leader Nicolas Maduro in January. The result is a crushing energy crisis in a country that has long battled shortages." A resident: "Food will become scarce if the trucks stop coming. We start working at 9 in the morning and by 12 noon we have to close because there are no goods, no food, because there is no fuel to bring them."
 - On Cuba's doctors: "Cuba's healthcare system is sometimes considered as one of the best around the world, even surpassing those of higher income countries. In Cuba there is one doctor for about every 155 people, a ratio much higher than places like Italy, Canada, the UK and the US. And since the 1959 revolution, Cuba has sent up to 400,000 doctors across the globe to respond to disease outbreaks and other medical crises. Those medical missions provide free or low-cost care and are often seen as a lifeline for communities across the global south. In fact, Cuba provides lower income countries with more medical staff than all the G7 countries put together. Today there are about 24,000 Cuban doctors stationed in more than 50 countries. But now the US is putting pressure on other countries to put their practice to a stop, claiming the medical outreach programs are forced labour and threatening sanctions against governments that participate. The prime minister of St Lucia was quoted saying the US had even ordered the country to stop sending its medical students to Cuba. The UN warns that new moves by the US, like cutting off Cuba's supplies of oil, have put Cuba on the verge of humanitarian collapse."
 - So St Lucia was sending medical students to learn, and America made them stop, threatening sanctions.
 - And a Jamaican asking the harder question: "Everybody online is saying Jamaica bowed down to the United States when we ended the Cuban doctors program. But let us slow down for a second, because for almost 50 years Cuban doctors helped keep parts of Jamaica's healthcare system alive. Now suddenly the program ends right when the United States starts putting pressure on countries using Cuban medical missions. So the question is simple. If the pressure was real, what exactly was Jamaica supposed to do? Because people like to talk tough online. Don't bow down to America. Okay. But what happens after you refuse? If Jamaica said no to the United States, would Jamaica face visa restrictions, economic pressure, trade consequences, or diplomatic isolation? And if that pressure came down hard, who would stand beside Jamaica? Definitely not England. Would CARICOM step in? Would the Caribbean unite and protect Jamaica from America? Would another country send hundreds of doctors overnight? Or would Jamaica be left standing alone? Because it is easy to shout, don't bow, but leadership means asking the harder questions."
 - Now I thought that was a good question. Because remember, America gives 40 percent of the food to Jamaica. And Trump said if you keep Cuban doctors over there, we will cut you off from your food. So how long would the rest of their food last for Jamaica? To be a leader you have to make hard decisions. And sometimes you might not like those decisions, but you have to look out for the masses of the people.
 - And the US strikes on Iran's three nuclear facilities using GBU-57 bombs. All this falls into Isaiah 14 that we are reading. We never ask how many civilians are being put to death.
-
-The political prisoners.
-
-- The Guardian, published eight years ago and still relevant: "The 19 black radicals who are still in prison after four decades. Some African-American rebels, including Mumia Abu-Jamal and members of MOVE, are still incarcerated for their actions during the 1970s black liberation struggle." Mumia Abu-Jamal, aka Wesley Cook, former Black Panther. Delbert Africa, Eddie Goodman Africa, Janet Holloway Africa, Janine Phillips Africa, of the MOVE organisation. Jalil Muntaqim, aka Anthony Bottom, former Black Panther and Black Liberation Army member. Mutulu Shakur. Russell Maroon Shoatz, former Black Panther. Sundiata Acoli, aka Clark Squire. Michael Davis Africa. Joseph Bowen. Veronza Bowers Jr. Fred Muhammad Burton. Romaine Chip Fitzgerald. Ruchell Cinque Magee. Ed Poindexter. Kojo Bomani Sababu, aka Grailing Brown. Kamau Sadiki, aka Freddie Hilton.
-- And think about this: many of them incarcerated are not allowed visitors. You are in solitary confinement, not allowed visitors. Family or friends cannot come and speak to you. And if you notice, every last one of them says convicted of the murder of a police officer. Every last one of them. And I do not believe that. They all got the same crime. It makes no sense. And people on YouTube like to talk. Nobody on YouTube right now will do or stand up for what these people have done to help black people. And some of you right now are saying, but what about their crimes? That was crimes? You believe the oppressor, that lying race, and everything they say. Oh, they murdered the cop. That is a lie. I guarantee you there is no evidence on most of that stuff.
 
 Planet of the Apes.
 
@@ -120,6 +88,84 @@ Planet of the Apes.
 - And he shall put a yoke of iron upon thy neck, until he have destroyed thee. The yokes of iron came off our necks when we were totally destroyed as a people, as a nation, as a race. The yokes of iron literally came off, but they are on our minds figuratively, spiritually, mentally.
 
 - These are people, and our people really think they are free. You walk around with nice suits, your bow ties, you go to church, you go to work, but your mind is still captive. That is what Deuteronomy 28 is saying. So the white man did not release us literally from slavery until he knew we were mentally destroyed. He said, this people will never unite, this people will never rise up against us, they are destroyed. We have been destroyed in this system.
+
+<div class="reading">
+
+Reading from a page on systemic racism, the results of slavery · read by Captain Yuri  *[[19:04](https://www.youtube.com/watch?v=maQroMAMqbw&t=1144s)]*
+
+> Systemic racism.
+
+- Pay close attention. This for everyone that thinks they're free. Like I did an interview with Jason Whitlock. He said, "I make $10 million a year. I am free. I am not oppressed. I don't play that victim stuff that you guys do." Same thing Brandon Tatum does.
+
+- This is the proof. Slavery is still on us mentally.
+
+> Systemic racism can contribute to a range of psychological, emotional, social, and physical harms among black people.
+
+- And when it talks about black people, that's your Latinos as well.
+
+> Experiences vary, and not every black person experiences these effects.
+>
+> Low self-esteem and diminished self-worth.
+
+- Pause right there. Low self-esteem. Let me tell you something, brother. When you see the black woman with dead hair on her head, when I say dead hair, meaning animal hair she bought from the Chinese, … low self-esteem, diminished self-worth. That's mental trauma. She'll tell you, "No, I love myself." No, you don't, sis. No, you don't. You got dead animal hair on your head. You got hair trying to look like the white woman. That is trauma. That is low self-esteem. That's mental slavery right there.
+
+- When you got our people that do that bleaching, I ain't talking about you clearing up hyperpigmentation. I'm talking about you trying to change your complexion 100%. That's low self-esteem, diminished self-worth. And those same people will say, "I love myself." No, you don't. No, you don't. This is all a result of slavery.
+
+> Internalized racism, such as absorbing negative stereotypes about blackness.
+
+- That's why when you go to church, everything good and holy is white and pure. Everything black is evil.
+
+> Chronic stress and racial battle fatigue. Anxiety, depression, and feelings of hopelessness.
+
+- Now, each one of these, we could spend hours on each one of these things.
+
+- You see that hopelessness? You got brothers and sisters who are on medication for anxiety, depression, feelings of hopelessness. All of this is a result of what we went through in the past where we got no therapy for it. Little Billy the white kid just saw a shooting at what's that school where everybody got killed, the kids? Sandy Hook. The kids that did not get put to death, they all went through therapy. But wait a minute. We see people killed all the time growing up. Where's our therapy? We suffer from generational curses. Where's our therapy? Brothers, sisters, our only therapy is the Holy Bible. I'm telling you, this the only thing. So, anxiety, depression, and feelings of hopelessness. Our people are on medication for them things right there.
+
+> Hypervigilance, or constantly anticipating discrimination or danger.
+
+- You know, when you go on a job interview, that goes in your mind. I hope they don't discriminate against me for the way I look, the way my hair is. That's the first thing goes through your mind.
+
+> Trauma from racial harassment, violence and discrimination.
+>
+> Fear and mistrust of institutions, including police, schools, healthcare,
+
+- Wait, what do you mean healthcare? There have been medical things that came up where doctors, Edomite doctors, believe that we don't feel the same amount of pain as white folks, and they don't give us as much anesthesia as necessary for us.
+
+> and government.
+>
+> Anger. Grief. And emotional exhaustion.
+>
+> Identity conflict or shame,
+
+- Identity conflict or shame. When our people identify with other races before they do their own people, all of this is a result of systematic racism.
+
+> especially when dominant social messages devalue black culture.
+
+- You ever notice, like when we go to London, they all have that British accent over there. We assimilate to the dominant culture.
+
+> Pressure to code switch or suppress aspects of one's identity.
+
+- Black people, we always code switch. We act one way amongst each other, but when we get among Esau, we put in a different voice. We straighten up. Y'all know what I'm talking about, 'cause we all do it.
+
+> Social isolation or difficulty feeling a sense of belonging.
+>
+> Intergenerational trauma, where the effects of historical and ongoing racism affect families across generations.
+
+- See that? A lot of you, we think Deuteronomy 28 don't affect us. This is telling you it's intergenerational trauma passed down. It goes across whole generations.
+
+> Economic and housing insecurity, which can increase stress and limit opportunities. Educational and workplace stress, including being stereotyped, overlooked, or held to unequal standards.
+
+- Held to unequal standards.
+
+> Health impacts such as sleep problems, elevated stress, and increased risk of stress-related illness.
+
+- Some brothers, it says you got sleep apnea. You got problems going to sleep. You need medication. Why? You're always troubled. You're always stressed. And you can't identify why.
+
+- High blood pressure.
+
+> Exposure to community grief and collective trauma from repeated racial violence and injustice.
+
+</div>
 
 **[Revelation 11:8](/bible/revelation/11#v8)**  *[[25:16](https://www.youtube.com/watch?v=maQroMAMqbw&t=1516s)]*
 
@@ -237,6 +283,58 @@ Planet of the Apes.
 
 - Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished. So that starts off with Esau. He is the proudest nation on the planet. But then you join yourself and you say, we sick boss, our house on fire boss. You associate yourselves with him. The Bible says he shall not be unpunished. He is still going to get it. And so are you.
 
+<div class="reading">
+
+Reading from *Time* magazine, *The many lives of H. Rap Brown* · read by Captain Yuri  *[[46:33](https://www.youtube.com/watch?v=maQroMAMqbw&t=2793s)]*
+
+> The many lives of H. Rap Brown.
+>
+> Civil rights activist Dick Gregory, left, and musician Otis Redding flank H. Rap Brown at an August 1967 convention in Atlanta.
+
+- Now H. Rap Brown, he changed the name to an Islamic name. We going to get to that in a minute. But he was a powerful and dynamic speaker and spokesman.
+
+</div>
+
+<div class="reading">
+
+Reading from the on-screen text of a report on H. Rap Brown's case · read by Captain Yuri  *[[49:57](https://www.youtube.com/watch?v=maQroMAMqbw&t=2997s)]*
+
+> This imprisoned Black Panther leader is seeking a retrial
+
+- That's H. Rap Brown. His name is at the bottom. Jamil Al-Amin.
+
+> after another man confessed to the crime on tape.
+
+- So that brother right there, he confessed to the crime on video.
+
+> Imam Jamil Al-Amin, formerly known as H. Rap Brown, in the 1960s, was a chairman of the Student Nonviolent Coordinating Committee.
+
+> Al-Amin was involved with multiple black liberation groups. In 2002, he was sentenced to life in prison after being convicted of the murder of a police officer,
+
+- There's that BS again.
+
+> Al-Amin's family and supporters say the trial was unfairly executed.
+>
+> … Al-Amin was the schoolboy in the courtroom watching in disbelief as a jury convicted his father of murder.
+>
+> Al-Amin has served 20 plus years in prison, most of which were in solitary confinement. Al-Amin has maintained his innocence since he was first charged, but an unofficial gag order prevents him from speaking to news media.
+>
+> Otis Jackson confessed to the murder on paper months after it occurred and again on tape as part of his testimony and unrelated trial in 2019.
+>
+> However, Jackson's confessions were never presented to the jury.
+>
+> More than 70,000 people have signed a petition calling for a new trial. … says he is hopeful that his dad will soon be set free.
+>
+> Al-Amin supporters share case updates on …
+
+- Can you imagine being convicted of a crime and somebody else to say, "No, I did it. I am the one that did it," and they ignore that guy and arrest H. Rap Brown? This brother, this is crazy.
+
+- That's why I said, "When this is over, I'll breathe differently." He said, "I'll have less stress." Like all the things we were reading about the cause of the psychological effects of slavery, the trauma we suffer from.
+
+- Oh, he died last year. H. Rap Brown died last year.
+
+</div>
+
 **[Lamentations 3:22-26](/bible/lamentations/3#v22)**  *[[55:03](https://www.youtube.com/watch?v=maQroMAMqbw&t=3303s)]*
 
 > <sup>[22](/bible/lamentations/3#v22)</sup> It is of the Lord’s mercies that we are not consumed, because his compassions fail not.
@@ -281,7 +379,7 @@ Planet of the Apes.
 
 - People say, I am praying. That pastor said his niece had brain cancer. He prayed and prayed, fasted and fasted, and God still allowed her to die, and he lost his faith as a result. Sometimes the Lord is not hearing our prayers. Why? Because of the way we are, the things we do. So what happens, happens. Get mad if you want. King David understood that when he committed adultery with Bathsheba and they had the baby, God told David, your baby, I am going to kill that child. What did David do? He prayed. He fasted. He cried. God still took the child. What did David do? Wiped his eyes, washed up, went and had some supper. They said, how come now that the baby died you want to eat? He said, there is nothing I can do now. God made his call. He made his decision. That is it. That is how we all have to be like King David was. Do not be like these fake Christians and pastors: oh, God killed my mama, so now I hate God, I hate what the Bible says. You know the souls of our people do not die.
 
-- Thou hast made us as the offscouring and refuse in the midst of the people. Looked up in class: offscouring is a rare noun that means physical dirt or refuse cleaned off an object, or a person rejected by society as an outcast. Literal waste, dirt, grime or scum scrubbed off a dirty surface. Social outcast, a person treated as scum, trash, or a pariah by society. Biblical use found in older translations like the King James Bible, such as 1 Corinthians 4:13 and Lamentations 3:45, to describe how lowly or despised the apostles and the people of Jerusalem felt.
+- Thou hast made us as the offscouring and refuse in the midst of the people.
 
   Precepts:
   - **[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**
@@ -296,6 +394,32 @@ Planet of the Apes.
     > <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 
     What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. I would not know what sin is but by the law. I would not know what lust is. By studying the word of God you are able to self-examine. You are able to search and try your ways.
+
+<div class="reading">
+
+Reading from a definition of offscouring  *[[1:01:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=3670s)]*
+
+> Offscouring is a rare noun that means physical dirt
+
+- So we're like dirt.
+
+> or refuse
+
+- Or refuge. That's doodoo.
+
+> cleaned off an object, or a person rejected by society as an outcast.
+
+- See that?
+
+> Meanings in context. Literal waste. Dirt, grime, or scum scrubbed off a dirty surface.
+
+- Scum. That word scum.
+
+> Social outcast. A person treated as scum, trash, or a pariah by society.
+>
+> Biblical use, found in older translations like the King James Bible, such as 1 Corinthians 4:13 and Lamentations 3:45, to describe how lowly or despised the apostles and the people of Jerusalem felt.
+
+</div>
 
 **[Lamentations 3:46-55](/bible/lamentations/3#v46)**  *[[1:02:26](https://www.youtube.com/watch?v=maQroMAMqbw&t=3746s)]*
 
@@ -461,6 +585,86 @@ Planet of the Apes.
 
 - Now, to the white man: you dig your pits secretly, you are going to fall therein, thus saith the Lord. And he that rolleth a stone, you white folks that roll a stone to fall on us, on our heads, it will return upon him. That stone is going to roll back and roll you down.
 
+<div class="reading">
+
+Reading from a post on the arrest of Heidi Beirich · read by Captain Yuri  *[[1:27:27](https://www.youtube.com/watch?v=maQroMAMqbw&t=5247s)]*
+
+> Holy crap. Heidi Beirich, the former CFO of the Southern Poverty Law Center, was arrested on fraud charges after sending secret payments to individuals inside quote unquote white supremacist groups.
+
+- She was funding white supremacy group. That's why they had us number three and the KKK number on the bottom.
+
+- Heidi Beirich, that's her right there. Her ugly self.
+
+</div>
+
+<div class="reading">
+
+Reading from an article, *Exclusive: Former employee at Southern Poverty Law Center arrested on fraud charges* · read by Captain Yuri  *[[1:28:55](https://www.youtube.com/watch?v=maQroMAMqbw&t=5335s)]*
+
+> Exclusive. Former employee at Southern Poverty Law Center arrested on fraud charges.
+
+> A former employee of the Southern Poverty Law Center has been arrested
+
+- Wasn't she the CFO? Now she's just an employee.
+
+> in California on charges that she oversaw secret payments to informants inside of white supremacist groups, one of whom she was allegedly living with and had a romantic relationship with at the time.
+
+- Y'all see this? Do you see this? And she talking about revealing hypocrisy of the groups. I can't say the words I want to say, but B, you was the biggest hypocrite there was.
+
+> The woman, Heidi Beirich, previously ran the SPLC's project tracking hate groups in the US. The Justice Department has alleged that the program, which is no longer running, defrauded donors who did not realize they were helping to pay individuals inside the same groups that the SPLC aimed to root out. Beirich allegedly oversaw payments of donors' money to people inside of these hate groups, according to an indictment unsealed Wednesday. She also allegedly shared a bank account with one of those sources, which included funds from the SPLC's payments.
+>
+> "I believe she was part of the effort to open bank accounts in completely fictitious companies, names, and make payments to individuals for reasons that were not accurate as described," Attorney General Todd Blanche said at a news conference Wednesday. "This is exactly what we said would happen in a case like this, which is that our investigators and the US attorneys and the agents working the case will can keep on working it even after the initial indictment."
+>
+> Beirich has been charged as part of a superseding indictment with wire fraud conspiracy, conspiracy to submit false statements to a federally insured bank, and conspiracy to conceal money laundering.
+
+</div>
+
+<div class="reading">
+
+Reading from another article on her arrest · read by Captain Yuri  *[[1:31:39](https://www.youtube.com/watch?v=maQroMAMqbw&t=5499s)]*
+
+> Despite her role in overseeing the payments, some of which were directed to an imperial wizard in the KKK,
+
+- She was banging the Imperial Wizard. That's high up there. That's the top top.
+
+> Beirich allegedly had a romantic relationship with one source who infiltrated a white supremacy group and stole documents for the SPLC, according to the indictment.
+>
+> That person, prosecutors say, was paid over $1 million by the SPLC since 2007, $147,000 of which was put into a bank account that Beirich and the person shared. Beirich allegedly used that money to pay for their personal living expenses.
+>
+> The documents that person allegedly stole were used as part of an article that the SPLC later published. Beirich then allegedly paid a second informant $6,000 to take the fall for the stolen documents.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on the informants the SPLC paid · read by Captain Yuri  *[[1:33:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=5590s)]*
+
+> Hooded, one-legged imperial wizard, true believer and cleaning lady who show no signs of reform.
+
+- Let's get the picture of this dude. That's him on the right with one leg. He got a fake prosthetic leg there.
+
+> Bradley Scott Jenkins, right, with a prosthetic leg, is referred to as F unknown in court documents. He is one of eight hate group leaders the SPLC is accused of funneling millions of dollars to.
+
+- Y'all see that? That's him right there. You can't make this stuff up. And our people in Christianity, y'all was believing the SPLC against Israel United in Christ. Shame on you out there. Shame on all of you.
+
+- Now you found out who was making them. That's her. And they always play the victim, or the one that wants justice in the world. They all lie.
+
+> In April, the Post unmasked other informants mentioned in the indictment, including a one-legged Imperial Wizard in the KKK named Bradley Scott Jenkins, who received money from SPLC while reconstituting a once defunct KKK splinter group, as well as a Georgia mother named April Chambers, a KKK member who runs a home cleaning business.
+
+</div>
+
+<div class="reading">
+
+Reading from a *New York Times* article  *[[1:37:07](https://www.youtube.com/watch?v=maQroMAMqbw&t=5827s)]*
+
+> He was seemingly happy to take the nonprofit's money while revitalizing the UKA, a once defunct Alabama-based KKK splinter group, described on the SPLC's website as a millennial reboot of what was once a serious domestic threat. In the 60s, UKA had been responsible for many racist attacks and the 16th Street Baptist Church bombing in Birmingham, Alabama, which resulted in the deaths of four little girls in 1963.
+
+- How you going to compare us to that? We have never done it. But she was funding these people.
+
+- You can't make this stuff up.
+
+</div>
+
 **[Revelation 12:12](/bible/revelation/12#v12)**  *[[1:38:13](https://www.youtube.com/watch?v=maQroMAMqbw&t=5893s)]*
 
 > <sup>[12](/bible/revelation/12#v12)</sup> Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
@@ -474,6 +678,24 @@ Planet of the Apes.
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
 
 - That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased! So we are talking about Babylon. How hath the oppressor ceased. So Babylon is an oppressive country, an oppressive system. The golden city ceased. When it says the golden city, meaning it is rich beyond belief. If you believe that America has a deficit and owes everybody money, you are foolish. God calls this place the golden city. Have you forgotten America prints their own money? They have no debt. They print their own money. Make that make sense.
+
+<div class="reading">
+
+Reading from search results on what America sends to Jamaica and Trinidad · read by Captain Yuri  *[[1:42:44](https://www.youtube.com/watch?v=maQroMAMqbw&t=6164s)]*
+
+> Jamaica receives roughly 85 million to $103 million annually in standard baseline official development assistance, ODA. But this total has temporarily surged due to a massive $6.7 billion international recovery package allocated over three years following the catastrophic impact of Hurricane Melissa.
+
+> The United States supplies roughly 40% of all food and agricultural products imported by Jamaica, totaling around $590 million annually.
+
+- I bet some of you didn't know that. You thought Jamaica, we're independent. We are free. No.
+
+- What scripture did we read today that that fits? We think Deuteronomy 28:48 was for back then. Oh, no. It's in full effect today.
+
+> America does not typically donate food to Trinidad and Tobago, but Trinidad and Tobago buys roughly 40% of its imported food, valued at over 400 million US annually, from the United States through commercial trade.
+
+- From who? I bet you didn't know that either. You thought you were free. You're not free.
+
+</div>
 
 **[Isaiah 14:12-15](/bible/isaiah/14#v12)**  *[[1:45:18](https://www.youtube.com/watch?v=maQroMAMqbw&t=6318s)]*
 
@@ -505,6 +727,48 @@ Planet of the Apes.
 
     All the congregation of Israel shall keep it. That is it right there. So the congregation is Israel. Is it the church, the Baptist church, the Catholic church? No.
 
+<div class="reading">
+
+Reading from search results on the bombs the United States dropped · read by Captain Yuri  *[[1:49:29](https://www.youtube.com/watch?v=maQroMAMqbw&t=6569s)]*
+
+> In 2016, during the final year of Barack Obama's presidency, the United States military dropped an estimated 26,171 bombs across seven different countries.
+
+- Stop right there. Y'all going to read that and let white people talk about black-on-black crime? Pooky and Ray Ray, that's not a conversation. This is the conversation. Pooky and Ray Ray never did this devastation like this.
+
+> The vast majority of these munitions were deployed as part of anti-terrorism and coalition campaigns primarily targeting the Islamic State, ISIS, and other militant groups.
+>
+> The seven countries in estimated counts. According to an analysis of Defense Department data published by the Council on Foreign Relations, the breakdown of US bombs dropped in 2016 included Iraq, 12,19… bombs; Syria, 12,178 bombs; Afghanistan, 1,337 bombs; Libya, 496 bombs; Yemen, 34 bombs; Somalia, 14 bombs; Pakistan, three bombs.
+>
+> Context and scale, daily average. The total equates to roughly 72 bombs dropped every single day of that year, or three bombs every hour.
+
+- Hey, you see where it says ask anything? How many city blocks can one bomb destroy?
+
+> The destructive radius of a single bomb varies entirely by its weight, explosive material, and delivery method. While most standard military bombs destroy only a fraction of a single city block, specialized heavy ordnance can level multiple blocks at once.
+
+- Type in this. How many civilians were killed by these bombs? I'm just curious.
+
+> The precise number of civilians killed by the 26,171 US bombs dropped in 2016 is heavily disputed, with a vast discrepancy between official US military estimates and independent conflict monitors.
+>
+> While the official US Pentagon data acknowledged only a few hundred civilian deaths
+
+- That's a lie.
+
+> for the entire anti-ISIS campaign spanning multiple years, independent watchdog organizations estimate that between 1,500 and over 4,000 civilians were killed by US and coalition air strikes in 2016 alone.
+
+- In 2016 alone, don't talk about Pooky and Ray Ray ever again.
+
+- Go back to Google. How many countries has President Trump bombed?
+
+> President Donald Trump has ordered direct military strikes and bombings in 10 different countries
+
+- So Obama did seven countries. Trump did 10.
+
+> across his first term, 2017 to 2021, and his second term. This represents the highest number of individual nations targeted by air and drone strikes of any US president in the 21st century.
+
+- So, brothers, don't ever let them use that talking point about black-on-black crime compared to this. They better shut their pink lips.
+
+</div>
+
 **[Isaiah 14:16-17](/bible/isaiah/14#v16)**  *[[1:54:59](https://www.youtube.com/watch?v=maQroMAMqbw&t=6899s)]*
 
 > <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
@@ -516,6 +780,62 @@ Planet of the Apes.
 - That made the world as a wilderness, and destroyed the cities thereof. That is what Obama did. That is what Trump is doing.
 
 - That opened not the house of his prisoners. That is what I wanted to get to for this lesson. That opened not the house of his prisoners. We are the prisoners, but our people believe they are not slaves. Our people believe we are free. H. Rap Brown said, what better way to enslave a people than to give them the right to vote and make them think they are free? Where are the captives here?
+
+<div class="reading">
+
+Reading from the on-screen text of a news video, *Starved of fuel, Cubans scramble to make ends meet* · read by Captain Yuri  *[[1:58:21](https://www.youtube.com/watch?v=maQroMAMqbw&t=7101s)]*
+
+> Starved of fuel, Cubans scrambled to make ends meet.
+
+- Remember, Venezuela would send fuel to Cuba. Once America shut down Venezuela, the fuel to Cuba ended. Now, watch as a result.
+
+> Cubans are switching jobs and ditching their cars amid blackouts and fuel shortages as a US-imposed oil blockage on the island upends their lives. Washington has stopped Venezuela from shipping oil to Cuba since it toppled Caracas leftist leader Nicolas Maduro in January. The result is the crushing energy crisis in a country that has long battled shortages.
+>
+> Food will become scarce if the trucks stop coming. So, the town is really going to be in need.
+>
+> Trump is ruining everything. He doesn't get along with anyone. He wants to take over all of Latin America. He's crazy.
+>
+> Communist-run Cuba says it will maintain public sector salaries, but many self-employed and private sector workers are barely hanging on.
+>
+> We start working at 9:00 in the morning, and by 12:00 noon we have to close because there are no goods, no food, because there is no fuel to bring them.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Guardian*, *The 19 black radicals who are still in prison after four decades* · read by Captain Yuri  *[[2:06:36](https://www.youtube.com/watch?v=maQroMAMqbw&t=7596s)]*
+
+> The 19 black radicals who are still in prison after four decades.
+
+- Now, reading this, what year is this published?
+
+> Some African-American rebels, including Mumia Abu-Jamal and members of MOVE, are still incarcerated for their actions during the 1970s black liberation struggle.
+
+- So, this was published eight years ago, but it's still relevant. Some of the people that is listed have died and/or one or two have been released.
+
+> Mumia Abu-Jamal, aka Wesley Cook, former Black Panther.
+
+- He's still in prison. These are the political prisoners.
+
+> Delbert Orr Africa, MOVE organization. Eddie Goodman Africa, MOVE organization. Janet Holloway Africa, MOVE organization. Janine Phillips Africa, MOVE organization. Jalil Muntaqim, aka Anthony Bottom, former Black Panther, Black Liberation Army member. Mutulu Shakur, associated with Black Panther Party and other groups. Russell Maroon Shoatz, former Black Panther. Sundiata Acoli, aka Clark Squire,
+
+- And think about this, many of them incarcerated are not allowed visitors. You are in solitary confinement, not allowed visitors. Family or friends cannot come speak to you.
+
+> Sundiata Acoli, aka Clark Squire, former Black Panther, Black Liberation Army member.
+
+- And you know what? People on YouTube like to talk sh. Nobody on YouTube right now will do or stand up what these people have done to help black people. All you got on YouTube is talker, talker, talker.
+
+> Chuck Sims Africa, MOVE organization.
+
+- And guess what, some of you right now: but what about their crimes? That was crimes? You believe the oppressor, that lying race, and everything they say. Oh, they murdered the cop, they killed all the police. That's a lie. I guarantee you there's no evidence on most of that stuff they're saying.
+
+> Michael Davis Africa, MOVE organization. Joseph Bowen, former Black Liberation Army member. Veronza Bowers Jr., former Black Panther.
+
+- Y'all got to see the movie Queen and Slim. I really like that movie.
+
+> Fred Muhammad Burton, former Black Liberation Army member. Romaine Chip Fitzgerald, former Black Panther. Ruchell Cinque Magee. Ed Poindexter, former Black Panther. Kojo Bomani Sababu, aka Grailing Brown, former Black Liberation Army member. Kamau Sadiki, aka Freddie Hilton, former Black Panther.
+
+</div>
 
 **[Genesis 49:8-9](/bible/genesis/49#v8)**  *[[2:10:02](https://www.youtube.com/watch?v=maQroMAMqbw&t=7802s)]*
 
