@@ -3,15 +3,15 @@
   "feeds": [
     {
       "age_restricted": 1,
-      "already_in_vault": 63,
+      "already_in_vault": 1238,
       "channel": "iuicintheclassroom2",
-      "completed": 63,
+      "completed": 1238,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 3,
-      "progress_pct": 94.03,
-      "to_fetch": 4,
-      "videos": 67
+      "progress_pct": 86.94,
+      "to_fetch": 186,
+      "videos": 1424
     },
     {
       "age_restricted": 0,
@@ -59,10 +59,10 @@
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 3,
-      "progress_pct": 94.13,
-      "to_fetch": 232,
-      "videos": 3955
+      "progress_pct": 94.11,
+      "to_fetch": 233,
+      "videos": 3956
     }
   ],
-  "generated_at": "2026-10-19T19:58:28.917482+00:00"
+  "generated_at": "2026-10-19T23:43:08.907320+00:00"
 }
