@@ -619,7 +619,7 @@ Reading from *The Forgotten History of the African Slave Trade in China*, from H
 
 <div class="reading">
 
-Reading from *The Ancient Jewish Diaspora in Japan: The Tribe of …, Their Religious and Cultural Influence* by Akuro Tashima, page 27  *[[1:55:59](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6959s)]*
+Reading from *The Ancient Jewish Diaspora in Japan, the Tribe of Hada: Their Religious and Cultural Influence* by Ikuro Teshima, page 27  *[[1:55:59](https://www.youtube.com/watch?v=6XyhSewrzz0&t=6959s)]*
 
 > The Great Wall of China. Architectural masterpiece by the hands of Jewish diaspora.
 
