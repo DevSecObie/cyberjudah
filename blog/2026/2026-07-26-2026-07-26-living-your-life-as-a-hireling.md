@@ -27,22 +27,52 @@ Today is going to be a class of examination, self-examination. Many people may a
 
 ## In The News
 
-
 - And guess what? Them pastors went right back to the Trinity. They don't give a damn about our people. These pastors are hirelings.
 
-Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy her business. Comments read from the screen: BBD says, "Would not recommend her." Shannon Nicholson says, "I wouldn't trust her to care for anyone. I don't hate anyone that much to recommend her. Her oath is to do no harm." Tammy McQueen: "Unfortunately, I'm looking for another medical provider. I don't feel Christine has my best interest at heart. I should be treated the same as her patients that share her skin color."
+Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy her business.
 
-- So you see what they doing? Trying to show she's biased now. You can't make this stuff up.
-- That shows you how the nations are unified. All those people, they don't even know each other, but they will all come to the defense of white supremacy. We got to learn that.
+<div class="reading">
 
+Reading from comments posted on the business of Nolan Wells' mother  *[[23:57](https://www.youtube.com/watch?v=AEtwteuLiy4&t=1437s)]*
+
+> BBD says, "Would not recommend her."
+>
+> Shannon Nicholson says, "I wouldn't trust her to care for anyone. I don't hate anyone that much to recommend her. Her oath is to do no harm."
+>
+> Tammy McQueen: "Unfortunately, I'm looking for another medical provider. I don't feel Christine has my best interest at heart. I should be treated the same as her patients that share her skin color."
+
+- So you see what they doing? Trying to show she's biased now. Blah blah blah. You can't make this stuff up.
+
+- That shows you how the nations are unified. All those people up there, they don't even know each other, but they will all come to the defense of white supremacy. We got to learn that.
+
+</div>
 
 - Brother, let me help you out. Don't fall for white women tears. In fact, I'll broaden it: don't fall for women's tears. But especially the white woman.
 - Like last week it said the four W's: you got to avoid water, woods, whiskey, and white people. Teach your kids to avoid the four W's.
 - Listen to how her speech is so scripted, and she wasn't even there. She was not there, but they got her speaking on behalf of all this.
 - Notice the other cops that were there: none of them jumped in. I wonder if any of the other cops going to come and speak on behalf of the brother. That ain't happening. You can imagine the stuff that he went through, just being the only spot in that whole system.
 
+<div class="reading">
 
-- They found a water bottle, plus the fact he was black and terrifying. That's basically what they're saying. All you got to do is be black and that's a threat. The white man had a full rifle in a park pointing it at the helicopter and every damn thing else, and they use a bean bag to take him down.
+Reading from posts on the police killing of a 17-year-old in Austin, Texas  *[[31:09](https://www.youtube.com/watch?v=AEtwteuLiy4&t=1869s)]*
+
+> Austin police just killed a 17-year-old black kid on a playground over a water bottle.
+
+> On July 24th, APD officer Jake Pitcher and two of the cops fired over 20 rounds at a black teen in an Austin park. Just minutes earlier, a caller with a shaky voice claimed to see a kid in a park messing with his waistband. The caller said, “It looks like he has a gun. I'm not sure. He looks very young. He's by himself.” 20 seconds pass between Pitcher opening his car door and the three cops shooting the teen dead. All they found was a water bottle.
+
+- They found a water bottle, plus the fact he was black and terrifying. That's basically what they're saying. All you got to do is be black and that's a threat.
+
+- It could be white folks, no problem at all. The white man had a full rifle in a park and he's pointing it at the helicopter and every damn thing else, and they use a bean bag to take him down.
+
+> Police chief Lisa Davis blamed the kid for his own death, disgustingly calling the shooting suicide by police.
+
+> The kid did not commit suicide. He was shot dead by three cops who proclaimed themselves judge, jury, and executioner on a quiet Austin playground. The blame for his death lies entirely on the cops who pulled the trigger.
+>
+> This police shooting is not an accident. It's the result of a racist system that kills with impunity. All across the country, police kill black and brown people for no reason and face no consequences. Only in a deeply racist system could these three cops act like a hit squad, showing up to a playground and killing a kid over a phone call. Since 2020, APD has tried to rebrand themselves as kinder, gentler, more progressive. Their actions today show they're exactly the same racist killers.
+
+- So, that's what we're dealing with.
+
+</div>
 
 ## Scriptures Opened
 
@@ -56,7 +86,20 @@ Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy 
 
 - This white man, his bones are filled with the sins of his youth. You could go back to 1776, but more importantly go back to Cain: God said Cain would be a fugitive and a vagabond, talking about his descendants. A fugitive is somebody always running from justice. The white man has never been judged yet. Even Netanyahu: the ICC put out a warrant for Netanyahu's arrest, and Trump said Netanyahu has nothing to fear; we don't give a damn what the International Court of Justice says.
 - Though wickedness be sweet in his mouth, meaning he loves wickedness. Though he hide it under his tongue: he hid that wickedness for almost 60 years. From the civil rights era up until this new administration, you saw a new America. They love black and brown people. We got jobs, we reached to the heights of government, you even had President Barack Hussein Obama: oh, he's our Moses. The new administration came in and said, you're fired, you're fired, you're fired. DEI, get the hell out. Affirmative action, no more. In fact, Clarence Thomas, we want you to get rid of affirmative action. He said, yes, boss.
-- News read in class: in late July, Howard University dropped 52 incoming freshmen from its fall class, stating they missed a July 10 tuition payment deadline; those students argue their outside scholarships and financial aid were still pending. They also said over 3,000 black women in high ranking positions got fired within the past several months. This is not a new America; it's the old America coming back. What's great for them is bad for us.
+- They said over 3,000 black women in high ranking positions got fired within the past several months. Black women. I don't need no man. I don't need a man. In fact, I am a man.
+
+<div class="reading">
+
+Reading from an article on Howard University  *[[37:40](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2260s)]*
+
+> Howard University dropped 52 incoming freshmen from its fall class. The university stated they missed a July 10 tuition payment deadline. Those students argue their outside scholarships and financial aid were still pending.
+
+- So y'all can read the articles on your own, but I'm just showing you what's happening in the world today. This is a new... Actually, no, it's the old America coming back.
+
+- What's great for them is bad for us.
+
+</div>
+
 - Though he spare it and forsake it not: it's still there. You go, no, he or she's not like that, I know them, these is good white folks, I just got a promotion, they helped me get a discount on a new car. It is still there.
 
   Precepts:
@@ -69,19 +112,71 @@ Nolan Wells' mother: as a result of what is going on, Esau is trying to destroy 
 
     God says never trust thine enemy: for like as iron rusteth, so is his wickedness; it will surely come to pass. Though he humble himself and go crouching: he's nice to you, you got that promotion you wanted, you got that house at a discount; yet take good heed and beware of him. Thou shalt know that his rust hath not been altogether wiped away; the rust represents his wickedness, it's still there. Set him not by thee, lest when he hath overthrown thee, he stand up in thy place: that's what happened historically. We set them by us at the end of the dark ages, and they conquered us and took our place as Jews and Christians.
 
-Book read in class: The Cambridge History of Judaism: The Early Modern World, 1500-1815 (published around 2008, containing writings from 1500 to 1815):
+<div class="reading">
 
-- "New information about Jewish communities or imagined Jewish communities in sub-Saharan Africa came chiefly from Arab historians and geographers." Those Arab historians and geographers were present at the time. So Esau found the records of the Arabs about black Jewish communities and then said, is this real, is this imagined? Let's put imagined. That's what they did.
-- Deacon: those Arab geographers were black, by the way. They were Jews that spoke Arabic. Leo Africanus was enslaved and used because he had photographic memory; they used his wits and brain to create charts and maps to find where the Jews were, to enslave us. He was an ambassador with high status in his village, taken as a slave and renamed. So don't fall for that Arab nonsense they put in these books.
-- "In a postscript to the English edition entitled A Summary Discourse of the Manifold Religions Professed in Africa, John Pory noted: at this day also the Abyssines affirm that upon the Nilus, towards the west, there inhabiteth a most populous nation of the Jewish stock, under a mighty king. And some of our modern cosmographers set down a province in those quarters which they call the land of the Hebrews, placed as it were under the equinoctial, in certain unknown mountains between the confines of Abyssinia and Congo." So between Ethiopia and Congo is the land of the Hebrews.
-- "John Ogilby (1600-76), a translator and publisher, gave further information about Jews in the continent in his Africa (London, 1670). He noted of the coast of Guinea: many Jews also are scattered over this region; some natives, boasting themselves of Abraham's seed, inhabiting both sides of the river Niger; others are Asian strangers who fled hither either from the desolation of Jerusalem by Vespasian, or from Judea wasted and depopulated by the Romans, Persians, Saracens." Ogilby also included the suggestion by Leo Africanus that Jews were to be found in the inland areas.
-- "By the 18th century there were many descriptions in travel and missionary accounts of the lost tribes of Israel, Jews or descendants of Jews living along the western coast of Africa. Perhaps the most famous of these is the one contained in Olaudah Equiano's celebrated biography, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa the African (1789). A Scottish explorer, Mungo Park (1771-1806), described what he called Arabic-speaking Jews in West Africa, on the left bank of the river Niger, and remarked that there were said to be many Jews near Timbuktu. The community in Timbuktu is well attested, and its probable descendants, now Muslims, still proudly invoke the Jewish origins of their group."
-- They got many of the slaves from West Africa, the coast. Those aren't the only Israelites, but I wanted to show you that we know that we're the Israelites. This is why we don't have time to argue with Christians who want to talk about the triune divinity of God, the Trinity garbage, when we know exactly what we're talking about biblically and historically.
+Reading from *The Cambridge History of Judaism: The Early Modern World, 1500-1815*  *[[40:17](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2417s)]*
 
+> The Cambridge History of Judaism, the Early Modern World, 1500 to 1815.
 
+- Now, this book was published around 2008. However, what I want y'all to see: this book contains writings from 1500 to 1815. That's what I wanted y'all to see.
 
+> New information about Jewish communities or imagined Jewish communities in sub-Saharan Africa came chiefly from Arab historians and geographers.
 
-- There's an expression, well, I like to say it: marriage is political, and it generally reveals who your allegiance is to.
+- So, new information about Jewish communities. Then notice what it says next: or imagined Jewish communities in sub-Saharan Africa came chiefly from Arab historians and geographers. Guess what? Those Arab historians and geographers were present at the time. So, Esau found the records of the Arabs about black Jewish communities and then said, "Is this real? Is this imagined?" Let's put imagined. That's what they did.
+
+- **Deacon:** Those Arab geographers were black, by the way. They were Jews that spoke Arabic. He was enslaved and used because he had photographic memory, and they used him to chart where the Jews were throughout Africa, because he was an ambassador. He had a high status in his village, and he was taken as a slave. They renamed him Leo Africanus, and they used his wits and brain to create charts and maps to find where the Jews were, to enslave us. So don't fall for that Arab nonsense they put in these books.
+
+- That's some good stuff right there. Thank you.
+
+> In a postscript to the English edition entitled A Summary Discourse of the Manifold Religions Professed in Africa, John Pory noted: at this day also the Abyssines
+
+- Abyssines, that's the Ethiopians.
+
+> affirm that upon the Nilus
+
+- Nilus, the Nile, the Nile River.
+
+> towards the west there inhabiteth a most populous nation of the Jewish stock, under a mighty king; and some of our modern cosmographers set down a province in those quarters which they call the land of the Hebrews, placed as it were under the equinoctial, in certain unknown mountains between the confines of Abyssine and Congo.
+
+- So between Ethiopia and Congo is the land of the Hebrews.
+
+> John Ogilby (1600-76), a translator and publisher, gave further information about Jews in the continent in his Africa (London, 1670). He noted of the coast of Guinea: many Jews also are scattered over this region; some natives, boasting themselves of Abraham's seed, inhabiting both sides of the river Niger; others are Asian strangers who fled hither either from the desolation of Jerusalem by Vespasian, or from Judea wasted and depopulated by the Romans, Persians, Saracens
+
+- Saracens are Muslims.
+
+> and Christians. Ogilby also included the suggestion by Leo Africanus
+
+- That's why Deacon was mentioning.
+
+> that Jews were to be found in the inland areas.
+
+> By the 18th century, there were many descriptions in travel and missionary accounts of the lost tribes of Israel, Jews or descendants of Jews living along the western coast of Africa. There were also accounts of residual traces of Judaism practiced in these areas. Perhaps the most famous of these is the one contained in Olaudah Equiano's celebrated biography, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (1789).
+
+> A Scottish explorer, Mungo Park (1771-1806), described what he called Arabic-speaking Jews in West Africa
+
+- That's what Deacon was talking about.
+
+> on the left bank of the river Niger, and remarked that there were said to be many Jews near Timbuktu. The community in Timbuktu is well attested, and its probable descendants, now Muslims, still proudly invoke the Jewish origins of their group.
+
+- That's all I wanted. I wanted to give a little history, because they got many of the slaves from West Africa, the coast. Those aren't the only Israelites. But I just wanted to show you that we know that we're the Israelites. This why we don't have time to argue with Christians who want to talk about the triune divinity of God, the Trinity garbage, when we know exactly what we're talking about biblically and historically.
+
+</div>
+
+<div class="reading">
+
+Reading from posts shown on screen, on celebrities  *[[46:48](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2808s)]*
+
+> We don't give a … about that activism. Memphis Bleek.
+
+> Jesus is a black man.
+
+- Everybody got so excited when Jamie Foxx was wearing this shirt. The Shade Room. So, everyone on Instagram was so... Look at that. 22,000. Everybody was happy. Jamie Foxx. He realizes Christ is black.
+
+> Meet Jamie Foxx's Australian girlfriend. A mid lowkey relationship.
+
+- You know, there's an expression, well, I like to say it: marriage is political, and it generally reveals who your allegiance is to.
+
+</div>
 
 **[Numbers 31:15-16](/bible/numbers/31#v15)**  *[[46:21](https://www.youtube.com/watch?v=AEtwteuLiy4&t=2781s)]*
 
@@ -91,8 +186,21 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 - In case you don't understand the history: this witch Balaam said, God will not allow me to curse the twelve tribes, I cannot curse them, but I do have a plan. If you can convince the women of Moab to get amongst these Israelite men, those women can cause those men to worship their gods; then you have a chance to defeat them. That's what happened. This is why Moses said, have ye saved all the women alive? These are the women that got us to sin.
 - So y'all be happy with Jamie Foxx. You see all these black actors getting a non-black or some kind of exotic; racially ambiguous, you don't know what they are. But when they open their mouth, they are certain they ain't black. Watch out for them people. They will do you dirty. So marriage is political; I don't care what nobody say. It determines where your allegiance is to.
-- Post shown: Officer Brandon Tatum and wife, "Marriage isn't political. It doesn't determine your religion." Oh, shut the hell up. This dude right here, he'll kill black people if he get a chance. He hates his people. That's an Edomite; she ain't ambiguous.
+
+<div class="reading">
+
+Reading from a post by Officer Brandon Tatum and wife  *[[50:16](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3016s)]*
+
+> Officer Brandon Tatum and wife.
+>
+> Marriage isn't political. It doesn't determine where your religion.
+
+- Oh, shut the hell up.
+
+</div>
+
 - Y'all get mad when we say this: remember during the 50s Esau was saying, hey, the Bible says no miscegenation, meaning racial mixing. Black people was mad. And the Bible does say that. What you mad for? That's what it says.
+- This dude right here, he'll kill black people if he get a chance. He hates his people. That's an Edomite; she ain't ambiguous.
 
 **[Acts 5:34-37](/bible/acts/5#v34)**  *[[50:31](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3031s)]*
 
@@ -124,10 +232,36 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - The thief cometh not, but for to steal, and to kill, and to destroy. You may ask yourself, well, who's it talking about? Rome. Rome stole; Rome was doing a whole lot of killing; and destroy: 70 AD Rome destroyed us.
 - I am the good shepherd: the good shepherd giveth his life for the sheep. But he that is an hireling, and not the shepherd, seeth the wolf coming; he sees danger coming, and leaveth the sheep, and fleeth; he runs for his life. And the wolf catcheth them, and scattereth the sheep.
 - The hireling fleeth, because he is an hireling, and careth not for the sheep. A brother that's a hireling does not care for the sheep.
-- Definition read in class: a hireling is a derogatory term for a worker who is employed purely for monetary gain. So a hireling is only there to get what he can get from the body; that's the only reason they're there. It typically refers to someone who performs menial tasks, lacks loyalty to the cause, or is willing to do unpleasant or unethical work just for a paycheck. Mercenary motivation: the term is primarily used in a disapproving way to imply that the individual cares only about the cold hard cash rather than any passion for the work itself.
-- A hireling has no loyalty. 2018 showed us that. But guess what, I understand; I know there's still hirelings among us. I'm not blind.
-- There's no passion for the work; that's why you got them dead spirits. Brothers asked last week about dead spirits: these brothers with dead spirits are hirelings. They got no passion for this truth. They could care less. They're just here. This is Buena Vista Social Club for them; this is just a hangout. I ain't got nothing else to do, I'mma hang out with them brothers in purple and gold; they got some pretty women over there.
-- Performing dirty work: it is frequently used in contexts where an authority figure or boss uses subordinates to handle distasteful tasks they want to avoid themselves.
+
+<div class="reading">
+
+Reading from a definition of hireling  *[[54:33](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3273s)]*
+
+> A hireling is a derogatory term for a worker who is employed purely for monetary gain.
+
+- So a hireling is only there to get what he can get from the body. That's the only reason they're there.
+
+> It typically refers to someone who performs menial tasks, lacks loyalty to the cause,
+
+- I want y'all to see that part. Lacks loyalty to the cause. A hireling has no loyalty. 2018 showed us that. But guess what? I understand. I know there's still hirelings among us. I'm not blind.
+
+> or is willing to do unpleasant or unethical work just for a paycheck.
+
+- Just for a paycheck.
+
+> Usage and connotations. Mercenary motivation: the term is primarily used in a disapproving way to imply that the individual cares only about the cold hard cash
+
+- That's all they care about.
+
+> rather than any passion for the work itself.
+
+- Rather than any passion: that goes back to loyalty. There's no passion for the work. That's why you got them dead spirits. Brothers asked last week about dead spirits. These are hirelings. These brothers with dead spirits are hirelings.
+
+- They got no passion for this truth. They could care less. They're just here. This is Buena Vista Social Club for them. This is just a hangout for them. I ain't got nothing else to do, I hang out with them in purple and gold. They got some pretty women over there. I'm going to go over there.
+
+> Performing dirty work: it is frequently used in contexts where an authority figure or boss uses subordinates to handle distasteful tasks they want to avoid themselves.
+
+</div>
 
 **[Job 7:1-2](/bible/job/7#v1)**  *[[54:53](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3293s)]*
 
@@ -207,7 +341,19 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - I have seen folly in the prophets of Samaria, the northern kingdom: they prophesied in Baal. It was the same with the northern kingdom as well.
 - I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery. Video played: "I need to tell you the truth. For months I answered the church's official phone. I thought they were prayer requests. They weren't. Our pastor used that number to set up meetings with women. I had every call recorded." You might say, well, that's AI. Let me tell you, that stuff be real. I grew up in the church; I've seen all kind of stuff.
 - And walk in lies: like we just saw those pastors walk in lies at the sit down; their point was don't keep the commandments, don't keep God's laws.
-- They strengthen also the hands of evildoers. Video played: "Pastor goes viral for giving Canadian family $50,000 after driving from Canada to join the church." From the clip: "You came from West Coast Canada. You drove 7 days to get here. You moved here to join this church. We sold everything. Two girls and two dogs. I want you to stay when this is over. We're going to give out two checks today: $50,000 for you." And the people shouting, "Don't block my blessing." Anybody ever see that movie called Leap of Faith? You know how they have people planted in the audience? How dumb and stupid can people be? This is an insult to anybody's intelligence. Where's that in the scriptures, when you drive to the church and they handing you out money? Did not Peter say, silver and gold have I none? And they don't do that for black people, by the way. We'll say, hey, we drove from Jamaica; all right, sit right over there. You ain't giving us no $50,000.
+- They strengthen also the hands of evildoers. I'mma show you how they strengthen their hands.
+
+<div class="reading">
+
+Reading from a headline on a pastor  *[[1:09:13](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4153s)]*
+
+> … pastor goes viral for giving Canadian family $50,000 after driving from Canada to join the church.
+
+- Wait a minute. What? They don't do that for black people. They only do this for white people.
+
+</div>
+
+- Video played. From the clip: "You came from West Coast Canada. You drove 7 days to get here. You moved here to join this church. We sold everything. Two girls and two dogs. I want you to stay when this is over. We're going to give out two checks today: $50,000 for you." And the people shouting, "Don't block my blessing." Anybody ever see that movie called Leap of Faith? You know how they have people planted in the audience? How dumb and stupid can people be? This is an insult to anybody's intelligence. Where's that in the scriptures, when you drive to the church and they handing you out money? Did not Peter say, silver and gold have I none? And they don't do that for black people, by the way. We'll say, hey, we drove from Jamaica; all right, sit right over there. You ain't giving us no $50,000.
 - That none doth return from his wickedness. They are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah. Videos played: a pastor saying, "I'm always inspired by my husband. We celebrated 20 years this year, and we got married at a time where we could not legally get married, and we stood on the shores of Hilton Head, South Carolina, and we tied the knot. Select you a good man and hang in there." And the Atlanta church clip: what is this filth? That was a man in a dress. These black churches got to go. Bishop: remember the white man said the black church need to be broken down.
 - Therefore thus saith the Lord of hosts concerning the prophets: behold, I will feed them with wormwood, destruction, death, and make them drink the water of gall: poison. For from the prophets of Jerusalem is profaneness gone forth into all the land. It's talking about our people.
 
@@ -239,9 +385,19 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - The Lord hath said, Ye shall have peace. At the sit down, the man with the hat kept saying, when tribulation comes, we're not going to be here; the church won't be here. Christians just lie and tell you there's going to be peace.
 - Who hath stood in the counsel of the Lord? That's the issue: nobody's standing in the counsel of the Lord. They're going after the imagination and thoughts of their own mind.
 - Behold, a whirlwind of the Lord is gone forth in fury: the anger of the Lord shall not return, until he have executed the thoughts of his heart. In the latter days ye shall consider it perfectly. Our people will not repent unless they get a foot up their behind. Death makes people reconsider their ways. That's why, when you read the Old Testament and Israel didn't do what they were supposed to do, God said kill them. So now today, God saying, okay, they still ain't repentant; he says to the white man, I want you to kill x amount of them. And why is this happening? We're Christians, we serve the same God you do. The white man said, we don't give a damn about that.
-- News shown: they tied a young black girl up with a ratchet strap on a tree, the ratchet straps the trucks use to hold down wood. What 16 or 17 year old girl walks around with this, ties it around her neck and a tree two times? And it comes out, oh, that's suicide. Stop the cap. Image read: "Tonya Miller, 27, and Juliana Enza, 16, both found hanging from a tree under mysterious circumstances, both classified as suicides by investigators." Look at all these names, all found hanging from a tree, all ruled suicide. You can't make this stuff up.
+- News shown: they tied a young black girl up with a ratchet strap on a tree, the ratchet straps the trucks use to hold down wood. What 16 or 17 year old girl walks around with this, ties it around her neck and a tree two times? And it comes out, oh, that's suicide. Stop the cap.
 - You know the reason why the nations can insult our intelligence with stuff like this here? Because we're not unified. If we ain't connected to the Lord, we're not organized, we're not unified. They don't do this to the so-called Chinese, Japanese; they don't do that to nobody else, but they'll do it to us, because we are not unified. There's no consequence. They can do these things with impunity. They're gonna get upset a little bit, say a few things on the news, we demand justice, and then the 4th of July come and they forget all about it.
 - Sometime you think it's only the men they going after. Oh no, they getting the black woman too. So all you independent women, you just get ready. I love everybody, I don't see color; well, guess what? Color sees you.
+
+<div class="reading">
+
+Reading from an image on two found hanging  *[[1:26:24](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5184s)]*
+
+> Tona Miller, 27. And Juliana Enza, 16. Both found hanging from a tree under mysterious circumstances. Both classified as suicides by investigators.
+
+- Look at all these names. All found hanging from a tree. Look at all them names. All ruled suicide. You can't make this stuff up. So what we were reading, about the righteous going to go through tribulation and the unrighteous: it's going to happen to all the 12 tribes.
+
+</div>
 
   Precepts:
   - **[Acts 14:22](/bible/acts/14#v22)**
@@ -307,13 +463,34 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 - If they had stood in my counsel, stayed in the Bible, and had caused my people to hear my words, then they should have turned them from their evil way. With the word of God you could turn the people from their evil way. That's what the captains was doing on that sit down: let's turn the minds of the people around. You can only transform them with the Bible, the commandments of God.
 - And you know that sit down's going to hit millions. Just let it sit there a year. We going to see them people that trusted in Fred Price and them other three stooges; they going to be like, our pastors don't know a damn thing.
 - I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed. Y'all know where it come from: Martin Luther King. But did it really come from Martin Luther King?
+
+<div class="reading">
+
+Reading from a post on Stanley Levison  *[[1:31:52](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5512s)]*
+
+> In the heat of injustice and racism from the pit of hell, seeing Martin Luther King struggle, Stanley, like many white people, did not stand and watch, he did something remarkable that is never spoken of. Whites are allies. Stanley Levison, 1912 to 1979.
+
+- Whites are allies. Stanley Levison, that's Amalek, by the way.
+
+</div>
+
 - Video read in class on Stanley Levison (1912-1979): "a Jewish American businessman, lawyer, and progressive activist who became one of Martin Luther King Jr.'s closest friends, advisers, and behind-the-scenes supporters during the civil rights movement. Born in New York City on May 2nd, 1912, Levison earned law degrees and built a fortune through real estate, a Ford dealership, laundromats, and other ventures. In his early years he was deeply involved in leftist and socialist causes, including serving as a financial figure for the Communist Party USA in the early 1950s, handling funds. The FBI monitored him closely for decades. Levison entered the civil rights arena in 1956, introduced to King via Bayard Rustin and others during the Montgomery bus boycott. His key contributions included fundraising and organization: he professionalized efforts for the Southern Christian Leadership Conference, raised money tirelessly, and handled administrative tasks like preparing King's tax returns. As King's literary agent, he helped secure book deals, e.g. Stride Toward Freedom in 1958, which he edited; drafted articles; and contributed as a ghostwriter to speeches and writings, including input on planning for the famous I Have a Dream address at the 1963 March on Washington. Personal confidant: King frequently turned to Levison, often in late night calls. Described by Andrew Young as perhaps the most important unknown supporter of the movement. In 1962-1963 the Kennedy administration, including Robert Kennedy, pressured King to cut ties with Levison, but King refused."
 - When you hear this guy Bayard Rustin: he was an LGBT member.
 - So what I wanted y'all to see is that he was heavily involved in writing the speech, I have a dream. Bishop: not just the speech, he was involved in the finances of Martin Luther King also. In the end, when Martin Luther King said, listen, they pulling back all the funding they was giving me, guess who was behind all of that? That was Amalek. So y'all pay attention.
 - Discussion: nine days before Martin Luther King was assassinated, he had a meeting with the American Jewish Congress, the American Jewish Committee, and a number of these liberal Zionist backers that made up his entire entourage. He says to them in their faces, the slum lords in New York are turning people against their very cause. He also had opened up channels to talk to the PLO and recognize Palestinian liberation; Martin Luther King and Yasser Arafat were supposed to meet, and it never happened because he was assassinated. Both him and Malcolm X had their police protection pulled the day they were assassinated. Martin Luther King renounced the war in Vietnam, and all of his backers flipped out; they all stopped giving him money when he spoke against the war. He was completely controlled by US financiers until he wasn't.
 - Photos shown: you see these pictures, oh, white people are supporting you. Those were Zionist backers behind them manipulating everything. Even that dream, I have a dream: that was Amalek that helped write that speech. We shall overcome. Stop being fooled. They didn't love us; they were manipulating everything.
 - Deacon: Dr. King, in his heart he wanted to do right by his people, but that's the only information he had, because Dr. King is not on the level where we are in terms of this truth. Back in those times, you can go outside at any moment and get lynched, get beat on, spit on. The law was against you. So he had to dance with the devil, so to speak. All of the people around him was trying to set him up, and he had to somewhat play with them just to get a little bit of liberty. That's a tight rope that he had to walk. Bishop: no doubt, but the cracker still wrote I Have a Dream.
-- Video: Malcolm X: "It's just like when you've got some coffee that's too black, which means it's too strong, what do you do? You integrate it with cream. You make it weak. If you pour too much cream in, you won't even know you ever had coffee. It used to be hot, it becomes cool. It used to be strong, it becomes weak. It used to wake you up, now it'll put you to sleep."
+
+<div class="reading">
+
+Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5976s)]*
+
+> It's just like when you've got some coffee that's too black, which means it's too strong. What you do? You integrate it with cream. You make it weak. If you pour too much cream in, you won't even know you've ever had coffee. It used to be hot, it becomes cool. It used to be strong, it becomes weak. It used to wake you up. Now it'll put you to sleep.
+
+- I like that.
+
+</div>
+
 - They are prophets of the deceit of their own heart.
 
   Precepts:
@@ -603,8 +780,27 @@ Book read in class: The Cambridge History of Judaism: The Early Modern World, 15
 
 > <sup>[28](/bible/2-esdras/8#v28)</sup> Think not upon those that have walked feignedly before thee: but remember them, which according to thy will have known thy fear.
 
-- Think not upon those that have walked feignedly before thee. Feign is a verb that means to pretend, fake, or give a false show of something. Key concepts include pretending an illness: you got a lot of sisters that get Sabbath sick. Faking an emotion, or making up an excuse.
-- Remember a brother used to go around teaching, fake it till you make it. I said, don't raise that man up; he ain't right. To feign means to pretend: you are a fake brother, you are pretending.
+- Think not upon those that have walked feignedly before thee.
+
+<div class="reading">
+
+Reading from a definition of feign  *[[2:24:27](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8667s)]*
+
+> Feign is a verb that means to pretend, fake, or give a false show of something.
+
+- Remember a brother used to go around teaching, fake it till you make it. I said, "Don't raise that negro up. He ain't right."
+
+- So to feign means to pretend. You are a fake brother. You are pretending. You give a false show of something.
+
+> Key concepts include pretending an illness,
+
+- You can feign that. You got a lot of sisters that get Sabbath sick.
+
+> faking an emotion, or making up an excuse.
+
+- Making up an excuse.
+
+</div>
 - So this is where you self-examine: am I being a phony, a hypocrite amongst the brethren? Am I walking feignedly? Only you can answer that. You and God know the answer; we don't. If a sister ask us, what about this brother, we can only tell her what you show us. Is he really like that? You got to talk to this guy more in depth, more personally, to find out how they truly are. And some brothers can fake it real good.
 
   Precepts:

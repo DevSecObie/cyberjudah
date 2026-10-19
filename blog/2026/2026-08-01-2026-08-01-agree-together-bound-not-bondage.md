@@ -19,8 +19,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "marriage-family", "med
 
 Sabbath class from California, on the West Coast. Bishop opens the class with a preface on prophecy and idolatry that hit him in the spirit that morning, then turns it over to Deacon Abiel for the main lesson: agree together, bound not bondage. Tomorrow is the Marriage Is Honorable event, the third one, so this whole class is preparation for the marriages of the nation.
 
-Definitions read in class: bound is fastened by or as if by a band; placed under legal or moral restraint or obligation. Marriage is a legal obligation through the Most High; that covenant you have with your wife is between you two and it is honored by the Lord. Bondage is a state of being bound usually by compulsion, as of a law, such as slavery or serfdom. Some of us have a perception that marriage is like slavery. What is that one word that many wives associate with slavery? Submission. When they hear that word submit, the first thing is, I am a servant, I am a slave. But that is not what it is. It is called order, what the Lord has designed as marriage.
-
 ## Scriptures Opened
 
 **[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[[24:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=1447s)]*
@@ -64,7 +62,20 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 >
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 
-- A beast rises up out of the sea, having seven heads and ten horns. Put on the screen: the seven heads are Greece, Rome, Spain, France, Germany, Great Britain, with America as the eighth head; the ten horns are Belgium, Luxembourg, Netherlands, Germany, United Kingdom, Italy, Greece, France, Denmark, and Ireland. These are all European powers, because that is what this is talking about. Upon his heads the name of blasphemy.
+- A beast rises up out of the sea, having seven heads and ten horns. Upon his heads the name of blasphemy.
+
+<div class="reading">
+
+Reading from an image on the seven heads and ten horns  *[[29:20](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=1760s)]*
+
+> Seven heads: Greece, Rome, Spain, France, Germany, Great Britain. Eighth head: America.
+>
+> 10 horns: Belgium, Luxembourg, Netherlands, Germany, United Kingdom, Italy, Greece, France, Denmark, and Ireland.
+
+- These are all European powers here, cuz that's what this is talking about.
+
+</div>
+
 - The beast which I saw was like unto a leopard: in Daniel 7 the leopard was the symbol of Greece. His feet were as the feet of a bear: the bear was Media Persia. His mouth as the mouth of a lion: the lion was ancient Babylon. This last kingdom has attributes of the ancient Grecian empire, of ancient Media Persia, and of ancient Babylon in it.
 - And the dragon, which is Satan in this part right here, gave him his power, his armaments, and his seat, and great authority.
 
@@ -139,7 +150,29 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 > <sup>[30](/bible/daniel/3#v30)</sup> Then the king promoted Shadrach, Meshach, and Abed–nego, in the province of Babylon.
 
 - Nebuchadnezzar the king made an image of gold and gathered the princes, the governors, the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces to the dedication of the image. Nebuchadnezzar had set up a one world religion. It is the same thing they are trying to do today.
-- You may read that and go, that was back then, that does not happen today. News article read in class from Newsbreak: pastors prayed over a massive gold statue of Donald Trump in Florida. Evangelical leaders gathered at Trump National Doral in Miami to bless and dedicate a towering gold leaf statue dubbed Don Colossus, 22 feet tall on a 7 foot pedestal, depicting Trump with his fist raised, unveiled during a dedication ceremony led by evangelical pastor Mark Burns, who told attendees the statue was not a golden calf but a symbol of resilience, freedom, patriotism, strength, and willpower. Evangelical leaders prayed over the monument while supporters applauded around the base. Trump himself called into the event by phone to thank Burns and the guests, and on Friday they did it again at Mar-a-Lago. So they prayed over this image, this 22 foot golden image. You see the comparison with Daniel the third chapter.
+- You may read that and go, that's back then. That doesn't happen today.
+
+<div class="reading">
+
+Reading from an article from Newsbreak · read by Officer Zakai  *[[37:17](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=2237s)]*
+
+> Watch: Pastors pray over massive gold statute of Donald Trump in Florida.
+>
+> MAGA evangelical leaders gathered this week at Mar-a-Lago and at Trump National Doral, Miami to bless and dedicate a towering gold statue honoring President Donald Trump in a ceremony that is already drawing praise from supporters and criticism from opponents who compared the spectacle to religious idolatry.
+>
+> The 22 foot gold leaf statue dubbed Don Colossus depicts Trump with his fist raised, recreating the jester he made after surviving the July 2024 assassination attempt in Butler, Pennsylvania. The sculpture was unveiled on Wednesday during a dedication ceremony led by evangelical pastor Mark Burns, one of Trump's closest religious allies. Burns, who has repeatedly described Trump as protected by God, told attendees the statute was not a golden calf, but rather a symbol of resilience, freedom, patriotism, strength, and willpower to keep fighting for the future of America.
+>
+> According to videos and photos shared online by Burns and attendees, evangelical leaders prayed over the monument while supporters applauded around the base of the statue,
+
+- So they prayed over this image, this 22ft golden image of Trump.
+
+> which sits atop a 7 foot pedestal surrounded by palm trees at Trump's golf property in South Florida. Trump himself reportedly called into the event by phone to thank Burns and the guests gathered there on Friday. They did it again in Mar-a-Lago, Trump's mansion and social club in Palm Beach.
+>
+> New MAGA evangelical leaders gathered in Mar-a-Lago to bless and dedicate a gold statue dedicated to Donald Trump.
+
+</div>
+
+- So, you see the comparison with Daniel the third chapter.
 - Video played of a clip from the series The Boys, where the Homelander character receives a message that his destiny is not serving the Lord but being the Lord: they are mixing evangelical Christians into politics and patterning it after this administration. A man sets himself up as the Messiah on earth. Y'all just seen Daniel 3 coming to life. We are seeing it in our time.
 - Whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace. Certain Chaldeans accused the Jews: Shadrach, Meshach, and Abednego serve not thy gods, nor worship the golden image which thou hast set up.
 - We are not careful to answer thee in this matter: meaning, we are not worried to answer you. Our God whom we serve is able to deliver us. Then watch the next verse: but if not. They understood God does what he wants; you cannot force the Lord to save you or deliver you. But if not, be it known unto thee, O king, that we will not serve thy gods. They understood that the body is temporal but the spirit lives on.
@@ -216,7 +249,22 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 - He gives an example of how idolatry grows in the earth: a father afflicted with untimely mourning made an image of his child soon taken away, and now honored him as a god, which was then a dead man, and delivered ceremonies and sacrifices to those under him, like in honor of Tammuz that you read about in Ezekiel 8. Thus in process of time an ungodly custom grown strong was kept as a law, and graven images were worshipped by the commandments of kings. That is what Christmas is about, worshipping this Cesare Borgia guy as Jesus on December 25th; that is what Easter Sunday is all about. And here is a lie: I do not do it because America says to do it, I do it for the children. So why do you have to do it on that particular day like America says?
 - Whom men could not honour in presence, because they dwelt far off, they took the counterfeit of his visage from far, and made an express image of a king whom they honoured. So they took his image from Rome and took it across the world: Columbus and the conquistadors came with the cross and images of Jesus by the thousands, worldwide. That is who Matthew 24:4-5 is talking about, not ten Israelites with a Bible in Liberia.
 - The singular diligence of the artificer, the artist, did help to set forward the ignorant to more superstition. Our people in Christianity truly believe those false images are God; the Bible is calling them the ignorant.
-- History read in class: Leonardo da Vinci made sketches in the 1400s of Cesare Borgia as the new Jesus. The Head of Christ, also called the Sallman Head, is a 1940 portrait of Jesus by Warner Sallman; the Baptist bookstore popularized the painting throughout the southern United States, and the Salvation Army and YMCA handed out pocket sized versions to American servicemen heading overseas during World War II. That is how that image became famous.
+- These were Leonardo da Vinci sketches of Cesare Borgia. These were the preliminary sketches in the 1400s of Cesare Borgia as the new Jesus.
+
+<div class="reading">
+
+Reading from Wikipedia, on the Head of Christ  *[[1:07:33](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=4053s)]*
+
+> The Head of Christ, also called the Sallman Head, is a 1940 portrait painting of Jesus by Warner Sallman.
+>
+> In 1940, he was asked to reproduce that painting by the students of North Park Theological Seminary. This reproduction was seen by representatives of the Gospel Trumpet Company, the publishing arm of the Church of God, Anderson, who created a new company called Creable and Bates to market Sallman's work.
+>
+> The Baptist bookstore initially popularized the painting, distributing various size lithographic images for sale throughout the southern United States. The Salvation Army and the YMCA, as members of the USO, handed out pocket-sized versions of the painting to American servicemen heading overseas during World War II.
+
+- So that's how that became famous. They redid what Leonardo did, the painting, and during World War II, that's how that became very famous.
+
+</div>
+
 - And so the multitude, allured by the grace of the work, took him now for a god, which a little before was but honoured as a man. It starts with Nimrod, Semiramis, Tammuz, but I bring up Cesare Borgia today because our people do not know those names. This was an occasion to deceive the world.
 - They lived in the great war of ignorance. We are telling people those images are not God, and they say, you are disturbing us, you are causing division. In Liberia, every radio show we went on said, why are you men causing division? Those so great plagues called they peace.
 - For whilst they slew their children in sacrifices, or used secret ceremonies, or made revellings of strange rites. You will read that and go, that is only in the past. Video played in class on the newly released Epstein files alleging secret ceremonies, torture, and ritual abuse among presidents, princes, and celebrities; the teaching point is that verse 23 is not ancient history, and nothing is secret that shall not be revealed. God is exposing these people to shatter the idols that people have created out of popular figures.
@@ -231,18 +279,59 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
     Take heed that no man deceive you: for many shall come in my name, saying, I am Christ, and shall deceive many. In Liberia they told us the many is us ten men out there teaching. No: the many that came in his name saying I am Christ is the image the conquistadors carried worldwide.
 
+<div class="reading">
+
+Reading from a question a sister sent in by email  *[[1:17:50](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=4670s)]*
+
+> How do you receive advice or even approach leadership about your marriage issues when some of their marriages have the same issues or worse?
+>
+> For example, a leader was put out for adultery. His wife looks miserable and he's always complaining about his kids. Is it wrong to be apprehensive about getting counsel from somebody like this? Are there particular leaders who can speak on marriage, or should you just counsel with whoever is asking you, even if you do not see the outcomes you want to have in their own marriage?
+
+- Now when you deal with idolatry, when you deal with hatred, when you deal with malice and grudging and bitterness, your marriage gets corrupted one way or the other. So we set up a little telegram and told sisters, hey, send in a letter on the questions that you'd like us to handle. I'm going to show you how these righteous sisters, I ain't say all of them, but one of them sitting in here sent this email.
+
+- Now I don't find that email beneficial to Marriage Is Honorable. I find it an attacking. I find it hateful. And I know the excuse would be, well, I was just pointing out something. You know, there's three bishops. How many deacons we got? Seven or eight. Surely we're all not in the midst of adultery, sister. But she points out the one instance where there was a situation with adultery. She ignores the other three bishops who were not and the other six deacons which were not in the midst of adultery. Oh, for example. See, this is hateful right here.
+
+- Brothers, be mindful who you marry. You don't want to marry a woman like this. I'm telling y'all straight. She will make your life miserable. She will record everything that she disagrees with you about and come back with a book. I've sat in counsels like that. She had a whole notebook dated back five years ago, at dates and times. She hands me the book. Guess what I did with the book? I flung it across the room.
+
+- I'm telling you, these are idolatrous women. Some of them idolatrous, evil black women. Be mindful of them. They'll try to destroy your life. So, this sister has two problems for every solution we try to give her.
+
+</div>
+
 **[Proverbs 31:26](/bible/proverbs/31#v26)**  *[[1:20:33](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=4833s)]*
 
 > <sup>[26](/bible/proverbs/31#v26)</sup> She openeth her mouth with wisdom; and in her tongue is the law of kindness.
 
-- Because idolatry, hatred, malice, grudging, and bitterness corrupt a marriage one way or the other, a telegram was set up for sisters to send in letters with questions for the Marriage Is Honorable event tomorrow. One submission read in class asked how you can receive advice or approach leadership about your marriage issues when some of their marriages have the same issues or worse, pointing at the one instance of a leader put out for adultery. That email was not beneficial; it was an attack. There are three bishops and seven or eight deacons, and she ignores all the ones who were not in the midst of any such thing and highlights the one instance. For every solution we try to give, that spirit has two problems.
 - She openeth her mouth with wisdom, and in her tongue is the law of kindness. This is the kind of wife you want. There was no kindness or wisdom in that email. Brothers, be mindful who you marry.
 
   Precepts:
   - **[Ezekiel 24:12](/bible/ezekiel/24#v12)**
     > <sup>[12](/bible/ezekiel/24#v12)</sup> She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire.
 
-    When Israel is in the midst of sin, God uses this language in the female context: she hath wearied herself with lies, and her great scum went not forth out of her. Definition read in class: scum is a layer of foul or unwanted matter that forms on top of a liquid, and informally a despised, immoral, or worthless person. That is the word God chose for his own people when the wickedness would not come out. Self examine, so that word never describes you.
+    When Israel is in the midst of sin, God uses this language in the female context: she hath wearied herself with lies, and her great scum went not forth out of her. That is the word God chose for his own people when the wickedness would not come out. Self examine, so that word never describes you.
+
+<div class="reading">
+
+Reading from a dictionary entry for scum  *[[1:22:20](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=4940s)]*
+
+> Scum is a layer of foul or unwanted matter that forms on top of a liquid, such as pond scum or soap scum. Informally, it refers to a despised, immoral, or worthless person or group, often termed the scum of the earth.
+
+- Your scum is still in your mouth, sisters. You got scum. God says there's scum still there.
+
+</div>
+
+<div class="reading">
+
+Reading from Urban Dictionary, on scum  *[[1:22:46](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=4966s)]*
+
+> Scum is the epitome of a worthless good for nothing human. They are at the bottom of the hierarchy of humans, even coming in below most … boys.
+
+> Scum: possibly the worst word you can have your name associated with.
+
+- Did you see that? It says it's the worst name you can have your name associated with. Some of these evil sisters are the scum of the earth. That's what God is saying. Some of them ain't right.
+
+> It is hard to define the word, but it is basically used to describe someone so disgraceful that they are seen as the lowest form of life, worthlessness, waste of skin, dirt, nothing. Far worse than most other insults, where the victim is often just referred to as genitalia. The fact that scum is a non-swear and perfectly acceptable English makes it even more demeaning and offensive. If you are condemned as a … or a …, then you are simply being attacked with cliche profanity used spontaneously and with no particular venom or thought. Scum, however, is usually only used in exclusive conditions where it is the only word for the job. It makes the victim feel like the lowest of the low.
+
+</div>
 
 **[Proverbs 22:3](/bible/proverbs/22#v3)**  *[[1:27:03](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=5223s)]*
 
@@ -260,6 +349,24 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
     > <sup>[13](/bible/2-esdras/14#v13)</sup> Now therefore set thine house in order, and reprove thy people, comfort such of them as be in trouble, and now renounce corruption,
 
     The world is divided into ten parts and ten parts of it are gone already. That was during the time of Ezra; understand we are in the last days and the clock is ticking. Now therefore set thine house in order, and reprove thy people. Notice we start first with setting our own houses in order; then we have the ability to tell somebody else to get right. If we are going to set our houses in order, where do we start? With your marriage. If the home front is not right, how are you going to get out there and instruct your people?
+
+<div class="reading">
+
+Reading from definitions of bound and bondage  *[[1:30:14](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=5414s)]*
+
+> Bound: 1a. fastened by or as if by a band; confined. Often used in combination.
+>
+> 2. Placed under legal or moral restraint or obligation; obliged.
+
+- Bound and bondage is, yes, two different things. But for some reason, some of us have a perception that marriage is like slavery. It's not.
+
+- Placed under legal or moral restraint or obligation. Marriage is a legal obligation through who? The Most High God. That covenant you have with your wife is between you two and it is honored by the Lord.
+
+> Bondage: a state of being bound usually by compulsion, as of a law, such as slavery or serfdom.
+
+- Some of us perceive marriage as slavery. Servitude. What's that one word that many of our lovely beautiful wives over here associate with slavery? Submission. When they hear that word submit, reverence, the first thing is, I'm a damn servant, I'm a slave. Many of you hear that now. But that's not what it is. It's called order. It's called what the Lord has designed as what? Marriage.
+
+</div>
 
 **[Genesis 2:18-24](/bible/genesis/2#v18)**  *[[1:33:05](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=5585s)]*
 
@@ -419,7 +526,18 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
 > <sup>[18](/bible/genesis/2#v18)</sup> And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
 
-- I will make him an help. Definition read in class: to help is to give assistance or support to someone, to provide someone with something that is useful or necessary in achieving an end. Help meet means suitable for him.
+- I will make him an help. A what? An help. Somebody define the word help.
+
+<div class="reading">
+
+Reading from a definition of help  *[[2:11:27](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=7887s)]*
+
+> Help, helped, helping, helps. Number one: to give assistance or support to someone; to provide someone with something that is useful or necessary in achieving an end.
+
+- Help. God said he's going to give man a help meet. Meet means suitable for him.
+
+</div>
+
 - Sometimes the help thinks they are supposed to lead, or the help thinks they are supposed to guide. But what is a help? Someone that assists in making what the husband wants happen. Sisters, the help is the greatest thing you are ever going to be. The moment you decide being the help is not the greatest thing you can be, you are going to destroy your marriage.
 - Brothers, the same goes the other way: the moment you decide not to provide, not to be the man God told you to be, watch what happens to your household. It is a domino effect. Some of you brothers did not want a wife; you wanted a mama.
 
@@ -552,17 +670,88 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 
 - If a man desire the office of a bishop, he desireth a good work. Who desires this office? That should be everybody, because a bishop is an example of what we are all supposed to be: blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach, not greedy, patient, not a brawler, not covetous.
 - One that ruleth well his own house, having his children in subjection with all gravity; for if a man know not how to rule his own house, how shall he take care of the church of God? How can you lead other men and tell them this is the way if your own house is out of order, if your wife does not listen to you and your kids do not listen to you? You cannot be over men if you cannot rule your own house.
-- Slides read in class, things husbands do that destroy marriages: adultery and fornication, which has caused damage in Israel beyond repair, so if you are battling that, get help right now; failure to lead; bitterness and harshness, holding things over her head after she has repented, humiliating her, unrealistic expectations; neglect, when a trip to the store is the only outing your wife has had in months, take your wife out, because ordering the house and dealing with the kids is difficult; pride and refusing correction, you ask leadership for counsel, then leave and remix it your own way; financial irresponsibility, wasting money, gambling, hiding spending, chasing image over stability; lack of self control, emotional men punching walls and threatening divorce constantly, saying things that cannot be unsaid; loving the world more than his family, idolizing jobs, status, and friends; failure to dwell with his wife according to knowledge; and withholding love and affection, because if she is not getting it from you, where is she going to get it from?
+
+<div class="reading">
+
+Reading from slides, things husbands do that destroy marriages  *[[2:49:58](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=10198s)]*
+
+> Things husbands do that destroy marriages.
+>
+> Adultery and fornication.
+
+- In my years in this truth, I have watched adultery and fornication rip houses apart. If you are on the fence, or if you are battling, if in your mind you're thinking that you're going to go this direction, you had better get help right now. You better say something right now, because this has caused more damage in Israel than I can even think of when it comes to marriages. I'm talking about beyond repair damage.
+
+- You put yourself in a position where you now are forever going to be in debt, because there are some women that will never let it go. Even once you've gone before the Lord and asked for forgiveness, it's never going anywhere. And it's because you decided to step out and do what you did.
+
+> Failure to lead.
+
+- Not stepping up, not taking control of your home. You are a passive individual. Your wife walks all over you. Eventually some other man is going to come along who's going to catch her eye, and she's going to desire and look to him. All because what? You don't want to step up as a man and lead your home. The scripture says where no hedge is, the possession is what? Spoiled.
+
+</div>
 
   Precepts:
   - **[Ecclesiasticus 36:25](/bible/sirach/36#v25)**
     > <sup>[25](/bible/sirach/36#v25)</sup> Where no hedge is, there the possession is spoiled: and he that hath no wife will wander up and down mourning.
 
     Where no hedge is, there the possession is spoiled. If you do not lead your house, you lose control, and the possession is spoiled. If you are not there guiding, instructing, and correcting, the marriage comes to a crashing halt.
+
+<div class="reading">
+
+Reading from slides, things husbands do that destroy marriages  *[[2:53:00](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=10380s)]*
+
+> Bitterness and harshness.
+
+- We got emotional brothers amongst us where there's things you ain't letting go. There's things you're not getting over, and you're dealing with your wife a certain type of way, and she repented, but you ain't letting it go. So you deal with your wife harshly. This destroys households. You have unrealistic expectations. You're bitter. You harshly insult, humiliating her.
+
+- A marriage is not supposed to be ran like a dictatorship type deal. The wife is supposed to willingly submit. You're supposed to have a care for your wife, love your wife. Did the scripture not tell you? You're supposed to love your wife as your own self. You humiliating her, making her look a certain type of way, is only making you look a certain type of way.
+
+> Neglect.
+
+- Y'all realize, bro, your wife should not look forward to trips to Walmart. Some of y'all's wives are so socially deprived that a Walmart trip is an exciting event. You ain't took her out. You ain't go to the movies. Dealing with the kids all the damn time, ordering the house, that stuff is difficult. It ain't easy. So have a care for your wife. Just like you go out and do things, take your wife out.
+
+> Pride and refusing correction.
+
+- We done told you, brothers, before. We done pointed you out. We done told you, hey, brother, you better fix this. But some of y'all want to do it your way, and then you wonder why your marriage comes to a freaking end. You don't take correction, bro.
+
+- You come up here to the table, you ask all the questions, and you listen to everything we got to say, and then you leave here and do something completely different. If you really looking for answers, you need to apply what you are told, but you remix it. Don't give me the Rubik's cube after you done mixed it up. Take the correction.
+
+> Financial irresponsibility. Marriage suffers when the husband wastes money, gambles, refuses to work, hides spending, chases image over stability.
+
+- I've seen more marriages come under fire because of finances, right up under adultery. The husband is irresponsible. They are freaking broke. He's gambling the money away. And now they're at odds with one another. She's trying to figure out, do I need to have a secret account to help out just in case?
+
+> Lack of self-control. Emotional men destroy marriages. Some men punch walls, rage, threaten divorce constantly, lose control emotionally.
+
+- If you punched a wall in your house before, raise your hand. I've never understood that in my life. I ain't never punched a wall. I might go grill me a tomahawk, but I'm not breaking things I've worked for. That's emotional. Now you done said some stuff that you can't unsay. Now you done changed the dynamics of your house.
+
+> Loving the world more than his family.
+
+- Some y'all idolize your jobs. Some of y'all are chasing status, your friends, your family, even folks in the world. This is who you put before your own family. This will destroy your marriage as well.
+
+> Failure to dwell with his wife according to knowledge.
+
+</div>
+
+  Precepts:
   - **[1 Peter 3:7](/bible/1-peter/3#v7)**
     > <sup>[7](/bible/1-peter/3#v7)</sup> Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 
-    Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel. A wise husband studies his wife: her fears, emotions, struggles, and strengths. When you understand your wife, you know her limits, and you set things up in the home so things can work. Some men never learn their wives and then wonder why the marriage feels distant.
+    Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel.
+
+<div class="reading">
+
+Reading from slides, things husbands do that destroy marriages  *[[3:01:42](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=10902s)]*
+
+> A wise husband studies his wife: her fears, emotions, struggles, strengths.
+
+- This is dwelling with them according to knowledge. You understand what her weaknesses are. You also understand her strengths. When you understand your wife, you're able to guide your house. But you also know their limits, and because you know their limits, you're setting things up, putting things into place, so that things can work. In order to be able to lead, you have to be able to know what it is that they deal with, what it is that they're able to do, and what they're not able to do. That goes for your kids as well.
+
+> Some men never learn their wives and then wonder why the marriage feels distant.
+
+> Withholding love and affection.
+
+- Now, I'm speaking about the men. You younger brothers that be withholding from your wives, man, you ain't fooling nobody. We know what's up, bro, and so does she. Withholding sex from your spouse is a sure way to destroy your marriage. If she's not getting it from you, where she gonna get it from?
+
+</div>
 
 **[Ephesians 5:22-24](/bible/ephesians/5#v22)**  *[[3:04:22](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=11062s)]*
 
@@ -649,11 +838,72 @@ Definitions read in class: bound is fastened by or as if by a band; placed under
 > <sup>[16](/bible/1-timothy/5#v16)</sup> If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.
 
 - I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully. Why was Paul addressing the younger women marrying? The younger widows were looking to the church to fund their lives. The answer was: you younger women, marry, so you can be taken care of by your husband. The school helps the older widows, and the active widows; but you younger women are expected to move on and marry.
-- Slides read in class, things a wife can do to destroy her marriage: disrespecting her husband, belittling him, talking down to him, embarrassing him publicly, constantly challenging his authority, because the moment your husband cannot lead or instruct you, you have stepped outside what God put in place; contention and constant arguments, because it is not normal to go back and forth with your spouse, and when that is happening Satan is afoot; refusing submission, competing with the husband, undermining his leadership, trying to dominate the household, because two heads create confusion every time; public humiliation, exposing private matters, gossiping about her husband, attacking him before friends and family; withholding intimacy, weaponizing it, which creates resentment, temptation, and emotional distance, and whoever counsels you to move that way is the devil; open [1 Corinthians 7](/bible/1-corinthians/7) right then and there; and following worldly counsel, listening to evil relatives, friends, and a jacked up social media algorithm on how to deal with your husband.
-- Questions submitted for the marriage event were read. One sister wrote that her husband is slothful and only works for Esau, and asked how she is supposed to rebuke him as the weaker vessel. Answer: there are things your husband is not going to receive from you; you cannot stand over him demanding. Push him to be around leadership, because when brothers come around the leaders, things come out, and that hot seat has changed lives. That brother is probably also tired as hell.
-- Another sister asked how to encourage her lord to spend time with the girls in a blended family. Answer: stop trying to tell a man how to be a father; that is that bossy spirit trying to find an excuse to instruct him. Influence him through your own actions: take the girls to the park yourself and let your example provoke him. Complaining and nagging has never moved a man; pray to the Most High and be a good influence. And sisters, be honest about the choices that created the blended situation; we are not miracle workers.
-- A brother wrote that in over ten years his wife has taken no initiative, no meal prep, while he works twelve hour shifts, and asked for help. Answer: you have to command your house, brother. There is no way you work those shifts and cannot get a plate of food made. Fix it.
-- Another submission asked why there are no structured events or classes for married couples. The browser was pulled up live in class: type in IUIC marriage class and playlists of over a hundred videos come up, plus the cabin trip series, plus this being the third Marriage Is Honorable event. Some people only see what they want to see.
+
+<div class="reading">
+
+Reading from slides, things a wife can do to destroy her marriage  *[[3:26:42](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=12402s)]*
+
+> Things a wife can do to destroy her marriage.
+>
+> Disrespecting her husband.
+
+- That's the first thing that will end your marriage. There's only so much a man is going to take. The moment your husband cannot lead you, if he cannot instruct you, why are you there? If you're going to tell him no, be prepared to fend for yourself. The moment you tell that man no, you're stepping outside of what God has put in place in rulership over your head, and you've set up your own. So you might as well go find your own.
+
+> A wife destroys marriage when she disrespects a husband, belittles him, talks down to him, embarrasses him publicly, constantly challenge his authority.
+
+- No man wants a woman that's going to disrespect him, challenge his authority. There are things that your husband's not going to tell you. It's not for you to know. He's going to give you the information that is pertinent for you, but he's not obligated to tell you everything all the time.
+
+> Contention and constant arguments.
+
+- Who's argued with their wife before? Everybody argues with their wife. It ain't normal. I'm saying it right now. It's not okay. You're not supposed to go back and forth with your wife. Just know when that's happening, Satan is afoot. A submissive woman ain't going to go back and forth. A submissive woman is going to hear instruction.
+
+> Refusing submission. Marriage suffers when a wife competes with a husband, undermines his leadership, refuses correction, tries to dominate the household. Two heads create confusion.
+
+- I'm the only person in here that's over everything. Two heads bring confusion every time. The Lord has always been about order. The moment you step out of order, what happens? Chaos. And if you allow that in your home, you'll normalize it after a little while. And that's what's happened in the black families today.
+
+> Public humiliation. A wife destroys trust when she exposes her private matters, gossips about her husband, humiliates him before friends and family, attacks him publicly.
+
+> Withholding intimacy. Weaponizing intimacy creates resentment, temptation, emotional distance.
+
+- Now, this is common. Women like to weaponize sex. Well, if you don't do this, then I ain't giving you none. That is a dangerous, dangerous, dangerous game, sisters. And whoever's counseling you to do that or to move that way, they the damn devil. If you withhold sex from your partner, you're asking for fornication to creep in.
+
+- Now, brothers, I'm not going to give you an excuse. It's adultery. But you have to show her and bring the scriptures out. If she says no, give her a scripture. Take her to [First Corinthians 7](/bible/1-corinthians/7) right then and there. It's real hard to stay in the midst of sin once you open the Bible.
+
+> Following worldly counsel.
+
+- Some of y'all be listening to your evil mamas, your evil aunts, grandmas, or your friends for advice on how to deal. Same thing with the social media stuff. Sisters, your algorithm is screwed up. Some of y'all like to hear the stuff about women power, men ain't worth a damn. Next thing you know, that's all you see. Now you looking at your husband like, you piece of … cuz your algorithm's jacked up.
+
+</div>
+
+<div class="reading">
+
+Reading from questions sent in for the marriage event  *[[3:35:07](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=12907s)]*
+
+> My husband is slothful in everything he does. He thinks his only job is to go to work for Esau and do nothing else. No studying, praying, fasting with himself, with his brothers, or with his family. I may not be rebuking him correctly. But if I am supposed to be the weaker vessel and are supposed to be led by him, how does this supposed to work?
+
+- We put in the thing for serious questions to be asked, and this is the stuff some of y'all brought forward. That's why I spoke about humiliation. Some of y'all want to humiliate your husband. You want him to feel like nothing. And sister, that ain't love.
+
+- Let me tell you, sister, something. There are things your husband is not going to receive from you. There are things that you are not going to have control over when it comes to influencing him to do certain things. And this is why you should constantly be pushing your husband to be around leaders. Because what happens when they come around us? Things come out. They get put in the what? Hot seat. That hot seat has changed lives.
+
+> As a wife, how do I encourage or ask my lord to spend time or take out the kids, girls? I don't want to seem pushy. I only ask because I know a healthy relationship with a father daughter means a lot. Nine out of 10 girls will look for a man like their father. So if there is no established relationship, how will it look? Some men may not know how to be a father or a father to girls. What are some tips or advice to give to my lord, or even suggested classes? This is a family with me already having a daughter, and we have another daughter together. Blended family.
+
+- I find it very interesting at times that you have women that will try to tell you how a father's supposed to be, and they themselves didn't grow up with a father. They're going off of what they see in the movies, what they're seeing on social media. How about you tell him to go where other fathers is at? How about you tell him to be influenced by them? Instead, you complain. Complaining ain't never got you nowhere. He don't respond to the nagging.
+
+- What you have to do is pray to the Most High God and be a good influence. And through your actions, you show the things that you want him to do. You want him to take them to the park? How about you take them to the park? That's how you influence him. It's not through aggression.
+
+- How many of you sisters in here are widows? Raise your hand. Two. How many of y'all's husbands are locked up in jail? None. I'm just cutting down the excuses. What some sisters do, the man is good enough to have sex with and have a baby with, but they don't want to marry him. Now she got a baby from him who she don't like and wants you to take care of this baby, and this baby here knows that this ain't the daddy. That's where problems come up in marriage. We're not miracle workers. Sometimes sisters make mistakes and they have to live with those mistakes.
+
+> Shalom, Most High in Christ bless. My wife of 30 plus years only supports me when I bring it up. She never takes the initiative to do anything. No meal prep, doesn't even cook for herself, rather eat out so-called healthy fast foods, and amongst other things. Constantly have to remind her I work 12 hours a day. It's hard at times to cook and pack my own lunch at times. It's been over 10 years now, and the truth, I'm drained, but she's still my real. Please help.
+
+- 10 years, bro. What are you doing? She ain't made you a sandwich in 10 years, bro. You got to fix it, bro. You got to command your house. There's no way you work 12 hour shifts and you can't get a plate of food made for you. Bro, who are you ruling? You need to command your house, bro.
+
+> Why aren't there any structured events or classes for married couples to get together to learn how to apply the scripture to the marriage? We need guidance.
+
+- Bishop, this is the stuff I'm talking about. Pull up the browser. What number Marriage Is Honorable event is this? Third. You ain't seen a cabin trip series? Type in IUIC marriage class. 124 videos. 43 videos. All these classes on marriage. You talking about why ain't there any classes?
+
+- Some people only see what they want to see. Some people, if they want to see negative or be negative, that's all they going to see.
+
+</div>
 
 **[Matthew 19:4-5](/bible/matthew/19#v4)**  *[[3:49:45](https://www.youtube.com/watch?v=T2fTN52Aq_U&t=13785s)]*
 
