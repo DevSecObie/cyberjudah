@@ -84,7 +84,6 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 - That ye be not soon shaken in mind, or be troubled: cuz during this time you had many idiots running around saying the resurrection has come and gone already; you can read about that in the book of Timothy. So Paul was reminding them, don't let nobody deceive you; Christ has not returned yet.
 - The falling away means the 12 tribes of Israel have to fall and go into captivity. Christians read that and go, yeah, people going to fall away from Christianity and go join Islam. That's not what it's talking about.
 - Two things have to happen before Christ returns: all 12 tribes must go into captivity, which is where we're at now, and a man of sin must be revealed, the son of perdition.
-- Definition read in class: perdition primarily refers to eternal damnation or the state of spiritual ruin and hell, originating from the Latin word perdere, meaning to destroy or to lose. The noun is often used to describe the fate of the wicked or the absolute loss of one's soul. In Christian theology it signifies the final loss of salvation and the unending punishment of a soul in the afterlife.
 
   Precepts:
   - **[Genesis 49:10](/bible/genesis/49#v10)**
@@ -96,7 +95,19 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
     They shall fall by the edge of the sword: the Israelites. And shall be led away captive into all nations: slavery. And Jerusalem shall be trodden down of the Gentiles: Jerusalem shall be taken over by other nations, in particular Edomite nations, until that time of rulership is fulfilled.
 
-**[Revelation 17:8-11](/bible/revelation/17#v8)**  *[[42:24](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2544s)]*
+<div class="reading">
+
+Reading from a definition of perdition  *[[44:38](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2678s)]*
+
+> Perdition. Perdition primarily refers to eternal damnation or the state of spiritual ruin and hell, originating from the Latin word perdere, meaning to destroy or to lose. The noun is often used to describe the fate of the wicked or the absolute loss of one's soul.
+>
+> Key distinctions and uses. Religious meaning: in Christian theology, it signifies the final loss of salvation and the unending punishment of a soul in the afterlife.
+
+- So that man of sin, the son of perdition.
+
+</div>
+
+**[Revelation 17:8-11](/bible/revelation/17#v8)**  *[[45:16](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2716s)]*
 
 > <sup>[8](/bible/revelation/17#v8)</sup> The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
 >
@@ -179,8 +190,33 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 - Now you got the coroner for Nolan's case; they don't want to release their autopsy report. They said, we want to wait to see what Colin Kaepernick's independent guy says. But that ain't how it's supposed to work: you're working for the city or the state, you're supposed to release your findings. They know they're doing corrupt stuff; they want to wait so ain't going to be no contradictions. This is evil as hell.
 - And hast been partaker with adulterers: look at the Epstein case. Thou givest thy mouth to evil: they say we're Christians, but then they kill you in the same breath. And thy tongue frameth deceit: Jesus is white and he was born December 25th.
 - Thou sittest and speakest against thy brother: in fact, Jacob is the evil son, Esau is the righteous one; just like Abel, Cain was a good son, Abel was a bad one. That's what their Christian theology does. Thou slanderest thine own mother's son: they slander us day by day. We're the worst criminals on earth; oh, there's more black-on-black crime than anything. Really? More than the bombs y'all dropped throughout the seven countries?
-- Article read in class: US bombed Iraq, Syria, Pakistan, Afghanistan, Libya, Yemen, Somalia; in 2016 the US dropped 26,171 bombs on seven countries, according to an analysis by the Council on Foreign Relations. Article read in class: fact check, Elizabeth Warren says Trump has bombed more countries than any modern president: "In the modern era, no American president has ordered more military strikes against as many different countries as Donald Trump," criticizing his decision to attack countries across the Middle East, parts of Africa, and Venezuela without congressional approval.
-- Notice they never tell you: when the bomb drops, civilians get killed. They never give you the accurate number. Since the bombing started it's 50,000 children estimated. You telling me Pooky and Ray Ray killed 50,000 kids in the hood? If you combine all the killings in the United States at the hands of black people, take it back 20, 30 years, you ain't got no 50,000. They did this in less than a year. If you don't know these statistics, they're going to give you the wrong logistics concerning the killings and make it look like you the bad guys.
+
+<div class="reading">
+
+Reading from an article on the seven countries America bombed in 2016  *[[1:04:39](https://www.youtube.com/watch?v=ND_RbWngH9I&t=3879s)]*
+
+> US bombed Iraq, Syria, Pakistan, Afghanistan, Libya, Yemen, Somalia. In 2016, the US dropped 26,171 bombs on seven countries in 2016, according to an analysis by the Council on Foreign Relations.
+
+</div>
+
+<div class="reading">
+
+Reading from a fact-check article on Elizabeth Warren and Trump's bombings  *[[1:05:27](https://www.youtube.com/watch?v=ND_RbWngH9I&t=3927s)]*
+
+> Fact check: Warren says Trump has bombed more countries than any modern president.
+>
+> "In the modern era, no American president has ordered more military strikes against as many different countries as Donald Trump," Sen. Elizabeth Warren, D-Mass., said March 3.
+>
+> Sen. Elizabeth Warren, D-Mass., is a critic of President Donald Trump's military track record and his decision to attack countries across the Middle East, parts of Africa and Venezuela without congressional approval. In a Senate floor speech, Warren criticized Trump's explanations for beginning the Iran war and for backtracking on a campaign promise.
+
+- He said, "That's what I wanted." But I want y'all to notice they never tell you, when the bomb drops, civilians get killed.
+
+- It's 50,000. You telling me Pooky and Ray Ray killed 50,000 kids in the hood? If you combine all the killings in the United States of America at the hands of black people, take it back 20 years, 30 years, you ain't got no 50,000. They did this in less than a year.
+
+- So if you don't know these statistics, they're going to give you the wrong logistics concerning the killings, and they're going to make it look like you the bad guys. This is the stuff we need to know. This is a matter of months, that's how much children they killed, and that's estimated.
+
+</div>
+
 - These things hast thou done, and I kept silence: that's what Romans 9 means by endured with much longsuffering. Some people say, I don't believe in God; why didn't he save us during slavery, during Jim Crow? He said, I saw all these things and I kept silent. I'm waiting.
 - Thou thoughtest that I was altogether such an one as thyself: the white man said, well, God ain't judging us, so surely he's a white man. But I will reprove thee, and set them in order before thine eyes: and set the Israelites, the children of Jacob, in order right before you. That's what y'all see right now.
 
@@ -212,19 +248,89 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 - Remember the series American Gods? Anansi, he was on a slave ship, and he said, are you angry? That's good. Anger gets stuff done. Surely oppression makes a wise man mad. Not, I'm going to go kill everybody. No: let's organize, let's do better. You know who got him fired? Black people. Black people said, hey, the stuff he's saying on this show is going to make white people mad. They got him fired, the whole show canceled, and all them black people lost their jobs.
 - Story: a sister's phone go ding; somebody's sending her indecent pictures on Instagram. This went on for a while, so finally they told the heads of the school. They said, everybody bring your phones up and close the doors. One brother said, oh, my phone is dead. They said, don't worry, we got a charger. Sure enough, it was him. They said, everybody move back; the husband said, move out my way.
 
-Book read in class: Dr. William Smith's Dictionary of the Bible, comprising its antiquities, biography, geography, and natural history, published 1890:
+<div class="reading">
 
-- "I have several times shown that from Edom proceeded the kings who reigned in Italy, and who built up Rome to be great among the nations and chief among the provinces. And in this way Italy and Greece and all the western provinces became filled with Idumeans." Wait, not Japheth: Edom. The western provinces: that's Germany, France, all them European countries. Idumea: pertaining to Edom; the Greek and Roman name for Edom. "Thus it is that the prophets call the whole of that nation by the name of Edom."
-- "Kimchi says that Julius Caesar was an Idumean." An Edomite. Oh, okay. I didn't write this. "Scaliger reports the Jews, both those who are comparatively ancient and those who are modern, believe that Titus was an Edomite. And when the prophets denounce Edom, they frequently refer it to Titus." Titus was one of the Caesars.
+Reading from *Dr. William Smith's Dictionary of the Bible, comprising its antiquities, biography, geography, and natural history*, published 1890  *[[1:23:08](https://www.youtube.com/watch?v=ND_RbWngH9I&t=4988s)]*
 
-Book read in class: Modern Judaism, or a brief account of the opinions, traditions, rites, and ceremonies of the Jews in modern times, by John Allen, published 1830:
+> I have several times shown that from Edom proceeded the kings who reigned in Italy,
 
-- "First, that the descendants of Esau, the sworn enemies of the descendants of Jacob, even to the end of the world, were at first a small nation inhabiting Mount Seir." You know what's good about that? Jehovah's Witnesses say the Edomites were already destroyed; you have Vocab Malone say the Edomites were destroyed. This says even to the end of the world.
-- "But that after the powerful republic of the twelve tribes was destroyed by the Assyrians and Babylonians, they wonderfully increased in numbers and strength, extended their dominion towards the west, spread their colonies far and wide, subjugated Italy, founded Rome and the Roman Empire, at length entirely overturned the Jewish state, the second temple being destroyed by Titus Vespasian; and that in the present day, professing the religion of Jesus of Nazareth, which they were the first of all nations to embrace, they hold the dominion over all Europe; Esau detaining in captivity his brother Jacob, at least as far as regards the tribe of Judah, till his Messiah ben David shall appear."
-- "Secondly, that the prophecies of the prophets against Esau, Edom, Seir, and the cities of Edom, especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment; but that though the house of Esau has experienced some particular judgments of God on account of the injuries at different periods of time inflicted upon Israel" (World War I, World War II), "yet the final vengeance on account of that last and greatest injury, the destruction of the second temple by Titus and the transportation of the Jews into captivity in which they are still most appropriately detained, is yet impending over it, to be executed in the time of the Messiah. And that the fate of Christians at that time will be far more dreadful than that of Mohammedans. Abarbanel particularly says the slaughter of the Turks in the future battle will not be so great as that of the Christians; for many of the Turks will escape, according to Isaiah 66:19, but of the Christians, Obadiah says there shall not be any remaining of the house of Esau."
-- Now that's what the scholars think. So don't let nobody tell you the white man is Japheth. It's all a lie. Why? Cuz they love Esau; they want to save the white man. And these coon Israelites will purposely read no scriptures about judgment, vengeance, death, destruction on the nations. They will purposely avoid like Revelation 13:9 and 10. Why? Because they'll have Edomites sprinkled throughout the congregation.
+- The kings of Edom reigned in Italy.
 
-**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[1:28:51](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5331s)]*
+> and who built up Rome to be great
+
+- Wait, wait, wait. Not Japheth. You got this Israelites: Japheth. No, Edom.
+
+> among the nations and chief among the provinces. And in this way, Italy and Greece and all the western provinces became filled with Idumeans.
+
+- You know the western provinces? That's Germany, France, all them European countries over there became filled with what?
+
+- I'm going to ask you to do something. Find me Idumeans, because this for new people online. They might say, well, what the hell is an Idumean?
+
+</div>
+
+<div class="reading">
+
+Reading from the Zondervan Bible dictionary, on Idumea  *[[1:24:46](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5086s)]*
+
+> Idumea: pertaining to Edom; Greek and Roman name for Edom.
+
+- So Idumea is a Greek and Roman name for Edom.
+
+</div>
+
+<div class="reading">
+
+Reading from *Dr. William Smith's Dictionary of the Bible*, read on  *[[1:25:27](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5127s)]*
+
+> Thus it is that the prophets call the whole of that nation by the name of Edom.
+
+> Kimchi says that Julius Caesar was an Idumean.
+
+- An Edomite. Oh, okay. I didn't write this. We didn't write this.
+
+> Scaliger reports the Jews, both those who are comparatively ancient and those who are modern, believe that Titus was an Edomite. And when the prophets denounce Edom, they frequently refer it to Titus.
+
+- Titus was one of the Caesars, one of the 12 feathers.
+
+</div>
+
+<div class="reading">
+
+Reading from *Modern Judaism, or a brief account of the opinions, traditions, rites, and ceremonies of the Jews in modern times* by John Allen, published 1830  *[[1:26:23](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5183s)]*
+
+> First, that the descendants of Esau, the sworn enemies of the descendants of Jacob, even to the end of the world, were at first a small nation inhabiting Mount Seir
+
+- You know what's good about that? Jehovah's Witnesses say the … were already destroyed. You have Vocab Malone say the … were destroyed. This says that the descendants of Esau, the sworn enemies of the descendants of Jacob, even to the end of the world.
+
+> and the adjacent country contiguous to the land of Canaan; that they were easily confined within their own limits as long as the Israelites enjoyed a great and formidable empire in Canaan; but that after the powerful republic of the 12 tribes was destroyed by the Assyrians and Babylonians, they wonderfully increased in numbers and strength, extended their dominion towards the west, spread their colonies far and wide, subjugated Italy, founded Rome and the Roman Empire, at length entirely overturned the Jewish state, which had been restored after the termination of the Babylonian captivity, the second temple being destroyed by Titus Vespasian; and that in the present day, professing the religion of Jesus of Nazareth, which they were the first of all nations to embrace,
+
+> they hold the dominion over all Europe,
+
+- See, Esau holds the dominion over all Europe.
+
+> Esau detaining in captivity his brother Jacob, at least as far as regards the tribe of Judah, till his Messiah ben David shall appear.
+
+- Messiah son of David, that's Christ, shall appear.
+
+> Secondly, that the prophecies of the prophets against Esau, Edom, Seir, and the cities of Edom, especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment; but that though the house of Esau has experienced some particular judgments of God on account of the injuries at different periods of time
+
+- World War I, World War II.
+
+> inflicted upon Israel, yet the final vengeance on account of that last and greatest injury, the destruction of the second temple by Titus and the transportation of the Jews into captivity in which they are still most appropriously detained, is yet impending over it, to be executed in the time of the Messiah; that this is foretold by the prophets in all their denunciations of the severest plagues against the house of Esau, the cities of Edom, and Mount Seir, which all belong to Rome and the Christians; and that the fate of Christians at that time will be far more dreadful than that of Mohammedans.
+
+- Mohammedans. Muhammad.
+
+> Abarbanel particularly says the slaughter of the Turks in the future battle will not be so great as that of the Christians; for many of the Turks will escape, according to Isaiah 66:19, but of the Christians, Obadiah says there shall not be any remaining of the house of Esau.
+
+- All righty then. Now that's what the scholars think.
+
+- So don't let nobody tell you the white man is Japheth. Don't let them fool you. It's all a lie. Why? Cuz they love Esau. They want to save the white man. So let's say he's Japheth: we can save you, Massa. Yes, you have … Israelites, too.
+
+- And these … Israelites will purposely, and listen to their teachings, I'll listen to some of them, I ain't talking about the crazy one west ones, I'll do it to other ones, and they will purposely read no scriptures about judgment, vengeance, death, destruction on the nations. They will purposely avoid like Revelation 13:9 and 10. We're not reading that. Nope. We're not going to explain it. And if they do explain it, it's something other than what the scriptures are saying. It's some watered down. Why? Because they'll have … sprinkled throughout the congregation. I see them. I watched these new Israelites just popping up.
+
+</div>
+
+**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[1:31:32](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5492s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 >
@@ -234,9 +340,22 @@ Book read in class: Modern Judaism, or a brief account of the opinions, traditio
 - Who opposeth and exalteth himself above all that is called God: who does that? It's the white man. He exalts himself above all that is called God. So that he as God sitteth in the temple of God: his churches. If you want salvation, you got to go to his churches. Then the white guy say all black churches should close down and come learn under white people.
 - Remember during the time of Rome, in 70 AD, Titus did exactly what we read there: Titus literally went and sat his rear behind in the temple. But let's bring it up to today, because remember Israel went into slavery.
 
-Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded chapters, by John Bond, European correspondent of the Fellowship Forum:
+<div class="reading">
 
-- "The original of this bust was found in the church of San Salvador in Onda, now destroyed. It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it." You see that right there? It's an open secret. We didn't hear about that in America. It's an open secret among Europeans: they know, but they wouldn't tell us. They work collectively. Bust shown: bust of the savior, posed for by Cesare Borgia; Salvatore means savior; see the crown of thorns. Many of our northern kingdom brothers and sisters, some of our mothers and fathers, glorify this right here.
+Reading from *In the Pillory: The Tale of the Borgia Pope, in nine crowded chapters* by John Bond, European correspondent of the Fellowship Forum  *[[1:34:00](https://www.youtube.com/watch?v=ND_RbWngH9I&t=5640s)]*
+
+> The original of this bust was found in the church of San Salvador in Onda, now destroyed. It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
+
+- You see the part right there? It's an open secret. We didn't hear about that in America. So, it's an open secret among Europeans. They know, but they wouldn't tell us. See, they work collectively. We're the only race that does not work as a unit, but European white people, they do.
+
+- So, that's him. That's Cesare Borgia. That's the secret. Cesare Borgia posed as Jesus Christ. See the crown of thorns. Salvatore mean savior.
+
+> Bust of the savior, posed for by Cesare Borgia.
+
+- That's him right there. He posed for that. This many of our northern kingdom brothers and sisters, some of our mothers and fathers, glorify this right here.
+
+</div>
+
 - The Last Supper painting: that's Cesare in the center. If you count the men, it's supposed to be 12 disciples, but two of those people are women: Cesare's sister Lucrezia, twice, and the one with the white beard is Rodrigo Borgia, his father, more than once. Who gave them authority to stick two women in there? It's them over and over and over again. Wasn't Lucrezia having sex with her brother? She was.
 - Seventh Day Adventists love to say they don't use images of God or Christ. That's a lie: right there, they got Cesare Borgia as Christ. And the biggest liars are the Jehovah's Witnesses; they say nobody knows what Christ look like, then in their comic books, who the hell is that? We gonna cut them in Revelation 1:14-15 or Daniel 10:5 and 6. Or they'll say it don't matter what color Jesus is; so why is every image y'all put up white? Their conditioning worked: them pushing white Jesus put them in a position of superiority. That's why you feel inferior to them, and it started with imagery, 14th century Renaissance art.
 
@@ -286,7 +405,33 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 > <sup>[20](/bible/isaiah/14#v20)</sup> Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned.
 
 - When you read verse 4: take up this proverb against the king of Babylon; that's Babylon the great. Thou shalt not be joined with them in burial: Babylon, Edom shall not be joined with the other nations in burial. Because thou hast destroyed thy land: they allowed 9/11 to happen, they allowed COVID to happen. And slain thy people: they're the ones that slay their own people.
-- The seed of evildoers shall never be renowned. Definition read in class: renown means celebrated, famous, or widely recognized for a specific skill, achievement or quality; it typically implies that someone is not just widely known but highly respected and esteemed within their field. What race on earth is celebrated? It ain't China; it's this white man that's celebrated, famous, recognized for technology, most highly respected on the earth. They ain't going to be respected no more. Right now they are held in such high esteem, especially amongst black women; you got some black men in the church that hold them in high esteem. That Brandon Tatum, that dude simple as hell.
+- See that? The seed of evildoers shall never be renowned.
+
+<div class="reading">
+
+Reading from a definition of renown  *[[1:52:25](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6745s)]*
+
+> Renown. Renown is an adjective meaning celebrated,
+
+- What race on earth is celebrated? It ain't China. It's this white man that's celebrated.
+
+> famous,
+
+- What race is famous? It's the white man that's famous on this earth.
+
+> or widely recognized for a specific skill, achievement or quality.
+
+- Who's recognized for technology? The white man.
+
+> It typically implies that someone or something is not just widely known but highly respected
+
+- Most highly respected on the earth: the white man.
+
+> and esteemed within their field.
+
+- They ain't going to be respected no more. Right now, they are held in such high esteem, especially amongst black women. You got some black men in the church that holds them to high esteem. What's that Brandon Tatum? That dude simple as hell.
+
+</div>
 
 **[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[1:49:38](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6578s)]*
 
@@ -556,8 +701,52 @@ Book read in class: In the Pillory: The Tale of the Borgia Pope, in nine crowded
 >
 > <sup>[11](/bible/2-peter/3#v11)</sup> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
 
-- Definition read in class: a scoffer is someone who mocks, ridicules, or treats others with contempt. They often dismiss ideas, beliefs, or principles they disagree with as silly or stupid. A scoffer doesn't just disagree; they express insolent doubt and derision. The term is frequently used in religious texts to describe someone who openly opposes God, divine truth, or moral wisdom: arrogant, close-minded, and fueled by pride.
-- Reasons read in class why people scoff at the Bible: perceived contradictions within the text; historical and scientific concerns; moral and ethical issues raised by certain passages; allegations of inaccuracies due to translation changes; the existence of multiple divergent denominations; the problem of evil and suffering, including why a benevolent, all powerful deity would permit harm; miracles that some find implausible; cultural distance; exclusivity claims. The one I focused on is the problem of evil and suffering.
+<div class="reading">
+
+Reading from a definition of scoffer  *[[2:52:22](https://www.youtube.com/watch?v=ND_RbWngH9I&t=10342s)]*
+
+> A scoffer is someone who mocks, ridicules, or treats others with contempt. They often dismiss ideas, beliefs, or principles they disagree with as silly or stupid. In some context, it can also refer to a greedy or voracious eater.
+>
+> Key characteristics and meanings. Mockery and derision: a scoffer doesn't just disagree; they express insolent doubt and derision. They typically belittle, insult or make ironic comments about the views or faith of others.
+>
+> Religious or moral context: the term is frequently used in spiritual and religious texts to describe someone who openly opposes God, divine truth, or moral wisdom. Biblical descriptions characterize scoffers as arrogant, close-minded, and fueled by pride.
+
+- So I wanted to know, what are some reasons people become scoffers?
+
+</div>
+
+<div class="reading">
+
+Reading from a list of common reasons people scoff at or critique the Bible  *[[2:53:42](https://www.youtube.com/watch?v=ND_RbWngH9I&t=10422s)]*
+
+> Here are common reasons people scoff at or critique the Bible, presented in neutral terms:
+>
+> Perceived contradictions within the text, including differing or conflicting accounts and timelines.
+>
+> Historical and scientific concerns, such as discrepancies with established archaeology, biology, or cosmology.
+>
+> Moral and ethical issues raised by certain passages, for example, views on slavery, gender roles, capital punishment or warfare.
+>
+> Allegations of inaccuracies or anachronisms due to translation changes and transmission over centuries.
+>
+> The existence of multiple, sometimes divergent denominations and interpretations, which can undermine claims of a single definitive truth.
+>
+> The problem of evil and suffering, including why a benevolent, all-powerful deity would permit harm.
+>
+> Miracles and supernatural events that some find implausible or unlikely.
+>
+> Allegations of fabricated or edited content, including concerns about later additions or redactions.
+>
+> Cultural distance: the Bible reflects ancient Near Eastern and Mediterranean contexts that differ greatly from modern norms.
+>
+> Exclusivity claims: verses that appear to promote intolerance or judgment toward non-believers or other faiths.
+>
+> Perceived conflicts with modern science or secular ethics, leading some to view it as outdated.
+
+- So one that I focused on, I looked at, is the one that says the problem of evil and sufferings, including why a benevolent, all-powerful deity would permit harm. So I came across this clip with this brother here.
+
+</div>
+
 - Video: an ex-pastor turned atheist: "When you say the cure for cancer has been suppressed, you have zero corroborating evidence. I have a child who is in remission right now, stage 4 brain cancer, so I don't play with words like that." I went through his page; I wanted to know why was he such an atheist. I saw that video and said, aha: he has a child with stage four brain cancer. In remission, all praises.
 - Video: same man on the Israelites: "In 1997 I believed that the gospel was true. I became a Christian. For 15 years I preached in the streets and the prisons. But let me tell you the truth: all of it is BS, and it's time for black people to leave this crap alone. There is no scriptures talking about some Yeshua coming. Black people, you are not Israelites. Never were you. Do a DNA study. And even if we were, that God, I would hate. That God was evil in the old and then the new. The Bible is phony. The Bible is a magic book. The Bible is fiction. Haven't you realized this Jesus ain't do yet? Slavery, nothing. Jim Crow, nothing. Trail of Tears, nothing."
 - That's a lot of trauma right there. When I heard the thing about the young lady in his life with stage four brain cancer, I said, ah, there you go. They probably did that holy water or lay on their hands and nothing's been working. That's my thought; I could be wrong.

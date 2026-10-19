@@ -27,12 +27,49 @@ Well, today's not going to be a long class. I'm tired. Malachi got everybody sic
 
 ## Scriptures Opened
 
-Book read in class: The Jewish Mystique by Ernest van den Haag. Shout out to Captain Lemuel who showed me this book. Pay attention to what Esau writes regarding us; this is Amalek that wrote this book:
+We're just going to open one book. Shout out to Captain Lemuel who showed me this book. Pay attention to what Esau writes regarding us; this is Amalek that wrote this book.
 
-- "Negroes lacked all of these intangible but immensely important advantages. They did not share a common language, religion, history, or culture. They had no literature, no record of their own past, no laws, no leaders, and no community." Notice he says that about us, but all that, Esau destroyed everything when they conquered us. That's what the writer is not revealing.
-- "Tribes did have at least some of these common bonds. But enslavement destroyed the tribal units. And the Negroes kept on a plantation could communicate with each other only in English. Even their religion, their self-image and their ambitions were those handed to them by their owners." See that? That's Christianity.
-- "Negroes did not feel that a code of conduct prescribed by their religion would lead to redemption. They did not feel that their sufferings were a chastisement imposed by a father who had been disobeyed, and that ultimate redemption would depend on their studying and obeying his law." You see what the white man wrote? So the white man knows that our redemption comes through studying and obeying God's law. But he's saying black people don't believe that.
-- "They tended to feel that their fate depended on outside secular forces, on the behavior of the white majority. Thus, they are led to pull or push that majority into helping them, and into repairing the damage done, which further weakens their own initiative and independence." There's voting: politics is the way. We want reparations. Now, this is some heavy writing there. Some telling writing.
+<div class="reading">
+
+Reading from *The Jewish Mystique* by Ernest van den Haag · read by Officer Nick  *[[17:18](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=1038s)]*
+
+> Negroes lacked all of these intangible but immensely important advantages. They did not share a common language, religion, history, or culture. They had no literature, no record of their own past,
+
+- Now, notice he says that about us, but all that information about no common language, religion, no history or culture, no record of our own past, Esau destroyed everything when they conquered us. That's what the writer is not revealing.
+
+> no laws, no leaders, and no community. Tribes did have at least some of these common bonds. But enslavement destroyed the tribal units. And the Negroes kept on a plantation could communicate with each other only in English. Even their religion, their self-image and their ambitions were those handed to them by their owners.
+
+- See that? That's Christianity. Their religion, their self-image, and their ambitions were those handed to them by their owners. That's Christianity.
+
+> They are in the difficult situation of not being accepted by the only society they know, of wishing to reject it in retaliation, and of having no society of their own.
+
+- So now he's talking about American blacks in particular.
+
+> No culture, no usable path to turn to. University studies and institutes cannot manufacture a history and a culture. And the conditions which surrounded their life in America from the beginning hindered the development of those values, ambitions, and aptitudes which would have procured them a reasonable place in American society. In contrast, Negroes did not feel that a code of conduct prescribed by their religion would lead to redemption independently of the wishes of the white majority.
+
+- Negroes did not feel that a code of conduct prescribed by their religion would lead to redemption. That's what he's saying. Black people don't believe in keeping no laws, no commandments.
+
+> They did not feel that their sufferings were a chastisement imposed by a father who had been disobeyed and that ultimate redemption would depend on their studying and obeying his law.
+
+- You see what the white man wrote? So the white man knows that our redemption comes through studying and obeying God's law. But he's saying black people don't believe that.
+
+> Unlike Jews,
+
+- Unlike white folks.
+
+> they tended to feel that their fate depended on outside secular forces, on the behavior of the white majority. Thus, they are led to pull or push that majority into helping them
+
+- So he's saying black people rely on outside secular forces. There's voting. Politics is the way.
+
+> and into repairing the damage done,
+
+- We want reparations.
+
+> which further weakens their own initiative and independence.
+
+- Now, this is some heavy writing there. Some telling writing.
+
+</div>
 
 **[Job 20:12-13](/bible/job/20#v12)**  *[[21:17](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=1277s)]*
 
@@ -56,11 +93,35 @@ Book read in class: The Jewish Mystique by Ernest van den Haag. Shout out to Cap
 
 In the news, played in class (public service announcements, by the way):
 
-Nolan Wells, missing on Horn Island, Mississippi. His mother Christine Wesley's post read in class: "Guys, my husband and I going to have to stop posting for a little bit. We've been up for close to 48 hours now and my body feels like it's shutting down. Please contact the Jackson County Sheriff Department if you have any leads on his whereabouts. We need to know if he left the island and with who." Second post: "This is our Nolan Wells aka No. One of the sweetest and kindest souls you could ever meet. He went missing on Horn Island on July 4th. Please help us find our sunshine."
+<div class="reading">
 
-- His mother is what they call Blasian, mixed with Chinese and black; if you look at him, you can see in his eyes he got a little bit of her.
-- This brother, his wife, and this young man went celebrating July 4th with a bunch of. That's not the black man or black woman's holiday.
+Reading from a post by Nolan Wells's mother, Christine Wesley  *[[28:25](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=1705s)]*
 
+> Guys, my husband and I going to have to stop posting for a little bit. We've been up for close to 48 hours now and my body feels like it's shutting down. Please contact the Jackson County Sheriff Department if you have and leads on his whereabouts. 228-769-3063. And you may also PM me. We need to know if he left the island and with who.
+
+- Now his mother is Blasian, what they call Blasian. She's mixed with Chinese and black. That's why if you look at him, you can see in his eyes he got a little bit of her.
+
+</div>
+
+<div class="reading">
+
+Reading from a second post on Nolan Wells  *[[29:15](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=1755s)]*
+
+> This is our Nolan Wells aka No. One of the sweetest and kindest souls you could ever meet. He went missing on Horn Island on July 4th. I'm looking for any pics or videos that was taken on the northwest tip of Horn. Please help us find our sunshine.
+
+- Now, this brother, his wife, they had their child go celebrate July 4th with a bunch of. That's not the black man or black woman's holiday.
+
+</div>
+
+<div class="reading">
+
+Reading from a news headline on Nolan Wells  *[[29:53](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=1793s)]*
+
+> Massive search continues for teen that went missing while on trip with friends.
+
+- Trip with friends.
+
+</div>
 
 - Now, this young lady, I like what she says, but when I see black women with yellow hair, I just get a little annoyed. But what she says, I'll give you one point for that.
 
@@ -77,11 +138,21 @@ Nolan Wells, missing on Horn Island, Mississippi. His mother Christine Wesley's 
 
 - So she makes up for bonnet girl. She got the nice head wrap and all that.
 
-Definition read in class: replacement theology, or supersessionism, is the Christian doctrine that the church has replaced national Israel as God's chosen people. It teaches that God's covenants and promises to the Jewish people have been spiritually transferred to the church. Core beliefs: adherents view the universal Christian church as the new Israel; Old Testament promises of restoration and blessing for the nation of Israel are interpreted as spiritual blessings for Christians.
+We want to talk about the fall of the tabernacle of David. Around the time of slavery, during the time of the pope, the Catholics and all that, they came up with something called supersessionism.
 
-- This came up around the time of slavery, during the time of the pope, the Catholics. This is their theology which has been going on forever; we may have slept on it. This is why when you ask them a basic question, where are the 12 tribes of Israel in the New Testament, they never have an answer.
+<div class="reading">
 
-**[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[41:35](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=2495s)]*
+Reading from an on-screen definition of replacement theology  *[[41:58](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=2518s)]*
+
+> Replacement theology or supersessionism is the Christian doctrine that the church has replaced national Israel as God's chosen people. It teaches that God's covenants and promises to the Jewish people have been spiritually transferred to the church, fulfilling God's plan through the new covenant in Jesus.
+>
+> Core beliefs: The new Israel: adherents view the universal Christian church as the new Israel. Spiritualized prophecies: Old Testament promises of restoration and blessing for the nation of Israel are interpreted as spiritual blessings for Christians.
+
+- That's what they do. So this is their theology which has been going on forever. We may have slept on it. This is why when you ask them a basic question, where are the 12 tribes of Israel in the New Testament? They never have an answer.
+
+</div>
+
+**[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[43:14](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=2594s)]*
 
 > <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
 >
@@ -90,7 +161,7 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 - Peter is addressing Paul's writings; Peter had to read all the letters that Paul wrote. Some things hard to be understood: the Most High had him write it difficult for a reason. Which they that are unlearned and unstable wrest: meaning you struggle, you wrestle with the writings, as they do also the other scriptures, the Old Testament scriptures, unto their own destruction.
 - This is why it made it easier today: they said all the prophecies in the Old Testament about Israel, that's really about the Christian church today. And you have black people and Latino people that will believe that BS, those lies.
 
-**[Jeremiah 31:31-37](/bible/jeremiah/31#v31)**  *[[41:35](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=2495s)]*
+**[Jeremiah 31:31-37](/bible/jeremiah/31#v31)**  *[[44:18](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=2658s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
 >
@@ -540,7 +611,17 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 - He carried them over the waters: in order to be carried over the waters, you got to be in what? A ship. So the 10 tribes did go into captivity on ships.
 - But they took this counsel among themselves: it was during the time of Cyrus, when he said, I'm giving you all liberty. That they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt: on the street you want to highlight that part, where never mankind dwelt, cuz you got this new thing: oh, before the American Indians, there was already races living here. No. Stop the lies. This is around 529 BC.
 - That they might there keep their statutes, which they never kept in their own land. And they entered into Euphrates by the narrow passages of the river: for the Most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely of a year and a half: if you're traveling for a year and a half, it's men, women, and children; you have to stop for victuals, food and supplies. That's why it's very important to know this history.
-- Map shown on screen tracing the route into the Euphrates and over. Reading shown from the Jewish Encyclopedia: "Arzareth, by Morris Jastrow Jr., Kaufmann Kohler: the name of the land beyond the great river, far away from the habitation of man, in which the ten tribes of Israel will dwell, observing the laws of Moses, until the time of the restoration, according to 2 Esdras 13:45. Columbus identified America with this land."
+- Map shown on screen tracing the route into the Euphrates and over: you see the red line? This is where they went.
+
+<div class="reading">
+
+Reading from an on-screen entry on Arzareth by Morris Jastrow Jr. and Kaufmann Kohler  *[[2:04:57](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=7497s)]*
+
+> The name of the land beyond the great river, far away from the habitation of man, in which the ten tribes of Israel will dwell, observing the laws of Moses until the time of restoration, according to 2 Esdras 13:45. Columbus identified America with this land.
+>
+> 2 Esdras … Kayserling, Christopher Columbus, translated by Dr. C. Gross, page 15.
+
+</div>
 
 **[Matthew 4:15-17](/bible/matthew/4#v15)**  *[[2:05:15](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=7515s)]*
 
@@ -741,12 +822,27 @@ Definition read in class: replacement theology, or supersessionism, is the Chris
 
     I'm going to show you Samaritans, Gentiles, and Israel at the same time. The house of Jacob in verse 18 is Judah alone: southern kingdom, Judah, Benjamin, Levi. And the house of Joseph is Ephraim and the rest: that's the Samaritans and Gentiles in Matthew 10:5. So Christ says the exact same thing: don't go to the Samaritans or Gentiles, the house of Joseph, but rather to the lost sheep, the house of Jacob, the southern kingdom.
 
-Book read in class: The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History, by Allen H. Godbey, PhD, written in 1930, Duke University:
+<div class="reading">
 
-- "These facts have a peculiar significance when the presence of Judaism among American negroes is to be considered. Hundreds of thousands of slaves were brought to America from this western Africa during the days of the traffic beginning nearly 400 years ago. How much more of Judaism survived amongst West African Negroes in that earlier time? As persecuted communities, they were rather more in danger than other negroes of being raided by war parties and sold as slaves. It may be considered certain that many partially Judaized Negroes were among the slaves brought to America." Y'all see that?
-- "On the Cambenda coast in Portuguese West Africa is an interesting group of Negro Jews known as Mavumba. They are skillful smiths and potters and consequently prosper. Ratzel considers them connected with a colony of Jews expelled from Portugal and settled on Sao Tome Island. King John II of Portugal in 1484 offered the Jews of his dominion the pleasant alternative of submitting to baptism or settling at Sao Tome." The Roman Catholic Church brought that water baptism stuff, and you got some Israelites pushing the same thing, like the water got power in it. I got baptized seven times; that was wicked as hell.
-- "Thus Bishop Matthew claims an immemorial Jewish ancestry. But since that ancestry is negro, it follows that Negroes were the original Jews. It has received no help from the white Jews, and observes that the white Jews' papers call them fakers. But my friends, we are not fakers. Every black man is a real Hebrew, whether he knows it or not. We as a race do not know who we are."
-- AbeBooks listing shown: why would they put that book for $7,000? They know no black person ain't going to spend seven G's on that book. And when Bishop sat down with Sam Tessbomb, he works for a group of scholars; when Bishop had the book on the table closed, without even seeing the cover he knew what book it was. Their greatest fear is seeing that you are here. So they said, look, don't put that price where any black person could pick it up and read this information. In 1930, what were we doing? Why would we sit down and write a book like that? Someone who knows history. That's a white folk book.
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, PhD (1930, Duke University)  *[[2:42:29](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=9749s)]*
+
+> These facts have a peculiar significance when the presence of Judaism among American negroes is to be considered. Hundreds of thousands of slaves were brought to America from this western Africa during the days of the traffic beginning nearly 400 years ago. How much more of Judaism survived amongst West African Negroes in that earlier time? As persecuted communities, they were rather more in danger than other negroes of being raided by war parties and sold as slaves. It may be considered certain that many partially Judaized Negroes were among the slaves brought to America.
+
+- Y'all see that?
+
+> On the Cambenda coast in Portuguese West Africa is an interesting group of Negro Jews known as Mavumba. They are skillful smiths and potters and consequently prosper. Ratzel considers them connected with a colony of Jews expelled from Portugal and settled on Sao Tome Island. The Portuguese discovered Sao Tome in 1471, finding it very unhealthy. King John II of Portugal in 1484 offered the Jews of his dominion the pleasant alternative of submitting to baptism or settling at Sao Tome, to …
+
+- The Roman Catholic Church brought back that water baptism stuff. They said you have to get water, and you got some Israelites pushing the same thing, like the water got power in it. You know, I got baptized seven times. That was wicked as hell.
+
+> Thus, Bishop Matthew claims an immemorial Jewish ancestry. But since that ancestry is negro, it follows that Negroes were the original Jews.
+
+- That's right.
+
+> This is a development from Bishop Matthew's congregation. It has received no help from the white Jews, and observes that the white Jews' papers call them fakers. But my friends, we are not fakers. Every black man is a real Hebrew, whether he knows it or not. We as a race do not know who we are.
+>
+> Thus, race discriminations are always repaid in their own coin. Compare Winwood Reade's reports of Sierra Leone Negro … Negro preacher's sermon some 70 years ago.
+
+</div>
 
 **[Zechariah 12:7](/bible/zechariah/12#v7)**  *[[2:47:16](https://www.youtube.com/watch?v=o5Xl6CIPOgk&t=10036s)]*
 
