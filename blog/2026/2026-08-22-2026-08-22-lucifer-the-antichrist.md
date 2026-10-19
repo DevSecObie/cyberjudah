@@ -63,13 +63,6 @@ The scholars on Revelation.
 - Clip: "The historical context has been known now by scholars for a very long time. It is a book written probably in the 90s of the common era, so one of the later books. It is written in the Roman Empire by somebody who is quite aware of the Roman Empire. And the context of the book is the sense that the Roman Empire is evil, an evil force opposed to God, and that God is going to destroy it. It is a very political context. And if you read Revelation carefully, it becomes clear that the enemy of Revelation is not some kind of human antichrist that is coming in the future or something like that. The enemy of the author of John is the empire of Rome and its emperor. And that can be demonstrated from the book."
 - So the scholars understood the antichrist was Rome, already set up back then. Rome, the leaders, and Israel that trusted in Rome and followed Rome, those religious leaders. Because remember why they said they had to kill Christ: if we leave him alone, Rome is going to come and take away our seat and our authority.
 
-The translations of Isaiah 14:12.
-
-- Screenshot read: "Lucifer is not an alternative to bright morning star. Rather, Lucifer is the Latin translation of the original Hebrew word helel, meaning shining one, used in Isaiah chapter 14 verse 12. Famous Bibles like the King James Bible use Lucifer, while other translations use morning star or shining one."
-- Now, Lucifer is what kind of word? Latin. What was the book of Isaiah written in? Hebrew. So why is a Latin word being used there? There should not be a Latin word there. It is supposed to say, why art thou fallen from heaven, O morning star. So the scholars put that word there to put a distinction, because who is the morning star? Christ is the morning star. To show that the king of Babylon is not Christ.
-- Bible Hub comparison read: New International Version, "How you have fallen from heaven, morning star, son of the dawn! You have been cast down to the earth, you who once laid low the nations." New Living Translation, "How you are fallen from heaven, O shining star, son of the morning! You have been thrown down to the earth, you who destroyed the nations of the world." English Standard Version, "How you are fallen from heaven, O Day Star, son of Dawn! How you are cut down to the ground, you who laid the nations low." King James Version: "How art thou fallen from heaven, O Lucifer, son of the morning!"
-- So every other translation uses morning star or shining one, and just the King James version has Lucifer. So the scholars that translated the King James version understood something that everybody else did not understand. There is a differentiation between the morning star there and the morning star that we read about right through the scriptures.
-
 ## Scriptures Opened
 
 **[Proverbs 13:20](/bible/proverbs/13#v20)**  *[[13:15](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=795s)]*
@@ -467,6 +460,40 @@ The translations of Isaiah 14:12.
 - Is this the man that made the earth to tremble? He makes the earth tremble by dropping bombs. That did shake kingdoms. And he shakes kingdoms by dropping bombs. Now, I am just putting this out there, I have to do some more research on it, but when it says he makes the earth to tremble, I hear a lot of conspiracy theorists saying that America has technology that causes earthquakes, that they call HAARP. So when I read this I said, huh. It is going to come out eventually. But even so, it is the Lord that had him doing that. The Lord said, listen, I am going to let them create a weapon, the same way he let them create the nuclear bomb. He said, I created the smith that created the coal to blow in the fire. So if he makes them create that and makes them shake the earth, then the Lord is behind everything. But I am waiting, because they are going to be revealed. There is nothing hidden that is not going to come to light.
 
 - That made the world as a wilderness, and destroyed the cities thereof. And he made the world as a wilderness by dropping bombs. You saw Palestine, and guess what, it is going to get worse. Saudi Arabia will become a wilderness over there. All these cities will be destroyed. All of this is future prophecy. We are reading about it, it started in Palestine, but it is going to get worse.
+
+<div class="reading">
+
+Reading from a screenshot on what Lucifer means  *[[2:16:36](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8196s)]*
+
+> Lucifer is not an alternative to bright morning star. Rather, Lucifer is the Latin translation of the original Hebrew word helel, meaning shining one, used in Isaiah chapter 14:12. Famous Bibles like the King James Bible use Lucifer, while other translations use morning star or shining one.
+
+- So other translations use morning star or shining one instead of Lucifer. Now Lucifer is what kind of word? Latin. What was the book of Isaiah written in? The book of Isaiah was written in Hebrew. So why is a Latin word being used there? There should not be a Latin word there. It's supposed to be Hebrew right there. It's supposed to say, why art thou fallen from heaven, O morning star.
+
+- So the scholars, they put that word there to put a distinction. Because who is the morning star? Christ is the morning star. To show that the king of Babylon is not Christ. Cuz when you keep reading the Bible, who is referred to as the morning star?
+
+- So in the King James version they put Lucifer there to put a distinction, because they understood something that a lot of people don't understand today. People read about Lucifer and think that, oh, it's talking about a fallen angel and all type of stuff. No, Lucifer is America. But why does it refer to him as the morning star? That's what I'm going to touch on now.
+
+</div>
+
+<div class="reading">
+
+Reading from *Bible Hub*, the translations of Isaiah 14:12  *[[2:19:10](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8350s)]*
+
+> New International Version. Have you fallen from heaven, morning star, son of the dawn? You have been cast down to the earth, you who once laid low the nations.
+>
+> New Living Translation. How you are fallen from heaven, O shining star, son of the morning! You have been thrown down to the earth, you who destroy the nations of the world.
+>
+> English Standard Version. How you are fallen from heaven, O Day Star, son of Dawn! How you are cut down to the ground, you who laid the nations low.
+>
+> Berean Standard Bible …
+
+- So let's go to King James version. So every other translation uses what? Morning star, shining one. So just King James version.
+
+> King James Version. How art thou fallen from heaven, O Lucifer, son of the morning!
+
+- So you see why? So you see the King James version is the only one with Lucifer there. So the scholars that translated the King James version, they understood something that everybody else didn't understand. There's a differentiation between morning star there and the morning star that we read about right through the scriptures, which I'm going to show you all.
+
+</div>
 
 **[Revelation 22:16](/bible/revelation/22#v16)**  *[[2:20:47](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=8447s)]*
 
