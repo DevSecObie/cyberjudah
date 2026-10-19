@@ -34,7 +34,33 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 - Video played: pastor Philip Anthony Mitchell preaching that black people use their ethnicity as an idol, that black people do not like white people for something they cannot control, and that Ephesians teaches the dividing line was destroyed so that all of us were made into one family. He is saying black people do not like white people because of something they cannot control. Did you forget about slavery? He claims Ephesians 2 is about joining blacks and whites together through Christ. So we are going to deal with the us in that chapter.
 - He is our peace, who hath made both one, and hath broken down the middle wall of partition between us. We need to deal with who the us is. Ephesians 1:1 says the epistle is written to the saints which are at Ephesus.
 - That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise. Christians never address the covenants of promise. The only time the Lord made a covenant with all nations was in Genesis 9, when he said he would not destroy the world by water any more. In regards to the covenants, the Lord made covenant with Abraham and through his seed, Abraham, Isaac, and Jacob. He never made covenants with the other nations.
-- A question was put to an AI chat program live in class: did God ever enter into a covenant with all nations or only Israel, answered with KJV scriptures. The answer read on screen: God made a universal covenant with all humanity through Noah after the flood; the covenant of the law at Sinai was only with Israel, not with all nations; and the new covenant as prophesied is likewise stated to be with the house of Israel and the house of Judah. They know that, but they try to force this all nations doctrine. It is not in the Bible.
+
+<div class="reading">
+
+Reading from a ChatGPT answer on God's covenants  *[[21:27](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=1287s)]*
+
+> Did God ever enter into a covenant with all nations or only Israel? Answer with KJV Bible scriptures.
+
+- So let's see what ChatGPT had to say about it.
+
+> Summary: God made a covenant with all nations through Noah.
+
+- Right. We referenced that earlier.
+
+> God made covenant specifically with Israel and Abraham's seed.
+
+- Specifically with the nation of Israel and Abraham's seed. Y'all see the verses right there.
+
+> Therefore, according to the KJV Bible: yes, God entered into a universal covenant with all humanity through Noah after the flood. No, the covenant of the law at Sinai was only with Israel, not with all nations.
+
+- See that? Not with all nations. So they know that, but they try to force this all nations could be saved doctrine. No, it's not in the Bible.
+
+> The new covenant, as prophesied, is likewise stated to be with the house of Israel and the house of Judah.
+
+- So give the Most High a round of applause for that thing. Y'all see that? That's some good stuff.
+
+</div>
+
 - But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ. Who was afar off? Israel. These Ephesians in Ephesus are Israelites scattered in Ephesus. He is our peace: not everybody's peace. Christ is the peace that brings both nations, the southern and northern kingdom, back together.
 
   Precepts:
@@ -202,6 +228,16 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 - Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints. Once again that term saints.
 - The riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory. The Gentiles here are the northern kingdom, who can come back into the fold. You had no hope unless Christ came and died for us. There was no repentance, no reconciliation, lest it be for Christ.
 
+<div class="reading">
+
+Reading from a chart of Paul's epistles  *[[51:03](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3063s)]*
+
+> Ephesians, Colossians, Philemon, Philippians, First Timothy, Titus, and Second Timothy.
+
+- So what you'll realize is some of these books overlap and they're speaking about similar topics. Why? Because Paul wrote it at the same time, and to that region. We know that Ephesians, Colossians, Philemon, that same region right there.
+
+</div>
+
   Precepts:
   - **[Matthew 4:15](/bible/matthew/4#v15)**
     > <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
@@ -251,10 +287,56 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 > <sup>[11](/bible/colossians/3#v11)</sup> Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
 
 - Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all. A Christian would say, to hell with all of those facts you just showed, because of this scripture right here: Greeks, Barbarians, Scythians, those are the other nations. Really, after we just read all of that in context? So we are going to go over it.
-- Book read in class, on the Jewish diaspora: in spite of attempts to show that the Jews in the western diaspora knew Hebrew, it is common knowledge that basically they knew only Greek. The Jews of the west knew neither Hebrew nor Aramaic, and their religious lives, including the reading of the Torah and prayer, were conducted solely in Greek. The Torah was translated into Greek in the third century BCE. The sages recognized that there were entire diaspora communities that spoke only Greek, and provided a translation of scripture for the Greek-speaking communities. Rabbinic literature almost totally ignores the vast western diaspora that existed at that time, which is particularly noticeable compared with the relatively large number of places in this diaspora mentioned in chapter 2 of Acts, in the chapters describing the journeys of Paul, and in the Pauline epistles, which give a comprehensive picture of the geography of the western Jewish Greek-speaking diaspora in the first century.
-- So you had some of our people referred to as Greeks and some of our people referred to as Jews, based off of a language differential, but we are still the same people.
-- Definition read in class: barbarian, a word derived from the Greek barbaros, used among the early Greeks to describe all foreigners, including the Romans. If you were not a Greek, they called you a barbarian.
-- Book read in class: Israel Redivivus, being a history of the tribes of Israel distinct from that of Judah, by Frederick Charles Danvers: with regard to the Israelites, it must be remembered that each tribe was divided into different families or subtribes, even as there were at a later date many tribes bearing different names who were collectively known to the Greeks as Scythians. The Scythians were nomadic people of that area. We were scattered everywhere, so we are the Barbarians, we are the Scythians, we are the Greeks. This is our book.
+
+<div class="reading">
+
+Reading from the *Encyclopedia of the Jewish Diaspora*  *[[58:13](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3493s)]*
+
+> In spite of attempts to show that the Jews in the Western diaspora knew Hebrew, it is common knowledge that basically they knew only Greek. The Jews of the West knew neither Hebrew nor Aramaic, and their religious lives, including the reading of the Torah and prayer, were conducted solely in Greek. The Torah was translated into Greek in the 3rd century B.C.E., and there were attempts at translation even before that. In subsequent centuries, the rest of the Hebrew Bible was translated as well. It should be pointed out that in certain rabbinic circles the translation into Greek was viewed as a necessity of the times. The sages recognized that there were entire diaspora communities that spoke only Greek
+
+- So these are Jews. Jewish communities that only spoke Greek.
+
+> and that these would be lost to the Jewish people in the absence of an authentic translation. While the sages struggle to preserve Hebrew as a sole language for religious activities, that is prayer and Torah study, they simultaneously provided for an unauthorized translation of scripture for the Greek-speaking communities.
+
+> Rabbinic literature almost totally ignores the vast western diaspora that existed at that time. This is particularly noticeable compared with the relatively large number of places in this diaspora mentioned in chapter 2 of Acts,
+
+- You see that, in chapter 2 of Acts.
+
+> and in the chapters describing the journeys of Paul, as well as in the Pauline epistles, which give a comprehensive picture of the geography of the western Jewish Greek-speaking diaspora in the first century CE.
+
+- It says neither Greek nor Jew. So we understand you had some of our people referred to as what? Greeks. And you had some of our people referred to as what? Jews. Based off of a language differential, but we're still the same people.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of barbarian  *[[1:01:04](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3664s)]*
+
+> Barbarian, also known as barbar.
+>
+> Barbarian: word derived from the Greek barbaros, used among the early Greeks to describe all foreigners,
+
+- So the Greeks call all foreigners, meaning if you weren't a Greek, they call all foreigners what? Barbarians.
+
+- Y'all see that thing? Remember, we're scattered where? Throughout the four corners of the earth.
+
+> including the Romans.
+
+- Including the Romans. Because we were the Romans, too. That's what the mainstream Christianity does not understand today.
+
+</div>
+
+<div class="reading">
+
+Reading from *Israel Redivivus, being a history of the tribes of Israel distinct from that of Judah, from the times when the biblical accounts of them came to an end* by Frederick Charles Danvers  *[[1:03:41](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=3821s)]*
+
+> With regard to the Israelites, however, it must be remembered that each tribe was divided into different families of subtribes, even as there were at a later date many tribes bearing different names who were collectively known to the Greeks as Scythians.
+
+- See that thing right there? So the Greeks called us what? Barbarians, Scythians. Scythians is nomadic people of that area. You understand? Remember, we were scattered everywhere. So we are the what? We are the barbarians. We are the Scythians. We are the Greeks. Get mad. We don't care. This is our book and not yours.
+
+- That's some good stuff right there.
+
+</div>
 
   Precepts:
   - **[James 1:1](/bible/james/1#v1)**
@@ -302,12 +384,166 @@ Class comes from IUIC Tallahassee, Florida, on the Sabbath day. When we read Pau
 > <sup>[22](/bible/colossians/3#v22)</sup> Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 
 - Servants, obey in all things your masters according to the flesh. Now that we have the understanding, going precept upon precept and in context, these servants would have to be Israelites, and these masters would have to be Israelites. This is a scripture that they took and cherry-picked to fit their evil narrative during slavery. The Lord sees it all; the Lord has not forgotten what they have done.
-- Book read in class: The Religious Instruction of the Negroes in the United States. The 1673 Christian directory of Mr. Baxter gave directions to those masters in foreign plantations who have negroes and other slaves: understand how far your power over your slaves extendeth; remember that they have immortal souls and are equally capable of salvation with yourselves; remember that God is their absolute owner; that they and you are equally under the government and laws of God; that God is their reconciled tender father; that you are Christ's trustees, or the guardians of their souls; so must you exercise both your power and love to bring them to the knowledge and faith of Christ. That is where that false sense of equality comes from. It comes from slavery, it comes from Christianity. In their minds they really believed they were masters, but that is not what Colossians 3:22 is talking about. We are showing you how they flipped the narrative.
+
+<div class="reading">
+
+Reading from *The Religious Instruction of the Negroes in the United States*, p. 4  *[[1:10:45](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=4245s)]*
+
+> Having brought distinctly to view this multitude of people introduced amongst us in the inscrutable providence of God, the original stock being in a state of absolute heathenism,
+
+- So what are they talking about? They talking about us.
+
+> The census of the United States for 1790 gives 697,697 slaves and 59,481 free persons of color, a total of 757,178.
+
+- So when it says the original stock being in a state of absolute heathenism, they're referring to us. So they're saying now they're the people. They insert themselves as the people and we are the heathens.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Religious Instruction of the Negroes in the United States*, p. 5  *[[1:14:37](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=4477s)]*
+
+> 1673. Mr. Baxter published his Christian Directory, in which he has a chapter of directions of those masters in foreign plantations who have negroes and other slaves, being a solution of several cases about them.
+
+- So he's like, I can help. I can give you a rubric to follow. Because in their evil minds, they really believe that they're masters. Now, did the Lord allow this to happen? Absolutely. But that's not what Colossians 3:22 is talking about. So, we're showing you how they flipped or changed the narrative.
+
+> The first direction calls upon masters to understand well how far your power over your slaves extendeth, and what limits God have set thereto.
+
+> Remember that they have immortal souls and are equally capable of salvation with yourselves,
+
+- Wait a second. What is this? So that's where that false sense of equality comes from. It comes from slavery. It comes from where? Christianity.
+
+- Who is salvation for? Because according to them, they believe they could be saved and then us. They believe that they're the people. It's not how it goes.
+
+> and therefore, you have no power to do anything which shall hinder their salvation. Remember that God is their absolute owner,
+
+- Now, that's correct. God is our owner.
+
+> and that you have none but a derived and limited proprietary in them; that they and you are equally under the government and laws of God;
+
+- Now that is incorrect. That is incorrect. We are not equal with these people.
+
+> that God is their reconciled tender father,
+
+- But it's not for everybody, that reconciliation. Think about it. What does re mean? R-E means what? To do again. Repeat, redo. Reconcile, it means to do it again. So if reconciliation is for the slaves, that means they know who we are.
+
+- Reconciliation cannot apply to the other nations because they were never a people close or near to God. The Israelites are the only ones that have been close or near to God.
+
+> and, if they be as good, doth love them as well as you, and that they are the redeemed ones of Christ. Therefore, so use them as to preserve Christ's right and interest in them.
+>
+> The second direction: remember that you are Christ's trustees, or the guardians of their souls, and that the greater your power is over them, the greater your charge is of them and your duty for them. So must you exercise both your power and love to bring them to the knowledge and the faith of Christ, and to do the just obedience of God's commands.
+
+- You see that? It says must exercise both your power and love to bring them to knowledge. These people are bugged out.
+
+</div>
+
 - Movie clip shown from Django Unchained: a slave preacher draped in cut-out Bible pages, reading Genesis 9:2 over the plantation. They were opening the Bible and literally saying what they wanted to say. That is why to this day many of our people will not fully believe the word unless it comes out of the white man's mouth: it comes from the oral tradition of slavery.
-- The book continued: the census of 1790 counted 697,697 slaves and 59,481 free persons of color; they are in the eye of the law property, over which there is an absolute control; by law or custom they are excluded from the advantages of education, and by consequence from the reading of the word of God; and this immense mass of immortal beings is thrown for religious instruction upon oral communications entirely. The only time we could hear about the Bible, the white man had to verbally tell us about it. If we wanted to learn about God, we had to go through them.
-- The Willie Lynch letter read in class: the black slave, after receiving this indoctrination, shall carry on and will become self-refueling and self-generating for hundreds of years, maybe thousands. You must pitch the old black male versus the young black male, the dark skinned slaves versus the light skinned slaves. You must also have your white servants and overseers distrust all blacks, but it is necessary that your slaves trust and depend on us; they must love, respect, and trust only us. Distrust is stronger than trust, and envy is stronger than adulation. So we go precept upon precept and break it down, but because of what was done to our people, that distrust is always there amongst blacks and Hispanics; yet as soon as the white man says something, it is gold. They can tell you the same thing and now you know it is true.
-- The book continued: nor have the negroes any church organizations different from or independent of our own; such independent organizations are indeed not on the whole advisable; we may according to the power lodged in our hands forbid religious meetings; we may forbid our servants going to church at all, or only to such churches as we may select for them; we may literally shut up the kingdom of heaven against men; it is not too much therefore to say that the negroes are in a state of almost absolute dependence upon their owners for the words of eternal life. They believed they were God. This went on during the Inquisition as well, when they changed Christianity into the all-inclusive Catholic system and hunted the real Jews, tearing up the safe houses and taking our book. The same thing is going to happen again, because now we know the truth.
-- They are the most needy of any people in our country, the book said. It does say needy, and the Bible says it too.
+
+<div class="reading">
+
+Reading from *The Religious Instruction of the Negroes in the United States*, read on  *[[1:20:44](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=4844s)]*
+
+> The third direction: so serve your necessities by your slaves as to prefer God's interest and their spiritual and everlasting happiness. Teach them the way to heaven, and do all for their souls which I have before directed you to do for all your other servants.
+
+- In want of all things: hey, we wanted food, clothing, housing, shelter, and we also what? We got that old time religion from them too.
+
+> Carry yourselves to them as those that are sensible that they are redeemed with them by Christ from the slavery of Satan, and may live with them in the liberty of the saints in glory.
+
+- You see that? They want us to go to heaven with them and live with them. No, that's called hell.
+
+> A glance at the civil condition and connection of this people with us will demonstrate the point. They are in the eye of the law property,
+
+- Y'all see that right there? In their eyes of their laws, we were their property.
+
+> over which there is an absolute control, as such, expecting in so far as they are human beings and by law are protected in life and limb.
+>
+> Throw these facts together. By law or custom, they are excluded from the advantages of education,
+
+- So if we equal, why are we excluded from education? Why? Because they don't want us to know the truth of the Bible. They don't want us to know that servants obey your masters ain't talking about them. So they want to keep us docile, uneducated.
+
+> and by consequence from the reading of the word of God.
+
+- There it is. We couldn't even read the words of God. We couldn't read our book.
+
+> And this immense mass of immortal beings is thrown for religious instruction upon oral communications entirely.
+
+- Meaning the only time we could hear about the Bible, the word of God, the white man had to verbally tell us about it. If we want to learn about God, we had to go through them. And that's why that brother in that video looks so crazy, cuz that's still on our people's brain today.
+
+- It comes from slavery. We've been destroyed as a people, y'all. Y'all got to see how deep this thing goes.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Willie Lynch Letter and Making of a Slave*, p. 16  *[[1:28:58](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=5338s)]*
+
+> The black slave, after receiving this indoctrination, shall carry on and will become self-refueling
+
+- All the way to 2026.
+
+> and self-generating for hundreds of years, maybe thousands.
+
+- Cuz they know what they did to us. Did a number on our people.
+
+> Don't forget, you must pitch the old black male versus the young black male, and the young black male against the old black male. You must use the dark-skinned slaves versus the light-skinned slaves, and the light-skinned slaves versus the dark-skinned slaves. You must also have your white servants and overseers distrust all blacks.
+
+- So if the white people distrust all blacks and you got the blacks looking to the white man for everything, what you think they going to do? They going to trust all blacks too.
+
+> I shall give you an outline of action, but before that, I shall assure you that distrust is stronger than trust
+
+- Y'all see that thing right there? So, we go precept upon precept and we break it down to the T. But because of what the white man did to our people, that distrust is always there amongst blacks and Hispanics. But that trust: soon as a white man say something, it's gold. It's law. It's facts. Well, he said it, that means it has to be right. And we can tell you the same thing. Oh, but let the white man say it: I feel better now. Now I know it's true.
+
+> and envy is stronger than adulteration.
+
+- Respect or admiration. So, that's showing you that's us today.
+
+> But it is necessary that your slaves trust and depend on us. They must love, respect, and trust only us.
+
+- There it is. So, hey, if we want to learn about this Bible, who the only person we could have went to? The white man. And we had to trust and respect anything he said. Everything he said.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Religious Instruction of the Negroes in the United States*, pp. 110 and 310  *[[1:32:06](https://www.youtube.com/watch?v=mbZ3tmc48C0&t=5526s)]*
+
+> Nor have the Negroes any church organizations different from or independent of our own.
+
+- You see that thing right there? They didn't want us to have a church where we could teach something different. Why? Cuz they wanted us solely depending on them, in want of all things.
+
+- Think about what happened in France, how they dissolved... Why? Because they didn't go according to their beliefs.
+
+> Such independent organizations are indeed not on the whole advisable,
+
+- You see that? It says if there's any independent churches, they wouldn't allow it.
+
+> but the fact binds them to us with still stronger dependence. And to add no more, we may, according to the power lodged in our hands, forbid religious meetings
+
+- See that thing right there? They wanted to forbid religious meetings. This went on during the Inquisition as well. This is when they changed Christianity into all-inclusive Catholic. What do you think they were doing to us, the real Jews? They was going around killing us. We had safe houses; they was tearing that up, taking our book, all of that. Same thing's going to happen again, cuz now what? We know the truth. The only way that lie could still hold strong, they had to destroy anybody who did not get down with that.
+
+> and religious instruction on our own plantation; we may forbid our servants going to church at all,
+
+- Y'all see that right there? It said, we may forbid our servants going to church at all. Hey, remember Trump's trying to what? Make America great again, cuz everybody see the rise of the Israelites. We read that in the time of the Maccabees.
+
+> or only to such churches as we may select for them.
+
+- They pushing that what? Christian nationalism. And JD Vance said what? Anybody who's speaking against America, reject them. That's what JD Vance said a week ago.
+
+> We may literally shut up the kingdom of heaven against men,
+
+- Y'all see that right there? They believe that they are God. You read that in 2 Thessalonians 2, Ezekiel 28.
+
+> and suffer not them that are entering to go in. It is not too much, therefore, to say that the Negroes are in a state of almost absolute dependence upon their owners for the words of eternal life.
+
+- Y'all see that thing right there? And that's why when we teach our people, they don't want to repent. They don't want to see it. But it's taken the spirit of the Lord to change our minds.
+
+> They are the most needy of any people in our country. This is very evident
+
+- We are the needy. Thank you for letting our people wake up. It does say needy. Well, that's in the Bible, and it's referring to us.
+
+> from the exposition which we have given of their dependency, as well as of their moral and religious character. They have no education, no immediate access to the word of God, no competent teachers of their own color, no competent number of white teachers, and are in a state of great ignorance and moral degradation.
+
+</div>
 
   Precepts:
   - **[Ezekiel 25:8](/bible/ezekiel/25#v8)**

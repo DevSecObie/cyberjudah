@@ -66,7 +66,22 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
 - I myself also am a mortal man, like to all, and the offspring of him that was first made of the earth: that is what we read in Genesis 2.
 - It is he that leadeth unto wisdom and directeth the wise. If God is directing you, he is going to direct you away from evil and show you how to avoid it.
-- He hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements. Chart shown in class comparing the elements in soil and in the human body: oxygen, iron, calcium, sodium, potassium, magnesium and the rest, in different percentages. When God made us from the dust of the ground, he manipulated those elements, what we call the periodic table today, to form man, land, and sea. That is what Esau's so-called science is chasing: trying to become God and do what God has already done. God showed Solomon the formula.
+- He hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements. So he gave Solomon to understand how this world was made and how to operate the elements.
+
+<div class="reading">
+
+Reading from an on-screen chart of the elements in soil and in the human body  *[[21:41](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=1301s)]*
+
+> Oxygen, soil 46%, humans 65%. Iron, 0006, soil 5%. Calcium, sodium, potassium, magnesium.
+
+- This is the elements that make up man and soil. This is what we share in similarities when we said we're made from the dust of the ground.
+
+- So when you read about he gave him understanding of the operation of the elements, he explained to him what we call the periodic table today. How God, what we call his creation or his miracles, is he understands how to manipulate these different elements to form man, to form land, to form sea.
+
+- These are all the elements that's similar in soil or dirt and human beings. So when he made us from the ground, he took from all these different elements and gave different percentages to manipulate and make man. This is what Esau is trying to do. His so-called science. He's Frankenstein. He's trying to become God and do what God has did. But he showed Solomon when we were made from the dust of the ground. This is the formula in which he used to make us.
+
+</div>
+
 - Wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness. Wisdom is pure; there is no defiled thing in it. Look outside at a tree taking in carbon dioxide and giving back oxygen: that is the wisdom of the Most High operating in everything seen and unseen.
 - For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty. That is the breath that was breathed into us in Genesis 2. If those are the attributes of wisdom, you want to be tethered to wisdom, so you can discern, so you understand why people do the things they do, so you know the intents of a person's heart when they speak.
 
@@ -307,7 +322,15 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
   - **[Job 9:20](/bible/job/9#v20)**
     > <sup>[20](/bible/job/9#v20)</sup> If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse.
 
-    Precept brought by the captain on justifying yourself: if I justify myself, mine own mouth shall condemn me. The margin renders justify as cleanse or clear self. Deceiving yourself is telling yourself, I am already cleansed, I am already clear, while refusing the reproof and instruction the teachers bring. Video played in class: sometimes you have to let people suffer the consequences of choices they made knowingly, because rescue delays the learning; growth delayed by rescue is growth denied. As David said, it is good that I was afflicted. Teachers cannot carry everybody; and teachers, do not weaponize the scriptures either: do not be the brother that is wise and teacheth many, and is unprofitable to himself, holding brothers to an accountability you will not hold yourself to.
+    Precept brought by the captain on justifying yourself: if I justify myself, mine own mouth shall condemn me. Deceiving yourself is telling yourself, I am already cleansed, I am already clear, while refusing the reproof and instruction the teachers bring. Video played in class: sometimes you have to let people suffer the consequences of choices they made knowingly, because rescue delays the learning; growth delayed by rescue is growth denied. As David said, it is good that I was afflicted. Teachers cannot carry everybody; and teachers, do not weaponize the scriptures either: do not be the brother that is wise and teacheth many, and is unprofitable to himself, holding brothers to an accountability you will not hold yourself to.
+
+<div class="reading">
+
+Reading from an on-screen KJV definition of justify  *[[1:41:30](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=6090s)]*
+
+> Cleanse, clear self, …
+
+</div>
 
 **[2 Corinthians 3:18](/bible/2-corinthians/3#v18)**  *[[1:44:41](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=6281s)]*
 
@@ -437,7 +460,18 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 
 - If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land. God does not hear the prayer of sinners; but when we turn back, his eyes and ears are open to the prayer made in this place, and his heart is there perpetually. The question people always ask, how do you all do this, how do you mobilize: because we keep God's commandments and believe on Christ. That is the whole recipe.
 - If thou wilt walk before me, as David thy father walked: did David not sin? He did, but he repented, he changed, and he was called a friend of God. After you get right, then you teach transgressors thy ways, as Psalms 51 says: you go to the fatherless and the widows and teach them.
-- But if ye turn away, and forsake my statutes: definition read in class, forsake means to abandon, desert, or leave entirely, a breach of duty. Then will I pluck them up by the roots, and make them to be a proverb and a byword among all nations. Reading that is understanding why we went into captivity.
+
+<div class="reading">
+
+Reading from a definition of the word forsake  *[[2:19:49](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=8389s)]*
+
+> Forsake. To forsake means to abandon, desert, or leave someone or something entirely, often in a manner suggesting a breach of duty or affection.
+
+- Right? You totally turn your back.
+
+</div>
+
+- Then will I pluck them up by the roots, and make them to be a proverb and a byword among all nations. Reading that is understanding why we went into captivity.
 
   Precepts:
   - **[Ecclesiastes 4:13](/bible/ecclesiastes/4#v13)**

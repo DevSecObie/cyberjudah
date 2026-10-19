@@ -163,7 +163,7 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 
     Thus dwelt Esau in mount Seir: Esau is Edom. Now we have context; no one can say we are making it up.
 
-- Because thou hast had a perpetual hatred: a hatred that has gone on for centuries, from Esau their father to his children toward us. That is why the atrocities against our people have been so cruel. A historical lynching account was summarized in class: a pregnant woman who sought justice after her husband was murdered was herself lynched along with her unborn child; the record was read to show what a perpetual hatred looks like, and that there is no equivalent record of our people ever doing such a thing in return. Haiti was retaliation against enslavers; this was done to the innocent.
+- Because thou hast had a perpetual hatred: a hatred that has gone on for centuries, from Esau their father to his children toward us. That is why the atrocities against our people have been so cruel. A historical lynching account was summarized in class: a pregnant woman who sought justice after her husband was murdered was herself lynched along with her unborn child; the account was told to show what a perpetual hatred looks like, and that there is no equivalent record of our people ever doing such a thing in return. Haiti was retaliation against enslavers; this was done to the innocent.
 - That envy goes back to the birthright. Esau was the firstborn and felt it was not fair that God chose Jacob; that envy is what fuels the perpetual hatred, and God will do to Edom according to his anger and according to his envy.
 - Because these two nations and these two countries shall be mine, and we will possess it. The two nations are Judah and Israel; the two countries back then were Judea and Samaria, and in prophecy the lands of the regathering. They took one as Romans and later as Israelis, and the other they took as Christians, as conquistadors.
 - And that I have heard all thy blasphemies. Remember Revelation 2:9: the blasphemy of them which say they are Jews and are not. Ezekiel 35 is a direct precept to Revelation 2:9 and 3:9: possess the land, and profess to be the people that belong there.
@@ -225,8 +225,115 @@ The video under review is from We Woke TV, a brother who posts a lot of good his
 - In the video Price says of the Khazar history that both arguments can be strong. There is no both arguments, brother: one is true and one is not. They were Khazars, and they converted in the eighth and ninth centuries. A double minded man is unstable in all his ways.
 - Arthur Koestler was not the only one who presented this; many authors and geneticists did, including work on the Khazar burial mounds identifying them as Eastern Europeans, with coins and documents confirming the kingdom existed.
 - The professor in the video, one of their own scholars, confirms it: knowledge of the Khazars begins with Hasdai ibn Shaprut, foreign minister to Abd al-Rahman III of Muslim Spain, who wrote to King Joseph of the Khazars and received the account of the kingdom's conversion. The Kuzari dates the conversion to 740; most historians date it to the 800s. Research in the past fifty years has substantiated the letter of Joseph.
-- The Jewish Encyclopedia, prepared by more than 400 of their own scholars and specialists, records the Khazars as a people of Turkish origin whose kingdom was firmly established in South Russia, in what was then called Khazaria. The record states the people were instructed in the Bible, the Mishnah, and the Talmud, that they used Hebrew letters, and that the royal line took Israelite names: Obadiah, Hezekiah, Manasseh, Isaac. It may be assumed that in the ninth century many Khazars became Jews. Members of the royal family migrated to Spain; Russia under Sviatoslav made war on Khazaria and annexed it, and Crimea was known to European travelers as Gazaria into the thirteenth century.
-- That is the nail in the coffin, in their own book: converts. They turned a race into a religion. The Jews were always a nation, a race of people; our religion was part of our race, one and the same.
+- Converts. They turned a race into a religion. The Jews were always a nation, a race of people; our religion was part of our race, one and the same.
+
+<div class="reading">
+
+Reading from the *Jewish Encyclopedia*, on the Khazars  *[[1:19:14](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=4754s)]*
+
+> The Jewish Encyclopedia. A descriptive record, the history, religion, literature, and customs of the Jewish people from the earliest time.
+
+- This is by them. This is written by them.
+
+> Prepared by more than 400 scholars and specialists.
+
+- So, 400 of their scholars put this book together. More than 400 scholars and specialists put this book together. This is their book.
+
+> Under the direction of the following editorial board: Jacobs, Ginzberg, Gottheil, Jastrow, Kohler, Singer.
+
+- The whole board of Israelis.
+
+- Singer, like Margaret Sanger. Same thing. Kohler. It's them. I didn't write this.
+
+> Khazars, a people of Turkish origin, whose life and history are interwoven with the very beginnings of the history of the Jews of Russia. The kingdom of the Khazars was firmly established in most of South Russia
+
+- That's Ukraine. Ukraine was known as Khazaria back then.
+
+> long before the foundation of the Russian monarchy by the Varangians.
+
+- Varangians were the early Russians. The Kiev Rus. They called Kiev Rus. That's the early Russian before they became an empire. Kiev Rus. The Khazar Russians conquered these people.
+
+- They got conquered by the Russians. The Russians conquered them. Push them out.
+
+> Five years after the correspondence between the king of the Khazars and Hasdai ibn Shaprut, 965,
+
+- The guy mentioned a Jew named Hasdai ibn Shaprut. That was one of our own people. Who worked for the Sultan at the time.
+
+> the Russian prince Sviatoslav made war upon the Khazars, apparently for the possession of Serida and Taman.
+
+- What are the odds? Taman. The possession of Serida and Taman. That's Edomite lands.
+
+- So Russia went against them and Russia went against Khazaria, conquered it and annexed it. That's how Ukraine became part of Russia and eventually broke apart. Now they're trying to get it back together again right now. Ukraine. So Ukraine back then was called Khazaria.
+
+> Many members of the Khazarian royal family immigrated to Spain.
+
+- And became what? Conquistadors. And came over to this side of the world and conquered and enslaved Native Americans and said, "We're Christians." They took possession of his land as Christians, conquistadors, and took over Israel as Israelis. We will possess these two countries.
+
+> Until the 13th century, the Crimea was known to European travelers as Gazaria, the Italian form of Khazaria.
+
+- So, the Crimea of Russia was known as Gazaria or Khazaria later on.
+
+> Hasdai ibn Shaprut, who was foreign minister to Abd al-Rahman,
+
+- So, it's a Israelite that was the ambassador or foreign minister for a sultan.
+
+> Sultan of Cordova, in his letter to King Joseph of the Khazars
+
+- So, Hasdai wrote a letter on behalf of the sultan to the king of the Khazars named King Joseph.
+
+- Remember the guy, the professor, said the exact same thing that what I showed you earlier.
+
+> about 960, relates that the first information about that kingdom was communicated to him by envoys from Khurasan, and that their statements were corroborated by the ambassador from Byzantium.
+
+- From Byzantium, right? So, from the Roman Empire. So, the things that they heard about from other people that associated themselves with the Khazars were all true, but Hasdai wanted confirmation for the sultan.
+
+> The latter told him that the powerful Khazars were maintaining amicable relations with the Byzantine Empire,
+
+- Amicable, meaning peaceful.
+
+- Because there was a war between the Christians and Muslims. Byzantine was the Holy Roman Empire that was Christian, and you had the Muslims on this side, and the Khazars were in the middle. So, they were neutral. So, when they were trying to go to war, they had to go through the Khazars to fight each other. They were trying to win them over. They were trying to win the Khazars as allies on either side. That was the point. So, they were directly in the middle of the two. Arabs on one side, Roman on the other side, and the Khazars in the middle. That was the point.
+
+> with which they carried on by sea a trade in fish skins and other wares.
+
+- So, they dealt with trade with these people.
+
+> The voyage from Constantinople occupied 15 days.
+
+- Turkey.
+
+> Taking a keen interest in everything relating to the kingdom of the Khazars, Hasdai begs the king to communicate to him a detailed account of the geography of his country, of its internal constitution, of the customs and occupations of its inhabitants, and especially of the history of his ancestry and of the state
+
+- So, Hasdai wanted a confirmation of things he had already heard from other people regarding them in their communication with the Khazars.
+
+> In this letter Hasdai speaks of the tradition according to which the Khazars once dwelt near the Seir Mountains.
+
+- Who was out in the Seir Mountains? Edom. Edom. They once dwelt in the Seir Mountains. Ezekiel said, "Prophesy against Seir." Seir is Edom. Esau is Edom.
+
+> He refers to the narrative of Eldad Hadani, who thought he had discovered the lost 10 tribes and inquires whether they
+
+> The people were instructed in the Bible, the Mishnah and Talmud, and in the divine service of the hazzanim.
+
+- So the people, the Khazars, were instructed in the Bible by our people who were there. And what else? The Mishnah and what else? So we taught them the Talmud while we were there.
+
+> In their writings, the Khazars used the Hebrew letters.
+
+> Obadiah was succeeded by his own son Hezekiah;
+
+- So once we converted them, they changed their names. Gave themselves Israelite names. Obadiah, Hezekiah.
+
+> the latter by his son Manasseh; Manasseh by Hanukkah, a brother of Obadiah; Hanukkah by his son Isaac.
+
+- So their names are changed. They converted over.
+
+> And it may be assumed that in the 9th century many Khazars heathens became Jews.
+
+- See that? And they came from where originally? The Seir Mountains.
+
+- This is in their own books. Over 400 of their scholars have this in their book.
+
+- That's all I need. That's enough. Nail in the coffin.
+
+</div>
 
 **[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[1:28:04](https://www.youtube.com/watch?v=3eKbwUxDlvE&t=5284s)]*
 
