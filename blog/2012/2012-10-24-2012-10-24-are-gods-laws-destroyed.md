@@ -514,7 +514,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "prophecy", "the-law"]
 ## Announcements & References
 
 - We cannot do this truth alone. We need your help in promoting this truth: your donations and your offerings.
-- Website: www.israelunite.org. Videos on YouTube: www.youtube.com/nathaniel7.
+- Website: www.israelunite.org. Videos on YouTube: www.youtube.com/Nathanyel7.
 - For a copy of this show and all other shows: originalroyalty.com.
 
 ---

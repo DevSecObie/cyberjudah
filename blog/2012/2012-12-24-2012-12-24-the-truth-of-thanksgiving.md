@@ -551,7 +551,7 @@ Reading from the Glen Ford printout, continued · read by Deacon Asaph  *[[31:11
 ## Announcements & References
 
 - Bring forth your donations and offerings to help keep the program going.
-- Website: www.IsraelUnite.org; YouTube: youtube.com/Nathaniel7.
+- Website: www.IsraelUnite.org; YouTube: youtube.com/Nathanyel7.
 
 ---
 
