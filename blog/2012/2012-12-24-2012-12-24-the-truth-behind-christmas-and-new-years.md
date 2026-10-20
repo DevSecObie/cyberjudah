@@ -5,12 +5,12 @@ date: "2012-12-24"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-24 · with Deacon Asaph"
-tags: ["IUIC in the ClassRoom", "christ", "passover-feasts"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "christ", "passover-feasts", "satan"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2012-12-24 · Elder Nathanyel, with Deacon Asaph</p>
 
-<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Ps 64](/bible/psalms/64) · [Gen 10](/bible/genesis/10) · [Ezek 8](/bible/ezekiel/8) · [Jer 10](/bible/jeremiah/10) · [Rev 11](/bible/revelation/11) · [Prov 21](/bible/proverbs/21) · [Luke 2](/bible/luke/2) · [Matt 2](/bible/matthew/2) · [Deut 16](/bible/deuteronomy/16) · [Exod 12](/bible/exodus/12) · [Dan 7](/bible/daniel/7) · [Isa 14](/bible/isaiah/14) · [Deut 28](/bible/deuteronomy/28) · [Isa 29](/bible/isaiah/29) · [Col 2](/bible/colossians/2) · <i>and 3 more below</i></span>
+<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Ps 64](/bible/psalms/64) · [Gen 10](/bible/genesis/10) · [Ezek 8](/bible/ezekiel/8) · [Jer 10](/bible/jeremiah/10) · [Rev 11](/bible/revelation/11) · [Luke 2](/bible/luke/2) · [Matt 2](/bible/matthew/2) · [Deut 16](/bible/deuteronomy/16) · [Exod 12](/bible/exodus/12) · [Dan 7](/bible/daniel/7) · [Isa 14](/bible/isaiah/14) · [Deut 28](/bible/deuteronomy/28) · [Isa 29](/bible/isaiah/29) · [Col 2](/bible/colossians/2) · [Titus 1](/bible/titus/1) · <i>and 2 more below</i></span>
 
 <!-- truncate -->
 
@@ -18,31 +18,37 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts"]
 
 ## Introduction
 
-*[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]* Shalom and welcome to another edition of the truth shall make you free I'm your host Elder Nathanyel and to my right Deacon ASAP today's topic is the truth of Christmas and New Years but before we open up let's go to John 8:32 John chapter 8 verse 32.
+*[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]* Today's topic is the truth of Christmas and New Years. Black man, Latin man, black woman, Latin woman, the truth is that you are the biblical Israelites, and you've been given high holy days that you were commanded to keep by the one true God, the God of Abraham, Isaac and Jacob. Christmas is of the devil, Santa Claus is of the devil: rearrange the letters of Santa and it spells Satan.
 
-**[John 8:32](/bible/john/8#v32)**  *[[0:36](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=36s)]*
+## In The News
 
-> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
-
-- And you shall know the truth and the truth shall make you free so black man Latin man black woman Latin woman the truth is that you are the biblical Israelites and you've been given High holy days that you were commanded to keep by the one true God the god of Abraham Isaac and Jacob let's open up with Psalm 64 let's go there. Okay. I'm going to make a profound final statement Christmas is of the devil Santa Claus is of the devil if you ever look at the word Santa let's re rearrange those letters the s a n ta rearrange those letters what does it spell s a t n Satan because that's the root of Santa Satan let's go to Psalm 64 and verse 6 please.
+- *[[53:38](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3218s)]* **A clip of a slave being made to repeat 'thank you master, yes master, master please' and told never to look a white man in the eye** — During the time of slavery the so-called white man forced us to call him master, and slapped the hell out of you if you didn't, though he read the scripture that says call no man master.
 
 ## Scriptures Opened
 
-### Searching Out the Customs
+**[John 8:32](/bible/john/8#v32)**  *[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]*
 
-- Psalms chapter 64:6 they search out iniquity this they here is the so-call white man when he does his archaeological digs he searches out iniquities. Read it again.
+> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
 
-**[Psalms 64:5-7](/bible/psalms/64#v5)**  *[[1:09](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=69s)]*
+- Black man, Latin man, black woman, Latin woman: the truth is that you are the biblical Israelites.
 
-> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
->
+- You've been given high holy days that you were commanded to keep by the one true God, the God of Abraham, Isaac and Jacob.
+
+- I'm going to make a profound final statement: Christmas is of the devil. Santa Claus is of the devil. Rearrange the letters s-a-n-t-a and it spells Satan, because that's the root of Santa.
+
+
+**[Psalms 64:6](/bible/psalms/64#v6)**  *[[1:09](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=69s)]*
+
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
->
-> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
 
-- They search out iniquities they accomplish a diligent search they accomplish a diligent search with their archaeologist. Go ahead. Both the inward thought of every one of them and the heart is deep the inward thought of the so-called white man is deep meaning what he has a wicked purpose behind all his archaeological digs it's not for the upliftment of society it's the keep the Israelites Bound in sin and captivity okay. From there, let's go to Genesis 10.
+- They search out iniquities: this 'they' here is the so-called white man. When he does his archaeological digs he searches out iniquities.
 
-- Now I'm going to show you how they search out iniquities I want you to keep that scripture get your Bibles get your pens and paper. Okay. Write these scriptures down. Okay. So we started off reading they search out iniquities they accomplish a diligent search. Okay. Let's go to Genesis 10 verse 6-10 Genesis chap 10 verse 6
+- They accomplish a diligent search, with their archaeologists.
+
+- The inward thought of the so-called white man is deep, meaning he has a wicked purpose behind all his archaeological digs. It's not for the upliftment of society; it's to keep the Israelites bound in sin and captivity.
+
+- Keep that scripture. Get your Bibles, get your pens and paper, and write these scriptures down: I'm going to show you how they search out iniquities.
+
 
 **[Genesis 10:6-10](/bible/genesis/10#v6)**  *[[2:00](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=120s)]*
 
@@ -56,11 +62,18 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts"]
 >
 > <sup>[10](/bible/genesis/10#v10)</sup> And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
 
-- and the sons of ham Kush now the sons of ham who are the sons of ham ham when you get a Bible dictionary says he became the father of all the dark races but not the Negroes okay. Read it again. And the sons of ham Kush and misra and put and Cannon and the sons of kush sah hiala and SAA and Rama and SAA and the sons of rahama Sheba and thead and could begat Nimrod now this is what we wanted to get to and Kush begat Nimrod.
+- Who are the sons of Ham? When you get a Bible dictionary it says Ham became the father of all the dark races, but not the Negroes.
 
-- Go ahead he began to be a mighty one in the earth he began to be a mighty run in the earth meaning a leader a conqueror. Go ahead. He was a mighty Hunter before the Lord when it says he was a mighty Hunter before the Lord who did he hunt he hunted The Souls of men he gathered men together against the one true God was that it no wherefor it is said even as Nimrod the mighty Hunter before the Lord what what verse is that that was nine and the beginning of his kingdom was Babel Babel is the root of the word Babylon. Go ahead. And Eric and aad and K in the land of Shar. From there, let's go to Ezekiel 8.
+- Cush begat Nimrod: this is what we wanted to get to.
 
-- Now remember we started off saying they accomplished a diligent search they search out iniquities they accomplished a diligent search I took you next to nimr I want you to remember that name Nimrod who was the son of kush in Ethiopian. Okay. Now Ezekiel 8: 13 and 14 Ezekiel 8:3
+- He began to be a mighty one in the earth, meaning a leader, a conqueror.
+
+- A mighty hunter before the Lord: who did he hunt? He hunted the souls of men. He gathered men together against the one true God.
+
+- The beginning of his kingdom was Babel. Babel is the root of the word Babylon.
+
+- I want you to remember that name Nimrod, who was the son of Cush, an Ethiopian.
+
 
 **[Ezekiel 8:13-14](/bible/ezekiel/8#v13)**  *[[3:41](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=221s)]*
 
@@ -68,9 +81,14 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts"]
 >
 > <sup>[14](/bible/ezekiel/8#v14)</sup> Then he brought me to the door of the gate of the Lord’s house which was toward the north; and, behold, there sat women weeping for Tammuz.
 
-- he said also unto me turn thee yet again and thou shalt see greater Abominations that they do so the Lord is showing Ezekiel great Abominations that the Israelites were guilty of. Go ahead. Then he brought me to the door of the Gate of the Lord's House which was toward the North and behold there sat women weeping for tun there sat Israelite women weeping for tamuz who is tamuz tamuz was the quote unquote Reincarnation of nimrod this was the boy King the Messiah. Okay. Of the Ethiopians of Babylon and his mother's name was sesus samaris however you pronounce it. From there, let's go to Jeremiah 10.
+- The Lord is showing Ezekiel great abominations that the Israelites were guilty of.
 
-- Now remember we started off the scripture said they search out iniquities they accomplish a diligent search what's the topic Christmas what does Christmas and New Year's have to do with Nimrod what does it have to do with tamuz you shall find out. Come on. Where you at Jeremiah 10:1. Come on.
+- There sat Israelite women weeping for Tammuz. Who is Tammuz? Tammuz was the, quote unquote, reincarnation of Nimrod.
+
+- This was the boy king, the Messiah of the Ethiopians of Babylon, and his mother's name was Semiramis, however you pronounce it.
+
+- What's the topic? Christmas. What does Christmas and New Year's have to do with Nimrod, what does it have to do with Tammuz? You shall find out.
+
 
 **[Jeremiah 10:1-5](/bible/jeremiah/10#v1)**  *[[4:31](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=271s)]*
 
@@ -84,33 +102,105 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts"]
 >
 > <sup>[5](/bible/jeremiah/10#v5)</sup> They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good.
 
-- Hear ye the word which the Lord speaketh unto you oh House of Israel who is he speaking to oh House of Israel. Go ahead. Thus sayth the Lord learn not the way of the Heathen learn not the way of the Heathen what Heathen Nation have you black men and Latin men been learning from the so-called white man everything you've learned you've learned from your slave master the so-called white man that's the Heathen that we commanded not to learn from today back then we went where in ancient Babylon we were in the Babylonian captivity under the Ethiopians.
+- Who is he speaking to? O house of Israel.
 
-- Read that again thus sayeth the Lord learn not the way of the Heathen. Go ahead. And be not dismayed at the signs of Heaven don't be dismayed at the sun moon and stars. Come on. For the he for the Heathen are dismayed at because the Heathen are dismayed at the Sun the moon and the stars for the customs of the people are vain for the customs of the Heathen are vain vain means what vain means lies. Watch this. For when cut a tree out of the forest. Read it again. For one cut a tree out of the forest for one cutteth a tree out of the forest. Come on. The work of the hands of the workmen with the axe meaning there's an axeman that cuts the tree out of the forest they deck it with silver and with gold then that tree that they just cut down they decorate it with silver and with gold what holiday is this talking about that originated in ancient Babylon that they cut a tree down out of the and they decorate it with silver and gold. Come on. They fasten it with nails and with hammers that move not then they Hammer this tree down with nails and hammers today you got a tree stand but back in ancient times they literally did that. Go ahead. They are upright as the palm tree they're upright as what as the palm tree they are upright as the palm tree because originally in ancient Babylon the tree that was used that they decorated with silver and gold was the palm tree but today you don't use the palm tree what's the name of that tree that you pine pine tree right right or evergreen tree right was that it they are upright as a palm tree but speak not but they what does it say but speak not because when you examine history they said the spirit of nimrod would inhabit the tree and if you didn't do good this tree would come and attack you. Go ahead. They must needs be born they these trees got to be carried. Okay. Wait wait hold at get me that book from Babylon to the Two Babylons I mean hold at to the camera so.
+- Learn not the way of the heathen. What heathen nation have you black men and Latin men been learning from? The so-called white man. Everything you've learned you've learned from your slave master. That's the heathen that we are commanded not to learn from today; back then we were in ancient Babylon, in the Babylonian captivity under the Ethiopians.
+
+- Don't be dismayed at the sun, moon and stars, because the heathen are dismayed at the sun, the moon and the stars. The customs of the heathen are vain, and vain means lies.
+
+- There's an axeman that cuts the tree out of the forest, then that tree that they just cut down they decorate with silver and with gold. What holiday is this talking about, that originated in ancient Babylon? They hammer this tree down with nails and hammers; today you got a tree stand, but back in ancient times they literally did that.
+
+- Upright as the palm tree, because originally in ancient Babylon the tree they decorated with silver and gold was the palm tree. Today you don't use the palm tree; you use the pine tree, the evergreen tree.
+
+- But speak not, because when you examine history they said the spirit of Nimrod would inhabit the tree, and if you didn't do good this tree would come and attack you. They must needs be borne: these trees got to be carried.
+
 
 <div class="reading">
 
-Reading from *The Two Babylons* by Alexander Hislop, pages 97-102  *[[7:30](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=450s)]*
+Reading from *The Two Babylons* by Alexander Hislop, pp. 97-98 · read by Deacon Asaph  *[[7:30](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=450s)]*
 
-They can see it the Two Babylons is written by Alexander what's his name his hlau Alexander Hislop. Okay. I want you to go to page 97. Okay. So remember at the beginning of the lesson they search out iniquities they accomplished a diligent search I took you to Nimrod. From there, I took you to tamuz now I took you to ancient Babylon where they God told us learn not the ways of the Heathen. Okay. For the customs of the people are vain meaning lies one cuts a tree out of the forest the work of the axemen with the axe. Okay. Where you at page 97 page 97 read the highlighted parts for us the candles lighted on Christmas Eve and used so long as the festive season lasts were equally lighted by the pagans on the eve of the Festival of the Babylonian God to do honor to him of the Babylonian God to do honor to him who was that Nimrod.
+> The candles lighted on Christmas Eve and used so long as the festive season lasts were equally lighted by the pagans on the eve of the festival of the Babylonian god to do honor to him
 
-Go ahead where was one of the distinguished peculiarity peul ities of his worship to have light wax candles on his altars the Christmas tree now so common among us the Christmas tree now so common among us was equally common in Pagan Rome and Pagan Egypt M and Egypt that denoting the Pagan Messiah as B Tamar the fur referring to him as Bal barit and this entirely accounts for putting of the ulog into the fire on Christmas Eve and the appearance of the Christmas tree the next morning now go to page 98 I ain't done yet. Go ahead. Page 98 page 98 goad the divine child born at the winter solstice the divine child born at the winter solstice who was this divine child tamuz that you read about in Ezekiel. Go ahead. The divine child born at the winter solstice was born as a new incarnation of the great God of the great God Nimrod.
+- Hold it to the camera so they can see it. Remember at the beginning of the lesson: they search out iniquities, they accomplish a diligent search. I took you to Nimrod, from there I took you to Tammuz, now I took you to ancient Babylon where God told us learn not the ways of the heathen.
 
-Go ahead after that God had been cut in pieces because Nimrod was killed. Go ahead. On purpose to Revenge his death upon his murderers now the great God cut off in the midst of his power and Glory was symbolized as a huge tree that he was what symbolized as what symbolized as a huge tree that's why in Jeremiah it says let me get that it said the tree must needs be born then it said they cannot do evil neither can they speak because the doctrine was that the spirit of nimrod would come come back in this dag going tree what vers Jeremiah 10:5 they are upright as the palm tree but speak not they must needs be born. Go ahead. Because they cannot go they can't move they can't walk be not afraid of them be not afraid of them for they can not do evil neither also is it in them to do good.
+- The Babylonian god: who was that? Nimrod.
 
-So now go back to the book this is where it's coming from that part that you read about uh the spirit coming in there the Incarnation that part now the great God cut off in the midst of his power and Glory was symbolized as a huge tree the Christmas tree as has stated was generally at Rome a different tree even the fur but the very same idea was implied in the palm tree in the what tree in the palm tree didn't we just read in Jeremiah they are upright as the palm tree because they use they used to use palm trees but today they use the evergreen tree. Go ahead. And the palm tree was implied and the Christmas fur for that covertly symbolized the newborn God of Bal what did that tree symbolize covertly symbolize the newborn God as Bal barit you see that.
+> where was one of the distinguished peculiarities of his worship to have light wax candles on his altars. The Christmas tree, now so common among us, was equally common in Pagan Rome and Pagan Egypt … and Egypt that denoting the Pagan Messiah as Baal-Tamar, the fir referring to him as Baal-berith, and this entirely accounts for putting of the Yule log into the fire on Christmas Eve and the appearance of the Christmas tree the next morning.
 
-So you Negroes you ain't just listen close let's keep reading therefore the 25th of December the what the 25th of December the day that was observed at Rome as the day when the Victorious God reappeared on Earth was held so the Victorious God reappeared on Earth December 25th. Come on. Was held at natalis invicti soless the birthday of the unconquered son the birth of the unconquered son that was tamuz. Okay. Which was Nimrod. Go ahead. Now the ulog is the dead stock of nrod defied as the Sun God now some of you hassad Negroes you use ulog but the rest of you you don't know what to talking about a ulog but it's say that read talk about again now the ulog is a dead stock of nimrod m defiled defied as the Sun God deified as the sun god yeah deified as the sun god but cut down by his enemies the Christmas tree is Nimrod redivivus meaning resurrected the slay God came to live again the slain God.
+- Now go to page 98. I ain't done yet.
 
-So it's telling you that this tree symbolizes Nimrod you got a tree in your house that symbolizes Nimrod The Rebirth of nimrod right The Rebirth of nimrod where you at the singular Practice still kept up in the south on Christmas Eve of kissing under the mistle bow mistl toe it says bow here. Okay. But it's the mistletoe that's what it's talking about. Go ahead. Was derived from Babylon was a representation of the Messiah you see what the misso represented the Messiah Nimrod reincarnated as tamuz. Go ahead. Okay. The MBO became the token of divine reconciliation to man The Kiss being the well-known token of Pardon and reconciliation see that what that kiss under the meso represented pardon. Go ahead. According to the one version of the story of the death of Adonis and tamuz course tamuz and Adonis was the same guy in the Greek philosophy they called tamuz Adonis.
+> The divine child born at the winter solstice was born as a new incarnation of the great god … after that god had been cut in pieces … on purpose to revenge his death upon his murderers. Now the great god, cut off in the midst of his power and glory, was symbolized as a huge tree
 
-Go ahead it was as we have seen in consequences of a wound from the Tusk of a boore that he died M go to page 102 now that the Pagan festival at the winter solstice in other words Christmas was held in honor of the birth of the Babylonian Messiah you see that you see what the scholars put together the scholars know that. So now, let's go. From there, let's close that. From there, let's go back to Jeremiah 10 start at verse two again Jeremiah 10: 2 thus sayeth the Lord learn not the way of the Heathen and be not dismayed at the signs of Heaven for the Heathen are dismayed at them for the customs of the people are vain for when cut a tree out of the forest one cuts a tree out of the forest the work of the hands of the workmen with the ax us an ax come they deck it with silver and with gold they decorate it with silver and gold and there's a song out silver and gold silver and gold they deck it with silver and with gold they fasten it with nails and with hammers that it move not they are upright as the palm tree but speak not because in ancient Babylon and ancient Egypt they used the palm tree Rome used the fur tree America uses the evergreen tree. Go ahead. They are upright as the palm tree but speak not they don't speak because the spirit of nrod don't inhabit the tree they must needs be born they got to be carried cuz it's a dead tree because they cannot go they can't walk be not afraid of them God told the Israelites don't be afraid of that custom that lie for they cannot do evil neither also it is in them to do good so now. From there, let's go to Revelation 11.
+- Who was this divine child? Tammuz, that you read about in Ezekiel. The great god: Nimrod. Cut in pieces, because Nimrod was killed.
+
+- That's why in Jeremiah it said the tree must needs be borne, and they cannot do evil, neither can they speak: because the doctrine was that the spirit of Nimrod would come back in this dag gone tree. Jeremiah 10:5: they are upright as the palm tree, but speak not; they must needs be borne, because they cannot go; they can't move, they can't walk. Be not afraid of them, for they cannot do evil, neither also is it in them to do good.
+
+- Go back to the book: this is where it's coming from, the spirit coming in there, the incarnation.
+
+> Now the great god, cut off in the midst of his power and glory, was symbolized as a huge tree. The Christmas tree, as has stated, was generally at Rome a different tree, even the fir, but the very same idea was implied in the palm tree
+
+- In the palm tree. Didn't we just read in Jeremiah, they are upright as the palm tree? Because they used to use palm trees, but today they use the evergreen tree.
+
+> and the palm tree was implied and the Christmas fir for that covertly symbolized the newborn god of Baal …
+
+- What did that tree covertly symbolize? The newborn god as Baal-berith. You see that? So you Negroes, listen close. Let's keep reading.
+
+> Therefore the 25th of December, the day that was observed at Rome as the day when the victorious god reappeared on earth, was held at the Natalis invicti solis, the birthday of the unconquered sun.
+
+- So the victorious god reappeared on earth December 25th. The birth of the unconquered sun: that was Tammuz, which was Nimrod.
+
+> Now the Yule log is the dead stock of Nimrod, deified as the sun god, but cut down by his enemies; the Christmas tree is Nimrod redivivus … the slain god came to live again.
+
+- Some of you Negroes, you use the Yule log, but the rest of you don't know what we're talking about.
+
+- Redivivus, meaning resurrected. So it's telling you that this tree symbolizes Nimrod. You got a tree in your house that symbolizes Nimrod, the rebirth of Nimrod.
+
+> The singular practice still kept up in the South on Christmas Eve of kissing under the mistletoe bough … was derived from Babylon, was a representation of the Messiah
+
+- It says bough here, but it's the mistletoe; that's what it's talking about.
+
+- The mistletoe represented the Messiah, Nimrod reincarnated as Tammuz.
+
+> The … became the token of divine reconciliation to man, the kiss being the well-known token of pardon and reconciliation.
+
+- See what that kiss under the mistletoe represented: pardon.
+
+> According to the one version of the story of the death of Adonis and Tammuz … it was, as we have seen, in consequences of a wound from the tusk of a boar that he died.
+
+- Tammuz and Adonis was the same guy. In the Greek philosophy they called Tammuz Adonis.
 
 </div>
 
-### Captivity, Merrymaking and Gifts
 
-- I'mma show youall something I'mma show you black men and black women Latin men and Latin women that think Christmas is sooro and the giving of gifts it's for the children y'all simple as hell Revelation 11 let's start at verse 8 Revelations 11:8 M
+<div class="reading">
+
+Reading from *The Two Babylons* by Alexander Hislop, p. 102 · read by Deacon Asaph  *[[13:16](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=796s)]*
+
+> that the Pagan festival at the winter solstice, in other words Christmas, was held in honor of the birth of the Babylonian Messiah.
+
+- You see that? You see what the scholars put together? The scholars know that.
+
+</div>
+
+
+**[Jeremiah 10:2-5](/bible/jeremiah/10#v2)**  *[[13:16](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=796s)]*
+
+> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
+>
+> <sup>[3](/bible/jeremiah/10#v3)</sup> For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
+>
+> <sup>[4](/bible/jeremiah/10#v4)</sup> They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
+>
+> <sup>[5](/bible/jeremiah/10#v5)</sup> They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good.
+
+- One cuts a tree out of the forest, the work of the hands of the workmen with the axe. They deck it with silver and with gold: they decorate it with silver and gold, and there's a song out, 'Silver and Gold'.
+
+- Upright as the palm tree, because in ancient Babylon and ancient Egypt they used the palm tree, Rome used the fir tree, America uses the evergreen tree.
+
+- But speak not: they don't speak, because the spirit of Nimrod don't inhabit the tree. They must needs be borne: they got to be carried, because it's a dead tree. They can't walk.
+
+- Be not afraid of them: God told the Israelites, don't be afraid of that custom, that lie.
+
 
 **[Revelation 11:8-10](/bible/revelation/11#v8)**  *[[14:45](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=885s)]*
 
@@ -120,25 +210,24 @@ Go ahead it was as we have seen in consequences of a wound from the Tusk of a bo
 >
 > <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 
-- and the dead bodies shall lie in the street of the great city which is spiritually called Sodom and Egypt now the dead bodies is talking about I'm going to go through it slowly on another lesson but it's talking about the two kingdoms of Israel in this chapter talks about the two Prophets The Two prophets are the two kingdoms which are Judah and Israel. Read it again. And their dead body shall lie in the street of the great city which spirit spiritually is called Sodom and Egypt this whole thing is a spiritual meaning behind it because we're not physically dead we're spiritually dead here in the great city which is Babylon the great the United States of America and you want the precept for that to show Proverbs 21:16.
+- I'mma show you black men and black women, Latin men and Latin women, that think Christmas is so good and the giving of gifts is for the children: y'all simple as hell.
 
-- Explains to you about um walking in the congregation of the dead right which is right here Proverbs 21:16
+- This chapter talks about the two prophets. The two prophets are the two kingdoms, which are Judah and Israel. There's a spiritual meaning behind it, because we're not physically dead; we're spiritually dead here in the great city, which is Babylon the great, the United States of America.
 
-**[Proverbs 21:16](/bible/proverbs/21#v16)**  *[[15:28](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=928s)]*
+- This place America is spiritually called Sodom because they got rights for homosexuals. It's spiritually called Egypt because like in ancient Egypt we were slaves there, we're slaves here. Take out a dollar bill: on the back is a pyramid with the all-seeing eye of Ra, because this place is spiritual Egypt. Where also our Lord was crucified, because the black image of Christ was crucified here.
 
-> <sup>[16](/bible/proverbs/21#v16)</sup> The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
+- The people and kindreds and tongues and nations: the United States of America, because here you have all nations, kindreds and tongues; this is the great melting pot. Three days and a half: 350 years.
 
-- the man that Werth out of the way of understanding shall remain in the congregation of the dead so our people wandered out of the way of understanding of who they are what is required of them so we are in the congregation of the dead that's where all your churches are the congregation of the dead so back to Revelation 11 and their dead bodies shall lie in the street of the great city which spiritually is called Sodom and Egypt this place America is spiritually called Sodom why because they got rights for homosexuals. Okay. Why is this place spiritually called Egypt because like in ancient Egypt we were slaves there we're slaves here in the United States of America check take out a dollar bill what's on the back of the doll Bill a pyramid with the allseeing eye of Rah why is that because this place is spiritual Egypt.
+- They that dwell upon the earth shall rejoice over them: they rejoiced over us when they destroyed us mentally and spiritually. And make merry: how do you start your Christmas? You say Merry Christmas.
 
-- Okay understand that. Come on. And they where also where also our Lord was crucified because the black image of Christ was crucified here. Okay. Read and they of the people and kindreds and tongues and Nations shall see their dead bodies 3 days and a half 350 years and shall not suffer their dead bodies to be put in grave right because here read that part again and there are the people and kindreds and tongues and Nations meaning what the United States of America because here in America you have the people you have all nations kindreds and tongues here this is the great Melting Pot. Read it again. And they are the people and kindreds and tongues and Nations shall see their dead bodies 3 days and a half 350 years and shall not suffer their dead bodies to be put in graves because we're not physically dead that's why.
+- And shall send gifts one to another: there was a time when the gifts was not toys; the gifts was your sons, the gifts was your daughters. They gave our children, us, as gifts one to another, not only on Christmas but on their birthdays, during Thanksgiving, any kind of celebration.
 
-- Read and they that dwell upon the Earth shall rejoice over them this is the part I wanted to get to because they made us slaves because they destroyed us spiritually and mentally it said what and they that dwell upon the Earth shall rejoice over them they rejoiced over us when they destroyed us mentally and spiritually. Go ahead. And make marry and make what and make Mary I want to pause there because how do you start your Christmas walk and what do you say say Merry Christmas read that part again and make Merry and shall send gifts one to another stop see there there's some there's some history that you black people don't know back in there was a time when the gifts was not from toys or rust but the gifts was your sons the gifts was your daughters they gave our children us as gifts one to another not only on Christmas but on their birthdays but during Thanksgiving.
+  Precepts:
+  - **[Proverbs 21:16](/bible/proverbs/21#v16)**
+    > <sup>[16](/bible/proverbs/21#v16)</sup> The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
 
-### Christ's Birth and the Wise Men
+    Our people wandered out of the way of understanding of who they are and what is required of them, so we are in the congregation of the dead; that's where all your churches are, the congregation of the dead.
 
-- Any kind of Celebration we were given as gifts and I'mma show you a clip where they show a young black boy being given as a gift to the Demonic white woman. Okay. Was that it well I went down to his 10 and they that dwell upon the Earth shall rejoice over them and make marry and shall send gifts one to another because these two prophets Tor these two kingdoms tormented them tormented them that dwelt on the earth now. From there, let's go to Luke 2 Luke Chapter 2 because the next thing a lot of you Latins you like to talk about um uh Three Kings Day oh Three Kings Day a bunch of let's go to Luke 2 I'm show you that there was no three kings. Okay. The three wise men Luke 2.
-
-- Let's start at verse 7 Luke 2: 7 MH
 
 **[Luke 2:7-17](/bible/luke/2#v7)**  *[[18:28](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1108s)]*
 
@@ -164,13 +253,18 @@ Go ahead it was as we have seen in consequences of a wound from the Tusk of a bo
 >
 > <sup>[17](/bible/luke/2#v17)</sup> And when they had seen it, they made known abroad the saying which was told them concerning this child.
 
-- and she brought forth her firstborn son and wrapped him in swaddling clothes and laid him in the manger laid Christ in the manger. Go ahead. Because there was no room for them in the end there was no room in the end. Go ahead. And there were in the same country shepherds abiding in the field shepherds abiding in the why were they in the fields with their sheep because this was the springtime. Go ahead. Keeping watch over their flock By Night mm and lo the angel of the Lord Came Upon them and the glory of the Lord Shone round about them and they were sore afraid and the angel said unto them fear not for behold I bring you good tidings of great joy which shall be to all people for unto you and when it says all people it's talking about all Israel.
+- A lot of you Latins like to talk about Three Kings Day. I'm going to show you that there was no three kings.
 
-- Go ahead for unto you is Born This Day in the city of David a savior which is Christ the lord what verse you at verse 11. Go ahead. And this shall be a sign unto you you shall find the bab wrapped in swaddling clothes lying in a manger and suddenly there was with the angel a multitude of heavenly hosts praising God and saying glory to God in the highest on Earth peace Good Will towards men and it came to pass as the Angels were gone away from them into the heavens the Shepherds said one to another let us now go even to Bethlehem and see this thing which has come to pass which the Lord had made known to us unto us. So now, the Shepherds went to Bethlehem to see the child in the manger. Go ahead. And they came with haste and found Mary and Joseph and they came with haste and found Mary and Joseph. Go ahead. And the Babe lying in the manger. Go ahead. And when they had seen it they made known abroad the saying which was told them concerning this child stop right there let's go to Matthew 2.
+- She laid Christ in the manger, because there was no room in the inn.
 
-- Now now I'm going to this for a reason showing you that when Christ was born. Okay. They put him in a Manger the the Shepherds came because the Angels told what was happening the Shepherds came and they saw Joseph and Mary and a baby Christ a CH a baby now we're in Matthew 2 I just want verse one two after you read the verse I'm going to tell you where to jump. Okay. One and two then we're going to jump to seven okay. Watch this. And I need y'all to pay close attention Matthew chap 2 verse1
+- Why were the shepherds in the fields with their sheep? Because this was the springtime.
 
-**[Matthew 2:1-2,7,11](/bible/matthew/2#v1)**  *[[21:05](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1265s)]*
+- When it says to all people, it's talking about all Israel.
+
+- When Christ was born they put him in a manger. The shepherds came because the angels told what was happening, and they saw Joseph and Mary and the baby Christ, a baby.
+
+
+**[Matthew 2:1-2,7,11-13,16](/bible/matthew/2#v1)**  *[[21:05](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1265s)]*
 
 > <sup>[1](/bible/matthew/2#v1)</sup> Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 >
@@ -179,32 +273,27 @@ Go ahead it was as we have seen in consequences of a wound from the Tusk of a bo
 > <sup>[7](/bible/matthew/2#v7)</sup> Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.
 >
 > <sup>[11](/bible/matthew/2#v11)</sup> And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.
-
-- now when Jesus was born in Bethlehem of Judea in the days of Herod the king behold there came wise men from the East to Jerusalem there came wise man from the East to Jerusalem what's in the East you have Babylon remember this is after the Babylonian captivity after the Persian captivity after the Greek captivity this is the Captivity under Rome.
-
-- Now so wise men from the East is not talking about other races it's talking about Israelites like when you read in Acts 2 it says there was Jews that came from Babylon and Persia and sort of places all right read behold it came wise men from the east of jerus M saying where is he that is born King of the Jews for we have seen his star in the seen his star in the east. Go ahead. And are come to worship Him Now jump down to verse seven verse seven. Watch this. Then Herod when he had privily called the men wise men inquired of them diligently what time the star appeared now pay close attention to that verse herod's question to the wise men did it say three no it said wise men. Okay. There was a caravan not three guys he asked them Herod who was an Adomian an Edomite asked the wise men what time did his star appear that's going to play a pivotal Point as we read on jump down to verse 11 verse 11 and when they came and when they were come into the house when the wise men were come into the house they saw the young child with marry his mother they saw the young.
-
-- Child no longer a baby they saw the young child with what with Mary his mother. Go ahead. And fell down and worshiped him MH and when they had opened their Treasures they presented unto him gifts gold and frankincense and myr that's why the white man says three kings because they gave the three gifts gold frankincense and M but the scriptures don't say three kings. Go ahead. Jump down to verse what verse was that that was 12 read 13 13
-
-**[Matthew 2:13-16](/bible/matthew/2#v13)**  *[[23:18](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1398s)]*
-
+>
+> <sup>[12](/bible/matthew/2#v12)</sup> And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.
+>
 > <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
->
-> <sup>[14](/bible/matthew/2#v14)</sup> When he arose, he took the young child and his mother by night, and departed into Egypt:
->
-> <sup>[15](/bible/matthew/2#v15)</sup> And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
 >
 > <sup>[16](/bible/matthew/2#v16)</sup> Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
 
-- and when they were departed behold the angel of the Lord appeared to Joseph in a dream saying arise and take the young child and his mother and flee into Egypt flee where flee into Egypt flee into Africa read and be thou there until I bring thee word for Herod will seek the young child to destroy now the reason the angel told him to hide in Africa was why.
+- Wise men from the East: what's in the East? Babylon. This is after the Babylonian captivity, after the Persian captivity, after the Greek captivity; this is the captivity under Rome. So wise men from the East is not talking about other races; it's talking about Israelites, like in Acts 2 there was Jews that came from Babylon and Persia.
 
-- So because they could blend in with the other black people that dwelt in Africa now what verse was that that was 13 right yes jump to 16. Watch this. Verse 16 then Herod when he saw that he was mocked of the wise men was exceeding LW and sent forth and slew all the children that were in Bethlehem and in all the coast thereof from two years old and under according to the time which he had D diligently inquired of the wise men notice that bottom part it says from two years old and under according to the time which he had diligently inquired of the wise men that's why in verse 7 Herod asked them what time did the star appeared obviously they told him two years ago so when the wise men got to the house how old was Christ two and under in between there that's why Herod in verse 16 it said he started to kill the boys.
+- Herod's question to the wise men: did it say three? No, it said wise men. There was a caravan, not three guys. Herod, who was an Edomite, asked them what time did his star appear; that's going to play a pivotal point.
 
-- From Two and under. Understand that. So when the wise men came Christ could have been he was a two-year-old that's why it called him a young child he was no longer a baby so you got these Christmas pageants where they show the the W uh the wise men go the wise men go into the manger number one that's wrong then they show him as a baby when a wise men get there that's wrong. Okay. They messed up the time right messed up the time. From there, now let's go to Luke 2 because now the question is well when was Christ born Luke.
+- When they were come into the house they saw the young child: no longer a baby. Because they gave the three gifts, gold, frankincense and myrrh, the white man says three kings, but the scriptures don't say three kings.
 
-- 2: 40-42 Luke 2 verse 40
+- Flee into Egypt: flee into Africa, so they could blend in with the other black people that dwelt in Africa.
 
-**[Luke 2:40-42](/bible/luke/2#v40)**  *[[25:39](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1539s)]*
+- From two years old and under, according to the time which he had diligently inquired: that's why in verse 7 Herod asked what time the star appeared. Obviously they told him two years ago, so Christ was a two-year-old when the wise men got to the house; that's why it called him a young child.
+
+- These Christmas pageants show the wise men going into the manger: number one, that's wrong. Then they show him as a baby when the wise men get there: that's wrong. They messed up the time.
+
+
+**[Luke 2:40-42](/bible/luke/2#v40)**  *[[24:50](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1490s)]*
 
 > <sup>[40](/bible/luke/2#v40)</sup> And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.
 >
@@ -212,29 +301,46 @@ Go ahead it was as we have seen in consequences of a wound from the Tusk of a bo
 >
 > <sup>[42](/bible/luke/2#v42)</sup> And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
 
-- and the child grew and whacked strong in spirit so the child grew and whacked strong in spirit this is Christ filled with wisdom and grace of God was upon him now his parents went to Jerusalem every year at the Feast of the Passover every year they went to the Feast of the Passover and when he was 12 years old they went went up to Jerusalem after the custom of the feast see that and when he was 12 years old so what is that verse telling you that's telling you the time when he was born on the Passover. Understand that. Read that part again and when he was 12 years old they went up to Jerusalem after the custom of the feast real quick let's go back to that book to two Babylon get me page 93 December 25th as Christmas Day a festival was celebrated.
+- Now the question is, well, when was Christ born?
+
+- The child grew and waxed strong in spirit: this is Christ.
+
+- Every year his parents went to the feast of the Passover, and when he was twelve years old they went up to Jerusalem after the custom of the feast. That verse is telling you the time when he was born: on the Passover.
+
 
 <div class="reading">
 
-Reading from *The Two Babylons* by Alexander Hislop, page 93  *[[26:24](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1584s)]*
+Reading from *The Two Babylons* by Alexander Hislop, p. 93 · read by Deacon Asaph  *[[26:14](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1574s)]*
 
-Among the Heathen at the precise time of the year in honor of the birth of the son of the Babylonian Queen of Heaven that's sesis and it may fairly be presumed that in order to conciliate the Heathen and to swell the number of nominal and adherence of Christianity the same Festival was adopted by the Roman Church giving it only the name of Christ see that's so they put the name Christ in that pagan holiday that's why they call it Christmas. Go ahead. That Christmas was originally a pagan Festival is beyond all doubt beyond all doubt. Go ahead. The time of G and the ceremonies which it is celebrated prove its origin and Egypt the son of Isis the Egyptian title for the Queen of Heaven was born at this very time about the time of the winter solstice the very Name by which Christmas is popularly known among ourselves y day proves at once its pagan and Babylonian origin Yu is a childes name for an infant or a little child see that and as and as the 25th of December and as the 25th of December.
+> December 25th as Christmas Day: a festival was celebrated among the heathen at the precise time of the year in honor of the birth of the son of the Babylonian Queen of Heaven, and it may fairly be presumed that in order to conciliate the heathen and to swell the number of nominal adherents of Christianity the same festival was adopted by the Roman Church, giving it only the name of Christ.
 
-So that's when the child was born. Okay. What does that say right there was called by our Pagan anglosaxon ancestors you day or the child's day or the child's day Yu day or the child's day that's why they always showed the baby in in a Manger always like that. Go ahead. You day or the child's day and the night that preceded it mother night mother night long before they came in contact with Christianity that sufficiently proves its real characters you see that far and wide in the Realms of paganism was this birthday observed see that so now. From there, let's deal with New Year's real quick. Okay. When does the year start for the most high god let's go to Deuteronomy 16.
+- The Babylonian queen of heaven: that's Semiramis.
+
+- So they put the name Christ in that pagan holiday. That's why they call it Christmas.
+
+> That Christmas was originally a pagan festival is beyond all doubt. The time of … and the ceremonies which it is celebrated prove its origin. And Egypt the son of Isis, the Egyptian title for the Queen of Heaven, was born at this very time, about the time of the winter solstice. The very name by which Christmas is popularly known among ourselves, Yule day, proves at once its pagan and Babylonian origin. Yule is a Chaldee name for an infant or a little child, and as the 25th of December
+
+- The 25th of December: so that's when the child was born.
+
+> was called by our pagan Anglo-Saxon ancestors Yule day, or the child's day, and the night that preceded it, Mother night, long before they came in contact with Christianity, that sufficiently proves its real characters. Far and wide in the realms of paganism was this birthday observed.
+
+- Yule day, or the child's day: that's why they always showed the baby in a manger, always like that.
 
 </div>
 
-### The Biblical Beginning of the Year
-
-- Okay Deuteronomy chapter 16 I just want verse one Deuteronomy chapter 16 verse one
 
 **[Deuteronomy 16:1](/bible/deuteronomy/16#v1)**  *[[28:01](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1681s)]*
 
 > <sup>[1](/bible/deuteronomy/16#v1)</sup> Observe the month of Abib, and keep the passover unto the Lord thy God: for in the month of Abib the Lord thy God brought thee forth out of Egypt by night.
 
-- observe the month of abib now write that down abib a i b observe the month ab and keep the Passover and keep the Passover because why Passover came in the month of Abid unto the Lord thy God. So now, was that in on verse one noad for in the month of abib the Lord thy God brought thee forth out of Egypt by night. So now, remember this that in the month of bib we came out by night it's talking about the Passover okay. From there, let's go to Exodus 12.
+- Now let's deal with New Year's: when does the year start for the Most High God?
 
-- Now when you get a Bible dictionary. Okay. You can get the zans or any kind Look up the word abib it literally means ear of corn which comes when spring. Okay. That's what it means the spring season okay. From there, Exodus 12 we want verse two Exodus 12:2 now remember the month of BB we came out of Egypt we would have keep the Passover. Go ahead.
+- Write that down: Abib, A-B-I-B. Keep the Passover, because the Passover came in the month of Abib.
+
+- Remember this: in the month of Abib we came out by night. It's talking about the Passover.
+
+- When you get a Bible dictionary, Zondervan's or any kind, look up the word Abib: it literally means ear of corn, which comes in spring. That's what it means: the spring season.
+
 
 **[Exodus 12:2,26-27](/bible/exodus/12#v2)**  *[[28:52](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1732s)]*
 
@@ -244,107 +350,146 @@ So that's when the child was born. Okay. What does that say right there was call
 >
 > <sup>[27](/bible/exodus/12#v27)</sup> That ye shall say, It is the sacrifice of the Lord’s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.
 
-- This month shall be unto you the beginning of month. So now, we're discussing when God says the new year begins. Read it again. This month shall be unto you the beginning of month this month shall be to you the beginning of months. Go ahead. It shall be the first month of the year to you it shall be the first month of the year to you. Go ahead. Was what verse was that two that was two jump.
+- Remember, in the month of Abib we came out of Egypt and would have to keep the Passover. Now we're discussing when God says the new year begins.
 
-- Let's see what he's talking about jump down to verse 26 we want to establish what is God talking about 26 verse 26 and it shall come to pass when your children shall say unto you what mean mean me by the service that ye shall say it is the sacrifice of the Lord's Passover it is the sacrifice of the Lord's Passover so when the Passover begins that's the beginning of the year to you that's the month of abib the beginning of the year to you. Read it again. And it shall come to pass when your children shall say unto you what mean you by this service that you shall say it is the sacrifice of the Lord's Passover who pass over the houses of the.
+- This month shall be to you the beginning of months; it shall be the first month of the year to you.
 
-- Children of isra in Egypt when he smoked the Egyptians and delivered our houses and this people bowed the head and worshiped you see that. So now, what is the Bible letting us know that the month of bib which is the spring that's when the first spring month that's the beginning of the year that's when that's the same month where the Passover is commanded to be celebrated. Okay. Not the debt of winter but spring in the month of ab real quick so where do we get that December stuff from let's go to Daniel 7. Okay. Daniel 7 and verse 25. Okay. Daniel 7:25 listen good to this
+- We want to establish what God is talking about: it is the sacrifice of the Lord's Passover. So when the Passover begins, that's the beginning of the year to you; that's the month of Abib.
+
+- The month of Abib, which is the spring, the first spring month, is the beginning of the year, the same month where the Passover is commanded to be celebrated. Not the dead of winter, but spring.
+
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[30:26](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1826s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
-- and he shall speak great words against the most high and shall wear out the Saints of the most high and think to change times and laws and they shall be given into his hand until a time and times in the dividing of time let's. Read it again. And he shall speak great words against the most high Who is the here in Daniel 7:25 it's talking about the United States of America the so-called white man how does he speak great words against the most high hold that give me Isaiah 1413.
+- So where do we get that December stuff from? The 'he' here in Daniel 7:25 is talking about the United States of America, the so-called white man.
 
-- Isaiah chapter 14:13
+- He shall wear out the saints of the Most High. You ever get a pair of brand new sneakers and see the grid marks on the bottom? You wear them and you wear them and they get worn out, so worn out you don't know what kind of sneaker it was. He wore us out in slavery so harshly we don't know we're Israelites no more: we've forgotten our culture, our customs, our feast days, our nationality; we forgot our own women, we forget our own kids.
 
-**[Isaiah 14:12-14](/bible/isaiah/14#v12)**  *[[31:19](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1879s)]*
+- Think to change times: we just went through daylight saving time. In the springtime we spring one hour forward, and in the fall they set the clock an hour back.
 
-> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
+- And laws: God says the beginning of the year is in the month of Abib, which is the spring. The white man says no, we're going to change that; let's get rid of this month of Abib stuff and make it January 1st, in the dead of winter.
+
+- **Deacon Asaph:** And they called everybody who was still doing it in April an April Fool. That's where the saying came from, to play tricks on people, because they were still bringing in the year in April.
+
+- They discovered all these paganist holidays and instituted those things into the United States of America, and by that they wore us out with their lies.
+
+
+**[Isaiah 14:13-14](/bible/isaiah/14#v13)**  *[[31:19](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=1879s)]*
+
 > <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
 >
 > <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
 
-- for thou has said in thine heart I will Ascend into heaven when thou has said in thine heart I will Ascend into heaven. Go ahead. I will exalt my throne above the stars of God space travel. Go ahead. I will sit also upon the Mount of the congregation in the sides of the nor nor I will enslave the Israelites in North America I will Ascend above the heights of the cloud I will create airplanes too I will be like the most high I will be like the most high verse 13 I will sit also upon the Mount of the congregation in the sides of the north so Lucifer the devil white man that's what it's talking about would sit upon the Mount of the congregation which are the Israelites in the sides of the north meaning North America go back it.
+- How does he speak great words against the Most High? I will exalt my throne above the stars of God: space travel.
 
-- From Lucifer in the 12th verse right go back to Daniel now that part again and they shall do what to us Daniel 7 7:25 and he shall speak great words against the most high and shall wear out the Saints of the most high how has he worn us out in slavery you ever get a pair of sneakers brand new sneakers and you get the bottom of them you see all the you can see the symbols under the bottom of the sneaker the grid marks and all that but you're wearing for a while you wear them you wear and you wear them what happens to the grid marks and to the sneakers they gets worn out so worn out that you what kind of sneaker was this that I was wearing so now.
+- Upon the mount of the congregation, in the sides of the north: I will enslave the Israelites in North America. The mount of the congregation are the Israelites, in the sides of the north, meaning North America.
 
-- Let's he said it the scripture said he would wear out the Saints of the most high which are the Israelites how did he wear us out what does that mean meaning he wore us out in slavery so much that we don't know we Israelites no more we've been worn out in slavery so harshly we forgotten who we are we' forgotten our culture our customs our feast days we've forgotten our nationality we forgot our own woman we forget our own kids we have been worn out as a people understand that. Read it again. And he shall speak great words against the most high and shall wear out the Saints of the most high and think to change times and laws that's the part we wanted to get to also and think to change times and laws.
+- I will ascend above the heights of the clouds: I will create airplanes too.
 
-- Let's deal with the times that this white man has changed we just went through Daylight Savings Time correct we in the springtime we spring one hour forward and in the fall they say spring the clock and hour back. Okay. So they think to change times okay. Understand that. Then it said and laws okay. So now, what happened God says when was the beginning of the year in the month of ab bi which is the spring the white man says no we going to change that it's no longer being a spring this mon for bib stuff let's get rid of that make it uh Janu January 1st in the dead of winter and and called everybody who was still doing it in April is a April Fool that's where the saying came.
+- Lucifer, the devil white man: that's what it's talking about.
 
-- From to play tricks on people cuz the people felt they were trick cuz they were still bringing in the air in April exactly exact that's why at the beginning of the lesson remember it said Psalm 64 it said they accomp they do a diligent search. Okay. They search out iniquities they accomplish a diligent search they discovered all these paganist holidays and instituted those things into the United States of America and by that they wore us out with them their lies so all you so-called black men and black women you got to wake up to the truth that you're the Israelites you got to get become born again we got to honor the new year when in the springtime and celebrate Passover we got to stop keeping Christmas we got to stop celebrating the New Year's Eve celebration because all that's paganism all that's of the devil.
 
-- Understand that okay. From there, let's go back to Jeremiah 10 again let's go back to Jeremiah 10 and verse 25 all right Jeremiah 10 and 2 I'm sorry Jeremiah 10 and verse2 Jeremiah 10:2 thus sayeth the Lord learn not the way of the Heathen here what the Bible commands us learn not the way of the Heathen who's the Heathen that we're learning from today the so-called white man we are commanded not to learn back in Jeremiah's time where was the the Israelites at in ancient Babylon under the Ethiopians and Jeremiah told our ancestors then learn not the ways of the Heathen don't follow the customs of these Ethiopians that set up Nimrod and tamuz and camicus and the tree the palm tree don't follow it.
+**[Jeremiah 10:2](/bible/jeremiah/10#v2)**  *[[34:58](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2098s)]*
 
-- Now here we are in the United States of America in America in their archaeological digs they oh look what ancient Babylon used to celebrate they had a custom called Christmas not Christmas on uh soul evicus and all that they said oh let's bring that custom here to America. Okay. And they set up they said oh we don't got to use a palm tree let's use an evergreen tree. Okay. And they set up tree and they decorate it with silver and gold and they gave our sons and daughters as gifts one to another on their holidays. Okay. So read that again thus sayith the Lord God learn not the way of the Heathen and be not dismayed at the signs of heaven right because what did the Heathen do because they're so dismay at the signs of Heaven they put star a star on the top of the tree they said oh this will be the North Star on the top of the tree then they put bulbs around they oh these are smaller stars and then one time it was heads of people on these trees. Okay. So. From there, let's go to Deuteronomy 2848.
+> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
 
-### Traditions of Men Turn People from the Truth
+- All you so-called black men and black women, you got to wake up to the truth that you're the Israelites. You got to become born again. We got to honor the new year in the springtime and celebrate Passover. We got to stop keeping Christmas, we got to stop celebrating the New Year's Eve celebration, because all that's paganism; all that's of the devil.
 
-- I'm going show you something the celebrating of Christmas the celebrating of New Year's Eve is all evil it's all demonic and why does why does Santa Claus which is Satan claws always have a red suit what does red commonly signify sin I'm going say it again sin. Okay. Why you got to come down your chimney where fire comes out of right can't knock on your door come through the window. Watch this. Deuteronomy 28 and 48 Deuteronomy 28:48
+- Back in Jeremiah's time the Israelites were in ancient Babylon under the Ethiopians, and Jeremiah told our ancestors: don't follow the customs of these Ethiopians that set up Nimrod and Tammuz and the tree, the palm tree.
 
-**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[37:23](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2243s)]*
+- Now here we are in America. In their archaeological digs they said, look what ancient Babylon used to celebrate, let's bring that custom here; we don't got to use a palm tree, let's use an evergreen tree. They set up the tree, they decorate it with silver and gold, and they gave our sons and daughters as gifts one to another on their holidays.
+
+- Because the heathen are so dismayed at the signs of heaven they put a star on the top of the tree: this will be the North Star. Then they put bulbs around: these are smaller stars. And one time it was heads of people on these trees.
+
+
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[36:37](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2197s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
-- therefore shalt thou serve thine enemies which the Lord shall send against thee in hunger and in thirst and in nakedness and in want of all things and he shall put a yoke of iron upon thy neck until he have destroyed thee let's read that again therefore shal th serve thine enemies so remember we read in Daniel 7:25 where it said he would wear out the Saints.
+- The celebrating of Christmas, the celebrating of New Year's Eve, is all evil; it's all demonic. Why does Santa Claus, which is Satan claws, always have a red suit? Red commonly signifies sin. Why he got to come down your chimney, where fire comes out of? He can't knock on your door or come through the window.
 
-- Now here's another precept I'm jump back on that bandwagon again read that again therefore shalt thou serve thine enemies so we've been serving this so-called white man for almost 400 years. Go ahead. Which the Lord shall send against thee in hunger we have to serve this man if we want food to put on our tables. Okay. We had to serve him picking the tobacco picking cotton picking sugar can okay. Go ahead. And in thirst if we wanted water we had to serve break our backs for this man. Go ahead. And in nakedness and if we want clothes to cover out our naked bodies we had to serve from sun up to sun down. Go ahead. And in want of all things I want that part right there and in want of all things meaning what if even if we want to learn the B who do we have to.
+- Remember we read in Daniel 7:25 that he would wear out the saints; here's another precept. We've been serving this so-called white man for almost 400 years.
 
-- Go to to learn the Bible the so-call white man and what did he do he taught us Christmas he taught us New Year's Eve. Okay. Why hold that go back to Psalm 64 I don't want to forget that thought where we started at right there Psalms 64 and verse 6 again Psalms chapter 64: 6 they search out iniquities they archaeological digs they search out iniquities they get paid millions of dollars to search out iniquities it's not by accident that we celebrate Christmas they searched it out. Read it again. They search out in iniquities they accomplish a diligent search they accomplish a diligent search they don't stop until they dig up the last remains of things. Go ahead. Both the inward thought of every one of them and the heart is deep it said did it say every one of them every one of them.
+- In hunger: we have to serve this man if we want food to put on our tables, picking the tobacco, picking cotton, picking sugar cane. In thirst: if we wanted water we had to break our backs for this man. In nakedness: if we want clothes to cover our naked bodies we had to serve from sun up to sun down.
 
-- So it's not just one or two white people it's said the mean to again both the inward thought of every one of them every one of them yes black man if you married the white woman it's talking about her too at the thought of every one of them every one of them is what and the heart is deep is deep every last one of them. Okay. Read the next verse but God shall shoot at them with an arrow suddenly they be wounded you know what that arrow is a missile because it's going to be destruction here God's going to shoot at this the wicked here the United States of America with a nuclear missile understand that. Read it again. But God shall shoot at them with an arrow suddenly shall they be wounded.
+- In want of all things: even if we want to learn the Bible, who do we have to go to? The so-called white man. And what did he do? He taught us Christmas, he taught us New Year's Eve.
 
-- Let's start up at verse five I like that one verse five they encourage themselves in an evil manner they commune of laying snares privil they they what they commune of laying snares privil they. Read it again. They commune I want that word commune they commune they commune of laying snares of laying snares laying traps privily. Okay. So what is that talking about when they sat down with the pilgrims when they sat down with the United Nations building. Go ahead. They. Read it again. They commune of laying snares priv they commune of laying traps privately they're not going to tell everybody oh we're going to set up Christmas and New Year's Eve as a trap for the Israelites they ain't going to say that.
 
-- Read that part again they commune of laying snares privil they do that privately they sit amongst one another and they say listen we just did some digs we discovered something called uh uh where they set up a tree which was the spirit of nimrod let's put Christ to that. Okay. We can lead the slaves that way okay. Read it again. They commune of laying snares privilege they're not going to say you know what and this dig also showed us that um the new year at one time according to to the Bible was in the spring but we don't want to do that we could do like ancient Babylon did cuz we discovered they celebrated in the dead of winter let's do that they commune of laying traps privately they're not going to tell you because a lot of you think you you're accepted no you're under the delusion of inclusion.
+**[Psalms 64:5-7](/bible/psalms/64#v5)**  *[[38:59](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2339s)]*
 
-- Okay read on they say who shall see them who shall who's going to know that we the wicked upon the Earth who's going to know that we set up all these holidays all these Customs based on ancient Babylon which is based upon Satan who's going to know we did this and and they know Negroes don't read anyway so a negro ain't going to go search it out exactly okay. Go ahead. They search out iniquity they accomplish a diligent surge vote the inward thought of every one of them and the heart is deep let's go now to Isaiah 29.
+> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+>
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+>
+> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
 
-- So we read in Deuteronomy 28:48 it said and we got to serve him for lack of all things and want of all things that includes understanding of the Bible and anything we have to go to the white man to get understanding that's why a lot of you accept Christmas and New Year's Eve you never once asked them well can you prove that in the Bible right you never once do that but when we bring out the truth watch we get a million letters right uh how how can you prove that how can you now you want to question us because we're your brothers we your we look like you because we read we found it question now but there's no roof of Santa Claus or the tree or anything but y'all want to follow that exactly.
+- They search out iniquities: their archaeological digs. They get paid millions of dollars to search out iniquities. It's not by accident that we celebrate Christmas; they searched it out. They don't stop until they dig up the last remains of things.
 
-- From there Isaiah 29:3 Isaiah 29:3
+- The inward thought of every one of them: it's not just one or two white people. Black man, if you married the white woman, it's talking about her too.
 
-**[Isaiah 29:13](/bible/isaiah/29#v13)**  *[[42:58](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2578s)]*
+- God shall shoot at them with an arrow: you know what that arrow is? A missile. God's going to shoot at the wicked here, the United States of America, with a nuclear missile.
+
+- They commune of laying snares privily: laying traps privately, when they sat down with the pilgrims, when they sat down in the United Nations building. They're not going to tell everybody, we're going to set up Christmas and New Year's Eve as a trap for the Israelites. They say, we discovered where they set up a tree which was the spirit of Nimrod, let's put Christ to that, we can lead the slaves that way; the new year according to the Bible was in the spring, but we could do like ancient Babylon did and celebrate in the dead of winter.
+
+- A lot of you think you're accepted. No, you're under the delusion of inclusion.
+
+- Who shall see them? Who's going to know that we set up all these holidays, all these customs based on ancient Babylon, which is based upon Satan?
+
+- **Deacon Asaph:** And they know Negroes don't read anyway, so a Negro ain't going to go search it out.
+
+
+**[Isaiah 29:13](/bible/isaiah/29#v13)**  *[[42:09](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2529s)]*
 
 > <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
-- wherefore the Lord said for as much as this people draw near to me with their mouth you black men and black women Latin men and Latin women you draw near to God with your mouth how you love the Lord. Go ahead. And with their lips do honor me you say oh I love the Lord I love him yes I does. Go ahead. But have removed their heart far from me meaning you won't do no Lord as the Bible says the Bible give you a lord you go no we ain't doing that read that part again but but have removed their heart far from me. Go ahead. And their fear toward me and your fear towards God meaning all that you understand about God about the Bible and their fear toward me is taught by the precept of men what man taught you the Bible the so-called white man taught you the Bible.
+- We read in Deuteronomy 28:48 that we got to serve him in want of all things, and that includes understanding of the Bible. That's why a lot of you accept Christmas and New Year's Eve: you never once asked them, can you prove that in the Bible? But when we bring out the truth we get a million letters: how can you prove that? Now you want to question us, because we're your brothers, we look like you.
 
-- Read that part again and that faar toward me is taught by the precept of men and your fear towards God is taught by the so-called white man. Understand that. That's what the Bible is proving. Okay. So you have not learned the Bible yet but Before Destruction comes you're going to learn this Bible. Okay. Was that it yeah. From there, let's go to Colossians 2 and 8.
+- **Deacon Asaph:** But there's no proof of Santa Claus or the tree or anything, but y'all want to follow that.
 
-- Colossians chapter 2 and verse 8 Colossians chapter 2 verse 8
+- You black men and black women, Latin men and Latin women, you draw near to God with your mouth: oh I love the Lord, I love him, yes I does.
+
+- But have removed their heart far from me, meaning you won't do what the Lord says. The Bible gives you a law and you go, no, we ain't doing that.
+
+- Their fear toward me is taught by the precept of men: what man taught you the Bible? The so-called white man. So you have not learned the Bible yet, but before destruction comes you're going to learn this Bible.
+
 
 **[Colossians 2:8](/bible/colossians/2#v8)**  *[[44:22](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2662s)]*
 
 > <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
-- beware lest any man spoil you through philosophies and vain deceit after the traditions of men after the rudiments of the world and not after Christ read that again beware lest any man spoil you stop beware lest any man spoil you mean corrupt you through the philosophies and vain deceit after the traditions of men after the traditions of men so who has spoiled our race who has spoiled our nation who has spoiled our 12 tribes with philosophies after the traditions of men the so-call white man first and foremost because everything I I got to say this everything you you so-called black people I'm saying so-called because you're not really black I'm just using it metaphorically you so-called black people everything that you know where have you gotten it.
+- Beware lest any man spoil you, meaning corrupt you. Who has spoiled our race, our nation, our twelve tribes with philosophies after the traditions of men? The so-called white man, first and foremost, because where was Paul writing this? Under Roman captivity.
 
-- From the so-called white man all your understanding and you know what you got to nerve the Writ us and say you use the white man's book show us proof that the Bible is the white man's book I ain't see that scripture yet show me God is white show me Christ is white show me the Israelites white you ain't got no scripture but you unlearned black men are the first ones to P pull your lip out as it drags the floor and say stupid stuff you're the first ones but guess what the Bible Bears witness that everything you know you've learned from the slave master the slave master didn't teach us this what we're teaching you the white man didn't teach this to us. Okay. Read that again beware lest any man spoil you through philosophy and vain deceit.
+- I'm saying so-called because you're not really black; I'm just using it metaphorically. Everything you so-called black people know, you've gotten from the so-called white man, and you got the nerve to write us and say you use the white man's book. Show us proof that the Bible is the white man's book. Show me God is white, show me Christ is white, show me the Israelites white. You ain't got no scripture.
 
-- So the man that is speaking of first and formost is the white man because where was Paul writing this under Roman captivity. Read it again. Beware L any man spoil you through philosophy all your philosophies about Christmas all your philosophies about New Year's Eve all your lying false philosophies. Go ahead. And vain deceit and in all vain deceits vain lies goad. Go ahead. After the tradition of men after the traditions of the white man because that's where you follow these holidays from the white man. Go ahead. After the rudiments of the world. Come on. And not after Christ because all those days you celebrate not after Christ show us December 25th show us that show us Christmas huh show us New Year's Eve in the dead of winter show us that oh it is silence now. Okay. So you have no choice black and Latin man but to repent it's you only got options you will either repent or drop dead that's the only two options you got okay. From there, let's go to Titus.
+- The Bible bears witness that everything you know you've learned from the slave master. The slave master didn't teach us what we're teaching you.
 
-- Titus Chapter 1 and verse 14 Titus Chapter 1 verse4
+- All your philosophies about Christmas, all your philosophies about New Year's Eve, all your lying false philosophies, vain lies, after the traditions of the white man, because that's where you follow these holidays from.
+
+- Not after Christ, because all those days you celebrate are not after Christ. Show us December 25th, show us Christmas, show us New Year's Eve in the dead of winter. It is silence now.
+
+- So you have no choice, black and Latin man, but to repent. You only got two options: you will either repent or drop dead.
+
 
 **[Titus 1:14](/bible/titus/1#v14)**  *[[47:33](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=2853s)]*
 
 > <sup>[14](/bible/titus/1#v14)</sup> Not giving heed to Jewish fables, and commandments of men, that turn from the truth.
 
-- not giving heed to Jewish fables and Commandments of men that turn from the truth. Read it again. Not giving he to Jewish fables stop let's deal with some Jewish fables what does the word Jewish let's deal with that word the word the the the suffix is is at the end of that word what does ish mean it means pertaining to not the original but it pertains to something so like when they say um I'll meet you around fiveish I'm not saying I'm gonna meet you at five I'm saying somewhere around five right y'all with me so far so read that again not giving heed to Jewish fables let's deal with Jewish fables Jewish meaning Fables pertain a word fable is a lie that pertain to the people of God the Jews.
+- What does the suffix -ish mean? It means pertaining to, not the original. When they say I'll meet you around fiveish, I'm not saying I'm going to meet you at five; I'm saying somewhere around five. A fable is a lie, so a Jewish fable is a lie that pertains to the people of God, the Jews.
 
-- So like what Christmas is a Jewish Fable because you stick the birth of Christ in it the white man has stuck Joseph in it stuck Mary in it and stuck the angels in it he painted them all white and then said this is God's holiday it's a Jewish Fable then with Santa Claus what's his real name St Nick St Nick St Nicholas by the way they call Santa Claus St Nick St Nick was a real Israelite in Russia who celebrated not December the 25th but he celebrated Hanukkah which is in English the Feast of dedication and he gave gifts to the orphans and the widows on during the Hanukkah celebration during the celebration of the Feast of dedication and as many paintings of St Nicholas as a black man in Russia okay. So now, they took that the scholars took that remember we.
+- Christmas is a Jewish fable, because you stick the birth of Christ in it. The white man stuck Joseph in it, stuck Mary in it, stuck the angels in it, painted them all white, and said this is God's holiday.
 
-- Read they do a diligence search. Okay. They said oh St Nicholas let's make him a fat white man put a red suit on him give him the ho ho ho and a Rudolph the reo's Reindeer and give gifts to everybody throughout the world and put a name on him that when you unscramble it you get Satan right exactly. Okay. Because Negroes is simple and they'll never figure it out what a coincidence that and Satan is the same words mixed up exactly all right all right and then let's add a tree and light bulbs all that stuff is symbolic all of that stuff has meaning that you Negroes don't know because you don't research you don't check that's why it said in Isaiah chapter 64 who sees us who's going to know exactly you ever ask yourself what the hell does a tree in some dag on bulbs got to do with with Christ with Christ what does that got to do with anything right it has nothing the tree and the bulbs have nothing to do with Christ but it has all to do with Nimrod right because it said the spirit of the tree represented Nimrod.
+- Santa Claus's real name is St. Nick, St. Nicholas. St. Nick was a real Israelite in Russia who celebrated not December 25th but Hanukkah, which is in English the feast of dedication, and he gave gifts to the orphans and the widows during it; there's many paintings of St. Nicholas as a black man in Russia. The scholars took that and said, let's make him a fat white man, put a red suit on him, give him the ho ho ho and Rudolph the red-nosed reindeer, and put a name on him that when you unscramble it you get Satan.
 
-- Understand that back to titus4 Titus Chapter 1 144 not giving heed to Jewish fables so Christmas is a Jewish Fable uh uh uh St Nick is a Jewish Fable uh um what else uh the UL the Ula all that that they say that pertains to the Jews is all lies the mistletoe kissing under the mistletoe tradition everybody expecting to kiss that dick exactly it's all Jewish fables meaning lies that pertain around the Jews. Okay. And and you could Google December 25th and see that it was a winter solstice right that's something that they don't hide that's where they got that day.
+- **Deacon Asaph:** What a coincidence, that Santa and Satan is the same words mixed up.
 
-- From in honor of the son exactly exactly and you know what this week well maybe it's GNA be some time but there was a thing on the news on CNN where atheist put up a billboard that said what did he say he put a big billboard up and said Christmas something like uh has nothing to do with Christ right something like that he said in this season remember the reason we celebrate he said he all he says Christmas was never anything to do with the Bible right and all the fake Christians like you got angry and mad. Okay. So we back in Titus 1 and4 again Titus 1 verse4 not giving heed to Jewish fables not giving heed to Jewish fables like Christmas and New Year's Eve and Commandments of men because that is a commandment of men what man gave you that commandment to celebrate Christmas and New Year's Eve that's right the so-called white man your slave master.
+- All that stuff is symbolic, the tree and the light bulbs; all of that stuff has meaning that you Negroes don't know, because you don't research, you don't check. The tree and the bulbs have nothing to do with Christ, but it has all to do with Nimrod, because the spirit of the tree represented Nimrod.
 
-- Go ahead and Commandments of men that turn from the truth and Commandments of men what's their purpose that turn from the truth their purpose is to turn you from the truth that's why in Psalm 64 it says they accomplish a diligent search they search out iniquities their purpose their reasoning is to turn the Israelites from the truth that's why they forbade us to read they forbid our people to read they indoctrinated us with their lies. Okay. Hold that give me Matthew 23.
+- **Deacon Asaph:** And you could Google December 25th and see that it was the winter solstice. That's something that they don't hide; that's where they got that day from, in honor of the sun.
 
-- I'm going to show you something else. Okay. Matthew 20 now was it Matthew 23 where it says call no man master I think it's there Matthew chapter 23:8
+- Commandments of men that turn from the truth: what man gave you that commandment to celebrate Christmas and New Year's Eve? The so-called white man, your slave master. Their purpose is to turn the Israelites from the truth. That's why they forbade our people to read; they indoctrinated us with their lies.
+
 
 **[Matthew 23:8,10](/bible/matthew/23#v8)**  *[[52:45](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3165s)]*
 
@@ -352,11 +497,12 @@ So that's when the child was born. Okay. What does that say right there was call
 >
 > <sup>[10](/bible/matthew/23#v10)</sup> Neither be ye called masters: for one is your Master, even Christ.
 
-- but be not ye called Rabbi Rabbi is a Hebrew word for master for one is your master even Christ and all ye are Brethren read verse 10 verse 10 neither be ye called Masters for one is your master even Christ what did the so-called white man do to us during the time of slavery he forced us to call him Master you don't think he knew these scriptures he read that but he said oh no he says call me master and he slapped the hell out of you black men and black.
+- Rabbi is a Hebrew word for master.
 
-- Women if you didn't call him master and I'm going show you a clip on that now you over there I want you to repeat thank you master thank you master master Yes master master please master master and you never look a white man in the eye you hear me never look at me thank you master not in the face you bastard now remember that remember earlier in the lesson we read about Herod seeking to destroy the baby the young child Christ remember that remember that Revelation started 12 chapter 12 I want verse two we want 2 through 5 that's it Revelations 12 verse2
+- What did the so-called white man do to us during the time of slavery? He forced us to call him master. You don't think he knew these scriptures? He read that, but he said call me master, and he slapped the hell out of you black men and black women if you didn't call him master.
 
-**[Revelation 12:1-5](/bible/revelation/12#v1)**  *[[53:35](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3215s)]*
+
+**[Revelation 12:1-4](/bible/revelation/12#v1)**  *[[53:56](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3236s)]*
 
 > <sup>[1](/bible/revelation/12#v1)</sup> And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 >
@@ -365,28 +511,35 @@ So that's when the child was born. Okay. What does that say right there was call
 > <sup>[3](/bible/revelation/12#v3)</sup> And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
 >
 > <sup>[4](/bible/revelation/12#v4)</sup> And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
->
-> <sup>[5](/bible/revelation/12#v5)</sup> And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne.
 
-- and she being with child cried travailing read verse one in case somebody's reading one Revelations 12 verse1 and there appeared a great wand in heaven a woman clothed with the Sun the and the moon under her feet and upon her head a crown of 12 stars.
+- Remember earlier in the lesson we read about Herod seeking to destroy the young child Christ.
 
-- Now this woman represents the 12 tribes of Israel the Sun and the Moon just represents knowledge and wisdom and understanding. Go ahead. And she being with child cried and she being with child cried travailing in bir and pain to be delivered. Watch this. Now this woman represents Israel. Go ahead. And there appeared another Wonder in heaven and behold a great red dragon a great red dragon having seven heads having seven heads and 10 horns and 10 horns seven Empires and 10 smaller Empires and seven crowns upon his head. Go ahead. And his tail drew the third part of the stars of Heaven that's Judah Benjamin and Levi that's the third part of the stars that the Romans cast down. Watch this. And they cast them to the earth and the dragon stood before the woman which was ready to be delivered for to devour her child as soon as it was born.
+- This woman represents the twelve tribes of Israel. The sun and the moon just represent knowledge and wisdom and understanding.
 
-- Read that part again this is the part I'm just rushing through it but I need you to understand this and his ta drew the third part of the stars of heaven and cast them to the earth and the dragon stood before the woman with and the dragon stood before the woman which was ready to be delivered which was ready to be delivered for to devour her child as soon as it was born who stood before Israel to Devour the child as soon as it was born as soon as he was born Herod and the Roman Empire so what is revelation what is John the Apostle teaching us he's teaching us that the great red dragon is the so-called white man beginning with Rome understand and read that part again in case I studed and the dragon stood before the woman which was ready to be delivered for to devour her child as soon as it was born hold I.
+- Seven heads and ten horns: seven empires and ten smaller empires.
 
-- Go to Matthew 2 I'm I'm going back I got to show you Matthew Chapter 2 uh I think it's verse uh 13 Matthew 2 verse3. Come on. Matthew Chap 2:3 and when they were departed behold the angel of the Lord appeared to Joseph in a dream saying arise and take the young child and his mother and flee into Egypt and be thou there until I bring thee word for Herod will seek the young child to destroy it for Herod will seek the young child to destroy him go back to Revelation now I want that one verse that you just read about that Dragon Revelations 12 verse four and his tell youw the third part of the stars of heaven and did cast them to the Earth that's Judah Benjamin and Levi that conquered us and the dragon stood before the woman which was ready to be delivered for to devour her child as soon as it was born.
+- His tail drew the third part of the stars of heaven: that's Judah, Benjamin and Levi, that the Romans cast down.
 
-- So who is this great red dragon your slave master the so-called white man now what you got to say Mr Minister Miss black woman Mr black man what you going to say now huh you still the good great white man I just loves him so much the Bible calls him the devil the Bible says he's a great red dragon what you going to say now and this ain't our words we're reading the Holy Bible.
+- Who stood before Israel to devour the child as soon as he was born? Herod and the Roman Empire. John the Apostle is teaching us that the great red dragon is the so-called white man, beginning with Rome.
+
+- So who is this great red dragon? Your slave master, the so-called white man. Now what you got to say, Mr. Minister, Miss black woman, Mr. black man? You still say the good great white man, I just loves him so much? The Bible calls him the devil; the Bible says he's a great red dragon. And this ain't our words; we're reading the Holy Bible.
+
+  Precepts:
+  - **[Matthew 2:13](/bible/matthew/2#v13)**
+    > <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
+
+    Herod will seek the young child to destroy him: the dragon that stood before the woman to devour her child as soon as it was born.
+
 
 ## In Closing
 
-- Okay so brothers sisters we give all praises to the most high if you want more information visit our website at www w. Israelunite.org and visit us on YouTube at www.youtube.com Nathaniel 7 we also have a new website www. Originalroyalty.com brothers sisters we need your help we need your donations. Okay. We don't know how long we have on the air you may see us today and tomorrow we might not be on the air anymore so this up to you brothers and sisters to learn this truth write us call us learn it for yourself we got to spread this gospel throughout the world. Okay. So with that brothers and sisters we say shalom shalom ISRO for a copy of this show and all other shows please visit our website at originalroyalty.com.
+*[[57:39](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3459s)]* Brothers and sisters, we give all praises to the Most High. We don't know how long we have on the air; you may see us today, and tomorrow we might not be on the air anymore. So it's up to you, brothers and sisters, to learn this truth. Write us, call us, learn it for yourself. We got to spread this gospel throughout the world.
 
 ## Announcements & References
 
-- *The Two Babylons* by Alexander Hislop, pages 93 and 97-102, read during the discussion of the winter solstice, the tree, Yule and mistletoe.
-- The recording description directed viewers to IsraelUnite.org material on Christmas and false Christian holidays.
-- OriginalRoyalty.com was named for copies of this and other programs.
+- Website: www.israelunite.org; YouTube: youtube.com/Nathanyel7.
+- New website: www.originalroyalty.com, where copies of this show and all other shows are available.
+- Donations are needed to keep the show on the air.
 
 ---
 
