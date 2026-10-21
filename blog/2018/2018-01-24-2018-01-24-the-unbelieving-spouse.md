@@ -253,7 +253,7 @@ tags: ["IUIC in the ClassRoom", "faith", "marriage-family", "women"]
 
 - People who made a mistake, maybe having three or four wives, when you come to the truth you have to put them away.
 
-- In America you have poor black men that like having two and three women; they can't even take care of them, they can't even provide for these women. It makes no sense; you guys are crazy, that's lust. Those are not wives that you're dealing with.
+- In America you have poor black men that like having two and three women; they can't even take care of them, they can't even provide for these women. It makes no sense to me; you guys are crazy, that's lust. You are … mongers, that's what those are. Those are not wives, those are … that you're dealing with.
 
 - America is so filthy. We have observed and witnessed men having multiple women get involved in too many outrageous sexual escapades, three women in the bed at one time. It's wicked as hell. Some of these women get involved in lesbianism, because when you have two women in the bed at one time it often leads to lesbianism.
 
