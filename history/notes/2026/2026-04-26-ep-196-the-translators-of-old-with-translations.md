@@ -232,7 +232,7 @@ Reading from a summary of the translators of the King James Bible, by company, w
 
 *[[41:28](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=2488s)]* So I don't understand this whole thing with, well, yeah, you can find Hebrew in Isaiah. I don't care what you can find. I can be found in your basement. My question is, where can we find our people in the world speaking the same Hebrew that David and Solomon spoke in the Bible? Show me them. Where are they? Show us where they're located. Give us the island. Give us the country. Give us the continent. Give it to us, so we can go over there and speak. Cause I'm pretty sure if you find our people over there speaking a language, we'll find our people over there speaking Hebrew. It's not there. It's a moot conversation for desperate minds that seek attention on the comment boards. Come on now.
 
-*[[42:10](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=2530s)]* Where we at? So these men here were fluent in these languages. The Negro today with the weird Hebrew name, they don't speak these languages at all fluently. They don't go to these universities. They don't speak 15 languages. We have brothers in our congregation that speak eight, nine languages. I know them personally. We have brothers in our congregation that speak eight to nine different languages fluently, where people are found speaking those same languages. So I don't know what this whole thing is on the comment board about. I don't understand it. Your leadership is wrong about women wearing pants. What the hell does that have to do with this lesson? Nothing. Y'all causing mad confusion, bro. Stop it. Pissing me off now. Women can wear pants. Hebrew. That's a woman's spirit, man. All over the place. All over the place. That's out of context. Okay. Well, show us in the Bible where women wear pants. When did Israel women start wearing pants? Where is that biblical fact? Where is it?
+*[[42:10](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=2530s)]* Where we at? So these men here were fluent in these languages. The Negro today with the weird Hebrew name, they don't speak these languages at all fluently. They don't go to these universities. They don't speak 15 languages. We have brothers in our congregation that speak eight, nine languages. I know them personally. We have brothers in our congregation that speak eight to nine different languages fluently, where people are found speaking those same languages. So I don't know what this whole thing is on the comment board about. I don't understand it. Your leadership is wrong about women wearing pants. What the does that have to do with this lesson? Nothing. Y'all causing mad confusion, bro. Stop it. Pissing me off now. Women can wear pants. Hebrew. That's a woman's spirit, man. All over the place. All over the place. That's out of context. Okay. Well, show us in the Bible where women wear pants. When did Israel women start wearing pants? Where is that biblical fact? Where is it?
 
 **Officer:** He's just a pervert that likes to see the women wear tight pants.
 
@@ -240,7 +240,7 @@ Reading from a summary of the translators of the King James Bible, by company, w
 
 **Officer:** He knows better Hebrew and languages than all these men, right?
 
-**Deacon Eythan:** Apparently he does. My language, y'all. If you got kids watching, I apologize. I just don't like ignorant stuff on my channel. It pisses me off. Where we at?
+**Deacon Eythan:** Apparently he does. My language, y'all. If you got kids watching, I apologize. I just don't like ignorant on my channel. It pisses me off. Where we at?
 
 <div class="reading">
 
@@ -446,7 +446,7 @@ Reading from *A Treatise on Physical Geography*, an old book, on the Hebrew, the
 
 - **Officer:** Same Hebrew stuff for almost 10, 15 years now.
 
-- **Deacon Eythan:** This ain't new to me. It's the same old stuff. Satan got like 10 demons he had at his disposal. It's the same demon.
+- **Deacon Eythan:** This ain't new to me. It's the same old. Satan got like 10 demons he had at his disposal. It's the same demon.
 
 - **Officer:** They're on rotation.
 
@@ -566,7 +566,7 @@ Reading from *A Treatise on Physical Geography*, an old book, on the Hebrew, the
 
 *[[1:19:23](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=4763s)]* The break: the mission reels play. Shalom. Look, man, the brother just got through giving out free haircuts. They gave out free bread, free water, and we gave out the word for free also. One of the police officers that's been helping us here, he said, since y'all giving out food, come to the jail. He said, we got a bunch of people in the holding cell that haven't ate. So what we did, we went and bought more bread. We got more water. And now they giving it out to the inmates. So as y'all see, it's about the truth. The scripture say, if your brother hungry, give him something to eat. If they thirsty, give them something to drink. One of the ways to bring light to this place, to show our people that, look, we love them. We ain't just coming to take from them. To give back to them as well. Give the bread of life, and give them bread in real life. Then, very early in the morning: still have not made it to our destination, but all praise to the Most High; about to jump on a quick flight. And I know people equate poverty with stupidity. Know that there's no equivalence whatsoever. Poverty does not make you simple. My people are very, very intelligent out here, and Zambia is a very beautiful place. Lusaka, Zambia: the Lord sent us here. The Bible says the Lord is the one that orders our steps. So the Lord sent us here to Lusaka, Zambia, to gather his people. That's what apostle means. It means to be sent. Then Grenada: here representing the IUIC mission here in Grenada, Israel United in Christ, Booster Club mission number 211, in St. George, Grenada. The Bishop, the General, have given the vision that was given to him from Christ, and passed it down to the leaders, the men of war, to go out to the four corners of the earth and find God's dispersed and teach them who they are. His head and his hair were white like wool. Jesus Christ had white and woolly hair. You have woolly hair. You are made in the image of God. You are made in the image of Jesus Christ. Jesus Christ is a black man. But then you ask them, what color is Jesus? They say he's white. What color did we just say in the Bible? He's black. But what color is he? He's white. It's a battle. And that's why the prophets are here, to tear down these strongholds in the minds of our people and make them understand that they're greater than what they are. My God actually looks like me. So what I went through, he's already been through, and he teach me how to go through it, so I can receive eternal life. That's purpose. That gives you a drive to do what God tell you.
 
-*[[1:24:13](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=5053s)]* All right, we're back. We're back from the break. All praise to the Lord. Give me Acts 2 and 5 again real quick. I'm going to give this guy on the comment board about 10 minutes. If you don't post a video speaking fluent Hebrew, I'm going to block him. That's my request. Show us a video of you speaking fluent Hebrew, that's found in the Dead Sea Scrolls, or found spoken by David and Solomon. Or I'm just going to block you. You wasting my time. You trying to gather a congregation on the comment board. That ain't going to work. The comment board, not a chalkboard. You're not teaching here today.
+*[[1:24:13](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=5053s)]* All right, we're back. We're back from the break. All praise to the Lord. Give me Acts 2 and 5 again real quick. I'm going to give this on the comment board about 10 minutes. If you don't post a video speaking fluent Hebrew, I'm going to block him. That's my request. Show us a video of you speaking fluent Hebrew, that's found in the Dead Sea Scrolls, or found spoken by David and Solomon. Or I'm just going to block you. You wasting my time. You trying to gather a congregation on the comment board. That ain't going to work. The comment board, not a chalkboard. You're not teaching here today.
 
 **[Acts 2:5](/bible/acts/2#v5)**  *[[1:24:25](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=5065s)]*
 
@@ -1332,7 +1332,7 @@ Reading from the document Bible Corruption in 1969, concluded  *[[2:29:12](https
 
 - **Officer:** You're giving. You're period. Giving. Period.
 
-- **Deacon Eythan:** Like that dumb one that was on the comment board. Where we at?
+- **Deacon Eythan:** Like that dumb that was on the comment board. Where we at?
 
 > Some of us have noticed the difference and are shouting out the warning.
 

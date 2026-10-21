@@ -1,0 +1,436 @@
+---
+title: "OUR OPPRESSION IS BIBLE PROPHECY"
+slug: "2017/2017-03-10-our-oppression-is-bible-prophecy"
+date: "2017-03-10"
+teacher: "Bishop Nathanyel"
+collection: "The Truth Shall Make You Free · Kente FM Radio"
+description: "The Truth Shall Make You Free · Kente FM Radio · 2017-03-10"
+tags: ["IUIC in the ClassRoom", "america-babylon", "justice", "prayer", "prophecy", "reparations"]
+---
+
+<p class="taught">The Truth Shall Make You Free · Kente FM Radio · 2017-03-10 · Bishop Nathanyel</p>
+
+<span class="opens"><b>Opens</b> [Deut 28](/bible/deuteronomy/28) · [Eccl 7](/bible/ecclesiastes/7) · [Heb 11](/bible/hebrews/11) · [Prov 3](/bible/proverbs/3) · [Sir 35](/bible/sirach/35) · [Isa 32](/bible/isaiah/32) · [Isa 30](/bible/isaiah/30) · [Ps 73](/bible/psalms/73) · [Eccl 4](/bible/ecclesiastes/4) · [Rev 13](/bible/revelation/13) · [Ezek 28](/bible/ezekiel/28) · [Rev 6](/bible/revelation/6) · [Rev 9](/bible/revelation/9) · [Rev 16](/bible/revelation/16) · [Rom 9](/bible/romans/9) · [Ps 111](/bible/psalms/111) · <i>and 3 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="VvIAq83h-Zo"></div>
+
+## Introduction
+
+*[[1:05](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=65s)]* Our oppression is prophesied. When we read the Holy Bible, it prophesies that the Israelites will only be oppressed always: not all nations, but the Israelites, the black people that went into slavery and those that are colonized along the coast of West Africa. Many times when I speak to people they always want to know why are we blacks always financially oppressed, why are we always suffering extreme poverty compared to other nations.
+
+## Scriptures Opened
+
+**[Deuteronomy 28:29-30](/bible/deuteronomy/28#v29)**  *[[1:05](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=65s)]*
+
+> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
+>
+> <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
+
+- Some people in America have a lot of money, but the Bible is talking about Israel as a whole, as a group, as a nation. Even during the time of Moses, when he was in Pharaoh's house, Moses was wealthy; you had Israelites that were set as taskmasters in Pharaoh's house who were wealthy, like Korah. 'Thou shalt not prosper in thy ways' is talking about us as a whole, collectively.
+
+- Thou shalt be only oppressed and spoiled evermore: evermore meaning always. We would be oppressed as a people.
+
+- And no man shall save thee: no one is going to save us from the condition, the poverty, the oppression. Great leaders rose up, Marcus Garvey, Martin Luther King, Malcolm X, Nelson Mandela in South Africa, who tried to redeem the people from the oppressive state they're in, but the Bible said no man would be able to save us.
+
+- Thou shalt betroth a wife, and another man shall lie with her: the white man was oppressive; he took our women and had sex with them at his will.
+
+- Thou shalt build an house and shalt not dwell therein, plant a vineyard and not gather the grapes: the Bible is talking about our oppression that we would always suffer under. Remember during the time of the Congo under King Leopold II: this is how Belgium became very wealthy, the looted oppression of our people.
+
+
+**[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[3:47](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=227s)]*
+
+> <sup>[7](/bible/ecclesiastes/7#v7)</sup> Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
+
+- **Host:** It simply means when you put someone in captivity, you destroy the person mentally, emotionally, spiritually. Maybe the person is a chosen vessel of God, the person has laws that govern his life, and you take that law away from him and give him the laws of the world; the person behaves abnormal.
+
+- Oppression makes a wise man mad: we are honest people, we know right from wrong, justice from injustice, liberty from oppression, so we become very angry. Some of our people respond foolishly, and they go out and steal, rob and kill.
+
+- The wisdom we have to use to come up out of the condition is gathering together, working together, sharing resources together, sharing wisdom together. This is what a wise man would do.
+
+- **Host:** There are some people in authority, they receive bribes and they pervert justice.
+
+- They pervert justice. You have some blacks in America who are very, very wealthy; that's a gift that was given to them, and as a result they turn a blind eye to the injustice that happens to the majority of us.
+
+- Egypt gave Moses fame and fortune; they gave him seats of authority over the other Israelites so that he would turn a blind eye. But Moses in his righteousness still retained right from wrong, and Moses gave up all the wealth that he had.
+
+
+**[Hebrews 11:24-26](/bible/hebrews/11#v24)**  *[[7:47](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=467s)]*
+
+> <sup>[24](/bible/hebrews/11#v24)</sup> By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
+>
+> <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
+>
+> <sup>[26](/bible/hebrews/11#v26)</sup> Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.
+
+- You know what kind of honor it was to be called the son of Pharaoh's daughter? You had wealth, fame, everything; Moses gave it all up.
+
+- Esteeming the reproach of Christ greater riches than the treasures in Egypt: Moses knew it would be better to suffer with the Israelites for a short time, because God will soon deliver us.
+
+- A lot of our people don't understand: they want to become athletes and get gifts, sponsorship, endorsements.
+
+- These athletes who are very good in their field get financial gifts, then all of a sudden they forget the oppression of their people: I don't know what you're talking about, I'm confused.
+
+- In America they give certain blacks very good jobs, high positions, and they get paid very, very well, and many of those people turn a blind eye to the injustice they see. That is what it says: a gift destroys the heart.
+
+
+**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[9:46](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=586s)]*
+
+> <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
+
+- **Host:** As you are saying it, it is very clear: do not envy wickedness and injustice. The strong nations have acquired much wealth, and as we are in our oppression and in poverty, sometimes we begin to envy the way they got their wealth; God is also warning us not to envy them.
+
+- Our people envy the oppressor. What is one of the first things black men do when they get money? They marry a white woman, because they always envy the oppressor; they want to be with them, they love them.
+
+- Some of our women dye their hair yellow, the yellow hair; they change the complexion to be white. Michael Jackson started to change his skin to look like a white man, and pointed his nose. These are the things our people do from envy of the oppressor.
+
+- We envy their holidays. We say I hate white supremacy, but then we celebrate white supremacy holidays, like the Fourth of July, Independence Day. Black people here were still in slavery in the year 1776; we were not emancipated until 1865. That shows you the foolishness.
+
+- Choose none of his ways: we choose his politics, we choose his religion, the way he eats, the food; we want to be just like him. They call it Stockholm Syndrome when you love your captor so much you want to be like them.
+
+
+**[Sirach 35:13](/bible/sirach/35#v13)**  *[[12:35](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=755s)]*
+
+> <sup>[13](/bible/sirach/35#v13)</sup> He will not accept any person against a poor man, but will hear the prayer of the oppressed.
+
+- Will hear the prayer of the oppressed: the Most High hears our prayers in our oppression.
+
+- People don't believe it, because they want Christ to come now, when they want. But our people are not ready for him to come down; our lives have to change to the point where we are able to receive him and be delivered.
+
+
+**[Isaiah 32:5-8](/bible/isaiah/32#v5)**  *[[13:31](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=811s)]*
+
+> <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
+>
+> <sup>[6](/bible/isaiah/32#v6)</sup> For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the Lord, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
+>
+> <sup>[7](/bible/isaiah/32#v7)</sup> The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
+>
+> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
+
+- Where this says the foolish person will no longer be called generous, the King James Version says the vile person shall no more be called liberal. Liberal is the generous person, saying the same thing; the generous person is called the liberal in today's English.
+
+- In America we have many what they call liberal whites. They make you believe that they feel sorry for you, they understand you're oppressed and want to help you. God says they are foolish, they are vile, because there is a trick, a trap, to them trying to help you.
+
+- To practise hypocrisy: they say we understand what black people are suffering and we are very remorseful, and they give us something called the United Negro College Fund, set up by liberal whites. That's a form of aid, of assistance, to help us go to college, but it keeps us calling ourselves Negroes, whereas the truth is we're Israelites.
+
+- Then you have the NAACP, also set up by liberal whites. They say it is to help the plight of black people, but it is run by so-called Jewish people: white men are at the top and black people are the workers under them, so it's still a white organization.
+
+- Even when the needy speaketh right, when we say what you're doing to us is not right, they say we are integrated. We may live around white people, but financially we're not integrated: their children go to the best schools, get the best health care, the best places to live; we do not.
+
+- The liberal deviseth liberal things: his generosity is still a slap in our face; his generosity is still not true generosity.
+
+
+**[Isaiah 30:12](/bible/isaiah/30#v12)**  *[[18:16](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=1096s)]*
+
+> <sup>[12](/bible/isaiah/30#v12)</sup> Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:
+
+- The Holy One of Israel is the Messiah. 'This word' is referring to his laws.
+
+- Whenever we speak to Christians they say I believe in the word, but when it comes to his laws they don't accept God's laws: remember the Sabbath day to keep it holy, thou shalt not commit adultery, thou shalt not bear false witness. This is why they serve false holidays like Christmas, Kwanzaa, Thanksgiving, 4th of July, and why they love politics, democracy.
+
+- Trust in oppression: politics were set up to oppress us, but we trust in it; religion was set up to oppress us, but we trust in it.
+
+- Perverseness is to pervert something, like an injustice. They say it's okay for two men to get married, and a lot of us are going into same-gender marriage. They give us free condoms in school; the message behind that perversity is sex before marriage, immorality.
+
+- If you speak against it they say you are filled with hatred, you are a hateful person. That's the oppression and perverseness we stay on; it keeps us in sin.
+
+
+**[Psalms 73:8](/bible/psalms/73#v8)**  *[[20:12](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=1212s)]*
+
+> <sup>[8](/bible/psalms/73#v8)</sup> They are corrupt, and speak wickedly concerning oppression: they speak loftily.
+
+- They are corrupt and speak wickedly concerning oppression: the liberals do that. You tell them we are being oppressed, and they speak loftily, like there's nothing wrong with what you're going through.
+
+- Hillary Clinton, Donald Trump, Bernie Sanders, when they were running for president of the United States, were asked the question about reparations, and each of them said no reparations for black people. But reparations were given to Jewish people, and reparations for Japanese people for what the Japanese went through during World War Two, but no reparations for black people.
+
+- That's how they speak loftily: just give them a job, give them welfare. They refuse to understand what we go through.
+
+- It's from state to state, country to country. The leadership over many African nations were put there or allowed to sit there by European nations; if those black leaders throughout West Africa go against what the French and European nations say, there's a coup, the military overthrows them.
+
+- In Nigeria the religious leaders went to America and asked for help against Boko Haram, and America said we will help you fight against Boko Haram if you accept homosexuality and abortion. This is evil. America helped finance Boko Haram; the European nations are the ones funding them. How come the money does not run out?
+
+- **Host:** In Ghana we don't fabricate sophisticated weapons; how come these people get these sophisticated weapons? It comes from the Western world.
+
+
+**[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[[25:09](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=1509s)]*
+
+> <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+
+- We the oppressed have no comforter, but on the side of the oppressor they have power: they have nuclear armaments, they have sophisticated technology to keep the people in an oppressed state. This is why the West is able to bully all nations and set up the leadership in the black nations, the African nations around the globe.
+
+- **Host:** Every time there's a coup d'etat in Africa, the Western world is behind it.
+
+- There were about 67 coups within the last 50 years in Africa, orchestrated by France, America and Europe. Any time the leadership does not do what they want, there's a coup: get rid of them and put someone else.
+
+- The Nelson Mandela that went into prison is not the same man that came out and became president: they broke his spirit. That's what prison and jail often does; it breaks your mentality so that you become very docile to the oppressor.
+
+- On the side of their oppressors there was power: our oppressor has economic power, military power. America has the International Monetary Fund located in Washington DC, the World Bank; America runs these things, and with a touch of a button they can cut you off.
+
+
+**[Revelation 13:17](/bible/revelation/13#v17)**  *[[28:50](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=1730s)]*
+
+> <sup>[17](/bible/revelation/13#v17)</sup> And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+
+- No man might buy or sell is talking about global trade, corporations, big business. It's not talking about you going to the store to buy sneakers or a candy bar; it is talking about nations.
+
+- Save he that had the mark: that is the policies of the European nations. You must accept their policies; if you do not accept their political agendas, they can cut you off financially.
+
+- America did that with Russia, America did that with Iraq, America does that with many nations: if you do not do what they say, they cut you off.
+
+
+**[Ezekiel 28:1-7](/bible/ezekiel/28#v1)**  *[[30:50](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=1850s)]*
+
+> <sup>[1](/bible/ezekiel/28#v1)</sup> The word of the Lord came again unto me, saying,
+>
+> <sup>[2](/bible/ezekiel/28#v2)</sup> Son of man, say unto the prince of Tyrus, Thus saith the Lord God; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:
+>
+> <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
+>
+> <sup>[4](/bible/ezekiel/28#v4)</sup> With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
+>
+> <sup>[5](/bible/ezekiel/28#v5)</sup> By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:
+>
+> <sup>[6](/bible/ezekiel/28#v6)</sup> Therefore thus saith the Lord God; Because thou hast set thine heart as the heart of God;
+>
+> <sup>[7](/bible/ezekiel/28#v7)</sup> Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
+
+- This is a parable talking about the white man. Ezekiel went into the Babylonian captivity; Ezekiel was prophesying about Tyre, but the Tyre he is making reference to is a similitude to America and her European allies. Tyre was of the children of Ham; they're not in power today. So what is this talking about prophetically for us?
+
+- I sit in the seat of God: who is sitting in the seat of God with images of themselves as God and Christ? That is the white man. Man is not talking about an individual; it is talking about man in the context of a race of man. All through Washington DC they have images of Jesus Christ as a white man.
+
+- Wiser than Daniel, there is no secret that they can hide from thee: that goes to his technology. These smartphones record everything and it goes to a database the white man has set up; even what we're talking is being monitored. They have satellites that can find you if you're the size of my pen.
+
+- Thou hast gotten gold and silver into thy treasures: this proves that this is the white man. America is the richest nation on the earth, because the first way they got money was the slave trade, free slave labor for four or five hundred years. Then they set up the tax process; they tax other countries, and they call it foreign aid.
+
+- Remember what America did to Panama: the contract for the Panama Canal said if by the year 2000 Panama's military cannot protect the canal, America would have authority over it. The CIA set up Manuel Noriega, then said he's an evil man, a big drug dealer, destroyed the military of Panama, and said your military cannot protect the Panama Canal, so we own it.
+
+- By thy great wisdom and by thy traffick hast thou increased thy riches: this is what we were reading in Revelation 13, no man might buy or sell except he has the mark. The white man set up all the rules and regulations of trade, the policies; America orchestrated and engineered all these things so that they can become the most wealthy nation on earth.
+
+- I will bring strangers upon thee, the terrible of the nations: in the modern world it's terrorists. This is why you have nations sneaking into European nations to blow things up, to kill people. We may not like terrorists, but this prophecy is going to happen because of the evil Babylon and his European nations have done to the world.
+
+  Precepts:
+  - **[Hosea 12:10](/bible/hosea/12#v10)**
+    > <sup>[10](/bible/hosea/12#v10)</sup> I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.
+
+    I have used similitudes by the ministry of the prophets: Tyre is a similitude for America and her European allies.
+
+
+**[Revelation 13:11-18](/bible/revelation/13#v11)**  *[[49:26](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=2966s)]*
+
+> <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+>
+> <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+>
+> <sup>[13](/bible/revelation/13#v13)</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
+>
+> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+>
+> <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
+>
+> <sup>[16](/bible/revelation/13#v16)</sup> And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+>
+> <sup>[17](/bible/revelation/13#v17)</sup> And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+>
+> <sup>[18](/bible/revelation/13#v18)</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
+
+- Another beast coming up out of the earth with two horns like a lamb: the two horns represent republicanism and democracy. Like a lamb, they portray themselves as Christian; they say America is founded on Christian principles. And he spake as a dragon, because the Constitution, the Bill of Rights, freedom of religion and freedom of speech, those principles are not …; they are satanic principles.
+
+- Whose deadly wound was healed: Rome was overthrown and came back in power at the Renaissance. Then Spain, Portugal and many of those nations came to this side of the world fighting for supremacy, and they united as one new nation in 1776, the United States of America. America follows all the customs of ancient Rome: look at the architecture around Washington DC, the money written in Latin, annuit coeptis, novus ordo seclorum.
+
+- He maketh fire come down from heaven: that happened during World War Two, when America created the atom bomb and dropped the bomb on Hiroshima and Nagasaki. It destroyed two societies of people; it was literally like fire from heaven, because when it hit everybody was dead. Fat Man and Little Boy they called the bombs.
+
+- Make an image to the beast which had the wound by a sword and did live: it was the Roman Empire that nailed Christ to the cross. During the Renaissance they gave us a renaissance image of Jesus, a white man, Cesare Borgia, the second son of Alexander the Sixth of Rome; that was the new image of Christ they wanted all nations to bow down and worship.
+
+- Give life unto the image: the breath they gave the image is the life of Christ. Leonardo da Vinci painted Cesare as the new image of Jesus; when you ask any child who's that image, they all say Jesus Christ the Son of God.
+
+- The image should speak: every year they hire actors and do movies like King of Kings, The Passion of the Christ, and people cry, oh Jesus. It indoctrinates you into believing this image is the real Jesus Christ; it's a form of mass cultural hypnosis, propaganda. That's how the image speaks, through their TVs, their movies.
+
+- Cause as many as would not worship the image to be killed: whenever the European nations, Spain, the Dutch, Belgium, America, France, came, they brought the image of the white Jesus to indoctrinate us into their new form of Christianity, and the slaves that did not worship the white image of Jesus they killed. This is how the majority of us became Christian today.
+
+- Small and great, rich and poor, free and bond is talking about nations: small nations and great nations, the poor races, the third world countries subject to Europe, America and France. A mark in their right hand means you support it; in your forehead means it's on your mind.
+
+- Here is wisdom, the number of a man, six hundred threescore and six: it does not represent an individual white man; it represents them as a race, a collective, and it represents destruction.
+
+- A brother told me whoever takes the chip is going to be cast into the lake of fire. I asked him, from Genesis, what got man cast out of the garden? Sin. Why did Israel go into slavery? Sin. And in Revelation, what is going to cause us to be cast into the lake of fire? The chip. It makes no sense: it's still talking about sin, the evil policies this man has set up.
+
+  Precepts:
+  - **[Daniel 8:25](/bible/daniel/8#v25)**
+    > <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
+
+    This is talking about Antiochus Epiphanes. Where the other version says cunning, the King James Version uses the word policy, the word we are familiar with today: America sets up different policies, and that is the mark, evil agreements that the nations must agree to.
+  - **[Revelation 17:5](/bible/revelation/17#v5)**
+    > <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+
+    The name: Mystery Babylon the Great. It says mystery because when you tell people America is the real Babylon nobody believes it; America seems to take care of everyone, gives Israel billions, gives aid, gives the blacks welfare and free public housing. Along with the Vatican she sends out Jesuits and priests and religious systems to spy out the land, as they did in colonial times; and wherever America goes, like Kuwait, they set up Christmas, and behind that pornography shops.
+
+
+**[Revelation 6:12-14](/bible/revelation/6#v12)**  *[[1:06:48](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4008s)]*
+
+> <sup>[12](/bible/revelation/6#v12)</sup> And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
+>
+> <sup>[13](/bible/revelation/6#v13)</sup> And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
+>
+> <sup>[14](/bible/revelation/6#v14)</sup> And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+
+- This number 666 goes back to the other principles we read in the Bible. It represents the white man, not an individual white man but them as a race, a collective, and it represents destruction.
+
+- The sixth seal is the first six, and it represents destruction: the great earthquake, the sun becoming black, the moon becoming as blood.
+
+- The stars of heaven fell unto the earth: that's talking about their satellites, America's satellites up there. They're going to get knocked out of space and fall to the earth.
+
+- The heaven departed as a scroll: that's when a bomb drops and you see that mushroom cloud.
+
+
+**[Revelation 9:13-16](/bible/revelation/9#v13)**  *[[1:08:38](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4118s)]*
+
+> <sup>[13](/bible/revelation/9#v13)</sup> And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
+>
+> <sup>[14](/bible/revelation/9#v14)</sup> Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
+>
+> <sup>[15](/bible/revelation/9#v15)</sup> And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.
+>
+> <sup>[16](/bible/revelation/9#v16)</sup> And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them.
+
+- Loose the four angels which are bound in the great river Euphrates, to slay the third part of men: this also is talking about World War Three.
+
+- The sixth angel sounding the trumpet represents the second six; it is still destruction.
+
+
+**[Revelation 16:12-13](/bible/revelation/16#v12)**  *[[1:09:42](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4182s)]*
+
+> <sup>[12](/bible/revelation/16#v12)</sup> And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
+>
+> <sup>[13](/bible/revelation/16#v13)</sup> And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
+
+- The sixth angel pouring out his vial upon the great river Euphrates is the third six.
+
+- This is why the terrorist group ISIS, ISIL, is trying to gain control of all the dams along the Euphrates River, to cut off the water supply. ISIS is funded by America as well; they have technology they should not have.
+
+- Every year the river is getting smaller, and the dams will have it totally dried up, preparing the way for the kings, the nations, to fight.
+
+- It's all destruction, because this white man is who 666 represents. It's an allegory that represents him; it's a number of destruction.
+
+
+**[Romans 9:13-22](/bible/romans/9#v13)**  *[[1:10:42](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4242s)]*
+
+> <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
+>
+> <sup>[14](/bible/romans/9#v14)</sup> What shall we say then? Is there unrighteousness with God? God forbid.
+>
+> <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+>
+> <sup>[16](/bible/romans/9#v16)</sup> So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
+>
+> <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
+>
+> <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+>
+> <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
+>
+> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+>
+> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+>
+> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+
+- Verse 14 is explaining verse 13: he's having mercy on Jacob, and he's not having mercy on Esau.
+
+- Paul is giving us a similitude. Who was the new Pharaoh during the time of Paul? That is Rome, Edom. Rome was the most powerful nation; remember we read in Revelation 13 how its head was wounded by the sword and it lived and came back in power.
+
+- Even for this same purpose have I raised thee up: America and the European nations, which is Esau, have been raised up in power, economic power and military power.
+
+- He's going to have mercy on Jacob, and he's going to harden Esau. Esau today we call the white man.
+
+- One vessel unto honour, and another unto dishonour: the vessel he made for honour is Jacob; the vessel for dishonour is Edom, Esau. The vessels of wrath fitted to destruction are Edom; they were created for destruction. That goes back to the six: it is a number of destruction.
+
+- Imagine that you were only made to be killed and destroyed. This is why the white man fights against the truth; they don't want the world to know their purpose is to rule and then be destroyed.
+
+- **Host:** In Europe, if you preach something against the system you are tagged; but they have forgotten that when Israel was a slave in Egypt and in Babylon they were the same black people, and in the end time the nemesis is the white man.
+
+  Precepts:
+  - **[Obadiah 1:18](/bible/obadiah/1#v18)**
+    > <sup>[18](/bible/obadiah/1#v18)</sup> And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
+
+    There shall be none remaining of Esau, for the Lord hath spoken it: they were created to be destroyed in the end.
+
+
+**[Psalms 111:10](/bible/psalms/111#v10)**  *[[1:20:20](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4820s)]*
+
+> <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
+
+- **Host:** I have a lot of pastor friends; they love God, but when it comes to the understanding of some of these things it is very hard for them to digest.
+
+- I'm going to help you with that. This is why the understanding lacks in your friends and many of our people as a whole.
+
+- A good understanding have all they that do his commandments: if you don't want to keep God's commandments, you're going to stumble in the scriptures and not understand.
+
+- This is a spiritual book. In order to understand this spiritual book you must start keeping, doing God's commandments; you cannot get the understanding any other way.
+
+- This is why a lot of people get fooled, thinking, and they love the oppressor: because they have not been doing the commandments to open up the spirit.
+
+
+**[Job 36:15](/bible/job/36#v15)**  *[[1:22:12](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4932s)]*
+
+> <sup>[15](/bible/job/36#v15)</sup> He delivereth the poor in his affliction, and openeth their ears in oppression.
+
+- The Most High delivers us and opens our ears, opens our understanding in oppression. It takes us to suffer spiritually and physically in order for us to be willing to hear the scriptures.
+
+- This is why the white man gives many of our people financial gifts, so they say I'm not oppressed, I'm not afflicted; so they will never give ear. It's hard for them to give ear to the understanding of what's being taught in the Bible.
+
+- They say God is all-inclusive, God is all-loving, he loves everybody. Ask them, well, why are people oppressed? They go, I don't know, I'm not oppressed, I have money; shame on you, go and get some. That is where the Bible says a gift destroys the heart.
+
+- **Host:** I belong to a church group here, and today we had a visitor, a white man. Do you entertain white people in IUIC?
+
+- No, they cannot be trusted. They always come with something; it's like a liberal: I understand, I understand. During the time of Martin Luther King he had white people around him, and they would report to the FBI what he was saying and doing behind closed doors. They were trying to portray him as this possible new black Messiah that needed to be destroyed.
+
+- This is what these people do: they are completely Esau. There's a natural hatred that's there between us. The only white people we entertain must be our people.
+
+
+**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[1:26:14](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=5174s)]*
+
+> <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
+
+- In our watching we have watched for a nation that could not save us: that's our people. We watch for Europe and America to save us; they cannot save us. There is only one Saviour, Christ.
+
+- We look to them for wisdom, we look to them for aid. These people cannot save us; we have to stop depending on these people. That's the gift that's destroying the heart.
+
+
+**[Romans 12:2](/bible/romans/12#v2)**  *[[1:28:24](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=5304s)]*
+
+> <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+
+- **Host:** I have also seen a lot of Israelite groups over there, GOCC and all kinds of Israelite groups, and it is very difficult for some of the groups to come to a common ground. How do you deal with that?
+
+- I did a video and I told them it would be hard for us right now to come together as one, because you have some groups that teach it's okay to rape: there's a group named GMS that teaches it is lawful to snatch a woman and rape her. Another group teaches all nations can come in.
+
+- Then you've got other groups, like the other name you mentioned: they lie and slander their brothers constantly. They did a video that said I was at a sex party with a transsexual man; that never happened. Doing videos like that to gain attention and notoriety to themselves, that's not of God.
+
+- We must do the commandments and teach the commandments; this is where all the groups have the problem, in God's commandments. Some of us talk about the commandments but won't do them; this is why they sow hatred one towards another.
+
+- To get the understanding of the Bible we must be converted in our thinking, renew our mind. Be not conformed to this world: that is the problem with many of our Israelite brothers and sisters. We say we're Israel, but we're still conformed to this world; we still lie against each other, show hatred for each other, slander each other, gossip about each other. That's being conformed to this world.
+
+- Be ye transformed by the renewing of your mind: that means keep God's commandments. That's what Paul is saying: let your mind be transformed by God's laws, so that you love your neighbor as you love yourself.
+
+
+## Class Questions
+
+- **Do you hold prayer sessions in IUIC, and lay hands on the sick and pray for them?** Yes. Before we open up class we give ourselves to prayer. We also have prayer and fasting, which we do once a month, for personal sins and things we need delivered from in this captivity. We pray for them with oil.
+
+## In Closing
+
+*[[1:30:15](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=5415s)]* These are the things that keep us divided, but the Most High can change all that overnight. Like the seven churches in Asia Minor in the book of Revelation, they had different problems that Christ said don't do before I come and judge you; it's the same thing today. There are several churches scattered around, and the Lord is dealing with all of us, but whatever is wrong with us we have to correct it by his laws. By the time he returns we must get it right. And remember, we love the other Israelite camps, even though they cause problems between us; we love them dearly, we pray for them every day.
+
+## Announcements & References
+
+- IUIC in Ghana: in Kumasi from January 23rd to January 31st, at a cultural center.
+- Phone: 026 677 7388. Website: israelunite.org.
+- Help IUIC set something up in Belgium: the resources, the money, are needed.
+- Referenced: the video The Panama Deception, on YouTube.
+- Referenced: Dr. Kwame Nkrumah, Neo-Colonialism, the Last Stage of Imperialism.
+- Referenced: the film The Birth of a Nation.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=VvIAq83h-Zo)

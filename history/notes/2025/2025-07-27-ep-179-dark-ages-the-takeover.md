@@ -104,7 +104,7 @@ Reading from *Our Descent*, continued: "The Non-Roman Origin of Our Law", extrac
 
 - **Officer:** I posted the book on the Jomsvikings.
 
-- **Deacon Eythan:** Okay. Okay. Will I be going into that yet? Not yet. Yeah, that's Canute older. You see he's all white. You know, we can't be anything, ever.
+- **Deacon Eythan:** Okay. Okay. Will I be going into that yet? Not yet. Yeah, that's Canute older. You see he's all white. You know, we can't be, ever.
 
 - **Officer:** No.
 
@@ -946,7 +946,7 @@ Reading from *Spain: A History in Art*, continued, on the Celtiberians and Lusit
 
 - **Deacon Eythan:** Yeah. Secret societies, families, blood rituals. That gets thousands of views. When it come to God: no, no, I don't believe in God. I don't know. I don't believe in Him. I never seen Him before. I don't believe in Him. Well, have you seen the Illuminati before? Why you believe in them? Have you seen them before? Have you met them before? How do you know? Yeah. Dumb negro say things like, yeah, I went to a party, it was a Masonic Illuminati party. How do you know?
 
-- *[[1:32:46](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=5566s)]* Let me give you some advice. White folks don't do what negroes do. White folks' secret societies, it's a secret with them. They don't sit there and blurt out, I'm a Mason, I run the planet. That's what dumb negroes do. That's why we can't rule the world yet. We're too stupid. White folks don't do that. White folks run the world. They're quiet. Now, you may have some that may go into Christianity and repent, and may have been in those circles, and may be whistleblowers, and they'll expose it. But the ones that are in that realm, especially the ones who are deep, deep in that realm, that's their family ties, they ain't saying nothing to no negro about their secret societal connections. They don't do that. Negroes assume, he got a bull's head on his wall, he must be Illuminati. You don't know. White folks hunt things. You don't know. They hunted us. So all that mystical, magical deep state Illuminati, ooh, call Scooby and them. Stop, man. Stop. No. You should put that same effort into believing your God that you can't see.
+- *[[1:32:46](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=5566s)]* Let me give you some advice. White folks don't do what do. White folks' secret societies, it's a secret with them. They don't sit there and blurt out, I'm a Mason, I run the planet. That's what dumb negroes do. That's why we can't rule the world yet. We're too stupid. White folks don't do that. White folks run the world. They're quiet. Now, you may have some that may go into Christianity and repent, and may have been in those circles, and may be whistleblowers, and they'll expose it. But the ones that are in that realm, especially the ones who are deep, deep in that realm, that's their family ties, they ain't saying nothing to no negro about their secret societal connections. They don't do that. Negroes assume, he got a bull's head on his wall, he must be Illuminati. You don't know. White folks hunt things. You don't know. They hunted us. So all that mystical, magical deep state Illuminati, ooh, call Scooby and them. Stop, man. Stop. No. You should put that same effort into believing your God that you can't see.
 
 - **Officer:** Like Paul calls them the rulers of the darkness of this world.
 
@@ -1198,7 +1198,7 @@ Reading from *Ten Caesars* by Barry Strauss, pages 238 and 239, on Septimius Sev
 
 **Officer:** Clodius Albinus.
 
-**Deacon Eythan:** Yeah. Clodius Albinus and Pescennius. They failed. He took them both out. I think he took them both out. Yeah. So that's the answer. Yeah, it's true. Yeah, he took them both out. Yes, he took them both out. Yep. Pescennius. And they say, oh, he's called that cuz his neck was black.
+**Deacon Eythan:** Yeah. Clodius Albinus and Pescennius. They failed. He took them both out. I think he took them both out. Yeah. So that's the answer. Yeah, it's true. Yeah, he took them both out. Yes, he took them both out. Yep. Pescennius. And they say, oh, he's called cuz his neck was black.
 
 **Officer:** Really? That's why he's called that, cuz his neck was black?
 

@@ -87,7 +87,7 @@ export type NoteIndexRow = {
   teacher?: string;
   summary?: string;
 };
-export type Note = NoteIndexRow & { topics: string[]; videoId: string | null; body: string };
+export type Note = NoteIndexRow & { topics: string[]; videoId: string | null; body: string; collection?: string };
 export type FeedRow = {
   title: string;
   url: string;
