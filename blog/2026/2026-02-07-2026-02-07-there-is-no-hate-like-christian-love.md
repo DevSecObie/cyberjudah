@@ -27,16 +27,13 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion"]
 - *[[50:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3024s)]* **A Black Christian asked whether he claims Black people answers that he is a Christian first and that Black is a construct.** — Tell the white man Black is a construct. He put your ancestors in chains and did not do it to his own; it was not a construct then.
 - *[[51:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3086s)]* **A Black man says he loads his gun every day for Black people, not white or Mexican men; and a comparison of Antoine Daniels berating a Black man to his face while asking a white man's permission to speak.** — We turn up on each other and show teeth and mercy to other races. That is the fruit of Christian love.
 - *[[53:36](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3216s)]* **A young woman recalls letting a white boy in high school call her the N-word and 'my little slave baby' while she called him master, only to learn she was a joke among his friends.** — Desperate for validation from the oppressor. Envy thou not the oppressor and choose none of his ways.
-- *[[54:31](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3271s)]* **A South Fulton father put antifreeze in his eighteen-day-old baby's breast milk to avoid child support, though both parents had good jobs.** — He is a Christian whether he attends church or not. These are the results of the laws being done away with.
 - *[[56:09](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3369s)]* **A retired athlete's co-host says that for a hundred million dollars you can have his soul.** — That is a dangerous man, and he only said aloud what most Black celebrities, rappers and singers think. What shall it profit a man to gain the whole world and lose his soul? They give up their bodies to Amalek to receive.
 - *[[59:31](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3571s)]* **A woman on Clubhouse says she supports aborting Black male babies because the community's problems come from male pathology.** — Brothers, the women whose minds are captured are not on your team. There are Black women who follow every anti-family, anti-boy slogan of the far left.
-- *[[1:01:30](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3690s)]* **Dum Diversas, the papal bull of June 18, 1452, in which Pope Nicholas V authorized King Alfonso V of Portugal to fight, subjugate and conquer Saracens, pagans and other enemies of the Catholic faith in Africa; with a portrait of Pope Alexander VI.** — Without these two Christians there would be no such thing as an African-American, a Jamaican, a Haitian or a Puerto Rican. Christians did this to us, and tomorrow at eleven our people will be in church taking a good dose of their doctrine.
 - *[[1:05:16](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3916s)]* **A white minister crowns Eddie Long, declaring him raised from a commoner to kingship while holding the microphone and directing the ceremony.** — Even with the Black pastor on the throne, the white man holds the mic and is in charge. And what does 'no longer a commoner' say about everyone else in that church? Eddie Long later flew boys out of the country.
 - *[[1:08:04](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4084s)]* **Jamal Bryant publicly scolds a grandmother who brought twelve hundred dollars to his thousand-dollar seed line for not listening; in another clip he describes his past relationships as a sprinkling of everything, men and women, and wanting to lie down next to somebody; a young man has since accused him of twelve years of sexual abuse.** — This is cold pimping, and he is teaching Black people. Notice he never says a woman, only somebody.
 - *[[1:11:56](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4316s)]* **Pastor James David Manning says that if Jesus is Black, heaven is a ghetto, and that without the white man we would all be dead.** — Uncle Ruckus in the flesh. These leaders have the Black community in chaos.
 - *[[1:12:42](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4362s)]* **Jamal Bryant defends his wife's skin-toned dress at a fundraiser, calling critics petty and small-minded; his wife says there is no manual for being a bishop's wife and that she is multidimensional.** — There is a manual: it is called the Bible, which says a woman should dress modestly. When checked, he doubled down instead of repenting, which is the example his congregants follow when we tell them on the street to repent.
 - *[[1:18:23](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4703s)]* **Jamal Bryant preaching that eighty-five percent of Jesus's life he was out of order.** — That is blasphemy, and not one Black Christian got up and walked out.
-- *[[1:26:53](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=5213s)]* **Gospel singer Juanita Bynum charging over a thousand dollars for a prayer class.** — Pastors can be this bold in foolishness because the Black community does not know the Bible.
 
 ## Scriptures Opened
 
@@ -230,6 +227,38 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion"]
     What shall it profit a man, if he shall gain the whole world, and lose his own soul? What do the celebrities give in exchange for their souls? Their bodies, to Amalek.
 
 
+<div class="reading">
+
+Reading from a news report on a South Fulton father, on the screen  *[[55:02](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3302s)]*
+
+> South Fulton Dad says he put antifreeze in newborn's milk to not pay child support, documents show.
+
+- What are the results of being taught Christianity? This is our reality, y'all.
+
+- Don't think he ain't a Christian. He's a Christian, whether he go to church or not.
+
+- The results of being with Esau for 400 years. These are the results of being good black Christians. And there's no law. Laws are done away with.
+
+</div>
+
+<div class="reading">
+
+Reading from a write-up on Dum Diversas, on the screen  *[[1:01:59](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3719s)]*
+
+> Dum Diversas is a papal bull issued on the 18th June 1452 by Pope Nicholas V.
+
+- Christian. The good Christian.
+
+> It authorized King Alfonso V of Portugal to fight, subjugate and conquer those rising against the Catholic faith and struggling to extinguish Christian religion, namely, the Saracens, Muslims and pagans, in a militarily disputed African territory.
+
+- I want you to think about something. What are we called in this land today, y'all? African-Americans, right? That's what we're called today. In other places, you're called a Jamaican or wherever you're scattered, you're named after that landmass.
+
+- Think about something. Without these two devils, these two Christians, there would be no such thing as an African-American. There would be no such thing as a Jamaican, a Haitian, a Puerto Rican. That is some evil stuff, and we are the results of this man as well as Pope Alexander the VI.
+
+- Christians! Christians did this to us, y'all. Now we revel in it. Now we reverence them. Now we follow their laws and their ways of life.
+
+</div>
+
 **[Numbers 16:1-35](/bible/numbers/16#v1)**  *[[1:19:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4764s)]*
 
 > <sup>[1](/bible/numbers/16#v1)</sup> Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
@@ -329,6 +358,18 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion"]
 
 - The prophet is a snare of a fowler in all his ways, and hatred in the house of his God. These pastors do not love the Lord; their god is money, and they are motivational speakers who know the words that move it out of your pocket. They have deeply corrupted themselves, as in the days of Gibeah, with Eddie Long flying boys out of the country, and he will remember their iniquity and visit their sins.
 
+
+<div class="reading">
+
+Reading from a headline on Juanita Bynum, on the screen  *[[1:27:11](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=5231s)]*
+
+> Facebook reacts to gospel icon Juanita Bynum charging over $1,000 for a prayer class.
+
+- Wow. How can she be so bold to do this? Because Christians don't know the Bible. That's how.
+
+- Let's not be foolish, y'all. Christian pastors could be so bold in the foolishness that they're saying because the black community don't know the Bible.
+
+</div>
 
 **[Jeremiah 23:1-15](/bible/jeremiah/23#v1)**  *[[1:27:53](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=5273s)]*
 

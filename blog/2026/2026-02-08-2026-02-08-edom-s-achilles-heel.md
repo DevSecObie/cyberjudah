@@ -23,19 +23,10 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 - *[[32:27](https://www.youtube.com/watch?v=QNTH14obhzs&t=1947s)]* **A Black megachurch service that looks like a rap concert, followed by a white commentator saying ninety to ninety-five percent of the Black church in America is heretical and should be split up so its members can find a God-fearing white church with biblically qualified men.** — That is the white man's solution, and the Black apologetics online agree with him without a single video against it. If the Black church stood for truth and justice, the FBI, the ADL and the SPLC would have been on it like every other Black group that stood up.
 - *[[38:54](https://www.youtube.com/watch?v=QNTH14obhzs&t=2334s)]* **A painting of a Black Mary and a Black infant Christ set beside the adult white Jesus.** — The baby grows up and somehow becomes a white man, and nobody sees anything wrong with it. That is the wicked covering the faces of the judges.
-- *[[42:36](https://www.youtube.com/watch?v=QNTH14obhzs&t=2556s)]* **The list of the ten richest men on earth, all Edomites, with fortunes from two hundred billion dollars down.** — Our people see this and get envious. Nine times out of ten that wealth came through criminality, old slave money invested in weapons, or theft like the founder of Facebook taking it from the students who hired him.
 - *[[44:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=2677s)]* **A collage of Black men, women and children killed by police and vigilantes.** — Violence covers him as a garment. Christians could care less about these people; we talk about them.
-- *[[48:31](https://www.youtube.com/watch?v=QNTH14obhzs&t=2911s)]* **Maduro says he was kidnapped, calls himself a prisoner of war and pleads not guilty in a New York court; his military was shut down in minutes by a weapon that left soldiers vomiting and bleeding from the nose.** — That is the violent man. Under Trump the United States bombed at least seven countries in 2025, and under Obama it dropped over twenty-six thousand bombs on seven countries in 2016. How are they not a hate group?
 - *[[51:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=3113s)]* **A young white commentator asks why anyone celebrates Martin Luther King Day, citing FBI files alleging affairs, orgies and King laughing while a pastor assaulted a woman.** — This is how they speak loftily concerning oppression. Decades after his death they open FBI files, which of course never lie, to besmirch the man Black people look up to, and Black Christians join the song and dance.
 - *[[53:41](https://www.youtube.com/watch?v=QNTH14obhzs&t=3221s)]* **A monologue on how Europeans traumatized every continent, enslaving cosmologies as well as bodies, breaking treaties by lunch and displaying the pieces in museums, and building institutions so the trauma reproduces across generations.** — The trauma this white man caused has multiplied from way back until now. It is why America does not speak against Israel's genocide: go forth and conquer, my brother.
-- *[[1:05:19](https://www.youtube.com/watch?v=QNTH14obhzs&t=3919s)]* **Pages from In the Pillory: The Tale of the Borgia Pope by John Bond, which labels its plate 'Bust of the Saviour, posed for by Cesare Borgia,' with the Borgia bust and Leonardo's sketches.** — It is an open secret among white folks that the white Jesus is Cesare Borgia. Nine of ten of them read the book and know; nine of ten of us do not read. The elders taught this long before the book surfaced, and one Edomite, Rocky Stone, went to the library and came back to tell the crowd the elders were right.
-- *[[1:12:41](https://www.youtube.com/watch?v=QNTH14obhzs&t=4361s)]* **Definition and film still of Achilles, the Greek warrior made invulnerable by the river Styx except for the heel his mother held him by.** — You could not kill Achilles in the chest or the back; you had to take him at the heel. Esau has an Achilles heel too.
-- *[[1:34:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=5696s)]* **The Chronology of Ancient Nations (1879) tracing Philip of Macedon's genealogy back through Rome and Eliphaz to Esau, Isaac and Abraham; The Rise of Christendom (1890) stating King Philip was a descendant of Esau.** — The scholars know Alexander the Great was an Edomite. They insert Greek gods into the line to look important, but Esau is right there in their own genealogy.
-- *[[1:45:22](https://www.youtube.com/watch?v=QNTH14obhzs&t=6322s)]* **Modern Judaism by John Allen (1830), page 231, on the rabbis' tradition that Esau's descendants, few in Mount Seir while Israel was strong, multiplied after Assyria and Babylon, subjugated Italy, founded Rome, destroyed the second temple under Titus, embraced Christianity, and hold dominion over all Europe, detaining Jacob in captivity until Messiah ben David appears.** — Written while we were in slavery. The Roman Empire were Edomites, Europe is Edom, and the prophecies of Isaiah, Jeremiah and Obadiah against Edom have not yet received their full accomplishment; final vengeance for the second temple is executed in the time of the Messiah.
-- *[[1:49:27](https://www.youtube.com/watch?v=QNTH14obhzs&t=6567s)]* **Dr. William Smith's Dictionary of the Bible (1890) on Obadiah: rabbinical interpretation holds that Edom means Rome and Christians; Kimchi says Julius Caesar was an Idumean; Scaliger reports the Jews believed Titus was an Edomite.** — Julius Caesar, Vespasian and Titus were Edomites. We are not making anything up; there are sources on top of sources.
 - *[[2:02:44](https://www.youtube.com/watch?v=QNTH14obhzs&t=7364s)]* **A church chart of Daniel's four beasts that gets the lion, bear and leopard right and invents a monster for the fourth.** — Esau knows the fourth beast is the eagle from 2 Esdras 12, but he knows Black Christians do not read, so he drew a made-up creature to throw them off.
-- *[[2:07:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=7673s)]* **Definitions of 'deep state' and 'shadow government': entrenched bureaucrats, the CIA, FBI and military officials who keep their own agendas regardless of elected leadership.** — A president serves four years and cannot run eight hundred fifty bases alone. Obama's policies were not his, Trump's are not his; the man who runs the electric grid threatened lights out over Canada and Trump backed off. Democrats and Republicans are two horns on the same beast, good cop and bad cop with one agenda.
-- *[[2:22:25](https://www.youtube.com/watch?v=QNTH14obhzs&t=8545s)]* **Reports on Trump's Board of Peace: first meeting February 19 at the renamed US Institute of Peace, a draft charter that no longer mentions Gaza, a one-billion-dollar fee for a permanent seat, and founding members Kushner, Rubio, Witkoff and Blair, with Egypt, Saudi Arabia and Turkey invited.** — By peace shall he destroy many. It is a private alternative to the UN, run by Amalek, so when they take land and kill there will be nowhere to complain. The UN itself sits on stolen Native land with no Native seat in the building.
 - *[[2:43:26](https://www.youtube.com/watch?v=QNTH14obhzs&t=9806s)]* **The back of the dollar bill: the unfinished pyramid with the eye, 'Annuit Coeptis' meaning our enterprise succeeds, and 'Novus Ordo Seclorum,' new order of the ages.** — The pyramid is not complete. They have not finished what they set out to do, which is wipe us out, and God disappoints the devices of the crafty so their hands cannot perform their enterprise.
 - *[[3:07:11](https://www.youtube.com/watch?v=QNTH14obhzs&t=11231s)]* **An Indian scholar rebukes an American woman questioning his country's temples: a descendant of a genocidal people whose nation stands on the dead bodies of Native Americans has no right to sit as judge over anyone's history.** — You have to go overseas to hear common sense. That is the point about the UN and its courts: murderers of millions setting up to decide right and wrong.
 
@@ -119,6 +110,20 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
     Whose possessors slay them and hold themselves not guilty, and they that sell them say 'Blessed be the Lord, for I am rich,' and their own shepherds pity them not. The white man possesses us, walks free after killing us, took the covenant in his mouth, and our own pastors do not care.
 
+
+<div class="reading">
+
+Reading from the definition of *profane*, then its meaning in the Bible, pulled up in class  *[[25:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=1553s)]*
+
+> Profane: relating or devoted to that which is not sacred or biblical; secular rather than religious.
+>
+> In the Bible, profane refers to treating sacred things with irreverence, contempt, or treating what is holy as common or unclean.
+
+- Our people treat what is holy as common or unclean like it's nothing.
+
+> It means defiling or polluting God's name, Sabbath, or sanctuary.
+
+</div>
 
 **[Acts 7:37-38](/bible/acts/7#v37)**  *[[34:48](https://www.youtube.com/watch?v=QNTH14obhzs&t=2088s)]*
 
@@ -218,6 +223,66 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
     Shall I count them pure with the wicked balances and the bag of deceitful weights? The rich men thereof are full of violence, and the inhabitants have spoken lies. The descendants justify their ancestors' evil because they benefit from it.
 
 
+<div class="reading">
+
+Reading from the 50 Cent *Get Rich or Die Trying* cover  *[[42:08](https://www.youtube.com/watch?v=QNTH14obhzs&t=2528s)]*
+
+> … Music from and inspired by Get Rich or Die Trying, the motion picture.
+
+- So you know how so many negroes and Latinos believe that they saw this movie and they believe in getting rich or die trying to get rich.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen list of the ten richest men in the world · read by Captain Yuri  *[[42:46](https://www.youtube.com/watch?v=QNTH14obhzs&t=2566s)]*
+
+> SpaceX, Elon Musk, $25.4 billion. Amazon, Jeff Bezos, $23.2 billion. LVMH, Bernard Arnault and family, $200 billion. Meta, Mark Zuckerberg, 176.5 billion. Oracle, Larry Ellison, 153.7 billion. Google, Larry Page, 145.1 billion. Google, Sergey Brin, 139 billion. Berkshire Hathaway Incorporated, Warren Buffett, 134 billion. Microsoft, Bill Gates, 131 billion. Microsoft, Steve Ballmer, 126.5 billion.
+
+- So those are the top 10 billionaires in the world. And people see this and they get envious. I'm talking about our people. We see this and we get envious.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen headline on Maduro  *[[48:10](https://www.youtube.com/watch?v=QNTH14obhzs&t=2890s)]*
+
+> Maduro says he was kidnapped, calls himself prisoner of war, pleading not guilty in NYC court.
+
+- Who kidnapped him? The violent man, the wicked man. They had new weaponry. They said his entire military got shut down in minutes. They started vomiting. Nose started bleeding. They didn't know what hit him.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen report, "The US bombed seven countries in 2025" · read by Captain Yuri  *[[48:58](https://www.youtube.com/watch?v=QNTH14obhzs&t=2938s)]*
+
+> United States: the US bombed seven countries in 2025. At the start of his second term in January 2025, Trump pledged to restore peace by ending global conflict.
+
+- How is he going to do that?
+
+> His administration has since attacked at least seven countries, with Venezuela being the latest.
+>
+> Venezuela, at least one land-based strike and dozens at sea. Syria, on December 19th, targeting at least 70 ISIL positions. Iraq, on March 13th, killing a high-profile ISIL member. Iran, on June 22nd, bombing three key nuclear sites. Nigeria, on December 25th, against alleged ISIL positions. Yemen, hundreds of air and naval strikes on the Houthis. Somalia, at least 111 strikes against armed groups.
+
+- So Donald Trump also has bombed or done something devastating to seven countries. So this is the violent man. This is the time we are living in.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen report on US bombing in 2016  *[[50:10](https://www.youtube.com/watch?v=QNTH14obhzs&t=3010s)]*
+
+> US bombed Iraq, Syria, Pakistan, Afghanistan, Libya, Yemen, Somalia in 2016.
+
+- Now, this was under Obama.
+
+> The US dropped 26,171 bombs on seven countries in 2016, according to an analysis by the Council of Foreign Relations.
+
+- They should be a hate group. So this goes into them speaking loftily.
+
+</div>
+
 **[Revelation 13:14-15](/bible/revelation/13#v14)**  *[[1:02:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=3776s)]*
 
 > <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
@@ -230,6 +295,46 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 - He had power to give life unto the image: they gave Cesare Borgia the life of Christ in their church system and their movies, and hire actors who look like him to speak the Bible's words while our people cry. As many as would not worship the image should be killed, which is exactly what they did when they conquered.
 
+
+<div class="reading">
+
+Reading from *In the Pillory: The Tale of the Borgia Pope* by John Bond  *[[1:05:58](https://www.youtube.com/watch?v=QNTH14obhzs&t=3958s)]*
+
+> The original of this bust was found in the church of San Salvatore in …, now destroyed. It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
+
+- You know what an open secret means? Open should mean everybody knows about it. But when they say open in these books, meaning white folks know about it. And you know, white folks will be the first one, you know, blacks and Latinos dumb as a rock. They'll say, "What? You're saying that Jesus was based on Cesare Borgia, that white image?" They'll say, "That's a lie," cuz black people and Latinos generally dumb and don't read and do research. That's nine out of 10 of them. But white folks, nine out of 10 of them will read a book and they'll know, but they are so filled with pride, they won't let the audience know that what you're saying is true.
+
+- There was only one Edomite that we met named Rocky Stone that admitted what the elders were saying about Cesare Borgia was true. He went to the library and spent days and days in there and found out it was true. And he's the only white man they let speak on the mic. He said, "You black people, you've been deceived. Everything these men are saying," he was talking about the seven elders, "is correct. That white Jesus you all bow and knee to and do that stupid sign of the cross, that's not the Jesus of the Bible." Well, that man's name was Cesare Borgia.
+
+- So we know what we're saying is the truth.
+
+> Bust of the Saviour, posed for by Cesare Borgia.
+
+- So white folks read these books, as blacks and Latinos, we don't like to read nothing. Only thing we want to hear is a rap song about twerking. That's all we care about. Smoking weed. But when it comes to knowledge, education, we could care less. This is why we stay on the bottom of all society.
+
+- Now, we didn't get this book until way after the elders already been teaching this. This book came out more recent time, within the last couple of years that we found it.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of Achilles, looked up in class  *[[1:12:57](https://www.youtube.com/watch?v=QNTH14obhzs&t=4377s)]*
+
+> Achilles was the greatest Greek warrior of the Trojan War, known for his strength, courage, and a single vulnerability: his heel,
+
+- He was only vulnerable in his heel. You could not kill him by stabbing him with an arrow in the chest or back or stomach. That didn't work. You had to get his heel to take him down, to overthrow him, to conquer him.
+
+- He only had one weakness. That's the single vulnerability. His heel was his single vulnerability.
+
+> which gave rise to the term Achilles heel.
+
+- That's his kryptonite.
+
+> The son of the sea nymph Thetis and King Peleus, he was made nearly invulnerable by his mother dipping him in the river Styx, but she held him by his heel, leaving it untouched. His story, central to Homer's Iliad, details his rage, withdrawal from battle, and eventual return to slay the Trojan prince Hector before being killed by an arrow to his heel.
+
+- Now, if you saw the movie Troy, starring Brad Pitt. This is the movie published in 2004 starring Brad Pitt. He plays Achilles, and like we just read here, that one weakness in his heel. Other than that, you could not kill him. So, now Esau has an Achilles heel.
+
+</div>
 
 **[Genesis 25:21-30](/bible/genesis/25#v21)**  *[[1:15:24](https://www.youtube.com/watch?v=QNTH14obhzs&t=4524s)]*
 
@@ -261,6 +366,16 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 - Esau grew up a cunning hunter, a man of the field, who wanted the raw red pottage, and he still likes his meat rare. Isaac loved Esau for his venison, but Rebekah loved Jacob because she understood the prophecy.
 
+
+<div class="reading">
+
+Reading from a book entry on Idumea  *[[1:20:11](https://www.youtube.com/watch?v=QNTH14obhzs&t=4811s)]*
+
+> Idumea: pertaining to Edom. Greek and Roman name for Edom.
+
+- So Esau was called Esau and Edom in the Bible. You have Idumea. You'll come across that. Write that down. Greek and Roman name for Edom.
+
+</div>
 
 **[Genesis 3:15](/bible/genesis/3#v15)**  *[[1:20:57](https://www.youtube.com/watch?v=QNTH14obhzs&t=4857s)]*
 
@@ -368,6 +483,126 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
     Built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone. The stone is the King.
 
 
+<div class="reading">
+
+Reading from *The Chronology of Ancient Nations*, written in 1879 · read by Captain Yuri  *[[1:34:49](https://www.youtube.com/watch?v=QNTH14obhzs&t=5689s)]*
+
+> That Alexander was the son of Philip is a fact too evident to be concealed. His pedigree is stated by the most celebrated genealogist in this way:
+
+- And what they do in his genealogy, they insert Greek gods, Greek and Roman gods, so that they can seem more important than they are.
+
+> Philip, Hermes, …, Rome, …, …, …, Byzantium, …, Rome, …, Eliphaz, Esau, Isaac, Abraham.
+
+- Do y'all see that right there? So they know Philip the Macedonian comes from Esau.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Rise of Christendom*, written in 1890  *[[1:35:49](https://www.youtube.com/watch?v=QNTH14obhzs&t=5749s)]*
+
+> In the land of Rome and of the … was a great empire, that of the Ionians or Greeks. King Philip was a descendant of Esau, son of Isaac.
+
+- So the scholars know that Philip the Macedonian descended from Esau, son of Isaac. So Alexander was what? He was an Edomite. All the scholars know that. They're in the know. It's just black people. We don't know. We don't have a clue of what's going on out here.
+
+</div>
+
+<div class="reading">
+
+Reading from *Modern Judaism, or a Brief Account of the Opinions, Traditions, Rites, and Ceremonies of the Jews in Modern Times* by John Allen, written in 1830, page 231 · read by Captain Yuri  *[[1:45:51](https://www.youtube.com/watch?v=QNTH14obhzs&t=6351s)]*
+
+> Esau's descendants are the subjects of extensive traditions, in which the rabbis, with an effrontery at which we should wonder in any other men, have set at defiance all authentic history and accurate chronology.
+
+- This is 1830. Where were we in 1830? Slavery.
+
+- So these scholars want to change history. But now watch with this one scholar. He's going to break it down for us.
+
+> First, that the descendants of Esau, the sworn enemies of the descendants of Jacob, even to the end of the world,
+
+- Even to the end of the world, Esau would be dominating.
+
+> were at first a small nation, inhabiting Mount Seir and the adjacent country contiguous to the land of Canaan; that they were easily confined within their own limits as long as the Israelites enjoyed a great and formidable empire in Canaan; but that after the powerful republic of the 12 tribes were destroyed by the Assyrians and Babylonians, they wonderfully increased in numbers and strength, extended their dominion towards the west,
+
+- So they extended their dominion toward the west.
+
+> spread their colonies far and wide, subjugated Italy, founded Rome and the Roman Empire,
+
+- So Esau took over Italy. They founded Rome.
+
+> at length entirely overturned the Jewish state, which had been restored after the termination of the Babylonian captivity, the second temple being destroyed by Titus Vespasian; and that in the present day, professing the religion of Jesus of Nazareth,
+
+- So that was in 325 under Constantine. They said, "Oh, we're the Christians now." That's what they did. They said, "We're the Roman Catholic Church."
+
+> which they were the first of all nations to embrace, they hold the dominion over all Europe,
+
+- See that? Esau holds a dominion over all Europe. It's telling you right there.
+
+> Esau detaining in captivity his brother Jacob, at least as far as regards the tribe of Judah,
+
+- So Esau has his brother Jacob in captivity, the scholar says. So that's the American blacks.
+
+> till his Messiah Ben David shall appear.
+
+- Till the Messiah, Jesus the Christ, that's what it means, son of David, shall appear.
+
+> Secondly, that the prophecies of the prophets against Esau, Edom, Seir and the cities of Edom, especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment;
+
+</div>
+
+<div class="reading">
+
+Reading from Dr. William Smith's *Dictionary of the Bible*, published 1890  *[[1:49:14](https://www.youtube.com/watch?v=QNTH14obhzs&t=6554s)]*
+
+> The book of Obadiah is a favorite study of the modern Jews. It is here especially that they read the future fate of their own nation and of the Christians.
+
+- So they read Obadiah and realize they're reading about themselves.
+
+> Those unversed in their literature may wonder where the Christians are found in the book of Obadiah. But it is a fixed principle of rabbinical interpretation that by … is prophetically meant Christians, and that by Edom is meant Rome. Thus Kimchi on Obadiah lays it down that all the prophets have said about the destruction of Edom in the last times have reference to Rome.
+>
+> Kimchi on Joel chapter 3 verse 19 says that Julius Caesar was an Idumean.
+
+- Julius Caesar was an Idumean. That's an Edomite.
+
+> Scaliger reports the Jews, both those who are comparatively ancient and those who are modern, believe that Titus was an Edomite,
+
+- Titus that destroyed Jerusalem was an Edomite.
+
+> and when the prophets denounce Edom, they frequently refer it to Titus.
+
+- So they know that Julius Caesar, Vespasian, and his son Titus were Edomites. Everybody see that? So we ain't making nothing up.
+
+</div>
+
+<div class="reading">
+
+Reading from *Modern Judaism* by John Allen, continued · read by Captain Yuri  *[[1:51:12](https://www.youtube.com/watch?v=QNTH14obhzs&t=6672s)]*
+
+> especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment;
+
+- Then those prophecies have not been fully come through in them three books, he's saying.
+
+> for that though the house of Esau has experienced some particular judgments of God
+
+- Like World War I, World War II.
+
+> on account of the injuries at different periods of time inflicted upon Israel, yet the final vengeance, on account of that last and greatest injury, the destruction of the second temple by Titus and the transportation of the Jews into captivity,
+
+- So now we know that Titus was an Idumean. This was Titus. He became Caesar.
+
+> in which they are still most appropriously detained,
+
+- So the Jews, which is us, are still most appropriously detained.
+
+> is yet impending over it, to be executed in the time of the Messiah;
+
+- So we ain't getting free until Messiah returns. That's what this book is saying.
+
+> that this is foretold by the prophets in all their denunciations of the severest plagues against the house of Esau, the cities of Edom, and Mount Seir, which all belong to Rome and the Christians; and that the fate of Christians at that time will be far more dreadful than that of Muhammadans.
+>
+> Abarbanel particularly says the slaughter of the Turks in a future battle will not be so great as that of the Christians, for many of the Turks will escape, according to Isaiah 66 verse 19; but of the Christians, Obadiah says there shall not be any remaining of the house of Esau.
+
+</div>
+
 **[2 Esdras 6:7-10](/bible/2-esdras/6#v7)**  *[[1:52:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=6776s)]*
 
 > <sup>[7](/bible/2-esdras/6#v7)</sup> Then answered I and said, What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?
@@ -435,6 +670,44 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 - The rulers of darkness are governments, with a hierarchy among them: America at the pinnacle, then Britain, France and Germany. Behind the figurehead is the deep state and shadow government, the people who hand the new president his instructions once he sits in the chair, and the think-tank books that wrote his agenda for him.
 
 
+<div class="reading">
+
+Reading from definitions of *deep state* and *shadow government*, pulled up in class · read by Captain Yuri  *[[2:08:05](https://www.youtube.com/watch?v=QNTH14obhzs&t=7685s)]*
+
+> While the terms deep state and shadow government are often used interchangeably in political discourse to describe unauthorized, unelected networks operating within a government, they possess slightly different connotations and origins.
+
+- Slightly different. You were busy looking at Trump. There's people behind the scenes controlling Trump. You were busy looking at Obama and mad with his politics when it wasn't his politics. There's people behind the scenes telling him what to do and what not to do. A figurehead.
+
+> Deep state: originally referring to a state within a state in Turkey, the derin devlet, this term typically refers to entrenched career bureaucrats, intelligence agencies (CIA/FBI), and military officials who may work to maintain their own agendas
+
+- You ever wonder, a president only stays there for what? Four years. One term is four years. You ever wonder how he can run a country with 850 bases worldwide and know exactly what's going on? Impossible. You need people that have been there from the beginning. That's what this is talking about. CIA, FBI, military officials who may work to maintain their own agendas. That helps the president look good. They're the ones telling what to do, what not to do. Go here, go there, go everywhere. There's a system of generals behind them, including CIA, including FBI.
+
+> regardless of the elected leadership's policies.
+
+- Your vote don't change a damn thing. "Well, if we only had voted for Kamala Harris, none of this stuff would be going on." Are you kidding? Are you that stupid? After 400 years, there are people behind the scenes saying, "You're going to institute this law. You are going to bring ICE."
+
+- Like the Heritage Foundation, that book, you can see it online. It tells you what Trump's going to institute and all that. Trump didn't write that book. Those are people behind the scenes that wrote that for him.
+
+> It often highlights a sometimes permanent, unelected administrative state.
+>
+> Shadow government: this term often implies a more organized, conspiratorial, or invisible group that supposedly holds the real power, controlling the official visible government from behind the scenes.
+
+- I'll give an example cuz you saw it in the news. Trump said, "I'mma take Canada." And there was a white man, and I forgot his name, but he runs the electric grid. He said, "If Trump touches Canada, I'll shut the electricity all on the northeastern board. It'll be lights out." So then Trump had to back off. Trump ain't running nothing. And now you would have never heard of this guy except they interviewed him, cuz they knew he ran the electric grid throughout the country.
+
+> Intersection: both terms are used, particularly by conservatives in the US context, to allege that a network of officials and corporate interests are conspiring to undermine elected leadership.
+>
+> Interchangeability: while not strictly identical in definition, in popular, especially partisan, rhetoric they are frequently used interchangeably to refer to the same perceived, often conspiratorial, other government.
+
+- Partisan rhetoric. And so, "Oh, we got a bipartisan government. You got the Democrats and the Republic." It's all BS. They all two horns on the same beast.
+
+- Or I'll give you another example. Good cop, bad cop. They both have the same agenda, to arrest you. One job is, I'mma be real nice to you. I'm going to get you cigarettes, McDonald's, Burger King, whatever, as long as you talk to me. But that might not work. You might need the bad cop. He going to curse you out, curse your mama out and everything. You might be scared of him and tell him what he wants to know. That's your bipartisan. That's your Republicans and Democrats. The agenda is the same. To arrest you, to lock you up, to overthrow your footsteps.
+
+> Ultimately, both terms are considered by many to be part of broader conspiracy theories, though they can also be used to describe the influence of the military-industrial complex or the administrative state.
+
+- As y'all can see, the Most High has got the whole scene set up. No getting out of it. Everything is going to go according to God's prophecies. And church ain't teaching our people anything but lies.
+
+</div>
+
 **[Daniel 8:19-25](/bible/daniel/8#v19)**  *[[2:14:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=8096s)]*
 
 > <sup>[19](/bible/daniel/8#v19)</sup> And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be.
@@ -475,6 +748,46 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
     When they shall say, Peace and safety, then sudden destruction cometh upon them, and they shall not escape. That is the Board of Peace.
 
+
+<div class="reading">
+
+Reading from an article, "US plans inaugural meeting of Trump's Board of Peace as questions remain over group's mandate" · read by Captain Yuri  *[[2:23:02](https://www.youtube.com/watch?v=QNTH14obhzs&t=8582s)]*
+
+> US plans inaugural meeting of Trump's Board of Peace as questions remain over group's mandate.
+>
+> The Trump administration is planning its first meeting of the Board of Peace this month in Washington, according to a US official and a diplomat from an invited country, as the multinational organization tasked with resolving global conflicts faces lingering questions about its broader mission. The US sent invites for the February 19th event on Friday, according to an invitation seen by CNN. It is slated to be held at the US Institute of Peace, which President Donald Trump has renamed after himself. The board, chaired by Trump, was originally pitched as a limited body tasked with overseeing the reconstruction of the Gaza Strip, which was devastated by the Israel-Hamas war.
+
+- You see what? Now you know why he didn't stop Netanyahu from bombing him.
+
+> However, according to the charter draft, its mission has since expanded to tackle conflicts the world over. The draft, which was sent along with the invitations to join, does not even reference Gaza. The US official said the meeting is intended in part to be a fundraiser, but stressed that details are still being worked out. CNN has reached out to the White House for comment.
+>
+> The gathering, first reported by Axios, would be the first time the group has assembled since a signing ceremony at the World Economic Forum in Davos, Switzerland last month. Around two dozen countries have signed on to the Board of Peace. The group has been met with skepticism about its mandate and questions about whether it is seeking to supplant the United Nations.
+
+- Ah, is it planning to supplant the United Nations? You know the United Nations has no power, only over dark nations, but Europe don't listen to the United Nations at all. Why would they listen to it? You got Jamaica, you got Haiti. Who's going to listen to them? You got all the African ones who have no power. And you think Britain or France or Israel is going to go, "Yeah, I'm going to listen to these third world countries"? That's not happening. I know when you're a little crazy mind, y'all at home, you think, "Yeah, they're supposed to listen." They're not listening. Nothing is fair in this thing.
+
+- Where's a Native American Indian seat? They don't have one. And you think they're going to bring forth judgment and justice. You're crazy. Anyway, I don't see it in this article, but it cost the nations $1 billion to be a part of that.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www.youtube.com/watch?v=QNTH14obhzs&t=8835s)]*
+
+> In January 2026, the Trump administration proposed a Board of Peace to oversee global conflicts and Gaza reconstruction, requiring nations to pay a $1 billion fee for a permanent invited seat.
+
+- Y'all see that? $1 billion.
+
+> The board, initially focused on Gaza, functions as a private alternative to the UN.
+
+- You see that? This is going to be an alternative to the UN. Y'all got to see what's going on in the world. Y'all keep playing games in your silly little churches.
+
+> Leadership and members: founding members include Jared Kushner, Secretary of State Marco Rubio, Steve Witkoff, and Tony Blair. Over 20 countries, including Egypt, Saudi Arabia, and Turkey, have been invited or indicated interest.
+
+- This right there, they're going to use that to continue taking land. That's what they're going to use this for. Cuz remember when Amalek was killing all these Palestinians in Gaza, there was a lot of complaint against them in the UN. The only reason they didn't stop, because America never vetoed them. So now they come up with this. They try to say Trump is over it. No, they're going to run it. So guess what? When they start killing people, taking land, you got nowhere to run to complain about them, because they run this.
+
+- So you think Egypt is going to have power? You think Saudi Arabia going to have power? They're not going to have no power. Some African countries going to be in there. There is no power. They run everything. Trump is a diversion. Trump is not doing this. The powers behind him is putting all of this stuff out there. Trump is just a figurehead to divert people's attention, thinking that it's about Trump. If Trump wasn't there, it'll still be going on.
+
+</div>
 
 **[Psalms 19:1-11](/bible/psalms/19#v1)**  *[[2:30:57](https://www.youtube.com/watch?v=QNTH14obhzs&t=9057s)]*
 
