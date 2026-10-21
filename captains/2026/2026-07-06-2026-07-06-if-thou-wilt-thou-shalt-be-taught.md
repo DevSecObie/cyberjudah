@@ -1,0 +1,193 @@
+---
+title: "If Thou wilt Thou Shalt Be Taught"
+slug: "2026/2026-07-06-if-thou-wilt-thou-shalt-be-taught"
+date: "2026-07-06"
+teacher: ""
+description: "15 Minutes w/ The Captains · 2026-07-06"
+tags: ["15 Minutes w/ The Captains", "leadership", "the-body", "wisdom"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2026-07-06</p>
+
+<span class="opens"><b>Opens</b> [1 Tim 3](/bible/1-timothy/3) · [Sir 10](/bible/sirach/10) · [Sir 33](/bible/sirach/33) · [Sir 6](/bible/sirach/6) · [Wis 6](/bible/wisdom-of-solomon/6) · [Sir 38](/bible/sirach/38) · [Sir 39](/bible/sirach/39) · [1 Cor 16](/bible/1-corinthians/16)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="SJzKXoDT7mw"></div>
+
+## Introduction
+
+*[[0:57](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=57s)]* The title is if thou wilt, thou shalt be taught. The men that's in Israel are meant to be teachers, examples and leaders unto the people. But first you got to have a willing mind to want to be taught: to learn the scriptures, the laws, the proverbs, the prophecies. For too long we learned everything out in the world. Now, coming back to the scriptures and to who you truly are, you have to be apt to teach, and you learn by standing in the multitude of the elders.
+
+## Scriptures Opened
+
+**[1 Timothy 3:1-2](/bible/1-timothy/3#v1)**  *[[2:05](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=125s)]*
+
+> <sup>[1](/bible/1-timothy/3#v1)</sup> This is a true saying, If a man desire the office of a bishop, he desireth a good work.
+>
+> <sup>[2](/bible/1-timothy/3#v2)</sup> A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
+
+- If a man desire the office of a bishop: all the men should want to be leaders. Bishop Yawasap said all the time, we're men, we got a brain in our heads, and we're not willing to use it to better our nation, to teach our nation? That's our whole purpose, to raise up the 12 tribes.
+
+- He desireth a good work: that's a good work, to want to be a leader unto your nation.
+
+- Apt to teach: blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, all those things is great. You need those things to be a righteous example unto the people. But the thing we're harping on today is apt to teach. If thou wilt, thou shalt be taught. If you have that willing spirit, you will be taught.
+
+- We always have to be ready to teach, willing to teach. Teaching is not going to be on your convenience, when, oh, I feel good. You might have a brother come up to you dealing with something, or with questions he needs answers to pertaining to the Bible. It is your job as a leader to be able to give him those answers, to help him out in his walk.
+
+
+**[Sirach 10:1](/bible/sirach/10#v1)**  *[[4:21](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=261s)]*
+
+> <sup>[1](/bible/sirach/10#v1)</sup> A wise judge will instruct his people; and the government of a prudent man is well ordered.
+
+- A wise judge will instruct his people: a wise judge doesn't care about convenience when it comes down to teaching his people. A wise judge is always going to be ready and apt to teach, to instruct his people.
+
+- And the government of a prudent man is well ordered: the government of a prudent man, meaning the men that's underneath you.
+
+
+<div class="reading">
+
+Reading from a definition of prudent, on screen  *[[5:13](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=313s)]*
+
+> Prudent: acting with or showing care and thought for the future.
+
+- The government of a prudent man is well ordered: showing care and thought for the future. That's the reason why you want to be apt to teach, because you're showing care and thought for the future. The men that's underneath you is that future. You don't want no simple brothers coming up underneath you.
+
+- If you didn't take being a bishop or a leader seriously enough to teach the men underneath you, guess what? This whole thing just crumbles and it was all for nothing. But the Lord not going to let that happen. That's why we have these type of classes, so we can exhort the men to have that willing spirit, including myself, to be willing and apt to teach.
+
+</div>
+
+
+**[Sirach 10:2](/bible/sirach/10#v2)**  *[[6:55](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=415s)]*
+
+> <sup>[2](/bible/sirach/10#v2)</sup> As the judge of the people is himself, so are his officers; and what manner of man the ruler of the city is, such are all they that dwell therein.
+
+- As the judge of the people is himself, so are his officers: if you slothful, you lazy, you don't study, the men underneath you is going to have that same spirit, and then it's going to trickle down to the men that coming after them, after them, until ain't no more. We not going to have that.
+
+- We all should have the desire to be a bishop, to be a leader. That's what the Most High called us for. We're not here to be professional students.
+
+- But if you have that mentality to want to learn, to want to be under the foot of the bishops, the deacons, the captains, and ready, apt to teach, it's going to trickle down to the men that's underneath you.
+
+
+**[Sirach 33:17](/bible/sirach/33#v17)**  *[[8:02](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=482s)]*
+
+> <sup>[17](/bible/sirach/33#v17)</sup> Consider that I laboured not for myself only, but for all them that seek learning.
+
+- Consider that I laboured not for myself only: we always got to remember that we are not laboring just for ourselves. You don't sit down and open your Bible just for yourself. Yes, you got to learn the scriptures, but the goal is to teach the brothers and sisters that coming in after you, to make sure that they know the laws, the proverbs, the prophecies.
+
+- We must know this Bible. We must come back to who we truly are, to our culture, and we got to be able to teach it down, just like the so-called Native American Indians used to teach their culture to the youngsters underneath them. We got the Bible. We got to bring it out through the Bible: who we truly are, our culture, and what we need to do to get out of our current situations and the problems that we suffering in our communities.
+
+- But for all them that seek learning: men is coming up to you willing and ready to learn. It's your job to teach them, to make sure that they are sound in this Bible and ready to go out there and combat with the plethora of doctrines that's out there.
+
+- Like it say in Jeremiah chapter 1 verse 10, we have to tear down these doctrines. And in doing that, you have to be apt to teach enough to build those brothers back up. This ain't no show of just tearing people down. We want to eradicate those doctrines that come from your slave master, but ultimately you want to build them back up in the scriptures. But if you're not willing to learn, how are they going to learn?
+
+
+**[Sirach 6:32-37](/bible/sirach/6#v32)**  *[[10:18](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=618s)]*
+
+> <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
+>
+> <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
+>
+> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
+>
+> <sup>[35](/bible/sirach/6#v35)</sup> Be willing to hear every godly discourse; and let not the parables of understanding escape thee.
+>
+> <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
+>
+> <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
+
+- So how do we do these things? Where do you begin? First and foremost, like it say in Psalms 111 and 10, the fear of the Lord is the beginning of wisdom. Keep the commandments: that shows you that you fear the Lord, and you will gain understanding.
+
+- My son, if thou wilt, thou shalt be taught: that's the title right there. If is a small word, but a heavy meaning. You either going to want to learn, or you're going to be the opposite of that and not want to do nothing, going to be slothful, not studying, and it's going to show in your teachings. Brothers don't even want to come up to you, because they already know that they not going to get any edification from you.
+
+- You ain't let go of the job that you have in the world. You still going hard, still going strong. So how we going to give up on the Lord? The Lord didn't give up on us.
+
+- And if thou wilt apply thy mind, thou shalt be prudent: there go that word prudent again, the care and the thought of the future. When you teaching something, you're teaching it so that they can retain what you're explaining, and later on they could teach it to somebody else. That's how you keep growing. That's how you keep strengthening.
+
+- If thou love to hear, thou shalt receive understanding: some of us don't love to hear. Some of us can't wait for the class to be over. The leadership be right there next to you, and you don't even try to get at the foot of the leadership. Running from it, cuz you got something in your spirit that you hiding, and you scared that if you get around leadership they going to figure that thing out. But that's why the scriptures say confess your faults, so your brothers can pray for you.
+
+- Ain't nobody here in this truth trying to tear nobody down. If we tear you down to where you fall out this truth, that's another person we got to get to replace you in order to get the hell out of this captivity. When correction come around, it's only to build you up.
+
+- Stand in the multitude of the elders: we must be around the leadership, the men that sacrificed their mind, their body, getting rid of all of these worldly ways and learning the scriptures so they can teach us. It ain't going to come out of osmosis and all of a sudden you're the grand poobah of the scriptures.
+
+- And cleave unto him that is wise: these elders that got 30, 40 plus years in this truth. If you combine them all together, it's hundreds of years.
+
+- Be willing to hear every godly discourse: it's a problem that a lot of these brothers have. It don't say some. It don't say when it's convenient for you. It don't say, oh, cuz I got a headache right now. It said every godly discourse.
+
+- And let not the parables of understanding escape thee: when you around them, you're going to learn how to move, how to teach, judgment, how to deal with brothers and sisters going through certain situations. We here to judge the nation. How you going to learn how to be a judge and you ain't never around the judges that was here before you?
+
+- And if thou seest a man of understanding, get thee betimes unto him: if the bishops or the deacons are around, they teaching, they got a whole circle around them, and you find yourself on the outskirts, in your room, doing something else, that means you don't think that they are men of understanding. So then what the hell you here for? You need to examine yourself. You may be wasting your time and wasting everybody else's time.
+
+- And let thy foot wear the steps of his door: every chance you get, you hitting up the leadership. When you studying and you have a question, write that thing down so you don't forget it, and when you get around leadership, ask that question. Even if you wrong, somebody else listening may have had that same thought, and it gets fixed right there because you brought it out. Like Sirach 33:17 said, I labour not for myself only. You got to eradicate that pride. Pride comes before destruction.
+
+- Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: constantly meditating in that thing.
+
+- He shall establish thine heart: that's how you have an upright mind. Revelation 1:3 says, blessed is he that readeth. When you read it and you study it, along with keeping the commandments and having faith in Christ, that's how you get blessed. That's how you are apt to teach.
+
+- And give thee wisdom at thine own desire.
+
+
+**[Wisdom of Solomon 6:9-11](/bible/wisdom-of-solomon/6#v9)**  *[[20:39](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1239s)]*
+
+> <sup>[9](/bible/wisdom-of-solomon/6#v9)</sup> Unto you therefore, O kings, do I speak, that ye may learn wisdom, and not fall away.
+>
+> <sup>[10](/bible/wisdom-of-solomon/6#v10)</sup> For they that keep holiness holily shall be judged holy: and they that have learned such things shall find what to answer.
+>
+> <sup>[11](/bible/wisdom-of-solomon/6#v11)</sup> Wherefore set your affection upon my words; desire them, and ye shall be instructed.
+
+- This is going into that desire. That ye may learn wisdom: but you must be willing to sit at the feet of the elders, wear out their doorsteps, willing to hear every godly discourse. That's how you get wisdom.
+
+- And not fall away: sometimes people have that zeal in the beginning, but somewhere down the line you got battle fatigue and you fell away from it. No, don't fall away.
+
+- And they that have learned such things shall find what to answer: how did you learn those things? Cuz you was willing to be around every godly discourse. Then when the men come up to you with questions, you have the answers because you learned it from your elders. Christ taught the disciples. That's how they got it. The disciples taught other disciples.
+
+- Set your affection upon my words: everything you do should be about the Lord's words. Like Matthew 4 and 4, man can't live by bread alone, but by every word of the Lord. Some of us too worried about feeding their flesh. No, you need to feed your spirit. You need to be around the leadership, so your spirit can continue to burn and be on fire.
+
+- Desire them, and ye shall be instructed: desire to be around every godly discourse and you will be instructed.
+
+
+**[Sirach 38:34](/bible/sirach/38#v34)**  *[[23:18](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1398s)]*
+
+> <sup>[34](/bible/sirach/38#v34)</sup> But they will maintain the state of the world, and all their desire is in the work of their craft.
+
+- I can't skip it, cuz some of us have this mindset.
+
+- But they will maintain the state of the world: this world that we are currently in is hell. This world is captivity. But we building that thing up. We maintaining that thing. You go to work every day. You try to get around your supervisor, your foreman, to better your position so you can better the situation that you have at home, which is fine. Make your money. But don't forget your true love. Don't forget that we in captivity. You have a duty to your nation to build them up. Don't put this world first, otherwise you will forget your first love.
+
+- And all their desire is in the work of their craft: somebody that's selfish and don't care about the upliftment of their nation, they only worried about their job or their business.
+
+
+**[Sirach 38:33](/bible/sirach/38#v33)**  *[[24:52](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1492s)]*
+
+> <sup>[33](/bible/sirach/38#v33)</sup> They shall not be sought for in publick counsel, nor sit high in the congregation: they shall not sit on the judges’ seat, nor understand the sentence of judgment: they cannot declare justice and judgment; and they shall not be found where parables are spoken.
+
+- They shall not be sought for in publick counsel: the men that's underneath you notice. Maybe they came to you before and you shunned them away, or you didn't have the answers. It's fine if you don't have the answers, but make sure that you get the answers and come back with it, so they can see that you are apt to teach. But when they see that you only about maintaining the state of the world and about your craft, don't think the congregation don't see that.
+
+- Ain't nobody coming up to you for no questions. They don't care about your answers cuz they know you probably don't got it. Trust me, the congregation know when you're not studying.
+
+- Nor sit high in the congregation: they shall not sit on the judges' seat, because you didn't build your spirit up enough to even be amongst the judges. Nor understand the sentence of judgment: because you didn't take it seriously. When you maintain the state of the world, the congregation is not going to look for you to teach them, and you start losing the love of the people.
+
+
+**[Sirach 39:1](/bible/sirach/39#v1)**  *[[26:55](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1615s)]*
+
+> <sup>[1](/bible/sirach/39#v1)</sup> But he that giveth his mind to the law of the most High, and is occupied in the meditation thereof, will seek out the wisdom of all the ancient, and be occupied in prophecies.
+
+- But he that giveth his mind to the law of the most High, and is occupied in the meditation thereof: everything you do, every liberty that you have, you in the word of God. Every chance that you get, you around the leadership.
+
+- Will seek out the wisdom of all the ancient: when you have that spirit on you, you going to always want to be around leadership so you can build yourself up, because you know the ultimate goal is to build up your nation. And be occupied in prophecies.
+
+
+**[1 Corinthians 16:15](/bible/1-corinthians/16#v15)**  *[[28:04](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1684s)]*
+
+> <sup>[15](/bible/1-corinthians/16#v15)</sup> I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)
+
+- They have addicted themselves to the ministry of the saints: that's the point right there. We must addict ourselves to this ministry. We must addict ourselves to this Bible, to the laws, to the proverbs, to the prophecies. In that way we'll be willing and apt to teach.
+
+
+## In Closing
+
+*[[28:41](https://www.youtube.com/watch?v=SJzKXoDT7mw&t=1721s)]* So I pray you got something out of that, Israel. Shalom. Most High and Christ bless.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=SJzKXoDT7mw)
