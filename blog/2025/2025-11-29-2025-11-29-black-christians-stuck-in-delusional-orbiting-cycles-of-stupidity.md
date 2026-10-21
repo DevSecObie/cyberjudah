@@ -156,7 +156,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 
 - Antichrist means the people that are against Christ: they are here, they have been ruling, and they are trying to continue their rulership.
 
-- And who is interrupting it? The Israelites, the guys in the purple and gold. They had the black Christian church wrapped around their finger for centuries, during slavery and after slavery, going in the direction that kept their children's children rich — and here come the men in purple down the street telling black people the white man is a liar, Santa Claus is not real, Thanksgiving, Halloween, Valentine's Day and the new year are fake, and your birthday is idolatry. We are interrupting their programme, and we are telling black people to stop spending money.
+- And who is interrupting it? The Israelites, the guys in the purple and gold. They had the black Christian church wrapped around their finger for centuries, during slavery and after slavery, going in the direction that kept their children's children rich — and here come the … in purple down the street telling black people the white man is a liar, Santa Claus is not real, Thanksgiving, Halloween, Valentine's Day and the new year are fake, and your birthday is idolatry. We are interrupting their programme, and we are telling black people to stop spending money.
 
 - Even now are there many antichrists, and they are black, white, Chinese and Hispanic. There are many.
 
@@ -291,7 +291,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 
 - God is not the author of confusion, and you know the difference between right and wrong.
 
-- You know pork is bad for you, and you know dressing like a hoe is bad for you — it has not got you the right man you have been looking for yet.
+- You know pork is bad for you, and you know dressing like a … is bad for you — it has not got you the right man you have been looking for yet.
 
 - The debates are there to set up confusion, so to hell with them: teach God's laws. That is what wakes the people up and brings more men, women, teenagers and children into the body of Christ.
 

@@ -21,9 +21,7 @@ tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
 
 ## In The News
 
-- *[[25:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1539s)]* **a video the Bishop brought out years ago on the origin of the Israelite schools and their successors, with the photographs of the school at 1 West 125th Street, room 211** — In 1973 Moshe Ben Karim, also called Masha, was chosen to carry on teaching in Aba Bivvens' place, together with Peter Sherad, also called Yaquab; later in the seventies five more brothers joined them and they were called the seven. They were offered several million dollars, a blank cheque to write their own number in, to teach a more Christian or Jewish message of unity for all mankind, and they refused it and gave it back, because a Christian-Jewish message means our people remain on the bottom of society and the full truth is never taught. Played to show that the men in the room sat with those elders and have the photographs, while the men pushing the new doctrine are going off a book.
-- *[[1:09:33](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=4173s)]* **other versions of Jeremiah 30:11 pulled up on the screen** — Even the versions he will not teach from say it plainly: I will completely destroy the nations among which I have scattered you. Shown once and then dropped, because the precepts had already said it.
-- *[[1:12:17](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=4337s)]* **an 1871 commentary on Obadiah, read off the screen** — Out of all nations an exact retribution is meted out to Edom, who deserves the worst punishment, while every nation suffers for its own crimes; and the close of the prophecy dwells on the ultimate salvation of God's people while the nations who are enemies of God are doomed to extinction.
+- *[[25:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1539s)]* **a video the Bishop brought out years ago on the origin of the Israelite schools and their successors, with the photographs of the school at 1 West 125th Street, room 211** — Played to show that the men in the room sat with those elders and have the photographs, while the men pushing the new doctrine are going off a book.
 - *[[5:04:48](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=18288s)]* **the Living Tribunal from Marvel comics put up on the screen, and the Bifrost from Thor** — The entity with the three faces that answers to the one above all, and the long glass bridge with the colour running through it, are the four beasts with their faces and the sea of glass like unto crystal. Esau knows what is up there and puts it in the movies; it is our own people who are confused.
 - *[[6:17:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=22667s)]* **the Oracle scene from The Matrix, with the candy and the choice** — You did not come here to make the choice, you have already made it; you are here to understand why you made it. That is predestination: God knows what we are going to do before we do it, and our job is to come in here and play it out. The sign over the Oracle's door says Know thyself, which is examine yourself, whether ye be in the faith.
 
@@ -76,6 +74,24 @@ tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
 - Balaam ran greedily for the reward, and the gainsaying of Core is the complaint that you think you are better than us, which is what is being said now.
 
 - Brothers are trying to be discreet and slick about it rather than say outright what they are teaching, but this is not new and it has been seen before.
+
+<div class="reading">
+
+Reading from the old website's history of the schools, shown in a video the Bishop brought out years ago on the origin of the Israelite schools  *[[27:56](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1676s)]*
+
+> 1973 Moshe Ben Karim aka Masha was chosen to carry on teaching in Aba Bivvens' place where Peter Sherad also known as Yaquab … they took over the Israeli school adding up UPK, universal practical knowledge. Later in the 70s they were helped by five other brothers and they were called the seven. They were offered several million dollars by the Roshians to teach a more Christian or Jewish message of unity for all mankind.
+
+- Pause. A Christian or more Jewish. Now, the reason why I find this important is because whenever you see a certain level of infiltration take place, it usually starts with, it says, Jewish. I'm seeing Israelites walking around with these zit seats on Kesarian fringes. There's no record of us wearing that nonsense that way. It ain't biblical. It's not in there. There's no record of us wearing them things that way ever. Nowhere. Anywhere. That ZC stuff is brothers trying to adapt to the world. They can take them on, take them off, take them on, put them, take them off. They can do … things. The same way they touch on little children, do witchcraft, then put them back on. It's the same thing. Y'all doing the exact same thing.
+
+- Then another sign of it is nations getting saved. These are signs of a wavering spirit or an infiltrated organizations. One of the two. Either you are deep in your sin and you are lost at this point, the Lord done gave you a strong delusion, or someone taking money. It's one or the other. There's no way around it. Either your spirit is lost, you trying to save mama, usually that too, or someone trying to make money. One or the other.
+
+> Some of the other Israelite camps teach … refused.
+
+- They refuse. The elders, Cap. The elders refused to accept that doctrine. Refused to take that check.
+
+> They had handed them a blank check and said just write in whatever number you want and it's yours. They said no and gave it back to them. It says a Christian Jewish message means negroes will remain on the bottom of society and the full truth will never be taught.
+
+</div>
 
 
 **[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[42:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=2567s)]*
@@ -230,9 +246,63 @@ tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
 
 - He will save Jacob from afar and bring his seed out of the land of their captivity, and make a full end of all nations while he does not make a full end of us.
 
-- A full end of all nations is what John saw as no more sea; the plainer versions on the screen say he will completely destroy the nations he scattered us among.
+- A full end of all nations is what John saw as no more sea.
 
 - Our salvation is their end, which is why they work to keep us asleep, and teaching that they are saved with us is working against it.
+
+<div class="reading">
+
+Reading from Bible Hub, other versions of Jeremiah 30:11  *[[1:11:31](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=4291s)]*
+
+> New International Version. I am with you and will save you, declares the Lord. Though I completely destroy all the nations among which I scatter you, I will not completely destroy you, I will discipline you, but only in due measure. I will not let you go entirely unpunished.
+
+> NLT. For I am with you and will save you, says the Lord. I will completely destroy the nations where I have scattered you,
+
+- No more sea.
+
+> but I will not completely destroy you. I will discipline you, but with justice. I cannot let you go unpunished.
+
+- I don't need other versions for that. … means they're going to get rid of all the nations.
+
+- This is the last time I'm jumping with this other version stuff. It's getting ridiculous.
+
+</div>
+
+<div class="reading">
+
+Reading from a commentary on Obadiah, from 1871  *[[1:13:26](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=4406s)]*
+
+> This verse confirms the statement of the proceeding, that in the day of the Lord upon all nations an exact retribution shall be meed out to Edom.
+
+- This is a commentary on Obadiah that brothers are trying to twist. Now, it doesn't mean they'll all be killed. It means some. I'm telling you, bro. Trying to save mama.
+
+- Out of all nations an exact retribution shall be meed out to Edom, cuz they deserve the worst punishment.
+
+> The sin of Edom is not, of course, the ground of the punishment of all nations,
+
+- So Edom gets punished the most severe out of all nations. They get the worst.
+
+> each of which is to suffer for its own crimes,
+
+- Cuz all nations were involved in our captivity. Every last one of them.
+
+> but it suggests the figure under which the doom of all is set forth.
+
+- Edom gets the doom of all.
+
+> As you Jews, who are however nowhere addressed throughout the prophecy and where and whom there is nothing in the context to suggest, have drunk of the divine wrath upon my holy mountain, all nations shall drink the same, but more copiously and for a longer term.
+
+- That's forever be there.
+
+> In contrast with the … of Edom and the nations, in contrast too with the injurious treatment that Judah shall experience at their hands, the concluding section of this prophecy dwells upon the ultimate salvation, victory and enlargement of God's people,
+
+- We get ultimate salvation. Nobody else be there.
+
+> while the nations who are enemies of God are doomed to extinction.
+
+- You ain't saving nobody. They are doomed to extinction. All of them, even the good ones. Bye, Nana. Bye.
+
+</div>
 
 
 **[Isaiah 65:20](/bible/isaiah/65#v20)**  *[[1:17:07](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=4627s)]*
@@ -301,6 +371,34 @@ tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
 - Brought forth before the depths, before the fountains and before the mountains were settled, because the Father used his Son to make everything.
 
 - As one brought up with him is the Son given his Father's commands and fulfilling them; rejoicing always before him is the Word that was with God.
+
+<div class="reading">
+
+Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34:10](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=5650s)]*
+
+> This Jesus was the son of Sirach and grandchild to Jesus of the same name with him. This man therefore lived in the latter times, after the people had been led away captive and called home again, and almost after all the prophets. Now his grandfather Jesus, as he himself witnesseth, was a man of great diligence and wisdom among the Hebrews, who did not only gather the grave and short sentences of wise men that had been before him, but himself also uttered some of his own, full of much understanding and wisdom. When as therefore the first Jesus died,
+
+- The same name, grandfather, son.
+
+> leaving this book almost perfected, Sirach his son, receiving it after him, left it to his own son Jesus, who having gotten into his hand, compiled it orderly into one volume, and called it Wisdom, … it both by his own name, his father's name, and his grandfather's, alert the hearer by the very name of wisdom to have a greater love to the study of this book. It contained therefore wise sayings, dark sentences,
+
+- These things contain, it says, wise sayings. It contains dark sentences.
+
+> and parables,
+
+- It contains parables.
+
+> and certain particular ancient godly stories of men that pleased God, also his prayer and song. Moreover, what benefits God have thou saved his people, and what plagues he had heaped upon their enemies. This Jesus did imitate Solomon,
+
+- He imitated Solomon, or repeat the things that Solomon said.
+
+> and was no less famous for wisdom and learning,
+
+- And was very famous as Solomon was.
+
+> both being indeed a man of great learning, and so reputed also.
+
+</div>
 
 
 **[Sirach 24:3-8](/bible/sirach/24#v3)**  *[[1:36:22](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=5782s)]*
@@ -1192,8 +1290,6 @@ tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
 >
 > <sup>[30](/bible/romans/8#v30)</sup> Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
-- Predestinate means decided and determined in advance, before it takes place, so Israel is predestined for the kingdom.
-
 - We do not know who is who, and no one can puff himself up and say he is of the elect; you know it by enduring to the end.
 
 - You can tell it is not you if you are secretly in adultery or fornication with no repentance, carrying hatred for your brother and disrespecting your spouse; the elect fall and get back up.
@@ -1207,6 +1303,20 @@ tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
     > <sup>[25](/bible/isaiah/45#v25)</sup> In the Lord shall all the seed of Israel be justified, and shall glory.
 
     In the Lord shall all the seed of Israel be justified, and shall glory: that is the justified and glorified of the precept above, with no concordance needed.
+
+<div class="reading">
+
+Reading from a definition of the word predestinate  *[[6:28:26](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=23306s)]*
+
+> Predestined means something is decided or determined in advance,
+
+- Something is decided or determined in advance, before it takes place.
+
+> suggesting it's already been faded or pre-ordained by a higher power, like God or fate.
+
+- That's what it means. So, Israel, the nation of Israel, we are predestined for the kingdom. We just don't know who's who. But we're here trying to figure out if it is us or not, until the end.
+
+</div>
 
 
 **[Ephesians 1:3-5](/bible/ephesians/1#v3)**  *[[6:36:25](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=23785s)]*

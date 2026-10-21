@@ -194,7 +194,7 @@ Videos played in class:
 >
 > <sup>[7](/bible/revelation/17#v7)</sup> And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
 
-- Now I am going to show you all American peace, Pax Americana, in the scripture. The judgment of the great whore: that great whore is America.
+- Now I am going to show you all American peace, Pax Americana, in the scripture. The judgment of the great whore: that great … is America.
 - That sitteth upon many waters: meaning rules many nations. With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication: that wine of fornication is also going into falsehood, lies, oppression.
 - A woman sit upon a scarlet coloured beast: the woman sitting upon the scarlet coloured beast is America; the scarlet coloured beast is Europe, the European Union, NATO.
 - Full of names of blasphemy: they call themselves Jews, they call themselves Christians, they call themselves the people of God. It is blasphemy to say you are a Jew and you are not a Jew.

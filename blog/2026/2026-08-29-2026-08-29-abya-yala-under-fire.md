@@ -99,7 +99,7 @@ Chocó, and the fake arrival.
 
 Get out of my country.
 
-- The clip: get out of my country, you piece of Zionist filth. Get out. We do not want you. Baby killers, war criminals, murderers. Nobody wants you. Get out of here. Since 1948 you have been committing genocide and apartheid in Palestine, and Palestine will be free. You better leave, because it is going to get worse. Baby killers. Here we respect children and babies. Get out. Nobody wants you. There are the murderers.
+- The clip: get out of my country, you piece of Zionist …. Get out. We do not want you. Baby killers, war criminals, murderers. Nobody wants you. Get out of here. Since 1948 you have been committing genocide and apartheid in Palestine, and Palestine will be free. You better leave, because it is going to get worse. Baby killers. Here we respect children and babies. Get out. Nobody wants you. There are the murderers.
 - So that is what is going on. You see how people have to protest when they see these Zionist Israelis, Amalek, in our lands. Because you see them, they are dressed in civilian clothes, but those are military, Mossad. Those are the ones setting the fires, causing the mayhem in our countries. Our people need to wake up.
 
 Argentina.

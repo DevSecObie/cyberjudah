@@ -947,7 +947,7 @@ Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=
     >
     > <sup>[2](/bible/revelation/17#v2)</sup> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 
-    The great whore is America, sitting upon many waters, many nations. Her allies commit fornication with her for resources and economic benefits, and the wine of her fornication is lies and philosophies, as Micah 2:11 shows.
+    The great … is America, sitting upon many waters, many nations. Her allies commit fornication with her for resources and economic benefits, and the wine of her fornication is lies and philosophies, as Micah 2:11 shows.
   - **[Isaiah 21:9](/bible/isaiah/21#v9)**
     > <sup>[9](/bible/isaiah/21#v9)</sup> And, behold, here cometh a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.
 

@@ -21,14 +21,11 @@ tags: ["IUIC in the ClassRoom", "purpose", "sexual-purity", "the-word"]
 
 ## In The News
 
-- *[[16:44](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1004s)]* **An article, "Racism over reality: five times white America chose to lose everything rather than share progress with us"** — Millions of families cannot get their SNAP benefits right now and white America is fine with it as long as black people get nothing. Universal health care, integrated public schools, universal childcare and paid family leave, public housing and free college were all killed rather than shared with us, and every family in the country still pays for that choice. They are Christians, and America is the greatest Christian country in the world.
 - *[[26:45](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1605s)]* **A video on COINTELPRO and the Black Panthers' free medical clinics** — Federal agents posed as medical volunteers in Chicago and Oakland and replaced the medicine with poisoned alternatives; sick children and elderly people took it and the deaths were written down as natural causes. That is how far they will go to destroy us, even when we are minding our own business and serving our own community.
 - *[[28:34](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1714s)]* **A video on Israel buying up answers about the history of Christianity on ChatGPT and other AI systems** — Ninety million dollars to change ancient names to Israel and emphasize Jewish culture in the Bible, because Christian support for Israel in America is declining — and the administration you think loves you signed off on it.
 - *[[30:22](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1822s)]* **A video naming black women killed by white boyfriends and white husbands** — This is what happens when you hate your own people. They were not killed by white cops. When you sleep with the pig you wake up with fleas.
 - *[[34:25](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2065s)]* **A video on black women who leave the black man for the white man** — They leave the weaves, the lashes, the makeup and the loud mouth behind, because they know that man will not take any of it — they have to be the best kind of women to get the lowest white man.
-- *[[35:20](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2120s)]* **An article, "Abortion is killing the black community: this is not health care"** — Margaret Sanger and the eugenicists targeted the races they called inferior and she opened her first clinic in a black neighborhood in Brooklyn. Since 1973 the industry has claimed the lives of 20 million black children, out of a people who are 13 percent of the country.
 - *[[42:12](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2532s)]* **A video on Frederick Hoffman's Race Traits of 1896 and the fight over health care** — Deny black people health care, Hoffman argued, and the race dies out in two or three generations and the race problem is solved. Congress and the governors took him seriously, and that is why every single-payer plan from Teddy Roosevelt in 1912 to Kennedy in 1961 was shot down, and why the southern senators built a twenty percent gap into Medicare to keep poor black people out of all-white hospitals. America is also the only powerful country on the earth with no universal health care and the most expensive medication on it.
-- *[[51:20](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3080s)]* **An article about a Florida man who paid his cousin at least $6,000 to kill the seventeen-year-old girl he had molested so she could not testify** — It is not always the white man. Our own people are evil too, and that is part of the dirty world we are trying to live clean in.
 
 ## Scriptures Opened
 
@@ -90,6 +87,82 @@ tags: ["IUIC in the ClassRoom", "purpose", "sexual-purity", "the-word"]
 - There is no such thing as a man who used to be an Israelite. It is who you are, it is in your DNA. You cannot knock on your father's door and tell him you used to be his son.
 
 
+<div class="reading">
+
+Reading from the article *Racism over reality: five times white America chose to lose everything rather than share progress with us*  *[[16:44](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1004s)]*
+
+> Racism over reality. Five times white America chose to lose everything rather than share progress with us.
+
+- This racism I'm reading, this is happening right now, by the way. This is happening because some of you said that was a long time ago. This is happening right now under Donald Trump. It's living in a dirty world.
+
+> Millions of families cannot access their SNAP benefits right now. And a lot of white America is perfectly fine with it as long as black people are not getting food stamps.
+
+- Even though they're on it themselves.
+
+> And if you know true American history, this is not surprising. Here are five times white America chose to destroy something rather than let black Americans prosper.
+
+- So you know what they're saying? They rather see their children go hungry just because it has affected us.
+
+- This is for your Christian who living in La La Land thinking these people love y'all. These people never love us. And they never will. This is the reality we living in.
+
+- I see a bunch of … online talking about Donald Trump this, Donald Trump. You know what I love about Donald Trump? Donald Trump is the epitome, the voice of how white people talk, how white people think when they want to eat at the table. The only difference is Donald Trump talk loud. He just tell you how it is. And every single person that he hire in his administration, same way. They tell you exactly how it is.
+
+> Universal health care. America could have had universal health care.
+
+- By the way, America is the most powerful country. Do you know out of the most powerful countries America is the only country without no universal health care? You want to know why? He's going to tell you why.
+
+> America could have had universal health care. But when hospitals were forced to desegregate, white outrage exploded. White Americans fought equal care so fiercely they blocked national health plans. They would rather everyone drown in medical debt than let black patients sit beside them.
+>
+> Next, public schools. After segregation ended white parents revolted. Instead of integrating, entire school districts were shut down. White families built private academies. The government barely funds public schools. America could have world-class schools. White anger killed the idea.
+>
+> Childcare and family support. In the 1970s, the US almost passed universal childcare and paid family leave.
+
+- Almost.
+
+> Then, white backlash hit when they learned black mothers would benefit, too. Politicians killed the bill because black babies would share space with white babies. Every family in this country still suffers for that choice.
+
+- Guess what? They are Christians. Yep, America is a Christian nation. I'm telling you our people stupid as hell. Every black Christian is a bunch of idiot. I'm telling you. Our people stupid.
+
+> Public housing. Public housing was supposed to be clean, modern, and integrated. White residents protested, vandalized, and fled. Political pressure became so intense, America abandoned public housing entirely. Homelessness exploded because racism mattered more than shelter.
+>
+> Free or affordable college. After black veterans gained access to college through the GI Bill, white lawmakers cut funding rather than share campuses and degrees. Instead of free college like other nations, Americans got lifelong student debt. White supremacy punished everybody just to keep black education limited.
+
+- Again, you think they love you. This is why you guys hate the Israelite, cuz the Israelite put you back in reality. Cuz since you're Christian thinking they love you, you want them to be in the kingdom with you. I'm showing you exactly who they are. Cuz for some reason some of you forgot who these people are. Some of you forgot the '40s, the '30s, the '20s, the '60s, the '70s. Some of you forgot who these people are.
+
+- Those are the same people who killed Martin Luther King, and today they talk about Martin Luther King birthday. He was a good man. But you killed him. Those are the same people who killed Malcolm X. Those are the same people who killed Medgar Evers. Those are the same people who burned down Oklahoma. Those are the same people who I hate in Georgia. Those are the same people who run every single black people out of Forsyth, Georgia. You guys forgot who you dealing with.
+
+- Somehow over there is Christian black pastor, Christian …, Christian is telling black people they're different. No, no, no, they love you now. They love you. Those are the same people. Again, this is why you all hate the Israelite. Oh, we going to tell our people the truth. Oh, we going to wake up our people.
+
+> They keep cutting healthcare, schools, housing, and childcare. They cheer as SNAP and WIC go away. All to punish black families.
+
+- You know that the government was shut down for what? Almost 2 months. You know why it was shut down? Because of Obamacare. Republican want to cut it out. Republican don't want it. Why do you think they don't want it? Because it's benefit some black people. They want to shut down the government. Oh, they love you though. Oh, they love us. Oh, yeah, they love us.
+
+- Then he said housing. Childcare. Then the bottom say SNAP. Guess what? America just found out more white people is in food stamps and welfare than black people. Listen, there is a God. There is a God. Oh, I'm loving it, boy. I'm loving it. I saw so many videos on YouTube, white people crying. Oh, I'm loving it. And don't you dare feel sorry for them.
+
+- And believe it or not, those same white people, they will vote for Donald Trump over and over and over again. You want to know why? Because they hate your guts. Yes, they hate your guts. But guess what? They are Christian though. Oh, yeah. America is the greatest Christian country in the world. Oh, yeah. We love Jesus. Oh, yeah. I hate … but I love Jesus.
+
+> In the end, they just punished themselves. They trade safety, help, and future for everyone just to keep us down. Watch them sacrifice the whole country to aim at a part of it. Idiotic, but historically American.
+
+</div>
+
+
+<div class="reading">
+
+Reading from the article *Abortion is killing the black community: this is not health care*  *[[36:08](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2168s)]*
+
+> Abortion is killing the black community. This is not health care.
+>
+> Editor's note. Even though the vote on this issue did not go our way, we are keeping this piece posted on OTR so readers can see for themselves whether the author's predictions following the vote are coming true.
+>
+> Abortion is killing the black community.
+>
+> The abortion industry has nefarious roots in hatred and racism. Margaret Sanger and eugenics who systematically targeted inferior races for decades. She opened her first clinic in a black neighborhood in Brooklyn. This horrific moment was just the beginning. Abortion is still a lucrative business scheme in America. Since 1973, this predatory industry has claimed the lives of 20 million black children in the nation.
+
+- 20 million black children. But guess what? We make up 13% of the population in America. That's some crazy stuff right there. Living in a clean life and a dirty world.
+
+</div>
+
+
 **[Matthew 18:3](/bible/matthew/18#v3)**  *[[39:08](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2348s)]*
 
 > <sup>[3](/bible/matthew/18#v3)</sup> And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
@@ -140,6 +213,21 @@ tags: ["IUIC in the ClassRoom", "purpose", "sexual-purity", "the-word"]
 - Everything here, everything in this captivity, is garbage compared to what is waiting for us. Whatever is keeping you from the kingdom, cut it off.
 
 
+<div class="reading">
+
+Reading from the article *Florida man paid his cousin at least $6,000 to kill the 17-year-old high school junior he molested*  *[[51:16](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3076s)]*
+
+> Florida man paid his cousin at least $6,000 to kill the 17-year-old high school junior he molested.
+
+- A lot of time we think our people, listen, our people is evil, too. It's not always the white man, the white man, the what? Our people is evil, too.
+
+- That's some evil … out here.
+
+> A Florida creep who molested a 17-year-old girl hired his own cousin to gun the teen down in her own home in a sick murder-for-hire plot that now has them both behind bars for life. Federal prosecutors said Monday. Leonard White, 36, paid his cousin Sheldon Robinson, 21, at least $6,000 to fatally shoot high school junior Isabella Scofield and keep her from testifying about the 2023 sex assault. The US Attorney's Office in Florida's Middle District
+
+</div>
+
+
 **[1 Peter 1:15-16](/bible/1-peter/1#v15)**  *[[52:31](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3151s)]*
 
 > <sup>[15](/bible/1-peter/1#v15)</sup> But as he which hath called you is holy, so be ye holy in all manner of conversation;
@@ -159,9 +247,18 @@ tags: ["IUIC in the ClassRoom", "purpose", "sexual-purity", "the-word"]
 
 > <sup>[44](/bible/leviticus/11#v44)</sup> For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
 
-- Ye shall therefore sanctify yourselves, and ye shall be holy: to sanctify is to set apart, to declare holy — the same thing as separate.
-
 - The reason given is his own: for I am holy. We are separate because he is holy, and that is not ours to negotiate.
+
+
+<div class="reading">
+
+Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3479s)]*
+
+> Set apart as or declare holy.
+
+- It's the same thing. Set apart. We are a holy people. We are a set apart people.
+
+</div>
 
 
 **[Hebrews 12:14-15](/bible/hebrews/12#v14)**  *[[58:51](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3531s)]*
