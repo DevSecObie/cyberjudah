@@ -237,13 +237,30 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 - The Lord shall bring thee into Egypt again with ships. Moses prophesied we would go into Egypt a second time, but this time with ships. What is Moses seeing here? The transatlantic slave trade. Some people say everybody went into slavery on ships at some point; no, this is specific.
 - By the way whereof I spake unto thee, Thou shalt see it no more again: Moses is being very specific. The Egypt I am talking about is not the Egypt you just came out of; it is a different Egypt.
 - And there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you. The word buy means redeem. In slavery back then somebody could come and pay a price to redeem you; but here no man shall redeem you, because the only redeemer is Christ, and we are purchased with his blood.
-- The definition of Egypt, from the Hebrew Mizraim, was read in class: shut in, restraint, misery, tribulation, distress. So when Moses says you will go into Egypt again with ships, it means we would go into a place of captivity, misery, and tribulation, and we would be carried there on ships.
 
   Precepts:
   - **[Exodus 14:13](/bible/exodus/14#v13)**
     > <sup>[13](/bible/exodus/14#v13)</sup> And Moses said unto the people, Fear ye not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.
 
     Fear ye not, stand still, and see the salvation of the Lord: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever. The scripture already said we would never see those Egyptians again; so the Egypt of Deuteronomy 28:68 cannot be ancient Egypt.
+
+<div class="reading">
+
+Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=VyDEbsxgcas&t=3292s)]*
+
+> Egypt: Coptic land, from the Hebrew name Mizraim,
+
+- So it came from the word Mizraim. That's what Egypt mean.
+
+> which means shut in, restraint, misery, tribulation, distress.
+
+- To be shut in, to be restrained. It mean misery, it mean tribulation, and distress.
+
+- So when Moses is telling us we're going to go into Egypt again with ship, it mean we're going to go into a place where we're going to catch tribulation. We're going to go into a place where we're going to have misery, where we're going to be restrained, meaning we're going to be what? Captives. We going to be in distress and tribulation.
+
+- So that's what Egypt mean. Egypt, it basically mean oppression, misery, tribulation. So Moses said, "Listen, you're going to go into misery again. You're going to go into tribulation again. But this time you all going to go into that place with ships."
+
+</div>
 
 **[Revelation 11:8](/bible/revelation/11#v8)**  *[[56:35](https://www.youtube.com/watch?v=VyDEbsxgcas&t=3395s)]*
 

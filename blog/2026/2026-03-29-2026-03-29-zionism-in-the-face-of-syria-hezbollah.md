@@ -21,36 +21,53 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 
 ## In The News
 
-- *[[11:26](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=686s)]* **The United States exports over two billion dollars of processed food to the Caribbean every year** — That is why every island complied when America said get rid of the Cuban doctors: refuse and the food is shut off.
-- *[[15:10](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=910s)]* **The definition of the term Middle East, coined in 1902 by Alfred Thayer Mahan for British imperial interests** — A Eurocentric term; when they say Jesus came from the Middle East they mean Arab or white, never black, though black people are clearly there.
-- *[[19:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1154s)]* **Newt Gingrich proposing a dozen thermonuclear detonations to cut a new canal wider than Panama and deeper than Suez** — That is his answer to Iran taking the strait, and those artificial channels are the sluices and turned rivers of Isaiah 19.
-- *[[20:07](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1207s)]* **The Suez Canal, the Strait of Hormuz and Bab al-Mandab: history, economics and American naval use** — Without the canal ships go around Africa; it carries twelve to fifteen per cent of world trade and oil to Europe, was built with forced labour, and America intervened in 1956 to keep it open. Nasser said the Jews left black and came back white, and was beaten in the Six-Day War when America and Britain stepped in.
-- *[[26:21](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1581s)]* **Chosen People from the Caucasus by Michael Bradley** — Poorly informed blacks do not know the Jews of Europe financed and insured three centuries of the slave trade from Madrid, Seville, Amsterdam and Newport; and nuclear war, pollution and resource rape all derive from Caucasoid behaviour, values and psychology. A white man wrote that the problem with the world is white men.
 - *[[35:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2114s)]* **A commentator calling Israel crazy white people of Eastern European extraction who founded a colony and said the Bible promised it, armed by American money and ringed by American bases** — When we say it they call us racist; the white man says it of his own and nobody blinks.
-- *[[42:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2564s)]* **A New York rabbi saying not six million, not even three million, not even one million Jews died in the Holocaust** — From his own mouth, not ours.
+- *[[42:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2564s)]* **A New York rabbi saying not six million, not even three million Jews died in the Holocaust** — From his own mouth, not ours.
 - *[[50:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3032s)]* **Kwame Ture, Stokely Carmichael, on Zionism** — Zionism is a political philosophy with nothing to do with religion, organised in Basel in 1897 by Theodor Herzl, an atheist who set out to found the state God promised; a satanic, imperialist, racist movement that took the Palestinians' land by terror while America sent billions with millions homeless. He knew in the sixties, and he knew Africa gave Judaism to the world.
-- *[[52:30](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3150s)]* **Atlas Geographicus, 1714, on Africa** — Judaism was the religion of the ancient Africans for a long time, succeeded by Christianity, until Islam put the Jews and Christians to death and the caliphs burned all their books because the arts and sciences made them condemn Muhammad's law.
-- *[[54:12](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3252s)]* **Definitions: Zionism, how Zionists use Judaism to justify a greater Israel, and Judaism versus the Talmud** — Religious narrative turned into a political land claim, and the Talmud as the oral law that governs the practice.
 - *[[56:48](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3408s)]* **A 2020 Supreme Court filing on Ashkenazi communities, the Talmud's rules on children, metzitzah b'peh and herpes deaths in New York, and the passage on giving seed to Moloch** — Screenshot it and fact-check it; this is the law the Israelis Trump supports live by.
 - *[[59:33](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3573s)]* **Trump saying we have to bring religion back, and that the bullet changed him** — Their god is not the God of the Bible; he supports people who follow the Talmud, which allows pedophilia and the worship of Moloch.
-- *[[1:01:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3676s)]* **The Secretary of War announcing Operation Epic Fury against Iran: forty-seven years, the forty-seventh president, we will hunt you down and kill you** — That is a beast speaking as a dragon: plant your spies and bases in a country, call its retaliation a war on America, and there is symbolism in forty-seven, which they say means fulfilment through persistence.
-- *[[1:09:09](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4149s)]* **In the Pillory: the tale of the Borgia pope, and Cesare Borgia posing for the image of Jesus** — The open secret behind the picture with the thin hair and the crown of thorns; that is another Jesus with another spirit and another gospel.
+- *[[1:01:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3676s)]* **The Secretary of War announcing Operation Epic Fury against Iran: forty-seven years, the forty-seventh president, we will hunt you down and kill you** — That is a beast speaking as a dragon: plant your spies and bases in a country, call its retaliation a war on America.
 - *[[1:11:36](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4296s)]* **Bashar al-Assad on Trump: the president is only a performer, the deep state dictates and accepts only puppets and proxies** — Putin says the same and black people are not listening; Israel wants to be the superpower of its region and cannot allow one strong government there, so Syria was handed to a rebel, Iran is attacked, and Saudi Arabia and Turkey are next.
 - *[[1:16:19](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4579s)]* **The pyramid of world control: the all-seeing eye, the council of thirteen families, the think tanks, the banks, the religions, governments, education and media, and the sheep at the bottom** — The president is a manager; the same eye is on the dollar; only God can bring that down, whatever a Negro in government thinks he will change.
 - *[[1:21:46](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4906s)]* **Iran mocking Trump's five-day pause: no direct talks, no indirect talks, another defeat for the devil** — Iran says the pause is fear of the strait closing and the bases and Gulf energy being hit; and Trump wanted NATO to step in because America cannot spend all her weapons with other enemies watching.
-- *[[1:27:37](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5257s)]* **Bashar al-Assad on the Holocaust and the Khazars: no evidence for six million, America financed the rise of Nazism, and the Jews who came to Palestine are Khazars from east of the Caspian with nothing to do with ancient Israel** — Germany was rebuilt and rearmed while Africa still looks bombed; and that speech is one reason they wanted him out.
-- *[[1:32:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5554s)]* **The Roman Empire, the Empire of the Edomites, and Arthur Koestler's The Thirteenth Tribe on King Bulan and the Khazar conversion** — Rabbis imported from Babylonia converted four thousand nobles and the population to Talmudism in the seventh century; their ancestors came from the Volga and the Caucasus, not the Jordan, and Koestler calls it the cruellest hoax history ever perpetrated. We taught this in 1990 before social media.
-- *[[1:47:50](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6470s)]* **The fall of Damascus and the flight of Assad, and Ahmed al-Sharaa's own record: al-Qaeda in Iraq, American prison, emir of al-Nusra and Hayat Tahrir al-Sham** — A man with a ten-million-dollar bounty on his head now shakes Trump's hand in the White House; a few hundred disgruntled men with foreign money and weapons is how countries are destabilised, and they will send the same into the body to buy their time.
+- *[[1:47:50](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6470s)]* **The fall of Damascus and the flight of Assad** — A man with a ten-million-dollar bounty on his head now shakes Trump's hand in the White House.
 - *[[2:08:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7714s)]* **Israel's defence minister announcing the occupation of southern Lebanon to the Litani, and the strikes on fuel stations** — Every helper of Tyre and Sidon is being cut off before our eyes.
-- *[[2:19:25](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8365s)]* **Hezbollah: created in 1982 to combat the Israeli invasion of Lebanon, and rebuilt by Iran after 2024 for this very moment** — The media calls them terrorists; they did not exist until Israel invaded, and their women support them in a unity Negroes have never seen except in us.
+- *[[2:20:57](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8457s)]* **A news report: Hezbollah rebuilt by Iran after 2024 for this very moment**
 - *[[2:24:38](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8678s)]* **Tatbir, the Shia ritual of cutting oneself** — How long wilt thou cut thyself: the Muslims cutting themselves in prayer to their god for help against their enemies, much like the Catholics.
-- *[[2:39:20](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9560s)]* **Herpes in newborns linked to oral-suction circumcision in New York, and the DOJ Epstein files on dismembered babies** — The abomination between his teeth, the blood in his mouth, and the tunnels in Brooklyn with the bloody mattress and baby clothes; the Most High is exposing them.
 - *[[2:43:41](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9821s)]* **A commentator calling Israel a militarised vampire nation living on blood, out to return Iran to the Stone Age** — Since thou hast not hated blood, blood shall pursue thee; Dracula is about them.
 - *[[2:57:03](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10623s)]* **Malcolm X: people reject the truth because it is uncomfortable, and discipline turns knowledge into power** — Black and Latino people hate the discomfort of change, so what they learn just sits there and becomes nothing.
 - *[[3:04:27](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11067s)]* **A commentator on America's eight hundred bases, its UN veto against humanity and its expired nuclear treaties: every accusation is a confession** — This week America and Israel voted against a UN motion on slavery; America is the oppressor and the king of Babylon.
 - *[[3:08:56](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11336s)]* **The film Argo and the 1953 coup that installed the Shah** — The embassy burned its records because they were all spies; that is why Iran is still at it today.
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from a post on America's food exports to the Caribbean  *[[11:22](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=682s)]*
+
+> The United States is the primary food supplier to the Caribbean. Exporting over $2 billion dollars in processed foods yearly.
+
+- That's a lot. So, this is why now I understand when America told the Caribbean get rid of all those Cuban doctors, they were all complicit cuz if they say no, America will shut them off from food. It's a dirty game. It's a dirty world we live in. Dirty world. Cruel, cruel world.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a definition of the term Middle East, on the screen  *[[15:10](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=910s)]*
+
+> The term Middle East is a Eurocentric term
+
+- Meaning white folks made this up.
+
+> coined in 1902 by American strategist Alfred Thayer Mahan to describe the region between Arabia and India. It refers to a geopolitical area mainly covering Southwest Asia and North Africa that served the British Imperial interests. The term is debated today with alternatives like SWANA or West Asia preferred to avoid colonial framing.
+
+- When you hear people say the Middle East, they don't think black people. Although black people are clearly there. They think Arab and or white folks. That's why they say Jesus came from the Middle East.
+
+- Middle Eastern called by this new Eurocentric term referring to either Arabs or white folks. They're not referring to black people when they say that at all.
+
+</div>
+
 
 **[Isaiah 19:4-10](/bible/isaiah/19#v4)**  *[[16:52](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1012s)]*
 
@@ -71,6 +88,134 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - The cruel lord over Egypt was Nebuchadnezzar, but it is written without a name because it is the fierce king of this fourth kingdom today.
 
 - The waters fail, the rivers are turned far away and the sluices and ponds are broken: the waterways are being affected now with Iran holding the Strait of Hormuz, and Gingrich wants to nuke a new canal through friendly territory.
+
+
+<div class="reading">
+
+Reading from a definition of sluice, on the screen  *[[18:23](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1103s)]*
+
+> A sluice is a artificial narrow channel or conduit with a sliding gate. Sluice gate. Used to control or regulate the flow of water. It is commonly used for irrigation, controlling canal levels, or in mining to separate gold from sediment. Sluices can also mean washing with running water.
+
+- Controlling canal levels, canal levels.
+
+</div>
+
+
+<div class="reading">
+
+Reading from Newt Gingrich, on the screen  *[[19:18](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1158s)]*
+
+> Instead of fighting over a 21-mile-wide bottleneck forever, we cut a new channel through friendly territory.
+
+- This is his solution to Iran taking over the Suez Canal.
+
+> A dozen thermonuclear detonations and you've got a waterway wider than the Panama Canal, deeper than the Suez, and safe from Iranian attacks.
+
+- So that's his solution. Get some thermo nukes and blow it up and make some new canals. That's the artificial ones that we were just reading about in Isaiah 19.
+
+- Now, you see the Strait of Hormuz. Hormuz is an ancient Persian god, by the way, that name Hormuz. Iran took control of that. So, now you have another way they can get to near Eritrea. Bab al-Mandab. And up where you got the Suez Canal, right up there between Cairo, Egypt, and Jordan. That makes the water a shorter distance to travel by ship. If you don't have that, then you have to travel all around Africa to get across the seas. And that's what America and the nations want to avoid.
+
+</div>
+
+
+<div class="reading">
+
+Reading from texts on the Suez Canal, on the screen  *[[20:59](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1259s)]*
+
+> The Suez Canal is a 193 km, 120 mile man-made sea level waterway in Egypt connecting the Mediterranean Sea to the Red Sea separating Africa from Asia. Opened in 1869, it provides the shortest maritime route between Europe and Asia significantly cutting shipping times by avoiding the journey around Africa.
+
+- Now, we're going over this because of what we just read in Isaiah 19 about the waterways, artificial things that were built.
+
+- So to get around Africa it's about almost 18 months to get around the whole continent. So they want to cut all of that down. So that's why they built the Suez Canal. You have the Strait of Hormuz and those other ways. So now that Iran took the Strait of Hormuz there's problems.
+
+> Economic significance. By reducing the shipping distance between London and Mumbai by over 8,000 km, it saves significant time and fuel.
+
+- And fuel. Now you know the price of fuel is up.
+
+> It is critical for transporting oil from the Middle East to Europe. History and construction. Construction began in 1859 under French diplomat Ferdinand de Lesseps taking 10 years to complete and often utilizing forced labor. Geopolitics and control. Originally controlled by the Suez Canal Company, joint French-British, it was nationalized by Egypt in 1956 leading to the Suez Crisis.
+
+> The Suez Canal is a 120 mile sea level waterway in Egypt connecting the Mediterranean and Red Seas crucial for global trade and US naval power projection. It allows US vessels rapid transit between European and Central Commands bypassing Africa. The US has historically intervened to ensure its stability most notably during the 1956 Suez crisis when it forced a British French withdrawal marking a major shift in global power.
+>
+> Key aspects of the Suez Canal in the USA. Strategic importance. The canal acts as a maritime choke point and is vital for US military mobility and Middle East interest. Ensuring rapid deployment and supply lines for US warships.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a text on Gamal Abdel Nasser, on the screen  *[[24:41](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1481s)]*
+
+> They left black the war for Israel. When he was asked about peace in the Middle East, the late president of Egypt Gamal Abdel Nasser stated, "The Jews will never be able to live here in peace because they … here black but came back white."
+
+- He went to fight against Israel during the Six-Day War. He was going to wipe those fake Israelis off the map, but America and Britain intervened and he lost that war.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a search result on Kwame Nkrumah's marriage  *[[25:13](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1513s)]*
+
+> It says Kwame Nkrumah did not marry a daughter of Gamal Abdel Nasser. Instead, Ghana's first president, Kwame Nkrumah, married an Egyptian woman named Fathia Rizk on New Year's Eve '57, a marriage supported by Egyptian President Gamal Abdel Nasser to foster close ties between their nations.
+
+- Okay, got you.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a text on the Suez Crisis, on the screen  *[[26:00](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1560s)]*
+
+> Egyptian President Nasser's nationalization of the canal, Britain, France, and Israel launched a joint attack. The Eisenhower administration in the US strongly opposed this military action using diplomatic and economic pressure to force the allies to withdraw, effectively upholding Egyptian sovereignty over the waterway, say Britannica and history.com.
+>
+> Economic impact. As a major global trade artery carrying about 12% to 15% of global trade and significant oil, liquefied natural gas flows, its closure or disruption directly impacts US commercial interests and shipping costs, especially during maritime incidents like the 2021 blockage, according to the Heritage Foundation and the Atlantic Council.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Chosen People from the Caucasus* by Michael Bradley  *[[26:55](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1615s)]*
+
+> Today, a large number of black Americans think of the Jews as people of the book. And they look more favorably on them than on other Caucasians.
+
+- If you don't have this book, I suggest you get it.
+
+- Black people think so Jewish Caucasians are much more special than the other Caucasians. They're the same group.
+
+> These poorly informed blacks do not know that the Jews of Europe played the same role in their enslavement, oppression, and colonization as other Europeans.
+>
+> As financiers and insurers of European maritime commerce, a commerce largely focused on the slave trade for three centuries. Jewish mercantile houses amassed vast fortunes in both Europe and North America. Fortunes that were often interrelated by family and marital ties. In Europe, conversos operating out of Madrid
+
+- Those were conversos. Conversos mean converted ones from Judaism to Christianity.
+
+> and Seville handled the business of Spanish slaving. Jews openly operating in Amsterdam served the financial needs of Protestant slavers. In America, a flourishing Jewish financial community
+
+- And what they were selling were the black Jews from Spain, Madrid, Seville. That's what they were selling.
+
+> centered mainly in Newport, Rhode Island financed and insured slaving voyages by Yankee captains.
+
+> Nuclear war, environmental pollution, resource rape, all are primary threats to our survival, and all are the result of peculiarly Caucasoid behavior, Caucasoid values and Caucasoid psychology. There is no way to avoid the truth. The problem with the world is white men.
+
+- Y'all see that? Now, that's a white man wrote that. The white man wrote that. We didn't write that. The white man wrote that.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Chosen People from the Caucasus*, p. 232  *[[29:30](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1770s)]*
+
+> The world is presently facing many crises, not just the Arab-Israeli one. And if we look at these crises with total objectivity, we will see that all of them at base derive from Caucasoid behavior.
+
+- All the problems in the world is from white people. They're causing all the problems.
+
+> Caucasoid values and Caucasoid psychology. Nuclear war, environmental pollution, resource wastage, all have reached a critical mass and have become threats to our survival because of Caucasoid evolution.
+
+- So, this is a white man. He knows the history. He's telling us climate change. Y'all is messing up the climate with your deodorant. But they're dropping bombs. They're dropping bombs. That doesn't cause climate problems? See how he thinks? And they'll get us to follow that stupidity.
+
+</div>
 
 
 **[Ezekiel 35:1-10](/bible/ezekiel/35#v1)**  *[[30:36](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=1836s)]*
@@ -144,6 +289,17 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
     Solomon sat upon the throne of the kingdom of the Lord over Israel: Israel is the kingdom of heaven.
 
 
+<div class="reading">
+
+Reading from a headline on a New York rabbi, on the screen  *[[43:01](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2581s)]*
+
+> New York rabbi. Not even 1 million Jews killed in Holocaust. The other 5 million people included in the number of Jews killed by the Nazis were intermarried and not Jewish, he said.
+
+- So, that's from his mouth. That ain't something we said.
+
+</div>
+
+
 **[Psalms 50:16-17](/bible/psalms/50#v16)**  *[[43:35](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2615s)]*
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
@@ -187,6 +343,71 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - They hate him that rebukes in the gate and abhor him that speaks uprightly: speak truth to power, especially the word of God, and they hate you. Stokely Carmichael left SNCC and nonviolence for the Black Panthers and the All-African People's Revolutionary Party, and said what Zionism is.
 
 
+<div class="reading">
+
+Reading from Wikipedia, on Kwame Ture  *[[49:42](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2982s)]*
+
+> Kwame Ture, born Stokely Standifer Churchill Carmichael, was a Trinidadian-American activist who played a major role in the civil rights movement in the United States and the global pan-African movement. Born in Crown Colony of Trinidad and Tobago, he moved to the United States at age 11 and became an activist while attending the Bronx High School of Science. Ture was a key leader in the development of the Black Power movement. First, while leading the Student Nonviolent Coordinating Committee
+
+- He was with Martin Luther King in the beginning. Student Nonviolent Coordinating Committee, SNCC.
+
+> Then, as the honorary Prime Minister of the Black Panther Party
+
+- He got tired of that nonviolent thing getting hit upside the head. He said, "I can't take it no more." So, he joined the Black Panther Party.
+
+> And as a leader of the All-African People's Revolutionary Party
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Atlas Geographicus, or a Complete System of Geography, Ancient and Modern, for Africa*, 1714  *[[52:55](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3175s)]*
+
+> Leo says, "There are other kingdoms on the southern frontiers of this country which are inhabited by a rich, industrious and just sort of people." "Judaism was the religion of the ancient Africans
+
+- Cuz he said Africa gave Judaism to the world.
+
+- That's what Stokely Carmichael was saying.
+
+> Judaism was the religion of the ancient Africans for a long time and succeeded by Christianity. But Mahometism prevailed in the 208th year of the Hegira when all the Jews, Christians, and professors of the African religion that could be found were put to death.
+
+- They was killing people.
+
+> Yet in process of time their intestine quarrels made them neglect Muhammad's law and revolt from the caliph of Baghdad.
+
+- So they were revolting under Islam.
+
+> For which they were severely punished by the … caliphs who caused all their books to be burned.
+
+- These Muslims burned all our books, our records.
+
+> on suspicion that the knowledge of the arts and sciences prompted them to condemn Muhammad's law."
+
+- So our books led us to hate Islam. So they said we got to burn all their records. That's what they did to us.
+
+</div>
+
+
+<div class="reading">
+
+Reading from definitions of Zionism, Zionists' use of Judaism, and Judaism and the Talmud, on the screen  *[[54:48](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3288s)]*
+
+> A Zionist is a supporter of Zionism. The political movement and ideology advocating for the right of the Jewish people to self-determination and sovereignty in their ancestral homeland established as the state of Israel. It emerged in the late 19th century as a response to European anti-Semitism. Focusing on building a national home.
+>
+> Zionists use Judaism to justify territorial expansion
+
+- That's what Stokely Carmichael said.
+
+> by framing the state of Israel as the fulfillment of biblical prophecy and a divine right, transforming religious narratives into political claims for land. This approach connects modern political Zionism with ancient Jewish heritage, casting the acquisition of Palestinian land as the realization of a religious mission and a greater Israel.
+
+- Greater Israel, they want to take everybody's land.
+
+> Judaism is the overall religion and culture, while the Talmud is a foundational massive collection of rabbinic law, commentary, and traditions that shapes traditional Jewish practice. Judaism is based on the written Torah, five books of Moses. Whereas the Talmud represents the oral Torah that clarifies how to apply biblical law in everyday life.
+
+</div>
+
+
 **[Revelation 13:11](/bible/revelation/13#v11)**  *[[1:00:25](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3625s)]*
 
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
@@ -194,7 +415,22 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - The beast out of the earth is America; two horns like a lamb is the bipartisan system of a nation that calls itself Christian; and he speaks as a dragon: we will hunt you down and kill you.
 
 
-**[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[[1:04:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3872s)]*
+<div class="reading">
+
+Reading from a definition of the number 47, on the screen  *[[1:04:40](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3880s)]*
+
+> The number 47 often symbolizes balance, spiritual growth, and the fulfillment of goals through persistence.
+
+- He said the 47th president after 47 years.
+
+- Spiritual growth.
+
+- Listen to the things they're saying now, it has a lot of symbolism behind it.
+
+</div>
+
+
+**[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[[1:04:56](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3896s)]*
 
 > <sup>[10](/bible/habakkuk/1#v10)</sup> And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 >
@@ -224,6 +460,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
     > <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 
     He opposes and exalts himself above all that is called God and sits in the temple of God showing himself that he is God: his images make him God, the Son, the angels and the Jews, the same thing Daniel prophesied.
+
+
+<div class="reading">
+
+Reading from *In the Pillory: The Tale of the Borgia Pope*  *[[1:09:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4174s)]*
+
+> In nine crowded chapters, 39 splendid illustrations by John Bond.
+
+- One of my favorite books.
+
+- This is explaining 2 Thessalonians 2 and 4 that we just read and Daniel 11:36 down.
+
+> It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
+
+- So, Cesare Borgia, he posed for the new image of Jesus. With a crown of thorns. Thin hair. Salvator is Spanish for savior.
+
+</div>
 
 
 **[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[1:10:06](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4206s)]*
@@ -272,6 +525,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - Go up, O Elam, besiege, O Media: Elam is Iran, Pakistan, India and the Kurds. When God raises Elam and Media against the treacherous dealer all the sighing ceases, and Iran is saying come, we have been waiting all our life.
 
 
+<div class="reading">
+
+Reading from the headline of a news video on Iran  *[[1:22:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4936s)]*
+
+> Iranian … Trump has been defeated. Iran mocks the US after Trump pauses strikes. The US spooked by Iran's threat of hitting all power plants in West Asia.
+
+</div>
+
+
 **[Proverbs 4:14-17](/bible/proverbs/4#v14)**  *[[1:25:23](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5123s)]*
 
 > <sup>[14](/bible/proverbs/4#v14)</sup> Enter not into the path of the wicked, and go not in the way of evil men.
@@ -287,6 +549,55 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - They sleep not except they have done mischief, and their sleep is taken away unless they cause some to fall; they eat the bread of wickedness and drink the wine of violence. That is how God created them, and no black man or woman is going to change them after four hundred years.
 
 
+<div class="reading">
+
+Reading from the English subtitles of a speech by Syrian President Bashar al-Assad  *[[1:27:38](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5258s)]*
+
+> Syrian President Bashar al-Assad, "There is no evidence 6 million Jews were killed in the Holocaust. US financially helped the rise of Nazism between the two World Wars."
+>
+> "The question on everybody's mind is how is it that despite the German collapse and European constraints Nazism was allowed to rise and build an army. It was done with American support, money, loans, and investments.
+
+- Now, you think about it. Remember Germany was the center of evil with World War II, Hitler, quote and quote. They almost wiped Germany off the map. Look at the footage. Almost wiped them off the map. But Germany, if you look at it, I've been to Germany. It's beautiful over there. It's like there was never a war. But now you look at Africa. The war's still going on. And you know Germany has nuclear weapons. They gave wicked Germany, they rebuilt them. That's what he's saying. They rebuilt Nazism.
+
+> There is no evidence that 6 million Jews were killed in the Holocaust. Perhaps there were Holocaust. Nobody denies this. True, there were concentration camps. But what shows you that this is a politicized issue? And is not a humanitarian issue and is not real. How come we talk about these 6 millions? But not about the 26 million Soviets killed in that war. Are those 6 millions more precious? The same acts were everywhere. There was no method of torture or killing specific to the Jews. The Nazis used the same method everywhere. However, this issue was politicized in order to falsify the truth and later to prepare for the transfer of the Jews from Europe to other areas. Or rather, to Palestine.
+>
+> The Jews who came to Palestine are Khazar Jews from east of the Caspian Sea. They were pagans who converted to Judaism in the 8th century. They emigrated to Europe and from there came to this region. They have nothing to do whatsoever with the ancient people of Israel."
+
+- So, that's another reason that Israel wanted him out. They called their big brother America, said, "We got to get this guy out. He's revealing all the dirt."
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Roman Empire, the Empire of the Edomites*, William Beeston, 1853  *[[1:32:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5564s)]*
+
+> In the 7th century, King Bulan, ruler at that time of the Khazar kingdom, decided to abolish the practice of phallic worship and other forms of idolatrous worship and make one of the three monotheistic religions about which he knew very little, the new state religion. After a historic session with representatives of the three monotheistic religions, King Bulan decided against Christianity and Islam and selected as the future state religion of the religious worship then known as Talmudism and now known and practiced as Judaism. This event is well documented in history.
+>
+> King Bulan and his 4,000 feudal nobles were promptly converted by rabbis imported from Babylonia for that event. Phallic worship and other forms of idolatry were thereafter forbidden. The Khazar kings invited large numbers of rabbis to come and open synagogues and schools to instruct the population in the new form of religious worship.
+
+- This is the history that the Syrian president was talking about.
+
+- So, remember at this time it's our people brought over there to convert them. That's what it was. We went over there. We were the rabbis that converted them.
+
+> It was now the state religion. The converted Khazars were the first population of so-called or self-styled Jews in Eastern Europe. So-called or self-styled Jews in Eastern Europe after the conversion of the Khazars are the descendants of the Khazars converted to Talmudism or as it is now known Judaism by the 7th century mass conversion of the Khazar population.
+>
+> The religious leaders imposed the teaching of the Talmud upon the population as their guide to living.
+>
+> Volume 4, pages 1 to 5 of the Jewish encyclopedia. The Jewish encyclopedia refers to the Khazars as Khazars. The two spellings are optional according to the best authorities.
+
+</div>
+
+
+<div class="reading">
+
+Reading from Arthur Koestler, *The Thirteenth Tribe*  *[[1:35:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5734s)]*
+
+> This was written before the full extent of the Holocaust was known. But that does not alter the fact that the large majority of surviving Jews in the world is of Eastern European, thus perhaps mainly of Khazar origin. If so, this would mean that their ancestors came not from the Jordan, but from the Volga, not from Canaan, but from the Caucasus, once believed to be the cradle of the Aryan race, and that genetically they are more closely related to the Hun, Yugur, and Magyar tribes than to the seed of Abraham, Isaac, and Jacob. Should this turn out to be the case, then the term anti-Semitism would become void of meaning, based on a misapprehension shared by both the killers and their victims. The story of the Khazar Empire, as it slowly emerges from the past, begins to look like the most cruel hoax which history has ever perpetuated.
+
+</div>
+
+
 **[Ezekiel 36:5](/bible/ezekiel/36#v5)**  *[[1:37:51](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5871s)]*
 
 > <sup>[5](/bible/ezekiel/36#v5)</sup> Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.
@@ -294,6 +605,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - In the fire of my jealousy have I spoken against the residue of the heathen and against all Idumea, which have appointed my land into their possession: the verse names the race that would take the land of Israel, so there is no confusion.
 
 - With the joy of all their heart, with despiteful minds: they took it knowing they are not the Jews; and to cast it out for a prey is calling every Caucasian in Poland, Germany, Russia, Ukraine and Uzbekistan to come get a part of the land.
+
+
+<div class="reading">
+
+Reading from a definition of Idumea, on the screen  *[[1:38:18](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5898s)]*
+
+> Idumea, pertaining to Edom. Greek and Roman name for Edom.
+
+</div>
 
 
 **[Ezekiel 36:16-20](/bible/ezekiel/36#v16)**  *[[1:39:27](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5967s)]*
@@ -355,6 +675,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
     I will bring the worst of the heathen and they shall possess their houses; mischief upon mischief and rumour upon rumour.
 
 
+<div class="reading">
+
+Reading from an entry on the word slip, on the screen  *[[1:45:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6314s)]*
+
+> What does slip mean in the Bible? A cutting from a plant. Slip as a meaning a cutting from a plant. It is still good English in this sense in Isaiah 17:10, for zamorah, branch, twig. For the phrase slip of the tongue, compare Sirach 14:1, 19:16, 20:18, 21:7, 25:8.
+
+</div>
+
+
 **[1 Maccabees 8:13](/bible/1-maccabees/8#v13)**  *[[1:52:53](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6773s)]*
 
 > <sup>[13](/bible/1-maccabees/8#v13)</sup> Also that, whom they would help to a kingdom, those reign; and whom again they would, they displace: finally, that they were greatly exalted:
@@ -378,6 +707,33 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
     > <sup>[29](/bible/1-maccabees/8#v29)</sup> According to these articles did the Romans make a covenant with the people of the Jews.
 
     The articles of the covenant between the Romans and the Jews: mutual help in war and no food, weapons, money or ships to the other side, as it seemed good to the Romans.
+
+
+<div class="reading">
+
+Reading from a text on Ahmed al-Sharaa, on the screen  *[[1:57:04](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7024s)]*
+
+> Ahmed al-Sharaa, also known by his nom de guerre …
+
+- His real name, Abu Muhammad al-Julani.
+
+> is a Syrian politician and former rebel commander
+
+- He was a rebel commander. A rebel commander was given money and weapons by America and Israel to overthrow Syrian president.
+
+> who has served as the president of Syria since 2025. He previously served as the emir of al-Nusra Front from 2012 to 2017, the emir of Hayat Tahrir al-Sham from 2017 to 2025, the de facto leader of the Syrian Salvation Government from 2017 to 2024 and was a de facto leader of Syria from December 2024 until he's appointed as president in January 2025.
+>
+> Born in Riyadh, Saudi Arabia to a Syrian Sunni Muslim family from Daraa and the Golan Heights, he grew up in Syria's capital, Damascus. Al-Sharaa joined al-Qaeda in Iraq shortly before the 2003 invasion of Iraq and fought for 3 years in the Iraqi insurgency. American forces captured and imprisoned him from 2006 to 2011. His release coincided with the Syrian revolution against Ba'ath government of Bashar al-Assad. Al-Sharaa created al-Nusra Front in 2012 with the support of al-Qaeda to topple the Assad government in the Syrian Civil War.
+
+- Obvious when he was in prison they was talking with him, making deals with him.
+
+> As the emir of al-Nusra Front, al-Sharaa built a stronghold in the northwestern Idlib governorate. He resisted Abu Bakr al-Baghdadi's attempt to merge al-Nusra Front with the Islamic State leading to armed conflict between the two groups. In 2016, al-Sharaa cut Jabhat al-Nusra's ties with al-Qaeda and launched a crackdown on its loyalists. Since breaking with al-Qaeda, he has sought internal legitimacy, international legitimacy by presenting a more moderate view of himself.
+
+- They changed his whole look, but he's still the same guy. So the way they destabilize countries, they get disgruntled people in the country. And if you look at the videos with the rebels, there's no more than two, maybe 300 of them. Out of the whole country of millions, you got 200 people that's mad.
+
+- Remember you had about 200 people saying they was glad he was dead. But then you got millions of them who was in support of him. So what happened? America gives these people who are disgruntled money and promises. That's why Trump said in Iran, "I want y'all to overthrow the government. Do this, do that." That was the plan. That's the same thing we're reading about in Maccabees.
+
+</div>
 
 
 **[Revelation 11:8](/bible/revelation/11#v8)**  *[[2:01:23](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7283s)]*
@@ -462,6 +818,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - Her young men shall fall in her streets and a fire in the wall of Damascus shall consume the palaces of Benhadad: what the Bible records historically recurs, and the new president of Syria is the terror network's emir with a haircut, allied with a list of designated jihadist groups.
 
 
+<div class="reading">
+
+Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:42](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8982s)]*
+
+> Hay'at Tahrir al-Sham's terror network in Syria. The Biden administration is reportedly debating removing Hay'at Tahrir al-Sham from the list of designated foreign terrorist organizations.
+
+- We want to make this guy president. We got to take that group off the terrorist.
+
+> However, while the group's leader, Abu Muhammad al-Julani, is specifically designated global terrorist, attempts to portray HTS as moderate, a host of jihadist groups, many of whom are designated as foreign terror organizations, fight under the banner of or are allied with HTS.
+>
+> Turkistan Islamic Party, Muhajideen Goluba Division, Katibat Imam al-Bukhari, Katibat al-Tawhid wal-Jihad, Islamic Jihad Union, Liwa al-Muhajireen wal-Ansar, Ajnad al-Kavkaz, Jama'at al-Alban, Ansar al-Islam, Ansar al-Tawhid. Hay'at Tahrir al-Sham routinely cooperates with foreign terror groups in Syria.
+
+- I gave you a list of terror groups, which are the helpers we read about in Jeremiah 47. All the helpers shall be cut off.
+
+</div>
+
+
 **[2 Esdras 15:14-21](/bible/2-esdras/15#v14)**  *[[2:10:53](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7853s)]*
 
 > <sup>[14](/bible/2-esdras/15#v14)</sup> Woe to the world and them that dwell therein!
@@ -487,6 +860,34 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - A man shall have no pity on his neighbour but destroy his house and spoil his goods for lack of bread and great tribulation: it is hitting India, the Philippines and China with a four-day week since the strait closed, and when America's buffet runs short there is only enough for white people. Store non-perishables, not cookies you throw out at Passover, and eat your unleavened bread with your meals; and your unbelieving relatives who raid your pantry will be at your door.
 
 - God calls together all the kings of the earth from the south, the east and Libanus, Lebanon, to turn one against another and repay what they have done: as they do yet unto my chosen, so will I do and recompense in their bosom. These wars are the big payback for what the nations did to the Israelites, and you feel sorry for the people who destroyed you.
+
+
+<div class="reading">
+
+Reading from an image on the screen  *[[2:19:10](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8350s)]*
+
+> US designates Lebanese Muslim Brotherhood as terrorist group.
+
+- These are some of the images. There's a lot of them, too. Unified, united. Negroes ain't never seen nothing like this. Except they seen us. But we're not terrorists.
+
+- Even the women are supporting them. Their women support them.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a text on Hezbollah, on the screen  *[[2:19:54](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8394s)]*
+
+> Hezbollah was created in 1982 to combat the Israeli invasion of Lebanon
+
+- The media will make you think this is just some evil terrorist group. They did not exist until Israel started invading the country.
+
+> and occupation of the south backed by Iran's Revolutionary Guard to export its Islamic revolution emerging from Lebanon's Shiite community during the civil war. It aimed to expel Western influence, destroy the Israeli state, and establish an Islamist regime. Key reasons for its creation include Israeli invasion of Lebanon. Hezbollah was formed to fight Israeli forces that invaded to dismantle the Palestine Liberation Organization which was operating from Lebanon.
+
+- That's the PLO.
+
+</div>
 
 
 **[Zechariah 9:1-8](/bible/zechariah/9#v1)**  *[[2:31:20](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9080s)]*
@@ -548,6 +949,66 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
     > <sup>[25](/bible/exodus/2#v25)</sup> And God looked upon the children of Israel, and God had respect unto them.
 
     God looked upon the children of Israel and had respect unto them.
+
+
+<div class="reading">
+
+Reading from a text on US troops in the Middle East, on the screen  *[[2:34:24](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9264s)]*
+
+> As of March 2026, the US maintains a military presence in the Middle East with 40,000 to 50,000 troops aimed at stability and deterring Iran, Hezbollah. Though non-emergency embassy personnel in Beirut have been ordered to leave. While not heavily stationed within Lebanon, US forces operate nearby supporting the Lebanese armed forces.
+
+- That's why I wanted to show you. America is operating over there.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a headline and a CNN article on herpes and circumcision  *[[2:39:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9572s)]*
+
+> … babies herpes linked to circumcision practice.
+
+- This is an abomination between your teeth.
+
+- So, these people, these bastards in Ashdod, they'll bite the foreskin of the baby penis and they'll suck the blood from it as they're sucking on the baby's penis.
+
+- I know y'all think I made it up. That's why I had to bring receipts.
+
+> New York CNN. Two more infants have contracted the herpes virus after undergoing an ultra-Orthodox Jewish type of circumcision which has been linked to the spread of the potentially deadly virus to newborn boys, according to the New York City Health Department. In the ritual known as metzitzah b'peh, after removing the foreskin of the penis, the person performing the
+
+- Remember, he removes the foreskin with his teeth.
+
+> The person performing the procedure places his mouth briefly over the wound sucking a small amount of blood out, which is discarded.
+
+- They swallow it.
+
+> Antibacterial ointment is applied and the wound is bandaged. The Health Department says the procedure is dangerous because the contact with the mouth can transmit diseases such as herpes.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an article on oral suction circumcision  *[[2:40:55](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9655s)]*
+
+> Rabbis in New York negotiate how to protect infants and preserve religious freedom. Oral suction circumcision has been linked to 17 cases of herpes since 2000. Mayor in talks with Orthodox Jews to reconsider regulation on ritual.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an article on Jeffrey Epstein and the DOJ files  *[[2:41:28](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9688s)]*
+
+> Was Jeffrey Epstein really involved in cannibalism? Here's what DOJ files reveal.
+
+- Here's what Department of Justice files reveal.
+
+> Story highlights. One of the released documents alleged that babies were dismembered and their intestines removed, claiming that some individuals even consumed feces. The documents also referenced George Bush 1.
+
+> Ever since the US government permitted the Department of Justice to release files related to late sex offender and wealthy financier Jeffrey Epstein, multiple disturbing details have now surfaced. The Justice Department released more than 3 million files in connection with a convicted sex offender on January 30th, 2026. After the DOJ released the files, multiple claims on social media accused Epstein of reportedly eating babies and engaging in cannibalism and in ritualistic sacrifice. A video dating back to 2009 has resurfaced showing a 21-year-old model Gabriela Rico being detained in Guadalajara while making claims about elites eating people, rituals and human sacrifices at an exclusive party. Since then the allegations gained traction through multiple posts circulating on social media platforms. One of the released documents alleged that babies were dismembered and their intestines removed claiming that some individuals even consume feces. The document also referenced George Bush 1 though it remains unclear whether this was meant to refer to a former US President George H.W. Bush. These claims however originated from unverified online accounts.
+
+</div>
 
 
 **[Zechariah 9:9-11](/bible/zechariah/9#v9)**  *[[2:49:25](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10165s)]*
@@ -677,6 +1138,17 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 - The counsel the Lord has taken against Edom and the inhabitants of Teman, another name for Edom: surely the least of the flock shall draw them out. The least of the flock is that tiny speck of Israel in the Arab world, and it draws Babylon and all nations out to fight, and he makes their habitations desolate with them.
 
 
+<div class="reading">
+
+Reading from a map, on the screen  *[[3:12:02](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11522s)]*
+
+> The green is the Arab world. That tiny speck is Israel.
+
+- That in the red? That's the least of the flock.
+
+</div>
+
+
 **[Joel 2:17-20](/bible/joel/2#v17)**  *[[3:12:41](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11561s)]*
 
 > <sup>[17](/bible/joel/2#v17)</sup> Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?
@@ -752,6 +1224,21 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
     > <sup>[10](/bible/revelation/18#v10)</sup> Standing afar off for the fear of her torment, saying, Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come.
 
     The kings of the earth bewail her when they see the smoke of her burning: alas, that great city Babylon, for in one hour is thy judgment come.
+
+
+<div class="reading">
+
+Reading from a list of nations by direction from Israel  *[[3:18:51](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11931s)]*
+
+> Here's a list of 30 countries organized by direction using Israel as a center.
+
+- Using Israel as the center. That's Ezekiel 5 and 5 that we read.
+
+> Including your requested countries. North: Turkey, Greece, Bulgaria, Romania, Serbia, Hungary, Slovakia, Poland, Ukraine, Belarus. South: Egypt, Libya, Tunisia, Algeria, Malta, Italy, Cyprus. East: Syria, Jordan, Iraq, Iran, Saudi Arabia, Pakistan, Afghanistan, India, China, Japan, slightly further east. West: France, United Kingdom, Britain, USA to the northwest across the Atlantic Ocean.
+
+- Y'all can slow the video at home down and write it down in your Bibles.
+
+</div>
 
 
 **[Zechariah 9:13-17](/bible/zechariah/9#v13)**  *[[3:24:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=12274s)]*

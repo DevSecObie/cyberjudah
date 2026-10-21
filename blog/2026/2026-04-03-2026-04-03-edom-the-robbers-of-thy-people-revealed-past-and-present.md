@@ -21,17 +21,7 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 
 ## In The News
 
-- *[[14:03](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=843s)]* **The anatomy and physiology workbook: the pink to red colour of Caucasian skin is caused by hemoglobin showing through skin with little melanin** — There is no such thing as white people; the so-called white man is pink to red because his blood shows through his skin, red when slapped, red when he cries, born red.
-- *[[47:21](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2841s)]* **The definition of the Horims or Horites: cave or hole, cave dwellers in the mountains of Seir** — Esau conquered cave dwellers and became a cave dweller, and Caucasian means cave dweller.
-- *[[1:22:55](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4975s)]* **The full genealogy of Haman in the rabbinic text: son of Stench, son of Robbery, son of Herod, son of Refuse, son of the Red One, son of Amalek, of Eliphaz, son of Esau** — The book itself makes Haman an Edomite, and the medieval chroniclers say expressly that Edom means the Roman Empire, the European powers; Jews and Arabs both regarded the Greeks and Romans as Esau, the elder brethren of the Israelites.
-- *[[1:27:08](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5228s)]* **Modern Judaism by John Allen, 1830, on what the rabbis taught about Edom** — The descendants of Esau are the sworn enemies of Jacob to the end of the world; a small nation confined to Seir while the twelve tribes ruled, they wonderfully increased after Assyria and Babylon, spread west, hold dominion over all Europe and detain Judah in captivity until Messiah ben David appears; the final vengeance for the second temple is yet impending, executed in the time of the Messiah, and the cities of Edom belong to Rome and the modern Christians.
-- *[[1:38:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5931s)]* **Sirach 50:26 in the other translations** — The Good News, New Revised Standard and New American Bibles read those who live in Seir, the Edomites, where the King James says they that sit upon the mountain of Samaria; the Greeks sat on Mount Gerizim in Samaria when Sirach was written.
-- *[[1:53:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6831s)]* **Sex and Race by J. A. Rogers: the reconstruction of Neanderthal man, the first known German** — No lips, big nose, big ears: who is the monkey? That is the first German, Edom, and Teman and Amalek are the same.
-- *[[1:55:39](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6939s)]* **The Wild Man: Medieval Myth and Symbolism, with the Luttrell Psalter and the Swiss wild man festival** — Hairy all over, naked, on all fours, living in tree trunks and caves, eating roots and raw meat, cannibals associated with werewolves, in the Alpine regions of Germany, Austria and Switzerland; that is Job 30 and Esau before the razor. Beside them the same manuscripts show us armoured in the castles, crowned, with spurs on our sandals and fringes with the ribbon of blue.
-- *[[2:04:55](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7495s)]* **History of the Conquest of Spain: the Goths fleeing the Moors into the Asturias, Pelayo's thirty men and ten women in the cave of Covadonga, and the birth of Castilian Spanish there** — We killed Edom down to thirty men living on honey from the crevices of the rock and let them gather strength; the Latin they spoke was lost in the caves and the Spanish language was born there, a cave language.
 - *[[2:09:24](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7764s)]* **The court of the King's Bench in the Great Hall at Westminster, and King James's grandson with his counsellors** — Black judges judging matters in England and a black king; we ruled Europe and were the kings and judges of the earth, and it has all been whitewashed.
-- *[[2:16:04](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8164s)]* **The Jewish Encyclopedia on the Khazars: King Bulan's conversion, Hasdai ibn Shaprut's letter, the tradition that the Khazars once dwelt near the Seir mountains, and the royal family that emigrated to Spain after the Russians and Byzantines conquered them** — The Khazars are the Israelis of today: Edomites the Jews taught Judaism in the mountains, who came from Seir and whose royal family became the conquistadors, taking Israel to be the Jews and the Americas to be Christians.
-- *[[2:22:56](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8576s)]* **Isaiah 34:5 in the NIV, NLT, ESV, Berean and New American Standard** — The people I have totally destroyed, the nation marked for destruction, the people I have devoted to destruction, designated for destruction: every version says what Edom's purpose is.
 - *[[2:40:07](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9607s)]* **A film clip: we must rob and spoil this land, this land will be ours by any means, and the state of Israel is born** — Played to close the class on the robbers of thy people.
 
 ## Scriptures Opened
@@ -105,6 +95,25 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 - Isaac loved Esau for his venison and Rebekah loved Jacob because the Lord had told her. Esau came in faint from a sun he was not built for and asked for the red pottage, so his name was called Edom, red, because he was already red himself.
 
 - He sold his birthright, the inheritance of Abraham's blessing and the kingdom, for lentils and bread, and despised it; the elder serving the younger was that birthright.
+
+
+<div class="reading">
+
+Reading from *The Anatomy and Physiology Workbook for Dummies*  *[[14:07](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=847s)]*
+
+> The pink to red color of Caucasian skin is caused by hemoglobin, the red pigment of the blood cells.
+
+- So, now we know what the white man is. The pink to red color of Caucasian skin. Not white, not off-white, not gray, not tan.
+
+- Hemoglobin is a fancy word for blood.
+
+> Because Caucasian skin contains relatively less melanin, hemoglobin can be seen more easily through the epidermis.
+
+- Melanin, but very, very little of it. That blood shows more so through their face cuz they lack melanin. So they are from pink to red because their skin is reflecting the pigmentation of their blood cells.
+
+- They're from pink to red. You slap in the face, they get red. They cry, they get red. They get angry, they get red. They laugh, they get red. They're born very red. Pink to red Caucasian skin, cuz their blood shows through their skin. Because you got to match what you shed.
+
+</div>
 
 
 **[Genesis 27:11-29](/bible/genesis/27#v11)**  *[[21:31](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=1291s)]*
@@ -260,6 +269,19 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
     Esau destroyed the Horims from before them and dwells in their stead unto this day: the conquered cave dwellers became cave dwellers.
 
 
+<div class="reading">
+
+Reading from a definition of the Horims or Horites, on the screen  *[[47:42](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2862s)]*
+
+> The Horims, or Horites, are an ancient biblical people whose name etymologically derived from the Hebrew word Hor or …, commonly understood to mean cave or hole. This indicates they were known as cave dwellers, or troglodytes, referring to their habitation in the mountains of Seir.
+
+- So these Hamites resided in the caves first. Esau went in, conquered cave dwellers and became cave dwellers. What does Caucasian mean? It means cave dweller. Edom became a cave dweller.
+
+- There's so many layers to this. But y'all up here know white man isn't Esau. Well, then who is he then? He's Japheth. The hell he is. Far from Japheth, far from it.
+
+</div>
+
+
 **[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[48:01](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=2881s)]*
 
 > <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
@@ -406,6 +428,126 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
     Haman, a Macedonian, a stranger from the Persian blood: Philip was the Macedonian, so Edomites and Macedonians are the same people, and Haman was an Edomite.
 
 
+<div class="reading">
+
+Reading from a book on Edom, p. 208  *[[1:23:17](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=4997s)]*
+
+> The translation, according to the correct text, is Haman, the son of Hammedatha, the Agagite, son of Stench, son of Robbery,
+
+- Son of Stench. Stink.
+
+> son of Paleth, son of Lysias, son of Florus, son of Fatticus, son of Flaccus, son of Antipater, son of Herod, son of Refuse, son of Decay,
+
+- Son of Refuse. Son of Garbage. Son of Decay. Destruction.
+
+> son of Permasta, son of Wazatha, son of Agag, son of the Red One, son of Amalek, of the … of Eliphaz, son of Esau.
+
+- That's what he is. That's what the book says. I didn't write it.
+
+</div>
+
+
+<div class="reading">
+
+Reading from the same book, p. 291  *[[1:24:22](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5062s)]*
+
+> Now, the medieval chroniclers say expressly that Edom means the Roman Empire, or the European powers.
+
+- So, Edom is the European powers. Let us rise up against her in battle. So, all the European powers.
+
+> The Jews are not children of Ishmael.
+
+- For you Muslims out there, we are not the children of Ishmael. We're the children of Israel.
+
+> They honor the younger son of Abraham. But both branches of the stock regard Esau, Edom, the Greeks and Romans, as elder brethren of the Israelites.
+
+- Ishmael's our older brother. Abraham had Ishmael first, then he had Isaac, and so on and so forth. So, both of them knew who Esau was, the Greeks and Romans.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a book on Edom, on the word Idumean  *[[1:25:56](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5156s)]*
+
+> Again, Idumean is used for Jewish in the phrase Idumaei …
+
+- Idumean is used for Jewish. Not Jew. Jewish.
+
+- Now, why is this word familiar? Syrophenicia. Remember that woman that Christ ignored? The Syrophenician woman. It called her a Greek in the Bible. That's her.
+
+- The Syrophenician woman that Christ is like, nah, the dogs. Even the dogs eat from the master's table. But I got your daughter healed, dog. He basically called her a b- I'm not going to say what he called her. You know what he called her. I'm not going to say it for the kids that's around.
+
+> And he also is made to use the word Idumean as equivalent to Jewish.
+
+- So, Idumean is equivalent to Jewish. Because Herod was Idumean, and he was Jewish.
+
+> Titus with his father married an Idumean …
+
+- Because they were Romans.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Modern Judaism* by John Allen, 1830, p. 31  *[[1:27:48](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5268s)]*
+
+> First, that the descendants of Esau, the sworn enemies of the descendants of Jacob, even to the end of the world,
+
+- Written by Jews in the Dark Ages, us. We call it rabbinical writings, regarding Edom.
+
+- They are our sworn enemies until the end of the world. That's why I said there will always be division. We will never get along with them, ever.
+
+> were at first a small nation, inhabited Mount Seir and the adjacent country, contiguous to the land of Canaan,
+
+- Next door to us.
+
+> that they were easily confined within their own limit as long as the Israelites enjoyed a great and formidable empire in Canaan,
+
+- We confined them within the mountains. You don't leave there. Stay up behind over there. Cuz they were evil as hell and wicked.
+
+- As long as you were ruling, we had them in subjection in the mountains there.
+
+> but that after the powerful republic of the 12 tribes was destroyed by the Syrians and Babylonians, they wonderfully increased in numbers and strength,
+
+- Syria conquered them first, then Babylon came afterwards.
+
+- By the sword.
+
+> extended their dominion towards the west, spread their colonies far and wide, subjugated Italy, founded Rome and the Roman Empire,
+
+- Italy, Greece, Rome. That's the west.
+
+> they hold the dominion over all Europe.
+
+- European powers. That's two of them books. Over all Europe. Eastern Europe, Western Europe, Britain, they run all of it. EU is them. NATO is them.
+
+> Esau detained in captivity his brother Jacob, at least as far as regards the tribe of Judah, till his Messiah ben David shall appear.
+
+- That they have us in captivity until now cuz Christ is not returned yet. So they're going to have their brother Jacob in captivity until Messiah, son of David, appears. This is war.
+
+- Is he in a bomb shelter, too? Is he dodging Iran's missiles, too?
+
+> Secondly, that the prophecies of the prophets against Esau, Edom, Seir, and the cities of Edom, especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment;
+
+- Edom has received punishments over time, but not the full judgment. Not yet.
+
+> for that though the house of Esau has experienced some particular judgments of God on account of the injuries at different periods of time inflicted upon Israel,
+
+- During Babylon.
+
+> yet the final vengeance on account of that last and greatest injury, the destruction of the second temple by Titus and the transportation of the Jews into captivity, in which they are still most opprobriously detained, is yet impending over it, executed in the time of the Messiah, that is the foretold by the prophets in all their denunciations of the severest plagues against the house of Esau.
+
+- All the most severest punishments of God are upon Edom. Out of all the nations on the earth, Edom is promised from all the prophets the most severest punishments possible.
+
+> The cities of Edom and Mount Seir, which all belong to Rome and the Christians, or modern Christians.
+
+- That's all I want, modern Christians. That's all I need.
+
+</div>
+
+
 **[Wisdom of Solomon 7:17-18](/bible/wisdom-of-solomon/7#v17)**  *[[1:32:33](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5553s)]*
 
 > <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
@@ -424,7 +566,34 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 - Two of them shall perish, the middle time approaching: Didius Julianus and Pertinax, the Roman emperors killed out of the way in 193 AD when Septimius Severus, a black man, took Rome. Once they fell the middle time began, and blacks ruled Europe and the Byzantine Empire for over a thousand years, evil Negroes with crowns on for the most part.
 
 
-**[Revelation 13:1-4](/bible/revelation/13#v1)**  *[[1:38:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5931s)]*
+<div class="reading">
+
+Reading from other translations of Sirach 50:26, on the screen  *[[1:39:41](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=5981s)]*
+
+> Good News Translation: These are the …, the inhabitants of the Philistine cities, and the stupid Samaritans.
+
+- If it go with the KJ, I deal with it. If it don't, I ignore it. Other versions I don't care for, but other versions support the KJV, I'll deal with it.
+
+- Remember, the Greeks are the ones that sat upon Samaria when they built the temple there in Gerizim.
+
+- He didn't like the old kingdom too much. It got on his nerves, like it does now.
+
+> New Revised Standard Version: Those who live in Seir, and the Philistines,
+
+- That's Edom again.
+
+> Contemporary English Version: And I also hate the people of Shechem. Those fools are unworthy to even be called a nation.
+
+- They cut the Edom part out of it on purpose.
+
+> New American Bible: The inhabitants of Seir … and Philistia
+
+- Seir, Edom. But it said they sat on Samaria. So that the inhabitants of Seir sat on Samaria when they were the Greeks, when they wrote Sirach.
+
+</div>
+
+
+**[Revelation 13:1-4](/bible/revelation/13#v1)**  *[[1:40:45](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6045s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
@@ -470,6 +639,156 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 - They cut up mallows and juniper roots for meat, driven forth from among men and cried after as thieves, to dwell in the cliffs of the valleys, in caves of the earth and in the rocks; among the bushes they bray, making animal noises. Children of fools, children of base men, men of no name, viler than the earth: ask Epstein.
 
 - And now am I their song and their byword; they abhor me, flee from me and spare not to spit in my face. They mock us as kushi and schwartzer, and we have seen them spit and vomit in a sister's face. To go from the caves to this they must have a god, and the dragon gave them his power.
+
+
+<div class="reading">
+
+Reading from *Sex and Race*, Volume Three, by J. A. Rogers, p. 320  *[[1:54:42](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6882s)]*
+
+> The palaeanthropus or prehistoric man of Palestine.
+
+- Whatever the hell that is. No, that's nonsense.
+
+> Reconstruction of Neanderthal man, or the first known German.
+
+- Europeans. First known German, Neanderthals. German, Edom. Teman, really. Or Israelis, same thing. Teman, Amalek, y'all same thing. That's you.
+
+- No lips, big old nose. Did y'all call us monkeys though? We're the monkeys. Look at his ears, look at his nose and mouth. No lips, big old nose, and big old ears. Who the monkey again? Is it us? Nah. Y'all.
+
+- Paul Mooney made that joke about them being monkeys, not us.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Wild Man: Medieval Myth and Symbolism* by Timothy Husband  *[[1:55:51](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=6951s)]*
+
+> The capture of a wild man. Photograph of a scene from …, performed at …, Switzerland, 1976.
+
+- On all fours. See, on all fours here.
+
+> Wild man, detail of manuscript illumination from the Luttrell Psalter. England, 1335 to 1340. London, the British Library.
+
+- Record of their ancestry. This is their history here. We was in castles, ruling, sitting down in thrones, wearing gold, and armor on. This is what they were doing. We was monkeys throwing spears? No. Y'all was monkeys on all fours. That's what y'all was doing. We was in the castles.
+
+- This is us. This is our side. This is how we was dressed. Look at the armor. Armor up from head to toe.
+
+- That's Saint Maurice with the hat to the side again.
+
+- Look at the crown to the side. Look at the cape. Got the sword right there. Got the fringes hanging right there. Got the red and the blue, gold, the rubies, the blue and the stars on the sandals.
+
+- Look at the spurs on the sandal. The cape laying on the floor. Got jewels in the fringes. The ribbon of blue in the middle. So, he got to conquer these dudes and make them forget all of this.
+
+- Man and wife, babies. No clothes on. This is them. That's their culture.
+
+- That's them eating someone. It's a cannibal. That's them. They're eating people. Nothing new. It's what they do.
+
+- That's them attacking us. See us in the castles there? That's us there in the castle with a crown on, dark, with arrows and clothes on.
+
+> Thought to live in remote, mountainous, and forested regions,
+
+- This is Job.
+
+> the wild man especially flourished in the wooded or Alpine regions of the German-speaking lands, such as the … and Allgäu mountains of Germany,
+>
+> the Alpine regions of Carinthia and the Tyrol, Austria, and Graubünden and Wallis in Switzerland. In many such areas, the myths have revived to this day, still celebrated in festivals, masquerades, and dramas. Not limited to these regions, however, the wild man myth thrived throughout Western and Central Europe.
+
+- Germany. Remember the first German? So, now caveman.
+
+> Thought to crawl around on all fours, he scratched tubers and roots from the ground,
+
+- That's juniper roots. That's Job 30 again.
+
+> picked berries and gnawed on verdure. When he killed game, he ate it completely raw,
+
+- Raw meat.
+
+> according to Chrétien de Troyes, but by many accounts, the wild man also indulged in cannibalism.
+
+- Epstein Island. I'm telling you.
+
+> By the 16th century, this habit brought him into association with werewolves and other flesh eaters.
+
+- Now I know where werewolves come from. That's why you watch the movie Underworld. They got pale skin and blue eyes. When you watch Game of Thrones, the Night King had pale skin and blue eyes. That's them, werewolves.
+
+- It's always them. Werewolves. That's your history. It's your culture. We on thrones, kings. Y'all in the caves. That's what it is.
+
+- Bigfoot, Yeti, that's them, too. Even a caveman can do it. He did. He dropping bombs. Doing it right now.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *History of the Conquest of Spain*, Volume One  *[[2:05:35](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7535s)]*
+
+> The Spanish Goths, at first impelled by the simple instinct of self-preservation,
+
+- Trying to survive. The white man trying to survive.
+
+> had fled in all directions before the fiery march of the Muslims after the first fatal battle in the plains of …
+
+- Muslims. That was us, the Moors.
+
+> … Some have passed the Pyrenees to join their kinsmen in Septimania,
+
+- That's France. South France.
+
+> and others had hidden in the mountain valleys of the great chain barrier. A considerable number, variously stated, had collected in the intricate territory of the Astures and in Galicia.
+
+- Mountains.
+
+- Pelayo was the one that survived. He was one of the descendants of the survivors, and he was responsible for them. Pelayo raised up and started fighting back.
+
+> There his followers went on dying through hunger until he saw their number reduced to about 30 men
+
+- We killed them down to how many? 30 men and 10 women. We killed Edom down to 30 men and 10 women. This is war.
+
+> … having no other food for support than the honey which they gathered in the crevices of the rock.
+
+- Just Job 30.
+
+> The Muslims were made acquainted with their preparations, but perceiving how few they were,
+
+- There's only a few of them left.
+
+> they heeded not the advice conveyed to them and allowed them to gather strength, saying, What are 30 barbarians perched upon a rock? They must have inevitably die.
+
+- We didn't do it. And they all rose up. From 30 to this.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *History of the Conquest of Spain*, Volume One, p. 410  *[[2:07:58](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7678s)]*
+
+> It is also worthy of special observation that in the cave of Covadonga we may faintly discern the origin of the modern Spanish language.
+
+- That's the Spanish mountains caves. Covadonga.
+
+> In the words of Ticknor, "There, indeed, the purity of the Latin tongue which they had spoken for so many ages
+
+- They were Romans. They spoke Latin.
+
+> was finally lost through the neglect of its cultivation,
+
+- In the caves making noises. They became barbaric.
+
+> which was a necessary consequence of the miseries that had oppressed them,
+
+- So, they lost the Latin language in the caves.
+
+> the numerous dialects of the countries of fugitive
+
+- They start making up more new words to speak.
+
+> were combined into one and gave beauty and variety to that noble Castilian."
+
+- So, noble Castilian Spanish is the Latin that they taught themselves in the caves. So, you Hispanic, you love that Spanish language? That's cave language, literally. Cave language.
+
+</div>
 
 
 **[Job 9:24](/bible/job/9#v24)**  *[[2:08:35](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7715s)]*
@@ -527,6 +846,59 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
     Those of the synagogue of Satan who say they are Jews and do lie will be made to come and worship before thy feet and to know that I have loved thee: the real Jews are obviously not them.
 
 
+<div class="reading">
+
+Reading from the Encyclopedia, Volume 4, on the Khazars  *[[2:16:37](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8197s)]*
+
+> Some centuries ago, King Bulan reigned over the Khazars. To him, God appeared in a dream and promised him might and glory. Encouraged by this dream, Bulan went by the road of Durban to the country of …
+>
+> Bulan invited also wise men of Israel and proceeded to examine them all.
+
+- A Muslim, a Jew, and a Christian he invited to teach him which is the true religion.
+
+> As each of the champions believed his religion to be the best, … King Bulan separately questioned the Mohammedans and the Christians as to which of the other two religions they considered the better. When both gave preference to that of the Jews, that king perceived that it must be the true religion. He therefore adopted it.
+>
+> Hasdai ibn Shaprut, who was foreign minister to Abd-al-Rahman, Sultan of Cordova,
+
+- This is a Jew that was an ambassador of a sultan.
+
+> in his letter to King Joseph of the Khazars, about 960, relates that the first information about that kingdom was communicated to him by envoys from Khurasan, and that their statements were corroborated by the ambassador from Byzantium.
+
+- So, he wrote a letter to Khagan Bulan.
+
+- So, he heard things about the Khazars that resided in this area. Now, Khazaria is modern-day Ukraine today.
+
+> The latter told him that the powerful Khazars were maintaining amicable relations with the Byzantine Empire, with which they carried on by sea a trade in fish, skins, and other wares, the voyage from Constantinople occupying 15 days.
+
+- Amicable relations. They were cool with the Roman Empire.
+
+> Taking a keen interest in everything relating to the kingdom of the Khazars, Hasdai begs the king to communicate to him a detailed account of the geography of his country, of its internal constitution, of the customs and occupations of its inhabitants, and especially of the history of his ancestry, and of the state …
+
+- So, he had questions. These Khazars became your Israelis today. This is their history right here. They converted these, or Europeans that converted to Judaism, cuz the Jews taught them Judaism in the mountains over there.
+
+- Hasdai had knowledge of their history, of their ancestry. He had questions based upon what he heard.
+
+> In this letter, Hasdai speaks of the tradition according to which the Khazars once dwelt near the Seir mountains.
+
+- So, the Khazars came from the Seir Mountains. Who was in the Seir Mountains? What nation was there?
+
+> Four years later, the Russians conquered all the Khazarian territory east of the Sea of Azov. Only the Crimean territory of the Khazars remained in their possession until 1016, when they were dispossessed by joint expedition of Russians and Byzantines.
+
+- Or Varangians, they conquered the Khazar Empire. They got overthrown.
+
+> The last of the Khagan, George Tsul, was taken prisoner. Some of the Khazars took refuge in the island of the Caspian Sea of Khorezm. Others retired to the Caucasus.
+
+- Khagans are Khazarians.
+
+- Seir Mountains.
+
+> Many members of the Khazarian royal family emigrated to Spain.
+
+- And became conquistadors. They came to this side of the world and conquered us on this side of the world. We're going to take over Israel and be the Jews. We're going to take over the native Americans over there in Israel and be Christians. That's what they did. They became conquistadors.
+
+</div>
+
+
 **[Isaiah 34:1-8](/bible/isaiah/34#v1)**  *[[2:21:23](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8483s)]*
 
 > <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
@@ -547,7 +919,7 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 
 - The indignation of the Lord is upon all nations and his fury upon all their armies; their slain cast out, the mountains melted with blood, the host of heaven dissolved and the heaven rolled together as a scroll: nuclear destruction, and the host falling like leaves and figs are the missiles.
 
-- My sword shall be bathed in heaven, where Edom is, the ruling kingdom of today, and it shall come down upon Idumea and upon the people of my curse to judgment. Every other version reads the people devoted, marked or designated for destruction; that is their purpose.
+- My sword shall be bathed in heaven, where Edom is, the ruling kingdom of today, and it shall come down upon Idumea and upon the people of my curse to judgment.
 
 - The Lord hath a sacrifice in Bozrah, the capital of Edom, and a great slaughter in the land of Idumea, the land of Israel today; their land soaked with blood, for it is the day of the Lord's vengeance and the year of recompenses for the controversy of Zion.
 
@@ -564,6 +936,31 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
     > <sup>[3](/bible/zechariah/12#v3)</sup> And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.
 
     The controversy of Zion: Jerusalem a burdensome stone to all that burden themselves with it, and the Israelis holding and expanding a land that does not belong to them are being cut in pieces by it.
+
+
+<div class="reading">
+
+Reading from Isaiah 34:5 in other versions, on Bible Hub  *[[2:22:59](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8579s)]*
+
+> NIV: My sword has drunk is filled in the heavens; see, it descends in judgment on Edom, the people I have totally destroyed.
+
+- People I have totally destroyed. It's going to destroy them all.
+
+> NLT: And when my sword is finished its work in the heavens, it will fall upon Edom, the nation I have marked for destruction.
+
+- Nation marked for destruction.
+
+> English Standard Version: For my sword has drunk its fill in the heavens; behold, it descends for judgment upon Edom, upon the people I have devoted to destruction.
+
+- Upon the people he has devoted to destruction. That's their purpose, to be destroyed.
+
+> BSB: When my sword has drunk its fill in the heavens, then it will come down upon Edom, upon the people I have devoted to destruction.
+>
+> New American Standard Bible: For my sword has drunk its fill in heaven. Behold, it shall descend for judgment upon Edom and upon the people who I have designated for destruction.
+
+- Whom I have designated for destruction.
+
+</div>
 
 
 **[Zechariah 14:1-11](/bible/zechariah/14#v1)**  *[[2:27:32](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=8852s)]*
