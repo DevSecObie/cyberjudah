@@ -10,7 +10,7 @@ export const Route = createFileRoute("/truth-shall-make-you-free")({
   validateSearch: validateBrowse,
   loader: async () => {
     const [allRows, topics] = await Promise.all([api.classes(), api.topicLabels()]);
-    return { rows: allRows.filter((row) => row.collection === COLLECTION), topics };
+    return { rows: allRows.filter((row) => row.collection?.startsWith(COLLECTION)), topics };
   },
   head: ({ match }) => pageHead([
     { title: "The Truth Shall Make You Free · CyberJudah" },

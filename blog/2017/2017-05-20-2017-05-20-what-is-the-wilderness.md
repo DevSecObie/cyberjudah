@@ -1,0 +1,357 @@
+---
+title: "WHAT IS THE WILDERNESS?"
+slug: "2017/2017-05-20-what-is-the-wilderness"
+date: "2017-05-20"
+teacher: "Bishop Nathanyel"
+collection: "The Truth Shall Make You Free · Kente FM Radio"
+description: "The Truth Shall Make You Free · Kente FM Radio · 2017-05-20"
+tags: ["IUIC in the ClassRoom", "christ", "gossip", "sexual-purity"]
+---
+
+<p class="taught">The Truth Shall Make You Free · Kente FM Radio · 2017-05-20 · Bishop Nathanyel</p>
+
+<span class="opens"><b>Opens</b> [Zeph 3](/bible/zephaniah/3) · [1 Cor 10](/bible/1-corinthians/10) · [Acts 7](/bible/acts/7) · [Isa 28](/bible/isaiah/28) · [1 Cor 5](/bible/1-corinthians/5) · [1 Cor 6](/bible/1-corinthians/6) · [John 3](/bible/john/3) · [Ezek 20](/bible/ezekiel/20) · [Matt 24](/bible/matthew/24) · [1 Cor 13](/bible/1-corinthians/13) · [Titus 2](/bible/titus/2)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="2KpqOAuQTFY"></div>
+
+## Introduction
+
+*[[0:58](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=58s)]* Today we're going to talk about the wilderness, a topic that churches really don't speak too much about or even know about. Paul in 1 Corinthians 10 says the things that occurred in the wilderness were written for an example for us upon whom the ends of the world are come, and Ezekiel 20 reveals that when the Lord gathers the scattered Israelites out of the countries, he is going to take us back to the wilderness and plead with us face to face.
+
+## Scriptures Opened
+
+**[Zephaniah 3:8-9](/bible/zephaniah/3#v8)**  *[[5:47](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=347s)]*
+
+> <sup>[8](/bible/zephaniah/3#v8)</sup> Therefore wait ye upon me, saith the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.
+>
+> <sup>[9](/bible/zephaniah/3#v9)</sup> For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent.
+
+- This argument keeps coming up from these foolish Israelites in America that in order to be saved you must speak Hebrew. What scripture says you have to learn Hebrew for salvation? I've never read it.
+
+- The scriptures say Israel was scattered in all nations and tongues, so we all speak various languages and have different customs, and we have to come back to the Bible.
+
+- Has God gathered the nations to pour upon them his fierce wrath yet? He has never done it yet, because as I can see the Beast is still operational.
+
+- After he destroys the Beast and the nations he's going to return to us all the pure language. In Genesis chapter 11 it said the whole earth was of one language; the Lord is going to do that again. Right now we all do not have the pure language yet.
+
+- Even Hebrew is a corrupt language today. Eliezer Ben-Yehuda corrupted it; he introduced German dialect, Arabic dialect, Russian dialect into the ancient Hebrew.
+
+- When we learned the name here in America we learned his name in the Hebrew as Yahawah; in the English we say Jehovah. Now you got brothers rising up fighting each other about what is the true name, the pure name. Stop fighting about that; he will give it to us all when he returns.
+
+- **Host:** When the Assyrians conquered northern Israel, those who escaped the sword came to Africa from beyond the rivers of Ethiopia, still doing the Mosaic worship. Even during the Independence Day of Ghana the traditional people dress in white apparel with fringes on it and pour the libation; the custom is still there, but it has been corrupted.
+
+- Everybody here in America is fighting each other, these young stupid black guys like gang wars: one gang says Yahweh, another says Yahawah. We're all trying to get to the kingdom, but you fools, you idiots, are fighting each other almost to the point of physical violence. They're like Bloods and Crips out here.
+
+- **Host:** Even if we are fighting over the name, we should fight over the righteousness which is written in the book.
+
+
+**[1 Corinthians 10:1-4](/bible/1-corinthians/10#v1)**  *[[11:39](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=699s)]*
+
+> <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
+>
+> <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
+>
+> <sup>[3](/bible/1-corinthians/10#v3)</sup> And did all eat the same spiritual meat;
+>
+> <sup>[4](/bible/1-corinthians/10#v4)</sup> And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.
+
+- Corinth is located in Greece, and modern-day Christianity teaches us that the Corinthians were Greek white people, but as we read we're going to find out who they are.
+
+- He's speaking to the Corinthians: all our fathers were under the cloud and were all baptized unto Moses. The Corinthians could not have been Caucasian Greek white people, because Caucasian Greek white people were not with Moses. This proves the Corinthians are Israelites.
+
+- That rock was Christ: Paul is revealing that Christ was the one dealing with Moses and the Israelites all that time, the one dealing with us in the wilderness.
+
+- People glorify water baptism, but did Moses dip anybody in the water? You don't read about Moses dipping millions of Israelites one by one in the water. He baptized them with the word of God in their spirit; he taught them. That's the baptism Moses did.
+
+
+**[Acts 7:30-32](/bible/acts/7#v30)**  *[[14:34](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=874s)]*
+
+> <sup>[30](/bible/acts/7#v30)</sup> And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
+>
+> <sup>[31](/bible/acts/7#v31)</sup> When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,
+>
+> <sup>[32](/bible/acts/7#v32)</sup> Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
+
+- Notice in Acts he said the angel of the Lord, meaning the messenger of the Lord, was in the bush.
+
+- When we go back to 1 Corinthians 10:4, they drank of that spiritual rock that followed them, and that rock was Christ. Christ has been the one dealing with us all this time.
+
+
+**[Isaiah 28:11](/bible/isaiah/28#v11)**  *[[16:57](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1017s)]*
+
+> <sup>[11](/bible/isaiah/28#v11)</sup> For with stammering lips and another tongue will he speak to this people.
+
+- **Host:** We call him Yesu.
+
+- In America the dumb black Americans over here are fighting over Yahawashi, Yahoshua and whatever names they have, and I mean fighting.
+
+- That's prophetic: the Israelites would be scattered into all nations and learn different languages, speak different languages, so we have to speak and teach our people in the language that they know.
+
+- My native language here is English; the majority of the people speak a form of English, so I speak to them in English. Why do I need to learn Hebrew to teach you a form of Hebrew that you do not understand? It doesn't make sense.
+
+- **Host:** The whole case in Acts chapter 2 is another example: you speak to someone in a language the person does not understand, it doesn't make sense.
+
+- Why can't our people here in America get it? I don't know if they're using drugs over here; I don't know what's wrong with them.
+
+
+**[1 Corinthians 10:5-8](/bible/1-corinthians/10#v5)**  *[[19:01](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1141s)]*
+
+> <sup>[5](/bible/1-corinthians/10#v5)</sup> But with many of them God was not well pleased: for they were overthrown in the wilderness.
+>
+> <sup>[6](/bible/1-corinthians/10#v6)</sup> Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
+>
+> <sup>[7](/bible/1-corinthians/10#v7)</sup> Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.
+>
+> <sup>[8](/bible/1-corinthians/10#v8)</sup> Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
+
+- Paul is letting us know the things that occurred in the wilderness were meant for an example for us today, and as we read down Paul is going to reveal a mystery of something future tense, that is for to come still.
+
+- One of the first things he warns us about is idolatry, us worshipping foreign gods: for example the Islamic god, the black cobblestone, and the white image of Jesus that is worldwide. Those are two of the largest religions, followed by Buddhism and many other variations of foreign gods that our people have gone into.
+
+- He warns us as an example that our forefathers did that same sin in the wilderness.
+
+- Many people don't understand what fornication is.
+
+
+**[1 Corinthians 5:1](/bible/1-corinthians/5#v1)**  *[[20:55](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1255s)]*
+
+> <sup>[1](/bible/1-corinthians/5#v1)</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
+
+- It gives an example of fornication: having sex with your stepmother, your father's wife, is fornication.
+
+- Those types of sins are recorded in Leviticus chapter 18, all the incestuous sexual errors that our people fell into.
+
+
+**[1 Corinthians 6:15-18](/bible/1-corinthians/6#v15)**  *[[21:56](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1316s)]*
+
+> <sup>[15](/bible/1-corinthians/6#v15)</sup> Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.
+>
+> <sup>[16](/bible/1-corinthians/6#v16)</sup> What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.
+>
+> <sup>[17](/bible/1-corinthians/6#v17)</sup> But he that is joined unto the Lord is one spirit.
+>
+> <sup>[18](/bible/1-corinthians/6#v18)</sup> Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
+
+- He's talking about dealing with prostitutes, having sex with a woman who's not your wife.
+
+- It says flee fornication, period. Dealing with a harlot is another form of fornication; having sex with a woman who is not your wife is fornication. Many of our brothers even to this day are dealing with women that they know is not their wife, but they're having sexual relations with them. That is fornication.
+
+- In the New Testament they gave you two types of fornication: one dealing with your stepmother, and another dealing with a prostitute or any woman that is not your wife.
+
+- There's many other forms of fornication. To sum it up, it is sexual immorality: homosexuality falls under that, bestiality falls under that, having sex with your children or a child falls under that as well. Leviticus 18 is a very good in-depth chapter that deals with all the forms of fornication, all the sexual sins.
+
+
+**[1 Corinthians 10:8-9](/bible/1-corinthians/10#v8)**  *[[25:09](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1509s)]*
+
+> <sup>[8](/bible/1-corinthians/10#v8)</sup> Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
+>
+> <sup>[9](/bible/1-corinthians/10#v9)</sup> Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
+
+- They fell in one day three and twenty thousand: God killed them. That's what happened.
+
+- Tempting Christ and being destroyed of serpents is when the Lord sent those poisonous snakes to bite and kill the Israelites, and he told Moses to make a serpent of brass and hold it up, that whosoever of the Israelites would look upon the brass serpent should be healed.
+
+- That is the same thing Christ quoted in John chapter 3: even as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up.
+
+
+**[John 3:14-16](/bible/john/3#v14)**  *[[26:05](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1565s)]*
+
+> <sup>[14](/bible/john/3#v14)</sup> And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
+>
+> <sup>[15](/bible/john/3#v15)</sup> That whosoever believeth in him should not perish, but have eternal life.
+>
+> <sup>[16](/bible/john/3#v16)</sup> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+- He's comparing him being lifted up to the same way Moses lifted up the serpent in the wilderness, that whosoever of the Israelites believed would be healed. Christ is letting Nicodemus know the same thing Moses did during his time is happening during this time of Nicodemus.
+
+- The whosoever, when you go back to Moses, was not all nations, all races; it was whosoever of the Israelites.
+
+- Those three verses are all going together, so the world that he's making reference to is the world of Israel. The word world means a group of people or a society of people having common goals, interests and aims.
+
+- Many times we only like the one definition of the planet Earth, but this is talking about the world of the Israelites. You have the world of the Chinese, a totally different world; the world of Rome; the sports world, the animal world.
+
+- **Host:** When a word is in isolation it has a different meaning, but when it appears in a context that is another meaning; sometimes the cultural context is the most important thing.
+
+  Precepts:
+  - **[Numbers 21:9](/bible/numbers/21#v9)**
+    > <sup>[9](/bible/numbers/21#v9)</sup> And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
+
+    Where the actual occurrence is: Moses made a serpent of brass, and whosoever of the Israelites looked upon it was healed.
+
+
+**[1 Corinthians 10:9-11](/bible/1-corinthians/10#v9)**  *[[28:37](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1717s)]*
+
+> <sup>[9](/bible/1-corinthians/10#v9)</sup> Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
+>
+> <sup>[10](/bible/1-corinthians/10#v10)</sup> Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.
+>
+> <sup>[11](/bible/1-corinthians/10#v11)</sup> Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
+
+- We went to John 3 because of the fiery serpents, to show you the context.
+
+- To murmur is to speak evil, but you say it secretly, in the form of backbiting. Many of the Israelites were speaking evil against the servants of God, against Moses and Aaron, who were set up to help lead the people. You had men like Dathan, Korah and On, who rallied Israelite princes against Moses, and God killed them, their wives and children. It's hard, terrible history, but Paul said this was written for us to learn from, not to murmur.
+
+- When Moses gave the law the people were murmuring against the laws, and they were attacking Moses.
+
+- Today we bring out the laws of the Most High, explaining men should not dress like women and women should not dress like men, and people murmur: oh you guys are making things up, who do you think you are. You're murmuring against God's laws; you're not murmuring against me.
+
+- The law says when you have sex with a woman that is not your wife, that is fornication, you will be judged. They murmur, oh you guys are oppressing. No, we're trying to liberate you, set you free from the spiritual bondage and physical bondage that we are in. The lifting of the oppression will begin spiritual first, then it will become physical: the liberation, the deliverance, the redemption. God wants us to conform our spirits to his laws.
+
+- They were written for our admonition: the word admonition means correction, for our correction. Upon whom the ends of the world are come: from that time until now we have come to the point of the ends of the world.
+
+
+**[Ezekiel 20:33-34](/bible/ezekiel/20#v33)**  *[[31:17](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=1877s)]*
+
+> <sup>[33](/bible/ezekiel/20#v33)</sup> As I live, saith the Lord God, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:
+>
+> <sup>[34](/bible/ezekiel/20#v34)</sup> And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
+
+- Many people think that when the Lord, whom everyone calls Christ, returns, he's going to be this meek-mouthed, soft-spoken, I love everybody God. No, that's a falsehood. The Bible says he will rule over us with fury poured out. He's not coming back for hugs and kisses; this is what Christianity has not taught the people and refuses to teach.
+
+- I will rule over you: the you is the Israelites.
+
+- Bringing us out from the people and gathering us out of the countries wherein we are scattered, that right there is what the church calls the Rapture. The Lord is going to bring the scattered Israelites out of all the countries.
+
+- We were not brought to these lands to live forever and dominate; we were brought here to suffer, so that we can learn to repent and then be delivered. I told the brother from Biafra, Nigeria is not the motherland; Jerusalem, the land of Israel, is the motherland, and it is larger than it appears on the map.
+
+- Donald Trump, the United States of America, just dropped a bomb on Afghanistan, and the name is MOAB. They said it was going to be used for China, so that lets you know they know who Moab is: Moab is the ancient name of the Chinese people. They used it instead on Afghanistan to destroy the tunnels that ISIS has dug underground.
+
+- These wars will escalate and escalate; it's not going to stop. Wars and rumours of wars will escalate until World War Three, and then will Messiah return. The Rapture is going to be for the Israelites, and 1948 was a scam, when the League of Nations set the white man in Israel as the Israelis, as the Jewish people. That is not what the scriptures prophesy for us.
+
+
+**[Matthew 24:29-31](/bible/matthew/24#v29)**  *[[36:21](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=2181s)]*
+
+> <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
+>
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+>
+> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+
+- This is the same thing Christ said; here's the precept.
+
+- It's talking about war. When it says the stars shall fall from heaven, it's referring to the satellites they have around the earth, because if actual stars hit the earth the earth would blow up. It's the hardware that America, Russia, China, Japan have throughout the global atmosphere around the earth; those are the stars that will fall from heaven.
+
+- Then shall all the tribes of the earth mourn: that's us.
+
+- He shall send his angels and gather together his elect from one end of heaven to the other: that's what we just read in Ezekiel 20. We're not going to be delivered on boats and planes; the Lord said I'm going to send my angels. That's why this deliverance will be the greatest deliverance that earth has ever seen, greater than from the time of Moses.
+
+
+**[Ezekiel 20:34-35](/bible/ezekiel/20#v34)**  *[[38:33](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=2313s)]*
+
+> <sup>[34](/bible/ezekiel/20#v34)</sup> And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
+>
+> <sup>[35](/bible/ezekiel/20#v35)</sup> And I will bring you into the wilderness of the people, and there will I plead with you face to face.
+
+- Matthew 24 is saying the same thing as verse 34.
+
+- When we are delivered, the prophecy is he's going to take us back to the wilderness. This is why Paul was saying these things were written for an example to all of us: when the Lord brought us into the wilderness under Moses, Paul was warning us it's going to happen again.
+
+- Notice it says I will plead with you face to face.
+
+
+**[1 Corinthians 13:12](/bible/1-corinthians/13#v12)**  *[[39:34](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=2374s)]*
+
+> <sup>[12](/bible/1-corinthians/13#v12)</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
+
+- For now we see through a glass darkly: the glass is really talking about the Bible; we have the understanding darkly. But then face to face: that's what we just read in Ezekiel 20.
+
+- Everything the Apostle Paul said was based on the Old Testament scriptures, so you cannot throw away the Old Testament; you need it to give you further in-depth understanding of what Paul is saying.
+
+- **Host:** We keep on calling this the Old Testament, and that is what is causing the problem; we have to say the instruction of Moses. When I gave a quotation in Deuteronomy on tithe to a Christian brother, that was his reaction; and some say just read the words in red that came out of the mouth of Christ.
+
+- The New Testament is an abbreviated summary of the Old Testament prophecies. If you ask people what it means, then face to face, they will not be able to accurately explain what Paul is making reference to; nor could they explain from 1 Corinthians 10 that we will return to the wilderness as Ezekiel 20 explains in further detail.
+
+- You need both Testaments to get a better understanding of what is to come. This is what our people do not understand, because they've been following white man lies.
+
+
+**[Ezekiel 20:35-38](/bible/ezekiel/20#v35)**  *[[43:42](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=2622s)]*
+
+> <sup>[35](/bible/ezekiel/20#v35)</sup> And I will bring you into the wilderness of the people, and there will I plead with you face to face.
+>
+> <sup>[36](/bible/ezekiel/20#v36)</sup> Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord God.
+>
+> <sup>[37](/bible/ezekiel/20#v37)</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
+>
+> <sup>[38](/bible/ezekiel/20#v38)</sup> And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
+
+- That's why Paul said, I'm giving you warning, remember our forefathers with Moses: because we're going back to the wilderness again, and Christ will plead with us face to face. Everything we see darkly and don't really have the full understanding of, Christ is going to give it to us: not only the pure language again, but the history all over again in totality, like the book of Jasher or the book of Enoch that we don't really understand.
+
+- We're going to be brought back to the covenant, which is what we call now the New Covenant under Christ. Right now we are under grace; when we are brought under the bond of the covenant under Christ, play time is over. Grace is finished. That's why he said I will rule over you and cause you to pass under the rod.
+
+- I will purge out from among you the rebels: just like under Moses you had rebellions, it's going to happen again. When Christ gives us the law you're going to have certain men and women murmur and say let's go back to Babylon, just like they wanted to go back to Egypt: oh remember McDonald's, remember Burger King, remember the Coke and the Pepsi.
+
+- It's no more grace. We can't say oh my boss made me do this; Christ will be the boss, so we will have no excuse for nothing.
+
+- I will bring them forth out of the country where they sojourn: our people in Ghana, America, Belgium, India, wherever we are, he's going to bring us out and bring us to the wilderness. From the wilderness under Moses, Moses died and Joshua led us into the land of the promise; it's going to happen again under Christ. But before we get to the land he's going to do a lot of killing amongst us, because some of us ain't right; some of us are so rebellious.
+
+- **Host:** In the book of Acts they rebelled against the Holy Spirit, and Isaiah also said the same thing.
+
+- Paul did not write 1 Corinthians 10 for no reason; he understood we're going back again. Upon whom the ends of the world have come means us living. The dead in Christ shall rise first, so even those of us who die in this truth are going to be resurrected first and taken to the wilderness with Christ and the other Israelites.
+
+- Don't get comfortable in the lands where we sojourn. Our people in Nigeria, that is not the land the Lord is going to bring us to; that is not the motherland. Our people here in America love Babylon; that's why they call it Babylon the great. This country is the greatest and most powerful country on earth, but it is the most wicked. We're going to return to the motherland, and the capital of the earth will be Jerusalem.
+
+- **Host:** In Isaiah 2, all the laws our forefathers failed to observe, Christ is going to give us the same law, but this time with iron hands: from Zion shall go forth the law.
+
+- **Host:** We tend to the miracles that are happening in the church today, and teaching like this is nowhere to be found; we feel comfortable and we play games and sing songs so that we don't have to deal with the realness of the Bible.
+
+- If we want salvation we have to deal with the reality of the Bible. The Bible's a real book; our people were scattered in slavery.
+
+
+<div class="reading">
+
+Reading from *Encyclopedia of the Jewish Diaspora* by M. Avrum Ehrlich, volume two, page 454  *[[51:19](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=3079s)]*
+
+> Migrations into sub-Saharan Africa. In latest centuries Jews are believed to have settled in Western Africa during the height of the Songhai, Mali, Ghana and Kanem-Bornu empires. According to accounts from explorers of the region, several powerful Jewish families of the Songhai empire were of Jewish origin until Askia Muhammad came to power and in 1492 decreed that all Jews either convert to Islam or leave the region.
+
+- Watch what these devils say, because the white man's a devil.
+
+- So the white man knows that our people along the western coast of Africa are the Israelites, are the Jews the Bible speaks of.
+
+- Our people will see this in the bookstore but will not buy it, because you got the white man on the cover and it says Jewish diaspora, so we think they're not going to talk about nothing with us and cast it aside. But in their books they always put our truth in it, then later on in the book it goes into their lies.
+
+- **Host:** They mention Bono. In Ghana we have the Bono State; we have clans, the Asantes, the Fantes and the Bono, and there are similarities in the language.
+
+- Get this book if you can. Remember they always put lies into the end, so just be mindful of that, because these white people try to say that they are the Jews, that they're the ones that settled throughout Africa.
+
+- **Host:** Google the 1747 Negroland map, and it shows the Kingdom of Judah. Pope Nicholas gave an edict, a papal bull, and showed them the specific places we were scattered to, so that they can go after us.
+
+- **Host:** We are dealing with the Beast; we've been told that the Beast is going to deceive the whole world, so this is not a joke.
+
+</div>
+
+
+**[Titus 2:11-12](/bible/titus/2#v11)**  *[[56:56](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=3416s)]*
+
+> <sup>[11](/bible/titus/2#v11)</sup> For the grace of God that bringeth salvation hath appeared to all men,
+>
+> <sup>[12](/bible/titus/2#v12)</sup> Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
+
+- Our people tend to use grace as an excuse not to do what the Bible says, but that is not what grace is.
+
+- It's like when you owe the bank some money and they take you to court and give you a grace period to pay the money back. The grace doesn't mean you don't have to pay it; the grace means you have time to get the monies that you owe.
+
+- That's what grace teaches us. In order to deny ungodliness and worldly lusts, and to live soberly, righteously and godly, you got to know the commandments. Grace teaches us to keep the commandments.
+
+- We have to learn them one by one, so that we can try to better our lives.
+
+
+## Class Questions
+
+- **We are under the dispensation of grace, so why do I have to bother myself keeping my beard and facing all kinds of intimidation at the workplace? Is there any law for us to abide, or are we under the dispensation of grace?** When you read about grace, go to the book of Titus: Titus 2:11-12 explains grace. Grace teaches us to deny ungodliness and worldly lusts and live soberly, righteously and godly, and that means you got to know the commandments.
+- **Our brothers and sisters who did not receive higher education, who do not understand the English or cannot read, how will the truth reach them?** Translate these lessons into the local language. You have the Bible in your local language, so give the quotation and they can read it; and if they can't read, they can still hear.
+
+## In Closing
+
+*[[1:01:23](https://www.youtube.com/watch?v=2KpqOAuQTFY&t=3683s)]* Remember the nation of Israel is big; we are scattered in all these nations. So brothers and sisters, help us spread the gospel in your language. Our people in South Africa must hear it; in fact the entire world got to hear it, because we're scattered practically everywhere. Help us get this truth out, so that our people who suffer from oppression, colonialization and slavery can hear the gospel and be prepared for the second coming of Messiah.
+
+## Announcements & References
+
+- Visit the website www.israelunite.org.
+- Help with donations so that we can physically go to these places and spread the truth.
+- Subscribe to the Join IUIC YouTube channel to stay linked to all of the videos.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=2KpqOAuQTFY)

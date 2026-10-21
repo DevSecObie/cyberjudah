@@ -45,7 +45,7 @@ function NoteScreen() {
   return (
     <main className="app-screen">
       <header className="app-note-head">
-        <p className="app-kicker">{[KIND[n.kind] ?? "", when(n.date, n.teacher)].filter(Boolean).join(" · ")}</p>
+        <p className="app-kicker">{[(n.kind === "class" && n.collection) || KIND[n.kind] || "", when(n.date, n.teacher)].filter(Boolean).join(" · ")}</p>
         <h1>{n.title}</h1>
       </header>
       {video ? (
