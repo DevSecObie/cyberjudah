@@ -19,7 +19,7 @@ export function validateBrowse(s: Record<string, unknown>): BrowseSearch {
 
 const TOP = 14;
 
-export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; topics: { slug: string; label: string }[]; search: BrowseSearch; route: "/classes" | "/captains" | "/truth-shall-make-you-free" }) {
+export function NoteBrowser({ rows, topics, search, route, only = route === "/captains" ? "captains" : "class" }: { rows: FeedRow[]; topics: { slug: string; label: string }[]; search: BrowseSearch; route: string; only?: "class" | "captains" }) {
   const navigate = useNavigate();
   const [q, setQ] = useState(search.q ?? "");
   const [moreTopics, setMoreTopics] = useState(false);
@@ -82,7 +82,7 @@ export function NoteBrowser({ rows, topics, search, route }: { rows: FeedRow[]; 
           <select value={search.sort ?? "new"} onChange={(e) => set({ sort: e.target.value === "new" ? undefined : (e.target.value as "old" | "az") })} aria-label="Sort"><option value="new">Newest</option><option value="old">Oldest</option><option value="az">A to Z</option></select>
         </div>
         <p className="browse__fulltext">
-          <Link to="/search" search={{ q: q.trim(), only: route === "/classes" ? "class" : "captains" }}>Search inside {route === "/classes" ? "class" : "episode"} notes →</Link>
+          <Link to="/search" search={{ q: q.trim(), only }}>Search inside {only === "class" ? "class" : "episode"} notes →</Link>
           <span> Full text across this collection; browse filters do not apply.</span>
         </p>
         <ActiveFilters items={[

@@ -39,6 +39,8 @@ import { Route as HistoryIndexRouteImport } from './routes/history/index'
 import { Route as LawIndexRouteImport } from './routes/law/index'
 import { Route as PreceptsIndexRouteImport } from './routes/precepts/index'
 import { Route as PreceptsSlugRouteImport } from './routes/precepts/$slug'
+import { Route as ShowsIndexRouteImport } from './routes/shows/index'
+import { Route as ShowsSlugRouteImport } from './routes/shows/$slug'
 import { Route as StudyIndexRouteImport } from './routes/study/index'
 import { Route as TopicsIndexRouteImport } from './routes/topics/index'
 import { Route as TopicsSlugRouteImport } from './routes/topics/$slug'
@@ -205,6 +207,16 @@ const PreceptsSlugRoute = PreceptsSlugRouteImport.update({
   path: '/precepts/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ShowsIndexRoute = ShowsIndexRouteImport.update({
+  id: '/shows/',
+  path: '/shows/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ShowsSlugRoute = ShowsSlugRouteImport.update({
+  id: '/shows/$slug',
+  path: '/shows/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const StudyIndexRoute = StudyIndexRouteImport.update({
   id: '/study/',
   path: '/study/',
@@ -301,6 +313,7 @@ export interface FileRoutesByFullPath {
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
+  '/shows/$slug': typeof ShowsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/app/': typeof AppIndexRoute
   '/bible/': typeof BibleIndexRoute
@@ -313,6 +326,7 @@ export interface FileRoutesByFullPath {
   '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
   '/precepts/': typeof PreceptsIndexRoute
+  '/shows/': typeof ShowsIndexRoute
   '/study/': typeof StudyIndexRoute
   '/topics/': typeof TopicsIndexRoute
   '/app/note/$': typeof AppNoteSplatRoute
@@ -347,6 +361,7 @@ export interface FileRoutesByTo {
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
+  '/shows/$slug': typeof ShowsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/app': typeof AppIndexRoute
   '/bible': typeof BibleIndexRoute
@@ -359,6 +374,7 @@ export interface FileRoutesByTo {
   '/history': typeof HistoryIndexRoute
   '/law': typeof LawIndexRoute
   '/precepts': typeof PreceptsIndexRoute
+  '/shows': typeof ShowsIndexRoute
   '/study': typeof StudyIndexRoute
   '/topics': typeof TopicsIndexRoute
   '/app/note/$': typeof AppNoteSplatRoute
@@ -395,6 +411,7 @@ export interface FileRoutesById {
   '/dictionary/$slug': typeof DictionarySlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
+  '/shows/$slug': typeof ShowsSlugRoute
   '/topics/$slug': typeof TopicsSlugRoute
   '/app/': typeof AppIndexRoute
   '/bible/': typeof BibleIndexRoute
@@ -407,6 +424,7 @@ export interface FileRoutesById {
   '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
   '/precepts/': typeof PreceptsIndexRoute
+  '/shows/': typeof ShowsIndexRoute
   '/study/': typeof StudyIndexRoute
   '/topics/': typeof TopicsIndexRoute
   '/app/note/$': typeof AppNoteSplatRoute
@@ -444,6 +462,7 @@ export interface FileRouteTypes {
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
+    | '/shows/$slug'
     | '/topics/$slug'
     | '/app/'
     | '/bible/'
@@ -456,6 +475,7 @@ export interface FileRouteTypes {
     | '/history/'
     | '/law/'
     | '/precepts/'
+    | '/shows/'
     | '/study/'
     | '/topics/'
     | '/app/note/$'
@@ -490,6 +510,7 @@ export interface FileRouteTypes {
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
+    | '/shows/$slug'
     | '/topics/$slug'
     | '/app'
     | '/bible'
@@ -502,6 +523,7 @@ export interface FileRouteTypes {
     | '/history'
     | '/law'
     | '/precepts'
+    | '/shows'
     | '/study'
     | '/topics'
     | '/app/note/$'
@@ -537,6 +559,7 @@ export interface FileRouteTypes {
     | '/dictionary/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
+    | '/shows/$slug'
     | '/topics/$slug'
     | '/app/'
     | '/bible/'
@@ -549,6 +572,7 @@ export interface FileRouteTypes {
     | '/history/'
     | '/law/'
     | '/precepts/'
+    | '/shows/'
     | '/study/'
     | '/topics/'
     | '/app/note/$'
@@ -581,6 +605,7 @@ export interface RootRouteChildren {
   DictionarySlugRoute: typeof DictionarySlugRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
   PreceptsSlugRoute: typeof PreceptsSlugRoute
+  ShowsSlugRoute: typeof ShowsSlugRoute
   TopicsSlugRoute: typeof TopicsSlugRoute
   BibleIndexRoute: typeof BibleIndexRoute
   CaptainsIndexRoute: typeof CaptainsIndexRoute
@@ -592,6 +617,7 @@ export interface RootRouteChildren {
   HistoryIndexRoute: typeof HistoryIndexRoute
   LawIndexRoute: typeof LawIndexRoute
   PreceptsIndexRoute: typeof PreceptsIndexRoute
+  ShowsIndexRoute: typeof ShowsIndexRoute
   StudyIndexRoute: typeof StudyIndexRoute
   TopicsIndexRoute: typeof TopicsIndexRoute
   BibleBookChapterRoute: typeof BibleBookChapterRoute
@@ -818,6 +844,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof PreceptsSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/shows/': {
+      id: '/shows/'
+      path: '/shows'
+      fullPath: '/shows/'
+      preLoaderRoute: typeof ShowsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/shows/$slug': {
+      id: '/shows/$slug'
+      path: '/shows/$slug'
+      fullPath: '/shows/$slug'
+      preLoaderRoute: typeof ShowsSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/study/': {
       id: '/study/'
       path: '/study'
@@ -964,6 +1004,7 @@ const rootRouteChildren: RootRouteChildren = {
   DictionarySlugRoute: DictionarySlugRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,
   PreceptsSlugRoute: PreceptsSlugRoute,
+  ShowsSlugRoute: ShowsSlugRoute,
   TopicsSlugRoute: TopicsSlugRoute,
   BibleIndexRoute: BibleIndexRoute,
   CaptainsIndexRoute: CaptainsIndexRoute,
@@ -975,6 +1016,7 @@ const rootRouteChildren: RootRouteChildren = {
   HistoryIndexRoute: HistoryIndexRoute,
   LawIndexRoute: LawIndexRoute,
   PreceptsIndexRoute: PreceptsIndexRoute,
+  ShowsIndexRoute: ShowsIndexRoute,
   StudyIndexRoute: StudyIndexRoute,
   TopicsIndexRoute: TopicsIndexRoute,
   BibleBookChapterRoute: BibleBookChapterRoute,
