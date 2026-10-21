@@ -22,9 +22,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 ## In The News
 
 - *[[15:24](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=924s)]* **A pro-Israel organisation boasting that it documents critics online, pressures employers and gets people fired.** — Keep hard copies of the truth, for they change and erase the record.
-- *[[1:04:09](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3849s)]* **Reports of famous Black women paying support to former white husbands, and a tennis champion whose father skipped her wedding.** — Take a wife of thy father's tribe, and the seed shall inherit the land (Tobit 4:12).
-- *[[2:18:13](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=8293s)]* **A page from 'From Babylon to Timbuktu' on Pompey's conquest of Judea and the Jewish slaves taken to Rome.** — Rome had a foothold in Judea long before 70 AD.
-- *[[3:16:56](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=11816s)]* **A White House fact sheet on a task force to eradicate anti-Christian bias.** — Teaching that Christ was not white is what they will call bias, while Christians are spat on in Jerusalem.
+- *[[1:04:09](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3849s)]* **A tennis champion whose father skipped her wedding.** — Take a wife of thy father's tribe, and the seed shall inherit the land (Tobit 4:12).
 
 ## Scriptures Opened
 
@@ -73,6 +71,54 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
     Ye have the poor always with you.
 
 
+<div class="reading">
+
+Reading from *Bible Study Tools*, on the year of Jubilee · read by Cap  *[[32:32](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=1952s)]*
+
+> Jubilee. Year beginning on the day of atonement, every 50th year, and proclaiming a nationwide release for Hebrew society. The word Jubilee comes from the Hebrew word "yobel", which means ram's horn, for the sounding of the ram's horn signaled the Jubilee's beginning. Another related Hebrew word is "deror", release or liberty. The key text is Leviticus chapter 25 verse 8 through 55,
+
+- We're going to read that in a minute.
+
+> describes the festival's three basic features. First, as in the Sabbath year, Leviticus 25:2-7, the land was to be fallow. The people were not to farm the land, but were to eat what grew naturally.
+
+- So, in that year, you were not to farm, that's what we were saying earlier. Don't farm the land, you eat what grows on it.
+
+> Both people and land should enjoy their release. Second, all Hebrew slaves were to go free.
+
+- Notice it says all Hebrew slaves, which are servants, were to go free.
+
+> The law allowed poor people to become slaves to pay their debts.
+
+- The law allowed poor people to become slaves to pay their debts, if they owed you something.
+
+> Owners were to treat their Hebrew slaves kindly. All slaves were to be freed in the year of Jubilee. Third, the land reverted to its original owner. This practice ensured that no citizen would remain poor or a slave forever.
+
+- Right. So, if somebody from the tribe of Benjamin let me use his land, right? So, I'm getting crops on this land and all that. By the 50th year, I have to give that land back. Because if I keep it, the someone from the tribe of Judah keeps it, that messes up your inheritance. Everybody understand that? The land must stay inside that tribe. And we're going to read about that with some Manasseh, tribe of Manasseh, that happened to also.
+
+- Notice cuz we read earlier during the seventh year, which is also during the time of Jubilee, when you finish working for me, I was supposed to give you cattle, give you all necessities that you need to be self-sufficient. That's what it means, no citizen.
+
+> A person who sold land to another was really selling a certain number of crops.
+
+- Right. So, when you sold land to somebody, that was for crops, purpose of growing crops. Let's say my land is bad, and I need you, Levi, I can't use you. Simeon, I need to use your land to grow some crops. You go, "Okay, I got 100 acres here, you can use this land to grow crops to feed your family." Okay, thank you.
+
+> So, the number of years before
+
+- Meaning I'm going to explain that. Let's say there's one year before from now to Jubilee, how many crops do you think I could grow? How many crops? Not a lot, right? So, the price would be low. But if this is the Jubilee has just ended. Now, you get some land, and there's 50 years. I'm going to get a lot of crops, right? So, the price would be higher, cuz you're going to be making a lot of money. You understand that? Everybody got that?
+
+> Property within walled cities did not revert in the year of Jubilee, except for the property of the Levites, which was always redeemable. A few other modifications of the normal procedure also existed. Daughters who inherited land had to marry within their own tribes in order to keep the land.
+
+- So, we're going to read that later on, but it's dealing with if you have no sons, like some of y'all in here have no sons. You all got all girls. Your inheritance, your land, everything goes to your daughter. But technically, if she, let's say she's in the tribe of Manasseh, and she marries Judah, everything goes to her husband. Now, Judah owns that land, which is not supposed to be Judah's land. So, the law was because you had no daughters, I mean, no sons, your daughters have to marry someone from her tribe. Everybody got that?
+
+> Numbers chapter 36 verse 4. The law also prevented individuals from abusing the reversion principle. People who vowed a portion of their fields to the Lord and then sold them to escape their vows could never get their land back. Rather the ownership transferred to the priests.
+
+- Cuz you know try to be slick. You had them. So the most high said I got something for them.
+
+> The year of Jubilee contained two important theological implications. First, the land belonged to the Lord who determined its proper use. The land were to avoid selfish accumulation of land. Isaiah 5 and 8. For it did not really belong to them. Second, God's people were to be free. Even when one was in slavery, redemption was possible. In any case, the year of Jubilee freed all. Freedom was always the ultimate goal.
+
+- Right. Freedom was always the ultimate goal.
+
+</div>
+
 **[Leviticus 25:8](/bible/leviticus/25#v8)**  *[[40:32](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=2432s)]*
 
 > <sup>[8](/bible/leviticus/25#v8)</sup> And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
@@ -111,6 +157,14 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
     After he is sold he may be redeemed by a brother, an uncle or a near kinsman.
 
 
+<div class="reading">
+
+Reading from an on-screen note on Leviticus 27:19 · read by Cap  *[[56:47](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3407s)]*
+
+> In Leviticus chapter 27 verse 19, when it refers to the fifth part, it means an additional 20% of the estimated value of the field.
+
+</div>
+
 **[Leviticus 27:17](/bible/leviticus/27#v17)**  *[[56:54](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3414s)]*
 
 > <sup>[17](/bible/leviticus/27#v17)</sup> If he sanctify his field from the year of jubile, according to thy estimation it shall stand.
@@ -119,6 +173,26 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 
 - A field vowed and then sold could not be redeemed and passed to the priest.
 
+
+<div class="reading">
+
+Reading from the on-screen note on Leviticus 27:19, again · read by Cap  *[[58:36](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3516s)]*
+
+> In Leviticus chapter 27 verse 19, when it refers to the fifth part,
+
+- Just read, it said add the fifth part if you want to redeem it early.
+
+> it means an additional 20% of the estimated value of the field.
+
+- 20%.
+
+> This is determined by taking the original value, 100%, and adding 1/5, 20%, to that value, making the total amount to be paid 120% of the original estimation.
+>
+> How it works. Original value. Let's say the field is valued at $100. Fifth part. To calculate the fifth part, you take 1/5 of $100, which is $20. Total after redemption. Therefore, if someone wishes to redeem the field, they must pay the original 100 plus the additional 20, the fifth part, totaling $120.
+
+- Everybody got that, right?
+
+</div>
 
 **[Numbers 36:1](/bible/numbers/36#v1)**  *[[1:00:03](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3603s)]*
 
@@ -139,7 +213,61 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
     In pride is destruction, and lewdness is the mother of famine.
 
 
-**[Exodus 21:1](/bible/exodus/21#v1)**  *[[1:13:27](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=4407s)]*
+<div class="reading">
+
+Reading from an article on Halle Berry's child support · read by Bishop  *[[1:04:36](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3876s)]*
+
+> Halle Berry pays child support to both her exes.
+
+- Both her exes. Damn.
+
+> 8,000 monthly to Olivier Martinez for their son, Maceo. Plus 4.3% of income over two million. And previously paid 16,000 a month, later reduced to 8,000 a month, to Gabriel Aubry for their daughter, Nahla. Covering private school and other expenses. Her payments are substantial due to income disparities and cover tuition, extracurriculars, and legal fees in ongoing disputes.
+
+- Right. Now, you know you got Venus and Serena Williams, they married outside the race.
+
+</div>
+
+<div class="reading">
+
+Reading from a news article on Halle Berry's custody dispute  *[[1:05:46](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3946s)]*
+
+> Halle Berry goes to court to keep her ex from lightening and straightening their daughter's natural hair.
+
+> According to court documents from a custody dispute actress Halle Berry accused her ex, Gabriel Aubry, of calling her a …
+
+- Right. Every time she pays some child support, he says, "Thank you, nigger." And even if she quit the job, she still got to pay that. You don't get out of child support and that kind of thing when you just all of a sudden you decide not to work. But even with the hair straightening, he was basically saying that I want my children to look white, folks. That type of thing. She knew what she was up against.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen text on the seventh year of release and the year of Jubilee · read by Cap  *[[1:10:42](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=4242s)]*
+
+> In the Bible, the seventh year of release and the fiftieth year of Jubilee are both related to concepts of rest, release, and restoration, but serve different purposes and occur at different times.
+>
+> Seven-year release shmita. Timing, this occurs every seven years. Biblical reference, you can find the instructions about the seven-year release primarily in Deuteronomy chapter 15 verse 1 through 2.
+>
+> Purpose, in the seventh year, debts between the Israelites were forgiven. Was also a year of rest for the land.
+
+- You know it says debts. Let's say I burned your house down by accident and I don't have money to pay that. I have to work for you to clear that up. That's just an example.
+
+> It was also a year of rest for the land, meaning agricultural activities were halted. Farmers would not plant or harvest allowing the land to recover.
+
+- Right, let the land rest. You know, like when you have a baby, God says let the vagina rest. Let it rest. 40 days if it's a boy, 80 days if it's a girl.
+
+> This practice aimed not only to provide economic relief for people in debt, but to promote social justice and community welfare.
+>
+> Fiftieth year of Jubilee, Yovel. Timing, this occurs every 50 years after seven cycles of seven years. Biblical reference, the Jubilee year is detailed in Leviticus chapter 25 verse 8 through 55.
+>
+> Purpose, the Jubilee encompasses all the aspects of the seven year, but expands further. In addition to debt forgiveness and land rest, property that had been sold or lost was returned to its original family owners, which ensured that land did not permanently leave a family due to economic hardship. It was a time of liberty and restoration emphasizing the importance of heritage and community.
+>
+> Key differences, frequency, the seven year occurs every seven years, while the Jubilee happens every 50 years. Scope, the seven year focuses mainly on debt release and agricultural rest. The Jubilee includes these elements, but also restores land ownership and emphasizes social equity more broadly.
+>
+> Significance, the Jubilee has profound implications for family heritage and social structure in Israelite society, while the seven-year release is primarily about debt release.
+
+</div>
+
+**[Exodus 21:1](/bible/exodus/21#v1)**  *[[1:13:37](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=4417s)]*
 
 > <sup>[1](/bible/exodus/21#v1)</sup> Now these are the judgments which thou shalt set before them.
 
@@ -286,6 +414,64 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
     He that doeth wrong shall receive for the wrong which he hath done, and there is no respect of persons.
 
 
+<div class="reading">
+
+Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 84  *[[2:18:30](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=8310s)]*
+
+> In the year 65 BC, the Roman armies under General Pompey captured Jerusalem. 70 AD, General Vespasian and his son Titus put an end to the Jewish state with great slaughter. During the period of the military governors of Palestine, many outrages and atrocities were committed against the residue of the people. During the period from Pompey to Julius, it has been estimated that over 1 million Jews fled into Africa. Fleeing from Roman persecution and slavery. The slave markets were full of black Jewish slaves.
+
+- And of course, we think Rome came in in 70 AD. No, they came in here. This is how Rome got a foothold in our land.
+
+- We always start with 70 AD, but I want you all to see that first sentence.
+
+- So, this is before Christ.
+
+- So, they captured Jerusalem. They didn't destroy Jerusalem, they captured Jerusalem.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen text on Pompey's conquest of Judea  *[[2:19:33](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=8373s)]*
+
+> In 65 BC, General Pompey played a key role in the Roman conquest of Judea, but it's important to clarify that he did not completely destroy and enslave the entire region. His military campaign led to significant changes in Judea's structure and its relationship with Rome.
+>
+> Key events leading to the end of direct control. Number one, Pompey's campaign. In 63 BC, Pompey captured Jerusalem. He entered the city including the temple, which was a pivotal religious site for the Jewish people. However, rather than total destruction, Pompey established a new governance system. He left local rulers in place, but brought Judea under Roman influence.
+
+- Herod put that eagle on the temple and all that? Everybody was pissed off. The tax and all that. Low tax. That's when you read in Luke and all that, everybody was getting taxed.
+
+> Number two, local leadership. After Pompey's conquest, the Hasmonean dynasty,
+
+- That's the Maccabeans from Simon, Simeon.
+
+> the ruling family of Judea faced challenges. Instead of complete subjugation, Pompey installed Hyrcanus the second as a puppet leader
+
+- Puppet leader.
+
+> allowing a degree of local autonomy while ultimately acknowledging Roman authority.
+>
+> Number three, fulfillment of the Roman administrative framework. The aftermath of Pompey's actions led to the establishment of Judea as a Roman province.
+
+- So, you see Judea as a Roman province. Remember we talked about Jews coming from all over? Now, you would ask cuz Judea's in the land of Israel. Why is it putting that there? Because Judea was a Roman province.
+
+> This brought administration, tax collection, and military governance under the Roman control. Though some local customs and practices were initially allowed to continue.
+>
+> Number four, internal strife. The internal political conflict among Jewish factions including disputes between the supporter groups of various claimants to the throne weakened local resistance against Roman rule.
+>
+> Number five, formation of new alliances. Some Jewish leaders saw advantages in cooperating with the Romans. This led to various power struggles, but it ultimately meant some factions benefited from Roman support rather than their outright rebellion.
+
+- So, the factions that was warring of trying to fight for rulership was the Hasmoneans. Remember Herod married one of the Hasmonean daughters to solidify his rulership there, but you had a lot of people that did not accept Herod. You had the Zealots rose up, then they set up the Herodians, the Pharisees and them already there, the Sadducees. All these groups were there.
+
+> Conclusion, the end of direct devastation or enslavement of Judea following Pompey's conquest was marked by a shift to a Roman provincial governance system that blended Roman authority with local rule. While tensions and conflicts remained, the establishment of this structure allowed a form of stability.
+
+- So, when we get to the book of Matthew, we read about this form of stability. Everything seems somewhat stable.
+
+> Even though it was fraught with political maneuvering and discord, over time this led to ongoing issues and tensions that would eventually explode into larger conflicts including the Jewish-Roman Wars later on.
+
+- Which led to 70 AD.
+
+</div>
+
 **[Ephesians 6:5](/bible/ephesians/6#v5)**  *[[2:27:54](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=8874s)]*
 
 > <sup>[5](/bible/ephesians/6#v5)</sup> Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;
@@ -314,6 +500,44 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 
     Some would pervert the gospel of Christ.
 
+
+<div class="reading">
+
+Reading from an on-screen definition of *purloin*  *[[2:35:55](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=9355s)]*
+
+> Purloin: steal something.
+
+- Right. Stealing. Sticky fingers. Kleptomaniac.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen list headed "Dark Ages 193 AD to 1453"  *[[2:40:38](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=9638s)]*
+
+> Dark Ages 193 AD to 1453.
+>
+> Roman Empire Renaissance era 1453 AD, it became a significant political entity in Central Europe.
+
+- Cuz remember you had the Roman Empire set back up again. Deacon Eythan touched on that today during his class. This was the Renaissance.
+
+> Number two, Spanish Portuguese Empire began its rise in the late 15th century following the
+
+- That's the same time as Rome.
+
+> Reconquista 1492 and expanded across the Americas, Asia, and Africa.
+
+- That's right. And if Pope Nicholas V, Pope Alexander VI.
+
+> French Colonial Empire expanded in the 17th century with significant territories in the Americas, Africa, and Asia.
+>
+> British Empire grew significantly reaching its peak in the 19th and early 20th centuries becoming the largest empire in history.
+>
+> Number five United States of America. In 1776 until today.
+
+- Right. So, these were the times of chattel slavery. All these empires, they had us in chattel slavery.
+
+</div>
 
 **[Isaiah 43:1](/bible/isaiah/43#v1)**  *[[2:41:48](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=9708s)]*
 
@@ -350,6 +574,16 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 
 - His sword shall come down upon Idumea, the people of his curse.
 
+
+<div class="reading">
+
+Reading from an on-screen definition of *Idumea*  *[[2:52:05](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=10325s)]*
+
+> Idumea, pertaining to Edom. Greek and Roman name for Edom.
+
+- That's it. Greek and Roman name for Edom. So, Jehovah Witnesses like to go around and say the … were destroyed already. They are no more. No, then who's Christ coming in?
+
+</div>
 
 **[Isaiah 61:1](/bible/isaiah/61#v1)**  *[[2:52:59](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=10379s)]*
 
@@ -404,6 +638,26 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 
     Thy people shall be all righteous; they shall inherit the land for ever.
 
+
+<div class="reading">
+
+Reading from a White House fact sheet  *[[3:17:05](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=11825s)]*
+
+> Fact sheet. President Donald J. Trump eradicates anti-Christian bias.
+
+- What we're teaching they're saying is anti-Christian, anti-white Jesus. It is the Bible. The Bible is anti-white Jesus. That's basically what's happening.
+
+- Wow. That's February 6th, 2025.
+
+> Eradicating anti-Christian bias. Today, President Donald J. Trump signed an executive order establishing a task force to end the anti-Christian weaponization of government and unlawful conduct targeting Christians.
+
+- In Israel, aren't they spitting on the Christians out there? Why don't they go over there and arrest all of them? They ain't doing that. You see that? See hypocrisy.
+
+> The task force officially known as the task force to eradicate anti-Christian bias will be comprised of members of President Trump's cabinet and key government agencies. The task force will review the activities of all departments and agencies to identify and eliminate anti-Christian policies, practices, or conduct.
+
+- Y'all see that? Practice or conduct. That's all I wanted. Y'all can read the rest on your own.
+
+</div>
 
 ## Class Questions
 

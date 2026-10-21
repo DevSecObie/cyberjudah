@@ -23,11 +23,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
 
 - *[[54:08](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3248s)]* **A series of European paintings of Moors in royal dress and armour from the time they ruled Spain.** — The Moors of Spain were Black men in power before the Christian kingdoms drove them out.
 - *[[1:06:16](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3976s)]* **A video on Black Pete, followed by a review of the Christian slave trade.** — The trade that began in Iberia was run by men who called themselves Christian.
-- *[[1:31:26](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=5486s)]* **Crusade-era images that show Black soldiers as the enemy of Christendom.** — Europe painted Israel as the foe while it waged war on the saints.
-- *[[1:35:49](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=5749s)]* **Reports on Sinterklaas, Zwarte Piet and Krampus, including neo-Nazis marching at the parades.** — Winter feasts built on a blackened servant are fables, and they turn men from the truth (2 Timothy 4:4).
 - *[[2:08:31](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=7711s)]* **A teacher explaining that the biblical new year begins in Abib, named for a stage of barley ripeness.** — The first month is the spring month, not January.
-- *[[2:13:34](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=8014s)]* **An article on full-moon celebrations in many cultures, including a gathering inspired by Maya tradition.** — The nations still keep the moon as a sign, while Israel has forgotten why.
-- *[[2:47:23](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=10043s)]* **Stories of mixed marriages gone wrong, including a famous actress who pays support to a former husband and a sports commentator who lost a large contract over a relationship.** — Strange marriages are the snares and traps that Joshua 23 warned about.
 
 ## Scriptures Opened
 
@@ -74,22 +70,411 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
 - The wound was healed when Europe took back the throne and the world wondered after the beast.
 
 
+<div class="reading">
+
+Reading from *The Ten Caesars: Roman Emperors from Augustus to Constantine* by Barry Strauss, page 237 · read by Captain Yuri  *[[37:28](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2248s)]*
+
+> Ultimately, Rome had a new ruler, Septimius Severus. His rule was a paradox. The man was egotistical, rude and crude, but also shrewd and fluent.
+
+- Notice it says underlined, "The African."
+
+- Always tell y'all, Septimius Severus, he was not following God's commandments. He kept Rome going. He kept all the tenets of Rome. The only difference was, he was the first black Caesar that sat on that throne. And from that point is when the Dark Ages ushered in. Now, when you Google it or look, they'll say the Dark Ages started around 400 and something. No, it didn't. It started around here when this black man took over. And the following kings after him or rulers were black as well until their fall. And you had the Byzantine Empire, and you had the Western powers. Or the Holy Roman Empire. Say it like that.
+
+- Hated keeping God's commandments. I have other records that say he was persecuting the black Jews that were keeping God's laws.
+
+> Although not a professional soldier, he militarized the government as none of his predecessors had. He combined enlightened legal reform with autocracy and purges at home while launching treasury-draining wars abroad. He also represented a new stage in Rome's ethnic history, and perhaps its racial history as well. Severus was Rome's first African emperor. And he founded a dynasty that also gave Rome its first emperors from the Middle East.
+
+- So, their first emperors after that point were from the Middle East, they were all black.
+
+- Now, you put that up, and you'll have white people that don't even know that. And they will curse you out saying that Septimius Severus was black. They don't know the history. Only the elites know. These regular peons y'all meet on the street, they dumb as a rock. They know nothing. You want to debate them for what? Those dummies on TikTok, you want to debate them? Brothers, don't waste your time. You're talking over their head. You're talking God talk, they're talking crumbs.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Light and Truth*, collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, by Robert Benjamin Lewis, page 339 · read by Captain Yuri  *[[40:31](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2431s)]*
+
+> The word negro. Negro is derived from the Latin term … meaning black.
+
+- Niger, it all means black, brothers. Sisters, it all means black. And this word negro is Spanish, which means black. Don't think it's some comes from Latin.
+
+> The following terms and definitions are in the American edition of Dr. Walker's dictionary: Moor, a marsh, a thin, a negro.
+
+- Word moor was used for negro.
+
+> Negro, blackamoor. Black, a negro, the dark color …
+>
+> Dr. Johnson's dictionary, American edition, by Reverend Joseph Hamilton, 1810. We find these words thus defined: Black, a negro. Negro, a blackamoor, a moor. Negro, an African by birth or descendant of one, a full blood. Moor, a black man. Negro, a blackamoor, a slave.
+
+- So negro meant a blackamoor or a slave.
+
+> Moor, a black.
+>
+> Mangroon is a all black, a full blood, a whole negro. … is three quarters blood, a three quarters negro. Mulatto is one half blood, one half negro. Quadroon is one quarter blood, one quarter negro. Mestizo is a half quarter blood, a half quarter negro. …, a Latin word, was formerly used by the Moors, the old Romans, to designate any black, inferior object, and a plant, a marsh, flat moist ground, bog, or animal.
+
+- Now I want to say something about all those terms there. When the Moors ruled Spain, a lot of these terms came about, but they were also used in America as they were forming here. Now the difference is in America the majority of the ones having sex with the blacks was the white man. In Spain, the ones having sex with the blackamoor, with the Moors, was white women. So you had mulatto; we call light skin people mulattos. You had a whole bunch that came from Spain that were mulattos, then America brought forth some.
+
+> Micah the Morasthite, a prophet of the Moors, prophesied in the days of Hezekiah, king of Judah, and spake to all the people of Judah the Moors.
+
+- So you can read that in Micah chapter 1 verse 1.
+
+</div>
+
+
 **[Micah 1:1](/bible/micah/1#v1)**  *[[43:44](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2624s)]*
 
 > <sup>[1](/bible/micah/1#v1)</sup> The word of the Lord that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
-- Old dictionaries define a Moor as a negro, a blackamoor and a mangroon.
+- Micah the Morasthite carries the same name.
 
-- Micah the Morasthite carries the same name, and the Berbers were in North Africa before the Arabs.
 
-- At the Battle of Guadalete in 711 the Moors took Spain, and the Sephardic Jews there were Judah and Benjamin.
+<div class="reading">
+
+Reading from *Light and Truth*, collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, by Robert Benjamin Lewis, the next page · read by Captain Yuri  *[[44:23](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2663s)]*
+
+> Mazaroth was built by the Moors in the desert of Paran in the land of Amalek, and was the ancient encampment of Israel in the days of Moses. In the Moorish war of Adal in Africa, some of the books of Moses were burnt.
+
+- Okay, that's what I wanted.
+
+> The appellation of Moor is given to those successors of Muhammad, pagans, Christians, and Jews,
+
+- So appellation means title. The title of Moors was put on Muhammad, those were the Arabs, then it says pagans were called Moors, Christians were called Moors, and Jews were called Moors. Do y'all see that right there?
+
+> who extended their empire through North Africa,
+
+- When you look at North Africa today, it's all Arabs. All Arabs, they took over North Africa. But this is before the Arab invasion.
+
+> South Europe, and the islands of the Mediterranean.
+
+- So this is where the Moors took over. North Africa, South Europe, and the islands of the Mediterranean.
+
+> The Moors gained the highest reputation both in arts and arms of all the nations of the East. The mechanic and the fine arts, especially sculpture and painting, were in a very low state in Europe when the Moors turned their attention to them and cultivated them with great success. The Moors had founded in Africa the empire of Morocco,
+
+- So you see Morocco today is all Arabs. It was not all Arabs before, it was all black. It was you and me. It was our people that were the Moors. We were the Christians and we were the Jews. And yes, some of us were pagans. And a few of us were Muslims as well.
+
+> which was governed by a viceroy named Muqa.
+
+- Now that word Muqa is Musa. I'mma show you in another part where it says Musa.
+
+> Musa sent his general Tariff into Spain,
+
+- Now that Tariff there, there's ways they spell it differently. Sometimes they put a Q, with two F's, so they got Tariq, but this book has Tariff.
+
+> who in a single memorable engagement stripped the Gothic king Roderigo of his life and crown, and subdued the country, AD 713.
+
+- So the blacks defeated the Europeans in AD 713. Some records say 711. But it's only like what, two years difference. But that's the time when we took over Spain and Portugal.
+
+> The kingdom of the Moors flourished.
+
+</div>
+
+
+<div class="reading">
+
+Reading from the Wikipedia article *Battle of Guadalete*, and its link to *Berbers* · read by Captain Yuri  *[[47:41](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2861s)]*
+
+> Battle of Guadalete. Guadalete was the first major battle of the Muslim conquest of the Iberian Peninsula,
+
+- I don't like going to Wikipedia cuz as soon as we bring something out, they will go in and change it later on.
+
+- Now you notice it says first major battle of the Muslim conquest. Keep that in mind.
+
+- Iberia is Spain and Portugal. That whole area is called Iberia.
+
+> fought in July 711
+
+- So that's why I said a lot of places have 711. I can remember 711 cuz of the store.
+
+> at an unidentified location in what is now southern Spain, between the Visigoths
+
+- That was Esau. The Visigoths was Esau.
+
+> under their king Roderic
+
+- That's who we just read about in the book before.
+
+> and the invading forces of the Umayyad Caliphate, composed of mainly Berbers and some Arabs,
+
+- Now notice it says this Muslim army composed of mainly Berbers and some Arabs.
+
+> Berbers, or the Berber peoples, also known as Amazigh or Amazighian, are a diverse grouping of distinct ethnic groups indigenous to North Africa who predate the arrival of Arabs
+
+- See that? The blacks there predate the arrival of Arabs.
+
+> in the Maghreb. Their main connections are identified by their usage of Berber languages, most of them mutually unintelligible,
+
+- Makes no sense. Most of their languages mutually unintelligible, meaning white man can't figure their languages out.
+
+> which are part of the Afro-Asiatic language family.
+
+- So, what were the Berbers? Black. They spoke Afro-Asiatic language. These are black men.
+
+- You would think that these are Arabs, but it's not Arabs.
+
+- The black men. Composed of mainly black men.
+
+> under the commander Tariq ibn Ziyad.
+
+- Remember the book said Tariq? It's the same guy, though.
+
+> The battle was significant as the culmination of a series of Umayyad attacks and the beginning of Al-Andalus. Roderic was killed in the battle,
+
+- So, the Edomite king was killed in battle. Thank God.
+
+> along with many members of the Visigothic nobility,
+
+- Most of their noble men, we slaughtered them.
+
+> opening the way for the capture of the Visigothic capital of Toledo.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Modern Part of an Universal History, from the Earliest Account of Time*, compiled from original writers by the authors of the ancient part, written in 1759, page 138  *[[51:43](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3103s)]*
+
+> The Western Jews pretend, moreover, that some of the most considerable families of the tribes of Judah and Benjamin went and settled in Sepharad, or Spain,
+
+- So, you see that? Judah and Benjamin settled in Sepharad, Spain. That's the Sephardi. That's where they get that. But, notice the Edomite put pretend.
+
+> and that it is among them that the royal line is best preserved;
+
+- So, they know that the Western Jews that were in Spain were the tribes of Judah and Benjamin. This is 1759.
+
+> on which account they have looked upon the rest of their nation with a singular contempt
+
+- Meaning they looked at northern kingdom with a singular contempt.
+
+> and arrogate to themselves a superiority over them.
+
+- So, that was the mentality we had.
+
+- So, what I'm showing you, those Jews: remember we called them Moors, then Berbers, there we call them Jews. So, which is it? Remember, Moors, Negroes, they made that up. These are the Jews, the black Jews that conquered Spain and Portugal.
+
+> This book, which the author entitles Chasuk Amuna, and the Latin translators …, shows the author to have lived about the beginning of the 17th century. Its editor, Joseph, the son of Mordecai, published it in 1616, after it had remained a long while in manuscript and was become very scarce. The Portuguese Jews did indeed get it translated
+
+- Notice it said the Portuguese. We going to read about the Portuguese Jews in a bit.
+
+> into Spanish, and dispersed it about in all the neighboring kingdoms; and it was also in high esteem among the African Jews.
+
+- Wait. African Jews? What are you talking about? What's going on here? The hell is this? So, they know that the Jews in Spain were the royal bloodline of David. That's what they knew.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a Google search, "When did the Dark Ages end?" · read by Captain Yuri  *[[1:02:49](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3769s)]*
+
+> The Dark Ages, Early Middle Ages, ended gradually, but key markers for the close of the broader medieval period include the fall of Constantinople to the Ottomans in 1453,
+
+- When I was looking up Renaissance on Google now, there's no definite date. So, I just said, "When did the Dark Ages end?" That's how you know.
+
+- Edomite. Those are not Arabs in Turkey. They could say salaam alaikum all day. Don't fall for it.
+
+> Columbus reaching the Americas in 1492, the Reformation starting in 1517, and England's Battle of Bosworth Field in 1485, signaling the shift towards the Renaissance and modern era, though historians debate precise dates, as the transition was complex, not a sudden event.
+
+- It was complex cuz they took us down systematically. It wasn't one event. They got us in Rome first, Constantinople, Spain, and Portugal.
+
+> Key events and turning points. Fall of Constantinople, 1453. Often cited as the symbolic end of the Byzantine Empire and the Middle Ages,
+
+- See, that's why we always reference 1453.
+
+> marking a major power shift in Europe.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Critical Review, or Annals of Literature*, written in 1783 · read by Captain Yuri  *[[1:08:22](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4102s)]*
+
+> Pope Nicholas V, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards,
+
+- See, Rome had control of Portugal and Spain.
+
+> expressly permitted and ordered the Christians to reduce all infidels into slavery,
+
+- If you didn't believe in white Jesus and you was black, you were in slavery. That's what happened.
+
+> and ordered zealously executed by both these nations.
+
+- So, both these nations, Spain and Portugal.
+
+> Professor Springel divides the history of the Negro trade carried on by Christians into two principal periods: the first from 1443 to 1645, and the second from 1645 to the present times. The first period is the time of its increase, during which not only its founders, the Portuguese, but the English, the Dutch, and the French dealt in Negro slaves,
+
+- They all started to take a part in it.
+
+> though chiefly for the use and consumption of the Spaniards in the sugar and tobacco plantation in the Brazil. During the latter period, these four nations were obliged to share that trade with the Swedes,
+
+- Sweden got involved. Don't think they were neutral. They were not neutral. They were not peaceful.
+
+> the Danes, the Brandenburgers, the North Americans, and since 1778 with the Spaniards.
+>
+> The discovery of the Gold Coast served indeed yet more to enlarge the sphere of the navigation of the Portuguese than their slave trade, but it forced them also to extend themselves on the coast, and to settle colonies in Congo, Angola, and other places, which they had till then neglected. Prince Henry's colonies were enlarged by his successors. King John II, in 1492,
+
+- What happened in 1492?
+
+> expelled all the Jews to the island of St. Thomas,
+
+- So, while Columbus was going to the Caribbean, these guys was expelling all the Jews to the island of São Tomé.
+
+> which had been discovered in 1471, and to other Portuguese settlements on the continent of Africa.
+
+- Right. So, it makes sense now. Now that we know that those Moors, those Jews were all black.
+
+> And from these banished Jews
+
+- Now notice he's calling them Jews.
+
+> the black Portuguese, as they are called,
+
+- They're calling those Jews the black Portuguese.
+
+> and the Jews in Loango, who are despised even by the very Negroes, are descended.
+
+- Right. So, we came from one common stock, but you had blacks that did not want to keep God's commandments. Remember we read earlier, some Moors were pagans, some were Christians, some were Jews, some were Muslims.
+
+- So, that's allegedly a sketch of Pope Nicholas V right there.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Jews and Moors in Spain* by Rabbi Joseph Krauskopf, page 100 · read by Captain Yuri  *[[1:12:10](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4330s)]*
+
+> Nearly 150,000 souls made their way by land to Portugal,
+
+- If y'all don't have this book, get it. I think it's a very good book.
+
+- So, we had gotten kicked out of Spain. So, the black Jews made their way to Portugal, which was right next door.
+
+> whose King John II dispensed with his scruples of conscience so far as to allow his greed to triumph over his creed. He granted them a passage through his dominion on their way to Africa,
+
+- We were on our way to Africa. He said, "Y'all can come through here for a while."
+
+> and the permission of an 8-month stay in his realm,
+
+- Be here for only 8 months. Cuz you know it takes time. You got to get boats. You got to get your gear together, your family together. So, he gave them 8 months.
+
+> in consideration of a tax of $8 a head,
+
+- The king, $8 a head. So, if you had a family of eight people or 10, cuz they had big families, you had to pay that.
+
+> which immense sum he levied from the native Portuguese Jews.
+
+- We know who these Portuguese Jews were: blacks.
+
+> Ferdinand and Isabella threatened, and Torquemada incited the Portuguese clergy, but John II had over a million of dollars to quicken his conscience and to wage war if necessary. And, expecting it, he instantly put such of the Jewish exiles who were manufacturers of arms and miners to work.
+
+- This is what they do. You see they got the word Jewish in there? That's what throws people off. You see the word Jewish and the first thing you think, "Oh, he's talking about white people." No, but it's not.
+
+- So, notice there's Jewish exiles. So, those were the blacks. Cuz the European Jews, Jewish people, they converted to Christianity and they were our staunch enemies.
+
+> But his clemency was of short duration. It soon gave away to the most frightful era of the exiles' sufferings, when the news reached the homeless exiles of the atrocious crimes inflicted upon their brethren on their way to the African coast
+
+- They were on their way to the African coast. These were not white people being taken to Africa. These were black Jews.
+
+> by inhuman captains and heartless crews. Seeing nothing but cruel death before them, whether going or whether remaining, they preferred meeting death in Portugal to exposing themselves to the inhumanity and beastly lust and tortures of barbarous pirate sailors and African savages.
+
+- Cuz the ones we met in Africa, the blacks there, some of them were Nilotes and they were cannibals.
+
+> And, listlessly awaiting death and praying for it, they remained after the time purchased for their stay had passed away. To their misfortune, the plague broke out in Portugal, enraged with deadly fury. Immediately the church arose, held the Jews responsible for the visitation of the plague
+
+- So, the Vatican said the reason... That's why they called it the black plague. They accused the black Jews. They said, "Y'all the reason this plague is here."
+
+> and lashed the populace into a relentless fury
+
+- So, he got the whole population of Spain and Portugal against us.
+
+> because of the visitation of the plague and the breach of contract on the part of the Jews, the king's creed awoke again simultaneously with the reawakening of his greed. He issued an edict which threw even that of Torquemada
+
+- Torquemada was a savage. He worked for the Vatican to torture. He led the Spanish Inquisition.
+
+> into the shade. All Jewish children below 14 years of age were torn from their parents' arms, dragged into the church, and baptized.
+
+- And they baptized us, our kids, with water. And this is all by force. We did not willingly get... It says they dragged our children from their mothers' arms.
+
+> Those under 3 years of age were given to Christians
+
+- If your children were under 3 years old, they were given to Christians. They were given to white people.
+
+> to receive a Christian education, or, in other words, to be raised as slaves.
+
+- See that? So, to be given a Christian education was code word for being a slave.
+
+> Those between 3 and 10 years of age were put on board of a ship and conveyed to the newly discovered unwholesome island of St. Thomas, called Ilhas Perdidas,
+
+- Now if you ever Google, you got Cape Verde, St. Thomas, but especially Cape Verde. You'll see a lot of black people with blue eyes, hazel eyes, and long wavy hair. Brothers go, "Oh, those are Edomites." Those are the ones I was showing y'all with the black Moors with the white women, those are those kids. That's where those kids were.
+
+> Ilhas Perdidas, the Isle of Perdition, which was colonized by Portuguese condemned criminals, to fare there as best they could. Those between 10 and 14 years were sold as slaves.
+>
+> The Jews have experienced fully the unequaled skill of the church in administering pain.
+
+- So, now we know that those Jews are our people.
+
+> Mothers cast themselves at the feet of the tyrant
+
+- Listen to what black mothers did.
+
+> and pitifully begged to be taken with their babes. They were heartlessly thrust aside. Hundreds of mothers, mad with despair, ran behind the ships as they carried off the idols of their heart
+
+- Meaning their babies.
+
+> and perished in the way.
+
+- So, you had a lot of black women that died going behind the ships.
+
+> The serene fortitude with which the exiled people had born so many in such grievous calamities gave way at last, and was replaced by the wildest paroxysms of despair. Piercing shrieks of anguish filled the land. Childless and brokenhearted, they now sought to leave the land.
+
+- They had their children taken from them.
+
+> But they were told that they had forfeited their right,
+
+- Uh-oh, see that? They said, "Uh-oh, you stayed here too long."
+
+> and they were given the choice between baptism and slavery.
+
+- They want to call it marrano. Become a marrano. That's what they call it, marrano. There's some other terms I forgot off the top of my head. But they forced us: baptism or become slaves.
+
+> Thousands, after enduring all they did, after leaving their beloved Spain and all their wealth and ease, submitted to baptism now, in the hope of being reunited with their children.
+
+- Figured if I get baptized, I'll get my children back.
+
+> Thousands were sold as slaves. Yet, prior to their being sold, they were submitted to tortures, cruelty,
+
+- And these were cruel tortures.
+
+> outrages too revolting, too repulsive, too heartrending to be here narrating.
+
+> But again, had destiny decreed that a woman was to play an ignoble part in the tragic history of the Jews. A marriage was proposed between Manuel of Portugal and the daughter of Ferdinand and Isabella of Spain. Manuel was rejoiced with the proposal. Already he saw himself in the near future king of united Spain and Portugal and of the entire new world. But Satan stepped between, dipped his pen in gall in writings …
+
+- I didn't get the rest. So what happened was, the condition for her to marry him, he had to enslave all the Jews that got baptized. So he had to go back on the word that he said above.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Image of the Black in Western Art* · read by Captain Yuri  *[[1:21:58](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4918s)]*
+
+> Adrian Sanchez Gauca, Francisco de Arobe with his sons Pedro and Domingo, Ecuador, 1599.
+
+- You had some Moors that fled to Ecuador. We knew about the America. Columbus was not the first one. These were Moors in Ecuador.
+
+- Remember the book we read a couple of weeks ago, They Came Before the Mayflower, something like that. It said all the first slaves all had Spanish names. And it's all because of this history. So these were a father and his sons, which were Moors. They had fled to Ecuador.
+
+- Now, you see pictures like this all throughout America in museums, France, England. But you never knew the backstory behind it. These are the children that were snatched from their mothers and made slaves to European families.
+
+</div>
 
 
 **[Revelation 11:10](/bible/revelation/11#v10)**  *[[1:22:53](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4973s)]*
 
 > <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
-
-- Portugal's King John II sent Jewish children to São Tomé, and Black Israelites were sent as gifts between European courts.
 
 - An Angolan man given as a present is the fulfilment of nations sending gifts one to another.
 
@@ -100,6 +485,19 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
     Do not say the former days were better; know the history as it was.
 
 
+<div class="reading">
+
+Reading from *The Image of the Black in Western Art*  *[[1:23:29](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=5009s)]*
+
+> In the second half of the 17th century, black servants became more common, especially for people connected with world trade. When Count Frederick von Hanau (1623 to 1685) acquired from the Dutch West India Company a large part of what is now Suriname, he also received as a gift an Angolan man.
+
+- See that? They sent us around as gifts. We were the gifts.
+
+- Our sons, our daughters, our mothers and fathers were the gifts.
+
+</div>
+
+
 **[1 Kings 8:44](/bible/1-kings/8#v44)**  *[[1:28:25](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=5305s)]*
 
 > <sup>[44](/bible/1-kings/8#v44)</sup> If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the Lord toward the city which thou hast chosen, and toward the house that I have built for thy name:
@@ -107,6 +505,95 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
 - Solomon prayed that Israel would bethink themselves in the land of their captivity and pray toward their land.
 
 - That is why the congregation faces Jerusalem when it prays.
+
+
+<div class="reading">
+
+Reading from *The Image of the Black in Western Art*, volume two  *[[1:31:39](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=5499s)]*
+
+> 73, Capture of Antioch, William of Tyre, Histoire de l'empereur d'Outremer.
+
+- All these pictures are in Paris, France.
+
+> 74, Defeat of the Prince of Egypt,
+
+- That's what they call it, the defeat of the Prince of Egypt.
+
+> William of Tyre. 75, Charlemagne's Siege of Agen.
+
+- That's Charlemagne on the left. Notice Charlemagne and all his European soldiers is going against the Moors, the blacks in the castle. Those were our castles that we built.
+
+- Y'all see them chopping us right there on the right? We got shields with lion faces. And they are chopping us up. So, we lost the battle. We literally lost the battle. Why? Because we were in the midst of sin.
+
+- So, this was another one, another castle with the Moors, which were the black Jews, the royal bloodline of David, and they conquered us there.
+
+> The emperor carries the shield with the eagle, and his horse's equipment is marked with the fleur-de-lis. On the enemy side, black soldiers,
+
+- So, notice it's calling the blacks the enemy. Now, what's funny about that, you know the brother that helped co-write this? Henry Louis Gates co-wrote this with Edomite. Henry Louis Gates allowed this Edomite, all through the series of books, black people are called the enemy. I'm like, what, was this dude sleeping when this Edomite was writing this stuff?
+
+> On the enemy side, black soldiers, bandeau, and the shield with the lion's head or the six-pointed star
+
+- Right, cuz we were using the six-pointed star, which was a symbol of witchcraft.
+
+> constitute as many conventional signs designating the enemy around the year 1350, a fact of history. The capture of Damietta was illustrated in Joinville's Vie de Saint Louis, an illustration that could be directly superposed on the images just described. So it is that until the middle of the 14th century, the image of the black warrior, the irreconcilable enemy,
+
+- See what they calling us? The irreconcilable enemy. We're the enemy.
+
+> was solidly established in French iconography, whether this was connected with the Bible, with legend, or with history.
+
+- Well, they knew it was coming from the Bible. They knew biblically it was going to happen.
+
+</div>
+
+
+<div class="reading">
+
+Reading from the Wikipedia article *Krampus*  *[[1:38:42](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=5922s)]*
+
+> Krampus appears in Liechtenstein, Austria, and Slovenia.
+
+- That's Krampus right there. The monsters, that's called Krampus. And you see Saint Nicholas right there. That's him. Saint Nick. But we got to find out about Krampus.
+
+> Several depictions of Krampus alongside Nicholas.
+>
+> Similar entities: Knecht Ruprecht, Zwarte Piet.
+
+- That's who Krampus is, Zwarte Piet. So, in Liechtenstein, Austria, and Slovenia, they said, "Let's turn Black Peter into a monster. And if our white children are bad, we'll say Krampus will kidnap you." And they do the same thing in Amsterdam, but they say black people put you in a bag and take you away.
+
+- So, these are images of Zwarte Piet as Krampus. See how the little child is terrified? All that is Zwarte Piet. And this is how they frighten their children, by telling them the Moors will come get you. The blacks will eat you. They did movies of it here in America. Krampus. And black people went to the movie, not realizing the joke's on you. You're Krampus.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a National Geographic article, "This notorious Christmas character is dividing a country"  *[[1:40:34](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=6034s)]*
+
+> This notorious Christmas character is dividing a country. Neo-Nazis in the Netherlands have responded violently to calls to get rid of Santa's blackface holiday assistant.
+
+- So, Neo-Nazis, they want to get rid of Black Peter.
+
+> To celebrate December 5th, the Dutch Saint Nicholas holiday, Netherlanders gather for parades in which the saint, in Dutch Sinterklaas, arrives in town to hand out candy and gifts. But these parades have taken on an increasingly political and violent tone this year because of Santa's traditional blackface sidekick. In Dutch tradition, Sinterklaas has a helper
+
+- Helper in quotes, that means slave.
+
+> named Zwarte Piet,
+
+- That's the Apostle Peter.
+
+> or Black Pete, who usually appears as a blackface character with large gold earrings and exaggerated lips. In the weeks leading up to the saint's named day, cities and towns host parades featuring hundreds of white people dressed as Pete. Stores stock up with Zwarte Piet costumes, merchandise, and baked goods, while adults visit children's homes and schools dressed as Sinterklaas and Pete.
+
+> Read how Krampus, the Christmas devil, became cool.
+>
+> The growing number of Netherlanders who are protesting the tradition of Saint Nicholas' notorious assistant, however, have faced increasing pushback. This year, white supremacists raised Nazi salutes at the Sinterklaas parade in Hoorn
+
+- They know exactly what the holiday is about.
+
+> and flew neo-Nazi flags at the one in Zaanstad. In Eindhoven, an estimated 250 white extremists chanted racist slogans and threw eggs and beer cans at people peacefully protesting the parade.
+
+- The reason the Neo-Nazis are coming out now is because black people over there and some whites are protesting the blackface.
+
+</div>
 
 
 **[2 Timothy 4:4](/bible/2-timothy/4#v4)**  *[[1:44:21](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=6261s)]*
@@ -128,11 +615,43 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
     Christ kept the feast of dedication in winter, not a December birthday.
 
 
+<div class="reading">
+
+Reading from a Google search on Abib  *[[1:46:39](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=6399s)]*
+
+> Yes, Abib or Aviv in the Bible means spring, specifically the season when young, tender barley ears, Abib, first appear, marking the start of the religious new year around March/April
+
+- So, New Year's is in spring. Abib is spring, not winter. They're celebrating the new year in the winter.
+
+- I asked, Abib is spring. I typed that and this is what popped up.
+
+- That's when spring comes in, the end of March, beginning of April.
+
+> in the Gregorian calendar,
+
+- So, if you see Israelite groups celebrating Passover in the month of Abib in February, there's something wrong. There is something wrong. Or July, there's something wrong. Or June, there's something wrong.
+
+> and the time for Passover and the firstfruits offering. It signifies renewal, freedom from Egypt, and the beginning of the agricultural year with the first grain harvest.
+
+</div>
+
+
 **[Revelation 13:4](/bible/revelation/13#v4)**  *[[1:47:53](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=6473s)]*
 
 > <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
 
 - The world worships the beast, and the image of Christ it worships is really Cesare Borgia.
+
+
+<div class="reading">
+
+Reading from the book *Pillory*, the caption under a bust of Cesare Borgia  *[[1:48:37](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=6517s)]*
+
+> The original of this bust was found in the Church of San Salvatore in Termini, now destroyed. It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
+
+- So, that's Cesare Borgia. So, this is some of the blasphemy that they did.
+
+</div>
 
 
 **[Hebrews 6:1](/bible/hebrews/6#v1)**  *[[1:49:38](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=6578s)]*
@@ -192,6 +711,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
 - America exercises all the power of Rome, and its seal is written in Latin.
 
 
+<div class="reading">
+
+Reading from an article on Janus  *[[2:05:14](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=7514s)]*
+
+> Janus is the unique Roman god of beginnings, endings, doorways, transitions, time, and duality, famously depicted with two faces looking in opposite directions, one to the past, one to the future, symbolizing reflection and foresight. He presided over all thresholds, from doorways and gates to New Years, wars, and life changes, with the month of January named in his honor, marking new starts.
+
+- So, January is from the Roman god Janus. Oh, we don't worship Rome.
+
+</div>
+
+
 **[Exodus 12:1](/bible/exodus/12#v1)**  *[[2:06:44](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=7604s)]*
 
 > <sup>[1](/bible/exodus/12#v1)</sup> And the Lord spake unto Moses and Aaron in the land of Egypt, saying,
@@ -230,7 +760,31 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
     The lesser light rules the night.
 
 
-**[Sirach 43:6](/bible/sirach/43#v6)**  *[[2:16:01](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=8161s)]*
+<div class="reading">
+
+Reading from an article, "Under the moonlight: the ancient tradition of full moon celebrations"  *[[2:13:44](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=8024s)]*
+
+> Under the moonlight, the ancient tradition of full moon celebrations. The full moon holds a unique significance across many cultures, symbolizing a moment of culmination, reflection, and renewal. Under the glow of the full moon, people have gathered for centuries to honor the cycles of nature, connect with their deepest selves, and find unity within their community.
+
+- Now, when you read this whole thing, it tells you how many cultures, like the Mayan.
+
+> Here at Eagles Nest, each full moon gathering is woven with ancient wisdom and modern intention, inspired by Maya tradition.
+
+- Inspired by the Mayans. So, the whole article is different cultures that celebrate the full moon. What you're going to find out is the full moon is actually the new moon.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an on-screen search result on coquí frogs  *[[2:16:29](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=8189s)]*
+
+> Yes, coquí frogs are nocturnal, emerging at night, especially under moonlight.
+
+</div>
+
+
+**[Sirach 43:6](/bible/sirach/43#v6)**  *[[2:17:02](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=8222s)]*
 
 > <sup>[6](/bible/sirach/43#v6)</sup> He made the moon also to serve in her season for a declaration of times, and a sign of the world.
 
@@ -352,6 +906,37 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
     > <sup>[12](/bible/joshua/23#v12)</sup> Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you:
 
     If ye make marriages with them, they shall be snares and traps unto you.
+
+
+<div class="reading">
+
+Reading from on-screen headlines and search results on mixed marriages  *[[2:49:17](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=10157s)]*
+
+> Kenyan vanishes in US after meeting her white boyfriend on Craigslist.
+
+- Wait, that dude weigh 400 lb. And she look like she weigh a buck 30. The hell is this?
+
+> My blood is on your hands. Paige Shiver allegedly exposed the affair herself and watched Sherrone Moore lose everything.
+
+- He already had a white woman at home, but that wasn't good enough. He needed a young white woman.
+
+- So he lost everything for a white coontang. That's a snare and a trap right there.
+
+> Sherrone Moore stands to lose approximately $21.35 million in forfeited contracted value after being fired by the University of Michigan for cause due to an inappropriate relationship with a staff member. Michigan claims it is not obligated to pay the remaining money on his five-year $27.5 million contract due to the termination circumstances.
+
+- And you know what? He doubled her salary and gave her a six-figure job. The hell is this? He ain't do that for no black woman. You can't make this stuff up.
+
+> Yes, Shannon Sharpe lost significant financial standing in his ESPN contract due to a serious sexual assault lawsuit filed in April 2025, which he settled for an undisclosed amount, but reportedly involved millions in payments to avoid public damage, before ESPN cut ties with him in late July 2025, despite his denial of the allegations. While the exact settlement figure wasn't disclosed, his attorney mentioned offers of tens of millions, and the fallout cost him his high-profile role on First Take and potentially damaged his brand, though his podcast continues.
+
+- Not that it matters, cuz God said don't do it. You brothers understand that? You be like, "Yeah, but she good-looking." Yeah, he lost everything for the good-looking one.
+
+> Halle Berry's ex-partner, Gabriel Aubry, was accused by the actress in court documents of calling her a … during their custody dispute over their daughter.
+
+- She got to pay $8,000 a month to that Edomite. A month.
+
+- So when she pays him $8,000 a month, he says, "Thank you, nigger." And then walks away. You can't make this stuff up.
+
+</div>
 
 
 **[Romans 8:17](/bible/romans/8#v17)**  *[[3:01:52](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=10912s)]*
