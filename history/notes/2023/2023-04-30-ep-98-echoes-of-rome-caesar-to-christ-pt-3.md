@@ -1,0 +1,902 @@
+---
+title: "Echoes of Rome: Caesar to Christ Pt 3"
+slug: "2023/2023-04-30-ep-98-echoes-of-rome-caesar-to-christ-pt-3"
+date: "2023-04-30"
+episode: 98
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2023-04-30 · with a captain and officers"
+tags: ["Our Hidden History", "captivity", "christ"]
+---
+
+<p class="taught">Our Hidden History · 2023-04-30 · Deacon Eythan, with a captain and officers</p>
+
+<span class="opens"><b>Opens</b> [Eccl 1](/bible/ecclesiastes/1) · [Acts 6](/bible/acts/6) · [Gal 3](/bible/galatians/3) · [Acts 22](/bible/acts/22) · [Matt 1](/bible/matthew/1) · [Luke 1](/bible/luke/1) · [Matt 2](/bible/matthew/2) · [Sir 43](/bible/sirach/43) · [Ps 64](/bible/psalms/64) · [Deut 4](/bible/deuteronomy/4) · [Isa 47](/bible/isaiah/47) · [Jer 10](/bible/jeremiah/10) · [Gen 41](/bible/genesis/41) · [Exod 7](/bible/exodus/7) · [Rev 12](/bible/revelation/12) · [Rev 18](/bible/revelation/18) · <i>and 6 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="ecaMOv6O500"></div>
+
+## Introduction
+
+*[[11:17](https://www.youtube.com/watch?v=ecaMOv6O500&t=677s)]* Excuse me, that's where we had a little bit of technical difficulties. You know, we had to sort out certain technical issues in IT. They had something clogged up over there, so you have to release it, man. Hey. So for those of you that's been keeping up with us, we've been going through ancient Rome and doing a comparison to America. And it's very important, because like I always say, can we get Ecclesiastes chapter 1 verse 9.
+
+*[[11:47](https://www.youtube.com/watch?v=ecaMOv6O500&t=707s)]* The Echoes of Rome is showing the parallels between America and Rome, and what to expect. Yes, we read about it, but we want to give you the historical aspect on our daily lives in Rome. How did our ancestors, our fathers, the disciples, the prophets, how did they deal with stress? How did they deal with persecution under the different political leaders they set up in position? How were their spirits? What did they implement? What laws did they put in place to enact the persecution? So we want to give you a broader perspective on the matter.
+
+## Readings and Scriptures
+
+**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[[12:27](https://www.youtube.com/watch?v=ecaMOv6O500&t=747s)]*
+
+> <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
+
+- So there is no new thing under the sun. The life that we yet lived yesterday is a life that we are living today. Remember, God's judgment is as a ring. What happened in ancient Rome is happening to the newfound Rome, which is America.
+
+*[[12:57](https://www.youtube.com/watch?v=ecaMOv6O500&t=777s)]* Now we want to pick up The Libertines. Let's get Acts chapter 6 verse 9.
+
+**[Acts 6:9](/bible/acts/6#v9)**  *[[13:00](https://www.youtube.com/watch?v=ecaMOv6O500&t=780s)]*
+
+> <sup>[9](/bible/acts/6#v9)</sup> Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
+
+- Called the what? The synagogue of the Libertines. Go on.
+
+- All right, now let's get some information on who the Libertines were.
+
+<div class="reading">
+
+Reading from an article on the synagogue of the Libertines (the source isn't named)  *[[13:36](https://www.youtube.com/watch?v=ecaMOv6O500&t=816s)]*
+
+> The synagogue of the Libertines. According to the Acts of the Apostles, the synagogue of the Libertines, or synagogue of the freedmen, were a group of Hellenistic Jews who disputed with Saint Stephen. Acts 6:9.
+
+- Go down. Stop right there.
+
+> The meaning of Libertine in this passage is different from the generally understood connotation of a dissolute person. In this instance, libertine refers to one who has been liberated, that is, a former slave.
+
+- There's a what? A former slave. One that has been liberated, that was a former slave. Why? Because the real Jews of the Bible were slaves. Not these phony people calling themselves Yehudi, I'm Yehudi, with the curly hair. No, they were never slaves. The only ties that they have to oppression is what they call the Holocaust. I'll say it again: the only ties that they have to oppression is what they call the couple years of the Holocaust. They never experienced real life oppression. They talking about they have PTSD. For what, …? What are your PTSD for? Four years. Four years of that trauma does not equate to over 400 years plus. I'll say it again: with American captivity, 400 years. Prior to that we have the … Saharan slave trade, we got the Roman slave trade, we got the Greek slave trade, the Persian slave trade, the Babylonian slave trade, we got the slave trades in the Judges, we got the Egyptian slave trade. So your four years don't mean sh to our centuries, our millenniums.
+
+- We have our history that was in captivity from the very first forming of the whole nation. It was in captivity, it was in Egypt. I don't think people realize that all we've known our whole life is slavery.
+
+- **Officer:** That's right.
+
+- **Deacon Eythan:** So you're talking about your four years; we got generational, we got millennial, we got historical trauma, global history trauma. So we want to hear that. Now, got anything else on that?
+
+- **Officer:** Yes sir.
+
+> The meaning of Libertine in this passage is different from the generally understood connotation of a dissolute person. In this instance, libertine refers to one who has been liberated, that is, a former slave or freedman. Those attending this particular synagogue might also include the descendants of such freedmen. Opinion is divided as to the number of synagogues named here. The probability is that there are three, corresponding to the geographical regions involved: Rome and Italy, Northeast Africa, and Asia Minor. In this case, the synagogue of the Libertines is the assembly of the freedmen from Rome, descendants of the Jews enslaved by Pompey.
+
+- Descendants of the Jews that were enslaved by Pompey. And we're looking at, like I said, Pompey was around for 46 BC or so.
+
+- **Officer:** 63.
+
+- **Deacon Eythan:** Oh, sorry. 63 BC.
+
+- **Officer:** Yes. Well, that's when he conquered us.
+
+- **Deacon Eythan:** Yes, that's when he conquered, 63 BC. So all of them, Pompey worked alongside with Julius Caesar. But what you're seeing, that is the synagogue of the Libertines. So you have certain Israelites that were still slave status in Rome.
+
+- **Officer:** Yes.
+
+- **Deacon Eythan:** That's why Paul made this statement. Get Galatians chapter 3 verse 28. Now, the Libertines were the synagogue of the freedmen.
+
+</div>
+
+**[Galatians 3:28](/bible/galatians/3#v28)**  *[[17:36](https://www.youtube.com/watch?v=ecaMOv6O500&t=1056s)]*
+
+> <sup>[28](/bible/galatians/3#v28)</sup> There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
+
+- So that Jew is referenced to the southern kingdom, Judah, Benjamin and Levi. And the Greek is going to the northern tribes, or those Israelites scattered throughout the Greek provinces, or the Greek diaspora. You also call them Hellenist Jews: Jews that spoke the Greek language. Go on.
+
+- Male or female, because we're all the same in Christ. Go on. We are all one in Christ Jesus. Go on. Sorry, did you read the part? I skipped the part. Read it again.
+
+- **Officer:** Yes sir.
+
+- **Deacon Eythan:** Bondman or free man. Paul was a free man; that's why it says bond nor free. You had Jews during the Roman time period, some Jews had liberty, like you have the libertarians.
+
+- **Officer:** Yes.
+
+- **Deacon Eythan:** Some of the disciples had the liberty to be able to move around. But it's the same thing today. Us in America, we have some sort of freedom or liberty that God gave us access to. Because after, like I said, the 1860s, you have, not Abraham Lincoln, God gave us freedom in order to push this gospel, in a Great Awakening, or what we call the Great Revival. So God's the one that gave us access, or allowed us that freedom. Now you have Israelites then scattered throughout the diaspora to this day that are slaves. You got some Israelites in Saudi Arabia, you got some in Mauritania. Give me some other places.
+
+- **Officer:** In Italy. In a city in Italy, people being oppressed over there. They're picking tomatoes right now.
+
+- **Deacon Eythan:** Okay. So yes, to this day they doing slave labor over in Italy. In America, with the northern kingdom. But the northern kingdom does it with a smile, right?
+
+- **Officer:** Yeah. The northern kingdom does the jobs that nobody want to do.
+
+- **Deacon Eythan:** Yeah. Picking the crops, the fruits. They do it for the low. They're doing it right here in New Jersey.
+
+- **Officer:** Yeah, right here in Jersey. You'll be driving by and you see the big field, nothing but northern kingdom picking up those vegetables.
+
+- **Deacon Eythan:** Damn. It's back-breaking work too, right here in New Jersey. And do you have Domino? What is it? Domino Sugar.
+
+- **Officer:** Okay. A sugar company in Santo Domingo, in DR.
+
+- **Deacon Eythan:** Domino. Yes, Domino Sugar. Puerto Rico. That's in Puerto Rico. It started in Puerto Rico, after the Spanish-American War. So they took over, and the general they put over there started to establish his sugar empire from Puerto Rico, and started enslaving the Puerto Ricans in Puerto Rico.
+
+- **Officer:** But they have one also in DR.
+
+- **Deacon Eythan:** They do, yeah.
+
+- **Officer:** In DR there's a gold mine that is owned by Canada.
+
+- **Deacon Eythan:** Don't talk about the sugar plantation you guys have in DR. You oppress the Levi out there.
+
+- **Officer:** No, I don't know anything about that. There's a gold mine. I'm not fresh on that history.
+
+- **Deacon Eythan:** It was in the 1900s. So go home, you gotta do some research. If you guys don't know, or you haven't seen a documentary, there's a documentary on the Domino family.
+
+- **Officer:** Italian family, right?
+
+- **Deacon Eythan:** Okay. And they have a sugar plantation in DR, and the Haitians that try to come up to work on the plantation, they take their passport.
+
+- **Officer:** Well, not passport there. What do you call it over there? Like the paperwork.
+
+- **Deacon Eythan:** The paperwork, yeah. So they promised work. In Haiti, they go over there, they go to work, they take their paperwork, the green cards. So now they're stuck on the plantation. They have nowhere else to live, man.
+
+- **Officer:** Yeah. I mean, they're working like 30 cents a day.
+
+- **Deacon Eythan:** Yeah, they're getting whipped. And then you have these … using Simeon to oppress their own brothers.
+
+- **Officer:** Yep. Damn.
+
+- **Deacon Eythan:** So look at the documentary. It's called Domino Sugar Plantation, where they actually enslaving Levi over there. They can't even leave. Once they took your paperwork, they have no access to Haiti or to DR, so they're stuck in that plantation, working for cents a day, living in shacks. All right, anything else? So, neither free nor bond. So yeah, free man, and then you have bondmen, that was bound. Now let's go to Acts chapter 22.
+
+- That's why Paul said this. Is this Acts 22 or is it 26, when he says I am a Roman?
+
+- **Officer:** 22, 27. Yes.
+
+- **Deacon Eythan:** And when he says, with a great liberty?
+
+- **Officer:** Yes, that's it. That's it.
+
+**[Acts 22:27-29](/bible/acts/22#v27)**  *[[22:49](https://www.youtube.com/watch?v=ecaMOv6O500&t=1369s)]*
+
+> <sup>[27](/bible/acts/22#v27)</sup> Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.
+
+- He says, I am a Roman citizen. Equivalent today to: I am an American citizen. I am a Roman citizen, because with that you get certain benefits that you don't get in other countries. Being an American citizen actually gives you a little bit more power, or liberty, to be able to travel. That's why the disciples were able to travel a little bit more liberally, or even Paul was able to go through the diaspora a little bit easier. Go on.
+
+> <sup>[28](/bible/acts/22#v28)</sup> And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born.
+
+- You see that? He said with a great what? With a great sum obtained I this freedom. So the chief captain says, surely with a great sum you had to cough up money. There's no way to be a Roman citizen, or be freeborn, just by chance. So the chief captain told Paul, you with a great sum had to purchase this freedom. Meaning you had to buy a way out of slavery. Go on.
+
+- And Paul said, but I was freeborn. He says, I was freeborn. I was born free. I wasn't born bound. Go on.
+
+> <sup>[29](/bible/acts/22#v29)</sup> Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.
+
+- **Officer:** That's it. That's heavy, because they said that the American passport holds more power than any other passport that you would get from any country, to move throughout the world, pretty much. So that's heavy, that, you know, there, you say he's a Roman citizen; that held power at that time to move throughout the world. So same thing today. If you have a passport, you don't need a visa or anything. You go to Haiti, there's a section for the American passport and the Haitian passport, so you get through faster with the American passport in Haiti.
+
+- **Deacon Eythan:** Wow. And even with the American passport and American citizenship, as you saw with Paul, there's like a protection with that.
+
+- **Officer:** Oh no, no. That's a citizen.
+
+- **Deacon Eythan:** Because that shows you the strength of a country behind you, when you touch one of the citizens. That's why some places they won't touch an American citizen, or they'll negotiate: hey listen, we got this, let's exchange for this. Because that citizen is worth money to them, or sometimes it's worth some type of wealth, because they said, no, this is a citizen of our country. When they travel, they're American citizens. No, make sure you let them know that, because it holds some type of weight. And people say, oh no, if we touch them, then we got to deal with the country.
+
+- **Officer:** Right. I'm pretty sure that's kind of what happened to us when we were in Cuba, in a sense. When they saw all of us, and they saw we were all Americans, they handed those passports, they were looking at us like, how do we deal with them? Like, we're not sure if they're expired or what. But they were really cautious on how to deal with us.
+
+- **Deacon Eythan:** Ain't stupid. Ain't gonna make a move. They understand the consequences. There's consequences if they touch a citizen. They say, oh no. Because America, wherever anybody goes, America is the world-dominating superpower, and every country got to know: wherever my citizens travel, make sure they're safe.
+
+- **Officer:** Because it was the Most High.
+
+- **Deacon Eythan:** Exactly. Yep, that's right. So now let's go to... Got anything else on it?
+
+- **Officer:** Yeah. Let's get page 67. There's a page I just posted on the Libertines on Telegram, to go along with what you just read earlier.
+
+- **Deacon Eythan:** If y'all can post it. It's real quick. Just a second. Bring it up. Bring it up. That's it. Yeah, that's it. All right. Okay, see what you got.
+
+<div class="reading">
+
+Reading from a book, page 67 as stated, posted on Telegram, on the Libertines and the Judeans in Rome (the book isn't named)  *[[26:59](https://www.youtube.com/watch?v=ecaMOv6O500&t=1619s)]*
+
+> Of course it can never be real freedom. It may be the liberty of the libertine, of the slave who has just got free, but it never is the freedom of the free man. The ex-slaves of the old Romans were called libertines.
+
+- **Officer:** So that goes into how we were slaves with Pompey, and then came Julius, and we fought for him to defeat Pompey, and then he came in.
+
+- **Deacon Eythan:** Yeah. The Libertines were the ex-slaves of Rome, and had their synagogue, because Pompey and Julius worked side by side at one point. They worked collectively, until, like I said, they started fighting for power. It's no different from today, in terms of the North fighting against the South. You have the Confederates going against the Army, right, and the Union. And then, guess what, we had to fight for our freedom. They would use us in their army, but then afterwards they oppress us.
+
+- **Officer:** Exactly. We're done with you now.
+
+- **Deacon Eythan:** And they said, anybody that wants to attain their freedom, you gotta fight with the Union Army. So it's the same thing that happened back then. No different.
+
+- **Officer:** Get page 67 real quick. It kind of reminds me of the movie Emancipation. The brother left from the South, went to the North, and then he was pissed off. Yeah. So, yo, this is slavery again.
+
+> There were without doubt many Judeans living in Rome and in other Italian cities before Pompey's conquest, who may have immigrated into Italy from Egypt and Asia Minor for commercial objects, as merchants bringing grain, or tribute money from Asia Minor. They may have come into contact with the Roman politics, but these immigrants could hardly have formed a regular communal organization, for there were no authorized teachers of the law amongst them. Probably, however, some learned men may have followed in Pompey's train of captives, who were ransomed by their compatriots and persuaded to remain in Rome. The descendants of these prisoners would call, according to Roman law, libertini, the freed one. The Judean quarter in Rome lay upon the right bank of the Tiber, on the slope of Mount Vatican, and a bridge leading across that river to the Vatican was known for a long while by the name of the bridge of the Judeans.
+
+- All right, I just want this part right here.
+
+> The Roman Judeans influenced to a certain extent the course of Roman policy, for as the original immigrants as well as the ransomed captives enjoyed the power of voting in public assembly
+
+- So just like us. Even after we was emancipated here, they gave us the power to do what? To vote. You know, they started having us registered to vote.
+
+- **Officer:** Same thing. Of inclusion.
+
+- **Deacon Eythan:** Yeah, make us feel good. But yeah, every what, 20 years we got to get our right to vote?
+
+- **Officer:** Every 25 years.
+
+- **Deacon Eythan:** Exactly. Let's go to Matthew chapter 1 verse 17.
+
+</div>
+
+**[Matthew 1:17](/bible/matthew/1#v17)**  *[[30:01](https://www.youtube.com/watch?v=ecaMOv6O500&t=1801s)]*
+
+> <sup>[17](/bible/matthew/1#v17)</sup> So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
+
+- So all the generations from Abraham to David is 14 generations. Go on. And that was the establishment of our kingdom in Jerusalem. Go on.
+
+- And from the time period of David to the carrying away into Babylon. So from David you had King Solomon came up in rulership. From Solomon you have his son Rehoboam, and then you have Jeroboam, when the kingdom was split. From Rehoboam, Jeroboam, you have the northern kingdom was exiled out of the land and brought into the Syrian captivity. So that's why it says from David unto Babylon. Then Babylon: you had the southern kingdom was carried into captivity under the hand of, and conquered by, Nebuchadnezzar. So we're showing a series of events: from Abraham all the way to David, to the establishment of the kingdom; from David to the Babylon captivity; from the rise of Israel to the fall and split of Israel. Go on.
+
+- And from the carrying away from Babylon even unto Christ. When the southern kingdom fell by Nebuchadnezzar, then we went through the Persian and Mede captivity. From the Persian and Mede captivity we went to the Greek captivity, and now we're reading about the Roman captivity. So what you're showing is a series of events, leading from our ascent in the promised land to our descent, in the fall of us and being scattered. So, and you wonder why. In the next verse, we keep on reading to verse 21, it says this. So we're showing our captivities. Verse 21.
+
+**[Matthew 1:21](/bible/matthew/1#v21)**  *[[31:49](https://www.youtube.com/watch?v=ecaMOv6O500&t=1909s)]*
+
+> <sup>[21](/bible/matthew/1#v21)</sup> And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
+
+- And that's why it says from Babylon to Christ. She shall bring forth a son; he shall save his people. Christ came on the scene during the Roman captivity to save us from what? From oppression. To save us from captivity. Why, all of a sudden, the people that were captives, now Christ come on the scene, came to give liberty, or to give freedom, or salvation, to everybody? But we're the ones that suffered slavery. So when Christ came on the scene, he came to save those people that went through those series of events, and went from one captivity to the next captivity, that needs saving, because we're the ones that broke God's laws. They're replacing captivity for our disobedience.
+
+- And God, in every single captivity, sent a savior. Sent Jeremiah, sent Ezekiel, Zephaniah, sent Haggai. He sent the Maccabees for help. They always sent a savior, and it always went to the children of Israel. When did Jeremiah, Ezekiel, when did Isaiah, when did Nehemiah, when did they ever go to the other nations? Now all of a sudden, the prophets always attended to the people; now in the Roman captivity Christ come on the scene and say, you know what, I want to give the slave and the slave master liberty. I want to give the slave and the slave master freedom? Christ came to save his people from captivity, as well as their sins, because our sins are the ones that brought us into slavery, to go into the curses of Deuteronomy 28. Get Luke 1:68.
+
+**[Luke 1:68-71](/bible/luke/1#v68)**  *[[33:50](https://www.youtube.com/watch?v=ecaMOv6O500&t=2030s)]*
+
+> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
+
+- Blessed be the Lord God of Israel, right? He have visited. Why? Because the Roman captivity was a time period for Christ to make himself manifested to who? Israel. John spoke about that in John 1:29; says that he made himself manifested unto the children of Israel. Read that again.
+
+- Blessed be the Lord God of Israel: the God of Abraham, Isaac and Jacob. Read. In this captivity he visited and redeemed his people. Read.
+
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
+- For us, a horn of salvation. In order to be saved, you got to be saved from something: some type of traumatic experience, traumatic event, or some type of occurrence, something that you can't get yourself out of. We're the only people that don't have a government. We don't have an army, a military; we're integrated into the army, into the military. We have governments and powers that rule over us. Look, we just read the Libertines. We just read the chief captain saying, are you freeborn, are you bond? What people could say? We're the only people going through these traumatic experiences. We're the ones that need saving from our oppressors. Go on.
+
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+>
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
+
+- That we should be saved from our enemies. Christians don't understand that.
+
+- **Officer:** Nope.
+
+- **Deacon Eythan:** Christians keep on saying, oh well, we got to be saved from our sins. Right, okay, you're right. We do got to be saved from our sins, because our sin is the one that led us into captivity. So by being saved from my sins, getting that grace and mercy to keep God's commandments, then we could get that time period, or that great experience, so that we could get ourselves right, so the Most High could redeem us from the land of our captivities. And we were the only ones given the law, to break God's laws.
+
+- You know, it was funny. We saw a teacher today. We had a sister asking; she said, so why is it that there's so many different religions, or different ideologies, different doctrines? And she says, what you're reading, it's coming straight from the Bible, so how do all these things happen? I said, because these other nations don't have a God, and we started following the nations that had us captive, and following their religion. That's why they had different denominations, different disagreements amongst the other nations, and they splintered. But notice how they're arguing. They created these man-made religions supposedly based upon the Bible, but not one of them take from the Bible.
+
+- **Officer:** Right.
+
+- **Deacon Eythan:** You could have a thousand religions and not one of them is connected to the rule. Not one of them follow the Bible. All those religions: oh, I have a philosophy how to follow Jesus Christ. Christ said, if you love me, keep my commandments. It's that simple. They were never given God's laws. That's why there's so much confusion in the world. What God do I serve? Do I serve a Pokemon god? Do I serve Onyx? Do I serve Jinx? Do I serve Mr. Elephant Man? Do I serve Shiva? It's confusion. We're the only ones that have the real God. Now, anything else you guys want to bring up?
+
+- **Officer:** Now I want to bring an example. Matthew 2. An example of the salvation that we needed. Because in Matthew 2 verse 16, Herod put a decree out to kill all the children. Imagine a decree being put out today to kill all two-year-olds and under.
+
+- **Deacon Eythan:** Exactly. Crazy. That's the power they had. Just, all right, I just want to kill everybody. A child, a child, a child. Think about that. Read it.
+
+**[Matthew 2:16](/bible/matthew/2#v16)**  *[[37:53](https://www.youtube.com/watch?v=ecaMOv6O500&t=2273s)]*
+
+> <sup>[16](/bible/matthew/2#v16)</sup> Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
+
+- **Officer:** That's the salvation we needed, from the oppression, the persecution, that at the drop of a dime they could come and just kill us, because that's the power they have. That's the same thing that's going to happen today. And the leadership, Bishop always tells us, yo, don't be comfortable, because they're going to start enacting these laws, and they're going to start doing what they want to do, and the persecution is going to come.
+
+- **Deacon Eythan:** We need Christ. We need him to what? To be saved from our enemies, and from all those that hate us, because they still hate us today. We have no power in this country, just like we had no power back then.
+
+*[[38:48](https://www.youtube.com/watch?v=ecaMOv6O500&t=2328s)]* Now, Julius Caesar. Can you pull up a picture of the demon which the world praises as Julius Caesar?
+
+- **Officer:** They like to say they all look the same, just different clothing.
+
+- **Deacon Eythan:** Yeah. When they make these busts, they're pretty much all the same look, the same armor and all that.
+
+- **Officer:** He's the one that they named July after, right?
+
+- **Deacon Eythan:** We're gonna get into that. Yep. So Julius Caesar lived from 100 BC to 44 BC. He reigned from 46 BC to 44 BC. Can we get some of the things that Julius Caesar... Yes sir. All right, let's go to New Year's. So, some of the things that happened under the reign of Julius Caesar. Blow it up. Ancient New Year's celebration. Start up top.
+
+<div class="reading">
+
+Reading from an article on the ancient New Year's celebration and Julius Caesar's calendar (the source isn't named)  *[[39:51](https://www.youtube.com/watch?v=ecaMOv6O500&t=2391s)]*
+
+> In 45 BC, New Year's Day is celebrated on January 1st for the first time in history, as the Julian calendar takes effect. Soon after becoming Roman dictator, Julius Caesar decided that the traditional Roman calendar was in dire need of reform. Introduced around the 7th century BC, the Roman calendar attempted to follow the lunar cycle, but frequently fell out of phase with the seasons and had to be corrected.
+
+- So notice how it says the Roman calendar originally followed the lunar cycle. Following the lunar cycle is following the months of the moon, going into the different months, which was dictated by the moon. Can you get Sirach 43 verse 6? And can you guys get the article with how he's persecuting us on New Year's? Just get that ready. Don't get it yet, but get it ready.
+
+</div>
+
+**[Sirach 43:6-8](/bible/sirach/43#v6)**  *[[41:09](https://www.youtube.com/watch?v=ecaMOv6O500&t=2469s)]*
+
+> <sup>[6](/bible/sirach/43#v6)</sup> He made the moon also to serve in her season for a declaration of times, and a sign of the world.
+>
+> <sup>[7](/bible/sirach/43#v7)</sup> From the moon is the sign of feasts, a light that decreaseth in her perfection.
+>
+> <sup>[8](/bible/sirach/43#v8)</sup> The month is called after her name, increasing wonderfully in her changing, being an instrument of the armies above, shining in the firmament of heaven;
+
+- So the moon, the lunar calendar, was globally the world calendar that everybody follows, on up until, like I said, Julius. Now you have other, like I said, empires that typically try to follow the sun, the solar calendar. But that's the argument: either to follow the solar calendar or the lunar calendar. So under Julius Caesar, he said, you know what, I'm not going to follow the lunar calendar anymore. Because everybody understood that the months were dictated by the Hebrew calendar, or the lunar calendar, surrounding the moon. Which is, a month comes from moon. The full moon dictated the beginning of the month. All right, now go back to the first article.
+
+<div class="reading">
+
+Reading from the article on the ancient New Year's celebration, continued  *[[42:34](https://www.youtube.com/watch?v=ecaMOv6O500&t=2554s)]*
+
+> Soon after becoming a Roman dictator, Julius Caesar decided that the traditional Roman calendar was in dire need of reform. Introduced around the 7th century BC, the Roman calendar attempted to follow the lunar cycle, but frequently fell out of phase with the seasons
+
+- And they're idiots. They're retards. All you got to do is follow the month, the moon. The moon. That's how that shows you. When you don't have the Israelites in power, nobody really understands how the world operates. This is the simplicity of Christ. You have the full moon come; you follow the full moon. Right. Based upon the full moon you go to the next full moon, and then from that full moon you go to that next full moon, and then you have 12 months' cycle throughout the year. Then you have springtime. It's that simple. Then you count the high holy days based upon the months that God gave us. In Leviticus 23 he said the seventh month, the tenth day, the eighth day, the 14th day. God specifies exactly how to follow it. But what happens is, you got these nations think they're smarter than God, try to go around the Bible to set themselves up as God. They said, no, no, no, that's too complicated. It doesn't follow my seasons, or my holidays. Because their holidays weren't biblical.
+
+- **Officer:** That's why, Daniel 7:25, they think...
+
+- **Deacon Eythan:** Oh yeah, we're gonna get that. Yep, exactly. They think to change time. They think they're doing something, but it's confusion. Where you got to set the time backwards and forth, for what? What is the purpose? They create problems for no reason. Like, who would think, oh, you know what, I'm gonna set it forward and then backwards. Why? What's the whole purpose of that? You're the only country that think you're smarter than God. Right. I'm going to show you how evil this demon is. Keep going.
+
+> Introduced around the 7th century BC, the Roman calendar attempted to follow the lunar cycle, but frequently fell out of phase with the seasons and had to be corrected. In addition, the pontifices, the Roman body charged with overseeing the calendar, often abused its authority by adding days
+
+- By what? Adding days. They added days. That's right. The Bishop made a statement and says that we don't really know what time period that we're really living in. We don't know what year it is. Why? Because of the days. That's why we follow the moon cycle, because with the moon cycle it will never go out of whack. We understand that, in terms of how to keep time, and to keep the high holy days, and we keep track concerning the prophecies. The only way we're able to measure time is due to prophecies, and measure our days and the months out of the year, it's through the lunar cycle. Other than that, we have no clue what year it is. I'll say it again: other than that, we have no clue what year it is. Go on.
+
+> In addition, the pontifices, the Roman body charged with overseeing the calendar, often abused its authority by adding days to extend political terms or interfere with elections. Ancient New Year's celebration. In designing his new calendar, Caesar enlisted the aid of Sosigenes, an Alexandrian astronomer, who advised him to do away with the lunar cycle entirely and follow the solar year, as did the Egyptians.
+
+- So, yes, he is the one that introduced the solar cycle. As did what? Do away with the lunar cycle entirely and follow the solar year, as did the Egyptians. Go to Psalm chapter 64 verse 6. As did the Egyptians.
+
+</div>
+
+**[Psalms 64:6](/bible/psalms/64#v6)**  *[[46:22](https://www.youtube.com/watch?v=ecaMOv6O500&t=2782s)]*
+
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+
+- So Sosigenes was an astronomer that came from Alexandria. Alexandria is in Egypt. And Alexandria, they have one of the biggest libraries, right?
+
+- **Officer:** Yes sir. In Egypt.
+
+- **Deacon Eythan:** That's where they had what is called the Septuagint, that was translated in Alexandria by about 70 of the Sanhedrin, translated into the Greek. So you have Alexandria. So they understood; they had libraries there, and they did the diligent research, and said, no, let's follow the solar calendar, based upon sun worship, pagan idolatry. You notice how they always go back to the sun, or sun worship? The solar calendar. Let's go to the sun, or helio... what is it called?
+
+- **Officer:** Heliocentric.
+
+- **Deacon Eythan:** Heliocentric. Everything revolves around the sun, rather than the earth. Heliocentric. So everything revolves around sun worship, or the sun god Ra, or ancient Nimrod. So it goes back to pagan sun worship. That's why the Christians today, they worship on what day? Sunday. After the sun god. That's who they're worshiping by this.
+
+- **Officer:** Today is spiritual Egypt.
+
+- **Deacon Eythan:** Exactly. You're the same thing that Egypt was doing, spiritually. Worshiping the same gods by different names.
+
+- **Officer:** Yep. Deuteronomy 4:17. Worshiping the same god. They can't help themselves.
+
+- **Deacon Eythan:** Deuteronomy chapter 4 and verse... 19.
+
+- **Officer:** Yes sir. Verse 19.
+
+**[Deuteronomy 4:19](/bible/deuteronomy/4#v19)**  *[[48:18](https://www.youtube.com/watch?v=ecaMOv6O500&t=2898s)]*
+
+> <sup>[19](/bible/deuteronomy/4#v19)</sup> And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the Lord thy God hath divided unto all nations under the whole heaven.
+
+- So that's what Sosigenes was. And remember, he was an astronomer. Get that in Ezekiel chapter 28.
+
+- **Officer:** I think it's Isaiah, what you're looking for. 47. Isaiah 47.
+
+- **Deacon Eythan:** Oh, with the astronomers. Yeah. Sun worship, the solar system. That's why he changed it, because they worshiped the sun god. Go on.
+
+**[Isaiah 47:12-13](/bible/isaiah/47#v12)**  *[[49:05](https://www.youtube.com/watch?v=ecaMOv6O500&t=2945s)]*
+
+> <sup>[12](/bible/isaiah/47#v12)</sup> Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast laboured from thy youth; if so be thou shalt be able to profit, if so be thou mayest prevail.
+>
+> <sup>[13](/bible/isaiah/47#v13)</sup> Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee.
+
+- So the same thing. America has a council. Now, some of the councils going back to the astrologers, the astronomers, they're stargazers. They get their wisdom on the left side. The left side's the ability to be able to read the constellations, the stars, or what people today will have, their horoscopes. That's the left side, or Satan's side. That's their prophecy; that's how they prophesy; that's how they read the times. They get their wisdom, or their counsel, from the constellations, from the sun, the moon. That's why they worship the sun, the sun god Ra. And that's Sosigenes' counsel with Julius Caesar, because he was a counselor. Now, can you pull me up the article, how the United States, or the White House, has counselors as astrologers?
+
+- **Officer:** It's the same thing the NASA does. The whole department.
+
+- **Deacon Eythan:** But they literally have astrologists as their counselors. What we're reading is what's happening today, when looking at things from a different perspective. All you got to do is put a toga, a stupid little hat around their head, a little white robe, and the chin up like this. Trump, to me, is a perfect example of how the Caesars would be back then, the way he carries himself. To me he's a Caesar regenerator.
+
+- **Officer:** Yeah. He's real pumped. Very pumped.
+
+- **Deacon Eythan:** So if you can find that. Yep, that's it. Look at that. Damn, that's an ugly woman. Like a witch.
+
+- **Officer:** A witch. Yep. And the majority, a section by the Roman Catholic Church.
+
+- **Deacon Eythan:** Yeah, that's where they don't want to study this thing.
+
+- **Officer:** Oh yeah, they have their own department with the telescopes.
+
+- **Deacon Eythan:** Wow. Yes, you're right, you're right. Those big... what you call it? The Hubble telescope. You think that's the biggest one?
+
+- **Officer:** I believe.
+
+- **Deacon Eythan:** Yeah, you're right. I remember, man. See if we can find that. I remember reading about that, how the Roman Catholic Church does have a department of that. I read that years ago.
+
+- **Officer:** That's crazy. The Hubble telescope, I think they got the second biggest, behind NASA. All the scientific experiments come from the Roman Catholic Church.
+
+- **Deacon Eythan:** Wow. Ronald Reagan. Bring that up. Ronald Reagan actually used this San Francisco astrologist to make presidential decisions. To do what? To make presidential decisions. So Ronald Reagan, the president at the time, a Caesar, used a what? An astrologist, to make presidential decisions. Can we go back to the article real quick? You know I saw that eyebrow. Listen, there's nothing they could do about it. Look at the lips. Now, what did Caesar do?
+
+<div class="reading">
+
+Reading from the article on the ancient New Year's celebration, continued  *[[52:30](https://www.youtube.com/watch?v=ecaMOv6O500&t=3150s)]*
+
+> In designing his new calendar, Caesar enlisted the aid of Sosigenes, an Alexandrian astronomer, who advised him to do away with the lunar cycle entirely and follow the solar year
+
+- Nothing new. Nothing new under the sun. We're living this life all over again. Go back to the Ronald Reagan article.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on Ronald Reagan and the San Francisco astrologer (the source isn't named)  *[[52:53](https://www.youtube.com/watch?v=ecaMOv6O500&t=3173s)]*
+
+> Ronald Reagan actually used a San Francisco astrologist to make presidential decisions.
+>
+> Ronald Reagan nearly got through his presidency without his secret advisor exposed. But Donald Regan, Reagan's chief of staff until he was ousted amid the Iran-Contra scandal, spilled in his 1988 book For the Record what he viewed as the most closely guarded domestic secret of the Reagan White House. He wrote that virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared in advance with a woman in San Francisco who drew up horoscopes
+
+- Throughout what? Horoscopes. You have a horoscope. I'm gonna say, the woman always deal with horoscopes. Always deal with horoscopes. You know why? Because it's one to make one wise. It will make one wise, and beautiful to look upon. Go right back to the garden, Eve. Remember, we went over that in our Man Up Monday class, going into the horoscopes, how the women always draw to that.
+
+- So Ronald Reagan didn't make any presidential... Now check this out. This is the president of the free world. This is the highest occupation. That's the most powerful position globally anybody can have: sitting in a position of authority, the president of the United States. The president of the United States, meaning you're the president, or the supreme leader, over the globe. That's what that means. You sit in that position, you have supreme power from Satan himself. And he himself was subjected to astrologers and astronomers. You know why? The horoscopes. Because that's where they get their wisdom. That's where they draw their power from. Satan feeds them the information about the constellations, by the stars. You think there's no power in that? There is power on the left side. That's why God says in Jeremiah... Read that real quick. It's the reason why God said this. Go on.
+
+- **Officer:** They only write about him. All the other politicians do the same. All of them. Because when you go back, even when you go back to Pharaoh, remember when Moses went to Pharaoh?
+
+- **Deacon Eythan:** Good point. Right back to the witches. Yeah, you're right. Bring that up. Bring that out. Hey, brothers, get the book that I had when I taught class Monday. Bring it out. Jeremiah. Sorry. My bad.
+
+</div>
+
+**[Jeremiah 10:2](/bible/jeremiah/10#v2)**  *[[55:51](https://www.youtube.com/watch?v=ecaMOv6O500&t=3351s)]*
+
+> <sup>[2](/bible/jeremiah/10#v2)</sup> Thus saith the Lord, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
+
+- He says, don't be dismayed, or confused, at the signs of heaven, for the heathen, the other nations, are dismayed at them. They get their strength, their counsel, they get everything from the constellations. Don't you notice how all religions is based upon the sun, the moon, or the stars? The majority religion. That's how the world operates and maneuvers. They don't have a God. Our God gave us this Bible, and we draw our wisdom from the scriptures. They don't. They have the Bible; they still draw their wisdom from the constellations. That's their power on the left side. That's their God, which they serve. They serve Satan. In God We Trust is not the God of Abraham, Isaac and Jacob. The god that they trust is Satan. That's their God. That's their daddy.
+
+- That's why there's an agenda, or there's a conspiracy, to destroy the Israelites. I said again: there's a conspiracy, this agenda, to destroy the Israelites, because we work on the right side, and they work on the left side, which is the wrong side, and their job is to destroy us.
+
+- **Officer:** Exactly. They cannot help it.
+
+- **Deacon Eythan:** And people wonder why. Oh, but I don't understand what's happening; this is supposed to be God Bless America. But why is transgender given it? Why are they giving more rights to transgender than black people? Why they have transgender in the school system? Why are they doing all this evil? Why are they passing laws to give pedophiles rights? Because this is the sinful kingdom. You guys asleep. You guys are so sleepy in your sins you can't even see it when it's right before you. What you got? Genesis 41?
+
+- **Officer:** Yeah, read that. And go to Exodus 7.
+
+- **Deacon Eythan:** Bring it up for him. Genesis 41 verse 7. No, no, we gotta read it for you. Nothing against you. We got to read it for you. That's like the scripture says, you know, you have a reader. Wait a minute, why do I feel like I'm in a clubhouse? Read that for the officer.
+
+**[Genesis 41:7-8](/bible/genesis/41#v7)**  *[[58:20](https://www.youtube.com/watch?v=ecaMOv6O500&t=3500s)]*
+
+> <sup>[7](/bible/genesis/41#v7)</sup> And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream.
+
+- Let's go to verse 8. That was Pharaoh's dream. So let's see who did he go to, to find out about his dream. Verse 8.
+
+> <sup>[8](/bible/genesis/41#v8)</sup> And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh.
+
+- **Officer:** So let me get the next one, Exodus 7. So that's the same thing, like, Captain, the scripture in Ecclesiastes: nothing new under the sun. So the same thing that happened in Egypt, that's the same thing that the leaders of the world also do. And he did it in Rome too, with Caesar, right? It was Sosigenes.
+
+- **Deacon Eythan:** All right. So today they call it advisors, or counselors. Right. Back then, and the Bishop brought that out, back then they call it magicians. We call it what it is. These are magicians. These are astronomers, astrologers. Same thing. Witches.
+
+- **Officer:** Yep.
+
+**[Exodus 7:11-12](/bible/exodus/7#v11)**  *[[59:35](https://www.youtube.com/watch?v=ecaMOv6O500&t=3575s)]*
+
+> <sup>[11](/bible/exodus/7#v11)</sup> Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.
+
+- **Officer:** So that was when Moses started the plagues in Egypt, and Moses, you know, was doing the miracles by the spirit of the Lord. So Pharaoh did not want to submit himself, or humble himself, to the Lord, accepting what the Lord says. So he called also his magicians. Go on.
+
+> <sup>[12](/bible/exodus/7#v12)</sup> For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods.
+
+- **Officer:** So that's why those leaders do it. That's why they come up with those laws that has nothing to do with the Bible. And that's why, with Jeremiah 10, Jeremiah said, do not learn the way of the heathen. You understand?
+
+- **Another officer:** So likewise in Daniel, with Nebuchadnezzar. They couldn't interpret his dreams.
+
+- **Deacon Eythan:** That's right. The magicians, the astrologers, and all them that he called up. Hey, read that last part. Verse 12.
+
+- Get me Revelation chapter 12. Same thing happening today. Damn. Revelation chapter 12 and verse 15. What's up, man? What happened, IT? What's up? Bring it out. What's going on here, bro? Where y'all at? Man, sleeping today. Yo. Stuff going right over the head, man. Revelation chapter 12.
+
+**[Revelation 12:15-16](/bible/revelation/12#v15)**  *[[1:01:29](https://www.youtube.com/watch?v=ecaMOv6O500&t=3689s)]*
+
+> <sup>[15](/bible/revelation/12#v15)</sup> And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
+
+- So the water as a flood: the serpent is going to your SPLC, your Canary Mission, your ADL, your JDL, AIPAC, the Israeli government. The serpent's casting out water as a flood. Let's go into the popular persuasions, that's going into their lies: the media, casting out water as a flood, trying to flood and override us. Go on.
+
+- To cause the followers of Christ to be carried away, as well as our people. Read.
+
+> <sup>[16](/bible/revelation/12#v16)</sup> And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
+
+- And the earth helped the woman. The earth is going into the scriptures primarily, but the teachers. I'll say it again: the earth is going into the teachers, helping Israel. Go on.
+
+- And the earth opened her mouth and swallowed up the flood. So what Aaron did is what we're doing in the last days.
+
+- **Officer:** That's right.
+
+- **Deacon Eythan:** And guess what? These are the magicians. These are your witches. These are your sorcerers, which flood that we're swallowing up. We swallow up all their lies, which is their witchcraft, because they're doing the same thing. That's how America is. America is using their witchcraft. I want you to look at it again. Go back to Exodus 7. Exodus chapter 7. What do they try to do? Verse 11.
+
+**[Exodus 7:11-12](/bible/exodus/7#v11)**  *[[1:03:09](https://www.youtube.com/watch?v=ecaMOv6O500&t=3789s)]*
+
+> <sup>[11](/bible/exodus/7#v11)</sup> Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.
+
+- That's your ADL, your SPLC. That's sorcery, when you're trying to convince the people you could take a lie and make it a truth by televising it. The sorcerer is going to the TV, the media, the radio stations, the internet, the AI technology, the voice record. That's sorcery. I don't think you guys realize that. This is sorcery. El Diablo no bueno. This is sorcery, this is witchcraft, when you have technology, when you can just tell it, I want to draw this up, and this draws images out of thin air just by description. That's witchcraft. Go on.
+
+> <sup>[12](/bible/exodus/7#v12)</sup> For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods.
+
+- Aaron's rod represents the power of God, the word of God. Swallowed up their rod; swallowed up their lies. Go on. Now go back to Revelation. Revelation 12:15.
+
+**[Revelation 12:15-16](/bible/revelation/12#v15)**  *[[1:04:12](https://www.youtube.com/watch?v=ecaMOv6O500&t=3852s)]*
+
+> <sup>[15](/bible/revelation/12#v15)</sup> And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
+>
+> <sup>[16](/bible/revelation/12#v16)</sup> And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
+
+- We're doing the same thing all over again. The earth opened her mouth: that's us teaching, brothers, and swallowed up the flood. What Aaron did, what Moses did, is what we're doing today. And don't think that the flood that they're pushing out there, don't think it's literally talking about water. It's going to the sorcery, their witchcraft, their enchantments. Get me Revelation chapter 18, verse 22.
+
+**[Revelation 18:22-23](/bible/revelation/18#v22)**  *[[1:05:01](https://www.youtube.com/watch?v=ecaMOv6O500&t=3901s)]*
+
+> <sup>[22](/bible/revelation/18#v22)</sup> And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
+>
+> <sup>[23](/bible/revelation/18#v23)</sup> And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.
+
+- By their sorceries were all nations deceived. That flood that came out of their mouth is their sorcery, their witchcraft, their enchantments. That's why God says, stand now in the multitude of thy counsels, and the enchantments, and the monthly pronunciators, the astrologists, the astronomers. That's their sorcery. That's what we're up against. We're up against witches, wizards. That's what we're up against. We're swallowing the flood. We're swallowing up their lies, their rod, their serpent. And notice how it says in Exodus, when it says serpent, right? And it says the same thing. So God has given you the visual. We're living this life all over again. You just got to be able to put the pieces together and see things spiritually.
+
+- All right, we got a break. You know, you want to read that article on the Vatican?
+
+- **Officer:** Yes, yes.
+
+- **Deacon Eythan:** Let's go. Then let's take a break from there. Make that bigger. You see the title? A Brief History of the Vatican Observatory. Go down, under the picture of the observatory. Down. All right, from there.
+
+<div class="reading">
+
+Reading from an article, *A Brief History of the Vatican Observatory* (the author isn't named)  *[[1:06:46](https://www.youtube.com/watch?v=ecaMOv6O500&t=4006s)]*
+
+> The Vatican's documented astronomy work began with Pope Gregory XIII in 1582. In his time it had been noticed that the calendar was slipping. The spring equinox, that should have occurred around the 21st of March, was actually happening on a calendar date near March 10th.
+
+- So that's the same thing we're reading before. And things were changing, so that now they got to go look into the stars to change it back. That's what I notice, how they started doing that with Pope Gregory.
+
+- **Officer:** That's during the Renaissance.
+
+- **Deacon Eythan:** Yes. That was after they came and, you know, took over.
+
+> The motivation for the investigation was to stop the date of Easter slipping from the time of year that it was celebrated when it was introduced by the early church.
+
+- Just like the New Year's, where Julius Caesar changed it into the solar calendar to celebrate Janus. Could they try to keep Easter every Easter Sunday?
+
+- **Officer:** Yeah, I believe. I forget what date they try to keep it in.
+
+- **Deacon Eythan:** Yeah. So they try to manipulate the time so it stays within that. But God said... If you go by that, that's where confusion comes in. They try to make it coincide with their pagan days, where God says, yo, follow the moon. And based upon, like I said, the moon cycle, whatever time it falls in, count this many days, 14 days, that's the Passover. Count these days. It's gonna change every year. That's what they don't want. Esau wants it to stay the same. That's why they got to change things all over.
+
+- **Officer:** It goes to show you that all that Easter stuff is false, because if it was the regular days, that day would be changing every year. It's not like the scriptures. The scripture says, yo, this day, this month, every year. But their stuff is just all over the place, so they got to keep changing it.
+
+- **Deacon Eythan:** Exactly. Well, that's it on that.
+
+</div>
+
+*[[1:08:39](https://www.youtube.com/watch?v=ecaMOv6O500&t=4119s)]* All right. Now, all right, so let's take a break. So if you guys want to call in, you call in 267-702-6121. You can call in, like I said, after the break, or leave a text message, 267-702-6121. All right. Shalom.
+
+*[[1:08:57](https://www.youtube.com/watch?v=ecaMOv6O500&t=4137s)]* The break. Bishop Nathanyel: Shalom. I'm Bishop Nathanyel of Israel United in Christ, and today I'd like to present a sit-down discussion with the Jewish community. There's a lot of controversy. There's much hatred that you have towards us, who are the prophets of the one true God. So what we'd like to do is sit down with several of your leading Jewish personalities. The rest of you just stand by, sit back, move out the way. We want to sit down with Yitzhak Yosef, who called black people monkeys. He's number one. Number two, we'd like to sit down with Jonathan Green of the Anti-Defamation League, who had so much to say on The Breakfast Club, alluding that we have shot and murdered people in New Jersey. We want to sit down and discuss with you. "Look, they're entitled to their beliefs, until that justifies shooting Jewish people. Like this, December three years ago, December 2019, two Black Hebrew Israelites went into a kosher supermarket in Jersey City and killed three people, because they said they weren't real Jews. Shot them cold dead in the kosher supermarket." Margaret Huang, and the lie that we have murdered people in New Jersey, so forth and so on. We want to sit down with AIPAC, and Lillian Pinkus. Also that latest group, the Canary Mission. We want to sit down with Adam Milstein. "Canary Mission, which is interesting because it makes it seem as though we're a part of it, but we're not." We'd like to sit down with all of you, all for one, one for all, however you want to do it, but we will sit down with you. So don't say we're running from you, we're trying to evade you. No, we're not. Reach us. Call us at 1-855-484-4842, extension 7023, or by email, israel@israelunite.org. All right. The scripture says, if at all possible, be at peace with all men, and that's what we endeavor to do. So, Jewish community, have a sit-down with us. Let's have an open discussion publicly.
+
+*[[1:11:53](https://www.youtube.com/watch?v=ecaMOv6O500&t=4313s)]* Then a reel: "There's no man on the planet Earth that has opened the Bible and brought it out to the capacity that the Bishop has done. That's why I admire the man. That's why I'm friends with him, and that's why I trust him. Because the greatest book on the face of the planet Earth, the Lord put the spirit on him. But guess what, it's because God has chosen you to lead, to lead the fight for me." "We fall, we break, we fail, but then we rise, we heal, we overcome."
+
+*[[1:14:00](https://www.youtube.com/watch?v=ecaMOv6O500&t=4440s)]* A news report from 12 News: As more information is released about the death of Rasheem Carter, communities are banding together to demand justice. 12 News' Tia McKenzie spent the day in Taylorsville, as men and women gathered to protest against what they say is a failing justice system. Justice for Rasheem Carter has gained national attention after the 25-year-old's skeletal remains were found in Smith County in November 2022. His family's attorney said a third set of his remains were discovered in February and were identified by the Mississippi crime lab. A protest was held in Taylorsville in support of Carter's family. "It could have been one of my family members, so I feel that his family needs the support from everybody around." Carter's family believes there was foul play, and civil rights attorney Ben Crump asked the Department of Justice to get involved. "This has really been a struggle for our family, but we're going to do the best we can to fight. We gonna do the best we can to fight. We're gonna do what we gotta do to get the justice that we deserve to have." Multiple organizations, including Israel United in Christ, joined the march in solidarity. "I can imagine how much turmoil that went through her mind, the pressure for her not to reveal the evils that has happened to her son. I imagine she's gained strength from maybe Till, which was the mother of Emmett Till, who got murdered in 1955. So it was good to be able to support those kinds of efforts." Participant Marcellus Smith drove from Memphis, Tennessee, to support. "I heard about this a couple of months ago, and it made me think about myself, being a young black African-American, and I drive trucks. I've driven in these areas before, and once you get out your vehicle, everybody stop conversation and just stare at you, like you're not from here. You know, not here to fight or anything like that. Just here to make a statement, and so hopefully get some justice done for Rasheem." In March, officials with the Mississippi Department of Public Safety said, based on the condition of Carter's remains, there was no means by which his cause of death could be determined by the medical examiner's office. In Taylorsville, Tia McKenzie, 12 News. Now DPS officials say MBI and the Smith County Sheriff's Office will continue their investigation into Carter's death. "It's not a fluke accident that we are here again, dealing with the same types of situation as we dealt in 1955."
+
+*[[1:16:33](https://www.youtube.com/watch?v=ecaMOv6O500&t=4593s)]* Then from the march: "Believe it or not, y'all, today is the Lord's holy day, and you are the Israelites the Bible speaks of. We are God's chosen people. We went into slavery for breaking the commandments of God. In fact, that we, who? The Israelites. You so-called Negroes that's in Taylorsville, Mississippi, you are the Israelites." "My brother's being chased. The tyranny and the fear that's going through his mind as he's trying to escape death. We do have justice coming. We do have justice coming. We will not be doing what we're doing if we did not believe that justice is coming. We know that there's a payback. We know that there's justice coming, and we're going to wait on the Lord, like the scripture says." "You still need to remember what happened. You need to remember what happened to Rasheem Carter. You need to remember these things. Make it count." "And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people. It's you, who don't know, it's you Afro-Syrians who don't know your history. Go to the other side of India, you see the Dalits. Same thing on the Eastern Hemisphere: massacres, police brutality, lynchings, convict leasing. In South Sudan. Your heritage goes far deeper than where you live. You are the children of God." "Is Christianity today the same as the Christianity that was taught by the disciples of Christ? And the answer is no, it's not." "… and spicks. We're not Indians and ninjas and savages and Mexicans." "That's how we say thank you. We appreciate you. I'm so glad that the Most High created you." "Passover 2023." "You're the best in the whole world."
+
+*[[1:21:14](https://www.youtube.com/watch?v=ecaMOv6O500&t=4874s)]* Christ blessed, and welcome back. Welcome back, welcome back. All right, so we're going to continue on. We kind of went detour, left field, because a lot of things, you know, the spirit just rolling, so we have to just go with it. But so let's go back to the article of Julius Caesar. What happened? You're looking at me for... Never mind. All right. Is there something you want to bring up? No? All right, I'm good.
+
+<div class="reading">
+
+Reading from the article on the ancient New Year's celebration, continued  *[[1:21:52](https://www.youtube.com/watch?v=ecaMOv6O500&t=4912s)]*
+
+> In designing his new calendar, Caesar enlisted the aid of Sosigenes, an Alexandrian astronomer, who advised him to do away with the lunar cycle entirely and follow the solar year, as did the Egyptians. The year was calculated to be 365 and a quarter days, and Caesar added 67 days to 46 BC
+
+- He did what? Yeah. Yo, you see the man? Yo, we don't know where we are in the timeline. He added 67 days. Go on.
+
+> making 45 BC begin on January the 1st, rather than in March.
+
+- Wait, wait. So I want you to pay close attention. He added 67 days to the calendar in that year and made it start on January 1st. I said again, he made it start on January 1st rather than what? The year was calculated to be 365 and a quarter days, and Caesar added 67 days to 46 BC, making 45 BC begin on January 1st rather than in March. So this would be important at a time: making it start on January 1st rather than in March. Go on.
+
+> He also decreed that every four years a day be added to February, thus theoretically keeping his calendar from falling out of step.
+
+- That's called the leap year now, today.
+
+- **Officer:** Yep, that's what it's called. Go on.
+
+> Shortly after Caesar was assassinated in 44 BC, Mark Antony changed the name of the month Quintilis to Julius, July, to honor him.
+
+- So that's where we get July from, after Julius Caesar. Now can we get real quick Deuteronomy 7:25, to show you this is the nature of this beast. In every captivity they think to change times and laws. They have the perception that they are God. That's why they move things around. Why not keep it the Hebrew calendar? Why not keep it the way it's always been, how he always dictated? Noah's son knew how to do this. Noah taught these three sons. You think they didn't know? You think they didn't pass this down? Because they don't have the spirit of God in them, they always revert back to their daddy, Satan. The Book of Daniel 7:25.
+
+- **Officer:** Look, it says Quintilis was the name of July. That's the fifth month. Quintilis means five. And then Sextilis, which is the next one.
+
+- **Deacon Eythan:** Yeah. Do we have that dictionary, the Bible dictionary? Yeah, let's get the Bible dictionary. Look at the Abib. Yeah, we're gonna get there in a second. Okay, we're gonna hit that.
+
+</div>
+
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[1:24:38](https://www.youtube.com/watch?v=ecaMOv6O500&t=5078s)]*
+
+> <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
+
+- So, like the officer just brought out earlier, they think to change times and laws, in order to fit their wacky calendar system. He has to add 66, 67 days to year 46 BC.
+
+- **Officer:** No, 45 BC.
+
+- **Deacon Eythan:** He added 67 days to 46 BC, to make 45.
+
+- **Officer:** Yeah, I forgot about the... it goes backwards.
+
+- **Deacon Eythan:** So make January 1st the beginning of the new year rather than in March. He also adds a day to the end of every year, to February, the end of February. He adds a day. It's no different from today. It's like, why do they do these things? They do it unnecessarily. But the Most High showed you these people fit the prophecies: they think to change times and laws, rather than keeping a lunar cycle, simple. Every year it's going to change the Passover. Because you know what, the reason why they do it: because they don't have a system. They don't have an established high holy day, or established God-given system. Everything they do is made up, so they have to create their own rules. You know why? Because they think they're God. And thinking they're God, it says, you know what, we got to establish our system that fits for us, rather than God establishing a system that fits for the world.
+
+- God says, this is the new moon, right? This is the full moon. Every month you're gonna count; this is gonna be the high holy day. The Sabbath is not dictated off a new moon. You're gonna count seven days every time; that's gonna be a seventh-day Sabbath. The full moon is going to dictate your months, and the high holy days are based off of the full moon, not the seventh. We already have an organized system that we follow from the beginning of time, for centuries, from the time we came out of Egypt, and it always worked. We do it to this day. We have brothers set up to count the moons, and it never goes out of whack, because it's a simple system. Count seven moons, boom, Abib, springtime. We know when springtime comes every year. It's simple as that. It's not complex. God is not the author of confusion. Bring the article back up.
+
+<div class="reading">
+
+Reading from the article on the ancient New Year's celebration, continued  *[[1:26:58](https://www.youtube.com/watch?v=ecaMOv6O500&t=5218s)]*
+
+> Shortly after Caesar was assassinated in 44 BC, Mark Antony changed the name of the month Quintilis to Julius
+
+- **Officer:** So Quintilis goes to... right? Five.
+
+- **Deacon Eythan:** Five, yeah. You know I knew that.
+
+- **Officer:** With another tongue we speak to the people. You didn't know I had that skill, sir.
+
+> to honor him. Later the month of Sextilis was renamed Augustus
+
+- Sextilis goes to... yes, yes, which is six, right?
+
+- **Officer:** Yes. With another tongue we speak to the people. Go on.
+
+> The month of Sextilis was renamed Augustus, August. Celebration of New Year's Day in January fell out of practice during the Middle Ages, and even those who strictly adhered to the Julian calendar did not observe the New Year exactly on January 1st. The reason for the latter was that Caesar and Sosigenes failed to calculate the correct value for the solar year as 365.242199 days, not 365.
+
+- I'm not even following this stuff. I can't. I have no clue what's going on. Go on. I'm going to show you something. This is what the Romans, as well as America, is. Give me Isaiah, I think 24. No clue what's going on.
+
+</div>
+
+**[Isaiah 24:10](/bible/isaiah/24#v10)**  *[[1:28:58](https://www.youtube.com/watch?v=ecaMOv6O500&t=5338s)]*
+
+> <sup>[10](/bible/isaiah/24#v10)</sup> The city of confusion is broken down: every house is shut up, that no man may come in.
+
+- Rome. America is the city of confusion. What we just read right now is complete, utter confusion. No person could keep up with that. They don't even know it. That's why they keep on changing. It's out of whack. They gotta add days, subtract days. You gotta add time, a leap year. You got to push forward time, bring back time.
+
+- **Officer:** It's even with the Doomsday Clock. How many times you have to reset that.
+
+- **Deacon Eythan:** Because they don't even know what they're doing. They're confused. This is the city of confusion. Go on.
+
+<div class="reading">
+
+Reading from the article on the ancient New Year's celebration, continued  *[[1:29:45](https://www.youtube.com/watch?v=ecaMOv6O500&t=5385s)]*
+
+> Thus an 11-minute-a-year error added seven days by the year 1000, and ten days by the mid-15th century.
+
+- How do you keep track of that? Go on.
+
+> The church became aware of this problem, and in the 1570s Pope Gregory XIII commissioned Jesuit astronomer Christopher Clavius
+
+- Another what? Another astronomer.
+
+- **Officer:** We were reading about that, how they cut up all that stuff.
+
+- **Deacon Eythan:** Yeah, the article. He was a Jesuit astronomer.
+
+- **Officer:** He's a Jesuit priest. Catholic. The Catholic Church.
+
+> Christopher Clavius, to come up with a new calendar. In 1582 the Gregorian calendar was implemented, omitting 10 days for that year, and establishing a new rule that only one of every four centennial years should be a leap year. Since then, people around the world have gathered en masse on January 1st to celebrate the precise arrival of the New Year.
+
+- So since then. Can you get me now the next one? Early Roman calendar.
+
+- **Officer:** Okay. Go ahead. First Corinthians 10:20.
+
+- **Officer:** So the reason, like, the history has been hidden. We're bringing them out just because, why? You don't want to get involved, you know, so you could separate yourself from these things. Because a lot of our people get caught up into that web of deceit.
+
+</div>
+
+**[1 Corinthians 10:20](/bible/1-corinthians/10#v20)**  *[[1:31:24](https://www.youtube.com/watch?v=ecaMOv6O500&t=5484s)]*
+
+> <sup>[20](/bible/1-corinthians/10#v20)</sup> But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
+
+- **Officer:** So that's the reason why this history is coming out, so you could separate yourself from these people, because everything that they do is honoring their gods, which is not God; it's the devil. So the scripture says, don't have fellowship with them. And that was in the time of the Corinthians; it was following the Romans' custom. So it was the same thing.
+
+<div class="reading">
+
+Reading from an article on the early Roman calendar (the source isn't named)  *[[1:31:51](https://www.youtube.com/watch?v=ecaMOv6O500&t=5511s)]*
+
+> Early Roman calendar. The Romans borrowed parts of their earliest known calendar from the Greeks. The calendar consisted of 10 months in a year of 304 days.
+
+- So you go to 365. The Greeks at 304 days. Confusion. Go on.
+
+> The Romans seem to have ignored the remaining 61 days, which fell in the middle of winter. The 10 months were named Martius, Aprilis, Maius, Junius, Quintilis, Sextilis, September, October, November and December.
+
+- Is that March, right? Martius, March. April, May, June. Quintilis was changed to Julius, or July. Sextilis.
+
+> The last six names were taken from the words for five, six, seven, eight, nine and ten. Romulus, the legendary first ruler of Rome, is supposed to have introduced this calendar in the 700s BCE. According to tradition, the Roman ruler Numa Pompilius added January and February to the calendar. This made the Roman year 355 days long. To make the calendar correspond approximately to the solar year
+
+- Think to change times and laws. So they fabricated days and months in order to fit their time of year. Complex. You know what?
+
+> Numa also ordered the addition, every other year, of a month called Mercedonius. Mercedonius was inserted after February 23rd or 24th, and the last days of February were moved to the end of Mercedonius in years when it was inserted. Mercedonius added 22 or 23 days to the year.
+
+- Confusion. The city of confusion. These are the people that we follow to rule over us. These are the people that you put your trust in, rather than putting your trust in God. This is what you follow. This is what you believe. So give me: what did a Roman calendar look like?
+
+> What did a Roman calendar look like? The Roman calendar used a system of months and special days in each month. Some calendars were carved in marble or stone, but many were painted on walls for decoration. Different geographical areas often held different gods in special esteem.
+
+- Wait, what? Different geographical areas often held different gods in special esteem. Keep going.
+
+> This led to regional variations in calendars. This doesn't seem so strange when one considers that even within the U.S., Mardi Gras often appears only on Southern calendars, and Lincoln's birthday sometimes does not. In 45 BCE, Romans modified their method of marking time to keep it in phase with the seasons, but not require intercalation of an extra month. They accomplished this with the Julian calendar. Month lengths were extended to bring the calendar's total to 365 days, making it truly solar. This change was accompanied by addition of an extra day every fourth year, every February 23rd, because of the almost six extra hours beyond 365 days in a tropical
+
+- Rather than make it naturally fall into place within a 12-month cycle of the year, how the Most High had for us, with the lunar cycle, they created, fabricated different days and months to fit their agenda. They had to create that. So, okay, now it fits. Go on.
+
+> How do you read the calendar? In the calendar of the ancient Romans, the months contained three primary markers: the Kalends, the Nones and the Ides. The Kalends were always the first day of the month. The Nones were usually the fifth, but sometimes the seventh, and the Ides were the 15th, but sometimes the 13th. All the days after the Ides were numbered by counting down towards the next month's Kalends. The holidays were generally bunched together to form continuous celebrations, and the remaining days of the month were usually nondescript work days. The days were each identified with certain letters and names. The Kalends were always identified as shown in the diagram at right. At right, the archaic form of K for Kalends was used in front of the name of the month. The first letter represented the market day. Every ninth day was a market day, but as it shifted every year, a designated letter between A and H would represent the market day for that year. The final letter identified the type of day for purposes of religious observance or legal business.
+
+- My head needs a break.
+
+- **Officer:** To be honest, man, I'd be late for work every day. I wouldn't know what was going on.
+
+- **Deacon Eythan:** I wouldn't know what was going on. As a matter of fact, can we get Second Thessalonians 2, verse 4? Three and four. I mean, this stuff is... We're not going to expand. We're going to jump to four.
+
+</div>
+
+**[2 Thessalonians 2:4](/bible/2-thessalonians/2#v4)**  *[[1:37:40](https://www.youtube.com/watch?v=ecaMOv6O500&t=5860s)]*
+
+> <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
+
+- **Officer:** So Paul was telling the Thessalonians, which was under the Romans' rulership, he tells them that, who opposes and exalts himself above all that is called God. So the Romans, that's what they did. They opposed and exalted themselves above everything that God created. Go ahead.
+
+- **Officer:** So this man, that's what he was: god on earth. He exalted himself as God, showing himself that he is God.
+
+- **Deacon Eythan:** Right. That's what he's doing, showing himself that he is God, because he's changing everything that the scripture says. When you go back to that 7:25.
+
+- **Officer:** Right, okay. I got it.
+
+- **Deacon Eythan:** Now go to... let's see, when did the early Roman calendar begin? I think that's it. Wait one second. Oh no: when did they stop using the moon for months?
+
+<div class="reading">
+
+Reading from the article on the early Roman calendar, continued  *[[1:39:00](https://www.youtube.com/watch?v=ecaMOv6O500&t=5940s)]*
+
+> When did they stop using the moon for months? Romans separated their months from the lunar cycle in the fifth century BCE. Month lengths then became fixed. At that time, Ides was assigned as the 15th day in all months given 31 days in length, March, May, July and October. It was designated as the 13th day in all other months. As a result, from then on, the Kalends section had from 16 to 19 days, the Nones section had either four or six days, and the Ides section, as before, always had eight days. Sometime after, Kalends, Nones and Ides were fixed on predetermined days of the month, rather than being defined by phases of the moon. Romans used letters A through H on the left side of each month's calendar columns to indicate days of their eight-day market week. The first day of each new year was represented by the letter A.
+
+- So, just to show you the confusion that they created. Well, it was as simple as it says: when did they stop using the moon for months? So the moon always dictated the months, the full moon. They changed it to fit their agenda. Now go down. One more part. Go down, what it says. March.
+
+> March, the first month. Both Ovid and Plutarch said that Martius, originally the first month, was named after Mars
+
+- So March, it was named after Mars. Go on.
+
+> the Roman god of war.
+
+- So the Roman god of war. So everybody knew it. Julius changed it. It was in 46 BC, right, to 45 BC, he changed it, and they put their own... They changed the New Year's to their own days, to push January 1st as New Year's. They changed things around to worship and celebrate their gods. January 1st is after the god Janus, the god of new beginnings. So March is after the Roman god, pagan god, Mars. Go to April.
+
+- **Officer:** It's like March, like the military is marching.
+
+- **Deacon Eythan:** Yeah, yeah. Keep going. Actually, keep reading.
+
+> Six of the other original ten were simply numbered, as Quintilis through December, fifth through tenth. But there were already disagreements, when Ovid wrote two thousand years ago, as to the sources of names.
+
+- Go to April.
+
+> April. When writing about April, Ovid said: I have come to the fourth month, full of honor for you, Venus. You know both the poet and the month are yours.
+
+- So April is after Venus. After their gods. Go on.
+
+> It was later said that April was sacred to Venus and her festival
+
+- So probably, remember: we called the months by the moon, by the full moon. That's how we dictate our months. They change it around. Change the new year around to January 1st, from March or April, which is the month of Abib. And they put their gods, in honor of their gods, over it. Rather than as God says: this is the first month, this is the second, this is the third month, it's dictated by the full moon. You're gonna celebrate every new moon. The full moon is the beginning of the months. It's the new moon; you're gonna give a celebration to it. They say, no, we're going to change that. We're going to follow the solar cycle. We're gonna change the months. We're gonna confuse it. We're gonna add these, take away days, to throw up the whole thing. Then we're gonna call it after our pagan gods. So we're gonna pay homage to our gods, but not to the one God of Israel. Go on.
+
+> It was later said that April was sacred to Venus and her festival.
+
+- Jump down. May.
+
+> May. Maius was said by some to be renamed after the goddess Maia, a daughter of Atlas, and Junius is indirectly named after the goddess Juno. But others have suggested that the names of months we now call May and June possibly refer not to sky gods, but rather to elders and young men.
+
+- Now, January.
+
+> January, at the end of the year.
+
+- At the what? End of the year. Not the beginning of the year. This is at the end of the year. Go on.
+
+> There was also disagreement in Ovid's day as to the sequence in time
+
+- That's it. Now, just for time's sake, go to February.
+
+> February, at the end of the year.
+
+- So they understood that January and February were both at the end of the year. March and April was... Can you get that Abib? And get me Exodus chapter 12 verse 2. So they were add-ons. Hold up, don't put it up yet. So these are all add-ons. I think Julius is the one that changed the New Year from March, April, to January 1st, to fit his agenda.
+
+</div>
+
+**[Exodus 12:2](/bible/exodus/12#v2)**  *[[1:44:15](https://www.youtube.com/watch?v=ecaMOv6O500&t=6255s)]*
+
+> <sup>[2](/bible/exodus/12#v2)</sup> This month shall be unto you the beginning of months: it shall be the first month of the year to you.
+
+- So this month: remember, when we came out of Egypt, God had to re-establish time. Why? Because the Egyptians were running on the solar calendar. We rolled in the lunar calendar. So he had to reintroduce the lunar calendar. So he said, this month shall be the beginning of months; it shall be the first month of the year. Jump to verse 11.
+
+**[Exodus 12:11](/bible/exodus/12#v11)**  *[[1:44:53](https://www.youtube.com/watch?v=ecaMOv6O500&t=6293s)]*
+
+> <sup>[11](/bible/exodus/12#v11)</sup> And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord’s passover.
+
+- So the month of the Passover is the first month of the year. It's the beginning of the year. It's what we call the New Year. Get me Deuteronomy 16 verse 1.
+
+**[Deuteronomy 16:1](/bible/deuteronomy/16#v1)**  *[[1:45:13](https://www.youtube.com/watch?v=ecaMOv6O500&t=6313s)]*
+
+> <sup>[1](/bible/deuteronomy/16#v1)</sup> Observe the month of Abib, and keep the passover unto the Lord thy God: for in the month of Abib the Lord thy God brought thee forth out of Egypt by night.
+
+- So Passover is also called the month of Abib. Can you bring that up?
+
+<div class="reading">
+
+Reading from a Bible dictionary, the entry on Abib (the dictionary isn't named)  *[[1:45:36](https://www.youtube.com/watch?v=ecaMOv6O500&t=6336s)]*
+
+> Abib: an ear of corn. The pre-exilic name for the first month of the year. Exodus 13:4; 23:15.
+
+- You know why it calls it the ear of corn? Because that's when your crops come to life. That's when you start planting. You do your gardening, you do your agriculture. That's the time period. That's the new year. That's when your trees start to bloom. That's when your flowers start to bud. That's when your grass starts to green. That's when your bears come out of hibernation, your animals come out of hibernation, your birds start chirping again. That's when life begins. Not in the dead of the winter, January 1st, the New Year, when there's no life. Everything's dead. There's no leaves, there's no pollen. You're not sneezing, you don't have allergies. You know, when you get that first ah-choo, you say, yep, that's the new year, baby. You know it's time. Passover's around the corner. That's when you know the new year is coming.
+
+- That's why Christ, what he says: I'm the way, I'm the truth, and I'm the life. Christ was born when? During a Passover. Life. Christ is the life, and during the month of Abib is where life comes back to life, where everything comes back to life. Now go on.
+
+> After the Exile the name was changed. It fell about the time of our March and early April.
+
+- So if we were just reading the article, it said March was the beginning of the year; January and February was the end of the year. Now, depending on the full moon determines when is the new year. Like this year it fell in April, and it falls in March, based upon the full moon. Now can we get the other article? What did Julius Caesar do?
+
+- **Officer:** And that's why they put it in the dictionary, between March and April.
+
+- **Deacon Eythan:** No, I don't want that. I didn't say that. I think, obviously, I posted it. Go to the Telegram, the first article I posted. Yeah.
+
+</div>
+
+<div class="reading">
+
+Reading from an article, *A History of New Year's*, posted on Telegram (the source isn't named)  *[[1:47:58](https://www.youtube.com/watch?v=ecaMOv6O500&t=6478s)]*
+
+> A history of New Year's. In 46 BCE, the Roman emperor Julius Caesar first established January 1st as New Year's Day. Janus was the Roman god of doors and gates, and had two faces, one looking forward and one back. Caesar felt that the month named after this god, January, would be the appropriate door to the year.
+
+- So he changed it based upon Janus, the Roman god, for January. Go on.
+
+> Caesar celebrated the first January New Year by ordering the violent routing of revolutionary Jewish forces in the Galilee.
+
+- So, and it's always during their pagan customs when they enacted violence against our people. January 1st. It says the Jewish revolutionary forces. So your freedom fighters, or you'll have what is called your zealots, your zealots or your sicarii: those Israelites that were fighting against the Romans.
+
+> Eyewitnesses say blood flowed in the streets. In later years, Roman pagans observed the New Year by engaging in drunken orgies, a ritual they believed constituted a personal reenactment of the chaotic world that existed before the cosmos was ordered by the gods. As Christianity spread, pagan holidays were either incorporated into the Christian calendar
+
+- What? Pagan holidays were incorporated into Christian calendars. Go on.
+
+> or abandoned altogether. By the early medieval period, most of Christian Europe regarded Annunciation Day, March 25th, as the beginning of the year. According to Catholic tradition, Annunciation Day commemorates
+
+- We're not going to go too deep into that, but to show you that Julius Caesar worshiped, or changed the timeline, or the New Year, to January 1st, and paid homage to January, after the pagan god for the doors of new beginnings, to open or close, to look forward and behind: after Janus, the god that has two faces. Keep bringing up that picture. And during the New Year, their new year, they slaughtered the Jewish revolutionary forces, like your zealots, your sicarii. They started killing us, and the blood ran through the streets. Hey, Captain, after this?
+
+- **Captain:** Yeah. Can we bring it up to America, just to correlate? New Year's Day, what's happening to us.
+
+- **Deacon Eythan:** All right. So that's a depiction of the pagan god that some of you guys worship. Not us. We keep the new year; we just kept it. When they say they're doing New Year's resolutions, that's who they worship.
+
+- **Officer:** Yeah. New year, new resolution.
+
+- **Deacon Eythan:** That's exactly... That's why they always say new beginnings. Yep. That's what they say. Oh, this year is going to be a new me. And as she's saying this year's gonna be a new me, she's drunk on the floor, high on her behind, just like last year.
+
+- **Officer:** Just like last year. … every year. I used to say that every single year.
+
+- **Deacon Eythan:** Because there's no spirit behind it. There's no laws. It's based upon pagan idolatry. How could you become new off of a pagan day that was based upon revelry and fornication? Oh, it's gonna be a new me. But you see, it can't be a new you on a pagan day, a day that was made to break God's laws. I used to say that stupid thing. Hey, you know what, this year I'll put down a blunt. Ten days ago, I try, bro, I can't do it. I'll do it next year. It was only when God's laws was introduced to my life, that's when I put down the blunt, immediately. It didn't take a whole another year. It took, boom, the commandments, and that's it. There's a spirit behind God's high holy days and God's laws. All right, do you want to bring something up?
+
+- **Captain:** Yes sir. Bring that article real quick. Remember, as we go through these shows, what we're doing is correlating. We're going to parallel Rome to America. So just like here with New Year's, how they were slaughtering us, how Julius Caesar was slaughtering us during New Year's Day, we're gonna bring it up to America, during our captivity here in America. Let's see what was happening to us. All right, so this article from Time. Go down.
+
+</div>
+
+<div class="reading">
+
+Reading from an article from *Time* on Hiring Day (the author isn't named) · read by the captain  *[[1:52:21](https://www.youtube.com/watch?v=ecaMOv6O500&t=6741s)]*
+
+> Americans are likely to think of New Year's Eve and New Year's Day as a time to celebrate the fresh start that a new year represents, but there is also a troubling side to the holiday's history. In the years before the Civil War, the first day of the new year was often a heartbreaking one for enslaved people in the United States. In the African-American community, New Year's Day used to be widely known as Hiring Day, or Heartbreak Day, as the African-American abolitionist journalist William Cooper Nell described it, because enslaved people spent New Year's Eve waiting, wondering if their owners were going to rent them out to someone else, thus potentially splitting up their families. The renting out of slave labor was a relatively common practice, and a profitable practice for white slave owners and hirers.
+
+- **Captain:** All right.
+
+> So Hiring Day was part of the larger economic cycle in which most debts were collected and settled on New Year's Day.
+
+- **Captain:** Go down real quick. Right here.
+
+> Some enslaved people were put up for auction that day, or held under contracts that started in January. These transactions also took place all year long, and contracts could last for different amounts of time. These deals were conducted privately, among family, friends and business contacts, and slaves were handed down in town squares, on courthouse steps, and sometimes simply on the side of the road.
+
+- **Captain:** All right, go down. All right, so this is some accounts of us, and what we said about it.
+
+> Accounts of the cruelty of Hiring Day come from records left by those who have secured their freedom, who describe spending the day before January 1st hoping and praying that their hirings would be humane and that their families could stay together. One account: Of all the days in the year, the slaves dread New Year's Day the worst of any, a slave named Lewis Clark said in an 1842 account. On New Year's Day we went to the auctioneer block to be hired to the highest bidder for one year, Israel Campbell wrote in a memoir published in 1861 in Philadelphia, in which he describes being hired out three times. That's where all that saying come from, that what you do on New Year's Day, you'll be doing it all the rest of the year, a former slave known as Sister Harrison said in an interview in 1937.
+
+- **Captain:** So that's all I want. So just to let you know, we had no ties to New Year's at all, man. We was always being persecuted, slaughtered, on these days.
+
+- **Deacon Eythan:** All right. Yeah, that's the same thing when you're with the history about the birthdays of the kings, and usually we suffering from this. A sacrifice for their gods. That's why the scriptures say, separate. Separate from them, man.
+
+- **Captain:** Exactly. Right. Come out.
+
+</div>
+
+## In Closing
+
+*[[1:55:01](https://www.youtube.com/watch?v=ecaMOv6O500&t=6901s)]* All right. And with that, we're gonna say shalom for today. So we want to give thanks. We want to give thanks to the brothers in IT for the wonderful work, you know, waking up early, taking out the time to put into this truth. We want to thank the sisters for the beautiful tea. This tea was very good today. You know, got to find out what sister made that tea. Not with the Philly water.
+
+- **Officer:** It was good water.
+
+- **Deacon Eythan:** Yes. Very dirty. Thank you sisters for the excellent tea. We didn't have the meal yet, but we're gonna have the meal afterwards, but thank you for the meal. Thank you sisters. Like I said, we appreciate it. Thank you. You give us, you know, me my green tea. I need my energy. Without green tea I'm finished. I have nothing in me. I'm nothing without my green tea. It's like a spirit in this thing. All right, Israel, let's give another hand for the leadership today with that class. All praise to the Most High.
+
+## Announcements & References
+
+*[[1:56:16](https://www.youtube.com/watch?v=ecaMOv6O500&t=6976s)]* So subscribe to Our Hidden History Radio on YouTube. Make sure you hit the notifications button so you know when we go live. Also subscribe to IUIC Philadelphia and IUIC Philadelphia in the Classroom to get the latest content from the captains, the officers of IUIC Philly. Donate to Our Hidden History: you can donate on PayPal to iuic.philadelphia@israelunite.org; in the comment section put OHH, so we can purchase more and more books to bring out to you. Donate to the Booster Club: you can donate to the Booster Club on PayPal to iuic.fundraising@israelunite.org. And last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC. Next up, tune in to Deacon Malachi on Raven and Wolves. All right. Shalom, shalom.
+
+Text or call the show at 267-702-6121.
+
+Sources read from in this episode:
+
+- An article on the synagogue of the Libertines in Acts 6:9 (the source isn't named).
+- A book, page 67 as stated, posted on Telegram, on the Libertines as the ex-slaves of the old Romans and the Judeans in Rome before and after Pompey's conquest (the book isn't named).
+- An article on the ancient New Year's celebration: Julius Caesar's calendar reform, Sosigenes, the 67 days added to 46 BC, the leap year, Quintilis renamed Julius, and Pope Gregory XIII and Christopher Clavius (the source isn't named).
+- An article on Ronald Reagan and the San Francisco astrologer, quoting Donald Regan's 1988 book *For the Record* (the source isn't named).
+- An article, *A Brief History of the Vatican Observatory*, on Pope Gregory XIII in 1582 and the date of Easter.
+- An article on the early Roman calendar: the ten months, Numa Pompilius and Mercedonius, the Kalends, Nones and Ides, and the names of March, April, May, June, January and February (the source isn't named).
+- A Bible dictionary, the entry on Abib (the dictionary isn't named).
+- An article, *A History of New Year's*, posted on Telegram, on Janus and Caesar's first January New Year against the Jewish forces in the Galilee.
+- An article from *Time* on Hiring Day, or Heartbreak Day, for the enslaved in the United States (read by the captain).
+- In the break: Bishop Nathanyel's call for a sit-down with the Jewish community, a 12 News report by Tia McKenzie on Rasheem Carter in Taylorsville, Mississippi, and IUIC reels.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=ecaMOv6O500)

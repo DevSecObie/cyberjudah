@@ -1,0 +1,641 @@
+---
+title: "The Echos of Rome: Ancient Superpowers to Modern America Part 2"
+slug: "2023/2023-04-02-ep-96-the-echos-of-rome-ancient-superpowers-to-modern-america-part-2"
+date: "2023-04-02"
+episode: 96
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2023-04-02 · with the officers of IUIC Philadelphia"
+tags: ["Our Hidden History", "america-babylon", "captivity"]
+---
+
+<p class="taught">Our Hidden History · 2023-04-02 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [1 Macc 3](/bible/1-maccabees/3) · [Jer 2](/bible/jeremiah/2) · [Deut 7](/bible/deuteronomy/7) · [Lev 25](/bible/leviticus/25) · [Lam 2](/bible/lamentations/2) · [2 Esdras 14](/bible/2-esdras/14) · [Rev 2](/bible/revelation/2) · [Ps 139](/bible/psalms/139) · [Isa 32](/bible/isaiah/32) · [Exod 11](/bible/exodus/11) · [Acts 8](/bible/acts/8) · [2 Macc 4](/bible/2-maccabees/4) · [Col 3](/bible/colossians/3) · [Jer 51](/bible/jeremiah/51) · [Acts 28](/bible/acts/28) · [Ps 74](/bible/psalms/74) · <i>and 3 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="9DGpKsftT0g"></div>
+
+## Introduction
+
+*[[15:14](https://www.youtube.com/watch?v=9DGpKsftT0g&t=914s)]* So we're showing you a day in the life of ancient Rome and how it parallels to a day in the life of America now. Notice how we touched on a topic concerning our slave trade back during, I'll say, the transatlantic slave trade: how we were slaves for about 400 years, or I'll say more than 400 years, but the spirit of life entering into us and then we begin to live. It's similar to back during the time period of Rome when we were slaves. We had the slave revolts. You have many people that reflected, like I said, the lives of our fathers, like Nat Turner. They had dreams and visions, and they led some of the greatest slave revolts in history.
+
+*[[15:57](https://www.youtube.com/watch?v=9DGpKsftT0g&t=957s)]* So we're showing them the parallels between ancient Rome and America, because America is Rome regenerated. So I want to start off with First Maccabees 3, verse 41.
+
+## Readings and Scriptures
+
+
+**[1 Maccabees 3:41](/bible/1-maccabees/3#v41)**  *[[16:05](https://www.youtube.com/watch?v=9DGpKsftT0g&t=965s)]*
+
+> <sup>[41](/bible/1-maccabees/3#v41)</sup> And the merchants of the country, hearing the fame of them, took silver and gold very much, with servants, and came into the camp to buy the children of Israel for slaves: a power also of Syria and of the land of the Philistines joined themselves unto them.
+
+- To buy the children of Israel for slaves. All throughout every captivity, from when we came out of Egypt by the hand of Moses, we made an exodus. From the judges we went from one captivity to the next captivity to the next captivity to the next captivity after that. You got King David as well as King Solomon; that was the only time period when we had freedom, or we had liberty, for about 80 years. We ruled in the kingdom of heaven in Jerusalem. After that we went to the Assyrian captivity; from Assyria we went to Babylon, to Persia and then to Greece. Now we're in Roman captivity.
+
+- You look at the Bible, the Bible parallels black history, Negro history, Latino history. We're the only people. You don't hear about Jewish people being called slaves, or taken on cargo slave ships, shackles and chains, their ancestors being raped. No, they were the ones taking us onto slave ships. They're the ones that profited off our slavery. They're the ones that insured the slave ships to become rich. They're the ones that controlled the plantations, or even the fields that we harvested. So they never experienced the curses of the Bible, but us. So it says they took the children of Israel for slaves.
+
+- A power also of Syria and of the land of the Philistines joined themselves unto them. The Syrians as well as the Philistines joined themselves unto them. Everybody partook in our slave trade. Give me Jeremiah chapter 2, verse 14.
+
+**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[18:16](https://www.youtube.com/watch?v=9DGpKsftT0g&t=1096s)]*
+
+> <sup>[14](/bible/jeremiah/2#v14)</sup> Is Israel a servant? is he a homeborn slave? why is he spoiled?
+
+- So God is asking Jeremiah the prophet: is Israel a servant? Were we placed on this earth, was our purpose to serve the other nations, the Assyrians, the Babylonians, the Persians, Rome? Is he a home-born slave?
+
+- Why is he spoiled? So why is Israel spoiled? That's the question God is posing towards us. Are we a servant? Are we a home-born slave? Because every time, like I said, we go from one captivity, God will send other nations over us, against us, to bring us to captivity so that we can learn our lesson. And we never learned the lesson. He always told us, in order to come out of this, keep my commandments. And when we did, he sent us a saviour to save us out of our conditions, and then we went right back into the same conditions. We went right back into breaking God's laws. We never learn. So God had to ask the question to Jeremiah: what is wrong with these people? Is Israel a servant? I made you to be above all people. Give me Deuteronomy 7:6.
+
+- God didn't make us to be a servant or slave. From the time period we came out of ancient Egypt, he told us if we kept his commandments that he would place us above all people. He'll give us blessings. We will be blessed with our children, we will be blessed with land, we'll be blessed economically, we'll be blessed in terms of militarily, we'll be blessed with power. The whole earth was made for us. But because we didn't keep our part of the contract, God says, because you didn't want to keep the contract that we agreed upon, a blood contract, I'll say it again, blood contract, you're going to be cursed rather than being blessed.
+
+**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[20:20](https://www.youtube.com/watch?v=9DGpKsftT0g&t=1220s)]*
+
+> <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
+
+- We were made to be holy. We were made and separated from every nation from our birth. We were placed above all people. We were a holy people, we were commandment keepers. You were chosen to be a special people, unto God, above all people. We were made above all people that are upon the face of the earth. That's why God poses the question to Jeremiah: is Israel a servant? I made you above all people. Give me Leviticus 26.
+
+- I made you above all people upon the face of the earth. You weren't made to serve, but the other nations were made to serve you. You weren't made to be a slave, but the other nations to be a servant and a slave unto you. But now, because you broke my covenant that I made with you, you decided to go off. After I gave you everything, I made the world for your sake, I gave you everything that you could hope for. I delivered you out of the mightiest empire. I destroyed Egypt for you and brought them down to be the basest of people. I took Egypt, I took the Sabeans, I took Ethiopia, and I gave them as a ransom for you. I killed millions of people for you, and you only, because I loved you and I loved your fathers Abraham, Isaac and Jacob. How is it that you've fallen so far, Israel? How is it that you went from the top to the bottom? Is Israel a servant? Are you a home-born slave? Why are you spoiled? Why you keep doing this to yourself? I made everything for you; now I have to take it from you.
+
+- Leviticus 26:45, I believe. No, Leviticus 25, start at verse 44.
+
+**[Leviticus 25:44-46](/bible/leviticus/25#v44)**  *[[22:30](https://www.youtube.com/watch?v=9DGpKsftT0g&t=1350s)]*
+
+> <sup>[44](/bible/leviticus/25#v44)</sup> Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.
+>
+> <sup>[45](/bible/leviticus/25#v45)</sup> Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession.
+>
+> <sup>[46](/bible/leviticus/25#v46)</sup> And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
+
+- Israel wasn't made to serve every nation; every nation was made to serve us. And that's the Bible. This is not anti-Semitism, this is Bible, this is facts, whether you like it or not. The world was made for us. And the problem is every nation is envious because of the birthright, and that's why Amalek is coming again against us with all the forces. That's why all the nations are keeping us hidden from who we are, because they understand that they were made to be our servants, and they hate that. They hate the fact that they were made to be our slaves. They were made to serve us; they hate that fact. So now the tables turned. We broke God's commandments. They said, at last, finally, this is the day we looked for. Get me that in Lamentations chapter 2, verse 16.
+
+**[Lamentations 2:16-17](/bible/lamentations/2#v16)**  *[[24:19](https://www.youtube.com/watch?v=9DGpKsftT0g&t=1459s)]*
+
+> <sup>[16](/bible/lamentations/2#v16)</sup> All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
+
+- All our enemies opened their mouth against us: the Arabs, the Chinese, the Japanese, the Africans, the East Indians, the Amalekites. All of our enemies have opened their mouth against us. … Thugs, criminals, deadbeat fathers, every single last one of them.
+
+- They hiss and gnash: look at these …, they're no good, thugs, these street criminals, look at them, they're sagging pants. Today it's the black Hebrews. Look at these black dirty Hebrew Israelites, look at these black identity supremacists.
+
+- They say, we have swallowed them up. We incarcerated them, we divided the families, we drugged them, we put them in low-income houses, we redlined them, we Jim Crowed them, we lynched them, we hang them, we sterilized them. We swallowed these people up. We genocided them, we colonized them, we swallowed them up. We took away the identity, we reclassified them, we indoctrinated them, we gave them different religions. We swallowed them up, we consumed them.
+
+- Certainly this is the day that we looked for. Why did everybody look for this? Because every nation was envious towards us being chosen. Everybody is envious. Everybody hates the fact that God chose us above them. They said, we have found the day and we have seen the day. We have found the scriptures come to life. We have seen Deuteronomy 28 come to pass, and we have seen it for ourselves, and we're the instruments of judgment that God is going to use in order to bring forth his judgments upon his people. And that's why it says, we offend not; we didn't offend you. You did it, it's your fault. Whose fault is it? Yeah, it is our fault. But guess what: even though it's our fault, God has a judgment for you. He's saying the … excuse me, you're saying the stuff that you're saying right now, it is our fault, but you're gonna get your ass handled too. What comes around goes around. Even though it was our fault, we created the conditions in the world that we live in today. Guess what: when we get back on the top, we're going to haunt you. We're going to come after you and we're going to torment you. The scripture says we shall meditate on terror. That's what the Bible says. I'm gonna say it. We're not going to hold our tongue, we're not going to be politically correct, we're going to speak the words of God without fear. That's what the Bible says, we shall speak in the face of our enemies boldly. We don't care. This is a generation, this is a regenerated spirit that was brought back on earth, that doesn't mind. This is our time, this is our moment.
+
+> <sup>[17](/bible/lamentations/2#v17)</sup> The Lord hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries.
+
+- See, the nations understand. They read our records, they read our book, they know who we are, brothers and sisters. God has fulfilled his word that he had commanded in the days of old. Everybody has our records. Everybody knows. And this is how you know: they created the NIV, not so much as a modernized interpretation so that people with the modern-day English could understand it, because we can understand it. It's called adaptation. People adapt to the language, just like a person could learn French, English, Dutch, Italian; you can learn English. So why do you got to give a different interpretation of the English when somebody can learn another language? No, you didn't have to do that.
+
+- The Lord had done that which he has devised. Because they have access to our records, they make these books. They make the NIV, the new King James version, because they know what's in it. That's why they'll take verses in Deuteronomy 28 verse 68 and they'll say, oh no, and you shall sell yourself into slavery. No. They know the prophecies. So they understand that there's going to be a time that has never been seen on this earth, a great awakening, where God was going to take things that were upside down and turn them right back up. There's going to be a time such as has never been seen before on this earth, that the twelve tribes will be revived, and the spirit of life will enter into the dry bones, and we will stand upon our feet an exceeding great army that will bring fear before these nations: the ADL, the JDL, the SPLC, the Israeli government, the Canary Mission, the Mossad, all these bastards. And that's what they're scared of. So that's why they have to change all the records. That's why they got to create new books.
+
+- That's why they're coming against us, our poor people. They call us criminals, they call us thugs, they call us deadbeats. But if we're nobodies, if we're deadbeats and we're thugs and we're criminals, if we're slaves, why so much attention towards us? You're a world superpower, you're a world government, you control the resources, you control the water, you control the banking industry, you control the CIA, you control my side. But why us? What is it about us? You're scared, you're afraid. It's nothing you can do, because the spirit of God resides in us and we bring terror to you. And we're gonna bring it to you. We're gonna bring it right to your doorsteps. There's nothing you can do about it. I'd be scared too. And we're gonna set the terror of our enemies. Amen to that. Praise the Lord God Most High. Hallelujah.
+
+- **An officer:** Hey cap, just to land back off the point that they have our records: there's a video we played a couple years back where this Edomite was talking. He went to the Vatican, he went down into the Vatican, and he said he's seen all these different books from the Bible. They had the Maccabees, and he said they even had extra books down there that he never seen before. So everything is in there. They have our records. It's all in the Vatican, way down, buried somewhere below.
+
+- **Deacon Eythan:** You're right. They have all our records, vaults of stuff we never even had access to at this point. And then they gave us a watered-down version of Jasher. You knock out all these pseudo writings, and then you guys take claim of it, and these talk about planets and angels becoming planets. No, they have our real records hidden from us. But the Most High set it, and the Lord had it that way, so that we wouldn't have access to everything, because we wouldn't be able to handle it. We can barely handle this. Give me Second Esdras, chapter 14, verse 42.
+
+**[2 Esdras 14:42-44](/bible/2-esdras/14#v42)**  *[[31:45](https://www.youtube.com/watch?v=9DGpKsftT0g&t=1905s)]*
+
+> <sup>[42](/bible/2-esdras/14#v42)</sup> The Highest gave understanding unto the five men, and they wrote the wonderful visions of the night that were told, which they knew not: and they sat forty days, and they wrote in the day, and at night they ate bread.
+>
+> <sup>[43](/bible/2-esdras/14#v43)</sup> As for me. I spake in the day, and I held not my tongue by night.
+
+- Is that the one going to how many books we have? Yes sir. Go on.
+
+> <sup>[44](/bible/2-esdras/14#v44)</sup> In forty days they wrote two hundred and four books.
+
+- In 40 days they wrote 204 books. How many we have? We have 88. We only have 88. We can't even comprehend Deuteronomy 28 to its full extent. We can barely handle what we have right now. He says they wrote over 200 books. What does that even mean? You have the book of wars, yes. But not the pseudo writings that we have today. Now don't go into these books like Enoch and Jasher, or the book of Thomas, or the Book of Enoch. So don't. What we have is it.
+
+- Now give me Revelation 2, verse 25, because what we have, brothers and sisters, hold that what you have fast until Christ comes, because what we have is enough for our salvation. We're at the end of this captivity. We don't have enough time to even go through all these records. We can barely deal with what we have right now. And the Lord had it that way, because our attention span is very low. We got 200 books, we'll be all over the place. Imagine how to precept 200 books. Oh my gosh. And the Lord had it that way because of captivity. We work so long, so many hours, we don't have enough time. Back then they were obligated to those offices, meaning they had the time period to study all day and dedicate themselves to the gospel. Now America has it so that we work so much that we don't even have time for ourselves, so that in order to really get in depth and study, you have to sacrifice your sleep.
+
+**[Revelation 2:25-26](/bible/revelation/2#v25)**  *[[33:55](https://www.youtube.com/watch?v=9DGpKsftT0g&t=2035s)]*
+
+> <sup>[25](/bible/revelation/2#v25)</sup> But that which ye have already hold fast till I come.
+
+- Christ says what books we have. We have the Old Testament, which is the writings of the prophets. Then you have the Apocrypha, which is a part of the Old Testament, or they call it the intertestamental period, that the Protestant Christians took out of the Bible in the late 1700s. Then you have the New Testament. About 88 books that we have within our possession. Christ says what? But that which ye have already, hold fast. Hold fast until what? Till I come. Hold fast until Christ comes.
+
+> <sup>[26](/bible/revelation/2#v26)</sup> And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
+
+- So we have to hold fast to whatever we have right now in our possession. Be happy with that, because that's more than enough. And we'll come across information from the Most High through the spirit of the Lord working through our bishops and our deacons. Like I said, they're filtering the information through their spirits, their vessels. And he uses Bishop Nathanyel to bring this information out to us, to the point that every class the waters rise and we learn something new. I'm like, wait a minute, how's that possible? How did you see that? We went by that hundreds of times, we read that scripture many times for many years, and then all of a sudden the Lord decided to use the bishop to bring it out on a level that we never even seen before.
+
+- So there's so many layers. The scriptures is like a well of understanding. The deeper you go, the deeper the waters go, and it keeps on going down, down. You say, wow, where's the bottom? Because there's no bottom to the truth. There's no bottom to God's knowledge. It's a well of information that has no end to it. And that's why, imagine 200 records, 200 books. Oh Lord Jesus, we'll lose our mind. What's that scripture, we see through a glass? First Corinthians chapter 13.
+
+- **An officer:** Now, even David saying in the Psalms, he said the thoughts of the Lord are as the sands of the sea. So we only seen a little bit.
+
+- **Deacon Eythan:** That's a bad scripture. Get that.
+
+**[Psalms 139:17-18](/bible/psalms/139#v17)**  *[[36:27](https://www.youtube.com/watch?v=9DGpKsftT0g&t=2187s)]*
+
+> <sup>[17](/bible/psalms/139#v17)</sup> How precious also are thy thoughts unto me, O God! how great is the sum of them!
+>
+> <sup>[18](/bible/psalms/139#v18)</sup> If I should count them, they are more in number than the sand: when I awake, I am still with thee.
+
+- So they are more in number than the sand. We can't comprehend the thoughts of the Lord.
+
+- Now let's get into class. All right, let's go to Rome. So, is Israel a servant? Is Israel a home-born slave? That's the question we must ask ourselves. That's the question God's posing through Jeremiah, from time in, time out, even to this day. We are yet in captivity to this day, brothers and sisters. Those of you that have a false perception that you're free under America's captivity: you're not free. The only difference is America is one of the smartest empires and one of the smartest superpowers, in order to give you the illusion of freedom through the jobs that they give you, because the money that they have in comparison to the money that we have is nothing. They created a false reality in order to cater to your pleasures, give you the illusion of freedom that doesn't really exist. The freedom that you believe that you have is not freedom, because you're still a slave. You're a slave to your pleasures, you're a slave to your lust, and not seeing a bigger picture, you're a slave of America. You can't see past your lust.
+
+- America has found out a way to cater to your inner demons, and you think you have freedom. Oh, you have freedom within your sin; that's all you have freedom in. But you don't have the true freedom of God. The freedom that the Bible talks about that the children of Israel will have is world superpower. That's true freedom. A military is true freedom. Finance is true freedom. Land is true freedom. That's freedom. Not poison water, not having to work; that's slavery. You don't know freedom. We have never experienced it. They created and enforced a condition of mental slavery, or mental bondage, that you have yet to realize until God opens your eyes. Give me real quick Isaiah 32, verse 5.
+
+- **An officer:** I'm trying to hold back, cause you're triggering some thoughts. And you know what, it's sad, because even with all that, our people think getting reparations, fighting for 40 acres and a mule, that's going to bring some type of freedom to our people. But you're still in the system of captivity. It's not going to help you at all. And if black people do get all that money, we're gonna give it right back to them.
+
+- **Deacon Eythan:** All right, yeah, exactly.
+
+- **An officer:** It reminds me of the class yesterday: that we don't own the land, we own the rights to the land. When we buy a house, it's not just talking about taxes. And then he brought out what happened in Egypt with Joseph, how the Pharaoh bought everybody's land and pushed everybody into cities.
+
+- **Deacon Eythan:** Hey, that's a good point. What's happening today? Damn, that's bad. So we was redlined in ancient Egypt. Damn, that's heavy. Gentrification. There's nothing new under the sun. Got no freedom. No freedom.
+
+- **An officer:** I'm pretty sure Rome did the same thing.
+
+- **Deacon Eythan:** Yeah, must have been. Read the book of Isaiah chapter 32. Verse 3.
+
+**[Isaiah 32:3](/bible/isaiah/32#v3)**  *[[39:41](https://www.youtube.com/watch?v=9DGpKsftT0g&t=2381s)]*
+
+> <sup>[3](/bible/isaiah/32#v3)</sup> And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.
+
+- So our eyes shall not be dim and our ears shall hearken. So you have to be opened up to your conditions, because a lot of you are living in this country, or within a system, thinking that you're free. You're not free, you're a slave. You got to let go the slave mind. True freedom is Christ saying, and you shall know the truth and the truth shall set you free. You cannot be free in the mental bondage that you live in, in America, saying I'm African-American. You cannot be free under these different religious institutions. You're not free. You're a slave and bound to those religions.
+
+- Now let's go into the book, *Slavery in Rome*. Nope, nope, that's not the first book. I told you the first book I want: the Negro, page three. Start at the bottom.
+
+- Oh, it got cold in here. Who put the AC on? The fire's blazing; they want to cool you down. All right, let's go.
+
+<div class="reading">
+
+Reading from a book on the Negro races, page three (the book is not named on air)  *[[41:15](https://www.youtube.com/watch?v=9DGpKsftT0g&t=2475s)]*
+
+> In relations of inferiority to those with whom they are found, and not only of inferiority but even more distinctly of slavery. Upon this point the proofs are full and clear, and we are at liberty to speak with confidence, and respect to the monumental period the proofs are all strong in the same direction. When the Negro races first made their appearance on the monuments of Egypt, it is in the relations of slavery.
+
+- So those of you that have been following us from the previous classes: the Negro races, when we made our appearance in Egypt, it is in what? It is in the relations of slavery. You don't see really too many time periods, except for when we ruled Israel for 80 years, as well as the Byzantine Empire when we came up in rulership, and as well as the Moors. You haven't really seen too many time periods of us ruling. But in ancient Egypt, it says when the Negro races first made their appearance on the monuments of Egypt, it is in the relations of slavery.
+
+- We showed the proof; go back to our previous classes. Negro slavery in Egypt translates to Israel's bondage in ancient Egypt, because the Negroes today, that was a title that was given to us in slavery, meaning black. That's all it means. That's not a nationality that was given to us from God. God gave us the title of Israel, meaning the prince of the power, and from that you have the twelve tribes, which came from the forefather Jacob. So the Negro experience in Egypt: the only slavery or people that you reference or you read about, you watch your movies, The Ten Commandments with Charlton Heston, with European whites or Amalekites playing our characters, our fathers and our roles, our position in history. That was in them black images. We showed the archaeology, we showed the wall reliefs, the mosaics; we saw that on the walls. You see black slaves, translating to Israelite slaves in bondage.
+
+- It says when the Negro race first made their appearance on the monuments of Egypt, it is in the relations of slavery. And hence this is why they don't want to teach slavery in school. Slavery is going to identify the Negro from everybody else. The unconscious community doesn't notice, the Egyptologists don't notice the difference of who was in slavery in Egypt. Real quick, Exodus, the basic scripture, Exodus 11 and 7. Not the basic scripture; let me correct myself: fundamental, pivotal scripture.
+
+</div>
+
+**[Exodus 11:7](/bible/exodus/11#v7)**  *[[44:45](https://www.youtube.com/watch?v=9DGpKsftT0g&t=2685s)]*
+
+> <sup>[7](/bible/exodus/11#v7)</sup> But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
+
+- So if you do not know that the children of Israel went to Egypt as bondmen and bondwomen, you won't be able to make a distinction of who God is talking to, and who all these prophecies that are coming out today belong to. So that's heavy right there.
+
+- **An officer:** At the end, our debut was based on slavery.
+
+- **Another officer:** In America today, it was based on slavery. That's crazy, bro.
+
+- **Deacon Eythan:** You just shook the core. You brought me back into my past lives, man. I went right back into it. I went right back into my history, I went back into the vault of my mind, and I saw all my life. Dang, I've been a slave, oh my God, all my life. Damn. And that's why we fighting. Why you bring me there, man? We think we free. I thought I was free for a second. Hey, listen: we debut on the scene with slavery. Is Israel a home-born slave? Is Israel? Damn, even Egypt. So we never got to enjoy the fruits of us being chosen.
+
+- **An officer:** Not yet. Not yet.
+
+- **Deacon Eythan:** Once we adapt that fact, we believe that, then we could work towards that period. Now we got to put in that work.
+
+- **An officer:** So this world, I'll say this present world, wasn't really created for us.
+
+- **Deacon Eythan:** Absolutely not. The world to come is ours. The world always to come was ours. This was just the preliminary before we get to the world to come.
+
+- **An officer:** And if you endure, it really belongs to you. So this world was created as a trial and test, to get the fruits of our labours. The other nations don't have a God that chose them, like you stated in Deuteronomy 7. He chose us. We're being bewitched not to believe our rightful possession, which is the laws of God. Then we don't know how to differentiate ourselves from the Hamitic people.
+
+- **Deacon Eythan:** Yup, exactly. And they want to assimilate us. Exactly. Forget about the history. And Bishop did an excellent class yesterday. For those of you, brothers and sisters, make sure you tune into last night's class again. Take great notes, get the books that the bishop referenced. Like I said, he distinctively went into the different countries that the Nilotic tribes dwelt in. He went into the ancestry, as well as where they migrated down to, the difference between the Nilotic as well as the Shemitic tribes that live within the continent of Africa, and he went to the different locations and regions that we had mapped out, and some of the books, the records that we found, so they understand the difference between the two. The problem is we could barely differentiate, because of the confusion of faces and the history that they keep from us. We thought, because we come from the continent of Africa, we're all Africans. So make sure you look at yesterday's class. Anything you want to bring? No? That's good. Okay, let's go back into the article.
+
+<div class="reading">
+
+Reading from the same book on the Negro races, continuing  *[[48:08](https://www.youtube.com/watch?v=9DGpKsftT0g&t=2888s)]*
+
+> When the Negro races first made their appearance on the monuments of Egypt, it is in the relations of slavery, sometimes indeed of captivity, but more commonly of established slavery. This, until we came down to our own times, was therefore the universal status: slaves then, when Karnak and Luxor were built; slaves in Europe, Asia and Africa;
+
+- We were slaves. And that's showing you the author even made a distinction between us and being Africans. It says slaves in Africa: the Negroes were slaves in Africa. The book Bishop brought out yesterday, concerning when it says Hamites and Arabs raided Negro villages. Slaves in Africa.
+
+> slaves in America;
+
+- The same Negroes that were slaves in Egypt, that were slaves in Europe, that were slaves in Africa, are the same people that were brought on cargo slave ships to America, to slavery, for over 400 years.
+
+> slaves and Thebes,
+
+- Remember Thebes: the Theban kings, or you have the pharaohs. That's the 18th dynasty, under Thutmose. You had King Tut, Queen Nefertiti, or Queen Hatshepsut. All of these were the Theban kings. Those were the 18th dynasty, the Theban kings after Joseph. They knew not Joseph. After they came up in rulership, that's when they enslaved the children of Israel. It shows you that the Israelites that were slaves under the Theban kings, or the pharaohs of ancient Egypt, were the Negroes today. So we are the Jews according to the Bible. There's no such thing as anti-Semitism when we're Semites. Like Kyrie Irving says, how can I be an anti-Semite?
+
+- Well, I know who I am. We can read, we can write, we understand, we comprehend. We have eyes that we can see, we have ears that we hear, we have a mind that we can comprehend. You cannot keep us in the dark anymore. You can't keep us from who we are. You try to destroy us, but just like Dragon Ball Z with Goku: the harder the battle got, the stronger the fight became; the more pain that was inflicted, the stronger we became, until we ascend into Super Saiyans, gods on this earth.
+
+> in Memphis, at Babylon,
+
+- What race or group, what people do you hear about, going through ancient history, of them being slaves in Babylon, but the children of Israel? When Nebuchadnezzar was risen up in power to go into Israel and to exile us and to enslave us with Edom. We were slaves of Babylon. It says Negroes. The scholars know who you are, but you don't know who you are. An ox knows his master, and the ass his master's crib, but Israel does not know; neither does he consider, oh my people.
+
+> and Nineveh,
+
+- And that opens us up to Jonah going to Nineveh to teach the exiles there. Remember the northern kingdom under Shalmaneser. You had King Esarhaddon, you had King Sargon and Sennacherib. Those were the Assyrian kings that exiled the northern kingdom out of the land, brought them into Nineveh, brought them into Media, brought them into Assyria and those different territories in Asia Minor. So they were brought over there. And that's why Jonah went to Babylon. You read about Tobit, you read about Tobias: they were in Nineveh. We were slaves in Nineveh.
+
+> at Rome.
+
+- At what? Rome. That's what I want to get to. The Negroes were slaves at Rome. Slaves and Thebes and Memphis, at Babylon and Nineveh, at Rome. At Rome, brothers and sisters. We were slaves in every captivity, and we were slaves at Rome. Can we get the images now?
+
+</div>
+
+<div class="reading">
+
+Reading from *Image of the Black in Western Art*, the volume from the pharaohs to Rome, the plates and the text under them  *[[53:30](https://www.youtube.com/watch?v=9DGpKsftT0g&t=3210s)]*
+
+
+
+- Now this goes to the book *Image of the Black in Western Art*, from the pharaohs all the way to Rome, just to show you some of the archaeology, the different depictions on the relics. You have some of the pottery that the nations left behind, and like I said, these are traces that were left behind, so that as we wake up in these last days, the Lord will leave these books and have these scholars do the research, so that we could trace our tracks back to who we are, so that we could bring this information back out to you. So if you could see the pottery right there: that is a Negro slave. Now can we read the caption? Go up. 215.
+
+> Head of a Negro in profile, Italy.
+
+- So that's a Negro head on a vase in Italy, which is in Rome.
+
+- **An officer:** So real quick, question on these images, cap: those images weren't placed on this pottery by Negroes. They were made by the other nations, that we were in servitude to.
+
+- **Another officer:** Yes. To prove your point, I'm looking for a page now. So what happens is the other nations always made mockery of us. They put us on vases, they put us on their thrones, different stuff. Even down here in Philly they made sculptures of us holding up the pillars and stuff. So it's something that the nations always did, not knowing the reason why. This is what the Most High pushed their hand to do, to make us remember who we are. So that's the signs for us. But you got Negroes out here today, they want to get rid of the landmarks and stuff. This is our history. We need that to pinpoint who we are.
+
+- **Deacon Eythan:** Exactly. All right, let's get to the next image. Let me see the footnote.
+
+> 284. Mosaic, black bath attendant, First Century A.D., Pompeii, House of the Menander.
+
+- So it says Pompeii house. Now remember, Pompey had us as slaves. If you look at the movie Spartacus, prior to Julius Caesar coming to power, Pompey didn't actually capture it, but he came after it was captured, so he got the credit of capturing. I forgot what city. Spartacus, I don't recommend you watch it. It's a lot of homosexual activity going on. Great fighting scenes, excellent fight scenes, but a lot of gay stuff going on in that show. So, 64 BC? 63, 64. So Pompey succeeded Julius Caesar, and he gave the crown of the throne to Julius Caesar in about 40 BC. Yes sir. So Pompey was a general. Now is there any description on that? It's on the next page. So that's us, a Negro in a bathhouse. Look at the nose. Go back to the last page real quick, blow it up.
+
+> This scene has been interpreted as personifying Africa or Egypt. In other instances, however, artists of the Roman period were not satisfied to suggest Africa merely by pigmentation, which varied from region to region. Africa as seen by one sculptor was a mulatto woman with flat nose, thick lips, neither feature very pronounced, and long flowing hair. The sculptor of a marble statuette from Lower Egypt of the First Century A.D. or a little earlier created a graceful figure whose hair, covered with the skin of an elephant's head, hangs down
+
+- I don't think that's the one; that's on the next page. All right, let's just go to the pictures. Let's go to the next image. So just to show you different artifacts, sculptures of Negroes in Rome. Next one. Zoom in. Oh wow. Just to show you some black priests. Zoom in and you can see the difference. You see them in the white robes. There's one. Go to the next one; there's another one. Go to the left, all the way to the left. No, that's my right. Can somebody get up and show them the Negro right there? Bring your arrow to the left, please. Thank you. He had to take a minute to get there.
+
+- Some more sculptures: some of the high priests in Rome. Zoom in. Now I gotta switch my brain around. Go to my right now, let's see if that works. Zoom in, I want some people to see. Put the magnifying glass over there. See, black figures there, right there. Go straight above the head; that one is right in the background. Look, go to the left. See, they try to erase that. Zoom in right there.
+
+- **An officer:** That looked like Judah about to scrap, you see? He got the two hands up like this.
+
+- **Deacon Eythan:** No, these are priests. Black people together don't always have to fight. Can we go to the description? I think there's a description on the bottom of the previous page.
+
+> Ceremonial sacred dance performed by black
+
+- All right, don't worry about it. Let's go to the next images. Which one is this?
+
+> 290. Statue of a youth standing with arms extended forward, First Century A.D., bronze.
+
+- Now go down to 291, show the picture. 291, 292. They always break our nose, always. But you can see the woolly hair. Look at the woolly hair, that kinky, nappy hair they call it. Black features. That's not Roman features, it's black features. 291, 292, go up, zoom in.
+
+> Statue of a singer or actor from the vicinity of Naples, 11th Century A.D.
+
+- Statuette of a draped Ethiopian. Now let's go to the next image. 293 and 294. That was on the previous page. That's the only thing about these images: some of them will be on another page, or two pages later. Now go to the previous page; let's see what that is.
+
+> 293. Statuette of a draped Ethiopian, from Augusta Raurica, Roman period. 294. Statuette of a draped Ethiopian, Roman period.
+
+- Now remember what the bishop stated: there's a difference between Ethiopians, the Nilotics, as well as Israel living in the land of Ethiopia, Semites, like we just read in Acts chapter 8. Let's get that real quick, just in case people might be confused and say, wait a minute, but it says Ethiopian. So it's of high possibility that that was Israel, even if it's Ethiopian. Remember you have the Ethiopian eunuch, Acts chapter 8, verse 30.
+
+</div>
+
+**[Acts 8:30-31](/bible/acts/8#v30)**  *[[1:04:13](https://www.youtube.com/watch?v=9DGpKsftT0g&t=3853s)]*
+
+> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
+>
+> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
+
+- Start at verse 27.
+
+**[Acts 8:27](/bible/acts/8#v27)**  *[[1:04:30](https://www.youtube.com/watch?v=9DGpKsftT0g&t=3870s)]*
+
+> <sup>[27](/bible/acts/8#v27)</sup> And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,
+
+- So this Ethiopian came up to worship, because why? Three times out of the year shall all men come up to Jerusalem to worship before me. So this man didn't just make a journey all the way from Ethiopia to Israel for no reason. He understood the law. Remember, throughout each captivity, and this is the Roman captivity, prior to the Roman captivity Israel was scattered throughout Assyria, Babylon, as well as Persia, Greece and Rome. So we were scattered everywhere, but we still came together for our feasts, just like in Acts chapter 2, verse 5: Israel coming from all nations under heaven to keep the feast of Pentecost, because that was one of the feasts that we had to come up for, three times out of the year. Showing and proving that was an Israelite. The other nations were not allowed in our temples, by law. Now let's go back to the images. The next one.
+
+- Oh, this is the Levite, back during the time of the Greeks.
+
+- **An officer:** And get the one when he was serving in Rome too.
+
+- **Another officer:** Come on, man. He's serving everyone.
+
+- **Deacon Eythan:** Wait, wait, let's read this one; then we'll get the other one. So before we get to this one, this was another image that we found, in the *Image of the Black in Western Art*. Let's get some clothing on real quick, before he decided to go to Olympia, the Olympics. Go back to the gym. Now this is him before, when he was serving at the priest's office. He had clothes. That's what you had: clothes.
+
+- **An officer:** Dang, that's what slavery does to you, man.
+
+- **Deacon Eythan:** Go to Maccabees chapter 4, verse 14. We're seeing a side-by-side picture of when he was in the spirit, serving under the priest's office, when he was given the law and sacrificing, and this is after the Greeks came to power. So we had the before, when he was serving under Aaron, under the high priesthood, and the after, when he was serving under Alexander and the Greeks. Gradual transition. Second Maccabees chapter 4, start at verse 13.
+
+**[2 Maccabees 4:13-14](/bible/2-maccabees/4#v13)**  *[[1:07:29](https://www.youtube.com/watch?v=9DGpKsftT0g&t=4049s)]*
+
+> <sup>[13](/bible/2-maccabees/4#v13)</sup> Now such was the height of Greek fashions, and increase of heathenish manners, through the exceeding profaneness of Jason, that ungodly wretch, and no high priest;
+
+- So we're seeing that the Levitical priests had no courage to serve at the altar anymore.
+
+> <sup>[14](/bible/2-maccabees/4#v14)</sup> That the priests had no courage to serve any more at the altar, but despising the temple, and neglecting the sacrifices, hastened to be partakers of the unlawful allowance in the place of exercise, after the game of Discus called them forth;
+
+- They despised the temple, and they neglected the sacrifices, to be partakers of the unlawful allowance in the place of exercise, which is the gymnasium. And gymnasium is the place of nakedness. Do we have that definition? Bring that up.
+
+- **An officer:** But you know what's funny about this: the officer had a beard. He threw everything out. Then he had clothes on, he had clothes on.
+
+- **Another officer:** That's what he said, right? I didn't say that, he said that. And that was from the spirit.
+
+- **Deacon Eythan:** Gymnasium, Greek gymnasium, naked. Get the second one. Exercise naked. Now go back to the scripture. So they started exercising naked. Now can you bring up the before and after picture one more time? So they didn't want to serve at the temple anymore. They despised the laws of God and they went to the place of exercise, to exercise naked. So this is the before, and this is the after. Let's go back to the statue. And you know that's a Negro. Now can you zoom in? Not on the bottom part; go up. Zoom in. Zoom out, man. Look at it. Look at that, and they forgot to knock off the nose on that one. Whoa, look at that. Look at the flat nose. They slipped up on that one. That's a Levitical nose.
+
+- **An officer:** Like Deacon said, we in there, baby. That's me. I'll take that.
+
+- **Deacon Eythan:** In the regeneration. The way you regenerate back into the priesthood.
+
+- **An officer:** Thank you. I came to the show with my clothes on.
+
+- **Deacon Eythan:** So look at the kinky hair, the coarse hair. That's a Negro right there. Now let's go down to the number. 296.
+
+<div class="reading">
+
+Reading from *Image of the Black in Western Art*, continuing with the plates  *[[1:10:54](https://www.youtube.com/watch?v=9DGpKsftT0g&t=4254s)]*
+
+> In this instance the youth has his hands in front of him, palms up, and in still other studies the artists have varied the upright posture with equal effect. These differ in the slight bending at the waist and the changed position of the hands. The graceful posture of a bronze is reminiscent of the youthful musician, the features being highly individualized and the hair differently treated. Each of these four heads represents a distinct type of Negroes.
+
+- All right, now let's go to the next image. Let's get some more images. Wow, look at that. Zoom in. Look at the hair: Negro. Look at the nose. Zoom in on the lips. Like some of our sons around here. The nose and all of that, the face. Now can we go to the description of the image? What number is that? 303.
+
+> 303. Detail of statue of a youth standing with arms extended forward.
+
+- Now let's go to the next one. Wow. Let's zoom in. Looks like some of our uncles, our grandparents, our grandfathers. Look at the nose. It's not Ham either; that's full Negro. We got the twisties, the nose, perfect twists. Look at the lips, full lips. There's no number on that. I believe that was on the last page. Bottom, three.
+
+> 304. Perfume vase, head of a Negro, Roman period.
+
+- Head of a Negro, Roman period. Not African. Not Ethiopian. Negro. Clear distinction. And we're the only ones in America that's classified as being Negroes. No other race of people identifies as that. Is that it? Zoom in. Wow, a little boy right here. 305. They got the skully on. We got the skully up.
+
+> 305. Counterweight, Negro, Roman period, bronze.
+
+- **An officer:** So you know, another thing is, in school, teaching US history: we're seeing all these images of Negroes in Rome, in Asia, in Europe, but they were trying to teach us we were just butt-naked slaves running around in Africa with bones in our nose. That's a heavy contradiction right here with the truth.
+
+</div>
+
+<div class="reading">
+
+Reading from a page an officer sent on the group, on how the blacks were figured by their enemies (the book is not named on air)  *[[1:14:39](https://www.youtube.com/watch?v=9DGpKsftT0g&t=4479s)]*
+
+> Their features are recorded by their ancient enemies, never by themselves. Egyptian kings, who from earliest times of antiquity came often into collision with the blacks and had them figured as defeated enemies, as prisoners of war, and as subject nations bringing tribute. Their grotesque features, so much differing from the Egyptian, made them a favorite subject for sculptural supports of things, chairs, vases, etc., are painted under the soles of sandals, of which instances abound in museums as well as in the larger works on Egypt.
+
+- **An officer:** To get back to your point, I wanted to back up what we're looking at right now, these terracotta images. Bring up that page I sent on the group real quick. I won't take too much time. It's about us.
+
+- **Deacon Eythan:** That's heavy. That's very heavy.
+
+- **An officer:** But remember, Bishop said we didn't paint those images. We did not paint those. They painted them, they recorded us. So they were infatuated with us, pretty much. They have us in Philly too. Bring that up, the statues.
+
+- **Deacon Eythan:** Yes, you're right. Every captivity: the Native Americans, Negroes.
+
+- **An officer:** Get the picture, bring it up real quick. Nothing new under the sun. So this is downtown, Center City, at City Hall. Now when you go under the corridor at City Hall, you wouldn't think to look up. That's not your initial thing; you're just walking through, enjoying the scenery. But you know why? Because they taught us and trained us to always look down. So that's why they sculpt everything upwards: because we were trained to look down, low self-esteem. But the scripture says look up. They even put a movie out, Don't Look Up. Go back to Judah. You got Judah on one side, you got Gad on the other side of these pillars, holding it up. So this is an example of how they've seen us and what they did.
+
+- **Deacon Eythan:** Hold on, wait, wait a minute. So it's okay for Judah to be naked right here?
+
+- **An officer:** That's different. That was about choice. Yours was by choice; that's our bondage right there. But letting you know, you have the southern kingdom on one side and the northern kingdom, Judah and Gad, pressed together. Look at the hair: the same texture as what we're seeing in the old Roman terracotta sculptures, the same textured hair.
+
+- **Another officer:** And one heavy thing about this: subliminally, us Negroes keep this system afloat. If we were to know who we are and follow our own custom, our own heritage, this system would crumble, because we would not be partaking in the very things that keep them afloat.
+
+- **Deacon Eythan:** That's it. You're right, you're right.
+
+</div>
+
+*[[1:17:56](https://www.youtube.com/watch?v=9DGpKsftT0g&t=4676s)]* So, phone number. Like I said, brothers and sisters, we're gonna take a short break. If you want to call us in or text us, you can call us at 267-702-6121. Once again, you can call us or text us at 267-702-6121. During the break: "Hey, listen: IUIC Austin is out here on 6th Street today for South by Southwest, bringing out the word. You see all men of debauchery, all men of sin going on, but guess what, the word of God is coming out." Then: "It's you who don't know, is you Afro-Syrians who don't know your history. And go to the other side of India, you see the Dalits; same thing on the Eastern Hemisphere: mass incarceration, police brutality, lynchings, convict leasing. Your heritage goes far deeper than where you live. You are the children of God." Then a clip from Haiti: "So as you know, this brother has been in the media," and "more commonly known by his childhood nickname Barbecue, once a Haitian police officer, he is now the leader of a powerful confederation of gangs called G9, which controls much of Port-au-Prince and its suburbs." "It looks more like a military group than anything else." "I'm pretty impressed. I heard it from about a mile away, so I had to come over." "There's something that was said that has never been done or seen before: unity of all people. We are the twelve tribes of Israel. And we will not apologize. We're gonna teach this truth, come hell or high water." And Ephesians chapter 4, verse 3, on keeping the unity of the spirit in the bond of peace.
+
+*[[1:30:24](https://www.youtube.com/watch?v=9DGpKsftT0g&t=5424s)]* Shalom, Israel. Welcome back, welcome back. All right, so we're gonna go into our next segment, and we're going to touch on Spartacus and the gladiators, all the way to Julius Caesar. Now, anybody that has seen the show, like I said, I wouldn't recommend to watch the show. I watched the show prior to coming to the truth. A lot of the scenes are homosexual, pedophilia, a lot of things dealing with fornication. So if you battle with things like that, this is not the show for you. You can watch any other gladiator type of show, or revolts or rebellions type of show, rather than watching Spartacus, because it can ignite certain spirits that lay dormant in you. So we don't want to trigger you with this. But we are going to briefly go over the history, because this was part of our history in Rome, some of the slave revolts that we experienced. We went over Eunus last week. This week we're going over Spartacus. We also went over and paralleled it to Nat Turner, one of the biggest slave revolts leading to our emancipation. They were saying in the history books that he was one of the reasons for us to be emancipated. That came up as a question: yo, what's going on? Why is it that these people were revolting, and coming to a level of violence in order to get their freedom? It just wasn't Nat Turner's rebellion. There's many different rebellions all going on in America; I believe it's over 70 that Esau had to contain. But Nat Turner was the one that kind of triggered it. You had Toussaint Louverture in Haiti; he inspired Nat Turner. Then from Nat Turner, Gabriel Prosser. You got Denmark Vesey.
+
+
+<div class="reading">
+
+Reading from *Judea Trembles Under Rome* by Rudolph R. Windsor, the image of Spartacus  *[[1:32:59](https://www.youtube.com/watch?v=9DGpKsftT0g&t=5579s)]*
+
+
+
+- **An officer:** Even in the northern kingdom you had all of those. So it was definitely a lot of rebellions that they had to try to quell at that time, with the Maroons and all of them.
+
+- **Deacon Eythan:** Yep. So we always had the spirit of rebellion. We understood that our presence as well as our purpose was never meant to be under a race of people. We have the fire within us to revolt and rebel against these ruling nations. Now, Spartacus. Was Spartacus Caucasian, which the world portrays? Remember, in slavery they whitewashed our history. They took our records, they whitewashed it, and some of them they hid. The scripture says we'll be without an image. But now we have the records. Now this is from a book by Rudolph R. Windsor, *Judea Trembles Under Rome*. Show up the image, enlarge it. So this is Spartacus. As you can see: Negro. Look at the hair texture. Almost looks northern kingdom, in my perspective, a little bit.
+
+- **An officer:** Yeah, you do kind of. The nose, and the eyes. It looked like, obviously, y'all came without a …. I'm in there.
+
+- **Deacon Eythan:** Right. Hey, look at the lips, look at them Negro lips. The ears: you got the big ears. You got the big nose. The Negro. Look at that. And you got the angry look on his face, because we're angry. Surely oppression maketh a wise man mad. So this is a depiction out of the book called *Judea Trembles Under Rome* by Rudolph R. Windsor.
+
+- Now, funny story. I know Bishop Nathanyel, the bishops, y'all have stories concerning them going into the libraries, or even some of these bookstores, when you're looking for the books, and Esau comes and they start questioning you regarding the book you're referencing. So I went to the store in Bergen County. This is, like I said, when we were looking for research and information on Spartacus being a Negro. So we did a little, one of our journeys in trying to find this record. I went to one bookstore. It said they had about four or so more copies there. I went to it and I requested the book. So they said okay. I said I want four copies. The record said that you have this. Now you'd think there would be an easy exchange: this is where the book is, or if we don't have it, I could put an order in for you. No. The lady made a phone call. She says, hold up, somebody wants to meet you. The guy from the basement, from the vaults, came downstairs, all the way up, to meet me. How you doing, my name is blah blah blah, I wanted to meet you. How many books did you want? Four? Okay, we'll put an order in. So rather than the lady at the counter that could put an order in for the books, no problem, the guy from the vault had to come upstairs to meet me, just to see me. And after that I said, we're not going to get it. And they said, we're out of stock.
+
+- But the record said they had the books in stock. It wasn't on the bookshelves. That book was in a vault, and he had to come up and see me. She had to make a call; he said, let me see him first. They never gave us that book, and it was almost impossible to get this book. We had to call Rudolph R. Windsor himself to get the records, because he said they took him off of stock because of what's contained in that book. That's why. Now we go to white eyes only. But you have prominent black scholars that people don't count. They say, oh, was he white? If it's not white, then it's not right. Windsor is, I'll say, better than all these scholars, because he brings the information that was hidden from us to reality, and he ties it to us being Israelites. And even before him, J. A. Rogers.
+
+- **An officer:** Yeah. *Sex and Race*. Very good books, man. Excellent.
+
+- **Deacon Eythan:** Put your hands on those. He went into depth, details about us being the Moors, us ruling in the castles in Spain, us being the Jews. So J. A. Rogers: these are credible black scholars that history, or society, does not give enough credit, because he's not white. These were prominent scholars. These are credible resources. And black people: oh, what year is it? Who wrote this? It was a black man? Oh, I don't believe in it then. And then you also have, what is his name, that did *The Image of the Black in Western Art*: Louis Gates. So he's missing some details. He was asleep. Now let's go to the next page, *Slavery in Rome*, the first page. Let's bring that up.
+
+</div>
+
+<div class="reading">
+
+Reading from *Slavery in Rome*, page 48, on Spartacus  *[[1:37:22](https://www.youtube.com/watch?v=9DGpKsftT0g&t=5842s)]*
+
+> Spartacus was a Thracian by birth, and had been compelled, like other barbarians, to serve in the Roman army, for which he had deserted, and at the head of a body of chosen companions had carried on a partisan war against the conquerors. Being made prisoner, Spartacus was sold as a slave,
+
+- Spartacus was sold as a slave.
+
+> and his strength and size caused him to be reserved as a gladiator.
+
+- His strength and size caused Spartacus to be reserved as a gladiator. Just like today: our strength and size. They had us wrestle with each other in slavery. You've seen it in Django. They had us wrestling with each other for strength and size. They had wrestling in ancient Greece and the Olympics; they had us wrestling with each other. So our strength and size reserved us as gladiators. You had people such as Muhammad Ali, Mike Tyson, you have Floyd Mayweather: their strength and size reserved them to be boxers. You have NFL players, you have basketball players, LeBron, Michael Jordan: their strength and size reserved them to be gladiators, for some of the sports that we watch today that require strength, as their entertainment. So they always used us as an instrument of entertainment, for their entertainment.
+
+- **An officer:** Cap, there was an article a couple years ago that was saying even in prison today they were still having them fight as gladiators.
+
+- **Deacon Eythan:** Okay. In prison. Yeah. Now we have a text.
+
+- **Text:** Shalom brother, can you tell me the name of the book, and also point me to, or give me the phone of, the Hispanic northern kingdom camp? I'd like to attend. Always watch your show. Thank you.
+
+- **Deacon Eythan:** Okay. Somebody type in the Las Vegas information so that we could get her connected. And what was the name of the book? Ask her what book she's making reference to, and once she answers back, then we'll get back to the questions. All right, let's go back. It says, being made prisoner, Spartacus was sold as a slave, and his strength and size caused him to be reserved as a gladiator.
+
+> He was placed in a gladiatorial school at Capua with 200 other Thracian, German and Gaulish slaves, among whom a conspiracy was formed for effecting their escape.
+
+- So it says we were placed in a gladiatorial school at Capua with 200 other Thracian, German and Gaulish slaves. Now I want to touch back on it. It says Spartacus was a Thracian by birth. Now you'd say, okay, maybe he was of Japhetic origination, because that was Thrace, or you have Gaul; those are Japhetic territories, prior to Esau conquering them. But remember, Jacob, or Israel, primarily the northern kingdom, we migrated into these different regions. I believe Thrace is in Asia Minor, up above around Syria areas. I think the Seleucids took that area.
+
+- **An officer:** It's in Europe. So Thrace, Gaul, you know, it's around there.
+
+- **Deacon Eythan:** So remember, Esau later on took those territories. They warred against us in those regions. But Israel, the northern kingdom, migrated to those different territories. That's how we were called Scythians, that's how we were called barbarians. We were called Thracians, we were called Gauls, because we inhabited those regions. It's no different from us being called Corinthians, Galatians. These are all those different regions in Asia Minor as well as Europe. So when you read these things, it's just like today: oh, you're from the Barbados islands, you're from Jamaica, you're from France. You say, I'm French, I'm American, I'm Indian. You take on the title of the country that you come from. Now let's go to Colossians 3, verse 11.
+
+</div>
+
+**[Colossians 3:11](/bible/colossians/3#v11)**  *[[1:42:00](https://www.youtube.com/watch?v=9DGpKsftT0g&t=6120s)]*
+
+> <sup>[11](/bible/colossians/3#v11)</sup> Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
+
+- So where there is neither Greek nor Jew. Remember, we went through the Greek history. We went to the time period when a lot of the Israelites living in ancient Greece were Hellenized by Alexander, as well as the four generals that rose up in power. Hellenization. You have what is called Hellenist Jews, Greek-speaking Jews. We inhabited different Greek-speaking territories. That's why you had Corinthians, that's why you have Ephesians. These are the different territories in Greece which we inhabited. That's why Paul went to us in the diaspora; he went to Greece. The Maccabees took place, us going against Grecia. So the Greeks are Greek-speaking Jews, Hellenistic Jews, Jews that were born in Greece. We went over classes on it, so we're not going to go too in depth on that. Go to our previous episodes; we have many classes on this.
+
+- Circumcision. Remember also, the Jew is pertaining to the southern kingdom, those that were raised up in the law, that stayed in Jerusalem. Those consist of Judah, Benjamin and Levi. So Jew is the derivative of those three tribes. So the circumcision was those that were raised up in the laws, that kept the covenant of circumcision, and the uncircumcision was those that were raised up in Greek customs, and primarily the northern kingdom. We call them the uncircumcised because they didn't keep the covenant that was given to Abraham, the circumcision that sealed the promise.
+
+- Barbarians. Now you have certain tribes that were called barbarians. They didn't speak the Latin, the Roman tongue, or the Greek tongue, so they were outside of the Roman Republic. They were completely separate.
+
+- Scythian. Now Scythia is in that European region next to what is called Russia today. Russia, Tartary, that whole area, Scythia. Or you have the Khazarian Empire, that whole region of Eastern Europe. So you have the Scythians. The northern kingdom migrated to Scythia: you have Manasseh as well as Ephraim, Simeon, all the northern tribes resided within those regions, because they migrated.
+
+- **An officer:** Remember your class yesterday, when cap was going over Khazaria: they said it was Jews that settled in that area. So that goes back to the Scythians and the Gauls, the different names they put upon us.
+
+- **Deacon Eythan:** Yep. And they said it was the Jews that dwelt between the Caspian Sea and the Black Sea. And it was the Jews then that went to Joseph, or Bulan. Khagan Bulan. I don't know why I said Joseph. But Khagan Joseph, his name was King Joseph, yes, King Joseph, or Khagan Bulan. So the Jews that lived in Khazaria, that region, we went up to him and we taught them, and then he opened up schools for us to teach them our customs. So why'd I bring it up? Because we lived in those areas, those territories.
+
+- **An officer:** I just sent something, the Wikipedia link on Thrace.
+
+- **Deacon Eythan:** Let me read the rest of it first. Barbarian, Scythian, bond nor free. Barbarians and Scythians, bond nor free. Now bring that up. Go to the history tab at the bottom. Open up the history tab, then go all the way down where it says barbarians. Type in barbarian to make it quicker. While we're waiting for that, let's read Acts chapter 28. All right, you found it. Bring that up.
+
+<div class="reading">
+
+Reading from the Wikipedia page on Thrace, the history section, under barbarian  *[[1:46:30](https://www.youtube.com/watch?v=9DGpKsftT0g&t=6390s)]*
+
+> Barbarian. Thracians were regarded by other peoples as warlike, ferocious and bloodthirsty, and barbarian. They were seen as barbarians by ancient Greeks and Romans. Plato in his Republic groups them with the Scythians.
+
+- You see? So in history, that's why you read about Spartacus: he was warlike, he was big, he was strong. We were a warlike people. When you read about the Scythians, we were warlike, we were always fighting. So the Greeks, the Romans, they considered us what? Barbarians, Scythians. And that's who you have Paul talking to in Acts and also in Colossians 3. Not all of them were Thracians, but the Thracians were included within those barbarians and those Scythians. Exactly. Now can you get the book and page showing the Thracians, who they were?
+
+- **An officer:** Hey, we gave Rome hell too, man. We gave them hell.
+
+- **Deacon Eythan:** The northern kingdom was a mighty tribe. They were a mighty kingdom. The northern kingdom were warriors. I'll say it again: the northern kingdom were warriors. Now today they're killing each other. We were wicked as hell, but yeah, very wicked. But we struck terror. And that's why they had to turn us against each other, to kill each other. Because if we were to find out, excuse me, that's why they used religion to come and dumb us down, or to soften us up, so that we could look at them as our saviour and not the enemy. Because when we woke up, if we were, like I said, in a warlike mind, let's say it again, if we were united, oh, if we're united they can't take us down. They couldn't take us down if we're really united in God's laws and we understood who the enemy was. They said, no, we can't have these people rise up like they did in the past. These guys brought terror to us. They have nightmares of that. That's why they spend millions of dollars to keep us on the bottom, because they understand history. We put terror and fear in them.
+
+- Now Christ has it so that we're not going to get guns or incite any type of violence, because the scriptures talk about this: this is not a physical warfare, this is a spiritual warfare. We're going to war with the Bible. But when Christ unleashes the full extent of us and unites the spirit of God within us, when he uses us as his weapon of warfare. Give me real quick Jeremiah chapter 51. This is what they're afraid of. We're going to come back to our former state, and not even back to our former state, because we didn't have the full spirit. He's going to put the full spirit on. Can you imagine that? Oh my God. Can you imagine, with the full spirit, when he uses us as the weapon of warfare? New bodies. Oh Lord, I don't want to see that. No, I want to see that. You know what I mean. Lord, please forgive me for that, take that back. I want to see that. I want to be a part of that. Lord, please use me.
+
+</div>
+
+**[Jeremiah 51:20](/bible/jeremiah/51#v20)**  *[[1:49:23](https://www.youtube.com/watch?v=9DGpKsftT0g&t=6563s)]*
+
+> <sup>[20](/bible/jeremiah/51#v20)</sup> Thou art my battle axe and weapons of war: for with thee will I break in pieces the nations, and with thee will I destroy kingdoms;
+
+- You know how terrifying that is to these Amalekites, understanding what they did to us throughout history, the pain that they inflicted upon our people, the suffering they had inflicted within us? They understand, once we wake up, that God's going to use us to incite terror within them. So that's why they're going to use everything that they have, every resource at their hand. They're going to utilize it in order to combat us and to try to stop this truth. That's the fear that they have. And I understand the fear. If I was them, shoot, I'd use every resource I have in my possession, because that is terrifying.
+
+- **An officer:** So cap, now I got some understanding why J. Edgar Hoover, the FBI director, said what he said. He's afraid of Negro unity.
+
+- **Deacon Eythan:** Yes, he should be. He should be. I'd be afraid too. I'd be terrified of that thing. When he saw them going up in the capitol with guns, he said, yo, put laws in place. Keep these guys hidden. They'll put laws in place. You can't allow these people to rise again. Oh, Fred Hampton? Kill him. He's trying to unite the tribes. Kill this guy. No, no, no, kill all of them. We can't have them unite. We cannot have all twelve tribes unite like they were in the past. These guys are terrible.
+
+- Now let's go back. Bring up the book. Now we can mention the book. This book is called Israel, this old book. Yesterday we didn't bring out all the books in our class. What we did yesterday, we didn't give you the book titles or the names, because we're still getting them, and we understand that as soon as we give you the book titles, so those who say, why don't you guys cite your sources: you can see that we have the sources. We have the title, we have the author, we have the dates. But understand that this is spiritual warfare, brothers and sisters. We can't give you everything out in the open, because we're at war, and once we put it out in the public, Esau is going to make it inaccessible for us to obtain. So that's why we're not going to give you all the books until we purchase it all. Then once we do that, we'll come back and give you the titles of the books. So understand that, brothers and sisters. Be patient with us; we'll give it in due time.
+
+- This is the small book. This book literally is this big.
+
+<div class="reading">
+
+Reading from a small old book on Israel, on the Scythians, Thracians and Gauls and the ten tribes  *[[1:52:29](https://www.youtube.com/watch?v=9DGpKsftT0g&t=6749s)]*
+
+> The Scythians, Thracians and Gauls having thus been traced to one common origin, or as being rather different names for the same people,
+
+- Different names for the same people.
+
+> there can be no reasonable doubt but that these represented the descendants of the ten tribes
+
+- Oh my gosh. The Scythians, the Thracians, the Gauls, all them represented the ten tribes. These are the same names that represented the ten tribes of Israel. Come on now, keep going.
+
+> who had escaped from the Assyrian captivity.
+
+- Can you get a map of Assyria? Who escaped the Assyrian captivity: I want to show you just the geographical location, to show you the distance. A full map of ancient Assyria and going to Europe. So if you look at it, you have Israel, then you have the Assyrian Empire. Go up. Media: we're in Media. Now what's next? Zoom in more. Go to my right. What's next to the Assyrian Empire? Keep going. The Caspian Sea, and what else? You got the Black Sea. Now let's get another map: the Black Sea, the Caspian Sea, that area. It shows you how close. It's right there. That's why they migrated. Literally, you go next door.
+
+- **An officer:** The Caucasus is between the Black and the Caspian. And that's why those Israelites were there.
+
+- **Deacon Eythan:** Get a map of Scythia. So we were an omnipresent people, all over the place. You see that yellow right there? That's good. The Scythians. You got the Black Sea and the Caspian Sea. Where is Assyria too? Look, zoom in. Go down. So we trace ourselves from the Assyrian Empire. So the northern kingdom, Nineveh, we decided to migrate upwards. That's why you have a lot of Israelites who were Spartans. We migrated to Gaul. As you go up, we migrated to these different territories. We inhabited the Caucasus region between the Black Sea and the Caspian Sea. That's why you had Israelites already there. So when Khagan Bulan called us up, we taught them. There's Thrace in the corner over here. Go up. So we took that route. Some of them dropped in Scythia. You went to Thrace. That's Ukraine today, and that was the Khazarian Empire, the capital. Thrace, the Volga River, the Volga region. The Sarmatians. So we inhabited those different regions. Now you can go back.
+
+- **An officer:** And this was during the Assyrian time. This is before the Greeks even came through.
+
+- **Deacon Eythan:** Yes, exactly. Now go back. It said the Scythians, Thracians and Gauls having thus been traced to one common origin, or as being rather different names for the same people, there can be no reasonable doubt but that these represented the descendants of the ten tribes who had escaped from the Assyrian captivity.
+
+> It has also been seen that some of these migrated into Asia Minor and thus joined the Greco-Israelites in their colonies there.
+
+- The Greco-Israelites: meaning it's neither Greek nor Jew. Give me Acts chapter 28 now, verse 1. Just give me what I want.
+
+</div>
+
+**[Acts 28:1-4](/bible/acts/28#v1)**  *[[1:58:00](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7080s)]*
+
+> <sup>[1](/bible/acts/28#v1)</sup> And when they were escaped, then they knew that the island was called Melita.
+>
+> <sup>[2](/bible/acts/28#v2)</sup> And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
+
+- Can we get a map of Melita? Is it Malta? Yeah, get a map of Malta.
+
+> <sup>[3](/bible/acts/28#v3)</sup> And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.
+>
+> <sup>[4](/bible/acts/28#v4)</sup> And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
+
+- No doubt this man is a murderer. They understood the judgment of God. They understood it because why? These were Israelites. These were Israelites that knew some form of the law. Go on. That's why they said there's no difference between Greek nor Jew, Scythians and barbarians: because these are all Israelites. They understood a portion of the law, a form of the law. Now, you got that, Melita, Malta? Bring it up to show you where. Enlarge it, show the people. A very small island. There's Melita, Malta. So that's where Paul's ship was shipwrecked. So that's when he met the barbarous people, or the barbarians, which were Israelites, that were on that island.
+
+- All right, now let's go to page 49. Let's go back to *Slavery in Rome*, concerning Spartacus. Did we finish page 48? No we didn't, sir. Let's go back to 48 please.
+
+<div class="reading">
+
+Reading from *Slavery in Rome*, pages 48 and 49, continuing on Spartacus  *[[2:00:45](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7245s)]*
+
+> Their plot was discovered, but a small body under Spartacus broke out, and having procured arms and gained some advantages over the Roman forces sent against them, they were soon joined by the slaves and peasantry of the neighborhood, and their numbers amounted to ten thousand men. By the courage and skill of Spartacus several battles were gained, but his authority was insufficient to restrain the ferocity and the sensuousness of his followers, and the cities of the south of Italy were pillaged with the most revolting atrocities.
+
+- It says the cities of the south of Italy were pillaged by what? With the most revolting atrocities. The same thing. We're the same people. The problem is, history has it that we can't really see things through our own eyes. We see life through white eyes. So when you read these books, you're not reading with the images of the fathers within your mind. When you read Spartacus, you see a white person with blonde hair, little slim, a straight nose. You don't see a Negro. And that's me too: I try to perceive our fathers fighting, and it's hard, because of all these movies. They understand that imagery connects to your soul, to your mind. Imagery plays within your thoughts, because when you see something, or when you think upon something, you place an image with it. So that's why Esau has to advertise it in their movies, advertise it on the media, on their billboards, in their books, on the TV stations and everywhere, to put white images. So now, even when you come into the truth, you understand the Negro history behind us, the Israelite history behind us, but you can't directly associate the images with the words that you're reading. You couldn't put a black image on it, you can't put a northern kingdom image on it. You still have a white mind within you. And it's hard. I'm trying to picture Spartacus in my head like that. Just like Jesus Christ. That's when you have brothers say, that image doesn't matter, color doesn't matter, Jesus Christ, it doesn't matter what he looks like. Why are the Israelites so bent on the image? Because image plays a big role in your upbringing. Image dictates, like I said, how you perceive one another. It dictates your outlook on life. It dictates your perception of life. It gives you the confidence that's needed to instill that love and care within your children, so they have that love and care towards one another, so we can love our neighbour as ourselves. Because we see ourselves as a great people: a great people of military exploits, great people that ruled great thrones and kingdoms, rulership and power, great people that prophesied, great men of the book that wrote these records. When you see that, you see the images of your fathers. They don't want you to do that. They don't want you to see yourself. Get me that real quick in Psalm chapter 74, verse 11. Imagery is everything, brothers and sisters. If it wasn't everything, why would they replace your images with their images?
+
+</div>
+
+**[Psalms 74:9](/bible/psalms/74#v9)**  *[[2:03:57](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7437s)]*
+
+> <sup>[9](/bible/psalms/74#v9)</sup> We see not our signs: there is no more any prophet: neither is there among us any that knoweth how long.
+
+- Read verse 4.
+
+**[Psalms 74:4](/bible/psalms/74#v4)**  *[[2:04:20](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7460s)]*
+
+> <sup>[4](/bible/psalms/74#v4)</sup> Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.
+
+- So our enemies roar in the congregations; they set up their ensigns for signs. Give me First Maccabees real quick, chapter 3, verse 48.
+
+**[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[[2:04:40](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7480s)]*
+
+> <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
+
+- So they roar in our congregations. They took our congregations, they took over our temples, they took over our castles, and they went in it and they placed their own images within it. It's called iconoclasm. Iconoclasm is when you come and break the images, you whitewash the icons that are set up or painted on a wall, mosaics or the wall reliefs. They take our images and they replace it. They paint over it and they put their images in our place.
+
+- And laid open the book of the law: they laid open the Bible, which is the book of the law. Wherein the heathen: at this time, the Greeks. Had sought to paint the likeness of their images. It says they sought; they made the attempt to paint the likeness, meaning they tried to paint themselves in our image. They tried to culture-appropriate. They tried to do replacement theory, or replacement ideology. They tried to take it upon themselves to paint their images in place of us. They tried to take our forefathers. Even during the time of the Greeks you have what's called iconoclasm, breaking out the images in the temples, so that they could establish their white supremacy on the earth and Hellenize everything, everybody, so that we wouldn't revolt. We wouldn't see ourselves as the gods of the earth that God created us to be. They don't want us to see ourselves as a great people such as Abraham, Isaac and Jacob. That's why imagery is everything. Perception is everything, brothers and sisters. You play it within your mind every day. You see it in your thoughts. It's all over within us, and it makes us who we are. You associate a culture and nation of people with colour, and that's what it is. Now let's go back. Where was I?
+
+<div class="reading">
+
+Reading from *Slavery in Rome*, page 49, continuing on Spartacus  *[[2:06:21](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7581s)]*
+
+> In a few months Spartacus found himself at the head of sixty thousand men, and the consuls were now sent
+
+- Same thing with Eunus. Same thing with Nat Turner.
+
+> with two legions against the revolted slaves. Mutual jealousies divided the leaders of the latter.
+
+- Mutual jealousies divided the leaders. You have Crispus and you have Spartacus. Crispus was jealous of Spartacus. That's why every movement. Get me that real quick in Zechariah 4:6, not by might.
+
+- Mutual jealousies divided the leaders of what? Of the latter. Spartacus and Crispus were divided, because Crispus was jealous over Spartacus's leadership. And that's why all these movements fell. In the civil rights movement, with Malcolm X: Malcolm X and Elijah Muhammad. Jealousy over Malcolm X, because Malcolm X was getting the exposure, because he was eloquent, he was a great speaker. Rather than say, this young man is up and coming, let's keep him in control, but we can see there's a spirit in this young man. Like they did with Daniel; they said, man, this brother right here, Daniel, we perceive that you have the spirit of God on you. They perceived that he was like one of the elders. They acknowledged the spirit in Daniel. And Malcolm X always acknowledged Elijah. But that jealousy kicked in. He should have said, you know, it's not about me, it's about the people. Look at the spirit in this young man; we're going to keep him in control, because we understand that knowledge puffeth up. So he could have nurtured that. Even though Islam is the wrong religion, he could have nurtured that and kept it under control: listen, Malcolm, we don't want you to get above yourself, so we're going to keep you; we know you're a good speaker, we're going to use you to push this truth. Just like they used Paul. Paul will be the same example. Paul was an eloquent man, excellent speech, but he was under the disciples. He was nourished up under Christ. So Paul being nourished up under Christ, the laws kept him grounded. The laws kept him from the spirit of emulation, envy, and not seeing those that were before him as above him. Paul acknowledged Peter as the head, Paul acknowledged James as the head, even though God gave him more wisdom. Paul understood that. So Crispus had the spirit of jealousy and envy, because that movement was not of God.
+
+</div>
+
+**[Zechariah 4:6](/bible/zechariah/4#v6)**  *[[2:09:29](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7769s)]*
+
+> <sup>[6](/bible/zechariah/4#v6)</sup> Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.
+
+- By my what? By my spirit. Not by strength. Not by might, nor by power, but by my spirit, saith the Lord. It's not by your might, it's not by your strength, nor power. Because Spartacus, the Thracians, the Gauls, all those that were gladiators, they were strong, they were powerful. And the reason why the Lord had to say that: because Zerubbabel had strength, he had power. He could easily say, yo, let's gather all the warriors up. Let's go to those warriors in Lacedemonia, let's go to those warriors in Sparta, let's go to those warriors in Thrace, let's go to those warriors in the northern kingdom in Asia Minor. Let's gather all the troops. Let's go to the Levitical warriors, let's go to the Judahite warriors. He could say, yo, let's get it together. I have military training, I have exposure, I understand war, tactical war. Let's revolt against the Persians. So you think Zerubbabel couldn't do that? You have many of our fathers that did it. Hannibal did it. Spartacus did it. So many of our fathers did it, but guess what: they all fell. So God had to come with the spirit of God, because Zerubbabel was a chosen vessel of God. God had to remind Zerubbabel, because it's not a physical warfare. He reminded the disciples: my weapons of warfare are not carnal, but mighty to God, and the pulling down of every stronghold. So that's why God had to remind Zerubbabel: not by power, nor by strength, but by my spirit is the only way that you're going to be accomplished in the building.
+
+- Spartacus didn't understand that. Crispus didn't understand that. It was all about his own self-gratification. If Crispus had understood that there's a spirit working in Spartacus to revolt and to gather the people, that movement would have progressed. But that movement fell to the ground, and that's why only history remembers Spartacus, but not the history of God. I'll say it again: only history remembers Spartacus, but not the history of God. Only those that took hold of the records, or took hold of the spirit of God and kept God's commandments, were remembered in his history. That's why the Maccabees will be remembered in his history. The world praises Spartacus, but they don't praise the Maccabees. I'll say it again: they praise Hannibal, but they don't praise Mattathias. Because that's world history. This is God's history. It's a spirit that works, that operates, and everybody was successful that took hold of God's laws. Now get me First Peter chapter 2, verse 1. And that's why this is not a physical fight. That's why the Zealots got crushed. That's why you have some of the black empowerment movements that got guns: they got crushed. Not by power nor by might, but by my spirit.
+
+**[1 Peter 2:1](/bible/1-peter/2#v1)**  *[[2:12:41](https://www.youtube.com/watch?v=9DGpKsftT0g&t=7961s)]*
+
+> <sup>[1](/bible/1-peter/2#v1)</sup> Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
+
+- And what? And envies. Crispus envied Spartacus. And evil speakings. He said lay that aside. There could be no movement when there's division amongst each other. That's what it says: exhort one another while it is called today. You got to acknowledge the gifts and the spirit within each and every one, just like we acknowledged back then. Envy is to be jealous of another person's abilities that were given, the characteristics that they have above yours. Now that's why, give me Joshua chapter 24.
+
+- When you have the spirit of God on you, you have the spirit to be able to discern where the spirit resides, and you don't get that jealous spirit. You acknowledge it. You say, all praises to the Most High, let me see where I can assist that brother. Let me see the characteristics and spirit that I possess, the gifts that were instilled within me. Let me see how I could use that as a piece of the puzzle within a greater picture. Let me see where I could be the piece of the puzzle where I could fit in to make this mission accomplished. Let me see what body part I can add to the main body, where I could make it so that we're moving forward.
+
+- **An officer:** It's hard for a Negro, cap, to stay in his lane.
+
+- **Deacon Eythan:** Exactly. Joshua chapter 1, I believe. Verse 17, I believe. Verse 18. Start at verse 15.
+
+**[Joshua 1:15-18](/bible/joshua/1#v15)**  *[[2:14:33](https://www.youtube.com/watch?v=9DGpKsftT0g&t=8073s)]*
+
+> <sup>[15](/bible/joshua/1#v15)</sup> Until the Lord have given your brethren rest, as he hath given you, and they also have possessed the land which the Lord your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the Lord’s servant gave you on this side Jordan toward the sunrising.
+>
+> <sup>[16](/bible/joshua/1#v16)</sup> And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.
+
+- And what? So you had many warriors among Joshua. We were taking cities, we were taking towns, countries. So you had all the warriors, all the brothers and sisters, collectively came together, acknowledging the spirit that God placed within Joshua. And what did they say? All that thou commandest us, all that you command us, Joshua, we will do. Crispus did not acknowledge that. You also had Korah and Dathan. They did not acknowledge that; that's why God killed them off. They got envious, they got jealous of the spirit that was working with Moses, rather than acknowledge that this is the man of God that he's going to use to get us to the promised land. And that spirit passed on to Joshua. These were the leaders that God set up. And guess what, it wasn't that the other leaders were insignificant. God put a spirit not only on Moses, but he divided Moses' spirit to what? Seventy. They had the spirit. It's not just Christ, it's not just the twelve; there's also 144,000 that the spirit was divided amongst. And not only that, you got the brothers too, the one-third. So the spirit is divided. Everybody plays their role.
+
+- **An officer:** And cap, also the same thing happened in the Maccabees, with Joseph and Azarias. Because the Lord set up Judas Maccabeus; he chose them to be the leaders. But remember, them brothers, they were envious and they wanted to get a name for themselves, and they got killed. They got two thousand men killed.
+
+- **Deacon Eythan:** Exactly. And that's how many great movements fell.
+
+> <sup>[17](/bible/joshua/1#v17)</sup> According as we hearkened unto Moses in all things, so will we hearken unto thee: only the Lord thy God be with thee, as he was with Moses.
+>
+> <sup>[18](/bible/joshua/1#v18)</sup> Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage.
+
+- You see the mind state of our people. Our people, when they saw the jealousy, the envy of Crispus: because Crispus took a portion of the people and they divided up, and he got crucified later on. I think it was thousands of people from the revolt. Thousands, and Rome made an example of them, and we're going to get to that, like I said, not today; next time. They crucified thousands of those people, thousands of them on crosses, prior to Christ. So the people should have said, yo, kill this …. This is a wicked, demonic spirit that's going to destroy the movement. Kill him before he destroys what we have going. But the issue was they did not have the spirit of God within them. And that's why Spartacus will be remembered by history, but he will not be remembered by God's history.
+
+## In Closing
+
+*[[2:17:33](https://www.youtube.com/watch?v=9DGpKsftT0g&t=8253s)]* And we're going to end it at that today, brothers and sisters. So next week, as life lasts, we're going to continue where we left off from today, and we can go on into Roman history. All right, announcements. Praises, Israel. Let's give leadership a hand for that class. All praises to the Most High. Great, great, great class.
+
+*[[2:19:20](https://www.youtube.com/watch?v=9DGpKsftT0g&t=8360s)]* We also like to thank the brothers and sisters, the sisters that prepared the meal today. Thank you, like I said, for the energy that you guys give us and feed us. Remember, give a glass of water to one of us, like it says, your rewards shall be great in the kingdom. So sisters, don't think that you providing the food for us, the tea, the water for us, that that's insignificant. No, the Lord said you're gonna get a great reward in the kingdom from that, sister, because how can we give the energy that we need in order to give these classes? That comes from what you feed us with. The women have a great role within the nation, because you nourish us up. So we thank you, sisters, for providing the food for us, the tea, the water. We thank the IT team for doing an excellent job of organizing the books, coming earlier to set everything up. It's a lot of work: the brothers on the camera work, the brothers in the back, all the things that you do. It's a collective effort, so don't ever think that what you do is insignificant. Everything that we do goes for the greater good of the gospel. We're all one piece, connected, every one of us. All right, so brothers and sisters, until next week, tune in for another edition of The Echoes of Rome, from Rome to America. Shalom. Most High and Christ bless. United in Christ.
+
+## Announcements & References
+
+*[[2:18:29](https://www.youtube.com/watch?v=9DGpKsftT0g&t=8309s)]* Everyone, remember to subscribe to Our Hidden History Radio on YouTube, and make sure you hit the notifications button so you know when we go live. Follow us also at IUIC Philadelphia and IUIC Philadelphia in the Classroom, to see the captains and officers of IUIC Philly. Donate to Our Hidden History on PayPal to iuic.philadelphia@israelunite.org, and in the comment section put OHH. Also make your donations to the Booster Club at israelunite.org. And last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC. And tune in to the next class, with Deacon Malachi, on Raven and Wolves.
+
+*[[2:20:47](https://www.youtube.com/watch?v=9DGpKsftT0g&t=8447s)]* And after the class, a message to the Jewish community: "Today I'd like to present a sit-down discussion with the Jewish community. There's a lot of controversy. There's much hatred that you have towards us. We're the prophets of the one true God. So what we'd like to do is sit down with several of your leading Jewish personalities. The rest of you, just stand by, sit back, move out the way. We want to sit down with the one who called black people monkeys; he's number one. Number two, we'd like to sit down with Jonathan Greenblatt of the Anti-Defamation League. You had so much to say on The Breakfast Club, alluding that we have shot and murdered people in New Jersey. We want to sit down and discuss with you, to produce your cause." And the clip: "Look, they're entitled to their beliefs, until that justifies shooting Jewish people. This is December, three years ago, December 2019: two black Hebrew Israelites went into a kosher supermarket in Jersey City and killed three people because they said they weren't real Jews." "Prove those lies you have said. We want to sit down with the SPLC, Margaret Huang. You also pushed the lie that we have murdered people in New Jersey, so forth and so on. We want to sit down with AIPAC, Howard Kohr and Lillian Pinkus. Also that latest group, the Canary Mission: we want to sit down with Adam Milstein and Howard D. Sterling. Which is interesting, because it makes it seem as though we're a part of it, but we're not. We'd like to sit down with all of you, all for one, however you want to do it, but we will sit down with you. So don't say we're running from you, we're trying to evade you. No, we're not. Reach us: call us at 1-855-484-4842, extension 7023. The scripture says, if at all possible, be at peace with all men, and that's what we endeavour to do. So, Jewish community, have a sit-down with us. Let's have an open discussion publicly. All right. Shalom."
+
+Text or call the show at 267-702-6121.
+
+Sources read from in this episode:
+
+- A book on the Negro races, page three: the Negro races in relations of slavery on the monuments of Egypt, and slaves at Thebes, Memphis, Babylon, Nineveh and Rome (the book is not named on air).
+- *Image of the Black in Western Art*, the volume from the pharaohs to Rome: plates 215, 284, 290 to 296 and 303 to 305, with the text under them, and the image of the Levite before and after the gymnasium.
+- A page sent on the group by an officer, on the features of the blacks recorded by their ancient enemies (the book is not named on air).
+- *Judea Trembles Under Rome* by Rudolph R. Windsor: the image of Spartacus.
+- *Slavery in Rome*, pages 48 and 49: Spartacus, the school at Capua, the revolt and the mutual jealousies of the leaders.
+- The Wikipedia page on Thrace, the history section, on the Thracians as barbarians.
+- A small old book on Israel: the Scythians, Thracians and Gauls as the descendants of the ten tribes who escaped the Assyrian captivity.
+- Maps of the Assyrian Empire, the Black and Caspian Seas, Scythia, and Melita (Malta).
+- Named on air but not read from: the books of J. A. Rogers, *Sex and Race*.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=9DGpKsftT0g)
