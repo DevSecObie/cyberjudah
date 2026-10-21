@@ -22,6 +22,7 @@ not needed.
 | `blog/<year>/*.md` | Sabbath class notes |
 | `captains/<year>/*.md` | 15 Minutes w/ The Captains |
 | `data/bible/*.json` | the KJV text with the Apocrypha |
+| `data/people/people.json`, `data/places/places.json` | the people and places of the Bible, from STEPBible's TIPNR (`scripts/people/tipnr.py`, `scripts/places/tipnr.py`) |
 | `data/handbook.json` | the handbook of Bible law |
 | `data/precepts.json` | the precept index |
 | `data/cases.json` | the case studies |
@@ -52,6 +53,8 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/laws/<SECTION>.json` | one section with its laws; every reference is resolved (`slug`, `url`, `label`, the `study` note that teaches the chapter, the verse `text` up to 12 verses, `more`) |
 | `api/precepts/index.json`, `api/precepts/<slug>.json` | the precept index and each precept's references, resolved the same way |
 | `api/cases/index.json`, `api/cases/<slug>.json` | the case studies (index rows carry `themes` and `topics`); each case carries its laws, precepts, related cases, resolved references (`refsResolved`), where it was taught and encyclopedia `see` links |
+| `api/places/index.json` | every place in the Bible (STEPBible TIPNR, CC BY 4.0): `{id, name, names, region, verses (count), first}` |
+| `api/places/<id>.json` | one place: `{id, name, names, region, coords: [lat, lng] or null, strongs, verses, source}`; the chapter files' `places: {verse: [id]}` say which places each verse names |
 | `api/concordance/index.json` | per book: which chapters are cited (`cited`) and how many citations |
 | `api/concordance/<book-slug>.json` | a whole book: `chapterRows: [{chapter, url, cited_by}]`, one row per citing document with its verse spans merged into `verses: []` |
 | `api/history/index.json` | every episode: `{slug, title, url, episode, date, duration, views, videoId, thumb, words, teacher, topics, noted}` |
