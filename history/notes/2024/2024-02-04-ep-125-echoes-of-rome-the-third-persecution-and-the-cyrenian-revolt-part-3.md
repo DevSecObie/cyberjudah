@@ -1,0 +1,1113 @@
+---
+title: "Echoes of Rome: the Third Persecution and the Cyrenian Revolt Part 3"
+slug: "2024/2024-02-04-ep-125-echoes-of-rome-the-third-persecution-and-the-cyrenian-revolt-part-3"
+date: "2024-02-04"
+episode: 125
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2024-02-04 · with the officers of IUIC Philadelphia"
+tags: ["Our Hidden History", "captivity", "war"]
+---
+
+<p class="taught">Our Hidden History · 2024-02-04 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [Jer 2](/bible/jeremiah/2) · [Jer 44](/bible/jeremiah/44) · [Isa 19](/bible/isaiah/19) · [Isa 11](/bible/isaiah/11) · [Exod 15](/bible/exodus/15) · [Rom 9](/bible/romans/9) · [Ps 144](/bible/psalms/144) · [1 Chr 12](/bible/1-chronicles/12) · [Ezek 3](/bible/ezekiel/3) · [Isa 61](/bible/isaiah/61) · [Zech 9](/bible/zechariah/9) · [Mic 2](/bible/micah/2) · [Ps 94](/bible/psalms/94) · [2 Sam 23](/bible/2-samuel/23) · [1 Esdras 3](/bible/1-esdras/3) · [1 Esdras 4](/bible/1-esdras/4) · <i>and 3 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="iRSZ1SPOWKE"></div>
+
+## Introduction
+
+*[[14:43](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=883s)]* Hey, shalom, shalom. Welcome back to Our Hidden History. You're now tuned in to Our Hidden History radio show. All praises.
+
+*[[14:57](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=897s)]* First I'd like to give a shout out to the Bishop's class last night. All praises to the Most High, sir. The lamenting of our people. We pretty much going to touch on the lamenting of our people, and land back off of Bishop's class: how our people revolted during oppression throughout history. We still dealing with the revolt. It was called the Second Zealot War. That's what we're dealing with; we're still on the Second Zealot War, that happened during the time of Emperor Hadrian. I'm sorry, the time of Emperor Trajan, around 115 to 117 AD.
+
+*[[15:43](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=943s)]* So what you going to see throughout this history, this particular revolt, and throughout all history, is that we the same people doing the same thing. Remember the scripture say, is Israel a homeborn slave? Give me that scripture real quick. There's a book that Captain Joel had put up; it pretty much go into us being a homeborn slave. Matter of fact, I have something else too. Read that.
+
+## Readings and Scriptures
+
+**[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[16:23](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=983s)]*
+
+> <sup>[14](/bible/jeremiah/2#v14)</sup> Is Israel a servant? is he a homeborn slave? why is he spoiled?
+
+- You see that? Is Israel a servant? Is he a homeborn slave? Why is Jeremiah saying that? Because we always in slavery. We always in captivity: Assyrian, Babylonian, Persian and Medes, Greece, Rome, today America. We stayed in slavery.
+
+- So is the Israelites a homeborn slave? Yes, we are. We've been in slavery from time immemorial. We only had the kingdom for how long? 80 years. We had the kingdom 80 years.
+
+<div class="reading">
+
+Reading from *The Southern Literary Messenger*, devoted to every department of literature and the fine arts, from 1800, on the Negro in the ancient world · read by an officer  *[[17:16](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1036s)]*
+
+> Passing from the monumental to the historic period, we obtain precisely the same result. The presence of the Negro in the ancient world is a fact which meets us everywhere.
+
+- So the presence of the Negro in the ancient world is a fact. Yes, it is.
+
+> The Greek and Roman writers make frequent mention of them. We find them in Europe, Asia and Africa: at Thebes, Memphis, Carthage, Tyre, Antioch, Athens and Rome,
+
+- And we going to prove that. I'm going to land back off this page; we're going to prove that. And where? And Rome.
+
+> not in large numbers,
+
+- Go to the highlights. I just want the highlights.
+
+> in relations of inferiority to those with whom they are found, and not only of inferiority, but even more distinctly of slavery.
+
+- So even more distinctly of slavery, right.
+
+> Upon this point the proofs are full and clear, and we are at liberty to speak with confidence. In respect to the monumental period, the proofs are all strong in the same direction.
+
+- So the proofs that we were in the ancient world as slaves is on the monuments. Those are the proofs. When you look at ancient Egypt, you see us on those walls of the different pharaohs, and those tombs. Those are the proofs.
+
+> When the Negro races first made their appearance on the monuments of Egypt, it is in the relations of slavery, sometimes indeed of captivity, but more commonly of established slavery. This, until we come down to our own times, was therefore the universal status.
+
+- Read a little faster; you like chopping it up. So it was the universal status for us: slavery, captivity, for breaking God's laws.
+
+> Slaves then, when Karnak and Luxor were built,
+
+- So slaves then when Karnak and Luxor were built. These were cities in ancient Egypt that we built. That's what they saying.
+
+> slaves in Europe, Asia, Africa and America,
+
+- And where? And America. Europe, Asia, Africa and America.
+
+> slaves in Thebes and Memphis, at Babylon
+
+- So they know we were slaves in Babylon.
+
+> and Nineveh,
+
+- So who was Jonah talking to? Israelites. Israelites in Nineveh.
+
+> at Rome and Athens,
+
+- They know we were slaves in Rome. We going to go back and prove that too. And Athens, in Greece.
+
+> at Carthage and Constantinople, at Havana and Richmond,
+
+- At Havana, which is in Cuba, and Richmond.
+
+> slaves at all times and in all places, under all forms of government,
+
+- All forms of government, under each captivity.
+
+> under every modification of society, under every conceivable combination of circumstances, slavery seems to have been emphatically the history of this race. And who, thrusting himself into the divine councils, will undertake to say that slavery is not their doom?
+
+- So slavery has been emphatically the history of our race, man. Why? Because we was always slaves. Understand that.
+
+</div>
+
+*[[21:14](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1274s)]* So from there, give me the book *War of the Jews*.
+
+*[[21:57](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1317s)]* *Wars of the Jews*, Hippocrene Jewish History Series. *Wars of the Jews: A Military History from Biblical to Modern Times*. So the book is written about 1940. Where's the pages he just scanned? Right there. So remember, we still dealing with what was called the Kitos Wars, which was the Second Zealot War, from 115 to 117. We still dealing with that.
+
+<div class="reading">
+
+Reading from *Wars of the Jews: A Military History from Biblical to Modern Times*, Hippocrene Jewish History Series, on Trajan's war, the Second Zealot Revolt · read by an officer  *[[22:40](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1360s)]*
+
+> The superpowers of the East and West, Parthia and Rome, were soon to clash in Trajan's war, or the Second Zealot Revolt. This major conflict came 300 years before the march of the barbarians that plunged Western civilization into that chaos and despair known as the Dark Ages. Yet it was this world war
+
+- So they call this a world war. At this time this was known as a world war. Remember, it says the superpowers of the East and the West: Parthia, which is Iran, or ancient Persia, and Rome were at war with each other. They were two superpowers at this time period, and it was called a world war.
+
+> that almost brought the Roman Empire to its knees, and threatened to restore the supremacy of those Afro-Asian and Oriental peoples smugly referred to as the upper barbarians by the Greeks and Romans.
+
+- So they letting you know, it says the Afro-Asian and Oriental peoples. That was us. Anytime they put the word Afro before that, they talking about us. But we was dwelling in those lands: Afro-Asian, and Oriental peoples.
+
+- So they called us barbarians. The Scythians, those of us that was over there. Remember Captain Joel and Captain Galayah, they brought out we was over there with Ammon, and Moab. Moab and Ammon. So we was dwelling in that land; that's why it's saying Afro-Asians. We was over there.
+
+- That's who the Greeks and Romans refer to us as: barbarians. You know why? Because we didn't speak their language. We were still doing our own thing, still under our own government. So that's why they refer to us as barbarians, meaning they say we wasn't civilized, quote unquote.
+
+> Truly a world war in scope, the Second Zealot Revolt encompassed five fronts:
+
+- So listen: the Second Zealot Revolt encompassed, surrounded, five fronts. What's the five fronts?
+
+> Egypt, Cyprus, Libya, Judea, and the Iran-Iraq region,
+
+- Egypt was one. Cyprus, Libya, Judea, and the Iran-Iraq region, meaning we was in those regions. So these are the five regions that rose up in rebellion, of our people, against the Greeks, against Esau, Greeks and Romans.
+
+> from Kurdistan to the Persian Gulf. Opposing the Romans and their Hellenist cohorts in colonization and occupation were the formerly great peoples of the upper barbarians.
+
+- So they called us upper barbarians.
+
+> The Parthians, or Persians, were fighting to defend their own shrinking empire; the Assyrian and Aramaic-speaking peoples were fighting for a measure of autonomy;
+
+- So everybody was fighting at this time.
+
+> the enslaved blacks of Egypt
+
+- The what? The enslaved blacks of Egypt. Those Jews in there was the enslaved blacks of Egypt during this time.
+
+> saw the opportunity to regain freedom in their ancestral land of Kemet; and the Jews, the elite of the uprising, were attempting to regain the glory of the Solomonid and Hasmonean times.
+
+- But notice they said the enslaved blacks of Egypt. Remember, we were in Egypt. Remember, we been fleeing to Egypt since Jeremiah. Give me Jeremiah 44:1.
+
+</div>
+
+**[Jeremiah 44:1-2](/bible/jeremiah/44#v1)**  *[[26:28](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1588s)]*
+
+> <sup>[1](/bible/jeremiah/44#v1)</sup> The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,
+
+- The land of where? The land of Egypt.
+
+> <sup>[2](/bible/jeremiah/44#v2)</sup> Thus saith the Lord of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,
+
+- Right. Why? Because we was always in Egypt. Give me Isaiah 19, I think it's 25.
+
+**[Isaiah 19:25](/bible/isaiah/19#v25)**  *[[27:21](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1641s)]*
+
+> <sup>[25](/bible/isaiah/19#v25)</sup> Whom the Lord of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
+
+- Why is the Lord saying, Blessed be Egypt my people? And Assyria the work of my hands, and Israel mine inheritance. Why? Because we were in those lands. We were scattered in those lands, hence the diaspora. Isaiah 11:11. Give me Isaiah 11:11.
+
+- **Officer:** That point right there, what you was talking about. Read that again real quick, Isaiah 19:25, sir. Blessed be Egypt my people. So today even our people can't understand. All races can be saved, they say; he's putting a correlation there between Israel and the Egyptians. Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance. He talking about those outcasts that live amongst the Egyptians.
+
+- **Deacon Eythan:** Right, right. Give me Isaiah 11:11.
+
+**[Isaiah 11:11](/bible/isaiah/11#v11)**  *[[28:30](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1710s)]*
+
+> <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
+
+- To recover the remnant of his people. So shout out to those that's traveling and recovering the remnant of the Lord's people. I want to give a special shout out.
+
+- From where? From Assyria, and from Egypt, and from Pathros. I think Pathros, that's Lower Egypt. And from Elam, because why? We have the cities. We have the Israelites over in Elam, dwelling amongst the Elamites.
+
+- Shinar is Babylon. It's an ancient name for Babylon. So our people is still in Babylon, over in that area around Iraq. Hamath is Syria. And from the islands of the sea. So guess what? We're scattered everywhere. Everywhere. So hence, go back to the book now.
+
+- **Officer:** Hey, Officer Jazz, real quick.
+
+- **Officer:** Yep.
+
+- **Officer:** Ain't one of the islands of the sea Cyprus?
+
+- **Deacon Eythan:** Right, yes. Oh, great: Cyprus. You had Malta, you had a couple of islands. Give me some islands.
+
+- **Officer:** Yeah, you have Malta, you have Cyprus, Santo. Right, Santo, we over there. All the islands in, like, around Greece and all of that.
+
+- **Deacon Eythan:** Yes, sir.
+
+- **Officer:** I'm just going back to the point that you have Cyprus out in there.
+
+*[[30:20](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1820s)]* You want to go back to the other page and read that whole thing, or just start with independence? The enslaved blacks of Egypt.
+
+<div class="reading">
+
+Reading from *Wars of the Jews*, continued · read by an officer  *[[30:28](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1828s)]*
+
+> The enslaved blacks of Egypt saw the opportunity to regain freedom in their ancestral land of Kemet; and the Jews, the elite of the uprising, were attempting to regain the glory of the Solomonid and Hasmonean times.
+
+- That's just another word for Kemet.
+
+> The independence and fighting spirit of diaspora Jews, who carefully followed events in Mesopotamia, widened the circle of insurrection against the Roman Empire.
+
+- The fighting spirit and the independence of the diaspora Jews. Notice something: we wouldn't have rose up and rebel if we didn't know what the hell was going on on the other side. You understand? So we was watching, we was studying the times. We understood. We had our own intelligence and so forth to let us know what was happening. That's heavy.
+
+- So we understood that Trajan, the emperor, was at war on the other side. So we knew this was it. This was the time to rebel. This was the time to revolt, to cause the insurrection. Why? Look, while Rome is being occupied over there, look, let's rise. This is the time to rise up.
+
+> From 114 to 117 CE, before this global conflagration would end, a million people on each side would perish.
+
+- Damn.
+
+> The waters of the eastern Mediterranean, the Nile, the Tigris and the Euphrates would redden with blood.
+
+- So blood was flowing everywhere when we rebelled.
+
+> The flame of Jewish resistance to Roman tyranny did not die out with the crushing of the first Zealot rebellion of 66 to 72 CE. It merely simmered, awaiting the growth of a new generation.
+
+- So it was awaiting the growth of a new generation. That's why I said, look, the young men is the ones to rise up. You instill the spirit in the young men. Same thing happened with the Black Panthers. They were all young men; they was like teenagers. You understand why? Because look, you're fresh, looking for something to aspire to at those ages.
+
+> These young men, nurtured by tales of the heroism of John of Gischala and Simon bar Giora,
+
+- So that was stirring up their spirit when they heard the stories, the history of our forefathers at that time. Even though they was evil as hell, they was stirred up to rebel when they heard this heroism that our forefathers was doing during the revolt back in 66, to the destruction of Jerusalem, 70 AD: how we fighting in those wars and how we almost took Rome out at that time, before they came and destroyed us.
+
+> awaited their moment for revenge and holy war.
+
+- They did what? Awaited their moment for revenge and holy war. So hey, give me the other page. Hold that page. I know I got you all over the place. There's a page in *History of the Jews* where it says they were training with their weapons in school.
+
+</div>
+
+*[[33:40](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2020s)]* Damn. So they was training with weapons in school. That ain't Christianity. Nah. They would say love your enemies. Nah, we was training up martial arts in school. Blow it up. You can read down at the bottom where it says, in half a century.
+
+<div class="reading">
+
+Reading from *History of the Jews*, on the Jewish youth half a century after the fall of the Jewish state · read by an officer  *[[34:20](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2060s)]*
+
+> Half a century after the fall of the Jewish state, a new race had arisen, who inherited the zealous spirit of their fathers, and who bore in their hearts a vivid remembrance of their former independence.
+>
+> The hope of the Tannaite teacher, soon the temple will be rebuilt,
+
+- So this was our thought process: to reclaim that independence we once had, before 70 AD happened. So we still mad as hell about 70 AD. We ain't forget about that. Remember, they done made the Arch of Titus to mock us and all of that. So we ain't forget about these things.
+
+- So our thought process was, look, once we gain independence, once we cause a revolt, soon we could be able to gain our independence and rebuild the temple. Hey, if they had listened to Christ, they'd understand the temple would never be rebuilt again. But like I said, we was evil.
+
+> had kept alive a love of freedom in the Jewish youth, who had not lost the habit of using weapons in the schools.
+
+- So we was getting it in, training in schools with our weapons. We had probably a dojo, I don't know, you understand, whatever. But we was training up with weapons in the schools. Just like when you look at the gladiatorial schools: when you see the gladiators training with the wood and all that, that's what we was doing.
+
+</div>
+
+*[[36:15](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2175s)]* Go back. Y'all got anything?
+
+**Officer:** Get Exodus 15:3.
+
+**Deacon Eythan:** Oh, it's over there, like, what's going on here? He got something.
+
+**Officer:** Hey, like you said, I thought you had me here just reading the Bible. Hey, remember man, our forefathers. Let's get Exodus 15:3. Where we get that spirit from.
+
+**[Exodus 15:3](/bible/exodus/15#v3)**  *[[36:40](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2200s)]*
+
+> <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
+
+- **Officer:** See that? The scripture says, the Lord is a man of war. Understand this in our spirit. We was never weak people, you know what I'm saying? The scripture says we are gods on the earth. Understand? So we are not a weak people. It's just right now we weak, because we break the laws of the Most High. So our strength is diminished because of our sins.
+
+- **Deacon Eythan:** Right. Get Psalms 144:1. Hey, Captain Joel said something heavy. It was on a reel. He was talking about the men of the scriptures, the great men, our forefathers in the scriptures: how you had the men that was noted in the Bible, like the Maccabees, that rose up. You had different men at various times that the Most High noted, that rose up. I'll give the Maccabees for example, their rebellion.
+
+- But on the other side, remember, you had Hannibal. You had Spartacus, we going to touch on. You had other great men as well. But because they wasn't noted in the Bible, that doesn't mean they wasn't great men. They just wasn't keeping God's law; they was in evil. But they were still considered great men. For example, he brought up, you look at Malcolm X, you look at Marcus Garvey, you look at Fred Hampton and them. They were still great men, even though they didn't have the scriptures with them. For their time period, what they were doing, they were still considered great men. And because of that, they show love for their people.
+
+- **Officer:** Yes. And they give their life up for their people, you know, like Christ says: no greater love for a man to lay down his life for his friend.
+
+- **Deacon Eythan:** And that was the whole point. They was nationalist for their people. So that was the whole point. You look at the scripture, but these men that wasn't noted in the scripture, they were still great men on the earth. Don't get it twisted. But they just wasn't keeping God's laws, so the Most High said nah, don't put them in. Hey, Romans 9. Was it 18? 17? The Lord have mercy on who he will.
+
+- **Officer:** Because they was set up for a reason by the Lord. The work they was doing paved the way for us today, that we able to push out the truth today. If it wasn't for their sacrifice, we wouldn't have the freedom that we have today to gather our people for the real truth to come out. So they did play a big role in the Most High's program.
+
+- **Deacon Eythan:** Right. Read that.
+
+**[Romans 9:15](/bible/romans/9#v15)**  *[[39:32](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2372s)]*
+
+> <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+
+- Right. So those men, the Most High will have mercy on their spirit and their soul, and they still make it to the kingdom. You never know. So that's of the Lord. So you could never speak against the work that they did, because it was great works.
+
+- **Officer:** So at that time they was facing... they didn't have the laws that we have today. It was different. They could have just go outside and then just get lynched and killed. Today we have all these laws and affirmative action, so brothers really talking mess. But back then it was real. They really had guts to stand out in the face of all these adversities.
+
+- **Deacon Eythan:** Different spirit. Definitely a different spirit. Why? It said Judah shall be in the neck of his enemies. Now, remember you had other tribes; I ain't just singling out Judah. You had the other tribes as well.
+
+- **Officer:** That was all Judah.
+
+- **Deacon Eythan:** Oh, man. So shout out to Captain Joel for that statement. I was like, damn, that's heavy. Read that.
+
+**[Psalms 144:1](/bible/psalms/144#v1)**  *[[40:57](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2457s)]*
+
+> <sup>[1](/bible/psalms/144#v1)</sup> Blessed be the Lord my strength, which teacheth my hands to war, and my fingers to fight:
+
+- So this is King David. He said, blessed be the Lord my strength, which teacheth what? My hands to war. So just to land back off the officer: where we get that spirit from? The Lord is a man of war.
+
+- **Officer:** We should all carry that. Even just going out teaching the Bible, this is war. This is war as well. So we got to have that warrior spirit on us, man.
+
+- The room plays a sound bite: This is war. This is war. All praises.
+
+- **Deacon Eythan:** Hey, go back to the page. It's all right. I know you got the deleter on the team. He calling the whole deleter, bro. Don't play that sound. Y'all crazy. Go back to the page, the deleter.
+
+<div class="reading">
+
+Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2518s)]*
+
+> The flame of Jewish resistance to Roman tyranny did not die out with the crushing of the first Zealot rebellion of 66 to 72 CE. It merely simmered, awaiting the growth of a new generation. These young men, nurtured by the tales of the heroism of John of Gischala and Simon bar Giora, awaited their moment for revenge and holy war. Like the ancient prophet Daniel, their elders charted a time when the stars in their courses above and the political constellations below would portend an auspicious signal for victory.
+
+- So what I'm going to show you is, you had noticed throughout history, this is what we was doing. We was always waiting for a signal. You understand? Looking into the heavens, into the skies, waiting for a signal to make our move. So you'll notice throughout different periods in history, when we was about to revolt, this is the sign that we waited for.
+
+- The stars in their courses above and the political constellations below. Where do we get that from? Give me... you know what I want. It's Issachar. I think that's 1 Chronicles 12:32.
+
+</div>
+
+**[1 Chronicles 12:32](/bible/1-chronicles/12#v32)**  *[[43:34](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2614s)]*
+
+> <sup>[32](/bible/1-chronicles/12#v32)</sup> And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment.
+
+- So Issachar understood the times. Understanding of the times, to know what Israel ought to do. They understood the times. So Issachar could read... When you look in the history with Issachar, they understood like the stars and how the stars move, the constellations, all that stuff. They understood all these things. So they understood the times.
+
+- Hey, remember, was it 2010 when they had a big thing about the Mayan calendar? People going crazy. See, they know about this. They trying to deceive the people, as something major, something big, was going to happen with that 2010 garbage. They had that movie. Hold on. Let's get Ezekiel 3 real quick. You got, officer? I'm looking for something.
+
+- Right. Like the officer said, bringing out concerning us being rebellious, and always rebelling: we're like a freedom fighter. That's what we are. Because Christ was a freedom fighter. All our prophets was freedom fighters. Moses was a freedom fighter. You understand? So let's read that, Ezekiel 3:11.
+
+**[Ezekiel 3:11](/bible/ezekiel/3#v11)**  *[[45:18](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2718s)]*
+
+> <sup>[11](/bible/ezekiel/3#v11)</sup> And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord God; whether they will hear, or whether they will forbear.
+
+- See that? Go to them of the captivity. Because somebody captive, they don't want to let you go. So you have to go, you saying, to free your people. So like the scripture says, our weapon right now is not carnal. It's not a carnal weapon right now. People are in spiritual captivity, and so that's why the Lord said go, get thee to them, to free their mind. Because right now physically we can't do anything physical. We got to free their mind first.
+
+- See that? Unto the children of thy people. Like the officer said earlier in Isaiah, when the Lord's talking about Egypt my people, it's referring to the people that was living in Egypt. It's the same thing when we go to our people calling themselves Jamaican, Haitian. Those are the Israelites, thinking in the mind that they are Haitians, Dominicans and Puerto Ricans, that kind of stuff. So spiritually our people are destroyed.
+
+- That's why we go out there and tell them, thus saith the Lord God: repent. You're the Israelite. You're a great people. It's time to wake up. Whether they will hear, or whether they will forbear. Isaiah, the Lord put the spirit... 61:1.
+
+**[Isaiah 61:1-3](/bible/isaiah/61#v1)**  *[[47:12](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2832s)]*
+
+> <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
+
+- See that? So when we go out there to our people, we went in the spirit of the Lord. Like we was reading about King David, the Maccabees: they had the spirit of a warrior on them. They had no fear. That's why the scripture says the Lord has not given us the spirit of fear. And that's why we have no fear to bring the word out, because we know who's our backup. We got the Lord with us.
+
+- So we're rolling with the spirit of the Lord.
+
+- See that? The brokenhearted. When you're in captivity, you're broken. We have been broken in all this captivity, especially in this one here. Our people totally broken. Poor in spirit. Poor in spirit, everything. Our people don't even know. Like the picture Bishop said about the older man sitting down, and his face is in his hand. Have no clue. Doesn't have any idea. No hope. So that's why we go out there and give our people the hope. And that's the reason why our history, the hidden history here, we reading it: the Most High put the spirit on the leadership, these brothers, to find this book, to show our history, how a great people we are.
+
+- See that? To proclaim liberty to the captives. And the opening of the what? The opening of the prison. Hey, remember that music video two weeks ago, when they show the leadership breaking the prisoners of war out? That was bad right there. This is right here. To them that are bound: spiritually bound.
+
+> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
+
+- To proclaim the acceptable year of the Lord. This is the acceptable year of the Lord; it's coming soon. And the day of what? The day of vengeance. This is what. That's right. The day of vengeance of our God.
+
+- To comfort all that mourn. See, that's what the scripture supposed to do: to comfort them that mourn. So you mourning? The only way you going to get your comfort is through the scriptures. Come to the scriptures; you going to get comfort to your spirit.
+
+> <sup>[3](/bible/isaiah/61#v3)</sup> To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
+
+- See? Beauty for ashes. We're on the bottom of society. We live in ashes. So the Most High said, come to this word, and fix your broken heart. You mourning? Come and get comfort in the scriptures. Repent. Find a school and come learn who you are, so you could get beauty for ashes.
+
+- See that? The oil of joy for mourning. Our people are mourning. There's no joy out there. The churches is not being joyful, just making noise. And then as soon as they left the church, go right back to captivity. You got to do your 60 hours again. And then you got the damn pastor robbing you, stealing your damn money, not teaching you anything.
+
+- That they might be called the trees of righteousness. We was created to be righteous. We are created the trees of righteousness, so we could get back to our old glory. The planting of the Lord, that he might be glorified. So the Lord is going to be glorified in us. We got to glorify the name of the Lord. So you warriors out there, you brothers, man, and sisters: it's time to repent. It's time to wake up. Come on, let's go.
+
+- Hey, give me Zechariah 9:12, just to land back off the officer.
+
+**[Zechariah 9:12](/bible/zechariah/9#v12)**  *[[52:00](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=3120s)]*
+
+> <sup>[12](/bible/zechariah/9#v12)</sup> Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
+
+- So just like the officer was bringing out, we are the prisoners of hope. Look, I don't know if y'all know this, but we are in a prison house. This is captivity. America is a big prison. We were captives of war. We are prisoners of war. The Most High didn't put us here to celebrate Thanksgiving, Valentine's Day, Christmas. You wasn't here to have fun. We not here to have fun.
+
+- I haven't been to prison before, but those that's been locked up: you spending time meditating, getting yourself together. Like, damn, why am I here? I shouldn't have did that. Damn, if I would have changed my life and went this route, maybe I wouldn't be here. So when my time is up, when I get out, I'm going to change my life around. That's what we were supposed to be doing here. We wasn't supposed to be joining hand in hand with Esau, and envying the oppressor, and choosing his ways. We weren't supposed to be doing none of that. We are prisoners of war. This is a prison house.
+
+- So we are the prisoners of hope, man. The only thing that can give us hope is the scriptures. That's it. Other than that, what hope we have? In social media, TikTok? What hope do we have in politics? Oh, gosh. You see who's running this show. We thought Obama had it. We thought Obama was going to do something for us. But they just puppets in the game. They not really running it.
+
+- **Officer:** Hey, Officer Jazz, that's heavy what you said. Because that's where the land masses that we're scattered, that's actually a correctional facility.
+
+- **Officer:** Yeah. Like America is a big correctional facility to us, to realize our transgressions, how we broke God's law, and change from that. America is a land of banishment.
+
+- **Deacon Eythan:** Yes, sir. Damn.
+
+- **Officer:** You know how they banished John the Revelator? They took him to the island of Patmos. America is a big island of banishment. That's what America is, just to sum it up.
+
+- **Deacon Eythan:** I think John the Baptist had it better than us. Oh, John the Revelator, I mean. I'm sorry. I think he had it better than us. He had nobody oppressing him. He was just seeing visions and everything. Man, we oppressed, suppressed. Damn, everything, man. Can't get a break.
+
+- **Officer:** But yeah, if you really want to look at America for what it is, it's banishment. It's an island for banishment. Deportation. This is not your rest. Micah 2:10.
+
+**[Micah 2:10](/bible/micah/2#v10)**  *[[55:03](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=3303s)]*
+
+> <sup>[10](/bible/micah/2#v10)</sup> Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.
+
+- **Officer:** You see that? The scripture says arise ye and depart. Wake up, rise yourself up, and depart from the way of this country of America, of this wicked oppression, evil system. See that? This is not our rest. You got people planning the 401k retirement and all that stuff: I want to work for 55 years, 60 years, and maybe I get a gold watch for good service. And go to the military and fight for your oppressor, killing your own people for your oppressor, hoping that you going to get, what's that thing? A pension. You understand? The Lord said this is not our rest.
+
+- **Officer:** We was brought here in slavery as punishment. Like the officer was saying, this is a big prison house. And the white man is nothing but a CEO, a correction officer. That's what he is. He's a warden in the freaking jail cell. The ones of us that's out, we just like in the minimum security prison. The one that's locked up is in maximum security. That's all it is. So the Lord say wake up. This is not your rest.
+
+- **Deacon Eythan:** Hey, the richest of our people, they in PC, what they call it. They're the ones with the nice privilege. They got Esau surrounding them, a TV. They're the ones with the commissary benefits. Remember Martha Stewart had that type of jail cell like that, right? Couches and all that stuff. Comfortable. The rest of us, man, they doing hard time. What's the little box they put people in? You understand? That's what it is.
+
+- **Officer:** We like the prisoners that do, what they call it, the work program. The ones of us that's locked up in prison. That's all it is. Ain't no difference.
+
+- **Officer:** Because it is polluted. The Lord says America is polluted. Polluted from top to bottom. There's nothing pure in this country. Everything is polluted: from your food, your education, whatever you celebrating. Everything is polluted. The air is polluted. The water is polluted. The whole earth this white man polluted, because he's a damn beast. He's a devil the Bible speaks of. Death and hell.
+
+- **Officer:** It shall destroy you. See that? It's going to destroy you. There's no ifs and buts about it, because it's written in the scriptures. The Lord say it will destroy you. Arise and depart. Repent, change your mind. Stop following the ways of this white man, the devil the Bible speaks of. It will be your destruction. Even with a sore destruction. See that? And you don't repent, when Christ come back you going to get destroyed with this place.
+
+- **Officer:** Hey, when we was talking about the solitary confinement, let me give an example of solitary confinement in this big prison house: the projects. The projects is solitary confinement.
+
+- **Deacon Eythan:** That's heavy, officer.
+
+- **Officer:** Yes, sir. Us being cooped up in the projects, man. Being cooped up in some of these... Even a regular building, man, it's like you're on top of each other.
+
+- **Deacon Eythan:** Yes. That's my point. We on top of each other, man. And hey, that was all a design. You could look it up: the Skinner project. That was all design. Put it up. You see the gates around the community? That's not even a community, I'm sorry. That's a prison. That's solitary confinement right there. Our people, when we confined like this, we go crazy. Killing each other, destroying each other.
+
+- **Officer:** Hey, you know what happened the other day? I was driving by one of those kindergartens, probably grade school. And they have recess, and they have the kids play in the yard. And I'm driving by, and there's a gate, a big iron gate, in their yard, with a basketball court. And I'm looking at this like, oh, shoot. They already training them to be behind the gate, playing in the yard with a basketball. Same way as when you watch the movies with the prisoners going out there.
+
+- **Officer:** Then I drive by a white establishment: them kids are playing in the grass. Free. There's no iron around them. Trees and flowers and everything. I was like, damn. I felt bad. I should have took a picture of it. But that resonated in my mind: this is how our children is being trained from a youth up. School-to-prison pipeline. You understand? For them to be comfortable behind a damn gate.
+
+- **Deacon Eythan:** Damn. Confined, man. Nowhere to go.
+
+- **Officer:** But the kids in their mind, they just playing. They out there, they free, they playing. But you know what that is? The mental part of it. It's like a subliminal message that's going to resonate in the spirit when they grow up: like, this is normal. Because when you hear people, sometimes they get locked up, they don't care. They come back in, go right back in there again. Because why? They're comfortable now.
+
+- **Deacon Eythan:** All of this goes to say, don't forget the topic. All this go hand in hand. This is why we was rebelling. It's oppression. That's what caused the revolts of our people.
+
+- **Officer:** Now, this brother did a TikTok, and it was a bear in a cage for a long time. He said this bear been in the cage for like 20 years, something crazy. But when they took the bear out the cage, the bear didn't know where to go. He wouldn't even move. He was conditioned to be in that area. He wouldn't even step outside that cage, man. So this is what they doing to us. Same thing when the so-called freed slave: they have nowhere else to go but go right back to the plantation.
+
+- **Deacon Eythan:** Psychological warfare, I tell you, bro.
+
+- **Officer:** That's why the Most High says it's not going to be by our spirit. It got to be by his spirit.
+
+- **Deacon Eythan:** Let's get Psalms 94:16. I know we sidetracked a little bit, but it all go hand in hand. This is revolution.
+
+- **Officer:** It's a spiritual revolution.
+
+**[Psalms 94:16-18](/bible/psalms/94#v16)**  *[[1:03:03](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=3783s)]*
+
+> <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
+
+- **Officer:** That's the question that I was asking: which one of you men is going to rise up for me against the evildoers? You understand? See that? So that's the question. We got to stand up and bring out this truth, to bring this evil kingdom down.
+
+> <sup>[17](/bible/psalms/94#v17)</sup> Unless the Lord had been my help, my soul had almost dwelt in silence.
+
+- **Officer:** Bro, if it wasn't for the Lord, bro, we finished. This man did a job on us, man. There's no way of coming out. That's why the scripture says he think in his mind his house is going to go forever. Because he know what he did to us, man. Destroyed us from the toe up. We was tore up from the floor up. So this man did a job on us, man. There's no way coming out. It had to be by a divine intervention. If it wasn't for the Lord that had mercy upon us, we finished, man. No way we would ever come back from this.
+
+- **Deacon Eythan:** Hey, that's Willie Lynch. Remember he said, except a phenomenon happens. This is their condition, except a phenomenon. So you looking at the phenomenon now. All praises to the Most High. Read the next verse.
+
+> <sup>[18](/bible/psalms/94#v18)</sup> When I said, My foot slippeth; thy mercy, O Lord, held me up.
+
+- **Officer:** See that? The Lord's mercy held us up. If it wasn't for the Most High had mercy, man, we finished.
+
+- **Deacon Eythan:** Y'all can take that down. Go back to the page. Thank you, officer. We appreciate you, officer.
+
+<div class="reading">
+
+Reading from *Wars of the Jews*, continued, on Trajan's Parthian campaign and the sudden revolt · read by an officer  *[[1:04:46](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=3886s)]*
+
+> Like the ancient prophet Daniel, their elders charted a time when the stars in their courses above and the political constellations below would portend an auspicious signal for victory.
+
+- Next page. We're not going to go through all these pages. Go down, go down. Right, next page.
+
+> Trajan was now determined to conquer Parthia, but at first he veiled his designs under a cloak of pretended moderation. He declared that he only wanted a say in selecting the new king of Armenia. Chosroes, the new Parthian emperor, had insulted Rome by dealing with Armenia as though its government were a Parthian and not a Roman affair. Trajan said that he would go to Armenia to reestablish Roman influence. The autumn of 114 CE saw him arrive at Antioch with a large army of troops who had just completed the conquest of Pannonia, Hungary. In the spring of 115 CE
+
+- Jump down. Next page, next page. Yeah, the sudden revolt. Whoa, whoa, go back. I'm sorry, go back. Start at the bottom.
+
+> The Roman senate had just awarded Trajan the titles of Armeniacus and Parthicus, but now these laurels chafed at his head like a crown of thorns. Not only were Mesopotamia and Assyria aflame, but the Jews of the empire itself, in Judea, Egypt, Libya and Cyprus,
+
+- So these were the different countries of us that was revolting. We were revolting in Judea, Egypt, Libya and Cyprus.
+
+> had risen in revolt with a strength of purpose and unparalleled unity.
+
+- Unparalleled unity. We was in unity. We was in unison with this revolt. Even though we was in Egypt, Cyprus, Libya and Judea, we all was on one accord.
+
+> These combined Jewish communities nearly destroyed the Roman Empire.
+
+- We nearly took out Rome at this time period. We nearly destroyed Rome.
+
+> This sudden revolt was conceived by Julianus, the fiercely nationalistic alabarch of Alexandria.
+
+- Whoa. You see that word, nationalistic? He was about his people rising up. He was about that independence again.
+
+> Behind Trajan's back, Julianus and his ally Pappus had arrived at the plain of Jezreel in northern Judea with 20,000 armed Egyptian Jews in the spring of 116 CE. The Galilean Jews, about 100,000 strong, joined them, and together they crushed the Roman garrison, which had withdrawn into Samaria.
+
+- Listen, we was getting it in. Listen, we was not playing.
+
+> From deep inside Parthia, Trajan next received the news that a Jewish army was besieging Damascus. Alarmed, but too committed to his eastern campaign, Trajan placed a cruel Moorish prince, Lucius Quietus,
+
+- So we dealt with Lucius Quietus last show. He was a negro. He was a …, he was a …. He was employed; he was second in command under Trajan. Because why? They always had us in their armies. They had us in their armies throughout history. They kept us in their armies.
+
+- For example, let me give some examples of that. Give me the book, Time-Life, *The Israelites*, just to prove they always had us in their armies. And hey, we always rose to like second in command too, because we was bad. We was bad with the fighting. You know what I want: *The Israelites*. You had it before. It says masters of the martial arts. You had it up last week. You didn't find it yet? Since we talking, if you got something, go ahead.
+
+- **Officer:** Second.
+
+- **Deacon Eythan:** Let's bring it out.
+
+- **Officer:** Sure. The damn Chinese, man, they learned that art from us.
+
+- **Deacon Eythan:** Bring it out. They stole it from us. Damn thieves.
+
+- **Officer:** Let's say a bit about one of those David's mighty men. 2 Samuel 23:10. You want to start?
+
+- **Deacon Eythan:** No, I was just asking.
+
+- **Officer:** Yeah, man, let's start, verse 16.
+
+</div>
+
+**[2 Samuel 23:16-21](/bible/2-samuel/23#v16)**  *[[1:11:00](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=4260s)]*
+
+> <sup>[16](/bible/2-samuel/23#v16)</sup> And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth–lehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the Lord.
+
+- **Officer:** Three men. Hold up, hold up. Read that again. And the three mighty men brake through the host of the Philistines. The host of the Philistines: that's a military, a garrison. Three men broke through. Let's see what they did. Broke through the host of the Philistines and drew water out of the well of Bethlehem.
+
+- **Deacon Eythan:** Damn.
+
+- **Officer:** That was by the gate. Just to draw water, because David said, I need some water from that well. They said, I got you, man. Don't worry about it. David, we got you, son.
+
+> <sup>[17](/bible/2-samuel/23#v17)</sup> And he said, Be it far from me, O Lord, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men.
+
+- **Officer:** Imagine that, man. Three men broke through a garrison of the Philistines. Those was not little men either. These are the same Philistines that King David killed. The giant.
+
+- Banter in the room: Yo, why you looking at him for? Why you looking at my man? Read it, sir. I was reading the Bible. What you looking at? Just look at the Bible. That's messed up, man. Come on, man.
+
+- **Officer:** Like I was saying, man: three mighty men broke through a garrison of men, men of war, you understand, just to draw a cup of water for King David. That's power. That's fighting skills. You understand?
+
+> <sup>[18](/bible/2-samuel/23#v18)</sup> And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
+
+- **Officer:** Damn. 300. One man, 300. So yeah, you talk about martial art: what's his name, Bruce Lee, can't do that. What's the Chinese, Jackie Chan. What's the other one, Donnie Yen. Jet Li. Yeah, they can't kill three hundred. You know what I'm saying? They can only do that in the movies. This is real life right here, how our forefathers did that through the spirit of the Lord.
+
+> <sup>[19](/bible/2-samuel/23#v19)</sup> Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the first three.
+
+- **Officer:** Let's get to Moab now.
+
+> <sup>[20](/bible/2-samuel/23#v20)</sup> And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:
+
+- **Officer:** Two lionlike men. How fierce a lion is? Those men was fierce. Two lionlike men of Moab.
+
+- **Deacon Eythan:** Damn.
+
+- **Officer:** He went down also and slew a lion in the midst of a pit in the time of snow. See, that's not enough blood, man. More blood. The Lord is a man of war. That's the reason why the white man has to dumb us down, drug us. Because that's the only way he could tame that lion. Like the scripture say, if it's not the Lord that give us for a prey... This man, he wouldn't be able to contain us. That's the reason why he want to keep us away from this book. Don't let these … learn this book, because they're going to get the mighty power back. It's too late now, Mr. White Man. You're in trouble.
+
+- **Deacon Eythan:** That's right. You is in trouble. That's right.
+
+- **Officer:** The lionlike men of the Lord are waking up.
+
+- **Deacon Eythan:** Hey, I'm about to send some stuff towards your way. You could pull up the Israelites, Time-Life. You can pull that up. Everything is on the group.
+
+- **Officer:** Ain't got it yet, man. Let's read on, let's go. Give verse 21.
+
+> <sup>[21](/bible/2-samuel/23#v21)</sup> And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
+
+- **Officer:** He did what? And he slew an Egyptian. Everybody going to get it. Everybody going to get it. This is martial right here.
+
+- **Officer:** So the Chinese, they invent karate or all that thing, but martial art, you know what I'm saying, they stole that thing from us, bro. So he said, yo, you ain't got no skill. Let me show you skill. Took his spear from him, and plucked the spear out of the Egyptian's hand, and slew him with his own spear. That's the bomb, bro. Come on, man. Let's go, man. Wake up, man. Come on, man. Damn, that's power right there.
+
+- **Deacon Eythan:** That's it. That's it. You ready over there?
+
+- **Officer:** I'm ready. I'm ready.
+
+*[[1:17:29](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=4649s)]* Hey, let's take a quick break real quick. We going to get back into it. We going to get back into it, man. So look, you can call us or you can text us. We're going to take a quick break. We'll be back with more.
+
+*[[1:18:40](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=4720s)]* The break, with outreach reels. Isaiah 11:11 is read: "Australia is one of the islands of the sea. You have many other islands near Australia. For example, we have the Solomon Islands. All of these are islands of the sea: places where the Israelites in the last days will be scattered. Why? Because they are suffering God's judgment, because they broke his commandments." A song: "Israel in Christ, from corners of the countries, gathering the twelve tribes of Israel." A brother: "As Israelites we are commanded by Christ to go worldwide and gather the forgotten people, those black and brown people that suffered during the transatlantic slave trade, that is recorded in Deuteronomy the 28th chapter. So our mission, our goal, is to go from country to country and reawaken our people, and bring them to the truth that they are the Israelites according to the Bible." A voice: "There will come a time when black people wake up and become intellectually independent enough to think for themselves, as other humans are intellectually independent enough to think for themselves. Then the black man will feel for other black people, and this new thinking and feeling will cause black people to stick together. And then at that point you'll have a situation where, when you attack one black man, you are attacking all black men." Isaiah 11:12 is read: "The word Gentiles means nations." Brothers in the street: "Our purpose for coming out here is to gather the elect, our brothers and sisters scattered in the diaspora." "King Solomon was the son of King David. Jesus Christ come from that bloodline. So Jesus Christ is not a white man. Jesus Christ is a black man." Luke 4:18 is read: "Those blinded through religion, because religion teaches us everything outside of the Bible." "Venezuela, America, Mexico. We have to go back. Encourage ourselves that we are Israelites." "Jehovah's Witness got obliterated, bro. Today was a day of war, and the Most High got the victory. Who's the king? Christ." On the street, to a Jehovah's Witness: "Do you think he's been a faithful witness to God, or a liar?" "Honestly, a liar." Proverbs 14:5 is read. A song: "Going all in. You can tell by the things I'm involved in. I can lose it all for my calling. If I die for the truth, it's a win-win, and true to the end, going all in." And a voice: "We have to go to the root. We have to go to the cause. Dealing with the condition itself is not enough, and it is because of our effort toward getting straight to the root that people oftentimes think we are dealing in hate." "Brothers and sisters, for generations we've been a people living under the weight of oppression. From the days of Marcus Garvey's call for unity, to Martin Luther King's dream of freedom and equality, to Fred Hampton's unyielding fight for justice, we've been relentlessly pushed down, but we have never been broken. In these trying times God has sent us a torch bearer to guide our path. Today I introduce to you a beacon of hope: Bishop Nathanyel."
+
+*[[1:28:40](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5320s)]* Hey, welcome back, man. Welcome back. Hey, like I said, you can call us or you can text us. Hey, let's get back into it, man. Let's get back into it. So remember, we going over the revolt called the Kitos War, the Second Zealot War, which was from 115 to 117 AD. We almost took out, we almost annihilated, the whole Roman Empire.
+
+*[[1:29:30](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5370s)]* So watch this. What we was going into was Lucius Quietus. They say he was a Moor. He was a brother. He was a …. He was a … that was fighting in the Roman army. So we just want to go through some history of us: how they always used us in their armies, in our captivities. Watch this. Give me the other book first: the Jewish encyclopedia. Give me the next page. Watch this. Blow that up. Underlined: read sports.
+
+<div class="reading">
+
+Reading from a Jewish encyclopedia, under Sports · read by an officer  *[[1:30:20](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5420s)]*
+
+> Sports. Jewish athletes have contributed their share to the history of sports all over the world, and have added to the legends of boxing, baseball, track and field, swimming, football, chess and scores of other major and minor sports.
+
+- Watch this. Now we dealing with ancient Israel. The top part is talking about modern; this is ancient Israel, dealing with us. Watch this.
+
+> In ancient Israel, Jews did not show the kind of passion for sports which the ancient Greeks and Romans did,
+
+- So we didn't have passion for sports like that at all. We didn't have that type of passion for the sports like the Romans and the Greeks did.
+
+> although some Jews were noted gladiators. Physical skills in biblical times were mainly associated with martial arts.
+
+- With what? Martial arts. That's all we practiced. That's all we cared about. We wasn't playing ball. We wasn't playing no basketball. We wasn't playing baseball, football. No. Our physical skills was based in martial arts. Understand? In ancient Israel, in ancient times, that was us.
+
+- Mainly associated with martial art. Now we know during the Greek captivity, the Levite Jason brought us to the Greekish fashion. Brought us into the Greekish fashion, to the point that we left our laws, man.
+
+- Hey, from there, man, drop that. Give me the next page. It's all good. Give me the book *The Israelites* real quick. Go back so the people can see the book. So this is the book called *The Israelites*. The leadership, the bishop, brought this book out numerous times. He brought it out definitely on the Shout Out Tuesdays and so forth. So this book is by Time-Life, *The Israelites*. Next page. I just want to get straight to the point. Right here. Read that top part.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Israelites* by Time-Life, under the heading Masters of the Martial Arts · read by an officer  *[[1:33:00](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5580s)]*
+
+> Masters of the martial arts.
+
+- Masters of the martial arts. Go down, go down. Let's get, right here, where it says these two figures.
+
+> These two figures, an archer and a spearman, represent captives from Judah
+
+- From where? From Judah. So these two men represent captives from Judah.
+
+> who were impressed into service as bodyguards to the Assyrian king after the capture of Lachish in 701 BC.
+
+- You see that? So we was always next to them as bodyguards. They kept us close. They kept us close, because we was masters of the martial arts.
+
+- Right. Now to back that up, and then we going to get Zerubbabel, give me the next book. I don't think I sent y'all the title of that book. No, not that one, the one before. That one right there. Read the bottom part, the footnote. This book right here is called *Historic Sketches of the South*. This book, 1800, white eyes only. Read that.
+
+</div>
+
+<div class="reading">
+
+Reading from *Historic Sketches of the South*, from 1800, a footnote on the features of the blacks recorded by their enemies · read by an officer  *[[1:34:49](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5689s)]*
+
+> Their features are recorded by their ancient enemies,
+
+- Go up, so you know who he talking about. So it's talking about us. Go down, go down. So it's just like the book, the *Literary Messenger*, that we read the first time: we always slaves. Y'all remember that book? So this is land backing off of that book.
+
+> never by themselves:
+
+- So they always recorded us, and never by ourselves.
+
+> Egyptian kings, who from earliest times of antiquity came often into collision with the blacks, and had them figured as defeated enemies, as prisoners of war, and as subject nations bringing tribute. Their grotesque features, so much differing from the Egyptian type, made them a favorite subject for sculptural supports of thrones, chairs, vases, etc.,
+
+- So they saying that throughout all captivity they had us as sculptures on chairs, monuments, thrones. A perfect example: down here in Center City in Philly, at City Hall, when you look up at the columns, they have us holding the columns up. Judah and Gad. So they still doing it to this day. Throughout history they had us with grotesque features on all these things: supports of thrones, supports of chairs, vases.
+
+> or painted under the soles of sandals, of which instances abound in museums, as well as in the larger works on Egypt.
+
+> The other artistical nations of antiquity knew little of the Negro race. They did not come before Solomon's epoch into immediate and constant contact with it.
+
+- So that's a lie.
+
+> We see soon after, however, a Negro in an Assyrian battle scene of the time of Sargon at Khorsabad.
+
+- A Negro in a war scene, in the Assyrian captivity. Because why? We was in their armies.
+
+> He might have been exported from Memphis by Phoenician slave dealers to Asia, where he fell fighting for his master against the Assyrians.
+
+- No. We was taken out of our land. Read on; you can read the whole thing.
+
+> On the remarkable relief of the tomb of Darius at Persepolis, we have a Negro as a representative of Africa.
+
+- Even the Assyrians, on their wall reliefs, have us. They have us on their wall reliefs.
+
+> The Greeks seldom drew the blacks. Still, on beautiful vases of the British Museum we meet with the well-known Negro features in a battle scene. Another such vase, with the representation of Hercules slaying Negroes, has been published. Etruscan potters, who liked to draw Oriental types, molded vases in the shape of a Negro head, and coupled it sometimes with the head of white males or females. The British Museum contains several of these very characteristic utensils. We possess effigies of Negroes drawn by six different nations of antiquity:
+
+- Stop. They possess effigies, meaning monuments and sculptures, of Negroes, drawn in different periods of history by six different nations.
+
+> Egyptians,
+
+- Because we was in their captivity.
+
+> Assyrians,
+
+- We was in Assyrian captivity.
+
+> Persians,
+
+- We was in the Persian, Medes captivity.
+
+> Greeks,
+
+- The Greek captivity.
+
+> Etruscans,
+
+- So the Etruscans was drawing us.
+
+> and Romans,
+
+- And the Roman captivity.
+
+> from about the 18th century BC to the first centuries of our era,
+
+- Still going on today.
+
+> which all speak for the unalterable constancy of the Negro type, such as in our day.
+
+- So he's saying we the same people. The same people that was drawn on the monuments and so forth back then, by those six different nations, is the same people we have in captivity, and we're doing the same thing today.
+
+- Now give me where he said that it was a battle scene, Khorsabad. Give me that. I tried to look for the actual relief. I had it one time, but I cannot find it now. Blow it up. So this is the supposed battle scene right here. Could we see the whole thing? You see what it says: Khorsabad, Negro. So obviously he drew it, but there's the actual relief where he got it from. So that's us in an Assyrian battle scene. Remember, they said we were the masters of the martial arts. We were their bodyguards. So we were there.
+
+- Now from there, give me Zerubbabel. We was always their bodyguards. They always kept us close, man. It's Zerubbabel, 1 Esdras 3.
+
+</div>
+
+**[1 Esdras 3:1-5](/bible/1-esdras/3#v1)**  *[[1:40:47](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6047s)]*
+
+> <sup>[1](/bible/1-esdras/3#v1)</sup> Now when Darius reigned, he made a great feast unto all his subjects, and unto all his household, and unto all the princes of Media and Persia,
+>
+> <sup>[2](/bible/1-esdras/3#v2)</sup> And to all the governors and captains and lieutenants that were under him, from India unto Ethiopia, of an hundred twenty and seven provinces.
+>
+> <sup>[3](/bible/1-esdras/3#v3)</sup> And when they had eaten and drunken, and being satisfied were gone home, then Darius the king went into his bedchamber, and slept, and soon after awaked.
+
+> <sup>[4](/bible/1-esdras/3#v4)</sup> Then three young men, that were of the guard that kept the king’s body, spake one to another;
+
+- So there were three top bodyguards. These were three top bodyguards.
+
+> <sup>[5](/bible/1-esdras/3#v5)</sup> Let every one of us speak a sentence: he that shall overcome, and whose sentence shall seem wiser than the others, unto him shall the king Darius give great gifts, and great things in token of victory:
+
+- Jump to 4:13. Let's get to the point.
+
+**[1 Esdras 4:13-15](/bible/1-esdras/4#v13)**  *[[1:41:58](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6118s)]*
+
+> <sup>[13](/bible/1-esdras/4#v13)</sup> Then the third, who had spoken of women, and of the truth, (this was Zorobabel) began to speak.
+
+- This was Zerubbabel. This was who? This was Zerubbabel. So Zerubbabel was of the top three, one of the top three bodyguards next to the king. How did he get that position? Because he was bad with the fighting, with the martial arts. Masters of the martial arts.
+
+> <sup>[14](/bible/1-esdras/4#v14)</sup> O ye men, it is not the great king, nor the multitude of men, neither is it wine, that excelleth; who is it then that ruleth them, or hath the lordship over them? are they not women?
+>
+> <sup>[15](/bible/1-esdras/4#v15)</sup> Women have borne the king and all the people that bear rule by sea and land.
+
+- Right. Now give me Luke 3:14. What I'm showing you now is that we was always... Remember, we dealing with Lucius Quietus. So I'm showing you we was always in the armies of the other nations, and we was always their top. We wasn't no pawns or nothing in the army. We was next to the king, like the general, the second in command, the bodyguards.
+
+**[Luke 3:14](/bible/luke/3#v14)**  *[[1:43:27](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6207s)]*
+
+> <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
+
+- So these were obviously Israelites that was in the Roman army at this time, that wanted to know how can we repent, being in Rome's army. From there, give me Cornelius, Acts 10.
+
+**[Acts 10:1](/bible/acts/10#v1)**  *[[1:43:53](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6233s)]*
+
+> <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
+
+- So obviously you'll think, oh, he's an Edomite now. He's of the Italian band; he's an Italian. He was a what? He was a centurion. Centurion mean he was a captain over 100 in that army, in the Roman army. But was he an Israelite? Let's prove it. Verse 34.
+
+**[Acts 10:34-36](/bible/acts/10#v34)**  *[[1:44:26](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6266s)]*
+
+> <sup>[34](/bible/acts/10#v34)</sup> Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
+>
+> <sup>[35](/bible/acts/10#v35)</sup> But in every nation he that feareth him, and worketh righteousness, is accepted with him.
+>
+> <sup>[36](/bible/acts/10#v36)</sup> The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
+
+- So Cornelius was an Israelite, of the northern kingdom. It was just he was in the Roman army, just like you got those of us that's in America's army. From there, give me *History of the Jews*. And then we going to get back into different men that revolted throughout history, because this ain't the only revolt. This was a major revolt that was recorded, but this wasn't the only revolt.
+
+- Go to the Telegram, all the way at the bottom. Go down. Go up, go up. Come on, man, I thought I sent that to y'all. Y'all should have it anyway. Go to page 140 or 141. 141. Read that. Go down. Don't move. Go up, go up, go up. Right there.
+
+<div class="reading">
+
+Reading from *History of the Jews*, page 141, on the Jews of the diaspora as soldiers · read by an officer  *[[1:46:00](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6360s)]*
+
+> The Jews of the diaspora were by no means all wealthy. Most of them were poor, earning a meager livelihood from manual labor. Jewish beggars were to be seen on the streets of Rome and Alexandria. To earn a living, some Jews resorted to such peculiar occupations as interpreting dreams or telling fortunes.
+
+> There was a time when the Jews were famed for their fighting qualities,
+
+- Wait, read that again. So there was a time in history when we was famous for our fighting qualities, our fighting skills.
+
+> and were hired as soldiers in various armies.
+
+- Hired as what? Hired as soldiers. So we were being hired out in various armies, as mercenaries.
+
+> This was true especially for several centuries following the Maccabean wars,
+
+- So he's saying, look, this was true especially several centuries after what? Following the Maccabean wars.
+
+> when everyone knew how well Jews had fought.
+
+- So after the Maccabees, they was like, damn, yo, these brothers is bad. I don't know how we supposed to stop them. So after the Maccabean wars, they said everyone knew how well Jews had fought. Even before that, way before that, with King David. We always was bad. Like I said, they had us as bodyguards in their armies.
+
+> Subsequently this occupation ceased to be common among the Jews of the Roman Empire, though in Parthia Jewish mercenary soldiers continued to exist for centuries.
+
+- So we was still fighting for the Persian military, centuries after.
+
+- From there, go to the Telegram now. I forgot what book this is. Let's deal with Spartacus. We're going to deal with Spartacus. Click on that, Spartacus. And you had another slave that rebelled, named Eunus. So we're going to deal with Spartacus and Eunus. Blow that up. Read that, just to highlight it.
+
+</div>
+
+<div class="reading">
+
+Reading from a history of Rome (the title was not given), on Spartacus · read by an officer  *[[1:48:30](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6510s)]*
+
+> In Sicily, which supplied Rome with so great a quantity of corn, the number of agricultural slaves was immense. The oppression
+
+- Give me before. Give me Spartacus first. Yes, thank you.
+
+> Spartacus was a Thracian by birth, and had been compelled, like other barbarians, to serve in the Roman army,
+
+- So wait. Read that again. Watch this: Spartacus was proving our point. Spartacus was a Thracian by birth. So he was an Israelite. I'll prove that.
+
+- So they always forced us in their armies. When they took us captive, they forced the more skilled amongst us and put us in the army as like bodyguards and so forth.
+
+> from which he had deserted, and at the head of a body of chosen companions had carried on a partisan war against the conquerors.
+
+- So this is 73 BC, what just went down.
+
+> Being made prisoner, Spartacus was sold as a slave, and his strength and size caused him to be reserved as a gladiator.
+
+- They say, yo, damn, this dude big, so let's use him as a gladiator.
+
+> He was placed in a gladiatorial school at Capua, with 200 other Thracian, German and Gaulish slaves, among whom a conspiracy was formed for effecting their escape. By the courage and skill of Spartacus several considerable battles were gained, but his authority was insufficient to restrain the ferocity of his followers, and the cities of the south of Italy were pillaged with the most revolting atrocities.
+
+- Right. So this happened, like I said, 73 BC, with Spartacus. Y'all seen the series, *Spartacus*, and so forth, even though the nonsense they got in there. But hey, Spartacus was one of those great men that rose up during this time period. He was noted, but like I said, they wasn't noted in the scriptures, because why? They wasn't keeping God's laws.
+
+- Now, to prove that Spartacus was an Israelite, pull that page up from the Telegram. Scythians, Goths. Pull that up.
+
+</div>
+
+<div class="reading">
+
+Reading from a page sent on the Telegram, on the Scythians, Getae, Thracians and Goths · read by an officer  *[[1:51:29](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6689s)]*
+
+> The Scythians, Getae, Thracians and Goths having thus been traced to one common origin, or as being rather different names for the same people,
+
+- So they're different names for the same people.
+
+> there can be no reasonable doubt but that these represented the descendants of the ten tribes,
+
+- Who what?
+
+> who had escaped from the Assyrian captivity. And it has also been seen that some of these migrated into Asia Minor, and thus joined the Greco-Israelites in their colonies there.
+
+- So the Scythians, the Getae, the Thracians, the Goths: they were Israelites from the ten tribes that escaped from the Assyrian captivity. So obviously Spartacus was an Israelite, of the northern kingdom.
+
+- Now from there, go back to the book. I want Eunus. Now what you'll see about Eunus, this brother, you could parallel him with Nat Turner. We going to get into that too.
+
+</div>
+
+<div class="reading">
+
+Reading from the same history of Rome, on the servile wars in Sicily and Eunus · read by an officer  *[[1:53:01](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6781s)]*
+
+> In Sicily, which supplied Rome with so great a quantity of corn, the number of agricultural slaves was immense. The oppressions to which they were exposed drove them twice to rebellion,
+
+- So at this time we twice rebelled.
+
+> and their numbers enabled them to defy for a time the Roman power.
+
+- Read that in between, right there.
+
+> The first of these servile wars began in BC 134, and lasted two years. The second commenced 30 years later, and lasted four years.
+
+- So that second rebellion that's going in, we just read, was Spartacus. So we actually should have read this first, because this was the first one. So Spartacus was that second rebellion, in 73 BC, that lasted four years.
+
+> The Sicilians treated their slaves with extraordinary rigor,
+
+- So remember, this is Roman captivity. We were slaves. We being what?
+
+> branding them like cattle,
+
+- So we was being branded like cattle. We were being branded on this side like cattle.
+
+> and compelling them to toil incessantly for their masters. The history of the revolt offers numerous points of resemblance to that already related, though Eunus, the leader of the Sicilian slaves, cannot be compared either for character or abilities. Eunus, by visions and pretended prophecies,
+
+- But watch this. So we brought this out a couple episodes back. Eunus, by what? By visions and pretended prophecies. Same thing. Remember, those of us that revolted during the Kitos War: remember he said they watched for the stars and so forth. Same thing.
+
+> excited the slaves to insurrection, and his conduct, and that of his followers when they took possession of the city, presented a striking contrast to the moderation of the slaves. They pillaged the houses, and without distinction of age or sex slaughtered their inhabitants, plucking infants from their mothers' breasts
+
+- Who do this sound like? Nat Turner. This sounds like Nat Turner.
+
+> and dashing them on the ground. The number of the insurgents at one time amounted to 60,000 men,
+
+- Dang.
+
+> who, armed with axes, slings, stakes and cooking spits, defeated several armies. Pursuing them, however, without relaxation, the state at length prevailed, utterly crushed the insurrection, and carried Eunus a prisoner to Rome, where, according to Plutarch, he was devoured by vermin.
+
+- Damn. So he was devoured by vermin.
+
+- **Officer:** That sound just like Toussaint, too. Yeah, that's what happened. They took him to France and he died in prison.
+
+- **Deacon Eythan:** Dang.
+
+- **Officer:** And you know they killed him. That's what it's saying right there. That's the same way they revolted against the French military, with exactly the same. Because remember, they was slaves on farms. So they used the weapons that they had.
+
+- **Deacon Eythan:** Read that part.
+
+> Long after it had become the custom to employ large gangs of slaves in the cultivation of the land, the number of those who served as personal attendants was very small.
+
+- Right. So this is slavery in the Republic of Rome. In the Republic, before it became the empire. It was the empire too, but remember, it started during the Republic.
+
+- **Officer:** It's in our spirit. It's in our spirit to revolt. Yeah. We know we ain't supposed to be captives. Kings and priests.
+
+- **Deacon Eythan:** Damn, bring it out. Now let's jump to this. Let's come to this side of the world now. Give me Nat Turner. No, I don't want him yet. Give me the book with the Maroons. The Maroons.
+
+- **Officer:** Nèg. You say that: the E is silent. That's French.
+
+- **Deacon Eythan:** Oh, my bad. So the E is silent. That's French. Just take the E out and put the O, you got Negro. Negro Maroon. All right, all right.
+
+- **Officer:** There's a statue in Haiti with the same thing as that picture.
+
+- **Deacon Eythan:** This is on the island of Dominica. Go back to the title, man. Right there: *The Fighting Maroons of Dominica*. Go to the first page. Come on. Right there.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speech for the unveiling of the Neg Maron emancipation statue, delivered by the author at People's Park, Roseau, 1 August 2013 · read by an officer  *[[1:58:55](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=7135s)]*
+
+> A lasting memorial. Speech for unveiling of the Neg Maron emancipation statue, delivered by the author at People's Park, Roseau, 1 August 2013.
+
+- Hey, you got a link too for Cudjoe?
+
+- **Officer:** Yes. Yeah, yeah.
+
+- **Deacon Eythan:** Pull that up too, man. Go ahead.
+
+> Your Excellency the President and Mrs. Williams, acting Prime Minister, Honorable Ambrose George, Minister of Culture, Youth and Sports, Honorable Justina Charles, other members of cabinet and the House of Assembly, Mayor of Roseau,
+
+- You can skip all that. Next page. Briefly.
+
+> Briefly, Dominica was the last island in the Caribbean to be colonized. Its rugged mountainous nature enabled it to be one of the last places of refuge. When the British took over the island in 1763, there were already over 300 Maroons living in small settlements in the interior. As British and French planters opened up more land for sugar and coffee and imported more enslaved labor, so did the maroon numbers increase. Plantations and villages clung to the coast, but inland there was a vast jumble of forested ravines, cliffs and river valleys that combined to create a complex natural maze, which confounded the British forces who had attempted to reduce the Maroons by any means possible.
+
+- Right. Read that caption right there.
+
+> The emancipation Neg Maron statue on Victoria Street, Roseau, unveiled on August 1st, 2013.
+
+- That's a statue right there. He was a maroon that rebelled.
+
+- **Officer:** Hold up. Let me send you something, man. I'm going to send you a picture.
+
+- **Deacon Eythan:** Hey, while he's doing that: remember you had others. You had Gaspar Yanga. Gaspar Yanga was from near Equatorial Guinea, Cameroon, or over there; in the area like Angola. That's where Gaspar Yanga was from. He was another one that rebelled. You get that?
+
+- **Officer:** This the one. Wow, look at this. Right there. Go up. You see the sword in his hand? Machete. That's in Haiti. So they all got the similar trait.
+
+- **Deacon Eythan:** Similar spirit. Similar spirit.
+
+- **Officer:** Got to send you another one. Oh, right there, right there. The machete right there.
+
+- **Deacon Eythan:** Hey, remember we watched the video. You see the chain on his feet? So that's him blowing the horn. Just like when you reading Numbers: you go to war, blow the trumpet. They had a trumpet, so they made one out of, what's that, a conch. That's the same thing you had with the Benjamin brother. That's bad. You got the machete in the hand. Like I said, remember we watched the video with the older brother from Haiti. He was training Esau now with the machete. Remember he said it was a lost art, and that was used for the rebellion, for the revolt, 1804 in Haiti. Go back.
+
+> The call of the conch shell echoed across the valleys, sending messages and warnings from camp to camp, from one leader to the other.
+
+- **Officer:** That's what that was. The call of the conch shell. That's what he's holding right there.
+
+- **Deacon Eythan:** Oh, right. Okay.
+
+- **Officer:** That's what I was saying: they didn't have the horn. So that's what they used for a horn. And when you blow that thing, it sound just like a horn. They still do it. They still practice it. But where we get it from? It was in our spirit.
+
+- **Deacon Eythan:** Remember when we read with the revolt in Egypt, Cyprus, Libya, Judea: we all was on one accord. We all came together in unity. How you think we did that? Maybe we had a shofar at this time, blowing it.
+
+- **Officer:** Hey, remember in Numbers, when the Most High give us the trumpets: one sound to gather the people, and a different sound for the left flank and the right flank. You understand? That's the same thing he's saying right here. They was calling each other by different sounds, from one leader to the next leader, sending messages.
+
+> The name maroon had come from the Spanish word cimarrón, meaning fugitive, runaway, living on mountaintops,
+
+- So he's saying maroon come from cimarrón, meaning a fugitive, a runaway, or living on mountaintops.
+
+> from Spanish cima, top, summit. It was adopted by the English and was anglicized into maroon.
+
+> For the French Creoles it became nègre marron, for in those days the word nègre did not merely mean black man or Negro. It also referred to a slave.
+
+- Right. So they knew we black, so they just called us so. Negro also refers to a slave. Like, look: he black, he a nègre, he a Negro, he a slave.
+
+> This memorial that we are about to unveil recalls the Neg Maron chiefs, such as Bala, Congo Ray,
+
+- So these are the men right here. You can look these men up, these Maroons that revolted, that rebelled. So Congo Ray, obviously he from where? Congo. They got him from the Congo, so he was called Congo Ray.
+
+> Jacko, Cicero, Zombie,
+
+- Now Cicero sound like Italian. Cicero, yeah. Now when you look over here in the US, you had what was called the Stono Rebellion. We'll get into that another time. But the Stono Rebellion: a lot of us was coming from the Congo, Angola. They was getting us from over there. So a lot of us, like Congo Ray, was coming from the Congo, that was rebelling.
+
+> Jupiter, Juba,
+
+- Damn. One brother named Zombie. Damn.
+
+> Sandy, Quashi, Nico, Hall and many others.
+
+- And many others.
+
+> And there were numerous women among them, women such as Charlotte, Calypso, Angelique, Mary Rose, Tranquil, Rose, Victoria and Rachel,
+
+- So you had women amongst us that was revolutionary women. Nationalists. Not ostriches. They were for their people.
+
+> and hundreds of other unrecorded names, who from the 1760s through to the first stage of emancipation in 1834 held out against the plantation forces that were pitted against them. It is significant that most of the senior chiefs had actually been born in Africa,
+
+- Hold on. So he says it is significant that most of the senior chiefs of these rebellions, of these revolts, were born in Africa. Now he's saying something there.
+
+> for unlike the Creole, Dominican-born slaves, these Africans had once lived in and experienced a society other than the plantation society.
+
+- So look, it wasn't about that. We had a life, a whole life, before coming over here in slavery. We were civilized. So he's saying there was two differences. Those of us that was born here, they able to mold us. But now the slaves that you bringing from Africa, like the officer said before, like Toussaint and them, they was already warriors, that you bringing from over Africa and so forth. So of course they're going to be the ones. A lot of them was kings. A lot of us was kings, warriors, princes.
+
+- **Officer:** Hey, listen. Like in Haiti, a little off topic: the capital, named Port-au-Prince in French, but in English it's port of prince. Port meaning this is where the docking was, at the port that was bringing out the princes.
+
+- **Deacon Eythan:** Oh, snap. Oh, come on, man. You going to drop something like that right now?
+
+- **Officer:** That's what I'm saying. They knew that there was princes. They knew what they was bringing over.
+
+- **Deacon Eythan:** Wow. All right, that was bad. That was bad. Let me get another bomb on that one, man. Hey, keep reading, keep reading, keep reading.
+
+> They knew that an alternative system could exist, and they had no difficulty imagining that it could be recreated here on the other side of the Atlantic.
+
+- That was the point that would cause a rebellion. Just like during the revolt of the Kitos Wars: remember it said that the old men was instilling that heroism of what it was like before. Same thing here. When we was in Africa, we knew. Like, nah, we about to rise up over here. We not about to go through this. This is not how we live. I'm not about to let this man chain me up when I had a whole life on the other side.
+
+> In one way I had hoped that this statue would have been erected in a prominent place in the mountainous heartland of our island home, for in those hills the statue would overlook the mighty green citadel of jagged peaks that was the place of liberty and freedom. It was a sanctuary for those who escaped the system and fought to overturn the institution of enslavement that had been imposed upon them. For up there, among those forested mountains, was truly their land of Zion.
+
+- Yeah. We knew, like, look, we going to make this our land of Zion right here.
+
+> Instead, the symbolic representation of maroon heritage has been placed here, on this hill in the center of the nation's capital. Within a few hundred yards in every direction there are places that were, for many of the Maroons, the site of arrival, the site of sale, the place of punishment and the point of death. For this area was indeed their Babylon.
+
+- So this area was their Babylon.
+
+- **Officer:** And that's Benjamin: always talk about Zion and Babylon in their song.
+
+- **Deacon Eythan:** Yep, yep, yep. There it is. Read that part, and then we going to get that Cudjoe that you got, and then we going to get ready to end the show.
+
+> Just down the hill, in the harbor below us, anchored the slave ships that had completed the treacherous Middle Passage across the Atlantic Ocean from the coast of West Africa. There on that coast, renegade chiefs, not unlike the heartless drug lords and cocaine dealers of today, had connived with European traders to engage in human trafficking, in return for the equivalent of bling and ill-gotten gain.
+
+- So that's them drug dealers and so forth. That's what they're doing today. From there, hey, let's get that Cudjoe. You post that link?
+
+- **Officer:** Yeah, I sent it.
+
+- **Deacon Eythan:** Hey, why you looking for that, man? Let's get the Numbers real quick, with the trumpet.
+
+- **Officer:** To show, like it was reading earlier, where they was blowing that … shell to communicate with other freedom fighters. That's why I call them that. So this is Numbers 10. Let's start verse 1.
+
+</div>
+
+**[Numbers 10:1-6](/bible/numbers/10#v1)**  *[[2:11:49](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=7909s)]*
+
+> <sup>[1](/bible/numbers/10#v1)</sup> And the Lord spake unto Moses, saying,
+>
+> <sup>[2](/bible/numbers/10#v2)</sup> Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.
+
+- **Officer:** See that? So that's what the trumpet was there for. So they knew. They knew who they were. They understood each other.
+
+> <sup>[3](/bible/numbers/10#v3)</sup> And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.
+
+- **Officer:** So a different sound was for a different type of engagement.
+
+> <sup>[4](/bible/numbers/10#v4)</sup> And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee.
+
+> <sup>[5](/bible/numbers/10#v5)</sup> When ye blow an alarm, then the camps that lie on the east parts shall go forward.
+
+- **Officer:** So the military part that's on the east shall go forward.
+
+> <sup>[6](/bible/numbers/10#v6)</sup> When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.
+
+- **Officer:** See that? So there was different sounds. So they understood that, and that's how they was able to be successful in their uprising against the oppressors. It's the same spirit.
+
+- **Deacon Eythan:** Right. Hey, read that about Cudjoe.
+
+<div class="reading">
+
+Reading from a page on Cudjoe, the maroon leader in Jamaica · read by an officer  *[[2:13:16](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=7996s)]*
+
+> Cudjoe, 1660s to 1764, sometimes spelled Kojo, was a maroon leader in Jamaica during the time of Nanny of the Maroons. Kojo is the name given to a boy born on a Monday. He has been described as the greatest of the maroon leaders. The Jamaican Maroons are descended from Africans who conquered enslavers and established communities of free black people in Jamaica,
+
+- Go ahead.
+
+> in the mountains of the colony of Jamaica during the era of slavery on the island. Enslaved Africans imported during the Spanish period may have provided the first self-liberated Africans, runaways, apparently mixing with the Native American Taíno or Arawak
+
+- Okay. Go ahead.
+
+> people that remained in the country. Some may have gained liberty when the English attacked Jamaica and took it in 1655, and subsequently. Cudjoe was the leader of a community of self-liberated Africans known as Cudjoe's Town for nearly a century, until the 1739 and 1740 peace treaties with the British rulers of the island. The Maroons victoriously resisted conquest.
+
+- Give me the origin of Cudjoe, real quick. Real quick, real quick.
+
+> Enslaved Africans in western Jamaica ran away into the Cockpit Country and established the first community of Leeward Maroons in the mountainous interior of the island. The self-liberated Africans were called Maroons, after the Spanish word cimarrón, meaning runaway slave. The Leeward Maroons most likely emerged in 1690, when there was a rebellion on Sutton's estate in western Jamaica,
+
+- Come on, move it, move it, move it.
+
+> and most of these enslaved Africans ran away to form the Leeward Maroons.
+
+- That's it. And you know Esau tried to mock us. Now they made the movie called *Cujo*, about the dog. That came out way back, like early 80s. That's them mocking us. Cujo: they call the dog Cujo. So they mocking us.
+
+- Let's get one more. One more, one more. On the Telegram also. This just got sent, at the bottom. Read that real quick. Dominican Black History. So this is Dominican. Go ahead.
+
+</div>
+
+<div class="reading">
+
+Reading from a post from Dominican Black History, on the anti-slavery rebel leader of Hispaniola · read by an officer  *[[2:15:50](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8150s)]*
+
+> Meet Sebastian Limba, the first anti-slavery rebel leader in the Americas.
+
+- Blow it up for him. We got to read fast.
+
+> Haiti is one of the most emblematic countries in the Americas, for being the first to constitute a republic of formerly enslaved black people after a bloody revolution led by Toussaint L'Ouverture and Jean-Jacques Dessalines in 1791. However, 150 years earlier, in the neighboring Dominican Republic, a man emerged who would also go down in Dominican black history, becoming known as one of the greatest anti-slavery leaders in the Americas.
+
+- Damn.
+
+> Sebastian Limba was a former slave who had led a rebellion against slavery on the island of Hispaniola, becoming one of the first to start the fight against slavery in the Americas.
+
+- Saying he one of the first to pop it off over here.
+
+> Limba is an important figure in black history, and he is revered as a national hero in the Dominican Republic, with a statue in his honor. It is not known exactly when he was born, but it is known that he was born in Africa, probably a member of the Limba tribe on his mother's side, and a member of the Columbo tribe of the Congo people on his father's side,
+
+- So you see that: the Congo. Man, I told you something about the Congo. So the Dominicans can't say me no negro no more.
+
+- **Officer:** No, they can't say that no more.
+
+- **Deacon Eythan:** You can't say that no more.
+
+> which is perhaps where his surname comes from.
+
+- You got a picture of him? Go up, go all the way up. That's right there. Move that out the way. Hey, look at that. You can't say me no negro. Look at that man. Look at the lips.
+
+- **Officer:** Hey, they still saying it. They don't give a damn about him. The statue right in their face; they see it every day.
+
+- **Deacon Eythan:** Oh, man, that's crazy, man. Damn. That's your freedom fighter, but then you say, me no negro. Wow.
+
+</div>
+
+## In Closing
+
+*[[2:17:53](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8273s)]* Hey, but we going to end it right there. Hey, we get into Nat Turner next show, Lord's will, life lasts, with those that revolted throughout history, man. Showing you, look: we the same people doing the same thing, going through oppression. Why? Because oppression do what? Make a wise man mad. You understand? But now we know. We use the scriptures now, to control that anger that we once had, to rebel. So we going to end it there.
+
+**Officer:** Yes, sir. Let's give a round of applause once again for the radio show.
+
+**Deacon Eythan:** Amazing, amazing. Damn, it just said no round of applause. No shout out then. Okay. Yo, did you delete that thing? Oh, the footage.
+
+*[[2:19:35](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8375s)]* Hey, listen: to give your feedback on the IT, please scan the QR code on here to fill out the form. The IT team, they did good. I'm about to scan it right now. They don't have Bishop. They don't have Bishop's This Is War. Damn, bro. We got the limited package. We ain't get the exclusive package yet. Limited sound bites. Wow. Hey, I'm going to give a shout out to IT. I'm going to be nice, man. Shout out to IT. Hey, shout out to the sisters that came and made the breakfast for us this morning.
+
+*[[2:20:10](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8410s)]* Also, hey, so you know: next show, life lasts, we going to still be getting into the revolt a little bit. Then, like I said, it's coming: we going to be dealing with Ishmael, the Arabs. We going to be going into the Arabs and so forth. So after we deal with the revolt, that's what we going to be dealing with: the Arabs. But we still dealing with the revolt. We going to get into Nat Turner, and those on this side that rebelled. And hey, listen, tune in. I forgot what episode they on; I think they on episode a thousand. But tune in, man, bringing that heat. So with that, we're going to say shalom. Most High Christ bless. Israel, Christ bless.
+
+## Announcements & References
+
+*[[2:18:49](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8329s)]* We need everybody to subscribe to IUIC Philadelphia's YouTube channels. We have IUIC Philadelphia; we have IUIC Philadelphia in the Classroom, for more content from Philadelphia. You could donate to the OHH radio show at iuic.philadelphia@israelunite.org. You can also donate to the Booster Club at iuic.fundraising@israelunite.org. And last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+
+Sources read from in this episode:
+
+- *The Southern Literary Messenger*, devoted to every department of literature and the fine arts (1800), on the Negro in the ancient world as slaves at all times and in all places (read by an officer).
+- *Wars of the Jews: A Military History from Biblical to Modern Times*, Hippocrene Jewish History Series: Trajan's war, the Second Zealot Revolt on five fronts, Julianus and Pappus, and Lucius Quietus (read by an officer).
+- *History of the Jews*: the Jewish youth who had not lost the habit of using weapons in the schools; and page 141, the Jews of the diaspora hired as soldiers after the Maccabean wars (read by an officer).
+- A Jewish encyclopedia, under Sports: martial arts in biblical times (read by an officer).
+- *The Israelites* by Time-Life, Masters of the Martial Arts: the archer and spearman from Judah as bodyguards to the Assyrian king (read by an officer).
+- *Historic Sketches of the South* (1800), a footnote on the effigies of Negroes drawn by six nations of antiquity (read by an officer).
+- A history of Rome, title not given, on Spartacus and on Eunus and the servile wars in Sicily (read by an officer).
+- A page sent on the Telegram on the Scythians, Getae, Thracians and Goths as the ten tribes (read by an officer).
+- *The Fighting Maroons of Dominica*, the speech "A Lasting Memorial" for the unveiling of the Neg Maron emancipation statue, Roseau, 1 August 2013 (read by an officer).
+- A page on Cudjoe and the origin of the Leeward Maroons of Jamaica (read by an officer).
+- A Dominican Black History post on Sebastian Limba (read by an officer).
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=iRSZ1SPOWKE)
