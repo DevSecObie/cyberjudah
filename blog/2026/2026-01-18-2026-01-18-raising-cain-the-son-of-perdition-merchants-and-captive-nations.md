@@ -21,17 +21,15 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
 
 ## In The News
 
-- *[[33:16](https://www.youtube.com/watch?v=36emQd9wjts&t=1996s)]* **Reports say the Justice Department dropped its claim that Venezuela's Cartel of the Suns is a real organization, and a 1993 60 Minutes segment shows a former DEA head saying the CIA and a Venezuelan general moved a ton of cocaine into the United States.** — The pattern is to criminalize a leader with a drug narrative. The only cartel by that name was the CIA's own operation.
-- *[[46:14](https://www.youtube.com/watch?v=36emQd9wjts&t=2774s)]* **An article describes how US forces blinded and destroyed Venezuela's Russian and Chinese air defenses within minutes, and Trump says the lights of Caracas were turned off by 'a certain expertise.'** — No nation can stand against this power. Only God will bring it down.
-- *[[55:44](https://www.youtube.com/watch?v=36emQd9wjts&t=3344s)]* **The chairman of the Joint Chiefs of Staff, General Dan Caine, is nicknamed 'Razin' after the idiom raising Cain, meaning to raise hell.** — The top officer over the rumors of war carries Cain's name. They put it in plain sight.
+- *[[37:46](https://www.youtube.com/watch?v=36emQd9wjts&t=2266s)]* **A 1993 60 Minutes segment shows a former DEA head saying the CIA and a Venezuelan general moved a ton of cocaine into the United States.** — The pattern is to criminalize a leader with a drug narrative. The only cartel by that name was the CIA's own operation.
+- *[[51:43](https://www.youtube.com/watch?v=36emQd9wjts&t=3103s)]* **Trump says the lights of Caracas were turned off by 'a certain expertise.'** — No nation can stand against this power. Only God will bring it down.
 - *[[1:24:10](https://www.youtube.com/watch?v=36emQd9wjts&t=5050s)]* **Trump calls Venezuela and Colombia 'sick,' warns Venezuela's vice president she could face worse than Maduro, and boasts that the raid was 'very violent.'** — Obadiah's 'who shall bring me down?' is the voice of Esau, who takes comfort in violence.
 - *[[2:11:56](https://www.youtube.com/watch?v=36emQd9wjts&t=7916s)]* **Trump says the only limit on his use of military force is his own morality.** — The son of perdition exalts himself above all that is called God.
-- *[[2:18:12](https://www.youtube.com/watch?v=36emQd9wjts&t=8292s)]* **Venezuela's vice president blames a Zionist attack, and María Corina Machado promises to move Venezuela's embassy to Jerusalem and later gives Trump her Nobel Peace Prize.** — They know where the power lies. They oppress a man and his heritage, taking identity as well as resources.
-- *[[2:37:32](https://www.youtube.com/watch?v=36emQd9wjts&t=9452s)]* **An Israeli tourist is accused of starting fires in Argentina's Glaciares National Park, and a guest on a political show complains that most of Congress takes money from AIPAC for a country with no resources.** — Those who say they are Jews and are not need America's power to keep up the lie and take the land.
-- *[[2:59:39](https://www.youtube.com/watch?v=36emQd9wjts&t=10779s)]* **A report on the School of the Americas, which trained over 60,000 Latin American officers in torture, coercion and death squads, including Noriega and Ríos Montt.** — Rome set up and removed kings; America does the same. They set up kings, but not by me.
+- *[[2:28:43](https://www.youtube.com/watch?v=36emQd9wjts&t=8923s)]* **María Corina Machado promises to move Venezuela's embassy to Jerusalem and later gives Trump her Nobel Peace Prize.** — They know where the power lies. They oppress a man and his heritage, taking identity as well as resources.
+- *[[2:39:15](https://www.youtube.com/watch?v=36emQd9wjts&t=9555s)]* **A guest on a political show complains that most of Congress takes money from AIPAC for a country with no resources.** — Those who say they are Jews and are not need America's power to keep up the lie and take the land.
+- *[[3:03:57](https://www.youtube.com/watch?v=36emQd9wjts&t=11037s)]* **A report on the School of the Americas, which trained Latin American officers in torture, coercion and death squads, including Noriega and Ríos Montt.** — Rome set up and removed kings; America does the same. They set up kings, but not by me.
 - *[[3:09:36](https://www.youtube.com/watch?v=36emQd9wjts&t=11376s)]* **A speaker says the Third World is not poor but overexploited, stripped of its timber, cocoa, tin, copper, rubber and slaves.** — That is the merchandise of Revelation 18, down to slaves and souls of men.
 - *[[3:19:51](https://www.youtube.com/watch?v=36emQd9wjts&t=11991s)]* **Venezuelans march in support of Maduro while the celebrations shown on television are in Miami.** — The revelation of the son of perdition is waking the northern kingdom. It cannot be put back in the box.
-- *[[3:31:20](https://www.youtube.com/watch?v=36emQd9wjts&t=12680s)]* **An article defines blanqueamiento, the policy of whitening the population through mixing and a caste system in the post-colonial Americas.** — The enemy sowed tares among the wheat. God will sort his people at the harvest.
 - *[[3:48:48](https://www.youtube.com/watch?v=36emQd9wjts&t=13728s)]* **A Hebrew Israelite explains that the identity is not new but an unbroken chain, and that waking up to it baffles the world.** — The scattering that was a curse also preserved Israel. Now they are coming back together.
 
 ## Scriptures Opened
@@ -51,6 +49,142 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
     Seek ye out of the book of the Lord, and read: no one of these shall fail.
 
 
+<div class="reading">
+
+Reading from a quote on capitalism, put up on the screen  *[[31:18](https://www.youtube.com/watch?v=36emQd9wjts&t=1878s)]*
+
+> Capitalism is based on ridiculous notion that you can enjoy limitless growth in a closed finite system.
+>
+> In biology, such behavior of cells is called cancer.
+
+- So it's linking cancer to capitalism, and it's such a good brief way to understand it. What it means is there's limits to it based on the way the money is structured, based on who it goes to. In its simplest form, what it's telling you is that it does harm and the body suffers from it when you try to run things in a capitalistic way. Meaning there is never enough under capitalism to go around for everybody.
+
+- The world is not in a real famine as far as not enough crops, as far as not enough food, as far as not enough medical science and medicines and things like that. It's access to those things that are controlled under the capitalist closed loop system. So whenever you try to break that status quo, where the rich, and people like to go deep in this, the Rothschilds and so on and so forth up the chain, when you're going to pull away from that system, they come in with this pattern of behavior and they say that you're a drug dealer and the like.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a post by Oliver Stunkle  *[[33:43](https://www.youtube.com/watch?v=36emQd9wjts&t=2023s)]*
+
+> Justice Department drops claim that Venezuela's Cartel de los Soles is an actual group.
+
+- So after all this shooting down boats and all this stuff, and drugs, drugs, drugs, we got to do it for drugs, drugs, drugs. Mind you, this is what they said to Gaddafi, this is what they said to Noriega, any world leaders that try to do something for their people. This is what they wind up saying. Or what's the new one now with like Burkina Faso and them? Christianity. It's an attack on Christians. They look for things that people can say, okay. And then most people are dumb. Lemmings. You ever heard the term lemmings? Like they'll just jump off a cliff. They just follow behind this stuff. So now they dropped this claim.
+
+> Before capturing Maduro, the Trump administration designated a Venezuelan slang term for drug corruption in the military as a terrorist organization and said he led it.
+
+- So, they're letting you know that it was just a name that they used for anybody in Latin America that they wanted to subscribe to drugs.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a post by Max Blumenthal  *[[35:06](https://www.youtube.com/watch?v=36emQd9wjts&t=2106s)]*
+
+> This is why the DOJ had to downplay its phony Cartel of the Suns allegations against Maduro in its new indictment.
+
+- That's what it means in English.
+
+- So they justified going in and kidnapping him based on that. And then when they indicted him, they said, yeah, that part's not accurate.
+
+> Not only does the Cartel of the Suns not exist as a real criminal syndicate, it was literally founded by the CIA to traffic cocaine into American cities.
+
+- So, it is a cartel, but they don't call it a cartel, but it's the code name for the CIA whenever they do their drug trafficking.
+
+> Here's the 1993 60 Minutes report on how the CIA recruited a Venezuelan military officer, General Ramón Guillén Dávila, to help them ship 22 tons of cocaine into American cities. The Cartel of the Suns disappeared once it lost its utility to the CIA and was resurrected by …
+
+- So, what they mean is they use it whenever they need it. Back in the 90s, they used it as a fake cartel.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an article on the US strikes on Venezuela's air defenses  *[[46:14](https://www.youtube.com/watch?v=36emQd9wjts&t=2774s)]*
+
+> US forces wipe out Chinese and Russian air defense systems in Venezuela.
+>
+> US forces have shattered the core of Venezuela's Russian and Chinese supplied air defenses in a rapid coordinated campaign that cleared the skies for follow-on strikes and special operations. Within minutes, systems that Caracas had touted as a Russian shield against American power were blinded, jammed, or physically destroyed, opening the way for the operation that captured Venezuelan President Nicolás Maduro and reshaped the regional balance.
+
+- And I hate that they're still saying captured. Be plain about it. But if you're the leader of a sovereign country and you go in and we not at war, I mean declared war, and you snatch me up out of my house, me and my wife in the middle of the night. That's kidnapping.
+
+> The dismantling of these defenses was not a single lucky strike, but the product of a large joint force plan that combined stealth aircraft, electronic warfare, cyber operations, and precision weapons. The result was a vivid real-world test of Russian and Chinese technology against US suppression of enemy air defenses, and the outcome is already rippling through global debates over deterrence and arm sales.
+>
+> How the US cracked Venezuela's Russian shield in minutes. American planners approached Venezuela's integrated air defense network as a classic suppression problem, aiming to neutralize radars and missile batteries fast enough that they could not meaningfully respond. Reporting on the strikes describes a layered Russian-built system that was expected to complicate any US attack.
+
+- So this is why Maduro was so confident, where he was like, come and get me and all of that. Because Russia had supplied him with this, and China, and they were like, yeah, they can't come in the way you think they're going to come in because we got this.
+
+> Yet in roughly 20 minutes, US forces eliminated the core of that network, including long range surface-to-air missile sites that had been marketed as capable of deterring advanced Western aircraft. Analysts note that this rapid collapse mirrored longstanding doctrine in which suppression can be achieved either by physically destroying systems or by deceiving the disrupting them through electronic warfare, with the goal of driving down their effectiveness for the rest of a campaign.
+
+- Notice it said either physically or they could disable it by other means.
+
+> Accounts of the opening phase describe a combination of stealth platforms and standoff weapons that targeted key nodes in Venezuela's radar picture. The Russian shield concept, which promised to freeze an adversary's decision-making by presenting a dense wall of overlapping coverage, instead became a liability once US forces mapped its emitters and communications patterns in detail. One assessment argues that what Russia sold was reassurance rather than invulnerability and that Caracas paid for a sense of security that evaporated as soon as American aircraft and missiles began exploiting known vulnerabilities in those Russian systems. The speed of the collapse and the fact that Venezuelan operators apparently never achieved a coherent track on incoming aircraft has already become a case study in how quickly a modern integrated air defense can unravel under concentrated pressure.
+>
+> The combination of stealth, jamming, and cyber activity meant that Venezuelan operators were fighting a ghost.
+
+- They said it was like fighting a ghost. You know, you talk about beating that air, they were fighting a ghost. And you're gonna tell me that this is not that empire, that kingdom that rules over other nations that the scripture talks about.
+
+- And here's the thing you got to understand. Russia's Edom. There's other, but there is one particular group that surpasses all of them. It's their specialty. It's their forte. And that's what we're going to get to in the scriptures in a moment.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an on-screen timeline of the raid  *[[53:53](https://www.youtube.com/watch?v=36emQd9wjts&t=3233s)]*
+
+> 12:00 a.m. to 1:00 a.m. Strike forces move into positions.
+
+- They called it Operation Absolute Resolve. They always put these fancy, they love to name stuff. Enduring Freedom, Glistening Eagle, whatever the hell they put on these operations. Now, they're going to tell you step by step how this happened. And the reason I'm spending so much time on this again, like I said, when we get into these verses, you unequivocally, we know who this Bible's talking about.
+
+> 2:00 a.m. Explosions reported in Caracas, US strikes take out enemies air defenses.
+
+- All those little like four little spots, there's a air base, taking out their air defenses.
+
+> Number three, helicopters move towards Maduro's safe house. Number four, 2 am to 2:30, special forces raid Maduro's complex. Number five, 3:30 to 4:30 a.m. Maduro is extracted and transferred to US naval ship.
+
+- So basically in the span of three to four hours they took down a country's whole defenses, got into the man's house, took him and his wife right in their jammies.
+
+- Probably like, yo, let me get dressed, don't take me in my PJs. Here you go. And then they brought him over there. And you know, it was all staged, because if he was a prisoner, he was on the first plane in a track suit. He gets off the plane and he's in like in a suit. They staged the whole thing up.
+
+</div>
+
+
+<div class="reading">
+
+Reading from two screen grabs on General Dan Caine's nickname  *[[56:33](https://www.youtube.com/watch?v=36emQd9wjts&t=3393s)]*
+
+> The nickname Razin, sometimes stylized as … or …, belongs to General Dan Caine, the current chairman of the Joint Chiefs of Staff, the United States highest ranking military officer.
+>
+> The nickname is a reference to the American idiom raising Cain, which means to cause disturbance, create a commotion, or make trouble.
+>
+> Caine reportedly earned the nickname during his time as a fighter pilot for his aggressive behavior. President Donald Trump frequently recounts meeting Caine in Iraq and being struck by his call sign. The president often made a joke about the spelling. "Razin. Like the fruit." He goes, "Yes, sir. Razin." "What's your last name?" "Caine." "Razin Caine." I said, "You got to be kidding me." General Caine was confirmed to me.
+
+- Why? Because he knows that when you say raising Cain, you ever heard like, damn, he's raising hell. It's synonymous. The top military officer of the United States is called raising Cain.
+
+> Raising Cain is an American idiom meaning to cause trouble, create a commotion, behave disruptively, or get very angry, originating from the biblical figure Cain, the first murderer, suggesting bringing his notorious behavior back to life.
+
+- You ain't even know, and they put it in your face. And here we're all sitting like dumb dums, like, don't be like Cain. Yeah, the Christianity. They soften that thing up. I tell you, man, when that understanding came out, I was like, what the hell? And then I saw this. I said, damn.
+
+> It's a euphemism for phrases like raising hell or raising the devil, used to describe someone causing a loud disturbance or making a big fuss.
+>
+> Origin. It refers to Cain from the Old Testament, Genesis, the son of Adam and Eve, who murdered his brother Abel out of jealousy, embodying wickedness and conflict.
+
+- They know that Cain embodies wickedness and conflict. And the top general that's under all this rumors of war and disturbance is raising Cain. Dan Caine. I mean, look, I haven't even gotten to the verses yet.
+
+> Usage example. The kids were raising Cain at the party last night.
+
+- Like some of your kids in here, the kids were raising Cain last Sabbath.
+
+> Or he'll raise Cain when he finds out his car is missing.
+
+- So they know what they're talking about.
+
+</div>
+
+
 **[Genesis 4:3](/bible/genesis/4#v3)**  *[[1:00:33](https://www.youtube.com/watch?v=36emQd9wjts&t=3633s)]*
 
 > <sup>[3](/bible/genesis/4#v3)</sup> And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord.
@@ -64,6 +198,21 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
     > <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 
     Jacob have I loved, but Esau have I hated.
+
+
+<div class="reading">
+
+Reading from a definition of Satan  *[[1:06:09](https://www.youtube.com/watch?v=36emQd9wjts&t=3969s)]*
+
+> Satan or Shaitan.
+
+- Shatan. Now you see the fake Jews say that. Oh, Shatan.
+
+> Literally means adversary, accuser or opposer in Hebrew, a related Semitic languages, derived from a verb meaning to obstruct or to oppose.
+
+- It's so important to understand that core definition, because that's what drive. So people think we're nuts when we say everything that they do is about us. They were made for that purpose, to obstruct and oppose us, because God purposed that from the beginning.
+
+</div>
 
 
 **[Genesis 4:8](/bible/genesis/4#v8)**  *[[1:06:55](https://www.youtube.com/watch?v=36emQd9wjts&t=4015s)]*
@@ -249,6 +398,34 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
     Woe to them that devise iniquity; when the morning is light, they practise it, because it is in the power of their hand.
 
 
+<div class="reading">
+
+Reading from a report on Venezuela's vice president  *[[2:18:46](https://www.youtube.com/watch?v=36emQd9wjts&t=8326s)]*
+
+> Venezuela's vice president, Delcy Rodríguez, claims the country was attacked by Zionists seeking to enslave the nation.
+>
+> She insists Venezuela will ignore the Trump administration's instructions on who can become the next president. Rodríguez says the entire country is mobilized and the Nicolás Maduro remains the legitimate leader.
+
+- So, don't just think this was about resources. I want you to see that there's another component to this.
+
+- Now she's softened a little bit. I think as she's realized what he did and what came out, seems like she's working with him a little bit. I don't want to say she's been like kind of rolled over, but maybe she's just realizing, what can I do, at least I can still try to maintain some semblance of authority.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a news report on fires in the Argentinian Patagonia  *[[2:37:39](https://www.youtube.com/watch?v=36emQd9wjts&t=9459s)]*
+
+> Israeli tourists caught causing huge fires in Argentina in a forest full of natural resources. An Israeli tourist was caught lighting fires in Glaciares National Park in the Argentinian Patagonia a couple of days ago. Now Argentinian authorities are reporting that they found M26 IM grenades used by the Israeli military spread around Lake Epuyén in Chubut as well.
+
+- A tourist. That's Mossad that they sent over there. That's their intelligence agency.
+
+- So they started these massive wildfires. And there's the picture of one of the Israelis that they caught setting the fires. So they need America's influence there because they want to take up what's there. And it's not just for resources. They actually don't produce anything. Like that's the other thing that you know that they're not our people.
+
+</div>
+
+
 **[Hosea 12:7](/bible/hosea/12#v7)**  *[[2:44:06](https://www.youtube.com/watch?v=36emQd9wjts&t=9846s)]*
 
 > <sup>[7](/bible/hosea/12#v7)</sup> He is a merchant, the balances of deceit are in his hand: he loveth to oppress.
@@ -256,6 +433,17 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
 - He is a merchant; the balances of deceit are in his hand. Babylon is first a commercial empire enforced by military power.
 
 - Ephraim picked up these practices and trusted the nations, and that is why Israel watched for a nation that could not help.
+
+
+<div class="reading">
+
+Reading from a report on Trump's bond purchases  *[[2:47:15](https://www.youtube.com/watch?v=36emQd9wjts&t=10035s)]*
+
+> He purchased Netflix Warner Brothers bonds in the days after the deal was announced, valued at up to 2 million.
+
+- Because, you know, he's trying to benefit from it. So they love gain, they trust in wealth, they oppress through commerce.
+
+</div>
 
 
 **[1 Maccabees 1:41](/bible/1-maccabees/1#v41)**  *[[2:48:21](https://www.youtube.com/watch?v=36emQd9wjts&t=10101s)]*
@@ -278,6 +466,40 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
     > <sup>[4](/bible/hosea/8#v4)</sup> They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.
 
     They have set up kings, but not by me: they have made princes, and I knew it not.
+
+
+<div class="reading">
+
+Reading from a graphic of US military interventions in Latin America  *[[2:57:43](https://www.youtube.com/watch?v=36emQd9wjts&t=10663s)]*
+
+> 56 US military interventions in Latin America.
+
+- The number is not the number of one, two, three, four, five, six. It's how many times they did it. So when you see the number, it's the number of US military interventions since 1890. US troops currently on the ground is the little soldier figure, and US military bases including troops is the tanks.
+
+- Nine times they've intervened in Panama since 1890. Eight times in Nicaragua, eight times in Honduras. In Guatemala three times. Mexico two times. El Salvador two times, Cuba six times, Haiti four times, Puerto Rico two times, Dominican Republic four times. Even Grenada got the smoke one time. Venezuela one time in 2002. Now we know even more. And then look at where they position their military and their bases. Chile, not the stew, the country.
+
+- And what they did was they formalized it. So from 1890 it started with what was called the banana wars, and it was agriculturally focused, when the people tried to nationalize their agriculture. Chiquita Banana, which is an American company. Domino Sugar in Puerto Rico, which is an American company. They tried to say we want our resources. America intervened on behalf of the corporations. Because a lot of the people that are in government in America, they have interest in them or they own them outright.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an article on the Western Hemisphere Institute for Security Cooperation  *[[3:00:53](https://www.youtube.com/watch?v=36emQd9wjts&t=10853s)]*
+
+> The Western Hemisphere Institute for Security Cooperation, WHINSEC, formerly the School of the Americas, is a United States Department of Defense school located at Fort Benning, briefly known as Fort Moore, in Columbus, Georgia. The school being renamed in the 2001 National Defense Authorization Act. The institute was founded in 1946. By the year of 2000, more than 60,000 Latin American military, law enforcement, and security personnel had attended the school. The school was located in the Panama Canal zone until expulsion in 1984.
+
+- So from 1946 to 1984, it was in Panama. Longer history, Panama was part of what was called Gran Colombia. It was a bigger alliance of countries together. It broke off and became Panama with US influence, because they wanted it to be the site of the canal. So they took that from Colombia. A lot of little nuance stuff that they did that proves these verses that we're reading.
+
+> When the institute was still known as the School of the Americas, it had what it described as a hall of fame honoring its most accomplished alumni.
+
+- And its most accomplished, meaning the ones that executed the spirit of Cain. Remember I said it's bewitching if you put yourself in it. Remember I mentioned how the scripture says for us, roots of bitterness, and it says beware unless you become profane like Esau. Some of these guys that they trained became that way. Some of them wound up developing a conscience afterwards and try to change, like Noriega, and then that's when they deposed him.
+
+> It included Bolivian dictator General Hugo Banzer Suárez, drug lord and dictator Manuel Noriega, and Guatemalan general Manuel Antonio Callejas y Callejas.
+
+- Look at the symbol. It's the Western Hemisphere. You see that cross. You see a sword, and you see that torch like the Statue of Liberty. That they're the light, like Lucifer, like that harlot. And they changed it to a more benign name.
+
+</div>
 
 
 **[Revelation 18:12](/bible/revelation/18#v12)**  *[[3:11:15](https://www.youtube.com/watch?v=36emQd9wjts&t=11475s)]*
@@ -310,6 +532,51 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
     > <sup>[9](/bible/amos/9#v9)</sup> For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
 
     I will sift the house of Israel among all nations, yet shall not the least grain fall upon the earth.
+
+
+<div class="reading">
+
+Reading from an article on blanqueamiento  *[[3:31:28](https://www.youtube.com/watch?v=36emQd9wjts&t=12688s)]*
+
+> Blanqueamiento in Spanish or branqueamento in Portuguese, both meaning whitening,
+
+- It means the whitening. They wanted to whiten the northern kingdom tribes that were here.
+
+> was a social, political, and economic practice used in many postcolonial countries in the Americas and Oceania
+
+- People say, how the hell did the southern kingdom stay so black? And it's not true, because … did a class where he said all skin folk ain't kinfolk. You could be black, blacker than the ace of spades, and be the damn seed of Cain.
+
+- And in Oceania. You see our bishops been going to these islands and things like that.
+
+> to improve the race
+
+- They called it mejorando la raza. Among some northern kingdom circles, you still hear that terminology, cuz they encourage you to marry white.
+
+> towards a supposed ideal of whiteness. The term blanqueamiento
+
+- This goes into setting themselves up as a god too.
+
+> is rooted in Latin America and is used more or less synonymously with racial whitening. However, blanqueamiento can be considered in both the symbolic and biological sense.
+
+- Meaning that's where that practice started.
+
+- So, it wasn't just a physical biological thing. It was symbolic as well, because what came behind it was a caste system.
+
+> Symbolically, blanqueamiento represents an ideology that emerged from legacies of European colonialism, described by Aníbal Quijano's theory of coloniality of power, which caters to white dominance in social hierarchy.
+
+- That all that's white is right.
+
+- It is a deep-rooted white supremacist ideology.
+
+> Biologically, blanqueamiento is the process of whitening by marrying a lighter-skinned individual to produce lighter-skinned offspring.
+
+- Now notice it says lighter skinned, meaning it wasn't always a Spaniard. Once you lightened, you would try to go ahead and put other lighter ones to keep the people in that whitening phase, and behind that they created this whole complex caste system of social status. This was what prevails today still, where indigenous and darker people in our countries are not treated with the same level of respect and the white ones are. So you thought it was just Judah that had the dark against the light. Northern kingdom has that same thing going on too, but it was done on purpose. An enemy have done this, have put tares amongst us.
+
+- Here's the thing, they kept track. So they knew, and they had names for every type of mixing, to the point that they knew, regardless of how diluted you were, who still had a father. You can water it down all you want through the woman. But that woman just needs to get with one man, no matter how watered down she's been, that has the seed of an Israelite. And now you get the whole thing to return back to the true heritage.
+
+- This was a sinister way for them to try to destroy the tribes, because they said, wait a second, we found the tribes. And the Bible says this, that, and the other about them, and if they come together, look at all this wealth here. We ain't going to have this. And they didn't have the same level of weapons of mass destruction that they have now. So they couldn't kill us all outright, though they tried. So they said, we going to pollute the royal seed.
+
+</div>
 
 
 **[Hosea 7:8](/bible/hosea/7#v8)**  *[[3:39:18](https://www.youtube.com/watch?v=36emQd9wjts&t=13158s)]*

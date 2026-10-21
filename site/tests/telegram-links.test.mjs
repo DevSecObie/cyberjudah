@@ -12,6 +12,7 @@ test("start params open the page they name", () => {
   assert.equal(startParamToPath("psalms"), "/bible/psalms");
   assert.equal(startParamToPath("classes_2026_the-coming-crisis"), "/classes/2026/the-coming-crisis");
   assert.equal(startParamToPath("truth-shall-make-you-free"), "/truth-shall-make-you-free");
+  assert.equal(startParamToPath("shows_patient-saints-radio"), "/shows/patient-saints-radio");
 });
 
 test("unsafe start params fall back to the front door", () => {

@@ -82,9 +82,50 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 
 - Esau was a cunning hunter, a man of the field; Jacob was a plain man, dwelling in tents. Isaac loved Esau because he did eat of his venison; but Rebekah loved Jacob, because Rebekah knew what the Lord had told her.
 - Feed me, I pray thee, with that same red pottage: red pottage with red meat in it, not cooked all the way. Therefore was his name called Edom, which means red.
+
+<div class="reading">
+
+Reading from *Modern Judaism*, 1830  *[[19:20](https://www.youtube.com/watch?v=IyYFXp99olM&t=1160s)]*
+
+> Esau's descendants are the subjects of extensive traditions, in which the rabbis, with effrontery which we should wonder in any other men, have set at defiance all authentic history and an accurate chronology.
+
+> First, that the descendants of Esau, sworn enemies of the descendants of Jacob, even to the end of the world,
+
+- That's us. So, they will never be your friend. To hell with Miss Laura. To hell with Señor Bob. They don't love you.
+
+> were at first a small nation inhabiting Mount Seir and the adjacent country.
+
+- Mount Seir, I want you to remember that name, Mount Seir.
+
+> As long as the Israelites enjoyed a great and formidable empire in Canaan, but that after the powerful republic of the 12 tribes was destroyed by the Assyrians and Babylonians,
+
+- Meaning we went into slavery.
+
+> they wonderfully increased in number,
+
+- I'm talking about Esau.
+
+> extended their dominion toward the west, spread their colonies far and wide, subjugated Italy, founded Rome and the Roman Empire, at length entirely overturned the Jewish state which had been restored after the termination of the Babylonian captivity, the second temple being destroyed by Titus Vespasian.
+>
+> They hold dominion over all Europe, Esau detaining in captivity his brother Jacob.
+
+> Secondly, that the prophecies of the prophets against Esau, Edom, Seir and the cities of Edom, especially those of Isaiah, Jeremiah and Obadiah, have not yet received their full accomplishment,
+
+- Meaning that we're in the middle of identifying who these people are.
+
+> That this is foretold by the prophets in all their denunciations of the several plagues against the house of Esau, the cities of Edom and Mount Seir, which all belong to Rome and the Christians.
+
+- Those are the same people who they hate Jacob, that so-called blacks, Latinos and Native Americans today.
+
+- I'm just reading the highlights cuz I'm limited in time.
+
+> But, of the Christians, Obadiah says, "There shall not be any remaining of the house of Esau."
+
+- This is future judgment. This is future judgment. We're going to go into that in a moment.
+
+</div>
+
 - Esau said, behold, I am at the point to die: and what profit shall this birthright do to me? He swore and sold his birthright unto Jacob for bread and pottage of lentils. Thus Esau despised his birthright. It was not taken; he sold it.
-- Book read in class, Modern Judaism by John Allen: the descendants of Esau, sworn enemies of the descendants of Jacob even to the end of the world, were at first a small nation inhabiting Mount Seir; after the republic of the twelve tribes was destroyed by the Assyrians and Babylonians, they increased in number, extended their dominion toward the west, subjugated Italy, founded Rome and the Roman Empire, and at length overturned the Jewish state, the second temple destroyed by Titus Vespasian. They hold dominion over all Europe, Esau detaining in captivity his brother Jacob. The prophecies of Isaiah, Jeremiah, and Obadiah against Esau, Edom, Seir, and the cities of Edom, which all belong to Rome and the Christians, have not yet received their full accomplishment; and of the Christians, Obadiah says there shall not be any remaining of the house of Esau. That is future judgment.
-- Sworn enemies even to the end of the world means they will never be your friend. Remember Mount Seir; that name comes back.
 
 **[Genesis 27:1-29](/bible/genesis/27#v1)**  *[[23:51](https://www.youtube.com/watch?v=IyYFXp99olM&t=1431s)]*
 
@@ -203,8 +244,22 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 > <sup>[1](/bible/genesis/36#v1)</sup> Now these are the generations of Esau, who is Edom.
 
 - Now these are the generations of Esau, who is Edom. That is all this verse is for: Esau is Edom.
-- Reading shown on Edom: an ancient kingdom that stretched across the area in the south of present-day Israel, Jordan, and Palestine. Once pushed out of their territories, the Edomites settled during the Persian period in the southern hills of Judea down to the area north of Beersheba, and the people appeared under a Greek form of their old name as Idumaeans, their new territory called Idumaea, a term used in the Hellenistic and Roman periods and mentioned in the New Testament.
-- Image shown: the Treasury carved into the rock at Mount Seir, an Edomite stronghold.
+
+<div class="reading">
+
+Reading from a web page on Edom  *[[44:54](https://www.youtube.com/watch?v=IyYFXp99olM&t=2694s)]*
+
+> Edom was an ancient kingdom that stretched across the area in the south of present-day Israel, Jordan, and Palestine.
+
+- Ain't that something? Ain't that BS going on over there right now?
+
+> Once pushed out of their territories, the … settled during the Persian period in an area comprised in the southern hills of Judea down to the area north of Beersheba. The people appeared under a Greek form of their old name as Idumaeans, and their new territory was called Idumaea, a term used in the Hellenistic and Roman periods, also mentioned in the New Testament.
+
+- That right there is called the Treasury, as in Mount Seir. An Edomite stronghold.
+
+- That's what we just read in Genesis 27. That's the beginning of Esau's perpetual hatred.
+
+</div>
 
 **[2 Esdras 3:12-16](/bible/2-esdras/3#v12)**  *[[46:33](https://www.youtube.com/watch?v=IyYFXp99olM&t=2793s)]*
 
@@ -261,8 +316,39 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 
 - The vision of Obadiah: thus saith the Lord God concerning Edom. Behold, I have made thee small among the heathen: thou art greatly despised. That is the title of this class.
 - How is Esau greatly despised? They seem nice: good morning, good afternoon, sometimes they give you food, some advice, a motivational speech. But the record answers the question.
-- Document read in class, the papal bull Dum Diversas, issued June 18, 1452 by Pope Nicholas V, the first document of the doctrine of discovery: it granted King Alfonso V of Portugal permission to invade, search out, capture, vanquish, and subdue all Saracens and pagans whatsoever, and other enemies of Christ wheresoever placed, and to take their kingdoms, dominions, possessions, and goods, and to reduce their persons to perpetual slavery. Perpetual slavery is perpetual hatred.
-- Definition read: the word Saracen was commonly used in medieval Europe for the peoples of Arabia, and by the medieval period it stretched to cover anybody who was not European.
+
+<div class="reading">
+
+Reading from a page on *Dum Diversas*  *[[58:37](https://www.youtube.com/watch?v=IyYFXp99olM&t=3517s)]*
+
+> Authorized by King Alfonso V of Portugal to fight, subjugate, and conquer those rising against the Catholic faith and struggling to extinguish Christian religion, namely the Saracens
+
+</div>
+
+<div class="reading">
+
+Reading from a linked page on the Saracens  *[[59:02](https://www.youtube.com/watch?v=IyYFXp99olM&t=3542s)]*
+
+> The word Saracen was commonly used in medieval Europe to refer to a person who lived in or near what the ancient Romans knew as Arabia Petraea or Arabia Deserta. Originally meaning Greek or Latin is not known for it with certainty. By the early medieval period, it had come to be associated with Arabian tribes.
+
+- Really, it started going all the way up to everybody else. Anybody else who was not European happened to be a Saracen.
+
+</div>
+
+<div class="reading">
+
+Reading from Afro Legends, on *Dum Diversas* of the Vatican and the organization of slavery  *[[1:02:08](https://www.youtube.com/watch?v=IyYFXp99olM&t=3728s)]*
+
+> The doctrine emerged from a series of 15th century papal bulls, which are official decrees by the Pope that carry the full weight of his ecclesial office. On June 18th, 1452, Pope Nicholas V issued the papal bull Dum Diversas, which initiated the first set of documents that would compose the doctrine of discovery. The official decree of the Pope granted permission to King Alfonso V of Portugal to invade, search out, capture, vanquish, and subdue all Saracens and pagans whatsoever, and other enemies of Christ wheresoever placed, and the kingdoms, dukedoms, principalities, dominions, possessions, and all movable and immovable goods wheresoever held and possessed by them, and to reduce their persons to perpetual slavery.
+
+- To everlasting slavery, like everlasting hatred, perpetual hatred. Perpetual slavery is perpetual hatred.
+
+> And to apply appropriate to himself and his successors the kingdoms, dukedoms, counties, principalities, dominions, possessions, and goods, and to convert them to his and their use and profit.
+
+- So, basically rob us while they put us in chains.
+
+</div>
+
 - The bull Romanus Pontifex came right after Dum Diversas and amplified it: the same language, to reduce their persons to perpetual slavery.
 
 **[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[1:05:56](https://www.youtube.com/watch?v=IyYFXp99olM&t=3956s)]*
@@ -275,19 +361,174 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Trip report from Puerto Rico: the brothers visited Heriberto Marin Torres, the last survivor of the Puerto Rican Nationalist Party, 97 years old and strong, labeled a terrorist and a communist when all he loved was his people. He knew Pedro Albizu Campos personally, and his memoir covers the Ponce and Utuado massacres. They are going to say the same things about us.
 - At the library that week the brothers went through the original identification documents of the slaves held on the island. Books found in Puerto Rico were shown: Puerto Rico Negro, Fotografias para la Historia de Puerto Rico, a study of the decline of the slave trade in Puerto Rico from 1820 to 1860, and Sugar, Slavery, and Freedom in Nineteenth Century Puerto Rico. Yes, Puerto Ricans are black.
 - Film referenced: El Resplandor, a short Puerto Rican film on slavery on the island; slow paced, but it gets the message sent.
-- Posters shown from the Wayland Rudd Collection, Soviet era artwork about our people: he carried Africa in his heart, Lumumba; the end of colonialism; no to colonialism; colonialism is doomed; we mourn for Lumumba, Africa must live; colonizers must answer, that is where caught red-handed comes from; freedom to all the peoples of Africa, meaning freedom to all the peoples of the Israelites; a soldier receiving a medal from the ghost of the Third Reich for services in Vietnam; and I used to hold the whip in my hands, on how they colonize minds and make us taskmasters over our own, no different than in the days of Moses. During the Cold War they made us believe that side was pure evil, but those posters were depicting what was happening over here. Colonialism is only doomed when we wake up and realize our minds have been colonized; our souls should belong to the Most High.
+- A Google image search turned up something brand new: this right here is a Russian propaganda poster. Why is that Russian black? And why is that Russian looking like he's in the form of Africa? He has Africa in his chest, red, and them two little lines coming down represent that he was hit or killed in his heart. And them lines are ropes, meaning that he was tied down, he was bound.
+
+<div class="reading">
+
+Reading from Russian propaganda posters, with their Google translations  *[[1:14:59](https://www.youtube.com/watch?v=IyYFXp99olM&t=4499s)]*
+
+> He carried Africa in his heart. Lumumba.
+
+- I said what the hell does Russia have to do with Lumumba? Why would they even draw him like that? Not to say that he was drawn incorrectly, I'm just saying what does Russia have to do with Lumumba?
+
+- This right here is an African brother punching Esau in the face. He's got money in one hand and a whip on the other end. He said to hell with your money. Punched him in the face. That's the end colonialism.
+
+- It looks like it's a brother scooping out Esau and making trouble, getting the hell out of somewhere.
+
+> No to colonialism places on earth.
+
+- So, get the hell out colonialism. So basically he's trying to scoop out the white man and get out of colonialism. So look, the footprints represent slavery, robbery, hunger. I don't know what that other word says but it's good enough for me. And then you got other flags. I see Liberia, I think I see Ghana, Ghana's flag is there. I see Turkey. I see Iraq over there. That's the only ones that I recognize. So that brother is scooping colonialism out, or the white man out of Africa.
+
+- This guy is cutting down the chains. The chains are on his ankles and it's wrapped on the south of Africa.
+
+> … doomed.
+
+- It only translated the last name, which is doomed. But I looked it up, it's actually colonialism. So colonialism is doomed. That's what it say.
+
+- The only way that colonialism is going to be doomed is when we wake up, realize that we have been colonized. One thing that's been colonized is our minds and our attitudes towards each other. Our soul has not been colonized, and it should be colonized by the Most High God.
+
+> We mourn for Lumumba. Africa must live. Remove hammers jeweler.
+
+- I don't know what that means.
+
+> Colonizers to the answer.
+
+- Meaning colonials, they need to answer for what they did. Look, they got caught. That's where the term comes, where it says caught red-handed, meaning we caught you murdering people. You got caught. Colonizers need to answer. Freedom Africa. So, free Africa. We mourn for Lumumba. They know that white people killed Lumumba.
+
+- I love that picture. See how the brother's bending the bars and breaking so they can get freedom.
+
+> Freedom to all the peoples of Africa.
+
+- AKA freedom to all the peoples of the Israelites.
+
+> African peoples tabe the colonizer.
+
+- Or I guess tame the colonizers. I mean, they're going to get into subjection. That guy choking a white man. And he has a whip in his hand.
+
+- Look at that. The US in Vietnam. But then you got the ghost of Adolf Hitler about to give him the black cross, the German cross.
+
+> For the service to Song My.
+
+- I guess Vietnam, for the services to Vietnam. You get rewarded for murdering women and children. Get out of here.
+
+> I used to hold the whip in my hands.
+
+- And now he's holding his man. So, now that's what they do. They colonize our minds and they do us the whips. We become the taskmasters, no different than what happened during the time of Moses. We become taskmasters. We become their managers. And then we manage our own.
+
+- I got this book. This is called the Wayland Rudd Collection. All the pictures that you saw are in this book. And they have a lot of Russian propaganda in here, but it's more about our people rather than their people. This is the artwork that's in there, and it represents a lot of our people.
+
+- Isn't that America? Now, mind you, America during this time that this is drawn was in the Cold War. The Cold War, they made us to believe that Russia is evil, an evil imperialistic, the makers of Darth Vader and General Palpatine. But are they so evil? They were depicting what was happening over here.
+
+</div>
 
 **[Obadiah 1:3](/bible/obadiah/1#v3)**  *[[1:23:55](https://www.youtube.com/watch?v=IyYFXp99olM&t=5035s)]*
 
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 
 - The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, who shall bring me down to the ground? The clefts of the rock are the governments, the high places, the skyscrapers, all the richness and fatness of the earth Esau lives in.
-- Reading on the Force Publique, the military of the Congo Free State and the Belgian Congo from 1885 to 1960, founded on Leopold's orders and heavily involved in atrocities. A photograph from 1904 was shown and summarized in one line in class: a Congolese father looking at what the Force Publique had done to his little daughter, the record read as proof of who shall bring me down to the ground pride.
-- Reading on the Utuado Uprising, El Grito de Utuado, October 30, 1950: revolts against the United States government in Utuado, San Juan, Mayaguez, and Arecibo, with major confrontations in Ponce, Penuelas, and Adjuntas. The Puerto Rican Nationalist Party was formed September 17, 1922, under Jose Coll y Cuchi; Pedro Albizu Campos, the first Puerto Rican graduate of Harvard Law School and a World War I veteran, joined in 1924 and was elected president in 1930. The appointed governor Blanton Winship and Colonel Riggs applied harsh repressive measures; in 1936 Albizu Campos and the leaders were jailed in La Princesa and sent to the federal prison in Atlanta. America had already cut the value of the Puerto Rican peso in half, wiping out the people's savings.
-- Reading on the Jones Act, section 27 of the Merchant Marine Act of 1920: all goods moved by water between US ports must be carried on ships built, flagged, owned, and crewed American. The seamen's rights it defined never reached the Merchant Marine veterans; they were denied benefits. News read in class: the president extended a Jones Act waiver another 90 days to ease fuel prices as the war with Iran cut off a fifth of the world's oil supply. It was not kindness; Puerto Rico is a cash cow, and the waiver protects the US and global economies, not the island.
+
+<div class="reading">
+
+Reading from Wikipedia, *Force Publique*  *[[1:25:17](https://www.youtube.com/watch?v=IyYFXp99olM&t=5117s)]*
+
+> The Force Publique, public force, was the military of the Congo Free State and the Belgian Congo from 1885 to 1960. It was established after Belgian army officers traveled to the Free State to found an armed force in the colony on Leopold of Belgium's orders. The Force Publique was heavily involved in atrocities in the Congo Free State and also saw action in the Congo-Arab War, World War I and World War II. It was renamed to the Congolese National Army in July 1960 after Congo gained independence from Belgian colonial rule.
+
+- So, that's what went down. They went according to Leopold II's orders and they did much damage over there.
+
+- So, this is a perfect example of that. Who's going to bring this white man down? I got power over black people. I can cut their hands off. And they can stand here comfortably next to me. Who can bring me down from there? I'm the white man. Look, he pointing to it. Hey, you see this? I did this, bro. I cut hands off. And now he's going to go and do some more work for me with one hand. With a smile on his face, no less.
+
+> Serving under these European officers was an ethnically mixed African soldiery who eventually became comparable to the Askaris fielded by other European colonial powers. Many were recruited or conscripted from warrior tribes in the upper Congo. Others were mercenaries drawn from Zanzibar and West Africa. The role required of the Force Publique was that of both defending Free State territory and of internal pacification. In the 1890s the Force Publique defeated the African and Arab slavers in the course of the Congo-Arab War, 1892 to 1894, which resulted in tens of thousands of casualties. In 1896 an expedition of several hundred Force Publique soldiers entered the territory of the Kingdom of Rwanda in an attempt to claim the area for the Congo Free State, setting up camp at Shanga. The operation culminated in the Battle of Shanga, with the Force Publique winning a major victory over the Rwandan Royal Army. Regardless, the Force Publique subsequently withdrew due to internal problems as well as diplomatic pressure by the German Empire. As time went on the Force Publique began to increasingly recruit and rely on Belgian officers and native Congolese soldiers, so that the white and black foreign mercenaries had been mostly phased out by 1908.
+
+- That's why you saw that Russian propaganda drawing about the white man with the whip, then you had the white man holding the black man and the black man holding the whip. That's what it was going into. They were manipulating us to fight their battles.
+
+> A Congolese man, Nsala, looking at the severed hands and foot of his 5-year-old daughter, who was killed, cooked, and cannibalized by members of the Force Publique in 1904.
+
+- They said that it was a mixture of white and black. But the delectable negro tells you otherwise. We don't eat our own. The white man does.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on the Utuado Uprising  *[[1:32:12](https://www.youtube.com/watch?v=IyYFXp99olM&t=5532s)]*
+
+> The Utuado Uprising, also known as the Utuado Revolt or El Grito de Utuado, refers to the revolt against the United States government in Puerto Rico which occurred on October 30th, 1950 in the town of Utuado. There were simultaneous revolts in various other towns in Puerto Rico, including the capital of San Juan and the cities of Mayagüez and Arecibo, plus major confrontations in the city of Ponce and the towns of Peñuelas and Adjuntas.
+
+- So the uprising was against the United States government in Puerto Rico. There was turmoil in Puerto Rico. Meanwhile you got men like Heriberto being called a communist. But why? What were they fighting for?
+
+> On September 17th, 1922 the Puerto Rican Nationalist Party was formed. José Coll y Cuchi, a former member of the Union Party, was elected its first president. He wanted radical changes within the economy and social welfare programs of Puerto Rico.
+
+- Because Puerto Rico was in shambles. The Spanish was in there, they jacked them up, then the United States went in there, jacked them up. They had the Puerto Rican peso before they had the American dollar. And America went in there and said guess what? Your money is worth half of what you think it's worth. So if you had a hundred dollars, from one day to the next it went to fifty dollars, and you lost a lot of your hard-earned savings.
+
+> In 1924 Pedro Albizu Campos, a lawyer, joined the party and was named its vice president. Albizu Campos was the first Puerto Rican graduate of Harvard Law School.
+
+- So he did his work. He said, you know what? I want to become educated. So he became a sharp brother.
+
+> He served as a second lieutenant in the US Army during World War I and believed that Puerto Rico should be an independent nation,
+
+- Like all nations should be, they should be independent. Is that a bad idea?
+
+> even if that required an armed confrontation.
+
+- Uh-oh, hold up. They didn't like that too much.
+
+> By 1930 Coll y Cuchi departed from the party because of his disagreements with Albizu Campos as to how the party should be run.
+
+- Because that's always going to happen. That's why there was so many splits among the Israelites. The reason why there's so many camps, cuz there's old beef at different breakdowns. But right now IUIC is rolling right. The Lord is rolling with us, man. I think you should shut the hell up and start rolling with IUIC, because you're watching the classes anyway. Why be fake? Stop hating and start participating.
+
+> On May 11th, 1930 Albizu Campos was elected president of the Nationalist Party. In the 1930s the US appointed governor of Puerto Rico, Blanton Winship, and police Colonel Riggs applied harsh repressive measures against the Nationalist Party. In 1936 Albizu Campos and the leaders of the party were arrested and jailed in La Princesa prison in San Juan and later sent to the federal prison at Atlanta.
+
+- I never go back to Georgia. They made a song about that. It's starting to make sense. A lot of these things are linking up. Further down you're going to read about the Ponce massacre. I don't have enough time, but a lot of things was going on.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on the Merchant Marine Act of 1920  *[[1:37:19](https://www.youtube.com/watch?v=IyYFXp99olM&t=5839s)]*
+
+> The Merchant … and maintenance of the American Merchant Marines. Among other purposes the law regulates maritime commerce in US waters between US ports. Section 27 of the Merchant Marine Act is known as the Jones Act and deals with cabotage, coastwise trade. It requires that all goods transported by water between US ports be carried on ships that have been constructed in the United States and that fly the US flag, are owned by US citizens and are crewed by US citizens and US permanent residents. The act was introduced by Senator Wesley Jones. The law also defines certain seamen's rights.
+
+- My father was part of the Merchant Marines and I understand why now.
+
+- The only rights that the seamen didn't have was what? Benefits. After they become veterans they never received benefits. You know what they said? You're not a World War II veteran, you're not a World War I veteran, you don't get any benefits. Thank you for your service. My father died. He retired from the Merchant Marines. He died and never received anything from them.
+
+</div>
+
+<div class="reading">
+
+Reading from a news article on the Jones Act waiver  *[[1:38:57](https://www.youtube.com/watch?v=IyYFXp99olM&t=5937s)]*
+
+> Trump extends Jones Act waiver for another 90 days.
+
+- Why? It sounds like Trump has a heart. But why do we still have the Jones Act? Because it's financially beneficial to America. That's why.
+
+> President Trump is extending a waiver of the Jones Act for another 90 days in a bid to lower fuel prices as the war in Iran stretches into its second month, White House press secretary Taylor Rogers said in a statement on X on Friday. The law requires that goods shipped between US ports be carried on vessels that are US built, flagged, and crewed. Mr. Trump initially waived the act on March 18th for 60 days to ease energy prices as the war cut off 1/5 of the world's oil supply, causing energy costs to soar.
+
+- He didn't do that out of the kindness of his heart. He did that because Puerto Rico is a cash cow. That's it. That is the only reason. If Puerto Rico don't move, America don't move. That's the only reason why he's waiving it, so that it could be a little easier. It's hard right now in Puerto Rico to get around, because of what's going on in the Strait of Hormuz.
+
+> The extension will begin 12:00 a.m. Eastern Standard Time on May 18th, the White House confirmed to CBS News. New data compiled since the initial waiver was issued revealed that significantly more supply was able to reach US ports faster, Rogers said on X. The waiver extension provides both certainty and stability for the US and global economies.
+
+- It's only for the US and global. It has nothing to do with Puerto Rico. But Puerto Rico got to pay the price. There's more Walmarts in Puerto Rico than there are over here in the United States.
+
+- This is the reason why Esau is greatly despised. There's a lot of atrocities still happening in Puerto Rico today. It was enough with Utuado and Ponce. But now they want to keep it going with the Jones Act.
+
+</div>
+
 - Video shown from Havana: the oil blockade on top of decades of economic mismanagement crippling life in Cuba. Why would you cut oil going to a country 90 miles away from yours? But the Cuban people are innovative; it is a country full of engineers.
 - Video and book shown on the 1950s: racism woven into housing, education, employment, and travel, and the Green Book, compiled by Victor Green, a black postman from Harlem, an annual guide of safe hotels, restaurants, and gas stations. The teacher bought a copy: a treasure map of places where black people could be safe.
-- J. Edgar Hoover was asked what the number one threat to America is, and he said the organization of Negroes. What happens when the diaspora organizes not in theory but in execution? A new economic force emerges: Tulsa, Oklahoma; Rosewood. That is what they did not want.
+
+<div class="reading">
+
+Reading from an image on J. Edgar Hoover and black unity  *[[1:45:29](https://www.youtube.com/watch?v=IyYFXp99olM&t=6329s)]*
+
+> The organization of black people. Why unity has always been feared.
+
+- The reason why we're not unified like that is because we're messed up in the mind. But this is part of it.
+
+> J. Edgar Hoover once asked, "What is the number one threat to America?" He said the organization of Negroes. What happens when Africa and its global diaspora organize not in theory but in execution? A new global economic force emerges.
+
+- That's what they don't want. Tulsa, Oklahoma. Rosewood. What ends up happening? We started to build and we started to cut them out. But what happens is that that's not part of the curses.
+
+</div>
 
 **[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[1:46:26](https://www.youtube.com/watch?v=IyYFXp99olM&t=6386s)]*
 
@@ -295,10 +536,34 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 
 - Therefore shalt thou serve thine enemies, which the Lord shall send against thee: that is not a suggestion, that is the curse. In hunger, in thirst, in nakedness, and in want of all things; and he shall put a yoke of iron upon thy neck, until he have destroyed thee. We are so destroyed as a people that we cannot even organize.
 - To hell with organized crime; we are organizing the truth. We are an organized nation, looking for like-minded brothers and sisters willing to wake up, keep God's commandments, and see this thing to the end.
-- Reading on the Greensboro Four: the sit-in at the Woolworth lunch counter, meticulously planned; by February 5th about 300 students had joined, and the protest spread to 55 cities in 13 states. The Student Nonviolent Coordinating Committee was founded in Raleigh in April 1960, vital in the Freedom Rides of 1961 and the 1963 March on Washington.
+
+<div class="reading">
+
+Reading from an *Atlanta Black Star* article on the Greensboro Four  *[[1:48:26](https://www.youtube.com/watch?v=IyYFXp99olM&t=6506s)]*
+
+> The Greensboro Four. Five things you didn't know, or things to know about the Greensboro sit-in and the four HBCU students who started it.
+
+- So you see this picture right here. Why is Esau greatly despised? Why would you hate Esau?
+
+> The four students meticulously planned their protest, even enlisting the assistance of local white businessman Ralph Johns to put their plan in action. The students sat at lunch counter knowing they would be denied service.
+
+> Around February 5th an estimated 300 students joined the Woolworth protest. The protest spread like wildfire, where black and white students began protesting segregation and in libraries, beaches, hotels and other establishment. Ultimately, there were 55 cities in 13 states participating.
+
+> Stokely Carmichael. The Student Nonviolent Coordinating Committee was founded in Raleigh, North Carolina, April 1960. Over the next few years, was vital in organizing the Freedom Rides in 1961, where March and then it was a March on Washington 1963, where Martin Luther King Jr. gave his seminal I Have a Dream speech.
+
+</div>
+
 - When you try to do things peacefully, then things get more radical: the Black Panther Party bore arms because the law said they could, and they did not like that black people had guns. Then the Young Lords: what Hoover feared, Negroes and Latinos and Native Americans together in the Rainbow Coalition.
-- Huey Newton quote read: the oppressor must be harassed until his doom; the enslaved have always outnumbered the enslavers; the power of the oppressor rests upon the submission of the people.
-- The one element missing from the Black Panthers, the Young Lords, and the American Indian Movement was the Bible. That is it. Had they had the Bible, we would probably be in the kingdom by now.
+
+<div class="reading">
+
+Reading from Huey Newton, on black and Latino unity  *[[1:52:20](https://www.youtube.com/watch?v=IyYFXp99olM&t=6740s)]*
+
+> The oppressor must be harassed until his doom. He must have no peace by day or by night. The enslaved have always outnumbered the enslavers. The power of the oppressor rests upon the submission of the people.
+
+- That was Huey Newton that said that. Now, how were they oppressing the oppressor? They were doing rallies, they were marching, they were doing everything. The one element that was missing was what? What was missing from the Black Panthers and the Young Lords and the American Indian Movement? They were missing the Bible. That's it. The only thing that was missing was the Bible. Had they had the Bible, we probably would be in the kingdom by now.
+
+</div>
 
 **[Obadiah 1:4-6](/bible/obadiah/1#v4)**  *[[1:53:21](https://www.youtube.com/watch?v=IyYFXp99olM&t=6801s)]*
 
@@ -318,19 +583,56 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 > <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
 
 - And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images. The heathen did exactly that.
-- Book read in class, In the Pillory: The Tale of the Borgia Pope: the bust of the Savior posed for by Cesare Borgia, the son of Pope Alexander VI. It was removed from the church of San Salvatore in Termis, now destroyed, to the monumental morgue of the Saint Louis church, where it is shown by the guide as the bust of the relative of a famous pope. It is an open secret that Cesare Borgia had posed for it.
-- The new lie in the earth right now is that there is no proof Cesare Borgia posed as the image of Christ. They are trying hard to discredit what we teach and to disconnect themselves from the atrocities. But the hidden things of Esau are sought up.
+
+<div class="reading">
+
+Reading from *In the Pillory: The Tale of the Borgia Pope*  *[[1:57:05](https://www.youtube.com/watch?v=IyYFXp99olM&t=7025s)]*
+
+> This is the bust of the Savior posed for by Cesare Borgia. It was removed from the church in San Salvatore in Termis, now destroyed, to the monumental morgue of the Saint Louis Church, where it may still be seen and is shown by the guide as the bust of the relative of a famous pope.
+
+> Salvator. The original of this bust was found in the trench of San Salvatore in Termis, now destroyed. It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
+
+- Because now what Esau is doing is saying that there's no proof that Cesare Borgia posed to be Jesus Christ. That's the new lie in the earth right now. They're trying very hard to discredit what we teach, to disconnect themselves from the atrocities. But then I ask myself, why is Esau greatly despised?
+
+</div>
+
+- Movie clips played from an exorcism film set around the Spanish Inquisition, paused every few moments for the history behind it. The seal of the Spanish Inquisition, which is what we were reading through for Dum Diversas and Romanus Pontifex. Who the hell is Ojeda?
+
+<div class="reading">
+
+Reading from a web page on Friar Alonso de Ojeda and the Inquisition in Seville  *[[2:00:07](https://www.youtube.com/watch?v=IyYFXp99olM&t=7207s)]*
+
+> The first headquarters of the Inquisition in Seville and in Spain, across crossed by a sword representing justice and an olive branch symbolizing mercy, adorning the dome of the entrance of the Temple of San Pablo Street. It is the emblem of the Holy Inquisition, reminding us that the Order of Santo Domingo played a very prominent role in it. Today the Inquisition may seem like an unsustainable coercion in matters of faith and religious freedom. Obviously, it was not so in the 12th century. Its goal was to prevent the spread of heresy among the faithful and the defense of the Catholic Church. This is symbolically represented in the magnificent painting of the Triumph of Faith on the vault of the main altar of the parish.
+
+- Ooh, there's another papal bull that we need to look up.
+
+> … 1231 and 1233 Pope Gregorio the 9th created a pontifical Inquisition through the bull Excommunicamus, which was established in various Christian kingdoms in medieval Europe.
+
+- I never knew about that.
+
+> During the stay of Queen Isabella the First of Castile and Seville between 1477 and 1478, the civilian Dominican Alonso de Ojeda, the prior of the San Pablo convent, convinced the queen of the existence of Judaizing practices among Andalusian converts. A report submitted at the request of the sovereigns by Cardinal Mendoza, Archbishop of Seville, and by the Dominican friar Tomás de Torquemada confirmed the suspicions.
+
+> In January 1481 the Inquisition tribunal was established in the San Pablo convent in Seville, where Friar Alonso de Ojeda as the prior. The Spanish Inquisition aimed, among other reasons, to maintain the purity of the faith, prevent Spaniards from falling into heresy, and prosecute behaviors in terms that indicated someone was Judaizing, Moorish,
+
+- Judaizing and Moorish is going into doing anything that has to do with the Israelites.
+
+> Lutheran, illuminated, or deviating from the Catholic faith. The connection of the Order of Santo Domingo with the defense of truth is not surprising. The appointment of inquisitorial roles and functions was accepted by the Dominicans without any opposition.
+
+- Meaning the Dominican Order, not Dominicans on the island.
+
+</div>
+
+- The early church was of the Israelites; when Rome, Edom, came into power, they took it over, ran the Renaissance, and changed the Sabbath to Sunday.
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[2:05:28](https://www.youtube.com/watch?v=IyYFXp99olM&t=7528s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
-- Movie clips played from an exorcism film set around the Spanish Inquisition, paused every few moments for the history behind it. The friar in the film is Alonso de Ojeda, the real Dominican prior of the San Pablo convent who convinced Queen Isabella of Castile, during her stay in Seville between 1477 and 1478, of Judaizing practices among the Andalusian converts; a report by Cardinal Mendoza and the friar Tomas de Torquemada confirmed the suspicions, and in January 1481 the Inquisition tribunal was established in the San Pablo convent. The Inquisition prosecuted whatever indicated someone was Judaizing or Moorish, meaning anything that had to do with the Israelites. Earlier still, Pope Gregory IX created a pontifical Inquisition through the bull Excommunicamus in the 1230s.
-- The film's own line: centuries of persecution and torture, the abuses of the Inquisition, all started by the friar and done in the name of God, by the devil. They put the truth in a horror movie so you would disavow it, but we pause and look it up: Dum Diversas, Romanus Pontifex, the slavery they did. Hollywood knows the truth.
-- The early church was of the Israelites; when Rome, Edom, came into power, they took it over, ran the Renaissance, and changed the Sabbath to Sunday. He shall speak great words against the Most High: the Sabbath is now Sunday; Christ is now painted in their image by Leonardo, Michelangelo, and Donatello, the artists.
+- He shall speak great words against the Most High: the Sabbath is now Sunday; Christ is now painted in their image by Leonardo, Michelangelo, and Donatello, the artists.
 - And shall wear out the saints of the Most High: in slavery we were worn out, so tired we stopped questioning anything the slave master threw at us. That is why so many of us do not want to read.
 - And think to change times and laws: they changed the calendar, some calendars now start the week on Monday, and they moved the new moon to the dark moon to keep the lie going and hide the high holy days.
 - And they shall be given into his hand until a time and times and the dividing of time: that is what Esau has been given, and his time is coming to an end. At the end of that is the heel and the hand, the beginning of the kingdom.
+- The film's own line: centuries of persecution and torture, the abuses of the Inquisition, all started by the friar and done in the name of God, by the devil. They put the truth in a horror movie so you would disavow it, but we pause and look it up: Dum Diversas, Romanus Pontifex, the slavery they did. Hollywood knows the truth.
 
 **[Psalms 64:8](/bible/psalms/64#v8)**  *[[2:11:21](https://www.youtube.com/watch?v=IyYFXp99olM&t=7881s)]*
 
@@ -375,7 +677,55 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 - Say unto the prince of Tyrus: because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas. You sit in the seat of God because you are in space, in rulership, the superpower in the midst of the nations, like the woman in Revelation that sits upon many waters. Yet thou art a man, and not God: a man made of dust, water, and blood, no matter the crown and the seal. Even the president talking reckless is only fulfilling the prophecy of making himself small among the heathen.
 - Behold, thou art wiser than Daniel; there is no secret that they can hide from thee: with wisdom and understanding they got riches, gold and silver into their treasures. Look at the Native American treaties the United States made and broke, like the Treaty of Fort Laramie of 1868, violated the minute gold was discovered. They know geology; they know where the gold is, and that is why the forts sit where they sit. By thy great wisdom and by thy traffick hast thou increased thy riches: by the way they traded slaves is how they became who they are today.
 - Video shown: a Polish member of parliament displayed an altered Israeli flag in parliament and compared the present war to the worst of the last century. Out of nowhere, from a country that never talks like that. Israel is a problem and America is a problem, and they are one and the same.
-- Readings shown on the covert record: Patrice Lumumba, with declassified documents showing US involvement in his assassination; Jaime Roldos Aguilera, whose plane crashed with his wife and officials aboard and had no black box; Fidel Castro, assassination plots and propaganda campaigns, with surveillance of sympathizers at home used to justify watching black activists and student movements; Che Guevara; Kwame Nkrumah, feared as the connection between African independence and black US leadership; Pedro Albizu Campos, constant surveillance, mail interception, informants inside the party, and the radiation that ruined his body, the king of towels walking his cell to stay cool; Martin Luther King, hotel bugs, blackmail, smear campaigns, and the letter telling him there was one thing left for him to do; Malcolm X, COINTELPRO surveillance and informants planted in his inner circle. And such happened with the Young Lords and everyone else mentioned. Why is Esau greatly despised?
+- Another reason why America is greatly despised is the CIA coups in the Cold War, like the Congo crisis, Patrice Lumumba. Lumumba was assassinated, with declassified documents showing US involvement. Jaime Roldos Aguilera was given a plane by economic hitmen, and somehow that plane crashed, with him, his wife, and some of his officials aboard. The first thing people look for in a plane that crashes is the black box, and it did not have a black box.
+
+<div class="reading">
+
+Reading from on-screen profiles of the CIA and FBI campaigns against Castro, Guevara, Nkrumah, Lumumba, Albizu Campos, King and Malcolm X  *[[2:24:42](https://www.youtube.com/watch?v=IyYFXp99olM&t=8682s)]*
+
+> Fidel Castro. Primary agency CIA with FBI domestic support. Assassination plots and propaganda campaigns, surveillance of pro-Castro groups in the US and monitoring travel, speeches, and sympathizers. This was the Hoover era framing. Castro is seen as a symbol of communist expansion into the Western Hemisphere. The FBI used Castro influence to justify surveillance of black activists, student movements, and anti-war organizers.
+
+- The man to his right is Che Guevara.
+
+> Primary agency was the CIA and the FBI. Guevara is seen as a global revolutionary export threat.
+
+> Kwame Nkrumah. The FBI concerns: he was the connection between African independence and movements of black US leadership.
+
+- We spoke about Patrice Lumumba already.
+
+> His assassination had ripple effects in the black activism, which the FBI tracked closely.
+
+- Pedro Albizu Campos. This man had constant surveillance.
+
+> Constant surveillance, mail interception, informants inside the nationalist group.
+
+- So, he had people that were watching him on the inside.
+
+> And then psychological harassment.
+
+- Psychological harassment goes into the torture that he went through. This is him in his last days hugging the Puerto Rican flag. He deteriorated so much; they gave radiation very bad on him, so much that his legs were inflamed. He suffered much. They called him the king of towels, cuz he was walking around in his cell trying to stay cool, wrapping towels around his head, walking back and forth just to get some exercise. They wouldn't let him outside.
+
+> Martin Luther King. Hotel bugs in his room, blackmail, smear campaigns. The direct FBI letter said: you are done. There is only one thing that's left for you to do.
+
+- And what was left for him to do is to die. That's what he wanted them to do.
+
+> Malcolm X. COINTELPRO. Surveillance of Nation of Islam, informants planted in inner circles, monitoring international travel.
+
+- And such happened with the Young Lords and everyone else that we mentioned earlier. Why is Esau greatly despised?
+
+</div>
+
+<div class="reading">
+
+Reading from the SPLC mission statement  *[[2:28:36](https://www.youtube.com/watch?v=IyYFXp99olM&t=8916s)]*
+
+> The SPLC is a catalyst for racial justice in the South beyond the work in partnership with communities to dismantle white supremacy, strengthen intersectional movements, and advance the human rights for all people.
+
+- You see blacks and whites working together, making it sound like Martin Luther King's dream is coming to life.
+
+</div>
+
+- News video played in class: a grand jury in the Middle District of Alabama returned an eleven count indictment charging the Southern Poverty Law Center with wire fraud, bank fraud, and conspiracy to commit money laundering, alleging that between 2014 and 2023 it paid at least three million dollars to individuals affiliated with Klan and other hate organizations, not dismantling those groups but manufacturing the extremism it purports to oppose by paying sources to stoke racial hatred. Whatever was done against us, the Lord flipped the script.
 
 **[Obadiah 1:19-21](/bible/obadiah/1#v19)**  *[[2:31:16](https://www.youtube.com/watch?v=IyYFXp99olM&t=9076s)]*
 
@@ -386,7 +736,6 @@ This class is the companion to Captain Zephaniah's class Puerto Rico: The Flame 
 > <sup>[21](/bible/obadiah/1#v21)</sup> And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord’s.
 
 - They of the south shall possess the mount of Esau. This is the judgment of Esau; this is what is going to happen.
-- News video played in class: a grand jury in the Middle District of Alabama returned an eleven count indictment charging the Southern Poverty Law Center with wire fraud, bank fraud, and conspiracy to commit money laundering, alleging that between 2014 and 2023 it paid at least three million dollars to individuals affiliated with Klan and other hate organizations, not dismantling those groups but manufacturing the extremism it purports to oppose by paying sources to stoke racial hatred. The mission statement read: a catalyst for racial justice partnering to dismantle white supremacy. Whatever was done against us, the Lord flipped the script.
 - And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord's. We are the herald to Christ; we are letting you know what is going to happen.
 
 ## In Closing

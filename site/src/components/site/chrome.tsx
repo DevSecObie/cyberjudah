@@ -21,6 +21,7 @@ const GROUPS: NavGroup[] = [
       { to: "/truth-shall-make-you-free", label: "The Truth Shall Make You Free", blurb: "The complete teaching series, converted into clear scripture-linked notes." },
       { to: "/captains", label: "15 Min w/Captains", blurb: "Short teachings, one subject at a time." },
       { to: "/history", label: "Our Hidden History", blurb: "Our Hidden History Radio with Deacon Eythan, verse by verse." },
+      { to: "/shows", label: "Shows & Series", blurb: "The radio shows, TV shows, podcasts and series, each with its own notes." },
       { to: "/study", label: "4 Chapters a Day", blurb: "The daily reading, one chapter per page." },
     ],
   },
@@ -147,6 +148,7 @@ export function SiteFooter() {
             <li><Link to="/truth-shall-make-you-free">The Truth Shall Make You Free</Link></li>
             <li><Link to="/captains">15 Min w/Captains</Link></li>
             <li><Link to="/history">Our Hidden History</Link></li>
+            <li><Link to="/shows">Shows &amp; Series</Link></li>
           </ul>
         </div>
         <div>

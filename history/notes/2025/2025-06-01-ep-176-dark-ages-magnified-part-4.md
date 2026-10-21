@@ -1,0 +1,1250 @@
+---
+title: "Dark Ages Magnified Part 4"
+slug: "2025/2025-06-01-ep-176-dark-ages-magnified-part-4"
+date: "2025-06-01"
+episode: 176
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2025-06-01 · with guests in the studio"
+tags: ["Our Hidden History", "nations"]
+---
+
+<p class="taught">Our Hidden History · 2025-06-01 · Deacon Eythan, with guests in the studio</p>
+
+<span class="opens"><b>Opens</b> [2 Chr 19](/bible/2-chronicles/19) · [1 Macc 12](/bible/1-maccabees/12) · [Ps 16](/bible/psalms/16) · [Job 19](/bible/job/19) · [Wis 7](/bible/wisdom-of-solomon/7) · [Acts 11](/bible/acts/11) · [Acts 18](/bible/acts/18) · [Jer 29](/bible/jeremiah/29) · [Gen 10](/bible/genesis/10) · [Gen 11](/bible/genesis/11) · [Gen 14](/bible/genesis/14) · [Gen 39](/bible/genesis/39) · [Gen 40](/bible/genesis/40) · [Exod 2](/bible/exodus/2) · [Exod 3](/bible/exodus/3) · [1 Sam 4](/bible/1-samuel/4) · <i>and 5 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="yHgJDLC9Erg"></div>
+
+## Introduction
+
+*[[6:20](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=380s)]* Hey, shalom. Shalom. Shalom. Shalom. We are back. We are back. We are back. Sorry for delay. Got some information real quick, got some information really fast from the books I had here. I had all the books. All right. So, let's begin. We're going to start where we left off. All praise to the Most High that you guys can make it. Glad you guys are able to make it here on the show. You are now tuned into Our Hidden History radio show. I didn't forget. I'm just tired.
+
+*[[6:44](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=404s)]* All right. So, let's jump into it. We left off where we was in a book, an old book I had earlier, and that book was entitled *A Universal History*. *A Universal History* of the earliest account, volume 19. We were at page 71. We're going to go through this book. It's very old. Go to the cover real fast. See how old it is? That's the cover. I don't have the year. That's the wrong page. That's a volume, but the actual cover, you need volume one for that.
+
+**Guest:** Oh, it's a multi-volume set.
+
+**Deacon Eythan:** No, the different volumes were published at different years. That's volume 19. It's very old. I think the 1700s. That tea is hot as hell. I burnt my mouth. That tea is hot, man. Damn. All right. Praise him. Wake me up.
+
+*[[7:50](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=470s)]* All right. So, let's jump into it. Page 71. No, I'm sorry. We left off talking about how Ireland was called Iberia. Spain was Iberia because it goes back to Eber. It goes back to the Hebrews. Hebrews named those areas. As I mentioned before, that whole island was us. The UK was ours. They called them the Silures. They referred to as the Scilly Islands based upon the Silures, which are Israelites, Phoenicians. Let's jump into it.
+
+## Readings and Scriptures
+
+
+<div class="reading">
+
+Reading from *A Universal History*, volume 19 (1748), pages 71 to 79, on the peopling of Britain, the Picts, the Scots, the Silures and the Druids · read by a guest in the studio  *[[8:28](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=508s)]*
+
+> The southern parts of Britain were peopled, according to Caesar, by the Gauls.
+
+- Right. So the Gauls were Japheth. Now they were a minority. The Gauls were for the most part Japheth, but then Israel got, you know how we do. We get into a place, we take over. So the Gauls were Japheth, but then Jake moved in there and we just pretty much absorbed them, took over.
+
+> Tacitus is of the same opinion. If we consider all circumstances, says he, it is probable that the Gauls first peopled Britain, which lies so near it. This opinion, which is followed by most of the ancient as well as the modern writers, is chiefly founded on the agreement observed by the Roman writers between the two nations in their customs, manners, language, religion, form of government, way of fighting, etc. Besides, as the Gauls sent colonies into Italy, Spain, Germany, Thrace, and Asia, it is but reasonable to conclude that they did the same with respect to Britain, which lay so near them that they could discern it from the continent, and was no less plentiful than the other countries where they settled.
+
+- The Gauls also resided in France, and they then migrated over to an area called Galatia. The Galatians Paul wrote to was named after them. Galatia. So they migrated from France, moved over there. They were in these areas. And when Julius Caesar encountered them, he waged war against them and he massacred them to nothing. He just pretty much erased them from existence, these Gauls here. It was called the Gallic Wars.
+
+> As for the more northern inhabitants of Britain, Tacitus infers from the make of their limbs and other circumstances that they came from Germany;
+
+- They had Germany, cause that's Japheth. They moved from, I guess from Germany, and came over there. That's Japheth and them. I mentioned before, they went from Germany, made their way to France, and then they made their way to Asia Minor. That's all Japheth there. But eventually Jake moved into those areas and took on those names.
+
+> and Caesar, telling us that they were aborigines, seems to imply that he discovered no affinity in their language, manners, customs, etc. with those of Gaul and the southern parts of Britain.
+
+- Go back. Go back. I'm sorry. Let me see something. Oh, the northern inhabitants. So that's us there. Read that again. That flag goes back to us.
+
+- This is a different group of people that were there. That'd be us.
+
+> As for the Picts, who held the eastern parts of Britain,
+
+- Now the Picts is us.
+
+> which lay north of the Tyne, the venerable Bede tells us that they came out of Scythia in long ships,
+
+- That's us. That's us there. Northern kingdom.
+
+> and landed first in the north of Ireland;
+
+- So we landed there. Northern kingdom got there.
+
+> but not being suffered to settle there by the Scots, who then possessed that island,
+
+- Not being suffered to settle. Not being allowed.
+
+- That's us too. So there was some different migrations of us. So we came out of Scythia. So the ones that came from Germany, remember northern kingdom was scattered in those areas. We came from Germany, came out, made our way there. We came from Scythia, that'd be like Russia, made our way there by ships. We sailed there, and then we settled in parts of Northern Ireland. And then the Scots, it says, Ireland's already there. The Scots is already there.
+
+> they were advised to plant themselves in the north part of Britain, which they did accordingly with the assistance of the Scots, who moreover supplied them with wives to perpetuate their colony; but upon this condition, that in all disputes concerning the succession to the crown, the Picts should prefer the female to the male line of their former kings;
+
+- Ah, so the Picts dealt with matrilineal. The Picts dealt with the mother's line. Okay. You'll see what happens over time, that over time that plays a part.
+
+> which is observed among them, says Bede, to this day. But by Scythia Bede perhaps meant the northern parts of Germany;
+
+- There you go. So Scythia is the northern parts of Germany, Russia, Eastern Europe. So that would be us there. Now the time frame he's giving us here is a bit, I don't know, cause I know that the Picts and Scots is us as well, and they came around there. There might have been waves of us coming over time.
+
+- **Guest:** Could have been around, most likely, 800.
+
+- **Deacon Eythan:** Yeah. So we came in different frames of time. Remember the Assyrian captivity was 700s BC, and then you had King Solomon's fleet came by as well. So it could have been us already there from the time after Solomon's travels in that area, and then northern kingdom came later on, after the Assyrian captivity. Waves of us more came after that. So 900 BC, then later on 700s BC, around that time. That's why Caesar mentioned that these guys are not Gauls. They're different from the rest, because that was Israel coming in.
+
+> for that Scandinavia, now comprehending the kingdoms of Sweden, Denmark, and Norway, was by the best writers of the Middle Ages styled Scythia, is shown by the learned Usher.
+
+- Go down. Go to the highlighted parts. It's too much.
+
+> Some writers are of opinion that the Picts were not a distinct people from the Britons,
+
+- They're not. They're all the same people. The Britons and Picts were the same people.
+
+> but such of that nation as, to avoid the tyranny of the Romans, had retired into the northern parts of the island. To confirm this opinion, they allege the authority of Camden,
+
+- Now, I'm sorry. I live in, well, we're currently there, Philadelphia. You have Camden, New Jersey, which is outside of Philadelphia. I say it's Philadelphia regardless, but right across the bridge you have Camden, New Jersey. Camden, New Jersey, and then you have Philadelphia. The reason why I emphasize on Camden is because New York, or America, pretty much is an extension of Britain. So you have New Jersey. Jersey's in Britain. You have New Amsterdam, New York, New Hampshire, Camden, all of that. New England. New York, New Amsterdam, New Jersey. That's all England. America is New England. Okay. When the white man gained independence from Britain, they made everything, they became newer England. America's New England. America's England. An extension of England. That's why we speak English.
+
+- **Guest:** Isn't there a Camden in England too?
+
+- **Deacon Eythan:** Yes, there is. That's why I mentioned it here. Camden. Exactly.
+
+> who in his introduction endeavours to show that the names of places formerly held by the Picts in the south and west parts of Scotland are British, and consequently that one and the same was the language of the Britons and Picts.
+
+- The Britons and Picts spoke the same language.
+
+> But that these two nations spoke different languages is manifest beyond dispute from Bede, who tells us that in his time God was served in five several languages in Britain, to wit, of the Angles, of the Britons, of the Scots, of the Picts, and of the Latins,
+
+- Different dialects.
+
+> which latter was commonly used in divine worship.
+
+- All right. Next page.
+
+> As for the origin of the Scots, Bede tells us that they came into this island out of Ireland. In process of time, says that writer, Britain received a third nation, to wit, the Scots, besides the Britons and Picts, who, coming out of Ireland under the conduct of one Reuda, possessed themselves of those territories which they still hold among the Picts.
+>
+> Their manners, customs, religion, form of government, etc. are described not only by Caesar in his commentaries, but by others, and perhaps more fully, who wrote after the Romans were become masters of the island.
+
+- Because they conquered the island. They took over the island. Or they encountered them. So what I want you guys to understand is that Caesar had a lot of information regarding these people.
+
+> The country was, according to Caesar, well peopled and stocked with cattle. Their houses were not unlike those of the Gauls. They used copper or iron plates, weighed by a certain standard, instead of money.
+
+- Go down to the side of the next page. Go back real fast to that bottom part. Read Buchanan.
+
+> Buchanan takes the name of Picts to be Roman, but at the same time pretends they came from certain Gaulish colonies in Thrace, where they painted their bodies as well as in Britain.
+
+- You see that movie, Braveheart? He painted his face. Same thing.
+
+- **Guest:** Mhm. Same thing, cause the same people.
+
+> The same author adds that the Picts spoke the same language as the Britons and Scots;
+
+- He said, I said before, different dialects. They spoke the same exact language.
+
+> but herein he is contradicted not only by Bede, whom we have quoted above, but by John Major, one of the most ancient Scots historians, who tells us that as yet, that is, in his time, almost half Scotland spoke the Irish tongue, which they had brought over with them from Ireland.
+
+- Well, the same damn language. Let's see what we got here. What page is this? Go to 79.
+
+> When Caesar invaded the island, the chief command of all the British forces was conferred upon Cassivelaunus; and when the Britons revolted in the time of Claudius, Caractacus, king of the Silures, was chosen general.
+
+- Ah, here we go. So Claudius Caesar went to war against the Britons. The general and the king of the Silures was Caractacus. Now Caractacus is a very, very important figure, because Caractacus is a guy that we reference to go back to King Arthur. Okay. Caractacus, I believe, is the ancestor of King Arthur.
+
+> As in other cases, the several states into which Britain was divided had no dependence upon each other. They had, no doubt, quarrels and contests among themselves.
+
+- So as usual, Jakes never get along. We always divide among ourselves, and Esau would exploit that and conquer us, like they did with Caractacus here. So Claudius Caesar was fighting with Caractacus, king of the Silures, who was a general.
+
+> That part of Britain which comprehends the present kingdom of England and the principality of Wales was in ancient times divided into seventeen petty states,
+
+- All the same people, but we're all divided. Jake, Jacob, Jake is, you know, rebellious. We fight each other. Same thing. 17 petty states.
+
+> whereof the inhabitants were distinguished by the following names: the Damnonii,
+
+- Yep. The Dani. Dan. Dan sound familiar? Damnonii might be Dan. Who knows?
+
+> the Durotriges, the Belgae, the Attrebatii, the Regni, the Cantii, the Dobuni, the Cattieuchlani, the Trinobantes, the Iceni, the Coritani, the Cornavii,
+
+- These are all the same people, just different names. Like, for example, northern kingdom: like you have Aztec, Inca, Maya, all the same, Toltecs, all Mexicans. It's the same damn people, just divided among themselves, as they hate each other. Like Jamaicans, Puerto Rican, Cuban. The same exact damn thing.
+
+- **Guest:** Most likely Rome gave us those.
+
+- **Deacon Eythan:** Yeah, Rome gave us these names.
+
+</div>
+
+*[[21:41](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1301s)]* Next page. 77. It's 1748 for this book. 1748. Damn. All right. This book is 1748. 77 and 78. Read that.
+
+
+<div class="reading">
+
+Reading from *A Universal History*, volume 19, pages 77 and 78, on the Druids · read by a guest in the studio  *[[22:01](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1321s)]*
+
+> The care and direction of all religious matters was, by the Britons as well as the Gauls, committed to the Druids,
+
+- Okay. So keep in mind the Geta. Remember that was the name, Geta, of Septimius Severus's son. That's his family name, Geta. Then we have Caractacus. Keep that in mind. And then we have the Druids. Keep them in mind also. The Druids are very important. So the Druids were their high priests, their elders.
+
+> whose authority was great not only in religious but civil affairs. Their name seems to come from the British word dar, or the Greek word drus, both signifying an oak; not only because they esteemed nothing more sacred than the misletoe that grows on the oak, but likewise because their usual residence was in groves among oaks;
+
+- Yeah. Groves.
+
+> nor did they perform any of their ceremonies without some branches or leaves of that tree. They were held both by the Britons and Gauls in such veneration,
+
+- By this time, the Gauls is us that lived in that area.
+
+> that their authority was almost absolute.
+
+- Their authority was absolute. Keep in mind.
+
+> To them belonged the care of private and public sacrifices,
+
+- They sacrifice. Keep this in mind.
+
+> the interpretation of religion,
+
+- They taught religion.
+
+> the bestowing rewards, or inflicting punishments,
+
+- They dealt out judgments. See, the Druids.
+
+> the deciding controversies,
+
+- They dealt in controversies. This sounds very familiar. Sacrificing, and controversies, and judging matters. Sounds very high priestish, does it not? Keep going.
+
+> let the difference be of what nature soever. And whoever refused to obey their decree, whether lord or vassal, was excluded from the sacrifices,
+
+- So the kings are subject to them also.
+
+> which was accounted the greatest punishment that could be inflicted.
+
+- Oh, so you went against them, that was the greatest affliction possible.
+
+> For such as were thus, we may say, excommunicated,
+
+- They were cut off from their people.
+
+> were reckoned in the number of the wicked,
+
+- They were counted as the wicked for going against the Druids.
+
+> and as such avoided by all, not allowed to commence a suit, to discharge any public office, or to have the least regard paid them. These Druids had a superintendent or pontiff, to whom they were all subject.
+
+- They had a higher priest Druid that they answered to. They had different levels of Druids.
+
+> Upon his decease the most worthy succeeded him;
+
+- But we're going to find out who succeeded him later on.
+
+> but if there happened to be several candidates of equal merit, the election was decided by a majority of votes, and sometimes, as Caesar tells us, by the sword.
+
+- If you had no sons. Or they fought for it.
+
+> Once a year the Druids of Gaul had a general assembly in the midst of the country, to which resorted persons from all quarters who had any controversy to decide, every one submitting readily to their decrees. The discipline of the Druids was thought, as Caesar writes, to have been first instituted in Britain,
+
+- First instituted where? In Britain. So this high priesthood of Druids is instituted in Britain. In Britain. Keep that in mind, because it's very important who they are.
+
+> and from thence transferred to Gaul; for even in this time, those who were desirous to have a thorough knowledge of it came over to this island to learn it.
+
+- Give me 2 Chronicles 19:8. They dealt with controversies, the Druids.
+
+</div>
+
+**[2 Chronicles 19:8](/bible/2-chronicles/19#v8)**  *[[26:09](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1569s)]*
+
+> <sup>[8](/bible/2-chronicles/19#v8)</sup> Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the Lord, and for controversies, when they returned to Jerusalem.
+
+- And for what? And for controversies. Levites were set to judge matters and for controversies, just like the Druids. Such a weird coincidence, huh?
+
+*[[26:30](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1590s)]* **Guest:** I was going to say, when he said that the Druids, if anyone disobeyed their rules, then they were forgotten in the sacrifices. That's the same thing that the Jews was writing to the Lacedemonians, when he said, We have you always in remembrance in our sacrifices.
+
+**Deacon Eythan:** Yep. Let's get it. Where's it at?
+
+**Guest:** I got it. First Maccabees 12 and verse 9 to 11.
+
+**Deacon Eythan:** Lacedemonians. Northern kingdom too.
+
+
+**[1 Maccabees 12:9-11](/bible/1-maccabees/12#v9)**  *[[27:06](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1626s)]*
+
+> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, that we have the holy books of scripture in our hands to comfort us,
+>
+> <sup>[10](/bible/1-maccabees/12#v10)</sup> Have nevertheless attempted to send unto you for the renewing of brotherhood and friendship, lest we should become strangers unto you altogether: for there is a long time passed since ye sent unto us.
+
+> <sup>[11](/bible/1-maccabees/12#v11)</sup> We therefore at all times without ceasing, both in our feasts, and other convenient days, do remember you in the sacrifices which we offer, and in our prayers, as reason is, and as it becometh us to think upon our brethren:
+
+- Yeah. Sacrifice for the Spartans. Lacedemonians are Spartans, by the way. The Lacedemonians and Spartans is the same thing. It's the same people. If you watch 300, they had the shields, and that V on the shield is an L. It's Lacedemonia. Those Spartans, we offer sacrifices for them. Those are our people. We don't offer sacrifice for no damn Romans, for no Greeks. Well, except one time, Heliodorus, because he had his ass beat. But that was to keep us from getting killed. That's for our sakes, not their sakes. This is for their sakes here.
+
+- See right there? That's a L. It's not a V. It's an L. It's a Latin L, for Lacedemonia.
+
+- And in our prayers. Think about our brethren. Okay. So that's our brother. The Spartans were our people. You watch that movie, Leonidas, that's a negro. That's what that was. And they weren't walking around in no damn cape butt naked. They were fully armored, right? The most you saw was their calves, and they had braids hanging under their helmets. And they were fully armored. Their legs were free, up to their thigh. Bro, they was a problem, man.
+
+*[[28:50](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1730s)]* **Guest:** Mind if I get one more, just to show where they got that from? That whole thing, if you're not listening, to take out your name from the sacrifices, meaning you wouldn't be remembered. Psalm 16 verse 3 and 4.
+
+**Deacon Eythan:** Psalm 16:3 and 4. We got to get his fix, you know. All praise.
+
+**Guest:** So this is where the priests would get that from. It was already instituted.
+
+
+**[Psalms 16:3-4](/bible/psalms/16#v3)**  *[[29:36](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1776s)]*
+
+> <sup>[3](/bible/psalms/16#v3)</sup> But to the saints that are in the earth, and to the excellent, in whom is all my delight.
+>
+> <sup>[4](/bible/psalms/16#v4)</sup> Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.
+
+- Okay. Yeah. That's good. It's good stuff. So these Druids here played a very high priestish role. We'll get to that later on.
+
+<div class="reading">
+
+Reading from *A Universal History*, volume 19, page 78, on the schools and teaching of the Druids · read by a guest in the studio  *[[30:05](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1805s)]*
+
+> The Druids were exempted from all military duties, taxes, and imposts, and met with such encouragement, that many embraced that profession.
+
+- Many embraced that profession.
+
+> The youth, especially the nobility, were educated by them.
+
+- They were the teachers of the youth. I'm telling you.
+
+> Those who embraced the same profession were first of all obliged to learn by heart a great number of verses,
+
+- They learned by heart a number of verses. They were teaching the kids.
+
+> which employed some, says Caesar, for the space of twenty years;
+
+- For how long? For the space of 20 years. 20 years.
+
+> for the Druids never committed anything to writing; not that they were ignorant of letters, for on all other occasions they made use of Greek characters; but in order to lock up by that means their mysterious learning from the vulgar,
+
+- Watch. From other nations. To keep their understanding, or their teachings, from other people. They didn't write nothing down. They kept it up here.
+
+> or to exercise the memory of their disciples.
+
+- Disciples. Sounds very much like Samuel, Elijah, Elisha. These are schools. They said, Don't write nothing down. You're going to learn that from memory. Don't write nothing down. To exercise the memory of their disciples. They wrote nothing down. They can write, but they chose not to write. All that came from memory.
+
+> One of the chief tenets they taught was the immortality of the soul,
+
+- Oh man, sounds so, I don't know, so biblical. Immortality of the soul means you don't die. No one dies. You come right back. That's what that means.
+
+- **Guest:** They refer to that also as trans...
+
+- **Deacon Eythan:** I was going to say it. Read it.
+
+> and its transmigration from one body to another;
+
+- You know what that means? That means you don't die. You come right back, and still come back again and again and again and again and again. They taught regeneration. Hey, wherever we were scattered, we still held on.
+
+- **Guest:** Yeah, we did. Yes, that's in Africa too, in the book we have about Africa.
+
+- **Deacon Eythan:** Equiano said in Africa the Ebo teach the transmigration of the soul. Meaning this: when you die, your spirit goes up, then it's migrated into another body and it's sent down again. Right? That's transmigration of the soul. That's why death to us back then was nothing to us. It was a change. If we die, I'll come right back.
+
+- Remember that scene, man. Look at that scene, man. Chucky, bro. It's a horror movie, but it's hilarious. And he's in the grave. They kicked him or something like that inside of a deep grave. And it was a ladder, and they pull the ladder up so he couldn't get out. And he's running around frantic, and his grave is there. He goes, Ah, God, tell me I come back. I'll always come back. And he says, But dying is such a bitch. And he gets shot in the heart. And he dies, and he gets shot on top of his own body in the grave. It's hilarious. It's a clip on YouTube. Damn. But the point is, that's the evil side of it. But our people understood back then. We died, and we did die. We got killed bad. But we didn't care. See, I'm die, it is what it is, man. We didn't care. We believed in transmigration of the soul from one body to another. Get that in Job. Get that.
+
+- **Guest:** Even Job said it.
+
+- **Deacon Eythan:** Oh, read it. Oh, damn. We got to read it. I'm going to read the whole thing again. The chief tenets they taught by memory.
+
+> which doctrine they looked upon as proper to inspire them with courage and a contempt of death.
+
+- Damn, they ain't care about death. They said, Man, death ain't nothing, bro.
+
+> They instructed their youth in several other traditions concerning the stars and their motions,
+
+- Whoa, wait. Whoa, whoa, wait, wait, wait, wait, man. Wait. We got to take this piece by piece. So give me Job first. I'm going to show you transmigration of a soul in the Bible. Then we're going to read what they taught these young gentlemen here, their disciples here in their schools.
+
+</div>
+
+**[Job 19:25-27](/bible/job/19#v25)**  *[[35:01](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=2101s)]*
+
+> <sup>[25](/bible/job/19#v25)</sup> For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:
+
+- I know that Christ exists. And he will stand at the latter day upon the earth.
+
+> <sup>[26](/bible/job/19#v26)</sup> And though after my skin worms destroy this body, yet in my flesh shall I see God:
+
+- Worms destroy this body here. Yet in my flesh: when I come back in my new body.
+
+> <sup>[27](/bible/job/19#v27)</sup> Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.
+
+- Who I shall see for myself. I will see him. I'll be back, and I'm going to see him with the same eyes I have now. Different body. And not another: the same exact eyes I have now. I'mma have my new body.
+
+- Though my reins be consumed within me: though I'm suffering from this damn affliction now, when I come back with a new body, I'mma see him. So that's transmigration. Meaning it's going to be me coming back again. Ain't going to be nobody else. Nobody else is going to be me. I'm not going to be a tree. I'm not going to come back as a rabbit. That's reincarnation. We don't teach that. Reincarnation is, you get judged, you turn into a roach, you're a tree, you're a piece of paper, you're a can of spam, whatever the hell it is. Regeneration, when you come back, new body, over and over again.
+
+<div class="reading">
+
+Reading from *A Universal History*, volume 19, page 78, what the Druids taught · read by a guest in the studio  *[[36:14](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=2174s)]*
+
+> They instructed their youth in several other traditions concerning the stars and their motions, the extent of the world,
+
+- The extent of the world.
+
+> the nature of things, and the power of the immortal gods.
+
+- And the power of the immortal gods. Wisdom of Solomon chapter 7 verse 17.
+
+- **Guest:** He know exactly where I want to go.
+
+- **Guest:** What's that little book? The little book was just Psalms and Proverbs. The Gideon Bible.
+
+</div>
+
+**[Wisdom of Solomon 7:17-21](/bible/wisdom-of-solomon/7#v17)**  *[[37:43](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=2263s)]*
+
+> <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
+
+- Yeah, man. Go to that page again. Read again. How the world was made: the extent of the world. Same thing.
+
+> <sup>[18](/bible/wisdom-of-solomon/7#v18)</sup> The beginning, ending, and midst of the times: the alterations of the turning of the sun, and the change of seasons:
+
+- Right. Now, this class is based upon the midst of the times. Middle Ages.
+
+> <sup>[19](/bible/wisdom-of-solomon/7#v19)</sup> The circuits of years, and the positions of stars:
+
+- That's what they taught their students there, concerning the stars.
+
+> <sup>[20](/bible/wisdom-of-solomon/7#v20)</sup> The natures of living creatures, and the furies of wild beasts: the violence of winds, and the reasonings of men: the diversities of plants and the virtues of roots:
+>
+> <sup>[21](/bible/wisdom-of-solomon/7#v21)</sup> And all such things as are either secret or manifest, them I know.
+
+- All right. So what we have here is we have these Druids teaching their students the same things that Solomon learned: the stars, the motions of how they move, the extent of the world, nature of things. That goes into beasts, animals, men. Nature of things. Power of the immortal gods, is the Lord, the gods.
+
+- Now this could be, remember our people started going into serving God and at the same time idolatry. So immortal gods could be either the gods as in the heavenly angels, or some nonsense. But you're going to see how it relates.
+
+<div class="reading">
+
+Reading from *A Universal History*, volume 19, page 78, on the women Druids, the Bards and the petty kings · read by a guest in the studio  *[[38:52](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=2332s)]*
+
+> There were women as well as men Druids;
+
+- That's how we start going the hell off. There are men Druids as well as women Druids.
+
+> for a female Druid of Tongria, now the bishoprick of Liege,
+
+- Now the what? The bishoprick. Oh man. He called her bishop prick. She was a bishop. A bishopress.
+
+> foretold to Diocletian, as we read in Vopiscus, when yet a private soldier, that he should one day be emperor.
+
+- So a Druid woman told Diocletian that he would become emperor. So she was, they say, a prophetess, pretty much, that she told he'll be. Diocletian was one of us. He was a Jake ruler of Rome. He become ruler.
+
+> The sect and religion of the Druids spread as far as Italy;
+
+- Wow.
+
+> for Augustus published an edict forbidding the Romans to celebrate their mysteries. Besides the Druids, there were among the Britons and Gauls priests of an inferior rank,
+
+- But you had higher ranking Druids and you have lower ranking Druids. Now remember, I'm not saying they were righteous, because there was some elements of biblical practice in there, but also pagan elements as well. I'm gonna show you.
+
+> called Bards,
+
+- Now Bards is funny. You watch the show called, what's it called? Oh, man. The Witcher. The Witcher. If you watch The Witcher, it's a good show. Well, it was, until the last season was garbage. But you watch the first two seasons, it's great. And it's a guy that walks around with him all the time and he sings. He plays a banjo thing, a little, not ukulele, man, a small little guitar, a little banjo thing. Anyway, he's playing that, and he's following Witcher around. They call him a bard. He's a bard. Okay. So Witcher, his boy. He's not in this picture here, but he's a guy that sings songs of Witcher's travels. He's like a scribe.
+
+- **Guest:** Yeah, they scribes. A bard's a scribe.
+
+- **Deacon Eythan:** That's what a bard is. They'll sing songs based upon your success and what you've done. Scribes are recorders, and they record what you do in song. They're called bards. I don't know if we gonna get to that, but the bards, they the ones that describe what is called the triads. The triads is where you get the King Arthur and your Beowulf. So that's what the bards are. There you go. Those are recorders. Scribes are recorders of our heroes.
+
+- **Guest:** You're about to get him started, right? Oh, Ethan's a bard. Asaph and Heman. Oh, Lord. Judith.
+
+- **Deacon Eythan:** Yeah. But they were prophesying. That's different.
+
+- **Guest:** In songs.
+
+- **Deacon Eythan:** In songs. Yes. And prayers too. All right. Writing songs and prophesying in songs. King David and all that.
+
+- **Guest:** Remember they sing songs about David. David his ten thousands, and Saul his thousands. And then Saul lost his mind.
+
+- **Deacon Eythan:** Yo, I kill David, man. Yo, he went crazy, bro. Imagine Saul went crazy, bro. Yo, man, I killed David. I kill that man.
+
+> whose province it was to celebrate the exploits of their heroes
+
+- Of their heroes. Right. There you go.
+
+> in verses,
+
+- There you go. Psalms. Psalms and verses. Watch this.
+
+> which they sung to the harp.
+
+- That's the bards, as they were doing.
+
+> The Bards were still in Britain after the Romans had entirely abandoned it.
+
+- So the legends of our heroes, they were singing in songs. That's how they remembered, in verses.
+
+> The same form of government prevailed in Britain
+
+- The same form of government of the Druids was in Britain.
+
+> as in Gaul; that is, the whole country was divided into several small states, with a head over each, dignified by authors with the name of king.
+
+- They weren't king, but they were under the king.
+
+> Of these heads or kings Caesar mentions four in the small compass of Kent. Whether these states were hereditary or elective, we find nowhere recorded. On great and imminent dangers, one of these heads or kings was in a general assembly, and by common consent, chosen commander in chief of all their forces.
+
+- Read on. Watch this.
+
+> Thus when Caesar invaded the island, the chief command of all the British forces
+
+- Britain. Rome didn't take Ireland. They took Britain.
+
+> was conferred upon Cassivelaunus; and when the Britons revolted in the time of Claudius, Caractacus, king of the Silures, was chosen general. As in other cases, the several states into which Britain was divided had no dependence upon each other. They had, no doubt, quarrels and contests among themselves.
+
+- So Jake always was divided among ourselves. We were divided. And then the Romans came across us; we're going to call these guys this, call these guys that. But they were all the same people, but divided based upon quarrels and beefs among ourselves, as usual. As the Moors, same thing. We had little petty states in Spain and Portugal. White man conquered us state by state, land by land, intermarried with us state by state, land by land, and took over. Same thing. White man does the same thing all the time. Divide and conquer. It is a heathen practice, when dealing with Israelites, to divide, or play on the division, and conquer, because Israel is stupid. We are a wise yet dumb people. Okay.
+
+- Now, where we at? What page is that? I knocked my damn mic over. Give me 86 to 88. Page 86.
+
+</div>
+
+<div class="reading">
+
+Reading from *A Universal History*, volume 19, pages 86 to 88, on the Silures, the Brigantes and Eboracum · read by a guest in the studio  *[[45:39](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=2739s)]*
+
+> The most southern county, formerly belonging to the Silures, is Glamorganshire;
+
+- Glamorgan. So the most southern country belonging to the Silures is Glamorganshire.
+
+> where, at a small distance from the Remny, which divides it on the east from Monmouthshire, is to be seen Caerphilly castle, in the opinion of Camden the most noble and ancient piece of architecture remaining in Britain.
+
+- Right. So the area, a place called Glamorganshire, was run by us. Okay. You have a place called Caerphilly Castle, in the opinion of Camden the most noble and ancient piece of architecture, that we built, still remaining in Britain to this time the book was published, which was in 1748.
+
+> This Camden thinks it was the Bullaeum Silurum.
+
+- That's all us. Any time you see Silurum or Silures, that is using ancient architecture in Britain, that was us. Okay. Hold on a second. Let me see. Read on, next page, 87.
+
+> The remaining part of South Wales, comprehending Caermarthenshire, Pembrokeshire, and Cardiganshire, was likewise inhabited by the Silures.
+
+- We had that whole thing, all these shires. Even to this day you have an area today called shire in the UK.
+
+- **Guest:** These are towns in the UK today.
+
+- **Deacon Eythan:** Towns. You were talking to Ezekiel from over there today. He was like, Yeah, man, I'm from some shire. I said, Yo, bro, let me ask you a favor, man. Do me a favor. Can you say bottle of water for me, please? He's like, Come on, D. Come on, man. Don't make me say that, please. Come on, say it, bro. He was like, All right, bottle of water. Yeah, they say it that way. They don't pronounce their T's. On my days. I think it's hilarious, man, what you speak over there. That's Benjamin. So Benjamin mixed with that language is hilarious.
+
+> The Brigantes,
+
+- Remember the group, the Brigantes. That's one of the groups of the 17 petty states. You had the Damnonii, the Brigantes, whoever. So, all the same.
+
+> a numerous and powerful people, and much commended by the ancient writers, possessed the following counties: Yorkshire,
+
+- That's today. That still exists today. Yorkshire.
+
+> and the bishoprick of Durham towards the east and the German ocean; towards the west, Lancashire,
+
+- Lancashire is still over there today too.
+
+> Westmorland,
+
+- Westmorland. That's Jake. That's us.
+
+> and Cumberland.
+
+- That's still there today too. Cumberland.
+
+> In Yorkshire, in the West Riding, on the Don, stood the city of Danum, mentioned by Antoninus, and in the Notitia called the station of the Crispinian horse.
+
+- Yep. So we had all these towns today: Westmorland, Lancashire, Yorkshire. But you read about Robin Hood. He had a town Robin Hood was known for. I forgot what town he was in. Nottingham. That was us too. That was our town too. Nottingham was our town too. Robin Hood was also us. The robber was Jake too.
+
+- **Guest:** You got them still robbing in the hood.
+
+- **Deacon Eythan:** Yeah, exactly. They rob the rich and give to themselves.
+
+- **Guest:** Rob the poor and give to themselves. They ain't robbing the rich. The rich will throw them in jail.
+
+- **Deacon Eythan:** Where we at? What page is this? Go to 88. Go up. Let me see what I want. Go down. Read this right here. Watch this.
+
+> Eboracum, or Eburacum,
+
+- E-B. Eboracum. That's Eber, as in the father of the Hebrews. Eboracum.
+
+> now York.
+
+- Now it's called York. And in America it became New York. But before that it was called Eboracum, because the Hebrews were there. Named it after ourselves. That's the Latinized version of it. We gave it Eber. Hibernia, Eber, Eboracum. It's all the same people naming the same places. Okay. Oh, go down there. Let's see about that.
+
+> In this city the emperors had a palace, in which died Septimius Severus and Constantius Chlorus;
+
+- Septimius Severus had a palace there. And Constantius Chlorus, who was black as hell too.
+
+> upon the death of the latter, his son Constantine, who afterwards acquired the surname of Great,
+
+- Okay. So Constantius is Constantine's father. So he had a palace in this area also. So Septimius Severus had a palace here, and Constantine the first had a palace in this area also, because our people were there. These are our people too. Constantine was us. Septimius was us. It's all the same people, because their families were from this area. That's why they had palaces there. So remember that.
+
+- Now get me Acts 11:28, regarding Claudius warring with the Silures.
+
+- **Guest:** That's some good stuff right there. That's old. Look at the braids.
+
+- **Deacon Eythan:** Hold on to that. Just screenshot that and save it, so you never lose it again.
+
+</div>
+
+**[Acts 11:28](/bible/acts/11#v28)**  *[[52:30](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3150s)]*
+
+> <sup>[28](/bible/acts/11#v28)</sup> And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cesar.
+
+- This is the same Caesar that fought against Caractacus, the Silures. So this famine came during the days of Claudius Caesar. The same Claudius that went to war with the Silures, Caractacus the general. All right. 18 and 2. Same book.
+
+**[Acts 18:2](/bible/acts/18#v2)**  *[[52:57](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3177s)]*
+
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
+
+- From Italy. He deported all the Jews out of Italy, Rome, during his reign. Claudius Caesar, or Claudius Kaiser, or Claudius Khazar. Same damn people. All right. So now this is the same guy that went to war against us. He fought the Silures between 43 and 50 AD.
+
+*[[53:40](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3220s)]* **Guest:** So this goes back to the Lacedemonians. So this right here is a sculpture of what the Lacedemonians looked like. You see the braids? Okay. Remember Deacon said they were fully covered, not like in the movies. That's Esau portraying some nonsense, making them look like the Greeks.
+
+**Deacon Eythan:** The Romans and the Greeks fought with capes and butt naked. Nasty.
+
+**Guest:** The Romans didn't wear pants. Oh yeah. That too. But here, as you can see, this is us, fully covered, fully armored. All right. You see the braids, you see the dreads. This is from Walking with the Giants. Shout out to Bishop. Thank you, Bishop.
+
+**Deacon Eythan:** Now, how can you really tell this is a black man? We see the dress, but what is the main thing that sticks out to you?
+
+**Guest:** Missing members on their face. Missing nose.
+
+**Deacon Eythan:** The missing nose. And lips. Yo, his lips must have been big as hell if they knocked them out. They usually just knock the nose out. This is what Esau does. Why? Cause they don't want you to know that this was you. This was us at one time. He got straight braids going down his back. That's Jake, man. That's Jake, braids going down. Don't try to pull them either. You try to fight that dude and pull him, they'll break your bones, man. Them dudes can fight with long hair like that, man. Most of the time you fight, you tie your hair up. These dudes fought with their hair down.
+
+**Guest:** You know what this reminds me of? In football, when the brothers be having their dreads coming out the helmet, and they just running and doing what they got to do.
+
+**Deacon Eythan:** Yeah, exactly. Exactly.
+
+*[[55:39](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3339s)]* We going to break now? Four minutes? Okay. All right. Read this real fast and we'll go on break. So this is some AI. I use AI sometime. AI helps. Now, if you're going to use AI, I'm going to give you guys advice. When you use AI, or Chat, or whatever, like I use ChatGPT from time to time, or other ones, but ChatGPT is my favorite. And if you're going to use it, you got to fact check it as well, because sometimes it'll give you information that's false. So you have to reassert questions, ask the right way, then go to Google, check that out. You got to fact check AI. AI be wrong sometimes. Be mindful of that. But in this instance it is not.
+
+*[[56:19](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3379s)]* Now also, Esau controls AI as well, because you'll ask certain questions and it won't answer it based upon what you ask, or based upon the content you ask about. It'll get mad at you. It'll say, Yo, why you asking this? That's Esau behind it. But you got to just be mindful when you use ChatGPT or AI, whatever. When you use it, you fact check it as well, because you might mess around and pull something wrong.
+
+*[[56:40](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3400s)]* So now, what ended up happening was, the doctrine is that when white folks are saying that Israelites ruled Europe, that's called British Israelism. The people I mentioned earlier, like Bede, different writers that wrote about the Silures or whatever, that's long before British Israelism. Long before. So this doctrine is not British Israelism. It is the fact that Israelites were in Europe, and we ruled. All right. We dominated that land first. Read that.
+
+
+<div class="reading">
+
+Reading from an answer from ChatGPT on the Roman conquest of the Gauls and the Galatians · read by a guest in the studio  *[[57:19](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3439s)]*
+
+> The conquest of the Gauls and the Galatians by the Romans happened in different periods and regions. Here's how it breaks down.
+>
+> 1. Roman conquest of the Gauls (Gallia). The Gauls were a collection of Celtic tribes in what is now France, Belgium, Switzerland, and northern Italy.
+
+- This is Japheth at first.
+
+> The Romans first clashed with the Gauls in the 4th century BC, when the Senones sacked Rome in 390 BC. The major Roman conquest came much later under Julius Caesar,
+
+- The Gallic Wars.
+
+> 58 to 50 BC, during the Gallic Wars, leading to the full annexation of Gaul into the Roman Republic.
+
+- Yeah. He smashed Japheth. He destroyed Japheth.
+
+> By 27 BC, under Augustus, Gaul was formally organized into Roman provinces.
+>
+> 2. Roman conquest of the Galatians (Asia Minor). The Galatians were a Celtic people who migrated to Anatolia
+
+- The Gauls and Galatians is the same. That's where the word Galatians comes from. Gauls. They migrated from those areas, when they got conquered by Julius, into Anatolia, Turkey, and named it Galatia after them.
+
+> (modern Turkey) in the 3rd century BC and settled there. They were involved in various conflicts with Hellenistic kingdoms and later became Roman allies. In 189 BC the Romans defeated the Galatians but did not annex them. In 25 BC Galatia officially became a Roman province after the death of its last king, Amyntas, and was absorbed into the empire under Augustus.
+>
+> 3. Caractacus and the Roman conquest of Britain (43 to 50s AD).
+
+- Yep. Caractacus was earlier.
+
+> Under Claudius. Caractacus was a British chieftain who resisted the Roman invasion of Britain under Emperor Claudius in 43 AD. He led resistance against the Romans but was defeated by Ostorius Scapula in AD 51 and taken to Rome. This was much later than the conquest of Gaul (50s BC) and Galatia (25 BC).
+
+- Long after this. He's Jake.
+
+> 4. The Hasmonean alliance with Rome (2nd century BC). The Hasmonean Jewish rulers sought an alliance with Rome
+
+- The Maccabees. That's the book of Maccabees.
+
+> in 161 BC, during the Maccabean revolt against the Seleucid Empire.
+
+- This is the time when Japheth and Edom were in alignment. They were working, ruling together jointly, until eventually Rome, the Julius family, Julius Caesar's family, took over and killed Japheth off, leading into the Gallic Wars, where he pretty much eradicated them in that area.
+
+> This was when Judas Maccabeus sent envoys to Rome, leading to a treaty of friendship
+
+- To fight against the Greeks.
+
+> This is long before Caractacus' resistance in the 40s AD
+
+- 50s AD. This was way before.
+
+> and before the Gallic Wars (58 to 50 BC). At this time Rome was still expanding but had not yet conquered Gaul (except northern Italy) or Galatia.
+>
+> Did these events overlap? No, they happened in different centuries. The Hasmonean-Roman treaty (161 BC) occurred when Rome was a rising power, but before it had conquered Gaul or Galatia.
+
+- It was still a republic at this time.
+
+> Gaul was conquered by Caesar (58 to 50 BC)
+
+- Julius.
+
+> about a century later. Galatia became a Roman province in 25 BC. Caractacus resisted Rome in Britain in the 40s and 50s AD, nearly 200 years after the Hasmonean-Roman alliance. So while all these events involved Roman expansion, they happened in different regions and different time periods.
+
+- Yeah. So pretty much that's the history of Galatia. That's what happened.
+
+- So now, we're going to take a quick break. We'll be back, and we're going to go into Ireland again. So you guys want to call, you can Zoom call in. You can also text us at 267-262-6121. And don't forget to donate. Donate. Donate. You know where it goes. You know what we're doing. Please give your contributions. Your donations are greatly appreciated. All right. So we'll be back after this break.
+
+</div>
+
+*[[1:01:53](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=3713s)]* The break: the IUIC reels play. Memphis is off the charts when it comes to black-on-black violence. We must stand up and be an example for the people in our community. Israel United in Christ is not a hate group. Time and time again, whenever so-called pro-black rise up to fight for their people, when we focus on uplifting our own, we are labeled as hateful. The reason why the end has not come yet is because the true gospel has not been preached in the last time. Our Lord and Saviour, his real image has been hidden for centuries. The cross is a symbol of death. The biggest kept secret on the earth right now is who we are as a people. Anyone that spoke about us being the Israelites caught hell, because if we come back to the acknowledgement and the awareness of who we are and we keep God's laws, that's going to speed up the process of being saved out of the condition that we're in. The Bible is for the Israelites. It's not for nobody else. It's our history. Turn back to him, keeping the laws, not just individually, not in a little group, but as a nation: all 12 tribes on one accord, knowing and acknowledging we're the Israelites and turning back to God. Then IUIC Cleveland cleaning up the community: We out in the slums, we out in the ghettos, cleaning up the trash out of the communities, showing our people we are love. We making it happen to make sure that we beautify the areas that we live in, setting an example for our brothers and sisters to be that light that shines in the world. And the song on 1 Kings 2:2-3: I got the law in my head. I'm a man now. I keep the law just like I said. I'm a man now. I ain't no zombie walking dead. I'm a man now. I chose life. I make things happen cause I keep God first.
+
+*[[1:09:38](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=4178s)]* We're back. Okay. All praises. Thank you. Oh God, the feel over there is crazy, man. All right, so where we at? I need to go back to where I was at. We left off with the history of the Gauls. Now give me *Ireland*, page 39. And oh, we got a text, right? Read that first.
+
+
+**Text:** Shalom, leadership, mighty men of God. Question: are the Tutsi people Israelite, or are they Hamites? I know, off topic. Just been wondering.
+
+**Deacon Eythan:** You got it.
+
+**Guest:** Well, it's a mix between Hamites and Israel. Some of the Tutsis claim to come down from Ethiopia and claim to have Israelite descent. And you have some that are Hutus that claim to have Israelite descent. So it's a mix, just like in Africa. It's a mix between Israel and them.
+
+**Deacon Eythan:** Okay, there you go. Any more texts?
+
+**Text:** Shalom, deacon. Most High Christ bless. What would you say the Yemenite Jewish people are? Esau or Ishmael?
+
+**Deacon Eythan:** Or a mixture of both. Mixture of both. That was us, and they sold us into slavery. All right. Where we at? One more.
+
+**Text:** Shalom. The word shire, I heard it used before in the movie The Lord of the Rings, referring to the place where the hobbits lived.
+
+**Deacon Eythan:** Yeah, the Shire. They call it the Shire. It's like a village, or a town, or region today. A brother said in the comments it's like a region or town or whatever today. That means like a village. That's it. Watch this. Read that.
+
+
+<div class="reading">
+
+Reading from *Ireland, Ur of the Chaldees*, page 39, on Heber, Hibernia and Iberia · read by a guest in the studio  *[[1:11:29](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=4289s)]*
+
+> There is found in Irish tradition a Heber, whose name was given to Ireland, and which is to be perceived in the word Hibernia.
+
+- Eber. Hibernia.
+
+> Whether the Bible Heber and the Heber of Irish history may be the same does not concern us so much as the fact that Ireland has preserved to the present time more distinct marks of the ancient Ur than can be pointed to in any other country, whether Asia or Europe.
+
+- That's where Abraham is from. Abraham was from Europe.
+
+> Besides Ireland having had once the name of Hibernia,
+
+- It was called Iberia. We read that earlier. Eboracum, earlier.
+
+> from Heber,
+
+- From Eber.
+
+> there are names derived of Heber in England and Scotland:
+
+- There are names derived from Eber in England and in Scotland.
+
+> in Scotland, the Hebrides;
+
+- The Hebrides. Remember there's a place called that also, somewhere else. The islands. Polynesian islands. That's us over there too. They're called the New Hebrides. New Hebrews. Same thing. So it says in Scotland the Hebrides, and in the Pacific islands they call them the New Hebrides, because that's Hebrews over there.
+
+> in England, the old name of York, Eboracum or Heboracum.
+
+- The old name of York. Yorkshire. So York was called Eboracum.
+
+> It may appear, as the argument unfolds itself, that the balance of proof will rest on the side of the Irish Heber having been a veritable Hebrew.
+
+- Yeah, watch this.
+
+> A stronghold of the Heber was Iberia, a name under which Spain was once known;
+
+- Because the Hebrews sailed there and took the land over and named it that. So Eber, Ireland. We named these things.
+
+> and it is recorded that Milesius, the father of the Heber of Ireland, came with his son out of Iberia into Ireland. Iberia and Tarshish are acknowledged by most of our recent Bible commentators to be one place.
+
+- So Iberia, Hibernia, Eboracum are named by us. We named those lands after us.
+
+</div>
+
+**Text:** Shalom, deacon and leadership. Good afternoon. Have you ever heard of the book, antique book, *History of All Nations*, 1851, Goodrich, and *Ancient Kingdoms of West Africa*, Africa-centred and Canaanite-Israelite? Thank you. Most High bless.
+
+**Deacon Eythan:** No, not that one. No. Maybe. Now if he's referring to the ancient kingdom of West Africa, centred in Canaanite-Israelite, he could be talking about Dierk Lange. Now that book I have, Dierk Lange, the ancient West African one, written in Dutch or something. I don't really have that book in a different language, but I do have excerpts from his... he had a seminar, and he was speaking English.
+
+**Guest:** Yeah, that's the book right there.
+
+**Deacon Eythan:** Yep. He gives like a seminar. I taught this years ago. I used his book years ago to point out our people in Africa. I have one of his books that was translated into English. It was in French, I believe. He has some good stuff going into northern kingdom migrating into, oh, Yoruba. Yoruba is Jeroboam. That's from him. Yoruba, going back to the kingdom of northern kingdom, Yoruba or Jeroboam, goes back to his writings. So I have knowledge of that. If you're referring to that first book, no. Second book, if you're referring to that, yes.
+
+*[[1:15:54](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=4554s)]* You want them to show this, the Phoenicians? Oh yeah, let me get that. That's good stuff. And *West African Peoples*. I want *West African Peoples*, by my brother. I forgot his name. It was a brother that wrote it. What's the next text say?
+
+**Text:** Shalom, deacon. I've been wanting to ask you for a while now. What do you think about the ancient city Atlantis? Do you think it's worth our time to look into it, for tracking Israelite contributions and innovations?
+
+**Deacon Eythan:** No. Atlantis is believed to have been in various places, and so because of the obscurity of the location of it, I don't bother dabbling into that. I've heard it was in the Americas. The Spaniards came over here, and we had like an island. I don't know. I've heard Atlantis, I've heard Africa, I've heard America. I wouldn't venture to go into that realm. It's too much rabbit hole, hearsay.
+
+**Guest:** Yeah, it's too much.
+
+**Deacon Eythan:** It's like El Dorado, the city of gold. It's mystery stuff. I wouldn't do it. You can try. I wouldn't do it. But that does revolve around our people. That history revolves around our people's location, whether Africa or America. It revolves around us and our metropolis we had before the white man came along and destroyed us. So that's the most I know. Read that.
+
+**Text:** Shalom, Most High Christ bless. I'll get straight to it. Did we build the Taj Mahal and all of those structures in India as well?
+
+**Deacon Eythan:** I don't know. I don't know. We may have. Through slave labor, maybe. Yeah, I would say that's what I would say, through slave labor. But yeah, India's history is pretty rich and pretty consistent before the British got there. So, I mean, maybe. Like I said, I don't know. Possibly. The Great Wall of China, we have history of that, but the Taj Mahal, I'm not sure. Did we rule over India as sultans at some point in time? We did. So we may have been involved in it, but I don't know if we built it in full. So the answer is, I don't know, just to sum it up. What else we got? That's it? All right.
+
+
+<div class="reading">
+
+Reading from *West African Peoples and Countries* (the author's name not given on air), on the ten tribes in Africa · read by a guest in the studio  *[[1:18:42](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=4722s)]*
+
+> Northern Egypt then was the most known portion of the globe, and into it vast immigration took place from time to time, even to the most remote period. The ten tribes of Israel,
+
+- Northern kingdom.
+
+> after they were left to follow the dictates of their own mind, and during the commotion and destructive warfare which ensued, to escape utter extermination, migrated, according to the usage of the times, in vast numbers into various countries, but principally into northern Africa,
+
+- This is a time frame in which they fled here before Assyrian conquest, and they fled here during Persian conquest.
+
+> as it then presented the safest and easiest route. Once settled, every commotion and intestine war had the most powerful effect of inducing these bands to shift their abode still further,
+
+- They kept moving further and further in.
+
+> and so lose all connection with the other branch of the tribe. As hundreds of years passed on, and generation after generation rolled away, they lose a great many of their habits and customs,
+
+- Northern kingdom started forgetting who they were over time. Integrating, assimilating with the other nations that they were around.
+
+> becoming more amalgamated with the population
+
+- Becoming more mixed. Northern kingdom became more mixed with the heathen nations that they fled amongst.
+
+> with which they associate. But when Mohammedanism overspread northern Africa, destroying by fire and sword all those of another religion,
+
+- They would burn our Bibles. That's what they would do.
+
+> the Israelitish descendants, or the inhabitants occupying the central portion of Africa, pass forward, seeking shelter to the south and west; a part, namely those from the east central, crossing the Benue or Joliba branch of the Niger, descended gradually southward,
+
+- That's the river.
+
+> and became intermingled with the original inhabitants;
+
+- Ham.
+
+> protected from incursion on the north by the river, and quietly settled between the great Niger and Old Calabar rivers, it remained in peace, and grew from one generation to another in idolatry, but still leaving tangible proofs, in the form of the religion, of the Judaic origin of the inhabitants.
+
+- They maintain bits and pieces of their Judaic culture, along with the Hamites' stuff they learned.
+
+> After this slight digression, we will now proceed to investigate more particulars relative to the tribes under consideration. The language, or the little of it that is known, is full of Hebraisms;
+
+- It's full of Hebraisms.
+
+> the construction of sentences, the verbal significations, the mode of comparison, are all typical of the Hebrew.
+
+- A lot of African languages are of Hebrew derivation, like the Xhosa language. That's born of Hebrew also, which bugged me out. Like the clicking stuff is crazy, man. I was in South Africa, man. I was bugged out. I said, What's your name, sis? She said her name. I said, What? I said, Okay, it is. Got you. They call it Xhosa. A lot of my people over there in South Africa, their language is very, very diverse. They have about 15 languages, or 15 dialects of the language. So they call it Zulu. And there's like two languages out of the 15, I believe, I could be wrong, correct me if I'm wrong, brothers, if you're watching, that are very distinct from the rest. But they all pretty much speak different dialects, so they're still able to communicate. Like, for example, Abraham and the Canaanites. The Canaanites spoke a form of Hebrew. Abraham spoke it also. So even though it's different dialects, they can still communicate. It's the same exact thing over there. Same exact thing. All right. Read on. Go down to the next thing I have.
+
+> From a little study of the ethnology of the languages of Western Africa and the Hebrew tongue, one is involuntarily brought to trace out a similarity, and one of them to that of the tribes which, from disobedience to the will of God, were dispersed, and the greatest number of them possibly went to Africa.
+
+- Further into. Israel is already Africa. We moved further into Africa.
+
+> I mean the lost tribes of Israel.
+
+- That's who was in Africa. That's who's still there. There are 54 states in Africa. And somehow, we all believed at one time, early in history, before we start doing our research, that the bulk of us were brought over here. The bulk of the prophets were brought over here. But the bulk of our people are in Africa. Okay? So make that very, very clear. The bulk of the prophets were brought here. That's why the truth started here. So David's sons here, Jonathan's sons here, Aaron's sons here, Joshua's sons here.
+
+- **Guest:** And the rest, the bulk, is home. Back home.
+
+- **Deacon Eythan:** Yeah. That's why Jeremiah 29, he says, You will say the Lord has raised up prophets in Babylon. Get it. Jeremiah 29. Some of y'all brothers: Oh, we got to focus on Babylon. No. The prophets are going to travel where the Lord tells us to travel. Their line went forth through all the earth. It didn't say their line went forth through Babylon. It said their line went forth to the ends of the earth. I don't know what Bible you reading. Jeremiah 29, 14 and 15. Read that.
+
+</div>
+
+**[Jeremiah 29:14-16](/bible/jeremiah/29#v14)**  *[[1:24:53](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5093s)]*
+
+> <sup>[14](/bible/jeremiah/29#v14)</sup> And I will be found of you, saith the Lord: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the Lord; and I will bring you again into the place whence I caused you to be carried away captive.
+>
+> <sup>[15](/bible/jeremiah/29#v15)</sup> Because ye have said, The Lord hath raised us up prophets in Babylon;
+
+- Damn.
+
+> <sup>[16](/bible/jeremiah/29#v16)</sup> Know that thus saith the Lord of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brethren that are not gone forth with you into captivity;
+
+- Damn, that's heavy stuff, man. Prophets in Babylon. That's some good stuff. All right, read on.
+
+<div class="reading">
+
+Reading from *West African Peoples and Countries*, continued, and page 171 on the Ebo · read by a guest in the studio  *[[1:25:40](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5140s)]*
+
+> I mean the lost tribes of Israel. If the rites and ceremonies of the religion of the tribes bordering on the banks of the river Niger be closely examined, and compared with the religion of the Hebrews at the earliest period
+
+- Come on. That's it. You got 171?
+
+- **Guest:** Yes, sir.
+
+- **Deacon Eythan:** That's the most important page. Oh, you had to pull up another screen on this one. Watch this. Ebo. Ebo, Heber, Eber tribe. Remember Iberian Peninsula, Eboracum. It's the same place. Ebo, Eber, Eboracum, Iberia, Iberian Peninsula. It's the same place, named after the same people. Read on.
+
+> If the Ebo language, with all its corruptions, be compared with that of the Hebrews, and if the peculiar disposition of the Hebrew tribes, as detailed in scripture, and that of the Eboes, be properly investigated, there will be a priori reasons for a serious inquiry whether the Ebo tribe, which is but a branch of the Gala tribe in the interior, is the offspring of the lost tribes of Israel, driven down from central Africa, and forced to cross the eastern or Benue branch of the Niger by Mohammedan fanaticism.
+
+- By Muslims, forcing us to run from them. Psychotic Muslims. That's all I want.
+
+- So now give me Genesis 10:22, regarding Eber. See why that name was of such significance. Genesis 10, 21 and 22.
+
+</div>
+
+**[Genesis 10:21-25](/bible/genesis/10#v21)**  *[[1:27:32](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5252s)]*
+
+> <sup>[21](/bible/genesis/10#v21)</sup> Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.
+
+- Father of all the children of Eber.
+
+> <sup>[22](/bible/genesis/10#v22)</sup> The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
+
+- Elam is the East Indians, or Persians. Iranians. And Asshur. Asshur will be the Kurds, the people who resided between Syria, Iraq, Iran. That's Kurdistan. The Kurds. And Arphaxad. That's the line that Abraham comes out of. And Lud and Aram. Aram will be the Syrian. I don't know who Lud is.
+
+- **Guest:** Lud is Lydia. I think that's Turkey.
+
+- **Deacon Eythan:** But you have Aram is Syria. The Syrians. Aramaeans.
+
+> <sup>[23](/bible/genesis/10#v23)</sup> And the children of Aram; Uz, and Hul, and Gether, and Mash.
+
+- More Syrians.
+
+> <sup>[24](/bible/genesis/10#v24)</sup> And Arphaxad begat Salah; and Salah begat Eber.
+
+- So Arphaxad, Salah begat Eber.
+
+> <sup>[25](/bible/genesis/10#v25)</sup> And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.
+
+- That's what I want. Now give me Genesis 11:10.
+
+**[Genesis 11:10-14](/bible/genesis/11#v10)**  *[[1:28:54](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5334s)]*
+
+> <sup>[10](/bible/genesis/11#v10)</sup> These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:
+>
+> <sup>[11](/bible/genesis/11#v11)</sup> And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.
+>
+> <sup>[12](/bible/genesis/11#v12)</sup> And Arphaxad lived five and thirty years, and begat Salah:
+>
+> <sup>[13](/bible/genesis/11#v13)</sup> And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.
+
+> <sup>[14](/bible/genesis/11#v14)</sup> And Salah lived thirty years, and begat Eber:
+
+- Begat who? Eber. So Eber came out of Arphaxad. Okay. This goes back to Shem. Now get me Genesis 14:13. This is Abraham's family line.
+
+**[Genesis 14:13](/bible/genesis/14#v13)**  *[[1:29:40](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5380s)]*
+
+> <sup>[13](/bible/genesis/14#v13)</sup> And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram.
+
+- Abram the what? The Hebrew. Abram the child of Eber. Abram the Eber, or the Hebrew. Abram the Hebrew. So Abram was called Abram the Hebrew. Give me Genesis 39 verse 10.
+
+**[Genesis 39:10-14](/bible/genesis/39#v10)**  *[[1:30:11](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5411s)]*
+
+> <sup>[10](/bible/genesis/39#v10)</sup> And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
+>
+> <sup>[11](/bible/genesis/39#v11)</sup> And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
+
+- This is Joseph in captivity, and his boss's wife tried to sleep with him. He was like, Nah, I'm good. I'll pass. And she kept coming on to him.
+
+> <sup>[12](/bible/genesis/39#v12)</sup> And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
+
+- He ran. He ran from her, cause you obviously.
+
+> <sup>[13](/bible/genesis/39#v13)</sup> And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
+>
+> <sup>[14](/bible/genesis/39#v14)</sup> That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
+
+- She called Joseph a Hebrew. She called Joseph a Hebrew. Now get me Genesis 40:13.
+
+**[Genesis 40:13-15](/bible/genesis/40#v13)**  *[[1:31:21](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5481s)]*
+
+> <sup>[13](/bible/genesis/40#v13)</sup> Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.
+>
+> <sup>[14](/bible/genesis/40#v14)</sup> But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
+
+> <sup>[15](/bible/genesis/40#v15)</sup> For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
+
+- Out of where? Out of the land of the Hebrews. Ebo land. Now, land of the Hebrews is going into Canaan. But then eventually many of us fled into parts of Africa; we called it Ebo land, or land of the Hebrews. Land of the Hebrews.
+
+- So Joseph called his home the land of the Hebrews. Give me Exodus 2 and 6. So when we fled further into Africa, away from the Romans and the Arabs, we called that land mass Ebo land, or land of the Hebrews, our second home.
+
+**[Exodus 2:6](/bible/exodus/2#v6)**  *[[1:32:34](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5554s)]*
+
+> <sup>[6](/bible/exodus/2#v6)</sup> And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children.
+
+- This is one of the Hebrews' children. She called them Hebrew again. Get verse 13.
+
+**[Exodus 2:13](/bible/exodus/2#v13)**  *[[1:32:50](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5570s)]*
+
+> <sup>[13](/bible/exodus/2#v13)</sup> And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
+
+- Moses' brothers, his people, were fighting each other. Why are you fighting your brother for? Hebrews strove together. Get chapter 3 verse 18.
+
+**[Exodus 3:18](/bible/exodus/3#v18)**  *[[1:33:12](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5592s)]*
+
+> <sup>[18](/bible/exodus/3#v18)</sup> And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The Lord God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the Lord our God.
+
+- Oh, that's some good stuff right there too. Hold on to that also. The Lord God of the Hebrews. So Hebrews are called Hebrews over and over and over again, because he descended from Eber. Give me 1 Samuel 4:6.
+
+**[1 Samuel 4:6](/bible/1-samuel/4#v6)**  *[[1:34:10](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5650s)]*
+
+> <sup>[6](/bible/1-samuel/4#v6)</sup> And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the Lord was come into the camp.
+
+- **Guest:** I got that map, by the way. I'm going to request it earlier. We going to use that also.
+
+- **Deacon Eythan:** So the Philistines called us Hebrews also. Read verse 8. Watch what they say about us.
+
+**[1 Samuel 4:8](/bible/1-samuel/4#v8)**  *[[1:34:31](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5671s)]*
+
+> <sup>[8](/bible/1-samuel/4#v8)</sup> Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.
+
+- They called the Hebrews mighty gods. See that? So the nations knew who we were at the time. Now we're just regular men getting put to death. Give me Jeremiah 34:9.
+
+- **Guest:** But that's temporary.
+
+**[Jeremiah 34:9](/bible/jeremiah/34#v9)**  *[[1:35:09](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5709s)]*
+
+> <sup>[9](/bible/jeremiah/34#v9)</sup> That every man should let his manservant, and every man his maidservant, being an Hebrew or an Hebrewess, go free; that none should serve himself of them, to wit, of a Jew his brother.
+
+- An Hebrew, or an Hebrewess. A Hebrew or Hebrewesses. That's your women, sisters, Hebrewesses. So Jew, Hebrew are synonymous. Give me Judith 10:12. You want to say something?
+
+- **Guest:** I was just going to say, that's how you show what Paul is talking about in the New Testament. Bond or free. He's talking about Hebrew or Hebrewess.
+
+- **Deacon Eythan:** Right. Exactly. Get Judith 10 and 12.
+
+**[Judith 10:12](/bible/judith/10#v12)**  *[[1:35:46](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5746s)]*
+
+> <sup>[12](/bible/judith/10#v12)</sup> And took her, and asked her, Of what people art thou? and whence comest thou? and whither goest thou? And she said, I am a woman of the Hebrews, and am fled from them: for they shall be given you to be consumed:
+
+- So they asked Judith, a child of Simeon, What people are you? And she said, I am a woman of the Hebrews. Give me 2 Maccabees 11:13.
+
+**[2 Maccabees 11:13](/bible/2-maccabees/11#v13)**  *[[1:36:22](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5782s)]*
+
+> <sup>[13](/bible/2-maccabees/11#v13)</sup> Who, as he was a man of understanding, casting with himself what loss he had had, and considering that the Hebrews could not be overcome, because the Almighty God helped them, he sent unto them,
+
+- The Hebrews could not be overcome. So we are called Hebrews. I took you guys from Abraham all the way down to Greek captivity, Babylon, Syria. We will always be referred to as Hebrews. All right, give me 2 Corinthians 11:22.
+
+**[2 Corinthians 11:22](/bible/2-corinthians/11#v22)**  *[[1:37:02](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5822s)]*
+
+> <sup>[22](/bible/2-corinthians/11#v22)</sup> Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
+
+- Paul is Roman captivity. Are they Hebrews? So am I. Are they Israelites? So am I. Cause that's the same thing, right? I don't like that term Hebrew Israelites at all. I despise it. It's redundant. I'm a black African. That's a black black.
+
+- **Guest:** It's a sneak diss. Yeah, it's an insult. Hebrew Israelite.
+
+- **Deacon Eythan:** Yes, it's a sneak diss. You can't speak Hebrew anyway. So that's a sneak diss on yourself on top of that. So Paul said, Am I a Hebrew? Yes. Am I an Israelite? Yes. Give me Philippians 3:5.
+
+**[Philippians 3:5](/bible/philippians/3#v5)**  *[[1:37:49](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5869s)]*
+
+> <sup>[5](/bible/philippians/3#v5)</sup> Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
+
+- Stock of Israel, a Benjamite, a Hebrew of the Hebrews. As touching the law, a Pharisee: raised by a Pharisee. So from Abraham all the way down to Rome, till now, we are referred to as either Hebrews or we are Israelites. Paul never referred to himself as a Hebrew Israelite. If you say I'm a Hebrew, or an Israelite, it's interchangeable terms.
+
+*[[1:38:27](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5907s)]* So now give me the lost tribes of... No, give me that map first, regarding our travels throughout the islands, the UK. This is an old map here. Blow it up. Blow it up.
+
+
+<div class="reading">
+
+Reading from an old map of Spain, Iberia of the Phoenicians · read by a guest in the studio  *[[1:38:40](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5920s)]*
+
+> Iberia of the Phoenicians.
+
+- You see right there, part of Spain, it says Iberia of the Phoenicians. That's us there. That's us. Iberia of the Phoenicians. This is a very old map. Read that print right there. Watch what it says there.
+
+> Spania, from Shaphan, a rabbit, so called by the Phoenicians,
+
+- Because we named Spain after the abundance of rabbits that were there. Because we named Spain. That's why it's called the Iberian Peninsula, because Hebrews named the land and took that land part over. All right. That's why, España: rabbit, so called by the Phoenicians. The Phoenicians named that area. Okay. We named Spain. We named Ireland too. The bottom part there.
+
+> Hispania of the Romans. It was also, from its western situation, called Hesperia by the Romans, Ultima, which signified the lesser, as Italy was the great. Spain was also distinguished into Citerior and Ulterior, or the nearer and the further.
+
+- Wow. All right. The Romans came and added confusion.
+
+- **Guest:** Yeah, the Romans came and just added their own damn twist of it.
+
+- **Deacon Eythan:** We named it. They're going to name it something else. Go up to the top. What book is this? Oh, well, Scotland was Jewish. Let me see if I want that right now. Yeah, read. That's fine. You got time. Read it.
+
+</div>
+
+<div class="reading">
+
+Reading from a piece on when the Jews arrived in Scotland, citing Brooks (2001) and Cyrus Gordon (1971) · read by a guest in the studio  *[[1:40:52](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6052s)]*
+
+> When did Jews arrive in Scotland?
+
+- When did the Jews, or Israelites, arrive in Scotland?
+
+> Several sources posit that persons from the Levant, North Africa, and even Italy had visited southwestern England near Cornwall before the Common Era. There were rich tin mines in this region that were exploited by the early Phoenicians
+
+- That's us.
+
+> (800 BCE or earlier; Britain means land of tin)
+
+- We read it earlier. We reading it all throughout the lesson.
+
+> who traded with ports from France and northern Africa to Italy and Greece.
+
+- We would hide those travel routes.
+
+> Because the Judeans often worked with the Phoenicians as trading partners,
+
+- Because he sailed the same seas, as in Solomon's time. The same people, right?
+
+> some could have reached Britain as early as this time. The demography of Cornwall still attests to a significant incidence of J and E3 genes in the region.
+
+- Ignore the science. Ignore the science. Let's just keep going.
+
+> According to Brooks, there are numerous well-established geographical links between the Hebrews of the Mediterranean and peoples of the British Isles.
+
+- Yes, that's true.
+
+> The early name of what is now Cornwall and Devon, in southwestern England, was Damnonia,
+
+- Oh yeah. Damnonii. So Devon or Cornwall is Damnonii. That goes back to the Silures, them 17 petty states.
+
+> which antiquarians have glossed as meaning Dan's tin mines.
+
+- Wow. Dan's tin mines. I didn't mention it earlier, but yeah. Dan's tin mines. Okay.
+
+> Among others, the distinguished Semitic studies professor Cyrus Gordon suggested that
+
+- Cyrus Gordon's a guy that found that stone over in Brazil, and it was Hebrew. Remember, he tried to do an interview on live TV, and they pulled the plug. The whole building lost electricity, and he never rescheduled that interview.
+
+- **Guest:** Yep. Yep. That's in the book.
+
+- **Deacon Eythan:** He went on TV to explain that the stone was of Paleo-Hebrew, found in Brazil, and I think it said something for the Jews on it, for Judah, and he went to explain it, and it went boom. Pulled the plug. The whole building lost power from that show.
+
+> this name, seen also in the Irish myth of the Tuatha De Danann tribe,
+
+- Dan.
+
+> was identical with that of the biblical tribe of Dan (Gordon 1971). Finally, the Celtic scholar John Rhys saw strong evidence of Hebrew colonization of Britain in ancient times.
+
+- Hebrew colonization.
+
+> Ireland was known as Iberian,
+
+- Iberian.
+
+> and the ancient name of the Israelites was Iberi, derived from the proper name Eber or Heber, the eponymous ancestor of that people (Brooks 2001, page 90). Notwithstanding the evidence, many Scottish historians and writers of Judaica seem united in the desire to dismiss any early presence of Jews in Scotland.
+
+- I don't care what they say. We was there first. So basically, this is where they say British Israelism comes from. But you have many ancient scholars that were around before this that say the same exact thing we've been saying throughout these last few weeks, throughout these lessons. All right. This is some good stuff right here too.
+
+- They trying to be proactive, but it's good. That's not bad. We getting there. They giving us some spoilers, man. Y'all watch Highlander, man? You know what I'm talking about. The Highlander and all that. That's us too. Anyway, where we at? Olaf the Black. Yeah, Olaf. Give me *Lost Tribes of Israel*. I want page 42 and 43.
+
+</div>
+
+*[[1:45:30](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6330s)]* I don't know if I put that page there. Is this the book? You sure it's the book? Look at the cover. I blame Manny. All right. Page 42 and 43. It might be the wrong damn book. Go ahead, read. Let's just give it a try.
+
+
+<div class="reading">
+
+Reading from *Lost Tribes of Israel*, pages 42 and 43, on the Celts, the Druids and the Irish · read by a guest in the studio  *[[1:45:50](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6350s)]*
+
+> He founded a movement in the Bradford area based on visions in which he was told by an angel to become a Jew and to convince Christians to observe the Jewish law.
+
+- Oh God. Go down. Let me see. Manny, what are you doing, bro? Go down. Go down. Oh, right here. The Celts. Start from the Celts. Thank God.
+
+- **Guest:** Manny ain't up there. Manny up there with the whip.
+
+- **Deacon Eythan:** Trying to get them to bring up books of Vikings. Oh man, it is the Celts. Go ahead.
+
+> The Celts as a whole, and the Scots especially, were often associated in English thought, as well as their own, with the Jews.
+
+- Right.
+
+> A widely held theory had it that the Celtic peoples were descended from Gomer,
+
+- Now that's Japheth. So the Celts, the Gauls, were Japheth. They go back to Gomer, or they were called Cimmerians. That's Japheth. Gomer. So the Gauls were Japheth. Yes.
+
+> Noah's grandson, who was supposed to have sired the peoples of Asia Minor and Europe.
+
+- Right. Asia Minor and Europe. Yes, that's true.
+
+> These Celts, it was thought, originally spoke Hebrew, which eventually evolved into Celtic. The religious mores of the Celts were mediated by the Druids, who had gained their insights and wisdom from Hebrew patriarchs.
+
+- Now that's how we know there was different Celts. There's different groups. Jake came in later on and mingled with those Celts.
+
+- **Guest:** Wait, so the Druids came with wisdom from Hebrew patriarchs. Remember earlier, the high priests, the Druids.
+
+> Another theory had it that the British nation was descended, at least in part, from the Hebrew-speaking Phoenicians,
+
+- Yes.
+
+> who had come to trade for tin in Cornwall, and who maintained colonies replete with their original culture in central and western Britain.
+
+- Yes.
+
+> The Celts were seen as being connected to the sacred history of the Jews, and it was this that accounted for their special talents and for the peculiarly imaginative genius of their languages. Celts in the late eighteenth century are viewed in opposition to Germans on the one hand and to classical tradition on the other. Even the famous Ossianic poems, published by their clergyman author James Macpherson between 1760 and 1763 and presented as discovered fragments of a third-century bard,
+
+- The bard: a recorder.
+
+> a Scottish son of Finn, which were compared with the works of Homer at the time, and influenced such diverse geniuses as Goethe, Napoleon, and Blake, were in fact infused with the Hebraic spirit.
+
+- Hebraic spirit.
+
+> Its Druid-bred wisdom, inculcated by Hebrew patriarchs, is nobler than classical wisdom; its putatively inspired, imaginative language stems from Hebrew and the God of the Hebrews, who is Macpherson's God as well; its culture in part is the product of a people polished by commerce and travel.
+>
+> The connection of Jews to the religion of the Druids was further explored by Godfrey Higgins in *The Celtic Druids*, an attempt to show that the Druids were the priests of oriental colonies who emigrated from India,
+
+- Go ahead.
+
+> and were the introducers of the first, or Cadmean, system of letters, and the builders of Stonehenge,
+
+- They were the what? Builders of Stonehenge. I thought aliens put those stones there. You know, when Negroes do something, there's always aliens.
+
+> of Carnac, and of other cyclopean works in Asia and Europe (London, 1827), and since then by many more. Ireland already had a history of identification with Jews.
+
+- Go ahead.
+
+> In the *History of Ireland*, Geoffrey Keating (1570 to 1644) recounted how Milesius,
+
+- That's in the old book we read earlier. That name is mentioned, Milesius.
+
+> the founder of the Irish race, traced the descent through a genealogy that included twenty-two Celtic names and thirteen Hebrew ones, going back to Japheth and Adam. According to him, the Irish were a tribe of Israel that had reached Scythia, where their king Fenius Farsaid had founded a great academy
+
+- We're seeing Japheth because Japheth is already there. We intermingled with them. That's why the name is there. Japheth was already there, but we took over, as we always do.
+
+> for the study of the languages of the world. From Scythia the tribe had crossed Europe into Spain,
+
+- That's northern kingdom.
+
+> and from there had gone on to Ireland. By the nineteenth century, with the development of British-Israel theory,
+
+- That's the British Israelism theory. Trying to use it.
+
+> Ireland came to have a significant role. According to some, the royal house of Ireland could be traced back to King David.
+
+- Go back. Go back. Oh yeah, this is there. It's getting there. According to some, what? The royal house of Ireland could be traced back to King David. Yes. Yes. Yes. Yes.
+
+> According to one British writer, there is evidence that the tribe of Dan fled by sea from their captors and colonized Ulster in Ireland, and Denmark.
+
+- Denmark. I keep hearing over time, Dan is Denmark. Danmark. It's possible. I'm not going to put it past it. Who knows?
+
+> The theories connecting Gaelic with Hebrew, and the Celts with the Jews, were parodied by James Joyce in *Ulysses*: the presence of guttural sounds, diacritic aspirations, epenthetic and servile letters in both languages; their antiquity, both having been taught on the plain of Shinar
+
+- Shinar. Iraq.
+
+> 242 years after the deluge, in the seminary instituted by Fenius Farsaigh, descendant of Noah, progenitor of Israel, and ascendant of Heber and Heremon.
+>
+> Elsewhere in this discourse, rebellious Ireland is seen as the offspring of Ephraim,
+
+- Whoa. Whoa. Wow. Wow. Rebellious.
+
+> who rebelled against Moses. Even the Irish reputation for hard drinking is connected with this distinguished lineage: Do you not see a fitness in this sad reminiscence of the old sin of Ephraim, when you remark that drunkenness is the besetting sin of our nation?
+
+- Damn. You read Hosea. Ephraim is known for drinking heavily and being idolatrous.
+
+> In a more metaphorical sense, Ireland was often taken for Israel. The Irish saw themselves as the children of Israel enslaved by England's Egypt,
+
+- That goes back to like William Wallace and King Edward the fourth, Longshanks. Britain was oppressing the Irish. That was Jake oppressing Jake.
+
+> and in *Ulysses* this largely rhetorical device is mentioned frequently: Ireland as land of bondage, or Ireland's revolt against the English presented as the revolt of the young Moses against Pharaoh.
+
+- Yeah. William Wallace versus King Edward Longshanks.
+
+> As far as *Ulysses* is concerned, Joyce described it as an epic of two races, Israelite and Irish, and called it elsewhere the epistle to the Hebrews. A metaphorical identification with the Jews had been a key feature of the Puritan enterprise in England from the seventeenth century on. The more extreme English Puritans of that time believed
+
+- That's all I want. So I wanted all of that part right there.
+
+</div>
+
+## In Closing
+
+*[[1:53:52](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6832s)]* So now, lack of time. We got five minutes. Let me see. I want to go somewhere else real fast. We have to stop there. We got *Who Are the Welsh* next. We got to chill out. I'mma chill out, because we got too much to go. All right. So we getting there. We slowly getting to King James. Judah was there. The Druids having a Hebrew priest background, I'm going to show you that also. All right. So we getting there. Lord's will, we'll be getting there. We are getting into the history of our people ruling in these areas, ruling in these lands.
+
+*[[1:54:33](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6873s)]* I hope you guys enjoyed the lesson. We got to go to *Who Are the Welsh*. That's next. That goes back to Wales, if you are from Wales, the Welsh, or the Danes. It goes into all of that. I'm going to get into all of that next. That may take us into the Vikings.
+
+**Guest:** Yeah, the Vikings. Manny, be happy.
+
+**Deacon Eythan:** Manny going to read on that day. Manny going to read the best ever. I got it from here. I teach about the Vikings.
+
+*[[1:55:18](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6918s)]* But all praise the Lord. Hope you guys enjoyed the lesson. Hope I was able to answer your questions the best I could. So next week we're going to go into who are the Welsh, or who were the Welsh. The Welsh is white folks now.
+
+**Guest:** We got the Blitz next week.
+
+**Deacon Eythan:** Oh, next week. Yeah. So I might see y'all week after next then. So I got to be patient and wait. But Lord's will, when we get back, man, I got some stuff for y'all. We're going to go into King Arthur again. So next time I come back, we're going to be jumping into King Arthur once again. We touched on Caractacus, the king fighting with Claudius. Caractacus is the ancestor of King Arthur; I'd rather say chief, the chief Arthur of the Silures. So stay tuned for that. Hope you guys enjoyed the lesson. We going far back. I'm excited. I want to go more, but lack of time. We got things to do. So, Lord's will, see y'all in two weeks. All right. Shalom. Most High Christ bless.
+
+*[[1:57:54](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=7074s)]* All right, y'all. So, Lord's will, we'll see y'all next time. Hopefully in the next two weeks, we're going to jump into King Arthur, the Druids, and their identity. I'll say that. But Lord's will, we going to go into the Druids. We're going to go into King Arthur. I got some stuff to go into, man. I'm excited. I'm more excited than y'all are. I'll be honest, man. I got the notes. I'm like, damn, we already there. We're getting pretty close. So I'm looking forward to showing you guys the artwork, the paintings of us, all that stuff. It's going to be fun, man. It's going to be great. So y'all stay tuned. I'm excited with y'all. See y'all in the next two weeks. Shalom. Most High Christ bless.
+
+## Announcements & References
+
+*[[1:56:15](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=6975s)]* Hey, Israel. Let's give a hand for the leadership. Fire class. Israel, you don't want to miss these next few classes. There's going to be some great information coming out. So subscribe to Our Hidden History Radio on YouTube. Hit the notification button so you know when we go live. Also subscribe to our Philly channels, IUIC Philadelphia and IUIC Philadelphia in the Classroom, to get the latest content from the deacon, captain, and officers of IUIC Philly. You can donate to Our Hidden History on PayPal too, at iuic.philadelphia@israelunite.org; in the comment section, put OHH. Also donate to the Booster Club, so we can continue to spread this gospel to the four corners of the earth. You can donate on PayPal too, at iuic.pfundraising@israelunite.org. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+
+*[[1:57:09](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=7029s)]* Missing persons: Jenna Scott. Jenna is 13 years old, African-American, hair color black, eye color brown, height 4'10", 145 pounds. Jenna was last seen on May 28th. She was last seen wearing a green school shirt, tan uniform skirt, white socks, and black sneakers. So if you do know of her whereabouts, let the local authorities know.
+
+*[[1:57:35](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=7055s)]* Land fund: Israel, all praise the Most High, we did get that land, but guess what? We're going to still need more funds to do more things in the land. So if you got some extra funds, make sure you send in weekly to iuic.nationhood@israelunite.org on PayPal; in the comment section, put land. And last but not least, we're seeking your assistance to enhance our national broadcast. Kindly spare a minute to provide feedback by answering five brief questions, or you can Zoom in and talk to Officer Manuel right now. Hit that link in the description.
+
+Text or call the show at 267-262-6121.
+
+Sources read from in this episode:
+
+- *A Universal History*, volume 19 (1748), pages 71 to 79 on the peoples of Britain, the Picts, Scots and Silures; pages 77 and 78 on the Druids and the Bards; pages 86 to 88 on Glamorganshire, Caerphilly, the Brigantes and Eboracum (read by a guest in the studio).
+- An answer from ChatGPT on the Roman conquest of the Gauls, the Galatians and Britain, and the Hasmonean alliance with Rome.
+- *Ireland, Ur of the Chaldees*, page 39, on Heber, Hibernia, the Hebrides, Eboracum and Iberia.
+- *West African Peoples and Countries* (author not named on air), on the ten tribes in Africa, the Hebraisms of West African languages, and page 171 on the Ebo.
+- An old map of Spain: Iberia of the Phoenicians, Spania, Hispania and Hesperia.
+- A piece on when the Jews arrived in Scotland, citing Brooks (2001, page 90) and Cyrus Gordon (1971).
+- *Lost Tribes of Israel*, pages 42 and 43, on the Celts, the Druids, Godfrey Higgins, Geoffrey Keating and Joyce's *Ulysses*.
+- A sculpture of a Lacedemonian warrior from Walking with the Giants, shown by a guest.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=yHgJDLC9Erg)

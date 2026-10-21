@@ -1,0 +1,1472 @@
+---
+title: "Dark Ages: The Council of Nicaea / The Vault Opened Part 4"
+slug: "2025/2025-10-19-ep-183-dark-ages-the-council-of-nicaea-the-vault-opened-part4"
+date: "2025-10-19"
+episode: 183
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2025-10-19 · with the officers of IUIC Philadelphia"
+tags: ["Our Hidden History", "christ", "passover-feasts", "sabbath"]
+---
+
+<p class="taught">Our Hidden History · 2025-10-19 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [John 14](/bible/john/14) · [John 20](/bible/john/20) · [John 11](/bible/john/11) · [John 1](/bible/john/1) · [Col 1](/bible/colossians/1) · [Heb 1](/bible/hebrews/1) · [2 John 1](/bible/2-john/1) · [Rev 1](/bible/revelation/1) · [Rev 4](/bible/revelation/4) · [Rev 5](/bible/revelation/5) · [Dan 7](/bible/daniel/7) · [2 Sam 22](/bible/2-samuel/22) · [Ps 110](/bible/psalms/110) · [Jer 23](/bible/jeremiah/23) · [Sir 51](/bible/sirach/51) · [Acts 20](/bible/acts/20) · <i>and 15 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="GXPvA86LJ3Y"></div>
+
+## Introduction
+
+*[[5:30](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=330s)]* We back. We are back. All praise to the Most High. We're back. We're back. Sorry for the delay, but we are back. Round of applause, man. What's going on over there? Round of applause.
+
+*[[6:30](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=390s)]* Shout out to the captains in the building today. In the building today. All praises, man. We here. We here. It's a full house. It's a full house. All right. So, we're going to just jump into it.
+
+*[[6:50](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=410s)]* So, we were touching on the councils of Nicaea, and we left off arguing, not arguing, but arguing against this whole Trinity thing and the homoousian argument that went on at the Council of Nicaea. I know some of y'all thought this is the new images here.
+
+**Officer:** That's the council.
+
+**Deacon Eythan:** Yeah. So, this pretty much right here, the Council of Nicaea here. You see all these black men here? These are the most confused negroes that ever existed. Sat around and created and pretty much legalized Judaism and Roman ideology, which is the beginning of the Catholic Church.
+
+**Officer:** Founded by Jake. That's why they have all these damn crosses.
+
+**Deacon Eythan:** Got the crosses on there. See the crosses and stuff. It's a nice picture to show that, you know, we was ruling during this time, but we was stupid as hell.
+
+**Officer:** We were dumb as hell. And the white man just came along, conquered us, and took over where we left off. And, you know, a lot of people get deceived because of those pictures, because of the cross that's on those pictures.
+
+*[[8:00](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=480s)]* **Deacon Eythan:** Yep. And shout outs to the brothers, man, who was at the 2019 blitz, man. Shout outs to y'all who went there. One of the greatest blitz of all time in my opinion, if not the greatest. Definitely the greatest. So, make a long story short, I was talking to a young man in a video. And I was telling him how the cross is basically a pagan idol, a pagan image. It was used as a form of capital punishment, but the Persians were crucifying people first. And then the Greeks bought it from them and the Romans bought it from them. So you're not honoring what Christ died for. You're honoring what Christ died on. You know, that kind of had them baffled like, "Oh, snap." You never thought of it that way. But that's what it is. A cross is pretty much, you're wearing a capital punishment tool. You're not wearing anything to do with Christ at all. That was around; people were killed in that thing long before Christ was born and long after he died. They were being killed in that thing.
+
+**Officer:** And, you know, one thing, in this country during the time of the KKK, every time they see a cross in their front lawn, the black people did not get on their knees and pray. They was terrified.
+
+**Deacon Eythan:** Yeah. It was terrifying. And they put it on their neck like it was going to save them.
+
+*[[9:36](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=576s)]* So, we left off touching on the ridiculousness of the Trinity, how stupid it is. And we all know the reason why people put such emphasis on it: because they want Christ to be less human. If Christ is less human, and Christ kept the commandments while being less human, that grants man the ability to do whatever he wants to do, because no man can be like Christ and do what Christ did, because Christ was not a full human being. So that takes all the accountability off of us keeping God's laws. That's the whole premise of the Trinity: to push the fact that Christ was not really a human that kept the commandments of God, and so we can't either. So, you know, Christ pretty much died for us to do whatever we want to do. That's what it all boils down to. That's pretty much the whole origin, or the whole purpose, of the argument of Christ being half human or demigod or Hercules or whatever the hell it is. That's the purpose.
+
+So, let's get John 14:28. Let's jump into that. Lord willing, next time I have some more images for y'all. Right now we ran out of them. I ran through all of them fast; I didn't realize I ran through them. So we have more images. I have more books with images in them. I'm going to show those as well. Open the vault, Lord's will, life last.
+
+## Readings and Scriptures
+
+
+
+**[John 14:28](/bible/john/14#v28)**  *[[11:15](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=675s)]*
+
+> <sup>[28](/bible/john/14#v28)</sup> Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
+
+- My father is greater than me. I don't know how he's greater than himself. That doesn't make any type of sense. Ridiculous. Ridiculous nonsense here.
+
+- Let's get 20 and 17. It's a bit out of order, but whatever. It's just the same point being made.
+
+**[John 20:17](/bible/john/20#v17)**  *[[11:45](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=705s)]*
+
+> <sup>[17](/bible/john/20#v17)</sup> Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
+
+- I have not yet what?
+
+- **Officer:** Ascended to my father.
+
+- **Deacon Eythan:** I have not yet ascended to my father. But go to my brethren and say unto them, I ascend unto my father and your father, and to my God and your God. So Christ said, I ascend to my God, and I ascend unto your God. So Christ said, pray, Our Father who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done. So he said, pray our father. We all have a true God, including him. He's our God, and he has a God that he serves.
+
+- Some of y'all are confused about that, cuz some of y'all, you know, are still Catholics in your brain. I know. I get it. I understand. You know, white men can't be wrong. White man's right. I know. I know. I know. Let's continue. Give me 11 and 41.
+
+**[John 11:41-42](/bible/john/11#v41)**  *[[12:57](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=777s)]*
+
+> <sup>[41](/bible/john/11#v41)</sup> Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.
+
+- Who? I thank thee what?
+
+- **Officer:** I thank thee that thou hast heard me.
+
+- **Deacon Eythan:** Who heard him? Himself? This is a ridiculous doctrine, man.
+
+> <sup>[42](/bible/john/11#v42)</sup> And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.
+
+- Oh boy. Let me finish something. John 1:1.
+
+**[John 1:1-3](/bible/john/1#v1)**  *[[14:04](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=844s)]*
+
+> <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
+
+- The Word was with God, and the Word was God.
+
+> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
+
+- The same was in the beginning with God.
+
+> <sup>[3](/bible/john/1#v3)</sup> All things were made by him; and without him was not any thing made that was made.
+
+- All things were made by him that was with God.
+
+- So Christ made everything. That's why he's referred to as the everlasting father in Isaiah 9 and 6. The father made him, and he made everything that was made. So Christ is our God, and we all serve his God as he does. So there is one true God, but that one true God is the God of Christ himself, or the father of Christ himself. Give me Colossians 1 and 13.
+
+**[Colossians 1:13-17](/bible/colossians/1#v13)**  *[[15:04](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=904s)]*
+
+> <sup>[13](/bible/colossians/1#v13)</sup> Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
+>
+> <sup>[14](/bible/colossians/1#v14)</sup> In whom we have redemption through his blood, even the forgiveness of sins:
+>
+> <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
+
+- Christ is the image of the invisible God. The firstborn of all things that were made. He's the first thing created. The only begotten made.
+
+> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
+
+- That's what John said. For by him were all things created.
+
+> <sup>[17](/bible/colossians/1#v17)</sup> And he is before all things, and by him all things consist.
+
+- All things were made. By him all things were made.
+
+- Give me Hebrews 1:1. So I don't understand. Again, this is just like elementary school, really. But like I said, our people are heavily under that Catholic spell, that magic spell, and they can't see it. It's clear. It's plain. They can't see it.
+
+**[Hebrews 1:1-3](/bible/hebrews/1#v1)**  *[[16:02](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=962s)]*
+
+> <sup>[1](/bible/hebrews/1#v1)</sup> God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
+>
+> <sup>[2](/bible/hebrews/1#v2)</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
+>
+> <sup>[3](/bible/hebrews/1#v3)</sup> Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
+
+- So Christ sat down on the right hand of the majesty on high. Christ is in fact the son of God, not his own father. The father is the father, there is a son, and there is the holy spirit. The holy spirit is their spirit dwelling within you. That's what that is. All of them are in one accord. 2 John, verse 3.
+
+**[2 John 1:3](/bible/2-john/1#v3)**  *[[17:29](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1049s)]*
+
+> <sup>[3](/bible/2-john/1#v3)</sup> Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+
+- God the Father. The Son of the Father, in truth and love.
+
+- Brothers had a rough morning or something. All right. Where we at? Get me Revelation 1 and 6.
+
+**[Revelation 1:6](/bible/revelation/1#v6)**  *[[18:08](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1088s)]*
+
+> <sup>[6](/bible/revelation/1#v6)</sup> And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.
+
+- Hath made us kings and priests unto God and his father. Now there are revised version Bibles that actually change this. They change it where it says God and his father. It says God the father. Take out and, and put God the father. Damn.
+
+- **Officer:** Very, very slick, man. Very, very slick.
+
+- **Deacon Eythan:** Read it again. So, I'm going to touch on that in a minute. Give me Revelation 4:1.
+
+**[Revelation 4:1-11](/bible/revelation/4#v1)**  *[[18:55](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1135s)]*
+
+> <sup>[1](/bible/revelation/4#v1)</sup> After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
+>
+> <sup>[2](/bible/revelation/4#v2)</sup> And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
+>
+> <sup>[3](/bible/revelation/4#v3)</sup> And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
+
+- Brown, dark. So he saw a black figure, and he saw a rainbow around the throne.
+
+> <sup>[4](/bible/revelation/4#v4)</sup> And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
+>
+> <sup>[5](/bible/revelation/4#v5)</sup> And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.
+
+- So angels, right?
+
+> <sup>[6](/bible/revelation/4#v6)</sup> And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
+
+- They had eyes before, in front of them, and eyes behind them. They had eyes all around them.
+
+> <sup>[7](/bible/revelation/4#v7)</sup> And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.
+>
+> <sup>[8](/bible/revelation/4#v8)</sup> And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
+>
+> <sup>[9](/bible/revelation/4#v9)</sup> And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,
+>
+> <sup>[10](/bible/revelation/4#v10)</sup> The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
+>
+> <sup>[11](/bible/revelation/4#v11)</sup> Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
+
+- Chapter five.
+
+**[Revelation 5:1-5](/bible/revelation/5#v1)**  *[[21:28](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1288s)]*
+
+> <sup>[1](/bible/revelation/5#v1)</sup> And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
+
+- So about a man on the throne. I saw on the right hand of him that sat on the throne.
+
+> <sup>[2](/bible/revelation/5#v2)</sup> And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
+>
+> <sup>[3](/bible/revelation/5#v3)</sup> And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.
+>
+> <sup>[4](/bible/revelation/5#v4)</sup> And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.
+>
+> <sup>[5](/bible/revelation/5#v5)</sup> And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
+
+- So he saw Christ there. So there was the book in the hand of him that sat on the throne. That's Christ taking a book out of the hand of the father and opening it. That's two separate entities. It's not the same person. It's not the same entity. It's two separate entities. That's why I went through all this to read. Now get me Daniel 7:9.
+
+- **Officer:** And there's no third chair there for the Holy Ghost.
+
+- **Deacon Eythan:** Yeah, there's no third chair for the Holy Ghost at all. There's no third chair.
+
+- **Officer:** How come the Holy Ghost won't open the seals?
+
+- **Deacon Eythan:** Right.
+
+**[Daniel 7:9-10](/bible/daniel/7#v9)**  *[[22:54](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1374s)]*
+
+> <sup>[9](/bible/daniel/7#v9)</sup> I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.
+
+- The Ancient of days, we saw that earlier in Revelation 4. The Ancient of days is the heavenly father, did sit.
+
+- Whose garment was white as snow. The hair of his head was like the pure wool. The hair of the negro. Cuz God is a black man. A black entity. A black male entity.
+
+> <sup>[10](/bible/daniel/7#v10)</sup> A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+
+- Go to verse 13.
+
+**[Daniel 7:13-15](/bible/daniel/7#v13)**  *[[23:56](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1436s)]*
+
+> <sup>[13](/bible/daniel/7#v13)</sup> I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+
+- I saw Christ. With the clouds of heaven: angels. And approached the Ancient of days. The angels brought him, the son of man, near before the Ancient of days.
+
+> <sup>[14](/bible/daniel/7#v14)</sup> And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+
+- That's Christ's kingdom.
+
+> <sup>[15](/bible/daniel/7#v15)</sup> I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me.
+
+- That's all I wanted. So one approaching the other. Two separate entities, one given a throne aside from the other. Two separate entities. Now, 2 Samuel 22 and 47.
+
+**[2 Samuel 22:47](/bible/2-samuel/22#v47)**  *[[24:58](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1498s)]*
+
+> <sup>[47](/bible/2-samuel/22#v47)</sup> The Lord liveth; and blessed be my rock; and exalted be the God of the rock of my salvation.
+
+- Blessed be my rock. And exalted be the God of the rock of my salvation. Who's the rock's God? Who's the rock? Who's the God? Who is the rock of God? The rock of salvation is God. It is God that avengeth me. That's all I want. Now give me Psalms 110, verse 1.
+
+- Now someone asked, is it explicitly written that they pushed the doctrine of Christ being not human to not keep the laws? No. The reason I know this to be true is because the Catholic doctrine teaches that Christ was perfect, and that because he was perfect and kept the laws of God, the only way to keep the laws of God is by being perfect, meaning without sin. And since man is fallible and man is sinful, man cannot keep God's laws. So when you make Christ not a man, you make it where only he can keep God's laws and you can't. That's the basis of the doctrine. You're not going to find it in a book saying that, obviously, but that's the premise of the doctrine.
+
+- Because remember, the argument has always been with Israel, whether keeping commandments or not. That's why Paul had to always check the Corinthians all the time, the Ephesians; they had to check them all the time, because the argument was always about the law, whether it was about sacrifice or the commandments. That was the main premise of ideological debate: keeping laws or not. So when it comes to the Trinitarian argument, the argument was that Christ was not a man. He was a god, or half a god, or whatever, because only a god can keep God's laws. Man cannot keep God's laws. That is the premise of it. That's why most Christian denominations, who are the children of the Catholic Church, all push the same premise. You cannot keep the laws of God. Do you sin? Do you sin? We hear it all the time. That is the premise.
+
+- Now, whether that was the reasoning behind them pushing the Trinity back then, no. The reason is because they were idiots. That's the reason why they pushed that doctrine. They were stupid. They killed off all of the disciples. All the disciples got killed off and murdered off. So there was no one around to edify them in the true understanding. And so the Council of Nicaea was a council of guesswork, a council of hypothesis. Oh, he might have been God, he may not. It's madness. It's pagan madness when it all boils down to it.
+
+- But the deep-rooted reasoning behind making Christ more than man is to say, well, Christ kept the laws of God perfect because he was more than a man. See, we're just men. We can't do what Christ did. So when Christ died, he died, so we ain't got to do nothing. All we got to do is believe. That's what it goes back to. That's the premise. That's the point I'm making. All right. So where we at?
+
+- **Officer:** Psalms 110 and 1.
+
+**[Psalms 110:1-4](/bible/psalms/110#v1)**  *[[28:45](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1725s)]*
+
+> <sup>[1](/bible/psalms/110#v1)</sup> The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+
+- This is David talking. The Lord said unto my Lord. Sit thou. Did he say stand thou? I heard somebody say something about only the father had a seat.
+
+- **Officer:** So Christ on punishment. Christ stand in the corner. He ain't got no seat. He just got standing the whole time.
+
+- **Deacon Eythan:** Read again. Sit thou at my right hand. Okay. So, obviously Christ is going to sit. A king having no throne doesn't make any sense. Sit thou at my right hand. That's Revelation 4. Revelation 5. Hebrews 1:3: sat at the right hand of majesty.
+
+- Until I make thine enemies thy footstool. Sit right here next to me, son, until it's time for you to return and save your people and destroy your enemies and enslave them with your children. Sit right here and wait, because Christ does not know the time. So he got to sit there and wait for his father to say, "All right, son, go and be successful."
+
+> <sup>[2](/bible/psalms/110#v2)</sup> The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
+>
+> <sup>[3](/bible/psalms/110#v3)</sup> Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
+>
+> <sup>[4](/bible/psalms/110#v4)</sup> The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
+
+- Because Christ is the priest of Melchizedek. Christ is Melchizedek. There is no priesthood of Melchizedek. Make that very clear. I don't know where that's coming from. I don't know what that doctrine is. It's not biblical. There is no priesthood of Melchizedek. There is a priest of Melchizedek. The only priest of Melchizedek was Melchizedek. That's it. And Christ is of that order because he was Melchizedek. That's why he's of that order. His order of priesthood predates and precedes Aaron's. Abraham paid tithes to Christ himself. Melchizedek tells you who he is: his name, King of righteousness. That's what Melchizedek means. As Isaiah 9 and 6.
+
+- Again, give me Jeremiah 23 real fast, just to confirm it again.
+
+- **Officer:** Jeremiah 23, verse, I think it's five and six. Melchi Zadok. King of righteousness.
+
+- **Deacon Eythan:** That's what Melchizedek means. Start verse 5.
+
+**[Jeremiah 23:5-6](/bible/jeremiah/23#v5)**  *[[31:19](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=1879s)]*
+
+> <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
+
+- I will raise unto David a righteous branch. And a king shall reign and prosper. A king, Melchi, a king shall rise. He'll do what? Shall reign and prosper. And shall execute judgment and justice: that's what Isaiah 9 said. That's what Daniel 7 said. And justice in the earth: that's what Daniel said. That's what Isaiah said.
+
+> <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
+
+- And in this king's days, Melchi's days, Judah shall be saved. All twelve will be delivered. Not just Judah, Benjamin, Levi. It says Judah and Israel will dwell safely. Not, Judah will be in the land and Ephraim is lost. That ain't Bible.
+
+- This is the king's name whereby he shall be called. What's the king's name?
+
+- **Officer:** The Lord our righteousness.
+
+- **Deacon Eythan:** The Lord our righteousness. He is the Lord our righteousness. The King of righteousness. So he is Melchizedek. He is, or was, Melchizedek that Abraham saw and spoke to. He's the only priest of Melchizedek.
+
+- I need a scripture that shows that there were other men in the Bible that fell under the order of Melchizedek. I need the scripture. I want to see it. I want to know where it is. Book, chapter, and verse. Show me the priests of Melchizedek. Where are they? What are their names? I read one. I don't read two. I don't read three or four. I read one. I read about a priest of Melchizedek. I don't read about a priesthood. You won't find a priesthood of Melchizedek anywhere that I've come across. Maybe I'm wrong, but I haven't come across anywhere in the Bible where I read about a priesthood, meaning there's more than one of them. None. Nowhere. Stop making things up, Israel. Stop. Just making up stuff.
+
+- Give me Sirach 51 and 10.
+
+**[Sirach 51:10](/bible/sirach/51#v10)**  *[[33:57](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2037s)]*
+
+> <sup>[10](/bible/sirach/51#v10)</sup> I called upon the Lord, the Father of my Lord, that he would not leave me in the days of my trouble, and in the time of the proud, when there was no help.
+
+- I called upon the Lord, the father of my Lord. Remember when Christ said to pray, Our Father who art in heaven. I heard the argument: oh, if Christ and Solomon are the same, who does Solomon pray to? Well, he prayed to who? He told us to pray to his father. Is that a gotcha moment? No, it's not.
+
+- Read it again, please. Called upon the Lord, the father of my Lord. Like Psalms 110 said, the Lord said unto my Lord, sit thou at my right hand. I pray unto the Lord, the father of my Lord.
+
+- So let's jump into the topic. Now, that was just an ending of the last topic regarding the whole Trinity thing. I gave y'all a whole bunch of bullets to put into the gun.
+
+- **Officer:** So if you still confused after this, man, I feel very, very sorry for you. Deeply rooted in Catholicism.
+
+- **Deacon Eythan:** All right, let's get into the topic. Just warming it up, because I'm still touching on Trinity stuff. The topic is really switched over. I just gave y'all some precepts just to kind of combat it a little bit.
+
+*[[35:40](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2140s)]* So, the next priest we had of Rome, or bishop of Rome we had, was Anacletus. Look him up real fast. Anacletus of Rome. A-N-A-C-L-E-T-U-S. He was around 16 AD and he reigned until 92 AD. He was a bishop.
+
+<div class="reading">
+
+Reading from a search on Anacletus of Rome, read on air  *[[35:59](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2159s)]*
+
+> Pope Anacletus, born 16 AD, died 92 AD.
+
+- Right.
+
+> Also known as Cletus, was the bishop of Rome following Peter and Linus.
+
+- So this is the third one. So he's following Peter. Peter died. Linus died. Who's also in the Bible? Linus and Peter. Then Cletus filed behind them. Okay, 92 AD. So he filed behind these guys. He was a bishop of Rome after those two. Let's read down. He died a martyr, perhaps 91. Let's go down. Under papacy, because the Catholic Church venerates the disciples as gods themselves, because the pope has to be God incarnate. Read generally, right there under papacy.
+
+> Generally the order used by Irenaeus is used today, wherein Cletus and Anacletus refer to the same person, who succeeded Linus and preceded Clement.
+
+- Right. So he came after Linus and he was before Clement.
+
+> Traditionally it was accepted that he reigned for 12 years, though the dates of that reign are questionable. The 2012 Annuario Pontificio states for the first two centuries the dates of the start and the end of the pontificate are uncertain.
+
+- Let's go down. Veneration: they worship him. They got him as a white man, which is ridiculous, on the right hand side there. These are all black men. Literature, notes, anything else on him, or that's it?
+
+- So more than likely he maintained the doctrine as well. This is still the time when the disciples were around, because John's still alive at this time. John the disciple was around this time. So more than likely he maintained the doctrine. More than likely, I'll say.
+
+</div>
+
+*[[38:15](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2295s)]* Let's go next to Polycarp. P-O-L-Y-C-A-R-P. My man Polycarp. He also maintained doctrinal purity as well. Polycarp of Smyrna. He was John's disciple.
+
+<div class="reading">
+
+Reading from a search on Polycarp of Smyrna, read on air  *[[38:30](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2310s)]*
+
+> Polycarp was a Christian bishop of Smyrna. According to the Martyrdom of Polycarp, he died a martyr,
+
+- Just like Anacletus died a martyr. They killed off the disciples. Rome was killing off the disciples, or a lot of our people or heathens were killing off the disciples. They were being killed off. So he was martyred, and Anacletus was martyred. Only one that didn't get martyred was John. John, I believe, died of old age.
+
+> bound and burned at the stake,
+
+- Yep. And the fire wouldn't burn him. So they had to stab him.
+
+> then stabbed when the fire failed to consume his body.
+
+- See, the fire wouldn't touch him. Polycarp was a special spirit. The fire would not touch that man. They had to stab him to kill him.
+
+> Polycarp is regarded as a saint and Church Father in the Eastern Orthodox Church, the Catholic Church, the Oriental Orthodox Churches, Lutheranism and Anglicanism. Both Irenaeus and Tertullian say that Polycarp had been a disciple of John the Apostle,
+
+- Correct. One of Jesus's disciples.
+
+> and in On Illustrious Men, Jerome similarly writes that Polycarp was a disciple of John the Apostle, who had ordained him as bishop of Smyrna.
+
+- So John set him up as bishop of Smyrna.
+
+> Polycarp is regarded as one of three chief Apostolic Fathers, along with Clement of Rome and Ignatius of Antioch.
+
+- Ignatius eventually became an apostate over time. He started going into stupid nonsense somewhat; he didn't maintain the doctrinal purity. Irenaeus didn't either. That's why I say, out of all the disciples, Polycarp was the last remaining one that maintained doctrinal purity on record, from what I've come across. He maintained the disciples' doctrine.
+
+> The sole surviving work attributed to him is the Epistle of Polycarp to the Philippians, a mosaic of references to the Septuagint,
+
+- They used the Septuagint like John did.
+
+- And remind you, when the disciples used the Septuagint, Sirach is in there, Maccabees is in there. So they were using the books we use now. Other books that you Christians who have your Protestant Bibles don't have, the disciples are using. Like Sirach 51 and 10: the father of my Lord. Matthew was quoting a lot of Sirach. A lot of it. So the disciples were using the Septuagint, which consists of Maccabees, Wisdom of Solomon, Ecclesiasticus. First Esdras, I believe, is in there. Second, I believe, was in there also, but got destroyed. At least the Hebrew rendition of it was destroyed, but the Latin rendition remained and preserved it. And many other books that are in the Bible, the true King James Bible, all 80 books, from which the Protestants removed 14 of them.
+
+- Because the Protestants were against the Catholic Church, and the Catholics upheld, or maintained, the purity of those books. But the Protestants said, "No, we don't accept it. We're going to remove those 14 and just keep 66." And the Protestants had gained control over the printing press. And so they printed; I guess it's money saving if we just print 66 books rather than 80, because the original King James Version Bible had 80 books. I have a huge King James Bible in my house. The original one; some of us have them up here. The old KJV Bibles, they're huge, and they all have 80 books.
+
+- **Officer:** From the 1800s.
+
+- **Deacon Eythan:** The 1800s, yes, we have them. Okay. So, the Protestants, if you're wondering who removed the 14 books and referred to them as Apocrypha, that would be your Protestants, who protested against the Catholic Church and had them removed.
+
+</div>
+
+<div class="reading">
+
+Reading from a search on the books of the 1611 King James Bible, read on air  *[[42:41](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2561s)]*
+
+> The original 1611 Version Bible had 80 books, which included the 66 books found in today's versions plus an additional 14 called the Apocrypha, which bridges the gap between the Old and New Testament, also referred to as the intertestamental period.
+
+- You cannot read a Bible, you cannot watch a movie, and half the movie is removed, and then watch the end and understand it. It's ridiculous. Christians live life on stupid mode all the time.
+
+- So that's all I want regarding Polycarp. So Polycarp was taught by John. He was around between 69 AD and 155 AD. Give me John 20 and 19. So I'm touching on Easter Sunday worship now. We touched on the Trinity. Now we're on the whole Easter Sunday worship thing. That's where we're at.
+
+</div>
+
+**[John 20:19](/bible/john/20#v19)**  *[[43:50](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2630s)]*
+
+> <sup>[19](/bible/john/20#v19)</sup> Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
+
+- For what?
+
+- **Officer:** For fear of the Jews.
+
+- **Deacon Eythan:** Read it again. So the disciples, the first day of the week, for what?
+
+- **Officer:** Where the disciples were assembled for fear of the Jews.
+
+- **Deacon Eythan:** So they had assembled this day on the first day of the week because they were fearful of the Jews. They had an assembly, because remember, Christ was killed at this point. He had just died, and they were all in fear, cuz remember, they were all pretty much fugitives. Christ let these guys go: just take me. So they were all nervous, had an assembly on the first day of the week. Christians take this as, oh, see, they changed the Sabbath to Sunday. No. They had an assembly among themselves, and they had fear of the Jews. This has nothing to do with the Sabbath day being changed to Sunday. Nothing whatsoever.
+
+- So this John 20 has nothing to do with the disciples changing the Sabbath to Sunday. The church changed that. They just happened to assemble that day. It's clear.
+
+- **Officer:** They just happened to assemble that day. For the fear of the Jews.
+
+- **Deacon Eythan:** Right. That's it. Not, oh, let's change this day. Hey, let's officially make this the rest day of the Lord. That's not what they said here. Where you read that at? Acts 20 and verse 6.
+
+**[Acts 20:6-7](/bible/acts/20#v6)**  *[[45:45](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2745s)]*
+
+> <sup>[6](/bible/acts/20#v6)</sup> And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.
+
+- After Passover. They abode for a week.
+
+> <sup>[7](/bible/acts/20#v7)</sup> And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
+
+- So they just gathered together on that day. That wasn't a rest day, but they assembled on that day.
+
+- **Officer:** They would assemble on that day. That was not a Sabbath.
+
+- **Deacon Eythan:** They experienced keeping Passover. So they kept Passover. How they kept Passover? You can't keep Passover without the Sabbath.
+
+- **Officer:** Right.
+
+- **Deacon Eythan:** You cannot keep Passover without the Sabbath. Give me Acts 2 and 42. Because Passover is a Sabbath. And it says, remember the Sabbath, keep it holy. He's referring to the Sabbath day and the Sabbaths.
+
+**[Acts 2:42-46](/bible/acts/2#v42)**  *[[46:39](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2799s)]*
+
+> <sup>[42](/bible/acts/2#v42)</sup> And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.
+
+- And fellowship.
+
+> <sup>[43](/bible/acts/2#v43)</sup> And fear came upon every soul: and many wonders and signs were done by the apostles.
+>
+> <sup>[44](/bible/acts/2#v44)</sup> And all that believed were together, and had all things common;
+>
+> <sup>[45](/bible/acts/2#v45)</sup> And sold their possessions and goods, and parted them to all men, as every man had need.
+>
+> <sup>[46](/bible/acts/2#v46)</sup> And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart,
+
+- They what?
+
+- **Officer:** They continuing daily.
+
+- **Deacon Eythan:** Daily. Every day. Daily. Every day. And breaking bread. They broke bread every day. So the first day of the week they broke bread. It wasn't a Sabbath. They did that every day. They were together. Every time they were together, they would break bread. Not, oh, we're going to do this because it's the Sabbath now. That's not what it says. Breaking bread daily. With singleness of heart: one mind.
+
+*[[48:12](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2892s)]* Give me that now, what I have from AI. This is from AI. I looked this up regarding the Quartodeciman heresy. Now, I think I touched on this before, regarding Pope Victor. Pope Victor the First. He was a pope of Rome later on. And there was a church of Rome and there was a church of Jerusalem, the churches of Asia, or the East, and Rome. And this guy Pope Victor, who became a bishop over time after the disciples are dead and gone, he introduced the whole, celebrate Passover on Sunday, Easter. He started it. He said, we celebrate Easter. He's behind it. So those who kept Passover according to the Bible, the 14th day of the first month of the year, that's called Quartodeciman. That means 14. So if you kept Passover the right way, you were referred to as a Quartodeciman. You kept the Passover the right way. If you did not keep Quartodeciman doctrine, you kept Easter. That's what this guy did. So read that here.
+
+<div class="reading">
+
+Reading from notes from an AI search on the Quartodeciman controversy, read on air  *[[49:20](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=2960s)]*
+
+> The Quartodeciman controversy was a dispute in the early Christian church over the correct date for celebrating Easter (Pascha).
+
+- Because historically Easter and Passover became, not originally, but became interchangeable. The word Easter, during the time, I would say, of William Tyndale, the Middle Ages, Easter and Passover were interchangeable. For example, I spoke to one of the captains; he told me in Creole, and another captain can testify, they call Easter Pâques, and they call Passover Pâques juive, meaning Jewish Easter. Pâques is Easter, and the Jewish Pâques is Jewish Easter, meaning Passover. So even in French those words became interchangeable. In Britain, when we were ruling in England, you had an Easter and you had a Jewish Easter back then also.
+
+- So in the translators' time there was no word Passover yet. Passover was coined by William Tyndale. Write this down if you want, or you can fact check me. William Tyndale coined the word Passover. There was no such word as Passover prior to William Tyndale. William Tyndale coined the term Passover because he read in the scriptures where it says the Lord passed over the homes when they put blood on the doorposts. He was like, Passover, Passover. Okay. Because the Bibles prior to Tyndale's version said Easter, or Pascha. Easter, Pascha. That's what you would find in Bibles. So he replaced the word Easter with Passover.
+
+- Because remember, by the time the King James translators came across it, they knew that there was a difference between Easter and Passover also. So what they did was they took William Tyndale, because most of the KJV Bible is 80% Tyndale's work. So when they revised it, which is the best revision ever made, ever, they removed Easter and put Passover there, because they know that there's a distinction between pagan Easter and then you have a quote unquote righteous Easter, to be Passover. You understand? Because Easter obviously is that pagan goddess Ashtoreth. We know that already. But over time they became interchangeable terms. So they used the word Passover everywhere in the Bible except Acts 12, because they knew Herod was observing the Easter, because Rome worshipped Ashtoreth. So they had an Easter celebration also during that time in Rome. That ain't nothing new. Easter ain't new. Ashtoreth is not new. So let's go back.
+
+> It revolved around whether Easter should be observed on Nisan 14, according to the Jewish Passover date, or on the Sunday following Passover.
+
+- **Officer:** Someone said Latinos call it Pascua.
+
+- **Deacon Eythan:** Yeah, Pascua, right. Now notice, I'm sorry if I forget. Notice the word Passover is found in multiple languages. You got French, you got Spanish, and it all goes back to Passover. That word Pascua, or Pascha, or Pâques, all back to Passover. I'm saying that for a reason. Continue.
+
+> What was the Quartodeciman position? The term Quartodeciman comes from the Latin quartodecimus, meaning fourteen,
+
+- From the 14th day, which is the 15th day at evening, Passover.
+
+> referring to Nisan 14 on the Jewish calendar.
+
+- Or Abib.
+
+> Quartodecimans followed the tradition of the Apostle John and the churches in Asia Minor (modern-day Turkey).
+
+- So John the Apostle and all the other twelve disciples kept Passover like the Bible says.
+
+> They celebrated Easter on Nisan 14, regardless of which day of the week it fell on.
+
+- Based on the moon.
+
+> This practice was defended by Polycarp,
+
+- Polycarp maintained doctrinal purity.
+
+> Bishop of Smyrna, a disciple of John, and later by Polycrates of Ephesus.
+
+- Polycrates also tried to maintain doctrinal purity also.
+
+> Their reasoning was that Jesus was crucified on Passover, Nisan 14, and this was the proper time to commemorate his death and resurrection.
+
+- Correct.
+
+> The opposing position: Sunday Easter tradition. In contrast, the Western Church, particularly in Rome, argued that Easter should always be celebrated on the Sunday following Passover, rather than on Nisan 14.
+
+- Here we go. Where's that from? That's from their own imagination.
+
+> This was based on the belief that Jesus rose on a Sunday, which should be the fixed day of celebration. Anicetus, bishop of Rome (mid-2nd century), and later Pope Victor I (late 2nd century) promoted this view.
+
+- So Anicetus, I think it's the same guy as Anacletus. Type in Anicetus, please. I think it's the same exact guy of Rome.
+
+- **Officer:** The last one, when we looked him up, it did say pretty much the same person.
+
+- **Deacon Eythan:** Cletus. I think it's the same exact dude.
+
+- **Officer:** Oh no, that's different. Somebody different.
+
+- **Deacon Eythan:** I'm glad. I want to make sure. Anacletus is around 16 to 92 AD.
+
+- **Officer:** This guy's from 157 to 168.
+
+- **Deacon Eythan:** Oh, so he came after, around Polycarp's time.
+
+- **Officer:** The last one said they may be the same: Anacletus and Cletus is the same.
+
+- **Deacon Eythan:** These names, boy. Damn.
+
+- **Officer:** Like 80 years apart.
+
+- **Deacon Eythan:** 80 years apart, right. Let's go back. So, Anicetus and Victor, as I mentioned before, black men, both black men, pushed this doctrine. Why? Because they were trying to take Rome and merge it into the doctrine. This is before the Council of Nicaea. But it started at this time. It started here, when they started merging Roman ideology into the doctrine and dividing the church and causing confusion. Polycarp was gone. That's when all of it came out. This is the Dark Ages here.
+
+> The dispute escalates.
+
+- The dispute gets worse.
+
+> First, Polycarp versus Anicetus, 155 AD. Polycarp traveled to Rome to meet Anicetus. They disagreed but maintained peace, with Anicetus allowing Polycarp to continue his tradition.
+
+- So Anicetus, I guess he was over Polycarp, but they pretty much said, the hell with you. You do your thing, I do my thing over here. That's what happened. There it was a split.
+
+> Second, Pope Victor I versus Polycrates, 190 to 200 AD. Pope Victor I demanded that all churches follow the Sunday observance. Polycrates of Ephesus, representing the Asian churches, refused and defended the Nisan 14 tradition.
+
+- They tried to maintain the doctrine of the disciples.
+
+> Victor attempted to excommunicate the Quartodecimans,
+
+- He tried to have the whole church cut off. Kicked off. Kicked out.
+
+> but this was met with resistance, including from Irenaeus of Lyons, who urged unity. Resolution: Council of Nicaea.
+
+- Oh, so this thing didn't stop it. This argument continued all the way until the Council of Nicaea. So I'm showing you that this division and confusion was going on for a while. Get 1 Corinthians 11:19. Paul warned about this. Paul warned, and Acts 20.
+
+</div>
+
+**[1 Corinthians 11:19](/bible/1-corinthians/11#v19)**  *[[57:26](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=3446s)]*
+
+> <sup>[19](/bible/1-corinthians/11#v19)</sup> For there must be also heresies among you, that they which are approved may be made manifest among you.
+
+- There must be heresies among you. Among you.
+
+- All right. Matter of fact, let me go on a quick break real fast. We got to change out some stuff, right? The lights, you know, stuff have to go out. So we're going to be right back. You can text us at 267-262-6121. That's 267-262-6121. Or you can also Zoom call in, regarding questions regarding the topic. All right. So stay tuned. We'll be right back.
+
+<div class="reading">
+
+Reading from footage of a street blitz, played over the break  *[[58:26](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=3506s)]*
+
+> Listen, people. It is going down. There's literally spiritual warfare going on out here.
+>
+> Man, I love to see my brothers out here, man. I live around the corner, and I see a lot of parades come down here all the time. This the first parade I seen with brothers coming out here doing this.
+>
+> We ain't hurt nobody. We ain't throwing nothing. We ain't threatening nobody. We're not threatening any violence. We're not saying anything violent. We're not defaming. We're not slandering. We're not speaking any obscenities. So there is no bullying here. It's simply us marching in solidarity. Just showing forth unity and structure and order, which the Christian church is not used to.
+>
+> Be therefore perfect, even as your father which is in heaven is perfect. Is Jesus a liar? So can we be perfect?
+>
+> The pastor in your church has not even told you the truth about Jesus. And none of y'all say anything. All of y'all are sitting in the dark, ain't even reading anything. And none of y'all have anything to say. We come out here reading the Bible and everybody got something to say. We expected it, because we know that this whole system is against what we're bringing out.
+>
+> There must be moral law. Everything that they put up is to depict black people destroying each other.
+>
+> When do they pray? In the corners of the street.
+>
+> If we bring out that Christ is black, and we read it in the Bible, and it's crystal clear. His eyes shall be red with wine. That's what our people don't know.
+>
+> The black messiah is coming back for war.
+>
+> They hated us. Understand what I'm saying? And we understand they hated the apostles. They hated Jesus Christ. We understand that.
+>
+> Access denied. Access denied.
+>
+> Jesus. Hallelujah. Jesus is Lord. Jesus.
+>
+> Acts 19 all over again. Diana of the Ephesians. They kept saying Jesus, Jesus, Jesus. So, you know, at the end of the day, man, we out here, man. We live for this. They chanting and screaming Jesus. They don't understand. We built for this. The lions, man. So all that chanting stuff don't mean nothing to us. It just empowers us more. Makes us want to just blast more, teach more, edify more.
+>
+> Israel shall be saved in the Lord. Who is the world without end?
+>
+> And we got rejected. How did we get rejected? They booed at us. They shouted at us. They cried aloud. They wanted us to leave. They called the police on us. Almost wanted to fight us. Hatred. I've never seen so much hatred from our people toward us in my entire life.
+
+</div>
+
+*[[1:03:35](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=3815s)]* Back from the break. Had to handle some things real quick. Okay, everybody's good. All right. Where we at?
+
+**Officer:** You went in Acts 20.
+
+**Deacon Eythan:** Acts 20 and verse 28, to show that this whole division, this Council of Nicaea thing, kind of started earlier than that, really. But Paul warned of this. There'll be heresies among you.
+
+**[Acts 20:28-31](/bible/acts/20#v28)**  *[[1:04:33](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=3873s)]*
+
+> <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
+
+- Overseers: officers.
+
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+
+- After my departing, after my death, when I'm gone. Not only his departing, but Peter's departing, Paul's departing, when they all died. Not sparing the flock: not caring about the people.
+
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
+
+- Also of your own selves: bishops, ranking members, deacons.
+
+> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
+
+- Paul was crying, because Paul already saw in the spirit there was going to be a time where his understanding was going to be darkened. He warned them. He warned them. Once they all died, it was a wrap. It was a wrap. Peter said the same thing. Get Peter real fast. It says the exact same thing: after my decease. Second Peter 1 and verse 12.
+
+**[2 Peter 1:12-16](/bible/2-peter/1#v12)**  *[[1:05:58](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=3958s)]*
+
+> <sup>[12](/bible/2-peter/1#v12)</sup> Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth.
+>
+> <sup>[13](/bible/2-peter/1#v13)</sup> Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;
+
+- As long as I am in this tabernacle: as long as I'm alive.
+
+> <sup>[14](/bible/2-peter/1#v14)</sup> Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.
+
+- Put off this my tabernacle: to die.
+
+> <sup>[15](/bible/2-peter/1#v15)</sup> Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.
+>
+> <sup>[16](/bible/2-peter/1#v16)</sup> For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
+
+- Give me Peter on false prophets. Chapter two, verse one. What he said: after my departing. That's what Peter said, right? After his departure, when he died.
+
+**[2 Peter 2:1-3](/bible/2-peter/2#v1)**  *[[1:06:56](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4016s)]*
+
+> <sup>[1](/bible/2-peter/2#v1)</sup> But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
+
+- There were false prophets among you, and he says there shall be, after I'm gone, false teachers among you. That's what Paul said. The exact same thing. Damnable heresies: Easter Sunday worship. Even denying the Lord that bought them: denying Christ, denying his Passover that bought them.
+
+> <sup>[2](/bible/2-peter/2#v2)</sup> And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
+>
+> <sup>[3](/bible/2-peter/2#v3)</sup> And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.
+
+- Through covetousness: through wealth, through power.
+
+- So this is nothing new. So Peter and Paul warned, Christ himself warned, of damnable heresies coming about long after their departure. So this is before the Council of Nicaea. We're reading about it. So that whole Trinitarian thing I mentioned before is validated. These guys brought in damnable heresies to take people away from God's commandments. Denying Christ that bought them, who said do what? Keep his commandments. Keep his Passover according to the Bible. Not according to Sunday. Not according to Easter.
+
+- Let's go back to the article now. Go back to the notes. Resolution: Council of Nicaea.
+
+<div class="reading">
+
+Reading from the AI notes on the Quartodeciman controversy, continued  *[[1:08:37](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4117s)]*
+
+> Resolution: Council of Nicaea (325 AD). The Council of Nicaea officially ruled in favor of the Sunday Easter tradition,
+
+- Yep.
+
+> aligning Easter with the Western church.
+
+- Illegally.
+
+> Quartodeciman practice was eventually suppressed, though some groups like the Celtic church and certain Eastern communities maintained it for centuries.
+
+- Right. So pretty much it became outlawed. It was suppressed.
+
+> Summary: Quartodecimans (Asia Minor) celebrated Easter on Nisan 14, following the Jewish Passover date. Western church (Rome and Alexandria) celebrated Easter on the Sunday following Passover. The Council of Nicaea (325 AD) settled the dispute in favor of the Sunday observance. This controversy was significant because it reflected early tensions between Jewish-Christian traditions and emerging Gentile Christian practices,
+
+- Gentile, pagan or heathen Christian practices. Which is still our people.
+
+> as well as the growing authority of Rome in doctrinal matters.
+
+- Growing authority of Rome in doctrinal matters. That's what Christianity is.
+
+- **Officer:** Roman doctrine. That's it.
+
+- **Deacon Eythan:** Yes, sir. All right. So now let's get 1 Corinthians 1:10. Remember, the church had a division between Quartodecimans and Sunday worshippers.
+
+</div>
+
+**[1 Corinthians 1:10-11](/bible/1-corinthians/1#v10)**  *[[1:09:56](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4196s)]*
+
+> <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
+
+- Yep.
+
+> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
+
+- What verse is that? That one was 10. Give me what I want here. Give me 1 Corinthians 11 and verse 23. Read to verse 26.
+
+- **Officer:** Start at 19.
+
+- **Deacon Eythan:** Yeah. Start 19.
+
+- **Deacon Eythan:** Verse 23 now, to 26.
+
+**[1 Corinthians 11:23-26](/bible/1-corinthians/11#v23)**  *[[1:11:20](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4280s)]*
+
+> <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
+>
+> <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+
+- Watch this.
+
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
+
+- As often: that's daily. As often as you're together, do it. Break bread.
+
+> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
+
+- Often was daily. Show his death till he come. They break bread. They broke bread.
+
+*[[1:12:10](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4330s)]* **Text:** Great job bringing out all this history. I noticed that in a lot of the iconic paintings of black images, there is a yellow halo around the heads of the Israelite characters. Is this halo linked in any way to sun worship, paganism, idolatry?
+
+**Deacon Eythan:** Yeah, it goes into two things. It goes into enlightenment, which also goes back to paganism to a degree. It represents enlightenment. It stems back to that from what I've heard, but I know it represents enlightenment. They're all enlightened, so on and so forth. That's what I came across. Some say it goes back to paganism, but from what I've seen, it goes back to being enlightened. So, you know, that's pretty much it. So I'll say mixed reviews on that particular concept. It's what I heard. Is there more?
+
+*[[1:13:12](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4392s)]* **Text:** Shalom, Deacon and leadership. Do we not go into Third Maccabees, the Book of Enoch, and the Book of Jubilees because of the Council of Nicaea?
+
+**Deacon Eythan:** No. Third Maccabees, we have Third. Third Maccabees is pretty much a recap of First and Second Maccabees, and Fourth and Fifth is a recap, I think, of First and Second or something like that. It's all there, with five volumes of Maccabees.
+
+**Officer:** Third is the beginning.
+
+**Deacon Eythan:** Yeah, it's the introduction to First and Second.
+
+**Officer:** It's with Ptolemy Philopator, around 217.
+
+**Deacon Eythan:** Yeah, we have that. And the reason why First and Second Maccabees is pretty much to the point: Third, Fourth and Fifth are kind of like outlines, but First and Second Maccabees are the major points that tie into the prophecies of Daniel 11 and Daniel 8. That's how those two remained the main context of Maccabees.
+
+**Officer:** He mentioned Enoch.
+
+**Deacon Eythan:** Oh, yeah. Enoch wrote no book. Enoch did not write a book at all. There's no history of that whatsoever. The books that are referred to as the Book of Enoch, they found that in pieces and fragments, but he didn't write that. That's some other author. It's not validated. And the Book of Jubilees is another book. Those are called pseudepigraphal. Pseudepigraphal means false writings. Enoch is one. Jubilees is one. Because there's a lot of things you find in those books that are contrary to what the Bible says. Like, I think Esau killed Nimrod. Some crazy stuff. It's wacky. Mermaids. Excuse my language. Just wacky stuff in that book, man. Wacky Pirates of the Caribbean stuff in those books. And Jake loves it. They love it. Excuse my language.
+
+**Officer:** So stick with the Bible.
+
+**Deacon Eythan:** Stick with the Bible. Hold fast what you have till I come. Christ said that.
+
+*[[1:15:12](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4512s)]* **Text:** All praise to the Most High for all the brothers and the powerful teaching you brought at the 2019 blitz. Keep casting down imaginations.
+
+**Deacon Eythan:** The notes I have. Yeah. Notes on Sunday worship. Read that, the top.
+
+<div class="reading">
+
+Reading from AI notes on Easter and Sunday worship, read on air  *[[1:15:35](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4535s)]*
+
+> Easter/Sunday worship began. The Council of Nicaea (325 AD) primarily addressed the nature of Christ and the Arian controversy,
+
+- Remember that before?
+
+> which questioned whether Jesus was of the same substance (homoousios) as God the Father.
+
+- Oh gosh. Again.
+
+> The council resulted in the Nicene Creed, affirming the Trinity by declaring that the Father and the Son are of the same divine essence. Regarding Easter and Sunday worship, the Council of Nicaea formalized the date of Easter, deciding that it should be celebrated independently of the Jewish Passover and should always fall on a Sunday. This was to unify Christian practice across different regions,
+
+- Along with pagan practice, merging together.
+
+> Sunday worship was already a widespread Christian tradition before Nicaea,
+
+- Yes, it was before Nicaea. Anicetus and Victor started it off.
+
+> as early Christians gathered on the first day of the week (Acts 20:7, Revelation 1:10)
+
+- Now understand, they gathered together daily. They assembled those days. That's not them changing the day. They just assembled on the first day. Read on.
+
+> to commemorate Jesus' resurrection.
+
+- You don't read that in the Bible, that they did that to commemorate his resurrection. They did that often. They broke bread often.
+
+> The council reinforced Sunday as the official Christian day of worship but did not introduce it.
+
+- Right. The wicked negroes did.
+
+> In summary, while the Trinity was a central doctrinal issue, the council also settled the timing of Easter, but did not create Sunday worship, as it was already practiced by early Christians.
+>
+> The Western tradition of celebrating Easter on the Sunday following Passover, as upheld by Bishop Anicetus of Rome, likely originated from apostolic tradition in Rome and the West, influenced by early Christian practices that sought to distinguish themselves from Jewish customs.
+
+- They were trying to deviate from the original Jewish custom of the disciples. They were trying to pretty much merge with Roman ideals, like I said before, with that whole Easter stuff.
+
+> Origins of the Sunday Easter tradition. One, resurrection on Sunday. The resurrection of Jesus occurred on the first day of the week, Sunday (Matthew 28:1, Mark 16:2, Luke 24:1, John 20:1).
+
+- Christ already rose before that. There's a few minutes between the seventh day and the first day of the week. Few minutes. Once that sun goes down, it's the first day of the week. So it's only a few minutes difference. Christ got put in the ground before sundown, and he arose before sundown. He arose before the first day of the week. Not on the first day of the week. He arose before it. Maybe minutes before, or an hour before, but he rose before it, based upon the 72-hour time he gave us. Three days and three nights.
+
+- But they say Sunday he rose. Let's just say he rose Sunday. Let's just go with that. They say that he died on Friday and rose Sunday. That doesn't add up with what Christ said. Three days and three nights. So Good Friday and Easter Sunday are still ridiculously stupid by mathematical standards. Read again.
+
+- None of those say he rose the first day. They came to visit his grave the first day.
+
+> Early Christians, especially in Rome and the West, began observing Sunday as the primary day of worship and associated it with celebrating Easter.
+>
+> Two, separation from the Jewish calendar. The Jewish calendar followed a lunar cycle, meaning Nisan 14 could fall on any day of the week. The Western churches, wanting to maintain a consistent annual celebration, chose the Sunday following the first full moon after the spring equinox to commemorate the resurrection.
+>
+> Three, influence of apostolic tradition. Some Western Christian communities traced their Easter observance back to Peter and Paul, who are believed to have preached in Rome. As Christianity spread, Rome became a leading center of doctrine, reinforcing the Sunday observance.
+>
+> Contrast with the Quartodeciman tradition. The Quartodecimans, like Polycarp of Smyrna, celebrated Easter on Nisan 14.
+
+- Already. Go down to the shift from Sabbath.
+
+> The shift from Sabbath (Saturday) to Sunday worship among early Christians
+
+- Read it again. Stop. The shift from Sabbath what?
+
+- **Officer:** Saturday.
+
+- **Deacon Eythan:** What day? Saturday. Now, I mentioned before, in Spanish and French, you got Pascua, you got Pâques. Sabbath is the same thing. You got Sábado in Spanish. Matter of fact, give me Sabbath in different languages. The word Sabbath; there's a list of them. The word Sabbath is found in all different languages for the same exact day.
+
+</div>
+
+<div class="reading">
+
+Reading from a search on the word Sabbath in other languages, read on air  *[[1:21:00](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=4860s)]*
+
+> The word Sabbath or its equivalent is used in many languages, often as the name for Saturday, the seventh day of the week. Examples include Saturday in English,
+
+- Saturday in English, because the Romans called it. Remember, we're in Rome right now. We're the extension of Rome. So they use the Roman day for Saturday. Sabbath day. Saturday.
+
+> Sábado in Portuguese and Spanish,
+
+- Sábado, or Sabbath, in Portuguese and Spanish.
+
+> Sabato in Italian, Samedi in French, and Sobota in Polish.
+
+- **Officer:** The other one says Bon Shabbat. That's French.
+
+- **Deacon Eythan:** Yeah, I see that.
+
+> For a greeting like Happy Sabbath, translations vary, with examples including Feliz Sábado (Spanish), Bon Shabbat (French), and Gezegende Sabbat (Afrikaans).
+
+- Go down to Arabic. What it say?
+
+- **Officer:** Arabic is Sabt.
+
+- **Deacon Eythan:** Sabt. That's Arabic.
+
+> English: Sabbath, Saturday, Happy Sabbath. French: Samedi, Bon Shabbat. German: Samstag. Greek: Savvato. Italian: Sabato.
+
+- He got Shabbat shalom. Even in Japanese is Sabbath.
+
+- **Officer:** You know he went to Japan. That's why he say it so well.
+
+> Polish: Sobota. Portuguese: Sábado. Russian: Subbota. Spanish: Sábado, Feliz Sábado. Swahili: Jumamosi. Turkish: Cumartesi.
+
+- Yeah. Saturday. And so just like Passover is the same in every language, Sabbath is too, for the same exact day.
+
+- **Officer:** Just like thou shalt not commit adultery is in every language.
+
+- **Deacon Eythan:** Yep. So what? Sabbath in every language.
+
+- **Officer:** Keep the commandment.
+
+- **Deacon Eythan:** Where we at?
+
+</div>
+
+<div class="reading">
+
+Reading from the AI notes on Sunday worship, continued  *[[1:24:25](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5065s)]*
+
+> The shift from Sabbath (Saturday) to Sunday worship among early Christians was a gradual process,
+
+- Was a gradual process, because the Jews kept it on that day.
+
+> influenced by theological, historical and practical factors. While many Jewish Christians initially continued observing the Mosaic Law,
+
+- Read again. Many Jewish Christians initially continued observing the Mosaic law. Christians were keeping the law.
+
+> including the Sabbath,
+
+- Including the Sabbath. They were keeping the law.
+
+> evidence suggests that Sunday worship began early among those who recognized the significance of Jesus' resurrection.
+>
+> Biblical and apostolic foundations for Sunday worship. Jesus' resurrection on Sunday. The resurrection occurred on the first day of the week, Sunday.
+
+- Let's jump down. I think we read that already. Jump down.
+
+> These references suggest that some Christians had begun gathering on Sundays while still keeping elements of Jewish law.
+
+- Yes, they did gather, but they didn't keep that as a Sabbath. They turned that into a Sabbath observance. It's not a Sabbath observance. They just gathered together, and they did it daily.
+
+> Early Christian practices. Jewish Christians and Sunday worship. In the first century, many Jewish Christians continued observing the Sabbath (Saturday) and Mosaic Law, but also gathered on Sunday to celebrate Jesus' resurrection.
+
+- It's not written anywhere.
+
+> The Nazarenes and the Ebionites, two early Jewish Christian groups, likely observed both days in some form. Gentile converts and Sunday worship.
+
+- Jump down to over time.
+
+> Over time, Gentile-majority churches, especially in Rome and Antioch, emphasized Sunday worship, distancing themselves from Jewish Sabbath-keeping.
+
+- Going against the laws. Heresies.
+
+> Early church fathers and the transition to Sunday worship. 90 to 120 AD: one of the earliest Christian writings instructs believers to gather on the Lord's Day (Sunday) for worship and the Eucharist.
+
+- Starting off with the Eucharist.
+
+> Ignatius of Antioch (110 AD), in his Letter to the Magnesians,
+
+- The Lord's day is not Sunday. The Lord's day is the Sabbath day. Let's continue.
+
+> contrasts the Jewish Sabbath with living according to the Lord's Day.
+
+- Ignatius. Remember, Ignatius went off. Read again. Okay.
+
+> Justin Martyr (150 AD) writes that Christians gather on Sunday for worship, linking it to both Jesus' resurrection and the creation of the world (First Apology, chapter 67). Tertullian (200 AD) acknowledges that many Christians have stopped keeping the Jewish Sabbath and fully embraced Sunday worship.
+
+- They did. Yeah.
+
+> Four, the gradual shift from Sabbath to Sunday worship. In the first century, Jewish Christians likely observed both the Sabbath and Sunday. As the church became more Gentile-dominated, second to third century,
+
+- That's when it started coming in, because the doctrine became universal, catholic. Everyone can come in. So it started deviating to madness.
+
+> Sunday worship replaced the Sabbath in most Christian communities. The Council of Laodicea (363 AD) later discouraged Sabbath observance, promoting Sunday as the primary day of Christian worship.
+
+- There you go. Conclusion.
+
+> Conclusion. Early Jewish Christians likely kept the Sabbath while also gathering on Sunday to celebrate Jesus' resurrection.
+
+- No, they did not. They're not celebrating resurrection. They did that daily.
+
+> As Gentiles joined the faith, Sunday gradually became the dominant day of worship,
+
+- When Christian doctrine became more paganized, they started pushing Sunday.
+
+> especially in Rome and Antioch.
+
+- Especially in Rome.
+
+> The transition was not immediate but evolved over time as Christianity distinguished itself from Judaism.
+
+- They began to split from Judaism. That's what happened. Is that it? Is there more?
+
+> Easter. The push for celebrating Easter on a Sunday primarily came from Rome and the Western church before the Council of Nicaea (325 AD). The key figure advocating for this was Pope Victor I.
+
+- I remember that from before. So Pope Victor is behind that whole thing. Sunday Easter nonsense. So now, the next thing we're going to jump on: give me Richard Watson. Richard Watson's dictionary. Page 766. Read that.
+
+</div>
+
+<div class="reading">
+
+Reading from Richard Watson's dictionary, page 766  *[[1:29:10](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5350s)]*
+
+> The apostles copied their divine Master.
+
+- Christ the Messiah.
+
+> They formed multitudes of religious societies,
+
+- Schools.
+
+> and were abundantly successful in their labor.
+
+- As we are today. All praises to the Most High.
+
+> They confined their attention to religion, and left the schools to dispute, and politicians to intrigue.
+
+- They didn't sit down with politicians and those of status.
+
+> The doctrines they preached they supported entirely by evidence,
+
+- We're doing that today.
+
+> and neither had nor required such assistance as human laws, or worldly policies, the eloquence of schools, or the terrors of arms, could afford them.
+
+- Didn't need any help. They did things on their own.
+
+> The apostles being dead,
+
+- Being dead. Remember what Peter said and what Paul said: after our departure.
+
+> everything came to pass as they had foretold. The whole Christian system, in time, underwent a miserable change.
+
+- Underwent a miserable change.
+
+> Preaching shared the fate of other institutions, and the glory of the primitive church gradually degenerated.
+
+- Degenerated.
+
+> Those writers whom we call the fathers, however held up to view by some as models for imitation,
+
+- The church fathers.
+
+> do not deserve that indiscriminate praise ascribed to them.
+
+- Why?
+
+> Christianity, it is true, is found in their writings, but how sadly incorporated with pagan philosophy and Jewish allegory!
+
+- Easter Sunday worship, right?
+
+> It must indeed be allowed that, in general, the simplicity of Christianity was maintained, though under gradual decay, during the first three centuries.
+
+- Under gradual decay.
+
+> The next five centuries produced many pious and excellent preachers, both in the Latin and Greek church, though the doctrine continued to degenerate.
+
+- Degenerate. Next page.
+
+> However, as these days were in comparison of those of the apostles, yet they were golden ages in comparison with the times that followed, when metaphysical reasoning, mystical divinity, Aristotelian categories,
+
+- Jump down to the pulpit.
+
+> The pulpit became a stage, where ludicrous priests
+
+- Crazy pastors.
+
+> obtained the vulgar laugh by the lowest kind of wit,
+
+- They were idiots.
+
+> especially at the festivals of Christmas and Easter,
+
+- Pagan institutions added to Christianity. So it underwent degeneracy. Once the disciples were gone, heresies took over. Heathens came flooding in, because pagan doctrine and Christian doctrine became one. So it became filled with heathens and heathen ideals and doctrines.
+
+</div>
+
+*[[1:31:55](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5515s)]* So now, what leads to that? Virgin birth. That's going to be a topic that's going to piss some of y'all off in the audience. I know some of y'all believe that virgin birth stuff. Give me Ezekiel 4:4. Now we're touching on the virgin birth. So we left the Council of Nicaea. We're in virgin birth now. Ezekiel 4 and 4, verses 4 to 7.
+
+**[Ezekiel 4:4](/bible/ezekiel/4#v4)**  *[[1:32:40](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5560s)]*
+
+> <sup>[4](/bible/ezekiel/4#v4)</sup> Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
+
+- I don't know why I have this written down. I don't know why I wrote this. Let me see why I wrote this down. No, jump down and go to 24 and 12. I wrote it down a long time ago and forgot why I wrote it down. Let me see what that says.
+
+**[Ezekiel 24:12-17](/bible/ezekiel/24#v12)**  *[[1:33:20](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5600s)]*
+
+> <sup>[12](/bible/ezekiel/24#v12)</sup> She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire.
+
+- Her scum shall be in the fire. That's us.
+
+> <sup>[13](/bible/ezekiel/24#v13)</sup> In thy filthiness is lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.
+>
+> <sup>[14](/bible/ezekiel/24#v14)</sup> I the Lord have spoken it: it shall come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord God.
+>
+> <sup>[15](/bible/ezekiel/24#v15)</sup> Also the word of the Lord came unto me, saying,
+>
+> <sup>[16](/bible/ezekiel/24#v16)</sup> Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down.
+
+- Kill your wife, Ezekiel. He going to kill Ezekiel's wife.
+
+> <sup>[17](/bible/ezekiel/24#v17)</sup> Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men.
+
+- Now I know why I read it. Go back to Ezekiel 4. Now I know why I got it. Now I know why I wanted to read it. Ezekiel 4 and verse 3. Three is the point.
+
+- We're going to go back to that, but read this verse. Because the context I'm touching on is the virgin birth. You're probably wondering, what does Ezekiel have to do with the virgin birth? I'm going to show you why Ezekiel regards the virgin birth. I'm going to show you the context.
+
+**[Ezekiel 4:3-7](/bible/ezekiel/4#v3)**  *[[1:34:57](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5697s)]*
+
+> <sup>[3](/bible/ezekiel/4#v3)</sup> Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel.
+
+- This shall be a sign to the house of Israel.
+
+> <sup>[4](/bible/ezekiel/4#v4)</sup> Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
+
+- Ezekiel, I want you to lay down on your left side. This is a sign, Ezekiel. Lay on your left side. And lay the iniquity of the house of Israel on your left side, upon it. For the time you're going to lay upon your left side regarding Israel will be these days.
+
+> <sup>[5](/bible/ezekiel/4#v5)</sup> For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.
+
+- 390 days. You're going to lay on your left side regarding Israel for 390 days. You will lay on your left side.
+
+> <sup>[6](/bible/ezekiel/4#v6)</sup> And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
+
+- After those 390 days, you're going to lay on your right side. You're going to lay on your right side for 40 days regarding Judah's judgment for their rebellion. Each day represents a year. Each day represents a year. So 390 days is 390 years against Ephraim, and 40 years against Judah.
+
+> <sup>[7](/bible/ezekiel/4#v7)</sup> Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it.
+
+- Babylon. Shall prophesy against it. So Ezekiel was used as what? A sign against both Judah and Israel. Now back to where we was at before. 24, his wife got killed. I'm not going to read all over again. 24 and verse 18.
+
+**[Ezekiel 24:18-24](/bible/ezekiel/24#v18)**  *[[1:37:14](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5834s)]*
+
+> <sup>[18](/bible/ezekiel/24#v18)</sup> So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
+>
+> <sup>[19](/bible/ezekiel/24#v19)</sup> And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?
+>
+> <sup>[20](/bible/ezekiel/24#v20)</sup> Then I answered them, The word of the Lord came unto me, saying,
+>
+> <sup>[21](/bible/ezekiel/24#v21)</sup> Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.
+
+- The same way I took away Ezekiel's desire of his eyes, I'm going to take away the desire of your eyes as a people. The same way Ezekiel lost his loved one, you're going to lose your loved ones. By Babylon.
+
+> <sup>[22](/bible/ezekiel/24#v22)</sup> And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men.
+
+- You're going to do what I did, Ezekiel said. You're going to do as Ezekiel did. Don't mourn, because you deserve it.
+
+> <sup>[23](/bible/ezekiel/24#v23)</sup> And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
+>
+> <sup>[24](/bible/ezekiel/24#v24)</sup> Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord God.
+
+- Ezekiel what?
+
+- **Officer:** Is unto you a sign.
+
+- **Deacon Eythan:** Ezekiel is unto you a sign. He stayed on his left side for Ephraim, on his right side for Judah, regarding their punishment and their judgment, according to the Lord. He was a sign. Then his wife gets put to death, cuz he put her before the truth. The Lord said, the same way I killed the desire of his eyes, I'm going to kill yours too. Ezekiel was a sign of the people. Right. Now get me chapter 12, verse 11.
+
+**[Ezekiel 12:11](/bible/ezekiel/12#v11)**  *[[1:39:11](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5951s)]*
+
+> <sup>[11](/bible/ezekiel/12#v11)</sup> Say, I am your sign: like as I have done, so shall it be done unto them: they shall remove and go into captivity.
+
+- Say what?
+
+- **Officer:** I am your sign.
+
+- **Deacon Eythan:** The Lord told Ezekiel to say what? I am your sign. Ezekiel said, I am your sign. Verse six.
+
+**[Ezekiel 12:6](/bible/ezekiel/12#v6)**  *[[1:39:40](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=5980s)]*
+
+> <sup>[6](/bible/ezekiel/12#v6)</sup> In their sight shalt thou bear it upon thy shoulders, and carry it forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee for a sign unto the house of Israel.
+
+- So the Lord told Ezekiel to tell Israel: listen, the things you do are a sign. You are a sign for them. What I'm going to do to you, I'm going to do to them. So Ezekiel was a sign. Now give me Hosea 1 and 1.
+
+**[Hosea 1:1-11](/bible/hosea/1#v1)**  *[[1:40:10](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=6010s)]*
+
+> <sup>[1](/bible/hosea/1#v1)</sup> The word of the Lord that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
+>
+> <sup>[2](/bible/hosea/1#v2)</sup> The beginning of the word of the Lord by Hosea. And the Lord said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the Lord.
+>
+> <sup>[3](/bible/hosea/1#v3)</sup> So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.
+>
+> <sup>[4](/bible/hosea/1#v4)</sup> And the Lord said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
+
+- Call his name Jezreel. He will cause to cease the kingdom of the house of Israel, based upon this son he had named Jezreel.
+
+> <sup>[5](/bible/hosea/1#v5)</sup> And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
+>
+> <sup>[6](/bible/hosea/1#v6)</sup> And she conceived again, and bare a daughter. And God said unto him, Call her name Lo–ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
+
+- She conceived again: she got pregnant again after she had Jezreel. I will no more have mercy upon the house of Israel. So you will name your daughter Lo-ruhamah, which means no mercy. I will utterly take them away: I will utterly take the northern kingdom of Israel away.
+
+> <sup>[7](/bible/hosea/1#v7)</sup> But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
+
+- But I will have mercy upon the house of Judah, for now.
+
+> <sup>[8](/bible/hosea/1#v8)</sup> Now when she had weaned Lo–ruhamah, she conceived, and bare a son.
+
+- She turns about three years old.
+
+> <sup>[9](/bible/hosea/1#v9)</sup> Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
+
+- So call his name Lo-ammi. So first he had Jezreel. Then he had Lo-ruhamah, and now he has another son named Lo-ammi. For ye are not my people: so he tells Ephraim, the northern kingdom, ye are not my people. And I will not be your God.
+
+- So Lo-ammi means not my people. Lo-ruhamah means no mercy. So you get no mercy from me, and you're no longer my people, and I'm no longer your God. If you get no mercy from God, and you're not his people, and he's not your God, what are you? You're a Gentile. You're a Gentile. That's what that means.
+
+> <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
+- Yet regardless of them receiving no mercy and not being my people, they shall be as the sand of the sea, which cannot be measured nor numbered. In the place where it was said unto them, ye are not my people: in those places of captivity, you're just Gentiles. You're just heathens. They shall learn, wherever they're scattered, that they are the children of God. That they're not Gentiles. They're not heathens. That they are the children of God scattered abroad, despite what names they go under today.
+
+> <sup>[11](/bible/hosea/1#v11)</sup> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
+
+- Then after that shall the children of Judah and Ephraim, the house of Israel, the kingdom of Israel, be gathered together. They will become one. They'll come together. And appoint Christ as their head, their savior.
+
+- Hosea's sons were used as signs against the northern kingdom of Israel. Hosea and his son and daughter. Well, daughter and sons, excuse me. Give me Matthew 12:40. We got a text.
+
+- **Text:** Verse 7, Deacon, in Hosea 1, about: I will save them by the Lord their God.
+
+- **Deacon Eythan:** Oh yeah. Yeah. I will save them by the Lord their God. Yep. He just dropped the gold nugget. They didn't even catch that thing, man. I will save them by the Lord their God.
+
+*[[1:45:15](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=6315s)]* **Text:** Shalom. I am not a member, but would like to ask this question. We have a tradition on the island of St. Lucia where we make something called penny a piece, or, for those who just grew up hearing it, pen pen piece, at Easter. This is made from ginger, sugar and flour. It is very thin and is almost like a biscuit, but not really. It is made in the shape of a shoe sole. Would this happen to be one of the perversions of the doctrine?
+
+**Deacon Eythan:** I'm not sure. I'm not familiar with that in St. Lucia. I'm not familiar with that particular penny piece.
+
+**Officer:** St. Lucian sweet dish known as penny piece.
+
+**Deacon Eythan:** Going into what? Passover? I don't know. I'm not sure. I'm unfamiliar with this. I'm sorry about that.
+
+**Officer:** I guess she asking, is that like unleavened bread? Like that matzah, basically.
+
+**Deacon Eythan:** I mean, it look like it is. Penny piece. Crispy, wafer-thin biscuit. Prepared during the Easter season, but now available year round. Yeah, it probably is going to Passover, if it's unleavened. It looks like it's unleavened. Is it unleavened? I asked them. Is it unleavened?
+
+**Officer:** It is.
+
+**Deacon Eythan:** Yeah, it's unleavened. More than likely. Yeah, it's probably our Passover over there.
+
+**Officer:** Little Catholic wafers.
+
+**Deacon Eythan:** Yeah. Okay. That's a possibility. All right. Where we at?
+
+**Officer:** Matthew 12 and 40.
+
+**[Matthew 12:40](/bible/matthew/12#v40)**  *[[1:47:14](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=6434s)]*
+
+> <sup>[40](/bible/matthew/12#v40)</sup> For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.
+
+- That does not add up to Friday to Sunday. That does not add up at all. Three days and three nights is 72 hours. 12 times 6 is 72 hours. 72 hours. Not Friday and Sunday. That does not make sense. Luke 11:30.
+
+**[Luke 11:30](/bible/luke/11#v30)**  *[[1:47:50](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=6470s)]*
+
+> <sup>[30](/bible/luke/11#v30)</sup> For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.
+
+- That's it? Let me see. Read again. For as Jonas was a sign. Jonas is what? Was a sign. Jonas, like Ezekiel, like Hosea, was a sign. Jonas was a sign of what? Of being in the whale's belly three days and three nights. Christ will be in the ground three days and three nights. Jonas was a sign.
+
+- The same way Jonah was a sign, Christ will also be a sign as well, to this generation. Now, so it wasn't the mother that was a sign. It was the son that was a sign. The Catholic church keeps trying to deify Mary, and Islam does too, because Islam got that from the Catholic church, or the Catholic Christians that Muhammad encountered. Give me Isaiah 20 and 1.
+
+- **Officer:** Ezekiel a sign. Hosea a sign. Jonas a sign. Christ a sign.
+
+**[Isaiah 20:1-4](/bible/isaiah/20#v1)**  *[[1:49:20](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=6560s)]*
+
+> <sup>[1](/bible/isaiah/20#v1)</sup> In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
+>
+> <sup>[2](/bible/isaiah/20#v2)</sup> At the same time spake the Lord by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot.
+
+- Naked means he walked around with his underclothes on. Naked. Underclothed.
+
+> <sup>[3](/bible/isaiah/20#v3)</sup> And the Lord said, Like as my servant Isaiah hath walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;
+
+- Isaiah walked for what? For a sign and wonder upon Egypt. Isaiah was a sign.
+
+> <sup>[4](/bible/isaiah/20#v4)</sup> So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt.
+
+- So the same way Isaiah walked around naked is the same way he described Assyria conquering these nations that Israel ran to for comfort. They'd be taken captive naked also. All right. So Isaiah was naked. His butt was out, cuz naked only means either underclothed or naked itself. So Isaiah, he said, you going to take your clothes off; they going to be naked like you. All right. So Isaiah was a sign as well.
+
+- Now give me, let me see, Isaiah 7. Let's jump into it now. I'm going to start a little bit and we going to land there. Isaiah 7, verse 1. We're going to go through this real slow, until next week. Remember the context I'm touching on: virgin birth. So far we've read that Ezekiel was a sign. Hosea's sons and Hosea's children were a sign. Jonah was a sign. Okay. Isaiah was a sign. Christ was a sign.
+
+**[Isaiah 7:1-25](/bible/isaiah/7#v1)**  *[[1:51:35](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=6695s)]*
+
+> <sup>[1](/bible/isaiah/7#v1)</sup> And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
+
+- So Ephraim and Syria came against Judah to overthrow it. They joined forces to overthrow us.
+
+> <sup>[2](/bible/isaiah/7#v2)</sup> And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
+
+- He got scared. The king got scared.
+
+> <sup>[3](/bible/isaiah/7#v3)</sup> Then said the Lord unto Isaiah, Go forth now to meet Ahaz, thou, and Shear–jashub thy son, at the end of the conduit of the upper pool in the highway of the fuller’s field;
+
+- Shearjashub. So the Lord said to Isaiah, take your son Shearjashub and go talk to the king, Ahaz, who is wicked and stupid.
+
+> <sup>[4](/bible/isaiah/7#v4)</sup> And say unto him, Take heed, and be quiet; fear not, neither be fainthearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria, and of the son of Remaliah.
+
+- So don't be afraid of Syria. Don't be afraid of Ephraim joining the forces.
+
+> <sup>[5](/bible/isaiah/7#v5)</sup> Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,
+>
+> <sup>[6](/bible/isaiah/7#v6)</sup> Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, even the son of Tabeal:
+>
+> <sup>[7](/bible/isaiah/7#v7)</sup> Thus saith the Lord God, It shall not stand, neither shall it come to pass.
+>
+> <sup>[8](/bible/isaiah/7#v8)</sup> For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
+
+- The head of Syria, the capital of Syria, is Damascus. And the leader, the king of Damascus, or Syria, is Rezin. That's his name. Within 65 years shall Ephraim be broken, that it be not a people. Ephraim will be broken, that it be not a people. Going back to the prophecy of Hosea, where he said, not my people, and I will not be your God. Gentiles. Gentiles.
+
+> <sup>[9](/bible/isaiah/7#v9)</sup> And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established.
+
+- The head of Ephraim, the capital of Ephraim, is Samaria. And the head of Samaria, the king, is Remaliah's son, Pekah. He is the son of Remaliah.
+
+- Should not be established.
+
+- **Officer:** Come on. Reading like that, man. It's the time to shine, man. I'm surprised he had mercy on him today, man. He been merciful to you, bro.
+
+- **Deacon Eythan:** Read verse 9 again.
+
+> <sup>[10](/bible/isaiah/7#v10)</sup> Moreover the Lord spake again unto Ahaz, saying,
+>
+> <sup>[11](/bible/isaiah/7#v11)</sup> Ask thee a sign of the Lord thy God; ask it either in the depth, or in the height above.
+
+- Ask thee a sign of the Lord thy God. Ask me for a sign. The Lord said to Ahaz, ask me for a sign.
+
+> <sup>[12](/bible/isaiah/7#v12)</sup> But Ahaz said, I will not ask, neither will I tempt the Lord.
+
+- No, I'm not going to tempt you. I don't want a sign.
+
+> <sup>[13](/bible/isaiah/7#v13)</sup> And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?
+>
+> <sup>[14](/bible/isaiah/7#v14)</sup> Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
+
+- Wait, stop here. Read verse 14 again. Remember the context here. He asked Ahaz, ask me of a sign. Ahaz said, no, I will not ask you of a sign. The Lord said, fine, I'm going to give you a sign anyway. Read verse 14 again.
+
+- The Lord himself shall give you a sign. What will this sign be? Read on. Behold, Ahaz, during your time, a virgin shall conceive. And she will bear a son, and shall call his name Immanuel.
+
+> <sup>[15](/bible/isaiah/7#v15)</sup> Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
+
+- Butter and honey shall he eat. Butter and honey represents the commandments. He will keep the commandments, to know to refuse the evil and keep the good.
+
+> <sup>[16](/bible/isaiah/7#v16)</sup> For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
+
+- Before the child shall know how to refuse evil. Before the child knows any better, it'll still be an infant. By the time this child's age understands right from wrong, these kings will be conquered already. They'll be overthrown. Meaning Pekah and Rezin will be overthrown by the time this child's age.
+
+> <sup>[17](/bible/isaiah/7#v17)</sup> The Lord shall bring upon thee, and upon thy people, and upon thy father’s house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.
+
+- Going to send Assyria against them both.
+
+> <sup>[18](/bible/isaiah/7#v18)</sup> And it shall come to pass in that day, that the Lord shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.
+>
+> <sup>[19](/bible/isaiah/7#v19)</sup> And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.
+>
+> <sup>[20](/bible/isaiah/7#v20)</sup> In the same day shall the Lord shave with a razor that is hired, namely, by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard.
+>
+> <sup>[21](/bible/isaiah/7#v21)</sup> And it shall come to pass in that day, that a man shall nourish a young cow, and two sheep;
+>
+> <sup>[22](/bible/isaiah/7#v22)</sup> And it shall come to pass, for the abundance of milk that they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land.
+
+- A typo.
+
+- **Officer:** Okay. All praises.
+
+- **Deacon Eythan:** They shall give, he shall eat butter. So there should be a comma there.
+
+- Wait, wait, wait. Read 22 again. Go above that.
+
+- He shall eat butter. Remember butter. It says butter and what?
+
+- **Officer:** Honey.
+
+- **Deacon Eythan:** For butter and honey. You said butter and milk.
+
+- **Officer:** There you go, bro. He was merciful. Well deserved. Fresh off the blitz. You blame it on the blitz last week.
+
+- **Deacon Eythan:** So the butter and honey. Remember I said earlier about the child: well before the child eats butter and honey, to know to refuse the evil and choose the good, these kings shall be gone. They'll be out the way.
+
+> <sup>[23](/bible/isaiah/7#v23)</sup> And it shall come to pass in that day, that every place shall be, where there were a thousand vines at a thousand silverlings, it shall even be for briers and thorns.
+
+- Be a lack of abundance.
+
+> <sup>[24](/bible/isaiah/7#v24)</sup> With arrows and with bows shall men come thither; because all the land shall become briers and thorns.
+
+- Assyria.
+
+> <sup>[25](/bible/isaiah/7#v25)</sup> And on all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle.
+
+- Lack of abundance. 8 and 1, Isaiah 8, verse 1.
+
+**[Isaiah 8:1-18](/bible/isaiah/8#v1)**  *[[2:00:28](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=7228s)]*
+
+> <sup>[1](/bible/isaiah/8#v1)</sup> Moreover the Lord said unto me, Take thee a great roll, and write in it with a man’s pen concerning Maher–shalal–hash–baz.
+
+- Nope, not within a man's pen. This is, write in it with a man's pen. Read verse one again, please.
+
+- **Officer:** That's close enough.
+
+- **Deacon Eythan:** Yeah, that's good. Maher-shalal-hash-baz is the longest name in the Bible. Maher-shalal-hash-baz. That means quick to the plunder, swift to the spoil. That's Isaiah's other son. Read on.
+
+> <sup>[2](/bible/isaiah/8#v2)</sup> And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
+
+- Right. The Lord said to Isaiah, write that name down on the scroll. Write down that name.
+
+> <sup>[3](/bible/isaiah/8#v3)</sup> And I went unto the prophetess; and she conceived, and bare a son. Then said the Lord to me, Call his name Maher–shalal–hash–baz.
+
+- I went in unto the prophetess, his wife. And she conceived: and she got pregnant. And bare a son: she bare me a son.
+
+- Maher-shalal-hash-baz, meaning that name you wrote down, that'll be your son's name. So the Lord, he wrote that name down before the child was born. Read on.
+
+> <sup>[4](/bible/isaiah/8#v4)</sup> For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
+
+- This is going right back to Isaiah 7. Before the child know. They will be overthrown. They will be overthrown.
+
+- Isaiah 7:14 is twofold, based upon, you can tell by the age difference, the way it describes it. Isaiah 7:14 is referring to Isaiah's son as well, but Christ as well later on. It's twofold. Isaiah 8, verses 1 to 3, that's Isaiah's son altogether. All right? The sense here in 7 says, for the child shall know to refuse evil and choose the good; that's an older child. Before he know to cry, that's a younger child. So it's the same child, it's referring to the same judgment. By the time this child is old enough to understand good and evil, they'll be gone. By the time this child is old enough to cry, they'll be conquered. They'll be gone.
+
+- Read verse four again. Before the child can speak, my father, my mother. Going back to knowing good and evil. Same thing. The child be very young by the time these kings are out the way.
+
+> <sup>[5](/bible/isaiah/8#v5)</sup> The Lord spake also unto me again, saying,
+>
+> <sup>[6](/bible/isaiah/8#v6)</sup> Forasmuch as this people refuseth the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah’s son;
+>
+> <sup>[7](/bible/isaiah/8#v7)</sup> Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, even the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
+
+- The waters is the heathens, the nation Assyria.
+
+> <sup>[8](/bible/isaiah/8#v8)</sup> And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
+
+- Meaning he surround you. Cover the land. He's going to pass through Judah. He shall attempt to overthrow Judah. He going to reach to the neck right here, but not drown, not conquer Judah.
+
+- O what?
+
+- **Officer:** O Immanuel.
+
+- **Deacon Eythan:** O God with us.
+
+> <sup>[9](/bible/isaiah/8#v9)</sup> Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
+
+- He's talking to Ephraim and Syria. So if you guys ally yourselves against Judah, you're going to fall.
+
+> <sup>[10](/bible/isaiah/8#v10)</sup> Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
+
+- Hosea prophesied that what? Judah will be defended. Ephraim will not be defended. But neither horse, nor bow, nor horsemen. That's Hosea 1. So Assyria would come close to conquering Judah, but not be successful. But Ephraim, he'd be successful. And Syria.
+
+> <sup>[11](/bible/isaiah/8#v11)</sup> For the Lord spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
+>
+> <sup>[12](/bible/isaiah/8#v12)</sup> Say ye not, A confederacy, to all them to whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
+
+- Don't be afraid of what you hear regarding the confederacy of Syria and Ephraim. Don't sit there and fall behind everybody else who's afraid.
+
+> <sup>[13](/bible/isaiah/8#v13)</sup> Sanctify the Lord of hosts himself; and let him be your fear, and let him be your dread.
+
+- You fear God. Don't fear no man. Don't fear Ephraim and Syria. You fear me.
+
+> <sup>[14](/bible/isaiah/8#v14)</sup> And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem.
+
+- For what?
+
+- **Officer:** For he shall be for a sanctuary.
+
+- **Deacon Eythan:** Read it again. Verse 14. He, the Lord in verse 13, shall be for a sanctuary.
+
+> <sup>[15](/bible/isaiah/8#v15)</sup> And many among them shall stumble, and fall, and be broken, and be snared, and be taken.
+>
+> <sup>[16](/bible/isaiah/8#v16)</sup> Bind up the testimony, seal the law among my disciples.
+>
+> <sup>[17](/bible/isaiah/8#v17)</sup> And I will wait upon the Lord, that hideth his face from the house of Jacob, and I will look for him.
+
+- Verse 18. Watch this.
+
+> <sup>[18](/bible/isaiah/8#v18)</sup> Behold, I and the children whom the Lord hath given me are for signs and for wonders in Israel from the Lord of hosts, which dwelleth in mount Zion.
+
+- **Officer:** Behold, I and the children.
+
+- **Deacon Eythan:** No, I and the woman.
+
+- **Officer:** And the children.
+
+- **Deacon Eythan:** The woman. The virgin.
+
+- **Officer:** The children.
+
+- **Deacon Eythan:** I and the what?
+
+- **Officer:** The children.
+
+- **Deacon Eythan:** I and the children are what? I thought the woman was the sign. The sign here is Isaiah and his sons, Shearjashub and Maher-shalal-hash-baz. That was the sign. The children were the sign. Isaiah was a sign, not the woman. Read again. Shearjashub and Maher-shalal-hash-baz. That's all I wanted.
+
+- So the sign was Isaiah and his sons. The sign was Hosea and his children as well. Daughter and two sons. Ezekiel, his wife who got put to death was a sign also. Well, he was a sign. Her death was a sign. Laying on his left side, his right side: they were the sign. The woman was not the sign. The children, the men, were. So when Matthew quotes Isaiah 7:14, it says, a virgin shall bring forth a son. He was not talking about Mary. He was talking about Christ. Christ is the sign. The babe was the sign, not the virgin woman. Not the virgin.
+
+- Let me see. What time is it? Almost 4.
+
+- **Officer:** How about Luke 2:34.
+
+- **Deacon Eythan:** Let's get that. Do I have that written down? Hold on. I'm going to read that later on. Let's get it. I don't see it here. Luke 2. Read verse 11 first.
+
+**[Luke 2:11-12,34](/bible/luke/2#v11)**  *[[2:09:30](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=7770s)]*
+
+> <sup>[11](/bible/luke/2#v11)</sup> For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
+>
+> <sup>[12](/bible/luke/2#v12)</sup> And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.
+
+- What will be a sign to you? Christ, the savior. That's the sign. 34.
+
+> <sup>[34](/bible/luke/2#v34)</sup> And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
+
+- No, he said, Mary, you're going to be a sign? This child is set for the fall and rising again of many in Israel, and for a sign which shall be spoken against. I don't know where y'all get this from. The Catholic Church got y'all brainwashed. It's telling you the sign was the child, not the woman.
+
+- **Officer:** They fulfilling prophecy by saying Mary's a sign. They speaking against Christ, the sign.
+
+- **Deacon Eythan:** Yep.
+
+- **Text:** Shalom. Most High Christ bless. Can leadership please have Cap or Dee reach out to me after class? I'm in need of serious counsel concerning life and death matters.
+
+- **Deacon Eythan:** Y'all can't send texts like that, man. That don't make no type of sense to send text like that at all. I don't know who you are. Sending a text saying life and death. That doesn't make any sense.
+
+- **Officer:** Y'all should have screened that. Y'all shouldn't even put that up. Their phone number's on there.
+
+- **Deacon Eythan:** All right. I don't know who that is. We got to deal with that afterwards.
+
+- Read 34 again. And for a sign which shall be spoken against. You know the text.
+
+## In Closing
+
+*[[2:11:55](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=7915s)]* Where we at? Verse 18. So I'm going to end right there. We're going to touch on Jeremiah next, because that's two, regarding the cursed lineage of Joseph. We're going to go into that next. We should go into that now; I ain't got no time. No, I'mma wait. I'll wait. I'll be patient. We're going to touch on the cursed line of Joseph. The alleged cursed line of Joseph that y'all use to say Mary's line is a line of kings, when it's not. Y'all use the whole Jeconiah thing. We're going to go into that next week, Lord's will, life last.
+
+*[[2:12:40](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=7960s)]* All right. So, hope you guys enjoyed the lesson. Hope you guys got some. Next week will be virgin birth. We touched on Easter Sunday, Sunday worship. Now we should put Council of Nicaea, Sunday worship. Make sure y'all title that. Fix your title. Council of Nicaea, Sunday worship. And then the next one could be Council of Nicaea, virgin birth, cuz the last one was Trinity. So I guess you could do it that way.
+
+*[[2:16:03](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=8163s)]* All right. So, shalom. Most High Christ bless y'all. Until next time, we will continue in the virgin birth. So stay tuned. We touched on the Trinity. We touched on the Easter Sunday, and now we're in virgin birth, so I can piss y'all off. It's going to bring me great joy. All praise to the Most High for that. You know we live for this, man. So if you want the smoke, just bring the smoke with the virgin stuff. We'll deal with it. All right. Shalom, Most High bless. Until then, see y'all next time.
+
+## Announcements & References
+
+*[[2:15:31](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=8131s)]* Make sure you guys don't forget to donate. Donate. Donate. You know how we do. You know where the funds go. So please bring forth your willful contributions, your willful offerings, and help us out. You know, your help goes a long way. If it were not for you, our travels would not be possible. A lot of things that we've done successfully in terms of reaching our people would not be possible without your donations. So we thank you. Thank you. Thank you. Please continue to help us out. All praise to the Most High God.
+
+Text the show at 267-262-6121, or Zoom call in with questions regarding the topic.
+
+Sources read from in this episode:
+
+- Search results on Anacletus of Rome, Polycarp of Smyrna and Anicetus, and on the 80 books of the 1611 King James Bible, read on air.
+- AI notes on the Quartodeciman controversy (Polycarp and Anicetus, Pope Victor I and Polycrates of Ephesus, the Council of Nicaea).
+- AI notes on Easter and Sunday worship, and the shift from the Sabbath to Sunday among early Christians.
+- A search on the word Sabbath in other languages.
+- Richard Watson's dictionary, page 766 and the next page, on the apostles and the degeneration of the church after them.
+- Footage of a street blitz, played over the break.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=GXPvA86LJ3Y)

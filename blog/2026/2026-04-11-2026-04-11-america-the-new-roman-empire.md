@@ -33,10 +33,31 @@ Thumbnail video: a mock news bulletin. The US, Israel and Iran have come to an a
 
 - We open with this because it says the same thing Ecclesiastes 1:9 said last week: there is no new thing under the sun. Whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. So it behooves us to read, read, and read more. Everything America does is written already; we are going to show you the pattern in Rome.
 
-Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant (page 566): "The revolution he sought was a far deeper one, without which reforms could only be superficial and transitory. If he could cleanse the human heart of selfish desire, cruelty, and lust, utopia would come of itself, and all those institutions that rise out of human greed and violence, and the consequent need for law, would disappear. Since this would be the profoundest of all revolutions, beside which all others would be mere coups d'etat of class ousting class, Christ was in this spiritual sense the greatest revolutionist in history."
+<div class="reading">
 
-- Christ was the greatest revolutionist in history; greater than Marcus Garvey. Roman law would have to disappear for his revolution.
-- Page 39 of the same book: the Latins gave the name Africa to the region around Carthage and Utica, and followed the Greeks in calling its Semitic population Poeni, that is, Phoenicians. The Latins became known as the Roman Empire. They are the ones that put the name Africa on the continent; do not say you never saw proof. The Latins were Edom, and they took over Japheth's Roman Republic. Some of you got that and some of you do not know what I am talking about yet; hold that thought.
+Reading from *The Story of Civilization: Caesar and Christ* by Will Durant, page 566 · read by Captain Yuri  *[[23:08](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1388s)]*
+
+> The revolution he sought was a far deeper one, without which reforms could only be superficial and transitory. If he could cleanse the human heart of selfish desire, cruelty and lust, utopia would come of itself. And all those institutions that rise out of human greed and violent and the consequent need for law would disappear.
+
+- Yeah, Roman law would have to disappear, good.
+
+> Since this would be the profoundest of all revolutions, besides which all others would be mere coup d'etat of class outing class and exploiting in its turn, Christ was in the spiritual sense the greatest revolutionist in history.
+
+- Christ was the greatest revolutionist in history. Yes, right, greater than Marcus Garvey. I know some Benjamin don't want to hear that, but yes, Christ was the greatest.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Story of Civilization: Caesar and Christ* by Will Durant, page 39  *[[24:15](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1455s)]*
+
+> The Latins gave the name Africa to the region around Carthage and Utica and followed the Greeks in calling its Semitic population Poeni, i.e., Phoenicians.
+
+- They gave the name Africa to the region around Carthage and Utica. The Latins became known as the Roman Empire. They're the ones that put the name Africa on the continent. Everybody understands that. Don't say, "Well, I was confused. I never saw any proof." Well, that's where it is.
+
+- The Latins were Edom and they took over Japheth and the Roman Republic. I said something right there. Some of you got it, some of you is don't know what the hell I'm talking about.
+
+</div>
 
 **[2 Esdras 11:1-6](/bible/2-esdras/11#v1)**  *[[25:21](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1521s)]*
 
@@ -83,7 +104,15 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 >
 > <sup>[15](/bible/2-esdras/12#v15)</sup> Whereof the second shall begin to reign, and shall have more time than any of the twelve.
 
-- In the same shall twelve kings reign, one after another; the twelve wings, or feathers, are twelve kings. Whereof the second shall begin to reign and shall have more time than any of the twelve: that is Augustus Caesar, who reigned the longest. Shown on screen: Birth of an Empire, coins of the twelve Caesars. We are going to go through them slowly.
+- In the same shall twelve kings reign, one after another; the twelve wings, or feathers, are twelve kings. Whereof the second shall begin to reign and shall have more time than any of the twelve: that is Augustus Caesar, who reigned the longest. We are going to go through them slowly.
+
+<div class="reading">
+
+Reading from an on-screen title  *[[31:37](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1897s)]*
+
+> Birth of an empire, coins of the 12 Caesars.
+
+</div>
 
 **[2 Esdras 11:12-19](/bible/2-esdras/11#v12)**  *[[32:16](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1936s)]*
 
@@ -103,11 +132,72 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 >
 > <sup>[19](/bible/2-esdras/11#v19)</sup> So went it with all the residue one after another, as that every one reigned, and then appeared no more.
 
-- On the right side there arose one feather and reigned over all the earth: that is Julius Caesar, circa 100 BC to 44 BC, reign 49 BC to 44 BC, dictator of the Roman Republic and among history's greatest military commanders. Notice it says dictator of the Roman Republic, not of the Roman Empire. The Roman Republic and the Roman Empire are two separate things: the Roman Republic was Japheth, the Roman Empire is Esau.
-- Book read in class: Dr. William Smith's Dictionary of the Bible (1896), under Obadiah: "I have several times shown that from Edom proceeded the kings who reigned in Italy, and who built up Rome to be great among the nations and chief among the provinces; and in this way Italy and Greece and all the western provinces became filled with Idumeans. Thus it is that the prophets call the whole of that nation by the name of Edom." And: "Kimchi on Joel 3 says that Julius Caesar was an Idumean. The Jews, both those who are comparatively ancient and those who are modern, believe that Titus was an Edomite; and when the prophets denounce Edom, they frequently refer it to Titus." So Julius Caesar was not Japheth; he was an Idumean, an Edomite. When you look him up he is the last dictator of the Roman Republic, but he was also the beginning of the Roman Empire.
-- And so it was that when it reigned, the end of it came: Julius was assassinated. The next following stood up and reigned and had a great time: Augustus, born 63 BC, died AD 14, reign 27 BC to AD 14, founder of the Roman Empire, about 41 years. Notice history has Julius as the last dictator of the Republic and Augustus as the founder of the Empire; the Bible tells you Julius was the beginning of it.
+- On the right side there arose one feather and reigned over all the earth: that is Julius Caesar.
+- And so it was that when it reigned, the end of it came: Julius was assassinated. The next following stood up and reigned and had a great time: Augustus.
 - Then came a voice: Hear thou that hast borne rule over the earth so long, before thou beginnest to appear no more, there shall none after thee attain unto thy time, neither unto the half thereof. No Caesar after Augustus would reign as long as his 41 years.
-- Then arose the third and reigned as the other before, and appeared no more also: Tiberius, born 42 BC, died AD 37, reign AD 14 to 37, stepson of Augustus, reclusive yet an effective military general. So went it with all the residue one after another: every one reigned and then appeared no more. There were twelve in total.
+- Then arose the third and reigned as the other before, and appeared no more also: Tiberius. So went it with all the residue one after another: every one reigned and then appeared no more. There were twelve in total.
+
+<div class="reading">
+
+Reading from an on-screen note on Julius Caesar · read by Captain Yuri  *[[32:55](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1975s)]*
+
+> Julius Caesar, circa 100 BC to 44 BC. Reigned 49 BC to 44 BC. Dictator of the Roman Republic among history's greatest military commanders.
+
+- So, notice it says dictator of the Roman Republic. It did not say dictator of the Roman Empire. The Roman Empire and the Roman Republic, two separate empires. The Roman Republic was Japheth. The Roman Empire, Esau.
+
+</div>
+
+<div class="reading">
+
+Reading from *Dr. William Smith's Dictionary of the Bible*, written in 1896, on Obadiah  *[[33:39](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2019s)]*
+
+> The Idumean might, he argues, have joined the enemies
+
+> I have several times shown that from Edom proceeded the kings who reigned in Italy and who built up Rome to be great among the nations and chief among the provinces. And in this way Italy and Greece and all the western provinces became filled with Idumeans.
+
+- So, Greece was Idumeans and Roman Empire was Idumeans. Good?
+
+> Thus, it is that the prophets call the whole of that nation by the name of Edom.
+
+> The Book of Obadiah.
+
+> Kimchi, on Joel chapter 3 and verse 10 says that Julius Caesar was an Idumean.
+
+- So, Julius Caesar was not Japheth. He was an Idumean, an Edomite. Good?
+
+> The Jews, both those who are comparatively ancient and those who are modern, believe that Titus was an Edomite.
+
+- So, Titus Caesar was an Edomite.
+
+> And when the prophets denounced Edom, they frequently referred it to Titus.
+
+- So, I wanted just to show you about Julius Caesar. When you look him up, it says he was the last dictator of the Roman Republic. But, he was also the beginning of the Roman Empire.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on Augustus · read by Captain Yuri  *[[36:42](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2202s)]*
+
+> Augustus, born 63 BC, died 14 AD, reigned 27 BC to 14 AD.
+
+- So, he reigned for 41 years.
+
+> Founder of the Roman Empire,
+
+- So, notice from Julius to Augustus, they got Julius was the last dictator of the Roman Republic, and it got Augustus as the founder of the Roman Empire. However, the Bible tells you that Julius was the beginning of…
+
+> oversaw an era of peace.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on Tiberius · read by Captain Yuri  *[[38:08](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2288s)]*
+
+> Tiberius, born 42 BC, died 37 AD, reigned 14 AD to 37 AD. Stepson of Augustus. Reclusive yet effective military general.
+
+</div>
 
 **[Luke 2:1-5](/bible/luke/2#v1)**  *[[38:28](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2308s)]*
 
@@ -123,27 +213,126 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 
 - There went out a decree from Caesar Augustus that all the world should be taxed. You thought taxation started with America; it started with Rome. Everything America does is based on ancient Rome.
 - Joseph went up from Nazareth to Bethlehem, because he was of the house and lineage of David, to be taxed with Mary his espoused wife. To be taxed with Mary means they filed jointly. So I do not know where brothers and sisters get this idea that we are sovereign and do not have to pay taxes; you are going to get yourself jacked up, and anybody who listens to you.
-- Read from the screen: Tiberius Caesar (reign AD 14 to 37) was the Roman emperor during the events covering approximately Acts 1 through Acts 10: the establishment of the church at Pentecost, the early growth of the community in Jerusalem, and the initial persecution leading to the dispersion of believers. Tiberius was emperor during the crucifixion (AD 30 or 33) and the opening chapters of Acts, and reigned until his death in AD 37, around the events of Acts 9 or 10.
+
+<div class="reading">
+
+Reading from on-screen notes on Tiberius in the book of Acts  *[[40:11](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2411s)]*
+
+> Tiberius Caesar, reigned AD 14 to 37, was the Roman Emperor during the events covering approximately Acts chapter 1 through Acts chapter 10.
+
+- See that? So, Tiberius ruled from Acts chapter 1 through Acts chapter 10. Good?
+
+> His reign spans the establishment of the church at Pentecost, the early growth of the Christian community in Jerusalem, and the initial persecution leading to the dispersion of believers.
+>
+> Reign context. Tiberius was emperor during the crucifixion, AD 30 or 33, and during the early establishment of the church described in the opening chapters of Acts.
+
+</div>
 
 **[Luke 3:1](/bible/luke/3#v1)**  *[[40:31](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2431s)]*
 
 > <sup>[1](/bible/luke/3#v1)</sup> Now in the fifteenth year of the reign of Tiberius Cesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 
-- Luke 2:1 names Caesar Augustus; Luke 3:1 names Tiberius. These are the feathers we are reading about in Esdras. When you read the four gospels, Tiberius is the Caesar of the time Christ was an adult.
-- The fourth feather: Caligula, born AD 12, died AD 41, reign AD 37 to 41, the first Roman emperor to be assassinated; initiated construction of Roman aqueducts. Within the book of Acts his reign roughly corresponds to Acts 7 (the death of Stephen) through early Acts 12: the persecution following Stephen's death and Saul's conversion (circa AD 35 to 36), Peter's vision and ministry in Acts 10 and 11 around the time Caligula's persecution of Jews in Alexandria prompted a crisis, and Acts 12 (the death of James and the imprisonment of Peter under Herod Agrippa I) just after Caligula's assassination.
+- Luke 2:1 names Caesar Augustus; Luke 3:1 names Tiberius. These are the feathers we are reading about in Esdras.
+
+<div class="reading">
+
+Reading from on-screen notes on Tiberius in the book of Acts · read by Captain Yuri  *[[41:22](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2482s)]*
+
+> Acts timeline. While not named explicitly in Acts, only in Luke chapter 3:1, Tiberius was the reigning Caesar from Acts 1 until his death in AD 37, which likely occurs around the time of the events in Acts chapter 9 or 10.
+
+- Tiberius, see the part where it says Tiberius was emperor during the crucifixion, AD 30 or 33. So, this is when the time when Christ was an adult. So, when you're reading the four Gospels, it's Tiberius who was the emperor, who was the Caesar of the time.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen notes on Caligula · read by Captain Yuri  *[[42:13](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2533s)]*
+
+> Caligula, born 12 AD, died 41 AD.
+
+- This is the fourth Caesar that we read about. Okay?
+
+> Reigned 37 AD to 41 AD.
+
+- Him and Ezra said they were 12. So, we're on the fourth one now.
+
+> First Roman Emperor to be assassinated. Initiated construction of Roman aqueducts.
+
+> Caligula, Gaius, reigned as Roman Emperor from March 37 AD to January 41 AD. Within the narrative of the Book of Acts, this period roughly corresponds to the time covering Acts chapter 7, the death of Stephen, through early Acts chapter 12.
+
+- So, from Acts chapter 7 to Acts 12 is Caligula Caesar. Okay?
+
+> Acts chapter 7 through 9 describes the persecution following Stephen's death, circa AD 35 to 36, and Saul's conversion. Acts chapter 10 through 11 covers Peter's vision and ministry, occurring around the time Caligula's persecution of Jews in Alexandria prompted a crisis. Acts chapter 12 records the death of James and imprisonment of Peter under Herod Agrippa the first, which occurred just after Caligula's assassination.
+
+- That's all I wanted with that.
+
+</div>
 
 **[Acts 18:2](/bible/acts/18#v2)**  *[[43:16](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2596s)]*
 
 > <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 
-- The fifth feather: Claudius, born 10 BC, died AD 54, reign AD 41 to 54; began the conquest of Britain, presided at public trials. He is explicitly mentioned in Acts: he commanded all Jews to depart from Rome, which is why Aquila and Priscilla had lately come from Italy, historically dated around AD 49 to 50.
+- Because that Claudius had commanded all Jews to depart from Rome: this is Claudius Caesar.
+
+<div class="reading">
+
+Reading from on-screen notes on Claudius  *[[44:16](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2656s)]*
+
+> Claudius, born 10 BC, death 54 AD, reign 41 AD to 54 AD. Began the conquest of Britain. Presided at public trial.
+
+> Claudius Caesar, Roman emperor from AD 41 to 54, is explicitly mentioned in the book of Acts regarding events in chapters 11 and 18. Acts chapter 11 verse 28 mentions a famine occurring during his reign.
+
+- But that was, what's his name? Caligula was ruling when this was mentioned.
+
+> While Acts chapter 18 verse 2 mentions his decree commanding all Jews to leave Rome, placing these events within the early expansion of the church.
+>
+> Acts 11:28 mentions a prophecy of a great famine in the days of Claudius Caesar, which was fulfilled around AD 45 to 46.
+
+- I'm just going to show y'all. Claudius was not Caesar in Acts 11. That was Caligula.
+
+</div>
 
 **[Acts 11:28](/bible/acts/11#v28)**  *[[45:20](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2720s)]*
 
 > <sup>[28](/bible/acts/11#v28)</sup> And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cesar.
 
 - Agabus signified by the spirit that there should be great dearth throughout all the world, which came to pass in the days of Claudius Caesar. Understand that Caligula was Caesar when this was prophesied; Claudius came into power four or five years later, and that is when the famine hit, around AD 45 to 46. This is why, when we tell you to prepare, black people say it did not happen this year or next, so it is not going to happen. This did not occur for five years. Just listen closely when we tell you things.
-- So I do not know why people say the Bible is not a history book. It gives you the Caesars all in there.
+
+<div class="reading">
+
+Reading from on-screen notes on Claudius · read by Captain Yuri  *[[46:15](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2775s)]*
+
+> Acts 18:2 records that Paul met Aquila and Priscilla, who had recently left Italy because Claudius had commanded all the Jews to depart from Rome. Historically dated around AD 49 to 50.
+
+- So, I don't know why people say the Bible is not a history book. It gives you the Caesars all in there.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen notes on Nero · read by Captain Yuri  *[[46:40](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2800s)]*
+
+> Nero, born 37 AD, death 68 AD.
+
+> Great fire of Rome.
+
+- Nero's the one. That's why there's a software back a few years ago in the '90s. What was it, was something Nero. Yeah, it burned CDs. It was Nero, I think it was called Nero. Anybody know what I'm talking about? Okay, they got it from this guy who burned down Rome and he blamed it on the black Christians.
+
+> Built theaters and promoted cultural activities.
+
+> Nero Caesar, reign AD 54 to 68, during the latter part of the book of Acts, specifically covering Paul's trials in Caesarea and his journey to Rome, roughly spanning Acts 25 through Acts 28.
+
+- So, the last three chapters of Acts deals with Nero.
+
+> While not mentioned by name,
+
+- Nero's name is not found in the scriptures.
+
+> Nero is the Caesar to whom Paul appeals in Acts chapter 25 verse 11 and before whom he appears.
+
+- Put in your Bible Nero, Nero Caesar.
+
+</div>
 
 **[Acts 25:10-12](/bible/acts/25#v10)**  *[[48:07](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2887s)]*
 
@@ -153,33 +342,149 @@ Book read in class: The Story of Civilization, Caesar and Christ, by Will Durant
 >
 > <sup>[12](/bible/acts/25#v12)</sup> Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Cesar? unto Cesar shalt thou go.
 
-- The sixth feather: Nero, born AD 37, died AD 68, reign AD 54 to 68; the great fire of Rome, which he started and blamed on the black Christians (the old CD burning software was named Nero after him, with Rome on fire for its symbol); built theaters and promoted cultural activities. His reign covers the latter part of Acts, Paul's trials in Caesarea and his journey to Rome, roughly Acts 25 through 28. His name is not found in the scriptures, but Nero is the Caesar to whom Paul appeals.
 - Paul said, I stand at Caesar's judgment seat, where I ought to be judged. If I be an offender, or have committed anything worthy of death, I refuse not to die; but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar. Festus answered, Hast thou appealed unto Caesar? Unto Caesar shalt thou go. So Paul found it better to be judged by the Romans than by the wicked Israelites, because those Pharisees wanted Paul put to death.
+
+<div class="reading">
+
+Reading from on-screen notes on Nero · read by Captain Yuri  *[[49:38](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2978s)]*
+
+> Context. Nero was emperor when Paul was in prison in Rome, Acts chapter 28 verse 30, and is believed to have been reigning.
+
+</div>
 
 **[Acts 28:30](/bible/acts/28#v30)**  *[[49:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2970s)]*
 
 > <sup>[30](/bible/acts/28#v30)</sup> And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
 
-- Paul dwelt two whole years in his own hired house in Rome and received all that came in unto him. This takes place under Nero.
-- The seventh feather: Galba, born 3 BC, died AD 69, reign AD 68 to 69, first in the year of the four emperors; imposed heavy taxes on districts opposing his rule. The eighth: Otho, born AD 32, died AD 69, reign January to April AD 69, only about three months, reckless and extravagant. The ninth: Vitellius, born AD 15, died AD 69, reign April to December AD 69, unambitious and self-indulgent, executed by Vespasian's soldiers.
-- The tenth: Vespasian, born AD 9, died AD 79, reign AD 69 to 79, founded the Flavian dynasty. What happened in AD 70? The fall of Jerusalem; he was the Caesar of the time. Flavian was their family name; remember Flavius Josephus, who fought in the war, was captured, and was made their slave and used as a translator between Rome and the Hebrews.
-- The most iconic Roman amphitheater, the Colosseum or Flavian Amphitheater, was built between roughly AD 72 and 80, begun under Vespasian and finished by his son Titus, on the site of Nero's lake, and inaugurated with 100 days of games by Titus in AD 80; it held 50,000 to 80,000 spectators. They used thousands of captured Jews to build it, and those hundred days of games were us inside the Colosseum fighting tigers, lions and bears, like the movie Gladiator. That was us in there.
-- Pictures shown: Captain Nehemiah, Deacon Malachi, myself, Captain A and Captain Galayah at the Colosseum on the trip to Rome. They showed us the rooms downstairs where the gladiators waited and where the animals were kept. We went there and witnessed it.
-- The eleventh feather: Titus, born AD 39, died AD 81, reign AD 79 to 81, first emperor to take power after his biological father; completed the Colosseum.
+- Paul dwelt two whole years in his own hired house in Rome and received all that came in unto him. This takes place under Nero. Nero burning Rome: they would burn CDs; it was called Nero, and that was the symbol they used, Rome on fire.
 
-Book read in class: The New Testament World in Pictures, by William H. Stephens:
+<div class="reading">
 
-- "When Vespasian went to Rome to claim the emperorship, he left Titus in charge of the war in Judea. Titus began his siege of Jerusalem in May AD 70. The city fell four months later. Jerusalem was leveled and the temple destroyed in the process."
-- Page 56: by the time of Claudius, Antioch had an influential Jewish community. Page 29: at Caesarea Maritima, after the war, Jews were set against wild beasts; in one show 2,500 Jews were killed, either by beasts or by being burned alive, and Titus repeated the event in Berytus in Phoenicia. Those Jews were us at that time. Titus was thought to be profligate, cruel, immoral and greedy.
-- Jewish immigration into Asia Minor is recorded first in the time of Antiochus III. Asia Minor is where Paul went: Corinth, Ephesus, Philippi, Thessalonica, Colossae, Smyrna. Picture in the book: prisoners in chains, a bas relief from Smyrna, third century AD; two men with afros and yokes of iron on their necks being dragged by a Roman. Those two were our brothers. That is why we read the letter to Smyrna.
+Reading from on-screen notes on the Caesars from Galba to Titus, and on the Colosseum · read by Captain Yuri  *[[50:24](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3024s)]*
+
+> Galba, born 3 BC.
+
+- Remember again, there were 12 feathers. We're on the seventh now, okay?
+
+> Death 69 AD. Reigned 68 AD to 69 AD. First in the year of the four emperors. Imposed heavy taxes on districts opposing his rule.
+
+> Otho, born 32 AD. Death 69 AD. Reigned January to April 69 AD.
+
+- He only ruled for four months.
+
+> Reckless and extravagant. Ruled for only three months.
+
+> Vitellius, born 15 AD. Death 69 AD. Reigned April to December 69 AD.
+
+- Yeah, about six months.
+
+> Unambitious and self-indulgent. Executed by Vespasian's soldiers.
+
+> Vespasian, born 9 AD. Death 79 AD.
+
+- So, y'all see he reigned from 9 AD to 79. So what happened in 70 AD, brothers? The fall of Jerusalem. They destroyed Jerusalem. He was the Caesar of the time.
+
+> Reigned 69 AD to 79 AD. Founded the Flavian dynasty.
+
+- So, when it says founded the Flavian dynasty, that was their family name. Remember Flavius Josephus? He was their slave. Josephus fought in the war, got captured, caught, and they made him their slave and used him as a translator between Rome and the Hebrews.
+
+> Equestrian with immense military success.
+
+- The most iconic Roman amphitheater. We saw this when we were in Rome.
+
+> The most iconic Roman amphitheater, the Colosseum or Flavian Amphitheater, was built between roughly 72 to 80 AD.
+
+- And they used thousands of Jews that they had captured to build that thing, right?
+
+> Construction began under Emperor Vespasian and was finished by his son, Emperor Titus. It was built on the site of Nero's Lake following his reign.
+>
+> Key details regarding Roman amphitheaters. Original name: it was called the Flavian Amphitheater, named after the dynasty. Earliest structures: the earliest known stone amphitheater in Italy was built in Pompeii around 70 BC. Pre-Colosseum Rome: the first stone amphitheater in Rome was built by Statilius Taurus in 29 BC, but burned down in 64 AD. Colosseum details: inaugurated with 100 days of games by Titus in 80 AD.
+
+- 100 games was us inside the Colosseum fighting tigers and lions and bears. Like when you see in the movie, what was it called? Gladiator. That was us in there, okay?
+
+> The building held 50,000 to 80,000 spectators.
+
+> Titus.
+
+- So, this is the 11th feather. Okay?
+
+> 39 AD born, death 81 AD, reign 79 AD to 81 AD. First emperor to take power after biological father. Completed construction of Colosseum.
+
+</div>
+
+<div class="reading">
+
+Reading from *The New Testament World in Pictures* by William H. Stephens, including pages 56 and 29 · read by Captain Yuri  *[[54:21](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3261s)]*
+
+> When Vespasian went to Rome to claim the emperorship, he left Titus in charge of the war in Judaea. Titus began his siege of Jerusalem in May AD 70. The city fell 4 months later. Jerusalem was leveled and the temple destroyed in the process.
+
+- So, in this book it talks about Titus. That's a bust right there of Titus.
+
+- There's a picture of us in the amphitheater. That's Nehemiah, Deacon Malachi, myself, Captain Ashan, and Captain Galayah at the Colosseum. See how big it is? And they showed us, you can see downstairs where the rooms are, where the gladiators would wait, and you would see where the animals were kept as well. I just want to show y'all that we did go there and witnessed it. That's it from a distance shot. So they use black slaves to build that.
+
+> By the time of Claudius, at least Antioch had an influential Jewish community.
+
+- So, there was a large Jewish community.
+
+> … Maritima, after the war in which Jews were set against wild beasts.
+
+- Jews were set against wild beasts. So, them Jews was us at that time.
+
+> In which combat, 2,500 Jews were killed either by beast or by being burned alive.
+
+- A big show in the amphitheater. Some of us they had on crosses and set us on fire while the rest were fighting animals and or each other.
+
+> Titus then repeated the event in Berytus, Phoenicia.
+
+> Titus was thought to be profligate, cruel, immoral, including homosexual and greedy.
+
+> Jewish immigration into Asia Minor is recorded first in the time of Antiochus III.
+
+- Y'all see them two in chains with afros? Those were the Jews right there. That was us. Them two guys right there with yokes of iron on their neck being dragged by a Roman on the far left. The two with chains on their neck was our people, our brothers.
+
+- Now, Asia Minor is where Paul went to Corinth, he went to Thessalonica, Pamphylia, Philippi, Corinth. What was some of those other places he went to? Somebody help me out. Ephesus, thank you. That's what I forgot. Ephesus, Philippi, Colossae for the Colossians. Yeah, he went to Smyrna as well.
+
+</div>
 
 **[Revelation 2:8](/bible/revelation/2#v8)**  *[[57:45](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3465s)]*
 
 > <sup>[8](/bible/revelation/2#v8)</sup> And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
 
-- The church in Smyrna: these things saith the first and the last, which was dead and is alive. Paul went there, and the relief from Smyrna shows the Jews there in chains.
-- More pictures from the same book: a gladiator fighting a bear (bears, lions, panthers, elephants and rhinoceroses were popular fighting animals in the arena; see 1 Corinthians 15:32, I have fought with beasts at Ephesus), a gladiator fighting a bull, and the man has an afro; page 303, Africans boxing. Those were still the Jews. They put us in sports to fight each other; that is the origin of the boxing some of you love so much, a sport for the white man.
-- The twelfth feather: Domitian, born AD 51, died AD 96, reign AD 81 to 96, rebuilt the economy and restored Rome, known as totalitarian; ruled fifteen years. John the Revelator died around AD 96, right around the time of Domitian.
+- The church in Smyrna: these things saith the first and the last, which was dead and is alive. Now, why am I reading that? So, the church of Smyrna, Paul went there.
+
+<div class="reading">
+
+Reading from *The New Testament World in Pictures* by William H. Stephens  *[[58:37](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3517s)]*
+
+> Prisoners in chains. Bas-relief from Smyrna, 3rd century AD.
+
+- See the two brothers in yokes of iron. So, these were the Jews that were there. That's what I'm showing y'all.
+
+> Gladiator fighting a bear.
+
+> Bears, lions, panthers, elephants, and rhinoceros were popular fighting animals in the arena.
+
+- Y'all see that? 1 Corinthians 15:32.
+
+- The man has an afro right there. Fighting a bear. You can't make this stuff up.
+
+> Gladiator fighting a bull.
+
+- So, that's us on the left with the afro and the shield and the sword fighting a bull.
+
+- Page 303. I just wanted y'all to see this right here. Notice it says they got Africans boxing. Those were still the Jews. Those were the Jews they put in sports to fight each other. This is the origin of boxing that some of you love so much. Sport for the white man.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on Domitian · read by Captain Yuri  *[[60:20](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3620s)]*
+
+> Domitian. Born 51 AD. Death 96 AD. Reign 81 AD to 96 AD. Rebuilt the economy and restored Rome. Known as totalitarian who ruled for 15 years.
+
+- The last feather. John the Revelator died in 96 AD, right around the time Domitian.
+
+</div>
 
 **[2 Esdras 12:19-21](/bible/2-esdras/12#v19)**  *[[60:29](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3629s)]*
 
@@ -189,11 +494,62 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 >
 > <sup>[21](/bible/2-esdras/12#v21)</sup> And two of them shall perish, the middle time approaching: four shall be kept until their end begin to approach: but two shall be kept unto the end.
 
-- The eight small under feathers sticking to her wings are eight kings whose times shall be but small and their years swift. Write these down: the five good emperors, AD 96 to 180, Nerva, Trajan, Hadrian, Antoninus Pius, Marcus Aurelius; then Lucius Verus and Commodus; and the eighth, Septimius Severus.
-- Two of them shall perish, the middle time approaching. The two that perished: Publius Helvius Pertinax (AD 126 to 193), who reigned only 87 days, January 1 through March 28, 193, before being assassinated by the Praetorian Guard; his attempt to reform the military and crack down on corruption sparked a mutiny, leading to the auctioning of the imperial throne and the year of the five emperors. And Marcus Didius Severus Julianus, who reigned only 66 days in AD 193 after purchasing the throne from the Praetorian Guard; he was executed in the palace on June 1 or 2, 193, by an assassin sent by his successor, Septimius Severus, following a decree of the Senate.
-- Read from the screen: Septimius Severus, the African. "His rule was a paradox. The man was egotistical, rude and crude, but also shrewd and fluent. Although not a professional soldier, he militarized the government as none of his predecessors had. He combined enlightened legal reform with autocracy and purges at home, while launching treasury-draining wars abroad. He also represented a new stage in Rome's ethnic history, and perhaps its racial history as well. Severus was Rome's first African emperor, and he founded a dynasty that also gave Rome its first emperors from the Middle East." He was the first black Caesar; that is what made him a contrary feather, because he was not of the race of Edom.
-- Book read in class, History of the Jews: "AD 197, the emperor Septimius Severus, in the commencement of his reign, declared war against the Samaritans and Jews. They had settlements in Galilee, but the prohibition which excluded them from entering the precincts of Jerusalem was still enforced." So Septimius held to the same dictates of Rome; he could not stand the Samaritans and the Jews, his own people, because they were keeping the commandments, and he kept the law that after AD 70 we were forbidden from the homeland. "In order to reward their fidelity to him when Pescennius Niger was competitor for the throne, he allowed them the privileges of Roman citizenship, and rendered them eligible to offices of trust and honor." Pescennius Niger was also black.
-- And what did Septimius Severus do? He married the white woman.
+- The eight small under feathers sticking to her wings are eight kings whose times shall be but small and their years swift. Write these names down: Nerva, Trajan, Hadrian, Antoninus Pius, Marcus Aurelius, Lucius Verus, Commodus, and Septimius Severus was the eighth.
+- Two of them shall perish, the middle time approaching. Write down Pertinax and Didius: those are the two that died.
+
+<div class="reading">
+
+Reading from on-screen notes on the emperors after Domitian  *[[61:04](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3664s)]*
+
+> Five good emperors, 96 to 180 AD. Nerva, Trajan, Hadrian, Antoninus Pius, Marcus Aurelius.
+
+> Lucius Verus, Commodus.
+
+</div>
+
+<div class="reading">
+
+Reading from a book, on Septimius Severus · read by Captain Yuri  *[[63:43](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3823s)]*
+
+> Septimius Severus
+
+> The African.
+
+- They call him the African. Now, this is what had made him contrary. He was the first black Caesar. The first black Caesar.
+
+> Ultimately, Rome had a new ruler, Septimius Severus. His rule was a paradox. The man was egotistical, rude, and crude, but also shrewd and fluent. Although not a professional soldier, he militarized the government as none of his predecessors had. He combined enlightened legal reform with autocracy and purges at home while launching treasury draining wars abroad. He also represented a new stage in Rome's ethnic history.
+
+- Because he wasn't of the race of Edom.
+
+> And perhaps its racial history as well. Severus was Rome's first African emperor, and he founded a dynasty that also gave Rome its first emperors from the Middle East.
+
+</div>
+
+<div class="reading">
+
+Reading from *History of the Jews*, on Septimius Severus  *[[64:59](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3899s)]*
+
+> AD 197. The emperor Septimius Severus, in the commencement of his reign, declared war against the Samaritans and Jews.
+
+- Septimius Severus was holding to the same dictates of Rome. He couldn't stand the Samaritans and the Jews, his own people. Why? Because they were keeping the commandments.
+
+> They had settlements in Galilee, but the prohibition, which excluded them from entering the precincts of Jerusalem, was still in force.
+
+- … was laws that after 70 AD, we were forbidden to go back to the homeland. Septimius Severus kept that law going.
+
+> In order to reward their fidelity to him, when Pescennius Niger was competitor for the throne,
+
+- Pescennius Niger, he was also black. He was a competitor for the throne.
+
+> He allowed them the privileges of Roman citizens
+
+- The Jews and Samaritans to have Roman citizenship.
+
+> and rendered them eligible to offices of trust and honor.
+
+- He married a white woman. That's what he did. He married a white woman.
+
+</div>
 
 **[Tobit 4:12-13](/bible/tobit/4#v12)**  *[[65:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3958s)]*
 
@@ -203,6 +559,16 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 
 - Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father's tribe. The Most High calls marrying a strange woman whoredom. We are the children of the prophets Noah, Abraham, Isaac and Jacob; our fathers from the beginning all married wives of their own kindred and were blessed in their children, and their seed shall inherit the land.
 - Love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them. It is hatred when you do not take a wife of your own people. For in pride is destruction and much trouble: you have pride when you say, I do not want an Israelite woman, I want a strange woman. And in lewdness is decay and great want: when they divorce you, they take everything you have. Ask the athletes and entertainers who married strange wives; they took the money and gave it home to daddy.
+
+<div class="reading">
+
+Reading from an on-screen post  *[[69:02](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4142s)]*
+
+> … Hakimi, $97 million image rights deal, zero assets in his name, wife ends up paying him $10 million.
+
+- I didn't want that. I thought he had the right one, but it's all right.
+
+</div>
 
 **[2 Esdras 12:16-21](/bible/2-esdras/12#v16)**  *[[69:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4170s)]*
 
@@ -221,6 +587,20 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - The voice which thou heardest speak went not out from the heads, but from the midst of the body. Ezra noticed it was not the heads of the eagle speaking; the voice came from the body. That is the deep state, the shadow government as they call it: people in the background running things.
 - After the time of that kingdom there shall arise great strivings, and it shall stand in peril of falling; nevertheless it shall not then fall, but shall be restored again to his beginning. Remember that phrase, restored again to his beginning. That is the Renaissance, and that is Revelation 13:3, which we will read later.
 - Two of them shall perish, the middle time approaching. The middle time is the middle ages. This was the time of Septimius Severus, AD 193, when Didius Julianus was killed. Watch Malachi.
+
+<div class="reading">
+
+Reading from on-screen notes on Pertinax and Didius Julianus  *[[71:26](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4286s)]*
+
+> Publius Helvius Pertinax. Marcus Didius Severus Julianus.
+
+- Those are the two that perished. Write the names down. Not Diddy, but it's Didius.
+
+> Publius Helvius Pertinax, 126 to 193 AD, was a Roman emperor who reigned for only 87 days, January 1st through March 28, 193, before being assassinated by the Praetorian Guard. His attempt to reform the military and crack down on corruption sparked a mutiny, leading to his death and the subsequent auctioning of the Imperial Throne, marking the start of the year of the five emperors.
+
+> Marcus Didius Severus Julianus was a Roman emperor who reigned for only 66 days in 193 AD, the year of the five emperors. After purchasing the throne from the Praetorian Guard, he was executed in the palace on June 1st or 2nd, 193 AD, by an assassin sent by his successor, Septimius Severus, following a decree from the Senate.
+
+</div>
 
 **[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[73:35](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4415s)]*
 
@@ -244,11 +624,21 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 >
 > <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
 
-- A beast rose up out of the sea, having seven heads and ten horns, and upon his horns ten crowns. On the screen: the seven heads, Greece, Rome, Spain, France, Germany, Russia, Great Britain; the ten horns, Belgium, Luxembourg, Netherlands, Germany, United Kingdom, Italy, Greece, France, Denmark, Ireland.
+- A beast rose up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, as you are looking at right there on the screen.
 - Upon his heads the name of blasphemy: Jesus is white, Sunday worship, man with man and woman with woman marriage, the woman over the man, changing the names of the months to Roman gods, the Jews are white, God is white, Jerusalem belongs to the white man. All of those are blasphemies.
 - The beast was like unto a leopard: the leopard in Daniel 7 was Greece. This last kingdom is not the Greeks, but in its last days it has elements of ancient Greece in it. His feet were as the feet of a bear: the bear was Medo-Persia, already conquered, so this last empire has elements of the Medo-Persian Empire in it. His mouth as the mouth of a lion: Babylon, so it has elements of Babylon in it. Those elements are here in America.
 - The dragon gave him his power, and his seat, and great authority: this last kingdom was given power by Satan.
 - I saw one of his heads as it were wounded to death: write this down, the Roman Empire was wounded to death when Septimius took it over. And his deadly wound was healed: remember Malachi, we are impoverished, but we will return and build the desolate places. The wound was the dark ages; Rome came back in 1453 in the Renaissance. And all the world wondered after the beast.
+
+<div class="reading">
+
+Reading from an on-screen list of the seven heads and ten horns · read by Captain Yuri  *[[76:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4590s)]*
+
+> Seven heads: Greece, Rome, Spain, France, Germany, Russia, Great Britain.
+
+> 10 horns: Belgium, Luxembourg, Netherlands, Germany, United Kingdom, Italy, Greece, France, Denmark, Ireland.
+
+</div>
 
 **[Revelation 13:11-12](/bible/revelation/13#v11)**  *[[79:46](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4786s)]*
 
@@ -257,7 +647,27 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 > <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 
 - I beheld another beast coming up out of the earth: this is America. He had two horns like a lamb: write that down, the two horns are the Republicans and the Democrats, a bipartisan system. Like a lamb, because they say this is a Christian country founded on Judeo-Christian ideals. And he spake as a dragon, because they talk of war, death and destruction.
-- He exerciseth all the power of the first beast before him: America exercises all the power of Rome. Last week I showed you the months and how many things America glorifies from Rome. Look at the dollar bill: annuit coeptis and novus ordo seclorum are Latin from Rome; the numerals at the bottom of the pyramid, MDCCLXXVI, 1776, are Roman numerals; e pluribus unum, out of many, one; the olive branch says they came in peace, like a lamb, and the arrows are how they conquered with war. Capitol Hill and the White House are Roman architecture; the Vatican has the same, which is why they call themselves the Roman Catholic Church.
+- He exerciseth all the power of the first beast before him: America exercises all the power of Rome. Last week I showed you the months and how many things America glorifies from Rome.
+
+<div class="reading">
+
+Reading from the words on the dollar bill  *[[81:19](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4879s)]*
+
+> Annuit coeptis.
+
+- That's Latin. That's from Rome. Our enterprise success.
+
+> Novus ordo seclorum.
+
+- What language is that? That's Latin from ancient Rome. The numbers at the bottom of the pyramid represent 1776. Where that lettering come from? Those numerology? From Rome. From Rome. From Rome.
+
+> E pluribus unum.
+
+- What kind of language is that? Latin from Rome. Of many or out of many, one. Out of many nations came one. That's the United States of America. They speak like a lamb, that represents the olive branch, peace. The arrows represent how they conquered God with war. They came and destroyed our people. So, the olive branch represents they came saying they had peace. They came like a lamb, but war was in their hearts.
+
+</div>
+
+- Capitol Hill, the White House: all this is Roman architecture, from ancient Rome. The Vatican has similar things just like that, too. That's why they call themselves the Roman Catholic Church.
 - And causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed. When we went to the Vatican, even the tour guide said the statues of Peter, James, John, Isaiah and Malachi were originally ancient Roman gods; they did not want to tear them down, so they just changed the names. Zeus became Peter. Everything is based on ancient Rome.
 - Clip played: Netanyahu asked what he is reading; a book by the historian Barry Strauss called The Jews Against Rome. "Well, we lost that one. I think they have to win the next war." He is trying to say they lost in AD 70, but that was not them; that was us. They love taking our history. In the same clip: "The United States is the new Rome. We are Rome. What Rome was at the time, we are today; the empire that has the greatest amount of power in the world." Many of them know that America is the new Rome.
 
@@ -279,7 +689,39 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 
 > <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
-- Judas Maccabeus had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them. Remember the Maccabees are around 167 to 168 BC. The Roman Republic began in 509 BC with the overthrow of the Roman monarchy (the revolution led by Lucius Junius Brutus deposing the last king, Tarquinius Superbus) and a government led by elected consuls, and ended in 27 BC when the Senate granted Octavian the title Augustus. So in 1 Maccabees 8 this is the Roman Republic; this is Japheth. Julius Caesar was the dictator at the Republic's end and passed the mantle to Augustus; the Bible tells you Julius was the beginning of the Empire, regardless of what Google says.
+- Judas Maccabeus had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them.
+
+<div class="reading">
+
+Reading from on-screen notes on the Roman Republic · read by Captain Yuri  *[[89:53](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5393s)]*
+
+> The Roman Republic began in 509 BC
+
+- So, remember the Maccabees is around what? 167 BC. 167, 168 BC, right? So, now, Roman Republic was from 509 BC to 27 BC. So, here in 1 Maccabees 8, this is around 167, 168. This is the Roman Republic. This is Japheth.
+
+> with the overthrow of the Roman monarchy and the establishment of a government led by elected consuls. It ended in 27 BC with the establishment of the Roman Empire under Augustus.
+
+- I told you they always say Augustus started it, but it was really Julius Caesar. He was in the Roman Republic at its end and he passed the mantle to Augustus Caesar, which they say was the beginning of the Roman Empire.
+
+> The era spanned over four centuries, transforming Rome from a city-state into a Mediterranean power.
+
+> Key details of the Roman Republic, 509 BC to 27 BC.
+
+- So, remember the Maccabees took place around 167, 168, around then. So, this is the time of the Roman Republic.
+
+> Start, 509 BC. Traditionally marks the revolution led by Lucius Junius Brutus to depose the last Etruscan king, Tarquinius Superbus.
+
+- So, this was the seat of Japheth at that time.
+
+> End, 27 BC.
+
+- Remember, 27 BC, the end of this Julius Caesar was the dictator.
+
+> Marked by the end of the civil wars and the Senate granting Octavian the title Augustus, effectively initiating the Imperial period.
+
+- So, when you read the Bible, it tells you that Julius Caesar was the beginning of the Roman Empire, regardless of what Google says.
+
+</div>
 
 **[1 Maccabees 8:13-16](/bible/1-maccabees/8#v13)**  *[[91:32](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5492s)]*
 
@@ -291,16 +733,139 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 >
 > <sup>[16](/bible/1-maccabees/8#v16)</sup> And that they committed their government to one man every year, who ruled over all their country, and that all were obedient to that one, and that there was neither envy nor emulation among them.
 
-- Whom they would help to a kingdom, those reign; and whom again they would, they displace. This is about coups d'etat. I am going to make you the prime minister, the king, the president. Then: we do not like your policies anymore, we are going to overthrow you and put somebody else in your place. Watch how America took this element from Rome. Shown on screen: United States involvement in regime change; freeze it at home and read it.
-- Picture shown: President Dwight Eisenhower with the Shah of Iran, 1953. Read from the screen: Eisenhower authorized the 1953 CIA-backed coup, Operation Ajax, that overthrew Iranian Prime Minister Mohammad Mosaddegh and solidified the power of Shah Mohammad Reza Pahlavi, seeking to protect Western oil interests and prevent a perceived communist takeover; the covert operation was led by CIA officer Kermit Roosevelt Jr. Back then the cry was communism; now it is weapons of mass destruction. From the Guardian: the CIA admits the 1953 Iranian coup it backed was undemocratic, and the toppling of Mosaddegh and the ensuing rule of the Shah directly led to the 1979 Islamic Revolution.
-- Key facts read: Mosaddegh nationalized the Anglo-Iranian Oil Company, now BP, in 1951, reducing Western control. In August 1953 the CIA and British intelligence orchestrated riots and bribery to topple him and replace him with the Shah. After the coup the Shah signed over 40 percent of Iran's oil fields to US companies, breaking the British monopoly. His authoritarian rule was supported by the US until his overthrow in the 1979 Islamic Revolution, partly fueled by resentment over the coup. He was ruthless and extravagant; the documentary says he flew his lunch in from Paris every day, and the Iranians hated him. They got rid of the man America put in.
-- The film Argo (2012), directed by and starring Ben Affleck, tells the rescue of six US diplomats from Tehran during the 1979 to 1981 hostage crisis; a CIA agent poses as a producer for a fake sci-fi film. Militants took 52 hostages at the US embassy; six evaded capture and hid in the Canadian ambassador's home. But read this: during the 1979 crisis, thirteen hostages, primarily black men and women, were released early by the Iranian revolutionaries on November 17 through 20, 1979, roughly two weeks after the November 4 embassy seizure. Ayatollah Khomeini ordered their release as a gesture of solidarity with oppressed minorities and women, believing they were not spies; the militants declared they were targeting the US government, not black Americans, whom they said were already victims of injustice in America. That is heavy. In the movie they do not show that at all, because they want black people to think we are all in this together.
+- Whom they would help to a kingdom, those reign; and whom again they would, they displace. This is about coups d'etat. I am going to make you the prime minister, the king, the president. Then: we do not like your policies anymore, we are going to overthrow you and put somebody else in your place. Watch how America took this element from Rome.
+
+<div class="reading">
+
+Reading from on-screen notes on US regime change in Iran · read by Captain Yuri  *[[92:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5578s)]*
+
+> United States involvement in regime change.
+
+- Coup d'etats, they call it regime change. Now we're not going to read. Y'all can freeze it at home and read it, but we're not reading all that for time's sake.
+
+- This is 1953, President Dwight Eisenhower, and on the right is the Shah of Iran. This is in the '50s. They put him up as the Shah, as the leader, the supreme leader. He was America's friend.
+
+> President Dwight D. Eisenhower authorized the 1953 CIA-backed coup,
+
+- It was a coup, an overthrow.
+
+> Operation Ajax,
+
+- It was called Operation Ajax.
+
+> that overthrew Iranian Prime Minister Mohammad Mosaddegh and solidified the power of Shah Mohammad Reza Pahlavi, seeking to protect Western oil interests
+
+- So, this is why America put their man in, the Shah Mohammad Reza Pahlavi.
+
+> and prevent a perceived communist takeover.
+
+- Yeah, they said, "Oh, the other guy is a communist." Remember back then that was the big thing. Don't be a commie. So, they used that. Now they say weapons of mass destruction.
+
+> Eisenhower approved the covert operation led by CIA officer Kermit Roosevelt Jr.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Guardian* · read by Captain Yuri  *[[94:33](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5673s)]*
+
+> CIA admits 1953 Iranian coup it backed was undemocratic.
+
+> The toppling of the Prime Minister Mohammad Mosaddegh and ensuing
+
+- That's Mohammad Mosaddegh on the left.
+
+> rule of the Shah directly led to the 1979 Islamic Revolution.
+
+- That's Mosaddegh. He was leader of Iran. They got rid of this guy because he wanted to keep the money for the people in Iran. So, that's the overthrow was against Mohammad Mosaddegh on the left and they put this guy, the Shah Mohammad Reza Pahlavi. They put him in power.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen notes on the 1953 coup  *[[95:37](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5737s)]*
+
+> Key facts and consequences. Cause: Prime Minister Mosaddegh nationalized the Anglo-Iranian Oil Company, now BP,
+
+- Now they call it BP. Y'all see BP all throughout the hood, everywhere?
+
+> in 1951, reducing Western control.
+
+> The coup: in August 1953, the US CIA and British intelligence orchestrated riots and bribery to topple Mosaddegh, replacing him with Shah Mohammad Reza Pahlavi.
+
+> Oil interests: after the coup, the Shah signed over 40% of Iran's oil fields to US companies, breaking the previous British monopoly.
+
+- So, America put their guy in and this guy signed over 40% of Iran's oil to the United States.
+
+> Long-term impact: the Shah's authoritarian rule was supported by the US until his overthrow in the 1979 Islamic Revolution,
+
+- He got overthrown. The people revolted against this dude. This dude was ruthless. They were extravagant. When I say that, when you watch the documentary, he flew lunch from Paris for him and his wife every day. From Paris to Iran, and his wife didn't take regular baths. She took milk baths. That's how extravagant these people were, and the Iranians hated this dude.
+
+> which was partly fueled by resentment over the 1953 coup.
+
+- Cuz nobody liked this new Shah. We liked Mosaddegh, the other guy.
+
+- So, this film was done in 2012 about the 1979 to 1981 hostage crisis in Iran. If you get a chance, look at the movie.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen notes on the film *Argo* and the 1979 hostage crisis  *[[97:54](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5874s)]*
+
+> Argo (2012) is a historical political thriller directed by and starring Ben Affleck, detailing the Canadian Caper rescue of six US diplomats from Tehran, Iran, during the 1979 to 81 hostage crisis.
+
+- So real quick. There was about 50 to 60 hostages. Six of them fled to the Canadian embassy. There were a total of 81 hostages. No, 1979 to 81 hostage crisis.
+
+> A CIA agent, Affleck, poses as a producer for a fake sci-fi film.
+
+- So the film was called Argo. They got a script, cuz they said in order to get into Iran, they can't think you with the government. They got to really believe you are a movie producer. So they had to really get a real producer, a production team, all that, to fool the police in Iran, the military in Iran, to get the hostages out.
+
+> Key details about Argo. The premise: during the Iranian Revolution, militants took 52 hostages
+
+- Okay, it was 52 hostages.
+
+> at the US Embassy. Six Americans evaded capture and hid in the Canadian Ambassador's home.
+
+- So six of them got out from that hostage situation, but they were in hiding in the Canadian Ambassador's home.
+
+> During the 1979 Iran hostage crisis, 13 hostages, primarily black men and women, were released early by Iranian revolutionaries on November 17th through the 20th, 1979.
+
+- Guess what? In the movie, they don't show that. They don't show that in the hostage situation they let all the black men and women go. They did not show that in the film. They concentrated on the six in the Canadian Embassy, and it makes you go, "Hmm, I wonder why you didn't want to show this part?" Cuz they want to make black people think, "We're with you. We're all together." No, no, no, no.
+
+> Ayatollah Khomeini ordered their release as a gesture of solidarity with oppressed minorities and women,
+
+- Y'all see that?
+
+> believing they were not spies compared to the other US staff.
+
+- So, when the Ayatollah Khomeini came in power, he told the men, "Release all the black people and women." So, he let them go believing that they were not spies.
+
+> Key details regarding the black hostages. Release timing: they were released roughly 2 weeks after the November 4th, 1979 embassy seizure.
+>
+> Iranian justification: the militants declared they were targeting the US government, not black Americans, whom they claimed were already victims of injustice in America.
+
+- So, that's some heavy stuff right there. So, they left that out of the film. If y'all see it, you won't see that. No black people at all. So, the black people's response to Iran is amazing. And this is why nobody will ever respect black people. Now, we just read how they let the blacks go.
+
+</div>
 
 **[Jeremiah 4:22](/bible/jeremiah/4#v22)**  *[101:12]*
 
 > <sup>[22](/bible/jeremiah/4#v22)</sup> For my people is foolish, they have not known me; they are sottish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge.
 
-- For my people is foolish, they have not known me; they are sottish children. Sottish means dull, stupid, senseless or foolish. They have none understanding; they are wise to do evil, but to do good they have no knowledge.
+- For my people is foolish, they have not known me; they are sottish children.
+
+<div class="reading">
+
+Reading from a definition of sottish  *[[101:53](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=6113s)]*
+
+> Sottish describes someone or something that is dull, stupid, senseless, or foolish. Often specifically characterized by habitual drunkenness or intemperance.
+
+- So, dull, stupid, senseless, or foolish.
+
+</div>
+
+- They have none understanding; they are wise to do evil: our people are wise to do evil. But to do good they have no knowledge.
 - Clip played: a rapper and dancers mocking Iran, saying we did World War I and World War II and we will do it again, we have never heard of you. Iran let all the black hostages go, and this is the payback. Malcolm said, never let your oppressor tell you who your enemy is. Our people in the military have bought in; they want a check, and they are willing to sacrifice their lives for money against the people who said, you are already oppressed, go home. This is why the Most High calls our people sottish, and why we get no respect from the nations.
 - Clip played: three black women disembarked from a Frontier Airlines flight after refusing to pay for their luggage, arrested in handcuffs and still taunting the officers. This is what the world sees. Where do our women get this behavior from? Not from the scriptures.
 
@@ -314,8 +879,43 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - Now, a sister with some intelligence, which is rare. Clip played: Joy Reid. She said the United States is still the only country that has ever bombed another country with nuclear weapons. Pause: any time Esau uses the talking point of black-on-black crime, remind them of the atom bomb, remind them of Gaza, of Lebanon, of Tulsa, Oklahoma, of Lake Lanier. When they do killing they are the top of the top; you cannot compare them to Pookie and Ray Ray.
 - Then she asked the man, why did the Iran hostage crisis take place? He said religious jihadis hate our way of life. She answered: or they overthrew the Shah of Iran, whom we imposed on Iran because the Dulles brothers, one at the CIA and one at the State Department, decided the oil beneath the soil of Iran belonged to BP and to us. When Mosaddegh, the democratically elected leader, said we would like to audit BP to see if you are cheating us, they said you may not, and then we overthrew him and he died in prison. The hatred of the United States had to do with the hatred of the Shah, who brutally repressed the people of Iran for 26 years until he was overthrown from within. The bottom line is the arrogance of United States foreign policy; we act as if nothing we do has ever led to the hatred of us in other countries. She was on point; give her a hand.
 - Picture shown: the Shah on the left, whom America made the leader of Iran; on the right his son, Reza Pahlavi, the crown prince, whom they want to install now as the new regime change. He is a puppet just like his father. Right now you have a couple hundred people in Iran protesting against the government and the Western news shows you them and says, look at all the protesters, while millions support the government. That is how they destabilize countries: money is no object, and the president kept saying, people of Iran, overthrow your government.
-- Do not forget Haiti. In 2004 Haitian President Aristide was kidnapped, forced to resign, and exiled by the US and France after demanding 21 billion dollars from France in reparations. Kidnapped: does that not sound like what they did in Venezuela with Maduro? And you have black people saying good for them, they are evil. Read a book, travel, talk to the people. He was America's guy until he said France owes us 21 billion dollars in US dollars; they put a bag over his head and got him out of the country.
-- Heads of state captured by the US: 2026, Nicolas Maduro, Venezuela; 2003, Saddam Hussein, Iraq, who used to work for America until he said this is our oil, then it was weapons of mass destruction they never found; 1990, Manuel Noriega, Panama, who worked for America until he wanted to keep the Panama Canal under the clause that it stays in Panamanian control as long as their military can protect it, then he was a terrorist and a drug dealer and they bombed the country and killed thousands. Write this down: The Panama Deception, a documentary on YouTube. And 1901, Emilio Aguinaldo.
+
+<div class="reading">
+
+Reading from on-screen notes on Haiti  *[[114:38](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=6878s)]*
+
+> Haiti: Aristide and US-backed coup.
+
+- This was a coup against President Aristide in Haiti.
+
+> In 2004, Haitian President Aristide was kidnapped, forced to resign
+
+- Wait, wait. Kidnapped. Don't that sound like what they did in Venezuela with Maduro? And you got black people going, "Yeah, good for them. They're evil." Shut up. You don't know what the hell you're talking about. Read a book. Travel. Talk to the people. This is the same thing they did with Maduro.
+
+> and exiled by US and France after demanding $21 billion from France in reparations.
+
+- You see that? So, he was America's guy already. But then you know what he said? Aristide said, "You know what? France owes us $21 billion and we want it in US dollars." Man, France called America. They put a bag over his head and his wife too, if I'm not mistaken. Got them out the country. Exiled them. So, what they did to Maduro, they did to Haiti.
+
+- And so, some of our people, some of you online, some of you in here was, "Yeah, those are evil people." Shut up. Just be quiet. You're black. Be quiet. All you know is twerking. That's all you know. Just be quiet.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen list of heads of state captured by the US · read by Captain Yuri  *[[116:06](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=6966s)]*
+
+> Heads of state captured by the US. 2026, Nicolas Maduro, Venezuela. 2003, Saddam Hussein, Iraq.
+
+- So, to Saddam Hussein. Oh, you were cheering when they put him to death. What did he do? He used to work for America, put him in power. Then he didn't want to work with America no more. He said, "You know what? This is our oil. Why am I giving it to these guys? And in fact, I'm going to take over these other countries cuz they belong to us." America said, "Uh-oh, get rid of him." They said, "Oh, he's a terrorist. Weapons of mass destruction." And then which they never found. America went in there. And some of y'all in here and online, "Yeah, Saddam Hussein, he's evil." What he do to you? What he do to you? He put chains on you?
+
+> 1990, Manuel Noriega.
+
+- Noriega used to work for America. Then when he wanted to keep the Panama Canal, he said, "No, no, we want to give it back to the United States." And he said, "No, no, no, in the clause for the Panama Canal, it says as long as our military is able to maintain protecting the Panama Canal, it will remain to Panamanian control." America said, "Okay, you're a terrorist, you're a drug dealer." They took the American military and bombed the hell, killed thousands. Hey, write this down. Panama Deception, it's on YouTube. Watch the video. It's a documentary about what happened. And half of y'all was saying how evil Manuel Noriega was and it was all a lie.
+
+> 1901, Emilio Aguinaldo.
+
+</div>
+
 - And we cannot forget Muammar Gaddafi. Clip played: at the March 2009 Arab League summit in Doha, Gaddafi told Saudi King Abdullah, "You were made by the British, shielded by the Americans," and, without a microphone, called for justice for Patrice Lumumba and Martin Luther King Jr. He stood up for black people. Documentary played: for 42 years he ruled Libya; he saw himself as the king of kings of Africa; he wanted to unite all of Africa with one currency and one visa, and America said we cannot let this go on. He seized power in 1969 in a bloodless coup against King Idris; he was America's guy too, until he expelled the foreign military bases and nationalized the oil. The narrator claims the oil money flowed to a corrupt elite; that is a lie. When Libyans got married he gave them a house; the oil money went to the people. How many of your presidents gave you money for a house? He limited free speech because America was paying people to destabilize the country. Picture shown: Libya under Gaddafi and Libya today with American democracy; that is what they do everywhere they go, the same thing they are doing in Haiti right now.
 - The documentary went on to Gaddafi's end in 2011: NATO drones and French jets struck his convoy near Sirte, he was found hiding in a drainage pipe, and he was beaten and killed by a mob without trial. Summarized in one line: it was the same pattern as Patrice Lumumba in the Congo, paid rebels put on the back of a truck the man who stood up for his people. All of that happened under the Obama administration with Hillary Clinton at State, and the clip of her laughing was played: "We came, we saw, he died."
 
@@ -337,7 +937,20 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 > <sup>[16](/bible/1-maccabees/8#v16)</sup> And that they committed their government to one man every year, who ruled over all their country, and that all were obedient to that one, and that there was neither envy nor emulation among them.
 
 - Whom they would help to a kingdom, those reign; and whom again they would, they displace; a coup d'etat. Finally, that they were greatly exalted; yet for all this none of them wore a crown or was clothed in purple.
-- They had made for themselves a senate house, wherein 320 men sat in council daily, consulting alway for the people. The Roman Republic had a Senate house; this is where America gets it from. Read from the screen: the United States Senate has 100 members, two from each of the 50 states; as of April 2026 the partisan composition is 53 Republicans, 45 Democrats and two independents who caucus with the Democrats, and the vice president serves as president of the Senate and casts a vote only in a tie.
+- They had made for themselves a senate house, wherein 320 men sat in council daily, consulting alway for the people. The Roman Republic had a Senate house; this is where America gets it from.
+
+<div class="reading">
+
+Reading from on-screen notes on the United States Senate  *[[133:57](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=8037s)]*
+
+> The United States Senate has 100 members, consisting of two senators from each of the 50 states. As of April 2026, the partisan composition of the Senate is as follows: 53 Republicans, 45 Democrats, two independents, both of whom caucus with the Democratic Party.
+>
+> The Vice President of the United States serves as the President of the Senate and can cast a vote only in the event of a tie. For more details on current leadership and member… You can visit… the official US Senate website.
+
+- America's senate has a hundred. Where America gets it from, from Rome.
+
+</div>
+
 - And they committed their government to one man every year, who ruled over all their country, and all were obedient to that one. Remember, they said they did not have a king; and the president is trying to set himself up as king.
 
 **[1 Maccabees 8:24-30](/bible/1-maccabees/8#v24)**  *[134:52]*
@@ -358,15 +971,68 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 
 - These are the articles of war; write that down. This is where America gets it from. If there come first any war upon the Romans or any of their confederates, the people of the Jews shall help them with all their heart, and shall not give anything unto them that make war upon them, or aid them with victuals, weapons, money or ships. You cannot aid our enemies with food, weapons, money or ships. In the same manner, if war come first upon the nation of the Jews, the Romans shall help them with all their heart. Remember the NATO articles: if you hit one NATO nation, all the other NATO nations must help. This is where they get it from.
 - According to these articles did the Romans make a covenant with the people of the Jews. Howbeit, if hereafter the one party or the other shall think meet to add or diminish anything, they may do it at their pleasure. You see the trick bag? So today America bombs Iran, then tells NATO, you are supposed to come help me. They said no, that is not in the articles; the articles are if any of us are attacked. Iran did not attack America; America attacked Iran. Spain said no, Germany said no, France said no, Britain said no, because you are wrong.
-- News read in class, from Forbes: Cuba's medical diplomacy begins to unravel as Jamaica and Guyana end their doctor agreements. Cuba sends the best doctors throughout the Caribbean, and now Jamaica and Guyana are telling those doctors to go. In a stunning reversal by an administration that had championed their presence, Antigua's government is preparing to abruptly send home dozens of Cuban medical personnel, replacing them with a large brigade from Ghana. Another headline: turning its back on Cuba, the government of Guyana sells its soul. I wonder why. Watch Acts 12.
+
+<div class="reading">
+
+Reading from news articles on Cuba's doctors, the first from *Forbes*  *[[137:46](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=8266s)]*
+
+> Cuba's medical diplomacy begins to unravel as Jamaica and Guyana end doctor agreement.
+
+- So, wait, I want to say something. So, Jamaica and Guyana tells Cuba, cuz Cuba was sending their doctors there and they have the best doctors throughout the Caribbean to help. Now, Jamaica and Guyana said we want to end our agreement, all you doctors have to go.
+
+> Cuban doctors out.
+>
+> In a stunning reversal by an administration that had championed their presence in the region, perhaps more than any other, Antigua's government is preparing to abruptly send home dozens of Cuban medical personnel serving in the Federation, replacing them with a rather large brigade from Ghana.
+
+> Turning its back on Cuba, government of Guyana sells its soul.
+
+- So, I wonder why, I wonder why.
+
+</div>
 
 **[Acts 12:20](/bible/acts/12#v20)**  *[139:00]*
 
 > <sup>[20](/bible/acts/12#v20)</sup> And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s country.
 
 - Herod was highly displeased with them of Tyre and Sidon, that is Lebanon, but they came with one accord to him and desired peace. Why? Because their country was nourished by the king's country. It is one verse, but it speaks volumes.
-- Read from the screen: in 2024 the United States exported a record 5.47 billion dollars in food and agricultural products to the Caribbean basin, a region of 37 countries; the US typically supplies roughly 50 to 55 percent of the region's total food imports. That is Acts 12:20. America makes deals with countries: you are not allowed to grow your own food; we will feed you. So when America says get rid of the Cuban doctors, they all say yes, boss.
-- Do not forget Bill Clinton. In 2010, as UN special envoy to Haiti, he publicly apologized to the Senate Foreign Relations Committee for forcing Haiti to reduce tariffs on imported US rice during his administration: "It may have been good for some of my farmers in Arkansas, but it has not worked. It was a mistake." He admitted the policy destroyed local Haitian rice production and hindered Haiti's ability to be self-sufficient, and told Democracy Now, "I have to live every day with the consequences of the loss of capacity to produce a rice crop in Haiti to feed those people, because of what I did." The policy led to increased dependency on foreign food aid. After the apology, nothing changed. If you depend on somebody for food and they get mad at you, they cut the supply and your whole country starves. It is all a trick bag.
+
+<div class="reading">
+
+Reading from on-screen notes on US food exports to the Caribbean  *[[139:48](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=8388s)]*
+
+> In 2024, the United States exported a record $5.47 billion in food and agricultural products to the Caribbean basin, a region comprising 37 countries. This reflects a deep and growing reliance, as the US typically supplies roughly 50% to 55% of the region's total food imports.
+
+- So this is just what we read in Acts 12 and 20. America makes deals with countries. They say you're not allowed to grow your own food. We're going to export our food to you from this country or this country. We'll feed you. So the whole Caribbean is between roughly 50% to 55% of food imports. So when America says I want you to get rid of all the Cuban doctors, guess what they all said? Yes, a boss. Yes, a master. You gives us food, master. Your will is our command. And they kicked all the Cuban doctors out. But don't forget about Bill Clinton.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen notes on Bill Clinton and Haiti's rice  *[[141:04](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=8464s)]*
+
+> In 2010, former US President Bill Clinton publicly apologized
+
+- Don't think that, cuz after his apology nothing changed. Their apology is BS.
+
+> for forcing Haiti to reduce tariffs on imported US rice during his administration,
+
+- On imported United States. Haiti can't grow their own rice. Yes, they can, but America said no. We're going to give you food. Don't worry. So you depend on somebody for food?
+
+> admitting the policy destroyed local Haitian rice production.
+
+- Right, because if you make an agreement not to feed yourself, grow your own food, and you depending on good old USA, when America gets mad at you, they cut all supplies to you. Now your whole country is going to starve.
+
+> Clinton acknowledged this mistake in 2010, stating it benefited Arkansas farmers but hindered Haiti's ability to be self-sufficient.
+>
+> The apology: while serving as UN special envoy to Haiti, Clinton told the Senate Foreign Relations Committee in March 2010, "It may have been good for some of my farmers in Arkansas, but it has not worked. It was a mistake."
+>
+> Devil's bargain: Clinton admitted to the deal in a Democracy Now interview, stating, "I have to live every day with the consequences of the lost capacity to produce a rice crop in Haiti to feed those people because of what I did."
+
+> This policy led to an increased dependency on foreign food aid and damaged Haiti's agricultural economy, says sources like KOA.
+
+- You see that part right there? This policy led to an increased dependency on foreign food aid. That's the same thing with all the Caribbean. So when America calls, you must obey or what? You starve. You starve. It's all a trick bag. It's all a trick.
+
+</div>
 
 **[Ezekiel 28:1-5](/bible/ezekiel/28#v1)**  *[143:11]*
 
@@ -418,9 +1084,70 @@ Book read in class: The New Testament World in Pictures, by William H. Stephens:
 - A man shall desire to go into a city and shall not be able; because of their pride the cities shall be troubled, the houses destroyed, and men afraid. Why? War. A man shall have no pity upon his neighbour, but shall destroy their houses with the sword: you cannot destroy a house with a sword; the sword is missiles. And spoil their goods, because of the lack of bread and for great tribulation.
 - Behold, saith God, I will call together all the kings of the earth to reverence me, which are from the rising of the sun (the far east: China, Japan, Korea), from the south (the Arab countries and Africa), from the east, and Libanus (Lebanon), to turn themselves one against another, and repay the things that they have done to them. The Most High is going to have these nations fight each other and repay what they did to the Israelites.
 - Like as they do yet this day unto my chosen, so will I do also, and recompense in their bosom. Even in Ezra's day they were kicking our behinds, and the Most High told Ezra, do not worry, I have this.
-- Read from the screen: while chattel slavery, the legal owning and selling of people as property, has been officially abolished in every Arab country, human rights organizations and news reports have documented human trafficking, modern slavery and illegal slave markets in several nations. Libya: a CNN investigation and Al Jazeera coverage documented actual slave auctions where African migrants are sold by smugglers and militias. Mauritania: the last country in the world to officially abolish slavery, in 1981, criminalized in 2007; thousands, primarily from the Haratin minority, still live in hereditary de facto slavery under Arab-Berber masters. Saudi Arabia: the 2023 Global Slavery Index ranked it as having the highest prevalence of modern slavery in the Arab world; it abolished chattel slavery in 1962, but the kafala sponsorship system is criticized for creating forced labor and trafficking. United Arab Emirates: the same kafala practices in construction and domestic work. Sudan: the United Nations and NGOs documented abductions and enslavement during civil conflict; northern Sudan is Arab. Kuwait, Jordan, Qatar, Bahrain and Oman are also identified as having significant populations in modern slavery, primarily migrant workers.
-- Why is the Most High doing this to the Arabs? Because they were always enslaving us, to this day. And ask yourself why black Muslims do not talk about this: because they will not speak against their Arab masters. Why do they have to read the Quran in Arabic? Their god will not listen in English.
-- Headline read: EU complicit in sale of migrants as ten pound slaves; capture of sub-Saharan Africans enabled by a deal between Italy and Tunisia. Migrants in Tunisia are being sold as slaves to Libyan gangs for as little as ten pounds per person, with the complicity of the EU, a damning report claims. You thought it was just the blacks of America, Latin America and the West Indies that went into slavery; the blacks in Africa are going into slavery too.
+
+<div class="reading">
+
+Reading from on-screen notes on modern slavery in Arab countries  *[[150:37](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=9037s)]*
+
+> While modern chattel slavery, the legal owning and selling of people as property, has been officially abolished in every Arab country,
+
+- Pay close attention. While the legal owning and selling of people in Arab countries have been abolished,
+
+> international human rights organizations and news reports have documented instances of human trafficking, modern slavery,
+
+- There's still modern slavery going on in the Arab countries.
+
+> and illegal slave markets in several nations.
+
+- And there's illegal slave markets in several nations.
+
+> The following Arab countries are frequently cited in reports regarding contemporary slavery-like practices.
+>
+> Libya: multiple reports, including a high-profile CNN investigation and Al Jazeera coverage, have documented the existence of actual slave auctions where African migrants are sold by smugglers and militias.
+>
+> Mauritania: although it was the last country in the world to officially abolish slavery in 1981 and criminalize it in 2007, Walk Free and other sources report that thousands of people, primarily from the Haratin minority, continue to live in hereditary de facto slavery under Arab Berber masters.
+>
+> Saudi Arabia: the 2023 Global Slavery Index ranks Saudi Arabia as having the highest prevalence of modern slavery in the Arab world.
+
+- You thought the Arab prince was so kind and nice. The Bible said, "No, no, no, no." No, these guys still deal with slaves.
+
+> While it abolished chattel slavery in 1962, the kafala system sponsorship is frequently criticized for creating conditions of forced labor and human trafficking.
+>
+> United Arab Emirates.
+
+- Why is God doing this to the Arabs? Because they were always enslaving us to this day. To this day.
+
+> UAE: like other Gulf states, the UAE has been highlighted for exploitative labor practices under the kafala system that can amount to modern slavery, particularly in construction and domestic work.
+>
+> Sudan: reports from the United Nations
+
+- Remember, northern Sudan is Arabs.
+
+> and various NGOs have documented abductions and enslavement during periods of civil conflict.
+>
+> Other Gulf and Levant countries: nations such as Kuwait, Jordan, Qatar, Bahrain, and Oman are identified by the Global Slavery Index as having significant populations living in modern slavery, primarily due to the vulnerabilities of migrant workers.
+
+- Got to ask yourself, why don't black Muslims talk about this? Because black Muslims kiss the behind of Arabs. They kiss it. That's what they do. So, they won't speak against this because then you're speaking against your Arab masters. You ever ask yourself why they got to read the Quran in Arabic? It ain't God, their God won't listen in English? It got to be the Arab language.
+
+</div>
+
+<div class="reading">
+
+Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=9252s)]*
+
+> EU complicit in sale of migrants as £10 slaves.
+
+- That's a symbol. I forgot what that symbol is.
+
+> Capture of sub-Saharan Africans being enabled by deal between Italy and Tunisia.
+
+- Y'all see that? The EU is complicit in the sale of… They know what's going on, but they ain't stopping it. They are complicit.
+
+> Migrants in Tunisia are being sold as slaves to Libyan gangs for as little as £10 per person with the complicity of the EU, a damning report claims.
+
+- Who read about slavery and all that? That was back then. Oh, no, no, no. It's still going on today. You thought it was just the American blacks and Latinos and West Indians that went into slavery. Oh, no. The blacks in Africa are going into slavery, too.
+
+</div>
 
 **[Joel 3:1-8](/bible/joel/3#v1)**  *[154:50]*
 
