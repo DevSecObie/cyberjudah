@@ -1,0 +1,1191 @@
+---
+title: "France: A History of Persecution and Enslavement Against God's People"
+slug: "2025/2025-05-04-ep-173-france-a-history-of-persecution-and-enslavement-against-gods-people"
+date: "2025-05-04"
+teacher: ""
+episode: 173
+description: "Our Hidden History · 2025-05-04 · the officers of IUIC Philadelphia, with Deacon Eythan away"
+tags: ["Our Hidden History", "persecution"]
+---
+
+<p class="taught">Our Hidden History · 2025-05-04 · the officers of IUIC Philadelphia, with Deacon Eythan away</p>
+
+<span class="opens"><b>Opens</b> [Ps 83](/bible/psalms/83) · [Ps 44](/bible/psalms/44) · [Mal 1](/bible/malachi/1) · [Ps 64](/bible/psalms/64) · [Lam 2](/bible/lamentations/2) · [Exod 15](/bible/exodus/15) · [Rev 19](/bible/revelation/19) · [Deut 28](/bible/deuteronomy/28) · [1 Macc 1](/bible/1-maccabees/1) · [Ps 78](/bible/psalms/78) · [Ps 8](/bible/psalms/8) · [Eccl 9](/bible/ecclesiastes/9) · [Prov 24](/bible/proverbs/24) · [Prov 29](/bible/proverbs/29) · [Eccl 1](/bible/ecclesiastes/1) · [Eccl 6](/bible/ecclesiastes/6) · <i>and 9 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="I5lNlZXOB50"></div>
+
+## Introduction
+
+*[[3:01](https://www.youtube.com/watch?v=I5lNlZXOB50&t=181s)]* Hey, shalom. Shalom Israel. You're now tuned in to Our Hidden History Radio Show. All right. So I'm your host, holding it down for the deacon. Safe travels out there: leadership, bishops, deacons, captains, officers. Safe travels. Godspeed. On the mission.
+
+*[[3:25](https://www.youtube.com/watch?v=I5lNlZXOB50&t=205s)]* So today we're going to take a different turn. As you know, Deacon, he's been going into the history of the Dark Ages, but we're going to take a different turn. We're going to deal with France today. I'mma leave the rest of the history that Deacon's going over for when Deacon get back. I don't want to interrupt that segment of Our Hidden History. So we going to take a different turn. We're going to go into France. The title is France and the history of persecution and enslavement against God's chosen people.
+
+*[[4:09](https://www.youtube.com/watch?v=I5lNlZXOB50&t=249s)]* As you know, the country France has banned IUIC from teaching the Bible. I'm gonna say it again. France has banned IUIC from teaching the Bible. And they even went further than that. Not just teaching the Bible, they even went further, as to we can't even gather together. We can't even say shalom. So what I'm going to go through is the history of us being in France. And I'm going to show you first that history repeats itself. This not the first time this happened. The bishops and deacons, they've been warning us that this was going to come to pass, but history repeats itself. So this is nothing new that they're doing.
+
+*[[4:57](https://www.youtube.com/watch?v=I5lNlZXOB50&t=297s)]* So on the show today, we got Officer Abdon. We got Officer Manny Fresh. And another officer has the scriptures and is dealing with the articles.
+
+- **Officer:** Now everybody knows who to be mad at.
+
+## Readings and Scriptures
+
+<div class="reading">
+
+Reading from an article on the French government's dissolution of IUIC France, read off the screen  *[[5:39](https://www.youtube.com/watch?v=I5lNlZXOB50&t=339s)]*
+
+> Antisemitism, homophobia, warlike rhetoric. What is Israel United in Christ?
+
+- So they say antisemitism. It went back to French. So antisemitism, homophobia, warlike rhetoric. What is Israel United in Christ? So they saying these are the things that we teach. We teach antisemitism. We teach homophobia. And we have a warlike rhetoric that we come with.
+
+> The association dissolved this Thursday.
+
+- So they dissolved us. What was that? Two weeks ago.
+
+> Among the numerous offenses alleged, this association, registered since 2019, advocates, according to the government, hate speech against communities, women, homosexuals,
+
+- So they say we advocate. According to the government, they said we advocate hate speech against communities. No, we don't. They said that against women. All we teaching is the Bible. We bringing out what God said: that the woman should not be in pants. That she's supposed to wear a dress or a skirt. That women should be married. According to God.
+
+- Homosexuals. So the Bible is against homosexuality. Yes. We teaching what the Bible says.
+
+> and promotes corporal punishment to better teach its sermons.
+>
+> Suspected of advocating warlike discourse, of calling for hatred of other religions.
+
+- So hold on. It says suspected of advocating warlike discourse, of calling for hatred of other religions.
+
+> The dissolution was published this Thursday morning in the Official Journal. The French branch of the IUIC, for Israel United in Christ, an association registered since June 2nd, 2019, was dissolved by decree.
+
+- So IUIC was dissolved by decree. It was a mandate. It was a law that they signed, executive order, to dissolve IUIC from even teaching the Bible.
+
+> According to the letter, this branch of the American IUIC, which claims to teach biblical scriptures,
+
+- We don't claim to teach. We teach the Bible. We teach the Bible. So they saying we claim to teach biblical scriptures. Now, when we out in the streets, we have the Bible with us, brothers. We reading from the Bible. We are teaching from the Bible.
+
+> organizes events and ceremonies,
+
+- Yeah, 'cause God's high holy days. We keep God's high holy days. We keep the Passover. Feast of Dedication, Tabernacles, we got Tabernacles. So yes, we gather. These are our ceremonies.
+
+> promotes a message according to which the Black, Hispanic and Native American populations are the true Israelites,
+
+- And we know that according to what? Deuteronomy chapter 28. Who else went on slave ships? What other nation went on slave ships? We'll wait. What other nation went on slave ships? So yes, we promote a message according to which the Black, Hispanic and Native Americans, yes, we are the Israelites according to the Bible.
+
+> ostracizing other populations by treating them as enemies.
+
+- No, the other nations are God's enemies. Give me Psalms 83. This is war.
+
+</div>
+
+**[Psalms 83:1-5](/bible/psalms/83#v1)**  *[[9:47](https://www.youtube.com/watch?v=I5lNlZXOB50&t=587s)]*
+
+> <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
+
+- So this is a psalm of Asaph. So he said, don't keep silence, O God. Don't hold your peace.
+
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
+
+- Thine who? Thine enemies. Not thine friends, thine enemies. They make a tumult. They make a noisy gathering. That's your League of Nations. They make a gathering.
+
+- And they that hate God have lifted up the head, and hate his people. They have lifted up their heads in pride.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+
+- They have taken crafty counsel against thy people. And that's what you see going on here. They have taken crafty counsel against God's chosen people: Blacks, Hispanics and Natives.
+
+- And consulted against thy hidden ones. And this is what's going on. They consulted. They are consulting behind closed doors, secret meetings against us. All these meetings, these world global, you have the, what's the global meeting they have every year? It's a summit.
+
+- **Officer:** The G20.
+
+- The G20 summit. Yeah. All these meetings they having about us.
+
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+
+- And that's what you seeing happening in France right now. They're saying come and let us cut them off from even gathering, from teaching the Bible, from gathering the rest of Israel. Let's cut them off from being a nation. So that's an example of what you seeing happening right now as we speak.
+
+- So we could still be called a negro, a Black, a Hispanic, a Native American, French. So we can still keep these slave names that's on us. Nah, don't let them be called by the name of Judah. Don't let them be called by the name of Israel. Don't let them be called by the name of Benjamin, Levi, Ephraim, Manasseh. No. Get them names out of here. Keep them separate by calling them Puerto Ricans. Keep them separate by calling them Mexicans. Keep them separate by calling them Blacks.
+
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+
+- That's what they're doing. They consulted together against us with one consent. And yes, it's starting in France, but it's coming to America. And that's what, shout out to Deacon Malachi's class last night. All praise to the Most High. But what you see happening is not just going to be in France, okay? This is going to spread all over, where they going to try to dissolve us. And notice the word: I said try to dissolve us, 'cause God's word is going to continue to go out regardless.
+
+- **Officer:** I was going to say, concerning what you just said, officer, about how it's starting in those European nations of France: all those agree together, like we just read in Psalms 83, to destroy us. They might have those public disagreements on policies that they're passing, with Trump and the, what's the thing he putting on all the countries? Tariffs. So you see them arguing, but when it comes to us, they're in total agreement. Can we get Psalms 44 really quick? Psalms 44 and read verse 14. Then we're going to jump.
+
+**[Psalms 44:14](/bible/psalms/44#v14)**  *[[13:39](https://www.youtube.com/watch?v=I5lNlZXOB50&t=819s)]*
+
+> <sup>[14](/bible/psalms/44#v14)</sup> Thou makest us a byword among the heathen, a shaking of the head among the people.
+
+- **Officer:** This is in our time. When David wrote this, they was ruling. So they wasn't really a byword. David started conquering all the nations around them. And then came the kingdom of Solomon. So he's writing this in future prophecy. So now we're a proverb. We're a byword. Jump to verse 17.
+
+**[Psalms 44:17-19](/bible/psalms/44#v17)**  *[[14:03](https://www.youtube.com/watch?v=I5lNlZXOB50&t=843s)]*
+
+> <sup>[17](/bible/psalms/44#v17)</sup> All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.
+
+- **Officer:** So all the curses came upon us. Yet have we not forgotten thee. Neither have we dealt falsely in thy covenant. It's talking about when we came back to the commandments in this time. Neither have we forgotten his covenant.
+
+> <sup>[18](/bible/psalms/44#v18)</sup> Our heart is not turned back, neither have our steps declined from thy way;
+
+- **Officer:** In the face of persecution, whatever laws are set against us, our heart will not decline from the way of God. It's already written. Whatever is written will be done. Now read on, verse 19. This the point.
+
+> <sup>[19](/bible/psalms/44#v19)</sup> Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
+
+- **Officer:** Though thou hast broken us where? In the place of dragons. The dragons there is plural, meaning multiple different places. All the places where Esau is, the Bible prophesied we will be broken there. But especially in America.
+
+- **Officer:** And covered us with the shadow of death. That's captivity right there. So the Bible already told you we're going to be broken in the place of dragons. That's it.
+
+- Hey, get me Malachi 1 and 4. I'm going to show you that all these are the same. You think because that happened in France, they ain't coming to America? You think that happened in France, that's not going to happen in none of the other European countries? That's just in France right now? Nah, they all the same. Remember, they all come together with one consent.
+
+**[Malachi 1:4](/bible/malachi/1#v4)**  *[[15:42](https://www.youtube.com/watch?v=I5lNlZXOB50&t=942s)]*
+
+> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
+
+- So when it says the people, that's the whole race. That's all of them. They all think the same. Not one country of Esau is different from the other country of Esau. They all think the same. They all going to be on one accord. Even though you got Esau from kingdom to kingdom, they hate each other, they fight against each other, but when it come to us, they come together with one consent. You understand?
+
+- Give me Psalm 64. We had somebody come to the camp, and we showing them that Esau is the devil. And that was their question. They said, okay, so if they're the devil in America, what about the whites in Russia and in France and in Europe? Nothing changed. It don't matter. They're the same people. They think the same. I'm going to show you. They think the same.
+
+**[Psalms 64:1-4](/bible/psalms/64#v1)**  *[[17:05](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1025s)]*
+
+> <sup>[1](/bible/psalms/64#v1)</sup> Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
+
+- You see that? Preserve our lives from fear of the enemy. So they're God's enemies, and they are our enemies as well.
+
+> <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
+
+- That's what they have behind these closed doors. They have secret councils.
+
+- From the insurrection of the workers of iniquity. From the insurrection of the workers of sin. Why? Because they all going to rise up against us with an insurrection.
+
+- Hold on. You see Trump making moves right now. Like Deacon was bringing out, he about to put the National Guard in the inner cities where we are at. All these things are going to cause an insurrection. They're making an insurrection against us. This is the beginning stages.
+
+> <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
+
+- So they whet their tongue like a sword. Even bitter words. None of their words that come out of their mouth are anything nice, anything peaceful.
+
+> <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
+
+- We are the perfect. So they shoot at us, and they don't even fear what they doing to us. They don't hold themselves guilty. They shoot us. They can lynch us. They still lynching us. They don't hold themselves guilty for that. So they don't have no fear of killing us. That's natural. That's second nature to them.
+
+- **Officer:** That's why the scripture said they think that the Lord is with them. They think the Lord is such a one as themselves.
+
+- **Officer:** I was going to say, I believe I heard also Donald Trump even wants to revisit the Derek Chauvin case. They want to go back and watch the footage to see if there's a different determination.
+
+- Oh man, you see that? And he going to do it. That's who Trump is. He going to make that happen. He's even making moves against the African American Museum in DC right now. He's saying that the history of us that's being portrayed in the African American museum is like an indoctrination. He's saying that's false history: we need to put the real history inside, meaning their history. Which they ain't got no history, but he wants to put their history in the African American museum and get our history out of there, because he's saying that's teaching a false ideology. That's how you know the Democrats and Republicans, they all together.
+
+- **Officer:** Because their whole push for this destroying of our history is because they say the liberals only put forth the things going on with Black people to get the Black vote. So now they're saying, oh, let's go against the liberals and attack Black history. So this whole thing was planned by them in the background. But they acting like they're on our side: no, Trump, don't do it, don't destroy Black people. But behind closed doors: yo, Trump, when you going to finish this? It's taking too long.
+
+- **Officer:** To the point, if you can get to Lamentations chapter 2, verse 15, because they literally get excited behind closed doors when he destroys us.
+
+**[Lamentations 2:15-16](/bible/lamentations/2#v15)**  *[[20:49](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1249s)]*
+
+> <sup>[15](/bible/lamentations/2#v15)</sup> All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?
+
+- **Officer:** They get excited when they see us in a dead estate.
+
+- **Officer:** Because when we in our righteous estate, we are the perfection of beauty upon this earth. But what they do is they pass laws and decrees to bring us down, so we don't become that perfection of beauty that the Lord wants.
+
+- **Officer:** Because when we in our righteous estate, we are that joy of the earth, 'cause we making sure that the earth is in its rightful place.
+
+> <sup>[16](/bible/lamentations/2#v16)</sup> All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
+
+- **Officer:** Every single enemy that came against us opened their mouth. We just read in Psalms 83, God's enemies, that is our enemies.
+
+- **Officer:** This is the point. We have swallowed her up. This is what France is doing right now to our people over there in Israel United in Christ. They said, we have swallowed her up. Let's pass these laws so they can't keep the laws of God. Let's keep them in that dead estate, because if they in the midst of sin, we can continue to rule. But there's only going to be a short matter of time. That's all I got.
+
+- Go back to Psalm 64. Let's finish that up.
+
+**[Psalms 64:5-7](/bible/psalms/64#v5)**  *[[22:12](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1332s)]*
+
+> <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+
+- They encourage themselves in an evil matter. So the ban against us is them encouraging themselves in an evil manner. False. They manufacture a lie to dissolve us, to ban us.
+
+- And this is what you see. They commune of laying snares privily. We going to get into some of the other things that they have decreed.
+
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
+
+- So Esau search out iniquities. They search out sin on purpose. That's what the Bible's saying. They do this on purpose. They search out sins. They accomplish a diligent search. They accomplish a thorough, complete search. They leave nothing out. Nothing.
+
+- What we going to show you is going to be an example of them doing a diligent search, a complete and thorough search of who we are and what we teach and how we conduct ourselves.
+
+- Read six again. Verse six is what I want. So the thought and heart of the mind of every last one of them, the whole race, is deep. From France to America to Russia to Italy to Germany, Scotland. The thought of every one of them is deep. Meaning what? They're ten steps ahead. This is war. They're ten steps ahead. Why? 'Cause France already know. They like, yo, if we continue to let this go on... They already thinking ahead. If we continue, we finished. They already see what's happening. Remember, the scripture said that the devil knoweth that he hath but a short time. So they like, we got to get rid of this now. We got to dissolve this right now. Like Deacon was bringing out last night, America's strategic with letting us rock and do what we going to do. But France like, nuh-uh, we ain't doing that. We got to get rid of them right now. We see what's going to happen years down the line.
+
+- **Officer:** I was going to say too, all these laws that are passed in these European countries, they're always discussed together before they're enacted in their countries. They move together. So when France decided to come against IUIC, best believe all the European nations did know that they was about to do this. So they have a set plan on how they doing it. But France was just first on the list.
+
+- It's a trial run. It's a trial run.
+
+> <sup>[7](/bible/psalms/64#v7)</sup> But God shall shoot at them with an arrow; suddenly shall they be wounded.
+
+*[[25:14](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1514s)]* All right, let's go back to the article. Let's see, go down to some of the points that they saying that we be bringing out. Christ is a man of war. That's true. Give me Exodus 15:3. Hey, look, you're going to see we just reading out of the Bible. There's nothing we coming out of our own mouth making up. We coming from the Bible.
+
+**[Exodus 15:3](/bible/exodus/15#v3)**  *[[25:42](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1542s)]*
+
+> <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
+
+- That's right. So the Lord is a man of war. Give me Revelation 19 and 13.
+
+**[Revelation 19:13](/bible/revelation/19#v13)**  *[[26:07](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1567s)]*
+
+> <sup>[13](/bible/revelation/19#v13)</sup> And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
+
+- That's it. Go to where he judge and make war. Jump up to verse 11.
+
+**[Revelation 19:11](/bible/revelation/19#v11)**  *[[26:47](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1607s)]*
+
+> <sup>[11](/bible/revelation/19#v11)</sup> And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
+
+- So the Lord is a man of war. He doth judge and make war. So that ain't nothing that's coming out our own mouths. This is what the Bible is saying. This is the Bible. We really reading the Bible.
+
+<div class="reading">
+
+Reading from the same article, on what IUIC teaches  *[[27:17](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1637s)]*
+
+> Our enemies are the Chinese, the Arabs, and the whites who are not Israelites.
+
+- We just read that in Psalms 83. That's what we just read. They're not only our enemies, but they're God's enemies.
+
+- **Officer:** If they mad at that, they got to remove every Catholic church that they got named St. Asaph and St. David.
+
+- You're right. Deuteronomy 28:48.
+
+</div>
+
+**[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[27:58](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1678s)]*
+
+> <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
+
+- You see that? The Lord himself said, look, you're going to serve your enemies. Who are we serving? The Chinese, the Arabs, and the whites. So they are enemies. The Lord is telling you who you going to serve.
+
+- And he sent the enemies against us. Jump to verse 68.
+
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[28:31](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1711s)]*
+
+> <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
+
+- With slave ships.
+
+- Your friends? Your enemies. Those that you should be at peace with? Your enemies. The Lord said we'll be sold to our enemies. Go back to the article. That was the Chinese, the Arabs, and the whites. We reading the Bible. It's Bible.
+
+<div class="reading">
+
+Reading from the same article, on minors  *[[29:20](https://www.youtube.com/watch?v=I5lNlZXOB50&t=1760s)]*
+
+> They are aimed at minors.
+>
+> To top it all off, the decree further notes that IUIC, the association which provides courses, does not hesitate to engage in religious preaching in public, and addresses minors, who do not have the same capacity for distancing and criticism of this ideology as adults,
+
+- So they saying that we forcing young, like teenagers and so forth. That's what it mean by minors. Like we forcing them to come in or something like that. So they're saying the younger generation is those that are not able to make their own decisions. So since they're not able to make their own decisions, they can't understand that what we are teaching is not of the Bible or whatever.
+
+- **Officer:** They could say the same thing. This is exactly what the scripture said. Remember he said, because your fathers are rebellious, your children shall see the kingdom. So in the wilderness, when our fathers, the older men, didn't want to listen, the Lord said, I'm going to raise up your sons to come into the land. The Lord always raised up the generation that wanted to follow God's commandments. You know how hard it is to get young men these days to keep laws and actually be responsible?
+
+- Well, let me say this. The young men are looking for something to join. Would you rather them join a gang? Would you rather them join a gang? Because the young men, they're looking for role models. We teaching them the Bible. We teaching them to keep God's laws, to respect each other, have unity amongst each other. Stop killing one another. Stop whoring out your women. Marry your women.
+
+- Hey, I want you to find the book History of the Jews, volume one. I'mma show you, it's the young men that was always coming in throughout history into this truth. Hey, when you look at the movements of the Black Panthers and all of them, a lot of them was teenagers.
+
+- **Officer:** Fred Hampton himself was 21 years old when he was assassinated.
+
+- He was 21. You telling me the young, they don't know how to make their own decisions? They can't see problems in the community, that something is wrong?
+
+</div>
+
+**Text:** What France is doing to our brothers and sisters is just significant proof of Jacob's trouble. And they have freedom of religion in their constitution, and they do this. Hypocrites.
+
+Correct. Yes. It's proof. It's the beginning of Jacob's trouble. All praise to the Most High. Now I'm going to show you. When they say we address minors: we don't just address minors. We address all ages. All ages. Go to History of the Jews. Go to the table of contents. Somebody talk while we look for this.
+
+- **Officer:** Get First Maccabees chapter one, because when they say addressing the minors, they did the same thing during the time of the Greeks, where they stated that we could not teach our children law, statutes and commandments. If anything, they wanted us to go into the Greek customs. Go to verse 48 and 49.
+
+**[1 Maccabees 1:48-49](/bible/1-maccabees/1#v48)**  *[[33:31](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2011s)]*
+
+> <sup>[48](/bible/1-maccabees/1#v48)</sup> That they should also leave their children uncircumcised, and make their souls abominable with all manner of uncleanness and profanation:
+
+- **Officer:** So it can go two ways. Uncircumcised in the flesh, but also uncircumcised in the mind. Because when you uncircumcised in the mind, you're not keeping the laws of God.
+
+- **Officer:** And that's what we're teaching the people that came before us and the people that came after us, 'cause we consider those young men and young women our brothers and sisters. We didn't get raised in the truth. So therefore we're trying to correct our brothers and sisters, because we know the consequences. If they have that abominable mind, what's going to happen to them? They're going to go six feet under, or they going to get locked up, or some other things that's going to happen to them. Consequences. So we're trying to show them and avoid those consequences.
+
+> <sup>[49](/bible/1-maccabees/1#v49)</sup> To the end they might forget the law, and change all the ordinances.
+
+- **Officer:** To the end. This is the purpose. They don't want us teaching our brothers and sisters. They may forget the laws of God, because once you forget the laws of God, then therefore you have lost your identity. You'll no longer know your identity and your heritage, and now God is not going to listen to you. Why? Because you forgot his laws. He's going to forget you.
+
+- **Officer:** And change all the ordinances. Now they're ruling over us, because we don't have that mindset that the Lord want us to have.
+
+- **Officer:** And the hypocrisy behind it: what they're saying is these people don't know how to teach their children, but we know how to teach their children. Because if they not following the commandments of God that we're teaching, then they're following the things of the world. That's why in the schools, even white people are mad at what the school systems is teaching. They teaching young men and women how to have sex in elementary. They giving out condoms in high school. They giving speeches as far as homosexuality, that love is love.
+
+- **Officer:** Having transgenders teach classes and read stories and so forth. Paying for their surgeries to transition from a man to a woman and a woman to a man. Those things children don't know. But you're pushing those ideologies on them and saying, no, we have the understanding to teach your children, but not you.
+
+- **Officer:** Get Psalm 78 and read verse three.
+
+**[Psalms 78:3-6](/bible/psalms/78#v3)**  *[[36:37](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2197s)]*
+
+> <sup>[3](/bible/psalms/78#v3)</sup> Which we have heard and known, and our fathers have told us.
+
+- **Officer:** What he's talking about is the things in the scripture. The Bible says we've heard them from our fathers.
+
+> <sup>[4](/bible/psalms/78#v4)</sup> We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.
+
+- **Officer:** What did the prophet say? We will not hide them from their children. So your answer to the question, well, we stopped teaching? The Bible already told you what it was. We will not hide it from our children. So it doesn't matter what laws are passed. The Bible says we will not hide it from our children. Why?
+
+> <sup>[5](/bible/psalms/78#v5)</sup> For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
+>
+> <sup>[6](/bible/psalms/78#v6)</sup> That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+
+- **Officer:** And what will the children that are born do? Who should arise and declare them to their children. This is what they're afraid of. When we teach our children, our children will arise, declare the works of God, and show it to their children. And what do you have with that? A functioning nation. A generation of children that know and keep God's laws.
+
+- **Officer:** Once we teach our children and our children teach their children, what happens? Psalms chapter 8 and verse one.
+
+**[Psalms 8:1-2](/bible/psalms/8#v1)**  *[[37:59](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2279s)]*
+
+> <sup>[1](/bible/psalms/8#v1)</sup> O Lord our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+
+> <sup>[2](/bible/psalms/8#v2)</sup> Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
+
+- **Officer:** Out of the mouth of babes. Once we teach our children, God says out of the mouth of babes and sucklings hast thou ordained strength. When we teach God's laws to our children, we give them strength. That's what the nations don't want. Why? Because we've been so long without power. We've been so long without protection as a people. But when young men keep the commandments of God, God says out of the mouth of babes comes strength.
+
+- That's a heavy point too, officer, because it lets you know that they are okay with our children having an empty mind so they can fill it with their agendas. Now that we're teaching our children what God is saying, now it changes things. It shows them more to seek forth to the Lord than to their own understanding. And the nations hate that.
+
+- **Officer:** Get Ecclesiastes 9 and verse 18.
+
+**[Ecclesiastes 9:18](/bible/ecclesiastes/9#v18)**  *[[39:27](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2367s)]*
+
+> <sup>[18](/bible/ecclesiastes/9#v18)</sup> Wisdom is better than weapons of war: but one sinner destroyeth much good.
+
+- **Officer:** This is the problem right here. We've always said we are a nonviolent, Bible-based movement. We don't push for people to grab guns, grab grenades, go out and commit terrorist attacks. We've always said we're not about that. But the other nations, our enemy Esau, he understands that. This is what he understands: wisdom is better than weapons of war. When we got the God of wisdom on our side, we don't need nuclear bombs. We don't need no air force, no navy. This is why France has declared us a national threat.
+
+- **Officer:** But one sinner destroyeth much good. One sinner will destroy much good. Now give me Proverbs 24, verse three.
+
+**[Proverbs 24:3-5](/bible/proverbs/24#v3)**  *[[40:40](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2440s)]*
+
+> <sup>[3](/bible/proverbs/24#v3)</sup> Through wisdom is an house builded; and by understanding it is established:
+
+- **Officer:** When we gain that wisdom, our children begin to declare the statutes of God. A house is beginning to be built. This is why the nations want to stop that house from being built. The house is the house of God. We're the lively stones that's being built up, just like in Nehemiah and Ezra's time. We've come to restore the decayed state of God's people. So by that wisdom, a house is being builded.
+
+- **Officer:** And by understanding, once that understanding is given, how to keep God's commandments, the house is established. Meaning what? The kingdom of God is at hand. What we're doing is building the kingdom of God.
+
+> <sup>[4](/bible/proverbs/24#v4)</sup> And by knowledge shall the chambers be filled with all precious and pleasant riches.
+
+- **Officer:** We don't need to rob the nations. God is telling you how to build a nation right there: by wisdom and understanding. All of our house is going to be filled with all these riches, pleasant things.
+
+> <sup>[5](/bible/proverbs/24#v5)</sup> A wise man is strong; yea, a man of knowledge increaseth strength.
+
+- **Officer:** A wise man is strong. So out of the mouth of babes comes perfect praise and comes strength, because why? They have wisdom. Now that's what's been lacking in our communities. Not guns, not a Glock, not an AK-47.
+
+- **Officer:** Not a switch on the Glock.
+
+- **Officer:** What we've been lacking this whole time is wisdom. And we only get stronger and stronger and stronger with the word of God.
+
+- **Officer:** To add to that point, officer, go to Proverbs chapter 29:18. 'Cause everything that we're bringing out, we must have an image, a vision, something established for the young men. Because without that, we see what's on the TVs, we see what's on social media, we see how the destruction is headed toward our youth.
+
+**[Proverbs 29:18](/bible/proverbs/29#v18)**  *[[42:32](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2552s)]*
+
+> <sup>[18](/bible/proverbs/29#v18)</sup> Where there is no vision, the people perish: but he that keepeth the law, happy is he.
+
+- **Officer:** So without us on the streets, without us teaching Christ is a Black man, Solomon is a Black man, the prophets are Black, without us teaching that, what happens? Where there is no vision, the people perish. They need that guidance. They need to know: listen, you don't have to go to the road of the gangs. You don't have to go to the drug dealers.
+
+- All praise. Sorry about that. We had to find that page real quick.
+
+*[[43:13](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2593s)]* So this is the book History of the Jews. The leadership brought this book out a lot of times. History of the Jews by Heinrich Graetz, 1896. So all good points. All good points. But going back to us addressing minors, like they said, they can't make their own decisions. I'mma show you in history, in the Bible: the young men were always the ones that was rising up, to fight the cause of the oppression of our people, and to keep God's laws, and to instill God's laws. Watch this. Start from "Owing to the regular reading."
+
+<div class="reading">
+
+Reading from *History of the Jews* by Heinrich Graetz, volume one, the page called up as 228, on the schools for young men  *[[43:51](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2631s)]*
+
+> Owing to the regular reading of the Law and to its accessibility, there arose among the Judeans an intellectual activity which gradually gave a peculiar character to the whole nation.
+>
+> The Torah became their spiritual and intellectual property and their own inner sanctuary.
+
+> At this time there sprang up another important institution,
+
+- So that important institution were the schools of the prophets, just like we have now.
+
+> namely, schools for young men,
+
+- Schools for who? Schools for young men. Not the old men. Schools for young men to do what?
+
+> where the text of the Law was taught,
+
+- We doing that today. The leadership is doing that today. So this was always happening. This is throughout history. Remember, I'mma go into how history repeats itself. Same thing is happening today. So they saying that we addressing minors and so forth. Listen, the young men are the ones that's going to come in more than the elder men. A lot of our elder people are stuck in their ways. It's the young men who got that.
+
+- **Officer:** And you know what's going on? They're afraid of the young men that got that fiery spirit. If they keep God's laws, the young men have that fiery spirit, man. They afraid of that young lion rising up again. That young lion rising up again. And that starts with the young men.
+
+- **Officer:** That's why the apostle John, when he wrote First John, he said, I write unto you, young men, because ye are strong.
+
+> and love for its teachings and principles cultivated.
+
+- You see that? So at this time there sprang up another important institution, namely schools for young men, where the text of the Law was taught, meaning the Bible, the laws, and love for its teachings and principles were cultivated.
+
+> The intellectual leaders of the people continually enjoined on the rising generation of the young men to bring up a great many disciples,
+
+- What happened? Bring up a great many disciples.
+
+> and what they enjoined so strenuously on others, they themselves must have zealously labored to perform.
+>
+> One of these religious schools was established in Jerusalem. The teachers were called scribes, or wise men; the disciples, pupils of the wise.
+
+- So he trying to put that Hebrew in there. Whatever. All right, that's all I want. Go back to the article.
+
+- So my point is, with the addressing minors: yes, it is the young men that's going to take heed. The majority of the young men that's going to take heed to the work. Just like back then, like we brought out with the Black Panthers and so forth. They were young, man. They was teenagers to 20s. Looking for a movement. Even Christ said the same thing about the apostles. He said, I thank you, O Lord, because you have hid these things from the wise and prudent and have revealed them unto babes. See that? So the Lord has always used young men.
+
+- Now, remember we said that Esau, they do a diligent search. Watch this. Go to the other article. Bring that up. Go up so we can see the title.
+
+</div>
+
+<div class="reading">
+
+Reading from a second article, on IUIC France's legal status after the dissolution  *[[47:59](https://www.youtube.com/watch?v=I5lNlZXOB50&t=2879s)]*
+
+> Government: its legal status no longer exists, and therefore no IUIC member can legally meet as IUIC France.
+
+- You see that? So we cannot meet together. I want y'all to keep this in mind: the points that France made today. I want y'all to keep that in mind, because we're going to go into it in history. They made the same points back then, letting you know history repeats itself. So remember, they said no IUIC members can legally meet as IUIC France.
+
+> Under Article L212-1 of the Code de la sécurité intérieure, when an association is dissolved:
+>
+> 1. All official activities are banned,
+
+- So the first decree: all official activities are banned.
+
+> including religious services,
+
+- Including religious services.
+
+> public or private gatherings,
+
+> proselytizing,
+
+> and teaching sessions under the name or structure of the dissolved group.
+
+- You see that? So all official activities are banned, including religious services, public or private gatherings, proselytism and teaching sessions under the name or structure of the dissolved group. Remember all of these points, because I'mma bring them. It shows that history is going to repeat itself.
+
+> 2. Any attempt to reconstitute the dissolved group, informally or under a different name, is illegal and can result in criminal prosecution.
+
+- See, it can result in criminal prosecution.
+
+> 3. Even individuals meeting privately can be prosecuted if:
+>
+> The purpose of the meeting is to continue the group's ideology or mission.
+
+- So it says if the purpose of the meeting is to continue the group's ideology or mission.
+
+> The group uses symbols, dress codes, rhetoric, or material related to IUIC.
+
+- So the group uses symbols, dress codes, rhetoric, like keeping the fringes. IUIC symbol, rhetoric or material related to IUIC.
+
+> The gathering is organized by or for the former IUIC France community with a clear link to its structure.
+
+- So these are the decrees that they put forth against us. Now, what time is it? It's almost break. Let's get into it now. Let's start with Ecclesiastes 1 and 9.
+
+</div>
+
+**[Ecclesiastes 1:9-11](/bible/ecclesiastes/1#v9)**  *[[51:18](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3078s)]*
+
+> <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
+
+- So the thing that have been, it is that which shall be. So the thing that was before, it shall be once again.
+
+- And that which was done before is that which shall be done. It's going to be done again. Meaning what? History is going to repeat itself.
+
+- Don't think it's strange, what's happening. There's no new thing under the sun.
+
+> <sup>[10](/bible/ecclesiastes/1#v10)</sup> Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
+
+- See, this ban of IUIC, this thing is new? This has never happened before, this ban of teaching God's laws out of the Bible? This never happened before? Nah. There's no new thing under the sun.
+
+- This happened of old time. Which was before our generation.
+
+> <sup>[11](/bible/ecclesiastes/1#v11)</sup> There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
+
+- Give me Ecclesiastes 6 and 10. What is King Solomon going into? What is that thing?
+
+**[Ecclesiastes 6:10](/bible/ecclesiastes/6#v10)**  *[[52:48](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3168s)]*
+
+> <sup>[10](/bible/ecclesiastes/6#v10)</sup> That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
+
+- So that which have been is named already. And it is known that it is who? That it is man. So the things that man did before, he going to come back and do it again. Even for our people: those that kept God's laws before, you going to come back on the earth and keep God's laws again. If Esau was making laws against us for teaching God's laws before, don't think it ain't going to happen again. And you seeing it before your eyes now.
+
+- From there, give me 2 Esdras 5:42, and then we going to take a quick break. That went by fast.
+
+**[2 Esdras 5:42](/bible/2-esdras/5#v42)**  *[[53:43](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3223s)]*
+
+> <sup>[42](/bible/2-esdras/5#v42)</sup> And he said unto me, I will liken my judgment unto a ring: like as there is no slackness of the last, even so there is no swiftness of the first.
+
+- Wait. So the Lord said he's going to liken his judgment like a ring. A ring does what? It goes around and around.
+
+- So when it's time, it's going to come in his time. So the Most High, he likened his judgment like a ring. Meaning history is going to repeat itself.
+
+- From there, let's get the first article. Give me the early Christians in Rome. So remember what we going to do now. We're going to go back through the history. Now, Deacon has already laid down the foundation of us being in France, being in Spain, being in all these different areas of Europe, and how we got there. From the Babylonian captivity, from the Assyrian captivity, how we migrated through North Africa into Spain and to Europe. And the same holds true of France. Matter of fact, before you go there, get History of the Jews, page 139. We're going to read these two pages and take a break. Start at the Jews of the Roman Empire.
+
+<div class="reading">
+
+Reading from *History of the Jews*, page 139, on the Jews of the Roman Empire  *[[55:28](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3328s)]*
+
+> For the first two centuries of the Common Era, however, the Jewish communities that lived under the rule of Rome held a more central place in Jewish life than the Jewish communities of Babylonia. Jews were to be found in every corner of the empire,
+>
+> in Gaul
+
+- Now stop. In Gaul. Gaul is the ancient name for France. Say it again. Gaul is the ancient name for France.
+
+> in Gaul and Spain,
+
+- In Gaul and in Spain. So the Bible already proved that we was in Spain. Remember Paul said that, I'll visit y'all in Spain. Deacon brought it out last week. Romans 15:28.
+
+</div>
+
+**[Romans 15:28](/bible/romans/15#v28)**  *[[56:51](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3411s)]*
+
+> <sup>[28](/bible/romans/15#v28)</sup> When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
+
+- So we had a congregation in Spain, in Europe, already. So that's what Deacon is going over now. How we got into Europe and so forth. How we got into Spain. How we got into Portugal. How we got into France, which was called Gaul at the time. So Paul was planning to visit the Israelites in Spain. We was in Spain. So don't think we wasn't in France. We was in France as well.
+
+<div class="reading">
+
+Reading from a search result on the name of France, read off the screen  *[[57:39](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3459s)]*
+
+> The region that is now France was originally known as Gaul by the Romans,
+
+- By who? By the Romans. So the Romans called it Gaul.
+
+> and later became known as Francia with the arrival of the Franks.
+
+- So there you go. Go back.
+
+</div>
+
+<div class="reading">
+
+Reading from *History of the Jews*, page 139, continued  *[[58:00](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3480s)]*
+
+> In Gaul and Spain, all along the northern coast of Africa, in Asia Minor, on the southern and northern coast of the Black Sea, on the shores of the Danube, in every part of Greece and the Greek isles, and in Italy, not excepting Rome itself, there were Jewish settlements.
+
+- So we had settlements in France, which was Gaul at the time, Spain, all over the Black Sea, where we was called Scythians around that area. We've been bringing that out. And on the shores of the Danube, and in Greece and in the Greek islands as well. So keep that in mind.
+
+</div>
+
+*[[58:44](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3524s)]* So we're going to take a quick break. You can text or call us at 267-262-6121, or you can call in on Zoom. That link is posted in the description. So we'll take a quick break. We'll be back with more information. Shalom.
+
+<div class="reading">
+
+Reading from the IUIC Booster Club announcement played at the break, from a captain of the Booster Club  *[[59:15](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3555s)]*
+
+> Today, I'm going to show you and tell you how you can join the Booster Club. The first thing you're going to do is you're going to send an email to iuic.fundraising@israelunite.org. In the body of the email, you're going to include your name, where you congregate, and how long you have been with IUIC. Once you sent this email, wait for a response, and then you too will be a member of the IUIC Booster Club. Shalom.
+
+</div>
+
+<div class="reading">
+
+Reading from the mission video from Nairobi, Kenya, played at the break  *[[1:00:11](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3611s)]*
+
+> Christ bless. We here in Nairobi, Kenya, here to do the work. All praise to the Most High. We in Nairobi, Kenya, mission 160. Happy Passover. Happy Passover. But what brings us here is the Holy Spirit. The congregation here in East Africa is growing. So they needed another visit. And they grew a lot. They growing very fast. And also what's heavy about this is we need to bring out the history, that a lot of our people were experiencing the slave trade in East Africa. We here in Kenya. We're going to have a good Passover. We're also going to have a grand opening.
+>
+> Bishop Kani. I got Deacon Malachi, Deacon Abiel, Deacon Isaac, Deacon Asaph. Passover 2025. All praises to the Most High. We've been safe. Bishop's about to bring the word out. It's a blessing to be here. Support the bishop. Exalt the brothers. Exalt the sisters. Good work. Y'all stay tuned. IUIC purple rain global takeover. Shalom Israel. Happy Passover from Nairobi.
+>
+> We just done a wonderful prison visit. A prison ministry. It went well, man. There was a lot of brothers who came to listen to the word of God. Those, hopefully, will repent from the message that we convey to them today. We went over showing them who they were, showed them that Jesus Christ is not a white man, but he is indeed a Black man. Just went over a lot of laws. They had a lot of questions, and of course we have the answers for them. So all praises to the Most High. Even the staff, they loved it.
+>
+> Here we are in Kenya. We doing the maximum amount of work in a minimum amount of time.
+>
+> What is the objective of your mission here?
+>
+> The objective of our mission here is to teach the people of Kenya that you're not Kenyans. The British gave you that name. Just like in America, they gave us the name African American. That's not our name. What was the importance of them changing our identity? So that we would never come to the truth that we're the twelve tribes of Israel.
+>
+> We went to a church yesterday. We were teaching outside. As soon as the church heard Jesus was Black, they were infuriated. We were just reading the scripture. They got so mad. They threw rocks. Why? Because a lot of you in Kenya hate yourself. You hate the way you look. Why? Because it upsets your European colonizers.
+>
+> We shut down camp and many got edified. Primarily what we taught was follow Christ. So the question is, what nation are you, and where do you fit into the Bible? We not free until all of us are free. That's the revolution of the Bible. That's the unity that we're teaching right now.
+>
+> You ever see these wigs these women wear? Stop doing that. You're beautiful the way you are.
+>
+> TV station invited Bishop back. Their YouTube channel has 3.1 million. KTN, that's Kenya Television Network. Day 14. It's going to be an interactive session today. There's going to be a Q&A afterwards.
+>
+> You are part of the twelve tribes of Israel. You are God's chosen people. You have a king, Jesus Christ, and he's Black, just like you, just like me. Come and repent of your sins, and let's do this work that no one man can do alone. We need men, strong, learned men. I'm not saying it's going to be easy. That's what the Bible says will happen. But don't worry, we have a kingdom coming. Thank you so much for attending.
+
+</div>
+
+*[[1:05:12](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3912s)]* Hey, shalom. We back. We back from the break. Remember, you can text or call us at 267-262-6121, or you can call in on Zoom as well, and that link is posted in the description. But until then, let's get back into it.
+
+*[[1:05:47](https://www.youtube.com/watch?v=I5lNlZXOB50&t=3947s)]* Oh yeah, how I forget that. Cannot forget about donating to the Booster Club. Make sure you donate to the Booster Club, as you see the works that IUIC is doing is not in vain. So guess what? You putting your money to a great cause. You see the leadership, they traveling. They all over the world gathering the twelve tribes of Israel. So like the leadership said, like the bishop and the deacons say, we are the guys. We the only ones that's out gathering our people, traveling across the world to gather our people. So donate, donate, donate to the Booster Club.
+
+*[[1:06:44](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4004s)]* Now let's get back into it. So what book was that? That was History of the Jews. So we had Israelite settlements in France, which was called Gaul at the time. Now I want to show you something about the government at that time. You got to understand, the Roman government had influence all over the known world at that time. They the ones that held sway all over the known world. Just like America has their influence in pretty much all the world as well. So the same is true back then and today. Watch this. I'm going to show you about the Roman government at that time, how they felt about us. Remember, at this time we was called Christians. Why? Meaning followers of Christ. Give me Acts 11:26, 'cause you're going to see this word often when we go through the history books.
+
+**[Acts 11:26](/bible/acts/11#v26)**  *[[1:08:05](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4085s)]*
+
+> <sup>[26](/bible/acts/11#v26)</sup> And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
+
+- So that's where the word Christians come from. Just means followers of Christ, our Black Messiah. So throughout the history books, you're going to see the word Christians, 'cause that's who we were called at that time, those of us that was following Christ.
+
+- All right, let's get to the page. That is the book, though: history of the early Christians in Rome. Page 29.
+
+<div class="reading">
+
+Reading from a book on the early Christians in Rome, page 29 and the page after, on the Roman government's policy against the Christians  *[[1:09:37](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4177s)]*
+
+> From the days of that ever memorable summer of the year 64, until Constantine and Licinius signed the edict which in the name of the emperors gave peace and stillness to the harassed Church, A.D. 313,
+
+- Man, I don't sense no life. It says from the days of that ever memorable summer of the year 64. So the year 64 was that great fire, when Nero was reigning, that brought us under the light of the Roman government at that time. It brought us under the scope of the Roman government. He blamed the fire on us. He caused the fire, but he manufactured a lie and said that we did it.
+
+- Constantine and Licinius signed the edict. The edict is a decree. It's a mandate, a law. So the edict, in the name of the emperors, gave peace and stillness to the harassed church.
+
+> roughly speaking, a long period of two centuries and a half, the sword of persecution was never sheathed.
+
+- So the sword of persecution was never sheathed. The sheath is where you put your sword. That's the case you put your sword in. So he's saying that the sword of persecution, it was never put back inside its sheath. Meaning it was still going on. It was still war against us.
+
+> For practically, from the year 64, the date of the famous games in the Vatican gardens, there was a continuous persecution of those that confessed the name of Christ.
+
+- No, I want you to say that word. For practically. He's trying to skip over it.
+
+- You see that? So from the year 64 AD, from that great fire, there was a continual persecution for those of us that confess the name of Christ at this time.
+
+> The ordinary number of the ten persecutions is, after all, an arbitrary computation.
+
+- Yo, you good? How you choking off ginger tea?
+
+- **Officer:** And he's the head of medical. Have mercy.
+
+- So the ten persecutions that we went through, they call it the ten persecutions, but it was more than that. That's what he's saying. It was a lot more persecutions than that. But the ten persecutions are the most notable ones.
+
+> The whole principle and constitution of Christianity, on examination, were condemned by the Roman government
+
+- Condemned by who? By the Roman government. So the constitution of Christianity on examination was condemned by the Roman government.
+
+> as irreconcilable, hostile to the established order,
+
+- Just like today. So at that time we was irreconcilable, hostile to the established order. Meaning what? The order that's been established by Esau and their government. They deem us a threat, just like in France they deem us a threat, because we are hostile to their government, to their established order in France.
+
+> and mere membership of the sect, if persisted in, was regarded as treasonable,
+
+- You see that? Our membership at that time was regarded as treason. So you seen it in France. That's why I said when we read the last portion of how they banning us and what we can't do: it's the same for back then. So we was hostile to their established order back then. We are right now. And just our membership of the sect, it was treasonable.
+
+</div>
+
+<div class="reading">
+
+Reading from a dictionary definition of treason, read off the screen  *[[1:14:15](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4455s)]*
+
+> Treason: the crime of betraying one's country, especially by attempting to kill the sovereign or overthrow the government.
+
+- You see that?
+
+- **Officer:** Didn't Haman say that? Haman mentioned that as well about us, during the time of Esther, during the Persian captivity. Let's get that real quick. Esther in the Apocrypha, 13 and 4.
+
+</div>
+
+**[Esther (Greek) 13:4](/bible/esther-greek/13#v4)**  *[[1:14:55](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4495s)]*
+
+> <sup>[4](/bible/esther-greek/13#v4)</sup> Declared unto us, that in all nations throughout the world there was scattered a certain malicious people, that had laws contrary to all nations, and continually despised the commandments of kings, so as the uniting of our kingdoms, honourably intended by us cannot go forward.
+
+- You see that? So Haman is telling the king that these people, the Jews, have laws contrary to the king. That was their established order. But we had laws contrary to their established order.
+
+- And they said we continually despised the commandments of kings. So you think France ain't had that same thought process? You think America don't have that same thought process? You think Italy and all the rest of Europe don't have the same thought process? Remember, they all think the same. They're the one people, the border of wickedness.
+
+- So as the uniting of our kingdoms, honourably intended by us, cannot go forward. France already sense that: we got to get rid of them, because our kingdom can't unite if we got them around. They going against what we establish here. They are hostile. They a threat. From there, go back to the page.
+
+<div class="reading">
+
+Reading from the book on the early Christians in Rome, continued  *[[1:16:06](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4566s)]*
+
+> and the confessors of Christianity became liable to the punishment of death,
+
+- Wait, hold on, man. I don't know what they put in this tea. Brothers is choking. They going down one by one.
+
+- **Officer:** Spiked my ginger.
+
+- Read that again. You see that? The confessors of Christianity, we became liable unto death.
+
+> and this remained the unvarying, the changeless policy of the government of the state, though not always put in force, until the memorable edict of Constantine, A.D. 313.
+
+> The accusations of being the authors of the great fire had revealed many things in connection with the sect.
+
+- So the accusations that Nero brought upon us, the Roman government at the time, it revealed a lot about us, because why? Now we're under the scope. So just like today: they seeing our numbers and so forth. We're growing. So they like, damn, all of these things is revealing a lot. They looking more into it now. So just that fire that Nero caused and manufactured a lie saying that we did it, it revealed a lot about us following Christ at that time.
+
+> The arrests, the judicial inquiries,
+
+- So the judicial inquiries, meaning investigations. Remember, they do a diligent search, just like France did. France did a judicial inquiry, an investigation on us.
+
+> had thrown a flood of new light upon the tenets of the new religion,
+
+- You see that? So now we under the radar at this time.
+
+> had disclosed its large and evidently rapidly increasing numbers.
+
+- The same is true for today. So now they looking more into it, like, damn, they growing and growing and growing. The numbers is getting bigger and bigger. What's going on? Who are they? France already knew: yo, their numbers, if we don't stop this now and get rid of them and dissolve it, their numbers are going to grow. They already seen it. They already thought ahead.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of a judicial inquiry, read off the screen  *[[1:18:42](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4722s)]*
+
+> A judicial inquiry is a formal legal investigation,
+
+- It's a legal investigation.
+
+> typically conducted by a judge or a designated body, into a matter of public concern.
+
+- Remember, they have their secret meetings. They have their secret councils. Their tumult. They go behind closed doors, and we are the topic of discussion. So their judicial inquiry is a formal legal investigation.
+
+> It's used to examine specific issues, such as alleged judicial misconduct, and may involve examining evidence, taking testimony, and making findings or recommendations.
+
+- Making findings and recommendations. So that's what a judicial inquiry is. That's what France did. Let's go back.
+
+</div>
+
+<div class="reading">
+
+Reading from the book on the early Christians in Rome, continued  *[[1:19:35](https://www.youtube.com/watch?v=I5lNlZXOB50&t=4775s)]*
+
+> Most probably, for many years, were they still confused with the Jews,
+
+- Those of us that didn't keep God's laws. Those of us that was assimilated. So you had those of us that was following Christ, and you had those of us that wasn't followers of Christ, that was assimilated into the Roman government, the Roman society. So that's why it says they confused all of us together.
+
+> but it was seen that the new sect was something more than a mere body of Jewish dissidents.
+
+- So they was like, nah, it's something different about them.
+
+> It was universally acknowledged that the Christians were innocent of any connection with the great fire,
+
+- So we didn't have no connection with the great fire. So everybody acknowledged that. They said, yo, they ain't had nothing to do with it.
+
+> but something else was discovered. They were a very numerous company, intensely in earnest,
+
+- You ain't got to read that Latin. That's just a numerous company, in Latin, ingens multitudo.
+
+> opposed to the state religion,
+
+- So like I said before, they know we didn't have no connection with the great fire, but it brought some other things out about us. So they put aside the great fire, but now they looking into some other things. Why not just say, all right, they ain't got nothing to do with the great fire, let's leave them alone, they good? Nah, they said, nah, they on our radar now. There's something about them. So it said they were a numerous company. So they knew our numbers was growing at that time, and intensely in earnest, opposed to the state religion.
+
+- What's the state religion? Today it's Christianity. That's the state religion. Back then, remember, they worshipping Jupiter, worshipping Zeus at that time. They worshipping Diana. Mercury, Saturn. It was Jupiter and Mercury in Acts. You got the goddess Diana and so forth. So those were the state religion at that time. And not to mention that even the emperors raised themselves up as gods. So if you didn't worship the emperor, like that demon Caligula, Augustus and so forth, they all made themselves gods on earth. That's what they call themselves. So if you didn't worship them, or the image of Caesar, that was going against the state religion, and that was punishable unto death.
+
+> preferring in numberless instances torture,
+
+- So we were tortured.
+
+> confiscation, death, rather than submit to the state regulation in the matter of religion.
+
+- So you see how the spirit of our forefathers and foremothers, they were rolling. We had rather preferred torture, confiscation of our houses and so forth, death, rather than to submit to the state regulations in the matter of religion. No, we prefer to keep God's laws. That's what we prefer.
+
+- Hey, give me Hebrews. Paul said we was cheerful when our goods was confiscated. You know what I'm talking about? Somebody say something while I look for that.
+
+- **Officer:** Hebrews 10 and verse 34.
+
+</div>
+
+**[Hebrews 10:34-35](/bible/hebrews/10#v34)**  *[[1:23:42](https://www.youtube.com/watch?v=I5lNlZXOB50&t=5022s)]*
+
+> <sup>[34](/bible/hebrews/10#v34)</sup> For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
+
+- You see that? Took joyfully the spoiling of our goods at this time. Meaning your goods is what? Your possessions. Whether it's your house, your animals and so forth, whatever it may be, we took joyfully the spoiling of our goods. Meaning at this time, our stuff, our things were being confiscated for following Christ.
+
+- We understood we going to get better than what we had here on the earth.
+
+> <sup>[35](/bible/hebrews/10#v35)</sup> Cast not away therefore your confidence, which hath great recompence of reward.
+
+- So we took joyfully the spoiling of our goods, our things that were confiscated, taken away from us for being followers of Christ at this time. So this is what it's going into. Go back to the page.
+
+<div class="reading">
+
+Reading from the book on the early Christians in Rome, continued  *[[1:24:47](https://www.youtube.com/watch?v=I5lNlZXOB50&t=5087s)]*
+
+> For some time before the fire they had been genuinely disliked,
+
+- So there was already a dislike for us before the fire.
+
+> possibly hated by very many of the Roman citizens,
+
+- Yo, we was already hated by the Roman citizens, by Esau. Even by our own people. Don't think our own people wasn't included in that. They was also called Roman citizens as well. That's why up further in the page, it said they didn't want to confuse us with the whole body of us as Jews. They knew we was something different. But guess what? We was hated on by our own people as well.
+
+- **Officer:** That's exactly what Psalms 2 was saying: the heathen and the people against God's anointed, which would be us. And it said the people of Israel, in Acts.
+
+> by men of different ranks, for various reasons; by traders who lost much by their avoidance of all idolatrous feasts;
+
+- By who? By traders who lost much by their avoidance of all idolatrous feasts. Those traitors was once with us. They was once with the followers of Christ at that time, the Christians. But they left because why? They lost much by their avoidance of all idolatrous feasts. Meaning when their goods were spoiled, they became betrayers. They became informants. They was like, nah, I can't take this. Damn, y'all taking all my stuff. They taking all my things away. So guess what? They became traitors. They became betrayers of those that follow Christ at that time. And that's going to happen again. It's going to happen again.
+
+- **Officer:** It already happened.
+
+> by pagan families who resented the proselytism which was constantly taking place in their homes, thus causing a breach in the family circle;
+
+- Damn. You see that happening today too. So they also say that we causing a breach amongst families and so forth. No, that's what the Bible said is going to happen when you come to serve the Lord. The Lord said, I came not to bring peace, but a sword.
+
+> by priests and those specially connected with the network of rites and ceremonies, sacrifices and offerings, belonging to the temples of the old gods.
+>
+> But after all, this widespread popular dislike to the sect was not the chief cause of the steady persecution which set in after the wild and intemperate scene which followed the great fire.
+
+- So you see that today: we are disliked by everybody. We're disliked by everybody, especially those of our own people. But he's saying, besides all that, that was some normal stuff that was going on. That's not what caused the persecution. As far as in France, that's not what caused France to ban us. It's deeper than that. Watch this. We going to show you.
+
+> For the first time the imperial government saw with whom they had to do.
+
+- You see that? For the first time now, the imperial government saw with whom they had to do. Like, yo, we got to do something with this movement. They could be a potential threat to us.
+
+> It was the settled policy of Rome steadily to repress and to stamp out all organizations,
+
+- So it was a steady policy of Rome to repress and to stamp out all organizations.
+
+> all self-governed communities
+
+- Aren't we self-governing? Yes, we are. All self-governing communities. And that's what France seen: yo, they self-governing. They doing their own thing. They got bishops, deacons, captains.
+
+- **Officer:** They got men of rank. They got a military.
+
+- It's a military of God. That's what we have. They got laws that's against our laws.
+
+> or clubs
+
+> as highly dangerous to the spirit of imperial policy.
+
+- That's what they seen. They seen that all of these things are highly dangerous to what they set up, their established order, their established laws. Like, yo, they got a whole self-governing community. Clubs. That's highly dangerous to the spirit of imperial policy. So for the first time, now we under their radar. They watching us. They making moves. And not to mention J. Edgar Hoover said the same thing. Remember, he said his fear is Negro unity. The biggest threat to America is Negro unity. He didn't say the countries that they going to war with at that time. He said, nah, the biggest threat to America is Negro unity. That's heavy, 'cause what are we doing? Y'all got us oppressed and so forth. Why are we a threat? Because they know. They know who we are.
+
+- Hey, read from the first, for the first time again. Read it from the top.
+
+> For the first time the imperial government saw with whom they had to do. It was the settled policy of Rome steadily to repress and to stamp out all organizations, all self-governed communities or clubs, as highly dangerous to the spirit of imperial policy;
+>
+> and as the result of the trials and inquiries which followed the fire of Rome,
+>
+> it found in the Christian community a living embodiment of this tendency, which hitherto Rome had succeeded in crushing;
+
+- And just like this is what France have did to us in France. So they had succeeded in crushing.
+
+> found that in their midst, in the capital and in the provinces, an extra-imperial unity
+
+- An extra-imperial what? An extra-imperial unity. So that's what France seen. They seen an extra-imperial unity.
+
+> was fast growing up,
+
+- And they seen that it was fast growing, like, oh snap, yo, what is this?
+
+> an empire within the empire.
+
+- Damn. That's what these nations see. That's what they know. We're becoming a fast growing empire within their empire. France was already hip to that. They like, nah, we got to get rid of them right now, before they becoming an empire within our empire. Right now, God said we going to be an empire within the empire. Give me Daniel 2:44.
+
+- 42 is good.
+
+</div>
+
+**[Daniel 2:42-44](/bible/daniel/2#v42)**  *[[1:32:12](https://www.youtube.com/watch?v=I5lNlZXOB50&t=5532s)]*
+
+> <sup>[42](/bible/daniel/2#v42)</sup> And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
+
+- So that's talking about America. Why? Because all people are here in America. America is a melting pot. It is a melting pot. All nations want to come to America. They call it the golden city. Supposedly the land of the free. All dreams come true here in America. That's what these nations see.
+
+- Read it from the top again. As the toes of the feet were part of iron: so that goes into the military, Esau's military. And part of clay. Why? Because all the nations are here. So even though the military is iron, they have all type of arsenal, weapons and so forth, weapons of mass destruction, it's still weak. Why? Because they mix themselves with everybody. So they're weakening. They're still weak at the same time that the military is strong.
+
+> <sup>[43](/bible/daniel/2#v43)</sup> And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
+
+- So he's going to explain. You got Chinese here. You got the Arabs here. Why Trump ain't deporting them? No, seriously, why he ain't deporting them? Aren't they immigrants? Why he not coming after them? So you got the Chinese, you got, like I said, the Arabs, you got who else? Ukrainians, Turkish, East Indians. You got Elam here, Persian. Everybody is here in America. You got the seed of men here.
+
+- But they shall not cleave one to another. They all stick together. You see it on your jobs. When you got the other nations, they sit together on break. They all go sit right with their people.
+
+> <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
+
+- 44 is the point. So in the days of the kings of America, France, Italy, China, Arabia, Iran. In the days of these kings, the God of heaven shall set up a what? Set up a kingdom. An empire. Which shall never be destroyed. This empire ain't going to be destroyed.
+
+- 'Cause it's our kingdom, and we ain't bringing no other nation into it. So no. Becky, Tom, Biff... Jessica. They're not getting in. Emily, Laura, no, they're not getting in. They going to be our slaves.
+
+- France already seen that. They like, oh, we got to get rid of them right now. We are an empire within an empire.
+
+- **Officer:** Hey officer, you mind if I say something? Pull up that post I sent. What the scripture is talking about, there's an actual term for it, coined by Esau, of course. It's called a breakaway government.
+
+<div class="reading">
+
+Reading from a post on breakaway governments, sent in by an officer and read off the screen  *[[1:36:05](https://www.youtube.com/watch?v=I5lNlZXOB50&t=5765s)]*
+
+> A breakaway government refers to a political entity that has declared independence from, or seceded from, a larger state or region, effectively forming a new independent government.
+
+- **Officer:** This is exactly what the scriptures been talking about. So, Esau: throughout history, many governments have done that. There's been people that came together, and it always starts small, like when you read into it. They begin to break away from a larger entity of government.
+
+> This typically occurs when a group within a larger state desires autonomy and separation,
+
+- **Officer:** And what? And separation. That's why the scripture says, come out from among them and be ye what? Separate. We're breaking away from the government. That's what he's talking about.
+
+> often due to political, ethnic, or economic grievances.
+
+- **Officer:** All these things have to do with the laws and ideologies and religions that this government pushes. So those that have that same mind come together, and they begin to break away from that government. That's what we're doing. Get Revelation 18 and 4.
+
+</div>
+
+**[Revelation 18:4](/bible/revelation/18#v4)**  *[[1:37:27](https://www.youtube.com/watch?v=I5lNlZXOB50&t=5847s)]*
+
+> <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
+
+- What'd he say? Come out of her, my people. So the Lord tell us to come from out of America. That's going to cause an empire within the empire. We got to come from out of America. We got to stop following the holidays of America: Christmas, Easter, Thanksgiving, Mother's Day, Father's Day, Cinco de Mayo. We got to stop following these traditions of men, and keep God's laws, and keep our high holy days that the Lord has given us.
+
+- That ye be not partakers of what? Of her sins. America is built on sin. The Lord said you better come from out of her.
+
+- 'Cause there's plagues coming to America. Famine, pestilence. All types of plagues is coming to America. War, terrorism. All these things are coming to America. So the Lord says separate yourself from them right now. Now let's go back.
+
+<div class="reading">
+
+Reading from the book on the early Christians in Rome, continued  *[[1:38:41](https://www.youtube.com/watch?v=I5lNlZXOB50&t=5921s)]*
+
+> In other words, the whole of the principles and the constitution of Christianity were considered as hostile to the established order, and if persisted in, were to be deemed treasonable.
+
+- And if persisted in, were to be deemed treasonable. So that's what France is deeming. France is deeming us treasonable to the established order. That's why now they said if we do any of these... They made a diligent search. They list the things that we usually do. Even shalom-ing each other. If they see us shalom each other, that can be what? Three years in prison, or $45,000 in fines. I can't even say hi to my brother. I can't even speak to my brother if we wear fringes. Why? All of these things is going against their established order, and they deem it treasonable to their established order.
+
+> Thus, after the discoveries made in the course of the judicial proceedings which were instituted after the great fire, the Christians, even after their innocence of the incendiary charge was generally acknowledged, were viewed by the imperial authorities as a politically dangerous society,
+
+- You see that? That's what France deemed us. They deemed us a politically dangerous society.
+
+> being an organized and united body,
+
+- Being a what? Being an organized and united body. They can't stand to see Blacks and Hispanics come together as an organized and united body, keeping God's laws.
+
+> having its ramifications all over the empire.
+
+- 'Cause why? We reaching the masses, all over the empire.
+
+- **Officer:** That's why they going to come after the media. They going to come after the social media next. I think they did. In France, they said they don't want the videos from IUIC coming into the country.
+
+- Yes. So they already made moves on that.
+
+- **Officer:** Officer, on that too: what it just said, an organized and united body. Remember in the scripture it says the body is Christ. So they're against the uniting of Christ. It's all over again: United in Christ.
+
+- We've done this already. Remember, we going through the history. History repeats itself. This happened already. We just living it out again.
+
+> But after the hideous and revolting cruelties to which so many of them had been subjected in the famous Vatican games, the original charge made against them came universally to be considered as an infamous device of the emperor to divert public attention from himself.
+
+- So he did all that to divert public attention from himself. Go to the next page. Let me see if I want anything off of this page.
+
+> It is not, however, of great importance if the profession of Christianity was formally interdicted,
+
+- Man, do not say indicated. That says interdicted. Yo, he got that little demon on his shoulder.
+
+> or if the persecution was a matter of practical administration, the profession of the faith being considered dangerous to law and order and deserving of death, as Ramsey supposes.
+
+- Officer Manny, man, you about to take over. Yo, where all the sound effects at, man? It's mercy over here. Come on.
+
+> The other conclusion is of far greater moment. It is briefly this. The first step taken by the imperial government in persecution dates certainly from the reign of Nero,
+
+- So the first steps taken by the imperial government in persecution date from the reign of Nero. Remember, Nero put to death Peter and Paul at that time.
+
+> immediately after the scenes in the Vatican games, when a Christian was condemned after evidence had been given that he or she had committed some act of hostility to society.
+
+- All right. You can get off of that. So what I was showing you is how the Roman government had perceived us, in France, in Gaul at that time, and all over the Roman provinces. Same for today. They perceive us the same way, even here in America. Now we going to get our perspective of what was happening to us. What the Roman government was doing to us. So now give me the universal history. Some heavy stuff. You want to know the future? Look at history. You got to go back, man. Page 137 first.
+
+- **Officer:** And that's why they work so hard to hide everything.
+
+- So the persecution that happened in France at that time started in 177 AD. That was the biggest persecution in France. It was in Lyons, France, and Vienne, France. So this is a letter from brothers in France of what was going on, from our perspective. Read the top part.
+
+</div>
+
+<div class="reading">
+
+Reading from a universal history, page 137, the letter of the brethren in France (Vienne and Lyons, 177 AD)  *[[1:44:42](https://www.youtube.com/watch?v=I5lNlZXOB50&t=6282s)]*
+
+> A letter of the brethren of France, in the cities of Vienne and Lyons, to the brethren of Asia and Phrygia.
+
+- I'm going to be honest, man. This going to be difficult for you. I'm going to tell you straight up. The road is about to be hard. Your trial about to begin.
+
+- So he wrote a letter. So brothers in France that was going through the persecution at this time, 177 AD, wrote letters to the brothers that was in Asia and Phrygia at that time.
+
+> The servants of Christ inhabiting the cities of Vienne and Lyons, in France, to the brethren throughout Asia and Phrygia, having the same faith and hope of redemption with us: peace, grace, and glory from God the Father, and from Christ Jesus our Lord.
+
+> We are not competent to describe with accuracy, in words or in writing, the greatness of the affliction sustained here by the saints,
+
+- The greatness of the affliction sustained here by the saints.
+
+> the intense animosity of the heathen against them,
+
+- The intense animosity of the heathen that was afflicting us at this time.
+
+> and the complicated sufferings of the blessed martyrs.
+>
+> The grand enemy assaulted us with all his might, and by his first essays exhibited intentions of exercising malice without limit and without control.
+
+- Come on, man. You got to read it right, bro. You killing the spirit right now.
+
+- Malice, which is evil. Evil without limits.
+
+> He left no method untried to habituate his slaves to his bloody work, and to prepare them by previous exercises against the servants of God.
+>
+> Christians were absolutely prohibited from appearing in any houses except their own,
+
+- You see that? Remember when we read about France. So here we are telling our side now, of what was happening to us, what the Roman government was doing to us in France. So we couldn't appear in anybody else's house except our own.
+
+> in baths,
+
+- Because we had public baths around that time.
+
+> in the market,
+
+- In the marketplace. We can't even be seen in the market with fringes on. Saying shalom to each other.
+
+> or in any public place whatever.
+
+- So we had to be in hiding. This is what's going on in France. The same thing. This happened 177 AD. The same thing is happening right now as we speak.
+
+> The grace of God, however, fought for us,
+
+- So hold on. That's what you brothers in France, y'all got to understand. The grace of God is going to fight for us. It's going to fight for you.
+
+> preserving the weak, and exposing the strong,
+
+> who like pillars were able to withstand him in patience, and to draw the whole fury of the wicked against themselves.
+
+- So this is what we hope, you brothers and sisters in France: to stay strong, be patient. Stay strong and be patient, and be able to withstand in patience, to draw the whole fury. So the grace of God fought for us, preserving the weak and exposing the strong, who like pillars were able to withstand him in patience and to draw the whole fury of the wicked against themselves. So the Lord made the wicked go against themselves at this time. So we need you brothers to stay strong. Remember Sirach 2. Start in verse one.
+
+</div>
+
+**[Sirach 2:1-11](/bible/sirach/2#v1)**  *[[1:49:22](https://www.youtube.com/watch?v=I5lNlZXOB50&t=6562s)]*
+
+> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
+
+- So when you come to serve the Lord, temptations is going to come upon us. When you say, look, I want to serve God, we got to prepare ourselves for those temptations, those trials.
+
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
+
+- Don't make haste in the time of trouble. Yes, we understand Jacob's trouble is coming upon us.
+
+> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
+
+> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
+
+- Take this thing cheerfully. This goes out to our brothers and sisters in France. Take this thing cheerfully. It happened back then. It's happening again today. So don't think it's strange, what's going on.
+
+- Be patient.
+
+> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
+
+> <sup>[6](/bible/sirach/2#v6)</sup> Believe in him, and he will help thee; order thy way aright, and trust in him.
+
+- Believe in the Lord, and he's going to help us.
+
+> <sup>[7](/bible/sirach/2#v7)</sup> Ye that fear the Lord, wait for his mercy; and go not aside, lest ye fall.
+
+- So that's what we did at this time. It says, ye that fear the Lord, wait for his mercies. And don't go aside. Don't run, lest you fall.
+
+> <sup>[8](/bible/sirach/2#v8)</sup> Ye that fear the Lord, believe him; and your reward shall not fail.
+>
+> <sup>[9](/bible/sirach/2#v9)</sup> Ye that fear the Lord, hope for good, and for everlasting joy and mercy.
+
+> <sup>[10](/bible/sirach/2#v10)</sup> Look at the generations of old, and see; did ever any trust in the Lord, and was confounded? or did any abide in his fear, and was forsaken? or whom did he ever despise, that called upon him?
+
+- So verse 10 is what I wanted. Read it again. That's why the scriptures is what comforts us. We got to look at the generations of old to see how the Lord brought us out of our trials, brought our forefathers out of their trials and tribulations and so forth, when other nations was coming against us. Like the book of Daniel. Daniel, man. The spirit, the boldness that they was rolling with. We got to get that same spirit on us.
+
+- Did any ever trust in the Lord and was confounded?
+
+> <sup>[11](/bible/sirach/2#v11)</sup> For the Lord is full of compassion and mercy, longsuffering, and very pitiful, and forgiveth sins, and saveth in time of affliction.
+
+- You see that? So he forgiveth sins and he saves in a time of affliction. So as we read, at this time the persecution was happening. The Lord still made a way to save us in the time of that affliction.
+
+- Read that part again. The grace of God.
+
+<div class="reading">
+
+Reading from the letter of the brethren in France, read again  *[[1:52:06](https://www.youtube.com/watch?v=I5lNlZXOB50&t=6726s)]*
+
+> The grace of God, however, fought for us, preserving the weak, and exposing the strong, who like pillars were able to withstand him in patience, and to draw the whole fury of the wicked against themselves.
+
+- To draw the whole fury of the wicked against themselves.
+
+- Now we want to show y'all some judgments that's going on in France right now. Bring up the one that Deacon showed last week: the power outage.
+
+</div>
+
+<div class="reading">
+
+Reading from a news article on the power outage across Spain, Portugal and parts of France, read off the screen  *[[1:52:43](https://www.youtube.com/watch?v=I5lNlZXOB50&t=6763s)]*
+
+> Spain, Portugal and parts of France hit by massive power outage.
+>
+> A nationwide power outage hit Spain and Portugal on Monday, leaving millions without electricity. Reports indicate issues with the European electric grid. This is what we know.
+>
+> Spain and Portugal experienced a widespread power outage on Monday, leaving millions without electricity in a snap blackout. In Portugal, official sources told domestic media that the outage, which hit around late morning local time, was nationwide, while similar reports emerged from Spain.
+
+> Madrid's international airport and Lisbon's were closed after being left without power.
+
+- Damn. So even flights is done. Everything is done across Spain, Portugal and France.
+
+> Telecommunications have also been affected,
+
+- So you can't even communicate with anyone. Telecommunication means communications via phone and so forth.
+
+- **Officer:** Social media and stuff like that. Internet.
+
+> with residents across the two countries saying they have no access to mobile networks.
+>
+> Meanwhile, other airports have come to a standstill throughout the Iberian Peninsula, and flights from Brussels and other European cities to Spain and Portugal have been cancelled, leaving hundreds stranded, Euronews has learned.
+
+- So this is of the Lord. This is of the Lord. Now give me the hailstorm that's going on right now. The Lord ain't finished. The Lord ain't finished. When you touch the Lord's anointed, you going to get it.
+
+</div>
+
+<div class="reading">
+
+Reading from a news article on the hailstorm in Paris, read off the screen  *[[1:54:55](https://www.youtube.com/watch?v=I5lNlZXOB50&t=6895s)]*
+
+> Massive hailstorm shuts down metros in Paris.
+
+- Damn. In Paris. Y'all love Paris, right? So massive hailstorm shuts down metros in Paris. This is war.
+
+> A huge hailstorm has rolled through Paris, France, forcing tourists and locals to run for cover.
+
+- Damn. We seen the plagues of Egypt. So they running for cover. Look at the picture. Blow the picture up. Look at the hail.
+
+> French media reported several metro stations were forced to close amid flash flooding. A low pressure system moving through France and Portugal was behind the extraordinary storm. The UK has also seen its warmest start to May on record, with 29 Celsius recorded in London. April was also the sunniest on record for the nation.
+
+- So the Most High got the weather going crazy over there. Wait, wait. So the UK is warm, but then they got a hailstorm over in France. That's the Most High doing his thing. That's why the scripture in Job, he says, he saith to the rain and to the snow, be thou on the earth. Give me Sirach 39:28.
+
+- Paris pounded by severe hailstorm. Play that. Y'all ain't going out today. My prophets can't go out? Y'all can't go out. I'm shutting it down. Y'all think y'all going to be enjoying Paris and the Eiffel Tower and all of that.
+
+- **Officer:** It's crazy, 'cause tourists spent all that money to go over there to go see all that stuff over in Paris.
+
+- All praises. We going to end it here.
+
+</div>
+
+**[Sirach 39:28-31](/bible/sirach/39#v28)**  *[[1:57:16](https://www.youtube.com/watch?v=I5lNlZXOB50&t=7036s)]*
+
+> <sup>[28](/bible/sirach/39#v28)</sup> There be spirits that are created for vengeance, which in their fury lay on sore strokes; in the time of destruction they pour out their force, and appease the wrath of him that made them.
+
+- So that's what you see right now. The Lord is sending out his spirits to lay on sore strokes on the earth, in France.
+
+- **Officer:** Hey, there's more, officer.
+
+- We ain't finished. We ain't finished. Come on.
+
+> <sup>[29](/bible/sirach/39#v29)</sup> Fire, and hail, and famine, and death, all these were created for vengeance;
+
+- Fire and what? And hail. That's what you see going on in France right now. And famine. And death. All these things was created for vengeance.
+
+> <sup>[30](/bible/sirach/39#v30)</sup> Teeth of wild beasts, and scorpions, serpents, and the sword punishing the wicked to destruction.
+
+> <sup>[31](/bible/sirach/39#v31)</sup> They shall rejoice in his commandment, and they shall be ready upon earth, when need is; and when their time is come, they shall not transgress his word.
+
+- **Officer:** Hey, listen. Even the hail, like the officer bringing out, the hail, the rain, the wind: all these things are spirits of vengeance to the Lord. When he need, they are ready upon earth. When the Lord say, yo, it's time.
+
+- And they love doing it. They do it and rejoice.
+
+- **Officer:** Can we finish on verse 35?
+
+**[Sirach 39:35](/bible/sirach/39#v35)**  *[[1:58:56](https://www.youtube.com/watch?v=I5lNlZXOB50&t=7136s)]*
+
+> <sup>[35](/bible/sirach/39#v35)</sup> And therefore praise ye the Lord with the whole heart and mouth, and bless the name of the Lord.
+
+- Hey, with that, we going to end the show. All praise the Most High. Let's get another hand for that great, great class.
+
+## In Closing
+
+*[[2:02:08](https://www.youtube.com/watch?v=I5lNlZXOB50&t=7328s)]* Hey, don't forget, donate to the Booster Club. Let's donate, donate, donate. As you know, the leadership is traveling. So let's donate to the Booster Club so we can get this work out, so we can spread this gospel to the four corners of the earth.
+
+So with that, stay tuned next week. We ain't finished with France. We're not done. So we going back into France next week, going to part two. Shout out, y'all did do a good job. All praise to the Most High. Shout out to the sister that also made the breakfast. All praise to the Most High. And the tea. The tea was strong, right? The brother choking.
+
+- **Officer:** I got spiked.
+
+Hey, with that, Israel, we going to say shalom. Most High and Christ bless.
+
+## Announcements & References
+
+*[[1:59:23](https://www.youtube.com/watch?v=I5lNlZXOB50&t=7163s)]* You can subscribe to our YouTube channel. We have IUIC Philadelphia. We have IUIC Philadelphia in the classroom. You can also donate to OHH on PayPal at iuic.philadelphia@israelunite.org. You see where all the donations are going: all these books and everything. Make sure you also subscribe to the OHH channel on YouTube. Also donate to the Booster Club on PayPal as well, iuic.fundraising@israelunite.org. You see, big things are coming along, so we need your support. And last but certainly not least, make sure you subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+
+*[[2:00:16](https://www.youtube.com/watch?v=I5lNlZXOB50&t=7216s)]* We also are currently looking for our brother Carl Lewis. He was last seen on the 7900 block of Temple Road in Philadelphia. He is a 65-year-old African American male with gray hair, brown eyes. He's 5'9 and about 150 pounds. The last time he was seen was April 23rd of this year, and he was last seen wearing light blue scrubs. So if anybody has seen him or knows about his whereabouts, contact the proper authorities.
+
+*[[2:00:51](https://www.youtube.com/watch?v=I5lNlZXOB50&t=7251s)]* Also the land fund: as many of you have seen, we have hit our goal, but the work does not stop. You heard the bishop put out the vision for next year's Passover. So we need our own land. Israel, the work does not stop. Let's make it happen. You can make your checks payable to Israel United in Christ, PO Box 2695, Newburgh, New York, 12550. Once again, you can send in your donations via PayPal, at israel@israelunite.org, and the label for the notes would be land. Also, we are seeking your assistance to enhance our national broadcast. So kindly spare a minute to provide feedback by answering five brief questions. You can go ahead and scan the QR code with your phone now. We would like to thank you in advance for your time.
+
+Text or call the show at 267-262-6121, or call in on Zoom; the link is in the description.
+
+Sources read from in this episode:
+
+- A French news article on the government's dissolution of IUIC France by decree, published in the Official Journal: the charges of antisemitism, homophobia and warlike rhetoric, the teaching on the true Israelites and their enemies, and the preaching to minors.
+- A second article on IUIC France's legal status after the dissolution, under Article L212-1 of the Code de la sécurité intérieure: the ban on activities, on reconstituting the group, and on private meetings.
+- *History of the Jews* by Heinrich Graetz (1896), volume one, the page called up as 228, on the schools for young men; and page 139, on the Jews of the Roman Empire, in Gaul and Spain.
+- A search result on Gaul and Francia, the old names of France.
+- A book on the early Christians in Rome, page 29 and the page after: the two centuries and a half of persecution from Nero's fire in 64 to the edict of Constantine and Licinius in 313, and the Christians as an empire within the empire.
+- Definitions read off the screen: treason; a judicial inquiry; a breakaway government (a post sent in by an officer).
+- A universal history, page 137: the letter of the brethren of Vienne and Lyons in France to the brethren of Asia and Phrygia, on the persecution of 177 AD.
+- News articles on the power outage across Spain, Portugal and parts of France, and on the hailstorm that shut down the metros in Paris.
+- At the break: the IUIC Booster Club announcement, and the mission video from Nairobi, Kenya.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=I5lNlZXOB50)
