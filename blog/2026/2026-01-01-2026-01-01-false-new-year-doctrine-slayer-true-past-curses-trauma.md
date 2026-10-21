@@ -978,7 +978,7 @@ Reading from *An Account of Timbuktu and Housa Territories in the Interior of Af
 
 > The …, after leaving the lake, was invariably described as dividing into two large streams. Bowdich's account of a mission to Ashanti.
 
-- As in the lake, the river. Niger River.
+- As in the lake … river. Niger River.
 
 > Yehudi, a place of great trade. This place is reported to be inhabited by one of the lost tribes of Israel, possibly an immigration from the tribe of Judah. Yehuda in African Arabic signifies Judah. Yehudi signifies Jew.
 
