@@ -34,8 +34,59 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - The Most High says destruction unto them that call evil good and good evil, that put darkness for light and light for darkness.
 - Video played: the Vice President, JD Vance, was asked about UFOs on a podcast and said, "I don't think they're aliens, I think they're demons," and that when he hears about extra natural phenomenon he goes to the Christian understanding that one of the devil's great tricks is to convince people he never existed. Notice what he is doing: he is calling the chariots of God, what the world calls aliens, UFOs, UAPs, demons. But the Bible says, woe unto them that call evil good and good evil.
 - Esau is setting the road map to persuade the minds of the people that the coming impending invasion is demonic. Why would they do such a thing? To justify attacking, to sway the minds of the people to view these black angels as enemies. We went over many classes on the chariots: the angels are black, and the chariots of God are the angels. Their job is to shift the mind of the people so they can be deceived into fighting Christ, especially our brothers and sisters in the military.
-- Article read from the Guardian: Republican US House member Marjorie Taylor Greene told Bill Maher on HBO's Real Time that she believes in demons, surmising that they might be aliens who fell from heaven. Asked whether demons and the devil are real, she answered, "Absolutely, I'm a Bible believing Christian, and I believe those could be fallen angels." Esau is mixing Jude the 4th chapter with Isaiah 14; misinterpretation and miseducation, because ultimately they know the truth.
-- Article read: Republican Anna Paulina Luna, acting chairwoman of the House Oversight Committee tasked with declassifying state secrets, claimed an ancient Bible story about a fallen angel depicts aliens invading Earth, telling people to read the Book of Enoch and the Book of the Watchers. She is going into all these other books.
+
+<div class="reading">
+
+Reading from an article from the Guardian  *[[9:17](https://www.youtube.com/watch?v=o6lTUvedO-s&t=557s)]*
+
+> Marjorie Taylor Greene tells Bill Maher she believes extraterrestrials are demons.
+>
+> Republican US House member Marjorie Taylor Greene has said she believes in demons, surmising that they might be aliens who fell from heaven,
+
+- So, Esau, what they're doing, they're mixing Jude the 4th chapter and Isaiah 14. That's where they're coming up with these chariots, the so-called aliens, are fallen angels and that they're demonic. They're mixing Isaiah; their misinterpretation and miseducation and lies, because they know, ultimately they know the truth, right? Especially the upper epsilon … that know the Bible, the ones that are wise; the Most High refers to them as the Chaldeans. Those … they know the truth. They see the Bishop's classes. They know the truth on what the chariots are.
+
+- That's why they trying to get everybody's mind to what? Go against it.
+
+> and claims to have been unaware that key figures in the anti-semitic space lasers conspiracy she floated were Jewish.
+>
+> She made those bizarre remarks as a guest on Friday on HBO's Real Time with Bill Maher after winning some fans among Democrats who once loathe her.
+>
+> Maher on Friday asks another of his on air guests, filmmaker Dan Farah, to discuss his new documentary, The Ages of Disclosure, and how it explores the way some senior US military officials apparently theorize earnestly that demons may be responsible for what some colloquially refer to as unidentified flying objects or UFOs.
+>
+> The Real Time host, who is generally considered to be left-leaning, subsequentially asked those on the show, "Do you think demons and the devil are real?"
+>
+> Greene, who was first elected in Congress in 2020, confidently answered, "Absolutely. I'm a Bible believing Christian and I believe those could be fallen angels."
+
+- No, you're not.
+
+- Miseducated, misinterpretation.
+
+> As Maher replied, fallen angels. The aliens are fallen angels. Greene continued: "That's possible. I think that's what they could be. That's what makes sense in my world view."
+>
+> The Fifth Column podcast host Michael Manhan was also participating in the discussion and Maher called on him to say whether he agreed with Greene. No, Moyen Han said, "I'm sorry."
+
+</div>
+
+<div class="reading">
+
+Reading from an article on Anna Paulina Luna  *[[13:04](https://www.youtube.com/watch?v=o6lTUvedO-s&t=784s)]*
+
+> Republican Anna Paulina Luna claims ancient Bible story about fallen angel depicts aliens invading Earth.
+>
+> The truth is in plain sight.
+>
+> This puts the resurrection in aliens resurrection. Republican Anna Paulina Luna is drawing shocking parallels between extraterrestrial and the Bible in a series of viral X posts with millions of views.
+>
+> "Read the book of Enoch," the poll wrote in one of the posts, which is pinned to the top of her account.
+>
+> Luna, who is the acting chairwoman of the House Oversight Committee tasked with declassifying state secrets, was referring to a Jewish religious text written between 300 and 100 BC that referred to Noah's great-grandfather, Enoch.
+>
+> … dubbed Enoch's Book of Watchers, the divisive scripture describes how a coalition of 200 angels known as the Watchers arrive
+
+- Okay, so she's going into all these other books.
+
+</div>
+
 - Video played from a House Oversight Committee hearing: a witness testified, "UAP are real. Advanced technologies not made by our government or any other government are monitoring sensitive military installations around the globe. Furthermore, the US is in possession of UAP technologies." Esau likes to throw truths out there mixed with a lot of lies. Did y'all pick up the lie? He said they're in possession of UAP technology. You're not in possession of a thing, because these are chariots; these are spiritual; these are of God. There is no Area 51. All of that is lies to make America seem powerful. Now this is becoming talking points in various black churches because of popular persuasions.
 - So America shapes public perception, and they can persuade people to reject God's truth. What is God's truth? That we're the Israelites, the angels are black, and Christ is coming back with the heavenly armies, what the world calls UFOs and UAPs, coming back with destruction and with salvation for the Israelites.
 
@@ -235,8 +286,43 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 - Video played: Norman Bergrun, an astrophysicist and author of Ringmakers of Saturn, who studied the chariots, what the world calls UFOs, making rings around Saturn from their propulsion systems. Asked whether the vehicles contain beings, he answered that among the mission images there is one that shows black people getting off, and that they were very tall; 8 to 9 feet.
 - The interviewer tried to restate it as "people with dark skin." No: he said black. You have to stress black, because Esau will say dark skin, then turn around, make a movie, say Middle Eastern, and throw some dirt on a white actor's face. That's what they do.
 - These living creatures are the angels: their appearance was like burning coals of fire. Coal is black. The angels are black.
-- Article read as the second witness: NASA employee Clark McClelland released a story on his website, Stargate Chronicles, claiming that while monitoring a DoD space shuttle mission from the Kennedy Space Center he observed an 8 to 9 foot tall humanoid being interacting with two tethered US astronauts in the shuttle payload bay for exactly 1 minute and 7 seconds, and that he knew every craft flown by man and this was not one. Afterward his pension was stopped, his reputation was destroyed, and he died in poverty asking for help. He backed the same thing Norman Bergrun said: out of the mouth of two or three witnesses is everything established.
-- Later in class, an AI summary of Bergrun's claims was read back on screen: it said he identified large objects in Voyager mission photographs which he called black, dark body vehicles because they did not reflect light the way natural space debris or ice does, and listed as a "controversial claim" that the occupants were tall shadow or dark skinned beings. Look at the lies: the man said the occupants were black people; now the machine says it was the objects that were black, and the people become alleged shadows. They control AI too, and they are trying to rock everybody back to sleep.
+
+<div class="reading">
+
+Reading from an article on Clark McClelland  *[[1:12:05](https://www.youtube.com/watch?v=o6lTUvedO-s&t=4325s)]*
+
+> NASA employees saw 9 foot tall alien with astronauts in space shuttle. Evidence of military alien alliance with alien race.
+
+- That second part is a lie. There's no military alliance with an alien race. They put the truth out there and they sprinkle it with a whole bunch of dung. A whole bunch of lies.
+
+> On July 29th, 2008, McClelland released a story on his website Stargate Chronicles
+
+- And I was trying to get an interview with this guy but he ended up passing away.
+
+> in which he claimed that he once observed an 8 to 9 foot tall extraterrestrial interacting with NASA astronauts during a space shuttle mission he was monitoring from the Kennedy Space Center.
+
+- So he's saying the same thing that Norman Bergrun said. Out of the mouth of two or three, let everything be established.
+
+> According to McClelland, while monitoring the mission, a top secret DoD mission,
+
+- Now known as the DO, Department of War.
+
+> from the Kennedy Space Center's launch central control center on a 27-inch video monitor, he saw something he was not meant to see: an 8 to 9 foot tall alien with a humanoid form, two arms, two hands, two legs, two feet, a slender torso, proportionate head, standing upright on two legs in a space shuttle payload bay interacting with two tethered US astronauts.
+
+- So the two astronauts, you ever see the videos of them in space and they're tethered, meaning something is holding them together? Remember when they floating in space and they might be fixing a satellite, but there's an instrument or device that's attaching both of them together so they won't float away from each other. That's what he's talking about.
+
+> He also observed the spacecraft of the aliens in a stabilized safe orbit near the space shuttle main engine pods. McClelland claimed he observed the unusual interaction for exactly 1 minute and 7 seconds.
+>
+> Denying that he might have been mistaken in his observations, McClelland claimed that he has expertise in visual recognition of crafts created and flown by the human race, whether secret or otherwise. He declared, "I know an ET, an alien craft, when I see them."
+
+- Go all the way down. I'm going show you what happened to him.
+
+> And quote, "I lost money. The money I had, lost my family. My son died at age 19. My wife divorced me. I lost our home. I was not able to find a job paying over $4.25 an hour. My beloved parents were devastated. I am asking those that are rich, famous, like rock stars, movie stars, Bill Gates, and all who have enough money for 10 lifetimes. Please help me. I am doing this for you, the human race."
+
+- So he's talking about white people when it says the human race. So they stopped his pension and eventually he passed away. NASA totally destroyed his reputation and they said he was a looney tune, but he backed the same thing that Norman said. Okay, that's why I wanted to get y'all that.
+
+</div>
+
 - Imagery from the early church fathers was shown: paintings from the 1100s to 1300s in churches and catacombs with the chariots present at the crucifixion. These so-called UAPs are nothing new; our early church fathers painted them.
 
   Precepts:
@@ -253,6 +339,32 @@ Remember, Satan's first weapon was persuasion. Today's class: popular persuasion
 
 - Behold, the days come when the Most High will begin to deliver them that are upon the earth: that's the twelve tribes of Israel that repent, that endure to the end through all of this media propaganda and persuasion, that don't deny our Lord and Saviour when the heat gets turned up on us.
 - And he shall come to the astonishment of them that dwell on the earth: to the carnal man all of this sounds crazy, but he is going to come back to the astonishment of those that don't believe. All of this is being revealed in the last days for a reason. Esau had our book before we were able to look at it, comprehend it, and understand it; we thought it was sci-fi entertainment, but it's actually the things that shall come to pass. Now we have the scriptures to back up the history, the photos, and the articles.
+
+<div class="reading">
+
+Reading from an AI summary of Norman Bergrun's claims  *[[1:20:43](https://www.youtube.com/watch?v=o6lTUvedO-s&t=4843s)]*
+
+> The core elements of his claims include the black UFOs and his analysis of Voyager mission photographs.
+
+- This is talking about Norman Bergrun. What he said during an interview, I had asked AI.
+
+> In his analysis of Voyager mission photographs, Bergrun identified large objects he claimed were alien craft. Because these objects did not reflect light in the way that natural space debris or ice does, he referred to them as black or dark body vehicles.
+
+- So now you're saying these objects, these chariots, because they don't reflect light in the way natural space debris or ice does. Black what? Black dark body vehicles. What did the lady ask? She said, "Are there people? Do you think there's people operating these vehicles that might look like us?" He said, yes, they, meaning the people operating these objects, these vehicles, are what? Black. Now the devil, the white man, this Edomite man, this devil, this dragon, out of his mouth comes lies. Now they're trying to rock everybody back to sleep. Don't listen. It's not what you really heard. No, no, you didn't really hear that.
+
+- The damn devil is a liar. This man is a demon. Cold demon.
+
+> Controversial claims. Beyond the spacecraft, Bergrun made other claims about these entities in later discussions, alleging that the occupants of these ships were tall shadow
+
+- Now tall shadow; now they're a shadow. It's unbelievable. This man's unbelievable.
+
+> or dark skinned beings.
+
+- No, it's not alleged. He said it. It was in an interview. He seen it. But Esau is trying to say, "Nah, it was the objects." The damn devil that the Bible speaks of.
+
+- So now what are they saying? They're saying that these are what? Fallen angels. Fallen angels or demons. Is that so? Let's go to Genesis the 4th chapter, to give you an understanding, cuz remember they're mixing Jude with Isaiah 14.
+
+</div>
 
 **[Genesis 4:25-26](/bible/genesis/4#v25)**  *[[1:23:50](https://www.youtube.com/watch?v=o6lTUvedO-s&t=5030s)]*
 

@@ -26,8 +26,7 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - Video commentary played: the world does not respect black people because we have not done crimes against humanity. We only commit crime against each other; we gangbang against somebody who looks just like us on the other side of the same neighborhood. Other nations steal whole countries, steal people, steal children and sell them off, and get reverence for it. America dropped two bombs on Japan, one in Hiroshima, one in Nagasaki, and today the Japanese still love white people while hating black people, and we never dropped a bomb on anybody. But we are the most hated.
 - Video commentary played: white society's obsession with black people is centuries old. White wealth in America was built off the backs of black bodies: sugar, cotton, tobacco, rice. While trying to dehumanize us, white culture has always been obsessed with us: jazz, rock, hip hop, fashion, all born out of black genius, taken, watered down, and sold back to the world. The speaker concluded, "not every white person acts like this." He understands the hatred, then says not all of them; that is not what the Bible says. Typical Christian.
 - Video commentary played: the world uses power dynamics against black people because it depends on us; without our exploitation the world economy would collapse. There would be no United States, no Brazil, no Caribbean without slave labor building these countries for free, and black labor is still exploited today, from sub-Saharan Africa's minerals for phones and car batteries on out. The speaker said the United States is lucky black Americans want equality and not revenge. Deacon: oh, we are going to have revenge; the day is coming. America's days are numbered.
-- News read in class: the United Nations voted to recognize the enslavement of Africans as the gravest crime against humanity, a resolution brought by Ghana. The proposal was adopted with 123 votes in favor and three against: the United States, Israel, and Argentina. 52 countries abstained, including the United Kingdom and European Union member states. Silence is consent. That is Psalms 83 in real time: they have consulted together with one consent.
-- News shown in class: black Americans never got reparations, but the administration found 1.776 billion dollars for January 6th defendants. The Department of Justice announced a new fund of about 1.7 billion dollars, with the president saying it is reimbursing people that were "horribly treated." Under the DC Compensated Emancipation Act, slave owners were paid up to 300 dollars per enslaved person for the loss of their human property; the people who were enslaved got nothing. Black people built Greenwood, Black Wall Street, and America let mobs destroy it. Reparations are called unrealistic, but insurrectionists may get taxpayer-funded compensation. America always finds money when it wants to, just never for the people it actually owes.
+- News shown in class: the Department of Justice announced a new fund of about 1.7 billion dollars, with the president saying it is reimbursing people that were "horribly treated." Under the DC Compensated Emancipation Act, slave owners were paid up to 300 dollars per enslaved person for the loss of their human property; the people who were enslaved got nothing. Black people built Greenwood, Black Wall Street, and America let mobs destroy it. Reparations are called unrealistic, but insurrectionists may get taxpayer-funded compensation. America always finds money when it wants to, just never for the people it actually owes.
 - Videos played on abortion: 40 percent of the abortions performed in this country are performed on black women, who are supposed to be 13 percent of the population; the other 60 percent is divided among all other groups. 20 million black babies have been aborted since 1973, and that is only talking about the southern kingdom. Margaret Sanger, who started Planned Parenthood and opened the country's first birth control clinic in 1916, was a member of the American Eugenics Society and wrote in 1919, "I personally believe in the sterilization of the feeble-minded, the insane, and the syphilitic." She used the black church to advance it. Before you ask why they hate us, ask why we hate our own children by continuing to kill them.
 - Video played of a sister explaining that she cannot hate men because she had a really good father, and the pushback she received for honoring him. Anytime fathers get any type of respect, they have to come with "what about your mother." That shows how far we are from where we need to be.
 
@@ -44,9 +43,19 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
 > <sup>[15](/bible/genesis/3#v15)</sup> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 
-- I want you to look up the word enmity, because a lot of times we read the Bible over and over again and skip words. Definition read in class from Merriam-Webster: enmity is positive, active, and typically mutual hatred. Enmity means deep hatred.
+- I want you to look up the word enmity, because a lot of times we read the Bible over and over again and skip words.
 - This is God talking: I will put enmity between thee and the woman. The serpent represents Esau; the woman represents Jacob, the Israelites. God said he would put deep hatred between them, and you cannot change that.
 - A lion's nature is to have no fear; it does not matter if you are bigger than him. A snake, whether poisonous or not, will eventually bite you, because that is its nature. In the same way, the hatred of the nations toward Israel is their nature. You can marry them if you want to; you cannot change their nature. That is how God set it up.
+
+<div class="reading">
+
+Reading from Merriam-Webster, on enmity  *[[14:59](https://www.youtube.com/watch?v=0N1tUWScwMU&t=899s)]*
+
+> Positive, active, and typically mutual hatred.
+
+- Enmity mean deep hatred. That's what it mean.
+
+</div>
 
 **[Exodus 32:1-4](/bible/exodus/32#v1)**  *[[21:57](https://www.youtube.com/watch?v=0N1tUWScwMU&t=1317s)]*
 
@@ -241,9 +250,40 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 
 - It is not only white people that hate us; we are the most hated people on the whole planet. Our job as the Israelites is to help our people understand why this thing is happening to us, because the answer is in the scriptures. It is not my opinion or your opinion; it is what God says.
 - Keep not thou silence, O God: God has been silent for over 400 years. They have done to us evil after evil, and God stayed silent. But what you see right now is the spirit of God back on the earth; the Israelites are waking up, and the nations fear, because they know what they did to us.
-- They have taken crafty counsel against thy people. Crafty counsel is them coming together. The UN vote read in the news above is a perfect example: they have consulted together with one consent. It is not a coincidence that everybody feels the same way about black people no matter what country you travel to; it is a spiritual thing.
+- They have taken crafty counsel against thy people. Crafty counsel is them coming together. The UN vote is a perfect example: they have consulted together with one consent. It is not a coincidence that everybody feels the same way about black people no matter what country you travel to; it is a spiritual thing.
 - Let us cut them off from being a nation, that the name of Israel may be no more in remembrance: today nobody knows who the Israelites are, and another people is called Israel in our place.
-- Go ahead, Cap: that is a form of Zechariah 11:5, them holding themselves not guilty. Them admitting it is the greatest crime against humanity would mean admitting who did it. They are not going to do that.
+
+<div class="reading">
+
+Reading from a news article on the United Nations vote recognizing the enslavement of Africans  *[[1:05:18](https://www.youtube.com/watch?v=0N1tUWScwMU&t=3918s)]*
+
+> UN votes to recognize enslavement of Africans as gravest crime against humanity.
+
+- America and Amalek said no.
+
+> The proposal was adopted with 123 votes in favor and three against: the United States, Israel, and Argentina.
+
+- America, Israel, Argentina. All Esau. I know what some of you think: well, Argentina isn't the 12 tribes. No, not all of them. The majority of them right now in there, in Argentina, is Esau. Is Amalek. Is Esau.
+
+> 52 countries abstained, including the United Kingdom and European Union member states.
+
+- All Esau. They said no. We're not going to vote. We're not going to recognize that. You know what that word say? Your silence is consent. Silence is basically you agree. That's what they saying. So you wanted to know how much they hate you. I'm going to keep showing you how much they hate you, cuz some of you think they love you.
+
+- **Cap:** And that's a form of them like Zechariah 11:5, them holding themselves not guilty. Them admitting and saying yeah, it is the greatest crime against humanity. Well, who did it? I did it. They're not going to do that.
+
+- They're not going to do that. Hold themselves not guilty.
+
+</div>
+
+<div class="reading">
+
+Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4216s)]*
+
+> Black Americans never got reparations, but Trump found 1.776 billion for January 6th insurrectionists.
+
+- This money is not for the victim. This money is for the people who went there and did it. This is unbelievable. The hell is this? If this don't get you pissed, I don't know what it is.
+
+</div>
 
 **[Wisdom of Solomon 12:10-18](/bible/wisdom-of-solomon/12#v10)**  *[[1:14:23](https://www.youtube.com/watch?v=0N1tUWScwMU&t=4463s)]*  (Captain's teaching)
 
@@ -523,9 +563,21 @@ But before we get there, you ask the question, why do you hate us? We hate ourse
 - It shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: America is the house of the thief. This place was stolen. And it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof: that is the judgment coming on America.
 - They put out the story that they have been ruling the earth since Genesis: no mention of slavery, of Egypt, of Babylon, of Persia; they make it as if they were all of them. Believe it or not, some of our people believe that.
 
-Book read in class: The Complete Works of Flavius Josephus, on the nations after the flood: "There were some also who passed over the sea in ships, and inhabited the islands: and some of those nations do still retain the denominations which were given them by their first founders; but some have lost them also... and they were the Greeks who became the authors of such mutations. For when in after-ages they grew potent, they claimed to themselves the glory of antiquity; giving names to the nations that sounded well in Greek... as if they were a people derived from themselves."
+<div class="reading">
 
-- Just like the Deacon said: they claim to be the first founders of everything, the first man, the beginning. Josephus records that they claimed to themselves the glory of antiquity. They do that because a lot of our people do not read, so we do not know our true history.
+Reading from Josephus, page 30  *[[2:31:54](https://www.youtube.com/watch?v=0N1tUWScwMU&t=9114s)]*
+
+> There were some also who passed over the sea and ships and inhabited the islands. And some of those nations do still retain the denominations which were given them by their first founders. But some have lost them also and some have only admitted certain changes in them and that they might be more intelligible to the inhabitants. And they were the Greeks who became the authors of such mutations.
+
+- **Cap:** Just like Deek just said. It says, "These were the Greeks who became the authors of such mutations." Meaning they say that they're the first founders of everything. They're the beginning. They're the first man. They're the last samurai. Last Mohican. They're the Egyptians. They're everybody.
+
+> For when in after ages they grew potent, they claimed to themselves the glory of antiquity, giving names to the nations that sounded well in Greek, that they might be better understood among themselves, and setting agreeable forms of government over them, as if they were a people derived from themselves.
+
+- **Cap:** There you go. As if they were a people derived from themselves.
+
+</div>
+
+- **Cap:** And they do that because a lot of our people, we don't read, so we won't know our true history. But this is all a plot against our people.
 
   Precepts:
   - **[2 Maccabees 7:31](/bible/2-maccabees/7#v31)**

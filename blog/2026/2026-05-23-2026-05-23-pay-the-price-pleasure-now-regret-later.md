@@ -160,8 +160,16 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
 > <sup>[12](/bible/wisdom-of-solomon/4#v12)</sup> For the bewitching of naughtiness doth obscure things that are honest; and the wandering of concupiscence doth undermine the simple mind.
 
-- For the bewitching of naughtiness doth obscure things that are honest. What is honest? The scriptures, God's laws. Bewitching means so fascinating and enchanting that it captures your complete attention, as if holding you under a spell. We teach our children God's commandments, then sit them in front of the TV, and everything they learned at the Sabbath and the new moon gets obscured if we don't monitor and stay involved in our children's lives. Sitting your child in front of the TV is not parenting; even the cartoons carry messages putting thoughts into our children's minds.
+- For the bewitching of naughtiness doth obscure things that are honest. What is honest? The scriptures, God's laws. We teach our children God's commandments, then sit them in front of the TV, and everything they learned at the Sabbath and the new moon gets obscured if we don't monitor and stay involved in our children's lives. Sitting your child in front of the TV is not parenting; even the cartoons carry messages putting thoughts into our children's minds.
 - And the wandering of concupiscence, evil sexual desire, doth undermine the simple mind: it looks enticing, it looks good, and that's what takes away their minds.
+
+<div class="reading">
+
+Reading from a definition of bewitching  *[[1:03:22](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=3802s)]*
+
+> Definition of bewitching. Bewitching is an adjective describing something so incredibly fascinating, attractive, or enchanting that it captures your complete attention as if holding you under a spell.
+
+</div>
 
 **[Judith 16:9](/bible/judith/16#v9)**  *[[1:04:53](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=3893s)]*
 
@@ -205,11 +213,39 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 >
 > <sup>[27](/bible/james/1#v27)</sup> Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
 
-- Lay apart all filthiness and superfluity of naughtiness. Superfluity means an excessive amount, far beyond what is needed: that's people who have no self-control. Lay it aside means repent and put it away from you; mortify your members which are upon the earth.
-- Receive with meekness the engrafted word, which is able to save your souls. Engrafted means joined so deeply and securely that it becomes a permanent, functioning part of a new whole. The word of God is supposed to be engrafted in our minds, seared in, so that doing right becomes a knee-jerk reaction. But if your mind is full of adultery and fornication, the word is not engrafted in there, because you've been exercising yourself in all the wrong things. Exercise yourself in the word of God until it becomes one with your thoughts.
+- Lay apart all filthiness and superfluity of naughtiness. Lay it aside means repent and put it away from you; mortify your members which are upon the earth.
+- Receive with meekness the engrafted word, which is able to save your souls.
 - Be ye doers of the word, and not hearers only, deceiving your own selves. That's how you know the word is engrafted: it becomes a verb in your life, an action. You could study all the prophecies and the deep breakdowns, but if you don't have the word of God concerning this topic engrafted in your mind, you're just making noise, like a lawyer convincing yourself it's all right. There's no justification for this; we must keep the commandments.
 - A hearer only is like a man beholding his natural face in a glass who goeth his way and forgetteth what manner of man he was. This book gives us a view of ourselves. You can turn away from the mirror, but you're still the same person; you can close the Bible, but it doesn't change that the word is not engrafted in you. You just don't want to see the correction.
 - Pure religion and undefiled is to visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. The world is designed to spot you, to put a blot on you; keep yourself from it by turning away. And when you get yourself right, then you go teach the ones without a hedge: the widow without a guide, the child without a father. First get the word engrafted in you, so we can raise the next generation and get up out of here.
+
+<div class="reading">
+
+Reading from a definition of superfluity  *[[1:12:44](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4364s)]*
+
+> Definition of superfluity. Superfluity is a noun that means an excessive amount, oversupply, or an abundance of something that goes far beyond what is actually needed, wanted, or useful.
+
+- That's people who have no self-control. It says, "Wherefore lay apart all filthiness and superfluity of naughtiness."
+
+- You walk around, you're trying to figure out, "How do I get to look up?" You stand at the escalator all day at the mall trying to look up. That's what you do.
+
+- You see dudes be walking, they be in tight spaces, be walking past them like this. Trying to rub against them. Oh, man.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of engrafted  *[[1:14:00](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4440s)]*
+
+> Definition of engrafted. Engrafted is the past tense and past participle of engraft. It generally means to join or fix something so deeply and securely that it becomes a permanent functioning part of a new whole.
+
+- So, the word of God is supposed to be engrafted in our minds, that is permanent in our minds. It has to be seared into our minds that we do the right thing, that we move right.
+
+- But if your mind is full of adultery and fornication, the word of God is not engrafted in there. Why? Because you've been exercising yourself in all the wrong things. Exercise yourself in the word of God that it become one with our thoughts, that when a thought come up, if you look at the woman to left of you, commit adultery. Oh, wait a second. Okay, it's engrafted. No.
+
+- That's why I said, for the word of God to have power, it has to become a verb in your life. It has to become an action that you're doing. Or you're just reading words on the page. It becomes engrafted like a knee-jerk reaction.
+
+</div>
 
 **[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[[1:22:05](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=4925s)]*
 
@@ -360,9 +396,19 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 >
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-- Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. Wiles are clever, deceptive, seductive tricks: stratagems, strategies, something well planned out, and the result may not come right away.
+- Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 - For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 - Ask the older ones: there was a time these abominations were not open and normal. What happened between then and now? Stratagems. TV shows, movies, and policies were set in place that made it acceptable, until this young generation is not shocked at all. The brainwashing began back then: Geraldine, Tootsie, and the comedians in dresses, and we laughed. When we laughed at that, we were taking pleasure in sin, and our inhibitions and values were being lowered. That ran straight through to Madea and Sheneneh, and today even the classic cartoons are recut into couple goals clips for children. It's molding young minds slowly, changing what they perceive as natural. All the pronoun language works the same way: to distort the minds.
+
+<div class="reading">
+
+Reading from a definition of wiles  *[[1:54:22](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=6862s)]*
+
+> Definition of wiles. The term wiles most commonly refers to clever, deceptive, or seductive tricks and stratagems.
+
+- Stratagems or strategies. You know what strategies are? Something well planned out. You know, if we set this in place here and this in place here, we're going to achieve this result. And it may not be right away.
+
+</div>
 
 **[Numbers 25:1-3](/bible/numbers/25#v1)**  *[[2:01:24](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=7284s)]*
 
@@ -454,12 +500,28 @@ There has been, throughout the congregation, in recent reports, a foul spirit of
 
     These things were our examples, to the intent we should not lust after evil things, as they also lusted. Why were they overthrown in the wilderness? Because they lusted after evil things. Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand. The rose up to play was fornication, and it destroyed us. The nations understood this when they took their crafty counsel.
 
+<div class="reading">
+
+Reading from the caption on a video put up on the screen  *[[2:24:54](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8694s)]*
+
+> Lizzo drops new song featuring Sexyy Red with the lyrics saying the world would be boring as hell without hoes.
+
+- Please, I'm older. I don't know what that means.
+
+- Oh, demon time. Okay, yeah. Don't laugh at me. I just don't know. I'm from this generation. We hoes were just hoes in old time. We didn't know. Now you spell hoes with a three. We didn't do that stuff.
+
+> Is this the new women empowerment anthem?
+
+- Oh, it's a song?
+
+</div>
+
 **[Genesis 6:5](/bible/genesis/6#v5)**  *[[2:26:15](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8775s)]*
 
 > <sup>[5](/bible/genesis/6#v5)</sup> And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
 - God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. What happened when God saw that? It grieved him, and he flooded the whole earth.
-- Today the people have no shame. A new song was played in class whose hook celebrates whoredom as women's empowerment. The enemy gives riches to a few to destroy the rest, and that music only sells because the minds of the people have already been changed to entertain it. It's flipped so far that an honorable sister gets mocked as a pick me. Somebody picked you to marry you; that's good. The alternative the music is selling is to be used up every weekend and thrown away.
+- Today the people have no shame. The enemy gives riches to a few to destroy the rest, and that music only sells because the minds of the people have already been changed to entertain it. It's flipped so far that an honorable sister gets mocked as a pick me. Somebody picked you to marry you; that's good. The alternative the music is selling is to be used up every weekend and thrown away.
 
 **[Proverbs 23:26-29](/bible/proverbs/23#v26)**  *[[2:28:18](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8898s)]*
 
