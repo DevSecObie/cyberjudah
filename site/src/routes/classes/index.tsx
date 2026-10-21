@@ -6,7 +6,8 @@ import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/classes/")({
   validateSearch: validateBrowse,
-  loader: async () => { const [rows, topics] = await Promise.all([api.classes(), api.topicLabels()]); return { rows, topics }; },
+  // The Truth Shall Make You Free (TV and radio) has its own page; only Sabbath classes are listed here.
+  loader: async () => { const [rows, topics] = await Promise.all([api.classes(), api.topicLabels()]); return { rows: rows.filter((r) => !r.collection?.startsWith("The Truth Shall Make You Free")), topics }; },
   head: ({ match }) => pageHead([{ title: "Sabbath Classes · CyberJudah" }, { name: "description", content: "Every Sabbath class written up in full, scriptures cited inline. Browse by topic, book, teacher or year." }], match),
   component: Classes,
 });
