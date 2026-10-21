@@ -23,13 +23,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 - *[[8:06](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=486s)]* **Iranian crowds burn a statue of Baal with the American and Israeli flags mounted in front of it, commemorating the February 11, 1979 revolution.** — Baal is the devil. Contrary to Western news, the Iranians know who the devil is on the earth and who his people are, which is why they call America the Great Satan and Israel the Little Satan.
 - *[[13:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=793s)]* **Rallies marking 47 years since the Islamic Revolution, weeks after the regime killed thousands of protesters; the president apologizes for government failings and blames America and Europe for inciting the unrest.** — The riots came from economic turmoil the United States caused. Trump threatened to come over if Iran did not get it under control, when America was the one that destabilized it.
-- *[[17:19](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1039s)]* **Wiki summary and a short on Operation Ajax: the 1953 CIA and MI6 coup that overthrew Prime Minister Mossadegh after he nationalized the Anglo-Persian Oil Company, reinstated the Shah, and handed 40 percent of Iran's oil to US companies.** — Esau is notorious for coups. The 1979 revolution was a nation trying to secede from British and American control of its oil. Nothing has changed: Trump just took the president of Venezuela and the oil.
-- *[[22:20](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1340s)]* **The Iran hostage crisis of November 1979 and a trailer for the film Argo, the fake sci-fi movie the CIA used to smuggle six Americans out as Canadian filmmakers.** — Heavy American influence in Iran meant diplomats and students were there when the revolution came. Esau is crafty; the crisis ended with the Algiers Accords the day Reagan took office.
+- *[[17:19](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1039s)]* **A short on Operation Ajax: the 1953 CIA and MI6 coup that overthrew Prime Minister Mossadegh after he nationalized the Anglo-Persian Oil Company, reinstated the Shah, and handed 40 percent of Iran's oil to US companies.** — Nothing has changed: Trump just took the president of Venezuela and the oil.
+- *[[23:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1432s)]* **A trailer for the film Argo, the fake sci-fi movie the CIA used to smuggle six Americans out as Canadian filmmakers.** — Esau is crafty.
 - *[[26:51](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1611s)]* **A giant poster in Revolution Square, Tehran, warning the Trump administration: if you sow the wind, you will reap the whirlwind.** — Isaiah 21 opens with whirlwinds in the south passing through and calls on Media to besiege. The Iranians are speaking the Bible's own words because God made them say it.
-- *[[33:45](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2025s)]* **Report that the death toll from two weeks of protests in Iran passed 33,000, as Supreme Leader Khamenei threatened war if the US acted.** — The Khameneis have not forgotten what America did. It is in their heart to war against Babylon, exactly as Jeremiah 51 says God raised up the spirit of the kings of the Medes.
 - *[[35:26](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2126s)]* **2018 report on Trump withdrawing from the nuclear deal and imposing the highest level of sanctions: no US dollars, gold, steel, oil, shipping or banking; and a report from weeks ago of new Treasury sanctions on a shadow banking network.** — Seven or eight years of sanctions caused the uprising. America is not stopping, and Iran has a legitimate reason to be angry. That is why no silver or gold will buy them off.
-- *[[59:14](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3554s)]* **Houthis post an image of Netanyahu depicted as Baal engulfed in flames with the caption 'Next,' after Iranians burn bull-headed statues bearing the Star of David.** — The hexagram is not the Star of David; it is the star of Remphan and Chiun, an occult sign. The man of sin is being revealed, and the nations recognize the synagogue of Satan.
-- *[[1:03:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3835s)]* **The 1933 Chicago World's Fair 'Romance of a People' Jewish Day celebration with a bull's-head statue set aflame, and the giant mechanical bull at the 2022 Birmingham Commonwealth Games.** — America and Israel are Baal worshippers in the open. The same bull imagery shows up in the Marvel character Rintrah and the Wall Street bull, and even the word bullheaded, meaning stubborn, comes from Baal worship.
+- *[[59:14](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3554s)]* **Iranians burn bull-headed statues bearing the Star of David.** — The hexagram is not the Star of David; it is the star of Remphan and Chiun, an occult sign. The man of sin is being revealed, and the nations recognize the synagogue of Satan.
+- *[[1:03:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3835s)]* **The 1933 Chicago World's Fair 'Romance of a People' Jewish Day celebration with a bull's-head statue set aflame, and the giant mechanical bull at the 2022 Birmingham Commonwealth Games.** — America and Israel are Baal worshippers in the open. The same bull imagery shows up in the Marvel character Rintrah.
 - *[[1:10:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4255s)]* **Thousands gather on a Rio beach six days ago to offer tributes to the Afro-Brazilian sea goddess Yemanja.** — Even in 2026 our people in the northern kingdom are still serving the devil, and then wonder why America starves out and destabilizes their countries.
 - *[[1:24:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5080s)]* **A lecturer announces a suppressed discovery: long before Columbus there were four major migrations of Blacks to the Americas, the latest 400 years before Columbus was born.** — Black nations coming to the Americas is documented history. The claim that the northern kingdom came over the Bering Strait is meant to discredit the fact that the Israelites are found, not lost.
 - *[[1:29:32](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5372s)]* **'Black and Latin America: The Whitening Campaign' on blanqueamiento, the state policies in Brazil, Cuba, the Dominican Republic, Argentina, Mexico and Puerto Rico to breed out the Black population, with Brazil predicting Black Brazilians would disappear by 2012.** — This is what Edom wanted to do to Ephraim. Hosea calls Ephraim a cake not turned, white on top and brown underneath. The Lord knows who they are regardless of skin tone.
@@ -37,6 +36,40 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 - *[[1:39:42](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5982s)]* **Trump on Truth Social: no more oil or money going to Cuba, zero; and an earlier clip calling Venezuela and Colombia 'sick neighbors' and pressing Mexico on the cartels.** — It is the same playbook used on Iran. The fourth beast has power over the whole compass of the earth with much wicked oppression.
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from an on-screen entry on Little Satan  *[[12:50](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=770s)]*
+
+> Little Satan is an anti-Zionist derogatory epithet used especially by Iranian leaders for Israel. The mirror term for the United States is Great Satan.
+
+- Is Great Satan. How do they know this? How do they know this? Well, remember they are the ones who are feeling the wrath of the United States of America.
+
+</div>
+
+<div class="reading">
+
+Reading from a wiki on the Iranian Revolution  *[[16:32](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=992s)]*
+
+> Iranian Revolution.
+>
+> The Iranian Revolution or the Islamic Revolution was a series of events that cultivated in the overthrow of the Pahlavi dynasty in 1979. The revolution led to the replacement of the Imperial State of Iran by the Islamic Republic of Iran, as the monarchal government of Shah Mohammad Reza Pahlavi was superseded by Ruhollah Khomeini, an Islamist cleric who had headed one of the rebel factions. The ousting of Mohammad Reza Pahlavi, the last Shah of Iran, formerly marked the end of Iran's historical monarchy.
+
+- What we're going to do next is show you why this was such a important part in Iranian history.
+
+> In 1953, the CIA and MI6-backed 1953 Iranian coup d'état overthrew Iran's prime minister,
+
+- So a coup d'état overthrew Iran's prime minister in 1953. Now brothers, who's notorious for starting coups d'état? Esau. Yes. United States of America, Europe. All of them.
+
+> Mohammad Mossadegh, who had nationalized the Anglo-Persian Oil Company.
+
+- See that, Anglo-Persian. Could y'all keep it up on the screen, please? Anglo-Persian Oil Company. So that word Anglo, does that sound familiar? Anglo-Saxon. Now remember, Anglo, they took that from us. The Anglo-Saxons means angelic sons of Isaac. But the Europeans, they refer to themselves as angelic. Ain't that crazy? If you didn't know, now you know.
+
+> The coup reinstated Mohammad Reza Pahlavi as an absolute monarch and significantly increased United States influence over Iran.
+
+- Aka they put up a puppet leader for America's cause. Happened in 1953. So this is why the Iranian revolution in 1979 is so important.
+
+</div>
 
 **[Daniel 11:39](/bible/daniel/11#v39)**  *[[20:49](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1249s)]*
 
@@ -46,6 +79,30 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 - He shall cause them to rule over many and divide the land for gain. That is the scramble for Africa, and the same thing they do in Iran and South America: whoever has the oil and the resources has the power.
 
+
+<div class="reading">
+
+Reading from an on-screen entry on the Iran hostage crisis  *[[22:21](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1341s)]*
+
+> The Iran hostage crisis began on November 4th, 1979
+
+- So when the Iranian revolution took place, Iran, that was nationalism. They were trying to secede from Britain and America. They're trying to have the control over their oil, over their resources. But remember that it was a heavy American influence in Iran. So what do you think is going on? You had American citizens over there living in Iran. You had diplomats over there. You had all types of stuff. You had students over there. Which led to this, the Iranian hostage crisis.
+
+> when 66 Americans, including diplomats and other civilian personnel, were taken hostage at the Embassy of the United States in Tehran, with 53 of them being held until January 20th, 1981. The incident occurred after the Muslim Student Followers of the Imam's Line stormed and occupied the building in the months following the Iranian Revolution, with support from Ruhollah Khomeini, who had led the Iranian Revolution and would eventually establish the present-day Islamic Republic of Iran.
+
+- So that's what we wanted right there.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen entry on the Algiers Accords  *[[26:05](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1565s)]*
+
+> The Algiers Accords, 1981. The Algiers Accords of January 19th, 1981 was a set of obligations and commitments undertaken independently by the United States and Iran to resolve the Iran hostage crisis, brokered by the Algerian government and signed in Algiers on January 19th, 1981. The crisis began …
+
+- If I'm not mistaken, that's like the day Reagan took office, if I'm not mistaken. Somebody fact check me. I think that is correct, though. So yeah, we're going through some history.
+
+</div>
 
 **[Isaiah 21:1-2](/bible/isaiah/21#v1)**  *[[27:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1660s)]*
 
@@ -81,6 +138,28 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
     These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself. They thought God forgot. He will reprove them and set things in order before their eyes.
 
 
+<div class="reading">
+
+Reading from a report on the death toll of the protests in Iran  *[[33:56](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2036s)]*
+
+> Staggering 33,000 Iran protesters killed in just two weeks as shock death toll from genocide revealed.
+
+- Y'all see that? Thousands upon thousands of them were killed. These are the riots and the protests that they were having just weeks ago. 20 days ago was this report.
+
+> The death toll from the protests in Iran has risen past 33,000, shock figures show. The stats were revealed as Supreme Leader Ali Khamenei
+
+- So understand, the Khameneis, they ain't forget what America did. You understand? They have not forgotten.
+
+> The stats were revealed as Supreme Leader Ali Khamenei's regime threatened war if the US took action against it.
+
+- And we just read that in Jeremiah 51. It's in their mind, in their heart to war against Babylon. They're ready. That's how God made them to be.
+
+> Previous estimates have suggested between 16,500 and 18,000 people have been killed amid two weeks of unrest. But new research suggests the real tally is at around 33,100.
+
+- Do y'all see that? 33,000 plus people lost their lives. Who's really behind that? United States of America. They're the ones that's really behind that.
+
+</div>
+
 **[Isaiah 13:17-19](/bible/isaiah/13#v17)**  *[[39:59](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2399s)]*
 
 > <sup>[17](/bible/isaiah/13#v17)</sup> Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
@@ -95,7 +174,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 - Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah. The Chaldees are the Israelis, partnered with America, and we know this is future because present-day Iraq was never overthrown like Sodom.
 
-- Ancient Media is northwestern Iran, the same landmass, so when a prophecy says Medes it means Iran.
+<div class="reading">
+
+Reading from an on-screen entry on Media  *[[41:42](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2502s)]*
+
+> Media region. Media is an Iron Age region of northwestern Iran.
+
+- So what is it letting us know? Ancient Media, that's the same landmass as present-day Iran. So that's how we know that when it says Medes in a prophetic sentence, we know that's talking about Iran.
+
+</div>
 
 
 **[Esther 1:1-3](/bible/esther/1#v1)**  *[[42:56](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2576s)]*
@@ -134,13 +221,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
     The labour of Egypt, and merchandise of Ethiopia and of the Sabeans: the three ribs.
 
 
-**[Ezra 1:1-2](/bible/ezra/1#v1)**  *[[46:50](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2810s)]*
+<div class="reading">
+
+Reading from an on-screen entry on the Achaemenid Empire  *[[46:45](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2805s)]*
+
+> The Achaemenid Empire. Old Persian … the empire or the kingdom, was an ancient Iranian empire founded by Cyrus the Great of the Achaemenid dynasty in 550 BC.
+
+- Right. Founded by Cyrus the Great of the Achaemenid dynasty. In 550 BC. Let's read about King Cyrus.
+
+</div>
+
+**[Ezra 1:1-2](/bible/ezra/1#v1)**  *[[47:16](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2836s)]*
 
 > <sup>[1](/bible/ezra/1#v1)</sup> Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 >
 > <sup>[2](/bible/ezra/1#v2)</sup> Thus saith Cyrus king of Persia, The Lord God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.
 
-- The Achaemenid Empire, founded by Cyrus the Great in 550 BC, was an ancient Iranian empire. The Lord stirred up the spirit of Cyrus, king of Persia, and he proclaimed that the God of heaven had charged him to build him a house at Jerusalem.
+- The Lord stirred up the spirit of Cyrus, king of Persia, and he proclaimed that the God of heaven had charged him to build him a house at Jerusalem.
 
 - The Lord spoke to a Persian king and he listened, letting us return and build the temple.
 
@@ -173,16 +270,32 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 - The ten tribes carried away by Shalmaneser took counsel to leave the multitude of the heathen and go to a further country where never mankind dwelt, a journey of a year and a half, to a region called Arsareth, where they dwell until the latter time.
 
-- The Jewish Encyclopedia entry on Arzareth says the ten tribes dwell beyond the great river observing the laws of Moses until the time of restoration, and that Columbus identified America with this land. Columbus found America by the writings of Esdras.
+<div class="reading">
+
+Reading from the *Jewish Encyclopedia*, on Arzareth  *[[50:29](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3029s)]*
+
+> Arzareth: the name of the land beyond the great river, far away from the habitation of man, in the which the ten tribes of Israel will dwell, observing the laws of Moses until the time of the restoration, according to … Fourth Esdras … Columbus identified America with this land.
+
+- So it's very significant, very, very significant. It says that the Israelites will be in this land until the time of restoration, salvation. You understand? And it said what? Columbus, or good old Crystal Ball. He was able to find America by the writings of Esdras. By the writings of Esdras. So we're going to revisit this in a little bit.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen entry on Carmania  *[[51:26](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3086s)]*
+
+> Carmania. Region east of Fars Province, approximately equivalent to modern Kerman.
+
+- Right. Modern Kerman. Y'all see that? So you got Turkey at the top, you got Iraq to the left, Saudi Arabia at the bottom, and you have Iran smack there in the middle. And you have the region of Kerman. So Carmania is Kerman today. It's southern Iran. So you see at the bottom it says Arab. That's just Saudi Arabia. And then smack dab in the middle, what you got? Carmania. Showing you what? Carmania is who? Carmania is Iran.
+
+</div>
 
 
-**[2 Esdras 15:29-30](/bible/2-esdras/15#v29)**  *[[51:44](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3104s)]*
+**[2 Esdras 15:29-30](/bible/2-esdras/15#v29)**  *[[52:25](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3145s)]*
 
 > <sup>[29](/bible/2-esdras/15#v29)</sup> Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
 >
 > <sup>[30](/bible/2-esdras/15#v30)</sup> Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
-
-- Carmania is the modern Kerman province in southern Iran, so the Carmanians are Iranians.
 
 - The nations of the dragons of Arabia shall come out with many chariots, carried as the wind upon earth, which is the whirlwind of Isaiah 21. Also the Carmanians, raging in wrath, shall join battle with them and waste a portion of the land of the Assyrians.
 
@@ -224,13 +337,59 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
     Thus dwelt Esau in mount Seir: Esau is Edom.
 
 
+<div class="reading">
+
+Reading from an on-screen entry on Kerman  *[[56:36](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3396s)]*
+
+> Located in southeastern Iran, corresponding to the modern province of Kerman, that was part of the Achaemenid Persian Empire from roughly the 6th century BC to the time of Alexander the Great, 325 to 324 BC. It was a distinct region east of Persis,
+
+- Persis is Persia.
+
+> often associated with Carmanians.
+
+</div>
+
+<div class="reading">
+
+Reading from an article, *When did Persia become Iran and why?*  *[[57:12](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3432s)]*
+
+> Why did the name Iran emerge? The name Iran had long been used, dating back to the Zoroastrians, 100 BC, along with other variations of the same, including Arya, literally land of the Aryans. Certainly by the 4th century AD the term Iran was being used in writing and literature, and some Western texts noted an internal preference for the name Iran by the 19th century. In the 1930s steps began to be taken by Reza Shah to formalize the change in name from Persia to Iran, and the request came into force in March 1935.
+
+- So y'all see, in 1935 they put that name change in force. So before that it was called Persia. 1935 is when they made that push.
+
+> The British requested to continue to use Persia, as Iran was too similar to Iraq. Both countries were involved in the Second World War and occupied by the British, and Churchill cited worries that the similarity in name would be confusing. 1959, Reza's son announced that the terms Iran and Persia could be used interchangeably in formal correspondence. Despite this, Iran has become the country's dominant name. Its official name since 1979 is Jomhuri-ye Eslami-ye Iran, which translates as the Islamic Republic of Iran.
+
+- That 1979 just keep coming up, don't it? So now y'all more familiar with this. You got Egypt to the left. You got Israel, Lebanon, Saudi Arabia, and then Iraq. And then you got Iran. And now you know how that name came about.
+
+</div>
+
+<div class="reading">
+
+Reading from a news video on the Houthis and the burning of Baal idols, read off the screen  *[[59:26](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3566s)]*
+
+> His demonic threat after Iran burns Baal idols. Epstein files … Trump, Bibi before war.
+
+- Bibi Netanyahu before war.
+
+> After Iranians, Houthis mock Bibi and Trump with Epstein reminders.
+>
+> Houthis' chilling threat to Bibi as Iranians burn Baal idols. Trump's enemies weaponize Epstein files, target devils of the West.
+
+- Target devils of the… This is some good stuff right here. This is some good stuff.
+
+> Epstein's sinister Baal email triggers Houthi, Iranian ridicule. The Houthis issued a grave threat against Benjamin Netanyahu in the wake of the recent Epstein Baal controversy. The rebel group shared an image of Netanyahu depicted in the likeness of Baal on their Telegram channel on February 11th. In the image, Netanyahu's likeness appeared engulfed in flames with a threatening caption saying, "Next."
+
+- Stop. Keep that up on the screen. That image.
+
+</div>
+
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:00:08](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3608s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 
 - I know thy works, and tribulation, and poverty, but thou art rich. The Israelites, the so-called Blacks, Hispanics and Native Americans, are rich because the promises and the covenant belong to us.
 
-- The blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan: Netanyahu and those with him. Persia was renamed Iran in 1935, and the Islamic Republic dates from 1979, the same year that keeps coming up.
+- The blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan: Netanyahu and those with him.
 
   Precepts:
   - **[2 Thessalonians 2:3](/bible/2-thessalonians/2#v3)**
@@ -252,6 +411,38 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
     Ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves. It is idolatry. God never gave us that star; Solomon picked it up dabbling in witchcraft.
 
 
+<div class="reading">
+
+Reading from an on-screen definition of *bullheaded*  *[[1:07:12](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4032s)]*
+
+> And the term bullheaded is derived from Baal worship. Bullheaded: not willing to change an opinion, plan. Very stubborn in a foolish or annoying way. Stupidly stubborn, headstrong.
+
+- Remember the stubborn. Remember that. Remember stubborn. So you got the ancient deity Baal, which is always depicted as a bull, and they got the American one on the right-hand side, which is in Wall Street in New York.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen definition of Baal  *[[1:07:50](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4070s)]*
+
+> Baal definition: Canaanite god of fertility. He is often portrayed as the god of storms, lightning, thunder, and rain. He was worshiped in horrible ways.
+
+- Right. It said the god of thunder, lightning, storms. Who that sound like? Thor. Yeah, that sounds like Thor as well. It says he is a fertility god as well.
+
+> The name means lord or master. Israel was seduced into worshiping Baal.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen article, *The King of Demons*  *[[1:08:21](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4101s)]*
+
+> The king of demons. Baal and the worship thereof is coming back to light. Yet, I believe the reason we never really hear about Baal and Ashtoreth is because they have taken on so very many names over the ages.
+
+- Right? That's all I want. They've taken on so many different names over the ages.
+
+</div>
+
 **[Judges 2:11-13](/bible/judges/2#v11)**  *[[1:08:43](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4123s)]*
 
 > <sup>[11](/bible/judges/2#v11)</sup> And the children of Israel did evil in the sight of the Lord, and served Baalim:
@@ -259,8 +450,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 > <sup>[12](/bible/judges/2#v12)</sup> And they forsook the Lord God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the Lord to anger.
 >
 > <sup>[13](/bible/judges/2#v13)</sup> And they forsook the Lord, and served Baal and Ashtaroth.
-
-- Baal is the Canaanite god of fertility, storms, thunder and lightning, worshipped in horrible ways, whose name means lord or master. Baal and Ashtoreth have taken on many names over the ages, which is why we rarely hear of them.
 
 - The children of Israel did evil in the sight of the Lord, served Baalim, and forsook the Lord God of their fathers which brought them out of Egypt. They served Baal and Ashtaroth. That stubbornness is our history and why we are in captivity.
 
@@ -324,24 +513,94 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 - They kept not the covenant of God even over here, which is why Assyria took the northern kingdom and why Columbus and Cortes came. The Lord was sick of the idolatry and still is, but this is the last time.
 
 
-**[Deuteronomy 33:24-25](/bible/deuteronomy/33#v24)**  *[[1:18:15](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4695s)]*
+<div class="reading">
+
+Reading from the twelve tribes chart  *[[1:18:28](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4708s)]*
+
+> From Colombia to Uruguay. Ancient Incas.
+
+- I just want to focus on Asher. So it said from what? Colombia to Uruguay. So you got Colombia. Where's Uruguay? At the bottom. Right there. So Brazil fits in that. So Brazil would be what? From the tribe of Asher.
+
+</div>
+
+<div class="reading">
+
+Reading from *Ancient American Indians*, p. 30  *[[1:19:02](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4742s)]*
+
+> We are Sidonian Canaanites from the city of the merchant king. We are cast up on his distant island, a land of mountains, and embarks from Ezion-geber into the Red Sea. We voyaged with 10 ships and were at sea together for 2 years around Africa.
+
+- That sounds like Second Esdras chapter 13 verse 40.
+
+> So we have come here, 12 men and three women, into island of iron.
+
+> Dr. Gordon believes the voyage began in 534 BC and ended in Brazil in 531 BC.
+>
+> It is interesting to note the word for iron in most Semitic languages is barzel
+
+- Which is a Hebrew word.
+
+> Dr. Gordon then comments, we can, however, say that no country in the world merits the name Barzil, iron, more than Brazil, whose chief resource is still iron. Indeed, it is reported that 25% of the world's known iron reserves are in the Brazilian province of Minas Gerais.
+
+- So what? Brazil is Hebrew for iron.
+
+</div>
+
+**[Deuteronomy 33:24-25](/bible/deuteronomy/33#v24)**  *[[1:20:36](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4836s)]*
 
 > <sup>[24](/bible/deuteronomy/33#v24)</sup> And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
 >
 > <sup>[25](/bible/deuteronomy/33#v25)</sup> Thy shoes shall be iron and brass; and as thy days, so shall thy strength be.
 
-- The twelve tribes chart places Asher from Colombia to Uruguay, which includes Brazil. The book Ancient American Indians records Semitic voyagers from Ezion-geber who sailed two years around Africa and landed in Brazil around 531 BC, calling it the island of iron; barzel is Hebrew for iron, and Brazil holds a quarter of the world's known iron reserves.
-
 - Let Asher dip his foot in oil; his shoes shall be iron and brass. South America is known for oil, and Brazil means iron. The Lord made no mistake in where he placed Asher.
 
 
-**[Jeremiah 7:18](/bible/jeremiah/7#v18)**  *[[1:21:24](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4884s)]*
+<div class="reading">
+
+Reading from an on-screen entry on Yemanja  *[[1:21:20](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4880s)]*
+
+> Yemanja, also known …, Yemaya or …,
+
+> is the major water deity in the Yoruba religion,
+
+- Right. Is the major water deity of the Yoruba religion. Yoruba.
+
+> revered as the mother of all orishas and humanity.
+
+- It says the mother of all orishas and humanity. Let's make a connection.
+
+</div>
+
+**[Jeremiah 7:18](/bible/jeremiah/7#v18)**  *[[1:21:50](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4910s)]*
 
 > <sup>[18](/bible/jeremiah/7#v18)</sup> The children gather wood, and the fathers kindle the fire, and the women knead their dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.
 
-- Yemanja is the major water deity of the Yoruba religion, revered as the mother of all orishas and humanity. The women knead their dough to make cakes to the queen of heaven: Ashtoreth, the queen of heaven and Yemanja are the same deity under different names.
+- The women knead their dough to make cakes to the queen of heaven: Ashtoreth, the queen of heaven and Yemanja are the same deity under different names.
 
-- The Lost Tribes of Israel derives the name Yoruba from Jeroboam, founder of the northern kingdom, and The Lost Tribes, a Myth records Yoruba Jews who call themselves by the Hebrew name Bnai Ephraim. The Yorubas are Ephraimites who carried the witchcraft with them into Africa.
+<div class="reading">
+
+Reading from *The Lost Tribes of Israel*, p. 593  *[[1:22:20](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4940s)]*
+
+> In line with the Israelite figures of Ajaka, Isaac, Arana, Jacob, and Azloo, Joash, the Yoruba name seems to be derived from Jeroboam,
+
+- So Yoruba comes from Jeroboam. You understand?
+
+> May the people be great, the name of the founder of the northern kingdom of Israel.
+
+- Of the northern kingdom of Israel. You see that? Which is Ephraim on down.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes, a Myth*, p. 30  *[[1:23:09](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4989s)]*
+
+> These Yoruba Jews claimed that their ancestors were driven from oasis to oasis by Muslim persecution, not finding rest even when they reach Timbuktu. It suggests that these ancestors may have been of the Dagatans still scattered along the trade routes west of Timbuktu, or of the vanished Jewish kingdom of Kamuri, or of the later trading colony of Lambl. At present, they number about 2,000 people in 20 little villages and call themselves by the Hebrew name Bnai Ephraim.
+
+- By the Hebrew name what? Bnai Ephraim. So what is this letting us know? The Yorubas are Israelites, known as what? Ephraimites.
+
+- Now it shows what they were worshiping, a Yoruba deity. Showing that the Israelites, they carried that witchcraft and kept doing it even when we was in Africa.
+
+</div>
 
 
 **[1 Kings 9:26](/bible/1-kings/9#v26)**  *[[1:26:11](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5171s)]*
@@ -350,7 +609,19 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 - King Solomon made a navy of ships in Ezion-geber, beside Eloth on the shore of the Red Sea, the same port the voyagers to Brazil left from. Solomon was known in antiquity to send ships to this side of the world.
 
-- The book Lost Tribes and Promised Lands records Montezinos meeting Indians who recited the Shema in Hebrew and said they were of the tribe of Reuben, with the tribe of Joseph living on an island nearby: Puerto Rico.
+<div class="reading">
+
+Reading from *Lost Tribes and Promised Lands*, p. 364  *[[1:28:19](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5299s)]*
+
+> Blessed be the name of the Lord who has not made me an idolater, a barbarian, a negro, an Indian. When suddenly … stopped. Those Indians, he told himself, they are Hebrews.
+
+> The two men waited. Eventually, a canoe appeared, bearing three men and a woman, all of them Indians, to the place where Francisco and Montezinos were standing at the water's edge. Upon hearing her words, they rose, went over … Montezinos, and to his utter astonishment said, Shema Israel Adonai Elohenu Adonai Ehad, Hear, O Israel, the Lord our God, the Lord is one. They had recited in Hebrew the fundamental credo in Judaism.
+
+> They told him that they were themselves of the tribe of Reuben, and that the tribe of Joseph lived on an island nearby.
+
+- What is that island? Puerto Rico.
+
+</div>
 
 
 **[Hosea 7:8](/bible/hosea/7#v8)**  *[[1:33:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5620s)]*
@@ -385,6 +656,24 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
     Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them? The fourth beast overcame all with much wicked oppression over the whole compass of the earth.
 
 
+<div class="reading">
+
+Reading from an on-screen entry on Ashtoreth  *[[1:42:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6172s)]*
+
+> Ashtoreth, … to the left. Canaanite fertility … figurines have been found throughout Israel beginning in 1400 BC, throughout the conquest, judges period and monarchy, confirming the Old Testament accounts.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen entry on Ephesus  *[[1:43:29](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6209s)]*
+
+> Ephesus, the most important Greek city in Ionia in Asia Minor, the ruins of which lie near the modern village of Selçuk in western Turkey. In Roman times, it was situated on the northern slopes of the hills of Coressus and Pion and south of the Cayster River, the stilt from which has since formed a fertile plain but has caused the coastline to move ever farther west. The temple of Artemis, or Diana, to which Ephesus owed much of its fame and which seems to mark the site of the classical Greek city.
+
+- So we about to read about Diana. We're about to read about good old wicked Diana.
+
+</div>
+
 **[Acts 19:18-24](/bible/acts/19#v18)**  *[[1:44:08](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6248s)]*
 
 > <sup>[18](/bible/acts/19#v18)</sup> And many that believed came, and confessed, and shewed their deeds.
@@ -401,9 +690,19 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 >
 > <sup>[24](/bible/acts/19#v24)</sup> For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 
-- Ephesus, the most important Greek city in Asia Minor, owed its fame to the temple of Artemis, or Diana. Apollos and then Paul came to Ephesus and found disciples there.
+- Apollos and then Paul came to Ephesus and found disciples there.
 
-- Many that believed confessed their deeds, and many which used curious arts brought their books and burned them, worth fifty thousand pieces of silver. Curious arts are the magical arts of the Ephesian conjurers: witchcraft was what the city was known for.
+- Many that believed confessed their deeds, and many which used curious arts brought their books and burned them, worth fifty thousand pieces of silver.
+
+<div class="reading">
+
+Reading from a search for the meaning of *curious arts*  *[[1:45:59](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6359s)]*
+
+> Curious arts: magical arts, jugglery practiced by the Ephesian conjurers.
+
+- So curious arts is going into what? Witchcraft. These are books of witchcraft.
+
+</div>
 
 - Timotheus who ministered to Paul here is the Timothy of the epistles. Then arose no small stir about that way, and the way is Christ, whom a city given to witchcraft had a problem with.
 
@@ -434,7 +733,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 - Diana of the Ephesians is depicted covered in breasts, a fertility goddess like Baal. When they knew Paul's companion was a Jew, the whole theater cried 'Great is Diana of the Ephesians' for two hours.
 
-- The Greco-Roman world the gospel entered was a tough pagan environment where ritual worship of Diana involved sexual immorality, drunkenness and orgies. That is the lifestyle the Ephesians came out of.
+<div class="reading">
+
+Reading from a blog on the Greco-Roman world  *[[1:49:34](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6574s)]*
+
+> Probably we underestimate the long odds faced by the Christian faith among its earliest disciples and congregations. The ancient Greco-Roman world in which the gospel needed to be preached, and where its followers needed to do things like bear the fruit of the Spirit, was a tough pagan environment. Sexual immorality was high. Debauchery common. Ritual worship of gods and goddesses like Diana or Artemis, pictured with this blog, involved all manner of … behavior.
+
+- So y'all see, not only did it go into filling theaters, they was what? Having orgies. They was getting drunk. They was doing all of that.
+
+</div>
 
 - Diana is the queen of heaven, Ashtoreth, the same as Yemanja. Our people were caught up in it in ancient times and are today.
 

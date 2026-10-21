@@ -23,12 +23,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 
 - *[[18:14](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=1094s)]* **The class thumbnail animation: is this the man that made the earth to tremble, that did shake kingdoms? The hammer of the earth. In one hour is thy judgment come; the queen becomes ash.** — Fire. Guests in the building from DC, Detroit, Tupelo, Rochester, Austin, and Jacksonville, where a raccoon walked toward the bishop and Captain Enoch at Tabernacles.
 - *[[32:07](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=1927s)]* **A pyramid of the world's power structure: Satan and the fallen angels, the Rothschilds and Rockefellers and thirteen super-rich families, secret societies, world leaders, the Vatican and policy makers, religious leaders and politicians, Hollywood and the music industry, law enforcement and the IRS, and the common population at the bottom.** — That is the gates of hell of Matthew 16:18 and the spiritual wickedness in high places of Ephesians 6:12. To overthrow the system you would have to go through all of that, and only God can.
-- *[[33:12](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=1992s)]* **The colorful chart: the all-seeing eye of Ra from the dollar bill, the crown council of 13, the committee of 300, the think tanks, the world financial control of the IMF, World Bank, and central banks, world resource control, religion, government, media, and the population as labor units and debt slaves: you are here.** — When Trump threatened Canada, the man who runs the electrical grid from Canada down the Northeast said he would shut the power off, and Trump backed up. They work together, and the elite hand the media the message for us.
 - *[[50:05](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3005s)]* **The street layout of Washington, D.C., forming a pentagram.** — Stand now with thine enchantments and the multitude of thy sorceries wherein thou hast laboured from thy youth: 1776. Not a God-fearing country but witchcraft, and the Epstein letters about killing babies have some truth.
 - *[[54:32](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3272s)]* **Pastor Pam saying nothing that goes in you defiles you, bless your food and eat the pork, and a Christian teacher answering that Jesus never called the pig clean and no writer from Genesis to Revelation eats anything unclean.** — The prophets prophesy by Baal, Jeremiah 2:8.
 - *[[55:26](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3326s)]* **A commentator on why black men left the black church: name one major thing it has done for the community in sixty years; we are in on the hustle; no man worth his salt will let you elevate a pastor to God status over him; churches full of 300-pounders working out only for a thirst trap; not one school board or governor fears the black church; you have become modern-day Pharisees.** — Sixty years is 1965 to 2025, and now it is going back to before 1965. In Christianity women put the pastor above their husbands, and sisters here have tried to use us as a whipping stick against their husbands; sit down. The churches breed weak beta males who need to get their manhood back from their wife's pocketbook.
 - *[[1:03:51](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3831s)]* **A black church congregation doing a lewd dance during service.** — Total foolishness. That is why black women fill the churches.
-- *[[1:05:15](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3915s)]* **A commentary on the textbook African Americans: A Concise History: congregations did not want scholarly sermons; Booker T. Washington said three-fourths of Baptist ministers and two-thirds of Methodists were unfit mentally or morally to preach; Du Bois wanted the noisy and unclean leaders replaced; black clergymen refused to challenge white supremacy and blamed black people's shameful situations on their sinful ways.** — It is right there in the book. Today's pastors went to divinity school and adopted Roman Catholic ways because of that criticism, and they still refuse to challenge white supremacy.
 - *[[1:12:19](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4339s)]* **Pastor Mike Todd on gay men: I wish there was an option of other in the kingdom; I do not know.** — Their shepherds have caused them to go astray, Jeremiah 50:6.
 - *[[1:13:44](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4424s)]* **Black men in red dresses at an annual church charity event, and a brother answering that a man has no business in a skirt; just give the money.** — Every time a black man is in the spotlight they slide in something to demasculate him and take away the aggression God gave him to protect and lead.
 - *[[1:15:37](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4537s)]* **A woman gushing that the pastor of the Powerhouse Church of Miami introduced his partner as the first gentleman, then footage of the church.** — Black women who support homosexuality raise the effeminate boys and then say they cannot find a good man. These are the shepherds of our people.
@@ -36,11 +34,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 - *[[1:25:10](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=5110s)]* **A prosperity preacher declaring a year of overflow, and a Reformed pastor saying ninety to ninety-five percent of the black church is heretical, that black men lack the theology to pastor, and that the black church should be split up and sent to good God-fearing white churches.** — We agree with everything he said; it is what Du Bois and Booker T. said. But the remedy is not the white church.
 - *[[1:40:16](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6016s)]* **A report on Operation Midnight Hammer: seven B-2 bombers, 125 warplanes, 75 precision weapons, fourteen bunker-busting MOPs dropped on Natanz and Fordow in 25 minutes, with satellite images suggesting Iran moved its enriched uranium and equipment first.** — They named it the Midnight Hammer because their scholars know exactly who they are: the hammer of the whole earth, Jeremiah 50:23. It is the church down here that is clueless.
 - *[[1:51:35](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6695s)]* **A map of American military bases around the world.** — When the country is destroyed, like Olympus Has Fallen, the military is still in full effect from its bases. That is why no chosen man can be appointed over her, and the Lord himself must step in.
-- *[[1:55:33](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6933s)]* **The Guardian: Israel's bombing of Qatar threatens the fabric of Gulf security; Gulf states no longer believe a close US relationship guarantees their safety, after Israel tried to kill the Hamas negotiators in Doha the day after accepting the ceasefire proposal.** — Saddam told the Arabs that once they finished with him they would come for the rest. Bombing peace talks is how the least of the flock draws Babylon out.
 - *[[1:58:42](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=7122s)]* **An Israeli official: Turkey is the new Iran; Erdogan seeks to encircle Israel, Turkey and Qatar nourish the Islamic Brotherhood, and Turkey is trying to flip Saudi Arabia and establish a hostile Sunni axis with nuclear Pakistan.** — Turkey is north of Israel. Countries from the north are coming down against these people.
 - *[[2:22:22](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=8542s)]* **A report on the Pakistan, Saudi Arabia, and Turkey defense pact: an article-five style alliance with 1.2 million personnel, over a thousand fighter jets, six thousand tanks, 350 naval units, and Pakistan's nuclear weapons, which all Muslim countries may eventually join.** — Turkey is a NATO member, but Erdogan wants a NATO for the Arab nations because he hates the Israelis. That is 2 Esdras 15:28-31 unfolding.
 - *[[2:29:12](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=8952s)]* **Qatar calling an emergency Arab Islamic summit of 57 Muslim countries after the strike on Doha, with Saudi Crown Prince Mohammed bin Salman giving Qatar permission for revenge and options including an oil embargo and cutting ties with Israel.** — The dragons conspiring together, remembering their nature. I like it when Bible prophecy unfolds before our eyes.
-- *[[2:38:32](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=9512s)]* **The definition of requite: to make appropriate return for a favor, service, or wrongdoing.** — Raise me up, that I may requite them, Psalms 41:10. Christ rises on the third day for vengeance.
 
 ## Scriptures Opened
 
@@ -82,6 +78,44 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 - We wrestle not against flesh and blood, but against principalities, powers, the rulers of the darkness of this world, and spiritual wickedness in high places. Sometimes the carnal mind says if we organize we can overthrow the system; no. The governments on this earth are set up by Satan, and God allows it: Daniel 4:17, the most High ruleth in the kingdom of men and setteth up over it the basest of men.
+
+<div class="reading">
+
+Reading from an on-screen chart of the world's power structure  *[[33:20](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=2000s)]*
+
+> Crown Council of 13 World's Richest Most Powerful Families. Committee of 300 World's Richest Most Powerful Subfamilies.
+
+- That's the eye on the dollar bill. They got the queen. She's dead now. And when they die, someone always replaces them.
+
+> Think tanks, the Trilateral Commission, Royal Institute of International Affairs, Council of Foreign Relations, United Nations, the Bilderberg Group, Club of Rome.
+>
+> World financial control.
+
+- So if you think what we read in Ephesians 6 and 12, this is an illustration.
+
+> International Monetary Fund, WB, World Bank, central banks, tax revenue, interest revenue, Bank of International Settlements.
+>
+> World resource control.
+
+- They all work in conjunction with each other. That's your credit cards, your banking system, gas, and these are run by super rich family. I'll give you an example that happened in the news last year where Trump threatened to take Canada, and there was the rich man that ran the electrical unit which runs from Canada down throughout the Northeast, through New York, all the way down. He said if Trump tries to take Canada, I'll shut all their electricity off in the Northeast. What you going to do then? Trump had to back up. So many times we think here in America they run everything. No, they work together. … people in Canada work with America.
+
+> World population. Religions teaches heavenly rewards for obeying rules.
+
+- You got Islam, Christianity, Judaism.
+
+> Government, secret service, military, police, courts, prisons. Education, programming the intellectual with status quo academia. Media controls the elite's message to the masses.
+
+- So the elite gives the message to the media to transmit to us.
+
+> Population resource equals labor units and debt slaves.
+
+- That's us, you and me.
+
+> You are here.
+
+- That's us down at the bottom.
+
+</div>
 
 - 1 Corinthians 1:21-29: it pleased God by the foolishness of preaching to save them that believe; that is how we get out, not by fighting the pyramid. Not many wise, mighty, or noble are called; God hath chosen the foolish, the weak, the base, and the despised, the nation not desired, and things which are not, to bring to nought things that are, that no flesh should glory in his presence. Ephesians 1:4-5: chosen in him before the foundation of the world and predestinated unto the adoption of children. We did nothing magnanimous; he chose us to wake up in these last days.
 
@@ -155,6 +189,24 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 
 - I brought you into a plentiful country, Canaan, but when ye entered ye defiled my land and made mine heritage an abomination. The priests said not, Where is the Lord; they that handle the law knew me not; the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit. It is no different today: Pastor Pam and the pork, and the black church that Du Bois and Booker T. Washington already called unfit, that never challenges white supremacy.
 
+
+<div class="reading">
+
+Reading from *African Americans: A Concise History*, third edition, read in a video commentary  *[[1:05:07](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=3907s)]*
+
+> The church service itself was most important aspect of religious life for most black congregations. Parishioners were expected to participate in the service and not merely listen quietly to the minister sermon. Most congregations did not want scholarly sermons or theologically sound addresses.
+>
+> Many black ministers had little or no education. Poorly prepared and unqualified couragemen who relied on ungrammatical and rhetorical appeals disturbed some black leaders. In 1890, Booker T. Washington claimed that "three-fourths of the Baptist ministers and two-thirds of the Methodists are unfit either mentally or morally or both to preach the gospel to anyone or to attempt to lead anyone." W. E. B. Du Bois wanted black churches free of "the noisy and unclean leaders of the thoughtless mob" and clergy replaced by thoughtful "apostles of service and sacrifice."
+>
+> … black preachers like James F. Marshall. Black couragemen like Marshall refused to challenge white supremacy.
+
+- Wait, wait, wait. You see that? They refuse to challenge white supremacy. Don't we see that today? The black church don't say nothing against white supremacy. They are white supremacist.
+
+> Even vow comments might invite retaliation or even lynching. Black clergymen, like their white counterparts, often stress middle class values to their congregations while suggesting that many black people found themselves in shameful situations because of their sinful ways.
+
+- It's right here in the book. I'm not making it up. It's right here in the book. You all been sold a bill of goods.
+
+</div>
 
 **[Jeremiah 50:1-20](/bible/jeremiah/50#v1)**  *[[1:07:39](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=4059s)]*
 
@@ -283,6 +335,26 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 
 - Hear ye the counsel of the Lord against Babylon and the land of the Chaldeans: surely the least of the flock shall draw them out. The Israelis are that tiny speck among the brown and black nations; they attack Qatar during peace talks, cry for help, and America comes to their rescue, and its military gets destroyed over there, as the destroyers sailed for Iran after Netanyahu's Washington visit. Surely he shall make their habitation desolate with them; at the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
 
+<div class="reading">
+
+Reading from an article from *The Guardian*  *[[1:55:39](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=6939s)]*
+
+> Monday briefing. Israel's bombing of Qatar threatens the fabric of Gulf security.
+
+- So the Israelis bomb Qatar. And Turkey and Iran was saying no. Remember Saddam, it was Saddam Hussein. He said once they finish with me, they going to get all the rest of y'all, cuz Saddam was trying to unite all the Arabs. So now nobody listened to Saddam. Now Israel bomb Qatar.
+
+> In today's newsletter: For decades, Gulf states have believed that a close relationship with the US will guarantee their safety.
+
+- Qatar was friends with the US. They said, we good. Israel said, no, no, we going to bomb you cuz we want your land, too.
+
+> That is no longer the case.
+>
+> Last Monday, Israel's foreign minister, Gideon Sa'ar, announced that his country had accepted the US ceasefire proposal to end the devastating war in Gaza. The very next day, Israel attempted to kill Hamas negotiation team while they were in Qatar's capital to discuss that same proposal.
+
+- So they're doing peace talks and the Israelis bomb them during the peace talks.
+
+</div>
+
   Precepts:
   - **[Jeremiah 51:5](/bible/jeremiah/51#v5)**
     > <sup>[5](/bible/jeremiah/51#v5)</sup> For Israel hath not been forsaken, nor Judah of his God, of the Lord of hosts; though their land was filled with sin against the Holy One of Israel.
@@ -352,7 +424,21 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 
 - Go, set a watchman, let him declare what he seeth. He saw a chariot with a couple of horsemen, a chariot of asses and of camels, and cried, A lion: I stand continually upon the watchtower in the daytime and am set in my ward whole nights. And he answered, Babylon is fallen, is fallen, and all the graven images of her gods he hath broken unto the ground. Is fallen twice, because Israel falls too. Cesare Borgia, Santa Claus, the Thanksgiving turkey, the Easter bunny, and the Greek statues everywhere, finished.
 
-- The burden of Dumah, a son of Ishmael, Genesis 25:14, calling out of Seir, Petra, where Arabs live today: watchman, what of the night? The burden upon Arabia, Saudi Arabia: the travelling companies of Dedanim, sons of Keturah, Genesis 25:3, and the inhabitants of Tema, Ishmael's son, Genesis 25:15, all Arabs, as the Zondervan dictionary says all Arabs claim descent from Ishmael, brought water and bread to them that fled from the drawn sword and the bent bow, the missiles, and the grievousness of war. Within a year, according to the years of an hireling, all the glory of Kedar, Saudi Arabia, the Dubai the women want to see, shall fail, and the residue of the mighty men of Kedar shall be diminished, for the Lord God of Israel hath spoken it.
+- The burden of Dumah, a son of Ishmael, Genesis 25:14, calling out of Seir, Petra, where Arabs live today: watchman, what of the night? The burden upon Arabia, Saudi Arabia: the travelling companies of Dedanim, sons of Keturah, Genesis 25:3, and the inhabitants of Tema, Ishmael's son, Genesis 25:15, all Arabs.
+
+<div class="reading">
+
+Reading from the *Zondervan Bible Dictionary*, on Ishmaelite  *[[2:19:42](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=8382s)]*
+
+> Ishmaelite.
+>
+> All Arabs, following Muhammad's example, claimed descent from Ishmael.
+
+- So … the scholars know that.
+
+</div>
+
+- The inhabitants of Tema brought water and bread to them that fled from the drawn sword and the bent bow, the missiles, and the grievousness of war. Within a year, according to the years of an hireling, all the glory of Kedar, Saudi Arabia, the Dubai the women want to see, shall fail, and the residue of the mighty men of Kedar shall be diminished, for the Lord God of Israel hath spoken it.
 
   Precepts:
   - **[2 Esdras 15:28-45](/bible/2-esdras/15#v28)**
@@ -404,6 +490,16 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion",
 > <sup>[11](/bible/psalms/41#v11)</sup> By this I know that thou favourest me, because mine enemy doth not triumph over me.
 
 - Mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me: Judas Iscariot, a traitor. Every IUIC sanctuary must have an inner circle of three to five loyal, faithful brothers who know the scriptures and fear God, not a circle of partiality of brothers who kiss your behind, or when Jacob's trouble comes you all fall. Traitors will be dealt with.
+
+<div class="reading">
+
+Reading from the definition of *requite*, put up on the screen  *[[2:39:04](https://www.youtube.com/watch?v=0VT8V-zyVD8&t=9544s)]*
+
+> Make appropriate return for a favor, service or wrongdoing.
+
+- You see that? So when Christ, he says, raise me up so I could get what? Vengeance. Vengeance. That's some good, beautiful stuff right there.
+
+</div>
 
 - But thou, O Lord, be merciful unto me, and raise me up, the third day, that I may requite them: vengeance. By this I know that thou favourest me, because mine enemy doth not triumph over me. Judas and all who turned against Christ are back on this earth: Revelation 1:7, he cometh with clouds, his chariots they call UFOs, and every eye shall see him, and they also which pierced him. Matthew 16:28: there be some standing here which shall not taste of death till they see the Son of man coming in his kingdom; those evil spirits do not taste death until he comes, and then they feel it.
 
