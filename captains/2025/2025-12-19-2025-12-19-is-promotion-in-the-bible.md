@@ -1,0 +1,294 @@
+---
+title: "Is Promotion In The Bible??"
+slug: "2025/2025-12-19-is-promotion-in-the-bible"
+date: "2025-12-19"
+teacher: "Captain Emmanuel"
+description: "15 Minutes w/ The Captains · 2025-12-19"
+tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2025-12-19</p>
+
+<span class="opens"><b>Opens</b> [Ps 75](/bible/psalms/75) · [Sir 20](/bible/sirach/20) · [Sir 15](/bible/sirach/15) · [2 Esdras 1](/bible/2-esdras/1) · [Exod 33](/bible/exodus/33) · [Num 13](/bible/numbers/13) · [Num 27](/bible/numbers/27) · [Num 34](/bible/numbers/34) · [1 Sam 13](/bible/1-samuel/13) · [1 Sam 15](/bible/1-samuel/15) · [1 Sam 16](/bible/1-samuel/16) · [1 Sam 18](/bible/1-samuel/18) · [1 Sam 24](/bible/1-samuel/24) · [2 Sam 5](/bible/2-samuel/5) · [2 Sam 6](/bible/2-samuel/6) · [Ps 109](/bible/psalms/109) · <i>and 3 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="4lO97R50BuI"></div>
+
+## Introduction
+
+*[[0:18](https://www.youtube.com/watch?v=4lO97R50BuI&t=18s)]* Shalom. Most High in Christ bless. Welcome to another edition of 15 minutes with the captains. Today you got myself, Captain Emmanuel of IUIC Arkansas. And today's topic is: is promotion in the Bible? A lot of brothers and sisters, oftentimes, unfortunately, when they're butt hurt and they leave, and people just on the outside looking in that have never seen a movement such as this, one of their many criticisms is, yeah, they do promotions and they got ranking. The Bible ain't about ranking. We're all one in Christ Jesus. So we going to cover: is promotion in the Bible?
+
+## Scriptures Opened
+
+**[Psalms 75:5-7](/bible/psalms/75#v5)**  *[[1:00](https://www.youtube.com/watch?v=4lO97R50BuI&t=60s)]*
+
+> <sup>[5](/bible/psalms/75#v5)</sup> Lift not up your horn on high: speak not with a stiff neck.
+>
+> <sup>[6](/bible/psalms/75#v6)</sup> For promotion cometh neither from the east, nor from the west, nor from the south.
+>
+> <sup>[7](/bible/psalms/75#v7)</sup> But God is the judge: he putteth down one, and setteth up another.
+
+- But God is the judge: but who? God is the judge. What does God do?
+
+- he putteth down one, and setteth up another: so God promotes. He puts down one and sets up another. That comes from God.
+
+
+**[Sirach 20:27](/bible/sirach/20#v27)**  *[[1:34](https://www.youtube.com/watch?v=4lO97R50BuI&t=94s)]*
+
+> <sup>[27](/bible/sirach/20#v27)</sup> A wise man shall promote himself to honour with his words: and he that hath understanding will please great men.
+
+- A wise man shall promote himself to honour with his words: right. The Bible says, A wise man shall promote himself to honor with his words.
+
+- and he that hath understanding will please great men: right? So through wisdom, a wise man will end up being promoted.
+
+
+**[Sirach 15:5](/bible/sirach/15#v5)**  *[[2:03](https://www.youtube.com/watch?v=4lO97R50BuI&t=123s)]*
+
+> <sup>[5](/bible/sirach/15#v5)</sup> She shall exalt him above his neighbours, and in the midst of the congregation shall she open his mouth.
+
+- She shall exalt him above his neighbours: wisdom will exalt a man above his neighbors. What is that? Promotion.
+
+- and in the midst of the congregation shall she open his mouth: is that not what we just read? A wise man with his words. So when you're feeding the sheep of God, that makes you a leader. That makes you a shepherd. And that calls for promotion. And it's wisdom that does that.
+
+
+**[2 Esdras 1:13](/bible/2-esdras/1#v13)**  *[[2:37](https://www.youtube.com/watch?v=4lO97R50BuI&t=157s)]*
+
+> <sup>[13](/bible/2-esdras/1#v13)</sup> I led you through the sea and in the beginning gave you a large and safe passage; I gave you Moses for a leader, and Aaron for a priest.
+
+- I gave you Moses for a leader, and Aaron for a priest: right. So when we was delivered out of our first captivity, Egypt, the Lord gave us Moses for a leader. So Moses was our first leader as a nation.
+
+
+**[Exodus 33:11](/bible/exodus/33#v11)**  *[[3:06](https://www.youtube.com/watch?v=4lO97R50BuI&t=186s)]*
+
+> <sup>[11](/bible/exodus/33#v11)</sup> And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
+
+- but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle: right? So Joshua, Moses's servant, was a young man. And he cleaved unto Moses, but not only to Moses, but to God. That's why he didn't depart out of the tabernacle.
+
+
+**[Numbers 13:2-3](/bible/numbers/13#v2)**  *[[3:46](https://www.youtube.com/watch?v=4lO97R50BuI&t=226s)]*
+
+> <sup>[2](/bible/numbers/13#v2)</sup> Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
+>
+> <sup>[3](/bible/numbers/13#v3)</sup> And Moses by the commandment of the Lord sent them from the wilderness of Paran: all those men were heads of the children of Israel.
+
+- all those men were heads of the children of Israel: so all of these men were already heads of the children of Israel, but it was divided up into tribes.
+
+
+**[Numbers 13:8](/bible/numbers/13#v8)**  *[[4:24](https://www.youtube.com/watch?v=4lO97R50BuI&t=264s)]*
+
+> <sup>[8](/bible/numbers/13#v8)</sup> Of the tribe of Ephraim, Oshea the son of Nun.
+
+- Of the tribe of Ephraim, Oshea the son of Nun: so who is the leader or the head of the tribe of Ephraim? That Oshea was Joshua, that young man from Exodus 33 and 11. That's another rendition of his name. So he was the head of the tribe of Ephraim, but Moses was the leader of all the tribes, and he was a servant to Moses.
+
+
+**[Numbers 27:15-21](/bible/numbers/27#v15)**  *[[4:52](https://www.youtube.com/watch?v=4lO97R50BuI&t=292s)]*
+
+> <sup>[15](/bible/numbers/27#v15)</sup> And Moses spake unto the Lord, saying,
+>
+> <sup>[16](/bible/numbers/27#v16)</sup> Let the Lord, the God of the spirits of all flesh, set a man over the congregation,
+>
+> <sup>[17](/bible/numbers/27#v17)</sup> Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd.
+>
+> <sup>[18](/bible/numbers/27#v18)</sup> And the Lord said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him;
+>
+> <sup>[19](/bible/numbers/27#v19)</sup> And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
+>
+> <sup>[20](/bible/numbers/27#v20)</sup> And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient.
+>
+> <sup>[21](/bible/numbers/27#v21)</sup> And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the Lord: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
+
+- set a man over the congregation: so this is right after the Lord told Moses that he would not lead the children of Israel into the promised land. The Lord was going to take him from them, and a generation would have to continue into the promised land without him. So Moses made this request to the Lord. Set a man over the congregation.
+
+- Take thee Joshua the son of Nun: right? That's Oshea the son of Nun.
+
+- that all the congregation of the children of Israel may be obedient: no, just the tribe of Ephraim? All 12 tribes. May be obedient to Joshua. So he was just the head of Ephraim. But now after Moses has to die, guess what? He's going to be promoted to the leader of the entire nation.
+
+- even all the congregation: even all the congregation, not just one tribe, like before time.
+
+
+**[Numbers 34:17-18](/bible/numbers/34#v17)**  *[[6:53](https://www.youtube.com/watch?v=4lO97R50BuI&t=413s)]*
+
+> <sup>[17](/bible/numbers/34#v17)</sup> These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.
+>
+> <sup>[18](/bible/numbers/34#v18)</sup> And ye shall take one prince of every tribe, to divide the land by inheritance.
+
+- Eleazar the priest, and Joshua the son of Nun: right. Eleazar the priest and Joshua the son of Nun.
+
+
+**[Numbers 34:24](/bible/numbers/34#v24)**  *[[7:20](https://www.youtube.com/watch?v=4lO97R50BuI&t=440s)]*
+
+> <sup>[24](/bible/numbers/34#v24)</sup> And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.
+
+- And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan: so wait a minute. So earlier, in the same book of Numbers, when Moses was still the leader, Joshua was the head or the prince of the tribe of Ephraim. But after Moses has to die, Joshua got raised up to the leader of all Israel. Guess what? Another brother got promoted to be the head of the tribe. Kemuel got promoted. You understand?
+
+
+**[1 Samuel 13:13-14](/bible/1-samuel/13#v13)**  *[[8:02](https://www.youtube.com/watch?v=4lO97R50BuI&t=482s)]*
+
+> <sup>[13](/bible/1-samuel/13#v13)</sup> And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the Lord thy God, which he commanded thee: for now would the Lord have established thy kingdom upon Israel for ever.
+>
+> <sup>[14](/bible/1-samuel/13#v14)</sup> But now thy kingdom shall not continue: the Lord hath sought him a man after his own heart, and the Lord hath commanded him to be captain over his people, because thou hast not kept that which the Lord commanded thee.
+
+- the Lord hath sought him a man after his own heart: so in our earliest days of our conception as a nation, there was clearly promotion. So Saul, our first king, rebelled against God. God said, All right, I'm going to replace you with somebody that's after my heart.
+
+
+**[1 Samuel 15:28](/bible/1-samuel/15#v28)**  *[[8:56](https://www.youtube.com/watch?v=4lO97R50BuI&t=536s)]*
+
+> <sup>[28](/bible/1-samuel/15#v28)</sup> And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
+
+- and hath given it to a neighbour of thine, that is better than thou: that is better than thou. The Lord going to replace you with somebody better than you. And we got to remember that all of us are replaceable. Understand that.
+
+
+**[1 Samuel 16:13](/bible/1-samuel/16#v13)**  *[[9:22](https://www.youtube.com/watch?v=4lO97R50BuI&t=562s)]*
+
+> <sup>[13](/bible/1-samuel/16#v13)</sup> Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the Lord came upon David from that day forward. So Samuel rose up, and went to Ramah.
+
+- and the Spirit of the Lord came upon David from that day forward: so the anointing, the spirit, came on David.
+
+
+**[1 Samuel 16:21](/bible/1-samuel/16#v21)**  *[[9:42](https://www.youtube.com/watch?v=4lO97R50BuI&t=582s)]*
+
+> <sup>[21](/bible/1-samuel/16#v21)</sup> And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer.
+
+- and he became his armourbearer: so David's humble beginnings was being an armor bearer, or a servant to Saul, just how Joshua was a servant to Moses.
+
+
+**[1 Samuel 18:5](/bible/1-samuel/18#v5)**  *[[10:00](https://www.youtube.com/watch?v=4lO97R50BuI&t=600s)]*
+
+> <sup>[5](/bible/1-samuel/18#v5)</sup> And David went out whithersoever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.
+
+- and Saul set him over the men of war: so this is over a period of time, from chapter 16 to chapter 18, right? David slew the giant. Years went by. So David became over all the men of war. Saul set him over all the men of war.
+
+
+**[1 Samuel 18:13](/bible/1-samuel/18#v13)**  *[[10:40](https://www.youtube.com/watch?v=4lO97R50BuI&t=640s)]*
+
+> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
+
+- Therefore Saul removed him from him: so Saul, because of his jealousy, him seeing that the spirit of the Lord was on David and was departed from him, he started to hate on David. So he removed David from him.
+
+- and made him his captain over a thousand: right. So David went from being over all the men of war to just being a captain over a thousand. So the brother demoted David. But watch this.
+
+
+**[1 Samuel 24:17](/bible/1-samuel/24#v17)**  *[[11:15](https://www.youtube.com/watch?v=4lO97R50BuI&t=675s)]*
+
+> <sup>[17](/bible/1-samuel/24#v17)</sup> And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
+
+- Thou art more righteous than I: so Saul acknowledged, after multiple attempts on David's life, and David ended up sparing him. He said, David, you better than me.
+
+
+**[1 Samuel 24:20](/bible/1-samuel/24#v20)**  *[[11:38](https://www.youtube.com/watch?v=4lO97R50BuI&t=698s)]*
+
+> <sup>[20](/bible/1-samuel/24#v20)</sup> And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand.
+
+- I know well that thou shalt surely be king: I know you going to be king, David.
+
+- and that the kingdom of Israel shall be established in thine hand: I know the Lord going to promote you, bro. You understand? David was not Saul's son. He wasn't heir to the throne. So Saul knew spiritually that the Lord was going to promote David to king.
+
+
+**[2 Samuel 5:1-3](/bible/2-samuel/5#v1)**  *[[12:04](https://www.youtube.com/watch?v=4lO97R50BuI&t=724s)]*
+
+> <sup>[1](/bible/2-samuel/5#v1)</sup> Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
+>
+> <sup>[2](/bible/2-samuel/5#v2)</sup> Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.
+>
+> <sup>[3](/bible/2-samuel/5#v3)</sup> So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the Lord: and they anointed David king over Israel.
+
+- when Saul was king over us, thou wast he that leddest out and broughtest in Israel: was really the leader all along.
+
+- and the Lord said to thee: the what? The Lord said to thee, David.
+
+- and thou shalt be a captain over Israel: in due time, I'mma raise you up, David.
+
+- and they anointed David king over Israel: so what happened? The Lord put down one, which was Saul, and raiseth up another, which was David. That's promotion. That's promotion from God.
+
+
+**[2 Samuel 6:21](/bible/2-samuel/6#v21)**  *[[13:04](https://www.youtube.com/watch?v=4lO97R50BuI&t=784s)]*
+
+> <sup>[21](/bible/2-samuel/6#v21)</sup> And David said unto Michal, It was before the Lord, which chose me before thy father, and before all his house, to appoint me ruler over the people of the Lord, over Israel: therefore will I play before the Lord.
+
+- And David said unto Michal: this was Saul's daughter, who David married, and he had to rebuke her cuz she got out of line.
+
+- It was before the Lord, which chose me before thy father: so I was dancing before the Lord, which chose me before, meaning instead of, your father.
+
+- to appoint me ruler over the people of the Lord, over Israel: so I was dancing before the Lord that appointed me to be ruler over Israel.
+
+- therefore will I play before the Lord: so don't stop hating on me. I'mma turn up. I'm going do my thing. Matter of fact, you go over there and you just be in a room by yourself for the rest of life.
+
+
+**[Psalms 109:8](/bible/psalms/109#v8)**  *[[13:58](https://www.youtube.com/watch?v=4lO97R50BuI&t=838s)]*
+
+> <sup>[8](/bible/psalms/109#v8)</sup> Let his days be few; and let another take his office.
+
+- Let his days be few: so we dealt with the early days of us being a nation coming out of Egypt, with Moses, then Joshua, then Kemuel, we saw promotion. Then even with evil Saul, the first king, you see the Lord raise up David. Now watch this. So this is for the wicked man. God said, Let his days be few.
+
+- and let another take his office: what did God say? Let another take his office. Ain't that what happened with Saul? The Lord allowed David to take his office.
+
+
+**[Acts 1:16-26](/bible/acts/1#v16)**  *[[14:43](https://www.youtube.com/watch?v=4lO97R50BuI&t=883s)]*
+
+> <sup>[16](/bible/acts/1#v16)</sup> Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+>
+> <sup>[17](/bible/acts/1#v17)</sup> For he was numbered with us, and had obtained part of this ministry.
+>
+> <sup>[18](/bible/acts/1#v18)</sup> Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
+>
+> <sup>[19](/bible/acts/1#v19)</sup> And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
+>
+> <sup>[20](/bible/acts/1#v20)</sup> For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
+>
+> <sup>[21](/bible/acts/1#v21)</sup> Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
+>
+> <sup>[22](/bible/acts/1#v22)</sup> Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.
+>
+> <sup>[23](/bible/acts/1#v23)</sup> And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
+>
+> <sup>[24](/bible/acts/1#v24)</sup> And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
+>
+> <sup>[25](/bible/acts/1#v25)</sup> That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.
+>
+> <sup>[26](/bible/acts/1#v26)</sup> And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
+
+- concerning Judas: let's go to the New Testament, cuz we went over promotion in the Old Testament. And I know what you hating ass Christians is thinking. Yeah, y'all do Old Testament stuff. We're under Jesus. You going to learn today. Concerning who? Judas. He was one of the 12 disciples.
+
+- which was guide to them that took Jesus: he was the guide to them that captured Jesus, that arrested Jesus. He was like, Hey, the man who I kiss is who you going to arrest.
+
+- For he was numbered with us: he was one of the 12 at first.
+
+- and had obtained part of this ministry: he was a leader.
+
+- and all his bowels gushed out: right. He hung himself.
+
+- and his bishoprick let another take: now you going to pull another precept. And his what? That's what we just read in Psalm 109. Let another man take his office. What was Judas's office? He was a bishop. That's what the 12 was. The Lord made them bishops. The Lord said, Let another man take his bishoprick, his bishop position, his bishop rank.
+
+- Beginning from the baptism of John: so men that have been around since the baptism of John.
+
+- And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias: so they took two men. And it came down to these two. These two men meet the criteria, but it's only one that we can choose.
+
+- and the lot fell upon Matthias; and he was numbered with the eleven apostles: so what just happened? Matthias was promoted to a bishop.
+
+
+**[1 Timothy 3:1](/bible/1-timothy/3#v1)**  *[[17:41](https://www.youtube.com/watch?v=4lO97R50BuI&t=1061s)]*
+
+> <sup>[1](/bible/1-timothy/3#v1)</sup> This is a true saying, If a man desire the office of a bishop, he desireth a good work.
+
+- If a man desire the office of a bishop: if a man desire the office of a bishop, because the Lord will do that. The Lord will promote you to a bishop. That's what he did with Matthias. If you desire that office.
+
+- he desireth a good work: it's nothing wrong with that. It's nothing wrong with desiring promotion.
+
+
+**[2 Timothy 2:5](/bible/2-timothy/2#v5)**  *[[18:15](https://www.youtube.com/watch?v=4lO97R50BuI&t=1095s)]*
+
+> <sup>[5](/bible/2-timothy/2#v5)</sup> And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
+
+- And if a man also strive for masteries: if you striving for masteries, meaning you want to level up, you want the Lord to raise you up like he did Joshua, like he did Kemuel, like he did David, like he did Matthias.
+
+- yet is he not crowned, except he strive lawfully: your mindset can't be, oh, I want this position so I can tell men what to do and I can get my food first. You understand? It's because you want to feed the flock of God. You want to feed the sheep of Israel like David did. You understand? You willing to make the sacrifices and be on the front line of the battle like Joshua. You understand? You willing to be a witness to all nations and travel the world and push this gospel like Matthias when he joined the number of the apostles. Apostles means sent. You ready to be sent anywhere, everywhere? You understand? You must strive lawfully, not for vain glory, not for flattering titles, but because you love your people and you want to feed your people.
+
+
+## In Closing
+
+*[[19:26](https://www.youtube.com/watch?v=4lO97R50BuI&t=1166s)]* So promotion is in the Bible from front to back, but it comes from the Lord, the righteous. All right, so with that, we say shalom.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=4lO97R50BuI)
