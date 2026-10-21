@@ -1,0 +1,542 @@
+---
+title: "THE THREE TRIALS OF FAITH"
+slug: "2012/2012-10-24-the-three-trials-of-faith"
+date: "2012-10-24"
+teacher: "Elder Nathanyel"
+collection: "The Truth Shall Make You Free"
+description: "The Truth Shall Make You Free · 2012-10-24 · with Deacon Asaph"
+tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-family", "the-body"]
+---
+
+<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Elder Nathanyel, with Deacon Asaph</p>
+
+<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Luke 4](/bible/luke/4) · [Sir 2](/bible/sirach/2) · [1 Pet 4](/bible/1-peter/4) · [Lev 19](/bible/leviticus/19) · [1 Cor 10](/bible/1-corinthians/10) · [James 1](/bible/james/1) · [Rom 5](/bible/romans/5) · [Sir 1](/bible/sirach/1) · [Job 1](/bible/job/1) · [Rom 7](/bible/romans/7) · [Matt 19](/bible/matthew/19) · [1 Cor 7](/bible/1-corinthians/7) · [Eph 5](/bible/ephesians/5) · [Sir 25](/bible/sirach/25) · [Sir 26](/bible/sirach/26) · <i>and 4 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="8IzkF68aBC4"></div>
+
+## Introduction
+
+*[[1:00](https://www.youtube.com/watch?v=8IzkF68aBC4&t=60s)]* Today's topic is three trials of faith. A lot of you are starting to wake up, brothers and sisters, but you all have questions: now that I know I'm an Israelite, now what must I do, what's going to happen from now, where do we go from here? There are going to be three levels of temptation in everyone's life: the personal trial, the marital trial, and the congregational trial. Understand that it's going to happen to you.
+
+## Scriptures Opened
+
+**[John 8:32](/bible/john/8#v32)**  *[[1:00](https://www.youtube.com/watch?v=8IzkF68aBC4&t=60s)]*
+
+> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
+
+- Black man, Latin man, black woman and Latin woman, if you want to be set free from captivity you must accept the truth that you are an Israelite, and Christ died for you and only you, and is returning to deliver you from your slave masters.
+
+
+**[Luke 4:13](/bible/luke/4#v13)**  *[[1:45](https://www.youtube.com/watch?v=8IzkF68aBC4&t=105s)]*
+
+> <sup>[13](/bible/luke/4#v13)</sup> And when the devil had ended all the temptation, he departed from him for a season.
+
+- A lot of you are starting to wake up, brothers and sisters, and we give all praises to the Most High, but you all have questions: now that I know I'm an Israelite, now what must I do? Where do we go from here?
+
+- I want you to understand that last part: for a season. Christ was tempted over and over.
+
+- Temptations come, temptations go. That's what you're all going to find out in your life.
+
+
+**[Sirach 2:1](/bible/sirach/2#v1)**  *[[2:38](https://www.youtube.com/watch?v=8IzkF68aBC4&t=158s)]*
+
+> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
+
+- This is something all of you need to understand, brothers and sisters.
+
+- When you come into this truth, you're waking up that you are an Israelite, a son, a daughter of the Most High: it says prepare your soul for temptation.
+
+- That's why in Luke 4:13 it said, after Satan had ended all his temptation he departed from Christ for a season. Meaning what? I'll be back. He was going to come back and begin the temptation all over again.
+
+
+**[1 Peter 4:12-16](/bible/1-peter/4#v12)**  *[[3:31](https://www.youtube.com/watch?v=8IzkF68aBC4&t=211s)]*
+
+> <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
+>
+> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
+>
+> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
+>
+> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
+>
+> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
+
+- A fiery trial: that's another term for temptation.
+
+- You're coming to this truth, things is going wrong in your life. You're like, what's going on? I realize I'm an Israelite, what's going on in my life now? I never had these problems before, why am I going through this now?
+
+- You come into this truth and you get all obstacles, trials against you because of this truth. On their part he is evil spoken of: it might be your mother, your father, your husband, your wife. Oh, you some Israelite now, now you keeping the Commandments, please. Oh, you don't keep Christmas no more? Come on, that's the time we all get together. You hear afflictions, verbal afflictions.
+
+- Now that's normal when coming to this truth, but Peter says, let none of you suffer as a murderer or a thief or an evildoer. Don't come in this truth and you've not repented of your sins. Oh, I'm an Israelite, but you're still a thief, you're still a liar, you're a drug dealer, a prostitute. No, you should not be like that.
+
+- Or as a busybody in other men's matters: and mainly you sisters, don't come in this truth being busybodies, all in the business in every man's affairs.
+
+- Don't get confounded by the term Christian.
+
+  Precepts:
+  - **[Acts 11:26](/bible/acts/11#v26)**
+    > <sup>[26](/bible/acts/11#v26)</sup> And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
+
+    What's the origin behind this word Christian? The disciples were called Christians first in Antioch. That term Christian means anointed. Who was called the anointed? The Israelites that followed Christ.
+
+
+**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[6:32](https://www.youtube.com/watch?v=8IzkF68aBC4&t=392s)]*
+
+> <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
+>
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
+
+- The law says thou shalt not hate your brother in your heart, meaning your mind.
+
+- Thou shalt in any wise rebuke thy neighbour, meaning thou shalt in any wise correct your neighbour according to the law.
+
+- By you correcting one another you would not suffer sin upon one another. That's the ultimate love you got one for another: you see a brother or sister going off, you're going to correct them in the laws of the Most High.
+
+
+**[Sirach 2:1-10](/bible/sirach/2#v1)**  *[[7:58](https://www.youtube.com/watch?v=8IzkF68aBC4&t=478s)]*
+
+> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
+>
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
+>
+> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
+>
+> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
+>
+> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
+>
+> <sup>[6](/bible/sirach/2#v6)</sup> Believe in him, and he will help thee; order thy way aright, and trust in him.
+>
+> <sup>[7](/bible/sirach/2#v7)</sup> Ye that fear the Lord, wait for his mercy; and go not aside, lest ye fall.
+>
+> <sup>[8](/bible/sirach/2#v8)</sup> Ye that fear the Lord, believe him; and your reward shall not fail.
+>
+> <sup>[9](/bible/sirach/2#v9)</sup> Ye that fear the Lord, hope for good, and for everlasting joy and mercy.
+>
+> <sup>[10](/bible/sirach/2#v10)</sup> Look at the generations of old, and see; did ever any trust in the Lord, and was confounded? or did any abide in his fear, and was forsaken? or whom did he ever despise, that called upon him?
+
+- Get your pens, papers, your Bibles, your Apocrypha, and take careful notes. There's going to be three levels of temptation in everyone's life: that personal temptation, that personal trial, that personal tribulation; then that marital trial, that marital tribulation, the brother or sister that's married; then you may start to gather together with believers, and you're going to have that congregational trial, problems in the congregation. Personal, marital and congregation.
+
+- Set thy heart aright, meaning set your mind according to God's laws. Constantly endure: when each trial comes your way, when tribulation, the temptations come your way, constantly endure.
+
+- Make not haste in time of trouble: trials come your way, I'm leaving this truth because I never had that problem before when I was a nigger in the world. The Bible says no, don't make haste in time of trouble.
+
+- That you may be increased at your last end, like the prophet Job. He was rich, then Satan said to the Lord, let me try that man, and the Most High said, you can kill his kids, you can destroy his home, you can destroy his business, you can even make him sick, but don't take his life. Job 1 verse 1 through chapter 3, you can read about that.
+
+- A lot of times, brothers and sisters, you come into this truth, you might have been that Nicodemus, that Joseph of Arimathaea who had riches, fame and fortune, but when you come into this truth Satan's attacking you now from all sides. You might lose that wealth, that fame you once had. Be patient when you are changed to a low estate.
+
+- You are the gold that's tried in the fire. When people do mining and they get gold from the earth, to refine that gold they melt it down, because inside every piece of gold before it's refined there might be pieces of iron, steel, rock, tin, all kind of other elements that's not needful. So God must melt your life, he must break you down to get the impurities out of you. What's the impurities that's in you? Sin. Some of you might have been liars all your life, thieves, prostitutes, pimps, whoremongers.
+
+- A lot of you don't know yourselves, so when the Most High humbles you, he breaks your life down to the basic elements. Now you say, whoa, I didn't know I was like that. Now you see what's wrong with you, and you realize you got to change that part of you, take that sin out of you.
+
+- You got brothers that say, I'm down with you, I'm down in this truth, but how do you know a brother's down for the cause? When adversity comes. Soon as a little hell comes your way you out the door; you was never sincere in this truth. Some of you brothers back under your wife's skirt, under your mama's skirt. So in order to prove that you're acceptable, the Most High must put you in the furnace of adversity. That's what he did with Job, and when you read the history of Job, he never cursed the Most High. He stood true to the faith.
+
+- Why does it say wait for his mercy? Because weeping may endure for a night, but joy cometh in the morning. No matter what comes your way, be patient and wait for his mercy. Go not aside: don't go aside from the Most High's commandments, from the Most High's laws.
+
+- Your reward shall not fail. What's the reward we all want? We want salvation, we want liberation, we want a kingdom upon the earth.
+
+- Look at the generations of old: look at your forefathers, look at Adam, Abraham, Isaac and Jacob, David, Solomon, Isaiah, Ezekiel, Christ, Peter and Paul, James and John. Even our foremothers: Sarah, Rebecca, Esther, Judith, Mary, Martha. Did the Most High confound any of them that trusted in him? The answer is no. He never put none of them to shame, and he never forsook any of our foreparents.
+
+
+**[1 Corinthians 10:13](/bible/1-corinthians/10#v13)**  *[[15:21](https://www.youtube.com/watch?v=8IzkF68aBC4&t=921s)]*
+
+> <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
+
+- You come into this truth and you don't know what to expect, but the Most High is letting you know right now: in order for him to make a man out of you, a woman out of you, you must go through the furnace of adversity. He's going to allow Satan to tempt you on different levels.
+
+- Some of you write us, some of you call us, and you go, I'm going through something new, brother, this has never happened. No, what you're going through is nothing new. There are brothers and sisters who have gone through or are going through the same thing you're going through right now.
+
+- God will not allow you to be tempted above what you are able. The Most High knows your breaking point. He knows that what comes your way you're able to handle it; he knows you better than you know you.
+
+- What is the way to escape when you're tried, when you're tempted? The word of the Most High. You got to humble down and search the scriptures, be around brothers and sisters that know the scriptures who can guide you in the Bible: what does the scripture say about your life, what you're going through, how to overcome it.
+
+- Some of you brothers come in this truth, your wife was of another nation. There are scriptures that deal with that too: we show you Ezra, we show you Nehemiah, where the Most High said put them away. You got to do what the Bible says. That's your way to escape.
+
+
+**[James 1:1-4](/bible/james/1#v1)**  *[[18:13](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1093s)]*
+
+> <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
+>
+> <sup>[2](/bible/james/1#v2)</sup> My brethren, count it all joy when ye fall into divers temptations;
+>
+> <sup>[3](/bible/james/1#v3)</sup> Knowing this, that the trying of your faith worketh patience.
+>
+> <sup>[4](/bible/james/1#v4)</sup> But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
+
+- The Most High is going to make that man out of you, that woman out of you; he's going to make an Israelite indeed out of you.
+
+- To the twelve tribes which are scattered abroad: this Bible is not written to other nations. It's only written to the twelve tribes of Israel.
+
+- Count it all joy when you fall into divers temptations, meaning the Most High sees you acceptable. Your name's on Satan's lip, and the Most High says, you can do this and you can do that, but spare his or her life.
+
+- There's a purpose behind the trials, the tribulation, the temptation you're going through: it works patience. That's what all of us lack. You at home want the Lord to come now, but if the Lord comes now, you might think you are ready, but you're not ready, because within each of us there's sin that must be purged from us.
+
+- You can't become perfect with a snap of your finger. You got to go through some trials, some tribulation to purge all the sin out of you, so that you can see clear, so that you can understand with a pure mind, a sober mind.
+
+- Entire means whole. You might have one area of your life down pat: thou shalt not eat the swine, I ain't eat no pork. But what about adultery? What about that spirit of a whoremonger? Maybe it's covetousness, following the Joneses: Josie got a new car and you spending your last dime to follow Josie, now you in a poor house. There's different areas of your life that the Most High got to reveal to you.
+
+- Wanting nothing, meaning lacking nothing. Coming out of a Negro, Latino state of mind takes a lot of work for the Most High to bring us to the image of Christ, the mind of Christ. A lot of us come from a world of sin; you can't get rid of it like that, because it's still in your mind.
+
+
+**[Romans 5:3-5](/bible/romans/5#v3)**  *[[21:59](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1319s)]*
+
+> <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
+>
+> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
+>
+> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
+
+- We glory in tribulation: now that's easier said than done. Paul says this because he understood in the spirit of Christ the purpose of tribulation.
+
+- Tribulation worketh patience, like it said in James. You want Christ to come back tomorrow, but guess what, you ain't ready, we ain't ready yet. There's still a level of perfection we must attain to.
+
+- As you're being tried in your tribulation you're learning patience, and patience worketh experience in you, because a lot of you lack experience in how to deal with brothers and sisters, family members, how to deal with yourself when it comes to sin.
+
+- Experience builds hope, because it shows you're able to counsel that brother or sister that comes in new to the faith. You've been there already, you've done that already, and now you're able to counsel them in the Bible, not on how you feel or what you think, but on what thus saith the Lord.
+
+
+**[Sirach 1:23](/bible/sirach/1#v23)**  *[[24:16](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1456s)]*
+
+> <sup>[23](/bible/sirach/1#v23)</sup> A patient man will tear for a time, and afterward joy shall spring up unto him.
+
+- We're still dealing with the three trials of faith; right now I'm dealing with the personal level.
+
+- That patient man is enduring for a time, enduring in whatever comes his or her way, and afterward, when the Most High deems it time for mercy, joy springs up.
+
+
+**[James 1:5-13](/bible/james/1#v5)**  *[[25:06](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1506s)]*
+
+> <sup>[5](/bible/james/1#v5)</sup> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+>
+> <sup>[6](/bible/james/1#v6)</sup> But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
+>
+> <sup>[7](/bible/james/1#v7)</sup> For let not that man think that he shall receive any thing of the Lord.
+>
+> <sup>[8](/bible/james/1#v8)</sup> A double minded man is unstable in all his ways.
+>
+> <sup>[9](/bible/james/1#v9)</sup> Let the brother of low degree rejoice in that he is exalted:
+>
+> <sup>[10](/bible/james/1#v10)</sup> But the rich, in that he is made low: because as the flower of the grass he shall pass away.
+>
+> <sup>[11](/bible/james/1#v11)</sup> For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.
+>
+> <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
+>
+> <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
+
+- A lot of us coming out of that low Negro, Latino state of mind, we lack wisdom. Let's call it straight: we coming out of a dumb state of mind, a white man's frame of mind. You got to fall on your knees and ask the Most High to open your understanding to this Bible.
+
+- That giveth to all men: all men is all Israelite men. Liberally, meaning freely.
+
+- You got to ask for wisdom in faith. You can't just say, oh Lord give me wisdom; it don't come like that.
+
+- He that wavereth is like a wave of the sea: I don't know if he's going to do it for me, should I keep the Commandments, let me ask my grandma, let me ask my aunt. You run to T.D. Jakes on one side, then you run to the Israelites on the next. You're not going to receive things from the Lord.
+
+- Double-minded: one side you for the truth, the other side you're not sure if it's the truth. You got to take a stand in what this Bible says.
+
+- The brother of low degree is exalted because he is not double-minded. He's standing firm no matter what came his way: I'mma stay in this truth regardless; my wife left me, my kids left me, I lost my job, my house burned down, I'm staying fervent in this truth. Our lives is like grass.
+
+- Blessed is the man that endureth temptation: this is what we wanted to get to. You must endure whatever tribulation comes your way. Just like in Luke 4:13, after Satan had tempted Christ for forty days and forty nights he left Christ for a season, because he was coming back to try all over again. The Lord has promised a crown to you Israelites if you endure the temptation.
+
+- Don't let none of you say God is tempting me, for God cannot be tempted with evil.
+
+  Precepts:
+  - **[Psalms 111:10](/bible/psalms/111#v10)**
+    > <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
+
+    You lack wisdom, you want wisdom: this is the starting point. In order to get this wisdom you got to show the Most High your faith. A good understanding have all they that do his commandments.
+
+
+**[Job 1:6-12](/bible/job/1#v6)**  *[[29:34](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1774s)]*
+
+> <sup>[6](/bible/job/1#v6)</sup> Now there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them.
+>
+> <sup>[7](/bible/job/1#v7)</sup> And the Lord said unto Satan, Whence comest thou? Then Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
+>
+> <sup>[8](/bible/job/1#v8)</sup> And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
+>
+> <sup>[9](/bible/job/1#v9)</sup> Then Satan answered the Lord, and said, Doth Job fear God for nought?
+>
+> <sup>[10](/bible/job/1#v10)</sup> Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
+>
+> <sup>[11](/bible/job/1#v11)</sup> But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
+>
+> <sup>[12](/bible/job/1#v12)</sup> And the Lord said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord.
+
+- See what the Most High said to the devil, to Satan, the spiritual demon: have you considered my servant Job? He's the pinnacle of perfection.
+
+- Doth Job fear God for nought? Look, you got angels all around him, you got wealth and all kind of things; this guy got everything.
+
+- Satan said, you got all these blessings around Job, but let me go in there and touch this guy. The Lord said, go ahead, but don't take his life.
+
+
+**[James 1:12-15](/bible/james/1#v12)**  *[[30:58](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1858s)]*
+
+> <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
+>
+> <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
+>
+> <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
+>
+> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
+
+- It's not the Most High coming down doing this and doing that. The Most High has created Satan and his remnant of angels to do those things.
+
+- Here's the new thing in the earth: God made me a homosexual, God made me a lesbian. The Most High didn't do that to you.
+
+- God made me a crackhead, God made me a slime eater, a pork eater, God made me like to have sex with women on their menstrual cycle: but every man is tempted when he is drawn away of his own lust and enticed. That spirit comes from you. These are spirits within you that you didn't even know was in there, and now that you're reading the scriptures, the Most High is revealing to you all the sin within you.
+
+- Lust conceived bringeth forth sin, because you give into that lust, that temptation. And sin, once you've done it over and over again, bringeth forth death.
+
+
+**[Romans 7:7](/bible/romans/7#v7)**  *[[33:07](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1987s)]*
+
+> <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
+
+- Paul said he would not have known sin except by the laws of God. He would have never understood lust except by him studying the scriptures; he came across the law that said thou shalt not covet.
+
+- See what the law does: it reveals the sin within you and I. That's why you need the law.
+
+- A Negro wrote us the other day calling himself Elder something. He said, brother, I don't need the law because I'm perfect. Negro please, you that pork eating, child molesting preacher that you always been, always after a dollar. The law is meant for all of us, brother. If you got in your own dilapidated mind that you are perfect and you don't need the law, bye-bye, this ain't for you.
+
+- Christ said, I didn't come for the righteous, I came for sinners. Until you acknowledge that you're a sinner, this truth is not for you.
+
+
+**[Matthew 19:4-6](/bible/matthew/19#v4)**  *[[34:43](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2083s)]*
+
+> <sup>[4](/bible/matthew/19#v4)</sup> And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female,
+>
+> <sup>[5](/bible/matthew/19#v5)</sup> And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?
+>
+> <sup>[6](/bible/matthew/19#v6)</sup> Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.
+
+- Now we're going to step just outside the personal level of temptation. Now we want to deal with that marital form of temptation.
+
+- They twain, meaning the husband and wife, shall be one flesh.
+
+- What God has joined together means that husband, that wife decided one with another: let's be married according to the laws of God, let's come together as husband and wife as Israelites according to what the scriptures say. There's going to be no lying, no deceit.
+
+- He says, I'm clean, I have no diseases, what about you? She goes, no, I'm clean. Months later she's in the bed crying: I got the herpes. You told me you was clean, sister. Well, I just lied to get you. That's not what God has joined together.
+
+- I'm going to tell you straight: you brothers and sisters that get together and manipulate somebody to become husband and wife, when that spouse finds out you done lied to them, you can't run to the scriptures now and say God joined you together, because you lied, you manipulated one the other.
+
+
+**[1 Corinthians 7:28](/bible/1-corinthians/7#v28)**  *[[37:01](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2221s)]*
+
+> <sup>[28](/bible/1-corinthians/7#v28)</sup> But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
+
+- Now let's deal with that brother or sister who in sincerity come together because they fear the Lord. There's nothing wrong with getting married, brothers and sisters; it's a good thing.
+
+- But I spare you: Paul was warning you before you get married, I'mma let you know something, you going to have trouble in the flesh.
+
+- Now that you have graduated from your personal temptation, you're going to have temptation with that spouse you joined with, because now you got two minds trying to come together in the Lord. There's going to be trials and tribulations right there in the marriage.
+
+
+**[Ephesians 5:22-23](/bible/ephesians/5#v22)**  *[[38:29](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2309s)]*
+
+> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
+>
+> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
+
+- Now we're dealing with the second trial of your faith, which is that marital trial.
+
+- Black man, Latin man, your role in the family is that of the Lord. The role of the man is Christ in the home.
+
+- For the husband is the head of the wife: you sisters understand that. A lot of you women are stuck on Christianity, because you read that and a lot of you reject it. You stuck on white man Jesus, goodbye for you, because you can't be delivered with a mindset that's stuck on the white man. You got to humble down and repent and do what the scriptures say.
+
+- They're saying hatred, oh they hate women, they're woman bashing. Oh no, sister, you got it twisted; don't get us twisted with the Christian church.
+
+- Even as Christ is the head of the church: marriage represents the nation of Israel with Christ as the head. Marriage represents Christ and Israel, Christ and the church. The word church is Greek; all it means is assembly, congregation.
+
+
+**[Ephesians 5:27-32](/bible/ephesians/5#v27)**  *[[40:44](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2444s)]*
+
+> <sup>[27](/bible/ephesians/5#v27)</sup> That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
+>
+> <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
+>
+> <sup>[29](/bible/ephesians/5#v29)</sup> For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
+>
+> <sup>[30](/bible/ephesians/5#v30)</sup> For we are members of his body, of his flesh, and of his bones.
+>
+> <sup>[31](/bible/ephesians/5#v31)</sup> For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
+>
+> <sup>[32](/bible/ephesians/5#v32)</sup> This is a great mystery: but I speak concerning Christ and the church.
+
+- That he might present it: the it is the marriage. The Lord wants to present your marriage.
+
+- What's the spot or wrinkle? Sin. When you get a spot on your clothes, you wash that spot out; when you got wrinkles in your clothes, you get that iron. You're ironing out the problems in your marriage, you're washing out the spots in your relationship.
+
+- Brothers, the Bible is teaching us that we got to love our wives the same way we love our own bodies. You nurture yourself: you eat, you drink, you brush your hair, your teeth, you bathe, you try to look nice, you take care of your responsibilities for you. That same way you got to do that for your wife, even as Christ did it for the church. He taught us the scriptures, he fed the multitudes with the fish and the bread, he paid Peter's taxes, he healed the sick.
+
+- You brothers that live at home with your mama, your daddy, and your so-called wife live down the street with her mama, her daddy: you are out of order. That's just a booty call you got going on. There's an old worldly expression: why buy the cow when you get the milk for free? So you sisters talk about, oh my husband he live with his mama: no, that ain't your husband. That's your booty call.
+
+- Be joined to his wife, meaning take her as yours. You two come together in one mind.
+
+- Marriage is a great mystery; a lot of you don't understand it. Marriage represents Christ and the nation of Israel. So you brothers, you sisters that say you repent, you got to get your minds right: coming into a marriage, understand what the marriage represents.
+
+
+**[Sirach 25:18-20](/bible/sirach/25#v18)**  *[[44:22](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2662s)]*
+
+> <sup>[18](/bible/sirach/25#v18)</sup> Her husband shall sit among his neighbours; and when he heareth it shall sigh bitterly.
+>
+> <sup>[19](/bible/sirach/25#v19)</sup> All wickedness is but little to the wickedness of a woman: let the portion of a sinner fall upon her.
+>
+> <sup>[20](/bible/sirach/25#v20)</sup> As the climbing up a sandy way is to the feet of the aged, so is a wife full of words to a quiet man.
+
+- You don't want to be in a marriage like that, when your wife's name comes up you sighing bitterly. There have been brothers and sisters amongst us who had to be put out the congregation, because the wife got to a level of such wickedness that when the brother heard his wife's name he's like, oh gosh, my wife again.
+
+- Sister, you don't want to be like this. All wickedness is but little compared to the wickedness of a woman, because a wicked woman will do you dirty. That's that woman that says, you did this, I'mma sleep with your best friend Tyrone, then come home and tell you. She's the kind of woman that will embarrass you: go to a party, get drunk, hop on a table, and embarrass the hell out of the husband.
+
+- As the climbing up a sandy way is to the feet of the aged: you got an aged man trying to climb up a sand bank, it's hard. That's compared to a wife full of words; she won't shut the hell up. The quiet man's at home, and you can't endure it.
+
+
+**[Sirach 26:14-16](/bible/sirach/26#v14)**  *[[46:48](https://www.youtube.com/watch?v=8IzkF68aBC4&t=2808s)]*
+
+> <sup>[14](/bible/sirach/26#v14)</sup> A silent and loving woman is a gift of the Lord; and there is nothing so much worth as a mind well instructed.
+>
+> <sup>[15](/bible/sirach/26#v15)</sup> A shamefaced and faithful woman is a double grace, and her continent mind cannot be valued.
+>
+> <sup>[16](/bible/sirach/26#v16)</sup> As the sun when it ariseth in the high heaven; so is the beauty of a good wife in the ordering of her house.
+
+- Here's the flip side, sister. Never think that we woman bash. But sister, if you're out of order, our job is to tell you you're out of order. Same with the brother: we don't man bash, but if you out of order, our job is to tell you.
+
+- A quiet and loving woman is a gift from the Lord. So sister, are you that gift, or are you that big mouth know-it-all woman? The choice is yours.
+
+- Not only is she quiet and loving, her mind is well instructed in the laws of the Most High, the Bible. She knows the scriptures, she knows how to apply the laws of God. You can't compare nothing to a woman like that.
+
+- A shamefaced woman is that woman that is humble: she keeps her head down a little bit, yes brother, she got that spirit on her of a woman. She ain't trying to be equal with the man, she definitely ain't trying to dominate him; she understands how the Lord has created her. That's what you want out of a wife, brother.
+
+- She understands her role. She's going to take care of her home, make sure it looks nice, make sure when that man comes home from a hard day of work there's food prepared for him. He might come home mad as hell; she going to say, let me run you some water, baby, I'mma put some oil in the bath. She know what to do to calm that man's spirit. She ain't going to be, you left your socks on the floor, I told you about that, and now both of y'all bumping heads in the house and you writing us letters, what do I do? Learn to be a wife, learn to be a woman. Stop trying to be a man.
+
+
+**[Sirach 26:28](/bible/sirach/26#v28)**  *[[50:24](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3024s)]*
+
+> <sup>[28](/bible/sirach/26#v28)</sup> There be two things that grieve my heart; and the third maketh me angry: a man of war that suffereth poverty; and men of understanding that are not set by; and one that returneth from righteousness to sin; the Lord prepareth such an one for the sword.
+
+- There be two things that grieve the Lord's mind, and the third maketh the Lord pissed off.
+
+- A man of war that suffereth poverty: this is that brother that's going out to war, he never reaps the benefits.
+
+- Men of understanding that are not set by: you got brothers like ourselves who have understanding of the scriptures, and you at home don't support this truth.
+
+- One that returneth from righteousness to sin: that's the thing that makes the Lord angry. You're going through your trials, and you say, I'm giving up this Bible, I can't take it, and you go back to the world where you were at, back to your old sins. The Most High said he hates that.
+
+
+**[Colossians 3:12-15](/bible/colossians/3#v12)**  *[[51:51](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3111s)]*
+
+> <sup>[12](/bible/colossians/3#v12)</sup> Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
+>
+> <sup>[13](/bible/colossians/3#v13)</sup> Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
+>
+> <sup>[14](/bible/colossians/3#v14)</sup> And above all these things put on charity, which is the bond of perfectness.
+>
+> <sup>[15](/bible/colossians/3#v15)</sup> And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
+
+- Let's deal with that third level, the congregation level. You go from your personal trial, you as an individual wanting to get your life right; then you want to be married, the two of you trying to learn one another in the laws of the Most High; then the two of you say, let's be around other brothers and sisters that believe like we believe, that we are Israelites and must keep the commandments. You join a body of believers: that becomes the congregation, that becomes the church.
+
+- See what you got to put on when you come into this truth.
+
+- We got to forbear one another: put up with one another, deal with one another, be patient with one another.
+
+- From your marriage, husband, you got to learn to forgive your wife if she errs; wife, you got to learn to forgive your husband. Now you're coming into a body of believers, you're going to meet that brother, that sister who might get on your last nerve, but you got to learn to forgive.
+
+- Put on charity. Charity means loving your neighbour as you love yourself.
+
+  Precepts:
+  - **[Psalms 133:1](/bible/psalms/133#v1)**
+    > <sup>[1](/bible/psalms/133#v1)</sup> Behold, how good and how pleasant it is for brethren to dwell together in unity!
+
+    How beautiful it is for brethren to dwell together in unity.
+
+
+**[2 Corinthians 2:6](/bible/2-corinthians/2#v6)**  *[[53:57](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3237s)]*
+
+> <sup>[6](/bible/2-corinthians/2#v6)</sup> Sufficient to such a man is this punishment, which was inflicted of many.
+
+- We're still dealing with that congregation, the congregation of believers, that nation of Israel.
+
+- When you read this, Paul is making reference to 1 Corinthians chapter 5.
+
+
+**[1 Corinthians 5:1](/bible/1-corinthians/5#v1)**  *[[53:57](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3237s)]*
+
+> <sup>[1](/bible/1-corinthians/5#v1)</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
+
+- Fornication: sexual immorality. This brother in Corinth was having sex with his stepmother.
+
+
+**[1 Corinthians 5:11-13](/bible/1-corinthians/5#v11)**  *[[54:40](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3280s)]*
+
+> <sup>[11](/bible/1-corinthians/5#v11)</sup> But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
+>
+> <sup>[12](/bible/1-corinthians/5#v12)</sup> For what have I to do to judge them also that are without? do not ye judge them that are within?
+>
+> <sup>[13](/bible/1-corinthians/5#v13)</sup> But them that are without God judgeth. Therefore put away from among yourselves that wicked person.
+
+- If any brother in the congregation be called a fornicator, or covetous, or an idolater, or a drunkard, or an extortioner: don't eat with brothers or sisters that got those attributes.
+
+- I have nothing to do to judge those outside the truth.
+
+- You brothers, when you come into a congregation, it's your job to judge those within the congregation. Those outside the truth, let the Lord deal with them.
+
+- So in the congregation, when there's unrepentant sin, they got to go.
+
+
+**[2 Corinthians 2:6-11](/bible/2-corinthians/2#v6)**  *[[55:25](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3325s)]*
+
+> <sup>[6](/bible/2-corinthians/2#v6)</sup> Sufficient to such a man is this punishment, which was inflicted of many.
+>
+> <sup>[7](/bible/2-corinthians/2#v7)</sup> So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow.
+>
+> <sup>[8](/bible/2-corinthians/2#v8)</sup> Wherefore I beseech you that ye would confirm your love toward him.
+>
+> <sup>[9](/bible/2-corinthians/2#v9)</sup> For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.
+>
+> <sup>[10](/bible/2-corinthians/2#v10)</sup> To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;
+>
+> <sup>[11](/bible/2-corinthians/2#v11)</sup> Lest Satan should get an advantage of us: for we are not ignorant of his devices.
+
+- What is Paul making reference to? That brother that was put out for having sex with his stepmother. He never repented, but here in the second chapter of 2 Corinthians this man has repented. This is years later.
+
+- Forgive the man and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow.
+
+- Whether you be obedient in all things: obedient even to the point of forgiveness.
+
+- Satan can get an advantage of you if you don't forgive.
+
+
+**[Acts 20:28-31](/bible/acts/20#v28)**  *[[56:53](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3413s)]*
+
+> <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
+>
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+>
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
+>
+> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
+
+- That's dealing with the congregation, and this is what Paul warned us about.
+
+- You brothers are the overseers. You men are the overseers, just like in your house; the church is an extension of your house. You the leaders. Your job is to feed the church of God with the laws of the Most High.
+
+- Paul warned you that after his departure grievous wolves would enter amongst the congregation, not sparing the flock, the followers of Christ.
+
+- Of your own selves: you overseers, you leaders, watch one another, because some of you might get the devil on you. Their purpose is to draw away disciples after themselves.
+
+
+## In Closing
+
+*[[58:19](https://www.youtube.com/watch?v=8IzkF68aBC4&t=3499s)]* So brothers and sisters, I pray that you got some understanding out of today's lesson.
+
+## Announcements & References
+
+- Website: www.israelunite.org, with a list of activities on the homepage, constantly updated. More videos: www.youtube.com/Nathanyel7.
+- Please send your donations; we need your financial support, we cannot do it on our own.
+- For a copy of this show and all other shows: originalroyalty.com.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=8IzkF68aBC4)
