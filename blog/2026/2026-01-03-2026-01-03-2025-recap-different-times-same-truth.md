@@ -23,7 +23,6 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 - *[[16:52](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1012s)]* **The Matrix scene in which Cypher knows the steak isn't real but chooses ignorance to be reinserted.** — Many know the truth but give up the kingdom for a salary, a house and acceptance.
 - *[[23:12](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1392s)]* **The Lion King scene in which Mufasa tells Simba, 'Remember who you are.'** — Identity matters. Israel must remember whose son it is.
-- *[[26:39](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1599s)]* **Figures on the genetics and ancestry industry, worth over $32 billion a year.** — Every nation spends fortunes to know its fathers. Israel has its history for free in the Bible.
 - *[[30:53](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1853s)]* **A well-known white pastor says race is not a biblical idea but a constructed one.** — The Bible is a family tree, with a table of nations in Genesis 10 and a command to keep one's seed.
 - *[[1:02:18](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=3738s)]* **Reports on Trump's first-day orders revoking the 1965 equal employment order and ending federal DEI, followed by companies like Target, Walmart and Amazon.** — Never trust thine enemy; his wickedness returns like rust on iron.
 - *[[1:08:55](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=4135s)]* **A Black commentator says the world will welcome Trump's return, saying 'Daddy's back.'** — We have made a covenant with death. It is the same spirit that said, we have no king but Caesar.
@@ -36,6 +35,40 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 - If any man speak, let him speak as the oracles of God. Whatever is taught must be backed by scripture.
 
+
+<div class="reading">
+
+Reading from an AI answer to the question, "Does perspective shape how history is perceived?"  *[[10:50](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=650s)]*
+
+> Yes, perspective fundamentally shapes how history is perceived,
+
+- The Bible is a history book. You must look at it from the correct perspective of who's writing and who these people are in today's times. For example, you can't truly look at the Holocaust if you don't know who the so-called Jews are. You can't look at slavery if you don't know who the slaves are. So, why is it when you go to the Bible it says, "No, it doesn't matter who you are"? That's a damn lie.
+
+> as every historical account is filtered through the viewpoint, background, context, biases, and values of the person or group telling the story, meaning there's no single objective history, but rather multiple layered narratives that reveal different truths and meanings. This includes the perspectives of those who lived through events, primary sources, and historians interpreting them today, requiring us to examine whose stories are missing or emphasized to understand the past more fully.
+
+- Why the perspective matters: I'm just painting a picture for why you must understand who you are when you read the Bible. If you're reading it and you don't have any idea, if I say what your nationality, you say African-American, you're not going to understand the Bible. If you're reading this and you say I'm black, you're not going to understand the scriptures.
+
+> Why it matters. Fuller understanding: examining multiple perspectives reveals a more comprehensive, nuanced, and complex picture of the past.
+>
+> Empathy and context: understanding a historical figure's context, their time, beliefs, status,
+
+- They don't want you to think about 1921 when Tulsa, Oklahoma got bombed. They don't want you to think about Rosewood. They don't want you to think about the bombs that was dropped on churches all throughout America for what? For black people trying to gather together to vote. They don't want you to think about that. They say, "Don't worry about that." Cuz they never want our people to garner empathy.
+
+> Critical thinking: recognizing perspective encourages questioning sources, identifying biases, and seeking out absent viewpoints,
+
+- So, when you see a white Jesus, if you know who you are, you say, "Hold on. That don't sound right. That don't line up with the Bible." But when you don't know, you don't question nothing.
+
+> preventing the acceptance of single biased narratives like propaganda as absolute truth.
+>
+> In essence, perspective isn't just a filter.
+
+- Perspective is not just a filter.
+
+> It's a core tool for constructing and understanding history, making the study essential for any accurate historical inquiry.
+
+- So, you must understand the perspective when you read the Bible. So, when people say, "Well, what does it matter that you an Israelite?" You don't understand history, you don't understand study, you don't understand any of that. You must understand the perspective.
+
+</div>
 
 **[John 8:32](/bible/john/8#v32)**  *[[14:33](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=873s)]*
 
@@ -56,6 +89,26 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 - Enquire of the former age and prepare thyself to the search of their fathers. Israel is the only people that do not know their fathers.
 
+
+<div class="reading">
+
+Reading from on-screen figures on the genetics industry  *[[27:28](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1648s)]*
+
+> The genetics industry
+
+- Genetics industry, which is what? Race, nationality. That's how you know who you are.
+
+> total revenue varies by scope, global, US, market segment, with the global genomics market valued at over $32 billion in 2020
+
+- How much? Over $32 billion. So, the white man tell you it don't matter, but he's generating $32 billion a year? Something ain't adding up.
+
+> and expected to reach $95 billion by 2030, while the US human genetics and genomics sector generated over $265 billion in total economic impact.
+
+- So, I want y'all to think. If your race, your culture, your nationality didn't matter, I'mma take y'all back a second. Why was it so important for all those young black women to come on the Jerry Springer show and find out who the father was? Why was that so important? Why are people spending billions of dollars on ancestry.com if it did not matter? Why are they going to 23andMe if it did not matter? Because it does matter. That's the trick bag they putting over you. It does matter. And everybody knows it except you.
+
+- And guess what? I'm not saying that the industry is good as far as it's accurate. What I'm showing you is they know and tap into the psyche of that we don't know who we are. And they made it a billion-dollar industry. Meanwhile, back at the ranch, you got the Bible for free. Give you your whole history. You got the prophets all over the world right now, different cities and countries, teaching you who you are for free. We giving you the best ancestry.com breakdown you can find. And y'all don't want to hear us.
+
+</div>
 
 **[Sirach 26:20](/bible/sirach/26#v20)**  *[[30:53](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1853s)]*
 

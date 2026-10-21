@@ -23,11 +23,11 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
 - *[[20:31](https://www.youtube.com/watch?v=e51lFpTuIds&t=1231s)]* **Video of a federal agent shooting a woman in her car during an ICE operation, after claims she obstructed agents.** — The rage is natural, but a soldier must not entangle himself with the affairs of this life. Israel was sent to teach, not to protest.
 - *[[30:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=1818s)]* **A Young Turks host asks where the American patriots are who promised to fight a tyrannical government.** — Isaiah 19:2 is unfolding: Egyptian against Egyptian and city against city. Israel has been warning of it week after week.
-- *[[39:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=2362s)]* **Sketches and a book caption show a bust of the Saviour posed for by Caesar Borgia, and Wikipedia records that Baptist bookstores popularized Sallman's Head of Christ and servicemen carried it in World War II.** — America made an image to the beast that had the wound by a sword and did live, and gave it life in films and churches.
-- *[[50:19](https://www.youtube.com/watch?v=e51lFpTuIds&t=3019s)]* **Commentators warn that central bank digital currencies would let governments shut off anyone's money, and the United States sanctions UN rapporteur Francesca Albanese and members of the International Criminal Court for criticizing Israel.** — No man might buy or sell save he that had the mark. They already cut off those who speak against the synagogue of Satan.
-- *[[1:06:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3998s)]* **An explainer on Christian Zionism, a report that 100,000 Christians are being trained as advocates for Israel, and pastors preaching support for the war and praying for the mosque on the Temple Mount to fall.** — Many false prophets shall rise. Christianity is the religion of Edom.
-- *[[2:10:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7820s)]* **An explainer on the BRICS Bridge payment system and Brazil's order to trade outside the US dollar and SWIFT.** — Venezuela sold oil outside the dollar and was attacked. The kings of the east are preparing, as the Euphrates dries up.
-- *[[2:31:55](https://www.youtube.com/watch?v=e51lFpTuIds&t=9115s)]* **Before-and-after images of Libya, Haiti and Panama after US interventions, and a report that a sonic weapon brought Venezuelan soldiers to their knees during the Maduro raid.** — This is America's nakedness uncovered. Her sorceries and enchantments are her science and weapons.
+- *[[39:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=2362s)]* **Leonardo da Vinci's sketches of Caesar Borgia as the Renaissance Jesus.** — America made an image to the beast that had the wound by a sword and did live, and gave it life in films and churches.
+- *[[50:19](https://www.youtube.com/watch?v=e51lFpTuIds&t=3019s)]* **Commentators warn that central bank digital currencies would let governments shut off anyone's money.** — No man might buy or sell save he that had the mark. They already cut off those who speak against the synagogue of Satan.
+- *[[1:06:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3998s)]* **Pastors preaching support for the war and praying for the mosque on the Temple Mount to fall.** — Many false prophets shall rise. Christianity is the religion of Edom.
+- *[[2:10:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7820s)]* **A video on Brazil's order to trade outside the US dollar and SWIFT.** — Venezuela sold oil outside the dollar and was attacked. The kings of the east are preparing, as the Euphrates dries up.
+- *[[2:31:55](https://www.youtube.com/watch?v=e51lFpTuIds&t=9115s)]* **Before-and-after images of Libya, Haiti and Panama after US interventions.** — This is America's nakedness uncovered. Her sorceries and enchantments are her science and weapons.
 - *[[2:50:03](https://www.youtube.com/watch?v=e51lFpTuIds&t=10203s)]* **Trump boasts that the United States has the most powerful weapons in the world and is shown shoving past other leaders and patting the Saudi crown prince.** — Thou hast said in thine heart, I am, and none else beside me.
 
 ## Scriptures Opened
@@ -84,7 +84,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 - He maketh fire come down from heaven in the sight of men, as at Hiroshima and Nagasaki.
 
 
-**[Revelation 13:14](/bible/revelation/13#v14)**  *[[41:06](https://www.youtube.com/watch?v=e51lFpTuIds&t=2466s)]*
+**[Revelation 13:14](/bible/revelation/13#v14)**  *[[38:15](https://www.youtube.com/watch?v=e51lFpTuIds&t=2295s)]*
 
 > <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
 
@@ -92,6 +92,42 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
 - As many as would not worship the image should be killed, as under the conquistadors.
 
+
+<div class="reading">
+
+Reading from *In the Pillory: Tale of the Borgia Pope* · read by Captain Yuri  *[[40:15](https://www.youtube.com/watch?v=e51lFpTuIds&t=2415s)]*
+
+> Bust of the Savior posed for by Caesar Borgia.
+
+- So this book is telling you Caesar Borgia posed as the Savior. So you thought that was Jesus. No, that's Caesar Borgia.
+
+> The original of this bust was found in the church of San Salvatore in …, now destroyed. It is an open secret that Caesar Borgia, the son of Pope Alexander, had posed for it.
+
+- Salvatore. That's Spanish for savior. You doing the sign of the cross from your head. What's that damn thing they do? You doing that damn sign. That's Caesar Borgia. That is not Christ with the crown of thorns on his head.
+
+</div>
+
+<div class="reading">
+
+Reading from the Wikipedia article *Head of Christ* · read by Captain Yuri  *[[41:58](https://www.youtube.com/watch?v=e51lFpTuIds&t=2518s)]*
+
+> Head of Christ. This article is about Sallman's portrait.
+
+- So this became a famous image.
+
+> The Head of Christ, also called the Sallman Head, is a 1940 portrait painting of Jesus by Warner Sallman.
+
+- When was World War II? 1940 to 19, was it 45?
+
+> The Baptist bookstore initially popularized the painting,
+
+- Now, how did the Baptist bookstore initially popularize that painting of Jesus, which is Caesar …?
+
+> distributing various size lithographic images for sale throughout the southern United States. The Salvation Army and the YMCA, as members of the USO, handed out pocket-size versions of the painting to American servicemen heading overseas during World War II.
+
+- So that gave them the cojones: we shall win the war because of white Jesus. They all had a pocket-sized image of this garbage.
+
+</div>
 
 **[Revelation 13:16](/bible/revelation/13#v16)**  *[[48:29](https://www.youtube.com/watch?v=e51lFpTuIds&t=2909s)]*
 
@@ -111,6 +147,18 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     The king wrote that all should be one people and forsake their laws, sacrifice unto idols and profane the Sabbath.
 
+
+<div class="reading">
+
+Reading from an article, "US sanctions on special reporter Francesca Albanese threatened human rights system: UN experts" · read by Captain Yuri  *[[54:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=3240s)]*
+
+> UN human rights experts today expressed their continued support for human rights principles and fundamental standards that underpin international human rights and humanitarian law and condemn the United States decision to impose sanctions on the UN special reporter on human rights in the occupied Palestinian territories, Francesca Albanese. They issued the following statement.
+
+- That's what I want, cuz it's a lot. Y'all can read the article on your own, but I'm showing you we're in that time. We're in that time where they are putting sanctions on people, individuals. And she was rich. They put one on Russia. Remember, they put it on Russia.
+
+- The members of the International Criminal Court, ICC, they put sanctions on all them for speaking against Israel. So you think we ain't in that time? We pushing Revelation 2:9, Revelation 3:9. You don't think one of them is going to go, you know what? Let's shut his bank account down. That'll shut them up.
+
+</div>
 
 **[Acts 4:18](/bible/acts/4#v18)**  *[[56:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3398s)]*
 
@@ -140,6 +188,28 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 - Herod killed James with the sword and, because it pleased the Jews, took Peter also. The nations test how much the people will accept.
 
 
+<div class="reading">
+
+Reading from a Google search on Christian Zionism · read by Captain Yuri  *[[1:06:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=3982s)]*
+
+> What is Christian Zionism? Christian Zionism is a belief that the modern state of Israel's establishment fulfills biblical prophecy, supporting the Jewish people's return to their ancient homeland
+
+- So the teaching is 1948 is the fulfillment of Israel returning back to the land.
+
+> based on scripture, particularly Old Testament promises in end times eschatology, second coming of Jesus. While historically rooted in Protestant thought,
+
+- Protestant mean protesting thoughts. They protested from the Catholic Church.
+
+> it's most prominent in American evangelicalism,
+
+- See that?
+
+> translating into strong political and financial backing for Israel, viewing it as a divine sign and a way to receive God's blessing.
+
+- Christian Zionism, Christianity, Roman Catholicism, it's all the same.
+
+</div>
+
 **[Galatians 1:6](/bible/galatians/1#v6)**  *[[1:07:28](https://www.youtube.com/watch?v=e51lFpTuIds&t=4048s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
@@ -152,6 +222,42 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     Their fear toward me is taught by the precept of men; the wisdom of their wise men shall perish.
 
+
+<div class="reading">
+
+Reading from *A History of the Jews* by Solomon Grayzel, published 1968 · read by Captain Yuri  *[[1:12:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=4359s)]*
+
+> The results of Paul's teachings. It is not what happened to Paul personally that is important, but rather what happened to Paul's teachings. Even while he lived, ample evidence proves that the people to whom he preached had misunderstood him. He had spoken in terms of high and noble idealism, of charity, of personal righteousness. He urged men to believe in Jesus firmly and, believing in so perfect an example of godly living, begin to lead a godly life themselves. Such righteous people could have no difficulty in meeting the awful day of God's judgment. They would surely survive it. And when the day of resurrection came, such people would surely be permitted to live again and forever. But most of the people who listened to Paul remembered only the connection between believing in Jesus and meriting God's mercy and ultimate resurrection.
+
+- Y'all see that? That's Christianity. Watch what he says next.
+
+> They skipped the middle step, the need to live godly lives.
+
+- How do you live a godly life? By keeping the commandments. That's what Christianity purposely skipped. So Christ is the enemy of Christianity.
+
+> Thus faith in Jesus came to be the only and entire basis of the religion adopted by the pagan Christians,
+
+- What kind of Christians? Pagan Christians.
+
+> while the Judeo-Christians who lived in Palestine continued to observe Jewish law.
+
+- They continued to keep the commandments.
+
+> But it was the pagan Christian attitude which won in the end. Many pagans who had admired Judaism either openly or secretly now had a chance to adopt a form of Judaism which appealed to them. It is not at all strange that Christianity spread most easily and rapidly in those cities in which Jews had lived for a long time.
+
+- So that's all I wanted out of that. So that is the perversion that Paul warned us about in Galatians 1. The same perversion back then is the same perversion now. Cuz what book do the Christians use? The same book we got. And every scripture you find that you read, they will pervert it somehow, some way.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen caption on a video · read by Captain Yuri  *[[1:15:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=4539s)]*
+
+> 100,000 Christians are being trained to be representatives in their own country for the state of Israel.
+
+- That's all I wanted to show, that they're training these people to be Christian Zionism.
+
+</div>
 
 **[Matthew 24:11](/bible/matthew/24#v11)**  *[[1:17:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=4640s)]*
 
@@ -181,13 +287,25 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
     The blasphemy of them which say they are Jews, and are not.
 
 
+<div class="reading">
+
+Reading from an on-screen definition of Idumea · read by Captain Yuri  *[[1:37:28](https://www.youtube.com/watch?v=e51lFpTuIds&t=5848s)]*
+
+> Idumea, pertaining to Edom.
+
+- So Idumea is another name for Edom.
+
+> Greek and Roman name for Edom.
+
+- Idumea is a Greek and Roman name for Edom.
+
+</div>
+
 **[Ezekiel 36:5](/bible/ezekiel/36#v5)**  *[[1:38:45](https://www.youtube.com/watch?v=e51lFpTuIds&t=5925s)]*
 
 > <sup>[5](/bible/ezekiel/36#v5)</sup> Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.
 
 - In the fire of my jealousy have I spoken against all Idumea, which have appointed my land into their possession with the joy of all their heart.
-
-- Their own scholars write that Edom means Rome and the European powers, and their religion is Christianity.
 
   Precepts:
   - **[Ezekiel 36:19](/bible/ezekiel/36#v19)**
@@ -195,6 +313,100 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     They profaned my holy name, when they said, These are the people of the Lord.
 
+
+<div class="reading">
+
+Reading from *The Rise of Christendom*, written in 1890  *[[1:40:50](https://www.youtube.com/watch?v=e51lFpTuIds&t=6050s)]*
+
+> There is the curious notice of R. Benjamin of Tudela, which describes rabbins as forming part of the suite of the pope. The head of the …
+>
+> Now the medieval chroniclers say expressly that Edom means the Roman Empire or the European powers.
+
+- See that? Edom is the European powers. That's Germany, France, England, so forth and so on. That's the European powers, Russia included.
+
+- So why are negroes going, "No, it's Japheth. It's Japheth"? The Bible says Edom. The scholars say Edom. What is wrong with a negro on YouTube? Japheth.
+
+> One of the earliest is Benjamin of Tudela, circa 1160, who calls Rome the Edomite capital and the Pope the head of the Edomitish religion.
+
+- Y'all see that? The Pope is the head. What is the name of the Edomite religion? Christianity. That's the Edomite religion.
+
+</div>
+
+<div class="reading">
+
+Reading from *A History of the Jewish People* by Max L. Margolis and Alexander Marx, written in 1956 · read by Captain Yuri  *[[1:44:46](https://www.youtube.com/watch?v=e51lFpTuIds&t=6286s)]*
+
+> The voice of Torah and wisdom was hushed,
+
+- So the law and the wisdom of the law was hushed in the earth.
+
+> and the community itself soon crumbled away in consequence of Muhammadan fanaticism,
+
+- So it crumbled away because of Islam.
+
+> which ruled that none might enter Kairouan,
+
+- That was Tunisia's old name.
+
+> the holiest city in Africa, who was not a Muslim. But in the 11th century, there were other Jewish communities in northwestern Africa beside that in Kairouan. Thus, Jews lived in …, Fez, Sijilmasa, for the most part in organized communities with courts for internal jurisdiction, schools, and men of learning.
+
+- So, who said when we were in Africa, we were dumb as a rock? This reveals we had organized communities, courts, jurisdiction, schools, and we had men of learning. This is all in Africa. There wasn't no white people setting up these communities. That was our race, our people.
+
+- So I saw that in the book. And what else I found so perplexing to the negro was page 585.
+
+</div>
+
+<div class="reading">
+
+Reading from *A History of the Jewish People* by Max L. Margolis and Alexander Marx, page 585  *[[1:46:37](https://www.youtube.com/watch?v=e51lFpTuIds&t=6397s)]*
+
+> They named the place of detention mystically the gates of Rome, and regarded the religion of Edom, Christianity,
+
+- Wait a minute. The religion of Edom is what? Christianity. That is Esau's religion. So black people, we in Christianity. That's the white man's religion.
+
+> as the portal through which the Messiah must pass,
+
+- They said the Messiah got to come through Edom's religion, Christianity.
+
+> the Holy Lord who was bent upon doing away with all moral restraints.
+
+- See that? The Holy Lord was going to do away with all moral restraints. Don't keep no commandments. Don't keep no laws. That's Christianity. That is the religion of Edom. Christianity. You can't make this stuff up.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Destiny of America*, with an appendix, *Who Are the Japanese?*, page 213  *[[1:47:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=6459s)]*
+
+> Esau, as we said before, is also Idumea.
+
+- You see, so their scholars know exactly what time it is.
+
+> Idumea is the Greek form of the name Edom or Mount Seir.
+>
+> Just remember these cave-dwelling habits on the cliffs of the … when we come to look over Obadiah's prophecies concerning Turkey.
+
+- So he said Obadiah prophesied concerning Turkey. Now we've been to Turkey.
+
+> Teman, you will remember, is an Edomite. Teman was one of the sons of Esau, being a son of Eliphaz, son of Esau.
+>
+> The Edomite family name Teman in Hebrew is Thman, and linguistically identical with Thean, Oman, Aman, Osman, or Ottoman.
+
+- Remember the Ottoman Turks.
+
+> Osman, Ottoman or Oman is an Edomite family name. The historian Gibbon, in his 47th chapter, gives the original form of the name of Atman, the son of Ertigro, as … Teman, or more strictly Thean, was a grandson of Esau.
+
+- So he's talking about the Ottoman.
+
+> Thy mighty men, O Teman, shall be dismayed. Ottoman is therefore the scriptural designation of the house of Edom.
+>
+> Having shown that Teman, Ottoman, and Esau are all Edomite or Edom, as is Mount Seir and Idumea,
+
+- So when we went to Turkey, they said that they were Muslim. So when the call to prayer, we having lunch, the call to prayer comes. Nobody gave a damn. They kept sipping their tea and eating. And we're looking around like, "How come nobody's getting up to pray?"
+
+- They smoking cigarettes, drinking alcohol, and then to find out they just say that they're Muslims. They're not Muslims at all. People be thinking Turkey or Arabs. That's all Esau over there. And they're not Muslim. They just use that name. But they're not Muslims.
+
+</div>
 
 **[2 Esdras 16:68](/bible/2-esdras/16#v68)**  *[[1:50:17](https://www.youtube.com/watch?v=e51lFpTuIds&t=6617s)]*
 
@@ -218,6 +430,32 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     Idleness teacheth much evil.
 
+
+<div class="reading">
+
+Reading from a dictionary definition of *idle*, looked up in class · read by Captain Yuri  *[[1:56:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=6960s)]*
+
+> Idle: of a person, avoiding work. Lazy, indolent, slothful.
+>
+> Number two: without purpose or effect. Pointless.
+
+- Feed you being idle. Meaning you have no purpose in here. You're lazy in here.
+
+> Shiftless, inactive, inert, sluggish, lethargic.
+
+- Hey, those synonyms fit some of you in here. Some men it fits and some women. You know if it's you. Just think about what are you doing? I ain't talking about new people that just came. We're talking about men and women who's been with us for, let's say, two years or more. What are you doing? Do you have an office? Something that you're doing here in Israel? If not, you are idle.
+
+</div>
+
+<div class="reading">
+
+Reading from a dictionary definition of *idol*, looked up in class  *[[1:58:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7100s)]*
+
+> Idol: an image or representation of a god used as an object of worship.
+
+- These are idols. These are idols.
+
+</div>
 
 **[1 Timothy 4:1](/bible/1-timothy/4#v1)**  *[[1:59:29](https://www.youtube.com/watch?v=e51lFpTuIds&t=7169s)]*
 
@@ -257,6 +495,46 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
     The Carmanians shall come out of the woods in great fury.
 
 
+<div class="reading">
+
+Reading from a Google search on the Euphrates River drying up  *[[2:06:48](https://www.youtube.com/watch?v=e51lFpTuIds&t=7608s)]*
+
+> The Euphrates River is drying up due to severe droughts intensified by climate change.
+
+- So don't tell us the Bible ain't true. You want to play games and go back into Christianity, go. We know this is the last days, so just go. There's no bars on the door.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen explainer on the BRICS Bridge · read by Captain Yuri  *[[2:11:01](https://www.youtube.com/watch?v=e51lFpTuIds&t=7861s)]*
+
+> The BRICS Bridge is a proposed digital payment platform and financial messaging system being developed by BRICS nations, Brazil, Russia, India, China, South Africa and expanded members, as an alternative to Western-dominated systems like SWIFT,
+
+- SWIFT is a system America set up with the US dollar to do buying and selling with nations, countries.
+
+> aiming to facilitate trade, reduce reliance on the US dollar, and enhance financial autonomy using national currencies and potentially CBDCs, central bank digital currencies,
+
+- Everything's going digital. That's why now you realize y'all could pay bills on your phone.
+
+> through technologies like distributed ledger technology, DLT, for secure, independent and efficient cross-border transactions.
+>
+> Key goals and functions: alternative to SWIFT. Creates an independent payment infrastructure, reducing vulnerability to political pressure and sanctions.
+
+- Venezuela was selling oil to China in the yen, not US dollar. Venezuela was selling oil to Russia in the ruble, not the United States dollar. When they do that, the US dollar goes down, and locks them out. So now America goes in: we're going to end all that.
+
+</div>
+
+<div class="reading">
+
+Reading from the title of a video on the BRICS Bridge · read by Captain Yuri  *[[2:13:06](https://www.youtube.com/watch?v=e51lFpTuIds&t=7986s)]*
+
+> The financial war is over. What they're not telling you about BRICS Bridge.
+
+- The news is not telling you what's going on now.
+
+</div>
+
 **[Isaiah 47:1](/bible/isaiah/47#v1)**  *[[2:19:09](https://www.youtube.com/watch?v=e51lFpTuIds&t=8349s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
@@ -284,6 +562,20 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
     Even for this same purpose have I raised thee up, that I might shew my power in thee.
 
 
+<div class="reading">
+
+Reading from an article from Al Jazeera, then a headline on Maduro · read by Captain Yuri  *[[2:31:46](https://www.youtube.com/watch?v=e51lFpTuIds&t=9106s)]*
+
+> US air strikes won't fix Nigeria's security crisis, but could make it worse.
+
+- But could make it worse.
+
+> How the US captured Nicolás Maduro.
+
+- This is her nakedness. This is America's shame.
+
+</div>
+
 **[Isaiah 47:6](/bible/isaiah/47#v6)**  *[[2:37:14](https://www.youtube.com/watch?v=e51lFpTuIds&t=9434s)]*
 
 > <sup>[6](/bible/isaiah/47#v6)</sup> I was wroth with my people, I have polluted mine inheritance, and given them into thine hand: thou didst shew them no mercy; upon the ancient hast thou very heavily laid thy yoke.
@@ -303,6 +595,22 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
     Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men.
 
 
+<div class="reading">
+
+Reading from an on-screen list of man-made religions · read by Captain Yuri  *[[2:40:36](https://www.youtube.com/watch?v=e51lFpTuIds&t=9636s)]*
+
+> Man-made religions.
+>
+> Pope Nicholas V, the father of the transatlantic slave trade.
+
+- So none of these religions are after Christ. And from him you got the Protestants, after the popes.
+
+> John Smith created the Baptist religion in …. Joseph Smith created the Mormon religion in 1830. Ellen G. White created the Seventh-day Adventist religion in 1863. Charles T. Russell created the Jehovah Witness religion in 1872. Charles Parham created the Pentecostal religion in 1901.
+
+- So from slavery, from Pope Nicholas I up to Ellen G. White, 1863, that's when we quote unquote got emancipated, right? What happened after that? Jim Crow, Jim Crow segregation laws. None of those religions are after Christ. None of them.
+
+</div>
+
 **[Isaiah 47:8](/bible/isaiah/47#v8)**  *[[2:42:58](https://www.youtube.com/watch?v=e51lFpTuIds&t=9778s)]*
 
 > <sup>[8](/bible/isaiah/47#v8)</sup> Therefore hear now this, thou that art given to pleasures, that dwellest carelessly, that sayest in thine heart, I am, and none else beside me; I shall not sit as a widow, neither shall I know the loss of children:
@@ -317,6 +625,38 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     The well-favoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms.
 
+
+<div class="reading">
+
+Reading from an on-screen search result on Havana syndrome · read by Captain Yuri  *[[2:45:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=9918s)]*
+
+> The reports of embassy members experiencing bloody noses are connected to Havana syndrome, formerly known as anomalous health incidents, a mysterious illness first reported by US diplomats in Havana, Cuba, in late 2016.
+
+- Well, what are some of the symptoms that happened back then?
+
+> Bloody noses, along with other symptoms like headaches, dizziness, vision problems, and tinnitus, were reported by US and Canadian government employees and their family members, including children, in various locations worldwide.
+
+- So something anonymous happened and they all was getting bloody noses. They had headaches, dizziness, and America was saying, we don't know what it could be over there in Cuba. We don't have an idea. I'm confused.
+
+</div>
+
+<div class="reading">
+
+Reading from a *New York Post* article, "US used powerful mystery weapon that brought Venezuelan soldiers to their knees during Maduro raid: witness account"  *[[2:46:26](https://www.youtube.com/watch?v=e51lFpTuIds&t=9986s)]*
+
+> The US used a powerful mystery weapon that brought Venezuelan soldiers to their knees, bleeding through the nose
+
+- That sounds familiar.
+
+> and vomiting blood
+
+- Wow, that sound familiar.
+
+> during the daring raid to capture dictator Nicolás Maduro, according to a witness account posted Saturday on X by the White House press secretary.
+
+- You can't make this stuff up. They was experimenting before. Now they said we got it down pat now.
+
+</div>
 
 **[Isaiah 47:12](/bible/isaiah/47#v12)**  *[[2:56:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=10578s)]*
 
