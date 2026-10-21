@@ -22,7 +22,7 @@ tags: ["Our Hidden History", "women"]
 
 *[[8:38](https://www.youtube.com/watch?v=3SHWoLzNsPA&t=518s)]* Man, things took a dark turn last week going into the history of the revised version Bibles. I want to touch more into that today. King James, we touched on his history, his history being a black man. The history of Planned Parenthood, how all that tied into the Bible, is crazy.
 
-Shout outs to those of you who are fans of the show, and shout outs to those who plagiarize my show and just use our stuff and make like it's them. Y'all negroes, man. Y'all be the type that open up a Jamaican restaurant next door to a Jamaican restaurant.
+Shout outs to those of you who are fans of the show, and shout outs to those who plagiarize my show and just use our stuff and make like it's them. Y'all negroes, man. Y'all be the type … that open up a Jamaican restaurant next door to a Jamaican restaurant.
 
 **Officer:** Emulation.
 
@@ -140,7 +140,7 @@ Reading from *The New Order of Barbarians: The New World System*, the editorial 
 
 - **Deacon Eythan:** So again, I give respect when respect is due to the men that were before me. Most of you negroes running your mouth wouldn't even have the jobs you have now, or even live where you live, had it not been for these men here. Medgar Evers, Fred Hampton, MLK, Malcolm X, the Black Panthers, the Brown Berets, the Young Lords. All these people rose up. Especially the Black Panthers. Kwame Ture, or Stokely Carmichael. All these black men rose up on behalf of our brothers and sisters in the '60s, to fight against injustice, to fight for some form of equality, some form of civility, some kind of peace. And now Trump and his administration is slowly relinquishing and removing all the hard work that most of you ignorant negroes today don't even acknowledge, or even care to understand.
 
-- So I love it. I don't care. I love it. Because a lot of you black folks today are ungrateful, that don't read. They don't read. Black folks spent hundreds of years being forced not to know how to read. Now you can read, and don't want to read no more. Damn. Diabolical.
+- So I love it. I don't care. I love it. Because a lot of you black folks today are ungrateful, … that don't read. They don't read. Black folks spent hundreds of years being forced not to know how to read. Now you can read, and don't want to read no more. Damn. Diabolical.
 
 <div class="reading">
 
@@ -148,13 +148,13 @@ Reading from *The New Order of Barbarians*, the editorial note, continued  *[[32
 
 > Tapes one and two are the reminiscence by Dr. Lawrence Dunegan of a speech given March 20th, 1969, by an insider of the Order, Dr. Richard Day
 
-- Especially you. You ignorant with that FBA stuff. Especially you. Marcus Garvey was the spark of the civil rights movement. Most of the people that were in the civil rights movement were Garveyites. They were the children of Garveyites. Malcolm X's father. Stokely Carmichael. Bobby Seale from the Black Panthers, Caribbean. Y'all do not know what y'all are talking about, man. Disrespectful, shiftless negroes, bro.
+- Especially you. You ignorant … with that FBA stuff. Especially you. Marcus Garvey was the spark of the civil rights movement. Most of the people that were in the civil rights movement were Garveyites. They were the children of Garveyites. Malcolm X's father. Stokely Carmichael. Bobby Seale from the Black Panthers, Caribbean. Y'all do not know what y'all are talking about, man. Disrespectful, shiftless negroes, bro.
 
-- One of the officers had posted a comment on Facebook. I saw he said, yo, if you were to erase all of the so-called white men off the earth, earth will still be jacked up. And that's a fact. That's a fact. If you gave the power to a negro today that the white man has, the earth wouldn't last five minutes.
+- One of the officers had posted a comment on Facebook. I saw he said, yo, if you were to erase all of the so-called white men off the earth, earth will still be jacked up. … And that's a fact. That's a fact. If you gave the power to a negro today that the white man has, the earth wouldn't last five minutes.
 
 - **Officer:** He'll bomb his ex and himself at the same time. Right across the street.
 
-- **Deacon Eythan:** Right across the street, drop a bomb on him, and kill himself and everybody around him. were around before the white man. Just so y'all know, have been around since the garden. That's Cain. Cain became the ultimate.
+- **Deacon Eythan:** Right across the street, drop a bomb on him, and kill himself and everybody around him. … were around before the white man. Just so y'all know, … have been around since the garden. That's Cain. Cain became the ultimate.
 
 - **Officer:** This is war.
 
@@ -168,13 +168,13 @@ Reading from *The New Order of Barbarians*, the editorial note, continued  *[[32
 
 - That's how we know the whole pediatrician meeting: they were doctors, but he's part of the Order. The Order. Now, real quick, get me Exodus 15, because Moses saw them too. These are the Order. Exodus 15, we're going to read verse 13.
 
-- Now, and again, when I speak of a negro today, I'm not speaking in a way of me being better than them, because I was one myself in the world. But the level I was back then is not the same level now. It's like you have the negro with black hair, like Saiyans, then you got like Super Saiyan God level, white hair, where they're just far beyond. They've transcended at this point.
+- Now, and again, when I speak of a negro … today, I'm not speaking in a way of me being better than them, because I was one myself in the world. But the level … I was back then is not the same level … now. It's like you have the negro with black hair, like Saiyans, then you got like Super Saiyan God … level, white hair, where they're just far beyond. They've transcended … at this point.
 
 - **Officer:** So there's a hierarchy to it.
 
 - **Deacon Eythan:** There's like a hierarchy. There's like a level, a transcendence of it. And then once they get past the white hair, then their skin starts to turn pale, and their eyes get blue, and their lips get thinner, and they're just white people. That's the top form. It's levels, a hierarchy. I didn't reach that form. I was almost; I didn't reach that form.
 
-- But most of us, I guarantee some of y'all like, oh, well, I'm keeping the commandments, I'm no better than them. I got you. So I guarantee, if I would have asked you to name five white folks you know personally that you hate, you couldn't name them. But if I ask you to name five you don't like, you name about ten of them, in your life. Name five white folks you know personally you don't like: two or three. Well, I guarantee, because where I'm from, I can name 20.
+- But most of us, I guarantee some of y'all like, oh, well, I'm keeping the commandments, I'm no better than them. I got you. So I guarantee, if I would have asked you to name five white folks you know personally that you hate, you couldn't name them. But if I ask you to name five … you don't like, you name about ten of them, in your life. Name five white folks you know personally you don't like: two or three. Well, I guarantee, because where I'm from, I can name 20.
 
 </div>
 
@@ -274,7 +274,7 @@ Reading from *The New Order of Barbarians*, on the real and the stated goals  *[
 
 > and we will over-pollute the world with our waste.
 
-- Their waste. Now, remind you, when they say this here, this is code talk. That's what it's code talk for. It's code talk for destroy. There's too many of these blacks and Hispanics, they're growing too hard, and they're going to outnumber us. That's why: remember, Richard Day was the director of what? Planned Parenthood, which controls the population.
+- Their waste. Now, remind you, when they say this here, this is code talk. … That's what it's code talk for. It's code talk for destroy. There's too many of these blacks and Hispanics, they're growing too hard, and they're going to outnumber us. That's why: remember, Richard Day was the director of what? Planned Parenthood, which controls the population.
 
 - Now, you're probably wondering, what does this have to do with the Bible revisions? It has everything to do with it. Because that was their discussion: the Bible being changed, and population control, drug addiction promotion. It's all because they're targeting the same people that are tied to the same book. That's why. Read that. Exodus 1 and verse 7.
 
@@ -428,7 +428,7 @@ Reading from the video clip of an interview with Dr. Young  *[[57:51](https://ww
 
 - **Officer:** My man got gray eyes and blonde hair. That's a wrap.
 
-- **Deacon Eythan:** And if that boy gets old and marries a white woman, his grandfather never existed. That's the plan. That's why they tell the ball players, get a white woman. Get a white woman. Get a white woman. Why? It's engineered. So even if you are one, you won't look like one, because of the son. I'm sorry; that's a brother.
+- **Deacon Eythan:** And if that boy gets old and marries a white woman, his grandfather never existed. That's the plan. That's why they tell the ball players, get a white woman. Get a white woman. Get a white woman. Why? It's engineered. So even if you are one, you won't look like one, because of the son. … I'm sorry; that's a brother.
 
 - That son there, that's a black boy. If he marries a white woman, his children will never know, if he don't say anything. If his son gets older and marries a white woman, and they have white kids, and his son and the father stay quiet about it, those kids will never know that they're black. Like the Afro-Germans, them black babies over there in Germany in World War II.
 
@@ -504,7 +504,7 @@ Reading from *The New Order of Barbarians*, on population control and redirectin
 
 > The strategy then would be not to diminish sex activity, but to increase sex activity, but in such a way that people won't be having babies.
 
-- Go back to Exodus, where they said these guys are growing mightier. Then they gave us more work to do, and we went back and smashed some more. Had a hard day at work. Okay, I'm tired. I'm stressed out. Come over here. And that was it: we had more babies. They said, these won't die. We're trying to stop them from having kids, and they making more.
+- Go back to Exodus, where they said these guys are growing mightier. Then they gave us more work to do, and we went back and smashed some more. Had a hard day at work. Okay, I'm tired. I'm stressed out. Come over here. And that was it: we had more babies. They said, these … won't … die. We're trying to stop them from having kids, and they making more.
 
 - We gave them crack and cocaine. I had a coworker at my old job. He's a crack baby. Functioning, normal, everything. Had normal kids, everything. He said, my mom was smoking crack with me in the womb. He's a crack baby. Damn.
 

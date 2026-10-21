@@ -172,7 +172,7 @@ Reading from *History of the Jews*, volume three, two pages on the Jews in Spain
 
 - **A brother:** That's going back to what Deacon was just bringing out. They came after, right?
 
-- **Deacon Eythan:** Yeah. The Visigoths and Germanic tribes. The Visigoths and Vandals, that's a Germanic tribe. That's Edom that came through later on and took over Spain. Vandals: somebody vandalized your property. That's where the term comes from, Vandals. Esau, they were called Vandals, or vandalizers. They steal lands and people. Damn Vandals. Visigoths and Vandals. And they intermingled into one. They became one pretty much, between Visigoths and Vandals, especially in Spain.
+- **Deacon Eythan:** Yeah. The Visigoths and Germanic tribes. … The Visigoths and Vandals, that's a Germanic tribe. That's Edom that came through later on and took over Spain. Vandals: … somebody vandalized your property. That's where the term comes from, Vandals. Esau, they were called Vandals, or vandalizers. They steal lands and people. Damn Vandals. Visigoths and Vandals. And they intermingled into one. They became one pretty much, between Visigoths and Vandals, especially in Spain.
 
 - Now those are Germanic tribes. I'm going to show you also how these Visigoths and Vandals, Germanic tribes, are branch-offs or break-offs of the Roman Empire. Edomite Rome, mixtures of Japheth in there as well.
 
@@ -278,7 +278,7 @@ Reading from *War of the Jews*, from page 191, on the Semitic Negroid Berbers, t
 
 > and later persecution by Christian Rome.
 
-- Christian Rome is evil, wealthy Roman. Constantine, I'mma prove he was black too. Some say he's white. The Council of Nicaea, I'mma destroy that. I'mma take my time on the Council of Nicaea. Take my time. I'm going to be real thorough with that. I got a whole page just for the Council of Nicaea, because y'all love the Council of Nicaea. The white man, the Bible was made by the Council of Nicaea; Christ was made by the Council of Nicaea. Negroes love to talk about the Council of Nicaea. Men and women, y'all follow the Billy Carson route. Just talk about things and no evidence. You cite no sources. You just talk. No evidence. I'm going to help y'all in the long run, though.
+- Christian Rome is evil, wealthy Roman. … Constantine, I'mma prove he was black too. Some say he's white. The Council of Nicaea, I'mma destroy that. I'mma take my time on the Council of Nicaea. Take my time. I'm going to be real thorough with that. I got a whole page just for the Council of Nicaea, because y'all love the Council of Nicaea. The white man, the Bible was made by the Council of Nicaea; Christ was made by the Council of Nicaea. Negroes love to talk about the Council of Nicaea. Men and women, y'all follow the Billy Carson route. Just talk about things and no evidence. You cite no sources. You just talk. No evidence. I'm going to help y'all in the long run, though.
 
 - So it says here: Christian Rome was the Israelites that took over Rome and became the emperors over it and took on Roman ideology. Read on.
 
@@ -360,7 +360,7 @@ Reading from *War of the Jews*, from page 191, on the Semitic Negroid Berbers, t
 
 > A chieftain of a Judeo-Berber tribe terrorized her Aurès mountain settlement and demanded Kahina as a wife.
 
-- That was us. That was us being to each other.
+- That was us. That was us being … to each other.
 
 > When she rejected him, he slaughtered people of her village. She then gave herself to him, but like the biblical heroine, slew him with a nail to the skull on the wedding night.
 
@@ -376,7 +376,7 @@ Reading from *War of the Jews*, from page 191, on the Semitic Negroid Berbers, t
 
 > <sup>[21](/bible/judges/4#v21)</sup> Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
 
-- Damn. He was sleep. That was big as hell, and she drove it through his skull to the ground. That dude was a human tent.
+- Damn. He was sleep. That … was big as hell, and she drove it through his skull to the ground. That dude was a human tent.
 
 - **A brother:** She pitched the tent in his skull, bro. It's crazy.
 
@@ -578,7 +578,7 @@ Reading from *Fossilized Customs*, page 216, on the Los Lunas stone · read by a
 
 **Text:** Shalom Deacon. What would the white Berbers of Northern Africa be?
 
-**Deacon Eythan:** Arabs. Turks. Those are Arabs mixed together. Yeah, they mixed. That's why I mentioned earlier that the Arabs took over. It was the Turks. So basically Edomite, call them Edom-Arabs. So Edom and Ishmael mixed together. The Turks. Yeah, they all mingled together. So the Visigoths, pretty much, and the Ishmaelites all pretty much mingled together over there. And that's who that is over there now. A bunch of Turks over there. The same white Arabs over there in Egypt are the same white Arabs over there in the Barbary States. That's who that is. Colonizers. Those are the ones that got mad when they're working on the Hannibal movie with Denzel. They're mad because they want Hannibal to look like them. That's who's over there complaining. So Edom and Ishmael basically mingle together. That's what that is today.
+**Deacon Eythan:** Arabs. Turks. Those are … Arabs mixed together. Yeah, they mixed. That's why I mentioned earlier that the Arabs took over. It was the Turks. So basically Edomite, call them Edom-Arabs. So Edom and Ishmael mixed together. The Turks. Yeah, they all mingled together. So the Visigoths, pretty much, and the Ishmaelites all pretty much mingled together over there. And that's who that is over there now. A bunch of Turks over there. The same white Arabs over there in Egypt are the same white Arabs over there in the Barbary States. That's who that is. Colonizers. Those are the ones that got mad when they're working on the Hannibal movie with Denzel. They're mad because they want Hannibal to look like them. That's who's over there complaining. So Edom and Ishmael basically mingle together. That's what that is today.
 
 *[[1:17:22](https://www.youtube.com/watch?v=tptjFXAh7XE&t=4642s)]* Give me *Babylon to Timbuktu*. I want page 90. Let me see. I read that already. Yeah, you brought this out last week. Hey, post the number. They asking for the number in the comments. I'll put the number on the group already. You can text us, and you can also Zoom call in as well regarding the topic. Hold on one second. I want the British Isles map. Hey Israel, make sure you hit the like button. Give me the old map also that Kim posted as well. We have another text, the same brother.
 
@@ -822,7 +822,7 @@ Reading from *A Universal History, from the Earliest*, volume 18, page 458 and t
 
 > But it appears from Bochart and others, that the Phoenicians called Spain,
 
-- Watch this. Remember, he argues no, that's not what it comes from. Esau will argue with himself. They'll say, no, it's not possible. But Bochart says it's possible. So this is crazy. Read between the lines.
+- Watch this. Remember, he argues no, that's not what it comes from. Esau will argue with himself. … They'll say, no, it's not possible. But Bochart says it's possible. So this is crazy. Read between the lines.
 
 > at least that part of it known to them, Spania, from shaphan, or span, a rabbit,
 
@@ -1070,7 +1070,7 @@ Reading from Wikipedia, *History of the Jews in Spain*, continued  *[[2:00:44](h
 
 > Now I have heard that this praise, which is now used by us in the prayer, was sent by the exiles who had been driven away from Jerusalem and who were not with Ezra in Babylon, and that Ezra had sent inquiring after them, but they did not wish to go up there. They replied that since they were destined to go off again into exile a second time, and that the Temple would once again be destroyed, why should we then double our anguish? It is best for us that we remain here in our place and serve God. Now I have heard that they are the people of Toledo and those who are near to them. However, that they might not be thought of as wicked men and those who are lacking in fidelity, may God forbid, they wrote down for them this magnanimous praise, etc.
 
-- So they weren't knocked for wanting to stay in Spain. They knew according to prophecy that the temple will be destroyed a second time. So they said, listen, the first temple was destroyed by Babylon. We witnessed that, right? We saw Babylon come along and destroy the first temple. Why come back home and see it destroyed the second time? We're going to stay right here in Spain, send y'all some resources, and we good over here. So they said, okay, all praises. You send resources, we give them praise. That was it. So that's how Israel ended up staying in Spain. We stayed there. We migrated there. We settled there. We stayed there. We were good.
+- So they weren't knocked for wanting to stay in Spain. They knew according to prophecy that the temple will be destroyed a second time. So they said, listen, the first temple was destroyed by Babylon. We witnessed that, right? We saw Babylon … come along and destroy the first temple. Why come back home and see it destroyed the second time? We're going to stay right here in Spain, send y'all some resources, and we good over here. So they said, okay, all praises. You send resources, we give them praise. That was it. So that's how Israel ended up staying in Spain. We stayed there. We migrated there. We settled there. We stayed there. We were good.
 
 </div>
 

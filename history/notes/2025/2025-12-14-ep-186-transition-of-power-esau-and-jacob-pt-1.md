@@ -202,13 +202,13 @@ Reading from an article on Athrwys of Gwent and the search for the real King Art
 >
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
-- Verse 6 first: and the heart of them, the wicked, is deep. Why? Because when they realize, okay, these are free now, they're going to learn to read, we got to figure out a way to come behind what we wrote back then and clean it up. Because they have contingency. They think ahead: okay, if they read this, they're going to know that they ruled. We can't allow that to happen. We have to erase that. Come back and clean all that up. Because remember, these books that we're going over, they shared among themselves in their small circles.
+- Verse 6 first: and the heart of them, the wicked, is deep. Why? Because when they realize, okay, these … are free now, they're going to learn to read, we got to figure out a way to come behind what we wrote back then and clean it up. Because they have contingency. They think ahead: okay, if they read this, they're going to know that they ruled. We can't allow that to happen. We have to erase that. Come back and clean all that up. Because remember, these books that we're going over, they shared among themselves in their small circles.
 
 - Remember that dude who sat with the Bishop. The Bishop had a book that we have in our possession, which was very, very hard to come by, but we have it. And the book was laying flat on the table, and the guy was like, I see you got a rare book there. The book wasn't open, but he knew what it was. It was closed and he kept focusing. He kept saying, how do you know where to go when you travel to teach people? The spirit. He told the Bishop, I work for a group of scholars. But he's sitting down talking to our Bishop about what books we're having and how we came across it and where we have it. We know exactly what we're talking about. We know what we're doing over here.
 
 - **Officer:** They do what is called threat assessment.
 
-- **Deacon Eythan:** Right. Threat assessment. Thank you. Let's see how much these know before it's our time to go. That's what they doing. So the book is *The Lost Tribes a Myth*, by the way. It's a Duke University book written by Allen H. Godbey, which is very, very rare to have. You will not find that book again. Or the other book, the jewelry book.
+- **Deacon Eythan:** Right. Threat assessment. Thank you. Let's see how much these … know before it's our time to go. That's what they doing. So the book is *The Lost Tribes a Myth*, by the way. It's a Duke University book written by Allen H. Godbey, which is very, very rare to have. You will not find that book again. Or the other book, the jewelry book.
 
 - **Officer:** That book's like $4,000. We have it hard copy. Not published anymore. We own those books.
 
@@ -220,7 +220,7 @@ Reading from an article on Athrwys of Gwent and the search for the real King Art
 
 - They say, who shall see them? And they say, who's going to figure this out? We will.
 
-- They search out iniquities. That's how they bring out Christmas, New Year's. Where they learn that? Where that custom come from? It's of antiquity. Where's New Year's from? It's of antiquity. The months of the year, antiquity. The days of the week, antiquity. The names of the planets, antiquity. They search these things out. You're going to worship Rome one way or the other, because they search out iniquities. New Year's, Mother's Day, Father's Day, Valentine's Day, birthdays: antiquity. They search it out and they incorporate it into their system. And you stupid ass will go by and you celebrate it.
+- They search out iniquities. That's how they bring out Christmas, New Year's. Where they learn that? Where that custom come from? It's of antiquity. Where's New Year's from? It's of antiquity. The months of the year, antiquity. The days of the week, antiquity. The names of the planets, antiquity. They search these things out. You're going to worship Rome one way or the other, because they search out iniquities. New Year's, Mother's Day, Father's Day, Valentine's Day, birthdays: antiquity. They search it out and they incorporate it into their system. And you stupid ass … will go by and you celebrate it.
 
 - They accomplish a diligent search, both the inward thought of every one of them, and the heart is deep. Because they think 10 steps ahead. Contingency plan A. Contingency plan B. C, D, E, F. So if A fails, they got B in place. If C fails, they got D in place. Damn. So I don't expect you stupid black apologists to think that far ahead. You're not on that level. We are, though. We know what they're doing. We know what they've done. Now let's go back to the article.
 
@@ -254,7 +254,7 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 > The name Athrwys was seen by some as a plausible corruption or variant of Arthur or Arthurus, the Latin
 
-- Somebody said that they found the book, *The Lost Tribes a Myth*, for $11. That's fine. It might be revised, though. I'm going to give you that. Also, those of y'all who want to be antiquarians: when you buy books, buy the oldest ones. You buy the newly published ones, they take out. Excuse my language. They take things out. We've seen it. We had it. They revise a whole paragraph or take a whole paragraph out. A whole chapter out. So you might find it cheaper, but it's a lot lighter, I tell you that right now. So don't think, oh, I found it. You may have found it, but not the copy you should have. But try buying anyway. If you find it for $131, all praises, buy it anyway just in case. But in our history and in our time up here, we're like, oh, wow, $20, that's it, and we buy, and, hey, what's this? This is not in the old one. This is not found in the first edition. Because they revised it. Because remember, every heart of them is deep. They can buy this book now, take that out, take that out, put that in, take that out. That's what they do.
+- Somebody said that they found the book, *The Lost Tribes a Myth*, for $11. That's fine. It might be revised, though. I'm going to give you that. Also, those of y'all who want to be antiquarians: when you buy books, buy the oldest ones. You buy the newly published ones, they take … out. Excuse my language. They take things out. We've seen it. We had it. They revise a whole paragraph or take a whole paragraph out. A whole chapter out. So you might find it cheaper, but it's a lot lighter, I tell you that right now. So don't think, oh, I found it. You may have found it, but not the copy you should have. But try buying anyway. If you find it for $131, all praises, buy it anyway just in case. But in our history and in our time up here, we're like, oh, wow, $20, that's it, and we buy, and, hey, what's this? This is not in the old one. This is not found in the first edition. Because they revised it. Because remember, every heart of them is deep. They can buy this book now, take that out, take that out, put that in, take that out. That's what they do.
 
 - Even the PDFs they revise. Some of you might find a PDF of it also. They tend to revise even the PDFs that are free online as well, or the audio books. So be mindful. I'm going to let y'all know in advance. Some books are going to be revised. Go ahead.
 
@@ -266,7 +266,7 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 > Annales Cambriae and Harley MS 3859
 
-- Annales Cambriae. The book I use is called the Cambrian Biography. That's the book I use regarding the list of names I had. This is the Annales Cambriae, or Cambrian Annals, in Harleian MS 3859. Remember in Wikipedia it said the MS 20. MS means manuscript. This is manuscript 3859. Ancient primary sources. Think it was a game up here? Some dumb up here? Y'all better do better than this. Read the whole thing.
+- Annales Cambriae. The book I use is called the Cambrian Biography. That's the book I use regarding the list of names I had. This is the Annales Cambriae, or Cambrian Annals, in Harleian MS 3859. Remember in Wikipedia it said the MS 20. MS means manuscript. This is manuscript 3859. Ancient primary sources. Think it was a game up here? Some dumb … up here? Y'all better do better than this. Read the whole thing.
 
 > Annales Cambriae and Harley MS 3859, Folio 190r, circa 12th century.
 
@@ -412,7 +412,7 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 > These pieces of evidence
 
-- Legendary or not, he's based upon this person, and these are black people. That was my whole premise. These were black people ruling England. That was the whole point. I'm leading to King James being a black king, but prior to him, these were black people. So whether King Arthur was real or fake, he's based upon real figures that were real, historically documented in real life. So I don't give a if he's legendary or not. He's based upon real people, dumbass. Go ahead.
+- Legendary or not, he's based upon this person, and these are black people. That was my whole premise. These were black people ruling England. That was the whole point. I'm leading to King James being a black king, but prior to him, these were black people. So whether King Arthur was real or fake, he's based upon real figures that were real, historically documented in real life. So I don't give a … if he's legendary or not. He's based upon real people, dumbass. Go ahead.
 
 > These pieces of evidence and more have traditionally been dismissed as mistakes in the records. However, this interpretation of the evidence has been determined by the accepted chronology. This opens the possibility that Athrwys lived when it was believed that King Arthur was active.
 
@@ -448,7 +448,7 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 *[[56:51](https://www.youtube.com/watch?v=fziNo8Jk6E0&t=3411s)]* The break: the IUIC promotional videos play. "You were given labels: black, Hispanic, Native American, Indian. But what if those labels were designed to hide a deeper truth? A truth of a people scattered by ship, by force, by conquest, by prophets. They are not just in one land. They are in every land in the four corners of the world, just as the scriptures foretold. From the ancient lands to the farthest shores, Africa, Europe, India, the Middle East, the Americas, the Caribbean, they are there. The diaspora is complete and the awakening has begun. It's time to learn who you really are." Then the brothers in the island of Dominica, looking for the lost souls of the children of Israel there, from the tribe of Benjamin; the brothers touching down for the first time in Salvador, Brazil, come straight from Luanda, Angola, a key port for enslaved Israelites that came from the southwestern coast of Africa to the Americas, showing the children sleeping in the bushes and the fields beside two Catholic churches; the school fundraiser plates, pre-order for January 10th; and the Marriage Is Honorable event.
 
-*[[1:05:11](https://www.youtube.com/watch?v=fziNo8Jk6E0&t=3911s)]* We're back. We're back from the break. I see y'all on the damn comment board causing all kind of confusion up here, trying to save Massa. Oh, they were absorbed. I think a lot of you are Edomites, too. To be honest, I think most of y'all negroes that's brown, y'all too. Damn, shake the tree. I think you shake that family tree, a white man gonna come out that tree on your father's side. I'm telling you straight. Go out your way to argue Esau. A lot of y'all are Esau, too. I'm just going to tell you straight up and down. A lot of you. Y'all go out of your way. Why? Of all our nations, why do you argue that nation? Of all our nations, you got to argue, why that one? Because in your heart of thought, you know it's probably you, or you know we're right. It's one or the other.
+*[[1:05:11](https://www.youtube.com/watch?v=fziNo8Jk6E0&t=3911s)]* We're back. We're back from the break. I see y'all on the damn comment board causing all kind of confusion up here, trying to save Massa. Oh, they were absorbed. … I think a lot of you … are Edomites, too. To be honest, I think most of y'all negroes that's brown, y'all … too. Damn, shake the tree. I think you shake that family tree, a white man gonna come out that tree on your father's side. I'm telling you straight. Go out your way to argue Esau. A lot of y'all are Esau, too. I'm just going to tell you straight up and down. A lot of you. Y'all go out of your way. Why? Of all our nations, why do you argue that nation? Of all our nations, you got to argue, why that one? Because in your heart of thought, you know it's probably you, or you know we're right. It's one or the other.
 
 **Officer:** That's usually the reason why most of these dudes do it. Because they love this man. He can't be Esau. He can't be. He was absorbed.
 
@@ -524,7 +524,7 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 - **Officer:** That's their national destiny.
 
-- **Deacon Eythan:** That's their national destiny. What's his name? Rodney. Some of y'all be trying your hardest to save Massa. Oh, they absorbed. They weren't all absorbed, because Herod was a king. They were not all absorbed during that time. They were converted during John Hyrcanus's time. They were subjugated during that time.
+- **Deacon Eythan:** That's their national destiny. What's his name? Rodney. Some of y'all … be trying your hardest to save Massa. Oh, they absorbed. They weren't all absorbed, because Herod was a king. They were not all absorbed during that time. They were converted during John Hyrcanus's time. They were subjugated during that time.
 
 - **Officer:** Wasn't their blessing that they would be living everywhere in the world, in the best places of the earth?
 
@@ -544,17 +544,17 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 - **Officer:** They're NPCs.
 
-- **Deacon Eythan:** There's only two forces on the earth: Esau and Israel. Some of y'all dudes, I'm telling you, a lot of you, you got a lot of brown colored walking around too. Obadiah: that's it, the conversation ends.
+- **Deacon Eythan:** There's only two forces on the earth: Esau and Israel. Some of y'all dudes, I'm telling you, a lot of you, you got a lot of brown colored … walking around too. Obadiah: that's it, the conversation ends.
 
 - **Officer:** The fact that Esau, Edom, the so-called white man today, has to be defended by our brothers that have Stockholm syndrome proves that they're Esau, Edom. It proves that they're in power. You're trying to defend the system they have set up right now.
 
-- **Deacon Eythan:** You're right. They're not asking about no other nation. They don't care about no other nation. They're not concerned with. They're not concerned with Ham. They're not concerned with Elam. They're not concerned with Canaan. Their concern is who Esau is. Why? Because deep in your mind, you know what we're saying is true. So you try to fight it. No, it can't be him. I can't see a world without him. It can't be. He's somebody else. That's you, the house. That's Cypher: I know this is not real steak, but ignorance is bliss. That's you. I know Esau is the white man, but I just don't want to believe it. It just can't be.
+- **Deacon Eythan:** You're right. They're not asking about no other nation. They don't care about no other nation. They're not concerned with. They're not concerned with Ham. They're not concerned with Elam. They're not concerned with Canaan. Their concern is who Esau is. Why? Because deep in your mind, you know what we're saying is true. So you try to fight it. No, it can't be him. I can't see a world without him. It can't be. He's somebody else. That's … you, the house. … That's Cypher: I know this is not real steak, but ignorance is bliss. That's you. I know Esau is the white man, but I just don't want to believe it. It just can't be.
 
 - So how could Isaac have had twin children in the womb, and one be black, one be white? Well, let me ask you a question. How did Noah's three sons produce white people? Because Noah and Noah's children, his wives, they were all the same race. So where did the white folks come from out of Noah's kids if they were all black? Noah was black, as well as his wife. So were his sons and their wives. So where the white folks come from? That would mean that a black couple produced white people back then too. Oh, I know what you going to do. You're going to use science. Oh yeah, if you move to a colder climate, you're lighter. Well, if that's the case, why do we got a bunch of dark ass Native Americans living in the cold and they're still dark over there? If the climate changes your color? Huh? I know. Let that simmer in your spirit. Let that simmer. Okay. Now, go ahead. You wanted something, Cap?
 
 - **A captain:** And you notice in the comments they're still saying the color of Esau. I mentioned the Bible says red all over. He was red and hairy. The Bible describes him as red. Y'all stop. This is trauma bonding.
 
-- **Deacon Eythan:** Stop it. Y'all are like the woman that gets raped and goes, well, he was gentle. Trauma bond. That's y'all. You get raped and go, oh, well, he didn't put it in that rough. He was gentle with it. He used lube when he raped me. That's how y'all sound.
+- **Deacon Eythan:** Stop it. Y'all … are like the woman that gets raped and goes, well, he was gentle. Trauma bond. That's y'all. You get raped and go, oh, well, he didn't put it in that rough. He was gentle with it. He used lube when he raped me. That's how y'all … sound.
 
 - **A captain:** He gave me a shower afterwards.
 
@@ -878,7 +878,7 @@ Reading from *Conquest of Spain by the Arab-Moors*, volume one, pages 392 to 398
 
 > It was a sad outlook. The Muslims, in the arrogance of unchecked victory,
 
-- The Muslims, in our arrogance of unchecked victory. What's unchecked victory? Looking to see what them is doing. That handful, we didn't check on them. We got comfortable and said, ah, they good. They're no threat anymore. That's what we thought. Read on.
+- The Muslims, in our arrogance of unchecked victory. What's unchecked victory? Looking to see what them … is doing. That handful, we didn't check on them. We got comfortable and said, ah, they good. They're no threat anymore. That's what we thought. Read on.
 
 > and angered by the slightest opposition, had begun to depart from the leniency of their first terms. The women of Spain were at the mercy of their conquerors as slaves and as favorites.
 
@@ -1056,7 +1056,7 @@ Reading from *Conquest of Spain by the Arab-Moors*, volume one, continued · rea
 
 - They survived off the honey in the crevices of the rock. Job 30. I've been waiting to get that.
 
-- **Officer:** Hey D, you know what's funny, man? They won't argue whether Pelayo existed or not. You know why? Because he's white. They won't argue that. They're not going to argue Pelayo.
+- **Officer:** Hey D, you know what's funny, man? … They won't argue whether Pelayo existed or not. You know why? Because he's white. They won't argue that. They're not going to argue Pelayo.
 
 - **Deacon Eythan:** He's not going to break up a passage. He's white. He existed. Job 30. Start at one.
 
@@ -1130,7 +1130,7 @@ Reading from *Conquest of Spain by the Arab-Moors*, volume one, continued · rea
 
 - They abhor me. They hate our guts. Go ahead.
 
-- They watch them 60s videos, them police officers holding us down, spitting in our face, all of that. Going to the restaurant: get out of here. This was a white establishment.
+- They watch them 60s videos, them police officers holding us down, spitting in our face, all of that. Going to the restaurant: get out of here. … This was a white establishment.
 
 - **Officer:** Soon as we move in, they move out.
 

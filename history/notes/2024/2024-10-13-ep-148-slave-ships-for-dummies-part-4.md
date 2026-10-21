@@ -106,7 +106,7 @@ Reading from *Rice and Slaves*, the next page, the highlighted part  *[[22:34](h
 
 - Assigned certain attributes to various ethnic groups, such as culture. What is culture? Us keeping the laws of God, us keeping the commandments of God. The circumcision, the Sabbath days, the feast days, the high priests, the purity laws. We had the cleanest laws. They knew these guys keep circumcision. What day? Eighth day. They keep sabbaths, they have high priests. Oh, okay. Those aren't the Hamites over there. They ain't got bones in their nose, they ain't got bowls in their lip, they ain't drinking blood. Those different from them over there. Look at their skin, different. Look at their customs, different. They knew who they were taking.
 
-- They weren't just snatching up out of Africa. You crazy? You know how large Africa is? That's not what happened. That was an organized effort. It was strategy, it was methodical. It was an act of war. This is war. That's what it was. They didn't just snatch up random Negroes in Africa, let me take them as a slave. That's not what happened. You're not coming to a random continent and just taking random people out of nowhere and putting them on a boat and throwing them over here. That's not how that works. It was an organized effort. It was coordinated. They knew who they were selling. They had help. The Hamites helped them, the Arabs helped them.
+- They weren't just snatching up … out of Africa. You crazy? You know how large Africa is? That's not what happened. That was an organized effort. It was strategy, it was methodical. It was an act of war. This is war. That's what it was. They didn't just snatch up random Negroes in Africa, let me take them as a slave. That's not what happened. You're not coming to a random continent and just taking random people out of nowhere and putting them on a boat and throwing them over here. That's not how that works. It was an organized effort. It was coordinated. They knew who they were selling. They had help. The Hamites helped them, the Arabs helped them.
 
 </div>
 
@@ -126,7 +126,7 @@ Reading from *Rice and Slaves*, the next page, the highlighted part  *[[22:34](h
 
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
 
-- They have consulted together with one consent. They all conspired, they got together. It was a joint effort. It was not just some random act where the white man just sails, hey, we're in Africa, whoa, look over there, let's grab him and make him a slave. That's not what happened. That's what the white man tells you happened. That's not what the Bible says. Ain't what history tells you.
+- They have consulted together with one consent. They all conspired, they got together. It was a joint effort. It was not just some random act where the white man just sails, hey, we're in Africa, whoa, look … over there, let's grab him and make him a slave. That's not what happened. That's what the white man tells you happened. That's not what the Bible says. Ain't what history tells you.
 
 - They are confederate against God and against his people. Because God did not choose these nations as his own people. He rejected them. And so as a consequence of us going against our God, they said, fine, since he's against them, we could be against them too. We're going to get back at God for not choosing us.
 
@@ -186,7 +186,7 @@ Reading from *Rice and Slaves*, the next page  *[[34:56](https://www.youtube.com
 
 - Why is the author saying it's striking? Because he can't understand why they were so precise about who they were snatching onto the ships. How they know so much? Because God moved their spirit to know. And Edom is the devil the Bible speaks of. Satan told him, hey, go over there, go over there, ask the Israelites over there, ask the Hamites over there. They'll tell you where they're at. They got them.
 
-- Confined to the seaboard. Remember, they were sitting at the seaboard. They didn't go into Africa and grab them. They sat in the boat like, yo, go get them, go buy them and come back and bring them on the ship. How did the Europeans, who were sitting on the seaport in the boat, who didn't set foot further inland into Africa, know who to grab, who's who? Because they knew where to go.
+- Confined to the seaboard. Remember, they were sitting at the seaboard. They didn't go into Africa and grab them. They sat in the boat like, yo, go get them, go buy them and come back and bring them on the ship. How did the … Europeans, who were sitting on the seaport in the boat, who didn't set foot further inland into Africa, know who to grab, who's who? Because they knew where to go.
 
 > knew about African ethnology, politics, and customs.
 
@@ -254,7 +254,7 @@ Reading from *Rice and Slaves*, continuing, on the languages the slaves spoke  *
 
 > but they were frequently mentioned as absent from their master's service.
 
-- So Esau would hide these. Okay, they speak Spanish? Don't mention that Negro. Don't mention it. It'll bring too much attention to them. Because the thought is we were illiterate, couldn't speak, we spoke some Hamitic language, blah, blah, blah. We spoke Ibo. They're not going to mention us speaking English or French or Dutch or German. Nah, that's going to bring too many questions, that these Negroes speaking all these languages that we ain't teaching them to speak.
+- So Esau would hide these. … Okay, they speak Spanish? Don't mention that Negro. Don't mention it. It'll bring too much attention to them. Because the thought is we were illiterate, couldn't speak, we spoke some Hamitic language, blah, blah, blah. We spoke Ibo. They're not going to mention us speaking English or French or Dutch or German. Nah, that's going to bring too many questions, that these Negroes speaking all these languages that we ain't teaching them to speak.
 
 - Like the show Hell on Wheels. That scene where the white man taught him how to read, and the little boy reads, and I will bring you out of bondage. That was a bad scene, boy. He put the book down. That scene is fire, man. He goes, it's not a big deal, teaching him how to read. So do you understand what you just read? No sir, I don't understand what I just read. He said teaching him is like teaching a parrot how to repeat his master. But that little boy knew exactly what he was reading.
 
@@ -426,7 +426,7 @@ Reading from the atlas of the slave trade, page 24, on the conditions below deck
 
 - Now, it says their visage is blacker. Blacker, meaning we already black, so it's blacker than it was. It means they were black, as is right for black. But it says blacker than a coal. Because when you are starved, what happens to black people is that we become what is called hypermelanated. When we're starved enough, our skin gets darker. It's called hyperpigmentation. Hyperpigmentation comes through starvation. I'll give you an example of just how deep it can go. When you starve a leaf or a plant, if it gets too much sun or less water, the leaf gets brown. It's darker too, like we do. We get dark too. So we receive hyperpigmentation when we are starved. That's a sign of starvation. White folks don't get darker when they're starved. They get lighter when they're starved.
 
-- So this is clearly a description of black people being starved, like we were on the ships being starved. That's an example for you naysayers. And the Jews weren't black, they were white? Just stop talking. But Tertullian said that the Jews were white. Let's just be quiet, man. Stop talking. Don't talk. They love Tertullian, boy. The only they can think of that's a scholar in history: Tertullian.
+- So this is clearly a description of black people being starved, like we were on the ships being starved. That's an example for you naysayers. And the Jews weren't black, they were white? Just stop talking. But Tertullian said that the Jews were white. Let's just be quiet, man. Stop talking. Don't talk. They love Tertullian, boy. The only … they can think of that's a scholar in history: Tertullian.
 
 <div class="reading">
 
@@ -748,7 +748,7 @@ Reading from the atlas of the slave trade, on the slave deck of the Wildfire  *[
 
 > which meant a second unwanted and perilous Atlantic crossing to an unfamiliar destination.
 
-- They were from Congo. They said bring them to Liberia, drop them off over there. They don't belong over here. So you got the Veteran, you got the Vigilante, the Wildfire. These are slave ships. But some of y'all don't know what's going on.
+- They were from Congo. They said bring them to Liberia, drop them off over there. They don't belong over here. So you got the Veteran, you got the Vigilante, the Wildfire. These are slave ships. But some of y'all … don't know what's going on.
 
 </div>
 
@@ -912,7 +912,7 @@ Reading from the *Encyclopédie des voyages*, a French book published in 1796, i
 
 - Get this book. Hey, listen, man, donate to the book fund, so we can get this book in color. We can get the actual book if y'all donate. We can buy the books and we'll share them with you. These books are not for us primarily; they're for us and for you, the watching audience. So please donate to Our Hidden History, regarding the book fund, so we can buy these books.
 
-- There we go, this in color right here. Oh damn, look at him. You can tell Esau had an influence. Money in my ear like a rapper. This one is confused as hell. He's a king too. A confused king. king, the weak one. That's the one that ran off. That's the king that Ham came and conquered. Ham took over our province. That's him there, the weak king. 1727. Back out and go to the page that I sent you. That's the dude we read about in that book I got recently. This guy, the last ruler. This guy was the worst.
+- There we go, this in color right here. Oh damn, look at him. You can tell Esau had an influence. Money in my ear like a rapper. This one is confused as hell. He's a king too. A confused king. … king, the weak one. That's the one that ran off. That's the king that Ham came and conquered. Ham took over our province. That's him there, the weak king. 1727. Back out and go to the page that I sent you. That's the dude we read about in that book I got recently. This guy, the last ruler. This guy was the worst.
 
 </div>
 

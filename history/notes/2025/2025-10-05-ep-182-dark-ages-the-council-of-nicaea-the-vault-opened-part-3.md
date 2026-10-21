@@ -146,7 +146,7 @@ Reading from a book of the icons and images of the Annunciation Cathedral, the i
 
 - **Officer:** Give me some water.
 
-- **Deacon Eythan:** Got some ass doctrines out here, boy, I tell you. You can't sit in your throne. Only I can sit. You stand right here and watch me in my throne. Jesus.
+- **Deacon Eythan:** Got some … ass doctrines out here, boy, I tell you. You can't sit in your throne. Only I can sit. You stand right here and watch me in my throne. Jesus.
 
 - Got the book open. It's probably Christ there, and Elijah, Moses.
 
@@ -382,7 +382,7 @@ Reading from the Wikipedia article on Arius · read by an officer  *[[41:00](htt
 
 - All right. So Arius believed that Christ was created, and the Bible says that. But the pagan philosophy of Rome back then was the Trinity. The Trinity doctrine goes all the way back to Babylon, with Nimrod, his mother, his wife, and Tammuz. That trinitarian doctrine has been around since before the Council of Nicaea. And almost every ancient culture or civilization has a trinitarian doctrine. Whether it be China, Babylon, India, Japan, they have a pagan trinity. And it all goes back to Nimrod. Remember, all nations at one time were all gathered together. So they all had their own rendition of a trinitarian doctrine, including Rome.
 
-- So by this time we had taken over Rome. We took over Rome. We adopted the ideology of Rome. We became black Romans. And so, even though black folks took over Rome, we became Romans. We took on the spirit of Esau, basically. So a lot of our brothers who were opposed to that doctrine, we would call each other Esau, because we were found behind this doctrine. Like we call coons today. Same thing.
+- So by this time we had taken over Rome. We took over Rome. We adopted the ideology of Rome. We became black Romans. And so, even though black folks took over Rome, we became Romans. We took on the spirit of Esau, basically. So a lot of our brothers who were opposed to that doctrine, we would call each other Esau, because we were found behind this doctrine. Like we call … coons today. Same thing.
 
 - So he believed that Christ was created. The Bible substantiates that Christ was created. Those of you other camps who are watching, and I know you watch: we do not teach that Christ is God, his father. I'm going to say it again, because I know you watch. We do not teach that Christ is the heavenly father. He is our father. But he himself has a father, who is our grandfather. I hope that clears it up. At no point in time have we ever told or stated that Christ is the Most High God. He's not.
 
@@ -404,7 +404,7 @@ Reading from the Wikipedia article on Arius · read by an officer  *[[41:00](htt
 
 - **Deacon Eythan:** But remember, when we took over Rome, we adopted and borrowed the ideology of Rome and basically tried to incorporate the trinitarian doctrine into the Bible. I said before, I'll say again, I've said it multiple times: Judaism is damn near the core of almost every religion. Well, the main ones today. Judaism and sun worship, because that's what Constantine was. He was a sun worshipper, and so was his mother, prior to being a quote unquote western Christian. Judaism and sun worship merged together is the Catholic Church and all Christian denominations combined, who the Catholic Church is the mother of.
 
-- The Catholic Church is the mistress, and all these Christian denominations are her bottom. I'm just going to be flat out with it. She's the top madam. And all these other Christian denominations are all the other madams under her, like a harem or a brothel. That's what the Bible calls the Christian church: the mother of harlots. The Catholic Church is the mother of harlots. Okay. And then you have Islam. Judaism merged with moon worship. That's Islam. All right. 1 Corinthians 11. Read that.
+- The Catholic Church is the mistress, and all these Christian denominations are her bottom. … I'm just going to be flat out with it. She's the top madam. And all these other Christian denominations are all the other madams under her, like a harem or a brothel. That's what the Bible calls the Christian church: the mother of harlots. The Catholic Church is the mother of harlots. Okay. And then you have Islam. Judaism merged with moon worship. That's Islam. All right. 1 Corinthians 11. Read that.
 
 </div>
 
@@ -458,7 +458,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 > Constantine the Great's formal decriminalization of Christianity in the Roman Empire entailed the convention of ecumenical councils to remove theological divisions between opposing sects within the church.
 
-- So prior to Constantine, the Christian doctrine was outlawed, and many of us were being martyred and killed off. We were killing each other off, actually. You had black Romans killing off those who were teaching Christ, or anything remotely close to the teaching of Christ. They were being killed off. And so Constantine came along, had some weird vision about a cross, I don't know what the hell he was talking about, and he ended up saying, rather than kill these people, because the Christian doctrine was so popular and so famous, he said, well, rather than kill them, let's come to a common ground. Let's come to a commonality. Let's just take the Christian doctrine and the Roman doctrine and let's have a council and convene and let's figure this out. And so Arius came with his doctrine. Athanasius came with the trinity nonsense, and they successfully outlawed Arianism, or outlawed a biblical doctrine. And so this doctrine became what is known as, we read on. I was going to say what it is. Read on.
+- So prior to Constantine, the Christian doctrine was outlawed, and many of us were being martyred and killed off. We were killing each other off, actually. You had black … Romans killing off those who were teaching Christ, or anything remotely close to the teaching of Christ. They were being killed off. And so Constantine came along, had some weird vision about a cross, I don't know what the hell he was talking about, and he ended up saying, rather than kill these people, because the Christian doctrine was so popular and so famous, he said, well, rather than kill them, let's come to a common ground. Let's come to a commonality. Let's just take the Christian doctrine and the Roman doctrine and let's have a council and convene and let's figure this out. And so Arius came with his doctrine. Athanasius came with the trinity nonsense, and they successfully outlawed Arianism, or outlawed a biblical doctrine. And so this doctrine became what is known as, we read on. I was going to say what it is. Read on.
 
 > Arius's theology was a prominent topic at the First Council of Nicaea,
 
@@ -562,7 +562,7 @@ Reading from *A Church History of the Council of Nicaea, A.D. 325*, on Arius's a
 
 - Like for example, I speak as a man, as Paul would say. I'm giving you a carnal example, because this is not real life. I like watching Marvel movies. When you watch Marvel movies like Thor, Odin is called the All-Father. He is god of the gods. Then Thor is a god. But Odin is the god of the gods. So the father is a god of Christ, who was a god. And Christ made us, and we're gods of that God. You understand? This is grandfather, father, sons. Then sons have sons. The Bible says he is the God of gods, because he's our God and we're gods. But guess what? We didn't create. Christ made us.
 
-- And some try to be slick and say, oh yeah, Christ is a god, we are gods, Christ ain't my god. That's blasphemy. Christ is your creator. John says it. Oh, he ain't my god. I heard say that stupid stuff before. Christ ain't my God. He's just some that died. You know, we all gods. I go to my wife and I have a son. I created something. I'm a God too. You didn't create the universe. You didn't create things seen and unseen. Read that, man. Y'all pissing me off. Hearing that is pissing me off.
+- And some try to be slick and say, oh yeah, Christ is a god, we are gods, Christ ain't my god. That's blasphemy. Christ is your creator. John says it. Oh, he ain't my god. I heard … say that stupid stuff before. Christ ain't my God. He's just some … that died. You know, we all gods. I go to my wife and I have a son. I created something. I'm a God too. … You didn't create the universe. You didn't create things seen and unseen. Read that, man. Y'all pissing me off. Hearing that is pissing me off.
 
 - Read verse 8 again. Sorry, I went to a dark place just now.
 
@@ -679,7 +679,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 - **Officer:** We become morphed.
 
-- **Deacon Eythan:** They them. Yeah. They become they them, or the pronoun. It's. It's a stupid doctrine. So now, my mind is racing. Get me Acts 17.
+- **Deacon Eythan:** They them. Yeah. They become they them, or the pronoun. It's. … It's a stupid doctrine. So now, my mind is racing. Get me Acts 17.
 
 - **Officer:** If I may: that's why Paul said don't be corrupted from the simplicity that is in Christ. It's very, very simple. The scriptures tell constantly, over and over again, that Christ is the only begotten of the father. But then people come up with their own doctrine saying some nonsense.
 
@@ -717,7 +717,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 - **Officer:** That's today's math, God.
 
-- **Deacon Eythan:** That's today's mathematics, God, telling you. So that's what the Athenians were. So Paul was like, these guys are stupid. His spirit got stirred up. He said, let me talk to these dudes. So Paul had to go with them, and Paul actually quoted one of their philosophers to get their attention. The guy's name was Epimenides, when you read Acts 17 and 28, and he quotes him again, I believe, in Titus 1:12. So Paul tried to condescend and relate to them. Remember, Paul was raised in everything; he was taught, well learned. But anyway, the point of the matter is that these Athenians were always involved in some doctrine, to know. Now get Sirach 3. That goes with this here. Start at 19.
+- **Deacon Eythan:** That's today's mathematics, God, telling you. So that's what the Athenians were. So Paul was like, these guys are stupid. His spirit got stirred up. He said, let me talk to these dudes. … So Paul had to go with them, and Paul actually quoted one of their philosophers to get their attention. The guy's name was Epimenides, when you read Acts 17 and 28, and he quotes him again, I believe, in Titus 1:12. So Paul tried to condescend and relate to them. Remember, Paul was raised in everything; he was taught, well learned. But anyway, the point of the matter is that these Athenians were always involved in some doctrine, to know. Now get Sirach 3. That goes with this here. Start at 19.
 
 **[Sirach 3:19-23](/bible/sirach/3#v19)**  *[[1:24:44](https://www.youtube.com/watch?v=guqIg3Ln5N4&t=5084s)]*
 
@@ -757,7 +757,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 - But there is no class on that. There is no series of classes on how to do that, because they don't really believe it. It's just lust. It's a lust-based doctrine. Cuz if it were a sincere doctrine, there'd be a whole series of classes on how to go about doing it, and how to do it in a way where you don't face consequences of, for example, a wife taking your ass to court and taking the child support, or a wife being crazy, or hurting your child, or being diseased, or being mentally unstable. There will be classes granting men the guidance on how to pick these wives, or these women how to pick a husband. There's no classes on it, cuz it's not a sincere doctrine. They don't believe it. They just go, hey, have more than one. That's it. Bible says it. That's it. Is there more to that? No, you can just do it. That's an irresponsible doctrine.
 
-- When you hear that doctrine, what you're doing is you're making Margaret Sanger right, because Margaret Sanger said that we are reckless breeders and we should be eliminated and removed out of the earth because we are reckless breeders. And so what you're doing, in essence, is you're teaching a doctrine that reinforces the very thing that do outside the Bible, and saying it's justified. Making babies all over the place, and there's your wife over here, wife over there. You're enforcing the very thing that is destroying the black community at large by saying it's Bible. That's fine. We good over here. Y'all keep teaching that. I'm good. I taught that class on Labor Day. I'm past it, because at the end of the day, it's all about beguiling unstable souls. Read on.
+- When you hear that doctrine, what you're doing is you're making Margaret Sanger right, because Margaret Sanger said that we are reckless breeders and we should be eliminated and removed out of the earth because we are reckless breeders. And so what you're doing, in essence, is you're teaching a doctrine that reinforces the very thing that … do outside the Bible, and saying it's justified. Making babies all over the place, and there's your wife over here, wife over there. You're enforcing the very thing that is destroying the black community at large by saying it's Bible. That's fine. We good over here. Y'all keep teaching that. I'm good. I taught that class on Labor Day. I'm past it, because at the end of the day, it's all about beguiling unstable souls. Read on.
 
 - A heart they exercise. They go into the Bible and find it everywhere. Look. See? See? You can have more than one. Exercised with covetous practices. Why is it covetousness? Cuz you're going after things that you desire that you don't need. It's a want, not a need. They don't belong to you. On top of that, read on. Cursed children.
 
@@ -1167,7 +1167,7 @@ Reading from the Wikipedia article on the Arian controversy, continued · read b
 
 > <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
-- For by Christ were all things created. The father made him, and he made us and everything after. So he is a father too. Isaiah 9:6: he is the everlasting father. He's our father. How many of you Negroes made the universe? How a say Christ ain't my God? You are out of your mind. Of course he's your God. Insanity. Read on.
+- For by Christ were all things created. The father made him, and he made us and everything after. So he is a father too. Isaiah 9:6: he is the everlasting father. He's our father. How many of you Negroes made the universe? How a … say Christ ain't my God? You are out of your mind. Of course he's your God. Insanity. Read on.
 
 - He made things that's in heaven. How many y'all did that? He made things on earth. He made things visible, and invisible. He made things we can't see. How many of us done that?
 
@@ -1197,7 +1197,7 @@ Reading from the Wikipedia article on the Arian controversy, continued · read b
 
 - **Deacon Eythan:** Yeah. The father has no beginning. Christ has a beginning. So that's damn confusion.
 
-- Go over here. You got the icon of Arius. Black men here having a conversation, getting slapped by Nicholas. So they fighting, even back then. Just having a fist fight.
+- Go over here. You got the icon of Arius. Black men here having a conversation, getting slapped by Nicholas. So they … fighting, even back then. Just having a fist fight.
 
 - **Officer:** Christ is a trinity! Straight out, an all-out brawl.
 

@@ -374,7 +374,7 @@ Reading from an article, "Venezuela's Nicolas Maduro claims he is a real Jew, un
 
 > He is a hodgepodge who comes from Poland," Maduro said.
 
-- Condemning Israel's... That's all I want. We don't need anything else. This man know too much. He know too much. He a Moorish Jew. "Now get this guy out of here, man. Get him out of here." And he is a supporter of Hugo Chavez. Revelation chapter 2, verse 9.
+- Condemning Israel's... That's all I want. We don't need anything else. This man … know too much. He know too much. He a Moorish Jew. "Now get this guy out of here, man. Get him out of here." And he is a supporter of Hugo Chavez. Revelation chapter 2, verse 9.
 
 </div>
 
@@ -418,7 +418,7 @@ Reading from a post, "The US bombs the mausoleum of Hugo Chavez"  *[[55:27](http
 
 > The US bombs the mausoleum of Hugo Chavez in Caracas, and social media is wondering if Fidel Castro's will be next.
 
-- So they destroyed the place where Hugo Chavez's remains were. They buried him in a mausoleum, and yesterday they bombed it. After they removed Maduro from power, they went, under Trump's orders, they bombed Hugo Chavez's remains. Basically his tomb. They desecrated it with missiles. Esau don't forget. The white man don't forget nothing. Hugo Chavez used to talk about the devil, how Satan was here. Trump wasn't in office at the time, but Trump took offense to that. I got the video of Hugo Chavez. And bombed his grave. The white man is not forgiving. Y'all try to say this man, oh, there's some good ones. But the white man goes, nah, nah, remove Maduro, and bomb Hugo Chavez's grave site too while you're at it. That guy was in office; he was disrespectful to us.
+- So they destroyed the place where Hugo Chavez's remains were. They buried him in a mausoleum, and yesterday they bombed it. After they removed Maduro from power, they went, under Trump's orders, they bombed Hugo Chavez's remains. Basically his tomb. They desecrated it with missiles. Esau don't … forget. The white man don't forget nothing. Hugo Chavez used to talk about the devil, how Satan was here. Trump wasn't in office at the time, but Trump took offense to that. I got the video of Hugo Chavez. And bombed his grave. The white man is not forgiving. Y'all try to say this man, oh, there's some good ones. But the white man goes, nah, nah, remove Maduro, and bomb Hugo Chavez's grave site too while you're at it. That guy was in office; he was disrespectful to us.
 
 - Oh, and he says right here, it's the largest oil reserve on the planet. Why? Is it the prophecy? Genesis 49? Deuteronomy 33, verse 24.
 
@@ -452,7 +452,7 @@ Reading from a definition of iridium, and a post on Uganda's gold discovery  *[[
 
 > A rare, extremely hard, brittle, and silvery-white transition metal in the platinum group. Highly resistant to
 
-- It's in the platinum group. Damn, it's in spark plugs. It's in everything. One of the most densest elements. And Haiti is covered in it. Don't let find that out.
+- It's in the platinum group. Damn, it's in spark plugs. It's in everything. One of the most densest elements. And Haiti is covered in it. Don't let … find that out.
 
 > Uganda announced a massive gold discovery, estimating over 31 million metric tons of gold ore, containing potentially 320 thousand tons of refined gold, valued at 12 plus trillion dollars.
 
@@ -684,7 +684,7 @@ Reading from *African Presence in Early Europe*, page 161, on the contributions 
 
 > When they reached their destination, the men were purchased as servants or laborers,
 
-> the women as household help or concubines.
+> … the women as household help or concubines.
 
 - You made the white woman a help and concubines.
 
@@ -716,7 +716,7 @@ Reading from *African Presence in Early Europe*, page 161, on the contributions 
 
 - 1500s.
 
-> the rulers of Egypt were buying white slaves by the tens of thousands in Europe and Asia and bringing them to Syria, Palestine, and the valley of the Nile.
+> the … rulers of Egypt were buying white slaves by the tens of thousands in Europe and Asia and bringing them to Syria, Palestine, and the valley of the Nile.
 
 - The Arabs are buying white women wholesale, by the thousands. That's why they end up being so light and pale and all of that. That's why. You got a text? What we got?
 
@@ -796,7 +796,7 @@ Reading from *Ancient and Modern Britons*, pages 157 and 158, on the black heath
 
 > the other of short stature, with dark skin, as dark as Ethiopians, says Pliny; as dark as a Moor, says Claudian; dark hair and black eyes.
 
-- Black folks and white folks inhabiting the islands. Blacks being the first.
+- … Black folks and white folks inhabiting the islands. Blacks being the first.
 
 > We further learn that this dark population, represented by the Silures, bore considerable physical resemblance to the people of Aquitania and Iberia,
 
@@ -808,7 +808,7 @@ Reading from *Ancient and Modern Britons*, pages 157 and 158, on the black heath
 
 > These two distinct ethnological elements
 
-- We fought over and shared lands, Edom and Jacob.
+- … We fought over and shared lands, Edom and Jacob.
 
 > continues Mr. Huxley, probably coexisted in these islands when the country was discovered by the Romans. And the subsequent invasions to which Britain has been subjected have not introduced any new stock, but have merely affected one or other of the preexisting elements. Accepting this conclusion, then, as in the main correct, we have before us undeniable evidence, historical and ethnological, of the immemorial presence of the blacks in this country. Other confirmatory statements have been made in the foregoing chapters, and additional evidence of the traditional kind has just been adduced.
 
@@ -1016,7 +1016,7 @@ Reading from *Ancient and Modern Britons*, page 122, on the traces of the black 
 
 **Officer:** Yes, that was Captain Zakai. We're working on doing a collaboration with them. Surnames. We on all three of those books now.
 
-**Text:** I saw a recording of her with some black apologetics, and she was speaking a lot on how the insignia used on not only the warfare apparel, but also on all types of property that we owned back then. Namely, she made comment about how a lot of the psychology behind the imagery and symbols were related to our supposed use of idolatry pertaining to mathematics, astrology, and dragons. Do we also go off because of idolatry?
+**Text:** I saw a recording of her with some black … apologetics, and she was speaking a lot on how the insignia used on not only the warfare apparel, but also on all types of property that we owned back then. Namely, she made comment about how a lot of the psychology behind the imagery and symbols were related to our supposed use of idolatry pertaining to mathematics, astrology, and dragons. Do we also go off because of idolatry?
 
 **Deacon Eythan:** Yes. Yes, we do. Absolutely. That's how we fell. We fell.
 
@@ -1046,7 +1046,7 @@ Reading from *Ancient and Modern Britons*, on the western islanders and the Dane
 
 - Swarthy skin, black skin. Go to the pencil mark. 122, 126, and then 173. What's 126 say?
 
-- Maybe they had eyes. They were dark, but they had like small eyes. High cheekbones, like Native Americans. Go up. Read that before going on.
+- Maybe they had … eyes. They were dark, but they had like small eyes. High cheekbones, like Native Americans. Go up. Read that before going on.
 
 </div>
 
@@ -1070,7 +1070,7 @@ Reading from *Ancient and Modern Britons*, page 126, on the word black in the pl
 
 > known to his contemporaries as the black.
 
-- What page is that? Give me page 173.
+- … What page is that? Give me page 173.
 
 </div>
 
@@ -1090,7 +1090,7 @@ Reading from *Ancient and Modern Britons*, page 173, on the Moorish kings of Alb
 
 - All they did was just run to their family. "Hey, someone's over there. Let's go over there where our brother's at."
 
-> and one of the most celebrated of these, Kenneth, or Duff, ruled over certain districts known as the three black divisions.
+> and one of the most celebrated of these, Kenneth, … or Duff, ruled over certain districts known as the three black divisions.
 
 - Scotland, England, and Wales.
 

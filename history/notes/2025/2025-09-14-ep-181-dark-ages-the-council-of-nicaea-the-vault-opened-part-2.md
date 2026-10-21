@@ -236,7 +236,7 @@ Reading from *History of the Jews* by Hannah Adams, page 60, on the year 65 AD a
 
 **Brother:** They say in Genesis 31:53, the God of Abraham and the God of Nahor. Nahor might have been keeping the commandments then, basically.
 
-*[[33:54](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=2034s)]* **Deacon Eythan:** Yep. All right, next one. See who this guy is. That's a black man there; see by his hands. Go down. His feet black as hell. That's the tree of Jesse: Father Jacob. Look at that. Go back up. That is Jacob right there. Black Jacob. Look at his hands. Look at his hair, beard, black ass hand. That's Jacob right there. Father Jacob depicted as a black man. Russia knows what color Jacob was. This ain't a mystery to Russia. They know who we are. They know; you black Americans that's all confused. Next one. Another black man right there. That's Jonah. Black.
+*[[33:54](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=2034s)]* **Deacon Eythan:** Yep. All right, next one. See who this guy is. That's a black man there; see by his hands. Go down. His feet black as hell. That's the tree of Jesse: Father Jacob. Look at that. Go back up. That is Jacob right there. Black Jacob. Look at his hands. Look at his hair, beard, black ass hand. That's Jacob right there. Father Jacob depicted as a black man. Russia knows what color Jacob was. This ain't a mystery to Russia. They know who we are. They know; you black Americans that's all confused. … Next one. Another black man right there. That's Jonah. Black.
 
 **Brother:** D, this is heavy. It's called the tree of Jesse, but it's showing all the prophets coming from that tree.
 
@@ -808,7 +808,7 @@ Reading from the Wikipedia article on Tertullian  *[[1:44:58](https://www.youtub
 
 - So by the time the Christian doctrine got into Africa, well, at least was in Africa when he was around, it was already corrupted, based upon what I showed y'all earlier with Irenaeus, Ignatius, Victor. They corrupted it already. Victor was around, let me go back, 189 to 199 AD, right? This guy is around 220 AD. So Victor already pushed that nonsense around. So the doctrine of Christ, or the Christian doctrine, was corrupt, and the corrupt teaching, the corrupt Christian doctrine that he's teaching, became known today as Western Christianity, which all of you people online, Christians or apologists, now adhere to, which is pagan Christianity.
 
-- *[[1:47:00](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=6420s)]* Now, he debated against Christian Gnosticism. Gnostic means knowledge. Those that would say that they were spiritual, or had a spiritual knowledge, without the need for the Bible. Oftentimes you hear black folks say things like, I'm spiritual. You usually hear ignorant negroes say that, always say, I'm spiritual. Especially black women. And they fill up the church. They filled up the church and they filled up themselves with the penises.
+- *[[1:47:00](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=6420s)]* Now, he debated against Christian Gnosticism. Gnostic means knowledge. Those that would say that they were spiritual, or had a spiritual knowledge, without the need for the Bible. Oftentimes you hear black folks say things like, I'm spiritual. You usually hear ignorant negroes say that, … always say, I'm spiritual. Especially black women. And they fill up the church. They filled up the church and they filled up themselves with the penises.
 
 - **Brother:** So they fill up their own church.
 
@@ -1024,7 +1024,7 @@ Reading from the Wikipedia articles on the Latin Church and Western culture  *[[
 
 - *[[2:05:00](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=7500s)]* There's a woman, I saw it before on this video I saw: time is not linear. Time loops. So a lot of the things that happened back then, they have to do what? Reoccur. What is time counted on? A clock. 12. It goes around. Time is circular. Time loops. So things happen over and over and over again.
 
-- So one thing that changed is that the white man, or the devil himself and his children, they knew that when we were conquered, where the prophets of God would be in majority on the earth. And they went out their way to destroy Judah as much as possible, because they knew: out of all the tribes that we conquer and kill, we're going to kill them the worst. Give them crack. Give them drugs. Destroy them. Because we know if the truth resurfaces, the only way for that old silence to end is that they wake up. We must destroy them. And it didn't work.
+- So one thing that changed is that the white man, or the devil himself and his children, they knew that when we were conquered, where the prophets of God would be in majority on the earth. And they went out their way to destroy Judah as much as possible, because they knew: out of all the tribes that we conquer and kill, we're going to kill them … the worst. Give them crack. Give them drugs. Destroy them. Because we know if the truth resurfaces, the only way for that old silence to end is that they wake up. We must destroy them. And it didn't work.
 
 - Read verse 30 again. Meaning no prophets, no understanding will go out. It will be discontinued for a time. We'd be dead in the grave. Dry bones. The old silence is the dry bones. Seven days: a certain duration of time. Years. Come on.
 
@@ -1078,7 +1078,7 @@ Reading from the Wikipedia articles on the Latin Church and Western culture  *[[
 
 - **Brother:** We hurt ourselves. We are our own worst enemies, man.
 
-- **Deacon Eythan:** The white man just took over where we left off. That's all he did. I'll take it over. Thank you. I got it from here. Get the chains on. We got it from here. That's what they did. Acts 20 and 28.
+- **Deacon Eythan:** The white man just took over where we left off. That's all he did. I'll take it over. … Thank you. I got it from here. Get the chains on. We got it from here. That's what they did. Acts 20 and 28.
 
 **[Acts 20:28-31](/bible/acts/20#v28)**  *[[2:14:00](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=8040s)]*
 

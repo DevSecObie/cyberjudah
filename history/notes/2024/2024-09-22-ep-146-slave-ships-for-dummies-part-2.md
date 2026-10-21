@@ -342,9 +342,9 @@ Reading from *Slavery in the Arab World* by Murray Gordon, page 4 · read by an 
 
 - **Officer:** To Japan. And I think he had a stop in India, in one of the books. He had a stop in India and then he went from India to Japan.
 
-- **Deacon Eythan:** A book that I have, where it says that they bought a bunch of black slaves from Japan. We're going to get to that, but not now. He wasn't the only one. He was the notable one. They brought many of us to Japan. Many of us samurai, not just one. They just put him out: OK, we'll give you one, that's it, then get out of here. They had many of us.
+- **Deacon Eythan:** A book that I have, where it says that they bought a bunch of black slaves from Japan. We're going to get to that, but not now. He wasn't the only one. He was the notable one. They brought many of us to Japan. Many of us samurai, not just one. They just put him out: OK, we'll give you one, … that's it, then get out of here. They had many of us.
 
-- You had from Cameroon to Mexico. No, Mexicans are our people. Y'all are stupid. They brought us over to Mexico, they brought us over to Cuba, they brought us over to Haiti. Gabon: remember Gabon. Jasper Yanga, he was Gabonese. He was brought over to Mexico and held one of the first black slave revolts over there, and established a black town of freedom over there. Jasper Yanga is his name. Look him up. Fact check me. Jasper Yanga. You've got a statue over there with a horn, with a shell in his hand, and he's a big black dude, woolly hair. You can't mistake him. He ain't white for nothing. I guarantee you in 20 years he'll be Caucasian. In 20 years. Negroes don't read nothing.
+- You had from Cameroon to Mexico. No, Mexicans are our people. Y'all … are stupid. They brought us over to Mexico, they brought us over to Cuba, they brought us over to Haiti. Gabon: remember Gabon. Jasper Yanga, he was Gabonese. He was brought over to Mexico and held one of the first black slave revolts over there, and established a black town of freedom over there. Jasper Yanga is his name. Look him up. Fact check me. Jasper Yanga. You've got a statue over there with a horn, with a shell in his hand, and he's a big black dude, woolly hair. You can't mistake him. He ain't white for nothing. I guarantee you in 20 years he'll be Caucasian. In 20 years. Negroes don't read nothing.
 
 *[[45:58](https://www.youtube.com/watch?v=nhowblrO1e0&t=2758s)]* Now go to the next map. Three maps. The last one, that worldwide one we usually use too, the one that Bishop shows. That's a good one too; we can use that. It's in the group. Blow it up. It's sideways; turn it around. Zoom in some more. Move the page out. There we go.
 
@@ -526,7 +526,7 @@ Reading from *Nautical Magazine*, 1870, page 139, continued · read by an office
 
 > having to perform all demands of nature as they crouched huddled together.
 
-- Whatever they had to do: menstrual blood, menstrual cycle, pee, vomit, dump. They're sitting in it. Same as the Atlantic slave trade. The same ship. Never existed? Bro, what are you talking about, man? I'm going to mock you the entire time. I'm going to mock you this whole time, because y'all are stupid as hell.
+- Whatever they had to do: menstrual blood, menstrual cycle, pee, vomit, dump. They're sitting in it. Same as the Atlantic slave trade. The same ship. Never existed? Bro, what are you talking about, man? … I'm going to mock you the entire time. I'm going to mock you this whole time, because y'all are stupid as hell.
 
 > Nearly all of them suffered from aggravated scabies, a few had a species of fever, and some two or three suffered from acute pulmonary affection.
 
@@ -538,7 +538,7 @@ Reading from *Nautical Magazine*, 1870, page 139, continued · read by an office
 
 > is very offensive,
 
-- That's why they built the wall in Wall Street. Because when the ships came through in the Wall Street, the smell came into the town. They had to build the wall to block the smell from coming in from the slave ships. But they never existed, right? The slave ships never got there, so there was no reason to build a wall, right? Right? That makes me sick. Your existence bothers me. Continue.
+- That's why they built the wall in Wall Street. Because when the ships came through in the Wall Street, the smell came into the town. They had to build the wall to block the smell from coming in from the slave ships. But they never existed, right? The slave ships never got there, so there was no reason to build a wall, right? Right? … That makes me sick. Your existence bothers me. Continue.
 
 > and is of course very conclusive evidence as to the nature of her cargo before boarding, as the slaves cannot be seen, being below the gunwale.
 >
@@ -710,7 +710,7 @@ Reading from *Nautical Magazine*, 1870, page 142, continued · read by an office
 
 - Right. So that's what was going on. So this is the history of the Arab slave ships that the British were intercepting on the Indian Ocean, for you simple Negroes out there that argue the slave trade. I don't know what's wrong with y'all, man. Y'all just slow.
 
-- Now get me *General History of Africa*, page 51. I've had this book for a while; we've used it numerous times. Hey, while y'all looking for that book, play... the Captain said something. Play that real quick. Shout out to the Captain, man. Where you at, man? You probably tired from your trip. I get it, bro, I get it. Wish you was here, bro. Hey man, putting in mighty works out there in Ohio, doing the work, man. Press play.
+- … Now get me *General History of Africa*, page 51. I've had this book for a while; we've used it numerous times. Hey, while y'all looking for that book, play... the Captain said something. Play that real quick. Shout out to the Captain, man. Where you at, man? You probably tired from your trip. I get it, bro, I get it. Wish you was here, bro. Hey man, putting in mighty works out there in Ohio, doing the work, man. Press play.
 
 </div>
 
@@ -736,7 +736,7 @@ Reading from an NBC News report on Colin Kaepernick's Netflix series *Colin in B
 >
 > The Netflix special promoting the story of Kaepernick's formative years navigating race, class and culture. Some critics rejecting the slave auction comparison on social media, including Utah's Republican congressman, a former NFL player, who tweeted out: How dare Kaepernick compare the evil endured by so many of our ancestors to a bunch of millionaires who chose to play the game.
 
-- With the millions of dollars: that's referred to in slavery as meritorious manumission. When a Negro does real good for master, he gets rewarded. That's what this is talking about. Oh, they make millions of dollars; they're still slaves. They have owners. That's a house slave. Meritorious manumission. Whenever a slave rats out another slave, or speaks of a rebellion taking place, they get rewarded for their good service to master. That's what the salary is. It's no difference. They're like, I'm not a slave, I get the piece of paper with master's face on it. Yeah, but these football teams have owners. If you have an owner, you're property. What are you talking about? Continue.
+- With the millions of dollars: that's referred to in slavery as meritorious manumission. When a Negro does real good for master, he gets rewarded. That's what this … is talking about. Oh, they make millions of dollars; they're still slaves. They have owners. That's a house slave. Meritorious manumission. Whenever a slave rats out another slave, or speaks of a rebellion taking place, they get rewarded for their good service to master. That's what the salary is. It's no difference. They're like, I'm not a slave, I get the piece of paper with master's face on it. Yeah, but these football teams have owners. If you have an owner, you're property. What are you talking about? Continue.
 
 - **Officer:** Was that that Sterling dude? I feed them. Buy houses.
 
@@ -1024,9 +1024,9 @@ Reading from *General History of Africa*, page 67, on the Siddis of Janjira and 
 
 - Kill them all. He said, I'll fund it. I'll fund the genocide myself. That's why these guys over in Israel today have no problem bombing Palestinians. It's in their nature to do these things. They were a warlike and violent and evil people.
 
-- And here's the kicker. When you read Esther, the reason why he wanted to kill the Jews off so bad, I'm going to tell you why. He found out that Mordecai was a Jew. He said, Kill the whole race off. Damn. Why? Some of y'all may read this a billion times and not know why. Haman was just evil; that's just part of it. Mordecai was of the line of a man named Kish. Kish was of the family of King Saul. King Saul killed Amalekites off. One of the first feats of our king, the first king we got officially, was Saul, and the first order he was given was to massacre and kill off the Amalekites. And he tried. He wasn't successful. And Haman was a descendant of the that got away. So when he figured out that Mordecai was the descendant of the very same man that tried to eradicate his race, he said, Kill his race. That's what they do.
+- And here's the kicker. When you read Esther, the reason why he wanted to kill the Jews off so bad, I'm going to tell you why. He found out that Mordecai was a Jew. He said, Kill the whole race off. Damn. Why? Some of y'all may read this a billion times and not know why. Haman was just evil; that's just part of it. Mordecai was of the line of a man named Kish. Kish was of the family of King Saul. King Saul killed Amalekites off. One of the first feats of our king, the first king we got officially, was Saul, and the first order he was given was to massacre and kill off the Amalekites. And he tried. He wasn't successful. And Haman was a descendant of the … that got away. So when he figured out that Mordecai was the descendant of the very same man that tried to eradicate his race, he said, Kill his race. That's what they do.
 
-- So Edom today, they know. These are the descendants of David and Saul and Aaron. Destroy them. That's why they're number one on God's hit list in Psalms 83. Because they know who's who. They know they brought David's sons over here. They know they brought Saul's sons over here, Aaron's sons over here. Both of the royal lineages is here. I thought the truth started here, right? The conspiracy to destroy us started here. Not Africa, not India, not the Philippines. Here. Because the royal line is here. You understand that? Judah's line is here.
+- So Edom today, they know. … These … are the descendants of David and Saul and Aaron. Destroy them. That's why they're number one on God's hit list in Psalms 83. Because they know who's who. They know they brought David's sons over here. They know they brought Saul's sons over here, Aaron's sons over here. Both of the royal lineages is here. I thought the truth started here, right? The conspiracy to destroy us started here. Not Africa, not India, not the Philippines. Here. Because the royal line is here. You understand that? Judah's line is here.
 
 - **Officer:** Yes. With the eugenics, to try to eradicate the tribe of Judah.
 

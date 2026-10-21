@@ -343,9 +343,9 @@ Reading from a news article on a bronze statue of a woman in Times Square · rea
 
 - **Officer:** Hey officer, that joint only can stay up till June 17th.
 
-- Oh yeah? Oh, they got a time limit. They got a time limit on the statue. "We'll hold that for a little bit for you. But we taking it down June 17th. Don't worry about it." Oh shoot. There's an expiration date on the angry black woman.
+- Oh yeah? Oh, they got a time limit. They got a time limit on the statue. "We'll hold that for a little bit for you. … But we taking it down June 17th. Don't worry about it." Oh shoot. There's an expiration date on the angry black woman.
 
-- **Officer:** Somebody said you can just hear that statue, right? Just cursing. "What you say? What you say?"
+- **Officer:** Somebody said you can just hear that statue, right? Just cursing. "What you say? … What you say?"
 
 - Damn. All right, let's get off of that, man. I can't believe that. All right, let's get back into France. We ain't done with France. We didn't finish this book. Let's get back into it. So we going to transition back into France, and what was going on. Remember we at 177 AD. This is the persecution, one of the biggest persecutions that happened in France, that was happening to us. It happened in Lyons, France and Vienne, France. 177 AD. Let's read that.
 
@@ -367,7 +367,7 @@ Reading from the book carried over from last week: the letter of the brethren of
 
 - Exactly. They stealing it. Evil world. But yet they want to ban us from preaching the Bible in France, saying that we're violent, we're hateful. What? At the same time, they're trying to kill a man that's trying to free his people from the colonial ties that France has him under. Right.
 
-- **Officer:** And he's trying to unite. He's pan-African. He's trying to unite Africa. He's trying to let them know to get away from the colonialism of America, of France. Told the blacks here in America that they could sign up for citizenship over there. To go over there, get citizenship.
+- **Officer:** And he's trying to unite. He's pan-African. He's trying to unite Africa. He's trying to let them know to get away from the colonialism of America, of France. … Told the blacks here in America that they could sign up for citizenship over there. To go over there, get citizenship.
 
 - **Officer:** Hey, hold on. Last week America put out a travel ban on Ghana, Burkina Faso. Who else was in there?
 

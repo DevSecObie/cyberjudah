@@ -159,7 +159,7 @@ Reading from Wikipedia, the article on the Dutch East India Company, continued  
 
 Reading from a clip from the podcast of the comedian Godfrey, on the tunnel under the synagogue in Brooklyn  *[[31:36](https://www.youtube.com/watch?v=vjsEfU-6lZM&t=1896s)]*
 
-> Keep looking. They got buckets. There's like a mattress that got pulled out. It was full of...
+> Keep looking. They got buckets. … There's like a mattress that got pulled out. It was full of...
 
 - Download this video. Make sure you download it for our archives. See, right there. Keep going. Look at the baby stuff. Baby stuff. Look.
 
@@ -180,7 +180,7 @@ Reading from a book on modern capitalism and the Jews, from the year 1913, the c
 
 - Now before we continue, remember this knowledge of money and banking, funding: we taught them this stuff. I'm going to show y'all as the class progresses; I have it later on. But I'm going to show y'all that these guys, we taught them. Because Israel, we were industrious. We had the wealth, we had the money. Wherever Israel went, we came with money, especially in Spain and Portugal. So when we came across these people, whether it was in Spain, whether it was in the mountains of Georgia, Russia, as the Khazars, we taught them our way of living. And our way of living also involved us being very, very industrious, and very, very well acquainted with money and finances. We were very wise people.
 
-- Look at our people today, in a carnal sense, like Jay-Z, 50. These guys, that's Jake, they're Jews, and they're very good with money. Even who sell drugs on the corner, it's a hustle, them dudes just good with numbers. They smart. Like the movie Malcolm X: the Benjamite dude that he worked for, Malcolm tried to rip him off. He said, I don't want you to write it down, I want you to use your mind, I want you to remember the numbers. Because back in Bumpy Johnson and them, Frank Lucas: these guys are geniuses. I'm not glorifying what they were doing. I'm simply emphasizing our ingenuity, and how very intuitive we were, how smart we were in numbers. A lot of these dudes don't finish school, they be in the streets hustling and stuff, and they're very, very smart with numbers.
+- Look at our people today, in a carnal sense, like Jay-Z, 50. These guys, that's Jake, they're Jews, and they're very good with money. Even … who sell drugs on the corner, it's a hustle, them dudes just good with numbers. They smart. Like the movie Malcolm X: the Benjamite dude that he worked for, Malcolm tried to rip him off. He said, I don't want you to write it down, I want you to use your mind, I want you to remember the numbers. Because back in Bumpy Johnson and them, Frank Lucas: these guys are geniuses. I'm not glorifying what they were doing. I'm simply emphasizing our ingenuity, and how very intuitive we were, how smart we were in numbers. A lot of these dudes don't finish school, they be in the streets hustling and stuff, and they're very, very smart with numbers.
 
 - So what I'm showing is that remnant of that wisdom with money and finances among our people. Even though I'm mentioning the negative side of it, I'm showing y'all that our people had always, not all of us, but a lot of us, well, back then most of us were raised that way. But not now anymore. Back then, in our right mind, who knew who we were, we were very, very good with money. And so when we came across them and we converted them, we taught them that. We taught them how to spend money, how to save, how to invest, and all of that.
 
@@ -323,7 +323,7 @@ Reading from the same book on modern capitalism and the Jews, the foundation of 
 
 *[[51:54](https://www.youtube.com/watch?v=vjsEfU-6lZM&t=3114s)]* **Text:** Shalom, leadership. Most High and Christ bless you all. Thank you all for edifying us each Sunday. I can't get my Zoom to operate right; I'm doing something wrong. I saw these carvings in a temple in Cambodia. I could be wrong, but it looks like our people, because we have been slaves there also, like so many places.
 
-**Deacon Eythan:** Yeah, we went over that. We were in Cambodia. Let me see what this is. That's where Laos, Vietnam... yeah, it's right above Indonesia and Malaysia. Like I said, I already showed y'all before, multiple times, that Israel is everywhere. I can't say for certain that that's Israelites here. But the map I showed y'all: we were being taken from all these areas. They knew who they were. They weren't taking just random people. Even when they did, there's one instance where they took Japanese, but they brought them Japanese right back home. They said no, don't touch them. Leave the Japanese alone. So in the instances where they did take a heathen, they put him back. Keep on selling the slaves; don't touch no one else. Bring the blacks, bring the chinos; leave the Japs alone, leave the Chinese alone. Just bring the ones we want from those areas on the ships.
+**Deacon Eythan:** Yeah, we went over that. We were in Cambodia. Let me see what this is. That's where Laos, Vietnam... yeah, it's right above Indonesia and Malaysia. Like I said, I already showed y'all before, multiple times, that Israel is everywhere. I can't say for certain that that's Israelites here. But the map I showed y'all: we were being taken from all these areas. They knew who they were. They weren't taking just random people. Even when they did, there's one instance where they took Japanese, but they brought them Japanese right back home. They said no, don't touch them. … Leave the Japanese alone. So in the instances where they did take a heathen, they put him back. Keep on selling the slaves; don't touch no one else. Bring the blacks, bring the chinos; leave the Japs alone, leave the Chinese alone. Just bring the ones we want from those areas on the ships.
 
 Go back to the map again. On here, Cambodia's over here, where it says Cambodia and Burma. Canton. Yeah. So we were over there. Some things I can give specifics on, and some things we got to look further into. Right?
 
@@ -366,7 +366,7 @@ Reading from the same book on modern capitalism and the Jews, on the Dutch West 
 
 - That's it. So again, they were heavily involved in the East India Company, and the West India Company was the company that was used to give America financial power and prowess to grow and prosper into the kingdom it is today. The Israelis were involved in basically America's inception, financially. So the stock exchange here in America, that's thanks to the Israelis.
 
-- I got to stop calling them Jewish people. Got to stop saying that word; it's blasphemy. I'm going to call them Israelis. Give me Israeli real quick. This is why I call them that. They want to separate themselves so much from being white, so they create a buffer with that, and then they use the other as another buffer to separate themselves from the actual slave trade they had a heavy hand in, not just in America but around the world. So whenever anybody brings this information out, they get really upset and they call you anti-Semitic. But it's true. It's history. And I got books written by their own scholars that show they call themselves white, that they acknowledged that they were white people until they gained the land and so forth. Then it's, no, no, no, we're not white, we're Jews now.
+- I got to stop calling them Jewish people. Got to stop saying that word; it's blasphemy. I'm going to call them Israelis. Give me Israeli real quick. This is why I call them that. They want to separate themselves so much from being white, so they create a buffer with that, and then they use the other … as another buffer to separate themselves from the actual slave trade they had a heavy hand in, not just in America but around the world. So whenever anybody brings this information out, they get really upset and they call you anti-Semitic. But it's true. It's history. And I got books written by their own scholars that show they call themselves white, that they acknowledged that they were white people until they gained the land and so forth. Then it's, no, no, no, we're not white, we're Jews now.
 
 </div>
 
@@ -618,7 +618,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, page 15  *[[1:29:42](https
 
 > And the Genoese now copied the Arab model, including importing black slaves from Africa.
 
-- We have blacks living in Italy. You had Israelites in Italy. They them out of Italy and brought them over to the slave runners, the Arabs.
+- We have blacks living in Italy. You had Israelites in Italy. They … them out of Italy and brought them over to the slave runners, the Arabs.
 
 > By the early 1400s Genoese growers and traders had begun to buy African slaves
 
@@ -626,7 +626,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, page 15  *[[1:29:42](https
 
 > through the trans-Saharan network to work on plantations on Cyprus and other Mediterranean islands.
 
-- We had slaves on Mediterranean islands, and Cyprus. That's an island off the coast, in the Mediterranean, not next door to Italy. Cyprus. Jump down. Let me see. That's some commentary on us, on blacks being nothing. I don't want that. Go to page 19. Start from there.
+- We had slaves on Mediterranean islands, and Cyprus. That's an island off the coast, in the Mediterranean, not next door to Italy. Cyprus. Jump down. Let me see. That's some … commentary on us, on blacks being nothing. I don't want that. Go to page 19. Start from there.
 
 </div>
 
@@ -771,7 +771,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, page 24, a slave contract 
 
 - Because some of y'all think... this is the thought that question sounds like to me. I could be wrong, but I'm just going to touch it real fast, just in case that doctrine is floating around, and it's ridiculous. The ships that they used to sell us as slaves: it doesn't make sense to destroy a ship because you had slaves on it. You're just not going to use it for that purpose anymore. I'm going to say it again. When slavery became illegal and they were no longer able to make us slaves anymore, those cargo ships, prior to having us as slaves, were just what they're called, cargo ships. Then when we became slaves, we became the cargo on the ship. Then when slavery was illegal, they removed that cargo; it was no longer allowed on that ship. But other cargo remains: ivory, cloth, cotton. That continued to be sold on those ships. Not us. Even though covertly, now, even now we are being sold as slaves in them big containers on cargo ships today. We're being shipped now, if not alive, dead, in pieces. Organs are being shipped across. We're being shipped dead or alive on these boats. Black organs, Native American organs, black market. They use those crates, and those containers are carried by modern cargo ships. So one way or another, they were repurposed.
 
-- Thank you. It says slave ships were sometimes repurposed for piracy or naval use after capture. For example, the USS Nightingale and HMS Black Joke were both former slave ships. There you go. So they were repurposed. No longer slavers anymore; now they're an army ship, or now they're a cargo ship. That's what happened. They didn't go, oh, they had slaves on this boat, let's destroy it. That makes no sense. For what? Why? If they put slaves on a train, you going to destroy the whole train because they had slaves on it? That makes no sense. It's no longer a slave train anymore; now it's a regular train again. That's that simple. But again, this is a doctrine I think they are trying to push into the black mind. Negroes be in jail and they just repeat it and spread it. It's ridiculous. Where we at?
+- Thank you. It says slave ships were sometimes repurposed for piracy or naval use after capture. For example, the USS Nightingale and HMS Black Joke were both former slave ships. There you go. So they were repurposed. No longer slavers anymore; now they're an army ship, or now they're a cargo ship. That's what happened. They didn't go, oh, they had slaves on this boat, let's destroy it. That makes no sense. For what? Why? If they put slaves on a train, you going to destroy the whole train because they had slaves on it? That makes no sense. It's no longer a slave train anymore; now it's a regular train again. That's that simple. But again, this is a doctrine I think they are trying to push into the black mind. … Negroes be in jail and they just repeat it and spread it. It's ridiculous. Where we at?
 
 > and deliver these during the current year 1667 and before the end of December 1668
 
@@ -914,7 +914,7 @@ Reading from *New World Jewry* by Seymour B. Liebman, page 138  *[[2:03:38](http
 
 > The trade was in the hands, by royal grant, of contratadores, many of whom were Portuguese or New Christians. The original settlers in Brazil included many Portuguese or Spanish Jews who had migrated to Portugal in 1492.
 
-- Because when they conquered us in Spain and Portugal, you had converts that converted, and they came over here in 1492 with Israelite slaves. So you had Edomite converts who became inquisitors that brought us, the original Jews, on as slaves. Now you did have some of us who had freedom, because we chose to, to escape this persecution. We helped Columbus come over here, and many other Spanish conquerors over here, because we had no choice, or we became converts. Christians. Christian Jews, or Christian Negroes. Coons. Okay? So that was the exception to the rule. But read on.
+- Because when they conquered us in Spain and Portugal, you had converts … that converted, and they came over here in 1492 with Israelite slaves. So you had Edomite converts who became inquisitors that brought us, the original Jews, on as slaves. Now you did have some of us who had freedom, because we chose to, to escape this persecution. We helped Columbus come over here, and many other Spanish conquerors over here, because we had no choice, or we became converts. Christians. Christian Jews, or Christian Negroes. Coons. Okay? So that was the exception to the rule. But read on.
 
 > The title of mother country of New World Jewish communities properly belongs to Brazil, because it was there that the first openly professing Jewish communities in the New World were founded.
 
@@ -966,7 +966,7 @@ Reading from *New World Jewry* by Seymour B. Liebman, page 138  *[[2:03:38](http
 
 > clean blood: non-Jewish or non-Moorish for four generations.
 
-- What does that tell you? That tells you that these converts had black blood in them. Because the Jews, the Moors, ruled Spain and Portugal for over 700 years, and we intermarried with these people, with the Spaniards, with the Israelis. And so they had to go four generations of marrying their own people to wash it out of them. So they were sifting. They were sifting through. If you have no more nigga blood in you, you can come to this side of the world. Right? If you full, your ass going to be a slave. That's what we're reading here.
+- What does that tell you? That tells you that these converts had black blood in them. Because the Jews, the Moors, ruled Spain and Portugal for over 700 years, and we intermarried with these people, with the Spaniards, with the Israelis. And so they had to go four generations of marrying their own people to wash it out of them. So they were sifting. They were sifting through. If you have no more nigga blood in you, you can come to this side of the world. Right? If you full, … your ass going to be a slave. That's what we're reading here.
 
 - I know that these Jews here are not the real ones. These are the white ones. These are the Israeli converts, the conquistador Israelis. So they had to go a whole four generations, pretty much within their own, to wash out any Israelite. That's why it says non-Jewish or non-Moorish. Jewish means Israelite. Moor means Muslim Israelite. Wash all that black out of you.
 

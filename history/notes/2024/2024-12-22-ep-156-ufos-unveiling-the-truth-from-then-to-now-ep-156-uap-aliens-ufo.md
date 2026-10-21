@@ -628,7 +628,7 @@ Reading from two videos of the lights over the skies: New York, December 19th, p
 
 - **Officer Jazz:** So right, these are chariots right here. These are literal chariots. Now go to the next video, where a chariot takes down a drone.
 
-> Drone versus UFO. You want to know what happens when a drone goes against a UFO? We got a real life dog fight for you right here. Check this out. This video is recorded by the TikToker right here; check them out for the original video. All right, guys, check this out.
+> Drone versus UFO. You want to know what happens when a drone goes against a UFO? We got a real life dog fight for you right here. Check this out. This video is recorded by the TikToker right here; check them out for the original video. All right, guys, check this … out.
 >
 > Something's going up real fast. Something is going on. I can't tell what it is.
 

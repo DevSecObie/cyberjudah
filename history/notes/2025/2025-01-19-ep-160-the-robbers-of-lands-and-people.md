@@ -266,7 +266,7 @@ Reading from a second article on Lucas Vasquez de Ayllón  *[[44:32](https://www
 
 </div>
 
-*[[49:09](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=2949s)]* **Guest:** I know we brought the robbers of our people and so forth, Esau. Of course they began with enslaving us and conquering us and so forth. But during this time right here, this is like a census from 1915 on the Gadite population in the United States. So you know, Esau know where all the full-blood Indians, the purity, they know where everybody's at, right? So let me read in the middle section right here. I'll start there. This is going back to the Osage, the movie Killers of the Flower Moon.
+*[[49:09](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=2949s)]* **Guest:** I know we brought the robbers of our people and so forth, Esau. … Of course they began with enslaving us and conquering us and so forth. But during this time right here, this is like a census from 1915 on the Gadite population in the United States. So you know, Esau know where all the full-blood Indians, the purity, they know where everybody's at, right? So let me read in the middle section right here. I'll start there. This is going back to the Osage, the movie Killers of the Flower Moon.
 
 <div class="reading">
 
@@ -288,7 +288,7 @@ Reading from a census report from 1915 on the Indian population of the United St
 
 - *[[53:00](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3180s)]* I don't like to say the word mixed, that's not biblical, but I'll say for lack of a better word, the mixed ones, the Edomite ones, the fake ones. The fake Indians, who are the minority, by the way. They were not abundant. Make it very clear, right: the mixed-breed or fake Indian children were not in the majority. The full bloods are the majority. But the mixed ones, because they gained the wealth, they married into the wealthy Gadite tribes and so forth, they got their wealth from that and they start to get slaves.
 
-- *[[53:44](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3224s)]* Now, you did have Native Americans, understand, that were pure blood that did have slaves. Yes. And the conditions were this: they had to have slaves to keep their land. If you want to keep your land, Indian, you got to have on the land and work it, or we will take your land from you and enslave you with them. That was the conditions. Because Edom had Native Americans keep their land and live on it, but they made the Gadites tenants of their own land. So if you want to continue to live on your own land, you have to have the Negroes work the land. That was the conditions.
+- *[[53:44](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3224s)]* Now, you did have Native Americans, understand, that were pure blood that did have slaves. Yes. And the conditions were this: they had to have slaves to keep their land. If you want to keep your land, … Indian, you got to have … on the land and work it, or we will take your land from you and enslave you with them. That was the conditions. Because Edom had Native Americans keep their land and live on it, but they made the Gadites tenants of their own land. So if you want to continue to live on your own land, you have to have the Negroes work the land. That was the conditions.
 
 - *[[54:30](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3270s)]* And then you did have some civilized northern kingdom that were indoctrinated, Europeanized. That image again. Not that one. The old picture: kill the Indian, keep the man. That image right here. So this happened also. A lot of these particular natives here were Europeanized mentally and were forced to treat their brothers, us, like that. That happened also, in small instances. But overall, at the end of the day, they got enslaved too. They was conquered. And a lot of those mixed breeds or fake ones gained the reparations and so forth, and the casinos. That's them.
 
@@ -332,11 +332,11 @@ Reading from a screenshot on William McIntosh, a chief of the Creek Nation, post
 
 - Make a chain to enslave us. Make a chain, put us in chains. What he's saying: make a chain, because we were doing evil to each other. So God say, you guys going to be gangster toward each other, huh? I got something for you. I'm going to send an even worse gangster than you. That's what I'll do. I'm going to send a nation to do to you what you do to each other all the time, but worse.
 
-- Make a chain, for the land is full of bloody crimes. Bloody crimes, as example, is Philadelphia. Bloody crimes is California, right? Bloody crimes is New York. Bloody crimes is Baltimore. Bloody crimes is DC. Bloody crimes is Chicago. There's bloody crime where you find our people. There's bloody crimes, shootouts. Haiti, Jamaica, Trinidad: they call the state of emergency in Trinidad. They have called the National Guard over there. Over there is wilding out.
+- Make a chain, for the land is full of bloody crimes. Bloody crimes, as example, is Philadelphia. Bloody crimes is California, right? Bloody crimes is New York. Bloody crimes is Baltimore. Bloody crimes is DC. Bloody crimes is Chicago. There's bloody crime where you find our people. There's bloody crimes, shootouts. Haiti, Jamaica, Trinidad: they call the state of emergency in Trinidad. They have called the National Guard over there. … Over there is wilding out.
 
-- *[[59:46](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3586s)]* The land is full of bloody crimes. We were doing terrible things to each other. The same way we're doing now, we were doing in our own land back then. Oh, the white man made us this way. No, no he didn't. The white man reinforced our bad behavior that was already present. Oh, we have a problem in my environment. No, no, no, no. You always that way. He reinforced our bad behavior, our bad habits. He still doesn't make you that way. He puts you in positions where it's just further. He exploits it and profits from it. But we've always had that in us.
+- *[[59:46](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3586s)]* The land is full of bloody crimes. We were doing terrible things to each other. The same way we're doing now, we were doing in our own land back then. Oh, the white man made us this way. No, … no he didn't. The white man reinforced our bad behavior that was already present. Oh, we have a problem in my environment. No, no, no, no. You always that way. He reinforced our bad behavior, our bad habits. He still doesn't make you that way. He puts you in positions where it's just further. He exploits it and profits from it. But we've always had that in us.
 
-- *[[1:00:36](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3636s)]* That's always been in us: hating each other, colorism, fighting each other. That's been our thing for centuries, before the white man was even a thought. We were doing that evil stuff. Cain killed Abel. White man wasn't behind that. That was a that killed his brother. That was before the white man came around, long before. Damn. So we can't say, oh, the white man... I'm not going to sit up here and say the white man is not responsible to some degree, because he did put us in situations where we're forced to go that direction. But understand that propensity, that's already in us to do it.
+- *[[1:00:36](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3636s)]* That's always been in us: hating each other, colorism, fighting each other. That's been our thing for centuries, before the white man was even a thought. We were doing that evil stuff. Cain killed Abel. White man wasn't behind that. That was a … that killed his brother. That was before the white man came around, long before. Damn. So we can't say, oh, the white man... I'm not going to sit up here and say the white man is not responsible to some degree, because he did put us in situations where we're forced to go that direction. But understand that propensity, that's already in us to do it.
 
 - *[[1:01:17](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=3677s)]* Oh, the movie The Dark Knight, where Joker, he won in the end. He basically won the movie. He said madness, he said madness is like gravity. All it needs is a little push. And he started laughing, because the guy Two-Face, Harvey Dent, he was the White Knight of Gotham. He was locking up all the criminals, locking them up left and right. Gangster. He was tough. The streets feared him. And Batman said, hey, this guy is so good I might quit. I'm going to retire and get married, because he was doing his thing. But Joker was like, nah, there's a darkness in him. I'm going to exploit it. I'm going to use it. Because he had a dark side to him, and Joker saw it. And he killed Rachel. He killed Rachel, his woman, and Harvey, his face got burned. He tried to kill them both, but Batman saved one. He said save Rachel; Batman was like, nah, you're more important. But he was already broken, and Joker knew that Batman was going to save him over Rachel. He knew. Remember he went to the party, he said, the way you leaped after her, I thought you was dead. He said, okay, you're not. So I'm just going to capture both of them. But when you watch the movie, they have it here. The scene, your madness. Go to that part. This scene is heavy. This is Esau here. Right there.
 
@@ -366,7 +366,7 @@ Reading from a clip from the movie *The Dark Knight*, the Joker and Batman  *[[1
 >
 > Gotham's white knight, and I brought him down to our level.
 
-- I took Gotham's white knight and brought him down to our level. That's what Esau said. Okay, you already evil. It's a dark side. I'm going to make you like me. I'll make you worse. I'll reinforce the bad behavior in you. When you watch the movie, Harvey had a dark side to him. You watch this, you be like, this dude got a dark side to him. Go back, go back. Go back more. Not just two seconds.
+- I took Gotham's white knight and brought him down to our level. That's what Esau said. Okay, you … already evil. It's a dark side. I'm going to make you like me. I'll make you worse. I'll reinforce the bad behavior in you. When you watch the movie, Harvey had a dark side to him. You watch this, you be like, this dude got a dark side to him. Go back, go back. Go back more. Not just two seconds.
 
 > Fight with you? Oh, you need an ace in the hole. Mine's Harvey.
 >
@@ -414,7 +414,7 @@ Reading from a clip from the movie *The Dark Knight*, the Joker and Batman  *[[1
 
 - O Aholibah: that's us. I will raise up thy lovers against thee: because we love the nations. We love the nations above our own people. From whom your mind is alienated: meaning you said the hell with God, I love this nation over here.
 
-- I'm going to give you an example of mind is alienated. Mind is alienated is when you hear a say things like, you're a race hustler, or you're in racial idolatry. When you hear a Negro... I like to say that word, because that word will be in my vocabulary forever. When you hear one say you are a race hustler, or racial idolatry, they love the nations nine times out of ten. Because Marcus Garvey was a race hustler. Malcolm X was a race hustler. Patrice Lumumba was a race hustler. The Black Panthers were race hustlers. Nat Turner was a race hustler. What's with the music, bro? Y'all piss me off with this BS, bro. These were race hustlers. They were for a people. Nationalists. They were nationalists, Pan-Africanists. Huey Newton, Fred Hampton: race hustlers. But y'all on here with your white girlfriends and baby mamas talking about some race hustler. Y'all make me sick, bro.
+- I'm going to give you an example of mind is alienated. Mind is alienated is when you hear a say things like, you're a race hustler, or you're in racial idolatry. When you hear a Negro... I like to say … that word, because that word will be in my vocabulary forever. When you hear one say you are a race hustler, or racial idolatry, they love the nations nine times out of ten. Because Marcus Garvey was a race hustler. Malcolm X was a race hustler. Patrice Lumumba was a race hustler. The Black Panthers were race hustlers. Nat Turner was a race hustler. What's with the music, bro? Y'all piss me off with this BS, bro. These were race hustlers. They were for a people. Nationalists. They were nationalists, Pan-Africanists. Huey Newton, Fred Hampton: race hustlers. But y'all … on here with your white girlfriends and baby mamas talking about some race hustler. Y'all … make me sick, bro.
 
 - **Guest:** Speak your truth.
 
@@ -572,13 +572,13 @@ Reading from a clip from the movie *The Dark Knight*, the Joker and Batman  *[[1
 
 Reading from a clip from the television series *American Gods*, Mr. Nancy on the slave ship  *[[1:39:44](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=5984s)]*
 
-> Let me paint a picture of what's waiting for you on the shore. You arrive in America, land of opportunity, milk and honey, and guess what? You all get to be slaves. Split up, sold off and work to death. The lucky ones get Sunday off to sleep and make more slaves. And all for what? For cotton, indigo, for a purple shirt. The only good news is the tobacco your grandkids are going to farm for free is going to give a shitload of these white... cancer. And I ain't even started yet. A hundred years later; a hundred years after that; a hundred years after you get free, you still getting shot at by police. You see what I'm saying?
+> Let me paint a picture of what's waiting for you on the shore. You arrive in America, land of opportunity, milk and honey, and guess what? You all get to be slaves. Split up, sold off and work to death. The lucky ones get Sunday off to sleep and … make more slaves. And all for what? For cotton, indigo, for a … purple shirt. The only good news is the tobacco your grandkids are going to farm for free is going to give a shitload of these white... cancer. And I ain't even started yet. A hundred years later; a hundred years after that; a hundred years after you get free, you still getting shot at by police. You see what I'm saying?
 
 - This guy gets it. I like him. Watch: he's getting angry.
 
 > Angry is good.
 
-- That's it. Anger is good. Anger gets things done. Hey, this guy gets it.
+- … That's it. Anger is good. Anger gets things done. Hey, this guy gets it.
 
 - *[[1:40:55](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=6055s)]* See, most of the men out here watching online who push that whole racial idolatry thing, or that race hustler stuff, that terminology y'all use: you don't have that anger. So you're not a solution. You are part of the problem. You're not necessary for God. God can't use you. You can do your little thing; I'm going to say little, because these guys have large subscribers. Many people listen to them, so you guys are influencers. But your influence is not pivotal in a godly sense.
 
@@ -596,7 +596,7 @@ Reading from a clip from the television series *American Gods*, Mr. Nancy on the
 
 - **Guest:** Got to get that article real quick. He was fired from American Gods. He was fired from that show.
 
-- **Deacon Eythan:** Yes. All those people talking about, don't be racially angry: they ain't no Moses. All they is, they the that was trying to go back to Egypt. Yeah, that's them. That's what they are. That's the ones. Oh, the leeks and the melons. That was them. Where we at? The article.
+- **Deacon Eythan:** Yes. All those people talking about, don't be racially angry: they ain't no Moses. All they is, they the … that was trying to go back to Egypt. Yeah, that's them. That's what they are. That's the ones. Oh, the leeks and the melons. That was them. Where we at? The article.
 
 - **Guest:** The actor Orlando Jones, he got fired. Esau said he was sending a wrong message to black people.
 
@@ -682,7 +682,7 @@ Reading from an article on Orlando Jones being fired from *American Gods*  *[[1:
 
 - And the white man wasn't content with that, killing 40,000 and enslaving 40,000. He said, I want to go into that temple. That secret place the Lord talked about in Ezekiel 7.
 
-- Menelaus, that traitor: the black man, a Negro, a house nigga, walk this white man into our temple. Come on in, come on in. I'll let you in.
+- Menelaus, that traitor: the black man, a Negro, a … house nigga, walk this white man into our temple. Come on in, come on in. I'll let you in.
 
 > <sup>[16](/bible/2-maccabees/5#v16)</sup> And taking the holy vessels with polluted hands, and with profane hands pulling down the things that were dedicated by other kings to the augmentation and glory and honour of the place, he gave them away.
 
@@ -750,7 +750,7 @@ Reading from an article on Orlando Jones being fired from *American Gods*  *[[1:
 
 - *[[1:57:51](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=7071s)]* I was looking at a video earlier of that Britney chick, talking about she could beat a man. And her voice is so deep. This video, I could beat men, I could beat a man. There's a woman with a man's voice. It was just crazy to me. I was like, this is wild to me, man. Injections. And they asked one of the coaches, who would he bet on? He said, I would go to the bank, I'll sell my house, take everything out the ATM and put it on the man. That's what he said. Easy money. So that's what I was looking at earlier. But go ahead. I'm sorry, another topic.
 
-- *[[1:58:42](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=7122s)]* But that behavior, that homosexuality, was in the Bible back then, and Esau created a science that reinforces it. This chick think she'll do it. Esau created a science that allows them to take these pills to make their titties go flat and their voice get deep, and all of a sudden she's a man, with a vagina. And he has a way where he can now extend the... make it long like a penis, so they can play pretend. Pinocchio: a real boy now. I'm a real boy. I'm a real boy now. On Pinocchio from now on. Where we at?
+- *[[1:58:42](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=7122s)]* But that behavior, that homosexuality, was in the Bible back then, and Esau created a science that reinforces it. This chick think she'll do it. Esau created a science that allows them to take these pills to make their titties go flat and their voice get deep, and all of a sudden she's a man, with a vagina. And he has a way where he can now extend the... make it long like a penis, so they can play pretend. Pinocchio: a real boy now. I'm a real boy. I'm a real boy now. … On Pinocchio from now on. Where we at?
 
 <div class="reading">
 
@@ -886,7 +886,7 @@ Reading from a UNESCO article on the central slave and ivory trade route in Tanz
 
 > Cards, coins and domestic utensils are available as well. Another, in central Tanzania: important landmarks include part of the path at the village, still visible and in use. Others include the Anglican church built at a place where the first church was, as evidence of missionaries who fought against the slave trade. Descendants of slaves and slave traders are also part of the present community.
 
-- Hold on, go back. Right there. Descendants of slaves and slave traders are also part of the present community. Right there. Present community. It says slaves and slave traders are present there now. So the descendants of them. So that means our people is there right now. And the slave traders are still there too; their descendants are still there. So why don't those camps go there and challenge them, and teach them over there? Now they have the horns of the unicorn: use the internet.
+- Hold on, go back. Right there. Descendants of slaves and slave traders are also part of the present community. Right there. Present community. It says slaves and slave traders are present there now. So the descendants of them. So that means our people is there right now. And the slave traders are still there too; their descendants are still there. So why don't … those camps go there and challenge them, and teach them over there? Now they have the horns of the unicorn: use the internet.
 
 > Another is an important place on the route where caravans rested at a well. The village, with Arabic house, market, and later the seat for the German administration, is an important place for information along the route. There existing small Arabic houses that are abandoned.
 

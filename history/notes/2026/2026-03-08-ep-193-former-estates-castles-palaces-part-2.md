@@ -120,7 +120,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 > <sup>[10](/bible/ezekiel/16#v10)</sup> I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk.
 
-- I clothed you with broidered work means like this right here. This is embroidery inside the shirt. We had embroidery in the shirt, designs, embroidered clothing, which black folks can't spell embroidered these days. They say twin twin, gang gang, all that other dumb stuff. Shlime shlime. You don't know what the hell embroidered even means. That's your generation. That's your whack-ass generation. Generation zombie Z. Your ass is born in the late 90s. You should have been gay or have a tattoo on your nose or something. Excuse my language. All praises to the Lord, cuz you should be immediately gay at this point.
+- I clothed you with broidered work means like this right here. This is embroidery inside the shirt. We had embroidery in the shirt, designs, embroidered clothing, which black folks can't spell embroidered these days. They say twin twin, gang gang, all that other dumb … stuff. Shlime shlime. You don't know what the hell embroidered even means. That's your generation. That's your whack-ass generation. Generation zombie Z. Your ass is born in the late 90s. You should have been gay or have a tattoo on your nose or something. Excuse my language. All praises to the Lord, cuz you should be immediately gay at this point.
 
 - All the brothers who's watching, man, y'all praise the Most High God. If you were born after 85, 86, all hope was lost for you. After 89, 90, no, I said I'll be nice, 1990. It was a wrap. Started spiraling down the gay drain. Rolling down, just spiraling down the hole. It's a wrap. Can't even speak or have a sentence anymore, just mumbling a bunch of nonsense. Where we at? Verse 10.
 
@@ -140,7 +140,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 - **Officer:** He's grabbing his cape, yep.
 
-- **Deacon Eythan:** We got the fringes in the bottom with the blue going across. But the best part to me is the shoes, man. The shoes just take everything away. You got armored sandals, spurs. Look, you got some kind of animal on the top. Right there. It might be another lion head. Who knows, man. I'm getting upset. It's Jordans now. We got Adidas and Reebok now. Anyway. So this is us right here. Same thing.
+- **Deacon Eythan:** We got the fringes in the bottom with the blue going across. But the best part to me is the shoes, man. The shoes just take everything away. You got armored sandals, spurs. Look, you got some kind of animal on the top. Right there. It might be another lion head. Who knows, man. I'm getting upset. It's … Jordans now. We got Adidas and Reebok now. Anyway. So this is us right here. Same thing.
 
 - And they wearing armor under this, by the way. This is all armor. They're all wearing armor. And they got nice coats on, armor. They're fully armored. These are knights. Got the dagger right there. Even the dagger look like it's gold.
 
@@ -640,7 +640,7 @@ Reading from the Paisley Abbey family tree, *Cradle of the Stuart Kings*  *[[1:2
 
 > Kenneth I, MacAlpin, King of the Picts and Scots. Domnall I. Constantine I. Áed. Daughter of Rhun, King of Strathclyde. Domnall II. Malcolm. Indulf. Culen. Constantine III. Dubh.
 
-- Who were black, I showed you that before. That's Duff right there. Duff. It's not pronounced Dub. D-U-B-H. It's pronounced Duff. So it means black. Okay? So you have Fergus, and you have Duff here. Do you see Duncan? Did I pass it? Duncan the First, right? So you see Duff. Duff means black. And you have Duncan, right? Malcolm the Second, or Mac Malcolm, means son of Malcolm. Malcolm the First, then Mac Malcolm the Second. You have Duff right here. Kenneth the Third, Duff, then you have Duncan, right? Now keep these names in mind. Fergus, Duncan. Now give me foundational surnames part three. Keep in mind Duncan.
+- Who were black, I showed you that before. That's Duff … right there. Duff. It's not pronounced Dub. D-U-B-H. It's pronounced Duff. So it means black. Okay? So you have Fergus, and you have Duff here. Do you see Duncan? Did I pass it? Duncan the First, right? So you see Duff. Duff means black. And you have Duncan, right? Malcolm the Second, or Mac Malcolm, means son of Malcolm. Malcolm the First, then Mac Malcolm the Second. You have Duff right here. Kenneth the Third, Duff, then you have Duncan, right? Now keep these names in mind. Fergus, Duncan. Now give me foundational surnames part three. Keep in mind Duncan.
 
 </div>
 
@@ -830,7 +830,7 @@ Reading from the Paisley Abbey family tree, the English line from Egbert  *[[1:5
 
 - **Officer:** Yeah. The long, blonde hair. Kind of mad and feminine. He got older, he got stronger, though. He got older and smarter.
 
-- **Deacon Eythan:** Yeah. He became a freaking strategic beast. But Cnut is in the anime called Vinland Saga. He's got the helmet with the axe. He's got his back towards us. In the middle. Look at the axe he's got. That's Cnut right there, with the armor, with the winged helmet. They should all be black folks here. They're not, cuz anime hates themselves and us. But this is Vinland Saga. An amazing anime, amazing. These are all Jomsvikings, with the exception of Askeladd, the sword pointing to the left. That's Askeladd, Thorkell, Thorfinn up to the top left. Thorfinn, Thors' son. Daddy is Thors. Askeladd is the next one, Thorkell, Cnut. They got to spell it wrong, Canute. That was it. Cnut. All right. Anyway, let's go out of this. So these are all that line here. Cnut right here. Emma.
+- **Deacon Eythan:** Yeah. He became a freaking strategic beast. But Cnut is in the anime called Vinland Saga. He's got the helmet with the axe. He's got his back towards us. In the middle. Look at the axe he's got. That's Cnut right there, with the armor, with the winged helmet. They should all be black folks here. They're not, cuz anime hates themselves and us. But this is Vinland Saga. An amazing anime, amazing. These are all Jomsvikings, with the exception of Askeladd, the sword pointing to the left. That's Askeladd, Thorkell, Thorfinn up to the top left. Thorfinn, Thors' son. Daddy is Thors. Askeladd is the next one, Thorkell, Cnut. They got … to spell it wrong, Canute. That was it. Cnut. All right. Anyway, let's go out of this. So these are all that line here. Cnut right here. Emma.
 
 - **Officer:** They came from Normandy.
 
@@ -1000,7 +1000,7 @@ Reading from *Black Knights*, part three, page 121, Sir Eldir Du · read by an o
 
 - Go down. That's all I want. Go to the picture again. Read it, right here.
 
-> The Welsh language provides much evidence of this name du. Breton, du. Irish, dubh. Gaelic, dubh. Manx, dubh. Black, sable. ... As black as coal. Coal black. Dead black. ... Black arms or armour. ... A black man, a negro, a blackamoor. Duon, black ones, blacks. ... Black forest. ... The black art. Duaglas, black and blue. ... Black letter, black character. ... To wash the blackamoor white. ... Smithy black. Duad, blackening. ... Having black, dark eyebrows. ... Somewhat black, blackish, inclined to black, darksome. Duan, a black man or woman, a black, a negro. ... A black woman. ... Negroes, blacks. Dubas, whooping cough, severe whooping cough, during the paroxysms...
+> The Welsh language provides much evidence of this name du. Breton, du. Irish, dubh. Gaelic, dubh. Manx, dubh. Black, sable. ... As black as coal. Coal black. Dead black. ... Black arms or armour. ... A black man, a negro, a blackamoor. Duon, black ones, blacks. ... Black forest. ... The black art. Duaglas, black and blue. ... Black letter, black character. ... To wash the blackamoor white. ... Smithy black. Duad, blackening. ... Having black, dark eyebrows. ... Somewhat black, blackish, inclined to black, darksome. Duan, a black man or woman, a black, a negro. ... A … black woman. ... Negroes, blacks. Dubas, whooping cough, severe whooping cough, during the paroxysms...
 >
 > Duder, blackness, gloominess. ... Thick and black, thickly dark. Dudal, black and hard. ... Dark and grim, grimly black or dark. ... Dark visage, a black face, countenance, dark complexion. ... Jet black, the deepest black. ... Blackness, darkness, gloom. ... Black, dark spot. ... Black frowning. ... As black as pitch. Therefore, the modern day phrase hey dude, or dude, translates to black man.
 

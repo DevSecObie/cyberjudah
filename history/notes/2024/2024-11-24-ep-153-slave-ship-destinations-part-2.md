@@ -69,7 +69,7 @@ Reading from *Slavery in the Arab World* by Murray Gordon, page 4, on the Muslim
 
 > the Persian Gulf, the Ottoman Empire
 
-- Turks. These are Turks. Edom, I call them. Edom Arabs. These are white Arabs, Caucasians that converted to Islam, that mingled with Arab women. That's what Turks are. Those are the guys in Egypt today, Turks.
+- Turks. These are Turks. Edom, I call them. Edom Arabs. … These are white Arabs, Caucasians that converted to Islam, that mingled with Arab women. That's what Turks are. Those are the guys in Egypt today, Turks.
 
 > and India.
 
@@ -243,7 +243,7 @@ Reading from *Slavery in the Arab World* by Murray Gordon, page 5, on the number
 
 - **A brother:** Oh yes, yes, yes. Right. Let's pull it up.
 
-- **Deacon Eythan:** Egypt today is Lower Egypt. We were there. Remember, we showed you earlier how they brought the slaves to Egypt over here. Let's get a map. This thing is very confusing. I was talking with them yesterday about it. I'm going to keep on asking y'all every other week about it, 'cause I'm going to keep forgetting, and I don't care. Type in Pathros. Wikipedia. So apparently y'all can't explain, man. Explain.
+- **Deacon Eythan:** Egypt today is Lower Egypt. We were there. Remember, we showed you earlier how they brought the slaves to Egypt over here. Let's get a map. This thing is very … confusing. I was talking with them yesterday about it. I'm going to keep on asking y'all every other week about it, 'cause I'm going to keep forgetting, and I don't care. Type in Pathros. Wikipedia. So apparently y'all can't explain, man. Explain.
 
 - **A brother:** Well, Upper Egypt, like leadership always stated, Upper Egypt's called Upper Egypt even though it's at the bottom, because the river flows down from the mountains of Ethiopia down into the Mediterranean. So Upper Egypt is actually the bottom portion of Egypt, which is Sudan today. And then Lower Egypt is what we call Egypt today, right, with the pyramids and all that. That's the lowlands.
 
@@ -395,7 +395,7 @@ Reading from *Slavery in the Arab World* by Murray Gordon, pages 6 to 7 · read 
 
 > As shall be seen, it took England the better part of the nineteenth century to rid the Indian Ocean of the traffic in slaves. The British pursued this anti-slavery campaign in this region only so far and as fast as it meshed with its larger diplomatic strategy of assuring their supremacy on the East African coast.
 
-- Their whole premise of stopping it was because it was interfering with their business of colonizing other lands. They didn't care about. It was about business. You got this slave stuff causing problems, man, you got to cut this out. We trying to take some lands over here. This is disruptive. That was the whole premise of it, really.
+- Their whole premise of stopping it was because it was interfering with their business of colonizing other lands. They didn't care about. … It was about business. You got this slave stuff causing problems, man, you got to cut this out. We trying to take some lands over here. This is disruptive. That was the whole premise of it, really.
 
 > In the Red Sea and Persian Gulf, abolishing slavery and the slave trade in these increasingly important regions were subordinate to the political imperative of safeguarding the lines of transportation to India and promoting British economic interests. These self-serving policies have for the most part been glossed over in British textbooks, which depict England as the dauntless foe of the Indian Ocean slave traffic.
 
@@ -493,7 +493,7 @@ Reading from *Slavery in the Arab World* by Murray Gordon, pages 8 to 9 · read 
 
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
-- So what happens to us? We become what? Hidden ones. Once we're cut off from being a people, a nation. That they wipe out our existence, and any knowledge of us ever being Israelites is removed from history and removed from our minds. So they gave us Christianity, they gave us Islam. 'Cause when you're in Islam, we're all children of God. When you're in Christianity, we're all children of God. The white man knows where he's from in Christianity. The Arab man knows where he's from in Islam. But the Negro knows nothing about where he's from. We're just some ambiguous race that don't know who they are, where they from. We just here. We just exist. We're freaking NPCs, non-playable characters. What do they call them in the movies? Extras. We are a nationwide extras. We're a fractured race of people. We're not a community. To be a community means you have a common unity. That's what community means, common unity. We don't have that. We're not a community. We are a fractured race of people.
+- So what happens to us? We become what? Hidden ones. Once we're cut off from being a people, a nation. That they wipe out our existence, and any knowledge of us ever being Israelites is removed from history and removed from our minds. So they gave us Christianity, they gave us Islam. 'Cause when you're in Islam, we're all children of God. When you're in Christianity, we're all children of God. The white man knows where he's from in Christianity. The Arab man knows where he's from in Islam. But the Negro knows nothing about where he's from. We're just some ambiguous race … that don't know who they are, where they from. We just here. We just exist. We're freaking NPCs, non-playable characters. What do they call them in the movies? Extras. We are a nationwide extras. We're a fractured race of people. We're not a community. To be a community means you have a common unity. That's what community means, common unity. We don't have that. We're not a community. We are a fractured race of people.
 
 - **A brother:** Damn.
 
@@ -507,7 +507,7 @@ Reading from *Slavery in the Arab World* by Murray Gordon, pages 8 to 9 · read 
 >
 > <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 
-- The tabernacles of Edom. The number one on God's hit list of this crafty counsel, of this confederacy. All the time you see that flag, the Confederate flag, you think it's all Europeans. Nah. All nations are confederate. The United Nations. All nations are confederate. Even the clowns of Africa that are in that damn council, them too, 'cause they make money out of it.
+- The tabernacles of Edom. The number one on God's hit list of this crafty counsel, of this confederacy. All the time you see that flag, the Confederate flag, you think it's all Europeans. Nah. All nations are confederate. The United Nations. All nations are confederate. Even the … clowns of Africa that are in that damn council, them too, 'cause they make money out of it.
 
 - Edom, as in the so-called white man, the red man. And the Ishmaelites. Number two, as always, is the Ishmaelites. In history, in this case, the Portuguese, Spanish, and then the Arabs, Omani Arabs or Turks. Of Moab. Moab will be your Chinese. Remember, we read earlier about them bringing us over to China. And the Hagarenes, that be your Muslims, your Islamic Arabs, a branch of Ishmael. Gebal, Hamites. Dahomey, that's an example. Ammon will be your Japanese. Amalek will be your so-called Israelis today. The Philistines are Hamites, so Arabs today also, now Palestinians. With the inhabitants of Tyre. That's all I want.
 
@@ -547,7 +547,7 @@ Reading from a passage on Timbuktu, Lamlam and Melli, posted by a brother in the
 
 - **A brother:** Just to show you they know who we are. They know who they was targeting the whole time. That's what Deacon's bringing out. So don't act like it was just random black people running around Africa that they was targeting. They combed through and they knew, like, yo, these the people right here. Keep going.
 
-> This report, which certainly savors of the marvelous, derives however some sort of countenance from the statements purporting that a colony of Jews, which first settled on the shores, afterwards removed to this country, flying probably before the arms of the Saracens.
+> This report, which certainly savors of the marvelous, derives however some sort of countenance from the statements purporting that a colony of Jews, which first settled on the shores, … afterwards removed to this country, flying probably before the arms of the Saracens.
 
 - **A brother:** There you go. There you go. You know Israel was there, that Jews were in that area. And remember that area, Ouidah, that was a slave port also. We read it earlier, right? Ouidah. So they knew who they were going after. They weren't just grabbing random Negroes out of Africa, putting them on a boat. No. They were grabbing Israelites, based upon divine intervention.
 
@@ -629,7 +629,7 @@ Reading from a history textbook, "Impact of European Settlement on the Lives of 
 
 > In the sixteenth century, perhaps 200,000 Spaniards immigrated to the New World.
 
-- So what the Arabs did to us in Africa, when they depopulated the landmasses of Africa, white men did the same exact thing to us on this side of the world too. The Arabs, Ishmael, and Edom are two sides of the same coin.
+- So what the Arabs did to us in Africa, when they depopulated the landmasses of Africa, white men did the same exact thing to us on this side of the world too. The Arabs, … Ishmael, and Edom are two sides of the same coin.
 
 > Conquistadors carved out vast estates called haciendas in temperate grazing areas and imported Spanish livestock for the kinds of ranching with which they were familiar. In coastal tropical areas, the Spanish erected huge plantations to supply sugar to the European market. Around 1550, silver was discovered in present-day Bolivia and Mexico. To work the cattle ranches, sugar plantations and silver mines, the conquistadors first turned to the indigenous peoples. The Spanish quickly established the encomienda system, in which the Crown granted the conquerors the right to employ groups of Native Americans as laborers or to demand tribute from them in exchange for providing food and shelter.
 

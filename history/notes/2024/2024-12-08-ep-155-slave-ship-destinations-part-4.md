@@ -234,7 +234,7 @@ Reading from *View of the Hebrews*, continued · read by an officer  *[[37:00](h
 
 *[[44:30](https://www.youtube.com/watch?v=O65ug3rsQGU&t=2670s)]* Remember, I had a conversation with brothers last night, in the background, about how Edom is our negative. He's our opposite. So what tends to happen is that whenever Israel finds themselves scattered in certain lands and reside there, Esau comes along and takes on our identity, and then overthrows us and becomes us. I'll say it again. Whenever Israel would flee to a land or an area and reside there for many years, and Esau was aware of it, he would come there and dwell amongst us and learn our ways, and over time seek opportunity to overthrow us and take on our identity.
 
-*[[45:13](https://www.youtube.com/watch?v=O65ug3rsQGU&t=2713s)]* So for example, when we fled to the Caucasus Mountains, we were the black Khazars. We ran there; then Edom got over there as well. Edom was there, or got there later, or they were earlier on before us, but they were already there, and they conquered us. When we migrated there as Jews, they learned our ways, and over time when they gained authority and power and so forth, they begin to overthrow us from different regions, as Spaniards or Portuguese. They took the opportunity at that point to help overthrow us, and take what we taught them and use it to their advantage, and us as slaves. So their knowledge of banking, money system, ship navigation: when we conquered them, we taught them those trades. We taught them those things. And when we got overthrown, they used it to their advantage, took on our names and became us. Likewise in Europe, as the kings and queens of England and Scotland and Britain. We ruled. We had as our servants and subjects. Once they saw the division amongst us, they used the opportunity to overthrow us, and took upon themselves our names, our titles and our throne. It's always the same thing, every time.
+*[[45:13](https://www.youtube.com/watch?v=O65ug3rsQGU&t=2713s)]* So for example, when we fled to the Caucasus Mountains, we were the black Khazars. We ran there; then Edom got over there as well. Edom was there, or got there later, or they were earlier on before us, but they were already there, and they conquered us. When we migrated there as Jews, they learned our ways, and over time when they gained authority and power and so forth, they begin to overthrow us from different regions, as Spaniards or Portuguese. They took the opportunity at that point to help overthrow us, and take what we taught them and use it to their advantage, and us as slaves. So their knowledge of banking, money system, ship navigation: when we conquered them, we taught them those trades. We taught them those things. And when we got overthrown, they used it to their advantage, took on our names and became us. Likewise in Europe, as the kings and queens of England and Scotland and Britain. We ruled. We had … as our servants and subjects. Once they saw the division amongst us, they used the opportunity to overthrow us, and took upon themselves our names, our titles and our throne. It's always the same thing, every time.
 
 *[[46:30](https://www.youtube.com/watch?v=O65ug3rsQGU&t=2790s)]* **Officer:** Brothers got Afro-Romani. Afro-Romani are people who are descended from both Romani people and the African diaspora.
 
@@ -282,7 +282,7 @@ Reading from *View of the Hebrews*, continued · read by an officer  *[[48:25](h
 
 > 9. They speak of the Arabic Jews as their brethren; but do not acknowledge European Jews as much.
 
-- They're the same people. Don't care about this, freaking folks. Fake people. Fake ass, man.
+- They're the same people. Don't care about this, … freaking folks. Fake people. Fake ass, … man.
 
 > Any circumstantial difference between them and the other Jews may be accounted for at least as easily as we can account for the different complexions of the white and black Jews;
 
@@ -408,7 +408,7 @@ Reading from *Sails of Hope*, pages 81 to 82, 143, 173 to 175 and 197 to 198: th
 
 - So he sent a European, or Edomite, so-called Jew, to communicate with the natives.
 
-> We also read in Columbus' journal that as the ships approached shore, of natives poured onto the beach.
+> We also read in Columbus' journal that as the ships approached shore, … of natives poured onto the beach.
 
 > Columbus first mentions Torres when he speaks of sending an interpreter to talk with the chief of the natives.
 
@@ -560,7 +560,7 @@ Reading from *Sails of Hope*, pages 81 to 82, 143, 173 to 175 and 197 to 198: th
 
 > where they were to be raised as Christians. Heartbreaking scenes took place during the parting of parents from their children.
 
-- Parents and children together committed suicide by throwing themselves into the water, along with their kids. And the Portuguese king called us when we cried about our kids. That's a book that says that. He called us that in Spanish when we cried over our children being stripped out of our hands. He laughed at us.
+- Parents and children together committed suicide by throwing themselves into the water, along with their kids. And the Portuguese king called us … when we cried about our kids. That's a book that says that. He called us that in Spanish … when we cried over our children being stripped out of our hands. He laughed at us.
 
 > Only a portion of the Spanish Jews who reached Portugal continued their wanderings. The overwhelming majority remained in the country and accepted baptism. They heard that other ships sailed to Africa with their human freight and that the passengers were sold as slaves.
 
@@ -708,7 +708,7 @@ Reading from *A Geographical Description of the Four Parts of the World*, publis
 
 **Caller:** I've never seen a steamboat.
 
-**Deacon Eythan:** Did they exist? Of course. But what happened to them? They evolved. You don't use steam. They evolved until what we have now, the tankers. You have the steam engine, the train; you have one or two of those now, but as time progressed and technology advanced, the train evolved into what we have now, bullet trains, Amtrak. Same thing. So the thought is that when slavery was abolished, the white man just said, okay, get rid of all the boats? That don't make no sense. The boats were used to ship cargo. Why would you destroy the boat? It don't make no sense to destroy an entire bunch of ships because you abolish slavery. If you can't ship Negroes no more, then keep the ship and don't put in them no more.
+**Deacon Eythan:** Did they exist? Of course. But what happened to them? They evolved. You don't use steam. They evolved until what we have now, the tankers. You have the steam engine, the train; you have one or two of those now, but as time progressed and technology advanced, the train evolved into what we have now, bullet trains, Amtrak. Same thing. So the thought is that when slavery was abolished, the white man just said, okay, get rid of all the boats? That don't make no sense. The boats were used to ship cargo. Why would you destroy the boat? It don't make no sense to destroy an entire bunch of ships because you abolish slavery. If you can't ship Negroes no more, then keep the ship and don't put … in them no more.
 
 *[[1:49:15](https://www.youtube.com/watch?v=O65ug3rsQGU&t=6555s)]* **Caller:** That's crazy, because all somebody had to do was plant a seed, going, well, where all the ships went, and everybody jumped on that bandwagon.
 
@@ -892,7 +892,7 @@ Reading from *The Lost Tribes and the Saxons*, continued, on the Isaki  *[[2:10:
 
 *[[2:11:19](https://www.youtube.com/watch?v=O65ug3rsQGU&t=7879s)]* **Text:** Shalom, Most High and Christ bless. Thank you again for bringing this stuff out. I attended an all Black and Hispanic high school in Port Arthur, Texas. I did a four-page essay and presentation on the Silk Road, sub-Saharan and transatlantic slave trade, going over conquerors and Greek and heathen fashions that was pushed on our people at that time. My principal told me to write another paper on something else, or I would lose my top spot in my class. I ended up losing scholarships, and going the military route. Why don't black schools teach black history, and why are students punished for learning it?
 
-**Deacon Eythan:** Wow. You answered your own question. You definitely did. They don't want you to know. That's why the show is called Our Hidden History. That's the reason why. When I was in college, I had a public speaking course. For my final presentation, I did a whole presentation on Northern Kingdom being Israel, using all these sources, and the professor hated it. Hated me for it. Because there was a couple Northern Kingdom in there, and I did it. The professor was an Edomite. All the other students, their face was like in shock: how's this guy know this stuff?
+**Deacon Eythan:** Wow. You answered your own question. You definitely did. They don't want you to know. That's why the show is called Our Hidden History. That's the reason why. When I was in college, I had a public speaking course. For my final presentation, I did a whole presentation on Northern Kingdom being Israel, using all these sources, and the professor hated it. Hated me for it. Because there was a couple Northern Kingdom in there, and I did it. The professor was an Edomite. All the other students, … their face was like in shock: how's this guy know this stuff?
 
 **Officer:** Just like Bishop brought up: remember the quote, your enemy is not going to teach you your true history, to overthrow him. Now you said, why don't these black teachers and these black schools teach our history to us? Because guess who they under. It's not their own curriculum. The curriculum come down from your enemy, and the enemies is there, they watching over what they're going to teach. I thought the same thing: damn, why don't they teach us our history? But it's not going to be that way. That's not how they programmed it to be. Esau is making sure that those leaders that's in education, religion and so forth, that they teach what they want us to be taught.
 

@@ -145,7 +145,7 @@ Reading from the old book on the Silurians read from last week, page 59, the spe
 
 - **A brother:** They had blacks and Native Americans in the same boarding schools.
 
-- **Deacon Eythan:** Native Americans and the slaves. They had both of us in slavery together and in boarding schools together. And a lot of you ain't Native Americans, Native American yourself. You do understand that, right? The Native Americans that passed, they reclassified them as Negroes and put them in slavery. You know that, right? You know that Native Americans are heathens, in the comment board. What I did on my past class yesterday, in the comments: "Oh, Native Americans are heathens." Oh, come on then. Really? Okay. Y'all have fun with that thought process. Let's read on.
+- **Deacon Eythan:** Native Americans and the slaves. They had both of us in slavery together and in boarding schools together. And a lot of you … ain't Native Americans, Native American yourself. You do understand that, right? The Native Americans that passed, they reclassified them as Negroes and put them in slavery. You know that, right? You know that Native Americans are heathens, in the comment board. What I did on my past class yesterday, in the comments: "Oh, Native Americans are heathens." Oh, come on then. Really? Okay. Y'all have fun with that thought process. Let's read on.
 <div class="reading">
 
 Reading from the old book on the Silurians read from last week, page 59, the speech of Caractacus, continued · read by a brother  *[[21:02](https://www.youtube.com/watch?v=UVontELjUaQ&t=1262s)]*
@@ -266,7 +266,7 @@ Reading from the old book on the Silurians read from last week, page 55, the Sil
 
 **A brother:** I think he like the Eleazar, where they said, "Look, just act like you..."
 
-**Deacon Eythan:** Yeah, that's what he is. And he got a reward from the president right after. They had him kiss a man, they didn't put it in the movie. Just because you got it on film. All right, press play. Fast forward a little bit. I don't need all of that.
+**Deacon Eythan:** Yeah, that's what he is. And he got a reward from the president right after. They had him kiss a man, they didn't put it in the movie. Just because you got it on film. … All right, press play. Fast forward a little bit. I don't need all of that.
 
 He gives him a speech, like Caractacus does. "We are lions." They banging the shields. That's his right-hand man right there. "Victory is yours. Take it. Just beyond the beach." They don't even look like warriors. They do not. They don't fit. They're like hillbillies with shields. Anyway, let's move on.
 
@@ -308,7 +308,7 @@ Here we go. He gets to the temple of Apollo. Bow. You got to rewind it. Pay atte
 
 - **A brother:** "Come back with your shield or on it" is a famous quote attributed to Spartan mothers sending their sons off to war.
 
-- **Deacon Eythan:** So that's how we rolled back then, man. Now you YNs now, guys shoot the gun sideways. Y'all ain't... no, you're just not the guys. You're the semen that should have ended up somewhere in a sock or a towel somewhere. Not anyone's womb. Where we at?
+- **Deacon Eythan:** So that's how we rolled back then, man. Now you … YNs now, … guys shoot the gun sideways. Y'all ain't... no, you're just not the guys. You're the semen that should have ended up somewhere in a sock or a towel somewhere. Not anyone's womb. Where we at?
 
 - **A brother:** Hey, mind if I read something? First Maccabees chapter 9 and verse 9. So this is Judas' last battle before he died, cuz many of the men feared. Like he was talking about, how we had that thing, you can't just flee in the midst of a battle.
 **[1 Maccabees 9:9-10](/bible/1-maccabees/9#v9)**  *[[42:46](https://www.youtube.com/watch?v=UVontELjUaQ&t=2566s)]*

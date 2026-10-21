@@ -52,7 +52,7 @@ tags: ["Our Hidden History", "captivity"]
 
 **A brother:** The Native American woman. I have a picture of a statue I have of an Indian woman with a baby on her back.
 
-**Deacon Eythan:** You have it? Let me see what you got. Oh, that's good. That'll do. Blow it up. That's a sister. That's the museum right there. Zoom in to the sister's garment. Yep, she got it. Bring it in. You see the blue on top and the fringes hanging all around. I don't see tzitzit here. I don't see it anywhere here. I don't see it on Jehu. I don't see it on our brothers and sisters on this side of the world. I only see it on baby penis suckers. That's where I see it. I don't see it anywhere else. Teenage Mutant Ninja Jewish Turtles under Brooklyn with bloody mattresses. I don't see it anywhere else. I got to stop this stuff. Trying not to use the word. You're pissing me off.
+**Deacon Eythan:** You have it? Let me see what you got. Oh, that's good. That'll do. Blow it up. That's a sister. That's the museum right there. Zoom in to the sister's garment. Yep, she got it. Bring it in. You see the blue on top and the fringes hanging all around. I don't see tzitzit here. I don't see it anywhere here. I don't see it on Jehu. I don't see it on our brothers and sisters on this side of the world. I only see it on baby penis suckers. That's where I see it. I don't see it anywhere else. Teenage Mutant Ninja Jewish Turtles under Brooklyn with bloody mattresses. I don't see it anywhere else. I got to stop this stuff. Trying not to use the word. … You're pissing me off.
 
 *[[20:36](https://www.youtube.com/watch?v=ryVUwAh7E7k&t=1236s)]* **A brother:** I got another picture of Dark Age images as well.
 
@@ -134,7 +134,7 @@ Reading from Bible Hub, the commentary on Deuteronomy 22:12  *[[22:16](https://w
 
 - Either on the right hand or the left. So there's no gray area. We don't go right, we go straight through. There is no... it's straight commandment. And nowhere do you read anywhere in scripture where we had little shoestrings hanging from a belt hook in the Bible. It's not in there. It's not there. So just provide us... don't provide us some edited, digitally altered image of us with tassels on.
 
-- We're going to find it. We have most of the books. Years ago a guy was trying to be slick. He took one of these images I showed you here, I think it was that one, and he digitally even moved some of the fringes to make it seem as if it was like a string, not realizing we had the book that showed the actual image, the full unedited version. Evil and stupid.
+- We're going to find it. We have most of the books. Years ago a guy was trying to be slick. He took one of these images I showed you here, I think it was that one, and he digitally even moved some of the fringes to make it seem as if it was like a string, not realizing we had the book that showed the actual image, the full unedited version. … Evil and stupid.
 
 - Anyway, Jewish diaspora in Japan. Let's go back to it. Take that how you want to take it, man. It is what it is. We don't rock tassels here. We don't rock just do it. We don't rock those string fringes.
 
@@ -412,7 +412,7 @@ Reading from a book on the ancient Jewish diaspora in Japan, page 26  *[[52:26](
 
 > suggesting the Jewish origin of the immigrants.
 
-- So you had Israelites causing problems, and he got Moab upset with us. He said, I'm going to do something to them.
+- So you had Israelites … causing problems, and he got Moab upset with us. He said, I'm going to do something to them.
 
 > The suffix ki means newcomers or newly arrived immigrants. Therefore the king of Yuki would mean the king of the newly arrived Jews.
 
@@ -698,7 +698,7 @@ That's why in India we have... we either went southeast or we went northeast, an
 
 *[[1:37:24](https://www.youtube.com/watch?v=ryVUwAh7E7k&t=5844s)]* **A brother:** Yeah, Deacon. In Chester, in the hood, I grew up near some Vietnamese and Taiwanese people. They was acting just like us.
 
-**Deacon Eythan:** Yeah. I knew a girl in the Bronx, in the hood. She was real niggerish. But I think her father was northern kingdom, I think, but she took on a lot. Whenever northern kingdom mixes with Ammon and Moab, their features dominate. They look straight Moab. They don't look Ephraim. When Judah mix with them, they become blazing. They have that whole eye with the dark skin. But when northern kingdom mix with them, it's like Ephraim gets drowned out for some reason. All right, what we got?
+**Deacon Eythan:** Yeah. I knew a girl in the Bronx, in the hood. She was real niggerish. But I think her father was northern kingdom, I think, but she took on a lot. Whenever northern kingdom mixes with Ammon and Moab, their features dominate. They look straight Moab. They don't look Ephraim. When Judah mix with them, they become blazing. They have that whole … eye with the dark skin. But when northern kingdom mix with them, it's like Ephraim gets drowned out for some reason. All right, what we got?
 
 <div class="reading">
 

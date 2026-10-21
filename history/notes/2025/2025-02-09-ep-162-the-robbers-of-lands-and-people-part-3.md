@@ -32,7 +32,7 @@ tags: ["Our Hidden History", "nations"]
 
 **Officer:** King John II of Portugal, 1481 to 1495...
 
-**Deacon Eythan:** Now this history is important, because the history of the Spanish Inquisition, or the Spanish expulsion due to the Inquisition, led to the transatlantic slave trade. It also poured into the trans-Saharan slave trade, because many of these Portuguese and Spanish rulers, kings and monarchs and merchants, which were Israelis as well, which became conquistadors, sold us or ran us into Arab slave traders. So they all worked cohesively. They all worked together. It was a joint effort of the Europeans, the Israelis, the Arabs and the Hamites, all of them got together collectively as a whole and they destroyed us.
+**Deacon Eythan:** Now this history is important, because the history of the Spanish Inquisition, or the Spanish expulsion due to the Inquisition, led to the transatlantic slave trade. It also poured into the trans-Saharan slave trade, because many of these Portuguese and Spanish rulers, kings and monarchs and merchants, which were Israelis as well, which became conquistadors, sold us or ran us into Arab slave traders. So they all worked cohesively. They all worked together. It was a joint effort of the … Europeans, the Israelis, the Arabs and the Hamites, all of them got together collectively as a whole and they destroyed us.
 
 *[[15:07](https://www.youtube.com/watch?v=EwwDXVmX4o8&t=907s)]* Give me Psalms 83. Let's open up with that first, because that is key. I recently was on, not a show, I guess a Zoom call, with some elite scholars of different universities. So these brothers have some really heavy accolades, PhDs, doctorates. I had a meeting with them sometime this week. Was it Thursday, Friday? I forgot what day it was. It was Thursday, I think.
 
@@ -160,7 +160,7 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 > Graetz wrote that the king had them dragged from his path
 
-- The king called us that, crying over our kids. Damn. He said, get these guys out, get these out of my face, man, crying over their kids. So what? I gave you guys eight months, you ain't pay up. It is what it is. So y'all think it's a game. This is like the show Roots. The same thing, 12 Years a Slave: she said, don't take my children, and she cried and cried; the whole movie she was crying. She died, man. She lost her children. Don't take my children. She cried for her children all the time. Get that: the curses. Deuteronomy 28. These curses are over and over and over and over again.
+- The king called us that, crying over our kids. Damn. He said, get these guys out, get these … out of my face, man, crying over their kids. So what? I gave you guys eight months, you ain't pay up. It is what it is. So y'all think it's a game. This is like the show Roots. The same thing, 12 Years a Slave: she said, don't take my children, and she cried and cried; the whole movie she was crying. She died, man. She lost her children. Don't take my children. She cried for her children all the time. Get that: the curses. Deuteronomy 28. These curses are over and over and over and over again.
 
 </div>
 
@@ -232,7 +232,7 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 > A marriage contract was signed on November 30, 1496.
 
-- This guy's son, he glitched, like the Matrix. Did you get what you wanted? All praise. Read that again. Okay, he rebooted. Good.
+- … This guy's son, he glitched, like the Matrix. Did you get what you wanted? All praise. Read that again. Okay, he rebooted. Good.
 
 > Less than a week later, on December 4, 1496, Manuel decreed that all Jews, native born as well as immigrants, had to leave Portugal by October 1497
 
@@ -270,7 +270,7 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 > <sup>[9](/bible/2-maccabees/4#v9)</sup> Beside this, he promised to assign an hundred and fifty more, if he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen, and to write them of Jerusalem by the name of Antiochians.
 
-- Training up. Now this is Jason, who loved the white man so much that he basically got paid to force our people to subject themselves to Greek games and sports and philosophies, and things of that nature. Read on.
+- Training up. Now this is Jason, … who loved the white man so much that he basically got paid to force our people to subject themselves to Greek games and sports and philosophies, and things of that nature. Read on.
 
 - Antiochians. We always say Antiochians, like Antioch, which goes back to the word Greeks. It's easy in the book: if you see a line under the ch, it's pronounced like a k. Antioch.
 
@@ -302,17 +302,17 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 > <sup>[15](/bible/2-maccabees/4#v15)</sup> Not setting by the honours of their fathers, but liking the glory of the Grecians best of all.
 
-- We forgot about our forefathers and loved the Europeans more. The Edomite Greeks more than our original ancestry. We begin to embrace them more than ours. Read on, verse 16.
+- We forgot about our forefathers and loved the Europeans more. … The Edomite Greeks more than our original ancestry. We begin to embrace them more than ours. Read on, verse 16.
 
 > <sup>[16](/bible/2-maccabees/4#v16)</sup> By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things.
 
-- By reason whereof sore calamity came upon them. But this same mindset fell upon us in Spain too. We start speaking Spanish, gaining status, thinking we Spaniards. I'm Portuguese, I've been there for years; I'm Spanish, I've been there for years. It's the same mentality we had over there in Spain and Portugal, before they expelled us. It's the same thought. Even the northern kingdom today: me no black, me no black. Because you speak that Spanish, you think you a Spaniard now. No, no, no. Trump reminded you you a, too, right? You bilingual, but you're one nonetheless. That's what happened.
+- By reason whereof sore calamity came upon them. But this same mindset fell upon us in Spain too. We start speaking Spanish, gaining status, thinking we Spaniards. I'm Portuguese, I've been there for years; I'm Spanish, I've been there for years. It's the same mentality we had over there in Spain and Portugal, before they expelled us. It's the same thought. Even the northern kingdom today: me no black, me no black. Because you speak that Spanish, you think you a Spaniard now. No, no, no. Trump reminded you you a, … too, right? You bilingual, … but you're one nonetheless. That's what happened.
 
 - It's the same thing that go for Benjamin too, coming here: oh, them Yankee boys, them lazy blacks. Shipping you out of here too. And you Levites, who speak that French: shipping your behind out of here too. There it go. It's just going down the line. And you brothers from Africa, Nigerian, you from Angola, you from Sierra Leone, no papers: you out of here too. It's going down the line. I've been here for years, I have a degree: it don't matter. Going to send your black behind right back across the ocean. It don't matter.
 
 - For they had them to be their enemies and avengers: because they are our enemies and our avengers when we do wrong. Whose custom they followed so earnestly: whose customs, whose laws and fashions we follow so earnestly. Three-piece suit, the briefcase, speak the language, haircut a certain way, lined up, the beard cut off, clean shaving, bald head. They call it metrosexual today. That's the Greekish fashion today. Damn.
 
-- And unto whom they desired to be like in all things: unto whom we desired to be like in all things. That's why black folks say, I got white in my family. Be the most blackest on earth: I got white in my family. Please. So that's the mindset our people have today, as they did yesterday.
+- And unto whom they desired to be like in all things: unto whom we desired to be like in all things. That's why black folks say, I got white in my family. Be the most blackest … on earth: I got white in my family. … Please. So that's the mindset our people have today, as they did yesterday.
 
 - **Officer:** They be looking like Manny. Oh man, how do we get here? And thinking they Greek and white. Look, I got some blue in my eyes.
 
@@ -432,7 +432,7 @@ Reading from *The Jews and Moors in Spain*, on King Manuel's edict against the J
 
 > were heartlessly thrust aside and called
 
-- That's what we read earlier. Damn.
+- … That's what we read earlier. Damn.
 
 > Hundreds of mothers, mad with despair,
 
@@ -600,7 +600,7 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 - A heterogeneous population. Means they all stuck to themselves. They all, one race stayed with each other. Refer to as endogamous: one race stays together.
 
-- Johan Moritz. Now we're talking about Johan Moritz. And that name, Johan Moritz, is a Moor name. Moritz: Moor. Remember, when they conquered us, when we were living in Spain and Portugal, we intermarried with these people, so they took on our names. So they got all these black names and they white. It's weirdness. Read on.
+- Johan Moritz. Now we're talking about Johan Moritz. And that name, Johan Moritz, is a Moor name. Moritz: Moor. Remember, … when they conquered us, when we were living in Spain and Portugal, we intermarried with these people, so they took on our names. So they got all these black names and they white. It's weirdness. Read on.
 
 > Indians, Catholic Portuguese, Jews of Portuguese, Spanish and several other descents, negro slaves, Portuguese New Christians (this included secret Jews and apostate Jews), and Dutch Calvinists.
 
@@ -674,7 +674,7 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 > This was due in part to the fact that the Jews were more visible in New Holland, since they formed a larger percentage of the European population
 
-- Stop. It says the Jews here were more visible in New Holland, and they formed a larger percentage of the European population. What's this prove? That the Israelis are Europeans. Because they'll say today, we're not Europeans, we're Jews. Them white guys over there are Europeans. Because in the Talmud, and their rabbinical writings that they all subscribe to, the rabbis say that of the Romans and the Greeks and Europeans, Germans, Russians. So they say, we're not European; we're from there, but we're not them. No. They are Europeans. They're Europeans too. Read on.
+- Stop. It says the Jews here were more visible in New Holland, and they formed a larger percentage of the European population. What's this prove? That the Israelis are Europeans. Because they'll say today, we're not Europeans, we're Jews. Them white guys over there are Europeans. Because in the Talmud, and their rabbinical writings that they all subscribe to, the rabbis say that of the Romans and the Greeks and Europeans, Germans, Russians. … So they say, we're not European; we're from there, but we're not them. No. They are Europeans. They're Europeans too. Read on.
 
 > than they did in Amsterdam.
 
@@ -682,7 +682,7 @@ Reading from *New World Jewry: Requiem for the Forgotten* by Seymour B. Liebman,
 
 > Some Protestant missionaries wanted to expand their flocks through conversions, but they could not invade Jewish plantations to proselytize the negro slaves and the Indians.
 
-- They could not invade what? Jewish plantations. So these Israelis were slave owners. That's why this book is so expensive. I want you to know that they had slaves. So the Israelis had negro slaves and Indian slaves on their plantation properties. They had Judah and Ephraim on their plantations together. What page is this? Let's get page 159. Give me Jeremiah 50:33. If you ignore it, it didn't happen.
+- They could not invade what? Jewish plantations. So … these Israelis were slave owners. That's why this book is so expensive. I want you to know that they had slaves. So the Israelis had negro slaves and Indian slaves on their plantation properties. They had Judah and Ephraim on their plantations together. What page is this? Let's get page 159. Give me Jeremiah 50:33. If you ignore it, it didn't happen.
 
 </div>
 
@@ -1090,7 +1090,7 @@ Reading from *Babylon to Timbuktu*, pages 120 and 122: the black Jews of the Nig
 
 - And they destroyed it and sold us out as slaves. That's why it's ruins. Remember, there used to be walls; where the walls? Now gone. Destroyed by the Arabs.
 
-> It is obvious to the researchers that after the breakup of the Hebrew kingdoms of Ghana and Lamlam, black Jews migrated to remote regions of the interior and the coast to find safety in exile.
+> … It is obvious to the researchers that after the breakup of the Hebrew kingdoms of Ghana and Lamlam, black Jews migrated to remote regions of the interior and the coast to find safety in exile.
 
 - Right: we on the run.
 

@@ -59,7 +59,7 @@ Reading from a clip of the In Living Color character Oswald Bates  *[[7:12](http
 
 Reading from a video of a man saying slave ships are not real  *[[8:46](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=526s)]*
 
-> Slave ships aren't real. White people lie. Never made one slave. Black people aren't from Africa. Black people are from America. White people lied and said they used 35,000 ships to bring 12.5 million of us over the Atlantic Ocean during a six-month trip back and forth from the year 1500 to 1866, when all white people can show for proof is this.
+> Slave ships aren't real. White people lie. Never made one slave. … Black people aren't from Africa. Black people are from America. White people lied and said they used 35,000 ships to bring 12.5 million of us over the Atlantic Ocean during a six-month trip back and forth from the year 1500 to 1866, when all white people can show for proof is this.
 
 - So, and that right there should show you what a lie. So Oswald Bates is real. Now get the next video. Another one.
 
@@ -339,7 +339,7 @@ Reading from a search result on the value of $150 then, in 2024, posted by Capta
 
 - Because black folks go, well, if there's a God, why would he allow that? Because he can. Let me give you an example. Let's say you have a person that's a mobster, a Mafia boss, a mob boss. Let's do that level, right? And he a gangster, and he has killed countless people and got away with it. He gets arrested, he gets bail, he gets off. He kills men, women and children, he gets off. And you're his right-hand man, and you know what he does. Let's say you're his accountant. You're not part of the dirty work, but you do the money laundering. Let's say a part of that, right? Worldly speaking, I speak as a man. And this guy, you seen this man throw men over a bridge, throw them on train tracks, put cement blocks on their feet, throw them in the water, cut them in pieces, store them in barrels, liquefy their bones with acid, all that stuff like the movies. That stuff is not fake. The Mafia is real. They've done these things. John Gotti. These aren't no fake people. So they done these things. So you got people that work for them, that know what they do, what they're capable of. Would you question him: why you got to kill people? Why you got to work illegally? When you know what he'll do to you, or what he can get away with doing to you? You wouldn't question him. Well, guess what: that's how God is. God is the top gangster up here. He do whatever the hell he wants to do. You can't say or do nothing about it. And if you do, he'll do something to you. That's how he work. Do what I say or die.
 
-- You are Blood In, Blood Out. We said amen, let it be so. You dealing with a God that flooded the whole earth with water. Men, women, children, infants, everybody dead. Everybody dead. No one, except eight people. Animals: not even a bird survived. The water was so high, even birds is drowning. They can fly. They found fish on the mountains. They found fish fossils on top of Mount Everest. How they get up there? Grand Canyon, how do they get up there? Flood. God kills. Speak your truth. Everybody just going to just die questioning God. You let your damn mind question God? Question yourself before you question God. Crazy out here, man.
+- You are Blood In, Blood Out. We said amen, let it be so. You dealing with a God that flooded the whole earth with water. Men, women, children, infants, everybody dead. Everybody dead. No one, except eight people. Animals: not even a bird survived. The water was so high, even birds is drowning. They can fly. They found fish on the mountains. They found fish fossils on top of Mount Everest. How they get up there? Grand Canyon, how do they get up there? Flood. God kills. … Speak your truth. Everybody just going to just die questioning God. You let your damn mind question God? Question yourself before you question God. Crazy out here, man.
 
 - Okay, I got to stay mad longer. Give me Isaiah 54 and 3.
 
@@ -679,7 +679,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 - That law was passed just for us. To find out: these guys are keeping the Jewish law. Enslave them or kill them. Go ahead.
 
-> The Inquisition consisted of a tribunal of religious judges. Its purpose was to investigate and purge out heretical Christians, persons who question certain Christian principles.
+> The Inquisition consisted of a tribunal of religious judges. … Its purpose was to investigate and purge out heretical Christians, persons who question certain Christian principles.
 
 - Read again. Its purpose was to investigate and purge out heretical Christians, persons who question certain Christian principles. We would challenge Christianity. Challenged white Jesus. We challenged Easter. We challenged Christmas. We challenged that Eucharist cookie, baby Jesus. If you challenged it, you were either incarcerated, or you were enslaved, or killed. That's what the Inquisition is all about. Go ahead.
 
@@ -705,7 +705,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 - **A brother:** Exactly. Organs. They're taking the organs and they sell them.
 
-- **A brother:** Hey Deep, let me add to what you was just bringing out. It says the same thing. Get the book of 2 Maccabees 6, verse 10. And this was done by white people, Caucasians. Look at this history. 2 Maccabees chapter 6:10. Now, to be specific, this was done by the Greeks. Watch. Read.
+- **A brother:** Hey Deep, let me add to what you was just bringing out. It says the same thing. Get the book of 2 Maccabees 6, verse 10. And this was done by white people, Caucasians. … Look at this history. 2 Maccabees chapter 6:10. Now, to be specific, this was done by the Greeks. Watch. Read.
 
 </div>
 
@@ -1129,7 +1129,7 @@ Reading from the *Critical Review*, 1783, page 139 onward, on the slave trade  *
 
 - Read again. Held us fast. They refused to let them go. Why? Because you have a slave that's worth $112,000, and you selling 12.5 million of them. You wouldn't let them go either. We black gold. You don't let go of black gold, and wool and ivory. And that's just from the west coast of Africa. That's just the west. That's not including the east coast of Africa. That's just the west. We counting one side of Africa. Now the other side:
 
-- This book right here, *Nautical Magazine*, is a book about the British navigation, and their sails and explorations on the other side of the ocean, and how they ran into the trans-Saharan slave trade as well. Give me page 529. 1870. 1870 means that five years before this we were freed from slavery, allegedly. That Loango family I showed you earlier: that the Jews of Loango were Jews. David Livingstone said it. Park said it. Now we got another guy here. Read this here.
+- This book right here, *Nautical Magazine*, is a book about the British navigation, and their sails and explorations on the other side of the ocean, and how they ran into the trans-Saharan slave trade as well. Give me page 529. 1870. 1870 means that five years before this we were freed from slavery, allegedly. That Loango family I showed you earlier: that the Jews of Loango were Jews. David Livingstone said it. … Park said it. Now we got another guy here. Read this here.
 
 <div class="reading">
 
@@ -1189,13 +1189,13 @@ Reading from *The Atlas of the Atlantic Slave Trade*, page one  *[[2:11:16](http
 
 > Both buyers, Europeans, and sellers, Africans, saw the people traded into captivity on the African coast as outsiders.
 
-- Stop. Read again. Both buyers, Europeans, and sellers, Africans: Europeans and Hamites. Saw who? Saw the people traded into captivity on the African coast as what? As outsiders. As outsiders, meaning what? Hamites were not selling their own people into slavery. They were selling outsiders, meaning people who are not their own people, into the hands of Europeans. Go ahead.
+- Stop. Read again. Both buyers, Europeans, and sellers, Africans: Europeans … and Hamites. Saw who? Saw the people traded into captivity on the African coast as what? As outsiders. As outsiders, meaning what? Hamites were not selling their own people into slavery. They were selling outsiders, meaning people who are not their own people, into the hands of Europeans. Go ahead.
 
 > Although the identities that made trading possible did not remain constant over time.
 
 - Give me the book real quick, *Encyclopedia Americana*, and give me Joel 3. Hamites are not selling Hamites into slavery. Hamites are selling Israelites into slavery. Right. That's what y'all don't understand. You're not selling each other into slavery.
 
-- Now, were there instances where our people were involved in the trade? In some instances, yes, they were. There were instances where you have people who were greedy, and they were menstealers, middlemen. And you have kingdoms where, if we went to war... Say me and Cap had a kingdom. I had a kingdom, he had a kingdom. We war with each other, and I win, and I take him captive and his people captive. I would sell them off. So I didn't know that the slavery that I had was different from theirs. Their slavery was perpetual. His slavery was: he owed me a debt for war. That's how we did it. If we went to war and I captured him, he would have to work off his debt, like the Bible says to do. So we thought, okay, we're going to sell off our people to them, and that'll be it. But that was on a small scale, because we knew selling our own people as a whole to somebody else would destroy us. That's detrimental. That makes no damn sense. You weren't stupid.
+- Now, were there instances where our people were involved in the trade? In some instances, yes, they were. There were instances where you have people who were greedy, and they were menstealers, middlemen. And you have kingdoms where, if we went to war... Say me and Cap had a kingdom. I had a kingdom, he had a kingdom. We war with each other, and I win, and I take him captive and his people captive. I would sell them off. … So I didn't know that the slavery that I had was different from theirs. Their slavery was perpetual. His slavery was: he owed me a debt for war. That's how we did it. If we went to war and I captured him, he would have to work off his debt, like the Bible says to do. So we thought, okay, we're going to sell off our people to them, and that'll be it. But that was on a small scale, because we knew selling our own people as a whole to somebody else would destroy us. That's detrimental. That makes no damn sense. You weren't stupid.
 
 - So you had minute, small instances where Israel was involved in menstealing, and we were being evil and hated each other, and would have each other conquered. Like Native Americans this side of the world: they would conquer one Native American group, and the white man would take them as slaves. Like *Apocalypto*. So there were instances, small. But guess what: when we did that, did we profit from it? No. We got enslaved too. So it didn't help. Even if there were Jake that conquered Jake and sold them off, we both got enslaved in the end. It didn't help. We didn't profit from that. We didn't get a piece of that freaking $150 billion we showed you earlier. And if we did, guess what happened? We lost it during the Berlin Conference, when they came and took the land anyway. Now read what you got.
 
