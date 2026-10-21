@@ -4,7 +4,7 @@ slug: "2026/2026-03-30-whores-of-information"
 date: "2026-03-30"
 teacher: "Captain Gad"
 description: "15 Minutes w/ The Captains · 2026-03-30"
-tags: ["15 Minutes w/ The Captains", "gossip", "marriage-family", "the-law", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "gossip", "the-law", "wisdom"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-03-30</p>
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "gossip", "marriage-family", "the-law", "wi
 
 ## Introduction
 
-*[[0:57](https://www.youtube.com/watch?v=qPvmN33DYZw&t=57s)]* The episode opens with a short skit of two sisters gossiping ("Sis, I got something spicy to tell you... That new sister got beef with sis, you know who... What other tea you got for me? I love this drama, sis."). Today's class, we're going to go over gossip. In today's time, that's all you see on social media. Everybody got something to say. Everybody got gossip. Everybody got the tea. Everybody got the scoop. But what does God feel about that?
+*[[0:57](https://www.youtube.com/watch?v=qPvmN33DYZw&t=57s)]* The episode opens with a short skit of two sisters gossiping ("Sis, I got something spicy to tell you... That new sister got beef with sis, you know who... What other tea you got for me? I love this drama, sis."). Today's class, we're going to go over gossip: … of information. Are you a … of information? In today's time, that's all you see on social media. Everybody got something to say. Everybody got gossip. Everybody got the tea. Everybody got the scoop. But what does God feel about that?
 
 ## Scriptures Opened
 
@@ -49,11 +49,11 @@ tags: ["15 Minutes w/ The Captains", "gossip", "marriage-family", "the-law", "wi
 
 - The definition of gossip is read: "Noun. Rumors or information about the behavior or personal lives of other people, specifically information about the behavior or lives of famous people: writes a gossip column. A chatty talk. The subject matter of gossip. A person who habitually reveals personal or sensational facts about others: the worst gossip in town."
 
-- That's going on right here in the body. That's going on in the world. In your high schools, in your middle schools. A lot of us grew up hearing our parents, our aunties, our uncles gossip. We grew up around gossip. Those that just want to know everybody's business, to spread rumors, to spread gossip.
+- That's going on right here in the body. That's going on in the world. In your high schools, in your middle schools. A lot of us grew up hearing our parents, our aunties, our uncles gossip. We grew up around gossip. We grew up around … of information: those that just want to know everybody's business, to spread rumors, to spread gossip.
 
-- A second definition is read: "Three. A mercenary or unscrupulous person; a person who is willing to compromise their integrity or principles for personal gain or in pursuit of something. Four. A person who gets an unusual amount of pleasure from or has an unusual amount of interest in something."
+- The definition of … is read: "Three. A mercenary or unscrupulous person; a person who is willing to compromise their integrity or principles for personal gain or in pursuit of something. Four. A person who gets an unusual amount of pleasure from or has an unusual amount of interest in something."
 
-- A person is willing to compromise their integrity. Willing to compromise keeping God's commandments. Willing to compromise friendships. Willing to compromise trust. And this something that you having an unusual amount of interest in is gossip.
+- A person is willing to compromise their integrity. Willing to compromise keeping God's commandments. Willing to compromise friendships. Willing to compromise trust. You're a … of information. You're a … for gossip. And this something that you having an unusual amount of interest in is gossip.
 
 
 **[Proverbs 6:16-19](/bible/proverbs/6#v16)**  *[[5:51](https://www.youtube.com/watch?v=qPvmN33DYZw&t=351s)]*
@@ -114,9 +114,9 @@ tags: ["15 Minutes w/ The Captains", "gossip", "marriage-family", "the-law", "wi
 
 - A video is played: "Unfortunately we live in a space where it's very much encouraged, cuz back in the day gossip used to look like sitting around a table and having lunch and then bringing somebody up and talking about them. Today what it looks like is you create YouTube videos and you make hour-long videos just bashing somebody, whether it's a pastor or someone of influence... and then you're obviously getting paid, especially if you're a YouTuber or any sort of influencer at that level who is making money from this. You're getting paid to gossip about someone. So this is where we are in our society today."
 
-- So that's where we are at right now. We are in the midst of gossip culture. You see hundreds and hundreds of videos of so-called Israelites calling themselves followers of Christ. Their whole scheme, their whole message, their whole doctrine is to bash IUIC. Anything with IUIC name on it, that's where they get the views from.
+- So that's where we are at right now. We are in the midst of gossip culture. You see hundreds and hundreds of videos of so-called Israelites calling themselves followers of Christ. Their whole scheme, their whole message, their whole doctrine is to bash IUIC. Anything with IUIC name on it, that's where they get the views from. They are … of information.
 
-- Sisters do the same thing. Brothers do the same thing. You just bash people to other people. You spread rumors. You talk crap. You talk crap about your leadership. You talk crap about your husband. You talk crap about everything, with no solution.
+- Sisters do the same thing. Brothers do the same thing. You just bash people to other people. You spread rumors. You talk crap. You talk crap about your leadership. You talk crap about your husband. You talk crap about everything, with no solution. My dear, you're a … of information.
 
 
 **[Proverbs 18:15](/bible/proverbs/18#v15)**  *[[12:22](https://www.youtube.com/watch?v=qPvmN33DYZw&t=742s)]*
@@ -143,7 +143,7 @@ tags: ["15 Minutes w/ The Captains", "gossip", "marriage-family", "the-law", "wi
 
 - Whoso privily slandereth his neighbour: with his gossip.
 
-- Him will I cut off: the Lord said he going to kill you. The Lord said he going to put you to death.
+- Him will I cut off: the Lord said he going to kill you. The Lord said he going to put you to death. Don't be no … of information in the midst of this gossip culture.
 
 - Gossiping is sin. Listening to gossip without checking it is sin. Spreading rumors is sin. God judges both the speaker and hearer. Silent restraint and truth mark righteousness. God judges the gossiper and the receiver of gossip the same.
 
@@ -154,7 +154,7 @@ tags: ["15 Minutes w/ The Captains", "gossip", "marriage-family", "the-law", "wi
 
 - There is that speaketh like the piercings of a sword: that's going into that gossip. That's going into those inappropriate words. That's going into evil communication. Spreading those rumors, you're like a sword.
 
-- But the tongue of the wise is health. Speak health to your brothers and sisters. Stay away from gossip culture.
+- But the tongue of the wise is health. So don't be no … of information. Speak health to your brothers and sisters. Stay away from gossip culture.
 
 
 ## In Closing
