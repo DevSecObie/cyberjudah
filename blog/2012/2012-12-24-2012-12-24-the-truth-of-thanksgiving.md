@@ -5,12 +5,12 @@ date: "2012-12-24"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-24 · with Deacon Asaph"
-tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "prophecy"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2012-12-24 · Elder Nathanyel, with Deacon Asaph</p>
 
-<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [2 Esdras 13](/bible/2-esdras/13) · [Hos 11](/bible/hosea/11) · [Deut 33](/bible/deuteronomy/33) · [1 Chr 12](/bible/1-chronicles/12) · [Ps 49](/bible/psalms/49) · [Deut 28](/bible/deuteronomy/28) · [Hos 4](/bible/hosea/4) · [Ps 55](/bible/psalms/55) · [Hab 1](/bible/habakkuk/1) · [Gen 49](/bible/genesis/49) · [Isa 65](/bible/isaiah/65) · [Hos 7](/bible/hosea/7) · [Prov 15](/bible/proverbs/15) · [Amos 5](/bible/amos/5) · [Isa 1](/bible/isaiah/1) · <i>and 7 more below</i></span>
+<span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [2 Esdras 13](/bible/2-esdras/13) · [Hos 11](/bible/hosea/11) · [Deut 33](/bible/deuteronomy/33) · [1 Chr 12](/bible/1-chronicles/12) · [Ps 49](/bible/psalms/49) · [Deut 28](/bible/deuteronomy/28) · [Hos 4](/bible/hosea/4) · [Ps 55](/bible/psalms/55) · [Hab 1](/bible/habakkuk/1) · [Gen 49](/bible/genesis/49) · [Isa 65](/bible/isaiah/65) · [Hos 7](/bible/hosea/7) · [Prov 15](/bible/proverbs/15) · [Amos 5](/bible/amos/5) · [Isa 1](/bible/isaiah/1) · <i>and 5 more below</i></span>
 
 <!-- truncate -->
 
@@ -18,23 +18,26 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance"]
 
 ## Introduction
 
-*[[0:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=22s)]* Shalom and welcome to another edition of The Truth Shall Make You Free. I'm your host Elder Nathanyel on my right. Deacon Asaph. Today's topic, we're going to go over the truth of Thanksgiving. All right, but before we do so, let's open up with John chapter 8 and verse.
+*[[0:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=22s)]* Today's topic, we're going to go over the truth of Thanksgiving. The ten tribes that came over here, that you call Indians, the Bible calls the ten tribes of Israel; the North American Indians are the tribe of Gad, and the first Thanksgiving of the Indians and the pilgrims sitting down in peace is all bull crap, malarkey, and lies. Your Thanksgiving Day is based on genocide, evil, and bloodshed.
 
-- 32. John chapter 8 verse 32.
+## In The News
 
-**[John 8:32](/bible/john/8#v32)**  *[[0:38](https://www.youtube.com/watch?v=OfeSju75iMY&t=38s)]*
-
-> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
-
-- And ye shall know the truth and the truth shall make you free. So black man, black woman, Latin man, Latin woman, the truth is that you're the Israelites. You were made slaves in America for breaking God's commandments. If you want deliverance, you must repent as the Israelites and keep the Most High's laws, statutes, and commandments. So, let's open up with 2nd Esdras in the Apocrypha. 2nd Esdras chapter 13 verse.
+- *[[14:08](https://www.youtube.com/watch?v=OfeSju75iMY&t=848s)]* **A clip from Goodbye Uncle Tom** — They show you American Indians beside the Negroes sold into slavery.
 
 ## Scriptures Opened
 
-### The Ten Tribes in the Western Hemisphere
+**[John 8:32](/bible/john/8#v32)**  *[[0:39](https://www.youtube.com/watch?v=OfeSju75iMY&t=39s)]*
 
-- 40.
+> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
 
-**[2 Esdras 13:40-47](/bible/2-esdras/13#v40)**  *[[1:08](https://www.youtube.com/watch?v=OfeSju75iMY&t=68s)]*
+- So black man, black woman, Latin man, Latin woman, the truth is that you're the Israelites.
+
+- You were made slaves in America for breaking God's commandments.
+
+- If you want deliverance, you must repent as the Israelites and keep the Most High's laws, statutes, and commandments.
+
+
+**[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[[1:05](https://www.youtube.com/watch?v=OfeSju75iMY&t=65s)]*
 
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
@@ -47,158 +50,241 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance"]
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >
 > <sup>[45](/bible/2-esdras/13#v45)</sup> For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth.
->
-> <sup>[46](/bible/2-esdras/13#v46)</sup> Then dwelt they there until the latter time; and now when they shall begin to come,
->
-> <sup>[47](/bible/2-esdras/13#v47)</sup> The Highest shall stay the springs of the stream again, that they may go through: therefore sawest thou the multitude with peace.
 
-- Those are the 10 tribes which were carried away prisoners out of their own land in the time of Hosea the king whom Shalmaneser the king of Assyria led away captive and he carried them over the waters and so came they into another land. But they took this counsel among themselves that they would leave the multitude of the heathen and go forth into a further country where never mankind dwelt. That place is America, what's called America today. Go ahead. That they might keep their statutes which they never kept in their own land. And they entered into the Euphrates by the narrow passage of the river. For the Most High then showed them signs for them and held still the floods till they were passed over. For through that country there was a great way to go. Meaning.
+- A further country where never mankind dwelt: that place is America, what's called America today.
 
-- From Assyria throughout the area where they traveled through the Euphrates was a great way to go. Go ahead. Namely of a year and a half. So it took them a year and a half to get over here. And the same region is called Arsareth. So this region that we call America was called Arsareth at one time, okay? So, proving to you that what? The 10 tribes that came over here that you call Indians, the Bible calls the 10 tribes of Israel. From there, let's go to Hosea. Hosea chapter 11 verse.
+- From Assyria, throughout the area where they traveled through the Euphrates, was a great way to go: it took them a year and a half to get over here.
 
-- 10.
+- This region that we call America was called Arsareth at one time.
 
-**[Hosea 11:10-11](/bible/hosea/11#v10)**  *[[2:18](https://www.youtube.com/watch?v=OfeSju75iMY&t=138s)]*
+- Proving to you that the ten tribes that came over here, that you call Indians, the Bible calls the ten tribes of Israel.
+
+
+**[Hosea 11:10-11](/bible/hosea/11#v10)**  *[[2:20](https://www.youtube.com/watch?v=OfeSju75iMY&t=140s)]*
 
 > <sup>[10](/bible/hosea/11#v10)</sup> They shall walk after the Lord: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.
 >
 > <sup>[11](/bible/hosea/11#v11)</sup> They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the Lord.
 
-- They shall walk after the Lord. So the prophecy says that the Israelites shall walk after the Lord. He shall roar like a lion. He shall roar like a lion. Go ahead. When he shall roar, then the children shall tremble from the west. The Israelites shall tremble what? From the west. From the west. What does it mean we shall tremble from the west? The western hemisphere, okay? That's what this side of the world is called, the western hemisphere because over on Jerusalem side it's called the eastern hemisphere. Is that it? There's more. Go ahead. They shall tremble as a bird out of Egypt. Cuz we're going to be delivered from this captivity called spiritual spiritually called Egypt. Go ahead. And as a dove out of the land of Assyria. Mhm. And I will place them in their houses, saith the Lord. The Most High is going to bring us back to our homeland. From there, let's go to Deuteronomy.
+- The prophecy says that the Israelites shall walk after the Lord.
 
-- 33. Because some of you don't. Understand that. Just as THE PROPHET ESDRAS PROPHESIED THE 10 TRIBES WOULD. Come on. This side of the world, the prophet Moses prophesied the same thing. Deuteronomy 33, let's read verse one first. Deuteronomy chapter 33 verse. One.
+- Tremble from the west: the western hemisphere. That's what this side of the world is called, because over on Jerusalem's side it's called the eastern hemisphere.
 
-**[Deuteronomy 33:1](/bible/deuteronomy/33#v1)**  *[[3:17](https://www.youtube.com/watch?v=OfeSju75iMY&t=197s)]*
+- As a bird out of Egypt, because we're going to be delivered from this captivity, spiritually called Egypt.
+
+- I will place them in their houses: the Most High is going to bring us back to our homeland.
+
+
+**[Deuteronomy 33:1](/bible/deuteronomy/33#v1)**  *[[3:24](https://www.youtube.com/watch?v=OfeSju75iMY&t=204s)]*
 
 > <sup>[1](/bible/deuteronomy/33#v1)</sup> And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
 
-- And this is the blessing wherewith Moses the man of God blessed the children of Israel before his death. So now, from there, jump down to verse 20. Verse 20. All I want is 20. And Gad he said And Gad he said, WHO IS GAD? GAD ARE the ones you call today the North American Indians. Read it again.
+- Some of you don't understand that just as the prophet Esdras prophesied the ten tribes would come on this side of the world, the prophet Moses prophesied the same thing.
 
-**[Deuteronomy 33:20-21](/bible/deuteronomy/33#v20)**  *[[3:37](https://www.youtube.com/watch?v=OfeSju75iMY&t=217s)]*
+
+**[Deuteronomy 33:20](/bible/deuteronomy/33#v20)**  *[[3:35](https://www.youtube.com/watch?v=OfeSju75iMY&t=215s)]*
 
 > <sup>[20](/bible/deuteronomy/33#v20)</sup> And of Gad he said, Blessed be he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.
->
-> <sup>[21](/bible/deuteronomy/33#v21)</sup> And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.
 
-- And Gad he said, blessed be he that enlarges Gad. Blessed be he that enlarges Gad. Go ahead. He dwelleth as a lion Meaning that the tribe of Gad would dwell like a predator, okay? That's what it means it's as a lion. They were predators upon the land here, okay? And teareth the arm with the crown of the head. What does it mean? This is how we know that the North American Indians are the tribe of Gad.
+- Who is Gad? Gad are the ones you call today the North American Indians.
 
-- Read that again. And of Gad he said, blessed he blessed he that enlarges Gad. He dwelleth as a lion and teareth the arm with the crown of the head. What does that part mean? He teareth the arm with the crown of the head. The tribe of Gad, the North American Indians have something called a blood brother ritual where they would take uh they would go to the leader of the tribe and they would cut their arm and mingle their blood together. That was a custom that they had. Read that part again. And teareth the arm with the crown of the head. And why does it specify the crown of the head, huh? Because the tribe of Gad had an unusual crown that WAS DIFFERENT THAN ALL THE KINGS and leaders of the world. What was their crown, okay? Their crown was made up of eagles' feathers, okay? Was that it or what? Is that verse 20? Go to 1st Chronicles chapter 12 and verse.
+- He dwelleth as a lion, meaning that the tribe of Gad would dwell like a predator. They were predators upon the land here.
 
-- 8.
+- Teareth the arm: this is how we know that the North American Indians are the tribe of Gad. They have something called a blood brother ritual, where they would go to the leader of the tribe, cut their arm and mingle their blood together. That was a custom that they had.
 
-**[1 Chronicles 12:8](/bible/1-chronicles/12#v8)**  *[[4:50](https://www.youtube.com/watch?v=OfeSju75iMY&t=290s)]*
+- Why does it specify the crown of the head? Because the tribe of Gad had an unusual crown that was different than all the kings and leaders of the world. Their crown was made up of eagles' feathers.
+
+
+**[1 Chronicles 12:8](/bible/1-chronicles/12#v8)**  *[[5:01](https://www.youtube.com/watch?v=OfeSju75iMY&t=301s)]*
 
 > <sup>[8](/bible/1-chronicles/12#v8)</sup> And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;
 
-- And of the Gadites there separated themselves unto David into the hold to the wilderness, men of might and men of war, fit for the battle Fit for the battle. That could handle shield and buckler That could handle shield and buckler. Whose faces were like the faces of lions Whose faces were like the faces of lions. Remember what Moses said about them, okay? Moses said that they would dwell upon the land like lions. When it says here whose faces were like the faces of lions, what did the North American Indians used to do regarding their faces? Before they went to battle, they would put on what they call war paint, okay? AND THEIR FACES LOOKED FIERCE,
+- Remember Moses said that they would dwell upon the land like lions. Whose faces were like the faces of lions: before they went to battle, the North American Indians would put on what they call war paint, and their faces looked fierce.
 
-- OKAY? Was that it? Um and were as swift as the roes upon the mountains. Then it says here that the the tribe of Gad, which are the North American Indians, were as swift as deers upon what? Upon the mountains. Upon the mountains. THIS TRIBE WAS BAD. THAT'S WHY WHEN YOU EXAMINE WHICH WHEN YOU EXAMINE THE 12 TRIBES, THEY WERE THE LAST TRIBE TO BE CONQUERED AND OVERCOME. And the WHITE MAN COULD NOT DO IT ALONE. THEY HAD TO GET THE TRIBE OF JUDAH, THE AMERICAN BLACK YOU CALL TODAY, THEY HAD TO GET THE TRIBE OF BENJAMIN, THE WEST INDIAN BLACK, AND THE TRIBE OF ISSACHAR, THE SO-CALLED MEXICAN, TO HELP THEM OVERCOME THE TRIBE of Gad. Read that part again. Um verse 8. Whose and the buckler whose faces were like the faces of lions and were as swift as roes upon the mountains. BECAUSE THE WHITE MAN SAID IN HISTORY THEY COULDN'T OVERCOME THEM. THEY COULDN'T CATCH THEM. THEY NEEDED HELP.
+- The tribe of Gad, which are the North American Indians, were as swift as deers upon the mountains.
 
-- READ. And of the Gadites there separated themselves unto David into the hold to the wilderness, men of might and men of war, fit for the battle that could handle shield and buckler, whose faces were like the faces of lions and were as swift as the roes upon the mountains. Cuz when you read the history they said these guys are too SWIFT FOR US. THAT'S WHY THEY HAD TO GET THE BUFFALO SOLDIERS, OKAY? To help overcome them. That's why they get the so-called Mexicans to help overcome them, okay? From there, let's go back to Deuteronomy 33 and verse 20 again. This is for all you non-believers out there. THIS IS HOW WE KNOW THAT GENESIS AND DEUTERONOMY PROVES WHO THE TRIBES ARE. WHETHER YOU ACCEPT IT OR NOT, IT DOESN'T mean anything because the word of God shall flourish. Read it.
+- This tribe was bad. That's why when you examine the twelve tribes, they were the last tribe to be conquered and overcome.
 
-- Read. Deuteronomy chapter 33 verse 20. And of Gad he said, blessed be he that enlarges Gad. He dwelleth as a lion He dwelleth as a lion meaning a predator. He was a powerful warrior, this tribe. Go ahead. And teareth the arm with the crown of the head. The blood brother covenant that they would make, okay? With the crown of the head, they had an unusual crown made up of feathers. Read. That's it on 20. Read to 21. 21. And he provided the first part for himself. Now listen good to this part. Read it again. And he provided the first part for himself. When the tribes came on this side of the world, it says the tribe of Gad provided the first part for himself. What does it mean the FIRST PART? THE BEST PART. THE THAT'S WHY NORTH AMERICA, WHAT YOU CALL TODAY, IS THE HEADQUARTERS OF THE SO-CALLED white man. THEY REALIZED THAT OF ALL THE lands.
+- The white man could not do it alone. They had to get the tribe of Judah, the American black you call today, the tribe of Benjamin, the West Indian black, and the tribe of Issachar, the so-called Mexican, to help them overcome the tribe of Gad.
 
-- From North, Central, South America, even Canada, they said North America, that area there, that region is the best. Read it again, verse 21. And he provided the first part for himself because there in a portion of the lawgiver was he seated. So the tribe of Gad was seated as a lawgiver. Why? Because the tribe of Levi was cast out as we proved to you in the book of Chronicles chapter 11 on other shows. Go ahead. And he came with the heads of the people. Notice, and he came with the heads of the people. Who were the heads of the people? Ephraim and Manasseh during this time. Go ahead. He executed the justice of the Lord. The tribe of Gad executed the justice of the Lord. And his judgments with Israel. And his judgments with Israel. From there, let's go to Psalms 49 now. Psalms.
+- Because the white man said in history they couldn't overcome them, they couldn't catch them; these guys are too swift for us. That's why they had to get the Buffalo Soldiers to help overcome them, and the so-called Mexicans.
 
-- 49. So what happened when the so-called white man came on this side of the world with the pilgrims because every year you celebrate what's called Thanksgiving. And you like to talk about the first Thanksgiving, about how the so-called Indians and the so-called pilgrims, the white man, they were so peaceable and loving with Squanto, the Indian who could speak both English and the Indian dialect, which was Hebrew by the way, and they could converse. And they made peace and they had turkey and squash and cranberry sauce. That's all bull crap, malarkey, and lies. Listen good to what I'm telling you. Psalms 49 and 11. Psalms 49 verse 11.
 
-**[Psalms 49:11](/bible/psalms/49#v11)**  *[[9:18](https://www.youtube.com/watch?v=OfeSju75iMY&t=558s)]*
+**[Deuteronomy 33:21](/bible/deuteronomy/33#v21)**  *[[7:23](https://www.youtube.com/watch?v=OfeSju75iMY&t=443s)]*
+
+> <sup>[21](/bible/deuteronomy/33#v21)</sup> And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.
+
+- This is for all you non-believers out there: this is how we know that Genesis and Deuteronomy proves who the tribes are. Whether you accept it or not, it doesn't mean anything, because the word of God shall flourish.
+
+- When the tribes came on this side of the world, the tribe of Gad provided the first part for himself. What does it mean, the first part? The best part. That's why North America is the headquarters of the so-called white man: of all the lands from North, Central, South America, even Canada, they said that region is the best.
+
+- The tribe of Gad was seated as a lawgiver, because the tribe of Levi was cast out, as we proved to you in the book of Chronicles chapter 11 on other shows.
+
+- Who were the heads of the people? Ephraim and Manasseh during this time.
+
+- The tribe of Gad executed the justice of the Lord, and his judgments with Israel.
+
+
+**[Psalms 49:11](/bible/psalms/49#v11)**  *[[9:37](https://www.youtube.com/watch?v=OfeSju75iMY&t=577s)]*
 
 > <sup>[11](/bible/psalms/49#v11)</sup> Their inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names.
 
-- Their inward thought is that their houses shall continue forever. WHO IS DAVID TALKING about when he says their inward thought is that their houses shall continue forever? THE WHITE MAN. THEY CONTINUE THEY BELIEVE THAT THEY shall explore and SEEK OUT NEW FRONTIERS TO DWELL IN.
+- Every year you celebrate Thanksgiving and talk about how the so-called Indians and the pilgrims were so peaceable and loving with Squanto, the Indian who could speak both English and the Indian dialect, which was Hebrew by the way, and they made peace and had turkey and squash and cranberry sauce. That's all bull crap, malarkey, and lies.
 
-- GO WHERE NO MAN HAS GONE BEFORE. THAT'S WHY they create movies like Star Trek and all the Star Wars and all that. Right. What? Read it again. Their inward thought is that their houses shall continue forever. Watch this. And their dwelling places to all generations. Here it comes. They call their lands after their own names. They call their lands after their own names. They call their lands after their own names. When a so-called white man came ON THIS SIDE, REMEMBER IT WAS NOT COLUMBUS THAT CAME TO THE MAINLAND, North America. Who was it? Who discovered it? Amerigo Vespucci, an Italian navigator. And after Amerigo Vespucci derived the name America. Okay, some books have it translated Americus Vespucci. Okay? So, he came to this side in 1493. Okay? And his name was the name put on this continent over here. Spoke from there. Deuteronomy 28.
+- Who is David talking about when he says their inward thought is that their houses shall continue forever? The white man. They believe they shall explore and seek out new frontiers, go where no man has gone before. That's why they create movies like Star Trek and Star Wars.
 
-### The History Behind Thanksgiving
+- They call their lands after their own names: it was not Columbus that came to the mainland, North America. Amerigo Vespucci, an Italian navigator; some books have it Americus Vespucci. He came to this side in 1493, and his name was the name put on this continent.
 
-- Now. So, now we've proven to you what has happened. Okay? How did this land become known as America? Psalm 49:11. God proved it and showed you it. Deuteronomy 28:15. Listen good. Deuteronomy chapter. 28:15.
+- How did this land become known as America? Psalm 49:11. God proved it and showed you it.
 
-**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[10:54](https://www.youtube.com/watch?v=OfeSju75iMY&t=654s)]*
+
+**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[11:13](https://www.youtube.com/watch?v=OfeSju75iMY&t=673s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 
-- But it shall come to pass if thou will not hearken unto the voice of the Lord thy God to observe to do all his commandments and his statutes which I command thee this day that all these curses shall come upon thee and overtake thee. Jump down to verse 30. Listen good. Verse 30. Thou shalt betroth thy wife
+- Listen good: all these curses shall come upon thee and overtake thee if thou will not hearken to do all his commandments and his statutes.
 
-**[Deuteronomy 28:30-33](/bible/deuteronomy/28#v30)**  *[[11:24](https://www.youtube.com/watch?v=OfeSju75iMY&t=684s)]*
+
+**[Deuteronomy 28:30-32](/bible/deuteronomy/28#v30)**  *[[11:31](https://www.youtube.com/watch?v=OfeSju75iMY&t=691s)]*
 
 > <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
 >
 > <sup>[31](/bible/deuteronomy/28#v31)</sup> Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them.
 >
 > <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
->
-> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
 
-- Thou shalt betroth a wife and another man shall lie with her. Did Did that happen with the so-called American Indians Indians on this side OF THE WORLD? HUH? DID THEY HAVE WIVES AND ANOTHER MAN RAPE THEM? YES. WHEN THE WHITE MAN CAME AND CONQUERED, THEY WERE RAPING THE SO-CALLED Native American women. Read. Thou shalt BUILD AN HOUSE DID THEY HAVE HOUSES ON THIS SIDE? YES. AND WHERE THEY WANT TO RUN INSTEAD OF WHAT'S CALLED TEEPEES OR TABERNACLES OR BOOTHS. OKAY?
+- Did they have wives and another man rape them? Yes. When the white man came and conquered, they were raping the so-called Native American women.
 
-- Read it again. Thou shalt build an house and thou shalt not dwell therein. Read. Thou shalt plant a vineyard and shall not gather the grapes thereof. DID THE SO-CALLED AMERICAN INDIANS HAVE VINEYARDS ON THIS SIDE OF THE WORLD? YES. BECAUSE SOME OF YOU UNLEARNED NEGROES SAY, "OH, THEY DON'T FIT THE PROPHECY." NEGRO, BE QUIET. LET'S GO TO this book entitled The Way of the Warrior. Show them what the crown of the head looked like. There's an example of it. Here's another crown. Okay? With the crown of the head. They had an unusual crown. Okay? More unusual than any of the kings and leaders of earth. Thy ox shall be slain before thine eyes. Thy ox shall be slain before thine eyes. Let's go to that Time-Life book, The Great Chiefs. Show them thy ox shall be slain before thine eyes. What do you see? The so-called WHITE MAN AND THOUSANDS OF OXEN AND BUFFALO SLAIN before the eyes of the Native American Indians.
+- Did they have houses on this side? Yes, what's called teepees, or tabernacles, or booths. Did the so-called American Indians have vineyards on this side of the world? Yes. Some of you unlearned Negroes say, 'Oh, they don't fit the prophecy.' Negro, be quiet.
 
-- So, thank you. SO, YOU NEGROES AT HOME THAT TALK ABOUT, "OH, THEY DON'T FIT THE CURSES." YOU BROTHERS DON'T KNOW YOU DON'T KNOW HISTORY. You don't know what you're talking about. You're filled with hatred. That's it. What verse you at? Verse 31. Come on. Thy ox shall be slain before thine eyes and thou shalt not eat thereof. THY EYES SHALL BE VIOLENTLY taken away from before thy face and shall not be restored to thee. Watch this. Come on. Thy sheep shall be given unto thine enemies. Thy sheep shall be given unto thine enemies. Read. Shalt have none to rescue them. None to rescue them. Thy sons and thy daughters shall be given unto another people. Thy sons and thy daughters SHALL BE GIVEN UNTO ANOTHER PEOPLE. WERE THE SONS AND DAUGHTERS OF THE AMERICAN INDIANS GIVEN INTO THE HANDS OF THE WHITE MAN? THE ANSWER IS YES.
+- From the book entitled The Way of the Warrior he showed the crown of the head: they had an unusual crown, more unusual than any of the kings and leaders of earth.
 
-- NOW, what I'm going to do, I want to I want to I want you to go to Google Map. It's called M A A P. M A A P. And they're going to show you that many thousands of American Indians were sold as slaves on Wall Street. Okay? I'm going to show you a clip from Goodbye Uncle Tom where they show you American Indians beside the Negroes sold into slavery. Google uh Thanksgiving genocide. Thanksgiving genocide or genocide Thanksgiving. They give you a list of the actual truth behind Thanksgiving. Now, I printed this up. So, we're going.
+- Thy ox shall be slain before thine eyes: from that Time-Life book, The Great Chiefs, the so-called white man and thousands of oxen and buffalo slain before the eyes of the Native American Indians. You Negroes at home that say they don't fit the curses don't know history.
+
+- Were the sons and daughters of the American Indians given into the hands of the white man? The answer is yes. Go to Google Map, M A A P, and they're going to show you that many thousands of American Indians were sold as slaves on Wall Street.
+
+- Google Thanksgiving genocide, or genocide Thanksgiving: they give you a list of the actual truth behind Thanksgiving.
+
 
 <div class="reading">
 
-Reading from an article by Glen Ford, published November 27, 2006, on Thanksgiving and colonial genocide  *[[14:48](https://www.youtube.com/watch?v=OfeSju75iMY&t=888s)]*
+Reading from a printout by Glen Ford, printed November 27th, 2006, on the truth behind Thanksgiving (the highlighted parts) · read by Deacon Asaph  *[[14:48](https://www.youtube.com/watch?v=OfeSju75iMY&t=888s)]*
 
-To read this by a book by Glen Ford that he had printed November 27th, 2006. Now, um the highlighted parts is all we want. Just read it for me. Okay. Why did America embrace Thanksgiving? Because a majority of population glories in the fruits if not the unpleasant details of genocide and slavery and fields. So, WHY DID AMERICA THEY LIKE that story of Squanto and the Indians and their white pilgrims coming together? They like that. So, that you don't have to face the reality of the genocide your people caused. Was that it? To feel good about their heritage. To feel good about their heritage. Jump down here. The Thanksgiving story is an absolution of the pilgrims whose brutal quest for absolute power in the New World is made to seem both religiously motivated It's They make it seem religiously motivated and eminently human. And eminently human. I'm going to show you THAT'S A A BOLD-FACED LIE. WHEN THEY GOT OVER HERE, THEY SAY THEY came on Jamestown or Massachusetts in 1621 and all that. When was the Boston Tea Party AND ALL THAT? WAY AFTER THAT. WAY AFTER THAT.
+> Why did America embrace Thanksgiving? Because a majority of population glories in the fruits if not the unpleasant details of genocide and slavery and feels good about their heritage.
 
-OKAY? Go ahead. Most importantly, the pilgrims are depicted as victims of harsh weather and their own naive yet wholesome visions of a new beginning. The wholesome and naive pilgrims. Yes. Come on. Was that it? Now, turn the next page. We ain't finished. I'M JUST GETTING THE KEY POINTS. YOU CAN YOU can Google this yourself. Now, there's books on it out. Okay? The following year, Captain Hunt, an English slave trader, arrived at Protect Patuxet. It was common practice for explorers to capture Indians, take them to Europe and to sell them into slavery for 220 shillings apiece. Wait. READ THAT BOTTOM PART. CAPTURE INDIANS IN WHAT? IT WAS COMMON PRACTICE FOR EXPLORERS TO CAPTURE INDIANS, take them to Europe and sell them into slavery for 220 shillings apiece. Take them TO EUROPE AND SELL THEM INTO SLAVERY. DO YOU NEGROES KNOW HISTORY? "OH, THEY DON'T FIT." HOW DID THEY GET TO EUROPE? ON SLAVE SHIPS. THAT'S WHAT WE SHOWING YOU NEGROES. FILLED WITH HATRED.
+- Why did America like that story of Squanto and the Indians and their white pilgrims coming together? So that you don't have to face the reality of the genocide your people caused.
 
-OKAY? HOLD THAT. GET BACK TO DEUTERONOMY UH 28:32 AGAIN. Deuteronomy chapter 28:32. Thy sons and thy daughters shall be given unto another people and thine eyes shall look and fail with longing for them all the day long and there shall be no might in thine hand. DID THE SO-CALLED AMERICAN INDIANS HAVE POWER AND MIGHT TO GET THEIR SONS AND DAUGHTERS BACK FROM EUROPE? NO. NO. WE GOING TO READ MORE. NOW, HOLD ON. LET'S GO BACK TO THIS NOW. I AIN'T FINISHED BECAUSE Y'ALL LIKE TO TALK ABOUT SQUANTO. YOU SIT IN YOUR SCHOOL SYSTEMS AND TALK ABOUT SQUANTO. EVER ASK YOURSELF HOW DID SQUANTO the in so-called Indian, HOW WAS HE ABLE TO TRANSLATE FOR THE SO-CALLED WHITE MAN AND THE SO-CALLED INDIAN? BECAUSE SQUANTO, WHEN YOU READ THE HISTORY, WAS A SLAVE IN EUROPE. AND HE FOUND HIS WAY BACK HIDING ON ANOTHER SHIP TO GET BACK TO HIS PEOPLE. THAT'S THE HISTORY THE SO-CALLED WHITE PEOPLE WON'T TELL YOU.
+> The Thanksgiving story is an absolution of the pilgrims whose brutal quest for absolute power in the New World is made to seem both religiously motivated and eminently human.
 
-OKAY? Where are you at? Another common practice among European explorers was to give smallpox blankets Smallpox blankets. Diseased blankets to the Indians. Come on. Since smallpox was unknown on this continent prior to the arrival of the Europeans, Native Americans did not have any natural immunity Immunity immunity to the disease. So, smallpox would have effectively wiped out entire villages with very little effort required by the Europeans. Now, flip the page. We go I'm just getting to the nitty-gritty of the of the thing. Y'all can read the rest on your own. Turn that. Come on. Right there. Here and here. Most historians believe that about 700 Pequots were slaughtered at Mystic Mystic River. The 700 Pequot Pequot Indians.
+- They make it seem religiously motivated. I'm going to show you that's a bold-faced lie. They say they came on Jamestown or Massachusetts in 1621 and all that. When was the Boston Tea Party? Way after that.
 
-Go ahead. Many prisoners were executed and surviving women and children sold into slavery in the West Indies. They were sold into slavery in the WEST INDIES. HOW DID THEY GET TO THE WEST INDIES? ON SLAVE SHIPS. JUMP DOWN. THE Massachusetts government offered 20 shillings bounty for every Indian scalp and 40 shillings for every prisoner who could be sold into slavery. Soldiers were allowed to enslave any Indian woman or child under 14 they could capture. Read. Um The praying The praying Indians who had converted to Christianity Now, REMEMBER THE PRAYING Indians who had converted to Christianity. Come on. The praying Indians who had converted to Christianity and fought on the side of the European troops And fought on the side of the European troops like the Mexicans did. The tribe of Issachar did. Were accused of shooting into the treetops during battles with hostility hostile. They were enslaved or killed. Other peaceful Indians, Dartmouth and Dover, were invited to negotiate a or seek refuge at trading posts and were sold onto slave ships. Sold onto what? Sold onto slave ships. Get Deuteronomy 28:68 for the unlearned negro at home who like to say they don't fit the curses. They didn't go into slavery on slave ships. Deuteronomy chapter 28 verse 68,
+> Most importantly, the pilgrims are depicted as victims of harsh weather and their own naive yet wholesome visions of a new beginning.
+
+- The wholesome and naive pilgrims. I'm just getting the key points; you can Google this yourself. There's books on it out.
+
+> The following year, Captain Hunt, an English slave trader, arrived at Patuxet. It was common practice for explorers to capture Indians, take them to Europe and to sell them into slavery for 220 shillings apiece.
+
+- Take them to Europe and sell them into slavery. Do you Negroes know history? 'Oh, they don't fit.' How did they get to Europe? On slave ships.
 
 </div>
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[20:17](https://www.youtube.com/watch?v=OfeSju75iMY&t=1217s)]*
+
+**[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[17:05](https://www.youtube.com/watch?v=OfeSju75iMY&t=1025s)]*
+
+> <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
+
+- Did the so-called American Indians have power and might to get their sons and daughters back from Europe? No.
+
+- Y'all like to talk about Squanto in your school systems. How was he able to translate for the so-called white man and the so-called Indian? Because Squanto, when you read the history, was a slave in Europe, and he found his way back hiding on another ship to get back to his people. That's the history the so-called white people won't tell you.
+
+
+<div class="reading">
+
+Reading from the Glen Ford printout, continued · read by Deacon Asaph  *[[17:59](https://www.youtube.com/watch?v=OfeSju75iMY&t=1079s)]*
+
+> Another common practice among European explorers was to give smallpox blankets to the Indians. Since smallpox was unknown on this continent prior to the arrival of the Europeans, Native Americans did not have any natural immunity to the disease. So, smallpox would have effectively wiped out entire villages with very little effort required by the Europeans.
+
+- Diseased blankets to the Indians. I'm just getting to the nitty-gritty of the thing; y'all can read the rest on your own.
+
+> Most historians believe that about 700 Pequots were slaughtered at Mystic River. Many prisoners were executed and surviving women and children sold into slavery in the West Indies.
+
+- They were sold into slavery in the West Indies. How did they get to the West Indies? On slave ships.
+
+> The Massachusetts government offered 20 shillings bounty for every Indian scalp and 40 shillings for every prisoner who could be sold into slavery. Soldiers were allowed to enslave any Indian woman or child under 14 they could capture.
+
+> The praying Indians who had converted to Christianity and fought on the side of the European troops were accused of shooting into the treetops during battles with hostiles. They were enslaved or killed. Other peaceful Indians, Dartmouth and Dover, were invited to negotiate or seek refuge at trading posts and were sold onto slave ships.
+
+- Remember the praying Indians who had converted to Christianity and fought on the side of the European troops, like the Mexicans did, the tribe of Issachar did.
+
+- Sold onto slave ships.
+
+</div>
+
+
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[20:15](https://www.youtube.com/watch?v=OfeSju75iMY&t=1215s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
-- And the Lord shall bring thee into Egypt again WITH SHIPS. THE WORD EGYPT THERE MEANS WHAT? BONDAGE. WERE THEY SENT ON SLAVE SHIPS TO BONDAGE IN EUROPE AND THE WEST INDIES? YES. READ A BOOK, NEGRO. THE HISTORY TELLS YOU THOUSANDS OF AMERICAN AND THOUSANDS UPON THOUSANDS UPON THOUSANDS WERE MADE SLAVES IN SPAIN, ROME, EUROPE, AND THE WEST INDIES. COME ON. AND THE Lord shall bring thee into Egypt again with ships. By the way where of I spake unto thee, thou shalt see it no more again. And there you shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you. Was anybody able to save the so-called American Indians? No. SEE, THEY DON'T TEACH US THAT in school,
+- For the unlearned Negro at home who like to say they don't fit the curses, they didn't go into slavery on slave ships.
 
-- Okay? Why? BECAUSE IT'S THE GOOD OLD DIVIDE AND CONQUER. DON'T TEACH THE NEGROS AND DON'T TEACH THE INDIANS THAT THEY WERE SOLD ON SLAVE SHIPS. DON'T TEACH THAT. JUST TEACH THAT THE SO-CALLED BLACKS WERE MADE SLAVES and sold ON SLAVE SHIPS. THAT CAUSED THE DIVISIONS IN OUR PEOPLE. NOW, we're on page eight now. Read that headline apart. Page eight. The country they claimed as their own was fathered by genocide. Meaning the white man claimed this as their own and was fathered by what? By genocide and mothered by slavery. Fathered by genocide and mothered by slavery. Come on. Next page. I That section right there. Defenders of the holiday will claim that the political wait. Defenders of the holiday, HE'S TALKING ABOUT THANKSGIVING. YOU KNOW, THE HOLIDAY THAT YOU BLACKS like to say, "Oh, this is just a day to uh" come together and have one that's family. Right. Foolish.
+- The word Egypt there means bondage. Were they sent on slave ships to bondage in Europe and the West Indies? Yes. Read a book, Negro. Thousands upon thousands upon thousands were made slaves in Spain, Rome, Europe, and the West Indies.
 
-- Read that again. Defenders of the holiday will claim that the politically corrected children's version promotes brotherhood. Mhm. But that is an impossibility, a bold excuse to prolong the worship of colonial forefathers and to erase the crimes they committed. See. Those bastards burned the Pequot women and children and ushered in the multina- multinational business of slavery. These are facts. The myth is an insidious diversion and worse. You see WHAT THE AUTHOR GLENFORD WROTE? HE SAYS, "YOU THAT DEFEND THE HOLIDAY." WHO'S HE TALKING ABOUT? YES, EXCUSE THE SO-CALLED WHITE MAN CUZ THEY WICKED AS HELL. LET'S TALK ABOUT YOU negros for a second. YOU ARE THE DEFENDERS OF THE HOLIDAY. YOU ASK A DUMB NEGRO WHY THEY CELEBRATE THANKSGIVING, "OH, IT PROMOTES BROTHERHOOD AND LOVE FOR MANKIND." You dumb fools. THAT'S WHAT YOU ARE. EXCUSE ME FOR CALLING YOU THAT. BUT WHEN WE BRING THE TRUTH TO YOU, YOU THE FIRST ONES TO COME UP AGAINST THE TRUTH. WAS THAT IT for the page? I think that was it. Yeah, that's it. Flip, flip, flip, flip, flip. That was a good.
+- Was anybody able to save the so-called American Indians? No.
 
-- Now. We going to get right back to the Bible now. I haven't forgotten the Bible cuz the Bible is the foundation, okay? I just had to read that history for you so that you can get the understanding. Now, from there, bear with me a second. Let me find I lost my page. Let's go from there. Let's go to Hosea chapter 4. Now, give me Deuteronomy 28:36. Deuteronomy 28 verse 36, that's what I want. Okay. Deuteronomy chapter 28 verse.
+- They don't teach us that in school, because it's the good old divide and conquer. Don't teach the Negroes and don't teach the Indians that they were sold on slave ships; just teach that the so-called blacks were made slaves and sold on slave ships. That caused the divisions in our people.
 
-- 36.
 
-**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[[23:39](https://www.youtube.com/watch?v=OfeSju75iMY&t=1419s)]*
+<div class="reading">
+
+Reading from the Glen Ford printout, continued, page eight · read by Deacon Asaph  *[[21:16](https://www.youtube.com/watch?v=OfeSju75iMY&t=1276s)]*
+
+> The country they claimed as their own was fathered by genocide and mothered by slavery.
+
+- Meaning the white man claimed this as their own, and it was fathered by genocide and mothered by slavery.
+
+> Defenders of the holiday will claim that the politically corrected children's version promotes brotherhood. But that is an impossibility, a bold excuse to prolong the worship of colonial forefathers and to erase the crimes they committed. Those bastards burned the Pequot women and children and ushered in the multinational business of slavery. These are facts. The myth is an insidious diversion and worse.
+
+- Defenders of the holiday: he's talking about Thanksgiving, the holiday that you blacks like to say is just a day to come together as family. Foolish.
+
+- You see what the author Glen Ford wrote? 'You that defend the holiday.' Excuse the so-called white man, cuz they wicked as hell. Let's talk about you Negroes for a second: you are the defenders of the holiday.
+
+- You ask a dumb Negro why they celebrate Thanksgiving: 'Oh, it promotes brotherhood and love for mankind.' You dumb fools. Excuse me for calling you that, but when we bring the truth to you, you the first ones to come up against the truth.
+
+- I haven't forgotten the Bible, cuz the Bible is the foundation. I just had to read that history for you so that you can get the understanding.
+
+</div>
+
+
+**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[[23:29](https://www.youtube.com/watch?v=OfeSju75iMY&t=1409s)]*
 
 > <sup>[36](/bible/deuteronomy/28#v36)</sup> The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.
 
-- The Lord shall bring thee and thy king which thou shalt set over thee unto a nation which neither thou nor thy fathers have known. And there shalt thou serve other gods, wood and stone. Did that happen to the so-called American Indians? Yes, CUZ WHEN THEY WERE MADE SLAVES over throughout Europe, they were forced to worship the white image of Jesus Christ. They were forced to do that. From there, let's go to Hosea 4 and 12. Okay. Hosea chapter 4 and verse 12. Hosea chapter 4 verse.
+- Did that happen to the so-called American Indians? Yes, cuz when they were made slaves throughout Europe, they were forced to worship the white image of Jesus Christ.
 
-- 12.
 
-**[Hosea 4:12](/bible/hosea/4#v12)**  *[[24:16](https://www.youtube.com/watch?v=OfeSju75iMY&t=1456s)]*
+**[Hosea 4:12](/bible/hosea/4#v12)**  *[[24:02](https://www.youtube.com/watch?v=OfeSju75iMY&t=1442s)]*
 
 > <sup>[12](/bible/hosea/4#v12)</sup> My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.
 
-- My people ask counsel at their stocks, and their staff declareth unto them. For the spirit of whoredoms hath caused them to err, and they have gone a-whoring from under their God. Keep reading. No, that was it. So, our people have gone a-whoring from under the most high God. We've worshipped wood and stone. From there, let's go to Psalms 55, okay? Psalms, the 55th chapter. Let's get more into the celebrating of Thanksgiving. Psalms 55, we want verse 20 and 21. Psalms 55 verse.
+- Our people have gone a-whoring from under the most high God. We've worshipped wood and stone.
 
-### Broken Covenants and Conquest
 
-- 20.
-
-**[Psalms 55:20-21](/bible/psalms/55#v20)**  *[[25:04](https://www.youtube.com/watch?v=OfeSju75iMY&t=1504s)]*
+**[Psalms 55:20-21](/bible/psalms/55#v20)**  *[[24:45](https://www.youtube.com/watch?v=OfeSju75iMY&t=1485s)]*
 
 > <sup>[20](/bible/psalms/55#v20)</sup> He hath put forth his hands against such as be at peace with him: he hath broken his covenant.
 >
 > <sup>[21](/bible/psalms/55#v21)</sup> The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.
 
-- He hath PUT FORTH HIS HAND against such as be at peace with him. Put forth his hands with such as be at peace with him. WHEN THE PILGRIMS CAME, REMEMBER, I WANT YOU TO THINK ABOUT THIS. THE PILGRIMS THEY SAY CAME AROUND 1620, 1621, CORRECT? But America, the mainland, was discovered around when? 1493. SO, WITHIN ALL THAT TIME, WHAT WAS GOING ON? YOU HAD white men traveling back AND FORTH, OKAY? THEY DECIDED they were going to make this an extension of Europe, okay? So, they were bringing shiploads on the Mayflower, on the Nina, the Pinta, the Santa Maria, all those little ship names, the good ship Jesus, and all them foolish names y'all had out there. Read it again. He hath put forth his hands against such as be at peace with him. RIGHT.
+- The pilgrims, they say, came around 1620, 1621, but America, the mainland, was discovered around 1493. Within all that time you had white men traveling back and forth; they decided they were going to make this an extension of Europe, bringing shiploads on the Mayflower, the Nina, the Pinta, the Santa Maria, the good ship Jesus.
 
-- SO, WHEN THE UH SO-CALLED INDIANS WERE AT PEACE WITH you at first, but they realized that you was the great Satan that the Bible speaks of. Watch this. He hath broken his covenant. He has broken HIS COVENANT BECAUSE YOU WHITE PEOPLE, YOU SET UP MANY FAKE PEACE TREATIES WITH THEM. And let's see what happened. The words of his mouth were smoother than butter. Yeah, we're going to work together to do this, do that. But war was in his heart. Says but war was in your heart. YOU BROKE THE COVENANT. READ THAT PART AGAIN FROM THE THE THE covenant part. The words of his mouth were smoother than butter. But hold it. He hath put forth his hands AGAINST SUCH AS BE at peace with him. He hath broken HIS COVENANT. BROKEN HIS COVENANT. He has broken his treaty. Go ahead. The words of his mouth were smoother than butter. Because the white man speaks good in his letters, okay? He writes real well, okay? But war was IN HIS HEART. ALL THE WRITINGS, BEHIND ALL HIS WORDS, IS WAR. THAT'S WHAT GOD SAYS. YOU BELIEVE THE BIBLE IF YOU WANT, OKAY? YOU BETTER BELIEVE THE BIBLE FOR YOU disbelievers out there. From there, let's go to Habakkuk. Habakkuk chapter 1 verse.
+- The so-called Indians were at peace with you at first, but they realized that you was the great Satan that the Bible speaks of.
 
-- 6. Okay. Habakkuk chapter 1 verse 6.
+- He hath broken his covenant, because you white people set up many fake peace treaties with them. He has broken his treaty.
 
-**[Habakkuk 1:6-11](/bible/habakkuk/1#v6)**  *[[26:27](https://www.youtube.com/watch?v=OfeSju75iMY&t=1587s)]*
+- The words of his mouth were smoother than butter, because the white man speaks good in his letters; he writes real well. But war was in his heart: behind all his words is war. That's what God says. You better believe the Bible, you disbelievers out there.
+
+
+**[Habakkuk 1:6-11](/bible/habakkuk/1#v6)**  *[[26:37](https://www.youtube.com/watch?v=OfeSju75iMY&t=1597s)]*
 
 > <sup>[6](/bible/habakkuk/1#v6)</sup> For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
 >
@@ -212,77 +298,100 @@ Go ahead. Many prisoners were executed and surviving women and children sold int
 >
 > <sup>[11](/bible/habakkuk/1#v11)</sup> Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
 
-- For lo, I raise up the Chaldeans, that bitter and hasty nation. Now, then remember the Bible's written twofold BECAUSE THESE CHALDEANS AT ONE TIME WAS MAKING REFERENCE to the ancient Babylonians. But this time, it ain't talking about the ancient Babylonians, it's talking about the white man. And as we read that, you going to see what it's saying. Come on. For lo, I raise up the Chaldeans, that bitter and hasty nation. That bitter and hasty NATION BECAUSE THE WHITE MAN IS JUST AS THE ANCIENT Babylonians were. That's why in Psalms, it calls the WHITE MAN THE DAUGHTER of Babylon. Read. Which shall march through the breadth OF THE LAND. DID THEY MARCH THROUGH THE BREADTH OF THE LAND? DID THEY MARCH MARCH FROM SOUTH AMERICA UP THROUGH NORTH AMERICA, THROUGH CANADA? YES, THEY DID WITH ALL THEIR ARMIES, THEIR MILITARY. YES.
+- The Bible's written twofold: these Chaldeans at one time was making reference to the ancient Babylonians, but this time it's talking about the white man. That's why in Psalms it calls the white man the daughter of Babylon.
 
-- READ. TO possess the dwelling places that are NOT THEIRS. WHAT'S WHAT WAS THEIR PURPOSE? TO POSSESS THE DWELLING PLACES THAT ARE NOT THEIRS. SO, FOR YOU UNBELIEVERS, WHAT IS THAT TALKING ABOUT? WHO MARCHED THROUGH THE LAND TO POSSESS THE DWELLING PLACES THAT'S NOT THERE? THAT'S RIGHT, your great white hunk, the so-called white man. That's who this is talking about. Read. They are terrible and dreadful. THEY ARE TERRIBLE AND DREADFUL. THAT'S WHY IN DEUTERONOMY 28, MOSES SAID THE LORD WOULD RAISE UP A NATION AGAINST YOU WHICH WOULD NOT SHOW FAVOR TO YOUNG or old. Read. They are terrible and dreadful. Their judgment and their dignity shall proceed of themselves. Come on. THEIR HORSES ALSO ARE SWIFTER THAN LEOPARDS. DID THEY COME WITH HORSES? LARGE, POWERFUL HORSES? YEAH, THEY DID. COME ON. AND ARE MORE fierce than the evening wolves. AND ARE MORE FIERCE THAN the evening wolves.
+- Did they march through the breadth of the land, from South America up through North America, through Canada? Yes, with all their armies, their military, to possess the dwelling places that are not theirs. That's your great white hunk, the so-called white man.
 
-- Read. And let's go down to 11. Okay. AND THEIR HORSEMEN SHALL SPREAD THEMSELVES, and their horsemen shall come from the far. And their horsemen shall come from the far, meaning Europe. Go ahead. They shall fly as the eagle that HASTETH TO EAT. WHY DOES IT SAY THEY SHALL FLY AS THE EAGLE? HUH? WHAT WAS THE SYMBOL OF SPAIN AND FRANCE AND AMERICA TODAY? THE EAGLE. THE EAGLE. THE EAGLE. Come on. They shall COME ALL FOR VIOLENCE. WHY DID THEY COME? THEY SHALL COME ALL FOR VIOLENCE. NO, THE PILGRIMS CAME FOR PEACE. THEY SHALL COME ALL FOR VIOLENCE. SO, YOUR THANKSGIVING IS A LIE. THUS SAITH THE LORD. YOUR THANKSGIVING DAY IS BASED ON GENOCIDE, EVIL, AND BLOODSHED. READ. THEY SHALL COME ALL FOR VIOLENCE. THEIR FACE shall up up as the east WIND. THEIR FACE SHALL SUP UP AS THE EAST WIND. WHAT DOES THAT MEAN? WHERE DID THEY COME.
+- Terrible and dreadful: that's why in Deuteronomy 28 Moses said the Lord would raise up a nation against you which would not show favor to young or old. Did they come with horses, large powerful horses? Yeah. Their horsemen shall come from far, meaning Europe.
 
-- FROM? EUROPE. WHERE IS THAT? THE EAST. GO AHEAD. THEIR FACE shall sup up as the east wind, and they shall gather the captivity as sand. THEY SHALL GATHER THE CAPTIVITY. WHO'S THE CAPTIVITY? THE 12 TRIBES OF ISRAEL. THEY GATHER gather us up as the sand. What verse you at? 10. Come on. And they shall scoff at the kings, AND THEY SHALL SCOFF. DID THEY SCOFF AT THE KINGS AND THE PRINCES THAT WERE SET UP BY THE 10 TRIBES? YES, THEY DID. THE WHITE MAN SCOFFED AT THEIR KINGS. READ. AND THEY SHALL scoff at the kings, and the princes shall be scorned unto them. They shall deride every stronghold, for they shall heap dust and TAKE IT. WHAT DOES IT MEAN THAT THEY SHALL HEAP DUST AND TAKE IT? MEANING CONFUSION. HOW DID THEY BRING FORTH CONFUSION? WITH THEIR RELIGIONS. THEIR JESUIT PRIESTS CAME FORTH FIRST. WHAT DOES THE WORD JESUIT MEAN? IT MEANS CRAFTY ONES,
+- Why does it say they shall fly as the eagle? What was the symbol of Spain and France and America today? The eagle.
 
-- OKAY? Because they CAME TO THE SO-CALLED INDIANS TALKING THAT RELIGIOUS GARBAGE ABOUT LOVE FOR BROTHERHOOD AND PEACE FOR ALL MANKIND, AND WHAT DID THEY DO? SLAUGHTERED THEM. SAY, "HERE, WE'RE GIVING YOU PEACE. HERE'S BLANKETS TO KEEP WARM, FILLED WITH DISEASE, FILLED WITH SMALLPOX." WHAT VERSE YOU AT? 11. Come on. Then shall his mind change. Then shall his mind change, meaning the white mind of the so-called white man. And he shall pass over and offend. And he shall pass OVER AND OFFEND. WHY? HOW DID HIS MIND CHANGE? BECAUSE AFTER A WHILE, HE STOPPED WITH ALL THE ONCE HE GATHERED THE CAPTIVITY AS THE SAYING. HIS MIND CHANGED. He said, "Let's bring forth peace.
+- They shall come all for violence. 'No, the pilgrims came for peace.' So your Thanksgiving is a lie, thus saith the Lord. Your Thanksgiving Day is based on genocide, evil, and bloodshed. Their faces sup up as the east wind: they came from Europe, the east. They shall gather the captivity, the twelve tribes of Israel, as the sand.
 
-- LET'S UNITE ALL races as one under us." And they call it today what? Democracy. Was that it? Then shall his mind change, and he shall pass over and offend, imputing this his power unto his God. THIS IMPUTING POWER unto his God. Wait a minute. That that struck a nerve there. Bear with me a second. I thought I saw something again. Now, that part where it said they uh what was the bottom part of that verse in 11, I think it was? Imputing this his power unto his God. Watch this. Read that. The English settlers, their ostensibly ostensibly religious venture backed by a trading company were glad to discover that they had landed in a virtual cemetery in 1620. Corn still sprouted in.
+- The white man scoffed at the kings and princes set up by the ten tribes. Heap dust and take it means confusion, brought forth with their religions: their Jesuit priests came forth first. Jesuit means crafty ones. They came talking that religious garbage about love for brotherhood and peace for all mankind, and slaughtered them: 'Here's blankets to keep warm,' filled with smallpox.
+
+- Then shall his mind change: after he gathered the captivity as the sand, he said, 'Let's bring forth peace, let's unite all races as one under us,' and they call it today democracy. Imputing this his power unto his God.
+
 
 <div class="reading">
 
-Reading from a letter from Massachusetts Bay Colony founder John Winthrop  *[[31:27](https://www.youtube.com/watch?v=OfeSju75iMY&t=1887s)]*
+Reading from the Glen Ford printout, continued · read by Deacon Asaph  *[[31:11](https://www.youtube.com/watch?v=OfeSju75iMY&t=1871s)]*
 
-The abandoned fields of Wampanoag, but only a remnant of local population remained around the fable rock. In a letter to England Plymouth Rock. Go ahead. In a letter to England, Massachusetts Bay Colony founder John Winthrop wrote, "But for those that named this in these part, God has so pursued them See, they're saying God has pursued the so-called Indians. Go ahead. As for 300 miles for 300 miles space, and the greatest part of them are swept away by smallpox, which continues among them. So, as God has thereby cleared our title to this place, those who remain in these parts, being in all not 50, have put themselves under our protection." See, they imputed their power to their God, the white image of Jesus, okay? From there, let's go to Genesis 49 verse 1 and 2,
+> The English settlers, their ostensibly religious venture backed by a trading company, were glad to discover that they had landed in a virtual cemetery in 1620. Corn still sprouted in the abandoned fields of Wampanoag, but only a remnant of local population remained around the fable rock.
+
+- Plymouth Rock.
+
+> In a letter to England, Massachusetts Bay Colony founder John Winthrop wrote, "But for those … in these parts, God has so pursued them as for 300 miles space, and the greatest part of them are swept away by smallpox, which continues among them. So, as God has thereby cleared our title to this place, those who remain in these parts, being in all not 50, have put themselves under our protection."
+
+- See, they're saying God has pursued the so-called Indians.
+
+- They imputed their power to their God, the white image of Jesus.
 
 </div>
 
-- Okay? Genesis 49 verse 1 and 2. A lot of you always write us, "How do you know the Native American Indians are the tribe of Gad?" IT'S TOLD YOU HERE. JOSEPH PROPHESIED IT. COME ON. Genesis chapter 49 verse what?
 
-**[Genesis 49:1-2,19](/bible/genesis/49#v1)**  *[[32:16](https://www.youtube.com/watch?v=OfeSju75iMY&t=1936s)]*
+**[Genesis 49:1-2](/bible/genesis/49#v1)**  *[[32:33](https://www.youtube.com/watch?v=OfeSju75iMY&t=1953s)]*
 
 > <sup>[1](/bible/genesis/49#v1)</sup> And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 >
 > <sup>[2](/bible/genesis/49#v2)</sup> Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.
->
+
+- A lot of you always write us, 'How do you know the Native American Indians are the tribe of Gad?' It's told you here. Jacob prophesied it, that which shall befall you in the last days.
+
+
+**[Genesis 49:19](/bible/genesis/49#v19)**  *[[32:55](https://www.youtube.com/watch?v=OfeSju75iMY&t=1975s)]*
+
 > <sup>[19](/bible/genesis/49#v19)</sup> Gad, a troop shall overcome him: but he shall overcome at the last.
 
-- And Jacob called unto his sons and said, "Gather yourselves together that I may tell you that which shall befall you in the last days." So, I'm sorry. Jacob. I said Joseph, but Jacob. Go ahead. Gather yourselves together, and hear ye sons of Jacob, and hearken unto Israel your father. Mhm. What verse was that? Two? That was two. Jump down to verse 19. Verse 19. Gad, a troop shall overcome him. See, he says in the spirit that Gad, a troop shall overcome him. Who is the troop that overcame the tribe of Gad? The troop is called the United States Cavalry led by Andrew Jackson,
+- He says in the spirit that Gad, a troop shall overcome him. Who is the troop that overcame the tribe of Gad? The United States Cavalry, led by Andrew Jackson. They made funny movies about it called F Troop, where the F Troop would fight against American Indians and overcome them.
 
-- Okay? They made funny movies about it called F Troop. Y'all never saw those movies F Troop where the F TROOP WOULD FIGHT AGAINST American Indians and overcome them. Read it again. Gad, a troop shall overcome him, but he shall overcome at the last. SO, YOU GOT ALL THESE CLUES ABOUT WHO THE AMERICAN Indians are. We read in Deuteronomy where where where Moses said what? That they would uh uh uh cut the all with the crown of the head. They would take the uh first part of the land for themselves. Uh David said they would be warriors, their faces would be like lions, okay? And they crown And it with the crown of THE HEAD. HERE IT SAYS WHAT? THAT they would be overcome by a troop, okay? All these clues are in the Bible for you to read and understand. From there, go to Isaiah.
+- You got all these clues about who the American Indians are: Moses said they would tear the arm with the crown of the head and take the first part of the land for themselves; David said they would be warriors, their faces like lions; here, that they would be overcome by a troop in the last days.
 
-- 65. So, we just read Jacob said a troop will overcome you, Gad. Meaning what? In the future, in the last days, they would all be overcome by a troop. Isaiah chapter 65 and verse 11. Isaiah 65 verse 11.
+- All these clues are in the Bible for you to read and understand.
 
-**[Isaiah 65:11](/bible/isaiah/65#v11)**  *[[33:48](https://www.youtube.com/watch?v=OfeSju75iMY&t=2028s)]*
+
+**[Isaiah 65:11](/bible/isaiah/65#v11)**  *[[34:06](https://www.youtube.com/watch?v=OfeSju75iMY&t=2046s)]*
 
 > <sup>[11](/bible/isaiah/65#v11)</sup> But ye are they that forsake the Lord, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.
 
-- But ye are they that forsake the Lord But ye are they Listen good, black man, black woman. But ye are they that forsake the Lord that forget my holy mountain The Israelites forget the holy mountain of God that prepare a table for that troop THAT PREPARE A TABLE FOR THAT TROOP. WHAT IS THAT TALKING ABOUT? THANKSGIVING. THEY PREPARED TABLE FOR THAT TROOP. BECAUSE JUST LIKE MANY OF YOU SO-CALLED NATIVE AMERICAN INDIANS WHO ARE DESTROYED AND BRAINWASHED, YOU PREPARED A TABLE FOR THOSE THAT overcame you. You so-called blacks do the same thing, and you call it Thanksgiving Day.
+- Listen good, black man, black woman: the Israelites forget the holy mountain of God.
 
-- Read it again. But ye are they that forsake the Lord, that forget my holy mountain, that prepare a table for that troop So, do our people prepare a table for the troop that overcame us? Yes, we prepared a table. You call it Thanksgiving, the last Thursday of every November, right? Right. From there, let's go to Well, there's more. Okay. And that furnish the drink offering unto that number. And that furnish a drink offering unto that number. Thank you. I'm glad you read that part. SO, NOW, YOU EVER WONDER WHY the Thanksgiving meal is the turkey, the stuffing, the cranberry sauce, the apple cider? You ever wonder about those things? Be Listen, because they they history tells you that the first time they sat down, it was those foods was not there to be eaten. So, where did it come.
+- That prepare a table for that troop: what is that talking about? Thanksgiving. Just like many of you so-called Native American Indians who are destroyed and brainwashed, you prepared a table for those that overcame you. You so-called blacks do the same thing, and you call it Thanksgiving Day, the last Thursday of every November.
 
-- From? Think about it. Everything the so-called white man does has a metaphoric meaning behind it. What does the turkey represent? The body, the overcoming of the tribe of Gad. That represents their body. WHAT DID THE CRANBERRY SAUCE REPRESENT? THE SPILLING OF THEIR BLOOD, OKAY? WHAT DID THE STUFFING REPRESENT? BECAUSE THEY DID MANY ATROCITIES TO OUR PEOPLE, MANY UNSPEAKABLE ATROCITIES. They would CUT OFF THE BREASTS OF THE Indian Indian WOMEN AND PLAY BASEBALL WITH THEM, THROWING THEM AROUND, OKAY? They would CUT OFF THEIR HEADS AND CARRY THEM TO GET MONEY, BUT THEY REALIZED THAT WAS TOO MUCH, SO THEY CUT OFF THEIR SCALPS. AND A LOT OF YOU UNLEARNED SAY, "OH, THE INDIANS STARTED SCALPING PEOPLE." NO, THEY DID THAT WHEN THE WHITE MAN STARTED DOING THAT TO THEM. READ A BOOK, PLEASE. GET A CLUE, OKAY, YOU BRAINWASHED NEGROES. From there, let's go to Hosea chapter 7 verse 8.
+- And that furnish the drink offering unto that number. You ever wonder why the Thanksgiving meal is the turkey, the stuffing, the cranberry sauce, the apple cider? History tells you that the first time they sat down, those foods were not there to be eaten. Everything the so-called white man does has a metaphoric meaning behind it.
 
-- And 9. Okay? And don't THINK BECAUSE I'M EXALTING MY VOICE, I'm filled with hatred. No, it's zeal, it's passion and love for my people, for the word of the Most High. That's what it is. Don't mistake it. Hosea 7 verse 8 and 9. Hosea chapter 7 verse 8.
+- The turkey represents the body, the overcoming of the tribe of Gad. The cranberry sauce represents the spilling of their blood. The stuffing, because they did many unspeakable atrocities to our people: they would cut off the breasts of the Indian women and play baseball with them.
 
-**[Hosea 7:8-9](/bible/hosea/7#v8)**  *[[36:50](https://www.youtube.com/watch?v=OfeSju75iMY&t=2210s)]*
+- They would cut off their heads and carry them to get money, but they realized that was too much, so they cut off their scalps. A lot of you unlearned say the Indians started scalping people. No, they did that when the white man started doing that to them. Read a book, please. Get a clue, you brainwashed Negroes.
+
+
+**[Hosea 7:8-9](/bible/hosea/7#v8)**  *[[36:47](https://www.youtube.com/watch?v=OfeSju75iMY&t=2207s)]*
 
 > <sup>[8](/bible/hosea/7#v8)</sup> Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.
 >
 > <sup>[9](/bible/hosea/7#v9)</sup> Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.
 
-- Ephraim, he hath mixed himself among the people. Now, why is it specifying Ephraim here? Because Ephraim was the head tribe of the 10 tribes that came on this side of the world. Some of you UNLEARNED BLACKS GO, "WHY THEY GOT STRAIGHT HAIR? WHY ARE THEY A LIGHTER BROWN THAN WE ARE? SOME OF THEM EVEN look white." Read it again. Ephraim, he hath mixed himself among the people. Ephraim, he hath mixed himself amongst the people. Ephraim is a cake not turned. He is a cake not turned. IF YOU GET A PANCAKE AND DON'T TURN IT OVER, ONE SIDE IS EXTREMELY LIGHT, ONE SIDE IS EXTREMELY DARK.
+- Don't think because I'm exalting my voice I'm filled with hatred. No, it's zeal, it's passion and love for my people, for the word of the Most High.
 
-- SO, ALL THE 10 TRIBES HAVE THAT CHARACTERISTIC, OKAY? Because they were mixing with the enemies from the time of the Assyrian captivity all the way up till today. Was that it? Strangers have devoured his strength. Strangers have devoured his strength. And he knoweth it not. He knoweth it not. Yea, gray hairs are here and there upon him, yet he knoweth not. Yet he knoweth not. From there, go to Proverbs 15 verse.
+- Why is it specifying Ephraim here? Because Ephraim was the head tribe of the ten tribes that came on this side of the world.
 
-- 17. Proverbs 15 and verse 17, okay? Watch this. Proverbs chapter 15 verse 17. Talking about the American Indians had the first Thanksgiving Day with the white man. We're listening good.
+- Some of you unlearned blacks go, 'Why they got straight hair? Why are they a lighter brown than we are? Some of them even look white.' Ephraim hath mixed himself among the people.
 
-**[Proverbs 15:17](/bible/proverbs/15#v17)**  *[[37:32](https://www.youtube.com/watch?v=OfeSju75iMY&t=2252s)]*
+- Ephraim is a cake not turned: if you get a pancake and don't turn it over, one side is extremely light, one side is extremely dark. All the ten tribes have that characteristic, because they were mixing with the enemies from the time of the Assyrian captivity all the way up till today.
+
+
+**[Proverbs 15:17](/bible/proverbs/15#v17)**  *[[37:55](https://www.youtube.com/watch?v=OfeSju75iMY&t=2275s)]*
 
 > <sup>[17](/bible/proverbs/15#v17)</sup> Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.
 
-- Better is a dinner of herbs where love is Better is a dinner of herbs, meaning all you got is vegetables, where love is than a stalled ox than a stalled ox and hatred therewith. And hatred therewith. Because when a certain tribe sat down with the white man, and they had all plenteous food, there was hate in the heart of the so-called white man. They were planning to overcome them and break the treaties, okay? From there, let's go to Amos chapter.
+- Talking about the American Indians that had the first Thanksgiving Day with the white man.
 
-### God Rejects the Feast and Calls for Repentance
+- Better is a dinner of herbs, meaning all you got is vegetables, where love is.
 
-- 5. Amos chapter 5 verse 21 to 23. Amos chapter 5 verse 21.
+- When a certain tribe sat down with the white man, and they had all plenteous food, there was hate in the heart of the so-called white man. They were planning to overcome them and break the treaties.
 
-**[Amos 5:21-24](/bible/amos/5#v21)**  *[[38:20](https://www.youtube.com/watch?v=OfeSju75iMY&t=2300s)]*
+
+**[Amos 5:21-24](/bible/amos/5#v21)**  *[[38:36](https://www.youtube.com/watch?v=OfeSju75iMY&t=2316s)]*
 
 > <sup>[21](/bible/amos/5#v21)</sup> I hate, I despise your feast days, and I will not smell in your solemn assemblies.
 >
@@ -292,13 +401,20 @@ The abandoned fields of Wampanoag, but only a remnant of local population remain
 >
 > <sup>[24](/bible/amos/5#v24)</sup> But let judgment run down as waters, and righteousness as a mighty stream.
 
-- I hate, I despise your feast days. Hear what God says about your feast days like Thanksgiving. Read it again. I hate, I despise your feast days. GOD SAYS HE HATES YOUR FEAST DAYS, OKAY? YOUR FEAST DAYS LIKE THANKSGIVING. READ. AND I WILL NOT smell in your solemn assemblies. WHO? GOD IS VERY PLEASED WITH OUR TURKEY, OUR STUFFING, OUR CRANBERRIES. THAT'S THE DUMB UNLEARNED black man and black woman. Read it again. And I will not smell in your solemn assemblies. He will not smell in your solemn assemblies. Though ye offer me burnt offerings and your meat offerings, I will not accept them. God says he ain't accepted it. Come on. Neither will I will I regard the peace offerings OF YOUR FAT. BECAUSE NOW, WHAT DO YOU DO TODAY? YOU SIT in your CHURCHES AND.
+- Hear what God says about your feast days like Thanksgiving: God says he hates your feast days.
 
-- GO, "GOD BLESS AMERICA. GOD ACCEPT AND BLESS THE FOOD WHICH WE ARE ABOUT TO RECEIVE, the turkey, THE STUFFING, THE CRANBERRY SAUCE, THE APPLE CIDER, the ham hocks, THE PINEAPPLES." THAT'S WHAT YOU DO. HOW DO I KNOW? BECAUSE I SAT IN MANY OF YOUR ABOMINABLE CHURCHES ON SO-CALLED THANKSGIVING. Was that it? Down to 23. Take thou away from me the noise of thy songs. Because right behind a Thanksgiving prayer and dinner, they singing songs. They singing They just a singing. Come on. Take thou away from me the noise of thy songs, for I will not hear the melody of thy voice. You know what God says for you fake Christians that think God accepts your Thanksgiving. Was that it? But let judgment run down as water. Whoa, whoa, whoa, whoa, whoa, whoa, whoa. IT SAYS LET JUDGMENT RUN DOWN AS WATERS. WHAT DOES THAT MEAN FOR YOUR THANKSGIVING? YOU TALK ABOUT JUDGMENT. YOU GOT ALL YOUR LITTLE WHITE FRIENDS THAT TALK ABOUT THE WHITE MAN DON'T KNOW JUDGMENT. HE DON'T KNOW JUSTICE. BECAUSE IN ORDER TO KNOW JUDGMENT, IN ORDER TO KNOW JUSTICE, HE MUST RETURN THE land to the so-called American Indians. BECAUSE THIS IS THEIR LAND THAT WAS STOLEN. THEY GOT TO THEY GOT TO BRING BACK ALL THE SOULS THAT THEY MURDERED. OVER 77 MILLION LIVES THEY SLAUGHTERED. WHAT YOU TALKING ABOUT? Didn't go up fit the curses. What verse you at? Verse 24. Come on. But let I just went down to 23. Isaiah 1.
+- 'God is very pleased with our turkey, our stuffing, our cranberries': that's the dumb unlearned black man and black woman. He will not smell in your solemn assemblies; God says he ain't accepted it.
 
-- Now, verse 14 and to 20. We're going to read Isaiah 1 verse 14 to 20. Okay? Let judgment and justice rain down. That's what God says. You talking about Thanksgiving day. You better shut up before judgment. Come on. You. And it's about to. Where you at? Isaiah 1 verse 14. Come on.
+- What do you do today? You sit in your churches and go, 'God bless America. God accept and bless the food which we are about to receive,' the turkey, the stuffing, the cranberry sauce, the apple cider, the ham hocks, the pineapples. How do I know? Because I sat in many of your abominable churches on so-called Thanksgiving.
 
-**[Isaiah 1:14-20](/bible/isaiah/1#v14)**  *[[40:29](https://www.youtube.com/watch?v=OfeSju75iMY&t=2429s)]*
+- Right behind a Thanksgiving prayer and dinner, they singing songs. That's what God says for you fake Christians that think God accepts your Thanksgiving.
+
+- Let judgment run down as waters: you got all your little white friends, but the white man don't know judgment, he don't know justice. In order to know judgment and justice, he must return the land to the so-called American Indians, because this is their land that was stolen, and bring back all the souls that they murdered: over 77 million lives they slaughtered.
+
+- You talking about Thanksgiving Day: you better shut up before judgment come on you. And it's about to.
+
+
+**[Isaiah 1:14-17](/bible/isaiah/1#v14)**  *[[41:04](https://www.youtube.com/watch?v=OfeSju75iMY&t=2464s)]*
 
 > <sup>[14](/bible/isaiah/1#v14)</sup> Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear them.
 >
@@ -307,28 +423,21 @@ The abandoned fields of Wampanoag, but only a remnant of local population remain
 > <sup>[16](/bible/isaiah/1#v16)</sup> Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;
 >
 > <sup>[17](/bible/isaiah/1#v17)</sup> Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.
->
-> <sup>[18](/bible/isaiah/1#v18)</sup> Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
->
-> <sup>[19](/bible/isaiah/1#v19)</sup> If ye be willing and obedient, ye shall eat the good of the land:
->
-> <sup>[20](/bible/isaiah/1#v20)</sup> But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it.
 
-- Your new moons and your appointed feast days and your appointed feast my soul hated. WHEN YOU EXAMINE HISTORY, DID THE NATIVE AMERICANS uh honor the new moons? Yes, they did. Okay? Yes, they did. Read it again. Your new moons and your appointed feast my soul hated. But it said God would hate that. Why? Because what was the American Indians doing on this side? The tribe of Gad. They were MIXING THE LEARNED UNDERSTANDING OF THE BIBLE WITH HEATHEN PRACTICES. Come on. They are a trouble unto me. I am weary to bear them. Come on. And when you spread forth your hands, I will hide my eyes.
+- When you examine history, did the Native Americans honor the new moons? Yes, they did. But God said he would hate that, because the tribe of Gad were mixing the learned understanding of the Bible with heathen practices.
 
-- From you. DID THE AMERICAN INDIANS WHEN THEY PRAYED THEY RAISED THEIR HANDS TO THE MOST HIGH GOD. AND HE SAID I will hide my EYES FROM YOU. YOU AT HOME. YOU LATINOS AT HOME. OKAY? DO YOU RAISE YOUR HANDS TO THE LORD? YES. AND HE SAID HE WILL TURN HIS EYES FROM YOU, TOO. Read with your Thanksgivings. Yea, when you make many PRAYERS YOU MAKE YOUR PRAYERS ON THANKSGIVING. GOD BLESS US ALL, EVERYONE. I will not hear. He said he will not hear. Read. YOUR HANDS ARE FULL OF BLOOD. YOUR HANDS ARE FULL OF BLOOD. HOW ABOUT THAT, BECAUSE NOW DON'T LET ME GO BACK TO SOMETHING. BECAUSE A LOT OF YOU SOME OF YOU BLACKS GO, "OH, OH, THE AMERICAN INDIANS HAD SOME OF US IN SLAVERY LIKE THE CHOCTAW TRIBE, THE CHICKASAW TRIBE, TWO OF THE FIVE CIVILIZED NATIONS." YES, THAT'S TRUE. THAT IS TRUE.
+- When the American Indians prayed, they raised their hands to the Most High God, and he said I will hide my eyes from you. You Latinos at home: do you raise your hands to the Lord? Yes. And he said he will turn his eyes from you, too. You make your prayers on Thanksgiving, 'God bless us all, everyone'; he said he will not hear.
 
-- READ THE BOOK BLACK INDIANS BY WILLIAM LAWRENCE KATZ. IT TELLS YOU THAT THE WHITE MAN FORCED LISTEN GOOD TO WHAT I'M SAYING. FORCED THE FIVE CIVILIZED NATIONS TO ENSLAVE THE BLACKS TO KEEP THAT DIVISION AMONGST US. BUT IT TELLS YOU THREE OF THEM THREE OF THE TRIBES, INCLUDING THE SEMINOLES, IT SAYS WHEN THE WHITE MAN CAME BACK, THEY SAID, "WHY DO YOU GOT THESE BLACKS AS PRINCES AND KINGS AMONGST YOU? THAT AIN'T WHAT YOU WE TOLD YOU TO DO." AND THEY TOOK AWAY THEIR WOMEN AND ALL THAT. They said if YOU DON'T DO WHAT WE SAY, WE'RE GOING TO TAKE YOUR WOMEN, TAKE YOUR KIDS, AND TAKE YOUR LAND. SO YOU BLACK MAN, BE QUIET. YOU DON'T KNOW YOUR HISTORY. HE'S DONE.
+- Some of you blacks go, 'The American Indians had some of us in slavery, like the Choctaw tribe, the Chickasaw tribe, two of the five civilized nations.' Yes, that is true. Read the book Black Indians by William Lawrence Katz: the white man forced the five civilized nations to enslave the blacks to keep that division amongst us.
 
-- OKAY? YOU DON'T KNOW WHAT HAPPENED. BUT YOU NEVER SPEAK ABOUT THE BUFFALO SOLDIERS. I SEE THAT PART. WHEN THEY WHITE MAN GOT THEM AND AND DECEIVED THEM AND SAID, "OH, we going to give you 40 acres and a mule. Just help us overcome them damn engines over there." And the so-called unlearned, uneducated negro, "Yes, massa. Yes, sir." AND HELPED OVERTHROW YOU GOT SONGS GLORIFYING BUFFALO SOLDIER. BOB MARLEY SINGING THOSE FOOLISH SONGS ABOUT THE DESTRUCTION OF THE 12 TRIBES OF ISRAEL. THAT'S WHAT THE SONG GLORIFIES. IT GLORIFIES UNCLE TOMS. READ THAT PART AGAIN. And when you spread forth your hands, I will hide my eyes from you. When you make many prayers, I will not hear. Your hands are full of blood. That's down to 20 I want to.
+- Three of the tribes, including the Seminoles: when the white man came back, they said, 'Why do you got these blacks as princes and kings amongst you?' and said if you don't do what we say, we're going to take your women, take your kids, and take your land. So you black man, be quiet; you don't know your history.
 
-- Go down to. Wash you, make you clean. Wash you, make you clean MEANING REPENT. PUT AWAY the evil of YOUR DOINGS. WE ALL MUST PUT AWAY THE EVIL of our doings. ALL OF US. ALL THE 12 TRIBES. AND RETURN TO THE LAWS, STATUTES, and commandments of the one true God. READ. PUT AWAY THE EVIL of your doings from before my eyes. Cease to do evil. Learn to do well. Seek judgment. Relieve the oppressed. Judge the fatherless. Plead for the widow. Now, from there, let's go to Lamentations.
+- You never speak about the Buffalo Soldiers, when the white man deceived them: 'We going to give you 40 acres and a mule, just help us overcome them,' and the so-called unlearned, uneducated Negro said, 'Yes, massa,' and helped overthrow them. You got songs glorifying Buffalo Soldier; Bob Marley singing those foolish songs about the destruction of the twelve tribes of Israel. It glorifies Uncle Toms.
 
-### Captivity, Division and Deliverance
+- Wash you, make you clean, meaning repent. We all must put away the evil of our doings, all the twelve tribes, and return to the laws, statutes, and commandments of the one true God.
 
-- 5. Lamentations chapter 5. Okay? We're going to read verse 1 through 8. Lamentations chapter 5 verse 1. Listen good.
 
-**[Lamentations 5:1-8](/bible/lamentations/5#v1)**  *[[44:16](https://www.youtube.com/watch?v=OfeSju75iMY&t=2656s)]*
+**[Lamentations 5:1-8](/bible/lamentations/5#v1)**  *[[44:35](https://www.youtube.com/watch?v=OfeSju75iMY&t=2675s)]*
 
 > <sup>[1](/bible/lamentations/5#v1)</sup> Remember, O Lord, what is come upon us: consider, and behold our reproach.
 >
@@ -346,49 +455,47 @@ The abandoned fields of Wampanoag, but only a remnant of local population remain
 >
 > <sup>[8](/bible/lamentations/5#v8)</sup> Servants have ruled over us: there is none that doth deliver us out of their hand.
 
-- Remember, oh Lord, what is come upon us. This is what THE TRIBES SAID. THE 10 TRIBES. AND WHICH ELSE I'M GOING TO I'LL INCLUDE I'll say the 12 tribes because when you read down, it does mention Judah, too. Read again. Remember, oh Lord, what is come upon us. Consider and behold our reproach reproach. Our inheritance is turned into strangers. Read it properly. Our inheritance is turned to strangers. OUR INHERITANCE IS TURNED to strangers. WHAT WAS THE INHERITANCE? I'M DEALING WITH THE 10 TRIBES RIGHT NOW. WHAT WAS THEIR INHERITANCE? IT TOLD YOU IN 2 ESDRAS 13. We read it at the beginning of the lesson how 10 of the tribes came on this side of THE WORLD WHERE NEVER MANKIND DWELT.
+- This is what the ten tribes said, and I'll say the twelve tribes, because when you read down it does mention Judah, too.
 
-- READ IT AGAIN. Our inheritance is turned to strangers. Our houses to aliens. And our houses have been turned to aliens. SO WHAT DOES THAT MEAN? THE WHITE MAN LIKES TO CALL THE SO-CALLED AMERICAN INDIANS AND ALL THE INDIANS ON this side of the world aliens. Is that correct? That's what THEY CALL THEM. BUT GOD CALLS THE WHITE MAN ALIENS. READ THAT AGAIN. Our inheritance is turned to strangers. Our houses TO ALIENS. THE WHITE MAN IS THE ALIEN ACCORDING TO THE BIBLE. READ. WE ARE ORPHANS AND FATHERLESS. WE ARE ORPHANS AND FATHERLESS BECAUSE WHAT DID THE WHITE MAN DO? WE READ IT EARLIER. THEY KILLED ALL THE KINGS. THEY KILLED THE PRINCES. THEY LEFT WOMEN AND CHILDREN. THAT'S WHAT THEY DID. COME ON. OUR MOTHERS are as widows. OUR MOTHERS ARE AS WIDOWS. READ. WE HAVE DRUNKEN our water FOR MONEY. WE HAD TO DRINK OUR OWN WATER FOR MONEY.
+- What was their inheritance? It told you in 2 Esdras 13, how ten of the tribes came on this side of the world where never mankind dwelt. The white man likes to call the so-called American Indians and all the Indians on this side of the world aliens, but God calls the white man aliens. The white man is the alien according to the Bible.
 
-- READ. OUR WOOD IS SOLD UNTO US. THE WOOD WE GOT HERE, OUR TREES, OUR FOREST IS GIVEN TO US FOR MONEY. OUR NECKS ARE UNDER PERSECUTION. OUR NECKS ARE UNDER PERSECUTION. Come on. We labor and have no rest. We labor and have no rest BECAUSE WHEN THE SPANISH WHITE MAN CAME I'M GOING BACK NOW. THEY FORCED THE INDIANS TO MINE FOR GOLD AND DIAMONDS. AND IF YOU DIDN'T BRING GOLD AND DIAMONDS BACK BY THE END OF THE DAY, YOUR HAND WAS CUT OFF AND YOU WERE NOT ALLOWED TO EAT. YOU WERE NOT ALLOWED TO DRINK. SO YOU BLACK MAN, YOU DON'T KNOW HISTORY. JUST BE QUIET, LISTEN, AND LEARN. READ. WE HAVE GIVEN THE LAND TO THE EGYPTIANS. WE HAVE GIVEN THE LAND TO THE EGYPTIANS. THAT WORD JUST MEANS THE THE CAPTIVES, THE SLAVE MASTERS.
+- We are orphans and fatherless because they killed all the kings, they killed the princes, they left women and children. We had to drink our own water for money; our trees, our forest is given to us for money.
 
-- READ. And to the Assyrians to be satisfied with bread. SATISFIED WITH BREAD. We just going down to 8. Our fathers have sinned and are not. Our fathers have sinned and are not because they were killed. Come on. And we have borne their iniquity. AND THE DESCENDANTS HAVE BORNE THE INIQUITY OF THE FOREFATHERS. COME ON. SERVANTS have ruled over us. Uh-oh. The Bible says servants have ruled OVER US. YEAH, MISS BLACK WOMAN. THAT WHITE MAN YOU LIKE TO CALL A HUNK. OH, LOOK AT BRAD PITT. HE'S SUCH A HUNK. THE BIBLE SAYS SERVANTS HAVE ruled over us. Hold that. Give me Ecclesiasticus 10 and 7. Ecclesiastes 10 verse.
+- We labor and have no rest, because when the Spanish white man came, they forced the Indians to mine for gold and diamonds, and if you didn't bring gold and diamonds back by the end of the day, your hand was cut off and you were not allowed to eat or drink. So you black man, you don't know history: just be quiet, listen, and learn.
 
-- 7. Because the Bible says servants have ruled over us. Ecclesiastes 10 verse 7. Ecclesiastes 10 verse 7.
+- Given the land to the Egyptians: that word just means the captives, the slave masters. Our fathers have sinned and are not, because they were killed, and the descendants have borne the iniquity of the forefathers.
 
-**[Ecclesiastes 10:7](/bible/ecclesiastes/10#v7)**  *[[47:12](https://www.youtube.com/watch?v=OfeSju75iMY&t=2832s)]*
+- Servants have ruled over us: yeah, Miss Black Woman, that white man you like to call a hunk, 'Oh, look at Brad Pitt.' The Bible says servants have ruled over us. There is none that can deliver us out of their hand: AIM, the American Indian Movement, based upon the Black Panthers; the Brown Berets; the Young Lords. All the tribes had revolutionary groups, and they all failed. There's one Savior, that's Jesus the Christ. He's the King, he's the Lord of lords, he's the Master.
 
-> <sup>[7](/bible/ecclesiastes/10#v7)</sup> I have seen servants upon horses, and princes walking as servants upon the earth.
+  Precepts:
+  - **[Ecclesiastes 10:7](/bible/ecclesiastes/10#v7)**
+    > <sup>[7](/bible/ecclesiastes/10#v7)</sup> I have seen servants upon horses, and princes walking as servants upon the earth.
 
-- I have seen servants upon horses. WHO'S SPEAKING HERE? SOLOMON IS SPEAKING IN A IN A SPIRIT. Read it again. I have seen SERVANTS UPON HORSES. SOLOMON SAID I HAVE SEEN SERVANTS UPON HORSES. WHAT DOES THE HORSE REPRESENT? POWER, AUTHORITY. READ IT AGAIN. I HAVE SEEN SERVANTS UPON HORSES. WHO WAS THE SERVANTS SITTING UPON HORSES? THE WHITE MAN. READ. And princes walking as servants upon the earth. AND PRINCES WALKING AS servants upon the earth. There's a famous STATUE WITH THE WHITE MAN ON A HORSE. YOU GOT a so-called American Indian on one side and a negro on the other side. THE NEGRO GOT HIS GUN UP SAYING WHAT? I'M GOING TO FIGHT FOR YOU, MASTER. WHEN you look at the American Indian, the the butt of his gun, the nozzle of his gun is pointed DOWN BECAUSE HE REFUSED TO FIGHT. THE MAJORITY OF THEM LET me word it like that. Refused to fight.
+    Solomon is speaking in a spirit: what does the horse represent? Power, authority. Who was the servants sitting upon horses? The white man. There's a famous statue with the white man on a horse, a so-called American Indian on one side and a Negro on the other; the Negro got his gun up saying I'm going to fight for you, master, while the American Indian's gun is pointed down, because the majority of them refused to fight.
 
-- Okay? Come on. Where you at? Go back to that. Lamentations chapter 5 verse 8. Servants have ruled over us. Servants have ruled over us. There is none that doth deliver us out of their hand. There is none that can deliver us out of their hand. The American Indians also had something set up called AIM, the American Indian Movement, which was based upon the Black Panthers. The Mexicans had something called the Brown Berets. THE PUERTO RICANS HAD SOMETHING CALLED THE YOUNG LORDS. THERE WAS NONE THAT COULD DELIVER. ALL THE TRIBES HAD REVOLUTIONARY GROUPS. THEY ALL FAILED. THERE'S ONE SAVIOR. That's Jesus the Christ. HE'S THE KING. HE'S THE LORD OF LORDS. HE'S THE MASTER. OKAY? From there, let's go to Nahum chapter 3 and verse.
 
-- 1. The book of Nahum. Nahum chapter 3 verse 1.
-
-**[Nahum 3:1](/bible/nahum/3#v1)**  *[[48:49](https://www.youtube.com/watch?v=OfeSju75iMY&t=2929s)]*
+**[Nahum 3:1-2](/bible/nahum/3#v1)**  *[[49:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=2962s)]*
 
 > <sup>[1](/bible/nahum/3#v1)</sup> Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;
-
-- Woe to the bloody city. The Bible says woe to the bloody city. What does the WORD WOE MEAN? DESTRUCTION. DESTRUCTION. DESTRUCTION. READ IT AGAIN. WOE TO THE BLOODY CITY. WHAT'S THE BLOODY CITY? THE UNITED STATES OF AMERICA. HOW DID THEY GET THIS LAND? WAS IT THROUGH PEACE? HUH? It was through bloodshed. READ IT AGAIN. WOE TO THE BLOODY CITY. It is ALL FULL OF LIES IT IS WHAT? IT IS ALL FULL OF LIES IT IS ALL FULL OF LIES. YOU GO TO SCHOOL AND YOU'RE TAUGHT LIES. EVERY TIME MY CHILD COME HOME, I GOT TO I GOT TO CLEAN OUT THEIR MINDS. THAT'S A LIE, DAUGHTER. SON, THAT'S a lie, okay? THEY.
-
-- GO DAD, DID THE INDIANS SELL AMERICA MANHATTAN FOR HOW MUCH? UM UM 20 $24 WORTH OF WORTHLESS BEADS. I say, "Hell, no." And they were expert bead makers. THEY WERE EXPERT BEAD MAKERS AND HISTORY SAYS THE INDIANS HAD GOLD AND DIAMONDS WOVEN IN THEIR CLOTHES LIKE WE GOT ON TODAY. GOLD ALL IN THEIR SOUL. WHY WOULD ARE THEY THAT DUMB? BUT THAT'S WHY I SAY READ THAT AGAIN. IT IS ALL FULL OF LIES and robbery. IT IS ALL THIS LAND is all full of lies and robbery. Come on. The prey DEPARTETH NOT. THE PREY DEPARTETH NOT. WHO'S THE PREY? WE'RE THE PREY. THE 12 TRIBES OF ISRAEL. DO WE DEPART? ARE WE SEEKING TO LEAVE THIS PLACE? NO. YOU AIN'T LOOKING FOR ANOTHER COUNTRY. HOLD THAT. GIVE ME THAT IN HEBREWS. We seek a country. Hebrews,
-
-- Bear with me a second. Give me Hebrews 11. It might be chapter 11, it might be 10. Mhm, bear with me a second. See, things be popping in my mind. Hebrews chapter 11 and verse 14. Come on. Hebrews 11 verse 14. Listen good.
-
-**[Hebrews 11:14-16](/bible/hebrews/11#v14)**  *[[50:52](https://www.youtube.com/watch?v=OfeSju75iMY&t=3052s)]*
-
-> <sup>[14](/bible/hebrews/11#v14)</sup> For they that say such things declare plainly that they seek a country.
 >
-> <sup>[15](/bible/hebrews/11#v15)</sup> And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.
->
-> <sup>[16](/bible/hebrews/11#v16)</sup> But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.
+> <sup>[2](/bible/nahum/3#v2)</sup> The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.
 
-- For they that say such things declare plainly that they seek a country. For they that say such things declare plainly that they seek a country, the new Jerusalem upon Earth. DO YOU TALK ABOUT THAT? YOU SEEKING A COUNTRY? NO. YOU SINGING GOD BLESS AMERICA. THAT'S WHAT YOU'RE DOING. THAT'S WHAT YOU DO. GO BACK TO THAT WHERE YOU WAS AT IN NEHEMIAH. DID YOU FINISH VERSE ONE? Verse one again. Woe to the bloody city that is full of lies and robbery. The prey departeth not. The noise of a whip and the noise of rattling of wheels. That's in history, okay? What verse you at? Verse two. I just wanted it one. Go to Revelation Second Chronicles.
+- What does the word woe mean? Destruction. What's the bloody city? The United States of America. How did they get this land? Was it through peace? It was through bloodshed.
 
-- 28. Second Chronicles. I'm going back now to the the foolish negro that said We're going to read this quick that says THE CHOCTAW AND THE CHICKASAW, OH, THEY HAD US AS SLAVES, SO THEY'RE NOT ISRAELITES. YOU DUMB AND YOU YOU KNOW WHAT THAT PROVES? YOU DON'T EVEN KNOW THE BIBLE. WHY DO I WASTE MY TIME TALKING to you? You don't even know the Bible. Second Chronicles 28, read verse 8 through 11. Quickly, please. Second Chronicles 28 VERSE 8. LET'S SEE IF THE 10 tribes ever had the kingdom of Judah in slavery. Listen good.
+- It is all full of lies. You go to school and you're taught lies. Every time my child come home, I got to clean out their minds: 'Dad, did the Indians sell Manhattan for $24 worth of worthless beads?' I say, hell no. They were expert bead makers, and history says the Indians had gold and diamonds woven in their clothes. This land is all full of lies and robbery.
 
-**[2 Chronicles 28:8-11](/bible/2-chronicles/28#v8)**  *[[52:00](https://www.youtube.com/watch?v=OfeSju75iMY&t=3120s)]*
+- The prey departeth not: who's the prey? We're the prey, the twelve tribes of Israel. Are we seeking to leave this place? No. You ain't looking for another country.
+
+- The noise of a whip and the noise of rattling of wheels: that's in history.
+
+  Precepts:
+  - **[Hebrews 11:14](/bible/hebrews/11#v14)**
+    > <sup>[14](/bible/hebrews/11#v14)</sup> For they that say such things declare plainly that they seek a country.
+
+    They seek a country, the new Jerusalem upon Earth. Do you talk about that? No, you singing God bless America.
+
+
+**[2 Chronicles 28:8-11](/bible/2-chronicles/28#v8)**  *[[52:16](https://www.youtube.com/watch?v=OfeSju75iMY&t=3136s)]*
 
 > <sup>[8](/bible/2-chronicles/28#v8)</sup> And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.
 >
@@ -398,54 +505,53 @@ The abandoned fields of Wampanoag, but only a remnant of local population remain
 >
 > <sup>[11](/bible/2-chronicles/28#v11)</sup> Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the Lord is upon you.
 
-- And the children of Israel carried away captive of their brethren 200,000 women, sons, and daughters, and took also a much spoil from them, and brought the spoil to Samaria. So they took the THE ISRAEL TOOK THEIR BRETHREN CAPTIVE. READ IT AGAIN. AND THE CHILDREN OF ISRAEL CARRIED THAT'S THE CHILDREN OF ISRAEL ARE THE 10 TRIBES.
+- The foolish Negro says the Choctaw and the Chickasaw had us as slaves, so they're not Israelites. You know what that proves? You don't even know the Bible. Let's see if the ten tribes ever had the kingdom of Judah in slavery.
 
-- Read it again. And the children of Israel carried away captive of their brethren 200,000 women, sons, and daughters, and took also a much spoil from them, and brought the spoil to Samaria. To Samaria, that's where Ephraim dwelt. Come on. But a prophet of the Lord was there, whose name was Oded. Listen good. And he went out before the host that came to SAMARIA SAYING SO ODED STOOD BEFORE EPHRAIM AND ALL THE 10 TRIBES. HE STOOD IN THEIR PATH. WHAT DID HE SAY? AND SAID TO THEM, "BEHOLD, because the Lord GOD OF YOUR FATHERS WAS WROTH WITH JUDAH BECAUSE THE LORD GOD OF YOUR FATHERS WAS MAD WITH JUDAH. COME ON. HE HATH delivered them INTO YOUR HAND. THAT'S WHY GOD DELIVERED them into your hand.
+- The children of Israel are the ten tribes; Israel took their brethren captive and brought the spoil to Samaria, where Ephraim dwelt.
 
-- Read. And ye have slain them in a rage AND YOU HAVE SLAIN JUDAH IN A RAGE. COME ON. THAT reacheth up UNTO HEAVEN. BECAUSE EPHRAIM AND THE OTHER 10 TRIBES RAGED AGAINST US AND THEY KILLED MANY OF JUDAH, BENJAMIN, AND LEVI. READ. And now ye purpose to keep under the children of Judah and Jerusalem for bondmen YOU WANT TO KEEP THEM FOR BONDMEN? THIS IS WHAT THE PROPHET IS SAYING TO THE 10 TRIBES. YOU WANT TO MAKE JUDAH, BENJAMIN, AND LEVI BONDMEN, SLAVES? AND now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you, but are there not with you even with you sinned against the Lord YOUR GOD? THE PROPHET SAYS, "REMEMBER YOU YOURSELVES HAVE SINNED. LET THEM KNOW THAT YOU'RE GUILTY JUST LIKE JUDAH IS. YOU CAN BE MADE SLAVES JUST LIKE JUDAH.".
+- Oded stood before Ephraim and all the ten tribes; he stood in their path. Because the Lord God of your fathers was mad with Judah, he delivered them into your hand.
 
-- READ. WHAT ARE WE GOING DOWN TO? Is 11. Verse 11. Now hear me therefore, and deliver the captives again which ye have taken captive of your brethren, for the fierce wrath of the Lord is UPON YOU. SO WHAT DOES THIS PROVE? THAT THE KINGDOM OF ISRAEL HAD THE KINGDOM OF JUDAH IN CAPTIVITY, SLAVES, OKAY? SO DOES THAT MEAN THAT THEY'RE NOT ISRAELITES? THAT PROVES ONE THING. YOU DON'T KNOW THE BIBLE. That's what that proves. BECAUSE YOU WERE QUICK TO WRITE ON OUR COMMENTS, "HOW COULD THE INDIANS BE Israelites when some of their TRIBES MADE THE BLACKS AS SLAVES?" WE JUST READ THAT IN THE BIBLE. WE JUST READ THAT IN THE BIBLE. I'M GOING TO SAY IT AGAIN. WE JUST READ THAT IN THE BIBLE. LISTEN GOOD, OKAY? From there, let's go to Revelation.
+- Ephraim and the other ten tribes raged against us and killed many of Judah, Benjamin, and Levi, and wanted to make them bondmen, slaves. The prophet says, remember you yourselves have sinned; you're guilty just like Judah is, and you can be made slaves just like Judah.
 
-- 7. Revelation 7, we want verse 4 and 5. Okay? Revelation chapter 7 verse 4. Listen good.
+- This proves that the kingdom of Israel had the kingdom of Judah in captivity, slaves. You were quick to write on our comments, 'How could the Indians be Israelites when some of their tribes made the blacks slaves?' We just read that in the Bible.
 
-**[Revelation 7:4-8](/bible/revelation/7#v4)**  *[[54:43](https://www.youtube.com/watch?v=OfeSju75iMY&t=3283s)]*
+
+**[Revelation 7:4-5](/bible/revelation/7#v4)**  *[[54:57](https://www.youtube.com/watch?v=OfeSju75iMY&t=3297s)]*
 
 > <sup>[4](/bible/revelation/7#v4)</sup> And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
 >
 > <sup>[5](/bible/revelation/7#v5)</sup> Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
->
-> <sup>[6](/bible/revelation/7#v6)</sup> Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nepthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.
->
-> <sup>[7](/bible/revelation/7#v7)</sup> Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand.
->
-> <sup>[8](/bible/revelation/7#v8)</sup> Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 
-- And I heard the number of them which were sealed. And there were sealed 144,000 of all the tribes of the children of Israel. So there's going to be 144,000 leaders, MEN, of all the tribes of the children of Israel sealed with the law and the testimony of who they are and what they must do, OKAY? HOW THEY GOING TO BE SEALED? JUMP DOWN TO VERSE 4 AND 5. Verse 4. Verse Yeah. Verse 4. And I heard the number of them which were sealed. And there were sealed 144,000 of all the tribes of the children of Israel. Verse 5. Of the tribe of Judah were sealed 12,000. Of the tribe of Judah is sealed 12,000. HOW IS JUDAH GOING TO BE SEALED WITH THIS UNDERSTANDING IF YOU DON'T KNOW WHO JUDAH IS? HUH? YOU BARELY TALK ABOUT MAYBE THE CHINESE IS JUDAH. YOU SIMPLE AS HELL. YOU GOT TO KNOW WHO JUDAH IS IN ORDER FOR JUDAH TO BE SEALED WITH THE KNOWLEDGE AND THE TESTIMONY OF WHO THEY ARE AND WHAT GOD REQUIRES OF THEM. YOU GOT TO KNOW WHO JUDAH IS.
+- There's going to be 144,000 leaders, men, of all the tribes of the children of Israel, sealed with the law and the testimony of who they are and what they must do.
 
-- READ. OF THE tribe of Judah were sealed 12,000. Of the tribe of Reuben were sealed 12,000. HOW IS REUBEN GOING TO BE SEALED IF YOU DON'T KNOW WHO REUBEN IS? YOU TALK ABOUT WE DON'T KNOW WHO THEY ARE. YOU YOU JUST YOU HEAR THE TRUTH AND YOU REFUSE TO ACCEPT IT BECAUSE YOUR ELDER WASN'T THE ONE THAT GOD OPENED HIS UNDERSTANDING TO. THAT'S CALLED ENVY AND JEALOUSY. WE BRING TO YOU THE UNDERSTANDING OF WHO REUBEN IS, OF WHO JUDAH IS. NO, NO, NO, NO. We don't know who they is. Nobody know who they is. So how they going TO BE SEALED, BROTHER? HOW THEY GOING TO BE SEALED, SISTER? Come on. Of the tribe of Gad were sealed 12,000. OF THE TRIBE OF GAD IS SEALED 12. HOW IS GAD GOING TO BE SEALED IF YOU DON'T KNOW WHO GAD IS? IF THEY DON'T KNOW WHO THEY ARE, HOW THEY GOING TO BE SEALED WITH THE understanding that they're Gad? Huh? How is THAT GOING TO HAPPEN? HOW IS THAT GOING TO BE FULFILLED? HUH? OPEN YOUR BRAIN. OPEN YOUR MIND. BROTHERS, SISTERS, THIS IS ALL SAID not out of hatred, but it's meant out of love. We must as a people come together in a righteous understanding of the Most High.
+- How is Judah going to be sealed with this understanding if you don't know who Judah is? You barely talk about maybe the Chinese is Judah. You simple as hell. How is Reuben going to be sealed if you don't know who Reuben is?
 
-- Understand his laws and his truth, okay? We are bringing you the truth, the understanding of who Judah is, who Gad is, who Reuben is, who Benjamin is, who Levi is, who Ephraim and Manasseh, okay, who Zebulun is, Naphtali, Issachar. We've been telling you that for years, but because you have personal hatred against our people, you reject it. But you're so quick to call the Philistines Israelites. OH, THE UM BONGO TRIBE. YES, THEY THEY SOLD YOUR BEHIND OVER HERE, OKAY? Then some of you go, "Oh, no, no, no, no." BUT THE WHITE MAN CAN COME AND YOU QUICK TO MARRY the marry the white woman. That's what you do. BUT THE SO-CALLED INDIANS THAT OWN THERE, NO, NO, NO. SOME OF YOU OUT IN THE CALIFORNIA, YOU MIGHT HAVE GOT BEAT UP BY MS-16. YOU SOME OF YOU MIGHT HAVE GOTTEN KILLED BY THEM, ROBBED BY THEM.
+- You hear the truth and you refuse to accept it because your elder wasn't the one that God opened his understanding to. That's called envy and jealousy.
 
-- SO WHAT? SHOULD THEY NOW TURN AROUND AND SAY, "OH, WE DON'T ACCEPT THE BLACKS BECAUSE A BLACK MAN ROBBED ME"? HUH? THAT'S FOOLISHNESS. WE all got to repent of our sins, every last one of us. Brothers and sisters, I pray you understand. I really pray you do, okay? We want to keep We need to keep this program going, brothers and sisters. We can't do it without you. We as a people Give me Zephaniah 2:1.
+- How is Gad going to be sealed if they don't know who they are? Open your brain, open your mind.
 
-## In Closing
+- Brothers, sisters, this is all said not out of hatred, but it's meant out of love. We are bringing you the understanding of who Judah is, who Gad is, who Reuben is, who Benjamin is, who Levi is, who Ephraim and Manasseh, Zebulun, Naphtali, Issachar. We've been telling you that for years, but because you have personal hatred against our people, you reject it, but you're so quick to call the Philistines Israelites.
 
-- For me. I need to show you the scripture before we close. Zephaniah chapter 2, right there, verse 1. Zephaniah chapter 2 verse 1.
+- Some of you in California might have got beat up, killed or robbed by MS-16. Should they now turn around and say, 'We don't accept the blacks because a black man robbed me'? That's foolishness. We all got to repent of our sins, every last one of us.
+
 
 **[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[58:29](https://www.youtube.com/watch?v=OfeSju75iMY&t=3509s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 
-- Gather yourselves together, yea, gather yourselves together, O nation not desired. Here what God says. We must gather ourselves together, okay? We got to gather ourselves together in the understanding of what the Most High God says. Put away our differences, put away our hatred, our envy, our jealousy. Come together. Bring forth your donations, your offerings to help us keep the program going, brothers and sisters. For more information, visit our website at www.IsraelUnite.org or on YouTube you can visit us at www. Youtube.com/Nathaniel7. And with that, we give all praises to the Most High and the Son, Christ, and we say shalom. Shalom, Israel. Mhm.
+- We must gather ourselves together in the understanding of what the Most High God says.
+
+- Put away our differences, put away our hatred, our envy, our jealousy. Come together.
+
+
+## In Closing
+
+*[[58:29](https://www.youtube.com/watch?v=OfeSju75iMY&t=3509s)]* Gather yourselves together, yea, gather yourselves together, O nation not desired. We must gather ourselves together in the understanding of what the Most High God says. Put away our differences, put away our hatred, our envy, our jealousy. Come together.
 
 ## Announcements & References
 
-- *The Way of the Warrior*, cited for the feathered crowns and martial customs of the North American tribes.
-- *The Great Chiefs* (Time-Life), cited for images of buffalo slaughter.
-- Glen Ford, article published November 27, 2006, on Thanksgiving, genocide and slavery.
-- William Loren Katz, *Black Indians*, cited on relations among black and indigenous people and the Five Civilized Nations.
-- The American Indian Movement, the Brown Berets and the Young Lords were named as modern liberation movements that could not provide the final deliverance promised through Christ.
-- The original recording description links to Israel Unite material on Thanksgiving and false Christian holidays.
+- Bring forth your donations and offerings to help keep the program going.
+- Website: www.IsraelUnite.org; YouTube: youtube.com/Nathanyel7.
 
 ---
 
