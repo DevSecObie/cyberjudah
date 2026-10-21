@@ -44,7 +44,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 **Deacon Eythan:** And then the last one, the fourth P, which is a minor, is practice. Because you have other cultures out there where polygamy is a practice, but not based upon Western civilization, like Africa, Asia, where it's a practice. That's the exception to the rule. But you trying to force Americanized black and brown women, who've been given unlimited power by the devil himself, the white man, the European powers that be, to make her fall in line under you? You out of your mind, bro. Y'all out of your mind.
 
-*[[16:40](https://www.youtube.com/watch?v=Yi63AbFI48Y&t=1000s)]* Anyway, Isaiah 11:11. Let's go back to the point. I'm sorry. That's a sidebar, but that video upset me because of all the thirsty, broke ones that keep on trying to push this polygamy stuff. So let's go on. Isaiah 11:11.
+*[[16:40](https://www.youtube.com/watch?v=Yi63AbFI48Y&t=1000s)]* Anyway, Isaiah 11:11. Let's go back to the point. I'm sorry. That's a sidebar, but that video upset me because of all the thirsty, broke that keep on trying to push this polygamy stuff. So let's go on. Isaiah 11:11.
 
 ## Readings and Scriptures
 
@@ -58,7 +58,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 - And from Egypt. Now Egypt, they have this right: even in Egypt right now, they have a secret slave trade, or slave traffic, going on right now of our brothers and sisters being sold off. In Egypt now, even to this day.
 
-- And from Pathros. Pathros would be your Sudan. South Sudan is where the bulk of the slaves are shipped from as well. South Sudan are Semitic Sudanese, not Nilotic Sudanese. Semitic Sudanese, for you stupid ass ones that don't read or do history books and think that all Israel's in America, with your dumb ass. I'm have fun with y'all today. Lots of fun with you and your stupid selves. That word gonna be found commonly in my classes, by the way. I'm use it like that word is part of my soul. I'm going tell you straight down. I'm gonna use it. If you mad, just turn the show off. Watch something else. Watch something friendly and happy like Barney or something. Anyway, so Sudan, that's the Semitic Sudanese.
+- And from Pathros. Pathros would be your Sudan. South Sudan is where the bulk of the slaves are shipped from as well. South Sudan are Semitic Sudanese, not Nilotic Sudanese. Semitic Sudanese, for you stupid ass that don't read or do history books and think that all Israel's in America, with your dumb ass. I'm have fun with y'all today. Lots of fun with you and your stupid selves. That word gonna be found commonly in my classes, by the way. I'm use it like that word is part of my soul. I'm going tell you straight down. I'm gonna use it. If you mad, just turn the show off. Watch something else. Watch something friendly and happy like Barney or something. Anyway, so Sudan, that's the Semitic Sudanese.
 
 - And from Cush. Cush is Ethiopia. The Semitic Ethiopians, who they refer to as Beta Israel, or the derogatory term for them is called Falashas, which they don't like.
 
@@ -113,7 +113,7 @@ Reading from a book that gives the list of our people's different names, page 19
 - Another book we had, called *Banner of Israel*, where it mentions the Galatians as northern kingdom, which, if you're scholarly, that's common sense now. And keep in mind these names were put on us by the Greeks and the Romans, right? So they put all these different type of titles on us, just like today they call us Americans, Sudanese, whatever, Kenyans. So they call us these different type of names; that comes from them.
 
 </div>
-*[[25:37](https://www.youtube.com/watch?v=Yi63AbFI48Y&t=1537s)]* This is *Banner of Israel*, regarding the Galatians. Read that. Because the word Galatia derives from the term Gauls. The Gauls were also Japheth as well. And Julius Kaiser, or Julius Caesar, eradicated them. Now remember, Edom and Japheth were allied in the Roman Republic. Once Edom took over the republic, he sought to eradicate and to destroy Japheth entirely, so they wouldn't take back their throne. That's what Esau does. So many of them were forced into small numbers in their area and eventually got absorbed into us or whatever. Or they were forced further westward, into the Pacific Isles, like Javan. They call it Java. The Java Isles, the Javanese people, that's the Pacific Islands over there. The Australian Aborigines, that's Japheth over there. Philippines and them: that's Ishmael, Elam and Japheth, all those areas and islands over there, the Pacific Islands. Japheth got pushed over there. So that's what ended up happening. So Julius Kaiser made it his mission to eradicate the Gauls, or the Japhethites. Now, Israel was among them also, but that was his mission, to eradicate them during the Gallic wars.
+*[[25:37](https://www.youtube.com/watch?v=Yi63AbFI48Y&t=1537s)]* This is *Banner of Israel*, regarding the Galatians. Read that. Because the word Galatia derives from the term Gauls. The Gauls were also as well. And Julius Kaiser, or Julius Caesar, eradicated them. Now remember, Edom and Japheth were allied in the Roman Republic. Once Edom took over the republic, he sought to eradicate and to destroy Japheth entirely, so they wouldn't take back their throne. That's what Esau does. So many of them were forced into small numbers in their area and eventually got absorbed into us or whatever. Or they were forced further westward, into the Pacific Isles, like Javan. They call it Java. The Java Isles, the Javanese people, that's the Pacific Islands over there. The Australian Aborigines, that's Japheth over there. Philippines and them: that's Ishmael, Elam and Japheth, all those areas and islands over there, the Pacific Islands. Japheth got pushed over there. So that's what ended up happening. So Julius Kaiser made it his mission to eradicate the Gauls, or the Japhethites. Now, Israel was among them also, but that was his mission, to eradicate them during the Gallic wars.
 
 <div class="reading">
 
@@ -819,7 +819,7 @@ Reading from a book by a black author of the 1800s, page 33, on Hanno, Hamilcar 
 
 > Tertullian and St. Augustine
 
-- You know Tertullian and St. Augustine. That's the new ones they love. Augustine. The top two of the apologists. The only ones they care about in reference in Christian Catholicism.
+- You know Tertullian and St. Augustine. That's the new they love. Augustine. The top two of the apologists. The only they care about in reference in Christian Catholicism.
 
 > were Ethiopians.
 

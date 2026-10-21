@@ -547,7 +547,7 @@ Reading from *Babylon to Timbuktu*, Rudolph Windsor's book, pages 106 to 108, on
 
 > The population of Carthage was derived from Palestine and its civilization was Hebraic in origin. Slouschz is certain, after much research, that the language Hannibal spoke
 
-- The language Hannibal spoke. Hannibal, who is going to be played in the movie by Denzel. Denzel Washington. They're doing a movie on Hannibal and Denzel's playing Hannibal, and they are furious, and I love every minute of it. Denzel Washington, he slimmed down too. Looks good. He was big at first; he slimmed down some, looks a lot better now. He's the older man now, he's playing Hannibal. I'd prefer they'd have picked somebody younger, like a Michael B. Jordan, or Damson Idris from *Snowfall*.
+- The language Hannibal spoke. Hannibal, who is going to be played in the movie by Denzel. Denzel Washington. They're doing a movie on Hannibal and Denzel's playing Hannibal, and are furious, and I love every minute of it. Denzel Washington, he slimmed down too. Looks good. He was big at first; he slimmed down some, looks a lot better now. He's the older man now, he's playing Hannibal. I'd prefer they'd have picked somebody younger, like a Michael B. Jordan, or Damson Idris from *Snowfall*.
 
 - **Officer:** Black Panther. That'd be great.
 
@@ -787,7 +787,7 @@ Reading from *Caesar and Christ*, pages 39 to 41, on Carthage and its empire · 
 
 > It treated these subject lands with varying degrees of severity, charging them annual tribute,
 
-- Because you had Japheth living in those areas. I believe you had Edom living there too. But you had them living in these areas at first, and we took over. We took them, portions of land, and they were subject to us.
+- Because you had Japheth living in those areas. I believe you had Edom living there too. But you had living in these areas at first, and we took over. We took them, portions of land, and they were subject to us.
 
 > conscripting their population for its army, and strictly controlling their foreign relations and their trade; in return it gave them military protection, local self-government, and economic stability.
 

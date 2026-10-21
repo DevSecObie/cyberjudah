@@ -344,7 +344,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** You know this dude arrested 3,000 that's trying to take him out? 3,000 of his own people. Traoré had them locked up and took their passports away.
 
-- **Deacon Eythan:** You know who ratted them out? More than likely our own people. Because they see this guy's getting us jobs, he's building up the country. Nah. Uh-uh. It sound like the ones that were fasting until Paul died.
+- **Deacon Eythan:** You know who ratted them out? More than likely our own people. Because they see this guy's getting us jobs, he's building up the country. Nah. Uh-uh. It sound like the that were fasting until Paul died.
 
 - **Officer:** Yeah. And he's trying to step down, and people are like, no, you ain't stepping down, bro. You can't step down.
 
@@ -400,7 +400,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 > <sup>[17](/bible/acts/23#v17)</sup> Then Paul called one of the centurions unto him, and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him.
 
-- What did Paul tell him to do? Tell the authorities. Call the police. Let them know that these Negroes is trying to kill me. He didn't say, let the Lord do it. I can't snitch. No snitching, right? Right. Don't say nothing. I'm about that life. Yo, things happen, son. Paul wasn't talking like that now. Yo, if I die, I'mma die, son. Now yo, be quiet. Don't say nothing. Be quiet. What I'm saying, yo, go somewhere, man. That's the trap. That's what life's about, man. You die. I'm saying, Paul like, nah man, go tell the captain that these ignorant ones are trying to kill me for no reason.
+- What did Paul tell him to do? Tell the authorities. Call the police. Let them know that these Negroes is trying to kill me. He didn't say, let the Lord do it. I can't snitch. No snitching, right? Right. Don't say nothing. I'm about that life. Yo, things happen, son. Paul wasn't talking like that now. Yo, if I die, I'mma die, son. Now yo, be quiet. Don't say nothing. Be quiet. What I'm saying, yo, go somewhere, man. That's the trap. That's what life's about, man. You die. I'm saying, Paul like, nah man, go tell the captain that these ignorant are trying to kill me for no reason.
 
 - *[[48:02](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=2882s)]* I mean, you know, son, like, like, yo, like, I mean, you be reading and like, you know what I mean, like, yo, like, reading is good, like, you know what I mean, like, yo, I'm saying, like, yo, congratulations. Congratulations, nigga. Congratulations. Read. I be reading this.
 
@@ -454,9 +454,9 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - *[[53:04](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3184s)]* So I'm just showing you that throughout the history of the Bible, you'll find that the biggest opposition of our people, those who sought the liberty and freedom and justice and fairness and equity and honor of our people, were always sought after and attacked, or a target, by evil, ignorant black people, man. That's why I don't sit around the corner saying white man the devil. I don't even have time to talk about that. The first thing I go in the camp, that's the first word off my tongue. I tell you straight. Cuz that's the biggest problem. The biggest problem, you understand. We fell as a people cuz of that fact.
 
-- *[[53:47](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3227s)]* Yes sir. There were those before the white man. I'm a product of my environment? Do you understand that they were around before the white man was in existence? You understand that he was in Mount Seir and the caves, whatever he was doing. He was doing that; we were being divided among ourselves, fighting, killing. Give me Hosea 4:1. Give me that real quick. I ain't get to my topic yet. Damn. It's the spirit thing, is what it is, man. Give me Hosea 4:1. This is the topic of the spirit right now. I'm trying to go, it's taking me somewhere else, man. Hosea 4:1. I'm trying to deal with this being a kingdom, a kingdom, right, right. I keep thinking about Negroes. I'm like, no, go to that first. I'm going to start with the negative first and go to the positive.
+- *[[53:47](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3227s)]* Yes sir. There were before the white man. I'm a product of my environment? Do you understand that they were around before the white man was in existence? You understand that he was in Mount Seir and the caves, whatever he was doing. He was doing that; we were being divided among ourselves, fighting, killing. Give me Hosea 4:1. Give me that real quick. I ain't get to my topic yet. Damn. It's the spirit thing, is what it is, man. Give me Hosea 4:1. This is the topic of the spirit right now. I'm trying to go, it's taking me somewhere else, man. Hosea 4:1. I'm trying to deal with this being a kingdom, a kingdom, right, right. I keep thinking about Negroes. I'm like, no, go to that first. I'm going to start with the negative first and go to the positive.
 
-- *[[54:30](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3270s)]* I guarantee you there's a Negro right now in the chat causing problems. I might look at the chat; my phone is off. I guarantee you right now, as I'm teaching, there's the ignorant Negro in the chat saying something stupid and irrelevant he can't prove. I guarantee you, whenever the truth comes out, there's always an ignorant one in existence. It's like a portal. They just pop in, come out. Oh, what? There's truth coming out? I got to disrupt it. I'm telling you, it's like a Negro Stargate. Come through and cause problems.
+- *[[54:30](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3270s)]* I guarantee you there's a Negro right now in the chat causing problems. I might look at the chat; my phone is off. I guarantee you right now, as I'm teaching, there's the ignorant Negro in the chat saying something stupid and irrelevant he can't prove. I guarantee you, whenever the truth comes out, there's always an ignorant in existence. It's like a portal. They just pop in, come out. Oh, what? There's truth coming out? I got to disrupt it. I'm telling you, it's like a Negro Stargate. Come through and cause problems.
 
 - **Officer:** I understand. That happened on that movie, remember? They was coming out of the portals.
 
@@ -490,7 +490,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** Or they'll call the hotline to get you deported.
 
-- **Deacon Eythan:** Yeah, that too. For the reward. For a reward. For sneakers. They'll sell you out for money or for a pair of shoes. Sound familiar? Gosh. This ain't white folks doing this. For a pair of shoes, that's not what white folks do. The Negro is an ancient breed. The Negro is an ancient species of old time. The first one in existence was Cain. Goes way back. The first one to ever exist was Cain. Read on, verse seven.
+- **Deacon Eythan:** Yeah, that too. For the reward. For a reward. For sneakers. They'll sell you out for money or for a pair of shoes. Sound familiar? Gosh. This ain't white folks doing this. For a pair of shoes, that's not what white folks do. The is an ancient breed. The Negro is an ancient species of old time. The first one in existence was Cain. Goes way back. The first one to ever exist was Cain. Read on, verse seven.
 
 > <sup>[7](/bible/amos/2#v7)</sup> That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the same maid, to profane my holy name:
 
@@ -498,7 +498,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** *[[1:00:01](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3601s)]* Hey D, Second Peter chapter 2 gives you a timeline.
 
-- **Deacon Eythan:** Yeah, read it. Get it. From verse one. I'm trying my hardest to leave them alone, but I just can't, man. Like, once you start talking about them, you can't stop till the class is over. I don't know what's going on. I have to continue, just going about Negroes all day.
+- **Deacon Eythan:** Yeah, read it. Get it. From verse one. I'm trying my hardest to leave alone, but I just can't, man. Like, once you start talking about them, you can't stop till the class is over. I don't know what's going on. I have to continue, just going about Negroes all day.
 
 - **Officer:** They thought that rapper sister was lying when she said what she said. She said, I come from a generation of hoes since Egypt. She was real. Hey, a captain just posted a scripture too. I don't know if we read it. Amos 2 and 6.
 
@@ -826,7 +826,7 @@ Reading from *The Earth and Its Inhabitants: Africa* by Élisée Reclus, page 17
 
 > had to accept the new faith.
 
-- Did I go back to my point about them? Damn. They go back full circle. Muslim Negroes attacking their own brothers. Yep. So go back to the book you just brought out. Go back to that book again.
+- Did I go back to my point about? Damn. They go back full circle. Muslim Negroes attacking their own brothers. Yep. So go back to the book you just brought out. Go back to that book again.
 
 - **Officer:** Damn. Now the Soninke ruled the Ghanaian Empire before the Mandingan Empire. So they ruled the Ghanaian Empire as Jews.
 

@@ -452,7 +452,7 @@ Reading from a definition of iridium, and a post on Uganda's gold discovery  *[[
 
 > A rare, extremely hard, brittle, and silvery-white transition metal in the platinum group. Highly resistant to
 
-- It's in the platinum group. Damn, it's in spark plugs. It's in everything. One of the most densest elements. And Haiti is covered in it. Don't let them find that out.
+- It's in the platinum group. Damn, it's in spark plugs. It's in everything. One of the most densest elements. And Haiti is covered in it. Don't let find that out.
 
 > Uganda announced a massive gold discovery, estimating over 31 million metric tons of gold ore, containing potentially 320 thousand tons of refined gold, valued at 12 plus trillion dollars.
 
@@ -1046,7 +1046,7 @@ Reading from *Ancient and Modern Britons*, on the western islanders and the Dane
 
 - Swarthy skin, black skin. Go to the pencil mark. 122, 126, and then 173. What's 126 say?
 
-- Maybe they had small eyes. They were dark, but they had like small eyes. High cheekbones, like Native Americans. Go up. Read that before going on.
+- Maybe they had eyes. They were dark, but they had like small eyes. High cheekbones, like Native Americans. Go up. Read that before going on.
 
 </div>
 

@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 ## Introduction
 
-*[[9:30](https://www.youtube.com/watch?v=GfseWzmlczw&t=570s)]* Hey, all praises. Shalom, guys. Bless. I was listening. I was wrecking my brain trying to find this map and I found it just now. All praises. Hey, you are now tuned into Our Hidden History radio show. All right, I had to find this map. I was wrecking my brain trying to find it before I start the show. I just found it. Give me one minute.
+*[[9:30](https://www.youtube.com/watch?v=GfseWzmlczw&t=570s)]* Hey, all praises. Shalom, guys. Bless. I was listening. I was my brain trying to find this map and I found it just now. All praises. Hey, you are now tuned into Our Hidden History radio show. All right, I had to find this map. I was wrecking my brain trying to find it before I start the show. I just found it. Give me one minute.
 
 **Officer:** Hey, make sure y'all light up the comments, man. We welcome all, all the retards.
 
@@ -51,7 +51,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 *[[13:40](https://www.youtube.com/watch?v=GfseWzmlczw&t=820s)]* So, give me a sec. Esdras 6 and 7, because the last time we left off, we left off where it was a transition of power, where the so-called white man began to regain his rulership upon the earth. So I'll be shifting back and forth throughout the Dark Ages.
 
-*[[14:01](https://www.youtube.com/watch?v=GfseWzmlczw&t=841s)]* The bishop went over that yesterday. All praise to the Most High. The bishop literally, spiritually opened up my brain, and pulled out all my talking points in my class I had planned for New Year's and taught it yesterday. So now I got to sit around and figure something else out. That's the spirit. Yeah, man. Like yo, he pulled the scriptures I was going to pull. He pulled the images I was going to use, the books I was going to use. I'm like, oh my god, man. He was a fly on the wall, man. This is crazy. So now I got to revamp the class and add more stuff so it doesn't seem repetitive. All praises, man. That means I'm on the right track. If the bishop brought out what I was going to bring out, then that is the Lord working through us to bring edifying to the people.
+*[[14:01](https://www.youtube.com/watch?v=GfseWzmlczw&t=841s)]* The bishop went over that yesterday. All praise to the Most High. The bishop literally, spiritually opened up my brain, and pulled out all my talking points in my class I had planned for New Year's and taught it yesterday. So now I got to sit around and figure something else out. That's the spirit. Yeah, man. Like yo, he pulled the scriptures I was going to pull. He pulled the images I was going to use, the books I was going to use. I'm like, oh my god, man. was a fly on the wall, man. This is crazy. So now I got to revamp the class and add more stuff so it doesn't seem repetitive. All praises, man. That means I'm on the right track. If the bishop brought out what I was going to bring out, then that is the Lord working through us to bring edifying to the people.
 
 *[[14:52](https://www.youtube.com/watch?v=GfseWzmlczw&t=892s)]* I know some of y'all probably think that the so-called white man is not who the Bible says he is, but you're going to find yourself in a very sad case, because he is who the Bible says he is. And this scripture confirms it. Read that.
 
@@ -300,7 +300,7 @@ Reading from a scene from the movie *Black Panther*, played on air  *[[48:34](ht
 >
 > Y'all sitting up here comfortable. Must feel good. It's about two billion people all over the world that looks like us, but their lives are a lot harder. Wakanda has the tools to liberate them all.
 
-- Pause. So he said, listen, if we have vibranium, our people in America, that's where he's from, our people in America can fight against the oppressor. Because remember, his father N'Jobu was T'Chaka's brother. These guys are cousins. Both of their fathers are brothers. So N'Jobu was T'Chaka's brother. And he was sent into America to spy out America and so forth. And while he was there, he lived among Judah, pretty much, and watched as the white man flooded our community with drugs, killed our leader. He's like, yo, we got to get vibranium, get it back to our brothers in America and liberate them from the freaking white man. But T'Chaka, T'Challa's father, was like, no, no, we must take care of Wakanda. This is selfish. The same FBA stuff y'all be on today. This selfishness. Oh, we going to stay to ourselves, mind our own business while they're oppressed over there. And guess what? It go both directions, cause it's the same way over in Africa too. Same mindset. Oh, I am Nigerian. Both of y'all are selfish. Both of y'all on both sides. Come on. Sound.
+- Pause. So he said, listen, if we have vibranium, our people in America, that's where he's from, our people in America can fight against the oppressor. Because remember, his father N'Jobu was T'Chaka's brother. These guys are cousins. Both of their fathers are brothers. So N'Jobu was T'Chaka's brother. And he was sent into America to spy out America and so forth. And while he was there, he lived among Judah, pretty much, and watched as the white man flooded our community with drugs, killed our leader. He's like, yo, we got to get vibranium, get it back to our brothers in America and liberate them from the freaking white man. But T'Chaka, T'Challa's father, was like, no, no, we must take care of Wakanda. This is selfish. The same FBA y'all be on today. This selfishness. Oh, we going to stay to ourselves, mind our own business while they're oppressed over there. And guess what? It go both directions, cause it's the same way over in Africa too. Same mindset. Oh, I am Nigerian. Both of y'all are selfish. Both of y'all on both sides. Come on. Sound.
 
 > ...to wage war on the world. It is not our way to be judge, jury, and executioner for people who are not our own.
 
@@ -1070,7 +1070,7 @@ Reading from *African Presence in Early Europe*, continued, on the days of black
 
 > peering into dark recesses timorously, or peasant girls seeing suddenly their own image reflected by the candle from the dark window pane, shiver all over with apprehension at the vision of the dreaded black man,
 
-- They look into the dark, it's dark outside. They think about us out there, going to come get them.
+- They look into the dark, it's dark outside. They think about out there, going to come get them.
 
 - **Officer:** Wow.
 

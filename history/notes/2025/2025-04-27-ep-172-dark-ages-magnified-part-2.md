@@ -898,7 +898,7 @@ Reading from *Dictionary of the Bible* by William Smith (1863), the article on O
 
 > St. Jerome says that some of the Jews read Rome for Dumah in Isaiah 21:11;
 
-- Remember, when Israel took over Rome, we took on a persona and an ideology of Rome. So the Jews that were rabbinical, they referred to us that ruled Rome as Edomites also, and pushers of the Edomite religion, which is Christianity. That's what they're saying here.
+- Remember, when Israel took over Rome, we took on a persona and an ideology of Rome. So the Jews that were rabbinical, they referred to us that ruled Rome as also, and pushers of the Edomite religion, which is Christianity. That's what they're saying here.
 
 > finally, some of the rabbis, and with them Abarbanel, maintain that it was the soul of Esau which lived again in Christ.
 
