@@ -162,7 +162,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 - Because you had the Jacob step over here when we were allowed to during the Inquisition, and then you had the converts that came after and enslaved them. And then those same converts came over here with us, with those same Jacob, as slaves after that. It was waves. Because you read in the book by J. Rogers, he mentions the Jamaican Jews, and those Jamaican Jews that were seen back then are the same Benjamites you see today. Those aren't converts.
 
-- So the Jews that came over here to flee the Inquisition was both Jacob and converts. Because remember, the converts converted to our religion. So it was outlawed over there, but the converts benefited from following our religion, so they maintained it. To maintain it, they had to flee over here, or denounce it and become inquisitors. And many of them did become inquisitors and conquistadors. And a lot of sellout Negroes did the same thing and became Ladinos. You had a bunch of Negro conquistadors too. Not many, but they were around too.
+- So the Jews that came over here to flee the Inquisition was both Jacob and converts. Because remember, the converted to our religion. So it was outlawed over there, but the benefited from following our religion, so they maintained it. To maintain it, they had to flee over here, or denounce it and become inquisitors. And many of them did become inquisitors and conquistadors. And a lot of sellout Negroes did the same thing and became Ladinos. You had a bunch of Negro conquistadors too. Not many, but they were around too.
 
 > This fascinating account explores the social history and religious aspects of the lives of the Jews who lived in Mexico, Peru, Colombia, Brazil and Argentina under the threatening shadow of the Spanish and Portuguese Inquisition.
 
@@ -640,7 +640,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
 
-- Make one righteous, and another unto dishonour: make one the villain. So you don't question God; he question you. I'm not God, but I'm going to say I question you too. That's why Isaiah said, let man strive with man, and not with his maker. Let the homos be homo; that's his business. But God do his business, and you asking him questions? Ask that fella over there why he wear a dress. Ask that girl why she taking hormone pills, sounding like a dude. Ask her that, then ask our questions. Some of y'all be way out of your damn league. Some of y'all be way out of pocket sometimes with the Lord. Isaiah 45:9.
+- Make one righteous, and another unto dishonour: make one the villain. So you don't question God; he question you. I'm not God, but I'm going to say I question you too. That's why Isaiah said, let man strive with man, and not with his maker. Let the homos be homo; that's his business. But God do his business, and you asking him questions? Ask that over there why he wear a dress. Ask that girl why she taking hormone pills, sounding like a dude. Ask her that, then ask our questions. Some of y'all be way out of your damn league. Some of y'all be way out of pocket sometimes with the Lord. Isaiah 45:9.
 
 **[Isaiah 45:9-10](/bible/isaiah/45#v9)**  *[[1:47:13](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6433s)]*
 
@@ -896,7 +896,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 - Why? For they shall go into captivity. We read earlier that the Most High's judgment is as a ring. This happened to us with Egypt. This happened to us in Babylon. This happened to us with the Greeks, the Romans, and in Spain, and in Portugal, and in Africa among the Arabs, and it happened to us on this side of the world also. It happened to us in Britain. It happened to us in France. It happened to us everywhere, because the curses follow us wherever we went. It says that the Jews were cursed and have been sentenced to perpetual wandering. What's that mean? Diaspora. Perpetually scattered.
 
-- **Officer:** I want y'all to keep in mind what it said in this book, the last page we just read: that they were taught that the Jews killed our Lord, as a result of which the Jews were cursed. Real quick, I got a book that says that when they took our kids from us, they called us names. I'm going to be reading that book next week.
+- **Officer:** I want y'all to keep in mind what it said in this book, the last page we just read: that they were taught that the Jews killed our Lord, as a result of which the Jews were cursed. Real quick, I got a book that says that when they took our kids from us, they called us. I'm going to be reading that book next week.
 
 - **Deacon Eythan:** Go ahead. Just go to the book. Go to the exact words, by the way.
 

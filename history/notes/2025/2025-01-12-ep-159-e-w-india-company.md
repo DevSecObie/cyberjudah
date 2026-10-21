@@ -180,7 +180,7 @@ Reading from a book on modern capitalism and the Jews, from the year 1913, the c
 
 - Now before we continue, remember this knowledge of money and banking, funding: we taught them this stuff. I'm going to show y'all as the class progresses; I have it later on. But I'm going to show y'all that these guys, we taught them. Because Israel, we were industrious. We had the wealth, we had the money. Wherever Israel went, we came with money, especially in Spain and Portugal. So when we came across these people, whether it was in Spain, whether it was in the mountains of Georgia, Russia, as the Khazars, we taught them our way of living. And our way of living also involved us being very, very industrious, and very, very well acquainted with money and finances. We were very wise people.
 
-- Look at our people today, in a carnal sense, like Jay-Z, 50. These guys, that's Jake, they're Jews, and they're very good with money. Even them who sell drugs on the corner, it's a hustle, them dudes just good with numbers. They smart. Like the movie Malcolm X: the Benjamite dude that he worked for, Malcolm tried to rip him off. He said, I don't want you to write it down, I want you to use your mind, I want you to remember the numbers. Because back in Bumpy Johnson and them, Frank Lucas: these guys are geniuses. I'm not glorifying what they were doing. I'm simply emphasizing our ingenuity, and how very intuitive we were, how smart we were in numbers. A lot of these dudes don't finish school, they be in the streets hustling and stuff, and they're very, very smart with numbers.
+- Look at our people today, in a carnal sense, like Jay-Z, 50. These guys, that's Jake, they're Jews, and they're very good with money. Even who sell drugs on the corner, it's a hustle, them dudes just good with numbers. They smart. Like the movie Malcolm X: the Benjamite dude that he worked for, Malcolm tried to rip him off. He said, I don't want you to write it down, I want you to use your mind, I want you to remember the numbers. Because back in Bumpy Johnson and them, Frank Lucas: these guys are geniuses. I'm not glorifying what they were doing. I'm simply emphasizing our ingenuity, and how very intuitive we were, how smart we were in numbers. A lot of these dudes don't finish school, they be in the streets hustling and stuff, and they're very, very smart with numbers.
 
 - So what I'm showing is that remnant of that wisdom with money and finances among our people. Even though I'm mentioning the negative side of it, I'm showing y'all that our people had always, not all of us, but a lot of us, well, back then most of us were raised that way. But not now anymore. Back then, in our right mind, who knew who we were, we were very, very good with money. And so when we came across them and we converted them, we taught them that. We taught them how to spend money, how to save, how to invest, and all of that.
 
@@ -618,7 +618,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, page 15  *[[1:29:42](https
 
 > And the Genoese now copied the Arab model, including importing black slaves from Africa.
 
-- We have blacks living in Italy. You had Israelites in Italy. They ran them out of Italy and brought them over to the slave runners, the Arabs.
+- We have blacks living in Italy. You had Israelites in Italy. They them out of Italy and brought them over to the slave runners, the Arabs.
 
 > By the early 1400s Genoese growers and traders had begun to buy African slaves
 
