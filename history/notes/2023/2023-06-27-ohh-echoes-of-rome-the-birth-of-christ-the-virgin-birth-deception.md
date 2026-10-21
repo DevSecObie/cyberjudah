@@ -1,0 +1,1321 @@
+---
+title: "Echoes of Rome: the Birth of Christ: the Virgin Birth Deception"
+slug: "2023/2023-06-27-ohh-echoes-of-rome-the-birth-of-christ-the-virgin-birth-deception"
+date: "2023-06-27"
+teacher: "Officer Jazz"
+description: "Our Hidden History · 2023-06-27 · Officer Jazz, with Officer Manny, Officer Abdon and Officer Hezekiah"
+tags: ["Our Hidden History", "christ", "deceit"]
+---
+
+<p class="taught">Our Hidden History · 2023-06-27 · Officer Jazz, with Officer Manny, Officer Abdon and Officer Hezekiah</p>
+
+<span class="opens"><b>Opens</b> [Matt 1](/bible/matthew/1) · [Matt 2](/bible/matthew/2) · [Acts 26](/bible/acts/26) · [Acts 25](/bible/acts/25) · [Acts 13](/bible/acts/13) · [Jer 44](/bible/jeremiah/44) · [Jer 41](/bible/jeremiah/41) · [Isa 30](/bible/isaiah/30) · [Lam 4](/bible/lamentations/4) · [Hos 1](/bible/hosea/1) · [Lam 3](/bible/lamentations/3) · [Exod 1](/bible/exodus/1) · [Acts 18](/bible/acts/18) · [Acts 17](/bible/acts/17) · [2 Macc 1](/bible/2-maccabees/1) · [Ps 106](/bible/psalms/106) · <i>and 15 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="XsUFa7WvhR0"></div>
+
+## Introduction
+
+*[[5:15](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=315s)]* Shalom, Israel. Welcome back to another episode of Our Hidden History. All right, you ready? We got some new cast on here, so y'all know the chant. All right, let's go. You're now tuned into Our Hidden History radio show. All praises, all praises.
+
+All right, so I'm Officer Jazz, and we got my officer, Officer Manny. We got Officer Abdon, Officer Hezekiah. Our reader's also Hezekiah. All praises. Hey man, you mess up, man, we swapping you out, bro. All praise the Most High.
+
+So we're going to get in. Last we dealt with the Ethiops. We dealt with the term called Ethiops a couple weeks ago. So it's been a little bit since we've been back on the show. *[[6:09](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=369s)]* But today, we still dealing with the Echoes of Rome. We still dealing with the Roman captivity. Before we dealt with Ethiop, I know we dealt with Herod and so forth. Now we want to get into the birth of Christ, because we dealt with the things that was going on around the time of Christ's birth. We dealt with the Pharisees, how they came about.
+
+So just to give a little recap: we dealt with the Pharisees, how they came about, the Sadducees, the different philosophies that was going on at the time of Christ's birth. Now we want to deal with Christ's birth. And we're going to get into the virgin birth, the deception of the virgin birth. All right, so let's get started.
+
+## Readings and Scriptures
+
+**[Matthew 1:1-7](/bible/matthew/1#v1)**  *[[6:52](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=412s)]*
+
+> <sup>[1](/bible/matthew/1#v1)</sup> The book of the generation of Jesus Christ, the son of David, the son of Abraham.
+
+- So this is the book of the generation of Jesus Christ. The book of the generation of Jesus Christ.
+
+> <sup>[2](/bible/matthew/1#v2)</sup> Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
+
+- So Abraham had Isaac, Isaac had Jacob.
+
+> <sup>[3](/bible/matthew/1#v3)</sup> And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;
+>
+> <sup>[4](/bible/matthew/1#v4)</sup> And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
+>
+> <sup>[5](/bible/matthew/1#v5)</sup> And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
+
+- So Boaz had Obed of Ruth. Now Ruth was a Moabite. Ruth was a Moabite. She'd have been so-called Chinese today.
+
+> <sup>[6](/bible/matthew/1#v6)</sup> And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;
+>
+> <sup>[7](/bible/matthew/1#v7)</sup> And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
+
+- So what we reading, this is the lineage of Christ. There should be no misunderstanding on the lineage of Christ. When you go back to verse one, it says the generation, the generation of Jesus Christ. The root word of generation: gene, genealogy.
+
+- So look, check this out, what we gonna do: we're going to come back to the virgin birth, because I want to go into that a little bit in depth. We have some books on that. Now I want to jump to Matthew 2:13. I want to deal with this real quick, Matthew, during the time of Christ's birth. No, start at verse one.
+
+**[Matthew 2:1-6](/bible/matthew/2#v1)**  *[[9:16](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=556s)]*
+
+> <sup>[1](/bible/matthew/2#v1)</sup> Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
+
+- So remember Herod the king. Herod was the king over the Jews. He was the king over the Jews. Herod was an Edomite. We done dealt with that; we proved it in previous episodes who Herod was. He was an Amalekite. Herod was a so-called Jew.
+
+- Remember, John Hyrcanus had converted the … Idumeans. He converted them over to our laws and so forth, and they studied our laws. So in order to stay in our land, they had to convert. So that's where Herod comes from. Herod was Amalekite.
+
+> <sup>[2](/bible/matthew/2#v2)</sup> Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.
+
+- So I'm jumping forward a little bit. Like I said, I want to save the virgin birth; I want to get into that after the fact. But I want to do Herod, and what happened at the time of Christ's birth with Herod.
+
+> <sup>[3](/bible/matthew/2#v3)</sup> When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
+>
+> <sup>[4](/bible/matthew/2#v4)</sup> And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.
+>
+> <sup>[5](/bible/matthew/2#v5)</sup> And they said unto him, In Bethlehem of Judea: for thus it is written by the prophet,
+>
+> <sup>[6](/bible/matthew/2#v6)</sup> And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
+
+- So they showed Herod the prophecy. Remember, Herod, he know the prophecies also. Why? Because they studied our customs, they studied our laws. Hey, give me Acts 28 real quick to prove that. You think Herod didn't know the Bible? Acts chapter 26, starting at verse one.
+
+**[Acts 26:1](/bible/acts/26#v1)**  *[[11:27](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=687s)]*
+
+> <sup>[1](/bible/acts/26#v1)</sup> Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
+
+- So listen. Hey, do we have anything of Herod's lineage? I know we showed that somewhere. Pull up the lineage. It was a class, I think the bishop pulled it on his class.
+
+- **Officer:** Yeah, the bishop pulled it on his Savage class.
+
+- **Officer Jazz:** I don't like that one. That look too confusing for me. Yeah, that's good, pull that one up.
+
+- *[[12:16](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=736s)]* All right, so as you see, Herod the Great, reign 37 BC. So I think Herod died around 4 BC. Now when you go down, Herod had, how many wives? About four or five wives. Now we want to deal with Agrippa. Where is Herod Agrippa? Blow it up. Herod Agrippa the First was Herod's grandson. You see it says reign 41 AD to 44 AD. You can read about him in Acts 12:1-6. That was the same Agrippa that we're reading about right now, that was talking to Paul in Acts 26. No, I'm sorry, go down. You see at the bottom here, so I think that's Agrippa the Second. Give me Acts 25:13. That's Agrippa the Second, Herod's great grandson.
+
+**[Acts 25:13](/bible/acts/25#v13)**  *[[13:43](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=823s)]*
+
+> <sup>[13](/bible/acts/25#v13)</sup> And after certain days king Agrippa and Bernice came unto Cesarea to salute Festus.
+
+- Yes, so that's Agrippa the Second. That's Herod's great grandson. Now go back to Acts 26. That's Herod's great grandson, Agrippa the Second. Some of these names could get confusing.
+
+**[Acts 26:2-3](/bible/acts/26#v2)**  *[[14:09](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=849s)]*
+
+> <sup>[2](/bible/acts/26#v2)</sup> I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:
+>
+> <sup>[3](/bible/acts/26#v3)</sup> Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.
+
+- You see that? So guess what, Herod's lineage, Herod, they all were expert in all customs of our laws. The way we dress, everything. Our high holy days. They knew our Bible. They studied our Bible. They went to our schools. Give me Acts 13:1. They went to our schools.
+
+**[Acts 13:1](/bible/acts/13#v1)**  *[[15:01](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=901s)]*
+
+> <sup>[1](/bible/acts/13#v1)</sup> Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
+
+- You see that? Which was brought up with Herod the tetrarch and Saul. Why? Because they went to our schools. Remember, John Hyrcanus forced them to convert to our laws and customs in order to stay in our land. So with that being said, they started studying our laws and customs. That's why he said, I understand that you were expert in all customs. Why? Because they went to our schools.
+
+- Now go back to Matthew chapter 2. So now we have to understand that Herod, what Herod is great at: he was expert in all our customs. So he knew the prophecies. He knew that Christ was coming. Start at verse one again.
+
+**[Matthew 2:1-13](/bible/matthew/2#v1)**  *[[16:06](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=966s)]*
+
+> <sup>[1](/bible/matthew/2#v1)</sup> Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
+>
+> <sup>[2](/bible/matthew/2#v2)</sup> Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.
+
+- Now that star is referring to a chariot, so-called UFO today. Referring to a chariot. We're gonna prove it.
+
+> <sup>[3](/bible/matthew/2#v3)</sup> When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
+>
+> <sup>[4](/bible/matthew/2#v4)</sup> And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.
+>
+> <sup>[5](/bible/matthew/2#v5)</sup> And they said unto him, In Bethlehem of Judea: for thus it is written by the prophet,
+>
+> <sup>[6](/bible/matthew/2#v6)</sup> And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
+
+- So he understood the prophecies. Hey, I don't know if we have it, because the same thing happened when Moses came on the scene. The same thing happened when Moses came on the scene. Do we have the foretelling of Moses, Babylon Timbuktu? Tell me we have it. You can read on. In Babylon Timbuktu, if you can find that, let me know.
+
+> <sup>[7](/bible/matthew/2#v7)</sup> Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.
+>
+> <sup>[8](/bible/matthew/2#v8)</sup> And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.
+
+- So he gonna tell the wise men, look, when you find where the baby is at, let me know, so I can come and worship him.
+
+> <sup>[9](/bible/matthew/2#v9)</sup> When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
+
+- So watch this. Remember, a star. Remember in verse two he said his star in the east.
+
+- So what star in the sky you see just moving? You know what I'm saying? You don't see a star in the sky just moving. No, let you know, this star was a chariot. This star was a so-called UFO. So it would be referenced in the Bible as a cloud, or a star, or chariot.
+
+- So this star which they saw in the east went before them. The star was moving before them, till it came and stood over where the young child was. So wherever Christ and his family was, the star, the chariot, stood. It stood over the house where they was at.
+
+> <sup>[10](/bible/matthew/2#v10)</sup> When they saw the star, they rejoiced with exceeding great joy.
+>
+> <sup>[11](/bible/matthew/2#v11)</sup> And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.
+>
+> <sup>[12](/bible/matthew/2#v12)</sup> And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.
+
+> <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
+
+- So now verse 13, it says, and when they were departed, behold, the angel of the Lord appeared to Joseph in a dream. So shout out to Joseph's dream. Arise, and take the young child and his mother, and flee into Egypt. Now we want to deal with flee into Egypt.
+
+- *[[20:43](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1243s)]* Why would the angel tell Joseph to take his family and flee into Egypt? First give me Jeremiah 44. So let's prove that we already had settlements in Egypt, that we was always in Egypt.
+
+**[Jeremiah 44:1-2](/bible/jeremiah/44#v1)**  *[[21:00](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1260s)]*
+
+> <sup>[1](/bible/jeremiah/44#v1)</sup> The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,
+
+- That dwell where? In the land of Egypt. So Pathros, Upper Egypt.
+
+> <sup>[2](/bible/jeremiah/44#v2)</sup> Thus saith the Lord of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,
+
+- So read verse one one more time. The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt. So during the Babylonian captivity, we dwelt in the land of Egypt. We was there.
+
+- Now how do we get into the land of Egypt? You know what I want, 41. We was always in Egypt.
+
+**[Jeremiah 41:17](/bible/jeremiah/41#v17)**  *[[22:20](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1340s)]*
+
+> <sup>[17](/bible/jeremiah/41#v17)</sup> And they departed, and dwelt in the habitation of Chimham, which is by Beth–lehem, to go to enter into Egypt,
+
+- So to summarize what happened here: you had the Babylonians came in, and they made puppet kings out of us. So they set up a governor named Gedaliah. So what happened, our people didn't want to follow Gedaliah. Our people hated following orders after Gedaliah. So what happened is, Ishmael, who's of the royal seed, rose up and killed Gedaliah. Assassinated him.
+
+- So after we put Gedaliah to death, we fled into Egypt. We fled into Egypt with Jeremiah. So Jeremiah, he was always warning us about going into Egypt. *[[23:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1420s)]* Our people loved Egypt, man. Our people always loved Egypt. Give me Isaiah 30 real quick. Let me show you how much we loved Egypt.
+
+**[Isaiah 30:1-3](/bible/isaiah/30#v1)**  *[[23:51](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1431s)]*
+
+> <sup>[1](/bible/isaiah/30#v1)</sup> Woe to the rebellious children, saith the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
+
+- A lot of people like to cover with the covering of the other nations. We hate covering with the cover of this Bible.
+
+- Because if we outside of the Bible, you're in the midst of sin. If we're not doing what the Bible says, we are in the midst of sin.
+
+> <sup>[2](/bible/isaiah/30#v2)</sup> That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
+
+- That walk to go down into Egypt. Why? Because our people love Egypt.
+
+- And have not asked at my mouth. Because we seek to the pharaohs instead of seeking to the Lord. Just like we do today. We want to vote for presidents and so forth. We're not coming to the Bible for solutions. We go to the white man for solutions. Maybe if I cast my vote this year, maybe something would change for us. We've been casting our votes for damn near 350 years. We've been casting votes; nothing has been happening. We still at the bottom. So the next president, ain't nothing gonna change.
+
+- Now we know this is twofold. This is talking about literal Egypt, and this is talking about America also.
+
+> <sup>[3](/bible/isaiah/30#v3)</sup> Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.
+
+- And the trust in the shadow of Egypt will be our confusion.
+
+- From there, now get me the page, give me the Wikipedia, Jews in Egypt. History of the Jews in Egypt. Type in history of the Jews in Egypt. If y'all got anything, I want to bring up, go ahead.
+
+- **Officer:** Excuse me, could you give me Lamentations chapter 4 and 17, just to land back on what was stated, officer, about us always having Egypt watch over us. We still do that till this day with America.
+
+**[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[26:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1600s)]*
+
+> <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
+
+- **Officer:** That vain help is America. Worthless help. We have watched for a nation that could not save us. Always trying to vote for presidents. We're always trying to go into their armies, to build up the economy, but they're not going to save us. The only person is going to save us is the Lord.
+
+- **Officer:** *[[27:05](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1625s)]* Remember, our people voted for Biden, right? Wholeheartedly voted for Biden. You're not black if you don't vote for him. And a lot of times when you look at the presidents, they always tend to use our people to gain some type of, in their campaigns they use our people a lot. They use celebrities, people of influence. So if they have Lil Wayne beside them, a lot of people like Lil Wayne, or whoever the president chooses to use as influence to get our people to vote for them.
+
+- **Officer:** But what I want to say about our people voting for Biden is that, remember, when we vote for Biden, we still be getting shot down the streets. A lot of stuff, even what happened with Rasheem Carter. Biden is still in office, but then there's still no hate laws passed for the things that's going on with us. But you remember when Moab took a little slap for a week? What did they pass? Stop Asian Hate laws. Man, just that quick. Moab got slapped up for about two weeks, if that, they quickly put a bill into play for them. But Moab didn't cast no votes for Biden. So why the hell they get a, why they get an anti-Asian hate law quickly? But our people, we were the majority at the damn voting for Biden, but we didn't get no bill. We didn't get no type of anti-black laws passed for us, or anything of that nature.
+
+- **Officer:** So read that Lamentations again. So our eyes keep failing for vain help, man. Vain help. We have watched for a nation that could not save us. And they're not going to save us. You're not getting reparations. You ain't getting a 40 acres and a mule. It's not happening. It will not happen. Matter of fact, they paying themselves back for slavery before they give us anything. They paying themselves back.
+
+- **Officer:** *[[29:41](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1781s)]* So here we are today, we're expecting something from these people that hate our guts the most. These are our enemies. They've been lying to us. They still lying to us in the education system. Even in the churches we still learning about them, white supremacy. So our people go down to Egypt, man, and we cover with the covering, but it's not of this Bible. That's all.
+
+- **Officer:** Yeah, to your point, officer, about Joe Biden: the bill that he did give us was during 1994, during the crime bill, when they was talking about the super predators, the three strikes law. That was all Joe Biden.
+
+- **Officer Jazz:** Yeah. Damn. Don't forget about Clinton's, because Hillary the one that called the super predators. But guess what, that was that popular persuasion, to persuade the people thinking that we are predators, man. All right, from there, we sidebar a little bit. Give me history of the Jews in Egypt. But good point, good point.
+
+<div class="reading">
+
+Reading from the Wikipedia page "History of the Jews in Egypt"  *[[30:39](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=1839s)]*
+
+> Egyptian Jews constitute both one of the oldest and one of the youngest Jewish communities in the world. The historic core of the Jewish community in Egypt mainly consisted of Egyptian Arabic-speaking Rabbanites and Karaites. Though Egypt had its own community of Egyptian Jews
+
+- Go down to ancient times. There you go, ancient times.
+
+> And the Elephantine papyri and ostraca, caches of legal documents and letters written in Aramaic, amply document the lives of a community of Jewish soldiers stationed there as part of a frontier garrison in Egypt for the Achaemenid Empire.
+
+- The Achaemenid Empire is the Persian Empire. That's the Persian Empire. So guess what, so from the time of the Persian captivity we were in Egypt.
+
+> Established at Elephantine in about 650 BCE during Manasseh's reign, soldiers assisted the 26th Dynasty pharaoh Psamtik the First
+
+- So we assisted them. We was always in their armies, man. As mercenaries or what have you, but we was always employed in the different armies and so forth. Remember, we love Egypt.
+
+> And his campaigns against the 25th Dynasty pharaoh Tantamani of Napata. Their religious system shows strong traces of Babylonian religion, something which suggests to certain scholars that the community was of mixed Judean and Sumerian origins
+
+- So what, northern and southern kingdom was in Egypt.
+
+> And they maintained their own temple, functioning alongside that of the local deity Khnum.
+
+- So we had our own temple.
+
+> The documents cover the period 495 to 399 BCE. The Hebrew Bible also records that a large number of Judeans took refuge in Egypt after the destruction of the Kingdom of Judah in 597 BCE
+
+- So we just read about that. We took refuge in Egypt.
+
+> And subsequent assassination of the Jewish governor Gedaliah
+
+- So we just read about Gedaliah, what happened with him.
+
+> Second Kings 25, verse 22 to 24; Jeremiah chapter 40, verse 6 through 8. On hearing of the appointment, the Jewish population that fled to Moab, Ammon, Edom and other countries returned to Judah. Jeremiah chapter 40, verse 11 and 12. However, before long Gedaliah was assassinated, and the population that was left in the land and those that had returned ran away to Egypt for safety.
+
+- So we always ran to Egypt for safety. So we always ran to Egypt for safety.
+
+> The numbers that made their way to Egypt are subject to debate. In Egypt they settled in Migdol, Tahpanhes, Noph and Pathros.
+
+- Hey, look for this video for me, with this brother named Remy Ilona. He's talking to the so-called Jew. Go to YouTube. And give me the other page. Give me History of the Jews real quick. Blow that up. So we still dealing with how we got into Egypt, that we had Jewish colonies in Egypt.
+
+</div>
+
+<div class="reading">
+
+Reading from *History of the Jews*, on the Judean colonies in Egypt and Cyrene during the Greek captivity  *[[34:46](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2086s)]*
+
+> The Judeans in Alexandria and the government of Simon. The Judean colonies in Egypt and Cyrene. Internal affairs of the Alexandrian community. King Philometor favors the Judeans. Onias.
+
+- So this is during the Greek captivity. That's the contents. Sorry, go down, go down.
+
+> The magic land, once the school of suffering of the children of Israel and the cradle of Israel's religion, became at this period the school of wisdom for the Judean nation. The settlement of the Judeans in Egypt was as much encouraged by the Greek rulers of that country as it had been in former ages by the Pharaohs.
+
+> They spread over the entire district between the Libyan Desert
+
+- So we was in the Libyan, we went into Libya.
+
+> In the north and the confines of Ethiopia in the south.
+
+- You see that? So we went down, we trickled down all the way from into Egypt, Libya. We spread abroad, and then we went down into the confines of Ethiopia. We went down to the confines of Ethiopia. Shout out to the Isaiah 11:11 Ministries over in Ethiopia, man. So letting you know our people is in Ethiopia.
+
+- **Officer:** Hey officer, that's why in Zephaniah it says that, through the rivers of Ethiopia. Because it's not just future prophecy; during that time they was there. It was there since that time period.
+
+- **Officer Jazz:** Yeah. All right, go ahead.
+
+> They increased as rapidly as they had done in the days of their forefathers, and they numbered one million of souls at the expiration of the century from their first arrival in their adopted country.
+
+- So you know how we do, man. We don't die, we multiply. So we numbered one million souls.
+
+- Hey, hold on. You notice anywhere we go, we become the majority? We become the majority no matter where we go, man. We might be at the bottom, but guess what, we become the majority of that country. We always the majority. Here in America, guess what, they say we the minority. But you look at us as a whole, we are the majority. They always try to split us up and divide us. Nah, we are the majority. Give me that scripture, what's that, Hosea.
+
+</div>
+
+**[Hosea 1:10](/bible/hosea/1#v10)**  *[[37:28](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2248s)]*
+
+> <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
+- So the Bible says we will be as the sand of the sea.
+
+- You can't go to the beach and try to count the sand of the sea. That's impossible. So God is saying we would number like the sand of the sea, meaning it would be millions and billions of us on this earth, man. So wherever we at, we become the majority over there. Here in America we are the majority. Over in Egypt at that time we were the majority. Even during, in Rome, the majority. All right, go back. Oh, you got the video? Yeah, all praises. All right, finish reading that.
+
+<div class="reading">
+
+Reading from *History of the Jews*, continued  *[[38:13](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2293s)]*
+
+> In Egypt and Cyrene the Judeans enjoyed rights similar to those of the Greek colonists. They were so proud of this equality that they watched over their privileges with a jealous eye.
+
+- Wait, read that again. You see that? We was trying to get equality even at that time, and we was proud of the equality, just like we are today. Why? Because we always trying to be equal, but we forgot that we above the other nations. But guess what, in captivity we at the bottom. In captivity, that we try to fight to become equal, because we at the bottom. So we trying to become equal now. So even during the Greek captivity.
+
+- Equality of being equal with the Egyptians. The equality of having different rights as other nations that was amongst us.
+
+- So we was proud of the privileges that the other nations was giving us at that time. That the Greeks, that Esau was giving us during the Greek captivity.
+
+> It is impossible to say from whom they originally held them, whether from Alexander or his successors. The Judean colony in Egypt began to play an active part at the time when the Egyptian and Syrian courts were hostile to each other.
+
+- Give us the next page.
+
+> But the Egyptian Judeans had always been faithful adherents of the Ptolemaic royal house, and Philometor, the sixth prince of that dynasty, had cordially received the numerous fugitives who had fled from Judea during the persecutions of Antiochus.
+
+- Now, I left the book with History of the Jews. One of the men that fled at that time was Jason of Cyrene. Jason of Cyrene. During the persecution of Antiochus.
+
+- So if you're not familiar with Jason of Cyrene, he wrote the book of Maccabees. He wrote the book of Maccabees.
+
+> Conspicuous amongst these immigrants were several Judeans of distinguished families, as well as the son of the high priest Onias. They were treated with respect by the Egyptian rulers, and were able at a later date to give proof of their intelligence and their learning. Political prudence demanded the friendliest reception of the Judean malcontents.
+
+- Jump down to the Judeans were principally concentrated.
+
+> The Judeans were principally concentrated in Alexandria
+
+- So the main city in Egypt was Alexandria. Notice how we always be concentrated in the cities. We always in the city, wherever the major city is. So during this time Alexandria in Egypt was the major city, so we were concentrated there. Guess what, we were concentrated heavily in Rome, a major city in Italy. Today we are concentrated here in Philly. Today our people concentrated in New York, LA, Chicago, Atlanta. So showing you, we always concentrated in the major city. Wherever the major city was, the metropolis, we were there.
+
+> The Judeans were principally concentrated in Alexandria, second only to Rome in political importance and commerce
+
+- You see that?
+
+> And to Athens in love of art and knowledge.
+
+- And we were in Athens also. Remember Paul, remember in Acts 17. Give me that, because we were there. We was in Athens also. Acts 18.
+
+- **Officer:** Hey, somebody say something, my books popping up in my head, man. Hey, you know it's funny, what you were saying about they envied each other's power in those nations. That's the same thing what happened with the Pharisees and scribes, because they didn't want to lose their seat. Herod understood that they wanted to kill Christ because of envy. Because they envy that the people was now following Christ instead of the Pharisees and scribes. So it's the same thing we do in every captivity. You know, we always want to have preeminence over people.
+
+- **Officer Jazz:** Yeah, that's crazy.
+
+- **Officer:** To your point, officer: go to chapter 3, verse 45. Although we try to fight for equal rights, although we try to fight for different positions within society or within these nations, this is what the Bible say.
+
+</div>
+
+**[Lamentations 3:45](/bible/lamentations/3#v45)**  *[[43:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2620s)]*
+
+> <sup>[45](/bible/lamentations/3#v45)</sup> Thou hast made us as the offscouring and refuse in the midst of the people.
+
+- **Officer:** So God has made us a rejection amongst the other nations, and also he has made us trash, garbage, in the midst of the other people. So the other people, the other nations, do not give us respect at all. Although we try to fight for rights, although we try in America, we try to vote for rights. We gotta renew every so often just to vote for our oppressor. But the other nations, they laugh at us and they reject us, and they treat us as trash every single time. But we like that power that the nations give us. That's like, we go to Exodus 1 and verse 10. That's a part of the nations dealing wisely, like they said.
+
+**[Exodus 1:10-11](/bible/exodus/1#v10)**  *[[44:28](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2668s)]*
+
+> <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
+
+- **Officer:** So now we're going to read what was one of the wise counsels that they said will work against this people. Read the next verse.
+
+> <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
+
+- **Officer:** They gave certain of them power over their brothers in that land of captivity. So now the other people that's being oppressed, they looking to get to that same status as everyone else. Just like today, everyone else is oppressed in the hoods, but who do they look to? Basketball players, football players, rappers. So it doesn't matter the oppression that they're going through; they forget about what the white people is doing to them, but they look to that status. Like, man, if I can just become a basketball player, I know I can leave the status of my people. But then when they finally get to that place, they still realize he's just a rich slave. But it's all a deception.
+
+- **Officer Jazz:** Right, right, right. All right, I'm about to send you something real quick. One second, bear with us real quick, Israel. I'm trying to get this page. All right, I'm about to send it over right now. So go back, read that about Athens. No, I wanted Acts 18, about Athens, because we were there also.
+
+**[Acts 18:1](/bible/acts/18#v1)**  *[[46:22](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2782s)]*
+
+> <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
+
+- No, no, no. Well, he was actually in Athens, Mars Hill. Oh yes, 22.
+
+**[Acts 17:22](/bible/acts/17#v22)**  *[[46:41](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2801s)]*
+
+> <sup>[22](/bible/acts/17#v22)</sup> Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.
+
+- So we were in Athens also. So Paul went and visited Athens. Now give me the page real quick about Athens. Us in Athens. Athens was another city that we were concentrated in also. The last two pages I sent on the Telegram, just a little sidebar. Blowing it up. Go down to the bottom right there. See you say Athens, read that.
+
+<div class="reading">
+
+Reading from *History of the Christian Church* by William Jones, 1832, on Athens when Paul visited it  *[[47:28](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=2848s)]*
+
+> Athens, by general consent the seat of the muses, once the first city of Greece in every point of view, and though it had at this time passed the zenith of its political splendor, it was still as famous for learning as it had ever been.
+
+- So this book right here is History of the Christian Church by William Jones. History of the Christian Church by William Jones, 1832. White eyes only.
+
+- So Athens was just like Alexandria. Famous for learning.
+
+> For at the time Paul visited it, the city was full of philosophers
+
+- Full of philosophers.
+
+> Rhetoricians or orators, painters, poets, statuaries, and of young men who resorted thither to be taught philosophy and the liberal sciences.
+
+- So the same thing that was going on in Athens when Paul visited, the same thing that was happening in Alexandria in Egypt. We always was into philosophies, or we had orators. Orators meaning what? Great speakers. We had painters, poets, statuaries, and you had the young men that always wanted to be taught some type of philosophy, just like today. Our people love some type of philosophy.
+
+> Pausanias says that there were more images in Athens than all Greece besides
+
+- So there were more idolatry going on in Athens than any other city in Greece.
+
+> And that they worshiped the gods more than all Greece did.
+
+- Who worshiped the gods? We did. We did. Just like we do today. We worship their gods more than they did.
+
+- **Officer:** Just like today, we worship white Jesus more than the white man himself.
+
+> No place could possibly afford a greater fund of speculation and amusement to a curious mind than Athens: temples, altars, statues
+
+- So these are the things that were found in Athens when Paul arrived there.
+
+> Historical memorials, living philosophers of various sects, the works of the learned of every age
+
+- Man, it sound like Philly. It sound like New York and Philly.
+
+> A confluence of the most polite and literary persons from various countries, all indulging the luxury of learned leisure, were objects that must at once have obtruded themselves upon the apostle's notice.
+
+- Because he noticed all the idolatry that surrounded our people.
+
+> Nor was he incapacitated either by defect of natural taste or of education from relishing the beauties or appreciating the value of such things. He had enjoyed a liberal education, had read their poets, and we have repeated instances of his quoting striking passages from them.
+
+- Because Paul was familiarized with the poets and so forth of that time.
+
+> But in Paul the Christian predominated over the philosopher and the critic. He plainly saw that with all their advantages they lacked the one thing needful, the knowledge of the true God and the enjoyment of his life-giving favor, without which all their luxury was but splendid misery.
+
+- All right, so you could drop that. I just wanted to show you about Athens. Alexandria in Egypt was the same as Athens. Wherever we were, we concentrated in those large cities, and we learned philosophies and so forth. Alexandria at that time, they had the largest library, and in Alexandria, that's where we had translated the Bible into the Septuagint. And there Ptolemy, he had our Bible translated into the Septuagint. I don't have that book with Josephus, where he specifically wanted the Bible translated, because they said that it was hidden wisdom in there. That's in the book of Josephus.
+
+- But let's get back. You still got that video for me, right? All right.
+
+</div>
+
+<div class="reading">
+
+Reading from *History of the Jews*, continued, on the Judeans of Alexandria  *[[51:59](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=3119s)]*
+
+> The Judeans were principally concentrated in Alexandria, second only to Rome in political importance and commerce, and to Athens in love of art and knowledge. Of the five divisions or districts of Alexandria, which were designated by the first letters of the Greek alphabet, the Judeans occupied nearly the whole of two. The district of the Delta, lying upon the seacoast, had indeed become an exclusively Judean colony, and its commanding position determined the occupation of its inhabitants.
+
+- All right, go get the next page please.
+
+> Judean artisans and skilled workmen were leagued in a kind of guild, and when labor was required in the temple of Jerusalem, the Alexandrian Judean community supplied the master hands. Moreover, the Alexandrian Judeans applied themselves to the Grecian arts of war and of statecraft. They acquired the melodious Greek tongue and made a profound study of Greek learning
+
+- So when you look at the New Testament and you see that Paul is talking to the Greeks, he's referring to us, the Jews. Because why?
+
+- Moreover the Alexandrian Judeans applied themselves to the Grecian arts of war. Why? Because we applied ourselves to the Grecian arts of war, the Grecian customs.
+
+- They acquired the melodious Greek tongue. So we acquired, tongue means what? Language. We acquired their language. And made a profound study of Greek learning, and we made that profound study of Greek learning.
+
+> Many of them reading and understanding Homer and Plato as easily as the Books of Moses and the writings of King Solomon.
+
+- So that's what we were reading, Homer and Plato at that time. Jump down to the Alexandrian community, and then we're going to get off this page.
+
+> The Alexandrian community was looked upon as the center of the Judean colony in Egypt, and other Judean colonies, and even Judea herself, were glad to lean at times upon this firm pillar of Judaism.
+
+- All right, you can drop that. Give me Second Maccabees. So what we still dealing with is the colonies, the settlements that we had in Egypt during the time of Christ's birth. Why the angel told Joseph to flee into Egypt? Why? Because we had settlements there already. Our people was already there. He's not gonna just tell them to flee into Egypt amongst just the Egyptians. No, we had settlements there. Our people was there.
+
+</div>
+
+**[2 Maccabees 1:1-6](/bible/2-maccabees/1#v1)**  *[[54:51](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=3291s)]*
+
+> <sup>[1](/bible/2-maccabees/1#v1)</sup> The brethren, the Jews that be at Jerusalem and in the land of Judea, wish unto the brethren, the Jews that are throughout Egypt health and peace:
+
+- Throughout where? Egypt. Throughout Egypt.
+
+> <sup>[2](/bible/2-maccabees/1#v2)</sup> God be gracious unto you, and remember his covenant that he made with Abraham, Isaac, and Jacob, his faithful servants;
+>
+> <sup>[3](/bible/2-maccabees/1#v3)</sup> And give you all an heart to serve him, and to do his will, with a good courage and a willing mind;
+>
+> <sup>[4](/bible/2-maccabees/1#v4)</sup> And open your hearts in his law and commandments, and send you peace,
+>
+> <sup>[5](/bible/2-maccabees/1#v5)</sup> And hear your prayers, and be at one with you, and never forsake you in time of trouble.
+>
+> <sup>[6](/bible/2-maccabees/1#v6)</sup> And now we be here praying for you.
+
+- All right, all praises. From there, now let's get back. Let me see if there's anything else I had. Blow it up, let me see a little bit. Moses, same thing with Christ. Do you see the first page of this one that says the foretelling of Moses? You don't have it. That's right.
+
+- Hey, go back to Matthew chapter two again. Matter of fact, no, give me the video. Give me the video real quick. Because remember, we read about us fleeing into Egypt during the time in the Babylonian captivity. Play the video.
+
+<div class="reading">
+
+Reading from a video interview, Harry Rosenberg with Remy Ilona, on the Igbo and the tribes of Israel  *[[56:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=3400s)]*
+
+> I'm Harry Rosenberg, and this is Remy Ilona.
+>
+> From Florida, studying at the Florida International University, but he comes from Nigeria, from the Igbo tribe, otherwise pronounced Igbo. And Remy's a scholar, was a lawyer in Nigeria, and dropped what he was doing to research the legend or the tradition in his tribe that they actually come from the, I wouldn't use the word the lost tribes of Israel, but I will, the lost tribes of Israel, from the scattered Israelites from 2,000 plus years ago.
+
+- Hey, pause it real quick. Y'all got the disclaimer, right? All right, good.
+
+- Don't think Esau is just there listening to the history that he's telling them. Oh, you think what Esau is doing? As soon as we say, yo, we know that we the Jews, Esau is there to say, okay, good, I'm going to teach you the Jewish customs. So if we say that we know we Jews, they're gonna come and teach us this nonsense right here. Put on what they call them, yarmulkes, and all that. Why? Because now they say they know they Jews; we got to do damage control before this thing gets out.
+
+- So don't think he's just sitting there listening to the history. He's going like, look, okay, you know you're a Jew, you got to put this on, you gotta do this and you gotta do that. They're not really there to help you build. Just like with the heathen in the land when Nehemiah came back: we serve your God too. Nah, y'all not building with us. No, you're not building.
+
+- But even though, Remy Ilona, he's not gonna tell him that, like, nah, we good. No, they're like, look, since we are all Jews together, let's all follow the same custom. Let us teach you how to be a true, you know you're a Jew, you want to become a Jew, let us teach you how to do that. That's what he there for. All right, go ahead.
+
+> Has done a lot of research and written a few books on the topic. The Igbo people number, I think, about 40 million people. So we're about to have a conversation, and I think it will get interesting. So you're saying that the Igbo are from the tribes of Israel. Now, are you saying this, or the people on the ground in Nigeria are also saying this?
+>
+> Everybody, Igbos say that Igbos came from Israel. The 40 million people say that they came from Israel. And an opinion poll has been done, that at least, a PhD studying Igbos, who's worked at the University of Pennsylvania, conducted an opinion poll. He interviewed 500 Igbos, some in Nigeria, some in Europe, some in America, some in Israel, and 497 say that they believe that Igbos came from Israel, and there are three
+
+- Pause it. So our people over in Nigeria, the so-called Igbos, they understand that they're the Jews. Even though they following white supremacy, as far as oral tradition, they understand that they're the Israelites. Play on.
+
+> And it was clear why they don't believe this: because they have the wrong notion, the wrong belief, that the people of Israel are white. They didn't know about the existence of the Ethiopian Jews, and they also did not take cognizance of the fact that a lot of Igbos could comfortably fall into the category of white people from their complexions.
+>
+> I understand. This is pretty fascinating.
+
+- Hey, fast forward a little bit right there.
+
+> The Igbo people have been circumcising their males on the eighth day since immemorial times.
+
+- So we've been practicing circumcision on the eighth day since immemorial time. That's what he's saying. Go ahead.
+
+> Fascinating. And then, you have a word for the Torah, for God, in your culture?
+
+- Hey, fast forward a little bit. I want to get straight to the point right there. Now go back just a little bit right there. Go back some more. Start right there.
+
+- Hey, go back, go back. Listen good. Listen good to what he just said.
+
+> The Judeans were exiled into Babylon, but not 100% of them went into Babylon. We even know some were left in the land. But a lot of them are exiled south into Africa as well.
+
+- Watch this.
+
+- Pause it. For the killing of Gedaliah. A lot of us fled into Egypt for the killing of Gedaliah. Go ahead.
+
+> Okay. And from Egypt you can trace your travels all the way throughout Africa, where you ended up in Nigeria. How many years ago?
+>
+> We have been in Nigeria more than a thousand years, but I think we moved around, lived around North Africa and other parts of West Africa for at least a thousand years. And the roots are very, very clear.
+>
+> So here's where I'm going with this. So you left Israel at the time of the Babylonian exile; you were in Africa. So by the time that the Judeans returned to Israel with the second temple, with Ezra and Nehemiah, and came back, not all of them came back, but a large percentage did. They settled the land, and they started to codify the law and write down laws of Israel. And eventually a few hundred years later they redacted the laws, and they made an oral law, and this became what the Jewish law is today. But by the time that was all happening, you were already
+
+- All right, you could drop that. So what did he say? He said, listen: the so-called Igbos in Nigeria, what happened, they fled during the Babylonian captivity, after the killing of Gedaliah. They fled into Egypt, and then we trickled down until we got to Nigeria.
+
+- Now, we're going to take a quick break, and when I come back we're going to back that up with a book that we've been reading for a couple episodes now. All right, so let's take a break, and we'll see when we get back. Shalom.
+
+</div>
+
+*[[1:03:50](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=3830s)]* **Break.** Promos for the Isaiah 11 Ministry were played: a bishop calling for deacons, captains, officers and soldiers to volunteer to go from corners to countries gathering the twelve tribes of Israel, as Christ commanded in Matthew 28 and as Paul said, to preach the gospel in the regions beyond. "We have several schools in Canada. We are throughout the United States of America, and I give all praise to the Most High for that. Entering into Mexico, we have no foundations as yet. We have teaching but no foundation. The Most High just allowed us to open a school here in Ecuador, but we have no foundations in these areas. We need to get throughout Argentina and Chile. We have several schools on the continent of Africa, but that's not enough. We need more schools of the truth. Madagascar, even Zambia, Angola. We just started foundation here, the Democratic Republic of Congo. We also have Europe: no foundation in Spain as yet, one small school in France, Germany we need more. Australia, even, you've got some of our people in Australia. Indonesia, Sumatra, Vietnam. These regions have no Israelite foundations. Our people are scattered throughout these regions from the time of the sub-Saharan slave trade. Too much work to be done. So Israel, I need some volunteers. I need some of you mighty men to stand up." Then: "We want to thank you all for following Isaiah 11 Ministry. We're here to inform you that those local Sabbath classes will now be available in all languages. All of the classes from the bishops, deacons and captains will now be available in all languages. As it says in Isaiah chapter 11 verse 12, the Most High shall set up an ensign for the people." And Deacon Isaac, live in India: "Sole purpose for coming out here is to gather the elect of our brothers and sisters scattered into diaspora, Ever since 2003, the Most High in Christ moved the spirit of Bishop Nathanyel, the founder of IUIC, with one sole purpose, and that is to gather the elect of our people which are scattered throughout the four corners of the earth. One model that we follow in Israel United in Christ is vision, action and reality. So there's no more time to be fighting over a corner."
+
+*[[1:14:04](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=4444s)]* We're back from break. Hey, if you would like to call in, you could call in, ask any questions pertaining to the topic. Just call 267-702-6121. You can call in or you can text, 267-702-6121. But remember, it must be pertaining to the topic.
+
+Now we just dealt with us fleeing into Egypt and so forth. Now give me the page, just to back up what Remy Ilona was saying. We brought this out a couple of times. Now this book right here is called *West Africa and Its Peoples*. *West Africa and Its Peoples*, that's the name of this book.
+
+<div class="reading">
+
+Reading from *West Africa and Its Peoples* (1868), on the tribes of Israel migrating into Northern Africa  *[[1:15:52](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=4552s)]*
+
+> Northern Egypt then was the most known portion of the globe, and into it vast immigration took place from time to time, even to the most remote period.
+
+- So Northern Egypt, we always immigrated into Northern Egypt, to North Africa.
+
+> The ten tribes of Israel, after they were left to follow the dictates of their own mind, and during the commotion and destructive warfare which ensued, to escape utter extermination, migrated, according to the usage of the times, in vast numbers into various countries, but principally into Northern Africa
+
+- But principally into Northern Africa. So when you look at Matthew 2:13, that was always an escape route for us. Northern Egypt, into northeast Africa, was always an escape route. Before the Suez Canal was built, let me throw that in there. Before the Suez Canal was built, we could walk right into Egypt. That's why when we look at the Book of Luke chapter 21 verse 24, Christ said flee into the mountains. What is he referring to? He's referring to Egypt.
+
+> As it then presented the safest and easiest route.
+
+- It was quick to get there. Why? Because our land is in where? Northeast Africa. It's right there.
+
+> Once settled, every commotion and intestine war had the most powerful effect of inducing these bands to shift their abode still further
+
+- So like Remy Ilona was saying in the video, he said, remember during the time of Gedaliah, when we assassinated Gedaliah, we fled into Egypt. But like he said, we still shifted down further into Africa.
+
+> And so lose all connection with the other branch of the tribe
+
+- So as we shifted further and further down into Africa, we started losing our customs. We started losing connection with the rest of the tribes.
+
+> As hundreds of years pass on
+
+- So as generations pass on, what happened?
+
+> And generation after generation roll away, they lose a great many of their habits and customs, becoming more amalgamated with the population with which they associate.
+
+- Like who? The Hamites. Give me Psalms 106. The word amalgamated means the same as assimilated.
+
+</div>
+
+**[Psalms 106:35](/bible/psalms/106#v35)**  *[[1:18:32](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=4712s)]*
+
+> <sup>[35](/bible/psalms/106#v35)</sup> But were mingled among the heathen, and learned their works.
+
+- So as we shifted our abode further and further down into Africa, we started becoming more and more mingled among the Hamites.
+
+- And learned their what? And learned their works. So that's why when you look at the slave trade, when you look at some advertisements of runaway slaves, guess what they got on their faces? A lot of times you'll see, oh, so-and-so had a tribal scar on his face. So-and-so had tribal scars or marks on their back. So-and-so had a tribal scar across his forehead. Why? Because the Hamites were the ones who would put those marks on them.
+
+- That's why the Lord told us in the law not to make any markings in our flesh. Why? Because the Egyptians was doing that. All the Hamites was making markings in their flesh. And guess what, once we became mingled among them, once we started going further and further into Africa, we did the same thing. That's why on the ships and on the runaway advertisements of us, when they described us that ran away, you would see so-and-so had markings on his face, three tribal scars on the face. That's because, read it again: we learned the heathen works. You pulled that up? You can show that.
+
+- **Officer:** Our people still dealing with these tribal scars and so forth. Even northern kingdom, they learned that custom before they came over here. That's why they was doing that in this land as well.
+
+- **Officer Jazz:** Yes, exactly. Hey, do me a favor, try to find a runaway slave advertisement with scars. Look that up. I know we strayed away a little bit; we're going to get back to the birth of Christ. Blow that up. Watch this, just to prove my point. Oh, we have a call. Then we're going to take the call.
+
+<div class="reading">
+
+Reading from runaway slave advertisements, pulled up on air  *[[1:20:55](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=4855s)]*
+
+> Runaway from the subscriber, near Clinton, Greene County, Alabama, my negro boy named Fagans, who is heavy built, about five feet eight or ten inches high, near 35 years old, has a heavy black beard, large and long forehead, thin visage, a remarkable long sharp nose, and having lost one of his front teeth. Any person who will catch
+
+- They don't say nothing about a scar. Get out of that. Oh snap. Give me one with a scar, bro. Get one with a tribal scar or something. Go all the way to the top again. Go to the next column, first one.
+
+- **Officer:** Let's talk about him getting whipped though.
+
+- **Officer Jazz:** All right, so they don't have it. But anyway, like I said before, there was runaway slave advertising with us having tribal scars on our face. But like I said, that came because, read it again, and then we're going to take the call.
+
+</div>
+
+**[Psalms 106:35-36](/bible/psalms/106#v35)**  *[[1:22:39](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=4959s)]*
+
+> <sup>[35](/bible/psalms/106#v35)</sup> But were mingled among the heathen, and learned their works.
+
+- So we were mingled among the heathen and learned their works.
+
+> <sup>[36](/bible/psalms/106#v36)</sup> And they served their idols: which were a snare unto them.
+
+- Oh, all right, here we go. Thank you.
+
+<div class="reading">
+
+Reading from a second runaway slave advertisement  *[[1:22:58](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=4978s)]*
+
+> Runaway or stolen from the subscriber, living in Morehouse Parish, Louisiana, a negro man named Jerry, about 35 or 40 years of age, very black, about five feet eight inches high, very intelligent, having full eyes and a scar on the right side of his neck from one to six inches long. I will give a reward of fifty dollars for apprehending and keeping, or for lodging in jail, said negro.
+
+- Yeah, man. What is this, man, that scar on his neck? Probably from his slave master. All right, that's it, drop that. Get the call real quick.
+
+</div>
+
+*[[1:23:50](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5030s)]* **Text:** Shalom. I am from the Germany camp, and I just want to say that I've been watching the show for the last couple years now. I love history, but this is history I've never known, and I want to thank you guys for bringing this out and making this known.
+
+**Officer Jazz:** Oh, praises, man. All praises, brother. Hey, shout out to Germany camp also, man. All praises. All right, hold it down. Thank you. All praise to the Most High. Shalom.
+
+*[[1:24:09](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5049s)]* All right, so let's get back to the first page. Y'all killing me, man, you finding scars on people's backs.
+
+**Officer:** He was in the house the whole time. He don't know what they look like.
+
+**Officer Jazz:** You say he was in the household, he was around master the whole time, he don't know what scars look like right now, man. He never had that treatment. Damn, y'all crazy, man.
+
+<div class="reading">
+
+Reading from *West Africa and Its Peoples*, continued  *[[1:25:01](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5101s)]*
+
+> As hundreds of years pass on, and generation after generation roll away, they lose a great many of their habits and customs, becoming more amalgamated with the population with which they associate.
+
+> But when … overspread Northern Africa, destroying by fire and sword all those of another religion, the Israelite descendants, or the inhabitants occupying the central portion of Africa, pressed forward, seeking shelter to the south and west. A part, namely those from the east central, crossing the Benue or Joliba branch of the … River
+
+- Now the Benue or Joliba branch of the … River, it splits off in Nigeria. Like Remy Ilona said, we fled down into Nigeria. Also the Yoruba, they're of northern kingdom, predominantly northern kingdom. The Igbo, so-called Igbos, are predominantly southern kingdom. But we both fled into Nigeria and spread out abroad. That's what he was telling us.
+
+> Protected from incursion on the north by the Benue River, and quietly settled between the great … and Old Calabar Rivers.
+
+- Look up the Old Calabar River real quick, and then we got to get back. Old Calabar River, we brought this out a couple episodes ago. I just want to recap. Blow it up. All right, so you see Nigeria. You see the Benue River. Circle that; that's the Benue River. And you see the …, and if it goes down, that is the Joliba River. And go down to Calabar. You see Calabar? There's Calabar. Letting you know that's where we fled to. We went into Nigeria, the ten tribes and also the southern kingdom. So that's what Remy Ilona was saying. So the book I just read from, that's from 1868, just to land back on what he was talking about.
+
+- All right, let's get out of that. Let's go back to Matthew 2:13. I know we took you the long way, but we coming back.
+
+</div>
+
+**[Matthew 2:13-16](/bible/matthew/2#v13)**  *[[1:27:30](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5250s)]*
+
+> <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
+>
+> <sup>[14](/bible/matthew/2#v14)</sup> When he arose, he took the young child and his mother by night, and departed into Egypt:
+>
+> <sup>[15](/bible/matthew/2#v15)</sup> And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
+
+> <sup>[16](/bible/matthew/2#v16)</sup> Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
+
+- Now we want to deal with Herod putting the children to death from two years old and under. Letting you know Christ was what age at this time? He started at two. He went from two years old and under.
+
+- Now give me the page. Go to the Telegram. That page right there. So this is called the massacre of the innocents. They call it the massacre of the innocents. So we're going to bring up the historical documents of the massacre of the innocents. Go back to 85. Start at the bottom of 85.
+
+<div class="reading">
+
+Reading from a book on the massacre of the innocents (its title isn't named on air), from page 85  *[[1:29:54](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5394s)]*
+
+> There is also a noted passage of Macrobius, a heathen author who flourished near the end of the fourth century, who among other jests of Augustus has this: when he had heard that among the children within two years of age which Herod, king of the Jews, commanded to be slain in Syria, his own son had been killed, he said, it is better to be Herod's hog than his son.
+
+- So during this time, Herod didn't even trust his own son. He killed his own son during this time. That's why, when the news got back to Augustus Caesar, he said it's better to be Herod's hog than his son, because he put his own son to death.
+
+> Upon which I then said, I lay little or no stress upon this passage, because it comes too late, partly because there is reason to suppose that Macrobius has been mistaken upon the occasion of the jest. No early Christian writers have said anything of Herod's having a young child of his own killed in the slaughter of Bethlehem. If Augustus did pass this jest upon Herod, it might be occasioned by the death of Antipater, or rather of Alexander and Aristobulus. That is what I said of this passage in the first edition.
+
+- So there's an argument going on here. Now you see the little footnotes, the references at the bottom. Blow it up.
+
+> The slaughter of the children in Bethlehem as an historical fact in Saint Matthew's gospel vindicated
+
+- So they know that the slaughter of the children is an historical fact that happened.
+
+> And the suspected Christianity of Macrobius, who also mentions the same facts, disproved, et cetera, at the end of the Bishop of Coventry and Lichfield's Vindication of Christianity in 1728.
+
+- So Macrobius do mention the same fact. Now get the next page. Go back up.
+
+> I would now ask, it ought to be allowed that Augustus did pass this jest on Herod upon some occasion or other
+
+- See, so they know. Even though Esau, they slick with this. They try to do a little argument: we don't know if it happened. Then they'll come out and say, yeah, it happened. That's how they get down. They wanna confuse you and have you in doubt. But it's an historical fact that it happened. They want to have you in doubt that the Bible is a myth. That's the whole point of this.
+
+> And that Macrobius has given us the words of the jest. This passage also shows that Herod's slaughter of the infants in Judea was a thing well known
+
+> This passage also shows that Herod's slaughter of the infants in Judea was a thing well known in the time of Macrobius, and was not contested by heathen people.
+
+- Because they know it happened. It happened.
+
+> If we could be assured that Macrobius transcribed this whole passage, not only the jest itself, but the occasion of it likewise, from some more ancient author, it would be a proof that this event was known in that author's time also, and we should have a great deal of reason to suppose that author to have been a heathen, because it is likely that Macrobius, a bigoted heathen himself, did not much deal in Christian writers.
+
+- Go down. All right, so that's all I want from that. So it is an historical fact that Herod killed his own son, and he slaughtered the infants two years old and under. *[[1:34:36](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5676s)]* Why? Because he was trying to kill Christ. Why? Because he knew that a deliverer was coming.
+
+- Now this same thing happened during the time of Moses. The same situation happened during the time of Moses, in ancient Egypt. Pharaoh understood that there was a deliverer coming to do what? Save the nation of Israel. So let's read about that.
+
+</div>
+
+<div class="reading">
+
+Reading from *Babylon Timbuktu* (as it is named on air), on the foretelling of Moses  *[[1:35:06](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5706s)]*
+
+> One of the kings of the 18th or 19th dynasties was informed by his astrologer
+
+- So one of the pharaohs was informed by his astrologers. His witches.
+
+> Or sacred scribe, that a child would be born to the Hebrew nation; if he were permitted to live
+
+- If he were permitted to live.
+
+> He would bring the Egyptian kingdom to a low condition. The child was born; his name was Moses. He was reared in a miraculous way in Pharaoh's own palace by his daughter. The plot to destroy Moses in his infancy failed.
+
+- So just like the plot to destroy Christ in his infancy failed, the same thing happened. Why? Because the witches, the astrologers and so forth, they understand that, yo, there's a deliverer coming to save these people out of their captivity. We gotta kill them. We gotta kill all the males. Why? Because we gotta pass on the seed.
+
+- **Officer:** I was gonna say, that's why the scripture says there's no counsel against the Lord. They plotting to destroy the savior, and then they end up raising the savior in their own house.
+
+- **Officer Jazz:** Right, right. Exactly.
+
+> The daughter of Pharaoh adopted Moses as her son. She came to her father and said, I've brought up a child who was of a divine form and of a generous mind, and as I have received him from the bounty of the river in a wonderful manner, I thought it proper to adopt him for my son and the heir of thy kingdom.
+
+> When she put the child into Pharaoh's hand, he hugged the child
+
+- Watch this, listen good. He hugged the child.
+
+> And put his diadem upon his head, but Moses cast down the diadem to the ground
+
+- He threw that crown down, man. Get that thing out of here. Remember, he's an infant.
+
+> And in a childish mood he twisted it around and stamped upon it.
+
+- Damn.
+
+> The sacred scribes saw all of this
+
+- So the sacred scribe, he's looking like, yo, you know, got his eyes fixed on him. Like, yo, who the hell is this?
+
+> He was the same astrologer who foretold that Moses's birth would bring down the Egyptian kingdom.
+
+- So now he on it. Like, yo, this is, oh snap, this is the baby I saw in my dreams and so forth.
+
+> Because of this, the astrologer cried out in a terrifying manner, saying
+
+- So he snapping right now.
+
+> This, O king, this child is he of whom God foretold, that if we kill him we shall be in no danger.
+
+- So think about it. That's what Herod wanted to do. He wanted to get rid of Christ, and he was seeking him. Remember, it says he inquired diligently. Why? Because he understood the prophecy. They read the prophecies. When the wise men came, they read the prophecies to him. Like, oh yeah, this is he that's foretold, being born in Bethlehem of Judah.
+
+> He himself affords an attestation to the prediction of the same thing, by his trampling upon thy government and treading upon thy diadem. The astrologer advocated to have Moses executed, in order to free the Egyptians from fear and to deprive the Hebrews of hope and freedom.
+
+- You see that? To deprive us of hope and freedom. Think about it, same thing Herod wanted to do: to deprive us of hope and freedom, of a savior coming back to save our people out of captivity. Let me see if there's any more.
+
+> At this intense moment the daughter of Pharaoh took the child quietly, because the king loved his daughter; he was not disposed to hurt her. When events arrived at this juncture, the divine providence protected Moses, prevailing upon the king to spare him. Moses was educated, as Josephus says, and it is highly probable that he received the best education the ancient world could give.
+
+- You could drop that. So even when you bring it up to today: remember, they put abortions in our hoods and our communities and so forth. The Planned Parenthood abortions and so forth. Remember, since 1973, was it 19 million? Our women aborted about 19 million babies since 1973. You think they didn't have the same plan? Why? Because they knew saviors was coming. Give me that Obadiah. You think Esau already ten steps ahead of us, man. Remember, the mind of every one of them is deep. Don't think the same thing that happened then don't happen during our time. Obadiah verse 21.
+
+</div>
+
+**[Obadiah 1:21](/bible/obadiah/1#v21)**  *[[1:39:54](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=5994s)]*
+
+> <sup>[21](/bible/obadiah/1#v21)</sup> And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord’s.
+
+- So it says saviors. Saviors shall come, meaning plural saviors. There's going to be many saviors that's going to come back and judge. What shall they judge? The mount of Esau. Shall judge the mount of Esau, the so-called white man.
+
+- And the kingdom shall be the Lord's. So you think they knew that saviors was gonna come back in this time also. Now there's a comedian; he said, if you were born in the 80s, then you a Spartan. Why? Because what was put out? Drugs, AIDS, everything to put us to sleep, so that saviors wouldn't come back. But guess what, saviors made it out of those drugs and the AIDS and all those epidemics and so forth that he was putting upon our people. So he said if you were born in the 80s, you are a Spartan. So even though they try to destroy us during this time, guess what, the saviors are back.
+
+- **Officer:** That's right. That's right.
+
+- **Officer Jazz:** The saviors are back. All praise the Most High for that. All right, so now let's go back to Matthew 2:13.
+
+**[Matthew 2:13](/bible/matthew/2#v13)**  *[[1:41:20](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6080s)]*
+
+> <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
+
+- Hey, give me, remember that page I brought out a couple weeks ago about abortions, *Caesar and Christ*. It was called infanticide, or something like that. You got it?
+
+- *[[1:42:18](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6138s)]* So now we about to shift gears, and we're about to get into the virgin birth. I just wanted to deal with Matthew 2:13, of the angel telling Joseph to flee into Egypt. So now we're about to shift gears, about to switch it up and go into the virgin birth.
+
+<div class="reading">
+
+Reading from *Caesar and Christ*, on the dispersion and on infanticide  *[[1:42:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6160s)]*
+
+> The flight or enslavement of a million Jews so accelerated their spread through the Mediterranean that their scholars came to date the diaspora from the destruction of Herod's Temple. We have seen that this dispersion had begun six centuries before, in the Babylonian captivity
+
+- So we've been reading about that.
+
+> And had been renewed in the settling of Alexandria
+
+- So we brought that out also, about us fleeing into Egypt.
+
+> Since fertility was commanded
+
+- So since the Most High told us to do what? Multiply. Replenish the earth and multiply. So since fertility was what? Commanded.
+
+> And infanticide sternly forbidden by Jewish piety and law
+
+- Look up infanticide. Let's look up infanticide.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of infanticide, looked up on air  *[[1:43:57](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6237s)]*
+
+> Infanticide: the crime of killing a child within a year of its birth
+
+- Damn. So he was killing within a year of birth. Remember, we sacrificed to Molech. This is all under the guise of abortions. Abortions.
+
+> And in some legal jurisdictions specifically by the mother.
+
+- Specifically by the mother. Today abortions is specifically geared towards who? The mother. I forgot, Captain brought out on his Man Up Mondays class about abortions, who coined the phrase my body, my choice. It was coined by an Edomite. Look that up real quick. Go ahead, you got something?
+
+- **Officer:** No, I was trying to remember it. Yeah, it was the godfather of abortion. Edomite man.
+
+- **Officer Jazz:** Yep. Click on my body my choice.
+
+</div>
+
+<div class="reading">
+
+Reading from search results on "my body, my choice"  *[[1:45:20](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6320s)]*
+
+> My body, my choice is a feminist slogan
+
+- It's a what? Feminist slogan. It's a feminist slogan.
+
+> Used in several countries, most often surrounding issues of bodily autonomy and abortion.
+
+> Feminists usually defend an individual's right of self-determination over their bodies for sexual, marriage and reproductive choices as rights.
+
+> The slogan has been used around the world and translated into many different languages. The use of the slogan has caused different types of controversy in different countries, and is often used as a rallying cry during protests and demonstrations, and or to bring attention to different feminist issues.
+
+- Now go to who it was coined by.
+
+- **Officer:** I forgot the name. I'm looking for it as well.
+
+- **Officer Jazz:** Go down, let me see. All right, you could drop that. Somebody find it for me. All right, go back. Read that about infanticide.
+
+</div>
+
+<div class="reading">
+
+Reading from *Caesar and Christ*, continued  *[[1:46:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6400s)]*
+
+> And infanticide sternly forbidden by Jewish piety and law
+
+- So infanticide is abortion. That's what infanticide is. So that was forbidden for us, to have abortions. That was forbidden for us to have abortions. We were commanded to have children.
+
+> The expansion of the Jews was due to biological as well as economic causes. Hebrews still played a very minor role in the commerce of the world.
+
+- All right, you could drop that. Now go back to Matthew chapter one. Let's get into the virgin birth. What time is it? All right, 3:01. Matthew chapter one, verse 16.
+
+</div>
+
+**[Matthew 1:16-18](/bible/matthew/1#v16)**  *[[1:47:53](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6473s)]*
+
+> <sup>[16](/bible/matthew/1#v16)</sup> And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+
+- So read verse 16 again. And Jacob begat Joseph, the husband of Mary. Of whom was born who? Of Joseph and Mary.
+
+> <sup>[17](/bible/matthew/1#v17)</sup> So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
+
+- So guess what, we was always in captivity. Always in captivity. How about a scripture saying, is Israel a homeborn slave, in Jeremiah. We stayed in captivity, man. So it was needful for us to have a savior. Just like today, we're in captivity; we are waiting for Christ to come back and deliver us out of this captivity.
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+
+- So now the birth of Christ was on this wise. Look up the word espoused.
+
+<div class="reading">
+
+Reading from a definition of espoused, looked up on air  *[[1:49:30](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6570s)]*
+
+> Espoused: embraced or adopted, as an idea, principle or cause. Archaic: married.
+
+- Now the birth, it says the birth of Jesus Christ is on this wise: when as his mother Mary was married to Joseph. Before they came together, she was found with child of the Holy Ghost.
+
+- What does it mean, before they came together? Before they got married, they had wedding chambers. The wedding chamber. Meaning, before they had a wedding feast. Before they had a wedding feast. Go to Judges 15:1, about the wedding chamber.
+
+</div>
+
+**[Judges 15:1](/bible/judges/15#v1)**  *[[1:50:21](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6621s)]*
+
+> <sup>[1](/bible/judges/15#v1)</sup> But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
+
+- So we had wedding chambers. So that's what it means: before they went into the wedding chamber, before they had the wedding feast, Joseph and Mary had already had sex. Before they had the wedding feast, before they was able to go into the wedding chamber. That's what it means, before they came together. Go back to Matthew chapter one, verse 18 again.
+
+**[Matthew 1:18](/bible/matthew/1#v18)**  *[[1:51:15](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6675s)]*
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+
+- She was found with child of the Holy Ghost. So let's see who else had the Holy Ghost on them. Because you know what we always do with Christ: oh, Mary, it was a virgin birth. Mary and Joseph, she had Christ by the Holy Ghost. But watch this, let's see who else had the Holy Ghost on them. Give me the Book of Luke. Because we never talk about John having the Holy Ghost; we always referring to Christ. But John also had the Holy Ghost upon him. Verse 41.
+
+**[Luke 1:41-44](/bible/luke/1#v41)**  *[[1:52:21](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6741s)]*
+
+> <sup>[41](/bible/luke/1#v41)</sup> And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:
+
+- She was filled with what? The Holy Ghost. So Elizabeth, John's mother, was also filled with the Holy Ghost. She was also filled with the Holy Ghost, just like Mary was filled with the Holy Ghost.
+
+- So Elizabeth, just like Mary, was also filled with the Holy Ghost.
+
+> <sup>[42](/bible/luke/1#v42)</sup> And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb.
+>
+> <sup>[43](/bible/luke/1#v43)</sup> And whence is this to me, that the mother of my Lord should come to me?
+>
+> <sup>[44](/bible/luke/1#v44)</sup> For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.
+
+- Hey, hold on, hold on, hold on. Give me Luke chapter 1, verse 13. Start at 13. That's what I wanted.
+
+**[Luke 1:13-27](/bible/luke/1#v13)**  *[[1:53:18](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=6798s)]*
+
+> <sup>[13](/bible/luke/1#v13)</sup> But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.
+>
+> <sup>[14](/bible/luke/1#v14)</sup> And thou shalt have joy and gladness; and many shall rejoice at his birth.
+
+> <sup>[15](/bible/luke/1#v15)</sup> For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb.
+
+- And he shall be filled with what? With the Holy Ghost. You see that? And John, this is referring to John the Baptist. He also was filled with the Holy Ghost.
+
+- John also was filled with the Holy Ghost.
+
+> <sup>[16](/bible/luke/1#v16)</sup> And many of the children of Israel shall he turn to the Lord their God.
+
+- You see that? Many of the children of Israel. No other nation. Shall he turn to the Most High God.
+
+> <sup>[17](/bible/luke/1#v17)</sup> And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
+>
+> <sup>[18](/bible/luke/1#v18)</sup> And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.
+>
+> <sup>[19](/bible/luke/1#v19)</sup> And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.
+
+- Hey, give me where's the performance. I think verse 20. Read verse 20.
+
+> <sup>[20](/bible/luke/1#v20)</sup> And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season.
+
+- How? Sex. Sex.
+
+> <sup>[21](/bible/luke/1#v21)</sup> And the people waited for Zacharias, and marvelled that he tarried so long in the temple.
+>
+> <sup>[22](/bible/luke/1#v22)</sup> And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.
+>
+> <sup>[23](/bible/luke/1#v23)</sup> And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house.
+>
+> <sup>[24](/bible/luke/1#v24)</sup> And after those days his wife Elisabeth conceived, and hid herself five months, saying,
+
+- Look, how did she conceive? Remember, there had to be a performance. Of what? They had to have sex.
+
+> <sup>[25](/bible/luke/1#v25)</sup> Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.
+>
+> <sup>[26](/bible/luke/1#v26)</sup> And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,
+>
+> <sup>[27](/bible/luke/1#v27)</sup> To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.
+
+- What does it mean, virgin? What does it mean, virgin? Virgin just mean a young woman. Give me Isaiah.
+
+**[Isaiah 7:14](/bible/isaiah/7#v14)**  *[[1:57:26](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7046s)]*
+
+> <sup>[14](/bible/isaiah/7#v14)</sup> Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
+
+- Meaning a young woman. Give me Lamentations 2:1.
+
+**[Lamentations 2:1-3](/bible/lamentations/2#v1)**  *[[1:57:48](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7068s)]*
+
+> <sup>[1](/bible/lamentations/2#v1)</sup> How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
+>
+> <sup>[2](/bible/lamentations/2#v2)</sup> The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.
+>
+> <sup>[3](/bible/lamentations/2#v3)</sup> He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.
+
+- Lamentations 2:21. 2:21, that's my fault.
+
+**[Lamentations 2:21](/bible/lamentations/2#v21)**  *[[1:58:36](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7116s)]*
+
+> <sup>[21](/bible/lamentations/2#v21)</sup> The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied.
+
+- You see that? My virgins and my young men. So virgin's just a young woman. Virgin just means a young woman.
+
+- Go back to Matthew 1:18 again. So thus far we showed you that John the Baptist also was filled with the Holy Ghost, just like Christ was filled with the Holy Ghost.
+
+**[Matthew 1:18-21](/bible/matthew/1#v18)**  *[[1:59:04](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7144s)]*
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+>
+> <sup>[19](/bible/matthew/1#v19)</sup> Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.
+
+> <sup>[20](/bible/matthew/1#v20)</sup> But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
+>
+> <sup>[21](/bible/matthew/1#v21)</sup> And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
+
+- So he should save his people from their sins. One second, one second. What does it mean, he didn't want to make her a public example? Give me Deuteronomy 22. Start at verse 13.
+
+**[Deuteronomy 22:13-21](/bible/deuteronomy/22#v13)**  *[[2:00:06](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7206s)]*
+
+> <sup>[13](/bible/deuteronomy/22#v13)</sup> If any man take a wife, and go in unto her, and hate her,
+>
+> <sup>[14](/bible/deuteronomy/22#v14)</sup> And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:
+>
+> <sup>[15](/bible/deuteronomy/22#v15)</sup> Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel’s virginity unto the elders of the city in the gate:
+
+- So in the wedding chamber, when we had a wedding feast, we had a wedding chamber, and in the wedding chamber that's where you supposed to have sex. Why? To consummate the marriage. Now after that, you're supposed to show a token, proof of her virginity. So you bring out the tokens of her virginity. You show it to the elders. They know: all right, she was definitely a virgin.
+
+> <sup>[16](/bible/deuteronomy/22#v16)</sup> And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;
+>
+> <sup>[17](/bible/deuteronomy/22#v17)</sup> And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city.
+
+- So in this case, this man hated her. Since he hated her, he's trying to make her a public example by saying, look, she's a … So guess what, the mother and her parents, like, look, we got the tokens of virginity, that she's not a … So they show them proof.
+
+> <sup>[18](/bible/deuteronomy/22#v18)</sup> And the elders of that city shall take that man and chastise him;
+>
+> <sup>[19](/bible/deuteronomy/22#v19)</sup> And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
+
+- So if she's able to show proof that she is a virgin, then he will get chastised for that thing.
+
+- Verse 20. Read it right.
+
+> <sup>[20](/bible/deuteronomy/22#v20)</sup> But if this thing be true, and the tokens of virginity be not found for the damsel:
+>
+> <sup>[21](/bible/deuteronomy/22#v21)</sup> Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you.
+
+- So now that's why Joseph's whole thought process is that, damn, we already done had sex before the wedding. Before the wedding feast. Before I even had going into the wedding chamber to consummate the marriage. So he said he didn't want to make a public example. Why? According to this law. Because you have to show the tokens of virginity, but he already had sex with her. So that's why the angel said, don't worry about none of that. You already done did everything according to the law.
+
+- All right, so now go back. Matthew, verse 19.
+
+**[Matthew 1:19-21](/bible/matthew/1#v19)**  *[[2:03:40](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7420s)]*
+
+> <sup>[19](/bible/matthew/1#v19)</sup> Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.
+
+- So he's gonna put her away privily. Because why? They didn't have the wedding feast. They already done had sex before the wedding feast, and before they came together to consummate the marriage. So he didn't want to make a public example, because why? You coming to the elders; they want to see proof.
+
+> <sup>[20](/bible/matthew/1#v20)</sup> But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
+>
+> <sup>[21](/bible/matthew/1#v21)</sup> And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
+
+- For he should save his people. All right, now give me the book. Go back to *Caesar and Christ*. Because this is a heavy doctrine in the Christian church, about the virgin birth: that Christ did not have a father, that Christ did not have a biological father. So blow that up. I gotta look, because I had it underlined. Go back to 559. Yeah, that's it. Start from not so awkward.
+
+<div class="reading">
+
+Reading from *Caesar and Christ*, page 559, on the virgin birth  *[[2:05:21](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7521s)]*
+
+> Not so awkward are the stories, chiefly contained in the apocryphal or uncanonical gospels, about the birth of Christ in a cave or stable, the adoration of the shepherds and the Magi, the massacre of the innocents, and the flight into Egypt. The mature mind will not resent this popular poetry.
+
+> The virgin birth is not mentioned by Paul or John
+
+- So the virgin birth is not mentioned at all by Paul or John.
+
+> And Matthew and Luke, who trace Jesus back to David through Joseph
+
+- Through who? Through Joseph.
+
+- So you won't hear Paul or John talking about anything about a virgin birth happening, when Mary just got pregnant on her own. So we understood, Matthew, Luke, Paul, John, we understood that Christ had a father, that Christ had his lineage through King David.
+
+> By conflicting genealogies. Apparently the belief in the virgin birth rose later than that in the Davidic descent.
+
+- You see that? So that rose up later on. That came later on. Give me the other book. Give me the book called The Birth of Jesus Christ. So we're going to show you the scholars understood that Christ had a father.
+
+</div>
+
+<div class="reading">
+
+Reading from the book called *The Birth of Jesus Christ*, on the birthplace and family of Jesus  *[[2:07:12](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7632s)]*
+
+> Birthplace and family of Jesus. Anyone who wishes to answer the questions, where was Jesus born, who were his parents, to what family did he belong, what was taught amongst his disciples and amongst the generation that lived after his death as to his higher origin, is usually accustomed in the first place to adhere closely to the story handed down to us in the first chapters of the first and of the third gospel, and certainly without good reason.
+
+- Go to the next page.
+
+> Mark does not now contain any traces to show that Jesus was derived from any other place but Nazareth and Galilee. His statements, whether taken together or separately, exclude the idea of a supernatural origin.
+
+- It never happened.
+
+- **Officer:** Hey officer, real quick, can we touch that conceived part real quick? Go to Leviticus chapter 12, and then just jump straight to Leviticus 15:16 real quick. Just those two.
+
+</div>
+
+**[Leviticus 12:1-2](/bible/leviticus/12#v1)**  *[[2:08:33](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7713s)]*
+
+> <sup>[1](/bible/leviticus/12#v1)</sup> And the Lord spake unto Moses, saying,
+>
+> <sup>[2](/bible/leviticus/12#v2)</sup> Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.
+
+- **Officer:** If a woman has done what? Conceived seed. Conceived seed. Conceived seed: where does that seed come from? Leviticus 15:16. And real quick, IT, if you can just look up the definition of copulation.
+
+- **Officer Jazz:** Hey, and after that, we're gonna go back and look up Holy Ghost.
+
+- **Officer:** Hey, my man, look what they spell. Compilation. See what I mean? Copulation.
+
+- **Officer Jazz:** Who back there, bro? Light-skinned brothers supposed to be smart. Damn.
+
+**[Leviticus 15:16](/bible/leviticus/15#v16)**  *[[2:09:46](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7786s)]*
+
+> <sup>[16](/bible/leviticus/15#v16)</sup> And if any man’s seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.
+
+- **Officer:** The seed of copulation. That seed is sperm. So if a woman conceived seed, meaning she took the seed, that means that they had to have sex. It says the seed of copulation. Now watch this: copulation, what's the definition say?
+
+<div class="reading">
+
+Reading from a definition of copulation, looked up on air  *[[2:10:09](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7809s)]*
+
+> Copulation: sexual intercourse.
+
+- **Officer:** It's plain and simple. Plain and simple. And we're gonna get a couple of scriptures.
+
+- **Officer Jazz:** All right, now go back to the book. Read that again.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Birth of Jesus Christ*, continued  *[[2:10:26](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=7826s)]*
+
+> Mark does not now contain any traces to show that Jesus was derived from any other place but Nazareth and Galilee. His statements, whether taken together or separately, exclude the idea of a supernatural origin.
+
+- You would not find that in the gospels. It's not there. Next page.
+
+> Mark chapter 6, verse 1, tells us that when Jesus came into his native town
+
+- So this scholar about to start quoting the scriptures to prove that Christ had a father.
+
+> Nazareth, the people marveled at his teaching and works, and said, Is not this the carpenter, the son of Mary, and brother of James and Joseph and Judas and Simon? And are not his sisters here with us? And Jesus spoke to them in such a way as to corroborate these suggestions.
+
+- Now jump down.
+
+> How could Mark have written in this way, have been able to preserve this record without objection being raised, if Jesus was generally believed to have arisen out of Bethlehem, and to have been a son of the Holy Spirit?
+
+- So he's saying, how could Mark have written this way, where he's showing a whole family of Christ, and not to show that he was the son of a holy spirit? It don't make sense.
+
+> It is precisely this latter idea that is so completely excluded by the earlier information supplied in Mark chapter 3. When the intention of Jesus was called to the presence of his mother and his brethren, who were familiar figures in Capernaum, they were not repudiated by him on account of doubtful relationship, but because whosoever shall do the will of God is his brother and sister and mother, chapter 3, verse 35.
+
+- Watch this.
+
+> Had he been of supernatural origin, the people, who were unable to explain his wonderful work as a prophet, would certainly not have uttered the harsh words contained in Mark chapter 3, verse 21.
+
+- What they say? He is beside himself. So he's saying, look, if he was of a supernatural origin, then they wouldn't have been able to say, he's beside himself. Why? Because they knew his whole family. They knew Christ from the time he was born and so forth. So that's why they're like, yo, we've known you since you was a boy, you're starting to get beside yourself. But if he was born of the Holy Ghost, they wouldn't have said that to him.
+
+> On the contrary, it is already, even on the evidence of Mark, a popular view, at first expressed, it is true, only by the demoniacs and those who have been healed, that Jesus the Messiah was born in the male line of the family of David, a view which Jesus himself either did not share, or at least set on one side as being unimportant.
+
+- You got something?
+
+- **Officer:** I was gonna, if you wasn't gonna pull something. I was gonna get two quick scriptures. If you go to Psalms 132:11 real quick, bring it home. Because like he just said, the seed of copulation comes through sex and sperm. So this doctrine goes against God, and you're calling God a liar when you say that he was of the Holy Spirit and not of the seed.
+
+</div>
+
+**[Psalms 132:11](/bible/psalms/132#v11)**  *[[2:14:02](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8042s)]*
+
+> <sup>[11](/bible/psalms/132#v11)</sup> The Lord hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
+
+- **Officer:** The Lord sworn in truth unto David. He will not turn from it. He won't turn from what he said in the scripture. Of the fruit of thy body, from David's loins. That's what he said to David. He said, I won't lie. Go to Psalms 89 real quick, Psalms 89 and verse 35, because this doctrine is calling God a liar.
+
+**[Psalms 89:35](/bible/psalms/89#v35)**  *[[2:14:30](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8070s)]*
+
+> <sup>[35](/bible/psalms/89#v35)</sup> Once have I sworn by my holiness that I will not lie unto David.
+
+- **Officer:** He said, one time have I sworn by my holiness. What? That I will not lie unto David. He won't lie unto David. But you're saying he lied. That's it.
+
+- **Officer Jazz:** Hey, go back to Matthew chapter 1, verse 18 real quick. Watch this.
+
+**[Matthew 1:18](/bible/matthew/1#v18)**  *[[2:14:57](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8097s)]*
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+
+- Now what does Holy Ghost mean according to the Bible? Let's get that real quick.
+
+- **Officer:** You wanna John? John 6:63?
+
+- **Officer Jazz:** Nah, man. You know what I want. You got a scripture.
+
+- **Officer:** Oh, the Holy Ghost. My man looking at me with seven eyes, man.
+
+- **Officer Jazz:** Acts chapter 7, verse 51. You forgot about that scripture, huh?
+
+**[Acts 7:51,53](/bible/acts/7#v51)**  *[[2:16:00](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8160s)]*
+
+> <sup>[51](/bible/acts/7#v51)</sup> Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
+
+- So we always resisted the Holy Ghost. So this is referring to the wilderness. Our forefathers in the wilderness resisted the Holy Ghost. What did they resist? Jump down to verse 53.
+
+> <sup>[53](/bible/acts/7#v53)</sup> Who have received the law by the disposition of angels, and have not kept it.
+
+- Who have received the what? The law. The what? The law. So the Holy Ghost is what? The law. The Holy Ghost is referring to the law.
+
+- So the Holy Ghost is referring to the law. All right, now go back to Matthew.
+
+**[Matthew 1:18](/bible/matthew/1#v18)**  *[[2:16:58](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8218s)]*
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+
+- So Christ was born of the law. Christ was born of the law.
+
+- **Officer:** As a, opposite to the point that the author had mentioned in the book, and we're referencing Mark, then also in Matthew chapter 13, verse 55. Because then Mark says that Christ is the carpenter, but we read in Matthew chapter 13, verse 55, this is what the people stated.
+
+**[Matthew 13:55](/bible/matthew/13#v55)**  *[[2:17:33](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8253s)]*
+
+> <sup>[55](/bible/matthew/13#v55)</sup> Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
+
+- **Officer:** Is not this the carpenter's son? Who was a carpenter? Joseph. So the people knew that Christ came from the lineage of Joseph.
+
+- **Officer Jazz:** All praises. Give me Galatians 4:4. All right, we get ready to wrap it up.
+
+**[Galatians 4:4](/bible/galatians/4#v4)**  *[[2:17:55](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8275s)]*
+
+> <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
+
+- You see that? That's the Holy Ghost. He's made under the law. Like the officer brought out, Leviticus 15:16, of the seed of copulation. Made under the law.
+
+- Now where did this whole virgin birth doctrine come from? Let me send you this site real quick. One second.
+
+- **Officer:** That's good that this class is being brought out, officer, because a lot of our people are hemmed up in this doctrine.
+
+- **Officer Jazz:** Yeah, man. It's a heavy doctrine.
+
+- **Officer:** Heavy doctrine on our people. Christ ain't got no father. Samuel neither did. Samson neither did. John the Baptist neither. They all just miraculously was born.
+
+- **Officer Jazz:** Go to the address. Go up. The Sydney Morning Herald. All right, so the Sydney Morning Herald. Now read that.
+
+<div class="reading">
+
+Reading from an article in the *Sydney Morning Herald*, "There's nothing new about virgin births, just ask Plato"  *[[2:19:23](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8363s)]*
+
+> There's nothing new about virgin births. Just ask Plato.
+
+- So this whole virgin birth thing, there's nothing new about it. It's always been around. It's always been around. Watch this.
+
+> Thoughts turn to a famous baby on Wednesday. He was conceived through parthenogenesis, a sort of asexual fertilization process which avoids messy exchanges of bodily fluids, and can lead to a virgin birth by a woman. It also avoids troubling questions of paternity.
+
+> History's littered with parthenogenesis, or virgin births, and they're not all miraculous. Bees do it.
+
+- Go down. Abomination right there. Go back up. Read right there.
+
+> Julia Bart's opinion piece on Christmas Eve reminded me of how the virgin birth story has been written by men. The woman's side of the story has received scant attention. Regardless, there's nothing new about virgin births.
+
+- You see that? There's nothing new about virgin births. It's always been around.
+
+> History is littered with them. A virgin roll call might include Romulus and Remus, twin founders of Rome, born of the virgin Rhea Silvia.
+
+- So Romulus and Remus, who supposedly founded Rome, they saying that they was born of a virgin, Rhea Silvia.
+
+> In ancient Egypt, the sun was born of a virgin mother
+
+- Who was named Semiramis. No, Isis, but also named Semiramis also.
+
+> Horus was the son of the virgin Isis.
+
+> The Virgo Roman god Attis was born of a virgin, Nana, on December 25th
+
+- So December 25th has nothing to do with Christ. So you celebrating all these different gods that supposedly had all this mythology, gods that had virgin births. That's what you were celebrating on December 25th. Tammuz was one of them.
+
+- Today you have Mary, the Virgin Mary, in the Roman Catholic Church. Can you pull that over for me real quick? The black Madonna. Today they, you know, and baby white Jesus. So this is none other than the queen of heaven. This is Semiramis, Nana. Who else? Isis, Diana. The queen of heaven holding Tammuz. All these other different gods, this is what our people worshiping today. That was born on December 25th; has nothing to do with Christ. You would not find that in the Bible. All right, go back.
+
+> The Virgo Roman god Attis was born of a virgin, Nana, on December 25th
+
+- So that's what you celebrate on your so-called Christmas, December 25th.
+
+> It resonates, because he went on to be killed and was resurrected.
+
+- You see that? Make this up.
+
+> In ancient Greece, Dionysus was the son of either the virgin Semele or the virgin Persephone. Persephone was also the virgin mother of Jason, and Plato's mother Perictione was a virgin.
+
+> The list goes on.
+
+- The list goes on and on and on.
+
+> Hinduism, Buddhism and ancient China all have their share of them, and none is more or less believable than any other myth, fable or symbol.
+
+- You see that? So this virgin birth thing been around before Christ. Just that when the white man got his hands on our Bible, they merged all these different doctrines. And now you have the virgin birth, you got Christmas. All these things, they try to connect all these things to our Bible, but it's not in the Bible. Give me that about fables, Jewish fables and so forth. Go down on the article again, and then we're going to end it. I know we passed our time. Yeah, that's all I want. Titus chapter 1, verse 14.
+
+</div>
+
+**[Titus 1:14-15](/bible/titus/1#v14)**  *[[2:24:49](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8689s)]*
+
+> <sup>[14](/bible/titus/1#v14)</sup> Not giving heed to Jewish fables, and commandments of men, that turn from the truth.
+
+- So we understand not to give heed to any Jewish fables. Any lies.
+
+- And commandments of who? Of men. Why? Because all of these fables, these mythologies and so forth, they are commandments of men. Men wrote these.
+
+- That turn from who? The truth. They turn from the Bible.
+
+> <sup>[15](/bible/titus/1#v15)</sup> Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.
+
+- Give me Colossians 2:8. I'm gonna end it here.
+
+**[Colossians 2:8](/bible/colossians/2#v8)**  *[[2:25:23](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8723s)]*
+
+> <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
+
+- So Paul said, look, beware lest any man spoil you. Spoil means to destroy. Through what? Through philosophy. Through any philosophy.
+
+- And vain deceit, and lies. Christmas is a lie. Virgin birth, a lie. Immaculate conception, a lie. Christ is a white man, a lie. Has nothing to do with the Bible.
+
+- After the tradition of men. Why? Because all these things are traditions of men. As we just read in the article, virgin birth been around before Christ is born, since ancient Egypt. Traditions of men, commandments of men.
+
+- After the rudiments of the world. Why? Because they come from the rudiments of the world. And not after Christ. And it's not after Christ. It has nothing to do with the Bible. Has nothing to do with Christ.
+
+## In Closing
+
+*[[2:26:17](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8777s)]* All right, so we're going to end it there. I hope y'all got something out of the lesson. Officer Abdon or Officer Hezekiah.
+
+**Officer:** All right, Israel, let's get a round of applause for leadership in the class. Great information came out. All right, Israel.
+
+*[[2:27:45](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8865s)]* **Officer:** We want to give a shout out to the IT team. All praise the Most High. And also we want to shout out the sisters that made the breakfast this morning. We want to shout the sisters that made the breakfast this morning. All praises. Thank you. All right, with that, you say shalom. Shalom.
+
+## Announcements & References
+
+*[[2:26:56](https://www.youtube.com/watch?v=XsUFa7WvhR0&t=8816s)]* Subscribe to Our Hidden History radio show. You can find us on YouTube. You can also find IUIC Philadelphia, and also IUIC Philadelphia in the Classroom. Also, to continue to support the show, as leadership continues to bring these books and this hidden history out, we need your help. So you can donate on PayPal to iuic.philadelphia@israelunite.org. Also don't forget to donate to the Booster Club at iuic.fundraising@israelunite.org. Last but not least, subscribe to IUIC TV to get exclusive content from all leadership from IUIC.
+
+Text or call the show at 267-702-6121.
+
+Sources read from in this episode:
+
+- The Wikipedia page "History of the Jews in Egypt", on the Elephantine garrison and the flight into Egypt after Gedaliah.
+- *History of the Jews* (the author isn't named on air), on the Judean colonies in Egypt and Cyrene, Philometor and the Judeans of Alexandria.
+- *History of the Christian Church* by William Jones, 1832, on Athens at the time Paul visited it.
+- A video interview of Remy Ilona by Harry Rosenberg, on the Igbo and the tribes of Israel.
+- *West Africa and Its Peoples* (1868), on the ten tribes migrating into Northern Africa and on to the Benue and Old Calabar Rivers.
+- Two runaway slave advertisements, from Greene County, Alabama and Morehouse Parish, Louisiana.
+- A book on the massacre of the innocents (the title isn't named on air), page 85 onward, on Macrobius and Herod's slaughter of the infants.
+- *Babylon Timbuktu*, as named on air, on the foretelling of Moses.
+- *Caesar and Christ* (the author isn't named on air), on the dispersion and infanticide, and page 559 on the virgin birth.
+- *The Birth of Jesus Christ*, as the book is called on air (the author isn't named), on the birthplace and family of Jesus.
+- An article in the *Sydney Morning Herald*, "There's nothing new about virgin births, just ask Plato".
+- Definitions looked up on air: infanticide, "my body, my choice", espoused, copulation.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=XsUFa7WvhR0)
