@@ -104,7 +104,7 @@ Reading from *Our Descent*, continued: "The Non-Roman Origin of Our Law", extrac
 
 - **Officer:** I posted the book on the Jomsvikings.
 
-- **Deacon Eythan:** Okay. Okay. Will I be going into that yet? Not yet. Yeah, that's Canute older. You see he's all white. You know, we can't be, ever.
+- **Deacon Eythan:** Okay. Okay. Will I be going into that yet? Not yet. Yeah, that's Canute older. You see he's all white. You know, we can't be, … ever.
 
 - **Officer:** No.
 
@@ -124,11 +124,11 @@ Reading from *Our Descent*, continued: "The Non-Roman Origin of Our Law", extrac
 
 - **Officer:** Your ass is put in the bottom of a ship.
 
-- **Deacon Eythan:** All right. And shipped over here. You are not always here. That mystical, magical Native American negro stuff, y'all got to stop, man. Y'all got to stop it. You got to stop it. Just stop. The white man love Egypt; y'all love Egypt. The white man mystifies Native Americans; y'all do the same thing.
+- **Deacon Eythan:** All right. And shipped over here. You are not always here. That mystical, magical Native American negro … stuff, y'all got to stop, man. Y'all got to stop it. You got to stop it. Just stop. The white man love Egypt; y'all … love Egypt. The white man mystifies Native Americans; y'all do the same thing.
 
 - **Officer:** Right.
 
-- **Deacon Eythan:** Oh, the Native Americans. Ooh, mystical, magical Native Americans. They're like brown unicorns. You got to stop this, man. You're not Native Americans. Stop. You're not. Now, are some negroes walking around Native Americans? Yes. We're Native Americans; we're classified as negroes. The ones that pass are negro. Yes. But all of you aren't Native Americans. Just stop there. Stop. Stop it. Stop.
+- **Deacon Eythan:** Oh, the Native Americans. Ooh, mystical, magical Native Americans. They're like brown unicorns. You got to stop this, man. You're not Native Americans. Stop. You're not. Now, are some negroes walking around Native Americans? Yes. We're Native Americans; we're classified as negroes. The ones that pass are negro. Yes. But all of you … aren't Native Americans. Just stop there. Stop. Stop it. Stop.
 
 - *[[13:08](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=788s)]* You're ashamed of your culture. You're ashamed of your people. Your foremother and forefather were put in the bottom of a ship and brought over here. Packed like sardines and brought over here. Sorry to break it to you. Sorry to burst your bubble. We were brought here in ships. And I'm proud of that history. I'm proud of it, that it's biblical.
 
@@ -142,7 +142,7 @@ Reading from *Our Descent*, continued: "The Non-Roman Origin of Our Law", extrac
 
 - **Officer:** Damn.
 
-- **Deacon Eythan:** Stupid as hell. But you American. A white man. A white man's name. Come on. Stop, man. Stop it.
+- **Deacon Eythan:** Stupid as hell. … But you American. A white man. A white man's name. Come on. Stop, man. Stop it.
 
 </div>
 
@@ -270,7 +270,7 @@ Reading from *African Presence in Early Europe*, page 42, the figures from the f
 
 - **Deacon Eythan:** This is referred to as the Greek Dark Ages, before the white man took over. The Greek Dark Ages, when they conquered Japheth and assumed their identity, like he does everybody else. Any more? Got some more.
 
-- *[[29:13](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=1753s)]* This is them again. See the white woman there? That's a woman there. So you can tell the difference between men and women. They made her white cuz it's a woman. They got a breast out, all of that. Those are men and that's a woman in the middle. They make the women white. So you know you can distinguish between males and females. They have the same long hair. So that's their woman, and that's the men walking around there. The same guys you see boxing is the same guys I see here walking. Same exact people. Go back to it. There you go. Same people. This is Japheth. This is how Japheth used to look. Noah had three sons. All of them look like him. Black. Just like Adam. Black. The first white man to come on the scene on the earth was Esau. Well, yeah, I'll say Esau. It go further than that, but, you know...
+- *[[29:13](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=1753s)]* This is them again. See the white woman there? That's a woman there. So you can tell the difference between men and women. They made her white cuz it's a woman. They got a breast out, all of that. Those are men and that's a woman in the middle. They make the women white. So you know you can distinguish between males and females. They have the same long hair. So that's their woman, and that's the men walking around there. … The same guys you see boxing is the same guys I see here walking. Same exact people. Go back to it. There you go. Same people. This is Japheth. This is how Japheth used to look. Noah had three sons. All of them look like him. Black. Just like Adam. Black. The first white man to come on the scene on the earth was Esau. Well, yeah, I'll say Esau. It go further than that, but, you know...
 
 - **Officer:** And they were ruling...
 
@@ -798,7 +798,7 @@ Reading from *Spain: A History in Art*, continued, on the Celtiberians and Lusit
 
 **Text:** Shalom, Deacon. Most High bless. Are the Kaifeng Jews of Henan province, China, our people? Because I've done some research. It says that they came during the Persian captivity, but then I saw the yarmulkes, so I wasn't too sure.
 
-**Deacon Eythan:** *[[1:15:34](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=4534s)]* Yeah, Kaifeng is definitely our people over there. And the reason why they wear yarmulkes is cuz Esau knows where we are too. So when he finds out where we are, he runs to them first and converts them to his BS. So most of the time, when you find our people wearing them stupid yarmulkes and prayer shawls, that's the Israelis running around trying to beat us to the punch, beat us to them, because they know that they're us. So yeah, the Kaifeng, among them is us. Yes.
+**Deacon Eythan:** *[[1:15:34](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=4534s)]* Yeah, Kaifeng is definitely our people over there. And the reason why they wear yarmulkes is cuz Esau knows where we are too. So when he finds out where we are, he runs to them first and converts them to his BS. So most of the time, when you find our people wearing them stupid yarmulkes and prayer shawls, that's … the Israelis running around trying to beat us to the punch, beat us to them, because they know that they're us. So yeah, the Kaifeng, among them is us. Yes.
 
 **Officer:** That's like your old Jesuits and missionaries. They're the modern Pharisees. They compass sea and land to make a child of hell more worse than themselves. That's what they do.
 
@@ -946,7 +946,7 @@ Reading from *Spain: A History in Art*, continued, on the Celtiberians and Lusit
 
 - **Deacon Eythan:** Yeah. Secret societies, families, blood rituals. That gets thousands of views. When it come to God: no, no, I don't believe in God. I don't know. I don't believe in Him. I never seen Him before. I don't believe in Him. Well, have you seen the Illuminati before? Why you believe in them? Have you seen them before? Have you met them before? How do you know? Yeah. Dumb negro say things like, yeah, I went to a party, it was a Masonic Illuminati party. How do you know?
 
-- *[[1:32:46](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=5566s)]* Let me give you some advice. White folks don't do what do. White folks' secret societies, it's a secret with them. They don't sit there and blurt out, I'm a Mason, I run the planet. That's what dumb negroes do. That's why we can't rule the world yet. We're too stupid. White folks don't do that. White folks run the world. They're quiet. Now, you may have some that may go into Christianity and repent, and may have been in those circles, and may be whistleblowers, and they'll expose it. But the ones that are in that realm, especially the ones who are deep, deep in that realm, that's their family ties, they ain't saying nothing to no negro about their secret societal connections. They don't do that. Negroes assume, he got a bull's head on his wall, he must be Illuminati. You don't know. White folks hunt things. You don't know. They hunted us. So all that mystical, magical deep state Illuminati, ooh, call Scooby and them. Stop, man. Stop. No. You should put that same effort into believing your God that you can't see.
+- *[[1:32:46](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=5566s)]* Let me give you some advice. White folks don't do what … do. White folks' secret societies, it's a secret with them. They don't sit there and blurt out, I'm a Mason, I run the planet. That's what dumb negroes do. That's why we can't rule the world yet. We're too stupid. White folks don't do that. White folks run the world. They're quiet. Now, you may have some that may go into Christianity and repent, and may have been in those circles, and may be whistleblowers, and they'll expose it. But the ones that are in that realm, especially the ones who are deep, deep in that realm, that's their family ties, they ain't saying nothing to no negro about their secret societal connections. They don't do that. Negroes assume, he got a bull's head on his wall, he must be Illuminati. You don't know. White folks hunt things. You don't know. They hunted us. So all that mystical, magical deep state Illuminati, ooh, call Scooby and them. Stop, man. Stop. No. You should put that same effort into believing your God that you can't see.
 
 - **Officer:** Like Paul calls them the rulers of the darkness of this world.
 
@@ -954,7 +954,7 @@ Reading from *Spain: A History in Art*, continued, on the Celtiberians and Lusit
 
 - **Officer:** Mhm. And then John says that Satan gave him their power.
 
-- **Deacon Eythan:** So Satan gave him their power. That means what? That means God is real, doesn't it? So you have fear of him. Because if the white man is Illuminati, and there's Satan, there's Satanists, then there's a God. You can't be a Satanist without a God. It got to be both. It can't be... Where Satan come from? Where your knowledge of Satan come from? The Bible. The white man know there's a God. That's why he made certain to destroy you and remove your knowledge of your God, so you can't go back to Him. He can go to his. You can't. But you going to go to yours. Damn. I'm foundational black American. That's y'all. That's you. You follow Satan too. Read down, verse 10 again.
+- **Deacon Eythan:** So Satan gave him their power. That means what? That means God is real, doesn't it? So you have fear of him. Because if the white man is Illuminati, and there's Satan, there's Satanists, then there's a God. You can't be a Satanist without a God. It got to be both. It can't be... Where Satan come from? Where your knowledge of Satan come from? The Bible. The white man know there's a God. That's why he made certain to destroy you and remove your knowledge of your God, so you can't go back to Him. He can go to his. You can't. But you going to go to yours. Damn. I'm foundational black American. That's y'all. … That's you. You follow Satan too. Read down, verse 10 again.
 
 **[2 Esdras 11:11-13](/bible/2-esdras/11#v11)**  *[[1:35:08](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=5708s)]*
 
@@ -1198,7 +1198,7 @@ Reading from *Ten Caesars* by Barry Strauss, pages 238 and 239, on Septimius Sev
 
 **Officer:** Clodius Albinus.
 
-**Deacon Eythan:** Yeah. Clodius Albinus and Pescennius. They failed. He took them both out. I think he took them both out. Yeah. So that's the answer. Yeah, it's true. Yeah, he took them both out. Yes, he took them both out. Yep. Pescennius. And they say, oh, he's called cuz his neck was black.
+**Deacon Eythan:** Yeah. Clodius Albinus and Pescennius. They failed. He took them both out. I think he took them both out. Yeah. So that's the answer. Yeah, it's true. Yeah, he took them both out. Yes, he took them both out. Yep. Pescennius. And they say, oh, he's called … cuz his neck was black.
 
 **Officer:** Really? That's why he's called that, cuz his neck was black?
 

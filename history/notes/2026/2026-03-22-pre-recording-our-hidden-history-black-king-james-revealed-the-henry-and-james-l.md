@@ -125,7 +125,7 @@ Reading from *The Oxford Illustrated History of the British Monarchy*, King John
 
 - They set up their ensigns for signs. Their ensigns is their images. Their ensigns is their imagery. Their features. They are the standard of beauty. That's their ensigns for signs. Whitewashing our images and putting up theirs. Right. That's what they did.
 
-- We had depictions of David. Statues of David. I'm sure we had statues of David and Solomon and Josiah and Hezekiah. They said, no, knock that down and put up Zeus. Put up Odin. Put up Hermes. Put up Jupiter. Knock these statues down. Let me get them out of here. We don't want these things here. That's what they did.
+- We had depictions of David. Statues of David. I'm sure we had statues of David and Solomon and Josiah and Hezekiah. They said, no, knock that down and put up Zeus. Put up Odin. Put up Hermes. Put up Jupiter. Knock these … statues down. Let me get them out of here. We don't want these things here. That's what they did.
 
 - You watch TV, they show you a beauty product, you're going to see their women. You might see a black woman here and there. But most of the time you're going to see them. Let's play.
 
@@ -137,7 +137,7 @@ Reading from the video of a sister asking whether wealthy white men marry black 
 
 - Is he going to settle down? Is he going to get married? She's asking, she wants to know: should I get married to him? It's all about covetousness. It's all about money and covetousness of our women, man. It's all about money. The American black woman is all about money. She is the modern, I say it all the time, she is the modern slave master. The black woman has adopted the white man's mentality, where it's all about economics with them. It's all about penis, breeding.
 
-- They will lay with a and have his baby, but they will not marry him. Breeders. Why? Because they know they're not meant for marriage. And they never get married. So what do they do? They lay down so they can have a son, and he could be the husband. Son husband. These boys, these kids that they have out here in this world, are insurance that I will not be alone ever. So they use for their ride, for their semen. Or they go after rich white guys. That's what they do. Continue.
+- They will lay with a … and have his baby, but they will not marry him. Breeders. Why? Because they know they're not meant for marriage. And they never get married. So what do they do? They lay down … so they can have a son, and he could be the husband. Son husband. These boys, these kids that they have … out here in this world, are insurance that I will not be alone ever. So they use … for their ride, for their semen. Or they go after rich white guys. That's what they do. Continue.
 
 > He was like, yeah, that's what they do. They terrorize the community of the women that they're actually attracted to. And then they settle for someone inside their race to keep the wealth inside their community. I think this is really specific to rich white men.
 
@@ -247,7 +247,7 @@ Reading from *The Oxford Illustrated History of the British Monarchy*, page 207,
 
 - **A brother:** Right. But did they water it off?
 
-- **Deacon Eythan:** Oh, no, you can't go in there. Or they have the lights turned off. No pictures. We've gone in places where they say, no pictures, please. Why? No flash. No pictures. It'll be a dark ass room. You got to picture what in Israel. He said, who's this guy on the wall here? Christ is black right here on this wall. Who that? What you stuttering for? Who is this on the picture here? Who this? Cuz I saw a white guy on a cross over in Israel a few moments ago. Now I'm seeing a picture of Christ with an afro like mine on the wall here, in the back, in a dark ass room. Who this? It's what they do. It's what they do. These are images. Read on.
+- **Deacon Eythan:** Oh, no, you can't go in there. Or they have the lights turned off. No pictures. We've gone in places where they say, no pictures, please. Why? No flash. No pictures. It'll be a dark ass room. You got to picture what in Israel. He said, who's this guy on the wall here? Christ is black right here on this wall. Who that? What you stuttering for? Who is this … on the picture here? Who this? Cuz I saw a white guy on a cross over in Israel a few moments ago. Now I'm seeing a picture of Christ with an afro like mine on the wall here, in the back, in a dark ass room. Who this? It's what they do. It's what they do. These are images. Read on.
 
 - And without an ephod, and without teraphim. Now, give me 1 Samuel 19. Now, what I have in my Bible here, for the image or the teraphim, it says a standing or statue or pillar. 1 Samuel 19 verse 13 to 16. Watch this.
 
@@ -291,7 +291,7 @@ Reading from *The Oxford Illustrated History of the British Monarchy*, page 269,
 
 - **Deacon Eythan:** Yeah, splayfooted. We read it before. So, I think he passed that on to some of his children. Richard might have inherited it. But you see his hands, his nose, his mouth, his eyes. That's a black man right there. Despite the deformity. The nose and mouth is just too pronounced to be anything else other than a black man. Okay?
 
-- Paint him brown. He remind me of, what's his name? It escapes me. Is it Gil Noble he remind me of? His face looks familiar to me. Like an actor of some kind. I just can't think of him.
+- Paint him brown. He remind me of, what's his name? … It escapes me. Is it Gil Noble he remind me of? His face looks familiar to me. Like an actor of some kind. I just can't think of him.
 
 - **A brother:** Gil Noble? Yeah, most likely. I think it's Gil Noble.
 
@@ -367,7 +367,7 @@ So, Foundation of Black Surnames, I'm on Part Three, page 110. So, I want you gu
 
 - **Deacon Eythan:** Yeah, Irenaeus. Bugged out. Bug outs. Polycarp was the last remaining, last man standing in terms of doctrinal purity. That's who was the elder over the church of Smyrna. It's believed that's who John was writing to, and I believe it. That angel of Smyrna was Polycarp.
 
-- All right. Arius, bug out. Bunch of bug outs. They started making up stuff. Adding Greek metaphysics into the doctrine. Trinity, that's all Greek metaphysics. Justin Martyr, bug out, and a sellout too. Who y'all love. Tertullian. Alexander of Hippo? Is that Alexander of Hippo? Hippocrates or something?
+- All right. Arius, bug out. Bunch of bug outs. They started making up stuff. Adding Greek metaphysics into the doctrine. Trinity, that's all Greek metaphysics. Justin Martyr, bug out, and a sellout too. Who y'all … love. Tertullian. Alexander of Hippo? Is that Alexander of Hippo? Hippocrates or something?
 
 - **A brother:** No, no, no. Something of Hippo.
 

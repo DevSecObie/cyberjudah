@@ -36,7 +36,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph Windsor, page 95, on Mali and
 
 > The rulers and people of the empire of Mali were black Africans of the Mandingo tribe. This tribe was originally situated in the territory known today as Guinea, Sierra Leone and northward,
 
-> on the banks of the upper, near the present day Sierra Leone. The Mandingos established their capital after the breakup of the Ghanaian Empire by invasions from many tribes, Hamites,
+> on the banks of the upper, … near the present day Sierra Leone. The Mandingos established their capital after the breakup of the Ghanaian Empire by invasions from many tribes, Hamites,
 
 - And you had Hamites, we also had internal wars among ourselves. But Hamites.
 
@@ -294,7 +294,7 @@ Reading from the Wikipedia pages on Burkina Faso, Upper Volta and Thomas Sankara
 
 - **Officer:** Wasn't it during that time, I believe it was Farrakhan that was speaking with him? Someone in the black community spoke to him. Farrakhan spoke to him about weapons and stuff like that. The weapons part, yeah. Something like that.
 
-> Burkina Faso is a landlocked country. It is bordered by Mali to the northwest, to the northeast, Benin to the southeast, Togo and Ghana to the south, and Ivory Coast to the southwest.
+> Burkina Faso is a landlocked country. It is bordered by Mali to the northwest, … to the northeast, Benin to the southeast, Togo and Ghana to the south, and Ivory Coast to the southwest.
 
 - There you go. So that's pretty much our people all throughout that area.
 
@@ -342,9 +342,9 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Deacon Eythan:** *[[41:25](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=2485s)]* Libya is the ghetto now, basically. It's a country ghetto now. And what Thomas Sankara did to Burkina Faso is what Gaddafi did to Libya, and what Traoré is doing now is what Gaddafi was doing back then.
 
-- **Officer:** You know this dude arrested 3,000 that's trying to take him out? 3,000 of his own people. Traoré had them locked up and took their passports away.
+- **Officer:** You know this dude arrested 3,000 … that's trying to take him out? 3,000 of his own people. Traoré had them locked up and took their passports away.
 
-- **Deacon Eythan:** You know who ratted them out? More than likely our own people. Because they see this guy's getting us jobs, he's building up the country. Nah. Uh-uh. It sound like the that were fasting until Paul died.
+- **Deacon Eythan:** You know who ratted them out? More than likely our own people. Because they see this guy's getting us jobs, he's building up the country. Nah. Uh-uh. It sound like the … that were fasting until Paul died.
 
 - **Officer:** Yeah. And he's trying to step down, and people are like, no, you ain't stepping down, bro. You can't step down.
 
@@ -376,7 +376,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** Deacon, Paul said he had rather go to Rome and deal with Esau.
 
-- **Deacon Eythan:** Yeah, he said, yeah, that's later on in the chapters. He says, I'm going to go appeal. I'm appealing to Caesar. I'm going to go to the white man, cuz you elders, you Negro elders, are going to try to kill me too. The white man has more honor in him than you. So I'm showing you that scripturally the elders of our people, black men, will conspire to kill you when you're trying to do right by them. Thomas Sankara, damn, his own boy turned on him.
+- **Deacon Eythan:** Yeah, he said, yeah, that's later on in the chapters. He says, I'm going to go appeal. I'm appealing to Caesar. I'm going to go to the white man, cuz you … elders, you Negro elders, are going to try to kill me too. The white man has more honor in him than you. So I'm showing you that scripturally the elders of our people, black men, will conspire to kill you when you're trying to do right by them. Thomas Sankara, damn, his own boy turned on him.
 
 - **Officer:** I believe Denmark Vesey, the same thing with him.
 
@@ -400,9 +400,9 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 > <sup>[17](/bible/acts/23#v17)</sup> Then Paul called one of the centurions unto him, and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him.
 
-- What did Paul tell him to do? Tell the authorities. Call the police. Let them know that these Negroes is trying to kill me. He didn't say, let the Lord do it. I can't snitch. No snitching, right? Right. Don't say nothing. I'm about that life. Yo, things happen, son. Paul wasn't talking like that now. Yo, if I die, I'mma die, son. Now yo, be quiet. Don't say nothing. Be quiet. What I'm saying, yo, go somewhere, man. That's the trap. That's what life's about, man. You die. I'm saying, Paul like, nah man, go tell the captain that these ignorant are trying to kill me for no reason.
+- What did Paul tell him to do? Tell the authorities. … Call the police. Let them know that these Negroes is trying to kill me. He didn't say, let the Lord do it. I can't snitch. No snitching, right? Right. Don't say nothing. I'm about that life. Yo, things happen, son. Paul wasn't talking like that now. Yo, if I die, I'mma die, son. Now yo, be quiet. Don't say nothing. … Be quiet. What I'm saying, yo, go somewhere, man. That's the trap. That's what life's about, man. You die. I'm saying, Paul like, nah man, go tell the captain that these ignorant … are trying to kill me for no reason.
 
-- *[[48:02](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=2882s)]* I mean, you know, son, like, like, yo, like, I mean, you be reading and like, you know what I mean, like, yo, like, reading is good, like, you know what I mean, like, yo, I'm saying, like, yo, congratulations. Congratulations, nigga. Congratulations. Read. I be reading this.
+- *[[48:02](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=2882s)]* I mean, you know, son, like, like, yo, like, I mean, you be reading and … like, you know what I mean, like, yo, like, reading is good, like, you know what I mean, like, yo, I'm saying, like, yo, congratulations. Congratulations, nigga. Congratulations. Read. I be reading this.
 
 - **Officer:** Hey D, can we get 1 Maccabees 11:21?
 
@@ -424,11 +424,11 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 >
 > <sup>[23](/bible/acts/23#v23)</sup> And he called unto him two centurions, saying, Make ready two hundred soldiers to go to Cesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;
 
-- He said, gather 270 men to escort. This is a police escort for Paul. Gathered for above 40 men. I got something for them. Gather 200 men here, 200 soldiers. And then he says gather threescore and ten horsemen. Threescore and ten horsemen, that's 70 horsemen on top of the 200 men. And spearmen, 200, at the third hour of the night. Oh. 370 men. Get 370 men, escort Paul out of here.
+- He said, gather 270 men to escort. This is a police escort for Paul. Gathered for above 40 men. I got something for them. Gather 200 men here, 200 soldiers. And then he says gather threescore and ten horsemen. Threescore and ten horsemen, that's 70 horsemen on top of the 200 men. And spearmen, 200, at the third hour of the night. Oh. … 370 men. Get 370 men, escort Paul out of here.
 
 > <sup>[24](/bible/acts/23#v24)</sup> And provide them beasts, that they may set Paul on, and bring him safe unto Felix the governor.
 
-- That's all I want. So Paul got a police escort to safety, to the governor, right? So y'all say, oh, don't deal with the authorities. That's not Bible, right? That's politics. That ain't Bible.
+- That's all I want. So Paul got a police escort to safety, to the governor, right? So y'all say, oh, don't deal with the authorities. That's not Bible, right? That's … politics. That ain't Bible.
 
 - **Officer:** D, this is a foretelling for us too. Because as the scripture says, it will come a time when they that slay thee will think they do the Lord's will. That's exactly what they was doing.
 
@@ -436,7 +436,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** Oh, yes sir, yes sir. They were scoffing Noah too, when he was a
 
-- **Deacon Eythan:** Oh yeah, Noah too. Noah went through the same thing. Same thing, man. Noah, Jeremiah. Same. Just showing you the men that we just read about doing in the Acts, the same men reoccurring over and over again. Reoccurring over and over again. Coming along causing problems. Being recycled. Recycled Negroes reserved for death. 11:21, okay? First Maccabees.
+- **Deacon Eythan:** Oh yeah, Noah too. Noah went through the same thing. Same thing, man. Noah, Jeremiah. Same. Just showing you the men that we just read about doing in the Acts, the same men reoccurring … over and over again. Reoccurring … over and over again. Coming along causing problems. Being recycled. Recycled Negroes reserved for death. 11:21, okay? First Maccabees.
 
 - **Officer:** Oh yeah, definitely this one, yeah. Get 10:61 first, then read this one.
 
@@ -452,11 +452,11 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - There you go. Same culprits again.
 
-- *[[53:04](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3184s)]* So I'm just showing you that throughout the history of the Bible, you'll find that the biggest opposition of our people, those who sought the liberty and freedom and justice and fairness and equity and honor of our people, were always sought after and attacked, or a target, by evil, ignorant black people, man. That's why I don't sit around the corner saying white man the devil. I don't even have time to talk about that. The first thing I go in the camp, that's the first word off my tongue. I tell you straight. Cuz that's the biggest problem. The biggest problem, you understand. We fell as a people cuz of that fact.
+- *[[53:04](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3184s)]* So I'm just showing you that throughout the history of the Bible, you'll find that the biggest opposition of our people, those who sought the liberty and freedom and justice and fairness and equity and honor of our people, were always sought after and attacked, or a target, by evil, ignorant black people, man. That's why I don't sit around the corner saying white man the devil. I don't even have time to talk about that. The first thing I go in the camp, that's the first word off my tongue. … I tell you straight. Cuz that's the biggest problem. The biggest problem, you understand. We fell as a people cuz of that fact.
 
-- *[[53:47](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3227s)]* Yes sir. There were before the white man. I'm a product of my environment? Do you understand that they were around before the white man was in existence? You understand that he was in Mount Seir and the caves, whatever he was doing. He was doing that; we were being divided among ourselves, fighting, killing. Give me Hosea 4:1. Give me that real quick. I ain't get to my topic yet. Damn. It's the spirit thing, is what it is, man. Give me Hosea 4:1. This is the topic of the spirit right now. I'm trying to go, it's taking me somewhere else, man. Hosea 4:1. I'm trying to deal with this being a kingdom, a kingdom, right, right. I keep thinking about Negroes. I'm like, no, go to that first. I'm going to start with the negative first and go to the positive.
+- *[[53:47](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3227s)]* Yes sir. There were … before the white man. I'm a product of my environment? Do you understand that they were … around before the white man was in existence? You understand that he was in Mount Seir and the caves, whatever he was doing. He was doing that; we were being … divided among ourselves, fighting, killing. Give me Hosea 4:1. Give me that real quick. I ain't get to my topic yet. Damn. It's the spirit thing, is what it is, man. Give me Hosea 4:1. This is the topic of the spirit right now. I'm trying to go, it's taking me somewhere else, man. Hosea 4:1. I'm trying to deal with this being a kingdom, a kingdom, right, right. I keep thinking about Negroes. I'm like, no, go to that first. I'm going to start with the negative first and go to the positive.
 
-- *[[54:30](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3270s)]* I guarantee you there's a Negro right now in the chat causing problems. I might look at the chat; my phone is off. I guarantee you right now, as I'm teaching, there's the ignorant Negro in the chat saying something stupid and irrelevant he can't prove. I guarantee you, whenever the truth comes out, there's always an ignorant in existence. It's like a portal. They just pop in, come out. Oh, what? There's truth coming out? I got to disrupt it. I'm telling you, it's like a Negro Stargate. Come through and cause problems.
+- *[[54:30](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3270s)]* I guarantee you there's a Negro right now in the chat causing problems. I might look at the chat; my phone is off. I guarantee you right now, as I'm teaching, there's the ignorant Negro in the chat saying something stupid and irrelevant he can't prove. I guarantee you, whenever the truth comes out, there's always an ignorant … in existence. It's like a … portal. They just pop in, come out. Oh, what? There's truth coming out? I got to disrupt it. I'm telling you, it's like a Negro Stargate. Come through and cause problems.
 
 - **Officer:** I understand. That happened on that movie, remember? They was coming out of the portals.
 
@@ -490,7 +490,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** Or they'll call the hotline to get you deported.
 
-- **Deacon Eythan:** Yeah, that too. For the reward. For a reward. For sneakers. They'll sell you out for money or for a pair of shoes. Sound familiar? Gosh. This ain't white folks doing this. For a pair of shoes, that's not what white folks do. The is an ancient breed. The Negro is an ancient species of old time. The first one in existence was Cain. Goes way back. The first one to ever exist was Cain. Read on, verse seven.
+- **Deacon Eythan:** Yeah, that too. For the reward. For a reward. For sneakers. They'll sell you out for money or for a pair of shoes. Sound familiar? Gosh. This ain't white folks doing this. For a pair of shoes, that's not what white folks do. The … is an ancient breed. The Negro is an ancient species of old time. The first one in existence was Cain. Goes way back. The first one to ever exist was Cain. Read on, verse seven.
 
 > <sup>[7](/bible/amos/2#v7)</sup> That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the same maid, to profane my holy name:
 
@@ -498,7 +498,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - **Officer:** *[[1:00:01](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3601s)]* Hey D, Second Peter chapter 2 gives you a timeline.
 
-- **Deacon Eythan:** Yeah, read it. Get it. From verse one. I'm trying my hardest to leave alone, but I just can't, man. Like, once you start talking about them, you can't stop till the class is over. I don't know what's going on. I have to continue, just going about Negroes all day.
+- **Deacon Eythan:** Yeah, read it. Get it. From verse one. I'm trying my hardest to leave … alone, but I just can't, man. Like, once you start talking about them, you can't stop till the class is over. I don't know what's going on. I have to continue, just going about Negroes all day.
 
 - **Officer:** They thought that rapper sister was lying when she said what she said. She said, I come from a generation of hoes since Egypt. She was real. Hey, a captain just posted a scripture too. I don't know if we read it. Amos 2 and 6.
 
@@ -510,7 +510,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - Verse two. Take your time. Come on. We got a break soon. After this we'll take a break. Those of y'all who have questions regarding the topic of Negroes, text us regarding them. It's a real deep and complex conversation. You might have some complex questions regarding the origin of the Negro. You can text us, or you can also Zoom call in and share your thoughts on the Negro, and why he exists, and where he came from, and its natural habitat, and its eating habits, and murderous intent, thievery. I'm sorry, I can go on and on. I'm sorry.
 
-- *[[1:01:32](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3692s)]* A bishop says it was created in America. This is what actually happened: you know how Wolverine got upgraded with the adamantium? That's what happened in America. He got upgraded in America, cuz he was always here, but he got upgraded.
+- *[[1:01:32](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3692s)]* A bishop says it was created in America. This is what actually happened: you know how Wolverine got upgraded with the adamantium? That's what happened … in America. He got upgraded in America, cuz he was always here, but he got upgraded.
 
 - **Officer:** Yo, didn't they show that on *They Cloned Tyrone*?
 
@@ -566,7 +566,7 @@ Reading from the break segment on youth violence  *[[1:05:16](https://www.youtub
 
 *[[1:11:15](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=4275s)]* All right, we're back from the break. Back from the break. We got a little bit more left on Negroes, then we're going to transition to something more positive, hopefully. You got something, JZ, for Paul?
 
-**Officer:** Regarding Paul. So we just read in Acts 23 how the wicked ones fasted to kill Paul. And remember, Paul called the centurions to gather what, about 370 men, right, to escort him out of there. So I wanted to pull that up real quick, how Paul was able to get that type of escort. It's the last page on the OHH.
+**Officer:** Regarding Paul. So we just read in Acts 23 how the … wicked ones fasted to kill Paul. And remember, Paul called the centurions to gather what, about 370 men, right, to escort him out of there. So I wanted to pull that up real quick, how Paul was able to get that type of escort. It's the last page on the OHH.
 
 <div class="reading">
 
@@ -658,7 +658,7 @@ Reading from *The Earth and Its Inhabitants: Africa* by Élisée Reclus (1888), 
 
 - Melli. That's the old maps. Melli, with an E, or the I at the end.
 
-> which formerly embraced the whole of the upper basin,
+> which formerly embraced the whole of the upper … basin,
 
 - They spread far and wide. Come on.
 
@@ -704,7 +704,7 @@ Reading from *The Earth and Its Inhabitants: Africa* by Élisée Reclus (1888), 
 
 > but unlike them are chiefly wholesale dealers, carrying on a large caravan trade between Sierra Leone and Timbuktu, and extending their expeditions to the lower
 
-- Go down. Is there more? Go down, go down, go down. That's all I want. So the Soninke, and Mandingo, or Mali men, were referred to as the Jews of West Africa. These are kingdoms. Mansa Musa was a Jew. Sundiata was a Jew, of the Za Hebrew dynasty. Okay. The Mandingos were Israelites. They were Israelites. That's the point I'm bringing to y'all.
+- … Go down. Is there more? Go down, go down, go down. That's all I want. So the Soninke, and Mandingo, or Mali men, were referred to as the Jews of West Africa. These are kingdoms. Mansa Musa was a Jew. Sundiata was a Jew, of the Za Hebrew dynasty. Okay. The Mandingos were Israelites. They were Israelites. That's the point I'm bringing to y'all.
 
 - *[[1:24:55](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=5095s)]* All right. Is there more on this book? Let me see if I want some more. Let me see what else I want. Give me *New World Jewry* real fast. Real quick. Last page I want to get out before we close out on it. It might be random, but I just want to bring it out anyway. Page 61. I want to see why I wanted that page. I forgot why. Let me see. Go down. Yeah, that's fine. I'll tie it in together. Go up. I'll tie it together. Read that.
 
@@ -732,7 +732,7 @@ Reading from *New World Jewry*, page 61, on the Jews in Dutch Brazil and the sla
 
 > and participated in the purchase and sale of the slaves. Most asentistas were Dutch.
 
-- So-called Dutch traders. The word stems from the Dutch word nikker, which means black. So they called us nikkers. They called us nikkers. Go down. That's all I wanted. So they were involved. I'm going to touch on Israel. The Israelis were involved in selling the slaves as well. They were brokers. That's all I wanted for that. Now go to page 122 of *From Babylon to Timbuktu*. You got something, JZ, or no?
+- So-called Dutch traders. The word … stems from the Dutch word nikker, which means black. So they called us nikkers. They called us nikkers. Go down. That's all I wanted. So they were involved. I'm going to touch on Israel. The Israelis were involved in selling the slaves as well. They were brokers. That's all I wanted for that. Now go to page 122 of *From Babylon to Timbuktu*. You got something, JZ, or no?
 
 - **Officer:** Yes sir. When you finish what you have. Go to the Telegram real quick and get, I know it's a couple pages I posted, African countries and inhabitants. Actually you can start here.
 
@@ -826,7 +826,7 @@ Reading from *The Earth and Its Inhabitants: Africa* by Élisée Reclus, page 17
 
 > had to accept the new faith.
 
-- Did I go back to my point about? Damn. They go back full circle. Muslim Negroes attacking their own brothers. Yep. So go back to the book you just brought out. Go back to that book again.
+- Did I go back to my point about? … Damn. They go back full circle. Muslim Negroes attacking their own brothers. Yep. So go back to the book you just brought out. Go back to that book again.
 
 - **Officer:** Damn. Now the Soninke ruled the Ghanaian Empire before the Mandingan Empire. So they ruled the Ghanaian Empire as Jews.
 

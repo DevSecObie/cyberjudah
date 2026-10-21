@@ -88,7 +88,7 @@ Reading from *Dictionary of Foundational Black British Surnames: The People, Pla
 
 > But Charles never did become fairer. Later the soubriquet "the black boy" would be used, still commemorated in English inn signs.
 
-- *[[12:45](https://www.youtube.com/watch?v=i0o32RulIgQ&t=765s)]* So there's English inns today referred to as the Black Boy Inn. It's like a franchise out there, and it's based upon him, King Charles II, being so black they called it the Black Boy Inn. They're starting to change it now. They're giving it new names now, because, as you know, the truth's coming out. The people are watching us. They say, "Okay, these catching on. Let's change the name around." There we go, right there. The Black Boy Inn. That's based off of King Charles II. He was extremely dark.
+- *[[12:45](https://www.youtube.com/watch?v=i0o32RulIgQ&t=765s)]* So there's English inns today referred to as the Black Boy Inn. It's like a franchise out there, and it's based upon him, King Charles II, being so black they called it the Black Boy Inn. They're starting to change it now. They're giving it new names now, because, as you know, the truth's coming out. The people are watching us. They say, "Okay, these … catching on. Let's change the name around." There we go, right there. The Black Boy Inn. That's based off of King Charles II. He was extremely dark.
 
 - Now, what I want you guys to focus on is the patrilineal line of King James. Give me that too. His mother's side, what you just said earlier. *[[13:30](https://www.youtube.com/watch?v=i0o32RulIgQ&t=810s)]* The coin. The coin you had, the other one. Who's that supposed to be again?
 
@@ -120,7 +120,7 @@ Reading from the pages shown last week on the FitzAlans of Arundel and the facel
 
 > Norman French. Alan or Elaine. Fergant was one of the leading Bretons who accompanied William the Conqueror to England.
 
-- Right. So Alan, or Elaine, Fergant was *[[16:46](https://www.youtube.com/watch?v=i0o32RulIgQ&t=1006s)]* one of the leading Bretons. Bretons, who we showed you last week: they were black. Accompanied William the Conqueror. We showed you him earlier, that black man in that stained glass, that was William the Conqueror. Now you see that woman next to him? That's his wife. That's a white woman. That's my point. Now read the right one here.
+- Right. So Alan, or Elaine, Fergant was *[[16:46](https://www.youtube.com/watch?v=i0o32RulIgQ&t=1006s)]* one of the leading Bretons. Bretons, who we showed you last week: they were black. Accompanied William the Conqueror. We showed you him earlier, that black man in that stained glass, that was William the Conqueror. Now you see that woman next to him? That's his wife. That's a white woman. That's my point. … Now read the right one here.
 
 > Sir Edmund Fitz Alan was sometimes known as Edmund de Arundel.
 
@@ -264,7 +264,7 @@ Reading from *Memoirs of the Court of England during the Reign of the Stuarts*, 
 
 > The executioner stooping to put his hair under his cap, the king, thinking he was about to strike, bid him wait for the sign. After a short pause, he stretched out his hands. The executioner at one blow severed his head from his body. The head was immediately lifted up by the other headsman and exhibited to the people. "Behold," he exclaimed, "the head of a traitor."
 
-- *[[39:45](https://www.youtube.com/watch?v=i0o32RulIgQ&t=2385s)]* Yep. Because King Charles went against the Parliament, and the Parliament had in it, and that's Oliver Cromwell. Oliver Cromwell was over with the Parliament, and you had people who were loyal to the Parliament. They were called parliamentarians, I believe, and you had royalists. Royalists were those who sided with King Charles, and the parliamentarians, for lack of a better word, were Oliver Cromwell's side. He was the Edomite. We had Edomites in our courts, and the Parliament gained higher authority *[[40:28](https://www.youtube.com/watch?v=i0o32RulIgQ&t=2428s)]* above the throne. And King Charles is like, man, f parliament. I'm the king. I'm God-given king. I do what I want to do. That didn't sit well. It didn't go well for him and those who supported him and felt the king's rule superseded the parliament. It caused a division in the kingdom. And so of course, with King Charles the First, there was a big war, a civil war between the royalists and the parliament supporters, or Cromwellians, I call them, Cromwellites. And Charles the First's side lost, and there was a lot of death that followed. So King Charles was then taken prisoner, and this is the execution.
+- *[[39:45](https://www.youtube.com/watch?v=i0o32RulIgQ&t=2385s)]* Yep. Because King Charles went against the Parliament, and the Parliament had … in it, and that's Oliver Cromwell. Oliver Cromwell was over with the Parliament, and you had people who were loyal to the Parliament. They were called parliamentarians, I believe, and you had royalists. Royalists were those who sided with King Charles, and the parliamentarians, for lack of a better word, were Oliver Cromwell's side. He was the Edomite. We had Edomites in our courts, and the Parliament gained higher authority *[[40:28](https://www.youtube.com/watch?v=i0o32RulIgQ&t=2428s)]* above the throne. And King Charles is like, man, f parliament. I'm the king. I'm God-given king. I do what I want to do. That didn't sit well. It didn't go well for him and those who supported him and felt the king's rule superseded the parliament. It caused a division in the kingdom. And so of course, with King Charles the First, there was a big war, a civil war between the royalists and the parliament supporters, or Cromwellians, I call them, Cromwellites. And Charles the First's side lost, and there was a lot of death that followed. So King Charles was then taken prisoner, and this is the execution.
 
 - *[[41:12](https://www.youtube.com/watch?v=i0o32RulIgQ&t=2472s)]* Now I'm trying to find where I found this. I did the AI because I didn't feel like giving you the whole Wikipedia and all that stuff. Hold on. Let me see if I can find it. I did a brief written summary I have here of his execution.
 
@@ -628,7 +628,7 @@ Reading from *Memoirs of the Court of England during the Reign of the Stuarts*, 
 
 - *[[1:25:11](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5111s)]* So Antiochus had him killed in the same place he killed Onias. But I'm using it to show the response to King Charles' death was the same. People were very hurt by that murder, because it was unnecessary.
 
-*[[1:25:11](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5111s)]* All right. So, going back to the comments once again: we touched on, and I showed the images as well of, King James' father's line of black knights, of the Fitz Flaad. I showed how they came over with William the Conqueror, who was a black king as well. I know black folks. I know how you guys think. You think you're nothing. You think you were just slaves going over in the ship, and you ain't got nothing else besides being a slave. No, no, no, no. There's far *[[1:25:51](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5151s)]* more to us than just being here and working in the fields. I'm sorry, I know I may hurt your feelings, but that's not this lesson's intention. This lesson is to give y'all information that we were once ruling. We showing that image right there. That's your ancestors right there. Bring it out. Wearing armor. See the armor under his garment there? Warriors. That's how we dressed back then. This is black nobility here. We were ruling Europe during the Dark Ages, the age of the dark man's rulership. Okay, this is pre-Renaissance. I know some of y'all hate yourselves and hate your God, hate your *[[1:26:36](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5196s)]* people.
+*[[1:25:11](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5111s)]* All right. So, going back to the comments once again: we touched on, and I showed the images as well of, King James' father's line of black knights, of the Fitz Flaad. I showed how they came over with William the Conqueror, who was a black king as well. … I know black folks. I know how you guys think. You think you're nothing. You think you were just slaves going over in the ship, and you ain't got nothing else besides being a slave. No, no, no, no. There's far *[[1:25:51](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5151s)]* more to us than just being here and working in the fields. I'm sorry, I know I may hurt your feelings, but that's not this lesson's intention. This lesson is to give y'all information that we were once ruling. We showing that image right there. That's your ancestors right there. Bring it out. Wearing armor. See the armor under his garment there? Warriors. That's how we dressed back then. This is black nobility here. We were ruling Europe during the Dark Ages, the age of the dark man's rulership. Okay, this is pre-Renaissance. I know some of y'all hate yourselves and hate your God, hate your *[[1:26:36](https://www.youtube.com/watch?v=i0o32RulIgQ&t=5196s)]* people.
 
 **Officer:** Hate your parents, hate your own, hate the one that made you, and can't think outside the street.
 
@@ -912,7 +912,7 @@ Reading from Wikipedia, "House of Stuart", read off the screen · read by an off
 
 > The Stuarts were monarchs of Britain and Ireland and its growing empire until the death of Queen Anne in 1714,
 
-- *[[1:53:38](https://www.youtube.com/watch?v=i0o32RulIgQ&t=6818s)]* The last of the Stuart line before white folks took over, because these women married Europeans. They married into white German families. And that's where Princess Diana comes from. Prince Henry, William, that's that family there. Germans, that took on the throne. The last reign of the black kings in Europe, of England, was that year there, 1714. From there it was all white folks. Go ahead.
+- *[[1:53:38](https://www.youtube.com/watch?v=i0o32RulIgQ&t=6818s)]* The last of the Stuart line before white folks took over, because these women married … Europeans. They married into white German families. And that's where Princess Diana comes from. Prince Henry, William, that's that family there. Germans, that took on the throne. The last reign of the black kings in Europe, of England, was that year there, 1714. From there it was all white folks. Go ahead.
 
 > except for the period of the Commonwealth between 1649 and 1660.
 
@@ -1212,7 +1212,7 @@ Now click Duncan the First. Now Duncan the First is the son of Malcolm II. Click
 
 **Officer:** Fergus.
 
-**Deacon Eythan:** No. Dub. I'm trying to find him. *[[2:24:07](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8647s)]* Go to Kenneth the First. Type in Kenneth the First. I missed something.
+**Deacon Eythan:** No. Dub. … I'm trying to find him. *[[2:24:07](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8647s)]* Go to Kenneth the First. Type in Kenneth the First. I missed something.
 
 **Officer:** If you don't got it, D, I got a couple pages.
 
@@ -1228,7 +1228,7 @@ Reading from Wikipedia, on King Dub  *[[2:25:38](https://www.youtube.com/watch?v
 
 - So Dub, black. So King David goes back to a king named Black. *[[2:26:01](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8761s)]* Kenneth Dub.
 
-- You got something, J? You want something real fast before we go?
+- … You got something, J? You want something real fast before we go?
 
 - **Officer:** Real quick, pull the book up. The clans. And also I posted a page from *Ancient and Modern Britons* on the Telegram.
 
@@ -1298,7 +1298,7 @@ Reading from *Ancient and Modern Britons*, page 173, the page posted on the Tele
 
 - So that's your Kenneth Duff, and that's your Malcolm. That's that whole line. *[[2:29:07](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8947s)]* Go ahead.
 
-> And one of the most celebrated of these, Kenneth, or or Duff, ruled over certain districts known as the three black divisions.
+> And one of the most celebrated of these, Kenneth, or … or Duff, ruled over certain districts known as the three black divisions.
 
 - England, Scotland, and what else?
 
@@ -1312,9 +1312,9 @@ Reading from *Ancient and Modern Britons*, page 173, the page posted on the Tele
 
 > and what were the probable fluctuations of colour throughout the island, it is impossible to ascertain, and premature to discuss. But, at any rate, the Moorish races were among the chief opponents of the Romans when they marched through Britain eighteen hundred years ago.
 
-- That's all I want. And I go back to Caratacus. Yep. *[[2:29:57](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8997s)]* And that goes back to your King Arthur too. All the same people. Descent and ascent, as ancestors or descendants. It's the same people. Anglo-Saxons, Picts, Danes, that was us. His name is Kenneth Dubh. Kenneth Black. That's his name. So ban me if you want to.
+- That's all I want. And I go back to Caratacus. Yep. *[[2:29:57](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8997s)]* And that goes back to your King Arthur too. All the same people. Descent and ascent, as ancestors or descendants. It's the same people. Anglo-Saxons, Picts, Danes, that was us. His name is Kenneth Dubh. Kenneth Black. … That's his name. … So ban me if you want to.
 
-- So with that, we're going to end it. Hope you guys enjoyed the show. Job 9:24, read it real fast.
+- … So with that, we're going to end it. Hope you guys enjoyed the show. Job 9:24, read it real fast.
 
 </div>
 
@@ -1324,7 +1324,7 @@ Reading from *Ancient and Modern Britons*, page 173, the page posted on the Tele
 
 - *[[2:30:47](https://www.youtube.com/watch?v=i0o32RulIgQ&t=9047s)]* We spoke the language English first. That was our language. English is of the Picts. It's our language originally. Yes, it was. We spoke it first. They conquered us, and then it became modern, and Esau added German stuff to it. But it's our language originally. I had to answer the question in the comments. I'm sorry. I cut you off. That's on me. Go ahead.
 
-- We've been seeing that all day. Henrietta described as black; on the wall she's white. Dub, the man's name *[[2:31:33](https://www.youtube.com/watch?v=i0o32RulIgQ&t=9093s)]* is Dub, and they got a white bald guy, look like the guy from *All in the Family*, on the damn picture. This is insane. With the wind blowing in his thin hair. Are you serious? Read the verse again, please. You can't make this up, man.
+- We've been seeing that all day. Henrietta described as black; on the wall she's white. Dub, the man's name *[[2:31:33](https://www.youtube.com/watch?v=i0o32RulIgQ&t=9093s)]* is Dub, and they got a white bald guy, look like the guy from *All in the Family*, on the damn picture. This is insane. With the wind blowing in his thin hair. … Are you serious? Read the verse again, please. You can't make this up, man.
 
 - He covers the faces of the judges: the kings, the queens, the knights, God, Christ, the angels, the prophets, the judges thereof. Us. Go ahead. *[[2:32:09](https://www.youtube.com/watch?v=i0o32RulIgQ&t=9129s)]* If he ain't doing it, who else does it? If he ain't covering the faces of the judges thereof, who else is doing it?
 

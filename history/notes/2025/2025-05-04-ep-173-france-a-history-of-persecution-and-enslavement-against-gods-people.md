@@ -132,7 +132,7 @@ Reading from an article on the French government's dissolution of IUIC France, r
 
 - **Officer:** And covered us with the shadow of death. That's captivity right there. So the Bible already told you we're going to be broken in the place of dragons. That's it.
 
-- Hey, get me Malachi 1 and 4. I'm going to show you that all these are the same. You think because that happened in France, they ain't coming to America? You think that happened in France, that's not going to happen in none of the other European countries? That's just in France right now? Nah, they all the same. Remember, they all come together with one consent.
+- Hey, get me Malachi 1 and 4. I'm going to show you that all these … are the same. You think because that happened in France, they ain't coming to America? You think that happened in France, that's not going to happen in none of the other European countries? That's just in France right now? Nah, they all the same. Remember, they all come together with one consent.
 
 **[Malachi 1:4](/bible/malachi/1#v4)**  *[[15:42](https://www.youtube.com/watch?v=I5lNlZXOB50&t=942s)]*
 

@@ -20,7 +20,7 @@ tags: ["Our Hidden History", "passover-feasts"]
 
 *[[0:10](https://www.youtube.com/watch?v=N2ogZ6SC8cE&t=10s)]* And I didn't have the time. So some of the books that I did use, I didn't reference the author. I didn't reference her in particular, and the book before hers, the Oxford one. But I want to give a shout out to her most definitely for her amazing contributions to the lessons that we've been bringing out. And also, just in my defense as well, I don't like to bring out the books' authors a lot, because what happens is people will watch our show and then they will go, “Hey, did you know?” And they're using the sources that we brought out. So I will be slick and I won't reference the book, so they're like, “Oh, what book is he using?” You don't know, cuz I'm not telling you. No, don't put a picture up. I'm not going to be an A-hole. But respect got to be given, man. That's why when I first started the show, my original plan was to never show the books, ever. Just have them: so here's the page, and you just figure it out for yourself. I might go back to that again, cuz I don't like when people do YouTube shorts and start using my information that I bring out, and then all of a sudden it's them. But it's all glory to the Lord at the end of the day.
 
-*[[1:22](https://www.youtube.com/watch?v=N2ogZ6SC8cE&t=82s)]* The Most High's word is going out. History is being spread. I just don't like people plagiarize people's material. It bothers me. It aggravates me a lot. Cuz we put a lot of hard work into our research. We come together. We buy these books. We gather information. It takes weeks, six months to put things together. And so for someone to come along and just go, “Look what I found.” No. You didn't find anything. You found the radio show, and you're watching the radio show, and then you're presenting, “Oh, look what I found.” You found nothing. You found this show, and now you're trying to use the material that you were not responsible for finding. But it's fine.
+*[[1:22](https://www.youtube.com/watch?v=N2ogZ6SC8cE&t=82s)]* The Most High's word is going out. History is being spread. I just don't like people plagiarize people's material. It bothers me. It aggravates me a lot. Cuz we put a lot of hard work into our research. We come together. We buy these books. We gather information. It takes weeks, six months to put things together. And so for someone to come along and just go, “Look what I found.” No. You didn't find anything. … You found the radio show, and you're watching the radio show, and then you're presenting, “Oh, look what I found.” … You found nothing. You found this show, and now you're trying to use the material that you were not responsible for finding. But it's fine.
 
 *[[1:58](https://www.youtube.com/watch?v=N2ogZ6SC8cE&t=118s)]* Like I said, I can't stop you. I can't pursue you. But I just want to bring awareness to it, that I know you. I know what you're doing. And we're watching. We don't like what you're doing. So when you're watching now, be respectful, sir. Respect those before you, as I do. I respect my elders. Some of you guys come into the truth and y'all be on some orphan spirit: no guidance, no leadership. So you're just trying to do what y'all want to do. I don't like that.
 
@@ -90,7 +90,7 @@ Reading from a 2012 printout titled *King James the First Biography*, from Deaco
 
 - No, no, no, that's all I want. So under here it says he had four tutors. Now give me Kings, with Rehoboam.
 
-**[1 Kings 12:6-7](/bible/1-kings/12#v6)**  *[[9:57](https://www.youtube.com/watch?v=N2ogZ6SC8cE&t=597s)]*
+… **[1 Kings 12:6-7](/bible/1-kings/12#v6)**  *[[9:57](https://www.youtube.com/watch?v=N2ogZ6SC8cE&t=597s)]*
 
 > <sup>[6](/bible/1-kings/12#v6)</sup> And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?
 >
@@ -198,7 +198,7 @@ Reading from the 2012 printout, *King James the First Biography*, continued  *[[
 
 > Then in 1589, he took Anne of Denmark to be his queen. King James loved his wife and wrote beautiful poetry for her. Together they had nine children.
 
-- He had the same amount of kids as me. He had nine children. Nine children. But somehow he became gay. We're going to deal with that later on. I might have it written down somewhere. I'll go to that later on.
+- He had the same amount of kids as me. … He had nine children. Nine children. But somehow he became gay. We're going to deal with that later on. I might have it written down somewhere. I'll go to that later on.
 
 > Once when the king and queen were out hunting, Queen Anne accidentally killed the king's favorite hunting dog, Jewel. The queen felt badly about this, and the king brought her a gift to ease her mind of this incident.
 >
@@ -208,7 +208,7 @@ Reading from the 2012 printout, *King James the First Biography*, continued  *[[
 
 > James' defense of the divine right of kings is now often scorned and held in contempt.
 
-- Stop. Why though? Why is it now scorned and held in contempt? Because of what we had in our parliament. England had a parliament, or government; fancy word for government. And we had in our parliament, like Oliver Cromwell. I'm going to deal with him. I'm coming up to him soon. And they did not like the fact that we had a pride in the kings. Remember, this is the king's line. The king's judgment supersedes parliament. Edom wanted to have it where they had more of a say than the king did. Because in the Catholic faith, the church governs the king. But in the Protestant faith, the king governs the church, or upholds it to a degree. It's a balance. But divine right means God put me here in this throne: you do what I say. That was his thing.
+- Stop. Why though? Why is it now scorned and held in contempt? Because of what we had … in our parliament. England had a parliament, or government; fancy word for government. And we had … in our parliament, like Oliver Cromwell. I'm going to deal with him. I'm coming up to him soon. And they did not like the fact that we had a pride in the kings. Remember, this is the king's line. The king's judgment supersedes parliament. Edom wanted to have it where they had more of a say than the king did. Because in the Catholic faith, the church governs the king. But in the Protestant faith, the king governs the church, or upholds it to a degree. It's a balance. But divine right means God put me here in this throne: you do what I say. That was his thing.
 
 - And now it is held in scorn because by that decree, you can't just up and take the king's throne and sit there when you don't belong to that line, how Edom does. Edom will infiltrate. So if you believe in the divine right of kings, you can't just up and take over the throne. You understand? So that's what was happening here. It was eventually looked upon with scorn by the parliament. That's how Charles the First got beheaded, cuz he believed in the same thing. He was killed for the same exact thing. Cuz parliament was trying to tell him what to do. He said, “Listen, I'm king, nigger. I do what I want to do. You listen to your damn parliament.” And they had him killed. Oliver Cromwell had him killed. We're going to get to that.
 
@@ -254,7 +254,7 @@ Reading from the 2012 printout, *King James the First Biography*, continued  *[[
 
 > <sup>[10](/bible/1-chronicles/22#v10)</sup> He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.
 
-- So he will establish the throne of his kingdom, as in Solomon's kingdom, forever, meaning the children would have to come out of Solomon. You can't get around this. “Oh, well, see what happened was, Joseph was of Solomon, and Joseph was his mom's baby's stepdaddy.” This is some stupid talk. That's what that is. It's dumb talk. “Yeah, see, Joseph didn't lay with Mary yet. So Joseph was Solomon's line, and Christ was the stepson of Joseph, so he adopted Christ, and because he adopted Christ, now he's of the lineage of Joseph.” No. Listen. Your stepfather does not change your DNA.
+- So he will establish the throne of his kingdom, as in Solomon's kingdom, forever, meaning the children would have to come out of Solomon. You can't get around this. “Oh, well, see what happened was, Joseph was of Solomon, and Joseph was his mom's baby's stepdaddy.” This is some stupid talk. That's what that is. … It's dumb talk. “Yeah, see, Joseph didn't lay with Mary yet. So Joseph was Solomon's line, and Christ was the stepson of Joseph, so he adopted Christ, and because he adopted Christ, now he's of the lineage of Joseph.” No. Listen. Your stepfather does not change your DNA.
 
 - Let's go to that logic. Let's just say, for example, Mary was a virgin and Christ came into the world miraculously. Let's just play this dumb game with y'all for a moment. If Joseph is the stepfather of Christ, how is Christ entitled to the throne? By loins. By generation. Matthew 1 says generation. Christ does not belong to the generation of Solomon, because that's his stepfather's line. You cannot be adopted into a lineage. You are what your father is. By biblical law, you are what your father is. Now them guys over there, who killed innocent children in Gaza and dropped bombs on innocent families and so forth over there in Iran, they go by mommy. When you ask them, where in the Bible do we find you are what your mother is? They can't explain it. They can't. Y'all got all the questions for us on the comment board, but don't have questions for them about how your mommy is your lineage. How is that possible?
 
@@ -378,7 +378,7 @@ Reading from the title page of the Cambridge King James Bible, continued  *[[48:
 
 > Cum privilegio.
 
-- Privilegio. I guess your privilege. Oh, snap. Zoom in. We're going to break soon after this.
+- … Privilegio. I guess your privilege. Oh, snap. Zoom in. We're going to break soon after this.
 
 - **A brother:** And Deac, if you look at like John 19, our people was reading. They speak those languages back then, too.
 
@@ -606,7 +606,7 @@ Reading from *The Epistle Dedicatory*, continued  *[[1:00:40](https://www.youtub
 
 > So that if, on the one side, we shall be traduced by Popish persons
 
-- Slandered by who? Popish persons. Remember earlier, King James had said that he was against the papal interferences. So these guys were fighting against the Catholics. These were that were behind the scenes trying to disrupt and stop us from making the Bible a public reading. Edom was trying to maintain governance. That's why they were fighting against King James, the divine right of kings. They knew if anyone could be a problem to them in keeping the Bible to themselves, it would be the king. That's why his life was always in danger. Cuz they knew that this king right here is going to allow that Bible to be published for the world to read, and we'll lose control over the people. Remember, cuz they try to keep us in darkness.
+- Slandered by who? Popish persons. Remember earlier, King James had said that he was against the papal interferences. So these guys were fighting against the Catholics. These were … that were behind the scenes trying to disrupt and stop us from making the Bible a public reading. Edom was trying to maintain governance. That's why they were fighting against King James, the divine right of kings. They knew if anyone could be a problem to them in keeping the Bible to themselves, it would be the king. That's why his life was always in danger. Cuz they knew that this king right here is going to allow that Bible to be published for the world to read, and we'll lose control over the people. Remember, cuz they try to keep us in darkness.
 
 - **A brother:** And remember that movie, The Book of Eli?
 
@@ -858,9 +858,9 @@ Reading from the 2012 printout, *King James the First Biography*, continued  *[[
 
 - The lies came 25 years after he died. I'mma give y'all a prime example of what I mean. Malcolm X is gone. He's gay now. Damn. Martin Luther King is dead and gone. He was effing white women and prostitutes. They got audio. Where's the audio? Let's hear it. I'll listen. Where is it at? Let's hear it. Yeah: “I had a dream I was in that ass. With the snow bunnies.” I want to hear the audio.
 
-- **A brother:** They going to bring an AI version. It's bull.
+- **A brother:** They going to bring an AI version. … It's bull.
 
-- **Deacon Eythan:** “I had a dream I was in white coochie one day. One day I dreamed I was in that ass.” With the snow bunnies, and the snow bunnies are holding white hands and holding condoms. And I was like, “Hallelujah. Get the lube. I'll reach the mountain top. Tonight is the mountain top. I mean, I get there with you, but if I finish before you, what's your problem?” Y'all listen, man. Y'all got all this information. We want to hear it. See it.
+- **Deacon Eythan:** “I had a dream I was in white coochie one day. One day I dreamed I was in that ass.” … With the snow bunnies, and the snow bunnies are holding white hands and holding condoms. And I was like, “Hallelujah. Get the lube. I'll reach the mountain top. Tonight is the mountain top. I mean, I get there with you, but if I finish before you, what's your problem?” Y'all listen, man. Y'all got all this information. We want to hear it. See it.
 
 - **A brother:** They ain't got it, Deac. It's a lie, man. It's all to discredit our people, man.
 

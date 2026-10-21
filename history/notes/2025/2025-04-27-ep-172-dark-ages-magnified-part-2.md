@@ -20,7 +20,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 *[[6:40](https://www.youtube.com/watch?v=sKm1mejWL0U&t=400s)]* Okay, we're back. We are back. Welcome y'all. Welcome, welcome, welcome to another episode. You are now tuned into Our Hidden History. It's been a while. Yo, D, you started off. I'm sorry. Yeah, I started confused. All right, you are now tuned into Our Hidden History radio show. Right. Back. This came from ATL. That's what it was. ATL messed me up.
 
-*[[7:44](https://www.youtube.com/watch?v=sKm1mejWL0U&t=464s)]* All praise to the Most High, man. We're back. We are back. It's been a while. Still turned up, right? Still turned up, man. All praise to the Most High. The booster club. Shout out to the booster club. Shout outs to y'all, man. We got the clap for the booster club. Come on, Judah. Come on, Prince of Judah. Your contributions, we appreciate y'all. We appreciate y'all for all that you do. Could not be done without you. The endeavors that we seek to fulfill are done thanks to y'all and your willful, cheerful contributions and donations. We thank you for that.
+*[[7:44](https://www.youtube.com/watch?v=sKm1mejWL0U&t=464s)]* All praise to the Most High, man. We're back. We are back. It's been a while. … Still turned up, right? Still turned up, man. All praise to the Most High. The booster club. Shout out to the booster club. Shout outs to y'all, man. We got the clap for the booster club. Come on, Judah. Come on, Prince of Judah. Your contributions, we appreciate y'all. We appreciate y'all for all that you do. Could not be done without you. The endeavors that we seek to fulfill are done thanks to y'all and your willful, cheerful contributions and donations. We thank you for that.
 
 *[[8:15](https://www.youtube.com/watch?v=sKm1mejWL0U&t=495s)]* Let's just jump right into it. Man, I told y'all Dark Ages. We are in Dark Ages Magnified. We are in part two. I am excited as much as y'all are excited about it. So we just going to dive into it. But first, we got to go into the scriptures first. The scriptures are first and the scriptures are paramount.
 
@@ -254,9 +254,9 @@ Reading from *Essays in History* by R. H. Patterson, page 119, continued: the Ke
 
 - **Deacon Eythan:** Yes. Going through a divorce with Esau. You got to stick to your own, sis. Got to marry your own. I'm telling you, you go black, you should stay there. Anyway. Quinta Brunson, very good sister. She's a comedian, very talented sister. But the woman right here to the right, she's Sicilian. I forgot her name. She's Italian, she throws that Italian stuff in there, but she act like us.
 
-- So they put these things in shows on purpose, to kind of just throw little innuendos, like, Yeah, she should be around y'all. She plays a Sicilian character around a bunch of black folks; they try to throw out little shots like, Yeah, you Sicilian should be over there with them niggas. They know. Now, I'm not saying Sicilians are our people. Don't go out there and get a white Sicilian girl. I'm not saying that. What I'm saying is that there's a history. The history of Sicilian people stems from black folks.
+- So they put these things in shows on purpose, to kind of just throw little innuendos, like, Yeah, she should be around y'all. She plays a Sicilian character around a bunch of black folks; they try to throw out little shots like, Yeah, you Sicilian should be over there with them niggas. They know. Now, I'm not saying Sicilians are our people. Don't go out there and get a white Sicilian girl. I'm not saying that. … What I'm saying is that there's a history. The history of Sicilian people stems from black folks.
 
-- Now when Hannibal and them got conquered out of that area, a lot of them went back to the east and mingled themselves back with them. But there's still bits and pieces. You can't wash out black men. You can't. So there's bits and pieces of us still left in these Sicilian men and women walking around. That's what I'm saying. And when you meet the original Italians and you call them Sicilian, they'll get mad. They don't like it. And they used to call Sicilians guineas. You guineas. Because Guinea goes back to being blacks, because they know the history of how Hannibal and them crossed them Alps. We crossed the women afterwards.
+- Now when Hannibal and them got conquered out of that area, a lot of them went back to the east … and mingled themselves back with them. But there's still bits and pieces. You can't wash out black men. You can't. So there's bits and pieces of us still left in these Sicilian men and women walking around. That's what I'm saying. And when you meet the original Italians and you call them Sicilian, they'll get mad. They don't like it. And they used to call Sicilians guineas. You guineas. Because Guinea goes back to being blacks, because they know the history of how Hannibal and them crossed them Alps. We crossed the women afterwards.
 
 - Anyway, where we at? You got another text. Hold on. Let's finish this up.
 
@@ -480,7 +480,7 @@ Reading from a clip from the show *1923*, played from the OHH Telegram  *[[54:04
 
 - **Guest:** Can we drop a bomb, bro?
 
-- **Deacon Eythan:** He didn't say southern Spain. He said Spain, Italy. Period. He just went in. He said southern France was ruled by black men, as well as Spain and Italy. Y'all think we just up here with that hate white folk? No. What I'm showing y'all is the history. Our hidden history is in movies too, and shows. What I'm saying to y'all, they have conversations among themselves about it. Everyone knows what we were doing. They know these things. We know these things.
+- **Deacon Eythan:** He didn't say southern Spain. He said Spain, Italy. Period. He just went in. He said southern France was ruled by black men, as well as Spain and Italy. Y'all think we just … up here with that hate white folk? No. What I'm showing y'all is the history. Our hidden history is in movies too, and shows. What I'm saying to y'all, they have conversations among themselves about it. Everyone knows what we were doing. They know these things. We know these things.
 
 - **Guest:** D, how you come across this movie, though, man?
 
@@ -516,7 +516,7 @@ Reading from a clip from the show *1923*, played from the OHH Telegram  *[[54:04
 
 > And it truly has some of the most magnificent architecture in the world.
 
-- So a lot of the structures of Spain, the beauty that people go to tour and see, white folks didn't build that, man. We built Andalusia, and we built that area. We built it. It wasn't them. We ruled Europe. King James is black. Right. They can't even duplicate this. They can't duplicate this. We built a lot of this. Go back. That's us. We built these things here. Get the hell out of here.
+- So a lot of the structures of Spain, the beauty that people go to tour and see, white folks didn't build that, man. We built Andalusia, and we built that area. We built it. It wasn't them. We ruled Europe. King James is black. Right. … They can't even duplicate this. They can't duplicate this. … We built a lot of this. Go back. That's us. We built these things here. Get the hell out of here.
 
 - Even that castle in Russia, that little swirly dome. We built that, too.
 
@@ -898,7 +898,7 @@ Reading from *Dictionary of the Bible* by William Smith (1863), the article on O
 
 > St. Jerome says that some of the Jews read Rome for Dumah in Isaiah 21:11;
 
-- Remember, when Israel took over Rome, we took on a persona and an ideology of Rome. So the Jews that were rabbinical, they referred to us that ruled Rome as also, and pushers of the Edomite religion, which is Christianity. That's what they're saying here.
+- Remember, when Israel took over Rome, we took on a persona and an ideology of Rome. So the Jews that were rabbinical, they referred to us that ruled Rome as … also, and pushers of the Edomite religion, which is Christianity. That's what they're saying here.
 
 > finally, some of the rabbis, and with them Abarbanel, maintain that it was the soul of Esau which lived again in Christ.
 
@@ -1098,7 +1098,7 @@ Reading from *African Presence in Early Europe* by Ivan Van Sertima, page 223, o
 
 > and this point is even verified in British literature and mythology.
 
-- Go up. Septimius and his wife. That's him there. His wife there. She's an Arab, and his wife light-skinned and so forth. And his son's over there. He's all blotted out. He's all blotted out there in the bottom. Right there. That's his son right there. He probably darker. He's dark like his father. You can see they whited him out. They're trying to destroy... He tried to destroy that... He look like his father.
+- Go up. Septimius and his wife. That's him there. His wife there. She's an Arab, and his wife light-skinned and so forth. And his son's over there. He's all blotted out. He's all blotted out there in the bottom. Right there. That's his son right there. He probably darker. He's dark like his father. You can see they whited him out. They're trying to destroy... He tried to destroy that... He look like … his father.
 
 - **Guest:** Hey D. Going with the curses that we was just reading about, that one curse where it says you shall build a house and another man shall dwell in it. That also goes for the countries that we built, like in Europe. They just moved into all the palaces that we already had.
 
@@ -1248,7 +1248,7 @@ Reading from search results on the names *Severus* and *sever*, looked up on air
 
 ## In Closing
 
-*[[2:11:36](https://www.youtube.com/watch?v=sKm1mejWL0U&t=7896s)]* So, Lord's will, when I come back, I'm going to go into the history of how Septimius Severus wounded one of the seven heads. Septimius Severus, basically the cutter of seven. Seven cutter. How he basically took over, wounded Rome, and took it over. Remember, we read earlier how all the Israelites, ancient or modern, knew who founded the Roman Empire. And so Septimius Severus came along, and he wounded that family, and took it over, and disrupted that ruling line, and took it for himself. So it's no longer Edom ruling anymore. Now it's Jacob ruling over it. So he wounded Rome. And once we began to rule, and got conquered, remember that last book earlier, we read earlier how there was a fight between fair-skinned and dark-skinned: that's when their wound was healed. When they began to conquer us land by land. That's what that video, the guy said blacks used to rule Europe. What happened? The Renaissance happened. They began to regain their power back. That's how the deadly wound was healed. The Renaissance. They're rebuilding, a rebirth. Look up Renaissance real quick, what the word means, while I end it on there. Not the period. The meaning. Blow it up so everybody see it.
+*[[2:11:36](https://www.youtube.com/watch?v=sKm1mejWL0U&t=7896s)]* So, Lord's will, when I come back, I'm going to go into the history of how Septimius Severus wounded one of the seven heads. Septimius Severus, basically the cutter of seven. Seven cutter. How he basically took over, wounded Rome, and took it over. Remember, we read earlier how all the Israelites, ancient or modern, knew who founded the Roman Empire. And so Septimius Severus came along, and he wounded that family, … and took it over, and disrupted that ruling line, and took it for himself. So it's no longer Edom ruling anymore. Now it's Jacob ruling over it. So he wounded Rome. And once we began to rule, and got conquered, remember that last book earlier, we read earlier how there was a fight between fair-skinned and dark-skinned: that's when their wound was healed. When they began to conquer us land by land. That's what that video, the guy said blacks used to rule Europe. What happened? The Renaissance happened. They began to regain their power back. That's how the deadly wound was healed. The Renaissance. They're rebuilding, a rebirth. Look up Renaissance real quick, what the word means, while I end it on there. Not the period. The meaning. Blow it up so everybody see it.
 
 <div class="reading">
 

@@ -66,7 +66,7 @@ So, let's get John 14:28. Let's jump into that. Lord willing, next time I have s
 
 - **Deacon Eythan:** I have not yet ascended to my father. But go to my brethren and say unto them, I ascend unto my father and your father, and to my God and your God. So Christ said, I ascend to my God, and I ascend unto your God. So Christ said, pray, Our Father who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done. So he said, pray our father. We all have a true God, including him. He's our God, and he has a God that he serves.
 
-- Some of y'all are confused about that, cuz some of y'all, you know, are still Catholics in your brain. I know. I get it. I understand. You know, white men can't be wrong. White man's right. I know. I know. I know. Let's continue. Give me 11 and 41.
+- Some of y'all are confused about that, cuz some of y'all, you know, are still Catholics in your brain. I know. I get it. I understand. You know, white men can't be wrong. … White man's right. I know. I know. I know. Let's continue. Give me 11 and 41.
 
 **[John 11:41-42](/bible/john/11#v41)**  *[[12:57](https://www.youtube.com/watch?v=GXPvA86LJ3Y&t=777s)]*
 

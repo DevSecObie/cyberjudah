@@ -218,7 +218,7 @@ Reading from a definition searched on air, white guilt and white fragility  *[[3
 
 </div>
 
-*[[37:52](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=2272s)]* **Officer:** Hey, Deac, that defensiveness that we just read about, and that definition too. I remember we was at camp and we gave a flyer to this brother, and you know, what you would call a hood Negro. Give him the flyer, showing them that Christ is black and everything like that. He goes around to the other black people, very, very offended, like, yo, look at this. You know they lying, bro. Ain't no way God looks like that. Ain't no way he looked like that. He about to fight us. I was like, bro, wow. Is it so wrong to tell you that you actually come from the lineage of great men? He's like, nah, man, you lying.
+*[[37:52](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=2272s)]* **Officer:** Hey, Deac, that defensiveness that we just read about, and that definition too. I remember we was at camp and we gave a flyer to this brother, and you know, what you would call a hood Negro. Give him the flyer, showing them that Christ is black and everything like that. He goes around to the other black people, very, very offended, like, yo, look at this. You know they lying, bro. Ain't no way God looks like that. … Ain't no way he looked like that. He about to fight us. I was like, bro, wow. Is it so wrong to tell you that you actually come from the lineage of great men? He's like, nah, man, you lying.
 
 **Officer:** The black man feels like he have no purpose without Esau on this planet. Didn't y'all encounter that in the classroom? You told your young boys, your kings, what they say to y'all again?
 
@@ -238,7 +238,7 @@ Reading from a definition searched on air, white guilt and white fragility  *[[3
 
 > <sup>[4](/bible/hosea/3#v4)</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
 
-- **Officer:** So without an image means, like when you watch on TV, the image they push about us is nothing. We're nobody. You know, we gangsters, drug addicts, pimps, hoes. So the young kids that's growing up don't see themselves as nothing.
+- **Officer:** So without an image means, like when you watch on TV, the image they push about us is nothing. We're … nobody. You know, we gangsters, drug addicts, pimps, hoes. So the young kids that's growing up don't see themselves as nothing.
 
 - **Deacon Eythan:** It's called an ethnic image. When you examine black people, think about a gangster, a hood drug dealer, violent, sexual, angry, single parent household. That's the first thing you think about. You don't think about white people. You don't think about Arabs. The immediate thought is us. And even our people who are outside of America, when they do portray black folks over there on the media outside America, they show the entertainment side of us. So when our people over there in Africa do act like us over here, it's that side: they dancing and they twerking and they got the baggy clothes on, the jerseys and the fitted hats and the blunt in their mouth. Because our brothers are over there in America, the land of opportunity, that's how you live over there, so that's how we should behave over here. And then they perpetrate that false image of us, because all of us don't behave this way. But they put that false ethnic image of us and they show it to our brothers on the other sides of the world, just to stain our image and our reputation. Even though, living over here, we see it, which is terrible. But go ahead, read that.
 
@@ -418,7 +418,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 
 > Here men would take liberties with these hapless girls, 12 to 18 years old,
 
-- 12 to 18. I do not care about Palestine. I don't care at all. Happy trails. 12 to 18 year olds were being raped by these Muslims, these Ishmaelites, these Arabs. They were following their prophet Muhammad. Allah allowed it. Allah sat back on a tea break and watched that go on. He was on a tea break. He was under a bridge. He was on a journey. Where was he at? Does he have an explanation for why this happened? Does he explain why that took place? Does Allah explain why that happened? Does he give us a detail? He wrote it down on paper somewhere? Continue.
+- 12 to 18. I do not care about Palestine. I don't care at all. Happy trails. 12 to 18 year olds were being raped by these Muslims, these Ishmaelites, these Arabs. They were following their prophet Muhammad. Allah allowed it. Allah sat back on a tea break and watched that … go on. He was on a tea break. He was under a bridge. He was on a journey. Where was he at? Does he have an explanation for why this happened? Does he explain why that took place? Does Allah explain why that happened? Does he give us a detail? He wrote it down on paper somewhere? Continue.
 
 > in a manner they would not dream of when courting a Muslim woman they wished to marry.
 
@@ -476,7 +476,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 
 - They say, we have swallowed her up. Certainly this is the day that we looked for. We have found, we have seen it. Where? In our Bibles. Because Ishmael read our Bible. Edom read our Bible. The Hamite read our Bible. Moab read our Bible. Israelis read our Bible too. The Spaniard read our Bible. Columbus read our Bible; that's why he got over here. Vasco da Gama read our Bible; that's why he came over to India. They have found and saw that once we sinned against our God and got kicked out of our land and were exiles and refugees in foreign lands, we were destined for bondage. They saw it. They knew it, because the Bible told them so.
 
-- The Bible told us so. First we said, the hell with you. We ain't listening to nobody. We going to do our own thing. We going to do what we want to do. The hell with you prophets. Listen to you prophets? We going to do us. We're going to follow Molech, Milcom, Baal, white Jesus, Zeus, Odin, Jupiter. We going to serve that Queen of Heaven, Isis, Diana. God? Nah, we good. We good over here. Are we good now?
+- The Bible told us so. First we said, the hell with you. … We ain't listening to nobody. We going to do our own thing. We going to do what we want to do. The hell with you prophets. Listen to you prophets? We going to do us. We're going to follow Molech, Milcom, Baal, white Jesus, Zeus, Odin, Jupiter. We going to serve that Queen of Heaven, Isis, Diana. God? Nah, we good. We good over here. Are we good now?
 
 - So the nations said we are destined for bondage once we lost our land. Because remember, Ishmael, remember, the Palestinians took over Israel and all the top of Africa. They said, these guys ain't got their land no more. They're forsaken. We can destroy them. They're divided among themselves. They're fighting among themselves. They all divided. Look at them. They don't get along. They hate each other. Oh, man, this the day we've seen. This is it. Destined for bondage.
 
@@ -536,7 +536,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 > How Did Africans Become Enslaved? The Arabs took advantage of regional wars in Africa to buy captives from the victors. They also used the old divide and conquer technique.
 
-- I'm telling you, bro, the and the Arabs always saw division among us, Negro nonsense among us, and said, this is the time. We have found it, we have seen it. They're destined for bondage. They divided among themselves. They're not serving their God. It's time. It's time to strike while the iron is hot.
+- I'm telling you, bro, the … and the Arabs always saw division among us, Negro nonsense among us, and said, this is the time. We have found it, we have seen it. They're destined for bondage. They divided among themselves. They're not serving their God. It's time. It's time to strike while the iron is hot.
 
 > They worked one group against the other
 
@@ -548,7 +548,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 > The Arabs eventually, especially from the 1400s onward, with the help of the ruthless Portuguese,
 
-- the help... Oh, man. The Arabs, with the help, with the help. I didn't know that was even in here. With the help of what? The ruthless Portuguese. The Ishmaelites.
+- the help... Oh, man. The Arabs, with the help, with the help. I didn't know that was even in here. With the help of what? The ruthless Portuguese. … The Ishmaelites.
 
 > began to raid the coastal towns
 
@@ -746,7 +746,7 @@ Reading from an article on the guardians of the Prophet's Mosque in Medina, read
 
 > They're also known as aghas or aghawat. Agha is a non-Arabic word derived from Turkish. The Turkish word comes from the Old Turkic aqa, meaning elder brother.
 
-- Turkish means mixed with Arabs, primarily Edom. That's why I said before, I think Muhammad was a Turk. I don't think he was full Ishmael. I think he was more Edomite Arab. Edom Arabs, I call them. Oh, man. Come on.
+- Turkish means … mixed with Arabs, primarily Edom. That's why I said before, I think Muhammad was a Turk. I don't think he was full Ishmael. I think he was more Edomite Arab. Edom Arabs, I call them. Oh, man. Come on.
 
 > The Prophet's Mosque, also known as Masjid an-Nabawi, where Prophet Muhammad is buried. This mosque represents one of the three oldest mosques in the world, and is located in Medina. The history of Masjid an-Nabawi is incomplete without the mention of the Guardians, who have their own story. These interesting people hail from Abyssinia, Ethiopia.
 

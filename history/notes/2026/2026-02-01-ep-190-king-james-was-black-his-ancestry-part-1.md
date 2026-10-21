@@ -376,7 +376,7 @@ Reading from *Ancient and Modern Britons*, page 114 onward, on the Danes, the bl
 
 > And in none of these terms is there any hint that the colour of their hair is indicated.
 
-- *[[31:59](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=1919s)]* So what the guy is saying is that what Esau would do is, it says dubh is referring to their black hair. And this author is saying, no, no, it's because their skin is black, not because of their hair only. Like they say, "Oh, there was a man, and they called him black because the back of his neck was black." I'm like, what? His neck was black? He's a white man and everything. Stop. Stop. Stop. So that's what Esau does. So they say, "Oh, they're called black because of their hair color." No, they were called black because their hair and their skin was black. That's why they're called black. Go ahead. Continue.
+- *[[31:59](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=1919s)]* So what the guy is saying is that what Esau would do is, it says dubh is referring to their black hair. And this author is saying, no, no, it's because their skin is black, not because of their hair only. Like they say, "Oh, there was a man, … and they called him black … because the back of his neck was black." I'm like, what? His neck was black? He's a white man and everything. Stop. Stop. Stop. So that's what Esau does. So they say, "Oh, they're called black because of their hair color." No, they were called black because their hair and their skin was black. That's why they're called black. Go ahead. Continue.
 
 > But the expression used by St. Berchan in speaking of the Norwegians leaves no room for doubt. He calls them the gentiles of pure colour. The Danes then were not of pure colour. They were dubh, black. As black, at any rate, let us suppose, as the Black Huns, who were of a dark complexion, almost black. There can be no question about it. The designation given by the common people of one race to another is almost invariably founded upon some physical feature, and a most natural distinction is that of colour, where the races differ in complexion. The invading whites styled the Indians of America redskins.
 
@@ -1240,7 +1240,7 @@ Reading from *Origin of the Anglo-Saxon Race: A Study of the Settlement of Engla
 
 > <sup>[1](/bible/zephaniah/1#v1)</sup> The word of the Lord which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 
-- Cushi is black. Zephaniah, the son of the black. The son of Cushi. That's what the Israelis call us. They call us over there in Israel. They call us Cushi. That's what it means. Zephaniah, according to Israelis, was the son of a, or son of the Cushi. All right. The Israelis call us Cushi. Look it up: Israeli derogatory word. So I fact-check myself. It's a derogatory term that the Israelis use against us, and call us Cushi, the word. Read that. There you go. Read that.
+- Cushi is black. Zephaniah, the son of the black. The son of Cushi. That's what the Israelis call us. They call us … over there in Israel. They call us Cushi. … That's what it means. Zephaniah, according to Israelis, was the son of a, … or son of the Cushi. All right. The Israelis call us Cushi. Look it up: Israeli derogatory word. So I fact-check myself. It's a derogatory term that the Israelis use against us, and call us Cushi, the word. Read that. There you go. Read that.
 
 <div class="reading">
 
@@ -1440,7 +1440,7 @@ Reading from *Dictionary of Foundational Black British Surnames*, Part One, by S
 
 > All of the surnames evidence a foundational black origin. The later European below is now in possession of the original FitzAlan Arundel hereditary bloodline.
 
-- He does not belong there. Now he owns it. Now he owns it. That's not his. That's ours. That's some BS. This is some BS. So that manor: we had many manors like that. That belongs to us. Okay. That's what I want. All praise. You got this, brother. I really want this page. This sends us home right here. So I'm going to land us here. We got some more. I wanted to land back off of how Esau took over our manors. And they only have the manors now. They hold the title, not the blood. They just hold a title. Earl. Duke.
+- He does not belong there. Now he owns it. Now he owns it. That's not his. That's ours. That's some … BS. This is some BS. So that manor: we had many manors like that. That belongs to us. Okay. That's what I want. All praise. You got this, brother. I really want this page. This sends us home right here. So I'm going to land us here. We got some more. I wanted to land back off of how Esau took over our manors. And they only have the manors now. They hold the title, not the blood. They just hold a title. Earl. Duke.
 
 - **Deacon Eythan:** That's it there. Damn. Wow, man. We can't even fathom that we had something like that, or built that. Right.
 
@@ -1594,7 +1594,7 @@ Reading from *Dictionary of Foundational Black British Surnames*, Part One, by S
 
 - **Deacon Eythan:** That thou bring not blood upon thine house. What's that mean? That roof should not look like this. Slanted. Because someone can go on the roof and slide off the roof and die on your roof, because it's all slanted. And it's not supposed to be like that. Supposed to be flat. You can climb on it, walk on it. No one can die. No one can fall off of the roof.
 
-- *[[2:06:51](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=7611s)]* I'll give you exactly a story. I'm in my house, and that's how my roof looks. So the gutters are all clogged up. The leaves are all in my gutters. So what I had to do: get a ladder, climb up this slanted roof of mine, right? And me being black, I decided I'd be all right. No, I would not be all right. So I climb up successfully, but then of course you climb up, you got to go down to the gutters. I start slipping and sliding down to the gutter, like, oh. But I guess, by the grace of God, an angel caught my damn foot, because I made it. Just in time. And I stood there flat. I took the leaf blower and just blew all the leaves out. So, yo, I ain't doing this no more, man. But the point is that the roof should not look like this. It should be flat. A flat roof.
+- *[[2:06:51](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=7611s)]* I'll give you exactly a story. I'm in my house, and that's how my roof looks. So the gutters are all clogged up. The leaves are all in my gutters. So what I had to do: get a ladder, climb up this slanted roof of mine, right? And me being black, I decided I'd be all right. … No, I would not be all right. … So I climb up successfully, but then of course you climb up, you got to go down to the gutters. I start slipping and sliding down to the gutter, like, oh. But I guess, by the grace of God, an angel caught my damn foot, because I made it. Just in time. And I stood there flat. I took the leaf blower and just blew all the leaves out. So, yo, I ain't doing this … no more, man. But the point is that the roof should not look like this. It should be flat. A flat roof.
 
 - **Officer:** Yeah. It says it too. It says, if any man fall from thence.
 
@@ -1636,7 +1636,7 @@ Reading from *Dictionary of Foundational Black British Surnames*, Part One, by S
 
 *[[2:11:51](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=7911s)]* **Officer:** So this is a sword. The last king, the last stronghold of Granada: that was his sword. You see the Arabic inscriptions on it. Go to the next picture. So that's it. That's the whole sword right there, with the sheath. That was ours. Last king. His name was Abdullah, or something like that.
 
-- **Deacon Eythan:** Wow. Look at that. That sword is crazy. Like ice. I don't see no rust on that thing, man. That thing is straight. That thing is crazy. Gold. It's gold. Look at this. It's gold. The hilt is gold. Look at the sheath too. Wow, man. Esau got all of that. You see how he got it on display? "We conquered these." Got his sword.
+- **Deacon Eythan:** Wow. Look at that. That sword is crazy. Like ice. I don't see no rust on that thing, man. That thing is straight. That thing is crazy. Gold. It's gold. Look at this. It's gold. The hilt is gold. Look at the sheath too. Wow, man. Esau got all of that. You see how he got it on display? "We conquered these." … Got his sword.
 
 - **Officer:** Put a blindfold on the sword too. We're going to blindfold everything.
 

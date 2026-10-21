@@ -117,13 +117,13 @@ tags: ["Our Hidden History", "nations"]
 
 - He left remnants of Judah within the land. So now we're reading about the conquering of the southern kingdom: Judah, Benjamin and Levi. We left off last week with Assyria overthrowing the northern kingdom, and now, well, that's pretty much it. So both are conquered now.
 
-- The reason why I'm emphasizing the importance of these kingdoms being conquered is because this marks the beginning of the nations pretty much beginning to thrive. Once the southern kingdom and northern kingdom were conquered, the other nations begin to take over. They start to gain a footing, or gain some status and power. Edom especially. This gave Edom time to pretty much leave and start to travel and take over Europe and so forth, and conquer, and conquer. I'm going to get to that in a moment. Give me 1 Maccabees 1:1.
+- The reason why I'm emphasizing the importance of these kingdoms being conquered is because this marks the beginning of the nations pretty much beginning to thrive. Once the southern kingdom and northern kingdom were conquered, the other nations begin to take over. They start to gain a footing, or gain some status and power. Edom especially. This gave Edom time to pretty much leave and start to travel and take over Europe and so forth, and conquer, … and conquer. … I'm going to get to that in a moment. Give me 1 Maccabees 1:1.
 
 **[1 Maccabees 1:1](/bible/1-maccabees/1#v1)**  *[[12:56](https://www.youtube.com/watch?v=xAUWuI3rm6Q&t=776s)]*
 
 > <sup>[1](/bible/1-maccabees/1#v1)</sup> And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
 
-- So Alexander the Great was the first over Greece. He was the son of Philip the Macedonian. So now give me *Caesar and Christ*, page 39. *Caesar and Christ*, page 39, and we're going to start at the Latins. Blow it up real fast so I can see the Latins. Now, I made a mistake before: I mentioned that the Romans named us Phoenicians. The Greeks named us Phoenicians.
+- So Alexander the Great was the first over Greece. He was the son of Philip the Macedonian. … So now give me *Caesar and Christ*, page 39. *Caesar and Christ*, page 39, and we're going to start at the Latins. Blow it up real fast so I can see the Latins. Now, I made a mistake before: I mentioned that the Romans named us Phoenicians. The Greeks named us Phoenicians.
 
 <div class="reading">
 
@@ -547,7 +547,7 @@ Reading from *Babylon to Timbuktu*, Rudolph Windsor's book, pages 106 to 108, on
 
 > The population of Carthage was derived from Palestine and its civilization was Hebraic in origin. Slouschz is certain, after much research, that the language Hannibal spoke
 
-- The language Hannibal spoke. Hannibal, who is going to be played in the movie by Denzel. Denzel Washington. They're doing a movie on Hannibal and Denzel's playing Hannibal, and are furious, and I love every minute of it. Denzel Washington, he slimmed down too. Looks good. He was big at first; he slimmed down some, looks a lot better now. He's the older man now, he's playing Hannibal. I'd prefer they'd have picked somebody younger, like a Michael B. Jordan, or Damson Idris from *Snowfall*.
+- The language Hannibal spoke. Hannibal, who is going to be played in the movie by Denzel. Denzel Washington. They're doing a movie on Hannibal and Denzel's playing Hannibal, and … are furious, and I love every minute of it. Denzel Washington, he slimmed down too. Looks good. He was big at first; he slimmed down some, looks a lot better now. He's the older man now, he's playing Hannibal. I'd prefer they'd have picked somebody younger, like a Michael B. Jordan, or Damson Idris from *Snowfall*.
 
 - **Officer:** Black Panther. That'd be great.
 
@@ -649,7 +649,7 @@ Reading from *North Africa* by Nahum Slouschz, page 240, on the Hebrew inscripti
 
 > Other Phoenician inscriptions bear the theophoric forms of the name Jehovah, such as Joaz, Joel, etc.
 
-- Meaning God, God's my father, Father God. That was a god of them too. Ephraim: they served two different gods. They served God and the devil. We were caught between two opinions.
+- Meaning God, God's my father, Father God. That was a god of them too. Ephraim: … they served two different gods. They served God and the devil. We were caught between two opinions.
 
 - **Officer:** Yep.
 
@@ -787,7 +787,7 @@ Reading from *Caesar and Christ*, pages 39 to 41, on Carthage and its empire · 
 
 > It treated these subject lands with varying degrees of severity, charging them annual tribute,
 
-- Because you had Japheth living in those areas. I believe you had Edom living there too. But you had living in these areas at first, and we took over. We took them, portions of land, and they were subject to us.
+- Because you had Japheth living in those areas. I believe you had Edom living there too. But you had … living in these areas at first, and we took over. We took them, portions of land, and they were subject to us.
 
 > conscripting their population for its army, and strictly controlling their foreign relations and their trade; in return it gave them military protection, local self-government, and economic stability.
 
@@ -949,7 +949,7 @@ Reading from *Caesar and Christ*, page 41, on the city and people of Carthage ·
 
 > and as loose in their sex relations as they were corrupt
 
-- Yeah. I can't deny it.
+- … Yeah. I can't deny it.
 
 > The treacherous Romans employed fides Punica
 
@@ -969,7 +969,7 @@ Reading from *Caesar and Christ*, page 41, on the city and people of Carthage ·
 
 > Their ancestors in Phoenicia had worshiped Baal, Moloch and Astarte as personifying the male and female principles in nature.
 
-- They did. Transgenderism stuff. God is woman and male at the same time. Get 1 Samuel 7:3. They worshipped Baal, Moloch and Astarte, or Ashtoreth. Easter today.
+- They did. Transgenderism … stuff. God is woman and male at the same time. Get 1 Samuel 7:3. They worshipped Baal, Moloch and Astarte, or Ashtoreth. Easter today.
 
 - **Officer:** Oh, there you go. That's it right there.
 
@@ -1159,7 +1159,7 @@ Reading from *Caesar and Christ*, page 47 onward, on Hannibal, continued · read
 
 > punished disloyalty severely,
 
-- Wait, wait, wait. He did what? Punished disloyalty severely. Yeah, he killed traitors. You snakes in the grass: he killed you, severely, real bad. You got caught with the wrong side. It says disloyalty, severely. All you FBI agents up in here watching online: you got a black face, brown skin on your damn face, and you up here working for the FBI and CIA. You got severe punishment coming for your ass too.
+- Wait, wait, wait. He did what? Punished disloyalty severely. Yeah, he killed traitors. You snakes in the grass: … he killed you, severely, real bad. You got caught with the wrong side. It says disloyalty, severely. All you FBI agents up in here watching online: you got a black face, brown skin on your damn face, and you up here working for the FBI and CIA. You got severe punishment coming for your ass too.
 
 > and laid many snares for his foes; yet we find him often merciful, always chivalrous,
 

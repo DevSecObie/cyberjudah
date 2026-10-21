@@ -1,0 +1,979 @@
+---
+title: "Slave Ships for Dummies Part 4"
+slug: "2024/2024-10-13-ep-148-slave-ships-for-dummies-part-4"
+date: "2024-10-13"
+episode: 148
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2024-10-13"
+tags: ["Our Hidden History", "captivity"]
+---
+
+<p class="taught">Our Hidden History · 2024-10-13 · Deacon Eythan</p>
+
+<span class="opens"><b>Opens</b> [Exod 11](/bible/exodus/11) · [Ps 83](/bible/psalms/83) · [Lam 4](/bible/lamentations/4) · [Deut 4](/bible/deuteronomy/4)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="p8GJ-9aSsxo"></div>
+
+## Introduction
+
+*[[4:36](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=276s)]* Shalom, shalom, shalom. Welcome back, welcome back to you who are watching. Back from Tabernacles. Almost went deaf, all praise to the Lord, this thing blasted in my head. Well, all praises, man. So once again, you are now tuned into Our Hidden History radio show. Yes sir, we're back. Back from Tabernacles, man. Had a great time out there in the Northeast, I cannot lie. I was swayed, yeah man, swayed by the greatness of the Northeast. Lord's will, I'll be there next year. That's the good news. The bad news is that the year after that I'll be gone, because it'll be cold, so I'll not be there. I'm going to come to the Northeast when it is warm. Listen, it's hospitality, man, that's what I do. I show hospitality and consideration. So next year is going to be warm, Lord's will, a warmer year, so I'll be there. The year after, it's going to be a leap year if I'm not mistaken, so it's going to be very, very cold, and I refuse to succumb to that.
+
+**A brother:** The Northeast is like the Wall on, what's it called, Game of Thrones.
+
+**Deacon Eythan:** It is, it is. But I choose to be in the place where all the books is at, where it's warm, whatever that place is called, the library of Westeros. That's where I'm going to be. It's warm over there. Lord's will, we could get all the leadership to come to the Northeast. I'm going to give a shout to Captain Yahn for putting up that petty ass video and getting me in trouble. I'm going to get cursed out when I come back here. Even though I did enjoy the video, I ain't going to lie to you, I did enjoy that.
+
+*[[6:28](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=388s)]* All right, so let's just jump right into it. We're going to go to the atlas of the slave trade. Y'all know what the book is now, because last time y'all was dropping the ball, putting up the wrong books and all that. So hopefully the spirit today is a lot better than last time. I asked for a slave atlas, they put up a newspaper. But hey, give a shout out to him, man. He did do a great job despite being in the wilderness, able to make things happen. There's a lot of difficulties out there, because of course the obstacles and the obstructions that caused Wi-Fi issues. So I was happy they were able to work around it as best as they could. So shout out to the IT team, shout out to everybody at Tabernacles who got together and worked together collectively to get that thing running pretty smooth over time. All praise to the Lord. Next year I see it being a lot better. I'm hearing rumors that a certain Deacon already told me he might come through, so we'll see what happens.
+
+*[[7:49](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=469s)]* So next year it's going to be a lot warmer. We got a lot more activities. I'm going to try to oversee the activities myself, because these activities was great, and we got even more stuff. We was driving around, we saw so much stuff in the area. Activities everywhere, 40 minutes away, 30 minutes away, 10 minutes out. That place is just littered with fun, man. So we're going to see if it's warm enough. We might do something out there along the lines of boating, something like that.
+
+*[[8:30](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=510s)]* Anyway, let's jump into it. We're going to go into the slave atlas. Let me see the book cover so I know you guys know what I'm talking about. Yes sir, all praise, that's it. Give a round of applause, man. That's it, first try. This is how these guys sound to me when they say that the slave trade didn't exist, the boats didn't exist.
+
+## Readings and Scriptures
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page one, on the sugar plantations and the buyers and sellers  *[[10:39](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=639s)]*
+
+> Sugar plantations producing for export spread first to the islands of the Eastern Atlantic, 1460s, then to the Gulf of Guinea, in particular São Tomé, 1490s, and eventually to northeastern Brazil, 1560s.
+
+- São Tomé is where a lot of the Israelites were shipped off during the Inquisition for slavery. The island of hell, pretty much, the island of slavery.
+
+> Both buyers, Europeans, and sellers, Africans, saw the people traded into captivity on the African coast as outsiders,
+
+- Africans, that's the Hamites. How did the Europeans see the Negroes they were selling as outsiders compared to Africans? How is that a possibility that they would distinguish, that's an African there and that's not? How would they know? It says the Europeans and the Africans saw the people traded into captivity on the African coast as outsiders. I understand the Africans seeing us as outsiders, because they know who we are. But the Europeans see a difference.
+
+> although the identities that made trading possible did not remain constant over time.
+
+- But the part I want to focus on is how the Africans and Europeans, primarily the Europeans, saw us, or our forefathers, as outsiders. The nations know who Israel is, and they knew who they were selling. Because you often times hear the argument that Africans sold Africans, and that's a complete and blatant lie. The indigenous Hamites, or Africans of Africa, sold the exiles of the Israelites within Africa as slaves. That is what happened. That is the scriptural explanation as to who was selling who in Africa.
+
+</div>
+
+**[Exodus 11:7](/bible/exodus/11#v7)**  *[[12:36](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=756s)]*
+
+> <sup>[7](/bible/exodus/11#v7)</sup> But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
+
+- That a dog, meaning a heathen, move his tongue against man or beast, against us or our beast. That ye may understand how that the Lord doth put a difference between the Egyptians and Israel. God put a difference, a distinction, despite the color, the shades, the comparison. Because we both black, we're both dark, both woolly hair, both wide noses, big lips. We had all those things. But God said, yeah, even though you guys have a comparison, you guys favor each other in some instances, you're not the same people. I did not choose them, I chose you. You are Shemitic, they are Hamitic. You are Semites, they are Cushites, they are Canaanites, Jebusites, Mizraim or Egyptians, Ethiopians. But you're not the same people, despite your favoring, whether it be your woolly hair, your brown skin. Not the same.
+
+- You examine Hamites. Those of you who are the audience, who are from Africa, let me give you an example. When I was in Nigeria and I spoke to the brothers and sisters in our congregation from Nigeria, they told us that when you go further north, they look completely different. Those are not Ibos, those are Hamites. Bowls in the lip, skin all ashy and dry looking. No shine, the skin just dry. Now don't get me wrong, you do have our people who mingled among them that do unfortunately have that ashy looking skin. But for the most part, because the exception doesn't change the rule, the bulk of our people got that shiny glow in their skin, and they brown skin. And a lot of those people in North Nigeria and the northern regions of it, they know that those Ibos over there were not the same.
+
+- In the Sudan, Bishop went over the other day that Sudan and Egypt were pretty much the same exact region, same place. The Hamitic Sudanese, or Nilotic Sudanese, and the Sudanese Negroes are two distinct people. Not the same. That's why the book Bishop brought out, In Darkest Africa, shows how the Israelites and the Hamites intermingled but were not the same. Ain't no Negro walking around with this bowl in his mouth. Show me a Negro in Harlem walking around with a bowl in his lip, man. I'm sorry, the hatred, man, he couldn't resist it. Now you do have Jacob that will stick those stupid dumbass rings in their ear and stretch the ear out. I don't understand why they do that. That's crazy. But the bowl lip, we ain't doing that. Sticking their face in the cow's freaking genitals, we ain't doing that either, because we ain't the same.
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, page 175, on price and perception  *[[16:51](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=1011s)]*
+
+> Price and perception. Most white colonists, Peter Wood suggests in his recent study, would have marveled at the ignorance of their descendants who asserted blindly that all Africans looked the same.
+
+- I want to go into the reason behind why the Europeans deemed us as outsiders. It's a good book as well. It says most white colonizers would have an issue with their descendants of today asserting that all Negroes, or all blacks in Africa, are the same people. Because the white colonizers knew that the people they encountered in Africa, who they enslaved and sold, were not the same as the indigenous population of Africa. They were different. That's why the last book said the Europeans and Africans saw the slaves as outsiders.
+
+> In fact, Europeans concerned themselves quite closely with distinctions among African peoples
+
+- They concerned themselves quite closely with distinctions of African people, meaning they studied and researched which people are which within the land.
+
+> and paid great attention to such things as size, color, and cultural or other characteristics.
+
+- Size, color. Why color? I said before, that shade, that shine. They say them guys look different from them. Their shade is different from theirs. They're not the same. Their eyes different from theirs, their customs different from theirs. Esau was careful not to take and sell off heathens, but us as slaves. Because God moved the spirit of Edom to take us as slaves, when the Hamites and the Arabs already had us enslaved within Africa. God moved them to sell us, and us alone. There were no heathens on the boat with us.
+
+> This concern has long been recognized as having been present in Latin America, and perhaps to a lesser extent in the West Indies, on the continent quite as much as in the islands. British colonists were also concerned about where they got their slaves,
+
+- British colonists were concerned about where the slaves they got came from. Why? I said before in classes years ago how, when they took us, they brought us to certain spots. If they killed off the northern kingdom on this side of the world, they went to Africa and they replenished what they killed off. Meaning this: the Spaniards went to Mexico and they conquered Issachar over there. Okay, we killed a lot of them off. What do we do? Ah, we know we got some of them over there in Africa. Let's bring them over here and replenish and enslave them. We conquered a lot of them from over there; let's go to Yoruba, the Ibos over there in Africa, and bring them to all the Latin countries, Cuba, Puerto Rico. Let's bring them there and replenish who we conquered. Because God moved them to do so. That's why the Bible's a true book.
+
+> British colonists were also concerned about where they got their slaves, what they looked like, and how they performed, because potential customers had these concerns. Moreover, merchants in Britain and America tried to cater to them, and one of the determinants of slave prices in South Carolina was the bondsman's provenance.
+>
+> "The slaves from the river Gambia are preferred to all others with us, save the Gold Coast," merchant Henry Laurens wrote to one correspondent, adding that "there must not be a Calabar among them." To another he wrote, "Gold Coast or Gambias are best; next to them the Windward Coast are preferred to Angolas."
+
+- All right, so they had preferences regarding who. But my point was the part in the beginning where it says distinctions between the peoples.
+
+</div>
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, page 23, the highlighted part  *[[21:31](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=1291s)]*
+
+> Thus, although South Carolinians might not have been able to distinguish particular African ethnic groups with precision, they had some general sense of the difference between people from that region and from, say, the Congo.
+
+- Remember two weeks ago I went over Angola and Congo, and how it was called the Jews' harbor, or the Loango Jews. The bulk of slaves brought to the Carolinas came from Angola or Congo, that largest port. I showed you the atlas map of the arrow pointing to that direction. The Gullahs are from the Carolinas, the Gullah Geechee. That's the Carolinas. The Gullah goes back to the word Angola. That's them, that's us. Those were Jews. Portuguese Jews fled there during the Inquisition, and the ones that resided on the coast were vulnerable and were conquered by the Portuguese that arrived there and colonized the land. And those who lived further inland maintained their culture and their history, because they were safer from conquest of the Portuguese.
+
+</div>
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, the next page, the highlighted part  *[[22:34](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=1354s)]*
+
+> Now, as pointed out, they also assigned certain attributes to various ethnic groups, some of which have more to do with culture perhaps than with anything else.
+
+- Assigned certain attributes to various ethnic groups, such as culture. What is culture? Us keeping the laws of God, us keeping the commandments of God. The circumcision, the Sabbath days, the feast days, the high priests, the purity laws. We had the cleanest laws. They knew these guys keep circumcision. What day? Eighth day. They keep sabbaths, they have high priests. Oh, okay. Those aren't the Hamites over there. They ain't got bones in their nose, they ain't got bowls in their lip, they ain't drinking blood. Those different from them over there. Look at their skin, different. Look at their customs, different. They knew who they were taking.
+
+- They weren't just snatching up … out of Africa. You crazy? You know how large Africa is? That's not what happened. That was an organized effort. It was strategy, it was methodical. It was an act of war. This is war. That's what it was. They didn't just snatch up random Negroes in Africa, let me take them as a slave. That's not what happened. You're not coming to a random continent and just taking random people out of nowhere and putting them on a boat and throwing them over here. That's not how that works. It was an organized effort. It was coordinated. They knew who they were selling. They had help. The Hamites helped them, the Arabs helped them.
+
+</div>
+
+**[Psalms 83:2-7](/bible/psalms/83#v2)**  *[[24:28](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=1468s)]*
+
+> <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
+
+- Thine enemies make a gathering, a coordinated attack. And they that hate God have lifted up the head: have gained power, rulership.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+
+- They who hate God have taken crafty counsel. The crafty counsel is the tumult. Against your people, God. This ethnic group that resided in Africa, different from the rest. And they consulted, they conspired, joint efforts, against thy people.
+
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
+
+- Come, let us cut them off from being a nation. As they conspired, let us cut them off from being a people. Because you move a people far from their homeland, over time they will forget that same homeland. They will lose their identity. Cut them off from their land and you will cut them off from their own identity. That's the aftermath. Remove them from their land, they be removed from their God, their culture, their laws. That is the after effects.
+
+> <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
+
+- They have consulted together with one consent. They all conspired, they got together. It was a joint effort. It was not just some random act where the white man just sails, hey, we're in Africa, whoa, look … over there, let's grab him and make him a slave. That's not what happened. That's what the white man tells you happened. That's not what the Bible says. Ain't what history tells you.
+
+- They are confederate against God and against his people. Because God did not choose these nations as his own people. He rejected them. And so as a consequence of us going against our God, they said, fine, since he's against them, we could be against them too. We're going to get back at God for not choosing us.
+
+> <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
+
+- The tabernacles of Edom. The number one bastard on this list, this hit list. This is God's hit list, by the way. Number one on God's hit list, the ringleader, is Edom. The red nation of people, the blood shedders. That's why their skin is red. They match the blood they shed. Edom, the red man, the red race.
+
+- The Ishmaelites, the Arabs, the Muhammadan Arabs. The ones who took over the whole damn north of Africa. That's them, who pushed us into sub-Sahara through their slave trade. Moab, Chinese. They're involved as well. And the Hagarenes will be your Muhammadan Arabs.
+
+> <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
+
+- Gebal is Hamites. Your Hamites, the Africans who saw us as outsiders. And Ammon. Ammon is your Japanese. They were involved in the slave trade too. And Amalek, or the Israelis, the ones who are bombing and flattening Palestine with their foot. The Philistines, or modern day Arabs too.
+
+- With the inhabitants of Tyre, which goes into the Canaanites, who are heavily involved in our enslavement, who reside in Africa. When Joshua conquered them and forced them further into Africa, eventually, over time, we ran to them and they enslaved us once again.
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, the second paragraph, the blue highlight, with the meaning of provenance looked up on air  *[[28:17](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=1697s)]*
+
+> Hence knowledge of the provenance of the slave was as important
+
+- Hold that. Give me provenance. What does that word mean?
+
+> Provenance: the place of origin or earliest known history of something.
+
+- Wow. The origin, your place of origin, or earliest known history. So they studied our provenance, where they are from and where they were from historically and originally. So when Israel fled further into Africa from the promised land, from the Roman onslaught and the Islamic or Arab onslaught, Esau said, oh, that's them Jews that fled from persecution. This is them. We got to make sure we snatch them up. Not the ones that's selling them, but them themselves. Because God said so, Psalms 83.
+
+- **A brother:** Deacon, even when we were expelled from Spain and different parts of Europe, you think Esau wasn't tracking us, following us to these areas that we went? That's how they was able to note in their books where we was going. So they was tracking us the whole time. They sent out the missionaries, they sent out the Jesuit priests. They called them inquisitors. So they was on us the whole time, giving back intel, where we resided, all these different things. So it was already written in stone where we were, because they were tracking us the whole time.
+
+- **Deacon Eythan:** Let me give you an example of how evil this man is. He puts it in movies and shows. There's a show on Disney Plus, and I like it. It's called Obi-Wan. When you watch Obi-Wan, I love Star Wars. He's the Jedi. Now, Jedi goes back to Judah. So when you watch Star Wars, that show, that movie is entirely about us. The Jedi is Judah, the prophets of God. The Republic is Edom; they run everything, they infiltrate. And the Sith are pretty much the wicked Edom. That's why they have red lightsabers. That's Edom, red lightsabers, the dark side of the force, the children of the wicked. That's them. We're green, blue. That's Israel, the different colors of the stones. That be us, with the exception of the red.
+
+- So Obi-Wan is also an Israelite name, like Anakin. That's an Israelite name, Jachin, Anakim. Luke. Leia, that's our foremother, Leah. So when you watch it, the Sith had people hunting Jedi. They were called inquisitors, and they had red lightsabers. And they were hunting us like cattle. They killed a lot of the prophets, the Jedi, off during Order 66. It's Order 666, where they dropped the six. It was Execute Order 666. That's what it really was. The man of sin, pretty much. Darth Sidious, that's Edom. That's the evil council. Psalms 83 is the Sith. That's who that is. And the Jedi, the prophets, that's us they were killing off.
+
+- A lot of Jedi either were killed off or they turned their back on the force, like Obi-Wan. They lost their faith. So a lot of them blended into society. Some of them couldn't take it; they came back to it. But they sent out inquisitors to hunt certain Jedi and kill certain Jedi. So when you watch Star Wars, watch that show with spiritual eyes. Even Anakin, he went to the dark side, he repented later on, because he's the chosen one. That movie is heavy. Except the last ones, 8, 9 and 10 is terrible. Don't ever watch 8, 9, 10. It's feminized, it's garbage. Just watch episodes 1, 2, 3, 4, 5, 6, watch Obi-Wan and watch Ahsoka. Those are pretty decent.
+
+- **A brother:** Ahsoka, the sister, the alien, orange. They made a sister an inquisitor.
+
+- **Deacon Eythan:** Anakin killed her family. Well, he killed everybody, pretty much. He killed all the Padawans, but she was a surviving Padawan. She was so angered by her past she became evil. She starts turning a new leaf later on. But it's a very, very good show, Obi-Wan. So I'm going to tell you: episode 1, 2, 3, 4, 5, 6. That's the old ones. I don't care how old it is, it's bootleg graphics, it's old, but watch it. Then you're going to watch Obi-Wan, then you're going to watch Ahsoka, in that order. When you see Jedi, Jedi is Judah. You can do a commentary on every part of it. It is great.
+
+- So I mentioned that because they were hunting us. I just mentioned the inquisitors. They were hunting us. They knew our provenance. They knew where we were from.
+
+> Hence knowledge of the provenance of the slave was as important as his appearance, if he could not clearly be distinguished as different from a less desirable group.
+
+- A less desirable group is Hamites. So it says knowledge of where he comes from was as important as his appearance. Why our appearance? What were we wearing? Fringes. Did he have a beard? That's what they had on. That's why they stripped us naked. Take their clothes off, because they knew who we were. If they keep their clothes, they'll know who they are too. Strip them down to nothing.
+
+</div>
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, the next page  *[[34:56](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=2096s)]*
+
+> The need or desire to know about Africans that was expressed at the end points of trade was even more pronounced at the source.
+
+> But coastal traders would have been more exact. Indeed, it is striking how much Europeans confined to the seaboard knew about African ethnology,
+
+- Stop right there. It says that the Europeans, the coastal slave traders, they were exact. They knew exactly where they were going, they knew exactly who they were snatching, who they were selling. They weren't just grabbing random people off the continent of Africa. They knew there was a target. There was a target people they were going for.
+
+- Why is the author saying it's striking? Because he can't understand why they were so precise about who they were snatching onto the ships. How they know so much? Because God moved their spirit to know. And Edom is the devil the Bible speaks of. Satan told him, hey, go over there, go over there, ask the Israelites over there, ask the Hamites over there. They'll tell you where they're at. They got them.
+
+- Confined to the seaboard. Remember, they were sitting at the seaboard. They didn't go into Africa and grab them. They sat in the boat like, yo, go get them, go buy them and come back and bring them on the ship. How did the … Europeans, who were sitting on the seaport in the boat, who didn't set foot further inland into Africa, know who to grab, who's who? Because they knew where to go.
+
+> knew about African ethnology, politics, and customs.
+
+- Ethnology is the race, the history, the science of the race of the people. That's ethnology, ethnic background. Politics, how we govern, how we lived, our government. And customs, our laws. They knew who they were taking.
+
+</div>
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, page 33  *[[37:28](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=2248s)]*
+
+> There was also the attraction of the Spanish at St. Augustine,
+
+- The attraction of the Spanish. Why the Spanish? When you examine the Spanish Inquisition, they chased the Jew out of Spain and Portugal in 1492. So when they chased us out of the areas of Portuguese settlement or colonies, they knew, or had an idea, where Israel fled to. You know how Israel does. What do we always do when we run from captivity? We always run south. Even over here, we ran from the south to the north. We traveled the North Star to get to the north. But when it comes to Spain and Portugal, we fled further south. Even in Spain, Italy, we would dwell south. There was a lot of us that went into Mexico for freedom, and some went to Florida as well. So a lot of us fled south.
+
+- But the Spanish knew, or had an idea, they're going to run. Remember, Spain and Africa is connected. It's one landmass, really. Spain is really part of Africa. There's a thing called the Straits of Gibraltar. It's a so-called land bridge, and it connects. So we were able to cross from Africa right into Spain. It's attached. All landmasses at one time were together; that's another class. But Spain and Africa are connected by the Straits of Gibraltar, because our brother Tariq conquered Spain by crossing that particular little land bridge there. They call it the Straits of Gibraltar, Jabal Tariq, meaning the rock of Tariq.
+
+- **A brother:** Simeonite.
+
+- **Deacon Eythan:** Simeonite, yes sir. Give a shout out to Simeon. Simeon went through there and kicked ass and took names. So Jabal Tariq, that's what we got there. Anyway, so they had an idea: these guys run south. They're going to run to Africa.
+
+> where Angolans who had some knowledge of Portuguese
+
+- Why did the Angolans have some knowledge of Portuguese? Because they spoke it. Because they fled from Portugal. They had knowledge of their culture, being Jews, Portuguese Jews, black Portuguese.
+
+> would have had little difficulty in understanding Spanish.
+
+- Why would the Angolans have little difficulty in speaking Portuguese and Spanish? Because they were Jews that resided there, that spoke the language. They spoke Ladino. Ladino was Spanish and Hebrew mingled together, whatever Hebrew there was at the time.
+
+> Probably many had this ability. Thus it was reported of one Angolan who had been recaptured that by what can be discovered in his speech he is either Spanish or Italian, but he was more likely Portuguese.
+
+- Why? Because he was a black Portuguese. The black Portuguese were Jews that fled into that area. I went over this two weeks ago. If you don't believe me, go back and watch it again. I'm not going to beat a dead horse. Bishop went over it, I think, the other day, Tuesday. So these slaves that were able to speak Spanish or Italian, more likely Portuguese, were Jews that fled into Angola from the Spanish Inquisition. The Spanish Inquisition was the forerunner of the transatlantic slave trade. Many of these Jews that fled from the Spanish and Portuguese ran into the arms of the Ottoman Turks, which were Muslims, and they got together and they sold us, and that created what's called the triangular slave trade. The Inquisition is the root of the slave trade. It's the root of the Atlantic portion, and the Indian Ocean portion of it too.
+
+</div>
+
+**[Lamentations 4:19](/bible/lamentations/4#v19)**  *[[42:01](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=2521s)]*
+
+> <sup>[19](/bible/lamentations/4#v19)</sup> Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
+
+- **A brother:** Deacon, you mind if I get a quick scripture? Lamentations 4 and verse 19. It's going exactly with what you was talking about and what the book was saying, how Esau pursued us in every place that we went throughout Africa, Europe. They knew exactly where we was going to go. And remember in Luke 21 he said flee into the mountains.
+
+- **A brother:** Why is it saying eagles? Because it's referring to Edom. Edom is represented as the eagles. So our persecutors were swifter than the eagle. They pursued us upon the mountains. So when the Lord told us to flee upon the mountains, Esau pursued us upon those mountains and all the places where we hide. That's why Psalms 83 says the hidden ones. It's also going into all the places we were hiding throughout all the different lands. Esau knew exactly where we were. We fled to the mountains in Africa, we fled to the mountains in the Americas too, and they hunted us in all those areas. Hunted us like animals.
+
+<div class="reading">
+
+Reading from *Rice and Slaves*, continuing, on the languages the slaves spoke  *[[43:09](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=2589s)]*
+
+> Boston of John's Island was born in Guinea but spoke excellent English, Spanish and Portuguese. Five blacks who absconded from a plantation in Purrysburg all spoke good English, French and German, their master, Abraham, warned.
+
+- Stop. Why did he warn? He didn't teach them that. They spoke it already. I'm going to show y'all why they spoke English when they came over here. Because some go, oh, we spoke a bunch of Hamite language, whatever barbaric language. No, no, no. We spoke English before the white man taught us English. We were already speaking it. Now you may wonder, why are they speaking English already, and French, before they were enslaved? Where they learn English from? I thought the white man taught us English, right? Not all the time. I'm going to show you where we learned English from. We're going to get there. I'm going to tap it, then I'm going to step out.
+
+- **A brother:** Oh, you going to go into it?
+
+- **Deacon Eythan:** No, I'm not going to go into it yet. Don't get too excited. I'm excited for you, but I can't go into it yet.
+
+> Pierro, who called himself Peter, spoke English, French and Dutch.
+>
+> A woman who escaped with her husband from Point Comfort to Savannah spoke good English, Chickasaw, and perhaps French, the Chickasaws having taken her over from the French settlements on the Mississippi.
+
+- A woman. That's crazy. She spoke good English, Chickasaw. She spoke Gad language. And the Chickasaws looked after her. Looked after Judah, man. I'm telling you, our people are the same.
+
+> There was a notable population of Spanish speakers. Most of these blacks probably had not been, like Luke, born in Spain,
+
+- They spoke Spanish, but they weren't born in Spain. Why do they speak Spanish if they're not born in Spain? That don't make no sense. Jedi mind trick? Maybe because their parents taught them how to speak it, because their parents came from over there when they fled out from the Inquisition into Africa and retained the language. That's the reason why they spoke it but weren't born there.
+
+> but they were frequently mentioned as absent from their master's service.
+
+- So Esau would hide these. … Okay, they speak Spanish? Don't mention that Negro. Don't mention it. It'll bring too much attention to them. Because the thought is we were illiterate, couldn't speak, we spoke some Hamitic language, blah, blah, blah. We spoke Ibo. They're not going to mention us speaking English or French or Dutch or German. Nah, that's going to bring too many questions, that these Negroes speaking all these languages that we ain't teaching them to speak.
+
+- Like the show Hell on Wheels. That scene where the white man taught him how to read, and the little boy reads, and I will bring you out of bondage. That was a bad scene, boy. He put the book down. That scene is fire, man. He goes, it's not a big deal, teaching him how to read. So do you understand what you just read? No sir, I don't understand what I just read. He said teaching him is like teaching a parrot how to repeat his master. But that little boy knew exactly what he was reading.
+
+> When not actively involved in running away they were sometimes suspected of aiding others. Thus the owner of Stephen supposed he keeps amongst Spanish Negroes.
+
+- Spanish Negroes. Oh boy.
+
+> This babble
+
+- This babble means this confusion.
+
+> must have been perplexing to anyone seeking to establish unalterable varieties of racial, linguistic and servile classification.
+
+- They find it very hard to classify these particular Negroes, because they spoke all these various languages but they were from one place. Why are these Negroes speaking English, Dutch, French, Spanish and Portuguese, but they all the same? There's a reason behind it. When Israel lost power, we ruled these areas for over a thousand years, and we got conquered. So we ran into Africa, we fled there, and they found us speaking all these various languages from where we dwelled. Now, I'm not saying we fled from Germany to Africa. I'm not saying that. But there are areas where we did sail back and forth. We did sail from the British Isles and so forth. I'll get to that in a moment.
+
+- **A brother:** Yes, it's very similar to today. The brothers that live in Europe, they speak many languages because of the proximity of those countries. It's like going from one state here to another, like right there in New Jersey they speak another language, in New York they speak another language. So we would tend to speak those languages because of how close we are. So likewise over there, just because they're living in Portugal doesn't mean they're just speaking Portuguese. They might be speaking Spanish, English. They're educated, so they have more languages under their belt. And on top of that, when they conquered us, we fled from Spain and Portugal. When we was in Spain and Portugal we were very well educated, so we were well versed in different languages as well.
+
+- **Deacon Eythan:** What I wanted was 175. 175 is a banger for this book. If you can find it, it'd be great. In the meantime, give me Deuteronomy 4:34.
+
+</div>
+
+**[Deuteronomy 4:34](/bible/deuteronomy/4#v34)**  *[[49:52](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=2992s)]*
+
+> <sup>[34](/bible/deuteronomy/4#v34)</sup> Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes?
+
+- God went and took a nation of Israel out of the midst of another people, or nation. The Egyptians were not the same people. He took one nation out from another nation, one ethnicity out from another ethnicity. We was in Egypt as slaves. We were under the captivity of a dark race, but they weren't our people. Even the Ishmaelites, they look like Negroes too, they pass for black as well, but they weren't our people. So again, understand: God makes it clear, despite you having the same look.
+
+- At one point in time, before the white man was in existence, all races were black. The hair may have been different, from woolly to fine, but every race on earth at one point in time was black, until Cain did what he did. When Cain killed his brother, God said, I'mma curse that earth tone from you. You're going to come back and you're going to resemble the devil. That's why you watch these mythical movies where the devil's red with a pitchfork and he's surrounded by fire. Why does Esau depict the devil as red like him and surrounded by fire? Because Esau gained power over fire. Nuclear fire. And when he made guns, what's he call it? Firepower. Cannons, firearms. This man acquired the power of the devil. Vulcan, that's firepower. Nuclear bombs, that's firepower. Cannons, Gatling guns, TNT, musket guns, gunpowder, firepower. This man learned how to deal with fire. He is the smith the Bible speaks of. That's who he is.
+
+- He could not have conquered us the way he did physically. We would beat his ass. As a race of people, in terms of fighting physically, they cannot deal with us. We will break them in half. They have to use guns, they got to use nukes, grenades, Gatling guns, satellites, laser beam ray guns. They can't handle us physically. Watch them nations, the worst nation of cowards. They need technology, man. That's why the Lord said when he returns he's going to rebuke their wicked inventions. Because without their guns and weapons, they're nothing.
+
+- In the class Walk of the Giants, it says that by the time Esau shot one bullet, he got four arrows in his chest. Gad was dodging bullets. They were dodging and shooting the arrows at the same time, riding a horse with no saddle, nothing, just riding the horse with their legs locked into the horse, killing this man, shooting their arrows through their armor. Esau was saying when Gad shot arrows, they could shoot the arrows through tree trunks. You know how powerful a man has to be to shoot an arrow through a tree trunk? It was going through the horses like butter. And the arrows was just regular stone-head arrows. It wasn't no titanium arrow. They would throw corn in the air and keep it in the air shooting it. That's insane. So again, God had to step in and move the spirit of this man to overthrow us. Outside of the Lord allowing him to get power, they cannot beat us. That's what it says: one shall be stronger than the other, and the elder shall serve the younger. Once again, I assure you, that's what God says.
+
+- **A brother:** Without that power he's nothing. That's why the scripture said Gad shall overcome at the last. You might have won with all the weapons that you have, but once all that stuff gets taken away, he's going right back to the cave, eating freaking mushrooms, whatever you be eating. And gunpowder was created by Moab, but Esau took it and did all this craziness with it.
+
+- **Deacon Eythan:** He got that power over fire, man. That's his thing. They show it in that movie, I think it's called The Wall, with Matt Damon. He went there to try to deceive them, just to bring the black powder, the gunpowder, back for Esau to war with.
+
+- **A brother:** That's like Blue Eye Samurai. Same thing over there.
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 59, on Nantes  *[[55:32](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=3332s)]*
+
+- Now, this place, I think it's called Nantes. It's pronounced Nantes, it's French, a French area. This is a major slave port.
+
+> After the early 18th century, Nantes quickly became the premier port for the organization of French slaving voyages,
+
+- The premier port for the organization of French slaving voyages. The French were the worst. That's why, when Levi whipped their behinds, Jean-Jacques was killing French like it was running out of style. Killing them. That's why they got the Levites suffering now for that, taking the money from them and so forth. Because of that, Esau faced major defeat at the hands of Levi.
+
+> a preeminence that lasted until war closed down the French slave trade in 1793. Its vessels supplied all parts of the French plantation Americas. Its merchants were dominant in two of the largest slave trading centers in Africa, Loango, see map 99, and Whydah, see maps 79 to 80. Nantes was also one of the few French ports to trade significantly in the British-dominated Bight of Biafra.
+
+- Loango. So a lot of the slaves shipped from Loango are brought to France, to Nantes. And Whydah. Whydah is Judah. So the French focused on the ports, bringing them from Loango and from Whydah, which is Judah. So keep that in mind. You got Whydah there.
+
+</div>
+
+<div class="reading">
+
+Reading from a book of images from Western art, by Henry Louis Gates and David Bindman, images 162 and 163 and the notes on them  *[[57:45](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=3465s)]*
+
+- Now get me the images I sent you in the Our Hidden History Telegram. Remember Nantes. This book right here, image of the Western art, featuring Henry Louis Gates and David Bindman. Bishop always says he's racist as hell, and Henry Louis Gates, he says he was asleep when his book was put together, because he had no idea what's going on.
+
+- Now you see right here a sister. This is called Negro favorites. This is her favorite Negro here. Look at her neck. Zoom into the sister's face. Not the Edomite, the sister. Some of y'all over there confused, like, that's my sister? My sister's right here. The white lady right here, sister in Jesus. We call her Nana, right here. Anyway, this is a sister right here with the yoke on her neck. She's a favorite. Keep that in mind. You see the whole lock right there, the lock and all that stuff. It's crazy.
+
+- Now get the next image. Another favorite. This is a man right here. He's huge. Now go to the next page I sent you. It's going to summarize what these images are.
+
+> Allegory of spring, fourth quarter 17th century. Nantes.
+
+- Nantes. These people were from Nantes, France. These are slaves brought to Nantes.
+
+> A tribute, allegory of autumn, fourth quarter 17th century. Nantes.
+
+- They brought slaves over to Nantes. These slaves were brought to Nantes, a part of France. Nantes slaves.
+
+</div>
+
+*[[1:01:09](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=3669s)]* We'll be back. Just get that page ready. We're going to take a quick break. We'll be right back, stay tuned. Those of y'all who want to call in when we come back, you can Zoom in if you have any questions regarding the class thus far. We prefer you Zoom in, or you can also text us as well. We'll be right back after this. Stay tuned, we got more stuff for y'all. Some good stuff. And make sure that you donate, donate, donate to the land fund, to the Booster Club. You see the box in the side of the screen. Just donate to that box. All right, shalom, see y'all soon.
+
+*[[1:08:50](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=4130s)]* We're back from the break. It was a very terrible break we was on just now. The insults are just worse and worse as the time goes on, man. My mic went out. My headphones. Just give me more slack if you can. There we go, that's good. All right, so give me page nine of the atlas.
+
+**A brother:** Real quick, I found some good stuff right there. I guess this is the spirit behind why we do the introduction with the Star Wars scene.
+
+<div class="reading">
+
+Reading from an online article on the Jedi, its etymology  *[[1:09:56](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=4196s)]*
+
+> Jedi Knights, collectively the Jedi Order, are fictional characters and often protagonists featured in many works within the Star Wars franchise.
+
+- This is about George Lucas. He's behind it.
+
+> In the book The Making of Star Wars: The Definitive Story Behind the Original Film, J. W. Rinzler notes that Lucas originally considered using the term Jedidiah
+
+- Jedidiah was Solomon's name. Beloved of the Lord. The prophet called him that.
+
+> for his knights, but ultimately settled on Jedi.
+
+- So Jedi comes from the name Jedidiah. Jedidiah, a king of Judah's name.
+
+> Rinzler also suggests that the word may have been influenced by the term bodhisattva,
+
+- Bodhisattva is Buddha. That's nonsense.
+
+> which refers to a Buddhist concept of an enlightened being who chooses to remain in the world to help others.
+>
+> Another potential influence on the word Jedi is a Hebrew term which means beloved. In his book The Secret History of Star Wars, Michael Kaminski suggests that Lucas may have been influenced by this term when creating the name for his knights. Kaminski notes that Lucas has cited Jewish mysticism as an inspiration for his work, and that he may have been drawn to the idea of his heroes being beloved protectors.
+
+- The prophets. So Jedi goes back to Jedidiah, beloved of the Lord. That's what Jedi mean.
+
+- **A brother:** Most of these movie writers, they pull from the Bible, they pull from scripture. So when we say these things, we're not just making it up. Oh, you guys making that up? No, that's referring to us. Even Ammon too, they pull from the Bible. Dragon Ball is us.
+
+- **Deacon Eythan:** All movie ideas come from us. Most of the movies is us, man. Especially Dragon Ball. Dragon Ball is definitely about us. Frieza is a damn slave master. They're all scattered and lost, no daddies, just destroyed as a people. Kakarot. I'm telling you, man.
+
+</div>
+
+- **Text:** Do you believe that what the other nations are doing to Africa, stripping its resources, is a judgment for the Hamites and their part in the slave trade?
+
+- **Deacon Eythan:** It's possible. It's a possibility, it's definitely a possibility. I can see that. That goes into the Berlin Conference, the scattering of Africa. I could see that, definitely. But also prophetically, Revelation 18, where the merchants take all the resources. Most of those resources come from Africa. That's all prophecy, pretty much, all the merchants. Remember, if it were not for Africa, Europe would be a third world country. So that's another reason behind why they do that as well. Because Esau comes from the bottom pit. The bottom pit is Europe. Nothing's there, really.
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page nine, on the log books of slave vessels  *[[1:13:43](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=4423s)]*
+
+- You see what we have here. We have Holland, England, Gravesend, London. So the slaves are over there too. Holland, that's the Netherlands, the Dutch area. The Dutch East India Company, that was from there too. Now go down to the caption, the log books. Read this here for you Negroes, I'm still insulting you dumb Negroes, who say no slave ships ever existed. There were no slave ships? Read that, please.
+
+> The log books of many slave vessels have survived,
+
+- The log books of many slave vessels have survived. I'm going to give you an example of a slave log in a minute. Remember I showed you earlier, why were we speaking English before they came over here?
+
+> and some have been published. Before a way of measuring longitude came into wide use in the 19th century, the daily record of a vessel's position depended mainly on latitude measurements. According to its log book, the Lawrence, in some sources one of 117 English South Sea Company vessels that supplied slaves to Spanish America, sailed from London to Loango in West Central Africa, then to the Río de la Plata and back to London, a figure-eight route dictated by ocean currents. See map 4.
+
+- Sailed from London to Loango. All right, so they had log books that survived. So the log books of slave trips and slave travels and slave trading survived. So you Negroes saying the slave trips never existed, man, y'all are really, really stupid people. There's really no level. It's just no comment for you on how dumb you can possibly be.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 24, on the conditions below deck  *[[1:16:00](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=4560s)]*
+
+> The Africans are so crowded,
+
+- The Africans, or the Israelites, were so crowded.
+
+> in such disgusting conditions, and so mistreated, as the very ones who transport them assure me, that they come by six and six with collars around their necks,
+
+- I showed you that one with the sister in Nantes. She had a collar on. Even she was off the ship, she had a collar.
+
+> indeed, the same ones by two and two with fetters on their feet, in such a way that they come in prison from head to feet, below the deck, locked in from outside, where they see neither sun nor moon, and that there is no Spaniard who dares to stick his head in without becoming ill, nor to remain inside for an hour without the risk of great sickness. So great is the stench, the crowding and the misery of that place. And the only refuge and consolation that they have in it is that to each is given once a day no more than a half bowl of uncooked corn flour, or millet,
+
+- Millet. That's the same thing that the Arabs fed us in the dhows. They gave us millet seeds, and we would use elephant tusks and break them in pieces and eat it, and we'd die from violent diarrhea. So what the Arabs did to us from their slave ships on the other side of the ocean, the Europeans did the same thing to us on this side of the ocean. They probably shared information: hey, give them millet seeds.
+
+> which is like our rice,
+
+- Which is our rice.
+
+> and with it a small jug of water, and nothing else, except for much beating, much lashing, and bad words. This is that which commonly happens with the men, and I will think that some of the shippers treat them with more kindness and mildness, principally in these times. Nevertheless, most arrive turned into skeletons.
+
+- Wow. Most arrive turned into skeletons. Damn. Give me Lamentations, real quick. This is an example of what happens when our enemies come against us, what takes place regarding us.
+
+</div>
+
+**[Lamentations 4:7-8](/bible/lamentations/4#v7)**  *[[1:18:49](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=4729s)]*
+
+> <sup>[7](/bible/lamentations/4#v7)</sup> Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
+
+- Our Nazarites were pure, righteous, purer than snow. They were holier, more righteous or pure, whiter than milk. They were more ruddy, or healthy, in body than rubies. Strong in body, or precious in body. So verse seven is what was, and verse eight is what is, at this point, during the Babylonian captivity and conquest.
+
+> <sup>[8](/bible/lamentations/4#v8)</sup> Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+
+- So our faces became blacker than a coal. They are not known in the streets: you cannot recognize us from how we were in verse seven. Their skin cleaveth to their bones: they turned into skeletons. It is withered, it has become like a stick.
+
+- Now, it says their visage is blacker. Blacker, meaning we already black, so it's blacker than it was. It means they were black, as is right for black. But it says blacker than a coal. Because when you are starved, what happens to black people is that we become what is called hypermelanated. When we're starved enough, our skin gets darker. It's called hyperpigmentation. Hyperpigmentation comes through starvation. I'll give you an example of just how deep it can go. When you starve a leaf or a plant, if it gets too much sun or less water, the leaf gets brown. It's darker too, like we do. We get dark too. So we receive hyperpigmentation when we are starved. That's a sign of starvation. White folks don't get darker when they're starved. They get lighter when they're starved.
+
+- So this is clearly a description of black people being starved, like we were on the ships being starved. That's an example for you naysayers. And the Jews weren't black, they were white? Just stop talking. But Tertullian said that the Jews were white. Let's just be quiet, man. Stop talking. Don't talk. They love Tertullian, boy. The only … they can think of that's a scholar in history: Tertullian.
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 39, the twenty largest ports where slave trading voyages were organized  *[[1:21:29](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=4889s)]*
+
+> African captives carried on vessels leaving the largest 20 ports where slave trading voyages were organized, 1501 to 1867.
+
+- 1501, right after the Inquisition. 1501 to 1867. When we emancipated in '65, why is there '67 there? Because the slave trade didn't stop right away when they abolished it. It's still going. It lasted 100 years after that, to 1960, secretly.
+
+> Port: Rio de Janeiro, Brazil. Salvador da Bahia, 1,362,000. Liverpool, 1,338,000.
+
+- Liverpool. Keep Liverpool in mind. That's why I went to this page.
+
+> London, 829,000. Bristol, 565,000.
+
+- Bristol. Keep that place in mind.
+
+> Nantes, 542,000. Lisbon, 333,000. Havana, 250,000. La Rochelle, 166,000.
+
+- It's a lot of people, man. It's a lot of bodies.
+
+> Bordeaux, 134,000.
+
+- That's French.
+
+> Rhode Island, 111,000. Middelburg, 94,000. Seville and Sanlúcar de Barrameda, 74,000.
+
+- Seville was a slave port, Spain. They shipped us back to Spain. A lot of the northern kingdom was shipped over there to Spain, the slave port.
+
+> St. Malo, 73,000. Bridgetown, Barbados, 58,000. Cádiz, 53,000. Total, 8,356,000. All 188 known slave trade ship outfitting ports combined, 9,024,000.
+
+- 9 million. That's a lot of black bodies, man. 9 million. Damn. We went over that two weeks ago, how much slaves cost. And it says all known slaves. It hasn't included the other side.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 52, on Liverpool  *[[1:24:50](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=5090s)]*
+
+- Keep in mind Liverpool. You see Liverpool on top in red.
+
+> By the mid 18th century Liverpool had become the largest slaving port in Europe,
+
+- Liverpool was the largest slaving port in Europe, for you dummies that don't believe in slave ships.
+
+> just as the slave traffic was reaching its peak. Its prominence was due to its location on the west coast of England and the wide range of markets it served in the plantation Americas. Its captains also formed close relations with African trading elites
+
+- Stop. Oh my goodness, man. Its captains also formed close relations with African trading elites. Who are the African trading elites? It was the Hamites that were there. Remember Rice and Slaves, the book I showed before. It says that the Europeans and the Africans saw the slaves as outsiders. They were feeding each other information. They knew who was who. They knew who they were selling. The Arabs told them, these here, these are Israelites, you can take them as slaves too. The Portuguese and the Arabs were rivals in slave trading.
+
+> in such major ports as Bonny and Old Calabar in the Bight of Biafra. See maps 86 and 90.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 11, the map of the European slave ports  *[[1:26:43](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=5203s)]*
+
+- Zoom in right there. You have Spain, Portugal. See the black dots, the ports. Bristol to the left. Whitehaven, Lancaster, Liverpool, Bristol, London. And you have the Netherlands, Hamburg, Copenhagen. These are all slave ports. Go down to Portugal right there: Lisbon, Seville, Cádiz, Sanlúcar de Barrameda. These are all slave ports. They brought the northern kingdom, from this side, the Native Americans, over there.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 51, on Bristol  *[[1:27:35](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=5255s)]*
+
+- I want you guys to focus on Lisbon, Bristol and Liverpool. Keep that in mind. There we go, Bristol right there.
+
+> In the second quarter of the 18th century, Bristol was the largest slave trading port in Europe, and supplied the major portion of the slaves sent to Jamaica
+
+- So Liverpool and Bristol were the largest slaving ports in Europe. The second quarter of the 18th century, that's the 1700s. Watch this: and supplied the major portion of the slaves sent to Jamaica. So the largest bulk of our people from Jamaica were brought from Bristol. Bristol, Liverpool. They brought a lot of those slaves from there, from Europe, to Jamaica, to the islands. Why? I'mma show you. Remember, they spoke English. Keep that in mind.
+
+> with its booming sugar economy, most of them drawn from the Bight of Biafra and the Gold Coast. However, owing to its small and increasingly congested harbor, Bristol eventually fell behind Liverpool.
+
+- So Liverpool outlived Bristol. But it was still one of the largest.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page seven, on Lisbon and Seville  *[[1:29:04](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=5344s)]*
+
+- Let me build. I'm going to show you while I'm doing this: Bristol, Liverpool, Lisbon. Now we're in Lisbon.
+
+> Before the transatlantic slave trade began, and for nearly three centuries thereafter, some African slaves were taken to Lisbon and Seville, to the Eastern Atlantic islands, and between African ports. They began their voyages either in Upper Guinea or Mauritania, northwest Africa, shown in the top map, or in the Gulf of Guinea or West Central Africa, shown in the bottom map. After 1500 many captives were subsequently carried to the New World.
+
+- Carried to America.
+
+> After 1560, when Brazil sent its first slave trading ships to Africa, the slave traffic between Old World ports was much smaller than the transatlantic slave trade.
+
+- **A brother:** And they were carried on slave ships.
+
+- **Deacon Eythan:** Yes, they were carried on slave ships, you stupid idiots. They weren't carried on an invisible jet. You guys just stop talking, man. This stupidness makes my stomach hurt.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 43, on Lisbon and Seville  *[[1:30:37](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=5437s)]*
+
+- You see the two red things there, Lisbon and Seville.
+
+> Lisbon and Seville were the organizational centers of the Old World slave trade, see map 3,
+
+- So this was the Old World. They were bringing slaves from the New World and dropping them off as slaves in the Old World. That's Spain, Portugal, Lisbon. That's the Old World.
+
+> and their role continued when the transatlantic traffic began.
+
+- So they brought slaves back to Spain and Portugal, to Seville, to work as slaves.
+
+> Between 1580 and 1640
+
+- Here's a question. How were they brought to Spain and Portugal from the Americas? Did they fly? They build an underground tunnel? They drove with horse and carriage under the water? How stupid.
+
+> Portugal and Spain had the same monarch, and in the records it is often unclear whether a slave ship was sailing under the Spanish or the Portuguese flag. The Spanish Crown used the expertise of Portuguese captains and slave merchants to supply its American colonies with slaves.
+
+- You mean they work together? Like I said.
+
+> Portuguese vessels had full access to Spanish America. This branch of the traffic drew on Portuguese factories, as slaving establishments were called,
+
+- So they called them Portuguese factories. That's the plantations.
+
+> in Senegambia, São Tomé, the Bight of Biafra, and Angola, West Central Africa.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Gleanings*, on the capture of a ship with transported rebels, a list and description of them  *[[1:32:18](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=5538s)]*
+
+- Now give me the book I've been waiting to get to. Give me the Gleanings. Remember I showed you earlier that they had log books. These were people who were brought from Europe to the islands. Check this out. I'mma bring you guys some history. There was a war where King James' family was dethroned. And anyone who was in support of the King James family remaining on the throne, they were considered Jacobites. They were supporters of Jacob, because King James' name, James, is Jacob. They called him King Jacobus. James and Jacob is the same name, you can fact check me. James and Jacob means to supplant. So King James' line, by divine providence, because he was of Judah, that line was deemed to sit upon the throne in England, Europe. He reigned over Britain, Scotland, and I think Ireland. He reigned over those three dominions. They called them the black provinces. When we ruled during the Dark Ages, they called them the black provinces. We ruled over those realms.
+
+- So when King James died, his descendants, pretty much, faced the dangers of sitting on the throne, because there was a religious beef regarding, I think, Catholicism and Protestantism. So anyone who supported King James' family, who was Protestant, I believe, they were pretty much in danger of being conquered. So Oliver Cromwell gained authority, an Edomite gained authority, for like 10 years, I think. And when he gained that authority, that Edomite, he killed thousands of us, millions of us, to overthrow the King James line off the throne of Europe during the Dark Ages.
+
+- So now we're going to read this here. A capture of ship with transported rebels. Meaning those who were in support of King James' family remaining on the throne. They were considered Jacobites, or rebels against the Catholic Church. List and description of them. Now, this is a ship coming out of Europe. You hear Irish folks say, oh, Irish were on slave ships. Yes, they were. Oh, the British were on slave ships too. Yeah, they were. But we're going to read about the description, though, about the Irish slave ships that you guys mentioned. Okay, no problem, Lucky Charms. Read that.
+
+> A mishap befell an expedition with 225 rebel prisoners, of whom 75 had engaged as soldiers. Mr. Smith, contractor, thus related it, 22nd October 1747:
+>
+> Sir, the loss of one of my ships with 150 rebels, the Veteran, John Ricky master, bound for Antigua, which was taken by the French privateer and carried into Martinique, and of 75 with the East India expedition which I was providing for, has been some disappointment to me. I have sent his Grace's letter to the governor of the Leeward Islands to reclaim them of the French governor by three different conveyances.
+>
+> I desire to know when I am to have the care of those who remain at York and elsewhere.
+>
+> In a postscript is added something as to the attempt to find a Northwest Passage: the ships we sent out in search of the Northwest Passage are returned without having completed the discovery, but have brought us a greater probability than ever.
+>
+> A description follows of the 150 rebels which Mr. Smith took at Lincoln, York and Lancaster prisons in October 1746. The name, age, profession, county, and stature are told, with remarks, given in every case.
+
+- These were put on ships. Before they put them on ships, they were examined.
+
+> Of the 150, 15 were women, and three of those Camerons from Lochaber.
+
+- Let's go to the listing of these Irish folks, British folks.
+
+> An exact list and description of 150 rebel prisoners shipped at Liverpool
+
+- Shipped where? At Liverpool.
+
+> on board the Veteran, John Ricky master,
+
+- This is the ship, the Veteran.
+
+> for the Leeward Islands, which were taken near Antigua the 28th June last by the Diamond privateer, and carried into Martinique the 30th June 1747.
+
+> Name, Robert Adam. Age, 18. Profession, laborer. County, Stirling. Stature, 5 foot 1 and a quarter. Remarks: brown, smooth face, no beard.
+>
+> William Bell, weaver, 5 foot 4, black curled hair, strong made.
+
+- This is white people? Interesting. Black.
+
+> Dougal Campbell, servant, Lochaber, 5 foot 4, short, brown complexion, well made, ruddy.
+
+- Whoa, whoa, wait a minute. Brown complexion and ruddy? I thought ruddy was red. Is he both? Is he a cosmopolitan? What happened? Ruddy means his face was clear. A healthy, clear skin. He's 18 too, so he's young. Healthy skin, young, 18-year-old, brown complexion. That's ruddy.
+
+> Alex, miller, black, ruddy.
+
+- Black, ruddy. Same thing. It's the same word, really.
+
+> Campbell, servant, Argyll, black, ruddy.
+
+- Healthy, it says.
+
+> Alex Campbell, laborer, Inverness, pock pitted. John Campbell, Argyll, swarthy, black. Alex Cameron, Inverness, well made. William Dickerson, weaver, Lancashire, red hair, thick set, healthy.
+
+- You got light skinned among us too.
+
+> Alex Davidson, herdsman, ruddy.
+
+- Same, brown.
+
+> Andrew Edwards, servant, Angus, black, well made, strong.
+
+- Black. These guys are on a ship from Europe to the islands.
+
+> Alex Goodbrand, a carpenter, brown. John Grant, laborer, black. Alex Grant, carpenter, Aberdeen, brown. Hinchcliffe, tallow chandler, York, black, pock pitted. John Johnson, Lincolnshire, brown, strong made. David Joiner, laborer, Aberdeen. John Kennedy, Perth, black, well made.
+
+> Angus McIntosh, 5 foot 6 and a half, black, very strong made. Peter McIntosh,
+
+- Probably his brother.
+
+> brown, long chin. James McPherson.
+
+- The Irish name, McPherson, McIntosh. Where these names come from? These guys already lived here. These guys lived here already. These were our people that were ruling, that lived there. They were sold and conquered in these lands and were shipped off to the islands. There's a book I'm going to go into later on, I'm not going to bring it out now, but it goes into the Irish and how they are black. The black Irish. And this is them here. We're reading about them right here. The British, the Irish, that's them here. McPherson, all that Mc stuff is black. Mc meaning son of.
+
+- **A brother:** These are the people that Kamala Harris's family had enslaved, right?
+
+- **Deacon Eythan:** Exactly. That are our people.
+
+- **A brother:** Brown tone. The people that are going to vote for her, thinking she's black.
+
+> John McLeod,
+
+- Why is his name McLeod? Because the black clouds are black. I'mma get into that later on. That's Highlander. The Highlanders, the Lowlanders, black. Another story.
+
+> black hair, pale and slender. Duncan Monroe.
+
+- Duncan means black. Duncan is black too. Dun is black. Duncan, black.
+
+> Alex McLeod, brown, strong, well made. Charles Morgan, a barber, Elgin, well made. John Murray, weaver, Annandale, brown hair, pale.
+
+- You're light skinned.
+
+> Thomas Ogden, Lancashire, strong made, lusty.
+
+- He's fat.
+
+- **A brother:** Deacon, too, when you read where it says pock pitted, it just means that they had like freckles. Blemishes.
+
+- **Deacon Eythan:** Oh, they have freckles. Okay, got you. So rather than ruddy, it'd be pock pitted.
+
+> Donald McGillis, laborer, Inverness, black, short neck.
+
+- McGillis, that's Irish. Murray, Perth, Aberdeen: these are the areas we were living in here. These are black folks being put on ships from these areas. Why? We were ruling. They conquered us and sold us in ships there, to Jamaica, to the islands.
+
+> Donald McDonald, red hair, strong.
+
+- McDonald, McGillis. These are Irish names.
+
+> Allan McDougall, gardener, Argyll, black.
+
+- McDougall means son of black. Dougal means black too.
+
+> Angus McDonald, laborer, ill looking. Daniel, light hair, fair, well made.
+
+- Light skinned dude.
+
+> McCormick, good face, straight.
+
+- Irish. McCormick.
+
+> Alex, brown, thick set. George Nicol, strong, well made. James Nielson, black, swarthy, slender.
+
+- Nielson's Irish too.
+
+> John Robertson, brown, straight. Daniel Ross, sandy hair, swarthy, well made.
+
+- We'll be here all day. These are black Irish being sold off from Liverpool, Lisbon, Bristol. Black slaves. We were ruling over there. When we got conquered, they did a log book of us being shipped off, because us rebels, that was us. That goes to the King James history. I just jumped there real fast. We're going to go back now.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 74, the engraving of La Vigilante  *[[1:43:59](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=6239s)]*
+
+- So the last one was called the Veteran. This is the description of a slave ship and how it was made, all those little black dots, us, the chains. At the museum, he had these actual chains in his possession, these exact ones. He has them, that were given to him. It's called La Vigilante.
+
+> La Vigilante, 1823 engraving of the captured French slave ship La Vigilante, from the abolitionist tract La Vigilante, bâtiment négrier de Nantes, 1823. Beinecke Rare Book and Manuscript Library.
+
+- Bâtiment négrier means slave trader of France, slave trading of Nantes. So these elite white folks know. They understand what's going on.
+
+- **A brother:** You know the Negro is looking for an actual camera at that time. A GoPro in the 1800s.
+
+- **Deacon Eythan:** You should put a GoPro in your brain and see if your brain is actually there. Put a GoPro on your skull and see what's there. Like I said before, most of them, probably a can of soup.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 77, on La Vigilante  *[[1:45:31](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=6331s)]*
+
+> The French slave ship La Vigilante, voyage ID 2734, was seized at Bonny in 1822 with 345 captives on board. When approached by a British naval cruiser seeking to verify its papers, the crew had fired, killing several of the British ship's crew.
+
+- Because by this time the British had already abolished it. This is an illegal slave ship. So when they came to ask for their papers, a fight broke out.
+
+> The French vessel was taken first to Sierra Leone, where the captives were released,
+
+- They were brought back home to Sierra Leone, where they were from.
+
+> and then to Plymouth, England, where the captain of the British cruiser anticipated bringing murder charges against the French. Abolitionists made drawings of the ship while it was at Plymouth. The ship plans were published in London and Paris.
+
+- So they have drawings of the ship.
+
+> This image here, which includes drawings of locks and shackles, comes from a French abolitionist tract. Such images became an important component of the international abolitionist movement against the slave trade
+
+- So the Most High put it in the spirit of the heathen abolitionists to speak against the slave trade. They had to have records and evidences of the conditions of the slaves brought over here, to speak against it, so it can stop happening. That's how this movement gained sympathy. Okay, listen, look how they're treating them. Look how they bring them over here. This is terrible, this is inhumane, it's wrong. Here's an example of how they're shipped. Here's a slave ship, here's how it's drawn. Look how they live, look what they're wearing. They're wearing these chains. They had to have these things to substantiate a case to stop the slave trade, you dummies. Goodness.
+
+> from the late 1780s, as revealed in the images of a slave ship in 1789, page 164, and in 1829, page 266.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, on the slave deck of the Wildfire  *[[1:48:11](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=6491s)]*
+
+- So the last one was the Veteran, the first one, the Vigilante. Then this one here.
+
+> The slave deck of the Wildfire, brought into Key West on 30 April 1860.
+
+- Go up to the image. You're going to see us all crowded on the ships, bony as hell, like Lamentations 4 and 8. Like skeletons. All packed like sardines.
+
+> The Wildfire. Engraving from a daguerreotype, published in Harper's Weekly, 2nd June 1860. Image courtesy of the Division of Rare and Manuscript Collections, Cornell University Library.
+
+- Cornell University Library. Yale, Cornell. You can't make this up, man. When it says daguerreotype, that was the first camera. So they engraved that from an actual photo. There's an actual photo of this.
+
+> The Wildfire, sailing out of New York, voyage ID 4362, was captured off Cuba by the US Navy ship Mohawk. The 510 African captives on board were sent to Key West, Florida, on April 30th 1860,
+
+- Five years before the Emancipation Proclamation.
+
+> They were the survivors of the 650 who had left the Congo River on board the Wildfire 36 days earlier. Engravings from the daguerreotype photographs published in Harper's Weekly show the naked survivors, males separated from females, those in front looking emaciated. The US authorities ordered the liberated Africans to be sent to Liberia,
+
+- Send them back home.
+
+> which meant a second unwanted and perilous Atlantic crossing to an unfamiliar destination.
+
+- They were from Congo. They said bring them to Liberia, drop them off over there. They don't belong over here. So you got the Veteran, you got the Vigilante, the Wildfire. These are slave ships. But some of y'all … don't know what's going on.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 122, map 80, destinations of slaves from Whydah  *[[1:51:02](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=6662s)]*
+
+> Map 80. Destinations of slaves and home ports of vessels carrying them, 1727 to 1863.
+
+- Whydah, 582,000. That's over half a mil. 582,000. And Freetown right there. They brought them to Freetown from Whydah. Freetown is where Africans liberated from slave ships were brought. So some of them were brought back home. They were intercepted from here and brought back home to Freetown.
+
+- Whydah, that's Judah. Bring the map in some, see where it goes. So you got Bahia, Salvador da Bahia. You got Pernambuco. You have French Guiana. So it's 131,000 that went to Brazil. But the largest bulk of us went to where? Go up from Whydah. Haiti. Saint-Domingue. Jamaica. That looks like the Dominican Republic, above Puerto Rico. Let's see, we got Chesapeake, you got Georgia, you got the Gulf Coast, you got Havana. Trinidad and Tobago. So they brought a lot of us over there from here, a bulk. That's a huge arrow there.
+
+- There's your Leeward Islands right here. St. Kitts. These are the Leeward Islands here, Eastern Caribbean, the Lesser Antilles. Grenada, St. Vincent. So they brought Whydah over here. Guadeloupe, Antigua, St. Kitts. That's where the Gleanings mentioned, the Leeward Islands. They brought a lot of us from the Irish to these islands over here. The black Irish over here, the black British over here, the black English over here.
+
+- **A brother:** Now it makes sense too, Deacon, because those that were brought over there from Europe, those were the ones that were supporting King James. And we know those are Benjamites. And we know Benjamin was always supporting Judah's king on the throne.
+
+- **Deacon Eythan:** Yes, yes, yes. Damn, that's a heavy point.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, page 53, on La Rochelle  *[[1:53:57](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=6837s)]*
+
+> La Rochelle was the second most important slave port in France, and its site on the Atlantic allowed merchants to organize relatively short triangular voyages. The port's slave traffic declined after 1788, although the French traffic in slaves was still expanding, and it took little part in the illegal 19th century slave trade. La Rochelle slave merchants drew heavily on just two African ports for slaves: Whydah, see maps 79, 80 and 101, and competed with and lost out to Nantes for the markets in Saint-Domingue.
+
+- Now get me page 54 and then 55. I want the Río de la Plata right there in South America. They used a lot of the silver from there and transported it to East Africa to buy more slaves, in the Indian Ocean. The Portuguese.
+
+- **A brother:** They don't be saying nothing, they just be quiet. Remember, Manny commands him to be quiet and not to listen to us.
+
+</div>
+
+<div class="reading">
+
+Reading from the atlas of the slave trade, pages 54 and 55, the log of deaths on board a French slave ship at Whydah  *[[1:55:22](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=6922s)]*
+
+- Remember, La Rochelle is French. That's why it has this here.
+
+> September 4th, 1775, Judah roadstead. There died a captive man branded with LSM on his right chest.
+
+- The slave master's initials, LSM, on his right chest.
+
+> The leading surgeon on board took constant care to prolong his life over a few days, but, to our astonishment, this uncontrollable sickness, the causes of which remain unknown, did not allow us any remedy. From the time that it manifested itself, the loss of blood was such that the sick man was carried away suddenly, within 24 hours, by violent diarrhea, blood escaping from every pore.
+
+- Why? Because of his diet. They were giving him millet seed, and that ivory. That's what the Arabs did to us before. I showed that earlier, the dhows. We died from bloody, violent diarrhea because of the diet they're feeding him on the slave ship. That's why. Unknown? It wasn't unknown. They were giving us a terrible diet. That's what it was. Roadstead of Judah. Whydah and Judah is the same word. Whydah, Judah, same word.
+
+> Judah roadstead. There died a Negro girl branded with LSM on the right arm,
+
+- So the black man and woman were both owned by the same master. LSM on his chest, but on her right arm.
+
+> who went down with scurvy a few days ago.
+
+- She died from some Esau-brought disease. Scurvy.
+
+> October 13th, Judah roadstead. There died a woman of the cargo, branded with LSM on the right arm. She died of lethargy and scurvy, and passed away quickly enough.
+
+- Died fast. So Judah and Whydah, according to the French, is the same exact place.
+
+- **A brother:** Scurvy is caused by a lack of vitamin C in the ocean. So it's basically, again, the lack, the diet.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Alarm Bell: Considerations on the Present Dangerous State of the Sugar Colonies*, published 1749, page eight  *[[1:58:07](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=7087s)]*
+
+- Give me Considerations, the old book I sent you as well, Considerations of the Sugar Colonies. This is an old, old book that I cannot find and get my hands on, but I have enough. This will do.
+
+> The Alarm Bell: Considerations on the Present Dangerous State of the Sugar Colonies,
+
+- Sugar colonies means plantations.
+
+> with a memorial and observations concerning the islands of St. Lucia, St. Vincent and Tobago, to which are added queries and answers relating to the African trade.
+
+- The slave trade. What year is this published? 1749. This is for white eyes only. This is not for Negro eyes and ears. Now go to page eight of this book. Start from the query at the bottom.
+
+> Query three. Why are the Negroes from the Gold Coast and Whydah, or Judah, the most valuable of all slaves,
+
+- Remember we read earlier in Rice and Slaves that they sought for specific, distinct ethnic groups. Those that are Gold Coast and Whydah are the most valuable. Why?
+
+> and so necessary for the sustenance of sugar plantations?
+
+- Wow.
+
+> Answer. Gold Coast and Whydah Negroes are hardy
+
+- Hardy means tough, strong, mighty. That's what hardy means.
+
+> and are inured to labor in their own country,
+
+- Inured to labor, meaning what? We were already slaves when they came over there, under the Hamites and the Arabs. We were already conditioned for slavery. That's why they went after us. Because they got together and enslaved us. We had work experience. We had slave experience already.
+
+> and will go to the hard work necessary in sugar plantations as soon as they are purchased by the planter,
+
+- Because they're already built. They're already conditioned for it. That's why I said they're hardy. Because the Arabs and Hamites told them so.
+
+> which is not the case with other Negroes from Angola, Calabar and other parts of Africa,
+
+- These are the rebellious ones. These guys are fighting back.
+
+> who live idle in their own country,
+
+- Why idle? Because they had to go and get us. We were comfortable, we were inland. So they came across, they fought back. There was resistance.
+
+> and are in general of a lazy disposition
+
+- They don't want to work as hard as Judah does.
+
+> and tender constitution, so that there is generally a difference of about 10 or 12 per head between these and those of the Gold Coast and Whydah. And the worst, or tender sort of Negroes, are generally purchased in the sugar plantations by such planters as raise corn, and cattle, and for trades and easy labor. But it has been found by experience that it is very precarious to work such Negroes to prepare for the planting of sugar canes.
+
+- Not all of them are going to just fall in line like Whydah does.
+
+> Gambias are the next best Negroes,
+
+- Gambia are the next best, compared to Gold Coast and Judah Negroes.
+
+> and that is a most valuable trade from its situation and short voyages to Virginia, Maryland, Carolina and other northern provinces, where the labor is not so hard as in sugar plantations.
+
+- So these guys work a little less hard than most, from Gambia. So the point is that they said that the most valuable in the slave trade is the Gold Coast and Judah. Judah. You understand? Because they knew, and know at this time, who they were selling, even in the slave trade. They're not selling Hamites. They're selling our people throughout these areas, who did not get shipped over here.
+
+</div>
+
+<div class="reading">
+
+Reading from the *Encyclopédie des voyages*, a French book published in 1796, its images, with the French titles under them rendered on air by a French-speaking brother  *[[2:02:37](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=7357s)]*
+
+- One more I want to leave you guys, regarding Judah. I'm going to end on this note here. Give me the Encyclopedia of Voyages. It's a French book. It's images of black people in this book. Because I've been touching on the French a lot, regarding Nantes, La Rochelle, Bordeaux. Encyclopedia of Voyages, 1796.
+
+- There's a brother right here. You can see his hands, black as hell, his face. Look what he's wearing. See how he's dressed. He ain't naked and all that. Go to the bottom. It's in French here. We got a brother who speaks French over here. Acts 2 over here. You got a purpose. So put the mic on him.
+
+> The favorite of the king of Judah.
+
+- Damn. Favorite of the king of Judah. That's a king right there, a king of Whydah. So that's the favorite of the king of Judah.
+
+- You got Jacob, Eve here, and the snake. What are the odds? I'm just joking.
+
+> Young princess of Judah.
+
+- Wow. Young princess of Judah. Zoom in. Young princess of Judah. So they have her with her clothes down.
+
+> Warrior of Judah.
+
+- There's a brother right there, the shield and spear, the arrows behind him. That's a warrior of Judah right there. Is he white? You see a white man there? You see curls, or a little hat? No. You see woolly hair. You got the shield, black as hell. That's Jacob right there. That's what they were, conquered and sold. That's us. That's our people.
+
+- **A brother:** Hold on, Deacon, let's get that in color. Go to the Telegram real quick, get the color images, it's even better. This is the actual color of those images the Deacon was going into in that book. Like you said, we can't find it in this color. Esau hides things. But we found it. The actual book is worth thousands of dollars. We found it right here. So he's got a sword in his hand, a spear.
+
+> Slave of Judah.
+
+- I know esclave means slave. Esclavos in Spanish. Slave of Judah. That's why I said her clothes are off. That's a slave. If her clothes are off, her breasts are out, she's enslaved there. Because you see the others all fully dressed. That's the princess also. She's enslaved at this point. That's why she's all out like that.
+
+- Next image. Look how he's dressed. You know the way a woman dressed different. Look at him, got the damn whole hat on, with the gun.
+
+> King of Judah.
+
+- Another king right there. We still had the sauce back then. Look at this dude, man. He got the wig on. He's probably trading with Edom. That's why he looks like that. You start to trade with Edom, you start getting stupid. Start getting perms, start wearing fake hair. Even then, men started wearing the fake hair back at that time. That's us. You start to do tricks, like Prince. We started trading with him, dancing too. The blouses. Shirts versus blouses.
+
+> Woman of quality of Judah.
+
+- Damn. Woman of quality of Judah. Look how she's dressed. The dress full, down past the knees, breasts covered, and she got a veil on. She got a head covering on. That's how you know she wasn't captive. The ones that had their breasts out was captive. The ones that weren't, like this, that's a princess, the sister.
+
+- Get this book. Hey, listen, man, donate to the book fund, so we can get this book in color. We can get the actual book if y'all donate. We can buy the books and we'll share them with you. These books are not for us primarily; they're for us and for you, the watching audience. So please donate to Our Hidden History, regarding the book fund, so we can buy these books.
+
+- There we go, this in color right here. Oh damn, look at him. You can tell Esau had an influence. Money in my ear like a rapper. This one is confused as hell. He's a king too. A confused king. … king, the weak one. That's the one that ran off. That's the king that Ham came and conquered. Ham took over our province. That's him there, the weak king. 1727. Back out and go to the page that I sent you. That's the dude we read about in that book I got recently. This guy, the last ruler. This guy was the worst.
+
+</div>
+
+<div class="reading">
+
+Reading from an article on the last king of Judah, that is, of Whydah  *[[2:10:55](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=7855s)]*
+
+> King of Judah, 1695 to 1727, was the last ruler of the kingdom of Whydah before it was captured by the forces of Dahomey in 1727.
+
+- Dahomey, Hamites. Conquered by Ham in 1727.
+
+> He became king of Whydah in 1708. He was not crowned in a formal ceremony until 1725. His coronation party included 40 of his favorite wives. The 1725 date is that given by one source, but some modern scholars argue it happened in 1717 or 1718.
+
+- That's all he want. So this clown king. That's why he's dressed like this. He was making money, he had a bunch of women, and he was trading with Esau, and he was a coward. Ham came against us; there was way few of them and more of us, and they still conquered us, because of this dude. This guy was the worst, man. So that's how Ham took over. That's why I said, in that last book, it said that they were used to working as slaves, because this guy got conquered and we got enslaved. He ran somewhere else. So Esau came, and they came to the Dahomeys ruling over us. This guy is the conclusion of our conquest here. The damn idiot here.
+
+</div>
+
+## In Closing
+
+*[[2:12:36](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=7956s)]* We'll wrap it up there. I hope you guys enjoyed the lesson. We're going to stop there, on this idiot here, the fool of Israel. Damn, I wanted to end on something positive, but we end negative.
+
+**A brother:** This guy, a clown from Judah too.
+
+**A brother:** Let's give it up to the Deacon for this great class. All praise the Most High. Fire. A lot of good information.
+
+*[[2:15:29](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=8129s)]* **A brother:** Sometimes they just don't answer you when you're finding books. They refuse to give the Deacon an answer. I'm not going to lie, I have seen this. You stay quiet, or ask for something else. And Deacon, let's not forget, you said zoom into the sister and they zoomed into a white woman.
+
+**Deacon Eythan:** That's what they call her, Nana.
+
+*[[2:16:27](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=8187s)]* All right, is that it? Well, hope you guys enjoyed the roasting of it today. That was terrible. And I enjoyed the lesson as much as y'all did. When we're done with this, we're going to jump into the history of King James, more into that history and so forth. I touched a little bit on it. Hope you guys also enjoyed the imagery of Judah, of Whydah, the princesses and the kings and so forth. That was very enjoyable. I had no idea who that guy was, the last king. That's new to me, but all praise for that. I have a book regarding how idiotic that king was. The last king of freaking Judah, man. God, terrible legacy. Anyway, all praise to the Most High. Hope you guys look forward to next week's class. We got more to go into. Hope you guys enjoyed it. With that, we're going to say shalom. Most High and Christ bless. See you next time.
+
+## Announcements & References
+
+*[[2:13:01](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=7981s)]* **A brother:** Israel, make sure you subscribe to Our Hidden History radio on YouTube. Hit the notification button so you know when we go live. You can also subscribe to our other Philly channels, IUIC Philadelphia and IUIC Philadelphia in the ClassRoom, to get the latest content from the Deacons, Captains and Officers of IUIC Philly. Donate to Our Hidden History. Like the Deacon said, we want to purchase more books to bring out to you. These are not going to be found in your regular educational places, schools. They're not going to be found there. So this is the place to find it. Shout out to y'all who come across me and give me books. I appreciate it. A sister gave me a book as well in Tabernacles; shout out to that sister watching. Somebody also wanted to try to get me one in Oklahoma, but I can't get in contact with her. Shout outs to her as well; hopefully I'll get it eventually. Shout out to y'all who come across us and give us the books. Thank you for being avid watchers of the show. That's why it's called Our Hidden History. We all got to work together to find it. Also donate to the Booster Club, and subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+
+*[[2:14:27](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=8067s)]* **A brother:** Missing persons: we have DeQuan Wright. DeQuan is 15 years old, 5'8, 160 pounds. He was last seen on October 2nd. He frequents the 800 block of East Price Street. Clothing description unknown. So if you do see the brother, or know of his whereabouts, make sure you report it to the local authorities.
+
+*[[2:14:55](https://www.youtube.com/watch?v=p8GJ-9aSsxo&t=8095s)]* **A brother:** Land fund: we've been saying it every single day, every single class. Israel, make sure you donate to the land fund. We got the land blitz coming up, so make sure we're all putting aside some money now. Let's prepare for that. Donate now if you have it, and in the comment section put land. And lastly, we're seeking your assistance to enhance our national broadcast. Kindly spare a minute to provide feedback by answering five brief questions. So pull out your phone, hit the QR code, and let us know what you think.
+
+Zoom in during the show to call in, or text the show.
+
+Sources read from in this episode:
+
+- The atlas of the slave trade (the slave atlas): page one (sugar plantations, buyers and sellers), page nine (log books of slave vessels), page 24 (conditions below deck), page 39 (the twenty largest slaving ports), page 52 (Liverpool), page 11 (map of the European slave ports), page 51 (Bristol), page seven and page 43 (Lisbon and Seville), page 59 (Nantes), page 74 and page 77 (La Vigilante), the slave deck of the Wildfire, page 122 (map 80, Whydah), page 53 (La Rochelle), and pages 54 and 55 (deaths on board at the Judah roadstead).
+
+- *Rice and Slaves*: page 175, page 23, the pages after it, and page 33, on European distinctions among African peoples, provenance, and the languages the slaves spoke.
+
+- A dictionary definition of provenance, looked up on air.
+
+- A book of images from Western art by Henry Louis Gates and David Bindman, images 162 and 163 (Nantes, 17th century).
+
+- An online article on the etymology of Jedi, citing J. W. Rinzler's *The Making of Star Wars* and Michael Kaminski's *The Secret History of Star Wars* (brought by a brother).
+
+- *The Gleanings*: the capture of the Veteran, shipped at Liverpool in 1747 with 150 Jacobite rebel prisoners, and the list and description of them.
+
+- *The Alarm Bell: Considerations on the Present Dangerous State of the Sugar Colonies* (1749), page eight, query three.
+
+- The *Encyclopédie des voyages* (1796), its images of the people of Judah (Whydah), the French titles rendered by a French-speaking brother.
+
+- An article on the last king of Whydah, 1695 to 1727.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=p8GJ-9aSsxo)

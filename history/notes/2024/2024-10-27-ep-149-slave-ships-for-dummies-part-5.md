@@ -131,7 +131,7 @@ Reading from *The Earth and Its Inhabitants*, volume three, page 143 and on to 1
 
 - Okay, so white could mean as in character. But now it said it means drunk, or impious, as in unrighteous. So maybe white didn't mean pure, like I said before.
 
-> By some they are regarded as totally distinct from their Bambara and Mandingan neighbours, while others affiliate them to the Susu of the middle, with a slight dash of Berber blood, which would account for their relatively fair complexion.
+> By some they are regarded as totally distinct from their Bambara and Mandingan neighbours, while others affiliate them to the Susu of the middle, … with a slight dash of Berber blood, which would account for their relatively fair complexion.
 
 - So they're a little bit light-skinned. I guess Berber here would be probably Arab.
 
@@ -141,9 +141,9 @@ Reading from *The Earth and Its Inhabitants*, volume three, page 143 and on to 1
 
 - So these people are grouped with the Mandingo family. The Sarakolé, Soninké, or Mandingo family.
 
-> Where intermingling has taken place, their language is more or less affected by Fula, Bambara and Mandinga elements, and both in its roots and syntax it is fundamentally connected with Mandingan. According to their tradition they formerly held extensive sway on the banks of the, but in any case they have certainly occupied the Senegal basin long before the arrival of the other Mandingos and Bambaras.
+> Where intermingling has taken place, their language is more or less affected by Fula, Bambara and Mandinga elements, and both in its roots and syntax it is fundamentally connected with Mandingan. According to their tradition they formerly held extensive sway on the banks of the, … but in any case they have certainly occupied the Senegal basin long before the arrival of the other Mandingos and Bambaras.
 
-- We always had extensive sway on the banks of the Niger. Okay, the Niger River.
+- We always had extensive sway on the banks of the Niger. Okay, the … Niger River.
 
 > Scattered in small isolated groups throughout Senegambia, the Sarakolés are found in most compact masses along both banks of the Senegal. Considerably smaller than the Wolofs, they are still taller than the Fulahs, but of less graceful carriage. The complexion is a dark chestnut,
 
@@ -221,7 +221,7 @@ Reading from *The Earth and Its Inhabitants*, page 174, on the Mandingans  *[[34
 
 - Melli and Mali is... You see that, where the old maps or old books, they call Mali Melli. It's the same place.
 
-> which formerly embraced the whole of the upper basin.
+> which formerly embraced the whole of the upper … basin.
 
 - Come on.
 
@@ -383,7 +383,7 @@ Reading from a French bulletin of 1890, of a society of geography, page 272, on 
 
 > A distinct kingdom, of which the capital was Savi, or Xavier. It was conquered in 1725 by the Dahomans.
 
-- That's when that king was there. That stupid was there, with the gun. You saw a picture of him. It was conquered. So we had that domain. We were keeping Judaism.
+- That's when that king was there. That stupid … was there, with the gun. You saw a picture of him. It was conquered. So we had that domain. We were keeping Judaism.
 
 - All right, so now that book says, 1890, Deac. So when it says Judah, or Whydah, it's not because of a parrot. It's because the tribe of Judah was there. Israel was there. Judah, Benjamin, Levi were there. They were there in that land. Parrot. Some of you got the brain of a parrot. Stupid. Stupid.
 
@@ -666,11 +666,11 @@ Reading from Snelgrave's *New Account*, read on: the King of Dahome  *[[1:17:30]
 
 > adding, he designed to make trade flourish, and I might depend upon it, he would prevent all impositions and thievery, and protect the Europeans that came to his country,
 
-- Damn. It's Hamites and working together.
+- Damn. It's Hamites and … working together.
 
 > saying, that his God had made him the instrument to punish the King of Whydah and his people, for the many villainies they had been guilty of towards both whites and blacks.
 
-- Meaning whites and Hamites. We were killing Edom and Ham when they came, when they opposed us. So he said that God used me. But that's not the reason why. Because Israel was going the hell off. But this Ham believed that his god used him as a tool to conquer us, based upon our actions towards them and who tried to invade us. That's what it's saying there.
+- Meaning whites and Hamites. We were killing Edom and Ham when they came, when they opposed us. So he said that God used me. But that's not the reason why. Because Israel was going the hell off. But this Ham believed that his god used him as a tool to conquer us, based upon our actions towards them and … who tried to invade us. That's what it's saying there.
 
 </div>
 
@@ -1278,7 +1278,7 @@ Reading from *A Treatise of Physical Geography* by A. Barrington (1850), page 39
 
 All praise to the Most High. Let's get to these announcements. Fire class.
 
-*[[2:22:31](https://www.youtube.com/watch?v=DcerYm34ynE&t=8551s)]* Those of y'all who talk about your mom coming from Irish or Scottish descent: understand that the Irish were frowned upon because they assumed our identity. That's why they called the Irish... When you watch the movie Gangs of New York, with Leonardo DiCaprio, they called the Irish that, because they assumed the identity. Even though the British did too, but they assumed the identity of us when they conquered us out of the land and placed the Irish in our lands. And they saw this during the Jacobite rebellion. They took over our landmass, and a lot of them assumed their identity. Pretty much, when Esau took over, they made a lot of the black slaves lay with Irish women to make lighter slaves. Pretty much like a little experiment. So some of us have... I found in my family also, they have Irish women that they used to lay with the black slave, to make lighter-skinned slaves. That's what they would do. All right, so if your mama's side is Irish or Scottish and your dad is Jake, don't worry about it. It is what it is. You're Jake regardless.
+*[[2:22:31](https://www.youtube.com/watch?v=DcerYm34ynE&t=8551s)]* Those of y'all who talk about your mom coming from Irish or Scottish descent: understand that the Irish were frowned upon because they assumed our identity. … That's why they called the Irish... When you watch the movie Gangs of New York, with Leonardo DiCaprio, they called the Irish that, because they assumed the identity. Even though the British did too, but they assumed the identity of us when they conquered us out of the land and placed the Irish in our lands. And they saw this during the Jacobite rebellion. They took over our landmass, and a lot of them assumed their identity. Pretty much, when Esau took over, they made a lot of the black slaves lay with Irish women to make lighter slaves. Pretty much like a little experiment. So some of us have... I found in my family also, they have Irish women that they used to lay with the black slave, to make lighter-skinned slaves. That's what they would do. All right, so if your mama's side is Irish or Scottish and your dad is Jake, don't worry about it. It is what it is. You're Jake regardless.
 
 *[[2:26:08](https://www.youtube.com/watch?v=DcerYm34ynE&t=8768s)]* Shout outs to the breakfast team. Shout outs to the IT team for doing a fair job today. They did all right today. I would say shout outs to the readers, but we gonna get better. There's no need. Congratulations. I don't have any words for the rep team at all. Those of y'all who love the artist back in the day, Lloyd: that's who he reminds me of.
 

@@ -54,7 +54,7 @@ And the bulk of Angola, they all dropped off in Brazil. The bulk of the people o
 
 *[[16:09](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=969s)]* I haven't visited a place yet where our people are speaking Hebrew, so I don't know why we argue about that Hebrew stuff. I haven't found a single place in the world where our people are found speaking fluent Hebrew. So I don't know why I keep arguing about it. I don't understand it at all. I hope one day you find them, and when you do, we'll go over there and try to learn it. I haven't found them yet. But anyway, that's another topic. I'm being mean today. I'm in one of those moods. But let's start. Let's jump in. It's 1:46. Let's jump in.
 
-*[[16:39](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=999s)]* So where we left off at was the translators. Let's go back to that pamphlet now. We didn't finish it all. I had downloaded this back in 2012. King James the First, biography. You read this before. Go down. We've read that too. Had nine children. He wasn't gay. Go over his book on demonology. Go down. Much racism and slander. That was that. Sir Anthony Weldon was the one responsible for saying he was gay. Sir Anthony Weldon and another guy named Francis. Those two were the ones who were responsible for saying he was gay, 25 years after he died, unable to defend himself. They spread that rumor he was gay because he was a Scot. Francis Osborne. Those two were the culprits behind the rumor of him being homosexual. And a lot of homosexuals use that now as a reference.
+*[[16:39](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=999s)]* So where we left off at was the translators. Let's go back to that pamphlet now. We didn't finish it all. I had downloaded this back in 2012. King James the First, biography. You read this before. Go down. We've read that too. Had nine children. He wasn't gay. Go over his book on demonology. Go down. Much racism and slander. That was that. Sir Anthony Weldon was the one responsible for saying he was gay. Sir Anthony Weldon and another guy named Francis. Those two were the ones who were responsible for saying he was gay, 25 years after he died, unable to defend himself. They spread that rumor he was gay because … he was a Scot. Francis Osborne. Those two were the culprits behind the rumor of him being homosexual. And a lot of homosexuals use that now as a reference.
 
 *[[17:39](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=1059s)]* Next. Disinformed sources. Queen had nine children. Go down. Guy Fawkes tried to blow up the building that they were in. Go down. He's a king, is a bitter enemy of our religion. Next. The King James Version, we read that already. Crowning achievement, the best scholars. There we go. Translators. They were organized into six groups. Go up to the top. Start from 1604.
 
@@ -232,7 +232,7 @@ Reading from a summary of the translators of the King James Bible, by company, w
 
 *[[41:28](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=2488s)]* So I don't understand this whole thing with, well, yeah, you can find Hebrew in Isaiah. I don't care what you can find. I can be found in your basement. My question is, where can we find our people in the world speaking the same Hebrew that David and Solomon spoke in the Bible? Show me them. Where are they? Show us where they're located. Give us the island. Give us the country. Give us the continent. Give it to us, so we can go over there and speak. Cause I'm pretty sure if you find our people over there speaking a language, we'll find our people over there speaking Hebrew. It's not there. It's a moot conversation for desperate minds that seek attention on the comment boards. Come on now.
 
-*[[42:10](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=2530s)]* Where we at? So these men here were fluent in these languages. The Negro today with the weird Hebrew name, they don't speak these languages at all fluently. They don't go to these universities. They don't speak 15 languages. We have brothers in our congregation that speak eight, nine languages. I know them personally. We have brothers in our congregation that speak eight to nine different languages fluently, where people are found speaking those same languages. So I don't know what this whole thing is on the comment board about. I don't understand it. Your leadership is wrong about women wearing pants. What the does that have to do with this lesson? Nothing. Y'all causing mad confusion, bro. Stop it. Pissing me off now. Women can wear pants. Hebrew. That's a woman's spirit, man. All over the place. All over the place. That's out of context. Okay. Well, show us in the Bible where women wear pants. When did Israel women start wearing pants? Where is that biblical fact? Where is it?
+*[[42:10](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=2530s)]* Where we at? So these men here were fluent in these languages. The Negro today with the weird Hebrew name, they don't speak these languages at all fluently. They don't go to these universities. They don't speak 15 languages. We have brothers in our congregation that speak eight, nine languages. I know them personally. We have brothers in our congregation that speak eight to nine different languages fluently, where people are found speaking those same languages. So I don't know what this whole thing is on the comment board about. I don't understand it. Your leadership is wrong about women wearing pants. What the … does that have to do with this lesson? Nothing. Y'all causing mad confusion, bro. Stop it. Pissing me off now. Women can wear pants. Hebrew. That's a woman's spirit, man. All over the place. All over the place. That's out of context. Okay. Well, show us in the Bible where women wear pants. When did Israel women start wearing pants? Where is that biblical fact? Where is it?
 
 **Officer:** He's just a pervert that likes to see the women wear tight pants.
 
@@ -240,7 +240,7 @@ Reading from a summary of the translators of the King James Bible, by company, w
 
 **Officer:** He knows better Hebrew and languages than all these men, right?
 
-**Deacon Eythan:** Apparently he does. My language, y'all. If you got kids watching, I apologize. I just don't like ignorant on my channel. It pisses me off. Where we at?
+**Deacon Eythan:** Apparently he does. My language, y'all. If you got kids watching, I apologize. I just don't like ignorant … on my channel. It pisses me off. Where we at?
 
 <div class="reading">
 
@@ -268,7 +268,7 @@ Reading from the summary of the translators, continued: the First Oxford Company
 
 > Richard Kilby: Regius Professor of Hebrew at Oxford, leading Hebraist, Prophets translator. Documented Hebrew, Latin, and Greek. Miles Smith: Oxford oriental language scholar, later Bishop of Gloucester, Prophets translator, final editor. Documented Greek, Latin, Hebrew, Chaldee, Aramaic, Syriac, Arabic, rabbinical learning.
 
-- And by the way, the Hebrew you saw about Isaiah, these men can read it and speak it fluently. So let's just argue and say the Hebrew was around during this time. These men can speak it fluently and translate it back and forth. Y'all rely on Blue Letter and Strong's concordances. These men spoke from the time they was toddlers, six years old. You rely on Strong's; they rely on the language. Who should I listen to, them or you? Which one? Obviously I'm ruffling some feathers today. Brothers is getting mad about it now.
+- And by the way, the Hebrew you saw about Isaiah, these men can read it and speak it fluently. So let's just argue and say the Hebrew was around during this time. These men can speak it fluently and translate it back and forth. Y'all … rely on Blue Letter and Strong's concordances. These men spoke from the time they was toddlers, six years old. You rely on Strong's; they rely on the language. Who should I listen to, them or you? Which one? Obviously I'm ruffling some feathers today. Brothers is getting mad about it now.
 
 > Second Cambridge Company. Assigned the Apocrypha. John Duport: Master of Jesus College, Cambridge, Greek scholar, leader and director, Apocrypha translator. Greek, Latin, Hebrew working knowledge.
 
@@ -446,7 +446,7 @@ Reading from *A Treatise on Physical Geography*, an old book, on the Hebrew, the
 
 - **Officer:** Same Hebrew stuff for almost 10, 15 years now.
 
-- **Deacon Eythan:** This ain't new to me. It's the same old. Satan got like 10 demons he had at his disposal. It's the same demon.
+- **Deacon Eythan:** This ain't new to me. It's the same old. … Satan got like 10 demons he had at his disposal. It's the same demon.
 
 - **Officer:** They're on rotation.
 
@@ -454,7 +454,7 @@ Reading from *A Treatise on Physical Geography*, an old book, on the Hebrew, the
 
 - **Officer:** Sometimes he send them two by two.
 
-- **Deacon Eythan:** Exactly. Send them two by two. Put two in one. The same spirit. Three in one: a Trinitarian, a Trinity. The same three demons in one, every year. Acts 2 and 1. Cut the music, bro.
+- **Deacon Eythan:** Exactly. Send them two by two. Put two in one. … The same spirit. Three in one: … a Trinitarian, … a Trinity. … The same three demons in one, … every year. Acts 2 and 1. Cut the music, bro.
 
 - So we're at Pentecost now. The disciples.
 
@@ -506,7 +506,7 @@ Reading from *A Treatise on Physical Geography*, an old book, on the Hebrew, the
 
 - So he has us speaking languages from Parthia. That's Persia, Iranian. You have the Elamites. Mesopotamia. Judea. Cappadocia, Pontus, Asia, Phrygia, Pamphylia, Greek provinces. Egypt, that's Coptic. You have Libya about Cyrene, that's Greek. You have Rome, that's Latin. Jews and proselytes. Cretes is Greece. And Arabians is Arabic.
 
-- Going back to that fire that sat upon them in verse 3. So if this Hebrew was such a factor, why not have the Jews that came from foreign lands, speaking foreign tongues, come back home and miraculously speak their original Dead Sea Scroll language? Don't play with me, man. I'll embarrass your ass on the stage. I'm telling you, we will embarrass you up here.
+- Going back to that fire that sat upon them in verse 3. So if this Hebrew was such a factor, why not have the Jews that came from foreign lands, speaking foreign tongues, come back home and miraculously speak their original Dead Sea Scroll language? … Don't play with me, man. I'll embarrass your ass on the stage. I'm telling you, we will embarrass you up here.
 
 - **Officer:** Hey, Ezekiel, post your YouTube page up, so we could go there and see you speak Hebrew.
 
@@ -566,7 +566,7 @@ Reading from *A Treatise on Physical Geography*, an old book, on the Hebrew, the
 
 *[[1:19:23](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=4763s)]* The break: the mission reels play. Shalom. Look, man, the brother just got through giving out free haircuts. They gave out free bread, free water, and we gave out the word for free also. One of the police officers that's been helping us here, he said, since y'all giving out food, come to the jail. He said, we got a bunch of people in the holding cell that haven't ate. So what we did, we went and bought more bread. We got more water. And now they giving it out to the inmates. So as y'all see, it's about the truth. The scripture say, if your brother hungry, give him something to eat. If they thirsty, give them something to drink. One of the ways to bring light to this place, to show our people that, look, we love them. We ain't just coming to take from them. To give back to them as well. Give the bread of life, and give them bread in real life. Then, very early in the morning: still have not made it to our destination, but all praise to the Most High; about to jump on a quick flight. And I know people equate poverty with stupidity. Know that there's no equivalence whatsoever. Poverty does not make you simple. My people are very, very intelligent out here, and Zambia is a very beautiful place. Lusaka, Zambia: the Lord sent us here. The Bible says the Lord is the one that orders our steps. So the Lord sent us here to Lusaka, Zambia, to gather his people. That's what apostle means. It means to be sent. Then Grenada: here representing the IUIC mission here in Grenada, Israel United in Christ, Booster Club mission number 211, in St. George, Grenada. The Bishop, the General, have given the vision that was given to him from Christ, and passed it down to the leaders, the men of war, to go out to the four corners of the earth and find God's dispersed and teach them who they are. His head and his hair were white like wool. Jesus Christ had white and woolly hair. You have woolly hair. You are made in the image of God. You are made in the image of Jesus Christ. Jesus Christ is a black man. But then you ask them, what color is Jesus? They say he's white. What color did we just say in the Bible? He's black. But what color is he? He's white. It's a battle. And that's why the prophets are here, to tear down these strongholds in the minds of our people and make them understand that they're greater than what they are. My God actually looks like me. So what I went through, he's already been through, and he teach me how to go through it, so I can receive eternal life. That's purpose. That gives you a drive to do what God tell you.
 
-*[[1:24:13](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=5053s)]* All right, we're back. We're back from the break. All praise to the Lord. Give me Acts 2 and 5 again real quick. I'm going to give this on the comment board about 10 minutes. If you don't post a video speaking fluent Hebrew, I'm going to block him. That's my request. Show us a video of you speaking fluent Hebrew, that's found in the Dead Sea Scrolls, or found spoken by David and Solomon. Or I'm just going to block you. You wasting my time. You trying to gather a congregation on the comment board. That ain't going to work. The comment board, not a chalkboard. You're not teaching here today.
+*[[1:24:13](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=5053s)]* All right, we're back. We're back from the break. All praise to the Lord. Give me Acts 2 and 5 again real quick. I'm going to give this … on the comment board about 10 minutes. If you don't post a video speaking fluent Hebrew, I'm going to block him. That's my request. Show us a video of you speaking fluent Hebrew, that's found in the Dead Sea Scrolls, or found spoken by David and Solomon. Or I'm just going to block you. You wasting my time. You trying to gather a congregation on the comment board. That ain't going to work. The comment board, not a chalkboard. You're not teaching here today.
 
 **[Acts 2:5](/bible/acts/2#v5)**  *[[1:24:25](https://www.youtube.com/watch?v=3xO_jKzkOqY&t=5065s)]*
 
@@ -1212,7 +1212,7 @@ Reading from the NIV rendering of Song of Solomon 1:5, on Bible Hub  *[[2:23:40]
 
 - Someone said, what's wrong with that? Same thing. No, it's not. I'll give you an example. Dark has different shades of meaning. I'm driving a dark car. What color is it? I have a dark carpet. What color is it? I have a dark chair. What color is it?
 
-- **Officer:** And it's relative too, because some will say they got a little tan and they call themselves dark. That's not the same.
+- **Officer:** And it's relative too, because some … will say they got a little tan and they call themselves dark. That's not the same.
 
 - **Deacon Eythan:** It's ambiguous. If you say a black person ran that way, automatically you're going to say a Negro. If you say a dark person ran, it could be anyone. Arab, Hawaiian. It's ambiguity. Different shades of meaning. That's what I'm showing y'all. That's what they're doing.
 
@@ -1326,13 +1326,13 @@ Reading from the document Bible Corruption in 1969, concluded  *[[2:29:12](https
 
 > the difference won't be enough to matter.
 
-- **Officer:** That's us. Cause we just esoteric.
+- **Officer:** That's us. Cause we just … esoteric.
 
 - **Deacon Eythan:** Those of y'all watching right now who know, it don't matter if you know. You're not the majority. You'll just be a conspiracy theorist Negro. Oh, you just bugging out in your head. You're a cult. You're a Black Hebrew Israelite. You hate people.
 
 - **Officer:** You're giving. You're period. Giving. Period.
 
-- **Deacon Eythan:** Like that dumb that was on the comment board. Where we at?
+- **Deacon Eythan:** Like that dumb … that was on the comment board. Where we at?
 
 > Some of us have noticed the difference and are shouting out the warning.
 

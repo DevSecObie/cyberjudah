@@ -145,7 +145,7 @@ Reading from *A Universal History*, volume 19 (1748), pages 71 to 79, on the peo
 
 > That part of Britain which comprehends the present kingdom of England and the principality of Wales was in ancient times divided into seventeen petty states,
 
-- All the same people, but we're all divided. Jake, Jacob, Jake is, you know, rebellious. We fight each other. Same thing. 17 petty states.
+- All the same people, but we're all divided. Jake, Jacob, … Jake is, you know, rebellious. We fight each other. Same thing. 17 petty states.
 
 > whereof the inhabitants were distinguished by the following names: the Damnonii,
 
@@ -792,7 +792,7 @@ Reading from *West African Peoples and Countries* (the author's name not given o
 
 - Ham.
 
-> protected from incursion on the north by the river, and quietly settled between the great and Old Calabar rivers, it remained in peace, and grew from one generation to another in idolatry, but still leaving tangible proofs, in the form of the religion, of the Judaic origin of the inhabitants.
+> protected from incursion on the north by the river, and quietly settled between the great … and Old Calabar rivers, it remained in peace, and grew from one generation to another in idolatry, but still leaving tangible proofs, in the form of the religion, of the Judaic origin of the inhabitants.
 
 - They maintain bits and pieces of their Judaic culture, along with the Hamites' stuff they learned.
 
@@ -834,7 +834,7 @@ Reading from *West African Peoples and Countries* (the author's name not given o
 
 Reading from *West African Peoples and Countries*, continued, and page 171 on the Ebo · read by a guest in the studio  *[[1:25:40](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=5140s)]*
 
-> I mean the lost tribes of Israel. If the rites and ceremonies of the religion of the tribes bordering on the banks of the river be closely examined, and compared with the religion of the Hebrews at the earliest period
+> I mean the lost tribes of Israel. If the rites and ceremonies of the religion of the tribes bordering on the banks of the river … be closely examined, and compared with the religion of the Hebrews at the earliest period
 
 - Come on. That's it. You got 171?
 
