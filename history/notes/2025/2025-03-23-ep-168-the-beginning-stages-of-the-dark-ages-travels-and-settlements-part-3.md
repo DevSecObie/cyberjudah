@@ -360,7 +360,7 @@ Reading from *War of the Jews*, from page 191, on the Semitic Negroid Berbers, t
 
 > A chieftain of a Judeo-Berber tribe terrorized her Aurès mountain settlement and demanded Kahina as a wife.
 
-- That was us. That was us being cruel to each other.
+- That was us. That was us being to each other.
 
 > When she rejected him, he slaughtered people of her village. She then gave herself to him, but like the biblical heroine, slew him with a nail to the skull on the wedding night.
 
@@ -376,7 +376,7 @@ Reading from *War of the Jews*, from page 191, on the Semitic Negroid Berbers, t
 
 > <sup>[21](/bible/judges/4#v21)</sup> Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
 
-- Damn. He was sleep. That dude was big as hell, and she drove it through his skull to the ground. That dude was a human tent.
+- Damn. He was sleep. That was big as hell, and she drove it through his skull to the ground. That dude was a human tent.
 
 - **A brother:** She pitched the tent in his skull, bro. It's crazy.
 

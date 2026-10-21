@@ -562,7 +562,7 @@ Reading from *A Church History of the Council of Nicaea, A.D. 325*, on Arius's a
 
 - Like for example, I speak as a man, as Paul would say. I'm giving you a carnal example, because this is not real life. I like watching Marvel movies. When you watch Marvel movies like Thor, Odin is called the All-Father. He is god of the gods. Then Thor is a god. But Odin is the god of the gods. So the father is a god of Christ, who was a god. And Christ made us, and we're gods of that God. You understand? This is grandfather, father, sons. Then sons have sons. The Bible says he is the God of gods, because he's our God and we're gods. But guess what? We didn't create. Christ made us.
 
-- And some try to be slick and say, oh yeah, Christ is a god, we are gods, Christ ain't my god. That's blasphemy. Christ is your creator. John says it. Oh, he ain't my god. I heard people say that stupid stuff before. Christ ain't my God. He's just some man that died. You know, we all gods. I go to my wife and I have a son. I created something. I'm a God too. You didn't create the universe. You didn't create things seen and unseen. Read that, man. Y'all pissing me off. Hearing that is pissing me off.
+- And some try to be slick and say, oh yeah, Christ is a god, we are gods, Christ ain't my god. That's blasphemy. Christ is your creator. John says it. Oh, he ain't my god. I heard say that stupid stuff before. Christ ain't my God. He's just some that died. You know, we all gods. I go to my wife and I have a son. I created something. I'm a God too. You didn't create the universe. You didn't create things seen and unseen. Read that, man. Y'all pissing me off. Hearing that is pissing me off.
 
 - Read verse 8 again. Sorry, I went to a dark place just now.
 
@@ -590,9 +590,7 @@ Reading from *A Church History of the Council of Nicaea, A.D. 325*, on Arius's a
 
 **Deacon Eythan:** It says, I married thy sons. Hold on. I hate when we have these pauses. Well, say something, man, while I find it. Say something smart.
 
-**Officer:** So as you can see, this Oswald Bates nonsense that we going over was started by Negroes.
-
-**Deacon Eythan:** Yeah. I'm going to say it straight up. That's them back again. I'm telling you, that whole conversation, constant debates all the time. That's them back again. The unconscious community had sway over the kings and queens back then. Isaiah 62 and verse 4.
+**Officer:** So as you can see, this Oswald Bates nonsense that we going over was started by **Deacon Eythan:** Yeah. I'm going to say it straight up. That's them back again. I'm telling you, that whole conversation, constant debates all the time. That's them back again. The unconscious community had sway over the kings and queens back then. Isaiah 62 and verse 4.
 
 
 **[Isaiah 62:4-5](/bible/isaiah/62#v4)**  *[[1:04:20](https://www.youtube.com/watch?v=guqIg3Ln5N4&t=3860s)]*
@@ -681,7 +679,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 - **Officer:** We become morphed.
 
-- **Deacon Eythan:** They them. Yeah. They become they them, or the pronoun. It's stupid. Vegito. It's a stupid doctrine. So now, my mind is racing. Get me Acts 17.
+- **Deacon Eythan:** They them. Yeah. They become they them, or the pronoun. It's. It's a stupid doctrine. So now, my mind is racing. Get me Acts 17.
 
 - **Officer:** If I may: that's why Paul said don't be corrupted from the simplicity that is in Christ. It's very, very simple. The scriptures tell constantly, over and over again, that Christ is the only begotten of the father. But then people come up with their own doctrine saying some nonsense.
 
@@ -759,7 +757,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 - But there is no class on that. There is no series of classes on how to do that, because they don't really believe it. It's just lust. It's a lust-based doctrine. Cuz if it were a sincere doctrine, there'd be a whole series of classes on how to go about doing it, and how to do it in a way where you don't face consequences of, for example, a wife taking your ass to court and taking the child support, or a wife being crazy, or hurting your child, or being diseased, or being mentally unstable. There will be classes granting men the guidance on how to pick these wives, or these women how to pick a husband. There's no classes on it, cuz it's not a sincere doctrine. They don't believe it. They just go, hey, have more than one. That's it. Bible says it. That's it. Is there more to that? No, you can just do it. That's an irresponsible doctrine.
 
-- When you hear that doctrine, what you're doing is you're making Margaret Sanger right, because Margaret Sanger said that we are reckless breeders and we should be eliminated and removed out of the earth because we are reckless breeders. And so what you're doing, in essence, is you're teaching a doctrine that reinforces the very thing that people do outside the Bible, and saying it's justified. Making babies all over the place, and there's your wife over here, wife over there. You're enforcing the very thing that is destroying the black community at large by saying it's Bible. That's fine. We good over here. Y'all keep teaching that. I'm good. I taught that class on Labor Day. I'm past it, because at the end of the day, it's all about beguiling unstable souls. Read on.
+- When you hear that doctrine, what you're doing is you're making Margaret Sanger right, because Margaret Sanger said that we are reckless breeders and we should be eliminated and removed out of the earth because we are reckless breeders. And so what you're doing, in essence, is you're teaching a doctrine that reinforces the very thing that do outside the Bible, and saying it's justified. Making babies all over the place, and there's your wife over here, wife over there. You're enforcing the very thing that is destroying the black community at large by saying it's Bible. That's fine. We good over here. Y'all keep teaching that. I'm good. I taught that class on Labor Day. I'm past it, because at the end of the day, it's all about beguiling unstable souls. Read on.
 
 - A heart they exercise. They go into the Bible and find it everywhere. Look. See? See? You can have more than one. Exercised with covetous practices. Why is it covetousness? Cuz you're going after things that you desire that you don't need. It's a want, not a need. They don't belong to you. On top of that, read on. Cursed children.
 
@@ -1169,7 +1167,7 @@ Reading from the Wikipedia article on the Arian controversy, continued · read b
 
 > <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
-- For by Christ were all things created. The father made him, and he made us and everything after. So he is a father too. Isaiah 9:6: he is the everlasting father. He's our father. How many of you Negroes made the universe? How a man say Christ ain't my God? You are out of your mind. Of course he's your God. Insanity. Read on.
+- For by Christ were all things created. The father made him, and he made us and everything after. So he is a father too. Isaiah 9:6: he is the everlasting father. He's our father. How many of you Negroes made the universe? How a say Christ ain't my God? You are out of your mind. Of course he's your God. Insanity. Read on.
 
 - He made things that's in heaven. How many y'all did that? He made things on earth. He made things visible, and invisible. He made things we can't see. How many of us done that?
 

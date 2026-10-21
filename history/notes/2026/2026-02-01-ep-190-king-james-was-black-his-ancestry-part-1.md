@@ -1240,7 +1240,7 @@ Reading from *Origin of the Anglo-Saxon Race: A Study of the Settlement of Engla
 
 > <sup>[1](/bible/zephaniah/1#v1)</sup> The word of the Lord which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 
-- Cushi is black. Zephaniah, the son of the black. The son of Cushi. That's what the Israelis call us. They call us Cushi over there in Israel. They call us Cushi. That's what it means. Zephaniah, according to Israelis, was the son of a Cushi, or son of the Cushi. All right. The Israelis call us Cushi. Look it up: Israeli derogatory word. So I fact-check myself. It's a derogatory term that the Israelis use against us, and call us Cushi, the word. Read that. There you go. Read that.
+- Cushi is black. Zephaniah, the son of the black. The son of Cushi. That's what the Israelis call us. They call us over there in Israel. They call us Cushi. That's what it means. Zephaniah, according to Israelis, was the son of a, or son of the Cushi. All right. The Israelis call us Cushi. Look it up: Israeli derogatory word. So I fact-check myself. It's a derogatory term that the Israelis use against us, and call us Cushi, the word. Read that. There you go. Read that.
 
 <div class="reading">
 
