@@ -251,7 +251,7 @@ The hangings.
 
 ### What integration cost us
 
-- I am going to show you how Esau used the system to cripple us. Some of us are handicapped in a wheelchair. We are walking, but we are handicapped mentally. He used the system to cripple us mentally.
+- I am going to show you how Esau used the system to cripple us. Some of us are handicapped in a wheelchair. We are walking, but we are handicapped mentally. He used the system to … us mentally.
 
 - Some of you think when Esau come with that, let us integrate, because they love you. You are an idiot. That ain't going to work. This is why I asked you earlier, I said to you, was Jim Crow before or after? You see, this is the thing you are going to know about the white man today. The white man thinks a hundred years ahead. The negro that sits next to you, he thinks about tomorrow. Let me repeat that again. The white man does not do nothing that is not calculated.
 
@@ -267,13 +267,13 @@ The hangings.
 
 - We had to shut down our bus system. You guys know we used to have our own bus system, right? We had to shut that down. We had to shut down our hospitals. We had to shut down our schools. Our clinics. Our banks. Our airports. We said our own ways is no good no more. The white man's ways is better.
 
-- I want you guys to think. You still think integration was better than segregation? No. Integration crippled us. Integration handicapped us. That is what happened. However, even after all that, we still succeeded today, and they still do not understand how these people can still find a way to rise up, how these people can still find a way to stand on their two feet. They still do not get it. That is because we are the Israelites. That is because we are the greatest people on the planet earth. That is because we are the sons and daughters of the living God. That is the answer.
+- I want you guys to think. You still think integration was better than segregation? No. Integration … us. Integration handicapped us. That is what happened. However, even after all that, we still succeeded today, and they still do not understand how these people can still find a way to rise up, how these people can still find a way to stand on their two feet. They still do not get it. That is because we are the Israelites. That is because we are the greatest people on the planet earth. That is because we are the sons and daughters of the living God. That is the answer.
 
 > Here is the quote: If you can convince the lowest white man he is better than the best coloured man, he will not even notice that you are picking his pocket. Hell, give him somebody to look down on, and he will empty his pockets for you.
 
 - If you can convince the dullest, stinking, nasty, disgusting toilet-trash white man that they are better than black people. Any guess who said that? Lyndon B. Johnson. That is correct. And guess what? That is exactly what they did.
 
-- I heard a negro say the other day — a negro tried to compare a white woman, I do not even think she got a high school diploma, to Michelle Obama. You got to be kidding me. Stop being a damn fool. Michelle Obama went to an Ivy League school. That is a very smart black woman. Again, I am not a fan of Michelle Obama — that is not why I am saying this. But when you look at the so-called first ladies in America, nobody can compare to Michelle Obama. She is a very smart sister. She went to the best school. She was a lawyer. I just got to give it to her. Listen, some of our people, they are what I call coons of the year.
+- I heard a negro say the other day — a negro tried to compare a white woman, I do not even think she got a high school diploma, to Michelle Obama. You got to be kidding me. Stop being a damn fool. Michelle Obama went to an Ivy League school. That is a very smart black woman. Again, I am not a fan of Michelle Obama — that is not why I am saying this. But when you look at the so-called first ladies in America, nobody can compare to Michelle Obama. She is a very smart sister. She went to the best school. She was a lawyer. I just got to give it to her. Listen, some of our people, they are what I call … of the year.
 
 - Because some of you white people thinking — you got some white people now who is calling for segregation. They are thinking black people going to say, oh no, we do not want that. Oh, listen. Some black people want their signs to go up tomorrow. Put their signs up right now. I cannot use this bathroom, you cannot use mine. Put the damn sign up right now. I cannot go to your school, you cannot come to my school. You cannot stay in my hotel, I cannot stay in your hotel. Put the damn sign up. I cannot go to your filthy nasty restaurant where you spitting on my food. You cannot come to my restaurant. Put that sign up, please. I am begging you. Put it up and you are going to see. Because damn it, you crippled us.
 

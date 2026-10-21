@@ -17,25 +17,58 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 ## Introduction
 
-*[[22:43](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1363s)]* The gospel is the good news of black liberation. Gospel is the Old English god spell, God's story, and the Bible's own word for it is glad tidings. Today's class will upset many Christians, because what Isaiah and Christ said the good news was sent to do was never sent to everybody on the planet. It was sent to the meek, the brokenhearted, the captive, the imprisoned and the bound, and that is black, Latino, Native American Indian and our people in the Pacific.
+*[[22:43](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1363s)]* The gospel is the good news of black liberation. Today's class will upset many Christians, because what Isaiah and Christ said the good news was sent to do was never sent to everybody on the planet. It was sent to the meek, the brokenhearted, the captive, the imprisoned and the bound, and that is black, Latino, Native American Indian and our people in the Pacific.
 
 ## In The News
 
-- *[[25:02](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1502s)]* **A quote from Lyndon B. Johnson** — Convince the lowest white man he is better than the best colored man and he will not notice you picking his pocket; and they turn on you the first chance they get
 - *[[1:25:27](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5127s)]* **Photographs of Sonya Massey, Rasheem Carter and Trey Reed, then a screen-long list of names** — This is why we mourn in Zion, and 90% of these never make the news
-- *[[1:28:15](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5295s)]* **A page on black political prisoners, and the C4 dropped on the MOVE house in 1985** — The rights our people run their mouths with were won by brothers and sisters who die in prison, and black Christians do not give a damn
-- *[[2:10:26](https://www.youtube.com/watch?v=JDW1q70sbhI&t=7826s)]* **A list of 25 black faith leaders to follow, then a page of urban apologists** — These are the enemies of the gospel, and they all love Esau above you
-- *[[2:16:11](https://www.youtube.com/watch?v=JDW1q70sbhI&t=8171s)]* **The 2023 reprint of Marks of a Lost Race, credited to Abba Bivens** — A fraud: his name is misspelled, and the reprint teaches all nations can be saved, which Bivens never taught
 - *[[2:36:22](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9382s)]* **A clip rebuking Jamal Bryant for mentioning black people four times in a sermon, calling it ethnic idolatry** — Every image on the television is white and nobody calls that idolatry. This is sorcery, to stop you talking about your race
-- *[[2:42:08](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9728s)]* **Pillory: The Tale of the Borgia Pope, John Bond, 1920, with the bust of the Savior posed for by Caesar Borgia** — The white image is no secret. Put your white Jesus piece on and that is Caesar Borgia, and our people are worshipping it
 - *[[2:43:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9832s)]* **An interview with a Christian theologian on the tyranny of imaginary guilt over the slave trade** — He takes pride in Britain defeating the Nazis, which he did not do, and refuses guilt for three million taken out of Africa
 - *[[2:46:59](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10019s)]* **A report on the Friends of Zion Ambassador Institute summit, over a thousand American pastors in Israel with Israel's Ministry of Foreign Affairs** — Wined, dined, funded and commissioned as ambassadors, trained to fight what they now call Jewish derangement syndrome, and sent back against Israelites
-- *[[2:54:38](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10478s)]* **The 2026 campaign to reach a million pastors in a million churches, and Israel's approved 725 million dollar image budget for 2026** — A funded ideological war, with our own people standing in the pictures agreeing to 200,000 dead Palestinians
-- *[[2:57:13](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10633s)]* **A page on drapetomania, proposed by the physician Samuel A. Cartwright in 1851** — Slavery was such an improvement on our lives that only the mentally ill would run, so escaping made you diseased
+- *[[2:54:38](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10478s)]* **The 2026 campaign to reach a million pastors in a million churches** — A funded ideological war, with our own people standing in the pictures agreeing to 200,000 dead Palestinians
 - *[[2:58:09](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10689s)]* **A pastor back from Israel announcing that Jesus was not a black man but an ethnic Jew** — He went to Israel, got the bag, and came back fighting against Israel
-- *[[2:59:37](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10777s)]* **A post on Jewish people wearing a pendant of a noose** — You cannot play the victim while advertising the crime
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from a quote by Lyndon B. Johnson · read by Captain Yuri  *[[25:18](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1518s)]*
+
+> If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on and he'll empty his pockets for you.
+
+- That was a quote by Lyndon B. Johnson. And they understood that you convince poor white trash, they will look down on a negro. I don't care if they are your friends.
+
+- I seen them in Kentucky, in those trailer parks, I see them intermarrying and all that, and I'm thinking, you know, these white folks will turn on you given any opportunity.
+
+- They taxing everybody, white folks taking everything from everybody, and white folks won't care as long as they are over black people.
+
+- Them people will be on your neck with a swiftness.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on the word gospel · read by Captain Yuri  *[[26:43](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1603s)]*
+
+> Godspell is an Old English word, godspell meaning good story or good news, derived from God and spell, meaning message, story,
+
+- Message, story.
+
+> which became gospel.
+
+- So godspell became gospel for short.
+
+> The name perfectly fits the music
+
+- That's about a musical. I didn't want that.
+
+> Etymological meaning: gospel, good news, the core meaning, translating the Greek euangelion, good message/tidings.
+
+- So you have good news, which is good message, or good tidings, or glad tidings. You'll see in the Bible, you'll read the term glad tidings for good news or gospel, God's story.
+
+> Early English translators linked it to God and spell, story, message, creating godspell, God's story.
+
+</div>
 
 **[Luke 4:16-21](/bible/luke/4#v16)**  *[[27:25](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1645s)]*
 
@@ -64,16 +97,83 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 - Good tidings is the gospel. Same words as Luke 4, and this is the one to take time in.
 
-- The meek are not the soft. Meekness is strength under control, and the control is God's.
+- Liberty to the captives is not everybody, because everybody did not go into captivity.
 
-- The brokenhearted is spiritual bankruptcy and a crushed spirit, and nobody is more spiritually bankrupt than black people.
 
-- Liberty to the captives is not everybody, because everybody did not go into captivity. Indentured servitude was paid work.
 
-- The prison is physical and spiritual, not the metaphor Christians keep it as. Oppression you take as normal has broken your mind.
+<div class="reading">
 
-- Bound matters now because the chains are off: a brother with a decent job is the first to say he is not captive.
+Reading from a page on the word meek · read by Captain Yuri  *[[30:19](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1819s)]*
 
+> Meek: definition and characteristics. The term meek in the biblical context refers to an attitude of humility, gentleness, and submission to God's will.
+
+- You see that? So meek doesn't mean soft. Meek means humility, gentleness, and submission to God's will. Like another scripture says, Moses was the meekest man in all Israel. He submitted to God's will 100%. We all must be meek.
+
+- Meek don't mean you be soft and listen to some idiot on the street. No, no, no.
+
+> It is often associated with a spirit of patience and a lack of self assertiveness.
+
+- You see that? Cuz that ain't right. That's how most people think of it.
+
+> Meekness is not to be confused with weakness. Rather, it is strength under control.
+
+- I like that. Meekness is strength under control. Whose control? God's control.
+
+> It involves a conscious choice to put others before oneself and to trust in God's sovereignty and justice.
+>
+> Biblical references. One, Old Testament: Numbers 12 and verse 3, "Now Moses was a very humble man, more so than any man on the face of the earth." Here the term humble is often translated as meek, highlighting Moses' exemplary character in leading the Israelites with patience and reliance on God.
+>
+> Psalms 37:1, "But the meek will inherit the land and delight in abundant prosperity." This verse emphasizes the reward for meekness, promising that those who are gentle and humble will receive God's blessings.
+>
+> Number two, New Testament: Matthew 5:5, "Blessed are the meek, for they will inherit the earth."
+
+- So, blessed are the meek, those that submit themselves to God's will.
+
+> Part of the Beatitudes, this statement by Jesus underscores the value of meekness in the kingdom of heaven, promising eternal inheritance to those who embody this virtue.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on the word brokenhearted  *[[33:28](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2008s)]*
+
+> Brokenhearted. In the Bible, being brokenhearted means a state of deep grief, spiritual bankruptcy, and crushed spirit,
+
+- You don't get no more spiritually bankrupt than black people. Spiritually bankrupt, a crushed spirit, deep grief.
+
+> recognizing one's need for God, leading to humility and repentance, where God promises to be near, heal, and restore those in this condition. Often described as a shattered, wounded inner self ready for divine intervention.
+>
+> Meaning of brokenhearted: emotional and spiritual ruin. It signifies intense emotional pain, despair, loss, or feeling spiritually crushed and helpless, like something shattered or torn apart.
+
+- You don't get no more brokenhearted than our people. That's what slavery was about. We are a race of brokenhearted men and women. Everybody understand that? Everybody on the planet ain't brokenhearted.
+
+- The social elite are not brokenhearted. Brokenhearted is our race, our people. Us on the street crying for reparations. That's a broken heart right there. They said, pull yourself up by your bootstraps. But we can't even afford boots sometimes.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on the meaning of captive · read by Captain Yuri  *[[37:02](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2222s)]*
+
+> Captive: one taken in war. Captives were often treated with great cruelty and indignity (1 Kings 20:32; Joshua 10:4; Judges 1:7; 2 Samuel 4:12; Judges 8:7; 2 Samuel 12:31; 1 Chronicles 20:3). When a city was taken by assault, all the men were slain and the women and children carried away captive and sold as slaves
+
+- And sold as slaves. How you going to read the gospel is for the captives and go, no, the gospel is for everybody? No. Everybody didn't go into captivity. You'll be on the street teaching and there's always a dumb … Christian who says everybody went into slavery.
+
+- Well, brother, see, when you check history, all nations at one time or another went into slavery. That's a lie. That's a lie.
+
+- When did the Chinese go into slavery? Don't tell me about the indentured servitude, that they were brought over here. They got paid. Paid to work. Don't tell me about the East Indians that were brought over here. That's indentured servitude. That's not slavery. That's not being captive.
+
+- When did Netanyahu and his people go into slavery? I want to see that history. Or World War II, that was slavery. No, World War II is not slavery.
+
+> (Isaiah 20, 47:3; 2 Chronicles 28:9-15; Psalms 44:12; Joel 3:3), and exposed to the most cruel treatment (Nahum 3:10; Zechariah 14:2; Esther 3:13; 2 Kings 8:12; Isaiah 13:16; Isaiah 13:18).
+>
+> Captives were sometimes carried away into foreign countries,
+
+- Is this not a foreign country?
+
+> as was the case with the Jews (Jeremiah 20:5; Jeremiah 39:9; Jeremiah 39:10; chapter 40 and verse 7).
+
+</div>
 
 **[Luke 21:24](/bible/luke/21#v24)**  *[[39:22](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2362s)]*
 
@@ -82,8 +182,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 - The Israelites fall by the edge of Rome's sword and are led away captive into all nations.
 
 - That curse did not stop at 70 AD. After Rome came Spain, France, Britain and America.
-
-- Captives were carried away into foreign countries. Is this not a foreign country?
 
 
 **[1 Kings 8:46-47](/bible/1-kings/8#v46)**  *[[40:16](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2416s)]*
@@ -124,6 +222,30 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 - And brings us again into the place from which he caused us to be carried away captive.
 
+
+<div class="reading">
+
+Reading from a page on prison in the Bible · read by Captain Yuri  *[[46:46](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2806s)]*
+
+> Prison. In biblical times, the concept of prison and imprisonment appears in various contexts reflecting both physical and spiritual dimension.
+
+- See that? Physical and spiritual. The reason I like this is because Christians think everything just spiritual. No, no, no. Everything ain't just spiritual.
+
+> Prisons were used as places of confinement for those awaiting trial or punishment,
+
+- You know how we are a brokenhearted and destitute people? When you look at the ghettos, that's become normal. That's a prison for our people, but it's so normal that's home.
+
+- Our people see that it's normal. When you see your oppression as normal, there's something psychologically wrong. You've been broken in your mind.
+
+> and they also serve as powerful metaphors for spiritual bondage and deliverance.
+
+- And that's how Christians use it. They keep everything right there.
+
+> Old Testament context. In the Old Testament, prisons were not as formalized as modern institutions. They were often simple structures or even pits where individuals were detained. One of the earliest mentions of imprisonment is found in the account of Joseph.
+
+- So it goes into Joseph and how he's imprisoned in Egypt.
+
+</div>
 
 **[Psalms 146:5-7](/bible/psalms/146#v5)**  *[[48:28](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2908s)]*
 
@@ -179,6 +301,34 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 - Bending Judah and filling the bow with Ephraim makes us weapons of war. Raising the sons of Zion against Greece has not happened yet.
 
 
+<div class="reading">
+
+Reading from a page on the word bound in the Bible  *[[58:05](https://www.youtube.com/watch?v=JDW1q70sbhI&t=3485s)]*
+
+> Bound. The concept of being bound in the Bible carries both literal and metaphorical meanings,
+
+- Literal and metaphorical meanings. So it's literal and spiritual meanings behind that.
+
+> often signifying physical restraint, spiritual bondage or covenantal obligations. The term appears in various contexts throughout scripture, illustrating the multifaceted nature of bondage and freedom in the biblical narrative.
+>
+> Physical restraint.
+
+- So physical restraint. We know what that one is.
+
+> Spiritual bondage.
+
+- You might ask, why I want to get the spiritual bondage now? Because the chains are off of us. And a lot of our people, if you got a good job, you make decent money, you'll be the first ones to say, I'm not in bondage. I'm not captive. Bro, you wrong. That's what they say. So I want this part here.
+
+> Spiritual bondage: metaphorically, being bound can refer to spiritual bondage or the enslavement of sin.
+
+- See that? Or the enslavement of sin.
+
+> Jesus speaks of this in John 8:34.
+
+- That's what I want to read.
+
+</div>
+
 **[John 8:32-36](/bible/john/8#v32)**  *[[59:12](https://www.youtube.com/watch?v=JDW1q70sbhI&t=3552s)]*
 
 > <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
@@ -233,6 +383,22 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
     Recompences means paybacks. The controversy of Zion is who the Israelites are and whose land that is.
 
+
+<div class="reading">
+
+Reading from a page on vengeance in the Bible  *[[1:04:42](https://www.youtube.com/watch?v=JDW1q70sbhI&t=3882s)]*
+
+> Vengeance. Vengeance in the biblical context refers to the act of retribution or punishment inflicted in response to wrongdoing. It is a theme that appears throughout the scriptures, reflecting both divine justice and human response to injustice.
+
+- See that? Divine justice and human response to injustice.
+
+> The concept of vengeance is closely tied to God's holiness and justice, as well as the moral order he has established.
+>
+> Divine vengeance. The Bible frequently speaks of vengeance as belonging to God alone in Deuteronomy 32:35.
+
+- See, that's why I said everything in these commentaries is not always right. Real Christians say vengeance is the Lord's, I will repay, saith the Lord. That's true. Vengeance does start with the Lord.
+
+</div>
 
 **[Deuteronomy 32:41-43](/bible/deuteronomy/32#v41)**  *[[1:07:06](https://www.youtube.com/watch?v=JDW1q70sbhI&t=4026s)]*
 
@@ -306,6 +472,16 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 - Vengeance in flaming fire on them that obey not the gospel, Edom and all who follow him. And we are the saints.
 
 
+<div class="reading">
+
+Reading from a page on mourning in the Bible  *[[1:21:19](https://www.youtube.com/watch?v=JDW1q70sbhI&t=4879s)]*
+
+> Mourn: definition and context. Mourning in the biblical context refers to the expression of deep sorrow or grief, often associated with death, loss or repentance. It is a significant theme throughout the scriptures, reflecting both personal and communal experiences of lamentation.
+
+- Give me Lamentations, since you use that word, to give us an example of what it means to mourn.
+
+</div>
+
 **[Lamentations 3:46-50](/bible/lamentations/3#v46)**  *[[1:21:22](https://www.youtube.com/watch?v=JDW1q70sbhI&t=4882s)]*
 
 > <sup>[46](/bible/lamentations/3#v46)</sup> All our enemies have opened their mouths against us.
@@ -350,6 +526,22 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 - Beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness.
 
+
+<div class="reading">
+
+Reading from a page on black political prisoners · read by Captain Yuri  *[[1:28:42](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5322s)]*
+
+> Black political prisoners are individuals, often black activists from movements like the Black Panther Party or Black Liberation Army, who advocates argue are unjustly incarcerated for their political beliefs, activities, or race rather than purely criminal acts, with prominent historical and contemporary examples including Mumia Abu-Jamal, Assata Shakur, Sundiata Acoli and Jalil Muntaqim. Many serving decades for actions tied to black liberation struggles.
+
+- One of the things that we never or rarely talk about are black political prisoners. These brothers, and there's some sisters, who were imprisoned back in the 60s fighting for rights of black and brown people. And their names have virtually been forgotten.
+
+- These men, these women, and they said, oh, no, but they killed somebody. Well, what was the cop doing?
+
+- I saw the video on the MOVE movement, 1985, where they dropped C4 on them, when they shot up and killed those little children and then lied and said, oh, no, they were shooting first. No, that was a lie. And the news proved it was a lie. They did the same thing with Fred Hampton.
+
+- And our people will see our brothers like this and forget about them. The rights that many of us have today to run our black gums is because of these brothers and sisters that are still incarcerated to this day. To this day, and they die in prison. And black Christians who always run their black gums don't give a damn.
+
+</div>
 
 **[Luke 19:11](/bible/luke/19#v11)**  *[[1:30:21](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5421s)]*
 
@@ -532,8 +724,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 - The third kept the pound in a napkin and made his excuse out of the Lord's own character.
 
-- Austere was looked up: stern and cold, somber, grave, morally strict. Christ was a cold brother.
-
 - Out of thine own mouth will I judge thee, thou wicked servant. Men think they can be an Israelite and do nothing.
 
   Precepts:
@@ -546,6 +736,20 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
     A sinful man findeth an excuse according to his will. Them old excuse makers.
 
+
+<div class="reading">
+
+Reading from a definition of austere  *[[1:56:06](https://www.youtube.com/watch?v=JDW1q70sbhI&t=6966s)]*
+
+> Austere: stern and cold in appearance or manner.
+
+- Christ was a cold brother.
+
+> Somber. Grave. Morally strict.
+
+- Morally strict. Damn. That's it. I like that number two one right there. Morally strict.
+
+</div>
 
 **[Luke 19:23-26](/bible/luke/19#v23)**  *[[1:58:26](https://www.youtube.com/watch?v=JDW1q70sbhI&t=7106s)]*
 
@@ -612,6 +816,24 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 - But as touching the election they are beloved, because they can repent. Paul was an enemy of the gospel and the Lord let him repent.
 
 
+<div class="reading">
+
+Reading from a list of black faith leaders · read by Captain Yuri  *[[2:11:06](https://www.youtube.com/watch?v=JDW1q70sbhI&t=7866s)]*
+
+> 25 black faith leaders leading the charge that you should be following.
+
+- Now some of these people, I'm going to say it, I'm not pointing no fingers, some of them are lesbians. Some of them are sodomites. Homosexuals. Don't follow these people. And they all love the white men. They all love Esau above you.
+
+- Now these are some urban ones. They call themselves urban apologists. They are the enemies of the gospel, brothers and sisters. These are the enemies of the gospel.
+
+- This is their love for the white. And they love talking about Afrocentricity. They talk about black church fathers like Tertullian. The hell with that sellout Tertullian, who love Rome, love the white man. Urban is another word for … by the way. They call the black ones urban apologists. Urban apologetics, meaning …. That's what that mean.
+
+- The fat chick on the right, she got a project called Jude 3, which tries to exalt blackness, but they hate a black Christ. No, we're not the 12 tribes, we're African. Where's the African in the Bible?
+
+- These people, many of them have no congregations at all. They sit at home in their mama house and do videos.
+
+</div>
+
 **[Psalms 37:12-14](/bible/psalms/37#v12)**  *[[2:13:45](https://www.youtube.com/watch?v=JDW1q70sbhI&t=8025s)]*
 
 > <sup>[12](/bible/psalms/37#v12)</sup> The wicked plotteth against the just, and gnasheth upon him with his teeth.
@@ -626,6 +848,46 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 - They bent their bow to cast down the poor and needy, and we are the poor and needy. They said we have got to kill these people.
 
+
+<div class="reading">
+
+Reading from the 2023 reprint of *Marks of a Lost Race*, and what was found when it was looked up · read by Captain Yuri  *[[2:16:24](https://www.youtube.com/watch?v=JDW1q70sbhI&t=8184s)]*
+
+> Marks of a Lost Race. … By Abba Bibbons, edited and prefaced by Chief Prince Zebulon bin Louie Hakia.
+
+- See this book right here? Marks of a Lost Race. This book is fraudulent. This book is a fraud. Number one, Abba Bivens' name was not spelled like that. It was B-I-V-ens.
+
+- Don't know who these people are. When myself, Bishop Yawasap, even Bishop K and I came into the school, the only book that was written was by the leadership, and it was called Change of Worlds. If Bivens had wrote a book, surely they would have told us. For all the years I was there, we never heard of this. So then when I saw it and they got his name misspelled, I said, no, this is a fake. It's a fraud.
+
+- The picture on the back, that is not Abba Bivens, but they're trying to portray it like that's him.
+
+> … Abba Bibbons, born Edward Meredith Bibbons, circa 1960s, leader of the Israeli Tanakh school, whose students would go on to establish the ISUPK,
+
+- The original.
+
+> He taught that in order to be a part of this school, you must have a gift. It must control the mind so that lust will not consume our bodies.
+>
+> What we can see, the 2023 paperback is listed as independently published on Amazon, with Abba Bibbons as author and an intro/edits by Chief Prince Zebulon bin Louie Hakia.
+
+- We don't know who this Prince Zebulon is. He is not even mentioned in a roll call of us coming up in the truth. Never heard of these people.
+
+> In practice, that means royalties from Amazon sales go to whoever owns the independent publishing/KDP account that uploaded the book, likely the editor or someone working with him, not to Amazon itself beyond their cut.
+
+- Cuz in the book it says all nations can be saved. I said, no, that wasn't Bivens. Bivens did not teach that. I have audio tapes of Bivens. He taught the white man is Esau. They're going into slavery and they're going to be destroyed. So when I see this, oh yeah, all nations can be, I said that's a lie.
+
+> On Etsy, the same reprint is sold by the shop Mcabe's Merchandise. Proceeds from those Etsy sales go to that shop owner minus Etsy fees. The original 1950 booklet by W. Henry E. Bibbons/Abba Bibbons was published by Israel Tanakh School and had no ISBN.
+
+- They allegedly found this one pamphlet in a library in the Midwest. I'm like, now what in the kowinky dink is this? You just happen to be at this school and it's on the bookshelf and go, oh look. I said it's a lie. That is a lie.
+
+> Source of the text: the reprint was created from the low-quality scanned PDF of the original 1950 booklet that survives in a Northwestern University library copy.
+
+- That's what I was making reference to. So it was a pamphlet, and somebody just happened to find it, these apologist dudes. Just happened to find this pamphlet. Oh, this is Abba Bivens. Now it's a book. I said this some BS right here. And they looking for gullible black men and women.
+
+> Physical format/length: original 1950, 72-page booklet, Marks of a Lost Race, published by Israel Tanakh School in New York. Reprint 2023, listed as 98 pages, paperback with modern publishing info and an ISBN. The extra pages are almost certainly from the new intro/preface and layout, larger trim size, more spacing, not from new chapters that Abba Bibbons himself wrote.
+
+- His name was Bivens with a V, not two B's. Just lies, lies on top of lies.
+
+</div>
 
 **[Psalms 2:1-5](/bible/psalms/2#v1)**  *[[2:21:25](https://www.youtube.com/watch?v=JDW1q70sbhI&t=8485s)]*
 
@@ -743,6 +1005,24 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 - Whose names are not written in the book of life of the Lamb. They can wake up out of that, though.
 
 
+<div class="reading">
+
+Reading from *Pillory: The Tale of the Borgia Pope, in Nine Crowded Chapters* by John Bond, 1920  *[[2:42:30](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9750s)]*
+
+> It is an open secret that Caesar Borgia, the son of Pope Alexander, had posed for it.
+
+- So Caesar Borgia posed for the image of Christ.
+
+- That is Caesar Borgia with the crown of thorns. You see the word salv, which means savior, at the bottom there. People go, oh, I don't know who that white image is. It's Caesar Borgia.
+
+> Bust of the Savior posed for by Caesar Borgia.
+
+- So it's no longer a secret. When you got your white Jesus piece on, that's Caesar Borgia.
+
+- Y'all see that? Our people are worshiping this.
+
+</div>
+
 **[Sirach 41:6-7](/bible/sirach/41#v6)**  *[[2:46:00](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9960s)]*
 
 > <sup>[6](/bible/sirach/41#v6)</sup> The inheritance of sinners’ children shall perish, and their posterity shall have a perpetual reproach.
@@ -760,7 +1040,31 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
     Prepare slaughter for his children for the iniquity of their fathers. That is not what we said; that is what God said.
 
 
-**[Daniel 11:14](/bible/daniel/11#v14)**  *[[2:56:21](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10581s)]*
+<div class="reading">
+
+Reading from a page on the key details of the mission · read by Captain Yuri  *[[2:54:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10492s)]*
+
+> Key details of the mission. Purpose: to counter antisemitism, provide truth about Israel's security situation, and strengthen the pro-Israel stance among American Christians, notes this YouTube video and The Media Line. Organizers: Friends of Zion (FOZ) Ambassador Institute, with support from the Israeli Foreign Ministry. Participants: over 1,000 US pastors, youth leaders, and social media influencers representing millions of followers, according to Fox News in this Facebook post. Activities: security briefings, visiting the Gaza border, meeting with officials, praying at significant sites like the Western Wall, and receiving training to fight Jewish derangement syndrome.
+
+- And I hope y'all know that those thousand pastors, which will be more soon, is being trained to come against Israelites. Don't sleep on that.
+
+- See that? That's the new term. Antisemitism is now being called Jewish derangement syndrome. You can't make this stuff up.
+
+> Outcome: delegates were commissioned as Friends of Zion ambassadors to use their platforms to advocate for Israel, as reported by The Media Line in this YouTube video.
+
+</div>
+
+<div class="reading">
+
+Reading from a breaking news post  *[[2:56:27](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10587s)]*
+
+> Breaking news. Israel has approved a 725 million propaganda budget for 2026 to boost its global image and make the world more favorable toward Israel.
+
+- That's what the guy was talking about in the film. You can't make this stuff up.
+
+</div>
+
+**[Daniel 11:14](/bible/daniel/11#v14)**  *[[2:56:45](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10605s)]*
 
 > <sup>[14](/bible/daniel/11#v14)</sup> And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.
 
@@ -769,7 +1073,35 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 - To establish the vision that they are God's people and that is their land. But they shall fall. That is why we do not worry about it.
 
 
-**[Isaiah 8:9-11](/bible/isaiah/8#v9)**  *[[2:59:37](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10777s)]*
+<div class="reading">
+
+Reading from a page on drapetomania  *[[2:57:40](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10660s)]*
+
+> Drapetomania was a proposed mental illness that in 1851 American physician Samuel A. Cartwright hypothesized as the cause of enslaved Americans fleeing captivity.
+
+- They made up a disease for us during slavery. Now watch how stupid this disease is.
+
+- So if you escape slavery, you got a disease. You have a mental illness called drapetomania. This is stupid as hell.
+
+> This hypothesis was based on the belief that slavery was such an improvement upon the lives of slaves that only those suffering from some form of mental illness would wish to escape.
+
+- You can't make this stuff up. So if you try to escape, you have a mental disease.
+
+</div>
+
+<div class="reading">
+
+Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10758s)]*
+
+> They cry victim every day, yet walk around wearing a literal noose, the symbol of killing and terrorizing others. The mask has officially fallen off. You can't play the victim while advertising the crime.
+
+- Talking about Amalek. These are Jewish people.
+
+- So they're wearing this pendant of a noose. These are your friendly Jewish people. Oh, we hate hatred. No, they're all for it. You can't make this stuff up.
+
+</div>
+
+**[Isaiah 8:9-11](/bible/isaiah/8#v9)**  *[[2:59:54](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10794s)]*
 
 > <sup>[9](/bible/isaiah/8#v9)</sup> Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
 >

@@ -425,7 +425,7 @@ Reading from a definition of the Horims or Horites, on the screen  *[[47:42](htt
   - **[Esther (Greek) 16:10](/bible/esther-greek/16#v10)**
     > <sup>[10](/bible/esther-greek/16#v10)</sup> For Aman, a Macedonian, the son of Amadatha, being indeed a stranger from the Persian blood, and far distant from our goodness, and as a stranger received of us,
 
-    Haman, a Macedonian, a stranger from the Persian blood: Philip was the Macedonian, so Edomites and Macedonians are the same people, and Haman was an Edomite.
+    Haman, a Macedonian, a stranger from the Persian blood: Philip was the Macedonian, so … and Macedonians are the same people, and Haman was an Edomite.
 
 
 <div class="reading">

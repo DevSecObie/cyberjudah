@@ -32,10 +32,19 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 - *[[1:38:23](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=5903s)]* **A man in Africa beating an Israelite who would not hit him back** — Christianity pacified him. You could not do that to them in their own country.
 - *[[1:40:38](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6038s)]* **A video of Amalek** — The counterfeits, and they hate the people they are counterfeiting.
 - *[[1:44:49](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6289s)]* **A man out of the church testifying that the Israelite truth is the real thing** — More than likely a young brother teaching in the street ran into him. He told his friends and they hate him for it.
-- *[[2:22:42](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=8562s)]* **A teacher who admitted feeding her students cupcakes laced with her husband's semen** — Why a child takes no food from anybody at school, and especially not from his enemies.
 - *[[2:53:32](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=10412s)]* **Videos of the young prophets** — Young brothers teaching precepts on camera, and a sister will stop for that quicker than for an old man.
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from a definition of radicalization  *[[15:41](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=941s)]*
+
+> Radicalization is when someone starts to believe or support extreme views. And in some cases, then participates in terrorist groups or acts. It can be motivated by a range of factors, including ideologies, religious beliefs, political beliefs, and prejudices against particular groups of people.
+
+- People use it as a violent term. So now, the part we're pulling out of that is some start to believe or support extreme views. Yes, we do not condone terrorist acts. We're not picking up guns. If anybody knows of a crime being committed, you need to alert the authorities.
+
+</div>
 
 **[Proverbs 29:18](/bible/proverbs/29#v18)**  *[[20:11](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=1211s)]*
 
@@ -207,6 +216,22 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
 - The enemies are Esau and the other nations; the avengers are God's prophets, and the babes are the ones in these seats who can explain it.
 
+
+<div class="reading">
+
+Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=3988s)]*
+
+> Still. Unmoving.
+
+- So, we're going to use that word. Unmoving right there. That's one of the synonyms to still.
+
+> Soothe.
+
+> Weaken.
+
+- So, it says it will still your enemies. It will weaken your enemies and it will make the avengers unmovable.
+
+</div>
 
 **[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[1:11:35](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4295s)]*
 
@@ -444,6 +469,18 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
 - Take no food from anybody at school, and especially not from your enemies. Wait until you get home.
 
+
+<div class="reading">
+
+Reading from a news headline on a teacher and her students  *[[2:22:42](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=8562s)]*
+
+> Teacher admits to feeding students cupcakes laced with her husband's sperm.
+
+- Come on, who does that? What's wrong with these people? These are … damn. The hell is this? These are base people. Base.
+
+- Filthy people.
+
+</div>
 
 **[Psalms 148:1-5](/bible/psalms/148#v1)**  *[[2:22:42](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=8562s)]*
 

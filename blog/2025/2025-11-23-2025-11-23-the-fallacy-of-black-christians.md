@@ -28,10 +28,10 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
 - *[[1:50:20](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6620s)]* **Instagram and YouTube clips of pastors and apologists grieving over Charlie Kirk's death** — Not one of them made a video for Assata Shakur, who died two weeks later, or for any of our people murdered; they honour the man who hated them.
 - *[[2:07:21](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=7641s)]* **A clip of a pastor preaching that black children be taught to obey authority and not fight cops** — The sermon was about black children being killed, and it absolved the officers and made the victims the wicked ones.
 - *[[2:19:06](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8346s)]* **A news report on Trey Reed, the 21-year-old found hanging from a tree at Delta State on September 15** — The independent examination paid for after the sheriff called it suicide found the back of his head broken in; not one black Christian mourned him.
-- *[[2:20:56](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8456s)]* **The FBI director's statement refusing Assata Shakur her chosen name and calling mourning her a spitting on the badge** — Nobody outside our nation tells us who our heroes are or who we mourn.
+- *[[2:20:56](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8456s)]* **An Instagram clip of the FBI director, Kash Patel, saying black people should not mourn Assata Shakur** — Nobody outside our nation tells us who our heroes are or who we mourn.
 - *[[2:27:14](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8834s)]* **Images and a news conference on Rasheem Carter, the electrician who named the white men who threatened him** — They said an animal opened his skull; only the two-legged animal kills like that, and no Christian said a word about him.
 - *[[2:32:42](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9162s)]* **A report on Donna Mack, turned away from First Baptist of Forrest City in Arkansas because the members had 'had coloreds here before'** — The pastor called it a miscommunication and never denounced his member; the most segregated hour in America is still eleven o'clock on Sunday.
-- *[[3:10:03](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11403s)]* **A definition of glossolalia and clips of men showing that speaking in tongues in the churches is made up on the spot** — What is done in church lacks any comprehensible meaning and is the same ecstatic utterance found in shamanism and paganism.
+- *[[3:11:16](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11476s)]* **Clips of men showing that speaking in tongues in the churches is made up on the spot** — Let the white man tell you.
 - *[[3:17:44](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11864s)]* **Videos on the revival of Hebrew by Eliezer Ben Yehuda, a Russian Ashkenazi linguist whose own language was Yiddish** — The language black Israelites argue over is 150 years old, overlaid with Yiddish, Russian, Polish and German pronunciation, and it was made by the white man.
 
 ## Scriptures Opened
@@ -68,7 +68,7 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
   - **[Acts 11:26](/bible/acts/11#v26)**
     > <sup>[26](/bible/acts/11#v26)</sup> And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
 
-    The disciples, Jews who followed Christ, were called Christians first in Antioch, and the word means the anointed ones; it was centuries later, long after the apostles were dead, that Ignatius of Antioch first called them Catholic, which means universal.
+    The disciples, Jews who followed Christ, were called Christians first in Antioch, and the word means the anointed ones.
   - **[2 Esdras 7:28-31](/bible/2-esdras/7#v28)**
     > <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
     >
@@ -82,7 +82,136 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
   - **[Colossians 2:8](/bible/colossians/2#v8)**
     > <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
-    Beware lest any man spoil you through philosophy and vain deceit after the tradition of men: the Baptist in 1608, the Mormon in 1830, the Seventh-day Adventist in 1863, the Jehovah's Witness in 1872, the Pentecostal in 1901, every one of them a man-made religion, and the Protestants kept white Jesus, white angels, white Jews, December 25, Sunday worship and Easter from Rome.
+    Beware lest any man spoil you through philosophy and vain deceit after the tradition of men.
+
+
+<div class="reading">
+
+Reading from an on-screen answer to "Who first called Christians Catholic?" · read by Captain Yuri  *[[24:52](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1492s)]*
+
+> Who first called Christians Catholic? Ignatius of Antioch. After the death of Christ, Christians were the ones who evangelized and spread the gospel. Ignatius of Antioch was the first to refer to them as Catholics.
+
+- Word Catholic means universal. Now this is way after the death of the apostles. Way after.
+
+- All the apostles, the followers of Christ were dead by this time. So there was no truth being taught. What they called the Dark Ages is the silent era. What we just read.
+
+</div>
+
+<div class="reading">
+
+Reading from a Google result on the word Catholic and the Nicene Creed · read by Captain Yuri  *[[27:54](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1674s)]*
+
+> The word Catholic was added to the Nicene Creed at the First Council of Constantinople in 381 AD when the Creed was revised from its original form created at the First Council of Nicaea in 325 AD.
+
+- Tell y'all about Google and all of that. You always try to get hard copy. Cuz when I was writing From Assyria to America, the book, see what it says? That part, added, was not there. This is newly added. It said the word Catholic was written in the Nicene Creed. Now it says was added to the Nicene Creed at the First Council of Constantinople in 381 AD. That's not what it said several months ago. Be careful with these Google things.
+
+- So around 325 AD, that's when the Catholic Church came about. 325 AD after Christ. AD means Anno Domini, meaning the year of our Lord. Anno Domini, that's Latin.
+
+> The phrase one holy Catholic and Apostolic Church was added to emphasize the church's universality.
+>
+> Original Nicaea, 325 AD. The first version of the Nicene Creed did not include the word Catholic.
+
+- That wasn't there 6 months ago. They just put this in because initially it said it was there. But that ain't the point. The point is Catholicism started at this time.
+
+> Revised Constantinople, 381 AD. The term Catholic was added into the revision of the First Council of Constantinople, making the Creed read, "I believe in one holy Catholic and Apostolic Church."
+
+- So, 325 Anno Domini, when there was no truth being taught, that's when the Catholic Church was initiated. It was started under Constantine and his mama.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen answer on the Protestant Reformation · read by Captain Yuri  *[[30:59](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1859s)]*
+
+> The Protestant Reformation began in 1517, when Martin Luther posted his 95 Theses. This act is widely considered the start of the movement, which challenged the authority and teachings of the Roman Catholic Church and led to the creation of new Protestant churches.
+
+- 1517. That's when it started. So, from 325 to 1517. Now, 1517, Martin Luther and them started the Protestant Reformation. Where was a lot of our people at during 1517? Slavery.
+
+- To the creation of new Protestant, meaning protesting, churches. What were they protesting against? The Roman Catholic Church.
+
+> The movement spread rapidly across Europe, partly due to the invention of the printing press, which helped disseminate new ideas. Start date, October 31st, 1517.
+
+- Halloween.
+
+> Key event, Martin Luther, a German monk and professor, posted his 95 Theses on the door of the Castle Church in Wittenberg, Germany. Key ideas, the Theses criticized practices like the sale of indulgences and questioned the Pope's authority.
+
+- Were questioning the Pope's authority. Now, Pope means heavenly father or holy father. That's what Pope means.
+
+> Impact, the movement led to a split within Christianity and the formation of various new Protestant denominations.
+
+- So, during this time of what the Bible called the old silence, the Roman Catholic Church was set up. Then, sometime later in 1517, the Protestant Reformation began, when new denominations were created.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen list, "Man-made religions" · read by Captain Yuri  *[[33:03](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1983s)]*
+
+> Man-made religions. Pope Nicholas V, father of the transatlantic slave trade. John Smith created the Baptist religion in 1608. Joseph Smith created the Mormon religion in 1830. Ellen G. White created the Seventh-day Adventist religion in 1863. Charles T. Russell created the Jehovah's Witness religion in 1872. Charles Parham created the Pentecostal religion in 1901.
+
+- So, Protestant Christians claim they are different from the Catholics.
+
+- This is the current Pope. Pope Leo the 14th. That's him there with his hands raised and a yarmulke, the Jewish yarmulke from Khazaria, by the way.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen answer to "Why is Pope called Vicar of Christ?" · read by Captain Yuri  *[[34:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2070s)]*
+
+> Why is Pope called Vicar of Christ? The term comes from the Latin word vicarious, meaning one who stands in place of another, like a steward, deputy or chief of staff. The idea isn't that the Pope replaces Jesus, but rather that he represents him. So, the Pope is the representative of Jesus Christ on Earth. The Pope is the one entrusted with the shepherding the Church on Earth in the name of Christ.
+
+- Huh? Really? Really? So, the Christians, the Protestants were protesting about that.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Critical Review or Annals of Literature*, by a Society of Gentlemen, volume the 57th, published 1783  *[[35:15](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2115s)]*
+
+> On the Pope Nicholas V. Pope Nicholas V, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards, expressly permitted and ordered the Christians to reduce all infidels into slavery.
+
+- That's the beginning of the transatlantic slave trade under Pope Nicholas V.
+
+> An order zealously executed by both these nations.
+
+- So, what I want y'all to see here, notice it says he ordered the Christians to reduce all infidels into slavery. An order zealously executed by both these nations, meaning Portugal and Spain.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen chart, "Roman Catholic white supremacy" · read by Captain Yuri  *[[36:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2190s)]*
+
+> Roman Catholic white supremacy.
+
+> Eastern Orthodox, Western Orthodox, Jehovah's Witness,
+
+- Remember I said after when the Protestant Reformation started, they created all new denominations. This is just some of them.
+
+> Presbyterian, Lutheran, Charismatic, World Council of Churches, Born Again, Methodist, Episcopalian, Mormon, Evangelical, Pentecost, Baptist, Adventist, Protestant, Anglican, Calvinist, Hinduism, Buddhism.
+
+- Now, Buddhism and Hinduism was earlier.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Rise of Christendom*, published 1890  *[[37:19](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2239s)]*
+
+> There is the curious notice of our Benjamin of Tudela, which describes Rabbins as forming part of the suite of the Pope, the head of the …
+
+- So, the Pope is the head of the … So, why do Christians say the … were done away with?
+
+> Now, the medieval chroniclers say expressly that Edom means the Roman Empire or the European powers.
+
+- So, what do Christians be saying? "No, the … were all destroyed." That ain't what the scholars said. Scholars said, "No, that's the European powers." That's what Edom is.
+
+> One of the earliest is Benjamin of Tudela, circa 1160, who calls Rome the Edomite capital, and the Pope the head of the Edomitis religion.
+
+- Y'all see that? The Pope is the head of the Edomitis religion. So, now, the Protestants like to say, well, the word Protestant comes from the word protest. We were protesting against the Catholics. Well, did the Protestants protest against slavery? No. These were the Protestants. They didn't protest against slavery.
+
+</div>
 
 
 **[Job 18:3](/bible/job/18#v3)**  *[[38:45](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2325s)]*
@@ -91,11 +220,50 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
 
 - Wherefore are we counted as beasts: that is the question to put to men who ran human zoos, and the Protestants never protested against any of it.
 
-- The circus did not start with lions and tigers. It started with our forefathers and foremothers, our sons and daughters, exhibited at the Louisiana Purchase Exposition in 1904 and in the Bronx Zoo in 1906.
 
-- Ota Benga was brought from the Kasai River in the Congo Free State, forced to walk about with a chimpanzee, his teeth chiselled down to make him look savage, and when he knew he would never get back home he shot himself at thirty-two.
+<div class="reading">
 
-- This was not far back and it was not brief: black people from Australia, children from the Congo, the Sara Kaba women with their lip plates in Berlin in 1931, an African girl behind a wooden fence at the Brussels Expo in 1958. White people came from miles to look at us, and the book that tells it says there was public protest from the clergy; there was not.
+Reading from *Human Zoos* · read by Captain Yuri  *[[39:54](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2394s)]*
+
+> Jessie Tarbox Beals, Ota Benga, Louisiana Purchase Exposition, St. Louis photograph, 1904.
+>
+> Ota Benga, age 25, and a Patagonian 16, Louisiana Purchase Exposition, St. Louis photograph, 1904.
+
+- Now, in this book they try to make it seem nice. But, if you get the actual news articles about this, it tells you how detrimental and inhumane it was to black and brown people. This is where the circuses all started. Barnum and Bailey Circus, which was in New York City. This is how it started, not with lions and tigers and bears, oh my, but it started with our foremothers, our forefathers, our sons and daughters were the zoos.
+
+- That's him right there. When they put him in the zoo, they forced him to walk around with a chimpanzee. He didn't want his damn monkey, they said, "You have to walk around with this monkey."
+
+- Not only that, you see his teeth? His teeth weren't like that, they did that to him. You know when y'all get veneers, right? That's what they do to your teeth. If anybody ever gets veneers, that's what the dentist does before they put those things on. So, they chiseled all his natural teeth to make him look savage.
+
+> The African pygmy, Ota Benga, age 23 years, height 4 ft 11 in, weight 103 lb, brought from the Kasai River, Congo Free State, South Central Africa by Dr. Samuel P. Verner. Exhibited each afternoon during September. There was public protest, especially from the clergy. Ota Benga was lodged in a local orphanage, then moved to Lynchburg in Virginia, dressed in the Western fashion, forced to take lessons at the local primary school. He later worked in a tobacco factory in 1916. When he realized that he would not be able to return to Africa, he shot himself. He was 32.
+
+- So, he committed suicide. Now, you see how they say there were public protest, especially from the clergy? No, no, there wasn't. That's why I said this book tries to make everything seem nice. Because almost a century this thing went on for. So, where was the clergy? It's all a lie.
+
+- That's him, Ota Benga again, walking around that damn monkey. He went insane and committed suicide. Imagine somebody forcing you to walk around a damn monkey, chisel your teeth down, and put you in a damn zoo.
+
+- They had people from Australia, black people from Australia in this damn zoo. These are some of the black children from Congo that they had in the damn zoo.
+
+- So, it was a spectacle. White people would come, "Oh, look at the … Look at the … Praise white Jesus! We all one in Christ." We all one in Jesus. People would come from miles around to look at black people in this damn zoo. Remember, this is after slavery, after chattel slavery, I worded it like that.
+
+> An African girl is shown at the 1958 Expo in Brussels, Belgium, that featured a Congo village with visitors watching her from behind wooden fences.
+
+- 1958? That's not that long ago.
+
+> The US had just acquired, following the Spanish-American War, new territories such as Guam, the Philippines, and Puerto Rico, allowing them to display some of the native inhabitants.
+>
+> Professor Lutz Heck, director of the Berlin Zoo, arrives in Berlin, 1931. With him are members of the African Sara Kaba tribe, who will soon be put on display. The scars over the women's mouths are covering their lip plates.
+
+- So, that's that tribe with the plates they put in their lips.
+
+> The dreadful treatment of Ota Benga, second from left, a Congolese man exhibited in New York's Bronx Zoo
+
+- See that damn monkey in front of him again? That's the same boy that committed suicide.
+
+- New York's Bronx Zoo! That's what I tell you. The zoo started with us, our people, not lions and tigers.
+
+> In 1906, sparked outrage, and he was eventually released. But, 6 years later, he tragically took his own life after being unable to assimilate into American life.
+
+</div>
 
 
 **[John 3:16](/bible/john/3#v16)**  *[[45:55](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2755s)]*
@@ -123,17 +291,264 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
     There is neither Jew nor Greek, neither bond nor free, for ye are all one in Christ Jesus; look at the auction blocks and the zoos and tell me that was ever taught about us in the white man's church.
 
 
-**[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[1:09:08](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4148s)]*
+<div class="reading">
+
+Reading from an on-screen list of what the Protestants took from the Roman Catholic Church  *[[50:28](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3028s)]*
+
+> White Jesus, white angels, white Jews. White Jesus was sacrificed for everyone on the planet. White Jesus born Christmas Day, December 25th. Sunday worship, new Sabbath. Christ rose on Easter. Mother's Day, New Year's Eve, Thanksgiving Day.
+
+- So, this is just a few of the things Protestants took from the Roman Catholic Church. They like to say that they're different from the Catholic Church, not based on what we're looking at here. White Jesus, white angels, white Jews.
+
+- And you know what, brothers, when y'all do your videos, we don't got to talk about the Trinity. You know why? Cuz the word ain't even in the Bible. Let's start with white Jesus. Have Christians prove that. Then let's go with the angels. Have Christians prove that. What about white Jews? Have Christians prove the Jews are white. Then you go down the list. Don't let Christians pull you from these basic things.
+
+- Let's talk about the co-eternalness of God, Jesus, and the Holy Spirit. There's three in one, my brothers. They are co-eternal, co-existing, co-equal. It's BS. Why? Because they don't want you to deal with this right here. Cuz it'll blow a hole in their whole doctrine.
+
+- One brother said, "We want to debate the blood." No. Put it back on the screen. We're not debating the blood. We're going to debate this right here. You prove to us Jesus was a white man. Prove to us the Jews are white. We want to see it with biblical reference. They know they're going to get destroyed. They can't do it. Not the Bible, they can't. They're going to pull up paintings that Leonardo da Vinci made.
+
+</div>
+
+<div class="reading">
+
+Reading from *A Treatise on Physical Geography* by Barrington, published 1850  *[[52:24](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3144s)]*
+
+> Rome received the intellectual treasures of Greece, added to the store, exhibited a new phase of law, government, and public policy, and spread civilization to the Atlantic Ocean, along which it spread from Gibraltar to the Norwegian snows. In the meantime, immense changes had taken place to the whole face of civilized society.
+
+- So, something changed in the world. Watch what it says next.
+
+> A new religion had appeared.
+
+- So, this is Roman Catholicism.
+
+> Differing in many of its doctrines and precepts from all those which had previously prevailed among the nations. It made new revelations of the creator, of man's nature, duties, and destination, and laid down new rules for his conduct.
+>
+> Here, they plunder and destroy churches and murder the ministers of religion. There, when overcome by the professors of the new faith, they submit to the initiatory right of baptism to save their lives.
+
+- Before Roman Catholicism was set up, remember there were churches. When you read the Bible, there were churches that the real disciples had established. And people were still going to those churches.
+
+- This is what Roman Catholics did under Constantine. This new faith that came about. That's what they started teaching. Water baptism will save your soul.
+
+> Yet, such was the result, and the descendants of the very men who nicknamed their leader for condemning their horrid and inhumane barbarities were to contribute their share. Such is the power of the gospel of Christ.
+
+- They went forth in the name of white Jesus slaughtering people, trying to force everybody to be a Catholic.
+
+> When the discovery of a new continent at the end of the 15th century
+
+- It's talking about 1492, the discovery of the Americas.
+
+> aroused the already awakening mind of Europe from the slumber of ages and set in motion agencies of whose results we yet see only a small part.
+
+- Because they came over here, started slaughtering and teaching Roman Catholicism.
+
+> Thus, the Jews are a people who have ever, according to the prophecy, dwelt alone without intermixing with the nations to this day. Now, this separate race, all descended from brown ancestors. For Abraham, Isaac, and Jacob must have been as dark as Mar Yohanan, if not darker.
+
+- So, this was very dark man.
+
+> Exhibit every shade of color from the black Jews of Malabar.
+>
+> The Spanish Jew is always dark complexion, and his hair is uniformly black.
+
+- Next section, because it talked about converts.
+
+> While a German Jew has blue eyes and light
+
+- I don't want that.
+
+> The various shades of color observable among the Negro or African race tends to the same conclusion. Along the coast of Guinea, which is low, marshy, and hot, we find jet black complexions. And this is the very country from which American Negroes have been derived.
+
+- They know that we are the Jews.
+
+</div>
+
+<div class="reading">
+
+Reading from *A History of the Jewish People*, 1956, on Kairouan  *[[56:35](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3395s)]*
+
+> The voice of Torah and wisdom was hushed, and the community itself soon crumbled away in consequence of … fanaticism.
+
+- Now, we're going to read about a city called Kairouan, however you say it. But today they call it Tunisia.
+
+- So, the Arabs went through Africa. The voice of Torah was in Africa. But they hushed it. How did they hush it? With the sword. They were killing us.
+
+> Which ruled that none might enter Kairouan,
+
+- That's Tunisia.
+
+> the holiest city in Africa, who was not a Muslim. But in the 11th century, there were other Jewish communities in northwestern Africa
+
+- Wait a minute. Hold on. There was Jewish communities in Africa? Yes.
+
+> besides that in Kairouan. Thus, Jews lived in … Tlemcen, Fez, Sijilmassa, for the most part in organized communities with courts for internal jurisdiction, schools, and men of learning.
+
+- So, here, they're letting you know that the Jews, we had cities set up where we taught the Torah, and Islam shut it down. They were killing us. That's what it means. The voice of Torah, which means law. Torah means law. And wisdom was hushed.
+
+> They named the place of detention mystically the gates of Rome, and regarded the religion of Edom, Christianity,
+
+- Y'all see that right there? They called the religion of Edom Christianity.
+
+> as the portal through which the Messiah must pass.
+
+- White Jesus must come through Christianity.
+
+> The holy lord who was bent upon doing away with all moral restraints.
+
+- That's what they teach. God's laws are done away with. There's no moral laws. There's no civil laws. Get rid of that.
+
+> King and diet were desirous of maintaining the power of the Catholic Church, but were compelled to acquiesce in repealing all laws against the dissidents, 1767. The Confederation of Bar, 1768, formed by the nobles to restore the supremacy of Roman Catholicism.
+
+- To bring back the power of the Roman Catholic Church.
+
+</div>
+
+<div class="reading">
+
+Reading from *A History of the Jews from the Babylonian Exile to the Present* by Solomon Grayzel, 1968  *[[59:15](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3555s)]*
+
+> The result of Paul's teachings. It is not what happened to Paul personally that is important, but rather what happened to Paul's teaching.
+
+- So, I wonder what happened to Paul's teachings according to the scholar.
+
+> Even while he lived, ample evidence proves that the people to whom he preached had misunderstood him. He had spoken in terms of high and noble idealism of charity, of personal righteousness. He urged men to believe in Jesus firmly, and believing in so perfect an example of godly living, began to lead a godly life themselves. Such righteous people could have no difficulty in meeting the awful day of God's judgment. They would surely survive it. And when the day of resurrection came, such people would surely be permitted to live again and forever. But, most of the people who listened to Paul remembered only the connection between believing in Jesus and meriting God's mercy and ultimate resurrection. They skipped the middle step.
+
+- You see what Christians did? They skipped the middle step.
+
+> The need to live godly lives.
+
+- To keep the commandments. That's what Christians do. They'll talk about Jesus and resurrection, but they will not live a godly life. They purposely leave that out and they say, "God's laws are done away with. You don't got to keep God's law."
+
+> Thus, faith in Jesus came to be the only and entire basis of the religion adopted by the pagan Christians. While the Judeo-Christians who lived in Palestine continued to observe Jewish law.
+
+- Real Jews continued to keep the law in Christ. That's what they were doing.
+
+> But, it was the pagan Christian attitude which won in the end.
+
+- Pagan Christians. That's what your mamas and fathers are today. Pagan Christians.
+
+> Many pagans who had admired Judaism, either openly or secretly, now had a chance to adopt a form of Judaism which appealed to them.
+
+- Itching ears.
+
+> It is not at all strange that Christianity spread most easily and rapidly in those cities in which Jews had lived for a long time.
+
+- It spread so rapidly? You mean I can be an adulterer and still follow white Jesus? Yes. Damn. I can be a liar and a thief and still get to heaven? Yes. That's what Christianity is.
+
+</div>
+
+<div class="reading">
+
+Reading from *Africa, Being an Accurate Description of the Regions of Egypt, Barbary, Libya, and Biledulgerid*, published 1670 · read by Captain Yuri  *[[1:02:01](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3721s)]*
+
+> Africa. Many Jews also are scattered over this region.
+
+- Region is Africa.
+
+> Some natives, boasting themselves of Abraham's seed.
+
+- So, some of the natives in Africa were boasting themselves of Abraham's seed.
+
+> Inhabiting both sides the river …
+
+- The river … Niger.
+
+> Others are Asian strangers who fled thither either from the desolation of Jerusalem by Vespasian or from Judea
+
+- Wait, they were still Israelites. These Asian strangers was northern kingdom.
+
+> or from Judea wasted and depopulated by the Romans, Persians, Saracens, and Christians. Or else such as came out of Europe whence they were banished
+
+- So, these Africans, these blacks were banished out of Europe.
+
+> out of some parts of Italy in the year 1342,
+
+- So, these black Jews were banished out of Italy in what year was that, Yuri? 1342.
+
+> out of Spain in the year 1462,
+
+- Jews was kicked out of Spain in 1462.
+
+> out of the low countries
+
+- Out of low countries is Netherlands.
+
+> in 1350, out of France in 1403, out of England in 1422. These all differ in habit and are divided into several tribes, having no dominion, though both wealthy and numerous, but despised of all nations, and so abominable by the Turks that they are not admitted to be Mohammedans unless first baptized.
+
+- Baptized in water.
+
+> And then no otherwise made use of than to receive their customs and gather in their taxes.
+
+- So, this is telling you that black Jews in Africa was kicked out of all these countries there. That's what those Jews that was keeping the commandments. They was kicked out.
+
+</div>
+
+<div class="reading">
+
+Reading from a Crusades timeline on fiveable.me · read by Captain Yuri  *[[1:04:48](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3888s)]*
+
+> Crusades timeline to know for religions of the West.
+
+- All I want is the first names, Yuri. I'm going to tell you what to read.
+
+> Number one, First Crusade, 1095 to 1099. Capture of Jerusalem, 1099. Second Crusade, 1147 to 1149. Third Crusade, 1189 to 1192. Fourth Crusade, 1202 to 1204.
+>
+> Children's Crusade, 1212. A popular movement where thousands of children set out to peacefully reclaim Jerusalem. Largely ended in tragedy with many children sold into slavery or perishing during the journey. Reflects the fervent religious zeal and innocence of the time.
+
+- You know what's so stupid about the Children's Crusade? And I know during this time period, this is when we were ruling. Black women and effeminate black men got all children together.
+
+- You ever see Black Lives Matter? It's always women and children in the front. So, that's why it's the same stupid spirit that they had back then. Let's let the women and children lead this and they all get put to death and sold in slavery. Damn. We don't need no man. We do it on our own. Go ahead, girl. See how that worked out for you.
+
+> Fifth Crusade, 1217 to 1221. Sixth Crusade, 1228 to 1229. Seventh Crusade, 1248 to 1254. Led by Louis the ninth of France. Aimed at Egypt again as a means to reclaim Jerusalem.
+
+- Were trying to reclaim Jerusalem.
+
+> Resulted in the capture of Damietta.
+
+- That's what I wanted. Resulted in the capture of Damietta. Damietta.
+
+> But, ended in defeat in the capture of Louis the ninth. Louis the ninth was later ransomed, and the Crusade ultimately failed to achieve its goals. Eighth Crusade, 1270. Also led by Louis the ninth. This Crusade targeted Tunis in North Africa and ended quickly due to disease and the death of Louis the ninth. Marked the last major Crusade of the medieval period. Fall of Acre, 1291.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Image of the Black in Western Art* · read by Captain Yuri  *[[1:07:37](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4057s)]*
+
+> The Image of the Black in Western Art.
+
+- Christians don't talk about this, either. Black men and women in Europe and white people trying to storm the castle to take it from them.
+
+- Look at this. Black people getting slaughtered by white people. Christians don't talk about this, either. They probably don't even know about it.
+
+- Black people in the castles. Those castles were ours throughout Europe. White folks came and stole them from us. This was the time period of the old silence that we were just reading about.
+
+> Number 76, Capture of Damietta.
+
+- Capture of Damietta. Remember in the timelines we were reading about Damietta.
+
+- This is the capture of Damietta. Look, white folks attacking black folks, Israelites, what they called Moors, which means black, in the castles.
+
+</div>
+
+<div class="reading">
+
+Reading from a book published in 1920, on the bust of the saviour posed for by Caesar Borgia  *[[1:09:46](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4186s)]*
+
+> Bust of the savior posed for by Caesar Borgia.
+
+- Who posed for the savior? Caesar Borgia. That's Caesar Borgia who posed as the savior.
+
+> The original of this bust was found in the church of San Salvador in Termis now destroyed. It is an open secret that Caesar Borgia, the son of Pope Alexander, had posed for it.
+
+- Let's take a look at that bust. See that word Salvador? That means savior. That word Salvador means savior. Caesar Borgia posed for the new image of Jesus. The Renaissance image of Jesus. The Caucasian image of Jesus. That's what they did. That is what they did.
+
+</div>
+
+
+**[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[1:10:57](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4257s)]*
 
 > <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 
 - Another Jesus, another spirit, another gospel: the three come together, and once a people accept the image they get the spirit and the message with it.
 
-- The white man came preaching a Jesus the apostles never preached. The bust of the saviour in the church of San Salvador was posed for by Caesar Borgia, the son of Pope Alexander, and that Renaissance, Caucasian image is what was carried through the world with the conquest.
-
 - People say it does not matter what he looked like, it is the message that counts. The Bible says the moment you take another Jesus you have taken another spirit and a false gospel, so the image is the first thing to deal with and not the Trinity or the blood.
-
-- Make them prove white Jesus, white angels and white Jews from the Bible. They cannot do it, which is why they want to argue about anything else.
 
   Precepts:
   - **[Revelation 13:7-8](/bible/revelation/13#v7)**
@@ -409,13 +824,96 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
     Behold, I will bring again the captivity of Jacob's tents and have mercy on his dwelling places: he is not having mercy on all people on the planet but on Jacob's tents, bringing us back to rulership and to the holy land. Out of them shall proceed thanksgiving and the voice of them that make merry; I will multiply them and they shall not be few, I will glorify them and they shall not be small, their children also shall be as aforetime, and I will punish all that oppress them. Every oppressor gets punished; not one escapes.
 
 
+<div class="reading">
+
+Reading from FBI Director Kash Patel's statement on Assata Shakur  *[[2:21:51](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8511s)]*
+
+> JoAnne Chesimard didn't fight for justice.
+
+- Won't even give it the dignity of calling her by the name she chose, Assata Shakur.
+
+> She murdered New Jersey State Trooper Werner Foerster in cold blood, then fled to Cuba to escape accountability. The FBI never stopped calling her what she was, a terrorist.
+
+- Didn't.
+
+- Really?
+
+> Mourning her is spitting on the badge and the blood of every cop who gave their life in service.
+
+- Well, ha to you.
+
+</div>
+
+<div class="reading">
+
+Reading from a statement of the Cancillería de Cuba  *[[2:22:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8550s)]*
+
+> On September 25th, 2025, the U.S. citizen JoAnne Deborah Byron Assata Shakur passed away in Havana, Cuba as a consequence of health ailments and her advanced age.
+
+</div>
+
+<div class="reading">
+
+Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Culture*, M. Avrum Ehrlich, editor, volume one · read by Captain Yuri  *[[2:38:45](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9525s)]*
+
+> To escape censorship and arrest by the non-Jewish authorities, rabbinic sages often referred to Rome euphemistically
+
+- So now, Christianity, who were the Gentiles the Apostle Paul went to? Now, normally, you would look at this and go, "I'm not going to buy this book. This is ridiculous."
+
+- Meaning they used other words to mean Rome.
+
+> using the names of biblical enemies such as Esau, Edom, and Amalek.
+
+- Y'all see that? Because sometimes some of you ask, "Well, why didn't Peter and them just say Rome?" You know Rome had to read every letter they wrote. If you wrote something against Rome, guess what would happen? You was dead. After a while, they figured it out. Rome was like, "No, something about these Jews following that Christ. We got to kill them cuz there's something in these letters that they're writing."
+
+> Recently, it has been argued that the Jews in the Hellenistic Diaspora, example, Greek-speaking Jews, had no desire to return to the Holy Land and gradually lost touch emotionally and physically with it and its Jews as well as with their Holy Bible.
+
+- Now, when you read Acts 2, some were coming back. But, this is letting you know there was a lot more that did not come back to the land.
+
+> The Jewish world during the Hellenistic period was noticeably dispersed. Most of the scholars who have dealt with the Jewish Diaspora during this period have blurred the distinction between the Eastern and Western Jewish Diasporas explicitly or implicitly assuming that knowledge about one Diaspora could inform the other.
+
+- I want y'all to pay attention. Blurred the distinction.
+
+- You had Jews on the Eastern part and you had Jews on the Western part of the world.
+
+- So, they blurred the distinction. This is why Christians, they don't understand that the Gentiles Paul went to were Israelites.
+
+> In the West, namely the Greek-speaking Mediterranean world, the Jews wrote and spoke only Greek. Whereas in the East, Palestinian and eastward, Hebrew and Aramaic prevailed. Although even there some communities wrote and spoke Greek.
+
+> In spite of attempts to show that the Jews in the Western Diaspora knew Hebrew, it is common knowledge that basically they knew only Greek.
+
+- Why they only know Greek? From the time of the Maccabees, when the Greeks forced us to learn their language and customs.
+
+> The Jews of the West knew neither Hebrew nor Aramaic, and their religious lives, including the reading of the Torah and prayer, were conducted solely in Greek.
+
+- The West goes into Corinth, Thessalonica, Philippi, Ephesus. Those regions, the seven churches you read about in Revelation.
+
+> The Torah was translated into Greek in the 3rd century BCE.
+
+- So, 3rd century before Christ, it was translated into Greek.
+
+> And there were attempts at translation even before that. In subsequent centuries, the rest of the Hebrew Bible was translated as well. Dines, 2004. It should be pointed out that in certain rabbinic circles, the translation into Greek was viewed as a necessity of the times. The sages recognized that there were entire Diaspora communities that spoke only Greek
+
+- The ones that spoke Greek were called those Gentiles.
+
+> and that these would be lost to the Jewish people in the absence of an authentic translation. While the sages struggled to preserve Hebrew as the sole language for religious activity, that is, prayer and Torah study, they simultaneously provided for an authorized translation of scripture for the Greek-speaking communities.
+
+> Rabbinic literature almost totally ignores the vast Western Diaspora that existed at the time.
+
+- A lot of scholars today ignore the vast Western Diaspora.
+
+> This is particularly noticeable compared with the relatively large number of places in this Diaspora mentioned in chapter 2 of Acts and in the chapters describing the journeys of Paul, Acts chapter 13, as well as in the Pauline Epistles, which give a comprehensive picture of the geography of the Western Jewish Greek-speaking Diaspora in the 1st century BCE.
+
+- 1st century CE. So, Paul, they know was going to the Western Jewish Greek-speaking Diaspora. The scholars know that. It's black Christians that don't understand that. "No, Paul went to everybody." No, he didn't. He went to the Jewish Greek-speaking Diaspora. That's who he went to.
+
+</div>
+
+
 **[Matthew 4:15](/bible/matthew/4#v15)**  *[[2:44:27](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9867s)]*
 
 > <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 
 - The land of Zebulun and the land of Naphtali, Galilee of the Gentiles: the Bible calls two tribes of Israel Gentiles, so the word is not another race.
-
-- The scholars know the western diaspora Paul travelled to was the Greek-speaking Jewish diaspora, the places named in Acts 2 and Acts 13 and in his letters; they had no Hebrew or Aramaic and their Torah and prayers were in Greek from the third century before Christ. It is black Christians who do not understand that Paul went to Israelites.
 
   Precepts:
   - **[Acts 13:46](/bible/acts/13#v46)**
@@ -605,11 +1103,77 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
     I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee. God gets rid of all the nations and keeps Israel. Get mad; it is in the Bible.
 
 
+<div class="reading">
+
+Reading from a Google result on glossolalia  *[[3:10:15](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11415s)]*
+
+> Glossolalia, or speaking in tongues, is the practice of vocalizing speech-like syllables that lack any comprehensible meaning
+
+- This is the hum diddly waba a waba bam boom that they talk about in church.
+
+- It lacks any comprehensible meaning.
+
+> often during religious services.
+>
+> Other practices similar to glossolalia
+
+- So they are practices similar to what they do in the church, Christian church.
+
+> Shamanism. Practices in shamanism can involve ecstatic utterance as a form of communication with spirits.
+>
+> Paganism.
+
+- Like voodoo.
+
+> Certain pagan practices may also include forms of ecstatic speech, making glossolalia a border cross-cultural phenomenon rather than being specific to one religion.
+
+- So it's not new. That you get a state of euphoria and you hum diddly la da la ba shama tie ah shuda boda hunda shuda boda hunda. The hell is this?
+
+</div>
+
+
 **[Acts 2:8](/bible/acts/2#v8)**  *[[3:14:24](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11664s)]*
 
 > <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
 
 - How hear we every man in our own tongue wherein we were born: speaking in tongues in the Bible was known languages. The speaker did not understand what he said and the listeners did, which is nothing like what is done in the churches.
+
+
+<div class="reading">
+
+Reading from *A Treatise on Physical Geography*, published 1850, page 318 · read by Captain Yuri  *[[3:16:15](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11775s)]*
+
+> The Hebrew was spoken by the people of that name to the Babylonius captivity, soon after which it became a dead language.
+
+- So now black people went from glossolalia to coming into the truth. Now some of them are waking up to think they are the Israelites. And they say, "You know what? You got to speak Hebrew. You got to speak Hebrew."
+
+- Listen. Hebrew became a dead language.
+
+> After their return from captivity, the Jews spoke Syro-Chaldaic.
+
+- The language changed. It morphed.
+
+> Although after the time of Alexander, Greek became common. The learned among the Jews continued to write and speak Hebrew almost to the present day. It is an impure dialect
+
+- Hebrew, it is an impure dialect. Cuz when it was in captivity, the language started to change.
+
+> termed Rabbinic. The Syro-Chaldaic was nothing but Chaldee intermixed with some Hebrew peculiarities.
+
+- Chaldean language with Hebrew. That's what we started to do.
+
+> And indeed, it differed so little from Hebrew that it might also be called a dialect of the same language. It is this Syro-Chaldaic that is called Hebrew in the New Testament.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen quote of Eliezer Ben Yehuda  *[[3:21:22](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=12082s)]*
+
+> There are two things without which the Jews will not be a nation, their land and their language.
+
+- So, he created the language that black Israelites are arguing about today.
+
+</div>
 
 
 **[Isaiah 28:11](/bible/isaiah/28#v11)**  *[[3:21:51](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=12111s)]*

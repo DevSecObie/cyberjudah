@@ -19,18 +19,6 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 *[[0:46](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=46s)]* The parable of the ten virgins, broken down verse by verse: the virgins are the hundred and forty-four thousand of the twelve tribes, the lamps are the commandments, the oil is the understanding, and the five that are shut out are the ones who prophesied in the name without keeping the law. The lesson closes in Allen H. Godbey's The Lost Tribes a Myth, on the Judaism found among West Africans and among the slaves brought to America.
 
-## In The News
-
-- *[[22:22](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1342s)]* **The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History, by Allen H. Godbey (1930), opened at page 243 — the religion of Senegambia is a complete medley of paganism, Judaism and Muhammadanism, and in Guinea the Judaism is the more prominently developed: circumcision, the division of tribes into separate families and very frequently into the number twelve, the rigid interdiction of marriages between families too nearly related, bloody sacrifices with the sprinkling of blood upon their altars and doorposts, the formal and ceremonial observance of new moons, a specified time of mourning for their dead during which they wear soiled and tattered clothes, purifications and various other usages probably of Jewish origin** — Godbey went on a trek to find the twelve tribes of Israel, and he put the arguments for it and then the arguments against it. He said that bringing out that the Israelites are scattered in all countries and nations from the time of slavery would rewrite history.
-- *[[24:56](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1496s)]* **The Yoruba Jews of the book, whose ancestors were driven from oasis to oasis by Muslim persecution and found no rest even when they reached Timbuktu — about two thousand people in twenty little villages, calling themselves by a Hebrew name meaning sons of Ephraim and keeping copies of portions of the Torah in a most holy place, and then written off as naked negro savages whose remaining Judaism is not rabbinical** — Yoruba comes from Jeroboam. See what he does: he knows that if this came out on a mass scale it would rewrite history, because the people in the land are not the people of God.
-- *[[25:47](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1547s)]* **The page on American negroes — these facts have a peculiar significance when the presence of Judaism among American negroes is considered: hundreds of thousands of slaves were brought to America from this western Africa beginning nearly four hundred years ago, and as persecuted communities they were rather more in danger than other negroes of being raided by war parties and sold as slaves, so it may be considered certain that many partially Judaized negroes were among the slaves brought to America** — Now he is dealing with us over here. How much more of Judaism survived among West African negroes in that earlier time?
-- *[[26:37](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1597s)]* **On the Cabinda coast in Portuguese West Africa, a group of negro Jews known as Mavumba, skilful smiths and potters and consequently prosperous, whom Ratzel connects with a colony of Jews expelled from Portugal and settled on Sao Tome — the Portuguese discovered the island in 1471, found it very unhealthy, and in 1484 King John II offered the Jews of his dominion the pleasant alternative of submitting to baptism or settling there** — It was either you get baptized as a Christian or you are made an outcast and a slave. That is what was going on, and it goes all the way back to the history of Spain and Portugal.
-- *[[28:30](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1710s)]* **Remnants of a far-travelled African Judaism in northern Nigeria among the Hausa and the Nupe, from three to seven hundred miles from the sea, which reached that region neither from Berber North Africa nor through the contact of European Judaism with the west coast but through the great expansion of the Nubian empire in Byzantine times; as in Abyssinia, Christianity in Nubia was grafted upon a local Judaism centuries old** — They come from the empires of Nubia during the Byzantine times. That is where the lesson on the Byzantine Empire starts.
-- *[[29:22](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1762s)]* **The page on Kisra: in Nubia the Roman title Caesar supplanted the Egyptian title Pharaoh, with the result that Caesar is represented as the ancient oppressor of Israel** — They want us to pronounce it Caesar. Their own book tells you it is really Kaiser, and Kaiser is Caesar, the same word; it comes from Amalek up there in the Caucasus Mountains.
-- *[[30:18](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1818s)]* **The most striking survival of Judaism among the Hausa and the Nupe is a powerful Levitical institution; and Livingstone found a colony of educated negroes two hundred miles inland from St Paul de Loanda, at Ambaca, called the Jews of Angola — remarkably keen in trade, eager for learning, with much knowledge of the history of Portugal and of Portuguese law, in esteem as clerks and writers, of delicate constitution, and the mulattos among them reverting to the colour of the black maternal ancestor within a few generations** — When you go to Nigeria you always hear the complaints the Ibo and the Yoruba make against the Hausa, who today are mostly Islamic and whom nobody likes, and this is the point the author is making. Even the light-skinned ones eventually turn back to black skin.
-- *[[32:01](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1921s)]* **St Paul de Loanda began, like Sao Tome, as a political penal colony, and black wives were taken from the Angola coast for the Sao Tome Jews, so the Portuguese Jews were connected with that region long before the Jesuit order existed; the Jesuits reached Angola in 1560. Negro Jews once existed in Jamaica and Surinam as well, as a result of the extensive concubinage of Spanish and Portuguese Jews with negroes, and a very large proportion bear Jewish names but have generally lapsed from Judaism. Bishop Matthew, of the Commandment Keepers, claims an immemorial Jewish ancestry; and since that ancestry is negro, it follows that negroes were the original Jews. His congregation received no help from the white Jews, whose papers call them fakers** — He knew the history: they were all Jews and they started to lapse from it, and now you have pagans everywhere. But we are not fakers. Every black man is a real Hebrew, whether he knows it or not, and we as a race do not know who we are.
-- *[[34:04](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=2044s)]* **Winwood Reade's report of a Sierra Leone negro preacher's sermon some seventy years before the book — Adam and Eve were colour people, very handsome, living in one beautiful garden where they had all things that be good; they had two children, Cain and Abel; Cain did not like Abel and one day killed him, and when God called him out of the bush and asked in one big voice like the thunder in the sky where his brother Abel was, Cain turned white all over with fear, and that was the first white man** — That is an ex-slave. How did a slave realise that Adam and Eve were colour people when black Christians do not know that today? Were they not uneducated, and they could still figure it out? The Spirit showed them.
-
 ## Scriptures Opened
 
 **[Matthew 25:1](/bible/matthew/25#v1)**  *[[0:46](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=46s)]*
@@ -345,6 +333,158 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 - That they may receive forgiveness of sins and inheritance among them which are sanctified by faith: that goes for us as well.
 
+
+<div class="reading">
+
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930, p. 243 · read by Captain Yuri  *[[22:20](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1340s)]*
+
+> The religion of Senegambia
+
+- That's in Africa.
+
+> is a complete medley of paganism, Judaism and Muhammadanism.
+
+- Allen H. Godbey went on a trek to find the 12 tribes of Israel, and he said when you go through this book, bringing out that the Israelites are scattered in all countries and nations from the time of slavery, it will rewrite history. So what he did, he put arguments for it, then he had arguments against it.
+
+- So when he visited Senegambia, he said yes, there's paganism there, but there's also Judaism there, and Muhammadanism, meaning Islam.
+
+> In the former region of country, Judaism is more prominently developed, some of the leading features of which are circumcision, the division of tribes into separate families, and very frequently into the number 12, the rigid interdiction of marriages between families too nearly related,
+
+- Now, this part here that we're reading, what I didn't underline, it's talking about Guinea. Northern Guinea, paganism, Judaism are united, and in southern Guinea, paganism, Judaism and some imperfect traces of a corrupted form of Christianity. So in the former region of country, talking about Guinea, Judaism is more prominently developed.
+
+> bloody sacrifices with the sprinkling of blood upon their altars and doorposts, the formal and ceremonial observance of new moons, a specified time of mourning for their dead during which they wear soiled and tattered clothes, demoniacal possessions, purifications, and various other usages probably of Jewish origin.
+
+- Probably of Jewish origin.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[24:47](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1487s)]*
+
+> These Yoruba Jews claim that their ancestors were driven from oasis to oasis
+
+- Yoruba comes from Jeroboam.
+
+> by Muslim persecution, not finding rest even when they reached Timbuktu. It suggests that these ancestors may have been of the Dagatun still scattered along the trade routes west of Timbuktu, or of the vanished Jewish kingdom of Camuri, or of the later trading colony of Lamblan. At present, they number about 2,000 people in 20 little villages and call themselves by the Hebrew name Bai Ephraim.
+
+- Bai Ephraim means sons of Ephraim.
+
+> They have copies of portions of the Torah kept in a most holy place.
+
+- So this is what he found out when he went on his excursions traveling throughout the continent.
+
+> But their social life is not Torah controlled. It is that of their fetishist neighbors. Of course their remaining Judaism is not rabbinical. They retain certain Jewish customs and observe the great holy days. Otherwise, they are simply naked negro savages.
+
+- See what he does? See what he does? He knows if this comes out on a mass, it will rewrite history, cuz the people in the land are not the people of God.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[26:15](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1575s)]*
+
+> These facts have a peculiar significance when the presence of Judaism among American negroes is to be considered.
+
+- So now he's dealing with us over here.
+
+> Hundreds of thousands of slaves were brought to America from this western Africa during the days of the traffic, beginning nearly 400 years ago. How much more of Judaism survived amongst West African negroes
+
+- Wait a minute. How much more Judaism survived among West African negroes?
+
+> in that earlier time? As persecuted communities, they were rather more in danger than other negroes of being raided by war parties and sold as slaves. It may be considered certain that many partially Judaized negroes were among the slaves brought to America.
+
+- Y'all see that right there?
+
+> On the Cabinda coast in Portuguese West Africa. It is an interesting group of negro Jews known as Mavumba. They are skillful smiths and potters and consequently prosper. Ratzel considers them connected with a colony of Jews expelled from Portugal and settled on Sao Tome Island.
+
+- So that goes all back to the history of Spain and Portugal.
+
+> The Portuguese discovered Sao Tome in 1471. Finding it very unhealthy, King John II of Portugal in 1484 offered the Jews of his dominion the pleasant alternative of submitting to baptism or settling at Sao Tome.
+
+- So it was either you get baptized as a Christian or be made a slave, an outcast and a slave. That's what was going on.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[28:20](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1700s)]*
+
+> Remnants of a far-travelled African Judaism are found in northern Nigeria, among the Hausa and Nupe on the east side of the lower … from 300 to 700 miles from the sea. The survivals are of the peculiar interest because they did not reach that region from Berber North Africa, nor through the contact of European Judaism with the west coast. They are due to the great expansion of the Nuba or Nubian Empire in Byzantine times.
+
+- So he said they come from the empires of Nubia during the Byzantine times. That's where we start off the lesson about the Byzantine Empire.
+
+> As we saw in the case of Abyssinia,
+
+- That's Ethiopia.
+
+> Christianity in Nubia was grafted upon a local Judaism centuries old. Hence, this mixture of Judaism and Christianity in Nupeland has the same providence that Falasha Judaism and Abyssinian Christianity have.
+
+> Kisra is Kaiser. It points to the Roman period
+
+- Pay attention to this.
+
+> in Nubia, when the Roman title Caesar supplanted the Egyptian title Pharaoh, with the result that Caesar is represented as the ancient oppressor of Israel.
+
+- They want us to pronounce it Caesar. They're telling you it's really Kaiser. You heard Kaiser Sosa? Kaiser is Caesar. Is the same word. That comes from the Amalek up there in the Caucasus Mountains.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[30:04](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1804s)]*
+
+> But the most striking survival of Judaism among the Hausa and Nupe is a powerful Levitical institution.
+
+- So when you go to Nigeria, like we've been there several times, you always hear complaints that the Ibo or the Yoruba make against the Hausa. The Hausa today, the majority of them are Islamic, and nobody likes them. But this guy is making a point.
+
+> It will be more properly considered in the chapter upon shrine Levites. Livingstone also found a colony of educated negroes 200 miles inland from St Paul de Loanda, at Ambaca, and called the Jews of Angola.
+
+- The brothers just went to Angola. They were called the Jews of Angola.
+
+> Remarkably keen in trade, eager for learning, with much knowledge of the history of Portugal and Portuguese law, they penetrate hundreds of miles into the interior in their trading expeditions and are in esteem as clerks and writers. Livingstone found them of delicate constitution, and mulattoes among them in a few generations revert to the color of the black maternal ancestor.
+
+- He said even the mulattoes, the light-skinned ones, eventually turn black skin again.
+
+> By Mendelian principles, this would mean that white or mixed children of each generation did not survive.
+>
+> But St Paul de Loanda began, like Sao Tome, as a political penal colony, and from this Angola coast black wives were taken for the Sao Tome Jews. So the Portuguese Jews were connected with this region long before the Jesuit order existed. The Jesuits reached Angola in 1560. No careful examination for survivals of Judaism has been reported.
+>
+> Similarly, negro Jews once existed in Jamaica and Surinam,
+
+- So he found Jews in Jamaica and Surinam.
+
+> as a result of extensive concubinage of Spanish and Portuguese Jews with negroes. A very large proportion bear Jewish names but have generally lapsed from Judaism.
+
+- So he knew the history, how they were all Jews and they started to lapse from it. Now you got pagans everywhere.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[32:51](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1971s)]*
+
+> Thus Bishop Matthew claims an immemorial Jewish ancestry,
+
+- This is Matthew of the Commandment Keepers, I believe it is.
+
+> but since that ancestry is negro, it follows that negroes were the original Jews.
+>
+> This is a development from Bishop Matthew's congregation. It has received no help from the white Jews, and observes that the white Jewish papers call them fakers. "But my friends, we are not fakers. Every black man is a real Hebrew, whether he knows it or not. We as a race do not know who we are," etc. Thus race discriminations are always repaid in their own coin. Compare Winwood Reade's report of a Sierra Leone negro preacher's sermon some 70 years ago.
+
+- So now pay attention to this sermon. Now this is from an ex-slave. Just listen to what he says.
+
+> My brethren, you see white men bad too much, ugly too much, no good. You want savvy how man like that come to live in the world? Well, I tell you. Adam and Eve, they color people, very handsome,
+
+- Wait, wait. How a slave realize that Adam and Eve were color people, but Christians, black Christians, don't know that today? Aren't they uneducated? And they can figure it out. The Spirit showed them.
+
+> live in one beautiful garden. There they have all things that be good: plantains, yams, sweet potatoes, fufu, palm wine. … Then they had two children, Cain and Abel. Cain no like Abel … One day he kill him. Then God be angry, and he say, Cain! Cain go hide himself. …
+>
+> God say again, Cain, you think I don't see you? You bush, hey. Then Cain come out, and he say, Yes, master, I live here. What the matter, master? Then God say in one big voice like the thunder in the sky, Where them brother Abel? Then Cain turned white all over with fear. That the first white man.
+
+- How you understand that? How we understand that? How a slave understand that, and black Christians don't? You can't make this stuff up.
+
+</div>
 
 ## Class Questions
 

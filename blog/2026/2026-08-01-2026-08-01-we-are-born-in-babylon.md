@@ -183,7 +183,7 @@ Reading from a text on Edom and the destruction of the first temple · read by C
   - **[1 Esdras 4:45](/bible/1-esdras/4#v45)**
     > <sup>[45](/bible/1-esdras/4#v45)</sup> Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees.
 
-    Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees. So who burned the temple? The Edomites.
+    Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees. So who burned the temple? The ….
 
 - During the middle ages, around 711 AD in Spain, you had Israelites who were called Moors. Remember Israel went into the Assyrian captivity, the Babylonian captivity, the Persian and Mede captivity, the Greek, then the Roman: 70 AD. About 600 years after that you had the Moors.
 
@@ -295,7 +295,7 @@ Reading from *Light and Truth* by R. B. Lewis · read by Captain Yuri  *[[50:36]
 >
 > <sup>[9](/bible/psalms/137#v9)</sup> Happy shall he be, that taketh and dasheth thy little ones against the stones.
 
-- Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. Rase it means destroy it. Think about it: this is King David; when he ruled, Babylon was not in power, but he saw a vision of the destruction of the nation of Israel. That is what the Edomites did when they burned down that temple.
+- Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. Rase it means destroy it. Think about it: this is King David; when he ruled, Babylon was not in power, but he saw a vision of the destruction of the nation of Israel. That is what the … did when they burned down that temple.
 - O daughter of Babylon, who art to be destroyed: I want you to see that he calls Edom the daughter of Babylon, because they assisted the Cushite Babylonians. The prophecy is that the daughter of Babylon is to be destroyed.
 - Happy shall he be, that taketh and dasheth thy little ones against the stones: that is what they did to our children.
 
@@ -1088,7 +1088,7 @@ Reading from a quote of Frederick Douglass · read by Captain Yuri  *[[2:41:31](
 
 - Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness. Our people despise God's laws and trust in oppression. You know what oppression is? For an example, democracy is an oppressive system. You know what perverseness is? Christianity: come as you are, stay as you be. That is what I learned in church; there was no change.
 - Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.
-- Video played: Harriet Tubman said, I would have freed so many more of my people, if only they knew they were slaves. All our people want is comfortable oppression: as long as it is comfortable, they are all right with it. The system understands that: we will feed them false hope, give them one or two to idolize and put on a pedestal to chase; but the system is not meant for everybody to win, because if it was, everybody would be winning.
+- Video played: Harriet Tubman said, I would have freed so many more of my people, if only they knew they were slaves. All … want is comfortable oppression: as long as it is comfortable, they are all right with it. The system understands that: we will feed them false hope, give them one or two to idolize and put on a pedestal to chase; but the system is not meant for everybody to win, because if it was, everybody would be winning.
 - That is trusting in oppression: I am not oppressed, I make millions a year. That is comfortable oppression; that is all it is.
 - Documentary recommended: Exterminate All the Brutes, on HBO Max, loosely based on Sven Lindqvist's book: it explores colonialism, white supremacy, and the brutality carried across the world, with reenactments and commentary from historians. Very good documentary; watch it when you get a chance.
 

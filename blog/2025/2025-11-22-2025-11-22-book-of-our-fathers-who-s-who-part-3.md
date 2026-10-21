@@ -22,7 +22,6 @@ tags: ["IUIC in the ClassRoom", "faith"]
 ## In The News
 
 - *[[33:44](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2024s)]* **A video of a commentator answering Kanye West's claim that black people are of the twelve tribes** — He grants that a large percentage of those sold in the transatlantic slave trade were of Israelite tribes displaced in Africa, then says our people reach false conclusions from a colonised Christian framework and mistranslations of the King James Bible. The information is busting out the seams, so the work now is damage control: admit it, include themselves in it, and steer our people away from Christ. We never needed validation from any nation, only from the Most High and his son, and we had it before they were forced to say it.
-- *[[43:00](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2580s)]* **A page shown on the screen from a book on Jewish life in the New World, 1493 to 1825, on the Caribbean shipping business** — They were the largest ship chandlers in the entire Caribbean region, where the shipping business was mainly their enterprise, which answers the man in the video: his own people were in the slave trade, so they never bore witness with us.
 
 ## Scriptures Opened
 
@@ -129,6 +128,21 @@ tags: ["IUIC in the ClassRoom", "faith"]
 - The children also of Judah and the children of Jerusalem have ye sold unto the Grecians. This is the southern kingdom, Judah, Benjamin and Levi, sold to white people, and it is a prophecy specifically of the transatlantic slave trade.
 
 - So when they say black people sold black people, we know that, and the Bible said it first. Hamites sold us at places like Fort Ouidah and Ishmaelites sold us at places like Zanzibar, to the white man who came on the boats to the coast to pick us up. What they will not say is that those sellers were not the same people as us.
+
+
+<div class="reading">
+
+Reading from a book, *New World Jewry 1493 to 1825*, the highlighted part shown on the screen  *[[43:11](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2591s)]*
+
+> Trading and serving as merchants, including owning warehouses with inventories to outfit the largest selling vessels and to make ship repairs. The Jews were the largest ship chandlers in the entire Caribbean region
+
+- They were what? The largest ship chandlers in the entire Caribbean region.
+
+> where the shipping business was mainly a Jewish enterprise.
+
+- They were part of the slave trade. So, wait a minute. So, that just debunked that nonsense he just got through saying. Because he claimed, "We were the same." Well, then if you're Jewish brother, why would you be against it? According to you, them folks, did they bear witness with them when they came? No. Them was … just like he's an Edomite.
+
+</div>
 
 
 **[Judith 5:17-20](/bible/judith/5#v17)**  *[[47:13](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2833s)]*
@@ -467,7 +481,7 @@ tags: ["IUIC in the ClassRoom", "faith"]
     >
     > <sup>[31](/bible/judges/3#v31)</sup> And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.
 
-    Moab was subdued that day under the hand of Israel and the land had rest fourscore years. And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad, and he also delivered Israel. An ox goad is a weapon sometimes ten feet long with a sharp point; six hundred men died by one of them.
+    Moab was subdued that day under the hand of Israel and the land had rest fourscore years. And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad, and he also delivered Israel. Six hundred men died by one of them.
   - **[Judges 4:4-5](/bible/judges/4#v4)**
     > <sup>[4](/bible/judges/4#v4)</sup> And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
     >
@@ -504,6 +518,17 @@ tags: ["IUIC in the ClassRoom", "faith"]
     > <sup>[14](/bible/judges/12#v14)</sup> And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
 
     After him Abdon the son of Hillel, a Pirathonite, judged Israel, and he had forty sons and thirty nephews that rode on threescore and ten ass colts, and he judged Israel eight years.
+
+
+<div class="reading">
+
+Reading from a text looked up on the ox goad  *[[1:36:31](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5791s)]*
+
+> The goad is a formidable weapon. It is sometimes 10 ft long with a sharp point.
+
+- What do they call that thing that the Grim Reaper be carrying? That's what they look like. Y'all, you know how long 10 ft is?
+
+</div>
 
 
 **[Judges 6:1-13](/bible/judges/6#v1)**  *[[1:38:18](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=5898s)]*
