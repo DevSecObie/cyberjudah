@@ -89,7 +89,8 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
 test("combined class filters survive reload and clear", async ({ page, request }) => {
   const response = await request.get("https://data.cyberjudah.io/search/classes.json");
   expect(response.ok()).toBeTruthy();
-  const rows: FeedRow[] = await response.json();
+  // The Truth Shall Make You Free episodes have their own page and are left off /classes.
+  const rows = ((await response.json()) as FeedRow[]).filter((row) => !row.collection?.startsWith("The Truth Shall Make You Free"));
   const sample = rows.find((row) => (row.allBooks ?? row.books).length > 0)!;
   expect(sample).toBeTruthy();
   await page.goto("/classes");
