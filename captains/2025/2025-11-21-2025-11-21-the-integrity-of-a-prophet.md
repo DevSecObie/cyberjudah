@@ -1,0 +1,160 @@
+---
+title: "The Integrity Of A Prophet"
+slug: "2025/2025-11-21-the-integrity-of-a-prophet"
+date: "2025-11-21"
+teacher: ""
+description: "15 Minutes w/ The Captains · 2025-11-21"
+tags: ["15 Minutes w/ The Captains", "endurance", "justice", "prophecy", "wisdom"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2025-11-21</p>
+
+<span class="opens"><b>Opens</b> [Joel 2](/bible/joel/2) · [Phil 2](/bible/philippians/2) · [Mark 7](/bible/mark/7) · [Jer 17](/bible/jeremiah/17) · [Eccl 8](/bible/ecclesiastes/8) · [2 Esdras 16](/bible/2-esdras/16) · [Sir 2](/bible/sirach/2) · [2 Cor 13](/bible/2-corinthians/13) · [Matt 7](/bible/matthew/7) · [Sir 1](/bible/sirach/1)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="41QmZsO9u5Q"></div>
+
+## Introduction
+
+*[[0:23](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=23s)]* Shalom Israel. Most High Christ bless. And today we're doing a 15 minutes with the captains, and the topic is called the integrity of a prophet. I'm going to tell you something, Israel. A lot of times Israel let their light shine, and they feel like the time to shine is on the Sabbath day. We put our best foot forward. Some sisters put on their best head cover on the Sabbath day. But meanwhile, back at the ranch, is all type of iniquity going on. When nobody's looking, you relaxing. But guess what you going to find out? When nobody's looking, that's the time you shine. Israel, you have to understand how important it is that the Most High wants your mind to be right. How nice your fringes look and your head cover ain't getting you on the chariot.
+
+## Scriptures Opened
+
+**[Joel 2:13](/bible/joel/2#v13)**  *[[1:50](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=110s)]*
+
+> <sup>[13](/bible/joel/2#v13)</sup> And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.
+
+- And rend your heart, and not your garments: you see what the scripture say? Rend your heart, not your garment. So we're showing you it's not about the outward appearance. The Most High wants that inward man to be corrected and reformed in these last days.
+
+
+**[Philippians 2:12](/bible/philippians/2#v12)**  *[[2:12](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=132s)]*
+
+> <sup>[12](/bible/philippians/2#v12)</sup> Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
+
+- not as in my presence only, but now much more in my absence: you see what Paul said? He said, In my absence, I want you to work on yourself. Remember, Paul was writing letters all over. Thessalonians, Corinthians, he was everywhere writing letters. So he couldn't be in all places at all times. But guess what he wanted Israel to do? Focus on getting yourself together while he wasn't there. Don't come before the congregation and put forth a certain perception, but meanwhile, that is not such when it comes to your own private lifestyle. I remember there was a situation where a sister came into school, and when she would say shalom, it was almost like she was a ballerina. When she would do the shalom, her forehead would touch her shin. Shalom. But meanwhile, back at the ranch, guess what? Somebody had a picture of her with pants on at the grocery store. Lord Jesus, please help us. We can't have that mindset, Israel.
+
+- work out your own salvation with fear and trembling: you see what the Lord said? Work out your own salvation. Not everybody else's. Get your mind right.
+
+
+**[Mark 7:21-22](/bible/mark/7#v21)**  *[[4:04](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=244s)]*
+
+> <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
+>
+> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
+
+- For from within, out of the heart of men, proceed evil thoughts: we got a lot to work on, Israel, because in these last days, as we continue to strive and be a wonderful, exceeding great army and nation, everybody ain't coming in 100% right. No, we all got something to work on. So now it says, out of the heart of men. Israel, guess what? That's an inward thing. Out of the heart of men proceed evil thoughts. It ain't say you come into school professing the evil thoughts that's in your mind. No, a lot of it you keep dormant and secret. The scriptures tell you that Christ didn't even have a foolish thought. But us as men, in these carnal bodies, constantly trying to endure, we couldn't walk perfect like Christ. But guess what? We can still strive and get ourselves together. That's the mindset we have to have.
+
+- adulteries, fornications, murders: so these are a lot of evil thoughts, but I want you all to focus on the first three primary ones. Adulteries. How many times you see people getting put out the body? Sex scandal. Fornication, more sex scandals. Murders: hatred and envy towards your brother. So these are things that ultimately you battle inwardly, and they'll end up doing what? Causing an outward vomit of sin on you. You find yourself constantly in these type of things. This will be your life. This is the mindset we have to understand.
+
+
+**[Jeremiah 17:9](/bible/jeremiah/17#v9)**  *[[6:28](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=388s)]*
+
+> <sup>[9](/bible/jeremiah/17#v9)</sup> The heart is deceitful above all things, and desperately wicked: who can know it?
+
+- The heart is deceitful above all things, and desperately wicked: who can know it? Israel, let me ask you something. I want you to meditate on this. Do you really examine and check yourself? Do you really examine and check yourself? You the only one that could take your crown. You the only one that could talk yourself out the game. Letting Satan come in your head, and all of a sudden now you got to doubt what you doing, because you talk yourself out the game. Nobody in your head. Only Satan and you and the Lord. You got to ask yourself, are you going to strive and keep these commandments and be converted, or you gonna give yourself over to sin, and secret sin, and come in the body and fake the funk in front of everybody? We cannot have that mindset. You only fooling yourself.
+
+
+**[Ecclesiastes 8:11](/bible/ecclesiastes/8#v11)**  *[[7:34](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=454s)]*
+
+> <sup>[11](/bible/ecclesiastes/8#v11)</sup> Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
+
+- Because sentence against an evil work is not executed speedily: I'mma show you something, Israel. A lot of times brothers and sisters will find themselves in that situation because they think, Well, I just whistled, or I just gave a compliment, or flirted with this woman. No judgment happened to me yet. I'm good. Let me try to get a number now. Oh, I'm good. Nothing happened to me. Oh, let me go ahead and start sleeping with. No, that's not the mindset. Let's see what the scriptures say.
+
+- therefore the heart of the sons of men is fully set in them to do evil: you see that? So just because immediate judgment ain't come on you, you can't have a mindset to say, Well, I could do evil now. I could just continue to be wicked. No. You must confess your faults one to another so you can be built up and healed. Get the healing going, not stay in the secret sins and let it bind you up.
+
+
+**[2 Esdras 16:77-78](/bible/2-esdras/16#v77)**  *[[8:49](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=529s)]*
+
+> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
+>
+> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
+
+- Woe be unto them that are bound with their sins: that's what ends up happening. You fall, and after you fall, you keep it to yourself. You don't confess it to anybody. Then next thing you know, you find yourself in deeper sin. Now next thing you know, this is your normal life. But guess what? You still come before the body in the midst of all type of iniquity, and you don't think that judgment's coming. We have to have the genuine fear of the Lord, Israel. You see that? Bound. Your sins are like chains on you.
+
+- and covered with their iniquities like as a field is covered over with bushes: you see that? So you got to imagine being tucked under some thorns, and waking up under thistles and thorns, and being bound under there. Guess what? It's going to hurt to come out, but you better get out of there. You better get out of that sin.
+
+- It is left undressed, and is cast into the fire to be consumed therewith: you see that? You don't want to get consumed with them thorns and thistles because what? You fail to get out. The scriptures say that a righteous man falleth seven times, but the wicked fall into mischief. So we have to understand there's two type of men here. They ain't say you gonna be perfect, but it say, are you gonna get up? Are you gonna come out of those thorns and fight? So that's the end judgment. When Christ come on the scene, what ends up happening? We lose the kingdom over sex, over getting your rocks off, over secret sins, over hatred towards your brother. No, do not lose your whole eternal life over some sin.
+
+
+**[Sirach 2:2](/bible/sirach/2#v2)**  *[[11:05](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=665s)]*
+
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
+
+- Set thy heart aright, and constantly endure: you see what the Lord wants us to do? Set our hearts, get our minds right, and constantly endure in these last days. Constantly endure in this truth.
+
+- and make not haste in time of trouble: you see that? Don't delay in the midst of that sin. Don't delay when you fall. Don't delay, Israel. Get yourself together.
+
+
+**[2 Corinthians 13:5](/bible/2-corinthians/13#v5)**  *[[11:38](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=698s)]*
+
+> <sup>[5](/bible/2-corinthians/13#v5)</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
+
+- Examine yourselves, whether ye be in the faith: you see what the scriptures say? Examine yourselves, whether you be in the faith. No one can go into the doctor and tell the doctor, Hey physician, I know I'm here. I paid my co-pay. I'm standing before you with my arms out saying, guess what's wrong with me. Guess if I got a cough, or I got a hurt foot, or guess if I got high blood sugar. Guess. No. You have to go in there and tell him the symptoms. You have to go in there and say, This is my chief complaint. Likewise when it comes to our sins.
+
+- prove your own selves: you see that? Prove your own selves. Everybody want to prove a friend. Guess what? Prove yourself before you prove a friend. Get your mind right. Make sure that you an asset to this nation, fitly framed together.
+
+- Know ye not your own selves: so you telling me you reject examining yourself?
+
+- how that Jesus Christ is in you, except ye be reprobates: you see that? Unless you reprobate, void of judgment. You see sin, you in the midst of sin, and you refuse to address it. You act like you're not in the midst of it. You come in here, you sit around, you say, Judgment isn't for me, but it's here for me to render judgment. That's not the mindset in these last days.
+
+
+**[Matthew 7:1-5](/bible/matthew/7#v1)**  *[[13:24](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=804s)]*
+
+> <sup>[1](/bible/matthew/7#v1)</sup> Judge not, that ye be not judged.
+>
+> <sup>[2](/bible/matthew/7#v2)</sup> For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
+>
+> <sup>[3](/bible/matthew/7#v3)</sup> And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
+>
+> <sup>[4](/bible/matthew/7#v4)</sup> Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
+>
+> <sup>[5](/bible/matthew/7#v5)</sup> Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
+
+- Judge not, that ye be not judged: we have to get ourselves together, Israel. And it's going to take day by day, time over time. But at the same time, we have to keep an examination of sincerity of ourselves. You see what the scriptures say? Judge not, that ye be not judged.
+
+- For with what judgment ye judge, ye shall be judged: you see that? So the scriptures is telling you, if you want to render judgment, you better be ready to be judged too. You want to examine somebody, make sure you ready to be examined too, right?
+
+- and with what measure ye mete, it shall be measured to you again: you see that? So every single thing we judge and we deal with, Israel, make sure we have that same love and charity for one another as we have for ourselves.
+
+- but considerest not the beam that is in thine own eye: you see that? You see a little speck in your brother's eye, things that he battling with, but then there's a whole eye missing off you. But meanwhile, we examining everybody else. We cannot have that mindset. We have to deal in sincerity.
+
+- Let me pull out the mote out of thine eye: let me help you correct yourself.
+
+- and, behold, a beam is in thine own eye: let me help you, cuz brother, you broke the Sabbath cuz you had to work, brother. Or brother, you worked on a new moon, brother. But meanwhile, you got a woman in the back behind the curtain. Come on, brother. It don't make no sense. Sister trying to tell another sister, Sister, you not friendly. Sister, you not doing this. You not doing that. But meanwhile, you at the grocery store with pants on. Come on. We have to stop this mindset.
+
+- Thou hypocrite: you see what the scripture say? Don't be a hypocrite. He said, Thou hypocrite.
+
+- first cast out the beam out of thine own eye: examine yourself. Fix yourself.
+
+- and then shalt thou see clearly to cast out the mote out of thy brother’s eye: now you could deal with your brother, because you see clearly.
+
+
+**[Sirach 1:29-30](/bible/sirach/1#v29)**  *[[16:06](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=966s)]*
+
+> <sup>[29](/bible/sirach/1#v29)</sup> Be not an hypocrite in the sight of men, and take good heed what thou speakest.
+>
+> <sup>[30](/bible/sirach/1#v30)</sup> Exalt not thyself, lest thou fall, and bring dishonour upon thy soul, and so God discover thy secrets, and cast thee down in the midst of the congregation, because thou camest not in truth to the fear of the Lord, but thy heart is full of deceit.
+
+- Be not an hypocrite in the sight of men: you see what the Lord said? Do not be a hypocrite in the sight of men. The Most High hate that thing.
+
+- and take good heed what thou speakest: you see that? Take good heed what come out of your mouth.
+
+- Exalt not thyself, lest thou fall: you see that? So you put yourself high-minded and you cannot be told. But meanwhile, the Most High hate that thing. He said you have been marked as a hypocrite. It's time for judgment to come down.
+
+- and bring dishonour upon thy soul: you see that? Not your name, but your soul. Your secret sins, because of your hypocrisy, have brought dishonor upon your soul.
+
+- and so God discover thy secrets, and cast thee down in the midst of the congregation: so when the Most High expose and discover your secrets. You see that? The Most High make that little bird expose your secret. Now everybody know what you tried to go in secret with.
+
+- because thou camest not in truth to the fear of the Lord: you see that? Cuz you're not a sincere person. You did not come and say, You know what? I got something to fix. This is what I need to fix. Pray for me. Help me get myself together. I got counselors. I got safety. Cuz you ain't come in the law, statutes, and commandments, and come in sincerity.
+
+- but thy heart is full of deceit: thy heart is full of deceit. Your heart is full of lies. Evil, wicked thoughts that have not been bridled. Evil, wicked thoughts that you fail to realize is taking over your soul, taking over you, and growing like thorns and thistles, and you stuck in it, and no one can tell you, cuz you too busy judging everybody else.
+
+
+## In Closing
+
+*[[18:05](https://www.youtube.com/watch?v=41QmZsO9u5Q&t=1085s)]* Be not a hypocrite, Israel. Let's stand on integrity. With that, I say shalom.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=41QmZsO9u5Q)
