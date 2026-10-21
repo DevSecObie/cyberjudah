@@ -134,6 +134,19 @@ tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
     Heathens from Babylon and Cuthah were planted in Samaria, and each nation made its own gods in the high places the Samaritans had made.
 
 
+<div class="reading">
+
+Reading from a Bible atlas, p. 200  *[[1:14:32](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=4472s)]*
+
+> The Assyrian Empire undertook the third
+
+- That's Pul. So, he went and conquered Ephraim. This green is all his provinces here. You see the arrows where he went.
+
+- You see Samaria right there in the bottom. Go to the right, it's Babylonia. You see the arrow there? Ephraim right there. Israel there.
+
+</div>
+
+
 **[Isaiah 7:1](/bible/isaiah/7#v1)**  *[[1:16:59](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=4619s)]*
 
 > <sup>[1](/bible/isaiah/7#v1)</sup> And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
@@ -162,6 +175,27 @@ tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
     > <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
 
     In the place where it was said, ye are not my people, it shall be said, ye are the sons of the living God, and Judah and Israel shall be gathered under one head.
+
+
+<div class="reading">
+
+Reading from a Bible atlas, pp. 203-204  *[[1:31:09](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=5469s)]*
+
+> The fall of Samaria and deportation of Israelites.
+
+- Because this Cornelius thing is causing a lot of confusion for some reason, because y'all ain't keeping no commandments. That's why you're getting confounded by morons and children.
+
+- You see Nineveh right here. They make their campaign. You see Gozan. Remember Ephraim got conquered and placed in these areas. Gozan, Halah, Habor. That's like a river right there. Habor river. That's where northern kingdom was placed as an Assyrian area. They were removed from Ephraim or Israel and placed in this area here.
+
+- This is known as modern day Iran. And further to the right is Russia. And further over there is China. They're all next door. Ephraim fled into all these areas. The Silk Road. That was us too. So we got taken from here and brought up that way.
+
+> Assyrian districts after the fall of Samaria.
+
+- You see Dor right there? I need you guys to remember that. Dor borders. That's Ephraim's land. That's part of Samaria. Dor, D-O-R, or it's Dora with an a sometime, but it's the same place.
+
+- Shiloh, Bethel, then Dan's up there where they sacrifice. See Dan next to Tyre. Dan up here and you have Shiloh down here. Jeroboam built idols in both those areas so they ain't got to go down south, they ain't got to go to Jerusalem to worship. They can go further north rather than go south to worship. That's what Jeroboam did, rather than go south to Judah and worship over there where they supposed to worship.
+
+</div>
 
 
 **[Genesis 28:13](/bible/genesis/28#v13)**  *[[1:34:05](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=5645s)]*
@@ -278,6 +312,9 @@ tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
     Ephraim is joined to idols: let him alone.
 
 
+- *[[2:39:23](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=9563s)]* On the atlas map: "Jesus addresses a Samaritan woman at Jacob's well because Jacob bought that well there."
+
+
 **[John 4:25](/bible/john/4#v25)**  *[[2:46:57](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=10017s)]*
 
 > <sup>[25](/bible/john/4#v25)</sup> The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.
@@ -300,6 +337,25 @@ tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
     > <sup>[7](/bible/joshua/17#v7)</sup> And the coast of Manasseh was from Asher to Michmethah, that lieth before Shechem; and the border went along on the right hand unto the inhabitants of En–tappuah.
 
     Manasseh's coast reached to the sea and included the inhabitants of Dor and her towns.
+
+
+<div class="reading">
+
+Reading from a Bible atlas, pp. 276-277  *[[2:51:40](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=10300s)]*
+
+> Strato's Tower.
+
+- What land mass it belongs to? Northern Kingdom, right?
+
+> Caesarea Maritima, Strato's Tower.
+
+- You have three Caesareas. You have one in Africa. That's not written. You have one called Caesarea Philippi in Acts, and Caesarea Maritima. That's where Cornelius is from. He's from here. He's in Samaria. The same place Christ spoke to the woman at the well.
+
+- Remember Strato's Tower is Caesarea Maritima. When Rome colonized our land, they named it Caesar, Caesarea Maritima, because it's a port with water.
+
+- West Manasseh. The reason why it's called West Manasseh, cuz Manasseh dwelt on the other side of Jordan. That's East Manasseh. East and west of Jordan. So this is all Manasseh's land. And when Rome took over, it became Caesarea Maritima right under Dor. This is once Manasseh's allotment of land, right under Ephraim. These are Joseph's sons. He bought a well here.
+
+</div>
 
 
 **[Acts 10:15](/bible/acts/10#v15)**  *[[3:01:33](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=10893s)]*
