@@ -231,9 +231,30 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 >
 > <sup>[16](/bible/genesis/10#v16)</sup> And the Jebusite, and the Amorite, and the Girgasite,
 
-- Bible dictionary read in class on Ham: the youngest son of Noah, progenitor of the dark races, not the Negroes. See that? The Negroes do not come from Ham; that is all that was wanted out of that.
+<div class="reading">
+
+Reading from a Bible dictionary, on Ham  *[[47:40](https://www.youtube.com/watch?v=JLhHPemmiSk&t=2860s)]*
+
+> Ham, the youngest son of Noah, born probably about 96 years before the flood and one of eight persons to live through the flood. He became the progenitor of the dark races, not the Negroes.
+
+- See that? The Negroes don't come from Ham. That's all I wanted out of that.
+
+</div>
+
 - Images of the Nilotic tribes were shown on the screen: very, very dark people. We did mix with them, so do not get it twisted, but the Nilotes were dark like this. Pharaoh was Nilotic. This was also shown for the art department, who have drawn Samson and Pharaoh looking like us.
-- Kush in the Bible refers to the ancient land of Nubia, south of Egypt, corresponding to modern day Sudan and parts of Ethiopia. It says parts of Ethiopia because in Ethiopia you have Shemites and Nilotes, Shemites and Hamites. What we are reading in Genesis 10 are pure Hamites; we had not started mixing yet.
+
+<div class="reading">
+
+Reading from a search on Kush in the Bible · read by Captain Yuri  *[[50:57](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3057s)]*
+
+> In the Bible, Kush (Hebrew, …) refers to a person, a specific geographic region and the people inhabiting that region. It is most commonly identified as the ancient land of Nubia, located south of Egypt, corresponding to modern-day Sudan and parts of Ethiopia.
+
+- It says parts of Ethiopia because in Ethiopia you have Shemites and Nilotes. Shemites and Hamites. Everybody understand?
+
+- So what we're reading in Genesis 10 are pure Hamites. We had not started mixing. Well, we did in Genesis 6, but God killed them off.
+
+</div>
+
 - And Cush begat Nimrod: he began to be a mighty one in the earth, a mighty hunter before the Lord, meaning he was against the Lord. The beginning of his kingdom was Babel in the land of Shinar. So after the flood, the first empire was Kush: the Ethiopians, the Sudan. These were mighty men with understanding. You look at these Discovery Channel programs and they have white people as the first empire; no, the Bible says the children of Ham were the first ruling empire on the earth after the flood. Before the flood, Cain built the first city.
 - Out of Mizraim came Casluhim, out of whom came Philistim: that is who the Philistines come from. Canaan begat Sidon his firstborn, and Heth: this is Tyre and Zidon that you read about in the Bible.
 
@@ -318,8 +339,6 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - Shall not all these take up a parable against him? Woe to him that increaseth that which is not his: did you forget about Venezuela already? He took Venezuela; he took the oil. Shall they not rise up suddenly that shall bite thee? There are sleeper cells here; the remnants of the nations whose countries were destroyed shall awake and vex them. Because thou hast spoiled many nations, all the remnant of the people shall spoil thee.
 - Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil. Is that not what Nimrod and them were doing? Before we get scattered, let us build a tower and get up to heaven. Today's Babylon has the same characteristics and attributes.
 - Woe to him that buildeth a town with blood, and stablisheth a city by iniquity. America was built with blood: the schools, the churches, and the courthouses are on the bones and blood of our brothers and sisters. Did not Cain establish a city by iniquity? There is no new thing under the sun.
-- News read in class: NASA and private companies like SpaceX are advancing plans for a permanent human presence on the moon through the Artemis program, and Artemis 2 just launched. You can have your doubting Thomas saying it is all fake; is it fake like the planes you fly on? A clip of Elon Musk was played discussing colonizing Mars. Why does Esau the Edomite want to go to Mars? Because it is the red planet.
-
   Precepts:
   - **[Isaiah 30:8](/bible/isaiah/30#v8)**
     > <sup>[8](/bible/isaiah/30#v8)</sup> Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
@@ -350,6 +369,28 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
     > <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
 
     I will exalt my throne above the stars of God: space travel. I will sit also upon the mount of the congregation, in the sides of the north: that is us, in North America. I will ascend above the heights of the clouds: airplanes. How could that part be true, because you see it, but the verse above it about the stars be fake?
+
+<div class="reading">
+
+Reading from a search on plans to colonize the moon · read by Captain Yuri  *[[1:15:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4546s)]*
+
+> Plans to colonize the moon. NASA and private companies like SpaceX are advancing plans for a permanent human presence on the moon, aiming for sustained exploration by the late 2020s through the Artemis program.
+
+- In case you didn't know, they just sent up Artemis 2 day before yesterday. They just sent it up there. Now you can have your doubting Thomas: Oh, it's not real. It's fake. So, is it fake like the plane y'all fly on? Like the helicopters you see?
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on Mars · read by Captain Yuri  *[[1:18:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4680s)]*
+
+> Mars, the red planet, is the fourth planet from the sun. Known for its reddish, rusty surface and cold desert-like conditions, though evidence suggests it once had liquid water in a thicker atmosphere.
+
+- Now, I wonder why Esau the Edomite wants to go to Mars. Because it's the what kind of planet, brothers? The red planet.
+
+</div>
+
+- A clip of Elon Musk was played discussing colonizing Mars. So, he's talking about establishing something on the planet Mars.
 
 **[Numbers 24:1-25](/bible/numbers/24#v1)**  *[[1:19:47](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4787s)]*
 
@@ -439,7 +480,20 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
 - In the latter time of their kingdom: scholars like to keep it back with Antiochus Epiphanes, but it goes beyond Antiochus. A king of fierce countenance, and understanding dark sentences, shall stand up: just like Balaam, in the last days there are certain people and administrations who understand dark sentences in the Bible, and use prophecy itself to justify destroying Iran and the Arabs.
 - His power shall be mighty, but not by his own power: Satan gave him the insight, just like Balaam. And he shall destroy wonderfully, and shall destroy the mighty and the holy people: we are the mighty and holy people, and we have already been destroyed. Look at every corner, every strip club, every other prison; you will see our people there.
-- Discussed in class: a documentary on Che Guevara, who left Cuba in 1965 to foment revolutions across Africa and South America, first unsuccessfully in the Congo, later in Bolivia where he was captured and executed. He said he had success wherever he went except among our people in the Congo, who could not work together. There is an evil spirit on us where we cannot organize ourselves well at all without the word of God.
+- You know, I was watching a documentary on Che Guevara. He used to work with Fidel Castro.
+
+<div class="reading">
+
+Reading from a search on Che Guevara and the Congo  *[[1:37:35](https://www.youtube.com/watch?v=JLhHPemmiSk&t=5855s)]*
+
+> Guevara left Cuba in 1965 to ferment continental revolutions across Africa and South America, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed.
+
+- Now in the documentary he talks about the Congo. He says I could not get these people. He said I had success wherever I went except among black people. He said they are the most disloyal, untrustworthy. They cannot work well together. He had to leave the Congo. He said these people, they cannot get along with each other.
+
+- So you and I was sitting there watching it. I said, You know what? Dealing with our people, it is true. Black people, there's a spirit, an evil spirit on us where we cannot work well together. We cannot organize ourselves well at all without the word of God.
+
+</div>
+
 - And he shall magnify himself in his heart: he magnifies himself as the son of God, as God Almighty, as the Jews, as the Christians. And by peace shall destroy many: what did Trump say? I am the president of peace; I am going to bring peace throughout the Middle East. You saw what happened with Iran: they came for the peace talks, and they bombed them. That is Bible prophecy.
 - He shall also stand up against the Prince of princes: that is how you know it is not talking about Antiochus; he shall stand up against Christ. But he shall be broken without hand: it is not going to be a man's hand that breaks him; God is going to break this man with his power.
 
@@ -470,6 +524,32 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - Video played in class on Project Blue Beam: in the 1990s the Canadian journalist Serge Monast claimed that powerful groups were preparing staged events using advanced holographic technology to project giant religious figures or alien ships into the sky, to erase the major religions and unite the nations under a single global faith and totalitarian world government. He died suddenly in December 1996. Watching that video: you see how real the art department's thumbnails look, and Esau has technology we have not seen. If there is war going on and a white Jesus comes out of the sky ending war, you know some people would be gone immediately. That is why Christ kept stressing it: if they say, Behold, he is in the desert, go not forth; behold, he is in the secret chambers, believe it not.
 - For as the lightning cometh out of the east, and shineth even unto the west, so shall also the coming of the Son of man be. When he comes it is going to be like lightning; he is not going to be in any secret chambers.
 
+<div class="reading">
+
+Reading from a search on Serge Monast's death  *[[1:47:42](https://www.youtube.com/watch?v=JLhHPemmiSk&t=6462s)]*
+
+> Serge Monast died on December 5th, 1996 at the age of 51. He passed away in his home in Montreal, Canada from a heart attack shortly after publishing his work on conspiracy theories regarding a new world order in the alleged protocol of Toronto.
+>
+> Key details regarding his death.
+
+- That's it. That's all I wanted.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on Serge Monast  *[[1:48:16](https://www.youtube.com/watch?v=JLhHPemmiSk&t=6496s)]*
+
+> Serge Monast, Blue Beam. Serge Monast (1945 – 5 or 6 December 1996) was a Canadian conspiracy theorist. He is mostly known for his promotion of the Project Blue Beam
+
+- I'm pretty sure they changed the name by now.
+
+> conspiracy theory, which posits a plot to facilitate a totalitarian world government by destroying Abrahamic religions and replacing them with a New Age belief system using futuristic NASA technology and involving a faked alien invasion or fake extraterrestrial encounter meant to deceive nations into uniting under a new world government.
+
+- Forcing the nations to unite under a new world government. So that's all I wanted.
+
+</div>
+
   Precepts:
   - **[Deuteronomy 32:17](/bible/deuteronomy/32#v17)**
     > <sup>[17](/bible/deuteronomy/32#v17)</sup> They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
@@ -494,7 +574,16 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 >
 > <sup>[14](/bible/revelation/16#v14)</sup> For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 
-- The sixth angel poured out his vial upon the great river Euphrates, and the water thereof was dried up, that the way of the kings of the east might be prepared. Photos and a news article were shown of parts of the Euphrates river drying up already. Best believe we are in Bible times.
+- The sixth angel poured out his vial upon the great river Euphrates, and the water thereof was dried up, that the way of the kings of the east might be prepared. Photos were shown of parts of the Euphrates river drying up already. Best believe we are in Bible times.
+
+<div class="reading">
+
+Reading from a news article on the Euphrates  *[[1:53:30](https://www.youtube.com/watch?v=JLhHPemmiSk&t=6810s)]*
+
+> River Euphrates drying up: How Islam predicted this catastrophe.
+
+</div>
+
 - Three unclean spirits like frogs: write this down. Out of the mouth of the dragon: politics. Out of the mouth of the beast: economics. Out of the mouth of the false prophet: religion, Christianity. They are the spirits of devils, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty: meaning Armageddon. The three reasons all nations will fight are political reasons, economics, and religion.
 
 **[Matthew 12:24](/bible/matthew/12#v24)**  *[[1:57:28](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7048s)]*
@@ -516,9 +605,30 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 - In the ways hast thou sat for them, as the Arabian in the wilderness. When did we sit for the Arabians in the wilderness? Around the time of Muhammad, when they went on a venture to conquer and enforce Islam on our people throughout North Africa. That is why the bulk of North Africa is Arab and Muslim today.
 - Thou hast polluted the land with thy whoredoms and with thy wickedness: when they forced Islam on us, we went back and forced Islam on our people too. Go throughout Africa and ask: how did you become Muslim? I do not know; my great grandparents were Muslim. Do you know the story of Muhammad? No.
 - Thou hadst a whore's forehead, thou refusedst to be ashamed: images were shown of the dark prayer mark on the forehead from bowing with the forehead to the ground.
-- Shown in class: the first known photograph of the Kaaba, taken in 1861, and old Mecca, run down; then they started to work with America on oil and got paid, and now look at Mecca today. People from all around the world come to kiss the black stone, and the Islamic ruling read in class says plainly that kissing the black stone is an act of worship.
+
+<div class="reading">
+
+Reading from an on-screen caption on old Mecca  *[[2:05:12](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7512s)]*
+
+> The first known photograph of the Kaaba was taken in 1861 by Muhammad Sadiq Bey, an Ottoman Egyptian engineer and photographer.
+
+- That's how Mecca used to look. Look at that. Run down, raggedy. But then something amazing happened. They started to work with America with oil and got paid. Now look at Mecca today. People from all over the world say how beautiful that thing is.
+
+- And then the Kaaba. People from all around want to kiss the black stone.
+
+</div>
+
+<div class="reading">
+
+Reading from a search on the Kaaba  *[[2:06:20](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7580s)]*
+
+> The Hajar al-Aswad (black stone) is a sacred, broken and dark-colored stone embedded in the eastern corner of the Kaaba in Mecca, revered by Muslims as a relic from heaven.
+
+- That's all I wanted.
+
+</div>
+
 - Video played in class on Muhammad and slavery: Muhammad participated in slavery as a slave owner, slave trader, and regulator. In 2003 a senior Saudi cleric stated that slavery is a part of Islam and part of jihad. In the language of the Arabs all black peoples are called abid, plural for slaves. A minimum of 28 million Africans were enslaved in the Muslim Middle East, and since at least 80 percent of those captured died before reaching the slave markets, the death toll from 1400 years of the Arab slave trade into Africa could be as high as 112 million. Muhammad mocked Bilal, the Ethiopian who called the adhan, and traded two black slaves for one Arab.
-- News shown in class: Naima Jamal, an Ethiopian woman held and auctioned as a slave in Libya; an Al Jazeera report on migrants sold in Libya for as little as a few hundred dollars; an article on how the EU's migration policies directly resulted in slavery conditions in Libya, because the white man destabilizes the countries and then allows the Arabs to sell, so they are all complicit; and a survey of Arab countries where open slave auctions and the kafala system continue, with Saudi Arabia ranked highest in prevalence of modern slavery. That is where Mecca is. Your fellow Arab Muslims are selling our people on open slave markets, and you are trying to convince us to become Muslims.
 
   Precepts:
   - **[Jeremiah 2:27-28](/bible/jeremiah/2#v27)**
@@ -532,17 +642,278 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 
     Ye shall make you no idols nor graven image, neither shall ye set up any image of stone in your land, to bow down unto it. This is what our people do: we go all the way to Mecca to kiss a rock.
 
+<div class="reading">
+
+Reading from an Islamic ruling, "Basic Tenets of Faith" · read by Captain Yuri  *[[2:11:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7906s)]*
+
+> Basic tenets of faith. Summary of answer: Kissing the black stone is an act of worship,
+
+- We don't worship the black stone. Yes, you do.
+
+> in which a Muslim kisses a stone to which he has no connection except worshiping Allah by venerating it and following the Messenger of Allah by doing that.
+
+</div>
+
+<div class="reading">
+
+Reading from a picture caption on Naima Jamal · read by Captain Yuri  *[[2:12:27](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7947s)]*
+
+> Picture of Naima Jamal.
+
+- Look at the men behind her. Broken, no spirit to rise up in sight at all. And some of them are Muslims.
+
+> An Ethiopian woman currently being held and auctioned as a slave in Libya.
+
+</div>
+
+- An Al Jazeera report was played on migrants sold in Libya for as little as a few hundred dollars.
+
+<div class="reading">
+
+Reading from an article on the EU and slavery in Libya  *[[2:15:08](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8108s)]*
+
+> How the EU is responsible for slavery in Libya.
+
+- What the EU does is destabilize the countries. So then they allow the Arabs to sell. So they're all complicit.
+
+> The migration policies of the European Union have directly resulted in slavery conditions for migrants in Libya.
+
+</div>
+
+<div class="reading">
+
+Reading from a page on what Arab countries are still selling slaves · read by Captain Yuri  *[[2:16:08](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8168s)]*
+
+> What Arab countries are still selling slaves? While traditional cattle slavery is officially illegal in every Arab country, modern slavery, which includes human trafficking, forced labor, and the selling of workers' contracts, remains a widespread issue. In some conflict-affected or unstable regions, reports of open slave auctions and the literal selling of human beings have emerged in recent years.
+>
+> Countries with reported slave markets or auctions. In regions with significant political instability, literal buying and selling of people has been documented. Libya: following the 2011 collapse of the government, Libya became a major transit point for African migrants. Reports from the United Nations and investigative outlets like CNN have documented open-air slave auctions where migrants are sold for labor or sexual exploitation for as little as $400.
+>
+> Iraq and Syria: during the height of the Islamic State (ISIS) conflict, the group established a formal infrastructure for selling enslaved women and children, particularly from the Yazidi minority. While the caliphate has fallen, the legacy of this trade and the disappearance of thousands of victims remain ongoing issues.
+>
+> Modern slavery and contract selling (kafala system). In many wealthier Arab nations, slavery-like practices occur through kafala sponsorship system. This system legally ties a migrant worker to their employer, often leading to situations where workers are sold online. Saudi Arabia: ranked by the Global Slavery Index as having the highest prevalence of modern slavery
+
+- Damn, that's where Mecca is.
+
+> in the region, 21.3 per 10,000 people. Investigations have found domestic workers being sold and traded on apps like Instagram and Haraj.
+
+> Kuwait: reports have identified an online slave market where employers sell the sponsorship of domestic workers to others for a profit, bypassing official agencies and creating a black market for human labor. United Arab Emirates (UAE): the UAE has the second highest prevalence in the region. While the government has implemented reforms, domestic workers are still reportedly sold by recruitment agents into exploitative conditions.
+>
+> Countries with deep historical …
+
+- No, I don't want to read all this. You got Mauritania, Sudan, Yemen.
+
+- So that's why I have such a disdain when black Muslims try to come against the Israelites. Your fellow Arab Muslims are selling our people, black people, on open slave markets, and you're trying to convince us to become Muslims. You brothers and some of you sisters are insane in the membrane. Y'all are crazy.
+
+</div>
+
 **[Acts 15:5](/bible/acts/15#v5)**  *[[2:19:58](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8398s)]*
 
 > <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
 
 - There rose up certain of the sect of the Pharisees which believed. The modern day Pharisees: you have some of our people who follow the religion called Judaism.
-- News read in class from The Times of Israel: the Sephardic chief rabbi of Israel called black people monkeys during his weekly sermon, using a pejorative term for African Americans. That is the religion you want to join?
-- News read in class from The Times of Israel: Ethiopian women who moved to Israel claimed Israeli officials coerced them to receive injections of Depo Provera, a long acting birth control drug, as a prerequisite to immigration. Before you get in the country, you take the shot so you cannot have babies.
+
+<div class="reading">
+
+Reading from *The Times of Israel*  *[[2:20:33](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8433s)]*
+
+> Chief Rabbi calls black people monkeys.
+
+- Wow. When you want to join Islam, I mean Judaism.
+
+> Rabbi Yitzhak Yosef uses pejorative term cushi for African Americans in weekly sermon.
+
+- Wow. That's him right there. That's him.
+
+> The Sephardic chief rabbi of Israel called black people monkeys during his weekly sermon on Saturday evening.
+>
+> Rabbi Yitzhak Yosef was addressing Jewish legal aspect of the blessings on seeing fruit trees blossoming during the current Hebrew month of …
+
+- That's it. I just want to show y'all.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Times of Israel*  *[[2:21:26](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8486s)]*
+
+> Ethiopian women claim Israel forced them to use birth control before letting them immigrate.
+>
+> Immigration Ministry and Joint Distribution Committee reject allegations as nonsense.
+
+- They were using sterilization to allow them to come and stay in the country.
+
+> Ethiopian women who moved to Israel eight years ago claimed Israeli officials coerced them to receive injections of Depo-Provera, a long-acting birth control drug, as a prerequisite to immigration.
+
+- See that? Prerequisite to immigration. Before you get in this country you got to take this shot so you can't have no babies.
+
+</div>
+
 - Our foolish brothers with the prayer shawls and the box on the head: everything he has on is from the Khazars of eastern Europe; it has nothing to do with the Bible.
 - Video played in class on the Talmud's claim that Jesus is boiling in excrement: even their own apologists admit the Talmud passage describes Yeshu in the afterlife this way, and many identify that Yeshu as Jesus. You want to join that religion?
-- Book read in class: The Jewish Onslaught by Professor Tony Martin of Wellesley College. In 1993 Jewish organizations called for his dismissal from his tenured professorship because he included readings on Jewish involvement in the African slave trade in his survey course on African American history. The book documents: their desire to censor education and their control of Congress through AIPAC; the ADL boasting of influence on legislators and training of police departments; Marcus Garvey in 1928 calling the white NAACP leadership spies for the rest of the white race; Stanley Levison drafting Martin Luther King Jr.'s speeches; Israel's nuclear collaboration and weapons trade with apartheid South Africa, whose Jewish community were beneficiaries of apartheid; European Jewish scholars admitting Jews played an active and strong role in the African slave trade, owning the ships, financing the voyages, and operating the auction blocks; and Koestler's The Thirteenth Tribe, by a European Jewish author, terming the current Jews passing themselves off as descendants of the biblical Hebrews one of the biggest frauds in history, having converted to Judaism in the 8th century. Michael Bradley's The Chosen People of the Caucasus sheds more light on the issue.
+
+<div class="reading">
+
+Reading from *The Jewish Onslaught: Dispatches from the Wellesley Battlefront* by Tony Martin, the cover and back cover · read by Captain Yuri  *[[2:24:36](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8676s)]*
+
+> Tony Martin. The Jewish Onslaught.
+
+- If y'all don't have this book, it's a good book. Good book to read.
+
+> Dispatches from the Wellesley Battlefront.
+
+> Black Studies. Black-Jewish Relations. The Jewish Onslaught: Dispatches from the Wellesley Battlefront. The Jewish attack on black progress reached Wellesley College in 1993 when more Jewish organizations than you could shake a stick at issued a call for the dismissal of Dr. Tony Martin from his tenure professorship at the elite women's college.
+
+- So at the college he was doing research on the slave trade and discovered that these so-called Jews had a hand in our slavery. So they wanted him terminated. They wanted him fired. If they could have got him hung by a tree, they would have hung him.
+
+- Leonard Jeffries. They did that too also.
+
+> Martin, one of the school's most senior, best known, and most widely published scholars, suddenly found himself the target of a hysterical campaign of Jewish lies, distortions, and half-truths spread around the country and internationally by the major media. His crime? He had included less than one day's worth of readings on Jewish involvement in the African slave trade in his survey course on African-American history.
+
+- So, they didn't want him teaching that. They said that's anti-Semitic, to teach that we helped in slavery. They did sell us in slavery. They owned us during the time of slavery.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Jewish Onslaught: Dispatches from the Wellesley Battlefront* by Tony Martin, inside the book  *[[2:26:23](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8783s)]*
+
+> Black solidarity. The solidarity and support of the African-American population has been very gratifying. If out of evil cometh good, then the Jewish onslaught has had its unintended results. Defense against Jewish extremism has brought together nationalists and socialists, middle and working classes, faculty and students.
+
+> What also adds up is these powerful Jewish groups' desire to censor education. They already control Congress through AIPAC, the American Israel Public Affairs Committee, seeing to it that no congressman survives who votes against Israeli interest.
+
+- Don't we see that today? That's going on today. That was in the '90s. He revealed it. And this is why they wanted him terminated. They wanted him fired. They wanted him destroyed.
+
+> Since there is hardly an African-American individual or organization left who has not been labeled anti-Semitic by Jews and their two or three black surrogates, the logic of the ADL position
+
+- ADL is the Anti-Defamation League, by Jonathan Greenblatt.
+
+> The logic of the ADL position becomes clear in all its dangerous paranoia.
+
+- Dangerous paranoia they got.
+
+> The entire African-American population has now become fair game to have their post office boxes accessed, Department of Motor Vehicles information divulged and confidential police files shared with the ADL. The fact that the ADL boasts of its influence on legislators, for example, re the passage of hate crime legislation modeled on ADL drafts, and on their training of police departments, only compounds the problem. For if the ADL and its fellow Jewish organizations have been or will be able to communicate to such influential bodies their paranoid and hateful conception of hate crimes and bigotry, then the fallout could be grim indeed. In a worst case scenario, a Jewish McCarthy might arise who would deprive of a livelihood, or worse, any academic who believes that Jews played an important role in African slavery, which they most assuredly did.
+
+> Marcus Garvey lived up to his reputation as a prophet when in 1928 he called the white NAACP leadership spies for the rest of the white race. He earlier said of Spingarn and the others, The greatest enemies of the Negro race are among those who hypocritically profess love and fellowship for him,
+
+- Cuz that's what they do. They profess love and fellowship but they are spies. This is why they wanted him fired. They wanted him terminated.
+
+> when in truth and deep down in their hearts, they despise and hate him.
+
+- They despise and hate black people. That's what he's saying.
+
+> Pseudo-philanthropists and their organizations are killing the Negro. White men and women are the Moorfield Storey, Joel Spingarn, Julius Rosenwald, Oswald Garrison Villard, Congressman Dyer, and Mary White Ovington type are disarming, disvisioning, … and fooling the Negro to death. They teach the Negro to look at the whites in a false direction, at the same time distracting the Negro from the real solution and objective of securing nationalism.
+
+- They don't want black people to be nationalists, meaning organize amongst ourselves. They said, No, well, you got to be with us. You know, I got to see what you're doing. I got to know what you're writing. You ever notice two black people talking? What you talking about? They always do that.
+
+> using his perch as president of the NAACP to spy for military intelligence, to Stanley Levison drafting Martin Luther King Jr. speeches,
+
+- You could Google it. You could fact check it. Stanley Levison did help Martin Luther King write the famous I Have a Dream speech. That was Amalek, right?
+
+> the incessant liberal monitoring of black activity was no less oppressive, if even more sophisticated, than during the era of slavery.
+
+- Right. Because now they make believe they're friends.
+
+> On June 21st, 1990, the ABC television program Nightline aired a special New York town meeting with the ANC's Nelson Mandela, recently released from 27 years in prison and on a triumphant tour of the United States. Israel's nuclear collaboration with South Africa and its sanctions-defying diamond and weapons trade with the white supremacist apartheid state were by then well known. So was the fact that South Africa's Jews, beneficiaries of apartheid,
+
+- They benefit from apartheid.
+
+> were the world's richest community and the world's highest per capita contributors to Israel.
+
+- So you see that he's talking about what's going on, what's happening in Israel today. It was back in the '90s too. Black people, smarter black people understood this. Those so-called Jewish people in South Africa were beneficiaries of South Africa. Damn.
+
+> It must be a terribly bitter pill to swallow for these so-called European Jews. I have never heard them substantiate their charge of anti-Semitism, be it against you, Dr. Leonard Jeffries, Dr. Yosef Ben-Jochannan, Dr. John Henrik Clarke, or even Louis Farrakhan. European Jewish scholars admit that the Jews played an active and strong role in the African slave trade. They were involved in all facets of slavery involving Africans. They owned the ships, financed the slave hunting voyages, controlled and operated the slave auction blocks on the east coast of the United States, brought Africans, raped African women, etc. The evidence against the Jews is overwhelmingly conclusive. The dean of the college, Nancy Kolodny, was quoted as saying that you have the right to use the book even though it is quote unquote hateful.
+
+- They always use the word hateful when you're telling the truth. The book is revealing all the nations that was involved in the slave trade. They call that hateful. Not the act of slavery, but you revealing the truth. That's hateful. How you going to tell people what we did? That's hateful.
+
+> What is hateful about the book? Africans are anti-Semitic when we wake up to the major fraud that was perpetrated against our people?
+
+- When you wake up to the truth, they say you're anti-Semitic cuz you know the truth.
+
+> From the Spingarn brothers of the NAACP to the present day, Jews have always tried to pass themselves off as a paternal benefactors for African people.
+
+- We always helped you. We always love you. That's what they do.
+
+> White women and Jews were the ones who benefited from the civil rights movement of the 60s. What you are doing has nothing to do with hatred or anti-Semitism. The European Jews are not the original Semites of biblical history in the first place. They converted
+
+- Wait, wait, wait. We got to hear this one clear.
+
+> They converted to Judaism in the 8th century, according to author Koestler, who is a European Jew and the author of the book The Thirteenth Tribe. Koestler termed the current Jews passing themselves off as descendants of the biblical Hebrews as one of the biggest frauds in history. Michael Bradley's book, The Chosen People of the Caucasus, shed more light on the issue.
+
+- And that's the book, The Chosen People of the Caucasus. Once I read this book, I had to get these books he referenced.
+
+</div>
+
 - Video shown in class: a man made himself vomit on a black woman sitting in protest, and another struck her with a bottle. You have to imagine how much hate was stirred up in him; she thought she was accepted and loved.
+
+- Video played in class from Dr. John Henrik Clarke: the very first country mentioned in the Bible is Ethiopia, in Genesis 2:13. Europe is not mentioned in the Bible until the very end. When Jesus Christ was in trouble, it was to Africa his mother took him. He never saw Europe; his disciples never saw Europe. It took 400 years after his death for Christianity to be consolidated in Europe; the first church and the first monastery in the world were in Africa, and St. Augustine was an African. The one color Christ definitely could not be is white: the Bible says he had hair like the wool of a lamb. That white Jesus hanging everywhere is nothing but the uncle of the artist who painted the picture.
+
+<div class="reading">
+
+Reading from *The Critical Review, or Annals of Literature* by a Society of Gentlemen, volume the 57th, written in 1783  *[[2:38:54](https://www.youtube.com/watch?v=JLhHPemmiSk&t=9534s)]*
+
+> Pope Nicholas V, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards, expressly permitted and ordered the Christians to reduce all infidels into slavery,
+
+- This is the beginning of the transatlantic slave trade.
+
+> an order zealously executed by both these nations.
+
+- Now remember, the sub-Sahara slave trade or the Arab slave trade predated this.
+
+> Professor Sprengel divides the history of the negro trade carried on by Christians into two principal periods: the first from 1443 to 1645, and the second from 1645 to the present times. The first period is the time of its increase, during which not only its founders, the Portuguese, but the English, the Dutch, and the French dealt in negro slaves, though chiefly for the use and consumption of the Spaniards and the sugar and tobacco plantation in the Brazils. During the latter period, these four nations were obliged to share that trade with the Swedes, the Danes, the Brandenburgers, the North Americans,
+
+- That's America.
+
+> and since 1778 with the Spaniards.
+
+- That's all I wanted.
+
+</div>
+
+<div class="reading">
+
+Reading from the next book shown, on the Portuguese in Africa  *[[2:40:45](https://www.youtube.com/watch?v=JLhHPemmiSk&t=9645s)]*
+
+> The discovery of the Gold Coast served indeed yet more to enlarge the sphere of the navigation of the Portuguese than their slave trade. But it forced them also to extend themselves on the coast and to settle colonies in Congo, Angola, and other places, which they had till then neglected.
+
+- So they settled colonies in Congo, Angola, and other places in Africa.
+
+> Prince Henry's colonies were enlarged by his successors. King John II in 1492 expelled all the Jews to the island of St. Thomas,
+
+- St. Thomas is in Africa, right off the coast. So the Jews sent to Africa were blacks.
+
+> which had been discovered in 1471, and to other Portuguese settlements on the continent of Africa. And from these banished Jews, the black Portuguese, as they are called, and the Jews in Loango,
+
+- And the Jews in Loango, that's in Africa.
+
+> who are despised even by the very Negroes, are descended.
+
+- So this book reveals that the Africans being traded and sold were Jews. Everybody see that?
+
+</div>
+
+<div class="reading">
+
+Reading from *The Rise of Christendom*, written in 1890 by Edwin Johnson  *[[2:42:09](https://www.youtube.com/watch?v=JLhHPemmiSk&t=9729s)]*
+
+> Again, Idumean is used for Jewish.
+
+- So in this book, they use Idumean for the word Jews. Deacon Eythan brought this out, I believe it was … last week.
+
+> In the phrase Idumea Syrophoenix incola.
+
+- Now y'all see that, Idumea. So Idumea refers to Jewish people. Then he write, it has here, Syrophoenix. Remember the woman from Syro, the Syrophoenician woman? She was a white woman. That was a white woman.
+
+> And he also is made to use the word Idumean as equivalent to Jewish. Titus with his father merited an Idumean triumph.
+
+- Remember, Idumean is the Greek word for Edom.
+
+> There is the curious notice of R. Benjamin of Tudela, which describes rabbins as forming part of the suite of the Pope.
+
+- Give me some pictures of the pope. And this one is an American pope. They call him Leo. That's the damn devil. That's him right there. The head of the Edomite religion is the Pope.
+
+</div>
+
+- Video played in class touring the Abrahamic Family House in the UAE: a church, a mosque, and a synagogue standing side by side, opened in 2023 to honor the shared values of Islam, Christianity, and Judaism. One thing all three of those religions have in common: they enslaved and destroyed our people. And now they are all trying to get together; it goes right back to what Nimrod did, trying to bring everybody together as one.
 
 **[Mark 4:16-17](/bible/mark/4#v16)**  *[[2:46:36](https://www.youtube.com/watch?v=JLhHPemmiSk&t=9996s)]*
 
@@ -551,12 +922,6 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 > <sup>[17](/bible/mark/4#v17)</sup> And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
 
 - Now to Christianity. These are they which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness, and have no root in themselves. Afterward, when affliction or persecution ariseth for the word's sake, for teaching the gospel and living the gospel, immediately they are offended.
-- Video played in class from Dr. John Henrik Clarke: the very first country mentioned in the Bible is Ethiopia, in Genesis 2:13. Europe is not mentioned in the Bible until the very end. When Jesus Christ was in trouble, it was to Africa his mother took him. He never saw Europe; his disciples never saw Europe. It took 400 years after his death for Christianity to be consolidated in Europe; the first church and the first monastery in the world were in Africa, and St. Augustine was an African. The one color Christ definitely could not be is white: the Bible says he had hair like the wool of a lamb. That white Jesus hanging everywhere is nothing but the uncle of the artist who painted the picture.
-- Book read in class: The Critical Review, or Annals of Literature, volume 57, written in 1783: Pope Nicholas V, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards, expressly permitted and ordered the Christians to reduce all infidels into slavery, an order zealously executed by both these nations. This is the beginning of the transatlantic slave trade; the Arab slave trade predated this. The history of the negro trade carried on by Christians divides into two periods, from 1443 to 1645 and from 1645 to the present times, with the Portuguese, English, Dutch, French, and later the Swedes, Danes, Brandenburgers, and North Americans all dealing in slaves.
-- The same book records that King John II in 1492 expelled all the Jews to the island of St. Thomas, off the coast of Africa, and to other Portuguese settlements on the continent of Africa, and that from these banished Jews the black Portuguese, as they are called, and the Jews in Loango are descended. So this book reveals that the Africans being traded and sold were Jews.
-- Book read in class: The Rise of Christendom, written in 1890 by Edwin Johnson: the word Idumean, the Greek word for Edom, is used as equivalent to Jewish. And there is the curious notice of Benjamin of Tudela which describes rabbins as forming part of the suite of the pope. The head of the Edomite religion is the pope; pictures of the popes were shown, including the American pope they call Leo.
-- Video played in class touring the Abrahamic Family House in the UAE: a church, a mosque, and a synagogue standing side by side, opened in 2023 to honor the shared values of Islam, Christianity, and Judaism. One thing all three of those religions have in common: they enslaved and destroyed our people. And now they are all trying to get together; it goes right back to what Nimrod did, trying to bring everybody together as one.
-
   Precepts:
   - **[Matthew 24:9-10](/bible/matthew/24#v9)**
     > <sup>[9](/bible/matthew/24#v9)</sup> Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.
@@ -638,8 +1003,51 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
 > <sup>[27](/bible/wisdom-of-solomon/14#v27)</sup> For the worshipping of idols not to be named is the beginning, the cause, and the end, of all evil.
 
 - The devising of idols was the beginning of spiritual fornication, and the invention of them the corruption of life. For neither were they from the beginning, neither shall they be for ever: these idols shall come shortly to an end.
-- For a father afflicted with untimely mourning, when he hath made an image of his child soon taken away, now honoured him as a god. That is what happened with Nimrod and Tammuz, and it is very similar with Caesar Borgia. Definitions read in class: Nimrod, Osiris, Julius Caesar, Alexander the Great, and Hercules were all worshiped as gods after their deaths.
-- Read in class: Pope Alexander VI died in August 1503, before his son Caesar Borgia, who was eventually killed in a skirmish in Spain in 1507. It was the father's instruction to use his son's image as the white Jesus. From The Tale of the Borgia Pope by John Bond: it is an open secret that Caesar Borgia, the son of Pope Alexander, had posed for the bust of the Savior. So all the world started to worship him as God.
+- For a father afflicted with untimely mourning, when he hath made an image of his child soon taken away, now honoured him as a god. That is what happened with Nimrod and Tammuz, and it is very similar with Caesar Borgia.
+
+<div class="reading">
+
+Reading from an on-screen list of men worshiped as gods after their deaths · read by Captain Yuri  *[[2:57:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10620s)]*
+
+> Nimrod: according to some interpretations, he is considered a figure who was worshiped after his death as a god, particularly in certain ancient Near Eastern cultures.
+>
+> Osiris: in Egyptian mythology, Osiris was the god of the afterlife, and he was often represented … practices after his death, symbolizing resurrection and worship.
+>
+> Julius Caesar: after his assassination, he was deified by the Roman Senate, becoming a central figure of worship among his followers.
+>
+> Alexander the Great: some cultures and regions honored him as a god after his death, leading to various practices and rituals in his name.
+>
+> Hercules: in Greek mythology, Hercules was worshiped as a god after his death, with various altars and sacrifices made in his honor.
+
+</div>
+
+<div class="reading">
+
+Reading from a search on Pope Alexander VI and Caesar Borgia  *[[2:58:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10680s)]*
+
+> Pope Alexander VI died before his son Caesar Borgia. Alexander VI died on August 18th, 1503, which caused the rapid collapse of the family's power. Caesar, who was ill at the time of his father's death, survived for several more years, eventually dying in battle in Spain in March 1507.
+>
+> Pope Alexander VI (Rodrigo Borgia) died August 18, 1503, likely of malaria, plunging his son's political career into chaos. Caesar Borgia survived his father but lost his power in territories, eventually being killed in a skirmish at Viana, Spain in 1507.
+
+- So Caesar Borgia is the one they set up as Christ.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Pillory: The Tale of the Borgia Pope in Nine Crowded Chapters* by John Bond  *[[3:00:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10800s)]*
+
+> Bust of the Savior posed for by Caesar Borgia.
+
+- So all the world started to worship him as God, the son of God.
+
+> It is an open secret that Caesar Borgia, the son of Pope Alexander, had posed for it.
+
+- Yep, that's him. That's Caesar Borgia.
+
+</div>
+
+- I just want y'all to be aware that the father died before Caesar, but it was the father's instruction to use his son as white Jesus.
 - Thus in process of time an ungodly custom grown strong was kept as a law, and graven images were worshipped by the commandments of kings: images of that white Jesus are in Brazil, New York, Mexico, you name it. They took the counterfeit of his visage from far off and made an express image of a king whom they honoured.
 - For the worshipping of idols not to be named is the beginning, the cause, and the end, of all evil. Why does it say beginning? It goes back to Adam and Eve: their sin was idolatry. Christianity is an idolatrous religion.
 
@@ -670,7 +1078,7 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
   - **[Exodus 13:4](/bible/exodus/13#v4)**
     > <sup>[4](/bible/exodus/13#v4)</sup> This day came ye out in the month Abib.
 
-    This day came ye out in the month Abib. Abib is the first month of the ancient Hebrew calendar, corresponding to parts of March and April; the word literally means ear of grain, when the barley is ripe but still soft, marking the start of the spring harvest. So when you see Israelites celebrating Passover in the winter, they do not know what they are talking about. They changed the new year from spring to the dead of winter; that is what God is warning us about in Daniel 7:25.
+    This day came ye out in the month Abib. They changed the new year from spring to the dead of winter; that is what God is warning us about in Daniel 7:25.
   - **[John 11:9](/bible/john/11#v9)**
     > <sup>[9](/bible/john/11#v9)</sup> Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.
 
@@ -686,7 +1094,71 @@ Today's lesson is entitled Religion: The False Prophet. The class opens in Eccle
   - **[Revelation 13:12](/bible/revelation/13#v12)**
     > <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 
-    He causeth the earth and them which dwell therein to worship the first beast: the first beast was Rome. Nobody worships Rome? Really? Read in class: Sunday is the sun, Monday the moon, Tuesday Mars, Wednesday Mercury, Thursday Jupiter, Friday Venus, Saturday Saturn. And the months: January for Janus, February for Februalia, March for Mars, April from aperire, May for Maia, June for Juno, July for Julius Caesar, August for Augustus, and September through December from the Roman numbers seven through ten. Our lives run on Roman time; that is worshiping the first beast.
+    He causeth the earth and them which dwell therein to worship the first beast: the first beast was Rome. Nobody worships Rome? Really?
+
+<div class="reading">
+
+Reading from a search on Abib  *[[3:06:33](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11193s)]*
+
+> Abib is the name of the first month in the ancient Hebrew calendar, generally corresponding to parts of March and April
+
+- So it's the end of March to the beginning of April.
+
+> in the modern Gregorian calendar.
+
+- So that's the spring season.
+
+> Definition and etymology. The word stems from Hebrew and literally means ear of grain, young green ears or sprouting. It refers to the stage of growth when barley is ripe but still soft, marking the start of the spring harvest season.
+
+- So when you see Israelites celebrating Passover in the winter, they don't know what the hell they talking about.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen chart of the days of the week · read by Captain Yuri  *[[3:10:34](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11434s)]*
+
+> Sunday, sun. Monday, moon. Tuesday, Tiw, Mars. Wednesday, Woden, Mercury. Thursday, Thor, Jupiter. Friday, Freya, Venus. Saturday, Saturn, Saturn.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen page, "Origin of Month Names" · read by Captain Yuri  *[[3:10:57](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11457s)]*
+
+> Origin of month names. Our lives run on Roman time. The names of our months are therefore derived from the Roman gods, leaders, festivals, and numbers.
+>
+> January. January is named after the Roman god Janus. As you can see in this print, he had two faces. So, we can see the future in the past.
+
+- That's from Rome.
+
+> February. From the Latin word februa, to cleanse. The Roman calendar month of Februarius was named for Februalia, a festival of purification and atonement that took place during this period.
+>
+> March. March is named after Mars, the Roman god of war. This was a time of year to resume military campaigns that had been interrupted by winter.
+>
+> April. April takes its name from the Latin word aperire, meaning to open, just like flowers do in spring. The Romans called the month Aprilis.
+>
+> May. Named after the Roman goddess Maia, whom oversaw the growth of plants. Maia was considered a nurturer and an earth goddess, which may explain the connection with this springtime month.
+>
+> June. Named for the Roman goddess Juno, patronism marriage and the well-being of women. Also from the Latin word juvenis, young people.
+>
+> July. This month used to be called Quintilis, the Roman word for fifth, as it was the fifth month of the Roman year. It was later changed to July by the ruler of the Roman world, Julius Caesar, after his family name Julius.
+
+- So Julius Caesar changed that.
+
+> August. This month was first called Sextilis, the Roman word for six, as it was the sixth month of the Roman year. It was later changed to August by the emperor Augustus, and he named it after himself.
+>
+> September. September comes from the Latin word septem, meaning seven, because it was the seventh month of the early Roman calendar.
+>
+> October. Its name is derived from octo, Latin for 8, in indication of its position in the early Roman calendar.
+>
+> November. November was the ninth month of the calendar of Romulus, circa 750 BC. November retained its name, from the Latin novem meaning nine, when January and February were added to the Roman calendar.
+>
+> December. It comes from the Latin word decem, meaning 10, because this had been the 10th month of an early Roman calendar.
+
+- So you notice today December is the 12th month. Everybody know December, in the Latin wording from Rome, is telling you that's the 10th month. So this white man, he got a lot to pay for, brothers and sisters. A whole lot. So he changed times.
+
+</div>
 
 **[Revelation 11:11](/bible/revelation/11#v11)**  *[[3:15:05](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11705s)]*
 

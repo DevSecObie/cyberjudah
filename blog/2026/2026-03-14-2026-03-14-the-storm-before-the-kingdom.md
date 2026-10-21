@@ -27,7 +27,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "discipline", "endurance", "m
 - *[[36:09](https://www.youtube.com/watch?v=HXteD06sNrk&t=2169s)]* **A sister explains that the RSF militia in Sudan, accused of genocide against non-Arab populations, is armed by the UAE through shipping routes that Iran's closure of the Strait of Hormuz has now cut off.** — They killed a hundred and sixty girls; they have killed over a hundred million of us and are still killing our people in Sudan with UAE money, and it is not in the news because the victims are black. Nothing is coincidence: through this war our salvation comes, and we do not pray for it to stop.
 - *[[42:30](https://www.youtube.com/watch?v=HXteD06sNrk&t=2550s)]* **A commentator explains that the American empire rests on its military and on the dollar as reserve currency, enforced by bases around the world; Iran has shut the Strait of Hormuz with cheap drones and missiles, the Gulf bases are under attack, the Gulf states cannot get defense missiles from America and are asking Italy, and America is moving systems out of South Korea and Japan.** — Mike Tyson in his prime knocked everyone out until God raised a nobody named Buster Douglas and one punch erased his history. That is America, and the one punch is one black man, Jesus the Christ, in one hour. The Gulf states are learning America cannot protect them and sends their weapons to Israel instead; after this war the Arab countries will unite.
 - *[[57:58](https://www.youtube.com/watch?v=HXteD06sNrk&t=3478s)]* **A March 12, 2026 report on attacks across the United States, including a shooter at Old Dominion University who shouted Allahu Akbar, with warnings that this is just the beginning.** — Yes, there are sleeper cells here as the Bible says, and some of it will be Amalek behind it. September 11 was an inside job that produced the Patriot Act and Homeland Security; America creates chaos to introduce laws. With eighty percent against the war, expect something big here in the coming months to turn the people. Sisters, get off the phone in the parking lot and pay attention to your surroundings.
-- *[[1:20:21](https://www.youtube.com/watch?v=HXteD06sNrk&t=4821s)]* **A table of how long past empires lasted: Assyria 247 years, Persia 208, Greece 231, the Roman Republic 233, the Roman Empire 207, the Arab Empire 246, the Mamluks 267, the Ottomans 250, Spain 250, Romanov Russia 234, Britain 250.** — America turns 250 this July. Do your own history on how long each kingdom lasted before it fell and stop thinking this place goes on forever.
 - *[[1:52:40](https://www.youtube.com/watch?v=HXteD06sNrk&t=6760s)]* **Night footage of missiles streaking across the sky.** — That is what stars falling from heaven looks like. The prophets never saw a missile or an iron dome and described it the best they could; you are the prophets who wrote it, and it is your job to put it together.
 
 ## Scriptures Opened
@@ -174,6 +173,16 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "discipline", "endurance", "m
 
 - What is my reward? That I preach the gospel without charge. Though free from all men, I made myself servant unto all. Bishop Nathanyel is a servant, Bishop Yawasap is a servant, Bishop Canaan is a servant, the deacons are servants; we are here to serve the people and build you up for what is coming.
 
+
+<div class="reading">
+
+Reading from an on-screen chart of how long past empires lasted  *[[1:21:08](https://www.youtube.com/watch?v=HXteD06sNrk&t=4868s)]*
+
+> Assyria, duration 247 years. Persia, 208, Cyrus and his descendants. Greece, 231, Alexander and his successors. Roman Republic, 233 years. Roman Empire, 207. Arab Empire, 246. Mamluk Empire, 267. Ottoman Empire, 250. Spain, 250. Romanov Russia, 234. And Britain, 250.
+
+- Now, we got America. That's it. But, again, what do I know? I barely speak English.
+
+</div>
 
 **[Sirach 5:15](/bible/sirach/5#v15)**  *[[1:25:24](https://www.youtube.com/watch?v=HXteD06sNrk&t=5124s)]*
 
@@ -330,6 +339,16 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "discipline", "endurance", "m
 
     Gold is tried in the fire, and acceptable men in the furnace of adversity. You are that gold; some of you want to be iron or silver. Gold is purified in the fire, and if you will not let the unclean be purged out you cannot have the kingdom. Esau has put you through hell all your life; do not lose the kingdom on top of it by holding on to things from five, twenty, or fifty years ago like a woman bringing up the pineapple when you are talking about the orange. It takes a strong man to take correction; when correction comes, push harder to prove to Messiah you are still in the fight.
 
+
+<div class="reading">
+
+Reading from the definition of *roared*, pulled up in class  *[[2:19:22](https://www.youtube.com/watch?v=HXteD06sNrk&t=8362s)]*
+
+> Utter or express in a loud tone.
+
+- I have roared, crushed, cry, shout, yell.
+
+</div>
 
 **[Sirach 30:21-23](/bible/sirach/30#v21)**  *[[2:26:16](https://www.youtube.com/watch?v=HXteD06sNrk&t=8776s)]*
 
