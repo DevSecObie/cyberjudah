@@ -1,0 +1,383 @@
+---
+title: "THE UNBELIEVING SPOUSE"
+slug: "2018/2018-01-24-the-unbelieving-spouse"
+date: "2018-01-24"
+teacher: "Bishop Nathanyel"
+collection: "The Truth Shall Make You Free · Kente FM Radio"
+description: "The Truth Shall Make You Free · Kente FM Radio · 2018-01-24"
+tags: ["IUIC in the ClassRoom", "faith", "marriage-family", "women"]
+---
+
+<p class="taught">The Truth Shall Make You Free · Kente FM Radio · 2018-01-24 · Bishop Nathanyel</p>
+
+<span class="opens"><b>Opens</b> [1 Cor 7](/bible/1-corinthians/7) · [2 Cor 6](/bible/2-corinthians/6) · [1 Pet 3](/bible/1-peter/3) · [Matt 1](/bible/matthew/1) · [Judg 14](/bible/judges/14) · [Judg 15](/bible/judges/15) · [Tobit 7](/bible/tobit/7) · [Eccl 7](/bible/ecclesiastes/7) · [Deut 21](/bible/deuteronomy/21) · [1 Tim 3](/bible/1-timothy/3) · [Matt 19](/bible/matthew/19) · [Isa 4](/bible/isaiah/4) · [Deut 18](/bible/deuteronomy/18) · [Exod 6](/bible/exodus/6) · [John 1](/bible/john/1) · [Acts 2](/bible/acts/2) · <i>and 3 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="g05iKJxYdyU"></div>
+
+## Introduction
+
+*[[6:55](https://www.youtube.com/watch?v=g05iKJxYdyU&t=415s)]* The topic is the unbelieving spouse and raising teenagers new to the truth. Many times brothers and sisters come to the truth and their spouse does not believe; their spouse is under the spell of white supremacy, white man Jesus, so forth and so on. The Bible does speak on such a situation: there is a passive non-believer and there is an aggressive non-believer.
+
+## Scriptures Opened
+
+**[1 Corinthians 7:12-15](/bible/1-corinthians/7#v12)**  *[[8:15](https://www.youtube.com/watch?v=g05iKJxYdyU&t=495s)]*
+
+> <sup>[12](/bible/1-corinthians/7#v12)</sup> But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.
+>
+> <sup>[13](/bible/1-corinthians/7#v13)</sup> And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.
+>
+> <sup>[14](/bible/1-corinthians/7#v14)</sup> For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy.
+>
+> <sup>[15](/bible/1-corinthians/7#v15)</sup> But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such cases: but God hath called us to peace.
+
+- This is what I call the passive non-believer, which you find in 1st Corinthians 7 and verse 12. 'To the rest speak I, not the Lord' means the Lord allowed Paul to institute this, because there was no laws regarding it.
+
+- This is the spouse that does not believe but is pleased to stay with you. The question that often pops up is: does the non-believer continue breaking God's laws, or do they submit themselves to the will of the believing spouse to do what is written?
+
+- Here's the answer: 'else were your children unclean.' If you have one believer and a non-believer that continues celebrating Christmas, Easter, Thanksgiving, going to clubs, eating pork, you have two different points of view teaching the children. They will be unclean, because they're confused, and turn out to be social deviants.
+
+- 'But now are they holy' means the non-believer, although they don't believe in the Bible, is going to submit themselves to the believing spouse for the sake of the love of the marriage, and they too will submit themselves to … the Sabbath although they don't believe in it. That way the children are single minded; they will be sanctified and holy because they have one train of thought.
+
+- If that unbeliever is so rebellious against what the believer says and decides to leave, let that person go, male or female. A brother or a sister is not under the bondage of marriage in such cases.
+
+- Why does he say God has called us to peace? Because the husband and wife would be fighting in the home. The passive non-believer will submit; the non-believer that will not submit will fight with the believing spouse in the home. Let them go, that way there will be peace in your home.
+
+- **Host:** It is good that you chose this topic, because yesterday we were having a discussion with one of the ladies, and what you are teaching is a classical example. When she came to the truth the unbelieving partner has been causing a lot of trouble, and he has never paid the bride price, so there is a whole lot of confusion. In some cases we need wisdom.
+
+
+**[2 Corinthians 6:14](/bible/2-corinthians/6#v14)**  *[[15:29](https://www.youtube.com/watch?v=g05iKJxYdyU&t=929s)]*
+
+> <sup>[14](/bible/2-corinthians/6#v14)</sup> Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
+
+- Paul gave us another principle to remind us of something, because many times men and women marry for the wrong reasons. A lot of us married for lust, not love; lust and love are two different things.
+
+- Don't be unequally yoked. We marry for sexual reasons, and that alone is going to cause major turmoil in the marriage.
+
+- This sister has a spouse that is causing much problems, so why did she marry him? She didn't get the dowry. He probably had big feet or talked very well and she said, ooh, he … me. Now you got to accept what comes with it. Some women marry for lust and then they get a black eye.
+
+- … It was the parents that was supposed to arrange the marriage; the parents were supposed to examine the potential spouse. But we don't have that today: you have unlearned, ignorant men and women just picking a name out of a hat to get married.
+
+- **Host:** Back home in Ghana, when I married I paid the dowry and everything to the parents. They did a background search on me and our family also did a background search on them. This is the culture we've been practicing before the Europeans came to colonize and brought Christianity and this church wedding.
+
+- **Host:** Today there are some ladies, if you pay the bride price and do the engagement, still want you to do the church wedding, where you sit in the car with your bow tie and your suit. People like that are unbelievers; don't marry people like that. We are the ones practicing the culture in the Bible, but Christianity under the influence of white supremacy has changed a lot of things and is eating into the social fiber of our society.
+
+
+**[1 Peter 3:1-6](/bible/1-peter/3#v1)**  *[[19:06](https://www.youtube.com/watch?v=g05iKJxYdyU&t=1146s)]*
+
+> <sup>[1](/bible/1-peter/3#v1)</sup> Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
+>
+> <sup>[2](/bible/1-peter/3#v2)</sup> While they behold your chaste conversation coupled with fear.
+>
+> <sup>[3](/bible/1-peter/3#v3)</sup> Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;
+>
+> <sup>[4](/bible/1-peter/3#v4)</sup> But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.
+>
+> <sup>[5](/bible/1-peter/3#v5)</sup> For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:
+>
+> <sup>[6](/bible/1-peter/3#v6)</sup> Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
+
+- I often tell married couples, when one comes in a believer and one a non-believer: don't be quick to leave. Give it time. You as the believer should set the example in the home first before you make a rash decision on leaving. Many women are complaining about unbelieving husbands; watch what Peter said to them.
+
+- If any husband obey not the word, because they don't know the scriptures, they also may without the word be won over to the Lord by the conversation of the wives. The believing wife must be a good example first before she decides on leaving.
+
+- Your chaste conversation is your words, your good speech, which is based on scripture; coupled with fear is fear to God by keeping the commandments. So not only is the unbelieving husband hearing the good words of his good wife, he's seeing her good qualities by her keeping the commandments. These are forms of her winning him over to the Lord.
+
+- Peter says to the women, you're not going to win the husband over by your fancy hairstyles, gold or fancy clothes; that's all external. In time we all grow older, the hair is not as fine and nice-looking, the body is not as strong as it once was. Don't win him over by your outward appearance, because that deals with lust; when she gets old he wants the next one, because they married for the wrong reason.
+
+- The hidden man of the heart that Peter is telling these women to have is Christ in them. You cannot corrupt the word of God in your heart and in your mind, but your hair, your physical appearance, your gold, your fancy clothes can be corruptible. That's how you win your husband over.
+
+- Remember Abraham and Sarah argued about Ishmael and Hagar: Sarah wanted them to go, Abraham wanted them to stay. Sarah humbled herself to Abraham, and the Lord went to Abraham and said everything that Sarah said was correct, put Hagar and Ishmael away. Abraham humbled himself because Sarah didn't get belligerent in her speech, cursing him out, calling him outside of his name; she said, okay my lord, and let God deal with it.
+
+- 'Not afraid with any amazement' means sometimes women get afraid and want to leave; Peter says don't be so quick to leave. In America many come in already married, smoking weed, going to strip shows and clubs Friday nights on the Sabbath; when one decides to believe, the other says, when you and me got together we was doing drugs, now you're giving me this Bible stuff. Give them an opportunity to observe you and listen; you must win them over.
+
+- Unless there is violence in this: I understand some women are getting beat up, and I understand why you leave. It's a matter of life and death.
+
+- There was one husband having sex with other women and he got the HIV virus, and the wife called and asked should she have sex with her husband. Are you stupid? You can get put to death behind that. Sometimes the non-believer is doing things in the world that is detriment to the marriage, so the believer must be mindful and be spiritually minded about this.
+
+- **Host:** Here in captivity, how do you contract your marriage? Here in America they allow us to officiate a marriage, which simply means there's documentation that I sign on the married couple's behalf; we may have a wedding feast for you. One family from Ghana did mention the dowry, so the brother had to pay the dowry to the parents of the girl, because the scriptures do mention the dowry. The vast majority of marriages in America, the parents are not even involved in the children's lives.
+
+
+**[Matthew 1:18](/bible/matthew/1#v18)**  *[[28:40](https://www.youtube.com/watch?v=g05iKJxYdyU&t=1720s)]*
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+
+- This is the mistake that many people make with the subject of Joseph and Mary. Most Westerners, in America and particularly in Europe, make the mistake of bringing our dumb, evil Western thoughts into the Bible.
+
+- 'Before they came together': Christians say, oh, that means before they had sex. No, no, no: you must know the customs and laws of Israel. That's why I was mentioning Judges.
+
+
+**[Judges 14:10](/bible/judges/14#v10)**  *[[30:37](https://www.youtube.com/watch?v=g05iKJxYdyU&t=1837s)]*
+
+> <sup>[10](/bible/judges/14#v10)</sup> So his father went down unto the woman: and Samson made there a feast; for so used the young men to do.
+
+- There was always a wedding feast. The custom of Israel was that during the wedding feast there was what's called a wedding chamber: you took your wife into the wedding chamber and consummated the marriage, meaning you had sex.
+
+- Then you took the tokens of virginity, which was the sheets proving she was a virgin because her blood was on it, and gave it to the parents.
+
+
+**[Judges 15:1](/bible/judges/15#v1)**  *[[32:11](https://www.youtube.com/watch?v=g05iKJxYdyU&t=1931s)]*
+
+> <sup>[1](/bible/judges/15#v1)</sup> But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
+
+- Samson had to go kill the Philistines after the riddle, then he came back. There was supposed to be a consummation of the wedding, but the father of the woman had already given her to another man, because he thought Samson didn't want her.
+
+- During the wedding feast there was a wedding chamber, a marriage chamber, waiting to consummate the marriage.
+
+
+**[Tobit 7:13-18](/bible/tobit/7#v13)**  *[[33:03](https://www.youtube.com/watch?v=g05iKJxYdyU&t=1983s)]*
+
+> <sup>[13](/bible/tobit/7#v13)</sup> Then he called his daughter Sara, and she came to her father, and he took her by the hand, and gave her to be wife to Tobias, saying, Behold, take her after the law of Moses, and lead her away to thy father. And he blessed them;
+>
+> <sup>[14](/bible/tobit/7#v14)</sup> And called Edna his wife, and took paper, and did write an instrument of covenants, and sealed it.
+>
+> <sup>[15](/bible/tobit/7#v15)</sup> Then they began to eat.
+>
+> <sup>[16](/bible/tobit/7#v16)</sup> After Raguel called his wife Edna, and said unto her, Sister, prepare another chamber, and bring her in thither.
+>
+> <sup>[17](/bible/tobit/7#v17)</sup> Which when she had done as he had bidden her, she brought her thither: and she wept, and she received the tears of her daughter, and said unto her,
+>
+> <sup>[18](/bible/tobit/7#v18)</sup> Be of good comfort, my daughter; the Lord of heaven and earth give thee joy for this thy sorrow: be of good comfort, my daughter.
+
+- This is the book they took out of the Bible, the Apocrypha. Remember the point I'm showing everyone: we have to put away our Western thinking.
+
+- There was always documentation that you married, because marriage is a contractual union between man and woman.
+
+- This other chamber is called the marriage chamber or wedding chamber, where the husband and the wife have sex to consummate the marriage union.
+
+- During the feast of eating and drinking and partying, the husband and wife entered the wedding chamber to consummate the marriage. That is what the Israelites did during the wedding feast.
+
+
+**[Matthew 1:18-19](/bible/matthew/1#v18)**  *[[35:47](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2147s)]*
+
+> <sup>[18](/bible/matthew/1#v18)</sup> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+>
+> <sup>[19](/bible/matthew/1#v19)</sup> Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.
+
+- Now we have a better understanding of 'before they came together': before the wedding feast, before the consummation in the wedding chamber, they had already had sex.
+
+- Don't confuse the people: she was found with child of the Holy Ghost means she was found with child according to prophecy, because the Holy Ghost sometimes means the written prophecy.
+
+- Let's say you have a daughter you're marrying to me, and I decide to have sex with your daughter before the wedding date that you, the father, gave me, and she's pregnant. Do you know how ashamed I would feel to come before you? You'd be very upset with me. That's how Joseph was.
+
+- **Host:** Immaculate Conception is causing a lot of confusion. People just see that it is the Holy Spirit that put the seed in the womb, like Osiris and Isis.
+
+
+**[Ecclesiastes 7:26](/bible/ecclesiastes/7#v26)**  *[[38:46](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2326s)]*
+
+> <sup>[26](/bible/ecclesiastes/7#v26)</sup> And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
+
+- Many times we have brothers who find themselves married to an aggressive non-believer: she curses him out, she embarrasses him in public, she may even put her hands on him, to let him know she's not obeying no commandments in the Bible. Earlier I used the term passive non-believer; now this is the aggressive.
+
+- Solomon says by the spirit of the Lord, I find more bitter than death the woman. It doesn't mean all women; he describes the type of woman that's more bitter than death.
+
+- Her heart is snares and nets: her mind is always trying to manipulate you, control you. Her hands are bands: she's always trying to trap you up and hit you.
+
+- If you want to please God you shall escape from this type of woman, but the sinner shall be taken by her.
+
+- Like Jezebel and Ahab: she was a controlling, deceitful woman, but Ahab was very passive, very weak minded, and anything his wife said he did. That's how he got put to death.
+
+
+**[Deuteronomy 21:15-17](/bible/deuteronomy/21#v15)**  *[[40:59](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2459s)]*
+
+> <sup>[15](/bible/deuteronomy/21#v15)</sup> If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:
+>
+> <sup>[16](/bible/deuteronomy/21#v16)</sup> Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:
+>
+> <sup>[17](/bible/deuteronomy/21#v17)</sup> But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his.
+
+- **Host:** I want your interpretation concerning multiple wives. Here I understand that Moses was talking about a person having two wives, so it means that polygamy was being practiced. So how do we compare this to the New Testament times, when Apostle Paul was teaching them to stick to one woman?
+
+- What people often forget is: during the time of Moses, who is the ruling government? Israel was ruling; we were not under any oppression. During the time of Paul the ruling government was the fourth beast, Rome.
+
+- That's what most brothers often forget, or reject and refuse to acknowledge, and it is a heavy point. During the time of Moses we had judges and officers; if you did an injustice to your wife or wives, there was judges in your city at the gate that handled you.
+
+
+**[1 Timothy 3:2](/bible/1-timothy/3#v2)**  *[[43:12](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2592s)]*
+
+> <sup>[2](/bible/1-timothy/3#v2)</sup> A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
+
+- Notice it says a bishop must be the husband of one wife.
+
+  Precepts:
+  - **[1 Timothy 3:12](/bible/1-timothy/3#v12)**
+    > <sup>[12](/bible/1-timothy/3#v12)</sup> Let the deacons be the husbands of one wife, ruling their children and their own houses well.
+
+    Let the deacons be the husband of one wife, ruling their children and their own houses well.
+  - **[Titus 1:6](/bible/titus/1#v6)**
+    > <sup>[6](/bible/titus/1#v6)</sup> If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
+
+    The husband of one wife, having faithful children, not accused of riot or unruly.
+
+
+**[1 Corinthians 7:2](/bible/1-corinthians/7#v2)**  *[[45:37](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2737s)]*
+
+> <sup>[2](/bible/1-corinthians/7#v2)</sup> Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
+
+- What I want you to see is 'let every woman have her own husband.'
+
+- During the time of European domination, under Rome and even up until today, we are instructed that while we are under domination to have one wife.
+
+
+**[Matthew 19:28-29](/bible/matthew/19#v28)**  *[[45:37](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2737s)]*
+
+> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+>
+> <sup>[29](/bible/matthew/19#v29)</sup> And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
+
+- Does that mean that when Christ returns we will only have one? No. Let's examine that promise: what does it mean you shall gain a hundredfold?
+
+- When it talks about brethren: in the kingdom all Israel are brethren, brothers and sisters.
+
+- You receive a hundredfold brothers and sisters, father and mother, because the elders are as your fathers and mothers. But then the question is wife: what does it mean, a hundredfold in terms of a wife? Let's go to the prophecy in Isaiah.
+
+  Precepts:
+  - **[1 Timothy 5:1-2](/bible/1-timothy/5#v1)**
+    > <sup>[1](/bible/1-timothy/5#v1)</sup> Rebuke not an elder, but intreat him as a father; and the younger men as brethren;
+    >
+    > <sup>[2](/bible/1-timothy/5#v2)</sup> The elder women as mothers; the younger as sisters, with all purity.
+
+    Treat the elder as a father, the younger men as brethren, the elder women as mothers, the younger as sisters: that is what the hundredfold father and mother means.
+
+
+**[Isaiah 4:1-2](/bible/isaiah/4#v1)**  *[[49:04](https://www.youtube.com/watch?v=g05iKJxYdyU&t=2944s)]*
+
+> <sup>[1](/bible/isaiah/4#v1)</sup> And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
+>
+> <sup>[2](/bible/isaiah/4#v2)</sup> In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.
+
+- For them that are escaped of Israel: have we escaped yet? No, we are still in captivity. So this promise is when we are escaped, meaning when we are delivered and we're going to be our own charge under the Lord. We're going to go back to having more than one.
+
+- But as of right now, those are the controlling precepts: as long as we are under Roman domination the scriptures say every man have his own wife and every woman have her own husband. That's what brothers have to understand.
+
+- People who made a mistake, maybe having three or four wives, when you come to the truth you have to put them away.
+
+- In America you have poor black men that like having two and three women; they can't even take care of them, they can't even provide for these women. It makes no sense; you guys are crazy, that's lust. Those are not wives that you're dealing with.
+
+- America is so filthy. We have observed and witnessed men having multiple women get involved in too many outrageous sexual escapades, three women in the bed at one time. It's wicked as hell. Some of these women get involved in lesbianism, because when you have two women in the bed at one time it often leads to lesbianism.
+
+- **Host:** A lot of people ask me questions when it comes to marriage. I have one wife, and I want to stick to Timothy.
+
+
+**[Deuteronomy 18:18](/bible/deuteronomy/18#v18)**  *[[53:20](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3200s)]*
+
+> <sup>[18](/bible/deuteronomy/18#v18)</sup> I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
+
+- **Host:** I would like you to come back for further clarification on Matthew chapter 1 verse 18, that Immaculate Conception, because we've had numerous people saying that Christ had no father.
+
+- Notice it says I will raise them up a prophet from among their brethren, meaning one of those Israelites would be the family line that the coming Messiah would come through.
+
+
+**[Matthew 1:1-4](/bible/matthew/1#v1)**  *[[54:22](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3262s)]*
+
+> <sup>[1](/bible/matthew/1#v1)</sup> The book of the generation of Jesus Christ, the son of David, the son of Abraham.
+>
+> <sup>[2](/bible/matthew/1#v2)</sup> Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
+>
+> <sup>[3](/bible/matthew/1#v3)</sup> And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;
+>
+> <sup>[4](/bible/matthew/1#v4)</sup> And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
+
+- Now you see the name Aminadab. That's where we go to Exodus 6:23.
+
+
+**[Exodus 6:23](/bible/exodus/6#v23)**  *[[54:22](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3262s)]*
+
+> <sup>[23](/bible/exodus/6#v23)</sup> And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.
+
+- This is when Aaron, which was of the tribe of Levi, married a daughter of one of the Judahites. What I want your listeners to see is that he married the daughter of Aminadab; Aminadab was a Judahite.
+
+- Remember Deuteronomy 18, I will raise them up a prophet from among their brethren: during the time of Moses it was Aminadab that was chosen. That's why in Matthew 1 verse 4, in Christ's genealogy, it mentions Aminadab.
+
+- What's sad really is people ignore Matthew 1 verses 1 to 17; they disregard all the genealogical background of Jesus Christ. It's giving you his fathers.
+
+- **Host:** Christianity is more like crack cocaine; sometimes we fail to reason. The scripture says come and let us reason.
+
+
+**[John 1:45](/bible/john/1#v45)**  *[[58:15](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3495s)]*
+
+> <sup>[45](/bible/john/1#v45)</sup> Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
+
+- Deuteronomy 18 said Christ would come from one of the brethren of Israel; the brethren made reference to Aminadab of Exodus 6:23; Matthew 1 verse 4 mentions Aminadab in the genealogy of Christ.
+
+- So they're telling you they knew that Christ was the son of Joseph, like it says in Matthew chapter 1 verse 16.
+
+
+**[Matthew 1:16](/bible/matthew/1#v16)**  *[[59:24](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3564s)]*
+
+> <sup>[16](/bible/matthew/1#v16)</sup> And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+
+- Notice it gives you all of Joseph's forefathers: Joseph came from Jacob, which came from Matthan, which came from Eleazar, which came from Eliud, and it goes all the way back to Abraham, showing you that Joseph was of that holy line through Aminadab.
+
+
+**[Acts 2:30](/bible/acts/2#v30)**  *[[59:24](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3564s)]*
+
+> <sup>[30](/bible/acts/2#v30)</sup> Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
+
+- Most people read past the fruit of his loins. His loins is referring to his penis. What is the fruit that comes from the penis? The seed. It's telling you right there.
+
+
+**[Hebrews 2:16-17](/bible/hebrews/2#v16)**  *[[1:00:56](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3656s)]*
+
+> <sup>[16](/bible/hebrews/2#v16)</sup> For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
+>
+> <sup>[17](/bible/hebrews/2#v17)</sup> Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.
+
+- That proves the angels did not come down and impregnate Mary; a spirit did not come down and impregnate Mary. That's why it says he took not on him the nature of angels, but he took on him the seed of Abraham.
+
+- You know what the word seed translates to? Sperm: the sperm of Abraham. Here again Paul is making it plain to all of us.
+
+- Wherefore in all things it behoved him to be made like unto his brethren. How were his brethren made?
+
+
+**[Matthew 13:55-56](/bible/matthew/13#v55)**  *[[1:02:06](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3726s)]*
+
+> <sup>[55](/bible/matthew/13#v55)</sup> Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
+>
+> <sup>[56](/bible/matthew/13#v56)</sup> And his sisters, are they not all with us? Whence then hath this man all these things?
+
+- How was Christ's brethren made? Through sex. Christ had brothers and sisters, and they were made through sex.
+
+- So in Hebrews 2:17, when it says it behoved him to be made like unto his brethren: his brethren were made through sex. Mary and Joseph had sex, sex and more sex; they had baby after baby after baby.
+
+- Christ was the firstborn of Mary, of Joseph. That's what people got to realize.
+
+
+**[Wisdom of Solomon 7:1-6](/bible/wisdom-of-solomon/7#v1)**  *[[1:04:34](https://www.youtube.com/watch?v=g05iKJxYdyU&t=3874s)]*
+
+> <sup>[1](/bible/wisdom-of-solomon/7#v1)</sup> I myself also am a mortal man, like to all, and the offspring of him that was first made of the earth,
+>
+> <sup>[2](/bible/wisdom-of-solomon/7#v2)</sup> And in my mother’s womb was fashioned to be flesh in the time of ten months, being compacted in blood, of the seed of man, and the pleasure that came with sleep.
+>
+> <sup>[3](/bible/wisdom-of-solomon/7#v3)</sup> And when I was born, I drew in the common air, and fell upon the earth, which is of like nature, and the first voice which I uttered was crying, as all others do.
+>
+> <sup>[4](/bible/wisdom-of-solomon/7#v4)</sup> I was nursed in swaddling clothes, and that with cares.
+>
+> <sup>[5](/bible/wisdom-of-solomon/7#v5)</sup> For there is no king that had any other beginning of birth.
+>
+> <sup>[6](/bible/wisdom-of-solomon/7#v6)</sup> For all men have one entrance into life, and the like going out.
+
+- I'm going to go to the Apocrypha and show you something prophetic. This is Solomon speaking.
+
+- All men have one entrance into life and the like going out: we all have to come in by birth and a common death.
+
+- There is no king that came through Immaculate Conception; no man came through Immaculate Conception. That's what he's saying right here. So the Christian lies got to stop.
+
+- **Host:** It's based upon Egyptology, Osiris and Isis. While we were distributing the flyers, a man who said he had been with the Hebrew Israelites for twenty years was making reference to Egypt. He said he believes in the Bible, but he started talking about the 42 laws of Maat; I said you're talking about the Book of the Dead. I have never seen a book on this planet which actually says something about our slavery; only the Bible.
+
+- **Host:** Like the minister of the Nation of Islam: he could not prove his point from his holy book.
+
+
+## In Closing
+
+*[[1:07:24](https://www.youtube.com/watch?v=g05iKJxYdyU&t=4044s)]* To all the Saints: hold fast to what you have. Stay faithful, stay strong, be vigilant and be diligent in the teaching of the gospel. Keep doing it; don't stop. And I pray for brothers and sisters in Libya, and not just Libya: there are slaves in Yemen and Saudi Arabia and in parts of Mauritania; they keep these things secret. And we ask the Lord to destroy our enemies, smite them hardly.
+
+## Announcements & References
+
+- Tune in next week, same time, for the show with Bishop Nathanyel of IUIC.
+- Subscribe to the Join IUIC YouTube channel to stay up to date on all of our videos.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=g05iKJxYdyU)
