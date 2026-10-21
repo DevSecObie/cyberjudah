@@ -21,15 +21,12 @@ Sabbath class from the New York school, taught by Deacon. Happy new moon: the ne
 
 ## In The News
 
-Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830s minstrel character created by white performer Thomas Dartmouth Rice, who wore blackface and performed in a racist stereotyped manner. Rice claimed he modeled the character after a disabled enslaved black man he saw singing and dancing, turning it into a popular mocking minstrel act. The character was used by white society to perpetuate stereotypes of black people as inferior, buffoonish, and unworthy of equal rights. Following the Reconstruction era, Southern governments implemented Jim Crow laws, roughly 1877 to the 1960s, to legally sanction segregation: separate and inferior schools, segregated trains, streetcars and waiting rooms, segregated theaters, parks, pools, restaurants, hotels, water fountains and restrooms, bans on intermarriage, and disenfranchisement laws to prevent black citizens from voting, including poll taxes, literacy tests, and grandfather clauses.
-
-- These were laws; if you broke them you were beaten and put in prison. They said they let us go from slavery, but were we really free? They said they gave us equal rights and citizenship, but did we have equal rights? No. That was the situation until the civil rights era of 1964 and 1965.
 - This week the Supreme Court, in a six to three vote, gutted Section 2 of the Voting Rights Act, the 1965 law on districting that protected black representation. Southern states immediately began redrawing their voting maps.
 - Video played in class on the 2024 election: investigative reporting on a selective purge of over a million black and minority voters from the rolls in swing states like Georgia and Pennsylvania; in Georgia any voter can now challenge an unlimited number of other voters, with 48,000 challenged in Cobb County and over 200,000 challenges statewide by NAACP estimates; a 92 year old cousin of Dr. Martin Luther King Jr. who had voted in Georgia for 50 years was told there was no record of her voting at all. First they challenge your registration, then they purge you from the lists, then they redraw the map so your vote does not count. Jim Crow 2.0.
 - Videos played of voters in Texas told they are suddenly not registered despite voting in every election, and of separate, unequal voting locations.
 - The SAVE Act, passed in the House, would require a passport or birth certificate to register to vote; over 21 million citizens do not have them, it ends online registration and mail-in voting and shuts down voter drives, and it falls hard on married women whose ID no longer matches their birth certificate. Right after that, the State Department ordered nonprofit libraries, the places in poorer neighborhoods where people filled out passport applications for decades, to stop processing them. They change the law so you need a passport to vote, then close down the places where you get the passport.
 - Trump on the campaign trail told Christians, get out and vote just this time; in four years it will be fixed so good you are not going to have to vote anymore. Now you see him fulfilling what he said.
-- Marijuana was rescheduled from schedule one to schedule three under a December 2025 executive order, legal on a federal level for medical use; and at the same time a new law makes driving under the influence, including driving high, a felony. With a felony you cannot vote. That is the Jim Crow pattern.
+- A new law makes driving under the influence, including driving high, a felony. With a felony you cannot vote. That is the Jim Crow pattern.
 - If you owe child support past a lowered threshold, they take your passport, and the passport is what the new voting law requires.
 - A run of firings of black officials was recounted in class: the first black woman on the National Labor Relations Board, the chairman of the Joint Chiefs of Staff, the chairman of the Federal Energy Regulatory Commission, the vice chair of the National Transportation Safety Board, the first black Librarian of Congress, a member of the Surface Transportation Board, and an attempted firing of the first black woman on the Federal Reserve Board of Governors; over 300,000 black women have been laid off or pushed out of their jobs since the start of the administration. The only black governor in the country, the chair of the National Governors Association, was uninvited from its annual dinner.
 - The federal government removed the plaques at Independence Mall in Philadelphia telling the stories of the nine enslaved people owned by George Washington who lived in the President's House, after an order to flag displays seen as disparaging to America's past; a new Senate version of an education bill removes the writings of Frederick Douglass and Dr. Martin Luther King Jr. and the history of Native Americans while keeping white authors.
@@ -114,6 +111,88 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 - Wherefore we labour, that, whether present or absent, we may be accepted of him. The labor is doing what is right on this earth: keep the commandments, love each other, so you can be in his presence when you die.
 - And understand: even though you go to paradise, the Lord is bringing you back to this earth. The whole end of everything is the kingdom of God coming on this earth and us ruling this earth, not living up in the sky.
 
+<div class="reading">
+
+Reading from a write-up sent in for class on what Jim Crow is  *[[33:26](https://www.youtube.com/watch?v=Qd8NC9s9670&t=2006s)]*
+
+> Jim Crow laws are named after a derogatory 1830s minstrel character, Jim Crow, created by white performer Thomas Dartmouth "Daddy" Rice, who wore blackface and performed in a racist stereotyped manner.
+
+- So what you all just saw right there, you saw that image, that's a white man that dressed in blackface, that acting like a black man, and he act like he's dumb and stupid. And what he trying to say, that's how black people is. And he named that character that he played with blackface, he named him Jim Crow.
+
+> The character's name became a slur, and by the late 19th century it was used to label the laws enforcing racial segregation and white supremacy in the US South.
+
+- So, you all understand that. That image and that name was used to label the enforcing of racial segregation.
+
+> Origins and significance. The character: Thomas Rice claimed he modeled the character after a disabled enslaved black man he saw singing and dancing, subsequently turning it into a popular mocking minstrel act.
+
+- So, it was really mocking us. When this white man put on blackface and was dancing and acting how he was acting, he was making mockery of black people.
+
+> Symbolism. The Jim Crow character was used by white society to perpetuate negative stereotypes of African-Americans as inferior, buffoonish, and unworthy of equal rights.
+
+- So, that's what they say: "Yo, these is stupid. They buffoonish. They illiterate." So that's what the white man was acting like, and white people literally think that's how we were. And they use that stereotype and they put it on us.
+
+> The laws. Following the Reconstruction era, Southern Redeemer governments implemented these laws, roughly 1877 to 1960s, to legally sanction segregation in public spaces.
+
+- So, they used that. They used Jim Crow, the name, that name Jim Crow, to institute, and they put them laws under it and they call it Jim Crow, to set up laws of segregation in schools, transportations, and so forth and so on. It's from 1877 to 1960.
+
+> The term does became a shorthand nickname for the systemic, legalized anti-black racism and segregation in the United States, as detailed at the Jim Crow Museum website.
+
+> Jim Crow laws were state and local statutes in the US enacted between the 1880s and 1960s that mandated racial segregation, primarily in the South. These laws enforced the "separate but equal" doctrine, restricting African-Americans' access to education,
+
+- So they restricted us from education. That's Jim Crow laws, right? Restriction in education.
+
+> transportation,
+
+- Transportation. Y'all remember we could have never sit in the front of the bus. We had to get up for any white person and so forth. Or segregation with buses and so forth.
+
+> housing,
+
+- Housing. We couldn't live in their neighborhoods.
+
+> public facilities,
+
+- Public facilities, like the water fountain, restaurants. We couldn't use the same restaurants that the white men use. We had to use separate entrances and so forth.
+
+> and voting rights,
+
+- And also you could not vote. Even though they gave you independence and so forth, they put these laws together so that our people here in America, black people, cannot vote. So, all these laws is considered Jim Crow laws.
+
+> while banning interracial marriage.
+
+- Well, I'm cool with that, because we do not supposed to be mixing with them. That's against God's laws.
+
+> Key types of Jim Crow laws. Educational segregation: mandated separate schools for white and black children, often with significantly inferior resources and funding for black schools.
+
+- So, you all see that? And then the same thing they do today also. You ever go to black schools and see how it's run down and so forth? And then you go to white schools and you see how it's different? That is still here today.
+
+> Public transportation segregation: required separate coaches on trains, segregated seating on streetcars, and segregated waiting rooms.
+
+- No, these was laws. These was laws that was set up, and if you broke them, you were put in prison. I want you all to understand. You were beaten and put in prison if you break these laws.
+
+> Public accommodation/facility segregation: segregated theaters, parks, swimming pools, restaurants, hotels, water fountains, and restrooms.
+
+> Anti-miscegenation laws: prohibited interracial marriage and cohabitation, classifying any person with a certain amount of African blood as restricted.
+
+> Disenfranchisement laws: implemented to prevent black citizens from voting,
+
+- So, these laws was set up to prevent black people from voting.
+
+> including poll taxes,
+
+- So, they set up things like poll taxes, where in order for you to vote, you got to pay a tax. And guess what? Most black people could not afford that tax, thus our people did not what? Vote, right?
+
+> literacy tests,
+
+- Meaning they're going to give you a test. And guess what? A lot of time a lot of our people couldn't read and so forth. So they could not take that test, so thus they would not be able to vote.
+
+> and grandfather clauses.
+
+- The grandfather clause, I think, is that you have to show that your grandfather could have vote or something like that. Right? That's what it is, right? I think that's what it is. And if you couldn't show that, guess what? You could not vote.
+
+- So they set up all these laws, and the Jim Crow laws that was set up was basically what? Oppression. It was oppression. They say they let us go to slavery, but was we really free from slavery? No. They say they gave us equal rights and made us citizens and so forth, but were we citizens and did we have equal rights? No. So, what end up happening? In 1964-65, we got civil rights.
+
+</div>
+
 **[Habakkuk 1:9-11](/bible/habakkuk/1#v9)**  *[[42:31](https://www.youtube.com/watch?v=Qd8NC9s9670&t=2551s)]*
 
 > <sup>[9](/bible/habakkuk/1#v9)</sup> They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
@@ -178,6 +257,22 @@ Read in class, what is Jim Crow: Jim Crow laws are named after a derogatory 1830
 
 - Read again over the videos of the week: your covenant with death shall be disannulled, and your agreement with hell shall not stand. The week's news above is that disannulling in motion: the Voting Rights Act gutted, the SAVE Act, the passport offices closed, the purges and the firings. The white man allowed you to vote for 60 years and renewed your voting rights at least twice; right now they are scrapping the whole thing.
 - All the immigrants living here should understand: you have rights here because of Judah, because of that fight in the 60s. The black civil rights movement cracked the whole system open, and every minority group walked through that door; now it is being closed back up. Judah is an old lion, but the spirit of Christ is raising him up, and Judah is roaring.
+
+<div class="reading">
+
+Reading from an article on the rescheduling of marijuana  *[[1:45:45](https://www.youtube.com/watch?v=Qd8NC9s9670&t=6345s)]*
+
+> Justice Department places FDA-approved marijuana products and products containing marijuana subject to a qualifying state-issued license in Schedule III, strengthening medical research while maintaining strict federal controls.
+
+- So what they did, they scheduled marijuana as a drug three. Used to be number one. Used to be one. But they brought it all the way to three. Meaning it's a lesser offense and so forth, so they could use it. This is what Trump passed. I think it's this year.
+
+> The action expands access to approved therapies and supports state-regulated medical marijuana programs,
+
+> in accordance with President Trump's December 18th, 2025 executive order on increasing medical marijuana and … research. The Justice Department and Drug Enforcement Administration, DEA, today announced the issuance of an order immediately placing both FDA-approved products containing marijuana and marijuana products regulated by a state medical marijuana license in Schedule III of the Controlled Substances Act, as well as the initiation of an expedited administrative hearing process to consider the broader rescheduling of marijuana from Schedule I to Schedule III.
+
+- So, that's what they did. So, Trump basically make marijuana legal on a federal level, right? For you to use for what? Medical purposes. I'm showing you all Jim Crow. Remember what Jim Crow laws is? Showing you all some Jim Crow laws, man.
+
+</div>
 
 **[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[1:55:02](https://www.youtube.com/watch?v=Qd8NC9s9670&t=6902s)]*
 

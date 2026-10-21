@@ -29,9 +29,39 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 
 - These people put us on their list for years. They put us as number three on the Southern Poverty Law Center list, as a greatest threat, while the Ku Klux Klan, that historically burned crosses on people's lawns, firebombed churches, and lynched people, sat at number 20. People were attacking us; they were hindering us from traveling, from making ventures. The bishop told y'all that 12 years ago when they put us on the list.
 - Why did they put us as number three? You know where to find Israel United in Christ and the Nation of Islam. The Proud Boys, you can't find them, cuz they walk around with masks; they're your police officers, your judges, your workers in affluent positions.
-- Who cares if they caught them? The DOJ is the one investigating them. Were they any help with the Epstein files? Did anybody come to justice? We just want it known to our viewing audience that the evil title they put on us for the past 10, 11 years, they are the wicked ones. That's all that matters. All they'll do is take the money and give it to another group; they still got AIPAC, Canary Mission, the ADL. Anybody teaching the truth of the Bible, that we are the people of the book, they want to destroy them.
+- Who cares if they caught them? The DOJ is the one investigating them. Were they any help with the Epstein files? Did anybody come to justice? We just want it known to our viewing audience that the evil title they put on us for the past 10, 11 years, they are the wicked ones. That's all that matters. All they'll do is take the money and give it to another group; they still got AIPAC, Canary Mission.
 - We also replayed our defense videos from 10, 11 years ago. Now it all makes sense: the SPLC admitted they were paying people to help them tear down other people, and back then a disgruntled ex-member sat down with them to attack this ministry, secretly recording, circulating private documents and financial statements. We didn't have the proof before; we just speculated. The Most High said it's going to take time, but I'm going to give it to you. That's why anybody with access to sensitive information signs an NDA: not to hide anything, but so there's repercussions when your personal information gets put out to make you look bad.
-- Years ago the SPLC's own co-founder was forced out over workplace misconduct, and a letter signed by about two dozen employees said internal allegations of mistreatment, sexual harassment, gender discrimination, and racism threatened the moral authority of the organization. These are supposed to be the people watching out for you. It took almost 11 years, all praises to the Most High: the scripture say what's done in the dark shall come to the light.
+
+
+<div class="reading">
+
+Reading from a statement by Professor William Jacobson on the SPLC, shown in the defense video from 10, 11 years ago · read by Deacon Ithon  *[[30:45](https://www.youtube.com/watch?v=tsdO9OrUI54&t=1845s)]*
+
+> Professor William Jacobson: Time and again I see the SPLC using the reputation I gained decades ago fighting the Klan as a tool to bludgeon mainstream politically conservative opponents. For groups that do not threaten violence, the use of SPLC hate group or extremist designations frequently are exploited as an excuse to silence speech and speakers.
+
+- What they would put together was to silence anybody that is against their agenda for where they want to be. Which, that's the Bible. They don't want the Bible to come out.
+
+- Cuz they're not the only ones. There's other groups now. At that time it was just Southern Poverty Law Center. Now you got AIPAC. Now you got Canary Mission, and a whole bunch of other groups. I can't keep up with them no more. The ADL, Anti-Defamation League. Anybody who's teaching the Bible, anybody saying the truth of the Bible, that we are the people of the book, they want to destroy them. And they want to do it with the members.
+
+> It taints not only the group or person, but others who associate with them.
+
+- **Deacon Ithon:** It makes all those look bad. So when the Israelites are attacked, it's not just us being attacked, it's all of us falling to that same banner.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a short article on the co-founder of the Southern Poverty Law Center, shown in the defense video from 10, 11 years ago  *[[35:00](https://www.youtube.com/watch?v=tsdO9OrUI54&t=2100s)]*
+
+> The co-founder of the Southern Poverty Law Center, a deep-pocketed left-wing civil rights organization, was fired on Wednesday. Morris Dees, a prominent lawyer who founded the SPLC in 1971, was reportedly forced out due to workplace misconduct. Though the organization didn't specify what that misconduct was, the Los Angeles Times reported in a letter signed by about two dozen employees and sent to management and the board of directors before the news broke of these firing, said that they were concerned that the internal allegations of mistreatment, sexual harassment, gender discrimination, and racism threatened the moral authority of this organization and our integrity along with it.
+
+- It took almost 11 years, with all praises to the Most High. The scripture say what's done in the dark shall come to the light.
+
+- These people are evil.
+
+</div>
+
 - A lot of people left IUIC when the attacks came, and now that they saw it didn't work, they want to come back. My answer is no. Stay where you are. Watch online.
 
 ## Scriptures Opened
@@ -121,7 +151,29 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 - Thou shalt betroth a wife, and another man shall lie with her: they violated our wives and daughters in captivity and we couldn't do nothing. Watch the opening scene of The Butler with your children: the boy's mother is taken to the barn, and when his father tried to intervene, he was killed on the spot. That historical damage is generational; it don't go away, and we got no counseling and no reparations for it. Deacon Malachi was saying, to hell with reparations. We don't want no reparations; just allow us to become the Israelite nation and keep your reparations. That's how we get our salvation.
 - Thou shalt build an house, and thou shalt not dwell therein: you see that in 12 Years a Slave. He won his freedom, they re-enslaved him, and had him building a house he could not live in.
 - Thou shalt plant a vineyard, and shalt not gather the grapes thereof: you had to meet a quota; you couldn't take grapes home for your family. Sit with your children and watch 12 Years a Slave, Amistad, Roots; turn off Love & Hip Hop and show them their history so the Bible won't be a mystery. This is you. This is your book. They trained you not to look inside your book.
-- Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: there's documentaries on how oxtail became a delicacy. They would discard the tail of the oxen and keep the best meat for themselves, and the slaves seasoned what was thrown away. Now oxtail is $20 a plate. News read in class: five IHOP locations in the Bronx are testing a new menu featuring braised oxtails as of April 26th, with an oxtail omelet, oxtail tacos, oxtail quesadillas, and an oxtail chopped cheese. They make a menu specific to the demographic that's there; these people study us.
+- Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: there's documentaries on how oxtail became a delicacy. They would discard the tail of the oxen and keep the best meat for themselves, and the slaves seasoned what was thrown away. Now oxtail is $20 a plate.
+
+
+<div class="reading">
+
+Reading from a news item on IHOP in the Bronx, shown on the screen  *[[1:05:15](https://www.youtube.com/watch?v=tsdO9OrUI54&t=3915s)]*
+
+> Five IHOP locations in the Bronx, New York, are testing a new menu featuring braised oxtails as of April 26th.
+
+- I couldn't believe it when I saw the commercial. They said we can't do this in the white neighborhoods. They're making a menu specific to the demographic of the people that's there. I was like, who would sit down and come up with oxtails in IHOP? It's to make the revenue go up. They know that the Benjamin spot is overcharging you. So they was like, we could corner the market on oxtail. Let's sell it in IHOP.
+
+- Their stock market is going to go through the roof. This is crazy.
+
+> The top seller is oxtail omelet, which includes braised oxtail, cheese, peppers, and onions. Other items includes oxtail tacos,
+
+- They going after northern kingdom.
+
+> oxtail quesadillas, and oxtail chopped cheese.
+
+- Why somebody sprinkling cheese on everything? Damn, these people, they study us, man. They study us.
+
+</div>
+
 - Thine ass shall be violently taken away from thee before thy face, and shall not be restored to thee: that's why when we ask for reparations we always say, where's my 40 acres and my mule? It was never restored unto us.
 - Thy sheep shall be given unto thine enemies: that's a multi-billion dollar industry; see how much a sheepskin coat costs. And thou shalt have none to rescue them: to this day they're still manipulating the system so that they stay on top and we stay on the bottom. It's not an equal playing field; that's why we need God.
 - Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: imagine the psychological trauma when your children are taken from you at birth and given off to another plantation. Northern kingdom, they're separating your children as we speak; but you're saying these curses don't fit you.

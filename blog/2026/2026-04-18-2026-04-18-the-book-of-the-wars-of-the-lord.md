@@ -55,8 +55,36 @@ Video played to open the class: an economist with a PhD in mathematics, one of t
 - This is where the topic comes from: wherefore it is said in the book of the wars of the Lord, what he did in the Red Sea, and in the brooks of Arnon. What he did in the Red Sea is in Exodus.
 - The question is this: the book of the wars of the Lord, where is it? Do we have that book? There is a book called the book of the wars of the Lord, a book that went into the wars of the Lord, and we do not have it. But reading the other scriptures, we are able to piece certain things together.
 - And when it says the wars of the Lord, who is the Lord there? It is talking about Christ. You think Christ is just going to come in the future and war? No. He has been warring ever since the beginning, ever since Exodus.
-- Definition read in class on the King James Version: when Elizabeth died in 1603, the crown passed to James I, who had been king of Scotland for 37 years as James VI. Several months after he ascended the throne of England, he authorized a new translation of the Bible to replace the Bishops' Bible. All King James did was authorize it; he did not sit down and write the Bible. Forty-seven of the best Hebrew and Greek scholars of the day were divided into six groups: three for the Old Testament, two for the New, and one for the Apocrypha. Two groups met at Oxford, two at Cambridge, and two at Westminster. When a group completed its task, its work was submitted to twelve men, two from each panel. The revisers, who received no financial pay for their work, completed their task in two years and nine more months of revision. In 1611 the new version was published; it took almost 50 years to displace the Genevan Bible in popular favor, and after 350 years it is still used in preference to any other version in the English-speaking Protestant world.
-- Counted in class: a traditional 80 book Protestant Bible consists of 39 Old Testament books, 27 New Testament books, and 14 Apocrypha books. Eighty books in all. Keep that in mind, because we just read about a book of the wars of the Lord, and that book is not in the Bible.
+
+<div class="reading">
+
+Reading from the definition of the Bible, on the King James Version  *[[27:13](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=1633s)]*
+
+> King James Version. When Elizabeth died in 1603, the crown passed to James the First, who had been king of Scotland for 37 years as James the Sixth. Several months after he ascended the throne of England, he authorized a new translation of the Bible to replace the Bishops' Bible.
+
+- So, all King James did was authorize. He did not sit down and write the Bible. You know them say King James wrote the Bible. He just authorized it to be translated. He couldn't do it himself.
+
+> 47 of the best Hebrew and Greek scholars of the day were divided into six groups:
+
+- So, that's who he got to translate the Bible into what we have today.
+
+- So, he had some of the best scholars of the day where he was back then. They spoke many different languages and they understood the Hebrew language. They had more understanding that y'all have today. And they know much more than our people know today. But today people want to argue concerning the scholars that translated the Bible from Hebrew to English and from Greek to English. You want to argue with them with, oh, what this word mean and what that mean.
+
+> three for the Old Testament, two for the New, and one for the Apocrypha. Two of the groups met at Oxford, two at Cambridge and two at Westminster. When a group had completed its task, its works was submitted to 12 men, two from each panel. Final differences of opinion were settled at a general meeting of each company. In cases of special difficulty, learned men outside the board of revisers were consulted. Marginal notes were used only to explain Hebrew and Greek words, to draw attention to parallel passages. Italics were used for words not found in the original, but necessary to complete the sense. The revisers, who received no financial remuneration for their work, completed their task in 2 years, and 9 more months were devoted to a revision of their work by a special committee consisting of two members from each group. In 1611, the new version was published. It did not win immediate universal acceptance, taking almost 50 years to displace the Geneva Bible in popular favor. In the course of time slight alterations were made, especially in spelling, to conform to changing usage, but these were all done piecemeal by private enterprise. Its excellence is shown by the fact that after 350 years it is still used in preference to any other version in the English-speaking Protestant world for both public and private use.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen search result on how many books are in the Bible including the Apocrypha  *[[31:29](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=1889s)]*
+
+> The total number of books in the Old Testament including Apocrypha depends on the tradition. A traditional 80-book Protestant Bible consists of 39 Old Testament books, 27 New Testament books, and 14 Apocryphal books.
+
+- So, we got 39 Old Testament, 14 Apocrypha, and 27 New Testament, right? I want you all keep that in mind. So, in all that's how many books? That's 80 books, right? 80 books in all there's in the Bible.
+
+- Because we just read about the book of the wars of the Lord, right? And that book is not in the Bible.
+
+</div>
 
 **[2 Esdras 14:1-5, 19-48](/bible/2-esdras/14#v1)**  *[[32:26](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=1946s)]*
 

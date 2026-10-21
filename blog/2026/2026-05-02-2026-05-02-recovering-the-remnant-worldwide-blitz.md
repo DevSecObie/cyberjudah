@@ -197,7 +197,77 @@ What a warm reception coming back to Babylon the great. The name of today's less
 - None saith, Restore. At the UN they could not even agree to acknowledge the transatlantic slave trade for what it was, and reparations could not be brought up. None of them says give back what is owed.
 - Who gave Jacob for a spoil, and Israel to the robbers? Did not the Lord, he against whom we have sinned? Slavery, black codes, Jim Crow, redlining, and our current situation are the fury of his anger poured out, for they would not walk in his ways. It hath set him on fire round about, yet he knew not; and it burned him, yet he laid it not to heart. We do not stop to consider that what we go through as a race is because of our sins.
 
-Book read in class: The Jewish Mystique, by Ernest van den Haag. The author writes that the enslaved had no common language, religion, history, or culture, no record of their own past, because enslavement destroyed the tribal units and their religion, self image, and ambitions were handed to them by their owners. He writes that Negroes did not feel that a code of conduct prescribed by their religion would lead to redemption, independently of the wishes of the white majority; they did not feel their sufferings were a chastisement imposed by a father who had been disobeyed, and that ultimate redemption would depend on studying and obeying his law; unlike Jews, they tended to feel their fate depended on outside secular forces, which further weakens initiative and independence. The point: even this scholar saw that our redemption comes through studying and obeying God's law, and that we can never have true independence while looking to outside secular forces for help. Our culture is found in the Bible, and our people do not know it.
+<div class="reading">
+
+Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Yuri  *[[42:16](https://www.youtube.com/watch?v=93fP6cddXrs&t=2536s)]*
+
+> Negroes lacked all of these intangible but immensely important advantages. They did not share a common language, religion, history, or culture.
+
+- Cuz they divide and conquer. That's what they did to us.
+
+> They had no literature, no record of their own past,
+
+- They burned our records up.
+
+> no laws, no leaders, and no community. Tribes did have at least some of these common bonds, but enslavement destroyed the tribal units. And the Negroes kept on a plantation could communicate with each other only in English. Even their religion, their self-image, and their ambitions were those handed to them by their owners.
+
+- Y'all see that part right there? Their religion, their self-image and ambitions were handed to them by their owners. Tell a Christian that, somebody. So the white man gave us everything we got right now.
+
+> They are in the difficult situation of not being accepted by the only society they know,
+
+- So the only society we know, white society, they don't even accept our people. That's what he's saying.
+
+> of wishing to reject it in retaliation and of having no society of their own, no culture, no usable past to turn to. University studies and institutes cannot manufacture a history and a culture.
+
+- So all your HBCUs, they're saying, cannot manufacture a history and a culture. That's why when you hear people say black people ain't got no culture, they destroyed us. Cuz our culture is found in the Bible, but we don't know that. Our people don't know that.
+
+> And the conditions which surrounded their life in America from the beginning hindered the development of those values,
+
+- So the conditions that we went through here in America hindered our development of values.
+
+> ambitions and aptitudes which would have procured them a reasonable place in American society. Negroes did not feel that a code of conduct prescribed by their religion would lead to redemption,
+
+- Let's marinate on that sentence.
+
+- You know what a code of conduct is? Found in the Bible. Your moral laws, your civil laws, your ceremonial laws.
+
+- Because our religion is the Bible. All black people, they got Bibles, but we don't follow the code of conduct in the Bible, of having a sense of keeping God's moral laws, God's civil laws. Do you realize, in fact, we're the only race that keeps a safe place for debauchery. We're the only ones that say LGBTQ is good and don't talk about it, because if we talk about them and move on, where would your music be? Cuz it's homosexuals and them people that did all your music. Don't tell a woman to cover her behind. Let her walk around like the ho she knows she is.
+
+- See, we don't believe it leads to redemption. That's why they say, no, you can't judge me. No law. We're under grace and not the law.
+
+> independently of the wishes of the white majority.
+
+- We can't operate outside of white folks, right?
+
+> They did not feel that their sufferings were a chastisement imposed by a father who had been disobeyed,
+
+- We don't realize that because of our sufferings is a direct result of disobeying our heavenly father. That's what this scholar, this author's writing.
+
+> and that ultimate redemption would depend on their studying and obeying his law.
+
+- Do y'all see that? The white man realized that our redemption comes through studying and obeying God's law.
+
+> Unlike Jews, they tended to feel that their fate depended on outside secular forces,
+
+- So we think our help comes from outside secular, meaning worldly, forces. We need economics, brother. We need the white man to help us. We need to move like the white man, talk like the white man, operate like the white man in this system. That's what it means by outside secular forces.
+
+> on the behavior of the white majority.
+
+- We want to act like that.
+
+> Thus, they are led to pull or push that majority into helping them
+
+- We try to coerce white folks to helping us. Give us some money. Give us jobs. Give us education. We want your education.
+
+> and into repairing the damage done,
+
+- We want the white folks to repair the damage done. Cuz white folks looking at us, we ain't repairing … Get a job.
+
+> which further weakens their own initiative and independence.
+
+- We could never get true independence as long as we're looking for outside secular forces to help us.
+
+</div>
 
 **[John 14:26](/bible/john/14#v26)**  *[[48:23](https://www.youtube.com/watch?v=93fP6cddXrs&t=2903s)]*
 
@@ -325,21 +395,301 @@ Book read in class: The Jewish Mystique, by Ernest van den Haag. The author writ
 - King Jehoshaphat took away the high places and groves out of Judah, the false idols and their little churches, and in the third year of his reign he sent his princes, with Levites and priests, to teach in the cities of Judah. And they taught in Judah, and had the book of the law of the Lord with them, and went about throughout all the cities of Judah, and taught the people.
 - So what Christ did in sending out the twelve was not new, and what IUIC is doing is not new. In Jehoshaphat's day our people were worshiping Moloch, Chemosh, and Baal, and the remedy was to tear down the groves and send teachers through the land with the book.
 
-Books read in class, with mission reports from the worldwide blitz played between them:
+<div class="reading">
 
-- The Lost Tribes a Myth, by Allen H. Godbey (1930): hundreds of thousands of slaves were brought to America from western Africa, and the author asks how much more of Judaism survived among West African Negroes in that earlier time; as persecuted communities they were more in danger than other groups of being raided by war parties and sold as slaves, and it may be considered certain that many partially Judaized Negroes were among the slaves brought to America. On the Cabinda coast was a group of black Jews known as Mavumba, connected by Ratzel with a colony of Jews expelled from Portugal to Sao Tome, where in 1484 King John II offered the Jews of his dominion the alternative of baptism or exile to the island. The book also records Bishop Matthew's claim of an immemorial Jewish ancestry that is Negro, and a Sierra Leone preacher's sermon from about 1860 teaching that Adam and Eve were colored people.
-- History read on Liberia: between 1822 and the late 19th century roughly 15,000 to 16,000 free black Americans and formerly enslaved people were relocated to Liberia by the American Colonization Society, a group of white politicians, philanthropists, and slaveholders, some of whom hoped removal of free blacks would strengthen slavery. The settlers arrived with a superiority mentality, set up a Masonic lodge as the gate to political office, and the country later suffered two civil wars totaling fourteen years. Never listen to anyone who says there are no Israelites in Africa; they are there in abundance. Do a little research; read a book.
-- History read on Sierra Leone: in 1792 approximately 1,200 black loyalists voluntarily left Nova Scotia for Sierra Leone, seeking freedom after harsh racism and denied land promises, and established Freetown.
-- The Genius of the Bantu (1920): Seligman's classifications aside, the book records the contention that the extraneous element of the Bantu was derived from tribes of Israel first carried away to Babylon, who afterward migrated through Egypt into equatorial Africa, and through mingling with native tribes upon whom they imposed much of their own religion and customs gave rise to the peoples now known as Bantu.
-- The Flaming Torch in Darkest Africa (1898): tribes living in booths constructed from branches at a certain season of the year, observing ceremonies identical with those of the children of Israel; the release of an animal into the wilderness to carry away the transgressions of the people; and circumcision so general among the Zulus as to link them with the period following the Exodus.
-- A Tribute for the Negro, by Wilson Armistead (1848): the empire of Congo contains many Jews settled in it who retain their religious rites and distinct habits; though separate from the rest of the population, they are black and resemble the other Negroes in every respect as to physical character; and Pennington's textbook states that the descendants of a colony of Jews originally from Judea settled on the coast of Africa are black.
-- The Jews: A Study of Race and Environment, by Maurice Fishberg (1911): the Falashas are not the only Jews of Negro race; Bastian speaks of Negro Jews on the Loango coast called Mavumba or Judeos, who hold a dominating or respected position because they have most of the commerce in their hands; in Madagascar natives called themselves Zafy Ibrahim, descendants of Abraham; and the most curious class of Negro Jews existed in Jamaica and Surinam, where there was a very large degree of intermarriage of the Spanish and Portuguese Jews, who were black men, with the surrounding population, leaving a large colored population bearing Jewish names.
-- Jews in Africa: in Mali, several thousand people in Timbuktu claim Jewish ancestry from Moors and Jews fleeing persecution in Spain who migrated south in the 14th century; Askia Muhammad came to power in 1492 and forced Jews to convert to Islam or leave, after which Judaism became illegal in Mali. In Nigeria the Igbo may descend from ancient Semitic and later Jewish migrations, with groups tracing to Gad, Zebulun, and Manasseh; in western Ghana the House of Israel community traces descent through Ivory Coast; in Uganda the Abayudaya practice Judaism; in Somalia the Yibir, the Hebrew tribe, are looked down on as descendants of Israelites; a tribe in Rusape, Zimbabwe claims ancient Jewish connections; and some 40,000 members of the Lemba tribe still claim Jewish roots. Old Jewish communities south of the Atlas Mountains are named in synagogue archives in Cairo, and Jewish, Arab, and Christian accounts cite Jewish rulers of tribal groups scattered throughout Mauritania, Senegal, the western Sudan, Nigeria, and Ghana.
-- General History of Africa, from the 16th to the 18th century: Africans settled along parts of the Malabar coast of India during the 17th and 18th centuries; these were black Jews who had left Cochin and Kerala in southern India to settle on that coast.
-- America, a 17th century volume on the New World: the king of Portugal sold all those Jews for slaves that refused to embrace the Roman religion, and caused their children to be baptized; colonists were settled first in Guinea, next in Angola, and lastly on the island of Sao Tome. They tried to force our people into white supremacist Christianity, and many refused and became outcasts.
-- The Solomon Islands and Their Natives, by H. B. Guppy (1887): reports of an island abounding in wealth and inhabited by Jews west of Peru, and the observation that the features of many Solomon Islanders and Papuans gave the face quite a Jewish cast.
-- Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries: mingled in South America with Jews of the ten tribes.
-- The updated twelve tribes chart was shown: Judah among the American blacks, with kindred communities from the Igbo of Nigeria to Liberians, Malagasy, Sierra Leone, the Kikuyu of Kenya, the Abayudaya of Uganda, the Falasha of Ethiopia, indigenous groups of North Africa, the Songhai and Ashanti of Ghana, and the Wasambaa of Tanzania. The history is vast, and the chart does not even include the northern kingdom tribes.
+Reading from *The Lost Tribes a Myth* by Allen H. Godbey, written in 1930  *[[1:06:54](https://www.youtube.com/watch?v=93fP6cddXrs&t=4014s)]*
+
+> These facts have a peculiar significance when the presence of Judaism among American Negroes
+
+- Who are we talking about? Judah. The American Negroes.
+
+> is to be considered. Hundreds of thousands of slaves were brought to America from this western Africa during the days of the traffic,
+
+- Mean the slave trade.
+
+> beginning nearly 400 years ago. How much more of Judaism survived amongst West African Negroes in that earlier time?
+
+- So how much Judaism remained with them? Why did he say that? Because he knew those were the Jews. Judah, the American black, were the Jews.
+
+> As persecuted communities, they were rather more in danger than other Negroes of being raided by war parties and sold as slaves.
+
+- We were more in danger than all the other tribes, right?
+
+> It may be considered certainly that many partially Judaized Negroes were among the slaves brought to America.
+
+- Now see, this scholar knows that some Judahites came in slavery Judaized already. They knew about the laws of God, their identity.
+
+> On the Cabinda coast in Portuguese West Africa is an interesting group of Negro Jews known as Mavumba. They are skillful smiths and potters and consequently prosper. Ratzel considers them connected with a colony of Jews expelled from Portugal and settled on Sao Tome Island.
+
+- Listen, that was during the Spanish Inquisition.
+
+> The Portuguese discovered Sao Tome in 1471. Finding it very unhealthy, King John II of Portugal in 1484 offered the Jews of his dominion the pleasant alternative of submitting to baptism or settling at Sao Tome.
+
+- So King John II of Portugal, this is during the Spanish Inquisition, told those Jews, our people, you can go to Sao Tome on the west coast of Africa, or be baptized into the new Eurocentric Christianity. The choice is yours.
+
+> Thus, Bishop Matthew claims an immemorial Jewish ancestry. But since that ancestry is Negro, it follows … original Jews.
+
+- Y'all see that right there? So don't say the scholars don't know. There's scholars out there that know.
+
+> This is a development from Bishop Matthew's congregation. It has received no help from the white Jews and observes that white Jewish papers called them fakers.
+
+- So back there in the 30s they was calling Israelites fakers.
+
+> But my friends, we are not fakers. Every black man is a real Hebrew whether he knows it or not.
+
+- Whether he knows it or not.
+
+> We as a race do not know who we are,
+
+- We as a race don't know who we are.
+
+> etc. Thus race discriminations are always repaid in their own coin. Compare Winwood Reed's report of a Sierra Leone Negro preacher's sermon some 70 years ago.
+
+- 70 years to 1930s. 1860 he's talking about.
+
+> My brethren, you see white man bad too much, ugly too much, no good. You want savvy now, man like that come to live in the world? Well, I'll tell you. Adam and Eve, they colored people.
+
+- So in 1860, here's an excerpt from a slave giving a sermon.
+
+- They black.
+
+> Very handsome, very very handsome. Live in one beautiful garden.
+
+- Paradise.
+
+> There they have all things that be good. Plantains, yams, sweet potatoes, fufu, palm wine. He eye too much. Then they have two children, Cain and Abel. Cain no like Abel's paliver. One day he kill him. Then God angry and he say, Cain. Cain go hide himself. He tink and bury.
+
+- I didn't get the next page. The next page, it says Cain was the first white man. I forgot to print that part out.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a text on Liberia, shown on the screen  *[[1:12:18](https://www.youtube.com/watch?v=93fP6cddXrs&t=4338s)]*
+
+> Between 1822 and the late 19th century, roughly 15,000 to 16,000 free black Americans and formerly enslaved people were relocated to Liberia by the American Colonization Society, ACS, a group of white politicians, philanthropists, and slaveholders.
+
+- You got black people who foolishly, and I'm talking about the stupid group with the leather headbands, most of them are overweight, talk about there's no Israelites in Africa. If you didn't even know the history, let's say you don't know the history, this history you must have heard of at least one time in your life.
+
+> Purpose: supporters aimed to create a colony for free black people whom they believed could not integrate into US society, while some supporters hoped it would strengthen slavery by removing free blacks.
+
+- We did a radio show, and when you do these travels, you got to look and find the history of what happened. These free blacks that came from America to Liberia, they had the mentality of, we're better than you, we are smarter than you. So they tried to dominate them. And they set up a huge Masonic temple where if you want to become president or any kind of government official, you must go through this Masonic lodge. They were the ones that dealt with the Firestone Company with the rubber. Then you had Charles Taylor, and it was war. Liberia had two civil wars.
+
+- But my point with saying all of this is that do a little research. Never listen to a brother or sister that says there's no Israelites in Africa. They are the most. Now, back in the day, yes, we did think the same thing. But now, it's time to sit down and read a book. Read a book. Educate yourself somewhat. You ain't got to know everything, but know a little bit about something.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a text on Sierra Leone, shown on the screen  *[[1:18:19](https://www.youtube.com/watch?v=93fP6cddXrs&t=4699s)]*
+
+> In 1792, approximately 1,200 black loyalists voluntarily left Nova Scotia, Canada for Sierra Leone, West Africa,
+
+- Sierra Leone is adjacent to Liberia. So, you had 1,200 blacks go from Nova Scotia, Canada to live in Sierra Leone back in 1792, right?
+
+> seeking freedom and equality after facing harsh racism and denied land promises. These settlers established Freetown, forming a new free black community, and became the elite of the new British colony.
+
+- So don't let nobody tell you there's no Israelites in Africa. These people, these two things that we just went over, came from this side of the world and went over there.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Land of the Heart of Livingstone, or The Genius of the Bantu*, written in 1920  *[[1:21:46](https://www.youtube.com/watch?v=93fP6cddXrs&t=4906s)]*
+
+> Seligman proposed three pure races: the Hamite, the Bushmen, and the Negro.
+>
+> The mixture of Negro and Hamite in which Negro predominated produced the Bantu.
+
+- So if you had a Negro father and had a Hamite wife, that's where the Bantus come from.
+
+> And the mixture of Negro and Hamite in which the Hamite predominated produced the Nilote.
+
+- So if you had a Negro mother and a Hamite father, that's what it means. In which the Hamite predominated, produced the Nilote. From the Nile Valley region.
+
+> Finally, the mixture of the Nilote and the Hamite produced the Nilo-Hamite, or half Hamite, the term given to a number of pastoral or semi-pastoral peoples in East Africa.
+>
+> It is allowed that groups of Israelitish peoples have from time to time journeyed into the upper Nile country.
+>
+> The contention has been made that the extraneous element of the Bantu was derived from tribes of Israel which were first carried away to Babylon, as related in the Scriptures, and who afterward in whole or in part migrated through Egypt into equatorial Africa, and through mingling with native tribes, upon whom they imposed much of their own religion and customs, gave rise to the peoples now known as Bantu.
+
+- Now, that's some heavy stuff right there.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Flaming Torch in Darkest Africa*, written in 1898 · read by Captain Yuri  *[[1:36:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=5799s)]*
+
+> The custom to this day of some of the tribes of living in booths constructed from the branches of trees at a certain season of the year, observing ceremonies identical with those of the children of Israel; the liberation of a … in the wilderness to carry away the transgressions of the people; the practice of circumcision so general among the Zulus, seemed to link them with the period following the Exodus. The traditional history of Abyssinia connects it with that of the Jews a thousand years before Christ, when it records the visit of the Queen of Sheba to King Solomon.
+>
+> It is, however, easy in some of the better known languages spoken by Sudan Negroes to discover traces of distinctly … influence. In the north, the Tibus hold a large tract of the Sahara Desert north of Lake Chad, while from Senegambia to Lake Chad we have Negroes that are ruled by Fula conquerors, who have crushed up many native Negro kingdoms and their names. The Hausas of Sokoto are Negroes slightly mixed with Hamites.
+
+- So what I wanted y'all to see is, they said many of the customs of the Zulus is that of the Israelites when they made their exodus and celebrated the feast of tabernacles. So give me the next one with Deacon Abiel and Captain Shem, the next video, cuz they went to South Africa, which is where the Zulus are.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *A Tribute for the Negro: Being a Vindication of the Moral, Intellectual, and Religious Capabilities of the Coloured Portion of Mankind* by Wilson Armistead, written in 1848  *[[1:39:59](https://www.youtube.com/watch?v=93fP6cddXrs&t=5999s)]*
+
+> A remarkable fact in the history of Loango, in the Empire of Congo,
+
+- So, we're talking about the Congo.
+
+> is that the country, according to a statement which was fully accredited by Oldenorp himself, a writer of most correct judgment and of unimpeachable veracity, contains many Jews settled in it,
+
+- So many Jews settled in Congo.
+
+> who retain their religious rites and the distinct habits which keep them isolated from other nations. Though thus separate from the African population, they are black and resemble the other Negroes in every respect as to physical character. It is probably an illusion to this case that Pennington in his textbook says the descendants of a colony of Jews originally from Judea settled on the coast of Africa are black.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *General History of Africa*, Africa from the 16th to the 18th century · read by Captain Yuri  *[[1:48:54](https://www.youtube.com/watch?v=93fP6cddXrs&t=6534s)]*
+
+> The Sidis of Janjira descended from Africans who arrived from Gujarat in 1489.
+
+- So we're talking about black people who arrived in Gujarat, India from 1489.
+
+> The Janjira Sidis played a considerable role in Indian history. Africans also settled along parts of the Malabar coast during the 17th and 18th centuries. These were black Jews,
+
+- Do y'all see that right there? It says these were black Jews.
+
+> descendants of African slaves who had left Cochin and Kerala in southern India to come and settle on that coast. Most became domestics and intermarried with local inhabitants and other Jews.
+
+- And other Jews.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *The Jews: A Study of Race and Environment* by Maurice Fishberg, written in 1911  *[[1:55:06](https://www.youtube.com/watch?v=93fP6cddXrs&t=6906s)]*
+
+> It is stated that the Falashas are not the only Jews of Negro race. Bastian speaks of Negro Jews living on the Loango coast in western Africa. They are called there
+
+- See how many scholars they know that those are Jews on West Coast Africa.
+
+> Mavumba or Judeos. They are on the whole a fair-looking race, says Bastian. They are more serious and restrained than the rest of the Negroes. Although in other places they are despised, here they take a dominating position, or at least such as to be respected and partly even feared, because they are rich and have most of the commerce in their hands. The same author claims that though they are of Negro race, still he detected Semitic facial features in their physiognomies. Even in Madagascar, a traveler has discovered Jews.
+
+- Remember we went to Madagascar. Was it the last year or the year before? This book proves those are Jews, right?
+
+> … mentions that in … on the east coast of that island, he met natives who called themselves Zafy Ibrahim, or descendants of Abraham, and who claimed to be altogether Jews.
+>
+> The most curious class of Negro Jews is said to have existed in Jamaica and Surinam.
+
+- So they said Jews existed in Jamaica and Surinam.
+
+> In Jamaica there was a very large degree of intermarriage of the Spanish and Portuguese Jews with Negroes,
+
+- Now the Spanish and Portuguese Jews, those were black men, and they were marrying in. Jews with Negroes: that's other black people who were not keeping God's laws.
+
+> and today there is said to be there a very large colored population bearing Jewish names, but nearly all of whom have, however, lapsed from Judaism.
+
+- See that? They lapsed. They left Judaism, God's laws.
+
+> About 150 years ago, a new half-breed colony was constituted in the neighborhood of Surinam, which was the result of intermarriage between Jews and Negroes.
+
+- Black Jews, and Negroes.
+
+</div>
+
+
+<div class="reading">
+
+Reading from the *Compact Zondervan Bible Dictionary*, on King James, read in the mission video from Suriname  *[[1:59:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=7179s)]*
+
+> Several months after he ascended the throne of England, he authorized a new translation of the Bible.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Jews in Africa* · read by Captain Yuri  *[[2:01:35](https://www.youtube.com/watch?v=93fP6cddXrs&t=7295s)]*
+
+> In Mali, several thousand people in Timbuktu claim some form of Jewish ancestry. Moors and Jews fleeing persecution in Spain
+
+- That's the Spanish Inquisition.
+
+> migrated south in the 14th century to Timbuktu, part of the Songhai Empire. Askia Muhammad came to power in 1492 and forced Jews to convert to Islam or leave.
+
+- See that?
+
+> After this, Judaism became illegal in Mali.
+
+- They forced our people over here to accept Islam.
+
+> In Nigeria, the Igbo may be descended from the southern and westward migrations of ancient Semitic peoples and later Jewish peoples from the Middle East into West Africa. There are three groups: Bene Gad, said to have descended from the tribe of Gad, the eighth son of Jacob; Bene Zebulun, from the tribe of Zebulun, the fifth son of Jacob; and Bene Menashe. Bene Ephraim are different from other Nigerian groups, as they live among the Yoruba.
+>
+> In western Ghana, the House of Israel community of Sefwi Wiawso and Sefwi Sui claim that the Sefwi ancestors are descendants of Jews who migrated south through Ivory Coast. The practice of Judaism in this community is recent and dates from the early 1970s. The Abayudaya, a group founded in 1919, now consists of about 600 black Ugandans who practice Judaism in eastern Uganda. In Somalia, the Yibir, or Hebrew tribe, is looked down on as descendants of Israelites.
+
+- Some of y'all was mad at the Somalians. Some of them are Israelites.
+
+> A tribe in Rusape, Zimbabwe, claims ancient Jewish tribal connections.
+>
+> Remnants of a far-traveled African Judaism are found in northern Nigeria among the Hausas and Nupes, on the east side of the lower Niger, from 300 to 700 miles from the sea. The survivals are of peculiar interest because they did not reach that region from Berber North Africa, nor through the contact of European Judaism with the west coast. They are due to the great expansion of the Nuba or Nubian Empire in Byzantine times.
+>
+> The Jewish presence in Africa began to expand significantly in the second and third centuries of the Christian era, extending not only into the Sahara Desert, but also reaching down along the West African coast, and possibly also to some Bantu tribes of southern Africa, where some 40,000 members of the Lemba tribe still claim Jewish roots. The names of old Jewish communities south of the Atlas Mountains, many of which existed well into Renaissance times, have been found in documents in synagogue archives in Cairo. In addition, Jewish, Arab, and Christian accounts cite the existence of Jewish rulers of certain tribal groups and clans identifying themselves as Jewish, scattered throughout Mauritania, Senegal, the Western Sudan, Nigeria, and Ghana. Among the notable Arab …
+
+- I didn't get the next page.
+
+</div>
+
+
+<div class="reading">
+
+Reading from a book on the New World, written in the 1600s · read by Captain Yuri  *[[2:06:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=7599s)]*
+
+> … of the New World, containing the original of the inhabitants, and the remarkable voyages thither; the conquest of the vast empires of Mexico and Peru,
+
+- So, this book goes into Mexico and Peru.
+
+> and other large provinces and territories, with several European plantations in those parts.
+
+- Now, this is a very old book, written in the 1600s, I believe.
+
+> The Portuguese that dwelt on this island informed the Netherlanders that few live above 50 years there; yet notwithstanding, the great gain tempted them to tarry, several of them having two or 300 Negroes that worked in the sugar mills; that John III, king of Portugal, sent a colony thither above 200 years before, whom though the unwholesome air destroyed, yet the place was not left desolate, for he sent new inhabitants, who first settled in Guinea,
+
+- So these new inhabitants first settled in Guinea.
+
+> next in Angola, and lastly on the island of St. Thomas,
+
+- This is all in Africa.
+
+> that so they might be the better use to the air; that the said king sold all those Jews for slaves that refused to embrace the Roman religion,
+
+- Y'all see that? So those people that came from Spain, they sent some to Guinea, Angola, and lastly to the island of St. Thomas. Sold all those Jews for slaves.
+
+- The Roman religion was Christianity.
+
+> and caused their children to be baptized.
+
+- So they were trying to force us to accept white supremacy Christianity. And many of our people didn't. And they became outcast.
+
+</div>
+
+
+<div class="reading">
+
+Reading from the twelve tribes chart, shown on the screen  *[[2:08:57](https://www.youtube.com/watch?v=93fP6cddXrs&t=7737s)]*
+
+> Judah: American blacks; Igbo, Nigeria; …; Liberians; Malagasy, Madagascar; Sierra Leone; Kikuyu, Kenya; Abayudaya, Uganda; Algeria; …, Kenya coast; Falasha, Ethiopia; Afro-Libyans; indigenous Negroes of North Africa, Morocco, Tunisia, Egypt; Songhai; Ashanti, Ghana; Wasambaa, Tanzania.
+
+- As a bunch of us were going through the history on that, it is so vast, brothers. So vast. This one is updated pretty much, and it's still more.
+
+- So y'all see how all those tribes, and there's more. We didn't even put on this one the northern kingdom tribes. So there's so much. I want y'all to see, as we traveled and got books and researched. Look at this. So, like I said, it's so vast. We'd be out there all day.
+
+</div>
+
 
 **[Acts 10:1-2](/bible/acts/10#v1)**  *[[2:10:15](https://www.youtube.com/watch?v=93fP6cddXrs&t=7815s)]*
 
@@ -398,6 +748,29 @@ Books read in class, with mission reports from the worldwide blitz played betwee
 > <sup>[17](/bible/acts/15#v17)</sup> That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
 
 - After this I will return, and will build again the tabernacle of David, which is fallen down. The kingdom split: Judah, Benjamin, and Levi on one side; Ephraim and the rest on the other. Acts 15 is looking back at Acts 10: God bringing the northern kingdom and the southern kingdom back together, rebuilding the tabernacle of David.
+
+
+<div class="reading">
+
+Reading from *The Solomon Islands and Their Natives* by H. B. Guppy, written in 1887  *[[2:17:49](https://www.youtube.com/watch?v=93fP6cddXrs&t=8269s)]*
+
+> It is, however, probable, as we learn from Abi Roshan, that some rumor of an island abounding in wealth and inhabited by Jews, which was reported to have been lately seen by the English 700 leagues west of Peru, had led to the fitting out of this expedition. Not unlikely, stories of the wealth of the missing islands of Mandana have been revived by the arrival in India of some ship that had come upon them in her track across the Pacific. And the reference to their being populated by Jews may be readily understood when I allude to the fact that the form of the nose in one out of every five Solomon Islanders, and in truth in many Papuans, gives the face quite a Jewish cast.
+
+- So they said there were Jews in these Melanesian islands.
+
+</div>
+
+
+<div class="reading">
+
+Reading from *Christopher Columbus and the Participation of the Jews in the Spanish and Portuguese Discoveries*  *[[2:19:54](https://www.youtube.com/watch?v=93fP6cddXrs&t=8394s)]*
+
+> Mingled in South America with Jews of the ten tribes.
+
+- So now we're talking about Jews of the 10 tribes in South America.
+
+</div>
+
 
 **[Acts 8:26-31](/bible/acts/8#v26)**  *[[2:23:42](https://www.youtube.com/watch?v=93fP6cddXrs&t=8622s)]*
 
@@ -489,7 +862,91 @@ Books read in class, with mission reports from the worldwide blitz played betwee
 > <sup>[8](/bible/nehemiah/8#v8)</sup> So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.
 
 - Ezra blessed the Lord, and the Levites caused the people to understand the law. They read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading. That is the model of teaching: read distinctly, give the sense, cause the people to understand.
-- From the Biblical and Theological Dictionary (1857), read in class: colleges and schools were erected in divers places for the prophets; the students were called sons of the prophets, not because they were literal sons of the former prophets but because they walked in their footsteps; they were numerous, at Naioth, Bethel, Jericho, and Gilgal; Obadiah hid a hundred of them by fifty in a cave from Jezebel; young men were educated under a proper master in the knowledge of religion and sacred music, and thither the people went on Sabbath days and at new moons to receive public lessons of piety and morality. Itinerant princes, priests, and Levites were sent through all the country to carry the book of the law and teach in the cities. Discourses were preached in camps, courts, streets, schools, cities, and villages, sometimes with great composure and coolness, at other times with vehement action and rapturous energy, sometimes in a plain blunt style, at other times in the magnificent pomp of eastern allegory, and preachers appeared in public with visible signs, implements of war, and yokes of slavery. So the schools, the camps, the signs, and the styles of teaching in IUIC are nothing new; and the same dictionary admits Christianity became sadly incorporated with pagan philosophy while its simplicity decayed within the first three centuries.
+
+
+<div class="reading">
+
+Reading from the *Biblical and Theological Dictionary*, put together in 1857, under Prophets and Preaching · read by Captain Yuri  *[[2:39:57](https://www.youtube.com/watch?v=93fP6cddXrs&t=9597s)]*
+
+> Godwin observes that for the propagation of learning, colleges and schools were in divers places erected for the prophets. The first intimation we have in Scripture of these schools is in 1st Samuel chapter 10 and verse 5, where we read of a company of prophets coming down from the high place with a psaltery, a tabret, a pipe and a harp before them, and they did prophesy. They are supposed to be the students in a college of prophets at …, or the hill, as we render it, of God.
+
+- So what I want y'all to see, they had schools called school of the prophets. Sons of the prophets, not because they were the actual sons of the former prophets. They walked in the same footsteps. They were obedient and learning. So they had a school erected, set up.
+
+> We read afterward of such another company of prophets at Naioth in Ramah prophesying, and Samuel standing as appointed over them, 1st Samuel chapter 19 verse 19 and 20. The students in these colleges were called sons of the prophets,
+
+- See that? They were called sons of the prophets. That's what you'll read about in these scriptures.
+
+> who are frequently mentioned in after ages, even at the most degenerate times. Thus we read of the sons of the prophets that were at Bethel, and of another school at Jericho, and of the sons of the prophets at Gilgal, 2 Kings 2:3 and 6 and chapter 4:38.
+
+- So what IUIC is doing is nothing new. The same way they had schools set up, IUIC has the same thing.
+
+> It should seem that these sons of the prophets were very numerous,
+
+- Very numerous.
+
+> for of this sort were probably the prophets of the Lord whom Jezebel cut off,
+
+- That's right. Jezebel was killing them.
+
+> but Obadiah took a hundred of them and hid them by fifty in a cave, First Kings chapter 18 verse 4. In those schools young men were educated under a proper master,
+
+- See that? Young men were educated under a proper master.
+
+> who was commonly, if not always, an inspired prophet, in the knowledge of religion and in sacred music, 1st Samuel 10:5, chapter 19:20, and were thereby qualified to be public preachers, which seems to have been part of the business of the prophets on the Sabbath days and festivals, 2 Kings 4:23. It should seem that God generally chose the prophets whom he inspired out of these schools.
+
+- So we looked up prophets. We're going to look up preaching now.
+
+> Some of them opened schools, or houses of instruction, and there to their disciples they taught the pure religion of Moses.
+
+- God's laws, commandments.
+
+> At Naioth, in the suburbs of Ramah, there was one where Samuel dwelt, and there was one at Jericho, and a third at Bethel, to which Elijah and Elisha often resorted. Thither the people went on Sabbath days and at new moons, and received public lessons of piety and morality, 1st Samuel chapter 19 verse 18, Kings chapter 2 verse 2 through 5, chapter 4 verse 2 and 3.
+>
+> Through all this period, however, there was a dismal confusion of the useful ordinance of public preaching.
+>
+> And at other seasons again, itinerants, both princes, priests and Levites, were sent through all the country to carry the book of the law and to teach in the cities.
+
+- That's what we read in Chronicles.
+
+> Many of these discourses were preached in camps,
+
+- Don't let people tell you there's no camps in the Bible. There's many camps.
+
+> in courts, in streets, schools, cities, villages,
+
+- That's what we're doing.
+
+> sometimes with great composure and coolness,
+
+- Some brothers, they teach with great composure and the coolness about them when they teach.
+
+> at other times with vehement action and rapturous energy,
+
+- Some brothers are louder and more boisterous, more powerful when they teach.
+
+> sometimes in a plain blunt style, at other times in all the magnificent pomp of Eastern allegory. On some occasions the preachers appeared in public with visible signs,
+
+- They came in public with signs.
+
+> with implements of war, with yokes of slavery,
+
+- Cuz they were explained in Deuteronomy 28.
+
+> or something adapted to their subject. They gave lectures on these, held them up to view, girded them on, broke them in pieces, rent their garments, rolled in the dust, and endeavored by all the methods they could devise, agreeably to the customs of their country, to impress the minds of their auditors with the nature and importance of their doctrine.
+
+- So, what we're doing is nothing new.
+
+> Christianity, it is true, it's found in their writings, but how sadly incorporated with pagan philosophy and Jewish allegory.
+
+- Wait a minute. He's saying Christianity has been sadly incorporated with pagan philosophy. That's Easter and Christmas. And Jewish allegories.
+
+> It must indeed be allowed that in general the simplicity of Christianity was maintained, though under gradual decay, during the first three centuries.
+
+- So under the first three centuries, Christianity was decaying, because what became incorporated was pagan philosophies.
+
+- So what we're doing, brothers, even the schools across the world, they're following the same protocol that we have here in the States, where you're learning about the laws of God. You're learning how to teach, how to preach, how to conduct yourself, how to stand before great men.
+
+</div>
 
 **[Ezra 4:1-5](/bible/ezra/4#v1)**  *[[2:48:20](https://www.youtube.com/watch?v=93fP6cddXrs&t=10100s)]*
 
@@ -518,8 +975,52 @@ Books read in class, with mission reports from the worldwide blitz played betwee
 
 - The same history in more detail: the heathen of the land, lying heavy upon the inhabitants of Judea and holding them strait, hindered their building by their secret plots, and popular persuasions, and commotions, and hindered the finishing of the building the space of two years, until the reign of Darius.
 - It is the same today. In India there are those who hate this gospel going to the police and the pastors saying, we have to stop those Israelites and shut down that school. Secret plots, popular persuasion, and commotions.
-- Book read in class: Racial Matters: The FBI's Secret File on Black America, 1960-1972, by Kenneth O'Reilly. Informants reported on obscure community activists and allowed the bureau to position itself ahead of the growth of these groups and leaders, to record their development and demise. Their practice with any group they label black nationalist is to have someone on the inside at the very beginning, before anyone takes the group seriously, so the informant looks beyond suspicion years later. So be mindful of people who just up and appear at young schools overseas with no counsel and no history; if you move to another country to an IUIC school, go through counsel, or you will not be received.
-- Video and article shown in class: the SPLC spokesman describing the strategy to bust up groups, sow discord, and make leaders appear corrupt so members reconsider; and the reported federal charges that between 2014 and 2023 the SPLC secretly funneled more than three million dollars to individuals associated with violent extremist groups including the Klan and Aryan Nations, while labeling others hate groups. An excerpt on COINTELPRO was also read: the program aimed to prevent the rise of a black messiah. Christ said in these last days he is raising up 144,000.
+
+
+<div class="reading">
+
+Reading from *Racial Matters: The FBI's Secret File on Black America, 1960-1972* by Kenneth O'Reilly · read by Captain Yuri  *[[2:51:49](https://www.youtube.com/watch?v=93fP6cddXrs&t=10309s)]*
+
+> These informants reported on obscure community activists who might become agitators for violent protest, and they allowed the bureau to position itself ahead of the growth of these groups and leaders, to record their development and demise.
+
+- So J. Edgar Hoover had informants, CIs, in all the groups. Notice it says, and they allowed the bureau to position itself ahead of the growth of these groups. Let me explain that part. We have schools set up in the Caribbean. New schools in Africa. You know what the informants, the CIs, do? They get up and all of a sudden they in Africa. Be mindful of brothers and sisters who just up and disappeared, like, where that brother at? Nobody knows. Then when we travel to the countries, they're in the congregation. We're like, what? Why are you here? What's going on?
+
+- So they go at the beginning stages, when the school is still young. This might be four people, five people. All of a sudden you got an officer from Atlanta. Boom. He's over there. Like, what the hell's going on here? Out of nowhere, no counsel, nothing. Now, you can move where you want. You're grown. We know that. But if you're going to go to an IUIC school, let us know. Don't just pop up, cuz you look suspicious.
+
+</div>
+
+- Video shown in class: the SPLC spokesman describing the strategy to bust up groups, sow discord, and make leaders appear corrupt so members reconsider.
+
+
+<div class="reading">
+
+Reading from an article on the Southern Poverty Law Center  *[[2:58:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=10719s)]*
+
+> Federal grand jury charges Southern Poverty Law Center for wire fraud, false statements, and conspiracy to commit money laundering.
+
+- So y'all saw what they did. SPLC was funding several Ku Klux Klan groups, and they're the ones talking about who's a hate group and who's not. SPLC was paying Ku Klux Klan, white Aryan Nations, millions of dollars. Millions.
+
+> Between 2014 and 2023, the SPLC secretly funneled more than $3 million and donated funds to individuals who were associated with various violent extremist groups, including the Ku Klux Klan, Aryan Nations, and National Socialist Party of America.
+
+- Y'all see that? Y'all see how evil these people are? They're supposed to be against those groups, but they were funding them. But then they'll point at us and go, you guys are a hate group. That's what they do.
+
+</div>
+
+
+<div class="reading">
+
+Reading from an article on COINTELPRO  *[[2:59:34](https://www.youtube.com/watch?v=93fP6cddXrs&t=10774s)]*
+
+> Prevent the rise of a black messiah. Madness or revolution.
+
+- So that's what COINTELPRO was about, preventing the rise of a black messiah. Well, guess what? Christ said in these last days he's raising up 144,000 black messiahs.
+
+> In the late 1960s, the Federal Bureau of Investigation, FBI, a United States of America intelligence agency, developed what is famously known as the counterintelligence program, COINTELPRO.
+
+- That's all I wanted.
+
+</div>
+
 - Closing video: what was scattered is being gathered; what was hidden is being revealed. Across the four corners of the earth, from villages to cities, the lost are waking up.
 
 ## In Closing

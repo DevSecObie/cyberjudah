@@ -28,15 +28,59 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[7](/bible/genesis/2#v7)</sup> And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
 - The Lord God formed man of the dust of the ground, and man became a living soul. People talk about evolution, that man came from primates; that is not true. The Bible says man was made from the dust of the ground, and we are going to prove what we say out of the word of God.
-- Science is only good if it goes with the Bible; if it contradicts the Bible, we are not interested. Infographic read in class, "From dust to dust, the elements that connect us to Earth": the human body is primarily composed of elements also found in soil. The main six elements responsible for life, carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur, are found in every cell, molecule, and structure in the body, and make up over 99 percent of our mass; the essential minerals, calcium, potassium, magnesium, sodium, and chlorine, and the trace elements, iron, zinc, silicon, and manganese, are the same nutrients found in the soil. We come from the earth, and to the earth we return, just like the Bible says.
-- The Most High is a mastermind, the author of beauty, the creator of all things. He knew what he was doing when he pulled Adam from the dust of the ground. The human body is literally a testament to God's word being true.
-- The other nations make sure we are deficient in these things; a lot of the foods we eat diminish them. So it is important that we maintain a healthy diet, brothers and sisters.
+- Science is only good if it goes with the Bible; if it contradicts the Bible, we are not interested.
 
   Precepts:
   - **[Ecclesiasticus 33:10](/bible/sirach/33#v10)**
     > <sup>[10](/bible/sirach/33#v10)</sup> And all men are from the ground, and Adam was created of earth:
 
     All men are from the ground, and Adam was created of earth. The second witness.
+
+<div class="reading">
+
+Reading from an on-screen chart, *From Dust to Dust: The Elements That Connect Us to the Earth*  *[[10:12](https://www.youtube.com/watch?v=sswMP7Skv-4&t=612s)]*
+
+> From dust to dust, the elements that connect us to the earth.
+
+- Now, I'm going to show you, science knows that we were created from the ground.
+
+> The human body is primarily composed of elements also found in soil: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus, which make up over 99% of our mass.
+
+- So, what is these scientists coming out of nowhere saying that we are somehow evolved from primates? You know that's to contradict God's word, right? They want to contradict the Bible. Why? Because God is a black man. I'm just being honest. They hate black people so much that they know our God is a black man. And they say, "Let's say that men came from primates." Which makes absolutely no sense. The ones that actually are logical, they say, "No, that's not true. The human body is comprised of the same elements that are found in the dust of the ground."
+
+> Soil provides the essential building blocks that build, maintain, and connect us to the earth's crust.
+
+- Listen, it said building blocks. The Lord build Adam from the dust of the ground.
+
+> Major elements. The CHNOPS. The main six elements responsible for life: carbon, hydrogen, nitrogen, oxygen, phosphorus, sulfur. Found in every cell, molecule, and structure in the body. Together they make up over 99% of our mass.
+
+- Now you'll find on the right side, and you can look at this on the right side, you'll find that those same things are in the soil. They're in the soil.
+
+> Essential minerals, which soil nutrients critical for cellular function in both humans and plants. Calcium: bones and teeth. Potassium: for your muscles and heart. Magnesium: enzyme function and energy. Sodium: fluid balance and nerve function. Chlorine: fluid balance and stomach acid.
+
+- So the most high God is a mastermind. He is the author of beauty. He is the creator of all things. He know what he was doing when he pulled Adam from the dust of the ground. The Bible is a true book. It don't matter what nobody say. We don't give a damn what nobody say.
+
+- The human body, us, we are literally a testament to God's word being true. Every human being walking on this earth, and we just so happen to be the best because we got that melanin. We the sons of God. But we directly descend from Adam's lineage. So it says calcium, potassium, magnesium, sodium, chlorine. All of these things are also in the earth. On the right hand side is what's in the soil.
+
+> Trace elements: needed in small amounts but vital for many biological functions. Iron: oxygen transport, hemoglobin.
+
+- You ever go to the doctor, they say your iron is low, because you have iron in your body.
+
+> Zinc: immune function and wound healing.
+
+- You remember during the time of COVID, y'all remember they were saying, "Look, take zinc," cuz they know that's natural for the body. To deprive your body of zinc is to make your immune system dysfunctional. So, you need zinc. So, zinc is for immune function and wound healing.
+
+> Silicone: connective tissue, skin and bone health. Manganese: enzyme function and antioxidant defense.
+
+- So that's the same thing that's in the soil. So, don't ever let anybody tell you that the Bible, first of all, is not a true book, and that God did not design man from the dust of the ground, because that's foolishness.
+
+> We are made of the earth. The elements in soil are the same elements in our bodies. Tiny particles of rock and organic matter form the foundation of life. We come from the earth, and to the earth we return.
+
+- Just like the Bible says. So we don't give a damn about what anybody has to say regarding how God, our God, our father created us.
+
+- You saw how like zinc, iron, all these different things, right? The other nations make sure that we're deficient in these things. A lot of the foods that we eat, a lot of the things that we put into our bodies, is to diminish those things to kill us faster. I'm going to show you that today. So it's important that we maintain a healthy diet, brothers and sisters. Especially those brothers that's really on this health tip. You really trying to get yourself together, get yourself in shape, take heed to what we talking about.
+
+</div>
 
 **[1 Corinthians 15:47-49](/bible/1-corinthians/15#v47)**  *[[15:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=948s)]*
 
@@ -81,8 +125,22 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[26](/bible/2-esdras/3#v26)</sup> And in all things did even as Adam and all his generations had done: for they also had a wicked heart:
 
 - The first Adam, bearing a wicked heart, transgressed and was overcome; and so be all they that are born of him. Since Adam sinned, everybody that comes after him, all of us that have borne his image, have sinned as well.
-- Thus infirmity was made permanent. Definition read in class: an infirmity is a physical or mental weakness, frailty, or ailment, often associated with old age, chronic illness, or a condition that reduces a person's vitality. Was Adam feeling physical pain when he was first created? When Adam got cast down, and his descendants with him, then came the backaches and body aches and headaches; the woman now has the menstrual cycle and feels the pains of childbearing. When our father fell, we all fell with him, and now we all face infirmity, physical and mental weakness. Focus on the mental.
+- Thus infirmity was made permanent: now ailments, frailty, sickness, mental and physical weakness; your body is susceptible to those things because of the sin of our father.
 - The good departed away, and the evil abode still: the immortality departed, but that evil nature is still in our flesh. And in all things did even as Adam and all his generations had done, for they also had a wicked heart.
+
+<div class="reading">
+
+Reading from a definition of infirmity  *[[22:15](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1335s)]*
+
+> An infirmity is a physical or mental weakness, frailty, or ailment.
+
+- Now, let me ask you a question. You think Adam was feeling physical pain when he was first created? When Adam got cast down, he started saying, "My joints hurt. Why does my back feel like this? My fingers. Why my fingers hurt from digging up all this dirt and having to go out and plant crops and build houses?" Adam had everything. When he got cast down, and his descendants, when everybody got cast down, now we feeling backaches and body aches and headaches. The woman now has menstrual cycle. She feels the cramps. She feel her children when the baby's in her belly. She feel that pain.
+
+- Y'all understand why? Because of Adam's sin. When our father fell, we all fell with him. And when we fell with him, now we all face infirmity, physical, mental weakness. I really want to focus on the mental. Mental weakness, frailty, or ailment.
+
+> Often associated with old age, chronic illness, or general disability. It is a broad term used to describe a lack of strength or a specific medical condition that reduces a person's vitality.
+
+</div>
 
 **[2 Esdras 4:30-31](/bible/2-esdras/4#v30)**  *[[25:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=1520s)]*
 
@@ -153,13 +211,31 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[15](/bible/wisdom-of-solomon/9#v15)</sup> For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things.
 
 - For the thoughts of mortal men are miserable, and our devices are but uncertain. Some of us do things and do not even realize why. Some of us have anger issues and do not know where they stem from; some of us are depressed and cannot find the source. Why is my heart rate always up? Why do I sweat when nothing is happening? Something is turning your wheel; some mental anguish is being dealt with in the moment.
-- For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things. Definition read in class: to muse means to think deeply, meditate, ponder, or murmur on something, to consider closely or study in silence. Our minds muse daily upon many things: why did that person die, where did I go wrong, should I have married her, what could happen to my daughters. Most of you toss and turn every night, especially the man carrying the burden of his whole family. This earthy tabernacle is what causes us to overthink and overanalyze everything.
+- For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things. Remember: as is the earthy, such are they that are earthy; this is that earthly tabernacle.
 
   Precepts:
   - **[Psalms 143:5](/bible/psalms/143#v5)**
     > <sup>[5](/bible/psalms/143#v5)</sup> I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.
 
     Listen to the word David used: I muse on the work of thy hands. He would think on why life is the way it is, why we suffer certain conditions. Even Esdras said it was not in his mind to know the deep things, but to know why Israel suffers what we suffer.
+
+<div class="reading">
+
+Reading from a definition of muse  *[[40:03](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2403s)]*
+
+> In the Bible, muse means to think deeply, meditate, ponder, or murmur on something, especially God's word or works, often involving self-communion, prayer, and praise, rather than the classical Greek idea of a goddess inspiring art.
+
+- So muse is to think deeply, meditate, ponder or murmur on something, especially God's word. When the Bible says our mind muses on many things, many things, we wonder why does it happen? Why did that person die? Why is my life like this? Where did I go wrong? Should I have married her? Should I have done this? Should I went to that job interview? Why did I get drunk last night? Well, all of our minds muse daily upon many things. And you know he do, because most of you, you can't sleep. Most of you toss and turn every night.
+
+- Especially a man that go to work every morning to have the whole burden of his whole family. Wife at home, kids at home. He got to get up. He got to go do what he got to do. I know you toss and turn because I've done it many nights. If you got children, daughters, you up thinking about what could happen to them. We all muse upon many things, and this earthly tabernacle is what causes us to overthink and overanalyze everything.
+
+> Definition: to consider closely, ponder, or study in silence.
+
+> Context: it refers to deep, quiet contemplation of God's works, acts, and commandments.
+
+> Synonyms or related terms in the KJV: meditate, frequently used interchangeably. Example: Psalms 119:15, Psalms 143 verse 5.
+
+</div>
 
 **[Wisdom of Solomon 7:17-20](/bible/wisdom-of-solomon/7#v17)**  *[[42:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=2559s)]*
 
@@ -205,13 +281,42 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - From him that sitteth on a throne of glory, unto him that is humbled in earth and ashes: it does not matter if you are rich or poor; every man and woman has the same issues. Money does not heal trauma; that is why many athletes and entertainers fall apart when they retire and have to actually be with themselves.
 - And in the time of rest upon his bed his night's sleep do change his knowledge: you overthink at night. Some of you wake up out of evil dreams, dreams of death, of losing a loved one, of losing your job, and you are troubled in the vision of your heart as if you escaped out of a battle; and when all is safe, you awake and marvel that the fear was nothing. Thank God it was just a dream. Every man and woman goes through this, because when Adam fell, we all fell.
 - Such things happen unto all flesh, both man and beast, and that is sevenfold more upon sinners. It is seven times worse if you are in sin. Hold that verse; we are coming back to it.
-- Teaching on the nervous system: the central nervous system is the command center, the brain and spinal cord; the peripheral nervous system is the communication network carrying signals between the brain and your organs, muscles, and skin. You put your hand on a hot stove, and the signal makes you feel the pain and pull away; the nervous system is built to protect you. The somatic system controls voluntary movement; the autonomic system regulates involuntary functions like heart rate, digestion, and breathing; the sympathetic side is fight or flight, activating the body for survival; the parasympathetic side is rest and digest, calming the body, conserving energy, and promoting healing.
-- Some of us have that rest and digest side jacked up: our bodies are not able to get into a state of calm, we barely sleep, and our bodies are not healing. The Bible is telling you all flesh goes through these things, but it is worse in sin.
-- How stress and trauma affect the nervous system: the amygdala is the threat detector that triggers fight or flight, releasing cortisol and adrenaline. If you have been through trauma, your threat detection fires all the time. Everybody is a threat: do not trust him, do not trust my wife, do not trust my co-workers; I will just be an introvert, alone in the house. A lot of us have lived that life.
-- Under extreme trauma the calming system can fail to downregulate, leading to a freeze or a fawn response. Freeze goes into numbness and dissociation. Fawn means you put yourself to constant work: OCD, I have to clean, I have to move, I cannot sit down.
-- Trauma causes long term changes to key brain regions: the amygdala (threat detection), the hippocampus (memory and context; that is why sometimes you cannot remember things), and the prefrontal cortex (decision making and regulation; some people keep making horrible decisions and do not understand why). Dysregulation symptoms: hyperarousal, constantly on edge, irritable, anxious, panicky; or hypoarousal, feeling numb, exhausted, disconnected, emotionally detached. Brother, why are you missing assignments, why are you not on the Telegram, what is going on in your life? The first thing we say is, he is out of the spirit; that may be true, but why is what we should be asking.
-- Video played on the vagus nerve: the longest cranial nerve in the body, running from the brain stem into the stomach, regulating stress, digestion, and emotional safety. When it is dysregulated you feel numb, exhausted, and dissociated, you self-isolate, and small tasks feel overwhelming; prolonged stress or trauma can put the body into a freeze state. And you can absolutely restimulate it and get your energy back. There is hope, and the word of God is how we are going to do it.
-- Ongoing traumatic stress leads to physical consequences: high blood pressure, digestive issues, chronic pain, weak immune function. This is where we come in as husbands and leaders: we set the example first, so we should not have unhealthy, out of shape men among us. The men lead the nation; nobody is coming to lead our nation for us.
+
+<div class="reading">
+
+Reading from a chart of the nervous system  *[[51:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=3108s)]*
+
+> The central nervous system, which is the command center. That's your brain, your spinal cord. Basically, your brain processes information, makes decisions, and controls your body functions. It sends signals down the spinal cord, the information highway between the brain and the rest of the body.
+
+> The peripheral nervous system, PNS, the communication network. Nerves branch off from the spinal cord to every part of the body, transmitting signals between the central nervous system and your organs, muscles, and skin.
+
+- For example, you put your hand on the stove, it's hot. The brain sends a signal to the finger to remove itself and to feel the pain. Without the nervous system, the finger doesn't feel that, and you burn your finger off. The nervous system is built to protect you. That's what it's built for. It's built to protect you. And it can be used for good, but what else can it be used for? That's why Paul said, I know when I want to do good, evil is present with me.
+
+> The PNS subdivisions. Somatic nerve system: controls voluntary movements of skeletal muscles.
+
+> The autonomic nervous system, the ANS: regulates involuntary function, heart rate, digestion, breathing.
+
+- Because how often do you think about breathing? When you actually think about it, that's when you have to actually manually breathe, right? But most of the times we breathe without thinking about it. That's because the autonomic nervous system is moving. Same thing with your heart rate. Your heart rate increases on its own. The digestion: you don't think about digesting your food, your body just does it. That's because your nervous system, the peripheral nervous system, is at work.
+
+> Sympathetic: fight or flight. Activates the body for action and survival.
+
+- That's why sometimes somebody roll up on you out of the way and you throw them dukes up, throw them hands, like, what it is. Sometimes you flee, you run. Why? Because that nervous system kicks in and tells you this is danger and you cannot fight it. So you flee from it.
+
+> Parasympathetic: rest and digest. Calms the body, conserves energy, and promotes healing.
+
+- You know, some of us, this particular part of our nervous system is jacked up. Our rest and our digest, our bodies are not able to get into a state of calm. We don't conserve energy. Some of us barely sleep. And some of our bodies are not healing. Some of us have autoimmune deficiency, right? While our immune system basically attacks us. Any little small sickness and we get attacked by our own body. Our body attacks us instead of attacking the disease. The Bible is telling you that we all go through these things, but it's worse when we in sin.
+
+> How stress and trauma affect the nervous system. The stress response system, sympathetic nervous system, the SNS: activated instantly by the amygdala during threats to trigger fight or flight. Releases cortisol and adrenaline to increase heart rate, energy, and alertness.
+
+- So that happens without you even thinking about it. That comes from the amygdala. The amygdala is basically the threat detection. It helps you detect a threat. But if you jacked up and you've been through trauma, how often does your amygdala detect threats? All the time. Everybody's a threat. Don't trust him. Don't trust my wife. Don't trust my children. Don't trust my co-workers. I can't trust nobody. Stay away from me. I'll just be introvert. You say, "Why you always by yourself?" Because your threat detection system is in rapid fire all the time because of your traumatic experiences.
+
+- Now you don't trust nobody. Now, you know what? I'm going to smoke my weed and sit at the house, play video games. Don't bother me. I won't bother you until I want some sex or some food. That's what I'm just telling you. A lot of us are living that life or have lived that life. Not now, but at that time we lived those lives.
+
+> Parasympathetic nervous system, the PNS: normally responsible for calming the body, rest and digest. Under extreme trauma, it may fail to downregulate, leading to a freeze or fawn response.
+
+- So to freeze goes into numbness, to be disassociated. But do you know what fawn means? Fawn means you put yourself to work because of you not ever able to calm down. You develop things like OCD. I got to clean. I got to clean. I got to clean. Oh, that pitch is wrong. I got to move. I can't. Bro, sit down. Get some rest. I can't.
+
+</div>
 
 **[Luke 10:39-42](/bible/luke/10#v39)**  *[[57:08](https://www.youtube.com/watch?v=sswMP7Skv-4&t=3428s)]*
 
@@ -226,6 +331,70 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - Mary sat at Christ's feet and heard his word, but Martha was cumbered about much serving: that is a fawn response, moving around, I have to do this, I have to take care of that.
 - Christ answered, Martha, Martha, thou art careful and troubled about many things: but one thing is needful, and Mary hath chosen that good part. Some of us immerse ourselves in things to do so we do not have to deal with our thoughts. The Bible also says be not idle, so we have to find the balance: sometimes you have to sit down, let your brain and body rest, meditate in the word of God, fast, and pray.
 
+<div class="reading">
+
+Reading from the same chart, on the impact of trauma  *[[59:04](https://www.youtube.com/watch?v=sswMP7Skv-4&t=3544s)]*
+
+> Impact of trauma on the nervous system. Traumatic events can cause long-term changes to key brain regions. Amygdala: threat detection. Hippocampus: memory and context.
+
+- That's why sometimes you can't remember things.
+
+> Prefrontal cortex: decision making, regulation.
+
+- So some people make bad decisions because of trauma, the impact of trauma on the nervous system. You're constantly in a state of threat. You always think something is threatening you. You have memory loss. You can't remember context. Prefrontal cortex, decision making and regulation. Some of you make horrible decisions and you don't understand why you keep messing up. Why I keep messing up? It's because of the trauma. You got to fix it. And we're going to show you how to fix it today.
+
+> Dysregulation symptoms. Hyperarousal, fight or flight: feeling constantly on edge, irritable, anxious, or panicky.
+
+- Always on edge. Irritated. Sweaty palms. Aggravated. Nauseous.
+
+> Hypoarousal, freeze: feeling numb, exhausted, disconnected,
+
+- Now you're numb. Constantly tired. You're not engaged. You're missing messages on the Telegram. You're not engaged in your office, brother. Is you going through depression, brother? What's going on with you? What's happening in your life that caused you to be this way? We have to get to the bottom of it. Why are you missing assignments? Why are you late? Why are you not on the Telegram? What's going on with you? Because the first thing we do is say, "Oh, he out the spirit. He got the devil on him." Okay. Well, that may be true, but why is what we should be asking. What is going on to cause you to be disengaged, disconnected?
+
+> or emotionally detached.
+
+- This is also postpartum depression. You know that, right? Because in postpartum, women feel this way. They feel numb. Am I right, sisters? You don't have to raise your hand. If any woman's ever battled postpartum depression, you feel numb. You feel exhausted, disconnected. You know what it mean to be emotionally detached. That baby crying and you don't hear it. The baby crying and your husband say, "Babe, you don't hear the baby?" You tune the baby out.
+
+- But I'm just saying, you detach yourself in the moment, because you got so much stuff going on.
+
+> Vagal nerve impact. The vagus nerve, which brings the body back to a calm state, may become less efficient, leading to prolonged anxiety or depression.
+
+- So this vagus nerve, it brings the body back to a state of calm, may become less efficient, leading to prolonged anxiety or depression. So you can't calm down. You're always depressed. You always got anxiety that comes from that vagal nerve weakening because of the trauma and because of things you've been through. And guess what? You didn't know this in time past, but your depression is rooted in your body because of the things you put into your body and because of sin. That's why Christ said it's seven times more what? Upon sinners.
+
+</div>
+
+- Video played on the vagus nerve: the longest cranial nerve in the body, running from the brain stem into the stomach, regulating stress, digestion, and emotional safety. When it is dysregulated you feel numb, exhausted, and dissociated, you self-isolate, and small tasks feel overwhelming; prolonged stress or trauma can put the body into a freeze state. And you can absolutely restimulate it and get your energy back. There is hope, and the word of God is how we are going to do it.
+
+<div class="reading">
+
+Reading from the same chart, on the physical consequences  *[[1:04:24](https://www.youtube.com/watch?v=sswMP7Skv-4&t=3864s)]*
+
+> The physical consequences. Ongoing traumatic stress can lead to high blood pressure, digestive issues, chronic pain, and weak immune function.
+
+- So, there was a sister that was on a talk show, and she said that black women being overweight stems from racism. And at first, I mocked her. I said, "Man, hell no. You're just fat and you don't want to lose the weight. You're undisciplined." Then I started doing the research and I realized, although them being lack of discipline is key, they don't want to change in some cases, but women's bodies are hormonal. That's why the Bible say they're the weaker vessel. A sister must reset her nervous system by getting her mind right according to God's word in order to have the motivation to push through that pain and that numbness to get into the gym.
+
+- This is where we come and play as husbands and as leaders. We set the example. That's why we should not have any fat men amongst us. We have to set the example for them, to show that it can be done, because their mind will always revert back to, well, the men aren't in shape. The men lead the nation, brothers. Ain't nobody coming to lead our nation for us. It's going to be us. We are the leaders. We are the first fruits of Christ. We got to set the nation in order. So for you brothers that still lollygagging in the 26%, 35%, shame on you. Fix that crap.
+
+> What this looks like in daily life: constant subconscious alertness;
+
+- There you go. You always alert subconsciously.
+
+> difficulty concentrating, remembering, or making decisions; anxiety, mood swings, irritability, or sadness; chronic fatigue and exhaustion; digestive problems; muscle tension; chronic pain; weakened immune system.
+
+- Moody. Always tired. Stomach, belly aches. Tight muscles. Always got pain in your body. Your immune system becomes weakened.
+
+</div>
+
+<div class="reading">
+
+Reading from an etymology of the word trauma  *[[1:07:44](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4064s)]*
+
+> Origin and history of trauma. Trauma: 1690s, physical wound. Medical Latin, from Greek trauma, a wound, a hurt, a defeat.
+
+- So the word trauma means wound. It's a Greek word for wound. So when we say you are traumatized, what we're saying is you're wounded. Watch this. King David said the same thing. Trauma is a wound. And a wound has to be what? Treated, so that it can be what, brothers? Healed.
+
+</div>
+
 **[Psalms 109:20-22](/bible/psalms/109#v20)**  *[[1:08:17](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4097s)]*
 
 > <sup>[20](/bible/psalms/109#v20)</sup> Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.
@@ -234,7 +403,6 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 >
 > <sup>[22](/bible/psalms/109#v22)</sup> For I am poor and needy, and my heart is wounded within me.
 
-- Definition read in class: the word trauma is Greek for a wound, a hurt, a defeat. When we say you are traumatized, we are saying you are wounded; and a wound has to be treated so it can be healed.
 - David said, I am poor and needy, and my heart is wounded within me. What is David describing? Trauma. I told you these men were psychologists; they understood emotions and emotional regulation long before the modern terms existed.
 
 **[Proverbs 15:13](/bible/proverbs/15#v13)**  *[[1:09:48](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4188s)]*
@@ -252,19 +420,154 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - She opened a clinic in one of the poorest neighborhoods of San Francisco, and kids kept being referred for ADHD; but on a thorough history, most had experienced such severe trauma that something else was going on. In public health school they teach: if a hundred kids all drink from the same well and 98 of them develop diarrhea, you can write prescription after prescription, or you can walk over and ask what is in this well. The Lord is working on our people: writing the prescription keeps them rich, but she wanted to know why the people are sick.
 - The Adverse Childhood Experiences study asked seventeen and a half thousand adults about exposure to ACEs: physical, emotional, or sexual abuse; physical or emotional neglect; parental mental illness, substance dependence, incarceration; parental separation or divorce; domestic violence. Pause: did she not just describe our existence, everything our community has endured? ACEs are incredibly common: 67 percent of the population had at least one, and one in eight had four or more, with a dose response relationship: the higher the ACE score, the worse the health outcomes.
 - Back to Ecclesiasticus 40:8: such things happen unto all flesh, and that is sevenfold more upon sinners. And who did they teach to sin? What community do they keep in sin, knowing it leads to sickness later in life? The liquor store in our community, the drugs in our community, no banks, no loans; it is systematic, and every industry profits from what we have been through. This is why you brothers are called to heal: millions of our people are waiting on us to stand up, teach them the word of God, and help them heal.
-- From the ACE study PDF: the ACE score adds up the categories reported, from 0 to 10. The pyramid starts at adverse childhood experiences at the base, which lead to social, emotional, and cognitive impairment, which lead to the adoption of health risk behaviors, which lead to disease, disability, and social problems, and early death. Risk factors associated with the score: alcoholism, smoking, illicit drug use, obesity, suicide attempts, depression, anxiety, hallucinations, teen pregnancy, spontaneous abortion or fetal death, intimate partner violence, poor quality of life; diseases and early mortality: chronic obstructive pulmonary disease, ischemic heart disease, liver disease, sexually transmitted diseases, lung cancer, death before age 65.
-- Definition read: a spontaneous abortion, more commonly known as a miscarriage, is the unexpected ending of a pregnancy before the 20th week, affecting roughly 10 to 20 percent of recognized pregnancies. Many of the miscarriages our sisters suffer stem from stress and trauma; the body cannot carry a certain stress level in pregnancy. You have to believe the word of God, forgive, and let go; it is affecting your body.
-- Neglect goes hand in hand with abuse: if a child was harmed, that child was also unprotected. And physical neglect is broader than we think: feeding children nothing but processed food and sugar, never teaching them to exercise or eat, tuning your children out and handing them a tablet instead of time; that is leading them down a path to be sick as adults. A child is supposed to be able to talk to their parents.
+
+<div class="reading">
+
+Reading from a PDF from Prevent Child Abuse America on the adverse childhood experiences study  *[[1:21:14](https://www.youtube.com/watch?v=sswMP7Skv-4&t=4874s)]*
+
+> The ACE score: adding up the impact. The ACE score takes the interrelatedness of ACEs into account to show how they add up to exert their effects. The number of categories of ACEs is added up for each person to produce the ACE score,
+
+- So you produce your ACE score.
+
+> from ranges 0 to 10. An ACE score of zero means that none of the categories were reported, while an ACE score of five means that the person reported five categories of ACEs.
+
+> The prevalence of ACE scores in the study population is as follows: 0 equals 33%, 1 equals 26%, 2 equals 16%, 3 equals 10%, 4 equals 15%.
+
+- So on and so forth.
+
+> Adverse childhood experiences. Social, emotional, and cognitive impairment. Adoption of health risk behaviors. Disease, disability, and social problems.
+
+- So, this is the pyramid that they used. Notice that at the bottom of the pyramid is adverse childhood experiences. This is where it starts. But that leads to social, emotional, and cognitive impairment. Mind, let's go back to your mind. Social problems, emotional struggles, mental health issues, adoption of health risk behaviors.
+
+- So they understand that from your adverse childhood experiences come social, emotional and cognitive impairment, which leads to the adoption of health risk behaviors like smoking weed, doing drugs, smoking cigarettes, teen pregnancy, all that. They know if they put you in the worst condition possible, you'll die early. This is the system. This is how they keep the system going.
+
+- You will raise your children in the same environment. That's why many of your fathers, many of your mothers, many of your grandparents never left the hood. They never left. Why? Because they are products of their environment. They stayed because they had no knowledge.
+
+</div>
 
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[1:24:01](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5041s)]*
 
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 - We wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. We are fighting against Satan, and Satan has an agenda to destroy the children of Israel; the rest of the people caught up in the system are collateral damage to him.
-- Book read in class, Trauma Letters, on Erik Erikson's stages of development: human development occurs across eight sequential stages, each presenting a critical psychological challenge. When a child successfully navigates each stage, they build the foundation for the next; when stages are disrupted by absence, neglect, trauma, or instability, the unresolved tension carries forward into every phase of life. The infant who does not develop trust carries a deep seated suspicion of the world; the toddler who is not affirmed grows into an adult plagued by insecurity and self doubt; the adolescent who does not form a stable identity may spend decades searching for themselves in the wrong places: relationships, achievements, or addictions. Is this not our life? And they knew it, and made sure we grew up in these conditions.
-- Childhood trauma is not merely a past event: when developmental steps are missed, the wound is carried forward, shaping adult thought patterns, relational expectations, and spiritual identity. Healing must address the stage at which the wound occurred, not the surface symptoms. That means you have to go back, find where it took place, and heal from that point: forgive your father, forgive your mother, and let it go.
-- The book also lays out the divine design of parental guidance: train up a child in the way he should go (Proverbs 22:6); parents are appointed as the primary conduit through which God's wisdom, law, and love flow into the next generation (Deuteronomy 6). When parents are absent, wounded, or disengaged, a door is opened for trauma, confusion, and spiritual vulnerability; we open up portals to Satan.
-- Born into a curse: Deuteronomy 28:19 speaks of a curse that follows those who fail to walk in the ordinances of God. A curse is a pattern of traumatic, oppressive, destructive conditions that operate generationally: systemic injustice, family dysfunction, cycles of addiction, emotional neglect, mass fatherlessness, poverty, broken covenant. These are not accidents; they are the fruit of generational curses left unbroken. That is Deuteronomy 28. Go back and read it and you will see trauma, trauma, trauma.
+
+<div class="reading">
+
+Reading from a PDF from Prevent Child Abuse America on the adverse childhood experiences study, continued  *[[1:24:43](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5083s)]*
+
+> ACE category. Abuse: emotional, physical, sexual.
+
+- So, these are three categories right here. And off the top, everybody in here just got cut in some way, shape, or form. We've all gone through some type of emotional abuse. Some of us went through physical abuse. Some of us have gone through sexual abuse. So, right off the bat, most of the black and Hispanic community, so-called, we already on the damn chart. Three times we on the chart.
+
+> Neglect: emotional and physical.
+
+- Now wait a minute. If I'm physically or sexually assaulted, do you think I was neglected emotionally? They go hand in hand. If I was abused sexually, that means I was abused emotion. I was neglected. Meaning my mom and dad weren't watching out for me. My grandparents weren't watching out for me. Whoever my guardian is, they weren't watching out for me. And I was touched. A young girl was touched. So if I have sexual, physical or emotional abuse, I also have emotional and physical neglect.
+
+- When your mama take you to the damn store and buy you all of this processed food, sugar, high fructose corn syrup, all that different stuff like that, that's a physical neglect. When you don't make your children exercise, when you don't teach them how to eat, that's physical neglect. When you tune your children out and don't listen to them and help guide them, that's emotional neglect. A child supposed to be able to talk to their parents. They supposed to be able to ask you questions. They need time one-on-one with you. When you don't give them that and you give them an iPad, you're leading them down a path to eventually be sick as an adult. They know it. That's why you got shorts on social media, TikTok. They're destroying our children. They're starting from a young age.
+
+> Household dysfunction: domestic violence,
+
+- So, some of you saw this growing up.
+
+> substance abuse,
+
+- Some of you saw this growing up.
+
+> mental illness,
+
+- Some of you saw family members that had mental illnesses.
+
+- A brother told me his brother had a mental illness and he always had to take care of him, and it made him resent his mother, because that's her son. I'm a kid. I want to be a kid, but I always got to take care of my brother who has a mental illness. Don't y'all realize how that affects us? So now I grow up and I'm selfish. I don't really want to do nothing for nobody, cuz my whole life I was serving him. And it's not that I don't love my brother. I know he couldn't help it. But mama, why you made me do it? Why you didn't take care of your son? But the father's not there and the mama got to work two jobs. So who going to take care of him? And they know it's going to lead to what? It's going to lead to sickness.
+
+> parental separation/divorce,
+
+- Some of us, our parents separated or divorced. My mother and father got a divorce when I was two years old. I understand this. I had a stepfather. So I understand this.
+
+> crime.
+
+- So wait a minute. Is there anybody you think in our community that fall into every damn category, and you wonder why they dying at 40? Dying at 36, dying at 51. You say, "Damn, he died early, man. He was too young. Gone too soon." Meanwhile, Esau sitting back saying, "Yep, exactly where I wanted him." So, traumatic experiences, ACEs, they lead to sickness later on in life.
+
+> Health issues associated with ACE score. Risk factors: alcoholism and alcohol abuse, smoking,
+
+- These are risk factors, which comes from the social, emotional and cognitive impairment.
+
+> illicit drug use and IV drug abuse, obesity,
+
+- I told you obesity is not something that you just become. Obesity is something you learned. Where did you learn it from? The way you grew up. That's why a lot of us is fat now and we trying to get ourselves together. But guess what? You can reset that.
+
+> suicide attempts, depression, anxiety, hallucinations,
+
+- We say, "Damn, that brother crazy." Nah, it's not just the mental disorder now. It's the root cause of it.
+
+> teen pregnancies, spontaneous abortion or fetal death,
+
+- Young girls getting pregnant early.
+
+- Wait a minute. Whoa, whoa, whoa, whoa. Spontaneous abortion. Give me that. I told you to look it up. I told you we gonna go heavy. Because somebody might say, "Well, I don't understand what that is, because I know what abortion is, but what is a spontaneous abortion?"
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of spontaneous abortion  *[[1:30:37](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5437s)]*
+
+> A spontaneous abortion, more commonly known as a miscarriage, is the unexpected ending of a pregnancy before the 20th week. It is a relatively common occurrence, affecting roughly 10% to 20% of recognized pregnancies.
+
+- So we know sisters that have had miscarriages before, and we sympathize, but then we start saying, I wonder why the Lord allow miscarriage. A lot of the miscarriages that our sisters are having, these spontaneous abortions, are stemmed to trauma in your mind. You have to believe the word of God. You have to have faith that God's word can change your life. You have to remove all of the traumatic experiences that you've gone through from your heart. You have to forgive. You have to let go. It's affecting your body. It's affecting your body. Your body cannot be under a certain stress level when you're pregnant. That's why some women got to lay down the whole pregnancy, cuz the doctor said, "Nope, you're too stressed."
+
+- But Esau knows: one, we'll get them through teen pregnancy. They'll probably go abort the baby on their own. Two, they'll want the baby, but they have a spontaneous abortion because of the stress factors that we put them through.
+
+</div>
+
+<div class="reading">
+
+Reading from a PDF from Prevent Child Abuse America on the adverse childhood experiences study, continued  *[[1:32:04](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5524s)]*
+
+> intimate partner violence,
+
+- That's domestic violence.
+
+> poor quality of life,
+
+- You live a horrible life. You eat pork, shrimp, crab, and lobster. You smoke cigarettes. You just live bad.
+
+> and others. Diseases and early mortality: chronic obstructive pulmonary disease, ischemic heart disease, liver disease, sexually transmitted diseases,
+
+- Why? Because you're having sex early. You're not married.
+
+> lung cancer,
+
+- Smoking cigarettes and weed.
+
+> death before age 65.
+
+- Die before the age of 65. And they know this. That's why I told you they put crafty counsel against God's people.
+
+</div>
+
+<div class="reading">
+
+Reading from *Trauma Letters*  *[[1:33:36](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5616s)]*
+
+> Erik Erikson's stages of development and the impact of missteps. Developmental psychologist Erik Erikson proposed that human development occurs across eight sequential stages, each presenting a critical psychological challenge. When a child successfully navigates each stage, they build the emotional and psychological foundation for the next.
+
+> However, when stages are disrupted by absence, neglect,
+
+- This is the ACEs.
+
+> trauma, or instability, the unresolved tension carries forward into every subsequent phase of life.
+
+- They carry those wounds into every phase of life, and the lack of development.
+
+> For example, when an infant does not develop trust in their primary caregiver, stage one, trust versus mistrust, they carry a deep-seated suspicion of the world into childhood and beyond.
+
+- That's why you always suspicious.
+
+> When a toddler is not affirmed in their autonomy, stage two, autonomy versus shame and doubt, they may grow into an adult plagued by insecurity and self-doubt. When an adolescent does not form a stable identity, stage five, identity versus role confusion, they may spend decades searching for themselves in the wrong places: relationships, achievements, or addictions.
+
+- Isn't this our life? I'm telling you, this our life, y'all. This is our life. And guess what? They been knew this. And they said, "Do not teach this to them. Make sure that they grow up in these conditions, to continue to keep them in the condition that they in, in the degenerate sea."
+
+</div>
 
 **[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[[1:35:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5739s)]*
 
@@ -284,6 +587,42 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
     How did we become that degenerate plant? Thine own wickedness shall correct thee, and thy backslidings shall reprove thee. It is an evil thing and bitter that thou hast forsaken the Lord thy God. Look at our conditions.
 
+<div class="reading">
+
+Reading from *Trauma Letters*  *[[1:37:42](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5862s)]*
+
+> This is why childhood trauma is not merely a past event. When developmental steps are missed, the wound is carried forward,
+
+> shaping adult thought patterns, relational expectations, and spiritual identity. Healing must therefore address the developmental stage at which the wound occurred, not merely the surface-level symptoms.
+
+- That means you got to go back and find out where it took place, and heal from that point. Meaning what? I got to forgive my father. I got to forgive my mother. I got to let it go. I can't continue to hold on to it. It's affecting me as an adult, and my mental and physical health.
+
+> The divine design of parental guidance.
+
+- This is our mission now, brothers and sisters that have children. We raising this truth.
+
+> Proverbs 22:6 declares, "Train up a child in the way he should go, and when he is old, he will not depart from it." Children are not only meant to be guided. They are designed by God to receive guidance through their parents, grounded in biblical law and commandment. Deuteronomy 6:1 and 6:7 make this divine mandate clear. Parents are appointed as the primary conduit through which God's wisdom, law, and love flow into the next generation.
+
+- Is that not a fact?
+
+> When children are not exposed to this divine spiritual ordinance, when parents are absent, wounded, or disengaged, a door is open for trauma, confusion, and spiritual vulnerability to take root.
+
+- So, we going to drop the book there. But that right there is, we open up portals to Satan. Basically, we open up portals to Satan.
+
+</div>
+
+<div class="reading">
+
+Reading from a page titled "Born into a Curse: Understanding Generational Bondage"  *[[1:39:41](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5981s)]*
+
+> Born into a curse: understanding generational bondage. Deuteronomy 28 verse 19 speaks of a curse that follows those who fail to walk in the ordinances of God: "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out." This language is not merely ancient or ceremonial. It is deeply relevant to the lives of those born into cycles of trauma, poverty, dysfunction, and broken family systems.
+
+> Curse: from a biblical and sociological perspective, a curse refers to a pattern of traumatic, oppressive, and destructive conditions that operate generationally, binding individuals to cycles of harm that were neither chosen nor deserved. These curses manifest as systemic injustice, family dysfunction, cycles of addiction, emotional neglect, and spiritual blindness. In our modern context, we are surrounded by unfair conditions that have been adopted as societal norms: mass fatherlessness, emotional illiteracy, cycles of abuse, poverty, and broken covenant. These are not accidents. They are the fruit of generational curses left unbroken.
+
+- You hear that? That's us. That's Deuteronomy the 28th chapter. Go back and read Deuteronomy 28 and you going to see trauma, trauma, trauma, trauma, trauma.
+
+</div>
+
 **[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[1:41:17](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6077s)]*
 
 > <sup>[65](/bible/deuteronomy/28#v65)</sup> And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
@@ -296,8 +635,22 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - And thy life shall hang in doubt before thee: you ever see your boss's number come up and your heart drops? No man should have that power over your life. That is stress; some of us still feel the phantom vibration of a work phone months after leaving the job.
 - In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear. Is that not us?
 - Illustration from the series Them: a family moves from North Carolina to California during the Great Migration after their baby son is killed, hoping for a better life, and the neighborhood terrorizes them; in the next generation the daughter's children end up in foster care, abused and separated, and the boy is destroyed by it. That is intergenerational trauma dramatized.
-- Reading: intergenerational trauma is the transmission of the psychological and physiological effects of trauma from one generation to the next; untreated trauma such as systemic oppression or abuse alters a family's environment, behaviors, or even gene expression, leaving descendants susceptible to anxiety, depression, and PTSD. You feel a certain way and do not know why; you are feeling your father's pain.
-- Epigenetics: traumatic experiences can cause chemical modifications to genes. They do not alter the DNA sequence itself, but they affect how genes are expressed, leaving descendants with a lowered baseline for regulating stress.
+
+<div class="reading">
+
+Reading from a definition of intergenerational trauma  *[[1:46:26](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6386s)]*
+
+> Intergenerational trauma, also called transgenerational or generational trauma, is the transmission of the psychological and physiological effects of trauma from one generation to the next.
+
+> It happens when untreated trauma, such as war, systemic oppression, or abuse, alters a family's environment, behaviors, or even gene expression, leaving descendants highly susceptible to anxiety, depression, and PTSD.
+
+- You feel a certain way and don't know why you feel. You feel your father's pain.
+
+> Understanding this phenomenon requires looking at how it passed down, how it manifests, and the steps that it can be taken to heal.
+
+> Epigenetics. Traumatic experiences can cause chemical modifications to genes. These changes do not alter the DNA sequence itself, but they affect how genes are expressed, leaving descendants with the lowered baseline for regulating stress.
+
+</div>
 
 **[Exodus 20:5](/bible/exodus/20#v5)**  *[[1:47:37](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6457s)]*
 
@@ -322,7 +675,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 >
 > <sup>[3](/bible/ezekiel/18#v3)</sup> As I live, saith the Lord God, ye shall not have occasion any more to use this proverb in Israel.
 
-- The fathers have eaten sour grapes, and the children's teeth are set on edge: the present generation punished for the offenses of their forefathers. Commentary read in class: the people were prone to plead their innocence, saying, I am this way because my father was this way.
+- The fathers have eaten sour grapes, and the children's teeth are set on edge.
 - As I live, saith the Lord God, ye shall not have occasion any more to use this proverb. The Lord is saying: I am not letting you use intergenerational trauma as your excuse.
 
   Precepts:
@@ -337,6 +690,16 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
     When the son hath done that which is lawful and right, and hath kept all my statutes, he shall surely live. The son shall not bear the iniquity of the father. Intergenerational trauma is real; but do you sit in it, or do you change? Just because our fathers were wicked, and our mothers did not know God's laws, that is not an excuse to stay in this. Recognize it and move on from it.
 
+<div class="reading">
+
+Reading from the Benson commentary, on Ezekiel 18:2  *[[1:50:35](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6635s)]*
+
+> The fathers have eaten sour grapes, and the children's teeth are set on edge. The present generation is punished for the offenses committed by their forefathers, particularly for the sins committed in the time of Manasseh, king of Judah. See 2 Kings 23:26, Jeremiah 15:4. The Jews were very prone to plead their innocence, however great their crimes were.
+
+- So, it's telling you that the Lord was saying that they were using the proverbs, saying, "Listen, I'm this way because my father was this way."
+
+</div>
+
 **[Matthew 9:11-13](/bible/matthew/9#v11)**  *[[1:53:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6800s)]*
 
 > <sup>[11](/bible/matthew/9#v11)</sup> And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
@@ -346,7 +709,16 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
 - They that be whole need not a physician, but they that are sick. I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance. Although we have been through traumatic experiences, the Lord says, I am still going to have mercy. That is every last one of us; Christ has given us a clean slate, so we cannot use what we have been through as an excuse anymore.
-- Reading on the brain's reward system: it is a network of structures that processes pleasure, motivation, and learning, releasing dopamine when we engage in vital behaviors so that we repeat them. This is why some people get addicted to sex, drugs, and overeating. We should be getting that reward from the fellowship and the work of the ministry; when you first come into the truth you are excited, but some fall numb and slide back into old ways. You have to change it.
+
+<div class="reading">
+
+Reading from a slide on the brain's reward system  *[[1:54:30](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6870s)]*
+
+> The brain's reward system is a network of structures that process pleasure, motivation, and associative learning. Designed to ensure survival, it releases dopamine when we engage in vital behaviors like eating or socializing, encouraging us to repeat them.
+
+- So when we do things that are pleasing to us, the dopamine secretes, and by that happening, we want to repeat the behavior, because we want to feel good again. This is why some people get addicted to sex, drugs, overeating, things of that nature. We should be addicted to the fellowship, to doing the work of the ministry, things of that nature. That's when we should have dopamine. Like right here, teaching a class, doing the work of the most high, that's when the dopamine should hit. We should be so excited. And guess what? When you first come in the truth, you're so excited, but you become numb. You fall back into a lot of your old ways. You have to change it.
+
+</div>
 
 **[Hebrews 11:24-25](/bible/hebrews/11#v24)**  *[[1:55:28](https://www.youtube.com/watch?v=sswMP7Skv-4&t=6928s)]*
 
@@ -363,7 +735,21 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
 
 - I had not known sin, but by the law: the only way you know you are in sin against God is by referring back to his laws. When you read God's laws you say, he said do not do this; I have to change that. This is how you get the brain right.
-- Sin, taking occasion by the commandment, wrought in me all manner of concupiscence. Definition read in class: concupiscence is an intense longing or desire, a disordered human inclination or tendency to sin, stemming from selfish, worldly, or carnal appetites. That is the sinful nature, the shapen in iniquity.
+- Sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
+
+<div class="reading">
+
+Reading from a definition of concupiscence  *[[1:57:37](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7057s)]*
+
+> Concupiscence is an intense, often sensuous longing or desire. In the theological and philosophical context, particularly in Christian traditions, it specifically refers to a fundamental, disordered human inclination or tendency to sin,
+
+- That's the sinful nature, the shapen in iniquity.
+
+> often stemming from selfish, worldly, or carnal appetites.
+
+- Selfish, worldly, or carnal appetites. So concupiscence is that inclination to sin. Now watch this. We could change that.
+
+</div>
 
 **[Ecclesiasticus 23:16-17](/bible/sirach/23#v16)**  *[[1:58:16](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7096s)]*
 
@@ -378,7 +764,16 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[13](/bible/hebrews/3#v13)</sup> But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
 
 - Exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. You get hardened because you have been in the sin so long you start to think that is the only way. No: God's laws are the way.
-- Psychological note read from the book: the concept of emotional triggers as conditioned responses was advanced by trauma researchers including Peter Levine (Waking the Tiger, 1997), who described how the nervous system stores unresolved traumatic experiences and reactivates them in response to environmental cues.
+
+<div class="reading">
+
+Reading from a psychological note, its source not named ("I ain't going to tell you where it's from yet")  *[[2:00:42](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7242s)]*
+
+> The psychological note. The concept of emotional triggers as conditioned responses was advanced by trauma researchers including Peter Levine, in 1997, in *Waking the Tiger*, who described how the nervous system stores unresolved traumatic experiences and reactivates them in response to environmental cues.
+
+- This is why the Bible says... Notice it says the nervous system stores unresolved traumatic experiences and reactivates them in response to environmental cues.
+
+</div>
 
 **[Ecclesiasticus 27:12](/bible/sirach/27#v12)**  *[[2:01:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7280s)]*
 
@@ -393,15 +788,42 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 - The righteous is more excellent than his neighbour: but the way of the wicked seduceth them. It is impossible to sit among people who put you through traumatic experiences, or who remind you of the old life of drugs and drunkenness, and stay whole; those environmental cues reactivate what is stored. You have to separate yourself.
 - Some of you love your mama so much that you will sit at her house and hear her speak evil of what you believe, of your husband, of your lifestyle, and just take it, not knowing it is triggering and reactivating what you have been through. Around her you feel like that little child again who cannot say anything, and you will suppress the gospel to seek love. If they do not respect your beliefs, love them from a distance; do not keep bringing yourself back to that old place and hindering your walk in this truth.
 
+<div class="reading">
+
+Reading from a definition of neuroplasticity  *[[2:03:42](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7422s)]*
+
+> Neuroplasticity, or brain plasticity, is the brain's lifelong ability to reorganize itself.
+
+- Notice what it says. The brain's what? Lifelong ability to do what? To reorganize itself. You can reorganize your brain.
+
+> It works by forming new neural connections and rewiring existing ones in response to learning new experiences or injury. Simply put, your brain isn't hardwired. It constantly molds and adapts throughout your life.
+
+- They say it constantly molds and adapts throughout your life. So if you say, "I'mma keep God's commandments," you can retrain your mind and body to start keeping God's laws. You cannot let your traumatic experiences continue to shape your existence. Your identity was formed in a false self, a persona. Let it go. Let it go.
+
+</div>
+
+<div class="reading">
+
+Reading from a note on the psychological concept of neuroplasticity  *[[2:04:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7479s)]*
+
+> The psychological concept. Neuroscience refers to this as neuroplasticity: the brain's ability to reorganize itself by forming new neural connections based on experience and repeated behavior.
+
+> This concept, validated through the work of neuroscientists including Michael Merzenich, and explored further by Norman Doidge in 2007 in *The Brain That Changes Itself*,
+
+- See, they wrote a book called The Brain That Changes Itself.
+
+> demonstrates that the brain is not static. It can be rewired through intentional and consistent thought patterns.
+
+</div>
+
 **[Romans 12:1-2](/bible/romans/12#v1)**  *[[2:05:24](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7524s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 >
 > <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
-- Definition read in class: neuroplasticity is the brain's lifelong ability to reorganize itself, forming new neural connections and rewiring existing ones in response to learning, new experiences, or injury. Your brain is not hardwired; it constantly molds and adapts throughout your life. The concept was validated by neuroscientists including Michael Merzenich and explored by Norman Doidge in The Brain That Changes Itself (2007): the brain can be rewired through intentional, consistent thought patterns.
 - Wait a minute. Be not conformed to this world: but be ye transformed by the renewing of your mind. This is the Apostle Paul, roughly 1,900 years before there was ever a term called neuroplasticity. Our forefathers told you that you can change your mind.
-- So who is going to tell you that you cannot change, when God says you can? You are an Israelite; God gave you the commandments and sent his Son to die for you. You cannot let your traumatic experiences continue to shape your existence. Your identity was formed in a false self, a persona: let it go.
+- So who is going to tell you that you cannot change, when God says you can? You are an Israelite; God gave you the commandments and sent his Son to die for you.
 - Stop saying you cannot lose the weight, you cannot get in shape, you cannot stop the sin. You can do it, thus saith the Lord. And Esau knows you can change; that is why he tells our people and our children, you cannot do it, that the sciences and law and medicine are not for you. They are for the Israelites, because our forefathers held this knowledge first.
 
 **[Ephesians 3:16-19](/bible/ephesians/3#v16)**  *[[2:07:41](https://www.youtube.com/watch?v=sswMP7Skv-4&t=7661s)]*
@@ -487,7 +909,56 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 
 - Give not over thy mind to heaviness, and afflict not thyself in thine own counsel: stop overthinking. As Deacon Lahab, a psychologist, put it plainly years ago: you have to tell self to be quiet. When you keep talking to yourself from a place of trauma, you are convincing yourself that the way you have been living is okay. Convince yourself instead that God is right and you were wrong.
 - The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days. Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein. Sirach is speaking in what today they would call medical terms.
-- Book excerpt read (from a forthcoming volume), on the immune system and grief: research in psychoneuroimmunology, the study of how the mind, nervous system, and immune system interact, shows that chronic stress and grief measurably impact immune functioning. In a prolonged stress state, natural killer cell activity decreases and inflammatory markers increase, contributing to pain, fatigue, and vulnerability to infection. This is one reason some people get physically sick after losing a loved one: their body is not weak; it is overwhelmed, taxed by the emotional weight it is carrying. Foundational research by Irwin and colleagues (1987) documented reduced lymphocyte activity among bereaved individuals; untreated grief carries measurable physiological risk.
+
+<div class="reading">
+
+Reading from an excerpt from a book not yet out ("This book is not out right now"), on the immune system and grief  *[[2:18:15](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8295s)]*
+
+> The immune system and grief. Research in the field of psychoneuroimmunology, the study of how the mind, nervous system, and immune system interact,
+
+- How they all work together.
+
+> has shown that chronic stress and grief can measurably impact immune system functioning.
+
+- Wait a minute. They know you'll get sick if you do not overcome your grief.
+
+> When the body remains in a prolonged stress state, immune responses may become weakened or dysregulated. Natural killer cell activity, which helps the body fight illness, can decrease. Inflammatory markers can increase, contributing to physical pain, fatigue, and vulnerability to infection.
+
+- That's immune system. Your immune system becomes broken.
+
+> This is one reason some people report getting physically sick after losing a loved one.
+
+- I got to vomit. Somebody died. I got to vomit. You say, "Well, what's wrong with you?" I lost my mother. I lost my brother. I lost my uncle. I lost somebody close to me. That's that immediate grief that you feel.
+
+> Their body is not weak. Their body is overwhelmed. The immune system, like every other system in the body, is being taxed by the emotional weight it is carrying.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of psychosomatic illness  *[[2:20:42](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8442s)]*
+
+> A psychosomatic illness or disorder is a very real physical condition that is caused or significantly worsened by mental factors like chronic stress, anxiety, or emotional trauma.
+
+> It is not imaginary or all in your head. Rather, it reflects the deep biological connection between your brain and your body.
+
+- It's all one. Your brain and your body is all one. It's connected. Your central nervous system is connected to the peripheral nervous system, which sends all of those information to your nerves. And if you are not in the right mind space, if you are not right with the Lord, these things like psychosomatic illnesses or disorders can affect your physical condition, and it is caused or significantly worsened by mental factors.
+
+- So what the bishop just brought out is on point. Sirach 30 and 23 told us that in ancient times; we just got these terminologies now.
+
+</div>
+
+<div class="reading">
+
+Reading from the same book excerpt, its psychological note  *[[2:21:55](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8515s)]*
+
+> In their foundational research, Irwin, Daniels and Winer, 1987, demonstrated significant reductions in lymphocyte activity among bereaved individuals compared to non-bereaved controls.
+
+> Subsequent studies by Kim and … further documented how psychological stresses, including grief, … profiles and compromised immunocompetence, suggesting that untreated grief carries measurable physiological risk.
+
+- So, suggesting untreated grief carries measurable physiological risk.
+
+</div>
 
 **[Ecclesiasticus 38:17-21](/bible/sirach/38#v17)**  *[[2:22:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8559s)]*
 
@@ -502,7 +973,7 @@ Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last
 > <sup>[21](/bible/sirach/38#v21)</sup> Forget it not, for there is no turning again: thou shalt not do him good, but hurt thyself.
 
 - Weep bitterly, and make great moan, and use lamentation, as he is worthy, and that a day or two, lest thou be evil spoken of: and then comfort thyself for thy heaviness. The scripture gives you a time period for grief.
-- For of heaviness cometh death, and the heaviness of the heart breaketh strength. The psychosomatic illnesses come from the heaviness; a psychosomatic disorder is a very real physical condition caused or significantly worsened by mental factors like chronic stress, anxiety, or emotional trauma. It is not imaginary; it reflects the deep biological connection between your brain and your body. Sirach 30 told us that in ancient times; we just got the terminology now.
+- For of heaviness cometh death, and the heaviness of the heart breaketh strength. Psychosomatic illnesses and disorders come from the heaviness.
 - Take no heaviness to heart: drive it away. There is no turning again: thou shalt not do him good, but hurt thyself. You will not do the person that died any good. A lot of our illnesses are self inflicted, because we do not believe God's word and do not allow it to work in our life.
 
 **[Hebrews 11:6](/bible/hebrews/11#v6)**  *[[2:24:20](https://www.youtube.com/watch?v=sswMP7Skv-4&t=8660s)]*
