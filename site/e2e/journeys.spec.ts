@@ -42,7 +42,7 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
   const toggle = header.getByRole("button", { name: "Menu", exact: true });
   const width = page.viewportSize()!.width;
   const groups: Record<string, string[]> = {
-    Teaching: ["Sabbath Classes", "The Truth Shall Make You Free", "15 Min w/Captains", "Our Hidden History", "4 Chapters a Day"],
+    Teaching: ["Sabbath Classes", "The Truth Shall Make You Free", "15 Min w/Captains", "Our Hidden History", "Shows & Series", "4 Chapters a Day"],
     Law: ["The Law", "Precepts", "Case Studies"],
     Reference: ["Glossary", "Concordance", "Encyclopedia", "Topics", "About"],
   };
@@ -89,7 +89,8 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
 test("combined class filters survive reload and clear", async ({ page, request }) => {
   const response = await request.get("https://data.cyberjudah.io/search/classes.json");
   expect(response.ok()).toBeTruthy();
-  const rows: FeedRow[] = await response.json();
+  // Notes of the shows (a collection) are listed in their own sections, not with the Sabbath classes.
+  const rows: FeedRow[] = (await response.json() as FeedRow[]).filter((row) => !row.collection);
   const sample = rows.find((row) => (row.allBooks ?? row.books).length > 0)!;
   expect(sample).toBeTruthy();
   await page.goto("/classes");

@@ -29,6 +29,7 @@ import { fetchBoard, findVisuals, placeFrames } from "./frames.mjs";
 import { teachingDate } from "./timeline.mjs";
 import { strongsPages } from "./strongs-pages.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
+import { loadShows, showOf } from "./shows.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -49,6 +50,12 @@ const SEARCH = path.join(OUT, "search");
 
 const L = loadLibrary(ROOT);
 const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbook, sectionUrl, partUrl, sortedPrecepts, preceptUrl, cases, ERAS, caseUrl, isBlessing, notes, classNotes, captainNotes, cited, uniqueCitations, linked, moments, commentary } = L;
+
+// A note of one of the shows (data/shows.json) carries the show's name as its collection, read
+// from its title unless its frontmatter names one, so it is shown as that show and not as a
+// Sabbath class or a 15 Minutes episode.
+const SHOWS = loadShows(ROOT);
+for (const n of [...classNotes, ...captainNotes]) if (!n.collection) n.collection = showOf(SHOWS, n.title)?.name ?? "";
 
 /* ---------------- people (STEPBible TIPNR, CC BY 4.0) ---------------- */
 // Who is named in each verse, and a page per person: names, family, every verse, and what the
@@ -525,6 +532,34 @@ const historyRows = L.history.filter((h) => h.noted).map((h) => ({ slug: h.slug,
 writeJson(path.join(API, "history", "index.json"), historyRows);
 console.error(`history: ${historyRows.length} episodes written up, ${L.history.length - historyRows.length} transcripts in the backlog`);
 
+/* ---------------- api: the shows ---------------- */
+// One row per show or series in data/shows.json, for the Shows sections of the site and the app:
+// what it is, how many notes it has, and how many of its recordings are transcribed (the backlog
+// its notes are written from; only the count is published). The three shows that already had a
+// section before this index keep it (`page`).
+{
+  const transcribed = new Map(); // video -> title, every transcribed class and captains recording
+  for (const dir of ["blog", "captains"]) {
+    const meta = path.join(ROOT, dir, "channel-meta.tsv");
+    if (!fs.existsSync(meta)) continue;
+    for (const line of fs.readFileSync(meta, "utf8").split("\n")) {
+      const [video, , , title] = line.split("\t");
+      if (video && title && !transcribed.has(video) && fs.existsSync(path.join(ROOT, dir, "transcripts", `${video}.json`))) transcribed.set(video, title);
+    }
+  }
+  const recordings = new Map();
+  for (const title of transcribed.values()) { const s = showOf(SHOWS, title); if (s) recordings.set(s.slug, (recordings.get(s.slug) ?? 0) + 1); }
+  const noted = new Map();
+  // A show's episodes on another station carry its name and the station ("… · Kente FM Radio").
+  const showNamed = (c) => SHOWS.find((s) => c === s.name || c.startsWith(`${s.name} · `))?.name ?? c;
+  for (const n of [...classNotes, ...captainNotes]) if (n.collection) { const c = showNamed(n.collection); noted.set(c, (noted.get(c) ?? 0) + 1); }
+  const notesOf = (s) => s.slug === "our-hidden-history" ? historyRows.length : s.slug === "15-minutes-with-the-captains" ? captainNotes.filter((n) => !n.collection).length : noted.get(s.name) ?? 0;
+  writeJson(path.join(API, "shows", "index.json"), {
+    shows: SHOWS.map(({ res, ...s }) => ({ ...s, url: s.page ?? `/shows/${s.slug}`, notes: notesOf(s), recordings: s.match.length && !s.page ? recordings.get(s.slug) ?? 0 : null })),
+  });
+  console.error(`shows: ${SHOWS.length} shows and series, ${[...noted.values()].reduce((a, b) => a + b, 0)} notes filed under one`);
+}
+
 /* ---------------- api: cross references, WEB parallel ---------------- */
 for (const [file, dir] of [["crossrefs.json", "xref"], ["web-translation.json", "web"]]) {
   const p = path.join(L.DATA, file);
@@ -710,7 +745,7 @@ writeJson(path.join(API, "index.json"), {
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
   concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
-  history: "/api/history/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
+  history: "/api/history/index.json", shows: "/api/shows/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },

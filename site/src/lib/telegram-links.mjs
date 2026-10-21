@@ -13,7 +13,7 @@
 
 const SECTIONS = new Set([
   "about", "api", "bible", "captains", "cases", "classes", "concordance", "dictionary", "downloads",
-  "encyclopedia", "history", "law", "precepts", "search", "study", "teachings", "topics", "truth-shall-make-you-free",
+  "encyclopedia", "history", "law", "precepts", "search", "shows", "study", "teachings", "topics", "truth-shall-make-you-free",
 ]);
 
 const SAFE = /^[A-Za-z0-9_-]{1,512}$/;

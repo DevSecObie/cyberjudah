@@ -6,7 +6,8 @@ import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/captains/")({
   validateSearch: validateBrowse,
-  loader: async () => { const [rows, topics] = await Promise.all([api.captains(), api.topicLabels()]); return { rows, topics }; },
+  // The captains' other series (their collection) are listed in their own sections.
+  loader: async () => { const [rows, topics] = await Promise.all([api.captains(), api.topicLabels()]); return { rows: rows.filter((r) => !r.collection), topics }; },
   head: ({ match }) => pageHead([{ title: "15 Min w/Captains · CyberJudah" }, { name: "description", content: "15 Minutes w/ The Captains: short teachings, one subject at a time. Browse by topic, book, teacher or year." }], match),
   component: Captains,
 });
